@@ -73,6 +73,23 @@ restart-later = Titikirisäx pa jun Mej
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> tasamajij re runuk'ulem re'.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> tasamajij re runuk'ulem re'.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -98,6 +115,9 @@ is-not-default = { -brand-short-name } man ja ta ri awokik'amaya'l kan k'o wi
 set-as-my-default-browser =
     .label = Tib'an chi K'o wi…
     .accesskey = K
+startup-restore-windows-and-tabs =
+    .label = Kejaq taq tzuwäch chuqa' taq ruwi' xe'ik'o yan
+    .accesskey = k
 startup-restore-warn-on-quit =
     .label = Tiya' rutzijol toq yatel pa okik'amaya'l
 disable-extension =
@@ -126,6 +146,10 @@ browser-containers-settings =
     .label = Taq nuk'ulem…
     .accesskey = l
 containers-disable-alert-title = ¿La yetz'apïx konojel ri kik'ojlib'al taq ruwi'?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] We ye'achüp ri ruk'ojlib'al taq ruwi' wakami, { $tabCount } ruk'ojlib'al ruwi' xtitz'apïx. ¿La kan nawajo' ye'achüp ruk'ojlib'al taq ruwi'?
@@ -136,10 +160,13 @@ containers-disable-alert-ok-button =
         [one] Titz'apïx { $tabCount } ruk'ojlib'al ruwi'
        *[other] Ketz'apïx { $tabCount } ruk'ojlib'al taq ruwi'
     }
+
+##
+
 containers-disable-alert-cancel-button = Junelïk titzije'
 containers-remove-alert-title = ¿La niyuj el re k'wayöl re'?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] We nayüj el re Ruk'wayöl re' wakami, { $count } ruk'wayöl ruwi' xtitz'apïx. ¿La kan nawajo' ye'ayüj re k'wayöl re'?
@@ -151,6 +178,26 @@ containers-remove-cancel-button = Man tiyuj el re k'wayöl re'
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Ch'ab'äl chuqa' Rutzub'al
+preferences-web-appearance-choice-browser = { -brand-short-name } wachinel
+preferences-web-appearance-choice-system = Ruwachinel q'inoj
+preferences-web-appearance-choice-auto = Yonil
+preferences-web-appearance-choice-light = Yuk'unel
+preferences-web-appearance-choice-dark = Q'equ'm
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = Taq b'onil
+preferences-colors-manage-button =
+    .label = Kenuk'samajïx taq B'onil…
+    .accesskey = B
+preferences-fonts-header = Ruwäch tz'ib'
 default-font = Ruwäch tzij kan k'o wi
     .accesskey = k
 default-font-size = Nimilem
@@ -162,6 +209,8 @@ advanced-fonts =
 preferences-zoom-header = Sum
 preferences-default-zoom = Sum k'o wi
     .accesskey = S
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -254,15 +303,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Junelïk tik'utüx pe
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Tokisäx { $plugin-name } (pa { -brand-short-name })
 applications-open-inapp =
@@ -291,6 +340,12 @@ applications-use-os-default-label =
 
 ##
 
+applications-save-for-new-types =
+    .label = Tiyak yakb'äl
+    .accesskey = y
+applications-ask-before-handling =
+    .label = Tik'utüx we yejaq o yeyak taq yakb'äl
+    .accesskey = k
 drm-content-header = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 play-drm-content =
     .label = Titzij DRM-chajin rupam
@@ -298,6 +353,8 @@ play-drm-content =
 play-drm-content-learn-more = Tetamäx ch'aqa' chik
 update-application-title = { -brand-short-name } Taq k'exoj ruwäch
 update-application-description = Junelïk tik'ex ri { -brand-short-name } richin ütz nisamäj, jikïl, chuqa' jikon.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Ruwäch { $version } <a data-l10n-name="learn-more">Achike natzijoj</a>
 update-history =
     .label = Tik'ut pe ri runatab'al K'exoj ruwäch…
@@ -321,7 +378,7 @@ update-application-use-service =
     .accesskey = r
 update-setting-write-failure-title2 = Xsach toq xyak ri Ruk'exoj taq runuk'ulem
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -351,7 +408,7 @@ performance-limit-content-process-option = ruchi' rutajinik rupam
 performance-limit-content-process-enabled-desc = Ri taq ruxenab'al rutz'aqat rupam yetikïr nikutzilaj rub'eyal nisamäj toq nrokisaj k'ïy taq ruwi', xa chuqa' xtrokisaj k'ïy rutzatzq'ob'al.
 performance-limit-content-process-blocked-desc = Ri rujalwachinik rajilab'al rutajinik rupam xa okel rik'in ri k'ïy tajinïk { -brand-short-name }. <a data-l10n-name="learn-more">Tawetamaj nanik'oj we tzijïl ri k'ïy tajinïk</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ruk'amon wi pe)
 
@@ -414,6 +471,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox Tikirib'äl (K'o wi)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (K'o wi)
 home-mode-choice-custom =
     .label = Ichinan URLs...
 home-mode-choice-blank =
@@ -439,6 +498,8 @@ choose-bookmark =
 
 home-prefs-content-header = Etamab'äl pa ri Rutikirib'al Firefox
 home-prefs-content-description = Tacha' achike etamab'äl nawajo' pa ri Rutikirib'al Firefox ruwäch.
+home-prefs-content-header2 = Rupam { -firefox-home-brand-name }
+home-prefs-content-description2 = Tacha' achike etamab'äl nawajo' pa ruwäch { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Ajk'amaya'l Kanoxïk
 home-prefs-shortcuts-header =
@@ -450,6 +511,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Chilab'en ruma { $provider }
 home-prefs-recommended-by-description-new = Cha'on rupam cha'on ruma { $provider }, rach'ala'ïl { -brand-product-name }
@@ -459,6 +524,8 @@ home-prefs-recommended-by-description-new = Cha'on rupam cha'on ruma { $provider
 home-prefs-recommended-by-learn-more = Achike rub'eyal nisamäj
 home-prefs-recommended-by-option-sponsored-stories =
     .label = To'on taq B'anob'äl
+home-prefs-recommended-by-option-recent-saves =
+    .label = Kek'ut k'ab'a' eyakon
 home-prefs-highlights-option-visited-pages =
     .label = Taq Ruxaq Etz'eton
 home-prefs-highlights-options-bookmarks =
@@ -477,6 +544,8 @@ home-prefs-recent-activity-description = Jun cha'on taq ruxaq chuqa' k'ak'a' rup
 home-prefs-snippets-header =
     .label = Taq pir
 home-prefs-snippets-description-new = Taq runa'oj chuqa' taq rutzijol { -vendor-short-name } chuqa' { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -536,7 +605,7 @@ search-find-more-link = Kekanöx ch'aqa' chik kik'u'x taq kanob'äl
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kamulun ewan tzij
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Xacha' jun ewan tzij ri tajin nokisäx ruma “{ $name }”. Tacha' jun chik.
 search-keyword-warning-bookmark = Xacha' jun ewan tzij okisan ruma jun yaketal. Tacha' jun chik.
 
@@ -583,8 +652,15 @@ sync-sign-out =
     .accesskey = p
 sync-manage-account = Tinuk'samajïx rub'i' taqoya'l
     .accesskey = y
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } man jikib'an ta.
 sync-signedin-login-failure = Tatikirisaj molojri'ïl richin yatok chik { $email }
+
+##
+
 sync-resend-verification =
     .label = Titaq chik Jikib'anïk
     .accesskey = q
@@ -707,6 +783,7 @@ forms-breach-alerts =
     .label = Kek'ut pe rutzijol taq k'ayewal chi kij ewan taq tzij kichin tz'ilan ajk'amaya'l ruxaq.
     .accesskey = n
 forms-breach-alerts-learn-more-link = Tetamäx ch'aqa' chik
+relay-integration-learn-more-link = Tetamäx ch'aqa' chik
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Ruyonil ketz'aqatisäx ri tikirib'äl molojri'ïl chuqa' ewan taq tzij
@@ -794,8 +871,8 @@ history-clear-button =
 sitedata-header = Taq Kuki chuqa' Rutzij Ruxaq
 sitedata-total-size-calculating = Tajin nipaj kinimilem taq rutzij chuqa' rujumejyak ruxaq k'amaya'l…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ri yakon taq kaxlanwey, rutzij ruxaq chuqa' ri rutzatzq'or taq jumejyak nikokisaj { $value } { $unit } chi re ri rupam nimayakb'äl.
 sitedata-learn-more = Tetamäx ch'aqa' chik
 sitedata-delete-on-close =
@@ -814,10 +891,14 @@ sitedata-block-desc = Q'aton ruwäch
     .accesskey = r
 sitedata-option-block-cross-site-trackers =
     .label = Kojqanela' xoch'in taq ruxaq
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = kikuki kojqanik xoch'in taq ruxaq
 sitedata-option-block-unvisited =
     .label = Taq kuki man etz'eton ta ajkamaya'l taq ruxaq
 sitedata-option-block-all-third-party =
     .label = Konojel ri taq kikuki aj rox winäq (yetikïr yetz'ilon pan ajk'amaya'l ruxaq)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Ronojel rukuki xoch'in ruxaq (yetikïr nikiya' sachoj pa taq ajk'amaya'l ruxaq)
 sitedata-option-block-all =
     .label = Konojel ri taq kuki (xketz'ilon pa ri ajk'amaya'l ruxaq)
 sitedata-clear =
@@ -853,7 +934,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Rusamajel taq kanob'äl
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Anin taq b'anoj
+    .accesskey = A
 addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik kisamajinel taq kanob'äl
+addressbar-quickactions-learn-more = Tetamäx ch'aqa' chik
 
 ## Privacy Section - Content Blocking
 
@@ -884,6 +969,7 @@ content-blocking-etp-custom-desc = Ke'acha' achike taq ojqanela' chuqa' kiskrip 
 content-blocking-etp-blocking-desc = { -brand-short-name } yeruq'ät re':
 content-blocking-private-windows = Kichajinik taq rupam pan Ichinan taq Tzuwäch
 content-blocking-cross-site-cookies-in-all-windows = Kicookie q'eb'an ruxaq k'amaya'l pa ronojel tzuwäch (ruk'wan ojqanel taq cookie)
+content-blocking-cross-site-cookies-in-all-windows2 = Taq kikuki xoch'in pan ronojel tzuwäch
 content-blocking-cross-site-tracking-cookies = kikuki kojqanik xoch'in taq ruxaq
 content-blocking-all-cross-site-cookies-private-windows = Taq kicookie q'eb'an taq ruxaq k'amaya'l pan Ichinan taq Tzuwäch
 content-blocking-cross-site-tracking-cookies-plus-isolate = Taq kikuki kojqanem xoch'in taq ruxaq chuqa' kijech'unik ri ch'aqa' chik taq kuki
@@ -892,8 +978,12 @@ content-blocking-all-cookies = Ronojel taq kuki
 content-blocking-unvisited-cookies = Taq kikuki ruxaq k'amaya'l man e tz'eton ta
 content-blocking-all-windows-tracking-content = Rojqaxik rupam pa ronojel tzuwäch
 content-blocking-all-third-party-cookies = Ronojel kikuki aj rox winäq
+content-blocking-all-cross-site-cookies = Ronojel Kikuki xoch'in taq ruxaq
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = ¡Tak'axäx!
 content-blocking-and-isolating-etp-warning-description-2 = Re nuk'ulem re' nitikïr nub'än chi jujun ajk'amaya'l taq ruxaq man nikik'üt ta pe ri rupam o man ütz ta yesamäj jun ruxaq achi'el qupin, rik'in jub'a' nawajo' nachüp ri chajinïk chuwäch ojqanem richin nusamajij ronojel ri rupam.
 content-blocking-warning-learn-how = Tetamäx achike rub'eyal
