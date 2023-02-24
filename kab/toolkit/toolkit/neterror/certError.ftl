@@ -80,6 +80,8 @@ dnsNotFound-title = Hmm. Nesɛa uguren akken ad naf asmel.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Yezmer ad yili umihi n tɣellist i { $hostname }.
 # Variables:
+dns-not-found-trr-only-title2 = Yezmer ad yili wugur n tɣellist lawan n uṣeggem n taɣult-a
+# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Yezmer ad yili umihi n tɣellist i { $hostname }.
 fileNotFound-title = Ulac afaylu
