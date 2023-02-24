@@ -27,9 +27,17 @@ about-logging-set-log-file = Tijikib'äx nitz'ib'äx yakb'äl
 about-logging-set-log-modules = Tijikib'äx Yetz'ib'äx taq Juperaj
 about-logging-start-logging = Titikirisäx tajin nitz'ib'äx
 about-logging-stop-logging = Titanab'äx tajin nitz'ib'äx
+about-logging-info = Rutzijol:
+about-logging-no-log-modules = Majun
+about-logging-no-log-file = Majun
 
 ## Logging presets
 
+about-logging-preset-networking-label = K'amab'ey
+about-logging-preset-media-playback-label = Rutzijik k'ïy k'oxom
+about-logging-preset-custom-label = Ichinan
+# Error handling
+about-logging-error = Sachoj:
 
 ## Variables:
 ##   $k (String) - Variable name

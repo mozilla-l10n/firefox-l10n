@@ -8,6 +8,7 @@ about-networking-sockets = Chuq'b'äl
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Tijosq'ïx DNS Jumejyak
 about-networking-dns-trr-url = DoH URL
+about-networking-dns-trr-mode = Rub'anikil DoH
 about-networking-dns-suffix = DNS rij tzij
 about-networking-websockets = WebSockets
 about-networking-refresh = Titzolïx
