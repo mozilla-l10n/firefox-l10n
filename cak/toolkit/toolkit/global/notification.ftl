@@ -13,6 +13,6 @@ close-button-label =
 # and shown when hovering over the button
 notification-close-button =
     .aria-label = Titz'apïx
-    .title = { "" }
+    .title = Titz'apïx
 close-notification-message =
     .tooltiptext = Titz'apïx re rutzijol taqoj re'
