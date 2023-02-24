@@ -7,6 +7,9 @@ about-logins-page-title = Zugangsdaten und Passwörter
 login-filter =
     .placeholder = Zugangsdaten durchsuchen
 create-login-button = Zugangsdaten hinzufügen
+about-logins-login-filter =
+    .placeholder = Zugangsdaten durchsuchen
+    .key = F
 create-new-login-button =
     .title = Neue Zugangsdaten erstellen
 fxaccounts-sign-in-text = Nutzen Sie Ihre Passwörter auf anderen Geräten
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Hilfe
 
 login-list =
     .aria-label = Mit Suche übereinstimmende Zugangsdaten
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } Zugangsdaten
@@ -106,6 +111,8 @@ login-item-time-used = Zuletzt verwendet: { DATETIME($timeUsed, day: "numeric", 
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Erstellt
 login-item-timeline-action-updated = Aktualisiert
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Diese Zugangsdaten entfernen?
 confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
 about-logins-confirm-remove-dialog-confirm-button = Entfernen
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Entfernen
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
        *[other] Dadurch werden alle Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Zugangsdaten und Passwörter exportieren
 about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z.B. P@ssw0rt). Dadurch hat jede Person, welche die exportierte Datei öffnen kann, Zugriff auf das unverschlüsselte Passwort.
 about-logins-confirm-export-dialog-confirm-button = Exportieren…
