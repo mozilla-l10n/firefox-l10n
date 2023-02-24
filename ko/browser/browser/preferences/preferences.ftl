@@ -73,6 +73,17 @@ restart-later = 나중에 다시 시작
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능이 이 설정을 제어합니다.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,12 +166,19 @@ browser-containers-settings =
     .label = 설정…
     .accesskey = i
 containers-disable-alert-title = 모든 컨테이너 탭을 닫으시겠습니까?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc = 지금 컨테이너 탭을 비활성화하면 { $tabCount }개의 컨테이너 탭이 닫히게 됩니다. 컨테이너 탭을 비활성화하시겠습니까?
 containers-disable-alert-ok-button = 컨테이너 탭 { $tabCount }개 닫기
+
+##
+
 containers-disable-alert-cancel-button = 활성화 하기
 containers-remove-alert-title = 이 컨테이너를 삭제하시겠습니까?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg = 이 컨테이너를 삭제하면 { $count } 컨테이너 탭이 닫힙니다. 이 컨테이너를 정말로 삭제하시겠습니까?
 containers-remove-ok-button = 이 컨테이너 삭제
 containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
@@ -218,6 +236,8 @@ advanced-fonts =
 preferences-zoom-header = 확대/축소
 preferences-default-zoom = 기본 확대/축소
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -310,15 +330,15 @@ applications-manage-app =
 applications-always-ask =
     .label = 항상 묻기
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } 사용 ({ -brand-short-name })
 applications-open-inapp =
@@ -361,6 +381,8 @@ play-drm-content =
 play-drm-content-learn-more = 더 알아보기
 update-application-title = { -brand-short-name } 업데이트
 update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지합니다.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = 버전 { $version } <a data-l10n-name="learn-more">새 기능</a>
 update-history =
     .label = 업데이트 기록 보기…
@@ -387,7 +409,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = 업데이트 설정 저장 중 오류 발생
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -417,7 +439,7 @@ performance-limit-content-process-option = 콘텐츠 프로세스 제한
 performance-limit-content-process-enabled-desc = 추가 콘텐츠 프로세스는 여러 탭을 사용할 때 성능을 향상시킬 수 있지만 더 많은 메모리를 사용합니다.
 performance-limit-content-process-blocked-desc = 콘텐츠 프로세스 갯수 변경은 다중 프로세스 { -brand-short-name }에서만 가능합니다. <a data-l10n-name="learn-more">다중 프로세스가 활성화되었는지 확인하는 방법</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (기본값)
 
@@ -434,8 +456,8 @@ browsing-gtk-use-non-overlay-scrollbars =
     .label = 항상 스크롤 막대 표시
     .accesskey = o
 browsing-use-onscreen-keyboard =
-    .label = 필요하면 터치 키보드 보여주기
-    .accesskey = k
+    .label = 필요한 경우 터치 키보드 표시
+    .accesskey = c
 browsing-use-cursor-navigation =
     .label = 커서 키를 항상 페이지 내에서 사용
     .accesskey = c
@@ -523,6 +545,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } 추천
 home-prefs-recommended-by-description-new = { -brand-product-name } 제품군의 일부인 { $provider }에서 선별한 뛰어난 콘텐츠
@@ -552,6 +578,8 @@ home-prefs-recent-activity-description = 최근 사이트 및 콘텐츠 선택
 home-prefs-snippets-header =
     .label = 짧은 소식
 home-prefs-snippets-description-new = { -vendor-short-name }와 { -brand-product-name }의 팁 및 뉴스
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label = { $num } 행
 
@@ -612,7 +640,7 @@ search-find-more-link = 더 많은 검색 엔진 찾기
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 키워드 복사
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = "{ $name }"에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하세요.
 search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하세요.
 
@@ -659,8 +687,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = 계정 관리
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } 은 아직 인증되지 않았습니다.
 sync-signedin-login-failure = { $email }으로 다시 연결하려면 로그인하세요
+
+##
+
 sync-resend-verification =
     .label = 인증 메일 다시 보내기
     .accesskey = d
@@ -874,8 +909,8 @@ history-clear-button =
 sitedata-header = 쿠키 및 사이트 데이터
 sitedata-total-size-calculating = 사이트 데이터와 캐시 크기 계산 중…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 현재 저장된 쿠키, 사이트 데이터 및 캐시가 { $value } { $unit }의 디스크를 사용하고 있습니다.
 sitedata-learn-more = 더 알아보기
 sitedata-delete-on-close =
