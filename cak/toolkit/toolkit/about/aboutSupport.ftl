@@ -4,7 +4,6 @@
 
 page-title = Etamab'äl richin yesol taq k'ayewal
 page-subtitle =   Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij { -brand-short-name }, kab'etz'eton pa qa <a data-l10n-name="support-link">ruxaq k'amaya'l richin to'ïk</a>.
-
 crashes-title = Rutzijol taq sachoj
 crashes-id = Nimaläj rub'i' ri rutzijol
 crashes-send-date = Taqon
@@ -55,12 +54,14 @@ app-basics-enabled-plugins = Tzijon taq nak'ab'äl
 app-basics-build-config = Runuk'ulem Molïk
 app-basics-user-agent = Rub'anel ri winäq
 app-basics-os = OS
+app-basics-os-theme = Ruwachinel Samajel Q'inoj
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Xtzalq'omïx Rosetta
 app-basics-memory-use = Rokisaxik rupam rujolom
 app-basics-performance = Rub'eyal nisamäj
 app-basics-service-workers = Samajela' pa samaj tz'ib'an kib'i'
+app-basics-third-party = Kiperaj aj rox Winäq
 app-basics-profiles = Taq ruwäch b'i'aj
 app-basics-launcher-process-status = Rub'anik K'aqonel
 app-basics-multi-process-support = Rutzuwach k'ïy tajin
@@ -71,7 +72,10 @@ app-basics-location-service-key-google = Google K'ojlib'äl Ewan Rutzij Samaj
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla k'ojlib'äl ewan rutzij samaj
 app-basics-safe-mode = Ütz rub'anikil
-
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Tik'ut pe pan ilonel
@@ -106,6 +110,13 @@ graphics-window-protocol = Rub'eyal Tzuwäch
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Ruk'ojlib'al Ajkematz'ib'
 place-database-title = Taq kik'ojlem cholxe'el tzij
+place-database-stats = Kimolob'a'
+place-database-stats-show = Kek'ut pe ri taq molob'a'
+place-database-stats-hide = Rewaxik molajilab'äl
+place-database-stats-entity = Moloj
+place-database-stats-count = Ajilab'äl
+place-database-stats-size-kib = Nimilem (KiB)
+place-database-stats-size-perc = Nimilem (%)
 place-database-integrity = Ch'ajch'ojri'ïl
 place-database-verify-integrity = Tinik'öx ch'ajch'ojri'ïl
 a11y-title = Okel
@@ -125,7 +136,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Ruwa tajinïk
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Taq rutzijol
-
 troubleshoot-mode-title = Kenik'öx taq k'ayewal
 restart-in-troubleshoot-mode-label = Kib'anikil taq K'ayewal…
 clear-startup-cache-title = Titojtob'ëx niyuj ri rujumej ruyakoj tikirib'äl
@@ -190,7 +200,6 @@ report-crash-for-days =
         [one] Kitzijol taq sachoj richin ri ruk'isib'äl { $days } q'ij
        *[other] Kitzijol taq sachoj kichin ri ruk'isib'äl { $days } taq q'ij
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -198,7 +207,6 @@ crashes-time-minutes =
         [one] tik'o { $minutes } ch'utiramaj
        *[other] tik'o { $minutes } taq ch'utiramaj
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -206,7 +214,6 @@ crashes-time-hours =
         [one] tik'o { $hours } ramaj
        *[other] tik'o { $hours } taq ramaj
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -214,7 +221,6 @@ crashes-time-days =
         [one] tik'o { $days } q'ij
        *[other] tik'o { $days } taq q'ij
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -222,7 +228,6 @@ pending-reports =
         [one] Konojel ri taq rutzijol sachoj (tz'aqatisan { $reports } oyob'en sachoj pa ri ramaj jikib'an)
        *[other] Konojel ri taq rutzijol samaj (tz'aqatisan { $reports } oyob'en taq sachoj pa ri ramaj jikib'an)
     }
-
 raw-data-copied = Rukuta'm tzij wachib'en pa molwuj
 text-copied = Rucholajem tzij wachib'en pa molwuj
 
@@ -235,11 +240,9 @@ blocked-mismatched-version = Q'aton ruma ri jaloj ruwäch awajchajinel wachib'ä
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Q'eleb'en rusamaj richin ri ruwäch awajchajinel wachib'alil. Tatojtob'ej nak'ëx ri awajchajinel wachib'alil rik'in ri ruwäch { $driverVersion } o ri jun chik k'ak'a'.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Taq ko'öl retab'al ClearType
-
 compositing = Ch'akulan
 hardware-h264 = Ch'akulakem H264 Relesaxik na'oj
 main-thread-no-omtc = nimaläj b'akoj, majun OMTC
@@ -254,7 +257,6 @@ virtual-monitor-disp = Ruwa Tzuwäch Kemtzijil
 
 found = Xrïl
 missing = Sachon
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Tzijoxikil
@@ -277,19 +279,15 @@ webgl2-renderer = WebGL 2 runuk'uwachinel chajinel
 webgl2-version = WebGL 2 Ruwa chajinel
 webgl2-driver-extensions = WebGL 2 taq ruk'amal chajinel
 webgl2-extensions = WebGL 2 taq ruk'amal
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Pa ri rucholajem q'atoj ruma k'ayewal etaman kiwa: <a data-l10n-name="bug-link">{ $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Q'ëq cholb'äl: rub'itz'ib' sachoj { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Chojmirisanel
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Silowachib'äl Ewanel Rusik'ixik
-
 reset-on-next-restart = K'a xtitzolïx na ri Rutikirisaxik chik
 gpu-process-kill-button = Tik'isb'ëx ri GPU Tajin
 gpu-device-reset = Titzij chik Okisaxel
@@ -299,10 +297,8 @@ content-uses-tiling = Tokisäx Ch'utiwäch (Rupam)
 off-main-thread-paint-enabled = Off Nïm Rub'ey Rachwinäq Tzijon
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Tajiläx
 target-frame-rate = Retal Ruchi' Rub'ey:
-
 min-lib-versions = Ch'uti'n ruwäch oyob'en
 loaded-lib-versions = Ruwäch tajin nokisäx
-
 has-seccomp-bpf = Seccomp-BPF (Ruq'inoj chayunel taq oyonïk)
 has-seccomp-tsync = Ruximojri'ïl wachinel Seccomp
 has-user-namespaces = Ruk'ojlemal kib'i' winäq
@@ -315,23 +311,19 @@ sandbox-proc-type-content = rupam
 sandbox-proc-type-file = rupam yakb'äl
 sandbox-proc-type-media-plugin = q'ojom nak'ab'äl
 sandbox-proc-type-data-decoder = sik'inel tzij
-
 startup-cache-title = Rukache' Tikirib'äl
 startup-cache-disk-cache-path = Rub'ey Rukache' Seteb'äl
 startup-cache-ignore-disk-cache = Tirepüx Rukache' Seteb'äl
 startup-cache-found-disk-cache-on-init = Rukache' Seteb'äl Xilitäj toq Xtikirisäx
 startup-cache-wrote-to-disk-cache = Xtz'ib'äx chi re ri Rukache' Seteb'äl
-
 launcher-process-status-0 = Tzijon
 launcher-process-status-1 = Xchup ruma sachoj
 launcher-process-status-2 = Xb'an chi xchup
 launcher-process-status-unknown = Man etaman ta täq rub'anikil
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -340,12 +332,12 @@ fission-status-experiment-control = Xchup ruma ri tojtob'enel
 fission-status-experiment-treatment = Xtzij ruma ri tojtob'enel
 fission-status-disabled-by-e10s-env = Xchup ruma ri k'ojlib'äl
 fission-status-enabled-by-env = Xtzij ruma ri k'ojlib'äl
+fission-status-disabled-by-env = Xchup ruma ri k'ojlib'äl
 fission-status-enabled-by-default = Xtzij wi pe
 fission-status-disabled-by-default = Xchup wi pe
 fission-status-enabled-by-user-pref = Xtzij ruma ri okisanel
 fission-status-disabled-by-user-pref = Xchup ruma ri okisanel
 fission-status-disabled-by-e10s-other = E10s chupun
-
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = majun
 wheel-enabled = xuya' q'ij xok ri seton
@@ -382,7 +374,6 @@ support-remote-experiments-title = Näj Solna'oj
 support-remote-experiments-name = B'i'aj
 support-remote-experiments-branch = Solna'oj Branch
 support-remote-experiments-see-about-studies = Titz'et <a data-l10n-name="support-about-studies-link">about:studies</a> richin ch'aqa' etamab'äl, achi'el chuqa' rub'eyal yechup junilal taq tojtob'enel o richin nichup { -brand-short-name } richin nusamajij re ruwäch tojtob'enel ri chwa'q kab'ij.
-
 support-remote-features-title = Näj taq B'anikil
 support-remote-features-name = B'i'aj
 support-remote-features-status = B'anikil
