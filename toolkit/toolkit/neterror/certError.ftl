@@ -84,6 +84,7 @@ dns-not-found-trr-only-title2 = Potenziale rischio per la sicurezza durante la r
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Potenziale rischio per la sicurezza per { $hostname }.
+dns-not-found-native-fallback-title2 = Potenziale rischio per la sicurezza durante la ricerca di questo dominio
 
 fileNotFound-title = File non trovato
 fileAccessDenied-title = Accesso negato al file
