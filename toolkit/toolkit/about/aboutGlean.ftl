@@ -20,6 +20,9 @@ controls-button-label = Einstellungen senden
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Über { -glean-brand-name }
 about-glean-header = Über { -glean-brand-name }
+about-glean-upload-enabled = Das Hochladen von Daten ist aktiviert.
+about-glean-upload-disabled = Das Hochladen von Daten ist deaktiviert.
+about-glean-upload-enabled-local = Das Hochladen von Daten ist nur zum Senden an einen lokalen Server aktiviert.
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
