@@ -29,6 +29,12 @@ about-glean-interface-description =
 about-glean-upload-enabled = Mba’ekuaarã ñemyanyhẽ hendýma.
 about-glean-upload-disabled = Mba’ekuaarã ñemyanyhẽ oguéma.
 about-glean-upload-enabled-local = Mba’ekuaarã myanyhẽ hendýta emondo hag̃ua mohendahavusu ag̃uiguápe.
+about-glean-upload-fake-enabled =
+    Pe mba’ekuaarã ñemyanehẽ oñemboguéma,
+    hákatu ro’e { glean-sdk-brand-name }-pe hendyha
+    umi mba’ekuaarã oñemboheraguapy hag̃ua gueteri ipype.
+    Haipy: emoĩramo teramoĩ ñemboguaha, umi pings henyhẽta
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> ndive ha’eño ñembohekógui.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Umi <a data-l10n-name="fog-prefs-and-defines-doc-link">erohoryvéva ha ñemyesakã</a> iporãva ogueroike:
 # Variables:
