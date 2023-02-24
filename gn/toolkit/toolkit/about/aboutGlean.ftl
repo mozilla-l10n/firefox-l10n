@@ -21,6 +21,11 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Ping rechaha { -glean-brand-name } oñempotĩ hag̃ua
 about-glean-page-title2 = { -glean-brand-name } rehegua
 about-glean-header = { -glean-brand-name } rehegua
+about-glean-interface-description =
+    Pe <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    ha’e mba’ekuaarã ñembyatyha arandukarenda ojepurúva { -vendor-short-name } apopyrépe.
+    Ko jehechaha ojejapo mboguatahára ha ta’ãhára
+    <a data-l10n-name="fog-link">oha’ã hag̃ua ipoite rupi jepurupyrã</a>.
 about-glean-upload-enabled = Mba’ekuaarã ñemyanyhẽ hendýma.
 about-glean-upload-disabled = Mba’ekuaarã ñemyanyhẽ oguéma.
 about-glean-upload-enabled-local = Mba’ekuaarã myanyhẽ hendýta emondo hag̃ua mohendahavusu ag̃uiguápe.
