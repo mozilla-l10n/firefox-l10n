@@ -8,6 +8,8 @@
 
 ## about:pocket-saved panel
 
+pocket-panel-saved-page-saved = Kat kulpu kan tu { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Kat kulpu kan tu { -pocket-brand-name }
 pocket-panel-saved-save-tags = Kola
 
 ## about:pocket-signup panel
@@ -17,7 +19,9 @@ pocket-panel-signup-login = Ixe't aq'on
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
