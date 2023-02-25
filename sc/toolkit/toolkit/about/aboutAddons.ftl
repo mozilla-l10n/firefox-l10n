@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Chirca
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Otene estensiones e temas dae <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Otene ditzionàrios dae <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Otene pachetes de limba dae <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Non tenes installadu nissunu cumplementu de custa genia
 list-empty-available-updates =
@@ -135,7 +142,7 @@ addon-category-sitepermission-title =
     .title = Permissos de is sitos
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Permissos de situ pro { $host }
 
 ## These are global warnings
@@ -215,6 +222,8 @@ shortcuts-duplicate-warning-message = { $shortcut } est giai impreadu comente cu
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Giai impreadu dae { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Ammustra·nde un'àteru
@@ -279,7 +288,7 @@ theme-colorways-button = Proa is cumbinatziones de colores
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Modìfica is cumbinatziones de colores
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Iscadit su { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Ativados
 plugin-disabled-heading = Disativados
@@ -348,6 +357,8 @@ recent-updates-heading = Atualizatziones reghentes
 release-notes-loading = Carrighende…
 release-notes-error = Faddina in sa càrriga de is notas de sa versione.
 addon-permissions-empty = Custa estensione non rechedet permissos
+addon-permissions-required = Permissos netzessàrios pro is funtziones de base:
+addon-permissions-optional = Permissos optzionales pro is funtziones agiuntivas:
 addon-permissions-learnmore = Àteras informatziones subra de is permissos
 recommended-extensions-heading = Estensiones cussigiadas
 recommended-themes-heading = Temas cussigiados
@@ -373,8 +384,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } no est cumpatìbile cun { -brand-short-name } { $version }.
 details-notification-incompatible-link = Àteras informatziones
 details-notification-unsigned-and-disabled-link = Àteras informatziones

@@ -24,7 +24,10 @@ neterror-pref-reset-button = Recùpera sa cunfiguratzione predefinida
 neterror-return-to-previous-page-button = A coa
 neterror-return-to-previous-page-recommended-button = A coa (cussigiadu)
 neterror-try-again-button = Torra·bi a proare
+neterror-add-exception-button = Sighi semper pro custu situ
+neterror-settings-button = Modìfica is cunfiguratziones de DNS
 neterror-view-certificate-link = Ammustra su tzertificadu
+neterror-disable-native-feedback-warning = Sighi semper
 
 ##
 
@@ -45,6 +48,26 @@ neterror-dns-not-found-hint-header = <strong>Si as insertadu s'indiritzu giustu,
 neterror-dns-not-found-hint-try-again = Torrare a bi proare luego
 neterror-dns-not-found-hint-check-network = Controllare sa connessione a sa rete
 neterror-dns-not-found-hint-firewall = Controlla chi { -brand-short-name } tèngiat su permissu de atzèdere a sa rete (mancari su dispositivu siat connessu, però a palas de unu firewall)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-timeout = Sa connessione a { $trrDomain } at bòlidu prus tempus de cussu abetadu.
+neterror-dns-not-found-trr-offline = Nissuna connessione a internet.
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } no at agatadu nissunu indiritzu pro custu situ web.
+neterror-dns-not-found-trr-server-problem = Faddina cun { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Faddina disabetada.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-not-confirmed = Sa connessione a { $trrDomain } no est pronta ancora.
+
+##
+
 neterror-file-not-found-filename = Averìgua chi in su nòmine de s'archìviu no ddoe siat lìteras mannas o àteras faddinas de iscritura.
 neterror-file-not-found-moved = Averìgua si s'archìviu est istadu iscostiadu, cantzelladu o si su nòmine est cambiadu.
 neterror-access-denied = Podet dare chi siat istadu cantzelladu o mòvidu, o chi is permissos de archìviu bi siant blochende s'atzessu.

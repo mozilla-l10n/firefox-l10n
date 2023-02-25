@@ -38,6 +38,13 @@ videocontrols-picture-in-picture-toggle-label = Càstia in Immàgine-subra-immà
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Reprodue is vìdeos in primu pranu cando ses faghende àteru in { -brand-short-name }
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Iscroba custu vìdeu
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Prus ischermos, prus ispàssiu. Reprodue custu vìdeu in su mentras chi faghes àteru.
 videocontrols-error-aborted = Sa càrriga de su vìdeu s'est firmada.
 videocontrols-error-network = Sa riprodutzione de su vìdeu est istada annullada pro more de una faddina de sa rete.
 videocontrols-error-decode = Non si podet reprodùere su vìdeu ca s'archìviu est corrùmpidu.
