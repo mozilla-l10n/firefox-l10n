@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Ҷустуҷӯ
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Васеъшавиҳо ва мавзуҳоро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
 list-empty-get-dictionaries-message = Луғатҳоро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
 list-empty-get-language-packs-message = Бастаҳои забонро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
+
+##
+
 list-empty-installed =
     .value = Шумо ягон ҷузъи иловагии насбшуда бо ин навъ надоред
 list-empty-available-updates =
@@ -146,7 +153,7 @@ addon-category-sitepermission-title =
     .title = Иҷозатҳои сомона
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Иҷозатҳои сомона барои { $host }
 
 ## These are global warnings
@@ -226,6 +233,8 @@ shortcuts-duplicate-warning-message = { $shortcut } ҳамчун миёнбур 
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Аллакай аз тарафи { $addon } истифода мешавад
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Намоиш додани { $numberToShow } дигар
@@ -240,7 +249,7 @@ header-back-button =
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
     Васеъшавиҳо ва мавзуъҳо — онҳо мисли барномаҳо дар браузери шумо кор мекунанд, ва имкон медиҳанд, ки шумо тавонед ниҳонвожаҳоро муҳофизат кунед, видеоҳоро боргирӣ намоед, тахфифҳоро ба даст оред, рекламаи безоркунандаро манъ кунед, намуди зоҳирии браузери худро иваз намоед, ва ғайра. Ҳамин барномаҳои хурди
-    нармафзор аксари вақт аз ҷониби тарафҳои сеюм таҳия карда мешаванд. Маҷмӯи зерин аз тарафи { -brand-product-name } нисбат ба амният, самаранокии кор ва фаъолият <a data-l10n-name="learn-more-trigger">тавсия дода мешавад</a>.
+    нармафзор аксари вақт аз ҷониби тарафҳои сеюм таҳия карда мешаванд. Маҷмуи зерин аз тарафи { -brand-product-name } нисбат ба амният, самаранокии кор ва фаъолият <a data-l10n-name="learn-more-trigger">тавсия дода мешавад</a>.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Баъзе аз ин тавсияҳо шахсӣ карда шудаанд. Онҳо дар омори истифодабарӣ, бартариҳои
@@ -299,7 +308,7 @@ theme-colorways-button = Нақшу нигорҳоро озмоед
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Иваз кардани нақшу нигор
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Дар санаи { DATETIME($expiryDate, month: "long", day: "numeric") } ба анҷом мерасад
 plugin-enabled-heading = Фаъол аст
 plugin-disabled-heading = Ғайрифаъол аст
@@ -385,6 +394,8 @@ addon-permissions-optional = Иҷозатҳои ихтиёрӣ барои фаъ
 addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
 recommended-extensions-heading = Васеъшавиҳои тавсияшуда
 recommended-themes-heading = Мавзуъҳои тавсияшуда
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Тавонмандиҳои зеринро ба <span data-l10n-name="hostname">{ $hostname }</span> медиҳад:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -411,8 +422,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } ба { -brand-short-name } { $version } мувофиқат намекунад.
 details-notification-incompatible-link = Маълумоти бештар
 details-notification-unsigned-and-disabled = Истифодаи «{ $name }» дар «{ -brand-short-name }» тасдиқ карда нашуд ва бо ин сабаб ғайрифаъол карда шуд.

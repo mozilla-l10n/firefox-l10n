@@ -13,7 +13,7 @@ certificate-viewer-error-title = Чизе нодуруст иҷро шуд.
 
 certificate-viewer-algorithm = Алгоритм
 certificate-viewer-certificate-authority = Мақомоти иҷозатномадиҳанда
-certificate-viewer-cipher-suite = Маҷмӯи рамзҳо
+certificate-viewer-cipher-suite = Маҷмуи рамзҳо
 certificate-viewer-common-name = Номи умумӣ
 certificate-viewer-email-address = Нишонии почтаи электронӣ
 # Variables:
