@@ -73,6 +73,17 @@ restart-later = Torra a aviare luego
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controllat custa configuratzione.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = C
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Cunfiguratzione…
     .accesskey = u
 containers-disable-alert-title = Boles serrare totu is ischedas cuntenidoras?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Si disativas custu cuntenidore immoe, s'at a serrare { $tabCount } ischeda cuntenidora. Seguru chi boles disativare custu cuntenidore?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Serra { $tabCount } ischeda cuntenidora
        *[other] Serra { $tabCount } ischedas cuntenidoras
     }
+
+##
+
 containers-disable-alert-cancel-button = Mantene ativadas
 containers-remove-alert-title = Boles bogare custu cuntenidore?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Si bogas custu cuntenidore immoe, s'at a serrare { $count } ischeda cuntenidora. Seguru chi boles bogare custu cuntenidore?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Ingrandimentu
 preferences-default-zoom = Predefinidu
     .accesskey = P
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Pregonta semper
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Imprea { $plugin-name } (in { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Leghe àteru
 update-application-title = Atualizatziones de { -brand-short-name }
 update-application-description = Mantene { -brand-short-name } atualizada pro una seguresa, istabilidade e rendimentu òtimos.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versione { $version }<a data-l10n-name="learn-more">Ite noas</a>
 update-history =
     .label = Ammustra sa cronologia de atualizatziones…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de atualizatzione
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Lìmite de protzessos de cuntenutu
 performance-limit-content-process-enabled-desc = Impreare prus protzessos de cuntenutu podet megiorare su rendimentu cando impreas prus ischedas, ma tenet fintzas bisòngiu de prus memòria.
 performance-limit-content-process-blocked-desc = Su nùmeru de protzessos de cuntenutu si podet modificare isceti cun su { -brand-short-name } multiprotzessu. <a data-l10n-name="learn-more">Impara comente controllare si su multiprotzessu est ativu</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinidu)
 
@@ -536,6 +558,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Cussigiados dae { $provider }
 home-prefs-recommended-by-description-new = Cuntenutu de primore curadu dae { $provider }, parte de sa famìlia de { -brand-product-name }
@@ -565,6 +591,8 @@ home-prefs-recent-activity-description = Una seletzione de sitos e cuntenutos re
 home-prefs-snippets-header =
     .label = Retàllios
 home-prefs-snippets-description-new = Cussìgios e noas dae { -vendor-short-name } e { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -629,7 +657,7 @@ search-find-more-link = Agata àteros motores de chirca
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Su faeddu crae esistit giai
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = As seberadu unu faeddu crae chi est giai imperadu dae “{ $name }”. Sèbera·nde un'àteru.
 search-keyword-warning-bookmark = As seberadu unu faeddu crae chi est giai imperadu dae unu sinnalibru. Sèbera·nde un'àteru.
 
@@ -676,8 +704,15 @@ sync-sign-out =
     .accesskey = s
 sync-manage-account = Gesti su contu
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+
+##
+
 sync-resend-verification =
     .label = Torra a imbiare sa verìfica
     .accesskey = b
@@ -891,8 +926,8 @@ history-clear-button =
 sitedata-header = Testimòngios e datos de is sitos
 sitedata-total-size-calculating = Carculende sa mannària de is datos de is sitos e de sa memòria temporànea…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Is testimòngios, is datos de is sitos e sa memòria temporànea sunt impreende immoe { $value } { $unit } de s'ispàtziu in discu.
 sitedata-learn-more = Leghe àteru
 sitedata-delete-on-close =
@@ -919,6 +954,8 @@ sitedata-option-block-unvisited =
     .label = Testimòngios de sitos chi no as bisitadu
 sitedata-option-block-all-third-party =
     .label = Totu is testimòngios de àteras partes (diat pòdere causare chi unos cantos sitos non funtzionent)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Totu is testimòngios intre-sitos (diat pòdere causare chi unos cantos sitos non funtzionent)
 sitedata-option-block-all =
     .label = Totu is testimòngios (unos cantos sitos no ant a funtzionare)
 sitedata-clear =
@@ -998,6 +1035,7 @@ content-blocking-all-cookies = Totu is testimòngios
 content-blocking-unvisited-cookies = Testimòngios de sitos web chi no as bisitadu
 content-blocking-all-windows-tracking-content = Cuntenutu de sighimentu in totu is ventanas
 content-blocking-all-third-party-cookies = Totu is testimòngios de àteras partes
+content-blocking-all-cross-site-cookies = Totu is testimòngios intre-sitos
 content-blocking-cryptominers = Cripto-minadores
 content-blocking-fingerprinters = Generadores de imprentas digitales
 # "Test pilot" is used as a verb. Possible alternatives:

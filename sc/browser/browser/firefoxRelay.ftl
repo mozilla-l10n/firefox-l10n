@@ -8,12 +8,19 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } no at pòdidu generare un’àlias nou. Faddina de su còdighe HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } no at agatadu nissunu àlias de torrare a impreare. Còdighe de sa faddina HTTP: { $status }.
 
 ##
 
+firefox-relay-must-login-to-fxa = Depes atzedere a { -fxaccount-brand-name } pro impreare { -relay-brand-name }.
+firefox-relay-get-unlimited-masks =
+    .label = Gesti is àlias
+    .accesskey = G
 firefox-relay-opt-in-title = Ampara s’indiritzu de posta eletrònica
 firefox-relay-opt-in-subtitle = Agiunghe { -relay-brand-name }
 firefox-relay-generate-mask-title = Ampara s’indiritzu de posta eletrònica
+firefox-relay-generate-mask-subtitle = Gènera un’àlias de { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Sighi
     .accesskey = S

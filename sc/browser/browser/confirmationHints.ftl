@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Crae sarvada
 confirmation-hint-pin-tab = Apicadu
 confirmation-hint-pin-tab-description = Incarca s'ischeda cun su butone deretu pro ddu isblocare.
 confirmation-hint-send-to-device = Imbiadu
+confirmation-hint-firefox-relay-mask-generated = Àlias nou de { -relay-brand-short-name } generadu.

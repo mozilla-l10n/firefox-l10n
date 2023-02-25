@@ -57,6 +57,29 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utentes
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Mai prus avisos de testimòngios!
+cfr-cookie-banner-handling-body = Permite a { -brand-short-name } de refudare in automàticu totu is rechestas de is avisos de testimòngios, cando possìbile. Si nono, totu is testimòngios ant a èssere atzetados pro minimare is avisos retzidos.
+cfr-cookie-banner-accept-button = Refuda is rechestas
+    .accesskey = R
+cfr-cookie-banner-reject-button = Immoe nono
+    .accesskey = n
+cfr-cookie-banner-handling-header-variant-1 = Ammustra prus pagu ventanas emergentes de testimòngios
+cfr-cookie-banner-handling-body-variant-1 = Permite a { -brand-short-name } de rispòndere in automàticu a is ventanas emergentes de testimòngios, pro chi potzas navigare chene istorbu. { -brand-short-name } at a refudare totu is rechestas cando possìbile, o si nono ddas at a atzetare totus.
+cfr-cookie-banner-accept-button-variant-1 = Serra is ventanas emergentes
+    .accesskey = S
+cfr-cookie-banner-reject-button-variant-1 = No, gràtzias
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Ismenguada de is avisos de testimòngios
+cfr-cookie-banner-handling-body-variant-2 = Boles permìtere a { -brand-short-name } de refudare sa rechesta de cunsensu a is testimòngios de is sitos cando possìbile o, si no est possìbile, de atzetare s'atzessu a is testimòngios?
+cfr-cookie-banner-accept-button-variant-2 = Permite
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Immoe nono
+    .accesskey = n
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza is sinnalibros tuos in ònnia logu.
@@ -156,10 +179,6 @@ spotlight-total-cookie-protection-body = S'amparu totale contra is testimòngios
 spotlight-total-cookie-protection-expanded = { -brand-short-name } creat una cresura a inghìriu de is testimòngios, limitende·ddos a su situ in ue ses, in manera chi is sighidores non ddos potzant impreare pro ti sighire. Impreende custa funtzionalidade in antìtzipu, as a agiudare a dda megiorare, pro creare una rete megiore pro totus.
 spotlight-total-cookie-protection-primary-button = Ativa s'amparu totale contra is testimòngios
 spotlight-total-cookie-protection-secondary-button = Immoe nono
-cfr-total-cookie-protection-header = Gràtzias a tue, { -brand-short-name } est prus privadu e seguru comente chi mai!
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Sa protetzione totale de testimòngios est sa prus funtzionalidade de amparu de riservadesa potente a oe, e immoe est ativada in manera predefinida pro totu is utentes de { -brand-short-name }. Non diat èssere istadu possìbile sena sa partetzipatzione de chie, comente a tue, at contribuidu a proare custa funtzionalidade in anteprima. Gràtzias de nos agiudare a creare un'internet mègius e prus privadu.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +225,6 @@ firefoxview-cfr-primarybutton = Proa immoe
     .accesskey = P
 firefoxview-cfr-secondarybutton = Immoe nono
     .accesskey = n
-firefoxview-cfr-header = Recùpera is ischedas serradas de reghente cun { -firefoxview-brand-name }
-firefoxview-cfr-body = Càmbia intre dispositivos sena problemas e agiunghe unu tonu de colore a su navigadore tuo.
 firefoxview-cfr-header-v2 = Recùpera a lestru dae ue dd'aias lassadu
 firefoxview-cfr-body-v2 = Recùpera is ischedas serradas dae pagu, e passa chene interrutziones dae unu dispositivu a s'àteru cun { -firefoxview-brand-name }.
 
@@ -229,3 +246,29 @@ colorways-cfr-header-28days = Is cumbinatziones de colores Boghes indipendentes 
 colorways-cfr-header-14days = Is cumbinatziones de colores Boghes indipendentes iscadint de oe a duas chidas
 colorways-cfr-header-7days = Is cumbinatziones de colores Boghes indipendentes iscadint custa chida
 colorways-cfr-header-today = Is cumbinatziones de colores Boghes indipendentes iscadint oe
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Mai prus avisos de testimòngios!
+cfr-cookiebanner-body = Permite a { -brand-short-name } de refudare in automàticu totu is rechestas de is avisos de testimòngios cando possìbile.
+cfr-cookiebanner-reject-button = Immoe nono
+    .accesskey = n
+cfr-cookiebanner-header-variant-1 = Ammustra prus pagu ventanas emergentes de testimòngios
+cfr-cookiebanner-body-variant-1 = Permite a { -brand-short-name } de rispòndere in automàticu a is ventanas emergentes de testimòngios, pro chi potzas navigare chene istorbu. { -brand-short-name } at a refudare totu is rechestas cando possìbile.
+cfr-cookiebanner-accept-button-variant-1 = Serra is ventanas emergentes
+    .accesskey = S
+cfr-cookiebanner-reject-button-variant-1 = No, gràtzias
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Ismenguada de is avisos de testimòngios
+cfr-cookiebanner-body-variant-2 = Ammustra prus pagu avisos de testimòngios donende a { -brand-short-name } su permissu de refudare, cando est possìbile, sa rechesta de cunsensu a is testimòngios de is sitos.
+cfr-cookiebanner-accept-button-variant-2 = Permite
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Immoe nono
+    .accesskey = n
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Semus semper cun tue
+july-jam-body = { -brand-short-name } blocat unos 3000 e prus sighiduras a su mese pro onni utente, donende·ti un'atzessu prus seguru e lestru a s'internet de bonu calidade.
+july-jam-set-default-primary = Aberi is ligòngios mios cun { -brand-short-name }

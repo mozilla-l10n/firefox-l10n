@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Boga dae sa cronologia
     .accesskey = B
+urlbar-result-menu-tip-get-help =
+    .label = Otene agiudu
+    .accesskey = a
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Ammustra is cumplementos
 quickactions-cmd-addons2 = cumplementos
 # Opens the bookmarks library window
-quickactions-bookmarks = Ammustra is sinnalibros
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Gesti is sinnalibros
 quickactions-cmd-bookmarks = sinnalibros
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Isbòida sa cronologia
 quickactions-cmd-clearhistory = isbòida sa cronologia
-# Opens about:downloads page
-quickactions-downloads = Aberi is iscarrigamentos
 # Opens about:downloads page
 quickactions-downloads2 = Ammustra is iscarrigamentos
 quickactions-cmd-downloads = iscarrigamentos
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = iscarrigamentos
 quickactions-extensions = Gesti is estensiones
 quickactions-cmd-extensions = estensiones
 # Opens the devtools web inspector
-quickactions-inspector = Aberi s'analizadore
-# Opens the devtools web inspector
 quickactions-inspector2 = Aberis is ainas de isvilupu
 quickactions-cmd-inspector = analizadore, devtools
-# Opens about:logins
-quickactions-logins = Ammustra is credentziales
 # Opens about:logins
 quickactions-logins2 = Gesti is craes
 quickactions-cmd-logins = credentziales, craes
@@ -313,12 +308,8 @@ quickactions-cmd-logins = credentziales, craes
 quickactions-plugins = Gesti is plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
-quickactions-print = Imprenta
-# Opens the print dialog
 quickactions-print2 = Imprenta sa pàgina
 quickactions-cmd-print = imprenta
-# Opens a new private browsing window
-quickactions-private = Aberi una ventana de navigatzione privada
 # Opens a new private browsing window
 quickactions-private2 = Aberi una ventana privada
 quickactions-cmd-private = navigatzione privada
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = atualiza
 quickactions-restart = Torra a aviare { -brand-short-name }
 quickactions-cmd-restart = torra a aviare
 # Opens the screenshot tool
-quickactions-screenshot2 = Faghe una catura de s'ischermu
-# Opens the screenshot tool
 quickactions-screenshot3 = Faghe una catura de s'ischermu
 quickactions-cmd-screenshot = Catura de s'ischermu
-# Opens about:preferences
-quickactions-settings = Aberi is cunfiguratziones
 # Opens about:preferences
 quickactions-settings2 = Gesti sa cunfiguratzione
 quickactions-cmd-settings = cunfiguratziones, preferèntzias, optziones
@@ -344,8 +331,6 @@ quickactions-cmd-themes = temas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualiza { -brand-short-name }
 quickactions-cmd-update = atualiza
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Ammustra su còdighe
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visualiza su còdighe de sa pàgina
 quickactions-cmd-viewsource = ammustra su còdighe, còdighe
@@ -719,6 +704,11 @@ bookmarks-other-bookmarks-menu =
     .label = Àteros sinnalibros
 bookmarks-mobile-bookmarks-menu =
     .label = Sinnalibros mòbiles
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -743,6 +733,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Boga su menù de is sinnalibros dae sa barra de ainas
            *[other] Agiunghe su menù de is sinnalibros a sa barra de ainas
         }
+
+##
+
 bookmarks-search =
     .label = Chirca in sinnalibros
 bookmarks-tools =
@@ -971,3 +964,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } cuat s’indiritzu de posta eletrònica reale tuo pro t’amparare dae violatziones de datos e àliga.
+firefox-relay-offer-how-we-integrate = Si sighis, as a pòdere generare àlias de posta eletrònica { -relay-brand-short-name } noas deretu dae su gestore de craes de { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Totu is messàgios de posta eletrònica ant a èssere torrados a imbiare dae <strong>{ $sitename }</strong> a <strong>{ $useremail }</strong>.
