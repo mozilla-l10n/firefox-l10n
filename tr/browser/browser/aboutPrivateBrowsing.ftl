@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = Çerezleriniz ve geçmişiniz kaydedilm
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Çerez bildirimlerine son!
 about-private-browsing-cookie-banners-promo-button = Çerez bildirimlerini azaltın
+about-private-browsing-cookie-banners-promo-message = Dikkatiniz dağılmadan gezinmeniz için { -brand-short-name }, çerez bildirimlerini otomatik olarak yanıtlayabilir. { -brand-short-name }, mümkün olduğu sürece tüm istekleri reddedecektir.
