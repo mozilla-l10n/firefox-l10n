@@ -74,7 +74,7 @@ cfr-cookie-banner-accept-button-variant-1 = Serra is ventanas emergentes
 cfr-cookie-banner-reject-button-variant-1 = No, gràtzias
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Ismenguada de is avisos de testimòngios
-cfr-cookie-banner-handling-body-variant-2 = Boles permìtere a { -brand-short-name } de refudare sa rechesta de cunsensu a is testimòngios de is sitos cando possìbile o, si no est possìbile, de atzetare s'atzessu a is testimòngios?
+cfr-cookie-banner-handling-body-variant-2 = Boles permìtere a { -brand-short-name } de refudare sa rechesta de cunsensu a is testimòngios de is sitos cando possìbile o, si no est possìbile, de atzetare s’atzessu a is testimòngios?
 cfr-cookie-banner-accept-button-variant-2 = Permite
     .accesskey = P
 cfr-cookie-banner-reject-button-variant-2 = Immoe nono
@@ -270,5 +270,5 @@ cfr-cookiebanner-reject-button-variant-2 = Immoe nono
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Semus semper cun tue
-july-jam-body = { -brand-short-name } blocat unos 3000 e prus sighiduras a su mese pro onni utente, donende·ti un'atzessu prus seguru e lestru a s'internet de bonu calidade.
-july-jam-set-default-primary = Aberi is ligòngios mios cun { -brand-short-name }
+july-jam-body = { -brand-short-name } blocat unos 3000 e prus sighiduras a su mese pro onni utente, e ti donat un’atzessu a internet prus seguru, lestru e de calidade.
+july-jam-set-default-primary = Aberi is ligòngios cun { -brand-short-name }

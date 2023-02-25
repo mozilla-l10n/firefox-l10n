@@ -112,9 +112,9 @@ protections-panel-cookie-banner-view-go-back =
     .aria-label = In segus
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = Boles disativare s'ismèngua de is avisos de testimòngios pro { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = Boles ativare s'ismèngua de is avisos de testimòngios pro { $host }?
-protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } at a limpiare is testimòngios de custu situ e at a atualizare sa pàgina. Sa limpiesa de totu is testimòngios ti diat pòdere serrare sa sessione o isboidare is carrellos de s'ispesa.
+protections-panel-cookie-banner-view-turn-off-for-site = Boles disativare s’ismèngua de is avisos de testimòngios pro { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Boles ativare s’ismèngua de is avisos de testimòngios pro { $host }?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } at a limpiare is testimòngios de custu situ e at a atualizare sa pàgina. Sa limpiesa de totu is testimòngios ti diat pòdere serrare sa sessione o isboidare is carrellos de s’ispesa.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } proat a refudare in automàticu totu is testimòngios de sa rechesta in is sitos cumpatìbiles.
 protections-panel-cookie-banner-view-cancel = Annulla
 protections-panel-cookie-banner-view-turn-off = Disativa
