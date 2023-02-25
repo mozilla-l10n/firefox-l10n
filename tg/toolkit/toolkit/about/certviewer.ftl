@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-certificate-viewer-certificate-section-title = Гувоҳинома
+certificate-viewer-certificate-section-title = Гувоҳнома
 
 ## Error messages
 
-certificate-viewer-error-message = Маълумот дар бораи гувоҳинома ёфт нашуд ё ин ки гувоҳинома вайрон аст. Лутфан, аз нав кӯшиш кунед.
+certificate-viewer-error-message = Маълумот дар бораи гувоҳнома ёфт нашуд ё ин ки гувоҳнома вайрон аст. Лутфан, аз нав кӯшиш кунед.
 certificate-viewer-error-title = Чизе нодуруст иҷро шуд.
 
 ## Certificate information labels
@@ -18,7 +18,7 @@ certificate-viewer-common-name = Номи умумӣ
 certificate-viewer-email-address = Нишонии почтаи электронӣ
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
-certificate-viewer-tab-title = Гувоҳинома барои { $firstCertName }
+certificate-viewer-tab-title = Гувоҳнома барои { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Кишвари шахси ҳуқуқӣ
 certificate-viewer-country = Кишвар
@@ -78,10 +78,9 @@ certificate-viewer-ocsp-stapling = Устуворсозии OCSP
 certificate-viewer-subject-key-id = Рақами мушаххаси калиди субъект
 certificate-viewer-authority-key-id = Рақами мушаххаси калиди маркази иҷозатномадиҳӣ
 certificate-viewer-authority-info-aia = Маълумот дар бораи маркази иҷозатномадиҳӣ (AIA)
-certificate-viewer-certificate-policies = Сиёсатҳои гувоҳинома
+certificate-viewer-certificate-policies = Сиёсатҳои гувоҳнома
 certificate-viewer-embedded-scts = Рӯйхати SCT
 certificate-viewer-crl-endpoints = Нуқтаҳои паҳнкунии CRL
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Боргирӣ кардан
@@ -97,14 +96,13 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
-certificate-viewer-download-pem = PEM (гувоҳинома)
+certificate-viewer-download-pem = PEM (гувоҳнома)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (занҷир)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-    .title = Ин васеъшавӣ ҳамҷум танқидӣ қайд карда шудааст, ва агар муштариён гувоҳиномаро нафаҳманд, онҳо бояд онро рад кунанд.
+    .title = Ин васеъшавӣ ҳамҷум танқидӣ қайд карда шудааст, ва агар муштариён гувоҳномаро нафаҳманд, онҳо бояд онро рад кунанд.
 certificate-viewer-export = Содир кардан
     .download = { $fileName }.pem
 
@@ -115,8 +113,8 @@ certificate-viewer-unknown-group-label = (номаълум)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
-certificate-viewer-tab-mine = Гувоҳиномаҳои шумо
+certificate-viewer-tab-mine = Гувоҳномаҳои шумо
 certificate-viewer-tab-people = Одамон
 certificate-viewer-tab-servers = Серверҳо
-certificate-viewer-tab-ca = Марказҳои гувоҳиномадиҳӣ
+certificate-viewer-tab-ca = Марказҳои гувоҳномадиҳӣ
 certificate-viewer-tab-unkonwn = Номаълум
