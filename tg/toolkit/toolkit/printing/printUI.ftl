@@ -62,7 +62,7 @@ printui-source-radio = Аслӣ
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = Интихоб
 # Option for "simplifying" the page by printing the Reader View version.
-printui-simplify-page-radio = Соддакардашуда
+printui-simplify-page-radio = Содакардашуда
 
 ##
 

@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printpreview-simplify-page-checkbox =
-    .label = Содда кардани саҳифа
+    .label = Сода кардани саҳифа
     .accesskey = С
-    .tooltiptext = Ин саҳифа ба таври худкор содда карда намешавад
+    .tooltiptext = Ин саҳифа ба таври худкор сода карда намешавад
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }
@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Саҳифа:
     .accesskey = с
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -62,7 +61,6 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Саҳифаи охирин
-
 printpreview-homearrow-button =
     .title = Саҳифаи аввал
 printpreview-previousarrow-button =
