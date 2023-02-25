@@ -14,39 +14,39 @@ cert-error-trust-unknown-issuer-intro = Касе кӯшиш карда, мета
 cert-error-trust-unknown-issuer = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба { $hostname } эътимод надорад, зеро ки барорандаи гувоҳнома номаълум аст, гувоҳнома ба таври худ имзо кардааст ё сервер гувоҳномаҳои ёридиҳандаи дурустро намефиристонад.
 cert-error-trust-cert-invalid = Гувоҳнома эътибор надорад, зеро ки он аз тарафи мақомоти иҷозатдиҳандаи гувоҳномаҳои беэътибор бароварда шудааст.
 cert-error-trust-untrusted-issuer = Гувоҳнома эътибор надорад, зеро ки барорандаи гувоҳнома эътибор надорад.
-cert-error-trust-signature-algorithm-disabled = Гувоҳинома эътибор надорад, зеро ки он ба воситаи алгоритме имзо карда шуд, ки ба сабаби хатарнокӣ ғайрифаъол карда шуд.
-cert-error-trust-expired-issuer = Гувоҳинома эътибор надорад, зеро ки муҳлати эътибори гувоҳинома ба анҷом расид.
-cert-error-trust-self-signed = Гувоҳинома эътибор надорад, зеро ки он ба таври худ имзо кардааст.
-cert-error-trust-symantec = Гувоҳиномаҳое, ки аз тарафи «GeoTrust», «RapidSSL», «Symantec», «Thawte» ва «VeriSign» бароварда шудаанд, дигар бехатар нестанд, зеро ки ин мақомотҳои гувоҳиномадиҳӣ риояи таҷрибаи бехатариро иҷро карда натавонистанд.
-cert-error-untrusted-default = Гувоҳинома аз манбаи беэътимод бароварда шудааст.
+cert-error-trust-signature-algorithm-disabled = Гувоҳнома эътибор надорад, зеро ки он ба воситаи алгоритме имзо карда шуд, ки ба сабаби хатарнокӣ ғайрифаъол карда шуд.
+cert-error-trust-expired-issuer = Гувоҳнома эътибор надорад, зеро ки муҳлати эътибори гувоҳнома ба анҷом расид.
+cert-error-trust-self-signed = Гувоҳнома эътибор надорад, зеро ки он ба таври худ имзо кардааст.
+cert-error-trust-symantec = Гувоҳномаҳое, ки аз тарафи «GeoTrust», «RapidSSL», «Symantec», «Thawte» ва «VeriSign» бароварда шудаанд, дигар бехатар нестанд, зеро ки ин мақомотҳои гувоҳномадиҳӣ риояи таҷрибаи бехатариро иҷро карда натавонистанд.
+cert-error-untrusted-default = Гувоҳнома аз манбаи беэътимод бароварда шудааст.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки он аз гувоҳиномае истифода мебарад, ки барои { $hostname } беэътибор мебошад.
-# Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки он аз гувоҳиномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳинома танҳо барои <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> эътибор дорад.
+cert-error-domain-mismatch = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки он аз гувоҳномае истифода мебарад, ки барои { $hostname } беэътибор мебошад.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки он аз гувоҳиномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳинома танҳо барои { $alt-name } эътибор дорад.
+cert-error-domain-mismatch-single = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки он аз гувоҳномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳнома танҳо барои <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> эътибор дорад.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки он аз гувоҳномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳнома танҳо барои { $alt-name } эътибор дорад.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки он аз гувоҳиномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳинома танҳо барои номҳои зерин эътибор дорад: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳо тасдиқ мекунанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки он аз гувоҳномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳнома танҳо барои номҳои зерин эътибор дорад: { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳое тасдиқ мекунанд, ки дорои муҳлати маҳдуд мебошанд. Муҳлати гувоҳинома барои { $hostname } санаи { $not-after-local-time } ба анҷом мерасад.
+cert-error-expired-now = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳое тасдиқ мекунанд, ки дорои муҳлати маҳдуд мебошанд. Муҳлати гувоҳнома барои { $hostname } санаи { $not-after-local-time } ба анҷом мерасад.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳое тасдиқ мекунанд, ки дорои муҳлати маҳдуд мебошанд. Муҳлати гувоҳинома барои { $hostname } на барвақтар аз санаи { $not-before-local-time } оғоз мешавад.
+cert-error-not-yet-valid-now = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳое тасдиқ мекунанд, ки дорои муҳлати маҳдуд мебошанд. Муҳлати гувоҳнома барои { $hostname } на барвақтар аз санаи { $not-before-local-time } оғоз мешавад.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳое тасдиқ мекунанд, ки бо мақомотҳои гувоҳиномадиҳӣ бароварда мешаванд. Аксари браузерҳо ба гувоҳиномаҳое, ки аз тарафи «GeoTrust», «RapidSSL», «Symantec», «Thawte» ва «VeriSign» бароварда шудаанд, эътимод надоранд. { $hostname } гувоҳиномаеро истифода мебарад, ки аз яке аз мақомотҳои гувоҳиномадиҳии зикршуда бароварда шудааст ва бинобар ин айнияти сомона тасдиқ карда намешавад.
+cert-error-symantec-distrust-description = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳое тасдиқ мекунанд, ки бо мақомотҳои гувоҳномадиҳӣ бароварда мешаванд. Аксари браузерҳо ба гувоҳномаҳое, ки аз тарафи «GeoTrust», «RapidSSL», «Symantec», «Thawte» ва «VeriSign» бароварда шудаанд, эътимод надоранд. { $hostname } гувоҳномаеро истифода мебарад, ки аз яке аз мақомотҳои гувоҳномадиҳии зикршуда бароварда шудааст ва бинобар ин айнияти сомона тасдиқ карда намешавад.
 cert-error-symantec-distrust-admin = Шумо метавонед дар бораи ин мушкилӣ ба маъмури сомона хабар диҳед.
 cert-error-old-tls-version = Эҳтимол аст, ки ин сомона протоколи «TLS 1.2»-ро, ки версияи ҳадди ақали дастгиришаванда бо «{ -brand-short-name }» мебошад, дастгирӣ намекунад.
 # Variables:
@@ -55,7 +55,7 @@ cert-error-details-hsts-label = Интиқол бо амнияти ҷиддии 
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Васлкунии калиди иҷтимоии HTTP: { $hasHPKP }
-cert-error-details-cert-chain-label = Занҷири гувоҳинома:
+cert-error-details-cert-chain-label = Занҷири гувоҳнома:
 open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар равзанаи нав
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.

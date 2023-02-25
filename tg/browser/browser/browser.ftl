@@ -384,7 +384,7 @@ identity-connection-internal = Ин саҳифаи бехатари «{ -brand-s
 identity-connection-file = Ин саҳифа дар компютери шумо нигоҳ дошта мешавад.
 identity-extension-page = Ин саҳифа аз васеъшавӣ бор карда шудааст.
 identity-active-blocked = «{ -brand-short-name }» қисмҳои ин саҳифаро манъ кард, зеро ки онҳо бехатар нестанд.
-identity-custom-root = Пайвастшавӣ аз тарафи барорандаи гувоҳиномае тасдиқ карда шудааст, ки Mozilla онро эътироф намекунад.
+identity-custom-root = Пайвастшавӣ аз тарафи барорандаи гувоҳномае тасдиқ карда шудааст, ки Mozilla онро эътироф намекунад.
 identity-passive-loaded = Қисмҳои ин саҳифа бехатар нестанд (масалан, тасвирҳо).
 identity-active-loaded = Шумо барои ин саҳифа муҳофизатро ғайрифаъол кардед.
 identity-weak-encryption = Ин саҳифа рамзгузории камқувватро истифода мебарад.
@@ -408,8 +408,8 @@ identity-clear-site-data =
     .label = Пок кардани кукиҳо ва иттилооти сомона…
 identity-connection-not-secure-security-view = Шумо ба ин сомона тавассути шабакаи муҳофизатнашуда пайваст шудед.
 identity-connection-verified = Шумо ба ин сомона тавассути шабакаи муҳофизатшуда пайваст шудед.
-identity-ev-owner-label = Гувоҳинома дода шуд ба:
-identity-description-custom-root = Mozilla ин барорандаи гувоҳиномаро эътироф намекунад. Эҳтимол аст, ки он аз тарафи низоми амалкунандаи шумо ё аз ҷониби маъмур илова карда шуд. <label data-l10n-name="link">Маълумоти бештар</label>
+identity-ev-owner-label = Гувоҳнома дода шуд ба:
+identity-description-custom-root = Mozilla ин барорандаи гувоҳномаро эътироф намекунад. Эҳтимол аст, ки он аз тарафи низоми амалкунандаи шумо ё аз ҷониби маъмур илова карда шуд. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-remove-cert-exception =
     .label = Тоза кардани истисно
     .accesskey = Т

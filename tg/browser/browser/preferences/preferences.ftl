@@ -73,6 +73,17 @@ restart-later = Баъдтар аз нав оғоз карда шавад
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ин танзимро идора мекунад.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = Т
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Танзимот…
     .accesskey = Т
 containers-disable-alert-title = Ҳамаи варақаҳои дарбаргирандаро мепӯшед?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Агар шумо варақаҳои дарбаргирандаро ҳоли ҳозир ғайрифаъол кунед, { $tabCount } варақаи дарбаргиранда пӯшида мешавад. Шумо мутмаин ҳастед, ки мехоҳед варақаҳои дарбаргирандаро ғайрифаъол созед?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Пӯшидани { $tabCount } варақаи дарбаргиранда
        *[other] Пӯшидани { $tabCount } варақаи дарбаргиранда
     }
+
+##
+
 containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошта шавад
 containers-remove-alert-title = Ин дарбаргирандаро тоза мекунед?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Агар шумо ин дарбаргирандаро ҳоли ҳозир тоза кунед, { $count } варақаи дарбаргиранда пӯшида мешавад. Шумо мутмаин ҳастед, ки мехоҳед ин дарбаргирандаро тоза намоед?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Танзими андоза
 preferences-default-zoom = Андозаи пешфарз
     .accesskey = А
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Ҳамеша пурсидан
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Истифодаи «{ $plugin-name }» (дар «{ -brand-short-name }»)
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Маълумоти бештар
 update-application-title = Навсозиҳои «{ -brand-short-name }»
 update-application-description = «{ -brand-short-name }»-ро барои беҳтарин кори самаранок, устуворӣ ва амният ҳамеша навсозӣ кунед.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Версияи { $version } <a data-l10n-name="learn-more">Чӣ нав аст</a>
 update-history =
     .label = Намоиши таърихи навсозиҳо…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = К
 update-setting-write-failure-title2 = Ҳангоми нигоҳ доштани танзимоти навсозӣ хато ба миён омад
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -428,7 +450,7 @@ performance-limit-content-process-option = Шумораи ҳадди аксар�
 performance-limit-content-process-enabled-desc = Равандҳои иловагии муҳтаво ҳангоми кор бо варақаҳои сершумор метавонанд самаранокиро беҳтар кунанд, аммо, инчунин, ҳофизаи бештарро истифода мебаранд.
 performance-limit-content-process-blocked-desc = Иваз кардани шумораи равандҳои муҳтаво танҳо бо «{ -brand-short-name }»-и серраванд имконпазир аст. <a data-l10n-name="learn-more">Барои санҷидани фаъол ё ғайрифаъол будани серравандӣ маълумот гиред</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (пешфарз)
 
@@ -534,6 +556,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Аз тарафи { $provider } тавсия дода мешавад
 home-prefs-recommended-by-description-new = Муҳтавои мустасно аз тарафи { $provider } интихоб карда шудааст ва қисми оилаи { -brand-product-name } мебошад
@@ -563,6 +589,8 @@ home-prefs-recent-activity-description = Интихоби сомонаҳо ва 
 home-prefs-snippets-header =
     .label = Ёддоштҳо
 home-prefs-snippets-description-new = Маслиҳатҳо ва ахбор аз { -vendor-short-name } ва { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -627,7 +655,7 @@ search-find-more-link = Ёфтани низомҳои ҷустуҷӯии беш�
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Калимаи калидии такрорӣ
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Шумо калимаи калидиеро интихоб кардед, ки айни замон аз ҷониби «{ $name }» истифода мешавад. Лутфан калимаи дигареро интихоб кунед.
 search-keyword-warning-bookmark = Шумо калимаи калидиеро интихоб кардед, ки айни замон аз ҷониби хатбарак истифода мешавад. Лутфан калимаи дигареро интихоб кунед.
 
@@ -674,8 +702,15 @@ sync-sign-out =
     .accesskey = Б
 sync-manage-account = Идоракунии ҳисобҳо
     .accesskey = И
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } тасдиқ нашудааст.
 sync-signedin-login-failure = Лутфан, барои аз нав пайваст кардани { $email } ворид шавед
+
+##
+
 sync-resend-verification =
     .label = Аз нав фиристодани тасдиқ
     .accesskey = А
@@ -889,8 +924,8 @@ history-clear-button =
 sitedata-header = Кукиҳо ва иттилооти сомона
 sitedata-total-size-calculating = Ҳисобкунии ҳаҷми маълумоти сомона ва андозаи зерҳофиза…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Айни замон кукиҳои нигоҳдошташуда, маълумоти сомона ва зерҳофиза { $value } { $unit } фазои дискро истифода мебаранд.
 sitedata-learn-more = Маълумоти бештар
 sitedata-delete-on-close =
@@ -1147,12 +1182,12 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Гувоҳиномаҳо
+certs-header = Гувоҳномаҳо
 certs-enable-ocsp =
-    .label = Фиристодани дархостҳо ба серверҳои OCSP барои тасдиқ кардани эътиборнокии ҷории гувоҳиномаҳо
+    .label = Фиристодани дархостҳо ба серверҳои OCSP барои тасдиқ кардани эътиборнокии ҷории гувоҳномаҳо
     .accesskey = Ф
 certs-view =
-    .label = Дидани гувоҳиномаҳо…
+    .label = Дидани гувоҳномаҳо…
     .accesskey = Д
 certs-devices =
     .label = Дастгоҳҳои амният…
