@@ -33,3 +33,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 controls-button-label-verbose = Aplikatu ezarpenak eta bidali ping-a
+about-glean-about-data-header = Datuei buruz
+about-glean-about-data-explanation =
+    Biltzen den datu-zerrenda arakatzeko, begiratu
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Hiztegia</a>.

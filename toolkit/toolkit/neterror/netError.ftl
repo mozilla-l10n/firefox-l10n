@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Egiaztatu { -brand-short-name }(e)k weber
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure konfiantzazko DNS ebazlearen bidez. Hona hemen zergatik:
 neterror-dns-not-found-trr-only-attackers = Jarraituz gero, bisitatzen dituzun webguneak ikusi edo gune fidagaitz batera bidal zaitzake hirugarren batek.
+neterror-dns-not-found-trr-third-party-warning = Segurua ez den DNS ebazle batekin jarrai dezakezu. Halere, hirugarren batentzat posible izan liteke bisitatzen dituzun webguneak ikustea.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }(e) ezin izan du { $trrDomain } ostalarira konektatu.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ostalarirako konexioak uste baino denbora gehiago behar izan du.
 neterror-dns-not-found-trr-offline = Ez zaude Internetera konektatuta.
