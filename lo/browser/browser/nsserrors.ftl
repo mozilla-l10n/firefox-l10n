@@ -20,6 +20,7 @@ ssl-error-mac-computation-failure = ການຄິດໄລ່ MAC ລົ້ມ
 ssl-error-sym-key-context-failure = ລົ້ມເຫລວໃນການສ້າງເນື້ອຫາ Symmetric Key.
 ssl-error-session-key-gen-failure = ລູກຄ້າລົ້ມເຫລວໃນການສ້າງລະຫັດເຊດຊັນສໍາລັບເຊດຊັນ SSL.
 ssl-error-no-server-key-for-alg = ເຊີບເວີບໍ່ມີກະແຈສຳລັບການພະຍາຍາມແລກປ່ຽນລະຫັດ.
+ssl-error-no-compression-overlap = ບໍ່​ສາ​ມາດ​ຕິດ​ຕໍ່​ສື່​ສານ​ຢ່າງ​ປອດ​ໄພ​ກັບ​ຫມູ່​ເພື່ອນ​: ບໍ່​ມີ​ວິ​ທີ​ການ​ບີບ​ອັດ​ທົ່ວ​ໄປ​.
 ssl-error-digest-failure = ຟັງຊັນຍ່ອຍບໍ່ສຳເລັດ.
 ssl-error-rx-short-dtls-read = ບໍ່ມີຫ້ອງພຽງພໍໃນ buffer ສໍາລັບບັນທຶກ DTLS.
 sec-error-duplicate-cert = ໃບຢັ້ງຢືນມີຢູ່ໃນຖານຂໍ້ມູນຂອງເຈົ້າແລ້ວ.
