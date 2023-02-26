@@ -7,6 +7,9 @@ about-logins-page-title = Saio-hasierak eta pasahitzak
 login-filter =
     .placeholder = Bilatu saio-hasierak
 create-login-button = Sortu saio-hasiera berria
+about-logins-login-filter =
+    .placeholder = Bilatu saio-hasierak
+    .key = B
 create-new-login-button =
     .title = Sortu saio-hasiera berria
 fxaccounts-sign-in-text = Eskuratu zure pasahitzak zure beste gailuetan
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Laguntza
 
 login-list =
     .aria-label = Bilaketarekin bat datozen saio-hasierak
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] Saio-hasiera bat
@@ -106,6 +111,8 @@ login-item-time-used = Azken erabilera: { DATETIME($timeUsed, day: "numeric", mo
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Sortuta
 login-item-timeline-action-updated = Eguneratua
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Kendu
@@ -187,6 +198,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera { -fxaccount-brand-name } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
        *[other] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera guztiak { -fxaccount-brand-name(kasua: "0") } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…

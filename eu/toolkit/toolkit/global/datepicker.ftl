@@ -15,6 +15,10 @@ date-picker-label =
 date-spinner-label =
     .aria-label = Aukeratu hilabetea eta urtea
 
+## Text of the clear button
+
+date-picker-clear-button = Garbitu
+
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
