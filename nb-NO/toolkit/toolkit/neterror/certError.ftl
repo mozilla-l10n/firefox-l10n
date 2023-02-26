@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } bruker et ugyldig sikkerhetssertifikat.
 cert-error-mitm-intro = Nettsteder beviser sin identitet via sertifikater, som utstedes av sertifikatmyndigheter.
 cert-error-mitm-mozilla = { -brand-short-name } er støttet av den ideelle organisasjonen Mozilla, som driver en fullstendig åpen database for sertifiseringsmyndigheter (CA Store). Denne databasen bidrar til å sikre at sertifiseringsmyndighetene overholder brukerens beste praksis for brukersikkerhet.
 cert-error-mitm-connection = { -brand-short-name } bruker Mozilla sin database for sertifiseringsmyndigheter (CA Store) for å bekrefte om en forbindelse er trygg, istedenfor sertifikat som leveres av brukerens operativsystem. Så om et antivirusprogram eller et nettverk avlytter en tilkobling med et sikkerhetssertifikat utstedt av en sertifiseringsmyndighet som ikke finnes i Mozillas database, anses forbindelsen som usikker.
 cert-error-trust-unknown-issuer-intro = Noen kan prøve å etterligne nettstedet, og du bør ikke fortsette.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Nettsteder beviser identiteten sin via sertifikater. { -brand-short-name } stoler ikke på { $hostname } fordi sertifikatutstederen er ukjent, sertifikatet er selv-signert, eller fordi serveren ikke sender de rette mellomsertifikatene.
 cert-error-trust-cert-invalid = Sertifikatet er ikke tiltrodd fordi det er utstedt av et ugyldig CA-sertifikat.
 cert-error-trust-untrusted-issuer = Sertifikatet er ikke tiltrodd fordi utstedersertifikatet ikke er tiltrodd.
@@ -20,52 +20,53 @@ cert-error-trust-self-signed = Sertifikatet er ikke tiltrodd fordi det er selvsi
 cert-error-trust-symantec = Sertifikater utstedt av GeoTrust, RapidSSL, Symantec, Thawte og VeriSign anses ikke lenger som trygge fordi disse sertifikatmyndighetene ikke klarte å følge sikkerhetspraksis tidligere.
 cert-error-untrusted-default = Sertifikatet kommer ikke fra en tiltrodd kilde.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Nettsteder beviser identiteten sin via sertifikater. { -brand-short-name } stoler ikke på dette nettstedet fordi det bruker et sertifikat som ikke er gyldig for { $hostname }.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $alt-name (string) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single = Nettsteder beviser identiteten sin via sertifikater. { -brand-short-name } stoler ikke på dette nettstedet fordi det bruker et sertifikat som ikke er gyldig for { $hostname }. Sertifikatet er bare gyldig for <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $alt-name (string) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Nettsteder beviser identiteten sin via sertifikater. { -brand-short-name } stoler ikke på dette nettstedet fordi det bruker et sertifikat som ikke er gyldig for { $hostname }. Sertifikatet er bare gyldig for { $alt-name }.
 # Variables:
-# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $subject-alt-names (string) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Nettsteder beviser identiteten sin via sertifikater. { -brand-short-name } stoler ikke på dette nettstedet fordi det bruker et sertifikat som ikke er gyldig for { $hostname }. Sertifikatet er bare gyldig for følgende navn: { $subject-alt-names }
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $not-after-local-time (Date) - Certificate is not valid after this time.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = Nettsteder bekrefter deres identitet ved hjelp av sikkerhets-sertifikater som er gyldige i en bestemt periode. Sertifikatet for { $hostname } utløp { $not-after-local-time }.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $not-before-local-time (Date) - Certificate is not valid before this time.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Nettsteder bekrefter deres identitet ved hjelp av sikkerhets-sertifikater som er gyldige i en bestemt periode. Sertifikatet for { $hostname } vil ikke være gyldig før { $not-before-local-time }.
 # Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Feilkode: { $error }
 # Variables:
-# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Feilkode: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+#   $hostname (string) - Hostname of the website with SSL error.
+#   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = En feil oppstod under tilkobling til { $hostname }. { $errorMessage }
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Nettsteder viser sin identitet via sertifikater, som utstedes av sertifikatmyndigheter. De fleste nettlesere stoler ikke lenger på sertifikater utstedt av GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } bruker et sertifikat fra en av disse myndighetene, og dermed kan nettstedets identitet ikke bevises.
 cert-error-symantec-distrust-admin = Du kan varsle nettstedets administrator om dette problemet.
 cert-error-old-tls-version = Dette nettstedet støtter kanskje ikke versjon 1.2 av TLS-protokollen, som er minimumsversjonen som støttes av { -brand-short-name }.
 # Variables:
-# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+#   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
-# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+#   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikatkjede:
 open-in-new-window-for-csp-or-xfo-error = Åpne nettsted i nytt vindu
 # Variables:
-# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+#   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheten din, vil { $hostname } ikke tillate at { -brand-short-name } viser siden hvis et annet nettsted har bygd den inn. For å se denne siden, må du åpne den i et nytt vindu.
 
 ## Messages used for certificate error titles
@@ -76,10 +77,12 @@ deniedPortAccess-title = Tilgang til denne adressen er begrenset
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Vi har problemer med å finne nettstedet.
 # Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Mulig sikkerhetsrisiko for { $hostname }.
 # Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title2 = Mulig sikkerhetsrisiko ved å søke opp dette domenet
+# Variables:
+#   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Mulig sikkerhetsrisiko for { $hostname }.
 fileNotFound-title = Fil ikke funnet
 fileAccessDenied-title = Tilgang til filen ble nektet
