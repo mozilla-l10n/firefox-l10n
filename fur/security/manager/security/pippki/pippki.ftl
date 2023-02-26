@@ -82,3 +82,6 @@ protected-auth-token = Gjeton:
 
 ## Protected authentication alert
 
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Autentichiti pal gjeton “{ $tokenName }”. Pe modalitât al dipent dal gjeton (par esempli, doprant un letôr di impronts digjitâi o inserint un codiç cuntun tastierin numeric).
