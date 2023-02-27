@@ -7,6 +7,9 @@ about-logins-page-title = Přizjewjenja a hesła
 login-filter =
     .placeholder = Přizjewjenja pytać
 create-login-button = Nowe přizjewjenje załožić
+about-logins-login-filter =
+    .placeholder = Přizjewjenja přepytać
+    .key = P
 create-new-login-button =
     .title = Nowe přizjewjenje załožić
 fxaccounts-sign-in-text = Přinjesće swoje hesła do wašich druhich gratow
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Pomoc
 
 login-list =
     .aria-label = Přizjewjenja, kotrež pytanskemu naprašowanju wotpowěduja
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } přizjewjenje
@@ -108,6 +113,8 @@ login-item-time-used = Poslednje wužiće: { DATETIME($timeUsed, day: "numeric",
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Wutworjeny
 login-item-timeline-action-updated = Zaktualizowany
@@ -157,6 +164,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Tute přizjewjenje wotstronić?
 confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
 about-logins-confirm-remove-dialog-confirm-button = Wotstronić
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Wotstronić
@@ -203,6 +214,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
        *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
 about-logins-confirm-export-dialog-message = Waše hesła budu so jako čitajomny tekst składować (na př. BadP@ass0rd), tohodla móže kóždy, kotryž móže eksportowanu dataju wočinić, je widźeć.
 about-logins-confirm-export-dialog-confirm-button = Eksportować…
