@@ -45,3 +45,4 @@ screenshots-private-window-error-details = Anteeksi häiriö. Tämä ominaisuus 
 screenshots-generic-error-title = Oho! { -screenshots-brand-name } meni päin prinkkalaa.
 screenshots-generic-error-details = Emme oikein tiedä, mitä tapahtui. Haluatko yrittää uudestaan tai ottaa kuvan eri sivusta?
 screenshots-too-large-error-title = Kuvakaappaus rajattiin, koska se oli liian suuri
+screenshots-too-large-error-details = Yritä valita alue, jonka pisin sivu on pienempi kuin 32 700 pikseliä tai kokonaispinta-ala 124 900 000 pikseliä.
