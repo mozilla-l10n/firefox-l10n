@@ -242,6 +242,8 @@ colorways-cfr-primarybutton = Barwowu kombinaciju wubraś
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Pšec z cookiejowymi chórgojami!
 cfr-cookiebanner-accept-button-v2 = Napšašowanja wótpokazaś
     .accesskey = N
 cfr-cookiebanner-reject-button = Nic něnto
