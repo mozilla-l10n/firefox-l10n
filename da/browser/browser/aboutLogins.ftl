@@ -7,6 +7,9 @@ about-logins-page-title = Logins & adgangskoder
 login-filter =
     .placeholder = Søg efter logins
 create-login-button = Opret nyt login
+about-logins-login-filter =
+    .placeholder = Søg efter logins
+    .key = F
 create-new-login-button =
     .title = Opret nyt login
 fxaccounts-sign-in-text = Få dine adgangkoder på alle dine enheder
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Hjælp
 
 login-list =
     .aria-label = Logins der matcher din søgning
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } login
@@ -106,6 +111,8 @@ login-item-time-used = Senest brugt: { DATETIME($timeUsed, day: "numeric", month
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Oprettet
 login-item-timeline-action-updated = Opdateret
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Fjern dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fjern
@@ -188,6 +199,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Denne handling fjerner det login, du har gemt til { -brand-short-name } på alle enheder, der er synkroniseret med din { -fxaccount-brand-name }. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
        *[other] Denne handling fjerner de logins, du har gemt til { -brand-short-name } på alle enheder, der er synkroniseret med din { -fxaccount-brand-name }. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Eksporter logins og adgangskoder
 about-logins-confirm-export-dialog-message = Dine adgangskoder bliver gemt som læsbar tekst (fx dåRligAdg@ngsk0de), så alle der kan åbne den eksportede fil kan se dine adgangskoder.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…

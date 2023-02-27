@@ -251,8 +251,8 @@ colorways-cfr-header-today = Farvekombinationerne "Uafhængige stemmer" udløber
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Slut med cookie-bannere!
 cfr-cookiebanner-body = Tillad { -brand-short-name } at afvise alle forespørgsler om cookie-bannere automatisk, når det er muligt.
-cfr-cookiebanner-accept-button = Afvis bannere
-    .accesskey = A
+cfr-cookiebanner-accept-button-v2 = Afvis forespørgsler
+    .accesskey = f
 cfr-cookiebanner-reject-button = Ikke nu
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Se færre pop op-beskeder om cookies
