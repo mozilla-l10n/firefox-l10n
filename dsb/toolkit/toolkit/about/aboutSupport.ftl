@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Protokol rozsuźenja
 graphics-crash-guards-title = Funkcije, kótarež su se wót wowaleńskego stražnika znjemóžnili
 graphics-workarounds-title = Nuzowe rozwězanja
+graphics-device-pixel-ratios = Rědowe pikselowe poměry (device pixel ratios) wokna
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Woknowy protokol
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).

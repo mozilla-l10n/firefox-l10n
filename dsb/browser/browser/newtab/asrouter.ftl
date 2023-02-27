@@ -63,6 +63,9 @@ cfr-doorhanger-extension-total-users =
 
 ## Cookie Banner Handling Onboarding
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Pšec z cookiejowymi chórgojami!
 cfr-cookie-banner-accept-button = Napšašowanja zachyśiś
     .accesskey = N
 cfr-cookie-banner-reject-button = Nic něnto
