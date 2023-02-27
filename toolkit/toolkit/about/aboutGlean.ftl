@@ -49,6 +49,8 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Test Hakkında
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (hiçbir ping gönderme)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Önceki alanda, pinglerinizi daha sonra tanıyabilmeniz için akılda kalıcı bir hata ayıklama etiketi olduğundan emin olun.
 controls-button-label-verbose = Ayarları uygula ve ping gönder
 about-glean-about-data-header = Veriler Hakkında
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
