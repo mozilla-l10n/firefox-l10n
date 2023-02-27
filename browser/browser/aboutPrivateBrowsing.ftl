@@ -63,3 +63,4 @@ about-private-browsing-pin-promo-title = Ei tallennettuja evästeitä tai histor
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Evästeilmoitukset poistukaa!
 about-private-browsing-cookie-banners-promo-button = Vähennä evästeisiin liittyviä ilmoituksia
+about-private-browsing-cookie-banners-promo-message = Anna { -brand-short-name }in vastata automaattisesti evästeiden ponnahduspyyntöihin, jotta selaaminen olisi mahdollisimman häiriötöntä. { -brand-short-name } hylkää kaikki pyynnöt, jos mahdollista.
