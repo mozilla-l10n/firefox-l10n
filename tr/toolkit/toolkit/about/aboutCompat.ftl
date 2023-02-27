@@ -5,6 +5,8 @@
 label-disable = Devre dışı bırak
 label-enable = Etkinleştir
 label-interventions = Müdahaleler
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Daha fazla bilgi: Bug { $bug }
 label-overrides = User Agent Geçersiz Kılmaları
 text-disabled-in-about-config = Bu özellik about:config’de devre dışı bırakılmış
@@ -18,5 +20,5 @@ text-title = about:compat
 ## breakage. SmartBlock also contains special fixes for sites broken by
 ## Firefox's Total Cookie Protection feature.
 
-label-smartblock = SmartBlock düzeltmeleri
+label-smartblock = SmartBlock Düzeltmeleri
 text-no-smartblock = Hiç SmartBlock düzeltmesi kullanılmıyor
