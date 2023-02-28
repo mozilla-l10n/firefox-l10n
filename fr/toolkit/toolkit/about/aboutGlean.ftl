@@ -42,5 +42,8 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code> : { $glean-android-d
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-define-value }
+about-glean-about-testing-header = À propos des tests
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Dans le champ précédent, assurez-vous qu’il y ait une balise de débogage mémorisable afin que vous puissiez reconnaître vos pings plus tard.
 controls-button-label-verbose = Appliquer les paramètres et envoyer le ping
 about-glean-about-data-header = À propos des données
