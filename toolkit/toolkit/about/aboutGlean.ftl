@@ -44,3 +44,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-def
 about-glean-no-ping-label = (enviar pas cap de ping)
 controls-button-label-verbose = Aplicar los paramètres e enviar lo ping
 about-glean-about-data-header = A prepaus de las donadas
+about-glean-about-data-explanation =
+    Per percórrer la lista de las donadas collectadas, mercés de consultar lo
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } diccionari</a>.
