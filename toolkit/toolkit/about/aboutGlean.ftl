@@ -21,6 +21,11 @@ glean-sdk-brand-name = SDK { -glean-brand-name }
 glean-debug-ping-viewer-brand-name = Visionadora de desbugatge de laténcia { -glean-brand-name }
 about-glean-page-title2 = A prepaus de { -glean-brand-name }
 about-glean-header = A prepaus de { -glean-brand-name }
+about-glean-interface-description =
+    Lo <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    es una bibliotèca de reculhida de donadas utilizada dins lo projècte { -vendor-short-name }.
+    Aquesta interfàcia es concebuda pels desvolopaires e provaires pels
+    <a data-l10n-name="fog-link">ensages d’instrumentacion</a>.
 about-glean-upload-enabled = Lo mandadís de donadas es activat.
 about-glean-upload-disabled = Lo mandadís de donadas es desactivat.
 about-glean-upload-enabled-local = Lo mandadís de donadas es activat sonque cap a un servidor local.
