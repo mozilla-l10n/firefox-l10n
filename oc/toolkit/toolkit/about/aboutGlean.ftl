@@ -29,6 +29,12 @@ about-glean-interface-description =
 about-glean-upload-enabled = Lo mandadís de donadas es activat.
 about-glean-upload-disabled = Lo mandadís de donadas es desactivat.
 about-glean-upload-enabled-local = Lo mandadís de donadas es activat sonque cap a un servidor local.
+about-glean-upload-fake-enabled =
+    Lo mandadís de donadas es desactivat,
+    mas mentissèm e disèm a { glean-sdk-brand-name } qu’es activat
+    per que las donadas sián enregistradas localament.
+    Nòta : se definissètz una balisa de desbugatge, los pings seràn enviats sus lo
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> quin paramètre causit que siá.
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
@@ -45,8 +51,11 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code> : { $glean-android-
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-define-value }
+about-glean-about-testing-header = A prepaus des ensages
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (enviar pas cap de ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Dins los camps precedents, asseguratz-vos qu’i aja una balisa de desbugatge memorizabla per que poscatz reconéisser vos pings mai tard.
 controls-button-label-verbose = Aplicar los paramètres e enviar lo ping
 about-glean-about-data-header = A prepaus de las donadas
 about-glean-about-data-explanation =
