@@ -18,6 +18,7 @@ controls-button-label = Gem indstillinger
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = Ping-viser for { -glean-brand-name }-debugging
 about-glean-page-title2 = Om { -glean-brand-name }
 about-glean-header = Om { -glean-brand-name }
 controls-button-label-verbose = Anvend indstillinger og send ping
