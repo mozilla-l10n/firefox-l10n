@@ -54,6 +54,7 @@ neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan ikkje beskytte førespurnaden din om adressa til denne nettstaden, gjennom den pålitelege DNS-løysaren vår. Årsak:
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } klarte ikkje å kople til { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tilkoblinga til { $trrDomain } tok lengre tid enn forventa.
 neterror-dns-not-found-trr-offline = Du er ikkje kopla til internett.
