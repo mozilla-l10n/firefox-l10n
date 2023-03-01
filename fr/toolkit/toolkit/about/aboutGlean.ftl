@@ -26,6 +26,8 @@ about-glean-upload-enabled-local = L'envoi de données est activé uniquement ve
 about-glean-upload-fake-enabled =
     L’envoi de données est désactivé, mais nous mentons au { glean-sdk-brand-name } et lui disons que cet envoi est activé afin que les données soient toujours enregistrées localement.
     Note : si vous définissez une balise de débogage, les pings seront envoyés sur le <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> quels que soient les paramètres.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Les <a data-l10n-name="fog-prefs-and-defines-doc-link">préférences et définitions pertinentes</a> incluent :
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
