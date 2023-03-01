@@ -47,6 +47,13 @@ about-logins-menu-menuitem-help = Supporto
 login-list =
     .aria-label = Credenziali corrispondenti ai criteri di ricerca
 login-list-count = { $count } credenziali
+
+login-list-filtered-count =
+  { $total ->
+      [one] { $count } di { $total } credenziale
+     *[other] { $count } di { $total } credenziali
+  }
+
 login-list-sort-label-text = Ordina per:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
