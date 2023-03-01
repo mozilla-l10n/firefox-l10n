@@ -180,6 +180,8 @@ newtab-section-menu-privacy-notice = ນະໂຍບາຍຄວາມເປັ�
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = ຍຸບສ່ວນ
 newtab-section-expand-section-label =
     .aria-label = ຂະຫຍາຍສ່ວນ
 

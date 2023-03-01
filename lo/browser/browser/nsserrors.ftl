@@ -41,6 +41,7 @@ ssl-error-sym-key-unwrap-failure = ລົ້ມເຫລວໃນການຖອ
 ssl-error-session-key-gen-failure = ລູກຄ້າລົ້ມເຫລວໃນການສ້າງລະຫັດເຊດຊັນສໍາລັບເຊດຊັນ SSL.
 ssl-error-no-server-key-for-alg = ເຊີບເວີບໍ່ມີກະແຈສຳລັບການພະຍາຍາມແລກປ່ຽນລະຫັດ.
 ssl-error-no-compression-overlap = ບໍ່​ສາ​ມາດ​ຕິດ​ຕໍ່​ສື່​ສານ​ຢ່າງ​ປອດ​ໄພ​ກັບ​ຫມູ່​ເພື່ອນ​: ບໍ່​ມີ​ວິ​ທີ​ການ​ບີບ​ອັດ​ທົ່ວ​ໄປ​.
+ssl-error-internal-error-alert = Peer ລາຍງານວ່າມັນປະສົບກັບຄວາມຜິດພາດພາຍໃນ.
 ssl-error-user-canceled-alert = ຜູ້ໃຊ້ທີ່ຈະຈັບຄູ່ໄດ້ຍົກເລີກການຈັບມື.
 ssl-error-bad-cert-hash-value-alert = SSL peer ລາຍງານຄ່າໃບຮັບຮອງທີ່ບໍ່ດີ.
 ssl-error-digest-failure = ຟັງຊັນຍ່ອຍບໍ່ສຳເລັດ.
