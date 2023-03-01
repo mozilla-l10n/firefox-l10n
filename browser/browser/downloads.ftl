@@ -48,6 +48,7 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = { $handler } で開く
     .accesskey = I
+
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -183,7 +184,7 @@ downloads-cancel-download =
 downloads-history =
     .label = すべてのダウンロード履歴を表示
     .accesskey = S
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = ダウンロードの詳細
