@@ -15,6 +15,18 @@ controls-button-label = Submeter definições
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } Debug Ping Viewer
 about-glean-page-title2 = Sobre { -glean-brand-name }
 about-glean-header = Sobre { -glean-brand-name }
+about-glean-interface-description =
+    O <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    é uma biblioteca de recolha de dados utilizada em projetos { -vendor-short-name }.
+    Este interface foi projetado para ser utilizado por programadores e testadores para
+    <a data-l10n-name="fog-link">testar instrumentação</a> manualmente.
+about-glean-upload-enabled = O carregamento de dados está ativado.
+about-glean-upload-disabled = O carregamento de dados está desativado.
+about-glean-upload-enabled-local = O carregamento de dados está ativo apenas para o envio para um servidor local.
 controls-button-label-verbose = Aplicar configurações e enviar ping
