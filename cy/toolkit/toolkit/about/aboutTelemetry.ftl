@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Estyn enwau swyddogaethau ar gyfer pentyrr
 about-telemetry-hide-stack-symbols = Dangos data pentwr bras
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] ryddhau data
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] galluogwyd
@@ -58,9 +58,9 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [zero] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
@@ -71,42 +71,42 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Mae'r dudalen hon yn dangos gwybodaeth am berfformiad, caledwedd, defnydd a chyfaddasiadau a gasglwyd gan y Delemetreg. Mae'r wybodaeth yn cael ei gyflwyno i { $telemetryServerOwner } er mwyn gwella { -brand-full-name }.
 about-telemetry-settings-explanation = Mae telemetreg yn casglu { about-telemetry-data-type } a'r llwyth yw <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Mae pob darn o wybodaeth wedi ei anfon wedi ei becynnu i “<a data-l10n-name="ping-link">pingiau</a>”. Rydych yn edrych ar ping { $name }, { $timestamp }.
 about-telemetry-data-details-current = Mae pob darn o wybodaeth yn cael ei anfon wedi'i fwndelu i “<a data-l10n-name="ping-link">bingiadau</a>“. Rydych yn edrych ar y data cyfredol.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Canfod yn y { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Canfod ym mhob adran
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Canlyniadau “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Ymddiheuriadau! Does dim canlyniadau yn { $sectionName } ar gyfer “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Ymddiheuriadau! Nid oes canlyniadau i unrhyw adran am “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Ymddiheuriadau! Nid oes data ar gael ar hyn o bryd yn “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = data cyfredol
 # used in the “Ping Type” select
-about-telemetry-telemetry-ping-type-all = popeth
+about-telemetry-telemetry-ping-type-all = y cyfan
 # button label to copy the histogram
 about-telemetry-histogram-copy = Copïo
 # these strings are used in the “Slow SQL Statements” section
@@ -119,13 +119,13 @@ about-telemetry-slow-sql-statement = Datganiad
 about-telemetry-addon-table-id = Enw'r Ychwanegyn
 about-telemetry-addon-table-details = Manylion
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Darparwr { $addonProvider }
 about-telemetry-keys-header = Priodwedd
 about-telemetry-names-header = Enw
 about-telemetry-values-header = Gwerth
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Ysgrifennu Hwyr #{ $lateWriteCount }
 about-telemetry-stack-title = Stac:
 about-telemetry-memory-map-title = Map cof:
@@ -139,8 +139,8 @@ about-telemetry-origin-section = Telemetreg y Tarddiad
 about-telemetry-origin-origin = tarddiad
 about-telemetry-origin-count = cyfrif
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - The value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = Mae <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> yn amgodio data cyn iddo gael ei anfon fel bod { $telemetryServerOwner } yn gallu cyfrif pethau, ond heb wybod a yw { -brand-product-name } wedi cyfrannu i'r cyfrif hwnnw. (<a data-l10n-name="prio-blog-link">Dysgu rhagor</a>)
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Proses { $process }

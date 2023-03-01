@@ -6,7 +6,7 @@
 ## Messages used as headers in the main pane
 
 compatibility-selected-element-header = Elfennau Dewiswyd
-compatibility-all-elements-header = Pob Cyhoeddiad
+compatibility-all-elements-header = Pob mater
 
 ## Message used as labels for the type of issue
 
@@ -43,11 +43,9 @@ compatibility-issue-occurrences =
         [many] { $number } digwyddiad
        *[other] { $number } digwyddiad
     }
-
 compatibility-no-issues-found = Dim materion cydnawsedd. wedi'u canfod.
 compatibility-close-settings-button =
     .title = Cau'r gosodiadau
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:
