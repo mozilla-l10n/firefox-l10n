@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = ສຳເນົາ
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = ເລືອກທັ້ງຫມົດ
     .accesskey = A
-
 general-tab =
     .label = ທົ່ວໄປ
     .accesskey = G
@@ -40,7 +37,6 @@ general-meta-name =
     .label = ຊື່
 general-meta-content =
     .label = ເນື້ອຫາ
-
 media-tab =
     .label = ມີເດຍ
     .accesskey = M
@@ -62,19 +58,20 @@ media-dimension =
     .value = ມິຕິ:
 media-long-desc =
     .value = ຄຳອະທິບາຍແບບຍາວ:
+media-select-all =
+    .label = ເລືອກທັ້ງຫມົດ
+    .accesskey = e
 media-save-as =
     .label = ບັນທຶກເປັນ…
     .accesskey = A
 media-save-image-as =
     .label = ບັນທຶກເປັນ…
     .accesskey = e
-
 perm-tab =
     .label = ການອະນຸຍາດ
     .accesskey = P
 permissions-for =
     .value = ການອະນຸຍາດສຳລັບ:
-
 security-tab =
     .label = ຄວາມປອດໄພ
     .accesskey = S
@@ -95,22 +92,17 @@ security-view-identity-validity =
     .value = ຫມົດອາຍຸ:
 security-view-privacy =
     .value = ຄວາມເປັນສ່ວນຕົວ & ປະຫວັດການໃຊ້ງານ
-
 security-view-privacy-history-value = ຂ້ອຍເຄີຍເຂົ້າເບິ່ງເວັບໄຊທ໌ນີ້ກ່ອນຫນ້າມື້ນີ້ບໍ່?
 security-view-privacy-sitedata-value = ເວັບໄຊທ໌ນີ້ຈັດເກັບຂໍ້ມູນລົງໃນຄອມພິວເຕີຂອງຂ້ອຍບໍ່?
-
 security-view-privacy-clearsitedata =
     .label = ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊທ໌
     .accesskey = C
-
 security-view-privacy-passwords-value = ຂ້ອຍເຄີຍບັນທຶກລະຫັດຜ່ານໃດໆສຳລັບເວັບໄຊທ໌ນີ້ບໍ່?
-
 security-view-privacy-viewpasswords =
     .label = ເບິ່ງລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
     .accesskey = w
 security-view-technical =
     .value = ລາຍລະອຽດທາງດ້ານເຕັກນິກ
-
 help-button =
     .label = ວິທີໃຊ້
 
@@ -120,6 +112,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = ແມ່ນແລ້ວ, ຄຸກກີ້ ແລະ { $value } { $unit } ຂອງຂໍ້ມູນເວັບໄຊ
+security-site-data-only = ແມ່ນແລ້ວ, { $value } { $unit } ຂອງຂໍ້ມູນເວັບໄຊ
+security-site-data-cookies-only = ແມ່ນແລ້ວ, cookies
 security-site-data-no = ບໍ່
 
 ##
@@ -137,10 +132,12 @@ media-video = ວີດີໂອ
 media-audio = ສຽງ
 saved-passwords-yes = ຕົກລົງ
 saved-passwords-no = ບໍ່
-
 page-info-security-no-owner =
     .value = ເວັບໄຊຕ໌ນີ້ບໍ່ໄດ້ສະຫນອງຂໍ້ມູນສ່ວນບຸກຄົນ.
 permissions-use-default =
     .label = ໃຊ້ຄ່າເລີ່ມຕົ້ນ
 security-no-visits = ບໍ່
+
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
 
