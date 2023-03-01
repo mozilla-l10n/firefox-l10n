@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Leturgerðir
-
 fonts-window-close =
     .key = w
 
@@ -12,13 +11,12 @@ fonts-window-close =
 
 fonts-langgroup-header = Letur fyrir
     .accesskey = f
-
 fonts-langgroup-arabic =
-    .label = Arabíska
+    .label = Arabískt
 fonts-langgroup-armenian =
-    .label = Armensíska
+    .label = Armenskt
 fonts-langgroup-bengali =
-    .label = Bengalska
+    .label = Bengalskt
 fonts-langgroup-simpl-chinese =
     .label = Einfölduð kínverska
 fonts-langgroup-trad-chinese-hk =
@@ -32,26 +30,26 @@ fonts-langgroup-devanagari =
 fonts-langgroup-ethiopic =
     .label = Eþíópískt
 fonts-langgroup-georgian =
-    .label = Georgíska
+    .label = Georgískt
 fonts-langgroup-el =
-    .label = Gríska
+    .label = Grískt
 fonts-langgroup-gujarati =
     .label = Gujarati
 fonts-langgroup-gurmukhi =
     .label = Gurmukhi
 fonts-langgroup-japanese =
-    .label = Japanska
+    .label = Japanskt
 fonts-langgroup-hebrew =
-    .label = Hebreska
+    .label = Hebreskt
 fonts-langgroup-kannada =
     .label = Kannadískt
 fonts-langgroup-khmer =
     .label = Kmer
 fonts-langgroup-korean =
-    .label = Kóreska
+    .label = Kóreskt
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 fonts-langgroup-latin =
-    .label = Latneska
+    .label = Latneskt stafróf
 fonts-langgroup-malayalam =
     .label = Malayanskt
 fonts-langgroup-math =
@@ -63,11 +61,11 @@ fonts-langgroup-sinhala =
 fonts-langgroup-tamil =
     .label = Tamíl
 fonts-langgroup-telugu =
-    .label = Indverska (Telugu)
+    .label = Telúgú
 fonts-langgroup-thai =
-    .label = Tælenska
+    .label = Taílenskt
 fonts-langgroup-tibetan =
-    .label = Tíbetska
+    .label = Tíbetskt
 fonts-langgroup-canadian =
     .label = Samræmd Kanadísk atkvæðatákn
 fonts-langgroup-other =
@@ -77,37 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Hlutfallslegt
     .accesskey = u
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Stærð
     .accesskey = t
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Jafnbreitt
     .accesskey = J
-
 fonts-monospace-size = Stærð
     .accesskey = æ
-
 fonts-minsize = Lágmarks leturstærð
     .accesskey = L
-
 fonts-minsize-none =
     .label = Engin
-
 fonts-allow-own =
     .label = Leyfa vefsíðum að velja sínar eigin leturgerðir, í staðinn fyrir mitt val hér fyrir ofan
     .accesskey = a
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
