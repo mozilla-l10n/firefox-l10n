@@ -311,7 +311,7 @@ theme-colorways-button = Rhowch gynnig ar Gyfuniadau Lliw
 theme-colorways-button-colorway-enabled = Newid Cyfuniad Lliw
 # Variables:
 #   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Yn dod i ben{ DATETIME($expiryDate, month: "long", day: "numeric") }
+colorway-collection-expiry-label = Yn dod i ben { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Galluogwyd
 plugin-disabled-heading = Analluogwyd
 dictionary-enabled-heading = Galluogwyd
