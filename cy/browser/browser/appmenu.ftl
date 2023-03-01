@@ -24,7 +24,7 @@ appmenuitem-new-private-window =
 appmenuitem-history =
     .label = Hanes
 appmenuitem-downloads =
-    .label = Llwythi
+    .label = Llwythi i lawr
 appmenuitem-passwords =
     .label = Cyfrineiriau
 appmenuitem-addons-and-themes =
@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
 profiler-popup-presets-web-developer-label =
     .label = Datblygwr Gwe
@@ -213,7 +218,7 @@ appmenu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
 appmenu-get-help =
-    .label = Derbyn Cymorth
+    .label = Derbyn cymorth
     .accesskey = D
 appmenu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth Datrys Problemau

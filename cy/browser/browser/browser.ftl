@@ -297,7 +297,7 @@ quickactions-clearhistory = Clirio Hanes
 quickactions-cmd-clearhistory = clirio hanes
 # Opens about:downloads page
 quickactions-downloads2 = Gweld llwythi
-quickactions-cmd-downloads = llwythi
+quickactions-cmd-downloads = llwythi i lawr
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rheoli estyniadau
 quickactions-cmd-extensions = estyniadau
@@ -344,7 +344,7 @@ quickactions-learn-more =
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Ychwanegu Nod Tudalen
-bookmarks-edit-bookmark = Golygu Nod Tudalen
+bookmarks-edit-bookmark = Golygu nod tudalen
 bookmark-panel-cancel =
     .label = Diddymu
     .accesskey = D
@@ -763,7 +763,7 @@ bookmarks-search =
 bookmarks-tools =
     .label = Offer Nodau Tudalen
 bookmarks-bookmark-edit-panel =
-    .label = Golygu'r Nod Tudalen
+    .label = Golygu'r nod tudalen
 bookmarks-subview-edit-bookmark =
     .label = Golygu'r nod tudalen…
 # The aria-label is a spoken label that should not include the word "toolbar" or
@@ -917,7 +917,7 @@ picture-in-picture-move-toggle-left =
 navbar-accessible =
     .aria-label = Llywio
 navbar-downloads =
-    .label = Llwytho i Lawr
+    .label = Llwythi i lawr
 navbar-overflow =
     .tooltiptext = Rhagor o offer…
 # Variables:

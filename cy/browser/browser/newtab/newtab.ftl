@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Chwilio
     .aria-label = Chwilio
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Chwilio gyda { $engine } neu roi cyfeiriad
 newtab-search-box-handoff-text-no-engine = Chwilio neu roi cyfeiriad
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Chwilio gyda { $engine } neu roi cyfeiriad
     .title = Chwilio gyda { $engine } neu roi cyfeiriad
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Chwilio neu roi cyfeiriad
     .title = Chwilio neu roi cyfeiriad
     .aria-label = Chwilio neu roi cyfeiriad
-
 newtab-search-box-text = Chwilio'r we
 newtab-search-box-input =
     .placeholder = Chwilio'r we
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Golygu Llwybr Byr
 newtab-topsites-title-label = Teitl
 newtab-topsites-title-input =
     .placeholder = Rhoi teitl
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Teipio neu ludo URL
 newtab-topsites-url-validation = Mae angen URL Ddilys
-
 newtab-topsites-image-url-label = URL Delwedd Gyfaddas
 newtab-topsites-use-image-link = Defnyddio delwedd gyfaddas…
 newtab-topsites-image-validation = Methodd y ddelwedd â llwytho. Defnyddiwch URL gwahanol.
@@ -84,15 +80,13 @@ newtab-topsite-sponsored = Noddwyd
 newtab-menu-section-tooltip =
     .title = Agor y ddewislen
     .aria-label = Agor y ddewislen
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Tynnu
     .aria-label = Tynnu
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Agor y ddewislen
     .aria-label = Agor dewislen cynnwys { $title }
@@ -163,21 +157,18 @@ newtab-label-removed-bookmark = Wedi Tynnu'r Nod Tudalen
 newtab-label-recommended = Trendio
 newtab-label-saved = Wedi ei gadw i { -pocket-brand-name }
 newtab-label-download = Wedi eu Llwytho i Lawr
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = Noddir gan { $sponsorOrSource }
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Noddir gan { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } mun
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -185,7 +176,7 @@ newtab-label-source-read-time = { $source } · { $timeToRead } mun
 
 newtab-section-menu-remove-section = Tynnu'r Adran
 newtab-section-menu-collapse-section = Cau'r Adran
-newtab-section-menu-expand-section = Estyn yr Adran
+newtab-section-menu-expand-section = Ehangu'r Adran
 newtab-section-menu-manage-section = Rheoli'r Adran
 newtab-section-menu-manage-webext = Rheoli Estyniad
 newtab-section-menu-add-topsite = Ychwanegu Hoff Wefan
@@ -206,16 +197,15 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Hoff Wefannau
 newtab-section-header-recent-activity = Gweithgaredd diweddar
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Argymhellwyd gan { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Cychwynnwch bori ac fe ddangoswn rhai erthyglau, fideos a thudalennau eraill difyr rydych wedi ymweld â nhw'n ddiweddar neu wedi gosod nod tudalen arnyn nhw yma.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Rydych wedi dal i fynDewch nôl rhywbryd eto am fwy o'r straeon pwysicaf gan { $provider }. Methu aros? Dewiswch bwnc poblogaidd i ganfod straeon da o ar draws y we.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -237,11 +227,9 @@ newtab-pocket-learn-more = Dysgu rhagor
 newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
 newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
 newtab-pocket-pocket-firefox-family = Mae { -pocket-brand-name } yn rhan o deulu { -brand-product-name }
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Cadw i { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Cadwyd i { -pocket-brand-name }
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Llwytho rhagor o straeon
 
@@ -252,7 +240,6 @@ newtab-pocket-last-card-title = Yn gyfredol nawr!
 newtab-pocket-last-card-desc = Dewch nôl eto am ragor o straeon.
 newtab-pocket-last-card-image =
     .alt = Yn gyfredol nawr!
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Cadw
 newtab-pocket-saved = Wedi'u Cadw
@@ -267,6 +254,8 @@ newtab-error-fallback-refresh-link = Adnewyddu'r dudalen i geisio eto.
 
 newtab-custom-shortcuts-title = Llwybrau Byr
 newtab-custom-shortcuts-subtitle = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [zero] { $num } rhesi

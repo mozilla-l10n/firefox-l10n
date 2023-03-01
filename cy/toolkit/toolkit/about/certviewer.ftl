@@ -70,7 +70,7 @@ certificate-viewer-validity = Dilysrwydd
 certificate-viewer-subject-alt-names = Enwau Alt Pwnc
 certificate-viewer-public-key-info = Manylion Allweddol Cyhoeddus
 certificate-viewer-miscellaneous = Amrywiol
-certificate-viewer-fingerprints = Bysbrint
+certificate-viewer-fingerprints = Bysbrintiau
 certificate-viewer-basic-constraints = Cyfyngiadau Sylfaenol
 certificate-viewer-key-usages = Defnyddiau Allweddol
 certificate-viewer-extended-key-usages = Defnydd Allwedd Estynedig
@@ -81,10 +81,9 @@ certificate-viewer-authority-info-aia = Manylion yr Awdurdod (AIA)
 certificate-viewer-certificate-policies = Polisïau Tystysgrif
 certificate-viewer-embedded-scts = SCTs mewnblanedig
 certificate-viewer-crl-endpoints = Diweddbwynt CRL
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
-certificate-viewer-download = Llwytho i Lawr
+certificate-viewer-download = Llwytho i lawr
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (tystysgrif)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadwyn)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Mae'r estyniad hwn wedi'i nodi fel un hanfodol, sy'n golygu bod yn rhaid i gleientiaid wrthod y dystysgrif os nad ydyn nhw'n ei deall.

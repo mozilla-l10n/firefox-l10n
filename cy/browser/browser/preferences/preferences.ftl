@@ -299,7 +299,7 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ffeiliau a Rhaglenni
-download-header = Llwytho i Lawr
+download-header = Llwythi i lawr
 download-save-where = Cadw ffeiliau yn
     .accesskey = a
 download-choose-folder =
@@ -1230,5 +1230,5 @@ httpsonly-radio-disabled =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Bwrdd Gwaith
-downloads-folder-name = Llwythi
+downloads-folder-name = Llwythi i lawr
 choose-download-folder-title = Dewis Ffolder Llwytho i Lawr:
