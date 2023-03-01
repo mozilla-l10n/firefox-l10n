@@ -45,6 +45,10 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code> : { $glean-android-d
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-define-value }
 about-glean-about-testing-header = À propos des tests
+# This message is followed by a numbered list.
+about-glean-manual-testing = Les instructions complètes sont détaillées dans la <a data-l10n-name="fog-instrumentation-test-doc-link">documentation des tests d’instrumentation de { -fog-brand-name }</a> et dans la <a data-l10n-name="glean-sdk-doc-link">documentation de { glean-sdk-brand-name }</a> mais, en résumé, pour tester manuellement que votre instrumentation fonctionne, voici ce que vous devriez faire :
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (n’envoyer aucun ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Dans le champ précédent, assurez-vous qu’il y ait une balise de débogage mémorisable afin que vous puissiez reconnaître vos pings plus tard.
 controls-button-label-verbose = Appliquer les paramètres et envoyer le ping
