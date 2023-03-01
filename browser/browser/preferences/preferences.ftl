@@ -352,7 +352,7 @@ applications-select-helper = Dewis Rhaglen Gynorthwyol
 applications-manage-app =
     .label = Manylion y Rhaglen…
 applications-always-ask =
-    .label = Gofyn bob tro
+    .label = Gofyn bob Tro
 # Variables:
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)

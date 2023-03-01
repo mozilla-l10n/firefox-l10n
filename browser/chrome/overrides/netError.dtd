@@ -95,7 +95,7 @@ was trying to connect. -->
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei gweld yn sgil canfod gwall trosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
-<!ENTITY securityOverride.exceptionButton1Label "Derbyn y Bygythiad a Pharhau">
+<!ENTITY securityOverride.exceptionButton1Label "Derbyn y Perygl a Pharhau">
 
 <!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Mozilla i adnabod a rhwystro gwefannau maleisus">
 <!ENTITY errorReporting.learnMore "Dysgu rhagor…">
