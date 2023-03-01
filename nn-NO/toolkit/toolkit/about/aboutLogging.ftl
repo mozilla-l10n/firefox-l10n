@@ -23,7 +23,6 @@
 about-logging-title = Om logging
 about-logging-page-title = Logghandsamar
 about-logging-current-log-file = Gjeldande loggfil
-about-logging-current-log-modules = Gjeldande loggmodular:
 about-logging-new-log-file = Ny loggfil:
 about-logging-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
 # This message is used as a button label, "Open" indicates an action.
@@ -32,6 +31,8 @@ about-logging-set-log-file = Vel loggfil
 about-logging-set-log-modules = Vel loggmodular
 about-logging-start-logging = Start loggføring
 about-logging-stop-logging = Stopp loggføring
+about-logging-buttons-disabled = Logging konfigurert via miljøvariablar, dynamisk konfigurasjon er ikkje tilgjengeleg.
+about-logging-some-elements-disabled = Logging konfigurert via URL, nokre konfigurasjonsalternativ er ikkje tilgjengelege
 about-logging-info = Info:
 about-logging-log-modules-selection = Loggmodulval
 about-logging-new-log-modules = Nye loggmodular

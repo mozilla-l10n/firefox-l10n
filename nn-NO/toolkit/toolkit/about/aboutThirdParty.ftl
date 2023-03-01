@@ -54,6 +54,7 @@ third-party-button-expand =
     .title = Vis detaljert informasjon
 third-party-button-collapse =
     .title = Skjul detaljert informasjon
+third-party-requires-restart = { -brand-short-name } må starte på nytt for å endre kva for tredjepartsmodular som er blokkert.
 third-party-should-restart-title = Start { -brand-short-name } på nytt
 third-party-should-restart-ok = Start { -brand-short-name } på nytt no
 third-party-restart-later = Start på nytt seinare
