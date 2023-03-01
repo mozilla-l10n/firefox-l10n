@@ -82,7 +82,7 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Cómo funciona
 monitor-title = Esté atento a las filtraciones de datos
 monitor-link = Cómo funciona
-monitor-header-content-no-account = Controle { -monitor-brand-name } para ver si fue parte de una filtración de datos conocida y para recibir alertas sobre nuevas violaciones.
+monitor-header-content-no-account = Controle { -monitor-brand-name } para ver si fue parte de una filtración de datos conocida y para recibir alertas sobre nuevas filtraciones.
 monitor-header-content-signed-in = { -monitor-brand-name } le advierte si su información apareció en una filtración de datos conocida.
 monitor-sign-up-link = Regístrese para recibir alertas de filtraciones
     .title = Regístrese  en { -monitor-brand-name } para recibir alertas de filtraciones
@@ -90,7 +90,7 @@ auto-scan = Escaneado automáticamente hoy
 monitor-emails-tooltip =
     .title = Ver las direcciones de correo electrónico monitoreadas en { -monitor-brand-short-name }
 monitor-breaches-tooltip =
-    .title = Ver violaciones de datos conocidas en { -monitor-brand-short-name }
+    .title = Ver filtraciones de datos conocidas en { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Ver contraseñas expuestas en { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
@@ -106,8 +106,8 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] Una violación de datos conocida expuso su información
-       *[other] Violaciones de datos conocidas que expusieron su información
+        [one] Una filtración de datos conocida expuso su información
+       *[other] Filtraciones de datos conocidas expusieron su información
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
