@@ -73,6 +73,17 @@ restart-later = Ailgychwyn Rhywbryd Eto
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = l
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Gosodiadau…
     .accesskey = G
 containers-disable-alert-title = Cau Tabiau Pob Cynhwysydd?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [zero] Os fyddwch yn analluogi'r Tabiau Cynhwysydd, nid fydd tabiau cynhwysydd yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
@@ -173,10 +188,13 @@ containers-disable-alert-ok-button =
         [many] Cau { $tabCount } Thab Cynhwysydd
        *[other] Cau { $tabCount } Tab Cynhwysydd
     }
+
+##
+
 containers-disable-alert-cancel-button = Cadw wedi ei alluogi
 containers-remove-alert-title = Tynnu'r Cynhwysydd Hwn?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [zero] Os fyddwch yn tynnu'r cynhwysydd hwn nawr, ni fydd tabiau yn cael eu cau. Ydych chi'n siŵr eich bod am dynnu'r Cynhwysydd hwn?
@@ -242,6 +260,8 @@ advanced-fonts =
 preferences-zoom-header = Chwyddo
 preferences-default-zoom = Chwyddo rhagosodedig
     .accesskey = C
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -334,15 +354,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Gofyn bob tro
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Defnyddio { $plugin-name } (yn { -brand-short-name })
 applications-open-inapp =
@@ -385,6 +405,8 @@ play-drm-content =
 play-drm-content-learn-more = Dysgu rhagor
 update-application-title = Diweddariadau { -brand-short-name }
 update-application-description = Cadwch { -brand-short-name } yn gyfredol am y perfformiad, y sefydlogrwydd a'r diogelwch gorau.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Fersiwn { $version } <a data-l10n-name="learn-more">Beth sy'n newydd</a>
 update-history =
     .label = Dangos Hanes Diweddaru…
@@ -411,7 +433,7 @@ update-application-suppress-prompts =
     .accesskey = D
 update-setting-write-failure-title2 = Gwall wrth gadw dewisiadau Diweddaru
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -441,7 +463,7 @@ performance-limit-content-process-option = Terfyn proses cynnwys
 performance-limit-content-process-enabled-desc = Mae rhagor o brosesau cynnwys yn gallu gwella perfformiad pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.
 performance-limit-content-process-blocked-desc = Dim ond yn y fersiwn amlbroses o { -brand-short-name } y mae newid y nifer o brosesau cynnwys yn bosib. <a data-l10n-name="learn-more">Dysgwch sut i weld os yw aml-brosesu wedi ei alluogi</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (rhagosodiad)
 
@@ -547,6 +569,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Argymhellwyd gan { $provider }
 home-prefs-recommended-by-description-new = Cynnwys eithriadol wedi'u curadu gan { $provider }, rhan o deulu { -brand-product-name }
@@ -576,12 +602,14 @@ home-prefs-recent-activity-description = Detholiad o wefannau a chynnwys diwedda
 home-prefs-snippets-header =
     .label = Pytiau
 home-prefs-snippets-description-new = Awgrymiadau a newyddion gan { -vendor-short-name } a { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
             [zero] { $num } rhes
             [one] { $num } rhes
-            [two] { $num } rhes
+            [two] { $num } res
             [few] { $num } rhes
             [many] { $num } rhes
            *[other] { $num } rhes
@@ -644,7 +672,7 @@ search-find-more-link = Ychwanegu peiriannau chwilio eraill
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Allweddair Dyblyg
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan "{ $name }". Dewiswch un arall.
 search-keyword-warning-bookmark = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan nod tudalen. Dewiswch un arall.
 
@@ -691,8 +719,15 @@ sync-sign-out =
     .accesskey = A
 sync-manage-account = Rheoli cyfrif
     .accesskey = R
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } wedi ei wirio.
 sync-signedin-login-failure = Ail fewngofnodwch er mwyn ailgysylltu { $email }
+
+##
+
 sync-resend-verification =
     .label = Ail Anfon Dilysiad
     .accesskey = A
@@ -906,8 +941,8 @@ history-clear-button =
 sitedata-header = Cwcis a Data Gwefan
 sitedata-total-size-calculating = Cyfrifo maint data gwefan a storfa dros dro…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Mae'r cwcis, data gwefan a storfa dros dro yn defnyddio { $value } { $unit } o le ar ddisg ar hyn o bryd.
 sitedata-learn-more = Dysgu rhagor
 sitedata-delete-on-close =

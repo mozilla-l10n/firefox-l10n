@@ -76,10 +76,10 @@ menu-file-close-tab =
     .label =
         { $tabCount ->
             [1] Cau Tab
-            [zero] Cau { $tabCount } Tab
+            [zero] Cau { $tabCount } Tabiau
             [one] Cau { $tabCount } Tab
             [two] Cau { $tabCount } Dab
-            [few] Cau { $tabCount } Thab
+            [few] Cau { $tabCount } Tab
             [many] Cau { $tabCount } Thab
            *[other] Cau { $tabCount } Tab
         }
