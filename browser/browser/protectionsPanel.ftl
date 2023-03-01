@@ -11,8 +11,8 @@ protections-panel-sitefixedsendreport-label = Gwefan wedi'i thrwsio? Anfon adrod
 
 protections-popup-footer-protection-label-strict = Llym
     .label = Llym
-protections-popup-footer-protection-label-custom = Cyfaddasu
-    .label = Cyfaddasu
+protections-popup-footer-protection-label-custom = Cyfaddas
+    .label = Cyfaddas
 protections-popup-footer-protection-label-standard = Safonol
     .label = Safonol
 

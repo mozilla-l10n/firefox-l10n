@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-label-disable = analluogi
+label-disable = Analluogi
 label-enable = Galluogi
 label-interventions = Ymyriadau
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Rhagor o Wybodaeth: Byg { $bug }
 label-overrides = Tros reolaeth Asiant Defnyddiwr
 text-disabled-in-about-config = Mae'r nodwedd hon wedi ei analluogi yn about:config

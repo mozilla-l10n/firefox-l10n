@@ -105,7 +105,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.longDesc2 "Gwybodaeth uwch: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Rhybudd: Risg Diogelwch Posibl o'ch Blaen">
-<!ENTITY certerror.sts.pagetitle  "Peidiwch cysylltu: Mater Diogelwch Posib">
+<!ENTITY certerror.sts.pagetitle  "Peidiwch â Chysylltu: Mater Diogelwch Posib">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Mae gan <span class='hostname'></span> bolisi diogelwch o'r enw HTTP Strict Transport Security (HSTS), sy'n golygu mai dim ond yn ddiogel mae modd i &brandShortName; gysylltu. Nid oes modd gosod eithriad er mwyn ymweld â'r wefan.">
 <!ENTITY certerror.copyToClipboard.label "Copïo testun i'r clipfwrdd">
 

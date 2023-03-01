@@ -124,7 +124,7 @@ mr2-onboarding-colorway-label-bold = Beiddgar
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Awtomatig
 # This string will be used for Default theme
-mr2-onboarding-theme-label-default = Rhagosodedig
+mr2-onboarding-theme-label-default = Rhagosodiad
 mr1-onboarding-theme-header = Ei wneud eich un chi
 mr1-onboarding-theme-subtitle = Personoli { -brand-short-name } gyda thema.
 mr1-onboarding-theme-primary-button-label = Cadw'r thema

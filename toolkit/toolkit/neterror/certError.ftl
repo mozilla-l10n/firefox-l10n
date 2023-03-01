@@ -112,5 +112,5 @@ blockedByPolicy-title = Tudalen wedi'i Rhwystro
 clockSkewError-title = Mae cloc eich cyfrifiadur yn anghywir
 networkProtocolError-title = Gwall Protocol Rhwydwaith
 nssBadCert-title = Rhybudd: Risg Diogelwch Posibl o'ch Blaen
-nssBadCert-sts-title = Peidiwch Cysylltu: Mater Diogelwch Posib
+nssBadCert-sts-title = Peidiwch â Chysylltu: Mater Diogelwch Posib
 certerror-mitm-title = Mae Meddalwedd yn Rhwystro { -brand-short-name } Rhag Cysylltu'n Ddiogel i'r Wefan Hon
