@@ -60,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] მიმაგრება სამუშაო ზოლზე
     }
 about-private-browsing-pin-promo-title = არანაირი კვალი და გვერდების ისტორია, პირდაპირ სამუშაო ეკრანიდან. მოინახულეთ საიტები მეთვალყურეობის გარეშე.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = ფუნთუშის მოთხოვნის აბრებო, გაქრით!
+about-private-browsing-cookie-banners-promo-button = შეამცირეთ ფუნთუშის მოთხოვნები
+about-private-browsing-cookie-banners-promo-message = დართეთ ნება და { -brand-short-name } თავადვე უპასუხებს ფუნთუშების ამომხტარ მოთხოვნებს, რომ შეუფერხებლად განაგრძოთ გვერდების მონახულება. { -brand-short-name } უარყოფს ყველას, როცა კი შესაძლებელია.
