@@ -80,6 +80,8 @@ dnsNotFound-title = ჰმ. გვერდი არ იხსნება.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = შესაძლო საფრთხეს შეიცავს { $hostname }.
 # Variables:
+dns-not-found-trr-only-title2 = შესაძლო საფრთხე ამ მისამართის მოძიებისას
+# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = შესაძლო საფრთხეს შეიცავს { $hostname }.
 fileNotFound-title = ფაილი ვერ მოიძებნა
