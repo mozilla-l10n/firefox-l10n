@@ -20,6 +20,7 @@ controls-button-label = Envoyer les paramètres
 glean-sdk-brand-name = SDK { -glean-brand-name }
 about-glean-page-title2 = À propos de { -glean-brand-name }
 about-glean-header = À propos de { -glean-brand-name }
+about-glean-interface-description = <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> est une bibliothèque de collecte de données utilisée dans les projets de { -vendor-short-name }. Cette interface est conçue pour être utilisée par les développeurs et les testeurs pour effectuer manuellement des <a data-l10n-name="fog-link">tests d’instrumentation</a>.
 about-glean-upload-enabled = L’envoi de données est activé.
 about-glean-upload-disabled = L’envoi de données est désactivé.
 about-glean-upload-enabled-local = L'envoi de données est activé uniquement vers un serveur local.
