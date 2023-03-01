@@ -8,8 +8,8 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
-firefox-relay-mask-generation-failed = Generacion de l’alias { -relay-brand-name } novèl impossibla. Còdi d’error HTTP : { $status }.
-firefox-relay-get-reusable-masks-failed = { -relay-brand-name } a pas pogut trobar cap d’alias reütilizable. Còdi d’error HTTP : { $status }.
+firefox-relay-mask-generation-failed = Generacion de l’àlias { -relay-brand-name } novèl impossibla. Còdi d’error HTTP : { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } a pas pogut trobar cap d’àlias reütilizable. Còdi d’error HTTP : { $status }.
 
 ##
 
@@ -20,7 +20,7 @@ firefox-relay-get-unlimited-masks =
 firefox-relay-opt-in-title = Protegissètz vòstra adreça electronica
 firefox-relay-opt-in-subtitle = Installar { -relay-brand-name }
 firefox-relay-generate-mask-title = Protegissètz vòstra adreça electronica
-firefox-relay-generate-mask-subtitle = Generar un alias { -relay-brand-short-name }
+firefox-relay-generate-mask-subtitle = Generar un àlias { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Contunhar
     .accesskey = C
