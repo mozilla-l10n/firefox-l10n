@@ -122,7 +122,7 @@ mr2-onboarding-colorway-label-balanced = Cytbwys
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Beiddgar
 # Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Awto
+mr2-onboarding-theme-label-auto = Awtomatig
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Rhagosodedig
 mr1-onboarding-theme-header = Ei wneud eich un chi

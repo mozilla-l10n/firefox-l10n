@@ -104,7 +104,7 @@ downloads-cmd-clear-list =
     .label = Clirio'r Panel Rhagolwg
     .accesskey = r
 downloads-cmd-clear-downloads =
-    .label = Clirio Llwythi
+    .label = Clirio'r Llwythi
     .accesskey = L
 downloads-cmd-delete-file =
     .label = Dileu
@@ -183,7 +183,7 @@ downloads-cancel-download =
 downloads-history =
     .label = Dangos Pob Llwyth
     .accesskey = D
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Manylion y Llwytho i Lawr
