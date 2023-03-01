@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = ფუნთუშის მოთხოვნის აბრებო, აქშა!
+cfr-cookie-banner-handling-header = ფუნთუშის მოთხოვნის აბრებო, გაქრით!
 cfr-cookie-banner-handling-body = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს ფუნთუშების ყველა მოთხოვნას, როცა კი შესაძლებელია. თუ არადა ყველა ფუნთუშის თანხმობით მოცილდება კიდევ უფრო მეტი აბრა.
 cfr-cookie-banner-accept-button = მოთხოვნების არიდება
     .accesskey = რ
@@ -250,7 +250,7 @@ colorways-cfr-header-today = დამოუკიდებელი ხმე�
 ## Cookie Banner Handling CFR
 
 # Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = ფუნთუშის მოთხოვნის აბრებო, აქშა!
+cfr-cookiebanner-header = ფუნთუშის მოთხოვნის აბრებო, გაქრით!
 cfr-cookiebanner-body = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს ფუნთუშების ყველა მოთხოვნას, როცა კი შესაძლებელია.
 cfr-cookiebanner-accept-button-v2 = მოთხოვნების უარყოფა
     .accesskey = უ

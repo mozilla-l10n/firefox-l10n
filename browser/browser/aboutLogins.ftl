@@ -7,6 +7,9 @@ about-logins-page-title = ანგარიშები და პაროლ�
 login-filter =
     .placeholder = ანგარიშების ძიება
 create-login-button = ანგარიშის ახალი მონაცემები
+about-logins-login-filter =
+    .placeholder = ანგარიშების ძიება
+    .key = F
 create-new-login-button =
     .title = ახალი ანგარიშის მონაცემები
 fxaccounts-sign-in-text = გადმოიტანეთ პაროლები სხვა მოწყობილობებიდან
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = დახმარება
 
 login-list =
     .aria-label = მოძიებული ანგარიშების მონაცემები
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } ანგარიშის მონაცემი
@@ -106,6 +111,8 @@ login-item-time-used = ბოლო გამოყენება: { DATETIME($
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = შექმნილი
 login-item-timeline-action-updated = განახლებული
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = გსურთ ამ მონაცემების მოცილება?
 confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
 about-logins-confirm-remove-dialog-confirm-button = მოცილება
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] მოცილება
@@ -188,6 +199,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] შედეგად წაიშლება ანგარიშის მონაცემები, რომელსაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე { -fxaccount-brand-name(case: "ins") }. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
        *[other] შედეგად წაიშლება ანგარიშების მონაცემები, რომელთაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე { -fxaccount-brand-name(case: "ins") }. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = მონაცემებისა და პაროლების გატანა
 about-logins-confirm-export-dialog-message = თქვენი პაროლები შეინახება წასაკითხ ტექსტად (მაგ. BadP@ssw0rd) ასე რომ, ნებისმიერს შეეძლება მათი ნახვა, თუ გატანილ ფაილს გახსნის.
 about-logins-confirm-export-dialog-confirm-button = გატანა…

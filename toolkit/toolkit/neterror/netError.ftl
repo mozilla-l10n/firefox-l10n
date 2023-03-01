@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = გადაამოწმოთ, არ
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ვერ ახერხებს თქვენი მოთხოვნის დაცვას ამ საიტის მისამართისთვის ჩვენი სანდო DNS-გადამყვანით. აი, რატომ:
 neterror-dns-not-found-trr-only-attackers = თუ განაგრძობთ, გარეშე მხარეებს შეეძლებათ იხილონ საიტები, რომელთაც ეწვევით ან გადაგამისამართონ არასანდო საიტზე.
+neterror-dns-not-found-trr-third-party-warning = შეგიძლიათ, განაგრძოთ დაუცველი DNS-გადამყვანის გამოყენება. თუმცაღა ამით გარეშე პირებს მიეცემათ საშუალება, იხილონ, რომელ გვერდებს ეწვევით.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } და { $trrDomain } კავშირის დამყარებას ვერ ახერხებს.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } მოსალოდნელზე დიდხანს იყო დაკავშირებული.
 neterror-dns-not-found-trr-offline = არ გაქვთ ინტერნეტკავშირი.
