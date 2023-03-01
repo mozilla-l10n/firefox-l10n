@@ -7,6 +7,9 @@ about-logins-page-title = Credenciais e palavras-passe
 login-filter =
     .placeholder = Pesquisar credenciais
 create-login-button = Criar nova credencial
+about-logins-login-filter =
+    .placeholder = Pesquisar credenciais
+    .key = F
 create-new-login-button =
     .title = Criar nova credencial
 fxaccounts-sign-in-text = Obtenha as suas palavras-passe nos seus outros dispositivos
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Ajuda
 
 login-list =
     .aria-label = Credenciais que correspondem aos termos da pesquisa
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } credencial
@@ -106,6 +111,8 @@ login-item-time-used = Última utilização: { DATETIME($timeUsed, day: "numeric
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Criado
 login-item-timeline-action-updated = Atualizado
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Remover esta credencial?
 confirm-delete-dialog-message = Esta ação não pode ser anulada.
 about-logins-confirm-remove-dialog-confirm-button = Remover
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Remover
@@ -186,6 +197,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
        *[other] Isto irá remover todas as credenciais que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Exportar credenciais e palavras-passe
 about-logins-confirm-export-dialog-message = As suas palavras-passe serão guardadas como texto legível (por exemplo, BadP@ssw0rd) para que qualquer pessoa que possa abrir o ficheiro exportado as possa visualizar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
