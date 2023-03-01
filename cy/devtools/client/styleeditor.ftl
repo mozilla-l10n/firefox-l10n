@@ -29,7 +29,7 @@ styleeditor-no-stylesheet-tip = Efallai'r hoffech chi <a data-l10n-name="append-
 styleeditor-open-link-new-tab =
     .label = Agor Dolen mewn Tab Newydd
 styleeditor-copy-url =
-    .label = Copïo'r URL
+    .label = Copïo URL
 styleeditor-find =
     .label = Canfod
     .accesskey = f

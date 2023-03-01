@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Chwilio
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Cewch estyniadau a themâu yn <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Cael geiriaduron o <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Cael pecynnau iaith o <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Nid oes gennych ychwanegion o'r math yma wedi eu gosod
 list-empty-available-updates =
@@ -44,7 +51,7 @@ detail-contributions-button = Cyfrannu
 detail-update-type =
     .value = Diweddariadau Awtomatig
 detail-update-default =
-    .label = Rhagosodedig
+    .label = Rhagosodiad
     .tooltiptext = Gosod diweddariadau'n awtomatig os mai dyna yw'r rhagosodedig
 detail-update-automatic =
     .label = Ymlaen
@@ -141,7 +148,7 @@ addon-category-sitepermission-title =
     .title = Caniatâd Gwefan
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Caniatâd Gwefan { $host }
 
 ## These are global warnings
@@ -221,6 +228,8 @@ shortcuts-duplicate-warning-message = Mae { $shortcut } yn cael ei ddefnyddio fe
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ar waith eisoes gan { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [zero] Dangos { $numberToShow } yn Rhagor
@@ -275,7 +284,7 @@ report-addon-button = Adrodd
 remove-addon-button = Tynnu
 # The link will always be shown after the other text.
 remove-addon-disabled-button = Methu ei Dynnu <a data-l10n-name="link"> Pam? </a>
-disable-addon-button = Analluogu
+disable-addon-button = Analluogi
 enable-addon-button = Galluogi
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
@@ -301,7 +310,7 @@ theme-colorways-button = Rhowch gynnig ar Gyfuniadau Lliw
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Newid Cyfuniad Lliw
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Yn dod i ben{ DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Galluogwyd
 plugin-disabled-heading = Analluogwyd
@@ -350,7 +359,7 @@ addon-detail-reviews-link =
 pending-uninstall-description = Mae <span data-l10n-name="addon-name">{ $addon }</span> wedi ei dynnu.
 pending-uninstall-undo-button = Dadwneud
 addon-detail-updates-label = Caniatáu diweddariadau awtomatig
-addon-detail-updates-radio-default = Rhagosodedig
+addon-detail-updates-radio-default = Rhagosodiad
 addon-detail-updates-radio-on = Ymlaen
 addon-detail-updates-radio-off = Diffodd
 addon-detail-update-check-label = Gwirio am Ddiweddariadau
@@ -391,6 +400,8 @@ addon-permissions-optional = Caniatâd dewisol ar gyfer y swyddogaethau ychwaneg
 addon-permissions-learnmore = Dysgu rhagor am ganiatâd
 recommended-extensions-heading = Estyniadau Cymeradwy
 recommended-themes-heading = Themâu Cymeradwy
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Yn caniatáu'r galluoedd canlynol i <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -417,8 +428,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
 details-notification-incompatible-link = Rhagor o wybodaeth
 details-notification-unsigned-and-disabled = Nid oedd modd dilysu { $name } i'w ddefnyddio yn { -brand-short-name } ac mae wedi ei analluogi.

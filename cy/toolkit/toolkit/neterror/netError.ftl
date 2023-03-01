@@ -7,7 +7,7 @@
 
 neterror-page-title = Anhawster llwytho tudalen
 certerror-page-title = Rhybudd: Risg Diogelwch Posibl o'ch Blaen
-certerror-sts-page-title = Peidiwch cysylltu: Mater Diogelwch Posib
+certerror-sts-page-title = Peidiwch â Chysylltu: Mater Diogelwch Posib
 neterror-blocked-by-policy-page-title = Tudalen wedi'i Rhwystro
 neterror-captive-portal-page-title = Mewngofnodi i'r rhwydwaith
 neterror-dns-not-found-title = Heb Ganfod Gweinydd

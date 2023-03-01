@@ -1030,7 +1030,7 @@ enhanced-tracking-protection-setting-strict =
     .label = Llym
     .accesskey = L
 enhanced-tracking-protection-setting-custom =
-    .label = Cyfaddasu
+    .label = Cyfaddas
     .accesskey = C
 
 ##
