@@ -5,7 +5,7 @@
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Nesaf
 # Callout dialog primary button to complete the feature tour
-callout-primary-complete-button-label = Iawn!
+callout-primary-complete-button-label = Iawn, rwy'n deall!
 
 ## Firefox View feature tour strings
 
@@ -42,4 +42,4 @@ callout-pdfjs-draw-title = Llofnodwch ddogfennau gyda'n teclyn lluniadu newydd
 callout-pdfjs-draw-body-a = Marciwch PDFs, yna cadwch eich newidiadau.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Dim mwy o argraffu a sganio. Marciwch PDFau ac yna cadw'ch newidiadau.
-callout-pdfjs-draw-button = Iawn!
+callout-pdfjs-draw-button = Iawn, rwy'n deall!
