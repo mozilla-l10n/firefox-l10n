@@ -7,9 +7,9 @@
 ## the Downloads Panel.
 
 downloads-window =
-    .title = Llwythi
+    .title = Llwythi i lawr
 downloads-panel =
-    .aria-label = Llwythi
+    .aria-label = Llwythi i lawr
 
 ##
 
