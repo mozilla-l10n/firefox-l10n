@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = เคล็ดลับ:
 urlbar-result-menu-button =
     .title = เปิดเมนู
+urlbar-result-menu-learn-more =
+    .label = เรียนรู้เพิ่มเติม
+    .accesskey = ร
 urlbar-result-menu-remove-from-history =
     .label = เอาออกจากประวัติ
     .accesskey = อ
@@ -700,6 +703,11 @@ bookmarks-other-bookmarks-menu =
     .label = ที่คั่นหน้าอื่น ๆ
 bookmarks-mobile-bookmarks-menu =
     .label = ที่คั่นหน้าในมือถือ
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -724,6 +732,9 @@ bookmarks-tools-menu-button-visibility =
             [true] เอาเมนูที่คั่นหน้าออกจากแถบเครื่องมือ
            *[other] เพิ่มเมนูที่คั่นหน้าไปยังแถบเครื่องมือ
         }
+
+##
+
 bookmarks-search =
     .label = ค้นหาที่คั่นหน้า
 bookmarks-tools =
