@@ -181,7 +181,7 @@ mr1-onboarding-theme-tooltip-alpenglow =
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Defnyddio thema ddeinamig, lliwgar ar gyfer botymau,
-        dewislenn a ffenestri.
+        dewislenni a ffenestri.
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
