@@ -41,7 +41,7 @@ category-sync3 =
 pane-experimental-title = Arbrofion { -brand-short-name }
 category-experimental =
     .tooltiptext = Arbrofion { -brand-short-name }
-pane-experimental-subtitle = Gofal!
+pane-experimental-subtitle = Byddwch Ofalus
 pane-experimental-search-results-header = Arbrofion { -brand-short-name }: Byddwch yn Ofalus
 pane-experimental-description2 = Gall newid dewisiadau ffurfweddiad uwch effeithio ar berfformiad neu ddiogelwch { -brand-short-name }.
 pane-experimental-reset =
@@ -523,7 +523,7 @@ home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi
 home-homepage-mode-label = Tudalen cartref a ffenestri newydd
 home-newtabs-mode-label = Tabiau newydd
 home-restore-defaults =
-    .label = Adfer gosodiadau
+    .label = Adfer y Rhagosodiadau
     .accesskey = A
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
@@ -1154,7 +1154,7 @@ permissions-addon-exceptions =
 
 collection-header = Casglu Data a'r Defnydd o { -brand-short-name }
 collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
-collection-privacy-notice = Rhybudd Preifatrwydd
+collection-privacy-notice = Hysbysiad Preifatrwydd
 collection-health-report-telemetry-disabled = Nid ydych bellach yn caniatáu i { -vendor-short-name } ddal data technegol a rhyngweithiol. Bydd holl ddata'r gorffennol yn cael ei ddileu cyn pen 30 diwrnod.
 collection-health-report-telemetry-disabled-link = Dysgu rhagor
 collection-health-report =

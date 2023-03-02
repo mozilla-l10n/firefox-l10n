@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Dewis Pob Tab
     .accesskey = D
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -36,7 +38,7 @@ toolbar-context-menu-manage-extension =
     .label = Rheoli Estyniad
     .accesskey = E
 toolbar-context-menu-remove-extension =
-    .label = Tynnu'r Estyniad
+    .label = Tynnu Estyniad
     .accesskey = T
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
