@@ -16,21 +16,18 @@ about-unloads-intro =
     blaenoriaethu tabiau a pha dab fydd yn cael ei ddadlwytho pan
     fydd dadlwytho tab yn cael ei gychwyn. Gallwch gychwyn dadlwytho
     tab â llaw trwy glicio ar y botwm <em>Dadlwytho</em> isod.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Gweler <a data-l10n-name="doc-link">Dadlwytho Tab</a> i ddysgu rhagor am
     y nodwedd a'r dudalen hon.
-
 about-unloads-last-updated = Wedi'i ddiweddaru ddiwethaf: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Llwytho i fyny
     .title = Llwytho tab gyda'r flaenoriaeth uchaf i fyny
 about-unloads-no-unloadable-tab = Nid oes tabiau nad oes modd eu dadlwytho.
-
 about-unloads-column-priority = Blaenoriaeth
 about-unloads-column-host = Gwesteiwr
-about-unloads-column-last-accessed = Cyrchwyd Diwethaf
+about-unloads-column-last-accessed = Mynediad Diwethaf
 about-unloads-column-weight = Pwysau Sylfaenol
     .title = Mae tabiau'n cael eu didoli yn ôl y gwerth yma, sy'n dod o rhai priodoleddau arbennig megis gwneud sŵn, WebRTC, ac ati.
 about-unloads-column-sortweight = Pwysau Eilaidd
@@ -39,7 +36,6 @@ about-unloads-column-memory = Cof
     .title = Amcan o ddefnydd cof y tab
 about-unloads-column-processes = IDau Prosesau
     .title = IDau o brosesau sy'n gwesteio cynnwys y tab
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

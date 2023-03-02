@@ -75,6 +75,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Golygu Ffolder …
     .accesskey = G
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
@@ -130,9 +132,6 @@ places-forget-about-this-site-forget = Anghofio
 places-library =
     .title = Llyfrgell
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Llyfrgell
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Llyfrgell
 places-organize-button =
@@ -207,7 +206,7 @@ places-view-sort-col-visit-count =
 places-view-sort-col-date-added =
     .label = Ychwanegwyd
 places-view-sort-col-last-modified =
-    .label = Newidwyd Ddiwethaf
+    .label = Newidiwyd Diwethaf
 places-cmd-find-key =
     .key = f
 places-back-button =

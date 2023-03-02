@@ -36,7 +36,7 @@ pocket-panel-signup-add-tags = Ychwanegu Tagiau:
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Eisoes yn ddefnyddiwr { -pocket-brand-name }?
-pocket-panel-signup-learn-more = Dysgu Rhagor
+pocket-panel-signup-learn-more = Dysgu rhagor
 pocket-panel-signup-login = Mewngofnodi
 pocket-panel-signup-signup-email = Ymunwch drwy e-bost
 pocket-panel-signup-signup-cta = Ymunwch â { -pocket-brand-name }. Mae am ddim.

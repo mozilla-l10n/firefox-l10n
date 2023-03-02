@@ -329,7 +329,7 @@ mr2022-onboarding-get-started-primary-button-label = Ei osod mewn eiliadau
 
 mr2022-onboarding-import-header = Gosodiad chwim
 mr2022-onboarding-import-subtitle = Gosodwch { -brand-short-name } fel rydych chi'n ei hoffi. Ychwanegwch eich nodau tudalen, cyfrineiriau, a mwy o'ch hen borwr.
-mr2022-onboarding-import-primary-button-label-no-attribution = Mewnforiwch o'ch porwr blaenorol
+mr2022-onboarding-import-primary-button-label-no-attribution = Mewnforiwch o'r porwr blaenorol
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
