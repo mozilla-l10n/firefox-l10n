@@ -68,7 +68,7 @@ newtab-topsites-add-button = Ychwanegu
 
 newtab-confirm-delete-history-p1 = Ydych chi'n siŵr eich bod chi am ddileu pob enghraifft o'r dudalen hon o'ch hanes?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = Nid oes modd dadwneud hyn.
+newtab-confirm-delete-history-p2 = Nid oes modd dadwneud y weithred hon.
 
 ## Top Sites - Sponsored label
 
