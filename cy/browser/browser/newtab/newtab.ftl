@@ -23,7 +23,7 @@ newtab-search-box-search-button =
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Chwilio gyda { $engine } neu roi cyfeiriad
-newtab-search-box-handoff-text-no-engine = Chwilio neu roi cyfeiriad
+newtab-search-box-handoff-text-no-engine = Chwilio neu gyfeiriad gwe
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
@@ -31,9 +31,9 @@ newtab-search-box-handoff-input =
     .title = Chwilio gyda { $engine } neu roi cyfeiriad
     .aria-label = Chwilio gyda { $engine } neu roi cyfeiriad
 newtab-search-box-handoff-input-no-engine =
-    .placeholder = Chwilio neu roi cyfeiriad
-    .title = Chwilio neu roi cyfeiriad
-    .aria-label = Chwilio neu roi cyfeiriad
+    .placeholder = Chwilio neu gyfeiriad gwe
+    .title = Chwilio neu gyfeiriad gwe
+    .aria-label = Chwilio neu gyfeiriad gwe
 newtab-search-box-text = Chwilio'r we
 newtab-search-box-input =
     .placeholder = Chwilio'r we
@@ -155,7 +155,7 @@ newtab-label-visited = Ymwelwyd
 newtab-label-bookmarked = Nod Tudalen
 newtab-label-removed-bookmark = Wedi Tynnu'r Nod Tudalen
 newtab-label-recommended = Trendio
-newtab-label-saved = Wedi ei gadw i { -pocket-brand-name }
+newtab-label-saved = Cadwyd i { -pocket-brand-name }
 newtab-label-download = Wedi eu Llwytho i Lawr
 # This string is used in the story cards to indicate sponsored content
 # Variables:
