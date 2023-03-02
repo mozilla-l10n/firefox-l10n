@@ -6,7 +6,7 @@
 ## Messages used as headers in the main pane
 
 compatibility-selected-element-header = Elfennau Dewiswyd
-compatibility-all-elements-header = Pob mater
+compatibility-all-elements-header = Pob Mater
 
 ## Message used as labels for the type of issue
 
