@@ -199,6 +199,7 @@ downloads-files-not-downloaded =
        *[other] { $num } файла не са изтеглени.
     }
 downloads-blocked-from-url = Изтеглянията от { $url } са спрени.
+downloads-blocked-download-detailed-info = { $url } се опита да изтегли автоматично няколко файла. Възможно е сайтът да е повреден или да се опитва да изпраща нежелани файлове към устройството.
 
 ##
 
