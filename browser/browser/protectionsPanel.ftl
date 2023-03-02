@@ -114,6 +114,7 @@ protections-panel-cookie-banner-view-go-back =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host } ਲਈ ਕੂਕੀ ਬੈਨਰ ਘਟਾਉਣ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
 protections-panel-cookie-banner-view-turn-on-for-site = ਇਸ ਸਾਈਟ ਲਈ ਕੂਕੀ ਬੈਨਰ ਘਟਾਉਣ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਹੈ?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ਇਸ ਸਾਈਟ ਦੀਆਂ ਕੁਕੀਆਂ ਨੂੰ ਸਾਫ਼ ਕਰ ਕੇ ਸਫ਼ੇ ਨੂੰ ਸੱਜਰਾ ਕਰ ਦੇਵੇਗਾ। ਸਾਰੀਆਂ ਕੁਕੀਆਂ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਨਾਲ ਤੁਸੀਂ ਸਾਈਨ ਆਉਟ ਹੋ ਸਕਦੇ ਹੋ ਜਾਂ ਖਰੀਦਦਾਰੀ ਵਾਲੀ ਟੋਕਰੀ ਖਾਲੀ ਹੋ ਸਕਦੀ ਹੈ।
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } ਸਹਾਇਕ ਸਾਈਟਾਂ ਉੱਤੇ ਸਭ ਕੂਕੀ ਬੇਨਤੀਆਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਹੀ ਰੱਦ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ।
 protections-panel-cookie-banner-view-cancel = ਰੱਦ ਕਰੋ
 protections-panel-cookie-banner-view-turn-off = ਬੰਦ ਕਰੋ
