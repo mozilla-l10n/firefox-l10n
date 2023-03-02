@@ -18,3 +18,5 @@ callout-firefox-view-colorways-reminder-title = Разгледайте най-н
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-button = Напред
+callout-pdfjs-draw-button = Разбрах!
