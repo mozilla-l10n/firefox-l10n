@@ -73,6 +73,17 @@ restart-later = Рестартиране по-късно
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява тази настройка.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = д
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Настройки…
     .accesskey = а
 containers-disable-alert-title = Затваряне на всички изолирани раздели?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ако сега изключите Изолирани раздели { $tabCount } изолиран раздел ще бъде затворен. Желаете ли да изключите изолираните раздели?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Затваряне на { $tabCount } изолиран раздел
        *[other] Затваряне на { $tabCount } изолирани раздела
     }
+
+##
+
 containers-disable-alert-cancel-button = Оставяне включено
 containers-remove-alert-title = Премахване на изолатора?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Ако сега премахнете този изолатор, { $count } раздел ще бъде затворен. Наистина ли желаете да премахнете този изолатор?
@@ -184,6 +202,7 @@ preferences-web-appearance-header = Изглед на страниците
 preferences-web-appearance-description = Някои страници адаптират цветовете си въз основа на вашите предпочитания. Изберете цветовата схема, която да бъде използвана за такива страници.
 preferences-web-appearance-choice-browser = Тема на { -brand-short-name }
 preferences-web-appearance-choice-system = Спрямо системата
+preferences-web-appearance-choice-auto = Автоматично
 preferences-web-appearance-choice-light = Светла
 preferences-web-appearance-choice-dark = Тъмна
 preferences-web-appearance-choice-tooltip-light =
@@ -214,6 +233,8 @@ advanced-fonts =
 preferences-zoom-header = Мащабиране
 preferences-default-zoom = Мащабиране по подразбиране
     .accesskey = м
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -306,15 +327,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Винаги да пита
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Използване на { $plugin-name } (от { -brand-short-name })
 applications-open-inapp =
@@ -354,6 +375,8 @@ play-drm-content =
 play-drm-content-learn-more = Научете повече
 update-application-title = Обновявания на { -brand-short-name }
 update-application-description = За най-добра производителност, стабилност и защита поддържайте { -brand-short-name } обновен.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Издание { $version } <a data-l10n-name="learn-more">Новото в това издание</a>
 update-history =
     .label = Хронология на обновяванията…
@@ -380,7 +403,7 @@ update-application-suppress-prompts =
     .accesskey = м
 update-setting-write-failure-title2 = Грешка при запазване на настройки
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -410,7 +433,7 @@ performance-limit-content-process-option = Процеси за обработк�
 performance-limit-content-process-enabled-desc = Допълнителни процеси за обработка на съдържание може да подобрят производителността при използване на повече раздели за сметка на повече използвана памет.
 performance-limit-content-process-blocked-desc = Променянето на броя на процесите за съдържание е възможно само при многопроцесен { -brand-short-name }. <a data-l10n-name="learn-more">Научете как да проверите дали многопроцесността е включена</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (по подразбиране)
 
@@ -512,6 +535,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Препоръчано от { $provider }
 home-prefs-recommended-by-description-new = Изключително съдържание, подбрано от { $provider } част от семейството на { -brand-product-name }
@@ -539,6 +566,8 @@ home-prefs-recent-activity-description = Избрани страници и съ
 home-prefs-snippets-header =
     .label = Изрезки
 home-prefs-snippets-description-new = Съвети и новини от { -vendor-short-name } и { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -598,7 +627,7 @@ search-find-more-link = Други търсещи машини
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Дублиране на ключовата дума
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Избрали сте ключова дума, която вече се използва от „{ $name }“. Моля, изберете друга.
 search-keyword-warning-bookmark = Избрали сте дума, която вече се използва от отметка. Моля, изберете друга.
 
@@ -645,8 +674,15 @@ sync-sign-out =
     .accesskey = з
 sync-manage-account = Управление на профила
     .accesskey = У
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+
+##
+
 sync-resend-verification =
     .label = Повторно изпращане на потвърждение
     .accesskey = в
@@ -855,8 +891,8 @@ history-clear-button =
 sitedata-header = Бисквитки и данни на страници
 sitedata-total-size-calculating = Изчисляване на размера на данните и склада…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Складът, бисквитките и данните от страници в момента заемат { $value } { $unit } дисково пространство.
 sitedata-learn-more = Научете повече
 sitedata-delete-on-close =
@@ -952,6 +988,9 @@ content-blocking-all-windows-tracking-content = Проследяващо съд�
 content-blocking-all-third-party-cookies = Всички странични бисквитки
 content-blocking-cryptominers = Добиване на криптовалути
 content-blocking-fingerprinters = Снемане на цифров отпечатък
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-etp-standard-tcp-rollout-learn-more = Научете повече
 content-blocking-warning-title = Внимание!
 content-blocking-warning-learn-how = Научете как

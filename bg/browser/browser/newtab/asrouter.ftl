@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Препоръчана възможност
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Защо го виждам?
-
 cfr-doorhanger-extension-cancel-button = Не сега
     .accesskey = н
-
 cfr-doorhanger-extension-ok-button = Добавяне
     .accesskey = д
-
 cfr-doorhanger-extension-manage-settings-button = Управление на настройки за препоръки
     .accesskey = н
-
 cfr-doorhanger-extension-never-show-recommendation = Не ми показвайте тази препоръка
     .accesskey = н
-
 cfr-doorhanger-extension-learn-more-link = Научете повече
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = от { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препоръка
 cfr-doorhanger-extension-notification2 = Препоръчано
     .tooltiptext = Препоръка за разширение
     .a11y-announcement = Налична е препоръка за разширение
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препоръка
@@ -65,6 +57,11 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } потребителя
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-accept-button-variant-2 = Разрешаване
+    .accesskey = Р
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизирайте отметките си навсякъде.
@@ -85,11 +82,9 @@ cfr-protections-panel-link-text = Научете повече
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова възможност:
-
 cfr-whatsnew-button =
     .label = Какво е новото
     .tooltiptext = Новото в това издание
-
 cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
 
 ## Enhanced Tracking Protection Milestones
@@ -170,7 +165,20 @@ spotlight-pin-secondary-button = Не сега
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
 
+
 ## Firefox View Spotlight
+
+
+## Colorways expiry reminder CFR
+
+
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-accept-button-variant-2 = &Разрешаване
+    .accesskey = Р
+
+## These strings are used in the Fox doodle Pin/set default spotlights
 
