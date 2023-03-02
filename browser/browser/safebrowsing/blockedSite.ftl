@@ -34,7 +34,7 @@ safeb-blocked-malware-page-error-desc-no-override-sumo = Mae <span data-l10n-nam
 
 ##
 
-safeb-blocked-malware-page-learn-more-sumo = Dysgu rhagor am Ddiogelwch rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'> support.mozilla.org </a>.
+safeb-blocked-malware-page-learn-more-sumo = Mae rhagor o wybodaeth am Ddiogelwch Rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

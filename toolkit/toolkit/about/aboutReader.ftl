@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-reader-loading = Llwytho…
+about-reader-loading = Yn llwytho…
 about-reader-load-error = Methwyd llwytho erthygl o dudalen
 about-reader-color-scheme-light = Golau
     .title = Cynllun Lliw Golau

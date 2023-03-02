@@ -20,7 +20,7 @@ appmenuitem-new-tab =
 appmenuitem-new-window =
     .label = Ffenestr Newydd
 appmenuitem-new-private-window =
-    .label = Ffenestr Breifat Newydd
+    .label = Ffenestr breifat newydd
 appmenuitem-history =
     .label = Hanes
 appmenuitem-downloads =
@@ -90,7 +90,7 @@ appmenu-remote-tabs-welcome = Gweld rhestr o dabiau o'ch dyfeisiau eraill.
 appmenu-remote-tabs-unverified = Mae angen i'ch cyfrif cael ei gwirio.
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-sign-in = Mewngofnodi i { -brand-product-name }
-appmenuitem-fxa-manage-account = Rheoli Cyfrif
+appmenuitem-fxa-manage-account = Rheoli cyfrif
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -183,7 +183,7 @@ profiler-popup-presets-graphics-label =
     .label = Graffigau
 profiler-popup-presets-media-description2 = Y rhagosodiad ar gyfer ymchwilio i wallau sain a fideo yn { -brand-shorter-name }.
 profiler-popup-presets-media-label =
-    .label = Cyfryngau
+    .label = Cyfrwng
 profiler-popup-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
 profiler-popup-presets-networking-label =
     .label = Rhwydweithio
