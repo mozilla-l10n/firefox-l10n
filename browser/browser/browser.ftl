@@ -76,6 +76,9 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = Поверително разглеждане с { -brand-shortcut-name }
 
 ##
 
@@ -133,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Получете помощ
 urlbar-search-tips-confirm = Да, разбрах
+urlbar-search-tips-confirm-short = Разбрах
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -269,28 +273,29 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Преглед на добавките
+quickactions-cmd-addons2 = Добавки
 # Opens the bookmarks library window
-quickactions-bookmarks = Преглед на отметките
+quickactions-bookmarks2 = Управление на отметки
 quickactions-cmd-bookmarks = отметки
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Изчистване на историята
 quickactions-cmd-clearhistory = изчистване на историята
-# Opens about:downloads page
-quickactions-downloads = Отваряне на изтеглянията
 quickactions-cmd-downloads = изтегляния
+quickactions-cmd-extensions = разширения
 # Opens the devtools web inspector
-quickactions-inspector = Изследовател на страницата
+quickactions-inspector2 = Развойни инструменти
 quickactions-cmd-inspector = инспектор, изследовател, изследвач, инструменти за разработка, инструменти на разработчика
 # Opens about:logins
-quickactions-logins = Преглед на регистрациите
+quickactions-logins2 = Управление на пароли
 quickactions-cmd-logins = регистрации, пароли, вход, профили
+# Opens about:addons page in the plugins section
+quickactions-plugins = Управление на приставки
+quickactions-cmd-plugins = приставки
 # Opens the print dialog
-quickactions-print = Отпечатване
+quickactions-print2 = Отпечатване
 quickactions-cmd-print = печат, отпечатване
-# Opens a new private browsing window
-quickactions-private = Отваряне на поверителен прозорец
 quickactions-cmd-private = поверително разглеждане
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Освежаване на { -brand-short-name }
@@ -298,18 +303,22 @@ quickactions-cmd-refresh = освежаване, опресняване
 # Restarts the browser
 quickactions-restart = Рестартиране на { -brand-short-name }
 quickactions-cmd-restart = рестарт, рестартиране
-# Opens the screenshot tool
-quickactions-screenshot2 = Снимка на екрана
 quickactions-cmd-screenshot = снимка на екрана
 # Opens about:preferences
-quickactions-settings = Отваряне на настройките
+quickactions-settings2 = Настройки
 quickactions-cmd-settings = настройки
+# Opens about:addons page in the themes section
+quickactions-themes = Управление на теми
+quickactions-cmd-themes = теми
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Обновяване на { -brand-short-name }
 quickactions-cmd-update = обновяване
 # Opens the view-source UI with current pages source
-quickactions-viewsource = Преглед на изходния код
+quickactions-viewsource2 = Изходен код на страницата
 quickactions-cmd-viewsource = преглед на изходния код, изходен код
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Научете повече за бързите действия
 
 ## Bookmark Panel
 
@@ -467,6 +476,9 @@ popup-select-microphone-icon =
     .tooltiptext = Микрофон
 popup-select-speaker-icon =
     .tooltiptext = Високоговорители
+popup-select-window-or-screen =
+    .label = Прозорец или екран:
+    .accesskey = П
 popup-all-windows-shared = Всички видими прозорци на вашия екран ще бъдат споделени.
 popup-screen-sharing-block =
     .label = Забраняване
@@ -673,6 +685,11 @@ bookmarks-other-bookmarks-menu =
     .label = Други отметки
 bookmarks-mobile-bookmarks-menu =
     .label = Мобилни отметки
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -697,6 +714,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Премахване на меню Oтметки от лентата с инструменти
            *[other] Добавяне на меню Отметки към лентата с инструменти
         }
+
+##
+
 bookmarks-search =
     .label = Търсене в отметките
 bookmarks-tools =
@@ -901,6 +921,10 @@ unified-extensions-button =
     .label = Разширения
     .tooltiptext = Разширения
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } попречи на автоматичното презареждане на страницата.
@@ -908,3 +932,6 @@ refresh-blocked-redirect-label = { -brand-short-name } попречи на ав�
 refresh-blocked-allow =
     .label = Разрешаване
     .accesskey = ш
+
+## Firefox Relay integration
+

@@ -28,6 +28,13 @@ downloads-cmd-cancel =
     .tooltiptext = Прекъсване
 downloads-cmd-cancel-panel =
     .aria-label = Прекъсване
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Показване в папката
+           *[other] Показване в папката
+        }
+    .accesskey = П
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -176,7 +183,7 @@ downloads-cancel-download =
 downloads-history =
     .label = Показване на всички изтегляния
     .accesskey = в
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Подробности за изтеглянето
