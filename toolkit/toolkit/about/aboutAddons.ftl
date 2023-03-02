@@ -329,7 +329,7 @@ addon-detail-homepage-label = Tudalen Cartref
 addon-detail-rating-label = Graddio
 # Message for add-ons with a staged pending update.
 install-postponed-message = Bydd yr estyniad hwn yn cael ei ddiweddaru pan fydd { -brand-short-name } yn ailgychwyn.
-install-postponed-button = Diweddaru Nawr
+install-postponed-button = Diweddarwch Nawr
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.

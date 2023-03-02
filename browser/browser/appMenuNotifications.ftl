@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = Diweddariad ar gael
+    .label = Mae diweddariad ar gael
     .buttonlabel = Llwytho i lawr
     .buttonaccesskey = L
     .secondarybuttonlabel = Cau
