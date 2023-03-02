@@ -78,8 +78,8 @@ newtab-topsite-sponsored = Noddwyd
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Agor y ddewislen
-    .aria-label = Agor y ddewislen
+    .title = Agor dewislen
+    .aria-label = Agor dewislen
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Tynnu
@@ -88,7 +88,7 @@ newtab-dismiss-button-tooltip =
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Agor y ddewislen
+    .title = Agor dewislen
     .aria-label = Agor dewislen cynnwys { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
@@ -98,7 +98,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Golygu
-newtab-menu-open-new-window = Agor Ffenestr Newydd
+newtab-menu-open-new-window = Agor mewn Ffenestr Newydd
 newtab-menu-open-new-private-window = Agor mewn Ffenestr Preifat Newydd
 newtab-menu-dismiss = Cau
 newtab-menu-pin = Pinio

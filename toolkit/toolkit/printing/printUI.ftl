@@ -45,7 +45,7 @@ printui-scale-fit-to-page-width = Yn ffitio i led y dudalen
 printui-scale-pcent = Graddfa
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Argraffu dwy ochr
-printui-two-sided-printing-off = Wedi diffodd
+printui-two-sided-printing-off = Diffodd
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Fflipio ar ymyl hir
 # Flip the sheet as if it were bound along its short edge.
