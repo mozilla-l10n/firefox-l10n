@@ -756,7 +756,7 @@ prefs-sync-now =
 sync-currently-syncing-heading = Rydych wrthi'n cydweddu'r eitemau hyn:
 sync-currently-syncing-bookmarks = Nodau Tudalen
 sync-currently-syncing-history = Hanes
-sync-currently-syncing-tabs = Tabiau agored
+sync-currently-syncing-tabs = Tabiau ar agor
 sync-currently-syncing-logins-passwords = Mewngofnodion a chyfrineiriau
 sync-currently-syncing-addresses = Cyfeiriadau
 sync-currently-syncing-creditcards = Cardiau Credyd
@@ -994,7 +994,7 @@ addressbar-locbar-bookmarks-option =
     .label = Nodau Tudalen
     .accesskey = N
 addressbar-locbar-openpage-option =
-    .label = Tabiau agored
+    .label = Tabiau ar agor
     .accesskey = T
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
