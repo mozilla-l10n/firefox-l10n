@@ -607,7 +607,7 @@ home-prefs-snippets-description-new = Awgrymiadau a newyddion gan { -vendor-shor
 home-prefs-sections-rows-option =
     .label =
         { $num ->
-            [zero] { $num } rhes
+            [zero] { $num } rhesi
             [one] { $num } rhes
             [two] { $num } res
             [few] { $num } rhes
