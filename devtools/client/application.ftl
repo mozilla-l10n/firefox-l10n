@@ -43,7 +43,7 @@ serviceworker-worker-updated = Diweddarwyd <time>{ DATETIME($date, month: "long"
 # be debugged and stopped.
 serviceworker-worker-status-running = Yn rhedeg
 # Service Worker status. A stopped service worker is registered but not currently active.
-serviceworker-worker-status-stopped = Aros
+serviceworker-worker-status-stopped = Ataliawyd
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Heb ganfod unrhyw weithwyr gwasanaeth
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers

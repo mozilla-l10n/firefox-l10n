@@ -311,7 +311,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Hefyd, ychwanegu pori preifat { 
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Gwnewch { -brand-short-name } eich hoff borwr
-mr2022-onboarding-set-default-primary-button-label = Gosod { -brand-short-name } fel eich porwr rhagosodedig
+mr2022-onboarding-set-default-primary-button-label = Gosod { -brand-short-name } fel y porwr rhagosodedig
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Defnyddiwch borwr sy'n cael ei gefnogi gan gorff dim-er-elw. Rydym yn diogelu eich preifatrwydd tra byddwch yn teithio o amgylch y we.

@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Copïo
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = Dewis Popeth
     .accesskey = P
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Cyffredinol
     .accesskey = C
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Enw
 general-meta-content =
     .label = Cynnwys
-
 media-tab =
     .label = Cyfrwng
     .accesskey = C
@@ -66,7 +61,7 @@ media-dimension =
 media-long-desc =
     .value = Disgrifiad Hir:
 media-select-all =
-    .label = Dewis y Cyfan
+    .label = Dewis Popeth
     .accesskey = D
 media-save-as =
     .label = Cadw Fel…
@@ -74,13 +69,11 @@ media-save-as =
 media-save-image-as =
     .label = Cadw Fel…
     .accesskey = e
-
 perm-tab =
     .label = Caniatâd
     .accesskey = C
 permissions-for =
     .value = Caniatâd ar gyfer:
-
 security-tab =
     .label = Diogelwch
     .accesskey = D
@@ -101,22 +94,17 @@ security-view-identity-validity =
     .value = Daw i ben ar:
 security-view-privacy =
     .value = Preifatrwydd a Hanes
-
 security-view-privacy-history-value = A ydw i wedi ymweld â'r wefan hon cyn heddiw?
 security-view-privacy-sitedata-value = A yw'r wefan yma'n yn cadw gwybodaeth ar fy nghyfrifiadur?
-
 security-view-privacy-clearsitedata =
     .label = Clirio Data Cwcis a Data
     .accesskey = C
-
 security-view-privacy-passwords-value = A ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?
-
 security-view-privacy-viewpasswords =
     .label = Gweld y Cyfrineiriau wedi eu Cadw
     .accesskey = w
 security-view-technical =
     .value = Manylion Technegol
-
 help-button =
     .label = Cymorth
 
@@ -128,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Ydy, cwcis a { $value } { $unit } o ddata gwefan
 security-site-data-only = Ydy, { $value } { $unit } o ddata gwefan
-
 security-site-data-cookies-only = Ydy, cwcis
 security-site-data-no = Na
 
@@ -152,7 +139,6 @@ media-video = Fideo
 media-audio = Sain
 saved-passwords-yes = Ydw
 saved-passwords-no = Na
-
 no-page-title =
     .value = Tudalen heb Deitl:
 general-quirks-mode =
@@ -167,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Defnyddio'r Rhagosodedig
 security-no-visits = Na
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -182,7 +167,6 @@ general-meta-tags =
             [many] Meta ({ $tags } tag)
            *[other] Meta ({ $tags } tag)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -197,7 +181,6 @@ security-visits-number =
         [many] Do, { $visits } waith
        *[other] Do, { $visits } gwaith
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -212,7 +195,6 @@ properties-general-size =
             [many] { $kb } KB ({ $bytes } beit)
            *[other] { $kb } KB ({ $bytes } beit)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -228,14 +210,12 @@ media-animated-image-type =
             [many] Delwedd { $type } (animeiddio, { $frames } ffrâm)
            *[other] Delwedd { $type } (animeiddio, { $frames } ffrâm)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Delwedd { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -245,32 +225,28 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (graddio i { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
 
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Rhwystro Delweddau o { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Gwyb. Tud. - { $website }
 page-info-frame =
