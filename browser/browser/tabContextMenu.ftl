@@ -102,7 +102,7 @@ tab-context-close-n-tabs =
             [one] Cau { $tabCount } Tab
             [two] Cau { $tabCount } Dab
             [few] Cau { $tabCount } Tab
-            [many] Cau { $tabCount } Tab
+            [many] Cau { $tabCount } Thab
            *[other] Cau { $tabCount } Tab
         }
     .accesskey = T

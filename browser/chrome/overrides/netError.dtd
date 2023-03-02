@@ -43,7 +43,7 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen gofynnwyd amdani ar gael yn storfa dros dro &brandShortName;.</p><ul><li>Fel cam i sicrhau diogelwch nid yw &brandShortName; yn gofyn eto am ddogfennau sensitif.</li><li>Cliciwch Ceisio Eto i ofyn eto am y ddogfen o'r wefan.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen gofynnwyd amdani ar gael yn storfa &brandShortName;.</p><ul><li>Fel cam i sicrhau diogelwch nid yw &brandShortName; yn gofyn eto am ddogfennau sensitif.</li><li>Cliciwch Ceisio Eto i ofyn eto am y ddogfen o'r wefan.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Clicio &quot;Ceisio newid eto&quot; i newid i&apos;r modd ar-lein ac ail lwytho'r dudalen.</li> </ul>">
 
