@@ -15,7 +15,10 @@ controls-button-label = Татбиқ кардани танзимот
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-fog-brand-name = FOG
+-glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = Намоишгари пинги ислоҳи нуқсонҳои «{ -glean-brand-name }»
 about-glean-page-title2 = Дар бораи { -glean-brand-name }
 about-glean-header = Дар бораи { -glean-brand-name }
 about-glean-upload-enabled = Боркунии маълумот фаъол аст.
