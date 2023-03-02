@@ -175,7 +175,7 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
 profiler-popup-presets-web-developer-label =
     .label = Datblygwr Gwe
-profiler-popup-presets-firefox-description = Rhagosodiad a argymhellir ar gyfer proffilio { -brand-shorter-name }.
+profiler-popup-presets-firefox-description = Y rhagosodiad a argymhellir ar gyfer proffilio { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }.
@@ -206,7 +206,7 @@ appmenu-clear-history =
     .label = Clirio Hanes Diweddar…
 appmenu-recent-history-subheader = Hanes Diweddar
 appmenu-recently-closed-tabs =
-    .label = Tabiau Wedi eu Cau'n Ddiweddar
+    .label = Tabiau Wedi'u Cau'n Ddiweddar
 appmenu-recently-closed-windows =
     .label = Ffenestri wedi eu Cau yn Ddiweddar
 

@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Tudalen:
     .accesskey = a
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -55,14 +54,13 @@ printpreview-homearrow =
     .tooltiptext = Tudalen gyntaf
 printpreview-previousarrow =
     .label = { $arrow }
-    .tooltiptext = Tudalen blaenorol
+    .tooltiptext = Tudalen flaenorol
 printpreview-nextarrow =
     .label = { $arrow }
     .tooltiptext = Tudalen nesaf
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Tudalen olaf
-
 printpreview-homearrow-button =
     .title = Tudalen gyntaf
 printpreview-previousarrow-button =

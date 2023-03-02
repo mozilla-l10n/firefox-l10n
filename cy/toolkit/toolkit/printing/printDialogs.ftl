@@ -100,7 +100,7 @@ print-preparing =
 print-progress =
     .value = Cynnydd:
 print-window =
-    .title = Argraffu
+    .title = Yn argraffu
 print-complete =
     .value = Argraffu wedi ei Gwblhau.
 # Variables

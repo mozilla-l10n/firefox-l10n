@@ -122,7 +122,7 @@ neterror-inadequate-security-code = Cod gwall: NS_ERROR_NET_INADEQUATE_SECURITY
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Mae eich cyfrifiadur yn meddwl ei bod hi'n { DATETIME($now, dateStyle: "medium") }, sy'n rhwystro { -brand-short-name } rhag cysylltu'n ddiogel. I fynd i <b>{ $hostname }</b>, diweddarwch gloc eich cyfrifiadur yng ngosodiadau eich system i'r dyddiad, amser a chylch amser cyfredol ac yna adnewyddu <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Nid oes modd dangos y dudalen rydych yn ceisio'i gweld oherwydd cafwyd gwall yn y protocol rhwydwaith.
-neterror-network-protocol-error-contact-website = Cysylltwch â pherchenogion y wefan i roi gwybod iddynt am y broblem hon.
+neterror-network-protocol-error-contact-website = Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.
 certerror-expired-cert-second-para = Mae'n debyg fod tystysgrif y wefan wedi dod i ben, sy'n atal { -brand-short-name } rhag cysylltu'n ddiogell. Os ewch chi i'r wefan hon gall ymosodwyr geisio dwy gwybodaeth fel eich cyfrineiriau, e-byst neu fanylion cerdyn credyd.
 certerror-expired-cert-sts-second-para = Mae'n debyg fod tystysgrif y wefan wedi dod i ben, sy'n atal { -brand-short-name } rhag cysylltu'n ddiogell.
 certerror-what-can-you-do-about-it-title = Beth allwch chi wneud am hyn?

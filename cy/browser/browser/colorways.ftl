@@ -12,7 +12,7 @@ colorway-collection-independent-voices-short-description = Lliwiau sy'n newid di
 
 ## Colorway names and descriptions
 
-playmaker-colorway-name = Chwaraewr
+playmaker-colorway-name = Arweinydd
 playmaker-colorway-description = Rydych chi'n creu cyfleoedd i ennill ac yn helpu pawb o'ch cwmpas i godi eu gêm.
 expressionist-colorway-name = Mynegiadwr
 expressionist-colorway-description = Rydych chi'n gweld y byd yn wahanol ac mae eich creadigaethau'n cyffroi emosiynau pobl eraill.
