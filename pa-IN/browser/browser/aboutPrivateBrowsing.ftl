@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = ਕੋਈ ਵੀ ਸੰਭਾਲੇ ਕ
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = ਕੂਕੀ ਬੈਨਰ ਘਟਾਓ!
 about-private-browsing-cookie-banners-promo-button = ਕੂਕੀਜ਼ ਬੈਨਰ ਘਟਾਓ
+about-private-browsing-cookie-banners-promo-message = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਆਪਣੇ-ਆਪ ਹੀ ਕੂਕੀ ਪੌਪ-ਅੱਪ ਲਈ ਕਾਰਵਾਈ ਕਰਨ ਦਿਓ ਤਾਂ ਕਿ ਤੁਸੀਂ ਬਿਨਾਂ ਰੁਕਾਵਟ ਦੇ ਬਰਾਊਜ਼ ਕਰ ਸਕੋ। ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੁੰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਸਭ ਬੇਨਤੀਆਂ ਨੂੰ ਰੱਦ ਕਰੇਗਾ।
