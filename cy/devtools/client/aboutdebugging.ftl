@@ -174,7 +174,7 @@ about-debugging-runtime-profile-button2 = Perfformiad proffil
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
-about-debugging-runtime-service-workers-not-compatible = Nid yw ffurfweddiad eich porwr yn cydweddu â Service Workers. <a>Dysgu rhagor</a>
+about-debugging-runtime-service-workers-not-compatible = Nid yw ffurfweddiad eich porwr yn cydweddu â Gweithwyr Gwasanaeth. <a>Dysgu rhagor</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -290,7 +290,7 @@ about-debugging-worker-fetch-not-listening =
 # worker instance is active).
 about-debugging-worker-status-running = Yn rhedeg
 # Displayed for service workers in runtime pages that are registered but stopped.
-about-debugging-worker-status-stopped = Wedi Atal
+about-debugging-worker-status-stopped = Ataliawyd
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = Cofrestru
 # Displayed for service workers in runtime pages, to label the scope of a worker

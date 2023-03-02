@@ -72,6 +72,6 @@ pocket-panel-header-sign-in = Mewngofnodi
 
 ## Pocket panel buttons
 
-pocket-panel-button-show-all = Dangos y Cyfan
+pocket-panel-button-show-all = Dangos Popeth
 pocket-panel-button-activate = Agor { -pocket-brand-name } yn { -brand-product-name }
 pocket-panel-button-remove = Tynnu
