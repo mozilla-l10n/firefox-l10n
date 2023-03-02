@@ -436,7 +436,7 @@ identity-enable-mixed-content-blocking =
     .label = Galluogi diogelu
     .accesskey = G
 identity-more-info-link-text =
-    .label = Rhagor o Wybodaeth
+    .label = Rhagor o wybodaeth
 
 ## Window controls
 
@@ -714,7 +714,7 @@ crashed-subframe-submit =
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
-    .label = Rheoli Nodau Tudalen
+    .label = Rheoli nodau tudalen
 bookmarks-recent-bookmarks-panel-subheader = Nodau Tudalen Diweddar
 bookmarks-toolbar-chevron =
     .tooltiptext = Dangos pob ffolder nod tudalen
@@ -843,13 +843,13 @@ toolbar-button-synced-tabs =
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
-    .label = Ffenestr Breifat Newydd
-    .tooltiptext = Agor ffenestr Pori Preifat newydd ({ $shortcut })
+    .label = Ffenestr breifat newydd
+    .tooltiptext = Agor ffenestr pori preifat newydd ({ $shortcut })
 
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Mae peth sain a fideo ar y wefan yn defnyddio meddalwedd DRM, gall gyfyngu'r hyn y gall { -brand-short-name } ei wneud gydag ef.
-eme-notifications-drm-content-playing-manage = Rheoli Gosodiadau
+eme-notifications-drm-content-playing-manage = Rheoli gosodiadau
 eme-notifications-drm-content-playing-manage-accesskey = R
 eme-notifications-drm-content-playing-dismiss = Cau
 eme-notifications-drm-content-playing-dismiss-accesskey = C

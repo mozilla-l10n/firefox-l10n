@@ -213,7 +213,7 @@ newtab-empty-section-topstories = Rydych wedi dal i fynDewch nôl rhywbryd eto a
 newtab-discovery-empty-section-topstories-header = Wedi dal i fyny!
 newtab-discovery-empty-section-topstories-content = Dewch nôl eto am ragor o straeon.
 newtab-discovery-empty-section-topstories-try-again-button = Ceisiwch eto
-newtab-discovery-empty-section-topstories-loading = Llwytho…
+newtab-discovery-empty-section-topstories-loading = Yn llwytho…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a lwytho'r adran hon, ond nid yn llwyr.
 

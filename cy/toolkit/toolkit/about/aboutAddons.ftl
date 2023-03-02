@@ -392,7 +392,7 @@ addon-badge-verified2 =
 
 available-updates-heading = Diweddariadau ar Gael
 recent-updates-heading = Diweddariadau Diweddar
-release-notes-loading = Llwytho…
+release-notes-loading = Yn llwytho…
 release-notes-error = Ymddiheuriadau ond bu gwall llwytho'r nodiadau ryddhau.
 addon-permissions-empty = Nid oes angen unrhyw ganiatâd ar yr estyniad hwn
 addon-permissions-required = Caniatâd angenrheidiol y swyddogaethau craidd:
@@ -436,7 +436,7 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
-details-notification-incompatible-link = Rhagor o wybodaeth
+details-notification-incompatible-link = Rhagor o Wybodaeth
 details-notification-unsigned-and-disabled = Nid oedd modd dilysu { $name } i'w ddefnyddio yn { -brand-short-name } ac mae wedi ei analluogi.
 details-notification-unsigned-and-disabled-link = Rhagor o Wybodaeth
 details-notification-unsigned = Nid oedd modd dilysu { $name } i'w defnyddio yn { -brand-short-name }. Cymerwch ofal.
