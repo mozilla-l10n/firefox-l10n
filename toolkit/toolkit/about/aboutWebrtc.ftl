@@ -270,8 +270,7 @@ about-webrtc-sdp-set-at-timestamp-remote = Impostato SDP remoto con timestamp { 
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
-##
+## These are displayed on the button that shows or hides the SDP information disclosure
 
-##
-
-##
+about-webrtc-show-msg-sdp = Mostra SDP
+about-webrtc-hide-msg-sdp = Nascondi SDP
