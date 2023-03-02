@@ -41,7 +41,7 @@ serviceworker-worker-updated = Diweddarwyd <time>{ DATETIME($date, month: "long"
 
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
-serviceworker-worker-status-running = Rhedeg
+serviceworker-worker-status-running = Yn rhedeg
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Aros
 # Text displayed when no service workers are visible for the current page.
