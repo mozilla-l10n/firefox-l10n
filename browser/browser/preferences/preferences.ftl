@@ -217,6 +217,9 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Управлявайте темите на { -brand-short-name } в <a data-l10n-name="themes-link">Управление на добавки</a>
 preferences-colors-header = Цветове
 preferences-colors-manage-button =
     .label = Управление на цветове…

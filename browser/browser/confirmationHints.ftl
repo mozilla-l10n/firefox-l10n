@@ -6,6 +6,7 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = Докладът е изпратен. Благодарим ви!
+confirmation-hint-page-bookmarked = Добавено към отметките
 confirmation-hint-password-saved = Паролата е запазена!
 confirmation-hint-pin-tab = Закачен!
 confirmation-hint-pin-tab-description = Щракнете с десния бутон върху раздела, за да го махнете от леснодостъпните.

@@ -25,3 +25,5 @@ firefoxview-change-colorway-button = Променяне на цветовете
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-show =
+    .title = Списък
