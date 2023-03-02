@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshot-toolbarbutton =
-    .label = Ciplun
-    .tooltiptext = Cymryd ciplun
+    .label = Llun Sgrin
+    .tooltiptext = Cymryd llun sgrin
 screenshot-shortcut =
     .key = S
 screenshots-instructions = Llusgwch neu glicio ar y dudalen i ddewis ardal. Pwyso ESC i ddiddymu.
