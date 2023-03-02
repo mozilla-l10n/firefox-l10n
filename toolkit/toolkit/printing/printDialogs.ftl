@@ -18,7 +18,7 @@ portrait =
     .label = Portread
     .accesskey = P
 landscape =
-    .label = Tirwedd
+    .label = Tirlun
     .accesskey = T
 scale =
     .label = Graddfa:
@@ -103,7 +103,6 @@ print-window =
     .title = Argraffu
 print-complete =
     .value = Argraffu wedi ei Gwblhau.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

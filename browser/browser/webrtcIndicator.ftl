@@ -187,7 +187,6 @@ webrtc-allow-share-screen-and-audio-capture = Caniatáu i { $origin } wrando ar 
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Caniatáu i { $origin } roi caniatâd i { $thirdParty } wrando ar sain y tab hwn?
 webrtc-allow-share-camera-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } at eich camera?
-webrtc-allow-share-microphone-unsafe-delegations = Caniatáu i { $origin } roi mynediad i { $thirdParty } i'ch meicroffon?
 webrtc-allow-share-microphone-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } i'ch meicroffon?
 webrtc-allow-share-screen-unsafe-delegation = Caniatáu i { $origin } roi caniatâd i { $thirdParty } weld eich sgrin?
 # "Speakers" is used in a general sense that might include headphones or
@@ -202,7 +201,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Caniatáu i { $o
 
 webrtc-share-screen-warning = Rhannwch dim ond sgriniau â gwefannau rydych chi'n ymddiried ynddyn nhw. Gall rhannu ganiatáu i wefannau twyllodrus bori fel taw chi sydd wrthi a dwyn eich data preifat.
 webrtc-share-browser-warning = Rhannwch { -brand-short-name } dim ond gyda gwefannau rydych yn ymddiried ynddyn nhw. Gall rhannu ganiatáu i wefannau twyllodrus bori fel taw chi sydd wrthi a dwyn eich data preifat.
-webrtc-share-screen-learn-more = Dysgu Rhagor
+webrtc-share-screen-learn-more = Dysgu rhagor
 webrtc-pick-window-or-screen = Dewiswch Ffenestr neu Sgrin
 webrtc-share-entire-screen = Sgrin gyfan
 webrtc-share-pipe-wire-portal = Defnyddio gosodiadau'r system weithredu

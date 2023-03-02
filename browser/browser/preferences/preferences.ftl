@@ -502,7 +502,7 @@ browsing-cfr-recommendations =
 browsing-cfr-features =
     .label = Argymell nodweddion wrth bori
     .accesskey = A
-browsing-cfr-recommendations-learn-more = Dysgu Rhagor
+browsing-cfr-recommendations-learn-more = Dysgu rhagor
 
 ## General Section - Proxy
 
@@ -1016,7 +1016,7 @@ addressbar-quickactions-learn-more = Dysgu rhagor
 
 content-blocking-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 content-blocking-section-top-level-description = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
-content-blocking-learn-more = Dysgu Rhagor
+content-blocking-learn-more = Dysgu rhagor
 content-blocking-fpi-incompatibility-warning = Rydych yn defnyddio Ynysu Parti Cyntaf (FPI), sy’n gwrthwneud rhai o osodiadau cwci { -brand-short-name } ’.
 
 ## These strings are used to define the different levels of
@@ -1067,7 +1067,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Dysgu rhagor
 content-blocking-etp-standard-tcp-title = Yn cynnwys Diogelwch Cwcis Llwyr, ein nodwedd preifatrwydd mwyaf pwerus erioed
 content-blocking-warning-title = Rhybudd!
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
-content-blocking-warning-learn-how = Dysgu sut
+content-blocking-warning-learn-how = Sut mae gwneud
 content-blocking-reload-description = Bydd angen ail lwytho'ch tabiau i osod y newidiadau hyn.
 content-blocking-reload-tabs-button =
     .label = Ail lwytho Pob Tab
