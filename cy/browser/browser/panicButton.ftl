@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Agor Ffenestr glân newydd
-panic-button-undo-warning = Nid oes modd dadwneud y weithred.
+panic-button-undo-warning = Nid oes modd dadwneud y weithred hon.
 panic-button-forget-button =
     .label = Anghofio!
 
