@@ -7,6 +7,9 @@ about-logins-page-title = การเข้าสู่ระบบและร
 login-filter =
     .placeholder = ค้นหาการเข้าสู่ระบบ
 create-login-button = สร้างการเข้าสู่ระบบใหม่
+about-logins-login-filter =
+    .placeholder = ค้นหาการเข้าสู่ระบบ
+    .key = F
 create-new-login-button =
     .title = สร้างการเข้าสู่ระบบใหม่
 fxaccounts-sign-in-text = รับรหัสผ่านของคุณบนอุปกรณ์อื่น ๆ ของคุณ
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = ช่วยเหลือ
 
 login-list =
     .aria-label = การเข้าสู่ระบบที่ตรงกับคำค้น
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
        *[other] { $count } การเข้าสู่ระบบ
@@ -105,6 +110,8 @@ login-item-time-used = วันที่ใช้ครั้งล่าสุ
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = สร้างเมื่อ
 login-item-timeline-action-updated = ปรับปรุงเมื่อ
@@ -154,6 +161,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 about-logins-confirm-remove-dialog-confirm-button = ลบ
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] เอาออก
@@ -182,6 +193,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] การดำเนินการนี้จะเอาการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } บนอุปกรณ์ทั้งหมดที่ซิงค์กับ{ -fxaccount-brand-name } ของคุณ การดำเนินการนี้จะเอาการแจ้งเตือนเกี่ยวกับการรั่วไหลที่ปรากฏที่นี่ออกด้วย คุณจะไม่สามารถยกเลิกการดำเนินการนี้ได้
        *[other] การดำเนินการนี้จะเอาการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } บนอุปกรณ์ทั้งหมดที่ซิงค์กับ{ -fxaccount-brand-name } ของคุณ การดำเนินการนี้จะเอาการแจ้งเตือนเกี่ยวกับการรั่วไหลที่ปรากฏที่นี่ออกด้วย คุณจะไม่สามารถยกเลิกการดำเนินการนี้ได้
     }
+
+##
+
 about-logins-confirm-export-dialog-title = ส่งออกการเข้าสู่ระบบและรหัสผ่าน
 about-logins-confirm-export-dialog-message = รหัสผ่านของคุณจะถูกบันทึกเป็นข้อความที่อ่านได้ (เช่น BadP@ssw0rd) ดังนั้นใครก็ตามที่สามารถเปิดไฟล์ที่ส่งออกได้จะสามารถดูได้
 about-logins-confirm-export-dialog-confirm-button = ส่งออก…
