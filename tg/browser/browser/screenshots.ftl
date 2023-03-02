@@ -45,3 +45,4 @@ screenshots-private-window-error-details = Барои нороҳатӣ узр м
 screenshots-generic-error-title = Ваҳ! { -screenshots-brand-name } вайрон шуд.
 screenshots-generic-error-details = Мо мутмаин нестем, ки чӣ мушкилӣ ба миён омад. Шумо мехоҳед, ки аз нав кӯшиш кунед ё акси саҳифаи дигарро гиред?
 screenshots-too-large-error-title = Акси экрани шумо кутоҳ шуд, зеро ки он аз ҳад калон буд
+screenshots-too-large-error-details = Кӯшиш карда, минтақаеро интихоб намоед, ки дар он тарафи дарозтарин на зиёда аз 32,700 пиксел мебошад ё минтақаи ҳамагии он 124,900,000 пиксел мебошад.

@@ -114,6 +114,8 @@ protections-panel-cookie-banner-view-go-back =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = «Маҳдудкунии баннери куки»-ро барои { $host } хомӯш месозед?
 protections-panel-cookie-banner-view-turn-on-for-site = «Маҳдудкунии баннери куки»-ро барои ин сомона хомӯш месозед?
+protections-panel-cookie-banner-view-cookie-clear-warning = «{ -brand-short-name }» кукиҳои ин сомонаро тоза мекунад ва саҳифаро аз нав бор мекунад. Амали тозакунии ҳамаи кукиҳо метавонад шуморо аз сомона хориҷ кунад ва сабадҳои харидории шуморо холӣ намояд.
+protections-panel-cookie-banner-view-turn-on-description = «{ -brand-short-name }» кӯшиш мекунад, ки ҳамаи дархостҳои кукиҳоро дар сомонаҳои дастгиришаванда ба таври худкор рад кунад.
 protections-panel-cookie-banner-view-cancel = Бекор кардан
 protections-panel-cookie-banner-view-turn-off = Хомӯш кардан
 protections-panel-cookie-banner-view-turn-on = Фаъол кардан
