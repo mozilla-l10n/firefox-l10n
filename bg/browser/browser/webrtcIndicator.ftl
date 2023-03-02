@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Споделяне
 webrtc-indicator-window =
     .title = { -brand-short-name } - Споделяне
@@ -167,6 +165,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Винаги да е забранено
     .accesskey = в
+webrtc-action-not-now =
+    .label = Не сега
+    .accesskey = Н
 
 ##
 
