@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Periksa apakah { -brand-short-name } memi
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } tidak dapat melindungi permintaan Anda untuk alamat situs ini melalui resolusi DNS yang terpercaya kami. Alasannya adalah sebagai berikut:
 neterror-dns-not-found-trr-only-attackers = Jika Anda melanjutkan, pihak ketiga mungkin dapat melihat situs web apa yang Anda kunjungi atau mengarahkan Anda ke situs yang tidak tepercaya.
+neterror-dns-not-found-trr-third-party-warning = Anda dapat melanjutkan dengan resolusi DNS yang tidak aman. Namun, pihak ketiga mungkin dapat melihat situs web yang Anda kunjungi.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } tidak dapat terhubung ke { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Sambungan ke { $trrDomain } memakan waktu lebih lama dari yang diharapkan.
 neterror-dns-not-found-trr-offline = Anda tidak tersambung ke internet.

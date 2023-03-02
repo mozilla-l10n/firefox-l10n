@@ -110,6 +110,12 @@ protections-panel-cookie-banner-view-title =
     .title = Pengurangan Spanduk Kuki
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Kembali
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Nonaktifkan Pengurangan Spanduk Kuki untuk { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Aktifkan Pengurangan Spanduk Kuki untuk situs ini?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } akan menghapus kuki situs ini dan menyegarkan laman ini. Membersihkan semua kuki dapat membuat Anda keluar dari suatu situs atau mengosongkan keranjang belanja.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } mencoba secara otomatis menolak semua permintaan kuki di situs yang didukung.
 protections-panel-cookie-banner-view-cancel = Batal
 protections-panel-cookie-banner-view-turn-off = Nonaktifkan
 protections-panel-cookie-banner-view-turn-on = Aktifkan
