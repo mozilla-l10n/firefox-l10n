@@ -876,7 +876,7 @@ forms-primary-pw-change =
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
-forms-primary-pw-former-name = { "" }
+forms-primary-pw-former-name = Hysbys yn flaenorol fel y Prif Gyfrinair
 forms-primary-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair nad yw'n wag.
 forms-master-pw-fips-desc = Methu Newid eich Cyfrinair
 forms-windows-sso =

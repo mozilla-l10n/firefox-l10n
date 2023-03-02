@@ -56,7 +56,7 @@ about-private-browsing-promo-close-button =
 about-private-browsing-pin-promo-header = Rhyddid pori preifat mewn un clic
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] Ei Gadw yn y Doc
+        [macos] Cadw yn y Doc
        *[other] Pinio i'r bar tasgau
     }
 about-private-browsing-pin-promo-title = Dim cwcis na hanes wedi'u cadw, o'ch bwrdd gwaith. Porwch fel nad oes neb yn gwylio.
