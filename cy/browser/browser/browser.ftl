@@ -169,7 +169,7 @@ urlbar-tabtosearch-onboard = Dewiswch y llwybr byr hwn i ddod o hyd i'r hyn sydd
 
 ## Local search mode indicator labels in the urlbar
 
-urlbar-search-mode-bookmarks = Nodau tudalen
+urlbar-search-mode-bookmarks = Nodau Tudalen
 urlbar-search-mode-tabs = Tabiau
 urlbar-search-mode-history = Hanes
 urlbar-search-mode-actions = Gweithredoedd
@@ -343,7 +343,7 @@ quickactions-learn-more =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = Ychwanegu Nod Tudalen
+bookmarks-add-bookmark = Ychwanegu nod tudalen
 bookmarks-edit-bookmark = Golygu nod tudalen
 bookmark-panel-cancel =
     .label = Diddymu
