@@ -70,4 +70,4 @@ synced-tabs-context-sync-now =
     .label = Cydweddu Nawr
     .accesskey = y
 synced-tabs-fxa-sign-in = Mewngofnodi i gydweddu
-synced-tabs-turn-on-sync = Cychwyn cydweddu
+synced-tabs-turn-on-sync = Cychwyn Sync

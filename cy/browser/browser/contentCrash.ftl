@@ -30,7 +30,7 @@ pending-crash-reports-message =
        *[other] Mae gennych { $reportCount } adroddiad chwalu sydd heb eu cyflwyno
     }
 pending-crash-reports-view-all =
-    .label = Gweld
+    .label = Golwg
 pending-crash-reports-send =
     .label = Anfon
 pending-crash-reports-always-send =

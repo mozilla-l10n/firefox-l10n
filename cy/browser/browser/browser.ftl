@@ -335,7 +335,7 @@ quickactions-cmd-themes = themâu
 quickactions-update = Diweddaru { -brand-short-name }
 quickactions-cmd-update = diweddaru
 # Opens the view-source UI with current pages source
-quickactions-viewsource2 = Gweld Ffynhonnell Tudalen
+quickactions-viewsource2 = Darllen Cod Gwreiddiol y Dudalen
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

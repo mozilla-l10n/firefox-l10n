@@ -28,7 +28,7 @@ findbar-match-diacritics =
     .accesskey = i
     .tooltiptext = Gwahaniaethu rhwng nodau acennog a nodau sylfaenol, (e.e. wrth chwilio am “resume”, ni fydd “résumé” yn cael ei gynnig)
 findbar-entire-word =
-    .label = Geiriau Llawn
+    .label = Geiriau Cyfan
     .accesskey = G
     .tooltiptext = Chwilio'r geiriau llawn yn unig
 findbar-not-found = Heb ganfod ymadrodd
@@ -45,7 +45,7 @@ findbar-case-sensitive-status =
 findbar-match-diacritics-status =
     .value = (Diacritig cyfatebol)
 findbar-entire-word-status =
-    .value = (Geiriau llawn yn unig)
+    .value = (Geiriau cyfan yn unig)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
