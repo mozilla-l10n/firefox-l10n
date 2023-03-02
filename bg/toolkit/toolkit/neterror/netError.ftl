@@ -24,6 +24,7 @@ neterror-pref-reset-button = Възстановяване на настройк�
 neterror-return-to-previous-page-button = Връщане назад
 neterror-return-to-previous-page-recommended-button = Връщане назад (препоръчително)
 neterror-try-again-button = Нов опит
+neterror-settings-button = Промяна на настройките за DNS
 neterror-view-certificate-link = Преглед на сертификата
 
 ##
@@ -38,6 +39,20 @@ neterror-load-error-try-again = Страницата може да е време
 neterror-load-error-connection = Ако не може да отворите друга страница, проверете връзката си с интернет.
 neterror-load-error-firewall = Ако компютърът или мрежата ви са зад защитна стена или мрежов посредник проверете дали { -brand-short-name } има право на достъп до Интернет.
 neterror-captive-portal = Трябва да се впишете в тази мрежа, за да получите достъп до интернет.
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+##
+
 neterror-file-not-found-filename = Проверете името на файла за регистъра на буквите или други технически грешки.
 neterror-file-not-found-moved = Проверете дали файлът не е преместен, преименуван или изтрит.
 neterror-access-denied = Може да е премахнат, преместен или правата му да ограничават достъпа.
