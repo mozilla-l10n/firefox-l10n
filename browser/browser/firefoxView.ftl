@@ -9,12 +9,16 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = Току-що
 firefoxview-tabpickup-step-signin-primarybutton = Напред
 firefoxview-tabpickup-adddevice-learn-how = Научете как
+firefoxview-tabpickup-synctabs-header = Включване синхронизирането на раздели
 firefoxview-tabpickup-synctabs-learn-how = Научете как
+firefoxview-tabpickup-network-offline-header = Проверете връзката с интернет
 firefoxview-tabpickup-network-offline-primarybutton = Нов опит
 firefoxview-tabpickup-sync-error-primarybutton = Нов опит
 firefoxview-tabpickup-password-locked-link = Научете повече
 firefoxview-tabpickup-password-locked-primarybutton = Въведете главната парола
 firefoxview-mobile-confirmation-header = 🎉 Готово!
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Последна активност
 firefoxview-try-colorways-button = Опитайте цветовете
 firefoxview-change-colorway-button = Променяне на цветовете
 # Variables:
