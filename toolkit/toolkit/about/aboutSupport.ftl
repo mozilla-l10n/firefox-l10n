@@ -4,7 +4,7 @@
 
 page-title = Gwybodaeth am Ddatrys Problemau
 page-subtitle = Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiol pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau cyffredin am { -brand-short-name }, edrychwch ar ein <a data-l10n-name="support-link">gwefan cefnogaeth</a>.
-crashes-title = Ardroddiadau Chwalu
+crashes-title = Adroddiadau Chwalu
 crashes-id = Enw'r Adroddiad
 crashes-send-date = Cyflwynwyd
 crashes-all-reports = Pob Adroddiad Chwalu

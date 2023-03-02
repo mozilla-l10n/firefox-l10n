@@ -22,7 +22,7 @@ firefoxview-tabpickup-description = Agorwch dudalennau o ddyfeisiau eraill.
 firefoxview-tabpickup-progress-label = { $percentValue }% wedi'i gwblhau
 firefoxview-tabpickup-step-signin-header = Symud yn rhwydd rhwng dyfeisiau
 firefoxview-tabpickup-step-signin-description = I ddefnyddio'ch tabiau ffôn yma, mewngofnodwch yn gyntaf neu greu cyfrif.
-firefoxview-tabpickup-step-signin-primarybutton = Parhau
+firefoxview-tabpickup-step-signin-primarybutton = Ymlaen
 firefoxview-tabpickup-adddevice-header = Cydweddu { -brand-product-name } ar eich ffôn neu dabled
 firefoxview-tabpickup-adddevice-description = Llwytho { -brand-product-name } ar gyfer ffôn symudol a mewngofnodi yno.
 firefoxview-tabpickup-adddevice-learn-how = Sut mae gwneud
@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Gweithgaredd diwethaf
 firefoxview-tabs-list-tab-button =
     .title = Agor { $targetURI } mewn tab newydd
 firefoxview-try-colorways-button = Rhowch gynnig ar gyfuniadau lliw
-firefoxview-no-current-colorway-collection = Mae cyfuniadau lliw newydd ar y ffordd
 firefoxview-change-colorway-button = Newid y llwybr lliw
 # Variables:
 #  $intensity (String): Colorway intensity
