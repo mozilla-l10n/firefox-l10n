@@ -83,4 +83,8 @@ about-glean-label-for-log-pings =
 about-glean-label-for-controls-submit =
     Drücken Sie die vorherige Schaltfläche, um alle { -glean-brand-name }-Pings mit Ihrem Tag zu markieren und den ausgewählten Ping zu senden.
     (Alle Pings, die von da an bis zum Neustart der Anwendung gesendet werden, werden mit <code>{ $debug-tag }</code> gekennzeichnet.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Besuchen Sie die Seite des { glean-debug-ping-viewer-brand-name } für Pings mit Ihrem Tag</a>.
+    Es sollte nicht mehr als ein paar Sekunden vom Drücken der Schaltfläche bis zur Ankunft Ihres Pings dauern.
+    Manchmal kann es ein paar Minuten dauern.
 controls-button-label-verbose = Einstellungen übernehmen und Ping senden
