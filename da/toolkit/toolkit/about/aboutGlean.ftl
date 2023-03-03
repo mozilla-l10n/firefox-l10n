@@ -72,4 +72,15 @@ about-glean-label-for-ping-names =
     <code>events</code>ping'et
     og standard for alle andre målinger er
     <code>metrics</code>-ping'et.
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Tryk på den foregående knap for at udstyre alle { -glean-brand-name }-pings med dit mærkat og indsende det valgte ping.
+    (Alle ping indsendt fra det øjeblik frem til du genstarter applikationen vil få mærkatet
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Besøg siden { glean-debug-ping-viewer-brand-name } for at se pings med dit mærkat</a>.
+    Dit ping burde ankomme få sekunder efter at du har trykket på knappen.
+    Nogle gange kan det dog tage op til en lille håndfuld minutter.
 controls-button-label-verbose = Anvend indstillinger og send ping
