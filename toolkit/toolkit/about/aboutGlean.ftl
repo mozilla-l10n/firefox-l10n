@@ -18,11 +18,25 @@ controls-button-label = Einstellungen senden
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name }-Debug-Ping-Ansicht
 about-glean-page-title2 = Über { -glean-brand-name }
 about-glean-header = Über { -glean-brand-name }
+about-glean-interface-description =
+    Das <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    ist eine Datensammlungsbibliothek, die in { -vendor-short-name }-Projekten verwendet wird.
+    Diese Schnittstelle wurde entwickelt, um von Entwicklern und Testern zum
+    händischen <a data-l10n-name="fog-link">Testen von Instrumentierung</a> genutzt zu werden.
 about-glean-upload-enabled = Das Hochladen von Daten ist aktiviert.
 about-glean-upload-disabled = Das Hochladen von Daten ist deaktiviert.
 about-glean-upload-enabled-local = Das Hochladen von Daten ist nur zum Senden an einen lokalen Server aktiviert.
+about-glean-upload-fake-enabled =
+    Das Hochladen von Daten ist deaktiviert.
+    Aber wir lügen und sagen dem { glean-sdk-brand-name }, dass es aktiviert ist,
+    sodass die Daten trotzdem lokal gespeichert werden.
+    Hinweis: Wenn Sie ein Debug-Tag gesetzt haben, werden die Pings  unabhängig von den Einstellungen in der 
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> hochgeladen.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Zu den relevanten <a data-l10n-name="fog-prefs-and-defines-doc-link">Einstellungen und Definitionen</a> gehören:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
@@ -39,4 +53,5 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = Über Testen
 controls-button-label-verbose = Einstellungen übernehmen und Ping senden
