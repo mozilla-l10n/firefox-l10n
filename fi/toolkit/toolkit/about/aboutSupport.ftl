@@ -119,6 +119,7 @@ place-database-stats-count = Lukumäärä
 place-database-stats-size-kib = Koko (KiB)
 place-database-stats-size-perc = Koko (%)
 place-database-stats-efficiency-perc = Tehokkuus (%)
+place-database-stats-sequentiality-perc = Peräkkäisyys (%)
 place-database-integrity = Virheettömyys
 place-database-verify-integrity = Tarkista virheettömyys
 a11y-title = Saavutettavuus
