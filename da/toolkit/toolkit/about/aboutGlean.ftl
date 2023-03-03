@@ -34,4 +34,42 @@ about-glean-upload-fake-enabled =
     På dén måde optages data stadig lokalt.
     Bemærk: Hvis du sætter et debug-mærkat, vil pings blive uploaded til
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> uanset indstillingerne.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Relevante <a data-l10n-name="fog-prefs-and-defines-doc-link">indstillinger og definitioner</a> inkluderer:
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = Om testning
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Komplette instruktioner er samlet i
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentationen for instrumenterings-testning</a>
+    og i <a data-l10n-name="glean-sdk-doc-link">dokumentationen for { glean-sdk-brand-name }</a>.
+    Kort beskrevet skal du gøre følgende for at teste din instrumentering:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (indsend ikke pings)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Sørg for, at det foregående felt indeholder et debug-mærkat, du kan huske - så du kan genkende dine pings senere.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Vælg det ping, der indeholder din instrumentering, fra den foregående liste.
+    Hvis det er et <a data-l10n-name="custom-ping-link">tilpasset ping</a>, så vælg dét.
+    Ellers er standard for <code>event</code>-måling 
+    <code>events</code>ping'et
+    og standard for alle andre målinger er
+    <code>metrics</code>-ping'et.
 controls-button-label-verbose = Anvend indstillinger og send ping
