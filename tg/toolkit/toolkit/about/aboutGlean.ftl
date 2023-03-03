@@ -49,3 +49,4 @@ about-glean-about-testing-header = Дар бораи «Санҷиш»
 about-glean-no-ping-label = (ягон пинг фиристода нашавад)
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
 about-glean-about-data-header = Дар бораи «Маълумот»
+about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
