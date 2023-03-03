@@ -82,7 +82,7 @@ pendant le transfert d’informations. Veuillez réessayer.</p>
 </ul>
 ">
 
-<!ENTITY notCached.title "Le document est expiré">
+<!ENTITY notCached.title "Le document a expiré">
 <!ENTITY notCached.longDesc "
 <p>Le document demandé n’est pas disponible dans le cache du navigateur.</p>
 <ul>
