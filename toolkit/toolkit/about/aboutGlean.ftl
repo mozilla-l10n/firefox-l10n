@@ -28,6 +28,7 @@ about-glean-interface-description =
     <a data-l10n-name="fog-link">teste instrumentering</a>.
 about-glean-upload-enabled = Upload af data er aktiveret.
 about-glean-upload-disabled = Upload af data er deaktiveret.
+about-glean-upload-enabled-local = Upload af data er kun aktiveret for at sende til en lokal server.
 about-glean-upload-fake-enabled =
     Upload af data er deaktiveret,
     men vi lyver og fortæller { glean-sdk-brand-name }, at det er aktiveret.
@@ -84,3 +85,7 @@ about-glean-li-for-visit-gdpv =
     Dit ping burde ankomme få sekunder efter at du har trykket på knappen.
     Nogle gange kan det dog tage op til en lille håndfuld minutter.
 controls-button-label-verbose = Anvend indstillinger og send ping
+about-glean-about-data-header = Om data
+about-glean-about-data-explanation =
+    Konsulter <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbogen</a> for at gennemse 
+    listen med indsamlede data.
