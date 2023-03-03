@@ -43,8 +43,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Ընթացքը. քայլ { $current }՝ { $total }-ից
 onboarding-welcome-steps-indicator-label =
     .aria-label = Ընթացքը. քայլ { $current }՝ { $total }-ից
 # "Hero Text" displayed on left side of welcome screen.
@@ -266,6 +264,11 @@ fx100-upgrade-thank-you-body = Սա { -brand-short-name }-ի 100-րդ թողար
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Սա մեր 100-րդ թողարկումն է: Շնորհակալություն, որ մեզ հետ եք: Պահեք { -brand-short-name }-ը մոտակայքում՝ հաջորդ 100-ի համար)
 mr2022-onboarding-secondary-skip-button-label = Բաց թողնել այս քայլը
+
+## MR2022 New User Easy Setup screen strings
+
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Կայել { -brand-short-name }-ը որպես սկզբնադիր զննիչ
 
 ## MR2022 New User Pin Firefox screen strings
 
