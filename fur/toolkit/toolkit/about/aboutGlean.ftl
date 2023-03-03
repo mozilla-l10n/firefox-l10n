@@ -60,6 +60,7 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (no inviâ pings)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Jessi sigûr che, tal cjamp che al precêt, e sedi une etichete di debug facile di impensâsi, cussì di podê ricognossi i tiei pings, plui indenant.
+about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Visite la pagjine di { glean-debug-ping-viewer-brand-name } par viodi i pings cu la tô etichete</a>. Nol varès di puartâ vie plui di cualchi secont tra la pression dal boton e la ricezion dai pings, ma in cualchi câs al podarès coventâ cualchi minût.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Par fâ provis plui <i>specifichis</i>,
