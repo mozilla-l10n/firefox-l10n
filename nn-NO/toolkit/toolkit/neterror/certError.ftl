@@ -80,6 +80,8 @@ dnsNotFound-title = Hmm. Vi har problem med å finne nettstaden.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Muleg sikkerheitsrisiko for { $hostname }.
 # Variables:
+dns-not-found-trr-only-title2 = Muleg sikkerheitsrisiko ved å søkje opp dette domenet
+# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Muleg sikkerheitsrisiko for { $hostname }.
 fileNotFound-title = Fann ikkje fila
