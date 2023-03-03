@@ -24,6 +24,7 @@ about-logging-title = Om logging
 about-logging-page-title = Logghandsamar
 about-logging-current-log-file = Gjeldande loggfil
 about-logging-new-log-file = Ny loggfil:
+about-logging-currently-enabled-log-modules = Aktiverte loggmodular for augneblinken:
 about-logging-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Opne mappe
