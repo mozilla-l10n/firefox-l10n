@@ -38,12 +38,18 @@ places-delete-domain-data =
 places-sortby-name =
     .label = ລຽງຕາມຊື່
     .accesskey = r
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = ໂຟເດີຍ່ອຍ
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = ບຸກມາກອື່ນໆ
+places-show-in-folder =
+    .label = ສະແດງໃນ Finder
+    .accesskey = F
 places-library =
     .title = ຄັງ
     .style = width:700px; height:500px;
-places-library2 =
-    .title = ຄັງ
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = ຄັງ
 places-organize-button =
