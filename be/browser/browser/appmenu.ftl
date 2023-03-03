@@ -133,7 +133,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Раскрыць больш звестак
 profiler-popup-description-title =
     .value = Запісвайце, аналізуйце, дзяліцеся
-profiler-popup-description = Супольна працуйце над праблемамі прадукцыйнасці, публікуючы профілі і дзелячыся імі з сваёй камандай.
+profiler-popup-description = Супольна працуйце над праблемамі прадукцыйнасці, публікуючы профілі і дзелячыся імі са сваёй камандай.
 profiler-popup-learn-more-button =
     .label = Падрабязней
 profiler-popup-settings =
@@ -165,6 +165,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Рэкамендаваныя папярэднія налады для адладкі большасці вэб-праграм, з невялікімі выдаткамі.
