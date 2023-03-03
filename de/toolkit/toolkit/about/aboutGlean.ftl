@@ -54,4 +54,33 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Über Testen
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Vollständige Anweisungen sind in der
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name }-Dokumentation zum Testen der Instrumentierung</a>
+    und in der <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }-Dokumentation</a> beschrieben,
+    aber kurz gesagt, um manuell zu testen, ob Ihre Instrumentierung funktioniert, sollten Sie Folgendes tun:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (keinen Ping senden)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Stellen Sie sicher, dass im vorangehenden Feld ein einprägsames Debug-Tag vorhanden ist, damit Sie Ihre Pings später wiedererkennen können.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Wählen Sie aus der vorhergehenden Liste den Ping, in dem sich Ihre Instrumentierung befindet.
+    Wenn sie in einem <a data-l10n-name="custom-ping-link">benutzerdefinierten Ping</a> ist, wählen Sie diesen aus.
+    Ansonsten ist der Standard für <code>event</code>-Metriken
+    der <code>events</code>-Ping,
+    und der Standard für alle anderen Metriken ist
+    der <code>metrics</code>-Ping.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Optional. Aktivieren Sie das vorherige Kästchen, wenn Sie möchten, dass Pings auch protokolliert werden, wenn sie gesendet werden.
+    Sie müssen außerdem <a data-l10n-name="enable-logging-link">Protokollierung aktivieren</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Drücken Sie die vorherige Schaltfläche, um alle { -glean-brand-name }-Pings mit Ihrem Tag zu markieren und den ausgewählten Ping zu senden.
+    (Alle Pings, die von da an bis zum Neustart der Anwendung gesendet werden, werden mit <code>{ $debug-tag }</code> gekennzeichnet.)
 controls-button-label-verbose = Einstellungen übernehmen und Ping senden
