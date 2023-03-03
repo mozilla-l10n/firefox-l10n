@@ -21,4 +21,17 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Ping-viser for { -glean-brand-name }-debugging
 about-glean-page-title2 = Om { -glean-brand-name }
 about-glean-header = Om { -glean-brand-name }
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    er et bibliotek, der anvendes til at indsamle data i { -vendor-short-name }.
+    Denne brugerflade er lavet til at udviklere og testere manuelt kan
+    <a data-l10n-name="fog-link">teste instrumentering</a>.
+about-glean-upload-enabled = Upload af data er aktiveret.
+about-glean-upload-disabled = Upload af data er deaktiveret.
+about-glean-upload-fake-enabled =
+    Upload af data er deaktiveret,
+    men vi lyver og fortæller { glean-sdk-brand-name }, at det er aktiveret.
+    På dén måde optages data stadig lokalt.
+    Bemærk: Hvis du sætter et debug-mærkat, vil pings blive uploaded til
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> uanset indstillingerne.
 controls-button-label-verbose = Anvend indstillinger og send ping
