@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Etsi
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Hanki laajennukset ja teemat osoitteesta <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Hanki sanastot osoitteesta <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Hanki kielipaketit osoitteesta <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Tämäntyyppisiä lisäosia ei ole asennettuna
 list-empty-available-updates =
@@ -141,7 +148,7 @@ addon-category-sitepermission-title =
     .title = Sivuston käyttöoikeudet
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Sivuston { $host } oikeudet
 
 ## These are global warnings
@@ -199,7 +206,7 @@ addon-open-about-debugging = Jäljitä lisäosien virheitä
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Hallitse laajennusten pikanäppäimiä
     .accesskey = t
-shortcuts-no-addons = Yhtäkään lisäosaa ei ole otettu käyttöön.
+shortcuts-no-addons = Yhtäkään laajennusta ei ole otettu käyttöön.
 shortcuts-no-commands = Seuraavilla laajennuksilla ei ole pikanäppäimiä:
 shortcuts-input =
     .placeholder = Kirjoita näppäinyhdistelmä
@@ -221,6 +228,8 @@ shortcuts-duplicate-warning-message = { $shortcut } on käytössä pikanäppäim
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } käyttää tätä jo
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Näytä { $numberToShow } lisää
@@ -295,7 +304,7 @@ theme-colorways-button = Kokeile väriteemoja
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Vaihda väriteemaa
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Vanhenee { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Käytössä
 plugin-disabled-heading = Ei käytössä
@@ -381,6 +390,8 @@ addon-permissions-optional = Valinnaiset käyttöoikeudet lisätoiminnoille:
 addon-permissions-learnmore = Lue lisää käyttöoikeuksista
 recommended-extensions-heading = Suositellut laajennukset
 recommended-themes-heading = Suositellut teemat
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Antaa seuraavat ominaisuudet sivustolle <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -399,7 +410,7 @@ discover-heading = Tee { -brand-short-name }ista mieleisesi
 shortcuts-heading = Laajennusten pikanäppäinten hallinta
 default-heading-search-label = Etsi lisää lisäosia
 addons-heading-search-input =
-    .placeholder = Etsi addons.mozilla.orgista
+    .placeholder = Etsi addons.mozilla.org-sivustolta
 addon-page-options-button =
     .title = Työkaluja kaikille lisäosille
 
@@ -407,8 +418,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Lisäosa { $name } on epäyhteensopiva { -brand-short-name }in version { $version } kanssa.
 details-notification-incompatible-link = Lisätietoja
 details-notification-unsigned-and-disabled = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa ja on otettu pois päältä.
