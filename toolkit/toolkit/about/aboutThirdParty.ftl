@@ -53,6 +53,13 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = For augneblinken blokkert. Klikk her for å oppheve blokkeringa.
     .aria-label = For augneblinken blokkert. Klikk her for å oppheve blokkeringa.
+third-party-button-to-unblock-disabled =
+    .title =
+        For augneblinken merkt som blokkert, sjølv om blokkeringslista er deaktivert for denne køyringa
+        av { -brand-short-name }. Klikk for å oppheve blokkeringa.
+    .aria-label =
+        For augneblinken merkt som blokkert, sjølv om blokkeringslista er deaktivert for denne køyringa
+        av { -brand-short-name }. Klikk for å oppheve blokkeringa.
 third-party-button-expand =
     .title = Vis detaljert informasjon
 third-party-button-collapse =
