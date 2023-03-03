@@ -21,6 +21,10 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Намоишгари пинги ислоҳи нуқсонҳои «{ -glean-brand-name }»
 about-glean-page-title2 = Дар бораи { -glean-brand-name }
 about-glean-header = Дар бораи { -glean-brand-name }
+about-glean-interface-description =
+    «<a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>»
+    китобхонаи ҷамъоварии маълумотест, ки дар лоиҳаҳои «{ -vendor-short-name }» истифода мешавад.
+    Интерфейси мазкур барои таҳиягарон ва озмоишгарон барномарезӣ шудааст, то ки онҳо барои ба таври дастӣ <a data-l10n-name="fog-link">санҷидани абзорҳо</a> аз он истифода баранд.
 about-glean-upload-enabled = Боркунии маълумот фаъол аст.
 about-glean-upload-disabled = Боркунии маълумот ғайрифаъол аст.
 about-glean-upload-enabled-local = Боркунии маълумот танҳо барои интиқол ба сервери маҳаллӣ фаъол аст.
@@ -41,5 +45,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Дар бораи «Санҷиш»
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (ягон пинг фиристода нашавад)
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
 about-glean-about-data-header = Дар бораи «Маълумот»
