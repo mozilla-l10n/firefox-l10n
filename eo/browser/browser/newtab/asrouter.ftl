@@ -269,3 +269,5 @@ cfr-cookiebanner-reject-button-variant-2 = Ne nun
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ni protektas vin
+july-jam-body = Ĉiumonate { -brand-short-name } blokas mezume po 3,000+ spurilojn por ĉiu uzanto, proponante al vi sekuran kaj rapidan aliron al la bona interreto.
+july-jam-set-default-primary = Malfermi miajn ligilojn per { -brand-short-name }

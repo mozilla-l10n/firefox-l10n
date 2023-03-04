@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Okazis eraro dum sendo de raporto. Bonvolu provi denove poste.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Ĉu la retejo nun funkcias? Bonvolu sendi raporton
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Norma
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Pli da informo pri la plibonigita protekto kontraŭ spurado
-
 protections-panel-etp-on-header = La plibonigita protekto kontraŭ spurado estas AKTIVA por tiu ĉi retejo
 protections-panel-etp-off-header = La plibonigita protekto kontraŭ spurado estas MALAKTIVA por tiu ĉi retejo
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Ĉu la retejo ne funkcias?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Ĉu la retejo ne funkcias?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Ĉiuj spuriloj en tiu ĉi r
 ##
 
 protections-panel-no-trackers-found = Neniu spurilo, konata de { -brand-short-name }, estis trovita en tiu ĉi paĝo.
-
 protections-panel-content-blocking-tracking-protection = Spurila enhavo
-
 protections-panel-content-blocking-socialblock = Sociretaj spuriloj
 protections-panel-content-blocking-cryptominers-label = Miniloj de ĉifromono
 protections-panel-content-blocking-fingerprinters-label = Identigiloj de ciferecaj spuroj
@@ -63,7 +57,6 @@ protections-panel-not-found-label = Neniu eltrovita
 ##
 
 protections-panel-settings-label = Agordoj de protekto
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Panelo de protektoj
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -71,14 +64,12 @@ protections-panel-protectionsdashboard-label = Panelo de protektoj
 
 # The header of the list
 protections-panel-site-not-working-view-header = Malŝaltu protektojn se vi havas problemojn kun:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Legitimilaj kampoj
 protections-panel-site-not-working-view-issue-list-forms = Formularoj
 protections-panel-site-not-working-view-issue-list-payments = Pagoj
 protections-panel-site-not-working-view-issue-list-comments = Komentoj
 protections-panel-site-not-working-view-issue-list-videos = Filmetoj
-
 protections-panel-site-not-working-view-send-report = Sendi raporton
 
 ##
@@ -88,16 +79,13 @@ protections-panel-cryptominers = La miniloj de ĉifromono uzas la kalkulpovon de
 protections-panel-fingerprinters = La identigiloj de ciferecaj spuroj kolektas agordojn de via retumilo kaj komputilo por krei profilon de vi. Per tiu cifereca spuro, ili povas sekvi vin tra malsamaj retejoj.
 protections-panel-tracking-content = Retejoj povas ŝargi eksterajn reklamojn, filmetojn kaj aliajn enhavojn, kiuj kunportas spurilojn. Blokado de spurila enhavo povas helpi rapidgi la ŝargadon de retejoj, sed kelkaj butonoj, formularoj kaj legitimilaj kampoj povus ne funkcii.
 protections-panel-social-media-trackers = Socia retoj aldonas spurilojn en aliaj retejoj por sekvi vin kaj scii kion vi vidas kaj faras dum retumo. Tiu permesas al sociretaj entreprenoj havi informon pri vi, kiun vi ne dividas per viaj sociretaj profiloj.
-
 protections-panel-description-shim-allowed = La sube markitaj spuriloj estis parte malblokitaj en tiu ĉi paĝo ĉar vi interagis kun ili.
 protections-panel-description-shim-allowed-learn-more = Pli da informo
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Spurilo parte malblokita
-
 protections-panel-content-blocking-manage-settings =
     .label = Administri agordojn de protekto
     .accesskey = R
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Raporti ne bone funkciantan retejon
 protections-panel-content-blocking-breakage-report-view-description = Blokado de kelkaj spuriloj povas misfunkciigi retejojn. Raportado de tiuj ĉi problemoj helpas plibonigi { -brand-short-name } por ĉiuj. Sendo de tiu ĉi raporto al Mozilla estos akompanata de retadreso kaj informo pri viaj retumilaj agordoj. <label data-l10n-name="learn-more">Pli da informo</label>
@@ -111,3 +99,23 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Nuligi
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Sendi raporton
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Redukto de kuketaj anoncoj
+protections-panel-cookie-banner-handling-enabled = Ŝaltita por tiu ĉi retejo
+protections-panel-cookie-banner-handling-disabled = Malŝaltita por tiu ĉi retejo
+protections-panel-cookie-banner-handling-undetected = Retejo nuntempe ne subtenata
+protections-panel-cookie-banner-view-title =
+    .title = Redukto de kuketaj anoncoj
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Malantaŭen
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Ĉu malŝalti la redukton de kuketaj anoncoj por { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Ĉu ŝalti la redukton de kuketaj anoncoj por tiu ĉi retejo?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } forigos la kuketojn de tiuj ĉi retejo kaj reŝargos la paĝon. Forigo de ĉiuj kuketoj povas fini seancojn aŭ malplenigi aĉetumĉarojn.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } klopodas aŭtomate rifuzi ĉiujn kuketajn petojn en subtenataj retejoj.
+protections-panel-cookie-banner-view-cancel = Nuligi
+protections-panel-cookie-banner-view-turn-off = Malŝalti
+protections-panel-cookie-banner-view-turn-on = Ŝalti

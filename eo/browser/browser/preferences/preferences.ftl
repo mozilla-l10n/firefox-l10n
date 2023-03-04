@@ -73,6 +73,17 @@ restart-later = Restartigi poste
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> regas tiun ĉi agordon.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = p
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Agordoj…
     .accesskey = A
 containers-disable-alert-title = Ĉu fermi ĉiujn ingajn langetojn?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Se vi nun malaktivigas ingajn langetojn, { $tabCount } inga langeto estos fermita. Ĉu vi certe volas malaktivigi ingajn langetojn?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Fermi { $tabCount } ingan langeton
        *[other] Fermi { $tabCount } ingajn langetojn
     }
+
+##
+
 containers-disable-alert-cancel-button = Teni ŝaltita
 containers-remove-alert-title = Ĉu forigi tiun ĉi ingon?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Se vi forigas tiun ĉi ingon nun, { $count } inga langeto estos fermita. Ĉu vi certe volas forigi tiun ĉi ingon?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Pligrandigilo
 preferences-default-zoom = Norma pligrandigo
     .accesskey = N
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Ĉiam demandi
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Uzi { $plugin-name } (en { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Pli da informo
 update-application-title = Ĝisdatigoj de { -brand-short-name }
 update-application-description = Tenu { -brand-short-name } ĝisdatigita por havi la plej bonan efikecon, stabilecon kaj sekurecon.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Kio estas nova</a>
 update-history =
     .label = Montri historion de ĝisdatigoj…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = m
 update-setting-write-failure-title2 = Eraro dum konservo de ĝistadigaj agordoj
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Maksimuma nombro de enhavaj taskoj
 performance-limit-content-process-enabled-desc = Pli da enhavaj taskoj povas plibonigi efikecon dum uzo de pluraj langetoj, sed ili ankaŭ uzos pli da memoro.
 performance-limit-content-process-blocked-desc = Nur eblas modifi la nombron de enhavaj taskoj en plurproceza { -brand-short-name }. <a data-l10n-name="learn-more">Pli da informo, pri kiel eltrovi ĉu plurprocezo estas aktiva</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (norma)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Rekomendita de { $provider }
 home-prefs-recommended-by-description-new = Eksterordinara  enhavo reviziita de { $provider }, parto de la familio { -brand-product-name }
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Elekto de ĵusaj retejoj kaj enhavoj
 home-prefs-snippets-header =
     .label = Fragmentoj
 home-prefs-snippets-description-new = Konsiletoj kaj novaĵoj de { -vendor-short-name } kaj { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Serĉi pli da serĉiloj
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duobligita kategoria vorto
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Vi elektis kategorian vorton kiu estas nuntempe uzata de "{ $name }". Bonvolu elekti alian.
 search-keyword-warning-bookmark = Vi elektis kategorian vorton kiu estas nuntempe uzata de legosigno. Bonvolu elekti alian.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = F
 sync-manage-account = Administri konton
     .accesskey = A
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ne estas konfirmita.
 sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
+
+##
+
 sync-resend-verification =
     .label = Resendi kontrolon
     .accesskey = k
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Kuketoj kaj retejaj datumoj
 sitedata-total-size-calculating = Kalkulo de datuma kaj stapla grando de retejo…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Viaj konservitaj kuketoj, retejaj datumoj kaj staplo uzas nuntempe { $value } { $unit } da diska spaco.
 sitedata-learn-more = Pli da informo
 sitedata-delete-on-close =
@@ -918,6 +953,8 @@ sitedata-option-block-unvisited =
     .label = Kuketoj el nevizititaj retejoj
 sitedata-option-block-all-third-party =
     .label = Ĉiuj nerektaj kuketoj (tio povus misfunkciigi retejojn)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Ĉiuj interretejaj kuketoj (tio povas misfunkciigi kelkajn retejojn)
 sitedata-option-block-all =
     .label = Ĉiuj kuketoj (tio misfunkciigos retejojn)
 sitedata-clear =
@@ -997,6 +1034,7 @@ content-blocking-all-cookies = Ĉiuj kuketoj
 content-blocking-unvisited-cookies = Kuketoj el ne vizititaj retejoj
 content-blocking-all-windows-tracking-content = Spurila enhavo en ĉiuj fenestroj
 content-blocking-all-third-party-cookies = Ĉiuj nerektaj kuketoj
+content-blocking-all-cross-site-cookies = Ĉiuj interretejaj kuketoj
 content-blocking-cryptominers = Miniloj de ĉifromono
 content-blocking-fingerprinters = Identigiloj de ciferecaj spuroj
 # "Test pilot" is used as a verb. Possible alternatives:
