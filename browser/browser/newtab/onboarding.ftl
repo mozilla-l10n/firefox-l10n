@@ -329,6 +329,7 @@ mr2022-onboarding-get-started-primary-button-label = Configura-la en un tres i n
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Configuració ultraràpida
+mr2022-onboarding-import-subtitle = Configureu el { -brand-short-name } com més us agradi. Afegiu-hi les adreces d'interès, contrasenyes i molt més del vostre navegador antic.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importa del navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
@@ -337,11 +338,13 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importa del naveg
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Trieu el color que us inspiri
+mr2022-onboarding-colorway-subtitle = Les veus independents poden canviar la cultura.
 mr2022-onboarding-colorway-primary-button-label-continue = Defineix i continua
 mr2022-onboarding-existing-colorway-checkbox-label = Convertiu l'{ -firefox-home-brand-name } en la vostra pàgina d'inici més acolorida
 mr2022-onboarding-colorway-label-default = Per defecte
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Colors actuals del { -brand-short-name }
+mr2022-onboarding-colorway-description-default = <b>Utilitza els meus colors actuals del { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Migcampista
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Migcampista (vermell)
@@ -369,6 +372,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Sou una persona innovadora
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Salteu del portàtil al telèfon, i viceversa
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
