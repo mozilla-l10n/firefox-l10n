@@ -64,15 +64,6 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (indsend ikke pings)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Sørg for, at det foregående felt indeholder et debug-mærkat, du kan huske - så du kan genkende dine pings senere.
-# An in-line drop down list precedes this string.
-# Do not translate strings between <code> </code> tags.
-about-glean-label-for-ping-names =
-    Vælg det ping, der indeholder din instrumentering, fra den foregående liste.
-    Hvis det er et <a data-l10n-name="custom-ping-link">tilpasset ping</a>, så vælg dét.
-    Ellers er standard for <code>event</code>-måling 
-    <code>events</code>ping'et
-    og standard for alle andre målinger er
-    <code>metrics</code>-ping'et.
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
