@@ -52,8 +52,15 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Дар бораи «Санҷиш»
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Дастурҳои пурра дар ҳуҷҷатҳои
+    <a data-l10n-name="fog-instrumentation-test-doc-link">оид ба санҷиши абзорҳои «{ -fog-brand-name }»</a>
+    ва дар ҳуҷҷатҳои <a data-l10n-name="glean-sdk-doc-link">оид ба «{ glean-sdk-brand-name }»</a> таҳия карда шудаанд, аммо дар шакли мухтасар, агар шумо хоҳед, ки кори абзорҳоро ба таври дастӣ санҷед, шумо бояд:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ягон пинг фиристода нашавад)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Мутмаин шавед, ки дар майдони қаблӣ барчаспи хотиравии ислоҳи хатоҳо танзим шудааст, то шумо тавонед дар оянда пингҳои худро муайян кунед.
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
 about-glean-about-data-header = Дар бораи «Маълумот»
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
