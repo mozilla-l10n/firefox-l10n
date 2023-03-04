@@ -67,6 +67,16 @@ about-glean-label-for-ping-names =
     Аз рӯйхати қаблӣ пингеро интихоб намоед, ки дар он абзорҳои шумо қарор доранд.
     Агар он дар <a data-l10n-name="custom-ping-link">пинги фармоишӣ</a> бошад, он пингро интихоб кунед.
     Дар акси ҳол, қимати пешфарз барои маълумоти пинги <code>event</code> пинги <code>events</code> мебошад ва қимати пешфарз барои ҳамаи маълумоти дигар пинги <code>metrics</code> мебошад.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Ҳатмӣ намебошад. Қуттии қаблиро интихоб намоед, агар хоҳед, ки пингҳо, инчунин, ҳангоми ирсол ба файли рӯйдодҳо сабт карда шаванд.
+    Илова бар ин, шумо бояд <a data-l10n-name="enable-logging-link">сабти рӯйдодҳоро фаъол созед</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Барои гузоштани барчаспи худ ба ҳамаи пингҳои «{ -glean-brand-name }» ва фиристодани пинги интихобшуда, тугмаи қаблиро пахш кунед.
+    (Ҳамаи пингҳое, ки аз он лазҳа то лаҳзаи аз нав оғоз кардани барнома фиристода мешаванд, бо барчаспи <code>{ $debug-tag }</code> сабт карда мешаванд.)
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
 about-glean-about-data-header = Дар бораи «Маълумот»
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
