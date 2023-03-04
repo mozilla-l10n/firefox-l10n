@@ -257,7 +257,7 @@ colorways-cfr-header-today = Kolorystyki „Niezależne głosy” wygasają dzis
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Koniec z komunikatami o ciasteczkach!
 cfr-cookiebanner-body = Pozwól { -brand-short-name(case: "dat") } automatycznie odrzucać wszystkie prośby o akceptację ciasteczek, kiedy to możliwe.
-cfr-cookiebanner-accept-button = Odrzucaj prośby o akceptację ciasteczek
+cfr-cookiebanner-accept-button-v2 = Odrzucaj prośby
     .accesskey = O
 cfr-cookiebanner-reject-button = Nie teraz
     .accesskey = N
