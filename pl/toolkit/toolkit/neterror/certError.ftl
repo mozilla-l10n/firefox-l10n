@@ -80,6 +80,8 @@ dnsNotFound-title = Niestety, nie udało się odnaleźć tej strony
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Możliwe zagrożenie bezpieczeństwa na witrynie „{ $hostname }”.
 # Variables:
+dns-not-found-trr-only-title2 = Możliwe zagrożenie bezpieczeństwa podczas wyszukiwania tej domeny
+# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Możliwe zagrożenie bezpieczeństwa na witrynie „{ $hostname }”.
 fileNotFound-title = Nie odnaleziono pliku
