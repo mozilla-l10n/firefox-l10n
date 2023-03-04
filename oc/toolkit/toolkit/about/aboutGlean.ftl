@@ -35,6 +35,8 @@ about-glean-upload-fake-enabled =
     per que las donadas sián enregistradas localament.
     Nòta : se definissètz una balisa de desbugatge, los pings seràn enviats sus lo
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> quin paramètre causit que siá.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Las <a data-l10n-name="fog-prefs-and-defines-doc-link">preferéncias e definicions pertinentas</a> incluson :
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
@@ -52,6 +54,8 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code> : { $glean-android-
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-define-value }
 about-glean-about-testing-header = A prepaus des ensages
+# This message is followed by a numbered list.
+about-glean-manual-testing = Las instruccions complètas son detalhadas dins la <a data-l10n-name="fog-instrumentation-test-doc-link">documentacion dels tests d’instrumentacion de { -fog-brand-name }</a> e dins la <a data-l10n-name="glean-sdk-doc-link">documentacion de { glean-sdk-brand-name }</a> mas, en resumit, per provar manualament que vòstra instrumentacion fonciona, vaquí çò que deuriatz far :
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (enviar pas cap de ping)
 # An in-line text input field precedes this string.
