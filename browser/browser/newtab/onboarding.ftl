@@ -313,11 +313,17 @@ mr2022-onboarding-existing-pin-checkbox-label = Afegeix també la navegació pri
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Feu que el { -brand-short-name } sigui el vostre navegador de referència
 mr2022-onboarding-set-default-primary-button-label = Defineix el { -brand-short-name } com a navegador per defecte
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Utilitzeu un navegador creat per una organització sense ànim de lucre. Defensem la vostra privadesa mentre passegeu pel web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Hem creat l'última versió tenint en compte el vostre punt de vista i això fa que sigui més fàcil que mai navegar pel web. Ve farcida de funcions que us fascinaran.
 
 ## MR2022 Import Settings screen strings
 
