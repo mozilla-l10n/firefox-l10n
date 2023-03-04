@@ -9,13 +9,15 @@ more-from-moz-title = Més de { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Més de { -vendor-short-name }
 more-from-moz-subtitle = Descobriu altres productes de { -vendor-short-name } que contribueixen a fer Internet més saludable.
-more-from-moz-firefox-mobile-title = { -brand-product-name } per al mòvil
+more-from-moz-firefox-mobile-title = { -brand-product-name } per al mòbil
 more-from-moz-firefox-mobile-description = El navegador mòbil que posa la vostra privadesa per sobre de tot.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descobriu una capa addicional de protecció i navegació anònima.
 more-from-moz-mozilla-vpn-description-advanced = El { -mozilla-vpn-brand-name } afegeix una altra capa de protecció i navegació anònima. I, a diferència d'altres VPN, és segura i no fa el seguiment de la vostra activitat.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Codi QR per baixar el { -brand-product-name } per al mòbil
 more-from-moz-learn-more-link = Més informació
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
