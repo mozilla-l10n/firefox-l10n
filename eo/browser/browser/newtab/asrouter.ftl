@@ -57,6 +57,24 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } uzantoj
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Kuketaj anoncoj, for!
+cfr-cookie-banner-handling-body = Permesi al { -brand-short-name } aŭtomate rifuzi ĉiujn kukektajn anoncajn petojn, se tio eblas. Se ne, ĉiuj kuketoj estos akceptitaj por ignori eĉ pli da anoncoj.
+cfr-cookie-banner-accept-button = Ignori petojn
+    .accesskey = I
+cfr-cookie-banner-reject-button = Ne nun
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Vidi malpli da kuketaj ŝprucaĵoj
+cfr-cookie-banner-handling-body-variant-1 = Permesi al { -brand-short-name } aŭtomate respondi por vi kuketajn ŝprucaĵojn, tiel ke vi povas sendistre plu retumi. { -brand-short-name } rifuzos ĉiujn petojn, se tio eblas, se ne ĝi akceptos ĉiujn.
+cfr-cookie-banner-accept-button-variant-1 = Ignori ŝprucaĵojn
+    .accesskey = I
+cfr-cookie-banner-reject-button-variant-1 = Ne, dankon
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Redukto de kuketaj anoncoj
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Spegulu viajn legosignojn ĉie.
@@ -153,10 +171,6 @@ spotlight-total-cookie-protection-body = La totala protekto kontraŭ kuketoj evi
 spotlight-total-cookie-protection-expanded = { -brand-short-name } konstruas barilon ĉirkaŭ kuketojn, limigante ilin al la retejo kie ili estas tiel ke spuriloj ne povas uzi ilin por sekvi vin. Per frua aliro al tiu funkcio, vi helpos nin plibonigi ĝin kaj plu konstrui pli bonan teksaĵon por ĉiuj.
 spotlight-total-cookie-protection-primary-button = Ŝalti totalan protekton kontraŭ kuketoj
 spotlight-total-cookie-protection-secondary-button = Nun ne
-cfr-total-cookie-protection-header = Danke al vi, { -brand-short-name } estas nun pli privata kaj sekura ol iam ajn antaŭe
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = La plena protekto kontraŭ kuketoj estas nia ĝisnune plej forta privateca proteko – kaj ĝi estas norma agordo por uzantoj de { -brand-short-name }, ĉie. Ni ne estus povintaj fari tion sen fruaj partoprenantoj kiel vi. Do, dankon pro via helpo krei pli bonan, pli privatan interreton.
 
 ## Emotive Continuous Onboarding
 
@@ -203,8 +217,6 @@ firefoxview-cfr-primarybutton = Provi
     .accesskey = P
 firefoxview-cfr-secondarybutton = Ne nun
     .accesskey = N
-firefoxview-cfr-header = Rehavu ĵuse fermitajn langetojn per { -firefoxview-brand-name }
-firefoxview-cfr-body = Cetere, facile iru tien kaj reen inter aparatoj kaj aldoni koloran tuŝeton al via retumilo.
 firefoxview-cfr-header-v2 = Rapide rekomencu kie vi haltis
 firefoxview-cfr-body-v2 = Per { -firefoxview-brand-name } reprenu ĵuse fermitajn langetojn kaj senĝene iru tien kaj reen inter aparatoj.
 
@@ -226,3 +238,9 @@ colorways-cfr-header-28days = La koloraroj de sendependaj voĉoj senvalidiĝos l
 colorways-cfr-header-14days = La koloraroj de sendependaj voĉoj senvalidiĝos post du semajnoj
 colorways-cfr-header-7days = La koloraroj de sendependaj voĉoj senvalidiĝos ĉi semajne
 colorways-cfr-header-today = La koloraroj de sendependaj voĉoj senvalidiĝos hodiaŭ
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+

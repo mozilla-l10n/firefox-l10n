@@ -144,9 +144,15 @@ urlbar-tip-icon-description =
     .alt = Konsileto:
 urlbar-result-menu-button =
     .title = Malfermi menuon
+urlbar-result-menu-learn-more =
+    .label = Pli da informo
+    .accesskey = i
 urlbar-result-menu-remove-from-history =
     .label = Forigi el historio
     .accesskey = F
+urlbar-result-menu-tip-get-help =
+    .label = Helpo
+    .accesskey = H
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +290,11 @@ search-one-offs-actions =
 quickactions-addons = Vidi aldonaĵojn
 quickactions-cmd-addons2 = aldonaĵoj
 # Opens the bookmarks library window
-quickactions-bookmarks = Vidi legosignojn
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Administri legosignojn
 quickactions-cmd-bookmarks = legosignojn
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Viŝi historion
 quickactions-cmd-clearhistory = viŝi historion
-# Opens about:downloads page
-quickactions-downloads = Malfermi elŝutojn
 # Opens about:downloads page
 quickactions-downloads2 = Montri elŝutojn
 quickactions-cmd-downloads = elŝutojn
@@ -300,12 +302,8 @@ quickactions-cmd-downloads = elŝutojn
 quickactions-extensions = Administri etendaĵojn
 quickactions-cmd-extensions = etendaĵoj
 # Opens the devtools web inspector
-quickactions-inspector = Malfermi la inspektilon
-# Opens the devtools web inspector
 quickactions-inspector2 = Malfermi la ilojn por programistoj
 quickactions-cmd-inspector = inspektilo, iloj por programistoj
-# Opens about:logins
-quickactions-logins = Vidi legitimilojn
 # Opens about:logins
 quickactions-logins2 = Administri pasvortojn
 quickactions-cmd-logins = legitimiloj, pasvortoj
@@ -313,12 +311,8 @@ quickactions-cmd-logins = legitimiloj, pasvortoj
 quickactions-plugins = Administri kromprogramojn
 quickactions-cmd-plugins = kromprogramoj
 # Opens the print dialog
-quickactions-print = Presi
-# Opens the print dialog
 quickactions-print2 = Presi paĝon
 quickactions-cmd-print = presi
-# Opens a new private browsing window
-quickactions-private = Malfermi fenestron de privata retumo
 # Opens a new private browsing window
 quickactions-private2 = Malfermi privatan fenestron
 quickactions-cmd-private = privata retumo
@@ -329,12 +323,8 @@ quickactions-cmd-refresh = aktualigi
 quickactions-restart = Restartigi { -brand-short-name }
 quickactions-cmd-restart = restartigi
 # Opens the screenshot tool
-quickactions-screenshot2 = Fari ekrankopion
-# Opens the screenshot tool
 quickactions-screenshot3 = Fari ekrankopion
 quickactions-cmd-screenshot = ekrankopio
-# Opens about:preferences
-quickactions-settings = Malfermi agordojn
 # Opens about:preferences
 quickactions-settings2 = Administri agordojn
 quickactions-cmd-settings = agordoj, preferoj, elektebloj
@@ -344,8 +334,6 @@ quickactions-cmd-themes = etosojn
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ĝisdatigi { -brand-short-name }
 quickactions-cmd-update = ĝisdatigi
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Montri fonton
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vidi fonton de paĝo
 quickactions-cmd-viewsource = vidi fonton, fonton
@@ -719,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = Aliaj legosignoj
 bookmarks-mobile-bookmarks-menu =
     .label = Poŝaparataj legosignoj
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -743,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Forigi la menuon de legosignojn el la ilaro
            *[other] Aldoni la menuon de legosignoj al la ilaro
         }
+
+##
+
 bookmarks-search =
     .label = Serĉi legosignojn
 bookmarks-tools =
