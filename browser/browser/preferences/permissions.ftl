@@ -83,6 +83,7 @@ permissions-exceptions-etp-desc = Pro tyto servery jste ochranu proti sledován�
 permissions-exceptions-etp-window2 =
     .title = Výjimky pro používání rozšířené ochrany proti sledování
     .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = Zde můžete určit, které servery mají vypnutu rozšířenou ochranu proti sledování. Vložte přesnou adresu serveru, který chcete spravovat, a poté klepněte na tlačítko Přidat výjimku.
 
 ## Exceptions - Cookies
 

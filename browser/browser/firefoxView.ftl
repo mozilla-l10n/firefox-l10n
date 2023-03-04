@@ -57,6 +57,7 @@ firefoxview-tabpickup-password-locked-link = Zjistit více
 firefoxview-tabpickup-password-locked-primarybutton = Zadat hlavní heslo
 firefoxview-tabpickup-signed-out-header = Pro opětovné připojení se přihlaste
 firefoxview-tabpickup-signed-out-primarybutton = Přihlásit se
+firefoxview-tabpickup-syncing = Posaďte se, zatímco se vaše panely synchronizují. Bude to jen chvilka.
 firefoxview-mobile-promo-header = Vezměte si sem panely z telefonu nebo tabletu
 firefoxview-mobile-promo-description =
     { -brand-product-name.case-status ->
