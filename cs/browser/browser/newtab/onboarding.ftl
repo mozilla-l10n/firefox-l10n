@@ -55,8 +55,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Postup: krok { $current } z { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Postup: krok { $current } z { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -354,6 +352,13 @@ fx100-upgrade-thanks-keep-body =
     }
 mr2022-onboarding-secondary-skip-button-label = Přeskočit tento krok
 
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Uložit a pokračovat
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importovat z dříve používaného prohlížeče
+
 ## MR2022 New User Pin Firefox screen strings
 
 # Title used on about:welcome for new users when Firefox is not pinned.
@@ -361,6 +366,11 @@ mr2022-onboarding-secondary-skip-button-label = Přeskočit tento krok
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Objevte úžasný internet
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Začněte s prohlížečem podporovaným neziskovou organizací. Chráníme vaše soukromí, když se pohybujete po webu.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
