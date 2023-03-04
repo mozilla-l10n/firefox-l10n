@@ -282,7 +282,7 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importa del navegador anter
 # In this context, open up is synonymous with "Discover".
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
-mr2022-onboarding-welcome-pin-header = Obriu una Internet espectacular
+mr2022-onboarding-welcome-pin-header = Obriu una Internet fascinant
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Inicieu el { -brand-short-name } en qualsevol lloc amb un sol clic. Cada vegada que ho feu, escolliu una web més oberta i independent.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -324,6 +324,7 @@ mr2022-onboarding-set-default-subtitle = Utilitzeu un navegador creat per una or
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Hem creat l'última versió tenint en compte el vostre punt de vista i això fa que sigui més fàcil que mai navegar pel web. Ve farcida de funcions que us fascinaran.
+mr2022-onboarding-get-started-primary-button-label = Configura-la en un tres i no res
 
 ## MR2022 Import Settings screen strings
 
