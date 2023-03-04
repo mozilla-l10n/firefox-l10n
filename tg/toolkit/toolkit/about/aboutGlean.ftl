@@ -77,6 +77,10 @@ about-glean-label-for-log-pings =
 about-glean-label-for-controls-submit =
     Барои гузоштани барчаспи худ ба ҳамаи пингҳои «{ -glean-brand-name }» ва фиристодани пинги интихобшуда, тугмаи қаблиро пахш кунед.
     (Ҳамаи пингҳое, ки аз он лазҳа то лаҳзаи аз нав оғоз кардани барнома фиристода мешаванд, бо барчаспи <code>{ $debug-tag }</code> сабт карда мешаванд.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Барои дидани пингҳо бо барчаспи худ, ба саҳифаи «{ glean-debug-ping-viewer-brand-name }» гузаред</a>.
+    Ин амал аз лаҳзаи пахши тугма то лаҳзаи қабули пинги шумо бояд на зиёда аз якчанд сония вақт гирад.
+    Дар баъзе мавридҳо, ин амал метавонад якчанд дақиқа вақт гирад.
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
 about-glean-about-data-header = Дар бораи «Маълумот»
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
