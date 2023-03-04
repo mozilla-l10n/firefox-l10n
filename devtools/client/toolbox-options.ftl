@@ -20,7 +20,7 @@ options-select-additional-tools-label = เครื่องมือนัก�
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = ปุ่มกล่องเครื่องมือที่มี
 # The label for the heading of the radiobox corresponding to the theme
-options-select-dev-tools-theme-label = ธีม
+options-select-dev-tools-theme-label = ชุดรูปแบบ
 
 ## Inspector section
 
