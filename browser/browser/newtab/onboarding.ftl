@@ -299,6 +299,13 @@ mr2022-onboarding-set-default-only-subtitle = Inicieu amb un navegador creat per
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Gràcies per apreciar el { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Navegueu per una Internet més saludable des de qualsevol lloc amb un sol clic. L'última actualització ve farcida de funcions noves que us fascinaran.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Utilitzeu un navegador que defensi la vostra privadesa mentre navegueu per Internet. L'última actualització ve farcida de funcions que us fascinaran.
 mr2022-onboarding-existing-pin-checkbox-label = Afegeix també la navegació privada del { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
