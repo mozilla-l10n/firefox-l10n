@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = ค้นหา
 search-header-shortcut =
     .key = f
-list-empty-get-extensions-message = รับส่วนขยายและธีมบน <a data-l10n-name="get-extensions">{ $domain }</a>
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+list-empty-get-extensions-message = รับส่วนขยายและชุดรูปแบบใน <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = รับพจนานุกรมบน <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = รับชุดภาษาบน <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = คุณไม่ได้ติดตั้งส่วนเสริมประเภทนี้ไว้
 list-empty-available-updates =
@@ -121,9 +128,9 @@ addon-category-discover-title =
 addon-category-extension = ส่วนขยาย
 addon-category-extension-title =
     .title = ส่วนขยาย
-addon-category-theme = ธีม
+addon-category-theme = ชุดรูปแบบ
 addon-category-theme-title =
-    .title = ธีม
+    .title = ชุดรูปแบบ
 addon-category-plugin = ปลั๊กอิน
 addon-category-plugin-title =
     .title = ปลั๊กอิน
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = สิทธิอนุญาตไซต์
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = สิทธิอนุญาตไซต์สำหรับ { $host }
 
 ## These are global warnings
@@ -224,6 +231,8 @@ shortcuts-duplicate-warning-message = { $shortcut } กำลังถูกใ�
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = มีการใช้งานอยู่แล้วโดย { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] แสดงเพิ่มเติมอีก { $numberToShow }
@@ -262,7 +271,7 @@ install-theme-button = ติดตั้งชุดรูปแบบ
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = จัดการ
 find-more-addons = ค้นหาส่วนเสริมเพิ่มเติม
-find-more-themes = ค้นหาธีมเพิ่มเติม
+find-more-themes = ค้นหาชุดรูปแบบเพิ่มเติม
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -292,7 +301,7 @@ extension-enabled-heading = ถูกเปิดใช้งาน
 extension-disabled-heading = ถูกปิดใช้งาน
 theme-enabled-heading = เปิดใช้งาน
 theme-disabled-heading = ปิดใช้งาน
-theme-disabled-heading2 = ธีมที่บันทึกไว้
+theme-disabled-heading2 = ชุดรูปแบบที่บันทึกไว้
 theme-monochromatic-heading = ชุดรูปแบบสี
 theme-monochromatic-subheading = ชุดรูปแบบใหม่ที่สดใสจาก { -brand-product-name } มีให้ใช้ในช่วงเวลาจำกัด
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
@@ -300,7 +309,7 @@ theme-colorways-button = ลอง Colorways
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = เปลี่ยนชุดรูปแบบสี
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = หมดอายุ { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = ถูกเปิดใช้งาน
 plugin-disabled-heading = ถูกปิดใช้งาน
@@ -384,7 +393,9 @@ addon-permissions-required = สิทธิอนุญาตที่ต้อ
 addon-permissions-optional = สิทธิอนุญาตที่เลือกได้สำหรับฟังก์ชันการทำงานที่เพิ่ม:
 addon-permissions-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับสิทธิอนุญาต
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
-recommended-themes-heading = ธีมที่แนะนำ
+recommended-themes-heading = ชุดรูปแบบที่แนะนำ
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = มอบความสามารถต่อไปนี้ให้ <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -393,7 +404,7 @@ recommended-theme-1 = รู้สึกสร้างสรรค์ใช่�
 ## Page headings
 
 extension-heading = จัดการส่วนขยายของคุณ
-theme-heading = จัดการธีมของคุณ
+theme-heading = จัดการชุดรูปแบบของคุณ
 plugin-heading = จัดการปลั๊กอินของคุณ
 dictionary-heading = จัดการพจนานุกรมของคุณ
 locale-heading = จัดการภาษาของคุณ
@@ -411,8 +422,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } เข้ากันไม่ได้กับ { -brand-short-name } { $version }
 details-notification-incompatible-link = ข้อมูลเพิ่มเติม
 details-notification-unsigned-and-disabled = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } และถูกปิดใช้งาน

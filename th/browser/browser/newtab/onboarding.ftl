@@ -203,9 +203,9 @@ mr2-onboarding-colorway-tooltip =
 mr2-onboarding-colorway-label = สำรวจชุดรูปแบบสี { $colorwayName }
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
-    .title = สำรวจธีมเริ่มต้น
+    .title = สำรวจชุดรูปแบบเริ่มต้น
 # Selector description for default themes
-mr2-onboarding-default-theme-label = สำรวจธีมเริ่มต้น
+mr2-onboarding-default-theme-label = สำรวจชุดรูปแบบเริ่มต้น
 
 ## Strings for Thank You page
 
