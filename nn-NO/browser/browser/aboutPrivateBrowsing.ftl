@@ -66,3 +66,5 @@ about-private-browsing-pin-promo-title = Ingen lagra infokapslar eller historikk
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Fjern infoskapselbanner!
+about-private-browsing-cookie-banners-promo-button = Færre infoskapselbanner
+about-private-browsing-cookie-banners-promo-message = La { -brand-short-name } automatisk svare på sprettoppvindauge om infokapslar for deg slik at du kan gå tilbake til distraksjonsfri surfing. { -brand-short-name } vil avvise alle førespurnadar dersom muleg.
