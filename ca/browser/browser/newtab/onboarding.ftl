@@ -291,6 +291,11 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Fixa el { -brand-short-name } al Dock
        *[other] Fixa el { -brand-short-name } a la barra de tasques
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Inicieu amb un navegador creat per una organització sense ànim de lucre. Defensem la vostra privadesa mentre passegeu pel web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
