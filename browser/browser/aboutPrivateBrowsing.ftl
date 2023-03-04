@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = Sen konservitaj kuketoj aŭ historio, r
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Kuketaj anoncoj, for!
 about-private-browsing-cookie-banners-promo-button = Redukti kuketajn anoncojn
+about-private-browsing-cookie-banners-promo-message = Permesi al { -brand-short-name } aŭtomate respondi por vi kuketajn ŝprucaĵojn, tiel ke vi povas sendistre plu retumi. { -brand-short-name } rifuzos ĉiujn petojn, se tio eblas.
