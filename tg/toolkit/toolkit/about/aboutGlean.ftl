@@ -61,6 +61,12 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (ягон пинг фиристода нашавад)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Мутмаин шавед, ки дар майдони қаблӣ барчаспи хотиравии ислоҳи хатоҳо танзим шудааст, то шумо тавонед дар оянда пингҳои худро муайян кунед.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Аз рӯйхати қаблӣ пингеро интихоб намоед, ки дар он абзорҳои шумо қарор доранд.
+    Агар он дар <a data-l10n-name="custom-ping-link">пинги фармоишӣ</a> бошад, он пингро интихоб кунед.
+    Дар акси ҳол, қимати пешфарз барои маълумоти пинги <code>event</code> пинги <code>events</code> мебошад ва қимати пешфарз барои ҳамаи маълумоти дигар пинги <code>metrics</code> мебошад.
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
 about-glean-about-data-header = Дар бораи «Маълумот»
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
