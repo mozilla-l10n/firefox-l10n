@@ -406,7 +406,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Comença a navegar
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Sentiu-vos com a casa
-onboarding-infrequent-import-subtitle = Tant si heu vingut per quedar-vos com si esteu de passada, recordeu que podeu importar les vostres adreces d'interès, contrasenyes i molt més.
+onboarding-infrequent-import-subtitle = Tant si sou aquí per quedar-vos com si hi sou de passada, recordeu que podeu importar les vostres adreces d'interès, contrasenyes i molt més.
 onboarding-infrequent-import-primary-button = Importa al { -brand-short-name }
 
 ## MR2022 Illustration alt tags
