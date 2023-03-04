@@ -373,15 +373,24 @@ mr2022-onboarding-colorway-description-innovator = <b>Sou una persona innovadora
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Salteu del portàtil al telèfon, i viceversa
+mr2022-onboarding-mobile-download-subtitle = Recupereu les pestanyes d'un dispositiu i continueu des d'on ho havíeu deixat en un altre. A més, sincronitzeu les adreces d'interès i les contrasenyes arreu on utilitzeu el { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Escanegeu el codi QR per instal·lar el { -brand-product-name } per al mòbil o <a data-l10n-name="download-label">envieu-vos un enllaç per baixar-lo.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Escanegeu el codi QR per instal·lar el { -brand-product-name } per al mòbil.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = La llibertat de la navegació privada en un clic
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Ni galetes, ni historial, directament des del vostre escriptori. Navegueu sense sentir-vos observat.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Fixa la navegació privada del { -brand-short-name } al Dock
+       *[other] Fixa la navegació privada del { -brand-short-name } a la barra de tasques
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Sempre respectem la vostra privadesa
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostra informació detallada
 
 ## MR2022 Multistage Gratitude screen strings
