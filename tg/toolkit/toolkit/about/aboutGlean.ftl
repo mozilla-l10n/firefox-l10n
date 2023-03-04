@@ -81,6 +81,8 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Барои дидани пингҳо бо барчаспи худ, ба саҳифаи «{ glean-debug-ping-viewer-brand-name }» гузаред</a>.
     Ин амал аз лаҳзаи пахши тугма то лаҳзаи қабули пинги шумо бояд на зиёда аз якчанд сония вақт гирад.
     Дар баъзе мавридҳо, ин амал метавонад якчанд дақиқа вақт гирад.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation = Барои гузаронидани санҷишҳои иловагии <i>ad hoc</i>, шумо, инчунин, метавонед ба воситаи кушоиши консоли «devtools» дар саҳифаи <code>about:glean</code> ва истифодаи рамзи <code>testGetValue()</code> API монанди <code>Glean.metricCategory.metricName.testGetValue()</code>, қимати ҷории қисми махсуси абзорҳоро муайян кунед.
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
 about-glean-about-data-header = Дар бораи «Маълумот»
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
