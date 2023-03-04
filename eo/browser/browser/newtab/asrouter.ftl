@@ -74,6 +74,11 @@ cfr-cookie-banner-accept-button-variant-1 = Ignori ŝprucaĵojn
 cfr-cookie-banner-reject-button-variant-1 = Ne, dankon
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Redukto de kuketaj anoncoj
+cfr-cookie-banner-handling-body-variant-2 = Ĉu permesi al { -brand-short-name } rifuzi la kuketan konsenton de retejo, se tio eblas, aŭ akcepti kuketojn se tio ne eblas?
+cfr-cookie-banner-accept-button-variant-2 = Permesi
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Ne nun
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -241,6 +246,26 @@ colorways-cfr-header-today = La koloraroj de sendependaj voĉoj senvalidiĝos ho
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Kuketaj anoncoj, for!
+cfr-cookiebanner-body = Permesi al { -brand-short-name } aŭtomate rifuzi ĉiujn petojn de kuketaj anoncoj, se tio eblas.
+cfr-cookiebanner-accept-button-v2 = Rifuzi petojn
+    .accesskey = R
+cfr-cookiebanner-reject-button = Ne nun
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Vidi malpli da kuketaj ŝprucaĵoj
+cfr-cookiebanner-body-variant-1 = Permesi al { -brand-short-name } aŭtomate respondi por vi kuketajn ŝprucaĵojn, tiel ke vi povas sendistre plu retumi. { -brand-short-name } rifuzos ĉiujn petojn, se tio eblas.
+cfr-cookiebanner-accept-button-variant-1 = Ignori ŝprucaĵojn
+    .accesskey = I
+cfr-cookiebanner-reject-button-variant-1 = Ne, dankon
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Redukto de kuketaj anoncoj
+cfr-cookiebanner-body-variant-2 = Redukti la kvanton de kuketaj anoncoj per permeso al { -brand-short-name } rifuzi la konsentan peton pri retejaj kuketoj, se tio eblas.
+cfr-cookiebanner-accept-button-variant-2 = Permesi
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Ne nun
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Ni protektas vin
