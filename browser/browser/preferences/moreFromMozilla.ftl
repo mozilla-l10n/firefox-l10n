@@ -16,6 +16,8 @@ more-from-moz-mozilla-vpn-description = Descobriu una capa addicional de protecc
 more-from-moz-mozilla-vpn-description-advanced = El { -mozilla-vpn-brand-name } afegeix una altra capa de protecció i navegació anònima. I, a diferència d'altres VPN, és segura i no fa el seguiment de la vostra activitat.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Poseu les vostres dades al servei d'una Internet millor per a tothom.
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Codi QR per baixar el { -brand-product-name } per al mòbil
 more-from-moz-learn-more-link = Més informació
