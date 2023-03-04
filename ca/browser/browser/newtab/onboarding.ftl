@@ -391,16 +391,21 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Sempre respectem la vostra privadesa
+mr2022-onboarding-privacy-segmentation-subtitle = Des de suggeriments intel·ligents fins a una cerca més eficaç, treballem constantment per crear un { -brand-product-name } millor i més personal.
+mr2022-onboarding-privacy-segmentation-text-cta = Què voleu veure quan presentem noves funcions que utilitzen les vostres dades per millorar la navegació?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Utilitza les recomanacions del { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostra informació detallada
 
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Ens esteu ajudant a crear un web millor
+mr2022-onboarding-gratitude-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, estem treballant per fer que Internet sigui més oberta, accessible i millor per a tothom.
 mr2022-onboarding-gratitude-primary-button-label = Descobriu les novetats
 mr2022-onboarding-gratitude-secondary-button-label = Comença a navegar
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Sentiu-vos com a casa
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
