@@ -8,6 +8,7 @@
 more-from-moz-title = Més de { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Més de { -vendor-short-name }
+more-from-moz-subtitle = Descobriu altres productes de { -vendor-short-name } que contribueixen a fer Internet més saludable.
 more-from-moz-firefox-mobile-title = { -brand-product-name } per al mòvil
 more-from-moz-firefox-mobile-description = El navegador mòbil que posa la vostra privadesa per sobre de tot.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
@@ -20,3 +21,4 @@ more-from-moz-learn-more-link = Més informació
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-button = Prova el { -relay-brand-short-name }
