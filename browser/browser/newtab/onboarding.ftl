@@ -295,7 +295,7 @@ mr2022-onboarding-pin-primary-button-label =
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Inicieu amb un navegador creat per una organització sense ànim de lucre. Defensem la vostra privadesa mentre passegeu pel web.
+mr2022-onboarding-set-default-only-subtitle = Inicieu amb un navegador creat per una organització sense ànim de lucre. Defensem la vostra privadesa mentre navegueu pel web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -305,7 +305,7 @@ mr2022-onboarding-existing-pin-header = Gràcies per apreciar el { -brand-produc
 mr2022-onboarding-existing-pin-subtitle = Navegueu per una Internet més saludable des de qualsevol lloc amb un sol clic. L'última actualització ve farcida de funcions noves que us fascinaran.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
-mr2022-onboarding-existing-set-default-only-subtitle = Utilitzeu un navegador que defensi la vostra privadesa mentre navegueu per Internet. L'última actualització ve farcida de funcions que us fascinaran.
+mr2022-onboarding-existing-set-default-only-subtitle = Utilitzeu un navegador que defensi la vostra privadesa mentre navegueu pel web. L'última actualització ve farcida de funcions que us fascinaran.
 mr2022-onboarding-existing-pin-checkbox-label = Afegeix també la navegació privada del { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
@@ -315,7 +315,7 @@ mr2022-onboarding-set-default-title = Feu que el { -brand-short-name } sigui el 
 mr2022-onboarding-set-default-primary-button-label = Defineix el { -brand-short-name } com a navegador per defecte
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-subtitle = Utilitzeu un navegador creat per una organització sense ànim de lucre. Defensem la vostra privadesa mentre passegeu pel web.
+mr2022-onboarding-set-default-subtitle = Utilitzeu un navegador creat per una organització sense ànim de lucre. Defensem la vostra privadesa mentre navegueu pel web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -323,11 +323,12 @@ mr2022-onboarding-set-default-subtitle = Utilitzeu un navegador creat per una or
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Hem creat l'última versió tenint en compte el vostre punt de vista i això fa que sigui més fàcil que mai navegar pel web. Ve farcida de funcions que us fascinaran.
+mr2022-onboarding-get-started-primary-subtitle = Hem creat l'última versió tenint en compte el vostre punt de vista, i és més fàcil que mai navegar pel web. Ve farcida de funcions que us fascinaran.
 mr2022-onboarding-get-started-primary-button-label = Configura-la en un tres i no res
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuració ultraràpida
 mr2022-onboarding-import-primary-button-label-no-attribution = Importa del navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
