@@ -28,6 +28,13 @@ about-glean-interface-description =
 about-glean-upload-enabled = Боркунии маълумот фаъол аст.
 about-glean-upload-disabled = Боркунии маълумот ғайрифаъол аст.
 about-glean-upload-enabled-local = Боркунии маълумот танҳо барои интиқол ба сервери маҳаллӣ фаъол аст.
+about-glean-upload-fake-enabled =
+    Боркунии маълумот ғайрифаъол аст,
+    аммо мо дуруғ мегуем ва ба «{ glean-sdk-brand-name }» хабар медиҳем, ки он фаъол аст,
+    бинобар ин, маълумот ҳануз ба таври маҳаллӣ сабт карда мешавад.
+    Эзоҳ: Агар шумо барчаспи ислоҳи хатоҳоро танзим кунед, пингҳо новобаста аз танзимот ба <a data-l10n-name="glean-debug-ping-viewer">«{ glean-debug-ping-viewer-brand-name }»</a> бор карда мешавад.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">Хусусиятҳо ва таърифҳо</a> зеринро дар бар мегиранд:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
