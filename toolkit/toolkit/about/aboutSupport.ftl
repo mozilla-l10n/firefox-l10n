@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Avgjerdslogg
 graphics-crash-guards-title = Krasjvern slo av funksjonar
 graphics-workarounds-title = Løysingar
+graphics-device-pixel-ratios = Pikselforhold for vindauget
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokoll for vindaugshandsamar
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).

@@ -110,6 +110,10 @@ protections-panel-cookie-banner-view-title =
     .title = Redusering av infoskapselbanner
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Tilbake
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Vil du deaktivere reduksjon av infokapselbanner for { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Aktiver reduksjon av infokapselbanner på denne nettstaden
 protections-panel-cookie-banner-view-cancel = Avbryt
 protections-panel-cookie-banner-view-turn-off = Slå av
 protections-panel-cookie-banner-view-turn-on = Slå på
