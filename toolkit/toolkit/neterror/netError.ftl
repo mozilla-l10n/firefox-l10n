@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Comprobar que { -brand-short-name } tiene
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } no puede proteger su solicitud de la dirección de este sitio a través de nuestro sistema de resolución de DNS de confianza. Éste es el motivo:
 neterror-dns-not-found-trr-only-attackers = Si continúa, un tercero podría ver qué sitios web visita o enviarle a un sitio que no es de confianza.
+neterror-dns-not-found-trr-third-party-warning = Se puede continuar con un servicio de DNS que no sea seguro. Sin embargo, un tercero podría ser capaz de ver los sitios web que se visite.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } no se ha podido conectar a { $trrDomain }
 neterror-dns-not-found-trr-only-timeout = La conexión a { $trrDomain } ha necesitado más tiempo de lo esperado.
 neterror-dns-not-found-trr-offline = No está conectado a Internet.
