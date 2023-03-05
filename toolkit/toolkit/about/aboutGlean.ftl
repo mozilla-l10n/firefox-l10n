@@ -64,6 +64,19 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (indsend ikke pings)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Sørg for, at det foregående felt indeholder et debug-mærkat, du kan huske - så du kan genkende dine pings senere.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Vælg det ping fra den foregående liste, der indeholder din instrumentering.
+    Hvis det er et <a data-l10n-name="custom-ping-link">tilpasset ping</a>, så vælg dét.
+    Ellers er standard for <code>event</code>-måling 
+    <code>events</code>-ping'et
+    og standard for alle andre målinger er
+    <code>metrics</code>-ping'et.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Valgfrit. Sæt flueben i det foregående felt, hvis du vil have, at ping også skal logges, når de indsendes.
+    Det er desuden nødvendigt at <a data-l10n-name="enable-logging-link">aktivere logning</a>.)
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
@@ -75,6 +88,13 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Besøg siden { glean-debug-ping-viewer-brand-name } for at se pings med dit mærkat</a>.
     Dit ping burde ankomme få sekunder efter at du har trykket på knappen.
     Nogle gange kan det dog tage op til en lille håndfuld minutter.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Til brug for <i>ad hoc</i> testning,
+    kan du også bestemme den aktuelle værdi af et bestemt stykke instrumentering
+    ved at åbne en konsol i udviklerværktøj her på <code>about:glean</code>
+    og bruge <code>testGetValue()</code>-API'en, fx således:
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Anvend indstillinger og send ping
 about-glean-about-data-header = Om data
 about-glean-about-data-explanation =
