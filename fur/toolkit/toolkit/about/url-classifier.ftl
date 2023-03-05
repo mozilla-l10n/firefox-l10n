@@ -5,7 +5,11 @@
 url-classifier-title = Informazions su la classificazion dal URL
 url-classifier-search-title = Ricercje
 url-classifier-search-result-title = Risultâts
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Liste di tabelis: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL no valit
@@ -17,6 +21,7 @@ url-classifier-provider-title = Furnidôr
 url-classifier-provider = Furnidôr
 url-classifier-provider-last-update-time = Date e ore dal ultin inzornament
 url-classifier-provider-next-update-time = Date e ore dal prossim inzornament
+url-classifier-provider-back-off-time = Periodi di interuzion
 url-classifier-provider-last-update-status = Stât dal ultin inzornament
 url-classifier-provider-update-btn = Inzorne
 url-classifier-cache-title = Cache
@@ -48,5 +53,9 @@ url-classifier-disabled = Disativât
 url-classifier-updating = daûr a inzornâ
 url-classifier-cannot-update = impussibil inzornâ
 url-classifier-success = sucès
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = erôr dal inzornament ({ $error })
 url-classifier-download-error = erôr tal discjamâ ({ $error })
