@@ -60,6 +60,25 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (no inviâ pings)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Jessi sigûr che, tal cjamp che al precêt, e sedi une etichete di debug facile di impensâsi, cussì di podê ricognossi i tiei pings, plui indenant.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Selezione de liste anteriôr il ping là che si cjate la tô strumentazion.
+    Se e sta intun <a data-l10n-name="custom-ping-link">ping personalizât</a>, sielç chel.
+    In câs contrari, il valôr predefinît pes metrichis di gjenar <code>event</code>
+    al è il ping <code>events</code>
+    e il valôr predefinît par dutis lis altris metrichis al è
+    il ping <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Opzionâl. Segne la casele di control se tu desideris che inviant i pings chescj a sedin ancje regjistrâts intun regjistri.
+    Ti coventarà <a data-l10n-name="enable-logging-link">a<a data-l10n-name="enable-logging-link">ativâ la regjistrazion</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Frache il boton par zontâ la etichete a ducj i pings { -glean-brand-name } e inviâ il ping selezionât.
+    (Ducj i pings inviâts di chel moment indevant a varan la etichete <code>{ $debug-tag }</code>, al sarà cussì fin cuant che la aplicazion no vignarà inviade di gnûf.)
 about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Visite la pagjine di { glean-debug-ping-viewer-brand-name } par viodi i pings cu la tô etichete</a>. Nol varès di puartâ vie plui di cualchi secont tra la pression dal boton e la ricezion dai pings, ma in cualchi câs al podarès coventâ cualchi minût.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
