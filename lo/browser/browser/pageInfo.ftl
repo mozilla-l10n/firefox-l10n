@@ -147,6 +147,7 @@ general-strict-mode =
     .value = ຮູບແບບການປະຕິບັດຕາມມາດຕະຖານ
 page-info-security-no-owner =
     .value = ເວັບໄຊຕ໌ນີ້ບໍ່ໄດ້ສະຫນອງຂໍ້ມູນສ່ວນບຸກຄົນ.
+media-select-folder = ເລືອກໂຟນເດີທີ່ຈະບັນທຶກຮູບພາບ
 media-unknown-not-cached =
     .value = ບໍ່ຮູ້ຈັກ (ບໍ່ຖືກເກັບໄວ້)
 permissions-use-default =

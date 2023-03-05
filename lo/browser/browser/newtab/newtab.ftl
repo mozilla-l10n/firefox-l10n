@@ -203,6 +203,7 @@ newtab-empty-section-topstories = ທ່ານໄດ້ອ່ານເລື່�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ທ່ານໄດ້ອ່ານເລື່ອງລາວຄົບໝົດແລ້ວ
 newtab-discovery-empty-section-topstories-content = ກວດເບິ່ງຄືນໃນພາຍຫຼັງສໍາລັບເລື່ອງເພີ່ມເຕີມ.
 newtab-discovery-empty-section-topstories-try-again-button = ລອງໃຫມ່ອີກຄັ້ງ
 newtab-discovery-empty-section-topstories-loading = ກຳລັງໂຫລດ…

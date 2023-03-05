@@ -328,10 +328,12 @@ mr2022-onboarding-colorway-description-innovator = <b>ທ່ານເປັນ�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = ເລື່ອນຈາກແລັບທັອບໄປຫາໂທລະສັບ ແລະກັບມາອີກຄັ້ງ
+mr2022-onboarding-no-mobile-download-cta-text = ສະແກນລະຫັດ QR ເພື່ອເອົາ { -brand-product-name } ສໍາລັບມືຖື.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = ໄດ້​ຮັບ​ອິດ​ສະ​ລະ​ພາບ​ການ​ຊອກ​ຫາ​ເອ​ກະ​ຊົນ​ໃນ​ການ​ຄລິກ​ຫນຶ່ງ​
 mr2022-upgrade-onboarding-pin-private-window-subtitle = ບໍ່ມີຄຸກກີ້ ຫຼືປະຫວັດທີ່ບັນທຶກໄວ້, ທັນທີຈາກເດັສທັອບຂອງທ່ານ. ຄົ້ນຫາຄືກັບບໍ່ມີໃຜເບິ່ງ.
 
 ## MR2022 Privacy Segmentation screen strings

@@ -10,6 +10,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = ຕັ້ງ URL ການອັບເດດແອັບຯແບບກຳນົດເອງ.
+policy-BackgroundAppUpdate2 = ເປີດຫຼືປິດການອັບເດດພື້ນຫລັງ.
 policy-DisabledCiphers = ປິດການໃຊ້ງານລະຫັດລັບ.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
