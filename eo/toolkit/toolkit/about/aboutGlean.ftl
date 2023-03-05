@@ -53,10 +53,26 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Pri testoj
 # This message is followed by a numbered list.
 about-glean-manual-testing =
-    La <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentoj pri telemezuraj testoj</a> kaj
-    la <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentaro</a> enhavas kompletajn instrukciojn, sed mallonge dirite, por kontroli ĉu via telemezuro funkcias vi devus:
+    La <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentoj pri instrumentadaj testoj</a> kaj
+    la <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentaro</a> enhavas kompletajn instrukciojn, sed mallonge dirite, por kontroli ĉu via instrumentado funkcias vi devus:
 # This message is an option in a dropdown filled with untranslated names of pings.
-about-glean-no-ping-label = (sendi neniun eĥosondilon)
+about-glean-no-ping-label = (sendi neniun ping-on)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = En la antaŭa kampo, certu ke estas memorebla erarserĉila etikedo, tiel ke vi povos poste rekoni viajn ping-ojn.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Elektu el la antaŭa listo la ping-on en kiuj troviĝas via instrumentado.
+    Se ĝi estas en <a data-l10n-name="custom-ping-link">personecigita ping</a>, elektu tiun.
+    Se ne, la normo por mezuroj de <code>event</code> estas la ping <code>events</code> kaj, por ĉiuj aliaj mezuroj la normo estas ping <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Nedeviga: Marku la antaŭan elekteblon se vi volas registri ping-ojn kiam ili estas senditaj.
+    Vi ankaŭ bezonos <a data-l10n-name="enable-logging-link">aktivigi registradon</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Premi la antaŭan butonon por etikedi ĉiujn ping-ojn de { -glean-brand-name } per via etikedo kaj sendi la elektitan ping-on.
+    (Ĉiuj ping senditaj ekde tiu momento ĝis la restarto de la programo ricevos la etikedon <code>{ $debug-tag }</code>.)
 controls-button-label-verbose = Apliki agordojn kaj sendi 'ping'
