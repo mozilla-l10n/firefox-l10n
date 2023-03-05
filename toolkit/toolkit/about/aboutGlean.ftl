@@ -18,20 +18,20 @@ controls-button-label = Semdo agordojn
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
-glean-debug-ping-viewer-brand-name = Vidigilo de erarserĉila eĥosondilo de { -glean-brand-name }
+glean-debug-ping-viewer-brand-name = Vidigilo de erarserĉila ping-oj de { -glean-brand-name }
 about-glean-page-title2 = Pri { -glean-brand-name }
 about-glean-header = Pri { -glean-brand-name }
 about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
     estas datumkolekta biblioteko uzata en projektoj de { -vendor-short-name }.
     La fasadon oni fasonis por ke programistoj kaj testistoj povu permane
-    <a data-l10n-name="fog-link">testi telemezuron</a>.
+    <a data-l10n-name="fog-link">testi instrumentadon</a>.
 about-glean-upload-enabled = Alŝuto de datumoj aktiva.
 about-glean-upload-disabled = Alŝuto de datumoj malaktiva.
 about-glean-upload-enabled-local = Alŝuto de datumoj aktiva, nur por lokaj serviloj.
 about-glean-upload-fake-enabled =
     La alŝuto de datumoj estas malaktiva, tamen ni mensoge raportas al { glean-sdk-brand-name } ke ĝi estas aktiva, tiel ke datumoj estos tamen loke registritaj.
-    Noto: se vi difinas erarserĉilan etikedon, la agordoj estos ignoritaj kaj eĥosondiloj estos tamen alŝutitaj al <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+    Noto: se vi difinas erarserĉilan etikedon, la agordoj estos ignoritaj kaj ping-oj  estos tamen alŝutitaj al <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Inter la rimarkindaj <a data-l10n-name="fog-prefs-and-defines-doc-link">preferoj kaj difinoj</a> estas:
 # Variables:
