@@ -317,3 +317,8 @@ cfr-cookiebanner-reject-button-variant-2 = Non adesso
 july-jam-headline = Sempre dalla tua parte
 july-jam-body = Ogni mese { -brand-short-name } blocca in media oltre 3.000 elementi traccianti per ciascun utente, offrendoti un accesso sicuro e veloce alla parte migliore di Internet.
 july-jam-set-default-primary = Apri i miei link con { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Ora puoi aprire i tuoi PDF in { -brand-short-name }.</strong> Modifica o firma i moduli direttamente nel tuo browser. Per iniziare, cerca “PDF” nelle impostazioni.
+set-default-pdf-handler-primary = OK
