@@ -34,6 +34,8 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Acerca de las pruebas
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (no enviar ningún ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = En el campo anterior, asegúrate de que haya una etiqueta de depuración reconocible para que puedas identificar tus pings más adelante.
 controls-button-label-verbose = Aplicar configuración y enviar ping
 about-glean-about-data-header = Acerca de los datos
 about-glean-about-data-explanation =
