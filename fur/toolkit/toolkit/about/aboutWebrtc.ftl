@@ -155,6 +155,8 @@ about-webrtc-track-identifier = Identificadôr linie
 about-webrtc-send-bandwidth-bytes-sec = Largjece di bande tal inviâ (bytes/s)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Largjece di bande in ricezion (bytes/s)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Dade tra pachets in ms
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
