@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = မူလအတိုင်း သတ်မှတ်ပါ
+    .label = ပုံမှန်အတိုင်း ပြန်ထားပါ
 customize-mode-menu-and-toolbars-header = စိတ်ကြိုက်ကိရိယာများကို ကိရိယာဘားတန်း သို့မဟုတ် ပိုလျှံမီနူးထဲသို့ ဆွဲထည့်ပါ။
 customize-mode-overflow-list-title = ပိုလျှံမီနူး
 customize-mode-uidensity =
