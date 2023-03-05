@@ -53,7 +53,7 @@ firefoxview-tabpickup-syncing = Интизор шавед, варақаҳои ш
 firefoxview-mobile-promo-header = Варақаҳоро аз телефон ё планшети худ ба даст оред
 firefoxview-mobile-promo-description = Барои дидани варақаҳои охирин аз телефони мобилии худ, дар iOS ё Android ба { -brand-product-name } ворид шавед.
 firefoxview-mobile-promo-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
-firefoxview-mobile-confirmation-header = 🎉 Ҳамааш тайёр аст!
+firefoxview-mobile-confirmation-header = 🎉 Ҳамааш омода аст!
 firefoxview-mobile-confirmation-description = Акнун шумо метавонед варақаҳои худро дар браузери «{ -brand-product-name }» аз телефон ё планшети худ ба даст оред.
 firefoxview-closed-tabs-title = Пӯшидашудаи охирин
 firefoxview-closed-tabs-description2 = Аз нав кушодани ҳамаи варақаҳое, ки шумо дар ин равзана маҳкам кардед.
@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Фаъолонаи охирин
 firefoxview-tabs-list-tab-button =
     .title = Кушодани { $targetURI } дар варақаи нав
 firefoxview-try-colorways-button = Нақшу нигорҳоро озмоед
-firefoxview-no-current-colorway-collection = Нақшу нигори нав ба наздикӣ дастрас мешаванд
 firefoxview-change-colorway-button = Иваз кардани нақшу нигор
 # Variables:
 #  $intensity (String): Colorway intensity
