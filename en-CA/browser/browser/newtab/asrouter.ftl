@@ -59,8 +59,13 @@ cfr-doorhanger-extension-total-users =
 
 ## Cookie Banner Handling Onboarding
 
+cfr-cookie-banner-accept-button = Dismiss Requests
+    .accesskey = D
 cfr-cookie-banner-reject-button = Not Now
     .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = See fewer cookie pop-ups
+cfr-cookie-banner-accept-button-variant-1 = Dismiss Pop-ups
+    .accesskey = D
 cfr-cookie-banner-reject-button-variant-1 = No thanks
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Cookie Banner Reduction
@@ -236,6 +241,19 @@ colorways-cfr-header-today = Independent Voices colourways expire today
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Cookie banners begone!
+cfr-cookiebanner-body = Allow { -brand-short-name } to automatically reject all cookie banner requests when possible.
+cfr-cookiebanner-accept-button-v2 = Reject Requests
+    .accesskey = R
+cfr-cookiebanner-reject-button = Not Now
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = See fewer cookie pop-ups
+cfr-cookiebanner-accept-button-variant-1 = Dismiss Pop-ups
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = No Thanks
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Cookie Banner Reduction
 cfr-cookiebanner-accept-button-variant-2 = Allow
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = Not Now
@@ -244,3 +262,7 @@ cfr-cookiebanner-reject-button-variant-2 = Not Now
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = We’ve got you covered
+july-jam-set-default-primary = Open my links with { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+

@@ -27,6 +27,7 @@ neterror-try-again-button = Try Again
 neterror-add-exception-button = Always continue for this site
 neterror-settings-button = Change DNS settings
 neterror-view-certificate-link = View Certificate
+neterror-disable-native-feedback-warning = Always continue
 
 ##
 
@@ -56,6 +57,12 @@ neterror-dns-not-found-hint-firewall = Check that { -brand-short-name } has perm
 neterror-dns-not-found-trr-offline = You are not connected to the internet.
 neterror-dns-not-found-trr-server-problem = There was a problem with { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Unexpected problem.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS has been disabled on your network.
 
 ##
 
