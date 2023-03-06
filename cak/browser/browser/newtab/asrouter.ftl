@@ -180,6 +180,8 @@ spotlight-total-cookie-protection-secondary-button = Wakami mani
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Jun utziläj k'amaya'l nitikïr awik'in
+spotlight-better-internet-body = Toq nokisäx { -brand-short-name } ütz nikitz'ët ri jaqäl, okel k'amaya'l, ri yalan ütz chi qe qonojel.
+spotlight-peace-mind-header = Röj yatqachajij
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Tik'oje' pa Dock
