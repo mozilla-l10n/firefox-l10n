@@ -273,3 +273,7 @@ cfr-cookiebanner-reject-button-variant-2 = Ani ko’ág̃a
 july-jam-headline = Roguereko ñemo’ãpe
 july-jam-body = Peteĩteĩva jasýpe, { -brand-short-name } ojoko hetave 3,000 tapykuehoha puruháragui, ome’ẽva jeike pya’e ha tekorosã Ñandutípe.
 july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Aikumby
