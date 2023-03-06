@@ -174,10 +174,12 @@ spotlight-total-cookie-protection-header =
     Tatojtob'ej ri qana'ob'al richin
     ichinanem, ri nimaläj pa qab'anob'al
 spotlight-total-cookie-protection-body = Chijun Kichajixik Kuki man nuya' ta q'ij chi ri taq ojqanela' yekokisaj taq kuki richin yenachäx pa k'amab'ey.
+spotlight-total-cookie-protection-primary-button = Titzij Kichajixik Chijun Kuki
 spotlight-total-cookie-protection-secondary-button = Wakami mani
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Jun utziläj k'amaya'l nitikïr awik'in
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Tik'oje' pa Dock
