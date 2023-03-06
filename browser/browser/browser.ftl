@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tips:
 urlbar-result-menu-button =
     .title = Åpne meny
+urlbar-result-menu-learn-more =
+    .label = Les mer
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = Fjern fra historikk
     .accesskey = F
@@ -704,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = Andre bokmerker
 bookmarks-mobile-bookmarks-menu =
     .label = Mobile bokmerker
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -728,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Fjern bokmerkemeny fra verktøylinjen
            *[other] Legg til bokmerkemeny til verktøylinjen
         }
+
+##
+
 bookmarks-search =
     .label = Søk i bokmerker
 bookmarks-tools =

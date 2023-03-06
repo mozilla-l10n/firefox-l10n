@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = En feil oppstod ved innsending av rapporten. Prøv igjen senere.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Nettstedet fikset? Send rapport
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Mer informasjon om utvidet sporingsbeskyttelse
-
 protections-panel-etp-on-header = Utvidet sporingsbeskyttelse er slått PÅ for dette nettstedet
 protections-panel-etp-off-header = Utvidet sporingsbeskyttelse er slått AV for dette nettstedet
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Fungerer ikke nettstedet?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Fungerer ikke nettstedet?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Alle sporere på dette nett
 ##
 
 protections-panel-no-trackers-found = Ingen sporere kjent for { -brand-short-name } ble oppdaget på denne siden.
-
 protections-panel-content-blocking-tracking-protection = Sporings-innhold
-
 protections-panel-content-blocking-socialblock = Sporing via sosiale medier
 protections-panel-content-blocking-cryptominers-label = Kryptoutvinnere
 protections-panel-content-blocking-fingerprinters-label = Fingerprinters
@@ -63,7 +57,6 @@ protections-panel-not-found-label = Ingen oppdaget
 ##
 
 protections-panel-settings-label = Innstillinger for beskyttelse
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Sikkerhetsoversikt
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -71,14 +64,12 @@ protections-panel-protectionsdashboard-label = Sikkerhetsoversikt
 
 # The header of the list
 protections-panel-site-not-working-view-header = Slå av beskyttelsen hvis du har problemer med:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Innloggingsfelt
 protections-panel-site-not-working-view-issue-list-forms = Skjemaer
 protections-panel-site-not-working-view-issue-list-payments = Betalinger
 protections-panel-site-not-working-view-issue-list-comments = Kommentarer
 protections-panel-site-not-working-view-issue-list-videos = Videoer
-
 protections-panel-site-not-working-view-send-report = Send inn en rapport
 
 ##
@@ -88,16 +79,13 @@ protections-panel-cryptominers = Kryptoutvinnere bruker systemets datakraft for 
 protections-panel-fingerprinters = Fingerprinters samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder.
 protections-panel-tracking-content = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold med sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke.
 protections-panel-social-media-trackers = Sosiale nettverk plasserer sporere på andre nettsteder for å følge det du gjør og ser på nettet. Dette gjør at sosiale media-selskaper kan lære mer om deg utover det du deler på profilene dine på sosiale medier.
-
 protections-panel-description-shim-allowed = Noen sporere som er merket nedenfor, er delvis blitt avblokkert på denne siden fordi du samhandlet med dem.
 protections-panel-description-shim-allowed-learn-more = Les mer
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Sporing delvis avblokkert
-
 protections-panel-content-blocking-manage-settings =
     .label = Behandle beskyttelsesinnstillinger
     .accesskey = n
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Rapporter problem med et nettsted
 protections-panel-content-blocking-breakage-report-view-description = Blokkering av visse sporere kan føre til problemer med enkelte nettsteder. Rapportering av disse problemene er med på å gjøre { -brand-short-name } bedre for alle. Ved sending av denne rapporten vil du sende en URL og informasjon om nettleserinnstillingene dine, til Mozilla. <label data-l10n-name="learn-more">Les mer</label>
@@ -111,3 +99,23 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Avbryt
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Send rapport
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Redusering av infoskapselbanner
+protections-panel-cookie-banner-handling-enabled = På for dette nettstedet
+protections-panel-cookie-banner-handling-disabled = Av for dette nettstedet
+protections-panel-cookie-banner-handling-undetected = Nettstedet støttes for øyeblikket ikke
+protections-panel-cookie-banner-view-title =
+    .title = Redusering av infoskapselbanner
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Tilbake
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Vil du slå av reduksjon av infoskapselbannere for { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Vil du slå på reduksjon av infoskapselbannere for dette nettstedet?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vill slette infokapsler og oppdatere siden. Sletting av alle infokapsler kan føre til at du blir logget ut eller at handlekurver blir tømt.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } prøver å automatisk avvise alle infokapselforespørsler på støttede nettsteder.
+protections-panel-cookie-banner-view-cancel = Avbryt
+protections-panel-cookie-banner-view-turn-off = Slå av
+protections-panel-cookie-banner-view-turn-on = Slå på
