@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -111,6 +111,7 @@ urlbar-search-tips-onboard = କମ୍ ଟାଇପ୍ କରନ୍ତୁ, ଅ�
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-history = ଇତିହାସ
 
 ##
 
@@ -157,7 +158,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ଏବେ, ଖୋଜନ୍ତୁ ସହିତ:
 search-one-offs-change-settings-compact-button =
@@ -171,6 +172,10 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ଗୋପନୀୟ ୱିଣ୍ଡୋଜ ପାଇଁ ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ କରି ରଖନ୍ତୁ
     .accesskey = ପି
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = ସନ୍ଧାନ ଇଞ୍ଜିନ୍ ଯୋଡ଼ନ୍ତୁ
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -190,9 +195,18 @@ search-one-offs-context-set-as-default-private =
 
 ## Identity Panel
 
+identity-https-only-dropdown-on =
+    .label = ଚାଲୁ
+identity-https-only-dropdown-off =
+    .label = ବନ୍ଦ
+identity-permissions-storage-access-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
+identity-learn-more =
+    .value = ଅଧିକ ଜାଣନ୍ତୁ
 identity-disable-mixed-content-blocking =
     .label = ବର୍ତ୍ତମାନ ପାଇଁ ସୁରକ୍ଷାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ
     .accesskey = D
+identity-more-info-link-text =
+    .label = ଅଧିକ ସୂଚନା
 
 ## Window controls
 
@@ -214,6 +228,10 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-icon =
+    .tooltiptext = କ୍ୟାମେରା
+popup-select-microphone-icon =
+    .tooltiptext = ମାଇକ୍ରୋଫୋନ୍
 popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।
 
 ## WebRTC window or screen share tab switch warning
@@ -224,6 +242,8 @@ popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟ
 
 ## URL Bar
 
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = ଠିକଣା ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ଭରଣ କରନ୍ତୁ
 urlbar-switch-to-tab =
@@ -256,6 +276,8 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = ଅଧିକ ଜାଣନ୍ତୁ
 
 ## Bookmarks panels, menus and toolbar
 
@@ -263,6 +285,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ
 bookmarks-sidebar-content =
     .aria-label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
 bookmarks-toolbar-menu =
@@ -274,6 +304,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-recent-activity-title =
+    .value = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
 
 ## Pocket toolbar button
 
@@ -307,6 +339,7 @@ toolbar-button-new-private-window =
 
 ## Password save/update panel
 
+panel-save-update-password = ପାସ୍‍ୱାର୍ଡ଼
 
 ## Add-on removal warning
 
@@ -350,6 +383,8 @@ navbar-overflow =
 navbar-print =
     .label = ମୁଦ୍ରଣ କରନ୍ତୁ
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ମୁଦ୍ରଣ କରନ୍ତୁ… ({ $shortcut })
+navbar-accessibility-indicator =
+    .tooltiptext = ଅଭିଗମ୍ୟତା ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକ ସକ୍ଷମ ହୋଇଛି
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -374,7 +409,14 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପୁନର୍ଧାରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
 refresh-blocked-redirect-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅନ୍ୟ ଏକ ପୃଷ୍ଠାକୁ ପୁନଃ ପ୍ରେରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
+
+## Firefox Relay integration
+

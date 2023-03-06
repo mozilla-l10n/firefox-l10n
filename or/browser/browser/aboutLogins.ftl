@@ -1,21 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ଲଗଇନ ଏବଂ ପାସୱାର୍ଡ଼
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = ଖୋଜା ଲଗିନ
-
 create-login-button = ନୂଆ ଲଗଇନ ତିଆରି କରନ୍ତୁ
-
 fxaccounts-sign-in-text = ନିଜର ଉପକରଣରେ ନିଜସ୍ୱ ପାସୱାର୍ଡ଼ ପାଆନ୍ତୁ
 fxaccounts-avatar-button =
     .title = ଖାତା ପରିଚାଳନା
@@ -37,6 +28,8 @@ about-logins-menu-menuitem-help = ସହାୟତା
 
 login-list =
     .aria-label = ଲଗଇନଟି ଖୋଜା ତଥ୍ୟ ସହ ମିଶୁଛି
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] ଲଗଇନ
@@ -59,6 +52,9 @@ about-logins-list-item-breach-icon =
     .title = ସଂକ୍ରମିତ ୱେବସାଇଟ
 about-logins-list-item-vulnerable-password-icon =
     .title = ଦୁର୍ବଳ ପାସୱାର୍ଡ
+about-logins-list-section-today = ଆଜି
+about-logins-list-section-yesterday = ଗତକାଲି
+about-logins-list-section-week = ବିଗତ ୭ ଦିନ
 
 ## Introduction screen
 
@@ -90,6 +86,11 @@ login-item-time-changed = ଶେଷ ପରିବର୍ତ୍ତିତ: { DATETIM
 login-item-time-created = ତିଆରି ହୋଇଥିଲା: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = ଶେଷ ବ୍ୟବହୃତ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -103,20 +104,16 @@ about-logins-edit-login-os-auth-dialog-message-win = ଆପଣଙ୍କର ଲ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରନ୍ତୁ
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ ଦେଖିବା ପାଇଁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ ପ୍ରକାଶ କରନ୍ତୁ
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ କପି କରିବାକୁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ କପି କରନ୍ତୁ
-
-## Master Password notification
 
 ## Primary Password notification
 
@@ -124,17 +121,20 @@ master-password-reload-button =
     .label = ଲଗଇନ
     .accesskey = ଏଲ
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = ବାତିଲ
 confirmation-dialog-dismiss-button =
     .title = ବାତିଲ କରନ୍ତୁ
-
 about-logins-confirm-remove-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
 confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 about-logins-confirm-remove-dialog-confirm-button = କାଢ଼ନ୍ତୁ
+
+## Variables
+##   $count (number) - Number of items
+
+
+##
 
 confirm-discard-changes-dialog-title = ଅଣସଞ୍ଚିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନଷ୍ଟ କରିଦେବେ?
 confirm-discard-changes-dialog-message = ସମସ୍ତ ଅଣସଂରକ୍ଷିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବିଲୁପ୍ତ ହୋଇଯିବ
@@ -163,22 +163,32 @@ about-logins-vulnerable-alert-learn-more-link = ଅଧିକ ଶିଖନ୍ତ�
 # This is a generic error message.
 about-logins-error-message-default = ପାସୱାର୍ଡ଼ ସଂରକ୍ଷଣ ସମୟରେ ତ୍ରୁଟିଟିଏ ଘଟିଲା
 
-
 ## Login Export Dialog
 
+
 ## Login Import Dialog
+
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-done = ହୋଇଗଲା
+about-logins-import-dialog-error-file-format-title = ଫାଇଲ୍ ଫର୍ମାଟ୍ ସମସ୍ୟା
+about-logins-import-dialog-error-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
+about-logins-import-dialog-error-cancel = ବାତିଲ କରନ୍ତୁ
+about-logins-import-report-title = ସାରାଂଶ ଆମଦାନୀ କରନ୍ତୁ
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+
 ## Logins import report page
 
+about-logins-import-report-page-title = ସାରାଂଶ ରିପୋର୍ଟ ଆମଦାନୀ କରନ୍ତୁ
