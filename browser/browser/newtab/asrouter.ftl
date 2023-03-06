@@ -223,3 +223,8 @@ colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעד
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-set-default-primary = פתיחת הקישורים שלי באמצעות { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>מסמכי ה־PDF שלך נפתחים כעת באמצעות { -brand-short-name }.</strong> באפשרותך לערוך או לחתום על טפסים ישירות בדפדפן שלך. כדי לשנות, יש לחפש ״PDF״ בהגדרות.
+set-default-pdf-handler-primary = הבנתי

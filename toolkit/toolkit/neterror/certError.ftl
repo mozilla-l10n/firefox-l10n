@@ -80,10 +80,10 @@ dnsNotFound-title = אבוי. יש לנו בעיה למצוא את האתר הז
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = סיכון אבטחה אפשרי עבור { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = סיכון אבטחה אפשרי בחיפוש מתחם זה
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = סיכון אבטחה אפשרי עבור { $hostname }.
+dns-not-found-trr-only-title2 = סיכון אבטחה אפשרי בחיפוש מתחם זה
+dns-not-found-native-fallback-title2 = סיכון אבטחה אפשרי בחיפוש מתחם זה
 fileNotFound-title = קובץ לא נמצא
 fileAccessDenied-title = הגישה לקובץ נדחתה
 generic-title = אוי.

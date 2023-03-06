@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = שמירת about:webrtc בשם
@@ -18,8 +17,7 @@ about-webrtc-save-page-dialog-title = שמירת about:webrtc בשם
 about-webrtc-aec-logging-msg-label = רישום AEC
 about-webrtc-aec-logging-off-state-label = התחלת רישום AEC
 about-webrtc-aec-logging-on-state-label = עצירת רישום AEC
-about-webrtc-aec-logging-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
-
+about-webrtc-aec-logging-on-state-msg = רישום AEC פעיל (יש לדבר עם המתקשר לכמה דקות ואז להפסיק את ההקלטה)
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = רענון אוטומטי
 
@@ -34,10 +32,10 @@ about-webrtc-peerconnection-id-label = מזהה PeerConnection:‏
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 about-webrtc-sdp-heading = SDP
-about-webrtc-local-sdp-heading = Local SDP
+about-webrtc-local-sdp-heading = ‏SDP מקומי
 about-webrtc-local-sdp-heading-offer = Local SDP (הצעה)
 about-webrtc-local-sdp-heading-answer = Local SDP (תשובה)
-about-webrtc-remote-sdp-heading = Remote SDP
+about-webrtc-remote-sdp-heading = ‏SDP מרוחק
 about-webrtc-remote-sdp-heading-offer = Remote SDP (הצעה)
 about-webrtc-remote-sdp-heading-answer = Remote SDP (תשובה)
 about-webrtc-sdp-history-heading = היסטוריית SDP
@@ -48,22 +46,19 @@ about-webrtc-sdp-parsing-errors-heading = שגיאות פענוח SDP
 # "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
 # specification, and should not normally be translated. "Stats" is an
 # abbreviation for Statistics.
-about-webrtc-rtp-stats-heading = RTP Stats
+about-webrtc-rtp-stats-heading = סטטיסטיקות RTP
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
-about-webrtc-ice-state = ICE State
+about-webrtc-ice-state = מצב ICE
 # "Stats" is an abbreviation for Statistics.
-about-webrtc-ice-stats-heading = ICE Stats
+about-webrtc-ice-stats-heading = סטטיסטיקות ICE
 about-webrtc-ice-restart-count-label = ICE restarts:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
 about-webrtc-ice-pair-bytes-sent = בתים שנשלחו:
 about-webrtc-ice-pair-bytes-received = בתים שהתקבלו:
 about-webrtc-ice-component-id = מזהה רכיב
-
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -77,19 +72,17 @@ about-webrtc-type-remote = מרוחק
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominated
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
-
 about-webrtc-save-page-label = שמירת דף
 about-webrtc-debug-mode-msg-label = מצב ניפוי שגיאות
 about-webrtc-debug-mode-off-state-label = הפעלת מצב ניפוי שגיאות
 about-webrtc-debug-mode-on-state-label = עצירת מצב ניפוי שגיאות
 about-webrtc-stats-heading = סטטיסטיקת הפעלה
 about-webrtc-stats-clear = ניקוי היסטוריה
-about-webrtc-log-heading = יומן קישוריות
+about-webrtc-log-heading = יומן חיבור
 about-webrtc-log-clear = ניקוי יומן רישום
 about-webrtc-log-show-msg = הצגת יומן
     .title = click to expand this section
@@ -133,6 +126,12 @@ about-webrtc-rotation-degrees = סיבוב (מעלות)
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+about-webrtc-pc-configuration-show-msg = הצגת תצורה
+about-webrtc-pc-configuration-hide-msg = הסתרת תצורה
+
 ##
 
 # Section header for estimated bandwidths of WebRTC media flows
@@ -143,10 +142,10 @@ about-webrtc-bandwidth-stats-heading = רוחב פס משוער
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
-about-webrtc-save-page-msg = page saved to: { $path }
-about-webrtc-debug-mode-off-state-msg = trace log can be found at: { $path }
+about-webrtc-save-page-msg = הדף נשמר אל: { $path }
+about-webrtc-debug-mode-off-state-msg = יומן מעקב זמין במיקום: { $path }
 about-webrtc-debug-mode-on-state-msg = מצב ניפוי שגיאות פעיל, יומן מעקב זמין במיקום: { $path }
-about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $path }
+about-webrtc-aec-logging-off-state-msg = קובצי יומן שנלכדו זמינים במיקום: { $path }
 
 ##
 
@@ -155,7 +154,6 @@ about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -164,6 +162,11 @@ about-webrtc-trickle-caption-msg = מועמדים שהסתננו (הגיעו ל�
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+about-webrtc-show-msg-sdp = הצגת SDP
+about-webrtc-hide-msg-sdp = הסתרת SDP
 
 ##
 
