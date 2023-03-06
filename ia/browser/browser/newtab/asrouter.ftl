@@ -277,4 +277,5 @@ july-jam-set-default-primary = Aperir mi ligamines con { -brand-short-name }
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Tu files pdf ora se aperi in { -brand-short-name }.</strong> Redige o firma formularios directemente in tu navigator. Pro configurar lo, cerca “PDF” in parametros.
 set-default-pdf-handler-primary = Comprendite
