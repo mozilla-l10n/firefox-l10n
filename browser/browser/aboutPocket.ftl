@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ଟ୍ୟାଗ ଯୋଡ଼ନ୍ତୁ
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }ରେ ସାଇତିବା ବେଳେ ଅସୁବିଧାଟିଏ ହେଲା ।
 pocket-panel-saved-error-tag-length = ଟ୍ୟାଗ 25 ଟି ଅକ୍ଷରରେ ସୀମିତ
 pocket-panel-saved-error-only-links = କେବଳ ଲିଙ୍କ ସାଇତାଯାଇପାରିବ
@@ -41,7 +40,10 @@ pocket-panel-signup-tagline-story-two = ଯେତେବେଳେ ଲୋଡ଼ା
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = ସବୁ ଦେଖାଅ

@@ -7,6 +7,7 @@ privatebrowsingpage-open-private-window-label = ଏକ ବ୍ୟକ୍ତିଗ�
 about-private-browsing-search-placeholder = ୱେବରେ ଖୋଜନ୍ତୁ
 about-private-browsing-info-title = ଆପଣ ଏକ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ଅଛନ୍ତି
 about-private-browsing-not-private = ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ନାହାନ୍ତି।
+about-private-browsing-learn-more-link = ଅଧିକ ଜାଣନ୍ତୁ
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -17,6 +18,11 @@ about-private-browsing-not-private = ଆପଣ ବର୍ତ୍ତମାନ ବ�
 about-private-browsing-search-banner-title = ଗୋପନୀୟ ୱିଣ୍ଡୋରେ { $engineName } ଆପଣଙ୍କର ପୂର୍ବ ସଂରକ୍ଷିତ ସନ୍ଧାନ ଇଞ୍ଜିନ ଅଟେ
 about-private-browsing-search-banner-close-button =
     .aria-label = ବନ୍ଦ କରନ୍ତୁ
+about-private-browsing-promo-close-button =
+    .title = ବନ୍ଦ କରନ୍ତୁ
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+
+## Strings used in a promotion message for cookie banner reduction
 

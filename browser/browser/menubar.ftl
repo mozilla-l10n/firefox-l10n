@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = ପସନ୍ଦ
 menu-application-services =
     .label = ସେବା
 menu-application-hide-this =
@@ -34,11 +36,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ଛାଡ଼ନ୍ତୁ
-
 menu-about =
     .label = { -brand-shorter-name } ବାବଦରେ
     .accesskey = A
@@ -154,6 +154,9 @@ menu-view-full-screen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
+
 ##
 
 menu-view-show-all-tabs =
@@ -232,14 +235,6 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by

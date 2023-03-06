@@ -19,6 +19,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = ପୁନଃଚାଳନ
     .accesskey = R
+downloads-cmd-cancel =
+    .tooltiptext = ବାତିଲ କରନ୍ତୁ
+downloads-cmd-cancel-panel =
+    .aria-label = ବାତିଲ କରନ୍ତୁ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
