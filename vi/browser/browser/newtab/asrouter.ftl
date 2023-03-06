@@ -271,3 +271,8 @@ cfr-cookiebanner-reject-button-variant-2 = Không phải bây giờ
 july-jam-headline = Chúng tôi đã giúp bạn được bảo vệ
 july-jam-body = Mỗi tháng, { -brand-short-name } chặn trung bình hơn 3.000 trình theo dõi trên mỗi người dùng, giúp bạn truy cập Internet tốt một cách an toàn, nhanh chóng.
 july-jam-set-default-primary = Mở liên kết của tôi bằng { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Các tập tin PDF của bạn bây giờ mở trong { -brand-short-name }.</strong> Chỉnh sửa hoặc ký biểu mẫu trực tiếp trong trình duyệt của bạn. Để thay đổi, tìm kiếm “PDF” trong cài đặt.
+set-default-pdf-handler-primary = Đã hiểu
