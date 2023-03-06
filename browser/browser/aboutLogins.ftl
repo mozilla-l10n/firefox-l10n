@@ -43,6 +43,10 @@ login-list-count =
     { $count ->
        *[other] { $count } thông tin đăng nhập
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count = { $count }/{ $total } thông tin đăng nhập
 login-list-sort-label-text = Sắp xếp theo:
 login-list-name-option = Tên (A-Z)
 login-list-name-reverse-option = Tên (Z-A)
