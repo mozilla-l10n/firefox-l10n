@@ -101,22 +101,22 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (סגו�
 
 ##
 
-about-webrtc-local-candidate = Local Candidate
-about-webrtc-remote-candidate = Remote Candidate
+about-webrtc-local-candidate = מועמד מקומי
+about-webrtc-remote-candidate = מועמד מרוחק
 about-webrtc-raw-candidates-heading = כל המועמדים הגולמיים
-about-webrtc-raw-local-candidate = מועמדים גולמיים מקומיים
+about-webrtc-raw-local-candidate = מועמד גולמי מקומי
 about-webrtc-raw-remote-candidate = מועמד מרוחק גולמי
 about-webrtc-raw-cand-show-msg = הצגת מועמדים גולמיים
-    .title = click to expand this section
+    .title = יש ללחוץ כדי להרחיב מקטע זה
 about-webrtc-raw-cand-hide-msg = הסתרת מועמדים גולמיים
-    .title = click to collapse this section
-about-webrtc-priority = Priority
+    .title = יש ללחוץ כדי לצמצם מקטע זה
+about-webrtc-priority = עדיפות
 about-webrtc-fold-show-msg = הצגת פרטים
     .title = יש ללחוץ כדי להרחיב את מקטע זה
 about-webrtc-fold-hide-msg = הסתרת פרטים
     .title = יש ללחוץ כדי לצמצם את מקטע זה
-about-webrtc-decoder-label = Decoder
-about-webrtc-encoder-label = Encoder
+about-webrtc-decoder-label = מפענח
+about-webrtc-encoder-label = מקודד
 about-webrtc-show-tab-label = הצגת לשונית
 about-webrtc-width-px = רוחב (px)
 about-webrtc-height-px = גובה (px)
@@ -134,6 +134,8 @@ about-webrtc-pc-configuration-hide-msg = הסתרת תצורה
 
 ##
 
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = העדפות WebRTC שהוגדרו על־ידי המשתמש
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = רוחב פס משוער
 
