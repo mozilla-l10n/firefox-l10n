@@ -48,6 +48,18 @@ login-list-count =
         [many] { $count } mewngofnod
        *[other] { $count } mewngofnod
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [zero] { $count } o { $total } mewngofnod
+        [one] { $count } o { $total } mewngofnod
+        [two] { $count } o { $total } mewngofnod
+        [few] { $count } o { $total } mewngofnod
+        [many] { $count } o { $total } mewngofnod
+       *[other] { $count } o { $total } mewngofnod
+    }
 login-list-sort-label-text = Trefnu yn ôl
 login-list-name-option = Enw (A-Z)
 login-list-name-reverse-option = Enw (Z-A)

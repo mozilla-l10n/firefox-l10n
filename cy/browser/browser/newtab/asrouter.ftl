@@ -286,3 +286,8 @@ cfr-cookiebanner-reject-button-variant-2 = Nid Nawr
 july-jam-headline = Rydyn ni yn eich cefnogi chi
 july-jam-body = Bob mis, mae { -brand-short-name } yn rhwystro 3,000+ o dracwyr fesul defnyddiwr ar gyfartaledd, gan roi mynediad diogel a chyflym i'r rhyngrwyd da i chi.
 july-jam-set-default-primary = Agor fy nolenni gyda { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Mae'ch ffeiliau PDF nawr yn agor yn { -brand-short-name }.</strong> Golygwch neu llofnodwch ffurflenni o fewn eich porwr. I newid, chwiliwch am "PDF" yn y gosodiadau.
+set-default-pdf-handler-primary = Iawn
