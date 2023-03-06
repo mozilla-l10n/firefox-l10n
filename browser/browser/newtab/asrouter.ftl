@@ -280,3 +280,8 @@ cfr-cookiebanner-reject-button-variant-2 = Ne zdaj
 july-jam-headline = Stojimo vam ob strani
 july-jam-body = { -brand-short-name } vsak mesec v povprečju zavrne več kot 3000 sledilcev na uporabnika, s tem pa vam nudi varen in hiter dostop do najboljših mest na internetu.
 july-jam-set-default-primary = Odpiraj povezave v { -brand-short-name(sklon: "mestnik") }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Datoteke PDF zdaj za vas odpira { -brand-short-name }.</strong> Sedaj lahko urejate in podpisujete obrazce neposredno v brskalniku. Če želite to spremeniti, v nastavitvah poiščite “PDF”.
+set-default-pdf-handler-primary = Razumem
