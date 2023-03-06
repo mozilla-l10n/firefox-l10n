@@ -160,6 +160,7 @@ spotlight-learn-more-expanded = Tetamäx ch'aqa' chik
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Achi'el nawokisaj jun ajwinäq Wi-Fi k'amaya'l
+spotlight-public-wifi-vpn-body = Tewäx ri k'ojlib'äl chuqa' ri  rusamajixik okem pa k'amaya'l, tawokisaj jun kematz'ib'il ichinan k'amab'ey. Xkaruto' richin yachajïx toq yatok pa k'amaya'l pa winaqil taq k'ojlib'äl achi'el xik'ab'äl chuqa' kik'ojlib'al kape'.
 spotlight-public-wifi-vpn-primary-button = Tachajij ri awichinanem rik'in { -mozilla-vpn-brand-name }
     .accesskey = h
 spotlight-public-wifi-vpn-link = Wakami Mani
@@ -245,3 +246,6 @@ cfr-cookiebanner-reject-button-variant-2 = Wakami mani
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-set-default-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
