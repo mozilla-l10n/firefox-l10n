@@ -43,6 +43,10 @@ login-list-count =
     { $count ->
        *[other] { $count } 筆登入資訊
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count = 找到 { $count } 筆，共 { $total } 筆登入資訊
 login-list-sort-label-text = 排序依照:
 login-list-name-option = 名稱（A-Z 排序）
 login-list-name-reverse-option = 名稱（Z-A 排序）
