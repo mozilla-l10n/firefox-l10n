@@ -269,3 +269,7 @@ cfr-cookiebanner-reject-button-variant-2 = 暂时不要
 july-jam-headline = 保护您是我的职责
 july-jam-body = { -brand-short-name } 为每位用户月均拦截超过 3,000 个跟踪器，给您带来安全快速的良好互联网体验。
 july-jam-set-default-primary = 用 { -brand-short-name } 打开我的链接
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>您的 PDF 文件现在可以在 { -brand-short-name } 中打开。</strong>请直接在您的浏览器中编辑或签署表格。要更改，请在设置中搜索“PDF”。
