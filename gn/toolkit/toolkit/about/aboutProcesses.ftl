@@ -125,6 +125,9 @@ about-processes-utility-actor-audio-decoder-generic = Mba’epu papapy’oha ha�
 about-processes-utility-actor-audio-decoder-applemedia = Apple mba’epu papapy’oha
 about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework mba’epu mbopapapy’oha
 about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
+# "Oracle" refers to an internal Firefox process and should be kept in English
+about-processes-utility-actor-js-oracle = JavaScript Ykekoha
+about-processes-utility-actor-windows-utils = Windows kuave’ẽmby
 
 ## Displaying CPU (percentage and total)
 ## Variables:
