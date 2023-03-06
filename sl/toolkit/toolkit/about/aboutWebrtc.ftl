@@ -245,7 +245,7 @@ about-webrtc-sdp-set-at-timestamp-local = Lokalni SDP nastavljen s časovnim ži
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
-about-webrtc-sdp-set-at-timestamp-remote = Nastavi oddaljeni SDP na časovni žig { NUMBER($timestamp, useGrouping: "false") }
+about-webrtc-sdp-set-at-timestamp-remote = Oddaljen SDP nastavljen s časovnim žigom { NUMBER($timestamp, useGrouping: "false") }
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
