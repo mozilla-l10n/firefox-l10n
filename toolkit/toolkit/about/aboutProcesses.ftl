@@ -127,6 +127,7 @@ about-processes-utility-actor-audio-decoder-wmf = Décodeur audio Windows Media 
 about-processes-utility-actor-mf-media-engine = CDM du moteur multimédia Windows Media Foundation
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = Oracle JavaScript
+about-processes-utility-actor-windows-utils = Utilitaires Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:
