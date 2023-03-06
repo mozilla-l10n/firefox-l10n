@@ -73,6 +73,17 @@ restart-later = Khởi động lại sau
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kiểm soát cài đặt này.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,12 +166,19 @@ browser-containers-settings =
     .label = Cài đặt…
     .accesskey = i
 containers-disable-alert-title = Đóng tất cả các ngăn chứa thẻ?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc = Nếu bạn vô hiệu hóa ngăn chứa thẻ bây giờ, { $tabCount } thẻ trong ngăn chứa sẽ bị đóng. Bạn có chắc muốn vô hiệu hóa ngăn chứa thẻ?
 containers-disable-alert-ok-button = Đóng { $tabCount } thẻ trong ngăn chứa
+
+##
+
 containers-disable-alert-cancel-button = Tiếp tục bật
 containers-remove-alert-title = Xóa ngăn chứa này?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg = Nếu bạn xóa ngăn chứa này bây giờ, { $count } thẻ trong ngăn chứa sẽ bị đóng. Bạn có chắc muốn xóa ngăn chứa này?
 containers-remove-ok-button = Xóa ngăn chứa này
 containers-remove-cancel-button = Không xóa ngăn chứa này
@@ -218,6 +236,8 @@ advanced-fonts =
 preferences-zoom-header = Thu phóng
 preferences-default-zoom = Thu phóng mặc định
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -310,15 +330,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Luôn hỏi
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Dùng { $plugin-name } (trong { -brand-short-name })
 applications-open-inapp =
@@ -361,6 +381,8 @@ play-drm-content =
 play-drm-content-learn-more = Tìm hiểu thêm
 update-application-title = Cập nhật { -brand-short-name }
 update-application-description = Giữ { -brand-short-name } luôn cập nhật để đạt được hiệu năng, sự ổn định, và bảo mật tốt nhất.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Phiên bản { $version } <a data-l10n-name="learn-more">Có gì mới</a>
 update-history =
     .label = Hiển thị lịch sử cập nhật…
@@ -387,7 +409,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Lỗi khi lưu cài đặt Cập nhật
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -417,7 +439,7 @@ performance-limit-content-process-option = Giới hạn xử lý nội dung
 performance-limit-content-process-enabled-desc = Các tiến trình xử lý nội dung bổ sung có thể cải thiện hiệu suất khi sử dụng nhiều thẻ một lúc, nhưng cũng sẽ tiêu tốn nhiều bộ nhớ.
 performance-limit-content-process-blocked-desc = Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với { -brand-short-name } đa tiến trình. <a data-l10n-name="learn-more">Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (mặc định)
 
@@ -523,6 +545,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Được đề xuất bởi { $provider }
 home-prefs-recommended-by-description-new = Nội dung đặc biệt do { $provider }, một phần của { -brand-product-name }, quản lý
@@ -552,6 +578,8 @@ home-prefs-recent-activity-description = Tuyển chọn các trang và nội dun
 home-prefs-snippets-header =
     .label = Ghi chú nhỏ
 home-prefs-snippets-description-new = Mẹo và tin tức từ { -vendor-short-name } và { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label = { $num } hàng
 
@@ -612,7 +640,7 @@ search-find-more-link = Tìm các công cụ tìm kiếm khác
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Nhân bản Từ khóa
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Bạn đã chọn một từ khóa hiện đang được dùng bởi "{ $name }". Vui lòng chọn từ khác.
 search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đang được dùng bởi một dấu trang. Vui lòng chọn từ khác.
 
@@ -659,8 +687,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Quản lý tài khoản
     .accesskey = k
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } chưa được kiểm tra.
 sync-signedin-login-failure = Xin hãy đăng nhập để kết nối lại { $email }
+
+##
+
 sync-resend-verification =
     .label = Gửi lại xác nhận
     .accesskey = d
@@ -874,8 +909,8 @@ history-clear-button =
 sitedata-header = Cookie và dữ liệu trang
 sitedata-total-size-calculating = Đang tính toán kích thước bộ nhớ đệm và dữ liệu trang…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie, dữ liệu trang và bộ nhớ đệm của bạn hiện đang sử dụng { $value } { $unit } dung lượng đĩa.
 sitedata-learn-more = Tìm hiểu thêm
 sitedata-delete-on-close =
