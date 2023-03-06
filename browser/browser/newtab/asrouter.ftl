@@ -271,3 +271,7 @@ cfr-cookiebanner-reject-button-variant-2 = 나중에
 july-jam-headline = 저희가 사용자를 보호합니다
 july-jam-body = 매달 { -brand-short-name }는 사용자당 평균 3,000개 이상의 추적기를 차단하여 좋은 인터넷에 안전하고 빠르게 액세스할 수 있도록 합니다.
 july-jam-set-default-primary = { -brand-short-name }로 내 링크 열기
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = 확인
