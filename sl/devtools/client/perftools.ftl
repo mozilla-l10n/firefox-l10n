@@ -63,8 +63,14 @@ perftools-button-edit-settings = Uredi nastavitve …
 
 perftools-thread-gecko-main =
     .title = Glavni procesi za nadrejeni proces in za procese vsebine
+perftools-thread-compositor =
+    .title = Sestavi različne naslikane elemente na strani
+perftools-thread-renderer =
+    .title = Ko je omogočen WebRender: nit, ki izvaja klice OpenGL
 perftools-thread-render-backend =
     .title = Nit WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Ko je omogočeno slikanje zunaj glavne niti: nit, na kateri se izvaja izrisovanje
 perftools-thread-style-thread =
     .title = Izračunavanje sloga je razdeljeno med več niti
 perftools-thread-img-decoder =
@@ -96,6 +102,11 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Spletni razvoj

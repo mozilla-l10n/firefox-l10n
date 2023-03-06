@@ -46,6 +46,16 @@ login-list-count =
         [few] { $count } prijave
        *[other] { $count } prijav
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } od { $total } prijave
+        [two] { $count } od { $total } prijav
+        [few] { $count } od { $total } prijav
+       *[other] { $count } od { $total } prijav
+    }
 login-list-sort-label-text = Razvrsti po:
 login-list-name-option = Imenu (A–Ž)
 login-list-name-reverse-option = Imenu (Ž–A)

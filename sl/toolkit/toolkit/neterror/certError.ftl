@@ -80,10 +80,10 @@ dnsNotFound-title = Hmm, pri iskanju te strani imamo težave.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Možno varnostno tveganje za { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Možno varnostno tveganje pri iskanju te domene
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Možno varnostno tveganje za { $hostname }.
+dns-not-found-trr-only-title2 = Možno varnostno tveganje pri iskanju te domene
+dns-not-found-native-fallback-title2 = Možno varnostno tveganje pri iskanju te domene
 fileNotFound-title = Datoteke ni mogoče najti
 fileAccessDenied-title = Dostop do datoteke je bil zavrnjen
 generic-title = Ups.
