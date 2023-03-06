@@ -45,6 +45,16 @@ login-list-count =
         [few] { $count } лагіны
        *[many] { $count } лагінаў
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } з { $total } лагіна
+        [few] { $count } з { $total } лагінаў
+        [many] { $count } з { $total } лагінаў
+       *[other] { $count } з { $total } лагінаў
+    }
 login-list-sort-label-text = Парадкаванне:
 login-list-name-option = Назва (А-Я)
 login-list-name-reverse-option = Назва (Я-А)
