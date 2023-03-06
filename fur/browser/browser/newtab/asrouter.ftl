@@ -274,3 +274,8 @@ cfr-cookiebanner-reject-button-variant-2 = No cumò
 july-jam-headline = Ti tignìn al sigûr
 july-jam-body = Ogni mês, { -brand-short-name } al bloche une medie di 3,000+ spiis par utent, danti un acès sigûr e svelt ae part miôr di internet.
 july-jam-set-default-primary = Vierç i miei colegaments cun { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Cumò i tiei PDFs si vierzin in { -brand-short-name }.</strong> Modifiche o firme i formularis dret dal to navigadôr. Par cambiâ, cîr “PDF” tes impostazions.
+set-default-pdf-handler-primary = Capît
