@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } tikirib'äl molojri'ïl
        *[other] { $count } tikirib'äl taq molojri'ïl
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } richin { $total } molojri'ïl
+       *[other] { $count } richin { $total } taq molojri'ïl
+    }
 login-list-sort-label-text = Tichol chi:
 login-list-name-option = B'i'aj (A-Y)
 login-list-name-reverse-option = B'i'aj (Z-A)
