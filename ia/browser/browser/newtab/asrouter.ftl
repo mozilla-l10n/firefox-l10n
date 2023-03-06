@@ -274,3 +274,7 @@ cfr-cookiebanner-reject-button-variant-2 = Non ora
 july-jam-headline = Nos te mantene secur
 july-jam-body = Cata mense, { -brand-short-name } bloca un media de plus de 3000 traciatores per usator pro dar te accesso secur e veloce al bon internet.
 july-jam-set-default-primary = Aperir mi ligamines con { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Comprendite
