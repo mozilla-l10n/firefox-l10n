@@ -43,6 +43,10 @@ login-list-count =
     { $count ->
        *[other] { $count } 条登录信息
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count = { $count } 次/共 { $total } 次登录
 login-list-sort-label-text = 顺序：
 login-list-name-option = 名称（A-Z）
 login-list-name-reverse-option = 名称（Z-A）

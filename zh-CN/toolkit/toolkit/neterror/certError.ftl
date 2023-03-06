@@ -80,10 +80,10 @@ dnsNotFound-title = 呃…找不到此网站。
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = { $hostname } 可能存在安全风险。
 # Variables:
-dns-not-found-trr-only-title2 = 查询此域名可能存在安全风险
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = { $hostname } 可能存在安全风险。
+dns-not-found-trr-only-title2 = 查询此域名可能存在安全风险
+dns-not-found-native-fallback-title2 = 查询此域名可能存在安全风险
 fileNotFound-title = 找不到文件
 fileAccessDenied-title = 对该文件的访问请求被拒绝
 generic-title = 哎呀。
