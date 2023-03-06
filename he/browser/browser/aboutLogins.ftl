@@ -44,6 +44,14 @@ login-list-count =
         [one] כניסה אחת
        *[other] { $count } כניסות
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } מתוך כניסה אחת
+       *[other] { $count } מתוך { $total } כניסות
+    }
 login-list-sort-label-text = מיון לפי:
 login-list-name-option = שם (A-Z)
 login-list-name-reverse-option = שם (Z-A)
