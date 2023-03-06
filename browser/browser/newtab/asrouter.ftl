@@ -274,3 +274,7 @@ cfr-cookiebanner-reject-button-variant-2 = Pas ara
 july-jam-headline = Asseguram vòstra proteccion
 july-jam-body = Cada mes, { -brand-short-name } bloca una mejana de 3 000 traçadors per utilizaire, per tal qu’ajatz accès a un Internet segur e rapid.
 july-jam-set-default-primary = Dobrir mos ligams dins { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Comprés !
