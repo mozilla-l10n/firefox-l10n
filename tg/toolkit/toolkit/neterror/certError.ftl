@@ -80,10 +80,10 @@ dnsNotFound-title = Мутаассифона, ин сомона кушода н�
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Хатари амният барои { $hostname } имконпазир аст.
 # Variables:
-dns-not-found-trr-only-title2 = Ҳавфи амният ҳангоми ҷустуҷӯи ин домен имконпазир аст
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Хатари амният барои { $hostname } имконпазир аст.
+dns-not-found-trr-only-title2 = Ҳавфи амният ҳангоми ҷустуҷӯи ин домен имконпазир аст
+dns-not-found-native-fallback-title2 = Ҳавфи амният ҳангоми ҷустуҷӯи ин домен имконпазир аст
 fileNotFound-title = Файл ёфт нашуд
 fileAccessDenied-title = Дастрасӣ ба файл манъ карда шуд
 generic-title = Оҳ!

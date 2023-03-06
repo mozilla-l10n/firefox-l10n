@@ -137,6 +137,12 @@ about-webrtc-local-receive-ssrc = SSRC-и қабулкунии маҳаллӣ
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = SSRC-и ирсолкунии дурдаст
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+about-webrtc-pc-configuration-show-msg = Намоиш додани танзимот
+about-webrtc-pc-configuration-hide-msg = Пинҳон кардани танзимот
+
 ##
 
 # An option whose value will not be displayed but instead noted as having been
@@ -246,6 +252,11 @@ about-webrtc-sdp-set-at-timestamp-remote = Танзими тамғаи вақт�
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Тамғаи вақти { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } мс)
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+about-webrtc-show-msg-sdp = Намоиш додани SDP
+about-webrtc-hide-msg-sdp = Пинҳон кардани SDP
 
 ##
 
