@@ -173,6 +173,7 @@ spotlight-public-wifi-vpn-link = Wakami Mani
 spotlight-total-cookie-protection-header =
     Tatojtob'ej ri qana'ob'al richin
     ichinanem, ri nimaläj pa qab'anob'al
+spotlight-total-cookie-protection-body = Chijun Kichajixik Kuki man nuya' ta q'ij chi ri taq ojqanela' yekokisaj taq kuki richin yenachäx pa k'amab'ey.
 spotlight-total-cookie-protection-secondary-button = Wakami mani
 
 ## Emotive Continuous Onboarding
