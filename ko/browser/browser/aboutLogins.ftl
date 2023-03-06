@@ -43,6 +43,10 @@ login-list-count =
     { $count ->
        *[other] 로그인 { $count }개
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count = { $count } / { $total } 로그인
 login-list-sort-label-text = 정렬 기준:
 login-list-name-option = 이름 (A-Z)
 login-list-name-reverse-option = 이름 (Z-A)

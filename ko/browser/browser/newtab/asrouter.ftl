@@ -274,4 +274,5 @@ july-jam-set-default-primary = { -brand-short-name }로 내 링크 열기
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>이제 PDF가 { -brand-short-name }에서 열립니다.</strong> 브라우저에서 직접 양식을 편집하거나 서명하세요. 변경하려면, 설정에서 "PDF"를 검색하세요.
 set-default-pdf-handler-primary = 확인
