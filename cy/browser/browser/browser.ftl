@@ -827,6 +827,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = E-bostio'r Ddolen
     .tooltiptext = E-bostio dolen i'r dudalen hon
+toolbar-button-logins =
+    .label = Cyfrineiriau
+    .tooltiptext = Gweld a rheoli eich cyfrineiriau ar gadw
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
