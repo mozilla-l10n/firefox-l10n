@@ -808,6 +808,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Ирсоли пайванд тавассути почта
     .tooltiptext = Ирсоли пайванд ба ин саҳифа тавассути почта
+toolbar-button-logins =
+    .label = Ниҳонвожаҳо
+    .tooltiptext = Ниҳонвожаҳои худро бинед ва идора намоед
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
