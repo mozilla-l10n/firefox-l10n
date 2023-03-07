@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utilizaires
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Fòra las bandièras de cookies !
-cfr-cookie-banner-handling-body = Permetre a { -brand-short-name } de regetar automaticament las demandas de cookies, quand es possible. Autrament, totes los cookies seràn acceptats per suprimir las bandièras de cookies.
-cfr-cookie-banner-accept-button = Regetar las demandas
-    .accesskey = R
-cfr-cookie-banner-reject-button = Pas ara
-    .accesskey = P
-cfr-cookie-banner-handling-header-variant-1 = Veire mens de fenèstras sorgissentas de cookies
-cfr-cookie-banner-handling-body-variant-1 = Permetre a { -brand-short-name } de gerir automaticament las fenèstras sorgissentas de cookies per vos que trapetz una navegacion sens distraccion. { -brand-short-name } regetarà totas las demandas se possible, autrament las acceptarà totas.
-cfr-cookie-banner-accept-button-variant-1 = Regetar las fenèstras sorgissentas
-    .accesskey = R
-cfr-cookie-banner-reject-button-variant-1 = Non mercés
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Reduccion de las bandièras de cookies
-cfr-cookie-banner-handling-body-variant-2 = Permetre a { -brand-short-name } de refusar la demanda de consentiment als cookies d’un site se possible o acceptar l’accès als cookies quand es pas possible ?
-cfr-cookie-banner-accept-button-variant-2 = Autorizar
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = Pas ara
-    .accesskey = P
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizatz vòstres marcapaginas pertot.
@@ -277,4 +254,5 @@ july-jam-set-default-primary = Dobrir mos ligams dins { -brand-short-name }
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Vòstres fichièrs PDF se dobrisson d’ara enlà dins { -brand-short-name }.</strong> Modificatz o signatz de formularis dirèctament del navegador estant. Per modificar aqueste compòrtament, cercatz « PDF » als paramètres.
 set-default-pdf-handler-primary = Comprés !

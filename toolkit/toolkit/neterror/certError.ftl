@@ -80,10 +80,10 @@ dnsNotFound-title = Umm. capitam pas a trobar aqueste site.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Risc de seguretat potencial per { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Possible risc de seguretat pendent la resolucion d’aqueste domeni
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Risc de seguretat potencial per { $hostname }.
+dns-not-found-trr-only-title2 = Possible risc de seguretat pendent la resolucion d’aqueste domeni
+dns-not-found-native-fallback-title2 = Possible risc de seguretat pendent la resolucion d’aqueste domeni
 fileNotFound-title = Fichièrs pas trobat
 fileAccessDenied-title = L'accès al fichièr es estat refusat
 generic-title = La requèsta pòt pas abotir
