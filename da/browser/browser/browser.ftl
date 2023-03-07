@@ -811,6 +811,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Send link
     .tooltiptext = Send link til siden i en mail…
+toolbar-button-logins =
+    .label = Adgangskoder
+    .tooltiptext = Se og håndter dine gemte adgangskoder
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
