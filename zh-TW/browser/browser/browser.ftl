@@ -808,6 +808,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = 寄送鏈結
     .tooltiptext = 寄出本頁面的鏈結
+toolbar-button-logins =
+    .label = 密碼
+    .tooltiptext = 檢視與管理您儲存的密碼
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
