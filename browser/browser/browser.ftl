@@ -807,6 +807,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = שליחת קישור בדוא״ל
     .tooltiptext = שליחת קישור לדף זה בדוא״ל
+toolbar-button-logins =
+    .label = ססמאות
+    .tooltiptext = הצגה וניהול הססמאות השמורות שלך
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
