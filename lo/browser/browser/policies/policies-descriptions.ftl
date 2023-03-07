@@ -13,9 +13,12 @@
 policy-AppUpdateURL = ຕັ້ງ URL ການອັບເດດແອັບຯແບບກຳນົດເອງ.
 policy-BackgroundAppUpdate2 = ເປີດຫຼືປິດການອັບເດດພື້ນຫລັງ.
 policy-DisabledCiphers = ປິດການໃຊ້ງານລະຫັດລັບ.
+policy-InstallAddonsPermission = ອະນຸຍາດໃຫ້ບາງເວັບໄຊທ໌ຕິດຕັ້ງ add-ons.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-NewTabPage = ເປີດ ຫຼືປິດໜ້າແຖບໃໝ່.
+policy-Proxy = ກຳນົດການຕັ້ງຄ່າພຣັອກຊີ.

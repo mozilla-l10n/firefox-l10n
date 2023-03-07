@@ -13,6 +13,9 @@
 onboarding-welcome-header = ຍິນດີຕ້ອນຮັບສູ່ { -brand-short-name }
 onboarding-start-browsing-button-label = ເລີ່ມການທ່ອງເວັບ
 onboarding-not-now-button-label = ບໍ່ແມ່ນຕອນນີ້
+mr1-onboarding-get-started-primary-button-label = ເລີ່ມຕົ້ນໃຊ້ງານ
+mr1-onboarding-welcome-header = ຍິນດີຕ້ອນຮັບສູ່ { -brand-short-name }
+mr1-onboarding-set-default-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
 
 ## Custom Return To AMO onboarding strings
 
@@ -72,11 +75,7 @@ mr1-onboarding-reduce-motion-button-label = ປິດການເຄື່ອນ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = ເລີ່ມຕົ້ນໃຊ້ງານ
-mr1-onboarding-welcome-header = ຍິນດີຕ້ອນຮັບສູ່ { -brand-short-name }
-mr1-onboarding-set-default-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = ເຂົ້າສູ່ລະບົບ
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -368,3 +367,5 @@ mr2022-onboarding-import-image-alt =
     .aria-label = ຄົນຂີ່ສະເກັດບອດທີ່ມີໄອຄອນຂອງຊອບແວ
 mr2022-onboarding-mobile-download-image-alt =
     .aria-label = ກົບໂດດຂ້າມແຜ່ນໃບບົວດ້ວຍລະຫັດ QR ເພື່ອດາວໂຫຼດ { -brand-product-name } ສຳລັບມືຖືຢູ່ໃຈກາງ
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = ມືທີ່ມີຜິວໜັງອ່ອນ ແລະສີເຂັ້ມ, ສູງຫ້າ
