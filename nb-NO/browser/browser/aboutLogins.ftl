@@ -49,8 +49,8 @@ login-list-count =
 #   $total (number) - Total number of logins
 login-list-filtered-count =
     { $total ->
-        [one] { $current } av { $total } innlogging
-       *[other] { $current } av { $total } innlogginger
+        [one] { $count } av { $total } innlogging
+       *[other] { $count } av { $total } innlogginger
     }
 login-list-sort-label-text = Sorter etter:
 login-list-name-option = Navn (A-Å)
