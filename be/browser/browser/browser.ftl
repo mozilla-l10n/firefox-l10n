@@ -815,6 +815,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Даслаць спасылку поштай
     .tooltiptext = Даслаць спасылку на гэту старонку электроннай поштай
+toolbar-button-logins =
+    .label = Паролі
+    .tooltiptext = Прагляд і кіраванне вашымі захаванымі паролямі
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
