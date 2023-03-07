@@ -811,6 +811,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Madar per corrièr electronic un ligam cap a la pagina…
     .tooltiptext = Enviar per corrièl lo ligam d’aquesta pagina
+toolbar-button-logins =
+    .label = Senhals
+    .tooltiptext = Veire e gerir los senhals salvats
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
