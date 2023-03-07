@@ -80,10 +80,10 @@ dnsNotFound-title = Гм. Ніяк не вдається знайти цей с�
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Ймовірний ризик безпеки для { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Ймовірна загроза безпеки під час перегляду на цьому домені
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Ймовірний ризик безпеки для { $hostname }.
+dns-not-found-trr-only-title2 = Ймовірна загроза безпеки під час перегляду на цьому домені
+dns-not-found-native-fallback-title2 = Ймовірна загроза безпеки під час перегляду на цьому домені
 fileNotFound-title = Файл не знайдено
 fileAccessDenied-title = Доступ до файлу заборонено
 generic-title = Ой.
