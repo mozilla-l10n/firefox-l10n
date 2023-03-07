@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Interne werking van WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc opslaan als
@@ -19,7 +18,6 @@ about-webrtc-aec-logging-msg-label = AEC-registratie
 about-webrtc-aec-logging-off-state-label = AEC-registratie starten
 about-webrtc-aec-logging-on-state-label = AEC-registratie stoppen
 about-webrtc-aec-logging-on-state-msg = AEC-registratie actief (spreek enkele minuten met de beller en stop daarna het vastleggen)
-
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatisch vernieuwen
 
@@ -62,8 +60,6 @@ about-webrtc-ice-pair-bytes-sent = Bytes verzonden:
 about-webrtc-ice-pair-bytes-received = Bytes ontvangen:
 about-webrtc-ice-component-id = Onderdeel-ID
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -76,12 +72,10 @@ about-webrtc-type-remote = Extern
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Benoemd
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Geselecteerd
-
 about-webrtc-save-page-label = Pagina opslaan
 about-webrtc-debug-mode-msg-label = Debugmodus
 about-webrtc-debug-mode-off-state-label = Debugmodus starten
@@ -143,41 +137,37 @@ about-webrtc-local-receive-ssrc = Lokale ontvangende SSRC
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = Op afstand verzendende SSRC
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+about-webrtc-pc-configuration-show-msg = Configuratie tonen
+about-webrtc-pc-configuration-hide-msg = Configuratie verbergen
+
 ##
 
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Voorzien
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Niet voorzien
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Door gebruiker ingestelde WebRTC-voorkeuren
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Geschatte bandbreedte
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Trackidentificatie
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Bandbreedte voor verzenden (bytes/sec)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Bandbreedte voor ontvangen (bytes/sec)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maximale opvulling (bytes/sec)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Snelheidsvertraging ms
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -204,7 +194,6 @@ about-webrtc-frames =
         [one] { $frames } frame
        *[other] { $frames } frames
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -213,7 +202,6 @@ about-webrtc-channels =
         [one] { $channels } kanaal
        *[other] { $channels } kanalen
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -222,7 +210,6 @@ about-webrtc-received-label =
         [one] { $packets } pakket ontvangen
        *[other] { $packets } pakketten ontvangen
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -231,7 +218,6 @@ about-webrtc-lost-label =
         [one] { $packets } pakket verloren
        *[other] { $packets } pakketten verloren
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -240,13 +226,11 @@ about-webrtc-sent-label =
         [one] { $packets } pakket verzonden
        *[other] { $packets } pakketten verzonden
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -259,17 +243,20 @@ about-webrtc-trickle-caption-msg = ‘Trickled’ kandidaten (ontvangen na antwo
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Lokaal SDP op tijdstempel { NUMBER($timestamp, useGrouping: "false") } instellen
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Extern SDP op tijdstempel { NUMBER($timestamp, useGrouping: "false") } instellen
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Tijdstempel { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+about-webrtc-show-msg-sdp = SDP tonen
+about-webrtc-hide-msg-sdp = SDP verbergen
 
 ##
 
