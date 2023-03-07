@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } aanmelding
        *[other] { $count } aanmeldingen
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $current } van { $total } aanmelding
+       *[other] { $current } van { $total } aanmeldingen
+    }
 login-list-sort-label-text = Sorteren op:
 login-list-name-option = Naam (A-Z)
 login-list-name-reverse-option = Naam (Z-A)
