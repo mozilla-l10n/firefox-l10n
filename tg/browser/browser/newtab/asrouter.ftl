@@ -276,4 +276,5 @@ july-jam-set-default-primary = Кушодани пайвандҳои ман ба
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Акнун файлҳои PDF-и шумо дар «{ -brand-short-name }» кушода мешаванд.</strong> Шаклҳоро мустақиман дар браузери худ таҳрир кунед ё ба онҳо имзо гузоред. Барои тағйир додани ин имкон, калимаи «PDF»-ро дар танзимот пайдо кунед.
 set-default-pdf-handler-primary = Фаҳмидам
