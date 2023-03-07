@@ -804,6 +804,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = 메일로 링크 보내기
     .tooltiptext = 메일로 이 페이지의 링크 보내기
+toolbar-button-logins =
+    .label = 비밀번호
+    .tooltiptext = 저장된 비밀번호 보기 및 관리
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
