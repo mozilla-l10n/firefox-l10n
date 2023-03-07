@@ -804,6 +804,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Gửi liên kết này qua email
     .tooltiptext = Gửi một thư điện tử chứa liên kết tới trang này
+toolbar-button-logins =
+    .label = Mật khẩu
+    .tooltiptext = Xem và quản lý mật khẩu đã lưu của bạn
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
