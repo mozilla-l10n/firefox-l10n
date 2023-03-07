@@ -808,6 +808,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Inviar le ligamine per email
     .tooltiptext = Inviar per email un ligamine a iste pagina
+toolbar-button-logins =
+    .label = Contrasignos
+    .tooltiptext = Vide e gere tu contrasignos salvate
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
