@@ -80,10 +80,10 @@ dnsNotFound-title = Hmm. Oĩ apañuãi ejuhu hag̃ua ko tenda.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = { $hostname } rekorosã ñembyaikuaa.
 # Variables:
-dns-not-found-trr-only-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = { $hostname } rekorosã oñembyaikuaa.
+dns-not-found-trr-only-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
+dns-not-found-native-fallback-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
 fileNotFound-title = Marandurenda ndojejuhúiva
 fileAccessDenied-title = Marandurendápe jeike noñemoneĩri
 generic-title = Oops.

@@ -811,6 +811,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Joajuha mondo
     .tooltiptext = Peteĩ joajuha ko kuatiaroguépe mondo
+toolbar-button-logins =
+    .label = Ñe’ẽñemi
+    .tooltiptext = Ehecha ha eñangareko ne ñe’ẽñemi ñongatupyrére
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
