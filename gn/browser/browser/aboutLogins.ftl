@@ -44,6 +44,15 @@ login-list-count =
         [one] { $count } tembiapo ñepyrũ
        *[other] { $count } Tembiapo ñepyrũ
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } { $total } rembiapo ñepyrũ
+        [many] { $count } { $total } rembiapo ñepyrũ
+       *[other] { $count } { $total } rembiapokuéra ñepyrũ
+    }
 login-list-sort-label-text = Omoĩporã:
 login-list-name-option = Téra  (A-Z)
 login-list-name-reverse-option = Téra (Z-A)
