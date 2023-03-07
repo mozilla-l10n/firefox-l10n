@@ -57,26 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuarios
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = ¡Se acabaron los banners de cookies!
-cfr-cookie-banner-accept-button = Descartar solicitudes
-    .accesskey = D
-cfr-cookie-banner-reject-button = Ahora no
-    .accesskey = A
-cfr-cookie-banner-handling-header-variant-1 = Ver menos ventanas emergentes de cookies
-cfr-cookie-banner-accept-button-variant-1 = Descartar ventanas emergentes
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = No, gracias
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Reducción de banner de cookies
-cfr-cookie-banner-accept-button-variant-2 = Permitir
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Ahora no
-    .accesskey = A
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza tus marcadores en todas partes.
@@ -248,6 +228,7 @@ colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = ¡Se acabaron los banners de cookies!
+cfr-cookiebanner-body = Permita que { -brand-short-name } rechace automáticamente todas las solicitudes de banner de cookies cuando sea posible.
 cfr-cookiebanner-accept-button-v2 = Rechazar solicitudes
     .accesskey = R
 cfr-cookiebanner-reject-button = Ahora no
@@ -268,3 +249,7 @@ cfr-cookiebanner-reject-button-variant-2 = Ahora no
 july-jam-headline = Nosotros te protegemos
 july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3,000 rastreadores por usuario, lo que brinda un acceso rápido y seguro a Internet bueno.
 july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Entendido
