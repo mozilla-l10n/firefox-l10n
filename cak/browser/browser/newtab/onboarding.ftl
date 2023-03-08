@@ -285,6 +285,8 @@ mr2022-onboarding-existing-pin-header = Niqak'awomaj chawe ruma nawajo' { -brand
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Tab'ana' chi ri { -brand-short-name } tok jeb'ël awokik'amaya'l
 mr2022-onboarding-set-default-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
 
 ## MR2022 Get Started screen strings.
