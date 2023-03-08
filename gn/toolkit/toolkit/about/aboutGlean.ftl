@@ -73,6 +73,13 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Eike kuatiaroguépe { glean-debug-ping-viewer-brand-name } ehecha hag̃ua umi ping nde reramoĩ reheve </a>.
     Ndoguerahamo’ãi heta aravo’ive votõ ejopy’ypy guive og̃uahẽ peve pe ping.
     Hákatu hetajey oguerahakuaa heta aravo’i.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Eha’ãve hag̃ua <i>ad hoc</i>,
+    avei ehechakuaa purupyrã repy ag̃aguáva
+    embojurujávo peteĩ tembipuru mba’e’okarupa ñemboguataha ko’ápe <code>about:glean</code>
+    ha eipurúvo pe API <code>testGetValue()</code> ko
+    <code>Glean.metricCategory.metricName.testGetValue()</code> ramo.
 controls-button-label-verbose = Emboheko ha emondo ping
 about-glean-about-data-header = Mba’ekuaarã rehegua
 about-glean-about-data-explanation =
