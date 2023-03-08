@@ -58,6 +58,10 @@ about-glean-about-testing-header = Ñeha’ã rehegua
 about-glean-no-ping-label = (aníke emondo ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Kora mboyvegua, ehecháke toĩ ñemboguaha reramoĩ hasy’ỹva iñemomandu’a eikuaa porã hag̃ua pings tenondeve.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Jeporavokuaáva. Emongurusu tenda’i hasaramóva eipotáramo umi ping oñemboheraguapy oñemondo vove.
+    Avei, katuete <a data-l10n-name="enable-logging-link">emyandy mboheraguapyha</a>.)
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
