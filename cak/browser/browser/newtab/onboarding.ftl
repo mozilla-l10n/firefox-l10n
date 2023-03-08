@@ -226,6 +226,8 @@ mr2-onboarding-start-browsing-button-label = Tichap okem pa k'amaya'l
 
 onboarding-live-language-header = Tacha' ach'ab'äl
 mr2022-onboarding-live-language-text = { -brand-short-name } nuch'ab'ej ach'ab'äl
+mr2022-language-mismatch-subtitle = Matyox chi re ri qatinamit, { -brand-short-name } q'alajsan pa 90 taq ch'ab'äl. Xa ke xa ri aq'inoj nrokisaj { $systemLanguage } chuqa' { -brand-short-name } nrokisaj { $appLanguage }.
+onboarding-live-language-button-label-downloading = Rik'in ri ruqasaxik ri tanaj ruch'ab'äl { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Yek'ut pe ri taq ch'ab'äl e k'o…
 onboarding-live-language-installing = Niyak ri tanaj ruch'ab'äl { $negotiatedLanguage }…
 mr2022-onboarding-live-language-switch-to = Tijal rik'in { $negotiatedLanguage }
@@ -253,6 +255,9 @@ fx100-thank-you-pin-primary-button-label =
        *[other] Tik'oje' { -brand-short-name } pa ri rukajtz'ik taq samaj
     }
 fx100-upgrade-thanks-header = 100 Matyox chawe
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Rik'in ri 100 relesanik { -brand-short-name }. Matyox <em>chawe</em> ruma yojato' chunuk'ik jun utziläj chuqa' raxinäq k'amaya'l.
 mr2022-onboarding-secondary-skip-button-label = Choj tik'o re jun ruxak re'
 
 ## MR2022 New User Easy Setup screen strings
