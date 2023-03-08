@@ -45,6 +45,16 @@ login-list-count =
         [few] { $count } prihlasovacie údaje
        *[other] { $count } prihlasovacích údajov
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } z { $total } záznamu
+        [few] { $count } z { $total } záznamov
+        [many] { $count } z { $total } záznamov
+       *[other] { $count } z { $total } záznamov
+    }
 login-list-sort-label-text = Zoradiť podľa:
 login-list-name-option = názvu (A-Z)
 login-list-name-reverse-option = názvu (Z-A)
