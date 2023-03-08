@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } okisanela'
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Xek'is ri taq kib'aner koki!
-cfr-cookie-banner-handling-body = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil keruxutuj ronojel ri taq ruk'utuxik kitzijol taq kuki, toq k'amonel. We mani xek'ulutäj ronojel ri taq kuki richin yexutüx ch'aqa' chik taq rutzijol.
-cfr-cookie-banner-accept-button = Tixutüx K'utuxïk
-    .accesskey = x
-cfr-cookie-banner-reject-button = Wakami mani
-    .accesskey = n
-cfr-cookie-banner-handling-header-variant-1 = Ketz'et jub'a' elenel taq kuki
-cfr-cookie-banner-handling-body-variant-1 = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil tutzolij kitzij ri elenel taq kuki richin majun nimejo' ri awokem pa k'amaya'l.{ -brand-short-name } xkeruxutuj ronojel ri taq taqoj xkekik'utuj we k'amonel, o xkek'ulutäj ronojel.
-cfr-cookie-banner-accept-button-variant-1 = Kexutüx elenel taq tzuwäch
-    .accesskey = x
-cfr-cookie-banner-reject-button-variant-1 = Mani matyox
-    .accesskey = M
-cfr-cookie-banner-handling-header-variant-2 = Kech'utinirisäx kitzijol kuki
-cfr-cookie-banner-handling-body-variant-2 = ¿La niya' q'ij chi ri { -brand-short-name } yeruxutuj taq ruk'utuxik kitaqoj rukuki jun ruxaq, we k'a ütz o tok pa ri taq kuki toq man tikirel ta?
-cfr-cookie-banner-accept-button-variant-2 = Tiya' q'ij
-    .accesskey = y
-cfr-cookie-banner-reject-button-variant-2 = Wakami mani
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Xab'akuchi' Ke'axima' ri taq ayaketal.
@@ -229,6 +206,8 @@ firefoxview-spotlight-promo-secondarybutton = Tik'o'
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Ticha' tunun b'onil
+    .accesskey = c
 
 ## Cookie Banner Handling CFR
 

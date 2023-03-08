@@ -811,6 +811,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Ximonel taqoya'l
     .tooltiptext = Titaq pa taqoya'l jun ximöy pa re ruxaq re'
+toolbar-button-logins =
+    .label = Ewan taq tzij
+    .tooltiptext = Ketz'et chuqa' kenuk'samajïx ri yakon ewan taq atzij
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
