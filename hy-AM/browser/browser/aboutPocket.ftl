@@ -17,7 +17,9 @@ pocket-panel-saved-error-only-links = Միայն հղումները կարող �
 pocket-panel-saved-error-not-saved = Էջը չի պահպանվել
 pocket-panel-saved-page-removed = Էջը հեռացված է
 pocket-panel-saved-page-saved = Պահպանված է { -pocket-brand-name }-ում
+pocket-panel-saved-page-saved-b = Պահված է { -pocket-brand-name }-ում
 pocket-panel-saved-processing-remove = Էջը հեռացվում է…
+pocket-panel-saved-removed = Էջը հեռացվել է Իմ ցուցակից
 pocket-panel-saved-processing-tags = Պիտակների հավելում…
 pocket-panel-saved-remove-page = Հեռացնել Էջը
 pocket-panel-saved-save-tags = Պահպանել
@@ -44,6 +46,7 @@ pocket-panel-signup-tagline-story-two = Դիտեք { -pocket-brand-name }-ում
 
 pocket-panel-home-my-list = Իմ ցուցակը
 pocket-panel-home-welcome-back = Բարի վերադարձ
+pocket-panel-home-explore-popular-topics = Ուսումնասիրեք հանրաճանաչ թեմաները
 pocket-panel-home-discover-more = Բացահայտի՛ր ավելին
 pocket-panel-home-explore-more = Դիտարկել
 pocket-panel-home-most-recent-saves = Ահա ձեր ամենավերջին պահումները.
@@ -53,6 +56,7 @@ pocket-panel-home-new-user-message = Տեսեք ձեր վերջին պահում
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Դիտել ցանկը
+pocket-panel-header-my-saves = Դիտեք Իմ պահածները
 pocket-panel-header-sign-in = Մուտք գործել
 
 ## Pocket panel buttons

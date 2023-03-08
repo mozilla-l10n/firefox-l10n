@@ -7,6 +7,8 @@ about-logins-page-title = Մուտքագրումներ և գաղտնաբառեր
 login-filter =
     .placeholder = Որոնել մուտքագրումներ
 create-login-button = Ստեղծել նոր մուտքագրում
+create-new-login-button =
+    .title = Ստեղծել նոր մուտքագրում
 fxaccounts-sign-in-text = Ստացեք ձեր գաղտնաբառերը ձեր մյուս սարքերում
 fxaccounts-sign-in-sync-button = Մուտք գործեք՝ համաժամեցնելու համար
 fxaccounts-avatar-button =
@@ -32,6 +34,8 @@ about-logins-menu-menuitem-help = Օգնություն
 
 login-list =
     .aria-label = Մուտքագրումների համապատասխանության որոնման հարցում
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } մուտքագրում
@@ -40,6 +44,8 @@ login-list-count =
 login-list-sort-label-text = Տեսակավարել ըստ՝
 login-list-name-option = Անվան (Ա-Ֆ)
 login-list-name-reverse-option = Անվան (Ա-Ֆ)
+login-list-username-option = Մականուն (A-Z)
+login-list-username-reverse-option = Մականուն (Z-A)
 about-logins-login-list-alerts-option = Զգուշացումներ
 login-list-last-changed-option = Վերջին փոփոխության
 login-list-last-used-option = Վերջին օգտագործման
@@ -91,6 +97,14 @@ login-item-time-changed = Վերջին փոփոխությունը ՝ { DATETIME(
 login-item-time-created = Ստեղծված. { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Վերջին անգամ օգտագործված ՝{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = Ստեղծված
+login-item-timeline-action-updated = Արդիացված
+login-item-timeline-action-used = Օգտագործված
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -135,6 +149,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողությունը չի կարող ետարկվել:
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Հեռացնել
@@ -152,6 +170,9 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Հեռացնե՞լ բոլոր { $count } մուտքագրումը:
        *[other] Հեռացնե՞լ բոլոր { $count } մուտքագրումները:
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանունները և գաղտնաբառերը
 about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կպահպանվեն որպես ընթեռնելի տեքստ (օր. ՝ BadP@ssw0rd), այնպես որ յուրաքանչյուրը, ով կարող է բացել արտահանվող ֆայլը, կարող է դիտել դրանք:
 about-logins-confirm-export-dialog-confirm-button = Արտահանել...

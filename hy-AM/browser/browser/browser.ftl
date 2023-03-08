@@ -118,6 +118,9 @@ urlbar-tip-icon-description =
     .alt = Հուշում.
 urlbar-result-menu-button =
     .title = Բացել ցանկը
+urlbar-result-menu-tip-get-help =
+    .label = Ստանալ օգնություն
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -175,6 +178,12 @@ page-action-manage-extension =
     .label = Կառավարել ընդլայնումը...
 page-action-remove-extension =
     .label = Հեռացնել ընդլայնումը
+page-action-manage-extension2 =
+    .label = Կառավարել ընդլայնումը...
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = Հեռացնել ընդլայնումը
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -233,6 +242,8 @@ search-one-offs-tabs =
     .tooltiptext = Ներդիրներ ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Պատմություն ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Գործողություններ ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -242,13 +253,11 @@ search-one-offs-history =
 quickactions-addons = Դիտել հավելումները
 quickactions-cmd-addons2 = Հավելումներ
 # Opens the bookmarks library window
-quickactions-bookmarks = Դիտել էջանիշները
+quickactions-bookmarks2 = Կառավարեք էջանիշները
 quickactions-cmd-bookmarks = Էջանիշեր
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Մաքրել պատմությունը
 quickactions-cmd-clearhistory = մաքրել պատմությունը
-# Opens about:downloads page
-quickactions-downloads = Բացել Ներբեռնումները
 # Opens about:downloads page
 quickactions-downloads2 = Ցուցադրել ներբեռնումները
 quickactions-cmd-downloads = ներբեռնումներ
@@ -256,15 +265,16 @@ quickactions-cmd-downloads = ներբեռնումներ
 quickactions-extensions = Կառավարել ընդլայնումները
 quickactions-cmd-extensions = ընդլայնումներ
 # Opens the devtools web inspector
-quickactions-inspector = Բացել տեսուչը
+quickactions-inspector2 = Բացել Մշակողի գործիքները
+# Opens about:logins
+quickactions-logins2 = Կառավարեք գաղտնաբառերը
+quickactions-cmd-logins = մուտքագրումներ, գաղտնաբառեր
+# Opens about:addons page in the plugins section
+quickactions-plugins = Կարգավորել բաղադրիչները
 quickactions-cmd-plugins = բաղադրիչներ
-# Opens the print dialog
-quickactions-print = Տպել
 # Opens the print dialog
 quickactions-print2 = Տպել էջը
 quickactions-cmd-print = տպել
-# Opens a new private browsing window
-quickactions-private = Բացել Գաղտնի դիտարկման պատուհանը
 # Opens a new private browsing window
 quickactions-private2 = Սկսել Գաղտնի դիտարկում
 quickactions-cmd-private = գաղտնի դիտարկում
@@ -275,12 +285,8 @@ quickactions-cmd-refresh = թարմացնել
 quickactions-restart = Վերամեկնարկել { -brand-short-name }-ը
 quickactions-cmd-restart = վերամեկնարկել
 # Opens the screenshot tool
-quickactions-screenshot2 = Ստանալ էկրանի հանույթը
-# Opens the screenshot tool
 quickactions-screenshot3 = Ստանալ էկրանի հանույթը
 quickactions-cmd-screenshot = էկրանի հանույթ
-# Opens about:preferences
-quickactions-settings = Բացել կարգավորումները
 # Opens about:preferences
 quickactions-settings2 = Կառավարել կարգավորումները
 quickactions-cmd-settings = կարգավորումներ, նախապատվություններ, ընտրանքներ
@@ -290,8 +296,6 @@ quickactions-cmd-themes = Ոճեր
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Արդիացնել { -brand-short-name }­-ը
 quickactions-cmd-update = արդիացնել
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Նայել աղբյուրը
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Դիտել Էջի Կոդը
 quickactions-cmd-viewsource = դիտել աղբյուրը, աղբյուրը
@@ -529,8 +533,10 @@ urlbar-result-action-calculator-result = = { $result }
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Որոնել էջանիշեր
 urlbar-result-action-search-history = Որոնման պատմություն
 urlbar-result-action-search-tabs = Որոնել ներդիրներ
+urlbar-result-action-search-actions = Որոնման գործողություններ
 
 ## Labels shown above groups of urlbar results
 
@@ -538,6 +544,15 @@ urlbar-result-action-search-tabs = Որոնել ներդիրներ
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } առաջարկներ
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Արագ գործողություններ
 
 ## Reader View toolbar buttons
 
@@ -587,6 +602,11 @@ bookmarks-other-bookmarks-menu =
     .label = Այլ Էջանիշեր
 bookmarks-mobile-bookmarks-menu =
     .label = Բջջային էջանիշեր
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -611,6 +631,9 @@ bookmarks-tools-menu-button-visibility =
             [true] ՀԵռացնել Էջանիշերի ցանկը Գործիքագոտուց
            *[other] Ավելացնել Էջանիշերի ցանկ Գործիքագոտիում
         }
+
+##
+
 bookmarks-search =
     .label = Էջանիշերի որոնում
 bookmarks-tools =
@@ -802,6 +825,8 @@ data-reporting-notification-message = { -brand-short-name }-ը ինքնաշխա�
 data-reporting-notification-button =
     .label = Ընտրել, թե ինչը համօգտագործել
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Գաղտնի դիտարկում
 
 ## Unified extensions (toolbar) button
 
@@ -812,6 +837,9 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Ընդլայնումներ
+    .tooltiptext = Ընդլայնումներ
 
 ## Autorefresh blocker
 
@@ -820,3 +848,6 @@ refresh-blocked-redirect-label = { -brand-short-name } -ը կասեցրեց այ
 refresh-blocked-allow =
     .label = Թույլատրել
     .accesskey = A
+
+## Firefox Relay integration
+
