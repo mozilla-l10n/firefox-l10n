@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } kullanıcı
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Çerez bildirimlerine son!
-cfr-cookie-banner-handling-body = { -brand-short-name } tarayıcınızın mümkün olduğunda tüm çerez bildirimi isteklerini otomatik reddetmesine izin verin. Bu mümkün olmadığında bildirimleri kapatmak için tüm çerezler kabul edilecektir.
-cfr-cookie-banner-accept-button = İstekleri reddet
-    .accesskey = R
-cfr-cookie-banner-reject-button = Daha sonra
-    .accesskey = D
-cfr-cookie-banner-handling-header-variant-1 = Daha az çerez bildirimi görün
-cfr-cookie-banner-handling-body-variant-1 = Dikkatiniz dağılmadan gezinmeniz için { -brand-short-name }, çerez bildirimlerini otomatik olarak yanıtlayabilir. { -brand-short-name }, reddedilmesi mümkün olan tüm istekleri reddedecek, mümkün olmayanları kabul edecektir.
-cfr-cookie-banner-accept-button-variant-1 = Bildirimleri kapat
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = Gerek yok
-    .accesskey = G
-cfr-cookie-banner-handling-header-variant-2 = Çerez bildirimlerini azaltın
-cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } mümkün olduğunda sitelerin çerez onayı taleplerini reddetsin, mümkün olmadığında çerezlere izin versin mi?
-cfr-cookie-banner-accept-button-variant-2 = İzin ver
-    .accesskey = z
-cfr-cookie-banner-reject-button-variant-2 = Daha sonra
-    .accesskey = D
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Yer imlerinize her yerden ulaşın.
@@ -274,3 +251,7 @@ cfr-cookiebanner-reject-button-variant-2 = Daha sonra
 july-jam-headline = Sizi koruyoruz
 july-jam-body = { -brand-short-name }, her ay kullanıcı başına ortalama 3.000 takip kodunu engelleyerek internete güvenli ve hızlı erişim sağlıyor.
 july-jam-set-default-primary = Bağlantılarımı { -brand-short-name } ile aç
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Anladım
