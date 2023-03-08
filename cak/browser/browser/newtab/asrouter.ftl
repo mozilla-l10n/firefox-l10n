@@ -213,6 +213,8 @@ colorways-cfr-primarybutton = Ticha' tunun b'onil
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Xek'is ri taq kib'aner koki!
+cfr-cookiebanner-accept-button-v2 = Kexutüx taq k'utuj
+    .accesskey = x
 cfr-cookiebanner-reject-button = Wakami mani
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Ketz'et jub'a' elenel taq kuki
@@ -229,6 +231,7 @@ cfr-cookiebanner-reject-button-variant-2 = Wakami mani
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Röj yatqachajij
 july-jam-set-default-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
