@@ -80,10 +80,10 @@ dnsNotFound-title = Hmm. Wy kinne dizze website net fine.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Mooglik befeiligingsrisiko foar { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Mooglik feilichheidsrisiko by opsykjen fan dit domein
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Mooglik befeiligingsrisiko foar { $hostname }.
+dns-not-found-trr-only-title2 = Mooglik feilichheidsrisiko by opsykjen fan dit domein
+dns-not-found-native-fallback-title2 = Mooglik feilichheidsrisiko by opsykjen fan dit domein
 fileNotFound-title = Bestân net fûn
 fileAccessDenied-title = Tagong ta it bestân is wegere
 generic-title = Oei.

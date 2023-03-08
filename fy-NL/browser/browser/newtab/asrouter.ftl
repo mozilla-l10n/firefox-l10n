@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brûkers
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Farwel cookiebanners!
-cfr-cookie-banner-handling-body = { -brand-short-name } tastean om automatysk alle cookiebannerfersiken ôf te wizen, wannear mooglik. Oars wurde alle cookies akseptearre om noch mear banners fuort te smiten.
-cfr-cookie-banner-accept-button = Fersiken ôfwize
-    .accesskey = F
-cfr-cookie-banner-reject-button = No net
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Sjoch minder cookie-pop-ups
-cfr-cookie-banner-handling-body-variant-1 = Lit { -brand-short-name } cookie-pop-ups automatysk foar jo beäntwurdzje, sadat jo wer sneupe kinne sûnder ôflieding. { -brand-short-name } wiist alle fersiken ôf as it mooglik is, of akseptearret as dit net slagget .
-cfr-cookie-banner-accept-button-variant-1 = Pop-ups slute
-    .accesskey = l
-cfr-cookie-banner-reject-button-variant-1 = Nee tankewol
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Reduksje fan cookiebanners
-cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } tastean om it tastimmingfersyk foar cookies fan in website wannear mooglik te wegerjen of om cookie-tagong te akseptearjen wannear dit net mooglik is?
-cfr-cookie-banner-accept-button-variant-2 = Tastean
-    .accesskey = T
-cfr-cookie-banner-reject-button-variant-2 = No net
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Syngronisearje jo blêdwizers oeral.
@@ -274,3 +251,8 @@ cfr-cookiebanner-reject-button-variant-2 = No net
 july-jam-headline = By ús binne jo feilich
 july-jam-body = Elke moanne blokkearret { -brand-short-name } gemiddeld mear as 3.000 trackers per brûker, wêrtroch jo feilich en flugge tagong hawwe ta it goede ynternet.
 july-jam-set-default-primary = Myn keppelingen iepenje mei { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Jo PDF’s wurde no iepene yn { -brand-short-name }.</strong> Bewurkje of ûndertekenje formulieren streekrjocht yn jo browser. Sykje nei ‘PDF’ yn ynstellingen om te wizigjen.
+set-default-pdf-handler-primary = Begrepen
