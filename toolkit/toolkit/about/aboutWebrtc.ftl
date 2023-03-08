@@ -137,6 +137,12 @@ about-webrtc-local-receive-ssrc = SSRC локального приёма
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = SSRC удалённой отправки
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+about-webrtc-pc-configuration-show-msg = Показать конфигурацию
+about-webrtc-pc-configuration-hide-msg = Скрыть конфигурацию
+
 ##
 
 # An option whose value will not be displayed but instead noted as having been
@@ -251,6 +257,11 @@ about-webrtc-sdp-set-at-timestamp-remote = Установить для удал�
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Метка времени { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } мс)
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+about-webrtc-show-msg-sdp = Показать SDP
+about-webrtc-hide-msg-sdp = Скрыть SDP
 
 ##
 
