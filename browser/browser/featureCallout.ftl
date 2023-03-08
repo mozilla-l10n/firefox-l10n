@@ -30,3 +30,8 @@ callout-firefox-view-colorways-reminder-subtitle = Գունավորեք ձեր �
 continuous-onboarding-firefox-view-tab-pickup-title = Ամրապնդեք ձեր զննումը ներդիրների հավաքման միջոցով
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Մուտք գործեք ձեր բաց ներդիրները ցանկացած սարքից: Բացի այդ, համաժամացրեք ձեր էջանիշները, գաղտնաբառերը և այլն:
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Սկսեք
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-button = Հաջորդը
+callout-pdfjs-draw-button = Հասկացա

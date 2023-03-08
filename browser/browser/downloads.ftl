@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
 downloads-cmd-pause =
     .label = Ընդմիջել
     .accesskey = P
@@ -23,6 +28,13 @@ downloads-cmd-cancel =
     .tooltiptext = Չեղարկել
 downloads-cmd-cancel-panel =
     .aria-label = Չեղարկել
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Ցուցադրել պանակում
+           *[other] Ցուցադրել պանակում
+        }
+    .accesskey = F
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -32,6 +44,10 @@ downloads-cmd-cancel-panel =
 downloads-cmd-use-system-default =
     .label = Բացել համակարգի դիտակում
     .accesskey = V
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Բացել { $handler }-ում
+    .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
