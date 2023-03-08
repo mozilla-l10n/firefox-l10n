@@ -80,10 +80,10 @@ dnsNotFound-title = Hmm, túto stránku sa nám nepodarilo nájsť.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Možné bezpečnostné riziko pre { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Možné bezpečnostné riziko pri hľadaní tejto domény
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Možné bezpečnostné riziko pre { $hostname }.
+dns-not-found-trr-only-title2 = Možné bezpečnostné riziko pri hľadaní tejto domény
+dns-not-found-native-fallback-title2 = Možné bezpečnostné riziko pri hľadaní tejto domény
 fileNotFound-title = Súbor sa nenašiel
 fileAccessDenied-title = Prístup k súboru bol zamietnutý
 generic-title = Problém.
