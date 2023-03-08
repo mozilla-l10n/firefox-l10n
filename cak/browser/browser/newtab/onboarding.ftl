@@ -305,6 +305,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Tijik' pe pa ri j
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Tacha' ri b'onil yanatan rik'in
 mr2022-onboarding-colorway-primary-button-label-continue = Tijikib'äx chuqa' tisamajïx el
 mr2022-onboarding-existing-colorway-checkbox-label = Tib'an chi ri { -firefox-home-brand-name } jeb'ël rub'onil rutikirisaxik
 mr2022-onboarding-colorway-label-default = K'o wi
