@@ -808,6 +808,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Сілтемені эл. поштамен жіберу
     .tooltiptext = Бұл парақ сілтемесін эл. поштамен жіберу
+toolbar-button-logins =
+    .label = Парольдер
+    .tooltiptext = Сақталған парольдеріңізді қарау және басқару
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

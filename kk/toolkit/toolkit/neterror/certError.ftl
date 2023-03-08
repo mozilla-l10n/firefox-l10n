@@ -80,10 +80,10 @@ dnsNotFound-title = Кешіріңіз, бұл сайтты таба алмад�
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = { $hostname } үшін ықтимал қауіпсіздік қаупі.
 # Variables:
-dns-not-found-trr-only-title2 = Бұл доменді іздеуде қауіпсіздік тәуекелі болуы мүмкін
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = { $hostname } үшін ықтимал қауіпсіздік қаупі.
+dns-not-found-trr-only-title2 = Бұл доменді іздеуде қауіпсіздік тәуекелі болуы мүмкін
+dns-not-found-native-fallback-title2 = Бұл доменді іздеуде қауіпсіздік тәуекелі болуы мүмкін
 fileNotFound-title = Файл табылмады
 fileAccessDenied-title = Файлға қатынау құқығы жоқ
 generic-title = Қате.

@@ -55,29 +55,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } пайдаланушы
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Cookie баннерлері жоғалсын!
-cfr-cookie-banner-handling-body = Мүмкіндігінше { -brand-short-name } барлық cookie баннер сұрауларын автоматты түрде қабылдамау мүмкіндігін беріңіз. Әйтпесе, барлық cookie файлдары одан да көп баннерлерді жабу үшін қабылданады.
-cfr-cookie-banner-accept-button = Сұрауларды қабылдамау
-    .accesskey = д
-cfr-cookie-banner-reject-button = Қазір емес
-    .accesskey = м
-cfr-cookie-banner-handling-header-variant-1 = Азырақ cookie қалқымалы терезелерін көру
-cfr-cookie-banner-handling-body-variant-1 = Мазасыз шолуға қайта оралу үшін { -brand-short-name } cookie файлдарының қалқымалы терезелеріне автоматты түрде жауап беруге мүмкіндік беріңіз. { -brand-short-name } мүмкіндігінше барлық сұрауларды қабылдамайды, ал болмаса, барлығын қабылдайды.
-cfr-cookie-banner-accept-button-variant-1 = Қалқымалы терезелерді тайдыру
-    .accesskey = д
-cfr-cookie-banner-reject-button-variant-1 = Жоқ, рахмет
-    .accesskey = р
-cfr-cookie-banner-handling-header-variant-2 = Cookie баннерлерін азайту
-cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } үшін сайттың cookie файлына рұқсат сұрауын тайдыру, немесе мүмкін болмаса, cookie файлдарына рұқсатын беру керек пе?
-cfr-cookie-banner-accept-button-variant-2 = Рұқсат ету
-    .accesskey = а
-cfr-cookie-banner-reject-button-variant-2 = Қазір емес
-    .accesskey = м
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Бетбелгілерді барлық жерде синхрондаңыз.
@@ -271,3 +248,8 @@ cfr-cookiebanner-reject-button-variant-2 = Қазір емес
 july-jam-headline = Сіз үшін қамқорлықпен
 july-jam-body = Ай сайын { -brand-short-name } бір пайдаланушыға орташа есеппен 3000+ трекерді блоктайды, бұл сізге жақсы интернетке қауіпсіз және жылдам қол жеткізуге мүмкіндік береді.
 july-jam-set-default-primary = Менің сілтемелерімді { -brand-short-name } арқылы ашу
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>PDF файлдарыңыз енді { -brand-short-name } ішінде ашылады.</strong> Формаларды тікелей браузерде өңдеңіз немесе қол қойыңыз. Өзгерту үшін параметрлерден "PDF" іздеңіз.
+set-default-pdf-handler-primary = Түсіндім

@@ -43,6 +43,14 @@ login-list-count =
     { $count ->
        *[other] { $count } логин
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } логин, барлығы { $total }
+       *[other] { $count } логин, барлығы { $total }
+    }
 login-list-sort-label-text = Бойынша сұрыптау:
 login-list-name-option = Аты (A-Z)
 login-list-name-reverse-option = Аты (A-Z)
