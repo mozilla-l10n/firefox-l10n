@@ -293,9 +293,11 @@ mr2022-onboarding-set-default-primary-button-label = Tib'an nab'ey okik'amaya'l 
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Tinuk'samajij pa jun ch'utiramaj
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Chanin runuk'ulem
 mr2022-onboarding-import-primary-button-label-no-attribution = Tijik' pe pa ri jun kan okik'amaya'l
 
 ## If your language uses grammatical genders, in the description for the
