@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } воридшавӣ
        *[other] { $count } воридшавӣ
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } аз { $total } воридшавӣ
+       *[other] { $count } аз { $total } воридшавӣ
+    }
 login-list-sort-label-text = Мураттаб аз рӯи:
 login-list-name-option = Ном (А-Я)
 login-list-name-reverse-option = Ном (Я-А)
