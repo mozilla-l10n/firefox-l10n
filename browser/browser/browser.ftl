@@ -811,6 +811,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Keppeling e-maile
     .tooltiptext = Keppeling nei dizze side e-maile
+toolbar-button-logins =
+    .label = Wachtwurden
+    .tooltiptext = Jo bewarre wachtwurden besjen en beheare
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
