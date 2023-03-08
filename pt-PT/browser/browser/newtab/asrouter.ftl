@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utilizadores
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Desapareçam faixas de cookies!
-cfr-cookie-banner-handling-body = Permitir que o { -brand-short-name } rejeite automaticamente todos os pedidos de banner de cookies, quando possível. Caso contrário, todos os cookies serão aceites para rejeitar ainda mais banners.
-cfr-cookie-banner-accept-button = Rejeitar Pedidos
-    .accesskey = R
-cfr-cookie-banner-reject-button = Agora não
-    .accesskey = A
-cfr-cookie-banner-handling-header-variant-1 = Ver menos pop-ups de cookies
-cfr-cookie-banner-handling-body-variant-1 = Deixe o { -brand-short-name } responder automaticamente a pop-ups de cookies para que possa voltar a navegar sem distrações. Se for possível, o { -brand-short-name } irá rejeitar todos os pedidos ou, na eventualidade de não ser possível, aceitar todos.
-cfr-cookie-banner-accept-button-variant-1 = Ignorar pop-ups
-    .accesskey = I
-cfr-cookie-banner-reject-button-variant-1 = Não, obrigado
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Redução de Faixas de Cookies
-cfr-cookie-banner-handling-body-variant-2 = Deixar o { -brand-short-name } recusar o pedido de consentimento de cookies de um site, se for possível ou, no caso de não ser possível, aceitar o acesso a cookies?
-cfr-cookie-banner-accept-button-variant-2 = Permitir
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Agora não
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronize os seus marcadores em todo o lado.
@@ -274,3 +251,8 @@ cfr-cookiebanner-reject-button-variant-2 = Agora não
 july-jam-headline = Estamos consigo
 july-jam-body = Todos os meses o { -brand-short-name } bloqueia uma média de mais de 3.000 rastreadores por utilizador, permitindo que possa ter um acesso rápido e seguro à melhor Internet.
 july-jam-set-default-primary = Abrir as minhas ligações com o { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Os seus PDFs agora abrem no { -brand-short-name }.</strong> Edite ou assine formulários diretamente no seu navegador. Para alterar, procure “PDF” nas configurações.
+set-default-pdf-handler-primary = Compreendi

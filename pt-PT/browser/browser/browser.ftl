@@ -811,6 +811,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Enviar por email
     .tooltiptext = Enviar ligação para esta página
+toolbar-button-logins =
+    .label = Palavras-passe
+    .tooltiptext = Ver e gerir as suas palavras-passe
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
