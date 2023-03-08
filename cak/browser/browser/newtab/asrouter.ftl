@@ -236,3 +236,4 @@ july-jam-set-default-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-primary = Xik'o pa nuwi'

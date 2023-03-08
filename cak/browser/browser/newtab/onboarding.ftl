@@ -13,6 +13,14 @@
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
 onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
 onboarding-not-now-button-label = Wakami mani
+mr1-onboarding-get-started-primary-button-label = Titikirisäx
+mr1-onboarding-welcome-header = Ütz apetïk pa { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
+    .title = Rumolaj { -brand-short-name } achi'el nab'ey okik'amaya'l  chuqa' taq rupin rukajtz'ik samaj
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
+mr1-onboarding-set-default-secondary-button-label = Wakami mani
 
 ## Custom Return To AMO onboarding strings
 
@@ -81,16 +89,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Titikirisäx
-mr1-onboarding-welcome-header = Ütz apetïk pa { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
-    .title = Rumolaj { -brand-short-name } achi'el nab'ey okik'amaya'l  chuqa' taq rupin rukajtz'ik samaj
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
-mr1-onboarding-set-default-secondary-button-label = Wakami mani
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Titikirisäx molojri'ïl
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -248,6 +247,11 @@ fx100-thank-you-hero-text =
     Matyox
     <span data-l10n-name="zap">chawe</span>
 fx100-thank-you-subtitle = ¡Ja 100 tiqelesaj pe! Matyox ruma yojato' richin niqanük' jun utziläj chuqa' raxinäq k'amaya'l.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Tik'oje' { -brand-short-name } pa rukajtz'ik samaj
+       *[other] Tik'oje' { -brand-short-name } pa ri rukajtz'ik taq samaj
+    }
 fx100-upgrade-thanks-header = 100 Matyox chawe
 mr2022-onboarding-secondary-skip-button-label = Choj tik'o re jun ruxak re'
 
@@ -267,9 +271,17 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Tijik' pe pa ri jun kan oki
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Tijaq jun utziläj k'amaya'l
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Tik'oje' { -brand-short-name } pa ri rukajtz'ik taq samaj
+       *[other] Tik'oje' { -brand-short-name } pa ri rukajtz'ik taq samaj
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Niqak'awomaj chawe ruma nawajo' { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 

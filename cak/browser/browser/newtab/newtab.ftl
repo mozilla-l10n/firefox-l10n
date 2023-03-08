@@ -223,6 +223,7 @@ newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
 newtab-pocket-learn-more = Tetamäx ch'aqa' chik
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
 newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jun { -brand-product-name } qach'alal
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Tiyak pa { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Yakon pa { -pocket-brand-name }
