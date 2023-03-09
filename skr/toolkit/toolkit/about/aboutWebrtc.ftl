@@ -255,6 +255,8 @@ about-webrtc-sdp-set-timestamp = ٹائم سٹیمپ { NUMBER($timestamp, useGro
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = SDP ݙکھاؤ
+about-webrtc-hide-msg-sdp = SDP لُکاؤ
 
 ##
 
