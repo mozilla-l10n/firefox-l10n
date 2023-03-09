@@ -140,6 +140,8 @@ about-webrtc-remote-send-ssrc = Fjärrsändning SSRC
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = Visa konfiguration
+about-webrtc-pc-configuration-hide-msg = Dölj konfiguration
 
 ##
 
