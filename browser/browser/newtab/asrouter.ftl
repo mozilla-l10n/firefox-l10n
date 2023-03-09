@@ -57,25 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } χρήστες
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Εξαφανιστείτε μπάνερ για cookies!
-cfr-cookie-banner-accept-button = Απόρριψη αιτημάτων
-    .accesskey = Α
-cfr-cookie-banner-reject-button = Όχι τώρα
-    .accesskey = χ
-cfr-cookie-banner-accept-button-variant-1 = Απόρριψη αναδυόμενων παραθύρων
-    .accesskey = Α
-cfr-cookie-banner-reject-button-variant-1 = Όχι, ευχαριστώ
-    .accesskey = χ
-cfr-cookie-banner-handling-header-variant-2 = Μείωση μπάνερ cookie
-cfr-cookie-banner-accept-button-variant-2 = Αποδοχή
-    .accesskey = Α
-cfr-cookie-banner-reject-button-variant-2 = Όχι τώρα
-    .accesskey = χ
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
@@ -244,6 +225,8 @@ colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Α
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Εξαφανιστείτε μπάνερ για cookies!
 cfr-cookiebanner-accept-button-v2 = Απόρριψη αιτημάτων
     .accesskey = Α
 cfr-cookiebanner-reject-button = Όχι τώρα
@@ -261,3 +244,7 @@ cfr-cookiebanner-reject-button-variant-2 = Όχι τώρα
 july-jam-headline = Πάντα στο πλευρό σας
 july-jam-body = Κάθε μήνα, το { -brand-short-name } αποκλείει κατά μέσο όρο 3.000+ ιχνηλάτες ανά χρήστη, παρέχοντάς σας ασφαλή και γρήγορη πρόσβαση στο διαδίκτυο.
 july-jam-set-default-primary = Άνοιγμα συνδέσμων με το { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Το κατάλαβα
