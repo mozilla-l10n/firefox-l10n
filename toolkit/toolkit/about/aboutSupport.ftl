@@ -283,6 +283,8 @@ webgl2-renderer = Renderer driver WebGL 2
 webgl2-version = Versione driver WebGL 2
 webgl2-driver-extensions = Estensioni driver WebGL 2
 webgl2-extensions = Estensioni WebGL 2
+webgpu-default-adapter = Scheda WebGPU predefinita
+webgpu-fallback-adapter = Scheda WebGPU di fallback
 
 support-blocklisted-bug = Bloccato per problemi noti: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 
