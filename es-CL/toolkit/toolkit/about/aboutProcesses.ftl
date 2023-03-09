@@ -125,6 +125,8 @@ about-processes-utility-actor-audio-decoder-generic = Decodificador de audio gen
 about-processes-utility-actor-audio-decoder-applemedia = Decodificador de audio de Apple
 about-processes-utility-actor-audio-decoder-wmf = Decodificador de audio de Windows
 about-processes-utility-actor-mf-media-engine = CDM del motor multimedia de Windows Media Foundation
+# "Oracle" refers to an internal Firefox process and should be kept in English
+about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Utilidades de Windows
 
 ## Displaying CPU (percentage and total)
