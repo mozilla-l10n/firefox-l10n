@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } σύνδεση
        *[other] { $count } συνδέσεις
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } από { $total } σύνδεση
+       *[other] { $count } από { $total } συνδέσεις
+    }
 login-list-sort-label-text = Ταξινόμηση:
 login-list-name-option = Όνομα (Α-Ω)
 login-list-name-reverse-option = Όνομα (Ω-Α)
