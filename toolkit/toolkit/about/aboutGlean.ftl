@@ -28,6 +28,9 @@ about-glean-interface-description =
 about-glean-upload-enabled = 已启用数据上传。
 about-glean-upload-disabled = 已禁用数据上传。
 about-glean-upload-enabled-local = 数据上传仅在发送到本地服务器时启用。
+about-glean-upload-fake-enabled = 已禁用数据上传，但我们向 { glean-sdk-brand-name } “谎称”还是启用状态，如此数据将仍在本地记录。注：若已设置调试标签，ping 将一律上传至 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>。
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = 相关的<a data-l10n-name="fog-prefs-and-defines-doc-link">首选项和定义</a>如下：
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
