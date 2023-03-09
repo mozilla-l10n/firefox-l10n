@@ -52,6 +52,8 @@ about-glean-about-testing-header = 关于测试
 about-glean-manual-testing = 完整说明文档请见 <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 检测测试文档</a>和 <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } 文档</a>。不过简而言之，如需手动测试检测是否有效，您需要：
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = （不提交任何 Ping）
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = 在此栏设置好记的调试标签，方便之后快速找到您的 ping。
 controls-button-label-verbose = 应用设置并提交 ping
 about-glean-about-data-header = 关于数据
 about-glean-about-data-explanation = 要浏览收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
