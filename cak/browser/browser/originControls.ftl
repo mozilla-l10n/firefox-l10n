@@ -16,6 +16,8 @@ origin-controls-option-when-clicked =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = Man tikirel ta nisik'ïx chuqa' yejal taq tzij pa re ruxaq
+origin-controls-state-always-on = Jantape' tikirel nisik'ïx chuqa' yejal taq tzij pa re ruxaq
 origin-controls-state-runnable-hover-open = Tijaq k'amal
 origin-controls-state-runnable-hover-run = Tisamajïx k'amal
 
