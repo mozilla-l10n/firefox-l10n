@@ -113,6 +113,7 @@ language-name-lij = Ligur
 language-name-ln = Lingala
 language-name-lo = Lao
 language-name-lt = Lituan
+language-name-ltg = Latgalian
 language-name-lu = Luba-Katanga
 language-name-lv = Leton
 language-name-mai = Maithili
