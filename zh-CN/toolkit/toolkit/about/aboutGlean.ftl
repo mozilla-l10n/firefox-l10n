@@ -48,10 +48,10 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>：{ $glean-android-de
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>：{ $moz-official-define-value }
 about-glean-about-testing-header = 关于测试
+# This message is followed by a numbered list.
+about-glean-manual-testing = 完整说明文档请见 <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 检测测试文档</a>和 <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } 文档</a>。不过简而言之，如需手动测试检测是否有效，您需要：
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = （不提交任何 Ping）
 controls-button-label-verbose = 应用设置并提交 ping
 about-glean-about-data-header = 关于数据
-about-glean-about-data-explanation =
-    要浏览收集的数据列表，请查阅
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
+about-glean-about-data-explanation = 要浏览收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
