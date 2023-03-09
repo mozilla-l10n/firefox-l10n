@@ -804,6 +804,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = 用邮件发送链接
     .tooltiptext = 用邮件发送此页链接
+toolbar-button-logins =
+    .label = 密码
+    .tooltiptext = 查看并管理您存放的密码
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
