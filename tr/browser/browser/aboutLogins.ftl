@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } hesap
        *[other] { $count } hesap
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $total } hesaptan { $count } hesap
+       *[other] { $total } hesaptan { $count } hesap
+    }
 login-list-sort-label-text = Sıralama:
 login-list-name-option = Ad (A-Z)
 login-list-name-reverse-option = Ad (Z-A)

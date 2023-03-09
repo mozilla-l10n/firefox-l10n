@@ -254,4 +254,5 @@ july-jam-set-default-primary = Bağlantılarımı { -brand-short-name } ile aç
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>PDF’leriniz artık { -brand-short-name } ile açılıyor.</strong> Formları doğrudan tarayıcınızda düzenleyebilir ve imzalayabilirsiniz. Varsayılan ayarları değiştirmek isterseniz ayarlarda “PDF” araması yapabilirsiniz.
 set-default-pdf-handler-primary = Anladım

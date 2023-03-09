@@ -810,6 +810,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Bağlantıyı e-postala
     .tooltiptext = Bu sayfanın linkini e-postayla gönder
+toolbar-button-logins =
+    .label = Parolalar
+    .tooltiptext = Kayıtlı parolalarımı görüntüle ve yönet
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
