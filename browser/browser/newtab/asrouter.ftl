@@ -55,29 +55,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } 个用户
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = 消失吧，Cookie 横幅！
-cfr-cookie-banner-handling-body = 允许 { -brand-short-name } 尽可能自动拒绝 Cookie 横幅的请求，如果无法拒绝则接受所有 Cookie 以关闭更多横幅。
-cfr-cookie-banner-accept-button = 关闭请求
-    .accesskey = D
-cfr-cookie-banner-reject-button = 暂时不要
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = 减少 Cookie 弹窗
-cfr-cookie-banner-handling-body-variant-1 = 让 { -brand-short-name } 自动帮您回应 Cookie 弹窗，实现无干扰浏览体验。{ -brand-short-name } 将尽可能拒绝所有请求，若无法拒绝则全部接受。
-cfr-cookie-banner-accept-button-variant-1 = 关闭弹窗
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = 不，谢谢
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = 减少 Cookie 横幅
-cfr-cookie-banner-handling-body-variant-2 = 要允许 { -brand-short-name } 尽可能自动拒绝网站的 Cookie 请求，并在无法拒绝时全部接受吗？
-cfr-cookie-banner-accept-button-variant-2 = 允许
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = 暂时不要
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 书签随身带着走
@@ -273,3 +250,4 @@ july-jam-set-default-primary = 用 { -brand-short-name } 打开我的链接
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-headline = <strong>您的 PDF 文件现在可以在 { -brand-short-name } 中打开。</strong>请直接在您的浏览器中编辑或签署表格。要更改，请在设置中搜索“PDF”。
+set-default-pdf-handler-primary = 明白了
