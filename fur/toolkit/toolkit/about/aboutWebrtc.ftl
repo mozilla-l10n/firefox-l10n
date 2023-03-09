@@ -253,6 +253,8 @@ about-webrtc-sdp-set-timestamp = Marche temporâl { NUMBER($timestamp, useGroupi
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = Mostre SDP
+about-webrtc-hide-msg-sdp = Plate SDP
 
 ##
 

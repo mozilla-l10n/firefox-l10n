@@ -809,6 +809,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Invie colegament vie pueste
     .tooltiptext = Invie vie e-mail un colegament a cheste pagjine
+toolbar-button-logins =
+    .label = Passwords
+    .tooltiptext = Viôt e gjetìs lis tôs passwords salvadis
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
