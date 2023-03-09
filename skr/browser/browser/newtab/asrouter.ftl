@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } صارفین
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = کوکی بینرز شروع تھی ڳئے!
-cfr-cookie-banner-handling-body = ڄݙݨ ممکن ہووے، { -brand-short-name } کوں ساریاں کوکی بینر ارداساں کوں آپݨے آپ مسترد کرݨ دی اجازت ݙیوو۔ نہ تاں ایں کنوں وی ودھ بینر برخاست کرݨ کیتے ساریاں کوکیاں قبول کیتیاں ویسن۔
-cfr-cookie-banner-accept-button = ارداس برخاست کرو
-    .accesskey = D
-cfr-cookie-banner-reject-button = ہݨ کائناں
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = تھوڑیاں پوپ اپاں کوکی ݙیکھو
-cfr-cookie-banner-handling-body-variant-1 = { -brand-short-name } کوں خودبخود تہاݙے کیتے کوکی پوپ اپاں دا جواب ݙیوݨ ݙیوو تاں جو تساں کہیں خلفشار دے بغیر براؤزنگ تے ون٘ڄ سڳو۔ ممکن ہویا تاں { -brand-short-name } ساریاں ارداساں مسترد کر ݙیسی، جے ممکن کائنی تاں ساریاں قبول کر گھنسی،
-cfr-cookie-banner-accept-button-variant-1 = پوپ اپ فارغ کرو
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = کو، شکریہ
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = کوکی بینر گھٹاوݨ
-cfr-cookie-banner-handling-body-variant-2 = جے ممکن ہے تاں{ -brand-short-name }کوں سائٹ کوکی دی رضامندی ارداس دے انکار کرݨ دی اجازت ݙیووں یا ڄݙݨ ممکن نہ ہووے تاں کوکی تائیں رسائی قبول کروں؟
-cfr-cookie-banner-accept-button-variant-2 = اجازت ݙیوو
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = ہݨ کائناں
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = ہر جاہ اپݨے بک مارکس سینک کرو
@@ -272,3 +249,7 @@ cfr-cookiebanner-reject-button-variant-2 = ہݨ کائناں
 july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
 july-jam-body = ہر مہینے، { -brand-short-name } فی صارف اوسطاً 3,000 کنوں ودھ ٹریکر بلاک کریندے۔ جہڑا تہاکوں چنگے انٹرنیٹ تائیں محفوظ، تیز رفتار رسائی فراہم کریندے۔
 july-jam-set-default-primary = { -brand-short-name } دے نال میݙے لنک کھولو
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = سمجھ گھدے

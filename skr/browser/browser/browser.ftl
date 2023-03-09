@@ -812,6 +812,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = لنک ای میل کرو
     .tooltiptext = ایں صفحے کوں ہک لنک ای میل کرو
+toolbar-button-logins =
+    .label = پاس ورڈز
+    .tooltiptext = آپݨے پاس ورڈ ݙیکھو تے منیج کرو
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

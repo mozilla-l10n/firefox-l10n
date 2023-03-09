@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } لاگ ان
        *[other] { $count } لاگ اناں
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $total } لاگ ان وچوں { $count }
+       *[other] { $total } لاگ اناں وچوں { $count }
+    }
 login-list-sort-label-text = دے مطابق چھانٹی کرو:
 login-list-name-option = ناں(A-Z)
 login-list-name-reverse-option = ناں (Z-A)
