@@ -140,6 +140,8 @@ about-webrtc-remote-send-ssrc = Απομακρυσμένη αποστολή SSRC
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = Εμφάνιση διαμόρφωσης
+about-webrtc-pc-configuration-hide-msg = Απόκρυψη διαμόρφωσης
 
 ##
 

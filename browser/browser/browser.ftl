@@ -808,6 +808,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Αποστολή συνδέσμου
     .tooltiptext = Αποστολή συνδέσμου σελίδας
+toolbar-button-logins =
+    .label = Κωδικοί πρόσβασης
+    .tooltiptext = Προβολή και διαχείριση των αποθηκευμένων κωδικών πρόσβασης
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
