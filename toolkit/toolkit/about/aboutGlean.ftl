@@ -18,11 +18,20 @@ controls-button-label = Enviar ajustes
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } Visor de ping de depuración
 about-glean-page-title2 = Acerca de { -glean-brand-name }
 about-glean-header = Acerca de { -glean-brand-name }
 about-glean-upload-enabled = La carga de datos está habilitada.
 about-glean-upload-disabled = La carga de datos está deshabilitada.
 about-glean-upload-enabled-local = La carga de datos está habilitada solo para enviar a un servidor local.
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
 # Variables:
 #   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
 # Do not translate strings between <code> </code> tags.
