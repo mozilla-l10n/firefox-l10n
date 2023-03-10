@@ -249,6 +249,11 @@ cfr-cookiebanner-accept-button-variant-2 = Povoliť
 cfr-cookiebanner-reject-button-variant-2 = Teraz nie
     .accesskey = T
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-dismiss-button = Teraz nie
+    .accesskey = T
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Kryjeme vás
