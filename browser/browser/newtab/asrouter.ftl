@@ -55,29 +55,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } 使用者
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = 讓 Cookie 橫幅消失！
-cfr-cookie-banner-handling-body = 允許 { -brand-short-name } 盡可能自動拒絕所有 Cookie 橫幅的請求，否則就自動接受所有 Cookie 來隱藏更多橫幅。
-cfr-cookie-banner-accept-button = 關閉請求
-    .accesskey = D
-cfr-cookie-banner-reject-button = 現在不要
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = 減少顯示 Cookie 彈出提示
-cfr-cookie-banner-handling-body-variant-1 = 讓 { -brand-short-name } 自動為您回答彈出的 Cookie 對話框，這樣上網就可以減少分心。{ -brand-short-name } 會盡可能自動拒絕所有請求，或者無法拒絕就接受全部 Cookie。
-cfr-cookie-banner-accept-button-variant-1 = 關閉彈出提示
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = 不要，謝謝
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = 減少 Cookie 橫幅
-cfr-cookie-banner-handling-body-variant-2 = 要允許 { -brand-short-name } 幫您拒絕網站的 Cookie 提示，或者當網站無法拒絕時就接受嗎？
-cfr-cookie-banner-accept-button-variant-2 = 允許
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = 現在不要
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 將您的書籤同步帶著走。
@@ -262,6 +239,15 @@ cfr-cookiebanner-body-variant-2 = 讓 { -brand-short-name } 盡可能自動拒�
 cfr-cookiebanner-accept-button-variant-2 = 允許
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = 現在不要
+    .accesskey = N
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = 要允許 { -brand-short-name } 拒絕 Cookie 橫幅嗎？
+cfr-cbh-body = { -brand-short-name } 可以盡量自動拒絕 Cookie 橫幅。
+cfr-cbh-confirm-button = 拒絕 Cookie 橫幅
+    .accesskey = R
+cfr-cbh-dismiss-button = 現在不要
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

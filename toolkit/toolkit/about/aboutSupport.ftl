@@ -268,6 +268,8 @@ webgl2-renderer = WebGL2 Renderer
 webgl2-version = WebGL 2 驅動程式 Renderer
 webgl2-driver-extensions = WebGL 2 驅動程式擴充套件
 webgl2-extensions = WebGL 2 擴充套件
+webgpu-default-adapter = WebGPU 預設顯示卡
+webgpu-fallback-adapter = WebGPU 備用顯示卡
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = 由於有已知問題，被加入封鎖名單: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
