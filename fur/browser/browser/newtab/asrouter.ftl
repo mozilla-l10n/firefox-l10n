@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utents
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Vonde strissons pai cookies!
-cfr-cookie-banner-handling-body = Permet a { -brand-short-name } di refudâ in automatic dutis lis richiestis dai strissons pai cookies, se pussibil. In câs contrari, a vignaran acetâts ducj i cookies par sierâ ulteriôrs strissons.
-cfr-cookie-banner-accept-button = Refude lis richiestis
-    .accesskey = d
-cfr-cookie-banner-reject-button = No cumò
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Viôt mancul ricuadris a comparse pai cookies
-cfr-cookie-banner-handling-body-variant-1 = Lasse che { -brand-short-name } al rispuindi in automatic par te ai ricuadris a comparse pai cookies, cussì di podê tornâ a navigâ cence distrazions. { -brand-short-name } al refudarà dutis lis richiestis se pussibil, o lis acetarà dutis se nol rive a refudâlis.
-cfr-cookie-banner-accept-button-variant-1 = Siere ricuadris a comparse
-    .accesskey = d
-cfr-cookie-banner-reject-button-variant-1 = No, graciis
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Riduzion strissons pai cookies
-cfr-cookie-banner-handling-body-variant-2 = Permeti a { -brand-short-name } di refudâ la richieste di consens pai cookies de bande di un sît, opûr acetâ l'acès dai cookies se nol è pussibil refudâ?
-cfr-cookie-banner-accept-button-variant-2 = Permet
-    .accesskey = m
-cfr-cookie-banner-reject-button-variant-2 = No cumò
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizie i tiei segnelibris dapardut.
@@ -267,6 +244,15 @@ cfr-cookiebanner-body-variant-2 = Ridûs la cuantitât di strissons pai cookies 
 cfr-cookiebanner-accept-button-variant-2 = Permet
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = No cumò
+    .accesskey = N
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Permeti a { -brand-short-name } di refudâ i strissons pai cookies?
+cfr-cbh-body = { -brand-short-name } al pues refudâ in automatic tantis richiestis dai strissons pai cookies.
+cfr-cbh-confirm-button = Refude i strissons pai cookies
+    .accesskey = R
+cfr-cbh-dismiss-button = No cumò
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
