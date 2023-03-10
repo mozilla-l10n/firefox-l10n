@@ -248,7 +248,6 @@ cfr-cookiebanner-reject-button-variant-2 = Pas ara
 
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { "" }
 cfr-cbh-body = { -brand-short-name } pòt regetar automaticament las demandas de cookies.
 cfr-cbh-confirm-button = Regetar las bandièras de cookies
     .accesskey = R
