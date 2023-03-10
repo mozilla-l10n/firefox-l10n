@@ -970,6 +970,10 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Riduzion strissons pai cookies
+cookie-banner-handling-description = { -brand-short-name } al cîr in automatic di refudâ, tai sîts supuartâts, lis richiestis dai cookies sul strisson pai cookies.
+cookie-banner-learn-more = Plui informazions
+forms-handle-cookie-banners =
+    .label = Ridûs i strissons pai cookies
 
 ## Privacy Section - Address Bar
 

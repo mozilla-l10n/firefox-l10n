@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nol rive a
 neterror-dns-not-found-native-fallback-attackers = Tu puedis continuâ cuntun risolvidôr DNS che nol è sigûr. Dut câs, un sogjet di tiercis parts al podarès rivâ a identificâ i sîts che tu visitis o fâti vierzi un sît che nol è afidabil.
 neterror-dns-not-found-native-fallback-heuristic = DNS vie HTTPs al è stât disabilitât te tô rêt.
 neterror-dns-not-found-native-fallback-not-confirmed = La conession a { $trrDomain } no je ancjemò pronte.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nol è rivât a conetisi a { $trrDomain }.
 
 ##
 
