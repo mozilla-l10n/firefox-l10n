@@ -80,10 +80,10 @@ dnsNotFound-title = Aradığınız siteyi bulamıyoruz.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = { $hostname } için olası güvenlik riski.
 # Variables:
-dns-not-found-trr-only-title2 = Bu alan adına ulaşılması güvenlik riski taşıyabilir
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = { $hostname } için olası güvenlik riski.
+dns-not-found-trr-only-title2 = Bu alan adına ulaşılması güvenlik riski taşıyabilir
+dns-not-found-native-fallback-title2 = Bu alan adının sorgulanması güvenlik riski taşıyabilir
 fileNotFound-title = Dosya bulunamadı
 fileAccessDenied-title = Dosyaya erişim reddedildi
 generic-title = Hata oluştu.
