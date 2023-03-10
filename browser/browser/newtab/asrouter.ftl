@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utilisateurs
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Fini les bannières de cookies !
-cfr-cookie-banner-handling-body = Autoriser { -brand-short-name } à rejeter automatiquement les demandes de cookies, lorsque cela est possible. Sinon, tous les cookies seront acceptés pour supprimer les bannières de cookies.
-cfr-cookie-banner-accept-button = Rejeter les demandes
-    .accesskey = R
-cfr-cookie-banner-reject-button = Plus tard
-    .accesskey = P
-cfr-cookie-banner-handling-header-variant-1 = Voir moins de popups de cookies
-cfr-cookie-banner-handling-body-variant-1 = Laisser { -brand-short-name } répondre automatiquement aux popups de cookies pour une navigation sans distraction. { -brand-short-name } rejettera toutes les demandes si possible, ou les acceptera toutes dans le cas contraire.
-cfr-cookie-banner-accept-button-variant-1 = Rejeter les fenêtres popup
-    .accesskey = R
-cfr-cookie-banner-reject-button-variant-1 = Non merci
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Réduction des bannières de cookies
-cfr-cookie-banner-handling-body-variant-2 = Autoriser { -brand-short-name } à refuser la demande de consentement aux cookies d’un site si possible ou à accepter l’accès aux cookies lorsque ce n’est pas possible ?
-cfr-cookie-banner-accept-button-variant-2 = Autoriser
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = Plus tard
-    .accesskey = P
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisez vos marque-pages partout.
@@ -264,6 +241,15 @@ cfr-cookiebanner-body-variant-2 = Réduisez le nombre de bannières de cookies q
 cfr-cookiebanner-accept-button-variant-2 = Autoriser
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = Plus tard
+    .accesskey = P
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Autoriser { -brand-short-name } à refuser les bannières de cookies ?
+cfr-cbh-body = { -brand-short-name } peut refuser automatiquement de nombreuses demandes de dépôt de cookies.
+cfr-cbh-confirm-button = Refuser les bannières de cookies
+    .accesskey = R
+cfr-cbh-dismiss-button = Plus tard
     .accesskey = P
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
