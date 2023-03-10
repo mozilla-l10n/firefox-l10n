@@ -951,6 +951,10 @@ sitedata-cookies-exceptions =
     .label = 예외 관리…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = 쿠키 배너 감소
+
 ## Privacy Section - Address Bar
 
 addressbar-header = 주소 표시줄
