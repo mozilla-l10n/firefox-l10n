@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usatores
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Bandieras pro cookies adeo!
-cfr-cookie-banner-handling-body = Permitter a { -brand-short-name } de rejectar automaticamente tote le requestas de bandieras pro cookie, quando possibile. Alteremente, tote le cookies sera acceptate pro dimitter ancora plus bandieras.
-cfr-cookie-banner-accept-button = Dimitter le requestas
-    .accesskey = D
-cfr-cookie-banner-reject-button = Non ora
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Vider minus quadros resaltante de cookies
-cfr-cookie-banner-handling-body-variant-1 = Lassa que { -brand-short-name } responde automaticamente al quadros resaltante de cookies pro te, assi que tu pote navigar de novo libere de distractiones. { -brand-short-name } rejectara tote le requestas si possibile o, si non, los acceptara tote.
-cfr-cookie-banner-accept-button-variant-1 = Dimitter le quadros resaltante
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = No, gratias
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Reduction de banner pro le cookie
-cfr-cookie-banner-handling-body-variant-2 = Permitter a { -brand-short-name } de refusar le requesta de consenso al cookies de un sito, si possibile, o acceptar le accesso de cookies quando impossibile?
-cfr-cookie-banner-accept-button-variant-2 = Permitter
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Non ora
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisa tu marcapaginas ubique.
@@ -267,6 +244,11 @@ cfr-cookiebanner-body-variant-2 = Reduce le amonta de bandieras pro cookies que 
 cfr-cookiebanner-accept-button-variant-2 = Permitter
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Non ora
+    .accesskey = N
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-dismiss-button = Non ora
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

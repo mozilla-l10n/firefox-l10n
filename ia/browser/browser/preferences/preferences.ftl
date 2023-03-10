@@ -967,6 +967,13 @@ sitedata-cookies-exceptions =
     .label = Gerer exceptiones…
     .accesskey = G
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reduction de banner pro le cookies
+cookie-banner-learn-more = Pro saper plus
+forms-handle-cookie-banners =
+    .label = Reducer bandieras pro cookies
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de adresse
