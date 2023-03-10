@@ -15,7 +15,7 @@ controls-button-label = Iɣewwaṛen n tuzzna
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
--fog-brand-name = AGU
+-fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Ɣef { -glean-brand-name }
