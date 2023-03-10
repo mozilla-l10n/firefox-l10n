@@ -293,6 +293,8 @@ webgl2-renderer = Засіб візуалізації WebGL2
 webgl2-version = WebGL 2 - Версія драйвера
 webgl2-driver-extensions = WebGL 2 - Розширення драйвера
 webgl2-extensions = WebGL 2 - Розширення
+webgpu-default-adapter = Стандартний адаптер WebGPU
+webgpu-fallback-adapter = Запасний адаптер WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Заблоковано, у зв'язку з відомими проблемами: <a data-l10n-name="bug-link">звіт { $bugNumber }</a>

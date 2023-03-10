@@ -73,6 +73,17 @@ restart-later = Перезапустити потім
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> керує цим налаштуванням.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = і
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Налаштування…
     .accesskey = л
 containers-disable-alert-title = Закрити всі вкладки контейнера?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Якщо ви вимкнете вкладки в контейнері, закриється { $tabCount } вкладка контейнера. Ви дійсно хочете вимкнути вкладки в контейнері?
@@ -167,10 +182,13 @@ containers-disable-alert-ok-button =
         [few] Закрити { $tabCount } вкладки контейнера
        *[many] Закрити { $tabCount } вкладок контейнера
     }
+
+##
+
 containers-disable-alert-cancel-button = Залишити увімкненим
 containers-remove-alert-title = Вилучити цей контейнер?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Якщо ви вилучите цей контейнер зараз, закриється { $count } вкладка контейнера. Ви дійсно хочете вилучити цей контейнер?
@@ -233,6 +251,8 @@ advanced-fonts =
 preferences-zoom-header = Масштаб
 preferences-default-zoom = Типовий масштаб
     .accesskey = п
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -325,15 +345,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Завжди питати
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Використовувати { $plugin-name } (у { -brand-short-name })
 applications-open-inapp =
@@ -376,6 +396,8 @@ play-drm-content =
 play-drm-content-learn-more = Докладніше
 update-application-title = Оновлення { -brand-short-name }
 update-application-description = Використовуйте найновішу версію { -brand-short-name } для найкращої швидкодії, стабільності й безпеки.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Версія { $version } <a data-l10n-name="learn-more">Що нового</a>
 update-history =
     .label = Показати історію оновлень…
@@ -402,7 +424,7 @@ update-application-suppress-prompts =
     .accesskey = с
 update-setting-write-failure-title2 = Помилка збереження налаштувань оновлення
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -432,7 +454,7 @@ performance-limit-content-process-option = Обмеження процесів �
 performance-limit-content-process-enabled-desc = Додаткова кількість процесів вмісту може пришвидшити роботу при використанні багатьох вкладок, але при цьому споживатиметься більше пам'яті.
 performance-limit-content-process-blocked-desc = Зміна числа процесів вмісту можлива лише в багатопроцесній версії { -brand-short-name }. <a data-l10n-name="learn-more">Дізнайтеся, як перевірити, чи увімкнено багатопроцесність</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (типово)
 
@@ -538,6 +560,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Рекомендації від { $provider }
 home-prefs-recommended-by-description-new = Добірні матеріали від { $provider }, що входить до родини { -brand-product-name }
@@ -567,6 +593,8 @@ home-prefs-recent-activity-description = Добірка недавніх сай�
 home-prefs-snippets-header =
     .label = Фрагменти
 home-prefs-snippets-description-new = Поради та новини від { -vendor-short-name } та { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -632,7 +660,7 @@ search-find-more-link = Знайти інші засоби пошуку
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Це скорочення вже використовується
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ви вибрали скорочення, яке вже використовується “{ $name }”. Будь ласка, вкажіть інше.
 search-keyword-warning-bookmark = Ви вибрали скорочення, котре вже використовується закладкою. Будь ласка, вкажіть інше.
 
@@ -679,8 +707,15 @@ sync-sign-out =
     .accesskey = В
 sync-manage-account = Керувати обліковим записом
     .accesskey = К
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+##
+
 sync-resend-verification =
     .label = Повторно надіслати підтвердження
     .accesskey = т
@@ -894,8 +929,8 @@ history-clear-button =
 sitedata-header = Куки і дані сайтів
 sitedata-total-size-calculating = Обчислення розміру даних сайтів і кешу…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ваші збережені куки, дані сайтів і кеш використовують { $value } { $unit } дискового простору.
 sitedata-learn-more = Докладніше
 sitedata-delete-on-close =
@@ -935,6 +970,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Керувати винятками…
     .accesskey = я
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Зменшення кількості банерів кук
+cookie-banner-handling-description = { -brand-short-name } автоматично намагається відхилити запити на збереження кук у банерах кук на підтримуваних сайтах.
+cookie-banner-learn-more = Докладніше
+forms-handle-cookie-banners =
+    .label = Зменшити кількість банерів кук
 
 ## Privacy Section - Address Bar
 
