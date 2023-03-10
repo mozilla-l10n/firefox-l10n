@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } корбар
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Баннерҳои куки гум шаванд!
-cfr-cookie-banner-handling-body = Ба «{ -brand-short-name }» иҷозат диҳед, то ки он тавонад ҳамаи дархостҳои баннери кукиро ба қадри имкон рад кунад. Дар акси ҳол, барои қатъ кардани баннерҳои боз ҳам бештар, ҳамаи кукиҳо қабул карда мешаванд.
-cfr-cookie-banner-accept-button = Қатъ кардани дархостҳо
-    .accesskey = Қ
-cfr-cookie-banner-reject-button = Ҳоло не
-    .accesskey = Ҳ
-cfr-cookie-banner-handling-header-variant-1 = Камтар дидани равзанаҳои зоҳиршавандаи кукиҳо
-cfr-cookie-banner-handling-body-variant-1 = Иҷозат диҳед, ки «{ -brand-short-name }» аз ҷониби шумо ба равзанаҳои зоҳиршавандаи куки ба таври худкор ҷавоб диҳад, то шумо тавонед ба тамошокунии озод аз халалрасонӣ баргардед. «{ -brand-short-name }» ба қадри имкон ҳамаи дархостҳоро рад мекунад ё ба таври дигар ҳамаи дархостҳоро қабул мекунад.
-cfr-cookie-banner-accept-button-variant-1 = Қатъ кардани равзанаҳои зоҳиршаванда
-    .accesskey = Қ
-cfr-cookie-banner-reject-button-variant-1 = Не, ташаккур
-    .accesskey = Н
-cfr-cookie-banner-handling-header-variant-2 = Маҳдудкунии баннери куки
-cfr-cookie-banner-handling-body-variant-2 = Ба «{ -brand-short-name }» иҷозат медиҳед, то ки он ба қадри имкон дархости ризоияти кукии сомонаро рад кунад ё агар имкон набошад, дастрасии кукиҳоро қабул кунад?
-cfr-cookie-banner-accept-button-variant-2 = Иҷозат додан
-    .accesskey = И
-cfr-cookie-banner-reject-button-variant-2 = Ҳоло не
-    .accesskey = Ҳ
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Хатбаракҳои худро дар куҷое, ки набошед, ҳамоҳанг кунед.
@@ -266,6 +243,11 @@ cfr-cookiebanner-body-variant-2 = Ба «{ -brand-short-name }» иҷозат д
 cfr-cookiebanner-accept-button-variant-2 = Иҷозат додан
     .accesskey = И
 cfr-cookiebanner-reject-button-variant-2 = Ҳоло не
+    .accesskey = Ҳ
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-dismiss-button = Ҳоло не
     .accesskey = Ҳ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

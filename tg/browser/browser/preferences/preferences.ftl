@@ -966,6 +966,13 @@ sitedata-cookies-exceptions =
     .label = Идоракунии истисноҳо…
     .accesskey = И
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Маҳдудкунии баннери куки
+cookie-banner-learn-more = Маълумоти бештар
+forms-handle-cookie-banners =
+    .label = Маҳдуд кардани баннерҳои куки
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Навори нишонӣ
