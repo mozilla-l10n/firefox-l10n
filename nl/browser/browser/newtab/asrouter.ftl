@@ -246,6 +246,15 @@ cfr-cookiebanner-accept-button-variant-2 = Toestaan
 cfr-cookiebanner-reject-button-variant-2 = Niet nu
     .accesskey = N
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = { -brand-short-name } toestaan om cookiebanners te weigeren?
+cfr-cbh-body = { -brand-short-name } kan veel cookiebannerverzoeken automatisch weigeren.
+cfr-cbh-confirm-button = Cookiebanners weigeren
+    .accesskey = w
+cfr-cbh-dismiss-button = Niet nu
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Bij ons bent u veilig
