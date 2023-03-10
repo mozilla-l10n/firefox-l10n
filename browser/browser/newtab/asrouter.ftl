@@ -249,6 +249,15 @@ cfr-cookiebanner-accept-button-variant-2 = Дозволити
 cfr-cookiebanner-reject-button-variant-2 = Не зараз
     .accesskey = Н
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Дозволити { -brand-short-name } відхиляти банери кук?
+cfr-cbh-body = { -brand-short-name } може автоматично відхиляти багато запитів банерів кук.
+cfr-cbh-confirm-button = Відхилити банери кук
+    .accesskey = В
+cfr-cbh-dismiss-button = Не зараз
+    .accesskey = Н
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ми прикриваємо вас

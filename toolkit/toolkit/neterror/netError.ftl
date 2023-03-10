@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не мо�
 neterror-dns-not-found-native-fallback-attackers = Ви можете продовжити роботу з DNS-службою, що не є безпечною. Однак, сторонні особи можуть мати змогу бачити відвідувані вами вебсайти, або спрямовувати вас на небезпечні сайти.
 neterror-dns-not-found-native-fallback-heuristic = DNS через HTTPS було вимкнено у вашій мережі.
 neterror-dns-not-found-native-fallback-not-confirmed = З'єднання з { $trrDomain } ще не готове.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } не зміг встановити з'єднання з { $trrDomain }.
 
 ##
 
