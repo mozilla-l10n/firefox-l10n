@@ -57,27 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } iseqdacen
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Dayen iɣarracen n yinagan n tuqqna!
-cfr-cookie-banner-accept-button = Sefsex Tittriwin
-    .accesskey = f
-cfr-cookie-banner-reject-button = Mačči tura
-    .accesskey = M
-cfr-cookie-banner-handling-header-variant-1 = Wali cwiṭ n yisfuyla udhimen n yinagan n tuqqna
-cfr-cookie-banner-accept-button-variant-1 = Mdel isfuyla udhimen
-    .accesskey = d
-cfr-cookie-banner-reject-button-variant-1 = Ala tanemmirt
-    .accesskey = t
-cfr-cookie-banner-handling-header-variant-2 = Asenqes n yiɣarracen n yinagan n tuqqna
-cfr-cookie-banner-handling-body-variant-2 = Sireg { -brand-short-name }ad yagi asuter n uqbel n yinagan n tuqqna ma yella wamek neɣ ad yeqbel anekcum ɣer yinagan n tuqqna ma ulac amek?
-cfr-cookie-banner-accept-button-variant-2 = Sireg
-    .accesskey = S
-cfr-cookie-banner-reject-button-variant-2 = Mačči tura
-    .accesskey = M
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Mtawi ticraḍ n yisebter ar wanida tebɣiḍ.
@@ -259,7 +238,16 @@ cfr-cookiebanner-accept-button-variant-2 = Sireg
 cfr-cookiebanner-reject-button-variant-2 = Mačči tura
     .accesskey = M
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-dismiss-button = Mačči tura
+    .accesskey = M
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ad neḍmen ammesten-ik·im
 july-jam-set-default-primary = Ldi iseɣwan-iw s { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Awi-t
