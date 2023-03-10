@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = O { -brand-short-name } não pod
 neterror-dns-not-found-native-fallback-attackers = Pode continuar com um tradutor de DNS que não é seguro. No entanto, um terceiro pode ver quais os sites que visita ou pode ser encaminhado para um site não confiável.
 neterror-dns-not-found-native-fallback-heuristic = O DNS sob HTTPS foi desativado na sua rede.
 neterror-dns-not-found-native-fallback-not-confirmed = A ligação com { $trrDomain } ainda não está pronta.
+neterror-dns-not-found-native-fallback-not-confirmed2 = O { -brand-short-name } não conseguiu ligar-se a { $trrDomain }.
 
 ##
 
