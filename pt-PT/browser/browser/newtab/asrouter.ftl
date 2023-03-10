@@ -246,6 +246,15 @@ cfr-cookiebanner-accept-button-variant-2 = Permitir
 cfr-cookiebanner-reject-button-variant-2 = Agora não
     .accesskey = n
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Permitir que o { -brand-short-name } rejeite faixas de cookies?
+cfr-cbh-body = O { -brand-short-name } pode rejeitar automaticamente muitos pedidos de faixas de cookies.
+cfr-cbh-confirm-button = Rejeitar faixas de cookies
+    .accesskey = R
+cfr-cbh-dismiss-button = Agora não
+    .accesskey = n
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Estamos consigo
