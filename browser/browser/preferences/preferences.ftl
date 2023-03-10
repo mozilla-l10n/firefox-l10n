@@ -954,6 +954,10 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = 쿠키 배너 감소
+cookie-banner-handling-description = { -brand-short-name }는 지원되는 사이트의 쿠키 배너에서 쿠키 요청을 자동으로 거부하려고 시도합니다.
+cookie-banner-learn-more = 더 알아보기
+forms-handle-cookie-banners =
+    .label = 쿠키 배너 줄이기
 
 ## Privacy Section - Address Bar
 
