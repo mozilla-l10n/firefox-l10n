@@ -246,6 +246,15 @@ cfr-cookiebanner-accept-button-variant-2 = Tastean
 cfr-cookiebanner-reject-button-variant-2 = No net
     .accesskey = N
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = { -brand-short-name } tastean om cookiebanners te wegerjen?
+cfr-cbh-body = { -brand-short-name } kin in protte cookiebannerfersiken automatysk wegerje.
+cfr-cbh-confirm-button = Cookiebanners wegerje
+    .accesskey = w
+cfr-cbh-dismiss-button = No net
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = By ús binne jo feilich
