@@ -811,6 +811,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Azen aseɣwen
     .tooltiptext = Azen aseɣwen ɣer usebter-a
+toolbar-button-logins =
+    .label = Awalen uffiren
+    .tooltiptext = Sken, tesferkeḍ awalen uffiren yettwaseklasen
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
