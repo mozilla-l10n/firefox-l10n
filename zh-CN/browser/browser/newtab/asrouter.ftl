@@ -241,6 +241,15 @@ cfr-cookiebanner-accept-button-variant-2 = 允许
 cfr-cookiebanner-reject-button-variant-2 = 暂时不要
     .accesskey = N
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = 要允许 { -brand-short-name } 自动拒绝 Cookie 横幅的请求吗？
+cfr-cbh-body = { -brand-short-name } 可以自动拒绝许多 Cookie 横幅的请求。
+cfr-cbh-confirm-button = 拒绝 Cookie 横幅
+    .accesskey = R
+cfr-cbh-dismiss-button = 暂时不要
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = 保护您是我的职责

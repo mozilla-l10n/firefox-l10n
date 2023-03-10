@@ -268,6 +268,8 @@ webgl2-renderer = WebGL2 渲染器
 webgl2-version = WebGL 2 驱动程序版本
 webgl2-driver-extensions = WebGL 2 驱动程序扩展
 webgl2-extensions = WebGL 2 扩展
+webgpu-default-adapter = WebGPU 默认显卡
+webgpu-fallback-adapter = WebGPU 备用显卡
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = 由于已知问题，被列入屏蔽列表：<a data-l10n-name="bug-link">bug { $bugNumber }</a>
