@@ -73,6 +73,17 @@ restart-later = Emoñepyrũjey ag̃ave
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> ohechameme ko ñemboheko.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Ñemboheko…
     .accesskey = i
 containers-disable-alert-title = ¿Emmbotypaite tendayke guerekoha pegua?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Embotýramo ko’ág̃a umi guerekoha rendayke, tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Emboty { $tabCount } tendayke guerekoha
        *[other] Emboty { $tabCount } tendayke guerekoha
     }
+
+##
+
 containers-disable-alert-cancel-button = Emyandy memete
 containers-remove-alert-title = ¿Eipe’a ko guerekoha?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Eipe’áramo ko’ág̃a guerekoha, tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Moañete
 preferences-default-zoom = Moañete ypyguáva
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Porandu tapia
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } jepuru ({ -brand-short-name }-pe)
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Kuaave
 update-application-title = { -brand-short-name } mbohekopyahu
 update-application-description = Eguereko { -brand-short-name } tekopyahúreve hembiapo porã, hekopyta ha hekorosã hag̃ua.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Peteĩchagua{ $version } <a data-l10n-name="learn-more">Oĩpa mba’e pyahu</a>
 update-history =
     .label = Tembiasakue rekopyahu jehechauka…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Ojavy eñongatúvo mbohekopyahu ñemboheko
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Tetepy ha tembe’y mba’eapo
 performance-limit-content-process-enabled-desc = Umi taperekogua tetepy mbohetapy ikatu omopu’ã apopyre oipurúvo heta tendayke, hákatu avei oipurúta hetave mandu’arenda.
 performance-limit-content-process-blocked-desc = Pe mba’eapo papapy moambue retepy ikatu oiko mba’eapoita { -brand-short-name } ndive añónte. <a data-l10n-name="learn-more">Eikuaa mba’éichapa ehechajeýta mba’eapoita ijuruja jave</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ijypykue)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } he’i ndéve reike hag̃ua
 home-prefs-recommended-by-description-new = Tetepy iporãva { $provider } oiporavopyre, { -brand-product-name } mba’éva pegua
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Tenda jeporavo ha tetepy ramovegua
 home-prefs-snippets-header =
     .label = Mba’epehẽ
 home-prefs-snippets-description-new = Ñemoñe’ẽ ha marandu { -vendor-short-name } ha { -brand-product-name } rehegua
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Ejuhu hetave hekaha mongu’eha
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Jehero jo’apyre
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Eiporavókuri peteĩ jehero oipurúmava "{ $name }". Ikatúpiko eiporavo ambue.
 search-keyword-warning-bookmark = Eiporavókuri peteĩ jehero oipurúmava ambue techaukaha. Ikatúpiko eiporavo ambue.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = ñ
 sync-manage-account = Mba’ete ñangarekoha
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ndojehechajeýi gueteri.
 sync-signedin-login-failure = Eñepyrũ tembiapo eikejey hag̃ua { $email }
+
+##
+
 sync-resend-verification =
     .label = Emondo jehechajey pyahu
     .accesskey = d
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Kookie ha tenda mbakuaarã
 sitedata-total-size-calculating = Eikuaase tenda mba’ekuaarã ha kache tuichakue…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Umi kookie, tenda mba’ekuaarã ha kache mandu’arenda oipuruhína { $value } { $unit } disco pegua pa’ũ.
 sitedata-learn-more = Kuaave
 sitedata-delete-on-close =
@@ -931,6 +966,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Emongu’e oĩ’ỹva…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-learn-more = Kuaave
+forms-handle-cookie-banners =
+    .label = Emomichĩ kookie banner
 
 ## Privacy Section - Address Bar
 
