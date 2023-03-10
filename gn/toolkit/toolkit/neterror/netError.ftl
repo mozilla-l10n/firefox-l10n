@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nomo’ãk
 neterror-dns-not-found-native-fallback-attackers = Eku’ejeykuaa DNS mba’epururã hekorosã’ỹva ndive. Upéicharõ jepe, mbohapyháva ikatu ohecha mba’e ñanduti rendápepa eikera’e térã nemondo tenda hekorosã’ỹvape.
 neterror-dns-not-found-native-fallback-heuristic = DNS HTTPS rehegua ojepe’áma nde pyhágui.
 neterror-dns-not-found-native-fallback-not-confirmed = Pe { $trrDomain }-pe jeike noĩmbái gueteri.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
 
 ##
 

@@ -285,6 +285,8 @@ webgl2-renderer = WebGL 2 ñangarekoha rembiapokue
 webgl2-version = WebGL 2 ñangarekoha peteĩchagua
 webgl2-driver-extensions = WebGL 2 ñangarekoha jepysokue
 webgl2-extensions = WebGL 2 jepysokue
+webgpu-default-adapter = WebGPU moñondiveha ypygua
+webgpu-fallback-adapter = WebGPU moñondiveha mokõiha
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Tysýi jokopyre apañuãi ojekuaáva rupi: <a data-l10n-name="bug-link">bug { $bugNumber }</a>

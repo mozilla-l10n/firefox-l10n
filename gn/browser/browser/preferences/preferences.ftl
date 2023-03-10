@@ -969,6 +969,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Kookie Banner Ñemomichĩ
 cookie-banner-learn-more = Kuaave
 forms-handle-cookie-banners =
     .label = Emomichĩ kookie banner

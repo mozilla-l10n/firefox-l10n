@@ -247,6 +247,8 @@ cfr-cookiebanner-reject-button-variant-2 = Ani ko’ág̃a
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = ¿Emoneĩ { -brand-short-name } tomboyke kookie banner?
+cfr-cbh-body = { -brand-short-name } omboykekuaa ijehegui heta kookie banner mba’ejerure.
 cfr-cbh-confirm-button = Embojevy kookie banner
     .accesskey = R
 cfr-cbh-dismiss-button = Ani ko’ág̃a
