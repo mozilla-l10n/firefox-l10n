@@ -73,6 +73,17 @@ restart-later = Reaviar mai tard
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> contraròtla aqueste paramètre.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = a
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Paramètres…
     .accesskey = t
 containers-disable-alert-title = Tampar totes los onglets de contenedor ?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Se desactivetz los onglets isolats ara, { $tabCount } onglet isolat serà tampat. Segur que volatz desactivar los onglets isolats ?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Tampar { $tabCount } onglet isolat
        *[other] Tampar { $tabCount } onglets isolats
     }
+
+##
+
 containers-disable-alert-cancel-button = Gardar activat
 containers-remove-alert-title = Suprimir aqueste contenedor ?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Se suprimiscatz aquel contenedor ara, { $count } onglet isolat serà tampat. Segur que volètz suprimir aqueste contenidor ? 
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom per defaut
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage } %
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Totjorn demandar
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilizar { $plugin-name } (dins { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Ne saber mai
 update-application-title = Mesas a jorn de { -brand-short-name }
 update-application-description = Manténer { -brand-short-name } a jorn per de performança, estabilitat, e seguretat melhoras.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Novetats</a>
 update-history =
     .label = Afichar l'istoric de las mesas a jorn…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Error en enregistrant los paramètres de mesas a jorn
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Limit del procediment del contengut
 performance-limit-content-process-enabled-desc = De procediments de contengut suplementaris pòdon melhorar las performanças en utilizant d'onglets multiples, pasmens aquò utiliza mai de memòria.
 performance-limit-content-process-blocked-desc = Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de { -brand-short-name }. <a data-l10n-name="learn-more">Aprendre a verificar se de multiprocediments son activats</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (defaut)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomandat per { $provider }
 home-prefs-recommended-by-description-new = Contengut excepcional seleccionat per { $provider }, membre de la familha { -brand-product-name }
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Una seleccion de sites e contenguts rec
 home-prefs-snippets-header =
     .label = Extraches
 home-prefs-snippets-description-new = Astúcias e novetats de { -vendor-short-name } e { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Trobar mai de motors de recèrcas
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Doblon de mot clau
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Avètz causit un mot clau que ja es utilizat per « { $name } ». Causissètz-ne un autre.
 search-keyword-warning-bookmark = Avètz causit un mot clau que ja es utilizat per un marcapaginas. Causissètz-ne un autre.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = d
 sync-manage-account = Gestion del compte
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
+
+##
+
 sync-resend-verification =
     .label = Tornar mandar la verificacion
     .accesskey = t
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Cookies e donadas de sites
 sitedata-total-size-calculating = Calcul del pès de las donadas dels sites e del cache…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Los cookies, lo cache e las donadas dels sites utilizan actualament { $value } { $unit } d’espaci disc.
 sitedata-learn-more = Ne saber mai
 sitedata-delete-on-close =
@@ -931,6 +966,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gerir las excepcions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reduccion de las bandièras de cookies
+cookie-banner-handling-description = Permetre a { -brand-short-name } de regetar automaticament las demandas de cookies ?
+cookie-banner-learn-more = Ne saber mai
+forms-handle-cookie-banners =
+    .label = Reduire las bandièras de cookies
 
 ## Privacy Section - Address Bar
 
