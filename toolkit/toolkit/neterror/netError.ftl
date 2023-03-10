@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } 无法通�
 neterror-dns-not-found-native-fallback-attackers = 您可以继续使用不安全的 DNS 解析器。但是，第三方可能能够看到您访问的网站或将您带到不受信任的网站。
 neterror-dns-not-found-native-fallback-heuristic = 您的网络已禁用通过 HTTPS 的 DNS。
 neterror-dns-not-found-native-fallback-not-confirmed = 与 { $trrDomain } 的连接尚未就绪。
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } 无法连接至 { $trrDomain }。
 
 ##
 
