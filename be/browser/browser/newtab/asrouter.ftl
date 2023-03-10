@@ -59,29 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[many] { $total } карыстальнікаў
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Банеры з кукамі зніклі!
-cfr-cookie-banner-handling-body = Дазвольце { -brand-short-name } аўтаматычна адхіляць усе запыты банераў кукі, калі гэта магчыма. У адваротным выпадку ўсе кукі будуць прыняты, каб закрыць яшчэ больш банераў.
-cfr-cookie-banner-accept-button = Адхіляць запыты
-    .accesskey = А
-cfr-cookie-banner-reject-button = Не зараз
-    .accesskey = з
-cfr-cookie-banner-handling-header-variant-1 = Бачыць менш выплыўных акон пра кукі
-cfr-cookie-banner-handling-body-variant-1 = Дазвольце { -brand-short-name } аўтаматычна адказваць на выплыўныя вокны файлаў кукі, каб вы маглі вярнуцца да прагляду сайтаў без адцягнення ўвагі. { -brand-short-name } будзе адхіляць усе запыты, калі гэта магчыма, або прыме ўсе, калі не.
-cfr-cookie-banner-accept-button-variant-1 = Адхіляць выплыўныя вокны
-    .accesskey = в
-cfr-cookie-banner-reject-button-variant-1 = Не, дзякуй
-    .accesskey = з
-cfr-cookie-banner-handling-header-variant-2 = Памяншэнне колькасці банераў кукі
-cfr-cookie-banner-handling-body-variant-2 = Дазволіць { -brand-short-name } адхіляць запыты сайтаў на згоду на кукі, калі гэта магчыма, або прымаць доступ кукі, калі гэта немагчыма?
-cfr-cookie-banner-accept-button-variant-2 = Дазволіць
-    .accesskey = Д
-cfr-cookie-banner-reject-button-variant-2 = Не зараз
-    .accesskey = з
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Сінхранізуйце свае закладкі ўсюды.
@@ -270,6 +247,15 @@ cfr-cookiebanner-body-variant-2 = Паменшыце колькасць бане
 cfr-cookiebanner-accept-button-variant-2 = Дазволіць
     .accesskey = Д
 cfr-cookiebanner-reject-button-variant-2 = Не зараз
+    .accesskey = Н
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Дазволіць { -brand-short-name } адхіляць банеры кукі?
+cfr-cbh-body = { -brand-short-name } можа аўтаматычна адхіляць многія запыты банераў кукі.
+cfr-cbh-confirm-button = Адхіляць банеры кукі
+    .accesskey = к
+cfr-cbh-dismiss-button = Не зараз
     .accesskey = Н
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
