@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = ‏{ -brand-short-name } לא י
 neterror-dns-not-found-native-fallback-attackers = באפשרותך להמשיך עם מפענח DNS שאינו מאובטח. עם זאת, ייתכן שגורם מצד שלישי יוכל לראות באילו אתרים אתה מבקר, או לשלוח אותך לאתר שאינו מהימן.
 neterror-dns-not-found-native-fallback-heuristic = ‏DNS over HTTPS הושבת ברשת שלך.
 neterror-dns-not-found-native-fallback-not-confirmed = החיבור אל { $trrDomain } אינו מוכן עדיין.
+neterror-dns-not-found-native-fallback-not-confirmed2 = ‏{ -brand-short-name } לא הצליח להתחבר אל { $trrDomain }.
 
 ##
 
