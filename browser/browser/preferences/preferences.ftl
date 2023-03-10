@@ -120,7 +120,7 @@ always-check-default =
     .label = Vždy kontrolovať, či je { -brand-short-name } predvoleným prehliadačom
     .accesskey = r
 is-default = { -brand-short-name } je nastavený ako predvolený prehliadač
-is-not-default = { -brand-short-name } nie je vašim predvoleným prehliadačom
+is-not-default = { -brand-short-name } nie je vaším predvoleným prehliadačom
 set-as-my-default-browser =
     .label = Nastaviť ako predvolený…
     .accesskey = d
@@ -970,6 +970,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Spravovať výnimky…
     .accesskey = v
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Zníženie počtu bannerov súborov cookie
+cookie-banner-handling-description = { -brand-short-name } sa pokúsi automaticky odmietnuť žiadosti o povolenie súborov cookie na podporovaných stránkach.
+cookie-banner-learn-more = Ďalšie informácie
+forms-handle-cookie-banners =
+    .label = Znižovať počet bannerov súborov cookie
 
 ## Privacy Section - Address Bar
 
