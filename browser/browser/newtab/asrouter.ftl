@@ -288,6 +288,15 @@ cfr-cookiebanner-accept-button-variant-2 = Consenti
 cfr-cookiebanner-reject-button-variant-2 = Non adesso
   .accesskey = N
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Consentire a { -brand-short-name } di rifiutare automaticamente i banner per i cookie?
+cfr-cbh-body = { -brand-short-name } può rifiutare automaticamente i banner per i cookie in diversi siti.
+cfr-cbh-confirm-button = Rifiuta banner per i cookie
+  .accesskey = R
+cfr-cbh-dismiss-button = Non adesso
+  .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Sempre dalla tua parte
