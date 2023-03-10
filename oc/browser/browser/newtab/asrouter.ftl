@@ -246,6 +246,15 @@ cfr-cookiebanner-accept-button-variant-2 = Autorizar
 cfr-cookiebanner-reject-button-variant-2 = Pas ara
     .accesskey = P
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = { "" }
+cfr-cbh-body = { -brand-short-name } pòt regetar automaticament las demandas de cookies.
+cfr-cbh-confirm-button = Regetar las bandièras de cookies
+    .accesskey = R
+cfr-cbh-dismiss-button = Mai tard
+    .accesskey = M
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Asseguram vòstra proteccion
