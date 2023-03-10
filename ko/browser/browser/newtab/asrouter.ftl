@@ -55,29 +55,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } 사용자
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = 쿠키 배너가 사라졌습니다!
-cfr-cookie-banner-handling-body = 가능한 경우 { -brand-short-name }가 모든 쿠키 배너 요청을 자동으로 거부하도록 허용합니다. 그렇지 않으면 더 많은 배너를 닫기 위해 모든 쿠키를 수락합니다.
-cfr-cookie-banner-accept-button = 요청 닫기
-    .accesskey = D
-cfr-cookie-banner-reject-button = 나중에
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = 쿠키 팝업 덜 보기
-cfr-cookie-banner-handling-body-variant-1 = { -brand-short-name }가 쿠키 팝업에 자동으로 응답하도록 하여 방해받지 않고 탐색할 수 있습니다. { -brand-short-name }는 가능한 경우 모든 요청을 거부하고 그렇지 않은 경우 모두 수락합니다.
-cfr-cookie-banner-accept-button-variant-1 = 팝업 닫기
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = 아니요
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = 쿠키 배너 감소
-cfr-cookie-banner-handling-body-variant-2 = 가능한 경우 { -brand-short-name }가 사이트의 쿠키 동의 요청을 거부하거나 가능하지 않은 경우 쿠키 액세스를 수락하도록 허용하시겠습니까?
-cfr-cookie-banner-accept-button-variant-2 = 허용
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = 나중에
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 어디서나 북마크 동기화
@@ -264,6 +241,15 @@ cfr-cookiebanner-body-variant-2 = 가능한 경우 { -brand-short-name }가 웹 
 cfr-cookiebanner-accept-button-variant-2 = 허용
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = 나중에
+    .accesskey = N
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = { -brand-short-name }가 쿠키 배너를 거부하도록 허용하시겠습니까?
+cfr-cbh-body = { -brand-short-name }가 많은 쿠키 배너 요청을 자동으로 거부할 수 있습니다.
+cfr-cbh-confirm-button = 쿠키 배너 거부
+    .accesskey = R
+cfr-cbh-dismiss-button = 나중에
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
