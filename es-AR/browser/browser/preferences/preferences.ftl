@@ -967,6 +967,14 @@ sitedata-cookies-exceptions =
     .label = Administrar excepciones…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reducción de mensajes de cookies
+cookie-banner-handling-description = { -brand-short-name } intenta rechazar automáticamente los pedidos de mensajes de cookies en los sitios compatibles.
+cookie-banner-learn-more = Conocer más
+forms-handle-cookie-banners =
+    .label = Reducir mensajes de cookies
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de direcciones
