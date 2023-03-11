@@ -246,6 +246,15 @@ cfr-cookiebanner-accept-button-variant-2 = Tillåt
 cfr-cookiebanner-reject-button-variant-2 = Inte nu
     .accesskey = n
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Tillåt { -brand-short-name } att avvisa kakbanners?
+cfr-cbh-body = { -brand-short-name } kan automatiskt avvisa många kakbannerförfrågningar.
+cfr-cbh-confirm-button = Avvisa kakbanners
+    .accesskey = A
+cfr-cbh-dismiss-button = Inte nu
+    .accesskey = n
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Vi skyddar dig
@@ -254,4 +263,5 @@ july-jam-set-default-primary = Öppna mina länkar med { -brand-short-name }
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Dina PDF-filer öppnas nu i { -brand-short-name }.</strong> Redigera eller signera formulär direkt i din webbläsare. För att ändra, sök "PDF" i inställningarna.
 set-default-pdf-handler-primary = Jag förstår

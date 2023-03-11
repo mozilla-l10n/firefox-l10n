@@ -967,6 +967,14 @@ sitedata-cookies-exceptions =
     .label = Hantera undantag…
     .accesskey = u
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reducering av kakbanners
+cookie-banner-handling-description = { -brand-short-name } försöker automatiskt avvisa kakförfrågningar på kakbanners på webbplatser som stöds.
+cookie-banner-learn-more = Läs mer
+forms-handle-cookie-banners =
+    .label = Reducera kakbanners
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adressfält
