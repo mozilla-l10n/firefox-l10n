@@ -287,6 +287,12 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Առաջարկել ուժեղ գաղտնաբառ…
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = Կառավարել մուտքագրումները
+    .accesskey = M
 main-context-menu-keyword =
     .label = Ավելացնել Բանալի այս Որոնմանը…
     .accesskey = Բ
