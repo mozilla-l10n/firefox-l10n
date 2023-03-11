@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = ตรวจสอบว่า { -brand-s
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ไม่สามารถปกป้องคำขอของคุณสำหรับที่อยู่ของไซต์นี้ผ่านตัวแก้ไข DNS ที่เชื่อถือได้ของเราได้ นี่คือเหตุผล:
 neterror-dns-not-found-trr-only-attackers = หากคุณดำเนินการต่อ บุคคลที่สามอาจเห็นว่าคุณเยี่ยมชมเว็บไซต์ใดบ้าง หรือส่งคุณไปยังเว็บไซต์ที่ไม่น่าเชื่อถือได้
+neterror-dns-not-found-trr-third-party-warning = คุณสามารถดำเนินการต่อด้วยตัวแปลงที่อยู่ DNS ที่ไม่ปลอดภัยได้ อย่างไรก็ตาม บุคคลที่สามอาจสามารถเห็นเว็บไซต์ที่คุณเข้าชมได้
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ไม่สามารถเชื่อมต่อไปยัง { $trrDomain } ได้
 neterror-dns-not-found-trr-only-timeout = การเชื่อมต่อไปยัง { $trrDomain } ใช้เวลานานกว่าที่คาดไว้
 neterror-dns-not-found-trr-offline = คุณไม่ได้เชื่อมต่อกับอินเทอร์เน็ต
