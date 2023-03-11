@@ -971,6 +971,14 @@ sitedata-cookies-exceptions =
     .label = Управление исключениями…
     .accesskey = ю
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Снижение числа уведомлений о куках
+cookie-banner-handling-description = { -brand-short-name } автоматически пытается отклонить запросы кук на уведомлениях о куках на поддерживаемых сайтах.
+cookie-banner-learn-more = Подробнее
+forms-handle-cookie-banners =
+    .label = Уменьшения числа уведомлений о куках
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Адресная строка
