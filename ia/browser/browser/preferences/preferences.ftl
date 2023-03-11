@@ -970,6 +970,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Reduction de banner pro le cookies
+cookie-banner-handling-description = { -brand-short-name } automaticamente tenta rejectar requestas de cookies sur bandieras pro cookies, sur le sitos supportate.
 cookie-banner-learn-more = Pro saper plus
 forms-handle-cookie-banners =
     .label = Reducer bandieras pro cookies

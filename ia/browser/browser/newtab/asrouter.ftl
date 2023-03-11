@@ -248,6 +248,10 @@ cfr-cookiebanner-reject-button-variant-2 = Non ora
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Permitter a { -brand-short-name } de rejectar bandieras pro cookies?
+cfr-cbh-body = { -brand-short-name } pote rejectar automaticamente multe requestas de bandieras pro cookie.
+cfr-cbh-confirm-button = Rejectar bandieras pro cookies
+    .accesskey = R
 cfr-cbh-dismiss-button = Non ora
     .accesskey = N
 
