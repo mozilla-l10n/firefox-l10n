@@ -252,7 +252,7 @@ cfr-cookiebanner-reject-button-variant-2 = Не сейчас
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Разрешить { -brand-short-name } отклонять уведомления о куках?
-cfr-cbh-body = { -brand-short-name } может автоматически отклонять многие запросы уведомлений о куках.
+cfr-cbh-body = { -brand-short-name } может автоматически отклонять множество запросов уведомлений о куках.
 cfr-cbh-confirm-button = Отклонять уведомления о куках
     .accesskey = к
 cfr-cbh-dismiss-button = Не сейчас
