@@ -249,6 +249,15 @@ cfr-cookiebanner-accept-button-variant-2 = Разрешить
 cfr-cookiebanner-reject-button-variant-2 = Не сейчас
     .accesskey = е
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Разрешить { -brand-short-name } отклонять уведомления о куках?
+cfr-cbh-body = { -brand-short-name } может автоматически отклонять многие запросы уведомлений о куках.
+cfr-cbh-confirm-button = Отклонять уведомления о куках
+    .accesskey = к
+cfr-cbh-dismiss-button = Не сейчас
+    .accesskey = е
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Мы заботимся о вас
