@@ -288,6 +288,8 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
+webgpu-default-adapter = WebGPU Default Adapter
+webgpu-fallback-adapter = WebGPU Fallback Adapter
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blocklisted due to known issues: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
