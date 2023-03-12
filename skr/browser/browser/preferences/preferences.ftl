@@ -73,6 +73,17 @@ restart-later = بعد اِچ نویں سروں شروع کرو
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/><img data-l10n-name="icon"/> انہاں ترتیباں کوں کنٹرول کریندا ہے
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = ترتیباں …
     .accesskey = i
 containers-disable-alert-title = تمام کنٹینر ٹیباں بند کرو؟
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] جے تساں ہݨ کنٹینر ٹیباں کوں غیر فعال کریندے او تاں، { $tabCount } کنٹینر ٹیب بند تھی ویسے۔ کیا تساں واقعی کنٹینر ٹیباں کوں غیر فعال کرݨ چاہندے او؟
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] کنٹینر ٹیب { $tabCount } بند کرو
        *[other] کنٹینر ٹیباں { $tabCount } بند کرو
     }
+
+##
+
 containers-disable-alert-cancel-button = فعال رکھو
 containers-remove-alert-title = ایہ کنٹینر ہٹاؤ؟
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] جے تساں ہݨ ایں کنٹینر کوں ہٹیندے او تاں، { $count } کنٹینر ٹیب بند تھی ویسے۔ کیا تساں واقعی ایں کنٹینر کوں ہٹاوݨ چاہندے او؟
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = زوم
 preferences-default-zoom = طے شدہ زوم
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = ہمیشاں پچھو
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } استعمال کرو ({ -brand-short-name } وِچ)
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = ٻیا سِکھو
 update-application-title = { -brand-short-name } اپ ڈیٹس
 update-application-description = بہترین کارکردگی، استحکام تے سلامتی کیتے { -brand-short-name } کوں اپ ٹو ڈیٹ رکھو۔
+# Variables:
+# $version (string) - Firefox version
 update-application-version = ورژن { $version } <a data-l10n-name="learn-more"> نواں کیا ہے </a>
 update-history =
     .label = اپ ڈیٹ تاریخ ݙکھاؤ …
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = اپ ڈیٹ دیاں ترتیباں کوں محفوظ کرݨ وِچ خرابی۔
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 = { -brand-short-name } کوں ہک خامی دا سامݨا کرݨا پیا تے ایں تبدیلی کوں ہتھیکڑا نہیں کیتا۔ نوٹ کرو جو ایں اپ ڈیٹ دی ترتیب کوں تبدیل کرݨ کیتے تلے ݙتی ڳئی فائل وِچ لکھݨ دی اجازت درکار ہے۔ تساں یا سسٹم ایڈمنسٹریٹر ایں فائل تے یوزرز گروپ کوں مکمل کنٹرول ݙے تے ایں غلطی کوں حل کر سڳدے ہن۔
@@ -426,7 +448,7 @@ performance-limit-content-process-option = مواد دی عمل دی حد
 performance-limit-content-process-enabled-desc = متعدد ٹیباں استعمال کریندے ویلھے اضافی مواد دے عمل کارکردگی کوں بہتر بݨا سڳدے ہن، پر زیادہ میموری وی استعمال کریسن۔
 performance-limit-content-process-blocked-desc = مواد دے عمل دی تعداد وِچ ترمیم کرݨ صرف ملٹی پروسیس { -brand-short-name } نال ممکن ہے۔ <a data-l10n-name="learn-more"> تے ڄاݨو جو کیویں چیک کریجے جو آیا ملٹی پروسیس فعال ہے</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (طے شدہ)
 
@@ -532,6 +554,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } دی طرفوں تجویز کردہ
 home-prefs-recommended-by-description-new = { $provider } دے ذریعے تیار کیتا ڳیا غیر معمولی مواد، { -brand-product-name } ٹٻری دا حصہ
@@ -561,6 +587,8 @@ home-prefs-recent-activity-description = حالیہ سائٹاں تے مواد �
 home-prefs-snippets-header =
     .label = ٹکڑے
 home-prefs-snippets-description-new = { -vendor-short-name } تے { -brand-product-name } کنوں تجویزاں تے خبراں
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -625,7 +653,7 @@ search-find-more-link = ودھیک ڳولݨ انجݨ لبھو
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ڈپلی کیٹ کلیدی لفظ
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = تساں اینجھا کلیدی لفظ منتخب کیتا ہے جینکوں { $name } ایں ویلھے استعمال کریندا پئے۔ مہربانی کر تے کوئی ٻیا منتخب کرو۔
 search-keyword-warning-bookmark = تساں اینجھا کلیدی لفظ منتخب کیتا ہے جینکوں ہک نشانی ایں ویلھے استعمال کریندی ہے۔ مہربانی کر تے کوئی ٻیا منتخب کرو۔
 
@@ -672,8 +700,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = اکاؤنٹ منظم کرو
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } توثیق شدہ کائنی۔
 sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ مہربانی سائن ان کرو
+
+##
+
 sync-resend-verification =
     .label = توثیق کاری ولا بھیڄو
     .accesskey = d
@@ -887,8 +922,8 @@ history-clear-button =
 sitedata-header = کوکیاں تے سائٹ ڈیٹا
 sitedata-total-size-calculating = سائٹ ڈیٹا تے کیشے دی سائز دی ڳݨ منج تھیندی پئی اے …
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = تہاݙیاں سانبھیاں ہویاں کوکیاں، سائٹ دا ڈیٹا، تے کیشے فی الحال { $value } { $unit } ڈسک دی جاہ استعمال کریندے پئے ہن۔
 sitedata-learn-more = ٻیا سِکھو
 sitedata-delete-on-close =
@@ -928,6 +963,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مستثنیات کوں منظم کرو …
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-learn-more = ٻیا سِکھو
+forms-handle-cookie-banners =
+    .label = کوکی بینراں کوں تھوڑا کرو
 
 ## Privacy Section - Address Bar
 

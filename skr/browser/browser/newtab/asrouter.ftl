@@ -244,6 +244,13 @@ cfr-cookiebanner-accept-button-variant-2 = اجازت ݙیوو
 cfr-cookiebanner-reject-button-variant-2 = ہݨ کائناں
     .accesskey = N
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-confirm-button = کوکی بینراں کوں مسترد کرو
+    .accesskey = R
+cfr-cbh-dismiss-button = ہݨ کائناں
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
