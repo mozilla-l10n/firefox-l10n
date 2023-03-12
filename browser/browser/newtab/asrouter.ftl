@@ -55,29 +55,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } người dùng
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Biểu ngữ cookie sẽ biến mất!
-cfr-cookie-banner-handling-body = Cho phép { -brand-short-name } tự động từ chối tất cả các yêu cầu biểu ngữ cookie khi có thể. Nếu không, tất cả các cookie sẽ được chấp nhận để loại bỏ nhiều biểu ngữ hơn nữa.
-cfr-cookie-banner-accept-button = Loại bỏ biểu ngữ cookie
-    .accesskey = D
-cfr-cookie-banner-reject-button = Không phải bây giờ
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Xem ít cửa sổ bật lên về cookie hơn
-cfr-cookie-banner-handling-body-variant-1 = Hãy để { -brand-short-name } tự động trả lời các cửa sổ bật lên cookie cho bạn để bạn có thể quay lại trình duyệt mà không bị phân tâm. { -brand-short-name } sẽ từ chối tất cả các yêu cầu nếu có thể hoặc chấp nhận tất cả nếu không.
-cfr-cookie-banner-accept-button-variant-1 = Loại bỏ cửa sổ bật lên
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = Không, cảm ơn
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Giảm biểu ngữ cookie
-cfr-cookie-banner-handling-body-variant-2 = Cho phép { -brand-short-name } từ chối yêu cầu chấp thuận cookie của trang web nếu có thể hoặc chấp nhận quyền truy cập cookie khi không thể?
-cfr-cookie-banner-accept-button-variant-2 = Cho phép
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = Không phải bây giờ
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Đồng bộ dấu trang của bạn ở mọi nơi.
@@ -264,6 +241,15 @@ cfr-cookiebanner-body-variant-2 = Giảm số lượng biểu ngữ cookie bạn
 cfr-cookiebanner-accept-button-variant-2 = Cho phép
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = Không phải bây giờ
+    .accesskey = N
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Cho phép { -brand-short-name } từ chối biểu ngữ cookie?
+cfr-cbh-body = { -brand-short-name } có thể tự động từ chối nhiều yêu cầu biểu ngữ cookie.
+cfr-cbh-confirm-button = Từ chối biểu ngữ cookie
+    .accesskey = R
+cfr-cbh-dismiss-button = Không phải bây giờ
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

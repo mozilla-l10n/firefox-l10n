@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } không th�
 neterror-dns-not-found-native-fallback-attackers = Bạn có thể tiếp tục với trình phân giải DNS không an toàn. Tuy nhiên, bên thứ ba có thể xem những trang web bạn truy cập hoặc đưa bạn đến một trang web không đáng tin cậy.
 neterror-dns-not-found-native-fallback-heuristic = DNS over HTTP đã bị tắt trên mạng của bạn.
 neterror-dns-not-found-native-fallback-not-confirmed = Kết nối tới { $trrDomain } chưa sẵn sàng.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } không thể kết nối với { $trrDomain }.
 
 ##
 
