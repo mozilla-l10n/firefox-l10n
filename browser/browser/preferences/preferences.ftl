@@ -967,6 +967,13 @@ sitedata-cookies-exceptions =
     .label = İstisnaları yönet…
     .accesskey = İ
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Çerez bildirimlerini azaltma
+cookie-banner-learn-more = Daha fazla bilgi al
+forms-handle-cookie-banners =
+    .label = Çerez bildirimlerini azalt
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adres çubuğu
