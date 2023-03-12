@@ -73,6 +73,17 @@ restart-later = Restart Later
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controls this setting.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Settings…
     .accesskey = i
 containers-disable-alert-title = Close All Container Tabs?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] If you disable Container Tabs now, { $tabCount } container tab will be closed. Are you sure you want to disable Container Tabs?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Close { $tabCount } Container Tab
        *[other] Close { $tabCount } Container Tabs
     }
+
+##
+
 containers-disable-alert-cancel-button = Keep enabled
 containers-remove-alert-title = Remove This Container?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] If you remove this Container now, { $count } container tab will be closed. Are you sure you want to remove this Container?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Default zoom
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Always ask
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Use { $plugin-name } (in { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Learn more
 update-application-title = { -brand-short-name } Updates
 update-application-description = Keep { -brand-short-name } up to date for the best performance, stability, and security.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">What’s new</a>
 update-history =
     .label = Show Update History…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Error saving Update settings
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Content process limit
 performance-limit-content-process-enabled-desc = Additional content processes can improve performance when using multiple tabs, but will also use more memory.
 performance-limit-content-process-blocked-desc = Modifying the number of content processes is only possible with multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Learn how to check if multiprocess is enabled</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
 home-prefs-recommended-by-description-new = Exceptional content curated by { $provider }, part of the { -brand-product-name } family
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = A selection of recent sites and content
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description-new = Tips and news from { -vendor-short-name } and { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Find more search engines
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicate Keyword
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = You have chosen a keyword that is currently in use by “{ $name }”. Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Manage account
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } is not verified.
 sync-signedin-login-failure = Please sign in to reconnect { $email }
+
+##
+
 sync-resend-verification =
     .label = Resend Verification
     .accesskey = d
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Cookies and Site Data
 sitedata-total-size-calculating = Calculating site data and cache size…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Your stored cookies, site data, and cache are currently using { $value } { $unit } of disk space.
 sitedata-learn-more = Learn more
 sitedata-delete-on-close =
@@ -931,6 +966,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Cookie Banner Reduction
+cookie-banner-handling-description = { -brand-short-name } automatically tries to reject cookie requests on cookie banners on supported sites.
+cookie-banner-learn-more = Learn more
+forms-handle-cookie-banners =
+    .label = Reduce Cookie Banners
 
 ## Privacy Section - Address Bar
 
