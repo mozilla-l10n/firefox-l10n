@@ -97,6 +97,17 @@ restart-later = Рестартуј касније
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> контролише ово подешавање.
@@ -156,7 +167,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = з
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -179,6 +190,10 @@ browser-containers-settings =
     .label = Подешавања…
     .accesskey = П
 containers-disable-alert-title = Затворити све картице у контејнеру?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ако онемогућите картице у контејнеру, затворићете { $tabCount } такву картицу. Желите ли заиста да наставите?
@@ -191,10 +206,13 @@ containers-disable-alert-ok-button =
         [few] Затвори { $tabCount } картице у контејнеру
        *[other] Затвори { $tabCount } картица у контејнеру
     }
+
+##
+
 containers-disable-alert-cancel-button = Остави укључено
 containers-remove-alert-title = Уклонити овај контејнер?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Ако уклоните овај контејнер, затворићете { $count } картицу у њему. Желите ли заиста да наставите?
@@ -257,6 +275,8 @@ advanced-fonts =
 preferences-zoom-header = Зумирање
 preferences-default-zoom = Ниво зумирања:
     .accesskey = з
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -336,15 +356,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Увек питај
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label =
         Користи { $plugin-name } (у { -brand-short-name.gender ->
@@ -411,6 +431,8 @@ update-application-description =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     }.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Верзија { $version } <a data-l10n-name="learn-more">Шта је ново</a>
 update-history =
     .label = Прикажи историју ажурирања…
@@ -449,7 +471,7 @@ update-application-suppress-prompts =
     .accesskey = П
 update-setting-write-failure-title2 = Грешка при чувању подешавања ажурирања
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -479,7 +501,7 @@ performance-limit-content-process-option = Лимит процеса садрж�
 performance-limit-content-process-enabled-desc = Додатни процеси за обраду садржаја могу да побољшају перформансе када је отворено више картица, али ће користити више меморије.
 performance-limit-content-process-blocked-desc = Уређивање броја процеса садржаја је могуће само када је омогућен вишепроцесни { -brand-short-name }. <a data-l10n-name="learn-more">Сазнајте како да проверите да ли су мултипроцеси омогућени</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (подразумевано)
 
@@ -585,6 +607,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Предложио { $provider }
 home-prefs-recommended-by-description-new = Изузетан садржај који је уредио { $provider }, део { -brand-product-name } породице
@@ -620,6 +646,8 @@ home-prefs-snippets-description-new =
         [neuter] { -brand-product-name(case: "acc") }
        *[other] програм { -brand-product-name }
     } и организацију { -vendor-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -685,7 +713,7 @@ search-find-more-link = Пронађите више претраживача
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Постојећа кључна реч
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Изабрали сте кључну реч коју тренутно користи "{ $name }". Одаберете неку другу.
 search-keyword-warning-bookmark = Одабрали сте кључну реч коју тренутно користи обележивач. Изаберете неку другу.
 
@@ -732,8 +760,15 @@ sync-sign-out =
     .accesskey = О
 sync-manage-account = Управљај налогом
     .accesskey = У
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } није потврђен.
 sync-signedin-login-failure = Пријавите се да бисте се поново повезали са { $email }
+
+##
+
 sync-resend-verification =
     .label = Поново пошаљи верификацију
     .accesskey = о
@@ -953,8 +988,8 @@ history-clear-button =
 sitedata-header = Колачићи и подаци о сајтовима
 sitedata-total-size-calculating = Рачунам податке сајта и кеш меморију…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ускладиштени колачићи, подаци о сајтовима и кеш тренутно заузимају { $value } { $unit } простора на диску.
 sitedata-learn-more = Сазнајте више
 sitedata-delete-on-close =
@@ -1006,6 +1041,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Управљај изузецима…
     .accesskey = з
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 
@@ -1059,7 +1097,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Уравнотежена заштита и перформанса. Странице ће се нормално учитавати.
+content-blocking-etp-standard-desc = Уравнотежена заштита и перформанса. Странице ће се учитавати уобичајено.
 content-blocking-etp-strict-desc = Већи ниво заштите, али може да онеспособи рад неких веб-сајтова.
 content-blocking-etp-custom-desc = Изаберите које елементе за праћење и скрипте желите да блокирате.
 content-blocking-etp-blocking-desc = { -brand-short-name } блокира следеће:
