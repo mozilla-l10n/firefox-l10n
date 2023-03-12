@@ -231,7 +231,7 @@ colorways-cfr-header-today = Farebná téma Nezávislé hlasy je dostupná už l
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Bannery k súborom cookie sú preč!
-cfr-cookiebanner-body = Povoliť { -brand-short-name(case: "dat") } automaticky odmietnuť všetky požiadavky na bannery cookie, keď je to možné.
+cfr-cookiebanner-body = Povoliť { -brand-short-name(case: "dat") } automaticky odmietnuť všetky požiadavky na uloženie súborov cookie vždy, keď je to možné.
 cfr-cookiebanner-accept-button-v2 = Odmietnuť žiadosti
     .accesskey = d
 cfr-cookiebanner-reject-button = Teraz nie
@@ -242,8 +242,8 @@ cfr-cookiebanner-accept-button-variant-1 = Zavrieť vyskakovacie okná
     .accesskey = v
 cfr-cookiebanner-reject-button-variant-1 = Nie, ďakujem
     .accesskey = N
-cfr-cookiebanner-header-variant-2 = Zníženie počtu bannerov súborov cookie
-cfr-cookiebanner-body-variant-2 = Znížte počet zobrazených bannerov súborov cookie tak, že povolíte { -brand-short-name(case: "dat") } odmietnuť žiadosť webovej stránky o súhlas so súbormi cookie, ak je to možné.
+cfr-cookiebanner-header-variant-2 = Zníženie počtu bannerov k súborom cookie
+cfr-cookiebanner-body-variant-2 = Znížte počet zobrazených bannerov k súborom cookie tak, že povolíte { -brand-short-name(case: "dat") } odmietnuť žiadosť webovej stránky o súhlas so súbormi cookie, ak je to možné.
 cfr-cookiebanner-accept-button-variant-2 = Povoliť
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Teraz nie
@@ -251,6 +251,10 @@ cfr-cookiebanner-reject-button-variant-2 = Teraz nie
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Povoliť { -brand-short-name(case: "dat") } odmietnuť bannery cookie?
+cfr-cbh-body = { -brand-short-name } môže automaticky odmietnuť mnohé požiadavky na povolenie súborov cookie.
+cfr-cbh-confirm-button = Odmietnuť bannery súborov cookie
+    .accesskey = O
 cfr-cbh-dismiss-button = Teraz nie
     .accesskey = T
 
