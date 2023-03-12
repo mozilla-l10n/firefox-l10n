@@ -285,6 +285,8 @@ webgl2-renderer = Renderizador del controlador WebGL 2
 webgl2-version = Versión del controlador WebGL 2
 webgl2-driver-extensions = Extensiones del controlador WebGL 2
 webgl2-extensions = Extensiones WebGL 2
+webgpu-default-adapter = Adaptador predeterminado de WebGPU
+webgpu-fallback-adapter = Adaptador alternativo WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Lista bloqueada debido a problemas conocidos: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
