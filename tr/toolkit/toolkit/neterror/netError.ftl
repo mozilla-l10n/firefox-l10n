@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name }, güvenili
 neterror-dns-not-found-native-fallback-attackers = Güvenli olmayan bir DNS çözümleyici ile devam edebilirsiniz. Bu durumda üçüncü taraflar hangi web sitelerini ziyaret ettiğinizi görebilir veya sizi güvenilmeyen bir siteye gönderebilir.
 neterror-dns-not-found-native-fallback-heuristic = Ağınızda HTTP üzerinden DNS devre dışı bırakıldı.
 neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } bağlantısı henüz hazır değil.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } adresine bağlanamadı.
 
 ##
 

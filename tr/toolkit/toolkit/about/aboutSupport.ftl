@@ -285,6 +285,7 @@ webgl2-renderer = WebGL2 çizici
 webgl2-version = WebGL 2 sürücü sürümü
 webgl2-driver-extensions = WebGL 2 sürücü uzantıları
 webgl2-extensions = WebGL 2 uzantıları
+webgpu-default-adapter = Varsayılan WebGPU bağdaştırıcısı
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Bilinen sorunlar nedeniyle engellendi: <a data-l10n-name="bug-link">bug { $bugNumber }</a>

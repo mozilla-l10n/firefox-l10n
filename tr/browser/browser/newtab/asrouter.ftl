@@ -246,6 +246,15 @@ cfr-cookiebanner-accept-button-variant-2 = İzin ver
 cfr-cookiebanner-reject-button-variant-2 = Daha sonra
     .accesskey = D
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = { -brand-short-name } çerez bildirimlerini reddedebilsin mi?
+cfr-cbh-body = { -brand-short-name } birçok çerez bildirimi isteğini otomatik olarak reddedebilir.
+cfr-cbh-confirm-button = Çerez bildirimlerini reddet
+    .accesskey = r
+cfr-cbh-dismiss-button = Daha sonra
+    .accesskey = D
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Sizi koruyoruz
