@@ -251,9 +251,9 @@ cfr-cookiebanner-reject-button-variant-2 = Teraz nie
 
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Povoliť { -brand-short-name(case: "dat") } odmietnuť bannery cookie?
+cfr-cbh-header = Povoliť { -brand-short-name(case: "dat") } odmietnuť bannery k súborom cookie?
 cfr-cbh-body = { -brand-short-name } môže automaticky odmietnuť mnohé požiadavky na povolenie súborov cookie.
-cfr-cbh-confirm-button = Odmietnuť bannery súborov cookie
+cfr-cbh-confirm-button = Odmietnuť bannery k súborom cookie
     .accesskey = O
 cfr-cbh-dismiss-button = Teraz nie
     .accesskey = T

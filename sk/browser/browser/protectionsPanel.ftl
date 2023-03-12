@@ -102,18 +102,18 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
-protections-panel-cookie-banner-handling-header = Zníženie počtu bannerov súborov cookie
+protections-panel-cookie-banner-handling-header = Zníženie počtu bannerov k súborom cookie
 protections-panel-cookie-banner-handling-enabled = Zapnuté pre túto stránku
 protections-panel-cookie-banner-handling-disabled = Vypnuté pre túto stránku
 protections-panel-cookie-banner-handling-undetected = Stránka momentálne nie je podporovaná
 protections-panel-cookie-banner-view-title =
-    .title = Zníženie počtu bannerov súborov cookie
+    .title = Zníženie počtu bannerov k súborom cookie
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Naspäť
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = Vypnúť znižovanie počtu bannerov súborov cookie pre { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = Zapnúť znižovanie počtu bannerov súborov cookie pre túto stránku?
+protections-panel-cookie-banner-view-turn-off-for-site = Vypnúť znižovanie počtu bannerov k súborom cookie pre { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Zapnúť znižovanie počtu bannerov k súborom cookie pre túto stránku?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vymaže súbory cookie tohto webu a obnoví stránku. Vymazanie všetkých súborov cookie vás môže odhlásiť zo stránky alebo vyprázdniť nákupné košíky.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } sa pokúša automaticky odmietnuť všetky žiadosti o súbory cookie na podporovaných stránkach.
 protections-panel-cookie-banner-view-cancel = Zrušiť

@@ -973,11 +973,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
-cookie-banner-handling-header = Zníženie počtu bannerov súborov cookie
+cookie-banner-handling-header = Zníženie počtu bannerov k súborom cookie
 cookie-banner-handling-description = { -brand-short-name } sa pokúsi automaticky odmietnuť žiadosti o povolenie súborov cookie na podporovaných stránkach.
 cookie-banner-learn-more = Ďalšie informácie
 forms-handle-cookie-banners =
-    .label = Znižovať počet bannerov súborov cookie
+    .label = Znižovať počet bannerov k súborom cookie
 
 ## Privacy Section - Address Bar
 
