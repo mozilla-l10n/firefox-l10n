@@ -47,29 +47,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } ຜູ່ໃຊ້
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = ປ້າຍໂຄສະນາຄຸກກີເລີ່ມແລ້ວ!
-cfr-cookie-banner-handling-body = ອະນຸຍາດໃຫ້ { -brand-short-name } ປະຕິເສດການຮ້ອງຂໍປ້າຍໂຄສະນາຄຸກກີໂດຍອັດຕະໂນມັດ, ເມື່ອເປັນໄປໄດ້. ຖ້າບໍ່ດັ່ງນັ້ນ, ຄຸກກີ້ທັງໝົດຈະຖືກຍອມຮັບເພື່ອປິດປ້າຍໂຄສະນາຫຼາຍຂຶ້ນ.
-cfr-cookie-banner-accept-button = ປິດການຮ້ອງຂໍ
-    .accesskey = D
-cfr-cookie-banner-reject-button = ບໍ່ແມ່ນຕອນນີ້
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = ເບິ່ງປັອບອັບຄຸກກີໜ້ອຍລົງ
-cfr-cookie-banner-handling-body-variant-1 = ໃຫ້ { -brand-short-name } ຕອບຄຸກກີ້ປັອບອັບໃຫ້ທ່ານໂດຍອັດຕະໂນມັດ ເພື່ອໃຫ້ເຈົ້າສາມາດກັບຄືນສູ່ການທ່ອງເວັບແບບບໍ່ມີສິ່ງລົບກວນໄດ້. { -brand-short-name } ຈະປະຕິເສດການຮ້ອງຂໍທັງໝົດຖ້າເປັນໄປໄດ້, ຫຼືຍອມຮັບທັງໝົດຖ້າບໍ່ແມ່ນ.
-cfr-cookie-banner-accept-button-variant-1 = ປິດປັອບອັບ
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = ບໍ່, ຂອບໃຈ
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
-cfr-cookie-banner-handling-body-variant-2 = ອະນຸຍາດໃຫ້ { -brand-short-name } ປະຕິເສດການຮ້ອງຂໍການຍິນຍອມເຫັນດີຈາກຄຸກກີຂອງເວັບໄຊຫາກເປັນໄປໄດ້ ຫຼືຍອມຮັບການເຂົ້າເຖິງຄຸກກີເມື່ອບໍ່ເປັນໄປໄດ້ບໍ?
-cfr-cookie-banner-accept-button-variant-2 = ອະນຸຍາດ
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = ບໍ່ແມ່ນຕອນນີ້
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = ຊິງຄ໌ບຸກມາກຂອງທ່ານຢູ່ທົ່ວທຸກແຫ່ງ.
@@ -254,6 +231,11 @@ cfr-cookiebanner-accept-button-variant-2 = ອະນຸຍາດ
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-confirm-button = ປະຕິເສດປ້າຍໂຄສະນາຄຸກກີ
+    .accesskey = R
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
