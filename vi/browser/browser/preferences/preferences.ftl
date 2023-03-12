@@ -951,6 +951,14 @@ sitedata-cookies-exceptions =
     .label = Quản lý ngoại lệ…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Giảm biểu ngữ cookie
+cookie-banner-handling-description = { -brand-short-name } tự động cố gắng từ chối các yêu cầu cookie trên biểu ngữ cookie trên các trang web được hỗ trợ.
+cookie-banner-learn-more = Tìm hiểu thêm
+forms-handle-cookie-banners =
+    .label = Giảm biểu ngữ cookie
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Thanh địa chỉ
