@@ -82,6 +82,8 @@ dns-not-found-trr-only-title = Πιθανός κίνδυνος ασφαλεία�
 # Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Πιθανός κίνδυνος ασφαλείας για το { $hostname }.
+dns-not-found-trr-only-title2 = Πιθανός κίνδυνος ασφαλείας κατά την αναζήτηση αυτού του τομέα
+dns-not-found-native-fallback-title2 = Πιθανός κίνδυνος ασφαλείας κατά την αναζήτηση αυτού του τομέα
 fileNotFound-title = Το αρχείο δεν βρέθηκε
 fileAccessDenied-title = Άρνηση πρόσβασης στο αρχείο
 generic-title = Ωχ!
