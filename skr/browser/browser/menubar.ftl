@@ -69,7 +69,7 @@ menu-file-open-location =
     .label = محل وقوع کھولو …
 menu-file-open-file =
     .label = فائل کھولو …
-    .accesskey = { "" }
+    .accesskey = O
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =

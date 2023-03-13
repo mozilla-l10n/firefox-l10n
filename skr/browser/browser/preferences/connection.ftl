@@ -6,15 +6,15 @@ connection-window =
     .title = کنکشن ترتیباں
     .style =
         { PLATFORM() ->
-            [macos] چوڑائی: 44em
-           *[other] چوڑائی: 49em
+            [macos] width: 44em
+           *[other] width: 49em
         }
 connection-window2 =
     .title = کنکشن ترتیباں
     .style =
         { PLATFORM() ->
-            [macos] کم از کم چوڑائی: 44em
-           *[other] کم از کم چوڑائی: 49em
+            [macos] min-width: 44em
+           *[other] min-width: 49em
         }
 connection-close-key =
     .key = w

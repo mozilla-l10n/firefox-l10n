@@ -19,7 +19,7 @@ location-open-shortcut =
 location-open-shortcut-alt =
     .key = D
 search-focus-shortcut =
-    .key = { "" }
+    .key = K
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
