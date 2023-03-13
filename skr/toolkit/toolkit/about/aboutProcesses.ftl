@@ -165,7 +165,7 @@ about-processes-cpu-fully-idle = idle
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = ارتقاء: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
-about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 

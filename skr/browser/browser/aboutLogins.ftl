@@ -294,16 +294,6 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>نویں لاگ ان شامل تھئے:</span> <span data-l10n-name="count">{ $count }</span>
     }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] { "" }
-       *[other] <span> موجودہ لاگ انز اپڈیٹ تھئی: <span data-l10n-name="count">
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] { "" }
-       *[other] <span> ڈپلیکیٹ لاگ انز لبھئین: </span><span data-l10n-name="count"><span data-l10n-name="count"></span><span data-l10n-name="meta"><span data-l10n-name="meta"> (درآمد نئیں) </span>
-    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] { "" }

@@ -84,9 +84,6 @@ restart-later = بعد اِچ نویں سروں شروع کرو
 ## Variables:
 ##   $name (string) - Name of the extension
 
-# This string is shown to notify the user that the password manager setting
-# is being controlled by an extension
-extension-controlling-password-saving = <img data-l10n-name="icon"/><img data-l10n-name="icon"/> انہاں ترتیباں کوں کنٹرول کریندا ہے
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ایں ترتیب کوں کنٹرول کریندا ہے۔
@@ -420,11 +417,6 @@ update-application-suppress-prompts =
     .label = گھٹ اپ ڈیٹ نوٹیفکیشن پرامپٹس ݙکھاؤ۔
     .accesskey = n
 update-setting-write-failure-title2 = اپ ڈیٹ دیاں ترتیباں کوں محفوظ کرݨ وِچ خرابی۔
-# Variables:
-#   $path (string) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message2 = { -brand-short-name } کوں ہک خامی دا سامݨا کرݨا پیا تے ایں تبدیلی کوں ہتھیکڑا نہیں کیتا۔ نوٹ کرو جو ایں اپ ڈیٹ دی ترتیب کوں تبدیل کرݨ کیتے تلے ݙتی ڳئی فائل وِچ لکھݨ دی اجازت درکار ہے۔ تساں یا سسٹم ایڈمنسٹریٹر ایں فائل تے یوزرز گروپ کوں مکمل کنٹرول ݙے تے ایں غلطی کوں حل کر سڳدے ہن۔
 update-in-progress-title = اپ ڈیٹ جاری ہے
 update-in-progress-message = کیا تہاݙی { -brand-short-name } دی اپ ڈیٹ جاری رکھݨ چاہندے او؟
 update-in-progress-ok-button = تے کڈھ سٹو

@@ -13,15 +13,18 @@
 onboarding-welcome-header = { -brand-short-name } وِچ جی آیاں کوں
 onboarding-start-browsing-button-label = براؤزنگ شروع کرو
 onboarding-not-now-button-label = ہݨ کائناں
+mr1-onboarding-get-started-primary-button-label = شروع کرو
+mr1-onboarding-welcome-header = { -brand-short-name } اِچ جی آیاں کوں
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } کوں میݙا منڈھلا براؤزر بݨاؤ
+    .title = { -brand-short-name } کوں بطور ڈیفالٹ براؤزر سیٹ کرو تے ٹاسک بار دو پن کرو
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } کوں میݙا ڈیفالٹ براؤزر بݨاؤ
+mr1-onboarding-set-default-secondary-button-label = ہݨ کائناں
 
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = ٻہوں چنڳاں، تہاکوں { -brand-short-name } مل ڳیا ہے
-# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = ہݨ تہاکوں مل سڳدے ہن <img data-l10n-name="icon"/>
 return-to-amo-add-extension-label = ایکسٹینشن  شامل کرو
 return-to-amo-add-theme-label = تھیم شامل کرو
 
@@ -82,16 +85,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = شروع کرو
-mr1-onboarding-welcome-header = { -brand-short-name } اِچ جی آیاں کوں
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } کوں میݙا منڈھلا براؤزر بݨاؤ
-    .title = { -brand-short-name } کوں بطور ڈیفالٹ براؤزر سیٹ کرو تے ٹاسک بار دو پن کرو
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } کوں میݙا ڈیفالٹ براؤزر بݨاؤ
-mr1-onboarding-set-default-secondary-button-label = ہݨ کائناں
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = سائن ان تھیوو
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -178,11 +172,6 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = ایہ کلر وے استعمال کرو۔
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = کلر ویز دی پٹ پھلور کرو
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway

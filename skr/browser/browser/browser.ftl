@@ -5,20 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (نجی براؤزنگ)
-    .data-content-title-default = { -brand-full-name } (نجی براؤزنگ)
-    .data-content-title-private = { -brand-full-name }
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -672,7 +658,7 @@ reader-view-close-button =
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain"></span> ہݨ فل سکرین ہے
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ہݨ فل سکرین ہے
 fullscreen-warning-no-domain = ایہ دستاویز ہݨ پوری سکرین ہے
 fullscreen-exit-button = پوری سکرین کنوں ٻاہر نکلو (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
@@ -680,7 +666,7 @@ fullscreen-exit-mac-button = پوری سکرین کنوں ٻاہر نکلو (esc
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
-pointerlock-warning-domain = <span data-l10n-name="domain"></span> دے کول تہاݙے پوائنٹر دا کنرول ہے۔ کنٹرول ولا گھنݨ کیتے Esc دٻاؤ
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> دے کول تہاݙے پوائنٹر دا کنرول ہے۔ کنٹرول ولا گھنݨ کیتے Esc دٻاؤ
 pointerlock-warning-no-domain = ایں دستاویز دے کول تہاݙے پوائنٹر دا کنٹرول ہے۔ کنٹرول ولا گھنݨ کیتے Esc دٻاؤ
 
 ## Subframe crash notification
