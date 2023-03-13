@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = ସବୁଠାରୁ ଭଲ ସାଇଟ
 newtab-topsites-title-label = ଶୀର୍ଷକ
 newtab-topsites-title-input =
     .placeholder = ଏକ ଶୀର୍ଷକ ଭରନ୍ତୁ
-
 newtab-topsites-url-label = ୟୁଆର୍‌ଏଲ୍‌
 newtab-topsites-url-input =
     .placeholder = ଗୋଟିଏ ଯୁଆରଏଲ ଲେଖନ୍ତୁ କିମ୍ବା ଛାପନ୍ତୁ
 newtab-topsites-url-validation = ବୈଧ ଯୁଆରଏଲ ଆବଶ୍ୟକ
-
 newtab-topsites-image-url-label = ଇଚ୍ଛାରୁପି ଛବି ଯୁଆରଏଲ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -46,16 +44,16 @@ newtab-confirm-delete-history-p2 = ଏହି କାର୍ଯ୍ୟର ପଦକ�
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = ତାଲିକା ଖୋଲନ୍ତୁ
     .aria-label = ତାଲିକା ଖୋଲନ୍ତୁ
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = ତାଲିକା ଖୋଲନ୍ତୁ
     .aria-label = { $title } ପାଇଁ ତାଲିକା ଖୋଲନ୍ତୁ
@@ -81,8 +79,6 @@ newtab-menu-archive-pocket = { -pocket-brand-name }ରେ ସକ୍ରିୟ
 
 newtab-privacy-modal-button-done = ସମାପ୍ତ
 newtab-privacy-modal-header = ଆପଣଙ୍କର ଗୋପନୀୟତା ଜରୁରୀ ଅଟେ
-
-
 
 ##
 
@@ -144,8 +140,9 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = ସବୁଠାରୁ ଭଲ ସାଇଟଗୁଡ଼ିକ
+newtab-section-header-recent-activity = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider }ଦ୍ୱାରା ସୁପାରିଶକୃତ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -165,15 +162,20 @@ newtab-discovery-empty-section-topstories-timed-out = ଓହୋ! ପରିଚ୍
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ଲୋକପ୍ରିୟ ବିଷୟଗୁଡ଼ିକ:
 newtab-pocket-more-recommendations = ଅଧିକ ସୁପାରିଶ
+newtab-pocket-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 newtab-pocket-cta-button = { -pocket-brand-name } ପାଆନ୍ତୁ
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = ଇସ୍, ଏହି ବିଷୟବସ୍ତୁ ଲୋଡ୍ କରିବାରେ କିଛି ଗଡ଼ବଡ଼ ଦେଖାଯାଇଛି।
 newtab-error-fallback-refresh-link = ପୃଷ୍ଠାଟିକୁ ରିଫ୍ରେଶ କରି ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ
 
 ## Customization Menu
 
+newtab-custom-recent-title = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
+newtab-custom-close-button = ବନ୍ଦ କରନ୍ତୁ

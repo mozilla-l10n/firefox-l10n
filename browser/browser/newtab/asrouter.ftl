@@ -57,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } ବ୍ୟବହାରକାରୀଗଣ
     }
 
-## Cookie Banner Handling Onboarding
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-link-text = ବର୍ତ୍ତମାନ ବୁକମାର୍କକୁ ସମସାମୟିକ କରନ୍ତୁ...
@@ -70,7 +67,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = ଅନୁସରଣହୀନ ବ୍ରାଉଜିଂ କରନ୍ତୁ
-cfr-protections-panel-link-text = ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
+cfr-protections-panel-link-text = ଅଧିକ ଜାଣନ୍ତୁ
 
 ## What's New toolbar button and panel
 
@@ -98,6 +95,10 @@ cfr-doorhanger-milestone-ok-button = ସବୁ ଦେଖନ୍ତୁ
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = ଅଧିକ ଜାଣନ୍ତୁ
+    .title = ବୈଶିଷ୍ଟ୍ୟ ବିଷୟରେ ଅଧିକ ଜାଣିବା ପାଇଁ ପ୍ରସାରଣ କରନ୍ତୁ
+spotlight-learn-more-expanded = ଅଧିକ ଜାଣନ୍ତୁ
+    .title = ବନ୍ଦ କରନ୍ତୁ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -108,9 +109,11 @@ cfr-doorhanger-milestone-ok-button = ସବୁ ଦେଖନ୍ତୁ
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-secondary-button = ଏବେ ନୁହେଁ
 
 ## Emotive Continuous Onboarding
 
+spotlight-pin-secondary-button = ଏବେ ନୁହେଁ
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -133,6 +136,9 @@ cfr-doorhanger-milestone-ok-button = ସବୁ ଦେଖନ୍ତୁ
 
 
 ## Colorways expiry reminder CFR
+
+
+## Cookie Banner Handling CFR
 
 
 ## Cookie Banner Handling CFR
