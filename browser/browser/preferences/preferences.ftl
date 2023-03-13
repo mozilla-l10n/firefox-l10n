@@ -73,6 +73,17 @@ restart-later = Ponovno zaženi pozneje
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = To nastavitev nadzira <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = t
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Nastavitve …
     .accesskey = N
 containers-disable-alert-title = Zapri vse vsebniške zavihke?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Če vsebniške zavihke onemogočite zdaj, bo { $tabCount } vsebniški zavihek zaprt. Ali jih res želite onemogočiti?
@@ -169,10 +184,13 @@ containers-disable-alert-ok-button =
         [few] Zapri { $tabCount } vsebniške zavihke
        *[other] Zapri { $tabCount } vsebniških zavihkov
     }
+
+##
+
 containers-disable-alert-cancel-button = Pusti omogočeno
 containers-remove-alert-title = Odstranim ta vsebnik?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Če ta vsebnik odstranite zdaj, bo { $count } vsebniški zavihek zaprt. Ali ste prepričani, da želite odstraniti ta vsebnik?
@@ -236,6 +254,8 @@ advanced-fonts =
 preferences-zoom-header = Povečava
 preferences-default-zoom = Privzeta povečava
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage } %
 preferences-zoom-text-only =
@@ -328,15 +348,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Vedno vprašaj
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Uporabi { $plugin-name } (v { -brand-short-name })
 applications-open-inapp =
@@ -379,6 +399,8 @@ play-drm-content =
 play-drm-content-learn-more = Več o tem
 update-application-title = Posodobitve { -brand-short-name(sklon: "rodilnik") }
 update-application-description = Ohranite { -brand-short-name } posodobljen za najboljšo zmogljivost, stabilnost in varnost.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Različica { $version } <a data-l10n-name="learn-more">Novosti</a>
 update-history =
     .label = Prikaži zgodovino posodobitev …
@@ -405,7 +427,7 @@ update-application-suppress-prompts =
     .accesskey = m
 update-setting-write-failure-title2 = Napaka pri shranjevanju nastavitev posodobitev
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -435,7 +457,7 @@ performance-limit-content-process-option = Omejitev procesov vsebine
 performance-limit-content-process-enabled-desc = Dodatni procesi vsebine lahko pospešijo delovanje pri uporabi večjega števila zavihkov, a tudi porabijo več pomnilnika.
 performance-limit-content-process-blocked-desc = Število procesov vsebine je mogoče spreminjati samo v večprocesnem { -brand-short-name(sklon: "mestnik") }. <a data-l10n-name="learn-more">Kako izveste, ali je večprocesni način omogočen</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (privzeto)
 
@@ -541,6 +563,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Priporoča { $provider }
 home-prefs-recommended-by-description-new = Izjemna vsebina, ki jo pripravlja { $provider }, del družine { -brand-product-name }
@@ -570,6 +596,8 @@ home-prefs-recent-activity-description = Izbor nedavnih spletnih mest in vsebin
 home-prefs-snippets-header =
     .label = Izrezki
 home-prefs-snippets-description-new = Nasveti in novice od { -vendor-short-name(sklon: "rodilnik") } in { -brand-product-name(sklon: "rodilnik") }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -636,7 +664,7 @@ search-find-more-link = Najdi več iskalnikov
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Podvojena ključna beseda
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Izbrali ste ključno besedo, ki jo trenutno uporablja "{ $name }". Prosim, izberite drugo.
 search-keyword-warning-bookmark = Izbrali ste ključno besedo, ki jo trenutno uporablja zaznamek. Prosim, izberite drugo.
 
@@ -683,8 +711,15 @@ sync-sign-out =
     .accesskey = j
 sync-manage-account = Upravljanje računa
     .accesskey = U
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ni potrjen.
 sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
+
+##
+
 sync-resend-verification =
     .label = Ponovno pošlji potrditev
     .accesskey = n
@@ -898,8 +933,8 @@ history-clear-button =
 sitedata-header = Piškotki in podatki strani
 sitedata-total-size-calculating = Računanje velikosti podatkov strani in predpomnilnika …
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Shranjeni piškotki, podatki strani in predpomnilnik trenutno zavzemajo { $value } { $unit } prostora na disku.
 sitedata-learn-more = Več o tem
 sitedata-delete-on-close =
@@ -939,6 +974,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Upravljanje izjem ...
     .accesskey = z
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Zmanjšanje števila pasic s piškotki
+cookie-banner-handling-description = { -brand-short-name } samodejno poskuša zavrniti vse zahteve pasic za shranjevanje piškotkov na spletnih mestih, ki so podprta.
+cookie-banner-learn-more = Več o tem
+forms-handle-cookie-banners =
+    .label = Zmanjšajte število pasic s piškotki
 
 ## Privacy Section - Address Bar
 

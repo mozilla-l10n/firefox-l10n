@@ -61,29 +61,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } uporabnikov
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Pasice s piškotki, izginite!
-cfr-cookie-banner-handling-body = Dovoli { -brand-short-name(sklon: "dajalnik") }, da samodejno zavrne vse zahteve za shranjevanje piškotkov, kadar je to mogoče. V nasprotnem primeru bo sprejel vse piškotke in zaprl pasico.
-cfr-cookie-banner-accept-button = Zavrni zahteve
-    .accesskey = Z
-cfr-cookie-banner-reject-button = Ne zdaj
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Manj pozivov za sprejetje piškotkov
-cfr-cookie-banner-handling-body-variant-1 = Naj { -brand-short-name } namesto vas odgovarja na zahteve za shranjevanje piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če to ne bo mogoče, pa jih bo sprejel.
-cfr-cookie-banner-accept-button-variant-1 = Zavrni zahteve
-    .accesskey = Z
-cfr-cookie-banner-reject-button-variant-1 = Ne, hvala
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Zmanjšanje števila pasic s piškotki
-cfr-cookie-banner-handling-body-variant-2 = Dovolite { -brand-short-name(sklon: "dajalnik") }, da zavrača zahteve spletnih mest za shranjevanje piškotkov, če to ni mogoče, pa jih sprejme?
-cfr-cookie-banner-accept-button-variant-2 = Dovoli
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-2 = Ne zdaj
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinhronizirajte zaznamke povsod.
@@ -273,6 +250,15 @@ cfr-cookiebanner-body-variant-2 = Zmanjšajte število pasic s piškotki, tako d
 cfr-cookiebanner-accept-button-variant-2 = Dovoli
     .accesskey = D
 cfr-cookiebanner-reject-button-variant-2 = Ne zdaj
+    .accesskey = N
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Dovolite { -brand-short-name(sklon: "dajalnik") }, da zavrača pasice s piškotki?
+cfr-cbh-body = { -brand-short-name } lahko samodejno zavrne številne zahteve za shranjevanje piškotkov.
+cfr-cbh-confirm-button = Zavračaj pasice s piškotki
+    .accesskey = Z
+cfr-cbh-dismiss-button = Ne zdaj
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
