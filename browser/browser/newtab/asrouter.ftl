@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuários
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Chega de avisos de cookies!
-cfr-cookie-banner-handling-body = Permitir que o { -brand-short-name } rejeite automaticamente todas as solicitações de avisos de cookies, quando possível. Caso contrário, todos os cookies serão aceitos para descartar ainda mais avisos.
-cfr-cookie-banner-accept-button = Descartar pedidos
-    .accesskey = D
-cfr-cookie-banner-reject-button = Agora não
-    .accesskey = n
-cfr-cookie-banner-handling-header-variant-1 = Ver menos avisos de cookies
-cfr-cookie-banner-handling-body-variant-1 = Permitir que o { -brand-short-name } responda automaticamente a avisos de cookies para que você possa voltar a navegar sem distrações. O { -brand-short-name } rejeitará todas as solicitações, se possível, caso contrário aceitará todas.
-cfr-cookie-banner-accept-button-variant-1 = Descartar avisos
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-1 = Não, obrigado
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Redução de avisos de cookies
-cfr-cookie-banner-handling-body-variant-2 = Permitir que o { -brand-short-name } recuse pedidos de consentimento de cookies de um site, se possível, ou aceite o acesso a cookies quando não for possível?
-cfr-cookie-banner-accept-button-variant-2 = Permitir
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Agora não
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronize seus favoritos em qualquer lugar.
@@ -265,6 +242,15 @@ cfr-cookiebanner-body-variant-2 = Reduza a quantidade de avisos de cookies que a
 cfr-cookiebanner-accept-button-variant-2 = Permitir
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Agora não
+    .accesskey = n
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Permitir que o { -brand-short-name } rejeite avisos de cookies?
+cfr-cbh-body = O { -brand-short-name } pode rejeitar automaticamente muitas solicitações de avisos de cookies.
+cfr-cbh-confirm-button = Rejeitar avisos de cookies
+    .accesskey = R
+cfr-cbh-dismiss-button = Agora não
     .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
