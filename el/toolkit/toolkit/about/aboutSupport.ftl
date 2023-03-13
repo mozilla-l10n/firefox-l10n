@@ -288,6 +288,8 @@ webgl2-renderer = Πρόγραμμα οδήγησης απεικόνισης Web
 webgl2-version = Έκδοση προγράμματος οδήγησης WebGL 2
 webgl2-driver-extensions = Επεκτάσεις προγράμματος οδήγησης WebGL 2
 webgl2-extensions = Επεκτάσεις WebGL 2
+webgpu-default-adapter = Προεπιλεγμένος προσαρμογέας WebGPU
+webgpu-fallback-adapter = Εφεδρικός προσαρμογέας WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Αποκλείστηκε λόγω γνωστών ζητημάτων: <a data-l10n-name="bug-link">σφάλμα { $bugNumber }</a>
