@@ -298,6 +298,8 @@ webgl2-renderer = Izrisovalnik gonilnika WebGL 2
 webgl2-version = Različica gonilnika WebGL 2
 webgl2-driver-extensions = Razširitve gonilnika WebGL 2
 webgl2-extensions = Razširitve WebGL 2
+webgpu-default-adapter = Privzeta vmesniška kartica za WebGPU
+webgpu-fallback-adapter = Pomožna vmesniška kartica za WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Dodano na seznam zavrnjenih zaradi znanih težav: <a data-l10n-name="bug-link">hrošč { $bugNumber }</a>

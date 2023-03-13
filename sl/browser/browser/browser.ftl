@@ -819,6 +819,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Pošlji povezavo
     .tooltiptext = Pošlji povezavo na to stran
+toolbar-button-logins =
+    .label = Gesla
+    .tooltiptext = Ogled in upravljanje shranjenih gesel
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
