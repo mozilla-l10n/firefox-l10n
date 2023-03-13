@@ -248,6 +248,8 @@ cfr-cookiebanner-reject-button-variant-2 = Ahora no
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = ¿Permitir que { -brand-short-name } rechace los anuncios de cookies?
+cfr-cbh-body = { -brand-short-name } puede rechazar automáticamente muchos anuncios de cookies.
 cfr-cbh-confirm-button = Rechazar los anuncios de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Ahora no
