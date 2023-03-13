@@ -24,16 +24,12 @@
 ## is an IETF protocol, and should not normally be translated.
 
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
 
 ##
-
 
 about-webrtc-save-page-label = ପୃଷ୍ଠା ସଂରକ୍ଷଣ କରନ୍ତୁ
 
@@ -49,11 +45,20 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ବନ�
 
 ##
 
+about-webrtc-fold-show-msg = ବିବରଣୀ ଦେଖାନ୍ତୁ
+    .title = ଏହି ବିଭାଗକୁ ପ୍ରସାରଣ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
+about-webrtc-fold-hide-msg = ବିବରଣୀ ଲୁଚାନ୍ତୁ
+    .title = ଏହି ବିଭାଗକୁ ସଙ୍କୋଚନ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -68,11 +73,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ବନ�
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
-##
-
-##
+## These are displayed on the button that shows or hides the SDP information disclosure
 
 
 ##
-
 
