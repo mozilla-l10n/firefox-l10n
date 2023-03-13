@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ڳولو
     .aria-label = ڳولو
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } نال ڳولو یا پتہ درج کرو
 newtab-search-box-handoff-text-no-engine = ڳولو یا پتہ درج کرو
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = { $engine } نال ڳولو یا پتہ درج کرو
     .title = { $engine } نال ڳولو یا پتہ درج کرو
@@ -86,7 +86,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = ہٹاؤ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = مینیو کھولو
     .aria-label = { $title } کیتے کنٹیسکٹ مینیو کھولو
@@ -117,7 +117,7 @@ newtab-privacy-modal-header = تہاݙی رازداری دی اہمیت ہے۔
 newtab-privacy-modal-paragraph-2 =
     دلفریب کہانیاں پیش کرݨ دے علاوہ، اساں تہاکوں متعلقہ وی ݙکھیندے ہیں،
     منتخب سپائسرز دی طرفوں انتہائی جانچ شدہ مواد۔ یقین رکھو، <strong> تہاݙی براؤزنگ
-    ݙیٹا کݙاہیں وی { -brand-product-name }</strong></strong> دی تہاݙی ذاتی کاپی نہیں چھوڑیندا — اساں اینکوں نہیں ݙیکھدے، تے اساݙے
+    ݙیٹا کݙاہیں وی { -brand-product-name }</strong> دی تہاݙی ذاتی کاپی نہیں چھوڑیندا — اساں اینکوں نہیں ݙیکھدے، تے اساݙے
     سپانسرز وی کائنی۔
 newtab-privacy-modal-link = سکھو جو نویں ٹیب تے رازداری کیویں کم کریندی ہے
 
@@ -158,16 +158,16 @@ newtab-label-saved = { -pocket-brand-name } وِچ محفوظ شدہ
 newtab-label-download = ڈاؤن لوڈ شدہ
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } - تعاون شدہ
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = { $sponsor } توں تعاون شدہ
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -196,7 +196,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = بہترین سائٹس
 newtab-section-header-recent-activity = حالیہ سرگرمی
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } دی طرفوں تجویز کردہ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -204,7 +204,7 @@ newtab-section-header-pocket = { $provider } دی طرفوں تجویز کردہ
 newtab-empty-section-highlights = برائوزنگ شروع کرو، تے اساں تہاکوں کجھ بہترین عبارتاں، وڈیوز تے حالیہ دورہ شددہ ٻئے صفحات یا بک مارک ݙکھیسوں۔
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = تساں وٹھی گھدا ہے۔ { $provider } کنوں ودھیک اہم خبراں کیتے بعد اِچ دوبارہ چیک کرو۔ انتظا نہیں سڳدے؟ ویب دے چودھاروں ودھیک عمدہ کہانیاں لبھݨ کیتے ہک مقبول موضوع منتخب کرو۔
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -253,6 +253,8 @@ newtab-error-fallback-refresh-link = ولدا کوشش کرݨ کیتے ورقے 
 
 newtab-custom-shortcuts-title = شارٹ کٹ
 newtab-custom-shortcuts-subtitle = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } قطار
