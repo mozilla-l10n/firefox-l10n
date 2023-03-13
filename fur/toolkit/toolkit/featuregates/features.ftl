@@ -42,7 +42,7 @@ experimental-features-abouthome-startup-cache-description = Une cache pal docume
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Trate i cookies dal stes domini, ma cun schemis diferents (p.e. http://esempli.com e https://esempli.com) come inter-sît invezit che stes-sît. Chest al miore la sigurece, ma al podarès puartâ a problemis te navigazion.
+experimental-features-cookie-samesite-schemeful-description = Trate i cookies dal stes domini, ma cun schemis diferents (p.e. http://example.com e https://example.com) come inter-sît invezit che stes-sît. Chest al miore la sigurece, ma al podarès puartâ a problemis te navigazion.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Struments di disvilup: debug dal service worker
