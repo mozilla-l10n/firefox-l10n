@@ -82,7 +82,7 @@ dns-not-found-trr-only-title = Risg diogelwch posib ar gyfer { $hostname }.
 # Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Risg diogelwch posib ar gyfer { $hostname }.
-dns-not-found-trr-only-title2 = Risg diogelwch posibl wrth edrych am y parth hwn
+dns-not-found-trr-only-title2 = Risg diogelwch posibl wrth chwilio'r parth hwn
 dns-not-found-native-fallback-title2 = Risg diogelwch posibl wrth chwilio'r parth hwn
 fileNotFound-title = Heb ganfod ffeil
 fileAccessDenied-title = Mae mynediad at y ffeil wedi ei wrthod

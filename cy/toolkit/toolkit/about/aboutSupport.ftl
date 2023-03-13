@@ -305,6 +305,8 @@ webgl2-renderer = Rendrwr Gyrrwr WebGL 2
 webgl2-version = Fersiwn Gyrrwr WebGL 2
 webgl2-driver-extensions = Estyniadau Gyrrwr WebGL 2
 webgl2-extensions = Estyniadau WebGL 2
+webgpu-default-adapter = Addasydd Rhagosodedig WebGPU
+webgpu-fallback-adapter = Addasydd wrth Gefn WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Ar y Rhestr Rhwystro oherwydd materion hysbys: <a data-l10n-name="bug-link">bug { $bugNumber }</a>

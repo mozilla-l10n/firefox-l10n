@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = Nid yw { -brand-short-name } yn 
 neterror-dns-not-found-native-fallback-attackers = Gallwch barhau â datryswr DNS nad yw'n ddiogel. Fodd bynnag, efallai y bydd trydydd parti yn gallu gweld pa wefannau rydych chi'n ymweld â nhw neu'n eich anfon i wefan nad yw'n ymddiried ynddo.
 neterror-dns-not-found-native-fallback-heuristic = Mae DNS dros HTTPS wedi'i analluogi ar eich rhwydwaith.
 neterror-dns-not-found-native-fallback-not-confirmed = Nid yw'r cysylltiad â { $trrDomain } yn barod eto.
+neterror-dns-not-found-native-fallback-not-confirmed2 = Nid oedd modd i { -brand-short-name } gysylltu â { $trrDomain } .
 
 ##
 
