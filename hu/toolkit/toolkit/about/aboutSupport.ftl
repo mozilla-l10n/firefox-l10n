@@ -285,6 +285,8 @@ webgl2-renderer = WebGL 2 illesztőprogram megjelenítő
 webgl2-version = WebGL 2 illesztőprogram verzió
 webgl2-driver-extensions = WebGL 2 illesztőprogram kiterjesztései
 webgl2-extensions = WebGL 2 kiterjesztések
+webgpu-default-adapter = WebGPU alapértelmezett adaptere
+webgpu-fallback-adapter = WebGPU tartalék adaptere
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Ismert problémák miatt blokkolva: <a data-l10n-name="bug-link">{ $bugNumber }. hiba</a>

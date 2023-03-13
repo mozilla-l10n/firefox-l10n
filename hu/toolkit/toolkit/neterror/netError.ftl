@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = A { -brand-short-name } nem tudj
 neterror-dns-not-found-native-fallback-attackers = Folytathatja egy nem biztonságos DNS-feloldóval. Előfordulhat azonban, hogy egy harmadik fél láthatja, hogy milyen webhelyeket keres fel, vagy nem megbízható webhelyre küldheti Önt.
 neterror-dns-not-found-native-fallback-heuristic = A HTTP-n keresztüli DNS le van tiltva a hálózatán.
 neterror-dns-not-found-native-fallback-not-confirmed = A kapcsolat még nem áll készen a következő felé: { $trrDomain }.
+neterror-dns-not-found-native-fallback-not-confirmed2 = A { -brand-short-name } nem tudott csatlakozni a következő domainhoz: { $trrDomain }.
 
 ##
 
