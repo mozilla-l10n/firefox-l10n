@@ -110,6 +110,10 @@ protections-panel-cookie-banner-view-title =
     .title = Μείωση μπάνερ cookie
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Πίσω
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Απενεργοποίηση μείωσης μπάνερ για cookie στο { $host };
+protections-panel-cookie-banner-view-turn-on-for-site = Ενεργοποίηση μείωσης μπάνερ για cookie σε αυτόν τον ιστότοπο;
 protections-panel-cookie-banner-view-turn-on-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα αιτήματα cookie σε υποστηριζόμενους ιστότοπους.
 protections-panel-cookie-banner-view-cancel = Ακύρωση
 protections-panel-cookie-banner-view-turn-off = Απενεργοποίηση
