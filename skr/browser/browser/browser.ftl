@@ -340,7 +340,6 @@ bookmark-panel-remove =
     .label =
         { $count ->
             [1] نشانی مٹاؤ
-            [one] { "" }
            *[other] { $count } نشانیاں مٹاؤ
         }
     .accesskey = R

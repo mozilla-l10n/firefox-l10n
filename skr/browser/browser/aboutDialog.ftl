@@ -10,7 +10,7 @@ update-checkForUpdatesButton =
     .accesskey = C
 update-updateButton =
     .label = { -brand-shorter-name } اپڈیٹ دوبارہ شروع کرو
-    .accesskey = { "" }
+    .accesskey = R
 update-checkingForUpdates = اپڈیٹ کیتے ݙیکھدا پیا ہے…
 update-downloading = <img data-l10n-name="icon"/>تازہ کاری ڈاؤن لوڈ کریندا پیا ہے—<label data-l10n-name="download-status"/>
 update-downloading-message = اپ ڈیٹ ڈاؤن لوڈ تھیندا پیا ہے—<label data-l10n-name="download-status"/>

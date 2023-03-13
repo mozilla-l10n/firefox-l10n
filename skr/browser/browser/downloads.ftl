@@ -79,12 +79,6 @@ downloads-cmd-show-panel-2 =
             [macos] فولڈر وِچ ݙکھاؤ
            *[other] فولڈر وِچ ݙکھاؤ
         }
-downloads-cmd-show-description-2 =
-    .value =
-        { PLATFORM() ->
-            [macos] فولڈر وِچ ݙکھاؤ
-           *[other] { "" }
-        }
 downloads-cmd-show-downloads =
     .label = ڈاؤن لوڈ فولڈر ݙکھاؤ
 downloads-cmd-retry =
@@ -183,7 +177,7 @@ downloads-cancel-download =
 downloads-history =
     .label = تمام ڈاؤن لوڈ ݙکھاؤ
     .accesskey = S
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = ڈاؤن لوڈ تفصیلاں
