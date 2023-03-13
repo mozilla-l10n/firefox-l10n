@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } bejelentkezés
        *[other] { $count } bejelentkezés
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } / { $total } bejelentkezés
+       *[other] { $count } / { $total } bejelentkezés
+    }
 login-list-sort-label-text = Rendezés:
 login-list-name-option = Név (A-Z)
 login-list-name-reverse-option = Név (Z-A)
