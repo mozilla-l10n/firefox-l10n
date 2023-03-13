@@ -967,6 +967,10 @@ sitedata-cookies-exceptions =
     .label = Administrar excepciones...
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-learn-more = Saber más
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de direcciones
