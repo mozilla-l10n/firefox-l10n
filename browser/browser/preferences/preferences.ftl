@@ -983,6 +983,14 @@ sitedata-cookies-exceptions =
     .label = Rheoli Eithriadau…
     .accesskey = R
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Cyfyngu Baneri Cwcis
+cookie-banner-handling-description = Mae { -brand-short-name } yn ceisio gwrthod yn awtomatig pob cais cwci ar wefannau sy’n cael eu cefnogi.
+cookie-banner-learn-more = Dysgu Rhagor
+forms-handle-cookie-banners =
+    .label = Cyfyngu Baneri Cwcis
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Bar Cyfeiriadau

@@ -65,29 +65,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } defnyddiwr
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Gwaredu baneri cwcis!
-cfr-cookie-banner-handling-body = Caniatáu i { -brand-short-name } wrthod pob cais baner cwci yn awtomatig, pan fo modd. Fel arall, bydd pob cwci yn cael ei dderbyn i gau mwy fyth o faneri.
-cfr-cookie-banner-accept-button = Gwrthod Ceisiadau
-    .accesskey = G
-cfr-cookie-banner-reject-button = Nid Nawr
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Gweld llai o lamlenni cwcis
-cfr-cookie-banner-handling-body-variant-1 = Gadael i { -brand-short-name } ateb ffenestri llamlenni cwcis yn awtomatig er mwyn i chi fod yn rhydd i bori. Bydd { -brand-short-name } yn gwrthod pob cais os yn bosib, neu'n derbyn pob cais os nad.
-cfr-cookie-banner-accept-button-variant-1 = Cau Llamlenni
-    .accesskey = C
-cfr-cookie-banner-reject-button-variant-1 = Dim diolch
-    .accesskey = D
-cfr-cookie-banner-handling-header-variant-2 = Llai o Faneri Cwcis
-cfr-cookie-banner-handling-body-variant-2 = Caniatáu i { -brand-short-name } wrthod cais caniatâd cwci gwefan os yn bosibl neu dderbyn mynediad cwcis pan nad yw’n bosibl?
-cfr-cookie-banner-accept-button-variant-2 = Caniatáu
-    .accesskey = C
-cfr-cookie-banner-reject-button-variant-2 = Nid nawr
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Cydweddu eich nodau tudalen ym mhob man
@@ -279,6 +256,15 @@ cfr-cookiebanner-body-variant-2 = Lleihewch nifer y baneri cwci rydych yn eu gwe
 cfr-cookiebanner-accept-button-variant-2 = Caniatáu
     .accesskey = C
 cfr-cookiebanner-reject-button-variant-2 = Nid Nawr
+    .accesskey = N
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Caniatáu i { -brand-short-name } wrthod baneri cwci?
+cfr-cbh-body = Gall { -brand-short-name } wrthod llawer o geisiadau baner cwci yn awtomatig.
+cfr-cbh-confirm-button = Gwrthod baneri cwci
+    .accesskey = G
+cfr-cbh-dismiss-button = Nid nawr
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
