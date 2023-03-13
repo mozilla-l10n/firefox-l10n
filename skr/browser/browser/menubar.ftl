@@ -76,8 +76,7 @@ menu-file-close-tab =
     .label =
         { $tabCount ->
             [1] ٹیب بند کرو
-            [one] { $tabCount } ٹیبز بند کرو
-           *[other] { "" }
+           *[other] { $tabCount } ٹیبز بند کرو
         }
     .accesskey = C
 menu-file-close-window =

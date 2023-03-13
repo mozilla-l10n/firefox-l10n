@@ -182,13 +182,6 @@ containers-disable-alert-ok-button =
 
 containers-disable-alert-cancel-button = فعال رکھو
 containers-remove-alert-title = ایہ کنٹینر ہٹاؤ؟
-# Variables:
-#   $count (number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] جے تساں ہݨ ایں کنٹینر کوں ہٹیندے او تاں، { $count } کنٹینر ٹیب بند تھی ویسے۔ کیا تساں واقعی ایں کنٹینر کوں ہٹاوݨ چاہندے او؟
-       *[other] { "" }
-    }
 containers-remove-ok-button = ایہ کنٹینر ہٹاؤ
 containers-remove-cancel-button = ایہ کنٹینر نہ ہٹاؤ
 

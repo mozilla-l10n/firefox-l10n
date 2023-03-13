@@ -7,18 +7,6 @@ download-ui-confirm-title = تمام ڈاؤن لوڈز منسوخ کرو؟
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
-download-ui-confirm-quit-cancel-downloads =
-    { $downloadsCount ->
-        [1] جے تساں ہݨ ٻاہر نکلدے او تاں 1 ڈاؤن لوڈ منسوخ تھی ویسن۔ کیا تہاکوں یقین ہے جو تساں اتھوں نکلݨ چاہندے او؟
-        [one] { "" }
-       *[other] جے تساں ہݨ ٻاہر نکلدے او تاں، { $downloadsCount } ڈاؤن لوڈز منسوخ تھی ویسن۔ کیا تہاکوں یقین ہے جو تساں اتھوں نکلݨ چاہندے او؟
-    }
-download-ui-confirm-quit-cancel-downloads-mac =
-    { $downloadsCount ->
-        [1] جے تساں ہݨ چھوڑ ݙیندے او تاں 1 ڈاؤن لوڈ منسوخ تھی ویسے۔ کیا تساں واقعی چھوڑݨ چاہندے او؟
-        [one] { "" }
-       *[other] جے تساں ہݨ چھوڑ ݙیندے او تاں، { $downloadsCount } ڈاؤن لوڈز منسوخ تھی ویسے۔ کیا تساں واقعی چھوڑݨ چاہندے او؟
-    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] نہ چھوڑو
@@ -38,12 +26,6 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
        *[other] جے تساں تمام پرائیویٹ براؤزنگ ونڈوز کوں ہݨ بند کر ݙیندے ہو تاں { $downloadsCount } ڈاؤن لوڈز منسوخ تھی ویسن۔ کیا تساں واقعی نجی براؤزنگ چھوڑݨ چاہندے ہو؟
     }
 download-ui-dont-leave-private-browsing-button = نجی براؤزنگ وِچ رہو
-download-ui-cancel-downloads-ok =
-    { $downloadsCount ->
-        [1] 1 ڈاؤن لوڈ منسوخ کرو
-        [one] { "" }
-       *[other] منسوخ کرو { $downloadsCount } ڈاؤن لوڈز
-    }
 
 ##
 
