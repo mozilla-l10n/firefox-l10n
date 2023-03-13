@@ -8,6 +8,10 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = Man nitikïr ta nusik'ij chuqa' yerujäl taq tzij ri k'amal
+origin-controls-options =
+    .label = Nitikïr nusik'ij chuqa' yerujäl taq tzij ri k'amal:
 origin-controls-option-all-domains =
     .label = Pa Ronojel Ruxaq
 origin-controls-option-when-clicked =
