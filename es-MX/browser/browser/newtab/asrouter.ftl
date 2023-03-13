@@ -244,6 +244,11 @@ cfr-cookiebanner-accept-button-variant-2 = Permitir
 cfr-cookiebanner-reject-button-variant-2 = Ahora no
     .accesskey = n
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-dismiss-button = Ahora no
+    .accesskey = n
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Nosotros te protegemos
@@ -252,4 +257,5 @@ july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Tus archivos PDF ahora se abren en { -brand-short-name }.</strong> Edita o firma formularios directamente en tu navegador. Para cambiar, busca "PDF" en ajustes.
 set-default-pdf-handler-primary = Entendido
