@@ -54,7 +54,6 @@ protections-close-button2 =
     .title = بند کرو
 mobile-app-title = ودھیک آلات تے اشتہاری ٹریکرز کوں روکو۔
 mobile-app-card-content = اشتہار کنوں باخبر رہݨ دے خلاف بلٹ ان تحفظ دے نال موبائل براؤزر استعمال کرو۔
-mobile-app-links = { -brand-product-name } براؤز کیتے <a data-l10n-name="android-mobile-inline-link"> انڈرائیڈ </a> تے <a data-l10n-name="ios-mobile-inline-link">
 lockwise-title = ولا کݙاہیں پاس ورڈ نہ بھلو
 passwords-title-logged-in = آپݨے پاس ورڈز دا بندوبست کرو
 passwords-header-content = { -brand-product-name } تہاݙے پاس ورڈز کوں تہاݙے براؤزر وِچ محفوظ طریقے نال اسٹور کریندا ہے۔

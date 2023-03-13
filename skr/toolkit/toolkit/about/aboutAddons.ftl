@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = ڳولو
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = ایکسٹینشنز تے تھیمز حاصل کرو <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = <a data-l10n-name="get-extensions">{ $domain }</a> تے لغات حاصل کرو
 list-empty-get-language-packs-message = <a data-l10n-name="get-extensions">{ $domain }</a> تے لینگویج پیک حاصل کرو۔
+
+##
+
 list-empty-installed =
     .value = تہاݙے کول ایں ونکی دا کوئی ایڈ آن انسٹال کائنی۔
 list-empty-available-updates =
@@ -148,7 +155,7 @@ addon-category-sitepermission-title =
     .title = سائٹ اجازتاں
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = { $host } کیتے سائٹ دی اجازت
 
 ## These are global warnings
@@ -228,6 +235,8 @@ shortcuts-duplicate-warning-message = { $shortcut } کوں ہک کنوں زیا�
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = پہلے کنوں { $addon } دے زیر استعمال
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] ݙکھاؤ { $numberToShow } ودھیک
@@ -305,7 +314,7 @@ theme-colorways-button = کلر ویز ازماؤ
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = کلر وے تبدیل کرو
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = زائد المیعاد { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = فعال تھیا
 plugin-disabled-heading = غیرفعال تھیا
@@ -329,7 +338,7 @@ install-postponed-button = ہݨ ابڈیٹ کرو
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
-    .title = 5 وِچوں { NUMBER($rating, maximFractionDigits: 1) } دا درجہ ݙتا ڳیا ہے۔
+    .title = 5 وِچوں { NUMBER($rating, maximumFractionDigits: 1) } دا درجہ ݙتا ڳیا ہے۔
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -391,6 +400,8 @@ addon-permissions-optional = اختیاری فعالیت کیتے اختیاری
 addon-permissions-learnmore = اجازتاں بارے ٻیا سکھو
 recommended-extensions-heading = تجویز کردہ ایکسٹینشنز
 recommended-themes-heading = تجویز کردہ تھیمز
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> کوں ہیٹھ درج صلاحیتاں فراہم کریندا ہے:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -417,8 +428,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } { -brand-short-name } { $version } نال مطابقت نہیں رکھیندا۔
 details-notification-incompatible-link = ودھیک معلومات
 details-notification-unsigned-and-disabled = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی تے اینکوں غیر فعال کر ݙتا ڳیا ہے۔
