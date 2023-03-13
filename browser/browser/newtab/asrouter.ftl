@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } felhasználó
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Elég a sütibannerekből!
-cfr-cookie-banner-handling-body = Engedélyezze a { -brand-short-name } számára, hogy automatikusan elutasítja az összes sütibanner-kérést, ha az lehetséges. Ellenkező esetben az összes süti elfogadásra kerül, hogy még több bannert tüntessen el.
-cfr-cookie-banner-accept-button = Kérések eltüntetése
-    .accesskey = t
-cfr-cookie-banner-reject-button = Most nem
-    .accesskey = n
-cfr-cookie-banner-handling-header-variant-1 = Lásson kevesebb sütikkel kapcsolatos felugró ablakot
-cfr-cookie-banner-handling-body-variant-1 = Hagyja, hogy a { -brand-short-name } automatikusan válaszoljon a sütik előugró ablakaira, így visszatérhet a zavartalan böngészéshez. A { -brand-short-name } elutasítja az összes kérést, ha az lehetséges, vagy elfogadja az összeset, ha nem.
-cfr-cookie-banner-accept-button-variant-1 = Felugró ablakok eltüntetése
-    .accesskey = t
-cfr-cookie-banner-reject-button-variant-1 = Köszönöm, nem
-    .accesskey = n
-cfr-cookie-banner-handling-header-variant-2 = Sütibannerek számának csökkentése
-cfr-cookie-banner-handling-body-variant-2 = Engedélyezi a { -brand-short-name } számára, hogy ha lehetséges, akkor elutasítsa a webhelyek sütikhez való hozzájárulási kéréseit, vagy elfogadja azokat, ha ez nem lehetséges?
-cfr-cookie-banner-accept-button-variant-2 = Engedélyezés
-    .accesskey = E
-cfr-cookie-banner-reject-button-variant-2 = Most nem
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Szinkronizálja a könyvjelzőit mindenhol.
@@ -269,8 +246,22 @@ cfr-cookiebanner-accept-button-variant-2 = Engedélyezés
 cfr-cookiebanner-reject-button-variant-2 = Most nem
     .accesskey = n
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Engedélyezi a { -brand-short-name } számára a sütibannerek elutasítását?
+cfr-cbh-body = A { -brand-short-name } automatikusan elutasíthat számos sütibanneres kérést.
+cfr-cbh-confirm-button = Sütibannerek elutasítása
+    .accesskey = u
+cfr-cbh-dismiss-button = Most nem
+    .accesskey = n
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Fedezzük Önt
 july-jam-body = A { -brand-short-name } havonta átlagosan több mint 3000 nyomkövetőt blokkol felhasználónként, így biztonságos és gyors hozzáférést biztosít a jó internethez.
 july-jam-set-default-primary = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>A PDF-jei mostantól a { -brand-short-name }szal nyílnak meg.</strong> Szerkessze vagy írja alá az űrlapokat közvetlenül a böngészőjében. A módosításhoz keressen a „PDF” kifejezésre a beállításokban.
+set-default-pdf-handler-primary = Megértettem

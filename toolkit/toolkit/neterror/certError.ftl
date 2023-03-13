@@ -80,10 +80,10 @@ dnsNotFound-title = Hmm. Probléma az oldal megkeresésekor.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Lehetséges biztonsági kockázat a következőnél: { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Lehetséges biztonsági kockázat a domain keresése során
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Lehetséges biztonsági kockázat a következőnél: { $hostname }.
+dns-not-found-trr-only-title2 = Lehetséges biztonsági kockázat a domain keresése során
+dns-not-found-native-fallback-title2 = Lehetséges biztonsági kockázat a domain keresése során
 fileNotFound-title = A fájl nem található
 fileAccessDenied-title = A fájl elérése megtagadva
 generic-title = Hoppá!
