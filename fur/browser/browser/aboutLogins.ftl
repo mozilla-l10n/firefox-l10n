@@ -83,7 +83,7 @@ about-logins-list-section-week = Ultins 7 dîs
 about-logins-login-intro-heading-logged-out2 = Stâstu cirint lis tôs credenziâls salvadis? Ative la sincronizazion o impuartilis.
 about-logins-login-intro-heading-logged-in = Nissune credenziâl sincronizade cjatade.
 login-intro-description = Se tu âs salvât lis tôs credenziâls su { -brand-product-name } suntun altri dispositîf, chi al spieghe cemût otignîlis achì:
-login-intro-instructions-fxa = Cree o jentre sul to { -fxaccount-brand-name(capitalization: "sentence") } sul dispositîf dulà che tu âs salvadis lis tôs credenziâls.
+login-intro-instructions-fxa = Cree o jentre sul to { -fxaccount-brand-name } sul dispositîf dulà che tu âs salvadis lis tôs credenziâls.
 login-intro-instructions-fxa-settings = Va su Impostazions > Sincronizazion > Ative la sincronizazion… e selezione la casele Credenziâls e passwords.
 login-intro-instructions-fxa-passwords-help = Visite il <a data-l10n-name="passwords-help-link">supuart pes password</a> par vê plui jutori.
 about-logins-intro-browser-only-import = Se lis tôs credenziâls di acès a son salvadis intun altri navigadôr, tu puedis <a data-l10n-name="import-link">impuartâlis in { -brand-product-name } </a>
