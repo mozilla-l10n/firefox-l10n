@@ -246,6 +246,13 @@ cfr-cookiebanner-accept-button-variant-2 = Permitir
 cfr-cookiebanner-reject-button-variant-2 = Ahora no
     .accesskey = N
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-confirm-button = Rechazar los anuncios de cookies
+    .accesskey = R
+cfr-cbh-dismiss-button = Ahora no
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Nosotros te protegemos
