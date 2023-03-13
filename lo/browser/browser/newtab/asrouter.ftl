@@ -236,6 +236,8 @@ cfr-cookiebanner-reject-button-variant-2 = ບໍ່ແມ່ນຕອນນີ�
 
 cfr-cbh-confirm-button = ປະຕິເສດປ້າຍໂຄສະນາຄຸກກີ
     .accesskey = R
+cfr-cbh-dismiss-button = ບໍ່​ແມ່ນ​ຕອນ​ນີ້
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
