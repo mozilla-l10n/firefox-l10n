@@ -245,6 +245,10 @@ cfr-cookiebanner-accept-button-variant-2 = Tillad
 cfr-cookiebanner-reject-button-variant-2 = Ikke nu
     .accesskey = n
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Tillad { -brand-short-name } at afvise cookie-bannere?
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Vi beskytter dig
