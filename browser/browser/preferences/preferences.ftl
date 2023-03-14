@@ -1146,7 +1146,7 @@ permissions-addon-exceptions =
 
 collection-header = Indsamling og brug af data i { -brand-short-name }
 collection-description = Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre { -brand-short-name } for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.
-collection-privacy-notice = Privatlivspolitik
+collection-privacy-notice = Privatlivserklæring
 collection-health-report-telemetry-disabled = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
 collection-health-report-telemetry-disabled-link = Læs mere
 collection-health-report =
