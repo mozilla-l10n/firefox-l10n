@@ -86,10 +86,10 @@ dnsNotFound-title = Овај сајт није доступан
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Могући безбедносни ризик за { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Могући безбедносни ризик при тражењу овог домена
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Могући безбедносни ризик за { $hostname }.
+dns-not-found-trr-only-title2 = Могући безбедносни ризик при тражењу овог домена
+dns-not-found-native-fallback-title2 = Могући безбедносни ризик при тражењу овог домена
 fileNotFound-title = Датотека није пронађена
 fileAccessDenied-title = Приступ датотеци је одбијен
 generic-title = Грешка
