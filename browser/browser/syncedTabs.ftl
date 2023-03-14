@@ -57,3 +57,4 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Համաժամեցնել
     .accesskey = Ս
+synced-tabs-turn-on-sync = Միացնել համաժամացումը
