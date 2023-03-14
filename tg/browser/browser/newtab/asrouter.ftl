@@ -247,6 +247,10 @@ cfr-cookiebanner-reject-button-variant-2 = Ҳоло не
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Ба «{ -brand-short-name }» иҷозат медиҳед, ки баннерҳои кукиро рад кунад?
+cfr-cbh-body = «{ -brand-short-name }» метавонад бисёр дархостҳои баннерҳои кукиро ба таври худкор рад кунад.
+cfr-cbh-confirm-button = Рад кардани баннерҳои куки
+    .accesskey = Р
 cfr-cbh-dismiss-button = Ҳоло не
     .accesskey = Ҳ
 
