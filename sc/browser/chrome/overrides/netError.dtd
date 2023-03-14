@@ -88,6 +88,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.expiredCert.secondPara2 "Est probàbile chi su tzertificadu de su situ siat iscadidu, e custu impedit a &brandShortName; de si connètere cun seguresa. Si bìsitas su situ, is atacadores ti diant pòdere furare informatzione comente craes, messàgios de posta eletrònica o informatziones de cartas de crèditu.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ite bi podes fàghere?">
 

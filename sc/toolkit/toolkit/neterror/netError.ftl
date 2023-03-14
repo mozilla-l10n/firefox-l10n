@@ -54,6 +54,7 @@ neterror-dns-not-found-hint-firewall = Controlla chi { -brand-short-name } tèng
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non s’est pòdidu connètere a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Sa connessione a { $trrDomain } at bòlidu prus tempus de cussu abetadu.
 neterror-dns-not-found-trr-offline = Nissuna connessione a internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } no at agatadu nissunu indiritzu pro custu situ web.
