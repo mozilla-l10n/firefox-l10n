@@ -272,3 +272,5 @@ july-jam-set-default-primary = Отвори моје везе са { -brand-shor
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Ваши PDF-ови се сада отварају у { -brand-short-name }-у.</strong> Измените или потпишите обрасце директно у прегледачу. Да промените, потражите „PDF” у подешавањима.
+set-default-pdf-handler-primary = Важи

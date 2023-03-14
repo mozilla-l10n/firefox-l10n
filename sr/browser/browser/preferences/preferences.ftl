@@ -1044,6 +1044,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Смањење банера колачића
+cookie-banner-handling-description = { -brand-short-name } покушава аутоматски да одбије све захтеве за колачиће на банерима колачића на подржаним сајтовима.
+cookie-banner-learn-more = Сазнајте више
+forms-handle-cookie-banners =
+    .label = Смањи банере колачића
 
 ## Privacy Section - Address Bar
 

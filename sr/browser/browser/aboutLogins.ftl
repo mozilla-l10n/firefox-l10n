@@ -41,6 +41,15 @@ login-list-count =
         [few] { $count } пријаве
        *[other] { $count } пријава
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } од { $total } пријаве
+        [few] { $count } од { $total } пријаве
+       *[other] { $count } од { $total } пријава
+    }
 login-list-sort-label-text = Сортирај по:
 login-list-name-option = називу (A–Z)
 login-list-name-reverse-option = називу (Z–A)
