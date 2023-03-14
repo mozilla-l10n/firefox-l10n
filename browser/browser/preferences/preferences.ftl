@@ -970,6 +970,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Reduktion af cookie-bannere
+cookie-banner-handling-description = { -brand-short-name } forsøger automatisk at afvise cookie-anmodninger på cookie-bannere på understøttede websteder.
 cookie-banner-learn-more = Læs mere
 forms-handle-cookie-banners =
     .label = Færre cookie-bannere
