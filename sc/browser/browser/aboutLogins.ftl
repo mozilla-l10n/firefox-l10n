@@ -7,6 +7,9 @@ about-logins-page-title = Credentziales e craes
 login-filter =
     .placeholder = Chirca credentziales
 create-login-button = Crea atzessu nou
+about-logins-login-filter =
+    .placeholder = Chirca credentziales
+    .key = C
 create-new-login-button =
     .title = Crea credentziale noas
 fxaccounts-sign-in-text = Otene is craes tuas pro is àteros dispositivos tuos
@@ -40,6 +43,14 @@ login-list-count =
     { $count ->
         [one] { $count } credentziale
        *[other] { $count } credentziales
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } de { $total } credentziale
+       *[other] { $count } de { $total } credentziales
     }
 login-list-sort-label-text = Assenta dae:
 login-list-name-option = Nòmine (A-Z)

@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utentes
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Mai prus avisos de testimòngios!
-cfr-cookie-banner-handling-body = Permite a { -brand-short-name } de refudare in automàticu totu is rechestas de is avisos de testimòngios, cando possìbile. Si nono, totu is testimòngios ant a èssere atzetados pro minimare is avisos retzidos.
-cfr-cookie-banner-accept-button = Refuda is rechestas
-    .accesskey = R
-cfr-cookie-banner-reject-button = Immoe nono
-    .accesskey = n
-cfr-cookie-banner-handling-header-variant-1 = Ammustra prus pagu ventanas emergentes de testimòngios
-cfr-cookie-banner-handling-body-variant-1 = Permite a { -brand-short-name } de rispòndere in automàticu a is ventanas emergentes de testimòngios, pro chi potzas navigare chene istorbu. { -brand-short-name } at a refudare totu is rechestas cando possìbile, o si nono ddas at a atzetare totus.
-cfr-cookie-banner-accept-button-variant-1 = Serra is ventanas emergentes
-    .accesskey = S
-cfr-cookie-banner-reject-button-variant-1 = No, gràtzias
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Ismenguada de is avisos de testimòngios
-cfr-cookie-banner-handling-body-variant-2 = Boles permìtere a { -brand-short-name } de refudare sa rechesta de cunsensu a is testimòngios de is sitos cando possìbile o, si no est possìbile, de atzetare s’atzessu a is testimòngios?
-cfr-cookie-banner-accept-button-variant-2 = Permite
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Immoe nono
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza is sinnalibros tuos in ònnia logu.
@@ -252,6 +229,8 @@ colorways-cfr-header-today = Is cumbinatziones de colores Boghes indipendentes i
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Mai prus avisos de testimòngios!
 cfr-cookiebanner-body = Permite a { -brand-short-name } de refudare in automàticu totu is rechestas de is avisos de testimòngios cando possìbile.
+cfr-cookiebanner-accept-button-v2 = Refuda is rechestas
+    .accesskey = R
 cfr-cookiebanner-reject-button = Immoe nono
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Ammustra prus pagu ventanas emergentes de testimòngios
@@ -267,8 +246,24 @@ cfr-cookiebanner-accept-button-variant-2 = Permite
 cfr-cookiebanner-reject-button-variant-2 = Immoe nono
     .accesskey = n
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Boles permìtere a { -brand-short-name } de refudare is avisos de testimòngios?
+cfr-cbh-body = { -brand-short-name } podet refudare in automàticu medas de is rechestas de is avisos de testimòngios.
+cfr-cbh-confirm-button = Refuda is avisos de testimòngios
+    .accesskey = R
+cfr-cbh-dismiss-button = Immoe nono
+    .accesskey = n
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Semus semper cun tue
 july-jam-body = { -brand-short-name } blocat unos 3000 e prus sighiduras a su mese pro onni utente, e ti donat un’atzessu a internet prus seguru, lestru e de calidade.
 july-jam-set-default-primary = Aberi is ligòngios cun { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline =
+    <strong>Immoe podes abèrrere is documentos PDF in { -brand-short-name }.</strong>
+    Modìfica o firma is formulàrios deretu in su navigadore tuo. Pro cambiare custa optzione, chirca “PDF” in is cunfiguratziones.
+set-default-pdf-handler-primary = Apo cumprèndidu

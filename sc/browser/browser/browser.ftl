@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Cussìgiu:
 urlbar-result-menu-button =
     .title = Aberi su menù
+urlbar-result-menu-learn-more =
+    .label = Àteras informatziones
+    .accesskey = i
 urlbar-result-menu-remove-from-history =
     .label = Boga dae sa cronologia
     .accesskey = B
@@ -805,6 +808,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Imbia su ligòngiu cun posta eletrònica
     .tooltiptext = Imbia unu ligòngiu a custa pàgina cun posta eletrònica
+toolbar-button-logins =
+    .label = Craes
+    .tooltiptext = Ammustra e gesti is craes sarvadas tuas
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

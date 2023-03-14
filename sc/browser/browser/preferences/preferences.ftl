@@ -968,6 +968,14 @@ sitedata-cookies-exceptions =
     .label = Gesti etzetziones…
     .accesskey = z
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Ismenguada de is avisos de testimòngios
+cookie-banner-handling-description = { -brand-short-name } proat a refudare in automàticu is rechestas de is avisos de testimòngios in is sitos cumpatìbiles.
+cookie-banner-learn-more = Àteras informatziones
+forms-handle-cookie-banners =
+    .label = Ismèngua is avisos de testimòngios
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de indiritzos
