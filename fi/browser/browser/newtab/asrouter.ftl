@@ -57,23 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } käyttäjää
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Evästeilmoitukset poistukaa!
-cfr-cookie-banner-accept-button = Hylkää pyynnöt
-    .accesskey = H
-cfr-cookie-banner-reject-button = Ei nyt
-    .accesskey = N
-cfr-cookie-banner-reject-button-variant-1 = Ei kiitos
-    .accesskey = E
-cfr-cookie-banner-handling-header-variant-2 = Evästeilmoitusten vähennys
-cfr-cookie-banner-accept-button-variant-2 = Salli
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-2 = Ei nyt
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkronoi kirjanmerkkisi kaikkialla.
@@ -246,12 +229,23 @@ cfr-cookiebanner-accept-button-v2 = Hylkää pyynnöt
     .accesskey = H
 cfr-cookiebanner-reject-button = Ei nyt
     .accesskey = N
+cfr-cookiebanner-header-variant-1 = Vähemmän evästeilmoituksia
 cfr-cookiebanner-reject-button-variant-1 = Ei kiitos
     .accesskey = E
+cfr-cookiebanner-header-variant-2 = Evästeilmoitusten vähennys
 cfr-cookiebanner-accept-button-variant-2 = Salli
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = Ei nyt
     .accesskey = N
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-dismiss-button = Ei nyt
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Selvä
