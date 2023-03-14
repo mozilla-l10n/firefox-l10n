@@ -64,6 +64,17 @@ restart-later = Վերամեկնարկել հետո
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -118,6 +129,10 @@ browser-containers-settings =
     .label = Կարգավորումներ...
     .accesskey = ր
 containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Եթե անջատեք Պարունակի ներդիրները՝ { $tabCount } պարունակի ներդիրը կփակվի: Համոզվա՞ծ եք, որ ցանկանում եք անջատել Պարունակի ներդիրը
@@ -128,10 +143,13 @@ containers-disable-alert-ok-button =
         [one] Փակել { $tabCount } Պարունակի ներդիրը
        *[other] { $tabCount } Պարունակի ներդիրները
     }
+
+##
+
 containers-disable-alert-cancel-button = Պահել միացված
 containers-remove-alert-title = ՀԵռացնե՞լ այս Պարունակը:
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Եթե հեռացնեք Պարունակը հիմա՝ { $count } պարունակի ներդիր կփակվի: Համոզվա՞ծ եք:
@@ -156,6 +174,8 @@ advanced-fonts =
 preferences-zoom-header = Դիտափոխել
 preferences-default-zoom = Լռելյայն դիտափոխում
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -247,15 +267,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Միշտ հարցնել
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Օգտագործել { $plugin-name }-ը ({ -brand-short-name })-ում
 applications-open-inapp =
@@ -291,6 +311,8 @@ play-drm-content =
 play-drm-content-learn-more = Իմանալ ավելին
 update-application-title = { -brand-short-name }-ի թարմացումներ
 update-application-description = Պահեք { -brand-short-name }-ը թարմացված՝ լավագույն արտադրողականության, կայունության և անվտանգության համար:
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Տարբերակ { $version } <a data-l10n-name="learn-more">Ինչն է նոր</a>
 update-history =
     .label = Ցուցադրել Թարմացումների Պատմությունը...
@@ -332,7 +354,7 @@ performance-limit-content-process-option = Բովանդակության ընթա
 performance-limit-content-process-enabled-desc = Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:
 performance-limit-content-process-blocked-desc = Հնարավոր է փոփոխել բովանդակության ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դեպքում: <a data-l10n-name="learn-more">Կարդալ, թե ինչպես ստուգել՝ արդյոք բազմամշակիչը միացված է:</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (լռելյայն)
 
@@ -426,6 +448,10 @@ home-prefs-shortcuts-description = Կայքեր, որոնք պահել կամ ա
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
 
@@ -452,6 +478,8 @@ home-prefs-recent-activity-description = Վերջին կայքերի և բովա
 home-prefs-snippets-header =
     .label = Հատվածներ
 home-prefs-snippets-description-new = Հուշումներ և նորություններ { -vendor-short-name }-ից և { -brand-product-name }-ից
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -509,7 +537,7 @@ search-find-more-link = Գտնել լրացուցիչ որոնիչներ
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Կրկնել հիմաբառը
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Դուք ընտրել եք կրկնվող հիմաբառ, որը արդեն օգտագործվում է "{ $name }" -ի կողմից: Խնդրում ենք ընտրել մեկ ուրիշը:
 search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, որը այս պահին օգտագործվում է էջանիշի կողմից: Խնդրում եմ ընտրեք մեկ ուրիշը:
 
@@ -551,8 +579,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Կառավարել հաշիվը
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+##
+
 sync-resend-verification =
     .label = Կրկին ուղարկել հաստատումը
     .accesskey = d
@@ -567,6 +602,9 @@ sync-sign-in =
 
 prefs-syncing-on = Համաժամեցում։ ՄԻԱՑՎԱԾ
 prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՎԱԾ
+prefs-sync-turn-on-syncing =
+    .label = Միացնել համաժամեցումը…
+    .accesskey = s
 prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
     .accesskeynotsyncing = N
@@ -750,8 +788,8 @@ history-clear-button =
 sitedata-header = Cookie-ներ և կայքի տվյալներ
 sitedata-total-size-calculating = Հաշվում է կայքի տվյալները և շտեմի չափը…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ձեր cookie-ները, կայքի տվյալները և շտեմը այժմ զբաղեցնում են { $value } { $unit } տեղ:
 sitedata-learn-more = Իմանալ ավելին
 sitedata-delete-on-close =
@@ -785,6 +823,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 

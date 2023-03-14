@@ -5,7 +5,6 @@
 fxa-pair-device-dialog =
     .title = Կապակցել այլ սարքի
     .style = width: 26em; min-height: 35em;
-
+fxa-qrcode-heading-step3 = 3. Բացեք <b>ցանկը</b> (<img data-l10n-name="ios-menu-icon"/> կամ <img data-l10n-name="android-menu-icon"/>), հպեք <img data-l10n-name="settings-icon"/> <b>Կարգավորումներ</b> և ընտրեք <b>Միացնել համաժամեցումը</b>
 fxa-qrcode-error-title = Զույգումը չհաջողվեց:
-
 fxa-qrcode-error-body = Կրկին փորձել

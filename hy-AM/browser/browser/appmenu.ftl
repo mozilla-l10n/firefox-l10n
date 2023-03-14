@@ -84,6 +84,8 @@ appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-sync-and-save-data2 = Համաժամեցնել և պահել տվյալները
 appmenu-fxa-signed-in-label = Մուտք գործել
+appmenu-fxa-setup-sync =
+    .label = Միացնել համաժամացումը…
 appmenuitem-save-page =
     .label = Պահպանել Էջը որպես…
 
