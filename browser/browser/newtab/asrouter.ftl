@@ -59,29 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } корисника
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Доле банери колачића!
-cfr-cookie-banner-handling-body = Дозволите да { -brand-short-name } аутоматски одбије све захтеве за банере за колачиће, ако је могуће. У супротном, сви колачићи ће бити прихваћени како би се игнорисало више банера.
-cfr-cookie-banner-accept-button = Одбиј захтеве
-    .accesskey = О
-cfr-cookie-banner-reject-button = Не сада
-    .accesskey = Н
-cfr-cookie-banner-handling-header-variant-1 = Да видите мање искачућих прозора за колачиће
-cfr-cookie-banner-handling-body-variant-1 = Дозволите да { -brand-short-name } аутоматски одговара на искачуће прозоре за колачиће, тако да се можете посветити прегледању без ометања. { -brand-short-name } ће одбити све захтеве ако је то могуће, или их прихватити ако није.
-cfr-cookie-banner-accept-button-variant-1 = Одбиј искачуће прозоре
-    .accesskey = О
-cfr-cookie-banner-reject-button-variant-1 = Не, хвала
-    .accesskey = Н
-cfr-cookie-banner-handling-header-variant-2 = Смањење банера колачића
-cfr-cookie-banner-handling-body-variant-2 = Дозволити да { -brand-short-name } одбије упите о колачићима са сајтова када је то могуће или да их прихвати када није?
-cfr-cookie-banner-accept-button-variant-2 = Дозволи
-    .accesskey = Д
-cfr-cookie-banner-reject-button-variant-2 = Не сада
-    .accesskey = Н
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Приступите обележивачима свуда.
@@ -278,8 +255,20 @@ cfr-cookiebanner-accept-button-variant-2 = Дозволи
 cfr-cookiebanner-reject-button-variant-2 = Не сада
     .accesskey = Н
 
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Дозволи да { -brand-short-name } одбаци банере колачића?
+cfr-cbh-body = { -brand-short-name } може аутоматски да одбаци више захтева за банере колачића.
+cfr-cbh-confirm-button = Одбаци банере колачића
+    .accesskey = О
+cfr-cbh-dismiss-button = Не сада
+    .accesskey = Н
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ту смо за вас
 july-jam-body = У просеку, { -brand-short-name } месечно блокира преко 3,000 елемената за праћење и пружа вам безбедан и брз приступ интернету.
 july-jam-set-default-primary = Отвори моје везе са { -brand-short-name }-ом
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+

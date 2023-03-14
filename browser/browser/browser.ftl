@@ -827,6 +827,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Пошаљи везу имејлом
     .tooltiptext = Пошаљи имејлом везу до ове странице
+toolbar-button-logins =
+    .label = Лозинке
+    .tooltiptext = Прегледај и управљај сачуваним лозинкама
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
