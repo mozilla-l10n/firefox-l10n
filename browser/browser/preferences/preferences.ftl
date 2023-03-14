@@ -971,6 +971,8 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reduktion af cookie-bannere
 cookie-banner-learn-more = Læs mere
+forms-handle-cookie-banners =
+    .label = Færre cookie-bannere
 
 ## Privacy Section - Address Bar
 
