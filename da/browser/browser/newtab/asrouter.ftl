@@ -248,6 +248,10 @@ cfr-cookiebanner-reject-button-variant-2 = Ikke nu
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Tillad { -brand-short-name } at afvise cookie-bannere?
+cfr-cbh-confirm-button = Afvis cookie-bannere
+    .accesskey = A
+cfr-cbh-dismiss-button = Ikke nu
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
