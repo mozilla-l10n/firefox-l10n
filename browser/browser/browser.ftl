@@ -807,6 +807,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Lähetä linkki
     .tooltiptext = Lähetä linkki sähköpostilla
+toolbar-button-logins =
+    .label = Salasanat
+    .tooltiptext = Näytä ja hallitse tallennettuja salasanoja
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
