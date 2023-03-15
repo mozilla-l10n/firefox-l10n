@@ -930,6 +930,9 @@ sitedata-cookies-exceptions =
     .label = Изключения…
     .accesskey = з
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Адресна лента
@@ -1138,6 +1141,8 @@ space-alert-over-5gb-settings-button =
 
 httpsonly-header = Режим „само HTTPS“
 httpsonly-learn-more = Научете повече
+httpsonly-radio-enabled =
+    .label = Включване на режим „само HTTPS“ за всички прозорци
 
 ## The following strings are used in the Download section of settings
 

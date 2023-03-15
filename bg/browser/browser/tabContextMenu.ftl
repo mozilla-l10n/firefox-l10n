@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Отмятане на раздела
     .accesskey = о
+tab-context-bookmark-tab =
+    .label = Отмятане на раздела…
+    .accesskey = т
 tab-context-open-in-new-container-tab =
     .label = Нов изолиран раздел
     .accesskey = и
@@ -86,6 +89,13 @@ tab-context-reopen-closed-tabs =
            *[other] Възстановяване на затворени раздели
         }
     .accesskey = т
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Затваряне на раздела
+           *[other] Затваряне на { $tabCount } раздела
+        }
+    .accesskey = з
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -93,7 +103,6 @@ tab-context-move-tabs =
            *[other] Преместване на раздели
         }
     .accesskey = П
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -13,6 +13,8 @@ firefoxview-close-button =
     .aria-label = Затваряне
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Току-що
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Избор на раздел
 firefoxview-tabpickup-step-signin-header = Превключвайте безпроблемно между устройствата
 firefoxview-tabpickup-step-signin-primarybutton = Напред
 firefoxview-tabpickup-adddevice-learn-how = Научете как
@@ -23,6 +25,7 @@ firefoxview-tabpickup-network-offline-primarybutton = Нов опит
 firefoxview-tabpickup-sync-error-primarybutton = Нов опит
 firefoxview-tabpickup-password-locked-link = Научете повече
 firefoxview-tabpickup-password-locked-primarybutton = Въведете главната парола
+firefoxview-mobile-promo-header = Вземете разделите от вашия телефон или таблет
 firefoxview-mobile-confirmation-header = 🎉 Готово!
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Последна активност
