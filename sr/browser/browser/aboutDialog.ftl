@@ -50,6 +50,9 @@ update-unsupported = Не можете да извршите ажурирања 
 update-restarting = Рестартовање…
 update-internal-error = Интерна грешка спречава проверу ажурирања. Ажурирања су доступна на <label data-l10n-name="manual-link"/>
 channel-description = Користите <label data-l10n-name="current-channel"></label> канал за ажурирања.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Користите <label data-l10n-name="current-channel">{ $channel }</label> канал за ажурирања.
 warningDesc-version = { -brand-short-name } је експерименталан и може бити нестабилан.
 aboutdialog-help-user =
     Помоћ за { -brand-product-name.gender ->
