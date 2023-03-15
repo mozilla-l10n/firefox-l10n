@@ -28,7 +28,7 @@ update-internal-error = Nie je možné skontrolovať aktualizácie kvôli intern
 channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel"></label>.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
+aboutdialog-channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = Zostavenie { -brand-short-name } je experimentálne a môže byť nestabilné.
 aboutdialog-help-user = Pomocník prehliadača { -brand-product-name }
 aboutdialog-submit-feedback = Odoslať spätnú väzbu
