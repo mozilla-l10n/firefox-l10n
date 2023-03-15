@@ -26,6 +26,9 @@ update-unsupported = No podes agiornare custu sistema. <label data-l10n-name="un
 update-restarting = Torrende a aviare
 update-internal-error = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <label data-l10n-name="manual-link"/>
 channel-description = Immoe ses in su canale <label data-l10n-name="current-channel"></label> de atualizatziones.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Immoe ses in su canale <label data-l10n-name="current-channel">{ $channel }</label> de atualizatziones.
 warningDesc-version = { -brand-short-name } est isperimentale e diat pòdere no èssere istàbile.
 aboutdialog-help-user = Agiudu de { -brand-product-name }
 aboutdialog-submit-feedback = Imbia cummentos
