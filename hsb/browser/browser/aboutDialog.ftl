@@ -26,6 +26,9 @@ update-unsupported = Njemóžeće dalše aktualizacije na tutym systemje přewje
 update-restarting = Startuje so…
 update-internal-error = Interneho zmylka dla njeje móžno za aktualizacijemi pytać. Aktualizacije su na <label data-l10n-name="manual-link"/> k dispoziciji
 channel-description = Sće tuchwilu na aktualizaciskim kanalu <label data-l10n-name="current-channel"></label>.{ " " }
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Sće tuchwilu na aktualizaciskim kanalu <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
 warningDesc-version = { -brand-short-name } je eksperimentalny a móhł njestabilny być.
 aboutdialog-help-user = { -brand-product-name } - Pomoc
 aboutdialog-submit-feedback = Posudk pósłać…
