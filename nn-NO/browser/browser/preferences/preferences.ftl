@@ -967,6 +967,13 @@ sitedata-cookies-exceptions =
     .label = Handsam unntak…
     .accesskey = H
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Redusering av infoskapselbanner
+cookie-banner-learn-more = Les meir
+forms-handle-cookie-banners =
+    .label = Reduser infoskapselbanner
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresselinje

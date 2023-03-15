@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brukarar
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Fjern infoskapselbanner!
-cfr-cookie-banner-handling-body = Tillat at { -brand-short-name } automatisk avviser alle førespurnadar om infoskapselbanner, når det er muleg. Ellers vil alle infokapslar bli akseptert for å avvise endå fleire banner.
-cfr-cookie-banner-accept-button = Avvis førespurnadar
-    .accesskey = A
-cfr-cookie-banner-reject-button = Ikkje no
-    .accesskey = I
-cfr-cookie-banner-handling-header-variant-1 = Sjå færre sprettoppvindauge for infokapslar
-cfr-cookie-banner-handling-body-variant-1 = La { -brand-short-name } automatisk svare på sprettoppvindauge om infokapslar for deg slik at du kan gå tilbake til distraksjonsfri surfing. { -brand-short-name } vil avvise alle førespurnadar  dersom muleg, eller godta alle om ikkje.
-cfr-cookie-banner-accept-button-variant-1 = Avvis sprettoppvindauge
-    .accesskey = A
-cfr-cookie-banner-reject-button-variant-1 = Nei takk
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Redusering av infoskapselbanner
-cfr-cookie-banner-handling-body-variant-2 = Vil du tillate { -brand-short-name } å avslå førespurnaden til ein nettstad om samtykke for infokapslar dersom muleg, eller godta tilgang til infokapslar når det ikkje er muleg?
-cfr-cookie-banner-accept-button-variant-2 = Tillat
-    .accesskey = T
-cfr-cookie-banner-reject-button-variant-2 = Ikkje no
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkroniser bokmerka dine overalt.
@@ -267,9 +244,15 @@ cfr-cookiebanner-accept-button-variant-2 = Tillat
     .accesskey = T
 cfr-cookiebanner-reject-button-variant-2 = Ikkje no
     .accesskey = k
+cfr-cbh-dismiss-button = Ikkje no
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Vi beskyttar deg
 july-jam-body = Kvar månad blokkerer { -brand-short-name } i gjennomsnitt over 3000 sporarar per brukar, noko som gir deg trygg og rask tilgang til eit bra internett.
 july-jam-set-default-primary = Opne lenkene mine med { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Eg forstår
