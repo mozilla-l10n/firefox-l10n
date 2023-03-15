@@ -26,7 +26,7 @@ update-restarting = Рестартирам…
 channel-description = Моментално сте на каналот за надградби <label data-l10n-name="current-channel"></label>.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Моментално сте на каналот за надградби <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
+aboutdialog-channel-description = Моментално сте на каналот за надградби <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } е експериментален и може да е нестабилен.
 aboutdialog-help-user = Помош за { -brand-product-name }
 aboutdialog-submit-feedback = Испратете повратни информации
