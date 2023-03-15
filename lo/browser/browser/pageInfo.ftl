@@ -153,6 +153,12 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ໃຊ້ຄ່າເລີ່ມຕົ້ນ
 security-no-visits = ບໍ່
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } ຮູບພາບ
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
