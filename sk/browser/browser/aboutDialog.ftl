@@ -26,6 +26,9 @@ update-unsupported = Ďalšie aktualizácie už nie sú na tomto systéme možn�
 update-restarting = Reštartuje sa…
 update-internal-error = Nie je možné skontrolovať aktualizácie kvôli internej chybe. Aktualizácie sú k dispozícii na adrese <label data-l10n-name="manual-link"/>
 channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel"></label>.{ " " }
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
 warningDesc-version = Zostavenie { -brand-short-name } je experimentálne a môže byť nestabilné.
 aboutdialog-help-user = Pomocník prehliadača { -brand-product-name }
 aboutdialog-submit-feedback = Odoslať spätnú väzbu
