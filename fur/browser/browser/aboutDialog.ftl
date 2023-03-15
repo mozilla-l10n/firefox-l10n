@@ -26,6 +26,9 @@ update-unsupported = No tu puedis vê altris inzornaments su chest sisteme. <lab
 update-restarting = Daûr a tornâ a inviâ…
 update-internal-error = Impussibil controlâ la presince di inzornaments par vie di un erôr interni. I inzornaments a son disponibii su <label data-l10n-name="manual-link"/>
 channel-description = Tu sês par cumò tal canâl di inzornament <label data-l10n-name="current-channel"></label>inzornament cjanâl
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Tu sês par cumò tal canâl di inzornament <label data-l10n-name="current-channel">{ $channel }</label>inzornament cjanâl
 warningDesc-version = { -brand-short-name } al è sperimentâl e al podarès jessi instabil.
 aboutdialog-help-user = Jutori di { -brand-product-name }
 aboutdialog-submit-feedback = Invie opinion
