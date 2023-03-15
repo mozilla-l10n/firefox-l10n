@@ -26,6 +26,9 @@ update-unsupported = 이 시스템에서는 더 이상 업데이트를 할 수 �
 update-restarting = 다시 시작하는 중…
 update-internal-error = 내부 오류로 인해 업데이트를 확인할 수 없습니다. <label data-l10n-name="manual-link"/>에서 업데이트를 사용 가능합니다.
 channel-description = 현재 사용 중인 업데이트 채널은 <label data-l10n-name="current-channel"></label> 입니다.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = 현재 사용 중인 업데이트 채널은 <label data-l10n-name="current-channel">{ $channel }</label> 입니다.
 warningDesc-version = { -brand-short-name }는 실험적 버전으로서 불안정할 수 있습니다.
 aboutdialog-help-user = { -brand-product-name } 도움말
 aboutdialog-submit-feedback = 의견 보내기
