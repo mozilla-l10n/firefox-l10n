@@ -101,6 +101,13 @@ startup-restore-warn-on-quit =
     .label = Avvisa quando si chiude il browser
 disable-extension =
     .label = Disattiva estensione
+
+preferences-data-migration-header = Importa dati del browser
+preferences-data-migration-description = Importa in { -brand-short-name } segnalibri, password, cronologia e dati per la compilazione automatica dei moduli da un altro browser o da un gestore di password.
+preferences-data-migration-button =
+    .label = Importa dati
+    .accesskey = m
+
 tabs-group-header = Schede
 ctrl-tab-recently-used-order =
     .label = Scorri le schede con Ctrl+Tab ordinandole in base all’utilizzo più recente
