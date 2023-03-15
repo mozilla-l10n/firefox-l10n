@@ -26,6 +26,9 @@ update-unsupported = Dalsze aktualizacje na tym systemie nie są możliwe. <labe
 update-restarting = Ponowne uruchamianie…
 update-internal-error = Nie można sprawdzić dostępności aktualizacji z powodu błędu wewnętrznego. Aktualizacje są dostępne na <label data-l10n-name="manual-link"/>
 channel-description = Obecnie korzystasz z kanału aktualizacji „<label data-l10n-name="current-channel"></label>”.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Obecnie korzystasz z kanału aktualizacji „<label data-l10n-name="current-channel">{ $channel }</label>”.
 warningDesc-version = { -brand-short-name } jest wersją rozwojową programu i może być niestabilny.
 aboutdialog-help-user = Pomoc programu { -brand-product-name }
 aboutdialog-submit-feedback = Prześlij swoją opinię
