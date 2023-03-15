@@ -16,3 +16,5 @@ unified-extensions-manage-extensions =
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Fixează în bara de instrumente
