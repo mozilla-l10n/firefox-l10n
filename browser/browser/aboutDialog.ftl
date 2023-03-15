@@ -26,6 +26,9 @@ update-unsupported = Nadaljnje posodobitve niso več mogoče. <label data-l10n-n
 update-restarting = Ponovni zagon …
 update-internal-error = Iskanje posodobitev ni uspelo zaradi notranje napake. Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
 channel-description = Uporabljate posodobitveni kanal <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Uporabljate posodobitveni kanal <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = Izdaja { -brand-short-name } je poskusna in lahko deluje nezanesljivo.
 aboutdialog-help-user = Pomoč za { -brand-product-name }
 aboutdialog-submit-feedback = Pošlji povratne informacije
