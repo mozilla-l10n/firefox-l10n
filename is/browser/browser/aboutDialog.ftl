@@ -26,6 +26,9 @@ update-unsupported = Ekki er hægt að setja inn fleiri uppfærslur. <label data
 update-restarting = Endurræsir…
 update-internal-error = Ekki er hægt að leita að uppfærslum vegna innri villu. Uppfærslur eru fáanlegar á <label data-l10n-name="manual-link"/>
 channel-description = Þú ert núna á <label data-l10n-name="current-channel"></label> uppfærslurásinni.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Þú ert núna á <label data-l10n-name="current-channel">{ $channel }</label> uppfærslurásinni.
 warningDesc-version = { -brand-short-name } er tilraunakenndur og gæti verið óstöðugur.
 aboutdialog-help-user = { -brand-product-name } hjálp
 aboutdialog-submit-feedback = Senda álit
