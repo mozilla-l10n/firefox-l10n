@@ -25,6 +25,9 @@ update-unsupported = अहाँ एहि तंत्र पर आगाँ 
 update-restarting = पुन: प्रारंभ भ रहल अछि...
 update-internal-error = आंतरिक त्रुटि के कारण अपडेट जाँचए में अक्षम. अपडेट <label data-l10n-name="manual-link"/> पर भेटत.
 channel-description = अहाँ अखन एतए छी<label data-l10n-name="current-channel"></label> चैनल अद्यतन करू.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = अहाँ अखन एतए छी<label data-l10n-name="current-channel">{ $channel }</label> चैनल अद्यतन करू.
 warningDesc-version = { -brand-short-name } प्रायोगिक स्तर पर अछि आओर अस्थिर भ सकैत अछि.
 aboutdialog-help-user = { -brand-product-name } मदति
 aboutdialog-submit-feedback = प्रतिक्रिया दिअ
