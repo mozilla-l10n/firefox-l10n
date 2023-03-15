@@ -26,6 +26,9 @@ update-unsupported = Bạn không thể cập nhật thêm trên hệ thống n�
 update-restarting = Đang khởi động lại…
 update-internal-error = Không thể kiểm tra các bản cập nhật do lỗi nội bộ. Các bản cập nhật có sẵn tại <label data-l10n-name="manual-link"/>
 channel-description = Bạn hiện đang ở trên kênh cập nhật <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Bạn hiện đang ở trên kênh cập nhật <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } được thiết kế để thử nghiệm và có thể không ổn định.
 aboutdialog-help-user = Trợ giúp { -brand-product-name }
 aboutdialog-submit-feedback = Gửi phản hồi
