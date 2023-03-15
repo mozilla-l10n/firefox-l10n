@@ -26,6 +26,9 @@ update-unsupported = Auf diesem System können keine weiteren Updates installier
 update-restarting = Wird neu gestartet…
 update-internal-error = Aufgrund eines internen Fehlers konnte nicht nach Updates gesucht werden. Updates verfügbar unter <label data-l10n-name="manual-link"/>
 channel-description = Sie sind derzeit auf dem Update-Kanal <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Sie sind derzeit auf dem Update-Kanal <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } ist experimentell und könnte instabil sein.
 aboutdialog-help-user = { -brand-product-name }-Hilfe
 aboutdialog-submit-feedback = Feedback senden
