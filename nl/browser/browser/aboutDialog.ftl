@@ -26,6 +26,9 @@ update-unsupported = U kunt op dit systeem geen updates meer installeren. <label
 update-restarting = Herstarten…
 update-internal-error = Kan niet controleren op updates vanwege een interne fout. Updates beschikbaar op <label data-l10n-name="manual-link"/>
 channel-description = U gebruikt momenteel het <label data-l10n-name="current-channel"></label>-updatekanaal.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = U gebruikt momenteel het <label data-l10n-name="current-channel">{ $channel }</label>-updatekanaal.
 warningDesc-version = { -brand-short-name } is experimenteel en kan onstabiel zijn.
 aboutdialog-help-user = { -brand-product-name } Help
 aboutdialog-submit-feedback = Feedback verzenden
