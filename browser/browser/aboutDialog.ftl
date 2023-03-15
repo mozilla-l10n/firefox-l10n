@@ -26,6 +26,9 @@ update-unsupported = Vi ne plu povas ĝisdatigi en tiu ĉi sistemo. <label data-
 update-restarting = Restarto…
 update-internal-error = Pro interna eraro ne eblas kontroli ĉu estas ĝisdatigoj. Ĝisdatigoj haveblas ĉe <label data-l10n-name="manual-link"/>
 channel-description = Vi nun estas en la ĝisdatiga kanalo <label data-l10n-name="current-channel"></label>.{ " " }
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Vi nun estas en la ĝisdatiga kanalo <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
 warningDesc-version = { -brand-short-name } estas prova versio kaj povas esti nestabila.
 aboutdialog-help-user = Helpo de { -brand-product-name }
 aboutdialog-submit-feedback = Sendi opinion
