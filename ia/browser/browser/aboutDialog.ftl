@@ -26,6 +26,9 @@ update-unsupported = Tu non pote facer plus actualisationes in iste systema. <la
 update-restarting = Reinitiante…
 update-internal-error = Impossibile verificar le presentia de actualisationes a causa de un error interne. Actualisationes disponibile a <label data-l10n-name="manual-link"/>
 channel-description = Tu es actualmente in le canal de actualisationes <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Tu es actualmente in le canal de actualisationes <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } es experimental e pote esser instabile.
 aboutdialog-help-user = Adjuta de { -brand-product-name }
 aboutdialog-submit-feedback = Inviar opinion
