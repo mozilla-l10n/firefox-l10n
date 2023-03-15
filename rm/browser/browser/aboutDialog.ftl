@@ -26,6 +26,9 @@ update-unsupported = Sin quest sistem na pon naginas actualisaziuns vegnir exequ
 update-restarting = Reaviar…
 update-internal-error = Impussibel da tschertgar actualisaziuns causa ina errur interna. Actualisaziuns stattan a disposiziun sin <label data-l10n-name="manual-link"/>
 channel-description = Ti retschaivas actualmain las actualisaziuns dal chanal <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Ti retschaivas actualmain las actualisaziuns dal chanal <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } è experimental e pudess esser instabel.
 aboutdialog-help-user = Agid da { -brand-product-name }
 aboutdialog-submit-feedback = Trametter in resun
