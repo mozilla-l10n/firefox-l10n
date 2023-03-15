@@ -24,6 +24,9 @@ update-manual = နောက်ဆုံးပေါ်ရနိုင်သေ�
 update-unsupported = ဒီကွန်ပျူတာစနစ်တွင် နောင်လာမည့် အဆင့်မြှင့်တင်မှုများကို လုပ်ဆောင်နိုင်တော့မည် မဟုတ်ပါ။ <label data-l10n-name="unsupported-link">ပိုမို လေ့လာပါ</label>
 update-restarting = ပြန်ဖွင့်နေသည်…
 channel-description = သင်သည် နောက်ဆုံး ထွက်ရှိသော အဆင့်မြင့်တင်မှု့ ချန်နယ် <label data-l10n-name="current-channel"></label> သို့‌ ရောက်ရှိနေပါသည်။
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = သင်သည် နောက်ဆုံး ထွက်ရှိသော အဆင့်မြင့်တင်မှု့ ချန်နယ် <label data-l10n-name="current-channel">{ $channel }</label> သို့‌ ရောက်ရှိနေပါသည်။
 warningDesc-version = { -brand-short-name } သည် စမ်းသပ်နေဆဲအရာဖြစ်ပြီး မတည်ငြိမ်မှု ဖြစ်ကောင်းဖြစ်နိုင်သည်။
 aboutdialog-help-user = { -brand-product-name } အကူအညီ
 aboutdialog-submit-feedback = အကြုံပြုချက်ကို ပေးပို့ရန်
