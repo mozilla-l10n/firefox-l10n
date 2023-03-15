@@ -73,6 +73,17 @@ restart-later = הפעלה מחדש מאוחר יותר
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>‏{ $name }</strong> שולטת בהגדרה זו.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = א
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = הגדרות…
     .accesskey = ג
 containers-disable-alert-title = האם לסגור את כל מגירות הלשוניות?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] אם האפשרות „לשוניות מגירות” תבוטל כעת, מגירת לשונית אחת תיסגר. האם ברצונך לבטל את מגירות הלשוניות?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] סגירת מגירת לשונית אחת
        *[other] סגירת { $tabCount } מגירות לשוניות
     }
+
+##
+
 containers-disable-alert-cancel-button = להשאיר מופעל
 containers-remove-alert-title = האם להסיר מגירה זו?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] אם מגירה זו תוסר, לשונית אחת תיסגר. האם ברצונך להסיר מגירה זו?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = מרחק מתצוגה
 preferences-default-zoom = מרחק מתצוגה ברירת מחדל
     .accesskey = ת
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = לשאול תמיד
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ‏({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = השתמש בתוסף { $plugin-name } (בתוך { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = מידע נוסף
 update-application-title = עדכוני { -brand-short-name }
 update-application-description = כדאי להשאיר את { -brand-short-name } עדכני לטובת ביצועים, יציבות ואבטחה ברמה הטובה ביותר.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = גרסה { $version } <a data-l10n-name="learn-more">מה חדש</a>
 update-history =
     .label = הצגת היסטוריית עדכונים…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = פ
 update-setting-write-failure-title2 = שגיאה בשמירת הגדרות העדכון
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = הגבלת תהליך תוכן
 performance-limit-content-process-enabled-desc = תהליכי תוכן נוספים עשויים לשפר את הביצועים בעת שימוש במספר לשוניות, עם זאת ייעשה שימוש ביותר זיכרון.
 performance-limit-content-process-blocked-desc = שינוי מספר תהליכי תוכן אפשרי רק עם { -brand-short-name } מרובה תהליכים. <a data-l10n-name="learn-more">כיצד לבדוק אם ריבוי תהליכים מופעל</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ברירת מחדל)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = מומלץ על־ידי { $provider }
 home-prefs-recommended-by-description-new = תוכן יוצא דופן שנבחר בקפידה על־ידי { $provider }, חלק ממשפחת { -brand-product-name }
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = מבחר של אתרים ותכנים �
 home-prefs-snippets-header =
     .label = פתקיות
 home-prefs-snippets-description-new = עצות וחדשות מ־{ -vendor-short-name } ו־{ -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = מנועי חיפוש נוספים
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = מילת מפתח כפולה
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש עבור "{ $name }". אנא בחר במילה אחרת.
 search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על־ידי סימנייה. נא לבחור במילה אחרת.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = ה
 sync-manage-account = ניהול חשבון
     .accesskey = נ
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = הכתובת  { $email } אינה מאומתת.
 sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר מחדש { $email }
+
+##
+
 sync-resend-verification =
     .label = שליחת אימות מחדש
     .accesskey = א
@@ -887,8 +922,8 @@ history-clear-button =
 sitedata-header = עוגיות ונתוני אתרים
 sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומטמון…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = העוגיות, נתוני האתרים והמטמון השמורים שלך משתמשים כרגע ב־{ $value } { $unit } משטח הדיסק.
 sitedata-learn-more = מידע נוסף
 sitedata-delete-on-close =
@@ -928,6 +963,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ניהול חריגות…
     .accesskey = ח
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-learn-more = מידע נוסף
 
 ## Privacy Section - Address Bar
 
