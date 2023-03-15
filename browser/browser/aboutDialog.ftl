@@ -26,6 +26,9 @@ update-unsupported = Nid oes modd i chi ddiweddaru'r system hon ymhellach. <labe
 update-restarting = Ailgychwyn…
 update-internal-error = Methu gwirio am ddiweddariadau oherwydd gwall mewnol. Mae diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
 channel-description = Rydych ar sianel diweddaru <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Rydych ar sianel diweddaru <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = Mae { -brand-short-name } yn arbrofol a gall fod yn ansad.
 aboutdialog-help-user = Cymorth { -brand-product-name }
 aboutdialog-submit-feedback = Cyflwyno Adborth
