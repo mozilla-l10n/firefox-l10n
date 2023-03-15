@@ -28,7 +28,7 @@ update-internal-error = Não foi possível procurar por atualizações devido a 
 channel-description = Atualmente, está no canal de atualização <label data-l10n-name="current-channel"></label>.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Atualmente, está no canal de atualização <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
+aboutdialog-channel-description = Atualmente, está no canal de atualização <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = O { -brand-short-name } é experimental e poderá ser instável.
 aboutdialog-help-user = Ajuda do { -brand-product-name }
 aboutdialog-submit-feedback = Enviar comentários
