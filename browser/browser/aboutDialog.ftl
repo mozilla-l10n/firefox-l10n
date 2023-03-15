@@ -26,7 +26,7 @@ update-restarting = Se ye reiniciando…
 channel-description = Ye fendo servir a canal <label data-l10n-name="current-channel"></label> d'actualizacions.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Ye fendo servir a canal <label data-l10n-name="current-channel">{ $channel }</label> d'actualizacions.{ " " }
+aboutdialog-channel-description = Ye fendo servir a canal <label data-l10n-name="current-channel">{ $channel }</label> d'actualizacions.
 warningDesc-version = { -brand-short-name } ye experimental y puede estar inestable.
 aboutdialog-help-user = Aduya de { -brand-product-name }
 aboutdialog-submit-feedback = Ninviar comentarios
