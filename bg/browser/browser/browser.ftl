@@ -142,6 +142,17 @@ urlbar-search-tips-confirm-short = Разбрах
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Съвет:
+urlbar-result-menu-button =
+    .title = Отваря менюто
+urlbar-result-menu-learn-more =
+    .label = Научете повече
+    .accesskey = н
+urlbar-result-menu-remove-from-history =
+    .label = Премахване от историята
+    .accesskey = и
+urlbar-result-menu-tip-get-help =
+    .label = Получете помощ
+    .accesskey = п
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -150,6 +161,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Въвеждайте малко, намирайте много: търсете с { $engineName } направо от адресната лента.
 urlbar-search-tips-redirect-2 = Започнете търсене от адресната лента, за да видите предложения от { $engineName } и историята на разглеждане.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Търсенето вече е по-лесно. Направете търсенето от адресната лента по-конкретно. Ако желаете да се показва адрес, посетете Търсене в настройките.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Изберете бърз клавиш, за да намирате нужното по-бързо.
@@ -282,7 +295,11 @@ quickactions-cmd-bookmarks = отметки
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Изчистване на историята
 quickactions-cmd-clearhistory = изчистване на историята
+# Opens about:downloads page
+quickactions-downloads2 = Преглед на изтеглените файлове
 quickactions-cmd-downloads = изтегляния
+# Opens about:addons page in the extensions section
+quickactions-extensions = Управление на добавки
 quickactions-cmd-extensions = разширения
 # Opens the devtools web inspector
 quickactions-inspector2 = Развойни инструменти
@@ -296,6 +313,8 @@ quickactions-cmd-plugins = приставки
 # Opens the print dialog
 quickactions-print2 = Отпечатване
 quickactions-cmd-print = печат, отпечатване
+# Opens a new private browsing window
+quickactions-private2 = Поверителен прозорец
 quickactions-cmd-private = поверително разглеждане
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Освежаване на { -brand-short-name }
@@ -303,6 +322,8 @@ quickactions-cmd-refresh = освежаване, опресняване
 # Restarts the browser
 quickactions-restart = Рестартиране на { -brand-short-name }
 quickactions-cmd-restart = рестарт, рестартиране
+# Opens the screenshot tool
+quickactions-screenshot3 = Снимка на екрана
 quickactions-cmd-screenshot = снимка на екрана
 # Opens about:preferences
 quickactions-settings2 = Настройки
@@ -500,6 +521,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = За да използвате клавишна комбинация F12, първо отворете DevTools чрез менюто за разработчици.
+enable-devtools-popup-description2 = За да използвате клавишна комбинация F12, първо отворете DevTools от менюто с инструменти на четеца.
 
 ## URL Bar
 
@@ -723,6 +745,8 @@ bookmarks-tools =
     .label = Инструменти за отметки
 bookmarks-bookmark-edit-panel =
     .label = Промяна на отметка
+bookmarks-subview-edit-bookmark =
+    .label = Промяна на отметка…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -784,6 +808,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Препратка по имейл
     .tooltiptext = Изпращане на препратка към страница по ел. поща
+toolbar-button-logins =
+    .label = Пароли
+    .tooltiptext = Преглеждайте и управлявайте запазените пароли
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -927,6 +954,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Разширения
+    .tooltiptext =
+        Разширения
+        Необходими са права
 
 ## Autorefresh blocker
 
@@ -938,3 +970,8 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } скрива истинския адрес на електронна поща, за да ви предпази от изтичане на данни и нежелана поща.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Ще препращаме всички писма от <strong>{ $sitename }</strong> към <strong>{ $useremail }</strong>.
