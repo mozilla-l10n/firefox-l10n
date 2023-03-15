@@ -26,6 +26,9 @@ update-unsupported = تساں ایں سسٹم تے ودھیک اپڈیٹ نہی�
 update-restarting = ولدا شروع تھیندا پئے۔۔۔
 update-internal-error = اندرلی خرابی دی وجہ توں اپ ڈیٹس چیک کرݨ کنوں قاصر۔ اپ ڈیٹس <label data-l10n-name="manual-link"/> تے دستیاب ہن۔
 channel-description = تساں ایں ویلھے <label data-l10n-name="current-channel"></label> دی اپڈیٹ چینل وِچ ہو۔
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = تساں ایں ویلھے <label data-l10n-name="current-channel">{ $channel }</label> دی اپڈیٹ چینل وِچ ہو۔
 warningDesc-version = { -brand-short-name } تجرباتی ہے تے ٹھیک کم کائناں کر سڳسی۔
 aboutdialog-help-user = { -brand-product-name } مدد
 aboutdialog-submit-feedback = آپݨی رائے جمع کرواؤ
