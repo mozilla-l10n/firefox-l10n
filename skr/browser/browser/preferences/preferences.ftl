@@ -84,6 +84,9 @@ restart-later = بعد اِچ نویں سروں شروع کرو
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ایں ترتیب کوں کنٹرول کریندا ہے۔
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ایں ترتیب کوں کنٹرول کریندا ہے۔
