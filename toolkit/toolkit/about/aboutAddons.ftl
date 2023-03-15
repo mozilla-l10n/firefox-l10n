@@ -8,6 +8,13 @@ search-header =
     .searchbuttonlabel = Որոնել addons.mozilla.org֊ում
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+
+##
+
 list-empty-installed =
     .value = Դուք չունեք տեղակայված այս տեսակի հավելումներ
 list-empty-available-updates =
@@ -131,6 +138,10 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Վերջին Թարմացումները
 addon-category-recent-updates-title =
     .title = Վերջին Թարմացումները
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Կայքի թույլտվությունները { $host }-ի համար
 
 ## These are global warnings
 
@@ -209,6 +220,8 @@ shortcuts-duplicate-warning-message = { $shortcut }-ը մեկից ավելի ա�
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Արդեն օգտագործվում է{ $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Ցույց տալ { $numberToShow } Ավելին
@@ -370,8 +383,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name }-ը և { -brand-short-name } { $version }-ը անհամատեղելի են:
 details-notification-unsigned-and-disabled = { $name }-ը չէր կարող հաստատվել { -brand-short-name }-ում օգտագործման համար և անջատվել է։
 details-notification-unsigned-and-disabled-link = Ավելի շատ տեղեկություն
