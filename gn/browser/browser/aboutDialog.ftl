@@ -26,6 +26,9 @@ update-unsupported = Ndaikatuvéima reipuru ambue tekopyahu ko apopyvusúpe.<lab
 update-restarting = Moñepyrũjey…
 update-internal-error = Ndaikatúi eheka ñembohekopyahu oĩ rupi jejavy. Ñembohekopyahu eipurukuaa <label data-l10n-name="manual-link"/>-pe
 channel-description = Oiporuhína mbohapeha<label data-l10n-name="current-channel"></label> tekopyahurã.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Oiporuhína mbohapeha<label data-l10n-name="current-channel">{ $channel }</label> tekopyahurã.
 warningDesc-version = { -brand-short-name } oñeha’ãva gueteri ha ne’ĩrava oĩmba.
 aboutdialog-help-user = { -brand-product-name } Pytyvõ
 aboutdialog-submit-feedback = Temiandu mondo
