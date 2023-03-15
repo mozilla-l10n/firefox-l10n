@@ -26,6 +26,9 @@ update-unsupported = Δεν μπορείτε να εκτελέσετε περα�
 update-restarting = Επανεκκίνηση…
 update-internal-error = Δεν είναι δυνατός ο έλεγχος για ενημερώσεις λόγω εσωτερικού σφάλματος. Οι ενημερώσεις διατίθενται στο <label data-l10n-name="manual-link"/>
 channel-description = Αυτήν τη στιγμή, βρίσκεστε στο κανάλι ενημερώσεων της έκδοσης <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Αυτήν τη στιγμή, βρίσκεστε στο κανάλι ενημερώσεων της έκδοσης <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = Το { -brand-short-name } είναι σε πειραματικό στάδιο και πιθανότατα ασταθές.
 aboutdialog-help-user = Βοήθεια { -brand-product-name }
 aboutdialog-submit-feedback = Υποβολή σχολίων
