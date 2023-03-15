@@ -28,7 +28,7 @@ update-internal-error = לא ניתן היה לבדוק אחר עדכונים ע
 channel-description = כרגע על ערוץ העדכונים <label data-l10n-name="current-channel"></label>.{ "  " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = כרגע על ערוץ העדכונים <label data-l10n-name="current-channel">{ $channel }</label>.{ "  " }
+aboutdialog-channel-description = כרגע על ערוץ העדכונים <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = תוכנת { -brand-short-name } היא נסיונית וייתכן שלא תהיה יציבה.
 aboutdialog-help-user = עזרה עבור { -brand-product-name }
 aboutdialog-submit-feedback = שליחת משוב
