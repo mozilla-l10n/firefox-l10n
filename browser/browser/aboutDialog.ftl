@@ -26,6 +26,9 @@ update-unsupported = La darrièra version es pas disponibla per vòstre sistèma
 update-restarting = Reaviada…
 update-internal-error = Verificacion impossibla de las mesas a jorn a causa d’una error intèrna. Las mesas a jorn son disponibla a <label data-l10n-name="manual-link"/>
 channel-description = Actualament, utilizatz lo canal de mesa a jorn <label data-l10n-name="current-channel"></label> per metre a jorn.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Actualament, utilizatz lo canal de mesa a jorn <label data-l10n-name="current-channel">{ $channel }</label> per metre a jorn.
 warningDesc-version = { -brand-short-name } es experimental e pòt èsser instable.
 aboutdialog-help-user = Ajuda de { -brand-product-name }
 aboutdialog-submit-feedback = Enviar vòstre vejaire…
