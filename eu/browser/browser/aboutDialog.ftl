@@ -26,6 +26,9 @@ update-unsupported = Ezin duzu eguneraketa gehiago burutu sistema honetan.<label
 update-restarting = Berrabiarazten…
 update-internal-error = Ezin dira eguneraketak bilatu barne-errore bat dela eta. Eguneraketak <label data-l10n-name="manual-link"/> helbidean daude erabilgarri
 channel-description = Une honetan <label data-l10n-name="current-channel"></label> eguneraketa-kanalean zaude.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Une honetan <label data-l10n-name="current-channel">{ $channel }</label> eguneraketa-kanalean zaude.
 warningDesc-version = { -brand-short-name } esperimentala da eta ezegonkorra izan liteke.
 aboutdialog-help-user = { -brand-product-name } laguntza
 aboutdialog-submit-feedback = Bidali iritzia
