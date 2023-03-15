@@ -26,6 +26,9 @@ update-unsupported = Anda tidak dapat melakukan pemutakhiran selanjutnya pada si
 update-restarting = Memulai ulang…
 update-internal-error = Gagal memeriksa versi baru karena kesalahan internal. Versi baru tersedia di <label data-l10n-name="manual-link"/>
 channel-description = Anda sedang berada di kanal pemutakhiran <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Anda sedang berada di kanal pemutakhiran <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } bersifat eksperimental dan mungkin tidak stabil.
 aboutdialog-help-user = Bantuan { -brand-product-name }
 aboutdialog-submit-feedback = Kirim Masukan
