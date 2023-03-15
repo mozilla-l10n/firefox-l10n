@@ -26,6 +26,9 @@ update-unsupported = לא ניתן לבצע עדכונים נוספים במער
 update-restarting = מתבצעת הפעלה מחדש…
 update-internal-error = לא ניתן היה לבדוק אחר עדכונים עקב שגיאה פנימית. עדכונים זמינים ב־<label data-l10n-name="manual-link"/>
 channel-description = כרגע על ערוץ העדכונים <label data-l10n-name="current-channel"></label>.{ "  " }
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = כרגע על ערוץ העדכונים <label data-l10n-name="current-channel">{ $channel }</label>.{ "  " }
 warningDesc-version = תוכנת { -brand-short-name } היא נסיונית וייתכן שלא תהיה יציבה.
 aboutdialog-help-user = עזרה עבור { -brand-product-name }
 aboutdialog-submit-feedback = שליחת משוב
