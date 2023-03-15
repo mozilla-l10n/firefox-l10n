@@ -26,6 +26,9 @@ update-unsupported = Jo kinne gjin fernijngen mear útfiere op dit systeem. <lab
 update-restarting = Opnij starte…
 update-internal-error = Kin net kontrolearje op fernijingen fanwegen in ynterne flater. Fernijingen beskikber op <label data-l10n-name="manual-link"/>
 channel-description = Jo binne op dit stuit op it <label data-l10n-name="current-channel"></label>-fernijingskanaal.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Jo binne op dit stuit op it <label data-l10n-name="current-channel">{ $channel }</label>-fernijingskanaal.
 warningDesc-version = { -brand-short-name } is eksperiminteel en is mooglik net stabyl.
 aboutdialog-help-user = { -brand-product-name } Help
 aboutdialog-submit-feedback = Kommentaar ferstjoere
