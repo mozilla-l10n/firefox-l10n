@@ -68,6 +68,8 @@ import-items-description = Selektearje de te ymportearjen ûnderdielen:
 import-permissions-page-title = Jou { -brand-short-name } tastimmingen
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = Yn macOS moatte jo { -brand-short-name } eksplisyt tagong jaan ta de blêdwizers fan Safari. Klik op ‘Trochgean’ en selektearje yn it toande paniel Bestand openen it bestân ‘Bookmarks.plist’.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = Yn macOS moatte jo { -brand-short-name } eksplisyt tagong jaan ta de gegevens fan Safari. Klik op ‘Trochgean’, selektearje de map ‘Safari’ yn it toande Finder-dialoochfinster en klik dêrnei op ‘Openen’.
 import-migrating-page-title = Ymportearje…
 import-migrating-description = De folgjende ûnderdielen wurde op dit stuit ymportearre…
 import-select-profile-page-title = Profyl selektearje
