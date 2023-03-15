@@ -18,6 +18,7 @@ callout-firefox-view-colorways-reminder-title = Разгледайте най-н
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Получете достъп до разделите от всички устройства. Освен това, синхронизирайте отметките, паролите и други.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Първи стъпки
 
 ## PDF.js Feature Tour Strings
