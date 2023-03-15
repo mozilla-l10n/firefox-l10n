@@ -76,6 +76,8 @@ import-permissions-page-title = Garantire a { -brand-short-name } i permessi nec
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = In macOS è necessario garantire esplicitamente a { -brand-short-name } il permesso di accedere ai segnalibri in Safari. Fare clic su “Continua” e selezionare il file “Bookmarks.plist” nel pannello che verrà visualizzato.
 
+import-safari-permissions-string = In macOS è necessario garantire esplicitamente a { -brand-short-name } il permesso di accedere ai dati di Safari. Fare clic su “Continua”, selezionare la cartella “Safari” nella finestra del Finder che verrà visualizzata e fare clic su “Apri”.
+
 import-migrating-page-title = Importazione…
 
 import-migrating-description = I seguenti oggetti stanno per essere importati…
