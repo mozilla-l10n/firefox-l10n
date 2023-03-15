@@ -28,7 +28,7 @@ update-internal-error = Dahili bir hata nedeniyle güncellemeler kontrol edilemi
 channel-description = Şu anda <label data-l10n-name="current-channel"></label> güncelleme kanalındasınız.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Şu anda <label data-l10n-name="current-channel">{ $channel }</label> güncelleme kanalındasınız.{ " " }
+aboutdialog-channel-description = Şu anda <label data-l10n-name="current-channel">{ $channel }</label> güncelleme kanalındasınız.
 warningDesc-version = { -brand-short-name } deneyseldir ve kararsız olabilir.
 aboutdialog-help-user = { -brand-product-name } yardımı
 aboutdialog-submit-feedback = Görüş bildir
