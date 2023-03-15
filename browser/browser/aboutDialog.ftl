@@ -28,7 +28,7 @@ update-internal-error = 内部エラーにより更新を確認できません�
 channel-description = 現在のアップデートチャンネルは <label data-l10n-name="current-channel"></label> です。{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = 現在のアップデートチャンネルは <label data-l10n-name="current-channel">{ $channel }</label> です。{ " " }
+aboutdialog-channel-description = 現在のアップデートチャンネルは <label data-l10n-name="current-channel">{ $channel }</label> です。
 warningDesc-version = { -brand-short-name } は実験的であり、不安定な可能性があります。
 aboutdialog-help-user = { -brand-product-name } ヘルプ
 aboutdialog-submit-feedback = フィードバックを送信
