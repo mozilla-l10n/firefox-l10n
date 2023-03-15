@@ -26,6 +26,9 @@ update-unsupported = Nuk mund të kryeni përditësime të mëtejshme në këtë
 update-restarting = Po riniset…
 update-internal-error = S’arrihet të kontrollohet për përditësime, për shkak gabimi të brendshëm. Përditësime të passhme te <label data-l10n-name="manual-link"/>
 channel-description = Tani gjendeni te kanali i përditësimit për <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Tani gjendeni te kanali i përditësimit për <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name }-i është eksperimental dhe mund të jetë i paqëndrueshëm.
 aboutdialog-help-user = Ndihmë mbi { -brand-product-name }-in
 aboutdialog-submit-feedback = Parashtrojini Përshtypjet
