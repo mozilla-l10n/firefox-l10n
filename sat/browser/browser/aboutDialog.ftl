@@ -26,6 +26,9 @@ update-unsupported = ᱟᱢ ᱱᱚᱶᱟ ᱥᱭᱥᱴᱮᱢ ᱨᱮ ᱢᱟᱲᱟ�
 update-restarting = ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵᱚᱜᱼᱟ…
 update-internal-error = ᱵᱷᱤᱛᱤᱨ ᱵᱷᱩᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱮᱱ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾ <label data-l10n-name="manual-link"/> ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ
 channel-description = ᱨᱮ ᱟᱢ ᱱᱤᱛᱚᱜ ᱢᱮᱱᱟᱢᱟ <label data-l10n-name="current-channel"></label> ᱦᱟᱹᱞᱤ ᱪᱮᱱᱟᱞ ᱾
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = ᱨᱮ ᱟᱢ ᱱᱤᱛᱚᱜ ᱢᱮᱱᱟᱢᱟ <label data-l10n-name="current-channel">{ $channel }</label> ᱦᱟᱹᱞᱤ ᱪᱮᱱᱟᱞ ᱾
 warningDesc-version = { -brand-short-name } ᱫᱚ ᱠᱟᱹᱢᱤ ᱠᱟᱛᱮ ᱧᱮᱞᱟᱜ ᱠᱟᱱᱟ ᱟᱨ ᱵᱟᱝ ᱛᱷᱤᱨᱟᱜ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 aboutdialog-help-user = { -brand-product-name } ᱜᱚᱲᱚ
 aboutdialog-submit-feedback = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟᱭ ᱢᱮ
