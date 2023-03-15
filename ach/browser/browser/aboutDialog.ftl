@@ -26,7 +26,7 @@ update-restarting = Tye ka cake odoco...
 channel-description = Kombedi i tye i <label data-l10n-name="current-channel"></label> yo ngec manyen.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Kombedi i tye i <label data-l10n-name="current-channel">{ $channel }</label> yo ngec manyen.{ " " }
+aboutdialog-channel-description = Kombedi i tye i <label data-l10n-name="current-channel">{ $channel }</label> yo ngec manyen.
 warningDesc-version = { -brand-short-name } obedo me atemo dok romo yenge.
 aboutdialog-help-user = Kony me { -brand-product-name }
 aboutdialog-submit-feedback = Cwal Adwogi
