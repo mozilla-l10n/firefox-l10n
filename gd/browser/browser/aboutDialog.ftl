@@ -26,7 +26,7 @@ update-restarting = Ag ath-thòiseachadh…
 channel-description = Tha thu san t-seanail ùrachaidh <label data-l10n-name="current-channel"></label> an-dràsta.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Tha thu san t-seanail ùrachaidh <label data-l10n-name="current-channel">{ $channel }</label> an-dràsta.{ " " }
+aboutdialog-channel-description = Tha thu san t-seanail ùrachaidh <label data-l10n-name="current-channel">{ $channel }</label> an-dràsta.
 warningDesc-version = Thathar ag obair air { -brand-short-name } fhathast agus faodaidh nach bi iad buileach seasmhach.
 aboutdialog-help-user = Cobhair { -brand-product-name }
 aboutdialog-submit-feedback = Cuir thugainn do bheachdan
