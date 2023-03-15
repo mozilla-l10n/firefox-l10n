@@ -26,6 +26,9 @@ update-unsupported = Du kan inte utföra fler uppdateringar på detta system. <l
 update-restarting = Startar om…
 update-internal-error = Det gick inte att söka efter uppdateringar på grund av internt fel. Uppdateringar finns tillgängliga på <label data-l10n-name="manual-link"/>
 channel-description = Du finns för närvarande på uppdateringskanalen <label data-l10n-name="current-channel"></label>uppdaterings kanal.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Du finns för närvarande på uppdateringskanalen <label data-l10n-name="current-channel">{ $channel }</label>uppdaterings kanal.
 warningDesc-version = { -brand-short-name } är experimentell och kan vara instabil.
 aboutdialog-help-user = { -brand-product-name } Hjälp
 aboutdialog-submit-feedback = Skicka in återkoppling
