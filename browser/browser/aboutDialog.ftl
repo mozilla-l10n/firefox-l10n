@@ -4,26 +4,20 @@
 
 aboutDialog-title =
     .title = { -brand-full-name }-н тухай
-
 update-checkingForUpdates = Шинэчлэл шалгаж байна...
 update-downloading = <img data-l10n-name="icon"/>Шинэчлэлийг татаж авч байна — <label data-l10n-name="download-status"/>
 update-applying = Шинэчлэлийг суулгаж байна...
-
 update-failed = Шинэчлэлд амжилтгүй.<label data-l10n-name="failed-link">Сүүлчийн хувилбарыг татах</label>
 update-failed-main = Шинэчлэлд амжилтгүй.<a data-l10n-name="failed-link-main">Сүүлчийн хувилбарыг татах</a>
-
 update-adminDisabled = Шинэчлэлүүд захирагчаар хаагдсан
 update-noUpdatesFound = { -brand-short-name } нэн шинэ
-
 update-manual = Шинэчлэл боломжтой байна<label data-l10n-name="manual-link"/>
-
 channel-description = Та яг одоо <label data-l10n-name="current-channel"></label>шинэчлэлийн сувагт байна.
-
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Та яг одоо <label data-l10n-name="current-channel">{ $channel }</label>шинэчлэлийн сувагт байна.
 warningDesc-version = { -brand-short-name } нь туршилтын хувилбар бөгөөд зарим тохиолдолд тогтворгүй байх магадлалтай.
-
 community-2 = { -brand-short-name }-ийн загварийг <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>— <label data-l10n-name="community-creditsLink">Глобал нийгэмлэг</label> вэбийг нээлттэй, олон нийтийн, бүгдэд хүртээмжтэй байлгахын тулд хамтдаа ажиллацгаая.
-
 bottomLinks-license = Лицензийн мэдээлэл
 bottomLinks-rights = Эцсийн хэрэглэгчийн эрх
 bottomLinks-privacy = Хуулийн нөхцөл
-
