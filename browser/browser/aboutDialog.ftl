@@ -26,6 +26,9 @@ update-unsupported = Tolesni naujinimai, naudojantis šia sistema, yra negalimi.
 update-restarting = Paleidžiama iš naujo…
 update-internal-error = Dėl vidinės klaidos nepavyko patikrinti, ar yra naujinimų. Naujinimai pasiekiami per <label data-l10n-name="manual-link"/>
 channel-description = Šiuo metu naudojamas <label data-l10n-name="current-channel"></label> naujinimų kanalas.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Šiuo metu naudojamas <label data-l10n-name="current-channel">{ $channel }</label> naujinimų kanalas.
 warningDesc-version = „{ -brand-short-name }“ yra eksperimentinė programa ir gali būti nestabili.
 aboutdialog-help-user = „{ -brand-product-name }“ žinynas
 aboutdialog-submit-feedback = Siųsti atsiliepimą
