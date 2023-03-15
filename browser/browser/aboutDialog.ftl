@@ -28,7 +28,7 @@ update-internal-error = Kan ikke se etter oppdateringer på grunn av intern feil
 channel-description = Du bruker nå oppdateringskanalen <label data-l10n-name="current-channel"></label>.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Du bruker nå oppdateringskanalen <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
+aboutdialog-channel-description = Du bruker nå oppdateringskanalen <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } er eksperimentell, og kan være ustabil.
 aboutdialog-help-user = { -brand-product-name }-hjelp
 aboutdialog-submit-feedback = Gi tilbakemelding
