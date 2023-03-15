@@ -26,6 +26,9 @@ update-unsupported = Du kan ikke foretage yderligere opdateringer på dette syst
 update-restarting = Genstarter…
 update-internal-error = Kan ikke søge efter opdateringer på grund af en intern fejl. Opdateringer er tilgængelige på <label data-l10n-name="manual-link"/>
 channel-description = Du er i øjeblikket på opdateringskanalen: <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Du er i øjeblikket på opdateringskanalen: <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } er eksperimentel og kan være ustabil.
 aboutdialog-help-user = Hjælp til { -brand-product-name }
 aboutdialog-submit-feedback = Indsend feedback
