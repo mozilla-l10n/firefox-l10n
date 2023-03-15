@@ -26,6 +26,9 @@ update-unsupported = Шумо дар низоми ҷорӣ навсозиҳои 
 update-restarting = Дар ҳоли бозоғозӣ…
 update-internal-error = Ба сабаби хатои дохилӣ, тафтиш кардани навсозиҳо имконнопазир аст. Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд.
 channel-description = Айни ҳол шумо дар шабакаи навсозии «<label data-l10n-name="current-channel"></label>» қарор доред.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Айни ҳол шумо дар шабакаи навсозии «<label data-l10n-name="current-channel">{ $channel }</label>» қарор доред.
 warningDesc-version = «{ -brand-short-name }» дар реҷаи озмоишӣ мебошад ва метавонад ноустувор кор кунад.
 aboutdialog-help-user = Кумаки «{ -brand-product-name }»
 aboutdialog-submit-feedback = Ирсоли изҳори назар
