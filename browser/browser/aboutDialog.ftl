@@ -26,6 +26,9 @@ update-unsupported = თქვენ ამ სისტემაზე და�
 update-restarting = ეშვება ხელახლა…
 update-internal-error = ვერ მოწმდება განახლებებზე შიდა შეცდომის გამო. ხელით განახლებისთვის იხილეთ <label data-l10n-name="manual-link"/>
 channel-description = თქვენ ამჟამად იყენებთ განახლების <label data-l10n-name="current-channel"></label>-არხს.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = თქვენ ამჟამად იყენებთ განახლების <label data-l10n-name="current-channel">{ $channel }</label>-არხს.
 warningDesc-version = { -brand-short-name } საცდელია და შესაძლოა არამდგრადი იყოს.
 aboutdialog-help-user = { -brand-product-name } – დახმარება
 aboutdialog-submit-feedback = გამოხმაურების გაგზავნა
