@@ -26,6 +26,9 @@ update-unsupported = ਤੁਸੀਂ ਇਸ ਸਿਸਟਮ ਨੂੰ ਹੋਰ 
 update-restarting = …ਮੁੜ-ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ
 update-internal-error = ਅੰਦਰੂਨੀ ਗ਼ਲਤੀ ਕਰਕੇ ਅੱਪਡੇਟਾਂ ਭਾਲਣ ਤੋੰ ਅਸਮਰੱਥ। ਅੱਪਡੇਟਾਂ <label data-l10n-name="manual-link"/> ਉੱਤੇ ਮੌਜੂਦ ਹਨ।
 channel-description = ਇਸ ਵੇਲੇ ਤੁਸੀਂ <label data-l10n-name="current-channel"></label> ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ।
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = ਇਸ ਵੇਲੇ ਤੁਸੀਂ <label data-l10n-name="current-channel">{ $channel }</label> ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ।
 warningDesc-version = { -brand-short-name } ਅਜੇ ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਢਿੱਲਾ ਮੱਠਾ ਹੋ ਸਕਦਾ ਹੈ।
 aboutdialog-help-user = { -brand-product-name } ਮਦਦ
 aboutdialog-submit-feedback = ਸੁਝਾਅ ਭੇਜੋ
