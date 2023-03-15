@@ -26,6 +26,9 @@ update-unsupported = No podeu actualitzar en aquest sistema. <label data-l10n-na
 update-restarting = S'està reiniciant…
 update-internal-error = No s'han pogut cercar actualitzacions a causa d'un error intern. Hi ha actualitzacions disponibles a <label data-l10n-name="manual-link"/>
 channel-description = Actualment esteu al canal <label data-l10n-name="current-channel"></label> d'actualitzacions.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Actualment esteu al canal <label data-l10n-name="current-channel">{ $channel }</label> d'actualitzacions.
 warningDesc-version = El { -brand-short-name } és experimental i pot ser inestable.
 aboutdialog-help-user = Ajuda del { -brand-product-name }
 aboutdialog-submit-feedback = Envia comentaris
