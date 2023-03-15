@@ -26,6 +26,9 @@ update-unsupported = Nem végezhet további frissítéseket ezen a rendszeren.<l
 update-restarting = Újraindítás…
 update-internal-error = Belső hiba miatt nem lehet frissítéseket keresni. A frissítések itt érhetők el: <label data-l10n-name="manual-link"/>
 channel-description = Jelenleg a(z) <label data-l10n-name="current-channel"></label> frissítési csatornát használja.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Jelenleg a(z) <label data-l10n-name="current-channel">{ $channel }</label> frissítési csatornát használja.
 warningDesc-version = A { -brand-short-name } kísérleti és esetleg instabil.
 aboutdialog-help-user = { -brand-product-name } súgó
 aboutdialog-submit-feedback = Visszajelzés küldése
