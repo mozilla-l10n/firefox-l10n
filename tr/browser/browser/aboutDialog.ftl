@@ -26,6 +26,9 @@ update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<label d
 update-restarting = Yeniden başlatılıyor…
 update-internal-error = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <label data-l10n-name="manual-link"/> adresinde bulabilirsiniz.
 channel-description = Şu anda <label data-l10n-name="current-channel"></label> güncelleme kanalındasınız.{ " " }
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Şu anda <label data-l10n-name="current-channel">{ $channel }</label> güncelleme kanalındasınız.{ " " }
 warningDesc-version = { -brand-short-name } deneyseldir ve kararsız olabilir.
 aboutdialog-help-user = { -brand-product-name } yardımı
 aboutdialog-submit-feedback = Görüş bildir
