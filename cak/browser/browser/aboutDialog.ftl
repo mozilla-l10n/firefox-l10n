@@ -26,6 +26,9 @@ update-unsupported = Man tikirel ta chik nab'an taq k'exoj pa re q'inoj re'. <la
 update-restarting = Nitikirisäx…
 update-internal-error = Man ye'ilitäj ta taq k'exoj ruma k'o jun sachoj chupam. K'o taq k'exoj pa <label data-l10n-name="manual-link"/>
 channel-description = Tajin nawokisaj ri q'axab'äl <label data-l10n-name="current-channel"></label> kiq'axab'al taq k'exoj ruwäch.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Tajin nawokisaj ri q'axab'äl <label data-l10n-name="current-channel">{ $channel }</label> kiq'axab'al taq k'exoj ruwäch.
 warningDesc-version = { -brand-short-name } choj ok nitojtob'ëx, rik’in jub'a' man pa rub'eyal ta.
 aboutdialog-help-user = { -brand-product-name } Tob'äl
 aboutdialog-submit-feedback = Ketaq taq Rutzijol
