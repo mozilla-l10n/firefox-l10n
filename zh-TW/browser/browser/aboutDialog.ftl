@@ -26,6 +26,9 @@ update-unsupported = 您無法在此系統上進行後續更新。<label data-l1
 update-restarting = 重新啟動中…
 update-internal-error = 發生內部錯誤，無法檢查更新。可到下列網址下載 <label data-l10n-name="manual-link"/>
 channel-description = 您目前正使用 <label data-l10n-name="current-channel"></label> 更新頻道。
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = 您目前正使用 <label data-l10n-name="current-channel">{ $channel }</label> 更新頻道。
 warningDesc-version = { -brand-short-name } 是一個實驗用的測試版本，可能不夠穩定。
 aboutdialog-help-user = { -brand-product-name } 說明
 aboutdialog-submit-feedback = 送出意見回饋
