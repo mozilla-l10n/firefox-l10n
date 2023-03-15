@@ -30,6 +30,9 @@ update-unsupported = Tälle järjestelmälle ei enää tarjota päivityksiä. <l
 update-restarting = Käynnistetään uudestaan…
 update-internal-error = Päivityksiä ei voi tarkistaa sisäisen virheen vuoksi. Päivitykset ovat saatavilla osoitteessa <label data-l10n-name="manual-link"/>
 channel-description = Ohjelman päivitykset ovat tyyppiä <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Ohjelman päivitykset ovat tyyppiä <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } on kokeellinen versio ja voi olla epävakaa.
 aboutdialog-help-user = { -brand-product-name }-ohje
 aboutdialog-submit-feedback = Lähetä palautetta
