@@ -26,6 +26,9 @@ update-unsupported = คุณไม่สามารถดำเนินก�
 update-restarting = กำลังเริ่มการทำงานใหม่…
 update-internal-error = ไม่สามารถตรวจสอบการอัพเดตได้เนื่องจากมีข้อผิดพลาดภายใน การอัพเดตมีอยู่ที่ <label data-l10n-name="manual-link"/>
 channel-description = คุณกำลังอยู่บนช่องทางการอัปเดต <label data-l10n-name="current-channel"></label>
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = คุณกำลังอยู่บนช่องทางการอัปเดต <label data-l10n-name="current-channel">{ $channel }</label>
 warningDesc-version = { -brand-short-name } เป็นรุ่นทดลองและอาจไม่เสถียร
 aboutdialog-help-user = ความช่วยเหลือของ { -brand-product-name }
 aboutdialog-submit-feedback = ส่งข้อคิดเห็น
