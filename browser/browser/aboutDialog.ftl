@@ -26,6 +26,9 @@ update-unsupported = Na ovom sustavu više ne možeš nadograđivati. <label dat
 update-restarting = Ponovno pokretanje…
 update-internal-error = Neuspjelo traženje novih verzija zbog interne greške. Nove verzije su dostupne na <label data-l10n-name="manual-link"/>
 channel-description = Trenutačno se nalaziš na <label data-l10n-name="current-channel"></label> kanalu za aktualiziranje.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Trenutačno se nalaziš na <label data-l10n-name="current-channel">{ $channel }</label> kanalu za aktualiziranje.
 warningDesc-version = { -brand-short-name } je eksperimentalna verzija i može biti nestabilna.
 aboutdialog-help-user = Pomoć za { -brand-product-name }
 aboutdialog-submit-feedback = Pošalji povratne informacije
