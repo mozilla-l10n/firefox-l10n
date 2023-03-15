@@ -27,7 +27,7 @@ update-restarting = Startujo se…
 channel-description = Sćo tuchylu na aktualizaciskem kanalu <label data-l10n-name="current-channel"></label>.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Sćo tuchylu na aktualizaciskem kanalu <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
+aboutdialog-channel-description = Sćo tuchylu na aktualizaciskem kanalu <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } jo eksperimentalny a by mógał njestabilny byś.
 aboutdialog-help-user = { -brand-product-name } - Pomoc
 aboutdialog-submit-feedback = Komentar wotpósłaś
