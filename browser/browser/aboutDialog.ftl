@@ -40,6 +40,9 @@ update-unsupported = Na tomto systému nelze provádět další aktualizace. <la
 update-restarting = Restartování…
 update-internal-error = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na  adrese <label data-l10n-name="manual-link"/>
 channel-description = Používáte aktualizační kanál <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Používáte aktualizační kanál <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } je experimentální verze a může být nestabilní.
 aboutdialog-help-user =
     { -brand-product-name.case-status ->
