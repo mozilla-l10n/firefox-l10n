@@ -28,7 +28,7 @@ update-internal-error = Ішкі қатеге байланысты жаңарт�
 channel-description = Сіз <label data-l10n-name="current-channel"></label> жаңарту арнасындасыз.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Сіз <label data-l10n-name="current-channel">{ $channel }</label> жаңарту арнасындасыз.{ " " }
+aboutdialog-channel-description = Сіз <label data-l10n-name="current-channel">{ $channel }</label> жаңарту арнасындасыз.
 warningDesc-version = { -brand-short-name } сынама түрі және тұрақсыз болуы мүмкін.
 aboutdialog-help-user = { -brand-product-name } көмегі
 aboutdialog-submit-feedback = Кері байланыс хабарламасын жіберу
