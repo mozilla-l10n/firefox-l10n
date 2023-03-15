@@ -26,6 +26,9 @@ update-unsupported = Бұл жүйе үшін болашақ жаңартула�
 update-restarting = Қайта қосылуда…
 update-internal-error = Ішкі қатеге байланысты жаңартуларды тексеру мүмкін емес. Жаңартулар <label data-l10n-name="manual-link"/> адресі бойынша қолжетімді
 channel-description = Сіз <label data-l10n-name="current-channel"></label> жаңарту арнасындасыз.{ " " }
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Сіз <label data-l10n-name="current-channel">{ $channel }</label> жаңарту арнасындасыз.{ " " }
 warningDesc-version = { -brand-short-name } сынама түрі және тұрақсыз болуы мүмкін.
 aboutdialog-help-user = { -brand-product-name } көмегі
 aboutdialog-submit-feedback = Кері байланыс хабарламасын жіберу
