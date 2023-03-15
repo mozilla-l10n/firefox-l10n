@@ -28,7 +28,7 @@ update-internal-error = Не удалось проверить наличие о
 channel-description = Сейчас вы находитесь на канале обновлений <label data-l10n-name="current-channel"></label>.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Сейчас вы находитесь на канале обновлений <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
+aboutdialog-channel-description = Сейчас вы находитесь на канале обновлений <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } является пробным и может быть нестабилен.
 aboutdialog-help-user = Справка { -brand-product-name }
 aboutdialog-submit-feedback = Отправить отзыв
