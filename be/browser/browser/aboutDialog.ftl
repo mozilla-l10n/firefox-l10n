@@ -26,6 +26,9 @@ update-unsupported = Вы не можаце працягнуць абнаўле�
 update-restarting = Перазапуск…
 update-internal-error = Немагчыма праверыць наяўнасць абнаўленняў з-за ўнутранай памылкі. Абнаўленні даступныя па адрасе <label data-l10n-name="manual-link"/>
 channel-description = Зараз вы на <label data-l10n-name="current-channel"></label> канале абнаўленняў.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Зараз вы на <label data-l10n-name="current-channel">{ $channel }</label> канале абнаўленняў.
 warningDesc-version = { -brand-short-name } — эксперыментальны, і можа быць няўстойлівым.
 aboutdialog-help-user = Даведка { -brand-product-name }
 aboutdialog-submit-feedback = Падаць водгук
