@@ -26,6 +26,9 @@ update-unsupported = Ви не можете виконувати подальш�
 update-restarting = Перезапуск…
 update-internal-error = Не вдалося перевірити наявність оновлень через внутрішню помилку. Оновлення доступні за посиланням <label data-l10n-name="manual-link"/>
 channel-description = Ви зараз на каналі оновлень <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Ви зараз на каналі оновлень <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } експериментальний і може бути нестабільним.
 aboutdialog-help-user = Довідка { -brand-product-name }
 aboutdialog-submit-feedback = Надіслати відгук
