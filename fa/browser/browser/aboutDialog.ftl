@@ -25,6 +25,9 @@ update-unsupported = روی این سامانه نمی‌توانید بیش ا�
 update-restarting = اجرا کردن دوباره…
 update-internal-error = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
 channel-description = در حال حاضر در کانل بروزرسانی <label data-l10n-name="current-channel"></label> هستید.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = در حال حاضر در کانل بروزرسانی <label data-l10n-name="current-channel">{ $channel }</label> هستید.
 warningDesc-version = { -brand-short-name } آزمایشی است و ممکن است ناپایدار باشد.
 aboutdialog-help-user = راهنمای { -brand-product-name }
 aboutdialog-submit-feedback = ثبت بازخورد
