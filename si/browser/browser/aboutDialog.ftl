@@ -24,6 +24,9 @@ update-manual = මෙහි යාවත්කාල තිබේ <label data-l
 update-unsupported = ඔබට මෙම පද්ධතිය මත තවදුරටත් යාවත්කාල කිරීමට නොහැකිය. <label data-l10n-name="unsupported-link">තව දැනගන්න</label>
 update-restarting = නැවත අරඹමින්…
 channel-description = ඔබ දැනට සිටින්නේ <label data-l10n-name="current-channel"></label> යාවත්කාල නාලිකාවේය.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = ඔබ දැනට සිටින්නේ <label data-l10n-name="current-channel">{ $channel }</label> යාවත්කාල නාලිකාවේය.
 warningDesc-version = { -brand-short-name } පරීක්‍ෂාත්මක හා අස්ථායි විය හැකිය.
 aboutdialog-help-user = { -brand-product-name } උදව්
 aboutdialog-submit-feedback = ප්‍රතිපෝෂණය යොමන්න
