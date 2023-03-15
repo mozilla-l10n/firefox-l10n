@@ -951,6 +951,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = کوکی بینر گھٹاوݨ
 cookie-banner-learn-more = ٻیا سِکھو
 forms-handle-cookie-banners =
     .label = کوکی بینراں کوں تھوڑا کرو

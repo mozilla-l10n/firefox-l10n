@@ -79,6 +79,12 @@ downloads-cmd-show-panel-2 =
             [macos] فولڈر وِچ ݙکھاؤ
            *[other] فولڈر وِچ ݙکھاؤ
         }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] فائنڈر وچ ݙکھاؤ
+           *[other] فولڈر وِچ ݙکھاؤ
+        }
 downloads-cmd-show-downloads =
     .label = ڈاؤن لوڈ فولڈر ݙکھاؤ
 downloads-cmd-retry =

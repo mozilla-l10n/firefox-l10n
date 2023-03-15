@@ -171,6 +171,11 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = ایہ کلر وے استعمال کرو۔
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = کلر ویز{ $colorwayName } دی پٹ پھلور کرو۔
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
