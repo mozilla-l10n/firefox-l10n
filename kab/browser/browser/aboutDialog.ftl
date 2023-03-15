@@ -26,6 +26,9 @@ update-unsupported = Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. <labe
 update-restarting = Aɛiwed n usenker…
 update-internal-error = Tella-d tuccḍa tagensant i yesweḥlen asenqed n yileqman. Ad ten-tafeḍ deg <label data-l10n-name="manual-link"/>
 channel-description = Aqli-k tura deg <label data-l10n-name="current-channel"></label>.
+# Variables:
+#   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
+aboutdialog-channel-description = Aqli-k tura deg <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } d armitan yerna ur yerkid.
 aboutdialog-help-user = Tallalt n { -brand-product-name }
 aboutdialog-submit-feedback = Azen tamuɣli-ik·im
