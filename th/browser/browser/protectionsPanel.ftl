@@ -110,6 +110,12 @@ protections-panel-cookie-banner-view-title =
     .title = การลดแบนเนอร์คุกกี้
 protections-panel-cookie-banner-view-go-back =
     .aria-label = กลับ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = ต้องการปิดการลดแบนเนอร์คุกกี้สำหรับ { $host } หรือไม่?
+protections-panel-cookie-banner-view-turn-on-for-site = ต้องการเปิดการลดแบนเนอร์คุกกี้สำหรับไซต์นี้หรือไม่?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } จะล้างคุกกี้ของไซต์นี้และรีเฟรชหน้า การล้างคุกกี้ทั้งหมดอาจนำคุณออกจากระบบหรือล้างรถเข็นช็อปปิ้ง
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } จะพยายามปฏิเสธคำขอคุกกี้ทั้งหมดบนไซต์ที่รองรับโดยอัตโนมัติ
 protections-panel-cookie-banner-view-cancel = ยกเลิก
 protections-panel-cookie-banner-view-turn-off = ปิด
 protections-panel-cookie-banner-view-turn-on = เปิด
