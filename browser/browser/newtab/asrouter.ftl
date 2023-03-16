@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } notendur
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Vefkökuborðar fyrir bí!
-cfr-cookie-banner-handling-body = Leyfa { -brand-short-name } að hafna sjálfkrafa öllum beiðnum um vefkökuborða, þegar mögulegt er. Annars verða allar vefkökur samþykktar til að hafna enn fleiri borðum.
-cfr-cookie-banner-accept-button = Hafna beiðnum
-    .accesskey = H
-cfr-cookie-banner-reject-button = Ekki núna
-    .accesskey = n
-cfr-cookie-banner-handling-header-variant-1 = Sjá færri sprettglugga fyrir vefkökur
-cfr-cookie-banner-handling-body-variant-1 = Leyfa { -brand-short-name } að svara sjálfkrafa vefkökugluggum fyrir þig svo þú getir vafrað áfram án truflunar. { -brand-short-name } mun hafna öllum beiðnum ef mögulegt er, eða samþykkja allar ef ekki.
-cfr-cookie-banner-accept-button-variant-1 = Afgreiða sprettglugga
-    .accesskey = g
-cfr-cookie-banner-reject-button-variant-1 = Nei takk
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Fækkun vefkökuborða
-cfr-cookie-banner-handling-body-variant-2 = Á að leyfa { -brand-short-name } að hafna beiðni um samþykki á vefkökum ef mögulegt er eða að samþykkja aðgang að vefkökum þegar það er ekki hægt?
-cfr-cookie-banner-accept-button-variant-2 = Leyfa
-    .accesskey = a
-cfr-cookie-banner-reject-button-variant-2 = Ekki núna
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Samstilltu bókamerkin þín allsstaðar.
@@ -268,9 +245,19 @@ cfr-cookiebanner-accept-button-variant-2 = Leyfa
     .accesskey = a
 cfr-cookiebanner-reject-button-variant-2 = Ekki núna
     .accesskey = n
+cfr-cbh-header = Leyfa { -brand-short-name } að hafna vefkökuborðum?
+cfr-cbh-body = { -brand-short-name } getur reynt að hafna sjálfkrafa beiðnum um vefkökur.
+cfr-cbh-confirm-button = Hafna vefkökuborðum
+    .accesskey = r
+cfr-cbh-dismiss-button = Ekki núna
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Við erum með það sem þú þarft
 july-jam-body = Í hverjum mánuði lokar { -brand-short-name } að meðaltali á meira en 3.000 rekjara á hvern notanda, sem tryggir þér öruggan, skjótan aðgang að góðu interneti.
 july-jam-set-default-primary = Opna tenglana mína með { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Ég skil!

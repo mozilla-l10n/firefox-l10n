@@ -73,6 +73,17 @@ restart-later = Endurræsa seinna
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> stýrir þessari stillingu.
@@ -120,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = Aðvara þegar vafra er lokað
 disable-extension =
     .label = Slökkva á viðbót
+preferences-data-migration-header = Flytja inn vafragögn
+preferences-data-migration-description = Flyttu inn bókamerki, lykilorð, feril og sjálfvirk útfyllingargögn í { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Flytja inn gögn
+    .accesskey = F
 tabs-group-header = Flipar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab skiptir á milli flipa í notkunarröð
@@ -132,7 +148,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +171,10 @@ browser-containers-settings =
     .label = Stillingar…
     .accesskey = i
 containers-disable-alert-title = Loka öllum sérefnisflipum?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ef þú gerir sérefnisflipa óvirka, verður { $tabCount } sérefnisflipa lokað. Ertu viss um að þú viljir gera sérefnisflipa óvirka?
@@ -165,10 +185,13 @@ containers-disable-alert-ok-button =
         [one] Loka { $tabCount } sérefnisflipa
        *[other] Loka { $tabCount } sérefnisflipum
     }
+
+##
+
 containers-disable-alert-cancel-button = Halda virku áfram
 containers-remove-alert-title = Fjarlægja sérefnisflipa?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Ef þú fjarlægir þetta sérefni núna, verður { $count } sérefnisflipa lokað. Ertu viss um að þú viljir fjarlægja þetta sérefni?
@@ -230,6 +253,8 @@ advanced-fonts =
 preferences-zoom-header = Aðdráttur
 preferences-default-zoom = Sjálfgefinn aðdráttur
     .accesskey = d
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +347,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Spyrja alltaf
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Nota { $plugin-name } (í { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +398,8 @@ play-drm-content =
 play-drm-content-learn-more = Vita meira
 update-application-title = { -brand-short-name } uppfærslur
 update-application-description = Viðhalda { -brand-short-name } uppfærðum fyrir bestu afköst, stöðugleika og öryggi.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Útgáfa { $version } <a data-l10n-name="learn-more">Hvað er nýtt</a>
 update-history =
     .label = Sýna uppfærslusögu…
@@ -399,7 +426,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Villa við að vista uppfærslustillingar
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +456,7 @@ performance-limit-content-process-option = Takmarka þræði fyrir efni
 performance-limit-content-process-enabled-desc = Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.
 performance-limit-content-process-blocked-desc = Aðeins er hægt að breyta fjölda efnisþráða með { -brand-short-name } sem inniheldur fjölgjörvavinnslu. <a data-l10n-name="learn-more">Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (sjálfgefið)
 
@@ -535,6 +562,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Með þessu mælir { $provider }
 home-prefs-recommended-by-description-new = Úrvalsefni í umsjón { $provider }, hluta af { -brand-product-name } fjölskyldunni
@@ -564,6 +595,8 @@ home-prefs-recent-activity-description = Úrval af nýlegum síðum og efni
 home-prefs-snippets-header =
     .label = Molar
 home-prefs-snippets-description-new = Ábendingar og fréttir frá { -vendor-short-name } og { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +661,7 @@ search-find-more-link = Finna fleiri leitarvélar
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Stikkorð er þegar til
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Þú hefur valið stikkorð sem er þegar í notkun af “{ $name }”. Veldu eitthvað annað.
 search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í notkun af bókamerki. Veldu eitthvað annað.
 
@@ -675,8 +708,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Sýsla með aðgang
     .accesskey = m
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+##
+
 sync-resend-verification =
     .label = Endursenda staðfestingu
     .accesskey = d
@@ -890,8 +930,8 @@ history-clear-button =
 sitedata-header = Vefkökur og gögn vefsvæðis
 sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð skyndiminnis…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Geymdar vefkökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
 sitedata-learn-more = Fræðast meira
 sitedata-delete-on-close =
@@ -931,6 +971,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Sýsla með undantekningar...
     .accesskey = k
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Fækkun vefkökuborða
+cookie-banner-handling-description = { -brand-short-name } reynir sjálfkrafa að hafna beiðnum um vefkökur á þeim vefsvæðum þar sem það er hægt.
+cookie-banner-learn-more = Frekari upplýsingar
+forms-handle-cookie-banners =
+    .label = Fækkaðu vefkökuborðum
 
 ## Privacy Section - Address Bar
 
@@ -1071,6 +1119,11 @@ permissions-microphone = Hljóðnemi
 permissions-microphone-settings =
     .label = Stillingar…
     .accesskey = m
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Val á hátölurum
+permissions-speaker-settings =
+    .label = Stillingar…
+    .accesskey = t
 permissions-notification = Tilkynningar
 permissions-notification-settings =
     .label = Stillingar…

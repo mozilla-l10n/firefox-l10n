@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 permissions-exceptions-etp-window =
     .title = Undanþágur fyrir aukna rakningarvörn
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Þú hefur slökkt á vörnum á þessum vefsvæðum.
 permissions-exceptions-etp-window2 =
     .title = Undanþágur fyrir aukna rakningarvörn
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Þú hefur slökkt á vörnum á þessum vefsvæðum.
 permissions-exceptions-manage-etp-desc = Þú getur skilgreint hvaða vefsvæði hafi slökkt á aukinni rakningarvörn. Settu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Bæta við undantekningu.
 
 ## Exceptions - Cookies
@@ -209,3 +209,11 @@ permissions-site-microphone-desc = Eftirfarandi vefsvæði hafa beðið um að f
 permissions-site-microphone-disable-label =
     .label = Loka á nýjar beiðnir sem spyrja um aðgang að hljóðnema
 permissions-site-microphone-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem eru ekki hér fyrir ofan sendi beiðni um aðgang að hljóðnema. Ef það er lokað á hljóðnema gæti það haft áhrif á suma eiginleika vefsvæðis.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Stillingar - Leyfi fyrir hátalara
+    .style = { permissions-window2.style }

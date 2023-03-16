@@ -80,10 +80,10 @@ dnsNotFound-title = Við eigum í einhverjum erfiðleikum með að finna þetta 
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Möguleg öryggisáhætta vegna { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Hugsanleg öryggisáhætta að fletta upp þessu léni
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Möguleg öryggisáhætta vegna { $hostname }.
+dns-not-found-trr-only-title2 = Hugsanleg öryggisáhætta að fletta upp þessu léni
+dns-not-found-native-fallback-title2 = Hugsanleg öryggisáhætta að fletta upp þessu léni
 fileNotFound-title = Skrá fannst ekki
 fileAccessDenied-title = Aðgangur að skránni ekki leyfður
 generic-title = Úbbs.
