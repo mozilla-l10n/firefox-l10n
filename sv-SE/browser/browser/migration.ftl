@@ -68,6 +68,8 @@ import-items-description = Välj poster att importera:
 import-permissions-page-title = Ge { -brand-short-name } behörigheter
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS kräver att du uttryckligen tillåter { -brand-short-name } att komma åt Safaris bokmärken. Klicka på "Fortsätt" och välj filen "Bookmarks.plist" i panelen öppna fil som visas.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS kräver att du uttryckligen tillåter { -brand-short-name } att komma åt Safaris data. Klicka på "Fortsätt", välj mappen "Safari" i Finder-dialogrutan som visas och klicka sedan på "Öppna".
 import-migrating-page-title = Importerar…
 import-migrating-description = Följande poster importeras för närvarande…
 import-select-profile-page-title = Välj profil
