@@ -33,8 +33,6 @@
 -translations-brand-name = Firefox Translations
 
 
--rally-brand-name = Mozilla Rally
--rally-short-name = Rally
 
 
 -focus-brand-name = Firefox Focus
