@@ -26,5 +26,14 @@ about-glean-interface-description =
     เป็นไลบรารีรวบรวมข้อมูลที่ใช้ในโครงการต่างๆ ของ { -vendor-short-name }
     อินเทอร์เฟซนี้ถูกออกแบบมาเพื่อให้นักพัฒนาและนักทดสอบใช้ในการ
     <a data-l10n-name="fog-link">กำหนดเครื่องมือที่จะใช้ในการทดสอบ</a>ด้วยตนเอง
+about-glean-upload-enabled = เปิดใช้งานการอัปโหลดข้อมูลแล้ว
+about-glean-upload-disabled = ปิดใช้งานการอัปโหลดข้อมูลแล้ว
+about-glean-upload-enabled-local = เปิดใช้งานการอัปโหลดข้อมูลสำหรับส่งไปยังเซิร์ฟเวอร์เฉพาะที่เท่านั้น
+about-glean-upload-fake-enabled =
+    ปิดใช้งานการอัปโหลดข้อมูลแล้ว
+    แต่เรากำลังหลอกและบอก { glean-sdk-brand-name } ว่าเปิดใช้งานอยู่
+    เพื่อให้ข้อมูลถูกบันทึกไว้ในเครื่อง
+    หมายเหตุ: หากคุณกำหนดแท็กการดีบั๊ก Ping ต่างๆ จะถูกอัปโหลดไปยัง
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> โดยไม่คำนึงถึงการตั้งค่าใดๆ
 controls-button-label-verbose = นำการตั้งค่าไปใช้และส่ง ping
 about-glean-about-data-header = เกี่ยวกับข้อมูล
