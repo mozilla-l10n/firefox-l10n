@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Наступныя вэб-сайты запы
 permissions-site-microphone-disable-label =
     .label = Блакаваць новыя запыты на доступ да вашага мікрафона
 permissions-site-microphone-disable-desc = Гэта не дазволіць вэб-сайтам, акрамя пералічаных вышэй, запытваць дазвол на доступ да вашага мікрафона. Блакаванне доступу да вашага мікрафона можа парушыць некаторыя функцыі сайта.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Налады - Дазволы дынамікаў
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Наступныя сайты запыталі дазвол на выбар прылады вываду гуку. Вы можаце ўказаць, якім сайтам дазволена выбіраць прыладу вываду гуку.
