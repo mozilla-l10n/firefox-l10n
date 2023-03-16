@@ -116,8 +116,6 @@
     }
     .gender = masculine
 -translations-brand-name = Firefox Translations
--rally-brand-name = Mozilla Rally
--rally-short-name = Rally
 -focus-brand-name =
     { $case ->
        *[nom] Firefox Focus
