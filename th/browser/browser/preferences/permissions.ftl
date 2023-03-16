@@ -77,13 +77,13 @@ permissions-invalid-uri-label = โปรดป้อนชื่อโฮสต
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
+    .title = ข้อยกเว้นสำหรับการป้องกันการติดตามแบบพิเศษ
     .style = { permissions-window.style }
-permissions-exceptions-etp-window2 =
-    .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
-    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = คุณได้ปิดการป้องกันบนเว็บไซต์เหล่านี้
-permissions-exceptions-manage-etp-desc = คุณสามารถระบุเว็บไซต์ที่จะปิดการป้องกันการติดตามที่มากขึ้นได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก เพิ่มข้อยกเว้น
+permissions-exceptions-etp-window2 =
+    .title = ข้อยกเว้นสำหรับการป้องกันการติดตามแบบพิเศษ
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = คุณสามารถระบุเว็บไซต์ที่จะปิดการป้องกันการติดตามแบบพิเศษได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก เพิ่มข้อยกเว้น
 
 ## Exceptions - Cookies
 
@@ -209,3 +209,8 @@ permissions-site-microphone-desc = เว็บไซต์ดังต่อไ
 permissions-site-microphone-disable-label =
     .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงไมโครโฟนของคุณ
 permissions-site-microphone-disable-desc = นี่จะป้องกันไม่ให้เว็บไซต์ใด ๆ ที่ไม่ได้ระบุไว้ด้านบนขออนุญาตเพื่อเข้าถึงไมโครโฟนของคุณ การปิดกั้นการเข้าถึงไมโครโฟนของคุณอาจทำให้คุณลักษณะบางอย่างของเว็บไซต์ไม่สมบูรณ์
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
