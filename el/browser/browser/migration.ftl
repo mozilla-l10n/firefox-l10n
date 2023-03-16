@@ -68,6 +68,8 @@ import-items-description = Επιλέξτε στοιχεία προς εισαγ
 import-permissions-page-title = Παρακαλούμε παραχωρήστε στο { -brand-short-name } δικαιώματα
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = Το macOS απαιτεί τη ρητή έγκρισή σας ώστε το { -brand-short-name } να προσπελάσει τους σελιδοδείκτες του Safari. Κάντε κλικ στο «Συνέχεια» και επιλέξτε το αρχείο «Bookmarks.plist» στο παράθυρο «Άνοιγμα αρχείου».
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = Το macOS απαιτεί τη ρητή έγκρισή σας ώστε το { -brand-short-name } να προσπελάσει τα δεδομένα του Safari. Κάντε κλικ στο «Συνέχεια», επιλέξτε τον φάκελο του «Safari» στο παράθυρο διαλόγου του Finder και τέλος, κάντε κλικ στο «Άνοιγμα».
 import-migrating-page-title = Εισαγωγή…
 import-migrating-description = Αυτήν τη στιγμή, εισάγονται τα παρακάτω στοιχεία…
 import-select-profile-page-title = Επιλογή προφίλ
