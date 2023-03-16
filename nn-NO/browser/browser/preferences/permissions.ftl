@@ -209,3 +209,11 @@ permissions-site-microphone-desc = Følgjande nettstadar har bedt om tilgang til
 permissions-site-microphone-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til mikrofonen din
 permissions-site-microphone-disable-desc = Dette hindrar nettstadar som ikkje er førte opp ovanfor, og ber om løyve til å få tilgang til mikrofonen din. Viss du blokkerer tilgang til mikrofonen din, kan det hende at nokre nettstadfunksjonar ikkje vil fungere.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Innstillingar - Høgtalarløyve
+    .style = { permissions-window2.style }

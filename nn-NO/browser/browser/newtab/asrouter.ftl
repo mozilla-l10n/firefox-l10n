@@ -244,6 +244,8 @@ cfr-cookiebanner-accept-button-variant-2 = Tillat
     .accesskey = T
 cfr-cookiebanner-reject-button-variant-2 = Ikkje no
     .accesskey = k
+cfr-cbh-confirm-button = Avvis infokapselbanner
+    .accesskey = A
 cfr-cbh-dismiss-button = Ikkje no
     .accesskey = N
 
