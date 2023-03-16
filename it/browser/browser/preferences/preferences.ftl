@@ -1042,6 +1042,11 @@ permissions-microphone = Microfono
 permissions-microphone-settings =
     .label = Impostazioni…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Selezione altoparlanti
+permissions-speaker-settings =
+    .label = Impostazioni…
+    .accesskey = t
 permissions-notification = Notifiche
 permissions-notification-settings =
     .label = Impostazioni…
