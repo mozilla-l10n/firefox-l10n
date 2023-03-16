@@ -35,5 +35,43 @@ about-glean-upload-fake-enabled =
     เพื่อให้ข้อมูลถูกบันทึกไว้ในเครื่อง
     หมายเหตุ: หากคุณกำหนดแท็กการดีบั๊ก Ping ต่างๆ จะถูกอัปโหลดไปยัง
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> โดยไม่คำนึงถึงการตั้งค่าใดๆ
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">การกำหนดลักษณะและค่ากำหนด</a>ที่เกี่ยวข้องประกอบด้วย:
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = เกี่ยวกับการทดสอบ
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    คำแนะนำแบบเต็มมีอยู่ใน
+    <a data-l10n-name="fog-instrumentation-test-doc-link">คู่มือการทดสอบด้วยเครื่องมือที่กำหนดของ { -fog-brand-name }</a>
+    และใน<a data-l10n-name="glean-sdk-doc-link">คู่มือของ { glean-sdk-brand-name }</a>
+    แต่โดยสรุปแล้ว เมื่อต้องการทดสอบด้วยตนเองว่าเครื่องมือที่กำหนดของคุณใช้ได้หรือไม่ คุณควร:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (ไม่ต้องส่ง Ping ใดๆ)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = ตรวจดูให้แน่ใจว่ามีแท็กการดีบั๊กที่จำง่ายในฟิลด์ที่นำหน้าเพื่อให้คุณสามารถพบ Ping ของคุณภายหลังได้
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    เลือก Ping ที่มีเครื่องมือที่ใช้ทดสอบของคุณอยู่จากรายชื่อก่อนหน้านี้
+    หากเครื่องมือนั้นอยู่ใน <a data-l10n-name="custom-ping-link">Ping ที่กำหนดเอง</a> ให้เลือกเครื่องมือนั้น
+    หรือมิฉะนั้น ค่าเริ่มต้นสำหรับเมตริก <code>event</code> คือ
+    Ping <code>events</code>
+    และค่าเริ่มต้นสำหรับเมตริกทั้งหมดคือ
+    Ping <code>metrics</code>
 controls-button-label-verbose = นำการตั้งค่าไปใช้และส่ง ping
 about-glean-about-data-header = เกี่ยวกับข้อมูล
