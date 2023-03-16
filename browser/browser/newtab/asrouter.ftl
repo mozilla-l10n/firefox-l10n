@@ -238,6 +238,8 @@ cfr-cookiebanner-reject-button-variant-1 = Όχι, ευχαριστώ
 cfr-cookiebanner-header-variant-2 = Μείωση μπάνερ cookie
 cfr-cookiebanner-reject-button-variant-2 = Όχι τώρα
     .accesskey = χ
+cfr-cbh-dismiss-button = Όχι τώρα
+    .accesskey = χ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
