@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Лутфан, номи дурусти мизбо
 permissions-exceptions-etp-window =
     .title = Истисноҳо барои муҳофизати такмилёфта аз пайгирӣ
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Шумо барои сомонаҳои зерин муҳофизатро ғайрифаъол кардед.
 permissions-exceptions-etp-window2 =
     .title = Истисноҳо барои муҳофизати такмилёфта аз пайгирӣ
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Шумо барои сомонаҳои зерин муҳофизатро ғайрифаъол кардед.
 permissions-exceptions-manage-etp-desc = Шумо метавонед муайян кунед, ки кадом сомонаҳо «Муҳофизати такмилёфта аз пайгирӣ»-ро хомӯш мекунанд. Нишонии дақиқи сомонаеро, ки мехоҳед идора кунед, ворид намоед ва пас тугмаи «Илова кардани истисно»-ро зер кунед.
 
 ## Exceptions - Cookies
@@ -209,3 +209,11 @@ permissions-site-microphone-desc = Сомонаҳои зерин дархост 
 permissions-site-microphone-disable-label =
     .label = Манъ кардани дархостҳои наве, ки иҷозати пайдокунии дастрасиро ба микрофони шумо дархост мекунанд
 permissions-site-microphone-disable-desc = Ин амал ҳамаи сомонаҳоеро, ки дар рӯйхати бодо вуҷуд надоранд, аз дархости иҷозат барои пайдо кардани дастрасӣ ба микрофони шумо пешгирӣ мекунад. Амали манъкунии дастрасӣ ба микрофони шумо метавонад баъзе хусусиятҳои сомонаро вайрон кунад.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Танзимот - Иҷозатҳои баландгӯяк
+    .style = { permissions-window2.style }

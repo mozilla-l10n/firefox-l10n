@@ -68,6 +68,8 @@ import-items-description = Интихоб кунед, ки кадом мавод
 import-permissions-page-title = Лутфан, ба «{ -brand-short-name }» иҷозат диҳед
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = «macOS» аз шумо талаб мекунад, ки ба таври возеҳ ба браузери «{ -brand-short-name }» барои пайдо кардани дастрасӣ ба хатбаракҳои Safari иҷозат диҳед. «Давом додан»-ро зер кунед ва дар лавҳаи кушодани файл, ки пайдо мешавад, файли «Bookmarks.plist»-ро интихоб намоед.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = «macOS» аз шумо талаб мекунад, ки ба таври возеҳ ба браузери «{ -brand-short-name }» барои пайдо кардани дастрасӣ ба маълумоти «Safari» иҷозат диҳед. Тугмаи «Давом додан»-ро зер кунед, ҷузвдони «Safari»-ро дар равзанаи гуфтугӯии Ҷуяндае, ки пайдо мешавад, интихоб кунед ва пас тугмаи «Кушодан»-ро зер намоед.
 import-migrating-page-title = Ворид шуда истодааст…
 import-migrating-description = Маводҳои зерин ворид шуда истодаанд…
 import-select-profile-page-title = Интихоби профил
