@@ -103,7 +103,7 @@ disable-extension =
     .label = Disattiva estensione
 
 preferences-data-migration-header = Importa dati del browser
-preferences-data-migration-description = Importa in { -brand-short-name } segnalibri, password, cronologia e dati per la compilazione automatica dei moduli da un altro browser o da un gestore di password.
+preferences-data-migration-description = Importa segnalibri, password, cronologia e dati per la compilazione automatica dei moduli in { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importa dati
     .accesskey = m
