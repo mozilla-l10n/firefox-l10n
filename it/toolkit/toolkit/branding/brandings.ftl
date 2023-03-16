@@ -44,3 +44,4 @@
 -firefox-home-brand-name = Firefox Home
 
 -firefoxview-brand-name = Firefox View
+

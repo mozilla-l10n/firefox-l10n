@@ -251,3 +251,4 @@ permissions-site-speaker-window =
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = I seguenti siti web hanno richiesto il permesso di selezionare un dispositivo di uscita audio. È possibile specificare quali siti web potranno effettuare questa selezione.
 
+
