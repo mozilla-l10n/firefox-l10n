@@ -1123,6 +1123,11 @@ permissions-microphone = Мікрафон
 permissions-microphone-settings =
     .label = Налады…
     .accesskey = а
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Выбар дынамікаў
+permissions-speaker-settings =
+    .label = Налады…
+    .accesskey = Н
 permissions-notification = Абвесткі
 permissions-notification-settings =
     .label = Налады…
