@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = «{ -brand-short-name }» дар
 neterror-dns-not-found-native-fallback-attackers = Шумо метавонед кори худро бо ҳалкунандаи DNS, ки бехатар намебошад, идома диҳед. Аммо, дар ин ҳолат, тарафи сеюм метавонад ҳамаи он сомонаҳоеро, ки шумо тамошо мекунед, аз назар гузаронад ё шуморо ба сомонаи беэътибор равона кунад.
 neterror-dns-not-found-native-fallback-heuristic = DNS тавассути HTTPS дар шабакаи шумо хомӯш карда шудааст.
 neterror-dns-not-found-native-fallback-not-confirmed = Пайвастшавӣ ба { $trrDomain } то ҳол омода нест.
+neterror-dns-not-found-native-fallback-not-confirmed2 = «{ -brand-short-name }» ба { $trrDomain } пайваст нашуд.
 
 ##
 
