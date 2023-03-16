@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Inserìs par plasê un non di host valit
 permissions-exceptions-etp-window =
     .title = Ecezions pe protezion des spiis miorade
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Tu âs disativât lis protezions su chescj sîts web.
 permissions-exceptions-etp-window2 =
     .title = Ecezions pe protezion des spiis miorade
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Tu âs disativât lis protezions su chescj sîts web.
 permissions-exceptions-manage-etp-desc = Tu puedis specificâ su cuâi sîts web disativâ la protezion miorade da lis spiis. Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Zonte ecezion.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Chescj sîts web a àn domandât di doprâ il
 permissions-site-microphone-disable-label =
     .label = Bloche lis gnovis richiestis che a domandi di doprâ il to microfon
 permissions-site-microphone-disable-desc = Chest al impedirà a ducj i sîts web che no son listâts achì parsore di domandâ il permès par doprâ il to microfon. Blocant l'acès al to microfon cualchi sît web al podarès vê malfunzionaments.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Impostazions - Permès cassis
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Chescj sîts web a àn domandât di selezionâ un dispositîf di jessude audio. Tu puedis specificâ cuai sîts web che a podaran selezionâ un dispositîf di jessude audio.
