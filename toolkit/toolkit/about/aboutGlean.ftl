@@ -15,5 +15,16 @@ controls-button-label = ส่งการตั้งค่า
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = ตัวแสดง Ping สำหรับดีบั๊กของ { -glean-brand-name }
+about-glean-page-title2 = เกี่ยวกับ { -glean-brand-name }
+about-glean-header = เกี่ยวกับ { -glean-brand-name }
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    เป็นไลบรารีรวบรวมข้อมูลที่ใช้ในโครงการต่างๆ ของ { -vendor-short-name }
+    อินเทอร์เฟซนี้ถูกออกแบบมาเพื่อให้นักพัฒนาและนักทดสอบใช้ในการ
+    <a data-l10n-name="fog-link">กำหนดเครื่องมือที่จะใช้ในการทดสอบ</a>ด้วยตนเอง
 controls-button-label-verbose = นำการตั้งค่าไปใช้และส่ง ping
 about-glean-about-data-header = เกี่ยวกับข้อมูล
