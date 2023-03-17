@@ -811,6 +811,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Senda tengil
     .tooltiptext = Senda tengil á þessa síðu í pósti
+toolbar-button-logins =
+    .label = Lykilorð
+    .tooltiptext = Skoðaðu og sýslaðu með vistuðu lykilorðin þín
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
