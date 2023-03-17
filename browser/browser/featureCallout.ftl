@@ -9,7 +9,7 @@ callout-primary-complete-button-label = הבנתי!
 
 ## Firefox View feature tour strings
 
-callout-firefox-view-recently-closed-subtitle = כל הלשוניות שסגרת יופיעו כאן באורח פלא. לעולם לא יהיה צורך עוד לדאוג לגבי סגירת לשוניות בטעות.
+callout-firefox-view-recently-closed-subtitle = כל הלשוניות שנסגרו יופיעו כאן באורח פלא. לעולם לא יהיה עוד צורך לדאוג מסגירת לשוניות בשוגג.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
