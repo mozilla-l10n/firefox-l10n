@@ -320,7 +320,7 @@ quickactions-cmd-private = приватно прегледање
 quickactions-refresh = Освежи { -brand-short-name }
 quickactions-cmd-refresh = освежи
 # Restarts the browser
-quickactions-restart = Рестартуј { -brand-short-name }
+quickactions-restart = Поново покрени { -brand-short-name }
 quickactions-cmd-restart = рестартуј
 # Opens the screenshot tool
 quickactions-screenshot3 = Направи снимак екрана

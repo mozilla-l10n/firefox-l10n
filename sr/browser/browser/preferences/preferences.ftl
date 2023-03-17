@@ -78,14 +78,14 @@ should-restart-title =
        *[other] програма { -brand-short-name }
     }
 should-restart-ok =
-    Рестартуј { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
+    { -brand-short-name.gender ->
+        [masculine] Поново покрени { -brand-short-name(case: "acc") }
+        [feminine] Поново покрени { -brand-short-name(case: "acc") }
+        [neuter] Поново покрени { -brand-short-name(case: "acc") }
+       *[other] Поново покрени програм { -brand-short-name }
     }
 cancel-no-restart-button = Откажи
-restart-later = Рестартуј касније
+restart-later = Поново покрени касније
 
 ## Extension Control Notifications
 ##
@@ -291,8 +291,8 @@ choose-browser-language-description = Изаберите језике који �
 manage-browser-languages-button =
     .label = Постави алтернативне
     .accesskey = П
-confirm-browser-language-change-description = Рестартујте { -brand-short-name } како би измене ступиле на снагу
-confirm-browser-language-change-button = Примени и рестартуј
+confirm-browser-language-change-description = Поново покрени { -brand-short-name } како би измене ступиле на снагу
+confirm-browser-language-change-button = Примени и поново покрени
 translate-web-pages =
     .label = Преведи садржај
     .accesskey = с
@@ -1195,7 +1195,7 @@ permissions-notification-settings =
     .accesskey = П
 permissions-notification-link = Сазнајте више
 permissions-notification-pause =
-    .label = Паузирај обавештења док се { -brand-short-name } не рестартује
+    .label = Паузирај обавештења док се { -brand-short-name } не покрене поново
     .accesskey = б
 permissions-autoplay = Аутоматска репродукција
 permissions-autoplay-settings =

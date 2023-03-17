@@ -20,7 +20,7 @@ appmenuitem-banner-update-manual =
 appmenuitem-banner-update-unsupported =
     .label = Ажурирање није могуће – некомпатибилан систем
 appmenuitem-banner-update-restart =
-    .label = Доступно је ажурирање – рестартујте прегледач
+    .label = Доступно је ажурирање – поново покрените прегледач
 appmenuitem-new-tab =
     .label = Нова картица
 appmenuitem-new-window =
@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Препоручена опција за отклањање грешака у већини веб апликација, са малим оптерећењем.
