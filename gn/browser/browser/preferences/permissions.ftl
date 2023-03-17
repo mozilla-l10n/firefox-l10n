@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Emoinge peteĩ mohendahavusu oikóva réra
 permissions-exceptions-etp-window =
     .title = Ykepegua tapykuehoha mo’ãha iporãvévape g̃uarã
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Eipe’a mo’ãha ko’ã ñanduti renda pegua.
 permissions-exceptions-etp-window2 =
     .title = Ykepegua tapykuehoha mo’ãha iporãvévape g̃uarã
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Eipe’a mo’ãha ko’ã ñanduti renda pegua.
 permissions-exceptions-manage-etp-desc = Ikatu ehechauka mba’ete ñanduti rendápa omboyke tapykuehoha ha’evéva ñemo’ã. Ehaiporã kundaharape pe tenda eñangarekoseha réra ha upéi eikutu Oĩ’ỹva Mbojuaju.
 
 ## Exceptions - Cookies
@@ -209,3 +209,11 @@ permissions-site-microphone-desc = Ko’ã ñanduti renda ojerure ikatúpa oike 
 permissions-site-microphone-disable-label =
     .label = Mba’ejerure pyahu joko ani hag̃ua ojepuru ne ñe’ẽ’atãha
 permissions-site-microphone-disable-desc = Ko’ãva omboykéta umi ñanduti renda noĩriva omba’ejeruréva ñemoneĩ oike hag̃ua ñe’ẽ’atãhápe. Ejokóramo ñe’ẽ’atãhápe jeike ikatu ombyai ambue ñanduti rendápe.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Ñemboheko - Ñe’ẽataha Ñemoneĩ
+    .style = { permissions-window2.style }

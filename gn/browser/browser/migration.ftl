@@ -68,6 +68,8 @@ import-items-description = Eiporavo mba’epuru reguerútava:
 import-permissions-page-title = Ikatúpiko emoneĩ { -brand-short-name }-pe
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS oikotevẽ emoneĩ { -brand-short-name } oikekuaávo Safari techaukahakuérape. Eikutu “Ku’ejey” ha eiporavo “Bookmarks.plist” marandurenda pe marandurenda rupa ojekuaátavape.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS oikotevẽ emoneĩ { -brand-short-name } oikekuaávo Safari mba’ekuaarãme. Eikutu “Ku’ejey”, eiporavo “Safari“ marandurenda pe Finder ñemongetaha iñapysẽvape ha upéi eikutu “Mbojuruja”.
 import-migrating-page-title = Jegueruhína…
 import-migrating-description = Ojegueruhína ko’ã mba’epuru…
 import-select-profile-page-title = Rechaukaha jeporavo
