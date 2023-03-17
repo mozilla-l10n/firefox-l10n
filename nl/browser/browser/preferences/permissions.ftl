@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Voer een geldige hostnaam in
 permissions-exceptions-etp-window =
     .title = Uitzonderingen voor Verbeterde bescherming tegen volgen
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = U hebt beschermingen voor deze websites uitgeschakeld.
 permissions-exceptions-etp-window2 =
     .title = Uitzonderingen voor Verbeterde bescherming tegen volgen
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = U hebt beschermingen voor deze websites uitgeschakeld.
 permissions-exceptions-manage-etp-desc = U kunt opgeven bij welke websites Verbeterde bescherming tegen volgen is uitgeschakeld. Typ het exacte adres van de website die u wilt beheren en klik vervolgens op Uitzondering toevoegen.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = De volgende websites hebben om toegang tot uw
 permissions-site-microphone-disable-label =
     .label = Nieuwe verzoeken om toegang tot uw microfoon blokkeren
 permissions-site-microphone-disable-desc = Dit voorkomt dat websites die hierboven niet worden vermeld om toestemming voor toegang tot uw microfoon vragen. Het blokkeren van toegang tot uw microfoon kan bepaalde functies van websites verstoren.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Instellingen – Toestemmingen voor luidspreker
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = De volgende websites hebben gevraagd om een audio-uitvoerapparaat te selecteren. U kunt aangeven welke websites een audio-uitvoerapparaat mogen selecteren.
