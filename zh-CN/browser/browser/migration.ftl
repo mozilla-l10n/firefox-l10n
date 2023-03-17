@@ -11,7 +11,7 @@ import-from =
     }
 import-from-bookmarks = 从下列来源导入书签：
 import-from-ie =
-    .label = 微软 IE 浏览器
+    .label = Microsoft Internet Explorer（IE 浏览器）
     .accesskey = M
 import-from-edge =
     .label = Microsoft Edge
@@ -75,7 +75,7 @@ import-select-profile-description = 下列配置文件可以导入：
 import-done-page-title = 导入完成
 import-done-description = 成功导入下列各项：
 import-close-source-browser = 请先关闭选定的浏览器，再继续操作。
-source-name-ie = 微软 IE 浏览器
+source-name-ie = Internet Explorer（IE 浏览器）
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
 imported-safari-reading-list = 阅读列表（来自 Safari 浏览器）
