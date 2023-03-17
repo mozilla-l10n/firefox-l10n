@@ -16,11 +16,11 @@ update-checkForUpdatesButton =
     .accesskey = П
 update-updateButton =
     .label =
-        Рестартуј и ажурирај { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] програм { -brand-shorter-name }
+        { -brand-shorter-name.gender ->
+            [masculine] Поново покрени и ажурирај { -brand-shorter-name(case: "acc") }
+            [feminine] Поново покрени и ажурирај { -brand-shorter-name(case: "acc") }
+            [neuter] Поново покрени и ажурирај { -brand-shorter-name(case: "acc") }
+           *[other] Поново покрени и ажурирај програм { -brand-shorter-name }
         }
     .accesskey = Р
 update-checkingForUpdates = Провера доступности ажурирања…

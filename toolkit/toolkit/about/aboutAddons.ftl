@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Претражи
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Преузмите додатке и теме на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Преузмите речнике на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Преузмите језичке пакете на <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Нисте инсталирали ниједан додатак ове врсте
 list-empty-available-updates =
@@ -98,7 +105,7 @@ detail-show-preferences =
 detail-rating =
     .value = Оцена
 addon-restart-now =
-    .label = Рестартуј
+    .label = Поново покрени сада
 disabled-unsigned-heading =
     .value = Неки додаци су онемогућени
 disabled-unsigned-description = Следећи додаци нису могли бити потврђени за коришћење у { -brand-short-name }-у. Можете <label data-l10n-name="find-addons">наћи замене</label> или питати програмере да их потврде.
@@ -146,7 +153,7 @@ addon-category-sitepermission-title =
     .title = Дозволе странице
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Дозволе за сајт за { $host }
 
 ## These are global warnings
@@ -226,6 +233,8 @@ shortcuts-duplicate-warning-message = { $shortcut } се користи као �
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } је већ у употреби
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Прикажи { $numberToShow } више
@@ -293,7 +302,7 @@ theme-colorways-button = Испробајте комбинације боја
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Промените комбинације боја
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Истиче { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Омогућене
 plugin-disabled-heading = Онемогућене
@@ -380,6 +389,8 @@ addon-permissions-optional = Додатне дозволе за додатну �
 addon-permissions-learnmore = Сазнајте више о дозволама
 recommended-extensions-heading = Препоручени додаци
 recommended-themes-heading = Препоручене теме
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Пружа <span data-l10n-name="hostname">{ $hostname }</span> следеће могућности:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -406,8 +417,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } није сагласан са { -brand-short-name } { $version }.
 details-notification-incompatible-link = Више информација
 details-notification-unsigned-and-disabled = { $name } није могао бити потврђен за коришћење у { -brand-short-name }-у и онемогућен је.
