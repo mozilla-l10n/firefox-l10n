@@ -285,6 +285,8 @@ webgl2-renderer = WebGL 2 myndrekill
 webgl2-version = WebGL 2 útgáfa rekils
 webgl2-driver-extensions = WebGL 2 reklaviðbætur
 webgl2-extensions = WebGL 2 viðbætur
+webgpu-default-adapter = Sjálfgefið WebGPU-millitengi
+webgpu-fallback-adapter = WebGPU-millitengi til vara
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Sett á bannlista vegna þekktra vandamála: <a data-l10n-name="bug-link">villa { $bugNumber }</a>

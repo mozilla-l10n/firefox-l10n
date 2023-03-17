@@ -217,3 +217,4 @@ permissions-site-microphone-disable-desc = Þetta kemur í veg fyrir að vefsvæ
 permissions-site-speaker-window =
     .title = Stillingar - Leyfi fyrir hátalara
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Eftirfarandi vefsvæði hafa beðið um að fá að velja hljóðúttakstæki. Þú getur skilgreint hvaða vefsvæði hafi heimild til að velja hljóðúttakstæki.
