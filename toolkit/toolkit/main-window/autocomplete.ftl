@@ -10,14 +10,14 @@
 ##   $host (String) - Host name of the current site.
 
 autocomplete-import-logins-chrome =
-    <div data-l10n-name="line1">从 Google Chrome 导入您</div>
-    <div data-l10n-name="line2">在 { $host } 和其他网站的登录信息</div>
+    <div data-l10n-name="line1">从 Google Chrome 导入登录信息</div>
+    <div data-l10n-name="line2">导入您在 { $host } 和其他网站的登录信息</div>
 autocomplete-import-logins-chromium =
-    <div data-l10n-name="line1">从 Chromium 导入您</div>
-    <div data-l10n-name="line2">在 { $host } 和其他网站的登录信息</div>
+    <div data-l10n-name="line1">从 Chromium 导入登录信息</div>
+    <div data-l10n-name="line2">导入您在 { $host } 和其他网站的登录信息</div>
 autocomplete-import-logins-chromium-edge =
-    <div data-l10n-name="line1">从 Microsoft Edge 导入您</div>
-    <div data-l10n-name="line2">在 { $host } 和其他网站的登录信息</div>
+    <div data-l10n-name="line1">从 Microsoft Edge 导入登录信息</div>
+    <div data-l10n-name="line2">导入您在 { $host } 和其他网站的登录信息</div>
 
 ##
 
