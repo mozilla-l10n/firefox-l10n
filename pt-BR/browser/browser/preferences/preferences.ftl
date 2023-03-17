@@ -1119,6 +1119,8 @@ permissions-microphone = Microfone
 permissions-microphone-settings =
     .label = Configurações…
     .accesskey = C
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Seleção de saída de áudio
 permissions-speaker-settings =
     .label = Configurações…
     .accesskey = C
