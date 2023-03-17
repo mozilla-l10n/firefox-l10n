@@ -68,6 +68,8 @@ import-items-description = Veldu hvaða atriði þú vilt flytja inn:
 import-permissions-page-title = Gefðu { -brand-short-name } heimildir
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS krefst þess að þú leyfir { -brand-short-name } að fá aðgang að bókamerkjum Safari. Smelltu á "Halda áfram" og veldu "Bookmarks.plist" skrána á skráaopnunarspjaldinu sem birtist.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS krefst þess að þú leyfir { -brand-short-name } að fá aðgang að gögnum Safari. Smelltu á "Halda áfram" og veldu "Safari"-möppuna í Finder-glugganum sem birtist og smelltu síðan á "Opna".
 import-migrating-page-title = Flyt inn…
 import-migrating-description = Verið er að flytja inn eftirfarandi atriði…
 import-select-profile-page-title = Veldu notanda
