@@ -78,7 +78,7 @@ appmenu-remote-tabs-showmore =
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 没有打开的标签页
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = 打开标签页同步功能，就能看到其他设备上打开的标签页。
+appmenu-remote-tabs-tabsnotsyncing = 开启标签页同步功能，就能看到其他设备上打开的标签页。
 appmenu-remote-tabs-opensettings =
     .label = 设置
 # This is shown when Sync is configured but this appears to be the only device attached to
@@ -165,6 +165,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = 适合调试大部分 Web 应用程序，开销较低。
