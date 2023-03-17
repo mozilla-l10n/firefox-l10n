@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Írjon be egy érvényes gépnevet.
 permissions-exceptions-etp-window =
     .title = Kivételek a fokozott követés elleni védelemhez
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ezeken a webhelyeken kikapcsolta a védelmeket.
 permissions-exceptions-etp-window2 =
     .title = Kivételek a fokozott követés elleni védelemhez
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Ezeken a webhelyeken kikapcsolta a védelmeket.
 permissions-exceptions-manage-etp-desc = Megadhatja azokat a webhelyeket, amelyeken ki van kapcsolva a Fokozott követés elleni védelem. Írja be a kezelendő webhely pontos címét, majd kattintson a Kivétel hozzáadása gombra.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = A következő weboldalak kérték, hogy hozz�
 permissions-site-microphone-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a mikrofonjához
 permissions-site-microphone-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak mikrofon hozzáférést kérjenek. A mikrofon hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Beállítások – Hangszóró engedélyek
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = A következő weboldalak kérték, hogy kiválasszanak egy hangkimeneti eszközt. Megadhatja, hogy mely weboldalak választhassanak hangkimeneti eszközt.
