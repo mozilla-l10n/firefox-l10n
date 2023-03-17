@@ -79,10 +79,10 @@ permissions-invalid-uri-label = אנא הכנס שם מארח חוקי
 permissions-exceptions-etp-window =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = ביטלת את ההגנות באתרים אלו.
 permissions-exceptions-etp-window2 =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = ביטלת את ההגנות באתרים אלו.
 permissions-exceptions-manage-etp-desc = באפשרותך לציין לאלו אתרים הגנת המעקב המתקדמת תהיה כבויה. יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ואז ללחוץ על הוספת חריגה.
 
 ## Exceptions - Cookies
@@ -208,3 +208,12 @@ permissions-site-microphone-desc = האתרים הבאים ביקשו לגשת �
 permissions-site-microphone-disable-label =
     .label = חסימת בקשות חדשות לגישה למיקרופון שלך
 permissions-site-microphone-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לגשת למיקרופון שלך. חסימת הגישה למיקרופון שלך עשויה להפריע לפעולה של מגוון תכונות באתר.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = הגדרות - הרשאות רמקול
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = האתרים הבאים ביקשו לבחור התקן פלט קול. באפשרותך לציין אילו אתרים מורשים לבחור התקן פלט קול.
