@@ -12,7 +12,7 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = 新建登录信息
-fxaccounts-sign-in-text = 取得您其他设备上的密码
+fxaccounts-sign-in-text = 跨设备使用已保存的密码
 fxaccounts-sign-in-sync-button = 登录同步服务
 fxaccounts-avatar-button =
     .title = 管理账户
@@ -117,9 +117,9 @@ login-item-time-used = 上次使用：{ DATETIME($timeUsed, day: "numeric", mont
 # Variables
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
-login-item-timeline-action-created = 已创建
-login-item-timeline-action-updated = 已更新
-login-item-timeline-action-used = 已使用
+login-item-timeline-action-created = 创建
+login-item-timeline-action-updated = 更新
+login-item-timeline-action-used = 用于登录
 
 ## OS Authentication dialog
 
