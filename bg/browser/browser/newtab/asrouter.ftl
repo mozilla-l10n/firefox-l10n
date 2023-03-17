@@ -57,11 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } потребителя
     }
 
-## Cookie Banner Handling Onboarding
-
-cfr-cookie-banner-accept-button-variant-2 = Разрешаване
-    .accesskey = Р
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизирайте отметките си навсякъде.
@@ -177,8 +172,12 @@ spotlight-pin-secondary-button = Не сега
 
 ## Cookie Banner Handling CFR
 
+cfr-cookiebanner-header-variant-2 = Намаляване на банерите за бисквитки
 cfr-cookiebanner-accept-button-variant-2 = &Разрешаване
     .accesskey = Р
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

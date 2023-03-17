@@ -62,3 +62,8 @@ about-private-browsing-pin-promo-title = Без запазени бисквит�
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Банерите за бисквитките изчезнаха!
+about-private-browsing-cookie-banners-promo-button = Намаляване на банерите за бисквитки
+about-private-browsing-cookie-banners-promo-message = Нека { -brand-short-name } автоматично отговаря на изскачащите прозорци на бисквитките вместо вас, за да можете да се върнете към разглеждането без разсейване. { -brand-short-name } ще отхвърли всички заявки, ако е възможно.
