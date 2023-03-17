@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Please enter a valid hostname
 permissions-exceptions-etp-window =
     .title = Exceptions for Enhanced Tracking Protection
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = You’ve turned off protections on these web sites.
 permissions-exceptions-etp-window2 =
     .title = Exceptions for Enhanced Tracking Protection
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = You’ve turned off protections on these web sites.
 permissions-exceptions-manage-etp-desc = You can specify which web sites have Enhanced Tracking Protection turned off. Type the exact address of the site you want to manage and then click Add Exception.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = The following web sites have requested to acc
 permissions-site-microphone-disable-label =
     .label = Block new requests asking to access your microphone
 permissions-site-microphone-disable-desc = This will prevent any web sites not listed above from requesting permission to access your microphone. Blocking access to your microphone may break some web site features.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Settings - Speaker Permissions
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = The following web sites have requested to select an audio output device. You can specify which web sites are allowed to select an audio output device.
