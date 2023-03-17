@@ -1117,6 +1117,11 @@ permissions-microphone = Ñe’ẽmbotuichaha
 permissions-microphone-settings =
     .label = Ñangareko…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Ñe’ẽataha Jeporavo
+permissions-speaker-settings =
+    .label = Ñemboheko…
+    .accesskey = t
 permissions-notification = Marandu’i
 permissions-notification-settings =
     .label = Ñangareko…
