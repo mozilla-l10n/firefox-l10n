@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Skriv in ett giltigt värdnamn
 permissions-exceptions-etp-window =
     .title = Undantag för förbättrat spårningsskydd
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Du har inaktiverat skydd på dessa webbplatser.
 permissions-exceptions-etp-window2 =
     .title = Undantag för förbättrat spårningsskydd
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Du har inaktiverat skydd på dessa webbplatser.
 permissions-exceptions-manage-etp-desc = Du kan ange vilka webbplatser som har Förbättrat spårningsskydd avstängt. Skriv in den exakta adressen till webbplatsen du vill hantera och klicka sedan på Lägg till undantag.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Följande webbplatser har begärt att du ska 
 permissions-site-microphone-disable-label =
     .label = Blockera nya förfrågningar om att få tillgång till din mikrofon
 permissions-site-microphone-disable-desc = Detta kommer att förhindra att webbplatser som inte listas ovan från att begära tillstånd att komma åt din mikrofon. Om du blockerar åtkomst till din mikrofon kan det störa vissa webbplatsfunktioner.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Inställningar - Högtalarbehörigheter
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Följande webbplatser har begärt att få välja en ljudutgångsenhet. Du kan ange vilka webbplatser som får välja en ljudutgångsenhet.
