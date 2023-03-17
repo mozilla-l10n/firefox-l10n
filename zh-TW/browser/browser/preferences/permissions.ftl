@@ -79,10 +79,10 @@ permissions-invalid-uri-label = 請輸入正確的主機名稱
 permissions-exceptions-etp-window =
     .title = 加強型追蹤保護的例外
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = 您已針對下列網站關閉保護。
 permissions-exceptions-etp-window2 =
     .title = 加強型追蹤保護的例外
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = 您已針對下列網站關閉保護。
 permissions-exceptions-manage-etp-desc = 您可以指定要針對哪些網站關閉加強型追蹤保護。請輸入完整網址後，點擊「新增例外網站」。
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = 下列網站要求使用您的麥克風。您
 permissions-site-microphone-disable-label =
     .label = 封鎖新網站使用您麥克風的請求
 permissions-site-microphone-disable-desc = 將防止上列以外的網站請您允許使用麥克風。封鎖使用麥克風的權限可能會影響某些網站的功能。
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = 設定 - 喇叭權限
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = 下列網站曾要求存取您的音訊輸出裝置。您可指定要允許哪些網站允許選擇音訊輸出裝置。
