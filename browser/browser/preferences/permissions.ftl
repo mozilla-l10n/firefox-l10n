@@ -79,10 +79,10 @@ permissions-invalid-uri-label = 유효한 호스트명을 입력하세요.
 permissions-exceptions-etp-window =
     .title = 향상된 추적 방지 기능에 대한 예외
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = 다음 웹 사이트에서 보호 기능을 껐습니다.
 permissions-exceptions-etp-window2 =
     .title = 향상된 추적 방지 기능에 대한 예외
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = 다음 웹 사이트에서 보호 기능을 껐습니다.
 permissions-exceptions-manage-etp-desc = 향상된 추적 방지 기능을 끌 웹사이트를 지정할 수 있습니다. 관리하려는 사이트의 정확한 주소를 입력하고 예외 추가를 누르세요.
 
 ## Exceptions - Cookies
@@ -153,7 +153,7 @@ permissions-site-notification-window =
 permissions-site-notification-window2 =
     .title = 설정 - 알림 권한
     .style = { permissions-window2.style }
-permissions-site-notification-desc = 다음 웹 사이트가 알림 전송 권한을 요청했습니다. 알림을 보낼 수 있는 사이트를 지정할 수 있습니다. 또한 알림 허용 요청을 차단할 수도 있습니다.
+permissions-site-notification-desc = 다음 웹사이트에서 알림을 보내도록 요청했습니다. 알림을 보낼 수 있는 웹사이트를 지정할 수 있습니다. 알림 허용을 요청하는 새 요청을 차단할 수도 있습니다.
 permissions-site-notification-disable-label =
     .label = 새 알림 허용 요청을 차단
 permissions-site-notification-disable-desc = 위 목록에 포함되지 않은 사이트는 알림 허용 요청을 차단합니다. 알림을 차단하면 어떤 웹 사이트에서는 기능이 정상적으로 작동하지 않을 수 있습니다.
@@ -179,7 +179,7 @@ permissions-site-xr-window =
 permissions-site-xr-window2 =
     .title = 설정 - 가상 현실 권한
     .style = { permissions-window2.style }
-permissions-site-xr-desc = 다음 웹 사이트에서 가상 현실 기기에 대한 접근을 요청했습니다. 가상 현실 기기에 접근할 수 있는 웹 사이트를 지정할 수 있습니다. 가상 현실 기기에 접근하도록 요청하는 새 요청을 차단할 수도 있습니다.
+permissions-site-xr-desc = 다음 웹 사이트에서 가상 현실 기기 접근을 요청했습니다. 가상 현실 기기에 접근할 수 있는 웹 사이트를 지정할 수 있습니다. 가상 현실 기기 접근을 요청하는 새 요청을 차단할 수도 있습니다.
 permissions-site-xr-disable-label =
     .label = 새 가상 현실 기기 접근 요청을 차단
 permissions-site-xr-disable-desc = 이렇게 하면 위에 나열되지 않은 웹 사이트가 가상 현실 기기에 대한 접근 권한을 요청하지 못하게됩니다. 가상 현실 기기에 대한 접근을 차단하면 일부 웹 사이트 기능이 손상될 수 있습니다.
@@ -192,7 +192,7 @@ permissions-site-camera-window =
 permissions-site-camera-window2 =
     .title = 설정 - 카메라 권한
     .style = { permissions-window2.style }
-permissions-site-camera-desc = 다음 웹 사이트가 카메라 접근 권한을 요청했습니다. 카메라에 접근할 수 있는 사이트를 지정할 수 있습니다. 카메라 접근 요청을 차단할 수도 있습니다.
+permissions-site-camera-desc = 다음 웹사이트에서 카메라 접근을 요청했습니다. 카메라에 접근할 수 있는 웹사이트를 지정할 수 있습니다. 카메라 접근을 요청하는 새로운 요청을 차단할 수도 있습니다.
 permissions-site-camera-disable-label =
     .label = 새 카메라 접근 요청을 차단
 permissions-site-camera-disable-desc = 위 목록에 없는 사이트는 카메라 사용 요청을 할 수 없게 됩니다. 카메라 접근을 차단하면 웹 사이트의 일부 기능이 작동하지 않을 수 있습니다.
@@ -205,7 +205,16 @@ permissions-site-microphone-window =
 permissions-site-microphone-window2 =
     .title = 설정 - 마이크 권한
     .style = { permissions-window2.style }
-permissions-site-microphone-desc = 다음 웹 사이트가 마이크 접근 권한을 요청했습니다. 마이크에 접근할 수 있는 사이트를 지정할 수 있습니다. 마이크 접근 요청을 차단할 수도 있습니다.
+permissions-site-microphone-desc = 다음 웹사이트에서 마이크 접근을 요청했습니다. 마이크에 접근할 수 있는 웹사이트를 지정할 수 있습니다. 마이크 접근을 요청하는 새로운 요청을 차단할 수도 있습니다.
 permissions-site-microphone-disable-label =
     .label = 새 마이크 접근 요청을 차단
 permissions-site-microphone-disable-desc = 위 목록에 없는 사이트는 마이크 사용 요청을 할 수 없게 됩니다. 마이크 접근을 차단하면 웹 사이트의 일부 기능이 작동하지 않을 수 있습니다.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = 설정 - 스피커 권한
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = 다음 웹사이트에서 오디오 출력 장치 선택을 요청했습니다. 오디오 출력 장치를 선택할 수 있는 웹사이트를 지정할 수 있습니다.
