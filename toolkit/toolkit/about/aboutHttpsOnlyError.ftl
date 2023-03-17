@@ -6,7 +6,7 @@ about-httpsonly-title-alert = Сигнал относно режима „Сам
 about-httpsonly-title-site-not-available = Сигурната версия на сайта не е налична
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable2 = Включили сте режим „само HTTPS“ за подобрена сигурност, но HTTPS версия на <em>{ $websiteUrl }</em> не е налична.
+about-httpsonly-explanation-unavailable2 = Включили сте режим „само HTTPS“ за подобрена сигурност, но версия на <em>{ $websiteUrl }</em> през HTTPS не е налична.
 about-httpsonly-explanation-question = Каква би могла да е причината?
 about-httpsonly-explanation-nosupport = Най-вероятно страницата не се поддържа под HTTPS.
 about-httpsonly-explanation-risk = Също е възможно и злоумишлено действие. Ако все пак решите да посетите незащитената версия на страницата не въвеждайте никаква чувствителна информация като пароли, адреси на електронна поща или данни от банкови карти.
