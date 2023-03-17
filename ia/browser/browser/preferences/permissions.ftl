@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
 permissions-exceptions-etp-window =
     .title = Exceptiones al protection antitraciamento reinfortiate
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Tu ha disactivate le protectiones sur iste sitos web.
 permissions-exceptions-etp-window2 =
     .title = Exceptiones al protection antitraciamento reinfortiate
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Tu ha disactivate le protectiones sur iste sitos web.
 permissions-exceptions-manage-etp-desc = Tu pote specificar pro qual sitos web disactivar le Protection antitraciamento reinfortiate. Scribe le adresse exacte del sito que tu vole gerer e pois clicca Adder exception.
 
 ## Exceptions - Cookies
@@ -209,3 +209,11 @@ permissions-site-microphone-desc = Le sequente sitos web ha requirite de acceder
 permissions-site-microphone-disable-label =
     .label = Blocar nove requestas de acceder a tu microphono
 permissions-site-microphone-disable-desc = Isto impedira qualcunque sitos web non listate supra de demandar licentia de acceder a tu microphono. Blocar le accesso a tu microphono pote infringer alcun functionalitates del sito web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Parametros - Permissiones del altoparlator
+    .style = { permissions-window2.style }
