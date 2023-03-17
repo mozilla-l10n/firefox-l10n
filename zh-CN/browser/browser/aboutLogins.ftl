@@ -200,7 +200,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 ##
 
 about-logins-confirm-export-dialog-title = 导出登录名和密码
-about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
+about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以看到密码。
 about-logins-confirm-export-dialog-confirm-button = 导出…
 about-logins-alert-import-title = 导入完成
 about-logins-alert-import-message = 更多信息见：导入摘要报告
