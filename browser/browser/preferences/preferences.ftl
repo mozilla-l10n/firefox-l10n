@@ -932,6 +932,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Намаляване на банерите за бисквитки
 
 ## Privacy Section - Address Bar
 
