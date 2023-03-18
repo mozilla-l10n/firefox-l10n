@@ -26,6 +26,12 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
        *[other] جے تساں تمام پرائیویٹ براؤزنگ ونڈوز کوں ہݨ بند کر ݙیندے ہو تاں { $downloadsCount } ڈاؤن لوڈز منسوخ تھی ویسن۔ کیا تساں واقعی نجی براؤزنگ چھوڑݨ چاہندے ہو؟
     }
 download-ui-dont-leave-private-browsing-button = نجی براؤزنگ وِچ رہو
+download-ui-cancel-downloads-ok =
+    { $downloadsCount ->
+        [1] 1 ڈاؤن لوڈ منسوخ کرو
+        [one] 1 ڈاؤن لوڈ منسوخ کرو
+       *[other] { $downloadsCount } ڈاؤن لوڈ منسوخ کرو
+    }
 
 ##
 
