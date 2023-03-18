@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Hãy nhập một tên máy chủ có thực
 permissions-exceptions-etp-window =
     .title = Các ngoại lệ cho trình chống theo dõi nâng cao
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Bạn đã tắt bảo vệ trên các trang web này.
 permissions-exceptions-etp-window2 =
     .title = Các ngoại lệ cho trình chống theo dõi nâng cao
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Bạn đã tắt bảo vệ trên các trang web này.
 permissions-exceptions-manage-etp-desc = Bạn có thể chỉ định trang web nào đã tắt Trình chống theo dõi nâng cao. Nhập địa chỉ chính xác của trang web mà bạn muốn quản lý rồi nhấp vào Thêm ngoại trừ.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Các trang web dưới đây đã yêu cầu 
 permissions-site-microphone-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép tru cập micrô của bạn
 permissions-site-microphone-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc truy cập micrô của bạn. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Cài đặt - Quyền thiết bị loa
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Các trang web sau đã yêu cầu chọn thiết bị đầu ra âm thanh. Bạn có thể chỉ định trang web nào được phép chọn thiết bị đầu ra âm thanh.

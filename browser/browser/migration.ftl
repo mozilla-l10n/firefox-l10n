@@ -68,6 +68,8 @@ import-items-description = Chọn các mục để nhập:
 import-permissions-page-title = Vui lòng cấp quyền cho { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS yêu cầu bạn cho phép { -brand-short-name } truy cập vào các trang đánh dấu của Safari. Nhấp vào “Tiếp tục” và chọn tệp “Bookmarks.plist” trong bảng Mở tệp.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS yêu cầu bạn cho phép { -brand-short-name } để truy cập dữ liệu của Safari. Nhấp “Tiếp tục”, chọn thư mục “Safari“ trong cửa sổ Finder xuất hiện và nhấp “Mở”.
 import-migrating-page-title = Đang nhập…
 import-migrating-description = Các mục sau đang được nhập…
 import-select-profile-page-title = Chọn hồ sơ
