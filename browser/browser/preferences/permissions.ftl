@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Los siguientes sitios web han solicitado perm
 permissions-site-microphone-disable-label =
     .label = Bloquear nuevas solicitudes para acceder a tu micrófono
 permissions-site-microphone-disable-desc = Esto evitará que cualquier sitio web no listado solicite permite para acceder a tu micrófono. Bloqueando el acceso a tu micrófono pueden fallar algunas características de los sitios web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Ajustes - Permisos de altavoz
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Los siguientes sitios web han solicitado seleccionar un dispositivo de salida de audio. Puedes especificar qué sitios web pueden seleccionar un dispositivo de salida de audio.
