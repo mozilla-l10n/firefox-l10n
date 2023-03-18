@@ -28,6 +28,12 @@ pictureinpicture-close-btn =
 
 ##
 
+pictureinpicture-fullscreen-btn =
+    .aria-label = Chijun ruwa
+    .tooltip = Chijun ruwa (ka'i' pitz'oj)
+pictureinpicture-exit-fullscreen-btn =
+    .aria-label = Tel pa chijun ruwa
+    .tooltip = Tel pa chijun ruwa (ka'i' pitz'oj)
 pictureinpicture-seekforward-btn =
     .aria-label = Jun chik
     .tooltip = Jun chik (→)
