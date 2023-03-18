@@ -217,3 +217,4 @@ permissions-site-microphone-disable-desc = Isto impedira qualcunque sitos web no
 permissions-site-speaker-window =
     .title = Parametros - Permissiones del altoparlator
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Le sequente sitos web ha rogate seliger un dispositivo audio de exito. Tu pote specificar le sitos web cuje es permittite seliger un dispositivo audio de exito,
