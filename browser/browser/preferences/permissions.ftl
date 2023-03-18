@@ -214,4 +214,7 @@ permissions-site-microphone-disable-desc = Cela empêchera tous les sites web no
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Paramètres - Permissions pour les haut-parleurs
+    .style = { permissions-window2.style }
 permissions-site-speaker-desc = Les sites web suivants ont demandé à sélectionner un périphérique de sortie audio. Vous pouvez décider quels sites web sont autorisés à sélectionner un périphérique de sortie audio.
