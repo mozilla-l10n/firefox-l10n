@@ -228,7 +228,7 @@ colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = ¡Se acabaron los banners de cookies!
-cfr-cookiebanner-body = Permita que { -brand-short-name } rechace automáticamente todas las solicitudes de banner de cookies cuando sea posible.
+cfr-cookiebanner-body = Permitir que { -brand-short-name } rechace automáticamente todas las solicitudes de banner de cookies cuando sea posible.
 cfr-cookiebanner-accept-button-v2 = Rechazar solicitudes
     .accesskey = R
 cfr-cookiebanner-reject-button = Ahora no
@@ -243,9 +243,9 @@ cfr-cookiebanner-accept-button-variant-2 = Permitir
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Ahora no
     .accesskey = n
-
-## Cookie Banner Handling CFR
-
+cfr-cbh-header = ¿Permitir que { -brand-short-name } rechace los banners de cookies?
+cfr-cbh-confirm-button = Rechazar banners de cookies
+    .accesskey = R
 cfr-cbh-dismiss-button = Ahora no
     .accesskey = n
 
