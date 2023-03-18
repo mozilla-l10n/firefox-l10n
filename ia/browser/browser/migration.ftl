@@ -68,6 +68,8 @@ import-items-description = Selige le datos a importar:
 import-permissions-page-title = Per favor da permissiones a { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS require que tu permitte explicitemente a { -brand-short-name } de acceder al marcapaginas de Safari. Clicca sur “Continuar” e selige le file “Bookmarks.plist” in le quadro de aperir files que appare.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS te require consentir explicitemente a { -brand-short-name } de acceder al datos de Safari. Clicca “Continuar“, selige le plica “Safari“ in le fenestra de dialogo Trovator que appare e pois clicca “Aperir”.
 import-migrating-page-title = Importante…
 import-migrating-description = Le importation del elementos sequente es in curso…
 import-select-profile-page-title = Seliger un profilo
