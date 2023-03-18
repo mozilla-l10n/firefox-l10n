@@ -79,10 +79,10 @@ permissions-invalid-uri-label = 请输入合法的主机名
 permissions-exceptions-etp-window =
     .title = 例外 - 增强型跟踪保护
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = 你已关闭对下列网站的保护。
 permissions-exceptions-etp-window2 =
     .title = 例外 - 增强型跟踪保护
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = 你已关闭对下列网站的保护。
 permissions-exceptions-manage-etp-desc = 您可以指定为哪些网站关闭增强型跟踪保护。请输入需要管理的完整网址，然后点击“添加例外”。
 
 ## Exceptions - Cookies
@@ -209,3 +209,8 @@ permissions-site-microphone-desc = 下列网站曾请求操控您的麦克风。
 permissions-site-microphone-disable-label =
     .label = 禁止新的操控麦克风请求
 permissions-site-microphone-disable-desc = 所有列表外的网站将无法请求操控您的麦克风。禁止此权限可能会影响某些网站的功能。
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
