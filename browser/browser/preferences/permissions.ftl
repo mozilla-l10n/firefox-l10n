@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Veuillez saisir un nom d’hôte valide
 permissions-exceptions-etp-window =
     .title = Exceptions pour la protection renforcée contre le pistage
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Vous avez désactivé les protections sur ces sites web.
 permissions-exceptions-etp-window2 =
     .title = Exceptions pour la protection renforcée contre le pistage
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Vous avez désactivé les protections sur ces sites web.
 permissions-exceptions-manage-etp-desc = Vous pouvez indiquer les sites web pour lesquels la Protection renforcée contre le pistage sera désactivée. Saisissez l’adresse exacte du site que vous souhaitez gérer et cliquez sur Ajouter une exception.
 
 ## Exceptions - Cookies
@@ -209,3 +209,9 @@ permissions-site-microphone-desc = Les sites web suivants ont demandé l’accè
 permissions-site-microphone-disable-label =
     .label = Bloquer les nouvelles demandes d’accès à votre microphone
 permissions-site-microphone-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à votre microphone. Bloquer l’accès à votre microphone peut invalider les fonctionnalités de certains sites web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-desc = Les sites web suivants ont demandé à sélectionner un périphérique de sortie audio. Vous pouvez décider quels sites web sont autorisés à sélectionner un périphérique de sortie audio.
