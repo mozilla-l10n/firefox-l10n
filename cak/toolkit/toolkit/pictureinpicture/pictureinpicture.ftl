@@ -19,6 +19,9 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-unpip-btn =
+    .aria-label = Titaq chik ri ruwi'
+    .tooltip = Titzolïx pa ruwi'
 pictureinpicture-close-btn =
     .aria-label = Titz'apïx
     .tooltip = Titz'apïx ({ $shortcut })
