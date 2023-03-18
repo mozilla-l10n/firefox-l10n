@@ -41,6 +41,9 @@ places-delete-domain-data =
 places-sortby-name =
     .label = ລຽງຕາມຊື່
     .accesskey = r
+places-edit-folder2 =
+    .label = ແກ້ໄຂໂຟນເດີ...
+    .accesskey = E
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = ໂຟເດີຍ່ອຍ
