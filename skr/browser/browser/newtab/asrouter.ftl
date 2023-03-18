@@ -243,9 +243,7 @@ cfr-cookiebanner-accept-button-variant-2 = اجازت ݙیوو
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = ہݨ کائناں
     .accesskey = N
-
-## Cookie Banner Handling CFR
-
+cfr-cbh-header = { -brand-short-name } کوں کوکی بینراں مسترد کرݨ دی اجازت ݙیوں؟
 cfr-cbh-confirm-button = کوکی بینراں کوں مسترد کرو
     .accesskey = R
 cfr-cbh-dismiss-button = ہݨ کائناں
