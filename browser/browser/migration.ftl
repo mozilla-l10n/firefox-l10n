@@ -68,6 +68,8 @@ import-items-description = 请选择要导入的项目：
 import-permissions-page-title = 请授权 { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS 要求您明确允许 { -brand-short-name } 访问 Safari 浏览器书签才能继续。请点击“继续”，并从显示的打开文件面板中选择“Bookmarks.plist”文件。
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS 要求您明确允许 { -brand-short-name } 访问 Safari 浏览器的数据。请点击“继续”，在“访达”对话框中选择“Safari”文件夹，然后点击“打开”。
 import-migrating-page-title = 正在导入…
 import-migrating-description = 正在导入下列项目…
 import-select-profile-page-title = 选择配置文件
