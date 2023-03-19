@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Picatz un nom d'òste valid
 permissions-exceptions-etp-window =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Avètz desactivat las proteccions per aquestes sites web.
 permissions-exceptions-etp-window2 =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Avètz desactivat las proteccions per aquestes sites web.
 permissions-exceptions-manage-etp-desc = Podètz indicar los sites web qu’an la Proteccion renfortida contra lo seguiment desactivada. Picatz l’adreça exacta del site que volètz gerir puèi clicatz « Apondre una excepcion ».
 
 ## Exceptions - Cookies
@@ -209,3 +209,11 @@ permissions-site-microphone-desc = Los sites seguents an demandat l’accès a v
 permissions-site-microphone-disable-label =
     .label = Blocar las novèlas demandas d’accès al microfòn
 permissions-site-microphone-disable-desc = Aquò empacha quin site que siá pas listat dessús de demandar l’accès a vòstre microfòn. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Paramètres - Permission pel microfòn
+    .style = { permissions-window2.style }
