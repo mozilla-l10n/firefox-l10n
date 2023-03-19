@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Zadajte platný názov servera
 permissions-exceptions-etp-window =
     .title = Výnimky pre Rozšírenú ochranu pred sledovaním
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Na týchto stránkach ste vypli ochranu pred sledovaním.
 permissions-exceptions-etp-window2 =
     .title = Výnimky pre Rozšírenú ochranu pred sledovaním
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Na týchto stránkach ste vypli ochranu pred sledovaním.
 permissions-exceptions-manage-etp-desc = Môžete určiť, ktoré webové stránky majú vypnutú rozšírenú ochranu pred sledovaním. Zadajte presnú adresu stránky, ktorú chcete spravovať, a potom kliknite na tlačidlo Pridať výnimku.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Nasledujúce webové stránky požiadali o pr
 permissions-site-microphone-disable-label =
     .label = Blokovať nové žiadosti o prístup k mikrofónu
 permissions-site-microphone-disable-desc = Týmto zakážete webovým stránkam, ktoré nie sú uvedené v zozname vyššie, požiadať o prístup k vášmu mikrofónu. Blokovanie prístupu k mikrofónu môže rozbiť niektoré funkcie stránok.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Nastavenia - Prístup k reproduktorom
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Nasledujúce webové stránky požiadali o výber výstupného zvukového zariadenia. Môžete určiť, ktoré webové stránky môžu zvoliť výstupné zvukové zariadenie.
