@@ -226,18 +226,26 @@ colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Α
 ## Cookie Banner Handling CFR
 
 # Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Εξαφανιστείτε μπάνερ για cookies!
+cfr-cookiebanner-header = Εξαφανιστείτε μηνύματα για cookies!
+cfr-cookiebanner-body = Επιτρέψτε στο { -brand-short-name } να απορρίπτει αυτόματα όλα τα μηνύματα αιτημάτων για cookies όταν αυτό είναι δυνατό.
 cfr-cookiebanner-accept-button-v2 = Απόρριψη αιτημάτων
     .accesskey = Α
 cfr-cookiebanner-reject-button = Όχι τώρα
     .accesskey = χ
-cfr-cookiebanner-accept-button-variant-1 = Απόρριψη αναδυόμενων παραθύρων
+cfr-cookiebanner-header-variant-1 = Λιγότερα αναδυόμενα μηνύματα για cookies
+cfr-cookiebanner-body-variant-1 = Επιτρέψτε στο { -brand-short-name } να απαντά αυτόματα σε αναδυόμενα μηνύματα για cookies, ώστε να κάνετε περιήγηση χωρίς περισπασμούς. Το { -brand-short-name } θα απορρίψει όλα τα αιτήματα εάν αυτό είναι δυνατό.
+cfr-cookiebanner-accept-button-variant-1 = Απόρριψη αναδυόμενων μηνυμάτων
     .accesskey = Α
 cfr-cookiebanner-reject-button-variant-1 = Όχι, ευχαριστώ
     .accesskey = χ
-cfr-cookiebanner-header-variant-2 = Μείωση μπάνερ cookie
+cfr-cookiebanner-header-variant-2 = Μείωση μηνυμάτων για cookies
+cfr-cookiebanner-body-variant-2 = Μειώστε τον αριθμό των μηνυμάτων για cookies που βλέπετε, επιτρέποντας στο { -brand-short-name } να απορρίπτει το αίτημα ενός ιστοτόπου για συναίνεση με τα cookies, εάν αυτό είναι δυνατό.
+cfr-cookiebanner-accept-button-variant-2 = Αποδοχή
+    .accesskey = Α
 cfr-cookiebanner-reject-button-variant-2 = Όχι τώρα
     .accesskey = χ
+cfr-cbh-header = Να επιτρέπεται στο { -brand-short-name } η απόρριψη μπάνερ για cookie;
+cfr-cbh-body = Το { -brand-short-name } μπορεί να απορρίψει αυτόματα πολλά αιτήματα μπάνερ για cookie.
 cfr-cbh-dismiss-button = Όχι τώρα
     .accesskey = χ
 
