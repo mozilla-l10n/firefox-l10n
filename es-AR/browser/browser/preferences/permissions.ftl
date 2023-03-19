@@ -4,10 +4,10 @@
 
 permissions-window =
     .title = Excepciones
-    .style = width: 36em
+    .style = width: 45em
 permissions-window2 =
     .title = Excepciones
-    .style = min-width: 36em
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Dirección del sitio web
@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Ingrese un nombre de host válido
 permissions-exceptions-etp-window =
     .title = Excepciones para la protección contra rastreo aumentada
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Desactivó las protecciones en estos sitios web.
 permissions-exceptions-etp-window2 =
     .title = Excepciones para la protección contra rastreo aumentada
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Desactivó las protecciones en estos sitios web.
 permissions-exceptions-manage-etp-desc = Puede especificar qué sitios web tienen deshabilitada la protección de rastreo avanzada. Ingrese la dirección exacta del sitio que desea administrar y luego haga clic en Agregar excepción.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Los siguientes sitios web han pedido acceso a
 permissions-site-microphone-disable-label =
     .label = Bloquear nuevos pedidos de acceso al micrófono
 permissions-site-microphone-disable-desc = Esto evitará que los sitios web no listados debajo puedan pedir permiso para acceder al micrófono. Bloquear acceso al micrófono puede hacer fallar ciertas características de algunos sitios web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Configuración - Permisos de parlante
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Los siguientes sitios web han pedido seleccionar un dispositivo de salida de audio. Puede especificar que sitios web tienen permiso para seleccionar un dispositivo de salida de audio.
