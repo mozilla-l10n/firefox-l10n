@@ -29,6 +29,12 @@ about-glean-interface-description =
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.
 about-glean-upload-enabled-local = Dataopplasting er kun aktivert for sending til en lokal server.
+about-glean-upload-fake-enabled =
+    Dataopplasting er deaktivert,
+    men vi lyver og forteller { glean-sdk-brand-name } at det er aktivert
+    slik at data fortsatt registreres lokalt.
+    Merk: Hvis du angir en feilsøkingskode, vil ping bli lastet opp til
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> uavhengig av innstillinger.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Relevante <a data-l10n-name="fog-prefs-and-defines-doc-link">innstillinger og definisjoner</a> inkluderer:
 # Variables:
@@ -56,4 +62,19 @@ about-glean-manual-testing =
     men kort sagt, for å manuelt teste at instrumenteringen fungerer, bør du:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ikke send inn noen ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Sørg for at det i det foregående feltet er en feilsøkingskode som du kan huske, slik at du kan gjenkjenne pingene dine senere.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Velg pinginstrumenteringen din er i fra den foregående listen.
+    Hvis det er i en <a data-l10n-name="custom-ping-link">egendefinert ping</a>, velg den.
+    Ellers er standardverdien for <code>hendelse</code>-beregninger
+    <code>hendelser</code>-pinget
+    og standarden for alle andre beregninger er
+    <code>metrics</code>-pinget.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Valgfritt. Kryss av i den foregående boksen hvis du vil at ping også skal logges når de sendes inn.
+    Du må i tillegg <a data-l10n-name="enable-logging-link">aktivere logging</a>.)
 controls-button-label-verbose = Bruk innstillinger og send inn ping
