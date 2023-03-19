@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Skriv inn et gyldig servernavn
 permissions-exceptions-etp-window =
     .title = Unntak for utvidet sporingsbeskyttelse
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Du har slått av beskyttelsen på disse nettstedene.
 permissions-exceptions-etp-window2 =
     .title = Unntak for utvidet sporingsbeskyttelse
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Du har slått av beskyttelsen på disse nettstedene.
 permissions-exceptions-manage-etp-desc = Du kan oppgi hvilke nettsteder som har utvidet sporingsbeskyttelse slått av. Skriv inn den eksakte adressen til nettstedet du vil administrere, og klikk deretter på Legg til unntak.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Følgende nettsteder har bedt om tilgang til 
 permissions-site-microphone-disable-label =
     .label = Blokker nye forespørsler som ber om tilgang til mikrofonen din
 permissions-site-microphone-disable-desc = Dette forhindrer nettsteder som ikke er oppført ovenfor, og ber om tillatelse til å få tilgang til mikrofonen din. Hvis du blokkerer tilgang til mikrofonen din, kan det hende at noen nettstedsfunksjoner ikke vil fungere.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Innstillinger - Høyttalertillatelser
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Følgende nettsteder har bedt om å velge en lydutgangsenhet. Du kan spesifisere hvilke nettsteder som har lov til å velge en lydutgangsenhet.
