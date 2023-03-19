@@ -297,6 +297,16 @@ about-logins-import-dialog-items-modified =
         [one] <span>موجودہ لاگ ان اپ ڈیٹ تھئی:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>موجودہ لاگ اناں اپ ڈیٹ تھیاں:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>ڈپلیکیٹ لاگ ان لبھا:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھیا)</span>
+       *[other] <span>ڈپلیکیٹ لاگ انز لبھن:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھئے)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>خرابی:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھئی)</span>
+       *[other] <span>خرابیاں:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھئے)</span>
+    }
 about-logins-import-dialog-done = تھی ڳیا
 about-logins-import-dialog-error-title = درآمد وِچ نقص
 about-logins-import-dialog-error-conflicting-values-title = ہک لاگ ان کیتے متعدد متضاد قدراں
