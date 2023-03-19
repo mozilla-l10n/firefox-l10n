@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan ikke b
 neterror-dns-not-found-native-fallback-attackers = Du kan fortsette med en DNS-løser som ikke er sikker. En tredjepart kan imidlertid være i stand til å se hvilke nettsteder du besøker eller sende deg til et uklarert nettsted.
 neterror-dns-not-found-native-fallback-heuristic = DNS-over-HTTPS er deaktivert på nettverket ditt.
 neterror-dns-not-found-native-fallback-not-confirmed = Tilkoblingen til { $trrDomain } er ikke klar ennå.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kunne ikke koble til { $trrDomain }.
 
 ##
 
