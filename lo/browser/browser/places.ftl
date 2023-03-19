@@ -5,6 +5,9 @@
 places-open =
     .label = ເປີດ
     .accesskey = O
+places-open-in-tab =
+    .label = ເປີດໃນແທັບໃຫມ່
+    .accesskey = w
 places-open-all-in-tabs =
     .label = ເປີດທັງຫມົດໃນແທັບ
     .accesskey = O

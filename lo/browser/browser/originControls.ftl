@@ -26,6 +26,9 @@ origin-controls-option-always-on =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = ບໍ່ສາມາດອ່ານ ແລະປ່ຽນຂໍ້ມູນຢູ່ໃນເວັບໄຊນີ້ໄດ້
+origin-controls-state-always-on = ສາມາດອ່ານ ແລະປ່ຽນຂໍ້ມູນຢູ່ໃນເວັບໄຊນີ້ໄດ້ສະເໝີ
+origin-controls-state-when-clicked = ການອະນຸຍາດທີ່ຈໍາເປັນເພື່ອອ່ານແລະປ່ຽນຂໍ້ມູນ
 origin-controls-state-hover-run-visit-only = ດໍາເນີນການສໍາລັບການຢ້ຽມຢາມນີ້ເທົ່ານັ້ນ
 origin-controls-state-runnable-hover-open = ເປີດສ່ວນເສີມ
 origin-controls-state-runnable-hover-run = ເປີດສ່ວນເສີມ

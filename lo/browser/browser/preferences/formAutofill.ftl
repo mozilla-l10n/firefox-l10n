@@ -66,7 +66,9 @@ autofill-address-zip = ລະຫັດໄປສະນີ
 autofill-address-email = ອີເມວ
 autofill-cancel-button = ຍົກເລີກ
 autofill-save-button = ບັນທຶກ
+autofill-card-name-on-card = ຊື່ໃນບັດ
 autofill-card-network = ປະເພດບັດ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-visa = Visa

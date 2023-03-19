@@ -2,5 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings are used in the about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = ເອົາຂໍ້ມູນຂອງທ່ານໄປເຮັດວຽກເພື່ອອິນເຕີເນັດທີ່ດີກວ່າສໍາລັບທຸກຄົນ.
+
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
