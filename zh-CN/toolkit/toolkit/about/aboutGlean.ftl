@@ -54,6 +54,8 @@ about-glean-manual-testing = 完整说明文档请见 <a data-l10n-name="fog-ins
 about-glean-no-ping-label = （不提交任何 Ping）
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = 在此栏设置好记的调试标签，方便之后快速找到您的 ping。
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation = 如需进行 <i>ad hoc 临时测试</i>，也可在 <code>about:glean</code> 页面打开开发者控制台，并使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 确定测试仪器的当前值。
 controls-button-label-verbose = 应用设置并提交 ping
 about-glean-about-data-header = 关于数据
 about-glean-about-data-explanation = 要浏览收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
