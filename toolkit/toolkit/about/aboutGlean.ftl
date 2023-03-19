@@ -54,6 +54,7 @@ about-glean-manual-testing = 完整说明文档请见 <a data-l10n-name="fog-ins
 about-glean-no-ping-label = （不提交任何 Ping）
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = 在此栏设置好记的调试标签，方便之后快速找到您的 ping。
+about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">请访问 { glean-debug-ping-viewer-brand-name }页面查看带有您标签的 ping</a>。从按下按钮到收到 ping 应该不会超过几秒钟，有时可能需要几分钟。
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation = 如需进行 <i>ad hoc 临时测试</i>，也可在 <code>about:glean</code> 页面打开开发者控制台，并使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 确定测试仪器的当前值。
 controls-button-label-verbose = 应用设置并提交 ping
