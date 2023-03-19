@@ -44,7 +44,9 @@ about-logging-logging-preset-selector-text = Προκαθορισμένη κατ
 ## Logging presets
 
 about-logging-preset-networking-label = Δικτύωση
+about-logging-preset-networking-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων δικτύωσης
 about-logging-preset-media-playback-label = Αναπαραγωγή πολυμέσων
+about-logging-preset-media-playback-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων αναπαραγωγής πολυμέσων (όχι ζητημάτων τηλεδιασκέψεων)
 about-logging-preset-custom-label = Προσαρμοσμένο
 # Error handling
 about-logging-error = Σφάλμα:
