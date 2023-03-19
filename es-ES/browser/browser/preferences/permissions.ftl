@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor válido
 permissions-exceptions-etp-window =
     .title = Excepciones para la protección mejorada contra el rastreo
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ha desactivado las protecciones en estos sitios web.
 permissions-exceptions-etp-window2 =
     .title = Excepciones para la protección mejorada contra el rastreo
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Ha desactivado las protecciones en estos sitios web.
 permissions-exceptions-manage-etp-desc = Puede especificar qué sitios web tienen desactivada la protección mejorada contra el rastreo. Escriba la dirección exacta del sitio que quiere administrar y haga clic en Añadir excepción.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Los siguientes sitios web han solicitado acce
 permissions-site-microphone-disable-label =
     .label = Bloquear nuevas solicitudes de acceso a su micrófono
 permissions-site-microphone-disable-desc = Esto evitará que cualquier sitio web no listado arriba solicite permiso para acceder a su micrófono. Bloquear el acceso a su micrófono puede afectar a las características de algunos sitios web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Ajustes - Permisos de altavoz
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Los siguientes sitios web han solicitado seleccionar un dispositivo de salida de audio. Puede especificar qué sitios web tienen permitido seleccionar un dispositivo de salida de audio.
