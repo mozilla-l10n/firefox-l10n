@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Παρακαλώ εισαγάγετε ένα έ�
 permissions-exceptions-etp-window =
     .title = Εξαιρέσεις για την Ενισχυμένη προστασία από καταγραφή
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία σε αυτούς τους ιστοτόπους.
 permissions-exceptions-etp-window2 =
     .title = Εξαιρέσεις για την Ενισχυμένη προστασία από καταγραφή
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία σε αυτούς τους ιστοτόπους.
 permissions-exceptions-manage-etp-desc = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους απενεργοποιείται η Ενισχυμένη προστασία από καταγραφή. Πληκτρολογήστε την ακριβή διεύθυνση του ιστοτόπου που θέλετε να διαχειριστείτε και έπειτα, κάντε κλικ στο «Προσθήκη εξαίρεσης».
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Οι ακόλουθοι ιστότοποι έ
 permissions-site-microphone-disable-label =
     .label = Αποκλεισμός νέων αιτημάτων πρόσβασης στο μικρόφωνό σας
 permissions-site-microphone-disable-desc = Αυτό θα εμποδίσει τα αιτήματα πρόσβασης στο μικρόφωνό σας από όλους τους ιστοτόπους που δεν αναγράφονται παραπάνω. Ο αποκλεισμός πρόσβασης στο μικρόφωνό σας ενδέχεται να προκαλέσει δυσλειτουργία σε ορισμένους ιστοτόπους.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Ρυθμίσεις - Δικαιώματα ηχείου
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Οι ακόλουθοι ιστότοποι έχουν ζητήσει την επιλογή μιας συσκευής εξόδου ήχου. Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται η επιλογή συσκευής εξόδου ήχου.
