@@ -244,8 +244,10 @@ cfr-cookiebanner-accept-button-variant-2 = Αποδοχή
     .accesskey = Α
 cfr-cookiebanner-reject-button-variant-2 = Όχι τώρα
     .accesskey = χ
-cfr-cbh-header = Να επιτρέπεται στο { -brand-short-name } η απόρριψη μπάνερ για cookie;
-cfr-cbh-body = Το { -brand-short-name } μπορεί να απορρίψει αυτόματα πολλά αιτήματα μπάνερ για cookie.
+cfr-cbh-header = Να επιτρέπεται στο { -brand-short-name } η απόρριψη των μηνυμάτων για cookies;
+cfr-cbh-body = Το { -brand-short-name } μπορεί να απορρίψει αυτόματα πολλά μηνύματα αιτημάτων για cookies.
+cfr-cbh-confirm-button = Απόρριψη μηνυμάτων για cookies
+    .accesskey = Α
 cfr-cbh-dismiss-button = Όχι τώρα
     .accesskey = χ
 

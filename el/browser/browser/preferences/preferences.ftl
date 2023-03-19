@@ -974,11 +974,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
-cookie-banner-handling-header = Μείωση μπάνερ cookie
-cookie-banner-handling-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα αιτήματα cookie σε μπάνερ για cookies, σε υποστηριζόμενους ιστότοπους.
+cookie-banner-handling-header = Μείωση μηνυμάτων για cookies
+cookie-banner-handling-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα μηνύματα αιτημάτων για cookies σε υποστηριζόμενους ιστότοπους.
 cookie-banner-learn-more = Μάθετε περισσότερα
 forms-handle-cookie-banners =
-    .label = Μείωση μπάνερ cookie
+    .label = Μείωση μηνυμάτων για cookies
 
 ## Privacy Section - Address Bar
 
