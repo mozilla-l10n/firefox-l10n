@@ -145,4 +145,4 @@ certerror-mitm-what-can-you-do-about-it-attack = Se coneissètz pas <b>{ $mitm }
 certerror-mitm-what-can-you-do-about-it-attack-sts = Se coneissètz pas <b>{ $mitm }</b>, alara poiriá èsser una ataca, e i a pas res de far per accedir al site.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> utiliza una estrategia de seguretat HTTP Strict Transport Security (HSTS), una connexion securizada es obligatòria per i accedir. Podètz pas apondre d’excepcion per consultar aqueste site.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> utiliza una estrategia de seguretat HTTP Strict Transport Security (HSTS), valent a dire que { -brand-short-name } per i accedir sonque amb una connexion securizada. Podètz pas apondre d’excepcion per consultar aqueste site.
