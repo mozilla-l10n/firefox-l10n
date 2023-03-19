@@ -18,10 +18,19 @@ controls-button-label = Υποβολή ρυθμίσεων
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = Προβολή ping για εντοπισμό σφαλμάτων του { -glean-brand-name }
 about-glean-page-title2 = Σχετικά με το { -glean-brand-name }
 about-glean-header = Σχετικά με το { -glean-brand-name }
+about-glean-interface-description =
+    Το <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> αποτελεί
+    μια βιβλιοθήκη συλλογής δεδομένων που χρησιμοποιείται στα έργα της { -vendor-short-name }.
+    Αυτό το περιβάλλον χρήστη έχει σχεδιαστεί για τη χειροκίνητη <a data-l10n-name="fog-link">δοκιμή της ενοργάνισης</a>
+    από προγραμματιστές και δοκιμαστές.
 about-glean-upload-enabled = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη.
 about-glean-upload-disabled = Η μεταφόρτωση δεδομένων είναι απενεργοποιημένη.
+about-glean-upload-enabled-local = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη μόνο για αποστολή σε τοπικό διακομιστή.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Οι σχετικές <a data-l10n-name="fog-prefs-and-defines-doc-link">προτιμήσεις και ορισμοί</a> περιλαμβάνουν:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
@@ -39,6 +48,8 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Σχετικά με τη δοκιμή
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (χωρίς υποβολή ping)
 controls-button-label-verbose = Εφαρμογή ρυθμίσεων και υποβολή ping
 about-glean-about-data-header = Σχετικά με τα δεδομένα
 about-glean-about-data-explanation =
