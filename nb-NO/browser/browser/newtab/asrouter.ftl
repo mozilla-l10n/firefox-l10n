@@ -244,6 +244,12 @@ cfr-cookiebanner-accept-button-variant-2 = Tillat
     .accesskey = T
 cfr-cookiebanner-reject-button-variant-2 = Ikke nå
     .accesskey = k
+cfr-cbh-header = Tillat at { -brand-short-name } avviser infoskapselbannere?
+cfr-cbh-body = { -brand-short-name } kan automatisk avvise mange infoskapselbanner-forespørsler.
+cfr-cbh-confirm-button = Avvis infoskapselbannere
+    .accesskey = A
+cfr-cbh-dismiss-button = Ikke nå
+    .accesskey = k
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
