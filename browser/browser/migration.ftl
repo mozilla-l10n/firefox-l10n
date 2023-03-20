@@ -68,6 +68,8 @@ import-items-description = Válassza ki az importálni kívánt elemeket:
 import-permissions-page-title = Kérjük adjon engedélyt a { -brand-short-name }nak
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = A macOS megköveteli, hogy kifejezetten engedélyezze, hogy a { -brand-short-name } elérje a Safari könyvjelzőit. Kattintson a „Folytatás” gombra és a megjelenő Fájl megnyitása panelen válassza ki a „Bookmarks.plist” fájlt.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = A macOS megköveteli, hogy kifejezetten engedélyezze, hogy a { -brand-short-name } elérje a Safari adatait. Kattintson a „Folytatás” gombra, és válassza ki a „Safari” mappát a Finder párbeszédablakán, majd kattintson a „Megnyitás” gombra.
 import-migrating-page-title = Importálás…
 import-migrating-description = A következő elemek importálása folyik…
 import-select-profile-page-title = Profil kiválasztása
