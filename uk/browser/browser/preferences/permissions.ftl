@@ -214,4 +214,7 @@ permissions-site-microphone-disable-desc = Це не дозволить будь
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Налаштування - Дозволи гучномовців
+    .style = { permissions-window2.style }
 permissions-site-speaker-desc = Ці вебсайти запитували дозвіл на вибір пристрою виводу звуку. Ви можете вказати, яким вебсайтам дозволено вибирати пристрій аудіовиводу.

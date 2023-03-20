@@ -157,7 +157,7 @@ webrtc-allow-share-microphone = Дозволити { $origin } використ�
 webrtc-allow-share-screen = Дозволити { $origin } бачити ваш екран?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker = Дозволити { $origin } використовувати динаміки?
+webrtc-allow-share-speaker = Дозволити { $origin } використовувати інші гучномовці?
 webrtc-allow-share-camera-and-microphone = Дозволити { $origin } використовувати ваші камеру та мікрофон?
 webrtc-allow-share-camera-and-audio-capture = Дозволити { $origin } використовувати вашу камеру і прослуховувати аудіо цієї вкладки?
 webrtc-allow-share-screen-and-microphone = Дозволити { $origin } використовувати ваш мікрофон і бачити ваш екран?
@@ -169,12 +169,11 @@ webrtc-allow-share-screen-and-audio-capture = Дозволити { $origin } п�
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } дозвіл прослуховувати аудіо цієї вкладки?
 webrtc-allow-share-camera-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до вашої камери?
-webrtc-allow-share-microphone-unsafe-delegations = Дозволити { $origin } надати для { $thirdParty } доступ до вашого мікрофону?
 webrtc-allow-share-microphone-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до вашого мікрофону?
 webrtc-allow-share-screen-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } дозвіл на перегляд вашого екрана?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до динаміків?
+webrtc-allow-share-speaker-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до інших гучномовців?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до ваших камери та мікрофону?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до вашої камери та прослуховування аудіо цієї вкладки?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до вашого мікрофону та перегляду вашого екрана?
