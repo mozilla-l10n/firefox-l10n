@@ -96,6 +96,7 @@ browser-containers-settings =
 
 containers-disable-alert-cancel-button = ເປີດໃຊ້ງານຕໍ່ໄປ
 containers-remove-alert-title = ເອົາການແຍກຂໍ້ມູນນີ້ອອກ?
+containers-remove-ok-button = ເອົາຕູ້ຄອນເທນເນີນີ້ອອກ
 
 ## General Section - Language & Appearance
 
@@ -323,6 +324,8 @@ home-prefs-recommended-by-header =
 
 home-prefs-recommended-by-option-sponsored-stories =
     .label = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
+home-prefs-recommended-by-option-recent-saves =
+    .label = ສະແດງບັນທຶກຫຼ້າສຸດ
 home-prefs-highlights-option-visited-pages =
     .label = ຫນ້າທີ່ເຂົ້າໄປເບິ່ງແລ້ວ
 home-prefs-highlights-options-bookmarks =
@@ -331,6 +334,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = ການດາວໂຫລດລ່າສຸດ
 home-prefs-highlights-option-saved-to-pocket =
     .label = ຫນ້າທີ່ບັນທຶກໄວ້ໃນ { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -494,6 +499,8 @@ forms-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = x
 forms-breach-alerts-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+relay-integration =
+    .label = ເປີດໃຊ້ { -relay-brand-name } ໃນຕົວຈັດການລະຫັດຜ່ານ { -brand-short-name } ຂອງທ່ານ
 relay-integration-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 forms-saved-logins =
     .label = ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້…
@@ -603,9 +610,13 @@ content-blocking-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ##
 
+content-blocking-all-third-party-cookies = ຄຸກກີພາກສ່ວນທີສາມທັງໝົດ
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-etp-standard-tcp-rollout-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+content-blocking-warning-title = ລະວັງ!
+content-blocking-warning-learn-how = ຮຽນຮູ້ວິທີການ
 content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
 
 ## Privacy Section - Tracking
@@ -634,6 +645,7 @@ permissions-notification-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 permissions-notification-pause =
     .label = ຢຸດການແຈ້ງເຕືອນຊົ່ວຄາວຈົນກວ່າ { -brand-short-name } ເລີ່ມເຮັດວຽກໃຫມ່
     .accesskey = n
+permissions-autoplay = ຫຼິ້ນອັດຕະໂນມັດ
 permissions-block-popups =
     .label = ປິດກັ້ນວິນໂດປັອບອັບ
     .accesskey = ປ

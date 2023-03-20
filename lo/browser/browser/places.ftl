@@ -47,6 +47,9 @@ places-sortby-name =
 places-edit-folder2 =
     .label = ແກ້ໄຂໂຟນເດີ...
     .accesskey = E
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = ບຸກມາກທີ່ຈັດການ
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = ໂຟເດີຍ່ອຍ

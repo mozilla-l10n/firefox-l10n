@@ -54,6 +54,8 @@ autofill-address-state = ລັດ
 autofill-address-county = ປະເທດ
 # Used in HK
 autofill-address-area = ພື້ນທີ່
+# Used in AE
+autofill-address-emirate = ເອມິເຣດ
 
 ## Postal code name types
 
@@ -63,9 +65,15 @@ autofill-address-zip = ລະຫັດໄປສະນີ
 
 ##
 
+autofill-address-tel = ໂທລະສັບ
 autofill-address-email = ອີເມວ
 autofill-cancel-button = ຍົກເລີກ
 autofill-save-button = ບັນທຶກ
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-new-card-title = ເພີ່ມບັດເຄຣດິດໃໝ່
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title = ແກ້ໄຂບັດເຄຣດິດ
+autofill-card-number = ເລກບັດ
 autofill-card-name-on-card = ຊື່ໃນບັດ
 autofill-card-network = ປະເພດບັດ
 
