@@ -107,6 +107,9 @@ login-item-time-used = Viimeksi käytetty: { DATETIME($timeUsed, day: "numeric",
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "numeric", year: "numeric") }
 login-item-timeline-action-created = Luotu
 login-item-timeline-action-updated = Päivitetty
 login-item-timeline-action-used = Käytetty
