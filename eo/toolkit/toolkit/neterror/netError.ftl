@@ -126,14 +126,14 @@ neterror-network-protocol-error-contact-website = Bonvolu kontakti la posedantoj
 certerror-expired-cert-second-para = Verŝajne la atestilo de tiu ĉi retejo senvalidiĝis kaj tio ne permesas al { -brand-short-name } sekure konektiĝi. Se vi vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli viajn informojn, ekzemple pasvortojn, retmesaĝojn aŭ detalojn pri viaj kreditkartoj.
 certerror-expired-cert-sts-second-para = Verŝajne la atestilo de tiu ĉi retejo senvalidiĝis kaj tio ne permesas al { -brand-short-name } sekure konektiĝi.
 certerror-what-can-you-do-about-it-title = Kion vi povas fari pri tio?
-certerror-unknown-issuer-what-can-you-do-about-it-website = Tre verŝajne la problemon havas la retejo, kaj vi nenion povas fari por solvi ĝin.
+certerror-unknown-issuer-what-can-you-do-about-it-website = Tre verŝajne la retejo havas problemon, kaj vi nenion povas fari por solvi ĝin.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Se vi estas en entreprena reto, aŭ se vi uzas kontraŭvirusan programon, vi povas kontakti vian helpan teamon. Vi povas ankaŭ sciigi la administranton de la retejo pri la problemo.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = La horloĝo de via komputilo raportas jene { DATETIME($now, dateStyle: "medium") }. Certiĝu ĉu la sistemaj agordoj de via komputilo havas la ĝustan daton, horon kaj horzonon, kaj poste reŝargu <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Se via horloĝo jam montras la ĝustan horon, verŝajne la retejo estas malbone agordita, kaj vi nenion povas fari por solvi tiun problemon. Vi povas tamen sciigi la administranton de la retejo pri ĝi.
-certerror-bad-cert-domain-what-can-you-do-about-it = Tre verŝajne la problemon havas la retejo, kaj vi nenion povas fari por solvi ĝin. Vi povas tamen sciigi la administranton de la retejo pri ĝi.
+certerror-bad-cert-domain-what-can-you-do-about-it = Tre verŝajne la retejo havas problemon, kaj vi nenion povas fari por solvi ĝin. Vi povas tamen sciigi la administranton de la retejo pri ĝi.
 certerror-mitm-what-can-you-do-about-it-antivirus = Se via kontraŭvirusa programo kapablas analizi ĉifritajn konektojn (ofte nomata “teksaĵa skanado” aŭ “HTTPS skanado”), provu malŝalti ĝin. Se tio ne helpas, provu malinstali kaj reinstali la kontraŭvirusan programon.
 certerror-mitm-what-can-you-do-about-it-corporate = Se vi estas en entreprena reto, bonvolu kontakti vian informatikan servon.
 # Variables:
