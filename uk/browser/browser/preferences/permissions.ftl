@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Введіть правильне мережев
 permissions-exceptions-etp-window =
     .title = Винятки для розширеного захисту від стеження
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ви вимкнули захист для цих вебсайтів.
 permissions-exceptions-etp-window2 =
     .title = Винятки для розширеного захисту від стеження
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Ви вимкнули захист для цих вебсайтів.
 permissions-exceptions-manage-etp-desc = Ви можете вказати, для яких вебсайтів вимкнути розширений захист від стеження. Введіть точну адресу сайту, для якого потрібно виконати зміни, а потім натисніть «Додати виняток».
 
 ## Exceptions - Cookies
@@ -209,3 +209,9 @@ permissions-site-microphone-desc = Зазначені тут вебсайти з
 permissions-site-microphone-disable-label =
     .label = Блокувати нові запити про отримання доступу до вашого мікрофону
 permissions-site-microphone-disable-desc = Це не дозволить будь-яким переліченим вгорі вебсайтам запитувати дозвіл на отримання доступу до вашого мікрофону. Блокування доступу до мікрофону може вплинути на деякі функції вебсайту.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-desc = Ці вебсайти запитували дозвіл на вибір пристрою виводу звуку. Ви можете вказати, яким вебсайтам дозволено вибирати пристрій аудіовиводу.
