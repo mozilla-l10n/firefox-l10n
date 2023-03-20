@@ -209,7 +209,7 @@ menu-bookmarks-toolbar =
 menu-bookmarks-other =
     .label = အခြား မှတ်သားချက်များ
 menu-bookmarks-mobile =
-    .label = မိုဘိုင်းလ် စာအမှတ်များ
+    .label = မိုဘိုင်းလ် စာမှတ်များ
 
 ## Tools Menu
 
