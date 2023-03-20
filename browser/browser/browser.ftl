@@ -126,7 +126,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
-    .tooltiptext = Керувати доступом сайту до інших динаміків
+    .tooltiptext = Керувати доступом сайту до інших гучномовців
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Відкрити панель автовідтворення
 urlbar-persistent-storage-notification-anchor =
@@ -500,7 +500,7 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = Мікрофон
 popup-select-speaker-icon =
-    .tooltiptext = Динаміки
+    .tooltiptext = Гучномовці
 popup-select-window-or-screen =
     .label = Вікно або екран:
     .accesskey = В

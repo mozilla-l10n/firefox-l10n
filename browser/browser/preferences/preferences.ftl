@@ -1123,6 +1123,8 @@ permissions-microphone = Мікрофон
 permissions-microphone-settings =
     .label = Налаштування…
     .accesskey = я
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Вибір гучномовця
 permissions-speaker-settings =
     .label = Налаштування…
     .accesskey = ш
