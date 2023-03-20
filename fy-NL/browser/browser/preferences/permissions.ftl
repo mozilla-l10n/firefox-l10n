@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Folje in jildige kompjûternamme yn
 permissions-exceptions-etp-window =
     .title = Utsûnderingen foar Ferbettere beskerming tsjin folgjen
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Jo hawwe beskermingen foar dizze websites útskeakele.
 permissions-exceptions-etp-window2 =
     .title = Utsûnderingen foar Ferbettere beskerming tsjin folgjen
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Jo hawwe beskermingen foar dizze websites útskeakele.
 permissions-exceptions-manage-etp-desc = Jo kinne opjaan by hokker websites Ferbettere beskerming tsjin folgjen útskeakele is. Typ it krekte adres fan de website dy’t jo beheare wolle en klik dernei op Utsûndering tafoegje.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = De folgjende websites hawwe om tagong ta jo m
 permissions-site-microphone-disable-label =
     .label = Nije fersiken om tagong ta jo mikrofoan blokkearje
 permissions-site-microphone-disable-desc = Dit soarget derfoar dat websites dy’t hjirboppe net fermeld wurde om tastimming foar tagong ta jo mikrofoan freegje. It blokkearjen fan tagong ta jo mikrofoan kin bepaalde funksjes fan websites fersteure.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Ynstellingen - Tastimmingen foar lûdsprekker
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = De folgjende websites hawwe frege om in audio-útfierapparaat te selektearjen. Jo kinne opjaan hokker websites in audio-útfierapparaat selektearje meie.
