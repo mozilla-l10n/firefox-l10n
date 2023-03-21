@@ -10,7 +10,7 @@ reload-tab =
     .accesskey = R
 select-all-tabs =
     .label = Seliger tote le schedas
-    .accesskey = S
+    .accesskey = e
 tab-context-play-tab =
     .label = Sonar le scheda
     .accesskey = o
@@ -27,7 +27,7 @@ duplicate-tabs =
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
     .label = Clauder le schedas a sinistra
-    .accesskey = l
+    .accesskey = C
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -41,15 +41,15 @@ reload-tabs =
     .accesskey = R
 pin-tab =
     .label = Clavar le scheda
-    .accesskey = C
+    .accesskey = l
 unpin-tab =
-    .label = Disclavar le scheda
-    .accesskey = D
+    .label = Liberar le scheda
+    .accesskey = L
 pin-selected-tabs =
-    .label = Clavar le schedas
-    .accesskey = F
+    .label = Clavar schedas
+    .accesskey = l
 unpin-selected-tabs =
-    .label = Liberar le schedas
+    .label = Liberar schedas
     .accesskey = L
 bookmark-selected-tabs =
     .label = Adder schedas al marcapaginas…
@@ -74,7 +74,7 @@ move-to-new-window =
     .accesskey = n
 tab-context-close-multiple-tabs =
     .label = Clauder plure schedas
-    .accesskey = p
+    .accesskey = a
 tab-context-share-url =
     .label = Compartir
     .accesskey = o
@@ -85,23 +85,23 @@ tab-context-share-url =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Reaperir schedas claudite
-            [one] Reaperir scheda claudite
+            [1] Reaperir le schedas claudite
+            [one] Reaperir le scheda claudite
            *[other] Reaperir schedas claudite
         }
-    .accesskey = a
+    .accesskey = e
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
-            [1] Clauder scheda
+            [1] Clauder le scheda
            *[other] Clauder { $tabCount } schedas
         }
     .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] Displaciar scheda
-            [one] Displaciar scheda
+            [1] Displaciar le scheda
+            [one] Displaciar le scheda
            *[other] Displaciar schedas
         }
     .accesskey = i
