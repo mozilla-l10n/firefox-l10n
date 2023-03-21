@@ -242,6 +242,8 @@ cfr-cookiebanner-accept-button-variant-2 = Рұқсат ету
     .accesskey = а
 cfr-cookiebanner-reject-button-variant-2 = Қазір емес
     .accesskey = м
+cfr-cbh-dismiss-button = Қазір емес
+    .accesskey = м
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
