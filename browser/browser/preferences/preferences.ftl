@@ -1118,6 +1118,11 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Indstillinger…
     .accesskey = I
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Valg af højtaler
+permissions-speaker-settings =
+    .label = Indstillinger…
+    .accesskey = I
 permissions-notification = Beskeder
 permissions-notification-settings =
     .label = Indstillinger…
@@ -1144,7 +1149,7 @@ permissions-addon-install-warning =
     .accesskey = A
 permissions-addon-exceptions =
     .label = Undtagelser…
-    .accesskey = t
+    .accesskey = U
 
 ## Privacy Section - Data Collection
 
