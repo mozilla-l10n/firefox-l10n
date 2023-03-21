@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } Benutzer
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Weg mit Cookie-Bannern!
-cfr-cookie-banner-handling-body = { -brand-short-name } erlauben, alle Cookie-Banner-Anfragen nach Möglichkeit automatisch abzulehnen. Andernfalls werden alle Cookies akzeptiert, um noch mehr Banner zu schließen.
-cfr-cookie-banner-accept-button = Anfragen schließen
-    .accesskey = s
-cfr-cookie-banner-reject-button = Nicht jetzt
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Weniger Cookie-Pop-ups sehen
-cfr-cookie-banner-handling-body-variant-1 = Lassen Sie { -brand-short-name } automatisch Cookie-Pop-ups für Sie beantworten, damit Sie wieder ablenkungsfrei surfen können. { -brand-short-name } lehnt nach Möglichkeit alle Anfragen ab, oder akzeptiert sie andernfalls alle.
-cfr-cookie-banner-accept-button-variant-1 = Pop-ups schließen
-    .accesskey = s
-cfr-cookie-banner-reject-button-variant-1 = Nein, danke
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Reduzierung von Cookie-Bannern
-cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } erlauben, die Cookie-Zustimmungsanfrage einer Webseite nach Möglichkeit abzulehnen, oder den Cookie-Zugriff zu akzeptieren, wenn dies nicht möglich ist?
-cfr-cookie-banner-accept-button-variant-2 = Erlauben
-    .accesskey = E
-cfr-cookie-banner-reject-button-variant-2 = Nicht jetzt
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisieren Sie Ihre Lesezeichen, um sie überall verfügbar zu haben.
@@ -268,9 +245,14 @@ cfr-cookiebanner-accept-button-variant-2 = Erlauben
     .accesskey = E
 cfr-cookiebanner-reject-button-variant-2 = Nicht jetzt
     .accesskey = N
+cfr-cbh-dismiss-button = Nicht jetzt
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Wir haben für Sie vorgesorgt
 july-jam-body = Jeden Monat blockiert { -brand-short-name } durchschnittlich mehr als 3000 Tracker pro Nutzer und ermöglicht so einen sicheren, schnellen Zugriff auf das gute Internet.
 july-jam-set-default-primary = Meine Links mit { -brand-short-name } öffnen
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
