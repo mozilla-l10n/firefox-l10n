@@ -71,7 +71,7 @@ move-to-end =
     .accesskey = f
 move-to-new-window =
     .label = Displaciar a un nove fenestra
-    .accesskey = f
+    .accesskey = n
 tab-context-close-multiple-tabs =
     .label = Clauder plure schedas
     .accesskey = p
@@ -104,7 +104,7 @@ tab-context-move-tabs =
             [one] Displaciar scheda
            *[other] Displaciar schedas
         }
-    .accesskey = M
+    .accesskey = i
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
