@@ -54,6 +54,8 @@ autofill-address-state = ລັດ
 autofill-address-county = ປະເທດ
 # Used in HK
 autofill-address-area = ພື້ນທີ່
+# Used in NI, CO
+autofill-address-department = ພະແນກ
 # Used in AE
 autofill-address-emirate = ເອມິເຣດ
 
@@ -79,4 +81,9 @@ autofill-card-network = ປະເພດບັດ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-discover = ຄົ້ນພົບ
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
