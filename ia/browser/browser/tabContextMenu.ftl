@@ -4,7 +4,7 @@
 
 tab-context-new-tab =
     .label = Nove scheda
-    .accesskey = v
+    .accesskey = N
 reload-tab =
     .label = Recargar le scheda
     .accesskey = R
@@ -12,7 +12,7 @@ select-all-tabs =
     .label = Seliger tote le schedas
     .accesskey = S
 tab-context-play-tab =
-    .label = Sonar scheda
+    .label = Sonar le scheda
     .accesskey = o
 tab-context-play-tabs =
     .label = Sonar schedas
@@ -21,7 +21,7 @@ duplicate-tab =
     .label = Duplicar le scheda
     .accesskey = D
 duplicate-tabs =
-    .label = Duplicar le schedas
+    .label = Duplicar schedas
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -41,10 +41,10 @@ reload-tabs =
     .accesskey = R
 pin-tab =
     .label = Clavar le scheda
-    .accesskey = v
+    .accesskey = C
 unpin-tab =
     .label = Disclavar le scheda
-    .accesskey = v
+    .accesskey = D
 pin-selected-tabs =
     .label = Clavar le schedas
     .accesskey = F
