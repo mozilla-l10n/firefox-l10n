@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seliger tote le schedas
     .accesskey = S
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -64,7 +66,7 @@ toolbar-context-menu-view-customize-toolbar-2 =
 # This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =
-    .label = Appunctar al barra de instrumentos
+    .label = Clavar al barra de instrumentos
     .accesskey = A
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Sempre monstrar

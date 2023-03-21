@@ -79,7 +79,7 @@ mr1-onboarding-reduce-motion-button-label = Disactivar le animationes
 mr1-onboarding-pin-header =
     { PLATFORM() ->
         [macos] Mantener { -brand-short-name } in tu Dock pro accesso facile
-       *[other] Fixar { -brand-short-name } a tu barra de activitates pro accesso facile
+       *[other] Clavar { -brand-short-name } a tu barra de activitates pro accesso facile
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
@@ -254,7 +254,7 @@ fx100-thank-you-subtitle = Isto es nostre 100me version! Gratias pro adjutar nos
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Mantener { -brand-short-name } in le bassino
-       *[other] Fixar { -brand-short-name } al barra de apps
+       *[other] Clavar { -brand-short-name } al barra de apps
     }
 fx100-upgrade-thanks-header = 100 gratias
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
