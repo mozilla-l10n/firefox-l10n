@@ -6,7 +6,7 @@ navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
             [macos] Trahe a basso pro monstrar le chronologia
-           *[other] Face clic dextre o trahe a basso pro monstrar le chronologia
+           *[other] Clicca dextre o trahe a basso pro monstrar le chronologia
         }
 
 ## Back

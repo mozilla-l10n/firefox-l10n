@@ -56,8 +56,8 @@ about-private-browsing-promo-close-button =
 about-private-browsing-pin-promo-header = Le libertate del navigation private in un clic
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] Retener in Dock
-       *[other] Appunctar al barra del activitates
+        [macos] Mantener in Dock
+       *[other] Clavar al barra de activitates
     }
 about-private-browsing-pin-promo-title = Nulle cookies o chronologia salvate, justo ad tu desktop. Naviga como si nemo te spia.
 

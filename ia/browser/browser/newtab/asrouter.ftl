@@ -165,8 +165,8 @@ spotlight-peace-mind-header = Nos te mantene secur
 spotlight-peace-mind-body = Cata mense, { -brand-short-name } bloca un media de ultra 3000 traciatores per usator. Perque nihil deberea poner se inter te e le bon internet, specialmente enoios pro tu confidentialitate como le traciatores.
 spotlight-pin-primary-button =
     { PLATFORM() ->
-        [macos] Mantener in le Bassino
-       *[other] Appunctar al barra del activitates
+        [macos] Mantener in Dock
+       *[other] Clavar al barra del activitates
     }
 spotlight-pin-secondary-button = Non ora
 
@@ -245,9 +245,6 @@ cfr-cookiebanner-accept-button-variant-2 = Permitter
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Non ora
     .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Permitter a { -brand-short-name } de rejectar bandieras pro cookies?
 cfr-cbh-body = { -brand-short-name } pote rejectar automaticamente multe requestas de bandieras pro cookie.
 cfr-cbh-confirm-button = Rejectar bandieras pro cookies

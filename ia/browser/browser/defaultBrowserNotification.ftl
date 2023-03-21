@@ -13,8 +13,8 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Facer de { -brand-short-name } tu navigator primari?
-default-browser-prompt-message-pin = Tene { -brand-short-name } sempre a portata de mano: face lo tu navigator predefinite e adde lo al barra de applicationes.
-default-browser-prompt-message-pin-mac = Mantene { -brand-short-name }  a portata de manos: face lo tu navigator predefinite e mantene lo in tu Dock.
+default-browser-prompt-message-pin = Tene { -brand-short-name } sempre a portata de mano: face lo tu navigator predefinite e clava lo al barra de applicationes.
+default-browser-prompt-message-pin-mac = Mantene { -brand-short-name }  a portata de tu manos: face lo tu navigator predefinite e mantene lo in tu Dock.
 default-browser-prompt-button-primary-pin = Facer navigator primari
 default-browser-prompt-title-alt = Facer de { -brand-short-name } tu navigator predefinite?
 default-browser-prompt-message-alt = Obtene velocitate, securitate e confidentialitate cata vice que tu naviga.

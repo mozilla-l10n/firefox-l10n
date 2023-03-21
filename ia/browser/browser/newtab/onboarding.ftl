@@ -13,6 +13,14 @@
 onboarding-welcome-header = Benvenite a { -brand-short-name }
 onboarding-start-browsing-button-label = Comencia a navigar
 onboarding-not-now-button-label = Non ora
+mr1-onboarding-get-started-primary-button-label = Comenciar
+mr1-onboarding-welcome-header = Benvenite a { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Facer de { -brand-short-name } mi navigator principal
+    .title = Marca { -brand-short-name } como navigator predefinite e lo fixa al barra de activitates
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Facer de { -brand-short-name } mi navigator predefinite
+mr1-onboarding-set-default-secondary-button-label = Non ora
 
 ## Custom Return To AMO onboarding strings
 
@@ -77,21 +85,12 @@ mr1-onboarding-pin-header =
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Mantener in le Dock
-       *[other] Fixar al barra de activitates
+       *[other] Clavar al barra de activitates
     }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Comenciar
-mr1-onboarding-welcome-header = Benvenite a { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Facer de { -brand-short-name } mi navigator principal
-    .title = Marca { -brand-short-name } como navigator predefinite e lo fixa al barra de activitates
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Facer de { -brand-short-name } mi navigator predefinite
-mr1-onboarding-set-default-secondary-button-label = Non ora
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Aperir session
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -287,7 +286,7 @@ mr2022-onboarding-welcome-pin-subtitle = Lancea { -brand-short-name } de ubique 
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Retene { -brand-short-name } in Dock
-       *[other] Fixa { -brand-short-name } al barra de apps
+       *[other] Clava { -brand-short-name } al barra de apps
     }
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
@@ -382,8 +381,8 @@ mr2022-upgrade-onboarding-pin-private-window-header = Obtene le libertate del na
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Nulle cookies o chronologia salvate, justo ad tu desktop. Naviga como si nemo te spia.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
-        [macos] Retene le navigation private de { -brand-short-name } in Dock
-       *[other] Appuncta le navigation private de { -brand-short-name } al barra del activitates
+        [macos] Retener le navigation private de { -brand-short-name } in Dock
+       *[other] Clavar le navigation private de { -brand-short-name } al barra de activitates
     }
 
 ## MR2022 Privacy Segmentation screen strings

@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cercar
     .aria-label = Cercar
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cercar con { $engine } o inserer un adresse
 newtab-search-box-handoff-text-no-engine = Cercar o inserer un adresse
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Cercar con { $engine } o inserer adresse
     .title = Cercar con { $engine } o inserer adresse
@@ -86,7 +86,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = Remover
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Aperir le menu
     .aria-label = Aperir le menu contextual pro { $title }
@@ -102,7 +102,7 @@ newtab-menu-open-new-window = Aperir in un nove fenestra
 newtab-menu-open-new-private-window = Aperir in un nove fenestra private
 newtab-menu-dismiss = Dimitter
 newtab-menu-pin = Fixar
-newtab-menu-unpin = Disfixar
+newtab-menu-unpin = Disclavar
 newtab-menu-delete-history = Deler del chronologia
 newtab-menu-save-to-pocket = Salvar in { -pocket-brand-name }
 newtab-menu-delete-pocket = Deler de { -pocket-brand-name }
@@ -120,7 +120,7 @@ newtab-privacy-modal-link = Saper plus sur le respecto del vita private in le pa
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = Remover marcapagina
+newtab-menu-remove-bookmark = Remover le marcapaginas
 # Bookmark is a verb here.
 newtab-menu-bookmark = Adder marcapagina
 
@@ -154,16 +154,16 @@ newtab-label-saved = Salvate in { -pocket-brand-name }
 newtab-label-download = Discargate
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorisate
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorisate per { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -192,7 +192,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Sitos preferite
 newtab-section-header-recent-activity = Recente activitate
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recommendate per { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -200,7 +200,7 @@ newtab-section-header-pocket = Recommendate per { $provider }
 newtab-empty-section-highlights = Comencia a navigar e nos te monstrara hic alcunes del excellente articulos, videos e altere paginas que tu ha recentemente visitate o addite al marcapaginas.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Tu ja es toto al currente. Reveni plus tarde pro plus historias popular de { $provider }. Non vole attender? Selige un subjecto popular pro discoperir altere articulos interessante sur le web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -249,6 +249,8 @@ newtab-error-fallback-refresh-link = Refresca le pagina pro tentar de novo.
 
 newtab-custom-shortcuts-title = Accessos directe
 newtab-custom-shortcuts-subtitle = Sitos que tu salva o visita
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } linea
