@@ -76,11 +76,18 @@ autofill-add-new-card-title = ເພີ່ມບັດເຄຣດິດໃໝ�
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ແກ້ໄຂບັດເຄຣດິດ
 autofill-card-number = ເລກບັດ
+autofill-card-invalid-number = ກະລຸນາໃສ່ໝາຍເລກບັດທີ່ຖືກຕ້ອງ
 autofill-card-name-on-card = ຊື່ໃນບັດ
+autofill-card-expires-month = ໝົດອາຍຸ ເດືອນ
+autofill-card-expires-year = ໝົດອາຍຸ ປີ
+autofill-card-billing-address = ທີ່ຢູ່ໃບບິນ
 autofill-card-network = ປະເພດບັດ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
 autofill-card-network-discover = ຄົ້ນພົບ
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
