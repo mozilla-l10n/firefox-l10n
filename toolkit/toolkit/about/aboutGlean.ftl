@@ -29,6 +29,14 @@ about-glean-interface-description =
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.
 about-glean-upload-enabled-local = Dataopplasting er berre aktivert for sending til ein lokal server.
+about-glean-upload-fake-enabled =
+    Dataopplasting er deaktivert,
+    men vi lyg og fortel { glean-sdk-brand-name } at det er aktivert
+    slik at data framleis vert registrert lokalt.
+    Merk: Dersom du spesifiserer ein feilsøkingskode, vil ping bli lasta opp til
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> uavhengig av innstillingar.
 about-glean-about-testing-header = Om testing
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (ikkje send inn ping)
 controls-button-label-verbose = Bruk innstillingar og send inn ping
 about-glean-about-data-header = Om data
