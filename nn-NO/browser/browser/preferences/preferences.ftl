@@ -132,6 +132,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Slå av utviding
 preferences-data-migration-header = Importer nettlesardata
+preferences-data-migration-description = Importer bokmerke, passord, historikk og autofylldata til { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importer data
     .accesskey = m
@@ -974,6 +975,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Redusering av infoskapselbanner
+cookie-banner-handling-description = { -brand-short-name } prøver automatisk å avvise infokapselførespurnadar på infoskapselbanner på støtta nettstadar.
 cookie-banner-learn-more = Les meir
 forms-handle-cookie-banners =
     .label = Reduser infoskapselbanner
