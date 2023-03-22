@@ -217,3 +217,4 @@ permissions-site-microphone-disable-desc = Dette hindrar nettstadar som ikkje er
 permissions-site-speaker-window =
     .title = Innstillingar - Høgtalarløyve
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Følgjande nettstadar har bedt om å velje ei lyd ut-eining. Du kan spesifisere kva for nettstadar som har lov til å velje ei lyd ut-eining.
