@@ -21,6 +21,11 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Ping-visar for { -glean-brand-name }-feilsøking
 about-glean-page-title2 = Om { -glean-brand-name }
 about-glean-header = Om { -glean-brand-name }
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    er eit datainnsamlingsbibliotek som vert brukt i { -vendor-short-name }-prosjekt.
+    Dette grensesnittet er designa for å brukast av utviklarar og testarar for å manuelt
+    <a data-l10n-name="fog-link">teste instrumentering</a>.
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.
 about-glean-upload-enabled-local = Dataopplasting er berre aktivert for sending til ein lokal server.
