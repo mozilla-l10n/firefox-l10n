@@ -150,11 +150,11 @@ spotlight-public-wifi-vpn-link = ახლა არა
 spotlight-total-cookie-protection-header =
     პირველმა გამოცადეთ ყველაზე მძლავრი
     საშუალება პირადულობისთვის, რაც აქამდე შექმნილა
-spotlight-total-cookie-protection-body = ფუნთუშების სრული გამიჯვნის შედეგად, მეთვალყურეები ვეღარ გადევნებენ ვებსივრცეში თვალს, ფუნთუშების გამოყენებით.
+spotlight-total-cookie-protection-body = ფუნთუშებისგან ყოველმხრივი დაცვის შედეგად, მეთვალყურეები ვეღარ გადევნებენ ვებსივრცეში თვალს ფუნთუშების მეშვეობით.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } ზღუდეს შემოავლებს ფუნთუშებს, რომ ვერ გასცდეს იმ საიტს, რომელზეც იმყოფებით და მეთვალყურეებიც ვეღარ დაგედევნებიან. ადრეული წვდომით, დაგვეხმარებით ამ შესაძლებლობის დახვეწაში, შედეგად შევძლებთ გავხადოთ ვებსამყარო უკეთესი, ყველასათვის.
-spotlight-total-cookie-protection-primary-button = ჩართეთ ფუნთუშების სრული გამიჯვნა
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ზღუდეს შემოავლებს ფუნთუშებს, რომ ვერ გასცდეს იმ საიტს, რომელზეც იმყოფებით და მეთვალყურეებიც ვეღარ დაგედევნებიან. ადრეული წვდომით დაგვეხმარებით ამ შესაძლებლობის დახვეწაში, შედეგად, შევძლებთ გავხადოთ ვებსამყარო უკეთესი ყველასათვის.
+spotlight-total-cookie-protection-primary-button = ჩართეთ ფუნთუშებისგან ყოველმხრივი დაცვა
 spotlight-total-cookie-protection-secondary-button = ახლა არა
 
 ## Emotive Continuous Onboarding
