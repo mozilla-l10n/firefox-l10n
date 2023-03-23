@@ -71,3 +71,6 @@ about-glean-label-for-controls-submit =
     <code>{ $debug-tag }</code>.)
 controls-button-label-verbose = Bruk innstillingar og send inn ping
 about-glean-about-data-header = Om data
+about-glean-about-data-explanation =
+    For å sjå gjennom lista over innsamla data, sjå
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
