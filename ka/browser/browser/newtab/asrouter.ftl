@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } მომხმარებელი
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = ფუნთუშის მოთხოვნის აბრებო, გაქრით!
-cfr-cookie-banner-handling-body = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს ფუნთუშების ყველა მოთხოვნას, როცა კი შესაძლებელია. თუ არადა ყველა ფუნთუშის თანხმობით მოცილდება კიდევ უფრო მეტი აბრა.
-cfr-cookie-banner-accept-button = მოთხოვნების არიდება
-    .accesskey = რ
-cfr-cookie-banner-reject-button = ახლა არა
-    .accesskey = ა
-cfr-cookie-banner-handling-header-variant-1 = იხილეთ ნაკლები ამომხტარი მოთხოვნები
-cfr-cookie-banner-handling-body-variant-1 = დართეთ ნება და { -brand-short-name } თავადვე უპასუხებს ფუნთუშების ამომხტარ მოთხოვნებს, რომ შეუფერხებლად განაგრძოთ გვერდების მონახულება. { -brand-short-name } უარყოფს ყველას, როცა კი შესაძლებელია, თუ არადა – ყველას დათანხმდება.
-cfr-cookie-banner-accept-button-variant-1 = ამომხტომების არიდება
-    .accesskey = რ
-cfr-cookie-banner-reject-button-variant-1 = არა, გმადლობთ
-    .accesskey = ა
-cfr-cookie-banner-handling-header-variant-2 = ფუნთუშის მოთხოვნების შემცირება
-cfr-cookie-banner-handling-body-variant-2 = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს საიტის მიერ ფუნთუშების მოთხოვნას, როცა კი შესაძლებელი იქნება, ანდა თანხმობით იცილებდეს.
-cfr-cookie-banner-accept-button-variant-2 = ნებართვა
-    .accesskey = ნ
-cfr-cookie-banner-reject-button-variant-2 = ახლა არა
-    .accesskey = ა
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = დაასინქრონეთ სანიშნები ყველგან.
@@ -268,9 +245,18 @@ cfr-cookiebanner-accept-button-variant-2 = ნებართვა
     .accesskey = ნ
 cfr-cookiebanner-reject-button-variant-2 = ახლა არა
     .accesskey = ა
+cfr-cbh-header = გსურთ, { -brand-short-name } უარყოფდეს ფუნთუშების ნებართვებს?
+cfr-cbh-body = { -brand-short-name } თავადვე უარყოფს ფუნთუშის მოთხოვნების უმეტესობას.
+cfr-cbh-confirm-button = ფუნთუშის მოთხოვნების უარყოფა
+    .accesskey = უ
+cfr-cbh-dismiss-button = ახლა არა
+    .accesskey = ა
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = ჩვენ გიცავთ
 july-jam-body = ყოველთვიურად, { -brand-short-name } ზღუდავს საშუალოდ 3000+ მეთვალყურეს თითოეულ მომხმარებელზე, შედეგად იღებთ უსაფრთხო, სწრაფ წვდომას ჯანსაღ ინტერნეტსივრცესთან.
 july-jam-set-default-primary = ბმულებს გახსნის { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
