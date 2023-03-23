@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } ანგარიშის მონაცემი
        *[other] { $count } ანგარიშის მონაცემი
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } სულ { $total } ანგარიშიდან
+       *[other] { $count } სულ { $total } ანგარიშიდან
+    }
 login-list-sort-label-text = დალაგება:
 login-list-name-option = სახელი (ა-ჰ)
 login-list-name-reverse-option = სახელი (ჰ-ა)

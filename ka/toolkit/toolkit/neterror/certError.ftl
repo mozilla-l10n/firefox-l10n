@@ -6,13 +6,13 @@
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } უსაფრთხოების უმართებულო სერტიფიკატს იყენებს.
 cert-error-mitm-intro = ვებსაიტები საკუთარ ნამდვილობას ადასტურებს სერტიფიკატებით, გამოშვებული უფლებამოსილი გამომცემლების მიერ.
-cert-error-mitm-mozilla = { -brand-short-name } მხარდაჭერილია არამომგებიანი Mozilla-ს მიერ, რომელიც ხელმძღვანელობს სერტიფიკატების გამცემი უწყებების (CA), სრულიად ღია საცავს. ეს CA-საცავი საშუალებას აძლევს სერტიფიკატების გამცემებს სრულად მიჰყვნენ მომხმარებლის უსაფრთხოების დაცვის დადგენილებებს.
+cert-error-mitm-mozilla = { -brand-short-name } მხარდაჭერილია არამომგებიანი Mozilla-ს მიერ, რომელიც ხელმძღვანელობს სერტიფიკატების გამცემთა (CA) სრულიად ღია საცავს. ეს CA-საცავი საშუალებას აძლევს სერტიფიკატების გამცემებს სრულად მიჰყვნენ მომხმარებლის უსაფრთხოების დაცვის დადგენილებებს.
 cert-error-mitm-connection = { -brand-short-name } დაცული კავშირის დასამოწმებლად იყენებს Mozilla-ს CA-საცავს, ნაცვლად მომხმარებლის საოპერაციო სისტემის მოწოდებული სერტიფიკატებისა. ასე რომ, თუ ანტივირუსი ან ქსელი შეეცდება კავშირში ჩართოს უსაფრთხოების სერტიფიკატი, გამოშვებული იმ გამომცემის მიერ, რომელიც არაა Mozilla-ს CA-საცავში, კავშირი მიჩნეული იქნება საფრთხის შემცველად.
 cert-error-trust-unknown-issuer-intro = შესაძლოა, ვიღაც ამ საიტის სხვა საიტად გასაღებას ცდილობდეს და ჯობია, აღარ განაგრძოთ.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = ვებსაიტები საკუთარ ნამდვილობას სერტიფიკატებით ადასტურებს. { -brand-short-name } არ ენდობა საიტს { $hostname }, რადგან მისი უსაფრთხოების სერტიფიკატის გამომშვები უცნობია, შეიძლება თავადვე აქვთ ხელმოწერილი ან სერვერი სწორად არ აგზავნის შუალედურ სერტიფიკატებს.
-cert-error-trust-cert-invalid = სერტიფიკატი სანდო არაა, რადგან სერტიფიცირების უცნობი სააგენტოს მიერაა გაცემული.
+cert-error-trust-cert-invalid = სერტიფიკატი სანდო არაა, რადგან სერტიფიკატების დაუდგენელი გამცემისგანაა.
 cert-error-trust-untrusted-issuer = სერტიფიკატი სანდო არაა, რადგან სერტიფიკატის გამცემი ასევე არსანდოა.
 cert-error-trust-signature-algorithm-disabled = ეს სერტიფიკატი არაა სანდო, ვინაიდან ხელმოწერილია იმ ალგორითმის საშუალებით, რომელიც გაუქმდა დაუცველობის გამო.
 cert-error-trust-expired-issuer = სერტიფიკატი სანდო არაა, რადგან სერტიფიკატის გამცემის მოქმედების ვადა გასულია.
@@ -80,10 +80,10 @@ dnsNotFound-title = ჰმ. გვერდი არ იხსნება.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = შესაძლო საფრთხეს შეიცავს { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = შესაძლო საფრთხე ამ მისამართის მოძიებისას
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = შესაძლო საფრთხეს შეიცავს { $hostname }.
+dns-not-found-trr-only-title2 = შესაძლო საფრთხე ამ მისამართის მოძიებისას
+dns-not-found-native-fallback-title2 = შესაძლო საფრთხე ამ მისამართის მოძიებისას
 fileNotFound-title = ფაილი ვერ მოიძებნა
 fileAccessDenied-title = ფაილთან წვდომა უარყოფილია.
 generic-title = მოთხოვნის დასრულება ვერ ხერხდება
