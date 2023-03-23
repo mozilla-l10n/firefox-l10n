@@ -11,7 +11,8 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = टैग जोड़ू
-
+pocket-panel-saved-error-generic = { -pocket-brand-name } सहेजबाक दौरान एकटा त्रुटि भेल।
+pocket-panel-saved-error-tag-length = टैग 25 वर्ण तकि सीमित अछि।
 pocket-panel-saved-error-only-links = केवल लिंक सहेजल जाए सकत
 pocket-panel-saved-error-not-saved = पेज नहि सहेजल गेल
 pocket-panel-saved-page-removed = पेज हटाउ
@@ -26,7 +27,6 @@ pocket-panel-saved-saving-tags = सहेजि रहल अछि…
 pocket-panel-saved-suggested-tags = टैग सुझाबू
 pocket-panel-saved-tags-saved = टैग जोड़ू
 pocket-panel-signup-view-list = सूची देखू
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = टैग जोड़ू:
 
