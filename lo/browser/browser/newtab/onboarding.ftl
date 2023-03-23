@@ -233,6 +233,11 @@ fx100-thank-you-hero-text =
     <span data-l10n-name="zap">ທ່ານ</span>
 fx100-thank-you-subtitle = ມັນ​ເປັນ​ການ​ປ່ອຍ​ຄັ້ງ​ທີ 100 ຂອງ​ພວກ​ເຮົາ​! ຂອບໃຈທີ່ຊ່ວຍພວກເຮົາສ້າງອິນເຕີເນັດທີ່ດີຂຶ້ນ ແລະສຸຂະພາບດີ.
 fx100-upgrade-thanks-header = 100 ຂອບໃຈ
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = ມັນເປັນການເປີດຕົວຄັ້ງທີ 100 ຂອງ { -brand-short-name } ຂອງພວກເຮົາ. ຂອບໃຈ <em>ທ່ານ</em> ທີ່ຊ່ວຍພວກເຮົາສ້າງອິນເຕີເນັດທີ່ດີຂຶ້ນ ແລະ ມີສຸຂະພາບດີ.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = ມັນ​ເປັນ​ການ​ປ່ອຍ​ຄັ້ງ​ທີ 100 ຂອງ​ພວກ​ເຮົາ​! ຂອບໃຈສຳລັບການມີສ່ວນຮ່ວມຊຸມຊົນ. ຮັກສາ { -brand-short-name } ຄລິກດຽວເພື່ອ 100 ຕໍ່ໄປ.
 mr2022-onboarding-secondary-skip-button-label = ຂ້າມຂັ້ນຕອນນີ້
 
 ## MR2022 New User Easy Setup screen strings

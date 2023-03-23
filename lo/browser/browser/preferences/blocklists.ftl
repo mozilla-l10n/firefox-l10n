@@ -8,6 +8,7 @@ blocklist-window =
 blocklist-window2 =
     .title = ລາຍການບັອກ
     .style = min-width: 55em
+blocklist-description = ເລືອກລາຍການທີ່ { -brand-short-name } ໃຊ້ເພື່ອບລັອກຕົວຕິດຕາມອອນລາຍ. ລາຍການສະໜອງໃຫ້ໂດຍ <a data-l10n-name="disconnect-link" title="Disconnect">ຕັດການເຊື່ອມຕໍ່</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

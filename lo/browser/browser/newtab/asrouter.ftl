@@ -231,9 +231,7 @@ cfr-cookiebanner-accept-button-variant-2 = ອະນຸຍາດ
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
-
-## Cookie Banner Handling CFR
-
+cfr-cbh-body = { -brand-short-name } ສາມາດປະຕິເສດຄຳຮ້ອງຂໍປ້າຍໂຄສະນາຄຸກກີໄດ້ໂດຍອັດຕະໂນມັດ.
 cfr-cbh-confirm-button = ປະຕິເສດປ້າຍໂຄສະນາຄຸກກີ
     .accesskey = R
 cfr-cbh-dismiss-button = ບໍ່​ແມ່ນ​ຕອນ​ນີ້
@@ -247,4 +245,5 @@ july-jam-set-default-primary = ເປີດລິ້ງຂອງຂ້ອຍດ�
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>ໄຟລ໌ PDF ຂອງເຈົ້າຕອນນີ້ເປີດຢູ່ໃນ { -brand-short-name }.</strong> ແກ້ໄຂ ຫຼືເຊັນແບບຟອມໂດຍກົງໃນໂປຣແກຣມທ່ອງເວັບຂອງເຈົ້າ. ເພື່ອປ່ຽນແປງ, ຊອກຫາ "PDF" ໃນການຕັ້ງຄ່າ.
 set-default-pdf-handler-primary = ເຂົ້າໃຈແລ້ວ!
