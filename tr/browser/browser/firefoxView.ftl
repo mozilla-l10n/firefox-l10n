@@ -70,14 +70,13 @@ firefoxview-pickup-tabs-badge = Son bakılan
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } adresini yeni sekmede aç
 firefoxview-try-colorways-button = Renk kuşaklarını deneyin
-firefoxview-no-current-colorway-collection = Yeni renk kuşakları yolda
 firefoxview-change-colorway-button = Renk kuşağını değiştir
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Henüz görülecek bir şey yok
-firefoxview-synced-tabs-placeholder-body = Başka bir cihazdaki { -brand-product-name } tarayıcınızda bir sayfa açtığınızda o sayfayı burada görebilirsiniz.
+firefoxview-synced-tabs-placeholder-body = Başka bir cihazdaki { -brand-product-name } tarayıcınızda açtığınız sayfaları burada görebilirsiniz.
 firefoxview-collapse-button-show =
     .title = Listeyi göster
 firefoxview-collapse-button-hide =

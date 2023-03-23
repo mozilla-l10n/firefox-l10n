@@ -975,6 +975,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Çerez bildirimlerini azaltma
+cookie-banner-handling-description = { -brand-short-name }, desteklenen sitelerdeki çerez isteklerini otomatik olarak reddetmeye çalışır.
 cookie-banner-learn-more = Daha fazla bilgi al
 forms-handle-cookie-banners =
     .label = Çerez bildirimlerini azalt
@@ -1118,6 +1119,8 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Ayarlar…
     .accesskey = r
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Hoparlör seçimi
 permissions-speaker-settings =
     .label = Ayarlar…
     .accesskey = A
