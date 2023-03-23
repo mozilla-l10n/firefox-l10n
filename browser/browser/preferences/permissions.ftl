@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Lütfen geçerli bir sunucu adı girin
 permissions-exceptions-etp-window =
     .title = Gelişmiş İzlenme Koruması İstisnaları
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Aşağıdaki web sitelerinde korumaları kapattınız.
 permissions-exceptions-etp-window2 =
     .title = Gelişmiş İzlenme Koruması İstisnaları
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Aşağıdaki web sitelerinde korumaları kapattınız.
 permissions-exceptions-manage-etp-desc = Gelişmiş izlenme korumasının hangi sitelerde kapalı kalacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazıp "İstisna ekle"ye tıklayın.
 
 ## Exceptions - Cookies
@@ -209,3 +209,11 @@ permissions-site-microphone-desc = Aşağıdaki web siteleri mikrofonunuza eriş
 permissions-site-microphone-disable-label =
     .label = Mikrofonuma erişme isteklerini sormadan engelle
 permissions-site-microphone-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi mikrofonunuza erişme isteğinde bulunamayacaktır. Mikrofon erişimini engellerseniz bazı site özellikleri çalışmayabilir.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Ayarlar - Hoparlör İzinleri
+    .style = { permissions-window2.style }
