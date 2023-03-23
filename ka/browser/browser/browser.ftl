@@ -808,6 +808,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = ბმულის ელფოსტით გაგზავნა
     .tooltiptext = გვერდის ბმულის ელფოსტით გაგზავნა
+toolbar-button-logins =
+    .label = პაროლები
+    .tooltiptext = იხილეთ და მართეთ შენახული პაროლები
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

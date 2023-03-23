@@ -285,6 +285,8 @@ webgl2-renderer = WebGL2 რენდერერი
 webgl2-version = WebGL 2 დრაივერის ვერსია
 webgl2-driver-extensions = WebGL 2 დრაივერის გაფართოებები
 webgl2-extensions = WebGL 2 გაფართოებები
+webgpu-default-adapter = WebGPU-ის ნაგულისხმევი მოწყობილობა
+webgpu-fallback-adapter = WebGPU-ის სათადარიგო მოწყობილობა
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = შეზღუდულთა სიაშია, შემდეგი მიზეზის გამო: <a data-l10n-name="bug-link">ხარვეზი { $bugNumber }</a>
