@@ -54,6 +54,12 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Om testing
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Fullstendige instruksjonar er dokumentert i
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } instrumenteringstestdokument</a>
+    og i <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }-dokumentasjonen</a>,
+    men kort sagt, for å manuelt teste at instrumenteringa fungerer, bør du:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ikkje send inn ping)
 # An in-line text input field precedes this string.
@@ -69,6 +75,17 @@ about-glean-label-for-controls-submit =
     Trykk på den føregåande knappen for å merke alle { -glean-brand-name }-pinga med taggen din og sende inn det valde pinget.
     (Alle ping som vert sende inn frå då og til du startar applikasjonen på nytt, vil bli merkte med
     <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Besøk sida { glean-debug-ping-viewer-brand-name } for ping med taggen din</a>.
+    Det bør ikkje ta meir enn nokre få sekund frå du trykkjer på knappen til pinget ditt kjem.
+    Nokre gongar kan det ta nokre minutt.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    For meir <i>ad hoc</i>-testing,
+    kan du òg bestemme gjeldande verdi for eit bestemt instrument
+    ved å opne ein devtools-konsoll her på <code>about:glean</code>
+    og bruke <code>testGetValue()</code> API som
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Bruk innstillingar og send inn ping
 about-glean-about-data-header = Om data
 about-glean-about-data-explanation =
