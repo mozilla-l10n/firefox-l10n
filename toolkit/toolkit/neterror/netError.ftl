@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ვერ 
 neterror-dns-not-found-native-fallback-attackers = შეგიძლიათ, განაგრძოთ დაუცველი DNS-გადამყვანის გამოყენება. თუმცაღა გარეშე პირებს ალბათ მაინც შეეძლებათ იხილონ, რომელ გვერდებს ეწვევით ან გადაგამისამართონ არასანდო საიტზე.
 neterror-dns-not-found-native-fallback-heuristic = DNS-თან HTTPS-კავშირი გათიშულია თქვენს ქსელში.
 neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain }-თან კავშირი ჯერ არაა მზად.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } და { $trrDomain } კავშირის დამყარებას ვერ ახერხებს.
 
 ##
 
