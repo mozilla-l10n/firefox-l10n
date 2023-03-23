@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Rhoi cyfeiriad e-bost dilys
 permissions-exceptions-etp-window =
     .title = Eithriadau ar gyfer Diogelwch Uwch Rhag Tracio
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Rydych wedi diffodd y diogelu ar y gwefannau hyn.
 permissions-exceptions-etp-window2 =
     .title = Eithriadau ar gyfer Diogelwch Uwch Rhag Tracio
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Rydych wedi diffodd y diogelu ar y gwefannau hyn.
 permissions-exceptions-manage-etp-desc = Gallwch nodi pa wefannau sydd â Diogelwch Uwch Rhg Tracio wedi'i ddiffodd. Teipiwch union gyfeiriad y wefan rydych chi am ei rheoli ac yna cliciwch ar Ychwanegu Eithriad.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Mae'r gwefannau canlynol wedi gofyn i gael my
 permissions-site-microphone-disable-label =
     .label = Rhwystro ceisiadau newydd sy'n gofyn i gael mynediad at eich meicroffon
 permissions-site-microphone-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd heb ei rhestru uchod rhag gofyn am ganiatâd i gael mynediad at eich meicroffon. Gall rhwystro mynediad at eich meicroffon dorri nodweddion rhai gwefannau.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Gosodiadau - Caniatâd Seinydd
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Mae'r gwefannau canlynol wedi gofyn i gael anfon hysbysiadau atoch. Gallwch ddewis pa wefannau sy'n cael anfon hysbysiadau atoch chi.

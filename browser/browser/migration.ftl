@@ -68,6 +68,8 @@ import-items-description = Dewis eitemau i'w mewnforio:
 import-permissions-page-title = Rhowch ganiatâd i { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = Mae macOS yn gofyn i chi ganiatáu’n benodol i { -brand-short-name } gael mynediad at nodau tudalen Safari. Cliciwch “Continue” a dewiswch y ffeil “Bookmarks.plist” yn y panel File Open sy'n ymddangos.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = Mae macOS yn gofyn i chi ganiatáu yn benodol i { -brand-short-name } gael mynediad i ddata Safari. Cliciwch "Continue", dewiswch y ffolder "Safari" yn neialog Finder sy'n ymddangos ac yna cliciwch ar "Open".
 import-migrating-page-title = Mewnforio…
 import-migrating-description = Mae'r eitemau canlynol yn cael eu mewnforio…
 import-select-profile-page-title = Dewis Proffil
