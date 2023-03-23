@@ -1061,9 +1061,9 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = ფუნთუშების სრული გამიჯვნით ყველა ფუნთუშა იმ საიტის საზღვრებშივე დარჩება, რომელზეც იმყოფებით და მეთვალყურეები ვეღარ დაგედევნებიან სხვა საიტებზე გადასვლისას.
+content-blocking-etp-standard-tcp-rollout-description = ფუნთუშებისგან ყოველმხრივი დაცვა ფუნთუშებს იმ საიტის საზღვრებშივე აქცევს, რომელზეც იმყოფებით და მეთვალყურეები ვეღარ დაგედევნებიან სხვა საიტებზე გადასვლისას.
 content-blocking-etp-standard-tcp-rollout-learn-more = ვრცლად
-content-blocking-etp-standard-tcp-title = მოიცავს ფუნთუშების სრულ გამიჯვნასაც, ჩვენს არნახულად მძლავრ საშუალებას პირადულობისთვის
+content-blocking-etp-standard-tcp-title = მოიცავს ფუნთუშებისგან ყოველმხრივ დაცვასაც, ჩვენს არნახულად მძლავრ საშუალებას პირადულობისთვის
 content-blocking-warning-title = ფრთხილად!
 content-blocking-and-isolating-etp-warning-description-2 = ამ პარამეტრებმა შეიძლება გამოიწვიოს გაუმართაობები ზოგიერთი საიტის შიგთავსის ჩვენებასა და მუშაობაში. თუ საიტი დაზიანდება, მოგიწევთ მისი გამოთიშვა თვალთვალისგან დაცვიდან შიგთავსის სრულად ჩასატვირთად.
 content-blocking-warning-learn-how = იხილეთ როგორ
