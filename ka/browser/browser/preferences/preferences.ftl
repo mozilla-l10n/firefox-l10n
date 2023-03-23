@@ -73,6 +73,17 @@ restart-later = მოგვიანებით გაშვება
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> განსაზღვრავს ამ პარამეტრს.
@@ -120,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = გაფრთხილება ბრაუზერის დახურვისას
 disable-extension =
     .label = გაფართოების ამორთვა
+preferences-data-migration-header = ბრაუზერის მონაცემების გადმოტანა
+preferences-data-migration-description = გადმოიტანეთ სანიშნები, ისტორია, შევსებული ველების მონაცემები და პირდაპირ გამოიყენებს { -brand-short-name }.
+preferences-data-migration-button =
+    .label = მონაცემთა გადმოტანა
+    .accesskey = ტ
 tabs-group-header = ჩანართები
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab წრიულად გადართვა ჩანართებზე, ბოლო გამოყენების რიგითობით.
@@ -132,7 +148,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = ფ
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +171,10 @@ browser-containers-settings =
     .label = პარამეტრები…
     .accesskey = პ
 containers-disable-alert-title = გსურთ ყველა სათავსი ჩანართის დახურვა?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] სათავსი ჩანართების გამორთვის შემთხვევაში, სათავსი ჩანართი დაიხურება. ნამდვილად გსურთ სათავსი ჩანართების გამორთვა?
@@ -165,10 +185,13 @@ containers-disable-alert-ok-button =
         [one] სათავსი ჩანართის დახურვა
        *[other] { $tabCount } სათავსი ჩანართის დახურვა
     }
+
+##
+
 containers-disable-alert-cancel-button = ჩართული დატოვება
 containers-remove-alert-title = გსურთ სათავსის წაშლა?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] თუ ამ სათავსს ახლავე წაშლით, ჩანართი დაიხურება. ნამდვილად გსურთ, სათავსის წაშლა?
@@ -230,6 +253,8 @@ advanced-fonts =
 preferences-zoom-header = ზომა
 preferences-default-zoom = ნაგულისხმევი ზომა
     .accesskey = ზ
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +347,15 @@ applications-manage-app =
 applications-always-ask =
     .label = შეკითხვა ყოველ ჯერზე
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } მოდული ({ -brand-short-name }-ში)
 applications-open-inapp =
@@ -373,6 +398,8 @@ play-drm-content =
 play-drm-content-learn-more = ვრცლად
 update-application-title = { -brand-short-name } – განახლებები
 update-application-description = მუდმივად განაახლეთ { -brand-short-name }, რომ შეინარჩუნოთ წარმადობა, მდგრადობა და უსაფრთხოება.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = ვერსია { $version } <a data-l10n-name="learn-more">რა არის ახალი</a>
 update-history =
     .label = განახლებების ისტორიის ჩვენება…
@@ -399,7 +426,7 @@ update-application-suppress-prompts =
     .accesskey = უ
 update-setting-write-failure-title2 = შეცდომა, განახლების პარამეტრების შენახვისას
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +456,7 @@ performance-limit-content-process-option = შიგთავსის პრო
 performance-limit-content-process-enabled-desc = შიგთავსის დამატებით პროცესებს, ბევრი ჩანართით სარგებლობისას, შეუძლია წარმადობის გაუმჯობესება, მაგრამ ასევე გამოიყენებს მეტ მეხსიერებას.
 performance-limit-content-process-blocked-desc = შიგთავსის პროცესების რაოდენობის შეცვლის შესაძლებლობას, მხოლოდ მრავალპროცესიანი { -brand-short-name } იძლევა. <a data-l10n-name="learn-more">იხილეთ, თუ როგორ უნდა შემოწმდეს ჩართულია თუ არა მრავალპროცესიანობა</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ნაგულისხმევი)
 
@@ -535,6 +562,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } გირჩევთ
 home-prefs-recommended-by-description-new = გამორჩეული მასალები, რომელსაც { $provider } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
@@ -564,6 +595,8 @@ home-prefs-recent-activity-description = ბოლოს ნანახი ს�
 home-prefs-snippets-header =
     .label = ცნობები
 home-prefs-snippets-description-new = რჩევები და სიახლეები, რომელთაც გთავაზობთ { -vendor-short-name } და { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +661,7 @@ search-find-more-link = სხვა საძიებო სისტემე
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = საკვანძო სიტყვა უკვე გამოყენებულია
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს "{ $name }". გთხოვთ, შეარჩიოთ სხვა.
 search-keyword-warning-bookmark = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს სანიშნი. გთხოვთ, შეარჩიოთ სხვა.
 
@@ -675,8 +708,15 @@ sync-sign-out =
     .accesskey = გ
 sync-manage-account = ანგარიშის მართვა
     .accesskey = მ
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+
+##
+
 sync-resend-verification =
     .label = ხელახლა გამოგზავნა დასამოწმებლად
     .accesskey = ხ
@@ -890,8 +930,8 @@ history-clear-button =
 sitedata-header = ფუნთუშები და საიტის მონაცემები
 sitedata-total-size-calculating = ითვლება საიტის მუდმივი და დროებითი მონაცემების მოცულობა…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = თქვენ მიერ შენახულ ფუნთუშებს, ასევე საიტის მუდმივ და დროებით მონაცემებს ამჟამად დისკზე უკავია { $value } { $unit }.
 sitedata-learn-more = ვრცლად
 sitedata-delete-on-close =
@@ -931,6 +971,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = გამონაკლისების მართვა
     .accesskey = კ
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = ფუნთუშის მოთხოვნების შემცირება
+cookie-banner-handling-description = { -brand-short-name } ეცდება თავადვე უარყოს ფუნთუშების ყველა მოთხოვნა მხარდაჭერილ საიტებზე.
+cookie-banner-learn-more = ვრცლად
+forms-handle-cookie-banners =
+    .label = შეამცირეთ ფუნთუშის მოთხოვნები
 
 ## Privacy Section - Address Bar
 
@@ -1073,6 +1121,11 @@ permissions-microphone = მიკროფონი
 permissions-microphone-settings =
     .label = პარამეტრები…
     .accesskey = პ
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = ხმამაღლამოლაპარაკის არჩევა
+permissions-speaker-settings =
+    .label = პარამეტრები…
+    .accesskey = ტ
 permissions-notification = შეტყობინებები
 permissions-notification-settings =
     .label = პარამეტრები…

@@ -67,7 +67,9 @@ import-items-page-title = გადმოსატანი მონაცე�
 import-items-description = მიუთითეთ გადმოსატანი მონაცემები:
 import-permissions-page-title = { -brand-short-name } გთხოვთ ნებართვებს
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS საჭიროებს, რომ { -brand-short-name } თქვენი საგანგებო დაშვებით დაუკავშირდეს Safari-ის სანიშნებს. დაწკაპეთ „გაგრძელება” და აირჩიეთ „Bookmarks.plist“ ფაილი, ასარჩევი არედან.
+import-permissions-description = macOS ითხოვს, რომ { -brand-short-name } მხოლოდ თქვენ მიერ საგანგებოდ გაცემული ნებართვით დაუკავშირდეს Safari-ის სანიშნებს. დაწკაპეთ „გაგრძელება” და აირჩიეთ „Bookmarks.plist“ ფაილი ასარჩევ არეში.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS ითხოვს, რომ { -brand-short-name } მხოლოდ თქვენ მიერ საგანგებოდ გაცემული ნებართვით დაუკავშირდეს Safari-ს მონაცემებს. დაწკაპეთ „გაგრძელება” და აირჩიეთ Safari-ს საქაღალდე ასარჩევ არეში.
 import-migrating-page-title = გადმოტანა…
 import-migrating-description = გადმოვა შემდეგი მონაცემები…
 import-select-profile-page-title = პროფილის არჩევა
