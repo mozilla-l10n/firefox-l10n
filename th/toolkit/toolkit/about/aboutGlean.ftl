@@ -73,5 +73,30 @@ about-glean-label-for-ping-names =
     Ping <code>events</code>
     และค่าเริ่มต้นสำหรับเมตริกทั้งหมดคือ
     Ping <code>metrics</code>
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (ไม่บังคับ ทำเครื่องหมายที่ช่องก่อนหน้าหากคุณต้องการให้ Ping ถูกบันทึกเมื่อมีการส่ง
+    คุณจะต้อง<a data-l10n-name="enable-logging-link">เปิดใช้งานการบันทึก</a>เพิ่มเติม)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    กดปุ่มก่อนหน้าเพื่อแท็ก { -glean-brand-name } ping ทั้งหมดด้วยแท็กของคุณ และส่ง Ping ที่เลือก
+    (Ping ทั้งหมดที่ส่งมานับจากนั้นจนกว่าคุณจะเริ่มแอปพลิเคชันใหม่จะถูกแท็กด้วย
+    <code>{ $debug-tag }</code>)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">เข้าไปที่หน้า { glean-debug-ping-viewer-brand-name } เพื่อส่ง Ping กับแท็กของคุณ</a>
+    ปกติจะใช้เวลาเพียงไม่กี่วินาทีในการกดปุ่มจนกว่า Ping ของคุณจะมาถึง
+    แต่บางครั้งก็อาจใช้เวลามากเพียงไม่กี่นาที
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    สำหรับการทดสอบ<i>เฉพาะกิจ</i>เพิ่มเติม
+    คุณยังสามารถกำหนดค่าปัจจุบันของเครื่องมือเฉพาะชิ้นได้อีกด้วย
+    โดยเปิดคอนโซล devtools ที่นี่ใน <code>about:glean</code>
+    และใช้ <code>testGetValue()</code> API เช่น
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
 controls-button-label-verbose = นำการตั้งค่าไปใช้และส่ง ping
 about-glean-about-data-header = เกี่ยวกับข้อมูล
+about-glean-about-data-explanation =
+    หากต้องการเรียกดูรายการข้อมูลที่รวบรวม โปรดดูที่
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>
