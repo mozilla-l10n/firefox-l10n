@@ -24,6 +24,7 @@ about-logging-title = Σχετικά με την καταγραφή
 about-logging-page-title = Διαχείριση καταγραφής
 about-logging-current-log-file = Τρέχον αρχείο καταγραφής:
 about-logging-new-log-file = Νέο αρχείο καταγραφής:
+about-logging-currently-enabled-log-modules = Τρέχουσες ενεργές μονάδες καταγραφής:
 about-logging-log-tutorial = Δείτε την <a data-l10n-name="logging">Καταγραφή HTTP</a> για οδηγίες σχετικά με τη χρήση αυτού του εργαλείου.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Άνοιγμα καταλόγου
@@ -56,5 +57,8 @@ about-logging-error = Σφάλμα:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Μη έγκυρη τιμή «{ $v }» για το κλειδί «{ $k }»
+about-logging-unknown-logging-preset = Άγνωστη προκαθορισμένη τιμή καταγραφής «{ $v }»
+about-logging-unknown-profiler-preset = Άγνωστη προκαθορισμένη τιμή καταγραφής σε προφίλ «{ $v }»
 about-logging-unknown-option = Άγνωστη επιλογή about:logging «{ $k }»
+about-logging-file-and-profiler-override = Δεν είναι δυνατή η ταυτόχρονη επιβολή της εξόδου αρχείου και της παράκαμψης των επιλογών του εργαλείου προφίλ
 about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μέσω URL

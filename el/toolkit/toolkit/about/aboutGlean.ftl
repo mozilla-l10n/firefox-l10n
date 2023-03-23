@@ -50,6 +50,17 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Σχετικά με τη δοκιμή
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (χωρίς υποβολή ping)
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Προαιρετικό. Επιλέξτε το προηγούμενο πλαίσιο ελέγχου εάν θέλετε να καταγράφονται και τα ping κατά την υποβολή τους.
+    Θα χρειαστεί επίσης να <a data-l10n-name="enable-logging-link">ενεργοποιήσετε την καταγραφή</a>.)
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Για περισσότερες δοκιμές <i>ad hoc</i>,
+    μπορείτε να καθορίσετε την τρέχουσα τιμή ενός συγκεκριμένου τμήματος ενοργάνισης
+    ανοίγοντας μια κονσόλα devtools εδώ στο <code>about:glean</code>
+    και χρησιμοποιώντας το <code>testGetValue()</code> API όπως το
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Εφαρμογή ρυθμίσεων και υποβολή ping
 about-glean-about-data-header = Σχετικά με τα δεδομένα
 about-glean-about-data-explanation =
