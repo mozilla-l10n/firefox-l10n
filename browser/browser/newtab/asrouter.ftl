@@ -55,29 +55,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } ผู้ใช้
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = เอาแบนเนอร์คุกกี้ออกไปให้พ้น!
-cfr-cookie-banner-handling-body = อนุญาตให้ { -brand-short-name } ปฏิเสธคำขอแบนเนอร์คุกกี้ทั้งหมดโดยอัตโนมัติเมื่อเป็นไปได้ ไม่เช่นนั้นคุกกี้ทั้งหมดจะถูกยอมรับเพื่อปิดแบนเนอร์คุกกี้เพิ่มมากขึ้น
-cfr-cookie-banner-accept-button = ปิดคำขอ
-    .accesskey = ป
-cfr-cookie-banner-reject-button = ไม่ใช่ตอนนี้
-    .accesskey = ม
-cfr-cookie-banner-handling-header-variant-1 = เห็นป๊อปอัปคุกกี้น้อยลง
-cfr-cookie-banner-handling-body-variant-1 = ให้ { -brand-short-name } ตอบป๊อปอัปคุกกี้ให้คุณโดยอัตโนมัติเพื่อให้คุณท่องเว็บได้โดยปราศจากสิ่งรบกวน { -brand-short-name } จะปฏิเสธคำขอทั้งหมดเมื่อเป็นไปได้ หรือยอมรับทั้งหมดเมื่อเป็นไปไม่ได้
-cfr-cookie-banner-accept-button-variant-1 = ปิดป๊อปอัป
-    .accesskey = ป
-cfr-cookie-banner-reject-button-variant-1 = ไม่ ขอบคุณ
-    .accesskey = ม
-cfr-cookie-banner-handling-header-variant-2 = การลดแบนเนอร์คุกกี้
-cfr-cookie-banner-handling-body-variant-2 = อนุญาตให้ { -brand-short-name } ปฏิเสธคำขอยินยอมคุกกี้ของไซต์เมื่อเป็นไปได้ หรือยอมรับการเข้าถึงคุกกี้เมื่อเป็นไปไม่ได้หรือไม่?
-cfr-cookie-banner-accept-button-variant-2 = อนุญาต
-    .accesskey = อ
-cfr-cookie-banner-reject-button-variant-2 = ไม่ใช่ตอนนี้
-    .accesskey = ม
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = ซิงค์ที่คั่นหน้าของคุณได้ทุกที่
@@ -265,9 +242,18 @@ cfr-cookiebanner-accept-button-variant-2 = อนุญาต
     .accesskey = อ
 cfr-cookiebanner-reject-button-variant-2 = ไม่ใช่ตอนนี้
     .accesskey = ม
+cfr-cbh-header = อนุญาตให้ { -brand-short-name } ปฏิเสธแบนเนอร์คุกกี้หรือไม่?
+cfr-cbh-body = { -brand-short-name } สามารถปฏิเสธคำขอคุกกี้จำนวนมากได้โดยอัตโนมัติ
+cfr-cbh-confirm-button = ปฏิเสธแบนเนอร์คุกกี้
+    .accesskey = ป
+cfr-cbh-dismiss-button = ไม่ใช่ตอนนี้
+    .accesskey = ม
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = เราปกป้องคุณอย่างครอบคลุม
 july-jam-body = ทุกเดือน { -brand-short-name } ปิดกั้นตัวติดตามเฉลี่ย 3,000+ ตัวต่อผู้ใช้หนึ่งคน ทำให้คุณเข้าถึงอินเทอร์เน็ตที่ดีได้อย่างปลอดภัยและรวดเร็ว
 july-jam-set-default-primary = เปิดลิงก์ของฉันด้วย { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
