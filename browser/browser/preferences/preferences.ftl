@@ -953,6 +953,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = การลดแบนเนอร์คุกกี้
+cookie-banner-handling-description = { -brand-short-name } จะพยายามปฏิเสธคำขอคุกกี้บนไซต์ที่รองรับโดยอัตโนมัติ
+cookie-banner-learn-more = เรียนรู้เพิ่มเติม
+forms-handle-cookie-banners =
+    .label = ลดแบนเนอร์คุกกี้
 
 ## Privacy Section - Address Bar
 
