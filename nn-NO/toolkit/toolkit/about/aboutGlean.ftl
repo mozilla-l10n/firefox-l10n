@@ -56,5 +56,18 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Om testing
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ikkje send inn ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Sørg for at det i det føregåande feltet er ein feilsøkingskode som du kan hugse, slik at du kan kjenne att pinga dine seinare.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Valfritt. Kryss av i den føregåande boksen dersom du vil at pinga også skal loggast når dei vert sende inn.
+    Du må i tillegg <a data-l10n-name="enable-logging-link">aktivere logging</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Trykk på den føregåande knappen for å merke alle { -glean-brand-name }-pinga med taggen din og sende inn det valde pinget.
+    (Alle ping som vert sende inn frå då og til du startar applikasjonen på nytt, vil bli merkte med
+    <code>{ $debug-tag }</code>.)
 controls-button-label-verbose = Bruk innstillingar og send inn ping
 about-glean-about-data-header = Om data
