@@ -79,10 +79,10 @@ permissions-invalid-uri-label = გთხოვთ მიუთითოთ ს�
 permissions-exceptions-etp-window =
     .title = გამონაკლისები, თვალთვალისგან გაძლიერებული დაცვის
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = ამ საიტებისთვის დაცვა გამორთული გაქვთ
 permissions-exceptions-etp-window2 =
     .title = გამონაკლისები თვალთვალისგან გაძლიერებული დაცვისას
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = ამ საიტებისთვის დაცვა გამორთული გაქვთ
 permissions-exceptions-manage-etp-desc = შეგიძლიათ მიუთითოთ საიტები, რომლებზეც გამოირთვება თვალთვალისგან გაძლიერებული დაცვა. აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ გამონაკლისის დამატებას.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = მოცემული ვებსაი�
 permissions-site-microphone-disable-label =
     .label = მიკროფონთან წვდომის ახალი მოთხოვნების შეზღუდვა
 permissions-site-microphone-disable-desc = შედეგად, ყველა ვებსაიტს, რომელიც ზემოთ არ იქნება მითითებული, აეკრძალება თქვენს მიკროფონთან წვდომა. მიკროფონთან წვდომის შეზღუდვის გამო, შესაძლოა ვებსაიტის ზოგიერთმა შესაძლებლობამ, ვერ იმუშაოს.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = პარამეტრები – ხმამაღლამოლაპარაკესთან წვდომის ნებართვები
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = მოცემული ვებსაიტები ითხოვს ხმის გამომტან მოწყობილობასთან წვდომის ნებართვას. შეგიძლიათ მიუთითოთ ნებადართული საიტები, რომლებსაც შეეძლება ხმის გამომტანის არჩევა.
