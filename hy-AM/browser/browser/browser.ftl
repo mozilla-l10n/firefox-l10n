@@ -700,6 +700,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Հղումը ուղարկել էլ. փոստով
     .tooltiptext = Հղումը ուղարկել էլ֊փոստով
+toolbar-button-logins =
+    .label = Գաղտնաբառեր
+    .tooltiptext = Տեսեք և կառավարեք ձեր պահած գաղտնաբառերը
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
