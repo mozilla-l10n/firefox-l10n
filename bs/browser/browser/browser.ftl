@@ -317,6 +317,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Zatvori prikaz za čitanje
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -348,6 +351,11 @@ bookmarks-other-bookmarks-menu =
     .label = Druge zabilješke
 bookmarks-mobile-bookmarks-menu =
     .label = Mobilne zabilješke
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -366,6 +374,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Ukloni meni Zabilješke iz alatne trake
            *[other] Dodaj meni Zabilješke u alatnu traku
         }
+
+##
+
 bookmarks-search =
     .label = Pretraži zabilješke
 bookmarks-tools =
@@ -529,6 +540,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } je spriječio ovu stranicu da se automatski osvježi.
@@ -536,3 +551,10 @@ refresh-blocked-redirect-label = { -brand-short-name } je spriječio ovu stranic
 refresh-blocked-allow =
     .label = Dozvoli
     .accesskey = D
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Saznajte više o sigurnoj instalaciji add-ona
