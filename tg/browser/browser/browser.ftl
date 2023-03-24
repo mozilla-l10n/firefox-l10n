@@ -663,6 +663,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Пӯшидани намоиши хониш
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -976,3 +979,7 @@ firefox-relay-offer-how-we-integrate = Агар шумо идома диҳед, 
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Мо ҳамаи паёмҳои электрониро аз <strong>{ $sitename }</strong> ба <strong>{ $useremail }</strong> интиқол медиҳем.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Маълумоти бештар дар бораи насбкунии бехатари ҷузъи иловагӣ
