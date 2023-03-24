@@ -659,6 +659,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Đóng chế độ đọc sách
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -972,3 +975,7 @@ firefox-relay-offer-how-we-integrate = Bằng cách tiếp tục, bạn sẽ có
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Chúng tôi sẽ chuyển tiếp tất cả email từ <strong>{ $sitename }</strong> đến <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Tìm hiểu thêm về cách cài đặt tiện ích một cách an toàn
