@@ -654,6 +654,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = කියවීමේ දැක්ම වසන්න
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -946,3 +949,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = එක්කහු ආරක්‍ෂිතව ස්ථාපනය ගැන තව දැනගන්න
