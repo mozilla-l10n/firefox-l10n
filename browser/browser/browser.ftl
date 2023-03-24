@@ -275,32 +275,20 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = نمایش افزونه‌ها
 quickactions-cmd-addons2 = افزونه‌ها
-# Opens the bookmarks library window
-quickactions-bookmarks = نمایش نشانک‌ها
 quickactions-cmd-bookmarks = نشانک‌ها
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = پاک کردن تاریخچه
 quickactions-cmd-clearhistory = پاک کردن تاریخچه
-# Opens about:downloads page
-quickactions-downloads = بازکردن بارگیری‌ها
 quickactions-cmd-downloads = بارگیری‌ها
 # Opens about:addons page in the extensions section
 quickactions-extensions = مدیریت افزونه‌ها
 quickactions-cmd-extensions = افزونه‌ها
-# Opens the devtools web inspector
-quickactions-inspector = گشودن بازرسی
 quickactions-cmd-inspector = بازرسی، ابزارهای توسعه
-# Opens about:logins
-quickactions-logins = مشاهده وروده ها
 quickactions-cmd-logins = ورودها، گذرواژه‌ها
 # Opens about:addons page in the plugins section
 quickactions-plugins = مدیریت افزایه‌ها
 quickactions-cmd-plugins = افزایه‌ها
-# Opens the print dialog
-quickactions-print = چاپ
 quickactions-cmd-print = چاپ
-# Opens a new private browsing window
-quickactions-private = گشودن پنجرهٔ مرور ناشناس
 quickactions-cmd-private = مرور ناشناس
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = نوسازی { -brand-short-name }
@@ -308,11 +296,7 @@ quickactions-cmd-refresh = نوسازی
 # Restarts the browser
 quickactions-restart = راه‌اندازی دوبارهٔ { -brand-short-name }
 quickactions-cmd-restart = راه اندازی دوباره
-# Opens the screenshot tool
-quickactions-screenshot2 = گرفتن نماگرفت
 quickactions-cmd-screenshot = نماگرفت
-# Opens about:preferences
-quickactions-settings = گشودن تنظیمات
 quickactions-cmd-settings = تنظیمات، ترجیحات، گزینه‌ها
 # Opens about:addons page in the themes section
 quickactions-themes = مدیریت زمینه‌ها
@@ -320,8 +304,6 @@ quickactions-cmd-themes = زمینه‌ها
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = به‌روز رسانی { -brand-short-name }
 quickactions-cmd-update = به‌روز رسانی
-# Opens the view-source UI with current pages source
-quickactions-viewsource = مشاهده منبع
 quickactions-cmd-viewsource = مشاهده منبع، منبع
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -649,6 +631,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = بستن نمای مطالعه
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -693,6 +678,11 @@ bookmarks-other-bookmarks-menu =
     .label = نشانک‌‌های دیگر
 bookmarks-mobile-bookmarks-menu =
     .label = نشانک‌های همراه
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -717,6 +707,9 @@ bookmarks-tools-menu-button-visibility =
             [true] حذف منوی نشانک‌ها از نوار ابزار
            *[other] افزودن منوی نشانک‌ها را به نوار ابزار
         }
+
+##
+
 bookmarks-search =
     .label = جست‌وجوی نشانک‌ها
 bookmarks-tools =
@@ -926,6 +919,10 @@ unified-extensions-button =
     .label = افزونه‌ها
     .tooltiptext = افزونه‌ها
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } از بار شدن مجدد این صفحه به صورت خودکار جلوگیری کرد.
@@ -933,3 +930,9 @@ refresh-blocked-redirect-label = { -brand-short-name } این صفحه را از
 refresh-blocked-allow =
     .label = اجازه دادن
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
