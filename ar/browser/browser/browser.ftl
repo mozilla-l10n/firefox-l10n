@@ -560,6 +560,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = أغلق منظور القارئ
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -604,6 +607,11 @@ bookmarks-other-bookmarks-menu =
     .label = العلامات الأخرى
 bookmarks-mobile-bookmarks-menu =
     .label = علامات المحمول
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -628,6 +636,9 @@ bookmarks-tools-menu-button-visibility =
             [true] أزِل قائمة العلامات من شريط الأدوات
            *[other] أضِف قائمة العلامات إلى شريط الأدوات
         }
+
+##
+
 bookmarks-search =
     .label = ابحث في العلامات
 bookmarks-tools =
@@ -827,6 +838,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = منع { -brand-short-name } هذه الصفحة من إعادة التحميل تلقائيًا.
@@ -834,3 +849,10 @@ refresh-blocked-redirect-label = منع { -brand-short-name } هذه الصفح�
 refresh-blocked-allow =
     .label = اسمح
     .accesskey = س
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = اطّلع على المزيد حول طريقة تثبيت الإضافات بأمان تام
