@@ -601,6 +601,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Serriñ ar mod lenn
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -645,6 +648,11 @@ bookmarks-other-bookmarks-menu =
     .label = Sinedoù all
 bookmarks-mobile-bookmarks-menu =
     .label = Sinedoù hezoug
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -669,6 +677,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Lemel kuit lañser ar sinedoù diouzh ar varrenn ostilhoù
            *[other] Ouzhpennañ lañser ar sinedoù er varrenn ostilhoù
         }
+
+##
+
 bookmarks-search =
     .label = Klask er sinedoù
 bookmarks-tools =
@@ -882,3 +893,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Gouzout hiroc'h a-zivout staliañ askouezhioù ent diogel
