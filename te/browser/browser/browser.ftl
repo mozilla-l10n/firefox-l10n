@@ -240,20 +240,12 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the bookmarks library window
-quickactions-bookmarks = ఇష్టాంశాలను చూడండి
 quickactions-cmd-bookmarks = ఇష్టాంశాలు
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = చరిత్రను తుడిచివేయి
-# Opens about:downloads page
-quickactions-downloads = దింపుకోళ్ళను తెరువు
 quickactions-cmd-downloads = దింపుకోళ్ళు
 quickactions-cmd-private = అంతరంగిక విహారణ
-# Opens about:preferences
-quickactions-settings = అమరికలను తెరువు
 quickactions-cmd-themes = అలంకారాలు
-# Opens the view-source UI with current pages source
-quickactions-viewsource = మూలాన్ని చూడండి
 
 ## Bookmark Panel
 
@@ -528,6 +520,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = చదువరి వీక్షణం మూయి
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -565,6 +560,11 @@ bookmarks-other-bookmarks-menu =
     .label = ఇతర ఇష్టాంశాలు
 bookmarks-mobile-bookmarks-menu =
     .label = మొబైలు ఇష్టాంశాలు
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -583,6 +583,9 @@ bookmarks-tools-menu-button-visibility =
             [true] ఉపకరణపట్టీ నుండి ఇష్టాంశాల మెనుని తీసివేయండి
            *[other] ఉపకరణపట్టీకి ఇష్టాంశాల మెనూని జోడించండి
         }
+
+##
+
 bookmarks-search =
     .label = ఇష్టాంశాలను వెతకండి
 bookmarks-tools =
@@ -753,6 +756,10 @@ private-browsing-indicator-label = అంతరంగిక విహారణ
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ఈ పేజీ స్వయంచాలకంగా తిరిగిలోడవ్వుటను { -brand-short-name } నిరోధిస్తోంది.
@@ -760,3 +767,9 @@ refresh-blocked-redirect-label = ఈ పేజీ స్వయంచాలకం
 refresh-blocked-allow =
     .label = అనుమతించు
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
