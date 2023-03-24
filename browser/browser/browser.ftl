@@ -660,6 +660,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Mbylle Pamjen Lexues
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -704,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = Faqerojtës të Tjerë
 bookmarks-mobile-bookmarks-menu =
     .label = Faqerojtës Celulari
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -728,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Hiqe Menunë e Faqerojtësve nga Paneli
            *[other] Shtoje Menunë e Faqerojtësve te Paneli
         }
+
+##
+
 bookmarks-search =
     .label = Kërkoni Te Faqerojtësit
 bookmarks-tools =
@@ -960,3 +971,7 @@ firefox-relay-offer-how-we-integrate = Duke vazhduar, do të jeni në gjendje t�
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Do t’i përcjellim krejt email-et nga <strong>{ $sitename }</strong> te <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Mësoni më tepër rreth instalimit të shtesave në mënyrë të parrezik
