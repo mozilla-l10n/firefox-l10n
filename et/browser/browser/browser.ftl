@@ -887,3 +887,4 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+popup-notification-xpinstall-prompt-learn-more = Rohkem teavet lisade turvalise paigaldamise kohta
