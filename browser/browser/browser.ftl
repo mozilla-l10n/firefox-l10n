@@ -819,6 +819,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Wotkaz e-mejlować
     .tooltiptext = Wotkaz k tutej stronje e-mejlować
+toolbar-button-logins =
+    .label = Hesła
+    .tooltiptext = Waše składowane hesła pokazać a rjadować
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

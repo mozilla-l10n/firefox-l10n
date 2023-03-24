@@ -61,29 +61,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } wužiwarjow
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Preč z plackowymi chorhojemi!
-cfr-cookie-banner-handling-body = Dowolće { -brand-short-name }, wšě naprašowanja plackowych chorhojiw awtomatisce wotpokazać, jeli móžno. Hewak so wšě placki akceptuja, zo bychu so samo dalše chorhoje zacisnyli.
-cfr-cookie-banner-accept-button = Naprašowanja zaćisnyć
-    .accesskey = z
-cfr-cookie-banner-reject-button = Nic nětko
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Mjenje plackowych wuskakowacych woknow widźeć
-cfr-cookie-banner-handling-body-variant-1 = Dajće { -brand-short-name } za was awtomatisce na plackowewuskakowace wokna wotmołwić. zo byšće so k přehladowanju bjez wotwjedźenja wróćił. { -brand-short-name } wšě naprašowanja wotpokaza, jeli móžno, abo budźe wšě akceptować, jeli móžno njeje.
-cfr-cookie-banner-accept-button-variant-1 = Wuskakowace wokna zaćisnyć
-    .accesskey = u
-cfr-cookie-banner-reject-button-variant-1 = Ně, dźakuju so
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Redukowanje plackowych chorhojow
-cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } dowolić, próstwu sydła wo přizwolenje plackoweho wobsaha wotpokazać, jeli móžno, abo přistup přez plack akceptować, jeli móžno njeje?
-cfr-cookie-banner-accept-button-variant-2 = Dowolić
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-2 = Nic nětko
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizujće swoje zapołožki wšudźe.
@@ -274,9 +251,19 @@ cfr-cookiebanner-accept-button-variant-2 = Dowolić
     .accesskey = D
 cfr-cookiebanner-reject-button-variant-2 = Nic nětko
     .accesskey = N
+cfr-cbh-header = { -brand-short-name } dowolić plackowe chorhoje wotpokazać?
+cfr-cbh-body = { -brand-short-name } móže awtomatisce wjele naprašowanjow plackowych chorhojow wotpokazać.
+cfr-cbh-confirm-button = Plackowe chorhoje wotpokazać
+    .accesskey = P
+cfr-cbh-dismiss-button = Nic nětko
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Smy was zapřijeli
 july-jam-body = Kóždy měsac { -brand-short-name } w přerězku wjace hač 3000 přesćěhowakow na wužiwarja blokuje a dawa wam wěst, spěšny přistup k dobremu internetej.
 july-jam-set-default-primary = Moje wotkazy z { -brand-short-name } wočinić
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Sym zrozumił

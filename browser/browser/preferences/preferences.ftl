@@ -131,6 +131,10 @@ startup-restore-warn-on-quit =
     .label = Warnować, hdyž so wobhladowak kónči
 disable-extension =
     .label = Rozšěrjenje znjemóžnić
+preferences-data-migration-header = Daty wobhladowaka importować
+preferences-data-migration-button =
+    .label = Daty importować
+    .accesskey = m
 tabs-group-header = Rajtarki
 ctrl-tab-recently-used-order =
     .label = Strg+Tab přeběži rajtarki po tuchwilu postajenym porjedźe
@@ -975,6 +979,13 @@ sitedata-cookies-exceptions =
     .label = Wuwzaća rjadować…
     .accesskey = W
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Redukowanje plackowych chorhojow
+cookie-banner-learn-more = Dalše informacije
+forms-handle-cookie-banners =
+    .label = Plackowe chorhoje redukować
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresowe polo
@@ -1112,6 +1123,9 @@ permissions-camera-settings =
     .accesskey = t
 permissions-microphone = Mikrofon
 permissions-microphone-settings =
+    .label = Nastajenja…
+    .accesskey = t
+permissions-speaker-settings =
     .label = Nastajenja…
     .accesskey = t
 permissions-notification = Zdźělenja
