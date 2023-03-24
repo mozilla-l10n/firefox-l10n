@@ -27,6 +27,7 @@ neterror-try-again-button = 重試
 neterror-add-exception-button = 總是繼續開啟此網站
 neterror-settings-button = 更改 DNS 設定
 neterror-view-certificate-link = 檢視憑證
+neterror-trr-continue-this-time = 這次先繼續
 neterror-disable-native-feedback-warning = 總是繼續
 
 ##
