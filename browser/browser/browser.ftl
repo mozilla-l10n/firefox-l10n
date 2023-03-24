@@ -663,6 +663,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Lukk lesevisning
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -976,3 +979,7 @@ firefox-relay-offer-how-we-integrate = Ved å fortsette kan du generere nye { -r
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Vi videresender alle e-poster fra <strong>{ $sitename }</strong> til <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Les mer om sikker installering av utvidelser
