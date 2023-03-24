@@ -618,7 +618,7 @@ reader-view-close-button =
 ## Picture-in-Picture urlbar button
 
 picture-in-picture-urlbar-button =
- .tooltiptext = Attiva/disattiva Picture-in-Picture
+    .tooltiptext = Attiva/disattiva Picture-in-Picture
 
 ## Full Screen and Pointer Lock UI
 
@@ -664,6 +664,11 @@ bookmarks-other-bookmarks-menu =
     .label = Altri segnalibri
 bookmarks-mobile-bookmarks-menu =
     .label = Segnalibri da dispositivi mobile
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -688,6 +693,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Rimuovi Segnalibri dalla barra degli strumenti
            *[other] Aggiungi Segnalibri alla barra degli strumenti
         }
+
+##
+
 bookmarks-search =
     .label = Cerca nei segnalibri
 bookmarks-tools =
@@ -757,8 +765,8 @@ toolbar-button-email-link =
     .label = Invia link
     .tooltiptext = Invia link a questa pagina per email
 toolbar-button-logins =
-  .label = Password
-  .tooltiptext = Visualizza e gestisci le password salvate
+    .label = Password
+    .tooltiptext = Visualizza e gestisci le password salvate
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -919,8 +927,11 @@ refresh-blocked-allow =
 
 firefox-relay-offer-why-relay = { -relay-brand-name } nasconde il tuo indirizzo email reale per proteggerti da violazioni di dati e posta indesiderata.
 firefox-relay-offer-how-we-integrate = Se continui potrai generare nuovi alias di posta elettronica con { -relay-brand-short-name } direttamente dal gestore password di { -brand-shorter-name }.
-
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Le email da <strong>{ $sitename }</strong> verranno inoltrate a <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Scopri come installare componenti aggiuntivi in completa sicurezza
