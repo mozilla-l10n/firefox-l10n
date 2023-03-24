@@ -979,3 +979,4 @@ firefox-relay-offer-what-relay-does = ᱟᱞᱮ ᱫᱚ ᱡᱷᱚᱛᱚ ᱤᱢᱮ
 
 ## Popup Notification
 
+popup-notification-xpinstall-prompt-learn-more = ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
