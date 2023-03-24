@@ -27,6 +27,7 @@ neterror-try-again-button = Torne prove
 neterror-add-exception-button = Continue simpri par chest sît
 neterror-settings-button = Modifiche impostazions DNS
 neterror-view-certificate-link = Visualize certificât
+neterror-trr-continue-this-time = Continue par cheste volte
 neterror-disable-native-feedback-warning = Continue simpri
 
 ##
