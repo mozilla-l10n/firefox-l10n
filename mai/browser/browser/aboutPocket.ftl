@@ -43,10 +43,12 @@ pocket-panel-signup-signup-cta = { -pocket-brand-name } कलेल साइ�
 
 ## Pocket panel header component
 
-pocket-panel-header-sign-in = साइन इन
+pocket-panel-header-my-list = हमर सूची देखू
+pocket-panel-header-my-saves = हमर सहेजलाह देखू
+pocket-panel-header-sign-in = साइन इन करू
 
 ## Pocket panel buttons
 
-pocket-panel-button-show-all = सभ देखाउ
+pocket-panel-button-show-all = सभटा देखाउ
 pocket-panel-button-activate = मे { -pocket-brand-name } सक्रिय करू { -brand-product-name }
 pocket-panel-button-remove = हटाउ
