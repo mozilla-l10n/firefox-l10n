@@ -27,6 +27,7 @@ neterror-try-again-button = 다시 시도
 neterror-add-exception-button = 이 사이트는 항상 계속 진행
 neterror-settings-button = DNS 설정 변경
 neterror-view-certificate-link = 인증서 보기
+neterror-trr-continue-this-time = 이번만 계속
 neterror-disable-native-feedback-warning = 항상 계속
 
 ##
