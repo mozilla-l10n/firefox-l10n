@@ -277,15 +277,11 @@ search-one-offs-actions =
 quickactions-addons = Pregledaj dodatke
 quickactions-cmd-addons2 = dodaci
 # Opens the bookmarks library window
-quickactions-bookmarks = Pogledaj zabilješke
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Upravljaj zabilješkama
 quickactions-cmd-bookmarks = zabilješke
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Obriši povijest
 quickactions-cmd-clearhistory = obriši povijest
-# Opens about:downloads page
-quickactions-downloads = Otvori preuzimanja
 # Opens about:downloads page
 quickactions-downloads2 = Prikaži preuzimanja
 quickactions-cmd-downloads = preuzimanja
@@ -293,12 +289,8 @@ quickactions-cmd-downloads = preuzimanja
 quickactions-extensions = Upravljaj proširenjima
 quickactions-cmd-extensions = proširenja
 # Opens the devtools web inspector
-quickactions-inspector = Otvori inspektora
-# Opens the devtools web inspector
 quickactions-inspector2 = Otvori alate za programere
 quickactions-cmd-inspector = inspektor, programerski alati
-# Opens about:logins
-quickactions-logins = Pogledaj prijave
 # Opens about:logins
 quickactions-logins2 = Upravljaj lozinkama
 quickactions-cmd-logins = prijave, lozinke
@@ -306,12 +298,8 @@ quickactions-cmd-logins = prijave, lozinke
 quickactions-plugins = Upravljaj priključcima
 quickactions-cmd-plugins = priključci
 # Opens the print dialog
-quickactions-print = Ispis
-# Opens the print dialog
 quickactions-print2 = Ispiši stranicu
 quickactions-cmd-print = ispis
-# Opens a new private browsing window
-quickactions-private = Otvori prozor za privatno pregledavanje
 # Opens a new private browsing window
 quickactions-private2 = Otvori privatni prozor
 quickactions-cmd-private = privatno pregledavanje
@@ -322,12 +310,8 @@ quickactions-cmd-refresh = aktualiziraj
 quickactions-restart = Ponovo pokreni { -brand-short-name }
 quickactions-cmd-restart = ponovo pokreni
 # Opens the screenshot tool
-quickactions-screenshot2 = Snimi ekran
-# Opens the screenshot tool
 quickactions-screenshot3 = Snimi ekran
 quickactions-cmd-screenshot = snimka ekrana
-# Opens about:preferences
-quickactions-settings = Otvori postavke
 # Opens about:preferences
 quickactions-settings2 = Upravljaj postavkama
 quickactions-cmd-settings = postavke, osobne postavke, opcije
@@ -337,8 +321,6 @@ quickactions-cmd-themes = teme
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Aktualiziraj { -brand-short-name }
 quickactions-cmd-update = aktualiziraj
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Pogledaj izvorni kod
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Prikaži izvorni kod stranice
 quickactions-cmd-viewsource = pogledaj izvorni kod, izvorni kod
@@ -675,6 +657,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Zatvori prikaz čitača
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -719,6 +704,11 @@ bookmarks-other-bookmarks-menu =
     .label = Druge zabilješke
 bookmarks-mobile-bookmarks-menu =
     .label = Mobilne zabilješke
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -743,6 +733,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Ukloni izbornik zabilješki iz alatne trake
            *[other] Dodaj izbornik zabilješki u alatnu traku
         }
+
+##
+
 bookmarks-search =
     .label = Pretraži zabilješke
 bookmarks-tools =
@@ -968,4 +961,7 @@ refresh-blocked-allow =
     .accesskey = p
 
 ## Firefox Relay integration
+
+
+## Popup Notification
 
