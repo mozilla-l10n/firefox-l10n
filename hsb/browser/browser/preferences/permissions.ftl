@@ -209,3 +209,11 @@ permissions-site-microphone-desc = Slědowace websydła su přistup k wašemu mi
 permissions-site-microphone-disable-label =
     .label = Nowe žadanja za přistupom na waš mikrofon blokować
 permissions-site-microphone-disable-desc = To budźe websydła, kotrež horjeka w lisćinje podate njejsu, při žadanju za přistupom k wašemu mikrofonej haćić. Hdyž přistup k wašemu mikrofonej blokujeće, móže so stać, zo někotre funkcije websydła njefunguja.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Nastajenja - prawa wótřerěčaka
+    .style = { permissions-window2.style }

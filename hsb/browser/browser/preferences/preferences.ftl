@@ -132,6 +132,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Rozšěrjenje znjemóžnić
 preferences-data-migration-header = Daty wobhladowaka importować
+preferences-data-migration-description = Zapołožki, hesła , historiju a daty za awtomatiske wupjelnjenje do { -brand-short-name } importować.
 preferences-data-migration-button =
     .label = Daty importować
     .accesskey = m
@@ -982,6 +983,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Redukowanje plackowych chorhojow
+cookie-banner-handling-description = { -brand-short-name } awtomatisce pospytuje, plackowe naprašowanja za plackowymi chorhojemi na podpěranych sydłach wotpokazać.
 cookie-banner-learn-more = Dalše informacije
 forms-handle-cookie-banners =
     .label = Plackowe chorhoje redukować
@@ -1125,6 +1127,8 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Nastajenja…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Wuběr wótřerěčaka
 permissions-speaker-settings =
     .label = Nastajenja…
     .accesskey = t
