@@ -662,6 +662,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Išjungti skaitymo rodinį
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -972,3 +975,7 @@ firefox-relay-offer-how-we-integrate = Tęsdami galėsite generuoti naujas „{ 
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Visus el. laiškus iš <strong>{ $sitename }</strong> persiųsime į <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Sužinokite daugiau apie saugų priedų diegimą
