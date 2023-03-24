@@ -284,15 +284,11 @@ search-one-offs-actions =
 quickactions-addons = ᱮᱰ-ᱚᱱ ᱧᱮᱞ ᱢᱮ
 quickactions-cmd-addons2 = ᱮᱰ-ᱚᱱ ᱠᱚ
 # Opens the bookmarks library window
-quickactions-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-# Opens the bookmarks library window
 quickactions-bookmarks2 = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 quickactions-cmd-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
-# Opens about:downloads page
-quickactions-downloads = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 # Opens about:downloads page
 quickactions-downloads2 = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ ᱧᱮᱞ ᱢᱮ
 quickactions-cmd-downloads = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
@@ -300,12 +296,8 @@ quickactions-cmd-downloads = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 quickactions-extensions = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱠᱚ ᱢᱮᱱᱟᱡᱽ ᱢᱮ
 quickactions-cmd-extensions = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
 # Opens the devtools web inspector
-quickactions-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
-# Opens the devtools web inspector
 quickactions-inspector2 = ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱦᱟᱹᱛᱷᱤᱭᱟᱹᱨ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
 quickactions-cmd-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ, ᱰᱮᱣᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
-# Opens about:logins
-quickactions-logins = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ
 # Opens about:logins
 quickactions-logins2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-logins = ᱵᱚᱞᱚᱱ ᱠᱚ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
@@ -313,12 +305,8 @@ quickactions-cmd-logins = ᱵᱚᱞᱚᱱ ᱠᱚ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟ�
 quickactions-plugins = ᱯᱞᱚᱜᱤᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-plugins = ᱯᱞᱚᱜᱤᱱ ᱠᱚ
 # Opens the print dialog
-quickactions-print = ᱪᱷᱟᱯᱟ
-# Opens the print dialog
 quickactions-print2 = ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ
 quickactions-cmd-print = ᱪᱷᱟᱯᱟ
-# Opens a new private browsing window
-quickactions-private = ᱱᱤᱡᱚᱨᱟᱠᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 # Opens a new private browsing window
 quickactions-private2 = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
 quickactions-cmd-private = ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
@@ -329,12 +317,8 @@ quickactions-cmd-refresh = ᱛᱟᱡᱟ
 quickactions-restart = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 quickactions-cmd-restart = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
 # Opens the screenshot tool
-quickactions-screenshot2 = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
-# Opens the screenshot tool
 quickactions-screenshot3 = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
 quickactions-cmd-screenshot = ᱥᱠᱨᱤᱱᱥᱚᱴ
-# Opens about:preferences
-quickactions-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱡᱷᱤᱜ ᱢᱮ
 # Opens about:preferences
 quickactions-settings2 = ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-settings = ᱥᱟᱡᱟᱣ ᱠᱚ, ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ, ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ
@@ -344,8 +328,6 @@ quickactions-cmd-themes = ᱛᱷᱤᱢ ᱠᱚ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱠ ᱢᱮ
 quickactions-cmd-update = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
-# Opens the view-source UI with current pages source
-quickactions-viewsource = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ᱥᱟᱦᱴᱟ ᱢᱩᱞ ᱧᱮᱞ ᱢᱮ
 quickactions-cmd-viewsource = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ, ᱥᱨᱚᱛ
@@ -683,6 +665,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = ᱨᱤᱰᱚᱨ ᱵᱷᱭᱩ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -727,6 +712,11 @@ bookmarks-other-bookmarks-menu =
     .label = ᱮᱴᱟᱜᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 bookmarks-mobile-bookmarks-menu =
     .label = ᱢᱚᱵᱟᱤᱞ ᱵᱩᱠᱢᱟᱨᱠ
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -751,6 +741,9 @@ bookmarks-tools-menu-button-visibility =
             [true] ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱱᱩ ᱠᱷᱚᱱ ᱦᱚᱛᱷᱤᱭᱟᱨ ᱵᱟᱨ ᱚᱪᱚᱜᱽ ᱢᱮ
            *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱱᱩ ᱠᱚ ᱦᱚᱛᱷᱤᱭᱟᱨ ᱵᱟᱨ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ
         }
+
+##
+
 bookmarks-search =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 bookmarks-tools =
@@ -983,3 +976,6 @@ refresh-blocked-allow =
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = ᱟᱞᱮ ᱫᱚ ᱡᱷᱚᱛᱚ ᱤᱢᱮᱞ <strong>{ $sitename }</strong> ᱠᱷᱚᱱ <strong>{ $useremail }</strong> ᱛᱮ ᱞᱮ ᱵᱷᱮᱡᱟᱭᱟ ᱾
+
+## Popup Notification
+
