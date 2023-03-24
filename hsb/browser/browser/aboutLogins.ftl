@@ -46,6 +46,16 @@ login-list-count =
         [few] { $count } přizjewjenja
        *[other] { $count } přizjewjenjow
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } z { $total } přizjewjenja
+        [two] { $count } z { $total } přizjewjenjow
+        [few] { $count } z { $total } přizjewjenjow
+       *[other] { $count } z { $total } přizjewjenjow
+    }
 login-list-sort-label-text = Sortěrować po:
 login-list-name-option = Mjenje (A-Z)
 login-list-name-reverse-option = Mjeno (Z - A)
