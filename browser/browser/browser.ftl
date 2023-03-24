@@ -674,6 +674,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Zapri bralni pogled
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -987,3 +990,7 @@ firefox-relay-offer-how-we-integrate = V naslednjem koraku boste lahko ustvarili
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Vsa sporočila spletnega mesta <strong>{ $sitename }</strong> bomo posredovali na <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Več o varni namestitvi dodatkov
