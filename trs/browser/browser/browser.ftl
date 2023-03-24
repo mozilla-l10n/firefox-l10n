@@ -356,6 +356,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Nàrun' sa ahio'
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -387,6 +390,11 @@ bookmarks-other-bookmarks-menu =
     .label = A'ngo sa raj sun nichrò' doj
 bookmarks-mobile-bookmarks-menu =
     .label = Nej marcador aché
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -405,6 +413,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Gahī hui' dukuân sa raj sun'
            *[other] Nuto' dukuân sa raj sun'
         }
+
+##
+
 bookmarks-search =
     .label = Nana'ui' sa raj sun nichrò' doj
 bookmarks-tools =
@@ -557,6 +568,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } nū nachrā ma'an pajinâ na.
@@ -564,3 +579,10 @@ refresh-blocked-redirect-label = { -brand-short-name } nū ga'ue ga'anj ma'an pa
 refresh-blocked-allow =
     .label = Ga'nïn
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Gini'in doj nej nuguan' atāj sna'ānj dà' ga'ue ga'nïnj hue'ê' 'ngō sa nata'a nī si ga'ui' yi'ì ñù'
