@@ -666,6 +666,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Titz'apïx rutz'etik sik'inïk
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -979,3 +982,7 @@ firefox-relay-offer-how-we-integrate = Toq nawoqaj, yatikïr ye'atz'ük k'ak'a' 
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónicos de <strong>{ $sitename }</strong> pa <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Tetamäx ch'aqa' chik chi rij ri ütz rub'eyal ye'ayäk taq tz'aqat
