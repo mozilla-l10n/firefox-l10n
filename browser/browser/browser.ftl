@@ -263,14 +263,9 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-quickactions-downloads = Ava allalaadimised
-quickactions-inspector = Ava inspekteerimine
-quickactions-print = Prindi
 quickactions-refresh = Värskenda { -brand-short-name }
 quickactions-restart = Taaskäivita { -brand-short-name }
-quickactions-settings = Ava sätted
 quickactions-update = Uuenda { -brand-short-name }
-quickactions-viewsource = Vaata lähtekoodi
 
 ## Bookmark Panel
 
@@ -595,6 +590,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Sulge lugemisvaade
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -639,6 +637,11 @@ bookmarks-other-bookmarks-menu =
     .label = Muud järjehoidjad
 bookmarks-mobile-bookmarks-menu =
     .label = Mobiilsed järjehoidjad
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -663,6 +666,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Eemalda järjehoidjate menüü tööriistaribalt
            *[other] Lisa järjehoidjate menüü tööriistaribale
         }
+
+##
+
 bookmarks-search =
     .label = Otsi järjehoidjatest
 bookmarks-tools =
@@ -864,6 +870,10 @@ private-browsing-indicator-label = Privaatne veebilehitsemine
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } keelas sellel lehel automaatse uuestilaadimise.
@@ -871,3 +881,9 @@ refresh-blocked-redirect-label = { -brand-short-name } keelas sellel lehel autom
 refresh-blocked-allow =
     .label = Luba
     .accesskey = L
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
