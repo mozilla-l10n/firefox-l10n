@@ -27,6 +27,7 @@ neterror-try-again-button = Skúsiť znova
 neterror-add-exception-button = Vždy pokračovať pre túto stránku
 neterror-settings-button = Zmeniť nastavenia DNS
 neterror-view-certificate-link = Zobraziť certifikát
+neterror-trr-continue-this-time = Tentoraz pokračovať
 neterror-disable-native-feedback-warning = Vždy pokračovať
 
 ##

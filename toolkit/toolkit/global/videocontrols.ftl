@@ -33,7 +33,7 @@ videocontrols-closed-caption-off =
 videocontrols-picture-in-picture-label = Obraz v obraze
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = Sledovať ako obraz v obraze
+videocontrols-picture-in-picture-toggle-label = Sledovať v režime Obraz v obraze
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
@@ -51,7 +51,7 @@ videocontrols-error-decode = Video nemôže byť prehraté, pretože súbor je p
 videocontrols-error-src-not-supported = Formát videa alebo typ MIME nie je podporovaný.
 videocontrols-error-no-source = Nebolo nájdené video s podporovaným formátom a typom MIME.
 videocontrols-error-generic = Prehrávanie videa bolo prerušené kvôli neznámej chybe.
-videocontrols-status-picture-in-picture = Toto video sa prehráva ako obraz v obraze.
+videocontrols-status-picture-in-picture = Toto video sa prehráva ako Obraz v obraze.
 # This message shows the current position and total video duration
 #
 # Variables:
