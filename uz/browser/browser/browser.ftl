@@ -228,14 +228,10 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Qoʻshimchalarni koʻrish
 quickactions-cmd-addons2 = qoʻshimchalar
-# Opens the bookmarks library window
-quickactions-bookmarks = Xatchoʻplarni koʻrish
 quickactions-cmd-bookmarks = xatchoʻplar
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tarixni tozalash
 quickactions-cmd-clearhistory = tarixni tozalash
-# Opens about:downloads page
-quickactions-downloads = Yuklanmalarni ochish
 quickactions-cmd-downloads = yuklab olingan fayllar
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kengaytmalarni boshqarish
@@ -433,6 +429,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = O‘qish ko‘rinishini yopish
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -466,6 +465,11 @@ bookmarks-other-bookmarks-menu =
     .label = Boshqa xatcho‘plar
 bookmarks-mobile-bookmarks-menu =
     .label = Mobil xatcho‘plar
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -490,6 +494,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Xatcho‘plar menyusini paneldan olib tashlash
            *[other] Xatcho‘plar menyusini panelga qo‘shish
         }
+
+##
+
 bookmarks-search =
     .label = Xatcho‘plarni qidirish
 bookmarks-tools =
@@ -668,6 +675,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ushbu sahifani avtomatik qayta yuklanishiga to‘sqinlik qildi.
@@ -675,3 +686,9 @@ refresh-blocked-redirect-label = { -brand-short-name } ushbu sahifani avtomatik 
 refresh-blocked-allow =
     .label = Ruxsat berish
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
