@@ -544,6 +544,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Pechar a vista de lectura
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -588,6 +591,11 @@ bookmarks-other-bookmarks-menu =
     .label = Outros marcadores
 bookmarks-mobile-bookmarks-menu =
     .label = Marcadores do móbil
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -612,6 +620,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Retirar o menú dos marcadores da barra de ferramentas
            *[other] Engadir o menú dos marcadores á barra de ferramentas
         }
+
+##
+
 bookmarks-search =
     .label = Buscar nos marcadores
 bookmarks-tools =
@@ -805,6 +816,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } evitou que esta páxina se recargue automaticamente.
@@ -812,3 +827,10 @@ refresh-blocked-redirect-label = { -brand-short-name } evitou o redireccionament
 refresh-blocked-allow =
     .label = Permitir
     .accesskey = P
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Aprenda máis sobre a instalación de complementos de forma segura
