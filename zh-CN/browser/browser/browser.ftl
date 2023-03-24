@@ -659,6 +659,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = 关闭阅读模式
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -970,3 +973,7 @@ firefox-relay-offer-how-we-integrate = 若继续，您将能够直接从 { -bran
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = 我们会将所有发送自“<strong>{ $sitename }</strong>”的邮件转发至 <strong>{ $useremail }</strong>。
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = 详细了解如何安全地安装附加组件
