@@ -384,6 +384,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Dún an tAmharc Léitheoireachta
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -417,6 +420,14 @@ bookmarks-other-bookmarks-menu =
     .label = Leabharmharcanna Eile
 bookmarks-mobile-bookmarks-menu =
     .label = Leabharmharcanna Soghluaiste
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = Cuardaigh Leabharmharcanna
 bookmarks-tools =
@@ -574,6 +585,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Níor lig { -brand-short-name } don leathanach seo athlódáil go huathoibríoch.
@@ -581,3 +596,10 @@ refresh-blocked-redirect-label = Níor lig { -brand-short-name } don leathanach 
 refresh-blocked-allow =
     .label = Ceadaigh
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Tuilleadh eolais faoi bhreiseáin agus conas is féidir iad a shuiteáil go sábháilte
