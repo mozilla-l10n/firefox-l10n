@@ -773,3 +773,4 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+popup-notification-xpinstall-prompt-learn-more = పొడగింతలను సురక్షితంగా స్థాపించుకోవడం గురించి ఇంకా తెలుసుకోండి
