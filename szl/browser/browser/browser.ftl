@@ -272,32 +272,20 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Pokoż rozszyrzynia
 quickactions-cmd-addons2 = rozszyrzynia
-# Opens the bookmarks library window
-quickactions-bookmarks = Pokoż zokłodki
 quickactions-cmd-bookmarks = zokłodki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Wypucuj historyjo
 quickactions-cmd-clearhistory = wypucuj historyjo
-# Opens about:downloads page
-quickactions-downloads = Ôdewrzij pobrania
 quickactions-cmd-downloads = pobrania
 # Opens about:addons page in the extensions section
 quickactions-extensions = Regiyruj rozszyrzyniami
 quickactions-cmd-extensions = rozszyrzynia
-# Opens the devtools web inspector
-quickactions-inspector = Ôdwrzij inspektōra
 quickactions-cmd-inspector = inspektōr, narzyńdzia do programistōw
-# Opens about:logins
-quickactions-logins = Pokoż dane logowania
 quickactions-cmd-logins = dane logowanio, hasła
 # Opens about:addons page in the plugins section
 quickactions-plugins = Regiyruj pluginami
 quickactions-cmd-plugins = pluginy
-# Opens the print dialog
-quickactions-print = Durkuj
 quickactions-cmd-print = durkuj
-# Opens a new private browsing window
-quickactions-private = Ôdewrzij ôkno w trybie prywatnego przeglōndanio
 quickactions-cmd-private = prywatne przeglōndanie
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ôdświyż aplikacyjo { -brand-short-name }
@@ -305,11 +293,7 @@ quickactions-cmd-refresh = ôdświyż
 # Restarts the browser
 quickactions-restart = Resztatuj aplikacyjo { -brand-short-name }
 quickactions-cmd-restart = resztartnij
-# Opens the screenshot tool
-quickactions-screenshot2 = Zrōb ôbroz ekranu
 quickactions-cmd-screenshot = ôbroz ekranu
-# Opens about:preferences
-quickactions-settings = Ôdewrzij sztalōnki
 quickactions-cmd-settings = sztalōnki, preferyncyje, ôpcyje
 # Opens about:addons page in the themes section
 quickactions-themes = Regiyruj motywami
@@ -317,8 +301,6 @@ quickactions-cmd-themes = motywy
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Akctualizuj aplikacyjo { -brand-short-name }
 quickactions-cmd-update = aktualizuj
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Pokoż zdrzōdło
 quickactions-cmd-viewsource = pokoż zdrzōdło, zdrzōdło
 
 ## Bookmark Panel
@@ -649,6 +631,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Zawrzij podglōnd czytanio
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -693,6 +678,11 @@ bookmarks-other-bookmarks-menu =
     .label = Inksze zokłodki
 bookmarks-mobile-bookmarks-menu =
     .label = Zokłodki z mobilnioka
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -717,6 +707,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Wyciep myni zokłodek z poska z noczyniami
            *[other] Przidej myni zokłodek do poska z noczyniami
         }
+
+##
+
 bookmarks-search =
     .label = Szukej we zokłodkach
 bookmarks-tools =
@@ -926,6 +919,10 @@ unified-extensions-button =
     .label = Rozszyrzynia
     .tooltiptext = Rozszyrzynia
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } niy doł tyj strōnie sie autōmatycznie przeladować.
@@ -933,3 +930,10 @@ refresh-blocked-redirect-label = { -brand-short-name } niy doł tyj strōnie aut
 refresh-blocked-allow =
     .label = Przizwōl
     .accesskey = P
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Przewiydz sie wiyncyj ô bezpiecznyj insztalacyji rozszyrzyń
