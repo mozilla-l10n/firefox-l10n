@@ -682,6 +682,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Cau'r Golwg Darllen
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -995,3 +998,7 @@ firefox-relay-offer-how-we-integrate = Trwy barhau, byddwch yn gallu cynhyrchu a
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Byddwn yn anfon pob e-bost o <strong>{ $sitename }</strong> ymlaen at <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Dysgwch ragor am osod ategion yn ddiogel
