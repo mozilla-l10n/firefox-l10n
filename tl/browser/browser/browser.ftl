@@ -561,6 +561,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Isara ang Reader View
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -601,6 +604,11 @@ bookmarks-other-bookmarks-menu =
     .label = Iba pang mga Bookmark
 bookmarks-mobile-bookmarks-menu =
     .label = Mga Mobile Bookmark
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -625,6 +633,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Alisin ang Bookmark Menu mula sa Toolbar
            *[other] Idagdag ang Bookmark Menu sa Toolbar
         }
+
+##
+
 bookmarks-search =
     .label = Hanapin sa mga Bookmark
 bookmarks-tools =
@@ -825,3 +836,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Alamin ang tungkol sa ligtas na pagkabit ng mga add-on
