@@ -101,7 +101,7 @@ policy-PasswordManagerExceptions = Zabráni { -brand-short-name(case: "gen") } u
 # PDF.js and PDF should not be translated
 policy-PDFjs = Zablokuje alebo nastaví PDF prehliadač PDF.js zabudovaný v prehliadači { -brand-short-name }.
 policy-Permissions2 = Nastaví povolenia pre kameru, mikrofón, polohu, upozornenia a automatické prehrávanie.
-policy-PictureInPicture = Povolí alebo zakáže režim obraz v obraze.
+policy-PictureInPicture = Povolí alebo zakáže režim Obraz v obraze.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
 policy-Preferences = Nastaví a uzamkne hodnotu pre podmnožinu predvolieb.
 policy-PromptForDownloadLocation = Spýta sa na umiestnenie súboru pred jeho stiahnutím.

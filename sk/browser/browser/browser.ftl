@@ -672,6 +672,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Prepnúť režim Obraz v obraze
 
 ## Full Screen and Pointer Lock UI
 
@@ -887,17 +889,17 @@ edit-popup-settings =
     .label = Spravovať nastavenia pre vyskakovacie okná…
     .accesskey = S
 picture-in-picture-hide-toggle =
-    .label = Skryť prepínanie obrazu v obraze
+    .label = Skryť prepínanie režimu Obraz v obraze
     .accesskey = S
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = Presunúť prepínač obrazu v obraze na pravú stranu
+    .label = Presunúť prepínač Obrazu v obraze na pravú stranu
     .accesskey = r
 picture-in-picture-move-toggle-left =
-    .label = Presunúť prepínač obrazu v obraze na ľavú stranu
+    .label = Presunúť prepínač Obrazu v obraze na ľavú stranu
     .accesskey = u
 
 ##
