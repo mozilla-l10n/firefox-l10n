@@ -264,33 +264,21 @@ search-one-offs-history =
 ## the action.
 
 quickactions-cmd-addons2 = Ka̱a̱ chunta´an
-# Opens the bookmarks library window
-quickactions-bookmarks = Kune'ya Marcadores
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Sna da historial
 quickactions-cmd-clearhistory = Sna da historial
-# Opens about:downloads page
-quickactions-downloads = Sine a nxinuu
 quickactions-cmd-downloads = Da nxinú
 # Opens about:addons page in the extensions section
 quickactions-extensions = Tetiñu extensión
 quickactions-cmd-extensions = Extensiones
-# Opens the devtools web inspector
-quickactions-inspector = Sine inspector
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
-# Opens about:logins
-quickactions-logins = Kune'ya nu kaji'e sesión
 quickactions-cmd-logins = Nuu kajie´e sesión, contraseñas
 # Opens about:addons page in the plugins section
 quickactions-plugins = Tetiñu da plugins
 quickactions-cmd-plugins = plugins
-# Opens the print dialog
-quickactions-print = Nátava
 quickactions-cmd-print = Nátava
 quickactions-cmd-restart = Nákajie´e
 quickactions-cmd-themes = temas
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Kune'ya fuente
 quickactions-cmd-viewsource = Kune'ya fuente, fuente
 
 ## Bookmark Panel
@@ -544,6 +532,9 @@ urlbar-group-firefox-suggest =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -580,6 +571,11 @@ bookmarks-other-bookmarks-menu =
     .label = Inka a ta´a ini noo´o
 bookmarks-mobile-bookmarks-menu =
     .label = A ta´a ini noo´o móviles
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -598,6 +594,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Xita menú ta'an ini noo'o nu barra ka̱a̱
            *[other] Tee menú ta'an ini noo'o nu barra ka̱a̱
         }
+
+##
+
 bookmarks-search =
     .label = Nánuku a ta´a ini noo´o
 bookmarks-tools =
@@ -761,8 +760,18 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-allow =
     .label = Kuvi
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
