@@ -666,6 +666,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Moñe’ẽha jehecha mboty
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -977,3 +980,7 @@ firefox-relay-offer-how-we-integrate = Eku’ejeývo, emoheñoikuaa { -relay-bra
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Romondojeýta opaite ñanduti veve <strong>{ $sitename }</strong> <strong>{ $useremail }</strong>-pe.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Eñemomaranduve mba’éichapa emohendáta moĩmbaha tekorosãkuápe
