@@ -936,3 +936,4 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+popup-notification-xpinstall-prompt-learn-more = در مورد نصبِ امنِ افزونه‌ها اطلاعات بیشتر بیاموزید
