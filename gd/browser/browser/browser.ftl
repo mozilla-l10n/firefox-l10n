@@ -925,3 +925,4 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+popup-notification-xpinstall-prompt-learn-more = Barrachd fiosrachaidh mu stàladh tèarainte de thuilleadain
