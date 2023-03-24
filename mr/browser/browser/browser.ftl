@@ -322,6 +322,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = वाचक मोड बंद करा
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -353,6 +356,11 @@ bookmarks-other-bookmarks-menu =
     .label = इतर वाचनखूणा
 bookmarks-mobile-bookmarks-menu =
     .label = मोबाईल वाचनखूणा
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -371,6 +379,9 @@ bookmarks-tools-menu-button-visibility =
             [true] साधनपट्टीवरील वाचनखुणा मेनू काढा
            *[other] साधनपट्टी मध्ये वाचनखुणा मेनू जोडा
         }
+
+##
+
 bookmarks-search =
     .label = वाचनखुणा शोधा
 bookmarks-tools =
@@ -523,6 +534,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ने या पृष्ठास स्वयंरीत्या उघडण्यापासून रोखले.
@@ -530,3 +545,10 @@ refresh-blocked-redirect-label = { -brand-short-name } ने या पृष�
 refresh-blocked-allow =
     .label = सहमती द्या
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = अ‍ॅड-ऑन सुरक्षितपणे स्थापित करण्याबद्दल अधिक जाणून घ्या
