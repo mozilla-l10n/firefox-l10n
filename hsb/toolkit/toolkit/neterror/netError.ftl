@@ -68,6 +68,7 @@ neterror-dns-not-found-trr-unknown-problem = Njewočakowany problem.
 
 neterror-dns-not-found-native-fallback-heuristic = DNS přez HTTPS je so we wašej syći znjemóžnił.
 neterror-dns-not-found-native-fallback-not-confirmed = Zwisk z { $trrDomain } hišće hotowy njeje.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } njemóžeše z { $trrDomain } zwjazać.
 
 ##
 
