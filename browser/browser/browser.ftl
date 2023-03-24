@@ -412,6 +412,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Zarrar a Vista de Lectura
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -443,6 +446,11 @@ bookmarks-other-bookmarks-menu =
     .label = Atros marcapachinas
 bookmarks-mobile-bookmarks-menu =
     .label = Marcapachinas d'o mobil
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -461,6 +469,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Eliminar lo menú de marcapachinas de la barra de ferramientas
            *[other] Anyader lo menú de marcapachinas en a barra de ferramientas
         }
+
+##
+
 bookmarks-search =
     .label = Trobar marcapachinas
 bookmarks-tools =
@@ -613,6 +624,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha privau que ista pachina se recargase automaticament.
@@ -620,3 +635,10 @@ refresh-blocked-redirect-label = { -brand-short-name } privó que ista pachina s
 refresh-blocked-allow =
     .label = Permitir
     .accesskey = P
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Aprende mas sobre instalar complementos de manera segura
