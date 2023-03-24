@@ -441,6 +441,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = ناظر نظارہ بند کریں
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -480,6 +483,11 @@ bookmarks-other-bookmarks-menu =
     .label = دیگر بک مارک
 bookmarks-mobile-bookmarks-menu =
     .label = موبائل بک مارک
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -498,6 +506,9 @@ bookmarks-tools-menu-button-visibility =
             [true] بک مارک مینو کو ٹولبار سے ہٹائے
            *[other] بک مارک مینو کو ٹولبار میں شامل کریں
         }
+
+##
+
 bookmarks-search =
     .label = بک مارک تلاش کریں
 bookmarks-tools =
@@ -678,6 +689,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } نے اس صفحہ کو خودکار لوڈ ہونے سے روکا۔
@@ -685,3 +700,10 @@ refresh-blocked-redirect-label = { -brand-short-name } نے اس پیج کو خ�
 refresh-blocked-allow =
     .label = اجازت دیں
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = محفوظ طریقے سے ایڈونز  انسٹال کرنے کے بارے میں مزید سیکھں
