@@ -286,6 +286,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Chiuji mudalità littura
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -317,6 +320,11 @@ bookmarks-other-bookmarks-menu =
     .label = Autri nzingalibbri
 bookmarks-mobile-bookmarks-menu =
     .label = Nzingalibbri dû cillulari
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -335,6 +343,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Leva u minù dî nzingalibbri dâ sbarra dî strumenti
            *[other] Agghiunci u minù dî nzingalibbri â sbarra dî strumenti
         }
+
+##
+
 bookmarks-search =
     .label = Cerca nnê nzingalibbri
 bookmarks-tools =
@@ -460,9 +471,20 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-redirect-label = { -brand-short-name } mpidì a sta pàggina di purtàriti autumaticamenti a n'autra pàggina.
 refresh-blocked-allow =
     .label = Pirmetti
     .accesskey = P
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Cchiù nfurmazziuna supra u nzitamentu sicuru di l'agghiuncitini
