@@ -271,26 +271,14 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = Seall na tuilleadain
-# Opens the bookmarks library window
-quickactions-bookmarks = Seall na comharran-lìn
 quickactions-cmd-bookmarks = comharran-lìn
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Falamhaich an eachdraidh
 quickactions-cmd-clearhistory = falamhaich an eachdraidh
-# Opens about:downloads page
-quickactions-downloads = Fosgail na chaidh a luchdadh a-nuas
 quickactions-cmd-downloads = luchdaidhean a-nuas
-# Opens the devtools web inspector
-quickactions-inspector = Fosgail an sgrùdaiche
 quickactions-cmd-inspector = sgrùdaiche, devtools
-# Opens about:logins
-quickactions-logins = Seall na clàraidhean a-steach
 quickactions-cmd-logins = clàraidhean a-steach, faclan-faire
-# Opens the print dialog
-quickactions-print = Clò-bhuail
 quickactions-cmd-print = clò-bhuail
-# Opens a new private browsing window
-quickactions-private = Fosgail uinneag brabhsaidh phrìobhaideach
 quickactions-cmd-private = brabhsadh prìobhaideach
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ath-nuadhaich { -brand-short-name }
@@ -298,17 +286,11 @@ quickactions-cmd-refresh = ath-nuadhaich
 # Restarts the browser
 quickactions-restart = Ath-thòisich { -brand-short-name }
 quickactions-cmd-restart = ath-thòisich
-# Opens the screenshot tool
-quickactions-screenshot2 = Tog glacadh-sgrìn
 quickactions-cmd-screenshot = glacadh-sgrìn
-# Opens about:preferences
-quickactions-settings = Fosgail na roghainnean
 quickactions-cmd-settings = roghainnean
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ùraich { -brand-short-name }
 quickactions-cmd-update = ùraich
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Seall am bun-tùs
 quickactions-cmd-viewsource = seall am bun-tùs
 
 ## Bookmark Panel
@@ -643,6 +625,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Dùin sealladh an leughadair
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -687,6 +672,11 @@ bookmarks-other-bookmarks-menu =
     .label = Comharran-lìn eile
 bookmarks-mobile-bookmarks-menu =
     .label = Comharran-lìn mobile
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -711,6 +701,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Thoir air falbh clàr-taice nan comharran-lìn on bhàr-inneal
            *[other] Cuir clàr-taice nan comharran-lìn ris a’ bhàr-inneal
         }
+
+##
+
 bookmarks-search =
     .label = Lorg sna comharran-lìn
 bookmarks-tools =
@@ -915,6 +908,10 @@ unified-extensions-button =
     .label = Leudachain
     .tooltiptext = Leudachain
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Cha do leig { -brand-short-name } leis an duilleag seo ath-luchdadh gu fèin-obrachail.
@@ -922,3 +919,9 @@ refresh-blocked-redirect-label = Cha do leig { -brand-short-name } leis an duill
 refresh-blocked-allow =
     .label = Ceadaich
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
