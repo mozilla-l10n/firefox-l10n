@@ -542,6 +542,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = ৰিডাৰ ভিউ বন্ধ কৰক
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -586,6 +589,11 @@ bookmarks-other-bookmarks-menu =
     .label = অন্য বুকমাৰ্কসমূহ
 bookmarks-mobile-bookmarks-menu =
     .label = ম'বাইলৰ বুকমাৰ্কসমূহ
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -610,6 +618,9 @@ bookmarks-tools-menu-button-visibility =
             [true] টুলবাৰৰ পৰা বুকমাৰ্কৰ মেন্যু আঁতৰাওক
            *[other] টুলবাৰত বুকমাৰ্কৰ মেন্যু যোগ কৰক
         }
+
+##
+
 bookmarks-search =
     .label = বুকমাৰ্কৰ সন্ধান কৰক
 bookmarks-tools =
@@ -800,7 +811,18 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } এ এই পৃষ্টাক স্বচালিতভাৱে পুনৰ ল'ড হোৱাৰ পৰা প্ৰতিৰোধ কৰিছে।
 refresh-blocked-redirect-label = { -brand-short-name } এ এই পৃষ্টাক স্বচালিতভাৱে অন্য পৃষ্টালে যোৱাৰ পৰা প্ৰতিৰোধ কৰিছে।
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = নিৰাপদে এড-অন ইনষ্টল কৰাৰ বিষয়ে অধিক জানক
