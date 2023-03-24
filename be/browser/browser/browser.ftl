@@ -672,6 +672,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Пераключыць рэжым "Выява ў выяве"
 
 ## Full Screen and Pointer Lock UI
 
