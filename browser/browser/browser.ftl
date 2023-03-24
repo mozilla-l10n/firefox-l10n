@@ -659,6 +659,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = 리더뷰 닫기
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -972,3 +975,7 @@ firefox-relay-offer-how-we-integrate = 계속하면 { -brand-shorter-name } 비�
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong>의 모든 이메일을 <strong>{ $useremail }</strong>로 전달합니다.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = 부가 기능을 안전하게 설치하는 방법에 대해 더 알아보기
