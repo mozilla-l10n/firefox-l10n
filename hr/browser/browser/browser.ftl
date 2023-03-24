@@ -965,3 +965,4 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+popup-notification-xpinstall-prompt-learn-more = Naučite više o sigurnom instaliranju dodataka
