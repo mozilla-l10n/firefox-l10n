@@ -386,6 +386,9 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Lor Neno me Kwan
 
+## Picture-in-Picture urlbar button
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -427,6 +430,11 @@ bookmarks-other-bookmarks-menu =
     .label = Alamabuk Mukene
 bookmarks-mobile-bookmarks-menu =
     .label = Alamabuk me cing
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -445,6 +453,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Kwany jami ayera me alamabuk ki i Gitic
            *[other] Med jami ayera me alamabuk ii Gitic
         }
+
+##
+
 bookmarks-search =
     .label = Yeny Alamabuk
 bookmarks-tools =
@@ -608,3 +619,7 @@ refresh-blocked-allow =
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Wabi cwalo email weng ma aa ki bot <strong>{ $sitename }</strong> bot <strong>{ $useremail }</strong>.
+
+## Popup Notification
+
+popup-notification-xpinstall-prompt-learn-more = Nong ngec mapol ikom keto med-ikome maber
