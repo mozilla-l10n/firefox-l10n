@@ -692,3 +692,4 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+popup-notification-xpinstall-prompt-learn-more = Qoʻshimcha dasturlarni xavfsiz oʻrnatish haqida batafsil
