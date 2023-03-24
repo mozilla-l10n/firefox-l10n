@@ -103,14 +103,27 @@ browser-containers-settings =
 containers-disable-alert-cancel-button = ເປີດໃຊ້ງານຕໍ່ໄປ
 containers-remove-alert-title = ເອົາການແຍກຂໍ້ມູນນີ້ອອກ?
 containers-remove-ok-button = ເອົາຕູ້ຄອນເທນເນີນີ້ອອກ
+containers-remove-cancel-button = ຢ່າເອົາ Container ນີ້ອອກ
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ພາສາແລະລັກສະນະທີ່ປະກົດ
+preferences-web-appearance-header = ຮູບລັກສະນະຂອງເວັບໄຊທ໌
+preferences-web-appearance-choice-browser = ຊຸດຮູບແບບຂອງ { -brand-short-name }
 preferences-web-appearance-choice-system = ຊຸດປັບແຕ່ງລະບົບ
 preferences-web-appearance-choice-auto = ອັດຕະໂນມັດ
 preferences-web-appearance-choice-light = ແຈ້ງ
 preferences-web-appearance-choice-dark = ມືດ
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-colors-header = ສີ
 preferences-fonts-header = ຟັອນ
 default-font = ແບບອັກສອນເລີ່ມຕົ້ນ
@@ -315,6 +328,11 @@ home-prefs-content-header = ເນື້ອໃນຫນ້າທຳອິດຂ�
 home-prefs-content-description = ເລືອກເນື້ອຫາທີ່ທ່ານຕ້ອງການສະແດງໃນຫນ້າຈໍຫນ້າຫລັກ Firefox ຂອງທ່ານ.
 home-prefs-search-header =
     .label = ຊອກຫາເວັບ
+home-prefs-shortcuts-header =
+    .label = ທາງລັດ
+home-prefs-shortcuts-description = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
+home-prefs-shortcuts-by-option-sponsored =
+    .label = ທາງລັດສະປອນເຊີ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -325,9 +343,11 @@ home-prefs-search-header =
 
 home-prefs-recommended-by-header =
     .label = ແນະນຳໂດຍ { $provider }
+home-prefs-recommended-by-description-new = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { $provider }, ສ່ວນໜຶ່ງຂອງຄອບຄົວ { -brand-product-name }
 
 ##
 
+home-prefs-recommended-by-learn-more = ມັນເຮັດວຽກແນວໃດ
 home-prefs-recommended-by-option-sponsored-stories =
     .label = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
 home-prefs-recommended-by-option-recent-saves =
@@ -342,12 +362,14 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = ຫນ້າທີ່ບັນທຶກໄວ້ໃນ { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
+home-prefs-recent-activity-description = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = ສ່ວນຍ່ອຍ
+home-prefs-snippets-description-new = ເຄັດລັບ ແລະຂ່າວຈາກ { -vendor-short-name } ແລະ { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -362,6 +384,7 @@ search-bar-shown =
     .label = ເພີ່ມແທັບຊອກຫາໃນແທັບເຄື່ອງມື
 search-engine-default-header = ເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
 search-suggestions-header = ຄົ້ນຫາຄໍາແນະນໍາ
+search-suggestions-desc = ເລືອກວິທີທີ່ຄໍາແນະນໍາຈາກເຄື່ອງຈັກຊອກຫາປາກົດ.
 search-suggestions-option =
     .label = ໃຫ້ຄໍາແນະນໍາໃນການຊອກຫາ
     .accesskey = S
@@ -616,13 +639,18 @@ content-blocking-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ##
 
+content-blocking-cross-site-tracking-cookies = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ
+content-blocking-all-cross-site-cookies-private-windows = ຄຸກກີຂ້າມເວັບໄຊໃນ Windows ສ່ວນຕົວ
+content-blocking-all-cookies = ຄຸກກີທັງໝົດ
 content-blocking-all-third-party-cookies = ຄຸກກີພາກສ່ວນທີສາມທັງໝົດ
+content-blocking-fingerprinters = ລາຍນິ້ວມື
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 content-blocking-warning-title = ລະວັງ!
 content-blocking-warning-learn-how = ຮຽນຮູ້ວິທີການ
+content-blocking-reload-description = ທ່ານຈະຕ້ອງໂຫຼດແຖບຂອງທ່ານຄືນໃໝ່ເພື່ອນຳໃຊ້ການປ່ຽນແປງເຫຼົ່ານີ້.
 content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
 
 ## Privacy Section - Tracking

@@ -231,6 +231,7 @@ cfr-cookiebanner-accept-button-variant-2 = ອະນຸຍາດ
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
+cfr-cbh-header = ອະນຸຍາດໃຫ້ { -brand-short-name } ປະຕິເສດປ້າຍໂຄສະນາຄຸກກີບໍ?
 cfr-cbh-body = { -brand-short-name } ສາມາດປະຕິເສດຄຳຮ້ອງຂໍປ້າຍໂຄສະນາຄຸກກີໄດ້ໂດຍອັດຕະໂນມັດ.
 cfr-cbh-confirm-button = ປະຕິເສດປ້າຍໂຄສະນາຄຸກກີ
     .accesskey = R

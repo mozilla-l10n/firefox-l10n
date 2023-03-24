@@ -21,6 +21,10 @@ more-from-moz-mozilla-rally-description = ເອົາຂໍ້ມູນຂອ�
 more-from-moz-button-mozilla-rally-2 = ເຂົ້າຮ່ວມ { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-button = ສົ່ງອີເມວຫາໂທລະສັບຂອງທ່ານແທນ
 more-from-moz-button-mozilla-vpn-2 = ຮັບ VPN
+more-from-moz-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
+more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = ປົກປ້ອງກ່ອງຈົດໝາຍ ແລະຕົວຕົນຂອງທ່ານດ້ວຍການໃສ່ໜ້າກາກອີເມວຟຣີ.
+more-from-moz-firefox-relay-button = ເອົາ { -relay-brand-short-name }

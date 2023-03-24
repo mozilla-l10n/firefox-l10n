@@ -289,6 +289,7 @@ mr2022-onboarding-get-started-primary-button-label = ຕັ້ງຄ່າໃນ
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = ການ​ຕັ້ງ​ຄ່າ​ໄວ​ຟ້າ​ຜ່າ​
 mr2022-onboarding-import-primary-button-label-no-attribution = ນໍາເຂົ້າຈາກຕົວທ່ອງເວັບທີ່ຜ່ານມາ
 
 ## If your language uses grammatical genders, in the description for the
