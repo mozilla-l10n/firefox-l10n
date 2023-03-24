@@ -27,6 +27,7 @@ neterror-try-again-button = Thử lại
 neterror-add-exception-button = Luôn luôn tiếp tục cho trang web này
 neterror-settings-button = Thay đổi cài đặt DNS
 neterror-view-certificate-link = Xem chứng chỉ
+neterror-trr-continue-this-time = Tiếp tục lần này
 neterror-disable-native-feedback-warning = Luôn luôn tiếp tục
 
 ##
