@@ -12,7 +12,15 @@
 
 onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
 onboarding-start-browsing-button-label = Gezinmeye başla
-onboarding-not-now-button-label = Daha sonra
+onboarding-not-now-button-label = Şimdi değil
+mr1-onboarding-get-started-primary-button-label = Başla
+mr1-onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } tarayıcısını ana tarayıcım yap
+    .title = { -brand-short-name } tarayıcısını varsayılan tarayıcı olarak ayarlayıp görev çubuğuna sabitler
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
+mr1-onboarding-set-default-secondary-button-label = Şimdi değil
 
 ## Custom Return To AMO onboarding strings
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Başla
-mr1-onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } tarayıcısını ana tarayıcım yap
-    .title = { -brand-short-name } tarayıcısını varsayılan tarayıcı olarak ayarlayıp görev çubuğuna sabitler
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
-mr1-onboarding-set-default-secondary-button-label = Daha sonra
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Giriş yap
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -111,11 +110,11 @@ mr1-onboarding-import-subtitle = Parolalarınızı, yer imlerinizi ve <br/>daha 
 mr1-onboarding-import-primary-button-label-attribution = { $previous } tarayıcısından içe aktar
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
-mr1-onboarding-import-secondary-button-label = Daha sonra
+mr1-onboarding-import-secondary-button-label = Şimdi değil
 mr2-onboarding-colorway-header = Hayatınıza renk katın
 mr2-onboarding-colorway-subtitle = Yepyeni renk kuşakları. Sadece sınırlı bir süre için.
 mr2-onboarding-colorway-primary-button-label = Renk kuşağını kaydet
-mr2-onboarding-colorway-secondary-button-label = Daha sonra
+mr2-onboarding-colorway-secondary-button-label = Şimdi değil
 mr2-onboarding-colorway-label-soft = Yumuşak
 mr2-onboarding-colorway-label-balanced = Dengeli
 # "Bold" is used in the sense of bravery or courage, not in the sense of
@@ -128,7 +127,7 @@ mr2-onboarding-theme-label-default = Varsayılan
 mr1-onboarding-theme-header = Zevkinize göre ayarlayın
 mr1-onboarding-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
 mr1-onboarding-theme-primary-button-label = Temayı kaydet
-mr1-onboarding-theme-secondary-button-label = Daha sonra
+mr1-onboarding-theme-secondary-button-label = Şimdi değil
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Sistem teması
 mr1-onboarding-theme-label-light = Açık

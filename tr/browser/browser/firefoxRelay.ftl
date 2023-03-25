@@ -28,5 +28,5 @@ firefox-relay-opt-in-confirmation-disable =
     .label = Bunu bir daha gösterme
     .accesskey = B
 firefox-relay-opt-in-confirmation-postpone =
-    .label = Daha sonra
-    .accesskey = D
+    .label = Şimdi değil
+    .accesskey = m
