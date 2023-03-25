@@ -64,6 +64,15 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (ikkje send inn ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Sørg for at det i det føregåande feltet er ein feilsøkingskode som du kan hugse, slik at du kan kjenne att pinga dine seinare.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Vel pinget frå den føregåande lista, som inneheld instrumenteringa di.
+    Dersom det er eit <a data-l10n-name="custom-ping-link">tilpassa ping</a>, så vel det.
+    Elles er standardverdien for <code>hendings</code>-berekningar
+    <code>hendingar</code>-pinga
+    og standard for alle andre målingar er
+    <code>metrics</code>-pinget.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (Valfritt. Kryss av i den føregåande boksen dersom du vil at pinga også skal loggast når dei vert sende inn.
