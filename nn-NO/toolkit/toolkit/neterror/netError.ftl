@@ -27,6 +27,7 @@ neterror-try-again-button = Prøv på nytt
 neterror-add-exception-button = Fortset alltid for denne sida
 neterror-settings-button = Endre DNS-instillingar
 neterror-view-certificate-link = Vis sertifikat
+neterror-trr-continue-this-time = Hald fram denne gongen
 neterror-disable-native-feedback-warning = Hald alltid fram
 
 ##
