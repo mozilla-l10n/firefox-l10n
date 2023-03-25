@@ -20,4 +20,4 @@ default-browser-prompt-title-alt = { -brand-short-name } varsayılan tarayıcın
 default-browser-prompt-message-alt = Her seferinde hızlı, güvenli ve gizli gezintiye kavuşun.
 default-browser-prompt-button-primary-alt = Varsayılan tarayıcı yap
 default-browser-prompt-checkbox-not-again-label = Bu mesajı bir daha gösterme
-default-browser-prompt-button-secondary = Daha sonra
+default-browser-prompt-button-secondary = Şimdi değil

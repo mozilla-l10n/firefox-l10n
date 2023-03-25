@@ -12,8 +12,8 @@ cfr-doorhanger-feature-heading = Özellik Önerisi
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bunu neden görüyorum?
-cfr-doorhanger-extension-cancel-button = Daha sonra
-    .accesskey = D
+cfr-doorhanger-extension-cancel-button = Şimdi değil
+    .accesskey = m
 cfr-doorhanger-extension-ok-button = Hemen ekle
     .accesskey = H
 cfr-doorhanger-extension-manage-settings-button = Öneri ayarlarını yönet
@@ -140,8 +140,8 @@ spotlight-public-wifi-vpn-header = Galiba herkese açık bir Wi-Fi ağına bağl
 spotlight-public-wifi-vpn-body = Konumunuzu ve girdiğiniz siteleri gizlemek için VPN kullanabilirsiniz. Havalimanları ve kafeler gibi halka açık yerlerde internette gezinirken VPN kullanmanız güvenliğinizi artırır.
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } ile gizli kalın
     .accesskey = k
-spotlight-public-wifi-vpn-link = Daha sonra
-    .accesskey = D
+spotlight-public-wifi-vpn-link = Şimdi değil
+    .accesskey = m
 
 ## Total Cookie Protection Rollout
 
@@ -155,7 +155,7 @@ spotlight-total-cookie-protection-body = Komple çerez koruması, takip kodları
 # "soft launch" as not everybody will get it yet.
 spotlight-total-cookie-protection-expanded = { -brand-short-name }, çerezlerin etrafına bir duvar örerek bulunduğunuz sitedeki çerezleri sadece o sitenin kullanmasına izin verir. Böylece takip kodları sizi izlemek için çerezleri kullanamaz. Erken erişim aşamasında bu özelliği deneyerek herkes için daha iyi bir web yaratmamıza yardımcı olabilirsiniz.
 spotlight-total-cookie-protection-primary-button = Komple çerez korumasını aç
-spotlight-total-cookie-protection-secondary-button = Daha sonra
+spotlight-total-cookie-protection-secondary-button = Şimdi değil
 
 ## Emotive Continuous Onboarding
 
@@ -168,7 +168,7 @@ spotlight-pin-primary-button =
         [macos] Dock’a sabitle
        *[other] Görev çubuğuna sabitle
     }
-spotlight-pin-secondary-button = Daha sonra
+spotlight-pin-secondary-button = Şimdi değil
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -200,8 +200,8 @@ mr2022-background-update-toast-secondary-button-label = Daha sonra hatırlat
 
 firefoxview-cfr-primarybutton = Deneyin
     .accesskey = D
-firefoxview-cfr-secondarybutton = Daha sonra
-    .accesskey = s
+firefoxview-cfr-secondarybutton = Şimdi değil
+    .accesskey = m
 firefoxview-cfr-header-v2 = Kaldığınız yerden hızlıca devam edin
 firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ile yakın zamanda kapattığınız sekmeleri geri getirebilir ve cihazlarınız arasında kolayca şekilde geçiş yapabilirsiniz.
 
@@ -231,8 +231,8 @@ cfr-cookiebanner-header = Çerez bildirimlerine son!
 cfr-cookiebanner-body = { -brand-short-name } tarayıcınızın mümkün olduğunda tüm çerez bildirimi isteklerini otomatik reddetmesine izin verin.
 cfr-cookiebanner-accept-button-v2 = İstekleri reddet
     .accesskey = R
-cfr-cookiebanner-reject-button = Daha sonra
-    .accesskey = D
+cfr-cookiebanner-reject-button = Şimdi değil
+    .accesskey = m
 cfr-cookiebanner-header-variant-1 = Daha az çerez bildirimi görün
 cfr-cookiebanner-body-variant-1 = Dikkatiniz dağılmadan gezinmeniz için { -brand-short-name }, çerez bildirimlerini otomatik olarak yanıtlayabilir. { -brand-short-name }, mümkün olduğu sürece tüm istekleri reddedecektir.
 cfr-cookiebanner-accept-button-variant-1 = Bildirimleri kapat
@@ -243,17 +243,14 @@ cfr-cookiebanner-header-variant-2 = Çerez bildirimlerini azaltın
 cfr-cookiebanner-body-variant-2 = { -brand-short-name }, mümkün olduğunda web sitelerinin çerez onayı taleplerini reddederek, gördüğünüz çerez bildirimlerini azaltabilir.
 cfr-cookiebanner-accept-button-variant-2 = İzin ver
     .accesskey = z
-cfr-cookiebanner-reject-button-variant-2 = Daha sonra
-    .accesskey = D
-
-## Cookie Banner Handling CFR
-
+cfr-cookiebanner-reject-button-variant-2 = Şimdi değil
+    .accesskey = m
 cfr-cbh-header = { -brand-short-name } çerez bildirimlerini reddedebilsin mi?
 cfr-cbh-body = { -brand-short-name } birçok çerez bildirimi isteğini otomatik olarak reddedebilir.
 cfr-cbh-confirm-button = Çerez bildirimlerini reddet
     .accesskey = r
-cfr-cbh-dismiss-button = Daha sonra
-    .accesskey = D
+cfr-cbh-dismiss-button = Şimdi değil
+    .accesskey = m
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
