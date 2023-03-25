@@ -917,6 +917,8 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-learn-more = Tetamäx ch'aqa' chik
+forms-handle-cookie-banners =
+    .label = Kech'utinär ri taq kib'aner koki
 
 ## Privacy Section - Address Bar
 
@@ -1054,6 +1056,9 @@ permissions-microphone = Q'asäy ch'ab'äl
 permissions-microphone-settings =
     .label = Taq nuk'ulem…
     .accesskey = m
+permissions-speaker-settings =
+    .label = Taq nuk'ulem…
+    .accesskey = n
 permissions-notification = Taq rutzijol
 permissions-notification-settings =
     .label = Taq nuk'ulem…
@@ -1069,6 +1074,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = Keq'at elenel taq tzuwäch
     .accesskey = K
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Taq man relik ta…
+    .accesskey = m
+    .searchkeywords = elenel
 permissions-addon-install-warning =
     .label = Taya' rutzijol jampe' toq ri ruxaq ajk'amaya'l nrajo' yeruyäk taq tz'aqat
     .accesskey = T
@@ -1098,6 +1109,7 @@ addon-recommendations-link = Tetamäx ch'aqa' chik
 collection-health-report-disabled = Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'
 collection-backlogged-crash-reports-with-link = Tiya' q'ij chi { -brand-short-name } yerutäq taq rutzijol sachoj emolon pa rub'i' <a data-l10n-name="crash-reports-link">Tetamäx ch'aqa' chik</a>
     .accesskey = s
+privacy-segmentation-section-header = K'ak'a' taq b'anikil nikutzilaj ri okem pa k'amaya'l
 privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
 privacy-segmentation-radio-on =

@@ -105,10 +105,16 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 protections-panel-cookie-banner-handling-header = Kech'utinirisäx kitzijol kuki
 protections-panel-cookie-banner-handling-enabled = Tzijïl pa re ruxaq re'
 protections-panel-cookie-banner-handling-disabled = Chupül pa re ruxaq re'
+protections-panel-cookie-banner-handling-undetected = Wakami man koch'el ta re ruxaq re'
 protections-panel-cookie-banner-view-title =
     .title = Kech'utinirisäx kitzijol kuki
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Chi rij
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = ¿La nichup ri kich'utinisaxik rutzijol kuki richin { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = ¿La nitzij ri kich'utinisaxik rutzijol kuki richin re ruxaq?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } xkeruyüj ri taq rukuki re ruxaq chuqa' xtuk'ëx re ruxaq. Xkeruyüj ronojel ri taq kuki, nitikïr nutz'apij ri molojri'ïl o yerujäm ri taq ruch'ich' loq'oj.
 protections-panel-cookie-banner-view-cancel = Tiq'at
 protections-panel-cookie-banner-view-turn-off = Tichup
 protections-panel-cookie-banner-view-turn-on = Titzij
