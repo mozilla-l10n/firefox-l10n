@@ -80,6 +80,15 @@ tabbrowser-confirm-close-tabs-button = Ketz'apïx Ruwi'
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [one] ¿La nitz'apïx { $windowCount } windows?
+       *[other] ¿La yetz'apïx { $windowCount } windows?
+    }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
         [windows] Titz'apïx chuqa' tel

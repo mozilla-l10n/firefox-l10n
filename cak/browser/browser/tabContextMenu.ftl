@@ -90,6 +90,14 @@ tab-context-reopen-closed-tabs =
            *[other] Kejaq Chik Tz'apin taq Ruwi'
         }
     .accesskey = a
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Titz'apïx Ruwi'
+            [one] Titz'apïx { $tabCount } Ruwi'
+           *[other] Ketz'apïx { $tabCount } Ruwi'
+        }
+    .accesskey = t
 tab-context-move-tabs =
     .label =
         { $tabCount ->
