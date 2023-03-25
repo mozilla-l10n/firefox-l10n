@@ -664,6 +664,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = הפעלה או כיבוי מצב תמונה בתוך תמונה
 
 ## Full Screen and Pointer Lock UI
 
