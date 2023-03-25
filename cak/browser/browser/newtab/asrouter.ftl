@@ -228,6 +228,10 @@ cfr-cookiebanner-accept-button-variant-2 = Tiya' q'ij
     .accesskey = y
 cfr-cookiebanner-reject-button-variant-2 = Wakami mani
     .accesskey = n
+cfr-cbh-confirm-button = Kexutüx kitzijol kuki
+    .accesskey = x
+cfr-cbh-dismiss-button = Wakami mani
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
