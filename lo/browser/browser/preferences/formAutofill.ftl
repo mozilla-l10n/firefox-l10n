@@ -52,25 +52,38 @@ autofill-address-suburb = ຊານເມືອງ
 autofill-address-province = ແຂວງ
 autofill-address-state = ລັດ
 autofill-address-county = ປະເທດ
+# Used in BB, JM
+autofill-address-parish = ເມືອງ
+# Used in JP
+autofill-address-prefecture = ແຂວງ
 # Used in HK
 autofill-address-area = ພື້ນທີ່
+# Used in KR
+autofill-address-do-si = Do/Si
 # Used in NI, CO
 autofill-address-department = ພະແນກ
 # Used in AE
 autofill-address-emirate = ເອມິເຣດ
+# Used in RU and UA
+autofill-address-oblast = ເຂດ
 
 ## Postal code name types
 
 # Used in IN
 autofill-address-pin = ປັກໝຸດ
+autofill-address-postal-code = ລະ​ຫັດ​ໄປ​ສະ​ນີ
 autofill-address-zip = ລະຫັດໄປສະນີ
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
+autofill-address-country = ປະເທດ ຫຼືພາກພື້ນ
 autofill-address-tel = ໂທລະສັບ
 autofill-address-email = ອີເມວ
 autofill-cancel-button = ຍົກເລີກ
 autofill-save-button = ບັນທຶກ
+autofill-country-warning-message = ການຕື່ມແບບຟອມອັດຕະໂນມັດແມ່ນສາມາດໃຊ້ໄດ້ກັບບາງປະເທດເທົ່ານັ້ນ.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ເພີ່ມບັດເຄຣດິດໃໝ່
 # The dialog title for editing credit cards in browser preferences.

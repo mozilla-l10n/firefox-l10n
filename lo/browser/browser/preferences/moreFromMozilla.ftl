@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = ກວດເບິ່ງຜະລິດຕະພັນອື່ນໆຂອງ { -vendor-short-name } ທີ່ເຮັດວຽກເພື່ອຮອງຮັບອິນເຕີເນັດທີ່ມີສຸຂະພາບດີ.
 more-from-moz-firefox-mobile-title = { -brand-product-name } ມືຖື
 more-from-moz-firefox-mobile-description = ຕົວທ່ອງເວັບຂອງມືຖືທີ່ເອົາຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າເປັນອັນດັບທໍາອິດ.
+more-from-moz-firefox-mobile-description-advanced = ຈາກການບລັອກຕົວຕິດຕາມຈົນຮອດການວາງເບຣກໃນເລື່ອງການລົບກວນການຫຼິ້ນອັດຕະໂນມັດ, ຕົວທ່ອງເວັບມືຖື { -brand-product-name } ເຮັດວຽກລ່ວງເວລາເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ຮັບອິນເຕີເນັດທີ່ດີ.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = ຄົ້ນພົບການເພີ່ມຊັ້ນຂອງການຊອກຫາແບບບໍ່ເປີດເຜີຍຊື່ ແລະການປົກປ້ອງ.
 # This string is specific to the product Mozilla Rally which is US only.
@@ -19,7 +20,10 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 more-from-moz-mozilla-rally-description = ເອົາຂໍ້ມູນຂອງທ່ານໄປເຮັດວຽກເພື່ອອິນເຕີເນັດທີ່ດີກວ່າສໍາລັບທຸກຄົນ.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = ເຂົ້າຮ່ວມ { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-title = ດາວໂຫຼດໂດຍໃຊ້ອຸປະກອນມືຖືຂອງເຈົ້າ. ເລັງກ້ອງຂອງທ່ານໄປທີ່ລະຫັດ QR. ເມື່ອລິ້ງປາກົດ, ແຕະມັນ.
 more-from-moz-qr-code-box-firefox-mobile-button = ສົ່ງອີເມວຫາໂທລະສັບຂອງທ່ານແທນ
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = ລະຫັດ QR ເພື່ອດາວໂຫຼດ { -brand-product-name } ມືຖື
 more-from-moz-button-mozilla-vpn-2 = ຮັບ VPN
 more-from-moz-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 

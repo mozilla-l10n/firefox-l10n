@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+add-engine-button = ເພີ່ມ Custom Engine
+add-engine-name = ຊື່ເຄື່ອງມືການຄົ້ນຫາ
 add-engine-alias = ນາມແຝງ
 add-engine-url = URL ຂອງເຄື່ອງຈັກ, ໃຊ້ %s ແທນຄໍາຄົ້ນຫາ
 add-engine-dialog =

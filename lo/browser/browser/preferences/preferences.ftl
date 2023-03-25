@@ -4,6 +4,8 @@
 
 do-not-track-description = ສົ່ງສັນຍານ “ບໍ່ຕິດຕາມ” ໃຫ້ກັບເວັບໄຊທ໌ວ່າທ່ານບໍ່ຕ້ອງການຖືກຕິດຕາມ
 do-not-track-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+do-not-track-option-default-content-blocking-known =
+    .label = ເມື່ອ { -brand-short-name } ຖືກຕັ້ງໃຫ້ບລັອກຕົວຕິດຕາມທີ່ຮູ້ຈັກເທົ່ານັ້ນ
 do-not-track-option-always =
     .label = ຕະຫຼອດເວລາ
 settings-page-title = ການຕັ້ງຄ່າ
@@ -67,6 +69,9 @@ restart-later = ເລີ່ມເຮັດວຽກໃຫມ່ພາຍຫລ�
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> ຄວບຄຸມວິທີທີ່ { -brand-short-name } ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.
 
 ## Preferences UI Search Results
 
