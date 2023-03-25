@@ -914,6 +914,10 @@ sitedata-cookies-exceptions =
     .label = Kenuk'samajïx taq Man Relik Ta...
     .accesskey = R
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-learn-more = Tetamäx ch'aqa' chik
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Kikajtz'ik Ochochib'äl
