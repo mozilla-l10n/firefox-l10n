@@ -27,6 +27,7 @@ neterror-try-again-button = נסה שוב
 neterror-add-exception-button = תמיד להמשיך עבור אתר זה
 neterror-settings-button = שינוי הגדרות DNS
 neterror-view-certificate-link = הצגת אישור
+neterror-trr-continue-this-time = להמשיך רק הפעם
 neterror-disable-native-feedback-warning = תמיד להמשיך
 
 ##
