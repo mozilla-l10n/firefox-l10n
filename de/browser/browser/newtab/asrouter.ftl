@@ -245,6 +245,10 @@ cfr-cookiebanner-accept-button-variant-2 = Erlauben
     .accesskey = E
 cfr-cookiebanner-reject-button-variant-2 = Nicht jetzt
     .accesskey = N
+cfr-cbh-header = { -brand-short-name } erlauben, Cookie-Banner abzulehnen?
+cfr-cbh-body = { -brand-short-name } kann viele Cookie-Banner-Anfragen automatisch ablehnen.
+cfr-cbh-confirm-button = Cookie-Banner ablehnen
+    .accesskey = a
 cfr-cbh-dismiss-button = Nicht jetzt
     .accesskey = N
 
