@@ -226,8 +226,8 @@ colorways-cfr-header-today = Fargesammensettingen «Uavhengige stemmer» utløpe
 ## Cookie Banner Handling CFR
 
 # Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Fjern infoskapselbannere!
-cfr-cookiebanner-body = Tillat at { -brand-short-name } automatisk avviser alle forespørsler om infoskapselbanner når det er mulig.
+cfr-cookiebanner-header = Fjern infokapselbannere!
+cfr-cookiebanner-body = Tillat at { -brand-short-name } automatisk avviser alle forespørsler om infokapselbanner når det er mulig.
 cfr-cookiebanner-accept-button-v2 = Avvis forespørsler
     .accesskey = A
 cfr-cookiebanner-reject-button = Ikke nå
@@ -238,15 +238,15 @@ cfr-cookiebanner-accept-button-variant-1 = Avvis sprettoppvinduer
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-1 = Nei takk
     .accesskey = N
-cfr-cookiebanner-header-variant-2 = Redusering av infoskapselbannere
-cfr-cookiebanner-body-variant-2 = Reduser mengden infoskapselbannere du ser ved å la { -brand-short-name } avslå forespørselen om samtykke fra et nettsted om mulig.
+cfr-cookiebanner-header-variant-2 = Redusering av infokapselbannere
+cfr-cookiebanner-body-variant-2 = Reduser mengden infokapselbannere du ser ved å la { -brand-short-name } avslå forespørselen om samtykke fra et nettsted om mulig.
 cfr-cookiebanner-accept-button-variant-2 = Tillat
     .accesskey = T
 cfr-cookiebanner-reject-button-variant-2 = Ikke nå
     .accesskey = k
-cfr-cbh-header = Tillate at { -brand-short-name } avviser infoskapselbannere?
-cfr-cbh-body = { -brand-short-name } kan automatisk avvise mange infoskapselbanner-forespørsler.
-cfr-cbh-confirm-button = Avvis infoskapselbannere
+cfr-cbh-header = Tillate at { -brand-short-name } avviser infokapselbannere?
+cfr-cbh-body = { -brand-short-name } kan automatisk avvise mange infokapselbanner-forespørsler.
+cfr-cbh-confirm-button = Avvis infokapselbannere
     .accesskey = A
 cfr-cbh-dismiss-button = Ikke nå
     .accesskey = k
