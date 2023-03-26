@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Введите корректное сетево
 permissions-exceptions-etp-window =
     .title = Исключения для улучшенной защиты от отслеживания
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Вы отключили защиту на следующих веб-сайтах.
 permissions-exceptions-etp-window2 =
     .title = Исключения для улучшенной защиты от отслеживания
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Вы отключили защиту на следующих веб-сайтах.
 permissions-exceptions-manage-etp-desc = Вы можете указать, на каких сайтах отключить «Улучшенную защиту от отслеживания». Введите точный адрес сайта, которым вы хотите управлять, и нажмите «Добавить исключение».
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Следующие веб-сайты запр
 permissions-site-microphone-disable-label =
     .label = Блокировать новые запросы на доступ к вашему микрофону
 permissions-site-microphone-disable-desc = Это не позволит веб-сайтам, кроме перечисленных выше, запрашивать разрешение на доступ к вашему микрофону. Блокировка доступа к вашему микрофону может нарушить некоторые функции веб-сайта.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Настройки — Разрешения на доступ к динамику
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Следующие сайты запросили выбор устройства вывода звука. Вы можете указать, каким сайтам разрешено выбирать устройство вывода звука.
