@@ -36,6 +36,8 @@ permissions-remove-all =
     .accesskey = ມ
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
+permissions-capabilities-autoplay-blockall =
+    .label = ບລັອກສຽງ ແລະວິດີໂອ
 permissions-capabilities-allow =
     .label = ອະນຸຍາດ
 permissions-capabilities-block =
@@ -50,6 +52,8 @@ permissions-capabilities-listitem-allow-session =
     .value = ອະນຸຍາດສຳລັບເຊສຊັນນີ້
 permissions-capabilities-listitem-off =
     .value = ປິດ
+permissions-capabilities-listitem-off-temporarily =
+    .value = ປິດຊົ່ວຄາວ
 
 ## Invalid Hostname Dialog
 
@@ -71,6 +75,7 @@ permissions-exceptions-cookie-desc = ທ່ານສາມາດລະບຸເ�
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-desc = ທ່ານສາມາດປິດ HTTPS-Only Mode ສໍາລັບເວັບໄຊທ໌ສະເພາະ. { -brand-short-name } ຈະບໍ່ພະຍາຍາມຍົກລະດັບການເຊື່ອມຕໍ່ໃຫ້ປອດໄພ HTTPS ສໍາລັບເວັບໄຊທ໌ເຫຼົ່ານັ້ນ. ຂໍ້ຍົກເວັ້ນບໍ່ໄດ້ໃຊ້ກັບປ່ອງຢ້ຽມສ່ວນຕົວ.
 
 ## Exceptions - Pop-ups
 

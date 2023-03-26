@@ -69,9 +69,18 @@ restart-later = ເລີ່ມເຮັດວຽກໃຫມ່ພາຍຫລ�
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ຄວບຄຸມການຕັ້ງຄ່ານີ້.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> ຄວບຄຸມວິທີທີ່ { -brand-short-name } ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = ເພື່ອເປີດໃຊ້ສ່ວນຂະຫຍາຍໃຫ້ໄປທີ່ <img data-l10n-name="addons-icon"/> ສ່ວນເສີມໃນເມນູ <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -119,6 +128,10 @@ preferences-web-appearance-choice-system = ຊຸດປັບແຕ່ງລະ�
 preferences-web-appearance-choice-auto = ອັດຕະໂນມັດ
 preferences-web-appearance-choice-light = ແຈ້ງ
 preferences-web-appearance-choice-dark = ມືດ
+preferences-web-appearance-choice-tooltip-system =
+    .title = ກົງກັບການຕັ້ງຄ່າລະບົບຂອງທ່ານສໍາລັບພື້ນຖານເວັບໄຊທ໌ ແລະເນື້ອຫາ.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = ໃຊ້ຮູບລັກສະນະທີ່ມືດມົວສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -129,7 +142,14 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = ການເລືອກສີຂອງທ່ານແມ່ນ overriding ຮູບລັກສະນະເວັບໄຊທ໌. <a data-l10n-name="colors-link">ຈັດການສີ</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = ຈັດການຮູບແບບສີສັນ { -brand-short-name } ໃນ <a data-l10n-name="themes-link">ສ່ວນຂະຫຍາຍ ແລະຮູບແບບສີສັນ</a>
 preferences-colors-header = ສີ
+preferences-colors-description = ລົບລ້າງສີເລີ່ມຕົ້ນຂອງ { -brand-short-name } ສໍາລັບຂໍ້ຄວາມ, ພື້ນຫຼັງເວັບໄຊທ໌ ແລະລິ້ງ.
 preferences-fonts-header = ຟັອນ
 default-font = ແບບອັກສອນເລີ່ມຕົ້ນ
     .accesskey = ລ
@@ -208,6 +228,8 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = ໃຊ້ { $plugin-name } ( ໃນ { -brand-short-name } )
+applications-open-inapp =
+    .label = ເປີດໃນ { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -225,9 +247,12 @@ applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } ຄວນເຮັດຫຍັງກັບໄຟລ໌ອື່ນ?
 play-drm-content-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 update-application-title = ອັບເດດ { -brand-short-name }
 update-application-description = ຮັກສາ { -brand-short-name } ໃໝ່ຫຼ້າສຸດເພື່ອປະສິດທິພາບ, ຄວາມໝັ້ນຄົງ ແລະຄວາມປອດໄພທີ່ດີທີ່ສຸດ.
