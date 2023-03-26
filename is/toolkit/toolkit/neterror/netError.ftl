@@ -27,6 +27,7 @@ neterror-try-again-button = Reyna aftur
 neterror-add-exception-button = Alltaf halda áfram fyrir þetta vefsvæði
 neterror-settings-button = Breyta DNS-stillingum
 neterror-view-certificate-link = Skoða skilríki
+neterror-trr-continue-this-time = Halda áfram að þessu sinni
 neterror-disable-native-feedback-warning = Halda alltaf áfram
 
 ##

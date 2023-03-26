@@ -668,6 +668,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Víxla mynd-í-mynd af/á
 
 ## Full Screen and Pointer Lock UI
 
