@@ -27,6 +27,7 @@ neterror-try-again-button = Δοκιμή ξανά
 neterror-add-exception-button = Πάντα συνέχεια για αυτόν τον ιστότοπο
 neterror-settings-button = Αλλαγή ρυθμίσεων DNS
 neterror-view-certificate-link = Προβολή πιστοποιητικού
+neterror-trr-continue-this-time = Συνέχεια αυτήν τη φορά
 neterror-disable-native-feedback-warning = Πάντα συνέχεια
 
 ##
