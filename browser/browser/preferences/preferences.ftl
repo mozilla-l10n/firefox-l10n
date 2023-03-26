@@ -73,6 +73,17 @@ restart-later = Später neu starten
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolliert diese Einstellung.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Einstellungen…
     .accesskey = u
 containers-disable-alert-title = Alle Tabs im Umgebungen schließen?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Falls die Funktion "Tab-Umgebungen" jetzt deaktiviert wird, so wird { $tabCount } Tab in einer Umgebung geschlossen. Soll die Funktion "Tab-Umgebungen" wirklich deaktiviert werden?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] { $tabCount } Tab in einer Umgebung schließen
        *[other] { $tabCount } Tabs im Umgebungen schließen
     }
+
+##
+
 containers-disable-alert-cancel-button = Aktiviert belassen
 containers-remove-alert-title = Diese Umgebung löschen?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Wenn diese Umgebung jetzt gelöscht wird, so wird { $count } Tab aus dieser Umgebung geschlossen. Soll diese Umgebung wirklich gelöscht werden?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Standard-Zoom
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage } %
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Jedes Mal nachfragen
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } (in { -brand-short-name }) verwenden
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Weitere Informationen
 update-application-title = { -brand-short-name }-Updates
 update-application-description = { -brand-short-name } aktuell halten, um höchste Leistung, Stabilität und Sicherheit zu erfahren.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Neue Funktionen und Änderungen</a>
 update-history =
     .label = Update-Chronik anzeigen…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = B
 update-setting-write-failure-title2 = Fehler beim Speichern der Update-Einstellungen
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Maximale Anzahl an Inhaltsprozessen
 performance-limit-content-process-enabled-desc = Mehr Inhaltsprozesse verbessern die Leistung bei Verwendung mehrerer Tabs, aber nutzen auch mehr Arbeitsspeicher.
 performance-limit-content-process-blocked-desc = Das Ändern der Anzahl der Inhaltsprozesse ist nur in { -brand-short-name } mit mehreren Prozessen möglich. <a data-l10n-name="learn-more">Wie Sie herausfinden, ob Firefox mit mehreren Prozessen ausgeführt wird</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (Standard)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description-new = Besondere Inhalte ausgewählt von { $provider }, Teil der { -brand-product-name }-Familie
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Eine Auswahl kürzlich besuchter Websit
 home-prefs-snippets-header =
     .label = Kurzinformationen
 home-prefs-snippets-description-new = Tipps und Neuigkeiten von { -vendor-short-name } und { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Weitere Suchmaschinen hinzufügen
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Schlüsselwort duplizieren
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sie haben ein Schlüsselwort ausgewählt, das bereits von "{ $name }" verwendet wird, bitte wählen Sie ein anderes.
 search-keyword-warning-bookmark = Sie haben ein Schlüsselwort ausgewählt, das bereits von einem Lesezeichen verwendet wird, bitte wählen Sie ein anderes.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = b
 sync-manage-account = Konto verwalten
     .accesskey = v
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } wurde noch nicht bestätigt.
 sync-signedin-login-failure = Melden Sie sich an, um erneut mit { $email } zu verbinden.
+
+##
+
 sync-resend-verification =
     .label = E-Mail zur Verifizierung erneut senden
     .accesskey = V
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Cookies und Website-Daten
 sitedata-total-size-calculating = Größe von Website-Daten und Cache wird berechnet…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Die gespeicherten Cookies, Website-Daten und der Cache belegen derzeit { $value } { $unit } Speicherplatz.
 sitedata-learn-more = Weitere Informationen
 sitedata-delete-on-close =
@@ -931,6 +966,13 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Ausnahmen verwalten…
     .accesskey = u
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reduzierung von Cookie-Bannern
+cookie-banner-learn-more = Weitere Informationen
+forms-handle-cookie-banners =
+    .label = Cookie-Banner reduzieren
 
 ## Privacy Section - Address Bar
 
