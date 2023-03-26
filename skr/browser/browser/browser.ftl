@@ -668,6 +668,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = تصویر وِچ تصویر ٹوگل کرو
 
 ## Full Screen and Pointer Lock UI
 
