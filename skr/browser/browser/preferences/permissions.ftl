@@ -79,10 +79,10 @@ permissions-invalid-uri-label = براہ مہربانی درست میزبان ن
 permissions-exceptions-etp-window =
     .title = بہتر ٹریکنگ حفاظت کیتے استثناء
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = تساں اینہاں ویب سائٹاں تے تحفظات کوں بند کر ݙتا ہے۔
 permissions-exceptions-etp-window2 =
     .title = بہتر ٹریکنگ حفاظت کیتے استثناء
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = تساں اینہاں ویب سائٹاں تے تحفظات کوں بند کر ݙتا ہے۔
 permissions-exceptions-manage-etp-desc = تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں تے بہتر ٹریکنگ پروٹیکشن آف ہے۔ تساں جیڑھی سائٹ دا انتظام کرݨ چاہندے او اوندا صحیح پتہ ٹائپ کرو تے ول ایڈ ایکسپشن تے کلک کرو۔
 
 ## Exceptions - Cookies
@@ -209,3 +209,11 @@ permissions-site-microphone-desc = ہیٹھ درج ویب سائٹاں تہاݙ�
 permissions-site-microphone-disable-label =
     .label = اپݨے مائیکروفون تک رسائی دی درخواست کرݨ والیاں نویاں درخواستاں کوں روکو۔
 permissions-site-microphone-disable-desc = ایہ اوتے درج نہ تھیوݨ والی کہیں وی ویب سائٹ کوں تہاݙے مائیکروفون تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے۔ تہاݙے مائیکروفون تک رسائی کوں رد کرݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = ترتیباں - سپیکر اجازتاں
+    .style = { permissions-window2.style }
