@@ -217,3 +217,4 @@ permissions-site-microphone-disable-desc = Ин амал ҳамаи сомона
 permissions-site-speaker-window =
     .title = Танзимот - Иҷозатҳои баландгӯяк
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Сомонаҳои зерин интихоби дастгоҳи барориши аудиоро дархост карданд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои интихоби дастгоҳи барориши аудио иҷозат доранд.
