@@ -974,11 +974,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
-cookie-banner-handling-header = Redusering av infoskapselbanner
-cookie-banner-handling-description = { -brand-short-name } prøver automatisk å avvise infokapselforespørsler på infoskapselbannere på støttede nettsteder.
+cookie-banner-handling-header = Redusering av infokapselbanner
+cookie-banner-handling-description = { -brand-short-name } prøver automatisk å avvise infokapselforespørsler på infokapselbannere på støttede nettsteder.
 cookie-banner-learn-more = Les mer
 forms-handle-cookie-banners =
-    .label = Reduser infoskapselbannere
+    .label = Reduser infokapselbannere
 
 ## Privacy Section - Address Bar
 

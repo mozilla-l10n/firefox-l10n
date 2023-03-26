@@ -13,6 +13,14 @@
 onboarding-welcome-header = Velkommen til { -brand-short-name }
 onboarding-start-browsing-button-label = Start nettlesing
 onboarding-not-now-button-label = Ikke nå
+mr1-onboarding-get-started-primary-button-label = Kom i gang
+mr1-onboarding-welcome-header = Velkommen til { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Gjør { -brand-short-name } til min primære nettleser
+    .title = Setter { -brand-short-name } som standard nettleser og fester den til oppgavelinjen
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Gjør { -brand-short-name } til min standardnettleser
+mr1-onboarding-set-default-secondary-button-label = Ikke nå
 
 ## Custom Return To AMO onboarding strings
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Kom i gang
-mr1-onboarding-welcome-header = Velkommen til { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Gjør { -brand-short-name } til min primære nettleser
-    .title = Setter { -brand-short-name } som standard nettleser og fester den til oppgavelinjen
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Gjør { -brand-short-name } til min standardnettleser
-mr1-onboarding-set-default-secondary-button-label = Ikke nå
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Logg inn
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -371,7 +370,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Du er en innovatør.</b> D
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Bytt fra bærbar PC til telefon og tilbake igjen
-mr2022-onboarding-mobile-download-subtitle = Hent faner fra én enhet og fortsett der du slapp på en annen. Synkroniser også bokmerkene og passordene dine overalt hvor du bruker { -brand-product-name }.
+mr2022-onboarding-mobile-download-subtitle = Hent faner fra én enhet og fortsett der du sluttet på en annen. Synkroniser også bokmerkene og passordene dine overalt hvor du bruker { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil eller <a data-l10n-name="download-label">send deg selv en nedlastingslenke.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil
 
