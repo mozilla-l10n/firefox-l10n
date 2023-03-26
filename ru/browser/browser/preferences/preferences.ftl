@@ -1126,8 +1126,8 @@ permissions-microphone-settings =
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
 permissions-speaker = Выбор динамика
 permissions-speaker-settings =
-    .label = Настройки…
-    .accesskey = й
+    .label = Параметры…
+    .accesskey = м
 permissions-notification = Уведомления
 permissions-notification-settings =
     .label = Параметры…
