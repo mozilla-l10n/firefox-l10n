@@ -974,6 +974,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Маҳдудкунии баннери куки
+cookie-banner-handling-description = «{ -brand-short-name }» ба таври худкор кӯшиш мекунад, ки ҳамаи дархостҳои кукиҳоро аз баннерҳои куки дар сомонаҳои дастгиришаванда рад кунад.
 cookie-banner-learn-more = Маълумоти бештар
 forms-handle-cookie-banners =
     .label = Маҳдуд кардани баннерҳои куки
