@@ -375,3 +375,7 @@ mr2022-onboarding-mobile-download-image-alt =
     .aria-label = ກົບໂດດຂ້າມແຜ່ນໃບບົວດ້ວຍລະຫັດ QR ເພື່ອດາວໂຫຼດ { -brand-product-name } ສຳລັບມືຖືຢູ່ໃຈກາງ
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ມືທີ່ມີຜິວໜັງອ່ອນ ແລະສີເຂັ້ມ, ສູງຫ້າ
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = ທັດສະນະຂອງ sunset ຜ່ານປ່ອງຢ້ຽມທີ່ມີ fox ແລະຕົ້ນໄມ້ເຮືອນຢູ່ໃນ windowsill ໄດ້
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = ສີດພົ່ນມືເຮັດໃຫ້ຕາສີຂຽວ, ເກີບສີສົ້ມ, ບານບ້ວງສີແດງ, ຫູຟັງສີມ່ວງ, ຫົວໃຈສີຟ້າ ແລະມົງກຸດສີເຫຼືອງ
