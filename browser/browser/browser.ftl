@@ -665,6 +665,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Alternar picture-in-picture
 
 ## Full Screen and Pointer Lock UI
 
