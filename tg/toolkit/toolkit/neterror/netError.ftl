@@ -27,6 +27,7 @@ neterror-try-again-button = Аз нав кӯшиш кардан
 neterror-add-exception-button = Барои ин сомна ҳамеша идома дода шавад
 neterror-settings-button = Тағйир додани танзимоти DNS
 neterror-view-certificate-link = Дидани гувоҳнома
+neterror-trr-continue-this-time = Ин дафъа идома диҳед
 neterror-disable-native-feedback-warning = Ҳамеша идома диҳед
 
 ##

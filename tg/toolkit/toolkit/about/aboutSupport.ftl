@@ -290,6 +290,7 @@ webgl2-version = Версияи драйвери WebGL 2
 webgl2-driver-extensions = Васеъшавиҳои драйвери WebGL 2
 webgl2-extensions = Васеъшавиҳои WebGL 2
 webgpu-default-adapter = Созгори пешфарзи «WebGPU»
+webgpu-fallback-adapter = Созгори эҳтиётии «WebGPU»
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Ба сабаби мушкилиҳои маълум ба рӯйхати сиёҳ ворид карда шудааст: <a data-l10n-name="bug-link">мушкилии { $bugNumber }</a>
