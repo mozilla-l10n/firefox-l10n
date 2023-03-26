@@ -6,10 +6,10 @@ migration-wizard =
     .title = Sprievodca importom
 import-from =
     { PLATFORM() ->
-        [windows] Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z aplikácie:
-       *[other] Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z aplikácie:
+        [windows] Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z prehliadača:
+       *[other] Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z prehliadača:
     }
-import-from-bookmarks = Importovať záložky z aplikácie:
+import-from-bookmarks = Importovať záložky z prehliadača:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
