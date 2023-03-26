@@ -132,6 +132,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Ғайрифаъол кардани васеъшавӣ
 preferences-data-migration-header = Ворид кардани маълумоти браузер
+preferences-data-migration-description = Хатбаракҳо, ниҳонвожаҳо, таърих ва маълумоти вурудии худкорро ба «{ -brand-short-name }» ворид намоед.
 preferences-data-migration-button =
     .label = Ворид кардани маълумот
     .accesskey = В
