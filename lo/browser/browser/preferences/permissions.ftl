@@ -62,6 +62,7 @@ permissions-invalid-uri-label = ກະລຸນາປ້ອນຊື່ໂຮສ
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-manage-etp-desc = ທ່ານສາມາດລະບຸວ່າເວັບໄຊທ໌ໃດທີ່ໄດ້ປິດການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງໃຫ້ດີຂຶ້ນ. ພິມທີ່ຢູ່ທີ່ແນ່ນອນຂອງເວັບໄຊທີ່ທ່ານຕ້ອງການທີ່ຈະຈັດການແລະຫຼັງຈາກນັ້ນໃຫ້ຄລິກໃສ່ເພີ່ມຂໍ້ຍົກເວັ້ນ.
 
 ## Exceptions - Cookies
 
@@ -138,6 +139,9 @@ permissions-site-location-disable-desc = ນີ້ຈະປ່ອງກັນເ
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-disable-label =
+    .label = ຂັດຂວາງການຮ້ອງຂໍໃຫມ່ເພື່ອຂໍໃຫ້ເຂົ້າເຖິງອຸປະກອນ virtual reality ຂອງທ່ານ
+permissions-site-xr-disable-desc = ນີ້ຈະປ້ອງກັນບໍ່ໃຫ້ເວັບໄຊທ໌ໃດໆທີ່ບໍ່ໄດ້ລະບຸໄວ້ຂ້າງເທິງຈາກການຮ້ອງຂໍການອະນຸຍາດໃນການເຂົ້າເຖິງອຸປະກອນ virtual reality ຂອງທ່ານ. ການຂັດຂວາງການເຂົ້າເຖິງອຸປະກອນຄວາມເປັນຈິງ virtual ຂອງທ່ານອາດຈະທໍາລາຍບາງລັກສະນະເວັບໄຊທ໌.
 
 ## Site Permissions - Camera
 

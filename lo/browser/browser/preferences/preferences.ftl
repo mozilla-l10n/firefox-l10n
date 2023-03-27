@@ -97,8 +97,12 @@ is-not-default = { -brand-short-name } ບໍ່ແມ່ນບຣາວເຊ�
 set-as-my-default-browser =
     .label = ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ…
     .accesskey = ຄ
+startup-restore-warn-on-quit =
+    .label = ເຕືອນທ່ານໃນເວລາອອກຈາກຕົວທ່ອງເວັບ
 disable-extension =
     .label = ປິດໃຊ້ສ່ວນຂະຫຍາຍ
+preferences-data-migration-header = ນໍາເຂົ້າຂໍ້ມູນຕົວທ່ອງເວັບ
+preferences-data-migration-description = ນຳເຂົ້າບຸກມາກ, ລະຫັດຜ່ານ, ປະຫວັດ, ແລະການຕື່ມຂໍ້ມູນອັດຕະໂນມັດເຂົ້າໄປໃນ { -brand-short-name }.
 tabs-group-header = ແທັບ
 browser-containers-enabled =
     .label = ເປີດໃຊ້ງານແທັບແຍກຂໍ້ມູນ
@@ -107,6 +111,7 @@ browser-containers-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 browser-containers-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = ຕ
+containers-disable-alert-title = ປິດແຖບບັນຈຸທັງໝົດບໍ?
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -123,13 +128,18 @@ containers-remove-cancel-button = ຢ່າເອົາ Container ນີ້ອ�
 
 language-and-appearance-header = ພາສາແລະລັກສະນະທີ່ປະກົດ
 preferences-web-appearance-header = ຮູບລັກສະນະຂອງເວັບໄຊທ໌
+preferences-web-appearance-description = ບາງເວັບໄຊທ໌ປັບປ່ຽນສີຂອງເຂົາເຈົ້າໂດຍອີງໃສ່ຄວາມມັກຂອງທ່ານ. ເລືອກຮູບແບບສີທີ່ທ່ານຕ້ອງການໃຊ້ສໍາລັບເວັບໄຊທ໌ເຫຼົ່ານັ້ນ.
 preferences-web-appearance-choice-browser = ຊຸດຮູບແບບຂອງ { -brand-short-name }
 preferences-web-appearance-choice-system = ຊຸດປັບແຕ່ງລະບົບ
 preferences-web-appearance-choice-auto = ອັດຕະໂນມັດ
 preferences-web-appearance-choice-light = ແຈ້ງ
 preferences-web-appearance-choice-dark = ມືດ
+preferences-web-appearance-choice-tooltip-browser =
+    .title = ກົງກັບການຕັ້ງຄ່າຮູບແບບສີສັນ { -brand-short-name } ຂອງເຈົ້າສຳລັບພື້ນຫຼັງເວັບໄຊທ໌ ແລະເນື້ອຫາ.
 preferences-web-appearance-choice-tooltip-system =
     .title = ກົງກັບການຕັ້ງຄ່າລະບົບຂອງທ່ານສໍາລັບພື້ນຖານເວັບໄຊທ໌ ແລະເນື້ອຫາ.
+preferences-web-appearance-choice-tooltip-light =
+    .title = ໃຊ້ລັກສະນະແສງສະຫວ່າງສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
 preferences-web-appearance-choice-tooltip-dark =
     .title = ໃຊ້ຮູບລັກສະນະທີ່ມືດມົວສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
 preferences-web-appearance-choice-input-browser =
@@ -169,6 +179,10 @@ confirm-browser-language-change-button = ນຳໃຊ້ ແລະ ເລີ່�
 translate-web-pages =
     .label = ແປເນື້ອຫາເວັບ
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ການແປໂດຍ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ຍົກເວັ້ນ...
     .accesskey = x
@@ -194,6 +208,9 @@ download-always-ask-where =
     .label = ຖາມທ່ານທຸກຄັ້ງວ່າຈະບັນທຶກຂໍ້ມູນໄວ້ໃສ
     .accesskey = ທ
 applications-header = ແອັບພລິເຄຊັນ
+applications-description = ເລືອກວິທີທີ່ { -brand-short-name } ຈັດການກັບໄຟລ໌ທີ່ທ່ານດາວໂຫຼດຈາກເວັບ ຫຼືແອັບພລິເຄຊັນທີ່ທ່ານໃຊ້ໃນຂະນະທີ່ຊອກຫາ.
+applications-filter =
+    .placeholder = ຊອກຫາໄຟລ໌ປະເພດ ຫຼືແອັບພລິເຄຊັນ
 applications-type-column =
     .label = ປະເພດເນື້ອຫາ
     .accesskey = ປ
@@ -225,6 +242,10 @@ applications-always-ask =
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = ໃຊ້ { $plugin-name } ( ໃນ { -brand-short-name } )
@@ -241,6 +262,8 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
@@ -253,6 +276,7 @@ applications-use-os-default-label =
 ##
 
 applications-handle-new-file-types-description = { -brand-short-name } ຄວນເຮັດຫຍັງກັບໄຟລ໌ອື່ນ?
+drm-content-header = ເນື້ອຫາການຄຸ້ມຄອງສິດທິດິຈິຕອນ (DRM).
 play-drm-content-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 update-application-title = ອັບເດດ { -brand-short-name }
 update-application-description = ຮັກສາ { -brand-short-name } ໃໝ່ຫຼ້າສຸດເພື່ອປະສິດທິພາບ, ຄວາມໝັ້ນຄົງ ແລະຄວາມປອດໄພທີ່ດີທີ່ສຸດ.
@@ -276,6 +300,7 @@ update-application-warning-cross-user-setting = ການຕັ້ງຄ່າ�
 update-application-use-service =
     .label = ໃຊ້ບໍລິການພື້ນຫລັງໃນການຕິດຕັ້ງການອັບເດດ
     .accesskey = b
+update-setting-write-failure-title2 = ເກີດຄວາມຜິດພາດໃນການບັນທຶກການຕັ້ງຄ່າການອັບເດດ
 update-in-progress-title = ການປັບປຸງຢູ່ໃນຄວາມຄືບຫນ້າ
 update-in-progress-message = ທ່ານຕ້ອງການໃຫ້ { -brand-short-name } ສືບຕໍ່ການອັບເດດນີ້ບໍ?
 update-in-progress-ok-button = &ຍົກເລີກ
@@ -286,9 +311,11 @@ update-in-progress-cancel-button = &ສືບຕໍ່
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
+performance-use-recommended-settings-desc = ການ​ຕັ້ງ​ຄ່າ​ເຫຼົ່າ​ນີ້​ແມ່ນ​ເຫມາະ​ສົມ​ກັບ​ຮາດ​ແວ​ຄອມ​ພິວ​ເຕີ​ແລະ​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ​ຂອງ​ທ່ານ​.
 performance-settings-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 performance-limit-content-process-option = ຂີດຈຳກັດໂປຣເຊດເນື້ອຫາ
     .accesskey = l
+performance-limit-content-process-blocked-desc = ການແກ້ໄຂຈໍານວນຂອງຂະບວນການເນື້ອຫາແມ່ນເປັນໄປໄດ້ພຽງແຕ່ multiprocess { -brand-short-name } . <a data-l10n-name="learn-more">ສຶກສາວິທີການກວດສອບວ່າ multiprocess ຖືກເປີດໃຊ້ບໍ</a>
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
