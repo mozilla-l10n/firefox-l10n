@@ -27,6 +27,7 @@ neterror-try-again-button = Opnieuw proberen
 neterror-add-exception-button = Altijd doorgaan voor deze website
 neterror-settings-button = DNS-instellingen wijzigen
 neterror-view-certificate-link = Certificaat bekijken
+neterror-trr-continue-this-time = Deze keer doorgaan
 neterror-disable-native-feedback-warning = Altijd doorgaan
 
 ##
