@@ -27,6 +27,7 @@ neterror-try-again-button = 重试
 neterror-add-exception-button = 总是继续打开此网站
 neterror-settings-button = 更改 DNS 设置
 neterror-view-certificate-link = 查看证书
+neterror-trr-continue-this-time = 此次仍继续
 neterror-disable-native-feedback-warning = 总是继续打开
 
 ##
