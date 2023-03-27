@@ -27,6 +27,7 @@ neterror-try-again-button = Probearje it opnij
 neterror-add-exception-button = Altyd trochgean foar dizze website
 neterror-settings-button = DNS-ynstellingen wizigje
 neterror-view-certificate-link = Sertifikaat besjen
+neterror-trr-continue-this-time = Dizze kear trochgean
 neterror-disable-native-feedback-warning = Altyd trochgean
 
 ##
