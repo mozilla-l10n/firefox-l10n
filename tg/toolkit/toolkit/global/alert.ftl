@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 alert-close =
-    .tooltiptext = Пӯшидани огоҳиномаи ҷорӣ
+    .tooltiptext = Пӯшидани огоҳномаи ҷорӣ
 alert-settings-title =
     .tooltiptext = Танзимот

@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Ҷустуҷӯ
     .aria-label = Ҷустуҷӯ
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
 newtab-search-box-handoff-text-no-engine = Нишониеро ҷустуҷӯ кунед ё ворид намоед
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
     .title = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
@@ -86,7 +86,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = Тоза кардан
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Кушодани меню
     .aria-label = Кушодани менюи муҳтавоӣ барои { $title }
@@ -156,16 +156,16 @@ newtab-label-saved = Ба { -pocket-brand-name } нигоҳ дошта шуд
 newtab-label-download = Боргиришуда
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · дорои реклама мебошад
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Аз тарафи сарпарасти { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } дақиқа
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -180,7 +180,7 @@ newtab-section-menu-add-topsite = Илова кардан ба сомонаҳо�
 newtab-section-menu-add-search-engine = Илова кардани низоми ҷустуҷӯӣ
 newtab-section-menu-move-up = Ба боло гузоштан
 newtab-section-menu-move-down = Ба поён гузоштан
-newtab-section-menu-privacy-notice = Огоҳиномаи махфият
+newtab-section-menu-privacy-notice = Огоҳномаи махфият
 
 ## Section aria-labels
 
@@ -194,7 +194,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Сомонаҳои беҳтарин
 newtab-section-header-recent-activity = Фаъолияти охирин
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Аз тарафи «{ $provider }» тавсия дода мешавад
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -202,7 +202,7 @@ newtab-section-header-pocket = Аз тарафи «{ $provider }» тавсия 
 newtab-empty-section-highlights = Тамошокунии сомонаҳоро оғоз намоед ва мо баъзеи мақолаҳои шавқовар, видеоҳо ва саҳифаҳои дигареро, ки шумо тамошо кардед ё ба хатбаракҳо гузоштед, дар ин ҷо намоиш медиҳем.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Шумо ҳамаро хондед. Барои хондани ҳикояҳои ҷолиби дигар аз «{ $provider }» дертар биёед. Интизор шуда наметавонед? Барои пайдо кардани ҳикояҳои бузург аз саросари Интернет, мавзуи маълумеро интихоб намоед.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -251,6 +251,8 @@ newtab-error-fallback-refresh-link = Барои аз нав кӯшиш кард�
 
 newtab-custom-shortcuts-title = Миёнбурҳо
 newtab-custom-shortcuts-subtitle = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } сатр

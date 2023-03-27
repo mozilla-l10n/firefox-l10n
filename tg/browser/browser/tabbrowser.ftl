@@ -120,7 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ин равзанаи гуфтугӯ
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
-    .label = Ба огоҳиномаҳои монанди ин аз { $domain } иҷозат диҳед, ки шуморо ба варақаи онҳо гузаронанд
+    .label = Ба огоҳномаҳои монанди ин аз { $domain } иҷозат диҳед, ки шуморо ба варақаи онҳо гузаронанд
 tabbrowser-customizemode-tab-title = Танзимоти { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
