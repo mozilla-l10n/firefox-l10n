@@ -667,6 +667,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Görüntü içinde görüntüyü aç/kapat
 
 ## Full Screen and Pointer Lock UI
 
