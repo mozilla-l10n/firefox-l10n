@@ -217,3 +217,4 @@ permissions-site-microphone-disable-desc = Yukarıdaki listede bulunmayan hiçbi
 permissions-site-speaker-window =
     .title = Ayarlar - Hoparlör İzinleri
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Aşağıdaki siteler ses çıkış cihazını seçmek istedi. Hangi sitelerin ses çıkış cihazını seçebileceğini belirtebilirsiniz.

@@ -27,6 +27,7 @@ neterror-try-again-button = Yeniden dene
 neterror-add-exception-button = Bu site için her zaman devam et
 neterror-settings-button = DNS ayarlarını değiştir
 neterror-view-certificate-link = Sertifikayı göster
+neterror-trr-continue-this-time = Bu seferlik devam et
 neterror-disable-native-feedback-warning = Her zaman devam et
 
 ##
