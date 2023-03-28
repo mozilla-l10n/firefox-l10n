@@ -7,4 +7,4 @@ browser-utils-url-data = (données)
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
-browser-utils-url-extension = Extension ({ $extensions })
+browser-utils-url-extension = Extension ({ $extension })
