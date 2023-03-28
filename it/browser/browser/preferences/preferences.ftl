@@ -683,6 +683,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = I seguenti elementi vengono attualmente sincronizzati:
+sync-syncing-across-devices-heading = I seguenti elementi vengono attualmente sincronizzati fra tutti i dispositivi connessi:
 sync-currently-syncing-bookmarks = Segnalibri
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Schede aperte
@@ -711,6 +712,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnetti…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Le modifiche all’elenco di elementi da sincronizzare verranno applicate a tutti i dispositivi connessi.
 sync-engine-bookmarks =
     .label = Segnalibri
     .accesskey = e
