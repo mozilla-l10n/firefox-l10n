@@ -27,6 +27,7 @@ neterror-try-again-button = Ceisiwch eto
 neterror-add-exception-button = Parhau bob tro ar gyfer y wefan hon
 neterror-settings-button = Newid gosodiadau DNS
 neterror-view-certificate-link = Darllen Tystysgrif
+neterror-trr-continue-this-time = Parhau'r tro yma
 neterror-disable-native-feedback-warning = Parhau bob tro
 
 ##
