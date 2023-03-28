@@ -27,6 +27,7 @@ neterror-try-again-button = Próbálja újra
 neterror-add-exception-button = Folytatás mindig ezen az oldalon
 neterror-settings-button = DNS beállítások módosítása
 neterror-view-certificate-link = Tanúsítvány megtekintése
+neterror-trr-continue-this-time = Most folytassa
 neterror-disable-native-feedback-warning = Folytatás mindig
 
 ##
