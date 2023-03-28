@@ -684,6 +684,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Toglo Llun-mewn-Llun
 
 ## Full Screen and Pointer Lock UI
 
