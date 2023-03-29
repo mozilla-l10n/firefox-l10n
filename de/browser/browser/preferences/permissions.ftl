@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Bitte tragen Sie einen gültigen Hostnamen ein
 permissions-exceptions-etp-window =
     .title = Ausnahmen - Verbesserter Schutz vor Aktivitätenverfolgung
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Sie haben die Schutzmaßnahmen für folgende Websites deaktiviert.
 permissions-exceptions-etp-window2 =
     .title = Ausnahmen - Verbesserter Schutz vor Aktivitätenverfolgung
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Sie haben die Schutzmaßnahmen für folgende Websites deaktiviert.
 permissions-exceptions-manage-etp-desc = Sie können festlegen, für welche Webseiten der verbesserte Tracking-Schutz deaktiviert ist. Geben Sie die exakte Adresse der Website ein, die Sie verwalten möchten, und klicken Sie dann auf Ausnahme hinzufügen.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Die folgenden Websites haben angefragt, auf I
 permissions-site-microphone-disable-label =
     .label = Neue Anfragen für den Zugriff auf Ihr Mikrofon blockieren
 permissions-site-microphone-disable-desc = Dies wird alle nicht oben aufgeführten Websites daran hindern, um die Erlaubnis für den Zugriff auf Ihr Mikrofon anzufragen. Durch das Blockieren des Zugriffs auf Ihr Mikrofon können einige Funktionen von Webseiten nicht mehr funktionieren.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Einstellungen - Lautsprecher-Berechtigungen
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Die folgenden Websites haben angefragt, ein Audio-Ausgabegerät auswählen zu dürfen. Sie können festlegen, welche Websites ein Audio-Ausgabegerät auswählen dürfen.
