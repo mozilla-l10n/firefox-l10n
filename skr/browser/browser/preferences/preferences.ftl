@@ -1102,6 +1102,8 @@ permissions-microphone = مائیکروفون
 permissions-microphone-settings =
     .label = ترتیباں …
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = سپیکر چُݨݨ
 permissions-speaker-settings =
     .label = ترتیباں …
     .accesskey = t

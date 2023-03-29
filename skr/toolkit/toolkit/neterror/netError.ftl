@@ -27,6 +27,7 @@ neterror-try-again-button = ولدا کوشش کرو
 neterror-add-exception-button = ایں سائٹ کیتے ہمیشاں جاری رکھو
 neterror-settings-button = DNS ترتیباں تبدیل کرو
 neterror-view-certificate-link = تصدیق نامہ ݙیکھو
+neterror-trr-continue-this-time = ہݨ جاری رکھو
 neterror-disable-native-feedback-warning = ہمیشہ جاری رکھو
 
 ##
@@ -72,6 +73,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } اساݙے
 neterror-dns-not-found-native-fallback-attackers = تساں ڈی این ایس حل کرݨ آلے نال جاری رکھ سڳدے ہو جہڑا محفوظ کائنی۔ ول وی تریجھا فریق ایہ ݙیکھݨ دے قابل تھی سڳدے جو تساں کہڑیاں ویب سائٹاں تے ویندے ہو یا تہاکوں بے اعتباری سائٹ تے بھیڄیندے۔
 neterror-dns-not-found-native-fallback-heuristic = تہاݙے نیٹ ورک تے HTTPs تے ڈی این ایس غیرفعال کر ݙتا ڳئے۔
 neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } کیتے کنکشن اڄݨ تیار کائنی۔
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } نال جڑݨ دے قابل کائنا ہا۔
 
 ##
 
