@@ -916,6 +916,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Kech'utinirisäx kitzijol kuki
 cookie-banner-learn-more = Tetamäx ch'aqa' chik
 forms-handle-cookie-banners =
     .label = Kech'utinär ri taq kib'aner koki
