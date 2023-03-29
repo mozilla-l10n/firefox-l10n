@@ -46,6 +46,12 @@ options-inspector-draggable-properties-label = Fai clic e trascina per modificar
 options-inspector-draggable-properties-tooltip =
     .title = Fai clic e trascina per modificare il valore di una dimensione per le regole in Analisi pagina.
 
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Utilizza evidenziatori semplificati con prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Attiva evidenziatori semplificati quando prefers-reduced-motion è attivo. Verranno disegnate linee al posto di rettangoli con sfondo colorato intorno agli elementi selezionati per evitare un effetto di lampeggiamento.
+
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Unità predefinita colori:
