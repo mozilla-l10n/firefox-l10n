@@ -27,6 +27,7 @@ neterror-try-again-button = Tornar ensajar
 neterror-add-exception-button = Totjorn contunhar per aqueste site
 neterror-settings-button = Modificar los paramètres DNS
 neterror-view-certificate-link = Mostrar lo certificat
+neterror-trr-continue-this-time = Contunhar aqueste còp
 neterror-disable-native-feedback-warning = Totjorn contunhar
 
 ##
