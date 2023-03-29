@@ -106,6 +106,11 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = Zhvillues Web
 perftools-presets-web-developer-description = Profil i gatshëm i rekomanduar për shumicën e diagnostikimit të aplikacioneve web, me kokëçarje të pakta.
 perftools-presets-firefox-label = { -brand-shorter-name }
@@ -118,6 +123,7 @@ perftools-presets-networking-label = Punim në rrjet
 perftools-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energji
+perftools-presets-power-description = Paracaktim për hetim të metash përdorimi energjie në { -brand-shorter-name }, me ngarkesë të ulët.
 perftools-presets-custom-label = Vetjak
 
 ##

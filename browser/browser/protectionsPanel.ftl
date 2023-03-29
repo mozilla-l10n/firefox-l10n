@@ -99,3 +99,23 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Anuloje
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Dërgoje Raportin
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Reduktim Banderolash Për Cookie-t
+protections-panel-cookie-banner-handling-enabled = Aktivizuar për këtë sajt
+protections-panel-cookie-banner-handling-disabled = Çaktivizuar për këtë sajt
+protections-panel-cookie-banner-handling-undetected = Sajt aktualisht i pambuluar
+protections-panel-cookie-banner-view-title =
+    .title = Reduktim Banderolash Për Cookie-t
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Mbrapsht
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Të çaktivizohet Reduktim Banderolash Cookie-sh për { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Të aktivizohet Reduktim Banderolash Cookie-sh për këtë sajt?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }-i do të spastrojë cookie-t për këtë sajt dhe do të rifreskojë faqen. Spastrimi i krejt cookie-ve mund të sjellë nxjerrjen tuaj nga llogaria, ose zbrazje shportash blerjesh.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }-i provon të hedhë poshtë automatikisht krejt kërkesat për cookies, në sajtet që e mbulojnë.
+protections-panel-cookie-banner-view-cancel = Anuloje
+protections-panel-cookie-banner-view-turn-off = Çaktivizoje
+protections-panel-cookie-banner-view-turn-on = Aktivizoje
