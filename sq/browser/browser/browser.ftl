@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Ndihmëz:
 urlbar-result-menu-button =
     .title = Hape menunë
+urlbar-result-menu-learn-more =
+    .label = Mësoni më tepër
+    .accesskey = M
 urlbar-result-menu-remove-from-history =
     .label = Hiqe prej historiku
     .accesskey = H
@@ -662,6 +665,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Hapni/Mbyllni “Picture-in-Picture”
 
 ## Full Screen and Pointer Lock UI
 
@@ -808,6 +813,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Dërgojeni Lidhjen me Email
     .tooltiptext = Dërgoni me email një lidhje për te kjo faqe
+toolbar-button-logins =
+    .label = Fjalëkalime
+    .tooltiptext = Shihni dhe administroni fjalëkalimet tuaj të ruajtur
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
