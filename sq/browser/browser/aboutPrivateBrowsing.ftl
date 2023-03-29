@@ -60,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Fiksoje te paneli
     }
 about-private-browsing-pin-promo-title = Pa ruajtje cookie-sh apo historiku, drejt e nga desktopi juaj. Shfletoni si të mos mbikëqyrë njeri.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Lamtumirë banderola cookie-sh!
+about-private-browsing-cookie-banners-promo-button = Redukto Banderola për Cookie-t
+about-private-browsing-cookie-banners-promo-message = Lejojeni { -brand-short-name }-i t’u përgjigjet vetvetiu për ju flluskave për cookie, që të mund t’i ktheheni shfletimit pa shpërqendrim. { -brand-short-name }-i do të hedhë poshtë krejt kërkesat, kur është e mundur.

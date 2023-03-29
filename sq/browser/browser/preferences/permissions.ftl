@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Ju lutemi, jepni një strehëemër të vlefshëm
 permissions-exceptions-etp-window =
     .title = Përjashtime nga Mbrojtje e Thelluar Nga Gjurmimet
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = I keni çaktivizuar mbrojtjet në këto sajte.
 permissions-exceptions-etp-window2 =
     .title = Përjashtime nga Mbrojtje e Thelluar Nga Gjurmimet
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = I keni çaktivizuar mbrojtjet në këto sajte.
 permissions-exceptions-manage-etp-desc = Mund të përcaktoni cilët sajte e kanë të mbyllur Mbrojtjen e Thelluar Nga Gjurmimet. Shtypni adresën e saktë të sajtit që doni të administroni dhe mandej klikoni mbi Shto Përjashtim.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Sajtet vijues kanë kërkuar të përdorin mi
 permissions-site-microphone-disable-label =
     .label = Bllokoni kërkesa të reja për përdorim të mikrofonit
 permissions-site-microphone-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje për të përdorur mikrofonin tuaj. Bllokimi i përdorimit të mikrofonit tuaj mund të prishë punimin e ndonjë veçorie të sajtit.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Rregullime - Leje Altoparlanti
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Sajtet vijues kanë kërkuar të përzgjedhin një pajisje zëri në dalje. Mund të përcaktoni cilëve sajte u lejohet të përzgjedhin një pajisje zëri në dalje.
