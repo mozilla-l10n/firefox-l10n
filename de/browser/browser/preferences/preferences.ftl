@@ -1121,6 +1121,9 @@ permissions-microphone-settings =
     .accesskey = E
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
 permissions-speaker = Lautsprecherauswahl
+permissions-speaker-settings =
+    .label = Einstellungen…
+    .accesskey = E
 permissions-notification = Benachrichtigungen
 permissions-notification-settings =
     .label = Einstellungen…
