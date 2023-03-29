@@ -56,3 +56,7 @@ remote-node-picker-notice-action-touch = Toccare un elemento per selezionarlo in
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
 remote-node-picker-notice-hide-button = Nascondi
+
+simple-highlighters-message = Quando prefers-reduced-motion è attivo, è possibile selezionare evidenziatori semplificati nel pannello impostazioni per evitare il lampeggiamento di colori.
+
+simple-highlighters-settings-button = Apri impostazioni
