@@ -68,6 +68,8 @@ import-items-description = Përzgjidhni cilët objekte të importohen:
 import-permissions-page-title = Ju lutemi, jepni lejet { -brand-short-name }-it
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS kërkon që të lejoni shprehimisht { -brand-short-name }-in të përdorë faqerojtësit e Safari-it. Klikoni mbi “Vazhdoni” dhe përzgjidhni kartelën “Bookmarks.plist” fte paneli File Open që duket.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS-i lyp që të lejoni shprehimisht { -brand-short-name }-in të hyjë në të dhëna të Safari-t. Klikoni mbi “Vazhdoni”, përzgjidhni dosjen “Safari” te dialogu Finder që shfaqet dhe klikoni mbi “Hape”.
 import-migrating-page-title = Po importohet…
 import-migrating-description = Po importohen objektet vijuese…
 import-select-profile-page-title = Përzgjidhni Profil

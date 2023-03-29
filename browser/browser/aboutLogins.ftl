@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } palë kredenciale hyrjesh
        *[other] { $count } palë kredenciale hyrjesh
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } nga { $total } hyrje
+       *[other] { $count } nga { $total } hyrje
+    }
 login-list-sort-label-text = Renditi sipas:
 login-list-name-option = Emrash (A-Z)
 login-list-name-reverse-option = Emrash (Z-A)
