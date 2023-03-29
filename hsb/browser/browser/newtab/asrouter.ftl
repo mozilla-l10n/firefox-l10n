@@ -266,4 +266,5 @@ july-jam-set-default-primary = Moje wotkazy z { -brand-short-name } wočinić
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Waše PDF so nětko w { -brand-short-name } wočinjeja.</strong> Wobdźěłajće abo signujće formulary direktnje w swojim wobhladowaku. Zo byšće to změnił, pytajće za „PDF“ w swojich nastajenjach.
 set-default-pdf-handler-primary = Sym zrozumił
