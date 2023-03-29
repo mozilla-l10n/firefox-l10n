@@ -27,6 +27,7 @@ neterror-try-again-button = Hišće raz spytać
 neterror-add-exception-button = Za tute sydło přeco pokročować
 neterror-settings-button = DNS-nastajenja změnić
 neterror-view-certificate-link = Certifikat pokazać
+neterror-trr-continue-this-time = Tutón raz pokročować
 neterror-disable-native-feedback-warning = Přeco pokročować
 
 ##

@@ -676,6 +676,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Wobraz-we-wobrazu přepinać
 
 ## Full Screen and Pointer Lock UI
 
