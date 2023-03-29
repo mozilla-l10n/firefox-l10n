@@ -68,6 +68,8 @@ import-items-description = Wubjerće objekty za importowanje:
 import-permissions-page-title = Prošu dajće { -brand-short-name } prawa
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS sej wužaduje, zo { -brand-short-name } eksplicitnje přistup k zapołožkam Safari dowolujeće. Klikńće na „Pokročować“ a wubjerće dataju „Bookmarks.plist“ we woknje „Dataju wočinić“, kotrež so jewi.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS sej wužaduje, zo { -brand-short-name } eksplicitnje přistup k datam Safari dowolujeće. Klikńće na „Pokročować“, wubjerće rjadowak „Safari“ w dialogu Finder, kotryž so jewi a klikńće potom na „Wočinić“.
 import-migrating-page-title = Importuje so…
 import-migrating-description = Slědowace objekty so runje importuja…
 import-select-profile-page-title = Profil wubrać
