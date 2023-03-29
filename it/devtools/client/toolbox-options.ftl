@@ -50,7 +50,7 @@ options-inspector-draggable-properties-tooltip =
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Utilizza evidenziatori semplificati con prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
-    .title = Attiva evidenziatori semplificati quando prefers-reduced-motion è attivo. Verranno disegnate linee al posto di rettangoli con sfondo colorato intorno agli elementi selezionati per evitare un effetto di lampeggiamento.
+    .title = Attiva evidenziatori semplificati quando prefers-reduced-motion è attivo. Verranno disegnate linee al posto di rettangoli con sfondo colorato intorno agli elementi selezionati per evitare lampeggiamenti.
 
 ## "Default Color Unit" options for the Inspector
 
