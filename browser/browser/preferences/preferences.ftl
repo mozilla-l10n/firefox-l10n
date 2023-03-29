@@ -131,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = Beim Beenden des Browsers warnen
 disable-extension =
     .label = Erweiterung deaktivieren
+preferences-data-migration-header = Browserdaten importieren
+preferences-data-migration-description = Lesezeichen, Passwörter, Chronik und Daten für automatisches Ausfüllen in { -brand-short-name } importieren
+preferences-data-migration-button =
+    .label = Daten importieren
+    .accesskey = m
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Bei Strg+Tab die Tabs nach letzter Nutzung in absteigender Reihenfolge anzeigen
@@ -970,6 +975,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Reduzierung von Cookie-Bannern
+cookie-banner-handling-description = { -brand-short-name } versucht, Cookie-Anforderungen über Cookie-Banner auf unterstützten Websites automatisch abzulehnen.
 cookie-banner-learn-more = Weitere Informationen
 forms-handle-cookie-banners =
     .label = Cookie-Banner reduzieren
@@ -1113,6 +1119,8 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Einstellungen…
     .accesskey = E
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Lautsprecherauswahl
 permissions-notification = Benachrichtigungen
 permissions-notification-settings =
     .label = Einstellungen…
