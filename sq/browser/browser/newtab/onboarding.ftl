@@ -13,6 +13,14 @@
 onboarding-welcome-header = Mirë se vini te { -brand-short-name }
 onboarding-start-browsing-button-label = Filloni të Shfletoni
 onboarding-not-now-button-label = Jo tani
+mr1-onboarding-get-started-primary-button-label = Fillojani
+mr1-onboarding-welcome-header = Mirë se vini te { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim parësor
+    .title = E vë { -brand-short-name }-in si shfletuesin parazgjedhje dhe e fikson te paneli
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim parazgjedhje
+mr1-onboarding-set-default-secondary-button-label = Jo tani
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,8 +53,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Ecuri: hapi { $current } nga { $total } gjithsej
 onboarding-welcome-steps-indicator-label =
     .aria-label = Ecuri: hapi { $current } nga { $total } gjithsej
 # "Hero Text" displayed on left side of welcome screen.
@@ -86,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Fillojani
-mr1-onboarding-welcome-header = Mirë se vini te { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim parësor
-    .title = E vë { -brand-short-name }-in si shfletuesin parazgjedhje dhe e fikson te paneli
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim parazgjedhje
-mr1-onboarding-set-default-secondary-button-label = Jo tani
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Hyni
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -268,6 +265,15 @@ fx100-upgrade-thank-you-body = Është hedhja e njëqindtë në qarkullim e { -b
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Është hedhja e njëqindtë në qarkullim e jona! Faleminderit për qenien pjesë e bashkësisë sonë. Mbajeni { -brand-short-name }-in një klikim larg për 100 të tjerat.
 mr2022-onboarding-secondary-skip-button-label = Anashkalojeni këtë hap
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Ruaje dhe vazhdo
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Vëreni { -brand-short-name }-in si shfletuesin parazgjedhje
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importo prej shfletuesi të mëparshëm
 
 ## MR2022 New User Pin Firefox screen strings
 

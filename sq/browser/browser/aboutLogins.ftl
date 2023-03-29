@@ -7,6 +7,9 @@ about-logins-page-title = Kredenciale Hyrjesh & Fjalëkalime
 login-filter =
     .placeholder = Kërkoni te Kredenciale Hyrjesh
 create-login-button = Krijoni Kredenciale të Reja Hyrjeje
+about-logins-login-filter =
+    .placeholder = Kërkoni te Kredenciale Hyrjesh
+    .key = K
 create-new-login-button =
     .title = Krijoni kredenciale të reja hyrjeje
 fxaccounts-sign-in-text = Merrini fjalëkalimet tuaj në pajisjet tuaja të tjera
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Ndihmë
 
 login-list =
     .aria-label = Kredenciale hyrjesh që kanë përputhje me vargun e kërkimit
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } palë kredenciale hyrjesh
@@ -106,6 +111,8 @@ login-item-time-used = Përdorur së fundi më: { DATETIME($timeUsed, day: "nume
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Krijuar më
 login-item-timeline-action-updated = Përditësuar më
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Të hiqen këto kredenciale hyrjesh?
 confirm-delete-dialog-message = Ky veprim s’mund të zhbëhet.
 about-logins-confirm-remove-dialog-confirm-button = Hiqi
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Hiqe
@@ -185,6 +196,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Kjo do të heqë kredencialin që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara te { -fxaccount-brand-name } juaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S"do të jeni në gjendje të zhbëni këtë veprim.
        *[other] Kjo do të heqë krejt kredencialet që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara te { -fxaccount-brand-name } juaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S"do të jeni në gjendje të zhbëni këtë veprim.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Eksportoni kredenciale hyrjesh dhe fjalëkalime
 about-logins-confirm-export-dialog-message = Fjalëkalimet tuaj do të ruhen si tekst i lexueshëm (p.sh., BadP@ssw0rd), ndaj, cilido që mund të hapë kartelën e eksportuar, mund t’i shohë.
 about-logins-confirm-export-dialog-confirm-button = Eksportoni…
