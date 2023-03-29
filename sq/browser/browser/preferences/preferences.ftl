@@ -73,6 +73,17 @@ restart-later = Riniseni Më Vonë
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = Këtë rregullim e kontrollon <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
@@ -120,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = T’ju sinjalizojë, kur dilni e mbyllni shfletuesin
 disable-extension =
     .label = Çaktivizoje Zgjerimin
+preferences-data-migration-header = Importo të Dhëna Shfletuesi
+preferences-data-migration-description = Importoni në { -brand-short-name } faqerojtës, fjalëkalime, historik dhe të dhëna vetëplotësimesh.
+preferences-data-migration-button =
+    .label = Importo të Dhëna
+    .accesskey = I
 tabs-group-header = Skeda
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ju kalon nëpër skedat sipas radhës së përdorimit së fundi
@@ -132,7 +148,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = R
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +171,10 @@ browser-containers-settings =
     .label = Rregullime…
     .accesskey = R
 containers-disable-alert-title = Të mbyllen Krejt Skedat e Kontejnerve?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Nëse i çaktivizoni tani Skedat e Kontejnerve, do të mbyllet { $tabCount } skedë kontejneri. Jeni i sigurt se doni të çaktivizohen Skeda Kontejnerësh?
@@ -165,10 +185,13 @@ containers-disable-alert-ok-button =
         [one] Mbyll { $tabCount } Skedë Kontejneri
        *[other] Mbyll { $tabCount } Skeda Kontejneri
     }
+
+##
+
 containers-disable-alert-cancel-button = Mbaji të aktivizuara
 containers-remove-alert-title = Të Hiqet Ky Kontejner?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Nëse e hiqni këtë Kontejner tani, do të mbyllet { $count } skedë kontejneri. Jeni i sigurt se doni të mbyllet ky Kontejner?
@@ -230,6 +253,8 @@ advanced-fonts =
 preferences-zoom-header = Zmadhim/Zvogëlim
 preferences-default-zoom = Zoom parazgjedhje
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +347,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Pyetmë përherë
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Përdor { $plugin-name } (te { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +398,8 @@ play-drm-content =
 play-drm-content-learn-more = Mësoni më tepër
 update-application-title = Përditësime { -brand-short-name }-i
 update-application-description = Për punimin, qëndrueshmërinë dhe sigurinë më të mirë mbajeni { -brand-short-name }-in të përditësuar.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Ç’ka të re</a>
 update-history =
     .label = Shfaq Historik Përditësimesh…
@@ -399,7 +426,7 @@ update-application-suppress-prompts =
     .accesskey = m
 update-setting-write-failure-title2 = Gabim në ruajtje rregullimesh Përditësimi
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +456,7 @@ performance-limit-content-process-option = Kufi procesesh lënde
 performance-limit-content-process-enabled-desc = Proceset shtesë për lëndën mund të përmirësojnë punimin, kur përdoren shumë skeda njëherësh, por kështu do të përdoret më tepër kujtesë.
 performance-limit-content-process-blocked-desc = Ndryshimi i numrit të proceseve të lëndës është i mundur vetëm me { -brand-short-name }-in shumëprocesësh. <a data-l10n-name="learn-more">Mësoni se si të kontrolloni nëse mënyra shumëprocesëshe është e aktivizuar</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (parazgjedhje)
 
@@ -535,6 +562,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Rekomanduar nga { $provider }
 home-prefs-recommended-by-description-new = Lëndë e jashtëzakonshme, në kujdesin e { $provider }, pjesë e familjes { -brand-product-name }
@@ -564,6 +595,8 @@ home-prefs-recent-activity-description = Një përzgjedhje sajtesh dhe lënde s�
 home-prefs-snippets-header =
     .label = Copëza
 home-prefs-snippets-description-new = Ndihmëza dhe lajme nga { -vendor-short-name } dhe { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +661,7 @@ search-find-more-link = Gjeni më tepër motorë kërkimesh
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Fjalëkyç i Përsëdytur
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Keni zgjedhur një fjalëkyç që hëpërhë po përdoret nga "{ $name }". Ju lutemi, përzgjidhni një tjetër.
 search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po përdoret nga një faqerojtës. Ju lutemi, përzgjidhni një tjetër.
 
@@ -675,8 +708,15 @@ sync-sign-out =
     .accesskey = D
 sync-manage-account = Administroni llogari
     .accesskey = A
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } nuk është i verifikuar.
 sync-signedin-login-failure = Ju lutemi, bëni hyrjen që të rilidheni { $email }
+
+##
+
 sync-resend-verification =
     .label = Ridërgo Verifikim
     .accesskey = d
@@ -890,8 +930,8 @@ history-clear-button =
 sitedata-header = Cookies dhe të Dhëna Sajtesh
 sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe fshehtine…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie-t, të dhënat tuaja të sajteve dhe fshehtina përdorin deri sot { $value } { $unit } hapësirë disku.
 sitedata-learn-more = Mësoni më tepër
 sitedata-delete-on-close =
@@ -927,6 +967,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Administroni Përjashtime…
     .accesskey = A
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reduktim Banderolash Për Cookie-t
+cookie-banner-handling-description = { -brand-short-name }-i provon të hedhë poshtë automatikisht kërkesat për cookies në banderola cookie-sh, në sajtet që e mbulojnë.
+cookie-banner-learn-more = Mësoni Më Tepër
+forms-handle-cookie-banners =
+    .label = Redukto Banderola për Cookie-t
 
 ## Privacy Section - Address Bar
 
@@ -1063,6 +1111,11 @@ permissions-camera-settings =
     .accesskey = R
 permissions-microphone = Mikrofon
 permissions-microphone-settings =
+    .label = Rregullime…
+    .accesskey = R
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Përzgjedhje Altoparlantësh
+permissions-speaker-settings =
     .label = Rregullime…
     .accesskey = R
 permissions-notification = Njoftime
