@@ -12,4 +12,13 @@ tag-pings-label = Etiketoji me këtë etiketë krejt pingjet e dërguar
 log-pings-label = Të regjistrohet ngarkesë pingu përpara dërgimit?
 send-pings-label = Dërgo pingun e emërtuar
 controls-button-label = Parashtroni Rregullime
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = Parës Ping-esh Diagnostikimi { -glean-brand-name }
+about-glean-page-title2 = Mbi { -glean-brand-name }-in
+about-glean-header = Mbi { -glean-brand-name }-in
 controls-button-label-verbose = Apliko rregullimet dhe parashtro një ping
