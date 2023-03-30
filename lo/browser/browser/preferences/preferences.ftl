@@ -659,6 +659,20 @@ sitedata-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ປະເພດທີ່ຖືກປິດກັ້ນ
     .accesskey = ປ
+sitedata-option-block-cross-site-trackers =
+    .label = ຕົວຕິດຕາມຂ້າມເວັບໄຊ
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ
+sitedata-option-block-cross-site-cookies =
+    .label = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ, ແລະແຍກຄຸກກີຂ້າມເວັບໄຊອື່ນ
+sitedata-option-block-unvisited =
+    .label = Cookies ຈາກເວັບໄຊທ໌ທີ່ບໍ່ໄດ້ເຂົ້າຊົມ
+sitedata-option-block-all-third-party =
+    .label = ຄຸກກີ້ນອກທັງໝົດ(ອາດເຮັດໃຫ້ເວັບໄຊມີບັນຫາ)
+sitedata-option-block-all-cross-site-cookies =
+    .label = ຄຸກກີຂ້າມເວັບໄຊທັງໝົດ (ອາດເຮັດໃຫ້ເວັບໄຊທ໌ແຕກ)
+sitedata-option-block-all =
+    .label = ຄຸກກີ້ທັງຫມົດ (ຈະສົ່ງຜົນໃຫ້ເວັບໄຊທບໍ່ສົມບູນ)
 sitedata-clear =
     .label = ລ້າງຂໍ້ມູນ…
     .accesskey = l
@@ -688,7 +702,9 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-section-top-level-description = ບົບຕິດຕາມລຸດຕິດຕາມທ່ານອອນໄລນ໌ເພື່ອເກັບກໍາຂໍ້ມູນກ່ຽວກັບນິໄສການທ່ອງເວັບແລະຄວາມສົນໃຈຂອງທ່ານ. { -brand-short-name } ບລັອກຕົວຕິດຕາມເຫຼົ່ານີ້ ແລະສະຄຣິບທີ່ເປັນອັນຕະລາຍອື່ນໆ.
 content-blocking-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+content-blocking-fpi-incompatibility-warning = ທ່ານກຳລັງໃຊ້ First Party Isolation (FPI), ເຊິ່ງ overrides ບາງການຕັ້ງຄ່າຄຸກກີຂອງ { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -699,7 +715,10 @@ content-blocking-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 content-blocking-cross-site-tracking-cookies = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ
 content-blocking-all-cross-site-cookies-private-windows = ຄຸກກີຂ້າມເວັບໄຊໃນ Windows ສ່ວນຕົວ
 content-blocking-all-cookies = ຄຸກກີທັງໝົດ
+content-blocking-all-windows-tracking-content = ການຕິດຕາມເນື້ອຫາຢູ່ໃນປ່ອງຢ້ຽມທັງຫມົດ
 content-blocking-all-third-party-cookies = ຄຸກກີພາກສ່ວນທີສາມທັງໝົດ
+content-blocking-all-cross-site-cookies = ຄຸກກີຂ້າມເວັບໄຊທັງໝົດ
+content-blocking-cryptominers = ຕົວຂຸດຫລຽນດິຈິຕໍລ
 content-blocking-fingerprinters = ລາຍນິ້ວມື
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
@@ -709,6 +728,8 @@ content-blocking-warning-title = ລະວັງ!
 content-blocking-warning-learn-how = ຮຽນຮູ້ວິທີການ
 content-blocking-reload-description = ທ່ານຈະຕ້ອງໂຫຼດແຖບຂອງທ່ານຄືນໃໝ່ເພື່ອນຳໃຊ້ການປ່ຽນແປງເຫຼົ່ານີ້.
 content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
+content-blocking-expand-section =
+    .tooltiptext = ຂໍ້ມູນເພີ່ມເຕີມ
 
 ## Privacy Section - Tracking
 
@@ -720,6 +741,7 @@ permissions-location = ຕຳແຫນ່ງທີ່ຕັ້ງ
 permissions-location-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = t
+permissions-xr = ມຸມມອງສະເໝືອນຈິງ
 permissions-camera = ກ້ອງຖ່າຍຮູບ
 permissions-camera-settings =
     .label = ການຕັ້ງຄ່າ…
@@ -728,6 +750,8 @@ permissions-microphone = ໄມໂຄຣໂຟນ
 permissions-microphone-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = ການເລືອກລຳໂພງ
 permissions-notification = ການແຈ້ງເຕືອນ
 permissions-notification-settings =
     .label = ການຕັ້ງຄ່າ…
@@ -751,10 +775,19 @@ permissions-addon-exceptions =
 
 collection-header = ການເກັບລວບລວມແລະໃຊ້ຂໍ້ມູນ { -brand-short-name }
 collection-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
+collection-health-report-telemetry-disabled-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+collection-studies =
+    .label = ອະນຸຍາດໃຫ້ { -brand-short-name } ຕິດຕັ້ງ ແລະດໍາເນີນການສຶກສາ
+collection-studies-link = ເບິ່ງການສຶກສາຂອງ { -brand-short-name }
+addon-recommendations =
+    .label = ອະນຸຍາດໃຫ້ { -brand-short-name } ເຮັດການແນະນຳສ່ວນຂະຫຍາຍທີ່ເປັນແບບສ່ວນຕົວ
+addon-recommendations-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ການລາຍງານຂໍ້ມູນຖືກປິດໃຊ້ງານສຳລັບການກຳນົດຄ່າການສ້າງນີ້
+privacy-segmentation-radio-on =
+    .label = ສະແດງຂໍ້ມູນລະອຽດ
 
 ## Privacy Section - Security
 ##

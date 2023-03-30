@@ -21,3 +21,13 @@ default-bookmarks-firefox-get-help = ຂໍຄວາມຊ່ວຍເຫຼື�
 default-bookmarks-firefox-customize = ປັບແຕ່ງ Firefox
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = ກ່ຽວກັບພວກເຮົາ
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = Mozilla Bug Tracker
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Mozilla Developer Network
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Nightly Tester Tools
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = ບັນຫາ​ທັງ​ຫມົດ​ຂອງ​ທ່ານ​
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = ດາວເຄາະ Mozilla
