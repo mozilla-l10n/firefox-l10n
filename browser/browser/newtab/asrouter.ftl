@@ -225,11 +225,15 @@ colorways-cfr-header-today = Itsenäiset äänet -väriteemat vanhenevat tänä�
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Evästeilmoitukset poistukaa!
 cfr-cookiebanner-accept-button-v2 = Hylkää pyynnöt
     .accesskey = H
 cfr-cookiebanner-reject-button = Ei nyt
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Vähemmän evästeilmoituksia
+cfr-cookiebanner-accept-button-variant-1 = Hylkää ponnahdukset
+    .accesskey = d
 cfr-cookiebanner-reject-button-variant-1 = Ei kiitos
     .accesskey = E
 cfr-cookiebanner-header-variant-2 = Evästeilmoitusten vähennys
@@ -237,14 +241,12 @@ cfr-cookiebanner-accept-button-variant-2 = Salli
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = Ei nyt
     .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-dismiss-button = Ei nyt
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Pidämme sinusta huolen
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

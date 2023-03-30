@@ -27,6 +27,8 @@ neterror-try-again-button = Yritä uudestaan
 neterror-add-exception-button = Jatka aina tälle sivustolle
 neterror-settings-button = Muuta DNS-asetuksia
 neterror-view-certificate-link = Näytä varmenne
+neterror-trr-continue-this-time = Jatka tällä kertaa
+neterror-disable-native-feedback-warning = Jatka aina
 
 ##
 
@@ -61,6 +63,14 @@ neterror-dns-not-found-trr-offline = Et ole yhteydessä Internetiin.
 neterror-dns-not-found-trr-unknown-host = Tälle verkkosivustolle ei löytynyt osoitetta kohteesta { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Verkkotunnuksen { $trrDomain } kanssa ilmeni ongelma.
 neterror-dns-not-found-trr-unknown-problem = Odottamaton ongelma.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-heuristic = DNS HTTPS:n välityksellä on poistettu käytöstä verkossasi.
+neterror-dns-not-found-native-fallback-not-confirmed = Yhteys verkkotunnukseen { $trrDomain } ei ole vielä valmis.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ei voinut muodostaa yhteyttä verkkotunnukseen { $trrDomain }.
 
 ##
 
