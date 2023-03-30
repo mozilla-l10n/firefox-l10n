@@ -30,6 +30,29 @@ cookie-tab-content = cookies ເຫຼົ່ານີ້ຕິດຕາມທ່
 tracker-tab-title = ຕົວຕິດຕາມເນື້ອຫາ
 tracker-tab-description = ເວັບໄຊທ໌ອາດຈະໂຫລດໂຄສະນາພາຍນອກ, ວິດີໂອ, ແລະເນື້ອຫາອື່ນໆທີ່ມີລະຫັດຕິດຕາມ. ການຂັດຂວາງການຕິດຕາມເນື້ອຫາສາມາດຊ່ວຍໃຫ້ເວັບໄຊທ໌ໂຫລດໄວຂຶ້ນ, ແຕ່ບາງປຸ່ມ, ແບບຟອມ, ແລະຊ່ອງຂໍ້ມູນການເຂົ້າສູ່ລະບົບອາດຈະບໍ່ເຮັດວຽກ. <a data-l10n-name="learn-more-link">ສຶກສາເພີ່ມເຕີມ</a>
 fingerprinter-tab-title = ລາຍນິ້ວມື
+cryptominer-tab-title = ຕົວຂຸດຫລຽນດິຈິຕໍລ
+cryptominer-tab-content = Cryptominers ໃຊ້ພະລັງງານຄອມພິວເຕີ້ຂອງລະບົບຂອງທ່ານເພື່ອຂຸດຄົ້ນເງິນດິຈິຕອນ. Cryptomining scripts ເຮັດໃຫ້ຫມໍ້ໄຟຂອງທ່ານເຮັດໃຫ້ຄອມພິວເຕີຂອງທ່ານຊ້າລົງ, ແລະສາມາດເພີ່ມຄ່າພະລັງງານຂອງທ່ານ. <a data-l10n-name="learn-more-link">ສຶກສາເພີ່ມເຕີມ</a>
+protections-close-button2 =
+    .aria-label = ປິດ
+    .title = ປິດ
+mobile-app-title = ບລັອກຕົວຕິດຕາມການໂຄສະນາໃນທົ່ວອຸປະກອນເພີ່ມເຕີມ
+mobile-app-card-content = ໃຊ້ຕົວທ່ອງເວັບຂອງມືຖືທີ່ມີການກໍ່ສ້າງໃນການປ້ອງກັນການຕິດຕາມການໂຄສະນາ.
+mobile-app-links = { -brand-product-name } ໂປຣແກຣມທ່ອງເວັບສຳລັບ <a data-l10n-name="android-mobile-inline-link">Android</a> ແລະ <a data-l10n-name="ios-mobile-inline-link ">iOS</a>
+lockwise-title = ຢ່າລືມລະຫັດຜ່ານອີກ
+passwords-title-logged-in = ຈັດການລະຫັດຜ່ານຂອງທ່ານ
+passwords-header-content = { -brand-product-name } ເກັບຮັກສາລະຫັດຜ່ານຂອງທ່ານໃນບຣາວເຊີຂອງທ່ານຢ່າງປອດໄພ.
+lockwise-header-content-logged-in = ເກັບ​ຮັກ​ສາ​ໄວ້​ຢ່າງ​ປອດ​ໄພ​ແລະ sync ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ​ກັບ​ອຸ​ປະ​ກອນ​ທັງ​ຫມົດ​ຂອງ​ທ່ານ​.
+protection-report-passwords-save-passwords-button = ບັນທຶກລະຫັດຜ່ານ
+    .title = ບັນທຶກລະຫັດຜ່ານ
+protection-report-passwords-manage-passwords-button = ຈັດການລະຫັດຜ່ານ
+    .title = ຈັດການລະຫັດຜ່ານ
+auto-scan = ສະແກນອັດຕະໂນມັດໃນມື້ນີ້
+monitor-emails-tooltip =
+    .title = ເບິ່ງທີ່ຢູ່ອີເມວທີ່ຖືກຕິດຕາມຢູ່ໃນ { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = ເບິ່ງການລະເມີດຂໍ້ມູນໃນ { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = ເບິ່ງລະຫັດຜ່ານທີ່ເປີດເຜີຍໃນ { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

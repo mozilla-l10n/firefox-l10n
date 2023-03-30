@@ -358,6 +358,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = ຫນ້າທຳອິດຂອງ Firefox (ຄ່າເລີ່ມຕົ້ນ)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (ຄ່າເລີ່ມຕົ້ນ)
 home-mode-choice-custom =
     .label = URLs ທີ່ກຳນົດເອງ…
 home-mode-choice-blank =
@@ -383,6 +385,8 @@ choose-bookmark =
 
 home-prefs-content-header = ເນື້ອໃນຫນ້າທຳອິດຂອງ Firefox
 home-prefs-content-description = ເລືອກເນື້ອຫາທີ່ທ່ານຕ້ອງການສະແດງໃນຫນ້າຈໍຫນ້າຫລັກ Firefox ຂອງທ່ານ.
+home-prefs-content-header2 = { -firefox-home-brand-name } ເນື້ອໃນ
+home-prefs-content-description2 = ເລືອກເນື້ອຫາທີ່ທ່ານຕ້ອງການຢູ່ໃນໜ້າຈໍ { -firefox-home-brand-name } ຂອງທ່ານ.
 home-prefs-search-header =
     .label = ຊອກຫາເວັບ
 home-prefs-shortcuts-header =
@@ -440,6 +444,8 @@ search-bar-hidden =
 search-bar-shown =
     .label = ເພີ່ມແທັບຊອກຫາໃນແທັບເຄື່ອງມື
 search-engine-default-header = ເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
+search-engine-default-desc-2 = ນີ້ແມ່ນເຄື່ອງມືຄົ້ນຫາເລີ່ມຕົ້ນຂອງທ່ານໃນແຖບທີ່ຢູ່ແລະແຖບຄົ້ນຫາ. ທ່ານສາມາດປ່ຽນມັນໄດ້ທຸກເວລາ.
+search-engine-default-private-desc-2 = ເລືອກເຄື່ອງຈັກຊອກຫາມາດຕະຖານທີ່ແຕກຕ່າງກັນສໍາລັບ Windows ສ່ວນຕົວເທົ່ານັ້ນ
 search-suggestions-header = ຄົ້ນຫາຄໍາແນະນໍາ
 search-suggestions-desc = ເລືອກວິທີທີ່ຄໍາແນະນໍາຈາກເຄື່ອງຈັກຊອກຫາປາກົດ.
 search-suggestions-option =
@@ -448,6 +454,18 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ສະແດງຜົນການຊອກຫາໃນແທັບທີ່ຢູ່
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = ສະ​ແດງ​ໃຫ້​ເຫັນ​ຄໍາ​ແນະ​ນໍາ​ການ​ຄົ້ນ​ຫາ​ກ່ອນ​ຫນ້າ​ຂອງ​ປະ​ຫວັດ​ສາດ​ການ​ຊອກ​ຫາ​ໃນ​ຜົນ​ໄດ້​ຮັບ​ແຖບ​ທີ່​ຢູ່​
+search-show-suggestions-private-windows =
+    .label = ສະແດງຄຳແນະນຳການຊອກຫາໃນ Windows ສ່ວນຕົວ
+suggestions-addressbar-settings-generic2 = ປ່ຽນການຕັ້ງຄ່າສຳລັບການແນະນຳແຖບທີ່ຢູ່ອື່ນ
+search-one-click-header2 = ຄົ້ນຫາທາງລັດ
+search-one-click-desc = ເລືອກເຄື່ອງຈັກຊອກຫາທາງເລືອກທີ່ປາກົດຢູ່ລຸ່ມແຖບທີ່ຢູ່ແລະແຖບຄົ້ນຫາເມື່ອທ່ານເລີ່ມໃສ່ຄໍາສໍາຄັນ.
 search-choose-engine-column =
     .label = ເຄື່ອງມືການຊອກຫາ
 search-choose-keyword-column =
@@ -570,6 +588,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = ບັນທຶກ
     .accesskey = v
+sync-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 
 ## Privacy Section
 
@@ -598,11 +617,26 @@ forms-primary-pw-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 forms-master-pw-change =
     .label = ປ່ຽນລະຫັດຜ່ານຫຼັກ
     .accesskey = M
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = ເມື່ອກ່ອນເອີ້ນວ່າ Master Password
+forms-primary-pw-fips-title = ປະຈຸບັນທ່ານຢູ່ໃນໂໝດ FIPS. FIPS ຕ້ອງການລະຫັດຜ່ານຫຼັກທີ່ບໍ່ຫວ່າງເປົ່າ.
 forms-master-pw-fips-desc = ການປ່ຽນລະຫັດຜ່ານລົ້ມເຫລວ
+forms-windows-sso =
+    .label = ອະນຸຍາດໃຫ້ລົງຊື່ເຂົ້າໃຊ້ Windows ດຽວສໍາລັບບັນຊີ Microsoft, ວຽກ ແລະໂຮງຮຽນ
 forms-windows-sso-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+forms-windows-sso-desc = ຈັດການບັນຊີໃນການຕັ້ງຄ່າອຸປະກອນຂອງທ່ານ
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະຫັດຜ່ານຫຼັກ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -682,6 +716,8 @@ sitedata-settings =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
+cookie-banner-handling-description = { -brand-short-name } ອັດຕະໂນມັດພະຍາຍາມປະຕິເສດການຮ້ອງຂໍຄຸກກີໃນປ້າຍໂຄສະນາຄຸກກີຢູ່ໃນເວັບໄຊທີ່ຮອງຮັບ.
 cookie-banner-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 forms-handle-cookie-banners =
     .label = ຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
@@ -712,9 +748,18 @@ content-blocking-fpi-incompatibility-warning = ທ່ານກຳລັງໃຊ
 
 ##
 
+content-blocking-etp-strict-desc = ການປົກປ້ອງທີ່ເຂັ້ມແຂງ, ແຕ່ອາດຈະເຮັດໃຫ້ບາງເວັບໄຊທ໌ຫຼືເນື້ອຫາທໍາລາຍ.
+content-blocking-etp-custom-desc = ເລືອກຕົວຕິດຕາມ ແລະ ສະຄິບທີ່ຈະບັອກ.
+content-blocking-etp-blocking-desc = { -brand-short-name } ບລັອກສິ່ງຕໍ່ໄປນີ້:
+content-blocking-private-windows = ການຕິດຕາມເນື້ອຫາໃນ Windows ສ່ວນຕົວ
+content-blocking-cross-site-cookies-in-all-windows = ຄຸກກີຂ້າມເວັບໄຊໃນທຸກປ່ອງຢ້ຽມ (ລວມທັງການຕິດຕາມຄຸກກີ້)
+content-blocking-cross-site-cookies-in-all-windows2 = ຄຸກກີຂ້າມເວັບໄຊໃນທຸກປ່ອງຢ້ຽມ
 content-blocking-cross-site-tracking-cookies = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ
 content-blocking-all-cross-site-cookies-private-windows = ຄຸກກີຂ້າມເວັບໄຊໃນ Windows ສ່ວນຕົວ
+content-blocking-cross-site-tracking-cookies-plus-isolate = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ, ແລະແຍກຄຸກກີ້ທີ່ເຫຼືອ
+content-blocking-social-media-trackers = ບົບຕິດຕາມລຸດສື່ມວນຊົນສັງຄົມ
 content-blocking-all-cookies = ຄຸກກີທັງໝົດ
+content-blocking-unvisited-cookies = ຄຸກກີ້ຈາກເວັບໄຊທທີ່ບໍ່ເຄີຍເຂົ້າໄປ
 content-blocking-all-windows-tracking-content = ການຕິດຕາມເນື້ອຫາຢູ່ໃນປ່ອງຢ້ຽມທັງຫມົດ
 content-blocking-all-third-party-cookies = ຄຸກກີພາກສ່ວນທີສາມທັງໝົດ
 content-blocking-all-cross-site-cookies = ຄຸກກີຂ້າມເວັບໄຊທັງໝົດ
@@ -822,6 +867,15 @@ certs-devices =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = ໂໝດ HTTPS ເທົ່ານັ້ນ
+httpsonly-description = HTTPS ສະໜອງການເຊື່ອມຕໍ່ທີ່ປອດໄພ ແລະເຂົ້າລະຫັດລະຫວ່າງ { -brand-short-name } ແລະເວັບໄຊທີ່ທ່ານເຂົ້າເບິ່ງ. ເວັບໄຊທ໌ສ່ວນໃຫຍ່ສະຫນັບສະຫນູນ HTTPS, ແລະຖ້າ HTTPS-Only Mode ຖືກເປີດໃຊ້, ຫຼັງຈາກນັ້ນ { -brand-short-name } ຈະຍົກລະດັບການເຊື່ອມຕໍ່ທັງຫມົດເປັນ HTTPS.
+httpsonly-learn-more = ສຶກສາເພີ່ມເຕີມ
+httpsonly-radio-enabled =
+    .label = ເປີດໃຊ້ HTTPS-Only Mode ໃນທຸກໜ້າຕ່າງ
+httpsonly-radio-enabled-pbm =
+    .label = ເປີດໃຊ້ HTTPS-Only Mode ໃນປ່ອງຢ້ຽມສ່ວນຕົວເທົ່ານັ້ນ
+httpsonly-radio-disabled =
+    .label = ຢ່າເປີດໃຊ້ໂໝດ HTTPS ເທົ່ານັ້ນ
 
 ## The following strings are used in the Download section of settings
 
