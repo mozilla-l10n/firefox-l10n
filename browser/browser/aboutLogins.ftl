@@ -40,6 +40,14 @@ login-list-count =
         [one] { $count } kirjautumistieto
        *[other] { $count } kirjautumistietoa
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count }/{ $total } kirjautumistieto
+       *[other] { $count }/{ $total } kirjautumistietoa
+    }
 login-list-sort-label-text = Järjestys:
 login-list-name-option = Nimi (A–Ö)
 login-list-name-reverse-option = Nimi (Ö–A)
