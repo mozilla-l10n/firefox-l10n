@@ -73,6 +73,17 @@ restart-later = بعداْ راه‌اندازی مجدد شود
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -117,7 +128,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = م
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -140,6 +151,10 @@ browser-containers-settings =
     .label = تنظیمات…
     .accesskey = ت
 containers-disable-alert-title = بستن تمام زبانه‌های حامل؟
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] اگر هم‌اکنون زبانه‌های حامل را غیرفعال کنید، { $tabCount } زبانه حامل بسته خواهد شد. آیا مطمئنید که می‌خواهید زبانه‌های حامل را غیرفعال کنید؟
@@ -150,10 +165,13 @@ containers-disable-alert-ok-button =
         [one] بستن { $tabCount } زبانه حامل
        *[other] بستن { $tabCount } زبانه حامل
     }
+
+##
+
 containers-disable-alert-cancel-button = فعال باقی بماند
 containers-remove-alert-title = این حامل حذف شود؟
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] اگر هم‌اکنون زبانه‌های حامل را غیرفعال کنید، { $count } زبانه حامل بسته خواهد شد. آیا مطمئنید که می‌خواهید زبانه‌های حامل را غیرفعال کنید؟
@@ -176,6 +194,8 @@ advanced-fonts =
 preferences-zoom-header = بزرگنمایی
 preferences-default-zoom = بزرگنمایی پیش‌فرض
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }٪
 preferences-zoom-text-only =
@@ -268,15 +288,15 @@ applications-manage-app =
 applications-always-ask =
     .label = هر بار پرسیده شود
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = استفاده از { $plugin-name } (در { -brand-short-name })
 applications-open-inapp =
@@ -312,6 +332,8 @@ play-drm-content =
 play-drm-content-learn-more = بیشتر بدانید
 update-application-title = بروزرسانی‌های { -brand-short-name }:
 update-application-description = برای تجربهٔ بهترین کارایی، پایداری و امنیت { -brand-short-name } را به روز نگاه دارید.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = نسخه{ $version } <a data-l10n-name="learn-more">امکانات جدید</a>
 update-history =
     .label = نمایش تاریخچهٔ بروزرسانی…
@@ -335,7 +357,7 @@ update-application-use-service =
     .accesskey = پ
 update-setting-write-failure-title2 = خطا در هنگام ذخیرهٔ تنطیمات بروزرسانی
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -365,7 +387,7 @@ performance-limit-content-process-option = محدودیت پروسهٔ محتو�
 performance-limit-content-process-enabled-desc = پروسه‌هایِ محتوایِ بیشتر می‌تواند کارایی را هنگام استفاده از چندین زبانه افزایش دهد، اما حافظه بیشتری هم مصرف خواهد کرد.
 performance-limit-content-process-blocked-desc = تغییر دادن تعداد پردازدش‌های محتوا تنها با چند‌پردازشی { -brand-short-name } امکان پذیر است. <a data-l10n-name="learn-more">بدانید چگونه بررسی کنید چندپرادزشی فعال است</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (پیش‌فرض)
 
@@ -464,6 +486,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = پیشنهاد شده توسط { $provider }
 home-prefs-recommended-by-description-new = محتوای استثنایی که توسط { $provider }، بخشی از خانواده { -brand-product-name }، جمع‌آوری شده‌اند.
@@ -491,6 +517,8 @@ home-prefs-recent-activity-description = منتخبی از وب‌سایت‌ه�
 home-prefs-snippets-header =
     .label = قطعه‌ها
 home-prefs-snippets-description-new = نکات و اخبار از { -vendor-short-name } و { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -550,7 +578,7 @@ search-find-more-link = پیدا کردن موتورهای جستجو بیشتر
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = کلیدواژهٔ تکراری
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = شما کلیدواژه‌ای انتخاب نموده‌اید که در حال حاضر توسط «{ $name }» در حال استفاده است. لطفا کلیدواژه دیگری انتخاب کنید.
 search-keyword-warning-bookmark = شما کلیدواژه‌ای انتخاب نموده‌اید که در حال حاضر توسط یک نشانک در حال استفاده است.  لطفاً کلیدواژهٔ دیگری انتخاب کنید.
 
@@ -597,8 +625,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = مدیریت حساب
     .accesskey = ح
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } تایید نشده است.
 sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد شوید. { $email }
+
+##
+
 sync-resend-verification =
     .label = ارسال مجدد تاییدیه
     .accesskey = d
@@ -809,8 +844,8 @@ history-clear-button =
 sitedata-header = کوکی‌ها و اطلاعات وب سایت
 sitedata-total-size-calculating = در حال محاسبهٔ اطلاعات پایگاه‌ها و اندازهٔ حافظهٔ نهان…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = کوکی‌ها، اطلاعات پایگاه‌ها و حافظهٔ نهانِ ذخیره شده در حال حاضر از { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
 sitedata-learn-more = بیشتر بدانید
 sitedata-delete-on-close =
@@ -848,6 +883,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 
@@ -918,6 +956,9 @@ content-blocking-fingerprinters = برداشت کنندگان اثر انگشت
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = قدرتمندترین ویژگی حریم خصوصی ما تا کنون را تست کنید
     .accesskey = ق
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = حفاظت کامل از کوکی‌ها حاوی کوکی‌هایی برای سایتی است که در آن هستید، بنابراین ردیاب‌ها نمی‌توانند از آنها برای دنبال کردن شما بین سایت‌ها استفاده کنند.
 content-blocking-etp-standard-tcp-rollout-learn-more = اطلاعات بیشتر
@@ -974,7 +1015,7 @@ permissions-camera = دوربین
 permissions-camera-settings =
     .label = تنظیمات…
     .accesskey = c
-permissions-microphone = میکروفن
+permissions-microphone = صدابَر
 permissions-microphone-settings =
     .label = تنظیمات…
     .accesskey = m
