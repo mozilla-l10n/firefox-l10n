@@ -42,6 +42,12 @@ webrtc-sharing-window = Դուք համօգտագործում եք մեկ այլ
 webrtc-sharing-browser-window = Դուք համօգտագործում եք { -brand-short-name }-ը:
 webrtc-sharing-screen = Դուք համօգտագործում եք ամբողջ էկրանը:
 webrtc-stop-sharing-button = Չհամօգտագործել
+webrtc-microphone-unmuted =
+    .title = Անջատել խոսափողը
+webrtc-microphone-muted =
+    .title = Միացնել խոսափողը
+webrtc-camera-muted =
+    .title = Միացնել տեսախցիկը
 webrtc-minimize =
     .title = Նվազեցնել ցուցիչը
 
