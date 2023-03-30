@@ -304,7 +304,7 @@ quickactions-cmd-themes = زمینه‌ها
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = به‌روز رسانی { -brand-short-name }
 quickactions-cmd-update = به‌روز رسانی
-quickactions-cmd-viewsource = مشاهده منبع، منبع
+quickactions-cmd-viewsource = مشاهدهٔ منبع، منبع
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = دربارهٔ کنش‌های سریع بیشتر بدانید
