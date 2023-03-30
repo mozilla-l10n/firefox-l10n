@@ -37,7 +37,7 @@ protections-close-button2 =
     .title = ປິດ
 mobile-app-title = ບລັອກຕົວຕິດຕາມການໂຄສະນາໃນທົ່ວອຸປະກອນເພີ່ມເຕີມ
 mobile-app-card-content = ໃຊ້ຕົວທ່ອງເວັບຂອງມືຖືທີ່ມີການກໍ່ສ້າງໃນການປ້ອງກັນການຕິດຕາມການໂຄສະນາ.
-mobile-app-links = { -brand-product-name } ໂປຣແກຣມທ່ອງເວັບສຳລັບ <a data-l10n-name="android-mobile-inline-link">Android</a> ແລະ <a data-l10n-name="ios-mobile-inline-link ">iOS</a>
+mobile-app-links = { -brand-product-name } ໂປຣແກຣມທ່ອງເວັບສຳລັບ <a data-l10n-name="android-mobile-inline-link">Android</a> ແລະ <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = ຢ່າລືມລະຫັດຜ່ານອີກ
 passwords-title-logged-in = ຈັດການລະຫັດຜ່ານຂອງທ່ານ
 passwords-header-content = { -brand-product-name } ເກັບຮັກສາລະຫັດຜ່ານຂອງທ່ານໃນບຣາວເຊີຂອງທ່ານຢ່າງປອດໄພ.
