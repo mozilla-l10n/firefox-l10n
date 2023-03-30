@@ -557,6 +557,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ձեր վեբը Ձեզ հետ է
+sync-signedout-description2 = Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբառերը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:
 sync-signedout-account-signin3 =
     .label = Մուտք գործեք՝ համաժամեցնելու համար…
     .accesskey = i
@@ -605,6 +606,7 @@ prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՎԱԾ
 prefs-sync-turn-on-syncing =
     .label = Միացնել համաժամեցումը…
     .accesskey = s
+prefs-sync-offer-setup-label2 = Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբառերը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:
 prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
     .accesskeynotsyncing = N
