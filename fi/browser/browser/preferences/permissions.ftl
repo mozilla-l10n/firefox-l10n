@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Kirjoita kelvollinen palvelinnimi
 permissions-exceptions-etp-window =
     .title = Tehostetun seurannan suojauksen poikkeukset
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Olet poistanut suojaukset käytöstä näillä sivustoilla.
 permissions-exceptions-etp-window2 =
     .title = Tehostetun seurannan suojauksen poikkeukset
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Olet poistanut suojaukset käytöstä näillä sivustoilla.
 permissions-exceptions-manage-etp-desc = Voit määrittää, millä verkkosivustoilla tehostettu seurannan suojaus on poistettu käytöstä. Kirjoita sen sivuston tarkka osoite, jota haluat hallita, ja napsauta sitten Lisää poikkeus.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Seuraavat sivustot ovat pyytäneet lupaa käy
 permissions-site-microphone-disable-label =
     .label = Estä uudet lupapyynnöt mikrofonin käyttämiseksi
 permissions-site-microphone-disable-desc = Tämä estää kaikki yllä mainitsemattomat sivustot pyytämästä lupaa käyttää mikrofonia. Mikrofonin käytön estäminen voi rikkoa joitain sivuston ominaisuuksia.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Asetukset - Äänentoistolaitteen oikeudet
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Seuraavat sivustot ovat pyytäneet oikeutta valita äänentoistolaiteen. Voit määrittää millä sivustoilla on äänentoistolaitteen valintaoikeus.

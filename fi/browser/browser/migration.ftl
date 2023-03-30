@@ -68,6 +68,8 @@ import-items-description = Valitse tuotavat tiedot:
 import-permissions-page-title = Anna { -brand-short-name }-selaimelle oikeudet
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS vaatii, että erikseen sallit { -brand-short-name }-selaimen käyttää Safarin kirjanmerkkejä. Napsauta ”Jatka” ja valitse ”Bookmarks.plist”-tiedosto avautuvasta tiedostonavauspaneelista.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS vaatii, että myönnät { -brand-short-name }ille erillisen oikeuden käyttää Safarin tietoja. Napsauta ”Jatka”, valitse avautuvasta Finderin ikkunasta ”Safari”-kansio ja napsauta sitten “Avaa”.
 import-migrating-page-title = Tuodaan…
 import-migrating-description = Seuraavia tietoja tuodaan…
 import-select-profile-page-title = Valitse profiili

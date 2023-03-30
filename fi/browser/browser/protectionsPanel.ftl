@@ -110,6 +110,12 @@ protections-panel-cookie-banner-view-title =
     .title = Evästeilmoitusten vähennys
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Edellinen
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Haluatko poistaa evästeilmoitusten vähennystoiminnon käytöstä sivustolla { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Haluatko ottaa evästeilmoitusten vähennystoiminnon käyttöön tällä sivustolla?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } poistaa tämän sivuston evästeet ja päivittää sivun. Kaikkien evästeiden poistaminen saattaa kirjata sinut ulos tai tyhjentää ostoskorit.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pyrkii automaattisesti vastaamaan kieltävästi kaikkiin evästepyyntöihin tuetuilla sivustoilla.
 protections-panel-cookie-banner-view-cancel = Peruuta
 protections-panel-cookie-banner-view-turn-off = Poista käytöstä
 protections-panel-cookie-banner-view-turn-on = Ota käyttöön

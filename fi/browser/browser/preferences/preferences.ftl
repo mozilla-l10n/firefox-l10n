@@ -131,6 +131,7 @@ startup-restore-warn-on-quit =
     .label = Varoita, kun selainta ollaan sulkemassa
 disable-extension =
     .label = Poista laajennus käytöstä
+preferences-data-migration-description = Tuo kirjanmerkit, salasanat, historia ja automaattisen täytön tiedot { -brand-short-name }iin.
 tabs-group-header = Välilehdet
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab selaa välilehtiä käyttöjärjestyksessä alkaen viimeisimmästä
@@ -967,6 +968,14 @@ sitedata-cookies-exceptions =
     .label = Hallitse poikkeuksia…
     .accesskey = p
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Evästeilmoitusten vähennys
+cookie-banner-handling-description = { -brand-short-name } pyrkii automaattisesti vastaamaan kielteisesti evästepyyntöihin tuetuilla sivustoilla.
+cookie-banner-learn-more = Lue lisää
+forms-handle-cookie-banners =
+    .label = Vähennä evästeilmoituksia
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Osoitepalkki
@@ -1104,6 +1113,11 @@ permissions-camera-settings =
     .accesskey = t
 permissions-microphone = Mikrofoni
 permissions-microphone-settings =
+    .label = Asetukset…
+    .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Äänentoistolaitteen valinta
+permissions-speaker-settings =
     .label = Asetukset…
     .accesskey = t
 permissions-notification = Ilmoitukset
