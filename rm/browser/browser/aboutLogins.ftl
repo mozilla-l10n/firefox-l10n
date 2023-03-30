@@ -7,6 +7,9 @@ about-logins-page-title = Infurmaziuns d'annunzia & pleds-clav
 login-filter =
     .placeholder = Tschertgar datas d'annunzia
 create-login-button = Crear datas d'annunzia
+about-logins-login-filter =
+    .placeholder = Tschertgar datas d'annunzia
+    .key = F
 create-new-login-button =
     .title = Crear novas datas d'annunzia
 fxaccounts-sign-in-text = Acceda a tes pleds-clav cun tut tes apparats
@@ -40,6 +43,14 @@ login-list-count =
     { $count ->
         [one] { $count } infurmaziun d'annunzia
        *[other] { $count } infurmaziuns d'annunzia
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } data d'annunzia dad { $total }
+       *[other] { $count } datas d'annunzia da { $total }
     }
 login-list-sort-label-text = Zavrar tenor:
 login-list-name-option = Num (A-Z)
