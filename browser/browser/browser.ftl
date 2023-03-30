@@ -136,11 +136,23 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = کمک بگیرید
 urlbar-search-tips-confirm = باشه، فهمیدم
+urlbar-search-tips-confirm-short = گرفتم
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = نکات:
+urlbar-result-menu-button =
+    .title = گشودن فهرست
+urlbar-result-menu-learn-more =
+    .label = یادگیری بیش‌تر
+    .accesskey = L
+urlbar-result-menu-remove-from-history =
+    .label = برداشتن از تاریخچه
+    .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = دریافت راهنما
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
