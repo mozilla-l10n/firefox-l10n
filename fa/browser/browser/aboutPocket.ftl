@@ -22,6 +22,7 @@ pocket-panel-saved-page-saved = در ‌{ -pocket-brand-name } ذخیره شده
 pocket-panel-saved-page-saved-b = در { -pocket-brand-name } ذخیره شد!
 pocket-panel-saved-processing-remove = در حال حذف صفحه…
 pocket-panel-saved-removed = صفحه از فهرست من حذف شد
+pocket-panel-saved-removed-updated = صفحه از ذخیره‌ها برداشته شد
 pocket-panel-saved-processing-tags = در حال اضافه کردن برچسب‌ها…
 pocket-panel-saved-remove-page = حذف صفحه
 pocket-panel-saved-save-tags = ذخیره
@@ -47,6 +48,7 @@ pocket-panel-signup-cta-a-fix = دکمه ذخیره شما برای اینترن
 pocket-panel-signup-cta-b = برای ذخیرهٔ مقاله‌ها، ویدیوها و پیوندها، روی دکمهٔ { -pocket-brand-name } کلیک کنید. فهرست خود را در هر دستگاه و در هر زمان ببینید.
 pocket-panel-signup-cta-b-short = برای ذخیرهٔ مقاله‌ها، ویدیوها و پیوندها، روی دکمهٔ { -pocket-brand-name } کلیک کنید.
 pocket-panel-signup-cta-c = فهرست خود را در هر دستگاه و در هر زمان ببینید.
+pocket-panel-signup-cta-c-updated = دیدن ذخیره‌هایتان روی هر افزاره‌ای، در هر زمانی.
 
 ## about:pocket-home panel
 
@@ -64,6 +66,7 @@ pocket-panel-home-new-user-message = ذخیره‌های اخیر خود را ا
 ## Pocket panel header component
 
 pocket-panel-header-my-list = نمایش فهرست من
+pocket-panel-header-my-saves = دیدن ذخیره‌هایم
 pocket-panel-header-sign-in = ورود
 
 ## Pocket panel buttons

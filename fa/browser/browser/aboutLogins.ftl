@@ -7,6 +7,11 @@ about-logins-page-title = ورودها و گذرواژه‌ها
 login-filter =
     .placeholder = جست‌وجو در ورودها
 create-login-button = ایجاد ورود جدید
+about-logins-login-filter =
+    .placeholder = جست‌وجوی ورودها
+    .key = F
+create-new-login-button =
+    .title = ایجاد ورود جدید
 fxaccounts-sign-in-text = گذرواژه‌هایتان را دستگاه‌های دیگر خود همراه داشته باشید
 fxaccounts-sign-in-sync-button = ورود برای همگام‌سازی
 fxaccounts-avatar-button =
@@ -32,10 +37,20 @@ about-logins-menu-menuitem-help = راهنما
 
 login-list =
     .aria-label = ورودهای مطابق با عبارت جست‌وجو شده
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } ورود
        *[other] { $count } ورود
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } از { $total } ورود
+       *[other] { $count } از { $total } ورود
     }
 login-list-sort-label-text = چیدن بر اساس:
 login-list-name-option = نام (آ-ی)
@@ -100,6 +115,17 @@ login-item-time-changed = آخرین تغییر: { DATETIME($timeChanged, day: "
 login-item-time-created = تاریخ ایجاد: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = آخرین استفاده: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = ایجاد شده در
+login-item-timeline-action-updated = به‌روزرسانی شده در
+login-item-timeline-action-used = استفاده شده در
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -144,6 +170,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
 about-logins-confirm-remove-dialog-confirm-button = برداشتن
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] برداشتن
@@ -175,6 +205,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] این کار همه ورودهایی که در { -brand-short-name } ذخیره شده و در دستگاه‌هایی که با { -fxaccount-brand-name } همگام‌سازی شده‌اند، حذف خواهند شد. این کار هشدارهای ورود ناخواسته‌ای که در اینجا نمایش داده شده‌اند نیز حذف خواهند شد. این عمل غیرقابل بازگشت است.
        *[other] این کار همه ورودهایی که در { -brand-short-name } ذخیره شده و در دستگاه‌هایی که با { -fxaccount-brand-name } همگام‌سازی شده‌اند، حذف خواهند شد. این کار هشدارهای ورود ناخواسته‌ای که در اینجا نمایش داده شده‌اند نیز حذف خواهند شد. این عمل غیرقابل بازگشت است.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = برون‌ریزی ورودها و گذرواژه‌ها
 about-logins-confirm-export-dialog-message = گذرواژه‌های شما به عنوان متن قابل خواندن ذخیره خواهد شد (مثلاً BadP@ssw0rd) بنابراین هر کسی که بتواند پرونده صادر شده را باز کند، می‌تواند آنها را ببیند.
 about-logins-confirm-export-dialog-confirm-button = برون‌ریزی…
