@@ -43,6 +43,14 @@ login-list-count =
     { $count ->
        *[other] { $count } การเข้าสู่ระบบ
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } จาก { $total } การเข้าสู่ระบบ
+       *[other] { $count } จาก { $total } การเข้าสู่ระบบ
+    }
 login-list-sort-label-text = เรียงลำดับตาม:
 login-list-name-option = ชื่อตามตัวอักษร
 login-list-name-reverse-option = ชื่อ (Z-A)
