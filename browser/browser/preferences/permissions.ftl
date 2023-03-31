@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Bonvolu tajpi validan servilan nomon
 permissions-exceptions-etp-window =
     .title = Esceptoj por la plibonigita protekto kontraŭ spurado
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Vi malŝaltis la protekton en tiuj ĉi retejoj.
 permissions-exceptions-etp-window2 =
     .title = Esceptoj por la plibonigita protekto kontraŭ spurado
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Vi malŝaltis la protekton en tiuj ĉi retejoj.
 permissions-exceptions-manage-etp-desc = Vi povas difini, kiuj retejoj havas plibonigitan kontraŭspuran protekton malŝaltita. Tajpu la ekzaktan adreso de la administota retejo kaj aklaku sur Aldoni escepton.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = La jenaj retejoj petis permeson aliri vian mi
 permissions-site-microphone-disable-label =
     .label = Bloki novajn petojn pri permeso aliri vian mikrofonon
 permissions-site-microphone-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson aliri vian mikrofonon. Blokado de aliro al via mikrofono povas misfunkciigi kelkajn trajtojn de retejoj.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Agordoj - Permesoj por soneligiloj
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = La jenaj retejoj petis permeson elekti soneligan aparaton. Vi povas decidi, kiuj retejoj rajtas elekti soneligan aparaton.
