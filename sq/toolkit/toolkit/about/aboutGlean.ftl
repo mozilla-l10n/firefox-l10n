@@ -29,6 +29,12 @@ about-glean-interface-description =
 about-glean-upload-enabled = Ngarkimi i të dhënave është aktivizuar.
 about-glean-upload-disabled = Ngarkimi i të dhënave është çaktivizuar.
 about-glean-upload-enabled-local = Ngarkimi i të dhënave është aktivizuar vetëm për dërgim te një shërbyes vendor.
+about-glean-upload-fake-enabled =
+    Ngarkimi i të dhënave është i çaktivizuar,
+    por po gënjejmë dhe i themi { glean-sdk-brand-name } se është i aktivizuar
+    që kështu të dhënat të regjistrohen ende lokalisht.
+    Shënim: Nëse keni ujdisur një etiketë diagnostikimi, pingjet do të ngarkohen te
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>, pavarësisht rregullimeve.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">Në parapëlqime dhe përkufizime</a> me vlerë përfshihen:
 # Variables:
@@ -58,6 +64,15 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (mos parashtro ndonjë ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Në fushën para kësaj garantoni se ka një etiketë diagnostikimi që mund të mbahet mend, që të mund të dalloni ping-et tuaja më vonë.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Përzgjidhni prej listës paraprijëse pingun që i takon instrumentimit tuaj.
+    Nëse gjendet në një <a data-l10n-name="custom-ping-link">ping vetjak</a>, zgjidhni pikërisht atë.
+    Përndryshe, parazgjedhja për matje <code>event</code> është
+    pingu <code>events</code>
+    dhe parazgjedhja për krejt matjet e tjera është
+    pingu <code>metrics</code>.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (Opsionale. I vini shenjë kutizës paraprijëse, nëse doni që edhe të regjistrohen pingjet, kur parashtrohen.
@@ -74,3 +89,7 @@ about-glean-li-for-visit-gdpv =
     S’do të duheshin më shumë se pak sekonda nga shtypja e butonit deri sa të arrijnë pingjet tuaj.
     Ndonjëherë mund të duhen ndopak minuta.
 controls-button-label-verbose = Apliko rregullimet dhe parashtro një ping
+about-glean-about-data-header = Mbi të Dhënat
+about-glean-about-data-explanation =
+    Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
