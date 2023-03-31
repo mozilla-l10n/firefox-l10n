@@ -27,6 +27,8 @@ neterror-try-again-button = Riprovoni
 neterror-add-exception-button = Vazhdo përherë për këtë sajt
 neterror-settings-button = Ndryshoni rregullime DNS
 neterror-view-certificate-link = Shihni Dëshmi
+neterror-trr-continue-this-time = Vazhdoje këtë herë
+neterror-disable-native-feedback-warning = Vazhdoje përherë
 
 ##
 
@@ -55,12 +57,23 @@ neterror-dns-not-found-hint-firewall = Kontrolloni nëse ka { -brand-short-name 
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të besuar për DNS. Ja pse:
 neterror-dns-not-found-trr-only-attackers = Nëse vazhdoni, një palë e tretë mund të jetë në gjendje të shohë ç’sajte vizitoni, ose t’ju dërgojë te një sajt jo i besueshëm.
+neterror-dns-not-found-trr-third-party-warning = Mund të vazhdoni me një ftillues DNS-sh që s’është i siguruar. Por, një palë e tretë mund të jetë në gjendje të shohë cilat sajte vizitoni.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }-i s’qe në gjendje të lidhet me { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Lidhja me { $trrDomain } zgjati më shumë se ç’pritej.
 neterror-dns-not-found-trr-offline = S’jeni i lidhur në internet.
 neterror-dns-not-found-trr-unknown-host = Nga { $trrDomain } s’u gjet adresë për këtë sajt.
 neterror-dns-not-found-trr-server-problem = Pati një problem me { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problem i papritur.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të besuar për DNS. Ja pse:
+neterror-dns-not-found-native-fallback-attackers = Mund të vazhdoni me një ftillues DNS-sh që s’është i siguruar. Por, një palë e tretë mund të jetë në gjendje të shohë cilat sajte vizitoni, ose t’ju dërgojë te një sajt jo i besuar.
+neterror-dns-not-found-native-fallback-heuristic = DNS përmes HTTPS është çaktivizuar në rrjetin tuaj.
+neterror-dns-not-found-native-fallback-not-confirmed = Lidhja me { $trrDomain } s’është ende gati.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }-i s’qe në gjendje të lidhet me { $trrDomain }.
 
 ##
 

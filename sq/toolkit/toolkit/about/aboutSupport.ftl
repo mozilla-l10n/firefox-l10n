@@ -22,6 +22,7 @@ security-software-title = Software Sigurie
 security-software-type = Lloj
 security-software-name = Emër
 security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
 security-software-firewall = Firewall
 features-title = Veçori { -brand-short-name }-i
 features-name = Emër
@@ -57,6 +58,9 @@ app-basics-build-config = Formësim Montimi
 app-basics-user-agent = Agjent Përdoruesi
 app-basics-os = OS
 app-basics-os-theme = Temë OS-i
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Përkthyer Nga Rosetta
 app-basics-memory-use = Përdorim Kujtese
 app-basics-performance = Punim
 app-basics-service-workers = Service Workers të Regjistruar
@@ -280,6 +284,8 @@ webgl2-renderer = Vizatues WebGL2
 webgl2-version = Version Përudhësi WebGL 2
 webgl2-driver-extensions = Zgjerime Përudhësi WebGL 2
 webgl2-extensions = Zgjerime WebGL 2
+webgpu-default-adapter = Përshtatës Parazgjedhje WebGPU
+webgpu-fallback-adapter = Përshtatës Rrugëdalje WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Shtuar në listë bllokimesh për shkak çështjesh të njohura: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
