@@ -131,6 +131,7 @@ startup-restore-warn-on-quit =
     .label = Averti min antaŭ ol fini la retumilon.
 disable-extension =
     .label = Malaktivigi etendaĵon
+preferences-data-migration-header = Enporti retumilajn datumojn
 tabs-group-header = Langetoj
 ctrl-tab-recently-used-order =
     .label = Stir+Tabo rondiras inter langetoj ordigitaj laŭ ĵuseco
@@ -966,6 +967,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Administri esceptojn…
     .accesskey = e
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 

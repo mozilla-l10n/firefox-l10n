@@ -285,6 +285,8 @@ webgl2-renderer = Pelilo de la videbligo WebGL2
 webgl2-version = WebGL 2 GL versio
 webgl2-driver-extensions = Etendaĵoj de pelilo WebGL 2
 webgl2-extensions = WebGL 2 GL etendaĵoj
+webgpu-default-adapter = Norma adaptilo de WebGPU
+webgpu-fallback-adapter = Alternativa adaptilo de WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blokita pro konataj problemoj: <a data-l10n-name="bug-link">eraro{ $bugNumber }</a>

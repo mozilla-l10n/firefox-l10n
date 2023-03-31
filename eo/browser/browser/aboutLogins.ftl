@@ -44,6 +44,14 @@ login-list-count =
         [one] unu legitimilo
        *[other] { $count } legitimiloj
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } el { $total } legitimilo
+       *[other] { $count } el { $total } legitimiloj
+    }
 login-list-sort-label-text = Ordigi laŭ:
 login-list-name-option = Nomo (A-Z)
 login-list-name-reverse-option = Nomo (A-Z)

@@ -80,10 +80,10 @@ dnsNotFound-title = Hmm, ni ne sukcesas trovi tiun retejon.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Ebla sekureca risko por { $hostname }.
 # Variables:
-dns-not-found-trr-only-title2 = Ebla sekureca risko dum serĉo de tiu ĉi nomregno
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Ebla sekureca risko por { $hostname }.
+dns-not-found-trr-only-title2 = Ebla sekureca risko dum serĉo de tiu ĉi nomregno
+dns-not-found-native-fallback-title2 = Ebla sekureca risko dum serĉo de tiu ĉi nomregno
 fileNotFound-title = Dosiero ne trovita
 fileAccessDenied-title = Rifuzita aliro al dosiero
 generic-title = Fuŝ’.
