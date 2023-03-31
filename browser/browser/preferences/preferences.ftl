@@ -974,6 +974,9 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Cookie баннерлерін азайту
+cookie-banner-learn-more = Көбірек білу
+forms-handle-cookie-banners =
+    .label = Cookie баннерлерін азайту
 
 ## Privacy Section - Address Bar
 

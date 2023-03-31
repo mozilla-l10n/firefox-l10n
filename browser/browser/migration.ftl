@@ -68,6 +68,8 @@ import-items-description = Импортталатын объектілерді �
 import-permissions-page-title = { -brand-short-name } үшін рұқсаттарды беріңіз
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS сізден Safari бетбелгілеріне қатынау мақсатында { -brand-short-name } үшін рұқсат беруді талап етеді. "Жалғастыру" басып, шыққан Фвйлды ашу панелінде "Bookmarks.plist" файлын таңдаңыз.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS сізден Safari деректеріне қатынау мақсатында { -brand-short-name } үшін рұқсат беруді талап етеді. "Жалғастыру" басып, шыққан Finder сұхбатында "Safari" бумасын таңдаңыз және "Ашу" басыңыз.
 import-migrating-page-title = Импорт жүріп жатыр…
 import-migrating-description = Қазір келесі объектілер импортталуда…
 import-select-profile-page-title = Профильді таңдау
