@@ -665,6 +665,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Ŝalti/malŝalti inkrustitan videon
 
 ## Full Screen and Pointer Lock UI
 
@@ -811,6 +813,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Sendi ligilon retpoŝte
     .tooltiptext = Retpoŝte sendi ligilon al tiu ĉi paĝo
+toolbar-button-logins =
+    .label = Pasvortoj
+    .tooltiptext = Vidi kaj administri viajn konservitajn pasvortojn
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
