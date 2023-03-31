@@ -53,6 +53,9 @@ monitor-breaches-tooltip =
     .title = ເບິ່ງການລະເມີດຂໍ້ມູນໃນ { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = ເບິ່ງລະຫັດຜ່ານທີ່ເປີດເຜີຍໃນ { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-title-middle = ຮັກສາມັນໄວ້!
+monitor-partial-breaches-motivation-title-end = ເກືອບແລ້ວ! ຮັກສາມັນ.
+monitor-partial-breaches-motivation-description = ແກ້ໄຂການລະເມີດສ່ວນທີ່ເຫຼືອຂອງທ່ານໃນ { -monitor-brand-short-name }.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
