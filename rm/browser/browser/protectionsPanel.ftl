@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ina errur è capitada durant trametter il rapport. Emprova anc ina giada pli tard.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = È la website reparada? Trametta in rapport.
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Ulteriuras infurmaziuns davart la protecziun avanzada cunter il fastizar
-
 protections-panel-etp-on-header = La protecziun avanzada cunter il fastizar è ACTIVADA per questa website
 protections-panel-etp-off-header = La protecziun avanzada cunter il fastizar è DEACTIVADA per questa website
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Na funcziunescha la site betg?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Na funcziunescha la site betg?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Chargià tut ils fastizader
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name } n'ha chattà nagins fastizaders enconuschents sin questa pagina.
-
 protections-panel-content-blocking-tracking-protection = Cuntegn che fastizescha
-
 protections-panel-content-blocking-socialblock = Fastizaders da medias socialas
 protections-panel-content-blocking-cryptominers-label = Criptominiers
 protections-panel-content-blocking-fingerprinters-label = Fingerprinters
@@ -63,7 +57,6 @@ protections-panel-not-found-label = Chattà nagin
 ##
 
 protections-panel-settings-label = Parameters da protecziun
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Survista da las protecziuns
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -71,14 +64,12 @@ protections-panel-protectionsdashboard-label = Survista da las protecziuns
 
 # The header of the list
 protections-panel-site-not-working-view-header = Deactivescha las protecziuns sch'i dat problems cun:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Champs d'annunzia
 protections-panel-site-not-working-view-issue-list-forms = Formulars
 protections-panel-site-not-working-view-issue-list-payments = Pajaments
 protections-panel-site-not-working-view-issue-list-comments = Commentaris
 protections-panel-site-not-working-view-issue-list-videos = Videos
-
 protections-panel-site-not-working-view-send-report = Trametter in rapport
 
 ##
@@ -88,16 +79,13 @@ protections-panel-cryptominers = Criptominiers maldovran las resursas da tes sis
 protections-panel-fingerprinters = Improntaders rimnan parameters da tes navigatur e computer per crear in profil da tai. Cun utilisar questa impronta dal det digitala pon els suandar tes fastiz tranter ina website e la proxima.
 protections-panel-tracking-content = Websites pon chargiar reclamas, videos ed auter cuntegn extern che cuntegna code che fastizescha. Cun bloccar quest cuntegn che fastizescha chargian websites eventualmain pli svelt, ma tscherts buttuns, formulars e champs d'annunzia na funcziunan eventualmain betg.
 protections-panel-social-media-trackers = Raits socialas plazzeschan fastizaders sin autras websites per observar tge che ti fas, vesas e guardas online. Quai lubescha als concerns da medias socialas dad intervegnir chaussas davart tai che surpassan quai che ti cundividas sin tes profils da medias socialas.
-
 protections-panel-description-shim-allowed = Tscherts fastizaders inditgads sutvart èn vegnids debloccads parzialmain sin questa pagina perquai che ti has interagì cun els.
 protections-panel-description-shim-allowed-learn-more = Ulteriuras infurmaziuns
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Fastizader debloccà parzialmain
-
 protections-panel-content-blocking-manage-settings =
     .label = Administrar ils parameters da protecziun
     .accesskey = A
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Annunziar problems cun questa site
 protections-panel-content-blocking-breakage-report-view-description = La bloccada da cuntegn po chaschunar problems cun tschertas websites. L'annunzia da problems gida a meglierar { -brand-short-name } per tuts. Quest rapport vegn tramess a Mozilla ed includa in URL, sco era infurmaziuns davart la configuraziun da tes navigatur. <label data-l10n-name="learn-more">Ulteriuras infurmaziuns</label>
@@ -111,3 +99,23 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Interrumper
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Trametter l'annunzia
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Reducziun da bandieras da cookies
+protections-panel-cookie-banner-handling-enabled = Activà per questa website
+protections-panel-cookie-banner-handling-disabled = Deactivà per questa website
+protections-panel-cookie-banner-handling-undetected = Questa website na vegn actualmain betg sustegnida
+protections-panel-cookie-banner-view-title =
+    .title = Reducziun da bandieras da cookies
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Enavos
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Deactivar la reducziun da bandieras da cookies per { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Activar la reducziun da bandieras da cookies per questa website?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vegn a stizzar ils cookies da questa website ed actualisar la pagina. L'eliminaziun da tut ils cookies po ta deconnectar u svidar eventuals chanasters da cumpra.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } emprova da refusar automaticamain tut las dumondas da deponer cookies da websites sustegnidas.
+protections-panel-cookie-banner-view-cancel = Interrumper
+protections-panel-cookie-banner-view-turn-off = Deactivar
+protections-panel-cookie-banner-view-turn-on = Activar

@@ -13,6 +13,14 @@
 onboarding-welcome-header = Bainvegni a { -brand-short-name }
 onboarding-start-browsing-button-label = Cumenzar a navigar
 onboarding-not-now-button-label = Betg ussa
+mr1-onboarding-get-started-primary-button-label = Cumenzar
+mr1-onboarding-welcome-header = Bainvegni en { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Definir { -brand-short-name } sco mes navigatur principal
+    .title = Definescha { -brand-short-name } sco navigatur da standard ed al fixeschan en la taskbar
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Definir { -brand-short-name } sco mes navigatur da standard
+mr1-onboarding-set-default-secondary-button-label = Betg ussa
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,8 +53,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Progress: pass { $current } da { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progress: pass { $current } da { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -84,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Cumenzar
-mr1-onboarding-welcome-header = Bainvegni en { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Definir { -brand-short-name } sco mes navigatur principal
-    .title = Definescha { -brand-short-name } sco navigatur da standard ed al fixeschan en la taskbar
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Definir { -brand-short-name } sco mes navigatur da standard
-mr1-onboarding-set-default-secondary-button-label = Betg ussa
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = S'annunziar
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -267,6 +264,15 @@ fx100-upgrade-thank-you-body = Quai è nossa 100avla versiun da { -brand-short-n
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Quai è nossa 100avla versiun! Grazia per esser part da nossa communitad. Guarda che ti cuntanschas { -brand-short-name } era per las proximas 100 cun mo in clic.
 mr2022-onboarding-secondary-skip-button-label = Sursiglir quest pass
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Memorisar e cuntinuar
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Definir { -brand-short-name } sco navigatur da standard
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importar dad in navigatur existent
 
 ## MR2022 New User Pin Firefox screen strings
 
