@@ -69,4 +69,8 @@ about-glean-label-for-controls-submit =
     Shtypni butonin paraprijës që të etiketohen krejt pingjet { -glean-brand-name } me etiketën tuaj dhe të parashtrohet pingu i përzgjedhur.
     (Krejt pingjet e parashtruar prej atëherë e deri sa të rinisni aplikacionin do të etiketohen me
     <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    Për pingje me etiketat tuaja <a data-l10n-name="gdpv-tagged-pings-link">vizitoni faqen { glean-debug-ping-viewer-brand-name }</a>.
+    S’do të duheshin më shumë se pak sekonda nga shtypja e butonit deri sa të arrijnë pingjet tuaj.
+    Ndonjëherë mund të duhen ndopak minuta.
 controls-button-label-verbose = Apliko rregullimet dhe parashtro një ping
