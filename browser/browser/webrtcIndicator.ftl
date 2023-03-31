@@ -151,7 +151,7 @@ webrtc-allow-share-microphone = Ĉu permesi al { $origin } uzi vian mikrofonon?
 webrtc-allow-share-screen = Ĉu permesi al { $origin } vidi vian ekranon?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker = Ĉu permesi al { $origin } uzi aliajn laŭtparolilojn?
+webrtc-allow-share-speaker = Ĉu permesi al { $origin } uzi aliajn soneligilojn?
 webrtc-allow-share-camera-and-microphone = Ĉu permesi al { $origin } uzi vian filmilon kaj mikrofonon?
 webrtc-allow-share-camera-and-audio-capture = Ĉu permesi al { $origin } uzi vian filmilon kaj aŭskulti la sonon de tiu ĉi langeto?
 webrtc-allow-share-screen-and-microphone = Ĉu permesi al { $origin } uzi vian mikrofonon kaj vidi vian ekranon?
@@ -163,12 +163,11 @@ webrtc-allow-share-screen-and-audio-capture = Ĉu permesi al { $origin } aŭskul
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aŭskulti la sonon de tiu ĉi langeto?
 webrtc-allow-share-camera-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian filmilon?
-webrtc-allow-share-microphone-unsafe-delegations = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian mikrofonon?
 webrtc-allow-share-microphone-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian mikrofonon?
 webrtc-allow-share-screen-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } vidi vian ekranon?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri aliajn laŭtparolilojn?
+webrtc-allow-share-speaker-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri aliajn soneligilojn?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian filmilon kaj vian mikrofonon?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian filmilon kaj aŭskulti la sonon de tiu ĉi langeto?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian mikrofonon kaj vidi vian ekranon?

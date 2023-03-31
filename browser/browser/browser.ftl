@@ -126,7 +126,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
-    .tooltiptext = Administri dividon de viaj aliaj laŭtparoliloj kun la retejo
+    .tooltiptext = Administri dividon de viaj aliaj soneligiloj kun la retejo
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Malfermi panelon de aŭtomata ludado
 urlbar-persistent-storage-notification-anchor =
@@ -496,7 +496,7 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = Mikrofono
 popup-select-speaker-icon =
-    .tooltiptext = Laŭtparoliloj
+    .tooltiptext = Soneligiloj
 popup-select-window-or-screen =
     .label = Fenestro aŭ ekrano:
     .accesskey = F

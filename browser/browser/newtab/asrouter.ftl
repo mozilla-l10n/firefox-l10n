@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } uzantoj
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Kuketaj anoncoj, for!
-cfr-cookie-banner-handling-body = Permesi al { -brand-short-name } aŭtomate rifuzi ĉiujn kukektajn anoncajn petojn, se tio eblas. Se ne, ĉiuj kuketoj estos akceptitaj por ignori eĉ pli da anoncoj.
-cfr-cookie-banner-accept-button = Ignori petojn
-    .accesskey = I
-cfr-cookie-banner-reject-button = Ne nun
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Vidi malpli da kuketaj ŝprucaĵoj
-cfr-cookie-banner-handling-body-variant-1 = Permesi al { -brand-short-name } aŭtomate respondi por vi kuketajn ŝprucaĵojn, tiel ke vi povas sendistre plu retumi. { -brand-short-name } rifuzos ĉiujn petojn, se tio eblas, se ne ĝi akceptos ĉiujn.
-cfr-cookie-banner-accept-button-variant-1 = Ignori ŝprucaĵojn
-    .accesskey = I
-cfr-cookie-banner-reject-button-variant-1 = Ne, dankon
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Redukto de kuketaj anoncoj
-cfr-cookie-banner-handling-body-variant-2 = Ĉu permesi al { -brand-short-name } rifuzi la kuketan konsenton de retejo, se tio eblas, aŭ akcepti kuketojn se tio ne eblas?
-cfr-cookie-banner-accept-button-variant-2 = Permesi
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Ne nun
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Spegulu viajn legosignojn ĉie.
@@ -265,9 +242,20 @@ cfr-cookiebanner-accept-button-variant-2 = Permesi
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Ne nun
     .accesskey = N
+cfr-cbh-header = Ĉu permesi al { -brand-short-name } rifuzi kuketajn anoncojn?
+cfr-cbh-body = { -brand-short-name } povas aŭtomate rifuzi plurajn petojn de kuketaj anoncoj.
+cfr-cbh-confirm-button = Rifuzi kuketajn anoncojn
+    .accesskey = R
+cfr-cbh-dismiss-button = Ne nun
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ni protektas vin
 july-jam-body = Ĉiumonate { -brand-short-name } blokas mezume po 3,000+ spurilojn por ĉiu uzanto, proponante al vi sekuran kaj rapidan aliron al la bona interreto.
 july-jam-set-default-primary = Malfermi miajn ligilojn per { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Viaj dosieroj PDFs malfermiĝas en { -brand-short-name }.</strong> Redakti aŭ subskribi formularojn rekte el via retesplorilo. Por ŝanĝi tion, serĉu “PDF” en la agordoj.
+set-default-pdf-handler-primary = Mi komprenis
