@@ -29,4 +29,44 @@ about-glean-interface-description =
 about-glean-upload-enabled = Ngarkimi i të dhënave është aktivizuar.
 about-glean-upload-disabled = Ngarkimi i të dhënave është çaktivizuar.
 about-glean-upload-enabled-local = Ngarkimi i të dhënave është aktivizuar vetëm për dërgim te një shërbyes vendor.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">Në parapëlqime dhe përkufizime</a> me vlerë përfshihen:
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = Mbi Testimin
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Udhëzimet e plotë dokumentohen te
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentim testimi instrumentimi</a>
+    dhe te <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentimi</a>,
+    por, për t’i rënë shkurt, që të testoni dorazi se instrumentimi juaj funksionon, duhet:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (mos parashtro ndonjë ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Në fushën para kësaj garantoni se ka një etiketë diagnostikimi që mund të mbahet mend, që të mund të dalloni ping-et tuaja më vonë.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Opsionale. I vini shenjë kutizës paraprijëse, nëse doni që edhe të regjistrohen pingjet, kur parashtrohen.
+    Do t’ju duhet edhe të <a data-l10n-name="enable-logging-link">aktivizoni regjistrimin</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Shtypni butonin paraprijës që të etiketohen krejt pingjet { -glean-brand-name } me etiketën tuaj dhe të parashtrohet pingu i përzgjedhur.
+    (Krejt pingjet e parashtruar prej atëherë e deri sa të rinisni aplikacionin do të etiketohen me
+    <code>{ $debug-tag }</code>.)
 controls-button-label-verbose = Apliko rregullimet dhe parashtro një ping
