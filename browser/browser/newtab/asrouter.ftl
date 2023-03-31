@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utilisaders
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Adia a las bandieras da cookies!
-cfr-cookie-banner-handling-body = Permetter a { -brand-short-name } da refusar automaticamain tut las dumondas da bandieras da cookies, sche pussaivel. Sch'i na va betg, lura vegnan tut ils cookies acceptads per reducir il dumber da bandieras mussadas.
-cfr-cookie-banner-accept-button = Refusar las dumondas
-    .accesskey = R
-cfr-cookie-banner-reject-button = Betg ussa
-    .accesskey = B
-cfr-cookie-banner-handling-header-variant-1 = Mussar damain pop-ups da cookies
-cfr-cookie-banner-handling-body-variant-1 = Lubescha a { -brand-short-name } da respunder automaticamain pop-ups da cookies per tai. Uschia pos ti puspè navigar senza distracziun. { -brand-short-name } vegn a refusar sche pussaivel tut las dumondas, u acceptar tuttas sch'i na va betg auter.
-cfr-cookie-banner-accept-button-variant-1 = Bandischar ils pop-ups
-    .accesskey = B
-cfr-cookie-banner-reject-button-variant-1 = Na, grazia
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Reducziun da bandieras da cookies
-cfr-cookie-banner-handling-body-variant-2 = Permetter a { -brand-short-name } da refusar sche pussaivel la dumonda da consentiment areguard il diever da cookies dad ina website u acceptar ils cookies sch'i na va betg auter?
-cfr-cookie-banner-accept-button-variant-2 = Permetter
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Betg ussa
-    .accesskey = B
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronisescha tes segnapaginas dapertut.
@@ -252,8 +229,8 @@ colorways-cfr-header-today = La cumbinaziun da colurs «vuschs independentas» s
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Adia a las bandieras da cookies!
 cfr-cookiebanner-body = Permetter a { -brand-short-name } da refusar automaticamain tut las dumondas da bandieras da cookies, sche pussaivel.
-cfr-cookiebanner-accept-button = Serrar las bandieras
-    .accesskey = d
+cfr-cookiebanner-accept-button-v2 = Refusar las dumondas
+    .accesskey = R
 cfr-cookiebanner-reject-button = Betg ussa
     .accesskey = B
 cfr-cookiebanner-header-variant-1 = Mussar damain pop-ups da cookies
@@ -268,9 +245,20 @@ cfr-cookiebanner-accept-button-variant-2 = Permetter
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Betg ussa
     .accesskey = B
+cfr-cbh-header = Permetter a { -brand-short-name } da refusar bandieras da cookies?
+cfr-cbh-body = { -brand-short-name } po refusar automaticamain bleras dumondas da bandieras da cookies.
+cfr-cbh-confirm-button = Refusar las bandieras da cookies
+    .accesskey = R
+cfr-cbh-dismiss-button = Betg ussa
+    .accesskey = B
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Nus defendain tai
 july-jam-body = Mintga mais blochescha { -brand-short-name } en media passa 3'000 fastizaders per utilisader. Uschia vegns ti svelt e segir en l'internet.
 july-jam-set-default-primary = Avrir mias colliaziuns cun { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Tes PDFs s'avran ussa en { -brand-short-name }.</strong> Modifitgescha u suttascriva formulars directamain en tes navigatur. Per midar quest cumportament, tschertgar «PDF» en ils parameters.
+set-default-pdf-handler-primary = Jau hai chapì

@@ -665,6 +665,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Activar/deactivar maletg-en-maletg
 
 ## Full Screen and Pointer Lock UI
 
@@ -811,6 +813,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Trametter la colliaziun via e-mail
     .tooltiptext = Trametter la colliaziun via e-mail
+toolbar-button-logins =
+    .label = Pleds-clav
+    .tooltiptext = Consultar ed administrar tes pleds-clav memorisads
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

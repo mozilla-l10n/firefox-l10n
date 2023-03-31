@@ -68,6 +68,8 @@ import-items-description = Tscherna per plaschair las datas che duain vegnir imp
 import-permissions-page-title = Dà p.pl. ils dretgs a { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS pretenda che ti permettias explicit a { -brand-short-name } dad acceder als segnapaginas da Safari. Clicca sin «Cuntinuar» e tscherna la datoteca «Bookmarks.plist» en il dialog per avrir ina datoteca che cumpara.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS pretenda che ti permettias explicitamain a { -brand-short-name } dad acceder a las datas da Safari. Clicca sin «Cuntinuar», tscherna l'odinatur «Safari» en il dialog dal Finder che cumpara e clicca lura sin «Avrir».
 import-migrating-page-title = Importar…
 import-migrating-description = Las suandantas datas vegnan importadas actualmain:
 import-select-profile-page-title = Tscherner in profil

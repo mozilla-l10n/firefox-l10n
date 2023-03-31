@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Endatescha per plaschair in num da host valid
 permissions-exceptions-etp-window =
     .title = Excepziuns per la protecziun avanzada cunter il fastizar
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ti has deactivà las protecziuns sin questas websites.
 permissions-exceptions-etp-window2 =
     .title = Excepziuns per la protecziun avanzada cunter il fastizar
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Ti has deactivà las protecziuns sin questas websites.
 permissions-exceptions-manage-etp-desc = Ti pos inditgar las websites per las qualas la protecziun avanzada cunter fastizaders vegn deactivada. Endatescha l'adressa exacta da la website che ti vuls administrar e clicca lura sin «Agiuntar ina excepziun».
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Las suandantas paginas han dumandà l'access 
 permissions-site-microphone-disable-label =
     .label = Bloccar novas dumondas d'access a tes microfon
 permissions-site-microphone-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair acceder a tes microfon. Cun bloccar l'access a tes microfon vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Parameters – autorisaziuns per ils autpledaders
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Las suandantas websites dumondan la permissiun da pudair tscherner in apparat da sortida per tun. Ti pos specifitgar las websites che dastgan tscherner in apparat da sortida per tun.

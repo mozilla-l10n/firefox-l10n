@@ -131,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = Avisar avant che terminar il navigatur
 disable-extension =
     .label = Deactivar l'extensiun
+preferences-data-migration-header = Importar datas dad in navigatur
+preferences-data-migration-description = Importar segnapaginas, pleds-clav, la cronologia e datas per l'endataziun automatica en { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Importar datas
+    .accesskey = m
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab siglia dad in tab a l'auter en la successiun da l'ultima utilisaziun
@@ -967,6 +972,14 @@ sitedata-cookies-exceptions =
     .label = Administrar las excepziuns…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reducziun da bandieras da cookies
+cookie-banner-handling-description = { -brand-short-name } emprova da refusar automaticamain dumondas da deponer cookies da bandieras da cookie sin websites cumpatiblas.
+cookie-banner-learn-more = Ulteriuras infurmaziuns
+forms-handle-cookie-banners =
+    .label = Reducir las bandieras da cookies
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Trav d'adressas
@@ -1108,6 +1121,11 @@ permissions-microphone = Microfon
 permissions-microphone-settings =
     .label = Parameters…
     .accesskey = m
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Tscherna da l'autpledader
+permissions-speaker-settings =
+    .label = Parameters…
+    .accesskey = t
 permissions-notification = Communicaziuns
 permissions-notification-settings =
     .label = Parameters…
