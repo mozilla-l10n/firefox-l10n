@@ -1120,7 +1120,7 @@ permissions-microphone-settings =
     .label = Agordoj…
     .accesskey = A
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = Elekto de laŭtparoliloj
+permissions-speaker = Elekto de soneligiloj
 permissions-speaker-settings =
     .label = Agordoj…
     .accesskey = A
