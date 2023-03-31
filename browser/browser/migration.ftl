@@ -68,6 +68,8 @@ import-items-description = Elekti elementojn importotajn:
 import-permissions-page-title = Bonvolu doni permesojn al { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS postulas ke vi eksplicite permesu al { -brand-short-name } aliri la legosignojn de Safari. Alklaku "Daŭrigi" kaj elektu la dosieron "Bookmarks.plist" en la aperota dosiermalferma panelo.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS postulas ke vi eksplicite permesu al { -brand-short-name } aliri la datumojn de Safari. Alklaku “Daŭrigi”, elektu la dosierujon de “Safari” en la dialogo de “Finder” kiu aperas kaj poste alklaku “Malfermi”.
 import-migrating-page-title = Enporto…
 import-migrating-description = La jenaj elementoj estas nuntempe importataj…
 import-select-profile-page-title = Elekti profilon

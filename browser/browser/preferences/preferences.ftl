@@ -132,6 +132,10 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Malaktivigi etendaĵon
 preferences-data-migration-header = Enporti retumilajn datumojn
+preferences-data-migration-description = Enporti legosignojn, pasvortojn, historion kaj aŭtomate plenigaj datumojn en { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Enporti datumojn
+    .accesskey = E
 tabs-group-header = Langetoj
 ctrl-tab-recently-used-order =
     .label = Stir+Tabo rondiras inter langetoj ordigitaj laŭ ĵuseco
@@ -970,6 +974,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Redukto de kuketaj anoncoj
+cookie-banner-handling-description = { -brand-short-name } klopodas aŭtomate rifuzi ĉiujn kuketajn petojn en kuketaj anoncoj, en subtenataj retejoj.
+cookie-banner-learn-more = Pli da informo
+forms-handle-cookie-banners =
+    .label = Redukti kuketajn anoncojn
 
 ## Privacy Section - Address Bar
 
@@ -1108,6 +1117,11 @@ permissions-camera-settings =
     .accesskey = A
 permissions-microphone = Mikrofono
 permissions-microphone-settings =
+    .label = Agordoj…
+    .accesskey = A
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Elekto de laŭtparoliloj
+permissions-speaker-settings =
     .label = Agordoj…
     .accesskey = A
 permissions-notification = Sciigoj
