@@ -15,6 +15,10 @@ date-picker-label =
 date-spinner-label =
     .aria-label = Tscherner in mais ed in onn
 
+## Text of the clear button
+
+date-picker-clear-button = Stizzar
+
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 

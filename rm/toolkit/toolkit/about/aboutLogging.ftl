@@ -23,7 +23,6 @@
 about-logging-title = Davart la protocollaziun
 about-logging-page-title = Administraziun da protocollaziun
 about-logging-current-log-file = Datoteca da protocol actuala:
-about-logging-current-log-modules = Moduls da protocol actuals:
 about-logging-new-log-file = Nova datoteca da protocollaziun:
 about-logging-currently-enabled-log-modules = Moduls da protocollaziun actualmain activads:
 about-logging-log-tutorial = Legia l'artitgel <a data-l10n-name="logging">HTTP Logging</a> per instrucziuns davart l'utilisaziun da quest utensil.
@@ -61,3 +60,9 @@ about-logging-error = Errur:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Valur nunvalida «{ $v }» per la clav «{ $k }»
+about-logging-unknown-logging-preset = Preselecziun da protocollaziun «{ $v }» nunenconuschenta
+about-logging-unknown-profiler-preset = Preselecziun da profiler «{ $v }» nunenconuschenta
+about-logging-unknown-option = Opziun about:logging «{ $k }» nunenconuschenta
+about-logging-configuration-url-ignored = Ignorà l'URL da configuraziun
+about-logging-file-and-profiler-override = Impussibel da sfurzar da scriver ina datoteca e remplazzar il medem mument las opziuns dal profiler
+about-logging-configured-via-url = Opziun configurada via URL
