@@ -27,6 +27,7 @@ neterror-try-again-button = Klopodi denove
 neterror-add-exception-button = Ĉiam daŭrigi por tiu ĉi retejo
 neterror-settings-button = Ŝanĝi agordojn de DNS
 neterror-view-certificate-link = Vidi atestilon
+neterror-trr-continue-this-time = Daŭrigi, ĉi foje
 neterror-disable-native-feedback-warning = Ĉiam daŭrigi
 
 ##
@@ -72,6 +73,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne povas p
 neterror-dns-not-found-native-fallback-attackers = Vi povas daŭrigi per serĉilo DNS kiu ne estas sekura. Tamen, iu alia povas vidi, kiujn retejoj vi vizitas, aŭ redirekti vin al nefidata retejo.
 neterror-dns-not-found-native-fallback-heuristic = DNS per HTTPS estis malaktivigita en via reto.
 neterror-dns-not-found-native-fallback-not-confirmed = La konekto al { $trrDomain } ankoraŭ ne pretas.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ne povis konektiĝi al { $trrDomain }.
 
 ##
 
