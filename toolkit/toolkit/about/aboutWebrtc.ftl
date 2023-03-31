@@ -130,6 +130,12 @@ about-webrtc-local-receive-ssrc = SSRC Vendore Marrëse
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = SSRC Vendore Dërguese
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+about-webrtc-pc-configuration-show-msg = Shfaq Formësimin
+about-webrtc-pc-configuration-hide-msg = Fshihe Formësimin
+
 ##
 
 # An option whose value will not be displayed but instead noted as having been
@@ -228,6 +234,11 @@ about-webrtc-sdp-set-at-timestamp-remote = Ujdis SDP e Largët sipas vulës koho
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Vulë kohore { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+about-webrtc-show-msg-sdp = Shfaq SDP
+about-webrtc-hide-msg-sdp = Fshih SDP
 
 ##
 
