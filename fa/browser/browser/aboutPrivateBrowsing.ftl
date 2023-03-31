@@ -28,7 +28,7 @@ about-private-browsing-hide-activity-1 = فعالیت مرور و مکان خو�
 about-private-browsing-prominent-cta = با { -mozilla-vpn-brand-name } ناشناس بمانید
 about-private-browsing-focus-promo-cta = بارگیری { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: مرور محرمانه در مسیر
-about-private-browsing-focus-promo-text = کارهٔ همراه مرور محرمانهٔ ویژه‌مان هر بار پیشینه و کلوچک‌هایتان را پاک می کند.
+about-private-browsing-focus-promo-text = کارهٔ همراه مرور محرمانهٔ ویژه‌مان هر بار پیشینه و کلوچک‌هایتان را پاک می‌کند.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 

@@ -97,7 +97,7 @@ security-view-privacy =
 security-view-privacy-history-value = آیا قبل از امروز از این پایگاه وب بازدید کرده‌ام؟
 security-view-privacy-sitedata-value = آیا این وب‌سایت اطلاعات خود را بر روی رایانهٔ من ذخیره می‌کند؟
 security-view-privacy-clearsitedata =
-    .label = پاک کردن کوکی‌ها و اطلاعات پایگاه‌ها
+    .label = پاک کردن کلوچک‌ها و داده‌های پایگاه
     .accesskey = C
 security-view-privacy-passwords-value = آیا برای این پایگاه وب گذرواژه‌ای ذخیره کرده‌ام؟
 security-view-privacy-viewpasswords =
@@ -114,9 +114,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = بله، کوکی‌ها و { $value } { $unit } از اطلاعات پایگاه
-security-site-data-only = بله، { $value }{ $unit } از اطلاعات پایگاه
-security-site-data-cookies-only = بله، کوکی‌ها
+security-site-data-cookies = بله، کلوچک‌ها و { $value } { $unit } از داده‌های پایگاه
+security-site-data-only = بله، { $value }{ $unit } از داده‌های پایگاه
+security-site-data-cookies-only = بله، کلوچک‌ها
 security-site-data-no = خیر
 
 ##
@@ -220,17 +220,17 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } کیلوبایت
+
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = بازداشتن تصاویر از ‪{ $website }‬
     .accesskey = ب
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = اطلاعات صفحه - { $website }
 page-info-frame =

@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = ویژگی پیشنهادی
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = چرا این را می‌بینم
-
 cfr-doorhanger-extension-cancel-button = اکنون نه
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = اکنون اضافه کن
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = مدیریت تنظیمات پیشنهادی
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = این پیشنهاد را به من نشان نده
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = بیشتر بدانید
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = توسط { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = توصیه
 cfr-doorhanger-extension-notification2 = توصیه
     .tooltiptext = افزونه‌های توصیه شده
     .a11y-announcement = افزونه‌های توصیه شده موجود
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = توصیه
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = بیشتر بدانید
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ویژگی‌های جدید:
-
 cfr-whatsnew-button =
     .label = تازه‌ها
     .tooltiptext = تازه‌ها
-
 cfr-whatsnew-release-notes-link-text = یادداشت‌های انتشار را بخوانید
 
 ## Enhanced Tracking Protection Milestones
@@ -158,15 +148,16 @@ spotlight-public-wifi-vpn-link = اکنون نه
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header =
     اولین نفری باشید که قوی‌ترین آزمایش
-    حریم‌خصوصی ما را تست می‌کند
-spotlight-total-cookie-protection-body = محافظت کامل در برابر کوکی‌ها مانع از استفاده ردیاب‌ها از کوکی‌ها برای تعقیب شما در وب می‌شود.
+    حریم‌خصوصی ما را تجربه می‌کند
+spotlight-total-cookie-protection-body = محافظت کامل در برابر کلوچک‌ها مانع از استفادهٔ ردیاب‌ها از کلوچک‌ها برای تعقیب شما در وب می‌شود.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } حصاری در اطراف کوکی‌ها ایجاد می‌کند و آنها را به سایتی که در آن هستید محدود می‌کند تا ردیاب‌ها نتوانند از آنها برای دنبال کردن شما استفاده کنند. با دسترسی زودهنگام، به بهینه‌سازی این ویژگی کمک خواهید کرد تا بتوانیم به ساختن یک وبِ بهتر برای همه ادامه دهیم.
-spotlight-total-cookie-protection-primary-button = روشن کردن محافظت کامل در برابر کوکی‌ها
+spotlight-total-cookie-protection-expanded = { -brand-short-name } حصاری در اطراف کلوچک‌ها ایجاد می‌کند و آن‌ها را به پایگاهی که در آن هستید محدود می‌کند تا ردیاب‌ها نتوانند از آن‌ها برای دنبال کردن شما استفاده کنند. با دسترسی زودهنگام، به بهینه‌سازی این ویژگی کمک خواهید کرد تا بتوانیم به ساختن یک وبِ بهتر برای همه ادامه دهیم.
+spotlight-total-cookie-protection-primary-button = روشن کردن محافظت کامل در برابر کلوچک‌ها
 spotlight-total-cookie-protection-secondary-button = اکنون نه
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -181,7 +172,21 @@ spotlight-total-cookie-protection-secondary-button = اکنون نه
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
 
+
 ## Firefox View Spotlight
+
+
+## Colorways expiry reminder CFR
+
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
