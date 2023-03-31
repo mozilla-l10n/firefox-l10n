@@ -131,6 +131,10 @@ startup-restore-warn-on-quit =
     .label = Lɣu ticki tettefɣeḍ seg iminig
 disable-extension =
     .label = Sens aseɣzif
+preferences-data-migration-header = Kter-d isefka seg yiminig
+preferences-data-migration-button =
+    .label = Kter isefka
+    .accesskey = t
 tabs-group-header = Iccaren
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yessezray-d accaren n umizzwer yettwasqedcen melmi kan
@@ -960,6 +964,13 @@ sitedata-cookies-exceptions =
     .label = Sefrek tisuraf…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Asenqes n yiɣarracen n yinagan n tuqqna
+cookie-banner-learn-more = Issin ugar
+forms-handle-cookie-banners =
+    .label = Senqes iɣarracen n yinagan n tuqqna
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Afeggag n tansa
@@ -1101,6 +1112,9 @@ permissions-microphone = Asawaḍ
 permissions-microphone-settings =
     .label = Iɣewwaṛen…
     .accesskey = x
+permissions-speaker-settings =
+    .label = Iɣewwaren…
+    .accesskey = ɣ
 permissions-notification = Ilγa
 permissions-notification-settings =
     .label = Iɣewwaṛen…
