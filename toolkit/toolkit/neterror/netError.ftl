@@ -37,11 +37,25 @@ neterror-load-error-try-again = ممکن است این پایگاه به طور 
 neterror-load-error-connection = اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه را بررسی کنید.
 neterror-load-error-firewall = اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که { -brand-short-name } اجازه دسترسی به وب را دارد.
 neterror-captive-portal = شما باستی در ابتدا وارد این شبکه شوید تا بتوانید به اینترنت دسترسی داشته باشید.
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+##
+
 neterror-file-not-found-filename = صحتِ نام پرونده را برای احتمال وجود غلط املایی بررسی کنید.
 neterror-file-not-found-moved = بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.
 neterror-access-denied = ممکن است حذف،‌ منتقل یا مجوز‌های پرونده از دسترسی به آن جلوگیری می‌کند.
 neterror-unknown-protocol = ممکن است نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی داشته باشید.
-neterror-redirect-loop = این مشکل گاهی ممکن است به دلیل غیر فعال کردن یا خودداری از قبول کوکی‌ها به وجود بیاید.
+neterror-redirect-loop = این مشکل گاهی ممکن است به دلیل از کار انداختن یا خودداری از قبول کلوچک‌ها به وجود بیاید.
 neterror-unknown-socket-type-psm-installed = مطمئن شوید که «مدیریت امنیت شخصی» روی رایانهٔ شما نصب شده باشد.
 neterror-unknown-socket-type-server-config = این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.
 neterror-not-cached-intro = پرونده درخواستی در حافظه { -brand-short-name } موجود نیست.
