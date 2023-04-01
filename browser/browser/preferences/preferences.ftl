@@ -841,17 +841,17 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = کوکی‌ها و اطلاعات وب سایت
+sitedata-header = کلوچک‌ها و داده‌های پایگاه
 sitedata-total-size-calculating = در حال محاسبهٔ اطلاعات پایگاه‌ها و اندازهٔ حافظهٔ نهان…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = کوکی‌ها، اطلاعات پایگاه‌ها و حافظهٔ نهانِ ذخیره شده در حال حاضر از { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
+sitedata-total-size = کلوچک‌ها، داده‌های پایگاه و حافظهٔ نهانِ ذخیره شده در حال حاضر از { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
 sitedata-learn-more = بیشتر بدانید
 sitedata-delete-on-close =
-    .label = پاک کردن کوکی‌ها و داده‌های سایت هنگام بستن { -brand-short-name }
+    .label = پاک کردن کلوچک‌ها و داده‌های پایگاه هنگام بستن { -brand-short-name }
     .accesskey = پ
-sitedata-delete-on-close-private-browsing = در حالتِ مرور ناشناسِ دائمی، پس از بستن { -brand-short-name }، کوکی‌ها و داده‌های سایت‌ها پاک می‌شوند.
+sitedata-delete-on-close-private-browsing = در حالتِ مرور ناشناسِ دائمی، پس از بستن { -brand-short-name }، کلوچک‌ها و داده‌های پایگاه پاک می‌شوند.
 sitedata-allow-cookies-option =
     .label = پذیرفتن کوکی‌ها و داده‌های سایت
     .accesskey = A

@@ -84,12 +84,12 @@ permissions-exceptions-etp-window2 =
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = استثناها - کوکی‌ها و اطلاعات پایگاه‌ها
+    .title = استثناها - کلوچک‌ها و اطلاعات پایگاه
     .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
-    .title = استثناها - کوکی‌ها و اطلاعات پایگاه‌ها
+    .title = استثناها - کلوچک‌ها و داده‌های پایگاه
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = می‌توانید تعیین که چه پایگاه‌هایی می‌توانند همیشه یا هرگز دسترسی به کوکی‌ها و اطلاعات پایگاه‌ها داشته باشند. آدرس دقیق سایتی که می‌خواهید مدیریت کنید را وارد کنید و سپس بر روی «مسدود کردن»، «اجازه دادن در این نشست»، یا «اجازه دادن» کلیک کنید.
+permissions-exceptions-cookie-desc = می‌توانید تعیین که چه پایگاه‌هایی می‌توانند همیشه یا هرگز دسترسی به کلوچک‌ها و داده‌های پایگاه داشته باشند. نشانی دقیق پایگاهی که می‌خواهید مدیریت کنید را وارد کنید و سپس بر روی «مسدود کردن»، «اجازه دادن در این نشست»، یا «اجازه دادن» کلیک کنید.
 
 ## Exceptions - HTTPS-Only Mode
 
