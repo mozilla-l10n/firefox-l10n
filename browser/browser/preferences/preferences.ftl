@@ -853,10 +853,10 @@ sitedata-delete-on-close =
     .accesskey = پ
 sitedata-delete-on-close-private-browsing = در حالتِ مرور ناشناسِ دائمی، پس از بستن { -brand-short-name }، کلوچک‌ها و داده‌های پایگاه پاک می‌شوند.
 sitedata-allow-cookies-option =
-    .label = پذیرفتن کوکی‌ها و داده‌های سایت
+    .label = پذیرفتن کلوچک‌ها و داده‌های پایگاه
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = مسدودسازی کوکی‌ها و داده‌های سایت
+    .label = مسدودسازی کلوچک‌ها و داده‌های پایگاه
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -865,15 +865,15 @@ sitedata-block-desc = الگوی مسدود شده
 sitedata-option-block-cross-site-trackers =
     .label = ردیاب‌های بین‌پایگاهی
 sitedata-option-block-cross-site-tracking-cookies =
-    .label = کوکی‌هایِ ردیابِ بین‌پایگاهی
+    .label = کلوچک‌های ردیابِ میان‌پایگاهی
 sitedata-option-block-cross-site-cookies =
-    .label = کوکی‌های ردیابِ بین‌پایگاهی، و ایزوله کردن سایر کوکی‌های بین‌پایگاهی
+    .label = کلوچک‌های ردیابِ میان‌پایگاهی، و قرنطینهٔ سایر کلوچک‌های میان‌پایگاهی
 sitedata-option-block-unvisited =
-    .label = کوکی‌ها از وب‌سایت‌های مشاهده نشده
+    .label = کلوچک‌ها از وبگاه‌های مشاهده نشده
 sitedata-option-block-all-third-party =
-    .label = تمام کوکی‌های متفرقه (ممکن است باعث از کار افتادن سایت‌ها شود)
+    .label = تمام کلوچک‌های متفرقه (ممکن است باعث از کار افتادن وبگاه‌ها شود)
 sitedata-option-block-all =
-    .label = تمام کوکی‌ها (باعث از کار افتادن وب‌سایت‌ها می‌شود)
+    .label = تمام کلوچک‌ها (باعث از کار افتادن وبگاه‌ها می‌شود)
 sitedata-clear =
     .label = پاک کردن اطلاعات…
     .accesskey = I
@@ -917,7 +917,7 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 content-blocking-enhanced-tracking-protection = محفاظت پیشرفته در برابر ردیابی
 content-blocking-section-top-level-description = ردیاب‌ها شما را بصورت آنلاین دنبال می‌کنند تا اطلاعاتی راجع به عادات و علایق مرور شما جمع‌آوری کنند. { -brand-short-name } بسیاری از این ردیاب‌ها و سایر اسکریپت‌های مخرب را مسدود می‌کند.
 content-blocking-learn-more = بیشتر بدانید
-content-blocking-fpi-incompatibility-warning = شما از First Party Isolation (FPI) استفاده می‌کنید که برخی از تنظیمات کوکی‌های { -brand-short-name } را نادیده می‌گیرد.
+content-blocking-fpi-incompatibility-warning = شما از قرنطینهٔ شخص اول (FPI) استفاده می‌کنید که برخی از تنظیمات کلوچک‌های { -brand-short-name } را نادیده می‌گیرد.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -940,9 +940,9 @@ content-blocking-etp-strict-desc = محافظتی قوی‌تر، اما ممک�
 content-blocking-etp-custom-desc = انتخاب کنید کدام ردیاب‌ها و اسکریپت‌ها مسدود شوند.
 content-blocking-etp-blocking-desc = { -brand-short-name } موارد زیر را مسدود می‌کند:
 content-blocking-private-windows = محتوای ردیابی در پنجره‌های ناشناس
-content-blocking-cross-site-cookies-in-all-windows = کوکی‌های بین‌پایگاهی در تمام پنجره‌ها (شامل کوکی‌های ردیاب)
-content-blocking-cross-site-tracking-cookies = کوکی‌هایِ ردیابِ بین‌پایگاهی
-content-blocking-all-cross-site-cookies-private-windows = کوکی‌های بین‌پایگاهی در پنجره‌های ناشناس
+content-blocking-cross-site-cookies-in-all-windows = کلوچک‌های میان‌پایگاهی در تمام پنجره‌ها (شامل کلوچک‌های ردیاب)
+content-blocking-cross-site-tracking-cookies = کلوچک‌های ردیابِ میان‌پایگاهی
+content-blocking-all-cross-site-cookies-private-windows = کلوچک‌های میان‌پایگاهی در پنجره‌های ناشناس
 content-blocking-cross-site-tracking-cookies-plus-isolate = کوکی‌های ردیابِ بین‌پایگاهی، و ایزوله کردن سایر کوکی‌ها
 content-blocking-social-media-trackers = ردیاب‌های شبکه‌های اجتماعی
 content-blocking-all-cookies = همه کوکی‌ها
