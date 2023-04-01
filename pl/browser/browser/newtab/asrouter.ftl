@@ -61,29 +61,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } użytkowników
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Koniec z komunikatami o ciasteczkach!
-cfr-cookie-banner-handling-body = Pozwól { -brand-short-name(case: "dat") } automatycznie odrzucać wszystkie prośby o akceptację ciasteczek, kiedy to możliwe. Jeśli nie, to wszystkie ciasteczka będą akceptowane, aby zamykać jeszcze więcej próśb.
-cfr-cookie-banner-accept-button = Odrzucaj prośby o akceptację ciasteczek
-    .accesskey = O
-cfr-cookie-banner-reject-button = Nie teraz
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Zmniejsz liczbę komunikatów o ciasteczkach
-cfr-cookie-banner-handling-body-variant-1 = Pozwól { -brand-short-name(case: "dat") } automatycznie odpowiadać na komunikaty o ciasteczkach, aby nie odrywać się od przeglądania. { -brand-short-name } odrzuci wszystkie prośby, jeśli to możliwe, lub zaakceptuje je, jeśli nie.
-cfr-cookie-banner-accept-button-variant-1 = Odrzucaj komunikaty o ciasteczkach
-    .accesskey = O
-cfr-cookie-banner-reject-button-variant-1 = Nie, dziękuję
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Ograniczanie informacji o ciasteczkach
-cfr-cookie-banner-handling-body-variant-2 = Czy pozwolić { -brand-short-name(case: "dat") } odrzucać prośby witryny o zgodę na ciasteczka, jeśli to możliwe, lub akceptować ciasteczka, kiedy się nie da?
-cfr-cookie-banner-accept-button-variant-2 = Pozwól
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Nie teraz
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizuj zakładki na każdym urządzeniu.
@@ -273,9 +250,16 @@ cfr-cookiebanner-accept-button-variant-2 = Pozwól
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Nie teraz
     .accesskey = N
+cfr-cbh-header = Pozwolić { -brand-short-name(case: "dat") } odrzucać prośby o akceptację ciasteczek?
+cfr-cbh-body = { -brand-short-name } może automatycznie odrzucać wiele próśb o akceptację ciasteczek.
+cfr-cbh-confirm-button = Odrzucaj komunikaty o ciasteczkach
+    .accesskey = O
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Możesz na nas liczyć
 july-jam-body = Każdego miesiąca { -brand-short-name } blokuje średnio ponad 3000 elementów śledzących na użytkownika, zapewniając bezpieczny i szybki dostęp do dobrego Internetu.
 july-jam-set-default-primary = Otwieraj odnośniki w { -brand-short-name(case: "loc") }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
