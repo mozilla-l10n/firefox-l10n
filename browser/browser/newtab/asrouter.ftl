@@ -122,8 +122,8 @@ cfr-doorhanger-fission-secondary-button = Więcej informacji
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Filmy na tej witrynie mogą nie być poprawnie odtwarzane w tej wersji przeglądarki { -brand-short-name }. Zaktualizuj ją, aby móc oglądać filmy.
-cfr-doorhanger-video-support-header = Zaktualizuj przeglądarkę { -brand-short-name }, aby odtwarzać filmy
+cfr-doorhanger-video-support-body = Filmy na tej witrynie mogą nie być poprawnie odtwarzane w tej wersji { -brand-short-name(case: "gen") }. Zaktualizuj go, aby móc oglądać filmy.
+cfr-doorhanger-video-support-header = Zaktualizuj { -brand-short-name(case: "acc") }, aby odtwarzać filmy
 cfr-doorhanger-video-support-primary-button = Aktualizuj teraz
     .accesskey = k
 
@@ -165,7 +165,7 @@ spotlight-total-cookie-protection-secondary-button = Nie teraz
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Lepszy Internet zaczyna się od Ciebie
-spotlight-better-internet-body = Kiedy używasz przeglądarki { -brand-short-name }, głosujesz na otwarty i dostępny Internet, który jest lepszy dla wszystkich.
+spotlight-better-internet-body = Kiedy używasz { -brand-short-name(case: "acc") }, głosujesz na otwarty i dostępny Internet, który jest lepszy dla wszystkich.
 spotlight-peace-mind-header = Możesz na nas liczyć
 spotlight-peace-mind-body = Każdego miesiąca { -brand-short-name } blokuje średnio ponad 3000 elementów śledzących na użytkownika. Ponieważ nic, zwłaszcza psujące prywatność elementy śledzące, nie powinno stać między Tobą a dobrym Internetem.
 spotlight-pin-primary-button =
@@ -189,7 +189,7 @@ spotlight-pin-secondary-button = Nie teraz
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = Nowy { -brand-short-name }. Bardziej prywatny. Mniej śledzenia. Bez wyjątków.
-mr2022-background-update-toast-text = Już teraz wypróbuj najnowszą przeglądarkę { -brand-short-name }, zaktualizowaną o naszą najsilniejszą ochronę przed śledzeniem w historii.
+mr2022-background-update-toast-text = Już teraz wypróbuj najnowszego { -brand-short-name(case: "acc") }, zaktualizowanego o naszą najsilniejszą ochronę przed śledzeniem w historii.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -252,8 +252,10 @@ cfr-cookiebanner-reject-button-variant-2 = Nie teraz
     .accesskey = N
 cfr-cbh-header = Pozwolić { -brand-short-name(case: "dat") } odrzucać prośby o akceptację ciasteczek?
 cfr-cbh-body = { -brand-short-name } może automatycznie odrzucać wiele próśb o akceptację ciasteczek.
-cfr-cbh-confirm-button = Odrzucaj komunikaty o ciasteczkach
+cfr-cbh-confirm-button = Odrzucaj prośby o akceptację ciasteczek
     .accesskey = O
+cfr-cbh-dismiss-button = Nie teraz
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -263,3 +265,5 @@ july-jam-set-default-primary = Otwieraj odnośniki w { -brand-short-name(case: 
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Dokumenty PDF są teraz otwierane w { -brand-short-name(case: "loc") }.</strong> Edytuj i podpisuj formularze bez wychodzenia z przeglądarki. Aby to zmienić, wyszukaj „PDF” w ustawieniach.
+set-default-pdf-handler-primary = OK
