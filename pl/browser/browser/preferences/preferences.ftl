@@ -131,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = Ostrzeganie przy zamykaniu przeglądarki
 disable-extension =
     .label = Wyłącz rozszerzenie
+preferences-data-migration-header = Importowanie danych z innych przeglądarek
+preferences-data-migration-description = Importuj zakładki, hasła, historię i dane automatycznego wypełniania do { -brand-short-name(case: "gen") }.
+preferences-data-migration-button =
+    .label = Importuj dane
+    .accesskey = m
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Przełączanie kart za pomocą Ctrl+Tab w kolejności ostatnich wyświetleń
@@ -971,6 +976,14 @@ sitedata-cookies-exceptions =
     .label = Wyjątki…
     .accesskey = W
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Ograniczanie informacji o ciasteczkach
+cookie-banner-handling-description = { -brand-short-name } automatycznie próbuje odrzucać prośby o akceptację ciasteczek na obsługiwanych witrynach.
+cookie-banner-learn-more = Więcej informacji
+forms-handle-cookie-banners =
+    .label = Ograniczanie informacji o ciasteczkach
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Pasek adresu
@@ -1110,6 +1123,11 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Ustawienia…
     .accesskey = w
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Wybór głośników
+permissions-speaker-settings =
+    .label = Ustawienia…
+    .accesskey = i
 permissions-notification = Powiadomienia.
 permissions-notification-settings =
     .label = Ustawienia…
