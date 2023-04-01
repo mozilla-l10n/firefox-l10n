@@ -943,12 +943,12 @@ content-blocking-private-windows = محتوای ردیابی در پنجره‌�
 content-blocking-cross-site-cookies-in-all-windows = کلوچک‌های میان‌پایگاهی در تمام پنجره‌ها (شامل کلوچک‌های ردیاب)
 content-blocking-cross-site-tracking-cookies = کلوچک‌های ردیابِ میان‌پایگاهی
 content-blocking-all-cross-site-cookies-private-windows = کلوچک‌های میان‌پایگاهی در پنجره‌های ناشناس
-content-blocking-cross-site-tracking-cookies-plus-isolate = کوکی‌های ردیابِ بین‌پایگاهی، و ایزوله کردن سایر کوکی‌ها
+content-blocking-cross-site-tracking-cookies-plus-isolate = کلوچک‌های ردیابِ میان‌پایگاهی، و ایزوله کردن سایر کلوچک‌ها
 content-blocking-social-media-trackers = ردیاب‌های شبکه‌های اجتماعی
-content-blocking-all-cookies = همه کوکی‌ها
-content-blocking-unvisited-cookies = کوکی‌های سایت‌های بازدید نشده
+content-blocking-all-cookies = تمام کلوچک‌ها
+content-blocking-unvisited-cookies = کلوچک‌های پایگاه‌های بازدید نشده
 content-blocking-all-windows-tracking-content = محتوای ردیابی در تمامی پنجره‌ها
-content-blocking-all-third-party-cookies = تمام کوکی‌های متفرقه
+content-blocking-all-third-party-cookies = تمام کلوچک‌های متفرقه
 content-blocking-cryptominers = استخراج کننده‌های رمزارزها
 content-blocking-fingerprinters = برداشت کنندگان اثر انگشت
 # "Test pilot" is used as a verb. Possible alternatives:
@@ -960,7 +960,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = حفاظت کامل از کوکی‌ها حاوی کوکی‌هایی برای سایتی است که در آن هستید، بنابراین ردیاب‌ها نمی‌توانند از آنها برای دنبال کردن شما بین سایت‌ها استفاده کنند.
+content-blocking-etp-standard-tcp-rollout-description = حفاظت کامل از کلوچک‌ها حاوی کلوچک‌هایی برای پایگاهی است که در آن هستید، بنابراین ردیاب‌ها نمی‌توانند از آن‌ها برای دنبال کردن شما بین پایگاه‌ها استفاده کنند.
 content-blocking-etp-standard-tcp-rollout-learn-more = اطلاعات بیشتر
 content-blocking-warning-title = هوشیار باشید!
 content-blocking-and-isolating-etp-warning-description-2 = این تنظیم ممکن است باعث شود بعضی از وب‌سایت‌ها محتوایی نمایش ندهند یا به درستی کار نکنند. اگر سایتی خراب به نظر می‌سد، ممکن است بخواهید محافظت از ردیابی آن سایت را خاموش کنید تا همه مطالب بارگیری شود.
@@ -980,7 +980,7 @@ content-blocking-option-private =
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = تغییر لیست مسدودی‌ها
 content-blocking-cookies-label =
-    .label = کوکی‌ها
+    .label = کلوچک‌ها
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = اطلاعات بیشتر
