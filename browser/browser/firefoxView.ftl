@@ -46,6 +46,7 @@ firefoxview-tabpickup-password-locked-header = برای مشاهدهٔ زبان�
 firefoxview-tabpickup-password-locked-description = برای گرفتن زبانه‌هایتان، باید گذرواژهٔ اصلی را برای { -brand-short-name } وارد کنید.
 firefoxview-tabpickup-password-locked-link = بیشتر بدانید
 firefoxview-tabpickup-password-locked-primarybutton = گذرواژهٔ اصلی را وارد کنید
+firefoxview-tabpickup-signed-out-primarybutton = ورود
 firefoxview-tabpickup-syncing = لطفاً تا اتمام همگام‌سازی زبانه‌هایتان منتظر بمانید. فقط اندکی طول می‌کشد.
 firefoxview-mobile-promo-header = زبانه‌ها را از تلفن همراه یا تبلت خود دریافت کنید
 firefoxview-mobile-promo-description = برای مشاهدهٔ جدیدترین زبانه‌های تلفن همراه خود، در iOS یا اندروید، به { -brand-product-name } وارد شوید.
@@ -54,7 +55,6 @@ firefoxview-mobile-confirmation-header = 🎉 آماده است!
 firefoxview-mobile-confirmation-description = اکنون می توانید زبانه‌های { -brand-product-name } خود را از تبلت یا تلفن همراه خود بگیرید.
 firefoxview-closed-tabs-title = اخیراً بسته شده
 firefoxview-closed-tabs-description2 = گشودن دوبارهٔ صفحاتی که در این پنجره بسته‌اید.
-firefoxview-closed-tabs-placeholder = <strong>هیچ صفحهٔ اخیراً بسته شده‌ای وجود ندارد</strong><br/> دیگر هرگز نگران از دست دادن دوبارهٔ یک زبانهٔ بسته شده نباشید. همیشه می‌توانید آن را در این‌جا بازیابی کنید.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = آخرین فعال
 # Variables:
@@ -62,13 +62,11 @@ firefoxview-pickup-tabs-badge = آخرین فعال
 firefoxview-tabs-list-tab-button =
     .title = گشودن { $targetURI } در یک زبانهٔ جدید
 firefoxview-try-colorways-button = رنگ‌بندی‌ها را بیازمایید
-firefoxview-no-current-colorway-collection = رنگ‌بندی‌های جدید در راهند
 firefoxview-change-colorway-button = تغییر رنگ‌بندی
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>هنوز چیزی برای دیدن وجود ندارد</strong><br/>دفعهٔ بعد که صفحه‌ای را در { -brand-product-name } در دستگاه دیگری گشودید، آن را با جادویی سحرآمیز در این‌جا بگیرید.
 firefoxview-collapse-button-show =
     .title = نمایش فهرست
 firefoxview-collapse-button-hide =
