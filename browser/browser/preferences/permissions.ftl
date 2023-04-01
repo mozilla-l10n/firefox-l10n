@@ -217,3 +217,4 @@ permissions-site-microphone-disable-desc = Aquò empacha quin site que siá pas 
 permissions-site-speaker-window =
     .title = Paramètres - Permission pel microfòn
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Los sites web seguents an demandat de seleccionar lo periferic de la sortida àudio. Podètz indicar quines sites son autorizats a seleccionar lo periferic de la sortida àudio.

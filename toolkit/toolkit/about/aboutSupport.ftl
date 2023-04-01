@@ -285,6 +285,8 @@ webgl2-renderer = Pilòt WebGL 2 - Rendut
 webgl2-version = Pilòt WebGL 2 - Version
 webgl2-driver-extensions = Pilòt WebGL 2 - Extensions
 webgl2-extensions = WebGL 2 - Extensions
+webgpu-default-adapter = Adaptador WebGPU per defaut
+webgpu-fallback-adapter = Adaptador WebGPU de replegament
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Botat en lista negra a causa d’un problèma conegut : <a data-l10n-name="bug-link">bug { $bugNumber }</a>
