@@ -68,6 +68,8 @@ import-items-description = インポートする項目を選択してくださ�
 import-permissions-page-title = { -brand-short-name } に権限が必要
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS で Safari のブックマークにアクセスするには、{ -brand-short-name } に明示的な許可が必要です。[続行] をクリックして、表示されるファイルを開くダイアログで “Bookmarks.plist” ファイルを選択してください。
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS で Safari のデータにアクセスするには、{ -brand-short-name } に明示的な許可が必要です。[続行] をクリックして、表示される Finder のダイアログで “Safari” フォルダーを選択し、"開く" をクリックしてください。
 import-migrating-page-title = インポートしています...
 import-migrating-description = 次の項目を現在インポートしています...
 import-select-profile-page-title = プロファイルの選択
