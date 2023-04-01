@@ -68,6 +68,8 @@ import-items-description = Wybierz elementy do zaimportowania:
 import-permissions-page-title = Proszę dać uprawnienia przeglądarce { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS wymaga zezwolenia przeglądarce { -brand-short-name } na dostęp do zakładek przeglądarki Safari przez użytkownika. Kliknij „Kontynuuj” i wybierz plik „Bookmarks.plist” w panelu otwierania pliku, który zostanie otwarty.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS wymaga zezwolenia przeglądarce { -brand-short-name } na dostęp do danych przeglądarki Safari przez użytkownika. Kliknij „Kontynuuj”, wybierz folder „Safari” w oknie Findera, które zostanie otwarte, a następnie kliknij „Otwórz”.
 import-migrating-page-title = Importowanie…
 import-migrating-description = Poniższe elementy są właśnie importowane…
 import-select-profile-page-title = Wybierz profil
