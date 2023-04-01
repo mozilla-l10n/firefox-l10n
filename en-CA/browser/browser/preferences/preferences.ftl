@@ -131,6 +131,10 @@ startup-restore-warn-on-quit =
     .label = Warn you when quitting the browser
 disable-extension =
     .label = Disable Extension
+preferences-data-migration-header = Import Browser Data
+preferences-data-migration-button =
+    .label = Import Data
+    .accesskey = m
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
@@ -967,6 +971,14 @@ sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Cookie Banner Reduction
+cookie-banner-handling-description = { -brand-short-name } automatically tries to reject cookie requests on cookie banners on supported sites.
+cookie-banner-learn-more = Learn More
+forms-handle-cookie-banners =
+    .label = Reduce Cookie Banners
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
@@ -1104,6 +1116,11 @@ permissions-camera-settings =
     .accesskey = t
 permissions-microphone = Microphone
 permissions-microphone-settings =
+    .label = Settings…
+    .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Speaker Selection
+permissions-speaker-settings =
     .label = Settings…
     .accesskey = t
 permissions-notification = Notifications
