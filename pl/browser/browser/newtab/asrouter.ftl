@@ -165,7 +165,7 @@ spotlight-total-cookie-protection-secondary-button = Nie teraz
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Lepszy Internet zaczyna się od Ciebie
-spotlight-better-internet-body = Kiedy używasz { -brand-short-name(case: "acc") }, głosujesz na otwarty i dostępny Internet, który jest lepszy dla wszystkich.
+spotlight-better-internet-body = Kiedy używasz { -brand-short-name(case: "gen") }, głosujesz na otwarty i dostępny Internet, który jest lepszy dla wszystkich.
 spotlight-peace-mind-header = Możesz na nas liczyć
 spotlight-peace-mind-body = Każdego miesiąca { -brand-short-name } blokuje średnio ponad 3000 elementów śledzących na użytkownika. Ponieważ nic, zwłaszcza psujące prywatność elementy śledzące, nie powinno stać między Tobą a dobrym Internetem.
 spotlight-pin-primary-button =
