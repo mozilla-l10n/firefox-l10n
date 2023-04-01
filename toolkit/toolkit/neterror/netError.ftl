@@ -27,6 +27,7 @@ neterror-try-again-button = Spróbuj ponownie
 neterror-add-exception-button = Zawsze kontynuuj na tej witrynie
 neterror-settings-button = Zmień ustawienia DNS
 neterror-view-certificate-link = Wyświetl certyfikat
+neterror-trr-continue-this-time = Kontynuuj tym razem
 neterror-disable-native-feedback-warning = Zawsze kontynuuj
 
 ##
@@ -72,6 +73,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nie może 
 neterror-dns-not-found-native-fallback-attackers = Możesz dalej korzystać z niezabezpieczonego serwera DNS, ale osoby trzecie będą mogły podejrzeć, jakie witryny otwierasz, lub przekierować Cię do niezaufanej witryny.
 neterror-dns-not-found-native-fallback-heuristic = Obsługa DNS poprzez HTTPS została wyłączona w Twojej sieci.
 neterror-dns-not-found-native-fallback-not-confirmed = Połączenie z serwerem { $trrDomain } nie jest jeszcze gotowe.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nie mógł połączyć się z serwerem { $trrDomain }.
 
 ##
 
