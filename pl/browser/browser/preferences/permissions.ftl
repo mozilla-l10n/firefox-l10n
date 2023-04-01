@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Podaj prawidłową nazwę hosta
 permissions-exceptions-etp-window =
     .title = Wzmocniona ochrona przed śledzeniem — wyjątki
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ochrona została wyłączona dla tych witryn.
 permissions-exceptions-etp-window2 =
     .title = Wzmocniona ochrona przed śledzeniem — wyjątki
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Ochrona została wyłączona dla tych witryn.
 permissions-exceptions-manage-etp-desc = Określ, na których witrynach wyłączyć wzmocnioną ochronę przed śledzeniem. Podaj dokładny adres witryny, której ustawienia chcesz zmodyfikować, i naciśnij Dodaj wyjątek.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Następujące strony prosiły o dostęp do m
 permissions-site-microphone-disable-label =
     .label = Blokowanie nowych próśb o dostęp do mikrofonu
 permissions-site-microphone-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do mikrofonu. Zablokowanie dostępu do mikrofonu może spowodować, że niektóre funkcje witryny nie będą działać.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Wybieranie głośników — uprawnione witryny
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Następujące strony prosiły o możliwość wyboru wyjściowego urządzenia dźwiękowego. Określ, które witryny mogą je wybierać.

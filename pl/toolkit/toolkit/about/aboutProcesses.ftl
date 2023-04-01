@@ -128,6 +128,9 @@ about-processes-utility-actor-audio-decoder-generic = Standardowy dekoder dźwi�
 about-processes-utility-actor-audio-decoder-applemedia = Dekoder dźwięku Apple Media
 about-processes-utility-actor-audio-decoder-wmf = Dekoder dźwięku Windows Media Framework
 about-processes-utility-actor-mf-media-engine = Moduł CDM mechanizmu Windows Media Foundation Media Engine
+# "Oracle" refers to an internal Firefox process and should be kept in English
+about-processes-utility-actor-js-oracle = Oracle języka JavaScript
+about-processes-utility-actor-windows-utils = Narzędzia systemu Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:
