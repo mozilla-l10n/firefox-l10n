@@ -19,8 +19,14 @@ default-bookmarks-firefox-heading = Mozilla Firefox
 default-bookmarks-firefox-get-help = ຂໍຄວາມຊ່ວຍເຫຼືອ
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = ປັບແຕ່ງ Firefox
+# link title for https://www.mozilla.org/contribute/
+default-bookmarks-firefox-community = ເຂົ້າມາມີສ່ວນຮ່ວມ
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = ກ່ຽວກັບພວກເຮົາ
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Firefox Nightly Resources
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = ບລັອກ Firefox Nightly
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 default-bookmarks-bugzilla = Mozilla Bug Tracker
 # Nightly builds only, link title for https://developer.mozilla.org/

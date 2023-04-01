@@ -45,4 +45,7 @@ site-data-removing-dialog =
     .buttonlabelaccept = ລຶບອອກ
 site-data-removing-header = ລຶບຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ
 site-data-removing-desc = ການຖອນ cookies ແລະຂໍ້ມູນຂອງເວັບໄຊທ໌ອາດເຮັດໃຫ້ທ່ານອອກຈາກເວັບໄຊທ໌. ທ່ານແນ່ໃຈບໍວ່າທ່ານຕ້ອງການປ່ຽນແປງ?
+# Variables:
+#   $baseDomain (String) - The single domain for which data is being removed
+site-data-removing-single-desc = ການລຶບຄຸກກີ້ ແລະຂໍ້ມູນເວັບໄຊອາດເຮັດໃຫ້ເຈົ້າອອກຈາກເວັບໄຊທ໌ໄດ້. ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຄຸກກີ້ ແລະຂໍ້ມູນເວັບໄຊສຳລັບ <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookies ແລະຂໍ້ມູນເວັບໄຊທ໌ສໍາລັບເວັບໄຊທ໌ຕໍ່ໄປນີ້ຈະຖືກລຶບອອກ

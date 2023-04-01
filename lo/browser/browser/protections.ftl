@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary = { -brand-short-name } ໄດ້ບລັອກຕົວຕິດຕາມ { $count } ໃນອາທິດທີ່ຜ່ານມາ
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } ສືບຕໍ່ບລັອກຕົວຕິດຕາມໃນ Windows ສ່ວນຕົວ, ແຕ່ບໍ່ໄດ້ບັນທຶກສິ່ງທີ່ຖືກບລັອກໄວ້.
 # Weekly summary of the graph when the graph is empty in Private Mode

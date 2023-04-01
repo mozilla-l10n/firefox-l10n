@@ -69,6 +69,15 @@ restart-later = ເລີ່ມເຮັດວຽກໃຫມ່ພາຍຫລ�
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ຄວບຄຸມການຕັ້ງຄ່ານີ້.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ຄວບຄຸມການຕັ້ງຄ່ານີ້.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ຕ້ອງການ Container Tabs.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ຄວບຄຸມການຕັ້ງຄ່ານີ້.
@@ -85,6 +94,9 @@ extension-controlled-enable = ເພື່ອເປີດໃຊ້ສ່ວນ�
 ## Preferences UI Search Results
 
 search-results-header = ຜົນການຊອກຫາ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = ຂໍ​ໂທດ! ບໍ່ມີຜົນໄດ້ຮັບໃນການຕັ້ງຄ່າສໍາລັບ “<span data-l10n-name="query"></span>".
+search-results-help-link = ຕ້ອງ​ການ​ຄວາມ​ຊ່ວຍ​ເຫຼືອ? ເຂົ້າເບິ່ງ <a data-l10n-name="url">{ -brand-short-name } Support</a>
 
 ## General Section
 
@@ -175,6 +187,7 @@ choose-language-description = ເລືອກພາສາທີ່ທ່ານ�
 choose-button =
     .label = ເລືອກ...
     .accesskey = o
+confirm-browser-language-change-description = ຣີສະຕາດ { -brand-short-name } ເພື່ອນຳໃຊ້ການປ່ຽນແປງເຫຼົ່ານີ້
 confirm-browser-language-change-button = ນຳໃຊ້ ແລະ ເລີ່ມເຮັດວຽກໃໝ່
 translate-web-pages =
     .label = ແປເນື້ອຫາເວັບ
@@ -186,6 +199,10 @@ translate-attribution = ການແປໂດຍ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ຍົກເວັ້ນ...
     .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = ໃຊ້ການຕັ້ງຄ່າລະບົບປະຕິບັດການຂອງທ່ານສຳລັບ “{ $localeName }” ເພື່ອຈັດຮູບແບບວັນທີ, ເວລາ, ຕົວເລກ, ແລະການວັດແທກ.
 
 ## General Section - Files and Applications
 
@@ -301,6 +318,14 @@ update-application-use-service =
     .label = ໃຊ້ບໍລິການພື້ນຫລັງໃນການຕິດຕັ້ງການອັບເດດ
     .accesskey = b
 update-setting-write-failure-title2 = ເກີດຄວາມຜິດພາດໃນການບັນທຶກການຕັ້ງຄ່າການອັບເດດ
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } ພົບຂໍ້ຜິດພາດ ແລະບໍ່ໄດ້ບັນທຶກການປ່ຽນແປງນີ້. ກະລຸນາຮັບຊາບວ່າການປ່ຽນການຕັ້ງຄ່າການອັບເດດນີ້ຕ້ອງການການອະນຸຍາດຂຽນໃສ່ໄຟລ໌ຂ້າງລຸ່ມນີ້. ທ່ານຫຼືຜູ້ເບິ່ງແຍງລະບົບອາດຈະສາມາດແກ້ໄຂຂໍ້ຜິດພາດໄດ້ໂດຍການໃຫ້ກຸ່ມຜູ້ໃຊ້ຄວບຄຸມໄຟລ໌ນີ້ຢ່າງເຕັມທີ່.
+    
+    ບໍ່ສາມາດຂຽນໃສ່ໄຟລ໌: { $path }
 update-in-progress-title = ການປັບປຸງຢູ່ໃນຄວາມຄືບຫນ້າ
 update-in-progress-message = ທ່ານຕ້ອງການໃຫ້ { -brand-short-name } ສືບຕໍ່ການອັບເດດນີ້ບໍ?
 update-in-progress-ok-button = &ຍົກເລີກ
@@ -315,6 +340,7 @@ performance-use-recommended-settings-desc = ການ​ຕັ້ງ​ຄ່າ
 performance-settings-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 performance-limit-content-process-option = ຂີດຈຳກັດໂປຣເຊດເນື້ອຫາ
     .accesskey = l
+performance-limit-content-process-enabled-desc = ຂະບວນການເນື້ອຫາເພີ່ມເຕີມສາມາດປັບປຸງປະສິດທິພາບໃນເວລາທີ່ໃຊ້ຫຼາຍແຖບ, ແຕ່ຍັງຈະໃຊ້ຫນ່ວຍຄວາມຈໍາຫຼາຍ.
 performance-limit-content-process-blocked-desc = ການແກ້ໄຂຈໍານວນຂອງຂະບວນການເນື້ອຫາແມ່ນເປັນໄປໄດ້ພຽງແຕ່ multiprocess { -brand-short-name } . <a data-l10n-name="learn-more">ສຶກສາວິທີການກວດສອບວ່າ multiprocess ຖືກເປີດໃຊ້ບໍ</a>
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
@@ -337,6 +363,7 @@ browsing-cfr-recommendations-learn-more = ຮຽນຮູ້ເພີ່ມເ�
 ## General Section - Proxy
 
 network-settings-title = ຕັ້ງຄ່າເຄື່ອຂ່າຍ
+network-proxy-connection-description = ຕັ້ງຄ່າວິທີທີ່ { -brand-short-name } ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.
 network-proxy-connection-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 network-proxy-connection-settings =
     .label = ການຕັ້ງຄ່າ…
@@ -454,6 +481,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ສະແດງຜົນການຊອກຫາໃນແທັບທີ່ຢູ່
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = ສະແດງຄໍາຄົ້ນຫາແທນທີ່ຈະເປັນ URL ໃນຫນ້າຜົນການຄົ້ນຫາຂອງເຄື່ອງຈັກຊອກຫາມາດຕະຖານ
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -464,6 +496,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = ສະແດງຄຳແນະນຳການຊອກຫາໃນ Windows ສ່ວນຕົວ
 suggestions-addressbar-settings-generic2 = ປ່ຽນການຕັ້ງຄ່າສຳລັບການແນະນຳແຖບທີ່ຢູ່ອື່ນ
+search-suggestions-cant-show = ການແນະນຳການຊອກຫາຈະບໍ່ຖືກສະແດງຢູ່ໃນຜົນການຊອກຫາແຖບສະຖານທີ່ ເພາະວ່າທ່ານໄດ້ກຳນົດຄ່າ { -brand-short-name } ບໍ່ໃຫ້ຈື່ປະຫວັດ.
 search-one-click-header2 = ຄົ້ນຫາທາງລັດ
 search-one-click-desc = ເລືອກເຄື່ອງຈັກຊອກຫາທາງເລືອກທີ່ປາກົດຢູ່ລຸ່ມແຖບທີ່ຢູ່ແລະແຖບຄົ້ນຫາເມື່ອທ່ານເລີ່ມໃສ່ຄໍາສໍາຄັນ.
 search-choose-engine-column =
@@ -502,6 +535,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ
+sync-signedout-description2 = ຊິ້ງຂໍ້ມູນບຸກມາກ, ປະຫວັດ, ແຖບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ ແລະການຕັ້ງຄ່າຂອງທ່ານໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -539,6 +573,8 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = ການຊິງຄ໌: ເປີດ
+prefs-syncing-off = ການຊິງຄ໌: ປິດ
 
 ## The list of things currently syncing.
 
@@ -769,7 +805,9 @@ content-blocking-fingerprinters = ລາຍນິ້ວມື
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+content-blocking-etp-standard-tcp-title = ລວມ​ທັງ​ການ​ປົກ​ປັກ​ຮັກ​ສາ Cookie ທັງ​ຫມົດ, ຄຸນ​ນະ​ສົມ​ບັດ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ທີ່​ມີ​ອໍາ​ນາດ​ທີ່​ສຸດ​ຂອງ​ພວກ​ເຮົາ​ທີ່​ເຄີຍ​ມີ
 content-blocking-warning-title = ລະວັງ!
+content-blocking-and-isolating-etp-warning-description-2 = ການຕັ້ງຄ່ານີ້ອາດຈະເຮັດໃຫ້ບາງເວັບໄຊທ໌ບໍ່ສະແດງເນື້ອຫາ ຫຼືເຮັດວຽກຢ່າງຖືກຕ້ອງ. ຖ້າເວັບໄຊທ໌ເບິ່ງຄືວ່າແຕກ, ທ່ານອາດຈະຕ້ອງການປິດການປ້ອງກັນການຕິດຕາມສໍາລັບເວັບໄຊທ໌ນັ້ນເພື່ອໂຫລດເນື້ອຫາທັງຫມົດ.
 content-blocking-warning-learn-how = ຮຽນຮູ້ວິທີການ
 content-blocking-reload-description = ທ່ານຈະຕ້ອງໂຫຼດແຖບຂອງທ່ານຄືນໃໝ່ເພື່ອນຳໃຊ້ການປ່ຽນແປງເຫຼົ່ານີ້.
 content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
@@ -819,7 +857,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = ການເກັບລວບລວມແລະໃຊ້ຂໍ້ມູນ { -brand-short-name }
+collection-description = ພວກ​ເຮົາ​ພະ​ຍາ​ຍາມ​ທີ່​ຈະ​ໃຫ້​ທ່ານ​ມີ​ທາງ​ເລືອກ​ແລະ​ເກັບ​ກໍາ​ແຕ່​ສິ່ງ​ທີ່​ພວກ​ເຮົາ​ຕ້ອງ​ການ​ເພື່ອ​ໃຫ້​ແລະ​ປັບ​ປຸງ { -brand-short-name } ສໍາ​ລັບ​ທຸກ​ຄົນ​. ພວກເຮົາສະເຫມີຂໍອະນຸຍາດກ່ອນທີ່ຈະໄດ້ຮັບຂໍ້ມູນສ່ວນຕົວ.
 collection-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
+collection-health-report-telemetry-disabled = ທ່ານບໍ່ສາມາດອະນຸຍາດໃຫ້ { -vendor-short-name } ບັນທຶກຂໍ້ມູນດ້ານວິຊາການ ແລະການໂຕ້ຕອບໄດ້ອີກຕໍ່ໄປ. ຂໍ້ມູນທີ່ຜ່ານມາທັງໝົດຈະຖືກລຶບພາຍໃນ 30 ມື້.
 collection-health-report-telemetry-disabled-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 collection-studies =
@@ -831,6 +871,10 @@ addon-recommendations-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ການລາຍງານຂໍ້ມູນຖືກປິດໃຊ້ງານສຳລັບການກຳນົດຄ່າການສ້າງນີ້
+privacy-segmentation-section-header = ຄຸນສົມບັດໃໝ່ທີ່ປັບປຸງການທ່ອງເວັບຂອງທ່ານ
+privacy-segmentation-section-description = ເມື່ອພວກເຮົາສະເໜີຄຸນສົມບັດທີ່ນຳໃຊ້ຂໍ້ມູນຂອງທ່ານເພື່ອໃຫ້ປະສົບການສ່ວນຕົວກວ່າແກ່ທ່ານ:
+privacy-segmentation-radio-off =
+    .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
 
@@ -864,6 +908,7 @@ certs-view =
 certs-devices =
     .label = ອຸປະກອນຄວາມປອດໄພ…
     .accesskey = D
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } ກຳລັງຈະໝົດພື້ນທີ່ດິສກ໌.</strong> ເນື້ອຫາເວັບໄຊທ໌ອາດຈະບໍ່ສະແດງຢ່າງຖືກຕ້ອງ. ທ່ານ​ສາ​ມາດ​ລຶບ​ຂໍ້​ມູນ​ທີ່​ເກັບ​ໄວ້​ໄດ້​ໃນ​ການ​ຕັ້ງ​ຄ່າ > ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ & ຄວາມ​ປອດ​ໄພ​> Cookies ແລະ​ຂໍ້​ມູນ​ເວັບ​ໄຊ.
 
 ## Privacy Section - HTTPS-Only
 
