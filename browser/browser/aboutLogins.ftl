@@ -44,6 +44,14 @@ login-list-count =
         [one] Saio-hasiera bat
        *[other] { $count } saio-hasiera
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $total } / { $count } saio-hasiera
+       *[other] { $total } / { $count } saio-hasiera
+    }
 login-list-sort-label-text = Ordenatze-irizpidea:
 login-list-name-option = Izena (A-Z)
 login-list-name-reverse-option = Izena (Z-A)

@@ -68,6 +68,8 @@ import-items-description = Aukeratu inportatu beharrekoak:
 import-permissions-page-title = Mesedez eman baimenak { -brand-short-name }(r)i
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = { -brand-short-name }(e)k Safari-ren laster-marketarako sarbidea izan dezan, macOS-en beharrezkoa da baimenak esplizituki ematea. Egin klik 'Jarraitu' botoian eta fitxategia irekitzeko agertzen den panelean hautatu 'Bookmarks.plist' fitxategia.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = { -brand-short-name }(e)k Safari-ren datuetarako sarbidea izan dezan, macOS-en beharrezkoa da baimenak esplizituki ematea. Egin klik 'Jarraitu' botoian, hautatu "Safari" karpeta Finder elkarrizketa-koadroan eta ondoren egin klik "Ireki" botoian.
 import-migrating-page-title = Inportatzen…
 import-migrating-description = Ondorengo osagaiak inportatzen…
 import-select-profile-page-title = Hautatu profila

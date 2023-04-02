@@ -665,6 +665,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Txandakatu bideoa beste leiho batean
 
 ## Full Screen and Pointer Lock UI
 
@@ -811,6 +813,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Bidali lotura postaz
     .tooltiptext = Bidali postaz orri honetarako lotura
+toolbar-button-logins =
+    .label = Pasahitzak
+    .tooltiptext = Ikusi eta kudeatu gordetako zure pasahitzak
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
