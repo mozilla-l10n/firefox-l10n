@@ -13,7 +13,7 @@ printui-sheets-count =
        *[other] { $sheetCount } sfueis di cjarte
     }
 printui-page-range-all = Dut
-printui-page-range-current = Corint
+printui-page-range-current = Corinte
 printui-page-range-odd = Dispar
 printui-page-range-even = Pâr
 printui-page-range-custom = Personalizât
