@@ -27,6 +27,7 @@ neterror-try-again-button = Poskusi znova
 neterror-add-exception-button = Vedno nadaljuj za to spletno mesto
 neterror-settings-button = Spremeni nastavitve DNS
 neterror-view-certificate-link = Ogled digitalnega potrdila
+neterror-trr-continue-this-time = Tokrat nadaljuj
 neterror-disable-native-feedback-warning = Vedno nadaljuj
 
 ##
