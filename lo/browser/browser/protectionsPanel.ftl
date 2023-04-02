@@ -14,6 +14,11 @@ protections-popup-footer-protection-label-strict = ເຂັ້ມງວດ
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = ຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງ
+protections-panel-etp-on-header = ການປົກປ້ອງການຕິດຕາມແບບປັບປຸງແມ່ນເປີດຢູ່ສຳລັບເວັບໄຊນີ້
+protections-panel-etp-off-header = ການ​ປົກ​ປ້ອງ​ການ​ຕິດ​ຕາມ​ທີ່​ປັບ​ປຸງ​ແມ່ນ​ປິດ​ສໍາ​ລັບ​ເວັບ​ໄຊ​ນີ້​
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ເວັບໄຊບໍ່ເຮັດວຽກ?
 # The heading/title of the sub-panel view
@@ -76,6 +81,7 @@ protections-panel-shim-allowed-indicator =
     .tooltiptext = ປົດບລັອກຕົວຕິດຕາມບາງສ່ວນແລ້ວ
 protections-panel-content-blocking-breakage-report-view =
     .title = ລາຍງານເວັບໄຊທີ່ມີບັນຫາ
+protections-panel-content-blocking-breakage-report-view-description = ການຂັດຂວາງຕົວຕິດຕາມທີ່ແນ່ນອນສາມາດເຮັດໃຫ້ເກີດບັນຫາກັບບາງເວັບໄຊທ໌. ການລາຍງານບັນຫາເຫຼົ່ານີ້ຊ່ວຍເຮັດໃຫ້ { -brand-short-name } ດີຂຶ້ນສຳລັບທຸກຄົນ. ການສົ່ງບົດລາຍງານນີ້ຈະສົ່ງ URL ແລະຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າຕົວທ່ອງເວັບຂອງທ່ານໄປຫາ Mozilla. <label data-l10n-name="learn-more">ສຶກສາເພີ່ມເຕີມ</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -97,3 +103,12 @@ protections-panel-cookie-banner-view-title =
     .title = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
 protections-panel-cookie-banner-view-go-back =
     .aria-label = ກັບຄືນ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = ປິດການຫຼຸດປ້າຍໂຄສະນາຄຸກກີສຳລັບ { $host } ບໍ?
+protections-panel-cookie-banner-view-turn-on-for-site = ເປີດການຫຼຸດປ້າຍໂຄສະນາຄຸກກີສຳລັບເວັບໄຊນີ້ບໍ?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ຈະລຶບລ້າງຄຸກກີ້ຂອງເວັບໄຊນີ້ ແລະໂຫຼດໜ້ານີ້ຄືນໃໝ່. ການລຶບລ້າງຄຸກກີ້ທັງໝົດອາດເຮັດໃຫ້ເຈົ້າອອກຈາກລະບົບ ຫຼືກະຕ່າຊື້ເຄື່ອງຫວ່າງເປົ່າ.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } ພະຍາຍາມປະຕິເສດຄຳຮ້ອງຂໍຄຸກກີທັງໝົດໃນເວັບໄຊທີ່ຮອງຮັບໂດຍອັດຕະໂນມັດ.
+protections-panel-cookie-banner-view-cancel = ຍົກເລີກ
+protections-panel-cookie-banner-view-turn-off = ປິດ
+protections-panel-cookie-banner-view-turn-on = ເປີດ

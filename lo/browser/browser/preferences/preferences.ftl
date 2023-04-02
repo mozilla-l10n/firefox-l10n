@@ -128,6 +128,7 @@ containers-disable-alert-title = ປິດແຖບບັນຈຸທັງໝ�
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
+containers-disable-alert-ok-button = ປິດ { $tabCount } ແຖບບັນຈຸ
 
 ##
 
@@ -150,6 +151,8 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = ກົງກັບການຕັ້ງຄ່າຮູບແບບສີສັນ { -brand-short-name } ຂອງເຈົ້າສຳລັບພື້ນຫຼັງເວັບໄຊທ໌ ແລະເນື້ອຫາ.
 preferences-web-appearance-choice-tooltip-system =
     .title = ກົງກັບການຕັ້ງຄ່າລະບົບຂອງທ່ານສໍາລັບພື້ນຖານເວັບໄຊທ໌ ແລະເນື້ອຫາ.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = ປ່ຽນພື້ນຫຼັງເວັບໄຊທ໌ ແລະເນື້ອຫາໂດຍອັດຕະໂນມັດຕາມການຕັ້ງຄ່າລະບົບ ແລະຫົວຂໍ້ { -brand-short-name } ຂອງເຈົ້າ.
 preferences-web-appearance-choice-tooltip-light =
     .title = ໃຊ້ລັກສະນະແສງສະຫວ່າງສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
 preferences-web-appearance-choice-tooltip-dark =
@@ -182,11 +185,16 @@ advanced-fonts =
     .accesskey = ຂ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ຂະຫຍາຍ
+# Variables:
+#   $percentage (number) - Zoom percentage value
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = ພາສາ
 choose-language-description = ເລືອກພາສາທີ່ທ່ານຕ້ອງການສະແດງໃນຫນ້ານີ້
 choose-button =
     .label = ເລືອກ...
     .accesskey = o
+choose-browser-language-description = ເລືອກພາສາທີ່ໃຊ້ເພື່ອສະແດງເມນູ, ຂໍ້ຄວາມ ແລະການແຈ້ງເຕືອນຈາກ { -brand-short-name }.
 confirm-browser-language-change-description = ຣີສະຕາດ { -brand-short-name } ເພື່ອນຳໃຊ້ການປ່ຽນແປງເຫຼົ່ານີ້
 confirm-browser-language-change-button = ນຳໃຊ້ ແລະ ເລີ່ມເຮັດວຽກໃໝ່
 translate-web-pages =
@@ -575,6 +583,7 @@ sync-sign-in =
 
 prefs-syncing-on = ການຊິງຄ໌: ເປີດ
 prefs-syncing-off = ການຊິງຄ໌: ປິດ
+prefs-sync-offer-setup-label2 = ຊິ້ງຂໍ້ມູນບຸກມາກ, ປະຫວັດ, ແຖບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ ແລະການຕັ້ງຄ່າຂອງທ່ານໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 
 ## The list of things currently syncing.
 

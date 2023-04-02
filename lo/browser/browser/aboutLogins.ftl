@@ -43,6 +43,10 @@ login-list-count =
     { $count ->
        *[other] { $count } ເຂົ້າສູ່ລະບົບ
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count = { $count } ຂອງ { $total } ເຂົ້າສູ່ລະບົບ
 login-list-sort-label-text = ຈັດຮຽງຕາມ:
 login-list-name-option = ຊື່ (A-Z)
 login-list-name-reverse-option = ຊື່ (A-Z)

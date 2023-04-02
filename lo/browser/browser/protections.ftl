@@ -56,6 +56,40 @@ monitor-breaches-tooltip =
     .title = ເບິ່ງການລະເມີດຂໍ້ມູນໃນ { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = ເບິ່ງລະຫັດຜ່ານທີ່ເປີດເຜີຍໃນ { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails = ທີ່ຢູ່ອີເມວຖືກຕິດຕາມ
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found = ການລະເມີດຂໍ້ມູນທີ່ຮູ້ຈັກໄດ້ເປີດເຜີຍຂໍ້ມູນຂອງທ່ານ
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved = ການລະເມີດຂໍ້ມູນທີ່ຮູ້ຈັກຖືກໝາຍວ່າຖືກແກ້ໄຂແລ້ວ
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found = ລະຫັດຜ່ານຖືກເປີດເຜີຍໃນທົ່ວການລະເມີດທັງໝົດ
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved = ລະຫັດຜ່ານທີ່ຖືກເປີດເຜີຍໃນການລະເມີດທີ່ບໍ່ໄດ້ຮັບການແກ້ໄຂ
+monitor-no-breaches-title = ຂ່າວ​ດີ!
+monitor-no-breaches-description = ທ່ານບໍ່ມີການລະເມີດທີ່ຮູ້ຈັກ. ຖ້າມັນມີການປ່ຽນແປງ, ພວກເຮົາຈະແຈ້ງໃຫ້ເຈົ້າຮູ້.
+monitor-breaches-unresolved-title = ແກ້ໄຂການລະເມີດຂອງເຈົ້າ
+monitor-breaches-unresolved-description = ຫຼັງຈາກກວດເບິ່ງລາຍລະອຽດການລະເມີດ ແລະດໍາເນີນຂັ້ນຕອນເພື່ອປົກປ້ອງຂໍ້ມູນຂອງທ່ານ, ທ່ານສາມາດໝາຍການລະເມີດວ່າຖືກແກ້ໄຂແລ້ວ.
+monitor-breaches-resolved-title = ງາມ! ທ່ານໄດ້ແກ້ໄຂການລະເມີດທີ່ຮູ້ຈັກທັງໝົດແລ້ວ.
+monitor-breaches-resolved-description = ຖ້າອີເມວຂອງເຈົ້າປາກົດຢູ່ໃນການລະເມີດໃຫມ່, ພວກເຮົາຈະແຈ້ງໃຫ້ເຈົ້າຮູ້.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title = ການລະເມີດ { $numBreachesResolved } ອອກຈາກ { $numBreaches } ຖືກໝາຍວ່າຖືກແກ້ໄຂແລ້ວ
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% ສຳເລັດແລ້ວ
+monitor-partial-breaches-motivation-title-start = ເລີ່ມຕົ້ນໃຊ້ງານ!
 monitor-partial-breaches-motivation-title-middle = ຮັກສາມັນໄວ້!
 monitor-partial-breaches-motivation-title-end = ເກືອບແລ້ວ! ຮັກສາມັນ.
 monitor-partial-breaches-motivation-description = ແກ້ໄຂການລະເມີດສ່ວນທີ່ເຫຼືອຂອງທ່ານໃນ { -monitor-brand-short-name }.
