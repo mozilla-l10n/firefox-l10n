@@ -44,7 +44,7 @@ videocontrols-picture-in-picture-toggle-label2 = Tire fûr chest video
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer3 = Tancj schermis tant divertiment. Riprodûs chest video intant che tu vasis altris robis.
+videocontrols-picture-in-picture-explainer3 = Tancj schermis, tant divertiment. Riprodûs chest video intant che tu fasis altris robis.
 videocontrols-error-aborted = Cjariament dal video fermât.
 videocontrols-error-network = Riproduzion dal video interote par vie di un erôr di rêt.
 videocontrols-error-decode = Nol è pussibil riprodusi il video parcè che il file al è ruvinât.
