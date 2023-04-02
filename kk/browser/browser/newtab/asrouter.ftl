@@ -242,6 +242,10 @@ cfr-cookiebanner-accept-button-variant-2 = Рұқсат ету
     .accesskey = а
 cfr-cookiebanner-reject-button-variant-2 = Қазір емес
     .accesskey = м
+cfr-cbh-header = { -brand-short-name } үшін cookie баннерлерін елемеу рұқсатын бересіз бе?
+cfr-cbh-body = { -brand-short-name } көптеген cookie баннер сұрауларын автоматты түрде қабылдамау әрекетін жасай алады.
+cfr-cbh-confirm-button = Cookie баннерлерін елемеу
+    .accesskey = р
 cfr-cbh-dismiss-button = Қазір емес
     .accesskey = м
 

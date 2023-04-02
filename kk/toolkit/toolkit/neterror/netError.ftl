@@ -27,6 +27,7 @@ neterror-try-again-button = Қайтадан көру
 neterror-add-exception-button = Бұл сайт үшін әрқашан жалғастыру
 neterror-settings-button = DNS бапталарын өзгерту
 neterror-view-certificate-link = Сертификатты қарау
+neterror-trr-continue-this-time = Осы жолы жалғастыру
 neterror-disable-native-feedback-warning = Әрқашан жалғастыру
 
 ##
@@ -72,6 +73,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } бізді
 neterror-dns-not-found-native-fallback-attackers = Қауіпсіз DNS шешушісімен жалғастыра аласыз. Дегенмен, үшінші тарап сіз кіретін веб-сайттарды көре алады немесе сізді сенімсіз сайтқа жібере алады.
 neterror-dns-not-found-native-fallback-heuristic = HTTPS арқылы DNS сіздің желіңізде сөндірілген.
 neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } адресіне байланыс әлі дайын емес.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } доменіне қосыла алмады.
 
 ##
 

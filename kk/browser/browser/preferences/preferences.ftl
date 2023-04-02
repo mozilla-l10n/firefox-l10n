@@ -132,6 +132,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Кеңейтуді сөндіру
 preferences-data-migration-header = Браузер деректерін импорттау
+preferences-data-migration-description = Бетбелгілер, парольдер, тарих және автотолтыру деректерін { -brand-short-name }ішіне импорттаңыз.
 preferences-data-migration-button =
     .label = Деректерді импорттау
     .accesskey = м
@@ -974,6 +975,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Cookie баннерлерін азайту
+cookie-banner-handling-description = { -brand-short-name } қолдау көрсетілетін сайттардағы cookie баннерлеріндегі cookie сұрауларын автоматты түрде қабылдамау әрекетін жасайды.
 cookie-banner-learn-more = Көбірек білу
 forms-handle-cookie-banners =
     .label = Cookie баннерлерін азайту
@@ -1117,6 +1119,11 @@ permissions-microphone = Микрофон
 permissions-microphone-settings =
     .label = Баптаулар…
     .accesskey = п
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Динамик таңдау
+permissions-speaker-settings =
+    .label = Баптаулар…
+    .accesskey = т
 permissions-notification = Хабарламалар
 permissions-notification-settings =
     .label = Баптаулар…

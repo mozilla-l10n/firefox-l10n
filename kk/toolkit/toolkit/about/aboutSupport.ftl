@@ -285,6 +285,8 @@ webgl2-renderer = WebGL 2 драйвер Renderer
 webgl2-version = WebGL 2 драйвер нұсқасы
 webgl2-driver-extensions = WebGL 2 драйвер кеңейтулері
 webgl2-extensions = WebGL 2 кеңейтулері
+webgpu-default-adapter = WebGPU бастапқы адаптері
+webgpu-fallback-adapter = WebGPU қосымша адаптері
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Белгілі мәселелерге байланысты бұғатталған: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
