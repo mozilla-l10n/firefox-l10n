@@ -51,7 +51,7 @@ cert-error-code-prefix-link = Код помилки: <a data-l10n-name="error-co
 # Variables:
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
-cert-error-ssl-connection-error = Під час з’єднання з { $hostname } сталася помилка. { $errorMessage }
+cert-error-ssl-connection-error = Під час з'єднання з { $hostname } сталася помилка. { $errorMessage }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Сайти підтверджують свою справжність за допомогою сертифікатів, що видаються центрами сертифікації. Більшість браузерів більше не довіряють сертифікатам, виданим GeoTrust, RapidSSL, Symantec, Thawte та VeriSign. { $hostname } використовує сертифікат від одного з цих видавців, тому справжність вебсайту не може бути засвідчена.
@@ -91,22 +91,22 @@ captivePortal-title = Увійдіть до мережі
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Гм. Схоже, ця адреса неправильна.
-netInterrupt-title = З’єднання перервано
+netInterrupt-title = З'єднання перервано
 notCached-title = Документ застарів
 netOffline-title = Автономний режим
 contentEncodingError-title = Помилка кодування вмісту
 unsafeContentType-title = Небезпечний тип файлу
-netReset-title = З’єднання скинуто
-netTimeout-title = Перевищено термін очікування з’єднання
+netReset-title = З'єднання скинуто
+netTimeout-title = Перевищено термін очікування з'єднання
 unknownProtocolFound-title = Незрозуміла адреса
-proxyConnectFailure-title = Проксі-сервер відмовляється приймати з’єднання
+proxyConnectFailure-title = Проксі-сервер відмовляється приймати з'єднання
 proxyResolveFailure-title = Неможливо знайти проксі-сервер
 redirectLoop-title = Неналежне перенаправлення на сторінці
 unknownSocketType-title = Неочікувана відповідь сервера
-nssFailure2-title = Не вдалося встановити безпечне з’єднання
+nssFailure2-title = Не вдалося встановити безпечне з'єднання
 csp-xfo-error-title = { -brand-short-name } не може відкрити цю сторінку
 corruptedContentError-title = Помилка пошкодженого вмісту
-sslv3Used-title = Неможливо безпечно з’єднатися
+sslv3Used-title = Неможливо безпечно з'єднатися
 inadequateSecurityError-title = Ваше з'єднання незахищене
 blockedByPolicy-title = Заблокована сторінка
 clockSkewError-title = Годинник вашого комп'ютера налаштовано неправильно

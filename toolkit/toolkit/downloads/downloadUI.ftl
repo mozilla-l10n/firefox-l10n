@@ -45,4 +45,4 @@ download-ui-cancel-downloads-ok =
 download-ui-file-executable-security-warning-title = Відкрити виконуваний файл?
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = “{ $executable }” є виконуваним файлом. Виконувані файли можуть містити віруси або інший небезпечний код, що може нашкодити вашому комп’ютеру. Будьте уважні при відкритті цього файлу. Ви справді хочете запустити файл “{ $executable }”?
+download-ui-file-executable-security-warning = “{ $executable }” є виконуваним файлом. Виконувані файли можуть містити віруси або інший небезпечний код, що може нашкодити вашому комп'ютеру. Будьте обережні, відкриваючи цей файл. Ви справді хочете запустити файл “{ $executable }”?
