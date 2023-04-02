@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Idatzi baliozko zerbitzari-izena
 permissions-exceptions-etp-window =
     .title = Jarraipenaren babes hobeturako salbuespenak
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Babesak desaktibatu dituzu webgune hauetan.
 permissions-exceptions-etp-window2 =
     .title = Jarraipenaren babes hobeturako salbuespenak
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Babesak desaktibatu dituzu webgune hauetan.
 permissions-exceptions-manage-etp-desc = Jarraipenaren babes hobetua desaktibatuta izango duten webguneak ezar ditzakezu. Idatzi kudeatu beharreko gunearen helbide zehatza eta egin klik 'Gehitu salbuespena' botoian.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Ondorengo webguneek zure mikrofonoa erabiltze
 permissions-site-microphone-disable-label =
     .label = Blokeatu zure mikrofonoa erabiltzeko eskaera berriak
 permissions-site-microphone-disable-desc = Aukera honekin, mikrofonoa erabiltzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Mikrofonorako sarbidea blokeatzeak webguneen zenbait eginbide hauts litzake.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Ezarpenak - Bozgorailuen baimenak
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Ondorengo webguneek audio irteera-gailu bat hautatzea eskatu dute. Audio irteera-gailua hautatzeko baimenduta dauden webguneak zehatz ditzakezu.
