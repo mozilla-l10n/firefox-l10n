@@ -27,6 +27,7 @@ neterror-try-again-button = Saiatu berriro
 neterror-add-exception-button = Jarraitu beti gune honetarako
 neterror-settings-button = Aldatu DNS ezarpenak
 neterror-view-certificate-link = Ikusi ziurtagiria
+neterror-trr-continue-this-time = Jarraitu oraingo honetan
 neterror-disable-native-feedback-warning = Jarraitu beti
 
 ##
@@ -72,6 +73,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name }(e)k ezin d
 neterror-dns-not-found-native-fallback-attackers = Segurua ez den DNS ebazle batekin jarrai dezakezu. Halere, hirugarren batentzat posible izan liteke bisitatzen dituzun webguneak ikustea edo zu konfiantza gabeko gune batera bidaltzea.
 neterror-dns-not-found-native-fallback-heuristic = HTTPS againeko DNSa desgaitu egin da zure sarean.
 neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } domeinurako konexioa ez dago prest oraindik.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }(e) ezin izan du { $trrDomain } ostalarira konektatu.
 
 ##
 

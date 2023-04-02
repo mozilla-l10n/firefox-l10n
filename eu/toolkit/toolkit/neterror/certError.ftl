@@ -80,10 +80,10 @@ dnsNotFound-title = Hara. Arazoak izaten ari gara gune hori aurkitzen.
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Balizko segurtasun arriskua { $hostname } ostalariarentzat.
 # Variables:
-dns-not-found-trr-only-title2 = Balizko segurtasun arriskua domeinu hau bilatzean
-# Variables:
 #   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Balizko segurtasun arriskua { $hostname } ostalariarentzat.
+dns-not-found-trr-only-title2 = Balizko segurtasun arriskua domeinu hau bilatzean
+dns-not-found-native-fallback-title2 = Balizko segurtasun arriskua domeinu hau bilatzean
 fileNotFound-title = Fitxategia ez da aurkitu
 fileAccessDenied-title = Fitxategi-atzipena ukatu egin da
 generic-title = Iepa.
