@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } erabiltzaile
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Cookie iragarki-bandak kanpora!
-cfr-cookie-banner-handling-body = Baimendu { -brand-short-name }(e)k cookie iragarki-banden eskaera guztiak ahal bada automatikoki ukatzea. Bestela, cookie guztiak onartu egingo dira ahalik eta iragarki-banda gehien baztertzeko.
-cfr-cookie-banner-accept-button = Baztertu eskaerak
-    .accesskey = B
-cfr-cookie-banner-reject-button = Une honetan ez
-    .accesskey = z
-cfr-cookie-banner-handling-header-variant-1 = Ikusi cookie laster-leiho gutxiago
-cfr-cookie-banner-handling-body-variant-1 = Utzi { -brand-short-name }(r)i cookie laster-leihoak automatikoki erantzuten, distraziorik gabeko nabigaziora itzul zaitezen. Ahal bada eskaera guztiak ukatuko ditu { -brand-short-name }(e)k; ezin bada, guztiak onartuko ditu.
-cfr-cookie-banner-accept-button-variant-1 = Baztertu laster-leihoak
-    .accesskey = B
-cfr-cookie-banner-reject-button-variant-1 = Ez, eskerrik asko
-    .accesskey = z
-cfr-cookie-banner-handling-header-variant-2 = Cookie iragarki-banden murrizpena
-cfr-cookie-banner-handling-body-variant-2 = Baimendu { -brand-short-name }(e)k gune baten cookie onespen-eskaera ukatzea edo ezin bada, baimendu cookietarako sarbidea?
-cfr-cookie-banner-accept-button-variant-2 = Baimendu
-    .accesskey = B
-cfr-cookie-banner-reject-button-variant-2 = Une honetan ez
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronizatu laster-markak edonon.
@@ -267,9 +244,20 @@ cfr-cookiebanner-accept-button-variant-2 = Baimendu
     .accesskey = B
 cfr-cookiebanner-reject-button-variant-2 = Une honetan ez
     .accesskey = n
+cfr-cbh-header = Baimendu { -brand-short-name }(r)i cookie iragarki-bandak ukatzea?
+cfr-cbh-body = { -brand-short-name }(e)k automatikoki uka ditzake cookie iragarki-bandetako eskaerak.
+cfr-cbh-confirm-button = Ukatu cookie iragarki-bandak
+    .accesskey = k
+cfr-cbh-dismiss-button = Une honetan ez
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Babesean zaitugu
 july-jam-body = Hilero, { -brand-short-name }(e)k batez beste 3.000 jarraipen-elementu blokeatzen ditu erabiltzaileko, internet onerako sarbide seguru eta azkarra emanez.
 july-jam-set-default-primary = Ireki nire loturak { -brand-short-name } erabiliz
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Zure PDFak orain { -brand-short-name }(e)n irekitzen dira.</strong> Editatu edo sinatu inprimakiak zuzenean nabigatzailetik. Aldatzeko, bilatu "PDF" ezarpenetan.
+set-default-pdf-handler-primary = Ulertuta
