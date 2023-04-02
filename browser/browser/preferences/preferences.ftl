@@ -73,6 +73,17 @@ restart-later = Berrabiarazi geroago
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hedapenak kontrolatzen du ezarpen hau.
@@ -120,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = Abisatu nabigatzailetik irtetean
 disable-extension =
     .label = Desgaitu hedapena
+preferences-data-migration-header = Inportatu nabigatzailearen datuak
+preferences-data-migration-description = Inportatu laster-markak, pasahitzak, historia eta osatze automatikoko datuak { -brand-short-name }(e)n.
+preferences-data-migration-button =
+    .label = Inportatu datuak
+    .accesskey = n
 tabs-group-header = Fitxak
 ctrl-tab-recently-used-order =
     .label = Ktrl+Tab konbinazioak fitxaz aldatzen du azkenekoz erabilitako ordenan
@@ -132,7 +148,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = B
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +171,10 @@ browser-containers-settings =
     .label = Ezarpenak…
     .accesskey = r
 containers-disable-alert-title = Itxi edukiontzi-fitxa gutziak?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Edukiontzi-fitxak orain desgaituz gero, edukiontzi-fitxa bat itxi egingo da. Ziur zaude edukiontzi-fitxak desgaitu nahi dituzula?
@@ -165,10 +185,13 @@ containers-disable-alert-ok-button =
         [one] Itxi edukiontzi-fitxa bat
        *[other] Itxi { $tabCount } edukiontzi-fitxa
     }
+
+##
+
 containers-disable-alert-cancel-button = Mantendu gaituta
 containers-remove-alert-title = Edukiontzi hau kendu?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Edukiontzi hau orain kenduz gero, edukiontzi-fitxa bat itxi egingo da. Ziur zaude edukiontzi hau kendu nahi duzula?
@@ -230,6 +253,8 @@ advanced-fonts =
 preferences-zoom-header = Zooma
 preferences-default-zoom = Zoom lehenetsia
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = %{ $percentage }
 preferences-zoom-text-only =
@@ -322,15 +347,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Galdetu beti
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Erabili { $plugin-name } ({ -brand-short-name }(e)n)
 applications-open-inapp =
@@ -373,6 +398,8 @@ play-drm-content =
 play-drm-content-learn-more = Argibide gehiago
 update-application-title = { -brand-short-name } eguneraketak
 update-application-description = Mantendu { -brand-short-name } eguneratuta errendimendu, egonkortasun eta segurtasun onena bermatzeko.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = { $version }bertsioa <a data-l10n-name="learn-more">Nobedadeak</a>
 update-history =
     .label = Erakutsi eguneraketen historia…
@@ -399,7 +426,7 @@ update-application-suppress-prompts =
     .accesskey = x
 update-setting-write-failure-title2 = Errorea eguneraketa-ezarpenak gordetzean
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +456,7 @@ performance-limit-content-process-option = Eduki-prozesuen muga
 performance-limit-content-process-enabled-desc = Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.
 performance-limit-content-process-blocked-desc = Edukien prozesu kopurua multiprozesu moduko { -brand-short-name }(r)ekin alda daiteke soilik. <a data-l10n-name="learn-more">Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (lehenetsia)
 
@@ -535,6 +562,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta
 home-prefs-recommended-by-description-new = { -brand-product-name } familiakide den { $provider }-eko taldeak hautatutako aparteko edukia.
@@ -564,6 +595,8 @@ home-prefs-recent-activity-description = Azken gune eta edukien hautapena
 home-prefs-snippets-header =
     .label = Mezu-zatiak
 home-prefs-snippets-description-new = { -vendor-short-name } eta { -brand-product-name }(r)en aholku eta albisteak
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +661,7 @@ search-find-more-link = Bilatu bilaketa-motor gehiago
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Bikoiztutako gako-hitza
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Aukeratu duzun gako-hitza dagoeneko "{ $name }"(e)k erabiltzen du. Aukeratu beste bat.
 search-keyword-warning-bookmark = Aukeratu duzun gako-hitza dagoeneko laster-marka batek erabiltzen du. Aukeratu beste bat.
 
@@ -675,8 +708,15 @@ sync-sign-out =
     .accesskey = A
 sync-manage-account = Kudeatu kontua
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ez dago egiaztatuta.
 sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
+
+##
+
 sync-resend-verification =
     .label = Birbidali egiaztapena
     .accesskey = B
@@ -890,8 +930,8 @@ history-clear-button =
 sitedata-header = Cookieak eta guneetako datuak
 sitedata-total-size-calculating = Gunearen datuen eta cachearen tamaina kalkulatzen…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Gordetako zure cookiek, gunearen datuek eta cacheak une honetan { $value } { $unit } hartzen dute diskoan.
 sitedata-learn-more = Argibide gehiago
 sitedata-delete-on-close =
@@ -931,6 +971,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Kudeatu salbuespenak…
     .accesskey = s
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Cookie iragarki-banden murrizpena
+cookie-banner-handling-description = Cookie iragarki-bandetako eskaerak automatikoki ukatzen saiatzen da { -brand-short-name }.
+cookie-banner-learn-more = Argibide gehiago
+forms-handle-cookie-banners =
+    .label = Murriztu cookie iragarki-bandak
 
 ## Privacy Section - Address Bar
 
@@ -1071,6 +1119,11 @@ permissions-microphone = Mikrofonoa
 permissions-microphone-settings =
     .label = Ezarpenak…
     .accesskey = E
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Bozgorailuaren hautapena
+permissions-speaker-settings =
+    .label = Ezarpenak…
+    .accesskey = z
 permissions-notification = Jakinarazpenak
 permissions-notification-settings =
     .label = Ezarpenak…
