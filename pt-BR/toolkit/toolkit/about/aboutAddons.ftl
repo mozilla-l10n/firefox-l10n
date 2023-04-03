@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Pesquisar
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Obtenha extensões e temas em <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Obtenha dicionários em <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Obtenha pacotes de idioma em <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Não há nenhuma extensão deste tipo instalada
 list-empty-available-updates =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Permissões de sites
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Permissões de sites de { $host }
 
 ## These are global warnings
@@ -224,6 +231,8 @@ shortcuts-duplicate-warning-message = { $shortcut } está sendo usado como atalh
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Já em uso por { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Mostrar mais { $numberToShow }
@@ -239,9 +248,9 @@ header-back-button =
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
     Extensões e temas são como aplicativos para seu navegador. Eles permitem
-    proteger senhas, baixar vídeos, encontrar ofertas, bloquear anúncios chatos,
+    proteger senhas, baixar vídeos, encontrar ofertas, bloquear anúncios,
     mudar a aparência do navegador e muito mais. Esses pequenos programas são
-    geralmente desenvolvidos por terceiros. Aqui está uma seleção que o { -brand-product-name }
+    geralmente desenvolvidos por terceiros. Veja uma seleção que o { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">recomenda</a> por suas excepcionais características de segurança, desempenho e funcionalidade.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
@@ -301,7 +310,7 @@ theme-colorways-button = Experimentar esquemas de cores
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Mudar esquema de cores
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Expira em { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Ativado
 plugin-disabled-heading = Desativado
@@ -387,6 +396,8 @@ addon-permissions-optional = Permissões opcionais para funcionalidades adiciona
 addon-permissions-learnmore = Saiba mais sobre permissões
 recommended-extensions-heading = Extensões recomendadas
 recommended-themes-heading = Temas recomendados
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Concede as seguintes capacidades e <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -413,8 +424,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } não é compatível com o { -brand-short-name } { $version }.
 details-notification-incompatible-link = Mais informações
 details-notification-unsigned-and-disabled = { $name } não pôde ser verificado para uso em { -brand-short-name } e foi desativado.
