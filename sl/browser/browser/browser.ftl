@@ -676,6 +676,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Vklopi/Izklopi sliko v sliki
 
 ## Full Screen and Pointer Lock UI
 
