@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = ເປີດໜ້າຕ່າງໃໝ່
+tabbrowser-empty-private-tab-title = ແທັບສ່ວນຕົວໃຫມ່
 tabbrowser-menuitem-close-tab =
     .label = ປິດແທັບ
 tabbrowser-menuitem-close =
@@ -43,14 +44,28 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = ປິດແຖບ { $tabCount } ບໍ?
 tabbrowser-confirm-close-tabs-button = ປິດແທັບ
+tabbrowser-confirm-close-tabs-checkbox = ຢືນຢັນກ່ອນທີ່ຈະປິດຫຼາຍແຖບ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = ປິດໜ້າຈໍ { $windowCount } ບໍ?
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-button = ອອກຈາກ { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = ຢືນຢັນກ່ອນທີ່ຈະເຊົາກັບ { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -66,6 +81,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = ເຕືອນຂ້ອຍເ�
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = ການເລື່ອນເບິງໂດຍໃຊ້ແປ້ນພິມ
 
 ##
 

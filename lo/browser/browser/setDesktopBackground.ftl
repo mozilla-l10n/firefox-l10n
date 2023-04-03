@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = ກຳນົດພາບພື້ນຫລັງເດສກ໌ທັອບ
 open-desktop-prefs =
     .label = ເປີດການຕັ້ງຄ່າເດສກ໌ທັອບ
+set-background-preview-unavailable = ບໍ່ສາມາດເບິ່ງຕົວຢ່າງໄດ້
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

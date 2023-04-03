@@ -11,6 +11,8 @@ protections-panel-sitefixedsendreport-label = ເວັບໄຊແກ້ໄຂ�
 
 protections-popup-footer-protection-label-strict = ເຂັ້ມງວດ
     .label = ເຂັ້ມງວດ
+protections-popup-footer-protection-label-standard = ​ມາດ​ຕະ​ຖານ
+    .label = ​ມາດ​ຕະ​ຖານ
 
 ##
 
