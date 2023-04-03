@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formulär
 protections-panel-site-not-working-view-issue-list-payments = Betalningar
 protections-panel-site-not-working-view-issue-list-comments = Kommentarer
 protections-panel-site-not-working-view-issue-list-videos = Videor
+protections-panel-site-not-working-view-issue-list-fonts = Teckensnitt
 protections-panel-site-not-working-view-send-report = Skicka in en rapport
 
 ##
