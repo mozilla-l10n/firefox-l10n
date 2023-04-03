@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = ამჟამად დასინქრონებულია:
+sync-syncing-across-devices-heading = ეს ერთეულები დასინქრონებული გაქვთ ყველა დაკავშირებულ მოწყობილობაში:
 sync-currently-syncing-bookmarks = სანიშნები
 sync-currently-syncing-history = ისტორია
 sync-currently-syncing-tabs = გახსნილი ჩანართები
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = ხ
     .buttonlabelextra2 = გამოთიშვა...
     .buttonaccesskeyextra2 = შ
+sync-choose-dialog-subtitle = დასინქრონებული ერთეულების სიაში ცვლილებები აისახება თქვენს ყველა დაკავშირებულ მოწყობილობაზე.
 sync-engine-bookmarks =
     .label = სანიშნები
     .accesskey = ს

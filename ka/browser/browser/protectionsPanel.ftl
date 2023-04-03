@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = შესავსე
 protections-panel-site-not-working-view-issue-list-payments = გადახდებზე
 protections-panel-site-not-working-view-issue-list-comments = გამოხმაურებებზე
 protections-panel-site-not-working-view-issue-list-videos = ვიდეოებზე
+protections-panel-site-not-working-view-issue-list-fonts = შრიფტები
 protections-panel-site-not-working-view-send-report = მოგვახსენეთ
 
 ##
