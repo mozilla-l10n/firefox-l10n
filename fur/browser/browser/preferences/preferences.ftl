@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = In chest moment tu stâs sincronizant chescj elements:
+sync-syncing-across-devices-heading = Tu stâs sincronizant chescj elements su ducj i dispositîfs conetûts:
 sync-currently-syncing-bookmarks = Segnelibris
 sync-currently-syncing-history = Cronologjie
 sync-currently-syncing-tabs = Schedis viertis
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconet…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Lis modifichis ae liste di elements di sincronizâ a vignaran rifletûts su ducj i tiei dispositîfs conetûts.
 sync-engine-bookmarks =
     .label = Segnelibris
     .accesskey = l
