@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = טפסים
 protections-panel-site-not-working-view-issue-list-payments = תשלומים
 protections-panel-site-not-working-view-issue-list-comments = תגובות
 protections-panel-site-not-working-view-issue-list-videos = סרטוני וידאו
+protections-panel-site-not-working-view-issue-list-fonts = גופנים
 protections-panel-site-not-working-view-send-report = שליחת דיווח
 
 ##
