@@ -64,6 +64,14 @@ about-glean-label-for-log-pings = (Facultatif. Cochez la case précédente si vo
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
 about-glean-label-for-controls-submit = Appuyez sur le bouton précédent pour marquer tous les pings { -glean-brand-name } avec votre étiquette et soumettre le ping sélectionné (tous les pings envoyés à partir de ce moment et jusqu’au redémarrage de l’application seront étiquetés avec <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Rendez-vous sur la page { glean-debug-ping-viewer-brand-name } pour consulter les pings avec votre étiquette</a>.
+    Le ping devrait arriver quelques secondes après avoir appuyé sur le bouton.
+    Parfois, cela peut prendre quelques minutes.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Pour plus de tests ponctuels, vous pouvez également déterminer la valeur actuelle d’un élément d’instrumentation particulier en ouvrant une console d’outils de développement ici sur <code>about:glean</code> et en utilisant l’API <code>testGetValue()</code>, par exemple
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Appliquer les paramètres et envoyer le ping
 about-glean-about-data-header = À propos des données
 about-glean-about-data-explanation = Pour visualiser la liste des données collectées, veuillez consulter le <a data-l10n-name="glean-dictionary-link">dictionnaire de { -glean-brand-name }</a>
