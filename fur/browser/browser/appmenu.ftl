@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Preconfigurazion conseade pe plui part dai debug des web-app, cun basse sorecjame.
 profiler-popup-presets-web-developer-label =
     .label = Svilupadôr web
@@ -196,7 +201,7 @@ appmenu-manage-history =
 appmenu-reopen-all-tabs = Torne vierç dutis lis schedis
 appmenu-reopen-all-windows = Torne vierç ducj i barcons
 appmenu-restore-session =
-    .label = Ripristine la session precedente
+    .label = Ripristine la session di prime
 appmenu-clear-history =
     .label = Nete la cronologjie resinte...
 appmenu-recent-history-subheader = Cronologjie resinte

@@ -7,9 +7,9 @@ restore-page-tab-title = Ripristine session
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Scuse, o ven fastidis cul ripristinament des pagjinis.
 restore-page-problem-desc = O ven vût problemis a ripristinâ la tô session di navigazion precedente. Selezione Ripristine session par tornâ a provâ.
-restore-page-try-this = No tu rivis ancjemò a ripristinâ la tô session? Cualchi volte une schede e cause chest probleme. Viôt lis schedis precedentis, gjave il segn des schedis che no ti covente recuperâ e dopo ripristine.
+restore-page-try-this = No tu rivis ancjemò a ripristinâ la tô session? Cualchi volte une schede e cause chest probleme. Viôt lis schedis di prime, gjave il segn des schedis che no ti covente recuperâ e dopo ripristine.
 restore-page-hide-tabs = Plate schedis precedentis
-restore-page-show-tabs = Viôt schedis precedentis
+restore-page-show-tabs = Viôt schedis di prime
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
