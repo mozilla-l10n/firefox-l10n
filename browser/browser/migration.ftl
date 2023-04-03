@@ -68,6 +68,8 @@ import-items-description = Izberite, kaj želite uvoziti:
 import-permissions-page-title = Dajte { -brand-short-name(sklon: "dajalnik") } dovoljenja
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS zahteva, da { -brand-short-name(sklon: "dajalnik") } izrecno dovolite odstop do Safarijevih zaznamkov. Kliknite "Continue" in na plošči "File Open", ki se pojavi, izberite datoteko "Bookmarks.plist".
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS zahteva, da { -brand-short-name(sklon: "dajalnik") } izrecno dovolite odstop do Safarijevih podatkov. Kliknite "Continue", v pogovornem oknu Finderja izberite mapo "Safari" in nato kliknite "Odpri".
 import-migrating-page-title = Uvoz ...
 import-migrating-description = Trenutno se uvaža ...
 import-select-profile-page-title = Izbira profila

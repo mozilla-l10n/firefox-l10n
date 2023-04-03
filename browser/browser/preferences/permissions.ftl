@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
 permissions-exceptions-etp-window =
     .title = Izjeme za izboljšano zaščito pred sledenjem
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Za ta spletna mesta ste izklopili zaščito.
 permissions-exceptions-etp-window2 =
     .title = Izjeme za izboljšano zaščito pred sledenjem
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Za ta spletna mesta ste izklopili zaščito.
 permissions-exceptions-manage-etp-desc = Določite, na katerih spletnih mestih je izboljšana zaščita pred sledenjem izklopljena. Vnesite točen naslov spletnega mesta in kliknite gumb Dodaj izjemo.
 
 ## Exceptions - Cookies
@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Naslednja spletna mesta so zahtevala dostop d
 permissions-site-microphone-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do mikrofona
 permissions-site-microphone-disable-desc = To bo preprečilo, da bi katero koli spletno mesto, ki ni navedeno zgoraj, zahtevalo dovoljenje za dostop do mikrofona. Blokiranje dostopa do mikrofona lahko povzroči nedelovanje nekaterih funkcij spletnega mesta.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Nastavitve – Dovoljenja zvočnikov
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Naslednja spletna mesta so hotela izbrati zvočno izhodno napravo. Določite lahko, katera spletna mesta lahko izberejo zvočno izhodno napravo.
