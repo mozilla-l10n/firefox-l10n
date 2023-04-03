@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = 양식
 protections-panel-site-not-working-view-issue-list-payments = 결제
 protections-panel-site-not-working-view-issue-list-comments = 댓글
 protections-panel-site-not-working-view-issue-list-videos = 동영상
+protections-panel-site-not-working-view-issue-list-fonts = 글꼴
 protections-panel-site-not-working-view-send-report = 보고서 보내기
 
 ##
