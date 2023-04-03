@@ -46,6 +46,10 @@ remote-node-picker-notice-action-touch = 검사기에서 요소를 선택하려�
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
 remote-node-picker-notice-hide-button = 숨기기
+# The text displayed in a toolbox notification message which is only displayed
+# if prefers-reduced-motion is enabled (via OS-level settings or by using the
+# ui.prefersReducedMotion=1 preference).
+simple-highlighters-message = prefers-reduced-motion이 활성화되면 깜박임을 피하기 위해 설정 패널에서 단순한 하이라이터를 활성화할 수 있습니다.
 # Text displayed in a button inside the "simple-highlighters-message" toolbox
 # notification. "Settings" here refers to the DevTools settings panel.
 simple-highlighters-settings-button = 설정 열기
