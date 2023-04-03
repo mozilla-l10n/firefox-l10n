@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Du synkroniserar för närvarande dessa objekt:
+sync-syncing-across-devices-heading = Du synkroniserar dessa objekt mellan alla dina anslutna enheter:
 sync-currently-syncing-bookmarks = Bokmärken
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Öppna flikar
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Koppla ner…
     .buttonaccesskeyextra2 = K
+sync-choose-dialog-subtitle = Ändringar i listan över objekt som ska synkroniseras kommer att återspeglas på alla dina anslutna enheter.
 sync-engine-bookmarks =
     .label = Bokmärken
     .accesskey = B
