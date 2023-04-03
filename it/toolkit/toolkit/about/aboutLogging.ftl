@@ -16,6 +16,8 @@
 
 -profiler-brand-name = Firefox Profiler
 
+##
+
 about-logging-title = Informazioni sui registri
 about-logging-page-title = Gestore registrazioni
 about-logging-current-log-file = File di log corrente:

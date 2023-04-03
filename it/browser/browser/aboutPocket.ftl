@@ -52,11 +52,13 @@ pocket-panel-signup-cta-b = Fai clic sul pulsante { -pocket-brand-name } per sal
 pocket-panel-signup-cta-b-updated = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link. Visualizza gli elementi salvati su qualsiasi dispositivo, in qualsiasi momento.
 pocket-panel-signup-cta-b-short = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link.
 pocket-panel-signup-cta-c = Visualizza il tuo elenco su qualsiasi dispositivo, in qualsiasi momento.
+
 pocket-panel-signup-cta-c-updated = Visualizza gli elementi salvati su qualsiasi dispositivo, in qualsiasi momento.
 
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = Il mio elenco
+
 pocket-panel-home-welcome-back = Bentornato
 pocket-panel-home-paragraph = Puoi utilizzare { -pocket-brand-name } per scoprire e salvare pagine web, articoli, video, podcast, o semplicemente riprendere quello che avevi iniziato a leggere.
 pocket-panel-home-explore-popular-topics = Esplora argomenti più popolari
@@ -71,6 +73,7 @@ pocket-panel-home-new-user-message = Controlla qui gli elementi salvati di recen
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Visualizza Il mio elenco
+
 pocket-panel-header-my-saves = Visualizza i miei salvataggi
 pocket-panel-header-sign-in = Accedi
 

@@ -100,10 +100,11 @@ permissions-exceptions-etp-window =
     .title = Eccezioni per protezione antitracciamento avanzata
     .style = { permissions-window.style }
 
+permissions-exceptions-etp-desc = La protezione è stata disattivata per i seguenti siti web.
+
 permissions-exceptions-etp-window2 =
     .title = Eccezioni per protezione antitracciamento avanzata
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = La protezione è stata disattivata per i seguenti siti web.
 permissions-exceptions-manage-etp-desc = È possibile specificare per quali siti web la protezione antitracciamento avanzata sarà disattivata. Inserire l’indirizzo esatto del sito web da gestire e fare clic su Aggiungi eccezione.
 
 ## Exceptions - Cookies

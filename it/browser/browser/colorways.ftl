@@ -4,11 +4,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Voci indipendenti
-colorway-collection-independent-voices-description = I colori possono cambiare la società. Le nostre ultime tonalità celebrano voci che contribuiscono a rendere il mondo un posto migliore.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Colori che cambiano la società.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Regista

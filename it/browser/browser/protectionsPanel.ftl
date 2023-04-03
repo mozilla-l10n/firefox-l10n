@@ -76,6 +76,7 @@ protections-panel-site-not-working-view-issue-list-forms = Moduli
 protections-panel-site-not-working-view-issue-list-payments = Pagamenti
 protections-panel-site-not-working-view-issue-list-comments = Commenti
 protections-panel-site-not-working-view-issue-list-videos = Video
+
 protections-panel-site-not-working-view-issue-list-fonts = Caratteri
 
 protections-panel-site-not-working-view-send-report = Invia una segnalazione
@@ -117,6 +118,7 @@ protections-panel-cookie-banner-handling-header = Riduzione banner per i cookie
 protections-panel-cookie-banner-handling-enabled = Attiva per questo sito
 protections-panel-cookie-banner-handling-disabled = Disattivata per questo sito
 protections-panel-cookie-banner-handling-undetected = Sito attualmente non supportato
+
 protections-panel-cookie-banner-view-title =
   .title = Riduzione banner per i cookie
 protections-panel-cookie-banner-view-go-back =

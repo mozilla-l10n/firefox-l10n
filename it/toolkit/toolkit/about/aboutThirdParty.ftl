@@ -36,6 +36,7 @@ third-party-unsigned-icon =
     .title = Questo modulo non è firmato.
 third-party-warning-icon =
     .title = { -brand-short-name } si è arrestato in modo anomalo eseguendo codice in questo modulo
+
 third-party-icon-unsigned =
     .alt = Questo modulo non è firmato.
     .title = Questo modulo non è firmato.

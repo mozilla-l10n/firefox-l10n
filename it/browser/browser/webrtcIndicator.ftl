@@ -15,6 +15,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Indicatore condivisione
+
 webrtc-indicator-window =
     .title = { -brand-short-name } – Indicatore condivisione
 
@@ -32,6 +33,7 @@ webrtc-item-browser = scheda
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Origine sconosciuta
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -40,6 +42,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Schede che condividono dispositivi
     .accesskey = S
+
 webrtc-sharing-window = Stai condividendo la finestra di un’altra applicazione.
 webrtc-sharing-browser-window = Stai condividendo { -brand-short-name }.
 webrtc-sharing-screen = Stai condividendo l’intero schermo.
@@ -96,6 +99,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Gestisci condivisione
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Gestisci condivisione con “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Fotocamera condivisa con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -104,6 +108,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Fotocamera condivisa con { $tabCount } scheda
            *[other] Fotocamera condivisa con { $tabCount } schede
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Microfono condiviso con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -112,6 +117,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Microfono condiviso con { $tabCount } scheda
            *[other] Microfono condiviso con { $tabCount } schede
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Applicazione condivisa con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,6 +126,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Applicazione condivisa con { $tabCount } scheda
            *[other] Applicazione condivisa con { $tabCount } schede
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Schermo condiviso con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -128,6 +135,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Schermo condiviso con { $tabCount } scheda
            *[other] Schermo condiviso con { $tabCount } schede
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Finestra condivisa con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -136,6 +144,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Finestra condivisa con { $tabCount } scheda
            *[other] Finestra condivisa con { $tabCount } schede
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Scheda condivisa con “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -182,6 +191,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Consentire a { $
 
 webrtc-share-screen-warning = Condividere lo schermo solo con siti affidabili. La condivisione può consentire a siti ingannevoli di navigare impersonando l’utente e sottrarne i dati personali.
 webrtc-share-browser-warning = Condividere { -brand-short-name } solo con siti affidabili. La condivisione può consentire a siti ingannevoli di navigare impersonando l’utente e sottrarne i dati personali.
+
 webrtc-share-screen-learn-more = Ulteriori informazioni
 webrtc-pick-window-or-screen = Scegli finestra o schermo
 webrtc-share-entire-screen = Schermo intero
@@ -217,6 +227,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Ricorda questa scelta
 webrtc-mute-notifications-checkbox = Disattiva notifiche dai siti web durante la condivisione
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } non è in grado di consentire accesso in modo permanente allo schermo.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } non è in grado di consentire accesso in modo permanente all’audio della scheda senza chiedere quale scheda condividere.
 webrtc-reason-for-no-permanent-allow-insecure = La connessione con il sito non è sicura. Per motivi di sicurezza { -brand-short-name } consentirà l’accesso solo per questa sessione.

@@ -11,11 +11,16 @@ search-header =
 search-header-shortcut =
     .key = f
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare estensioni e temi
 
 list-empty-get-dictionaries-message = Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare dizionari
 
 list-empty-get-language-packs-message = Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare pacchetti per la lingua
+
+##
 
 list-empty-installed =
     .value = Non risulta installato alcun componente aggiuntivo di questo tipo
@@ -187,6 +192,7 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Permessi siti
 addon-category-sitepermission-title =
     .title = Permessi siti
+
 # String displayed in about:addons in the Site Permissions section
 # Variables:
 #  $host (string): DNS host name for which the webextension enables permissions
@@ -464,6 +470,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

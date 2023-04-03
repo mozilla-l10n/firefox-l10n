@@ -12,11 +12,6 @@ tag-pings-label = Assegna questa etichetta a tutti i ping inviati
 log-pings-label = Registrare nel log il payload del ping prima dell’invio?
 send-pings-label = Invia ping denominato
 controls-button-label = Salva impostazioni
-controls-button-label-verbose = Applica impostazioni e invia ping
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
@@ -83,6 +78,13 @@ about-glean-li-for-visit-gdpv =
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
   Per effettuare test più specifici è possibile determinare il valore corrente di uno specifico elemento della strumentazione aprendo la console degli strumenti di sviluppo in <code>about:glean</code> e utilizzando API <code>testGetValue()</code>, come ad esempio <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
+controls-button-label-verbose = Applica impostazioni e invia ping
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-glean-about-data-header = Informazioni sui dati
 about-glean-about-data-explanation =
