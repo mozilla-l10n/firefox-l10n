@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = כרגע בסנכרון הפריטים הבאים:
+sync-syncing-across-devices-heading = הפריטים הבאים מסונכרנים על פני כל המכשירים המחוברים שלך:
 sync-currently-syncing-bookmarks = סימניות
 sync-currently-syncing-history = היסטוריה
 sync-currently-syncing-tabs = לשוניות פתוחות
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = ש
     .buttonlabelextra2 = התנתקות…
     .buttonaccesskeyextra2 = ה
+sync-choose-dialog-subtitle = שינויים לרשימת הפריטים לסנכרון יבואו לידי ביטוי בכל המכשירים המחוברים שלך.
 sync-engine-bookmarks =
     .label = סימניות
     .accesskey = ס
