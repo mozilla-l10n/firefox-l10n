@@ -72,6 +72,7 @@ neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ur yezmir 
 neterror-dns-not-found-native-fallback-attackers = Tzemreḍ ad tkemmleḍ s umefru DNS ur nelli ara d aɣellsan. Maca, aḥric wis kraḍ yezmer ad iwali ismal iɣer trezzuḍ neɣ ad k-m-yazen ɣer usmel ideg ulac laman.
 neterror-dns-not-found-native-fallback-heuristic = DNS s HTTPS tensa deg uẓeṭṭa-inek•inem.
 neterror-dns-not-found-native-fallback-not-confirmed = Tuqqna ɣer { $trrDomain } ur tewwid ara ɛad.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ur yessaweḍ ara ad yeqqen ɣer { $trrDomain }.
 
 ##
 
