@@ -747,6 +747,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Вы зараз сінхранізуеце гэтыя элементы:
+sync-syncing-across-devices-heading = Вы сінхранізуеце гэтыя рэчы на ўсіх сваіх падлучаных прыладах:
 sync-currently-syncing-bookmarks = Закладкі
 sync-currently-syncing-history = Гісторыю
 sync-currently-syncing-tabs = Адкрытыя карткі
@@ -775,6 +776,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = ы
     .buttonlabelextra2 = Адлучыць…
     .buttonaccesskeyextra2 = А
+sync-choose-dialog-subtitle = Змены ў спісе элементаў для сінхранізацыі будуць адлюстраваны на ўсіх вашых падлучаных прыладах.
 sync-engine-bookmarks =
     .label = Закладкі
     .accesskey = З
