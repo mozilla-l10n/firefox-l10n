@@ -21,7 +21,7 @@ firefoxview-tabpickup-description = Abra páginas de outros dispositivos.
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% concluído
 firefoxview-tabpickup-step-signin-header = Passe facilmente de um dispositivo para outro
-firefoxview-tabpickup-step-signin-description = Para abrir aqui as abas no seu celular, primeiro entre na sua conta ou crie uma.
+firefoxview-tabpickup-step-signin-description = Para abrir aqui as abas do seu celular, primeiro entre na sua conta ou crie uma.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-tabpickup-adddevice-header = Sincronize o { -brand-product-name } em seu celular ou tablet
 firefoxview-tabpickup-adddevice-description = Instale o { -brand-product-name } para dispositivos móveis e entre na sua conta.
@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Última ativa
 firefoxview-tabs-list-tab-button =
     .title = Abrir { $targetURI } em nova aba
 firefoxview-try-colorways-button = Experimentar esquemas de cores
-firefoxview-no-current-colorway-collection = Estão chegando novos esquemas de cores
 firefoxview-change-colorway-button = Mudar esquema de cores
 # Variables:
 #  $intensity (String): Colorway intensity
