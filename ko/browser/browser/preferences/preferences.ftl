@@ -727,6 +727,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = 현재 다음 항목을 동기화 중입니다:
+sync-syncing-across-devices-heading = 연결된 모든 기기에서 다음 항목을 동기화하고 있습니다:
 sync-currently-syncing-bookmarks = 북마크
 sync-currently-syncing-history = 기록
 sync-currently-syncing-tabs = 열린 탭
@@ -755,6 +756,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = 연결 끊기…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = 동기화할 항목 목록에 대한 변경 사항은 연결된 모든 기기에 반영됩니다.
 sync-engine-bookmarks =
     .label = 북마크
     .accesskey = m
