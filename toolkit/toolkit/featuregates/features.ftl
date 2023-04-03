@@ -29,7 +29,7 @@ experimental-features-devtools-compatibility-panel-description = საიტი
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = ფუნთუშები: SameSite=Lax ნაგულისხმევად
-experimental-features-cookie-samesite-lax-by-default2-description = განესაზღვროს ფუნთუშებს „SameSite=Lax“ ნაგულისხმევად თუ არცერთი „SameSite” თვისება არაა მინიჭებული. შემმუშავებლებს თუ სურთ არსებული შეუზღუდავი გამოყენების შენარჩუნება, მკაცრად უნდა მიუთითონ „SameSite=None“.
+experimental-features-cookie-samesite-lax-by-default2-description = განესაზღვროს ფუნთუშებს „SameSite=Lax“ ნაგულისხმევად თუ მინიჭებული არ აქვს თვისება „SameSite”. შემმუშავებლებს თუ სურთ არსებული შეუზღუდავი გამოყენების შენარჩუნება, მკაცრად უნდა მიუთითონ „SameSite=None“.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = ფუნთუშები: SameSite=none საჭიროებს დაცულ თვისებას
