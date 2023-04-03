@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Формамі
 protections-panel-site-not-working-view-issue-list-payments = Плацяжамі
 protections-panel-site-not-working-view-issue-list-comments = Каментарыі
 protections-panel-site-not-working-view-issue-list-videos = Відэа
+protections-panel-site-not-working-view-issue-list-fonts = Шрыфты
 protections-panel-site-not-working-view-send-report = Даслаць справаздачу
 
 ##
