@@ -4,19 +4,18 @@
 
 tabbrowser-empty-tab-title = Nuova scheda
 tabbrowser-empty-private-tab-title = Nuova scheda anonima
+
 tabbrowser-menuitem-close-tab =
     .label = Chiudi scheda
 tabbrowser-menuitem-close =
     .label = Chiudi
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } – { $containerName }
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -121,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Non visualizzare questo avviso in fu
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Consenti a notifiche da { $domain } come questa di portarti alla relativa scheda
+
 tabbrowser-customizemode-tab-title = Personalizza { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time

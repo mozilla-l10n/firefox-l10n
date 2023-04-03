@@ -88,6 +88,8 @@ policy-DisableSystemAddonUpdate = Impedisci al browser di installare e aggiornar
 
 policy-DisableTelemetry = Disattiva telemetria.
 
+policy-DisableThirdPartyModuleBlocking = Impedisci all’utente di bloccare moduli di terze parti che vengono inseriti nel processo di { -brand-short-name }.
+
 policy-DisplayBookmarksToolbar = Visualizza la barra dei segnalibri per impostazione predefinita.
 
 policy-DisplayMenuBar = Visualizza la barra dei menu per impostazione predefinita.
@@ -195,8 +197,6 @@ policy-SSLVersionMax = Imposta la versione massima di SSL.
 policy-SSLVersionMin = Imposta la versione minima di SSL.
 
 policy-StartDownloadsInTempDirectory = Forza l’avvio dei download in una cartella temporanea locale invece della cartella predefinita per i download.
-
-policy-DisableThirdPartyModuleBlocking = Impedisci all’utente di bloccare moduli di terze parti che vengono inseriti nel processo di { -brand-short-name }.
 
 policy-SupportMenu = Aggiungi una voce di menu personalizzata nel menu Aiuto.
 

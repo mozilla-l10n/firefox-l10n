@@ -14,13 +14,15 @@ about-logins-page-title = Credenziali e password
 login-filter =
     .placeholder = Cerca nelle credenziali
 
+create-login-button = Inserisci nuove credenziali
+
 about-logins-login-filter =
    .placeholder = Cerca nelle credenziali
    .key = F
 
-create-login-button = Inserisci nuove credenziali
 create-new-login-button =
   .title = Inserisci nuove credenziali
+
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
 fxaccounts-sign-in-sync-button = Accedi per sincronizzare
 fxaccounts-avatar-button =
@@ -182,6 +184,9 @@ about-logins-confirm-remove-dialog-title = Rimuovere queste credenziali?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
 about-logins-confirm-remove-dialog-confirm-button = Rimuovi
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
   { $count ->
      [1] Rimuovi
@@ -205,6 +210,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
   }
 
 about-logins-confirm-remove-all-sync-dialog-message = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con l’{ -fxaccount-brand-name }. Anche i relativi avvisi sulle violazioni verranno rimossi. Non sarà possibile annullare questa operazione.
+
+##
 
 about-logins-confirm-export-dialog-title = Esportazione credenziali e password
 about-logins-confirm-export-dialog-message = Le password verranno salvate come testo leggibile (ad esempio “Password123”). Chiunque abbia accesso al file esportato potrà vederle.

@@ -13,6 +13,7 @@ experimental-features-css-masonry-description = Attiva il supporto per la funzio
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Questa nuova API fornisce supporto di basso livello per l’esecuzione di calcolo e rendering grafico utilizzando l’<a data-l10n-name="wikipedia">unità di elaborazione grafica (GPU)</a> del dispositivo o del computer dell’utente. Le <a data-l10n-name="spec">specifiche</a> non sono ancora definitive. Consultare il <a data-l10n-name="bugzilla">bug 1602129</a> per ulteriori dettagli.
+
 experimental-features-web-gpu-description3 = Questa nuova API fornisce supporto di basso livello per l’esecuzione di calcolo e rendering grafico utilizzando l’<a data-l10n-name="wikipedia">unità di elaborazione grafica (GPU)</a> del dispositivo o del computer dell’utente. La prima versione delle <a data-l10n-name="spec">specifiche</a> è in fase di finalizzazione. Consultare il <a data-l10n-name="bugzilla">bug 1616739</a> per ulteriori dettagli.
 
 experimental-features-media-jxl =
@@ -34,6 +35,7 @@ experimental-features-devtools-compatibility-panel-description = Un pannello lat
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=Lax predefinito
 experimental-features-cookie-samesite-lax-by-default2-description = Gestisci i cookie come “SameSite=Lax” per impostazione predefinita se non viene specificato alcun attributo “SameSite”. Gli sviluppatori devono utilizzare esplicitamente “SameSite=None” per ripristinare il funzionamento attuale che non prevede alcuna limitazione d’uso.
+
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.

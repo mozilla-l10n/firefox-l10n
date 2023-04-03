@@ -4,6 +4,7 @@
 
 about-reader-loading = Caricamento in corso…
 about-reader-load-error = Non è stato possibile estrarre il testo dell’articolo dalla pagina
+
 about-reader-color-scheme-light = Chiaro
     .title = Combinazione colori chiara
 about-reader-color-scheme-dark = Scuro
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Seppia
     .title = Combinazione colori seppia
 about-reader-color-scheme-auto = Automatico
     .title = Combinazione colori automatica
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -30,9 +30,11 @@ menu-application-touch-bar =
 menu-quit =
     .label = Esci
     .accesskey = E
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Esci da { -brand-shorter-name }
+
 menu-about =
     .label = Informazioni su { -brand-shorter-name }
     .accesskey = I
