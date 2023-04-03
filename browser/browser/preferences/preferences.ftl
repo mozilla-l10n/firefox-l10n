@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = You are currently synchronising these items:
+sync-syncing-across-devices-heading = You are synchronising these items across all your connected devices:
 sync-currently-syncing-bookmarks = Bookmarks
 sync-currently-syncing-history = History
 sync-currently-syncing-tabs = Open tabs
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnect…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Changes to the list of items to synchronise will be reflected across all your connected devices.
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
