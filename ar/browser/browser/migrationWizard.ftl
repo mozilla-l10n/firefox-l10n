@@ -7,6 +7,8 @@
 # name string should have a key with "migration-wizard-migrator-display-name-"
 # as a prefix followed by the unique identification key for the migrator.
 
+migration-wizard-migrator-display-name-chrome = كروم
+migration-wizard-migrator-display-name-ie = ميكروسوفت إنترنت إكسبلورر
 migration-wizard-migrator-display-name-safari = سافاري
 
 ## These strings will be displayed based on how many resources are selected to import
