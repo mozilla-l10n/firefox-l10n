@@ -11,6 +11,7 @@ migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = کروم کینری
 migration-wizard-migrator-display-name-chrome = Chrome
 migration-wizard-migrator-display-name-chrome-beta = Chrome Beta
+migration-wizard-migrator-display-name-chrome-dev = Chrome ڈیو
 migration-wizard-migrator-display-name-chromium = کرومیم
 migration-wizard-migrator-display-name-chromium-360se = 360 قابل بھروسا براؤزر
 migration-wizard-migrator-display-name-chromium-edge = مائیکروسافٹ عیدج
