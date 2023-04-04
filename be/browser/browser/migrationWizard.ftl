@@ -78,3 +78,4 @@ migration-safari-password-import-header = Імпартаваць паролі з
 migration-safari-password-import-skip-button = Прапусціць
 migration-safari-password-import-select-button = Выбраць файл
 migration-wizard-progress-success-formdata = Гісторыя формаў
+migration-wizard-safari-select-button = Выбраць файл
