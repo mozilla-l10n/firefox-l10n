@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Impuarte dâts dal navigadôr
+migration-wizard-selection-list = Selezione i dâts che tu desideris impuartâ.
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -26,9 +43,23 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Impuarte ducj i dâts disponibii
+migration-no-selected-data-label = Nissun dât selezionât pe importazion
+migration-selected-data-label = Impuarte i dâts selezionâts
 
 ##
 
+migration-select-all-option-label = Selezione dut
+migration-bookmarks-option-label = Segnelibris
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Preferîts
+migration-logins-and-passwords-option-label = Credenziâls e passwords salvadis
+migration-history-option-label = Cronologjie di navigazion
+migration-form-autofill-option-label = Dâts pe compilazion automatiche dai formularis
+migration-import-button-label = Impuarte
+migration-cancel-button-label = Anule
+migration-done-button-label = Fat
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
