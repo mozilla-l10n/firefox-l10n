@@ -9,6 +9,8 @@
 
 migration-wizard-migrator-display-name-chrome-beta = Chrome Beta
 migration-wizard-migrator-display-name-chrome-dev = Chrome Dev
+migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
+migration-wizard-migrator-display-name-safari = Safari
 
 ## These strings will be displayed based on how many resources are selected to import
 
