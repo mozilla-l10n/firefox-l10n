@@ -22,6 +22,7 @@ migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
 migration-wizard-migrator-display-name-safari = Safari
+migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
