@@ -8,6 +8,7 @@
 # as a prefix followed by the unique identification key for the migrator.
 
 migration-wizard-migrator-display-name-canary = ക്രോം കാനറി
+migration-wizard-migrator-display-name-chrome = ക്രോം
 migration-wizard-migrator-display-name-chromium = ക്രോമിയം
 migration-wizard-migrator-display-name-chromium-360se = 360 സെക്യുവര്‍ ബ്രൌസര്‍
 migration-wizard-migrator-display-name-chromium-edge = മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ്
