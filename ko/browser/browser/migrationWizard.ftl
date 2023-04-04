@@ -61,6 +61,7 @@ migration-import-button-label = 가져오기
 migration-cancel-button-label = 취소
 migration-done-button-label = 완료
 migration-wizard-import-browser-no-browsers = { -brand-short-name }는 북마크, 기록 또는 비밀번호 데이터가 포함된 프로그램을 찾을 수 없습니다.
+migration-wizard-import-browser-no-resources = 오류가 발생했습니다. { -brand-short-name }는 해당 브라우저 프로필에서 가져올 데이터를 찾을 수 없습니다.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -86,3 +87,40 @@ migration-wizard-progress-icon-completed =
     .aria-label = 완료
 migration-safari-password-import-header = Safari에서 비밀번호 가져오기
 migration-safari-password-import-steps-header = Safari 비밀번호를 가져오려면:
+migration-safari-password-import-step1 = Safari에서 "Safari" 메뉴를 열고 설정 > 비밀번호로 이동하세요
+migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> 버튼을 선택하고 "모든 비밀번호 내보내기"를 선택하세요
+migration-safari-password-import-step3 = 비밀번호 파일을 저장하세요
+migration-safari-password-import-step4 = 아래의 "파일 선택"을 사용하여 저장한 비밀번호 파일을 선택하세요.
+migration-safari-password-import-skip-button = 건너뛰기
+migration-safari-password-import-select-button = 파일 선택
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks = { $quantity } 북마크
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites = { $quantity } 즐겨찾기
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords = { $quantity } 비밀번호
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history = 지난 { $maxAgeInDays }일부터
+migration-wizard-progress-success-formdata = 양식 기록
+migration-wizard-safari-permissions-sub-header = Safari 북마크 및 방문 기록을 가져오려면:
+migration-wizard-safari-instructions-continue = "계속"을 선택하세요
+migration-wizard-safari-instructions-folder = 목록에서 Safari 폴더를 선택하고 "열기"를 선택하세요
+migration-wizard-safari-select-button = 파일 선택
