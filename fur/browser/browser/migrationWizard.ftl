@@ -103,3 +103,40 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } segnlibri
        *[other] { $quantity } segnelibris
     }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } preferît
+       *[other] { $quantity } preferîts
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } password
+       *[other] { $quantity } passwords
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Dal ultin dì
+       *[other] Dai ultins { $maxAgeInDays } dîs
+    }
+migration-wizard-progress-success-formdata = Cronologjie formularis
+migration-wizard-safari-permissions-sub-header = Par impuartâ i segnelibris di Safari e la cronologjie di navigazion:
+migration-wizard-safari-instructions-continue = Selezione “Continue”
+migration-wizard-safari-instructions-folder = Selezione la cartele Safari te liste e sielç “Vierç”
+migration-wizard-safari-select-button = Selezione file

@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Fâs clic e strissine par modificâ i valôrs de dimension
 options-inspector-draggable-properties-tooltip =
     .title = Fâs clic e strissine par modificâ i valôrs de dimension inte viodude des regulis dal ispetôr.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Dopre evidenziadôrs plui sempliçs cun prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Al ative i evidenziadôrs semplificâts cuant che  prefers-reduced-motion al è atîf. Al dissegne liniis al puest di retangui jemplâts tor ator dai elements evidenziâts par evitâ efiets di lampament.
 
 ## "Default Color Unit" options for the Inspector
 
