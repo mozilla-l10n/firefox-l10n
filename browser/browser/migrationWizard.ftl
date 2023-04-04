@@ -12,6 +12,7 @@ migration-wizard-migrator-display-name-chrome = ക്രോം
 migration-wizard-migrator-display-name-chromium = ക്രോമിയം
 migration-wizard-migrator-display-name-chromium-360se = 360 സെക്യുവര്‍ ബ്രൌസര്‍
 migration-wizard-migrator-display-name-chromium-edge = മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ്
+migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = മൈക്രൊസോഫ്റ്റ്‌ ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍
 migration-wizard-migrator-display-name-safari = സഫാരി
 
