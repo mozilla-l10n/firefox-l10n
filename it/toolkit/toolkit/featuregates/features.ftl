@@ -14,7 +14,7 @@ experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Questa nuova API fornisce supporto di basso livello per l’esecuzione di calcolo e rendering grafico utilizzando l’<a data-l10n-name="wikipedia">unità di elaborazione grafica (GPU)</a> del dispositivo o del computer dell’utente. Le <a data-l10n-name="spec">specifiche</a> non sono ancora definitive. Consultare il <a data-l10n-name="bugzilla">bug 1602129</a> per ulteriori dettagli.
 
-experimental-features-web-gpu-description3 = Questa nuova API fornisce supporto di basso livello per l’esecuzione di calcolo e rendering grafico utilizzando l’<a data-l10n-name="wikipedia">unità di elaborazione grafica (GPU)</a> del dispositivo o del computer dell’utente. La prima versione delle <a data-l10n-name="spec">specifiche</a> è in fase di finalizzazione. Consultare il <a data-l10n-name="bugzilla">bug 1616739</a> per ulteriori dettagli.
+experimental-features-web-gpu-description3 = L’<a data-l10n-name="wikipedia-webgpu">API WebGPU</a> fornisce supporto di basso livello per l’esecuzione di calcolo e rendering grafico utilizzando l’<a data-l10n-name="wikipedia-gpu">unità di elaborazione grafica (GPU)</a> del dispositivo o del computer dell’utente. La prima versione delle <a data-l10n-name="spec">specifiche</a> è in fase di finalizzazione. Consultare il <a data-l10n-name="bugzilla">bug 1616739</a> per ulteriori dettagli.
 
 experimental-features-media-jxl =
     .label = Media: JPEG XL
