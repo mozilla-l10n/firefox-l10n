@@ -12,7 +12,7 @@ experimental-features-css-masonry-description = 開啟實驗中的 CSS 瀑布流
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = 這組新的 API 針對使用裝置或電腦上的<a data-l10n-name="wikipedia">圖形處理單元</a>進行計算與繪圖提供了底層支援。<a data-l10n-name="spec">標準規格</a>仍在規劃中。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1602129</a>。
-experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> 針對使用裝置或電腦上的<a data-l10n-name="wikipedia">圖形處理單元</a>進行計算與繪圖提供了底層支援。初版<a data-l10n-name="spec">規格</a>即將完成。若需更多資訊，請參考<a data-l10n-name="bugzilla">bug 1616739</a>。
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> 針對使用裝置或電腦上的<a data-l10n-name="wikipedia-gpu">圖形處理單元</a>進行計算與繪圖提供了底層支援。初版<a data-l10n-name="spec">規格</a>即將完成。若需更多資訊，請參考<a data-l10n-name="bugzilla">bug 1616739</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
