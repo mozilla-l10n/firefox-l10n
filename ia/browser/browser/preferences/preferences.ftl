@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Tu synchronisa actualmente iste elementos:
+sync-syncing-across-devices-heading = Tu synchronisa iste elementos inter tote tu apparatos connexe:
 sync-currently-syncing-bookmarks = Marcapaginas
 sync-currently-syncing-history = Chronologia
 sync-currently-syncing-tabs = Schedas aperte
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnecter…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Le cambios al lista del elementos a synchronisar se reflectera inter tote tu apparatos connexe.
 sync-engine-bookmarks =
     .label = Marcapaginas
     .accesskey = m
