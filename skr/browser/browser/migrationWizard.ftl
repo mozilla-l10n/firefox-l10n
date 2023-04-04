@@ -20,6 +20,7 @@ migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = Microsoft انٹرنیٹ ایکسپلورر
 migration-wizard-migrator-display-name-opera = اوپیرا
+migration-wizard-migrator-display-name-opera-gx = اوپرا جی ایکس
 migration-wizard-migrator-display-name-safari = سفاری
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
