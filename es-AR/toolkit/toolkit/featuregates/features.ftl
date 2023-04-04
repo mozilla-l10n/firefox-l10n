@@ -12,6 +12,7 @@ experimental-features-css-masonry-description = Habilita la compatibilidad con l
 experimental-features-web-gpu2 =
     .label = API web: WebGPU
 experimental-features-web-gpu-description2 = Esta nueva API proporciona soporte de bajo nivel para realizar computación y renderizado de gráficos usando la <a data-l10n-name="wikipedia">Unidad de procesamiento de gráficos (GPU)</a> del dispositivo o computadora del usuario. La <a data-l10n-name="spec">especificación</a> es un trabajo en progreso. Consultá el <a data-l10n-name="bugzilla">bug 1602129</a> para obtener más detalles.
+experimental-features-web-gpu-description3 = La <a data-l10n-name="wikipedia-webgpu">API WebGPU</a> proporciona soporte de bajo nivel para realizar computación y renderizado de gráficos usando la <a data-l10n-name="wikipedia-gpu">unidad de procesamiento de gráficos (GPU)</a> del dispositivo o computadora del usuario. La primera versión de la <a data-l10n-name="spec">especificación</a> está cerca de finalizar. Consultá el <a data-l10n-name="bugzilla">bug 1616739</a> para más detalles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
