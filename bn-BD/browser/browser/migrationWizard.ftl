@@ -7,7 +7,14 @@
 # name string should have a key with "migration-wizard-migrator-display-name-"
 # as a prefix followed by the unique identification key for the migrator.
 
+migration-wizard-migrator-display-name-canary = ক্রোম ক্যানারি
 migration-wizard-migrator-display-name-chrome = ক্রোম C
+migration-wizard-migrator-display-name-chromium = ক্রোমিয়াম
+migration-wizard-migrator-display-name-chromium-360se = 360 নিরাপদ ব্রাউজার
+migration-wizard-migrator-display-name-chromium-edge = মাইক্রোসফট Edge
+migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-ie = মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার
+migration-wizard-migrator-display-name-safari = সাফারি
 
 ## These strings will be displayed based on how many resources are selected to import
 
