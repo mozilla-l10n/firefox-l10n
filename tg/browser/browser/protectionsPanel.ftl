@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Шаклҳо
 protections-panel-site-not-working-view-issue-list-payments = Прадохтҳо
 protections-panel-site-not-working-view-issue-list-comments = Шарҳҳо
 protections-panel-site-not-working-view-issue-list-videos = Видеоҳо
+protections-panel-site-not-working-view-issue-list-fonts = Ҳуруф
 protections-panel-site-not-working-view-send-report = Фиристодани гузориш
 
 ##
