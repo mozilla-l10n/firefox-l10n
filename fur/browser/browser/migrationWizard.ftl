@@ -60,6 +60,8 @@ migration-form-autofill-option-label = Dâts pe compilazion automatiche dai form
 migration-import-button-label = Impuarte
 migration-cancel-button-label = Anule
 migration-done-button-label = Fat
+migration-wizard-import-browser-no-browsers = { -brand-short-name } nol è rivât a cjatâ nissun program che al contegni segnelibris, cronologjiis o passwords.
+migration-wizard-import-browser-no-resources = Al è vignût fûr un erôr. { -brand-short-name } nol rive a cjatâ nissun dât di impuartâ di chel profîl dal navigadôr.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -67,6 +69,37 @@ migration-done-button-label = Fat
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = segnelibris
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = preferîts
+migration-list-password-label = passwords
+migration-list-history-label = cronologjie
+migration-list-autofill-label = dâts pe auto-compilazion
 
 ##
 
+migration-wizard-progress-header = Importazion dâts
+migration-wizard-progress-done-header = Dâts impuartâts cun sucès
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Daûr a impuartâ…
+migration-wizard-progress-icon-completed =
+    .aria-label = Completade
+migration-safari-password-import-header = Importazion passwords di Safari
+migration-safari-password-import-steps-header = Par impuartâ lis passwords di Safari:
+migration-safari-password-import-step1 = In Safari, vierç il menù “Safari” e va in Preferencis > Passwords
+migration-safari-password-import-step2 = Selezione il boton <img data-l10n-name="safari-icon-3dots"/> e sielç “Espuarte dutis lis passwords”
+migration-safari-password-import-step3 = Salve il file des passwords
+migration-safari-password-import-step4 = Dopre “Selezione file” chi sot par sielzi il file des passwords che tu âs salvât
+migration-safari-password-import-skip-button = Salte
+migration-safari-password-import-select-button = Selezione file
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } segnlibri
+       *[other] { $quantity } segnelibris
+    }
