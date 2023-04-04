@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } anekcum
        *[other] { $count } inekcam
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } seg { $total } unekcum
+       *[other] { $count } seg { $total } inekcam
+    }
 login-list-sort-label-text = Smizzwer s:
 login-list-name-option = Isem (A-Z)
 login-list-name-reverse-option = Isem (Z-A)
