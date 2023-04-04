@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = 表單
 protections-panel-site-not-working-view-issue-list-payments = 付款
 protections-panel-site-not-working-view-issue-list-comments = 註解
 protections-panel-site-not-working-view-issue-list-videos = 影片
+protections-panel-site-not-working-view-issue-list-fonts = 字型
 protections-panel-site-not-working-view-send-report = 請回報給我們
 
 ##

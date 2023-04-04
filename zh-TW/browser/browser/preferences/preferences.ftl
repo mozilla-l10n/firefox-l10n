@@ -727,6 +727,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = 您目前正在同步下列項目:
+sync-syncing-across-devices-heading = 您連線的裝置會同步下列項目:
 sync-currently-syncing-bookmarks = 書籤
 sync-currently-syncing-history = 瀏覽紀錄
 sync-currently-syncing-tabs = 開啟分頁
@@ -755,6 +756,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = 中斷連線…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = 對同步項目的變更，將套用到所有連線的裝置上。
 sync-engine-bookmarks =
     .label = 書籤
     .accesskey = m
