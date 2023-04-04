@@ -8,6 +8,7 @@
 # as a prefix followed by the unique identification key for the migrator.
 
 migration-wizard-migrator-display-name-canary = Chrome Canary
+migration-wizard-migrator-display-name-chrome = Chrome
 migration-wizard-migrator-display-name-chrome-beta = Chrome béta
 migration-wizard-migrator-display-name-chrome-dev = Chrome fejlesztői
 migration-wizard-migrator-display-name-chromium = Chromium
