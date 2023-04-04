@@ -7,7 +7,11 @@
 # name string should have a key with "migration-wizard-migrator-display-name-"
 # as a prefix followed by the unique identification key for the migrator.
 
+migration-wizard-migrator-display-name-canary = क्रोम कैनरी
 migration-wizard-migrator-display-name-chrome = क्रोम
+migration-wizard-migrator-display-name-chromium = क्रोमियम
+migration-wizard-migrator-display-name-chromium-360se = 360 सुरक्षित ब्राउज़र
+migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-ie = माइक्रोसाफ़्ट इंटरनेट एक्सप्लोरर
 migration-wizard-migrator-display-name-safari = सफारी
 
