@@ -10,6 +10,7 @@
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chromium = Chromium
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
+migration-wizard-migrator-display-name-firefox = Firefox
 
 ## These strings will be displayed based on how many resources are selected to import
 
