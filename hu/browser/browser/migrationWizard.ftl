@@ -61,6 +61,7 @@ migration-import-button-label = Importálás
 migration-cancel-button-label = Mégse
 migration-done-button-label = Kész
 migration-wizard-import-browser-no-browsers = A { -brand-short-name } nem talált olyan programot, amely könyvjelzőket, előzményeket vagy jelszóadatokat tartalmazna.
+migration-wizard-import-browser-no-resources = Hiba történt. A { -brand-short-name } nem talált importálandó adatot abból a böngészőprofilból.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -68,6 +69,74 @@ migration-wizard-import-browser-no-browsers = A { -brand-short-name } nem talál
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = könyvjelzők
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = kedvencek
+migration-list-password-label = jelszavak
+migration-list-history-label = előzmények
+migration-list-autofill-label = adatok automatikus kitöltése
 
 ##
 
+migration-wizard-progress-header = Adatok importálása
+migration-wizard-progress-done-header = Az adatok sikeresen importálva
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importálás…
+migration-wizard-progress-icon-completed =
+    .aria-label = Kész
+migration-safari-password-import-header = Jelszavak importálása a Safariból
+migration-safari-password-import-steps-header = A Safari jelszavainak importálásához:
+migration-safari-password-import-step1 = A Safariban nyissa meg a „Safari” menüt és ugorjon a Beállítások > Jelszavak menüponthoz
+migration-safari-password-import-step2 = Válassza a <img data-l10n-name="safari-icon-3dots"/> gombot, és válassza az „Összes jelszó exportálása” lehetőséget
+migration-safari-password-import-step3 = Mentse a jelszavakat tartalmazó fájlt
+migration-safari-password-import-step4 = Használja az alábbi „Fájl kiválasztása” lehetőséget a mentett jelszófájl kiválasztásához
+migration-safari-password-import-skip-button = Kihagyás
+migration-safari-password-import-select-button = Fájl kiválasztása
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } könyvjelző
+       *[other] { $quantity } könyvjelző
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } kedvenc
+       *[other] { $quantity } kedvenc
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } jelszó
+       *[other] { $quantity } jelszó
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Az elmúlt napból
+       *[other] Az elmúlt { $maxAgeInDays } napból
+    }
+migration-wizard-progress-success-formdata = Űrlapok előzményei
+migration-wizard-safari-permissions-sub-header = A Safari könyvjelzőinek és böngészési előzményeinek importálásához:
+migration-wizard-safari-instructions-continue = Válassza a „Folytatás” gombot
+migration-wizard-safari-instructions-folder = Válassza ki a Safari mappát a listából, és válassza a „Megnyitás” lehetőséget
+migration-wizard-safari-select-button = Fájl kiválasztása

@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Űrlapok
 protections-panel-site-not-working-view-issue-list-payments = Fizetések
 protections-panel-site-not-working-view-issue-list-comments = Megjegyzések
 protections-panel-site-not-working-view-issue-list-videos = Videók
+protections-panel-site-not-working-view-issue-list-fonts = Betűkészletek
 protections-panel-site-not-working-view-send-report = Jelentés küldése
 
 ##
