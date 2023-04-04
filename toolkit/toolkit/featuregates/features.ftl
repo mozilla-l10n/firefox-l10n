@@ -80,3 +80,4 @@ experimental-features-accessibility-cache =
     .label = Cache per accessibilità
 experimental-features-accessibility-cache-description = Salva in una cache le informazioni relative all’accessibilità per tutti i documenti nel processo principale di { -brand-short-name }. Questa operazione migliora le prestazioni delle utilità per la lettura dello schermo e altre applicazioni che utilizzano API per l’accessibilità.
 
+

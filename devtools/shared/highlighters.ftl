@@ -60,3 +60,4 @@ remote-node-picker-notice-hide-button = Nascondi
 simple-highlighters-message = Quando prefers-reduced-motion è attivo, è possibile selezionare evidenziatori semplificati nel pannello impostazioni per evitare il lampeggiamento di colori.
 
 simple-highlighters-settings-button = Apri impostazioni
+
