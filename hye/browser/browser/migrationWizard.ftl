@@ -7,6 +7,7 @@
 # name string should have a key with "migration-wizard-migrator-display-name-"
 # as a prefix followed by the unique identification key for the migrator.
 
+migration-wizard-migrator-display-name-brave = Համարձակ
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
 migration-wizard-migrator-display-name-chrome-beta = Chrome Beta
