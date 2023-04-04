@@ -8,6 +8,7 @@
 # as a prefix followed by the unique identification key for the migrator.
 
 migration-wizard-migrator-display-name-canary = Chrome Canary
+migration-wizard-migrator-display-name-chrome = Chrome
 migration-wizard-migrator-display-name-chromium = Chromium
 migration-wizard-migrator-display-name-chromium-360se = 360 Drošs pārlūks
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
