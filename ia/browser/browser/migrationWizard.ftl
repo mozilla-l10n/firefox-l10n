@@ -96,6 +96,18 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } marcapagina
        *[other] { $quantity } marcapaginas
     }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favorito
+       *[other] { $quantity } favoritos
+    }
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
