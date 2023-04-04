@@ -8,6 +8,7 @@
 # as a prefix followed by the unique identification key for the migrator.
 
 migration-wizard-migrator-display-name-chrome = क्रम
+migration-wizard-migrator-display-name-chrome-dev = क्रम देभ
 migration-wizard-migrator-display-name-firefox = फायारफक्स
 migration-wizard-migrator-display-name-ie = माइक्र'सफ्ट इन्टारनेट एक्सप्ल'रार
 migration-wizard-migrator-display-name-safari = साफारि
