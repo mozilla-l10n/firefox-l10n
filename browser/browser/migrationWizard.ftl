@@ -14,6 +14,7 @@ migration-wizard-migrator-display-name-chrome-dev = குரோம் டெவ
 migration-wizard-migrator-display-name-chromium = குரோமியம்
 migration-wizard-migrator-display-name-chromium-360se = 360 சுழற்சியில் பாதுகாப்பான உலாவி
 migration-wizard-migrator-display-name-chromium-edge = மைக்ரொசொப்ட் எட்ஜ்
+migration-wizard-migrator-display-name-firefox = பயர்பாக்ஸ்(x)
 migration-wizard-migrator-display-name-ie = மைக்ரோசாப்ட் இன்டர்நெட் எக்ஸ்ப்லோரர்
 migration-wizard-migrator-display-name-safari = சபாரி
 
