@@ -8,6 +8,8 @@
 # as a prefix followed by the unique identification key for the migrator.
 
 migration-wizard-migrator-display-name-chrome = Chrome
+migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
+migration-wizard-migrator-display-name-safari = Safari
 
 ## These strings will be displayed based on how many resources are selected to import
 
