@@ -53,6 +53,12 @@ migration-bookmarks-option-label = Techaukaha
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Takate’ỹha
+migration-logins-and-passwords-option-label = Puruhára ha ñe’ẽñemi ñongatupyre
+migration-history-option-label = Kundaha rembiasakue
+migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva
+migration-import-button-label = Mba’egueru
+migration-cancel-button-label = Heja
+migration-done-button-label = Apopyre
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -60,6 +66,55 @@ migration-favorites-option-label = Takate’ỹha
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = techaukaha
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = Takate’ỹha
+migration-list-password-label = Ñe’ẽñemi
+migration-list-history-label = Tembiasakue
+migration-list-autofill-label = Mba’ekuaarã henyhẽjeheguíva
 
 ##
 
+migration-wizard-progress-header = Mba’ekuaarã Mba’egueru
+migration-wizard-progress-done-header = Mba’ekuaarã jegueru porã
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Mba’egueruha…
+migration-wizard-progress-icon-completed =
+    .aria-label = Opámava
+migration-safari-password-import-skip-button = Jepo
+migration-safari-password-import-select-button = Eiporavo Marandurenda
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } rechaukaha
+       *[other] { $quantity } rechaukaha
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } rakate’ỹha
+       *[other] { $quantity } rakate’ỹha
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } ñe’ẽñemi
+       *[other] { $quantity } ñe’ẽñemi
+    }
+migration-wizard-progress-success-formdata = Myanyhẽha rembiasakue
+migration-wizard-safari-select-button = Eiporavo Marandurenda
