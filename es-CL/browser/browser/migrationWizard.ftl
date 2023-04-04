@@ -59,6 +59,7 @@ migration-history-option-label = Historial de navegación
 migration-form-autofill-option-label = Datos de autocompletado de formularios
 migration-import-button-label = Importar
 migration-cancel-button-label = Cancelar
+migration-done-button-label = Hecho
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -66,6 +67,74 @@ migration-cancel-button-label = Cancelar
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = marcadores
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = favoritos
+migration-list-password-label = contraseñas
+migration-list-history-label = historial
+migration-list-autofill-label = datos de autocompletado
 
 ##
 
+migration-wizard-progress-header = Importando datos
+migration-wizard-progress-done-header = Datos importados con éxito
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importando…
+migration-wizard-progress-icon-completed =
+    .aria-label = Completado
+migration-safari-password-import-header = Importar contraseñas desde Safari
+migration-safari-password-import-steps-header = Para importar contraseñas desde Safari:
+migration-safari-password-import-step1 = En Safari, abre el menú "Safari" y ve a Preferencias > Contraseñas
+migration-safari-password-import-step2 = Selecciona el botón <img data-l10n-name="safari-icon-3dots"/> y elige "Exportar todas las contraseñas".
+migration-safari-password-import-step3 = Guarda el archivo de contraseñas
+migration-safari-password-import-step4 = Usa "Seleccionar archivo" a continuación para elegir el archivo de contraseñas que guardaste
+migration-safari-password-import-skip-button = Saltar
+migration-safari-password-import-select-button = Seleccionar archivo
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } marcador
+       *[other] { $quantity } marcadores
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favorito
+       *[other] { $quantity } favoritos
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } contraseña
+       *[other] { $quantity } contraseñas
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Del último día
+       *[other] De los últimos { $maxAgeInDays } días
+    }
+migration-wizard-progress-success-formdata = Historial de formularios
+migration-wizard-safari-permissions-sub-header = Para importar favoritos e historial de navegación de Safari:
+migration-wizard-safari-instructions-continue = Selecciona "Continuar"
+migration-wizard-safari-instructions-folder = Seleccione la carpeta Safari en la lista y elije "Abrir"
+migration-wizard-safari-select-button = Seleccionar archivo
