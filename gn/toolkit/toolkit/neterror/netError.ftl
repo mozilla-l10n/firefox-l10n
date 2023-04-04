@@ -27,6 +27,7 @@ neterror-try-again-button = Eha’ãjey
 neterror-add-exception-button = Emba’apo opa ára ko tendápe
 neterror-settings-button = Emoambue DNS ñemboheko
 neterror-view-certificate-link = Mboajapyre jehecha
+neterror-trr-continue-this-time = Eku’ejey ko’ãg̃aite
 neterror-disable-native-feedback-warning = Eku’éke tapiaite
 
 ##
@@ -55,7 +56,6 @@ neterror-dns-not-found-hint-firewall = Ehechajey { -brand-short-name } oguerekó
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nomo’ãkuaái ne mba’ejerure ko tenda kundaharape ore DNS jeroviaha apopyvusu. Ápe oĩ mba’érepa:
-neterror-dns-not-found-trr-only-attackers = Eku’ejeýrõ, peteĩva ikatu ohecha mba’e ñanduti rendápe eikéra’e térã nemondokuaa tenda ojejerovia’ỹvape.
 neterror-dns-not-found-trr-third-party-warning = Eku’ejeykuaa DNS moĩporãha hekorosã’ỹva ndive. Upéicharamo jepe, mbohapyháva ikatu ohecha mba’e ñanduti rendápepa eikera’e.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
 neterror-dns-not-found-trr-only-timeout = Pe { $trrDomain }-pe jeike nemoha’ãrõ hetave aravo.
@@ -69,9 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = Jejavy ñeha’arõ’ỹva.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nomo’ãkuaái ne mba’ejerure ko tenda kundaharape ore DNS jeroviaha apopyvusu. Ápe oĩ mba’érepa:
-neterror-dns-not-found-native-fallback-attackers = Eku’ejeykuaa DNS mba’epururã hekorosã’ỹva ndive. Upéicharõ jepe, mbohapyháva ikatu ohecha mba’e ñanduti rendápepa eikera’e térã nemondo tenda hekorosã’ỹvape.
 neterror-dns-not-found-native-fallback-heuristic = DNS HTTPS rehegua ojepe’áma nde pyhágui.
-neterror-dns-not-found-native-fallback-not-confirmed = Pe { $trrDomain }-pe jeike noĩmbái gueteri.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
 
 ##
