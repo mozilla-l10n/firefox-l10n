@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Importa dati del browser
+migration-wizard-selection-list = Seleziona i dati che desideri importare.
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -26,9 +43,25 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Importa tutti i dati disponibili
+migration-no-selected-data-label = Nessun dato selezionato per l’importazione
+migration-selected-data-label = Importa i dati selezionati
 
 ##
 
+migration-select-all-option-label = Seleziona tutto
+migration-bookmarks-option-label = Segnalibri
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Preferiti
+migration-logins-and-passwords-option-label = Credenziali e password salvate
+migration-history-option-label = Cronologia di navigazione
+migration-form-autofill-option-label = Dati per la compilazione automatica dei moduli
+migration-import-button-label = Importa
+migration-cancel-button-label = Annulla
+migration-done-button-label = Fatto
+migration-wizard-import-browser-no-browsers = Non è stato possibile trovare alcun programma che contenga segnalibri, cronologia o password.
+migration-wizard-import-browser-no-resources = Si è verificato un errore. Non è stato possibile importare alcun dato dal profilo del browser.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -36,6 +69,70 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = segnalibri
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = preferiti
+migration-list-password-label = password
+migration-list-history-label = cronologia
+migration-list-autofill-label = dati per la compilazione automatica dei moduli
 
 ##
 
+migration-wizard-progress-header = Importazione dati
+migration-wizard-progress-done-header = Importazione dei dati completata
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importazione in corso…
+migration-wizard-progress-icon-completed =
+    .aria-label = Completata
+migration-safari-password-import-header = Importazione password da Safari
+migration-safari-password-import-steps-header = Per importare le password di Safari:
+migration-safari-password-import-step1 = In Safari, apri il menu “Safari”, poi seleziona Preferenze > Password
+migration-safari-password-import-step2 = Fai clic sul pulsante <img data-l10n-name="safari-icon-3dots"/> e seleziona “Esporta tutte le password…”
+migration-safari-password-import-step3 = Salva il file delle password
+migration-safari-password-import-step4 = Utilizza “Seleziona file” di seguito per scegliere il file delle password che hai salvato
+migration-safari-password-import-skip-button = Salta
+migration-safari-password-import-select-button = Seleziona file
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } segnalibro
+       *[other] { $quantity } segnalibri
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } preferito
+       *[other] { $quantity } preferiti
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords = { $quantity } password
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Dell’ultimo giorno
+       *[other] Degli ultimi { $maxAgeInDays } giorni
+    }
+migration-wizard-progress-success-formdata = Cronologia moduli
+migration-wizard-safari-permissions-sub-header = Per importare i segnalibri di Safari e la cronologia di navigazione:
+migration-wizard-safari-instructions-continue = Seleziona “Continua”
+migration-wizard-safari-instructions-folder = Seleziona la cartella Safari nell’elenco e fai clic su “Apri”
+migration-wizard-safari-select-button = Seleziona file
