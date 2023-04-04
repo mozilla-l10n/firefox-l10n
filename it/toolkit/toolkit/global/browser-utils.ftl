@@ -9,3 +9,4 @@ browser-utils-url-data = (dati)
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
 browser-utils-url-extension = Estensione ({ $extension })
+
