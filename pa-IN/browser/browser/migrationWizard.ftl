@@ -13,6 +13,7 @@ migration-wizard-migrator-display-name-chromium = Chromium
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge ਪੁਰਾਣਾ
+migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
