@@ -16,6 +16,7 @@ migration-wizard-migrator-display-name-chromium-360se = 360 સુરક્ષ�
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = ઈન્ટરનેટ એક્સપ્લોરર
+migration-wizard-migrator-display-name-safari = Safari
 
 ## These strings will be displayed based on how many resources are selected to import
 
