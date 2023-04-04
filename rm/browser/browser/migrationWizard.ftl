@@ -12,6 +12,7 @@ migration-wizard-migrator-display-name-chromium = Chromium
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
+migration-wizard-migrator-display-name-safari = Safari
 
 ## These strings will be displayed based on how many resources are selected to import
 
