@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Buscar
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Obtener extensiones y temas en <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Obtener diccionarios en <a data-l10n-name="get-extensions"> { $domain } </a>
 list-empty-get-language-packs-message = Obtener paquetes de idioma en <a data-l10n-name="get-extensions"> { $domain } </a>
+
+##
+
 list-empty-installed =
     .value = No tiene instalado ningún complemento de este tipo
 list-empty-available-updates =
@@ -142,7 +149,7 @@ addon-category-sitepermission-title =
     .title = Permisos del sitio
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Permisos del sitio para { $host }
 
 ## These are global warnings
@@ -222,6 +229,8 @@ shortcuts-duplicate-warning-message = El { $shortcut } se está usando como ataj
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ya está en uso por { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Mostrar { $numberToShow } más
@@ -297,7 +306,7 @@ theme-colorways-button = Probar combinaciones de colores
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Cambiar la combinación de colores
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Expira el { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Habilitado
 plugin-disabled-heading = Deshabilitado
@@ -345,7 +354,7 @@ addon-detail-updates-label = Permitir las actualizaciones automáticas
 addon-detail-updates-radio-default = Predeterminado
 addon-detail-updates-radio-on = Activado
 addon-detail-updates-radio-off = Desactivar
-addon-detail-update-check-label = Verificar si hay actualizaciones
+addon-detail-update-check-label = Buscar actualizaciones
 install-update-button = Actualizar
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
@@ -383,6 +392,8 @@ addon-permissions-optional = Permisos opcionales para funciones adicionales:
 addon-permissions-learnmore = Conocer más sobre permisos
 recommended-extensions-heading = Complementos recomendados
 recommended-themes-heading = Temas recomendados
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Otorga las siguientes capacidades a<span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -409,8 +420,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } es incompatible con { -brand-short-name } { $version }.
 details-notification-incompatible-link = Más información
 details-notification-unsigned-and-disabled = { $name } no pudo ser verificada para el uso en { -brand-short-name } y fue deshabilitada.
