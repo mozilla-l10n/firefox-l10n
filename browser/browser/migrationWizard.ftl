@@ -87,3 +87,60 @@ migration-wizard-progress-icon-completed =
     .aria-label = הושלם
 migration-safari-password-import-header = ייובא סיסמאות מ־Safari
 migration-safari-password-import-steps-header = כדי לייבא ססמאות מ־Safari:
+migration-safari-password-import-step1 = ב־Safari, יש לפתוח את תפריט ״Safari״ ולעבור אל העדפות > סיסמאות
+migration-safari-password-import-step2 = יש ללחוץ על הכפתור <img data-l10n-name="safari-icon-3dots"/> ולבחור באפשרות ״ייצוא כל הסיסמאות״
+migration-safari-password-import-step3 = יש לשמור את קובץ הססמאות
+migration-safari-password-import-step4 = יש להשתמש בכפתור ״בחירת קובץ״ שלהלן כדי לבחור בקובץ הססמאות ששמרת
+migration-safari-password-import-skip-button = דילוג
+migration-safari-password-import-select-button = בחירת קובץ
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] סימנייה אחת
+        [two] { $quantity } סימניות
+       *[other] { $quantity } סימניות
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] מועדף אחד
+        [two] { $quantity } מועדפים
+       *[other] { $quantity } מועדפים
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] ססמה אחת
+        [two] { $quantity } ססמאות
+       *[other] { $quantity } ססמאות
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] מהיום האחרון
+        [two] מהיומיים האחרונים
+       *[other] מ־{ $maxAgeInDays } הימים האחרונים
+    }
+migration-wizard-progress-success-formdata = היסטוריית טפסים
+migration-wizard-safari-permissions-sub-header = כדי לייבא סימניות והיסטוריית גלישה של Safari:
+migration-wizard-safari-instructions-continue = יש ללחוץ על ״המשך״
+migration-wizard-safari-instructions-folder = יש לבחור בתיקיה של Safari מהרשימה וללחוץ על ״פתיחה״
+migration-wizard-safari-select-button = בחירת קובץ
