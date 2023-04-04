@@ -9,6 +9,8 @@
 
 migration-wizard-migrator-display-name-canary = குரோம் கெனரி
 migration-wizard-migrator-display-name-chrome = கொறோம்
+migration-wizard-migrator-display-name-chrome-beta = குரோம் பீட்டா
+migration-wizard-migrator-display-name-chrome-dev = குரோம் டெவ்
 migration-wizard-migrator-display-name-chromium = குரோமியம்
 migration-wizard-migrator-display-name-chromium-360se = 360 சுழற்சியில் பாதுகாப்பான உலாவி
 migration-wizard-migrator-display-name-chromium-edge = மைக்ரொசொப்ட் எட்ஜ்
