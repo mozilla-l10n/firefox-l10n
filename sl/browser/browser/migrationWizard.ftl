@@ -8,6 +8,9 @@
 # as a prefix followed by the unique identification key for the migrator.
 
 migration-wizard-migrator-display-name-chrome = Chroma
+migration-wizard-migrator-display-name-chrome-beta = Chroma Beta
+migration-wizard-migrator-display-name-chrome-dev = Chroma Dev
+migration-wizard-migrator-display-name-chromium-edge = Microsoft Edga
 migration-wizard-migrator-display-name-firefox = Firefoxa
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorerja
 migration-wizard-migrator-display-name-safari = Safarija
