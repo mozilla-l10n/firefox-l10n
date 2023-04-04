@@ -9,9 +9,13 @@
 
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
+migration-wizard-migrator-display-name-chrome-beta = క్రోమ్ బీటా
+migration-wizard-migrator-display-name-chrome-dev = క్రోమ్ డెవ్
 migration-wizard-migrator-display-name-chromium = Chromium
 migration-wizard-migrator-display-name-chromium-360se = 360 సురక్షిత విహారిణి
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
+migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge బీటా
+migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge లెగసీ
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = మైక్రోసాఫ్ట్ ఇంటర్నెట్‌ ఎక్స్‌ప్లోరర్
 migration-wizard-migrator-display-name-safari = Safari
