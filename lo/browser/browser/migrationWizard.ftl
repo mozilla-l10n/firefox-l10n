@@ -2,6 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -26,9 +41,25 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = ນຳເຂົ້າຂໍ້ມູນທີ່ມີຢູ່ທັງໝົດ
+migration-no-selected-data-label = ບໍ່ໄດ້ເລືອກຂໍ້ມູນສໍາລັບການນໍາເຂົ້າ
+migration-selected-data-label = ນໍາເຂົ້າຂໍ້ມູນທີ່ເລືອກ
 
 ##
 
+migration-select-all-option-label = ເລືອກ​ທັງ​ຫມົດ
+migration-bookmarks-option-label = ບຸກມາກ
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = ລາຍການທີ່ມັກ
+migration-logins-and-passwords-option-label = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
+migration-history-option-label = ປະຫວັດການທ່ອງເວັບ
+migration-form-autofill-option-label = ຕື່ມຂໍ້ມູນໃສ່ແບບຟອມອັດຕະໂນມັດ
+migration-import-button-label = ນຳເຂົ້າ
+migration-cancel-button-label = ຍົກເລີກ
+migration-done-button-label = ສຳເລັດ
+migration-wizard-import-browser-no-browsers = { -brand-short-name } ບໍ່ສາມາດຊອກຫາໂປຣແກຣມໃດໆທີ່ມີບຸກມາກ, ປະຫວັດ ຫຼືຂໍ້ມູນລະຫັດຜ່ານ.
+migration-wizard-import-browser-no-resources = ມີຄວາມຜິດພາດ. { -brand-short-name } ບໍ່ສາມາດຊອກຫາຂໍ້ມູນໃດໆທີ່ຈະນໍາເຂົ້າຈາກໂປຣໄຟລ໌ບຣາວເຊີນັ້ນໄດ້.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -36,6 +67,47 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = ບຸກມາກ
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = ລາຍການທີ່ມັກ
+migration-list-password-label = ລະຫັດຜ່ານ
+migration-list-history-label = ປະຫວັດ
+migration-list-autofill-label = ຕື່ມຂໍ້ມູນອັດຕະໂນມັດ
 
 ##
 
+migration-wizard-progress-header = ການ​ນໍາ​ເຂົ້າ​ຂໍ້​ມູນ​
+migration-wizard-progress-done-header = ນຳເຂົ້າຂໍ້ມູນສຳເລັດແລ້ວ
+migration-wizard-progress-icon-in-progress =
+    .aria-label = ກຳລັງນຳເຂົ້າ…
+migration-wizard-progress-icon-completed =
+    .aria-label = ສຳເລັດແລ້ວ
+migration-safari-password-import-header = ນໍາເຂົ້າລະຫັດຜ່ານຈາກ Safari
+migration-safari-password-import-steps-header = ເພື່ອນໍາເຂົ້າລະຫັດຜ່ານ Safari:
+migration-safari-password-import-step1 = ໃນ Safari, ເປີດເມນູ "Safari" ແລະໄປທີ່ Preferences > Passwords
+migration-safari-password-import-step2 = ເລືອກປຸ່ມ <img data-l10n-name="safari-icon-3dots"/> ແລະເລືອກ “ສົ່ງອອກລະຫັດຜ່ານທັງໝົດ”
+migration-safari-password-import-step3 = ບັນທຶກໄຟລ໌ລະຫັດຜ່ານ
+migration-safari-password-import-step4 = ໃຊ້ “ເລືອກໄຟລ໌” ຂ້າງລຸ່ມນີ້ເພື່ອເລືອກໄຟລ໌ລະຫັດຜ່ານທີ່ທ່ານບັນທຶກໄວ້
+migration-safari-password-import-skip-button = ຂ້າມ
+migration-safari-password-import-select-button = ເລືອກ File
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks = { $quantity } ບຸກມາກ
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites = { $quantity } ລາຍການທີ່ມັກ
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords = ລະຫັດຜ່ານ { $quantity }
