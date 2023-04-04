@@ -9,8 +9,14 @@
 
 migration-wizard-migrator-display-name-canary = كروم كناري
 migration-wizard-migrator-display-name-chrome = كروم
+migration-wizard-migrator-display-name-chrome-beta = كروم بيتا
+migration-wizard-migrator-display-name-chrome-dev = إصدارة كروم التطويرية
 migration-wizard-migrator-display-name-chromium = كروميوم
+migration-wizard-migrator-display-name-chromium-360se = متصفح ٣٦٠ الآمن
 migration-wizard-migrator-display-name-chromium-edge = ميكروسوفت إدج
+migration-wizard-migrator-display-name-chromium-edge-beta = ميكروسوفت إدج بيتا
+migration-wizard-migrator-display-name-edge-legacy = ميكروسوفت إدج العتيق
+migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = ميكروسوفت إنترنت إكسبلورر
 migration-wizard-migrator-display-name-safari = سافاري
 
