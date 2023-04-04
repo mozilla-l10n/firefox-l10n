@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Skjema
 protections-panel-site-not-working-view-issue-list-payments = Betalingar
 protections-panel-site-not-working-view-issue-list-comments = Kommentarar
 protections-panel-site-not-working-view-issue-list-videos = Videoar
+protections-panel-site-not-working-view-issue-list-fonts = Skrifttypar
 protections-panel-site-not-working-view-send-report = Send inn ein rapport
 
 ##
