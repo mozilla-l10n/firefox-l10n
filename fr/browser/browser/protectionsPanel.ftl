@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Les formulaires
 protections-panel-site-not-working-view-issue-list-payments = Les paiements
 protections-panel-site-not-working-view-issue-list-comments = Les commentaires
 protections-panel-site-not-working-view-issue-list-videos = Les vidéos
+protections-panel-site-not-working-view-issue-list-fonts = Polices de caractères
 protections-panel-site-not-working-view-send-report = Envoyer un rapport
 
 ##
