@@ -9,6 +9,8 @@
 
 migration-wizard-migrator-display-name-canary = ক্রোম ক্যানারি
 migration-wizard-migrator-display-name-chrome = ক্রোম C
+migration-wizard-migrator-display-name-chrome-beta = Chrome Beta
+migration-wizard-migrator-display-name-chrome-dev = Chrome Dev
 migration-wizard-migrator-display-name-chromium = ক্রোমিয়াম
 migration-wizard-migrator-display-name-chromium-360se = 360 নিরাপদ ব্রাউজার
 migration-wizard-migrator-display-name-chromium-edge = মাইক্রোসফট Edge
