@@ -12,6 +12,7 @@ migration-wizard-migrator-display-name-chrome = क्रोम
 migration-wizard-migrator-display-name-chromium = क्रोमियम
 migration-wizard-migrator-display-name-chromium-360se = 360 सुरक्षित ब्राउज़र
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
+migration-wizard-migrator-display-name-firefox = फायरफाक्स
 migration-wizard-migrator-display-name-ie = माइक्रोसाफ़्ट इंटरनेट एक्सप्लोरर
 migration-wizard-migrator-display-name-safari = सफारी
 
