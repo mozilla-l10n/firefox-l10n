@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formulármi
 protections-panel-site-not-working-view-issue-list-payments = Platbami
 protections-panel-site-not-working-view-issue-list-comments = Komentármi
 protections-panel-site-not-working-view-issue-list-videos = Videami
+protections-panel-site-not-working-view-issue-list-fonts = Písma
 protections-panel-site-not-working-view-send-report = Odoslať hlásenie
 
 ##
