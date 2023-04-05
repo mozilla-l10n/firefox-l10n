@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Εισαγωγή δεδομένων προγράμματος περιήγησης
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -26,9 +42,20 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Εισαγωγή όλων των διαθέσιμων δεδομένων
+migration-selected-data-label = Εισαγωγή επιλεγμένων δεδομένων
 
 ##
 
+migration-select-all-option-label = Επιλογή όλων
+migration-bookmarks-option-label = Σελιδοδείκτες
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Αγαπημένα
+migration-history-option-label = Ιστορικό περιήγησης
+migration-import-button-label = Εισαγωγή
+migration-cancel-button-label = Ακύρωση
+migration-done-button-label = Τέλος
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -36,6 +63,14 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = σελιδοδείκτες
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = αγαπημένα
+migration-list-history-label = ιστορικό
 
 ##
 
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Εισαγωγή…
+migration-wizard-safari-instructions-continue = Επιλέξτε «Συνέχεια»
