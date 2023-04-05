@@ -60,6 +60,8 @@ migration-form-autofill-option-label = Údaje automatického dopĺňania formul�
 migration-import-button-label = Importovať
 migration-cancel-button-label = Zrušiť
 migration-done-button-label = Hotovo
+migration-wizard-import-browser-no-browsers = { -brand-short-name } nenašiel žiadne programy, ktoré obsahujú údaje o záložkách, histórii prehliadania alebo heslách.
+migration-wizard-import-browser-no-resources = Vyskytla sa chyba. { -brand-short-name } nemôže nájsť žiadne údaje na importovanie z daného profilu prehliadača.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -71,6 +73,61 @@ migration-list-bookmark-label = záložky
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = obľúbené položky
+migration-list-password-label = heslá
+migration-list-history-label = história
+migration-list-autofill-label = údaje automatického dopĺňania
 
 ##
 
+migration-wizard-progress-header = Import údajov
+migration-wizard-progress-done-header = Údaje boli úspešne importované
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importuje sa…
+migration-wizard-progress-icon-completed =
+    .aria-label = Dokončené
+migration-safari-password-import-header = Import hesiel zo Safari
+migration-safari-password-import-steps-header = Ak chcete importovať heslá zo Safari:
+migration-safari-password-import-step1 = V Safari otvorte ponuku “Safari” a prejdite na položku Nastavenia > Heslá
+migration-safari-password-import-step2 = Zvoľte tlačidlo <img data-l10n-name="safari-icon-3dots"/> a vyberte možnosť “Exportovať všetky heslá”
+migration-safari-password-import-step3 = Uložiť súbor s heslami
+migration-safari-password-import-step4 = Pomocou tlačidla “Vybrať súbor” nižšie vyberte súbor s heslami, ktorý máte uložený
+migration-safari-password-import-skip-button = Preskočiť
+migration-safari-password-import-select-button = Vybrať súbor
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } záložka
+        [few] { $quantity } záložky
+        [many] { $quantity } záložiek
+       *[other] { $quantity } záložiek
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } obľúbená položka
+        [few] { $quantity } obľúbené položky
+        [many] { $quantity } obľúbených položiek
+       *[other] { $quantity } obľúbených položiek
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } heslo
+        [few] { $quantity } heslá
+        [many] { $quantity } hesiel
+       *[other] { $quantity } hesiel
+    }
