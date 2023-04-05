@@ -29,6 +29,16 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ##
 
+migration-select-all-option-label = Alles selecteren
+migration-bookmarks-option-label = Bladwijzers
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Favorieten
+migration-logins-and-passwords-option-label = Opgeslagen aanmeldingen en wachtwoorden
+migration-history-option-label = Navigatiegeschiedenis
+migration-import-button-label = Importeren
+migration-cancel-button-label = Annuleren
+migration-done-button-label = Gereed
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -36,6 +46,12 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = bladwijzers
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = favorieten
+migration-list-password-label = wachtwoorden
+migration-list-history-label = geschiedenis
 
 ##
 
