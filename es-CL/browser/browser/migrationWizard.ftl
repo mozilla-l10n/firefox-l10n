@@ -60,6 +60,8 @@ migration-form-autofill-option-label = Datos de autocompletado de formularios
 migration-import-button-label = Importar
 migration-cancel-button-label = Cancelar
 migration-done-button-label = Hecho
+migration-wizard-import-browser-no-browsers = { -brand-short-name } no pudo encontrar ningún programa que contenga datos de marcadores, historial o contraseñas.
+migration-wizard-import-browser-no-resources = Hubo un error. { -brand-short-name } no puede encontrar ningún dato para importar desde ese perfil de navegador.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
