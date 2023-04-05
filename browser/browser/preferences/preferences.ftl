@@ -747,6 +747,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Máte zapnutú synchronizáciu týchto položiek:
+sync-syncing-across-devices-heading = Synchronizujete tieto položky vo všetkých pripojených zariadeniach:
 sync-currently-syncing-bookmarks = Záložky
 sync-currently-syncing-history = História
 sync-currently-syncing-tabs = Otvorené karty
@@ -775,6 +776,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = U
     .buttonlabelextra2 = Odpojiť…
     .buttonaccesskeyextra2 = O
+sync-choose-dialog-subtitle = Zmeny v zozname položiek na synchronizáciu sa prejavia na všetkých vašich pripojených zariadeniach.
 sync-engine-bookmarks =
     .label = Záložky
     .accesskey = Z

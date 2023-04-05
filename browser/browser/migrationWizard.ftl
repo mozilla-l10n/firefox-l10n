@@ -131,3 +131,20 @@ migration-wizard-progress-success-passwords =
         [many] { $quantity } hesiel
        *[other] { $quantity } hesiel
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Za posledný deň
+        [few] Za posledné { $maxAgeInDays } dni
+        [many] Za posledných { $maxAgeInDays } dní
+       *[other] Za posledných { $maxAgeInDays } dní
+    }
+migration-wizard-progress-success-formdata = Údaje zadané do formulárov
+migration-wizard-safari-permissions-sub-header = Ak chcete importovať záložky a históriu prehliadania zo Safari:
+migration-wizard-safari-instructions-continue = Zvoľte tlačidlo “Pokračovať”
+migration-wizard-safari-instructions-folder = V zozname vyberte priečinok Safari a zvoľte “Otvoriť”
+migration-wizard-safari-select-button = Vybrať súbor
