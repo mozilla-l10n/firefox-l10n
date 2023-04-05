@@ -125,6 +125,16 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } mot de passe
        *[other] { $quantity } mots de passe
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Depuis hier
+       *[other] Au cours des { $maxAgeInDays } derniers jours
+    }
 migration-wizard-progress-success-formdata = Historique des formulaires
 migration-wizard-safari-permissions-sub-header = Pour importer les marque-pages et l’historique de navigation de Safari :
 migration-wizard-safari-instructions-continue = Sélectionnez « Continuer »
