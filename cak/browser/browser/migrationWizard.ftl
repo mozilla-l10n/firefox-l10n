@@ -61,6 +61,7 @@ migration-import-button-label = Tijik' pe
 migration-cancel-button-label = Tiq'at
 migration-done-button-label = Xk'is
 migration-wizard-import-browser-no-browsers = { -brand-short-name } majun nuk'samaj xrïl ri k'o kitzij yaketal, natab'äl o ewan taq  tzij chupam.
+migration-wizard-import-browser-no-resources = Xk'oje' jun sachoj. { -brand-short-name } majun tzij xrïl richin nijik' pa ruwäch okik'amaya'l.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -68,6 +69,24 @@ migration-wizard-import-browser-no-browsers = { -brand-short-name } majun nuk'sa
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = taq yaketal
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = taq ajowab'äl
+migration-list-password-label = ewan taq tzij
+migration-list-history-label = natab'äl
+migration-list-autofill-label = taq tzij yonil nikinojisaj ki'
 
 ##
 
+migration-wizard-progress-header = Yejik' tzij
+migration-wizard-progress-done-header = Ütz xejik' taq tzij
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Nijik…
+migration-wizard-progress-icon-completed =
+    .aria-label = Tz'aqatisan
+migration-safari-password-import-header = Kejik' pe ewan taq tzij pa Safari
+migration-safari-password-import-steps-header = Richin yejik' ewan  taq tzij pa Safari:
+migration-safari-password-import-step1 = Pa Safari, tijaq ri cholsamaj “Safari” k'a ri pa Taq ajowab'äl > Ewan taq Tzij
+migration-safari-password-import-step2 = Tacha' ri <img data-l10n-name="safari-icon-3dots"/> pitz'b'äl k'a ri tacha' “Kejik' Ronojel Ewan taq Tzij”
+migration-safari-password-import-step3 = Keyak kiyakb'al ewan taq tzij
