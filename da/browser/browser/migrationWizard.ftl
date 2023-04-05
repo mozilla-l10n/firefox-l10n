@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Importer browserdata
+migration-wizard-selection-list = Vælg de data, du vil importere.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -42,9 +43,14 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Importer alle tilgængelige data
+migration-no-selected-data-label = Ingen data valgt til import
+migration-selected-data-label = Importer valgte data
 
 ##
 
+migration-select-all-option-label = Vælg alle
+migration-bookmarks-option-label = Bogmærker
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritter
@@ -119,3 +125,18 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } adgangskode
        *[other] { $quantity } adgangskoder
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Fra den seneste dag
+       *[other] Fra de seneste { $maxAgeInDays } dage
+    }
+migration-wizard-progress-success-formdata = Formularhistorik
+migration-wizard-safari-permissions-sub-header = For at importere bogmærker og browserhistorik fra Safari:
+migration-wizard-safari-instructions-continue = Vælg "Fortsæt"
+migration-wizard-safari-instructions-folder = Vælg Safari-mappen på listen og vælg "Åbn"
+migration-wizard-safari-select-button = Vælg fil

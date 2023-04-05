@@ -668,6 +668,8 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
+picture-in-picture-urlbar-button =
+    .tooltiptext = Slå billede-i-billede til eller fra
 
 ## Full Screen and Pointer Lock UI
 
