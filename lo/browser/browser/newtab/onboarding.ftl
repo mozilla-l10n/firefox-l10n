@@ -15,6 +15,9 @@ onboarding-start-browsing-button-label = ເລີ່ມການທ່ອງເ
 onboarding-not-now-button-label = ບໍ່ແມ່ນຕອນນີ້
 mr1-onboarding-get-started-primary-button-label = ເລີ່ມຕົ້ນໃຊ້ງານ
 mr1-onboarding-welcome-header = ຍິນດີຕ້ອນຮັບສູ່ { -brand-short-name }
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = ເຮັດໃຫ້ { -brand-short-name } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນຂອງຂ້ອຍ
 mr1-onboarding-set-default-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
 
 ## Custom Return To AMO onboarding strings
@@ -42,14 +45,6 @@ mr1-return-to-amo-add-extension-label = ເພີ່ມ { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = ເລີ່ມຕົ້ນ: ໜ້າຈໍ { $current } ຂອງ { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = ຄວາມຄືບໜ້າ: ຂັ້ນຕອນ { $current } ຂອງ { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -65,6 +60,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — ຜູ້ອອກແບບເຟີນິເຈີ, ພັດລົມ Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = ຄວາມຄືບໜ້າ: ຂັ້ນຕອນ { $current } ຂອງ { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ປິດການເຄື່ອນໄຫວ
 
@@ -155,6 +158,11 @@ mr1-onboarding-theme-tooltip-dark =
 mr1-onboarding-theme-description-dark =
     .aria-description =
         ໃຊ້ຮູບແບບສີສັນມືດສຳລັບປຸ່ມຕ່າງໆ,
+        ເມນູ, ແລະ ໜ້າຕ່າງ.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        ໃຊ້ຮູບແບບສີສັນແບບເຄື່ອນໄຫວ, ມີສີສັນສຳລັບປຸ່ມຕ່າງໆ,
         ເມນູ, ແລະ ໜ້າຕ່າງ.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
@@ -280,16 +288,23 @@ mr2022-onboarding-existing-pin-checkbox-label = ເພີ່ມ { -brand-short-n
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = ເຮັດໃຫ້ { -brand-short-name } ໄປທີ່ browser ຂອງທ່ານ
 mr2022-onboarding-set-default-primary-button-label = ຕັ້ງ { -brand-short-name } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນ
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = ໃຊ້ຕົວທ່ອງເວັບທີ່ສະຫນັບສະຫນູນໂດຍອົງການບໍ່ຫວັງຜົນກໍາໄລ. ພວກເຮົາປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າໃນຂະນະທີ່ເຈົ້າ zip ອ້ອມເວັບ.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = ເວີຊັນຫຼ້າສຸດຂອງພວກເຮົາແມ່ນສ້າງຂຶ້ນຢູ່ອ້ອມຕົວທ່ານ, ເຮັດໃຫ້ມັນງ່າຍກວ່າທີ່ຈະ zip ໄປທົ່ວເວັບ. ມັນເຕັມໄປດ້ວຍຄຸນສົມບັດທີ່ພວກເຮົາຄິດວ່າເຈົ້າຈະມັກ.
 mr2022-onboarding-get-started-primary-button-label = ຕັ້ງຄ່າໃນບໍ່ເທົ່າໃດວິນາທີ
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = ການ​ຕັ້ງ​ຄ່າ​ໄວ​ຟ້າ​ຜ່າ​
+mr2022-onboarding-import-subtitle = ຕັ້ງຄ່າ { -brand-short-name } ວ່າທ່ານມັກມັນແນວໃດ. ເພີ່ມບຸກມາກ, ລະຫັດຜ່ານ ແລະອື່ນໆອີກຈາກບຣາວເຊີເກົ່າຂອງທ່ານ.
 mr2022-onboarding-import-primary-button-label-no-attribution = ນໍາເຂົ້າຈາກຕົວທ່ອງເວັບທີ່ຜ່ານມາ
 
 ## If your language uses grammatical genders, in the description for the
@@ -333,6 +348,8 @@ mr2022-onboarding-colorway-description-innovator = <b>ທ່ານເປັນ�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = ເລື່ອນຈາກແລັບທັອບໄປຫາໂທລະສັບ ແລະກັບມາອີກຄັ້ງ
+mr2022-onboarding-mobile-download-subtitle = ຈັບແຖບຈາກອຸປະກອນຫນຶ່ງແລະເລືອກເອົາບ່ອນທີ່ທ່ານປະໄວ້ຢູ່ໃນອຸປະກອນອື່ນ. ນອກຈາກນັ້ນ, ຊິ້ງຂໍ້ມູນບຸກມາກ ແລະລະຫັດຜ່ານຂອງທ່ານຢູ່ບ່ອນໃດກໍໄດ້ທີ່ທ່ານໃຊ້ { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = ສະແກນລະຫັດ QR ເພື່ອເອົາ { -brand-product-name } ສໍາລັບມືຖື ຫຼື <a data-l10n-name="download-label">ສົ່ງລິ້ງດາວໂຫລດໃຫ້ຕົວເອງ.</a>
 mr2022-onboarding-no-mobile-download-cta-text = ສະແກນລະຫັດ QR ເພື່ອເອົາ { -brand-product-name } ສໍາລັບມືຖື.
 
 ## MR2022 Upgrade Dialog screens
@@ -373,6 +390,8 @@ mr2022-onboarding-import-image-alt =
     .aria-label = ຄົນຂີ່ສະເກັດບອດທີ່ມີໄອຄອນຂອງຊອບແວ
 mr2022-onboarding-mobile-download-image-alt =
     .aria-label = ກົບໂດດຂ້າມແຜ່ນໃບບົວດ້ວຍລະຫັດ QR ເພື່ອດາວໂຫຼດ { -brand-product-name } ສຳລັບມືຖືຢູ່ໃຈກາງ
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Magic wand ເຮັດໃຫ້ { -brand-product-name } ໂລໂກ້ການຊອກຫາສ່ວນຕົວປາກົດອອກຈາກໝວກ
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ມືທີ່ມີຜິວໜັງອ່ອນ ແລະສີເຂັ້ມ, ສູງຫ້າ
 mr2022-onboarding-gratitude-image-alt =

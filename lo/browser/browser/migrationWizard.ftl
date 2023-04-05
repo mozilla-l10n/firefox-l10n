@@ -111,3 +111,8 @@ migration-wizard-progress-success-favorites = { $quantity } ລາຍການ�
 # Variables:
 #  $quantity (Number): the number of successfully imported passwords
 migration-wizard-progress-success-passwords = ລະຫັດຜ່ານ { $quantity }
+migration-wizard-progress-success-formdata = ແບບຟອມປະຫວັດການໃຊ້ງານ
+migration-wizard-safari-permissions-sub-header = ເພື່ອນໍາເຂົ້າ bookmarks Safari ແລະປະຫວັດການທ່ອງເວັບ:
+migration-wizard-safari-instructions-continue = ເລືອກ "ສືບຕໍ່"
+migration-wizard-safari-instructions-folder = ເລືອກໂຟນເດີ Safari ໃນບັນຊີລາຍຊື່ແລະເລືອກ "Open"
+migration-wizard-safari-select-button = ເລືອກ File

@@ -40,9 +40,29 @@ webrtc-sharing-menu =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
+webrtc-camera-system-menu =
+    .label = ທ່ານກໍາລັງແບ່ງປັນກ້ອງຖ່າຍຮູບຂອງທ່ານ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
+webrtc-microphone-system-menu =
+    .label = ທ່ານກຳລັງແບ່ງປັນໄມໂຄຣໂຟນຂອງທ່ານ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
+webrtc-screen-system-menu =
+    .label = ທ່ານກໍາລັງແບ່ງປັນ ໜ້າຕ່າງ ຫຼື ໜ້າຈໍ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = ກຳລັງແບ່ງປັນກ້ອງ ແລະ ໄມໂຄຣໂຟນຂອງທ່ານ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = ກ້ອງຂອງທ່ານກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = ໄມໂຄຣໂຟນຂອງທ່ານກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
+webrtc-indicator-sharing-application =
+    .tooltiptext = ແອັບພລິເຄຊັນກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = ໜ້າຈໍຂອງທ່ານກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
+webrtc-indicator-sharing-window =
+    .tooltiptext = ປ່ອງຢ້ຽມກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = ແຖບກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -50,6 +70,12 @@ webrtc-sharing-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = ຄວບຄຸມການແບ່ງປັນ
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = ຄວບຄຸມການແບ່ງປັນຢູ່ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = ກຳລັງແບ່ງປັນກ້ອງຖ່າຍຮູບກັບ “{ $streamTitle }”
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
