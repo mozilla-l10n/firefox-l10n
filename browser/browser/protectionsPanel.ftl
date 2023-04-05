@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Φόρμες
 protections-panel-site-not-working-view-issue-list-payments = Πληρωμές
 protections-panel-site-not-working-view-issue-list-comments = Σχόλια
 protections-panel-site-not-working-view-issue-list-videos = Βίντεο
+protections-panel-site-not-working-view-issue-list-fonts = Γραμματοσειρές
 protections-panel-site-not-working-view-send-report = Αποστολή αναφοράς
 
 ##

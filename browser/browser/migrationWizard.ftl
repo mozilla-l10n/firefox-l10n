@@ -43,6 +43,7 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Εισαγωγή όλων των διαθέσιμων δεδομένων
+migration-no-selected-data-label = Δεν έχουν επιλεχτεί δεδομένα προς εισαγωγή
 migration-selected-data-label = Εισαγωγή επιλεγμένων δεδομένων
 
 ##
@@ -52,6 +53,7 @@ migration-bookmarks-option-label = Σελιδοδείκτες
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Αγαπημένα
+migration-logins-and-passwords-option-label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
 migration-history-option-label = Ιστορικό περιήγησης
 migration-import-button-label = Εισαγωγή
 migration-cancel-button-label = Ακύρωση
@@ -67,10 +69,53 @@ migration-list-bookmark-label = σελιδοδείκτες
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = αγαπημένα
+migration-list-password-label = κωδικοί πρόσβασης
 migration-list-history-label = ιστορικό
+migration-list-autofill-label = δεδομένα αυτόματης συμπλήρωσης
 
 ##
 
+migration-wizard-progress-header = Εισαγωγή δεδομένων
+migration-wizard-progress-done-header = Επιτυχής εισαγωγή δεδομένων
 migration-wizard-progress-icon-in-progress =
     .aria-label = Εισαγωγή…
+migration-wizard-progress-icon-completed =
+    .aria-label = Ολοκληρώθηκε
+migration-safari-password-import-header = Εισαγωγή κωδικών πρόσβασης από το Safari
+migration-safari-password-import-skip-button = Παράλειψη
+migration-safari-password-import-select-button = Επιλογή αρχείου
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } σελιδοδείκτης
+       *[other] { $quantity } σελιδοδείκτες
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } αγαπημένο
+       *[other] { $quantity } αγαπημένα
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } κωδικός πρόσβασης
+       *[other] { $quantity } κωδικοί πρόσβασης
+    }
+migration-wizard-progress-success-formdata = Ιστορικό φορμών
 migration-wizard-safari-instructions-continue = Επιλέξτε «Συνέχεια»
+migration-wizard-safari-select-button = Επιλογή αρχείου
