@@ -138,4 +138,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Chronologia de formulario
 migration-wizard-safari-permissions-sub-header = Pro importar marcapaginas e chronologia de navigation ab Safari
 migration-wizard-safari-instructions-continue = Elige “Continuar”
+migration-wizard-safari-instructions-folder = Selige le plica Safari in le lista e “Open”
 migration-wizard-safari-select-button = Elige file
