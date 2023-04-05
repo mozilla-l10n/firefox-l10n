@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Importar datos del navegador
+migration-wizard-selection-list = Seleccionar los datos a importar
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -26,9 +43,25 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Importar todos los datos disponibles
+migration-no-selected-data-label = No sé seleccionaron datos a importar
+migration-selected-data-label = Importar datos seleccionados
 
 ##
 
+migration-select-all-option-label = Seleccionar todo
+migration-bookmarks-option-label = Marcadores
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Favoritos
+migration-logins-and-passwords-option-label = Inicios de sesión y contraseñas guardados
+migration-history-option-label = Historial de navegación
+migration-form-autofill-option-label = Datos de autollenado de formularios
+migration-import-button-label = Importar
+migration-cancel-button-label = Cancelar
+migration-done-button-label = Listo
+migration-wizard-import-browser-no-browsers = { -brand-short-name } no pudo encontrar ningún programa que contenga datos de marcadores, historial o contraseñas.
+migration-wizard-import-browser-no-resources = Hubo un error. { -brand-short-name } no pudo encontrar ningún dato para importar desde ese perfil de navegador.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -36,6 +69,21 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = marcadores
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = favoritos
+migration-list-password-label = contraseñas
+migration-list-history-label = historial
+migration-list-autofill-label = datos de autollenado
 
 ##
 
+migration-wizard-progress-header = Importando datos
+migration-wizard-progress-done-header = Datos importados exitosamente
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importando…
+migration-wizard-progress-icon-completed =
+    .aria-label = Completo
+migration-safari-password-import-header = Importar contraseñas de Safari
+migration-safari-password-import-steps-header = Para importar contraseñas de Safari:
