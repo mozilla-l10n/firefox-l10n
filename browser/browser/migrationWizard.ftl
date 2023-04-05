@@ -79,3 +79,64 @@ migration-list-autofill-label = gegevens automatysk ynfolje
 
 ##
 
+migration-wizard-progress-header = Gegevens ymportearje
+migration-wizard-progress-done-header = Gegevens mei sukses ymportearre
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Ymportearje…
+migration-wizard-progress-icon-completed =
+    .aria-label = Foltôge
+migration-safari-password-import-header = Wachtwurden út Safari ymportearje
+migration-safari-password-import-steps-header = Safari-wachtwurden ymportearje:
+migration-safari-password-import-step1 = Iepenje yn Safari it menu ‘Safari’ en gean nei Voorkeuren > Wachtwoorden
+migration-safari-password-import-step2 = Selektearje de knop <img data-l10n-name="safari-icon-3dots"/> en kies ‘Alle wachtwoorden exporteren’
+migration-safari-password-import-step3 = Bewarje it wachtwurdbestân
+migration-safari-password-import-step4 = Brûk ‘Bestân selektearje’ hjirûnder om it wachtwurdbestân dat jo bewarre hawwe te kiezen
+migration-safari-password-import-skip-button = Oerslaan
+migration-safari-password-import-select-button = Bestân selektearje
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } blêdwizer
+       *[other] { $quantity } blêdwizers
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favoryt
+       *[other] { $quantity } favoriten
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } wachtwurd
+       *[other] { $quantity } wachtwurden
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Fan de lêste dei
+       *[other] Fan de lêste { $maxAgeInDays } dagen
+    }
+migration-wizard-progress-success-formdata = Formulierskiednis
+migration-wizard-safari-permissions-sub-header = Safari-blêdwizers en navigaasjeskiednis ymportearje:
+migration-wizard-safari-instructions-continue = Selektearje ‘Trochgean’
+migration-wizard-safari-instructions-folder = Selektearje de map Safari yn de list en kies ‘Iepenje’
+migration-wizard-safari-select-button = Bestân selektearje

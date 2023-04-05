@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formulieren
 protections-panel-site-not-working-view-issue-list-payments = Betellingen
 protections-panel-site-not-working-view-issue-list-comments = Opmerkingen
 protections-panel-site-not-working-view-issue-list-videos = Fideo’s
+protections-panel-site-not-working-view-issue-list-fonts = Lettertypen
 protections-panel-site-not-working-view-send-report = Rapport ferstjoere
 
 ##

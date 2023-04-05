@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Jo syngronisearje op it stuit dizze items:
+sync-syncing-across-devices-heading = Jo syngronisearje dizze items tusken al jo ferbûne apparaten:
 sync-currently-syncing-bookmarks = Blêdwizers
 sync-currently-syncing-history = Skiednis
 sync-currently-syncing-tabs = Iepen ljepblêden
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = W
     .buttonlabelextra2 = Ferbrekke…
     .buttonaccesskeyextra2 = F
+sync-choose-dialog-subtitle = Wizigingen yn de list mei te syngronisearjen items hawwe effekt op al jo ferbûne apparaten.
 sync-engine-bookmarks =
     .label = Blêdwizers
     .accesskey = w
