@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vybrať všetky karty
     .accesskey = V
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -49,7 +51,7 @@ toolbar-context-menu-pin-to-overflow-menu =
     .accesskey = P
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Skryť, ak je zoznam prázdny
-    .accesskey = z
+    .accesskey = S
 toolbar-context-menu-always-open-downloads-panel =
     .label = Zobraziť tento panel pri spustení sťahovania
     .accesskey = b
