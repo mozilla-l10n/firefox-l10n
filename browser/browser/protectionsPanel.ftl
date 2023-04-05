@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Innfyllingarform
 protections-panel-site-not-working-view-issue-list-payments = Greiðslur
 protections-panel-site-not-working-view-issue-list-comments = Athugasemdir
 protections-panel-site-not-working-view-issue-list-videos = Myndskeið
+protections-panel-site-not-working-view-issue-list-fonts = Letur
 protections-panel-site-not-working-view-send-report = Senda skýrslu
 
 ##
