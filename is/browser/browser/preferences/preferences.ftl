@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Þú ert núna að samstilla þessi atriði:
+sync-syncing-across-devices-heading = Þú ert að samstilla þessi atriði á öllum tengdum tækjum:
 sync-currently-syncing-bookmarks = Bókamerki
 sync-currently-syncing-history = Ferill
 sync-currently-syncing-tabs = Opnir flipar
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Aftengjast…
     .buttonaccesskeyextra2 = A
+sync-choose-dialog-subtitle = Breytingar á listanum yfir atriði sem á að samstilla munu endurspeglast í öllum tengdum tækjum þínum.
 sync-engine-bookmarks =
     .label = Bókamerki
     .accesskey = m

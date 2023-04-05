@@ -60,6 +60,8 @@ migration-form-autofill-option-label = Sjálfvirk útfyllingargögn reita
 migration-import-button-label = Flytja inn
 migration-cancel-button-label = Hætta við
 migration-done-button-label = Lokið
+migration-wizard-import-browser-no-browsers = { -brand-short-name } fann engin forrit sem innihalda bókamerki, feril eða lykilorðagögn.
+migration-wizard-import-browser-no-resources = Upp kom villa. { -brand-short-name } finnur engin gögn til að flytja inn úr þessu vafrasniði.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -85,7 +87,10 @@ migration-wizard-progress-icon-completed =
     .aria-label = Lokið
 migration-safari-password-import-header = Flytja inn lykilorð úr Safari
 migration-safari-password-import-steps-header = Til að flytja inn lykilorð úr Safari:
+migration-safari-password-import-step1 = Í Safari, opnaðu "Safari" valmyndina og farðu í Kjörstillingar > Lykilorð
+migration-safari-password-import-step2 = Veldu <img data-l10n-name="safari-icon-3dots"/> hnappinn og veldu „Flytja út öll lykilorð“
 migration-safari-password-import-step3 = Vistaðu lykilorðaskrána
+migration-safari-password-import-step4 = Notaðu „Veldu skrá“ hér að neðan til að velja lykilorðaskrána sem þú vistaðir
 migration-safari-password-import-skip-button = Sleppa
 migration-safari-password-import-select-button = Veldu skrá
 # Shown in the migration wizard after importing bookmarks from another
@@ -130,3 +135,8 @@ migration-wizard-progress-success-history =
         [one] Frá síðasta deginum
        *[other] Frá síðustu { $maxAgeInDays } dögum
     }
+migration-wizard-progress-success-formdata = Ferill innfyllingarforms
+migration-wizard-safari-permissions-sub-header = Til að flytja inn Safari-bókamerki og vafurferil:
+migration-wizard-safari-instructions-continue = Veldu „Áfram“
+migration-wizard-safari-instructions-folder = Veldu Safari-möppu á listanum og veldu „Opna“
+migration-wizard-safari-select-button = Veldu skrá
