@@ -138,3 +138,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Historial de formularios
 migration-wizard-safari-permissions-sub-header = Para importar marcadores e historial de navegación de Safari:
 migration-wizard-safari-instructions-continue = Seleccionar “Continuar”
+migration-wizard-safari-instructions-folder = Seleccionar la carpeta de Safari en la lista y elegir “Abrir”
+migration-wizard-safari-select-button = Seleccionar archivo
