@@ -129,11 +129,23 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Nánuku chineída noo´o
 urlbar-search-tips-confirm = OK, vatu!
+urlbar-search-tips-confirm-short = Kuka´nu inini
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tip:
+urlbar-result-menu-button =
+    .title = Síne menu
+urlbar-result-menu-learn-more =
+    .label = Ka´vi kue´eka
+    .accesskey = S
+urlbar-result-menu-remove-from-history =
+    .label = Xita nuu historial
+    .accesskey = E
+urlbar-result-menu-tip-get-help =
+    .label = Nánuku chineída noo´o
+    .accesskey = O
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -263,20 +275,36 @@ search-one-offs-history =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Kune´yá ka̱a̱ chunta´an
 quickactions-cmd-addons2 = Ka̱a̱ chunta´an
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Tetiñu da marcadores
+quickactions-cmd-bookmarks = A ta´an ini noo´o
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Sna da historial
 quickactions-cmd-clearhistory = Sna da historial
+# Opens about:downloads page
+quickactions-downloads2 = Kune´ya a nxinuu
 quickactions-cmd-downloads = Da nxinú
 # Opens about:addons page in the extensions section
 quickactions-extensions = Tetiñu extensión
 quickactions-cmd-extensions = Extensiones
+# Opens the devtools web inspector
+quickactions-inspector2 = Síne ka̱a̱ ñɨvɨ sá´á sofware
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
+# Opens about:logins
+quickactions-logins2 = Tetiñu da contraseñas
 quickactions-cmd-logins = Nuu kajie´e sesión, contraseñas
 # Opens about:addons page in the plugins section
 quickactions-plugins = Tetiñu da plugins
 quickactions-cmd-plugins = plugins
+# Opens the print dialog
+quickactions-print2 = Natava página
 quickactions-cmd-print = Nátava
+# Opens a new private browsing window
+quickactions-private2 = Síne iin ventana yu´u
+quickactions-cmd-private = Nánuku yu´u
 quickactions-cmd-restart = Nákajie´e
 quickactions-cmd-themes = temas
 quickactions-cmd-viewsource = Kune'ya fuente, fuente

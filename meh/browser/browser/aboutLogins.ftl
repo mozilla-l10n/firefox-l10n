@@ -7,6 +7,11 @@ about-logins-page-title = Nuu kajie´e sesión ji contraseñas
 login-filter =
     .placeholder = Nánuku nuu kajie´e sesión
 create-login-button = Sá´á jíía iin kajie´e sesión
+about-logins-login-filter =
+    .placeholder = Nánuku nuu kajieé sesión
+    .key = F
+create-new-login-button =
+    .title = Sá´á jíía nuu kajie´e sesión
 fxaccounts-sign-in-text = Ni´i da contraseñas nuu inka ka̱a̱
 fxaccounts-sign-in-sync-button = Kajie'e sesión sa kuvi sa sincronizar
 fxaccounts-avatar-button =
@@ -32,6 +37,8 @@ about-logins-menu-menuitem-help = Chinei
 
 login-list =
     .aria-label = Nuu kajie´e sesión a íyo inu ji a nánukunu
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
        *[other] { $count }Nuu kajie´e sesión
@@ -95,6 +102,12 @@ login-item-time-changed = Nuu nɨ'ɨ nsama: { DATETIME($timeChanged, day: "numer
 login-item-time-created = Nsá'á: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Nuu nɨ'ɨ a nsá´á: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = Nsá´á
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -139,6 +152,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 about-logins-confirm-remove-dialog-confirm-button = Xita
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Xita
@@ -157,6 +174,9 @@ about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ¿Xina { $count } nu kajie´e sesión ntaka da ka̱a̱?
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Kuiso da nuu kajie'e sesión ji contraseñas
 about-logins-confirm-export-dialog-message = Da contraseñas noo´o nchuva´a kua tu'un (kua,  BadP@ssw0rd) je de íyo neva síne archvio kuvi kutuvi.
 about-logins-confirm-export-dialog-confirm-button = Exportar…

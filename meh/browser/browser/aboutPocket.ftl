@@ -50,6 +50,7 @@ pocket-panel-home-explore-more = Explorar
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Kune'ya lista
+pocket-panel-header-my-saves = Kune´ya da elementos nchuva´a
 pocket-panel-header-sign-in = Kajie´e sesión
 
 ## Pocket panel buttons
