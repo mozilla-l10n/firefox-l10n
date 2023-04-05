@@ -50,7 +50,9 @@ migration-bookmarks-option-label = Закладкі
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Выбраныя
+migration-logins-and-passwords-option-label = Захаваныя лагіны і паролі
 migration-history-option-label = Гісторыя аглядання
+migration-form-autofill-option-label = Звесткі аўтазапаўнення формаў
 migration-import-button-label = Імпартаваць
 migration-cancel-button-label = Скасаваць
 migration-done-button-label = Гатова
@@ -75,7 +77,30 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Скончана
 migration-safari-password-import-header = Імпартаваць паролі з Safari
+migration-safari-password-import-steps-header = Каб імпартаваць паролі з Safari:
 migration-safari-password-import-skip-button = Прапусціць
 migration-safari-password-import-select-button = Выбраць файл
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } закладка
+        [few] { $quantity } закладкі
+       *[many] { $quantity } закладак
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } пароль
+        [few] { $quantity } паролі
+       *[many] { $quantity } пароляў
+    }
 migration-wizard-progress-success-formdata = Гісторыя формаў
 migration-wizard-safari-select-button = Выбраць файл
