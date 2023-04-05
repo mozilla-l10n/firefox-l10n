@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Αυτή τη στιγμή, συγχρονίζονται τα εξής στοιχεία:
+sync-syncing-across-devices-heading = Μπορείτε να συγχρονίσετε αυτά τα στοιχεία σε όλες τις συνδεδεμένες συσκευές σας:
 sync-currently-syncing-bookmarks = Σελιδοδείκτες
 sync-currently-syncing-history = Ιστορικό
 sync-currently-syncing-tabs = Ανοικτές καρτέλες
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = π
     .buttonlabelextra2 = Αποσύνδεση…
     .buttonaccesskeyextra2 = Α
+sync-choose-dialog-subtitle = Οι αλλαγές στη λίστα των στοιχείων προς συγχρονισμό θα αντικατοπτρίζονται σε όλες τις συνδεδεμένες συσκευές σας.
 sync-engine-bookmarks =
     .label = Σελιδοδείκτες
     .accesskey = δ
