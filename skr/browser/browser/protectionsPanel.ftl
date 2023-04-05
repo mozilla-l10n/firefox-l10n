@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = فارم
 protections-panel-site-not-working-view-issue-list-payments = ادائیگیاں
 protections-panel-site-not-working-view-issue-list-comments = تبصرے
 protections-panel-site-not-working-view-issue-list-videos = ویڈیو
+protections-panel-site-not-working-view-issue-list-fonts = فونٹس
 protections-panel-site-not-working-view-send-report = رپورٖٹ پٹھو
 
 ##
