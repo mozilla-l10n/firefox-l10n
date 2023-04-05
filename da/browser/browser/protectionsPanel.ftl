@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formularer
 protections-panel-site-not-working-view-issue-list-payments = Betalinger
 protections-panel-site-not-working-view-issue-list-comments = Kommentarer
 protections-panel-site-not-working-view-issue-list-videos = Videoer
+protections-panel-site-not-working-view-issue-list-fonts = Skrifttyper
 protections-panel-site-not-working-view-send-report = Send en rapport
 
 ##
