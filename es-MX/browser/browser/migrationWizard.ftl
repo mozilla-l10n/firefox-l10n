@@ -48,6 +48,8 @@ migration-selected-data-label = Importar datos seleccionados
 
 ##
 
+migration-select-all-option-label = Seleccionar todo
+migration-bookmarks-option-label = Marcadores
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritos
@@ -77,4 +79,52 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importando…
 migration-wizard-progress-icon-completed =
     .aria-label = Completado
+migration-safari-password-import-header = Importar contraseñas de Safari
+migration-safari-password-import-step3 = Guardar el archivo de contraseñas
+migration-safari-password-import-step4 = Usa “Seleccionar archivo” a continuación para elegir el archivo de contraseñas que guardaste
 migration-safari-password-import-skip-button = Saltar
+migration-safari-password-import-select-button = Seleccionar archivo
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } marcador
+       *[other] { $quantity } marcadores
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favorito
+       *[other] { $quantity } favoritos
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } contraseña
+       *[other] { $quantity } contraseñas
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Desde el último día
+       *[other] De los últimos { $maxAgeInDays } días
+    }
+migration-wizard-progress-success-formdata = Historial de formularios
+migration-wizard-safari-select-button = Seleccionar archivo
