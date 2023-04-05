@@ -90,3 +90,51 @@ migration-safari-password-import-steps-header = Richin yejik' ewan  taq tzij pa 
 migration-safari-password-import-step1 = Pa Safari, tijaq ri cholsamaj “Safari” k'a ri pa Taq ajowab'äl > Ewan taq Tzij
 migration-safari-password-import-step2 = Tacha' ri <img data-l10n-name="safari-icon-3dots"/> pitz'b'äl k'a ri tacha' “Kejik' Ronojel Ewan taq Tzij”
 migration-safari-password-import-step3 = Keyak kiyakb'al ewan taq tzij
+migration-safari-password-import-step4 = Tokisäx “Ticha' Yakb'äl” chuxe' richin nicha' ri ruyakb'al ewan taq tzij xtiyak
+migration-safari-password-import-skip-button = Tik'o'
+migration-safari-password-import-select-button = Ticha' Yakb'äl
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } yaketal
+       *[other] { $quantity } taq yaketal
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } ajowab'äl
+       *[other] { $quantity } taq ajowab'äl
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } ewan tzij
+       *[other] { $quantity } ewan taq tzij
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Richin ruk'isib'äl q'ij
+       *[other] Richin ruk'isib'äl { $maxAgeInDays } q'ij
+    }
+migration-wizard-progress-success-formdata = Runojwuj natab'äl
+migration-wizard-safari-instructions-continue = Ticha' “Tisamajïx”
+migration-wizard-safari-select-button = Ticha' Yakb'äl

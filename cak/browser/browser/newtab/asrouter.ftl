@@ -211,23 +211,7 @@ colorways-cfr-primarybutton = Ticha' tunun b'onil
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Xek'is ri taq kib'aner koki!
-cfr-cookiebanner-accept-button-v2 = Kexutüx taq k'utuj
-    .accesskey = x
-cfr-cookiebanner-reject-button = Wakami mani
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Ketz'et jub'a' elenel taq kuki
-cfr-cookiebanner-body-variant-1 = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil tutzolij kitzij ri elenel taq kuki richin majun nimejo' ri awokem pa k'amaya'l.{ -brand-short-name } xkeruxutuj ronojel ri taq taqoj xkekik'utuj we k'amonel.
-cfr-cookiebanner-accept-button-variant-1 = Kexutüx elenel taq tzuwäch
-    .accesskey = x
-cfr-cookiebanner-reject-button-variant-1 = Mani matyox
-    .accesskey = n
-cfr-cookiebanner-header-variant-2 = Kech'utinirisäx kitzijol kuki
-cfr-cookiebanner-accept-button-variant-2 = Tiya' q'ij
-    .accesskey = y
-cfr-cookiebanner-reject-button-variant-2 = Wakami mani
-    .accesskey = n
+cfr-cbh-body = { -brand-short-name } nitikïr yeruxutuj pa ruyonil k\'ïy kik\'utuxik taq kuki.
 cfr-cbh-confirm-button = Kexutüx kitzijol kuki
     .accesskey = x
 cfr-cbh-dismiss-button = Wakami mani

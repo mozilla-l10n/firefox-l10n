@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Taq Nojwuj
 protections-panel-site-not-working-view-issue-list-payments = Taq Tojïk
 protections-panel-site-not-working-view-issue-list-comments = Taq tzijol
 protections-panel-site-not-working-view-issue-list-videos = Taq Silowäch
+protections-panel-site-not-working-view-issue-list-fonts = Ruwäch tz'ib'
 protections-panel-site-not-working-view-send-report = Titaq jun rutzijol
 
 ##
