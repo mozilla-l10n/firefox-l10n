@@ -60,6 +60,8 @@ migration-form-autofill-option-label = Completion automatic datos de formularios
 migration-import-button-label = Importar
 migration-cancel-button-label = Cancellar
 migration-done-button-label = Facite
+migration-wizard-import-browser-no-browsers = { -brand-short-name } non pote trovar ulle programmas que contine datos de marcapagina, chronologia o contrasigno.
+migration-wizard-import-browser-no-resources = Un error eveniva. { -brand-short-name } non pote trovar ulle datos a importar del profilo de ille navigator.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -84,6 +86,11 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Completate
 migration-safari-password-import-header = Importar contrasigno ab Safari
+migration-safari-password-import-steps-header = Pro importar contrasignos de Safari:
+migration-safari-password-import-step1 = In Safari, aperi le menu de “Safari” e va a Preferences > Passwords
+migration-safari-password-import-step2 = Selige le button <img data-l10n-name="safari-icon-3dots"/> e selige “Export All Passwords”
+migration-safari-password-import-step3 = Salva le file passwords
+migration-safari-password-import-step4 = Usa “Select File” infra pro seliger le file passwords que tu salvava
 migration-safari-password-import-skip-button = Saltar
 migration-safari-password-import-select-button = Eliger file
 # Shown in the migration wizard after importing bookmarks from another
