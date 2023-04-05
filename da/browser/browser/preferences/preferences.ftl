@@ -132,6 +132,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Deaktiver udvidelse
 preferences-data-migration-header = Importer browserdata
+preferences-data-migration-description = Importer bogmærker, adgangskoder, historik og data til autofyldning til { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importer data
     .accesskey = m
