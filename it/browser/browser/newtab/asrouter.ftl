@@ -281,6 +281,14 @@ july-jam-headline = Sempre dalla tua parte
 july-jam-body = Ogni mese { -brand-short-name } blocca in media oltre 3.000 elementi traccianti per ciascun utente, offrendoti un accesso sicuro e veloce alla parte migliore di Internet.
 july-jam-set-default-primary = Apri i miei link con { -brand-short-name }
 
+fox-doodle-pin-headline = Bentornato
+
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Un promemoria al volo: puoi tenere il tuo browser indipendente preferito sempre a portata di clic.
+fox-doodle-pin-primary = Apri i miei link con { -brand-short-name }
+fox-doodle-pin-secondary = Non adesso
+
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-headline = <strong>Ora puoi aprire i tuoi PDF in { -brand-short-name }.</strong> Modifica o firma i moduli direttamente nel tuo browser. Per iniziare, cerca “PDF” nelle impostazioni.
