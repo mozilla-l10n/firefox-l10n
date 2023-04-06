@@ -35,6 +35,14 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = ອຸປະກອນແບ່ງປັນແທັບ
     .accesskey = d
+webrtc-microphone-muted =
+    .title = ເປີດໄມໂຄຣໂຟນ
+webrtc-camera-unmuted =
+    .title = ປິດກ້ອງຖ່າຍຮູບ
+webrtc-camera-muted =
+    .title = ເປີດກ້ອງຖ່າຍຮູບ
+webrtc-minimize =
+    .title = ຫຍໍ້ຕົວຊີ້ບອກ
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -76,6 +84,8 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = ຄວບຄຸມການແບ່ງປັນຢູ່ “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = ກຳລັງແບ່ງປັນກ້ອງຖ່າຍຮູບກັບ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = ແບ່ງປັນແອັບພລິເຄຊັນກັບ “{ $streamTitle }”
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -88,8 +98,12 @@ webrtc-indicator-menuitem-sharing-camera-with =
 
 ##
 
+webrtc-share-screen-warning = ແບ່ງປັນໜ້າຈໍກັບເວັບໄຊທີ່ທ່ານເຊື່ອຖືເທົ່ານັ້ນ. ການ​ແບ່ງ​ປັນ​ສາ​ມາດ​ອະ​ນຸ​ຍາດ​ໃຫ້​ເວັບ​ໄຊ​ທີ່​ຫຼອກ​ລວງ​ທ່ອງ​ເວັບ​ຕາມ​ທີ່​ທ່ານ​ແລະ​ລັກ​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​.
+webrtc-share-browser-warning = ພຽງແຕ່ແບ່ງປັນ { -brand-short-name } ກັບເວັບໄຊທີ່ທ່ານເຊື່ອຖື. ການ​ແບ່ງ​ປັນ​ສາ​ມາດ​ອະ​ນຸ​ຍາດ​ໃຫ້​ເວັບ​ໄຊ​ທີ່​ຫຼອກ​ລວງ​ທ່ອງ​ເວັບ​ຕາມ​ທີ່​ທ່ານ​ແລະ​ລັກ​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​.
 webrtc-share-screen-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+webrtc-pick-window-or-screen = ເລືອກປ່ອງຢ້ຽມຫຼືຫນ້າຈໍ
 webrtc-share-entire-screen = ທັງຫນ້າຈໍ
+webrtc-share-pipe-wire-portal = ໃຊ້ການຕັ້ງຄ່າລະບົບປະຕິບັດການ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = ຫນ້າຈໍ { $monitorIndex }
