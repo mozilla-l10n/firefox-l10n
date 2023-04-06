@@ -1485,6 +1485,9 @@ preferences-doh-status = Stato: { $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Fornitore: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL non valido
 preferences-doh-steering-status = Fornitore locale in uso
 
 preferences-doh-status-active = Attivo
