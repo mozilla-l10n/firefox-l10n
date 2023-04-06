@@ -73,6 +73,17 @@ restart-later = පසුව යළි අරඹන්න
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> මෙම සැකසුම පාලනය කරයි.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = සැකසුම්…
     .accesskey = i
 containers-disable-alert-title = සියළු පටිති අඩංගු වසන්නද?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] ඔබ දැන් පටිති අඩංගු අබල කළහොත්, පටිති අඩංගු { $tabCount } ක් වසා දමනු ඇත. ඔබට පටිති අඩංගු අබල කිරීමට වුවමනා ද?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] පටිති අඩංගු { $tabCount } ක් වසන්න
        *[other] පටිති අඩංගු { $tabCount } ක් වසන්න
     }
+
+##
+
 containers-disable-alert-cancel-button = සබලව තබන්න
 containers-remove-alert-title = මෙම අඩංගුව ඉවත් කරන්නද?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] ඔබ දැන් මෙම අඩංගුව ඉවත් කළහොත්, පටිති අඩංගු { $count } ක් වසා දමනු ඇත. ඔබට අඩංගුව ඉවත් කිරීමට වුවමනා ද?
@@ -228,6 +246,8 @@ advanced-fonts =
 preferences-zoom-header = විශාලනය
 preferences-default-zoom = පෙරනිමි විශාලනය
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -319,15 +339,15 @@ applications-manage-app =
 applications-always-ask =
     .label = සැමවිට අසන්න
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = ({ -brand-short-name } තුළ) { $plugin-name } භාවිතා කරන්න
 applications-open-inapp =
@@ -370,6 +390,8 @@ play-drm-content =
 play-drm-content-learn-more = තව දැනගන්න
 update-application-title = { -brand-short-name } යාවත්කාල
 update-application-description = ඉහළ කාර්ය සාධනය, ස්ථායිතාව සහ ආරක්‍ෂාව සඳහා { -brand-short-name } යාවත්කාලීනව තබා ගන්න.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = අනුවාදය { $version } <a data-l10n-name="learn-more">අළුත් දෑ</a>
 update-history =
     .label = යාවත්කාල ඉතිහාසය පෙන්වන්න...
@@ -413,7 +435,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = අන්තර්ගත සැකසීම් සීමාව
     .accesskey = I
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num }(පෙරනිමි)
 
@@ -519,6 +541,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } විසින් නිර්දේශිතයි
 
@@ -547,6 +573,8 @@ home-prefs-recent-activity-description = මෑත අඩවි සහ අන්
 home-prefs-snippets-header =
     .label = කෙටි සටහන්
 home-prefs-snippets-description-new = { -vendor-short-name } සහ { -brand-product-name } වෙතින් ඉඟි සහ පුවත්
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -606,7 +634,7 @@ search-find-more-link = තවත් සෙවුම් යන්ත්‍ර �
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = අනුපිටපත් මූල පදය
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = ඔබ තෝරාගත් මූල පදය දැනට "{ $name }" මගින් භාවිතා කරයි. වෙනත් එකක් තෝරන්න.
 search-keyword-warning-bookmark = ඔබ තෝරාගත් මූල පදය දැනට පොත්යොමුවක භාවිතා කෙරේ. වෙනත් එකක් තෝරන්න.
 
@@ -653,8 +681,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = ගිණුම කළමනාකරණය
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } තහවුරු කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+##
+
 sync-resend-verification =
     .label = තහවුරු කිරීම නැවත එවන්න
     .accesskey = d
@@ -777,6 +812,7 @@ forms-breach-alerts =
     .label = උල්ලංඝනය වූ අඩවිවල මුරපද පිළිබඳව ඇඟවීම් පෙන්වන්න
     .accesskey = b
 forms-breach-alerts-learn-more-link = තව දැනගන්න
+relay-integration-learn-more-link = තව දැනගන්න
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = පිවිසුම් සහ මුරපද ස්වයංව පුරවන්න
@@ -865,8 +901,8 @@ history-clear-button =
 sitedata-header = දත්තකඩ හා අඩවි දත්ත
 sitedata-total-size-calculating = අඩවි දත්ත සහ නිහිතයේ ප්‍රමාණය ගණනය වෙමින්...
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ගබඩා වී තිබෙන දත්තකඩ, අඩවි දත්ත සහ නිහිතය දැනට { $unit } { $value } ක තැටි ඉඩක් භාවිතා කරයි.
 sitedata-learn-more = තව දැනගන්න
 sitedata-delete-on-close =
@@ -899,6 +935,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = හැරදැමීම් කළමනාකරණය...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-learn-more = තව දැනගන්න
 
 ## Privacy Section - Address Bar
 
@@ -1025,6 +1065,9 @@ permissions-camera-settings =
     .accesskey = t
 permissions-microphone = ශබ්දවාහිනිය
 permissions-microphone-settings =
+    .label = සැකසුම්…
+    .accesskey = t
+permissions-speaker-settings =
     .label = සැකසුම්…
     .accesskey = t
 permissions-notification = දැනුම්දීම්
