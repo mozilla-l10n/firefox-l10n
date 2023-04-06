@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formlar
 protections-panel-site-not-working-view-issue-list-payments = Ödemeler
 protections-panel-site-not-working-view-issue-list-comments = Yorumlar
 protections-panel-site-not-working-view-issue-list-videos = Videolar
+protections-panel-site-not-working-view-issue-list-fonts = Yazı tipleri
 protections-panel-site-not-working-view-send-report = Rapor gönderin
 
 ##
