@@ -678,6 +678,12 @@ reader-view-close-button =
 picture-in-picture-urlbar-button =
     .tooltiptext = Attiva/disattiva Picture-in-Picture
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Apri Picture-in-Picture ({ $shortcut })
+
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Chiudi Picture-in-Picture ({ $shortcut })
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
