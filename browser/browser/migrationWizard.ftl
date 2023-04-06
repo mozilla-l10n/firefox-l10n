@@ -42,6 +42,9 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Імпартаваць усе даступныя дадзеныя
+migration-no-selected-data-label = Няма абраных дадзеных для імпарту
+migration-selected-data-label = Імпартаваць абраныя дадзеныя
 
 ##
 
