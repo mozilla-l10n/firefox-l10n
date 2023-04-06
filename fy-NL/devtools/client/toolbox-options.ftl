@@ -41,6 +41,8 @@ options-inspector-draggable-properties-tooltip =
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Brûk ienfâldigere aksintuearring mei prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Skeakelet ienfâldiger aksintuearringen yn as prefers-reduced-motion ynskeakele is. Trekt linen yn stee fan opfolle rjochthoeken rûn aksintuearre eleminten om knippereffekten foar te kommen.
 
 ## "Default Color Unit" options for the Inspector
 
