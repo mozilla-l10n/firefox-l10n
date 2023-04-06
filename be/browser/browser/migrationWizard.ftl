@@ -59,6 +59,7 @@ migration-form-autofill-option-label = Звесткі аўтазапаўненн
 migration-import-button-label = Імпартаваць
 migration-cancel-button-label = Скасаваць
 migration-done-button-label = Гатова
+migration-wizard-import-browser-no-browsers = { -brand-short-name } не змог знайсці праграмы, якія ўтрымліваюць закладкі, гісторыю або паролі.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
