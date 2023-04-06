@@ -1523,8 +1523,8 @@ preferences-doh-setting-strict =
   .accesskey = m
 preferences-doh-strict-desc = { -brand-short-name } utilizzerà sempre un DNS sicuro. Verrà visualizzato un avviso prima di utilizzare il DNS di sistema.
 preferences-doh-strict-detailed-desc-1 = Utilizza solo il fornitore che hai selezionato
-preferences-doh-strict-detailed-desc-2 = Avvisa sempre se non è disponibile un DNS sicuro
-preferences-doh-strict-detailed-desc-3 = Se non è disponibile un DNS sicuro i siti potrebbero non caricarsi o non funzionare correttamente
+preferences-doh-strict-detailed-desc-2 = Avvisa sempre se il DNS sicuro non è disponibile
+preferences-doh-strict-detailed-desc-3 = Se il DNS sicuro non è disponibile, i siti potrebbero non caricarsi o non funzionare correttamente
 
 preferences-doh-setting-off =
   .label = Disattivato
@@ -1532,15 +1532,19 @@ preferences-doh-setting-off =
 preferences-doh-off-desc = Utilizza il sistema di risoluzione dei nomi predefinito
 
 preferences-doh-checkbox-warn =
-    .label = Avvisa se un soggetto di terze parti impedisce l’utilizzo di un DNS sicuro
+    .label = Avvisa se un soggetto di terze parti impedisce l’utilizzo del DNS sicuro
     .accesskey = A
 
 preferences-doh-select-resolver = Scegli il fornitore:
+
+preferences-doh-exceptions-description = { -brand-short-name } non utilizzerà il DNS sicuro in questi siti
+
+preferences-doh-manage-exceptions =
+    .label = Gestisci eccezioni…
+    .accesskey = z
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
-
