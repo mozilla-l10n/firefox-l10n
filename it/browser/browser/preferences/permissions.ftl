@@ -252,4 +252,25 @@ permissions-site-speaker-window =
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = I seguenti siti web hanno richiesto il permesso di selezionare un dispositivo di uscita audio. È possibile specificare quali siti web potranno effettuare questa selezione.
 
+permissions-exceptions-doh-window =
+    .title = Eccezioni per DNS over HTTPS
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } non utilizzerà un DNS sicuro per questi siti e i relativi sottodomini.
 
+permissions-doh-entry-field = Inserire il nome di dominio del sito web
+    .accesskey = d
+
+permissions-doh-add-exception =
+    .label = Aggiungi
+    .accesskey = A
+
+permissions-doh-col =
+    .label = Dominio
+
+permissions-doh-remove =
+    .label = Rimuovi
+    .accesskey = R
+
+permissions-doh-remove-all =
+    .label = Rimuovi tutti
+    .accesskey = u
