@@ -111,4 +111,5 @@ migration-wizard-progress-success-passwords =
         [one] මුරපද { $quantity }
        *[other] මුරපද { $quantity }
     }
-migration-wizard-progress-success-formdata = ආකෘති ඉතිහාසය
+migration-wizard-safari-instructions-continue = “ඉදිරියට” තෝරන්න
+migration-wizard-safari-select-button = ගොනුවක් තෝරන්න
