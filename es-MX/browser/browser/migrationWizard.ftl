@@ -80,6 +80,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Completado
 migration-safari-password-import-header = Importar contraseñas de Safari
+migration-safari-password-import-steps-header = Para importar contraseñas de Safari:
 migration-safari-password-import-step3 = Guardar el archivo de contraseñas
 migration-safari-password-import-step4 = Usa “Seleccionar archivo” a continuación para elegir el archivo de contraseñas que guardaste
 migration-safari-password-import-skip-button = Saltar
@@ -127,4 +128,6 @@ migration-wizard-progress-success-history =
        *[other] De los últimos { $maxAgeInDays } días
     }
 migration-wizard-progress-success-formdata = Historial de formularios
+migration-wizard-safari-instructions-continue = Selecciona "Continuar"
+migration-wizard-safari-instructions-folder = Selecciona la carpeta Safari en la lista y elije “Abrir”
 migration-wizard-safari-select-button = Seleccionar archivo
