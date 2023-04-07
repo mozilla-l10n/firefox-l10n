@@ -132,6 +132,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Deshabilitar extensión
 preferences-data-migration-header = Importar datos del navegador
+preferences-data-migration-description = Importa marcadores, contraseñas, historial y datos de autocompletadomarcar en { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importar datos
     .accesskey = m
@@ -742,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Actualmente estás sincronizando estos elementos:
+sync-syncing-across-devices-heading = Estás sincronizando estos elementos en todos tus dispositivos conectados:
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Abrir pestañas
