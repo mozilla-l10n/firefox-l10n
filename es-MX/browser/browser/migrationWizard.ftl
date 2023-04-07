@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Importar datos del navegador
 migration-wizard-selection-list = Selecciona los datos que deseas importar.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
@@ -70,6 +71,8 @@ migration-list-bookmark-label = marcadores
 # if the browser is available in your language.
 migration-list-favorites-label = favoritos
 migration-list-password-label = contraseñas
+migration-list-history-label = historial
+migration-list-autofill-label = datos de autocompletado
 
 ##
 
@@ -81,7 +84,9 @@ migration-wizard-progress-icon-completed =
     .aria-label = Completado
 migration-safari-password-import-header = Importar contraseñas de Safari
 migration-safari-password-import-steps-header = Para importar contraseñas de Safari:
-migration-safari-password-import-step3 = Guardar el archivo de contraseñas
+migration-safari-password-import-step1 = En Safari, abre el menú "Safari" y ve a Preferencias > Contraseñas
+migration-safari-password-import-step2 = Selecciona el botón <img data-l10n-name="safari-icon-3dots"/> y elige “Exportar todas las contraseñas”
+migration-safari-password-import-step3 = Guarda el archivo de contraseñas
 migration-safari-password-import-step4 = Usa “Seleccionar archivo” a continuación para elegir el archivo de contraseñas que guardaste
 migration-safari-password-import-skip-button = Saltar
 migration-safari-password-import-select-button = Seleccionar archivo
@@ -128,6 +133,7 @@ migration-wizard-progress-success-history =
        *[other] De los últimos { $maxAgeInDays } días
     }
 migration-wizard-progress-success-formdata = Historial de formularios
+migration-wizard-safari-permissions-sub-header = Para importar marcadores e historial de navegación de Safari:
 migration-wizard-safari-instructions-continue = Selecciona "Continuar"
 migration-wizard-safari-instructions-folder = Selecciona la carpeta Safari en la lista y elije “Abrir”
 migration-wizard-safari-select-button = Seleccionar archivo
