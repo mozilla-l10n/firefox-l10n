@@ -176,7 +176,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } { $t
 ##
 
 webrtc-share-screen-warning = Yalnızca güvendiğiniz sitelerle ekranınızı paylaşın. Paylaşım, aldatıcı sitelerin sizin adınıza web’de dolaşmasına ve özel verilerinizi çalmasına olanak tanıyabilir.
-webrtc-share-browser-warning = Yalnızca güvendiğiniz sitelerle { -brand-short-name } paylaşımı yapın. Paylaşım, aldatıcı sitelerin sizin adınıza web’de dolaşmasına ve özel verilerinizi çalmasına olanak tanıyabilir.
+webrtc-share-browser-warning = { -brand-short-name } tarayıcınızı yalnızca güvendiğiniz sitelerle paylaşın. Paylaşım, aldatıcı sitelerin sizin adınıza web’de gezinmesine ve özel verilerinizi çalmasına olanak tanıyabilir.
 webrtc-share-screen-learn-more = Daha fazla bilgi alın
 webrtc-pick-window-or-screen = Pencere veya ekranı seçin
 webrtc-share-entire-screen = Tüm ekran
