@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-list = ເລືອກ​ຂໍ້​ມູນ​ທີ່​ທ່ານ​ຕ້ອງ​ການ​ນໍາ​ເຂົ້າ​.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -111,6 +112,12 @@ migration-wizard-progress-success-favorites = { $quantity } ລາຍການ�
 # Variables:
 #  $quantity (Number): the number of successfully imported passwords
 migration-wizard-progress-success-passwords = ລະຫັດຜ່ານ { $quantity }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history = ຈາກ { $maxAgeInDays } ມື້ທີ່ຜ່ານມາ
 migration-wizard-progress-success-formdata = ແບບຟອມປະຫວັດການໃຊ້ງານ
 migration-wizard-safari-permissions-sub-header = ເພື່ອນໍາເຂົ້າ bookmarks Safari ແລະປະຫວັດການທ່ອງເວັບ:
 migration-wizard-safari-instructions-continue = ເລືອກ "ສືບຕໍ່"
