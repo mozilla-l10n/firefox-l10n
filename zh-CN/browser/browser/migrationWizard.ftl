@@ -51,6 +51,10 @@ migration-selected-data-label = 导入所选数据
 
 migration-select-all-option-label = 全选
 migration-bookmarks-option-label = 书签
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = 收藏夹
+migration-logins-and-passwords-option-label = 保存的登录名和密码
 migration-history-option-label = 浏览历史
 migration-import-button-label = 导入
 migration-cancel-button-label = 取消
@@ -62,7 +66,25 @@ migration-done-button-label = 完成
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = 书签
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = 收藏夹
+migration-list-password-label = 密码
+migration-list-history-label = 历史记录
 
 ##
 
+migration-wizard-progress-header = 正在导入数据
+migration-wizard-progress-done-header = 数据导入成功
+migration-wizard-progress-icon-in-progress =
+    .aria-label = 正在导入…
+migration-wizard-progress-icon-completed =
+    .aria-label = 已完成
+migration-safari-password-import-header = 从 Safari 浏览器导入密码
+migration-safari-password-import-step3 = 保存密码文件
 migration-safari-password-import-skip-button = 跳过
+migration-safari-password-import-select-button = 选择文件
+migration-wizard-progress-success-formdata = 表单历史记录
+migration-wizard-safari-instructions-continue = 选择“继续”
+migration-wizard-safari-select-button = 选择文件
