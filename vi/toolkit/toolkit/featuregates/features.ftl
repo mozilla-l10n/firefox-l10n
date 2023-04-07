@@ -12,6 +12,7 @@ experimental-features-css-masonry-description = Cho phép hỗ trợ cho tính n
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = API mới này cung cấp hỗ trợ cấp thấp để thực hiện tính toán và kết xuất đồ họa bằng cách sử dụng <a data-l10n-name="wikipedia">bộ xử lí đồ họa(GPU)</a> của thiết bị hoặc máy tính của người dùng. <a data-l10n-name="spec">Thông số kĩ thuật</a> vẫn đang được tiến hành. Xem <a data-l10n-name="bugzilla">bug 1602129</a> để biết thêm chi tiết.
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> cung cấp hỗ trợ cấp thấp để thực hiện tính toán và hiển thị đồ họa bằng cách sử dụng <a data-l10n-name="wikipedia-gpu">bộ xử lý đồ họa (GPU)</a> của thiết bị hoặc máy tính của người dùng. Phiên bản đầu tiên của <a data-l10n-name="spec">thông số</a> sắp hoàn thiện. Xem <a data-l10n-name="bugzilla">bug 1616739</a> để biết thêm chi tiết.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =

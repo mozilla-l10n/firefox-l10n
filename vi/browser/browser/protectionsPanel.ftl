@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Biểu mẫu
 protections-panel-site-not-working-view-issue-list-payments = Thanh toán
 protections-panel-site-not-working-view-issue-list-comments = Bình luận
 protections-panel-site-not-working-view-issue-list-videos = Video
+protections-panel-site-not-working-view-issue-list-fonts = Phông chữ
 protections-panel-site-not-working-view-send-report = Gửi báo cáo
 
 ##
