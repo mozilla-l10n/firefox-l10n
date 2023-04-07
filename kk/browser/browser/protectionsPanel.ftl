@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Формалар
 protections-panel-site-not-working-view-issue-list-payments = Төлемдер
 protections-panel-site-not-working-view-issue-list-comments = Түсіндірмелер
 protections-panel-site-not-working-view-issue-list-videos = Видеолар
+protections-panel-site-not-working-view-issue-list-fonts = Қаріптер
 protections-panel-site-not-working-view-send-report = Есептемені жіберу
 
 ##
