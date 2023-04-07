@@ -1112,7 +1112,7 @@ permissions-microphone-settings =
     .label = 设置…
     .accesskey = m
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = 选择扬声器
+permissions-speaker = 扬声器
 permissions-speaker-settings =
     .label = 设置…
     .accesskey = t
