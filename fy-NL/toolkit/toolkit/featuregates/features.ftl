@@ -12,7 +12,7 @@ experimental-features-css-masonry-description = Makket stipe foar de eksperimint
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Dizze nije API biedt stipe op leech nivo foar it útfieren fan berekkeningen en grafyske werjefte mei help fan de <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> fan it apparaat of de kompjûter fan de brûker. De <a data-l10n-name="spec">spesifikaasje</a> is noch hieltyd yn ûntwikkeling. Sjoch <a data-l10n-name="bugzilla">bug 1602129</a> foar mear details.
-experimental-features-web-gpu-description3 = Dizze <a data-l10n-name="wikipedia-webgpu">WebGPU-API biedt stipe op leech nivo foar it útfieren fan berekkeningen en grafyske werjefte mei help fan de <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> fan it apparaat of de kompjûter fan de brûker. De earste ferzje fan de <a data-l10n-name="spec">spesifikaasje</a> is hast ree. Sjoch <a data-l10n-name="bugzilla">bug 1616739</a> foar mear details.
+experimental-features-web-gpu-description3 = Dizze <a data-l10n-name="wikipedia-webgpu">WebGPU-API</a> biedt stipe op leech nivo foar it útfieren fan berekkeningen en grafyske werjefte mei help fan de <a data-l10n-name="wikipedia-gpu">Graphics Processing Unit (GPU)</a> fan it apparaat of de kompjûter fan de brûker. De earste ferzje fan de <a data-l10n-name="spec">spesifikaasje</a> is hast ree. Sjoch <a data-l10n-name="bugzilla">bug 1616739</a> foar mear details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
