@@ -44,6 +44,7 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Mevcut tüm verileri içe aktar
+migration-no-selected-data-label = İçe aktarılacak veriler seçilmedi
 migration-selected-data-label = Seçilen verileri içe aktar
 
 ##
