@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = 表单
 protections-panel-site-not-working-view-issue-list-payments = 支付
 protections-panel-site-not-working-view-issue-list-comments = 评论
 protections-panel-site-not-working-view-issue-list-videos = 视频
+protections-panel-site-not-working-view-issue-list-fonts = 字体
 protections-panel-site-not-working-view-send-report = 发送反馈
 
 ##
