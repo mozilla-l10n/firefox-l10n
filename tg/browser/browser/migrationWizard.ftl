@@ -131,4 +131,7 @@ migration-wizard-progress-success-history =
         [one] Аз рӯзи охирин
        *[other] Аз { $maxAgeInDays } рӯзи охирин
     }
+migration-wizard-progress-success-formdata = Таърихи шакл
+migration-wizard-safari-permissions-sub-header = Барои ворид кардани хатбаракҳо ва таърихи тамошокунии «Safari»:
+migration-wizard-safari-instructions-continue = «Идома додан»-ро интихоб намоед
 migration-wizard-safari-select-button = Интихоби файл
