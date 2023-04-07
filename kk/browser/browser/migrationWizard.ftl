@@ -90,6 +90,7 @@ migration-safari-password-import-steps-header = Safari парольдерін и
 migration-safari-password-import-step1 = Safari қолданбасында "Safari" мәзірін ашып, Баптаулар > Парольдер тармағына өтіңіз
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> батырмасын таңдап, "Барлық парольдерді экспорттау" опциясын таңдаңыз.
 migration-safari-password-import-step3 = Парольдер файлын сақтау
+migration-safari-password-import-step4 = Сақталған парольдер файлын таңдау үшін төмендегі "Файлды таңдау" батырмасын пайдаланыңыз
 migration-safari-password-import-skip-button = Аттап кету
 migration-safari-password-import-select-button = Файлды таңдау
 # Shown in the migration wizard after importing bookmarks from another
@@ -137,4 +138,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Формалар тарихы
 migration-wizard-safari-permissions-sub-header = Safari бетбелгілері мен шолу тарихын импорттау үшін:
 migration-wizard-safari-instructions-continue = "Жалғастыру" таңдаңыз
+migration-wizard-safari-instructions-folder = Тізімнен Safari бумасын таңдап, "Ашу" басыңыз.
 migration-wizard-safari-select-button = Файлды таңдау

@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Сіз қазір осы элементтерді синхрондап жатырсыз:
+sync-syncing-across-devices-heading = Сіз бұл элементтерді барлық қосылған құрылғыларға синхрондаудасыз:
 sync-currently-syncing-bookmarks = Бетбелгілер
 sync-currently-syncing-history = Тарих
 sync-currently-syncing-tabs = Ашық беттер
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = с
     .buttonlabelextra2 = Байланысты үзу…
     .buttonaccesskeyextra2 = з
+sync-choose-dialog-subtitle = Синхрондалатын элементтер тізіміне енгізілген өзгерістер барлық қосылған құрылғыларда көрсетіледі.
 sync-engine-bookmarks =
     .label = Бетбелгілер
     .accesskey = т
