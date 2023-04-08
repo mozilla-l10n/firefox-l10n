@@ -83,7 +83,10 @@ migration-wizard-progress-icon-completed =
     .aria-label = Fullført
 migration-safari-password-import-header = Importer passord frå Safari
 migration-safari-password-import-steps-header = Slik importerer du Safari-passord:
+migration-safari-password-import-step1 = I Safari, opne «Safari»-menyen og gå til Instllingar > Passord
+migration-safari-password-import-step2 = Vel knappen <img data-l10n-name="safari-icon-3dots"/> og vel «Eksporter alle passord»
 migration-safari-password-import-step3 = Lagre passordfila
+migration-safari-password-import-step4 = Bruk «Vel fil» nedanfor for å velje passordfila du lagra
 migration-safari-password-import-skip-button = Hopp over
 migration-safari-password-import-select-button = Vel fil
 # Shown in the migration wizard after importing bookmarks from another
@@ -131,4 +134,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Skjemahistorikk
 migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerke og netthistorik:
 migration-wizard-safari-instructions-continue = Vel «Hald fram»
+migration-wizard-safari-instructions-folder = Vel Safari-mappa i lista og vel «Opne»
 migration-wizard-safari-select-button = Vel fil
