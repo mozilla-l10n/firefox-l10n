@@ -73,6 +73,8 @@ migration-wizard-import-browser-no-browsers = { -brand-short-name } ei löytäny
 
 migration-wizard-progress-icon-in-progress =
     .aria-label = Tuodaan…
+migration-safari-password-import-header = Tuo salasanat Safarista
 migration-safari-password-import-skip-button = Ohita
 migration-safari-password-import-select-button = Valitse tiedosto
+migration-wizard-progress-success-formdata = Lomakehistoria
 migration-wizard-safari-select-button = Valitse tiedosto
