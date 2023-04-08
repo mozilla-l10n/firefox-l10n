@@ -136,5 +136,6 @@ migration-wizard-progress-success-history =
        *[other] Richin ruk'isib'äl { $maxAgeInDays } q'ij
     }
 migration-wizard-progress-success-formdata = Runojwuj natab'äl
+migration-wizard-safari-permissions-sub-header = Richin yejik' taq yaketal chuqa' taq runatab'al rokem Safari:
 migration-wizard-safari-instructions-continue = Ticha' “Tisamajïx”
 migration-wizard-safari-select-button = Ticha' Yakb'äl
