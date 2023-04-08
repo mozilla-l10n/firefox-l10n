@@ -110,8 +110,8 @@ browser-data-history-checkbox =
 browser-data-history-label =
     .value =
         { $browser ->
-            [firefox] 浏览历史
-           *[other] 浏览历史和书签
+            [firefox] 浏览历史和书签
+           *[other] 浏览历史
         }
 browser-data-formdata-checkbox =
     .label = 已保存的表单记录
