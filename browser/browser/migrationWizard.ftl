@@ -52,6 +52,7 @@ migration-bookmarks-option-label = Bokmerke
 migration-favorites-option-label = Favorittar
 migration-logins-and-passwords-option-label = Lagra innloggingar og passord
 migration-history-option-label = Nettlesarhistorikk
+migration-import-button-label = Importer
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
 
@@ -76,4 +77,48 @@ migration-wizard-progress-icon-completed =
     .aria-label = Fullført
 migration-safari-password-import-header = Importer passord frå Safari
 migration-safari-password-import-skip-button = Hopp over
+migration-safari-password-import-select-button = Vel fil
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } bokmerke
+       *[other] { $quantity } bokmerke
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favoritt
+       *[other] { $quantity } favorittar
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } passord
+       *[other] { $quantity } passord
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Frå siste dag
+       *[other] Frå siste { $maxAgeInDays } dagar
+    }
 migration-wizard-progress-success-formdata = Skjemahistorikk
+migration-wizard-safari-select-button = Vel fil
