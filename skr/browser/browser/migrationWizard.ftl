@@ -97,4 +97,6 @@ migration-wizard-progress-success-passwords =
        *[other] { $quantity } پاس ورڈ
     }
 migration-wizard-progress-success-formdata = فارم تاریخ
+migration-wizard-safari-permissions-sub-header = سفاری نشانیاں تے براؤزنگ تاریخ امپورٹ کرݨ کیتے:
+migration-wizard-safari-instructions-continue = ” جاری” چݨو
 migration-wizard-safari-select-button = فائل چݨو
