@@ -59,6 +59,7 @@ migration-history-option-label = Nettlesarhistorikk
 migration-import-button-label = Importer
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
+migration-wizard-import-browser-no-browsers = { -brand-short-name } klarte ikkje å finne noko program som inneheld bokmerke-, historikk- eller passord-data.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -72,6 +73,7 @@ migration-list-bookmark-label = bokmerke
 migration-list-favorites-label = favorittar
 migration-list-password-label = passord
 migration-list-history-label = historikk
+migration-list-autofill-label = autofylldata
 
 ##
 
