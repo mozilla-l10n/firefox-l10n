@@ -43,12 +43,15 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = سارا دستیاب ڈیٹا امپورٹ کرو
+migration-selected-data-label = چݨیا ہویا ڈیٹا امپورٹ کرو
 
 ##
 
 migration-select-all-option-label = سارے چݨو
 migration-bookmarks-option-label = نشانیاں
+migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
+migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
 migration-import-button-label = درآمد کرو
 migration-cancel-button-label = منسوخ
 migration-done-button-label = تھی ڳیا
@@ -62,9 +65,11 @@ migration-done-button-label = تھی ڳیا
 migration-list-bookmark-label = نشانیاں
 migration-list-password-label = پاس ورڈز
 migration-list-history-label = تاریخ
+migration-list-autofill-label = آٹوفل ڈیٹا
 
 ##
 
+migration-wizard-progress-header = ڈیٹا امپورٹ کرݨ
 migration-wizard-progress-icon-in-progress =
     .aria-label = درآمد تھیندی پئی اے …
 migration-wizard-progress-icon-completed =
@@ -91,4 +96,5 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } پاس ورڈ
        *[other] { $quantity } پاس ورڈ
     }
+migration-wizard-progress-success-formdata = فارم تاریخ
 migration-wizard-safari-select-button = فائل چݨو
