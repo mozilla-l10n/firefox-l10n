@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Importer nettlesardata
+migration-wizard-selection-list = Vel data du vil importere.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -42,6 +43,9 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Importer alle tilgjengeleg data
+migration-no-selected-data-label = Ingen data valde for import
+migration-selected-data-label = Importer valde data
 
 ##
 
@@ -71,11 +75,15 @@ migration-list-history-label = historikk
 
 ##
 
+migration-wizard-progress-header = Importerer data
+migration-wizard-progress-done-header = Data vart importert
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importerer…
 migration-wizard-progress-icon-completed =
     .aria-label = Fullført
 migration-safari-password-import-header = Importer passord frå Safari
+migration-safari-password-import-steps-header = Slik importerer du Safari-passord:
+migration-safari-password-import-step3 = Lagre passordfila
 migration-safari-password-import-skip-button = Hopp over
 migration-safari-password-import-select-button = Vel fil
 # Shown in the migration wizard after importing bookmarks from another
@@ -121,4 +129,6 @@ migration-wizard-progress-success-history =
        *[other] Frå siste { $maxAgeInDays } dagar
     }
 migration-wizard-progress-success-formdata = Skjemahistorikk
+migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerke og netthistorik:
+migration-wizard-safari-instructions-continue = Vel «Hald fram»
 migration-wizard-safari-select-button = Vel fil
