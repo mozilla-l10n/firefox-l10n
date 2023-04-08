@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Lomakkeet
 protections-panel-site-not-working-view-issue-list-payments = Maksut
 protections-panel-site-not-working-view-issue-list-comments = Kommentit
 protections-panel-site-not-working-view-issue-list-videos = Videot
+protections-panel-site-not-working-view-issue-list-fonts = Fontit
 protections-panel-site-not-working-view-send-report = Lähetä raportti
 
 ##
