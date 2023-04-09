@@ -14,10 +14,6 @@ tabbrowser-menuitem-close =
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
-# Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
     .label = ປິດ { $tabCount } ແທັບ
@@ -58,10 +54,16 @@ tabbrowser-confirm-close-tabs-checkbox = ຢືນຢັນກ່ອນທີ່
 # Variables:
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title = ປິດໜ້າຈໍ { $windowCount } ບໍ?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] ປິດແລະອອກ
+       *[other] ປິດແລະອອກ
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = ປິດໜ້າຈໍ ແລະ ອອກຈາກ { -brand-short-name }?
 tabbrowser-confirm-close-tabs-with-key-button = ອອກຈາກ { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
@@ -82,9 +84,15 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = ເຕືອນຂ້ອຍເ�
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = ການເລື່ອນເບິງໂດຍໃຊ້ແປ້ນພິມ
+tabbrowser-confirm-caretbrowsing-message = ກົດ F7 ເພື່ອເປີດ ຫລື ປິດການເລື່ອນເບິງແປ້ນພິມ. ໃນການເລື່ອນເບິງແບບນີ້ຈະມີເຄີເຊີທີ່ເຄື່ອນທີ່ໄດ້ຢູ່ເທິງຫນ້າເວັບທີ່ເຮັດໃຫ້ທ່ານສາມາດເລືອກຂໍ້ຄວາມດ້ວຍແປ້ນພິມໄດ້. ທ່ານຕ້ອງການເປີດນຳໃຊ້ການເລື່ອນເບິງໂດຍໃຊ້ແປ້ນພິມຫລືບໍ່?
+tabbrowser-confirm-caretbrowsing-checkbox = ບໍ່ຕ້ອງສະແດງບັອກຂໍ້ຄວາມນີ້ອີກ.
 
 ##
 
+# Variables:
+#   $domain (String): URL of the page that is trying to steal focus.
+tabbrowser-allow-dialogs-to-get-focus =
+    .label = ອະນຸຍາດໃຫ້ການແຈ້ງເຕືອນແບບນີ້ຈາກ { $domain } ເພື່ອພາທ່ານໄປທີ່ແຖບຂອງເຂົາເຈົ້າ
 tabbrowser-customizemode-tab-title = ປັບແຕ່ງ { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time

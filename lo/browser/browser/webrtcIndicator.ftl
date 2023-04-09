@@ -12,6 +12,9 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
+webrtc-indicator-title = { -brand-short-name } — ຕົວຊີ້ບອກການແບ່ງປັນ
+webrtc-indicator-window =
+    .title = { -brand-short-name } — ຕົວຊີ້ບອກການແບ່ງປັນ
 
 ## Used as list items in sharing menu
 
@@ -171,6 +174,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = ຈົດຈຳການຕັດສິນໃຈນີ້
+webrtc-mute-notifications-checkbox = ປິດການແຈ້ງເຕືອນເວັບໄຊທ໌ໃນຂະນະທີ່ແບ່ງປັນ
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ບໍ່ສາມາດອະນຸຍາດການເຂົ້າເຖິງຫນ້າຈໍຂອງທ່ານແບບຖາວອນໄດ້.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ບໍ່ສາມາດອະນຍຸາດການເຂົ້າເຖິງສຽງຂອງແທັບຂອງທ່ານແບບຖາວອນໄດ້ໂດຍບໍ່ຖາມແທັບທີ່ຕ້ອງການແບ່ງປັນ.
 webrtc-reason-for-no-permanent-allow-insecure = ການເຊື່ອມຕໍ່ໄປທີ່ເວັບໄຊທ໌ນີ້ຂອງທ່ານແມ່ນບໍ່ປອດໄພ. ເພື່ອປົກປ້ອງທ່ານ, { -brand-short-name } ຈະອະນຸຍາດການເຂົ້າເຖິງສະເພາະສຳລັບເຊສຊັນນີ້ເທົ່ານັ້ນ.
