@@ -13,6 +13,8 @@ search-header-shortcut =
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Kek'ul taq k'amal chuqa' taq wachinel pa <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Kek'ul taq soltzij pa <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Kek'ul molch'ab'äl pa <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 
@@ -147,6 +149,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Taq ruya'oj q'ij ruxaq
 addon-category-sitepermission-title =
     .title = Taq ruya'oj q'ij ruxaq
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Ruya'oj q'ij ruxaq richin { $host }
 
 ## These are global warnings
 
