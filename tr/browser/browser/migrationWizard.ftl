@@ -60,6 +60,8 @@ migration-form-autofill-option-label = Otomatik form doldurma verileri
 migration-import-button-label = İçe aktar
 migration-cancel-button-label = Vazgeç
 migration-done-button-label = Tamam
+migration-wizard-import-browser-no-browsers = { -brand-short-name } yer imi, geçmiş veya parola verileri içeren herhangi bir program bulamadı.
+migration-wizard-import-browser-no-resources = Bir hata oluştu. { -brand-short-name } bu tarayıcı profilinden içe aktarılacak herhangi bir veri bulamıyor.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -85,6 +87,7 @@ migration-wizard-progress-icon-completed =
     .aria-label = Tamamlandı
 migration-safari-password-import-header = Parolaları Safari’den içe aktar
 migration-safari-password-import-steps-header = Safari parolalarını içe aktarmak için:
+migration-safari-password-import-step3 = Parola dosyasını kaydedin
 migration-safari-password-import-skip-button = Geç
 migration-safari-password-import-select-button = Dosya seç
 # Shown in the migration wizard after importing bookmarks from another
