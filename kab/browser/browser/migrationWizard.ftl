@@ -74,3 +74,5 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-step3 = Sekles afaylu n wawalen uffiren
 migration-safari-password-import-skip-button = Suref
 migration-safari-password-import-select-button = Fren afaylu
+migration-wizard-safari-instructions-continue = Fren “Kemmel”
+migration-wizard-safari-select-button = Fren afaylu
