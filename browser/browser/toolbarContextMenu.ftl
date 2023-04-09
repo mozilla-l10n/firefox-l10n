@@ -6,10 +6,10 @@ toolbar-context-menu-new-tab =
     .label = 新建标签页
     .accesskey = w
 toolbar-context-menu-reload-selected-tab =
-    .label = 重新载入所选标签页
+    .label = 重新加载所选标签页
     .accesskey = R
 toolbar-context-menu-reload-selected-tabs =
-    .label = 重新载入选中的标签页
+    .label = 重新加载选中的标签页
     .accesskey = R
 toolbar-context-menu-bookmark-selected-tab =
     .label = 为选中标签页添加书签…
@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = 选择所有标签页
     .accesskey = S
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->

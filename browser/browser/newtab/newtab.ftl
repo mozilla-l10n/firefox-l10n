@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = 搜索
     .aria-label = 搜索
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = 使用 { $engine } 搜索，或者输入网址
 newtab-search-box-handoff-text-no-engine = 搜索或输入网址
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = 使用 { $engine } 搜索，或者输入网址
     .title = 使用 { $engine } 搜索，或者输入网址
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = 搜索或输入网址
     .title = 搜索或输入网址
     .aria-label = 搜索或输入网址
-
 newtab-search-box-text = 网上搜索
 newtab-search-box-input =
     .placeholder = 网上搜索
@@ -50,15 +48,13 @@ newtab-topsites-edit-shortcut-header = 编辑快捷方式
 newtab-topsites-title-label = 标题
 newtab-topsites-title-input =
     .placeholder = 输入标题
-
 newtab-topsites-url-label = 网址
 newtab-topsites-url-input =
     .placeholder = 输入或粘贴网址
 newtab-topsites-url-validation = 需要有效的网址
-
 newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-image-link = 使用自定义图像…
-newtab-topsites-image-validation = 图像载入失败。请尝试其他网址。
+newtab-topsites-image-validation = 图像加载失败。请尝试其他网址。
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -84,15 +80,13 @@ newtab-topsite-sponsored = 赞助项目
 newtab-menu-section-tooltip =
     .title = 打开菜单
     .aria-label = 打开菜单
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = 移除
     .aria-label = 移除
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = 打开菜单
     .aria-label = 打开 { $title } 的快捷菜单
@@ -158,21 +152,18 @@ newtab-label-removed-bookmark = 书签已移除
 newtab-label-recommended = 趋势
 newtab-label-saved = 已保存到 { -pocket-brand-name }
 newtab-label-download = 已下载
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · 赞助
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = 由 { $sponsor } 赞助
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } 分钟
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -201,16 +192,15 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = 常用网站
 newtab-section-header-recent-activity = 近期动态
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } 推荐
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = 开始网上冲浪之旅吧，之后这里会显示您最近看过或加了书签的精彩文章、视频与其他页面。
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $provider } 将推荐更多精彩文章。等不及了？选择热门主题，找到更多网上的好文章。
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -218,7 +208,7 @@ newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $p
 newtab-discovery-empty-section-topstories-header = 都读完了！
 newtab-discovery-empty-section-topstories-content = 待会再来看是否有新文章。
 newtab-discovery-empty-section-topstories-try-again-button = 重试
-newtab-discovery-empty-section-topstories-loading = 正在载入…
+newtab-discovery-empty-section-topstories-loading = 正在加载…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = 哎呀！无法完全加载此版块。
 
@@ -232,11 +222,9 @@ newtab-pocket-learn-more = 详细了解
 newtab-pocket-cta-button = 获取 { -pocket-brand-name }
 newtab-pocket-cta-text = 将您喜爱的故事保存到 { -pocket-brand-name }，用精彩的读物为思想注入活力。
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } 是 { -brand-product-name } 系列产品的一部分
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = 保存到 { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = 已保存到 { -pocket-brand-name }
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = 加载更多文章
 
@@ -247,7 +235,6 @@ newtab-pocket-last-card-title = 都读完了！
 newtab-pocket-last-card-desc = 待会再来看是否有新文章。
 newtab-pocket-last-card-image =
     .alt = 都读完了
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = 保存
 newtab-pocket-saved = 已保存
@@ -255,13 +242,15 @@ newtab-pocket-saved = 已保存
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = 哎呀，载入内容时发生错误。
+newtab-error-fallback-info = 哎呀，加载内容时发生错误。
 newtab-error-fallback-refresh-link = 刷新页面以重试。
 
 ## Customization Menu
 
 newtab-custom-shortcuts-title = 快捷方式
 newtab-custom-shortcuts-subtitle = 您保存或访问过的网站
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
        *[other] { $num } 行

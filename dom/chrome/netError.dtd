@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "页面载入出错">
+<!ENTITY loadError.label "页面加载出错">
 <!ENTITY retry.label "重试">
 
 <!-- Specific error messages -->
@@ -35,7 +35,7 @@
 <!ENTITY notCached.longDesc "<p>您请求的文档已无法在浏览器的缓存中找到。</p><ul><li>出于安全考虑，浏览器不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
 
 <!ENTITY netOffline.title "脱机模式">
-<!ENTITY netOffline.longDesc2 "<p>浏览器目前在离线模式下运行，并且无法连接到请求的项目。</p><ul><li>您确定计算机已连接到了一个有效网络吗？</li><li>按“重试”切换到在线模式并重新载入此页面。</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>浏览器目前在离线模式下运行，并且无法连接到请求的项目。</p><ul><li>您确定计算机已连接到了一个有效网络吗？</li><li>按“重试”切换到在线模式并重新加载此页面。</li></ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
 <!ENTITY contentEncodingError.longDesc "<p>您尝试查看的页面无法显示，因为它使用了无效的或者不支持的压缩格式。</p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul>">
@@ -85,7 +85,7 @@
 <!ENTITY cspBlocked.longDesc "<p>浏览器已按该页面包含的内容安全策略阻止该页面以该种方式加载。</p>">
 
 <!ENTITY xfoBlocked.title "因 X-Frame-Options 政策阻止">
-<!ENTITY xfoBlocked.longDesc "<p>浏览器已依照该页面的 X-Frame-Options 政策阻止了其在此上下文中的载入。</p>">
+<!ENTITY xfoBlocked.longDesc "<p>浏览器已依照该页面的 X-Frame-Options 政策阻止了其在此上下文中的加载。</p>">
 
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到传输过程中出错，无法显示您想要查看的页面。</p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul>">

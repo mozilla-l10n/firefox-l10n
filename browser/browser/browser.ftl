@@ -394,12 +394,12 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = 暂时关闭
 identity-https-only-info-turn-on2 = 若想要 { -brand-short-name } 尽可能升级为安全连接，请为此网站开启 HTTPS-Only 模式。
-identity-https-only-info-turn-off2 = 若页面看起来不正常，则可能需要为此网站关闭 HTTPS-Only 模式，使用不安全的 HTTP 重新载入。
+identity-https-only-info-turn-off2 = 若页面看起来不正常，则可能需要为此网站关闭 HTTPS-Only 模式，使用不安全的 HTTP 重新加载。
 identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
 identity-permissions-storage-access-header = 跨站 Cookie
 identity-permissions-storage-access-hint = 当您在此网站上时，以下各方可以使用跨站 Cookie 和网站数据。
 identity-permissions-storage-access-learn-more = 详细了解
-identity-permissions-reload-hint = 您可能需要重新载入此页面以应用更改。
+identity-permissions-reload-hint = 您可能需要重新加载此页面以应用更改。
 identity-clear-site-data =
     .label = 清除 Cookie 和网站数据…
 identity-connection-not-secure-security-view = 您并未安全地连接至此网站。
@@ -961,7 +961,7 @@ unified-extensions-button-permissions-needed =
 
 ## Autorefresh blocker
 
-refresh-blocked-refresh-label = { -brand-short-name } 阻止了此页面自动重新载入。
+refresh-blocked-refresh-label = { -brand-short-name } 阻止了此页面自动重新加载。
 refresh-blocked-redirect-label = { -brand-short-name } 阻止了此页面自动重定向至其他页面。
 refresh-blocked-allow =
     .label = 允许
