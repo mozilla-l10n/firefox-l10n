@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Щёлкните и перетащите, чтобы изменить значения размера
 options-inspector-draggable-properties-tooltip =
     .title = Щёлкните и перетащите, чтобы изменить значения размера в представлении правил инспектора.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Использовать более простые маркеры с prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Включает упрощенные маркеры, когда включена функция prefers-reduced-motion. Рисует линии вместо закрашенных прямоугольников вокруг выделенных элементов, чтобы избежать эффекта мерцания.
 
 ## "Default Color Unit" options for the Inspector
 
