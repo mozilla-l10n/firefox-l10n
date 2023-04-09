@@ -161,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = ¿La niya' q'ij chi re { $origin }
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = ¿La niya' q'ij chi re { $origin } nuya' q'ij chi re ri { $thirdParty } richin nrak'axaj ruk'oxom re ruwi' re'?
 webrtc-allow-share-camera-unsafe-delegation = ¿La niya' q'ij chi re ri { $origin } chi nuya' q'ij chi re { $thirdParty } nok pa ri elesäy awachib'al?
 webrtc-allow-share-microphone-unsafe-delegation = ¿La niya' q'ij chi re ri { $origin } chi nuya' q'ij chi re { $thirdParty } nok pa ri q'asäy ch'ab'äl?
 webrtc-allow-share-screen-unsafe-delegation = ¿La niya' q'ij chi ri { $origin } nuya' q'ij chi re ri { $thirdParty } richin nutz'ët ri ruwa akematz'ib'?

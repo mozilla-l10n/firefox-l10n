@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Tinuk'samajïx k'amal
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Titz'ajb'äx pa Molsamajib'äl
 unified-extensions-context-menu-manage-extension =
     .label = Tinuk'samajïx K'amal
 unified-extensions-context-menu-remove-extension =
