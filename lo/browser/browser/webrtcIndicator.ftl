@@ -35,6 +35,12 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = ອຸປະກອນແບ່ງປັນແທັບ
     .accesskey = d
+webrtc-sharing-window = ທ່ານກຳລັງແບ່ງປັນໜ້າຈໍແອັບພລິເຄຊັນອື່ນ.
+webrtc-sharing-browser-window = ທ່ານກຳລັງແບ່ງປັນ { -brand-short-name }.
+webrtc-sharing-screen = ທ່ານກໍາລັງແບ່ງປັນຫນ້າຈໍທັງຫມົດຂອງທ່ານ.
+webrtc-stop-sharing-button = ຢຸດການແບ່ງປັນ
+webrtc-microphone-unmuted =
+    .title = ປິດໄມໂຄຣໂຟນ
 webrtc-microphone-muted =
     .title = ເປີດໄມໂຄຣໂຟນ
 webrtc-camera-unmuted =
@@ -84,17 +90,61 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = ຄວບຄຸມການແບ່ງປັນຢູ່ “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = ກຳລັງແບ່ງປັນກ້ອງຖ່າຍຮູບກັບ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label = ກຳລັງແບ່ງປັນກ້ອງຖ່າຍຮູບກັບແຖບ { $tabCount }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = ກຳລັງແບ່ງປັນໄມໂຄຣໂຟນກັບ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label = ກຳລັງແບ່ງປັນໄມໂຄຣໂຟນກັບແຖບ { $tabCount }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = ແບ່ງປັນແອັບພລິເຄຊັນກັບ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label = ການແບ່ງປັນແອັບພລິເຄຊັນກັບແຖບ { $tabCount }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = ກຳລັງແບ່ງປັນໜ້າຈໍກັບ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label = ການແບ່ງປັນໜ້າຈໍກັບແຖບ { $tabCount }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = ການແບ່ງປັນໜ້າຈໍກັບ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label = ກຳລັງແບ່ງປັນ Windows ກັບແຖບ { $tabCount }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = ແບ່ງປັນແຖບກັບ “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label = ການແບ່ງປັນແຖບກັບແຖບ { $tabCount }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = ອະນຸຍາດໃຫ້ { $origin } ຟັງສຽງຂອງແຖບນີ້ບໍ?
+webrtc-allow-share-camera = ອະນຸຍາດໃຫ້ { $origin } ໃຊ້ກ້ອງຖ່າຍຮູບຂອງເຈົ້າບໍ?
+webrtc-allow-share-microphone = ອະນຸຍາດໃຫ້ { $origin } ໃຊ້ໄມໂຄຣໂຟນຂອງເຈົ້າບໍ?
+webrtc-allow-share-screen = ອະນຸຍາດໃຫ້ { $origin } ເຫັນໜ້າຈໍຂອງເຈົ້າບໍ?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = ອະນຸຍາດໃຫ້ { $origin } ໃຊ້ລຳໂພງອື່ນບໍ?
+webrtc-allow-share-camera-and-microphone = ອະນຸຍາດໃຫ້ { $origin } ໃຊ້ກ້ອງຖ່າຍຮູບ ແລະໄມໂຄຣໂຟນຂອງເຈົ້າບໍ?
+webrtc-allow-share-camera-and-audio-capture = ອະນຸຍາດໃຫ້ { $origin } ໃຊ້ກ້ອງຖ່າຍຮູບຂອງເຈົ້າ ແລະຟັງສຽງຂອງແຖບນີ້ບໍ?
+webrtc-allow-share-screen-and-microphone = ອະນຸຍາດໃຫ້ { $origin } ໃຊ້ໄມໂຄຣໂຟນຂອງເຈົ້າ ແລະເບິ່ງໜ້າຈໍຂອງເຈົ້າບໍ?
+webrtc-allow-share-screen-and-audio-capture = ອະນຸຍາດໃຫ້ { $origin } ຟັງສຽງຂອງແຖບນີ້ ແລະເບິ່ງໜ້າຈໍຂອງເຈົ້າບໍ?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ສິດ { $thirdParty } ເພື່ອຟັງສຽງຂອງແຖບນີ້ບໍ?
+webrtc-allow-share-camera-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ { $thirdParty } ເຂົ້າເຖິງກ້ອງຖ່າຍຮູບຂອງເຈົ້າບໍ?
+webrtc-allow-share-microphone-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ { $thirdParty } ເຂົ້າເຖິງໄມໂຄຣໂຟນຂອງເຈົ້າບໍ?
+webrtc-allow-share-screen-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ສິດ { $thirdParty } ເພື່ອເບິ່ງໜ້າຈໍຂອງເຈົ້າບໍ?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ { $thirdParty } ເຂົ້າເຖິງລຳໂພງອື່ນບໍ?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ { $thirdParty } ເຂົ້າເຖິງກ້ອງຖ່າຍຮູບ ແລະໄມໂຄຣໂຟນຂອງເຈົ້າບໍ?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ { $thirdParty } ເຂົ້າເຖິງກ້ອງຖ່າຍຮູບຂອງເຈົ້າ ແລະຟັງສຽງຂອງແຖບນີ້ບໍ?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ { $thirdParty } ເຂົ້າເຖິງໄມໂຄຣໂຟນຂອງເຈົ້າ ແລະເບິ່ງໜ້າຈໍຂອງເຈົ້າບໍ?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ອະນຸຍາດໃຫ້ { $origin } ໃຫ້ສິດ { $thirdParty } ເພື່ອຟັງສຽງຂອງແຖບນີ້ ແລະເບິ່ງໜ້າຈໍຂອງເຈົ້າບໍ?
 
 ##
 

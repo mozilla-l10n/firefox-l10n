@@ -814,6 +814,8 @@ content-blocking-fingerprinters = ລາຍນິ້ວມື
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = ການປົກປ້ອງຄຸກກີທັງໝົດມີຄຸກກີ້ໄປຫາເວັບໄຊທີ່ເຈົ້າຢູ່ໃນ, ດັ່ງນັ້ນຜູ້ຕິດຕາມບໍ່ສາມາດໃຊ້ພວກມັນເພື່ອຕິດຕາມເຈົ້າລະຫວ່າງເວັບໄຊໄດ້.
 content-blocking-etp-standard-tcp-rollout-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 content-blocking-etp-standard-tcp-title = ລວມ​ທັງ​ການ​ປົກ​ປັກ​ຮັກ​ສາ Cookie ທັງ​ຫມົດ, ຄຸນ​ນະ​ສົມ​ບັດ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ທີ່​ມີ​ອໍາ​ນາດ​ທີ່​ສຸດ​ຂອງ​ພວກ​ເຮົາ​ທີ່​ເຄີຍ​ມີ
 content-blocking-warning-title = ລະວັງ!
