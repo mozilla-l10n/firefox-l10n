@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Імпарт дадзеных браўзера
+migration-wizard-selection-list = Выберыце дадзеныя, якія вы хочаце імпартаваць.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -60,6 +61,7 @@ migration-import-button-label = Імпартаваць
 migration-cancel-button-label = Скасаваць
 migration-done-button-label = Гатова
 migration-wizard-import-browser-no-browsers = { -brand-short-name } не змог знайсці праграмы, якія ўтрымліваюць закладкі, гісторыю або паролі.
+migration-wizard-import-browser-no-resources = Здарылася памылка. { -brand-short-name } не змог знайсці дадзеныя для імпарту з гэтага профілю браўзера.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -73,15 +75,18 @@ migration-list-bookmark-label = закладкі
 migration-list-favorites-label = абраныя
 migration-list-password-label = паролі
 migration-list-history-label = гісторыя
+migration-list-autofill-label = звесткі аўтазапаўнення
 
 ##
 
+migration-wizard-progress-header = Імпарт дадзеных
 migration-wizard-progress-icon-in-progress =
     .aria-label = Імпарт…
 migration-wizard-progress-icon-completed =
     .aria-label = Скончана
 migration-safari-password-import-header = Імпартаваць паролі з Safari
 migration-safari-password-import-steps-header = Каб імпартаваць паролі з Safari:
+migration-safari-password-import-step3 = Захавайце файл пароляў
 migration-safari-password-import-skip-button = Прапусціць
 migration-safari-password-import-select-button = Выбраць файл
 # Shown in the migration wizard after importing bookmarks from another
