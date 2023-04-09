@@ -138,4 +138,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Runojwuj natab'äl
 migration-wizard-safari-permissions-sub-header = Richin yejik' taq yaketal chuqa' taq runatab'al rokem Safari:
 migration-wizard-safari-instructions-continue = Ticha' “Tisamajïx”
+migration-wizard-safari-instructions-folder = Ticha' ri rumolyakb'al Safari pa ri cholb'äl k'a ri ticha' “Tijaq”
 migration-wizard-safari-select-button = Ticha' Yakb'äl
