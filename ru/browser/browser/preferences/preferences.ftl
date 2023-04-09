@@ -747,6 +747,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Сейчас вы синхронизируете:
+sync-syncing-across-devices-heading = Вы синхронизируете эти элементы на всех подключённых устройствах:
 sync-currently-syncing-bookmarks = Закладки
 sync-currently-syncing-history = Историю
 sync-currently-syncing-tabs = Открытые вкладки
@@ -775,6 +776,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = х
     .buttonlabelextra2 = Отсоединить…
     .buttonaccesskeyextra2 = е
+sync-choose-dialog-subtitle = Изменения в списке элементов для синхронизации будут отражены на всех ваших подключённых устройствах.
 sync-engine-bookmarks =
     .label = Закладки
     .accesskey = к
