@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-reader-loading = 正在载入…
-about-reader-load-error = 从页面载入文章失败
+about-reader-loading = 正在加载…
+about-reader-load-error = 从页面加载文章失败
 about-reader-color-scheme-light = 浅色
     .title = 浅色模式
 about-reader-color-scheme-dark = 深色

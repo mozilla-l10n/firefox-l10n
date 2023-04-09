@@ -5,7 +5,7 @@
 
 ## Error page titles
 
-neterror-page-title = 页面载入出错
+neterror-page-title = 页面加载出错
 certerror-page-title = 警告：面临潜在的安全风险
 certerror-sts-page-title = 未连接：有安全风险
 neterror-blocked-by-policy-page-title = 页面已封锁
@@ -37,9 +37,9 @@ neterror-error-reporting-automatic = 报告此类错误，帮助 { -vendor-short
 
 ## Specific error messages
 
-neterror-generic-error = { -brand-short-name } 因某些不明原因无法载入此页面。
+neterror-generic-error = { -brand-short-name } 因某些不明原因无法加载此页面。
 neterror-load-error-try-again = 此站点暂时无法使用或者太过忙碌。请过几分钟后再试。
-neterror-load-error-connection = 如果您无法载入任何网页，请检查您计算机的网络连接状态。
+neterror-load-error-connection = 如果您无法加载任何网页，请检查您计算机的网络连接状态。
 neterror-load-error-firewall = 如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 { -brand-short-name } 已被授权访问网络。
 neterror-captive-portal = 您必须先登录此网络才能访问互联网。
 # Variables:
@@ -56,7 +56,6 @@ neterror-dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有联
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } 无法通过可信 DNS 解析器保护您对本网址的请求。原因如下：
-neterror-dns-not-found-trr-only-attackers = 若您继续，第三方可能会看到您在访问哪些网站或将您解析至不受信任的网站。
 neterror-dns-not-found-trr-third-party-warning = 您可以继续使用不安全的 DNS 解析器。但是，第三方可能能够看到您访问的网站。
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } 无法连接到 { $trrDomain }。
 neterror-dns-not-found-trr-only-timeout = 连接到 { $trrDomain } 的时间超过预期。
@@ -70,9 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = 未知问题。
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } 无法通过可信 DNS 解析器保护您对本网址的请求。原因如下：
-neterror-dns-not-found-native-fallback-attackers = 您可以继续使用不安全的 DNS 解析器。但是，第三方可能能够看到您访问的网站或将您带到不受信任的网站。
 neterror-dns-not-found-native-fallback-heuristic = 您的网络已禁用通过 HTTPS 的 DNS。
-neterror-dns-not-found-native-fallback-not-confirmed = 与 { $trrDomain } 的连接尚未就绪。
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } 无法连接至 { $trrDomain }。
 
 ##
@@ -87,7 +84,7 @@ neterror-unknown-socket-type-server-config = 这可能是由服务器端的非�
 neterror-not-cached-intro = 您请求的文档已无法在 { -brand-short-name } 的缓存中找到。
 neterror-not-cached-sensitive = 出于安全考虑，{ -brand-short-name } 不会自动重新获取敏感文档。
 neterror-not-cached-try-again = 您可以点击“重试”来重新请求从网站获取该文档。
-neterror-net-offline = 请按“重试”切换到联网模式并重新载入此页面。
+neterror-net-offline = 请按“重试”切换到联网模式并重新加载此页面。
 neterror-proxy-resolve-failure-settings = 请检查浏览器的代理服务器设置是否正确。
 neterror-proxy-resolve-failure-connection = 请检查确认您的计算机能正常连上网。
 neterror-proxy-resolve-failure-firewall = 如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 { -brand-short-name } 已被授权访问网络。
@@ -122,7 +119,7 @@ neterror-inadequate-security-code = 错误代码：NS_ERROR_NET_INADEQUATE_SECUR
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = 您计算机上的时间是 { DATETIME($now, dateStyle: "medium") }，{ -brand-short-name } 无法在这个设定的时间下进行安全连接。要访问 <b>{ $hostname }</b>，请在您的系统设置中确认当前的日期、时间、时区设置是否正确，然后重新载入 <b>{ $hostname }</b>。
+neterror-clock-skew-error = 您计算机上的时间是 { DATETIME($now, dateStyle: "medium") }，{ -brand-short-name } 无法在这个设定的时间下进行安全连接。要访问 <b>{ $hostname }</b>，请在您的系统设置中确认当前的日期、时间、时区设置是否正确，然后重新加载 <b>{ $hostname }</b>。
 neterror-network-protocol-error-intro = 您尝试查看的页面无法显示，因为检测到了网络协议中的错误。
 neterror-network-protocol-error-contact-website = 建议向此网站的管理员反馈这个问题。
 certerror-expired-cert-second-para = 很可能该网站的证书已过期，因而阻碍 { -brand-short-name } 安全地连接。如果您继续访问该网站，攻击者可能尝试窃取您的密码、电子邮件或信用卡等信息。

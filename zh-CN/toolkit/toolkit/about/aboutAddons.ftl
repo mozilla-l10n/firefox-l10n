@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = 搜索
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安装扩展和主题。
 list-empty-get-dictionaries-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安装字典
 list-empty-get-language-packs-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安装语言包
+
+##
+
 list-empty-installed =
     .value = 您没有安装任何此类型的附加组件
 list-empty-available-updates =
@@ -141,7 +148,7 @@ addon-category-sitepermission-title =
     .title = 网站权限
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = { $host } 的网站权限
 
 ## These are global warnings
@@ -221,6 +228,8 @@ shortcuts-duplicate-warning-message = 有超过一个附加组件使用 { $short
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = 已被 { $addon } 占用
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] 显示另外 { $numberToShow } 个
@@ -290,7 +299,7 @@ theme-colorways-button = 配色随心换
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = 更改配色
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = { DATETIME($expiryDate, month: "long", day: "numeric") }到期
 plugin-enabled-heading = 已启用
 plugin-disabled-heading = 已禁用
@@ -367,14 +376,16 @@ addon-badge-verified2 =
 
 available-updates-heading = 可用更新
 recent-updates-heading = 最近更新
-release-notes-loading = 正在载入…
-release-notes-error = 抱歉，载入发行说明时出错。
+release-notes-loading = 正在加载…
+release-notes-error = 抱歉，加载发行说明时出错。
 addon-permissions-empty = 此扩展未要求任何权限
 addon-permissions-required = 核心功能所需的权限：
 addon-permissions-optional = 附加功能的可选权限：
 addon-permissions-learnmore = 详细了解“权限”
 recommended-extensions-heading = 推荐扩展
 recommended-themes-heading = 推荐主题
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = 授予 <span data-l10n-name="hostname">{ $hostname }</span> 以下功能：
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -401,8 +412,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } 不兼容 { -brand-short-name } { $version }。
 details-notification-incompatible-link = 更多信息
 details-notification-unsigned-and-disabled = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证，现已被禁用。

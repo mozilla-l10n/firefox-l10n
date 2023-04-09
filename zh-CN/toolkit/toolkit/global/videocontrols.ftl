@@ -41,8 +41,11 @@ videocontrols-picture-in-picture-explainer = 让您在 { -brand-short-name } 做
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = 弹出此视频
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = 同屏多任务，在您做其他事的同时播放此视频。
-videocontrols-error-aborted = 视频载入已停止。
+videocontrols-error-aborted = 视频加载已停止。
 videocontrols-error-network = 视频播放因网络错误中止。
 videocontrols-error-decode = 视频无法播放，因为该文件已损坏。
 videocontrols-error-src-not-supported = 视频格式或 MIME 类型不受支持。

@@ -14,10 +14,6 @@ tabbrowser-menuitem-close =
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
 # Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
-# Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
     .label = 关闭 { $tabCount } 个标签页
@@ -80,7 +76,7 @@ tabbrowser-confirm-open-multiple-tabs-title = 确认打开
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
-       *[other] 您将要打开 { $tabCount } 个标签页。一并载入太多页面可能会减慢 { -brand-short-name } 的运行。您确定要一并打开吗？
+       *[other] 您将要打开 { $tabCount } 个标签页。一并加载太多页面可能会减慢 { -brand-short-name } 的运行。您确定要一并打开吗？
     }
 tabbrowser-confirm-open-multiple-tabs-button = 打开标签页
 tabbrowser-confirm-open-multiple-tabs-checkbox = 打开多个标签页可能致使 { -brand-short-name } 缓慢前提醒我
