@@ -47,7 +47,7 @@ protections-panel-content-blocking-fingerprinters-label = ඇඟිලි සට
 ##   These strings are used in the header labels of each of these sections.
 
 protections-panel-blocking-label = අවහිර කළ
-protections-panel-not-blocking-label = ඉඩ දුන්
+protections-panel-not-blocking-label = ඉඩ දී ඇත
 protections-panel-not-found-label = අනාවරණ නැත
 
 ##
