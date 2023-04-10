@@ -111,5 +111,18 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } паролі
        *[many] { $quantity } пароляў
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] За апошні { $maxAgeInDays } дзень
+        [few] За апошнія { $maxAgeInDays } дні
+       *[many] За апошнія { $maxAgeInDays } дзён
+    }
 migration-wizard-progress-success-formdata = Гісторыя формаў
+migration-wizard-safari-instructions-continue = Выберыце «Працягнуць»
+migration-wizard-safari-instructions-folder = Вылучыце ў спісе папку Safari і абярыце «Адкрыць»
 migration-wizard-safari-select-button = Выбраць файл

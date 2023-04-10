@@ -229,28 +229,6 @@ colorways-cfr-header-today = Расфарбоўкі незалежных гал�
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Банеры з кукамі зніклі!
-cfr-cookiebanner-body = Дазволіць { -brand-short-name } аўтаматычна адхіляць усе запыты банераў кукі, калі гэта магчыма.
-cfr-cookiebanner-accept-button-v2 = Адхіліць запыты
-    .accesskey = А
-cfr-cookiebanner-reject-button = Не зараз
-    .accesskey = Н
-cfr-cookiebanner-header-variant-1 = Бачыць менш выплыўных акон пра кукі
-cfr-cookiebanner-body-variant-1 = Дазвольце { -brand-short-name } аўтаматычна адказваць на выплыўныя вокны файлаў кукі, каб вы маглі вярнуцца да прагляду сайтаў без адцягнення ўвагі. { -brand-short-name } будзе адхіляць усе запыты, калі гэта магчыма.
-cfr-cookiebanner-accept-button-variant-1 = Адхіляць выплыўныя вокны
-    .accesskey = А
-cfr-cookiebanner-reject-button-variant-1 = Не, дзякуй
-    .accesskey = Н
-cfr-cookiebanner-header-variant-2 = Памяншэнне колькасці банераў кукі
-cfr-cookiebanner-body-variant-2 = Паменшыце колькасць банераў кукі, якія вы бачыце, дазволіўшы { -brand-short-name } адхіляць запыты сайта на згоду на файлы кукі, калі гэта магчыма.
-cfr-cookiebanner-accept-button-variant-2 = Дазволіць
-    .accesskey = Д
-cfr-cookiebanner-reject-button-variant-2 = Не зараз
-    .accesskey = Н
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Дазволіць { -brand-short-name } адхіляць банеры кукі?
 cfr-cbh-body = { -brand-short-name } можа аўтаматычна адхіляць многія запыты банераў кукі.
 cfr-cbh-confirm-button = Адхіляць банеры кукі
@@ -263,6 +241,12 @@ cfr-cbh-dismiss-button = Не зараз
 july-jam-headline = Можаце разлічваць на нас
 july-jam-body = Кожны месяц { -brand-short-name } блакуе ў сярэднім больш за 3000 трэкераў на карыстальніка, даючы вам бяспечны і хуткі доступ да добрага інтэрнэту.
 july-jam-set-default-primary = Адкрываць мае спасылкі ў { -brand-short-name }
+fox-doodle-pin-headline = З вяртаннем
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Кароткі напамін аб тым, што вы можаце трымаць пад рукой свой любімы незалежны браўзер.
+fox-doodle-pin-primary = Адкрываць мае спасылкі ў { -brand-short-name }
+fox-doodle-pin-secondary = Не зараз
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
