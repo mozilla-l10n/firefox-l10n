@@ -226,25 +226,6 @@ colorways-cfr-header-today = Le combinationes de colores Independent Voices expi
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Bandieras pro cookies adeo!
-cfr-cookiebanner-body = Permitter a { -brand-short-name } de rejectar automaticamente, quando possibile, tote le requestas de bandieras pro cookie.
-cfr-cookiebanner-accept-button-v2 = Refusar requestas
-    .accesskey = R
-cfr-cookiebanner-reject-button = Non ora
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Vider minus quadros resaltante de cookies
-cfr-cookiebanner-body-variant-1 = Lassa que { -brand-short-name } responde automaticamente al quadros resaltante de cookies pro te, assi que tu pote navigar de novo libere de distractiones. { -brand-short-name } rejectara tote le requestas si possibile.
-cfr-cookiebanner-accept-button-variant-1 = Dimitter quadros resaltante
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = No, gratias
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reduction de bandieras pro cookie
-cfr-cookiebanner-body-variant-2 = Reduce le amonta de bandieras pro cookies que tu vide permittente a { -brand-short-name }, si possibile, de refusar un requesta de consenso al cookie de sito web.
-cfr-cookiebanner-accept-button-variant-2 = Permitter
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Non ora
-    .accesskey = N
 cfr-cbh-header = Permitter a { -brand-short-name } de rejectar bandieras pro cookies?
 cfr-cbh-body = { -brand-short-name } pote rejectar automaticamente multe requestas de bandieras pro cookie.
 cfr-cbh-confirm-button = Rejectar bandieras pro cookies
@@ -257,6 +238,9 @@ cfr-cbh-dismiss-button = Non ora
 july-jam-headline = Nos te mantene secur
 july-jam-body = Cata mense, { -brand-short-name } bloca un media de plus de 3000 traciatores per usator pro dar te accesso secur e veloce al bon internet.
 july-jam-set-default-primary = Aperir mi ligamines con { -brand-short-name }
+fox-doodle-pin-headline = Benvenite de novo
+fox-doodle-pin-primary = Aperir mi ligamines con { -brand-short-name }
+fox-doodle-pin-secondary = Non ora
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
