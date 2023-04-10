@@ -204,6 +204,8 @@ firefoxview-cfr-body-v2 = Kekakolo' ri tz'apin taq ruwi' chuqa' katok chi kipam 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Taq'ejelaj { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = ¿La nawajo' ri jaqon ruwi' pan awoyonib'al? Tachapa'. ¿La nik'atzin ri ruxaq k'a b'a' tatz'ët? Xtzolin rik'in { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Tatz'eta' rub'eyal nisamäj
 firefoxview-spotlight-promo-secondarybutton = Tik'o'
 
