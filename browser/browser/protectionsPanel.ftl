@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Los formularis
 protections-panel-site-not-working-view-issue-list-payments = Los pagaments
 protections-panel-site-not-working-view-issue-list-comments = Los comentaris
 protections-panel-site-not-working-view-issue-list-videos = Las vidèos
+protections-panel-site-not-working-view-issue-list-fonts = Polissas
 protections-panel-site-not-working-view-send-report = Enviar un rapòrt
 
 ##

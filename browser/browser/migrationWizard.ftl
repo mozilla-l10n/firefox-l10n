@@ -60,6 +60,8 @@ migration-form-autofill-option-label = Donadas d’emplenatge automatic
 migration-import-button-label = Importar
 migration-cancel-button-label = Anullar
 migration-done-button-label = Acabat
+migration-wizard-import-browser-no-browsers = { -brand-short-name } a pas pogut trapar cap de programa contenent de donadas de marcapaginas, istoric o senhals.
+migration-wizard-import-browser-no-resources = S’es producha una error. { -brand-short-name } a pas pogut trapar cap de donadas d’importar a partir del perfil d’aqueste navegador.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -67,6 +69,60 @@ migration-done-button-label = Acabat
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = marcapaginas
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = favorits
+migration-list-password-label = senhals
+migration-list-history-label = istoric
+migration-list-autofill-label = dondas d’emplenatge auto
 
 ##
 
+migration-wizard-progress-header = Importacion de las donadas
+migration-wizard-progress-done-header = Donadas importadas amb succès
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importacion…
+migration-wizard-progress-icon-completed =
+    .aria-label = Acabada
+migration-safari-password-import-header = Importar los senhals de Safari
+migration-safari-password-import-steps-header = Per importar los senhals de Safari :
+migration-safari-password-import-step1 = Dins Safari, dobrissètz lo menú « Safari » puèi Preferéncias > Senhals
+migration-safari-password-import-step2 = Causissètz lo boton <img data-l10n-name="safari-icon-3dots"/> puèi « Exportar totes los senhals »
+migration-safari-password-import-step3 = Enregistratz lo fichièr de senhals
+migration-safari-password-import-step4 = Utilizatz « Seleccionar un fichièr » çai jos per causir lo fichièrs de senhals qu’avètz salvat
+migration-safari-password-import-skip-button = Passar
+migration-safari-password-import-select-button = Seleccionar un fichièr
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } marcapagina
+       *[other] { $quantity } marcapaginas
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favorit
+       *[other] { $quantity } favorits
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } senhal
+       *[other] { $quantity } senhals
+    }
+migration-wizard-safari-select-button = Seleccionar un fichièr
