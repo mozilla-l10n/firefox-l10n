@@ -26,6 +26,8 @@ policy-Bookmarks = Opret bogmærker i Bogmærkelinjen, i menuen Bogmærker eller
 policy-CaptivePortal = Slå understøttelse af captive portal til eller fra.
 policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Angiv politikker relateret til kontekster.
 policy-DisabledCiphers = Deaktiver ciphers.
 policy-DefaultDownloadDirectory = Indstil standard-mappe for hentede filer.
 policy-DisableAppUpdate = Deaktiver opdatering af browseren.
