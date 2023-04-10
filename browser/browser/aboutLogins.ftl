@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } ਲਾਗਇਨ
        *[other] { $count } ਲਾਗਇਨ
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $total } ਲਾਗਇਨ ਵਿੱਚੋਂ { $count }
+       *[other] { $total } ਲਾਗਇਨ ਵਿੱਚੋਂ { $count }
+    }
 login-list-sort-label-text = ਲੜੀਬੱਧ:
 login-list-name-option = ਨਾਂ (A-Z)
 login-list-name-reverse-option = ਨਾਂ (Z-A)

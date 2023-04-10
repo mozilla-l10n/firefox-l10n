@@ -672,7 +672,13 @@ reader-view-close-button =
     .aria-label = ਪੜ੍ਹਨ ਝਲਕ ਬੰਦ ਕਰੋ
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਖੋਲ੍ਹੋ ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬੰਦ ਕਰੋ ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -819,6 +825,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = ਲਿੰਕ ਈਮੇਲ ਕਰੋ
     .tooltiptext = ਇਹ ਸਫ਼ੇ ਲਈ ਲਿੰਕ ਈਮੇਲ ਕਰਕੇ ਭੇਜੋ
+toolbar-button-logins =
+    .label = ਪਾਸਵਰਡ
+    .tooltiptext = ਆਪਣੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਵੇਖੋ ਅਤੇ ਉਹਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
