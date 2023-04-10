@@ -236,7 +236,7 @@ july-jam-set-default-primary = 用 { -brand-short-name } 開啟我的鏈結
 fox-doodle-pin-headline = 歡迎回來
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
-fox-doodle-pin-body = 小小小提醒：您可以把最愛的獨立瀏覽器釘選起來，點一下即可開啟。
+fox-doodle-pin-body = 小提醒：您可以把最愛的獨立瀏覽器釘選起來，點一下即可開啟。
 fox-doodle-pin-primary = 用 { -brand-short-name } 開啟我的鏈結
 fox-doodle-pin-secondary = 現在不要
 
