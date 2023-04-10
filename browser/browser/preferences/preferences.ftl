@@ -131,7 +131,11 @@ startup-restore-warn-on-quit =
     .label = Varoita, kun selainta ollaan sulkemassa
 disable-extension =
     .label = Poista laajennus käytöstä
+preferences-data-migration-header = Tuo selaimen tiedot
 preferences-data-migration-description = Tuo kirjanmerkit, salasanat, historia ja automaattisen täytön tiedot { -brand-short-name }iin.
+preferences-data-migration-button =
+    .label = Tuo tietoja
+    .accesskey = T
 tabs-group-header = Välilehdet
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab selaa välilehtiä käyttöjärjestyksessä alkaen viimeisimmästä
@@ -739,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Näitä synkronoidaan parhaillaan:
+sync-syncing-across-devices-heading = Synkronoit nämä tietoja kaikkien yhdistettyjen laitteiden välillä:
 sync-currently-syncing-bookmarks = Kirjanmerkit
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Avoimet välilehdet
@@ -767,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = T
     .buttonlabelextra2 = Katkaise yhteys…
     .buttonaccesskeyextra2 = K
+sync-choose-dialog-subtitle = Muutokset synkronoitavien kohteiden luetteloon vaikuttavat kaikkiin yhdistämiisi laitteisiin.
 sync-engine-bookmarks =
     .label = Kirjanmerkit
     .accesskey = K
