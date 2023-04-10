@@ -226,28 +226,6 @@ colorways-cfr-header-today = Los colorits « Voses independentas » expiran u�
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Fòra las bandièras de cookies !
-cfr-cookiebanner-body = Permetre a { -brand-short-name } de regetar automaticament las demandas de cookies quand es possible.
-cfr-cookiebanner-accept-button-v2 = Regetar las requèstas
-    .accesskey = R
-cfr-cookiebanner-reject-button = Pas ara
-    .accesskey = P
-cfr-cookiebanner-header-variant-1 = Veire mens de fenèstras sorgissentas de cookies
-cfr-cookiebanner-body-variant-1 = Permetre a { -brand-short-name } de gerir automaticament las fenèstras sorgissentas de cookies per vos que trapetz una navegacion sens distraccion. { -brand-short-name } regetarà totas las demandas se possible.
-cfr-cookiebanner-accept-button-variant-1 = Regetar las fenèstras sorgissentas
-    .accesskey = R
-cfr-cookiebanner-reject-button-variant-1 = Non, mercé
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reduccion de las bandièras de cookies
-cfr-cookiebanner-body-variant-2 = Redusissètz lo nombre de banièras de cookies que vesètz en autorizant { -brand-short-name } a refusar la demanda de consentiment dels cookies d’un site web se possible.
-cfr-cookiebanner-accept-button-variant-2 = Autorizar
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-2 = Pas ara
-    .accesskey = P
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Permetre a { -brand-short-name } de regetar las demandas de cookies ?
 cfr-cbh-body = { -brand-short-name } pòt regetar automaticament las demandas de cookies.
 cfr-cbh-confirm-button = Regetar las bandièras de cookies
@@ -260,6 +238,8 @@ cfr-cbh-dismiss-button = Mai tard
 july-jam-headline = Asseguram vòstra proteccion
 july-jam-body = Cada mes, { -brand-short-name } bloca una mejana de 3 000 traçadors per utilizaire, per tal qu’ajatz accès a un Internet segur e rapid.
 july-jam-set-default-primary = Dobrir mos ligams dins { -brand-short-name }
+fox-doodle-pin-headline = Urós de vos tornar veire !
+fox-doodle-pin-secondary = Pas ara
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
