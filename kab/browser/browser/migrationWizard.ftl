@@ -62,7 +62,11 @@ migration-done-button-label = Immed
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = ticraḍ n isebtar
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = ismenyifen
 migration-list-password-label = awalen uffiren
+migration-list-history-label = azray
 
 ##
 
