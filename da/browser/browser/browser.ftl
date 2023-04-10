@@ -667,9 +667,11 @@ reader-view-close-button =
     .aria-label = Luk læsevisning
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Slå billede-i-billede til eller fra
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Åbn billede-i-billede ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
