@@ -660,9 +660,13 @@ reader-view-close-button =
     .aria-label = 리더뷰 닫기
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = 화면 속 화면 전환
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = 화면 속 화면 열기 ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = 화면 속 화면 닫기 ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
