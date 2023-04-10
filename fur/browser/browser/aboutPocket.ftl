@@ -54,7 +54,7 @@ pocket-panel-signup-cta-c-updated = Viôt i tiei elements salvâts su cualsisei 
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = La mê liste
-pocket-panel-home-welcome-back = Bentornât
+pocket-panel-home-welcome-back = Bentornâts
 pocket-panel-home-paragraph = Tu puedis doprâ { -pocket-brand-name } par esplorâ e salvâ pagjinis web, articui, videos, podcasts opûr tornâ indaûr a ce che tu stavis leint.
 pocket-panel-home-explore-popular-topics = Esplora i argoments plui popolârs
 pocket-panel-home-discover-more = Scuvierç alc altri
