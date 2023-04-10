@@ -26,6 +26,8 @@ policy-Bookmarks = Crear marcadores en la Barra de herramientas de marcadores,  
 policy-CaptivePortal = Habilitar o deshabilitar el soporte de portal cautivo.
 policy-CertificatesDescription = Agregar certificados o usar certificados incorporados.
 policy-Cookies = Permitir o denegar que los sitios web establezcan cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Establecer políticas relacionadas con los contenedores.
 policy-DisabledCiphers = Deshabilitar cifrados.
 policy-DefaultDownloadDirectory = Establecer la carpeta de descargas predeterminada.
 policy-DisableAppUpdate = Impedir la actualización del navegador.
