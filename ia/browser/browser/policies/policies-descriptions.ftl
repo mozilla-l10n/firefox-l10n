@@ -26,6 +26,8 @@ policy-Bookmarks = Crear marcapaginas in le barra de marcapaginas, in le menu de
 policy-CaptivePortal = Activar o disactivar supporto pro portal captive.
 policy-CertificatesDescription = Adde certificatos o usa certificatos integrate.
 policy-Cookies = Permitter o refusar al sitos web de deponer cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Predefinir criterios re le contentores.
 policy-DisabledCiphers = Disactivar cryptographias.
 policy-DefaultDownloadDirectory = Configurar le directorio predefinite pro discargamentos.
 policy-DisableAppUpdate = Impedir le actualisation del navigator.

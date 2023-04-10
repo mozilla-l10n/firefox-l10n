@@ -664,9 +664,13 @@ reader-view-close-button =
     .aria-label = Clauder le vista de lectura
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Activar/disactivar imagine-in-imagine
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Aperir Imagine annidate ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Clauder Imagine annidate ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 

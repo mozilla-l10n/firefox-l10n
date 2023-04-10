@@ -239,6 +239,9 @@ july-jam-headline = Nos te mantene secur
 july-jam-body = Cata mense, { -brand-short-name } bloca un media de plus de 3000 traciatores per usator pro dar te accesso secur e veloce al bon internet.
 july-jam-set-default-primary = Aperir mi ligamines con { -brand-short-name }
 fox-doodle-pin-headline = Benvenite de novo
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Ecce un rapide memento per que tu pote mantener tu favorite navigator independente justo a portata de un clic.
 fox-doodle-pin-primary = Aperir mi ligamines con { -brand-short-name }
 fox-doodle-pin-secondary = Non ora
 
