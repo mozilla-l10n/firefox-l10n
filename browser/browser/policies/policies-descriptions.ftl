@@ -26,6 +26,8 @@ policy-Bookmarks = Könyvjelzők létrehozása a Könyvjelzők eszköztáron, a 
 policy-CaptivePortal = Beléptető oldal támogatás engedélyezése vagy letiltása.
 policy-CertificatesDescription = Tanúsítványok hozzáadása vagy beépített tanúsítványok használata.
 policy-Cookies = A weboldalak süti elhelyezésének engedélyezése vagy letiltása.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = A konténerekhez kapcsolódó házirendek beállítása.
 policy-DisabledCiphers = Titkosítási módok letiltása.
 policy-DefaultDownloadDirectory = Az alapértelmezett letöltési könyvtár beállítása.
 policy-DisableAppUpdate = A böngésző frissítésének megakadályozása.
