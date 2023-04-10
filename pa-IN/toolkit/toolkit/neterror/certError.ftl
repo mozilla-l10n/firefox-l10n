@@ -76,14 +76,8 @@ deniedPortAccess-title = ਇਹ ਐਡਰੈੱਸ ਪਾਬੰਦੀਸ਼ੁਦ�
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ਓਹ ਹੋ। ਸਾਨੂੰ ਉਹ ਸਾਈਟ ਲੱਭਣ ਲਈ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ।
-# Variables:
-#   $hostname (string) - Hostname of the website to which the user was trying to connect.
-dns-not-found-trr-only-title = { $hostname } ਲਈ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰ ਹੈ।
-# Variables:
 dns-not-found-trr-only-title2 = ਇਹ ਡੋਮੇਨ ਖੋਜਣ ਲਈ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ
-# Variables:
-#   $hostname (string) - Hostname of the website to which the user was trying to connect.
-dns-not-found-native-fallback-title = { $hostname } ਲਈ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ।
+dns-not-found-native-fallback-title2 = ਇਹ ਡੋਮੇਨ ਖੋਜਣ ਲਈ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ
 fileNotFound-title = ਫਾਈਲ ਨਹੀਂ ਲੱਭੀ
 fileAccessDenied-title = ਫਾਈਲ ਲਈ ਪਹੁੰਚ ਦੀ ਪਾਬੰਦੀ ਸੀ
 generic-title = ਓਹ ਹੋ!
