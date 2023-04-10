@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = ਫ਼ਾਰਮ
 protections-panel-site-not-working-view-issue-list-payments = ਭੁਗਤਾਨ
 protections-panel-site-not-working-view-issue-list-comments = ਟਿੱਪਣੀਆਂ
 protections-panel-site-not-working-view-issue-list-videos = ਵਿਡੀਓ
+protections-panel-site-not-working-view-issue-list-fonts = ਫੋਂਟ
 protections-panel-site-not-working-view-send-report = ਰਿਪੋਰਟ ਭੇਜੋ
 
 ##

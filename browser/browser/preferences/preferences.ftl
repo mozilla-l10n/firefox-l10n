@@ -73,6 +73,17 @@ restart-later = ਬਾਅਦ ‘ਚ ਮੁੜ-ਚਾਲੂ ਕਰਿਉ
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ਇਹ ਸੈਟਿੰਗ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
@@ -120,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = ਜਦੋਂ ਬਰਾਊਜ਼ਰ ਨੂੰ ਬੰਦ ਕਰੋ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
 disable-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ
+preferences-data-migration-header = ਬਰਾਊਜ਼ਰ ਡਾਟਾ ਦਰਾਮਦ ਕਰੋ
+preferences-data-migration-description = ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਅਤੇ ਆਪੇ-ਭਰਨ ਡਾਟੇ ਨੂੰ { -brand-short-name } ਵਿੱਚ ਦਰਾਮਦ ਕਰੋ।
+preferences-data-migration-button =
+    .label = ਡਾਟਾ ਦਰਾਮਦ ਕਰੋ
+    .accesskey = m
 tabs-group-header = ਟੈਬਾਂ
 ctrl-tab-recently-used-order =
     .label = ਤਾਜ਼ਾ ਵਰਤੋਂ ਦੇ ਕ੍ਰਮ ਵਿੱਚ ਟੈਬਾਂ ਵਿੱਚ ਗੇੜੇ ਲਈ Ctrl+Tab ਵਰਤੋ
@@ -132,7 +148,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +171,10 @@ browser-containers-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = i
 containers-disable-alert-title = ਸਾਰੀਆਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] ਜੇ ਤੁਸੀਂ ਹੁਣ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰਦੇ ਹੋ ਤਾਂ { $tabCount } ਕਨਟੇਨਰ ਟੈਬ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
@@ -165,10 +185,13 @@ containers-disable-alert-ok-button =
         [one] { $tabCount } ਕਨਟੇਨਰ ਨੂੰ ਬੰਦ ਕਰੋ
        *[other] { $tabCount } ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
     }
+
+##
+
 containers-disable-alert-cancel-button = ਸਮਰੱਥ ਰੱਖੋ
 containers-remove-alert-title = ਇਹ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] ਜੇ ਤੁਸੀਂ ਹੁਣ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਹਟਾਉਂਦੇ ਹੋ ਤਾਂ { $count } ਕਨਟੇਨਰ ਟੈਬ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
@@ -230,6 +253,8 @@ advanced-fonts =
 preferences-zoom-header = ਜ਼ੂਮ
 preferences-default-zoom = ਮੂਲ ਜ਼ੂਮ
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +347,15 @@ applications-manage-app =
 applications-always-ask =
     .label = ਹਮੇਸ਼ਾ ਪੁੱਛੋ
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ਵਰਤੋਂ ({ -brand-short-name } ਵਿੱਚ)
 applications-open-inapp =
@@ -373,6 +398,8 @@ play-drm-content =
 play-drm-content-learn-more = ਹੋਰ ਜਾਣੋ
 update-application-title = { -brand-short-name } ਅੱਪਡੇਟ
 update-application-description = ਵਧੀਆ ਕਾਰਗੁਜ਼ਾਰੀ, ਸਥਿਰਤਾ ਅਤੇ ਸੁਰੱਖਿਆ ਲਈ { -brand-short-name } ਨੂੰ ਅੱਪ-ਟੂ-ਡੇਟ ਕਰਕੇ ਰੱਖੋ।
+# Variables:
+# $version (string) - Firefox version
 update-application-version = ਵਰਜ਼ਨ { $version } <a data-l10n-name="learn-more">ਨਵਾਂ ਕੀ ਹੈ</a>
 update-history =
     .label = …ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ
@@ -399,7 +426,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = ਅੱਪਡੇਟ ਸੈਟਿੰਗਾਂ ਸੰਭਾਲਣ ਦੌਰਾਨ ਗ਼ਲਤੀ ਹੈ
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +456,7 @@ performance-limit-content-process-option = ਸਮੱਗਰੀ ਕਾਰਵਾਈ
 performance-limit-content-process-enabled-desc = ਵੱਖ-ਵੱਖ ਟੈਬਾਂ ਵਰਤਣ ਦੇ ਦੌਰਾਨ ਵਧੀਕ ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਨਾਲ ਕਾਰਗੁਜ਼ਾਰੀ ਸੁਧਰ ਸਕਦੀ ਹੈ, ਪਰ ਇਸ ਨਾਲ ਵੱਧ ਮੈਮੋਰੀ ਵੀ ਵਰਤੀ ਜਾਵੇਗੀ।
 performance-limit-content-process-blocked-desc = ਸਮੱਗਰੀ ਪਰੋਸੈਸਾਂ ਦੀ ਸੰਖਿਆ ਨੂੰ ਬਦਲਣਾ ਮਲਟੀ-ਪਰੋਸੈਸ { -brand-short-name } ਨਾਲ ਹੀ ਸੰਭਵ ਹੈ। <a data-l10n-name="learn-more">ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ ਪਤਾ ਕਰੀਏ ਕਿ ਮਲਟੀ-ਪਰੋਸੈਸ ਸਮਰੱਥ ਹੈ</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ਡਿਫਾਲਟ)
 
@@ -535,6 +562,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
 home-prefs-recommended-by-description-new = { -brand-product-name } ਦੇ ਹਿੱਸੇ ਵਜੋਂ { $provider } ਵਲੋਂ ਖਾਸ ਇਕੱਤਰ ਕੀਤੀ ਸਮੱਗਰੀ
@@ -564,6 +595,8 @@ home-prefs-recent-activity-description = ਤਾਜ਼ਾ ਸਾਈਟਾਂ ਤੇ 
 home-prefs-snippets-header =
     .label = ਛੋਟੇ ਟੋਟੇ
 home-prefs-snippets-description-new = { -vendor-short-name } ਅਤੇ { -brand-product-name } ਵਲੋਂ ਟੋਟਕੇ ਤੇ ਖ਼ਬਰਾਂ
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +661,7 @@ search-find-more-link = ਹੋਰ ਖੋਜ ਇੰਜਣ ਲੱਭੋ
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ਡੁਪਲੀਕੇਟ ਸ਼ਬਦ
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁਣਿਆ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਮੇਂ "{ $name }" ਵਰਤੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਹੋਰ ਨੂੰ ਚੁਣੋ ਜੀ।
 search-keyword-warning-bookmark = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁਣਿਆ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਮੇਂ ਬੁੱਕਮਾਰਕ ਵਰਤੋਂ ਲਈ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਹੋਰ ਨੂੰ ਚੁਣੋ ਜੀ।
 
@@ -675,8 +708,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
 sync-signedin-login-failure = { $email } ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
+
+##
+
 sync-resend-verification =
     .label = ਤਸਦੀਕ ਮੁੜ-ਭੇਜੋ
     .accesskey = d
@@ -703,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = ਤੁਸੀਂ ਇਸ ਵੇਲੇ ਇਹ ਚੀਜ਼ਾਂ ਸਿੰਕ ਕਰ ਰਹੇ ਹੋ:
+sync-syncing-across-devices-heading = ਤੁਸੀਂ ਇਹ ਚੀਜ਼ਾਂ ਨੂੰ ਆਪਣੇ ਕਨੈਕਟ ਕੀਤੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਸਿੰਕ ਕਰ ਰਹੇ ਹੋ:
 sync-currently-syncing-bookmarks = ਬੁੱਕਮਾਰਕ
 sync-currently-syncing-history = ਅਤੀਤ
 sync-currently-syncing-tabs = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
@@ -890,8 +931,8 @@ history-clear-button =
 sitedata-header = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
 sitedata-total-size-calculating = ਸਾਈਟ ਡਾਟੇ ਅਤੇ ਕੈਸ਼ ਆਕਾਰ ਦੀ ਗਿਣਤੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਹੋਏ ਕੂਕੀਜ਼, ਸਾਈਟ ਡਾਟਾ ਅਤੇ ਕੈਸ਼ ਇਸ ਵੇਲੇ { $value } { $unit } ਡਿਸਕ ਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੀ ਹੈ।
 sitedata-learn-more = ਹੋਰ ਜਾਣੋ
 sitedata-delete-on-close =
@@ -931,6 +972,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ...ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = ਕੂਕੀ ਬੈਨਰ ਘਟਾਉਣਾ
+cookie-banner-handling-description = { -brand-short-name } ਸਹਾਇਕ ਸਾਈਟਾਂ ਉੱਤੇ ਕੂਕੀ ਬੇਨਤੀਆਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਹੀ ਨਾ-ਮਨਜ਼ੂਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ।
+cookie-banner-learn-more = ਹੋਰ ਜਾਣੋ
+forms-handle-cookie-banners =
+    .label = ਕੂਕੀਜ਼ ਬੈਨਰ ਘਟਾਓ
 
 ## Privacy Section - Address Bar
 
@@ -1075,6 +1124,11 @@ permissions-camera-settings =
 permissions-microphone = ਮਾਈਕਰੋਫ਼ੋਨ
 permissions-microphone-settings =
     .label = …ਸੈਟਿੰਗਾਂ
+    .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = ਸਪੀਕਰ ਦੀ ਚੋਣ
+permissions-speaker-settings =
+    .label = ਸੈਟਿੰਗਾਂ…
     .accesskey = t
 permissions-notification = ਨੋਟੀਫਿਕੇਸ਼ਨ
 permissions-notification-settings =
