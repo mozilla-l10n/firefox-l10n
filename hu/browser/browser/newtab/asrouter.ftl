@@ -226,28 +226,6 @@ colorways-cfr-header-today = A „Független hangok” színvilágok ma járnak 
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Elég a sütibannerekből!
-cfr-cookiebanner-body = Engedélyezés a { -brand-short-name } számára, hogy automatikusan utasítsa el az összes sütibannerkérést, ha lehetséges.
-cfr-cookiebanner-accept-button-v2 = Kérések elutasítása
-    .accesskey = u
-cfr-cookiebanner-reject-button = Most nem
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Lásson kevesebb sütikkel kapcsolatos felugró ablakot
-cfr-cookiebanner-body-variant-1 = Hagyja, hogy a { -brand-short-name } automatikusan válaszoljon a sütik előugró ablakaira, így visszatérhet a zavartalan böngészéshez. A { -brand-short-name } elutasítja az összes kérést, ha az lehetséges.
-cfr-cookiebanner-accept-button-variant-1 = Felugró ablakok eltüntetése
-    .accesskey = t
-cfr-cookiebanner-reject-button-variant-1 = Köszönöm, nem
-    .accesskey = n
-cfr-cookiebanner-header-variant-2 = Sütibannerek számának csökkentése
-cfr-cookiebanner-body-variant-2 = Csökkentse a sütibannerek számát azáltal, hogy lehetővé teszi a { -brand-short-name } számára, hogy elutasítsa a webhelyek sütíkhez való hozzájárulását, ha lehetséges.
-cfr-cookiebanner-accept-button-variant-2 = Engedélyezés
-    .accesskey = E
-cfr-cookiebanner-reject-button-variant-2 = Most nem
-    .accesskey = n
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Engedélyezi a { -brand-short-name } számára a sütibannerek elutasítását?
 cfr-cbh-body = A { -brand-short-name } automatikusan elutasíthat számos sütibanneres kérést.
 cfr-cbh-confirm-button = Sütibannerek elutasítása
@@ -260,6 +238,12 @@ cfr-cbh-dismiss-button = Most nem
 july-jam-headline = Fedezzük Önt
 july-jam-body = A { -brand-short-name } havonta átlagosan több mint 3000 nyomkövetőt blokkol felhasználónként, így biztonságos és gyors hozzáférést biztosít a jó internethez.
 july-jam-set-default-primary = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
+fox-doodle-pin-headline = Üdvözöljük újra
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Itt egy gyors emlékeztető, hogy egyetlen kattintásnyira tudhatja kedvenc független böngészőjét.
+fox-doodle-pin-primary = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
+fox-doodle-pin-secondary = Most nem
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
