@@ -225,25 +225,6 @@ colorways-cfr-header-today = Fargesamansetjinga «Uavhengige røyster» går ut 
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Fjern infokapselbanner!
-cfr-cookiebanner-body = Tillat at { -brand-short-name } automatisk avviser alle førespurnadar om infokapselbanner når det er muleg.
-cfr-cookiebanner-accept-button-v2 = Avvis førespurnad
-    .accesskey = A
-cfr-cookiebanner-reject-button = Ikkje no
-    .accesskey = I
-cfr-cookiebanner-header-variant-1 = Sjå færre sprettoppvindauge for infokapslar
-cfr-cookiebanner-body-variant-1 = La { -brand-short-name } automatisk svare på sprettoppvindauge om infokapslar for deg slik at du kan gå tilbake til distraksjonsfri surfing. { -brand-short-name } vil avvise alle førespurnadar dersom muleg.
-cfr-cookiebanner-accept-button-variant-1 = Avvis sprettoppvindauge
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-1 = Nei takk
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Redusering av infokapselbanner
-cfr-cookiebanner-body-variant-2 = Reduser mengda infokapselbanner du ser ved å la { -brand-short-name } avslå førespurnaden om samtykke frå ein nettstad om muleg.
-cfr-cookiebanner-accept-button-variant-2 = Tillat
-    .accesskey = T
-cfr-cookiebanner-reject-button-variant-2 = Ikkje no
-    .accesskey = k
 cfr-cbh-header = Tillate at { -brand-short-name } avviser infokapselbanner?
 cfr-cbh-body = { -brand-short-name } kan automatisk avvise mange infokapselbanner-førespurnadar.
 cfr-cbh-confirm-button = Avvis infokapselbanner
@@ -256,6 +237,9 @@ cfr-cbh-dismiss-button = Ikkje no
 july-jam-headline = Vi beskyttar deg
 july-jam-body = Kvar månad blokkerer { -brand-short-name } i gjennomsnitt over 3000 sporarar per brukar, noko som gir deg trygg og rask tilgang til eit bra internett.
 july-jam-set-default-primary = Opne lenkene mine med { -brand-short-name }
+fox-doodle-pin-headline = Velkomen tilbake
+fox-doodle-pin-primary = Opne lenkene mine med { -brand-short-name }
+fox-doodle-pin-secondary = Ikkje no
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
