@@ -221,28 +221,6 @@ colorways-cfr-header-today = 獨立之聲配色將於今日失效
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = 讓 Cookie 橫幅消失！
-cfr-cookiebanner-body = 讓 { -brand-short-name } 盡可能自動拒絕 Cookie 橫幅。
-cfr-cookiebanner-accept-button-v2 = 拒絕請求
-    .accesskey = R
-cfr-cookiebanner-reject-button = 現在不要
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = 減少顯示 Cookie 彈出提示
-cfr-cookiebanner-body-variant-1 = 讓 { -brand-short-name } 自動為您回答彈出的 Cookie 對話框，這樣上網就可以減少分心。{ -brand-short-name } 會盡可能自動拒絕所有請求。
-cfr-cookiebanner-accept-button-variant-1 = 關閉彈出提示
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = 不要，謝謝
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = 減少 Cookie 橫幅
-cfr-cookiebanner-body-variant-2 = 讓 { -brand-short-name } 盡可能自動拒絕網站要設定 Cookie 的請求，讓您減少會看到的 Cookie 橫幅數量。
-cfr-cookiebanner-accept-button-variant-2 = 允許
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-2 = 現在不要
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = 要允許 { -brand-short-name } 拒絕 Cookie 橫幅嗎？
 cfr-cbh-body = { -brand-short-name } 可以盡量自動拒絕 Cookie 橫幅。
 cfr-cbh-confirm-button = 拒絕 Cookie 橫幅
@@ -255,6 +233,12 @@ cfr-cbh-dismiss-button = 現在不要
 july-jam-headline = 讓我們保護您
 july-jam-body = 每個月，{ -brand-short-name } 平均都會為每位使用者封鎖超過 3,000 組追蹤器，讓您上網更快、更安全。
 july-jam-set-default-primary = 用 { -brand-short-name } 開啟我的鏈結
+fox-doodle-pin-headline = 歡迎回來
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = 小小小提醒：您可以把最愛的獨立瀏覽器釘選起來，點一下即可開啟。
+fox-doodle-pin-primary = 用 { -brand-short-name } 開啟我的鏈結
+fox-doodle-pin-secondary = 現在不要
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
