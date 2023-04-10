@@ -664,9 +664,13 @@ reader-view-close-button =
     .aria-label = Desativar leitor
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Alternar picture-in-picture
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Abrir em picture-in-picture ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Fechar picture-in-picture ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
