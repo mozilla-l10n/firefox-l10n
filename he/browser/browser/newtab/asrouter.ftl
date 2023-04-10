@@ -57,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } משתמשים
     }
 
-## Cookie Banner Handling Onboarding
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = סנכרון הסימניות שלך לכל מקום.
@@ -223,6 +220,12 @@ colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעד
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-set-default-primary = פתיחת הקישורים שלי באמצעות { -brand-short-name }
+fox-doodle-pin-headline = ברוכים השבים
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = רק תזכורת קטנה שבאפשרותך לשמור את הדפדפן העצמאי האהוב עליך במרחק לחיצה אחת בלבד.
+fox-doodle-pin-primary = פתיחת הקישורים שלי באמצעות { -brand-short-name }
+fox-doodle-pin-secondary = לא כעת
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
