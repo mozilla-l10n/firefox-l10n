@@ -239,6 +239,9 @@ july-jam-headline = Vi skyddar dig
 july-jam-body = Varje månad blockerar { -brand-short-name } i genomsnitt över 3 000 spårare per användare, vilket ger dig säker och snabb tillgång till ett bra internet.
 july-jam-set-default-primary = Öppna mina länkar med { -brand-short-name }
 fox-doodle-pin-headline = Välkommen tillbaka
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Här är en snabb påminnelse om att du kan ha din oberoende favoritwebbläsare endast ett klick bort.
 fox-doodle-pin-primary = Öppna mina länkar med { -brand-short-name }
 fox-doodle-pin-secondary = Inte nu
 
