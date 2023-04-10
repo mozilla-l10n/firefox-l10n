@@ -672,6 +672,8 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Åbn billede-i-billede ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Luk billede-i-billede ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
