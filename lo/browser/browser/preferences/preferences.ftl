@@ -781,9 +781,11 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ແທັບທີ່ເປີດຢູ່
     .accesskey = ປ
+addressbar-quickactions-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = ເພີ່ມການປ້ອງກັນການຕິດຕາມ
 content-blocking-section-top-level-description = ບົບຕິດຕາມລຸດຕິດຕາມທ່ານອອນໄລນ໌ເພື່ອເກັບກໍາຂໍ້ມູນກ່ຽວກັບນິໄສການທ່ອງເວັບແລະຄວາມສົນໃຈຂອງທ່ານ. { -brand-short-name } ບລັອກຕົວຕິດຕາມເຫຼົ່ານີ້ ແລະສະຄຣິບທີ່ເປັນອັນຕະລາຍອື່ນໆ.
 content-blocking-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 content-blocking-fpi-incompatibility-warning = ທ່ານກຳລັງໃຊ້ First Party Isolation (FPI), ເຊິ່ງ overrides ບາງການຕັ້ງຄ່າຄຸກກີຂອງ { -brand-short-name }.
@@ -791,6 +793,13 @@ content-blocking-fpi-incompatibility-warning = ທ່ານກຳລັງໃຊ
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = ມາດຕະຖານ
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = ເຂັ້ມງວດ
+    .accesskey = r
 
 ##
 
