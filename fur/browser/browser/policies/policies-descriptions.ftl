@@ -26,6 +26,8 @@ policy-Bookmarks = Cree i segnelibris te sbare dai segneliris, tal menù segneli
 policy-CaptivePortal = Abilite o disabilite il supuart pal portâl presonîr (captive portal).
 policy-CertificatesDescription = Zonte certificâts o dopre i certificâts integrâts.
 policy-Cookies = Permet o dinee ai sîts web di definî cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Stabilìs lis politichis relativis ai contignidôrs.
 policy-DisabledCiphers = Disative cifris.
 policy-DefaultDownloadDirectory = Stabilìs la cartele predefinide pai file discjariâts.
 policy-DisableAppUpdate = Impedìs al navigadôr di inzornâsi.

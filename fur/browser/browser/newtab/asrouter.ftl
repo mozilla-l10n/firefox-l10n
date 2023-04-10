@@ -226,28 +226,6 @@ colorways-cfr-header-today = Lis tonalitâts des vôs indipendentis a scjadin vu
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Vonde strissons pai cookies!
-cfr-cookiebanner-body = Permet a { -brand-short-name } di refudâ in automatic dutis lis richiestis dai strissons pai cookies, se pussibil.
-cfr-cookiebanner-accept-button-v2 = Refude richiestis
-    .accesskey = R
-cfr-cookiebanner-reject-button = No cumò
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Viôt mancul ricuadris a comparse pai cookies
-cfr-cookiebanner-body-variant-1 = Permet a { -brand-short-name } di rispuindi in automatic al to puest ai ricuadris dai cookies, cussì che tu puedis tornâ a navigâ cence distrazions. Se pussibil, { -brand-short-name } al refudarà dutis lis richiestis.
-cfr-cookiebanner-accept-button-variant-1 = Siere ricuadris a comparse
-    .accesskey = S
-cfr-cookiebanner-reject-button-variant-1 = No graciis
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Riduzion strissons pai cookies
-cfr-cookiebanner-body-variant-2 = Ridûs la cuantitât di strissons pai cookies visualizâts, permetint a { -brand-short-name } di ricusâ, se pussibil, lis richiestis di consens pai cookies de bande di un sît.
-cfr-cookiebanner-accept-button-variant-2 = Permet
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = No cumò
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Permeti a { -brand-short-name } di refudâ i strissons pai cookies?
 cfr-cbh-body = { -brand-short-name } al pues refudâ in automatic tantis richiestis dai strissons pai cookies.
 cfr-cbh-confirm-button = Refude i strissons pai cookies
@@ -260,6 +238,12 @@ cfr-cbh-dismiss-button = No cumò
 july-jam-headline = Ti tignìn al sigûr
 july-jam-body = Ogni mês, { -brand-short-name } al bloche une medie di 3,000+ spiis par utent, danti un acès sigûr e svelt ae part miôr di internet.
 july-jam-set-default-primary = Vierç i miei colegaments cun { -brand-short-name }
+fox-doodle-pin-headline = Bentornâts
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Chi al è un piçul avîs: tu puedis tignî il to navigadôr indipendent preferît a puartade di clic.
+fox-doodle-pin-primary = Vierç i miei colegaments cun { -brand-short-name }
+fox-doodle-pin-secondary = No cumò
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
