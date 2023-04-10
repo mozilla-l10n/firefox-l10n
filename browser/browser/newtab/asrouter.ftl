@@ -236,6 +236,9 @@ july-jam-headline = 저희가 사용자를 보호합니다
 july-jam-body = 매달 { -brand-short-name }는 사용자당 평균 3,000개 이상의 추적기를 차단하여 좋은 인터넷에 안전하고 빠르게 액세스할 수 있도록 합니다.
 july-jam-set-default-primary = { -brand-short-name }로 내 링크 열기
 fox-doodle-pin-headline = 환영합니다
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = 클릭 한 번으로 좋아하는 독립된 브라우저를 계속 사용할 수 있는다는 알림입니다.
 fox-doodle-pin-primary = { -brand-short-name }로 내 링크 열기
 fox-doodle-pin-secondary = 나중에
 
