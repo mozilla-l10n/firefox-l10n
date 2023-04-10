@@ -226,25 +226,6 @@ colorways-cfr-header-today = Litasett Independent Voices rennur út í dag
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Vefkökuborðar fyrir bí!
-cfr-cookiebanner-body = Leyfa { -brand-short-name } að hafna sjálfkrafa öllum beiðnum um vefkökuborða þegar mögulegt er.
-cfr-cookiebanner-accept-button-v2 = Hafna beiðnum
-    .accesskey = H
-cfr-cookiebanner-reject-button = Ekki núna
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Sjá færri sprettglugga fyrir vefkökur
-cfr-cookiebanner-body-variant-1 = Leyfa { -brand-short-name } að svara sjálfkrafa vefkökugluggum fyrir þig svo þú getir vafrað áfram án truflunar. { -brand-short-name } mun hafna öllum beiðnum ef mögulegt er.
-cfr-cookiebanner-accept-button-variant-1 = Afgreiða sprettglugga
-    .accesskey = p
-cfr-cookiebanner-reject-button-variant-1 = Nei, takk
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Fækkun vefkökuborða
-cfr-cookiebanner-body-variant-2 = Fækkaðu þeim vefkökuborðum sem þú sérð með því að leyfa { -brand-short-name } að hafna beiðnum vefsvæða um samþykki á vefkökum, ef mögulegt er.
-cfr-cookiebanner-accept-button-variant-2 = Leyfa
-    .accesskey = a
-cfr-cookiebanner-reject-button-variant-2 = Ekki núna
-    .accesskey = n
 cfr-cbh-header = Leyfa { -brand-short-name } að hafna vefkökuborðum?
 cfr-cbh-body = { -brand-short-name } getur reynt að hafna sjálfkrafa beiðnum um vefkökur.
 cfr-cbh-confirm-button = Hafna vefkökuborðum
@@ -257,6 +238,9 @@ cfr-cbh-dismiss-button = Ekki núna
 july-jam-headline = Við erum með það sem þú þarft
 july-jam-body = Í hverjum mánuði lokar { -brand-short-name } að meðaltali á meira en 3.000 rekjara á hvern notanda, sem tryggir þér öruggan, skjótan aðgang að góðu interneti.
 july-jam-set-default-primary = Opna tenglana mína með { -brand-short-name }
+fox-doodle-pin-headline = Velkomin aftur
+fox-doodle-pin-primary = Opna tenglana mína með { -brand-short-name }
+fox-doodle-pin-secondary = Ekki núna
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

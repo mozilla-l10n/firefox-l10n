@@ -667,9 +667,13 @@ reader-view-close-button =
     .aria-label = Loka lesham
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Víxla mynd-í-mynd af/á
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Opna mynd-í-mynd ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Loka mynd-í-mynd ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
