@@ -667,9 +667,13 @@ reader-view-close-button =
     .aria-label = Quitter le mode lecture
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Activer/Désactiver l’incrustation vidéo
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Ouvrir l’incrustation vidéo ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Fermer l’incrustation vidéo ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
