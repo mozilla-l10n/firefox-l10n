@@ -220,26 +220,6 @@ colorways-cfr-header-today = Afran n yiniten n tuɣac tilelliyin ad ifakk ass-a
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Dayen iɣarracen n yinagan n tuqqna!
-cfr-cookiebanner-body = Sireg { -brand-short-name } ad yagi s wudem awurman akk idurar n yiɣarracen n yinagan n tuqqna ma yella wamek.
-cfr-cookiebanner-accept-button-v2 = Aggi tuttriwin
-    .accesskey = g
-cfr-cookiebanner-reject-button = Mačči tura
-    .accesskey = M
-cfr-cookiebanner-header-variant-1 = Wali cwiṭ n yisfuyla udhimen n yinagan n tuqqna
-cfr-cookiebanner-accept-button-variant-1 = Mdel isfuyla udhimen
-    .accesskey = d
-cfr-cookiebanner-reject-button-variant-1 = Ala, tanemmirt
-    .accesskey = L
-cfr-cookiebanner-header-variant-2 = Asenqes n yiɣarracen n yinagan n tuqqna
-cfr-cookiebanner-accept-button-variant-2 = Sireg
-    .accesskey = S
-cfr-cookiebanner-reject-button-variant-2 = Mačči tura
-    .accesskey = M
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-dismiss-button = Mačči tura
     .accesskey = M
 
@@ -247,6 +227,9 @@ cfr-cbh-dismiss-button = Mačči tura
 
 july-jam-headline = Ad neḍmen ammesten-ik·im
 july-jam-set-default-primary = Ldi iseɣwan-iw s { -brand-short-name }
+fox-doodle-pin-headline = Ansuf tikkelt niḍen
+fox-doodle-pin-primary = Ldi iseɣwan-iw s { -brand-short-name }
+fox-doodle-pin-secondary = Mačči tura
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

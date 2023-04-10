@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Tiferkiyin
 protections-panel-site-not-working-view-issue-list-payments = Asellek
 protections-panel-site-not-working-view-issue-list-comments = Iwenniten
 protections-panel-site-not-working-view-issue-list-videos = Tividyutin
+protections-panel-site-not-working-view-issue-list-fonts = Tisefsiyin
 protections-panel-site-not-working-view-send-report = Azen aneqqis
 
 ##
