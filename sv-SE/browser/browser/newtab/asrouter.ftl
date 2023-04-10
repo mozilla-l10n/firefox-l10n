@@ -226,28 +226,6 @@ colorways-cfr-header-today = Independent Voices colorways upphör idag
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Ta bort kak-banners!
-cfr-cookiebanner-body = Tillåt { -brand-short-name } att automatiskt avvisa alla begärande om kakbanner när det är möjligt.
-cfr-cookiebanner-accept-button-v2 = Avvisa förfrågan
-    .accesskey = A
-cfr-cookiebanner-reject-button = Inte nu
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Se färre popup-fönster för kakor
-cfr-cookiebanner-body-variant-1 = Låt { -brand-short-name } automatiskt svara på popup-fönster för kakor så att du kan återgå till att surfa utan distraktion. { -brand-short-name } kommer att avvisa alla förfrågningar om möjligt.
-cfr-cookiebanner-accept-button-variant-1 = Avvisa popup-fönster
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-1 = Nej tack
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reducering av kakbanner
-cfr-cookiebanner-body-variant-2 = Minska mängden kakbanners du ser genom att tillåta { -brand-short-name } att avslå en webbplats begäran om samtycke till kakor om möjligt.
-cfr-cookiebanner-accept-button-variant-2 = Tillåt
-    .accesskey = T
-cfr-cookiebanner-reject-button-variant-2 = Inte nu
-    .accesskey = n
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Tillåt { -brand-short-name } att avvisa kakbanners?
 cfr-cbh-body = { -brand-short-name } kan automatiskt avvisa många kakbannerförfrågningar.
 cfr-cbh-confirm-button = Avvisa kakbanners
@@ -260,6 +238,9 @@ cfr-cbh-dismiss-button = Inte nu
 july-jam-headline = Vi skyddar dig
 july-jam-body = Varje månad blockerar { -brand-short-name } i genomsnitt över 3 000 spårare per användare, vilket ger dig säker och snabb tillgång till ett bra internet.
 july-jam-set-default-primary = Öppna mina länkar med { -brand-short-name }
+fox-doodle-pin-headline = Välkommen tillbaka
+fox-doodle-pin-primary = Öppna mina länkar med { -brand-short-name }
+fox-doodle-pin-secondary = Inte nu
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
