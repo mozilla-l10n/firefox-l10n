@@ -667,9 +667,13 @@ reader-view-close-button =
     .aria-label = Titz'apïx rutz'etik sik'inïk
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Tik'exlöx Picture-in-Picture
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Tijaq Picture-in-Picture({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Titz'apïx Picture-in-Picture({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
