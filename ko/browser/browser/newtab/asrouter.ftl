@@ -223,28 +223,6 @@ colorways-cfr-header-today = 독립적인 목소리 컬러웨이 오늘 만료�
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = 쿠키 배너가 사라졌습니다!
-cfr-cookiebanner-body = 가능한 경우 { -brand-short-name }가 모든 쿠키 배너 요청을 자동으로 거부하도록 허용합니다.
-cfr-cookiebanner-accept-button-v2 = 요청 거부
-    .accesskey = R
-cfr-cookiebanner-reject-button = 나중에
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = 쿠키 팝업 덜 보기
-cfr-cookiebanner-body-variant-1 = { -brand-short-name }가 쿠키 팝업에 자동으로 응답하도록 하여 방해받지 않고 탐색할 수 있습니다. { -brand-short-name }는 가능한 경우 모든 요청을 거부합니다.
-cfr-cookiebanner-accept-button-variant-1 = 팝업 닫기
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = 아니요
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = 쿠키 배너 감소
-cfr-cookiebanner-body-variant-2 = 가능한 경우 { -brand-short-name }가 웹 사이트의 쿠키 동의 요청을 거부하도록 허용하여 표시되는 쿠키 배너의 양을 줄입니다.
-cfr-cookiebanner-accept-button-variant-2 = 허용
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-2 = 나중에
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = { -brand-short-name }가 쿠키 배너를 거부하도록 허용하시겠습니까?
 cfr-cbh-body = { -brand-short-name }가 많은 쿠키 배너 요청을 자동으로 거부할 수 있습니다.
 cfr-cbh-confirm-button = 쿠키 배너 거부
@@ -257,6 +235,9 @@ cfr-cbh-dismiss-button = 나중에
 july-jam-headline = 저희가 사용자를 보호합니다
 july-jam-body = 매달 { -brand-short-name }는 사용자당 평균 3,000개 이상의 추적기를 차단하여 좋은 인터넷에 안전하고 빠르게 액세스할 수 있도록 합니다.
 july-jam-set-default-primary = { -brand-short-name }로 내 링크 열기
+fox-doodle-pin-headline = 환영합니다
+fox-doodle-pin-primary = { -brand-short-name }로 내 링크 열기
+fox-doodle-pin-secondary = 나중에
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
