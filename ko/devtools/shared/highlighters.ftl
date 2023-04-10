@@ -41,7 +41,7 @@ remote-node-picker-notice = DevTools 노드 선택기가 활성화되었습니�
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = 검사기에서 요소를 선택하려면 클릭하세요
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
-remote-node-picker-notice-action-touch = 검사기에서 요소를 선택하려면 탭하세요
+remote-node-picker-notice-action-touch = 검사기에서 요소를 선택하려면 누르세요
 # The text displayed in the button that is in the notice in the content page when the user
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
