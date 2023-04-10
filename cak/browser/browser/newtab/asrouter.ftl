@@ -180,6 +180,7 @@ spotlight-pin-secondary-button = Wakami mani
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = K'ak'a' { -brand-short-name }. Yalan ichinan. Jub'a' ojqanela'. Majun rojqan.
+mr2022-background-update-toast-text = Tatojtob'ej ri k'ak'a' { -brand-short-name }, k'exon rik'in ri nïm chajixïk chuwäch ojqanem k'o wakami.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -198,6 +199,7 @@ firefoxview-cfr-primarybutton = Tatojtob'ej
 firefoxview-cfr-secondarybutton = Wakami mani
     .accesskey = n
 firefoxview-cfr-header-v2 = Tasamajij el akuchi' xya' wi kan
+firefoxview-cfr-body-v2 = Kekakolo' ri tz'apin taq ruwi' chuqa' katok chi kipam ri okisaxel pa { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
