@@ -61,6 +61,7 @@ migration-import-button-label = Tuo
 migration-cancel-button-label = Peruuta
 migration-done-button-label = Valmis
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ei löytänyt ohjelmia, jotka sisältävät kirjanmerkki-, historia- tai salasanatietoja.
+migration-wizard-import-browser-no-resources = Tapahtui virhe. { -brand-short-name } ei löydä tietoja tuotavaksi kyseisestä selainprofiilista.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -68,13 +69,74 @@ migration-wizard-import-browser-no-browsers = { -brand-short-name } ei löytäny
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = kirjanmerkit
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = suosikit
+migration-list-password-label = salasanat
+migration-list-history-label = historia
+migration-list-autofill-label = automaattisen täytön tiedot
 
 ##
 
+migration-wizard-progress-header = Tuodaan tietoja
+migration-wizard-progress-done-header = Tietojen tuonti onnistui
 migration-wizard-progress-icon-in-progress =
     .aria-label = Tuodaan…
+migration-wizard-progress-icon-completed =
+    .aria-label = Valmis
 migration-safari-password-import-header = Tuo salasanat Safarista
+migration-safari-password-import-steps-header = Tuo Safari-salasanat seuraavasti:
+migration-safari-password-import-step1 = Avaa Safari, napsauta “Safari”-valikkoa vasemmasta yläkulmasta ja valitse Asetukset > Salasanat
+migration-safari-password-import-step2 = Napsauta <img data-l10n-name="safari-icon-3dots"/>-painiketta ja valitse “Vie kaikki salasanat”
+migration-safari-password-import-step3 = Tallenna salasanatiedosto
+migration-safari-password-import-step4 = Napsauta "Valitse tiedosto" alla valitaksesi tallentamasi salasanatiedoston
 migration-safari-password-import-skip-button = Ohita
 migration-safari-password-import-select-button = Valitse tiedosto
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } kirjanmerkki
+       *[other] { $quantity } kirjanmerkkiä
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } suosikki
+       *[other] { $quantity } suosikkia
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } salasana
+       *[other] { $quantity } salasanaa
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Viimeisen päivän ajalta
+       *[other] Viimeisen { $maxAgeInDays } päivän ajalta
+    }
 migration-wizard-progress-success-formdata = Lomakehistoria
+migration-wizard-safari-permissions-sub-header = Tuo Safari-kirjanmerkit ja -selaushistoria seuraavasti:
+migration-wizard-safari-instructions-continue = Valitse "Jatka"
+migration-wizard-safari-instructions-folder = Valitse luettelosta Safari-kansio ja valitse "Avaa"
 migration-wizard-safari-select-button = Valitse tiedosto
