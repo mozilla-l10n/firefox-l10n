@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
-<!ENTITY renameFolderDialog.title          "Taya Setsholadifaele leina sešwa">
-<!ENTITY rename.label                      "Tsenya leina le lentšhwa la setsholadifaele sa gago:">
-<!ENTITY rename.accesskey                  "T">
-<!ENTITY accept.label                      "Rename">
-<!ENTITY accept.accesskey                  "R">
