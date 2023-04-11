@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY migration.title "&brandFullName;: მონაცემთა გადმოტანა">
-<!ENTITY migration.welcome "მოგესალმებით">
-<!ENTITY migration.importing "გადმოდის">
-<!ENTITY migration.list.description "თუ გსურთ, &brandShortName; გადმოიტანს კალენდრის მონაცემებს არაერთი სასურველი პროგრამიდან. თქვენს კომპიუტერში ნაპოვნია მონაცემები აღნიშნული პროგრამებიდან. გთხოვთ მიუთითოთ, რომელი მათგანიდან გსურთ გადმოტანა.">
-<!ENTITY migration.progress.description "მონიშნულ მონაცემთა იმპორტი">
