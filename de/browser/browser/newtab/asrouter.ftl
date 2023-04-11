@@ -238,6 +238,7 @@ cfr-cbh-dismiss-button = Nicht jetzt
 july-jam-headline = Wir haben für Sie vorgesorgt
 july-jam-body = Jeden Monat blockiert { -brand-short-name } durchschnittlich mehr als 3000 Tracker pro Nutzer und ermöglicht so einen sicheren, schnellen Zugriff auf das gute Internet.
 july-jam-set-default-primary = Meine Links mit { -brand-short-name } öffnen
+fox-doodle-pin-headline = Willkommen zurück
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Hier ist eine kurze Erinnerung, dass Sie Ihren unabhängigen Lieblings-Browser in Klickweite haben können.
