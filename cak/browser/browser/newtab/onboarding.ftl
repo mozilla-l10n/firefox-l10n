@@ -46,14 +46,6 @@ mr1-return-to-amo-add-extension-label = Titz'aqatisäx { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Nab'ey taq xak: ruwäch { $current } ri { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = B'enäq: { $current } ruxaq { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -67,6 +59,14 @@ mr1-welcome-screen-hero-text = Ronojel nitikïr wawe'
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — B'anöy ruwachib'al taq mueble, ruwinaq Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = B'enäq: { $current } ruxaq { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Tichup animanela'
 
@@ -287,6 +287,7 @@ mr2022-onboarding-pin-primary-button-label =
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Niqak'awomaj chawe ruma nawajo' { -brand-product-name }
+mr2022-onboarding-existing-pin-checkbox-label = Chuqa' tatz'aqatisaj ri ichinan rokem pa { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -355,6 +356,7 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Majun kuki chuqa' natab'
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Junelïk niqakamelaj ri awichinanem
 mr2022-onboarding-privacy-segmentation-button-primary-label = Tokisäx ruchilab'exik { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Tik'ut pe ri cholajil rutzijol
 
