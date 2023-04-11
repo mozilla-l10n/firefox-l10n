@@ -226,28 +226,6 @@ colorways-cfr-header-today = Independent Voices-kleurstellingen ferrinne hjoed
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Farwel cookiebanners!
-cfr-cookiebanner-body = { -brand-short-name } tastean om wannear mooglik alle cookiebannerfersiken te wegerjen.
-cfr-cookiebanner-accept-button-v2 = Fersiken ôfwize
-    .accesskey = w
-cfr-cookiebanner-reject-button = No net
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Sjoch minder cookie-pop-ups
-cfr-cookiebanner-body-variant-1 = Lit { -brand-short-name } cookie-pop-ups automatysk foar jo beäntwurdzje, sadat jo wer sneupe kinne sûnder ôflieding. { -brand-short-name } wiist alle fersiken ôf as it mooglik is.
-cfr-cookiebanner-accept-button-variant-1 = Pop-ups slute
-    .accesskey = l
-cfr-cookiebanner-reject-button-variant-1 = Nee tanke
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reduksje fan cookiebanners
-cfr-cookiebanner-body-variant-2 = Ferminderje it oantal cookie-banners dat jo sjogge troch { -brand-short-name } ta te stean om it fersyk om tastimming foar cookies fan in website te wegerjen, wannear mooglik.
-cfr-cookiebanner-accept-button-variant-2 = Tastean
-    .accesskey = T
-cfr-cookiebanner-reject-button-variant-2 = No net
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = { -brand-short-name } tastean om cookiebanners te wegerjen?
 cfr-cbh-body = { -brand-short-name } kin in protte cookiebannerfersiken automatysk wegerje.
 cfr-cbh-confirm-button = Cookiebanners wegerje
@@ -260,6 +238,12 @@ cfr-cbh-dismiss-button = No net
 july-jam-headline = By ús binne jo feilich
 july-jam-body = Elke moanne blokkearret { -brand-short-name } gemiddeld mear as 3.000 trackers per brûker, wêrtroch jo feilich en flugge tagong hawwe ta it goede ynternet.
 july-jam-set-default-primary = Myn keppelingen iepenje mei { -brand-short-name }
+fox-doodle-pin-headline = Wolkom werom
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Dit is in koart omtinken dat jo jo favorite ûnôfhinklike browser op mar ien klik ôfstân hâlde kinne.
+fox-doodle-pin-primary = Myn keppelingen iepenje mei { -brand-short-name }
+fox-doodle-pin-secondary = No net
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
