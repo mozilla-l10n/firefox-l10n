@@ -225,15 +225,26 @@ colorways-cfr-header-today = Itsenäiset äänet -väriteemat vanhenevat tänä�
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Sallitko { -brand-short-name }in vastata evästekyselyihin kielteisesti?
+cfr-cbh-body = { -brand-short-name } voi automattisesti vastata moniin evästekyselyihin kielteisesti.
+cfr-cbh-confirm-button = Vastaa evästepyyntöihin kieltävästi
+    .accesskey = V
 cfr-cbh-dismiss-button = Ei nyt
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Pidämme sinusta huolen
+july-jam-body = Joka kuukausi { -brand-short-name } estää keskimäärin 3 000+ seurainta käyttäjää kohden, jonka ansiosta sinulla on turvallinen ja nopea pääsy hyvään internetiin.
+july-jam-set-default-primary = Avaa linkit { -brand-short-name }illa
 fox-doodle-pin-headline = Tervetuloa takaisin
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Tässä on pieni muistutus siitä, että voit pitää suosikkiselaimesi vain yhden napsautuksen päässä.
+fox-doodle-pin-primary = Avaa linkit { -brand-short-name }illa
 fox-doodle-pin-secondary = Ei nyt
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>PDF-tiedostot avataan nyt { -brand-short-name }issa.</strong> Muokkaa tai allekirjoita lomakkeita suoraan selaimessa. Muuttaksesi toimintaa, etsi asetuksista “PDF”.
 set-default-pdf-handler-primary = Selvä
