@@ -11,7 +11,7 @@ callout-primary-complete-button-label = Entendi
 
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
-callout-firefox-view-tab-pickup-title = Continue em outro dispositivo com a sincronização de abas
+callout-firefox-view-tab-pickup-title = Continue o que estava fazendo em outro dispositivo com a sincronização de abas
 callout-firefox-view-tab-pickup-subtitle = Recupere rapidamente abas abertas no celular, abrindo diretamente aqui.
 callout-firefox-view-recently-closed-title = Recupere abas fechadas num piscar de olhos
 callout-firefox-view-recently-closed-subtitle = Suas abas fechadas aparecem magicamente aqui. Não se preocupe mais com sites fechados acidentalmente.
