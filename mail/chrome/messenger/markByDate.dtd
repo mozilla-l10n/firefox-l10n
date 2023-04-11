@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY messageMarkByDate.label "Maraka Melaetša bjalo ka ge e Balwa go ya ka Tšatšikgwedi">
-<!ENTITY markByDateLower.label "Maraka melaetša bjalo ka ge e balwa go tšwa go:">
-<!ENTITY markByDateLower.accesskey "G">
-<!ENTITY markByDateUpper.label "Go ya go:">
-<!ENTITY markByDateUpper.accesskey "G">
