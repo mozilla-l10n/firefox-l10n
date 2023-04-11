@@ -84,6 +84,8 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Mba’egueruha…
 migration-wizard-progress-icon-completed =
     .aria-label = Opámava
+migration-safari-password-import-header = Emba’egueru Safari ñe’ẽñemi
+migration-safari-password-import-steps-header = Emba’egueru hag̃ua Safari ñe’ẽñemi:
 migration-safari-password-import-skip-button = Jepo
 migration-safari-password-import-select-button = Eiporavo Marandurenda
 # Shown in the migration wizard after importing bookmarks from another
