@@ -86,6 +86,11 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Abgeschlossen
 migration-safari-password-import-header = Passwörter von Safari importieren
+migration-safari-password-import-steps-header = Um Safari-Passwörter zu importieren:
+migration-safari-password-import-step1 = Öffnen Sie in Safari das Menü "Safari" und gehen Sie zu Einstellungen > Passwörter
+migration-safari-password-import-step2 = Wählen Sie die Schaltfläche <img data-l10n-name="safari-icon-3dots"/> und wählen Sie "Alle Passwörter exportieren"
+migration-safari-password-import-step3 = Speichern Sie die Passwortdatei
+migration-safari-password-import-step4 = Wählen Sie unten "Datei auswählen", um die gespeicherte Passwortdatei zu verwenden
 migration-safari-password-import-skip-button = Überspringen
 migration-safari-password-import-select-button = Datei auswählen
 # Shown in the migration wizard after importing bookmarks from another
@@ -120,3 +125,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } Passwort
        *[other] { $quantity } Passwörter
     }
+migration-wizard-safari-permissions-sub-header = Um Safari-Lesezeichen und die Surf-Chronik zu importieren:
+migration-wizard-safari-instructions-continue = Wählen Sie "Fortsetzen"
+migration-wizard-safari-instructions-folder = Wählen Sie in der Liste den Safari-Ordner aus und wählen Sie "Öffnen"
+migration-wizard-safari-select-button = Datei auswählen
