@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Emba’egueru kundahára mba’ekuaarãgui
+migration-wizard-selection-list = Eiporavo mba’ekuaarã egueruséva.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -59,6 +60,7 @@ migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva
 migration-import-button-label = Mba’egueru
 migration-cancel-button-label = Heja
 migration-done-button-label = Apopyre
+migration-wizard-import-browser-no-browsers = { -brand-short-name } ndojuhúi apopyre orekóva mba’ekuaarã techaukaha, tembiasakue térã ñe’ẽñemi rehegua.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

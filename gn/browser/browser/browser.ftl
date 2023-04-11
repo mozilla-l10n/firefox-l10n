@@ -667,9 +667,13 @@ reader-view-close-button =
     .aria-label = Moñe’ẽha jehecha mboty
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Embojopyru Picture-in-Picture
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Embojuruja Picture-in-Picture ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Emboty Picture-in-Picture ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
