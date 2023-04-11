@@ -125,6 +125,17 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } Passwort
        *[other] { $quantity } Passwörter
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Vom letzten Tag an
+       *[other] Von den letzten { $maxAgeInDays } Tagen
+    }
+migration-wizard-progress-success-formdata = Gespeicherte Formulardaten
 migration-wizard-safari-permissions-sub-header = Um Safari-Lesezeichen und die Surf-Chronik zu importieren:
 migration-wizard-safari-instructions-continue = Wählen Sie "Fortsetzen"
 migration-wizard-safari-instructions-folder = Wählen Sie in der Liste den Safari-Ordner aus und wählen Sie "Öffnen"
