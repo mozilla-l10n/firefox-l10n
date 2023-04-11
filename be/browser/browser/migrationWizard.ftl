@@ -86,6 +86,7 @@ migration-wizard-progress-icon-completed =
     .aria-label = Скончана
 migration-safari-password-import-header = Імпартаваць паролі з Safari
 migration-safari-password-import-steps-header = Каб імпартаваць паролі з Safari:
+migration-safari-password-import-step2 = Націсніце кнопку <img data-l10n-name="safari-icon-3dots"/> і абярыце «Экспартаваць усе паролі»
 migration-safari-password-import-step3 = Захавайце файл пароляў
 migration-safari-password-import-skip-button = Прапусціць
 migration-safari-password-import-select-button = Выбраць файл
