@@ -45,7 +45,7 @@ neterror-captive-portal = Tu debe aperir session in iste rete ante que tu pote a
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Intende tu ir a <a data-l10n-name="website">{ $hostAndPath }</a>?
-neterror-dns-not-found-hint-header = <strong>Si tu ha inserite le justo adresse, tu pote:</strong>
+neterror-dns-not-found-hint-header = <strong>Si tu ha inserite le adresse correcte, tu pote:</strong>
 neterror-dns-not-found-hint-try-again = Retenta plus tarde
 neterror-dns-not-found-hint-check-network = Controla tu connexion de rete
 neterror-dns-not-found-hint-firewall = Verifica que { -brand-short-name } ha permission pro acceder al web (tu poterea esser connectite, ma detra un firewall)
@@ -56,7 +56,6 @@ neterror-dns-not-found-hint-firewall = Verifica que { -brand-short-name } ha per
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } non pote proteger tu requesta pro le adresse de iste sito per nostre resolver de DNS digne de fide. Ecce perque:
-neterror-dns-not-found-trr-only-attackers = Si tu continua, un tertie-parte poterea vider que sitos web tu visita o inviar te a un sito non fidabile.
 neterror-dns-not-found-trr-third-party-warning = Tu pote continuar con un resolutor de DNS que non es secur. Comocunque, un tertie-parte poterea vider le sitos web que tu visita.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non poteva connecter se a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Le connexion a { $trrDomain } prendeva plus tempore que expectate.
@@ -70,9 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = Problema inexpectate.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } non pote proteger tu requesta pro le adresse de iste sito per nostre resolver de DNS digne de fide. Ecce perque:
-neterror-dns-not-found-native-fallback-attackers = Tu pote continuar con un resolver de DNS que non es secur. Comocunque, un tertie-parte poterea vider le sitos web que tu visita o inviar te a un sito non fidabile.
 neterror-dns-not-found-native-fallback-heuristic = DNS super HTTPS ha essite disactivate sur tu rete.
-neterror-dns-not-found-native-fallback-not-confirmed = Le connexion a { $trrDomain } non es ancora preste.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } non poteva connecter se a { $trrDomain }.
 
 ##
