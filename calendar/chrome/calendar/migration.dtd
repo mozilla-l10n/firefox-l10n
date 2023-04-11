@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY migration.title "&brandFullName;: தரவு இறக்குமதி செய்யப்படுகிறது">
-<!ENTITY migration.welcome "வரவேற்கிறோம்">
-<!ENTITY migration.importing "இறக்குமதி செய்யப்படுகிறது">
-<!ENTITY migration.list.description "&brandShortName; இனால் பல பிரபல்யமான செயலிகளிலிருந்து தரவுகளை இறக்குமதி செய்யமுடியும். பின்வரும் செயலிகளிலிருந்து பெறப்பட்ட தரவுகள் உங்களுடைய கணனியில் காணப்பட்டன. தயவுசெய்து இவற்றில் எங்கிருந்து தரவுகள் இறக்குமதி செய்யப்பட வேண்டும் என நீங்கள் விரும்புவதைத் தெரிவு செய்க.">
-<!ENTITY migration.progress.description "தெரிவுசெய்யப்பட்ட தரவுகள் இறக்குமதி செய்யப்படுகிறது">
