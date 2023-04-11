@@ -26,6 +26,8 @@ policy-Bookmarks = Lesezeichen erstellen in der Lesezeichen-Symbolleiste, im Les
 policy-CaptivePortal = Erkennung von Anmelde- oder Bestätigungspflicht für Internetzugriff aktivieren oder deaktivieren
 policy-CertificatesDescription = Zertifikate hinzufügen oder eingebaute Zertifikate verwenden
 policy-Cookies = Cookies setzen durch Websites erlauben oder verbieten
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Richtlinien für Umgebungen festlegen
 policy-DisabledCiphers = Chiffren deaktivieren
 policy-DefaultDownloadDirectory = Standardordner für Downloads festlegen
 policy-DisableAppUpdate = Browser-Updates deaktivieren
