@@ -4,6 +4,21 @@
 
 migration-wizard-selection-header = Browserdaten importieren
 migration-wizard-selection-list = Wählen Sie die Daten aus, die Sie importieren möchten.
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -40,6 +55,13 @@ migration-bookmarks-option-label = Lesezeichen
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Passwörter
+migration-history-option-label = Chronik
+migration-form-autofill-option-label = Daten für Formular-Autovervollständigung
+migration-import-button-label = Importieren
+migration-cancel-button-label = Abbrechen
+migration-done-button-label = Fertig
+migration-wizard-import-browser-no-browsers = { -brand-short-name } konnte keine Programme finden, die Lesezeichen-, Chronik- oder Passwortdaten enthalten.
+migration-wizard-import-browser-no-resources = Ein Fehler ist aufgetreten. { -brand-short-name } kann keine Daten aus diesem Browser-Profil zum Importieren finden.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -47,6 +69,20 @@ migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Pass
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = Lesezeichen
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = Favoriten
+migration-list-password-label = Passwörter
+migration-list-history-label = Chronik
+migration-list-autofill-label = Daten für automatisches Ausfüllen
 
 ##
 
+migration-wizard-progress-header = Daten werden importiert
+migration-wizard-progress-done-header = Daten erfolgreich importiert
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importieren…
+migration-wizard-progress-icon-completed =
+    .aria-label = Abgeschlossen
+migration-safari-password-import-header = Passwörter von Safari importieren
