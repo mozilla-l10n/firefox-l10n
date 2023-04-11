@@ -228,6 +228,9 @@ cfr-cbh-dismiss-button = Wakami mani
 
 july-jam-headline = Röj yatqachajij
 july-jam-set-default-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
+fox-doodle-pin-headline = Ütz apetik jumul chik
+fox-doodle-pin-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
+fox-doodle-pin-secondary = Wakami mani
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
