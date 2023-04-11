@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Keresés
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Kiegészítők és témák beszerzése itt: <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Szótárak beszerzése itt: <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Nyelvi csomagok beszerzése itt: <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Nincs ilyen típusú kiegészítője
 list-empty-available-updates =
@@ -24,9 +31,9 @@ list-empty-button =
 help-button = Kiegészítő támogatás
 sidebar-help-button-title =
     .title = Kiegészítő támogatás
-addons-settings-button = { -brand-short-name } Beállítások
+addons-settings-button = { -brand-short-name } beállítások
 sidebar-settings-button-title =
-    .title = { -brand-short-name } Beállítások
+    .title = { -brand-short-name } beállítások
 show-unsigned-extensions-button =
     .label = Néhány kiegészítő nem ellenőrizhető
 show-all-extensions-button =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Oldalengedélyek
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = A(z) { $host } webhelyengedélyei
 
 ## These are global warnings
@@ -224,6 +231,8 @@ shortcuts-duplicate-warning-message = A { $shortcut } gyorsbillentyű több mint
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Már használja: { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Még { $numberToShow } megjelenítése
@@ -303,7 +312,7 @@ theme-colorways-button = Próbálja ki a színvilágokat
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Színvilág módosítása
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Lejárat: { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Engedélyezve
 plugin-disabled-heading = Tiltva
@@ -389,6 +398,8 @@ addon-permissions-optional = A további funkciókhoz szükséges engedélyek:
 addon-permissions-learnmore = További tudnivalók az engedélyekről
 recommended-extensions-heading = Ajánlott kiegészítők
 recommended-themes-heading = Ajánlott témák
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = A következő lehetőségeket biztosítja a(z) <span data-l10n-name="hostname">{ $hostname }</span> számára:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -415,8 +426,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = A(z) { $name } nem kompatibilis ezzel: { -brand-short-name } { $version }.
 details-notification-incompatible-link = További információk
 details-notification-unsigned-and-disabled = { $name } használhatósága nem ellenőrizhető a { -brand-short-name } programban, és le lett tiltva.
