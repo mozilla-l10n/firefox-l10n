@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formulars
 protections-panel-site-not-working-view-issue-list-payments = Pajaments
 protections-panel-site-not-working-view-issue-list-comments = Commentaris
 protections-panel-site-not-working-view-issue-list-videos = Videos
+protections-panel-site-not-working-view-issue-list-fonts = Scrittiras
 protections-panel-site-not-working-view-send-report = Trametter in rapport
 
 ##
