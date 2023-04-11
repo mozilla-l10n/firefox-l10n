@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY windowTitle.label "பெயரிடப்பட்ட தொகுப்பு தன்மைகள்">
-<!ENTITY anchorNameEditField.label "தொகுப்பு பெயர்:">
-<!ENTITY anchorNameEditField.accessKey "">
-<!ENTITY nameInput.tooltip "பெயரிடப்பட்ட தொகுப்பிற்கு தனிப்பட்ட பெயரை தருக (இலக்கு)">
-
