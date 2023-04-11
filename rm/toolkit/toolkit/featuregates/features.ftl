@@ -12,6 +12,7 @@ experimental-features-css-masonry-description = Activescha il sustegn per per la
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Questa nova API porscha in sustegn low-level per calculaziuns e la visualisaziun grafica cun agid da <a data-l10n-name="wikipedia">GPU</a> da l'apparat u dal computer da l'utilisader. La <a data-l10n-name="spec">specificaziun</a> è anc adina en lavur. Vesair <a data-l10n-name="bugzilla">bug 1602129</a> per ulteriurs detagls.
+experimental-features-web-gpu-description3 = La <a data-l10n-name="wikipedia-webgpu">API WebGPU</a> porscha in sustegn low-level per calculaziuns e la visualisaziun grafica cun agid dal <a data-l10n-name="wikipedia-gpu">processur da grafica GPU</a> da l'apparat u dal computer da l'utilisader. L'emprima versiun da la <a data-l10n-name="spec">specificaziun</a> è en la fasa finala. Vesair il <a data-l10n-name="bugzilla">bug 1616739</a> per ulteriurs detagls.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =

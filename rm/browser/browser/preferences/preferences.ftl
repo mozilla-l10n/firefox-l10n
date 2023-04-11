@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Ils suandants elements vegnan actualmain sincronisads:
+sync-syncing-across-devices-heading = Ti sincroniseschas ils suandants elements tranter tut tes apparats connectads:
 sync-currently-syncing-bookmarks = Segnapaginas
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Tabs averts
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = M
     .buttonlabelextra2 = Deconnectar…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Modificaziuns da la glista dad elements da sincronisar vegnan applitgadas a tut ils apparats connectads.
 sync-engine-bookmarks =
     .label = ils segnapaginas
     .accesskey = g
