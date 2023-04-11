@@ -229,28 +229,6 @@ colorways-cfr-header-today = Farebná téma Nezávislé hlasy je dostupná už l
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Bannery k súborom cookie sú preč!
-cfr-cookiebanner-body = Povoliť { -brand-short-name(case: "dat") } automaticky odmietnuť všetky požiadavky na uloženie súborov cookie vždy, keď je to možné.
-cfr-cookiebanner-accept-button-v2 = Odmietnuť žiadosti
-    .accesskey = d
-cfr-cookiebanner-reject-button = Teraz nie
-    .accesskey = T
-cfr-cookiebanner-header-variant-1 = Uvidíte menej vyskakovacích okien súborov cookie
-cfr-cookiebanner-body-variant-1 = Nechajte { -brand-short-name } automaticky odpovedať na žiadosti o súhlas s používaním súborov cookie za vás, aby ste sa mohli vrátiť k prehliadaniu bez rozptyľovania. { -brand-short-name } odmietne všetky požiadavky, kde je to možné.
-cfr-cookiebanner-accept-button-variant-1 = Zavrieť vyskakovacie okná
-    .accesskey = v
-cfr-cookiebanner-reject-button-variant-1 = Nie, ďakujem
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Zníženie počtu bannerov k súborom cookie
-cfr-cookiebanner-body-variant-2 = Znížte počet zobrazených bannerov k súborom cookie tak, že povolíte { -brand-short-name(case: "dat") } odmietnuť žiadosť webovej stránky o súhlas so súbormi cookie, ak je to možné.
-cfr-cookiebanner-accept-button-variant-2 = Povoliť
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Teraz nie
-    .accesskey = T
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Povoliť { -brand-short-name(case: "dat") } odmietnuť bannery k súborom cookie?
 cfr-cbh-body = { -brand-short-name } môže automaticky odmietnuť mnohé požiadavky na povolenie súborov cookie.
 cfr-cbh-confirm-button = Odmietnuť bannery k súborom cookie
@@ -263,6 +241,12 @@ cfr-cbh-dismiss-button = Teraz nie
 july-jam-headline = Kryjeme vás
 july-jam-body = Každý mesiac { -brand-short-name } zablokuje v priemere viac ako 3 000 sledovacích prvkov na používateľa, čo vám poskytuje bezpečný a rýchly prístup k dobrému internetu.
 july-jam-set-default-primary = Otvárať moje odkazy pomocou { -brand-short-name(case: "gen") }
+fox-doodle-pin-headline = Vitajte späť
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Tu je rýchle pripomenutie, že svoj obľúbený nezávislý prehliadač si môžete ponechať jediným kliknutím.
+fox-doodle-pin-primary = Otvárať moje odkazy pomocou { -brand-short-name(case: "gen") }
+fox-doodle-pin-secondary = Teraz nie
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

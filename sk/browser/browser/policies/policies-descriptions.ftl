@@ -26,6 +26,8 @@ policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vy
 policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Nastaví pravidlá súvisiace s kontajnermi.
 policy-DisabledCiphers = Zakáže šifry.
 policy-DefaultDownloadDirectory = Nastaví predvolené umiestnenie pre sťahovanie súborov.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
