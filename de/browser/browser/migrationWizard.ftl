@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Browserdaten importieren
+migration-wizard-selection-list = Wählen Sie die Daten aus, die Sie importieren möchten.
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -26,9 +28,18 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Alle verfügbaren Daten importieren
+migration-no-selected-data-label = Keine Daten für Import ausgewählt
+migration-selected-data-label = Ausgewählte Daten importieren
 
 ##
 
+migration-select-all-option-label = Alles auswählen
+migration-bookmarks-option-label = Lesezeichen
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Favoriten
+migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Passwörter
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
