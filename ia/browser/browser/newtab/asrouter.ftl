@@ -241,7 +241,7 @@ july-jam-set-default-primary = Aperir mi ligamines con { -brand-short-name }
 fox-doodle-pin-headline = Benvenite de novo
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
-fox-doodle-pin-body = Ecce un rapide memento per que tu pote mantener tu favorite navigator independente justo a portata de un clic.
+fox-doodle-pin-body = Ecce un curte rememoration que tu pote mantener tu favorite navigator independente a portata de un sol clic.
 fox-doodle-pin-primary = Aperir mi ligamines con { -brand-short-name }
 fox-doodle-pin-secondary = Non ora
 

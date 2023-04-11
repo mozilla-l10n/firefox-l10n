@@ -59,7 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] Mantener in Dock
        *[other] Clavar al barra de activitates
     }
-about-private-browsing-pin-promo-title = Nulle cookies o chronologia salvate, justo ad tu desktop. Naviga como si nemo te spia.
+about-private-browsing-pin-promo-title = Nulle cookies o chronologia salvate, directemente desde tu scriptorio. Naviga como si nemo te reguarda.
 
 ## Strings used in a promotion message for cookie banner reduction
 

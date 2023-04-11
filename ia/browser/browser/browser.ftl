@@ -162,7 +162,7 @@ urlbar-result-menu-tip-get-help =
 urlbar-search-tips-onboard = Scribe minus, trova plus: cerca con { $engineName } directemente in le barra de adresse.
 urlbar-search-tips-redirect-2 = Comencia tu recerca in le barra de adresse pro vider suggestiones de { $engineName } e de tu chronologia de navigation.
 # Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Cercar justo deveniva plus simple. Prova a facer tu cerca plus specific ci in le barra de adresse. Pro monstrar le URL in vice, visita le quadro Cercar, in parametros.
+urlbar-search-tips-persist = Cercar ha devenite ancora plus simple. Tenta facer tu recerca plus specific ci in le barra de adresse. Pro monstrar le URL in vice, visita le pannello Recerca in le Parametros.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selige iste accesso directe pro trovar lo que tu cerca plus rapidemente.
