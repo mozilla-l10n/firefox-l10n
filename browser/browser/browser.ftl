@@ -671,9 +671,13 @@ reader-view-close-button =
     .aria-label = Zavrieť zobrazenie Čítačka
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Prepnúť režim Obraz v obraze
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Spustiť režim Obraz v obraze ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Ukončiť režim Obraz v obraze ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
