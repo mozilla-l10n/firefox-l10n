@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY options.title "Kicha'oj Taq Kisamajib'al B'anonela'">
-<!ENTITY options.status.label "B'anikil:">
-<!ENTITY options.port.label "B'ey:">
-<!ENTITY options.forcelocal.label "Tiya' q'ij ri okem pa ch'aqa' chik taq kematz'ib'">
