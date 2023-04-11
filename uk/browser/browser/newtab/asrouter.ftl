@@ -240,7 +240,7 @@ cfr-cbh-dismiss-button = Не зараз
 
 july-jam-headline = Ми прикриваємо вас
 july-jam-body = Щомісяця { -brand-short-name } блокує в середньому понад 3000 елементів стеження для одного користувача, надаючи безпечний, швидкий доступ до здорового інтернету.
-july-jam-set-default-primary = Відкривати мої посилання з { -brand-short-name }
+july-jam-set-default-primary = Відкривати посилання в { -brand-short-name }
 fox-doodle-pin-headline = З поверненням
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
