@@ -38,6 +38,9 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Klik og træk for at ændre værdier for størrelse
 options-inspector-draggable-properties-tooltip =
     .title = Klik og træk for at ændre værdier for størrelse i inspektørens regelvisning.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Brug mere enkel markering med prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
     .title = Aktiverer forenklet markering, når prefers-reduced-motion er aktiveret. Tegner linjer i stedet for fyldte rektangler rundt om markerede elementer for at undgå blinkende effekter.
 
