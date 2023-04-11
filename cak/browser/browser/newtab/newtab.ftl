@@ -219,6 +219,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Uy! B'ama nisamajïx re 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Nima'q taq Na'oj:
+newtab-pocket-new-topics-title = ¿La ye'awajo' ch'aqa' chik natab'äl? Ke'atz'eta' re taq ruwachinel { -pocket-brand-name }
 newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
 newtab-pocket-learn-more = Tetamäx ch'aqa' chik
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
