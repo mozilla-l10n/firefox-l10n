@@ -1231,6 +1231,36 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Να μην ενεργοποιηθεί η λειτουργία «Μόνο HTTPS»
 
+## DoH Section
+
+preferences-doh-header = DNS over HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Κατάσταση: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Πάροχος: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Μη έγκυρο URL
+preferences-doh-steering-status = Χρήση τοπικού παρόχου
+preferences-doh-status-active = Ενεργό
+preferences-doh-status-disabled = Ανενεργό
+preferences-doh-expand-section =
+    .tooltiptext = Περισσότερες πληροφορίες
+preferences-doh-setting-default =
+    .label = Προεπιλεγμένη προστασία
+    .accesskey = Π
+preferences-doh-setting-enabled =
+    .label = Αυξημένη προστασία
+    .accesskey = Α
+preferences-doh-setting-strict =
+    .label = Μέγιστη προστασία
+    .accesskey = Μ
+preferences-doh-manage-exceptions =
+    .label = Διαχείριση εξαιρέσεων…
+    .accesskey = χ
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Επιφάνεια εργασίας
