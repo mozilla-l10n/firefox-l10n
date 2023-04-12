@@ -2,22 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Tooltips
 
+
 ## Column headers
+
 
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
+
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }، کارگر شبکه)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }، میان‌خاستگاه منزوی شده است)
+about-processes-web-isolated-process-private = { $origin } — خصوصی ({ $pid })
+about-processes-with-coop-coep-process-private = { $origin } — خصوصی ({ $pid }، میان‌خاستگاه منزوی شده است)
+
 ## Details within processes
 
+
 ## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -27,6 +39,7 @@
 ##                    its start.
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
+
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -39,7 +52,9 @@
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+
 ## Duration units
+
 
 ## Memory units
 

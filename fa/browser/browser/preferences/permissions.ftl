@@ -109,7 +109,7 @@ permissions-exceptions-popup-window =
 permissions-exceptions-popup-window2 =
     .title = سایت‌های مجاز ‐ پنجره‌های بازشو
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها مجازند پنجره‌های بازشو ایجاد کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
+permissions-exceptions-popup-desc = شما می‌توانید مشخص کنید که کدام وبگاه‌ها مجازند پنجره‌های بازشو ایجاد کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
 
 ## Exceptions - Saved Logins
 
@@ -129,7 +129,7 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-window2 =
     .title = سایت‌های مجاز ‐ نصب افزودنی‌ها
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها مجازند افزودنی‌هایی نصب کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
+permissions-exceptions-addons-desc = شما می‌توانید مشخص کنید که کدام وبگاه‌ها مجازند افزودنی‌هایی نصب کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
 
 ## Site Permissions - Autoplay
 
