@@ -218,3 +218,7 @@ permissions-site-speaker-window =
     .title = Configurações - Permissões de saídas de áudio
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Os seguintes sites solicitaram poder selecionar um dispositivo de saída de áudio. Você pode especificar quais sites têm permissão para selecionar um dispositivo de saída de áudio.
+permissions-exceptions-doh-window =
+    .title = Exceções de sites para DNS sobre HTTPS
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = O { -brand-short-name } não usará DNS seguro nesses sites e seus subdomínios.
