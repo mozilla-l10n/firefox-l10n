@@ -23,13 +23,12 @@ reset-password-button-label =
 download-cert-window =
     .title = در حال بارگیری گواهی
     .style = width: 46em
-
 download-cert-window2 =
     .title = در حال بارگیری گواهی
     .style = min-width: 46em
 download-cert-message = از شما تقاضا شده به یک مرجع صدور گواهی جدید اعتماد کنید.
 download-cert-trust-ssl =
-    .label = برای تشخیص هویت وب‌گاه‌ها به این مرجع صدور گواهی اعتماد شود.
+    .label = برای تشخیص هویت وبگاه‌ها به این مرجع صدور گواهی اعتماد شود.
 download-cert-trust-email =
     .label = برای تشخیص هویت کاربران پست الکترونیکی به این مرجع صدور گواهی اعتماد شود.
 download-cert-message-desc = پیش از آن که برای هر منظوری به این مرجع صدور گواهی اعتماد کنید، باید گواهی و سیاست و رویه‌های آن را (در صورت وجود) بررسی کنید.
@@ -41,7 +40,7 @@ download-cert-view-text = بررسی گواهی مرجع صدور
 
 client-auth-window =
     .title = درخواست تشخیص هویت کاربر
-client-auth-site-description = این وب‌گاه درخواست کرده شما خود را با ارائهٔ یک گواهی معرفی کنید:
+client-auth-site-description = این پایگاه درخواست کرده شما خود را با ارائهٔ یک گواهی معرفی کنید:
 client-auth-choose-cert = یک گواهی به عنوان مدرک شناسایی انتخاب کنید:
 client-auth-cert-details = جزئیات گواهی انتخاب شده:
 
@@ -62,3 +61,6 @@ protected-auth-window =
     .title = تصدیق هویت توسط نشانهٔ حفاظت شده
 protected-auth-msg = لطفأ در برابر این نشانه هویت خود را تصدیق کنید. روش تصدیق هویت به نوع نشانه‌تان بستگی دارد.
 protected-auth-token = نشانه:
+
+## Protected authentication alert
+
