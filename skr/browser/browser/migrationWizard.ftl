@@ -43,6 +43,7 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = سارا دستیاب ڈیٹا امپورٹ کرو
+migration-no-selected-data-label = امپورٹ کرݨ کیتے کوئی ڈیٹا کائنی چُݨیا
 migration-selected-data-label = چݨیا ہویا ڈیٹا امپورٹ کرو
 
 ##
@@ -70,10 +71,12 @@ migration-list-autofill-label = آٹوفل ڈیٹا
 ##
 
 migration-wizard-progress-header = ڈیٹا امپورٹ کرݨ
+migration-wizard-progress-done-header = ڈیٹا کامیابی نال امپورٹ تھی آیا
 migration-wizard-progress-icon-in-progress =
     .aria-label = درآمد تھیندی پئی اے …
 migration-wizard-progress-icon-completed =
     .aria-label = مکمل تھی ڳیا
+migration-safari-password-import-step3 = پاس ورڈز فائل محفوظ کرو
 migration-safari-password-import-skip-button = چھوڑو
 migration-safari-password-import-select-button = فائل چݨو
 # Shown in the migration wizard after importing bookmarks from another
