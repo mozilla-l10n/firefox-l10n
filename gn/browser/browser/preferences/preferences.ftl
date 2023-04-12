@@ -1227,6 +1227,19 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ani embojuruja HTTPS año ayvu
 
+## DoH Section
+
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL ndoikóiva
+preferences-doh-status-active = Myandy
+preferences-doh-status-disabled = Mboguepyre
+preferences-doh-expand-section =
+    .tooltiptext = Maranduve
+preferences-doh-setting-off =
+    .label = Mboguepyre
+    .accesskey = O
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Mba’erechaha

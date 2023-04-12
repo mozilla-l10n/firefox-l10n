@@ -86,6 +86,7 @@ migration-wizard-progress-icon-completed =
     .aria-label = Opámava
 migration-safari-password-import-header = Emba’egueru Safari ñe’ẽñemi
 migration-safari-password-import-steps-header = Emba’egueru hag̃ua Safari ñe’ẽñemi:
+migration-safari-password-import-step3 = Eñongatu ñe’ẽñemi marandurenda
 migration-safari-password-import-skip-button = Jepo
 migration-safari-password-import-select-button = Eiporavo Marandurenda
 # Shown in the migration wizard after importing bookmarks from another
@@ -121,4 +122,5 @@ migration-wizard-progress-success-passwords =
        *[other] { $quantity } ñe’ẽñemi
     }
 migration-wizard-progress-success-formdata = Myanyhẽha rembiasakue
+migration-wizard-safari-instructions-continue = Eiporavo “Ku’ejey”
 migration-wizard-safari-select-button = Eiporavo Marandurenda

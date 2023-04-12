@@ -225,28 +225,6 @@ colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojepuruku
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = ¡Opáma kookie marandu’i!
-cfr-cookiebanner-body = Emoneĩ { -brand-short-name } omboyke hag̃ua ijehegui opaite kookie mba’ejerure ikatu jave.
-cfr-cookiebanner-accept-button-v2 = Emondojey mba’ejerure
-    .accesskey = E
-cfr-cookiebanner-reject-button = Ani ko’ág̃a
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Ehecha’ive kookie ovetã iñapysẽva
-cfr-cookiebanner-body-variant-1 = Eheja { -brand-short-name } tombohovái ijehegui umi kookie rovetã iñapysẽva ikatu hag̃uáicha eikundaha apañuãi’ỹre. { -brand-short-name } omboykéta opaite mba’ejerure ikatúramo.
-cfr-cookiebanner-accept-button-variant-1 = Emboyke iñapysẽva
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = Nahániri, aguyje
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Kookie Marandu’i Ñemomichĩ
-cfr-cookiebanner-body-variant-2 = Emomichĩ umi kookie maranduñemurã ehecháva emoneĩvo { -brand-short-name } tomboyke kookie mba’ejerure peteĩ ñanduti rendápe, ikatúramo.
-cfr-cookiebanner-accept-button-variant-2 = Moneĩ
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-2 = Ani ko’ág̃a
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = ¿Emoneĩ { -brand-short-name } tomboyke kookie banner?
 cfr-cbh-body = { -brand-short-name } omboykekuaa ijehegui heta kookie banner mba’ejerure.
 cfr-cbh-confirm-button = Embojevy kookie banner
@@ -259,6 +237,8 @@ cfr-cbh-dismiss-button = Ani ko’ág̃a
 july-jam-headline = Roguereko ñemo’ãpe
 july-jam-body = Peteĩteĩva jasýpe, { -brand-short-name } ojoko hetave 3,000 tapykuehoha puruháragui, ome’ẽva jeike pya’e ha tekorosã Ñandutípe.
 july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
+fox-doodle-pin-headline = Eg̃uahẽporãjey
+fox-doodle-pin-secondary = Ani ko’ág̃a
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
