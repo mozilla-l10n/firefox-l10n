@@ -1250,6 +1250,21 @@ preferences-doh-resolver = Правайдар: { $name }
 preferences-doh-bad-url = Несапраўдны URL
 preferences-doh-steering-status = З дапамогай мясцовага правайдара
 preferences-doh-status-active = Дзейны
+preferences-doh-status-disabled = Адключаны
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Неактыўны ({ $reason })
+preferences-doh-group-message = Уключыць бяспечны DNS з дапамогай:
+preferences-doh-expand-section =
+    .tooltiptext = Дадатковая інфармацыя
+preferences-doh-setting-default =
+    .label = Прадвызначаная ахова
+    .accesskey = в
+preferences-doh-default-desc = { -brand-short-name } вырашае, калі выкарыстоўваць бяспечны DNS для абароны вашай прыватнасці.
+preferences-doh-default-detailed-desc-1 = Выкарыстоўваць бяспечны DNS у рэгіёнах, дзе ён даступны
+preferences-doh-default-detailed-desc-2 = Калі ёсць праблема з бяспечным пастаўшчыком DNS, выкарыстоўваць стандартны правайдар DNS
+preferences-doh-default-detailed-desc-3 = Карыстацца мясцовым правайдарам, калі гэта магчыма
+preferences-doh-default-detailed-desc-4 = Адключаць, калі актыўныя палітыкі VPN, бацькоўскі кантроль або карпаратыўныя палітыкі
 
 ## The following strings are used in the Download section of settings
 
