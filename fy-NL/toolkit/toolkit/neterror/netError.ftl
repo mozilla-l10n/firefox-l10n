@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = Kontrolearje oft { -brand-short-name } ta
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús fertroude DNS-resolver. Dit is de reden:
-neterror-dns-not-found-trr-only-attackers = As jo trochgean, kin in tredde partij mooglik sjen hokker websites jo besykje of jo nei in net-fertroude website stjoere.
 neterror-dns-not-found-trr-third-party-warning = Jo kinne trochgean mei in DNS-resolver dy’t net feilich is. In tredde partij kin lykwols mooglik sjen hokker websites jo besykje
+neterror-dns-not-found-trr-third-party-warning2 = Jo kinne trochgean mei jo standert DNS-resolver, in tredde partij kin lykwols mooglik sjen hokker websites jo besykje
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } koe gjin ferbining meitsje mei { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = De ferbining mei { $trrDomain } duorre langer as ferwachte.
 neterror-dns-not-found-trr-offline = Jo binne net ferbûn mei it ynternet.
 neterror-dns-not-found-trr-unknown-host = Der is gjin adres foar dizze website fûn troch { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = Dizze website is net fûn troch { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Der is in probleem mei { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Unferwachte probleem.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Unferwachte probleem.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús fertroude DNS-resolver. Dit is de reden:
-neterror-dns-not-found-native-fallback-attackers = Jo kinne trochgean mei in DNS-resolver dy’t net feilich is. In tredde partij kin lykwols mooglik sjen hokker websites jo besykje of jo nei in net-fertroude side stjoere.
 neterror-dns-not-found-native-fallback-heuristic = DNS oer HTTPS is útskeakele op jo netwurk.
-neterror-dns-not-found-native-fallback-not-confirmed = De ferbining mei { $trrDomain } is noch net klear.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } koe gjin ferbining meitsje mei { $trrDomain }.
 
 ##

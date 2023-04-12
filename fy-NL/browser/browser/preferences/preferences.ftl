@@ -1276,6 +1276,7 @@ preferences-doh-setting-strict =
 preferences-doh-strict-desc = { -brand-short-name } brûkt altyd befeilige DNS. Jo sjogge in befeiligingswarskôging eardat wy de DNS fan jo systeem brûke.
 preferences-doh-strict-detailed-desc-1 = Allinnich de troch jo selektearre provider brûke
 preferences-doh-strict-detailed-desc-2 = Altyd warskôgje as befeilige DNS net beskikber is
+preferences-doh-strict-detailed-desc-3 = Wannear’t befeilige DNS net beskikber is, sille websites net laden of goed funksjonearje
 preferences-doh-setting-off =
     .label = Ut
     .accesskey = U
@@ -1284,6 +1285,10 @@ preferences-doh-checkbox-warn =
     .label = Warskôgje as in tredde partij befeilige DNS aktyf foarkomt
     .accesskey = t
 preferences-doh-select-resolver = Kies provider:
+preferences-doh-exceptions-description = { -brand-short-name } sil gjin befeilige DNS op dizze websites brûke
+preferences-doh-manage-exceptions =
+    .label = Utsûndering beheare…
+    .accesskey = s
 
 ## The following strings are used in the Download section of settings
 
