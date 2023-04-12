@@ -123,3 +123,17 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } hesła
        *[other] { $quantity } hesłow
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Z poslednjeho { $maxAgeInDays } dnja
+        [two] Z poslednjeju { $maxAgeInDays } dnjow
+        [few] Z poslednich { $maxAgeInDays } dnjow
+       *[other] Z poslednich { $maxAgeInDays } dnjow
+    }
+migration-wizard-progress-success-formdata = Formularna historija
+migration-wizard-safari-select-button = Dataju wubrać

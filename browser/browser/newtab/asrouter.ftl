@@ -232,25 +232,6 @@ colorways-cfr-header-today = Barbowe kombinacije „Njewotwisne hłosy“ dźens
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Preč z plackowymi chorhojemi!
-cfr-cookiebanner-body = { -brand-short-name } dowolić, wšě naprašowanja za plackowymi chorhojemi wotpokazać, jeli trjeba.
-cfr-cookiebanner-accept-button-v2 = Naprašowanja wotpokazać
-    .accesskey = N
-cfr-cookiebanner-reject-button = Nic nětko
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Mjenje plackowych wuskakowacych woknow widźeć
-cfr-cookiebanner-body-variant-1 = Dajće { -brand-short-name } za was awtomatisce na plackowewuskakowace wokna wotmołwić. zo byšće so k přehladowanju bjez wotwjedźenja wróćił. { -brand-short-name } wšě naprašowanja wotpokaza, jeli móžno.
-cfr-cookiebanner-accept-button-variant-1 = Wuskakowace wokna zaćisnyć
-    .accesskey = k
-cfr-cookiebanner-reject-button-variant-1 = Ně, dźakuju so
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Redukowanje plackowych chorhojow
-cfr-cookiebanner-body-variant-2 = Redukujće ličbu plackowych chorhojow, kotrež widźiće, hdyž { -brand-short-name } dowoleće, naprašowanje websydła za plackowym přizwolenjom wotpokazać, jeli trjeba.
-cfr-cookiebanner-accept-button-variant-2 = Dowolić
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-2 = Nic nětko
-    .accesskey = N
 cfr-cbh-header = { -brand-short-name } dowolić plackowe chorhoje wotpokazać?
 cfr-cbh-body = { -brand-short-name } móže awtomatisce wjele naprašowanjow plackowych chorhojow wotpokazać.
 cfr-cbh-confirm-button = Plackowe chorhoje wotpokazać
@@ -263,6 +244,9 @@ cfr-cbh-dismiss-button = Nic nětko
 july-jam-headline = Smy was zapřijeli
 july-jam-body = Kóždy měsac { -brand-short-name } w přerězku wjace hač 3000 přesćěhowakow na wužiwarja blokuje a dawa wam wěst, spěšny přistup k dobremu internetej.
 july-jam-set-default-primary = Moje wotkazy z { -brand-short-name } wočinić
+fox-doodle-pin-headline = Witajće wróćo
+fox-doodle-pin-primary = Moje wotkazy z { -brand-short-name } wočinić
+fox-doodle-pin-secondary = Nic nětko
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
