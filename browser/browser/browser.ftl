@@ -675,9 +675,6 @@ reader-view-close-button =
 
 ## Picture-in-Picture urlbar button
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Attiva/disattiva Picture-in-Picture
-
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Apri Picture-in-Picture ({ $shortcut })
 
