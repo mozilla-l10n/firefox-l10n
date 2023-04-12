@@ -78,5 +78,37 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-step3 = Sekles afaylu n wawalen uffiren
 migration-safari-password-import-skip-button = Suref
 migration-safari-password-import-select-button = Fren afaylu
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } tecreḍt n yisebtar
+       *[other] { $quantity } tecraḍ n yisebtar
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } usmenyif
+       *[other] { $quantity } yismenyifen
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } wawal ufiir
+       *[other] { $quantity } wawalen uffiren
+    }
 migration-wizard-safari-instructions-continue = Fren “Kemmel”
 migration-wizard-safari-select-button = Fren afaylu
