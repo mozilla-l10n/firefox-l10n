@@ -32,6 +32,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } ການທົດລອງ
 pane-experimental-subtitle = ດໍາເນີນການດ້ວຍຄວາມລະມັດລະວັງ
 pane-experimental-search-results-header = { -brand-short-name } ການທົດລອງ: ດໍາເນີນການດ້ວຍຄວາມລະມັດລະວັງ
+pane-experimental-description2 = ການປ່ຽນການຕັ້ງຄ່າຂັ້ນສູງສາມາດສົ່ງຜົນກະທົບຕໍ່ປະສິດທິພາບ ຫຼື ຄວາມປອດໄພຂອງ { -brand-short-name }.
 help-button-label = ການສະຫນັບສະຫນູນ { -brand-short-name }
 addons-button-label = ສ່ວນເສີມ ແລະ ຊຸກຕົກແຕ່ງ
 focus-search =
@@ -135,6 +136,9 @@ containers-disable-alert-ok-button = ປິດ { $tabCount } ແຖບບັນ�
 
 containers-disable-alert-cancel-button = ເປີດໃຊ້ງານຕໍ່ໄປ
 containers-remove-alert-title = ເອົາການແຍກຂໍ້ມູນນີ້ອອກ?
+# Variables:
+#   $count (number) - Number of tabs that will be closed.
+containers-remove-alert-msg = ຖ້າທ່ານເອົາ Container ນີ້ອອກດຽວນີ້, ແຖບບັນຈຸ { $count } ຈະຖືກປິດ. ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການເອົາ Container ນີ້ອອກ?
 containers-remove-ok-button = ເອົາຕູ້ຄອນເທນເນີນີ້ອອກ
 containers-remove-cancel-button = ຢ່າເອົາ Container ນີ້ອອກ
 
@@ -308,6 +312,12 @@ applications-use-os-default-label =
 ##
 
 applications-handle-new-file-types-description = { -brand-short-name } ຄວນເຮັດຫຍັງກັບໄຟລ໌ອື່ນ?
+applications-save-for-new-types =
+    .label = ບັນທຶກໄຟລ໌
+    .accesskey = S
+applications-ask-before-handling =
+    .label = ຖາມວ່າຈະເປີດ ຫຼື ບັນທຶກໄຟລ໌
+    .accesskey = A
 drm-content-header = ເນື້ອຫາການຄຸ້ມຄອງສິດທິດິຈິຕອນ (DRM).
 play-drm-content-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 update-application-title = ອັບເດດ { -brand-short-name }
@@ -741,6 +751,7 @@ sitedata-total-size-calculating = ກຳລັງຄຳນວນຂໍ້ມູ�
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ຄຸກກີ້, ຂໍ້ມູນເວັບໄຊ ແລະແຄຊທີ່ຖືກຈັດເກັບໄວ້ຂອງທ່ານໃຊ້ພື້ນທີ່ດິສກ໌ { $value } { $unit }.
 sitedata-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+sitedata-delete-on-close-private-browsing = ໃນໂໝດການທ່ອງເວັບແບບສ່ວນຕົວແບບຖາວອນ, ຄຸກກີ້ ແລະຂໍ້ມູນເວັບໄຊຈະຖືກລຶບລ້າງສະເໝີເມື່ອ { -brand-short-name } ປິດ.
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ປະເພດທີ່ຖືກປິດກັ້ນ
@@ -787,6 +798,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ແທັບທີ່ເປີດຢູ່
     .accesskey = ປ
+addressbar-suggestions-settings = ປ່ຽນການຕັ້ງຄ່າສຳລັບຄຳແນະນຳເຄື່ອງມືການຊອກຫາ
 addressbar-quickactions-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Content Blocking
@@ -809,6 +821,7 @@ enhanced-tracking-protection-setting-strict =
 
 ##
 
+content-blocking-etp-standard-desc = ດຸ່ນດ່ຽງສໍາລັບການປົກປ້ອງແລະການປະຕິບັດ. ໜ້າຕ່າງໆຈະໂຫຼດຕາມປົກກະຕິ.
 content-blocking-etp-strict-desc = ການປົກປ້ອງທີ່ເຂັ້ມແຂງ, ແຕ່ອາດຈະເຮັດໃຫ້ບາງເວັບໄຊທ໌ຫຼືເນື້ອຫາທໍາລາຍ.
 content-blocking-etp-custom-desc = ເລືອກຕົວຕິດຕາມ ແລະ ສະຄິບທີ່ຈະບັອກ.
 content-blocking-etp-blocking-desc = { -brand-short-name } ບລັອກສິ່ງຕໍ່ໄປນີ້:
@@ -936,6 +949,7 @@ certs-devices =
     .label = ອຸປະກອນຄວາມປອດໄພ…
     .accesskey = D
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } ກຳລັງຈະໝົດພື້ນທີ່ດິສກ໌.</strong> ເນື້ອຫາເວັບໄຊທ໌ອາດຈະບໍ່ສະແດງຢ່າງຖືກຕ້ອງ. ທ່ານ​ສາ​ມາດ​ລຶບ​ຂໍ້​ມູນ​ທີ່​ເກັບ​ໄວ້​ໄດ້​ໃນ​ການ​ຕັ້ງ​ຄ່າ > ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ & ຄວາມ​ປອດ​ໄພ​> Cookies ແລະ​ຂໍ້​ມູນ​ເວັບ​ໄຊ.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ກຳລັງຈະໝົດພື້ນທີ່ດິສກ໌.</strong> ເນື້ອຫາເວັບໄຊທ໌ອາດຈະບໍ່ສະແດງຢ່າງຖືກຕ້ອງ. ເຂົ້າໄປທີ່ “ສຶກສາເພີ່ມເຕີມ” ເພື່ອປັບແຕ່ງການນຳໃຊ້ດິສກ໌ຂອງທ່ານເພື່ອປະສົບການການຊອກຫາທີ່ດີຂຶ້ນ.
 
 ## Privacy Section - HTTPS-Only
 
@@ -948,6 +962,35 @@ httpsonly-radio-enabled-pbm =
     .label = ເປີດໃຊ້ HTTPS-Only Mode ໃນປ່ອງຢ້ຽມສ່ວນຕົວເທົ່ານັ້ນ
 httpsonly-radio-disabled =
     .label = ຢ່າເປີດໃຊ້ໂໝດ HTTPS ເທົ່ານັ້ນ
+
+## DoH Section
+
+preferences-doh-header = DNS ຜ່ານ HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = ສະຖານະ: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = ຜູ້ໃຫ້ບໍລິການ: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL ບໍ່ຖືກຕ້ອງ
+preferences-doh-steering-status = ໃຊ້ຜູ້ໃຫ້ບໍລິການທ້ອງຖິ່ນ
+preferences-doh-status-active = ​ເປີດໃຊ້ງານ
+preferences-doh-status-disabled = ປິດ
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = ບໍ່ເຄື່ອນໄຫວ ({ $reason })
+preferences-doh-group-message = ເປີດໃຊ້ DNS ປອດໄພໂດຍໃຊ້:
+preferences-doh-expand-section =
+    .tooltiptext = ຂໍ້ມູນເພີ່ມເຕີມ
+preferences-doh-setting-default =
+    .label = ການປົກປ້ອງເລີ່ມຕົ້ນ
+    .accesskey = D
+preferences-doh-default-desc = { -brand-short-name } ຕັດສິນໃຈວ່າເວລາໃດຈະໃຊ້ DNS ທີ່ປອດໄພເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.
+preferences-doh-default-detailed-desc-1 = ໃຊ້ DNS ທີ່ປອດໄພໃນພາກພື້ນທີ່ມັນມີໃຫ້
+preferences-doh-default-detailed-desc-2 = ໃຊ້ຕົວແກ້ໄຂ DNS ເລີ່ມຕົ້ນຂອງທ່ານຖ້າມີບັນຫາກັບຜູ້ໃຫ້ບໍລິການ DNS ທີ່ປອດໄພ
+preferences-doh-default-detailed-desc-3 = ໃຊ້ຜູ້ໃຫ້ບໍລິການທ້ອງຖິ່ນ, ຖ້າເປັນໄປໄດ້
 
 ## The following strings are used in the Download section of settings
 
