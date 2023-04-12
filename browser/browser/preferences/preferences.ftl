@@ -1258,6 +1258,32 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Standert beskerming
     .accesskey = S
+preferences-doh-default-desc = { -brand-short-name } bepaalt wannear’t befeilige DNS brûkt wurde moat om jo privacy te beskermjen.
+preferences-doh-default-detailed-desc-1 = Befeilige DNS brûke yn regio’s wêr’t dit beskikber is
+preferences-doh-default-detailed-desc-2 = Jo standert DNS-resolver brûke as der in probleem is mei de befeilige-DNS-provider
+preferences-doh-default-detailed-desc-3 = Wannear mooglik lokale provider brûke
+preferences-doh-default-detailed-desc-4 = Utskeakelje as VPN, âlderlik tafersjoch of bedriuwsbelied aktyf binne
+preferences-doh-default-detailed-desc-5 = Utskeakelje as in netwurk { -brand-short-name } fertelt gjin befeilige DNS te brûken
+preferences-doh-setting-enabled =
+    .label = Ferhege beskerming
+    .accesskey = h
+preferences-doh-enabled-desc = Jo bepale wannear’t befeilige DNS brûkt wurdt en kieze jo provider.
+preferences-doh-enabled-detailed-desc-1 = De provider dy’t jo selektearje brûke
+preferences-doh-enabled-detailed-desc-2 = Allinnich jo standert DNS-resolver brûke as der in probleem mei befeilige DNS is
+preferences-doh-setting-strict =
+    .label = Maks. beskerming
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } brûkt altyd befeilige DNS. Jo sjogge in befeiligingswarskôging eardat wy de DNS fan jo systeem brûke.
+preferences-doh-strict-detailed-desc-1 = Allinnich de troch jo selektearre provider brûke
+preferences-doh-strict-detailed-desc-2 = Altyd warskôgje as befeilige DNS net beskikber is
+preferences-doh-setting-off =
+    .label = Ut
+    .accesskey = U
+preferences-doh-off-desc = Brûk jo standert DNS-resolver
+preferences-doh-checkbox-warn =
+    .label = Warskôgje as in tredde partij befeilige DNS aktyf foarkomt
+    .accesskey = t
+preferences-doh-select-resolver = Kies provider:
 
 ## The following strings are used in the Download section of settings
 
