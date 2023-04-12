@@ -1215,6 +1215,10 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = HTTPS 전용 모드 사용 안 함
 
+## DoH Section
+
+preferences-doh-header = DNS over HTTPS (HTTPS를 통한 DNS)
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = 바탕 화면
