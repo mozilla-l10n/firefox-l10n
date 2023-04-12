@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name }에 웹 액세스 �
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 확인자를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
-neterror-dns-not-found-trr-only-attackers = 계속 진행하면, 제3자가 사용자가 방문하는 웹 사이트를 보거나 신뢰할 수 없는 사이트로 사용자를 보낼 수 있습니다.
 neterror-dns-not-found-trr-third-party-warning = 안전하지 않은 DNS 확인자를 사용하여 계속할 수 있습니다. 그러나 제3자가 사용자가 방문하는 웹사이트를 볼 수 있습니다.
+neterror-dns-not-found-trr-third-party-warning2 = 기본 DNS 확인자로 계속 사용할 수 있습니다. 그러나 제3자는 사용자가 방문하는 웹 사이트를 볼 수 있습니다.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }가 { $trrDomain }에 연결할 수 없습니다.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain }에 대한 연결이 예상보다 오래 걸렸습니다.
 neterror-dns-not-found-trr-offline = 인터넷에 연결되어 있지 않습니다.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } 사이트가 이 웹사이트의 주소를 찾지 못했습니다.
+neterror-dns-not-found-trr-unknown-host2 = { $trrDomain }이(가) 이 웹 사이트를 찾지 못했습니다.
 neterror-dns-not-found-trr-server-problem = { $trrDomain }에 문제가 있습니다.
 neterror-dns-not-found-trr-unknown-problem = 예기치 않은 문제.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = 예기치 않은 문제.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 확인자를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
-neterror-dns-not-found-native-fallback-attackers = 안전하지 않은 DNS 확인자를 사용하여 계속할 수 있습니다. 그러나 제3자가 사용자가 방문하는 웹사이트를 보거나 신뢰할 수 없는 사이트로 사용자를 보낼 수 있습니다.
 neterror-dns-not-found-native-fallback-heuristic = 네트워크에서 DNS over HTTP (HTTPS를 통한 DNS)가 비활성화되었습니다.
-neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain }에 대한 연결이 아직 준비되지 않았습니다.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }가 { $trrDomain }에 연결할 수 없습니다.
 
 ##
