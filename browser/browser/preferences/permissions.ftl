@@ -220,6 +220,7 @@ permissions-site-speaker-window =
 permissions-exceptions-doh-window =
     .title = Websydłowe wuwzaća za DNS over HTTPS
     .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } njebudźe wěsty DNS na tutych sydłach a jich poddomenach wužiwać.
 permissions-doh-entry-field = Zapodajće domenowe mjeno websydła
     .accesskey = d
 permissions-doh-add-exception =

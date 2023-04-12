@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Daty wobhladowaka importować
+migration-wizard-selection-list = Wubjerće daty, kotrež chceće importować.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -42,6 +43,8 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Wšě daty importować, kotrež su k dispoziciji.
+migration-no-selected-data-label = Žane daty za import wubrane
 migration-selected-data-label = Wubrane daty importować
 
 ##
@@ -136,4 +139,6 @@ migration-wizard-progress-success-history =
        *[other] Z poslednich { $maxAgeInDays } dnjow
     }
 migration-wizard-progress-success-formdata = Formularna historija
+migration-wizard-safari-instructions-continue = Wubjerće „Pokročować“
+migration-wizard-safari-instructions-folder = Wubjerće rjadowak Safari w lisćinje a potom „Wočinić“
 migration-wizard-safari-select-button = Dataju wubrać

@@ -675,9 +675,13 @@ reader-view-close-button =
     .aria-label = Čitanski napohlad začinić
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Wobraz-we-wobrazu přepinać
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Wobraz we wobrazu wočinić ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Wobraz we wobrazu začinić ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
