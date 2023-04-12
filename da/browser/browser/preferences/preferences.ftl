@@ -1249,6 +1249,9 @@ preferences-doh-resolver = Udbyder: { $name }
 preferences-doh-bad-url = Ugyldig URL
 preferences-doh-status-active = Aktiv
 preferences-doh-status-disabled = Fra
+preferences-doh-manage-exceptions =
+    .label = Håndter undtagelser…
+    .accesskey = u
 
 ## The following strings are used in the Download section of settings
 
