@@ -1215,6 +1215,49 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = 不開啟純 HTTPS 模式
 
+## DoH Section
+
+preferences-doh-header = DNS over HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = 狀態: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = 提供者: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = 網址無效
+preferences-doh-steering-status = 使用本機提供者
+preferences-doh-status-active = 啟用
+preferences-doh-status-disabled = 關閉
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = 未啟用（{ $reason }）
+preferences-doh-group-message = 使用下列方式開啟安全 DNS 功能:
+preferences-doh-expand-section =
+    .tooltiptext = 更多資訊
+preferences-doh-setting-default =
+    .label = 預設保護
+    .accesskey = D
+preferences-doh-default-desc = { -brand-short-name } 會為您覺得什麼時候要使用安全的 DNS 來保護您的隱私。
+preferences-doh-default-detailed-desc-1 = 在可用安全 DNS 的地區就使用
+preferences-doh-default-detailed-desc-2 = 若無法使用安全的 DNS 提供者，就使用您的預設 DNS 解析器。
+preferences-doh-default-detailed-desc-3 = 盡可能使用本機提供者
+preferences-doh-default-detailed-desc-4 = 當 VPN、家長監護設定或企業政策生效時就關閉
+preferences-doh-default-detailed-desc-5 = 當網路裝置告訴 { -brand-short-name } 不該使用安全 DNS 時就關閉
+preferences-doh-setting-enabled =
+    .label = 加強保護
+    .accesskey = I
+preferences-doh-enabled-desc = 由您自行決定何時。與使用哪個提供者的安全 DNS。
+preferences-doh-enabled-detailed-desc-1 = 使用您選擇的提供者
+preferences-doh-enabled-detailed-desc-2 = 只在無法使用安全的 DNS 提供者時，使用您的預設 DNS 解析器。
+preferences-doh-setting-strict =
+    .label = 最大保護
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } 總是會使用安全 DNS。若我們需要使用系統 DNS 時，您會看到安全性警告。
+preferences-doh-strict-detailed-desc-1 = 只使用您選擇的提供者
+preferences-doh-strict-detailed-desc-2 = 安全 DNS 無法使用時總是警告我
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = 桌面
