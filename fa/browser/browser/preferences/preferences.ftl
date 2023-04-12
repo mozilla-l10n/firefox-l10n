@@ -867,7 +867,7 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-tracking-cookies =
     .label = کلوچک‌های ردیابِ میان‌پایگاهی
 sitedata-option-block-cross-site-cookies =
-    .label = کلوچک‌های ردیابِ میان‌پایگاهی، و قرنطینهٔ سایر کلوچک‌های میان‌پایگاهی
+    .label = کلوچک‌های ردیابِ میان‌پایگاهی، و منزوی کردن سایر کلوچک‌های میان‌پایگاهی
 sitedata-option-block-unvisited =
     .label = کلوچک‌ها از وبگاه‌های مشاهده نشده
 sitedata-option-block-all-third-party =
@@ -943,7 +943,7 @@ content-blocking-private-windows = محتوای ردیابی در پنجره‌�
 content-blocking-cross-site-cookies-in-all-windows = کلوچک‌های میان‌پایگاهی در تمام پنجره‌ها (شامل کلوچک‌های ردیاب)
 content-blocking-cross-site-tracking-cookies = کلوچک‌های ردیابِ میان‌پایگاهی
 content-blocking-all-cross-site-cookies-private-windows = کلوچک‌های میان‌پایگاهی در پنجره‌های ناشناس
-content-blocking-cross-site-tracking-cookies-plus-isolate = کلوچک‌های ردیابِ میان‌پایگاهی، و ایزوله کردن سایر کلوچک‌ها
+content-blocking-cross-site-tracking-cookies-plus-isolate = کلوچک‌های ردیابِ میان‌پایگاهی، و منزوی کردن سایر کلوچک‌ها
 content-blocking-social-media-trackers = ردیاب‌های شبکه‌های اجتماعی
 content-blocking-all-cookies = تمام کلوچک‌ها
 content-blocking-unvisited-cookies = کلوچک‌های پایگاه‌های بازدید نشده
@@ -1117,6 +1117,9 @@ httpsonly-radio-enabled-pbm =
     .label = فعال‌سازی حالت فقط-HTTPS تنها در پنجره‌های ناشناس
 httpsonly-radio-disabled =
     .label = حالت فقط-HTTPS فعال نشود
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

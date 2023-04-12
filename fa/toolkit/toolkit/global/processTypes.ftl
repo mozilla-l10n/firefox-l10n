@@ -19,7 +19,10 @@ process-type-extension = افزونه‌
 process-type-file = پروندهٔ محلی
 # process used to isolate a webpage from other web pages
 # to improve security
-process-type-webisolated = محتوای جدا شده وب
+process-type-webisolated = محتوای وب منزوی شده
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = کارگر خدمت منزوی شده
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
