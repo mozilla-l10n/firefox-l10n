@@ -1251,6 +1251,13 @@ preferences-doh-status-disabled = Disativât
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = No atîf ({ $reason })
 preferences-doh-group-message = Ative il DNS sigûr doprant:
+preferences-doh-expand-section =
+    .tooltiptext = Altris informazions
+preferences-doh-setting-default =
+    .label = Protezion predefinide
+    .accesskey = d
+preferences-doh-default-desc = { -brand-short-name } al decît cuant doprâ un DNS sigûr par protezi la tô riservatece.
+preferences-doh-default-detailed-desc-1 = Dopre un DNS sigur tes regjons dulà che al è disponibil
 
 ## The following strings are used in the Download section of settings
 
