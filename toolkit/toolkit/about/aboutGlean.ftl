@@ -50,6 +50,8 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Σχετικά με τη δοκιμή
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (χωρίς υποβολή ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Στο προηγούμενο πεδίο, βεβαιωθείτε ότι υπάρχει μια ετικέτα ελέγχου σφαλμάτων που θα θυμάστε εύκολα, ώστε να μπορέσετε να αναγνωρίσετε τα ping σας αργότερα.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (Προαιρετικό. Επιλέξτε το προηγούμενο πλαίσιο ελέγχου εάν θέλετε να καταγράφονται και τα ping κατά την υποβολή τους.
