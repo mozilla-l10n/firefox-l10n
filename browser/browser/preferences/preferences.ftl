@@ -1263,6 +1263,22 @@ preferences-doh-enabled-detailed-desc-2 = שימוש במפענח ה־DNS ברי
 preferences-doh-setting-strict =
     .label = הגנה מירבית
     .accesskey = ר
+preferences-doh-strict-desc = ‏{ -brand-short-name } תמיד ישתמש ב־DNS מאובטח. תוצג אזהרת סיכון אבטחה לפני שנשתמש ב־DNS של המערכת שלך.
+preferences-doh-strict-detailed-desc-1 = שימוש רק בספק שייבחר על ידך
+preferences-doh-strict-detailed-desc-2 = תוצג אזהרה אם DNS מאובטח אינו זמין
+preferences-doh-strict-detailed-desc-3 = אם DNS מאובטח אינו זמין, האתרים לא ייטענו או יפעלו כראוי
+preferences-doh-setting-off =
+    .label = כבוי
+    .accesskey = כ
+preferences-doh-off-desc = שימוש במפענח ה־DNS ברירת המחדל שלך
+preferences-doh-checkbox-warn =
+    .label = הצגת אזהרה אם גורם צד שלישי מונע באופן פעיל שימוש ב־DNS מאובטח
+    .accesskey = ה
+preferences-doh-select-resolver = בחירת ספק:
+preferences-doh-exceptions-description = ‏{ -brand-short-name } לא ישתמש ב־DNS מאובטח על גבי אתרים אלו
+preferences-doh-manage-exceptions =
+    .label = ניהול חריגות…
+    .accesskey = ח
 
 ## The following strings are used in the Download section of settings
 
