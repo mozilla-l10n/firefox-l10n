@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formulary
 protections-panel-site-not-working-view-issue-list-payments = Płaćenja
 protections-panel-site-not-working-view-issue-list-comments = Komentary
 protections-panel-site-not-working-view-issue-list-videos = Wideja
+protections-panel-site-not-working-view-issue-list-fonts = Pisma
 protections-panel-site-not-working-view-send-report = Rozprawu pósłać
 
 ##

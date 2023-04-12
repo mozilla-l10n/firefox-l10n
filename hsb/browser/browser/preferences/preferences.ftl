@@ -1269,6 +1269,15 @@ preferences-doh-enabled-detailed-desc-1 = Poskićowarja wužiwać, kotrehož sć
 preferences-doh-setting-strict =
     .label = Maksimalny škit
     .accesskey = M
+preferences-doh-strict-detailed-desc-1 = Jenož poskićowarja wužiwać, kotrehož sće wubrał
+preferences-doh-strict-detailed-desc-2 = Přeco warnować, jeli wěsty DNS k dispoziciji njeje
+preferences-doh-setting-off =
+    .label = Wupinjeny
+    .accesskey = u
+preferences-doh-select-resolver = Wubjerće poskićowarja:
+preferences-doh-manage-exceptions =
+    .label = Wuwzaća rjadować…
+    .accesskey = z
 
 ## The following strings are used in the Download section of settings
 
