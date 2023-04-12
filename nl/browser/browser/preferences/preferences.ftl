@@ -1244,16 +1244,36 @@ preferences-doh-resolver = Provider: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Ongeldige URL
+preferences-doh-steering-status = Lokale provider wordt gebruikt
 preferences-doh-status-active = Actief
 preferences-doh-status-disabled = Uit
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Niet actief ({ $reason })
+preferences-doh-group-message = Beveiligde DNS inschakelen met:
 preferences-doh-expand-section =
     .tooltiptext = Meer informatie
 preferences-doh-setting-default =
     .label = Standaard bescherming
     .accesskey = S
+preferences-doh-default-desc = { -brand-short-name } bepaalt wanneer beveiligde DNS moet worden gebruikt om uw privacy te beschermen.
+preferences-doh-default-detailed-desc-1 = Beveiligde DNS gebruiken in regio’s waar dit beschikbaar is
+preferences-doh-default-detailed-desc-2 = Uw standaard DNS-resolver gebruiken als er een probleem is met de beveiligde-DNS-provider
+preferences-doh-default-detailed-desc-3 = Indien mogelijk lokale provider gebruiken
+preferences-doh-default-detailed-desc-4 = Uitschakelen als VPN, ouderlijk toezicht of bedrijfsbeleid actief zijn
+preferences-doh-default-detailed-desc-5 = Uitschakelen als een netwerk { -brand-short-name } vertelt geen beveiligde DNS te gebruiken
+preferences-doh-setting-enabled =
+    .label = Verhoogde bescherming
+    .accesskey = h
+preferences-doh-enabled-desc = U bepaalt wanneer beveiligde DNS wordt gebruikt en kiest uw provider.
+preferences-doh-enabled-detailed-desc-1 = De aanbieder die u selecteert gebruiken
+preferences-doh-enabled-detailed-desc-2 = Alleen uw standaard DNS-resolver gebruiken als er een probleem met beveiligde DNS is
+preferences-doh-setting-strict =
+    .label = Max. bescherming
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } gebruikt altijd beveiligde DNS. U ziet een beveiligingswaarschuwing voordat we de DNS van uw systeem gebruiken.
+preferences-doh-strict-detailed-desc-1 = Alleen de door u geselecteerde provider gebruiken
+preferences-doh-strict-detailed-desc-2 = Altijd waarschuwen als beveiligde DNS niet beschikbaar is
 preferences-doh-setting-off =
     .label = Uit
     .accesskey = U
