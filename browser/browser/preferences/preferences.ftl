@@ -1234,6 +1234,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+preferences-doh-description = O DNS (Domain Name System) sobre HTTPS envia sua requisição de nome de domínio através de uma conexão criptografada, criando um DNS seguro e dificultando a outras pessoas ver qual site você irá acessar.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
@@ -1270,6 +1271,7 @@ preferences-doh-enabled-detailed-desc-2 = Só usar seu resolvedor de DNS padrão
 preferences-doh-setting-strict =
     .label = Proteção máxima
     .accesskey = m
+preferences-doh-strict-desc = O { -brand-short-name } sempre usará DNS seguro. Aparecerá um aviso de risco de segurança antes de usarmos o DNS do seu sistema.
 preferences-doh-strict-detailed-desc-1 = Só usar o provedor que você selecionar
 preferences-doh-strict-detailed-desc-2 = Sempre avise se DNS seguro não estiver disponível
 preferences-doh-strict-detailed-desc-3 = Se não tiver DNS seguro disponível, alguns sites podem não ser carregados ou não funcionar corretamente
@@ -1277,6 +1279,11 @@ preferences-doh-setting-off =
     .label = Desativado
     .accesskey = D
 preferences-doh-off-desc = Usar seu resolvedor de DNS padrão
+preferences-doh-checkbox-warn =
+    .label = Avisar se um terceiro impedir DNS seguro ativamente
+    .accesskey = v
+preferences-doh-select-resolver = Escolher provedor:
+preferences-doh-exceptions-description = O { -brand-short-name } não usará DNS seguro nesses sites
 preferences-doh-manage-exceptions =
     .label = Gerenciar exceções…
     .accesskey = x
