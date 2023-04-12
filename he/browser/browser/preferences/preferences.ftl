@@ -1253,6 +1253,16 @@ preferences-doh-default-detailed-desc-1 = שימוש ב־DNS מאובטח באז
 preferences-doh-default-detailed-desc-2 = שימוש במפענח ה־DNS ברירת המחדל אם יש בעיה עם ספק ה־DNS המאובטח
 preferences-doh-default-detailed-desc-3 = שימוש בספק מקומי, אם ניתן
 preferences-doh-default-detailed-desc-4 = כבוי כאשר VPN, בקרת הורים או מדיניות ארגונית פעילים
+preferences-doh-default-detailed-desc-5 = כבוי כאשר הרשת אומרת ל־{ -brand-short-name } שעליו לא להשתמש ב־DNS מאובטח
+preferences-doh-setting-enabled =
+    .label = הגנה מוגברת
+    .accesskey = מ
+preferences-doh-enabled-desc = באפשרותך לשלוט מתי להשתמש ב־DNS מאובטח ולבחור בספק שלך.
+preferences-doh-enabled-detailed-desc-1 = שימוש בספק שייבחר על ידך
+preferences-doh-enabled-detailed-desc-2 = שימוש במפענח ה־DNS ברירת המחדל רק אם יש בעיה עם ה־DNS המאובטח
+preferences-doh-setting-strict =
+    .label = הגנה מירבית
+    .accesskey = ר
 
 ## The following strings are used in the Download section of settings
 
