@@ -1235,6 +1235,22 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Не ўключаць рэжым толькі HTTPS
 
+## DoH Section
+
+preferences-doh-header = DNS праз HTTPS
+preferences-doh-description = Сістэма даменных імёнаў (DNS) праз HTTPS адпраўляе ваш запыт на даменнае імя праз зашыфраванае злучэнне, ствараючы бяспечны DNS і ўскладняючы для іншых бачыць, да якога сайта вы збіраецеся атрымаць доступ.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Статус: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Правайдар: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Несапраўдны URL
+preferences-doh-steering-status = З дапамогай мясцовага правайдара
+preferences-doh-status-active = Дзейны
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Працоўны стол
