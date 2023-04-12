@@ -218,3 +218,7 @@ permissions-site-speaker-window =
     .title = Impostazions - Permès cassis
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Chescj sîts web a àn domandât di selezionâ un dispositîf di jessude audio. Tu puedis specificâ cuai sîts web che a podaran selezionâ un dispositîf di jessude audio.
+permissions-exceptions-doh-window =
+    .title = Ecezions di sîts web par DNS sore HTTPS
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } nol doprarà un DNS sigûr par chescj sîts e i relatîfs sot-dominis.
