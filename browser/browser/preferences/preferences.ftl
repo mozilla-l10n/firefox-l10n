@@ -1231,6 +1231,12 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ikkje slå på berre HTTPS-modus
 
+## DoH Section
+
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Status: { $status }
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
