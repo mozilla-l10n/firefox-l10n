@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = לבדוק של־{ -brand-short-name } י
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = ‏{ -brand-short-name } לא יכול להגן על הבקשה שלך עבור כתובת אתר זה באמצעות מפענח ה־DNS המהימן שלנו. הנה הסיבה:
-neterror-dns-not-found-trr-only-attackers = אם תמשיך, ייתכן שצד שלישי יוכל לראות באילו אתרים אתה מבקר, או לשלוח אותך לאתר לא מהימן.
 neterror-dns-not-found-trr-third-party-warning = באפשרותך להמשיך עם מפענח DNS שאינו מאובטח. עם זאת, ייתכן שגורם מצד שלישי יוכל לראות באילו אתרים אתה מבקר.
+neterror-dns-not-found-trr-third-party-warning2 = באפשרותך להמשיך עם מפענח ה־DNS ברירת המחדל שלך. עם זאת, ייתכן שגורם מצד שלישי יוכל לראות באילו אתרים אתה מבקר.
 neterror-dns-not-found-trr-only-could-not-connect = ‏{ -brand-short-name } לא הצליח להתחבר אל { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = החיבור אל { $trrDomain } ארך זמן רב מהצפוי.
 neterror-dns-not-found-trr-offline = אין חיבור לאינטרנט.
 neterror-dns-not-found-trr-unknown-host = כתובת לאתר זה לא נמצאה על־ידי { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = אתר זה לא נמצא על־ידי { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = הייתה בעיה עם { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = בעיה לא צפויה.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = בעיה לא צפויה.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = ‏{ -brand-short-name } לא יכול להגן על הבקשה שלך עבור כתובת אתר זה באמצעות מפענח ה־DNS המהימן שלנו. הנה הסיבה:
-neterror-dns-not-found-native-fallback-attackers = באפשרותך להמשיך עם מפענח DNS שאינו מאובטח. עם זאת, ייתכן שגורם מצד שלישי יוכל לראות באילו אתרים אתה מבקר, או לשלוח אותך לאתר שאינו מהימן.
 neterror-dns-not-found-native-fallback-heuristic = ‏DNS over HTTPS הושבת ברשת שלך.
-neterror-dns-not-found-native-fallback-not-confirmed = החיבור אל { $trrDomain } אינו מוכן עדיין.
 neterror-dns-not-found-native-fallback-not-confirmed2 = ‏{ -brand-short-name } לא הצליח להתחבר אל { $trrDomain }.
 
 ##
