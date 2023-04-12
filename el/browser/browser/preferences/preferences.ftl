@@ -1257,6 +1257,7 @@ preferences-doh-setting-enabled =
 preferences-doh-setting-strict =
     .label = Μέγιστη προστασία
     .accesskey = Μ
+preferences-doh-select-resolver = Επιλογή παρόχου:
 preferences-doh-manage-exceptions =
     .label = Διαχείριση εξαιρέσεων…
     .accesskey = χ
