@@ -1233,6 +1233,32 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Allinnich-HTTPS-modus net ynskeakelje
 
+## DoH Section
+
+preferences-doh-header = DNS oer HTTPS
+preferences-doh-description = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS makke wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Steat: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Provider: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Unjildige URL
+preferences-doh-steering-status = Lokale provider wurdt brûkt
+preferences-doh-status-active = Aktyf
+preferences-doh-status-disabled = Ut
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Net aktyf ({ $reason })
+preferences-doh-group-message = Befeilige DNS ynskeakelje mei:
+preferences-doh-expand-section =
+    .tooltiptext = Mear ynformaasje
+preferences-doh-setting-default =
+    .label = Standert beskerming
+    .accesskey = S
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Búroblêd
