@@ -223,28 +223,6 @@ colorways-cfr-header-today = Các màu giọng nói độc lập sẽ hết hạ
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Biểu ngữ cookie sẽ biến mất!
-cfr-cookiebanner-body = Cho phép { -brand-short-name } tự động từ chối tất cả các yêu cầu biểu ngữ cookie khi có thể.
-cfr-cookiebanner-accept-button-v2 = Từ chối các yêu cầu
-    .accesskey = R
-cfr-cookiebanner-reject-button = Không phải bây giờ
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Xem ít cửa sổ bật lên về cookie hơn
-cfr-cookiebanner-body-variant-1 = Hãy để { -brand-short-name } tự động trả lời các cửa sổ bật lên cookie cho bạn để bạn có thể quay lại trình duyệt mà không bị phân tâm. { -brand-short-name } sẽ từ chối tất cả các yêu cầu nếu có thể.
-cfr-cookiebanner-accept-button-variant-1 = Loại bỏ cửa sổ bật lên
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = Không, cảm ơn
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Giảm biểu ngữ cookie
-cfr-cookiebanner-body-variant-2 = Giảm số lượng biểu ngữ cookie bạn nhìn thấy bằng cách cho phép { -brand-short-name } từ chối yêu cầu chấp thuận cookie của trang web nếu có thể.
-cfr-cookiebanner-accept-button-variant-2 = Cho phép
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-2 = Không phải bây giờ
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Cho phép { -brand-short-name } từ chối biểu ngữ cookie?
 cfr-cbh-body = { -brand-short-name } có thể tự động từ chối nhiều yêu cầu biểu ngữ cookie.
 cfr-cbh-confirm-button = Từ chối biểu ngữ cookie
@@ -257,6 +235,12 @@ cfr-cbh-dismiss-button = Không phải bây giờ
 july-jam-headline = Chúng tôi đã giúp bạn được bảo vệ
 july-jam-body = Mỗi tháng, { -brand-short-name } chặn trung bình hơn 3.000 trình theo dõi trên mỗi người dùng, giúp bạn truy cập Internet tốt một cách an toàn, nhanh chóng.
 july-jam-set-default-primary = Mở liên kết của tôi bằng { -brand-short-name }
+fox-doodle-pin-headline = Chào mừng trở lại
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Đây là lời nhắc nhanh rằng bạn có thể giữ trình duyệt độc lập yêu thích của mình chỉ bằng một cú nhấp chuột.
+fox-doodle-pin-primary = Mở liên kết của tôi bằng { -brand-short-name }
+fox-doodle-pin-secondary = Không phải bây giờ
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

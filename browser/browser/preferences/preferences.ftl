@@ -1215,6 +1215,63 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Không kích hoạt chế độ chỉ HTTPS
 
+## DoH Section
+
+preferences-doh-header = DNS over HTTPS
+preferences-doh-description = Hệ thống tên miền (DNS) qua HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, tạo một DNS an toàn và khiến người khác khó nhìn thấy trang web bạn sắp truy cập hơn.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Trạng thái: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Nhà cung cấp: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL không hợp lệ
+preferences-doh-steering-status = Sử dụng nhà cung cấp cục bộ
+preferences-doh-status-active = Đang hoạt động
+preferences-doh-status-disabled = Đã tắt
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Không hoạt động ({ $reason })
+preferences-doh-group-message = Kích hoạt DNS an toàn sử dụng:
+preferences-doh-expand-section =
+    .tooltiptext = Thông tin chi tiết
+preferences-doh-setting-default =
+    .label = Bảo vệ mặc định
+    .accesskey = D
+preferences-doh-default-desc = { -brand-short-name } quyết định thời điểm sử dụng DNS an toàn để bảo vệ quyền riêng tư của bạn.
+preferences-doh-default-detailed-desc-1 = Sử dụng DNS an toàn ở những khu vực có sẵn
+preferences-doh-default-detailed-desc-2 = Sử dụng trình phân giải DNS mặc định của bạn nếu có sự cố với nhà cung cấp DNS an toàn
+preferences-doh-default-detailed-desc-3 = Sử dụng một nhà cung cấp cục bộ, nếu có thể
+preferences-doh-default-detailed-desc-4 = Tắt khi VPN, quyền kiểm soát của phụ huynh hoặc chính sách doanh nghiệp đang hoạt động
+preferences-doh-default-detailed-desc-5 = Tắt khi mạng thông báo { -brand-short-name } không nên sử dụng DNS an toàn
+preferences-doh-setting-enabled =
+    .label = Bảo vệ gia tăng
+    .accesskey = I
+preferences-doh-enabled-desc = Bạn kiểm soát thời điểm sử dụng DNS bảo mật và chọn nhà cung cấp của mình.
+preferences-doh-enabled-detailed-desc-1 = Sử dụng nhà cung cấp bạn chọn
+preferences-doh-enabled-detailed-desc-2 = Chỉ sử dụng trình phân giải DNS mặc định của bạn nếu có sự cố với DNS bảo mật
+preferences-doh-setting-strict =
+    .label = Bảo vệ tối đa
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } sẽ luôn sử dụng DNS an toàn. Bạn sẽ thấy cảnh báo rủi ro bảo mật trước khi chúng tôi sử dụng DNS hệ thống của bạn.
+preferences-doh-strict-detailed-desc-1 = Chỉ sử dụng nhà cung cấp bạn chọn
+preferences-doh-strict-detailed-desc-2 = Luôn cảnh báo nếu không có DNS an toàn
+preferences-doh-strict-detailed-desc-3 = Nếu không có DNS an toàn, các trang web sẽ không tải hoặc hoạt động bình thường
+preferences-doh-setting-off =
+    .label = Tắt
+    .accesskey = O
+preferences-doh-off-desc = Sử dụng trình phân giải DNS mặc định của bạn
+preferences-doh-checkbox-warn =
+    .label = Cảnh báo nếu bên thứ ba chủ động ngăn chặn DNS an toàn
+    .accesskey = W
+preferences-doh-select-resolver = Chọn nhà cung cấp:
+preferences-doh-exceptions-description = { -brand-short-name } sẽ không sử dụng DNS an toàn trên các trang web này
+preferences-doh-manage-exceptions =
+    .label = Quản lý ngoại trừ…
+    .accesskey = x
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Bàn làm việc
