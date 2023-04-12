@@ -223,25 +223,6 @@ colorways-cfr-header-today = Тәуелсіз дауыстар түстер сх
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Cookie баннерлері жоғалсын!
-cfr-cookiebanner-body = { -brand-short-name } үшін барлық cookie баннер сұрауларын мүмкіндігінше автоматты түрде қабылдамау рұқсатын беру.
-cfr-cookiebanner-accept-button-v2 = Сұранымдарды қабылдамау
-    .accesskey = р
-cfr-cookiebanner-reject-button = Қазір емес
-    .accesskey = м
-cfr-cookiebanner-header-variant-1 = Азырақ cookie қалқымалы терезелерін көру
-cfr-cookiebanner-body-variant-1 = Мазасыз шолуға қайта оралу үшін { -brand-short-name } cookie файлдарының қалқымалы терезелеріне автоматты түрде жауап беруге рұқсат беріңіз. { -brand-short-name } мүмкіндігінше барлық сұрауларды қабылдамайды.
-cfr-cookiebanner-accept-button-variant-1 = Қалқымалы терезелерді елемеу
-    .accesskey = м
-cfr-cookiebanner-reject-button-variant-1 = Жоқ, рахмет
-    .accesskey = о
-cfr-cookiebanner-header-variant-2 = Cookie баннерлерін азайту
-cfr-cookiebanner-body-variant-2 = Мүмкін болса, { -brand-short-name } веб-сайтының cookie файлына рұқсат сұрауын қабылдамауға рұқсат беру арқылы көретін cookie баннерлерінің санын азайту.
-cfr-cookiebanner-accept-button-variant-2 = Рұқсат ету
-    .accesskey = а
-cfr-cookiebanner-reject-button-variant-2 = Қазір емес
-    .accesskey = м
 cfr-cbh-header = { -brand-short-name } үшін cookie баннерлерін елемеу рұқсатын бересіз бе?
 cfr-cbh-body = { -brand-short-name } көптеген cookie баннер сұрауларын автоматты түрде қабылдамау әрекетін жасай алады.
 cfr-cbh-confirm-button = Cookie баннерлерін елемеу
@@ -254,6 +235,9 @@ cfr-cbh-dismiss-button = Қазір емес
 july-jam-headline = Сіз үшін қамқорлықпен
 july-jam-body = Ай сайын { -brand-short-name } бір пайдаланушыға орташа есеппен 3000+ трекерді блоктайды, бұл сізге жақсы интернетке қауіпсіз және жылдам қол жеткізуге мүмкіндік береді.
 july-jam-set-default-primary = Менің сілтемелерімді { -brand-short-name } арқылы ашу
+fox-doodle-pin-headline = Қайта қош келдіңіз
+fox-doodle-pin-primary = Менің сілтемелерімді { -brand-short-name } арқылы ашу
+fox-doodle-pin-secondary = Қазір емес
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
