@@ -664,9 +664,13 @@ reader-view-close-button =
     .aria-label = Пӯшидани намоиши хониш
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Фаъолсозии «Расм-дар-расм»
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Кушодани «Расм-дар-расм» ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Пӯшидани «Расм-дар-расм» ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 

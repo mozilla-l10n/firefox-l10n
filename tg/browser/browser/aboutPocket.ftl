@@ -54,7 +54,7 @@ pocket-panel-signup-cta-c-updated = Маводи нигоҳдошташудаи 
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = Рӯйхати ман
-pocket-panel-home-welcome-back = Бозгашт муборак
+pocket-panel-home-welcome-back = Бозгаштатон муборак
 pocket-panel-home-paragraph = Шумо метавонед барои омӯхтан ва нигоҳ доштани саҳифаҳои сомона, мақолаҳо, видеоҳо, подкастҳо ё баргардонидан ба он чизе, ки хондаед, аз «{ -pocket-brand-name }» истифода баред.
 pocket-panel-home-explore-popular-topics = Омӯзиши мавзуъҳои маъмул
 pocket-panel-home-discover-more = Бештар омӯзед

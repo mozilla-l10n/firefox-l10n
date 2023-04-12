@@ -225,28 +225,6 @@ colorways-cfr-header-today = Нақшу нигорҳои садоҳои муст
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Баннерҳои куки гум шаванд!
-cfr-cookiebanner-body = Ба «{ -brand-short-name }» иҷозат диҳед, то ки он тавонад ҳамаи дархостҳои баннери кукиро ба қадри имкон рад кунад.
-cfr-cookiebanner-accept-button-v2 = Рад кардани дархостҳо
-    .accesskey = Р
-cfr-cookiebanner-reject-button = Ҳоло не
-    .accesskey = Ҳ
-cfr-cookiebanner-header-variant-1 = Камтар дидани равзанаҳои зоҳиршавандаи кукиҳо
-cfr-cookiebanner-body-variant-1 = Иҷозат диҳед, ки «{ -brand-short-name }» аз ҷониби шумо ба равзанаҳои зоҳиршавандаи куки ба таври худкор ҷавоб диҳад, то шумо тавонед ба тамошокунии озод аз халалрасонӣ баргардед. «{ -brand-short-name }» ба қадри имкон ҳамаи дархостҳоро рад мекунад.
-cfr-cookiebanner-accept-button-variant-1 = Қатъ кардани равзанаҳои зоҳиршаванда
-    .accesskey = Қ
-cfr-cookiebanner-reject-button-variant-1 = Не, ташаккур
-    .accesskey = Н
-cfr-cookiebanner-header-variant-2 = Маҳдудкунии баннери куки
-cfr-cookiebanner-body-variant-2 = Ба «{ -brand-short-name }» иҷозат диҳед, то он тавонад ба қадри имкон дархости ризоияти кукии сомонаро рад кунад ва ҳамин тавр шумораи баннерҳои кукиеро, ки шумо мебинед кам кунед.
-cfr-cookiebanner-accept-button-variant-2 = Иҷозат додан
-    .accesskey = И
-cfr-cookiebanner-reject-button-variant-2 = Ҳоло не
-    .accesskey = Ҳ
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Ба «{ -brand-short-name }» иҷозат медиҳед, ки баннерҳои кукиро рад кунад?
 cfr-cbh-body = «{ -brand-short-name }» метавонад бисёр дархостҳои баннерҳои кукиро ба таври худкор рад кунад.
 cfr-cbh-confirm-button = Рад кардани баннерҳои куки
@@ -259,6 +237,9 @@ cfr-cbh-dismiss-button = Ҳоло не
 july-jam-headline = Мо шуморо бо ғамхорӣ фаро гирифтем
 july-jam-body = Ҳар моҳ «{ -brand-short-name }» танҳо нисбат ба як корбар ба ҳисоби миёна зиёда аз 3000 воситаи пайгириро манъ мекунад ва ба шумо дастрасии бехатар ва босуръат ба Интернети хуб медиҳад.
 july-jam-set-default-primary = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
+fox-doodle-pin-headline = Бозгаштатон муборак
+fox-doodle-pin-primary = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
+fox-doodle-pin-secondary = Ҳоло не
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
