@@ -1276,6 +1276,21 @@ preferences-doh-setting-strict =
     .label = Максімальная ахова
     .accesskey = ь
 preferences-doh-strict-desc = { -brand-short-name } заўсёды будзе выкарыстоўваць бяспечны DNS. Вы ўбачыце папярэджанне аб рызыцы бяспекі, перш чым мы будзем выкарыстоўваць DNS вашай сістэмы.
+preferences-doh-strict-detailed-desc-1 = Выкарыстоўваць толькі абранага вамі правайдара
+preferences-doh-strict-detailed-desc-2 = Заўсёды папярэджваць, калі бяспечны DNS недаступны
+preferences-doh-strict-detailed-desc-3 = Калі абаронены DNS недаступны, сайты не будуць загружацца або працаваць належным чынам
+preferences-doh-setting-off =
+    .label = Адключаны
+    .accesskey = д
+preferences-doh-off-desc = Выкарыстоўваць стандартны правайдар DNS
+preferences-doh-checkbox-warn =
+    .label = Папярэджваць, калі трэці бок актыўна перашкаджае бяспечнаму DNS
+    .accesskey = ц
+preferences-doh-select-resolver = Абраць правайдара:
+preferences-doh-exceptions-description = { -brand-short-name } не будзе выкарыстоўваць бяспечны DNS на гэтых сайтах
+preferences-doh-manage-exceptions =
+    .label = Кіраваць выключэннямі…
+    .accesskey = ч
 
 ## The following strings are used in the Download section of settings
 
