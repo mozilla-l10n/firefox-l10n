@@ -61,6 +61,7 @@ neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunne 
 neterror-dns-not-found-trr-only-timeout = Oprettelse af forbindelse til { $trrDomain } tog længere tid end ventet.
 neterror-dns-not-found-trr-offline = Du er ikke forbundet til internettet.
 neterror-dns-not-found-trr-unknown-host = En adresse til dette websted blev ikke fundet af { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = Webstedet blev ikke fundet af { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Der opstod et problem med { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Uventet problem.
 
