@@ -210,3 +210,4 @@ policy-UseSystemPrintDialog = Stampa utilizzando la finestra di dialogo di siste
 policy-WebsiteFilter = Impedisci l’accesso a determinati siti web. Consulta la documentazione per ulteriori dettagli sul formato da utilizzare.
 
 policy-Windows10SSO = Permetti l’utilizzo di Windows single sign-on per account Microsoft, account aziendale o dell’istituto di istruzione.
+
