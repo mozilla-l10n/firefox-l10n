@@ -221,7 +221,6 @@ permissions-site-speaker-desc = Følgende websteder har anmodet om at vælge en 
 permissions-exceptions-doh-window =
     .title = Websteds-undtagelser for DNS via HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikke bruge sikker DNS på disse websteder og deres subdomæner.
 permissions-doh-entry-field = Angiv webstedets domænenavn
     .accesskey = d
 permissions-doh-add-exception =
