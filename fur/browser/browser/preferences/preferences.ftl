@@ -1258,6 +1258,19 @@ preferences-doh-setting-default =
     .accesskey = d
 preferences-doh-default-desc = { -brand-short-name } al decît cuant doprâ un DNS sigûr par protezi la tô riservatece.
 preferences-doh-default-detailed-desc-1 = Dopre un DNS sigur tes regjons dulà che al è disponibil
+preferences-doh-default-detailed-desc-2 = Dopre il to risolvidôr di DNS predefinît se al capite un probleme cul furnidôr di DNS sigûr
+preferences-doh-default-detailed-desc-3 = Dopre un furnidôr locâl, se pussibil
+preferences-doh-default-detailed-desc-4 = Disative se daûr di VPN o se a son atîfs controi parentâi o politichis di aziende
+preferences-doh-default-detailed-desc-5 = Disative se une rêt e domande a { -brand-short-name } di no doprâ un DNS sigûr
+preferences-doh-setting-enabled =
+    .label = Protezion aumentade
+    .accesskey = I
+preferences-doh-enabled-desc = Tu puedis decidi se doprâ un DNS sigûr e sielzi il furnidôr.
+preferences-doh-enabled-detailed-desc-1 = Dopre il furnidôr che tu âs sielt
+preferences-doh-enabled-detailed-desc-2 = Dopre il to risolvidôr di DNS predefinît dome se a vegnin fûr problemis cul DNS sigûr
+preferences-doh-setting-strict =
+    .label = Protezion massime
+    .accesskey = m
 
 ## The following strings are used in the Download section of settings
 
