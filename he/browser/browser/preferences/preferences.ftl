@@ -1243,6 +1243,16 @@ preferences-doh-status-disabled = כבוי
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = לא פעיל ({ $reason })
 preferences-doh-group-message = הפעלת DNS מאובטח באמצעות:
+preferences-doh-expand-section =
+    .tooltiptext = מידע נוסף
+preferences-doh-setting-default =
+    .label = הגנה ברירת מחדל
+    .accesskey = ב
+preferences-doh-default-desc = ‏{ -brand-short-name } מחליט מתי להשתמש ב־DNS מאובטח כדי להגן על הפרטיות שלך.
+preferences-doh-default-detailed-desc-1 = שימוש ב־DNS מאובטח באזורים שבהם הוא זמין
+preferences-doh-default-detailed-desc-2 = שימוש במפענח ה־DNS ברירת המחדל אם יש בעיה עם ספק ה־DNS המאובטח
+preferences-doh-default-detailed-desc-3 = שימוש בספק מקומי, אם ניתן
+preferences-doh-default-detailed-desc-4 = כבוי כאשר VPN, בקרת הורים או מדיניות ארגונית פעילים
 
 ## The following strings are used in the Download section of settings
 
