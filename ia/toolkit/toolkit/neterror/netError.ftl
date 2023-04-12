@@ -62,6 +62,7 @@ neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non po
 neterror-dns-not-found-trr-only-timeout = Le connexion a { $trrDomain } prendeva plus tempore que expectate.
 neterror-dns-not-found-trr-offline = Nulle connexion a internet
 neterror-dns-not-found-trr-unknown-host = Un adresse pro iste sito web non era trovava per { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = Iste sito web non era trovate per { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Il habeva un problema con { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problema inexpectate.
 

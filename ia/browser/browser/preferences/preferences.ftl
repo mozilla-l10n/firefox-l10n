@@ -1234,6 +1234,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS super HTTPS
+preferences-doh-description = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, creante un DNS secur e obstruente a alteres de vider que sito web tu va acceder.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stato: { $status }
@@ -1243,23 +1244,46 @@ preferences-doh-resolver = Fornitor: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = URL invalide
+preferences-doh-steering-status = Uso de fornitor local
 preferences-doh-status-active = Active
 preferences-doh-status-disabled = Inactive
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Non active ({ $reason })
+preferences-doh-group-message = Activar le DNS secur per:
 preferences-doh-expand-section =
     .tooltiptext = Plus de informationes
+preferences-doh-setting-default =
+    .label = Protection predefinite
+    .accesskey = p
+preferences-doh-default-desc = { -brand-short-name } decide quando usar DNS secur pro proteger tu confidentialitate.
+preferences-doh-default-detailed-desc-1 = Usar DNS secur in regiones ubi illo es disponibile
 preferences-doh-default-detailed-desc-2 = Usar tu predefinite resolutor de DNS si il ha un problema con le fornitor de DNS secur
+preferences-doh-default-detailed-desc-3 = Usar un fornitor local, si possibile
+preferences-doh-default-detailed-desc-4 = Disactivar quando es active VPN, controlo parental, o regulas de interprisa
+preferences-doh-default-detailed-desc-5 = Disactivar quando un rete dice a { -brand-short-name } que illo non deberea usar DNS secur
+preferences-doh-setting-enabled =
+    .label = Protection augmentate
+    .accesskey = a
+preferences-doh-enabled-desc = Tu controla quando usar DNS secur e eliger tu fornitor.
+preferences-doh-enabled-detailed-desc-1 = Usar le fornitor que tu elige
 preferences-doh-enabled-detailed-desc-2 = Usa solo tu predefinite resolutor de DNS si il ha un problema con DNS secur
 preferences-doh-setting-strict =
     .label = Maxime protection
     .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } usara sempre DNS secur.
+preferences-doh-strict-detailed-desc-1 = Usar solo le fornitor que tu elige
+preferences-doh-strict-detailed-desc-2 = Sempre adverter si DNS secur non es disponibile
+preferences-doh-strict-detailed-desc-3 = Si DNS secur non es disponibile, le sitos non cargara o functionara correctemente
 preferences-doh-setting-off =
     .label = Inactive
     .accesskey = I
 preferences-doh-off-desc = Usar tu resolutor de DNS predefinite
+preferences-doh-checkbox-warn =
+    .label = Adverter si un tertie parte activemente impedi DNS secur
+    .accesskey = A
 preferences-doh-select-resolver = Eliger fornitor:
+preferences-doh-exceptions-description = { -brand-short-name } non usara DNS secur sur iste sitos
 preferences-doh-manage-exceptions =
     .label = Gerer exceptiones…
     .accesskey = x
