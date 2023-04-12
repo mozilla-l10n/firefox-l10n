@@ -1069,7 +1069,7 @@ content-blocking-cookies-label =
     .label = 쿠키
     .accesskey = C
 content-blocking-expand-section =
-    .tooltiptext = 더 알아보기
+    .tooltiptext = 추가 정보
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = 암호화폐 채굴기
@@ -1218,6 +1218,59 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS (HTTPS를 통한 DNS)
+preferences-doh-description = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 생성하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = 상태: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = 공급자: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = 잘못된 URL
+preferences-doh-steering-status = 로컬 공급자 사용 중
+preferences-doh-status-active = 활성
+preferences-doh-status-disabled = 꺼짐
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = 활성화되지 않음 ({ $reason })
+preferences-doh-group-message = 다음을 사용하여 보안 DNS를 활성화:
+preferences-doh-expand-section =
+    .tooltiptext = 추가 정보
+preferences-doh-setting-default =
+    .label = 기본 보호
+    .accesskey = D
+preferences-doh-default-desc = { -brand-short-name }는 보안 DNS를 사용하여 개인 정보를 보호할 때를 결정합니다.
+preferences-doh-default-detailed-desc-1 = 사용 가능한 지역에서 보안 DNS 사용
+preferences-doh-default-detailed-desc-2 = 보안 DNS 공급자에 문제가 있는 경우 기본 DNS 확인자를 사용
+preferences-doh-default-detailed-desc-3 = 가능하면 로컬 공급자를 사용
+preferences-doh-default-detailed-desc-4 = VPN, 자녀 보호 또는 엔터프라이즈 정책이 활성화되면 끄기
+preferences-doh-default-detailed-desc-5 = 네트워크에서 { -brand-short-name }에 보안 DNS를 사용하지 말라고 하면 끄기
+preferences-doh-setting-enabled =
+    .label = 향상된 보호
+    .accesskey = I
+preferences-doh-enabled-desc = 보안 DNS를 사용할 때를 제어하고 공급자를 선택합니다.
+preferences-doh-enabled-detailed-desc-1 = 선택한 공급자 사용
+preferences-doh-enabled-detailed-desc-2 = 보안 DNS에 문제가 있는 경우에만 기본 DNS 확인자를 사용
+preferences-doh-setting-strict =
+    .label = 최대 보호
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name }는 항상 보안 DNS를 사용합니다. 시스템 DNS를 사용하기 전에 보안 위험 경고가 표시됩니다.
+preferences-doh-strict-detailed-desc-1 = 선택한 공급자만 사용
+preferences-doh-strict-detailed-desc-2 = 보안 DNS를 사용할 수 없는 경우 항상 경고
+preferences-doh-strict-detailed-desc-3 = 보안 DNS를 사용할 수 없으면 사이트가 제대로 로드되지 않거나 작동하지 않음
+preferences-doh-setting-off =
+    .label = 끄기
+    .accesskey = O
+preferences-doh-off-desc = 기본 DNS 확인자 사용
+preferences-doh-checkbox-warn =
+    .label = 제3자가 보안 DNS를 능동적으로 막는 경우 경고
+    .accesskey = W
+preferences-doh-select-resolver = 공급자 선택:
+preferences-doh-exceptions-description = { -brand-short-name }는 이러한 사이트에서 보안 DNS를 사용하지 않음
+preferences-doh-manage-exceptions =
+    .label = 예외 관리…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
