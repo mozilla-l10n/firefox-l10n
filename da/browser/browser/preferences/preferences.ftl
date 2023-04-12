@@ -1247,8 +1247,28 @@ preferences-doh-resolver = Udbyder: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Ugyldig URL
+preferences-doh-steering-status = Bruger lokal udbyder
 preferences-doh-status-active = Aktiv
 preferences-doh-status-disabled = Fra
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Ikke aktiv ({ $reason })
+preferences-doh-group-message = Aktiver sikker DNS ved at bruge:
+preferences-doh-expand-section =
+    .tooltiptext = Mere information
+preferences-doh-default-detailed-desc-1 = Brug sikker DNS i lande, hvor det er tilgængeligt
+preferences-doh-default-detailed-desc-3 = Brug om muligt en lokal udbyder
+preferences-doh-default-detailed-desc-4 = Slå fra, når VPN, forældrekontrol eller virksomhedspolitikker er slået til
+preferences-doh-default-detailed-desc-5 = Slå fra, når et netværk fortæller { -brand-short-name }, at sikker DNS ikke bør anvendes
+preferences-doh-setting-enabled =
+    .label = Øget sikkerhed
+    .accesskey = g
+preferences-doh-setting-strict =
+    .label = Maksimal beskyttelse
+    .accesskey = M
+preferences-doh-setting-off =
+    .label = Fra
+    .accesskey = F
 preferences-doh-manage-exceptions =
     .label = Håndter undtagelser…
     .accesskey = u
