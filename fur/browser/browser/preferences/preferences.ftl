@@ -1231,6 +1231,27 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = No sta abilitâ la modalitât Dome-HTTPS
 
+## DoH Section
+
+preferences-doh-header = DNS sore HTTPS
+preferences-doh-description = La risoluzion dai nons di domini (DNS) sore HTTPS e mande lis richiestis pai nons dai dominis midiant une conession cifrade, creant un DNS sigûr e fasint in mût che al sedi plui dificil par altris sogjets viodi i sîts che tu stâs par visitâ.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Stât: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Furnidôr: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL no valit
+preferences-doh-steering-status = Daûr a doprâ il furnidôr locâl
+preferences-doh-status-active = Atîf
+preferences-doh-status-disabled = Disativât
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = No atîf ({ $reason })
+preferences-doh-group-message = Ative il DNS sigûr doprant:
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
