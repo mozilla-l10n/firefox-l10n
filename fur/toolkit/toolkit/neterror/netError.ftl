@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = Controlâ che { -brand-short-name } al ve
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nol rive a protezi la richieste relative ae direzion di chest sît doprant il nestri afidabil servizi di risoluzion dai nons (DNS). Chi al è il motîf:
-neterror-dns-not-found-trr-only-attackers = Se tu continuis, un sogjet di tiercis parts al podarès rivâ a viodi cuai sîts tu visitis o inviâti suntun sît che nol è afidabil.
 neterror-dns-not-found-trr-third-party-warning = Tu puedis continuâ cuntun servizi di risoluzion dai nons (DNS) che nol è sigûr. Dut câs, un sogjet di tiercis parts al podarès rivâ a viodi ce sîts che tu visitis.
+neterror-dns-not-found-trr-third-party-warning2 = Tu puedis continuâ cul to risolvidôr DNS predefinît. Dut câs, un sogjet di tiercis parts al podarès rivâ a viodi ce sîts che tu visitis.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } nol è rivât a conetisi a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La conession a { $trrDomain } e à domandât plui timp di ce che si previodeve.
 neterror-dns-not-found-trr-offline = Nissune conession a internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } nol à cjatât une direzion par chest sît web.
+neterror-dns-not-found-trr-unknown-host2 = Chest sît web nol è stât cjatât di { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Al è vignût fûr un probleme cun { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Probleme inspietât.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Probleme inspietât.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nol rive a protezi la richieste relative ae direzion di chest sît doprant il nestri afidabil servizi di risoluzion dai nons (DNS). Chi al è il motîf:
-neterror-dns-not-found-native-fallback-attackers = Tu puedis continuâ cuntun risolvidôr DNS che nol è sigûr. Dut câs, un sogjet di tiercis parts al podarès rivâ a identificâ i sîts che tu visitis o fâti vierzi un sît che nol è afidabil.
 neterror-dns-not-found-native-fallback-heuristic = DNS vie HTTPs al è stât disabilitât te tô rêt.
-neterror-dns-not-found-native-fallback-not-confirmed = La conession a { $trrDomain } no je ancjemò pronte.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nol è rivât a conetisi a { $trrDomain }.
 
 ##
