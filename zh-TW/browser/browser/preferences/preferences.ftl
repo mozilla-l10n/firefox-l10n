@@ -1218,6 +1218,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+preferences-doh-description = DNS over HTTPS 會將您的網域名稱查詢請求加密後傳送，使其他人更難得知您要開啟的網站，讓 DNS 查詢變得安全。
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = 狀態：{ $status }
