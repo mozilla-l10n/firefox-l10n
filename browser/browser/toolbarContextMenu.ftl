@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selecionar todas as abas
     .accesskey = S
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -72,7 +74,7 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
     .label = Nunca aparecer
     .accesskey = N
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
-    .label = Aparecer somente em novas abas
+    .label = Aparecer somente em nova aba
     .accesskey = b
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Mostrar outros favoritos
