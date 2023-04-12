@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = Праверыць, ці мае { -brand-
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } не можа абараніць ваш запыт на адрас гэтага сайта праз нашу давераную службу DNS. Вось чаму:
-neterror-dns-not-found-trr-only-attackers = Калі вы працягнеце, староннія асобы змогуць убачыць вэб-сайты, якія вы наведваеце, або адправіць вас на ненадзейны сайт.
 neterror-dns-not-found-trr-third-party-warning = Вы можаце працягнуць са службай DNS, якая не ёсць бяспечнай. Аднак, трэці бок можа ўбачыць, якія сайты вы наведваеце.
+neterror-dns-not-found-trr-third-party-warning2 = Вы можаце працягнуць са сваёй тыповай службай DNS. Аднак, трэці бок можа ўбачыць, якія сайты вы наведваеце.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не змог злучыцца з { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Злучэнне з { $trrDomain } заняло больш часу, чым чакалася.
 neterror-dns-not-found-trr-offline = Няма злучэння з Інтэрнэтам.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } не знайшоў адрас для гэтага сайта.
+neterror-dns-not-found-trr-unknown-host2 = Гэты сайт не быў знойдзены ў { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Узнікла праблема з { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Нечаканая праблема.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Нечаканая праблема
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не можа абараніць ваш запыт на адрас гэтага сайта праз нашу давераную службу DNS. Вось чаму:
-neterror-dns-not-found-native-fallback-attackers = Вы можаце працягнуць са службай DNS, якая не ёсць бяспечнай. Аднак, трэці бок можа ўбачыць, якія сайты вы наведваеце, або адправіць вас на недавераны сайт.
 neterror-dns-not-found-native-fallback-heuristic = DNS па HTTPS быў адключаны ў вашай сетцы.
-neterror-dns-not-found-native-fallback-not-confirmed = Злучэнне з { $trrDomain } яшчэ не гатова.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } не змог злучыцца з { $trrDomain }.
 
 ##
