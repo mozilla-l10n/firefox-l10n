@@ -1236,6 +1236,37 @@ httpsonly-radio-disabled =
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Leverandør: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Ugyldig nettadresse
+preferences-doh-steering-status = Brukar lokal leverandør
+preferences-doh-status-active = Aktiv
+preferences-doh-status-disabled = Av
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Ikkje aktiv ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = Meir informasjon
+preferences-doh-setting-default =
+    .label = Standard vern
+    .accesskey = S
+preferences-doh-setting-enabled =
+    .label = Auka vern
+    .accesskey = A
+preferences-doh-enabled-detailed-desc-1 = Bruk leverandøren du valde
+preferences-doh-setting-strict =
+    .label = Maksimalt vern
+    .accesskey = M
+preferences-doh-setting-off =
+    .label = Av
+    .accesskey = A
+preferences-doh-select-resolver = Vel leverandør:
+preferences-doh-manage-exceptions =
+    .label = Handsam unntak
+    .accesskey = H
 
 ## The following strings are used in the Download section of settings
 
