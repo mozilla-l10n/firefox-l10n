@@ -1237,6 +1237,39 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Modus Jenož-HTTPS njezmóžnić
 
+## DoH Section
+
+preferences-doh-header = DNS přez HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Status: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Poskićowar: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Njepłaćiwy URL
+preferences-doh-steering-status = Lokalneho poskićowarja wužiwać
+preferences-doh-status-active = Aktiwny
+preferences-doh-status-disabled = Wupinjeny
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Njeaktiwny ({ $reason })
+preferences-doh-group-message = Wěsty DNS zmóžnić z pomocu:
+preferences-doh-expand-section =
+    .tooltiptext = Dalše informacije
+preferences-doh-setting-default =
+    .label = Standardny škit
+    .accesskey = S
+preferences-doh-default-detailed-desc-3 = Wužiwajće lokalneho poskićowarja, jeli móžno
+preferences-doh-setting-enabled =
+    .label = Powyšeny škit
+    .accesskey = P
+preferences-doh-enabled-detailed-desc-1 = Poskićowarja wužiwać, kotrehož sće wubrał
+preferences-doh-setting-strict =
+    .label = Maksimalny škit
+    .accesskey = M
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
