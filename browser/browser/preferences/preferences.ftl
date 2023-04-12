@@ -1231,6 +1231,56 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Não ativar o modo somente HTTPS
 
+## DoH Section
+
+preferences-doh-header = DNS sobre HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Status: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Provedor: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL inválida
+preferences-doh-steering-status = Usando provedor local
+preferences-doh-status-active = Ativo
+preferences-doh-status-disabled = Desativado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Não ativo ({ $reason })
+preferences-doh-group-message = Ativar DNS seguro usando:
+preferences-doh-expand-section =
+    .tooltiptext = Mais informações
+preferences-doh-setting-default =
+    .label = Proteção padrão
+    .accesskey = P
+preferences-doh-default-desc = O { -brand-short-name } decide quando usar DNS seguro para proteger sua privacidade.
+preferences-doh-default-detailed-desc-1 = Use DNS seguro em regiões onde estiver disponível
+preferences-doh-default-detailed-desc-2 = Use seu resolvedor de DNS padrão se houver um problema com o provedor de DNS seguro
+preferences-doh-default-detailed-desc-3 = Usar um provedor local, se possível
+preferences-doh-default-detailed-desc-4 = Desativar quando VPN, controle dos pais ou diretivas corporativas estiverem ativas
+preferences-doh-default-detailed-desc-5 = Desativar quando uma rede informar ao { -brand-short-name } que ele não deve usar DNS seguro
+preferences-doh-setting-enabled =
+    .label = Proteção maior
+    .accesskey = m
+preferences-doh-enabled-desc = Você controla quando usar DNS seguro e escolhe seu provedor.
+preferences-doh-enabled-detailed-desc-1 = Usar o provedor que você selecionar
+preferences-doh-enabled-detailed-desc-2 = Só usar seu resolvedor de DNS padrão se houver um problema com DNS seguro
+preferences-doh-setting-strict =
+    .label = Proteção máxima
+    .accesskey = m
+preferences-doh-strict-detailed-desc-1 = Só usar o provedor que você selecionar
+preferences-doh-strict-detailed-desc-2 = Sempre avise se DNS seguro não estiver disponível
+preferences-doh-strict-detailed-desc-3 = Se não tiver DNS seguro disponível, alguns sites podem não ser carregados ou não funcionar corretamente
+preferences-doh-setting-off =
+    .label = Desativado
+    .accesskey = D
+preferences-doh-off-desc = Usar seu resolvedor de DNS padrão
+preferences-doh-manage-exceptions =
+    .label = Gerenciar exceções…
+    .accesskey = x
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Área de trabalho
