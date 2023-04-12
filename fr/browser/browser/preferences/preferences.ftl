@@ -1243,6 +1243,20 @@ preferences-doh-resolver = Fournisseur : { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Adresse invalide
+preferences-doh-expand-section =
+    .tooltiptext = Plus d’informations
+preferences-doh-setting-default =
+    .label = Protection par défaut
+    .accesskey = P
+preferences-doh-setting-enabled =
+    .label = Protection renforcée
+    .accesskey = r
+preferences-doh-setting-strict =
+    .label = Protection maximale
+    .accesskey = m
+preferences-doh-manage-exceptions =
+    .label = Gérer les exceptions…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
