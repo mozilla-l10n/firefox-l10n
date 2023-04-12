@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Εισαγωγή δεδομένων προγράμματος περιήγησης
+migration-wizard-selection-list = Επιλέξτε τα δεδομένα που θέλετε να εισαγάγετε.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -55,6 +56,7 @@ migration-bookmarks-option-label = Σελιδοδείκτες
 migration-favorites-option-label = Αγαπημένα
 migration-logins-and-passwords-option-label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
 migration-history-option-label = Ιστορικό περιήγησης
+migration-form-autofill-option-label = Δεδομένα αυτόματης συμπλήρωσης φορμών
 migration-import-button-label = Εισαγωγή
 migration-cancel-button-label = Ακύρωση
 migration-done-button-label = Τέλος
