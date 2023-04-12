@@ -56,12 +56,12 @@ neterror-dns-not-found-hint-firewall = چیک کرو جو { -brand-short-name } 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } اساݙے قابل اعتماد DNS حل کنندہ دے ذریعے ایں سائٹ دے پتے کیتے تہاݙی درخواست دی حفاظت نہیں کر سڳدا۔ اتھاں کیوں ہے:
-neterror-dns-not-found-trr-only-attackers = جے تساں جاری رکھیندے او، تاں تریجھا فریق ایہ ݙیکھݨ دے قابل تھی سڳدا ہے جو تساں کیڑھیاں سائٹاں تے ویندے او یا تہاکوں غیر بھروسہ مند سائٹ تے بھیڄیندے او۔
 neterror-dns-not-found-trr-third-party-warning = تساں ڈی این ایس حل کرݨ آلے نال جاری رکھ سڳدے ہو جہڑا محفوظ کائنی۔ ول وی تریجھا فریق ایہ ݙیکھݨ دے قابل تھی سڳدے جو تساں کہڑیاں ویب سائٹاں تے ویندے ہو۔
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } نال جڑݨ دے قابل کائنا ہا۔
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } نال کنکشن وِچ توقع توں زیادہ وقت لڳا۔
 neterror-dns-not-found-trr-offline = تساں انٹرنیٹ نال منسلک کائنوے۔
 neterror-dns-not-found-trr-unknown-host = ایں ویب سائٹ دا پتہ { $trrDomain } کوں نہیں ملیا۔
+neterror-dns-not-found-trr-unknown-host2 = ایہ ویب سائٹ { $trrDomain } کنوں کائناں لبھی ہائی۔
 neterror-dns-not-found-trr-server-problem = { $trrDomain } دے نال ہک مسئلہ ہا۔
 neterror-dns-not-found-trr-unknown-problem = غیر متوقع مسئلہ
 
@@ -70,9 +70,7 @@ neterror-dns-not-found-trr-unknown-problem = غیر متوقع مسئلہ
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } اساݙے قابل اعتماد DNS حل کنندہ دے ذریعے ایں سائٹ دے پتے کیتے تہاݙی درخواست دی حفاظت نہیں کر سڳدا۔ اتھاں کیوں ہے:
-neterror-dns-not-found-native-fallback-attackers = تساں ڈی این ایس حل کرݨ آلے نال جاری رکھ سڳدے ہو جہڑا محفوظ کائنی۔ ول وی تریجھا فریق ایہ ݙیکھݨ دے قابل تھی سڳدے جو تساں کہڑیاں ویب سائٹاں تے ویندے ہو یا تہاکوں بے اعتباری سائٹ تے بھیڄیندے۔
 neterror-dns-not-found-native-fallback-heuristic = تہاݙے نیٹ ورک تے HTTPs تے ڈی این ایس غیرفعال کر ݙتا ڳئے۔
-neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } کیتے کنکشن اڄݨ تیار کائنی۔
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } نال جڑݨ دے قابل کائنا ہا۔
 
 ##

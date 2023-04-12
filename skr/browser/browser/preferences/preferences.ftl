@@ -1214,11 +1214,38 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = حالت: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = مہیا کرݨ آلا: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = غلط یوآرایل
 preferences-doh-status-active = فعال
 preferences-doh-status-disabled = بند
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = فعال کائنی  ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = ودھیک معلومات
+preferences-doh-setting-default =
+    .label = طے شدہ حفاظت
+    .accesskey = D
+preferences-doh-setting-enabled =
+    .label = ودھائی ہوئی حفاظت
+    .accesskey = I
+preferences-doh-setting-strict =
+    .label = ودھ کنوں ودھ حفاظت
+    .accesskey = M
 preferences-doh-setting-off =
     .label = بند
     .accesskey = O
+preferences-doh-select-resolver = مہیا کار چݨو…
+preferences-doh-manage-exceptions =
+    .label = مستثنیات کوں منظم کرو …
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 

@@ -235,6 +235,8 @@ cfr-cbh-dismiss-button = ہݨ کائناں
 july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
 july-jam-body = ہر مہینے، { -brand-short-name } فی صارف اوسطاً 3,000 کنوں ودھ ٹریکر بلاک کریندے۔ جہڑا تہاکوں چنگے انٹرنیٹ تائیں محفوظ، تیز رفتار رسائی فراہم کریندے۔
 july-jam-set-default-primary = { -brand-short-name } دے نال میݙے لنک کھولو
+fox-doodle-pin-headline = واپسی تے ست بسم اللہ
+fox-doodle-pin-primary = { -brand-short-name } دے نال میݙے لنک کھولو
 fox-doodle-pin-secondary = ہݨ کائناں
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
