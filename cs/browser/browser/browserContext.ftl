@@ -334,7 +334,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-suggest-strong-password =
-    .label = Navrhnou bezpečně vygenerované heslo…
+    .label = Navrhnout bezpečně vygenerované heslo…
     .accesskey = g
 main-context-menu-manage-logins2 =
     .label = Správa přihlašovacích údajů
