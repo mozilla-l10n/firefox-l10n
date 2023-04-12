@@ -1271,6 +1271,22 @@ preferences-doh-enabled-detailed-desc-2 = Dopre il to risolvidôr di DNS predefi
 preferences-doh-setting-strict =
     .label = Protezion massime
     .accesskey = m
+preferences-doh-strict-desc = { -brand-short-name } al doprarà simpri un DNS sigûr. Tu viodarâs un avîs sui risis di sigurece prime di doprâ il to DNS di sisteme.
+preferences-doh-strict-detailed-desc-1 = Dopre dome il furnidôr che tu âs selezionât
+preferences-doh-strict-detailed-desc-2 = Vise simpri se il DNS sigûr nol è disponibil
+preferences-doh-strict-detailed-desc-3 = Se il DNS sigûr nol è disponibil i sîts no si cjariaran o no funzionaran ben
+preferences-doh-setting-off =
+    .label = Disativât
+    .accesskey = O
+preferences-doh-off-desc = Dopre il to risolvidôr DNS predefinît
+preferences-doh-checkbox-warn =
+    .label = Vise se une tierce part e impedìs di doprâ il DNS sigûr
+    .accesskey = W
+preferences-doh-select-resolver = Sielç il furnidôr:
+preferences-doh-exceptions-description = { -brand-short-name } nol doprarà il DNS sigûr su chescj sîts
+preferences-doh-manage-exceptions =
+    .label = Gjestìs ecezions…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
