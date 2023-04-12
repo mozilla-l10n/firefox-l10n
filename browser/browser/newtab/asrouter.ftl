@@ -107,7 +107,7 @@ cfr-doorhanger-doh-secondary-button = از کار انداختن
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = حریم‌خصوصی شما مهم است. { -brand-short-name } حالا وب‌سایت‌ها را از همدیگر ایزوله یا در محیط جداگانه قرار می‌دهد، که کار هکرها را برای دزدین گذرواژه‌ها، کارت‌های اعتباری و سایر اطلاعات حساس سخت‌تر می‌کند.
+cfr-doorhanger-fission-body-approved = حریم خصوصی شما مهم است. { -brand-short-name } هم‌اکنون وبگاه‌ها را منزوی می‌کند یا در جعبهٔ شنی قرار می‌دهد، که کار رخنه‌گران را برای دزدین گذرواژه‌ها، کارت‌های اعتباری و سایر اطلاعات حساس سخت‌تر می‌کند.
 cfr-doorhanger-fission-header = ایزوله‌سازی سایت
 cfr-doorhanger-fission-primary-button = باشه،‌ متوجه شدم
     .accesskey = O
