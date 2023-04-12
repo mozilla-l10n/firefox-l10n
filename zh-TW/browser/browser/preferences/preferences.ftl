@@ -1220,10 +1220,10 @@ httpsonly-radio-disabled =
 preferences-doh-header = DNS over HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
-preferences-doh-status = 狀態: { $status }
+preferences-doh-status = 狀態：{ $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
-preferences-doh-resolver = 提供者: { $name }
+preferences-doh-resolver = 提供者：{ $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = 網址無效
@@ -1233,7 +1233,7 @@ preferences-doh-status-disabled = 關閉
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = 未啟用（{ $reason }）
-preferences-doh-group-message = 使用下列方式開啟安全 DNS 功能:
+preferences-doh-group-message = 使用下列方式開啟安全 DNS 功能：
 preferences-doh-expand-section =
     .tooltiptext = 更多資訊
 preferences-doh-setting-default =
@@ -1257,6 +1257,12 @@ preferences-doh-setting-strict =
 preferences-doh-strict-desc = { -brand-short-name } 總是會使用安全 DNS。若我們需要使用系統 DNS 時，您會看到安全性警告。
 preferences-doh-strict-detailed-desc-1 = 只使用您選擇的提供者
 preferences-doh-strict-detailed-desc-2 = 安全 DNS 無法使用時總是警告我
+preferences-doh-strict-detailed-desc-3 = 若無法使用安全 DNS，就不開啟網站或無法正常運作
+preferences-doh-setting-off =
+    .label = 關閉
+    .accesskey = O
+preferences-doh-off-desc = 使用您系統預設的 DNS 解析器
+preferences-doh-select-resolver = 選擇提供者：
 
 ## The following strings are used in the Download section of settings
 
