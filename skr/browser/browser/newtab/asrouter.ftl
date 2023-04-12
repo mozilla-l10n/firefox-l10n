@@ -224,25 +224,6 @@ colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = کوکی بینرز شروع تھی ڳئے!
-cfr-cookiebanner-body = ڄݙݨ ممکن ہووے { -brand-short-name } کوں آپݨے آپ ساریاں کوکی بینر ارداساں مسترد کرݨ دی اجازت ݙیوو۔
-cfr-cookiebanner-accept-button-v2 = ارداساں مسترد کرو
-    .accesskey = R
-cfr-cookiebanner-reject-button = ہݨ کائناں
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = تھوڑیاں پوپ اپاں کوکی ݙیکھو
-cfr-cookiebanner-body-variant-1 = { -brand-short-name } کوں خودبخود تہاݙے کیتے کوکی پوپ اپاں دا جواب ݙیوݨ ݙیوو تاں جو تساں کہیں خلفشار دے بغیر براؤزنگ تے ون٘ڄ سڳو۔ ممکن ہویا تاں { -brand-short-name } ساریاں ارداساں مسترد کر ݙیسی۔
-cfr-cookiebanner-accept-button-variant-1 = پوپ اپ فارغ کرو
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = کو، شکریہ
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = کوکی بینر گھٹاوݨ
-cfr-cookiebanner-body-variant-2 = جے ممکن ہووے تاں { -brand-short-name } ویب سائٹ کوکی رضامندی ارداس مسترد کرݨ دی اجازت ݙے تے تہاکوں نظرݨ آلے کوکی بینراں دی تعداد گھٹاؤ۔
-cfr-cookiebanner-accept-button-variant-2 = اجازت ݙیوو
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-2 = ہݨ کائناں
-    .accesskey = N
 cfr-cbh-header = { -brand-short-name } کوں کوکی بینراں مسترد کرݨ دی اجازت ݙیوں؟
 cfr-cbh-confirm-button = کوکی بینراں کوں مسترد کرو
     .accesskey = R
@@ -254,6 +235,7 @@ cfr-cbh-dismiss-button = ہݨ کائناں
 july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
 july-jam-body = ہر مہینے، { -brand-short-name } فی صارف اوسطاً 3,000 کنوں ودھ ٹریکر بلاک کریندے۔ جہڑا تہاکوں چنگے انٹرنیٹ تائیں محفوظ، تیز رفتار رسائی فراہم کریندے۔
 july-jam-set-default-primary = { -brand-short-name } دے نال میݙے لنک کھولو
+fox-doodle-pin-secondary = ہݨ کائناں
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

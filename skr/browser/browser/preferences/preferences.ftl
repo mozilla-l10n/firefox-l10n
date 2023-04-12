@@ -1212,6 +1212,14 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = HTTPS-Only Mode فعال نہ کرو
 
+## DoH Section
+
+preferences-doh-status-active = فعال
+preferences-doh-status-disabled = بند
+preferences-doh-setting-off =
+    .label = بند
+    .accesskey = O
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسک ٹاپ
