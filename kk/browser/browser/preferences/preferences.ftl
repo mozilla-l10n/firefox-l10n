@@ -1231,6 +1231,27 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Тек-HTTPS режимін іске қоспау
 
+## DoH Section
+
+preferences-doh-header = HTTPS арқылы DNS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Күйі: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Провайдер: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Жарамсыз URL
+preferences-doh-steering-status = Жергілікті провайдерді пайдалану
+preferences-doh-status-active = Белсенді
+preferences-doh-status-disabled = Сөндірулі
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Белсенді емес ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = Көбірек ақпарат
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Жұмыс үстелі
