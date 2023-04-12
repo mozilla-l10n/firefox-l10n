@@ -1262,7 +1262,14 @@ preferences-doh-setting-off =
     .label = 關閉
     .accesskey = O
 preferences-doh-off-desc = 使用您系統預設的 DNS 解析器
+preferences-doh-checkbox-warn =
+    .label = 若有第三方系統主動封鎖安全 DNS 時警告我
+    .accesskey = W
 preferences-doh-select-resolver = 選擇提供者：
+preferences-doh-exceptions-description = { -brand-short-name } 將不對下列網站使用安全 DNS
+preferences-doh-manage-exceptions =
+    .label = 管理例外網站…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
