@@ -226,25 +226,6 @@ colorways-cfr-header-today = Bağımsız Sesler renk kuşakları bugün kullanı
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Çerez bildirimlerine son!
-cfr-cookiebanner-body = { -brand-short-name } tarayıcınızın mümkün olduğunda tüm çerez bildirimi isteklerini otomatik reddetmesine izin verin.
-cfr-cookiebanner-accept-button-v2 = İstekleri reddet
-    .accesskey = R
-cfr-cookiebanner-reject-button = Şimdi değil
-    .accesskey = m
-cfr-cookiebanner-header-variant-1 = Daha az çerez bildirimi görün
-cfr-cookiebanner-body-variant-1 = Dikkatiniz dağılmadan gezinmeniz için { -brand-short-name }, çerez bildirimlerini otomatik olarak yanıtlayabilir. { -brand-short-name }, mümkün olduğu sürece tüm istekleri reddedecektir.
-cfr-cookiebanner-accept-button-variant-1 = Bildirimleri kapat
-    .accesskey = B
-cfr-cookiebanner-reject-button-variant-1 = Hayır, gerek yok
-    .accesskey = H
-cfr-cookiebanner-header-variant-2 = Çerez bildirimlerini azaltın
-cfr-cookiebanner-body-variant-2 = { -brand-short-name }, mümkün olduğunda web sitelerinin çerez onayı taleplerini reddederek, gördüğünüz çerez bildirimlerini azaltabilir.
-cfr-cookiebanner-accept-button-variant-2 = İzin ver
-    .accesskey = z
-cfr-cookiebanner-reject-button-variant-2 = Şimdi değil
-    .accesskey = m
 cfr-cbh-header = { -brand-short-name } çerez bildirimlerini reddedebilsin mi?
 cfr-cbh-body = { -brand-short-name } birçok çerez bildirimi isteğini otomatik olarak reddedebilir.
 cfr-cbh-confirm-button = Çerez bildirimlerini reddet
@@ -257,6 +238,9 @@ cfr-cbh-dismiss-button = Şimdi değil
 july-jam-headline = Sizi koruyoruz
 july-jam-body = { -brand-short-name }, her ay kullanıcı başına ortalama 3.000 takip kodunu engelleyerek internete güvenli ve hızlı erişim sağlıyor.
 july-jam-set-default-primary = Bağlantılarımı { -brand-short-name } ile aç
+fox-doodle-pin-headline = Yeniden hoş geldiniz
+fox-doodle-pin-primary = Bağlantılarımı { -brand-short-name } ile aç
+fox-doodle-pin-secondary = Şimdi değil
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

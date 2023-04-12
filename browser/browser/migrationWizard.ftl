@@ -87,6 +87,8 @@ migration-wizard-progress-icon-completed =
     .aria-label = Tamamlandı
 migration-safari-password-import-header = Parolaları Safari’den içe aktar
 migration-safari-password-import-steps-header = Safari parolalarını içe aktarmak için:
+migration-safari-password-import-step1 = Safari’de “Safari” menüsünü açıp Tercihler > Parolalar’a gidin
+migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> düğmesini seçip “Tüm Parolaları Dışa Aktar”ı seçin
 migration-safari-password-import-step3 = Parola dosyasını kaydedin
 migration-safari-password-import-skip-button = Geç
 migration-safari-password-import-select-button = Dosya seç
@@ -123,4 +125,6 @@ migration-wizard-progress-success-passwords =
        *[other] { $quantity } parola
     }
 migration-wizard-progress-success-formdata = Form geçmişi
+migration-wizard-safari-permissions-sub-header = Safari yer işaretlerini ve gezinti geçmişini içe aktarmak için:
+migration-wizard-safari-instructions-folder = Listeden Safari klasörünü seçip “Aç”ı seçin
 migration-wizard-safari-select-button = Dosya seç

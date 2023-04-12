@@ -1229,6 +1229,46 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Yalnızca HTTPS modunu etkinleştirme
 
+## DoH Section
+
+preferences-doh-header = HTTPS üzerinden DNS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Durum: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Sağlayıcı: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Geçersiz URL
+preferences-doh-steering-status = Yerel sağlayıcı kullanılıyor
+preferences-doh-status-active = Etkin
+preferences-doh-status-disabled = Kapalı
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Etkin değil ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = Daha fazla bilgi
+preferences-doh-setting-default =
+    .label = Varsayılan koruma
+    .accesskey = V
+preferences-doh-setting-enabled =
+    .label = Artırılmış koruma
+    .accesskey = A
+preferences-doh-enabled-detailed-desc-1 = Kendi seçtiğiniz sağlayıcıyı kullanın
+preferences-doh-setting-strict =
+    .label = Maksimum koruma
+    .accesskey = M
+preferences-doh-strict-detailed-desc-1 = Sadece seçtiğiniz sağlayıcıyı kullanın
+preferences-doh-setting-off =
+    .label = Kapalı
+    .accesskey = K
+preferences-doh-off-desc = Varsayılan DNS çözümleyicinizi kullanın
+preferences-doh-select-resolver = Sağlayıcı seçin:
+preferences-doh-manage-exceptions =
+    .label = İstisnaları yönet…
+    .accesskey = s
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Masaüstü
