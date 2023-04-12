@@ -1238,6 +1238,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
+preferences-doh-description = DNS-opslag foretaget med DNS vis HTTPS sender din forespørgsel efter et domænenavn via en krypteret forbindelse. På denne måde håndteres DNS sikkert, og det bliver sværere for andre at se, hvilket websted du har tænkt dig at besøge.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
@@ -1256,6 +1257,7 @@ preferences-doh-status-not-active = Ikke aktiv ({ $reason })
 preferences-doh-group-message = Aktiver sikker DNS ved at bruge:
 preferences-doh-expand-section =
     .tooltiptext = Mere information
+preferences-doh-default-desc = { -brand-short-name } beslutter, hvornår sikker DNS skal anvendes for at beskytte dit privatliv.
 preferences-doh-default-detailed-desc-1 = Brug sikker DNS i lande, hvor det er tilgængeligt
 preferences-doh-default-detailed-desc-3 = Brug om muligt en lokal udbyder
 preferences-doh-default-detailed-desc-4 = Slå fra, når VPN, forældrekontrol eller virksomhedspolitikker er slået til
@@ -1274,7 +1276,6 @@ preferences-doh-strict-detailed-desc-3 = Hvis sikker DNS ikke er tilgængelig, v
 preferences-doh-setting-off =
     .label = Fra
     .accesskey = F
-preferences-doh-exceptions-description = { -brand-short-name } vil ikke bruge sikker DNS på disse websteder
 preferences-doh-manage-exceptions =
     .label = Håndter undtagelser…
     .accesskey = u
