@@ -1223,6 +1223,27 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = לא להפעיל מצב HTTPS בלבד
 
+## DoH Section
+
+preferences-doh-header = ‏DNS על גבי HTTPS
+preferences-doh-description = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, יוצרת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = מצב: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = ספק: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = כתובת לא תקנית
+preferences-doh-steering-status = שימוש בספק מקומי
+preferences-doh-status-active = פעיל
+preferences-doh-status-disabled = כבוי
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = לא פעיל ({ $reason })
+preferences-doh-group-message = הפעלת DNS מאובטח באמצעות:
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = שולחן עבודה
