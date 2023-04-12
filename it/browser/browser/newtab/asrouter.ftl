@@ -293,3 +293,4 @@ fox-doodle-pin-secondary = Non adesso
 
 set-default-pdf-handler-headline = <strong>Ora puoi aprire i tuoi PDF in { -brand-short-name }.</strong> Modifica o firma i moduli direttamente nel tuo browser. Per iniziare, cerca “PDF” nelle impostazioni.
 set-default-pdf-handler-primary = OK
+
