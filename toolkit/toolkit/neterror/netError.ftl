@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = Verifique que { -brand-short-name } tenga
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } no puede proteger su solicitud de la dirección de este sitio a través de nuestro sistema de resolución de DNS de confianza. Aquí el motivo:
-neterror-dns-not-found-trr-only-attackers = Si continúa, un tercero podría ver qué sitios web visita o enviarlo a un sitio que no es de confianza.
 neterror-dns-not-found-trr-third-party-warning = Se puede continuar con un resolvedor de DNS que no es seguro. Sin embargo, un tercero podría ser capaz de ver los sitios web que visite.
+neterror-dns-not-found-trr-third-party-warning2 = Se puede continuar con el resolvedor de DNS predeterminado. Sin embargo, un tercero podría ser capaz de ver los sitios web que visite.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } no pudo conectarse a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La conexión a { $trrDomain } tomó más tiempo de lo esperado.
 neterror-dns-not-found-trr-offline = No está conectado a Internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } no encontró una dirección para este sitio web.
+neterror-dns-not-found-trr-unknown-host2 = El sitio web no fue encontrado por { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Hubo un problema con { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } no puede proteger su solicitud de la dirección de este sitio a través de nuestro sistema de resolución de DNS de confianza. Aquí el motivo:
-neterror-dns-not-found-native-fallback-attackers = Se puede continuar con un resolvedor de DNS que no sea seguro. Sin embargo, un tercero podría ser capaz de ver los sitios web que se visiten o enviarlo a un sitio no confiable.
 neterror-dns-not-found-native-fallback-heuristic = DNS sobre HTTPS ha sido deshabilitado en la red.
-neterror-dns-not-found-native-fallback-not-confirmed = La conexión a { $trrDomain } aún no está lista.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } no pudo conectarse a { $trrDomain }.
 
 ##
