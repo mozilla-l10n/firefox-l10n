@@ -46,9 +46,9 @@ neterror-captive-portal = Tu debe aperir session in iste rete ante que tu pote a
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Intende tu ir a <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Si tu ha inserite le adresse correcte, tu pote:</strong>
-neterror-dns-not-found-hint-try-again = Retenta plus tarde
-neterror-dns-not-found-hint-check-network = Controla tu connexion de rete
-neterror-dns-not-found-hint-firewall = Verifica que { -brand-short-name } ha permission pro acceder al web (tu poterea esser connectite, ma detra un firewall)
+neterror-dns-not-found-hint-try-again = Retentar plus tarde
+neterror-dns-not-found-hint-check-network = Verificar tu connexion al rete
+neterror-dns-not-found-hint-firewall = Verificar que { -brand-short-name } ha permission pro acceder al web (tu poterea esser connectite, ma detra un firewall)
 
 ## TRR-only specific messages
 ## Variables:
