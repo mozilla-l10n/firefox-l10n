@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = Перевірити чи { -brand-short-
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } не може захистити ваш запит для адреси цього сайту через нашу довірену службу DNS. Ось чому:
-neterror-dns-not-found-trr-only-attackers = Якщо ви продовжите, треті особи матимуть змогу бачити, які вебсайти ви відвідуєте й переспрямовувати вас на хибний сайт.
 neterror-dns-not-found-trr-third-party-warning = Ви можете продовжити роботу з небезпечною DNS-службою. Однак, сторонні можуть мати змогу бачити відвідувані вами вебсайти.
+neterror-dns-not-found-trr-third-party-warning2 = Ви можете продовжити роботу з типовим DNS-перетворювачем. Однак, сторонні можуть мати змогу бачити відвідувані вами вебсайти.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не зміг встановити з'єднання з { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = З'єднання з { $trrDomain } тривало довше, ніж очікувалося.
 neterror-dns-not-found-trr-offline = Ви не під'єднані до інтернету.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } не знайшов адресу для цього сайту.
+neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } не може знайти цей вебсайт.
 neterror-dns-not-found-trr-server-problem = Виникла проблема з { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Неочікувана проблема.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Неочікувана пробле
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не може захистити ваш запит для адреси цього сайту через нашу довірену службу DNS. Ось чому:
-neterror-dns-not-found-native-fallback-attackers = Ви можете продовжити роботу з DNS-службою, що не є безпечною. Однак, сторонні особи можуть мати змогу бачити відвідувані вами вебсайти, або спрямовувати вас на небезпечні сайти.
 neterror-dns-not-found-native-fallback-heuristic = DNS через HTTPS було вимкнено у вашій мережі.
-neterror-dns-not-found-native-fallback-not-confirmed = З'єднання з { $trrDomain } ще не готове.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } не зміг встановити з'єднання з { $trrDomain }.
 
 ##
