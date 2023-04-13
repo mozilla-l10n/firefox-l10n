@@ -218,6 +218,7 @@ permissions-site-speaker-window =
     .title = Налады - Дазволы дынамікаў
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Наступныя сайты запыталі дазвол на выбар прылады вываду гуку. Вы можаце ўказаць, якім сайтам дазволена выбіраць прыладу вываду гуку.
+permissions-exceptions-manage-doh-desc = { -brand-short-name } не будзе выкарыстоўваць бяспечны DNS на гэтых сайтах і іх субдаменах.
 permissions-doh-entry-field = Увядзіце даменнае імя сайта
     .accesskey = в
 permissions-doh-add-exception =
