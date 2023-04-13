@@ -1261,6 +1261,14 @@ preferences-doh-setting-default =
 preferences-doh-default-desc = { -brand-short-name } decide cuándo usar DNS seguro para proteger su privacidad.
 preferences-doh-default-detailed-desc-1 = Usar DNS seguro en regiones donde esté disponible
 preferences-doh-default-detailed-desc-2 = Use la resolución de DNS predeterminada si hay un problema con el proveedor de DNS seguro
+preferences-doh-default-detailed-desc-3 = Usar un proveedor local si es posible
+preferences-doh-default-detailed-desc-4 = Desactivar cuando una VPN, control parental o políticas de empresa estén activas
+preferences-doh-default-detailed-desc-5 = Desactivar cuando una red le diga a { -brand-short-name } que no debería usar DNS seguro
+preferences-doh-setting-enabled =
+    .label = Protección aumentada
+    .accesskey = i
+preferences-doh-enabled-desc = Usted controla cuándo usar DNS seguro y elige su proveedor.
+preferences-doh-enabled-detailed-desc-1 = Usar el proveedor seleccionado
 
 ## The following strings are used in the Download section of settings
 
