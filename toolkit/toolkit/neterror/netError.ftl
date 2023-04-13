@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = Controleren of { -brand-short-name } toes
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan uw aanvraag om het adres van deze website niet beschermen via onze vertrouwde DNS-resolver. Dit is de reden:
-neterror-dns-not-found-trr-only-attackers = Als u doorgaat, kan een derde partij mogelijk zien welke websites u bezoekt of u naar een niet-vertrouwde website sturen.
 neterror-dns-not-found-trr-third-party-warning = U kunt doorgaan met een DNS-resolver die niet veilig is. Een derde partij kan echter mogelijk zien welke websites u bezoekt.
+neterror-dns-not-found-trr-third-party-warning2 = U kunt doorgaan met uw standaard DNS-resolver. Een derde partij kan echter mogelijk zien welke websites u bezoekt.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kon geen verbinding maken met { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = De verbinding met { $trrDomain } duurde langer dan verwacht.
 neterror-dns-not-found-trr-offline = U bent niet verbonden met het internet.
 neterror-dns-not-found-trr-unknown-host = Er is geen adres voor deze website gevonden door { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = Deze website is niet gevonden door { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Er is een probleem met { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Onverwacht probleem.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Onverwacht probleem.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan uw aanvraag om het adres van deze website niet beschermen via onze vertrouwde DNS-resolver. Dit is de reden:
-neterror-dns-not-found-native-fallback-attackers = U kunt doorgaan met een DNS-resolver die niet veilig is. Een derde partij kan echter mogelijk zien welke websites u bezoekt of u naar een niet-vertrouwde website sturen.
 neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS is uitgeschakeld op uw netwerk.
-neterror-dns-not-found-native-fallback-not-confirmed = De verbinding met { $trrDomain } is nog niet klaar.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kon geen verbinding maken met { $trrDomain }.
 
 ##
