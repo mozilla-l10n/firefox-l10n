@@ -865,6 +865,9 @@ permissions-location-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = t
 permissions-xr = ມຸມມອງສະເໝືອນຈິງ
+permissions-xr-settings =
+    .label = ການຕັ້ງຄ່າ…
+    .accesskey = t
 permissions-camera = ກ້ອງຖ່າຍຮູບ
 permissions-camera-settings =
     .label = ການຕັ້ງຄ່າ…
@@ -875,6 +878,9 @@ permissions-microphone-settings =
     .accesskey = t
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
 permissions-speaker = ການເລືອກລຳໂພງ
+permissions-speaker-settings =
+    .label = ການຕັ້ງຄ່າ…
+    .accesskey = t
 permissions-notification = ການແຈ້ງເຕືອນ
 permissions-notification-settings =
     .label = ການຕັ້ງຄ່າ…
@@ -884,6 +890,9 @@ permissions-notification-pause =
     .label = ຢຸດການແຈ້ງເຕືອນຊົ່ວຄາວຈົນກວ່າ { -brand-short-name } ເລີ່ມເຮັດວຽກໃຫມ່
     .accesskey = n
 permissions-autoplay = ຫຼິ້ນອັດຕະໂນມັດ
+permissions-autoplay-settings =
+    .label = ການຕັ້ງຄ່າ…
+    .accesskey = t
 permissions-block-popups =
     .label = ປິດກັ້ນວິນໂດປັອບອັບ
     .accesskey = ປ
@@ -991,6 +1000,12 @@ preferences-doh-default-desc = { -brand-short-name } ຕັດສິນໃຈວ
 preferences-doh-default-detailed-desc-1 = ໃຊ້ DNS ທີ່ປອດໄພໃນພາກພື້ນທີ່ມັນມີໃຫ້
 preferences-doh-default-detailed-desc-2 = ໃຊ້ຕົວແກ້ໄຂ DNS ເລີ່ມຕົ້ນຂອງທ່ານຖ້າມີບັນຫາກັບຜູ້ໃຫ້ບໍລິການ DNS ທີ່ປອດໄພ
 preferences-doh-default-detailed-desc-3 = ໃຊ້ຜູ້ໃຫ້ບໍລິການທ້ອງຖິ່ນ, ຖ້າເປັນໄປໄດ້
+preferences-doh-setting-off =
+    .label = ປິດ
+    .accesskey = O
+preferences-doh-off-desc = ໃຊ້ຕົວແກ້ໄຂ DNS ເລີ່ມຕົ້ນຂອງທ່ານ
+preferences-doh-select-resolver = ເລືອກຜູ້ໃຫ້ບໍລິການ:
+preferences-doh-exceptions-description = { -brand-short-name } ຈະບໍ່ໃຊ້ DNS ທີ່ປອດໄພຢູ່ໃນເວັບໄຊເຫຼົ່ານີ້
 
 ## The following strings are used in the Download section of settings
 

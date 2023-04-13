@@ -5,6 +5,8 @@
 
 ## Mobile download button strings
 
+spotlight-ios-marketplace-button =
+    .title = ດາວໂຫລດໃນ App Store
 
 ## Firefox Focus promo message strings
 

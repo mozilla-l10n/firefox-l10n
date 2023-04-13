@@ -88,6 +88,9 @@ places-untag-bookmark =
     .label = ລຶບແທັກ
     .accesskey = R
 places-forget-about-this-site-confirmation-title = ລືມກ່ຽວກັບເວັບໄຊທ໌ນີ້
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = ການກະທຳນີ້ຈະລຶບຂໍ້ມູນທັງໝົດທີ່ກ່ຽວຂ້ອງກັບ { $hostOrBaseDomain } ລວມທັງປະຫວັດ, ລະຫັດຜ່ານ, ຄຸກກີ້, ແຄສ ແລະການຕັ້ງຄ່າເນື້ອຫາ. ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການດຳເນີນການຕໍ່?
 places-forget-about-this-site-forget = ລືມ
 places-library =
     .title = ຄັງ
