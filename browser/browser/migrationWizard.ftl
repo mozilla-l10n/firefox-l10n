@@ -80,14 +80,17 @@ migration-list-autofill-label = звесткі аўтазапаўнення
 ##
 
 migration-wizard-progress-header = Імпарт дадзеных
+migration-wizard-progress-done-header = Дадзеныя паспяхова імпартаваны
 migration-wizard-progress-icon-in-progress =
     .aria-label = Імпарт…
 migration-wizard-progress-icon-completed =
     .aria-label = Скончана
 migration-safari-password-import-header = Імпартаваць паролі з Safari
 migration-safari-password-import-steps-header = Каб імпартаваць паролі з Safari:
+migration-safari-password-import-step1 = У Safari адкрыйце меню «Safari» і перайдзіце ў Налады > Паролі
 migration-safari-password-import-step2 = Націсніце кнопку <img data-l10n-name="safari-icon-3dots"/> і абярыце «Экспартаваць усе паролі»
 migration-safari-password-import-step3 = Захавайце файл пароляў
+migration-safari-password-import-step4 = Націсніце «Выбраць файл» ніжэй, каб выбраць файл пароляў, які вы захавалі
 migration-safari-password-import-skip-button = Прапусціць
 migration-safari-password-import-select-button = Выбраць файл
 # Shown in the migration wizard after importing bookmarks from another
@@ -100,6 +103,19 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } закладка
         [few] { $quantity } закладкі
        *[many] { $quantity } закладак
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } абранае
+        [few] { $quantity } абраныя
+       *[many] { $quantity } абраных
     }
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
@@ -124,6 +140,7 @@ migration-wizard-progress-success-history =
        *[many] За апошнія { $maxAgeInDays } дзён
     }
 migration-wizard-progress-success-formdata = Гісторыя формаў
+migration-wizard-safari-permissions-sub-header = Каб імпартаваць закладкі Safari і гісторыю аглядання:
 migration-wizard-safari-instructions-continue = Выберыце «Працягнуць»
 migration-wizard-safari-instructions-folder = Вылучыце ў спісе папку Safari і абярыце «Адкрыць»
 migration-wizard-safari-select-button = Выбраць файл
