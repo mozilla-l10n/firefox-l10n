@@ -1231,6 +1231,10 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Aktivera inte endast HTTPS-läge
 
+## DoH Section
+
+preferences-doh-header = DNS över HTTPS
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivbord
