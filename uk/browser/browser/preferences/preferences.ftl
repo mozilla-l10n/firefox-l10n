@@ -1235,6 +1235,51 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Не вмикати HTTPS-режим
 
+## DoH Section
+
+preferences-doh-header = DNS через HTTPS
+preferences-doh-description = Система доменних імен (DNS) через HTTPS надсилає ваш запит на доменне ім'я через зашифроване з'єднання, створюючи захищену DNS і ускладнюючи іншим користувачам можливість переглянути, до якого вебсайту ви збираєтеся отримати доступ.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Стан: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Постачальник: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Неправильний URL
+preferences-doh-steering-status = За допомогою локального постачальника
+preferences-doh-status-active = Активна
+preferences-doh-status-disabled = Вимкнено
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Неактивна ({ $reason })
+preferences-doh-group-message = Увімкнути захищену DNS використовуючи:
+preferences-doh-expand-section =
+    .tooltiptext = Докладніше
+preferences-doh-setting-default =
+    .label = Типовий захист
+    .accesskey = Т
+preferences-doh-default-desc = { -brand-short-name } вирішує, коли використовувати захищену DNS для захисту вашої приватності.
+preferences-doh-setting-enabled =
+    .label = Підвищений захист
+    .accesskey = П
+preferences-doh-enabled-desc = Ви визначаєте, коли використовувати захищену DNS, і обираєте свого постачальника.
+preferences-doh-enabled-detailed-desc-2 = Ваш типовий DNS-перетворювач використовується, лише якщо є проблема з захищеною DNS
+preferences-doh-strict-desc = { -brand-short-name } завжди використовуватиме захищену DNS. Ви побачите попередження про загрозу безпеці, перш ніж ми використаємо DNS вашої системи.
+preferences-doh-strict-detailed-desc-3 = Якщо захищена DNS недоступна, сайти не завантажуватимуться або не працюватимуть належним чином
+preferences-doh-setting-off =
+    .label = Вимкнено
+    .accesskey = В
+preferences-doh-checkbox-warn =
+    .label = Попереджати, якщо третя сторона активно блокує захищену DNS
+    .accesskey = П
+preferences-doh-select-resolver = Обрати постачальника:
+preferences-doh-exceptions-description = { -brand-short-name } не використовуватиме захищену DNS на цих сайтах
+preferences-doh-manage-exceptions =
+    .label = Керувати винятками…
+    .accesskey = н
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Робочий стіл
