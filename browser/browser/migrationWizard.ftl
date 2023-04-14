@@ -90,6 +90,7 @@ migration-safari-password-import-steps-header = Zo byšće hesła ze Safari impo
 migration-safari-password-import-step1 = Wočińće meni „Safari“ w Safari a přeńdźće k Einstellungen > Passwörter (Nastajenja > Hesła)
 migration-safari-password-import-step2 = Wubjerće tłóčatko <img data-l10n-name="safari-icon-3dots"/> a wubjerće „Alle Passwörter exportieren“
 migration-safari-password-import-step3 = Dataju hesłow składować
+migration-safari-password-import-step4 = Wubjerće „Dataju wubrać“ deleka, zo byšće dataju hesłow wubrał, kotruž sće składował
 migration-safari-password-import-skip-button = Přeskočić
 migration-safari-password-import-select-button = Dataju wubrać
 # Shown in the migration wizard after importing bookmarks from another
@@ -143,6 +144,7 @@ migration-wizard-progress-success-history =
        *[other] Z poslednich { $maxAgeInDays } dnjow
     }
 migration-wizard-progress-success-formdata = Formularna historija
+migration-wizard-safari-permissions-sub-header = Zo byšće zapołožki a přehladowansku historiju Safari importował:
 migration-wizard-safari-instructions-continue = Wubjerće „Pokročować“
 migration-wizard-safari-instructions-folder = Wubjerće rjadowak Safari w lisćinje a potom „Wočinić“
 migration-wizard-safari-select-button = Dataju wubrać
