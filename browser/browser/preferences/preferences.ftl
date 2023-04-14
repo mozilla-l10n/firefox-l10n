@@ -751,14 +751,14 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Trenutno se sinhronizirajo naslednji podatki:
-sync-currently-syncing-bookmarks = Zaznamki
-sync-currently-syncing-history = Zgodovina
-sync-currently-syncing-tabs = Odprti zavihki
-sync-currently-syncing-logins-passwords = Prijave in gesla
-sync-currently-syncing-addresses = Naslovi
-sync-currently-syncing-creditcards = Kreditne kartice
-sync-currently-syncing-addons = Dodatki
-sync-currently-syncing-settings = Nastavitve
+sync-currently-syncing-bookmarks = zaznamki
+sync-currently-syncing-history = zgodovina
+sync-currently-syncing-tabs = odprti zavihki
+sync-currently-syncing-logins-passwords = prijave in gesla
+sync-currently-syncing-addresses = naslovi
+sync-currently-syncing-creditcards = kreditne kartice
+sync-currently-syncing-addons = dodatki
+sync-currently-syncing-settings = nastavitve
 sync-change-options =
     .label = Spremeni …
     .accesskey = S
@@ -780,33 +780,33 @@ sync-choose-what-to-sync-dialog3 =
     .buttonlabelextra2 = Odklopi …
     .buttonaccesskeyextra2 = d
 sync-engine-bookmarks =
-    .label = Zaznamke
+    .label = zaznamke
     .accesskey = m
 sync-engine-history =
-    .label = Zgodovino
+    .label = zgodovino
     .accesskey = d
 sync-engine-tabs =
-    .label = Odprte zavihke
+    .label = odprte zavihke
     .tooltiptext = Seznam odprtih stvari na vseh sinhroniziranih napravah
     .accesskey = Z
 sync-engine-logins-passwords =
-    .label = Prijave in gesla
+    .label = prijave in gesla
     .tooltiptext = Uporabniška imena in gesla, ki ste jih shranili
     .accesskey = P
 sync-engine-addresses =
-    .label = Naslove
+    .label = naslove
     .tooltiptext = Shranjene poštne naslove (samo računalniki)
     .accesskey = s
 sync-engine-creditcards =
-    .label = Kreditne kartice
+    .label = kreditne kartice
     .tooltiptext = Imena, številke in datume veljavnosti (samo računalniki)
     .accesskey = K
 sync-engine-addons =
-    .label = Dodatke
+    .label = dodatke
     .tooltiptext = Razširitve in teme Firefoxa za računalnike
     .accesskey = A
 sync-engine-settings =
-    .label = Nastavitve
+    .label = nastavitve
     .tooltiptext = Splošne nastavitve ter nastavitve zasebnosti in varnosti, ki ste jih spremenili
     .accesskey = s
 
@@ -1236,6 +1236,9 @@ httpsonly-radio-enabled-pbm =
     .label = Omogoči način "samo HTTPS" samo v zasebnih oknih
 httpsonly-radio-disabled =
     .label = Ne omogoči načina "samo HTTPS"
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
