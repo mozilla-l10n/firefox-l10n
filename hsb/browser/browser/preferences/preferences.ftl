@@ -1242,6 +1242,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS přez HTTPS
+preferences-doh-description = System domenowych mjenow (DNS) přez HTTPS waše naprašowanje za domenowym mjenom přez zaklučowane zwisk sćele, wutworja wěsty DNS a poćežujo druhim wosobam widźeć, kotre websydła wopytujeće.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
@@ -1263,6 +1264,7 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Standardny škit
     .accesskey = S
+preferences-doh-default-desc = { -brand-short-name } rozsudźa, hdy wy měł wěsty DNS wužiwać, zo byšće swoju priwatnosć škitał.
 preferences-doh-default-detailed-desc-1 = Wužiwajće wěsty DNS w regionach, hdźež je k dispoziciji
 preferences-doh-default-detailed-desc-3 = Wužiwajće lokalneho poskićowarja, jeli móžno
 preferences-doh-setting-enabled =
