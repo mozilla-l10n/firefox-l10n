@@ -7,6 +7,11 @@ about-logins-page-title = लॉगिन & गुड़किल्ली
 login-filter =
     .placeholder = लॉगिन खोज
 create-login-button = नवीन लॉगिन बनाबू
+about-logins-login-filter =
+    .placeholder = लॉगिन ढूँढूँ
+    .key = F
+create-new-login-button =
+    .title = नवीन लॉगिन बनाबू
 fxaccounts-sign-in-text = अपन गुड़किल्ली दोसर डिवाइस पर पाबू
 fxaccounts-sign-in-sync-button = सिंक करए कलेल साइन-इन करू
 fxaccounts-avatar-button =
@@ -30,6 +35,8 @@ about-logins-menu-menuitem-help = मदति
 
 login-list =
     .aria-label = लॉगिन मैच कए रहल जाँच
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } लॉगिन
@@ -92,6 +99,11 @@ login-item-time-changed = आखिरी रूपांतरण: { DATETIME($
 login-item-time-created = बनाएल गेल: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = आखिरी उपयोग: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -127,6 +139,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ई लॉगिन केँ हटाबू?
 confirm-delete-dialog-message = ई क्रिया घुराबल नहि जाए सकैत अछि.
 about-logins-confirm-remove-dialog-confirm-button = हटाउ
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] हटाउ
@@ -147,6 +163,9 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] सभ डिवाइस सँ लॉगिन { $count } हटाउ?
        *[other] सभ डिवाइस सँ सभ लॉगिन { $count } हटाउ?
     }
+
+##
+
 about-logins-confirm-export-dialog-title = लॉगिन आओर गुड़किल्ली निर्यात करू
 about-logins-confirm-export-dialog-confirm-button = निर्यात…
 about-logins-alert-import-title = आयात भ' गेल
