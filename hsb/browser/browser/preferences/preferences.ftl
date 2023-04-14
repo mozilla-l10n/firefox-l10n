@@ -751,6 +751,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Synchronizujeće tuchwilu slědowace zapiski:
+sync-syncing-across-devices-heading = Synchronizujeće tute zapiski přez wšě waše zwjazane graty:
 sync-currently-syncing-bookmarks = Zapołožki
 sync-currently-syncing-history = Historija
 sync-currently-syncing-tabs = Wočinjene rajtarki
@@ -779,6 +780,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Dźělić
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Změny na lisćinje zapiskow, kotrež so maja synchronizować, so na wšěch wašich zwjazanych gratach wotbłyšćuja.
 sync-engine-bookmarks =
     .label = Zapołožki
     .accesskey = Z

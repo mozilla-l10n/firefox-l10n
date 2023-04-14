@@ -217,6 +217,7 @@ permissions-site-microphone-disable-desc = To budźe websydła, kotrež horjeka 
 permissions-site-speaker-window =
     .title = Nastajenja - prawa wótřerěčaka
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Slědowace websydła su wo to prosyli, zo bychu grat za awdiowudaće wubrali. Móžeće podać, kotre websydła smědźa grat za awdiowudaće wubrać.
 permissions-exceptions-doh-window =
     .title = Websydłowe wuwzaća za DNS over HTTPS
     .style = { permissions-window2.style }
