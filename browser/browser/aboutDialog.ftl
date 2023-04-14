@@ -19,6 +19,7 @@ update-failed = अद्यतन विफल. <label data-l10n-name="failed-l
 update-failed-main = अद्यतन विफल. <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड करू </a>
 update-adminDisabled = अद्यतन केँ अहाँक सिस्टम प्रशासक क द्वारा निष्क्रिय कएल गेल अछि
 update-noUpdatesFound = { -brand-short-name } अद्यतन अछि
+aboutdialog-update-checking-failed = अपडेट जाँचए में बिफल.
 update-otherInstanceHandlingUpdates = { -brand-short-name } केँ दोसर इंस्टांस केर द्वारा अद्यतन कएल जाए रहल अछि
 update-manual = अद्यतन एतय मोजुद अछि <label data-l10n-name="manual-link"/>
 update-unsupported = अहाँ एहि तंत्र पर आगाँ अद्यतन नहि कए सकैत अछि.<label data-l10n-name="unsupported-link">बेसी जानू</label>
