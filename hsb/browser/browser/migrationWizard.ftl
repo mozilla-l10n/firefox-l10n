@@ -87,6 +87,8 @@ migration-wizard-progress-icon-completed =
     .aria-label = Dokónčeny
 migration-safari-password-import-header = Hesła ze Safari importować
 migration-safari-password-import-steps-header = Zo byšće hesła ze Safari importował:
+migration-safari-password-import-step1 = Wočińće meni „Safari“ w Safari a přeńdźće k Einstellungen > Passwörter (Nastajenja > Hesła)
+migration-safari-password-import-step2 = Wubjerće tłóčatko <img data-l10n-name="safari-icon-3dots"/> a wubjerće „Alle Passwörter exportieren“
 migration-safari-password-import-step3 = Dataju hesłow składować
 migration-safari-password-import-skip-button = Přeskočić
 migration-safari-password-import-select-button = Dataju wubrać
