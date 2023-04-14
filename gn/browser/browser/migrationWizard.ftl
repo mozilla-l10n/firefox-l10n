@@ -61,6 +61,7 @@ migration-import-button-label = Mba’egueru
 migration-cancel-button-label = Heja
 migration-done-button-label = Apopyre
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ndojuhúi apopyre orekóva mba’ekuaarã techaukaha, tembiasakue térã ñe’ẽñemi rehegua.
+migration-wizard-import-browser-no-resources = Oiko jejavy. { -brand-short-name } ndojuhúi mba’ekuaarã omba’egueru hag̃ua kundahára mba’ete guive.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -86,7 +87,10 @@ migration-wizard-progress-icon-completed =
     .aria-label = Opámava
 migration-safari-password-import-header = Emba’egueru Safari ñe’ẽñemi
 migration-safari-password-import-steps-header = Emba’egueru hag̃ua Safari ñe’ẽñemi:
+migration-safari-password-import-step1 = Safari ndive, embojuruja “Safari” poravorã ha eho Guerohoryvévape > Ñe’ẽñemi
+migration-safari-password-import-step2 = Eipuru votõ <img data-l10n-name="safari-icon-3dots"/> ha eiporavo “Ñe’ẽñemi Jeguerupaite”
 migration-safari-password-import-step3 = Eñongatu ñe’ẽñemi marandurenda
+migration-safari-password-import-step4 = Eipuru “Marandurenda jeporavo” ehecha hag̃ua ñe’ẽñemi eñongatuséva
 migration-safari-password-import-skip-button = Jepo
 migration-safari-password-import-select-button = Eiporavo Marandurenda
 # Shown in the migration wizard after importing bookmarks from another
@@ -121,6 +125,18 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } ñe’ẽñemi
        *[other] { $quantity } ñe’ẽñemi
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Ára eipururamovehague
+       *[other] Ára eipururamovehague { $maxAgeInDays }
+    }
 migration-wizard-progress-success-formdata = Myanyhẽha rembiasakue
+migration-wizard-safari-permissions-sub-header = Emba’egueru hag̃ua Safari kundahára rechaukaha ha rembiasakue:
 migration-wizard-safari-instructions-continue = Eiporavo “Ku’ejey”
+migration-wizard-safari-instructions-folder = Eiporavo Safari marandurenda rysýipe ha eiporavo “Mbojuruja”
 migration-wizard-safari-select-button = Eiporavo Marandurenda

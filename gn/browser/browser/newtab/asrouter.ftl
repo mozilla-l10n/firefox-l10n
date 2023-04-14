@@ -238,6 +238,7 @@ july-jam-headline = Roguereko ñemo’ãpe
 july-jam-body = Peteĩteĩva jasýpe, { -brand-short-name } ojoko hetave 3,000 tapykuehoha puruháragui, ome’ẽva jeike pya’e ha tekorosã Ñandutípe.
 july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
 fox-doodle-pin-headline = Eg̃uahẽporãjey
+fox-doodle-pin-primary = Embojuruja juajuha { -brand-short-name } ndive
 fox-doodle-pin-secondary = Ani ko’ág̃a
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment

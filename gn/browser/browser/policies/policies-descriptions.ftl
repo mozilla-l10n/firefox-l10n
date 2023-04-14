@@ -26,6 +26,8 @@ policy-Bookmarks = Emoheñói techaukaha tembipuru renda rechaukahápe, pe techa
 policy-CaptivePortal = Embojuruja térã eipe’a pe pytyvõha ñapytĩmbýva.
 policy-CertificatesDescription = Embojuaju mboajepyre térã eipuru mboajepyre moingepyre.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Eheka purureko ojokupytýva mba’eryru ndive.
 policy-DisabledCiphers = Embogue papapy.
 policy-DefaultDownloadDirectory = Emoha’eño marandurenda mboguejerã ijypykuéva.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
