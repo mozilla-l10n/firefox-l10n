@@ -41,6 +41,8 @@ options-inspector-draggable-properties-tooltip =
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Выкарыстоўваць спрошчанае падсвятленне з prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Уключае спрошчанае падсвятленне, калі ўключана prefers-reduced-motion. Малюе лініі замест залітых прамавугольнікаў вакол падсветленых элементаў, каб пазбегнуць эфектаў мігцення.
 
 ## "Default Color Unit" options for the Inspector
 
