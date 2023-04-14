@@ -26,6 +26,8 @@ policy-Bookmarks = Zapołožki w symbolowej lajsće zapołožkow, w meniju zapo�
 policy-CaptivePortal = Kaptiwny portal zmóžnić abo znjemóžnić
 policy-CertificatesDescription = Certifikaty přidać abo zatwarjene certifikaty wužiwać.
 policy-Cookies = Websydłam dowolić abo zakazać, placki składować.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Prawidła nastupajo kontejnery postajić
 policy-DisabledCiphers = Šifry znjemóžnić.
 policy-DefaultDownloadDirectory = Nastajće standardny sćehnjenski zapis.
 policy-DisableAppUpdate = Wobhladowakej aktualizowanje zakazać.

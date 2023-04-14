@@ -245,6 +245,9 @@ july-jam-headline = Smy was zapřijeli
 july-jam-body = Kóždy měsac { -brand-short-name } w přerězku wjace hač 3000 přesćěhowakow na wužiwarja blokuje a dawa wam wěst, spěšny přistup k dobremu internetej.
 july-jam-set-default-primary = Moje wotkazy z { -brand-short-name } wočinić
 fox-doodle-pin-headline = Witajće wróćo
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Tu je krótke dopomnjeće, zo móžeće swój najlubši njewotwisny wobhladowak jenož kliknjenje preč měć.
 fox-doodle-pin-primary = Moje wotkazy z { -brand-short-name } wočinić
 fox-doodle-pin-secondary = Nic nětko
 
