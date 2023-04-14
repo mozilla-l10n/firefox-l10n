@@ -50,6 +50,9 @@ migration-selected-data-label = چݨیا ہویا ڈیٹا امپورٹ کرو
 
 migration-select-all-option-label = سارے چݨو
 migration-bookmarks-option-label = نشانیاں
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = من بھان٘دے
 migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
 migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
@@ -64,6 +67,9 @@ migration-done-button-label = تھی ڳیا
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = نشانیاں
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = من بھان٘دے
 migration-list-password-label = پاس ورڈز
 migration-list-history-label = تاریخ
 migration-list-autofill-label = آٹوفل ڈیٹا
@@ -76,6 +82,8 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = درآمد تھیندی پئی اے …
 migration-wizard-progress-icon-completed =
     .aria-label = مکمل تھی ڳیا
+migration-safari-password-import-header = سفاری کنوں پاس ورڈز امپورٹ کرو
+migration-safari-password-import-steps-header = سفاری پاس ورڈز امپورٹ کرݨ کیتے:
 migration-safari-password-import-step3 = پاس ورڈز فائل محفوظ کرو
 migration-safari-password-import-skip-button = چھوڑو
 migration-safari-password-import-select-button = فائل چݨو
@@ -89,6 +97,18 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } نشانی
        *[other] { $quantity } نشانیاں
     }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } من بھان٘دا
+       *[other] { $quantity } من بھان٘دے
+    }
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -98,6 +118,16 @@ migration-wizard-progress-success-passwords =
     { $quantity ->
         [one] { $quantity } پاس ورڈ
        *[other] { $quantity } پاس ورڈ
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] چھیکڑی ݙین٘ہ کنوں
+       *[other] چھیکڑی { $maxAgeInDays } ݙیہاڑیاں کنوں
     }
 migration-wizard-progress-success-formdata = فارم تاریخ
 migration-wizard-safari-permissions-sub-header = سفاری نشانیاں تے براؤزنگ تاریخ امپورٹ کرݨ کیتے:
