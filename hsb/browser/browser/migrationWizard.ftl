@@ -60,6 +60,8 @@ migration-form-autofill-option-label = Daty za awtomatiske wupjelnjenje formular
 migration-import-button-label = Importować
 migration-cancel-button-label = Přetorhnyć
 migration-done-button-label = Dokónčeny
+migration-wizard-import-browser-no-browsers = { -brand-short-name } njemóžeše programy namakać, kotrež daty zapołožkow, historije abo hesłow wobsahować.
+migration-wizard-import-browser-no-resources = Zmylk je nastał. { -brand-short-name } njemóže dasty namakać, kotrež dadźa so z toho profila wobhladowaka importować.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
