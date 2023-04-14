@@ -83,3 +83,5 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = A importar…
 migration-wizard-progress-icon-completed =
     .aria-label = Concluído
+migration-safari-password-import-skip-button = Ignorar
+migration-wizard-safari-select-button = Selecionar Ficheiro
