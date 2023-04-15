@@ -916,6 +916,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Kojqanela' xoch'in taq ruxaq
 sitedata-option-block-cross-site-tracking-cookies =
     .label = kikuki kojqanik xoch'in taq ruxaq
+sitedata-option-block-cross-site-cookies =
+    .label = Taq kikuki kojqanem xoch'in taq ruxaq chuqa' kijech'unik ch'aqa' chik taq kikuki xoch'in taq ruxaq.
 sitedata-option-block-unvisited =
     .label = Taq kuki man etz'eton ta ajkamaya'l taq ruxaq
 sitedata-option-block-all-third-party =
@@ -1186,6 +1188,10 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS chi rij HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = B'anikil: { $status }
 
 ## The following strings are used in the Download section of settings
 
