@@ -19,6 +19,8 @@ fxaccounts-avatar-button =
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = मेनू खोलू
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = दोसर ब्राउजर सँ आयात करू…
 about-logins-menu-menuitem-import-from-a-file = फाइल सँ आयात करू...
@@ -103,6 +105,9 @@ login-item-time-used = आखिरी उपयोग: { DATETIME($timeUsed, da
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-action-created = बनाबू
+login-item-timeline-action-updated = अद्यतन
+login-item-timeline-action-used = उपयोग कुल
 
 ## OS Authentication dialog
 
