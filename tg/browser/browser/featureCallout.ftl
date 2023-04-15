@@ -41,5 +41,5 @@ callout-pdfjs-draw-title = Ҳуҷҷатҳоро бо абзори нақшака
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Ба файлҳои «PDF» ишораҳоро гузоред ва тағйироти худро нигоҳ доред.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-b = Дигар ҳуҷҷатҳоро чоп ва сканер накунед. Ба файлҳои «PDF» ишораҳо гузоред, пас тағйироти худро нигоҳ доред.
+callout-pdfjs-draw-body-b = Дигар ҳуҷҷатҳоро чоп ва аксбардорӣ накунед. Ба файлҳои «PDF» ишораҳо гузоред, пас тағйироти худро нигоҳ доред.
 callout-pdfjs-draw-button = Фаҳмидам!

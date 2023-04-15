@@ -13,6 +13,14 @@
 onboarding-welcome-header = Хуш омадед ба «{ -brand-short-name }»
 onboarding-start-browsing-button-label = Оғоз кардани тамошо
 onboarding-not-now-button-label = Ҳоло не
+mr1-onboarding-get-started-primary-button-label = Оғози кор
+mr1-onboarding-welcome-header = Хуш омадед ба «{ -brand-short-name }»
+mr1-onboarding-set-default-pin-primary-button-label = Таъин кардани «{ -brand-short-name }» ҳамчун браузери асосии ман
+    .title = «{ -brand-short-name }»-ро ҳамчун браузери асосӣ таъин мекунад ва ба навори вазифа мегузорад
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Таъин кардани «{ -brand-short-name }» ҳамчун браузери пешфарзи ман
+mr1-onboarding-set-default-secondary-button-label = Ҳоло не
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Илова кардани «{ $addon-nam
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Оғози кор: экран { $current } аз { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Пешравӣ: қадами { $current } аз { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Ҷило аз ин ҷо оғоз меёбад!
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Сорайя Осорио (Soraya Osorio) — Тарроҳи мебел ва дӯстдори Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Пешравӣ: қадами { $current } аз { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Хомӯш кардани аниматсияҳо
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Оғози кор
-mr1-onboarding-welcome-header = Хуш омадед ба «{ -brand-short-name }»
-mr1-onboarding-set-default-pin-primary-button-label = Таъин кардани «{ -brand-short-name }» ҳамчун браузери асосии ман
-    .title = «{ -brand-short-name }»-ро ҳамчун браузери асосӣ таъин мекунад ва ба навори вазифа мегузорад
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Таъин кардани «{ -brand-short-name }» ҳамчун браузери пешфарзи ман
-mr1-onboarding-set-default-secondary-button-label = Ҳоло не
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Ворид шудан
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -230,7 +229,7 @@ mr2-onboarding-start-browsing-button-label = Оғоз кардани тамош�
 
 onboarding-live-language-header = Забони худро интихоб намоед
 mr2022-onboarding-live-language-text = «{ -brand-short-name }» бо забони шумо ҳарф мезанад
-mr2022-language-mismatch-subtitle = Ба шарофати ҷамъияти умумиҷаҳонии мо, браузери интернетии «{ -brand-short-name }» ба зиёда аз 90 забон тарҷума карда шудааст. Чунин менамояд, ки низоми шумо аз забони «{ $systemLanguage }» истифода мебарад, он вақте ки «{ -brand-short-name }» аз забони «{ $appLanguage }» истифода мебарад.
+mr2022-language-mismatch-subtitle = Ба шарофати ҷамъияти умумиҷаҳонии мо, браузери интернетии «{ -brand-short-name }» ба зиёда аз 90 забон тарҷума карда шудааст. Чунин менамояд, ки низоми шумо аз забони «{ $systemLanguage }» истифода мебарад, он вақте ки браузери «{ -brand-short-name }» аз забони «{ $appLanguage }» истифода мебарад.
 onboarding-live-language-button-label-downloading = Боргирии бастаи забон барои «{ $negotiatedLanguage }»…
 onboarding-live-language-waiting-button = Гирифтани забонҳои дастрас…
 onboarding-live-language-installing = Бастаи забони «{ $negotiatedLanguage }» насб шуда истодааст…
@@ -373,8 +372,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Шумо навовар ҳ
 
 mr2022-onboarding-mobile-download-title = Аз ноутбук ба телефон гузаред ва боз баргардед
 mr2022-onboarding-mobile-download-subtitle = Варақаҳоро аз як дастгоҳ гирифта, кори худро бо онҳо дар дастгоҳи дигар идома диҳед. Илова бар ин, хатбаракҳо ва ниҳонвожаҳои худро дар ҳар ҷое, ки шумо аз «{ -brand-product-name }» истифода мебаред, ҳамоҳанг кунед.
-mr2022-onboarding-mobile-download-cta-text = Барои ба даст овардани «{ -brand-product-name }» дар телефони мобилии худ, рамзи «QR»-ро сканер кунед ё <a data-l10n-name="download-label">пайванди боргириеро ба худ фиристонед.</a>
-mr2022-onboarding-no-mobile-download-cta-text = Барои гирифтани гунаи мобилии «{ -brand-product-name }», рамзи «QR»-ро сканер кунед.
+mr2022-onboarding-mobile-download-cta-text = Барои ба даст овардани «{ -brand-product-name }» дар телефони мобилии худ, рамзи «QR»-ро аксбардорӣ кунед ё <a data-l10n-name="download-label">пайванди боргириеро ба худ фиристонед.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Барои гирифтани гунаи мобилии «{ -brand-product-name }», рамзи «QR»-ро аксбардорӣ кунед.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
