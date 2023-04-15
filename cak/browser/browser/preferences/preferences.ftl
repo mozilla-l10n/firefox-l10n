@@ -1204,6 +1204,12 @@ preferences-doh-status-disabled = Tichup
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Man tzijïlta ({ $reason })
+preferences-doh-group-message = Tatzij ri jikïl DNS rik'in rokisaxik:
+preferences-doh-expand-section =
+    .tooltiptext = Ch'aqa' chik rutzijol
+preferences-doh-setting-default =
+    .label = Chajinïk K'o Wi
+    .accesskey = a
 
 ## The following strings are used in the Download section of settings
 
