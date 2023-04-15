@@ -221,6 +221,7 @@ permissions-site-speaker-desc = Los siguientes sitios web han solicitado selecci
 permissions-exceptions-doh-window =
     .title = Excepciones de sitios web para DNS sobre HTTPS
     .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } no usará DNS seguro en estos sitios y sus subdominios.
 permissions-doh-entry-field = Ingresa el nombre de dominio del sitio web
     .accesskey = d
 permissions-doh-add-exception =

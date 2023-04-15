@@ -1234,6 +1234,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+preferences-doh-description = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Estado: { $status }
@@ -1270,6 +1271,10 @@ preferences-doh-enabled-detailed-desc-2 = Usa solo tu solucionador de DNS predet
 preferences-doh-setting-strict =
     .label = Protección máxima
     .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } siempre usará DNS seguro. Verás una advertencia de riesgo de seguridad antes de que usemos el DNS de tu sistema.
+preferences-doh-strict-detailed-desc-1 = Usar solo el proveedor que elegiste
+preferences-doh-strict-detailed-desc-2 = Avisar siempre si el DNS seguro no está disponible
+preferences-doh-strict-detailed-desc-3 = Si el DNS seguro no está disponible, los sitios no se cargarán ni funcionarán correctamente.
 preferences-doh-setting-off =
     .label = No
     .accesskey = O
