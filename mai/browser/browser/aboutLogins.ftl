@@ -82,6 +82,7 @@ login-item-new-login-title = नवीन लॉगिन बनाबू
 login-item-edit-button = संपादन
 about-logins-login-item-remove-button = हटाबू
 login-item-origin-label = वेबसाइट पता
+login-item-tooltip-message = निश्चित करूँ जे जतए अहाँ लॉगिन कएलहुँ ई पूरा तरहेँ ओहि पता सँ मेल करैत अछि.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = प्रयोक्तानाम
@@ -132,9 +133,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = सहेजल ल
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = सहेजल गेल लॉगिन आओर पासवर्ड देखबाक लेल कृपया प्राईमरी पासवर्ड दर्ज करू
 master-password-reload-button =
     .label = लॉग इन
-    .accesskey = L
+    .accesskey = ल
 
 ## Dialogs
 
@@ -182,6 +184,8 @@ confirm-discard-changes-dialog-confirm-button = छोड़ि दिअ
 ## Breach Alert notification
 
 about-logins-breach-alert-title = वेबसाइट उल्लंघन
+breach-alert-text = अहाँक अंतिम बेर अपन लॉगिन विवरण अपडेट करैत घड़ी एहि वेबसाइट सँ पासवर्ड लीक अथवा चोरी भ गेल छला। अपन खाता क' सुरक्षा ख़ातिर अपन पासवर्ड बदलू।
+about-logins-breach-alert-date = ई उल्लंघन { DATETIME($date, day: "numeric", month: "long", year: "numeric") } पर भेल.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } पर जाउ
@@ -284,6 +288,11 @@ about-logins-import-report-row-description-error-missing-field = त्रुट
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नव लॉगिन जोड़ल गेल </div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = सारांश रिपोट आयात करू
