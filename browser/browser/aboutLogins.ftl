@@ -263,8 +263,12 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = संपन्न
 about-logins-import-dialog-error-title = त्रुटि आयात करू
+about-logins-import-dialog-error-conflicting-values-title = एक लॉगिन खातिर एक सँ बेसी विरोधी मूल्य.
+about-logins-import-dialog-error-conflicting-values-description = उदाहरण कलेल: एक लॉगिन ख़ातिर अनेक उपयोक्ता नाम, पासवर्ड, URLs, इत्यादि.
 about-logins-import-dialog-error-file-format-title = फाइल फ़ॉर्मेट बाधा
 about-logins-import-dialog-error-file-permission-title = फ़ाइल पढ़ए मे असमर्थ
+about-logins-import-dialog-error-unable-to-read-title = फ़ाइल पार्स करबा मे असमर्थ
+about-logins-import-dialog-error-unable-to-read-description = सुनिश्चित करू जे अहाँ CSV अथवा TSV फाइल चुनने छी.
 about-logins-import-dialog-error-no-logins-imported = कोनो लॉगिन आयात नहि काल गेल
 about-logins-import-dialog-error-learn-more = बेसी जानू
 about-logins-import-dialog-error-try-import-again = फिनु आयात कलेल प्रयत्न करू…
@@ -275,6 +279,8 @@ about-logins-import-report-description = लॉगिन आओर पासव�
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = पंक्ति { $number }
+about-logins-import-report-row-description-no-change = डुप्लिकेट: मोजुदा लॉगिन क' सटीक मिलान
+about-logins-import-report-row-description-modified = मोजुदा लॉगिन अपडेट कएल गेल
 about-logins-import-report-row-description-added = नव लॉगिन जोड़ल गेल
 about-logins-import-report-row-description-error = त्रुटि: छूटल क्षेत्र
 
@@ -291,6 +297,18 @@ about-logins-import-report-row-description-error-missing-field = त्रुट
 about-logins-import-report-added =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नव लॉगिन जोड़ल गेल </div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">मोजुदा लॉगिन अपडेट कएल गेल</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट लॉगिन</div> <div data-l10n-name="नहि आयात भेल">(not imported)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">त्रुटि</div> <div data-l10n-name="नहि आयात भेल">(not imported)</div>
     }
 
 ## Logins import report page
