@@ -42,6 +42,7 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-selected-data-label = Akter n isefka yettwafernen
 
 ##
 
@@ -110,5 +111,6 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } wawal ufiir
        *[other] { $quantity } wawalen uffiren
     }
+migration-wizard-progress-success-formdata = Amazray n tferkit
 migration-wizard-safari-instructions-continue = Fren “Kemmel”
 migration-wizard-safari-select-button = Fren afaylu

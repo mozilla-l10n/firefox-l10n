@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Ma ulac aɣilif, sekcem isem n usenneftaɣ ameɣ
 permissions-exceptions-etp-window =
     .title = Tisuraf i ummesten yettwaseǧhed mgal aḍfaṛ
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Tsenseḍ ammesten ɣef yismal-a.
 permissions-exceptions-etp-window2 =
     .title = Tisuraf i ummesten yettwaseǧhed mgal aḍfaṛ
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Tsenseḍ ammesten ɣef yismal-a.
 
 ## Exceptions - Cookies
 
@@ -208,3 +208,19 @@ permissions-site-microphone-desc = Ismal-agi web sutren-d anekcum γer uṣawa�
 permissions-site-microphone-disable-label =
     .label = Sewḥel isuturen imaynuten n unekcum ɣer usawaḍ inek
 permissions-site-microphone-disable-desc = Aya ad isewḥel asuter n tsirag n unekcum γer uṣawaḍ  inek i yusmal ur nelli deg tebdart. asewḥel n unekcum γer uṣawaḍ izmer ad iṛeẓ timahaltin n usmel.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-doh-add-exception =
+    .label = Rnu
+    .accesskey = R
+permissions-doh-col =
+    .label = Taɣult
+permissions-doh-remove =
+    .label = Kkes
+    .accesskey = K
+permissions-doh-remove-all =
+    .label = Kkes akk
+    .accesskey = K
