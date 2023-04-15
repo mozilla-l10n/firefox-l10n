@@ -727,6 +727,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = تساں فی الحال انہاں چیزاں کوں سینک کریندے پئے او:
+sync-syncing-across-devices-heading = اساں انہاں آئٹماں کوں تہاݙیاں ساریاں منسلک ڈیوائساں تے ہم وقت کریندے پئے ہیں:
 sync-currently-syncing-bookmarks = نشانیاں
 sync-currently-syncing-history = تاریخ
 sync-currently-syncing-tabs = ٹیباں کھولو

@@ -25,6 +25,11 @@ mr1-onboarding-set-default-secondary-button-label = ہݨ کائناں
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = ٻہوں چنڳاں، تہاکوں { -brand-short-name } مل ڳیا ہے
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = ہݨ اساں تہاکوں  <img data-l10n-name="icon"/> <b>{ $addon-name }</b> تے گھندے ہیں۔
 return-to-amo-add-extension-label = ایکسٹینشن  شامل کرو
 return-to-amo-add-theme-label = تھیم شامل کرو
 
@@ -41,14 +46,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } شامل کرو
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = شروع تھیندا پئے: سکرین { $current } دا { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = پیش رفت: مرحلہ { $current } دا { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +59,14 @@ mr1-welcome-screen-hero-text = بھاء اتھوں شروع تھیندی ہے
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = سورایا اوسوریو - فرنیچر ڈیزائنر، فائر فاکس دا پرستار
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = پیش رفت: مرحلہ { $current } دا { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = متحرک تصویراں بند کرو
 
