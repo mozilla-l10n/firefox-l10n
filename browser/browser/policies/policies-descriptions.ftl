@@ -26,6 +26,8 @@ policy-Bookmarks = Yer imleri araç çubuğunda, yer imleri menüsünde veya bun
 policy-CaptivePortal = Kısıtlama portali desteğini aç veya kapat.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
 policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Kapsayıcılarla ilgili ilkeleri ayarla.
 policy-DisabledCiphers = Şifrelemeleri devre dışı bırak.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.

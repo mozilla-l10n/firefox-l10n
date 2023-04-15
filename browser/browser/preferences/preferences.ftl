@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Şu anda aşağıdaki öğeleri eşitliyorsunuz:
+sync-syncing-across-devices-heading = Aşağıdaki öğeler tüm bağlı cihazlarınız arasında eşitleniyor:
 sync-currently-syncing-bookmarks = Yer imleri
 sync-currently-syncing-history = Geçmiş
 sync-currently-syncing-tabs = Açık sekmeler
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = D
     .buttonlabelextra2 = Bağlantıyı kes…
     .buttonaccesskeyextra2 = B
+sync-choose-dialog-subtitle = Bu listede yaptığınız değişiklikler tüm bağlı cihazlarınıza yansıtılacaktır.
 sync-engine-bookmarks =
     .label = Yer imleri
     .accesskey = m
@@ -1247,21 +1249,28 @@ preferences-doh-status-disabled = Kapalı
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Etkin değil ({ $reason })
+preferences-doh-group-message = Güvenli DNS’i etkinleştir:
 preferences-doh-expand-section =
     .tooltiptext = Daha fazla bilgi
 preferences-doh-setting-default =
     .label = Varsayılan koruma
     .accesskey = V
 preferences-doh-default-desc = Gizliliğinizi korumak için ne zaman güvenli DNS kullanılacağına { -brand-short-name } karar verir.
+preferences-doh-default-detailed-desc-1 = Güvenli DNS hizmetinin sunulduğu bölgelerde güvenli DNS kullanılır
+preferences-doh-default-detailed-desc-2 = Güvenli DNS sağlayıcınızda sorun yaşanırsa varsayılan DNS çözümleyiciniz kullanılır
+preferences-doh-default-detailed-desc-3 = Mümkünse yerel bir sağlayıcı kullanılır
+preferences-doh-default-detailed-desc-4 = VPN, ebeveyn denetileri veya kurumsal ilkeler etkinse güvenli DNS kapanır
+preferences-doh-default-detailed-desc-5 = Ağınız { -brand-short-name } tarayıcısına güvenli DNS kullanmama talebi gönderirse güvenli DNS kapanır
 preferences-doh-setting-enabled =
     .label = Artırılmış koruma
     .accesskey = A
 preferences-doh-enabled-desc = Güvenli DNS’in ne zaman kullanılacağını siz belirler ve sağlayıcınızı siz seçersiniz.
 preferences-doh-enabled-detailed-desc-1 = Seçtiğiniz sağlayıcı kullanılır
-preferences-doh-enabled-detailed-desc-2 = Güvenli DNS sağlayıcınızda sorun yaşanırsa varsayılan DNS çözümleyiciniz kullanılır
+preferences-doh-enabled-detailed-desc-2 = Yalnızca güvenli DNS sağlayıcınızda sorun yaşanırsa varsayılan DNS çözümleyiciniz kullanılır
 preferences-doh-setting-strict =
     .label = Maksimum koruma
     .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } her zaman güvenli DNS kullanır. Sistem DNS’inizi kullanmadan önce bir güvenlik uyarısı gösteririz.
 preferences-doh-strict-detailed-desc-1 = Sadece seçtiğiniz sağlayıcıyı kullanır
 preferences-doh-strict-detailed-desc-2 = Güvenli DNS kullanılamazsa sizi her zaman uyarır
 preferences-doh-strict-detailed-desc-3 = Güvenli DNS kullanılamazsa siteler açılmaz veya düzgün çalışmaz
