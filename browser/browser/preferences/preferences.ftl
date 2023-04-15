@@ -1249,11 +1249,25 @@ preferences-doh-status-disabled = No
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = No activo ({ $reason })
+preferences-doh-group-message = Habilita el DNS seguro usando:
 preferences-doh-expand-section =
     .tooltiptext = Más información
 preferences-doh-setting-default =
     .label = Protección predeterminada
     .accesskey = D
+preferences-doh-default-desc = { -brand-short-name } decide cuándo usar DNS seguro para proteger tu privacidad.
+preferences-doh-default-detailed-desc-1 = Usar DNS seguro en regiones donde esté disponible
+preferences-doh-default-detailed-desc-2 = Usa tu solucionador de DNS predeterminado si hay un problema con el proveedor de DNS seguro
+preferences-doh-default-detailed-desc-3 = Usar un proveedor local, si es posible
+preferences-doh-default-detailed-desc-4 = Desactivar cuando las políticas de VPN, control parental o empresa estén activas
+preferences-doh-default-detailed-desc-5 = Desactivar cuando una red le dice a { -brand-short-name } que no debe usar DNS seguro
+preferences-doh-setting-enabled =
+    .label = Protección aumentada
+    .accesskey = I
+preferences-doh-select-resolver = Elegir proveedor:
+preferences-doh-manage-exceptions =
+    .label = Gestionar excepciones…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
