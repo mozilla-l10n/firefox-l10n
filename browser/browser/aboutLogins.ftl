@@ -174,6 +174,9 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = लॉगिन आओर गुड़किल्ली निर्यात करू
 about-logins-confirm-export-dialog-confirm-button = निर्यात…
 about-logins-alert-import-title = आयात भ' गेल
+about-logins-alert-import-message = विस्तृत आयात सारांश देखाबू
+confirm-discard-changes-dialog-title = नहि सहेजल गेल बदलाव छोड़ू?
+confirm-discard-changes-dialog-message = सभ बिनु सहेजल परिवर्तन नष्ट भ जाएत।
 confirm-discard-changes-dialog-confirm-button = छोड़ि दिअ
 
 ## Breach Alert notification
@@ -194,6 +197,8 @@ about-logins-vulnerable-alert-learn-more-link = बेसी जानू
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = पासवर्ड सहेजए केर  प्रयास मे एकटा त्रुटि भेल.
 
 ## Login Export Dialog
 
@@ -261,11 +266,19 @@ about-logins-import-dialog-error-learn-more = बेसी जानू
 about-logins-import-dialog-error-try-import-again = फिनु आयात कलेल प्रयत्न करू…
 about-logins-import-dialog-error-cancel = रद्द करू
 about-logins-import-report-title = सारांश आयात करू
+about-logins-import-report-description = लॉगिन आओर पासवर्ड { -brand-short-name } मे आयात कएल गेल.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = पंक्ति { $number }
+about-logins-import-report-row-description-added = नव लॉगिन जोड़ल गेल
+about-logins-import-report-row-description-error = त्रुटि: छूटल क्षेत्र
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-missing-field = त्रुटि: छूटल { $field }
 
 ##
 ## Variables:
