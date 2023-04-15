@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Inprimakiak
 protections-panel-site-not-working-view-issue-list-payments = Ordainketak
 protections-panel-site-not-working-view-issue-list-comments = Iruzkinak
 protections-panel-site-not-working-view-issue-list-videos = Bideoak
+protections-panel-site-not-working-view-issue-list-fonts = Letra-tipoak
 protections-panel-site-not-working-view-send-report = Bidali txostena
 
 ##

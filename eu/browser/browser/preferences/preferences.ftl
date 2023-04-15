@@ -1260,6 +1260,33 @@ preferences-doh-default-desc = { -brand-short-name }(e)k erabakitzen du noiz era
 preferences-doh-default-detailed-desc-1 = Erabili DNS segurua erabilgarri dagoen eskualdeetan
 preferences-doh-default-detailed-desc-2 = Erabili zure DNS ebazle lehenetsia DNS seguruaren hornitzailearekin arazorik balego
 preferences-doh-default-detailed-desc-3 = Erabili hornitzaile lokala, ahal bada
+preferences-doh-default-detailed-desc-4 = Desaktibatu VPNa, gurasoen kontrola edo enpresako politikak aktibo daudenean
+preferences-doh-default-detailed-desc-5 = Desaktibatu sareek { -brand-short-name }(r)i esaten diotenean ez lukeela DNS segurua erabili behar
+preferences-doh-setting-enabled =
+    .label = Areagotutako babesa
+    .accesskey = A
+preferences-doh-enabled-desc = Zuk kontrolatzen duzu noiz erabili DNS segurua bai eta hornitzailea ere.
+preferences-doh-enabled-detailed-desc-1 = Erabili hautatzen duzun hornitzailea
+preferences-doh-enabled-detailed-desc-2 = Erabili zure DNS ebazle lehenetsia soilik DNS seguruarekin arazorik balego
+preferences-doh-setting-strict =
+    .label = Babes maximoa
+    .accesskey = m
+preferences-doh-strict-desc = { -brand-short-name }(e)k DNS segurua erabiliko du beti. Segurtasun arriskuaren abisua ikusiko duzu zure sistemaren DNSa erabili aurretik.
+preferences-doh-strict-detailed-desc-1 = Erabili soilik hautatzen duzun hornitzailea
+preferences-doh-strict-detailed-desc-2 = Abisatu beti DNS segurua ez badago erabilgarri
+preferences-doh-strict-detailed-desc-3 = DNS segurua ez badago erabilgarri guneak ez dira kargatuko edo ez dira ondo ibiliko
+preferences-doh-setting-off =
+    .label = Desaktibatuta
+    .accesskey = D
+preferences-doh-off-desc = Erabili zure DNS ebazle lehenetsia
+preferences-doh-checkbox-warn =
+    .label = Abisatu hirugarren batek DNS segurua aktiboki eragozten badu
+    .accesskey = b
+preferences-doh-select-resolver = Aukeratu hornitzailea:
+preferences-doh-exceptions-description = { -brand-short-name }(e)k ez du DNS segurua erabiliko gune hauetan
+preferences-doh-manage-exceptions =
+    .label = Kudeatu salbuespenak…
+    .accesskey = d
 
 ## The following strings are used in the Download section of settings
 
