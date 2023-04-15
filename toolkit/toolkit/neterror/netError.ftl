@@ -61,6 +61,7 @@ neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } 无法
 neterror-dns-not-found-trr-only-timeout = 连接到 { $trrDomain } 的时间超过预期。
 neterror-dns-not-found-trr-offline = 您未连接到互联网。
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } 找不到此网站的地址。
+neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } 找不到此网站。
 neterror-dns-not-found-trr-server-problem = { $trrDomain } 出现问题。
 neterror-dns-not-found-trr-unknown-problem = 未知问题。
 
