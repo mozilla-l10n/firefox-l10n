@@ -1220,6 +1220,22 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ur remmed ara askar HTTPS-Only
 
+## DoH Section
+
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Addad: { $status }
+preferences-doh-status-active = Urmid
+preferences-doh-status-disabled = Yensa
+preferences-doh-expand-section =
+    .tooltiptext = Ugar n telɣut
+preferences-doh-setting-off =
+    .label = Yensa
+    .accesskey = s
+preferences-doh-manage-exceptions =
+    .label = Sefrek tisuraf
+    .accesskey = f
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tanarit
