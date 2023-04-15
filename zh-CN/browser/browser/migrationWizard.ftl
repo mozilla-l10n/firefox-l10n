@@ -60,6 +60,8 @@ migration-form-autofill-option-label = 自动填写表单数据
 migration-import-button-label = 导入
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
+migration-wizard-import-browser-no-browsers = { -brand-short-name } 找不到存有书签、历史记录或密码数据的程序。
+migration-wizard-import-browser-no-resources = 出错了。{ -brand-short-name } 在所选的浏览器配置文件中找不到数据。
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -108,6 +110,17 @@ migration-wizard-progress-success-favorites = { $quantity } 个收藏
 # Variables:
 #  $quantity (Number): the number of successfully imported passwords
 migration-wizard-progress-success-passwords = { $quantity } 个密码
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] 昨天以来
+       *[other] 过去 { $maxAgeInDays } 天以来
+    }
 migration-wizard-progress-success-formdata = 表单历史记录
+migration-wizard-safari-permissions-sub-header = 如需导入 Safari 浏览器书签和历史记录：
 migration-wizard-safari-instructions-continue = 选择“继续”
 migration-wizard-safari-select-button = 选择文件
