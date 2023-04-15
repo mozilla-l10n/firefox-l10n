@@ -208,3 +208,19 @@ permissions-site-microphone-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij r
 permissions-site-microphone-disable-label =
     .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan q'asäy atzij
 permissions-site-microphone-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin ye'ok pan elesäy awachib'al. We yeq'at ri taq okem pan elesäy awachib'al nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-doh-add-exception =
+    .label = Titz'aqatisäx
+    .accesskey = t
+permissions-doh-col =
+    .label = Ruk'ojlem b'ey
+permissions-doh-remove =
+    .label = Tiyuj
+    .accesskey = y
+permissions-doh-remove-all =
+    .label = Keyuj Ronojel
+    .accesskey = y
