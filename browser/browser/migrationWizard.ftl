@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Import Browser Data
+migration-wizard-selection-list = Select the data you’d like to import.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -59,6 +61,7 @@ migration-import-button-label = Import
 migration-cancel-button-label = Cancel
 migration-done-button-label = Done
 migration-wizard-import-browser-no-browsers = { -brand-short-name } couldn’t find any programs that contain bookmark, history or password data.
+migration-wizard-import-browser-no-resources = There was an error. { -brand-short-name } can’t find any data to import from that browser profile.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -84,6 +87,10 @@ migration-wizard-progress-icon-completed =
     .aria-label = Completed
 migration-safari-password-import-header = Import Passwords from Safari
 migration-safari-password-import-steps-header = To import Safari passwords:
+migration-safari-password-import-step1 = In Safari, open “Safari” menu and go to Preferences > Passwords
+migration-safari-password-import-step2 = Select the <img data-l10n-name="safari-icon-3dots"/> button and choose “Export All Passwords”
+migration-safari-password-import-step3 = Save the passwords file
+migration-safari-password-import-step4 = Use “Select File” below to choose the passwords file you saved
 migration-safari-password-import-skip-button = Skip
 migration-safari-password-import-select-button = Select File
 # Shown in the migration wizard after importing bookmarks from another
@@ -131,4 +138,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Form history
 migration-wizard-safari-permissions-sub-header = To import Safari bookmarks and browsing history:
 migration-wizard-safari-instructions-continue = Select “Continue”
+migration-wizard-safari-instructions-folder = Select Safari folder in the list and choose “Open”
 migration-wizard-safari-select-button = Select File
