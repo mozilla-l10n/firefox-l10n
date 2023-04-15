@@ -85,3 +85,56 @@ migration-wizard-progress-icon-completed =
     .aria-label = Burututa
 migration-safari-password-import-header = Inportatu pasahitzak Safaritik
 migration-safari-password-import-steps-header = Safaritik pasahitzak inportatzeko:
+migration-safari-password-import-step1 = Safarin, ireki "Safari" menua eta zoaz Hobespenak > Pasahitzak atalera
+migration-safari-password-import-step2 = Hautatu <img data-l10n-name="safari-icon-3dots"/> botoia eta aukeratu "Esportatu pasahitz guztiak"
+migration-safari-password-import-step3 = Gorde pasahitzen fitxategia
+migration-safari-password-import-step4 = Erabili azpiko "hautatu fitxategia" aukera gorde berri duzun pasahitzen fitxategia aukeratzeko
+migration-safari-password-import-skip-button = Saltatu
+migration-safari-password-import-select-button = Hautatu fitxategia
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] laster-marka { $quantity }
+       *[other] { $quantity } laster-marka
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] gogoko { $quantity }
+       *[other] { $quantity } gogoko
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] pasahitz { $quantity }
+       *[other] { $quantity } pasahitz
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Azken egunetik
+       *[other] Azken { $maxAgeInDays } egunetatik
+    }
+migration-wizard-progress-success-formdata = Inprimakien historia
+migration-wizard-safari-permissions-sub-header = Safariko laster-markak eta nabigatze-historia inportatzeko:
+migration-wizard-safari-instructions-continue = Hautatu "Jarraitu"
+migration-wizard-safari-instructions-folder = Hautatu Safari karpeta zerrendatik eta aukeratu "Ireki"
+migration-wizard-safari-select-button = Hautatu fitxategia
