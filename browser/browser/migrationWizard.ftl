@@ -106,6 +106,7 @@ migration-wizard-progress-success-updated-passwords =
 
 
 migration-import-button-label = Importa
+migration-choose-to-import-from-file-button-label = Importa da file
 migration-import-from-file-button-label = Seleziona file
 
 migration-cancel-button-label = Annulla
