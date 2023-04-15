@@ -1192,6 +1192,18 @@ preferences-doh-header = DNS chi rij HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = B'anikil: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Ya'öl samaj: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Me'okel URL
+preferences-doh-steering-status = Nokisäx jun ya'öl samaj ajwawe'
+preferences-doh-status-active = Tzijïl
+preferences-doh-status-disabled = Tichup
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Man tzijïlta ({ $reason })
 
 ## The following strings are used in the Download section of settings
 
