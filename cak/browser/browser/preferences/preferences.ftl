@@ -90,6 +90,9 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> tasamajij re runuk'ulem re'.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> nik'atzin K'wayöl Ruwi' chi re.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> tasamajij re runuk'ulem re'.
@@ -125,6 +128,7 @@ startup-restore-warn-on-quit =
     .label = Tiya' rutzijol toq yatel pa okik'amaya'l
 disable-extension =
     .label = Tichup ri K'amal
+preferences-data-migration-header = Ke'ajik'a' Rutzij Okik'amaya'l
 preferences-data-migration-button =
     .label = Tijik' Tzij
     .accesskey = j
@@ -135,6 +139,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Kejaq taq ximonel pa taq ruwi' pa ruk'exel kik'in k'ak'a' taq tzuwäch
     .accesskey = z
+confirm-on-close-multiple-tabs =
+    .label = Nab'ey tijikib'äx toq yetz'apïx jalajöj taq ruwi'
+    .accesskey = j
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Nab'ey tijikib'äx richin nel rik'in { $quitKey }
+    .accesskey = b
 warn-on-open-many-tabs =
     .label = Taya' pe rutzijol we { -brand-short-name } yalan eqal xtisamäj toq xkerujäq k'ïy taq ruwi'
     .accesskey = e
@@ -346,6 +361,7 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = ¿Achike k'o chi nub'än { -brand-short-name } rik'in ch'aqa' chik yakb'äl?
 applications-save-for-new-types =
     .label = Tiyak yakb'äl
     .accesskey = y
@@ -1166,6 +1182,9 @@ httpsonly-radio-enabled-pbm =
     .label = Titzij HTTPS-Only B'anikil xa xe pa jun ichinan taq tzuwäch
 httpsonly-radio-disabled =
     .label = Man titzij HTTPS-Only B'anikil
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
