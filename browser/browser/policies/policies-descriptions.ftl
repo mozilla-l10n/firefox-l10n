@@ -26,6 +26,8 @@ policy-Bookmarks = Tạo dấu trang trong thanh công cụ dấu trang, menu d�
 policy-CaptivePortal = Kích hoạt hoặc vô hiệu hóa hỗ trợ kiểm soát truy cập.
 policy-CertificatesDescription = Thêm chứng chỉ hoặc sử dụng chứng chỉ có sẵn.
 policy-Cookies = Cho phép hoặc từ chối các trang web lưu cookie.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Đặt các chính sách liên quan đến ngăn chứa.
 policy-DisabledCiphers = Vô hiệu hóa thuật toán mã hóa.
 policy-DefaultDownloadDirectory = Đặt thư mục tải xuống mặc định.
 policy-DisableAppUpdate = Chặn việc cập nhật trình duyệt.
