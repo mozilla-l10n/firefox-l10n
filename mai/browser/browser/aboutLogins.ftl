@@ -106,6 +106,9 @@ login-item-time-used = आखिरी उपयोग: { DATETIME($timeUsed, da
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = बनाबू
 login-item-timeline-action-updated = अद्यतन
 login-item-timeline-action-used = उपयोग कुल
@@ -118,9 +121,13 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = अपन लॉगिन संपादित करए लेल, अपन Windows लॉगिन क्रेडेंशियल्स दर्ज करू। ई अहाँक खाताक सुरक्षित राखए मे मदति करैत अछि।
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = सहेजल लॉगिन क' संपादित करू
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = अपन पासवर्ड देखए लेल, अपन Windows लॉगिन क्रेडेंशियल्स दर्ज करू। ई अहाँक खाताक सुरक्षित राखए मे मदति करैत अछि।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली जानू
@@ -288,6 +295,7 @@ about-logins-import-report-row-description-error = त्रुटि: छूट
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = त्रुटि: { $field } कलेल अनेक मान
 about-logins-import-report-row-description-error-missing-field = त्रुटि: छूटल { $field }
 
 ##
