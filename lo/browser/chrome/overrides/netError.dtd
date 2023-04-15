@@ -19,6 +19,14 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "ບໍ່ພົບເຊີບເວີ">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>ຖ້າທີ່ຢູ່ນັ້ນຖືກຕ້ອງ, ນີ້ແມ່ນສາມຢ່າງອື່ນທີ່ທ່ານສາມາດລອງໄດ້:</strong>
+<ul>
+  <li>ລອງໃໝ່ໃນພາຍຫຼັງ.</li>
+  <li>ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍຂອງທ່ານ.</li>
+  <li>ຖ້າທ່ານເຊື່ອມຕໍ່ແຕ່ຢູ່ເບື້ອງຫຼັງໄຟວໍ, ໃຫ້ກວດເບິ່ງວ່າ &brandShortName; ມີການອະນຸຍາດເຂົ້າເຖິງເວັບ.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -94,6 +102,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "ເຈົ້າສາມາດເຮັດແນວໃດກ່ຽວກັບມັນ?">
 
 
 
@@ -112,6 +121,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ຂໍ້ມູນຂັ້ນສູງ: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "ຄຳເຕືອນ: ຄວາມສ່ຽງດ້ານຄວາມປອດໄພທີ່ອາດເກີດຂຶ້ນຢູ່ຂ້າງໜ້າ">
+<!ENTITY certerror.sts.pagetitle  "ບໍ່ໄດ້ເຊື່ອມຕໍ່: ບັນຫາຄວາມປອດໄພທີ່ເປັນໄປໄດ້">
 <!ENTITY certerror.copyToClipboard.label "ສຳເນົາຂໍ້ຄວາມໄປໄວ້ທີ່ Clipboard">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
