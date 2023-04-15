@@ -1221,6 +1221,9 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = 不启用 HTTPS-Only 模式
 
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = 桌面
