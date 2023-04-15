@@ -20,6 +20,8 @@ about-private-browsing-handoff-text = { $engine } सँग खोजू अथ�
 about-private-browsing-handoff-text-no-engine = खोजू अथवा पता दर्ज करू
 about-private-browsing-not-private = अहाँ अखन निजी विंडो मे नहि छी.
 about-private-browsing-learn-more-link = बेसी जानू
+about-private-browsing-hide-activity = सभे ठाम जतए अहाँ ब्राउज कएलहुँ , ओतए सँ अपन काज आओर स्थान नुकाबू
+about-private-browsing-focus-promo-cta = डाउनलोडकरू { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
