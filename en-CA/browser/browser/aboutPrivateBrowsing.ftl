@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = No saved cookies or history, right from
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Cookie banners begone!
 about-private-browsing-cookie-banners-promo-button = Reduce Cookie Banners
+about-private-browsing-cookie-banners-promo-message = Let { -brand-short-name } automatically answer cookie pop-ups for you so you can get back to distraction-free browsing. { -brand-short-name } will reject all requests if possible.

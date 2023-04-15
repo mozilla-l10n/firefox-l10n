@@ -115,6 +115,7 @@ protections-panel-cookie-banner-view-go-back =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Turn off Cookie Banner Reduction for { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Turn on Cookie Banner Reduction for this site?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } will clear this site’s cookies and refresh the page. Clearing all cookies may sign you out or empty shopping carts.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } tries to automatically reject all cookie requests on supported sites.
 protections-panel-cookie-banner-view-cancel = Cancel
 protections-panel-cookie-banner-view-turn-off = Turn Off

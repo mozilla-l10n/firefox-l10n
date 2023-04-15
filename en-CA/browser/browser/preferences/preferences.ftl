@@ -132,6 +132,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Disable Extension
 preferences-data-migration-header = Import Browser Data
+preferences-data-migration-description = Import bookmarks, passwords, history, and autofill data into { -brand-short-name }.
 preferences-data-migration-button =
     .label = Import Data
     .accesskey = m
@@ -1229,6 +1230,9 @@ httpsonly-radio-enabled-pbm =
     .label = Enable HTTPS-Only Mode in private windows only
 httpsonly-radio-disabled =
     .label = Don’t enable HTTPS-Only Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
