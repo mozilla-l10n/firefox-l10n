@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Une honetan ondorengo elementuak sinkronizatzen dira:
+sync-syncing-across-devices-heading = Elementu hauek konektatutako zure gailu guztien artean ari zara sinkronizatzen:
 sync-currently-syncing-bookmarks = Laster-markak
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Irekitako fitxak
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = G
     .buttonlabelextra2 = Deskonektatu…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Sinkronizatu beharreko elementuen zerrendari egindako aldaketak konektatutako zure gailu guztietan islatuko dira.
 sync-engine-bookmarks =
     .label = Laster-markak
     .accesskey = m
@@ -1228,6 +1230,36 @@ httpsonly-radio-enabled-pbm =
     .label = Gaitu HTTPS-Only modua leiho pribatuetan soilik
 httpsonly-radio-disabled =
     .label = Ez gaitu HTTPS-Only modua
+
+## DoH Section
+
+preferences-doh-header = HTTPS gaineko DNSa
+preferences-doh-description = HTTPS gaineko DNSak domeinu-izenerako zure eskaera zifratutako konexio bidez bidaltzen du, DNSa seguru bilakatuz eta zailagoa eginez beste inork jakitea zein den bisitatu behar duzun webgunea.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Egoera: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Hornitzailea: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL baliogabea
+preferences-doh-steering-status = Hornitzaile lokala erabiltzen
+preferences-doh-status-active = Aktibo
+preferences-doh-status-disabled = Desaktibatuta
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Inaktibo ({ $reason })
+preferences-doh-group-message = Gaitu DNS segurua ondorengoa erabiliz:
+preferences-doh-expand-section =
+    .tooltiptext = Informazio gehiago
+preferences-doh-setting-default =
+    .label = Babes lehenetsia
+    .accesskey = h
+preferences-doh-default-desc = { -brand-short-name }(e)k erabakitzen du noiz erabili DNS segurua zure pribatutasuna babesteko.
+preferences-doh-default-detailed-desc-1 = Erabili DNS segurua erabilgarri dagoen eskualdeetan
+preferences-doh-default-detailed-desc-2 = Erabili zure DNS ebazle lehenetsia DNS seguruaren hornitzailearekin arazorik balego
+preferences-doh-default-detailed-desc-3 = Erabili hornitzaile lokala, ahal bada
 
 ## The following strings are used in the Download section of settings
 
