@@ -56,6 +56,7 @@ migration-bookmarks-option-label = 书签
 migration-favorites-option-label = 收藏夹
 migration-logins-and-passwords-option-label = 保存的登录名和密码
 migration-history-option-label = 浏览历史
+migration-form-autofill-option-label = 自动填写表单数据
 migration-import-button-label = 导入
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
@@ -72,6 +73,7 @@ migration-list-bookmark-label = 书签
 migration-list-favorites-label = 收藏夹
 migration-list-password-label = 密码
 migration-list-history-label = 历史记录
+migration-list-autofill-label = 自动填写数据
 
 ##
 
@@ -85,6 +87,26 @@ migration-safari-password-import-header = 从 Safari 浏览器导入密码
 migration-safari-password-import-step3 = 保存密码文件
 migration-safari-password-import-skip-button = 跳过
 migration-safari-password-import-select-button = 选择文件
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks = { $quantity } 个书签
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites = { $quantity } 个收藏
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords = { $quantity } 个密码
 migration-wizard-progress-success-formdata = 表单历史记录
 migration-wizard-safari-instructions-continue = 选择“继续”
 migration-wizard-safari-select-button = 选择文件
