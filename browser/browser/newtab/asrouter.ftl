@@ -221,28 +221,6 @@ colorways-cfr-header-today = “凡人之声”配色今日到期
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = 消失吧，Cookie 横幅！
-cfr-cookiebanner-body = 允许 { -brand-short-name } 尽可能自动拒绝所有 Cookie 横幅的请求。
-cfr-cookiebanner-accept-button-v2 = 拒绝请求
-    .accesskey = R
-cfr-cookiebanner-reject-button = 暂时不要
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = 减少 Cookie 弹窗
-cfr-cookiebanner-body-variant-1 = 让 { -brand-short-name } 自动帮您回应 Cookie 弹窗，实现无干扰浏览体验。{ -brand-short-name } 将尽可能拒绝所有请求。
-cfr-cookiebanner-accept-button-variant-1 = 关闭弹窗
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = 不了，谢谢
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = 减少 Cookie 横幅
-cfr-cookiebanner-body-variant-2 = 允许 { -brand-short-name } 尽可能拒绝网站的 Cookie 请求，从而减少您看到的 Cookie 横幅。
-cfr-cookiebanner-accept-button-variant-2 = 允许
-    .accesskey = A
-cfr-cookiebanner-reject-button-variant-2 = 暂时不要
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = 要允许 { -brand-short-name } 自动拒绝 Cookie 横幅的请求吗？
 cfr-cbh-body = { -brand-short-name } 可以自动拒绝许多 Cookie 横幅的请求。
 cfr-cbh-confirm-button = 拒绝 Cookie 横幅
@@ -255,6 +233,8 @@ cfr-cbh-dismiss-button = 暂时不要
 july-jam-headline = 保护您是我的职责
 july-jam-body = { -brand-short-name } 为每位用户月均拦截超过 3,000 个跟踪器，给您带来安全快速的良好互联网体验。
 july-jam-set-default-primary = 用 { -brand-short-name } 打开我的链接
+fox-doodle-pin-headline = 欢迎回来
+fox-doodle-pin-secondary = 暂时不要
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

@@ -1223,6 +1223,31 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = 基于 HTTPS 的 DNS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = 状态：{ $status }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = 无效网址
+preferences-doh-expand-section =
+    .tooltiptext = 更多信息
+preferences-doh-setting-default =
+    .label = 默认保护
+    .accesskey = D
+preferences-doh-setting-enabled =
+    .label = 增强保护
+    .accesskey = I
+preferences-doh-setting-strict =
+    .label = 最高保护
+    .accesskey = M
+preferences-doh-setting-off =
+    .label = 关闭
+    .accesskey = O
+preferences-doh-off-desc = 使用默认 DNS 解析器
+preferences-doh-manage-exceptions =
+    .label = 管理例外…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 

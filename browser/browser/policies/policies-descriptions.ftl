@@ -26,6 +26,8 @@ policy-Bookmarks = 在书签工具栏，书签菜单或特定文件夹中创建�
 policy-CaptivePortal = 启用或禁用强制门户支持。
 policy-CertificatesDescription = 添加证书或使用内置的证书。
 policy-Cookies = 允许或拒绝网站设置 Cookie。
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = 设置身份标签页相关策略。
 policy-DisabledCiphers = 禁用加密算法。
 policy-DefaultDownloadDirectory = 设置默认下载目录。
 policy-DisableAppUpdate = 阻止浏览器更新。
