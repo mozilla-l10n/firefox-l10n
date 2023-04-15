@@ -1214,6 +1214,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = HTTPS تے DNS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = حالت: { $status }
@@ -1228,17 +1229,21 @@ preferences-doh-status-disabled = بند
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = فعال کائنی  ({ $reason })
+preferences-doh-group-message = محفوظ DNS ورتݨ فعال کرو:
 preferences-doh-expand-section =
     .tooltiptext = ودھیک معلومات
 preferences-doh-setting-default =
     .label = طے شدہ حفاظت
     .accesskey = D
+preferences-doh-default-detailed-desc-3 = مقامی مہیا کار ورتو، جے ممکن ہے تاں
 preferences-doh-setting-enabled =
     .label = ودھائی ہوئی حفاظت
     .accesskey = I
+preferences-doh-enabled-detailed-desc-1 = جہڑا مہیاکار تساں چُݨیا ہے ورتو
 preferences-doh-setting-strict =
     .label = ودھ کنوں ودھ حفاظت
     .accesskey = M
+preferences-doh-strict-detailed-desc-1 = جہڑا مہیاکار تساں چُݨیا ہے  صرف اُوہو ورتو
 preferences-doh-setting-off =
     .label = بند
     .accesskey = O

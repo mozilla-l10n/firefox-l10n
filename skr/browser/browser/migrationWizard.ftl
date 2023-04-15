@@ -133,4 +133,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = فارم تاریخ
 migration-wizard-safari-permissions-sub-header = سفاری نشانیاں تے براؤزنگ تاریخ امپورٹ کرݨ کیتے:
 migration-wizard-safari-instructions-continue = ” جاری” چݨو
+migration-wizard-safari-instructions-folder = تندیر وچ Safari فولڈر چݨو تے "کھولو" چݨو
 migration-wizard-safari-select-button = فائل چݨو

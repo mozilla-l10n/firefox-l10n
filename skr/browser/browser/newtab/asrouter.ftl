@@ -225,6 +225,7 @@ colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = { -brand-short-name } کوں کوکی بینراں مسترد کرݨ دی اجازت ݙیوں؟
+cfr-cbh-body = { -brand-short-name } ٻہوں ساریاں کوکی بینر ارداساں خود بخود مسترد کر سڳدے۔
 cfr-cbh-confirm-button = کوکی بینراں کوں مسترد کرو
     .accesskey = R
 cfr-cbh-dismiss-button = ہݨ کائناں
