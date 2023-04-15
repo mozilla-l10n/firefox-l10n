@@ -84,6 +84,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = 已完成
 migration-safari-password-import-header = 从 Safari 浏览器导入密码
+migration-safari-password-import-steps-header = 如需导入 Safari 浏览器密码：
 migration-safari-password-import-step3 = 保存密码文件
 migration-safari-password-import-skip-button = 跳过
 migration-safari-password-import-select-button = 选择文件
