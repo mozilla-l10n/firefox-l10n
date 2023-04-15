@@ -835,6 +835,7 @@ forms-master-pw-fips-desc = Xsach toq Nijal ri Ewan Tzij
 forms-windows-sso =
     .label = Xa xe tiya' q'ij chi re jun rutikirib'al rumolojri'ïl Windows pa Microsoft, retal samaj chuqa' tijob'äl.
 forms-windows-sso-learn-more-link = Tetamäx ch'aqa' chik
+forms-windows-sso-desc = Kenuk'samajïx taq rub'i' taqoya'l pa runuk'ulem okisaxel
 
 ## OS Authentication dialog
 
