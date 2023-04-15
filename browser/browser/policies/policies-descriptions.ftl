@@ -26,6 +26,8 @@ policy-Bookmarks = Sortu laster-markak laster-marken tresna-barran, menuan edo h
 policy-CaptivePortal = Gaitu edo desgaitu atari gatibuen euskarria.
 policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtagiriak erabiltzea.
 policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Ezarri edukiontziei lotutako politikak.
 policy-DisabledCiphers = Desgaitu zifratzeak.
 policy-DefaultDownloadDirectory = Ezarri deskarga-direktorio lehenetsia.
 policy-DisableAppUpdate = Eragotzi nabigatzailea eguneratzea.
