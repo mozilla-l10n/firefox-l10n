@@ -664,9 +664,13 @@ reader-view-close-button =
     .aria-label = Irten irakurtzeko ikuspegitik
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Txandakatu bideoa beste leiho batean
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Ireki bideoa beste leiho batean ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Itxi bideoa beste leiho batean ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
