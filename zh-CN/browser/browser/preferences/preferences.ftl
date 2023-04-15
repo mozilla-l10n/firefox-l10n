@@ -1227,14 +1227,25 @@ preferences-doh-header = 基于 HTTPS 的 DNS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = 状态：{ $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = 提供商：{ $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = 无效网址
+preferences-doh-steering-status = 使用本地提供商
+preferences-doh-status-active = 启用
+preferences-doh-status-disabled = 关闭
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = 未启用（{ $reason }）
+preferences-doh-group-message = 安全 DNS 启用策略：
 preferences-doh-expand-section =
     .tooltiptext = 更多信息
 preferences-doh-setting-default =
     .label = 默认保护
     .accesskey = D
+preferences-doh-default-detailed-desc-2 = 若安全 DNS 提供商出现问题则使用默认 DNS 解析器
 preferences-doh-setting-enabled =
     .label = 增强保护
     .accesskey = I
