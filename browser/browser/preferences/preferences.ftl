@@ -131,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = Avisa en sortir del navegador
 disable-extension =
     .label = Inhabilita l'extensió
+preferences-data-migration-header = Importa les dades del navegador
+preferences-data-migration-description = Importa les adreces d'interès, les contrasenyes, l'historial i les dades d'emplenament automàtic al { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Importa les dades
+    .accesskey = m
 tabs-group-header = Pestanyes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab canvia de pestanya en ordre d'ús recent
@@ -738,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Actualment se sincronitzen aquests elements:
+sync-syncing-across-devices-heading = Actualment, sincronitzeu aquests elements en tots els vostres dispositius connectats:
 sync-currently-syncing-bookmarks = Adreces d'interès
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestanyes obertes
@@ -766,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = c
     .buttonlabelextra2 = Desconnecta…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Els canvis a la llista d'elements a sincronitzar s'aplicaran a tots els dispositius connectats.
 sync-engine-bookmarks =
     .label = Adreces d'interès
     .accesskey = d
@@ -967,6 +974,14 @@ sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reducció de bàners de galetes
+cookie-banner-handling-description = El { -brand-short-name } intenta rebutjar automàticament les sol·licituds de bàners de galetes de tots els llocs compatibles.
+cookie-banner-learn-more = Més informació
+forms-handle-cookie-banners =
+    .label = Reduïu els bàners de galetes
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra d'adreces
@@ -1106,6 +1121,11 @@ permissions-microphone = Micròfon
 permissions-microphone-settings =
     .label = Paràmetres…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Selecció d'altaveu
+permissions-speaker-settings =
+    .label = Paràmetres…
+    .accesskey = P
 permissions-notification = Notificacions
 permissions-notification-settings =
     .label = Paràmetres…
@@ -1210,6 +1230,31 @@ httpsonly-radio-enabled-pbm =
     .label = Activa el mode només HTTPS únicament en les finestres privades
 httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
+
+## DoH Section
+
+preferences-doh-header = DNS sobre HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Estat: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Proveïdor: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = L'URL no és vàlid
+preferences-doh-steering-status = Mitjançant un proveïdor local
+preferences-doh-status-active = Actiu
+preferences-doh-status-disabled = Desactivat
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Inactiu ({ $reason })
+preferences-doh-group-message = Activa el DNS segur mitjançant:
+preferences-doh-expand-section =
+    .tooltiptext = Més informació
+preferences-doh-setting-default =
+    .label = Protecció per defecte
+    .accesskey = P
 
 ## The following strings are used in the Download section of settings
 
