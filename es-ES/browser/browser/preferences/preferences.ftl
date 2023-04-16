@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = En este momento está sincronizando estos elementos:
+sync-syncing-across-devices-heading = Se están sincronizando estos ítems en todos sus dispositivos conectados:
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestañas abiertas
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Cerrar sesión…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Los cambios en la lista de ítems a sincronizar se reflejarán en todos sus dispositivos conectados.
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = m
@@ -1228,6 +1230,10 @@ httpsonly-radio-enabled-pbm =
     .label = Activar el modo solo-HTTPS solamente en ventanas privadas
 httpsonly-radio-disabled =
     .label = No activar el modo solo-HTTPS
+
+## DoH Section
+
+preferences-doh-header = DNS sobre HTTPS
 
 ## The following strings are used in the Download section of settings
 
