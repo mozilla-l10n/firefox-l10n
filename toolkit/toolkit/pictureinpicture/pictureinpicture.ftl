@@ -43,3 +43,20 @@ pictureinpicture-subtitles-btn =
 
 ##
 
+pictureinpicture-fullscreen-btn =
+    .aria-label = Pantalla completa
+    .tooltip = Pantalla completa (doble clic)
+pictureinpicture-exit-fullscreen-btn =
+    .aria-label = Surt de la pantalla completa
+    .tooltip = Surt de la pantalla completa (doble clic)
+pictureinpicture-seekbackward-btn =
+    .aria-label = Enrere
+    .tooltip = Enrere (←)
+pictureinpicture-seekforward-btn =
+    .aria-label = Endavant
+    .tooltip = Endavant (→)
+pictureinpicture-subtitles-label = Subtítols
+pictureinpicture-font-size-label = Mida de la lletra
+pictureinpicture-font-size-small = Petita
+pictureinpicture-font-size-medium = Mitjana
+pictureinpicture-font-size-large = Grossa
