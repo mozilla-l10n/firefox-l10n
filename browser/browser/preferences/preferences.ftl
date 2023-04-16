@@ -1231,6 +1231,54 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ekki virkja Einungis-HTTPS-ham
 
+## DoH Section
+
+preferences-doh-header = DNS yfir HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Staða: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Veita: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Ógild vefslóð
+preferences-doh-steering-status = Nota staðbundna þjónustuveitu
+preferences-doh-status-active = Virkt
+preferences-doh-status-disabled = Óvirkt
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Ekki virkt ({ $reason })
+preferences-doh-group-message = Virkja öruggt DNS með því að nota:
+preferences-doh-expand-section =
+    .tooltiptext = Nánari upplýsingar
+preferences-doh-setting-default =
+    .label = Sjálfgefin vernd
+    .accesskey = d
+preferences-doh-default-desc = { -brand-short-name } ákveður hvenær ætti að nota öruggt DNS til að vernda friðhelgi þína.
+preferences-doh-default-detailed-desc-1 = Nota öruggt DNS á svæðum þar sem það er tiltækt
+preferences-doh-default-detailed-desc-2 = Nota sjálfgefna DNS-leysarann þinn ef vandamál er með öruggu DNS-veituna
+preferences-doh-default-detailed-desc-3 = Nota staðbundna þjónustuveitu, ef mögulegt er
+preferences-doh-setting-enabled =
+    .label = Aukin vernd
+    .accesskey = i
+preferences-doh-enabled-desc = Þú stjórnar hvenær á að nota öruggt DNS og velur þjónustuveituna þína.
+preferences-doh-enabled-detailed-desc-1 = Nota þjónustuveituna sem þú velur
+preferences-doh-enabled-detailed-desc-2 = Aðeins nota sjálfgefna DNS-leysarann þinn ef vandamál er með öruggu DNS-veituna
+preferences-doh-setting-strict =
+    .label = Hámarksvörn
+    .accesskey = m
+preferences-doh-strict-detailed-desc-1 = Aðeins nota þjónustuveituna sem þú velur
+preferences-doh-strict-detailed-desc-2 = Alltaf að vara við ef öruggt DNS er ekki tiltækt
+preferences-doh-setting-off =
+    .label = Óvirkt
+    .accesskey = k
+preferences-doh-select-resolver = Veldu þjónustuveitu:
+preferences-doh-exceptions-description = { -brand-short-name } mun ekki nota öruggt DNS á þessum vefsvæðum
+preferences-doh-manage-exceptions =
+    .label = Sýsla með undantekningar
+    .accesskey = k
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skjáborð
