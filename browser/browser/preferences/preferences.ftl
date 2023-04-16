@@ -1272,6 +1272,20 @@ preferences-doh-setting-strict =
     .accesskey = m
 preferences-doh-strict-desc = El { -brand-short-name } sempre utilitzarà el DNS segur. Si cal utilitzar el DNS del vostre sistema, veureu un avís de risc de seguretat.
 preferences-doh-strict-detailed-desc-1 = Utilitza només el proveïdor que trieu
+preferences-doh-strict-detailed-desc-2 = Sempre avisa si el DNS segur no està disponible
+preferences-doh-strict-detailed-desc-3 = Si el DNS segur no està disponible, els llocs no es carregaran ni funcionaran correctament
+preferences-doh-setting-off =
+    .label = Desactivat
+    .accesskey = D
+preferences-doh-off-desc = Utilitza el vostre sistema de resolució de DNS per defecte
+preferences-doh-checkbox-warn =
+    .label = Avisa si un tercer impedeix activament utilitzar el DNS segur
+    .accesskey = v
+preferences-doh-select-resolver = Trieu el proveïdor:
+preferences-doh-exceptions-description = El { -brand-short-name } no utilitzarà el DNS segur en aquests llocs
+preferences-doh-manage-exceptions =
+    .label = Gestiona les excepcions…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
