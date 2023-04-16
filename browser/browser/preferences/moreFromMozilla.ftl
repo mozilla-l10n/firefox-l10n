@@ -21,6 +21,10 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 more-from-moz-mozilla-rally-description = Poseu les vostres dades al servei d'una Internet millor per a tothom.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description-advanced = Doneu les vostres dades a estudis de recerca que treballen per a crear un Internet més segur i obert que ajudi les persones, no als gegants tecnològics.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Participa en el { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-title = Baixeu-lo amb el mòbil. Enfoqueu la càmera al codi QR. Quan aparegui un enllaç, toqueu-lo.
+more-from-moz-qr-code-box-firefox-mobile-button = Envia un correu electrònic al telèfon
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Codi QR per baixar el { -brand-product-name } per al mòbil
 more-from-moz-learn-more-link = Més informació
