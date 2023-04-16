@@ -26,6 +26,8 @@ policy-Bookmarks = Crea adreces d'interès a la barra d'adreces d'interès, al m
 policy-CaptivePortal = Activa o desactiva la funcionalitat de portal captiu.
 policy-CertificatesDescription = Afegeix certificats o utilitza certificats integrats.
 policy-Cookies = Permet o denega que els llocs web defineixin galetes.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Defineix polítiques relacionades amb els contenidors.
 policy-DisabledCiphers = Desactiva els xifratges.
 policy-DefaultDownloadDirectory = Defineix el directori de baixades per defecte.
 policy-DisableAppUpdate = Evita que el navegador s’actualitzi.
