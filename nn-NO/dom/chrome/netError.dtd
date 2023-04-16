@@ -8,7 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Tilkoplingsfeil">
-<!ENTITY connectionFailure.longDesc "<p>Nettlesaren kunne ikkje kopla til den spesifiserte nettstaden, sjølv om han finst.</p><ul><li>Kan det vera at tenesta er utilgjengeleg nett no? Prøv igjen seinare.</li><li>Kan du ikkje lesa andre sider? Kontroller nettverkskoplinga til datamaskina di.</li><li>Er datamaskina di bak ein brannmur eller mellomtenar? Feil i innstillingar kan verka inn på nettlesinga.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Nettlesaren kunne ikkje kople til den spesifiserte nettstaden, sjølv om han finst.</p><ul><li>Kan det vere at tenesta er utilgjengeleg nett no? Prøv på nytt seinare.</li><li>Kan du ikkje vitje andre nettstadar heller? Kontroller nettverkskoplinga til datamaskina di.</li><li>Er datamaskina di bak ein brannmur eller mellomtenar? Feil i innstillingar kan verke inn på nettlesinga.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Avrensa tilgang til port av tryggingsårsaker">
 <!ENTITY deniedPortAccess.longDesc "<p>Den førespurde adressa spesifiserte ein port (t.d. <q>mozilla.org:80</q> for port 80 på mozilla.org) som normalt vert brukt til eit <em>anna</em> formål enn nettlesing. Nettlesaren har avbrote førespurnaden av tryggingsårsaker.</p>">
@@ -26,16 +26,16 @@
 <!ENTITY generic.longDesc "<p>Meir informasjon om dette problemet eller denne feilen er ikkje tilgjengeleg no.</p>">
 
 <!ENTITY malformedURI.title "Ugyldig adresse">
-<!ENTITY malformedURI.longDesc "<p>Adressa er ikkje i eit gyldig forma.Kontroller adresselinja for feil og prøv igjen.</p>">
+<!ENTITY malformedURI.longDesc "<p>Adressa er ikkje i eit gyldig format. Kontroller adresselinja for feil og prøv på nytt.</p>">
 
 <!ENTITY netInterrupt.title "Dataoverføring avbroten">
-<!ENTITY netInterrupt.longDesc "<p>Nettlesaren klarte å kopla til tenaren, men tilkoplinga vart avbroten ved overføring av informasjon. Prøv igjen.</p><ul><li>Klarer du ikkje å lesa andre nettsider? Kontroller nettverkstilkoplinga åt datamaskina.</li><li>Har du framleis problem? Vend deg til nettverksansvarleg eller Internettleverandøren din for meir hjelp.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Nettlesaren klarte å kople til tenaren, men tilkoplinga vart avbroten ved overføring av informasjon. Prøv på nytt.</p><ul><li>Klarer du ikkje å vitje andre nettstadar heller? Kontroller nettverkstilkoplinga til datamaskina.</li><li>Har du framleis problem? Kontakt nettverksansvarleg eller Internettleverandør for meir hjelp.</li></ul>">
 
 <!ENTITY notCached.title "Dokumentet er utgått på dato">
-<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i nettlesarens snøgglager.</p><ul><li>Av tryggingshomsyn sender ikkje nettlesaren automatisk førespurnader etter sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å lasta inn dokumentet frå nettstaden på nytt.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i snøgglaget til nettlesaren.</p><ul><li>Av tryggingsomsyn sender ikkje nettlesaren automatiske førespurnadar etter sensitive dokument på nytt.</li><li>Trykk Prøv på nytt for å laste inn dokumentet frå nettstaden på nytt.</li></ul>">
 
 <!ENTITY netOffline.title "Fråkopla tilstand">
-<!ENTITY netOffline.longDesc2 "<p>Nettlesaren er i fråkopla modus, og kan ikkje kopla til tenaren.</p><ul><li>Er datamaskina kopla til eit aktivt nettverk?</li><li>Sett nettlesaren i tilkopla modus og prøv igjen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Nettlesaren er i fråkopla modus, og kan ikkje kople til tenaren.</p><ul><li>Er datamaskina kopla til eit aktivt nettverk?</li><li>Sett nettlesaren i tilkopla modus og prøv på nytt.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
 <!ENTITY contentEncodingError.longDesc "<p>Nettsida du prøver å opne,kan ikkje visast fordi ho brukar ein ukjend eller ugyldig komprimeringsmetode.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">
@@ -44,10 +44,10 @@
 <!ENTITY unsafeContentType.longDesc "<ul>  <li>Kontakt eigarane av nettsida for å informere dei om dette problemet.</li> </ul> ">
 
 <!ENTITY netReset.title "Brot i sambandet">
-<!ENTITY netReset.longDesc "<p>Tilkoplinga til nettstaden vart avbroten under dataoverføring. Prøv igjen.</p>">
+<!ENTITY netReset.longDesc "<p>Tilkoplinga til nettstaden vart avbroten under dataoverføring. Prøv på nytt.</p>">
 
 <!ENTITY netTimeout.title "Tidsavbrot">
-<!ENTITY netTimeout.longDesc "<p>Nettlesaren brukte for lang tid på å kople til den spesifiserte adressa.</p><ul><li>Kan tenaren ha høg førespurnad eller eit mellombels utfall? Prøv igjen seinare.</li><li>Klarer du ikkje å lese andre nettsider? Kontroller nettverkstilkoplinga åt datamaskina.</li><li>Er datamaskina di bak ein brannmur eller mellomtenar? Feil i innstillingar kan verka inn på nettlesinga.</li><li>Har du framleis problem? Vend deg til nettverksansvarleg eller Internettleverandøren din for meir hjelp.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Nettlesaren brukte for lang tid på å kople til den spesifiserte adressa.</p><ul><li>Kan tenaren ha høg førespurnad eller eit mellombels utfall? Prøv på nytt seinare.</li><li>Kan du ikkje vitje andre nettsadar heller? Kontroller nettverkstilkoplinga til datamaskina.</li><li>Er datamaskina di bak ein brannmur eller mellomtenar? Feil i innstillingar kan verke inn på nettlesinga.</li><li>Har du framleis problem? Kontakt nettverksansvarleg eller Internettleverandør for meir hjelp.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Ukjend protokoll">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adressa spesifiserer ein protokoll (f.eks. <q>wxyz://</q>) som nettlesaren ikkje forstår, slik at han ikkje kan kople skikkeleg til tenaren.</p><ul><li>Prøver du å få tilgang til multimedia eller ei anna ikkje-tekstleg kjelde? Sjekk om nettstaden spesifiserer ekstra krav.</li><li>Nokre protokollar krev at tredjeparts programvare eller programtillegg er tilgjengelege, før nettlesaren kan kjenne dei att.</li></ul>">
