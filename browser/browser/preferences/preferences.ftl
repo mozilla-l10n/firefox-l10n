@@ -1248,6 +1248,12 @@ preferences-doh-resolver = Poskytovateľ: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Neplatná adresa URL
+preferences-doh-steering-status = Pomocou lokálneho poskytovateľa
+preferences-doh-status-active = Aktívne
+preferences-doh-status-disabled = Vypnuté
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Neaktívne ({ $reason })
 preferences-doh-group-message = Povoliť zabezpečené DNS pomocou:
 preferences-doh-expand-section =
     .tooltiptext = Ďalšie informácie
