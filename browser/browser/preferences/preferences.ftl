@@ -1255,6 +1255,9 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Protecció per defecte
     .accesskey = P
+preferences-doh-default-desc = El { -brand-short-name } decideix quan cal utilitzar el DNS segur per a protegir la vostra privadesa.
+preferences-doh-default-detailed-desc-1 = Utilitzeu el DNS segur en les regions on estigui disponible
+preferences-doh-default-detailed-desc-2 = Utilitzeu el vostre sistema de resolució de DNS per defecte si hi ha algun problema amb el proveïdor de DNS segur
 
 ## The following strings are used in the Download section of settings
 
