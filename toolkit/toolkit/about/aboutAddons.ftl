@@ -306,6 +306,7 @@ addon-detail-homepage-label = Կայքէջ
 addon-detail-rating-label = Վարկանիշ
 # Message for add-ons with a staged pending update.
 install-postponed-message = Այս ընդլայնումը կթարմացվի, երբ { -brand-short-name }-ը վերամեկնարկի:
+install-postponed-button = Թարմացնել հիմա
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
