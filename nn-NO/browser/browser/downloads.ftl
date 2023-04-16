@@ -88,9 +88,9 @@ downloads-cmd-show-description-2 =
 downloads-cmd-show-downloads =
     .label = Vis nedlastingsmappe
 downloads-cmd-retry =
-    .tooltiptext = Prøv igjen
+    .tooltiptext = Prøv på nytt
 downloads-cmd-retry-panel =
-    .aria-label = Prøv igjen
+    .aria-label = Prøv på nytt
 downloads-cmd-go-to-download-page =
     .label = Gå til nedlastingssida
     .accesskey = G
@@ -183,7 +183,7 @@ downloads-cancel-download =
 downloads-history =
     .label = Vis alle nedlastingar
     .accesskey = V
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Nedlastingsdetaljar
