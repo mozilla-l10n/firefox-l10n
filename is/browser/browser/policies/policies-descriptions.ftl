@@ -26,6 +26,8 @@ policy-Bookmarks = Búa til bókamerki í bókamerkjastiku, bókamerkjalistanum 
 policy-CaptivePortal = Virkja eða slökkva á þjónustuaðgangi.
 policy-CertificatesDescription = Bæta við skilríki eða nota innbyggða skilríkið.
 policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Stilltu reglur sem tengjast gagnagámum.
 policy-DisabledCiphers = Gera dulritun óvirka.
 policy-DefaultDownloadDirectory = Stilltu sjálfgefna möppu fyrir niðurhal.
 policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
