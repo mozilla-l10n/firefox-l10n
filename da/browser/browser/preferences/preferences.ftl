@@ -1238,6 +1238,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
+preferences-doh-description = DNS-opslag foretaget med DNS via HTTPS sender din forespørgsel efter et domænenavn via en krypteret forbindelse. På denne måde håndteres DNS sikkert, og det bliver sværere for andre at se, hvilket websted du har tænkt dig at besøge.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
@@ -1256,6 +1257,9 @@ preferences-doh-status-not-active = Ikke aktiv ({ $reason })
 preferences-doh-group-message = Aktiver sikker DNS ved at bruge:
 preferences-doh-expand-section =
     .tooltiptext = Mere information
+preferences-doh-setting-default =
+    .label = Standard-beskyttelse
+    .accesskey = S
 preferences-doh-default-desc = { -brand-short-name } beslutter, hvornår sikker DNS skal anvendes for at beskytte dit privatliv.
 preferences-doh-default-detailed-desc-1 = Brug sikker DNS i lande, hvor det er tilgængeligt
 preferences-doh-default-detailed-desc-2 = Brug din standard DNS-resolver, hvis der opstår problemer med den sikre DNS-udbyder.
@@ -1271,6 +1275,7 @@ preferences-doh-enabled-detailed-desc-2 = Brug kun din standard DNS-resolver, hv
 preferences-doh-setting-strict =
     .label = Maksimal beskyttelse
     .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } vil altid anvende sikker DNS. Du vil se en sikkerhedsadvarsel, før vi anvender din system-DNS
 preferences-doh-strict-detailed-desc-1 = Brug kun den udbyder, du har valgt
 preferences-doh-strict-detailed-desc-2 = Advar altid, hvis sikker DNS ikke er tilgængelig
 preferences-doh-strict-detailed-desc-3 = Hvis sikker DNS ikke er tilgængelig, vil websteder ikke indlæses eller fungere korrekt
@@ -1282,6 +1287,7 @@ preferences-doh-checkbox-warn =
     .label = Advar, hvis en tredjepart aktivt forhindrer sikker DNS
     .accesskey = A
 preferences-doh-select-resolver = Vælg udbyder:
+preferences-doh-exceptions-description = { -brand-short-name } vil ikke anvende sikker DNS på disse websteder
 preferences-doh-manage-exceptions =
     .label = Håndter undtagelser…
     .accesskey = u
