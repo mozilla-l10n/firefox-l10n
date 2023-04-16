@@ -1210,6 +1210,13 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Chajinïk K'o Wi
     .accesskey = a
+preferences-doh-strict-detailed-desc-1 = Xa xe tawokisaj ri ya'öl samaj xacha'
+preferences-doh-setting-off =
+    .label = Tichup
+    .accesskey = u
+preferences-doh-off-desc = Tawokisaj ri ruchojmirisaxel DNS k'o wi
+preferences-doh-select-resolver = Ticha' ya'öl samaj:
+preferences-doh-exceptions-description = { -brand-short-name } man xtrokisaj ta jikïl DNS pa re taq ruxaq re'
 
 ## The following strings are used in the Download section of settings
 
