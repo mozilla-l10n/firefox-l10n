@@ -22,7 +22,7 @@
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Viss adressa er rett, er det tre andre ting du kan prøve:</strong>
 <ul>
-  <li>Prøv igjen seinare.</li>
+  <li>Prøv på nytt seinare.</li>
   <li>Sjekk nettverkssambandet ditt.</li>
   <li>Viss du er tilkopla, men bak ein brannmur, må du kontrollere at &brandShortName; har løyve til å bruke internett.</li>
 </ul>
@@ -45,7 +45,7 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk hente sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å hente dokumentet på nytt frå nettstaden.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk hente sensitive dokument på nytt.</li><li>Trykk Prøv på nytt for å hente dokumentet på nytt frå nettstaden.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.</li> </ul>">
 
