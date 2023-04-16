@@ -190,6 +190,8 @@ advanced-fonts =
     .accesskey = ຂ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ຂະຫຍາຍ
+preferences-default-zoom = ຊູມເລີ່ມຕົ້ນ
+    .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =

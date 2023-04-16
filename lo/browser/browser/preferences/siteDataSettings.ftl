@@ -24,6 +24,9 @@ site-data-local-file-host = (ໄຟລ໌ໃນເຄື່ອງ)
 site-data-remove-selected =
     .label = ລຶບລາຍການທີ່ເລືອກ
     .accesskey = R
+site-data-settings-dialog =
+    .buttonlabelaccept = ບັນ​ທຶກ​ການ​ປ່ຽນ​ແປງ
+    .buttonaccesskeyaccept = a
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
