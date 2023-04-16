@@ -20,3 +20,5 @@ more-from-moz-learn-more-link = Իմանալ ավելին
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
+more-from-moz-firefox-relay-description = Պաշտպանում է ձեր էլ. փոստը և ինքնությունը՝ էլ. փոստի անվճար դիմակավորմամբ:
+more-from-moz-firefox-relay-button = Ստացեք { -relay-brand-short-name }-ը
