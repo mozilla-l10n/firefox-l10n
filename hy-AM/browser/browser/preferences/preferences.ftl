@@ -174,6 +174,9 @@ preferences-web-appearance-choice-dark = Մուգ
 preferences-web-appearance-footer = Կառավարեք { -brand-short-name } ձևավորումները <a data-l10n-name="themes-link">Ընդլայնումներ և Ձևավորումներում</a>
 preferences-colors-header = Գույներ
 preferences-colors-description = Չեղարկել { -brand-short-name }-ի սկզբնադիր գույները տեքստի, կայքի խորքի և հղումների համար:
+preferences-colors-manage-button =
+    .label = Կառավարել գույները…
+    .accesskey = C
 preferences-fonts-header = Տառատեսակներ
 default-font = Հիմնական տառատեսակը
     .accesskey = Հ
@@ -316,6 +319,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Ի՞նչ պիտի անի { -brand-short-name }-­ն այլ ֆայլերի հետ:
+applications-save-for-new-types =
+    .label = Պահի ֆայլերը
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Հարցնի՝ բացել, թե պահել ֆայլերը
+    .accesskey = A
 drm-content-header = Թվային իրավունքների կառավարման (DRM) բովանդակություն
 play-drm-content =
     .label = Նվագարկել DRM-ղեկավարվող բովանդակությունը
@@ -339,6 +349,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)
     .accesskey = Ե
+update-application-background-enabled =
+    .label = Երբ { -brand-short-name }-ը աշխատեցված չէ
+    .accesskey = W
 update-application-warning-cross-user-setting = Այս կարգավորումը կգործադրվի բոլոր Windows-ի էջերի և { -brand-short-name }-ի հատկագրերի վրա օգտագործելով { -brand-short-name }-ի այս ներբեռնումը։
 update-application-use-service =
     .label = Թարմացումները տեղադրելիս օգտվել խորքային ծառայությունից
@@ -392,6 +405,9 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Միացնում է նկարում-պատկերված տեսանյութի կառավարները
     .accesskey = E
 browsing-picture-in-picture-learn-more = Իմանալ ավելին
+browsing-media-control =
+    .label = Մեդիայի կառավարում ստեղնաշարի, ականջակալների կամ վիրտուալ միջերեսով
+    .accesskey = v
 browsing-media-control-learn-more = Իմանալ ավելին
 browsing-cfr-recommendations =
     .label = Զննարկելիս առաջարկել հավելումներ
@@ -449,13 +465,16 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Firefox-ի սկզբնական պարունակությունը
+home-prefs-content-header = Firefox-ի տնային բովանդակություն
 home-prefs-content-description = Ընտրեք, թե ինչ բովանդակություն կցնականաք ձեր Firefox-ի սկզբնական էկրանին։
+home-prefs-content-header2 = { -firefox-home-brand-name } բովանդակություն
 home-prefs-search-header =
     .label = Վեբ որոնում
 home-prefs-shortcuts-header =
     .label = Դյուրանցումներ
 home-prefs-shortcuts-description = Կայքեր, որոնք պահել կամ այցելել եք
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Հովանավորված դյուրանցումներ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -725,6 +744,8 @@ forms-breach-alerts =
     .label = Ցուցադրել զգուշացումներ խախտված վեբ կայքերի գաղտնաբառերի մասին
     .accesskey = b
 forms-breach-alerts-learn-more-link = Իմանալ ավելին
+relay-integration =
+    .label = Միացնել { -relay-brand-name }-ը ձեր { -brand-short-name } գաղտնաբառի կառավարիչում
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Մուտքանունների և գաղտնաբառերի ինքնալցում
@@ -745,7 +766,14 @@ forms-master-pw-change =
 forms-primary-pw-change =
     .label = Փոխել Հիմնական գաղտնաբառը
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Նախկինում հայտնի էր որպես Հիմնական գաղտնաբառ
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխությունը Չհաջողվեց
+forms-windows-sso =
+    .label = Թույլատրել Windows եզակի գրանցում Microsoft-ում, աշխատանքային և դպրոցական հաշիվներում:
+forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 
 ## OS Authentication dialog
 
@@ -863,6 +891,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Լավագույն կայքեր
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Որոնիչներ
+    .accesskey = a
 addressbar-suggestions-settings = Փոխել որոնիչների նախապատվությունները
 
 ## Privacy Section - Content Blocking
@@ -890,8 +921,12 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Հավասարակշռված է պաշտպանության և կատարման համար։Էջերը կբեռնվեն կանոնակարգված կերպով։
 content-blocking-etp-strict-desc = Ավելի ուժեղ պաշտպանություն, բայց կարող է որոշ կայքերի կամ բովանդակությունների կոտրման պատճառ դառնալ։
 content-blocking-etp-custom-desc = Ընտրեք, որ հետևումները և գրվածքները արգելափակել։
+content-blocking-etp-blocking-desc = { -brand-short-name }-ը արգելափակում է հետևյալը՝
 content-blocking-private-windows = Անձնական պատուհաններում բովանդակության հետևում
+content-blocking-cross-site-cookies-in-all-windows = Միջկայքային թխուկները բոլոր պատուհաններում (ներառում է հետագծող թխուկներ)
+content-blocking-cross-site-cookies-in-all-windows2 = Միջկայքային թխուկները բոլոր պատուհաններում
 content-blocking-cross-site-tracking-cookies = Միջակայքային հետևող նշոցիկներ
+content-blocking-all-cross-site-cookies-private-windows = Միջկայքային թխուկները Մասնավոր պատուհաններում
 content-blocking-cross-site-tracking-cookies-plus-isolate = Խաչաձև կայքերի հետագծումների թխուկներ, և մեկուսացնում է մնացած թխուկները
 content-blocking-social-media-trackers = Սոցիալական մեդիայի հետագծումներ
 content-blocking-all-cookies = Բոլոր նշոցիկները
@@ -903,6 +938,9 @@ content-blocking-fingerprinters = Մատնահետքեր
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Թխուկների ամբողջական պաշտպանությունը պարունակում է այն կայքի թխուկները, որում դուք գտնվում եք, որպեսզի հեռագծիչները չկարողանան օգտագործել դրանք՝ կայքերի միջև ձեզ հետևելու համար:
+content-blocking-etp-standard-tcp-title = Ներառում է Թխուկների ամբողջական պաշտպանությունը, գաղտնիության մեր ամենահզոր յուրահատկությունը
 content-blocking-warning-title = Ուշադրություն։
 content-blocking-warning-learn-how = Իմանալ ինչպես
 content-blocking-reload-description = Ձեզ հարկավոր կլինի վերբեռնել ձեր ներդիրները այս փոփոխությունները հաստատելու համար։
@@ -1001,6 +1039,8 @@ addon-recommendations-link = Իմանալ ավելին
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար
+collection-backlogged-crash-reports-with-link = Թույլատրել { -brand-short-name }-ին ուղարկել հետաձգված վթարի զեկույցներ առանց ձեր գիտության <a data-l10n-name="crash-reports-link">Իմացեք ավելին</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##

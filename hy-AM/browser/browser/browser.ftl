@@ -118,6 +118,9 @@ urlbar-tip-icon-description =
     .alt = Հուշում.
 urlbar-result-menu-button =
     .title = Բացել ցանկը
+urlbar-result-menu-learn-more =
+    .label = Իմանալ ավելին
+    .accesskey = L
 urlbar-result-menu-tip-get-help =
     .label = Ստանալ օգնություն
     .accesskey = h
@@ -299,6 +302,9 @@ quickactions-cmd-update = արդիացնել
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Դիտել Էջի Կոդը
 quickactions-cmd-viewsource = դիտել աղբյուրը, աղբյուրը
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Իմացեք ավելին արագ գործողությունների մասին
 
 ## Bookmark Panel
 
@@ -349,7 +355,7 @@ identity-active-loaded = Դուք անջատել եք պաշտպանությու
 identity-weak-encryption = Այս էջը օգտագործում է աղքատ գաղտնագրում:
 identity-insecure-login-forms = Այս էջից մուտքագրումները վտանգված են:
 identity-https-only-connection-upgraded = (արդիացվել է HTTPS-ի)
-identity-https-only-label = HTTPS կերպ միայն
+identity-https-only-label = Միայն HTTPS կերպ
 identity-https-only-dropdown-on =
     .label = Միաց.
 identity-https-only-dropdown-off =
@@ -564,6 +570,8 @@ reader-view-close-button =
     .aria-label = Փակել Ընթերցելու եղանակը
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI

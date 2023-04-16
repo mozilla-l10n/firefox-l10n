@@ -142,6 +142,7 @@ spotlight-public-wifi-vpn-link = Ոչ հիմա
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-primary-button = Միացնել Թխուկների ամբողջական պաշտպանությունը
 spotlight-total-cookie-protection-secondary-button = Ոչ հիմա
 
 ## Emotive Continuous Onboarding
