@@ -79,3 +79,49 @@ migration-list-autofill-label = dades d'emplenament automàtic
 
 ##
 
+migration-wizard-progress-header = S'estan important les dades
+migration-wizard-progress-done-header = Les dades s'han importat correctament
+migration-wizard-progress-icon-in-progress =
+    .aria-label = S'està important…
+migration-wizard-progress-icon-completed =
+    .aria-label = S'ha acabat
+migration-safari-password-import-header = Importeu les contrasenyes del Safari
+migration-safari-password-import-steps-header = Per a importar les contrasenyes del Safari:
+migration-safari-password-import-step1 = En el Safari, obriu el menú «Safari» i aneu a Preferències > Contrasenyes
+migration-safari-password-import-step2 = Seleccioneu el botó <img data-l10n-name="safari-icon-3dots"/> i trieu «Exporta totes les contrasenyes»
+migration-safari-password-import-step3 = Deseu el fitxer de contrasenyes
+migration-safari-password-import-step4 = Utilitzeu «Selecciona el fitxer» a continuació per a triar el fitxer de contrasenyes que heu desat
+migration-safari-password-import-skip-button = Omet
+migration-safari-password-import-select-button = Selecciona el fitxer
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } adreça d'interès
+       *[other] { $quantity } adreces d'interès
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } preferit
+       *[other] { $quantity } preferits
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } contrasenya
+       *[other] { $quantity } contrasenyes
+    }
