@@ -44,3 +44,4 @@ screenshots-private-window-error-title = Echupun ri { -screenshots-brand-name } 
 screenshots-private-window-error-details = Takuyu' chi qe ruma ri k'ayewal. Tajin niqasamajij re rub'anikil re' richin ri ch'aqa' chik taq ruwäch.
 screenshots-generic-error-title = ¡Itz! Itzel xe'el ri { -screenshots-brand-name }.
 screenshots-generic-error-details = Man öj jikïl chi rij ri xk'ulwachitäj. ¿La nawajo' natojtob'ej chik o nachäp ruwachib'al jun chik ruxaq?
+screenshots-too-large-error-title = Ri chapoj ruwäch xqupïx ruma yalan nïm
