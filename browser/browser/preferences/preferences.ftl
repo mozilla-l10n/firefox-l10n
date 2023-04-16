@@ -846,7 +846,7 @@ forms-breach-alerts =
     .accesskey = ы
 forms-breach-alerts-learn-more-link = Подробнее
 relay-integration =
-    .label = Включите { -relay-brand-name } в вашем менеджере паролей { -brand-short-name }
+    .label = Включить { -relay-brand-name } в вашем менеджере паролей { -brand-short-name }
 relay-integration-learn-more-link = Подробнее
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -1234,6 +1234,63 @@ httpsonly-radio-enabled-pbm =
     .label = Включить режим «Только HTTPS» только в приватных окнах
 httpsonly-radio-disabled =
     .label = Не включать режим «Только HTTPS»
+
+## DoH Section
+
+preferences-doh-header = DNS через HTTPS
+preferences-doh-description = Система доменных имён (DNS) через HTTPS отправляет ваш запрос доменного имени через зашифрованное соединение, создавая безопасный DNS и затрудняя другим возможность увидеть, к какому сайту вы собираетесь получить доступ.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Состояние: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Поставщик: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Некорректный URL
+preferences-doh-steering-status = Использование местного поставщика
+preferences-doh-status-active = Активно
+preferences-doh-status-disabled = Отключено
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Неактивно ({ $reason })
+preferences-doh-group-message = Включить безопасный DNS, используя:
+preferences-doh-expand-section =
+    .tooltiptext = Подробная информация
+preferences-doh-setting-default =
+    .label = Защита по умолчанию
+    .accesskey = м
+preferences-doh-default-desc = { -brand-short-name } решает, когда использовать безопасный DNS для защиты вашей конфиденциальности.
+preferences-doh-default-detailed-desc-1 = Использовать безопасный DNS в регионах, где он доступен
+preferences-doh-default-detailed-desc-2 = Использовать разрешение DNS по умолчанию, если имеется проблема с поставщиком безопасного DNS.
+preferences-doh-default-detailed-desc-3 = Использовать местного поставщика, если это возможно
+preferences-doh-default-detailed-desc-4 = Отключить, когда активны VPN, родительский контроль или корпоративные политики.
+preferences-doh-default-detailed-desc-5 = Отключить, когда сеть сообщает { -brand-short-name }, что она не должна использовать безопасный DNS.
+preferences-doh-setting-enabled =
+    .label = Повышенная защита
+    .accesskey = ы
+preferences-doh-enabled-desc = Вы сами решаете, когда использовать безопасный DNS, и выбираете своего поставщика.
+preferences-doh-enabled-detailed-desc-1 = Использовать выбранного вами поставщика
+preferences-doh-enabled-detailed-desc-2 = Использовать разрешение DNS по умолчанию только в том случае, если есть проблема с безопасным DNS
+preferences-doh-setting-strict =
+    .label = Максимальная защита
+    .accesskey = к
+preferences-doh-strict-desc = { -brand-short-name } всегда будет использовать безопасный DNS. Вы увидите предупреждение об угрозе безопасности, прежде чем мы будем использовать DNS вашей системы.
+preferences-doh-strict-detailed-desc-1 = Использовать только выбранного вами поставщика
+preferences-doh-strict-detailed-desc-2 = Всегда предупреждать, если безопасный DNS недоступен
+preferences-doh-strict-detailed-desc-3 = Если безопасный DNS недоступен, сайты не будут загружаться или работать должным образом.
+preferences-doh-setting-off =
+    .label = Отключить
+    .accesskey = ю
+preferences-doh-off-desc = Использовать разрешение DNS по умолчанию
+preferences-doh-checkbox-warn =
+    .label = Предупреждать, если третья сторона активно препятствует безопасному DNS
+    .accesskey = ж
+preferences-doh-select-resolver = Выберите поставщика:
+preferences-doh-exceptions-description = { -brand-short-name } не будет использовать безопасный DNS на этих сайтах
+preferences-doh-manage-exceptions =
+    .label = Управление исключениями…
+    .accesskey = ю
 
 ## The following strings are used in the Download section of settings
 
