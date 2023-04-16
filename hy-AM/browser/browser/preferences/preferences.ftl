@@ -1075,7 +1075,14 @@ certs-devices =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Միայն HTTPS կերպ
 httpsonly-learn-more = Իմանալ ավելին
+httpsonly-radio-enabled =
+    .label = Միացնել Միայն HTTPS կերպը բոլոր պատուհաններում
+httpsonly-radio-enabled-pbm =
+    .label = Միացնել Միայն HTTPS կերպը միայն մասնավոր պատուհաններում
+httpsonly-radio-disabled =
+    .label = Չմիացնել Միայն HTTPS կերպը
 
 ## DoH Section
 
