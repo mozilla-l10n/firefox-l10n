@@ -1217,6 +1217,9 @@ preferences-doh-setting-off =
 preferences-doh-off-desc = Tawokisaj ri ruchojmirisaxel DNS k'o wi
 preferences-doh-select-resolver = Ticha' ya'öl samaj:
 preferences-doh-exceptions-description = { -brand-short-name } man xtrokisaj ta jikïl DNS pa re taq ruxaq re'
+preferences-doh-manage-exceptions =
+    .label = Kenuk'samajïx taq Man Relik Ta...
+    .accesskey = R
 
 ## The following strings are used in the Download section of settings
 
