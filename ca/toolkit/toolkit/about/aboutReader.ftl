@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Fosc
     .title = Esquema de colors foscos
 about-reader-color-scheme-sepia = Sèpia
     .title = Esquema de colors sèpia
+about-reader-color-scheme-auto = Automàtic
+    .title = Esquema de colors automàtic
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
