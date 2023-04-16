@@ -13,6 +13,14 @@
 onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
 onboarding-start-browsing-button-label = Սկսել դիտարկումը
 onboarding-not-now-button-label = Ոչ հիմա
+mr1-onboarding-get-started-primary-button-label = Սկսել
+mr1-onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
+    .title = { -brand-short-name }-ը կկայվի որպես սկզբնադիր զննիչ և կամրացվի Խնդրագոտուն
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
+mr1-onboarding-set-default-secondary-button-label = Ոչ հիմա
 
 ## Custom Return To AMO onboarding strings
 
@@ -37,14 +45,6 @@ mr1-return-to-amo-add-extension-label = Ավելացնել { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Սկսում ենք. էկրան { $current }-ը { $total }-ից
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Ընթացքը. քայլ { $current }՝ { $total }-ից
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Կահույքի դիզայներ, Firefox-ի երկրպագու
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Ընթացքը. քայլ { $current }՝ { $total }-ից
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Անջատեք անիմացիաները
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Սկսել
-mr1-onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
-    .title = { -brand-short-name }-ը կկայվի որպես սկզբնադիր զննիչ և կամրացվի Խնդրագոտուն
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
-mr1-onboarding-set-default-secondary-button-label = Ոչ հիմա
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -131,7 +130,7 @@ mr1-onboarding-theme-primary-button-label = Պահել ոճը
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմա
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Համակարգային
-mr1-onboarding-theme-label-light = Բաց
+mr1-onboarding-theme-label-light = Լուսավոր
 mr1-onboarding-theme-label-dark = Մուգ
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
