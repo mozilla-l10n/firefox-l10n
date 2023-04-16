@@ -1256,8 +1256,10 @@ preferences-doh-setting-default =
     .label = Protecció per defecte
     .accesskey = P
 preferences-doh-default-desc = El { -brand-short-name } decideix quan cal utilitzar el DNS segur per a protegir la vostra privadesa.
-preferences-doh-default-detailed-desc-1 = Utilitzeu el DNS segur en les regions on estigui disponible
-preferences-doh-default-detailed-desc-2 = Utilitzeu el vostre sistema de resolució de DNS per defecte si hi ha algun problema amb el proveïdor de DNS segur
+preferences-doh-default-detailed-desc-1 = Utilitza el DNS segur en les regions on estigui disponible
+preferences-doh-default-detailed-desc-2 = Utilitza el vostre sistema de resolució de DNS per defecte si hi ha algun problema amb el proveïdor de DNS segur
+preferences-doh-default-detailed-desc-3 = Utilitza un proveïdor local, si és possible
+preferences-doh-default-detailed-desc-4 = Desactiva quan la VPN, el control parental o les polítiques empresarials estiguin activats
 
 ## The following strings are used in the Download section of settings
 
