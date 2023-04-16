@@ -125,3 +125,18 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } contrasenya
        *[other] { $quantity } contrasenyes
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] De l'últim dia
+       *[other] Dels últims { $maxAgeInDays } dies
+    }
+migration-wizard-progress-success-formdata = Historial de formularis
+migration-wizard-safari-permissions-sub-header = Per a importar les adreces d'interès i l'historial de navegació del Safari:
+migration-wizard-safari-instructions-continue = Seleccioneu «Continuar»
+migration-wizard-safari-instructions-folder = Seleccioneu la carpeta del Safari a la llista i trieu «Obre»
+migration-wizard-safari-select-button = Selecciona el fitxer

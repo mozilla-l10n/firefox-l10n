@@ -57,29 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuaris
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Adeu als bàners de galetes!
-cfr-cookie-banner-handling-body = Permeteu que el { -brand-short-name } rebutgi automàticament totes les sol·licituds de bàners de galetes, quan sigui possible. Si no ho és, s'acceptaran totes les galetes per tancar encara més bàners.
-cfr-cookie-banner-accept-button = Descarta les sol·licituds
-    .accesskey = D
-cfr-cookie-banner-reject-button = Ara no
-    .accesskey = n
-cfr-cookie-banner-handling-header-variant-1 = Vegeu menys finestres emergents de galetes
-cfr-cookie-banner-handling-body-variant-1 = Permeteu que el { -brand-short-name } gestioni automàticament les finestres emergents de galetes per a una navegació sense distraccions. El { -brand-short-name } rebutjarà totes les sol·licituds, si és possible; si no, les acceptarà totes.
-cfr-cookie-banner-accept-button-variant-1 = Tanca les finestres emergents
-    .accesskey = T
-cfr-cookie-banner-reject-button-variant-1 = No, gràcies
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Reducció de bàners de galetes
-cfr-cookie-banner-handling-body-variant-2 = Voleu permetre que el { -brand-short-name } rebutgi la sol·licitud de consentiment de galetes d’un lloc si és possible o que accepti l’accés a les galetes quan no sigui possible?
-cfr-cookie-banner-accept-button-variant-2 = Permet
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Ara no
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronitzeu les adreces d'interès a tot arreu.
@@ -246,24 +223,11 @@ colorways-cfr-header-today = Les combinacions de colors de Veus independents cad
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Adeu als bàners de galetes!
-cfr-cookiebanner-body = Permeteu que el { -brand-short-name } rebutgi automàticament totes les sol·licituds de bàners de galetes, quan sigui possible.
-cfr-cookiebanner-accept-button-v2 = Rebutja les sol·licituds
+cfr-cbh-header = Voleu que el { -brand-short-name } rebutgi els bàners de galetes?
+cfr-cbh-body = El { -brand-short-name } pot rebutjar automàticament moltes sol·licituds de bàners de galetes.
+cfr-cbh-confirm-button = Rebutja els bàners de galetes
     .accesskey = R
-cfr-cookiebanner-reject-button = Ara no
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Vegeu menys finestres emergents de galetes
-cfr-cookiebanner-body-variant-1 = Permeteu que el { -brand-short-name } gestioni automàticament les finestres emergents de galetes per a una navegació sense distraccions. El { -brand-short-name } rebutjarà totes les sol·licituds, si és possible.
-cfr-cookiebanner-accept-button-variant-1 = Tanca les finestres emergents
-    .accesskey = T
-cfr-cookiebanner-reject-button-variant-1 = No, gràcies
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reducció de bàners de galetes
-cfr-cookiebanner-body-variant-2 = Voleu reduir la quantitat de bàners de galetes que veieu? Permeteu que el { -brand-short-name } rebutgi la sol·licitud de consentiment de galetes d'un lloc web sempre que sigui possible.
-cfr-cookiebanner-accept-button-variant-2 = Permet
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Ara no
+cfr-cbh-dismiss-button = Ara no
     .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -271,3 +235,14 @@ cfr-cookiebanner-reject-button-variant-2 = Ara no
 july-jam-headline = Teniu les espatlles ben cobertes
 july-jam-body = Cada mes, el { -brand-short-name } bloca una mitjana de 3.000 elements de seguiment per usuari, per tal d'oferir-vos un accés segur i ràpid al bon contingut d'Internet.
 july-jam-set-default-primary = Obre els enllaços amb el { -brand-short-name }
+fox-doodle-pin-headline = Ben tornat
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Us volem recordar que podeu tenir el vostre navegador independent preferit a un sol clic.
+fox-doodle-pin-primary = Obre els enllaços amb el { -brand-short-name }
+fox-doodle-pin-secondary = Ara no
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-headline = <strong>Ara podeu obrir els fitxers PDF en el { -brand-short-name }.</strong> Editeu o signeu formularis directament en el navegador. Per a canviar, cerqueu «PDF» en els paràmetres.
+set-default-pdf-handler-primary = Entesos
