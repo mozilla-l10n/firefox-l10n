@@ -47,7 +47,11 @@
 
 <!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk hente sensitive dokument på nytt.</li><li>Trykk Prøv på nytt for å hente dokumentet på nytt frå nettstaden.</li></ul>">
 
-<!ENTITY netOffline.longDesc2 "<ul> <li>Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Trykk på «Prøv på nytt» fort å byte til tilkopla modus og laste sida på nytt.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakt eigarane av nettstaden og informer dei om problemet.</li> </ul>">
 
