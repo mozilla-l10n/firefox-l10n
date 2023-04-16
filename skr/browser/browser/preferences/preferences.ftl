@@ -1225,6 +1225,7 @@ preferences-doh-resolver = مہیا کرݨ آلا: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = غلط یوآرایل
+preferences-doh-steering-status = مقامی مہیاکار ورتݨ
 preferences-doh-status-active = فعال
 preferences-doh-status-disabled = بند
 # Variables:
