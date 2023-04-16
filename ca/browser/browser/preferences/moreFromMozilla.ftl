@@ -27,6 +27,7 @@ more-from-moz-qr-code-box-firefox-mobile-title = Baixeu-lo amb el mòbil. Enfoqu
 more-from-moz-qr-code-box-firefox-mobile-button = Envia un correu electrònic al telèfon
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Codi QR per baixar el { -brand-product-name } per al mòbil
+more-from-moz-button-mozilla-vpn-2 = Instal·la la VPN
 more-from-moz-learn-more-link = Més informació
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
