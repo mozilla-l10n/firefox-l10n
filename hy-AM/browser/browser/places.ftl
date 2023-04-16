@@ -41,6 +41,9 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Խմբավորել ըստ անունների
     .accesskey = r
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Կառավարել էջանիշները
 places-show-in-folder =
     .label = Ցուցադրել պանակում
     .accesskey = F
