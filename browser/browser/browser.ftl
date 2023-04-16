@@ -362,6 +362,7 @@ identity-https-only-dropdown-off =
     .label = Անջ.
 identity-https-only-dropdown-off-temporarily =
     .label = Ժամանակավորապես անջատված է
+identity-https-only-info-turn-on2 = Միացրեք Միայն HTTPS կերպը այս կայքի համար, եթե ցանկանում եք, որ { -brand-short-name }-ը արդիացնի կապակցումը, երբ հնարավոր է:
 identity-permissions-storage-access-learn-more = Իմանալ ավելին
 identity-permissions-reload-hint = Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։
 identity-clear-site-data =
