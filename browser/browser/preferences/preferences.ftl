@@ -1235,6 +1235,37 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Nezapínať režim "Len HTTPS"
 
+## DoH Section
+
+preferences-doh-header = DNS cez HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Stav: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Poskytovateľ: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Neplatná adresa URL
+preferences-doh-group-message = Povoliť zabezpečené DNS pomocou:
+preferences-doh-expand-section =
+    .tooltiptext = Ďalšie informácie
+preferences-doh-setting-default =
+    .label = Predvolená ochrana
+    .accesskey = P
+preferences-doh-setting-enabled =
+    .label = Zvýšená ochrana
+    .accesskey = Z
+preferences-doh-setting-strict =
+    .label = Maximálna ochrana
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } bude vždy používať zabezpečené DNS. Pred použitím vášho systému DNS sa zobrazí upozornenie na bezpečnostné riziko.
+preferences-doh-setting-off =
+    .label = Vypnuté
+    .accesskey = V
+preferences-doh-off-desc = Použije sa predvolený prekladač DNS.
+preferences-doh-select-resolver = Zvoľte poskytovateľa:
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Pracovná plocha
