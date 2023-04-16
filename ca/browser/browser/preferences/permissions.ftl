@@ -209,3 +209,15 @@ permissions-site-microphone-desc = Els llocs web següents han sol·licitat acc�
 permissions-site-microphone-disable-label =
     .label = Bloca les noves sol·licituds d'accés al micròfon
 permissions-site-microphone-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir al micròfon. Blocar l'accés al micròfon podria fer que algunes funcions dels llocs web no funcionin correctament.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Paràmetres - Permisos d'altaveu
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Els llocs web següents han sol·licitat accés per a seleccionar un dispositiu de sortida d'àudio. Podeu indicar quins llocs web tenen permís per a seleccionar un dispositiu de sortida d'àudio.
+permissions-exceptions-doh-window =
+    .title = Excepcions de llocs web per a DNS sobre HTTPS
+    .style = { permissions-window2.style }
