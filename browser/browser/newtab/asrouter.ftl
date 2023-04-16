@@ -225,28 +225,6 @@ colorways-cfr-header-today = Las combinaciones de colores de Independent Voices 
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = ¡Se acabaron los avisos de cookies!
-cfr-cookiebanner-body = Permitir que { -brand-short-name } rechace automáticamente todas las solicitudes de avisos de cookies cuando sea posible.
-cfr-cookiebanner-accept-button-v2 = Rechazar solicitudes
-    .accesskey = R
-cfr-cookiebanner-reject-button = Ahora no
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Ver menos avisos emergentes de cookies
-cfr-cookiebanner-body-variant-1 = Dejar que { -brand-short-name } responda automáticamente las ventanas emergentes de cookies para que pueda volver a navegar sin distracciones. { -brand-short-name } rechazará todas las solicitudes si es posible.
-cfr-cookiebanner-accept-button-variant-1 = Descartar emergentes
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = No, gracias
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reducción de avisos de cookies
-cfr-cookiebanner-body-variant-2 = Reducir la cantidad de anuncios de cookies que ve al permitir que { -brand-short-name } rechace la solicitud de consentimiento de cookies de un sitio web, si es posible.
-cfr-cookiebanner-accept-button-variant-2 = Permitir
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Ahora no
-    .accesskey = n
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = ¿Permitir que { -brand-short-name } rechace los avisos de cookies?
 cfr-cbh-body = { -brand-short-name } puede rechazar automáticamente muchas solicitudes de avisos de cookies.
 cfr-cbh-confirm-button = Rechazar los avisos de cookies
@@ -259,6 +237,10 @@ cfr-cbh-dismiss-button = Ahora no
 july-jam-headline = Siempre de tu parte
 july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3.000 rastreadores por usuario, lo que le brinda un acceso rápido y seguro a Internet.
 july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
+fox-doodle-pin-headline = Te damos de nuevo la bienvenida
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Un recordatorio rápido de que puede mantener su navegador independiente favorito a solo un clic de distancia.
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
