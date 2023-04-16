@@ -124,6 +124,8 @@ cfr-doorhanger-video-support-primary-button = Թարմացնել Հիմա
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Իմանալ ավելին
+    .title = Ընդարձակեք՝ յուրահատկության մանրամասների համար
 spotlight-learn-more-expanded = Իմանալ ավելին
     .title = Փակել
 
@@ -171,8 +173,6 @@ firefoxview-cfr-primarybutton = Փորձիր
     .accesskey = T
 firefoxview-cfr-secondarybutton = Ոչ հիմա
     .accesskey = N
-firefoxview-cfr-header = Վերադարձեք վերջերս փակված ներդիրները { -firefoxview-brand-name }-ով
-firefoxview-cfr-body = Գումարած, անխափան կերպով ցատկեք սարքերի միջև և ձեր դիտարկիչին ավելացրեք գույնի շիթ:
 
 ## Firefox View Spotlight
 
@@ -181,3 +181,15 @@ firefoxview-spotlight-promo-title = Ասեք բարև { -firefoxview-brand-name 
 firefoxview-spotlight-promo-subtitle = Ցանկանո՞ւմ եք բացել ներդիրը ձեր հեռախոսում: Արեք դա: Պետք է բացել այն կայքը, որը նոր էիք այցելել: Պահ, այն { -firefoxview-brand-name }-ում է:
 firefoxview-spotlight-promo-primarybutton = Տեսեք, թե ինչպես է այն աշխատում
 firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
+
+## Colorways expiry reminder CFR
+
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+

@@ -118,6 +118,9 @@ confirm-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Զգուշացնել բազմակի ներդիրներ բացելիս, ինչը կարող է դանդաղեցնել { -brand-short-name }-ը:
     .accesskey = դ
+switch-to-new-tabs =
+    .label = Հղումը, պատկերը կամ մեդիան բոր ներդիրում բացելիս միանգամից անցնել դրան
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Ցուցադրել ներդիրների նախադիտումը Windows taskbar-ում
     .accesskey = k
@@ -161,7 +164,16 @@ containers-remove-cancel-button = Չհեռացնել այս Պարունակը
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Լեզուն և տեսքը
+preferences-web-appearance-header = Կայքի արտաքին տեսքը
+preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
+preferences-web-appearance-choice-auto = Ինքնաշխատ
+preferences-web-appearance-choice-light = Լուսավոր
+preferences-web-appearance-choice-dark = Մուգ
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Կառավարեք { -brand-short-name } ձևավորումները <a data-l10n-name="themes-link">Ընդլայնումներ և Ձևավորումներում</a>
 preferences-colors-header = Գույներ
+preferences-colors-description = Չեղարկել { -brand-short-name }-ի սկզբնադիր գույները տեքստի, կայքի խորքի և հղումների համար:
 preferences-fonts-header = Տառատեսակներ
 default-font = Հիմնական տառատեսակը
     .accesskey = Հ
@@ -517,7 +529,9 @@ search-show-suggestions-above-history-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքների ամենավերևում
 search-show-suggestions-private-windows =
     .label = Ցույց տալ որոնման առաջարկները մասնավոր պատուհանում
+suggestions-addressbar-settings-generic2 = Փոխել այլ հասցեագոտիների առաջարկությունների կարգավորումները
 search-suggestions-cant-show = Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմությունը։
+search-one-click-header2 = Որոնման դյուրանցումներ
 search-one-click-desc = Ընտրեք այլընտրանքային որոնիչներ, որոնք կերևան ստորև հասցեի գոտում և որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:
 search-choose-engine-column =
     .label = Որոնիչներ
@@ -1022,6 +1036,9 @@ certs-devices =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = Իմանալ ավելին
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
