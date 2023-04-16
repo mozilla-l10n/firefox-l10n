@@ -1261,6 +1261,32 @@ preferences-doh-default-detailed-desc-1 = Usar DNS seguro en regiones donde est�
 preferences-doh-default-detailed-desc-2 = Use la resolución de DNS predeterminada si hay un problema con el proveedor de DNS seguro
 preferences-doh-default-detailed-desc-3 = Usar un proveedor local si es posible
 preferences-doh-default-detailed-desc-4 = Desactivar cuando una VPN, control parental o políticas de empresa estén activas
+preferences-doh-default-detailed-desc-5 = Desactivar cuando una red le diga a { -brand-short-name } que no debería usar DNS seguro
+preferences-doh-setting-enabled =
+    .label = Protección aumentada
+    .accesskey = i
+preferences-doh-enabled-desc = Usted controla cuándo usar DNS seguro y elige su proveedor.
+preferences-doh-enabled-detailed-desc-1 = Usar el proveedor seleccionado
+preferences-doh-enabled-detailed-desc-2 = Solo usar la resolución de DNS predeterminada si hay un problema con el DNS seguro
+preferences-doh-setting-strict =
+    .label = Protección máxima
+    .accesskey = m
+preferences-doh-strict-desc = { -brand-short-name } siempre usará DNS seguro. Se verá una advertencia de riesgo de seguridad antes de que usemos el DNS del sistema.
+preferences-doh-strict-detailed-desc-1 = Solo usar el proveedor seleccionado
+preferences-doh-strict-detailed-desc-2 = Avisar siempre si el DNS seguro no está disponible
+preferences-doh-strict-detailed-desc-3 = Si el DNS seguro no está disponible los sitios no se cargarán ni funcionarán correctamente.
+preferences-doh-setting-off =
+    .label = Desactivado
+    .accesskey = o
+preferences-doh-off-desc = Usar la resolución de DNS predeterminada
+preferences-doh-checkbox-warn =
+    .label = Advertir si un tercero impide activamente el DNS seguro
+    .accesskey = v
+preferences-doh-select-resolver = Seleccionar proveedor:
+preferences-doh-exceptions-description = { -brand-short-name } no usará DNS seguro en estos sitios
+preferences-doh-manage-exceptions =
+    .label = Administrar excepciones…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
