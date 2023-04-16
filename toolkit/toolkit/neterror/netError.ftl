@@ -46,7 +46,7 @@ neterror-captive-portal = Du må logge inn på nettverket før du kan kople til 
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Meinte du å gå til <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Om du har skrive inn rett adresse, kan du:</strong>
-neterror-dns-not-found-hint-try-again = Prøve igjen seinare
+neterror-dns-not-found-hint-try-again = Prøv på nytt seinare
 neterror-dns-not-found-hint-check-network = Kontrollere nettverkstilkoplinga di
 neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har løyve til å kople til nettet (du kan vere tilkopla, men bak ein brannvegg)
 
@@ -56,7 +56,6 @@ neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan ikkje beskytte førespurnaden din om adressa til denne nettstaden, gjennom den pålitelege DNS-løysaren vår. Årsak:
-neterror-dns-not-found-trr-only-attackers = Dersom du held fram, kan ein tredjepart kanskje sjå kva for nettstadar du besøkjer eller sende deg til ein uklarert nettstad.
 neterror-dns-not-found-trr-third-party-warning = Du kan halde fram med ein DNS-løysar som ikkje er sikker. Derimot kan ein tredjepart kanskje sjå kva for nettstadar du besøkjer.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } klarte ikkje å kople til { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tilkoblinga til { $trrDomain } tok lengre tid enn forventa.
@@ -70,9 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = Uventa problem.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan ikkje beskytte førespurnaden din om adressa til denne nettstaden, gjennom den pålitelege DNS-løysaren vår. Årsak:
-neterror-dns-not-found-native-fallback-attackers = Du kan halde fram med ein DNS-løysarsom ikkje er sikker. Ein tredjepart kan likevel kunne sjå kva for nettstadar du besøkjer eller sende deg til ein uklarert nettstad.
 neterror-dns-not-found-native-fallback-heuristic = DNS-over-HTTPS er deaktivert på nettverket ditt.
-neterror-dns-not-found-native-fallback-not-confirmed = Tilkoplinga til { $trrDomain } er ikkje klar enno.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } klarte ikkje å kople til { $trrDomain }.
 
 ##
@@ -86,8 +83,8 @@ neterror-unknown-socket-type-psm-installed = Kontroller at systemet ditt har Per
 neterror-unknown-socket-type-server-config = Dette problemet kan kome av eit uvanleg oppsett på tenaren.
 neterror-not-cached-intro = Det førespurde dokumentet er ikkje tilgjengeleg i { -brand-short-name } sitt snøgglager.
 neterror-not-cached-sensitive = Av tryggingsomsyn tillét ikkje { -brand-short-name } å automatisk hente sensitive dokument på nytt.
-neterror-not-cached-try-again = Trykk Prøv igjen for å hente dokumentet på nytt frå nettstaden.
-neterror-net-offline = Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.
+neterror-not-cached-try-again = Trykk Prøv på nytt for å hente dokumentet på nytt frå nettstaden.
+neterror-net-offline = Trykk «Prøv på nytt» for å byte til tilkopla modus og laste sida på nytt.
 neterror-proxy-resolve-failure-settings = Kontroller at proxyinnstillingane er rette.
 neterror-proxy-resolve-failure-connection = Kontroller at datamaskina har ei fungerande nettverkstilkopling.
 neterror-proxy-resolve-failure-firewall = Dersom datamaskina di eller nettverket er verna av ein brannmur eller proxy, kontroller at { -brand-short-name } har løyve til å kople til Internett.
