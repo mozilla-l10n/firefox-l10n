@@ -664,7 +664,13 @@ reader-view-close-button =
     .aria-label = Tanca la vista de lectura
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Obre en mode d'Imatge sobre imatge ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Tanca el mode d'Imatge sobre imatge ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -811,6 +817,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Envia l'enllaç per correu
     .tooltiptext = Envia per correu un enllaç a aquesta pàgina
+toolbar-button-logins =
+    .label = Contrasenyes
+    .tooltiptext = Vegeu i gestioneu les contrasenyes que heu desat
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
