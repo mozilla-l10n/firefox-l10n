@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = Gwiriwch fod gan { -brand-short-name } ga
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = Nid yw { -brand-short-name } yn gallu diogelu eich cais am gyfeiriad y wefan hon trwy ein datryswr DNS dibynadwy. Dyma pam:
-neterror-dns-not-found-trr-only-attackers = Os byddwch yn parhau, efallai y bydd trydydd parti yn gallu gweld pa wefannau rydych chi'n ymweld â nhw neu'n eich anfon i wefan nad yw'n ymddiried ynddo.
 neterror-dns-not-found-trr-third-party-warning = Gallwch barhau â datryswr DNS nad yw'n ddiogel. Fodd bynnag, efallai y bydd trydydd parti yn gallu gweld pa wefannau rydych chi'n ymweld â nhw.
+neterror-dns-not-found-trr-third-party-warning2 = Gallwch barhau â datryswr DNS nad yw'n ddiogel. Fodd bynnag, efallai y bydd trydydd parti yn gallu gweld pa wefannau rydych chi'n ymweld â nhw.
 neterror-dns-not-found-trr-only-could-not-connect = Nid oedd modd i { -brand-short-name } gysylltu â { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Cymerodd y cysylltiad i { $trrDomain } fwy o amser na'r disgwyl.
 neterror-dns-not-found-trr-offline = Nid ydych wedi'ch cysylltu â'r rhyngrwyd.
 neterror-dns-not-found-trr-unknown-host = Nid yw cyfeiriad y wefan hon wedi'i chanfod gan { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = Nid yw { $trrDomain } wedi canfod y wefan hon.
 neterror-dns-not-found-trr-server-problem = Bu anhawster gyda { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Anhawster annisgwyl.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Anhawster annisgwyl.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = Nid yw { -brand-short-name } yn gallu diogelu eich cais am gyfeiriad y wefan hon trwy ein datryswr DNS dibynadwy. Dyma pam:
-neterror-dns-not-found-native-fallback-attackers = Gallwch barhau â datryswr DNS nad yw'n ddiogel. Fodd bynnag, efallai y bydd trydydd parti yn gallu gweld pa wefannau rydych chi'n ymweld â nhw neu'n eich anfon i wefan nad yw'n ymddiried ynddo.
 neterror-dns-not-found-native-fallback-heuristic = Mae DNS dros HTTPS wedi'i analluogi ar eich rhwydwaith.
-neterror-dns-not-found-native-fallback-not-confirmed = Nid yw'r cysylltiad â { $trrDomain } yn barod eto.
 neterror-dns-not-found-native-fallback-not-confirmed2 = Nid oedd modd i { -brand-short-name } gysylltu â { $trrDomain } .
 
 ##
