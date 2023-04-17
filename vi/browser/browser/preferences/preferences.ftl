@@ -1217,7 +1217,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
-preferences-doh-header = DNS over HTTPS
+preferences-doh-header = DNS qua HTTPS
 preferences-doh-description = Hệ thống tên miền (DNS) qua HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, tạo một DNS an toàn và khiến người khác khó nhìn thấy trang web bạn sắp truy cập hơn.
 # Variables:
 #   $status (string) - The status of the DoH connection
