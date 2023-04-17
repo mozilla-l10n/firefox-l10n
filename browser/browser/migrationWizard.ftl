@@ -125,4 +125,18 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } senhal
        *[other] { $quantity } senhals
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Del darrièr jorn
+       *[other] Dels darrièrs { $maxAgeInDays } jorns
+    }
+migration-wizard-progress-success-formdata = Istoric de formulari
+migration-wizard-safari-permissions-sub-header = Per importar marcapaginas e istoric de navigacion de Safari :
+migration-wizard-safari-instructions-continue = Seleccionatz « Contunhar »
+migration-wizard-safari-instructions-folder = Seleccionatz lo dossièr Safari dins la lista e causissètz « Dobrir »
 migration-wizard-safari-select-button = Seleccionar un fichièr
