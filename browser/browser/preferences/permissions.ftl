@@ -218,3 +218,7 @@ permissions-site-speaker-window =
     .title = Beállítások – Hangszóró engedélyek
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = A következő weboldalak kérték, hogy kiválasszanak egy hangkimeneti eszközt. Megadhatja, hogy mely weboldalak választhassanak hangkimeneti eszközt.
+permissions-exceptions-doh-window =
+    .title = Webhely-kivételek a HTTPS feletti DNS-hez
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = A { -brand-short-name } nem használ biztonságos DNS-t ezeken a webhelyeken és az aldomainjeiken.
