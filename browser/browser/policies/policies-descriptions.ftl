@@ -26,6 +26,8 @@ policy-Bookmarks = Opprett bokmerke i bokmerkeverktøylinja, i bokmerkermenyen e
 policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikat eller bruk innebygde sertifikat.
 policy-Cookies = Tillat eller nekt nettstadar å lagre infokapslar.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Angi policyar relatert til behaldarar.
 policy-DisabledCiphers = Deaktiver krypteringsmetodar.
 policy-DefaultDownloadDirectory = Vel standardmappe for nedlastingar.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
