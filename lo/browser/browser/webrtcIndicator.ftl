@@ -170,6 +170,9 @@ webrtc-share-application = { $appName } ({ $windowCount } ວິນໂດ)
 webrtc-action-allow =
     .label = ອະນຸຍາດ
     .accesskey = A
+webrtc-action-not-now =
+    .label = ບໍ່​ແມ່ນ​ຕອນ​ນີ້
+    .accesskey = N
 
 ##
 

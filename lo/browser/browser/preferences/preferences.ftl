@@ -620,6 +620,7 @@ sync-currently-syncing-settings = ການຕັ້ງຄ່າ
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-dialog-subtitle = ການປ່ຽນແປງລາຍການລາຍການທີ່ຈະຊິງຄ໌ຈະສະແດງໃນທົ່ວທຸກອຸປະກອນທີ່ເຊື່ອມຕໍ່ຂອງທ່ານ.
 sync-engine-bookmarks =
     .label = ບຸກມາກ
     .accesskey = m
