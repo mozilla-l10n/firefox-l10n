@@ -1260,6 +1260,7 @@ preferences-doh-default-detailed-desc-3 = Bruk ein lokal tilbydar, om muleg
 preferences-doh-setting-enabled =
     .label = Auka vern
     .accesskey = A
+preferences-doh-enabled-desc = Du bestemmer når du skal bruke sikker DNS, og vel sjølv nettleverandør.
 preferences-doh-enabled-detailed-desc-1 = Bruk leverandøren du valde
 preferences-doh-setting-strict =
     .label = Maksimalt vern
