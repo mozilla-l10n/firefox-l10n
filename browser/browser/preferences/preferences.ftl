@@ -1234,6 +1234,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+preferences-doh-description = Domain Name System (DNS) over HTTPS sender førespurnaden din om eit domennamn via ei kryptert tilkopling, lagar ein sikker DNS og gjer det venskelegare for andre å sjå kva for nettstad du er i ferd med å besøkje.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
