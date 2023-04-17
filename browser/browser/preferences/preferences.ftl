@@ -1236,6 +1236,9 @@ preferences-doh-description = Domain Name System (DNS) over HTTPS sender foresp�
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Leverandør: { $name }
+preferences-doh-default-detailed-desc-2 = Bruk din standard DNS-resolver hvis det er et problem med den sikre DNS-leverandøren
+preferences-doh-enabled-detailed-desc-2 = Bruk bare standard DNS-resolver hvis det er et problem med sikker DNS
+preferences-doh-off-desc = Bruk din standard DNS-resolver
 
 ## The following strings are used in the Download section of settings
 
