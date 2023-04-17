@@ -1270,6 +1270,7 @@ preferences-doh-setting-strict =
     .accesskey = m
 preferences-doh-strict-detailed-desc-1 = Aðeins nota þjónustuveituna sem þú velur
 preferences-doh-strict-detailed-desc-2 = Alltaf að vara við ef öruggt DNS er ekki tiltækt
+preferences-doh-strict-detailed-desc-3 = Ef öruggt DNS er ekki tiltækt munu vefsvæði ekki hlaðast inn eða virka rétt
 preferences-doh-setting-off =
     .label = Óvirkt
     .accesskey = k
