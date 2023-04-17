@@ -57,10 +57,12 @@ neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har 
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan ikkje beskytte førespurnaden din om adressa til denne nettstaden, gjennom den pålitelege DNS-løysaren vår. Årsak:
 neterror-dns-not-found-trr-third-party-warning = Du kan halde fram med ein DNS-løysar som ikkje er sikker. Derimot kan ein tredjepart kanskje sjå kva for nettstadar du besøkjer.
+neterror-dns-not-found-trr-third-party-warning2 = Du kan halde fram med standard DNS-resolver. Ein tredjepart vil likevel kunne sjå kva for nettstadar du besøkjer.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } klarte ikkje å kople til { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tilkoblinga til { $trrDomain } tok lengre tid enn forventa.
 neterror-dns-not-found-trr-offline = Du er ikkje kopla til internett.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } fann inga adresse for denne nettstaden.
+neterror-dns-not-found-trr-unknown-host2 = Denne nettstaden vart ikkje funnen av { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Det er eit problem med { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Uventa problem.
 
