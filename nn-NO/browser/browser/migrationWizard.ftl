@@ -56,6 +56,7 @@ migration-bookmarks-option-label = Bokmerke
 migration-favorites-option-label = Favorittar
 migration-logins-and-passwords-option-label = Lagra innloggingar og passord
 migration-history-option-label = Nettlesarhistorikk
+migration-form-autofill-option-label = Autofylldata for skjema
 migration-import-button-label = Importer
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
