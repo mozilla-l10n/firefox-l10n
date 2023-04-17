@@ -1263,6 +1263,46 @@ preferences-doh-bad-url = URL annilys
 preferences-doh-steering-status = Yn defnyddio darparwr lleol
 preferences-doh-status-active = Gweithredol
 preferences-doh-status-disabled = Diffodd
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Ddim yn weithredol ( { $reason } )
+preferences-doh-group-message = Galluogi DNS diogel gan ddefnyddio:
+preferences-doh-expand-section =
+    .tooltiptext = Rhagor o wybodaeth
+preferences-doh-setting-default =
+    .label = Diogelu Rhagosodedig
+    .accesskey = D
+preferences-doh-default-desc = Mae { -brand-short-name } yn penderfynu pryd i ddefnyddio DNS diogel i ddiogelu eich preifatrwydd.
+preferences-doh-default-detailed-desc-1 = Defnyddiwch DNS diogel mewn ardaloedd lle mae ar gael
+preferences-doh-default-detailed-desc-2 = Defnyddiwch eich datrysiad DNS rhagosodedig os oes problem gyda'r darparwr DNS diogel
+preferences-doh-default-detailed-desc-3 = Defnyddiwch ddarparwr lleol, os yn bosibl
+preferences-doh-default-detailed-desc-4 = Diffoddwch pan fydd VPN, rheolaeth rhieni, neu bolisïau menter yn weithredol
+preferences-doh-default-detailed-desc-5 = Diffoddwch pan fydd rhwydwaith yn dweud wrth { -brand-short-name } na ddylai ddefnyddio DNS diogel
+preferences-doh-setting-enabled =
+    .label = Mwy o Ddiogelwch
+    .accesskey = M
+preferences-doh-enabled-desc = Chi sy'n rheoli pryd i ddefnyddio DNS diogel a dewis eich darparwr.
+preferences-doh-enabled-detailed-desc-1 = Defnyddiwch y darparwr rydych chi'n ei ddewis
+preferences-doh-enabled-detailed-desc-2 = Defnyddiwch eich datrysiad DNS rhagosodedig dim ond os oes problem gyda DNS diogel
+preferences-doh-setting-strict =
+    .label = Diogelwch Mwyaf
+    .accesskey = D
+preferences-doh-strict-desc = Bydd { -brand-short-name } bob tro'n defnyddio DNS diogel. Fe welwch rybudd risg diogelwch cyn i ni ddefnyddio DNS eich system.
+preferences-doh-strict-detailed-desc-1 = Defnyddio dim ond y darparwr rydych chi'n ei ddewis
+preferences-doh-strict-detailed-desc-2 = Rhybuddio bob tro os nad yw DNS diogel ar gael
+preferences-doh-strict-detailed-desc-3 = Os nad yw DNS diogel ar gael ni fydd gwefannau'n llwytho nac yn gweithio'n iawn
+preferences-doh-setting-off =
+    .label = Diffodd
+    .accesskey = D
+preferences-doh-off-desc = Defnyddiwch eich datrysydd DNS rhagosodedig
+preferences-doh-checkbox-warn =
+    .label = Rhybuddio os yw trydydd parti yn atal DNS diogel yn weithredol
+    .accesskey = a
+preferences-doh-select-resolver = Dewiswch ddarparwr:
+preferences-doh-exceptions-description = Ni fydd { -brand-short-name } yn defnyddio DNS diogel ar y gwefannau hyn
+preferences-doh-manage-exceptions =
+    .label = Rheoli Eithriadau…
+    .accesskey = E
 
 ## The following strings are used in the Download section of settings
 

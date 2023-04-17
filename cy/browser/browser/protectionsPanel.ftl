@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Ffurflenni
 protections-panel-site-not-working-view-issue-list-payments = Taliadau
 protections-panel-site-not-working-view-issue-list-comments = Sylwadau
 protections-panel-site-not-working-view-issue-list-videos = Fideos
+protections-panel-site-not-working-view-issue-list-fonts = Ffontiau
 protections-panel-site-not-working-view-send-report = Anfon adroddiad
 
 ##
