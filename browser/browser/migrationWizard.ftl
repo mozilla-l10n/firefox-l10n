@@ -88,7 +88,7 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Mewnforio Cyfrineiriau o Safari
 migration-safari-password-import-steps-header = I fewnforio cyfrineiriau Safari:
 migration-safari-password-import-step1 = Yn Safari, agorwch ddewislen “Safari” ac ewch i Preferences > Passwords
-migration-safari-password-import-step2 = Dewiswch y botwm <img data-l10n-name="safari-icon-3dots" a dewis “Export All Passwords”
+migration-safari-password-import-step2 = Dewiswch y botwm <img data-l10n-name="safari-icon-3dots"/> a dewis “Export All Passwords”
 migration-safari-password-import-step3 = Cadw'r ffeil cyfrineiriau
 migration-safari-password-import-step4 = Defnyddiwch “Select File” isod i ddewis y ffeil cyfrineiriau a gadwyd gennych
 migration-safari-password-import-skip-button = Hepgor
