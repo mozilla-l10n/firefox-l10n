@@ -1231,6 +1231,16 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ne engedélyezze a Csak HTTPS módot
 
+## DoH Section
+
+preferences-doh-header = HTTPS feletti DNS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Állapot: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Szolgáltató: { $name }
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Asztal
