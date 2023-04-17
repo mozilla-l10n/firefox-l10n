@@ -64,6 +64,8 @@ import-items-description = Изаберите ставке за увоз:
 import-permissions-page-title = Одобрите дозволе за { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS захтева да дозволите { -brand-short-name }-у изричит приступ Safari обележивачима. Кликните “Настави” и на приказаном File Open панелу одаберите “Bookmarks.plist” датотеку.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS тражи да изричито дозволите { -brand-short-name }-у да приступи Safari подацима. Кликните на „Настави”, изаберите „Safari“ фасциклу у Finder дијалогу, а затим кликните на „Отвори”.
 import-migrating-page-title = Увоз…
 import-migrating-description = Наредне ставке се тренутно увозе…
 import-select-profile-page-title = Избор профила
