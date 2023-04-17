@@ -44,9 +44,21 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Mewnforio'r holl ddata sydd ar gael
+migration-no-selected-data-label = Dim data wedi'i ddewis i'w fewnforio
+migration-selected-data-label = Mewnforio data a ddewiswyd
 
 ##
 
+migration-select-all-option-label = Dewis popeth
+migration-bookmarks-option-label = Nodau Tudalen
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Ffefrynnau
+migration-logins-and-passwords-option-label = Mewngofnodion a chyfrineiriau a gadwyd
+migration-history-option-label = Hanes pori
+migration-form-autofill-option-label = Data awtolenwi ffurflenni
+migration-import-button-label = Mewnforio
+migration-cancel-button-label = Diddymu
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
