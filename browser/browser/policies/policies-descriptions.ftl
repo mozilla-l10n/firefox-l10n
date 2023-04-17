@@ -26,6 +26,8 @@ policy-Bookmarks = Creu nodau tudalen yn y bar offer Nodau Tudalen, dewislen Nod
 policy-CaptivePortal = Galluogi neu analluogi'r cymorth porth caeth.
 policy-CertificatesDescription = Ychwanegu tystysgrifau neu ddefnyddio tystysgrifau mewnol.
 policy-Cookies = Caniatáu neu wrthod i wefannau osod cwcis.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Gosodwch bolisïau sy'n ymwneud â chynwysyddion.
 policy-DisabledCiphers = Analluogi seifferau.
 policy-DefaultDownloadDirectory = Gosod y cyfeiriadur llwytho i lawr rhagosodedig.
 policy-DisableAppUpdate = Rhwystro'r wefan rhag diweddaru.
