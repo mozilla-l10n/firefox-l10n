@@ -221,6 +221,7 @@ permissions-site-speaker-desc = Eftirfarandi vefsvæði hafa beðið um að fá 
 permissions-exceptions-doh-window =
     .title = Undantekningar á vefsvæðum fyrir DNS yfir HTTPS
     .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } mun ekki nota öruggt DNS á þessum vefsvæðum og undirlénum þeirra.
 permissions-doh-entry-field = Settu inn lén vefsvæðisins
     .accesskey = l
 permissions-doh-add-exception =

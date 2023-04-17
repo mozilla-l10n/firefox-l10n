@@ -239,6 +239,9 @@ july-jam-headline = Við erum með það sem þú þarft
 july-jam-body = Í hverjum mánuði lokar { -brand-short-name } að meðaltali á meira en 3.000 rekjara á hvern notanda, sem tryggir þér öruggan, skjótan aðgang að góðu interneti.
 july-jam-set-default-primary = Opna tenglana mína með { -brand-short-name }
 fox-doodle-pin-headline = Velkomin aftur
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Hér er vinsamleg áminning um að þú getur haldið áfram að nota eftirlætisvafrann þinn með einum smelli.
 fox-doodle-pin-primary = Opna tenglana mína með { -brand-short-name }
 fox-doodle-pin-secondary = Ekki núna
 
