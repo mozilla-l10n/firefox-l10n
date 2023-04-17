@@ -1250,6 +1250,7 @@ preferences-doh-setting-off =
     .label = بند
     .accesskey = O
 preferences-doh-select-resolver = مہیا کار چݨو…
+preferences-doh-exceptions-description = انہاں سائٹاں تے { -brand-short-name } محفوظ DNS کائناں ورتیسی
 preferences-doh-manage-exceptions =
     .label = مستثنیات کوں منظم کرو …
     .accesskey = x
