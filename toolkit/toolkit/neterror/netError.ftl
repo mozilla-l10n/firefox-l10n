@@ -55,6 +55,9 @@ neterror-dns-not-found-hint-firewall = Přepruwujće, hač { -brand-short-name }
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } njemóže waše naprašowanje za adresu tutoho sydła přez naš dowěry hódny DNS reselwer škitać. Přičina je:
+neterror-dns-not-found-trr-third-party-warning = Móžeće z DNS-resolwerom pokročować, kotryž wěsty njeje. Ale, třeći poskićowar móhł widźeć, kotre websydła wopytujeće.
+neterror-dns-not-found-trr-third-party-warning2 = Móžeće ze swojim standardnym  DNS-resolwerom pokročować. Ale třeći poskićowar móhł widźeć, kotre websydła wopytujeće.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } njemóžeše z { $trrDomain } zwjazać.
 neterror-dns-not-found-trr-only-timeout = Zwjazowanje z { $trrDomain } je dlěje trało hač wočakowane.
 neterror-dns-not-found-trr-offline = Njejsće z internetom zwjazany.
@@ -67,6 +70,7 @@ neterror-dns-not-found-trr-unknown-problem = Njewočakowany problem.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } njemóže waše naprašowanje za adresu tutoho sydła přez naš dowěry hódny DNS reselwer škitać. Přičina je:
 neterror-dns-not-found-native-fallback-heuristic = DNS přez HTTPS je so we wašej syći znjemóžnił.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } njemóžeše z { $trrDomain } zwjazać.
 
