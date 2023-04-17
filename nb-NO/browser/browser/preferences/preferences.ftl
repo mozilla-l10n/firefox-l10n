@@ -1229,6 +1229,14 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ikke aktiver kun-HTTPS
 
+## DoH Section
+
+preferences-doh-header = DNS-over-HTTPS
+preferences-doh-description = Domain Name System (DNS) over HTTPS sender forespørselen din om et domenenavn gjennom en kryptert tilkobling, lager en sikker DNS og gjør det vanskeligere for andre å se hvilket nettsted du er i ferd med å besøke.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Leverandør: { $name }
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord

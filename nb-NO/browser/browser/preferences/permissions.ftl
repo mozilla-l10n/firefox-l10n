@@ -218,3 +218,6 @@ permissions-site-speaker-window =
     .title = Innstillinger - Høyttalertillatelser
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Følgende nettsteder har bedt om å velge en lydutgangsenhet. Du kan spesifisere hvilke nettsteder som har lov til å velge en lydutgangsenhet.
+permissions-exceptions-doh-window =
+    .title = Nettstedunntak for DNS-over-HTTPS
+    .style = { permissions-window2.style }
