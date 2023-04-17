@@ -1240,6 +1240,25 @@ preferences-doh-status = Állapot: { $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Szolgáltató: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Érvénytelen webcím
+preferences-doh-steering-status = Helyi szolgáltató használata
+preferences-doh-status-active = Aktív
+preferences-doh-status-disabled = Ki
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Nem aktív ({ $reason })
+preferences-doh-group-message = Biztonságos DNS engedélyezése a következővel:
+preferences-doh-expand-section =
+    .tooltiptext = További információk
+preferences-doh-setting-default =
+    .label = Alapértelmezett védelem
+    .accesskey = A
+preferences-doh-default-desc = A { -brand-short-name } dönti el, hogy mikor használ biztonságos DNS-t az adatvédelme érdekében.
+preferences-doh-default-detailed-desc-1 = Biztonságos DNS használata azokban a régiókban, ahol elérhető
+preferences-doh-default-detailed-desc-2 = Alapértelmezett DNS-feloldó használata, ha probléma van a biztonságos DNS-szolgáltatóval
+preferences-doh-default-detailed-desc-3 = Helyi szolgáltató használata, ha lehet
 
 ## The following strings are used in the Download section of settings
 
