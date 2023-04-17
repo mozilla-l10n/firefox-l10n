@@ -218,6 +218,7 @@ permissions-site-speaker-window =
     .title = Innstillingar - Høgtalarløyve
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Følgjande nettstadar har bedt om å velje ei lyd ut-eining. Du kan spesifisere kva for nettstadar som har lov til å velje ei lyd ut-eining.
+permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikkje bruke sikker DNS på desse nettstadane og underdomena deira.
 permissions-doh-add-exception =
     .label = Legg til
     .accesskey = L

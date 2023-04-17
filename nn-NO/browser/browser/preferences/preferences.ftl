@@ -1233,6 +1233,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS over HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
