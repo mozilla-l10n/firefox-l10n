@@ -238,28 +238,6 @@ colorways-cfr-header-today = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i be
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Gwaredu baneri cwcis!
-cfr-cookiebanner-body = Caniatáu i { -brand-short-name } wrthod pob cais baner cwci yn awtomatig pan fo modd.
-cfr-cookiebanner-accept-button-v2 = Gwrthod Ceisiadau
-    .accesskey = G
-cfr-cookiebanner-reject-button = Nid Nawr
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Gweld llai o lamlenni cwcis
-cfr-cookiebanner-body-variant-1 = Gadael i { -brand-short-name } ateb ffenestri llamlenni cwcis yn awtomatig er mwyn i chi fod yn rhydd i bori. Bydd { -brand-short-name } yn gwrthod pob cais os yn bosib.
-cfr-cookiebanner-accept-button-variant-1 = Cau Llamlenni
-    .accesskey = L
-cfr-cookiebanner-reject-button-variant-1 = Dim Diolch
-    .accesskey = D
-cfr-cookiebanner-header-variant-2 = Llai o Faneri Cwcis
-cfr-cookiebanner-body-variant-2 = Lleihewch nifer y baneri cwci rydych yn eu gweld drwy ganiatáu i { -brand-short-name } wrthod cais caniatâd cwci gwefan os yw'n bosibl.
-cfr-cookiebanner-accept-button-variant-2 = Caniatáu
-    .accesskey = C
-cfr-cookiebanner-reject-button-variant-2 = Nid Nawr
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Caniatáu i { -brand-short-name } wrthod baneri cwci?
 cfr-cbh-body = Gall { -brand-short-name } wrthod llawer o geisiadau baner cwci yn awtomatig.
 cfr-cbh-confirm-button = Gwrthod baneri cwci
@@ -272,6 +250,12 @@ cfr-cbh-dismiss-button = Nid nawr
 july-jam-headline = Rydyn ni yn eich cefnogi chi
 july-jam-body = Bob mis, mae { -brand-short-name } yn rhwystro 3,000+ o dracwyr fesul defnyddiwr ar gyfartaledd, gan roi mynediad diogel a chyflym i'r rhyngrwyd da i chi.
 july-jam-set-default-primary = Agor fy nolenni gyda { -brand-short-name }
+fox-doodle-pin-headline = Croeso nôl
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Dyma neges atgoffa cyflym y gallwch chi gadw'ch hoff borwr annibynnol un clic yn unig i ffwrdd.
+fox-doodle-pin-primary = Agor fy nolenni gyda { -brand-short-name }
+fox-doodle-pin-secondary = Nid nawr
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

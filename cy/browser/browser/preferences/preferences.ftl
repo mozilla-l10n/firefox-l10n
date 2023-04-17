@@ -759,6 +759,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Rydych wrthi'n cydweddu'r eitemau hyn:
+sync-syncing-across-devices-heading = Rydych chi'n cydweddu'r eitemau hyn ar draws eich holl ddyfeisiau cysylltiedig:
 sync-currently-syncing-bookmarks = Nodau Tudalen
 sync-currently-syncing-history = Hanes
 sync-currently-syncing-tabs = Tabiau ar agor
@@ -787,6 +788,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = N
     .buttonlabelextra2 = Datgysylltu…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Bydd y newidiadau i'r rhestr o eitemau i'w cydweddu'n i'w gweld ar draws eich holl ddyfeisiau cysylltiedig.
 sync-engine-bookmarks =
     .label = Nodau Tudalen
     .accesskey = T
@@ -1244,6 +1246,23 @@ httpsonly-radio-enabled-pbm =
     .label = Galluogi Modd HTTPS-yn-Unig mewn ffenestri preifat yn unig
 httpsonly-radio-disabled =
     .label = Peidio â galluogi Modd HTTPS-yn-Unig
+
+## DoH Section
+
+preferences-doh-header = DNS dros HTTPS
+preferences-doh-description = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Statws: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Darparwr: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL annilys
+preferences-doh-steering-status = Yn defnyddio darparwr lleol
+preferences-doh-status-active = Gweithredol
+preferences-doh-status-disabled = Diffodd
 
 ## The following strings are used in the Download section of settings
 

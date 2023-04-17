@@ -92,3 +92,67 @@ migration-safari-password-import-step2 = Dewiswch y botwm <img data-l10n-name="s
 migration-safari-password-import-step3 = Cadw'r ffeil cyfrineiriau
 migration-safari-password-import-step4 = Defnyddiwch “Select File” isod i ddewis y ffeil cyfrineiriau a gadwyd gennych
 migration-safari-password-import-skip-button = Hepgor
+migration-safari-password-import-select-button = Dewis Ffeil
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [zero] { $quantity } nodau tudalen
+        [one] { $quantity } nod tudalen
+        [two] { $quantity } nod tudalen
+        [few] { $quantity } nod tudalen
+        [many] { $quantity } nod tudalen
+       *[other] { $quantity } nod tudalen
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [zero] { $quantity } ffefrynnau
+        [one] { $quantity } ffefryn
+        [two] { $quantity } ffefryn
+        [few] { $quantity } ffefryn
+        [many] { $quantity } ffefryn
+       *[other] { $quantity } ffefryn
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [zero] { $quantity } cyfrineiriau
+        [one] { $quantity } cyfrinair
+        [two] { $quantity } cyfrinair
+        [few] { $quantity } cyfrinair
+        [many] { $quantity } cyfrinair
+       *[other] { $quantity } cyfrinair
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [zero] O'r dyddiau diwethaf
+        [one] O'r { $maxAgeInDays } diwrnod diwethaf
+        [two] O'r { $maxAgeInDays } ddiwrnod diwethaf
+        [few] O'r { $maxAgeInDays } diwrnod diwethaf
+        [many] O'r { $maxAgeInDays } niwrnod diwethaf
+       *[other] O'r { $maxAgeInDays } diwrnod diwethaf
+    }
+migration-wizard-progress-success-formdata = Hanes ffurflen
+migration-wizard-safari-permissions-sub-header = I fewnforio nodau tudalen a hanes pori Safari:
+migration-wizard-safari-instructions-continue = Dewis “Continue”
+migration-wizard-safari-instructions-folder = Dewiswch ffolder Safari yn y rhestr a dewis “Open”
+migration-wizard-safari-select-button = Dewis Ffeil
