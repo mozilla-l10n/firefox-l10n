@@ -55,9 +55,9 @@ neterror-dns-not-found-hint-firewall = Sjekk at { -brand-short-name } har tillat
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan ikke beskytte forespørselen din om dette nettstedets adresse gjennom vår pålitelige DNS-løser. Årsak:
-neterror-dns-not-found-trr-third-party-warning = Du kan fortsette med en DNS-løser som ikke er sikker. En tredjepart kan imidlertid være i stand til å se hvilke nettsteder du besøker.
-neterror-dns-not-found-trr-third-party-warning2 = Du kan fortsette med en din standard DNS-løser. En tredjepart kan imidlertid være i stand til å se hvilke nettsteder du besøker.
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan ikke beskytte forespørselen din om dette nettstedets adresse gjennom vår pålitelige DNS-resolver. Årsak:
+neterror-dns-not-found-trr-third-party-warning = Du kan fortsette med en DNS-resolver som ikke er sikker. En tredjepart kan imidlertid være i stand til å se hvilke nettsteder du besøker.
+neterror-dns-not-found-trr-third-party-warning2 = Du kan fortsette med din standard DNS-resolver. En tredjepart kan imidlertid være i stand til å se hvilke nettsteder du besøker.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunne ikke koble til { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tilkoblingen til { $trrDomain } tok lengre tid enn forventet.
 neterror-dns-not-found-trr-offline = Du er ikke koblet til internett.
@@ -70,7 +70,7 @@ neterror-dns-not-found-trr-unknown-problem = Uventet feil oppstod.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan ikke beskytte forespørselen din om dette nettstedets adresse gjennom vår pålitelige DNS-løser. Årsak:
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan ikke beskytte forespørselen din om dette nettstedets adresse gjennom vår pålitelige DNS-resolver. Årsak:
 neterror-dns-not-found-native-fallback-heuristic = DNS-over-HTTPS er deaktivert på nettverket ditt.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kunne ikke koble til { $trrDomain }.
 
