@@ -56,6 +56,7 @@ ssl-error-rx-malformed-handshake = SSL ໄດ້ຮັບບັນທຶກ Hand
 ssl-error-rx-unexpected-hello-request = SSL ໄດ້ຮັບຂໍ້ຄວາມຈັບມື Hello Request ທີ່ບໍ່ຄາດຄິດ.
 ssl-error-rx-unexpected-server-hello = SSL ໄດ້ຮັບຂໍ້ຄວາມສະບາຍດີເຊີບເວີທີ່ບໍ່ໄດ້ຄາດຫວັງ.
 ssl-error-rx-unexpected-certificate = SSL ໄດ້ຮັບຂໍ້ຄວາມຈັບມືໃບຮັບຮອງທີ່ບໍ່ຄາດຄິດ.
+ssl-error-close-notify-alert = SSL peer ໄດ້ປິດການເຊື່ອມຕໍ່ນີ້.
 ssl-error-sign-hashes-failure = ບໍ່ສາມາດເຊັນຂໍ້ມູນແບບດິຈິຕອລໄດ້ທີ່ຕ້ອງການເພື່ອກວດສອບໃບຢັ້ງຢືນຂອງທ່ານ.
 ssl-error-extract-public-key-failure = SSL ບໍ່ສາມາດສະກັດລະຫັດສາທາລະນະອອກຈາກໃບຢັ້ງຢືນຂອງເພື່ອນໄດ້.
 ssl-error-server-key-exchange-failure = ຄວາມລົ້ມເຫຼວທີ່ບໍ່ໄດ້ລະບຸໃນຂະນະທີ່ປະມວນຜົນ SSL Server Key Exchange handshake.
