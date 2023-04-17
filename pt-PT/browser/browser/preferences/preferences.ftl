@@ -1014,7 +1014,7 @@ addressbar-quickactions-learn-more = Saber mais
 content-blocking-enhanced-tracking-protection = Proteção melhorada contra a monitorização
 content-blocking-section-top-level-description = Os rastreadores seguem-no na Internet para recolher informação sobre os seus hábitos e interesses de navegação. O { -brand-short-name } bloqueia muitos destes rastreadores e outros scripts maliciosos.
 content-blocking-learn-more = Saber mais
-content-blocking-fpi-incompatibility-warning = Está a utilizar o isolamento primário (FPI), que substitui algumas das configurações de cookies do { -brand-short-name }.
+content-blocking-fpi-incompatibility-warning = Está a utilizar o isolamento primário (FPI), que substitui algumas das definições de cookies do { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1230,6 +1230,9 @@ httpsonly-radio-enabled-pbm =
     .label = Ativar o modo Apenas HTTPS somente em janelas privadas
 httpsonly-radio-disabled =
     .label = Não ativar o modo apenas HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
