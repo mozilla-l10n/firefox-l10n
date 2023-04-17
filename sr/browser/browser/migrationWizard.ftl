@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Увези податке прегледача
+migration-wizard-selection-list = Изаберите податке које желите да увезете.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -86,3 +88,48 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Увези Safari лозинке
 migration-safari-password-import-steps-header = Да увезете Safari лозинке:
 migration-safari-password-import-step1 = У Safari-ју, отворите „Safari” мени и идите на Подешавања > Лозинке
+migration-safari-password-import-step2 = Изаберите <img data-l10n-name="safari-icon-3dots"/> тастер, а онда „Извези све лозинке” опцију
+migration-safari-password-import-step3 = Сачувајте датотеку са лозинкама
+migration-safari-password-import-step4 = Користите „Изабери датотеку“ испод да изаберете сачувану датотеку са лозинкама
+migration-safari-password-import-skip-button = Прескочи
+migration-safari-password-import-select-button = Изабери датотеку
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } обележивач
+        [few] { $quantity } обележивача
+       *[other] { $quantity } обележивача
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } омиљено
+        [few] { $quantity } омиљена
+       *[other] { $quantity } омиљених
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } лозинка
+        [few] { $quantity } лозинке
+       *[other] { $quantity } лозинки
+    }
+migration-wizard-progress-success-formdata = Историја образаца
+migration-wizard-safari-permissions-sub-header = Да увезете Safari обележиваче и историју прегледања:
+migration-wizard-safari-instructions-continue = Изаберите „Настави”
+migration-wizard-safari-instructions-folder = Изаберите Safari фасциклу из списка, а затим „Отвори”
+migration-wizard-safari-select-button = Изаберите датотеку
