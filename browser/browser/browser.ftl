@@ -683,9 +683,13 @@ reader-view-close-button =
     .aria-label = Cau'r Golwg Darllen
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Toglo Llun-mewn-Llun
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Agor Llun-mewn-Llun ( { $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Cau Llun-mewn-Llun ( { $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
