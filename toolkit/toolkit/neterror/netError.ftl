@@ -54,10 +54,14 @@ neterror-dns-not-found-hint-firewall = Pśeglědujśo, lěc { -brand-short-name 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } njamóžo wašo napšašowanje za adresu toś togo sedła pśez naš dowěry gódny DNS resolwer šćitaś. Pśicyna jo:
+neterror-dns-not-found-trr-third-party-warning = Móžośo z DNS-resolwerom pókšacowaś, kótaryž njejo wěsty. Ale, tśeśi póbitowaŕ mógał wiźeś, ku kótarym websedłam se  woglědujośo.
+neterror-dns-not-found-trr-third-party-warning2 = Móžośo ze swójim standardnym  DNS-resolwerom pókšacowaś. Ale, tśeśi póbitowaŕ mógał wiźeś, ku kótarym websedłam se  woglědujośo.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } njejo mógał z { $trrDomain } zwězaś.
 neterror-dns-not-found-trr-only-timeout = Zwězowanje z { $trrDomain } jo dleje trałoako wócakane.
 neterror-dns-not-found-trr-offline = Njejsćo z internetom zwězany.
 neterror-dns-not-found-trr-unknown-host = Adresa za toś to websedło njejo se namakała pśez { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = Toś to websedło njejo se namakało wót { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Problem z { $trrDomain } jo nastał.
 neterror-dns-not-found-trr-unknown-problem = Njewócakany problem.
 
@@ -65,8 +69,9 @@ neterror-dns-not-found-trr-unknown-problem = Njewócakany problem.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } njamóžo wašo napšašowanje za adresu toś togo sedła pśez naš dowěry gódny DNS resolwer šćitaś. Pśicyna jo:
 neterror-dns-not-found-native-fallback-heuristic = DNS pśez HTTPS jo se znjemóžnił we wašej seśi.
-neterror-dns-not-found-native-fallback-not-confirmed = Zwisk z { $trrDomain } hyšći njejo gótowy.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } njejo mógał z { $trrDomain } zwězaś.
 
 ##
 
