@@ -208,3 +208,12 @@ permissions-site-microphone-desc = Slědujuce websedła su pominali pśistup k w
 permissions-site-microphone-disable-label =
     .label = Nowe pominanja za pśistupom na waš mikrofon blokěrowaś
 permissions-site-microphone-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za pśistupom k wašomu mikrofonoju zajźowaś. Gaž pśistup k wašomu mikrofonoju blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-exceptions-doh-window =
+    .title = Websedłowe wuwześa za DNS pśez HTTPS
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } njebuźo wěsty DNS na toś tych sedłach a jich póddomenach wužywaś.
