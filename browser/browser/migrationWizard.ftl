@@ -58,6 +58,8 @@ migration-form-autofill-option-label = Подаци о аутоматском п
 migration-import-button-label = Увези
 migration-cancel-button-label = Откажи
 migration-done-button-label = Готово
+migration-wizard-import-browser-no-browsers = { -brand-short-name } није успео да пронађе програме са подацима о обележивачима, историјом или лозинкама.
+migration-wizard-import-browser-no-resources = Дошло је до грешке. { -brand-short-name } није успео да пронађе податке за увоз из тог профила прегледача.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -65,6 +67,22 @@ migration-done-button-label = Готово
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = обележивачи
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = омиљено
+migration-list-password-label = лозинке
+migration-list-history-label = историја
+migration-list-autofill-label = подаци о аутоматском попуњавању образаца
 
 ##
 
+migration-wizard-progress-header = Увоз података
+migration-wizard-progress-done-header = Подаци су успешно увезени
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Увоз…
+migration-wizard-progress-icon-completed =
+    .aria-label = Завршено
+migration-safari-password-import-header = Увези Safari лозинке
+migration-safari-password-import-steps-header = Да увезете Safari лозинке:
+migration-safari-password-import-step1 = У Safari-ју, отворите „Safari” мени и идите на Подешавања > Лозинке
