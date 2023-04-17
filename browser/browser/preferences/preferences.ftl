@@ -1229,6 +1229,30 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Activar pas lo mòde HTTPS solament
 
+## DoH Section
+
+preferences-doh-header = DNS sus HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Estat : { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Provesidor : { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL invalida
+preferences-doh-steering-status = En utilizant un provesidor local
+preferences-doh-status-active = Actiu
+preferences-doh-status-disabled = Desactivat
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Inactiu ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = Mai d’informacions
+preferences-doh-setting-default =
+    .label = Proteccion per defaut
+    .accesskey = d
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Burèu
