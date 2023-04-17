@@ -1234,6 +1234,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS yfir HTTPS
+preferences-doh-description = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, útbýr öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Staða: { $status }
@@ -1259,6 +1260,8 @@ preferences-doh-default-desc = { -brand-short-name } ákveður hvenær ætti að
 preferences-doh-default-detailed-desc-1 = Nota öruggt DNS á svæðum þar sem það er tiltækt
 preferences-doh-default-detailed-desc-2 = Nota sjálfgefna DNS-leysarann þinn ef vandamál er með öruggu DNS-veituna
 preferences-doh-default-detailed-desc-3 = Nota staðbundna þjónustuveitu, ef mögulegt er
+preferences-doh-default-detailed-desc-4 = Slökktu á þessu þegar VPN, foreldrastýringar eða fyrirtækjareglur eru virkar
+preferences-doh-default-detailed-desc-5 = Slökktu á þessu þegar netkerfi segir { -brand-short-name } að það ætti ekki að nota öruggt DNS
 preferences-doh-setting-enabled =
     .label = Aukin vernd
     .accesskey = i
@@ -1268,6 +1271,7 @@ preferences-doh-enabled-detailed-desc-2 = Aðeins nota sjálfgefna DNS-leysarann
 preferences-doh-setting-strict =
     .label = Hámarksvörn
     .accesskey = m
+preferences-doh-strict-desc = { -brand-short-name } mun alltaf nota öruggt DNS. Þú munt sjá öryggisáhættuviðvörun áður en við notum DNS kerfisins þíns.
 preferences-doh-strict-detailed-desc-1 = Aðeins nota þjónustuveituna sem þú velur
 preferences-doh-strict-detailed-desc-2 = Alltaf að vara við ef öruggt DNS er ekki tiltækt
 preferences-doh-strict-detailed-desc-3 = Ef öruggt DNS er ekki tiltækt munu vefsvæði ekki hlaðast inn eða virka rétt
