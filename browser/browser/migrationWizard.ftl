@@ -59,6 +59,9 @@ migration-history-option-label = Hanes pori
 migration-form-autofill-option-label = Data awtolenwi ffurflenni
 migration-import-button-label = Mewnforio
 migration-cancel-button-label = Diddymu
+migration-done-button-label = Gorffen
+migration-wizard-import-browser-no-browsers = Nid yw { -brand-short-name } wedi gallu dod o hyd i unrhyw raglenni sy'n cynnwys data nod tudalen, hanes neu gyfrinair.
+migration-wizard-import-browser-no-resources = Bu gwall. Nid oedd { -brand-short-name } wedi gallu dod o hyd i unrhyw ddata i'w fewnforio o'r proffil porwr hwnnw.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -66,6 +69,26 @@ migration-cancel-button-label = Diddymu
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = nodau tudalen
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = ffefrynnau
+migration-list-password-label = cyfrineiriau
+migration-list-history-label = hanes
+migration-list-autofill-label = data awtolenwi
 
 ##
 
+migration-wizard-progress-header = Yn Mewnforio Data
+migration-wizard-progress-done-header = Data wedi'i Fewnforio'n Llwyddiannus
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Yn mewnforio…
+migration-wizard-progress-icon-completed =
+    .aria-label = Cwblhawyd
+migration-safari-password-import-header = Mewnforio Cyfrineiriau o Safari
+migration-safari-password-import-steps-header = I fewnforio cyfrineiriau Safari:
+migration-safari-password-import-step1 = Yn Safari, agorwch ddewislen “Safari” ac ewch i Preferences > Passwords
+migration-safari-password-import-step2 = Dewiswch y botwm <img data-l10n-name="safari-icon-3dots" a dewis “Export All Passwords”
+migration-safari-password-import-step3 = Cadw'r ffeil cyfrineiriau
+migration-safari-password-import-step4 = Defnyddiwch “Select File” isod i ddewis y ffeil cyfrineiriau a gadwyd gennych
+migration-safari-password-import-skip-button = Hepgor
