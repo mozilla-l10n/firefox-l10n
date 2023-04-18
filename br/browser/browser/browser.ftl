@@ -348,6 +348,7 @@ identity-connection-not-secure-security-view = N'oc'h ket kennasket d'al lec'hie
 identity-connection-verified = Kennasket oc'h d'al lec'hienn-mañ en un doare sur.
 identity-ev-owner-label = Testeni roet da:
 identity-description-custom-root = Ne adanavez ket Mozilla pourchaser an testeni-mañ. Marteze eo bet ouzhpennet gant ho reizhiad korvoiñ pe gant un ardoer. <label data-l10n-name="link">Gouzout hiroc'h</label>
+identity-description-custom-root2 = Ne adanavez ket Mozilla pourchaser an testeni-mañ. Marteze eo bet ouzhpennet gant ho reizhiad korvoiñ pe gant un ardoer.
 identity-remove-cert-exception =
     .label = Lemel an nemedenn kuit
     .accesskey = L
