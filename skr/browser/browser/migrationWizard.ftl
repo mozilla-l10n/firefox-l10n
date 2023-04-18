@@ -60,6 +60,7 @@ migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
 migration-import-button-label = درآمد کرو
 migration-cancel-button-label = منسوخ
 migration-done-button-label = تھی ڳیا
+migration-wizard-import-browser-no-browsers = { -brand-short-name } کوئی اینجھے پروگرام کائنی لبھ سڳا جیندے وچ نشانی، تاریخ یا پاس ورڈ ڈیٹا شامل ہووے۔
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
