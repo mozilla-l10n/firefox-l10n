@@ -44,6 +44,7 @@ policy-DisableFormHistory = Ne jegyezze meg a keresőmezők és űrlapmezők el�
 policy-DisablePrimaryPasswordCreation = Ha igaz, akkor nem hozható létre elsődleges jelszó.
 policy-DisablePasswordReveal = Ne engedje, hogy a mentet bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
 policy-DisablePocket = A weboldalak Pocketbe mentését biztosító funkció letiltása.
+policy-DisablePocket2 = A weboldalak { -pocket-brand-name }be mentését biztosító funkció letiltása.
 policy-DisablePrivateBrowsing = Privát böngészés letiltása.
 policy-DisableProfileImport = A más böngészőből történő adatimportálás parancsok letiltása.
 policy-DisableProfileRefresh = A { -brand-short-name } felfrissítése gomb letiltása az about:support oldalon.
