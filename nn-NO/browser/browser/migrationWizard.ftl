@@ -72,6 +72,7 @@ migration-passwords-from-file-tsv-filter-title =
        *[other] TSV-fil
     }
 migration-import-button-label = Importer
+migration-import-from-file-button-label = Vel fil
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
 migration-wizard-import-browser-no-browsers = { -brand-short-name } klarte ikkje å finne noko program som inneheld bokmerke-, historikk- eller passord-data.
