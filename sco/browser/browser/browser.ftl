@@ -297,6 +297,7 @@ identity-connection-not-secure-security-view = Ye arenae connectit siccar tae th
 identity-connection-verified = Ye're connectit siccar tae this site.
 identity-ev-owner-label = Certificate issued tae:
 identity-description-custom-root = Mozilla disnae ken this certificate issuer. It micht hae been eikit on fae yer operatin system or by an admeenistrator. <label data-l10n-name="link">Lairn Mair</label>
+identity-description-custom-root2 = Mozilla disnae ken this certificate issuer. It micht hae been eikit on fae yer operatin system or by an admeenistrator.
 identity-remove-cert-exception =
     .label = Remuive Exception
     .accesskey = R
