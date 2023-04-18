@@ -25,6 +25,20 @@ migration-wizard-migrator-display-name-safari = Safari
 
 ##
 
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV పత్రం
+       *[other] CSV దస్త్రం
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV పత్రం
+       *[other] TSV దస్త్రం
+    }
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
