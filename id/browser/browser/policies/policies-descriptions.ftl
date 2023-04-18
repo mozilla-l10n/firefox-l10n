@@ -42,6 +42,7 @@ policy-DisableFormHistory = Jangan ingat riwayat pencarian dan formulir.
 policy-DisablePrimaryPasswordCreation = Jika ya, Sandi Utama tidak bisa dibuat.
 policy-DisablePasswordReveal = Jangan izinkan untuk menampilkan kata sandi dalam info masuk tersimpan.
 policy-DisablePocket = Nonaktifkan fitur untuk menyimpan laman web ke Pocket.
+policy-DisablePocket2 = Nonaktifkan fitur untuk menyimpan laman web ke { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Nonaktifkan Penjelajahan Pribadi.
 policy-DisableProfileImport = Nonaktifkan perintah menu untuk mengimpor data dari peramban lainnya.
 policy-DisableProfileRefresh = Nonaktifkan tombol Segarkan { -brand-short-name } di laman about:support.
