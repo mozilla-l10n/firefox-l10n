@@ -57,6 +57,20 @@ migration-favorites-option-label = Takate’ỹha
 migration-logins-and-passwords-option-label = Puruhára ha ñe’ẽñemi ñongatupyre
 migration-history-option-label = Kundaha rembiasakue
 migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Kuatiaite
+       *[other] CSV Marandurenda
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV Kuatiaite
+       *[other] TSV Marandurenda
+    }
 migration-import-button-label = Mba’egueru
 migration-cancel-button-label = Heja
 migration-done-button-label = Apopyre
