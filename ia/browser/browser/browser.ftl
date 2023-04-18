@@ -418,6 +418,7 @@ identity-description-insecure-login-forms = Le credentiales que tu insere sur is
 identity-description-weak-cipher-intro = Tu connexion a iste sito web usa cryptation debile e non es private.
 identity-description-weak-cipher-risk = Altere personas pote vider tu information o modificar le comportamento del sito web.
 identity-description-active-blocked = { -brand-short-name } ha blocate partes de iste pagina que non es secur. <label data-l10n-name="link">Saper plus</label>
+identity-description-active-blocked2 = { -brand-short-name } ha blocate partes de iste pagina que non es secur.
 identity-description-passive-loaded = Tu connexion non es private e informationes que tu insere sur iste sito poterea esser vidite per alteres.
 identity-description-passive-loaded-insecure = Iste sito web ha contento non secur (per exemplo, imagines). <label data-l10n-name="link">Saper plus</label>
 identity-description-passive-loaded-mixed = Ben que { -brand-short-name } ha blocate alcun contento, il ha ancora contento non secur sur le pagina (per exemplo, imagines). <label data-l10n-name="link">Saper plus</label>
