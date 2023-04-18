@@ -373,6 +373,7 @@ identity-connection-not-secure-security-view = Połōnczynie z tōm strōnōm ni
 identity-connection-verified = Połōnczynie z tōm strōnōm je zabezpieczōne.
 identity-ev-owner-label = Certyfikat je wystawiony do:
 identity-description-custom-root = Mozilla niy poznowo tego wydowcy certyfikatu. Mōg być przidany z twojigo ôperacyjnego systymu abo ôd administratora. <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
+identity-description-custom-root2 = Mozilla niy poznowo tego wydowcy certyfikatu. Mōg być przidany z twojigo ôperacyjnego systymu abo ôd administratora.
 identity-remove-cert-exception =
     .label = Wymaż wyjōntek
     .accesskey = W
