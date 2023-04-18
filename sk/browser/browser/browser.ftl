@@ -419,6 +419,7 @@ identity-description-insecure-login-forms = Prihlasovacie údaje zadané na tejt
 identity-description-weak-cipher-intro = Pripojenie k tejto webovej stránke používa slabé zabezpečenie a nie je súkromné.
 identity-description-weak-cipher-risk = Iní ľudia môžu zobraziť vaše údaje alebo zmeniť správanie stránky.
 identity-description-active-blocked = { -brand-short-name } zablokoval nezabezpečené časti tejto stránky. <label data-l10n-name="link">Ďalšie informácie</label>
+identity-description-active-blocked2 = { -brand-short-name } zablokoval nezabezpečené časti tejto stránky.
 identity-description-passive-loaded = Vaše pripojenie nie je súkromné a informácie, ktoré zadáte na stránke, môžu byť viditeľné pre iných ľudí.
 identity-description-passive-loaded-insecure = Táto stránka obsahuje súčasti, ktoré nie sú bezpečné (ako napr. obrázky). <label data-l10n-name="link">Ďalšie informácie</label>
 identity-description-passive-loaded-mixed = Hoci { -brand-short-name } zablokoval niektoré súčasti, stále je na stránke dostupný obsah, ktorý nie je bezpečný (ako napr. obrázky). <label data-l10n-name="link">Ďalšie informácie</label>
