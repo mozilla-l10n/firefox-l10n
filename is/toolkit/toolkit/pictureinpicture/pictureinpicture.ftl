@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Setja í bið
-    .title = Setja í bið (bilslá)
-pictureinpicture-play-cmd =
-    .aria-label = Spila
-    .title = Spila (bilslá)
-pictureinpicture-mute-cmd =
-    .aria-label = Þagga
-    .title = Þagga ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Hljóð á
-    .title = Hljóð á ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Senda aftur á flipa
-    .title = Aftur á flipa
-pictureinpicture-close-cmd =
-    .aria-label = Loka
-    .title = Loka ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Skjátextar
-    .title = Skjátextar
 pictureinpicture-pause-btn =
     .aria-label = Setja í bið
     .tooltip = Setja í bið (bilslá)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Skjáfylli
-    .title = Skjáfylli (tvísmella)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Hætta í fullum skjá
-    .title = Hætta í fullum skjá (tvísmella)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Til baka
-    .title = Til baka (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Áfram
-    .title = Áfram (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Skjáfylli
     .tooltip = Skjáfylli (tvísmella)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Áfram
     .tooltip = Áfram (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Stillingar skjátexta
 pictureinpicture-subtitles-label = Skjátextar
 pictureinpicture-font-size-label = Leturstærð
 pictureinpicture-font-size-small = Lítil

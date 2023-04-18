@@ -22,7 +22,6 @@
 # This is the title of the page
 about-logging-title = Um atvikaskráningu
 about-logging-current-log-file = Núverandi skráningarskrá:
-about-logging-current-log-modules = Núverandi skráningar einingar:
 about-logging-new-log-file = Ný atvikaskrá:
 about-logging-log-tutorial = Kíktu á<a data-l10n-name="logging">HTTP Logging</a> fyrir upplýsngar um hvernig á að nota þetta verkfæri.
 # This message is used as a button label, "Open" indicates an action.
@@ -47,3 +46,4 @@ about-logging-error = Villa:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-configured-via-url = Valkostur stilltur í gegnum slóð
