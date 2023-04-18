@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Szüneteltetés
-    .title = Szüneteltetés (szóköz)
-pictureinpicture-play-cmd =
-    .aria-label = Lejátszás
-    .title = Lejátszás (szóköz)
-pictureinpicture-mute-cmd =
-    .aria-label = Némítás
-    .title = Némítás ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Némítás feloldása
-    .title = Némítás feloldása ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Visszaküldés a lapra
-    .title = Vissza a lapra
-pictureinpicture-close-cmd =
-    .aria-label = Bezárás
-    .title = Bezárás ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Feliratok
-    .title = Feliratok
 pictureinpicture-pause-btn =
     .aria-label = Szüneteltetés
     .tooltip = Szüneteltetés (szóköz)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Teljes képernyős mód
-    .title = Teljes képernyős mód (dupla kattintás)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Kilépés a teljes képernyős módból
-    .title = Kilépés a teljes képernyős módból (dupla kattintás)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Vissza
-    .title = Vissza (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Előre
-    .title = Előre (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Teljes képernyős mód
     .tooltip = Teljes képernyős mód (dupla kattintás)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Előre
     .tooltip = Előre (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Feliratbeállítások
 pictureinpicture-subtitles-label = Feliratok
 pictureinpicture-font-size-label = Betűméret
 pictureinpicture-font-size-small = Kicsi

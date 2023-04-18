@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge béta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Jelszavak egy CSV-fájlból
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Kedvencek
 migration-logins-and-passwords-option-label = Mentett bejelentkezések és jelszavak
 migration-history-option-label = Böngészési előzmények
 migration-form-autofill-option-label = Adatok automatikus kitöltése
+migration-passwords-from-file-progress-header = Jelszófájl importálása
+migration-passwords-from-file-success-header = A jelszavak sikeresen importálva
+migration-passwords-from-file = Jelszavak keresése a fájlban
+migration-passwords-new = Új jelszavak
+migration-passwords-updated = Meglévő jelszavak
+migration-passwords-from-file-picker-title = Jelszófájl importálása
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokumentum
        *[other] TSV-fájl
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } hozzáadva
+       *[other] { $newEntries } hozzáadva
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } frissítve
+       *[other] { $updatedEntries } frissítve
+    }
 migration-import-button-label = Importálás
+migration-choose-to-import-from-file-button-label = Importálás fájlból
+migration-import-from-file-button-label = Fájl kiválasztása
 migration-cancel-button-label = Mégse
 migration-done-button-label = Kész
 migration-wizard-import-browser-no-browsers = A { -brand-short-name } nem talált olyan programot, amely könyvjelzőket, előzményeket vagy jelszóadatokat tartalmazna.
