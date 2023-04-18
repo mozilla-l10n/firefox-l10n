@@ -414,9 +414,12 @@ identity-description-insecure-login-forms = Info masuk yang Anda masukkan di lam
 identity-description-weak-cipher-intro = Sambungan Anda ke situs web ini menggunakan enkripsi lemah dan tidak pribadi.
 identity-description-weak-cipher-risk = Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.
 identity-description-active-blocked = { -brand-short-name } telah memblokir bagian dari laman ini yang tidak aman. <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
+identity-description-active-blocked2 = { -brand-short-name } telah memblokir bagian dari laman ini yang tidak aman.
 identity-description-passive-loaded = Sambungan Anda tidak pribadi dan informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain.
 identity-description-passive-loaded-insecure = Situs web ini mengandung konten yang tidak aman (misalnya, gambar). <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
 identity-description-passive-loaded-mixed = Meskipun { -brand-short-name } telah memblokir sejumlah konten, tetapi masih ada konten di laman ini yang tidak aman (misalnya gambar). <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
+identity-description-passive-loaded-insecure2 = Situs web ini mengandung konten yang tidak aman (misalnya, gambar).
+identity-description-passive-loaded-mixed2 = Meskipun { -brand-short-name } telah memblokir sejumlah konten, tetapi masih ada konten di laman ini yang tidak aman (misalnya gambar).
 identity-description-active-loaded = Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak pribadi.
 identity-description-active-loaded-insecure = Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)
 identity-learn-more =
@@ -660,6 +663,8 @@ reader-view-close-button =
     .aria-label = Tutup Tampilan Pembaca
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
