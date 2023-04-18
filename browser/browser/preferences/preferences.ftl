@@ -1256,6 +1256,14 @@ preferences-doh-setting-default =
     .accesskey = S
 preferences-doh-default-desc = { -brand-short-name } entscheidet, wann sicheres DNS verwendet wird, um Ihre Privatsphäre zu schützen.
 preferences-doh-default-detailed-desc-1 = Sicheres DNS in Regionen verwenden, in denen es verfügbar ist
+preferences-doh-setting-off =
+    .label = Aus
+    .accesskey = A
+preferences-doh-select-resolver = Anbieter auswählen:
+preferences-doh-exceptions-description = { -brand-short-name } verwendet auf diesen Websites kein sicheres DNS
+preferences-doh-manage-exceptions =
+    .label = Ausnahmen verwalten…
+    .accesskey = u
 
 ## The following strings are used in the Download section of settings
 
