@@ -418,6 +418,7 @@ identity-description-insecure-login-forms = פרטי ההתחברות שיוכנ
 identity-description-weak-cipher-intro = החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי.
 identity-description-weak-cipher-risk = אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.
 identity-description-active-blocked = { -brand-short-name } חסם חלקים שאינם בטוחים בדף זה. <label data-l10n-name="link">מידע נוסף</label>
+identity-description-active-blocked2 = { -brand-short-name } חסם חלקים שאינם בטוחים בדף זה.
 identity-description-passive-loaded = החיבור שלך לאתר זה אינו פרטי, ומידע שישותף עם האתר עשוי להיות נגיש לאחרים.
 identity-description-passive-loaded-insecure = אתר זה מכיל תוכן שאינו מאובטח (כגון תמונות). <label data-l10n-name="link">מידע נוסף</label>
 identity-description-passive-loaded-mixed = למרות ש־{ -brand-short-name } חסם חלק מהתוכן, עדיין קיים בדף תוכן שאינו מאובטח (כגון תמונות). <label data-l10n-name="link">מידע נוסף</label>
