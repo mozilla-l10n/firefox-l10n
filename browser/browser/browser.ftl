@@ -403,6 +403,7 @@ identity-connection-not-secure-security-view = Nesate saugiai prisijungę prie �
 identity-connection-verified = Esate saugiai prisijungę prie šios svetainės.
 identity-ev-owner-label = Kam išduotas liudijimas:
 identity-description-custom-root = „Mozilla“ neatpažįsta šio liudijimo išdavėjo. Jis galėjo būti pridėtas iš jūsų operacinės sistemos, arba administratoriaus. <label data-l10n-name="link">Sužinoti daugiau</label>
+identity-description-custom-root2 = „Mozilla“ neatpažįsta šio liudijimo išdavėjo. Jis galėjo būti pridėtas iš jūsų operacinės sistemos, arba administratoriaus.
 identity-remove-cert-exception =
     .label = Panaikinti išimtį
     .accesskey = n
