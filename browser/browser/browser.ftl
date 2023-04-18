@@ -423,6 +423,7 @@ identity-description-passive-loaded = Tengingin við þetta vefsvæði er ekki l
 identity-description-passive-loaded-insecure = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir). <label data-l10n-name="link">Fræðast meira</label>
 identity-description-passive-loaded-mixed = Þótt { -brand-short-name } hafi lokað á sumt efni, er ennþá efni á síðunni sem er ekki öruggt (eins og t.d. myndir). <label data-l10n-name="link">Fræðast meira</label>
 identity-description-passive-loaded-insecure2 = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir).
+identity-description-passive-loaded-mixed2 = Þótt { -brand-short-name } hafi lokað á sumt efni, er ennþá efni á síðunni sem er ekki öruggt (eins og t.d. myndir).
 identity-description-active-loaded = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.
 identity-description-active-loaded-insecure = Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).
 identity-learn-more =
