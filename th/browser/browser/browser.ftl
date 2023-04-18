@@ -406,6 +406,7 @@ identity-connection-not-secure-security-view = คุณไม่ได้เช
 identity-connection-verified = คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้
 identity-ev-owner-label = ออกใบรับรองให้กับ:
 identity-description-custom-root = Mozilla ไม่รู้จักผู้ออกใบรับรองนี้ ซึ่งอาจถูกเพิ่มจากระบบปฏิบัติการของคุณหรือโดยผู้ดูแลระบบ <label data-l10n-name="link">เรียนรู้เพิ่มเติม</label>
+identity-description-custom-root2 = Mozilla ไม่รู้จักผู้ออกใบรับรองนี้ ซึ่งอาจถูกเพิ่มจากระบบปฏิบัติการของคุณหรือโดยผู้ดูแลระบบ
 identity-remove-cert-exception =
     .label = เอาข้อยกเว้นออก
     .accesskey = อ
