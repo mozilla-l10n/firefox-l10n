@@ -44,6 +44,7 @@ policy-DisableFormHistory = Spara inte sök- och formulärhistorik.
 policy-DisablePrimaryPasswordCreation = Om det är sant kan ett huvudlösenord inte skapas.
 policy-DisablePasswordReveal = Låt inte lösenord avslöjas i sparade inloggningar.
 policy-DisablePocket = Inaktivera funktionen att spara webbsidor till Pocket.
+policy-DisablePocket2 = Inaktivera funktionen att spara webbsidor till { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Inaktivera privat surfning.
 policy-DisableProfileImport = Inaktivera menyalternativet att importera data från en annan webbläsare.
 policy-DisableProfileRefresh = Inaktivera knappen Återställ { -brand-short-name } på sidan about:support.
