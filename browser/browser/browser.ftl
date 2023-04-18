@@ -238,9 +238,12 @@ identity-description-insecure = La conexón a esti sitiu nun ye privada. La info
 identity-description-weak-cipher-intro = La conexón a esti sitiu web usa un cifráu feble y nun ye privada.
 identity-description-weak-cipher-risk = Terceros puen ver la to información o modificar el comportamientu del sitiu web.
 identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Lleer más</label>
+identity-description-active-blocked2 = { -brand-short-name } bloquió partes d'esta páxina que nun son segures.
 identity-description-passive-loaded = La conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
 identity-description-passive-loaded-insecure = Esti sitiu web inclúi conteníu que nun ye seguru (como les imáxenes). <label data-l10n-name="link">Lleer más</label>
 identity-description-passive-loaded-mixed = Magar que { -brand-short-name } bloquió dalgún conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes). <label data-l10n-name="link">Lleer más</label>
+identity-description-passive-loaded-insecure2 = Esti sitiu web inclúi conteníu que nun ye seguru (como les imáxenes).
+identity-description-passive-loaded-mixed2 = Magar que { -brand-short-name } bloquió dalgún conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes).
 identity-description-active-loaded = Esti sitiu web inclúi conteníu que nun ye seguru (como los scripts) y la conexón a elli nun ye privada.
 identity-description-active-loaded-insecure = La información que compartas con esti sitiu podríen vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
 identity-learn-more =
@@ -389,6 +392,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Zarrar la Vista de Llector
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -426,12 +434,20 @@ bookmarks-other-bookmarks-menu =
     .label = Otros marcadores
 bookmarks-mobile-bookmarks-menu =
     .label = Marcadores del móvil
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Anubrir la barra de los marcadores
            *[other] Amosar la barra de los marcadores
         }
+
+##
+
 bookmarks-search =
     .label = Buscar nos marcadores
 # The aria-label is a spoken label that should not include the word "toolbar" or
@@ -588,6 +604,16 @@ data-reporting-notification-message = { -brand-short-name } unvia automáticamen
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } evitó qu'esta páxina se volviere cargar automáticamente.
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
