@@ -57,6 +57,20 @@ migration-favorites-option-label = Taq ajowab'äl
 migration-logins-and-passwords-option-label = Yakon kitikirisaxik molojri'ïl chuqa' ewan taq tzij
 migration-history-option-label = Runatab'al okem pa k'amaya'l
 migration-form-autofill-option-label = Rutzij nojwuj ruyon ninojisäx
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Wuj
+       *[other] CSV Yakb'äl
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV Wujil
+       *[other] TSV Yakb'äl
+    }
 migration-import-button-label = Tijik' pe
 migration-cancel-button-label = Tiq'at
 migration-done-button-label = Xk'is
