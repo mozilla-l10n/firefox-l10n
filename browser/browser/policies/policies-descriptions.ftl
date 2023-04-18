@@ -44,6 +44,7 @@ policy-DisableFormHistory = Ikkje lagre søkje- og skjemahistorikk.
 policy-DisablePrimaryPasswordCreation = Om aktiv, kan ikkje eit hovudpassord lagast.
 policy-DisablePasswordReveal = Ikkje la passord bli avslørte for lagra innloggingar.
 policy-DisablePocket = Deaktiver funksjonen for å lagre nettsider til Pocket.
+policy-DisablePocket2 = Deaktiver funksjonen for å lagre nettsider til { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data frå ein annan nettlesar.
 policy-DisableProfileRefresh = Deaktiver knappen Tilbakestill { -brand-short-name } på sida about:support.
