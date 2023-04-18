@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pause
-    .title = Pause (sbare di spazi)
-pictureinpicture-play-cmd =
-    .aria-label = Riprodûs
-    .title = Riprodûs (sbare di spazi)
-pictureinpicture-mute-cmd =
-    .aria-label = Cidine
-    .title = Cidinâ ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Ative audio
-    .title = Ative audio ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Torne mande ae schede
-    .title = Torne place te schede
-pictureinpicture-close-cmd =
-    .aria-label = Siere
-    .title = Siere ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Sottitui
-    .title = Sottitui
 pictureinpicture-pause-btn =
     .aria-label = Pause
     .tooltip = Pause (sbare di spazi)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Plen visôr
-    .title = A plen visôr (dopli clic)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Jes di Plen visôr
-    .title = Jes de modalitât a plen visôr (dopli clic)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Indaûr
-    .title = Indaûr (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Indenant
-    .title = Indenant (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Plen visôr
     .tooltip = A plen visôr (dopli clic)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Indenant
     .tooltip = Indenant (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Impostazions sottitui
 pictureinpicture-subtitles-label = Sottitui
 pictureinpicture-font-size-label = Dimension caratar
 pictureinpicture-font-size-small = Piçule
