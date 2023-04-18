@@ -44,6 +44,7 @@ policy-DisableFormHistory = Non rememorar le chronologia de recercas e formulari
 policy-DisablePrimaryPasswordCreation = Si ver, non pote esser create un contrasigno primari.
 policy-DisablePasswordReveal = Non permitter de monstrar le contrasignos in le credentiales salvate.
 policy-DisablePocket = Disactivar le function pro salvar paginas web in Pocket.
+policy-DisablePocket2 = Disactivar le function pro salvar paginas web in { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disactivar le Navigation private.
 policy-DisableProfileImport = Disactivar le commando del menu pro importar datos ab un altere navigator.
 policy-DisableProfileRefresh = Disactivar le button Refrescar { -brand-short-name } in le pagina about:support.
