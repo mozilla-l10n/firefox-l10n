@@ -418,9 +418,11 @@ identity-description-insecure-login-forms = Talɣut n yisem n useqdac i d-tefki�
 identity-description-weak-cipher-intro = Tuqqna-inek ɣeṛ usmel-a tesseqdac awgelhen fessusen u mačči d tusligt.
 identity-description-weak-cipher-risk = Zemren imdanen-nniḍen ad walin talɣut-ik neɣ ad beddlen tikli n usmel web.
 identity-description-active-blocked = { -brand-short-name } issewḥel kra n yiḥricen n usebter-a ur nelli ara d iɣelsanen. <label data-l10n-name="link">Issin ugar</label>
+identity-description-active-blocked2 = { -brand-short-name } issewḥel kra n yiḥricen n usebter-a ur nelli ara d iɣelsanen.
 identity-description-passive-loaded = Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a acku tuqqna-k mačči d tusligt.
 identity-description-passive-loaded-insecure = Asmel-a isεa agbur araɣelsan (am tugniwin). <label data-l10n-name="link">Issin ugar</label>
 identity-description-passive-loaded-mixed = Ɣas akken { -brand-short-name } issewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan deg usebter (am tugniwin). <label data-l10n-name="link">Issin ugar</label>
+identity-description-passive-loaded-mixed2 = Ɣas akken { -brand-short-name } issewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan deg usebter (am tugniwin).
 identity-description-active-loaded = Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.
 identity-description-active-loaded-insecure = Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a (am wawalen uffiren, iznan, atg.).
 identity-learn-more =
@@ -667,6 +669,8 @@ reader-view-close-button =
     .aria-label = Mdel timeẓri n tɣuṛi
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
