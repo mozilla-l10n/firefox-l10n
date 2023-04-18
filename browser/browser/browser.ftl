@@ -213,9 +213,12 @@ identity-description-insecure-login-forms = Maklumat log masuk yang anda masukka
 identity-description-weak-cipher-intro = Sambungan anda ke laman web ini menggunakan enkripsi yang lemah dan bukan secara persendirian.
 identity-description-weak-cipher-risk = Orang lain boleh melihat maklumat anda atau mengubah tingkah laku laman web.
 identity-description-active-blocked = { -brand-short-name } telah menyekat sebahagian halaman ini yang tidak selamat. <label data-l10n-name="link">Ketahui Selanjutnya</label>
+identity-description-active-blocked2 = { -brand-short-name } telah menyekat sebahagian halaman ini yang tidak selamat.
 identity-description-passive-loaded = Sambungan anda adalah terbuka dan maklumat yang anda kongsi dengan halaman ini mampu dilihat oleh orang lain.
 identity-description-passive-loaded-insecure = Laman web ini mengandungi kandungan yang tidak selamat (seperti imej). <label data-l10n-name="link">Ketahui Selanjutnya</label>
 identity-description-passive-loaded-mixed = Walaupun { -brand-short-name } telah menyekat beberapa kandungan, masih ada kandungan pada halaman ini yang tidak selamat (seperti imej). <label data-l10n-name="link">Ketahui Selanjutnya</label>
+identity-description-passive-loaded-insecure2 = Laman web ini mengandungi kandungan yang tidak selamat (seperti imej).
+identity-description-passive-loaded-mixed2 = Walaupun { -brand-short-name } telah menyekat beberapa kandungan, masih ada kandungan pada halaman ini yang tidak selamat (seperti imej).
 identity-description-active-loaded = Laman web ini mengandungi kandungan yang tidak selamat (seperti skrip) dan sambungan anda kepadanya adalah terbuka.
 identity-description-active-loaded-insecure = Maklumat yang anda kongsi dengan laman ini boleh dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).
 identity-learn-more =
@@ -303,6 +306,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Tutup Reader View
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -334,6 +342,11 @@ bookmarks-other-bookmarks-menu =
     .label = Tandabuku Lain
 bookmarks-mobile-bookmarks-menu =
     .label = Tandabuku Telefon
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -352,6 +365,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Buang Menu Tandabuku daripada Bar alatan
            *[other] Tambah Menu Tandabuku dalam Bar alatan
         }
+
+##
+
 bookmarks-search =
     .label = Cari Tandabuku
 bookmarks-tools =
@@ -486,6 +502,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } menghalang halaman ini daripada dimuatkan secara automatik.
@@ -493,3 +513,9 @@ refresh-blocked-redirect-label = { -brand-short-name } menghalang halaman ini da
 refresh-blocked-allow =
     .label = Izinkan
     .accesskey = I
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
