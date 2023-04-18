@@ -57,10 +57,12 @@ neterror-dns-not-found-hint-firewall = Ellenőrizze, hogy a { -brand-short-name 
 
 neterror-dns-not-found-trr-only-reason = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a megbízható DNS-feloldónkon keresztül. Ennek ez az oka:
 neterror-dns-not-found-trr-third-party-warning = Folytathatja egy nem biztonságos DNS-feloldóval. Előfordulhat azonban, hogy egy harmadik fél láthatja, hogy milyen webhelyeket keres fel.
+neterror-dns-not-found-trr-third-party-warning2 = Folytathatja az alapértelmezett DNS-feloldóval. Előfordulhat azonban, hogy egy harmadik fél láthatja, hogy milyen webhelyeket keres fel.
 neterror-dns-not-found-trr-only-could-not-connect = A { -brand-short-name } nem tudott csatlakozni a következő domainhoz: { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = A következőhöz kapcsolódás a vártnál tovább tartott: { $trrDomain }.
 neterror-dns-not-found-trr-offline = Nem csatlakozik az internethez.
 neterror-dns-not-found-trr-unknown-host = Nem található cím ehhez a weboldalhoz: { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = Ezt a webhelyet nem találta meg a(z) { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Probléma lépett fel a következő domainen: { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Váratlan probléma.
 
