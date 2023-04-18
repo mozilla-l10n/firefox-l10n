@@ -1255,6 +1255,7 @@ preferences-doh-setting-default =
     .label = Standardschutz
     .accesskey = S
 preferences-doh-default-desc = { -brand-short-name } entscheidet, wann sicheres DNS verwendet wird, um Ihre Privatsphäre zu schützen.
+preferences-doh-default-detailed-desc-1 = Sicheres DNS in Regionen verwenden, in denen es verfügbar ist
 
 ## The following strings are used in the Download section of settings
 
