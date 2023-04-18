@@ -298,6 +298,7 @@ identity-connection-not-secure-security-view = Вие не сте безбедн
 identity-connection-verified = Вие сте безбедно поврзани со оваа страница.
 identity-ev-owner-label = Сертификат издаден на:
 identity-description-custom-root = Mozilla не го препознава издавачот на овој сертификат. Можеби е додаден од вашиот оперативен систем или од администратор. <label data-l10n-name="link">Дознајте повеќе</label>
+identity-description-custom-root2 = Mozilla не го препознава издавачот на овој сертификат. Можеби е додаден од вашиот оперативен систем или од администратор.
 identity-remove-cert-exception =
     .label = Отстрани исклучок
     .accesskey = Д
