@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = החיבור שלך לאתר זה
 identity-connection-verified = החיבור שלך לאתר זה מאובטח.
 identity-ev-owner-label = האישור הונפק עבור:
 identity-description-custom-root = ‏Mozilla אינה מזהה את מנפיק האישורים הזה. ייתכן שהוא נוסף ממערכת ההפעלה שלך או על־ידי מנהל מערכת. <label data-l10n-name="link">מידע נוסף</label>
+identity-description-custom-root2 = ‏Mozilla אינה מזהה את מנפיק האישורים הזה. ייתכן שהוא נוסף ממערכת ההפעלה שלך או על־ידי מנהל מערכת.
 identity-remove-cert-exception =
     .label = הסרת חריגה
     .accesskey = ס
