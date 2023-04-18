@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = De oanmeldingsgegevens dy’t jo op 
 identity-description-weak-cipher-intro = Jo ferbining mei dizze website brûkt swakke fersifering en is net privee.
 identity-description-weak-cipher-risk = Oare persoanen kinne jo gegevens besjen of it gedrach fan de website oanpasse.
 identity-description-active-blocked = { -brand-short-name } hat ûnderdielen fan dizze side dy’t net befeilige binne blokkearre. <label data-l10n-name="link">Mear ynfo</label>
+identity-description-active-blocked2 = { -brand-short-name } hat ûnderdielen fan dizze side dy’t net befeilige binne blokkearre.
 identity-description-passive-loaded = Jo ferbining is net privee en gegevens dy’t jo mei de website diele soene troch oaren besjoen wurde kinne.
 identity-description-passive-loaded-insecure = Dizze website befettet ynhâld dy’t net befeilige is (lykas ôfbyldingen). <label data-l10n-name="link">Mear ynfo</label>
 identity-description-passive-loaded-mixed = Hoewol { -brand-short-name } bepaalde ynhâld blokkearre hat, is der noch hieltyd ynhâld op de side dy’t net befeilige is (lykas ôfbyldingen). <label data-l10n-name="link">Mear ynfo</label>
+identity-description-passive-loaded-insecure2 = Dizze website befettet ynhâld dy’t net befeilige is (lykas ôfbyldingen).
+identity-description-passive-loaded-mixed2 = Hoewol { -brand-short-name } bepaalde ynhâld blokkearre hat, is der noch hieltyd ynhâld op de side dy’t net befeilige is (lykas ôfbyldingen).
 identity-description-active-loaded = Dizze website befettet ynhâld dy’t net befeilige is (lykas scripts) en jo ferbining dêrmei is net privee.
 identity-description-active-loaded-insecure = Gegevens dy’t jo mei dizze website diele, soene troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).
 identity-learn-more =
