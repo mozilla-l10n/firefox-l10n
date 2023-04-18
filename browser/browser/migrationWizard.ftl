@@ -64,6 +64,13 @@ migration-passwords-from-file-csv-filter-title =
         [macos] CSV 文档
        *[other] CSV 文件
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV 文件
+       *[other] TSV 文件
+    }
 migration-import-button-label = 导入
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
