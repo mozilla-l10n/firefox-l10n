@@ -42,6 +42,7 @@ policy-DisableFormHistory = Wyłączenie zachowywania historii wyszukiwania i f
 policy-DisablePrimaryPasswordCreation = Wartość „prawda” powoduje, że nie można utworzyć hasła głównego.
 policy-DisablePasswordReveal = Wyłączenie możliwości wyświetlania haseł w zachowanych danych logowania.
 policy-DisablePocket = Wyłączenie funkcji zachowywania stron w Pocket.
+policy-DisablePocket2 = Wyłączenie funkcji zachowywania stron w { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Wyłączenie trybu prywatnego.
 policy-DisableProfileImport = Wyłączenie polecenia menu do importowania danych z innej przeglądarki.
 policy-DisableProfileRefresh = Wyłączenie przycisku „Odśwież program { -brand-short-name }” na stronie about:support.
