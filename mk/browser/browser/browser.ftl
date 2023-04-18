@@ -306,9 +306,12 @@ identity-description-insecure-login-forms = Податоците што ги в�
 identity-description-weak-cipher-intro = Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна.
 identity-description-weak-cipher-risk = Други луѓе можат да ги гледаат вашите информации или да го менуваат однесувањето на мрежното место.
 identity-description-active-blocked = { -brand-short-name } блокираше делови од оваа страница што не се безбедни. <label data-l10n-name="link">Дознај повеќе</label>
+identity-description-active-blocked2 = { -brand-short-name } блокираше делови од оваа страница што не се безбедни.
 identity-description-passive-loaded = Вашата врска не е приватна и податоците што ги споделувате со ова место, би можеле да бидат видливи за други.
 identity-description-passive-loaded-insecure = Ова мрежно место има содржини што не се безбедни (како на пример: слики). <label data-l10n-name="link">Дознај повеќе</label>
 identity-description-passive-loaded-mixed = Иако { -brand-short-name } блокираше некои содржини, оваа страница сѐ уште има содржини што не се безбедни (како, на пример, слики). <label data-l10n-name="link">Дознај повеќе</label>
+identity-description-passive-loaded-insecure2 = Ова мрежно место има содржини што не се безбедни (како на пример: слики).
+identity-description-passive-loaded-mixed2 = Иако { -brand-short-name } блокираше некои содржини, оваа страница сѐ уште има содржини што не се безбедни (како, на пример, слики).
 identity-description-active-loaded = Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и вашата врска не е приватна.
 identity-description-active-loaded-insecure = Податоците што ги споделувате со ова место би можеле да бидат видливи за други (како на пример: лозинки, пораки, кредитни картички и сл.).
 identity-learn-more =
@@ -536,6 +539,11 @@ urlbar-group-search-suggestions =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -580,6 +588,11 @@ bookmarks-other-bookmarks-menu =
     .label = Други обележувачи
 bookmarks-mobile-bookmarks-menu =
     .label = Мобилни обележувачи
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -604,6 +617,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Отстрани мени за обележувачи од алатник
            *[other] Додај мени за обележувачи во алатник
         }
+
+##
+
 bookmarks-search =
     .label = Барај во обележувачите
 bookmarks-tools =
@@ -803,6 +819,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } спречи оваа страница автоматски да се превчита.
@@ -810,3 +830,9 @@ refresh-blocked-redirect-label = { -brand-short-name } спречи оваа с�
 refresh-blocked-allow =
     .label = Дозволи
     .accesskey = Д
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
