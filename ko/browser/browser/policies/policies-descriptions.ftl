@@ -44,6 +44,7 @@ policy-DisableFormHistory = 검색과 양식 기록을 기억하지 않습니다
 policy-DisablePrimaryPasswordCreation = True 값이면 기본 비밀번호를 만들 수 없습니다.
 policy-DisablePasswordReveal = 저장된 로그인에 비밀번호 보기 기능을 허용하지 않습니다.
 policy-DisablePocket = Pocket에 웹 사이트 저장하는 기능을 사용 안 합니다.
+policy-DisablePocket2 = { -pocket-brand-name }에 웹 사이트 저장하는 기능을 사용 안 합니다.
 policy-DisablePrivateBrowsing = 사생활 보호 모드를 사용 안 합니다.
 policy-DisableProfileImport = 메뉴에서 다른 브라우저의 데이터를 가져오는 명령을 사용 안 합니다.
 policy-DisableProfileRefresh = about:support 페이지의 { -brand-short-name } 새로설정 버튼을 사용 안 합니다.
