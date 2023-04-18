@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = S'jeni lidhur në mënyrë të si
 identity-connection-verified = Jeni lidhur në mënyrë të siguruar me këtë sajt.
 identity-ev-owner-label = Dëshmi lëshuar për:
 identity-description-custom-root = Mozilla nuk e njeh këtë lëshues dëshmish. Mund të jetë shtuar nga sistemi juaj operativ ose nga një përgjegjës. <label data-l10n-name="link">Mësoni Më Tepër</label>
+identity-description-custom-root2 = Mozilla nuk e njeh këtë lëshues dëshmish. Mund të jetë shtuar nga sistemi juaj operativ ose nga një përgjegjës.
 identity-remove-cert-exception =
     .label = Hiqeni Përjashtimin
     .accesskey = H
