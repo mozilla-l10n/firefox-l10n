@@ -223,6 +223,8 @@ identity-description-active-blocked = { -brand-short-name } यस पृष्�
 identity-description-passive-loaded = तपाईँको जडान सुरक्षित छैन र तपाईँले आदान प्रदान गर्ने जानकारी अरुले पनि हेर्न सक्छन्।
 identity-description-passive-loaded-insecure = यो वेबसाइटमा सामग्री सुरक्षित छैन (जस्तै तस्विरहरू)। <label data-l10n-name="link">थप जान्नुहोस्</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } मा रहेका केही सामग्रीहरू रोकिएको भए पनि त्यहाँ असुरक्षित सामग्री (जस्तै तस्विरहरू) छन्। <label data-l10n-name="link">थप जान्नुहोस्</label>
+identity-description-passive-loaded-insecure2 = यो वेबसाइटमा सामग्री सुरक्षित छैन (जस्तै तस्विरहरू)।
+identity-description-passive-loaded-mixed2 = { -brand-short-name } मा रहेका केही सामग्रीहरू रोकिएको भए पनि त्यहाँ असुरक्षित सामग्री (जस्तै तस्विरहरू) छन्।
 identity-description-active-loaded = यो वेबसाइटमा सुरक्षित सामग्री छैन (जस्तै स्क्रिप्टहरू) र तपाईँको जडान निजी पनि छैन।
 identity-description-active-loaded-insecure = तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरूले पनि देख्न सक्छन्।
 identity-learn-more =
@@ -317,6 +319,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = पाठक दृश्य बन्द गर्नुहोस्
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -351,6 +358,11 @@ bookmarks-other-bookmarks-menu =
     .label = अन्य बुकमार्कहरू
 bookmarks-mobile-bookmarks-menu =
     .label = मोबाइल बुकमार्कहरू
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -369,6 +381,9 @@ bookmarks-tools-menu-button-visibility =
             [true] पुस्तकचिनो मेनु उपकरणपट्टिबाट हटाउनुहोस्
            *[other] पुस्तकचिनो मेनु उपकरणपट्टिमा थप्नुहोस्
         }
+
+##
+
 bookmarks-search =
     .label = पुस्तकचिनोहरू खोज्नुहोस्
 bookmarks-tools =
@@ -500,6 +515,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ले यस पेज स्वचालित रूपमा पुनःलोड हुनबाट रोक्यो।
@@ -507,3 +526,9 @@ refresh-blocked-redirect-label = { -brand-short-name } ले यस पेज �
 refresh-blocked-allow =
     .label = अनुमति दिनुहोस्
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
