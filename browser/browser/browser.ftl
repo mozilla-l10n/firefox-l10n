@@ -133,9 +133,12 @@ identity-description-insecure = Kgolagano ya gago mo saete eno ga e poraefete. T
 identity-description-weak-cipher-intro = Kgolagano ya gago mo saete eno e dirisa mokgwatshireletso o bokoa gape ga e poraefete.
 identity-description-weak-cipher-risk = Batho bangwe ba kgona go leba tshedimosetso ya gago kgotsa go fetola tiro - tsamaiso ya webosaete.
 identity-description-active-blocked = { -brand-short-name } e kgoreleditse dikarolo tsa tsebe eno tse di sa sireletsegang. <label data-l10n-name="link">Ithute mo go Tseneletseng</label>
+identity-description-active-blocked2 = { -brand-short-name } e kgoreleditse dikarolo tsa tsebe eno tse di sa sireletsegang.
 identity-description-passive-loaded = Kgolagano ya gago ga e poraefete ka jalo tshedimosetso e o e abelanang le saete e ka lebiwa ke batho ba bangwe.
 identity-description-passive-loaded-insecure = Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka ditshwantsho). <label data-l10n-name="link">Ithute mo go Tseneletseng</label>
 identity-description-passive-loaded-mixed = Le mororo { -brand-short-name } e kgoreleditse diteng dingwe, go santse gona le diteng tse di sa sireletsegang mo tsebeng (jaaka ditshwantsho). <label data-l10n-name="link">Ithute mo go Tseneletseng</label>
+identity-description-passive-loaded-insecure2 = Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka ditshwantsho).
+identity-description-passive-loaded-mixed2 = Le mororo { -brand-short-name } e kgoreleditse diteng dingwe, go santse gona le diteng tse di sa sireletsegang mo tsebeng (jaaka ditshwantsho).
 identity-description-active-loaded = Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka disekeripiti) gape kgolagano ya gago mo go yone ga e poraefete.
 identity-description-active-loaded-insecure = Tshedimosetso e o e abelanang le saete eno e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato , le tse dingwe.).
 identity-learn-more =
@@ -206,6 +209,11 @@ urlbar-result-action-search-w-engine = Batla ka: { $engine }
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -226,6 +234,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Supa matshwaotsebe a le mantsi
 bookmarks-sidebar-content =
     .aria-label = Matshwaotsebe
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = Tseleganya letshwaotsebe le
 bookmarks-toolbar-menu =
@@ -338,6 +354,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } thibetse tsebe e go itirisa sešwa.
@@ -345,3 +365,9 @@ refresh-blocked-redirect-label = { -brand-short-name } e thibetse tsebe e go iti
 refresh-blocked-allow =
     .label = Letlelela
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
