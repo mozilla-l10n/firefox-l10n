@@ -1259,6 +1259,17 @@ preferences-doh-default-desc = A { -brand-short-name } dönti el, hogy mikor has
 preferences-doh-default-detailed-desc-1 = Biztonságos DNS használata azokban a régiókban, ahol elérhető
 preferences-doh-default-detailed-desc-2 = Alapértelmezett DNS-feloldó használata, ha probléma van a biztonságos DNS-szolgáltatóval
 preferences-doh-default-detailed-desc-3 = Helyi szolgáltató használata, ha lehet
+preferences-doh-default-detailed-desc-4 = Kikapcsolás, ha a VPN, a szülői felügyelet vagy a vállalati házirendek aktívak
+preferences-doh-default-detailed-desc-5 = Kikapcsolás, ha a hálózat azt mondja a { -brand-short-name }nak, hogy ne használjon biztonságos DNS-t
+preferences-doh-setting-enabled =
+    .label = Fokozott védelem
+    .accesskey = F
+preferences-doh-enabled-desc = Ön szabályozza, hogy mikor használ DNS-t, és kiválaszthatja a szolgáltatót.
+preferences-doh-enabled-detailed-desc-1 = A kiválasztott szolgáltató használata
+preferences-doh-enabled-detailed-desc-2 = Csak akkor használja az alapértelmezett DNS-feloldót, ha probléma van a biztonságos DNS-sel
+preferences-doh-setting-strict =
+    .label = Maximális védelem
+    .accesskey = M
 
 ## The following strings are used in the Download section of settings
 
