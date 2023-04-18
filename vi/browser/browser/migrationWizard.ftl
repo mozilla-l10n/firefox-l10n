@@ -57,6 +57,20 @@ migration-favorites-option-label = Trang ưa thích
 migration-logins-and-passwords-option-label = Thông tin đăng nhập và mật khẩu đã lưu
 migration-history-option-label = Lịch sử duyệt web
 migration-form-autofill-option-label = Dữ liệu tự động điền biểu mẫu
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Tài liệu CSV
+       *[other] Tập tin CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Tài liệu TSV
+       *[other] Tập tin TSV
+    }
 migration-import-button-label = Nhập
 migration-cancel-button-label = Hủy bỏ
 migration-done-button-label = Xong
