@@ -322,9 +322,12 @@ identity-description-insecure-login-forms = ఈ పేజీలో మీరు 
 identity-description-weak-cipher-intro = ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్‌క్రిప్షన్‌తో ఉన్నది మరియు గుట్టుగా లేదు.
 identity-description-weak-cipher-risk = ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.
 identity-description-active-blocked = ఈ పేజీలో సురక్షితంకాని భాగాలను { -brand-short-name } నిరోధించింది. <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
+identity-description-active-blocked2 = ఈ పేజీలో సురక్షితంకాని భాగాలను { -brand-short-name } నిరోధించింది.
 identity-description-passive-loaded = ఈ సైటుకు మీ అనుసంధానం గుట్టుగా లేదు మరియు ఈ సైటుతో మీరు పంచుకునే సమాచారం ఇతరులు చూడవచ్చు.
 identity-description-passive-loaded-insecure = ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్ కలిగివుంది (బొమ్మల వంటివి). <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా ఈ పేజీలో సురక్షితం కాని కాంటెంట్ ఉంది (బొమ్మల వంటివి). <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
+identity-description-passive-loaded-insecure2 = ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్ కలిగివుంది (బొమ్మల వంటివి).
+identity-description-passive-loaded-mixed2 = { -brand-short-name } కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా ఈ పేజీలో సురక్షితం కాని కాంటెంట్ ఉంది (బొమ్మల వంటివి).
 identity-description-active-loaded = ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్‌ను కలిగివుంది (స్క్రిప్టుల వంటివి) మరియు దానికి మీరు గుట్టుగా అనుసంధానంకాలేదు.
 identity-description-active-loaded-insecure = ఈ సైటుతో మీరు పంచుకునే సమాచారాన్ని ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డులు, మొదలైనవి).
 identity-learn-more =
@@ -521,6 +524,8 @@ reader-view-close-button =
     .aria-label = చదువరి వీక్షణం మూయి
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
