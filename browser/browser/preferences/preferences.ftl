@@ -1233,9 +1233,14 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS HTTPS:n kautta
+preferences-doh-description = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, luoden suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Tila: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Palveluntarjoaja: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Virheellinen osoite
