@@ -304,6 +304,8 @@ identity-description-active-blocked2 = { -brand-short-name } a blocat părți al
 identity-description-passive-loaded = Conexiunea nu este privată și informațiile pe care le partajezi cu acest site pot fi văzute de alții.
 identity-description-passive-loaded-insecure = Acest site web are conținut care nu este sigur (cum ar fi imaginile). <label data-l10n-name="link">Află mai multe</label>
 identity-description-passive-loaded-mixed = Deși { -brand-short-name } a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imaginile). <label data-l10n-name="link">Află mai multe</label>
+identity-description-passive-loaded-insecure2 = Acest site web are conținut care nu este sigur (cum ar fi imaginile).
+identity-description-passive-loaded-mixed2 = Deși { -brand-short-name } a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imaginile).
 identity-description-active-loaded = Acest site web are conținut care nu este sigur (cum ar fi scripturile), iar conexiunea ta la acesta nu este privată.
 identity-description-active-loaded-insecure = Informațiile pe care le partajezi cu site-ul ar putea fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).
 identity-learn-more =
