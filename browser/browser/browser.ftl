@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = U hebt een onbeveiligde verbindin
 identity-connection-verified = U hebt een beveiligde verbinding met deze website.
 identity-ev-owner-label = Certificaat uitgegeven aan:
 identity-description-custom-root = Mozilla herkent deze certificaatuitgever niet. Hij is mogelijk vanuit uw besturingssysteem of door een beheerder toegevoegd. <label data-l10n-name="link">Meer info</label>
+identity-description-custom-root2 = Mozilla herkent deze certificaatuitgever niet. Hij is mogelijk vanuit uw besturingssysteem of door een beheerder toegevoegd.
 identity-remove-cert-exception =
     .label = Uitzondering verwijderen
     .accesskey = w
