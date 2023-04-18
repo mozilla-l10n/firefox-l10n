@@ -41,6 +41,7 @@ policy-DisableFormHistory = Man tinatäx ri runatab'al kanob'äl chuqa' taq nojw
 policy-DisablePrimaryPasswordCreation = We qitzij, man nitikïr ta nitz'uk jun aNab'ey Ewan Tzij.
 policy-DisablePasswordReveal = Man tiya' q'ij chi kek'ut ri ewan taq tzij pa yakon taq tikirib'äl molojri'ïl.
 policy-DisablePocket = Tichup ri samaj richin yeyak taq ajk'amaya'l ruxaq pa Pocket.
+policy-DisablePocket2 = Tichup ri samaj richin yeyak taq ajk'amaya'l ruxaq pa { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Tichup  ri Ichinan Okem pa K'amaya'l.
 policy-DisableProfileImport = Tichup ri runuk'uj k'utsamaj richin yejik' taq tzij pa ch'aqa' chik taq okik'amaya'l.
 policy-DisableProfileRefresh = Tichup ri Titzolïx { -brand-short-name } pitz'b'äl pa ri ruxaq about:support.
