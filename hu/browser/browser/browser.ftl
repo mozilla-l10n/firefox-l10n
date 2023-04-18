@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Nem biztonságosan kapcsolódik e
 identity-connection-verified = Biztonságosan kapcsolódik ehhez az oldalhoz.
 identity-ev-owner-label = Tanúsítvány kiállítva ennek:
 identity-description-custom-root = A Mozilla nem ismeri fel ezt a tanúsítványkibocsátót. Lehet, hogy az operációs rendszer vagy egy rendszergazda adta hozzá. <label data-l10n-name="link">További tudnivalók</label>
+identity-description-custom-root2 = A Mozilla nem ismeri fel ezt a tanúsítványkibocsátót. Lehet, hogy az operációs rendszer vagy egy rendszergazda adta hozzá.
 identity-remove-cert-exception =
     .label = Kivétel eltávolítása
     .accesskey = e
