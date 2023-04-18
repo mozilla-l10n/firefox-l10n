@@ -42,6 +42,7 @@ policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
 policy-DisablePrimaryPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
 policy-DisablePasswordReveal = Ne permesi malkaŝi pasvortojn en konservitaj legitimiloj.
 policy-DisablePocket = Malaktivigi la eblon konservi retpaĝojn en Pocket.
+policy-DisablePocket2 = Malaktivigi la eblon konservi retpaĝojn en { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Malaktivigi privatan retumon
 policy-DisableProfileImport = Malaktivigi la menueron por importi datumojn el alia retumilo.
 policy-DisableProfileRefresh = Malaktivigi la butonon "Reŝargi { -brand-short-name }" en la paĝo about:support.
