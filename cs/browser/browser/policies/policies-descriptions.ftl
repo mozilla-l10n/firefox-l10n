@@ -60,6 +60,7 @@ policy-DisableFormHistory = Vypnutí ukládání historie vyhledávání a formu
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
 policy-DisablePasswordReveal = Zakázání možnosti zobrazit hesla ve správci přihlašovacích údajů.
 policy-DisablePocket = Vypnutí funkce pro ukládání stránek do služby Pocket.
+policy-DisablePocket2 = Vypnutí funkce pro ukládání stránek do služby { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
 policy-DisableProfileImport = Blokování importu dat z jiných prohlížečů.
 policy-DisableProfileRefresh =
