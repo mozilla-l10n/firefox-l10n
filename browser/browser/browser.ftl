@@ -220,9 +220,12 @@ identity-description-insecure-login-forms = Dati, ko ievadīsiet šajā lapā na
 identity-description-weak-cipher-intro = Jūsu savienojums ar šo lapu izmanto vāju šifrēšanu un nav privāts.
 identity-description-weak-cipher-risk = Citi cilvēki var aplūkot jūsu informāciju vai modificēt lapas uzvedību.
 identity-description-active-blocked = { -brand-short-name } bloķēja nedrošo saturu šajā lapā. <label data-l10n-name="link">Uzzināt vairāk</label>
+identity-description-active-blocked2 = { -brand-short-name } bloķēja nedrošo saturu šajā lapā.
 identity-description-passive-loaded = Jūsu savienojums ar šo lapu nav drošs, lapai nosūtītā informācija var būt pieejami citiem.
 identity-description-passive-loaded-insecure = Šīs lapas daļas (piemēram attēli) nav drošas. <label data-l10n-name="link">Uzzināt vairāk</label>
 identity-description-passive-loaded-mixed = Lai arī { -brand-short-name } bloķēja nedrošo saturu, lapā joprojām ir saturs, kas nav drošs (piemēram attēli). <label data-l10n-name="link">Uzzināt vairāk</label>
+identity-description-passive-loaded-insecure2 = Šīs lapas daļas (piemēram attēli) nav drošas.
+identity-description-passive-loaded-mixed2 = Lai arī { -brand-short-name } bloķēja nedrošo saturu, lapā joprojām ir saturs, kas nav drošs (piemēram attēli).
 identity-description-active-loaded = Šīs lapas daļas (piemēram attēli vai skripti) nav droši un jūsu savienojums nav privāts.
 identity-description-active-loaded-insecure = Lapai nosūtītā informācija (piemēram paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.
 identity-learn-more =
@@ -312,6 +315,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Aizvērt lasītāja skatu
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -343,6 +351,11 @@ bookmarks-other-bookmarks-menu =
     .label = Citas grāmatzīmes
 bookmarks-mobile-bookmarks-menu =
     .label = Mobilās grāmatzīmes
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -361,6 +374,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Aizvākt grāmatzīmju izvēlni no rīkjoslas
            *[other] Pievienot grāmatzīmju izvēlni rīkjoslai
         }
+
+##
+
 bookmarks-search =
     .label = Meklēt grāmatzīmes
 bookmarks-tools =
@@ -508,4 +524,7 @@ refresh-blocked-allow =
     .accesskey = A
 
 ## Firefox Relay integration
+
+
+## Popup Notification
 
