@@ -44,6 +44,7 @@ policy-DisableFormHistory = לא לזכור היסטוריית חיפוש וטפ
 policy-DisablePrimaryPasswordCreation = אם true, לא ניתן ליצור ססמה ראשית.
 policy-DisablePasswordReveal = לא לאפשר לחשוף ססמאות בכניסות השמורות.
 policy-DisablePocket = השבתת התכונה לשמירת דפי אינטרנט ב־Pocket.
+policy-DisablePocket2 = השבתת התכונה לשמירת דפי אינטרנט ב־{ -pocket-brand-name }.
 policy-DisablePrivateBrowsing = השבתת גלישה פרטית.
 policy-DisableProfileImport = השבתת פקודת התפריט לייבוא נתונים מדפדפן אחר.
 policy-DisableProfileRefresh = השבתת הכפתור 'רענון { -brand-short-name }' בעמוד about:support.
