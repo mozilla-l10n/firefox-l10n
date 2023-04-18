@@ -140,9 +140,12 @@ identity-description-insecure-login-forms = Nawe putxn ta'sxnxii vxitn na ayte m
 identity-description-weak-cipher-intro = Idx ukanxii webte mvxis nawesa's uka'h wehçxaa ũ'sanapa jĩçxapa paçteme.
 identity-description-weak-cipher-risk = Vxite nasa idx vxitnxi's uyya ewutxina meçxa wejx phewuhya na webtewe'sxa's.
 identity-description-active-blocked = { -brand-short-name } na' aphne' maisa paynxite nanxu isa ewmeta. <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
+identity-description-active-blocked2 = { -brand-short-name } na' aphne' maisa paynxite nanxu isa ewmeta.
 identity-description-passive-loaded = Idx çxkitxanxi' paçteme' aça tasxnxisa's katxuhdete ayte vxite uya' ewutxin.
 identity-description-passive-loaded-insecure = Ayte web jip ũsa' napa thakwe selpimena isamanx (nawẽ pisanxi). <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
 identity-description-passive-loaded-mixed = Ma'wẽtepa { -brand-short-name } nanxu aphnxi ũsn mawẽçxapa ji'pn, ma'wẽntepa nenxutana thegnxite ãhmetepa (ma'wẽsa pisanxitepa) <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
+identity-description-passive-loaded-insecure2 = Ayte web jip ũsa' napa thakwe selpimena isamanx (nawẽ pisanxi).
+identity-description-passive-loaded-mixed2 = Ma'wẽtepa { -brand-short-name } nanxu aphnxi ũsn mawẽçxapa ji'pn, ma'wẽntepa nenxutana thegnxite ãhmetepa (ma'wẽsa pisanxitepa)
 identity-description-active-loaded = Ayte ahmea' webte ji'punxi' (nawẽsa scripts) vxite idx çxkitxanxii txãwẽsxi' paçteme nenxuna.
 identity-description-active-loaded-insecure = Ayte ta'sxn katxudenxi vxitetx ya' ta'sxya ewuna (nawẽ vxite paçte fxi'hjnxi, vxite yuwe kahnxisa vxite vxiu ktusehnxinxa'kh, meçxa fxifxisanxakh.).
 identity-learn-more =
@@ -214,6 +217,11 @@ urlbar-result-action-switch-tab = Yu'pthẽn txhudeya'
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -234,6 +242,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Txi'pupnxitxi wejx thegna
 bookmarks-sidebar-content =
     .aria-label = Ki'phwa'ja's
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = Ki'phni kase'k
 bookmarks-toolbar-menu =
@@ -318,6 +334,10 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ´{ -brand-short-name } wa'lne' ayte kaskhewũhnxisa's ktusehyapt petx ũs.
@@ -325,3 +345,9 @@ refresh-blocked-redirect-label = { -brand-short-name } petx ũs kaskhewũsa's tx
 refresh-blocked-allow =
     .label = Ewun
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
