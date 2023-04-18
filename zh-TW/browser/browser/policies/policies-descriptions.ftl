@@ -44,6 +44,7 @@ policy-DisableFormHistory = 不要記住搜尋與表單填寫紀錄。
 policy-DisablePrimaryPasswordCreation = 若為 true，將無法建立主控密碼。
 policy-DisablePasswordReveal = 不允許於儲存的登入資訊畫面中顯示密碼。
 policy-DisablePocket = 停用儲存網頁到 Pocket 的功能。
+policy-DisablePocket2 = 停用儲存網頁到 { -pocket-brand-name } 的功能。
 policy-DisablePrivateBrowsing = 停用隱私瀏覽功能。
 policy-DisableProfileImport = 停用自其他瀏覽器匯入資料的選單功能。
 policy-DisableProfileRefresh = 停用 about:support 頁面中的「重新整理 { -brand-short-name }」按鈕。
