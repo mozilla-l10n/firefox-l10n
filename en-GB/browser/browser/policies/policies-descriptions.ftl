@@ -44,6 +44,7 @@ policy-DisableFormHistory = Don’t remember search and form history.
 policy-DisablePrimaryPasswordCreation = If true, a Primary Password can’t be created.
 policy-DisablePasswordReveal = Do not allow passwords to be revealed in saved logins.
 policy-DisablePocket = Disable the feature to save web pages to Pocket.
+policy-DisablePocket2 = Disable the feature to save web pages to { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disable Private Browsing.
 policy-DisableProfileImport = Disable the menu command to Import data from another browser.
 policy-DisableProfileRefresh = Disable the Refresh { -brand-short-name } button in the about:support page.
