@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Прыпыніць
-    .title = Прыпыніць (Прабел)
-pictureinpicture-play-cmd =
-    .aria-label = Граць
-    .title = Прайграваць (Прабел)
-pictureinpicture-mute-cmd =
-    .aria-label = Заглушыць
-    .title = Адключыць гук ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Уключыць гук
-    .title = Уключыць гук ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Адправіць назад на картку
-    .title = Назад на картку
-pictureinpicture-close-cmd =
-    .aria-label = Закрыць
-    .title = Закрыць ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Субцітры
-    .title = Субцітры
 pictureinpicture-pause-btn =
     .aria-label = Прыпыніць
     .tooltip = Прыпыніць (Прабел)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Увесь экран
-    .title = Поўнаэкранны рэжым (падвойны пстрык)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Выйсці з поўнага экрана
-    .title = Выйсці з поўнаэкраннага рэжыму (падвойны пстрык)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Назад
-    .title = Назад (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Наперад
-    .title = Наперад (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Увесь экран
     .tooltip = Поўнаэкранны рэжым (падвойны пстрык)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Наперад
     .tooltip = Наперад (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Налады субцітраў
 pictureinpicture-subtitles-label = Субцітры
 pictureinpicture-font-size-label = Памер шрыфту
 pictureinpicture-font-size-small = Малы
