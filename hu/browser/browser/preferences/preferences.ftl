@@ -1273,6 +1273,19 @@ preferences-doh-setting-strict =
 preferences-doh-strict-desc = A { -brand-short-name } mindig biztonságos DNS-t fog használni. A rendszer DNS-ének használata előtt egy biztonsági kockázatra figyelmeztetést fog látni.
 preferences-doh-strict-detailed-desc-1 = Csak a kiválasztott szolgáltató használata
 preferences-doh-strict-detailed-desc-2 = Figyelmeztetés mindig, ha a biztonságos DNS nem érhető el
+preferences-doh-strict-detailed-desc-3 = Ha a biztonságos DNS nem érhető el, akkor a helyek nem fognak betöltődni és működni
+preferences-doh-setting-off =
+    .label = Ki
+    .accesskey = K
+preferences-doh-off-desc = Az alapértelmezett DNS-feloldó használata
+preferences-doh-checkbox-warn =
+    .label = Figyelmeztetés, ha egy harmadik fél aktívan megakadályozza a biztonságos DNS használatát
+    .accesskey = F
+preferences-doh-select-resolver = Válasszon szolgáltatót:
+preferences-doh-exceptions-description = A { -brand-short-name } nem fog biztonságos DNS-t használni ezeken a webhelyeken
+preferences-doh-manage-exceptions =
+    .label = Kivételek kezelése…
+    .accesskey = v
 
 ## The following strings are used in the Download section of settings
 
