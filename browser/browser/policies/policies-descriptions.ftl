@@ -44,6 +44,7 @@ policy-DisableFormHistory = Pytansku a formularnu historiju sej njespomjatkować
 policy-DisablePrimaryPasswordCreation = Jeli to trjechi, njeda so hłowne hesło wutworić.
 policy-DisablePasswordReveal = Njedowolić, zo so hesła w składowanych přizjewjenjach pokazuja
 policy-DisablePocket = Funkciju składowanja webstronow do Pocket znjemóžnić.
+policy-DisablePocket2 = Funkciju składowanja webstronow do { -pocket-brand-name } znjemóžnić.
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžnić.
 policy-DisableProfileImport = Menijowy přikaz za importowanje datow z druheho wobhladowaka znjemóžnić.
 policy-DisableProfileRefresh = Tłóčatko { -brand-short-name } wobnowić na stronje about:support znjemóžnić.
