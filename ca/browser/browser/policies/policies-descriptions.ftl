@@ -44,6 +44,7 @@ policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
 policy-DisablePasswordReveal = No permet mostrar les contrasenyes dels inicis de sessió desats.
 policy-DisablePocket = Desactiva la funció de desar llocs web al Pocket.
+policy-DisablePocket2 = Desactiva la funció de desar llocs web al { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Desactiva la navegació privada.
 policy-DisableProfileImport = Desactiva l'ordre de menú «Importa les dades d'un altre navegador».
 policy-DisableProfileRefresh = Desactiva el botó «Restableix el { -brand-short-name } a l'estat inicial» de la pàgina about:support.
