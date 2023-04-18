@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge старой версіі
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Паролі з файла CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Выбраныя
 migration-logins-and-passwords-option-label = Захаваныя лагіны і паролі
 migration-history-option-label = Гісторыя аглядання
 migration-form-autofill-option-label = Звесткі аўтазапаўнення формаў
+migration-passwords-from-file-progress-header = Імпарт файла пароляў
+migration-passwords-from-file-success-header = Паролі паспяхова імпартаваны
+migration-passwords-from-file = Праверка файла на наяўнасць пароляў
+migration-passwords-new = Новыя паролі
+migration-passwords-updated = Наяўныя паролі
+migration-passwords-from-file-picker-title = Імпарт файла пароляў
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
