@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pausar
-    .title = Pausar (barra de espaço)
-pictureinpicture-play-cmd =
-    .aria-label = Reproduzir
-    .title = Reproduzir (barra de espaço)
-pictureinpicture-mute-cmd =
-    .aria-label = Silenciar
-    .title = Silenciar ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Ativar som
-    .title = Ativar som ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Enviar de volta à aba
-    .title = De volta à aba
-pictureinpicture-close-cmd =
-    .aria-label = Fechar
-    .title = Fechar ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Legendas
-    .title = Legendas
 pictureinpicture-pause-btn =
     .aria-label = Pausar
     .tooltip = Pausar (barra de espaço)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Tela inteira
-    .title = Tela inteira (duplo-clique)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Sair de tela inteira
-    .title = Sair de tela inteira (duplo-clique)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Voltar
-    .title = Voltar (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Avançar
-    .title = Avançar (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Tela inteira
     .tooltip = Tela inteira (duplo-clique)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Avançar
     .tooltip = Avançar (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Configurações de legendas
 pictureinpicture-subtitles-label = Subtítulos
 pictureinpicture-font-size-label = Tamanho da fonte
 pictureinpicture-font-size-small = Pequeno
