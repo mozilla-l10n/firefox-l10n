@@ -44,6 +44,7 @@ policy-DisableFormHistory = Gjin syk- en formulierskiednis ûnthâlde.
 policy-DisablePrimaryPasswordCreation = Wannear true, kin gjin haadwachtwurd oanmakke wurde.
 policy-DisablePasswordReveal = Net tastean dat wachtwurden te sjen binne yn bewarre oanmeldingen.
 policy-DisablePocket = De funksje foar it bewarjen fan websiden nei Pocket útskeakelje.
+policy-DisablePocket2 = De funksje foar it bewarjen fan websiden nei { -pocket-brand-name } útskeakelje.
 policy-DisablePrivateBrowsing = Priveenavigaasje útskeakelje.
 policy-DisableProfileImport = De menuopdracht foar it ymportearjen fan gegevens fan in oare browser út útskeakelje.
 policy-DisableProfileRefresh = De knop { -brand-short-name } opfrisse yn de about:support-side útskeakelje.
