@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = 일시 정지
-    .title = 일시 정지 (스페이스바)
-pictureinpicture-play-cmd =
-    .aria-label = 재생
-    .title = 재생 (스페이스바)
-pictureinpicture-mute-cmd =
-    .aria-label = 음소거
-    .title = 음소거 ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = 음소거 해제
-    .title = 음소거 해제 ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = 탭으로 다시 보내기
-    .title = 탭으로 돌아가기
-pictureinpicture-close-cmd =
-    .aria-label = 닫기
-    .title = 닫기 ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = 자막
-    .title = 자막
 pictureinpicture-pause-btn =
     .aria-label = 일시 정지
     .tooltip = 일시 정지 (스페이스바)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = 전체 화면
-    .title = 전체 화면 (더블 클릭)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = 전체 화면 종료
-    .title = 전체 화면 종료 (더블 클릭)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = 뒤로
-    .title = 뒤로 (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = 앞으로
-    .title = 앞으로 (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = 전체 화면
     .tooltip = 전체 화면 (더블 클릭)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = 앞으로
     .tooltip = 앞으로 (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = 자막 설정
 pictureinpicture-subtitles-label = 자막
 pictureinpicture-font-size-label = 글꼴 크기
 pictureinpicture-font-size-small = 작게
