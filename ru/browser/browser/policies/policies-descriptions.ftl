@@ -44,6 +44,7 @@ policy-DisableFormHistory = Отключает запоминание истор
 policy-DisablePrimaryPasswordCreation = Не позволяет устанавливать основной пароль, если установлено значение true.
 policy-DisablePasswordReveal = Не позволяет просматривать пароли у сохранённых логинов.
 policy-DisablePocket = Отключает сохранение страниц в Pocket.
+policy-DisablePocket2 = Отключает сохранение страниц в { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Отключает приватный режим.
 policy-DisableProfileImport = Отключает команду меню для импорта данных из другого браузера.
 policy-DisableProfileRefresh = Отключает кнопку Обновить { -brand-short-name } на странице about:support.
