@@ -406,6 +406,7 @@ identity-connection-not-secure-security-view = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟ
 identity-connection-verified = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱛᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱦᱤᱸ ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱᱟᱢ ᱾
 identity-ev-owner-label = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱫᱚ ᱮᱢ ᱠᱟᱱᱟ :
 identity-description-custom-root = Mozilla ᱫᱚ ᱱᱩᱭ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱛᱮᱭᱟᱨᱤᱡ ᱵᱭ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱮᱭᱟᱭ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱚᱯᱨᱮᱴᱤᱝ ᱥᱭᱥᱴᱚᱢ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱢᱤᱫ ᱥᱟᱥᱚᱱ ᱵᱟᱞᱟ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ <label data-l10n-name="link"> ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ </label>
+identity-description-custom-root2 = Mozilla ᱫᱚ ᱱᱩᱭ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱛᱮᱭᱟᱨᱤᱡ ᱵᱭ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱮᱭᱟᱭ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱚᱯᱨᱮᱴᱤᱝ ᱥᱭᱥᱴᱚᱢ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱢᱤᱫ ᱥᱟᱥᱚᱱ ᱵᱟᱞᱟ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 identity-remove-cert-exception =
     .label = ᱟᱯᱚᱛ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
