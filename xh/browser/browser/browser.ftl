@@ -176,9 +176,12 @@ identity-description-insecure-login-forms = Inkcazelo yelogini oyifakayo kweli p
 identity-description-weak-cipher-intro = Uqhagamshelo kule webhsayithi lusebenzisa ukukhowuda okubuthathaka yaye alukho bucala.
 identity-description-weak-cipher-risk = Abanye abantu banokujonga inkcazelo yakho okanye batshintshe indlela esebenza ngayo iwebhsayithi.
 identity-description-active-blocked = I-{ -brand-short-name } ibhloke iinxalenye zeli phepha ezingakhuselekanga. <label data-l10n-name="link">Funda Ngakumbi</label>
+identity-description-active-blocked2 = I-{ -brand-short-name } ibhloke iinxalenye zeli phepha ezingakhuselekanga.
 identity-description-passive-loaded = Uqhagamshelo lwakho alukho bucala yaye inkcazelo owabelana ngayo nale sayithi inokubonwa ngabanye.
 identity-description-passive-loaded-insecure = Le webhsayithi ineziqulatho ezingakhuselekanga (njengemifanekiso). <label data-l10n-name="link">Funda Ngakumbi</label>
 identity-description-passive-loaded-mixed = Nangona i-{ -brand-short-name } ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso). <label data-l10n-name="link">Funda Ngakumbi</label>
+identity-description-passive-loaded-insecure2 = Le webhsayithi ineziqulatho ezingakhuselekanga (njengemifanekiso).
+identity-description-passive-loaded-mixed2 = Nangona i-{ -brand-short-name } ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso).
 identity-description-active-loaded = Le webhsayithi inesiqulatho esingakhuselekanga (njengezikripti) yaye uqhagamshelo lwakho kuyo alukho bucala.
 identity-description-active-loaded-insecure = Inkcazelo owabelana ngayo nale sayithi inokujongwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).
 identity-learn-more =
@@ -262,6 +265,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Imo Yokufunda Esondeleyo
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -291,6 +299,14 @@ bookmarks-other-bookmarks-menu =
     .label = Ezinye iiBhukmakhi
 bookmarks-mobile-bookmarks-menu =
     .label = IZalathisi eZiphawulayo zeMobhayili
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = Khangela iiBhukhmakhi
 bookmarks-bookmark-edit-panel =
@@ -410,6 +426,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ithintele eli phepha ekukhupheleni ngokuzenzekela.
@@ -417,3 +437,9 @@ refresh-blocked-redirect-label = { -brand-short-name } ithintele eli phepha ekuy
 refresh-blocked-allow =
     .label = Vumela
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
