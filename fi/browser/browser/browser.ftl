@@ -409,6 +409,7 @@ identity-connection-not-secure-security-view = Yhteytesi tähän sivustoon ei ol
 identity-connection-verified = Yhteytesi tähän sivustoon on suojattu.
 identity-ev-owner-label = Varmenne myönnetty taholle:
 identity-description-custom-root = Mozilla ei tunnista tämän varmenteen myöntäjää. Se on voitu lisätä käyttöjärjestelmästä tai järjestelmänvalvojan toimesta. <label data-l10n-name="link">Lue lisää</label>
+identity-description-custom-root2 = Mozilla ei tunnista tämän varmenteen myöntäjää. Se on voitu lisätä käyttöjärjestelmästä tai järjestelmänvalvojan toimesta.
 identity-remove-cert-exception =
     .label = Poista poikkeus
     .accesskey = s
