@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Bu siteye güvenli bir şekilde b
 identity-connection-verified = Bu siteye güvenli bir şekilde bağlandınız.
 identity-ev-owner-label = Sertifika sahibi:
 identity-description-custom-root = Mozilla bu sertifika yayıncısını tanımıyor. İşletim sisteminiz üzerinden veya sistem yöneticiniz tarafından eklenmiş olabilir. <label data-l10n-name="link">Daha fazla bilgi al</label>
+identity-description-custom-root2 = Mozilla bu sertifika yayıncısını tanımıyor. İşletim sisteminiz üzerinden veya sistem yöneticiniz tarafından eklenmiş olabilir.
 identity-remove-cert-exception =
     .label = Ayrıcalığı kaldır
     .accesskey = k
