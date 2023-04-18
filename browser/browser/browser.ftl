@@ -420,6 +420,7 @@ identity-description-active-blocked = { -brand-short-name } on estänyt suojaama
 identity-description-passive-loaded = Yhteytesi verkkosivustoon ei ole yksityinen ja sivullisten on mahdollista tarkastella tietoja, joita lähetät sivustolle.
 identity-description-passive-loaded-insecure = Tällä sivulla on suojaamatonta sisältöä (kuten kuvia). <label data-l10n-name="link">Lue lisää</label>
 identity-description-passive-loaded-mixed = Vaikka { -brand-short-name } on osittain estänyt suojaamattoman sisällön, osa näkyvästä sisällöstä on edelleen suojaamatonta (kuten kuvat). <label data-l10n-name="link">Lue lisää</label>
+identity-description-passive-loaded-insecure2 = Tällä sivulla on suojaamatonta sisältöä (kuten kuvia).
 identity-description-passive-loaded-mixed2 = Vaikka { -brand-short-name } on osittain estänyt suojaamattoman sisällön, osa näkyvästä sisällöstä on edelleen suojaamatonta (kuten kuvat).
 identity-description-active-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjoja) eikä yhteytesi sivustoon ei ole yksityinen.
 identity-description-active-loaded-insecure = Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).
