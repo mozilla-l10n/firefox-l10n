@@ -301,6 +301,7 @@ identity-connection-not-secure-security-view = لست متصلا مع هذا ا�
 identity-connection-verified = أنت متصل مع هذا الموقع بأمان.
 identity-ev-owner-label = أُصدرت الشّهادة إلى:
 identity-description-custom-root = لم تتعرّف Mozilla على مُصْدِر الشهادات هذا. لربّما أضافه نظام التشغيل أو أحد المدراء. <label data-l10n-name="link">اطّلع على المزيد</label>
+identity-description-custom-root2 = لم تتعرّف Mozilla على مُصْدِر الشهادات هذا. لربّما أضافه نظام التشغيل أو أحد المدراء.
 identity-remove-cert-exception =
     .label = أزِل الاستثناء
     .accesskey = س
