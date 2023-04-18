@@ -57,6 +57,13 @@ migration-favorites-option-label = 收藏夹
 migration-logins-and-passwords-option-label = 保存的登录名和密码
 migration-history-option-label = 浏览历史
 migration-form-autofill-option-label = 自动填写表单数据
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV 文档
+       *[other] CSV 文件
+    }
 migration-import-button-label = 导入
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
