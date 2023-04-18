@@ -411,9 +411,12 @@ identity-description-insecure-login-forms = Šiame tinklalapyje jūsų įvesti p
 identity-description-weak-cipher-intro = Jūsų ryšys su šia svetaine naudoja silpną šifravimą ir nėra privatus.
 identity-description-weak-cipher-risk = Pašaliniai asmenys gali matyti jūsų duomenis ar keisti svetainės elgseną.
 identity-description-active-blocked = „{ -brand-short-name }“ užblokavo nesaugias šio tinklalapio dalis. <label data-l10n-name="link">Sužinoti daugiau</label>
+identity-description-active-blocked2 = „{ -brand-short-name }“ užblokavo nesaugias šio tinklalapio dalis.
 identity-description-passive-loaded = Jūsų ryšys nėra privatus, tad šiai svetainei pateikta informacija gali būti peržiūrėta kitų.
 identity-description-passive-loaded-insecure = Šioje svetainėje yra nesaugaus turinio (pvz., paveikslų). <label data-l10n-name="link">Sužinoti daugiau</label>
 identity-description-passive-loaded-mixed = Nors „{ -brand-short-name }“ užblokavo dalį turinio, šiame tinklalapyje vis dar yra nesaugaus turinio (pvz., paveikslų). <label data-l10n-name="link">Sužinoti daugiau</label>
+identity-description-passive-loaded-insecure2 = Šioje svetainėje yra nesaugaus turinio (pvz., paveikslų).
+identity-description-passive-loaded-mixed2 = Nors „{ -brand-short-name }“ užblokavo dalį turinio, šiame tinklalapyje vis dar yra nesaugaus turinio (pvz., paveikslų).
 identity-description-active-loaded = Šioje svetainėje yra nesaugaus turinio (pvz., scenarijų), be to, jūsų ryšys su ja nėra privatus.
 identity-description-active-loaded-insecure = Šiai svetainei pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).
 identity-learn-more =
@@ -663,6 +666,8 @@ reader-view-close-button =
     .aria-label = Išjungti skaitymo rodinį
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
