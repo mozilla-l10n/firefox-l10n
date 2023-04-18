@@ -414,6 +414,7 @@ identity-connection-not-secure-security-view = Nid ydych wedi'ch cysylltu'n ddio
 identity-connection-verified = Rydych wedi eich cysylltu'n ddiogel â'r wefan hon.
 identity-ev-owner-label = Tystysgrif wedi'i ryddhau i:
 identity-description-custom-root = Nid yw Mozilla yn cydnabod y cyhoeddwr tystysgrif hwn. Efallai ei fod wedi'i ychwanegu o'ch system weithredu neu gan weinyddwr. <label data-l10n-name="link">Dysgu Rhagor</label>
+identity-description-custom-root2 = Nid yw Mozilla yn cydnabod y cyhoeddwr tystysgrif hwn. Efallai ei fod wedi'i ychwanegu o'ch system weithredu neu gan weinyddwr.
 identity-remove-cert-exception =
     .label = Tynnu Eithriad
     .accesskey = E
