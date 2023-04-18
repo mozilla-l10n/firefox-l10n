@@ -336,6 +336,7 @@ identity-connection-not-secure-security-view = Ühendus selle saidiga pole turva
 identity-connection-verified = Ühendus selle saidiga on turvaline.
 identity-ev-owner-label = Serdi omanik:
 identity-description-custom-root = Mozilla ei tea seda serdi väljaandjat. Selle võis lisada operatsioonisüsteem või süsteemiadministraator. <label data-l10n-name="link">Rohkem teavet</label>
+identity-description-custom-root2 = Mozilla ei tea seda serdi väljaandjat. Selle võis lisada operatsioonisüsteem või süsteemiadministraator.
 identity-remove-cert-exception =
     .label = Eemalda erand
     .accesskey = E
