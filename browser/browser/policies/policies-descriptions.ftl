@@ -44,6 +44,7 @@ policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 policy-DisablePrimaryPasswordCreation = True olarak ayarlanırsa ana parola oluşturulamaz.
 policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
 policy-DisablePocket = Web sayfalarını Pocket’a kaydetme özelliğini devre dışı bırak.
+policy-DisablePocket2 = Web sayfalarını { -pocket-brand-name }’a kaydetme özelliğini devre dışı bırak.
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
 policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya olanak veren menü komutunu devre dışı bırak.
 policy-DisableProfileRefresh = about:support sayfasındaki “{ -brand-short-name } tarayıcısını yenile” düğmesini devre dışı bırak.
