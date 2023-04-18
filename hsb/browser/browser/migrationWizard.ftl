@@ -57,6 +57,20 @@ migration-favorites-option-label = Fawority
 migration-logins-and-passwords-option-label = Składowane přizjewjenja a hesła
 migration-history-option-label = Přehladowanska historija
 migration-form-autofill-option-label = Daty za awtomatiske wupjelnjenje formularow
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-dokument
+       *[other] CSV-dataja
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokument
+       *[other] TSV-dataja
+    }
 migration-import-button-label = Importować
 migration-cancel-button-label = Přetorhnyć
 migration-done-button-label = Dokónčeny
