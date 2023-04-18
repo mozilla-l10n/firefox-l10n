@@ -42,6 +42,7 @@ policy-DisableFormHistory = Mos mba mend historik kërkimesh dhe plotësimi form
 policy-DisablePrimaryPasswordCreation = Në qoftë <em>true</em>, s’mund të krijohet një Fjalëkalim i Përgjithshëm.
 policy-DisablePasswordReveal = Mos lejo të shfaqen fjalëkalime te kredenciale hyrjesh të ruajtura.
 policy-DisablePocket = Çaktivizoni veçorinë e ruajtjes së faqeve web në Pocket.
+policy-DisablePocket2 = Çaktivizoni veçorinë e ruajtjes së faqeve web në { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Çaktivizoni Shfletimin Privat.
 policy-DisableProfileImport = Çaktivizoni te menuja urdhrin për Importim të dhënash nga një tjetër shfletues.
 policy-DisableProfileRefresh = Çaktivizoni te faqja about:support butonin Rifreskoni { -brand-short-name }-in.
