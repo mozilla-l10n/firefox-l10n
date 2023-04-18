@@ -57,6 +57,20 @@ migration-favorites-option-label = Eftirlæti
 migration-logins-and-passwords-option-label = Vistaðar innskráningar og lykilorð
 migration-history-option-label = Vafurferill
 migration-form-autofill-option-label = Sjálfvirk útfyllingargögn reita
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-skjal
+       *[other] CSV-skrá
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-skjal
+       *[other] TSV-skrá
+    }
 migration-import-button-label = Flytja inn
 migration-cancel-button-label = Hætta við
 migration-done-button-label = Lokið
