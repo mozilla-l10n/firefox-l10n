@@ -44,6 +44,7 @@ policy-DisableFormHistory = Désactiver la conservation de l’historique des re
 policy-DisablePrimaryPasswordCreation = Si la valeur est sur true, la création d’un mot de passe principal est impossible.
 policy-DisablePasswordReveal = Ne pas permettre de révéler les mots de passe dans les identifiants enregistrés.
 policy-DisablePocket = Désactiver la fonctionnalité d’enregistrement de pages web dans Pocket.
+policy-DisablePocket2 = Désactiver la fonctionnalité d’enregistrement de pages web dans { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Désactiver la navigation privée.
 policy-DisableProfileImport = Désactiver la commande de menu permettant d’importer des données à partir d’un autre navigateur.
 policy-DisableProfileRefresh = Désactiver le bouton Réparer { -brand-short-name } dans la page about:support.
