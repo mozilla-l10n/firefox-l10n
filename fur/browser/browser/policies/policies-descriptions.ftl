@@ -44,6 +44,7 @@ policy-DisableFormHistory = No sta visâti lis ricercjis e no stâ creâ la cron
 policy-DisablePrimaryPasswordCreation = Se true (vêr), no si pues creâ une password primarie.
 policy-DisablePasswordReveal = Impedìs di rivelâ lis passwords tes credeziâls salvadis.
 policy-DisablePocket = Disabilite la funzionalitât par salvâ lis pagjinis web su Pocket.
+policy-DisablePocket2 = Disabilite la funzionalitât par salvâ lis pagjinis web su { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disabilite la navigazion privade.
 policy-DisableProfileImport = Disabilite il comant dal menù par impuartâ i dâts di un altri navigadôr.
 policy-DisableProfileRefresh = Disabilite il boton “Ripristine { -brand-short-name }” te pagjine about:support.
