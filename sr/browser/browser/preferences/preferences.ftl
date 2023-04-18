@@ -1327,6 +1327,35 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS преко HTTPS-а
+preferences-doh-description = Систем доменских имена (DNS) преко HTTPS-а шаље ваше захтеве за име домена путем шифроване везе и тако ствара безбедан DNS, што отежава другима да сазнају који сајт желите да отворите.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Статус: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Добављач: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Неважећи URL
+preferences-doh-steering-status = Користи се локални добављач
+preferences-doh-status-active = Активно
+preferences-doh-status-disabled = Искључено
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Није активно ({ $reason })
+preferences-doh-group-message = Омогућите безбедан DNS преко:
+preferences-doh-expand-section =
+    .tooltiptext = Више информација
+preferences-doh-setting-default =
+    .label = Подразумевана заштита
+    .accesskey = П
+preferences-doh-default-desc = { -brand-short-name } одређује када треба користити DNS да би заштитио вашу приватност.
+preferences-doh-default-detailed-desc-1 = Користите безбедан DNS у регијама где је доступан
+preferences-doh-select-resolver = Изаберите добављача:
+preferences-doh-exceptions-description = { -brand-short-name } неће користити безбедни DNS на овим сајтовима
+preferences-doh-manage-exceptions =
+    .label = Управљај изузецима…
+    .accesskey = з
 
 ## The following strings are used in the Download section of settings
 
