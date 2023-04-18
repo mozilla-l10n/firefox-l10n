@@ -219,9 +219,12 @@ identity-description-insecure-login-forms = আপনার দ্বারা �
 identity-description-weak-cipher-intro = এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং ব্যক্তিগত নয়।
 identity-description-weak-cipher-risk = অন্ন কেউ আপনার তথ্য দেখে নিয়ে সেটিকে পরিবরতন করতে পারে।
 identity-description-active-blocked = { -brand-short-name } এই পৃষ্ঠাতে কিছু নিরাপদ নয় উপাদান অবরোধ করেছে। <label data-l10n-name="link">আরও জানুন</label>
+identity-description-active-blocked2 = { -brand-short-name } এই পৃষ্ঠাতে কিছু নিরাপদ নয় উপাদান অবরোধ করেছে।
 identity-description-passive-loaded = আপনার সংযোগ সুরক্ষিত নয় এবনং সেটি অন্য কেউ দেখতে পেতে পারে।
 identity-description-passive-loaded-insecure = এই ওয়েবসাইটে নিরাপদ নয় এমন সামগ্রী রয়েছে (যেমন ছবি)। <label data-l10n-name="link">আরও জানুন</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } যদিও কিছু বিপজ্জনক সামগ্রী প্রতিরোধ করেছে, তাও সেটি পুরপুরি নিরাপদ নয় (যেমন ছবি)। <label data-l10n-name="link">আরও জানুন</label>
+identity-description-passive-loaded-insecure2 = এই ওয়েবসাইটে নিরাপদ নয় এমন সামগ্রী রয়েছে (যেমন ছবি)।
+identity-description-passive-loaded-mixed2 = { -brand-short-name } যদিও কিছু বিপজ্জনক সামগ্রী প্রতিরোধ করেছে, তাও সেটি পুরপুরি নিরাপদ নয় (যেমন ছবি)।
 identity-description-active-loaded = এই ওয়েবসাইট থেকে সংযোগ সম্পূর্ণরূপে নিরাপদ নয় কারণ এটিতে এনক্রিপশনবিহীন উপাদান (যেমন ছবি) উপস্থিত রয়েছে।
 identity-description-active-loaded-insecure = আপনি কি এই সাইটের সাথে তথ্য শেয়ার করলে সবাই দেখতে পারে (পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি)।
 identity-learn-more =
@@ -309,6 +312,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = বন্ধ রিডার দৃশ্য
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -340,6 +348,11 @@ bookmarks-other-bookmarks-menu =
     .label = অন্যান্য বুকমার্ক
 bookmarks-mobile-bookmarks-menu =
     .label = মোবাইলের বুকমার্কগুলি
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -358,6 +371,9 @@ bookmarks-tools-menu-button-visibility =
             [true] বুকমার্ক মেনুকে টুলবার থেকে সরান
            *[other] বুকমার্ক মেনুকে টুলবারে যোগ করুন
         }
+
+##
+
 bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান করুন
 bookmarks-tools =
@@ -492,6 +508,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } দ্বারা এই পেজটিকে স্বয়ংক্রিয়রূপে পুনরায় লোড করতে প্রতিরোধ করা হয়েছে।
@@ -499,3 +519,9 @@ refresh-blocked-redirect-label = { -brand-short-name } দ্বারা এই
 refresh-blocked-allow =
     .label = অনুমোদন করুন
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
