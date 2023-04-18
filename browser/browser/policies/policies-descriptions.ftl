@@ -44,6 +44,7 @@ policy-DisableFormHistory = Älä tallenna haku- ja lomakehistoriaa.
 policy-DisablePrimaryPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
 policy-DisablePasswordReveal = Älä salli salasanojen paljastamista tallennetuissa kirjautumistiedoissa.
 policy-DisablePocket = Poista käytöstä ominaisuus, jolla verkkosivuja voi tallentaa Pocket-palveluun.
+policy-DisablePocket2 = Poista käytöstä ominaisuus, jolla verkkosivuja voi tallentaa { -pocket-brand-name }-palveluun.
 policy-DisablePrivateBrowsing = Poista yksityinen selaus käytöstä.
 policy-DisableProfileImport = Poista käytöstä valikon komento, jolla tiedot voi tuoda toisesta selaimesta.
 policy-DisableProfileRefresh = Poista käytöstä about:support-sivulla oleva Palauta { -brand-short-name } -painike.
