@@ -447,6 +447,7 @@ identity-connection-not-secure-security-view = Spojení s tímto serverem není 
 identity-connection-verified = Spojení s tímto serverem je zabezpečené.
 identity-ev-owner-label = Certifikát vydán pro:
 identity-description-custom-root = Mozilla tohoto vydavatele certifikátů nezná. Mohl být přidán operačním systémem nebo správcem vašeho počítače. <label data-l10n-name="link">Zjistit více</label>
+identity-description-custom-root2 = Mozilla tohoto vydavatele certifikátů nezná. Mohl být přidán operačním systémem nebo správcem vašeho počítače.
 identity-remove-cert-exception =
     .label = Odstranit výjimku
     .accesskey = O
