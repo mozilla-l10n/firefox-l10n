@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge cũ
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Mật khẩu từ tập tin CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Trang ưa thích
 migration-logins-and-passwords-option-label = Thông tin đăng nhập và mật khẩu đã lưu
 migration-history-option-label = Lịch sử duyệt web
 migration-form-autofill-option-label = Dữ liệu tự động điền biểu mẫu
+migration-passwords-from-file-progress-header = Nhập tập tin mật khẩu
+migration-passwords-from-file-success-header = Đã nhập mật khẩu thành công
+migration-passwords-from-file = Kiểm tra tập tin cho mật khẩu
+migration-passwords-new = Mật khẩu mới
+migration-passwords-updated = Mật khẩu hiện có
+migration-passwords-from-file-picker-title = Nhập tập tin mật khẩu
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,21 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Tài liệu TSV
        *[other] Tập tin TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords = Đã thêm { $newEntries }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords = Đã cập nhật { $updatedEntries }
 migration-import-button-label = Nhập
+migration-choose-to-import-from-file-button-label = Nhập từ tập tin
+migration-import-from-file-button-label = Chọn tập tin
 migration-cancel-button-label = Hủy bỏ
 migration-done-button-label = Xong
 migration-wizard-import-browser-no-browsers = { -brand-short-name } không thể tìm thấy bất kỳ chương trình nào chứa dữ liệu dấu trang, lịch sử hoặc mật khẩu.
