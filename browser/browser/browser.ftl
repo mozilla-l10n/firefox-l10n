@@ -477,6 +477,7 @@ identity-description-passive-loaded-mixed =
         [neuter] { -brand-short-name } zablokovalo
        *[other] aplikace { -brand-short-name } zablokovala
     } nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky). <label data-l10n-name="link">Zjistit více</label>
+identity-description-passive-loaded-insecure2 = Tato webová stránka obsahuje obsah, který není zabezpečen (například obrázky).
 identity-description-passive-loaded-mixed2 =
     Ačkoli { -brand-short-name.gender ->
         [masculine] { -brand-short-name } zablokoval
