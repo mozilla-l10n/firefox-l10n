@@ -86,6 +86,7 @@ migration-wizard-progress-icon-completed =
     .aria-label = مکمل تھی ڳیا
 migration-safari-password-import-header = سفاری کنوں پاس ورڈز امپورٹ کرو
 migration-safari-password-import-steps-header = سفاری پاس ورڈز امپورٹ کرݨ کیتے:
+migration-safari-password-import-step1 = Safari وچ ، ”Safari“ مینیو کھولو تے ترجیحاں> پاسورڈز تے ون٘ڄو
 migration-safari-password-import-step3 = پاس ورڈز فائل محفوظ کرو
 migration-safari-password-import-skip-button = چھوڑو
 migration-safari-password-import-select-button = فائل چݨو
