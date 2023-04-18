@@ -297,6 +297,7 @@ identity-connection-not-secure-security-view = Ձեր կապը այս կայքի
 identity-connection-verified = Ձեր կապը այս կայքի հետ ապահով է
 identity-ev-owner-label = Վկայագիրը թողարկուել է՝
 identity-description-custom-root = Mozilla֊ն չի ճանաչում այս վկայագրի թողարկողին։ Այն հնարաւոր է աւելացուել է Ձեր գործաւարական համակարգից կամ վարիչի կողմից։ <label data-l10n-name="link">Իմանալ աւելին</label>
+identity-description-custom-root2 = Mozilla֊ն չի ճանաչում այս վկայագրի թողարկողին։ Այն հնարաւոր է աւելացուել է Ձեր գործաւարական համակարգից կամ վարիչի կողմից։
 identity-remove-cert-exception =
     .label = Հեռացնել բացառութիւնը
     .accesskey = R
