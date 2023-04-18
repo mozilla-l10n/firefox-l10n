@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Din forbindelse til webstedet er 
 identity-connection-verified = Din forbindelse til dette websted er sikker.
 identity-ev-owner-label = Certifikatet er udstedt til:
 identity-description-custom-root = Mozilla kender ikke udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator. <label data-l10n-name="link">Læs mere</label>
+identity-description-custom-root2 = Mozilla kender ikke udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator.
 identity-remove-cert-exception =
     .label = Fjern undtagelser
     .accesskey = F
