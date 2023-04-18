@@ -419,6 +419,7 @@ identity-description-insecure-login-forms = Dane logowania wprowadzone na tej st
 identity-description-weak-cipher-intro = Połączenie z tą witryną nie zapewnia prywatności, ponieważ szyfrowanie nie jest wystarczające.
 identity-description-weak-cipher-risk = Informacje na witrynie mogą być dostępne dla innych, a jej działanie modyfikowane.
 identity-description-active-blocked = { -brand-short-name } zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny. <label data-l10n-name="link">Więcej informacji</label>
+identity-description-active-blocked2 = { -brand-short-name } zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.
 identity-description-passive-loaded = Połączenie z tą witryną nie zapewnia prywatności, a przesyłane informacje mogą być dostępne dla innych.
 identity-description-passive-loaded-insecure = Niektóre elementy tej witryny (np. obrazy) nie były przesłane w sposób bezpieczny. <label data-l10n-name="link">Więcej informacji</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } zablokował niektóre elementy strony, mimo to nie wszystkie pozostałe elementy były przesłane w sposób bezpieczny (np. obrazy). <label data-l10n-name="link">Więcej informacji</label>
