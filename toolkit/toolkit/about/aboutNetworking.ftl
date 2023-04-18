@@ -25,6 +25,7 @@ about-networking-family = Fjölskylda
 about-networking-trr = TRR
 about-networking-addresses = Netföng
 about-networking-expires = Rennur út (Sekúndur)
+about-networking-flags = Viðbótarflögg
 about-networking-messages-sent = Skilaboð send
 about-networking-messages-received = Skilaboð móttekin
 about-networking-bytes-sent = Send bæti

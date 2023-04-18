@@ -29,6 +29,7 @@ about-processes-extension-process = Forritsaukar ({ $pid })
 about-processes-plugin-process = Tengiforrit ({ $pid })
 about-processes-gmp-plugin-process = Gecko Media tengiforrit ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
 about-processes-socket-process = Netkerfi ({ $pid })
 # Unknown process names
 # Variables:
@@ -53,6 +54,8 @@ about-processes-tab-name = Flipi: { $name }
 ## Utility process actor names
 
 about-processes-utility-actor-audio-decoder = Hljóðafkóðari
+# "Oracle" refers to an internal Firefox process and should be kept in English
+about-processes-utility-actor-js-oracle = JavaScript Oracle
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -77,6 +80,8 @@ about-processes-cpu-user-and-kernel-not-ready = (mæli)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
