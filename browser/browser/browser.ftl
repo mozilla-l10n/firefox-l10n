@@ -263,6 +263,7 @@ identity-connection-not-secure-security-view = No yes connectau de traza segura 
 identity-connection-verified = Yes connectau de traza segura a este puesto:
 identity-ev-owner-label = Certificau emitiu a:
 identity-description-custom-root = Mozila no reconoix este emisor de certificaus. Talment te l'haiga anyadiu lo tuyo sistema operativo u bell administrador. <label data-l10n-name="link">Saber-ne mas</label>
+identity-description-custom-root2 = Mozila no reconoix este emisor de certificaus. Talment te l'haiga anyadiu lo tuyo sistema operativo u bell administrador.
 identity-remove-cert-exception =
     .label = Eliminar la excepción
     .accesskey = x
