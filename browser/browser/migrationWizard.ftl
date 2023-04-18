@@ -57,6 +57,12 @@ migration-favorites-option-label = 즐겨찾기
 migration-logins-and-passwords-option-label = 저장된 로그인 및 비밀번호
 migration-history-option-label = 방문 기록
 migration-form-autofill-option-label = 양식 자동 채우기 데이터
+migration-passwords-from-file-progress-header = 비밀번호 파일 가져오기
+migration-passwords-from-file-success-header = 비밀번호를 성공적으로 가져옴
+migration-passwords-from-file = 비밀번호 파일 확인 중
+migration-passwords-new = 새 비밀번호
+migration-passwords-updated = 기존 비밀번호
+migration-passwords-from-file-picker-title = 비밀번호 파일 가져오기
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
