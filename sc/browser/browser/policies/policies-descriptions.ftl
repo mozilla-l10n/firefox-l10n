@@ -42,6 +42,7 @@ policy-DisableFormHistory = Non sarves sa cronologia de chirca e de formulàrios
 policy-DisablePrimaryPasswordCreation = Si est beru, non si podet creare una crae printzipale.
 policy-DisablePasswordReveal = Non permitas chi is craes bèngiant riveladas in is credentziales sarvadas.
 policy-DisablePocket = Disativa sa funtzionalidade pro sarvare pàginas web in Pocket.
+policy-DisablePocket2 = Disativa sa funtzionalidade pro sarvare pàginas web in { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disativa sa navigatzione privada.
 policy-DisableProfileImport = Disativa su cumandu de su menù pro importare datos dae un'àteru navigadore.
 policy-DisableProfileRefresh = Disativa su butone "Agiorna{ -brand-short-name }" in sa pàgina about:support.
