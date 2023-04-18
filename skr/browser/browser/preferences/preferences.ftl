@@ -132,6 +132,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = ایکسٹینشن غیرفعال بݨاؤ
 preferences-data-migration-header = براؤزر ڈیٹا امپورٹ کرو
+preferences-data-migration-description = { -brand-short-name } وچ نشانیاں، پاس ورڈز، تاریخ تے آٹوفل ڈیٹا امپورٹ کرو۔
 preferences-data-migration-button =
     .label = ڈیٹا امپورٹ کرو
     .accesskey = m
