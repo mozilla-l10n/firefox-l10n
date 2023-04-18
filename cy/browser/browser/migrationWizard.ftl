@@ -57,6 +57,20 @@ migration-favorites-option-label = Ffefrynnau
 migration-logins-and-passwords-option-label = Mewngofnodion a chyfrineiriau a gadwyd
 migration-history-option-label = Hanes pori
 migration-form-autofill-option-label = Data awtolenwi ffurflenni
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dogfen CSV
+       *[other] Ffeil CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dogfen TSV
+       *[other] Ffeil TSV
+    }
 migration-import-button-label = Mewnforio
 migration-cancel-button-label = Diddymu
 migration-done-button-label = Gorffen
