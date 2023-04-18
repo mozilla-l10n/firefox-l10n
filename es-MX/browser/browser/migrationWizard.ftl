@@ -56,6 +56,13 @@ migration-bookmarks-option-label = Marcadores
 migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Inicios de sesión y contraseñas guardados
 migration-history-option-label = Historial de navegación
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento CSV
+       *[other] Archivo CSV
+    }
 migration-import-button-label = Importar
 migration-cancel-button-label = Cancelar
 migration-done-button-label = Hecho
