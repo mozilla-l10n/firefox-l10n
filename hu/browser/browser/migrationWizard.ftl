@@ -57,6 +57,20 @@ migration-favorites-option-label = Kedvencek
 migration-logins-and-passwords-option-label = Mentett bejelentkezések és jelszavak
 migration-history-option-label = Böngészési előzmények
 migration-form-autofill-option-label = Adatok automatikus kitöltése
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-dokumentum
+       *[other] CSV-fájl
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokumentum
+       *[other] TSV-fájl
+    }
 migration-import-button-label = Importálás
 migration-cancel-button-label = Mégse
 migration-done-button-label = Kész
