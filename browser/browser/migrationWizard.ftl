@@ -57,6 +57,20 @@ migration-favorites-option-label = Αγαπημένα
 migration-logins-and-passwords-option-label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
 migration-history-option-label = Ιστορικό περιήγησης
 migration-form-autofill-option-label = Δεδομένα αυτόματης συμπλήρωσης φορμών
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Έγγραφο CSV
+       *[other] Αρχείο CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Έγγραφο TSV
+       *[other] Αρχείο TSV
+    }
 migration-import-button-label = Εισαγωγή
 migration-cancel-button-label = Ακύρωση
 migration-done-button-label = Τέλος
