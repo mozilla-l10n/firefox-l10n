@@ -406,6 +406,7 @@ identity-connection-not-secure-security-view = Anda tidak terhubung dengan aman 
 identity-connection-verified = Anda terhubung dengan aman ke situs ini.
 identity-ev-owner-label = Sertifikat diterbitkan untuk:
 identity-description-custom-root = Mozilla tidak mengenali penerbit sertifikat ini. Itu mungkin telah ditambahkan dari sistem operasi Anda atau oleh administrator. <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
+identity-description-custom-root2 = Mozilla tidak mengenali penerbit sertifikat ini. Itu mungkin telah ditambahkan dari sistem operasi Anda atau oleh administrator.
 identity-remove-cert-exception =
     .label = Buang Pengecualian
     .accesskey = B
