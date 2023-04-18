@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Лозинке из CSV датотеке
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Омиљено
 migration-logins-and-passwords-option-label = Сачуване пријаве и лозинке
 migration-history-option-label = Историја прегледања
 migration-form-autofill-option-label = Подаци о аутоматском попуњавању образаца
+migration-passwords-from-file-progress-header = Увези датотеку са лозинкама
+migration-passwords-from-file-success-header = Лозинке су успешно увезене
+migration-passwords-from-file = Датотека се проверава за лозинке
+migration-passwords-new = Нове лозинке
+migration-passwords-updated = Постојеће лозинке
+migration-passwords-from-file-picker-title = Увези датотеку са лозинкама
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title = CSV датотека
@@ -64,6 +71,8 @@ migration-passwords-from-file-csv-filter-title = CSV датотека
 # filter by the operating system. TSV is short for 'tab separated values'.
 migration-passwords-from-file-tsv-filter-title = TSV датотека
 migration-import-button-label = Увези
+migration-choose-to-import-from-file-button-label = Увези из датотеке
+migration-import-from-file-button-label = Изабери датотеку
 migration-cancel-button-label = Откажи
 migration-done-button-label = Готово
 migration-wizard-import-browser-no-browsers = { -brand-short-name } није успео да пронађе програме са подацима о обележивачима, историјом или лозинкама.
