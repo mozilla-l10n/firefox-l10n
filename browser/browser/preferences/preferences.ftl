@@ -1243,6 +1243,11 @@ preferences-doh-resolver = Fournisseur : { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Adresse invalide
+preferences-doh-status-active = actif
+preferences-doh-status-disabled = désactivé
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = inactif ({ $reason })
 preferences-doh-expand-section =
     .tooltiptext = Plus d’informations
 preferences-doh-setting-default =
