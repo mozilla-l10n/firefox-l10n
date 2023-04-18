@@ -52,6 +52,20 @@ migration-bookmarks-option-label = Ticraḍ n isebtar
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Ismenyifen
 migration-history-option-label = Azray n tunigin
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Asemli CSV
+       *[other] Afaylu CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Asemli TSV
+       *[other] Afaylu TSV
+    }
 migration-import-button-label = Kter
 migration-cancel-button-label = Sefsex
 migration-done-button-label = Immed
