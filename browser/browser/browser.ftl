@@ -414,9 +414,12 @@ identity-description-insecure-login-forms = Thông tin đăng nhập mà bạn n
 identity-description-weak-cipher-intro = Kết nối đến trang này sử dụng mã hóa yếu và không bảo mật.
 identity-description-weak-cipher-risk = Người khác có thể thấy thông tin của bạn hoặc thay đổi hành vi của trang.
 identity-description-active-blocked = { -brand-short-name } đã chặn những phần không an toàn của trang này. <label data-l10n-name="link">Tìm hiểu thêm</label>
+identity-description-active-blocked2 = { -brand-short-name } đã chặn những phần không an toàn của trang này.
 identity-description-passive-loaded = Kết nối không được bảo mật và thông tin bạn chia sẻ với trang này có thể bị thấy bởi người khác.
 identity-description-passive-loaded-insecure = Trang web này chứa nội dung không an toàn (ví dụ: ảnh). <label data-l10n-name="link">Tìm hiểu thêm</label>
 identity-description-passive-loaded-mixed = Dù { -brand-short-name } đã chặn một số nội dung, vẫn có những nội dung trên trang không an toàn (ví dụ: ảnh). <label data-l10n-name="link">Tìm hiểu thêm</label>
+identity-description-passive-loaded-insecure2 = Trang web này chứa nội dung không an toàn (ví dụ: ảnh).
+identity-description-passive-loaded-mixed2 = Dù { -brand-short-name } đã chặn một số nội dung, vẫn có những nội dung trên trang không an toàn (ví dụ: ảnh).
 identity-description-active-loaded = Trang web này chứa nội dung không an toàn (ví dụ: các đoạn mã) và kết nối tới nội dung này không bảo mật.
 identity-description-active-loaded-insecure = Thông tin bạn chia sẻ với trang này có thể bị thấy bởi người khác (ví dụ: mật khẩu, tin nhắn, thẻ tín dụng, vâng vâng).
 identity-learn-more =
