@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = Pe marandu tembiapo ñepyrũ pegua e
 identity-description-weak-cipher-intro = Nde jeike ko ñanduti rendápe oipuru ñangarekoha ikangýva ha naiñemíri.
 identity-description-weak-cipher-risk = Ambue tapichakuéra ikatu ohecha nemarandu térã omoambue ñanduti kuatiarogue reko.
 identity-description-active-blocked = { -brand-short-name } ojokóma ko kuatiarogue pehẽ ijerovia’ỹha. <label data-l10n-name="link">Kuaave</label>
+identity-description-active-blocked2 = { -brand-short-name } ojokóma ko kuatiarogue pehẽ ijerovia’ỹha.
 identity-description-passive-loaded = Nde jeike naiñemíri ha nemarandu remoingéva ko tendápe ikatu ohecha ambue tapicha.
 identity-description-passive-loaded-insecure = Ñanduti renda oguereko hetepy ndaijeroviapáiva (mba’era’ãngáramo). <label data-l10n-name="link">Kuaave</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba’era’ãngáramo). <label data-l10n-name="link">Kuaave</label>
+identity-description-passive-loaded-insecure2 = Ñanduti renda oguereko hetepy ndaijeroviapáiva (mba’era’ãngáramo).
+identity-description-passive-loaded-mixed2 = { -brand-short-name } ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba’era’ãngáramo).
 identity-description-active-loaded = Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (guiõramo) ha nde jeike pype naiñemíri.
 identity-description-active-loaded-insecure = Marandu remondóva ko kuatiaroguépe ikatu ohecha ambue tapicha (ñe’ẽñemíramo, ñe’ẽmondo, kuatia’atã ñemurã ha ambue).
 identity-learn-more =
