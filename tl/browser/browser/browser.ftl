@@ -337,6 +337,8 @@ identity-description-active-blocked = { -brand-short-name } Na-block ang mga bah
 identity-description-passive-loaded = Ang iyong koneksyon ay hindi pribado at ang impormasyon na iyong ibinabahagi sa site ay maaaring makita ng iba.
 identity-description-passive-loaded-insecure = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
 identity-description-passive-loaded-mixed = Kahit na { -brand-short-name } Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
+identity-description-passive-loaded-insecure2 = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga larawan).
+identity-description-passive-loaded-mixed2 = Kahit na { -brand-short-name } Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan).
 identity-description-active-loaded = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga script) at ang iyong koneksyon dito ay hindi pribado.
 identity-description-active-loaded-insecure = Ang impormasyon na ibinabahagi mo sa site na ito ay maaaring makita ng iba (tulad ng mga password, mensahe, credit card, atbp.).
 identity-learn-more =
@@ -562,6 +564,8 @@ reader-view-close-button =
     .aria-label = Isara ang Reader View
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
