@@ -44,6 +44,7 @@ policy-DisableFormHistory = No recordar el historial de búsqueda y formularios.
 policy-DisablePrimaryPasswordCreation = De ser verdadero, una contraseña primaria no puede ser creada.
 policy-DisablePasswordReveal = No permitir que las contraseñas sean reveladas en las credenciales guardadas.
 policy-DisablePocket = Deshabilitar la función para guardar páginas web en Pocket.
+policy-DisablePocket2 = Deshabilitar la función para guardar páginas web en { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Deshabilitar navegación privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
 policy-DisableProfileRefresh = Deshabilitar el botón de "Refrescar { -brand-short-name }" en la página about:support.
