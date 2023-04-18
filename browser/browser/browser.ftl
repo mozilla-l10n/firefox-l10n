@@ -414,6 +414,7 @@ identity-description-insecure-login-forms = 이 페이지에 입력한 로그인
 identity-description-weak-cipher-intro = 이 사이트의 연결은 약한 암호화를 사용하며 비공개가 아닙니다.
 identity-description-weak-cipher-risk = 다른 사람이 정보를 보거나 웹 사이트의 동작을 바꿀 수 있습니다.
 identity-description-active-blocked = { -brand-short-name }가 안전하지 않은 페이지의 일부분을 차단했습니다. <label data-l10n-name="link">더 알아보기</label>
+identity-description-active-blocked2 = { -brand-short-name }가 안전하지 않은 페이지의 일부분을 차단했습니다.
 identity-description-passive-loaded = 이 사이트의 연결은 비공개가 아니므로 사용자가 공유하는 정보를 다른 사람들이 볼 수 있습니다.
 identity-description-passive-loaded-insecure = 이 웹 사이트는 안전하지 않은 콘텐츠(이미지 등)을 포함하고 있습니다. <label data-l10n-name="link">더 알아보기</label>
 identity-description-passive-loaded-mixed = { -brand-short-name }가 일부 콘텐츠를 차단했지만 아직 안전하지 않은 콘텐츠(이미지 등)가 있습니다. <label data-l10n-name="link">더 알아보기</label>
