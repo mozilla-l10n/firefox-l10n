@@ -289,9 +289,12 @@ identity-description-insecure-login-forms = Bu sahifada kiritiladigan login ma�
 identity-description-weak-cipher-intro = Ushbu vebsahifaga ulanish kuchsiz kodlash usulidan foydalanadi, shuning uchun u maxfiy emas.
 identity-description-weak-cipher-risk = Boshqa odamlar ma’lumotlaringizni ko‘rishi yoki sayt xususiyatlarini o‘zgartirishi mumkin.
 identity-description-active-blocked = { -brand-short-name } ushbu sahifaning xavfli bo‘lgan qismlarini blokladi. <label data-l10n-name="link">Batafsil ma’lumot</label>
+identity-description-active-blocked2 = { -brand-short-name } ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.
 identity-description-passive-loaded = Bu ulanish maxfiy emas, shu sababli siz sayt bilan bo‘lishgan ma’lumotlarni boshqalar ko‘rishi mumkin.
 identity-description-passive-loaded-insecure = Ushbu saytda xavfsiz bo‘lmagan kontent mavjud (masalan, rasmlar). <label data-l10n-name="link">Batafsil ma’lumot</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } ba’zi tarkibni blokladi, ammo sahifada hali ham xavfli tarkiblar (masalan, rasmlar) bor. <label data-l10n-name="link">Batafsil ma’lumot</label>
+identity-description-passive-loaded-insecure2 = Ushbu saytda xavfsiz bo‘lmagan kontent mavjud (masalan, rasmlar).
+identity-description-passive-loaded-mixed2 = { -brand-short-name } ba’zi tarkibni blokladi, ammo sahifada hali ham xavfli tarkiblar (masalan, rasmlar) bor.
 identity-description-active-loaded = Ushbu saytda xavfli tarkib mavjud (masalan, skriptlar), shuning uchun ulanish maxfiy emas.
 identity-description-active-loaded-insecure = Bu sayt bilan bo‘lishgan ma’lumotlaringizni (masalan, parol, xabar, kredit kartalarini) boshqalar ko‘rishi mumkin.
 identity-learn-more =
@@ -430,6 +433,8 @@ reader-view-close-button =
     .aria-label = O‘qish ko‘rinishini yopish
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
