@@ -1228,6 +1228,10 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
 
+## DoH Section
+
+preferences-doh-header = DNS тавассути HTTPS
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Мизи корӣ
