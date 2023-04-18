@@ -1231,6 +1231,21 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Älä käytä ”Vain HTTPS”-tilaa
 
+## DoH Section
+
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Tila: { $status }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Virheellinen osoite
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Ei aktiivinen ({ $reason })
+preferences-doh-manage-exceptions =
+    .label = Hallitse poikkeuksia…
+    .accesskey = H
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Työpöytä
