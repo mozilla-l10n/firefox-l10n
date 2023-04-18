@@ -230,9 +230,12 @@ identity-description-insecure-login-forms = આ પૃષ્ઠ પર તમે
 identity-description-weak-cipher-intro = આ વેબસાઇટ સાથેનું તમારું કનેક્શન નબળા એન્ક્રિપ્શન ઉપયોગ કરે છે અને ખાનગી નથી.
 identity-description-weak-cipher-risk = અન્ય લોકો તમારી માહિતી જોઈ શકો છો અથવા વેબસાઇટની વર્તન સુધારો કરી શકો છો.
 identity-description-active-blocked = { -brand-short-name } એ આ પૃષ્ઠના ભાગોને અવરોધિત કર્યા છે જે સુરક્ષિત નથી. <label data-l10n-name="link">વધુ શીખો</label>
+identity-description-active-blocked2 = { -brand-short-name } એ આ પૃષ્ઠના ભાગોને અવરોધિત કર્યા છે જે સુરક્ષિત નથી.
 identity-description-passive-loaded = તમારું કનેક્શન ખાનગી નથી અને સાઇટ સાથે તમે શેર કરેલી માહિતી અન્ય લોકો દ્વારા જોઈ શકાશે.
 identity-description-passive-loaded-insecure = આ વેબસાઇટમાં એવી સામગ્રી શામેલ છે જે સુરક્ષિત નથી (જેમ કે છબીઓ). <label data-l10n-name="link">વધુ શીખો</label>
 identity-description-passive-loaded-mixed = જોકે { -brand-short-name } કેટલીક સામગ્રીને અવરોધિત કરી છે, ત્યાં હજુ પણ તે પૃષ્ઠ પરની સામગ્રી છે જે સુરક્ષિત નથી (જેમ કે છબીઓ). <label data-l10n-name="link">વધુ શીખો</label>
+identity-description-passive-loaded-insecure2 = આ વેબસાઇટમાં એવી સામગ્રી શામેલ છે જે સુરક્ષિત નથી (જેમ કે છબીઓ).
+identity-description-passive-loaded-mixed2 = જોકે { -brand-short-name } કેટલીક સામગ્રીને અવરોધિત કરી છે, ત્યાં હજુ પણ તે પૃષ્ઠ પરની સામગ્રી છે જે સુરક્ષિત નથી (જેમ કે છબીઓ).
 identity-description-active-loaded = આ વેબસાઇટમાં એવી સામગ્રી શામેલ છે જે સુરક્ષિત નથી (જેમ કે સ્ક્રિપ્ટ્સ) અને તેનાથી તમારું કનેક્શન ખાનગી નથી.
 identity-description-active-loaded-insecure = તમે આ સાઇટ સાથે જે માહિતીનો ઉપયોગ કરો છો તે અન્ય લોકો દ્વારા જોઈ શકાય છે (જેમ કે પાસવર્ડ્સ, સંદેશા, ક્રેડિટ કાર્ડ વગેરે.).
 identity-learn-more =
@@ -320,6 +323,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = રીડર દૃશ્ય બંધ કરો
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -351,6 +359,11 @@ bookmarks-other-bookmarks-menu =
     .label = અન્ય બુકમાર્ક્સ
 bookmarks-mobile-bookmarks-menu =
     .label = મોબાઇલ બુકમાર્ક્સ
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -369,6 +382,9 @@ bookmarks-tools-menu-button-visibility =
             [true] ટૂલબારમાંથી બુકમાર્ક મેનુને દૂર કરો
            *[other] ટૂલબારમાં બુકમાર્ક્સ મેનૂ ઉમેરો
         }
+
+##
+
 bookmarks-search =
     .label = બુકમાર્ક્સ શોધો
 bookmarks-tools =
@@ -506,6 +522,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } એ આ પાનાંને આપોઆપ પુનઃલાવવાથી અટકાવેલ છે.
@@ -513,3 +533,9 @@ refresh-blocked-redirect-label = { -brand-short-name } એ આ પાનાં�
 refresh-blocked-allow =
     .label = પરવાનગી આપો
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
