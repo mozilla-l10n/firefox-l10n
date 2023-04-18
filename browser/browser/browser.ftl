@@ -420,9 +420,12 @@ identity-description-insecure-login-forms = Podatki, ki jih vnesete ob prijavi n
 identity-description-weak-cipher-intro = Vaša povezava s tem spletnim mestom uporablja šibko šifriranje in ni zasebna.
 identity-description-weak-cipher-risk = Druge osebe lahko vidijo vaše podatke ali spreminjajo obnašanje spletnega mesta.
 identity-description-active-blocked = { -brand-short-name } je zavrnil dele strani, ki niso varni. <label data-l10n-name="link">Več o tem</label>
+identity-description-active-blocked2 = { -brand-short-name } je zavrnil dele strani, ki niso varni.
 identity-description-passive-loaded = Vaša povezava ni zasebna, zato lahko podatke, ki jih delite s stranjo, vidijo tudi druge osebe.
 identity-description-passive-loaded-insecure = Spletna stran vsebuje elemente, ki niso varni (npr. slike). <label data-l10n-name="link">Več o tem</label>
 identity-description-passive-loaded-mixed = Čeprav je { -brand-short-name } zavrnil dele vsebine, nekateri drugi deli še vedno niso varni (npr. slike). <label data-l10n-name="link">Več o tem</label>
+identity-description-passive-loaded-insecure2 = Spletna stran vsebuje elemente, ki niso varni (npr. slike).
+identity-description-passive-loaded-mixed2 = Čeprav je { -brand-short-name } zavrnil dele vsebine, nekateri drugi deli še vedno niso varni (npr. slike).
 identity-description-active-loaded = Spletna stran vsebuje elemente, ki niso varni (npr. skripti) in vaša povezava nanjo ni zasebna.
 identity-description-active-loaded-insecure = Podatke, ki jih delite s to stranjo, si lahko ogledajo druge osebe (npr. gesla, sporočila in kreditne kartice).
 identity-learn-more =
