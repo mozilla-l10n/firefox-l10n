@@ -1243,22 +1243,42 @@ preferences-doh-resolver = Fournisseur : { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Adresse invalide
+preferences-doh-steering-status = Utiliser un fournisseur local
 preferences-doh-status-active = actif
 preferences-doh-status-disabled = désactivé
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = inactif ({ $reason })
+preferences-doh-group-message = Activer le DNS sécurisé avec :
 preferences-doh-expand-section =
     .tooltiptext = Plus d’informations
 preferences-doh-setting-default =
     .label = Protection par défaut
     .accesskey = P
+preferences-doh-default-desc = { -brand-short-name } décide quand utiliser le DNS sécurisé pour protéger votre vie privée.
+preferences-doh-default-detailed-desc-1 = Utiliser le DNS sécurisé dans les régions où il est disponible
+preferences-doh-default-detailed-desc-2 = Utiliser votre serveur DNS par défaut s’il y a un problème avec le fournisseur du DNS sécurisé
+preferences-doh-default-detailed-desc-3 = Utiliser un fournisseur local, si possible
+preferences-doh-default-detailed-desc-4 = Désactiver lorsqu’un VPN, un contrôle parental ou des stratégies d’entreprise sont actifs
+preferences-doh-default-detailed-desc-5 = Désactiver lorsqu’un réseau indique à { -brand-short-name } de ne pas utiliser de DNS sécurisé
 preferences-doh-setting-enabled =
     .label = Protection renforcée
     .accesskey = r
+preferences-doh-enabled-desc = Vous contrôlez le recours au DNS sécurisé et choisissez votre fournisseur.
+preferences-doh-enabled-detailed-desc-1 = Utiliser le fournisseur que vous avez sélectionné
+preferences-doh-enabled-detailed-desc-2 = Utiliser votre serveur DNS par défaut uniquement s’il y a un problème avec le DNS sécurisé
 preferences-doh-setting-strict =
     .label = Protection maximale
     .accesskey = m
+preferences-doh-strict-detailed-desc-1 = Utiliser uniquement le fournisseur que vous avez sélectionné
+preferences-doh-strict-detailed-desc-2 = Toujours prévenir si le DNS sécurisé n’est pas disponible
+preferences-doh-strict-detailed-desc-3 = Si le DNS sécurisé n’est pas disponible, les sites ne se chargeront pas ou ne fonctionneront pas correctement
+preferences-doh-setting-off =
+    .label = Désactivé
+    .accesskey = D
+preferences-doh-off-desc = Utiliser le serveur de résolution DNS par défaut
+preferences-doh-select-resolver = Choisir le fournisseur :
+preferences-doh-exceptions-description = { -brand-short-name } n’utilisera pas le DNS sécurisé sur ces sites
 preferences-doh-manage-exceptions =
     .label = Gérer les exceptions…
     .accesskey = x
