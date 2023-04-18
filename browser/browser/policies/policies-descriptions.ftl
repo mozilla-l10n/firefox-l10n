@@ -44,6 +44,7 @@ policy-DisableFormHistory = Ez gogoratu bilaketa- eta inprimaki-historia.
 policy-DisablePrimaryPasswordCreation = Ezarrita badago, ezingo da pasahitz nagusia sortu.
 policy-DisablePasswordReveal = Ez baimendu gordetako saio-hasieretan pasahitzak agerraraztea.
 policy-DisablePocket = Desgaitu webguneak Pocket zerbitzura gordetzeko eginbidea.
+policy-DisablePocket2 = Desgaitu webguneak { -pocket-brand-name } zerbitzura gordetzeko eginbidea.
 policy-DisablePrivateBrowsing = Desgaitu nabigatze pribatua.
 policy-DisableProfileImport = Desgaitu beste nabigatzaile batetik datuak inportatzeko menu-komandoa.
 policy-DisableProfileRefresh = Desgaitu 'Biziberritu { -brand-short-name }' botoia about:support orrian.
