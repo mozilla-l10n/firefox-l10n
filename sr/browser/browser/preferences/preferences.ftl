@@ -1343,14 +1343,23 @@ preferences-doh-status-disabled = Искључено
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Није активно ({ $reason })
-preferences-doh-group-message = Омогућите безбедан DNS преко:
+preferences-doh-group-message = Омогућите безбедни DNS преко:
 preferences-doh-expand-section =
     .tooltiptext = Више информација
 preferences-doh-setting-default =
     .label = Подразумевана заштита
     .accesskey = П
 preferences-doh-default-desc = { -brand-short-name } одређује када треба користити DNS да би заштитио вашу приватност.
-preferences-doh-default-detailed-desc-1 = Користите безбедан DNS у регијама где је доступан
+preferences-doh-default-detailed-desc-1 = Користите безбедни DNS у регијама где је доступан
+preferences-doh-default-detailed-desc-3 = Користите локалног добављача ако је могуће
+preferences-doh-setting-enabled =
+    .label = Појачана заштита
+    .accesskey = о
+preferences-doh-enabled-desc = Ви одлучујете када треба користити безбедни DNS и сами бирате добављача.
+preferences-doh-enabled-detailed-desc-1 = Користите провајдера по свом избору
+preferences-doh-setting-strict =
+    .label = Максимална заштита
+    .accesskey = М
 preferences-doh-select-resolver = Изаберите добављача:
 preferences-doh-exceptions-description = { -brand-short-name } неће користити безбедни DNS на овим сајтовима
 preferences-doh-manage-exceptions =
