@@ -57,6 +57,20 @@ migration-favorites-option-label = 즐겨찾기
 migration-logins-and-passwords-option-label = 저장된 로그인 및 비밀번호
 migration-history-option-label = 방문 기록
 migration-form-autofill-option-label = 양식 자동 채우기 데이터
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV 문서
+       *[other] CSV 파일
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV 문서
+       *[other] TSV 파일
+    }
 migration-import-button-label = 가져오기
 migration-cancel-button-label = 취소
 migration-done-button-label = 완료
