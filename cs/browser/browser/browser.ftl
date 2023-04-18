@@ -461,6 +461,13 @@ identity-description-active-blocked =
         [neuter] { -brand-short-name } zablokovalo
        *[other] Aplikace { -brand-short-name } zablokovala
     } nezabezpečené části této stránky. <label data-l10n-name="link">Zjistit více</label>
+identity-description-active-blocked2 =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval
+        [feminine] { -brand-short-name } zablokovala
+        [neuter] { -brand-short-name } zablokovalo
+       *[other] Aplikace { -brand-short-name } zablokovala
+    } nezabezpečené části této stránky.
 identity-description-passive-loaded = Vaše připojení není soukromé a informace, které sdílíte s tímto serverem, mohou být viděny ostatními.
 identity-description-passive-loaded-insecure = Tato webová stránka obsahuje obsah, který není zabezpečen (například obrázky). <label data-l10n-name="link">Zjistit více</label>
 identity-description-passive-loaded-mixed =
@@ -470,6 +477,13 @@ identity-description-passive-loaded-mixed =
         [neuter] { -brand-short-name } zablokovalo
        *[other] aplikace { -brand-short-name } zablokovala
     } nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky). <label data-l10n-name="link">Zjistit více</label>
+identity-description-passive-loaded-mixed2 =
+    Ačkoli { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval
+        [feminine] { -brand-short-name } zablokovala
+        [neuter] { -brand-short-name } zablokovalo
+       *[other] aplikace { -brand-short-name } zablokovala
+    } nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky).
 identity-description-active-loaded = Tato webová stránka obsahuje obsah, který není zabezpečen (například skripty), a připojení k tomuto serveru tak není soukromé.
 identity-description-active-loaded-insecure = Informace, které sdílíte s tímto serverem (jako hesla, zprávy, číslo platební karty, atd.), mohou být viděny ostatními.
 identity-learn-more =
@@ -719,6 +733,8 @@ reader-view-close-button =
     .aria-label = Zavřít zobrazení čtečky
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
