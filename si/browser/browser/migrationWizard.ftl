@@ -51,6 +51,20 @@ migration-bookmarks-option-label = පොත්යොමු
 migration-favorites-option-label = ප්‍රියතමයන්
 migration-logins-and-passwords-option-label = සුරැකි පිවිසුම් සහ මුරපද
 migration-history-option-label = පිරික්සුම් ඉතිහාසය
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV ලේඛනය
+       *[other] CSV ගොනුව
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV ලේඛනය
+       *[other] TSV ගොනුව
+    }
 migration-import-button-label = ආයාතය
 migration-cancel-button-label = අවලංගු
 migration-done-button-label = අහවරයි
