@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = De aanmeldingsgegevens die u op deze
 identity-description-weak-cipher-intro = Uw verbinding met deze website gebruikt zwakke versleuteling en is niet privé.
 identity-description-weak-cipher-risk = Andere personen kunnen uw gegevens bekijken of het gedrag van de website aanpassen.
 identity-description-active-blocked = { -brand-short-name } heeft onderdelen van deze pagina die niet beveiligd zijn geblokkeerd. <label data-l10n-name="link">Meer info</label>
+identity-description-active-blocked2 = { -brand-short-name } heeft onderdelen van deze pagina die niet beveiligd zijn geblokkeerd.
 identity-description-passive-loaded = Uw verbinding is niet privé en gegevens die u met de website deelt zouden door anderen kunnen worden bekeken.
 identity-description-passive-loaded-insecure = Deze website bevat inhoud die niet beveiligd is (zoals afbeeldingen). <label data-l10n-name="link">Meer info</label>
 identity-description-passive-loaded-mixed = Hoewel { -brand-short-name } bepaalde inhoud heeft geblokkeerd, staat er nog steeds inhoud op de pagina die niet beveiligd is (zoals afbeeldingen). <label data-l10n-name="link">Meer info</label>
+identity-description-passive-loaded-insecure2 = Deze website bevat inhoud die niet beveiligd is (zoals afbeeldingen).
+identity-description-passive-loaded-mixed2 = Hoewel { -brand-short-name } bepaalde inhoud heeft geblokkeerd, staat er nog steeds inhoud op de pagina die niet beveiligd is (zoals afbeeldingen).
 identity-description-active-loaded = Deze website bevat inhoud die niet is beveiligd (zoals scripts) en uw verbinding ermee is niet privé.
 identity-description-active-loaded-insecure = Gegevens die u met deze website deelt, zouden door anderen kunnen worden bekeken (zoals wachtwoorden, berichten, creditcardgegevens, etc.).
 identity-learn-more =
