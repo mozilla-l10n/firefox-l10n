@@ -305,9 +305,12 @@ identity-description-insecure-login-forms = The login information ye inpit on th
 identity-description-weak-cipher-intro = Yer connection tae this wabsite isnae private and yaises stintit encryption.
 identity-description-weak-cipher-risk = Ither fowk can see yer information or chynge the wabsite's behaviour.
 identity-description-active-blocked = { -brand-short-name } has blockit pairts o this page that arenae siccar. <label data-l10n-name="link">Lairn Mair</label>
+identity-description-active-blocked2 = { -brand-short-name } has blockit pairts o this page that arenae siccar.
 identity-description-passive-loaded = Yer connection isnae private and information ye share wi the site micht be seen by ithers.
 identity-description-passive-loaded-insecure = This wabsite haud content that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
 identity-description-passive-loaded-mixed = Although { -brand-short-name } has blockit some content, there is aye content on the page that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
+identity-description-passive-loaded-insecure2 = This wabsite haud content that isnae siccar (sic as images).
+identity-description-passive-loaded-mixed2 = Although { -brand-short-name } has blockit some content, there is aye content on the page that isnae siccar (sic as images).
 identity-description-active-loaded = This wabsite hauds content that isnae siccar (sic as scripts) and yer connection tae it isnae private.
 identity-description-active-loaded-insecure = Information ye share wi this site micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
 identity-learn-more =
@@ -542,6 +545,8 @@ reader-view-close-button =
     .aria-label = Sneck Reader View
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
