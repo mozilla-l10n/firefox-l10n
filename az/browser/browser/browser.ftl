@@ -235,10 +235,12 @@ identity-description-insecure-login-forms = Bu səhifədə yazdığınız daxil 
 identity-description-weak-cipher-intro = Bu səhifəyə olan bağlantınız zəif şifrləmə istifadə edir və məxfi deyil.
 identity-description-weak-cipher-risk = Başqaları sizin məlumatlarınızı görə və ya saytın davranışını səyişdirə bilər.
 identity-description-active-blocked = { -brand-short-name } bu səhifənin təhlükəsiz olmayan hissələrini əngəllədi. <label data-l10n-name="link">Ətraflı Öyrən</label>
+identity-description-active-blocked2 = { -brand-short-name } bu səhifənin təhlükəsiz olmayan hissələrini əngəllədi.
 identity-description-passive-loaded = Bağlantınız məxfi deyil və sayt ilə paylaşdığınız məlumatlar başqaları tərəfindən görülə bilər.
 identity-description-passive-loaded-insecure = Saytda güvənilir olmayan məzmun var (şəkillər kimi). <label data-l10n-name="link">Ətraflı Öyrən</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } bəzi məzmunları əngəlləsə də bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var. <label data-l10n-name="link">Ətraflı Öyrən</label>
 identity-description-passive-loaded-insecure2 = Saytda güvənilir olmayan məzmun var (şəkillər kimi).
+identity-description-passive-loaded-mixed2 = { -brand-short-name } bəzi məzmunları əngəlləsə də bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var.
 identity-description-active-loaded = Bu saytda təhlükəsiz olmayan məzmunlar (kriptlər kimi) var və saytla bağlantınız məxfi deyil.
 identity-description-active-loaded-insecure = Bu saytla paylaşdığınız məlumatlar (məs. parollar, mesajlar, kredit kartları kimi) başqaları tərəfindən görülə bilər.
 identity-learn-more =
