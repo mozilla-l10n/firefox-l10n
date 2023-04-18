@@ -38,6 +38,7 @@ policy-DisableFormHistory = Չհիշել որոնումները պատմությ
 policy-DisablePrimaryPasswordCreation = Եթե ճիշտ է՝ Հիմնական գաղտնաբառը հնարավոր չէ ստեղծել:
 policy-DisablePasswordReveal = Թույլ մի տվեք, որ գաղտնաբառերը բացահայտվեն պահված մուտքերում։
 policy-DisablePocket = Վեբ կայքերը Pocket-ում պահպանելու համար անջատեք գործառույթը։
+policy-DisablePocket2 = Վեբ կայքերը { -pocket-brand-name }-ում պահպանելու համար անջատեք գործառույթը։
 policy-DisablePrivateBrowsing = Անջատել անհատական զննումը։
 policy-DisableProfileImport = Անջատել ցանկային հրամանը այլ զննարկչից տվյալներ ներածելու համար։
 policy-DisableProfileRefresh = Անջատել թարմացումը { -brand-short-name } կոճակով about:support բաժնում։
