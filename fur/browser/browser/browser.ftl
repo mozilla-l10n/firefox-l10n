@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = La conession cun chest sît no je
 identity-connection-verified = La conession cun chest sît e je sigure.
 identity-ev-owner-label = Certificât dât fûr a:
 identity-description-custom-root = Mozilla nol ricognòs il sogjet che al à dât fûr chest certificât. Il sisteme operatîf o un aministradôr lu podarès vê zontât. <label data-l10n-name="link">Par savê di plui</label>
+identity-description-custom-root2 = Mozilla nol ricognòs il sogjet che al à dât fûr chest certificât. Il sisteme operatîf o un aministradôr lu podarès vê zontât.
 identity-remove-cert-exception =
     .label = Gjave ecezion
     .accesskey = G
