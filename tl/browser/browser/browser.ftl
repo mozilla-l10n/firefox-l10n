@@ -334,6 +334,7 @@ identity-description-insecure-login-forms = Ang impormasyon sa pag-login na ipin
 identity-description-weak-cipher-intro = Ang iyong koneksyon sa website na ito ay gumagamit ng mahina na pag-encrypt at hindi pribado.
 identity-description-weak-cipher-risk = Maaaring tingnan ng iba pang mga tao ang iyong impormasyon o baguhin ang pag-uugali ng website.
 identity-description-active-blocked = { -brand-short-name } Na-block ang mga bahagi ng pahinang ito na hindi ligtas. <label data-l10n-name="link">Matuto ng higit pa</label>
+identity-description-active-blocked2 = { -brand-short-name } Na-block ang mga bahagi ng pahinang ito na hindi ligtas.
 identity-description-passive-loaded = Ang iyong koneksyon ay hindi pribado at ang impormasyon na iyong ibinabahagi sa site ay maaaring makita ng iba.
 identity-description-passive-loaded-insecure = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
 identity-description-passive-loaded-mixed = Kahit na { -brand-short-name } Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
