@@ -421,6 +421,7 @@ identity-description-active-blocked = { -brand-short-name } bloqueó las partes 
 identity-description-passive-loaded = La conexión no es privada y la información que se comparta con el sitio puede ser vista por otros.
 identity-description-passive-loaded-insecure = Este sitio incluye contenido que no es seguro (como las imágenes). <label data-l10n-name="link">Conocer más</label>
 identity-description-passive-loaded-mixed = Aunque { -brand-short-name } bloqueó algún contenido, todavía hay contenido en la página que no es seguro (tal como las imágenes). <label data-l10n-name="link">Conocer más</label>
+identity-description-passive-loaded-insecure2 = Este sitio incluye contenido que no es seguro (como las imágenes).
 identity-description-active-loaded = Este sitio incluye contenido que no es seguro (como scripts) y la conexión no es privada.
 identity-description-active-loaded-insecure = La información compartida con este sitio puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
 identity-learn-more =
