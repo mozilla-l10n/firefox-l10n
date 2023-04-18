@@ -44,6 +44,7 @@ policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulár
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
 policy-DisablePasswordReveal = Zablokuje zobrazovanie hesiel v správcovi prihlasovacích údajov.
 policy-DisablePocket = Vypne funkciu pre ukladanie stránok do služby Pocket.
+policy-DisablePocket2 = Vypne funkciu pre ukladanie stránok do služby { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie.
 policy-DisableProfileImport = Zablokuje možnosť importu údajov z iných prehliadačov.
 policy-DisableProfileRefresh = Zablokuje tlačidlo pre obnovenie prehliadača { -brand-short-name } do pôvodných nastavení na stránke about:support.
