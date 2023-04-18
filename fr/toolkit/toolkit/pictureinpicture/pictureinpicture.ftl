@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pause
-    .title = Pause (barre d’espace)
-pictureinpicture-play-cmd =
-    .aria-label = Lecture
-    .title = Lecture (barre d’espace)
-pictureinpicture-mute-cmd =
-    .aria-label = Couper le son
-    .title = Couper le son ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Réactiver le son
-    .title = Réactiver le son ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Renvoyer dans l’onglet
-    .title = Retour dans l’onglet
-pictureinpicture-close-cmd =
-    .aria-label = Fermer
-    .title = Fermer ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Sous-titres
-    .title = Sous-titres
 pictureinpicture-pause-btn =
     .aria-label = Pause
     .tooltip = Pause (barre d’espace)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Plein écran
-    .title = Plein écran (double-clic)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Quitter le mode plein écran
-    .title = Quitter le mode plein écran (double-clic)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Retour en arrière
-    .title = Retour en arrière (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Avancer
-    .title = Avancer (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Plein écran
     .tooltip = Plein écran (double-clic)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Avancer
     .tooltip = Avancer (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Paramètres des sous-titres
 pictureinpicture-subtitles-label = Sous-titres
 pictureinpicture-font-size-label = Taille de police
 pictureinpicture-font-size-small = Petite
