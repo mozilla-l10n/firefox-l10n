@@ -220,6 +220,7 @@ permissions-site-speaker-window =
 permissions-exceptions-doh-window =
     .title = HTTPS  تے DNS کیتے ویب سائٹ مستثنیات
     .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = انہاں سائٹاں تے انہاں دیاں ذیلی ڈومیناں تے { -brand-short-name } محفوظ DNS کائناں ورتیسی
 permissions-doh-entry-field = ویب سائٹ ڈومین ناں درج کرو
     .accesskey = d
 permissions-doh-add-exception =
