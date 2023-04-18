@@ -38,6 +38,7 @@ policy-DisableFormHistory = Nemoj pamtiti povijest pretraživanja i obrazaca.
 policy-DisablePrimaryPasswordCreation = Ukoliko je točno, neće biti moguće postaviti primarnu lozinku.
 policy-DisablePasswordReveal = Nemoj dozvoliti prikaz spremljenih lozinki.
 policy-DisablePocket = Onemogući mogućnost spremanja web stranica u Pocket.
+policy-DisablePocket2 = Onemogući mogućnost spremanja web stranica u { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Onemogući privatno pregledavanje.
 policy-DisableProfileImport = Onemogućite naredbu izbornika za uvoz podatka iz drugog preglednika.
 policy-DisableProfileRefresh = Onemogućite tipku za osvježavanje { -brand-short-name } na about:support stranici.
