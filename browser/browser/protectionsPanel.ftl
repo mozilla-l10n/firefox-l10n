@@ -13,8 +13,8 @@ protections-popup-footer-protection-label-strict = Строга
     .label = Строга
 protections-popup-footer-protection-label-custom = Прилагођена
     .label = Прилагођена
-protections-popup-footer-protection-label-standard = Стандардно
-    .label = Стандардно
+protections-popup-footer-protection-label-standard = Стандардна
+    .label = Стандардна
 
 ##
 
@@ -76,6 +76,7 @@ protections-panel-site-not-working-view-issue-list-forms = Обрасци
 protections-panel-site-not-working-view-issue-list-payments = Плаћања
 protections-panel-site-not-working-view-issue-list-comments = Коментари
 protections-panel-site-not-working-view-issue-list-videos = Видео записи
+protections-panel-site-not-working-view-issue-list-fonts = Фонтови
 protections-panel-site-not-working-view-send-report = Пошаљите извештај
 
 ##

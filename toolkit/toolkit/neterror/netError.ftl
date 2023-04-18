@@ -27,6 +27,7 @@ neterror-try-again-button = Пoкушај поново
 neterror-add-exception-button = Увек настави на овај сајт
 neterror-settings-button = Промени DNS подешавања
 neterror-view-certificate-link = Прикажи сертификат
+neterror-trr-continue-this-time = Настави овај пут
 neterror-disable-native-feedback-warning = Увек настави
 
 ##
@@ -55,12 +56,13 @@ neterror-dns-not-found-hint-firewall = Проверите да ли { -brand-sho
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } не може да обезбеди ваш захтев за адресу овог сајта помоћу нашег поузданог DNS разрешивача. Јер:
-neterror-dns-not-found-trr-only-attackers = Ако наставите, трећа страна може да види које сајтове посећујете или да вас преусмери на непоуздани сајт.
 neterror-dns-not-found-trr-third-party-warning = Можете да наставите са DNS разрешивачем који није безбедан. Међутим, могуће је да трећа страна види које сајтове посећујете.
+neterror-dns-not-found-trr-third-party-warning2 = Можете да наставите са подразумеваним DNS разрешивачем. Међутим, могуће је да трећа страна види које сајтове посећујете.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } није могао да се повеже на { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Повезивање са { $trrDomain } трајало је дуже него очекивано.
 neterror-dns-not-found-trr-offline = Нисте повезани на интернет.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } није могао да пронађе адресу овог сајта.
+neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } није могао да пронађе овај сајт.
 neterror-dns-not-found-trr-server-problem = Дошло је до проблема са { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Неочекивани проблем.
 
@@ -69,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Неочекивани пробле
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не може да обезбеди ваш захтев за адресу овог сајта помоћу нашег поузданог DNS разрешивача. Јер:
-neterror-dns-not-found-native-fallback-attackers = Можете да наставите са DNS разрешивачем који није безбедан. Међутим, могуће је да трећа страна види које сајтове посећујете или да вас пошаље на непоуздани сајт.
 neterror-dns-not-found-native-fallback-heuristic = DNS преко HTTP-а је онемогућен на вашој мрежи.
-neterror-dns-not-found-native-fallback-not-confirmed = Веза са { $trrDomain } још није спремна.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } није могао да се повеже на { $trrDomain }.
 
 ##
