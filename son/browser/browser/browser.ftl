@@ -175,9 +175,12 @@ identity-description-insecure-login-forms = War huruyan šilbaa kaŋ war g'a dam
 identity-description-weak-cipher-intro = War dobuyanoo moɲoo woo tuguyan dabaroo ga yalaafu nd'a ši sutura.
 identity-description-weak-cipher-risk = Boro taney ga hin ka dii war alhabarey wal'i ma nungoo aladaboo barmay.
 identity-description-active-blocked = { -brand-short-name } na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay. <label data-l10n-name="link">Bay ka tonton</label>
+identity-description-active-blocked2 = { -brand-short-name } na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.
 identity-description-passive-loaded = War dobuyano ši sutura nda boro taney ga hin ka dii alhabarey kaŋ war n'i žemna nda nungoo.
 identity-description-passive-loaded-insecure = Nungoo goo nda gundekuna kaŋ manti saajante (sanda biiyaŋ). <label data-l10n-name="link">Bay ka tonton</label>
 identity-description-passive-loaded-mixed = Baa kaŋ { -brand-short-name } ga gundekuna jere gagay, gundekuna cindi moɲoo ga kaŋ manti saajante (sanda biiyaŋ). <label data-l10n-name="link">Bay ka tonton</label>
+identity-description-passive-loaded-insecure2 = Nungoo goo nda gundekuna kaŋ manti saajante (sanda biiyaŋ).
+identity-description-passive-loaded-mixed2 = Baa kaŋ { -brand-short-name } ga gundekuna jere gagay, gundekuna cindi moɲoo ga kaŋ manti saajante (sanda biiyaŋ).
 identity-description-active-loaded = Nungoo woo goo nda gundekuna kaŋ manti saajante (sanda šigira dumiyaŋ) nda dobuyanoo ši sutura.
 identity-description-active-loaded-insecure = Boro taney ga hin ka dii alhabar kaŋ war g'a žemna nda nungoo woo (sanda šennikufal, tooonandiyan, garaw katta, nda tana).
 identity-learn-more =
@@ -261,6 +264,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Cawkaw gunari daabu
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -290,6 +298,14 @@ bookmarks-other-bookmarks-menu =
     .label = Doo-šilbay taaney
 bookmarks-mobile-bookmarks-menu =
     .label = Doo-šilbay dirantey
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = Doo-šilbawey ceeci
 bookmarks-bookmark-edit-panel =
@@ -409,6 +425,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } na moɲoo woo ganji a ma zunbu taaga nga boŋ se.
@@ -416,3 +436,9 @@ refresh-blocked-redirect-label = { -brand-short-name } na moɲoo woo ganji a ma 
 refresh-blocked-allow =
     .label = Noo fondo
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
