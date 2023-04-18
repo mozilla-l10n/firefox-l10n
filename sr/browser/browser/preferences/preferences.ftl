@@ -155,6 +155,11 @@ startup-restore-warn-on-quit =
     .label = Упозори ме при изласку из прегледача
 disable-extension =
     .label = Онемогући додатак
+preferences-data-migration-header = Увези податке прегледача
+preferences-data-migration-description = Увези обележиваче, лозинке, историју и податке о аутоматском попуњавању образаца у { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Увези податке
+    .accesskey = в
 tabs-group-header = Картице
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab пролази кроз картице према редоследу коришћења
@@ -795,6 +800,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Тренутно синхронизујете следеће ставке:
+sync-syncing-across-devices-heading = Ове ставке синхронизујете на свим повезаним уређајима:
 sync-currently-syncing-bookmarks = Обележивачи
 sync-currently-syncing-history = Историја
 sync-currently-syncing-tabs = Отворене картице
@@ -823,6 +829,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = С
     .buttonlabelextra2 = Прекини везу…
     .buttonaccesskeyextra2 = П
+sync-choose-dialog-subtitle = Промене на листи ставки за синхронизацију биће примењене за све повезане уређаје.
 sync-engine-bookmarks =
     .label = Обележивачи
     .accesskey = б
@@ -1189,6 +1196,11 @@ permissions-microphone = Микрофон
 permissions-microphone-settings =
     .label = Подешавања…
     .accesskey = П
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Одабир звучника
+permissions-speaker-settings =
+    .label = Подешавања…
+    .accesskey = д
 permissions-notification = Обавештења
 permissions-notification-settings =
     .label = Подешавања…
@@ -1311,6 +1323,10 @@ httpsonly-radio-enabled-pbm =
     .label = Омогући само у приватним прозорима
 httpsonly-radio-disabled =
     .label = Онемогући
+
+## DoH Section
+
+preferences-doh-header = DNS преко HTTPS-а
 
 ## The following strings are used in the Download section of settings
 
