@@ -1248,6 +1248,26 @@ preferences-doh-steering-status = Käytetään paikallista palveluntarjoajaa
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ei aktiivinen ({ $reason })
+preferences-doh-setting-default =
+    .label = Oletussuojaus
+    .accesskey = O
+preferences-doh-setting-enabled =
+    .label = Lisätty suojaus
+    .accesskey = i
+preferences-doh-enabled-detailed-desc-1 = Käytä valitsemaani palveluntarjoajaa
+preferences-doh-enabled-detailed-desc-2 = Käytä oletusarvoista DNS-selvittäjää vain, jos suojatussa DNS:ssä on ongelma
+preferences-doh-setting-strict =
+    .label = Täysi suojaus
+    .accesskey = ä
+preferences-doh-strict-detailed-desc-1 = Käytä vain valitsemaani palveluntarjoajaa
+preferences-doh-strict-detailed-desc-2 = Varoita aina, jos suojattu DNS ei ole käytettävissä
+preferences-doh-strict-detailed-desc-3 = Jos suojattu DNS ei ole käytettävissä, sivustot eivät lataudu tai toimi oikein
+preferences-doh-off-desc = Käytä oletusarvoista DNS-selvittäjää
+preferences-doh-checkbox-warn =
+    .label = Varoita, jos kolmas osapuoli aktiivisesti estää suojatun DNS:n
+    .accesskey = V
+preferences-doh-select-resolver = Valitse palveluntarjoaja:
+preferences-doh-exceptions-description = { -brand-short-name } ei käytä suojattua DNS:ää näillä sivustoilla
 preferences-doh-manage-exceptions =
     .label = Hallitse poikkeuksia…
     .accesskey = H
