@@ -411,6 +411,7 @@ identity-connection-not-secure-security-view = Вы не злучаны бясп
 identity-connection-verified = Вы бяспечна злучаны з гэтым сайтам.
 identity-ev-owner-label = Сертыфікат выдадзены:
 identity-description-custom-root = Mozilla не прызнае гэтага выдаўца сертыфікатаў. Магчыма, ён дададзены з вашай аперацыйнай сістэмы ці адміністратарам. <label data-l10n-name="link">Даведацца больш</label>
+identity-description-custom-root2 = Mozilla не прызнае гэтага выдаўца сертыфікатаў. Магчыма, ён дададзены з вашай аперацыйнай сістэмы ці адміністратарам.
 identity-remove-cert-exception =
     .label = Выдаліць выключэнне
     .accesskey = В
