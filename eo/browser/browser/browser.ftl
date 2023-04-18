@@ -664,9 +664,9 @@ reader-view-close-button =
     .aria-label = Fermi legilan vidon
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Ŝalti/malŝalti inkrustitan videon
 
 ## Full Screen and Pointer Lock UI
 
