@@ -411,6 +411,7 @@ identity-connection-not-secure-security-view = Pripojenie k tejto stránke nie j
 identity-connection-verified = Pripojenie k tejto stránke je zabezpečené.
 identity-ev-owner-label = Certifikát bol vydaný pre:
 identity-description-custom-root = Mozilla tohto vydavateľa certifikátov nepozná. Mohol byť pridaný operačným systémom alebo správcom vášho počítača. <label data-l10n-name="link">Ďalšie informácie</label>
+identity-description-custom-root2 = Mozilla tohto vydavateľa certifikátov nepozná. Mohol byť pridaný operačným systémom alebo správcom vášho počítača.
 identity-remove-cert-exception =
     .label = Odstrániť výnimku
     .accesskey = d
