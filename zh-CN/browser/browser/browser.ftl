@@ -414,9 +414,12 @@ identity-description-insecure-login-forms = 在此页面输入您的登录信息
 identity-description-weak-cipher-intro = 您与此网站的连接使用了较弱的加密，并不私密。
 identity-description-weak-cipher-risk = 其他人可能查看您的信息或修改该网站的行为。
 identity-description-active-blocked = { -brand-short-name } 已拦截此页面上不安全的内容。 <label data-l10n-name="link">详细了解</label>
+identity-description-active-blocked2 = { -brand-short-name } 已拦截此页面上不安全的内容。
 identity-description-passive-loaded = 您的连接并不私密，您提供给此网站的信息可能会被其他人看到。
 identity-description-passive-loaded-insecure = 此网站包含不安全的内容（例如图像）。 <label data-l10n-name="link">详细了解</label>
 identity-description-passive-loaded-mixed = 尽管 { -brand-short-name } 已拦截部分内容，但页面上仍有内容不安全（例如图像）。 <label data-l10n-name="link">详细了解</label>
+identity-description-passive-loaded-insecure2 = 此网站包含不安全的内容（例如图像）。
+identity-description-passive-loaded-mixed2 = 尽管 { -brand-short-name } 已拦截部分内容，但页面上仍有内容不安全（例如图像）。
 identity-description-active-loaded = 此网站包含的内容不安全（例如脚本），并且您至它的连接非私密。
 identity-description-active-loaded-insecure = 您提供给此网站的信息（例如密码、聊天消息、信用卡等）可能会被其他人看到。
 identity-learn-more =
