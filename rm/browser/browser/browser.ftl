@@ -664,9 +664,9 @@ reader-view-close-button =
     .aria-label = Serrar la vista da lectura
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Activar/deactivar maletg-en-maletg
 
 ## Full Screen and Pointer Lock UI
 
