@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = Të dhënat e hyrjes që dhatë në 
 identity-description-weak-cipher-intro = Lidhja juaj te ky sajt përdor fshehtëzim të dobët dhe s'është private.
 identity-description-weak-cipher-risk = Të tjerët mund të shohin të dhënat tuaja ose të ndryshojnë sjelljen e sajtit.
 identity-description-active-blocked = { -brand-short-name }-i ka bllokuar pjesë të kësaj faqeje që s'janë të sigurta. <label data-l10n-name="link">Mësoni Më Tepër</label>
+identity-description-active-blocked2 = { -brand-short-name }-i ka bllokuar pjesë të kësaj faqeje që s'janë të sigurta.
 identity-description-passive-loaded = Lidhja juaj s'është private dhe të dhënat që ndani me të tjerët në këtë saj mund të shihen nga të tjerë.
 identity-description-passive-loaded-insecure = Ky sajt përmban lëndë që s'është e sigurt (fjala vjen, figura). <label data-l10n-name="link">Mësoni Më Tepër</label>
 identity-description-passive-loaded-mixed = Edhe pse { -brand-short-name }-i ka bllokuar një pjesë të lëndës, në këtë faqe prapë ka lëndë që s'është e sigurt (fjala vjen, figura). <label data-l10n-name="link">Mësoni Më Tepër</label>
+identity-description-passive-loaded-insecure2 = Ky sajt përmban lëndë që s'është e sigurt (fjala vjen, figura).
+identity-description-passive-loaded-mixed2 = Edhe pse { -brand-short-name }-i ka bllokuar një pjesë të lëndës, në këtë faqe prapë ka lëndë që s'është e sigurt (fjala vjen, figura).
 identity-description-active-loaded = Ky sajt përmban lëndë që s'është e sigurt (fjala vjen, programthe) dhe lidhja juaj me të s'është private.
 identity-description-active-loaded-insecure = Të dhënat që ndani me këtë sajt mund të shihen nga të tjerë (fjala vjen, fjalëkalime, mesazhe, karta krediti, etj.).
 identity-learn-more =
@@ -664,9 +667,9 @@ reader-view-close-button =
     .aria-label = Mbylle Pamjen Lexues
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Hapni/Mbyllni “Picture-in-Picture”
 
 ## Full Screen and Pointer Lock UI
 
