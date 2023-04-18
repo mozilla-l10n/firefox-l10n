@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = Orri honetan sartzen duzun saio-hasi
 identity-description-weak-cipher-intro = Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.
 identity-description-weak-cipher-risk = Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.
 identity-description-active-blocked = { -brand-short-name }(e)k seguruak ez diren orri honetako atalak blokeatu ditu. <label data-l10n-name="link">Argibide gehiago</label>
+identity-description-active-blocked2 = { -brand-short-name }(e)k seguruak ez diren orri honetako atalak blokeatu ditu.
 identity-description-passive-loaded = Zure konexioa ez da pribatua eta gunearekin partekatzen duzun informazioa besteek ikus lezakete.
 identity-description-passive-loaded-insecure = Webgune honek segurua ez den edukia du (adib. irudiak). <label data-l10n-name="link">Argibide gehiago</label>
 identity-description-passive-loaded-mixed = { -brand-short-name }(e)k zenbait eduki blokeatu arren, oraindik ere segurua ez den edukia du orriak (adib. irudiak). <label data-l10n-name="link">Argibide gehiago</label>
+identity-description-passive-loaded-insecure2 = Webgune honek segurua ez den edukia du (adib. irudiak).
+identity-description-passive-loaded-mixed2 = { -brand-short-name }(e)k zenbait eduki blokeatu arren, oraindik ere segurua ez den edukia du orriak (adib. irudiak).
 identity-description-active-loaded = Wegune honek segurua ez den edukia dauka (adibidez script-ak) eta zure konexioa ez da pribatua.
 identity-description-active-loaded-insecure = Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).
 identity-learn-more =
