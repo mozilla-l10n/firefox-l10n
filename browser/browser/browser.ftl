@@ -364,6 +364,7 @@ identity-connection-not-secure-security-view = Chan eil ceangal tèarainte agad 
 identity-connection-verified = Tha ceangal tèarainte agad ris an làrach seo.
 identity-ev-owner-label = Chaidh an teisteanas fhoillseachadh dha:
 identity-description-custom-root = Chan aithnich Mozilla foillsichear an teisteanais seo. Dh’fhaoidte gun do chuir an siostam-obrachaidh agad ris e no ’s dòcha rianaire. <label data-l10n-name="link">Barrachd fiosrachaidh</label>
+identity-description-custom-root2 = Chan aithnich Mozilla foillsichear an teisteanais seo. Dh’fhaoidte gun do chuir an siostam-obrachaidh agad ris e no ’s dòcha rianaire.
 identity-remove-cert-exception =
     .label = Thoir an eisgeachd  air falbh
     .accesskey = r
