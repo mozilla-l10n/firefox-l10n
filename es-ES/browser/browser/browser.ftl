@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = La información de inicio de sesión
 identity-description-weak-cipher-intro = Su conexión a este sitio web usa cifrado débil y no es privada.
 identity-description-weak-cipher-risk = Otras personas pueden ver su información o modificar el comportamiento del sitio web.
 identity-description-active-blocked = { -brand-short-name } ha bloqueado partes de esta página que no son seguras. <label data-l10n-name="link">Saber más</label>
+identity-description-active-blocked2 = { -brand-short-name } ha bloqueado partes de esta página que no son seguras.
 identity-description-passive-loaded = Su conexión no es privada y la información que comparta con el sitio podría ser vista por otros.
 identity-description-passive-loaded-insecure = Este sitio web contiene contenido que no es seguro (como imágenes). <label data-l10n-name="link">Saber más</label>
 identity-description-passive-loaded-mixed = Aunque { -brand-short-name } ha bloqueado cierto contenido, aún hay contenido en la página que no es seguro (como imágenes). <label data-l10n-name="link">Saber más</label>
+identity-description-passive-loaded-insecure2 = Este sitio web contiene contenido que no es seguro (como imágenes).
+identity-description-passive-loaded-mixed2 = Aunque { -brand-short-name } ha bloqueado cierto contenido, aún hay contenido en la página que no es seguro (como imágenes).
 identity-description-active-loaded = Este sitio web contiene contenido que no es seguro (tal como scripts) y su conexión no es privada.
 identity-description-active-loaded-insecure = La información que comparta con este sitio podría ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
 identity-learn-more =
