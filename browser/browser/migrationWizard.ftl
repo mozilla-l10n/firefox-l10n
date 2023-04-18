@@ -57,6 +57,20 @@ migration-favorites-option-label = Favoritter
 migration-logins-and-passwords-option-label = Gemte logins og adgangskoder
 migration-history-option-label = Browserhistorik
 migration-form-autofill-option-label = Data til autofyldning af formularer
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-fil
+       *[other] CSV-fil
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokument
+       *[other] TSV-fil
+    }
 migration-import-button-label = Importer
 migration-cancel-button-label = Annuller
 migration-done-button-label = Færdig
