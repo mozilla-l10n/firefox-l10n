@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pauzeren
-    .title = Pauzeren (spatiebalk)
-pictureinpicture-play-cmd =
-    .aria-label = Afspelen
-    .title = Afspelen (spatiebalk)
-pictureinpicture-mute-cmd =
-    .aria-label = Dempen
-    .title = Dempen ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Dempen opheffen
-    .title = Dempen opheffen ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Terugsturen naar tabblad
-    .title = Terug naar tabblad
-pictureinpicture-close-cmd =
-    .aria-label = Sluiten
-    .title = Sluiten ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Ondertitels
-    .title = Ondertitels
 pictureinpicture-pause-btn =
     .aria-label = Pauzeren
     .tooltip = Pauzeren (spatiebalk)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Volledig scherm
-    .title = Volledig scherm (dubbelklik)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Volledig scherm verlaten
-    .title = Volledig scherm verlaten (dubbelklik)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Terug
-    .title = Terug (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Vooruit
-    .title = Vooruit (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Volledig scherm
     .tooltip = Volledig scherm (dubbelklik)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Vooruit
     .tooltip = Vooruit (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Ondertitelingsinstellingen
 pictureinpicture-subtitles-label = Ondertitels
 pictureinpicture-font-size-label = Lettergrootte
 pictureinpicture-font-size-small = Klein
