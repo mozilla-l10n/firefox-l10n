@@ -172,9 +172,12 @@ identity-description-insecure-login-forms = Die aanmeldinligting wat u op hierdi
 identity-description-weak-cipher-intro = U verbinding aan dié werf gebruik swak enkripsie en is nie privaat nie.
 identity-description-weak-cipher-risk = Ander mense kan u inligting sien of die webwerf se gedrag verander.
 identity-description-active-blocked = { -brand-short-name } het dele van dié blad geblok wat nie beveilig is nie. <label data-l10n-name="link">Meer inligting</label>
+identity-description-active-blocked2 = { -brand-short-name } het dele van dié blad geblok wat nie beveilig is nie.
 identity-description-passive-loaded = U verbinding is nie privaat nie en inligting wat met die werf gedeel word kan deur ander gesien word.
 identity-description-passive-loaded-insecure = Dié webwerf bevat inhoud wat nie beveilig is nie (soos prente). <label data-l10n-name="link">Meer inligting</label>
 identity-description-passive-loaded-mixed = Alhoewel { -brand-short-name } sommige inhoud geblok het, is daar steeds inhoud op die bladsy wat nie beveilig is nie (soos prente). <label data-l10n-name="link">Meer inligting</label>
+identity-description-passive-loaded-insecure2 = Dié webwerf bevat inhoud wat nie beveilig is nie (soos prente).
+identity-description-passive-loaded-mixed2 = Alhoewel { -brand-short-name } sommige inhoud geblok het, is daar steeds inhoud op die bladsy wat nie beveilig is nie (soos prente).
 identity-description-active-loaded = Dié webwerf bevat inhoud wat nie beveilig is nie (soos skripte) en u verbinding daaraan is nie privaat nie.
 identity-description-active-loaded-insecure = Inligting wat gedeel word met die werf kan deur ander gesien word (bv. wagwoorde, boodskappe, kredietkaartnommers, ens.).
 identity-learn-more =
@@ -256,6 +259,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Sluit leesaansig
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -283,6 +291,14 @@ bookmarks-sidebar-content =
     .aria-label = Boekmerke
 bookmarks-other-bookmarks-menu =
     .label = Ander boekmerke
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = Deursoek boekmerke
 bookmarks-bookmark-edit-panel =
@@ -400,6 +416,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } het hierdie bladsy verhoed om outomaties te herlaai.
@@ -407,3 +427,9 @@ refresh-blocked-redirect-label = { -brand-short-name } het hierdie bladsy verhoe
 refresh-blocked-allow =
     .label = Laat toe
     .accesskey = L
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
