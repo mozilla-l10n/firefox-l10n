@@ -57,6 +57,20 @@ migration-favorites-option-label = من بھان٘دے
 migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
 migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV دستاویز
+       *[other] CSV فائل
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV دستاویز
+       *[other] TSV فائل
+    }
 migration-import-button-label = درآمد کرو
 migration-cancel-button-label = منسوخ
 migration-done-button-label = تھی ڳیا
