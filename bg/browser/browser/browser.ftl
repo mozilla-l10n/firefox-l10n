@@ -418,10 +418,12 @@ identity-description-insecure-login-forms = Данните за регистра
 identity-description-weak-cipher-intro = Връзката с тази страница използва слабо шифроване и не е поверителна.
 identity-description-weak-cipher-risk = Други хора могат да виждат ваша информация и да променят поведението на уебсайта.
 identity-description-active-blocked = { -brand-short-name } блокира части от страницата, които не са шифрирани. <label data-l10n-name="link">Научете повече</label>
+identity-description-active-blocked2 = { -brand-short-name } блокира части от страницата, които не са шифрирани.
 identity-description-passive-loaded = Връзката не е поверителна и споделяната информация със сайта може да бъде видяна от други.
 identity-description-passive-loaded-insecure = Страницата има нешифровано съдържание, като например изображения. <label data-l10n-name="link">Научете повече</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } блокира част от съдържанието, но все още има съдържание, което не е шифрирано, като например изображения. <label data-l10n-name="link">Научете повече</label>
 identity-description-passive-loaded-insecure2 = Страницата има нешифровано съдържание, като например изображения.
+identity-description-passive-loaded-mixed2 = { -brand-short-name } блокира част от съдържанието, но все още има съдържание, което не е шифрирано, като например изображения.
 identity-description-active-loaded = Страницата има съдържание, например скриптове, което не е шифровано, и връзката със сайта не е поверителна.
 identity-description-active-loaded-insecure = Споделяната със сайта информация, като например пароли, съобщения, банкови карти и др., може да бъде виждана от други.
 identity-learn-more =
