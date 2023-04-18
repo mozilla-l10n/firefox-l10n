@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (ancian versiones)
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Contrasignos ab file CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Salvate credentiales e contrasignos
 migration-history-option-label = Chronologia de navigation
 migration-form-autofill-option-label = Completion automatic datos de formularios
+migration-passwords-from-file-progress-header = Importar file de contrasignos
+migration-passwords-from-file-success-header = File de contrasignos importate con successo
+migration-passwords-from-file = Verificar file pro contrasignos
+migration-passwords-new = Nove contrasignos
+migration-passwords-updated = Contrasignos existente
+migration-passwords-from-file-picker-title = Importar file de contrasignos
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] File TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } addite
+       *[other] { $newEntries } addite
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } actualisate
+       *[other] { $updatedEntries } actualisate
+    }
 migration-import-button-label = Importar
+migration-choose-to-import-from-file-button-label = Importar ab file
+migration-import-from-file-button-label = Eliger file
 migration-cancel-button-label = Cancellar
 migration-done-button-label = Facite
 migration-wizard-import-browser-no-browsers = { -brand-short-name } non pote trovar ulle programmas que contine datos de marcapagina, chronologia o contrasigno.

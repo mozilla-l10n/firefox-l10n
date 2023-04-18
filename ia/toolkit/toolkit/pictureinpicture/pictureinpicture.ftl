@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pausar
-    .title = Pausar (Barra de spatio)
-pictureinpicture-play-cmd =
-    .aria-label = Reproducer
-    .title = Reproducer (Barra de spatio)
-pictureinpicture-mute-cmd =
-    .aria-label = Silentiar
-    .title = Silentiar ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Reactivar audio
-    .title = Reactivar audio ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Inviar retro al scheda
-    .title = Retro al scheda
-pictureinpicture-close-cmd =
-    .aria-label = Clauder
-    .title = Clauder ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Subtitulos
-    .title = Subtitulos
 pictureinpicture-pause-btn =
     .aria-label = Pausar
     .tooltip = Pausar (Barra de spatio)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Plen schermo
-    .title = Plen schermo (duple-clic)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Exir del plen schermo
-    .title = Exir del plen schermo (duple-clic)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Retro
-    .title = Retro (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Avante
-    .title = Avante (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Plen schermo
     .tooltip = Plen schermo (duple-clic)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Avante
     .tooltip = Avante (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Parametros de subtitulos
 pictureinpicture-subtitles-label = Subtitulos
 pictureinpicture-font-size-label = Dimension del litteras
 pictureinpicture-font-size-small = Micre
