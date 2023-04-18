@@ -44,6 +44,7 @@ policy-DisableFormHistory = Іздеу және формалар тарихын 
 policy-DisablePrimaryPasswordCreation = Мәні true болса, басты парольді орнату мүмкін болмайды.
 policy-DisablePasswordReveal = Сақталған логиндерде парольдердің ашылуына жол бермеу.
 policy-DisablePocket = Веб-парақтары Pocket-ке сақтау мүмкіндігін сөндіру.
+policy-DisablePocket2 = Веб-парақтары { -pocket-brand-name }-ке сақтау мүмкіндігін сөндіру.
 policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру
 policy-DisableProfileImport = Басқа браузерден деректерді импорттау мәзір командасын сөндіру.
 policy-DisableProfileRefresh = about:support бетінде { -brand-short-name } жаңғырту батырмасын сөндіру.
