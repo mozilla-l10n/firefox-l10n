@@ -44,6 +44,7 @@ policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu
 policy-DisablePrimaryPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
 policy-DisablePasswordReveal = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu.
 policy-DisablePocket = Tắt tính năng lưu trang web vào Pocket.
+policy-DisablePocket2 = Tắt tính năng lưu trang web vào { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Vô hiệu hóa duyệt web riêng tư.
 policy-DisableProfileImport = Vô hiệu hóa lệnh nhập dữ liệu từ trình duyệt khác trên bảng chọn.
 policy-DisableProfileRefresh = Vô hiệu hóa nút khôi phục { -brand-short-name } trong trang about:support.
