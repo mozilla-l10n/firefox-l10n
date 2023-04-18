@@ -57,6 +57,20 @@ migration-favorites-option-label = Обране
 migration-logins-and-passwords-option-label = Збережені паролі
 migration-history-option-label = Історія перегляду
 migration-form-autofill-option-label = Дані автозаповнення форм
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ CSV
+       *[other] Файл CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ TSV
+       *[other] Файл TSV
+    }
 migration-import-button-label = Імпорт
 migration-cancel-button-label = Скасувати
 migration-done-button-label = Готово
