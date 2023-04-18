@@ -1229,6 +1229,11 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Nur-HTTPS-Modus nicht aktivieren
 
+## DoH Section
+
+preferences-doh-header = DNS über HTTPS
+preferences-doh-description = Domain Name System (DNS) über HTTPS sendet Ihre Anfrage für einen Domainnamen über eine verschlüsselte Verbindung, wodurch ein sicheres DNS geschaffen wird. Dies erschwert es anderen, zu sehen, welche Website Sie gerade besuchen.
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
