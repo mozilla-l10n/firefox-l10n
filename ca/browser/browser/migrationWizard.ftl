@@ -57,6 +57,20 @@ migration-favorites-option-label = Preferits
 migration-logins-and-passwords-option-label = Inicis de sessió i contrasenyes desats
 migration-history-option-label = Historial de navegació
 migration-form-autofill-option-label = Dades d'emplenament automàtic de formularis
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV (valors separats per comes)
+       *[other] Fitxer CSV (valors separats per comes)
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Document TSV (valors separats per tabuladors)
+       *[other] Fitxer TSV (valors separats per tabuladors)
+    }
 migration-import-button-label = Importa
 migration-cancel-button-label = Cancel·la
 migration-done-button-label = Fet
