@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = ססמאות מקובץ CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = מועדפים
 migration-logins-and-passwords-option-label = כניסות וססמאות שמורות
 migration-history-option-label = היסטוריית גלישה
 migration-form-autofill-option-label = נתוני מילוי אוטומטי של טפסים
+migration-passwords-from-file-progress-header = ייבוא קובץ ססמאות
+migration-passwords-from-file-success-header = הססמאות יובאו בהצלחה
+migration-passwords-from-file = בתהליך בדיקת הקובץ אחר ססמאות
+migration-passwords-new = ססמאות חדשות
+migration-passwords-updated = ססמאות קיימות
+migration-passwords-from-file-picker-title = ייבוא קובץ ססמאות
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] מסמך TSV
        *[other] קובץ TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] אחת נוספה
+       *[other] { $newEntries } נוספו
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] אחת עודכנה
+       *[other] { $updatedEntries } עודכנו
+    }
 migration-import-button-label = ייבוא
+migration-choose-to-import-from-file-button-label = ייבוא מקובץ
+migration-import-from-file-button-label = בחירת קובץ
 migration-cancel-button-label = ביטול
 migration-done-button-label = סיום
 migration-wizard-import-browser-no-browsers = ‏{ -brand-short-name } לא הצליח למצוא תוכנות המכילות נתונים של סימניות, היסטוריה או ססמאות.
