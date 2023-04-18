@@ -42,6 +42,7 @@ policy-DisableFormHistory = ڳول تے فارم دی تاریخ کوں یاد �
 policy-DisablePrimaryPasswordCreation = جے درست ہے تاں، منڈھلا پاس ورڈ نہیں بݨایا ونڄ سڳدا۔
 policy-DisablePasswordReveal = ہتھیکڑے لاگ انز وِچ پاس ورڈ ظاہر کرݨ دی اجازت نہ ݙیو۔
 policy-DisablePocket = ویب ورقیاں کوں Pocket وِچ ہتھیکڑا کرݨ کیتے خصوصیت کوں غیر فعال کرو۔
+policy-DisablePocket2 = ویب ورقیاں کوں { -pocket-brand-name } وِچ ہتھیکڑا کرݨ کیتے خصوصیت کوں غیر فعال کرو۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کرو
 policy-DisableProfileImport = ٻئے براؤزر کنوں ڈیٹا برآمد کرݨ کیتے مینیو کمانڈ کوں غیر فعال کرو۔
 policy-DisableProfileRefresh = ایں بارے وِچ: سپورٹ ورقہ وِچ ریفریش { -brand-short-name } بٹن کوں غیر فعال کرو۔
