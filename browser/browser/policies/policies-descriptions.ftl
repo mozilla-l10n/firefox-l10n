@@ -42,6 +42,7 @@ policy-DisableFormHistory = Betg memorisar las endataziuns en champs da tschertg
 policy-DisablePrimaryPasswordCreation = Sche activà, èsi impussibel da crear in pled-clav universal.
 policy-DisablePasswordReveal = Betg permetter da mussar pleds-clav en las infurmaziuns d'annunzia memorisadas.
 policy-DisablePocket = Deactivar la funcziun da memorisar paginas d'internet en Pocket.
+policy-DisablePocket2 = Deactivar la funcziun da memorisar paginas d'internet en { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Deactivar il modus privat.
 policy-DisableProfileImport = Deactivar il punct da menu per importar datas dad in auter navigatur.
 policy-DisableProfileRefresh = Deactivar il buttun da redefinir { -brand-short-name } sin la pagina about:support.
