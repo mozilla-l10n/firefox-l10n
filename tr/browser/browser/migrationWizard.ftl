@@ -57,6 +57,13 @@ migration-favorites-option-label = Sık kullanılanlar
 migration-logins-and-passwords-option-label = Kayıtlı hesaplar ve parolalar
 migration-history-option-label = Gezinti geçmişi
 migration-form-autofill-option-label = Otomatik form doldurma verileri
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV belgesi
+       *[other] TSV dosyası
+    }
 migration-import-button-label = İçe aktar
 migration-cancel-button-label = Vazgeç
 migration-done-button-label = Tamam
