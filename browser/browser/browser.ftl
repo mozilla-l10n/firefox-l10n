@@ -372,9 +372,12 @@ identity-description-insecure-login-forms = Chan eil am fiosrachadh a chuir thu 
 identity-description-weak-cipher-intro = Tha an ceangal agad ris an làrach-lìn seo a’ cleachdadh crioptachadh lag agus chan eil e prìobhaideach.
 identity-description-weak-cipher-risk = Chì daoine eile am fiosrachadh agad agus is urrainn dhaibh giùlan a’ bhrabhsair agad atharrachadh.
 identity-description-active-blocked = Bhac { -brand-short-name } na pìosan dhen duilleag seo nach eil tèarainte. <label data-l10n-name="link">Barrachd fiosrachaidh</label>
+identity-description-active-blocked2 = Bhac { -brand-short-name } na pìosan dhen duilleag seo nach eil tèarainte.
 identity-description-passive-loaded = Chan eil an ceangal agad prìobhaideach agus dh’fhaoidte gum faic daoine eile dàta a chuireas tu gun làrach.
 identity-description-passive-loaded-insecure = Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar dhealbhan). <label data-l10n-name="link">Barrachd fiosrachaidh</label>
 identity-description-passive-loaded-mixed = Ged a bhac { -brand-short-name } cuid dhen t-susbaint, tha susbaint air an duilleag seo fhathast nach eil tèarainte (mar dhealbhan). <label data-l10n-name="link">Barrachd fiosrachaidh</label>
+identity-description-passive-loaded-insecure2 = Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar dhealbhan).
+identity-description-passive-loaded-mixed2 = Ged a bhac { -brand-short-name } cuid dhen t-susbaint, tha susbaint air an duilleag seo fhathast nach eil tèarainte (mar dhealbhan).
 identity-description-active-loaded = Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar sgriobtan) agus chan eil an ceangal agad ris prìobhaideach.
 identity-description-active-loaded-insecure = Dh’fhaoidte gum faic daoine eile dàta a chuireas tu gun làrach seo (mar fhaclan-faire, teachdaireachdan, cairtean-creideis is msaa.).
 identity-learn-more =
@@ -626,6 +629,8 @@ reader-view-close-button =
     .aria-label = Dùin sealladh an leughadair
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
