@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Du er ikkje trygt kopla til denne
 identity-connection-verified = Du er trygt kopla til denne nettstaden.
 identity-ev-owner-label = Sertifikat skrive ut til:
 identity-description-custom-root = Mozilla kjenner ikkje att utskrivaren av dette sertifikatet. Det kan ha blitt lagt til av operativsystemet ditt, eller av ein administrator. <label data-l10n-name="link">Les meir</label>
+identity-description-custom-root2 = Mozilla kjenner ikkje att utskrivaren av dette sertifikatet. Det kan ha blitt lagt til av operativsystemet ditt, eller av ein administrator.
 identity-remove-cert-exception =
     .label = Fjern unntak
     .accesskey = F
