@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Þú ert ekki með örugga tengin
 identity-connection-verified = Þú ert með örugga tengingu við þetta vefsvæði.
 identity-ev-owner-label = Skilríki útgefið til:
 identity-description-custom-root = Mozilla viðurkennir ekki þennan skilríkisútgefanda. Það kann að hafa verið bætt við af hálfu stýrikerfisins þíns eða af stjórnanda. <label data-l10n-name="link">Frekari upplýsingar</label>
+identity-description-custom-root2 = Mozilla viðurkennir ekki þennan skilríkisútgefanda. Það kann að hafa verið bætt við af hálfu stýrikerfisins þíns eða af stjórnanda.
 identity-remove-cert-exception =
     .label = Fjarlægja undantekningu
     .accesskey = r
