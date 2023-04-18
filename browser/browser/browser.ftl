@@ -305,9 +305,12 @@ identity-description-insecure-login-forms = A información de identificación qu
 identity-description-weak-cipher-intro = A conexión con este sitio web usa un cifrado débil e non é privada.
 identity-description-weak-cipher-risk = Outras persoas poden ver a súa información ou modificar o comportamento do sitio web.
 identity-description-active-blocked = { -brand-short-name } bloqueou partes desta páxina que non son seguras. <label data-l10n-name="link">Obteña máis información</label>
+identity-description-active-blocked2 = { -brand-short-name } bloqueou partes desta páxina que non son seguras.
 identity-description-passive-loaded = A súa conexión non é privada e a información que comparte con este sitio podería ser visíbel por outros.
 identity-description-passive-loaded-insecure = Este sitio web contén contido que non é seguro (como as imaxes). <label data-l10n-name="link">Obteña máis información</label>
 identity-description-passive-loaded-mixed = Aínda que { -brand-short-name } bloqueou algún contido, aínda hai contido na páxina que non é seguro (como as imaxes). <label data-l10n-name="link">Obteña máis información</label>
+identity-description-passive-loaded-insecure2 = Este sitio web contén contido que non é seguro (como as imaxes).
+identity-description-passive-loaded-mixed2 = Aínda que { -brand-short-name } bloqueou algún contido, aínda hai contido na páxina que non é seguro (como as imaxes).
 identity-description-active-loaded = Este sitio web contén contido que non é seguro (como os scripts) e a súa conexión non é privada.
 identity-description-active-loaded-insecure = A información que comparte con este sitio podería ser visíbel por outros (como contrasinais, mensaxes, tarxetas de crédito, etc.).
 identity-learn-more =
@@ -545,6 +548,8 @@ reader-view-close-button =
     .aria-label = Pechar a vista de lectura
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
