@@ -1231,6 +1231,10 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS тавассути HTTPS
+preferences-doh-description = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро месозад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Таъминкунанда: { $name }
 
 ## The following strings are used in the Download section of settings
 
