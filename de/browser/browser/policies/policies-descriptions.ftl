@@ -44,6 +44,7 @@ policy-DisableFormHistory = Formular- und Suchchronik nicht speichern
 policy-DisablePrimaryPasswordCreation = Hauptpasswort kann nicht erstellt werden, falls true
 policy-DisablePasswordReveal = Option zur Klartextanzeige von Passwörtern in gespeicherten Zugangsdaten deaktivieren
 policy-DisablePocket = Pocket als Speicherliste für Webseiten deaktivieren
+policy-DisablePocket2 = { -pocket-brand-name } als Speicherliste für Webseiten deaktivieren
 policy-DisablePrivateBrowsing = Privates Surfen deaktivieren
 policy-DisableProfileImport = Datenimport aus anderen Browsern (Menüeintrag) deaktivieren
 policy-DisableProfileRefresh = "{ -brand-short-name } bereinigen"-Schaltfläche in Hilfeseite "Informationen zur Fehlerbehebung" (about:support) deaktivieren
