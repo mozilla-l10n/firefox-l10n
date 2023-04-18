@@ -213,9 +213,12 @@ identity-description-insecure-login-forms = ព័ត៌មាន​ចូល​
 identity-description-weak-cipher-intro = ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​កាន់​វិបសាយ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ និង​មិន​មែន​ជា​ឯកជន។
 identity-description-weak-cipher-risk = អ្នក​ផ្សេង​ទៀត​​អាច​មើល​ព័ត៌មាន​​របស់​អ្នក ឬ​កែប្រែ​​​ការ​ប្រព្រឹត្តិ​របស់​វេបសាយ​បាន។
 identity-description-active-blocked = { -brand-short-name } បាន​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
+identity-description-active-blocked2 = { -brand-short-name } បាន​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។
 identity-description-passive-loaded = ការ​តភ្ជាប់​របស់​អ្នក​​មិន​មែន​ជា​ឯកជន​ទេ ហើយអ្នក​ផ្សេង​ក៏​អាច​មើល​ឃើញ​​ព័ត៌មាន​ដែល​អ្នក​ចែករំលែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ​ដែរ។
 identity-description-passive-loaded-insecure = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
 identity-description-passive-loaded-mixed = ទោះបីជា { -brand-short-name } បាន​បិទ​​មាតិកា​ខ្លះ នៅតែ​មាន​​មាតិកា​នៅ​លើ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
+identity-description-passive-loaded-insecure2 = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។
+identity-description-passive-loaded-mixed2 = ទោះបីជា { -brand-short-name } បាន​បិទ​​មាតិកា​ខ្លះ នៅតែ​មាន​​មាតិកា​នៅ​លើ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។
 identity-description-active-loaded = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​ស្គ្រីប) ហើយ​ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​​វា​គឺ​មិន​មែន​ជា​ឯកជន​ទេ។
 identity-description-active-loaded-insecure = ព័ត៌មាន​ដែល​អ្នក​ចែករំលែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ​ អ្នក​ផ្សេង​អាច​មើល​ឃើញ​ដែរ (ដូចជា​ពាក្យ​សម្ងាត់ សារ ប័ណ្ណ​ឥណទាន។ល។)។
 identity-learn-more =
@@ -303,6 +306,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = បិទ​ទិដ្ឋភាព​អ្នក​អាន​
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -334,6 +342,11 @@ bookmarks-other-bookmarks-menu =
     .label = ចំណាំ​ផ្សេងៗ
 bookmarks-mobile-bookmarks-menu =
     .label = ចំណាំ​ចល័ត
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -352,6 +365,9 @@ bookmarks-tools-menu-button-visibility =
             [true] ដក​ម៉ឺនុយចំណាំចេញពីរបារឧបករណ៍
            *[other] បញ្ចូល​ម៉ឺនុយចំណាំទៅកាន់របារឧបករណ៍
         }
+
+##
+
 bookmarks-search =
     .label = ស្វែងរក​ចំណាំ
 bookmarks-tools =
@@ -486,6 +502,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ទំព័រ​នេះ​ផ្ទុក​ឡើង​វិញ​ដោយ​ស្វ័យប្រវត្តិ។
@@ -493,3 +513,9 @@ refresh-blocked-redirect-label = { -brand-short-name } បាន​រារា�
 refresh-blocked-allow =
     .label = អនុញ្ញាត
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
