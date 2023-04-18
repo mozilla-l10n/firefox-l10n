@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Sa connessione a custu situ no es
 identity-connection-verified = Sa connessione a custu situ est segura.
 identity-ev-owner-label = Tzertificadu emìtidu pro:
 identity-description-custom-root = Mozilla non reconnoschet custu emitente de tzertificatzione. Diat pòdere èssere istadu agiuntu dae su sistema operativu o dae s'amministratzione. <label data-l10n-name="link">Àteras informatziones</label>
+identity-description-custom-root2 = Mozilla non reconnoschet custu emitente de tzertificatzione. Diat pòdere èssere istadu agiuntu dae su sistema operativu o dae s'amministratzione.
 identity-remove-cert-exception =
     .label = Boga s'etzetzione
     .accesskey = B
