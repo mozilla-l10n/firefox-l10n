@@ -231,6 +231,7 @@ identity-connection-not-secure-security-view = Nun tas conectáu de mou seguru a
 identity-connection-verified = Tas conectáu de mou seguru a esti sitiu.
 identity-ev-owner-label = El certificáu emitióse pa:
 identity-description-custom-root = Mozilla nun reconoz esti emisor de certificaos. Pue ser que lu amestare'l sistema operativu o un alministrador. <label data-l10n-name="link">Lleer más</label>
+identity-description-custom-root2 = Mozilla nun reconoz esti emisor de certificaos. Pue ser que lu amestare'l sistema operativu o un alministrador.
 identity-remove-cert-exception =
     .label = Quitar la esceición
     .accesskey = Q
