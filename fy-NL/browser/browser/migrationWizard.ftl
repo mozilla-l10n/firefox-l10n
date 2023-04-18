@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Wachtwurden út CSV-bestân
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Bewarre oanmeldingen en wachtwurden
 migration-history-option-label = Navigaasjeskiednis
 migration-form-autofill-option-label = Gegevens foar automatysk ynfoljen fan formulieren
+migration-passwords-from-file-progress-header = Wachtwurden ymportearje
+migration-passwords-from-file-success-header = Wachtwurden mei sukses ymportearre
+migration-passwords-from-file = Bestân wurdt kontrolearre op wachtwurden
+migration-passwords-new = Nije wachtwurden
+migration-passwords-updated = Besteande wachtwurden
+migration-passwords-from-file-picker-title = Wachtwurdenbestân ymportearje
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokumint
        *[other] TSV-bestân
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } tafoege
+       *[other] { $newEntries } tafoege
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } bywurke
+       *[other] { $updatedEntries } bywurke
+    }
 migration-import-button-label = Ymportearje
+migration-choose-to-import-from-file-button-label = Ut bestân ymportearje
+migration-import-from-file-button-label = Bestân selektearje
 migration-cancel-button-label = Annulearje
 migration-done-button-label = Dien
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kin gjin programma’s mei blêdwizer-, skiednis- of wachtwurdgegevens fine.

@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pauzearje
-    .title = Pauzearje (Spaasjebalke)
-pictureinpicture-play-cmd =
-    .aria-label = Ofspylje
-    .title = Ofspylje (Spaasjebalke)
-pictureinpicture-mute-cmd =
-    .aria-label = Lûd út
-    .title = Lûd út ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Lûd oan
-    .title = Lûd oan ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Weromstjoere nei ljepblêd
-    .title = Werom nei ljepblêd
-pictureinpicture-close-cmd =
-    .aria-label = Slute
-    .title = Slute ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Undertitels
-    .title = Undertitels
 pictureinpicture-pause-btn =
     .aria-label = Pauzearje
     .tooltip = Pauzearje (Spaasjebalke)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Folslein skerm
-    .title = Folslein skerm (dûbelklik)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Folslein skerm ferlitte
-    .title = Folslein skerm ferlitte (dûbelklik)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Tebek
-    .title = Tebek (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Foarút
-    .title = Foarút (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Folslein skerm
     .tooltip = Folslein skerm (dûbelklik)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Foarút
     .tooltip = Foarút (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Undertitelingsynstellingen
 pictureinpicture-subtitles-label = Undertitels
 pictureinpicture-font-size-label = Lettergrutte
 pictureinpicture-font-size-small = Lyts
