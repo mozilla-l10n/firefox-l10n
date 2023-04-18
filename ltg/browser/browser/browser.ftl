@@ -220,9 +220,12 @@ identity-description-insecure-login-forms = The login information you enter on t
 identity-description-weak-cipher-intro = Jiusu savīnuojums ar itū lopu izmontoj vuoju šifriešonu i nav privats.
 identity-description-weak-cipher-risk = Cyti cylvāki var apsavērt jiusu informaceju voi modificeit lopys uzvedeibu.
 identity-description-active-blocked = { -brand-short-name } blokieja nadrūsū saturu itymā lopā. <label data-l10n-name="link">Uzzynojit vairuok</label>
+identity-description-active-blocked2 = { -brand-short-name } blokieja nadrūsū saturu itymā lopā.
 identity-description-passive-loaded = Your connection is not private and information you share with the site could be viewed by others.
 identity-description-passive-loaded-insecure = This website contains content that is not secure (such as images). <label data-l10n-name="link">Uzzynojit vairuok</label>
 identity-description-passive-loaded-mixed = Kab ari { -brand-short-name } blokieja nadrūsū saturu, lopā vys vēļ ir saturs, kas nav drūss (pīmāram attāli). <label data-l10n-name="link">Uzzynojit vairuok</label>
+identity-description-passive-loaded-insecure2 = This website contains content that is not secure (such as images).
+identity-description-passive-loaded-mixed2 = Kab ari { -brand-short-name } blokieja nadrūsū saturu, lopā vys vēļ ir saturs, kas nav drūss (pīmāram attāli).
 identity-description-active-loaded = Ituos lopys daļis (pīmāram attāli voi skripti) nav drūsais i jiusu savīnuojums nav privats.
 identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
 identity-learn-more =
@@ -312,6 +315,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Aiztaiseit skaiteituoja skotu
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -343,6 +351,11 @@ bookmarks-other-bookmarks-menu =
     .label = Cytys gruomotzeimes
 bookmarks-mobile-bookmarks-menu =
     .label = Mobiluos gruomotzeimes
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -361,6 +374,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Aizvuokt gruomotzeimju izvēlni/izvielni nu reikjūslys
            *[other] Pīvīnuot gruomotzeimju izvēlni/izvielni reikjūslai
         }
+
+##
+
 bookmarks-search =
     .label = Mekleit gruomotzeimes
 bookmarks-tools =
@@ -495,6 +511,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } prevented this page from automatically reloading.
@@ -502,3 +522,9 @@ refresh-blocked-redirect-label = { -brand-short-name } prevented this page from 
 refresh-blocked-allow =
     .label = Allow
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
