@@ -245,9 +245,12 @@ identity-description-insecure-login-forms = Humpito ceŋagol naatnu-ɗaa e ngoo 
 identity-description-weak-cipher-intro = Ceŋagol maa e ndee lowre huutortoo ko gannugol jaafngol tee wonaa suuriinde.
 identity-description-weak-cipher-risk = Yimɓe woɗɓe ena mbaawi yiyde humpito maa walla mbayla ngonka lowre ndee.
 identity-description-active-blocked = { -brand-short-name } faliima geɗe e ngoo hello ɗe kisaani. <label data-l10n-name="link">Ɓeydu Humpito</label>
+identity-description-active-blocked2 = { -brand-short-name } faliima geɗe e ngoo hello ɗe kisaani.
 identity-description-passive-loaded = Ceŋagol maa suuraaki tee humpito lollintaa e ndee lowre ena waawi woɗɓe njiya ɗum.
 identity-description-passive-loaded-insecure = Ndee lowre ena waɗi loowdi ndi hisaani (wano nate). <label data-l10n-name="link">Ɓeydu Humpito</label>
 identity-description-passive-loaded-mixed = Goonga { -brand-short-name } daaƴii won e loowdi, haa jooni ena waɗi loowdi e ngoo hello ndi hisaani (wano nate). <label data-l10n-name="link">Ɓeydu Humpito</label>
+identity-description-passive-loaded-insecure2 = Ndee lowre ena waɗi loowdi ndi hisaani (wano nate).
+identity-description-passive-loaded-mixed2 = Goonga { -brand-short-name } daaƴii won e loowdi, haa jooni ena waɗi loowdi e ngoo hello ndi hisaani (wano nate).
 identity-description-active-loaded = Ndee lowre ena waɗi loowdi ndi hisaani (wano dokkore) tee ceŋagol maa e mayre suuraaki.
 identity-description-active-loaded-insecure = Humpito ngo lollintaa e ngoo hello ena waawi woɗɓe njiya ɗum (wano finndeeji, ɓatakuuje, karte banke, ekn.).
 identity-learn-more =
@@ -342,6 +345,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Yaltu Jiytol Taro
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -373,6 +381,11 @@ bookmarks-other-bookmarks-menu =
     .label = Maantore Goɗɗe
 bookmarks-mobile-bookmarks-menu =
     .label = Maantore Cinndel
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -391,6 +404,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Ittu Dosol Maantore e Palal Kuutorɗe
            *[other] Ɓeydu Dosol Maantore to Palal Kuutorɗe
         }
+
+##
+
 bookmarks-search =
     .label = Yiylo Maantore
 bookmarks-tools =
@@ -531,6 +547,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } haɗii ngoo hello hesɗitinde hoore mum.
@@ -538,3 +558,9 @@ refresh-blocked-redirect-label = { -brand-short-name } haɗii ngoo hello ɓennit
 refresh-blocked-allow =
     .label = Yamir
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
