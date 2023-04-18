@@ -361,6 +361,7 @@ identity-connection-not-secure-security-view = Ntu nkuvi sá´á iin conexión v
 identity-connection-verified = Nkuvi sá´á iin conexión vatu ji sitio ya´a.
 identity-ev-owner-label = Certificado ntava ji sivɨ:
 identity-description-custom-root = Mozilla ntu nakuni vetiñu certificados ya´a. Sana ka̱a̱ operativo a xiin ñivɨ tetiñu ntemaja.<label data-l10n-name="link">Kuni jiee ya´a</label>
+identity-description-custom-root2 = Mozilla ntu nakuni vetiñu certificados ya´a. Sana ka̱a̱ operativo a xiin ñivɨ tetiñu ntemaja.
 identity-remove-cert-exception =
     .label = Xina excepción
     .accesskey = E
