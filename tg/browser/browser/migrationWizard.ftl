@@ -56,6 +56,20 @@ migration-bookmarks-option-label = Хатбаракҳо
 migration-favorites-option-label = Баргузидаҳо
 migration-logins-and-passwords-option-label = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
 migration-history-option-label = Таърихи тамошо
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Ҳуҷҷати CSV
+       *[other] Файли CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Ҳуҷҷати TSV
+       *[other] Файли TSV
+    }
 migration-import-button-label = Ворид кардан
 migration-cancel-button-label = Бекор кардан
 migration-done-button-label = Тайёр
