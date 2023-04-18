@@ -219,9 +219,12 @@ identity-description-insecure-login-forms = Bu saifede kirsetecegiñiz içeri im
 identity-description-weak-cipher-intro = Bu ağ-saytına bağlantıñız zayıf şifreleme qullana ve hususiy degildir.
 identity-description-weak-cipher-risk = Başqa kişiler malümatıñıznı körebilir yaki ağ-saytınıñ davranışını başqalaştırabilir.
 identity-description-active-blocked = { -brand-short-name } bu saifeniñ emniyetli olmağan qısımlarını bloklağandır. <label data-l10n-name="link">Daa Çoq Ögren</label>
+identity-description-active-blocked2 = { -brand-short-name } bu saifeniñ emniyetli olmağan qısımlarını bloklağandır.
 identity-description-passive-loaded = Bağlantıñız hususiy degildir ve bu sayt ile üleşkeniñiz malümat başqaları tarafından körülebilir edi.
 identity-description-passive-loaded-insecure = Bu sayt emniyetli olmağan muhteva (meselâ, suretler) ihtiva ete. <label data-l10n-name="link">Daa Çoq Ögren</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } bazı muhtevanı bloklağan olmasına rağmen, bu saifede halâ emniyetli olmağan muhteva (meselâ, suretler) bardır. <label data-l10n-name="link">Daa Çoq Ögren</label>
+identity-description-passive-loaded-insecure2 = Bu sayt emniyetli olmağan muhteva (meselâ, suretler) ihtiva ete.
+identity-description-passive-loaded-mixed2 = { -brand-short-name } bazı muhtevanı bloklağan olmasına rağmen, bu saifede halâ emniyetli olmağan muhteva (meselâ, suretler) bardır.
 identity-description-active-loaded = Bu sayt emniyetli olmağan muhteva (meselâ, bitikler) ihtiva ete ve oña bağlantıñız hususiy degildir.
 identity-description-active-loaded-insecure = Bu sayt ile üleşkeniñiz malümat (sır-sözler, mesajlar, kredit kartları vs. kibi) başqaları tarafından körülebilir edi.
 identity-learn-more =
@@ -309,6 +312,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Oquyıcı Körünimini Qapat
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -340,6 +348,11 @@ bookmarks-other-bookmarks-menu =
     .label = Diger Saifeimleri
 bookmarks-mobile-bookmarks-menu =
     .label = Mobil Saifeimleri
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -358,6 +371,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Alet Çubuğından Saife-imleri Menüsini Çetleştir
            *[other] Alet Çubuğına Saife-imleri Menüsini Ekle
         }
+
+##
+
 bookmarks-search =
     .label = Saife-imlerini Qıdır
 bookmarks-tools =
@@ -495,6 +511,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu saifege öz-özünden kene yüklenmege izin bermedi.
@@ -502,3 +522,9 @@ refresh-blocked-redirect-label = { -brand-short-name } bu saifeniñ öz-özünde
 refresh-blocked-allow =
     .label = İzin Ber
     .accesskey = z
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
