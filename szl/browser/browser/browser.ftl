@@ -381,9 +381,12 @@ identity-description-insecure-login-forms = Wkludzane na tyj strōnie dane logow
 identity-description-weak-cipher-intro = Twoje połōnczynie z tōm strōnōm używo słabego szyfrowanio i niy ma prywatne.
 identity-description-weak-cipher-risk = Inksi ludzie mogōm ôboczyć twoje informacyje abo zmiynić działanie tyj strōny.
 identity-description-active-blocked = Aplikacyjo { -brand-short-name } zablokowała niyzabezpieczōne party tyj strōny. <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
+identity-description-active-blocked2 = Aplikacyjo { -brand-short-name } zablokowała niyzabezpieczōne party tyj strōny.
 identity-description-passive-loaded = Twoje połōnczynie niy ma prywatne. Na informacyje, kere wkludzosz na strōnie, może wejzdrzeć fto inkszy.
 identity-description-passive-loaded-insecure = Ta strōna mo jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
 identity-description-passive-loaded-mixed = Chocioż aplikacyjo { -brand-short-name } zaszperowała trocha zawartości, na strōnie durch je jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
+identity-description-passive-loaded-insecure2 = Ta strōna mo jako niyzabezpieczōno zawartość (bez przikłod ôbrozki).
+identity-description-passive-loaded-mixed2 = Chocioż aplikacyjo { -brand-short-name } zaszperowała trocha zawartości, na strōnie durch je jako niyzabezpieczōno zawartość (bez przikłod ôbrozki).
 identity-description-active-loaded = Strōna mo jako niyzabezpieczōno zawartość (bez przikłod skrypty), a twoje połōnczynie niy ma prywatne.
 identity-description-active-loaded-insecure = Na wkludzane na tyj strōnie informacyje (bez przikłod hasła, wiadōmości, numery płatowych kart) może wejzdrzeć fto inkszy.
 identity-learn-more =
@@ -632,6 +635,8 @@ reader-view-close-button =
     .aria-label = Zawrzij podglōnd czytanio
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
