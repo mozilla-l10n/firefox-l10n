@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Tu non es connectite con securita
 identity-connection-verified = Tu es connectite con securitate a iste sito.
 identity-ev-owner-label = Certificato emittite a:
 identity-description-custom-root = Mozilla non recognosce iste emissor de certificatos. Illo poterea provenir de tu systema de operation, o forsan un administrator lo ha addite. <label data-l10n-name="link">Saper plus</label>
+identity-description-custom-root2 = Mozilla non recognosce iste emissor de certificatos. Illo poterea provenir de tu systema de operation, o forsan un administrator lo ha addite.
 identity-remove-cert-exception =
     .label = Remover le exception
     .accesskey = R
