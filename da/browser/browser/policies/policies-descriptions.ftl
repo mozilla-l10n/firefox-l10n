@@ -44,6 +44,7 @@ policy-DisableFormHistory = Husk ikke formular- og søgehistorik.
 policy-DisablePrimaryPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis værdien er sat til true.
 policy-DisablePasswordReveal = Tillad ikke adgangskoder at blive vist i gemte logins.
 policy-DisablePocket = Deaktiver funktionen at gemme websider til Pocket.
+policy-DisablePocket2 = Deaktiver funktionen at gemme websider til { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Deaktiver privat browsing.
 policy-DisableProfileImport = Deaktiver menu-kommandoen til at importere data fra en anden browser.
 policy-DisableProfileRefresh = Deaktiver knappen Nulstil { -brand-short-name } på siden about:support.
