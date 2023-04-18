@@ -1360,6 +1360,7 @@ preferences-doh-setting-enabled =
     .accesskey = о
 preferences-doh-enabled-desc = Ви одлучујете када треба користити безбедни DNS и сами бирате добављача.
 preferences-doh-enabled-detailed-desc-1 = Користите провајдера по свом избору
+preferences-doh-enabled-detailed-desc-2 = Користите подразумеваног DNS добављача само ако постоји проблем са безбедним DNS-ом
 preferences-doh-setting-strict =
     .label = Максимална заштита
     .accesskey = М
