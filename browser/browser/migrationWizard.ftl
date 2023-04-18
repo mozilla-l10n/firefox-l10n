@@ -57,6 +57,9 @@ migration-favorites-option-label = Favorittar
 migration-logins-and-passwords-option-label = Lagra innloggingar og passord
 migration-history-option-label = Nettlesarhistorikk
 migration-form-autofill-option-label = Autofylldata for skjema
+migration-passwords-new = Nye passord
+migration-passwords-updated = Eksisterande passord
+migration-passwords-from-file-picker-title = Importer passordfil
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +74,28 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } lagt til
+       *[other] { $newEntries } lagt til
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } oppdatert
+       *[other] { $updatedEntries } oppdaterte
+    }
 migration-import-button-label = Importer
+migration-choose-to-import-from-file-button-label = Importer frå fil
 migration-import-from-file-button-label = Vel fil
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
