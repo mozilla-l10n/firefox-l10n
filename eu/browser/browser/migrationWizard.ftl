@@ -57,6 +57,20 @@ migration-favorites-option-label = Gogokoak
 migration-logins-and-passwords-option-label = Gordetako saio-hasierak eta pasahitzak
 migration-history-option-label = Nabigatze-historia
 migration-form-autofill-option-label = Inprimakien betetze automatikorako datuak
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV dokumentua
+       *[other] CSV fitxategia
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV dokumentua
+       *[other] TSV fitxategia
+    }
 migration-import-button-label = Inportatu
 migration-cancel-button-label = Utzi
 migration-done-button-label = Eginda
