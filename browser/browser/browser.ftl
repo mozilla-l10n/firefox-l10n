@@ -238,10 +238,12 @@ identity-description-insecure-login-forms = E informaçioin de acesso inserie in
 identity-description-weak-cipher-intro = A conescion con sto scito web a deuvia na cifratua debole e a no l'é privâ.
 identity-description-weak-cipher-risk = Atri sogetti porievan amiâ e informaçioin trasmisse ò modificâ o conportamento do scito.
 identity-description-active-blocked = Quarche elemento no seguo da pagina o l'é stæto blocòu da { -brand-short-name }. <label data-l10n-name="link">Ulteriori informazioni</label>
+identity-description-active-blocked2 = Quarche elemento no seguo da pagina o l'é stæto blocòu da { -brand-short-name }.
 identity-description-passive-loaded = A conescion a no l'é privâ e e informaçioin trasmisse a-o scito porievan es vixbili a atri sogetti.
 identity-description-passive-loaded-insecure = Quarche elemento do scito web o no l'é seguo (prezenpio inmagini). <label data-l10n-name="link">Ulteriori informazioni</label>
 identity-description-passive-loaded-mixed = Sciben che quarche elemento o l'é blocòu da { -brand-short-name }, in sta pagina gh'é ancon di elementi no segui (prezenpio inmagini). <label data-l10n-name="link">Ulteriori informazioni</label>
 identity-description-passive-loaded-insecure2 = Quarche elemento do scito web o no l'é seguo (prezenpio inmagini).
+identity-description-passive-loaded-mixed2 = Sciben che quarche elemento o l'é blocòu da { -brand-short-name }, in sta pagina gh'é ancon di elementi no segui (prezenpio inmagini).
 identity-description-active-loaded = A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).
 identity-description-active-loaded-insecure = E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.
 identity-learn-more =
