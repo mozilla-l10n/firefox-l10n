@@ -57,6 +57,20 @@ migration-favorites-option-label = Suosikit
 migration-logins-and-passwords-option-label = Tallennetut käyttäjätunnukset ja salasanat
 migration-history-option-label = Selaushistoria
 migration-form-autofill-option-label = Lomakkeiden automaattisen täytön tiedot
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-tiedosto
+       *[other] CSV-tiedosto
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-tiedosto
+       *[other] TSV-tiedosto
+    }
 migration-import-button-label = Tuo
 migration-cancel-button-label = Peruuta
 migration-done-button-label = Valmis
