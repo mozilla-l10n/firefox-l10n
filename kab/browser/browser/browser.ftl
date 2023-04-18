@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Aqli-k ur teqqineḍ ara s wudem 
 identity-connection-verified = Aqli-k teqqneḍ s wudem aɣelsan ɣeṛ usmel-a.
 identity-ev-owner-label = Aselkin yeffeɣ-d i:
 identity-description-custom-root = Mozilla ur teɛqil ara amazan-a n uselkin. Ahat yezmer yettwarn seg unagraw-ik n wammud neɣ anedbal. <label data-l10n-name="link">Issin ugar</label>
+identity-description-custom-root2 = Mozilla ur teɛqil ara amazan-a n uselkin. Ahat yezmer yettwarn seg unagraw-ik n wammud neɣ anedbal.
 identity-remove-cert-exception =
     .label = Kkes tasureft
     .accesskey = K
