@@ -78,7 +78,31 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Дакумент TSV
        *[other] Файл TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } дададзены
+        [few] { $newEntries } дададзены
+       *[many] { $newEntries } дададзена
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } абноўлены
+        [few] { $updatedEntries } абноўлены
+       *[many] { $updatedEntries } абноўлена
+    }
 migration-import-button-label = Імпартаваць
+migration-choose-to-import-from-file-button-label = Імпартаваць з файла
+migration-import-from-file-button-label = Выбраць файл
 migration-cancel-button-label = Скасаваць
 migration-done-button-label = Гатова
 migration-wizard-import-browser-no-browsers = { -brand-short-name } не змог знайсці праграмы, якія ўтрымліваюць закладкі, гісторыю або паролі.
