@@ -57,6 +57,20 @@ migration-favorites-option-label = 我的最愛
 migration-logins-and-passwords-option-label = 儲存的登入資訊與密碼
 migration-history-option-label = 瀏覽紀錄
 migration-form-autofill-option-label = 表單自動填寫資料
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV 文件
+       *[other] CSV 檔案
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV 文件
+       *[other] TSV 檔案
+    }
 migration-import-button-label = 匯入
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
