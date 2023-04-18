@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = 暫停
-    .title = 暫停（空白鍵）
-pictureinpicture-play-cmd =
-    .aria-label = 播放
-    .title = 播放（空白鍵）
-pictureinpicture-mute-cmd =
-    .aria-label = 靜音
-    .title = 靜音（{ $shortcut }）
-pictureinpicture-unmute-cmd =
-    .aria-label = 取消靜音
-    .title = 取消靜音（{ $shortcut }）
-pictureinpicture-unpip-cmd =
-    .aria-label = 送回分頁
-    .title = 送回分頁
-pictureinpicture-close-cmd =
-    .aria-label = 關閉
-    .title = 關閉（{ $shortcut }）
-pictureinpicture-subtitles-cmd =
-    .aria-label = 字幕
-    .title = 字幕
 pictureinpicture-pause-btn =
     .aria-label = 暫停
     .tooltip = 暫停（空白鍵）
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = 進入全螢幕模式
-    .title = 進入全螢幕模式（雙擊）
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = 離開全螢幕模式
-    .title = 離開全螢幕模式（雙擊）
-pictureinpicture-seekbackward-cmd =
-    .aria-label = 倒帶
-    .title = 倒帶（←）
-pictureinpicture-seekforward-cmd =
-    .aria-label = 快轉
-    .title = 快轉（→）
 pictureinpicture-fullscreen-btn =
     .aria-label = 進入全螢幕模式
     .tooltip = 進入全螢幕模式（雙擊）
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = 快轉
     .tooltip = 快轉（→）
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = 字幕設定
 pictureinpicture-subtitles-label = 字幕
 pictureinpicture-font-size-label = 字型大小
 pictureinpicture-font-size-small = 小

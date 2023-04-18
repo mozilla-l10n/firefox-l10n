@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge 傳統版
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = CSV 檔案中的密碼
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = 我的最愛
 migration-logins-and-passwords-option-label = 儲存的登入資訊與密碼
 migration-history-option-label = 瀏覽紀錄
 migration-form-autofill-option-label = 表單自動填寫資料
+migration-passwords-from-file-progress-header = 匯入密碼檔
+migration-passwords-from-file-success-header = 已成功匯入密碼
+migration-passwords-from-file = 正在檢查檔案中的密碼
+migration-passwords-new = 新密碼
+migration-passwords-updated = 已有的密碼
+migration-passwords-from-file-picker-title = 匯入密碼檔
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,21 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV 文件
        *[other] TSV 檔案
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords = 已新增 { $newEntries } 筆
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords = 已更新 { $updatedEntries } 筆
 migration-import-button-label = 匯入
+migration-choose-to-import-from-file-button-label = 從檔案匯入
+migration-import-from-file-button-label = 選擇檔案
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
 migration-wizard-import-browser-no-browsers = { -brand-short-name } 找不到任何包含書籤、瀏覽紀錄或密碼的程式。
