@@ -237,6 +237,7 @@ identity-connection-not-secure-security-view = A seŋaaki kisngol e ndee lowre.
 identity-connection-verified = Aɗa seŋii kisngol e ndee lowre.
 identity-ev-owner-label = Seedamfaagu bayyinaama ngam:
 identity-description-custom-root = Mozilla heftinaani dokkoowo seedamfaagu oo. Haɗum waawi ɓeydeede ummoraade e yuɓɓo maa huuɓnungo walla taw ko jiiloowo yuɓɓo ɓeydi ɗum. <label data-l10n-name="link">Ɓeydu humpito</label>
+identity-description-custom-root2 = Mozilla heftinaani dokkoowo seedamfaagu oo. Haɗum waawi ɓeydeede ummoraade e yuɓɓo maa huuɓnungo walla taw ko jiiloowo yuɓɓo ɓeydi ɗum.
 identity-remove-cert-exception =
     .label = Momtu Paltol
     .accesskey = M
