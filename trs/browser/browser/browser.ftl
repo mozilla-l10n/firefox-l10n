@@ -262,9 +262,12 @@ identity-description-insecure-login-forms = Nej nuguan' achrut riña ayi'ìt ses
 identity-description-weak-cipher-intro = Si conexión riña sitio na nī ûta akò huaj nitaj si hua huìi ma.
 identity-description-weak-cipher-risk = Hua a'ngo dugui' ga'ue gini'iaj si nuguant nī ga'ue si gi'iaj sun hue'ê sitio web na.
 identity-description-active-blocked = { -brand-short-name } garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma. <label data-l10n-name="link">Gahuin chrūn doj</label>
+identity-description-active-blocked2 = { -brand-short-name } garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.
 identity-description-passive-loaded = Se conexión huìi huin ma nī ga'ue si hua a'ngò dugui' ni'iaj ma.
 identity-description-passive-loaded-insecure = Nitaj si yitïnj hua sa ma riña sitio web na (daj run' ñadu'ua). <label data-l10n-name="link">Gahuin chrūn doj</label>
 identity-description-passive-loaded-mixed = Antaj si { -brand-short-name } garán riña da'aj sa ma na sani nū gè sa yi'ì riña pajinâ na (daj run' ñadu'ua). <label data-l10n-name="link">Gahuin chrūn doj</label>
+identity-description-passive-loaded-insecure2 = Nitaj si yitïnj hua sa ma riña sitio web na (daj run' ñadu'ua).
+identity-description-passive-loaded-mixed2 = Antaj si { -brand-short-name } garán riña da'aj sa ma na sani nū gè sa yi'ì riña pajinâ na (daj run' ñadu'ua).
 identity-description-active-loaded = Nitaj si yitïnj hua sa ma riña pajinâ web na (daj run' skripts) nī nitaj si yitïnj hua riña ma.
 identity-description-active-loaded-insecure = Nej nuguan' a'nínt riña sitio na nī ga'ue gini'iaj a'ngo dugui' (Daj run' da'ngà huìi, tarjeta yikín, etc.).
 identity-learn-more =
@@ -357,6 +360,8 @@ reader-view-close-button =
     .aria-label = Nàrun' sa ahio'
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
