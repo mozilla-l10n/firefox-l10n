@@ -206,9 +206,12 @@ identity-description-insecure-login-forms = I nfurmazziuna d'accessu chi metti n
 identity-description-weak-cipher-intro = A to cunnissiuni a stu situ usa un cifrariu fraccu e nun è privata.
 identity-description-weak-cipher-risk = Autri ponnu vìdiri i to nfurmazziuna o canciari u cumpurtamentu dû situ web.
 identity-description-active-blocked = { -brand-short-name } bluccò parti di sta pàggina ca nun èranu sicuri. <label data-l10n-name="link">Cchiù nfurmazziuna</label>
+identity-description-active-blocked2 = { -brand-short-name } bluccò parti di sta pàggina ca nun èranu sicuri.
 identity-description-passive-loaded = A to cunnissiuni nun è privata e i nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri.
 identity-description-passive-loaded-insecure = Stu situ cunteni cuntinutu ca nun è sicuru (comu i mmàggini). <label data-l10n-name="link">Cchiù nfurmazziuna</label>
 identity-description-passive-loaded-mixed = Puru ca { -brand-short-name } bluccò parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini). <label data-l10n-name="link">Cchiù nfurmazziuna</label>
+identity-description-passive-loaded-insecure2 = Stu situ cunteni cuntinutu ca nun è sicuru (comu i mmàggini).
+identity-description-passive-loaded-mixed2 = Puru ca { -brand-short-name } bluccò parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini).
 identity-description-active-loaded = Stu situ cunteni cuntinutu ca nun è sicuru (comu i script) e a to cunnissiuni nun è privata.
 identity-description-active-loaded-insecure = I nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
 identity-learn-more =
@@ -287,6 +290,8 @@ reader-view-close-button =
     .aria-label = Chiuji mudalità littura
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
