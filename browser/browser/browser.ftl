@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Sie kommunizieren mit dieser Seit
 identity-connection-verified = Sie sind derzeit über eine gesicherte Verbindung mit dieser Website verbunden.
 identity-ev-owner-label = Zertifikat ausgestellt für:
 identity-description-custom-root = Mozilla erkennt diese Zertifizierungsstelle standardmäßig nicht an. Sie wurde eventuell vom Betriebssystem oder durch einen Administrator importiert. <label data-l10n-name="link">Weitere Informationen</label>
+identity-description-custom-root2 = Mozilla erkennt diese Zertifizierungsstelle standardmäßig nicht an. Sie wurde eventuell vom Betriebssystem oder durch einen Administrator importiert.
 identity-remove-cert-exception =
     .label = Ausnahme entfernen
     .accesskey = A
