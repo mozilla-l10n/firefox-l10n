@@ -238,6 +238,7 @@ identity-description-active-blocked = { -brand-short-name } bu səhifənin təhl
 identity-description-passive-loaded = Bağlantınız məxfi deyil və sayt ilə paylaşdığınız məlumatlar başqaları tərəfindən görülə bilər.
 identity-description-passive-loaded-insecure = Saytda güvənilir olmayan məzmun var (şəkillər kimi). <label data-l10n-name="link">Ətraflı Öyrən</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } bəzi məzmunları əngəlləsə də bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var. <label data-l10n-name="link">Ətraflı Öyrən</label>
+identity-description-passive-loaded-insecure2 = Saytda güvənilir olmayan məzmun var (şəkillər kimi).
 identity-description-active-loaded = Bu saytda təhlükəsiz olmayan məzmunlar (kriptlər kimi) var və saytla bağlantınız məxfi deyil.
 identity-description-active-loaded-insecure = Bu saytla paylaşdığınız məlumatlar (məs. parollar, mesajlar, kredit kartları kimi) başqaları tərəfindən görülə bilər.
 identity-learn-more =
@@ -333,6 +334,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Oxuma Görüntüsünü qapat
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -364,6 +370,11 @@ bookmarks-other-bookmarks-menu =
     .label = Digər əlfəcinlər
 bookmarks-mobile-bookmarks-menu =
     .label = Mobil əlfəcinlər
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -382,6 +393,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Əlfəcinlər menyusunu Alət sətrindən sil
            *[other] Əlfəcinlər menyusunu Alət sətrinə əlavə et
         }
+
+##
+
 bookmarks-search =
     .label = Əlfəcinlərdə axtar
 bookmarks-tools =
@@ -519,6 +533,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu səhifənin avtomatik yenilənməsinin qarşısını aldı.
@@ -526,3 +544,9 @@ refresh-blocked-redirect-label = { -brand-short-name } bu səhifənin başqa bir
 refresh-blocked-allow =
     .label = İcazə ver
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
