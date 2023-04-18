@@ -241,6 +241,7 @@ identity-description-active-blocked = Quarche elemento no seguo da pagina o l'é
 identity-description-passive-loaded = A conescion a no l'é privâ e e informaçioin trasmisse a-o scito porievan es vixbili a atri sogetti.
 identity-description-passive-loaded-insecure = Quarche elemento do scito web o no l'é seguo (prezenpio inmagini). <label data-l10n-name="link">Ulteriori informazioni</label>
 identity-description-passive-loaded-mixed = Sciben che quarche elemento o l'é blocòu da { -brand-short-name }, in sta pagina gh'é ancon di elementi no segui (prezenpio inmagini). <label data-l10n-name="link">Ulteriori informazioni</label>
+identity-description-passive-loaded-insecure2 = Quarche elemento do scito web o no l'é seguo (prezenpio inmagini).
 identity-description-active-loaded = A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).
 identity-description-active-loaded-insecure = E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.
 identity-learn-more =
@@ -332,6 +333,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Særa Modalitæ letua
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -363,6 +369,11 @@ bookmarks-other-bookmarks-menu =
     .label = Atri segnalibbri
 bookmarks-mobile-bookmarks-menu =
     .label = Segnalibbri mòbili
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -381,6 +392,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Scancella menû di segnalibbri a-a bara di atressi
            *[other] Azonzi o menû di segnalibbri a-a bara di atressi
         }
+
+##
+
 bookmarks-search =
     .label = Çerca segnalibbri
 bookmarks-tools =
@@ -518,6 +532,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } o l'inpedisce o caregamento aotomatico da pagina.
@@ -525,3 +543,9 @@ refresh-blocked-redirect-label = { -brand-short-name } o l'inpedisce l'indirisam
 refresh-blocked-allow =
     .label = Permetti
     .accesskey = P
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
