@@ -42,6 +42,7 @@ policy-DisableFormHistory = ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਨੂ
 policy-DisablePrimaryPasswordCreation = ਜੇ ਇਹ ਸਹੀ ਹੈ, ਤਾਂ ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ।
 policy-DisablePasswordReveal = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਵਿੱਚ ਪਾਸਵਰਡ ਵੇਖਣ ਦੀ ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ।
 policy-DisablePocket = Pocket ਨੂੰ ਵੈਬ ਪੇਜਿਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਅਯੋਗ ਕਰੋ।
+policy-DisablePocket2 = { -pocket-brand-name } ਨੂੰ ਵੈਬ ਪੇਜਿਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਅਯੋਗ ਕਰੋ।
 policy-DisablePrivateBrowsing = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableProfileImport = ਕਿਸੇ ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਡਾਟਾ ਦਰਾਮਦ ਕਰਨ ਲਈ ਮੇਨੂ ਕਮਾਂਡ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableProfileRefresh = about:support ਸਫ਼ੇ ਵਿੱਚ { -brand-short-name } ਬਟਨ ਨੂੰ ਤਾਜ਼ਾ ਕਰਨ ਤੋਂ ਰੋਕੋ।
