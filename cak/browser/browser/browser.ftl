@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Man ütz ta ri awokem pa re ruxaq
 identity-connection-verified = Ütz ri awokem pa re ruxaq k'amaya'l re'.
 identity-ev-owner-label = Iqitzijib'äl talun richin:
 identity-description-custom-root = Ri Mozilla man retaman ta ruwäch ri ruya'öl iqitzijib'äl Mozilla. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel. <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
+identity-description-custom-root2 = Ri Mozilla man retaman ta ruwäch ri ruya'öl iqitzijib'äl Mozilla. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel.
 identity-remove-cert-exception =
     .label = Tiyuj Man Relik Ta
     .accesskey = y
