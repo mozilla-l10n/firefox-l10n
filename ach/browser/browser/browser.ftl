@@ -257,9 +257,12 @@ identity-description-insecure-login-forms = Ngec me donyo iye ma i keto i pot bu
 identity-description-weak-cipher-intro = Kube ni ki kakube man tiyo ki loko ngec i kod ma goro ki peke i mung.
 identity-description-weak-cipher-risk = Jo mukene twero neno ngec mamegi onyo loko time pa kakube.
 identity-description-active-blocked = { -brand-short-name } ogengo but potbuk man ma pe tye ki ber bedo. <label data-l10n-name="link">Nong ngec mapol</label>
+identity-description-active-blocked2 = { -brand-short-name } ogengo but potbuk man ma pe tye ki ber bedo.
 identity-description-passive-loaded = Kube mamegi pe tye ki ber bedo kadong jo mukene twero neno ngec ma i nywako ki kakube ne.
 identity-description-passive-loaded-insecure = Kakube man tye ki jami mogo ma pe tye ki ber bedo (calo cal). <label data-l10n-name="link">Nong ngec mapol</label>
 identity-description-passive-loaded-mixed = Kadi bed { -brand-short-name } ogengo jami mogo, pud tye jami i potbuk man ma pe tye ki ber bedo (calo cal). <label data-l10n-name="link">Nong ngec mapol</label>
+identity-description-passive-loaded-insecure2 = Kakube man tye ki jami mogo ma pe tye ki ber bedo (calo cal).
+identity-description-passive-loaded-mixed2 = Kadi bed { -brand-short-name } ogengo jami mogo, pud tye jami i potbuk man ma pe tye ki ber bedo (calo cal).
 identity-description-active-loaded = Kakube man tye ki jami ma pe tye ki ber bedo (calo coc) ki kube mamegi iye pe tye i mung.
 identity-description-active-loaded-insecure = Jo mukene twero neno ngec ma i nywako ki kakube man (calo mung me donyo, kwena, ka me wil, ki mukene).
 identity-learn-more =
@@ -387,6 +390,8 @@ reader-view-close-button =
     .aria-label = Lor Neno me Kwan
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
