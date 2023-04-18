@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Sètz pas connectat amb seguretat
 identity-connection-verified = Sètz connectat amb seguretat a aquel site.
 identity-ev-owner-label = Certificat emés per :
 identity-description-custom-root = Mozilla reconeis pas aqueste emissor de certificats. Benlèu que foguèt apondut per vòstre sistèma operatiu o per un administrator. <label data-l10n-name="link">Ne saber mai</label>
+identity-description-custom-root2 = Mozilla reconeis pas aqueste emissor de certificats. Benlèu que foguèt apondut per vòstre sistèma operatiu o per un administrator.
 identity-remove-cert-exception =
     .label = Suprimir l'excepcion
     .accesskey = L
