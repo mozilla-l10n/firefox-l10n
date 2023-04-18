@@ -57,6 +57,13 @@ migration-favorites-option-label = Выбраныя
 migration-logins-and-passwords-option-label = Захаваныя лагіны і паролі
 migration-history-option-label = Гісторыя аглядання
 migration-form-autofill-option-label = Звесткі аўтазапаўнення формаў
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Дакумент CSV
+       *[other] Файл CSV
+    }
 migration-import-button-label = Імпартаваць
 migration-cancel-button-label = Скасаваць
 migration-done-button-label = Гатова
