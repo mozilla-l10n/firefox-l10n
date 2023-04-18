@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = La información del inicio de sesió
 identity-description-weak-cipher-intro = Tu conexión con este sitio web usa encriptación débil y no es privado.
 identity-description-weak-cipher-risk = Otras personas pueden ver tu información o modificar el comportamiento del sitio web.
 identity-description-active-blocked = { -brand-short-name } bloqueó partes de esta página que no eran seguras. <label data-l10n-name="link">Saber más</label>
+identity-description-active-blocked2 = { -brand-short-name } bloqueó partes de esta página que no eran seguras.
 identity-description-passive-loaded = Tu conexión no es privada y la información que compartas con el sitio podría ser vista por otros.
 identity-description-passive-loaded-insecure = Este sitio web tiene contenido que no es seguro (por ejemplo imágenes). <label data-l10n-name="link">Saber más</label>
 identity-description-passive-loaded-mixed = Aunque { -brand-short-name } bloqueó parte del contenido, aún hay contenido en la página que no es seguro (por ejemplo imágenes). <label data-l10n-name="link">Saber más</label>
+identity-description-passive-loaded-insecure2 = Este sitio web tiene contenido que no es seguro (por ejemplo imágenes).
+identity-description-passive-loaded-mixed2 = Aunque { -brand-short-name } bloqueó parte del contenido, aún hay contenido en la página que no es seguro (por ejemplo imágenes).
 identity-description-active-loaded = Este sitio web tiene contenido que no es seguro (tales como scripts) y tu conexión a ellos no es privada.
 identity-description-active-loaded-insecure = La información que compartas con este sitio puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
 identity-learn-more =
@@ -667,9 +670,9 @@ reader-view-close-button =
     .aria-label = Cerrar la vista de lectura
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-picture-in-picture-urlbar-button =
-    .tooltiptext = Alternar Picture-in-Picture
 
 ## Full Screen and Pointer Lock UI
 
