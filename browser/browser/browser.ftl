@@ -406,6 +406,7 @@ identity-connection-not-secure-security-view = Bạn không được kết nối
 identity-connection-verified = Bạn đang kết nối an toàn tới trang này.
 identity-ev-owner-label = Chứng nhận được cấp cho:
 identity-description-custom-root = Mozilla không công nhận nhà phát hành chứng nhận này. Nó có thể đã được thêm từ hệ điều hành của bạn hoặc bởi quản trị viên. <label data-l10n-name="link">Tìm hiểu thêm</label>
+identity-description-custom-root2 = Mozilla không công nhận nhà phát hành chứng nhận này. Nó có thể đã được thêm từ hệ điều hành của bạn hoặc bởi quản trị viên.
 identity-remove-cert-exception =
     .label = Loại bỏ ngoại lệ
     .accesskey = R
