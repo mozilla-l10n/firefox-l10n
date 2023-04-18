@@ -26,6 +26,13 @@ migration-wizard-migrator-display-name-safari = Safari
 
 ##
 
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV دستاویز
+       *[other] TSV فائل
+    }
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
