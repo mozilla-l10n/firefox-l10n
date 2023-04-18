@@ -1244,6 +1244,7 @@ preferences-doh-resolver = Palveluntarjoaja: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Virheellinen osoite
+preferences-doh-steering-status = Käytetään paikallista palveluntarjoajaa
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ei aktiivinen ({ $reason })
