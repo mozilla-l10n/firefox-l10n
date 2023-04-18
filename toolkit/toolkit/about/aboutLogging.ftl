@@ -16,11 +16,13 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = על אודות רישום
 about-logging-page-title = מנהל הרישום
 about-logging-current-log-file = קובץ רישום נוכחי:
-about-logging-current-log-modules = מודולי רישום נוכחיים:
 about-logging-new-log-file = קובץ רישום חדש:
 about-logging-currently-enabled-log-modules = מודולי רישום המופעלים כעת:
 about-logging-log-tutorial = לקבלת הוראות לגבי השימוש בכלי זה, נא לפנות אל המאמר <a data-l10n-name="logging">רישום HTTP</a>.
@@ -30,6 +32,8 @@ about-logging-set-log-file = הגדרת קובץ רישום
 about-logging-set-log-modules = הגדרת מודולי רישום
 about-logging-start-logging = התחלת רישום
 about-logging-stop-logging = הפסקת רישום
+about-logging-buttons-disabled = הרישום מוגדר באמצעות משתני סביבה ולכן הגדרה דינמית אינה זמינה.
+about-logging-some-elements-disabled = הרישום מוגדר באמצעות כתובת URL, חלק מאפשרויות התצורה אינן זמינות
 about-logging-info = מידע:
 about-logging-log-modules-selection = בחירת מודול רישום
 about-logging-new-log-modules = מודולי רישום חדשים:
