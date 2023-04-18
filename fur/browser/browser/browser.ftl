@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = Lis credenziâls di acès che tu âs
 identity-description-weak-cipher-intro = La conession a chest sît web e dopre une cifradure debile e no je privade.
 identity-description-weak-cipher-risk = Altris personis a puedin viodi lis tôs informazions o modificâ il compuartament dal sît web.
 identity-description-active-blocked = { -brand-short-name } al à blocât parts di cheste pagjine che no son siguris. <label data-l10n-name="link">Par savê di plui</label>
+identity-description-active-blocked2 = { -brand-short-name } al à blocât parts di cheste pagjine che no son siguris.
 identity-description-passive-loaded = La tô conession no je privade e altris a puedin viodi lis informazions che tu condividis cul sît.
 identity-description-passive-loaded-insecure = Chest sît web al conten contignûts che no son sigûrs (come lis imagjins). <label data-l10n-name="link">Plui informazions</label>
 identity-description-passive-loaded-mixed = Ancje se { -brand-short-name } al à blocât cualchi contignût, a'nd è ancjemò cualchidun su la pagjine che nol è sigûr (come lis imagjins). <label data-l10n-name="link">Plui informazions</label>
+identity-description-passive-loaded-insecure2 = Chest sît web al conten contignûts che no son sigûrs (come lis imagjins).
+identity-description-passive-loaded-mixed2 = Ancje se { -brand-short-name } al à blocât cualchi contignût, a'nd è ancjemò cualchidun su la pagjine che nol è sigûr (come lis imagjins).
 identity-description-active-loaded = Chest sît web al conten contignûts che no son sigûrs (come i scripts) e la relative conession no je privade.
 identity-description-active-loaded-insecure = Altris a puedin viodi lis informazions che tu condividis cun chest sît (tant che passwords, messaçs, cjartis di credit e v.i.).
 identity-learn-more =
