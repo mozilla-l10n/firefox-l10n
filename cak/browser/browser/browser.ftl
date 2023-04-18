@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = Ri retamab'al rutikirisanïk molojri
 identity-description-weak-cipher-intro = Ri awokem pa re ruxaq k'amaya'l re' nrokisaj lawalïk skript ruma ri man ichinan ta.
 identity-description-weak-cipher-risk = Chaq'a' chik chi winaqi' yetikïr nikitz'ët ri awetamab'al o nikijalwachij ri rub'eyal nisamäj re ruxaq k'amaya'l re'.
 identity-description-active-blocked = { -brand-short-name } xeruq'ät ri itzel taq ruperaj re ruxaq re'. <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
+identity-description-active-blocked2 = { -brand-short-name } xeruq'ät ri itzel taq ruperaj re ruxaq re'.
 identity-description-passive-loaded = Man awichinan ta ri awokem pa k'amaya'l ruma ri' ronojel ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re' tikirel nikitz'ët juley chik winaqi'.
 identity-description-passive-loaded-insecure = Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq wachib'äl). <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
 identity-description-passive-loaded-mixed = Stape' { -brand-short-name } xuq'ät jub'a' na'oj, junelïk k'o na'oj pa ri ruxaq ri man ütz ta (achi'el ri taq wachib'äl). <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
+identity-description-passive-loaded-insecure2 = Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq wachib'äl).
+identity-description-passive-loaded-mixed2 = Stape' { -brand-short-name } xuq'ät jub'a' na'oj, junelïk k'o na'oj pa ri ruxaq ri man ütz ta (achi'el ri taq wachib'äl).
 identity-description-active-loaded = Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq skript) man awichinan ta ri awokem we yatok chupam.
 identity-description-active-loaded-insecure = Ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re', tikirel nikitz'ët juley chik winaqi' (achi'el ewan taq tzij, taq rutzijol, t'im pwäq, ch'aqa' chik).
 identity-learn-more =
