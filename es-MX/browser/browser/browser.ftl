@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = No se estableció una conexión s
 identity-connection-verified = Se estableció una conexión segura con este sitio.
 identity-ev-owner-label = Certificado emitido a nombre de:
 identity-description-custom-root = Mozilla no reconoce a este emisor de certificados. El sistema operativo o algún administrador puede haberlo añadido. <label data-l10n-name="link">Saber más</label>
+identity-description-custom-root2 = Mozilla no reconoce a este emisor de certificados. El sistema operativo o algún administrador puede haberlo añadido.
 identity-remove-cert-exception =
     .label = Eliminar excepción
     .accesskey = E
