@@ -57,6 +57,12 @@ migration-favorites-option-label = Омиљено
 migration-logins-and-passwords-option-label = Сачуване пријаве и лозинке
 migration-history-option-label = Историја прегледања
 migration-form-autofill-option-label = Подаци о аутоматском попуњавању образаца
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title = CSV датотека
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title = TSV датотека
 migration-import-button-label = Увези
 migration-cancel-button-label = Откажи
 migration-done-button-label = Готово
