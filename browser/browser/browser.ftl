@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Ti n'es betg collià a moda segir
 identity-connection-verified = Ti es collià a moda segira cun questa website.
 identity-ev-owner-label = Certificat emess per:
 identity-description-custom-root = Mozilla na renconuscha betg l'emettur da quest certificat. Eventualmain è el vegnì agiuntà da tes sistem operativ u dad in administratur. <label data-l10n-name="link">Ulteriuras infurmaziuns</label>
+identity-description-custom-root2 = Mozilla na renconuscha betg l'emettur da quest certificat. Eventualmain è el vegnì agiuntà da tes sistem operativ u dad in administratur.
 identity-remove-cert-exception =
     .label = Allontanar l'excepziun
     .accesskey = r
