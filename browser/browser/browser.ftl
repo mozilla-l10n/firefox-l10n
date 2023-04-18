@@ -344,9 +344,12 @@ identity-description-insecure-login-forms = Sisestatud kasutajakonto andmed pole
 identity-description-weak-cipher-intro = Ühendus selle saidiga on turvatud nõrga krüpteeringuga ja pole seetõttu privaatne.
 identity-description-weak-cipher-risk = Teised inimesed saavad vaadata sinu andmeid või muuta veebilehe käitumist.
 identity-description-active-blocked = { -brand-short-name } blokkis selle lehe ebaturvalised osad. <label data-l10n-name="link">Rohkem teavet</label>
+identity-description-active-blocked2 = { -brand-short-name } blokkis selle lehe ebaturvalised osad.
 identity-description-passive-loaded = Ühendus pole privaatne ja sinu edastatavaid andmeid võivad näha ka teised.
 identity-description-passive-loaded-insecure = See veebileht sisaldab ebaturvalist sisu (nt pilte). <label data-l10n-name="link">Rohkem teavet</label>
 identity-description-passive-loaded-mixed = Vaatamata sellele, et { -brand-short-name } blokkis mõned selle lehe osad, sisaldab see jätkuvalt ebaturvalist sisu (nt pilte). <label data-l10n-name="link">Rohkem teavet</label>
+identity-description-passive-loaded-insecure2 = See veebileht sisaldab ebaturvalist sisu (nt pilte).
+identity-description-passive-loaded-mixed2 = Vaatamata sellele, et { -brand-short-name } blokkis mõned selle lehe osad, sisaldab see jätkuvalt ebaturvalist sisu (nt pilte).
 identity-description-active-loaded = See veebileht sisaldab ebaturvalist sisu (nt skripte) ja ühendus sellega pole privaatne.
 identity-description-active-loaded-insecure = Saidiga jagatavaid andmeid (nt paroolid, sõnumid, krediitkaardi andmed jne) võivad näha ka teised.
 identity-learn-more =
@@ -591,6 +594,8 @@ reader-view-close-button =
     .aria-label = Sulge lugemisvaade
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
