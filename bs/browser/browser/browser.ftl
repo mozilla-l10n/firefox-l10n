@@ -227,9 +227,12 @@ identity-description-insecure-login-forms = Informacije za prijavu koje unesete 
 identity-description-weak-cipher-intro = Vaša konekcija na ovu web stranicu koristi slabu enkripciju i nije privatna.
 identity-description-weak-cipher-risk = Drugi ljudi mogu vidjeti vaše informacije ili modifikovati ponašanje web stranice.
 identity-description-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni. <label data-l10n-name="link">Saznajte više</label>
+identity-description-active-blocked2 = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni.
 identity-description-passive-loaded = Vaša konekcija nije privatna, a informacije koje dijelite sa stranicom mogu vidjeti drugi.
 identity-description-passive-loaded-insecure = Ova stranica sadrži nesiguran sadržaj (poput slika). <label data-l10n-name="link">Saznajte više</label>
 identity-description-passive-loaded-mixed = Iako je { -brand-short-name } blokirao dio sadržaja, i dalje postoji sadržaj na stranici koji nije siguran (poput slika). <label data-l10n-name="link">Saznajte više</label>
+identity-description-passive-loaded-insecure2 = Ova stranica sadrži nesiguran sadržaj (poput slika).
+identity-description-passive-loaded-mixed2 = Iako je { -brand-short-name } blokirao dio sadržaja, i dalje postoji sadržaj na stranici koji nije siguran (poput slika).
 identity-description-active-loaded = Ova web stranica sadrži nesiguran sadržaj (poput skripti) te vaša konekcija na nju nije privatna.
 identity-description-active-loaded-insecure = Informacije koje dijelite sa ovom stranicom mogu vidjeti drugi (poput lozinki, poruka, kreditnih kartica, itd.).
 identity-learn-more =
@@ -318,6 +321,8 @@ reader-view-close-button =
     .aria-label = Zatvori prikaz za čitanje
 
 ## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 
 ## Full Screen and Pointer Lock UI
