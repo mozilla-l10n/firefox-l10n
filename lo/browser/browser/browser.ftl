@@ -365,6 +365,7 @@ identity-connection-not-secure-security-view = ທ່ານບໍ່ໄດ້ເ
 identity-connection-verified = ທ່ານເຊື່ອມຕໍ່ຢ່າງປອດໄພກັບເວັບໄຊນີ້.
 identity-ev-owner-label = ໃບຢັ້ງຢືນອອກໃຫ້:
 identity-description-custom-root = Mozilla ບໍ່ຮູ້ຈັກຜູ້ອອກໃບຢັ້ງຢືນນີ້. ມັນອາດຈະຖືກເພີ່ມຈາກລະບົບປະຕິບັດການຂອງທ່ານ ຫຼືໂດຍຜູ້ເບິ່ງແຍງລະບົບ. <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
+identity-description-custom-root2 = Mozilla ບໍ່ຮູ້ຈັກຜູ້ອອກໃບຢັ້ງຢືນນີ້. ມັນອາດຈະຖືກເພີ່ມຈາກລະບົບປະຕິບັດການຂອງທ່ານ ຫຼືໂດຍຜູ້ເບິ່ງແຍງລະບົບ.
 identity-remove-cert-exception =
     .label = ລຶບຂໍ້ຍົກເວັ້ນ
     .accesskey = R
