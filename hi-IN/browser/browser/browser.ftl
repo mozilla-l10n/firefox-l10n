@@ -274,6 +274,7 @@ identity-connection-not-secure-security-view = आप इस साइट से
 identity-connection-verified = आप इस साइट से सुरक्षित रूप से जुड़े हैं।
 identity-ev-owner-label = इसे प्रमाणपत्र जारी किया गया:
 identity-description-custom-root = Mozilla इस प्रमाणपत्र जारीकर्ता को नहीं पहचानता है। यह आपके ऑपरेटिंग सिस्टम से या किसी ऐडमिनिस्ट्रेटर द्वारा जोड़ा जा सकता है। <label data-l10n-name="link">अधिक जानें</label>
+identity-description-custom-root2 = Mozilla इस प्रमाणपत्र जारीकर्ता को नहीं पहचानता है। यह आपके ऑपरेटिंग सिस्टम से या किसी ऐडमिनिस्ट्रेटर द्वारा जोड़ा जा सकता है।
 identity-remove-cert-exception =
     .label = अपवाद मिटाएँ
     .accesskey = R
