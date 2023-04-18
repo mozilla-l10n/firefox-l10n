@@ -418,9 +418,12 @@ identity-description-insecure-login-forms = Login-information, du indtaster på 
 identity-description-weak-cipher-intro = Din forbindelse til dette websted anvender svag kryptering og er ikke privat.
 identity-description-weak-cipher-risk = Andre kan se dine informationer eller ændre webstedets opførsel.
 identity-description-active-blocked = { -brand-short-name } har blokeret usikre dele af denne side. <label data-l10n-name="link">Læs mere</label>
+identity-description-active-blocked2 = { -brand-short-name } har blokeret usikre dele af denne side.
 identity-description-passive-loaded = Din forbindelse er ikke privat og de informationer, du deler, kan ses af andre.
 identity-description-passive-loaded-insecure = Noget af dette websteds indhold (fx billeder) er usikkert. <label data-l10n-name="link">Læs mere</label>
 identity-description-passive-loaded-mixed = Selvom { -brand-short-name } har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder). <label data-l10n-name="link">Læs mere</label>
+identity-description-passive-loaded-insecure2 = Noget af dette websteds indhold (fx billeder) er usikkert.
+identity-description-passive-loaded-mixed2 = Selvom { -brand-short-name } har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder).
 identity-description-active-loaded = Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.
 identity-description-active-loaded-insecure = Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.
 identity-learn-more =
