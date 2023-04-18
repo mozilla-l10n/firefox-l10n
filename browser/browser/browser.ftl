@@ -412,6 +412,7 @@ identity-connection-not-secure-security-view = Njejsće wěsće z tutym sydłom 
 identity-connection-verified = Sće wěsće z tutym sydłom zwjazany.
 identity-ev-owner-label = Certifikat wupisany na:
 identity-description-custom-root = Mozilla tutoho certifikatoweho wudawarja njepřipóznawa. Je so snano přez waš dźěłowy system abo wot administratora přidał. <label data-l10n-name="link">Dalše informacije</label>
+identity-description-custom-root2 = Mozilla tutoho certifikatoweho wudawarja njepřipóznawa. Je so snano přez waš dźěłowy system abo wot administratora přidał.
 identity-remove-cert-exception =
     .label = Wuwzaće wotstronić
     .accesskey = W
