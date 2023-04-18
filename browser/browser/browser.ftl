@@ -431,9 +431,12 @@ identity-description-insecure-login-forms = Информације за приј
 identity-description-weak-cipher-intro = Веза са овим сајтом користи слабо шифровање и није приватна.
 identity-description-weak-cipher-risk = Друге особе могу да виде ваше информације или да модификују понашање веб сајта.
 identity-description-active-blocked = { -brand-short-name } је лоцирао делове сајта који нису сигурни. <label data-l10n-name="link">Сазнајте више</label>
+identity-description-active-blocked2 = { -brand-short-name } је лоцирао делове сајта који нису сигурни.
 identity-description-passive-loaded = Веза са овим сајтом није приватна и информације које делите са њим могу видети други.
 identity-description-passive-loaded-insecure = Сајт садржи садржај који није безбедан (као што су слике). <label data-l10n-name="link">Сазнајте више</label>
 identity-description-passive-loaded-mixed = Иако је { -brand-short-name } блокирао неки садржај, још увек има садржаја на странци који није безбедан (као што су слике). <label data-l10n-name="link">Сазнајте више</label>
+identity-description-passive-loaded-insecure2 = Сајт садржи садржај који није безбедан (као што су слике).
+identity-description-passive-loaded-mixed2 = Иако је { -brand-short-name } блокирао неки садржај, још увек има садржаја на странци који није безбедан (као што су слике).
 identity-description-active-loaded = Овај сајт има садржај који није безбедан (попут скрипти) и веза са њим није приватна.
 identity-description-active-loaded-insecure = Информације које делите могу бити виђене од стране осталих (као што су лозинке, поруке, кредитне картице, итд.).
 identity-learn-more =
