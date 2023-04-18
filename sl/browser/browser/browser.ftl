@@ -412,6 +412,7 @@ identity-connection-not-secure-security-view = Niste varno povezani na to stran.
 identity-connection-verified = Varno ste povezani na to stran.
 identity-ev-owner-label = Potrdilo izdano:
 identity-description-custom-root = Mozilla ne prepozna tega izdajatelja digitalnih potrdil. Morda ga je dodal vaš operacijski sistem ali skrbnik. <label data-l10n-name="link">Več o tem</label>
+identity-description-custom-root2 = Mozilla ne prepozna tega izdajatelja digitalnih potrdil. Morda ga je dodal vaš operacijski sistem ali skrbnik.
 identity-remove-cert-exception =
     .label = Odstrani izjemo
     .accesskey = d
