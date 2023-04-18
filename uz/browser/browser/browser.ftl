@@ -281,6 +281,7 @@ identity-connection-not-secure-security-view = Bu saytga ishonchsiz aloqa bilan 
 identity-connection-verified = Bu saytga ishonchli aloqa bilan ulangansiz.
 identity-ev-owner-label = Sertifikat beruvchi:
 identity-description-custom-root = Mozilla bu sertifikat beruvchini tanimaydi. Uni operatsion tizim yoki administratoringiz qoʻshgan boʻlishi mumkin. <label data-l10n-name="link">Batafsil ma’lumot</label>
+identity-description-custom-root2 = Mozilla bu sertifikat beruvchini tanimaydi. Uni operatsion tizim yoki administratoringiz qoʻshgan boʻlishi mumkin.
 identity-remove-cert-exception =
     .label = Istisnoni olib tashlash
     .accesskey = o
