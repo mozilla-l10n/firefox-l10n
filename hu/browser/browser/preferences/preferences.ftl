@@ -1270,6 +1270,9 @@ preferences-doh-enabled-detailed-desc-2 = Csak akkor használja az alapértelmez
 preferences-doh-setting-strict =
     .label = Maximális védelem
     .accesskey = M
+preferences-doh-strict-desc = A { -brand-short-name } mindig biztonságos DNS-t fog használni. A rendszer DNS-ének használata előtt egy biztonsági kockázatra figyelmeztetést fog látni.
+preferences-doh-strict-detailed-desc-1 = Csak a kiválasztott szolgáltató használata
+preferences-doh-strict-detailed-desc-2 = Figyelmeztetés mindig, ha a biztonságos DNS nem érhető el
 
 ## The following strings are used in the Download section of settings
 
