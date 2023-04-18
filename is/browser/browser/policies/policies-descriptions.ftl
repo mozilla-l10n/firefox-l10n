@@ -44,6 +44,7 @@ policy-DisableFormHistory = Ekki muna leitar- og innfyllingarferil.
 policy-DisablePrimaryPasswordCreation = Ef satt, er ekki hægt að búa til aðallykilorð.
 policy-DisablePasswordReveal = Ekki leyfa birtingu lykilorða í vistuðum innskráningum.
 policy-DisablePocket = Slökkva á valkostinum til að geyma vefsíður í Pocket.
+policy-DisablePocket2 = Slökkva á valkostinum til að geyma vefsíður í { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Gera huliðsvafur óvirkt.
 policy-DisableProfileImport = Slökkva á valmyndinni til að flytja inn gögn úr öðrum vafra.
 policy-DisableProfileRefresh = Slökkva á Endurhlaða { -brand-short-name } takkanum á about:support siðunni.
