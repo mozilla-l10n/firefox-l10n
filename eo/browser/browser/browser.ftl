@@ -410,6 +410,7 @@ identity-connection-not-secure-security-view = Vi ne estas sekure konektita al t
 identity-connection-verified = Vi estas sekure konektita al tiu ĉi retejo.
 identity-ev-owner-label = Atestilo eldonita por:
 identity-description-custom-root = Mozilla ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto. <label data-l10n-name="link">Pli da informo</label>
+identity-description-custom-root2 = Mozilla ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto.
 identity-remove-cert-exception =
     .label = Forigi escepton
     .accesskey = F
