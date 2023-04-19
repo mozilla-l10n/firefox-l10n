@@ -1120,6 +1120,11 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = ساناد روی HTTPS
+preferences-doh-description = سامانهٔ نام دامنه (ساناد) روی HTTPS درخواست شما برای نام دامنه را از طریق اتصال رمزگذاشته می‌فرستد، سانادی ایمن ایجاد می‌کند و مشاهدهٔ وبگاه‌هایی که بازدید می‌کنید را برای دیگران سخت‌تر می‌کند.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = فراهم‌کننده: { $name }
 
 ## The following strings are used in the Download section of settings
 
