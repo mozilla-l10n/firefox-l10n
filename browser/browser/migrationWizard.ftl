@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Yr Hen Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Cyfrineiriau o ffeil CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Ffefrynnau
 migration-logins-and-passwords-option-label = Mewngofnodion a chyfrineiriau a gadwyd
 migration-history-option-label = Hanes pori
 migration-form-autofill-option-label = Data awtolenwi ffurflenni
+migration-passwords-from-file-progress-header = Mewnforio Ffeil Cyfrineiriau
+migration-passwords-from-file-success-header = Cyfrineiriau wedi'u Mewnforio'n Llwyddiannus
+migration-passwords-from-file = Yn gwirio ffeil am gyfrineiriau
+migration-passwords-new = Cyfrineiriau newydd
+migration-passwords-updated = Cyfrineiriau presennol
+migration-passwords-from-file-picker-title = Mewnforio Ffeil Cyfrineiriau
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,37 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dogfen TSV
        *[other] Ffeil TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [zero] { $newEntries } wedi'u hychwanegu
+        [one] { $newEntries } wedi'i ychwanegu
+        [two] { $newEntries } wedi'u hychwanegu
+        [few] { $newEntries } wedi'u hychwanegu
+        [many] { $newEntries } wedi'u hychwanegu
+       *[other] { $newEntries } wedi'u hychwanegu
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [zero] { $updatedEntries } wedi'u diweddaru
+        [one] { $updatedEntries } wedi'i ddiweddaru
+        [two] { $updatedEntries } wedi'u diweddaru
+        [few] { $updatedEntries } wedi'u diweddaru
+        [many] { $updatedEntries } wedi'u diweddaru
+       *[other] { $updatedEntries } wedi'u diweddaru
+    }
 migration-import-button-label = Mewnforio
+migration-choose-to-import-from-file-button-label = Mewnforio o Ffeil
+migration-import-from-file-button-label = Dewis Ffeil
 migration-cancel-button-label = Diddymu
 migration-done-button-label = Gorffen
 migration-wizard-import-browser-no-browsers = Nid yw { -brand-short-name } wedi gallu dod o hyd i unrhyw raglenni sy'n cynnwys data nod tudalen, hanes neu gyfrinair.

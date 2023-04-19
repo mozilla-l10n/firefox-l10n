@@ -55,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Ymlaen
     .tooltip = Ymlaen (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Gosodiadau isdeitlau
 pictureinpicture-subtitles-label = Is-deitlau
 pictureinpicture-font-size-label = Maint ffont
 pictureinpicture-font-size-small = Bach

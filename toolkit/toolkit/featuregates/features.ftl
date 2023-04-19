@@ -12,6 +12,7 @@ experimental-features-css-masonry-description = Yn galluogi cefnogaeth i nodwedd
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Mae'r API newydd hwn yn darparu cefnogaeth lefel isel ar gyfer perfformio cyfrifiant a rendro graffeg gan ddefnyddio <a data-l10n-name="wikipedia">Uned Prosesu Graffeg (GPU)</a> dyfais neu gyfrifiadur y defnyddiwr. Mae'r <a data-l10n-name="spec">fanyleb </a> yn dal i fod yn waith ar y gweill. Gweler <a data-l10n-name="bugzilla">bug 1602129</a> am fwy o fanylion.
+experimental-features-web-gpu-description3 = Mae <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> yn darparu cymorth lefel isel ar gyfer cyflawni rendrad cyfrifiant a graffeg gan ddefnyddio'r <a data-l10n-name="wikipedia-gpu">Prosesu Graffeg Uned (GPU)</a> o ddyfais neu gyfrifiadur y defnyddiwr. Mae fersiwn cyntaf y <a data-l10n-name="spec">fanyleb</a> bron â chael ei gwblhau. Gweler <a data-l10n-name="bugzilla">bug 1616739</a> am ragor o fanylion.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
