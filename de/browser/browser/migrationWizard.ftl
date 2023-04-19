@@ -57,6 +57,9 @@ migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Passwörter
 migration-history-option-label = Chronik
 migration-form-autofill-option-label = Daten für Formular-Autovervollständigung
+migration-passwords-from-file-success-header = Passwörter erfolgreich importiert
+migration-passwords-new = Neue Passwörter
+migration-passwords-updated = Bestehende Passwörter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -70,6 +73,26 @@ migration-passwords-from-file-tsv-filter-title =
     { PLATFORM() ->
         [macos] TSV-Dokument
        *[other] TSV-Datei
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } hinzugefügt
+       *[other] { $newEntries } hinzugefügt
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } aktualisiert
+       *[other] { $updatedEntries } aktualisiert
     }
 migration-import-button-label = Importieren
 migration-cancel-button-label = Abbrechen
