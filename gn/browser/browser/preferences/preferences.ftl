@@ -1251,6 +1251,9 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Ñemoã ijypyguáva
     .accesskey = D
+preferences-doh-setting-enabled =
+    .label = Ñemo’ã Tuichavéva
+    .accesskey = I
 preferences-doh-enabled-detailed-desc-1 = Eipuru me’ẽhára poravopyre
 preferences-doh-setting-strict =
     .label = Ñemo’ã tuichavéva
@@ -1260,6 +1263,11 @@ preferences-doh-strict-detailed-desc-2 = Emombe’úke pe DNS hekorosãva ndoik�
 preferences-doh-setting-off =
     .label = Mboguepyre
     .accesskey = O
+preferences-doh-off-desc = Eipuru DNS rekochaukaha ijypykuéva
+preferences-doh-select-resolver = Eiporavo me’ẽha:
+preferences-doh-manage-exceptions =
+    .label = Eñangareko oĩ’ỹva…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
