@@ -57,6 +57,12 @@ migration-favorites-option-label = ລາຍການທີ່ມັກ
 migration-logins-and-passwords-option-label = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 migration-history-option-label = ປະຫວັດການທ່ອງເວັບ
 migration-form-autofill-option-label = ຕື່ມຂໍ້ມູນໃສ່ແບບຟອມອັດຕະໂນມັດ
+migration-passwords-from-file-progress-header = ນໍາເຂົ້າໄຟລ໌ລະຫັດຜ່ານ
+migration-passwords-from-file-success-header = ນຳເຂົ້າລະຫັດຜ່ານສຳເລັດແລ້ວ
+migration-passwords-from-file = ກຳລັງກວດສອບໄຟລ໌ລະຫັດຜ່ານ
+migration-passwords-new = ລະຫັດຜ່ານໃໝ່
+migration-passwords-updated = ລະຫັດຜ່ານທີ່ມີຢູ່
+migration-passwords-from-file-picker-title = ນໍາເຂົ້າໄຟລ໌ລະຫັດຜ່ານ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +77,21 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] ໄຟລ໌ CSV
        *[other] ໄຟລ໌ CSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords = ເພີ່ມ { $newEntry } ແລ້ວ
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords = ອັບເດດ { $updatedEntry } ແລ້ວ
 migration-import-button-label = ນຳເຂົ້າ
+migration-choose-to-import-from-file-button-label = ນໍາເຂົ້າຈາກໄຟລ໌
+migration-import-from-file-button-label = ເລືອກ File
 migration-cancel-button-label = ຍົກເລີກ
 migration-done-button-label = ສຳເລັດ
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ບໍ່ສາມາດຊອກຫາໂປຣແກຣມໃດໆທີ່ມີບຸກມາກ, ປະຫວັດ ຫຼືຂໍ້ມູນລະຫັດຜ່ານ.
