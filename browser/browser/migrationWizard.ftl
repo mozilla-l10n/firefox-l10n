@@ -104,6 +104,7 @@ migration-import-from-file-button-label = Velg fil
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kunne ikke finne noen programmer som inneholder bokmerke-, historikk- eller passorddata.
+migration-wizard-import-browser-no-resources = Det oppstod et problem. { -brand-short-name } finner ingen data å importere fra den nettleserprofilen.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -111,6 +112,21 @@ migration-wizard-import-browser-no-browsers = { -brand-short-name } kunne ikke f
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = bokmerker
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = favoritter
+migration-list-password-label = passord
+migration-list-history-label = historikk
+migration-list-autofill-label = autofylldata
 
 ##
 
+migration-wizard-progress-header = Importerer data
+migration-wizard-progress-done-header = Data importert
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importerer…
+migration-wizard-progress-icon-completed =
+    .aria-label = Fullført
+migration-safari-password-import-header = Importer passord fra Safari
+migration-safari-password-import-steps-header = Slik importerer du Safari-passord:
