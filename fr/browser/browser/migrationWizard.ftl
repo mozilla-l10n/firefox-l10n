@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (anciennes versions)
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Mots de passe depuis un fichier CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -58,6 +59,11 @@ migration-logins-and-passwords-option-label = Identifiants et mots de passe enre
 migration-history-option-label = Historique de navigation
 migration-form-autofill-option-label = Données de remplissage automatique des formulaires
 migration-passwords-from-file-progress-header = Importer un fichier de mots de passe
+migration-passwords-from-file-success-header = Mots de passe correctement importés
+migration-passwords-from-file = Recherche des mots de passe dans le fichier
+migration-passwords-new = Nouveaux mots de passe
+migration-passwords-updated = Mots de passe existants
+migration-passwords-from-file-picker-title = Importer un fichier de mots de passe
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -72,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Document TSV
        *[other] Fichier TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } ajouté
+       *[other] { $newEntries } ajoutés
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } mis à jour
+       *[other] { $updatedEntries } mis à jour
+    }
 migration-import-button-label = Importer
+migration-choose-to-import-from-file-button-label = Importer depuis un fichier
+migration-import-from-file-button-label = Sélectionner un fichier
 migration-cancel-button-label = Annuler
 migration-done-button-label = Terminé
 migration-wizard-import-browser-no-browsers = { -brand-short-name } n’a trouvé aucun programme contenant des données de marque-pages, d’historique ou de mots de passe.
