@@ -140,6 +140,8 @@ about-webrtc-remote-send-ssrc = Tuzzna tanmeggagt SSRC
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = Sken tawila
+about-webrtc-pc-configuration-hide-msg = Ffer tawila
 
 ##
 
