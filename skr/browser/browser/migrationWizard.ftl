@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = مائیکروسافٹ ع
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = CSV فائل کنوں پاس ورڈز
 migration-wizard-migrator-display-name-ie = Microsoft انٹرنیٹ ایکسپلورر
 migration-wizard-migrator-display-name-opera = اوپیرا
 migration-wizard-migrator-display-name-opera-gx = اوپرا جی ایکس
@@ -57,6 +58,12 @@ migration-favorites-option-label = من بھان٘دے
 migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
 migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
+migration-passwords-from-file-progress-header = پاس ورڈز فائل امپورٹ کرو
+migration-passwords-from-file-success-header = پاس ورڈز کامیابی نال امپورٹ تھی آئے
+migration-passwords-from-file = پاس ورڈاں کیتے فائل دی پڑتال کریندا پئے
+migration-passwords-new = نویں پاس ورڈز
+migration-passwords-updated = موجود پاس ورڈز
+migration-passwords-from-file-picker-title = پاس ورڈز فائل امپورٹ کرو
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV دستاویز
        *[other] TSV فائل
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } شامل تھیا
+       *[other] { $newEntries } شامل تھئے
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } اپ ڈیٹ تھیا
+       *[other] { $updatedEntries } اپ ڈیٹ تھئے
+    }
 migration-import-button-label = درآمد کرو
+migration-choose-to-import-from-file-button-label = فائل کنوں امپورٹ کرو
+migration-import-from-file-button-label = فائل چݨو
 migration-cancel-button-label = منسوخ
 migration-done-button-label = تھی ڳیا
 migration-wizard-import-browser-no-browsers = { -brand-short-name } کوئی اینجھے پروگرام کائنی لبھ سڳا جیندے وچ نشانی، تاریخ یا پاس ورڈ ڈیٹا شامل ہووے۔
