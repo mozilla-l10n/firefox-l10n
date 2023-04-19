@@ -130,3 +130,4 @@ migration-wizard-progress-icon-completed =
     .aria-label = Fullført
 migration-safari-password-import-header = Importer passord fra Safari
 migration-safari-password-import-steps-header = Slik importerer du Safari-passord:
+migration-safari-password-import-step1 = I Safari, åpne «Safari»-menyen og gå til Innstillinger > Passord
