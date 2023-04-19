@@ -82,13 +82,13 @@ migration-passwords-from-file-tsv-filter-title =
 #
 # Variables:
 #  $newEntries (Number): the number of new successfully imported passwords
-migration-wizard-progress-success-new-passwords = ເພີ່ມ { $newEntry } ແລ້ວ
+migration-wizard-progress-success-new-passwords = ເພີ່ມ { $newEntries } ແລ້ວ
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
-migration-wizard-progress-success-updated-passwords = ອັບເດດ { $updatedEntry } ແລ້ວ
+migration-wizard-progress-success-updated-passwords = ອັບເດດ { $updatedEntries } ແລ້ວ
 migration-import-button-label = ນຳເຂົ້າ
 migration-choose-to-import-from-file-button-label = ນໍາເຂົ້າຈາກໄຟລ໌
 migration-import-from-file-button-label = ເລືອກ File
