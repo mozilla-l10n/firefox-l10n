@@ -59,6 +59,11 @@ migration-logins-and-passwords-option-label = Puruhára ha ñe’ẽñemi ñonga
 migration-history-option-label = Kundaha rembiasakue
 migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva
 migration-passwords-from-file-progress-header = Marandurenda ñemba’egueru ñe’ẽñemi
+migration-passwords-from-file-success-header = Ñe’ẽñemi Ñemba’egueru Porã
+migration-passwords-from-file = Aheka ñe’ẽñemi marandurendápe
+migration-passwords-new = Ñe’ẽñemi pyahu
+migration-passwords-updated = Ñe’ẽñemi oĩmavavoi
+migration-passwords-from-file-picker-title = Marandurenda ñemba’egueru ñe’ẽñemi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -73,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV Kuatiaite
        *[other] TSV Marandurenda
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } juajupyre
+       *[other] { $newEntries } juajupyre
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } hekopyahupyre
+       *[other] { $updatedEntries } hekopyahupyre
+    }
 migration-import-button-label = Mba’egueru
+migration-choose-to-import-from-file-button-label = Marandurendágui jegueru
+migration-import-from-file-button-label = Eiporavo Marandurenda
 migration-cancel-button-label = Heja
 migration-done-button-label = Apopyre
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ndojuhúi apopyre orekóva mba’ekuaarã techaukaha, tembiasakue térã ñe’ẽñemi rehegua.
