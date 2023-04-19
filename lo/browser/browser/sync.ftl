@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-toolbar-sync-syncing2 = ກຳລັງ sync…
 sync-disconnect-dialog-title2 = ຕັດການເຊື່ອມຕໍ່?
 sync-disconnect-dialog-body = { -brand-product-name } ຈະຢຸດການຊິງຄ໌ບັນຊີຂອງທ່ານແຕ່ຈະບໍ່ລຶບຂໍ້ມູນການທ່ອງເວັບໃດໆຂອງທ່ານໃນອຸປະກອນນີ້.
 sync-disconnect-dialog-button = ຕັດການເຊື່ອມຕໍ່
