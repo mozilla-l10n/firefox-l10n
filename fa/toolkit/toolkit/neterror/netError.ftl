@@ -43,6 +43,8 @@ neterror-captive-portal = شما باستی در ابتدا وارد این شب
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } نمی‌تواند درخواست‌های شما برای نشانی این پایگاه را از طریق حل‌کنندهٔ ساناد معتمد ما محافظت کند. به این دلیل:
+neterror-dns-not-found-trr-third-party-warning = می‌توانید با یک حل‌کنندهٔ ساناد ناامن ادامه دهید. با این حال، ممکن است یک سوم‌شخص قادر به مشاهدهٔ وبگاهی که بازدید می‌کنید باشد.
 
 ## Native fallback specific messages
 ## Variables:

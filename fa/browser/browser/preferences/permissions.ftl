@@ -210,3 +210,6 @@ permissions-site-microphone-disable-desc = این امکان درخواست اج
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-exceptions-doh-window =
+    .title = وبگاه‌های مستثنا برای ساناد روی HTTPS
+    .style = { permissions-window2.style }

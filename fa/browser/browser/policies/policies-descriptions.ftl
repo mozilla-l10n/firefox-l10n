@@ -34,7 +34,7 @@ policy-DisablePocket2 = ویژگی ذخیره کردن صفحات وب در { -p
 policy-DisablePrivateBrowsing = مرور ناشناس را غیرفعال کن.
 policy-DisableProfileImport = دستور ورود داده از مرورگرهای دیگر در منو را غیرفعال کن.
 policy-DisableProfileRefresh = کلید راه‌اندازی مجدد { -brand-short-name } را در صفحه about:support غیرفعال کن.
-policy-DNSOverHTTPS = پیکربندی DNS بر روی HTTPS.
+policy-DNSOverHTTPS = پیکربندی ساناد روی HTTPS.
 policy-DontCheckDefaultBrowser = غیر فعال کردن بررسی مرورگر پیش‌فرض در هنگام راه اندازی
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
