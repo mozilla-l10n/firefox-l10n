@@ -1251,6 +1251,7 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Ñemoã ijypyguáva
     .accesskey = D
+preferences-doh-default-detailed-desc-3 = Eipuru me’ẽhara ag̃uigua ikatúramo
 preferences-doh-setting-enabled =
     .label = Ñemo’ã Tuichavéva
     .accesskey = I
