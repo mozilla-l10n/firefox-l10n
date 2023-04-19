@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = وقفہ
-    .title = وقفہ ݙیوو (سپیس بار)
-pictureinpicture-play-cmd =
-    .aria-label = چلاؤ
-    .title = چلاؤ (سپیس بار)
-pictureinpicture-mute-cmd =
-    .aria-label = خاموشی
-    .title = خاموش کرو ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = خاموشی ختم کرو
-    .title = خاموشی ختم کرو ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = ٹیب تے واپس بھیڄو
-    .title = ٹیب تے واپس
-pictureinpicture-close-cmd =
-    .aria-label = بند کرو
-    .title = بند کرو ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = سب ٹائٹلز
-    .title = سب ٹائٹلز
 pictureinpicture-pause-btn =
     .aria-label = وقفہ
     .tooltip = وقفہ (سپیس بار)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = پوری سکرین
-    .title = پوری سکرین (ڈبل کلک)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = پوری سکرین کنوں نکلو
-    .title = پوری سکرین کنوں نکلو (ڈبل کلک)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = پچھوں تے
-    .title = پچھوں تے (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = اڳوں تے
-    .title = اڳوں تے (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = پوری سکرین
     .tooltip = پوری سکرین (ڈبل کلک)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = اڳوں تے
     .tooltip = اڳوں تے (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = ذیلی عنوانات ترتیباں
 pictureinpicture-subtitles-label = سب ٹائٹلز
 pictureinpicture-font-size-label = فونٹ سائز
 pictureinpicture-font-size-small = چھوٹا
