@@ -24,8 +24,8 @@ experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Việc bổ sung một hàm tạo vào giao diện <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> cũng như một loạt các thay đổi liên quan giúp có thể trực tiếp tạo các bảng định kiểu mới mà không cần phải thêm trang tính vào HTML. Điều này giúp tạo các biểu định kiểu có thể tái sử dụng dễ dàng hơn nhiều để sử dụng với <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Xem <a data-l10n-name="bugzilla">bug 1520690</a> để biết thêm chi tiết.
 experimental-features-devtools-compatibility-panel =
-    .label = Developer Tools: Compatibility Panel
-experimental-features-devtools-compatibility-panel-description = Một bảng điều khiển bên lề cho Trình kiểm tra trang cho bạn thông tin chi tiết về trạng thái tương thích trình duyệt chéo của ứng dụng của bạn. Xem <a data-l10n-name="bugzilla">bug 1584464</a> để biết thêm chi tiết.
+    .label = Công cụ dành cho nhà phát triển: Bảng tương thích
+experimental-features-devtools-compatibility-panel-description = Một bảng điều khiển bên lề trong thẻ Trình kiểm tra cho bạn thông tin chi tiết về trạng thái tương thích đa trình duyệt của ứng dụng của bạn. Xem <a data-l10n-name="bugzilla">bug 1584464</a> để biết thêm chi tiết.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=Lax theo mặc định
@@ -51,7 +51,7 @@ experimental-features-devtools-serviceworker-debugger-support =
 experimental-features-devtools-serviceworker-debugger-support-description = Cho phép hỗ trợ thử nghiệm Service Workers trong thẻ Trình gỡ lỗi. Tính năng này có thể làm chậm Công cụ dành cho nhà phát triển và tăng mức tiêu thụ bộ nhớ.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
-    .label = WebRTC Global Mute Toggles
+    .label = Công tắc tắt tiếng toàn bộ WebRTC
 experimental-features-webrtc-global-mute-toggles-description = Thêm điều khiển cho WebRTC global sharing indicator để cho phép người dùng tắt tiếng micrô và máy ảnh của họ.
 # JS JIT Warp project
 experimental-features-js-warp =
