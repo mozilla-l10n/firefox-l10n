@@ -981,10 +981,10 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Уменьшение числа уведомлений о куках
-cookie-banner-handling-description = { -brand-short-name } автоматически пытается отклонить запросы кук на уведомлениях о куках на поддерживаемых сайтах.
+cookie-banner-handling-description = { -brand-short-name } будет автоматически пытаться отклонять запросы на сохранение кук в уведомлениях о куках на поддерживаемых сайтах.
 cookie-banner-learn-more = Подробнее
 forms-handle-cookie-banners =
-    .label = Уменьшение числа уведомлений о куках
+    .label = Уменьшить число уведомлений о куках
 
 ## Privacy Section - Address Bar
 
