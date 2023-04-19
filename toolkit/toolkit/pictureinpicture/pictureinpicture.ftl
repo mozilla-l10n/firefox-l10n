@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pause
-    .title = Pause (mellomrom)
-pictureinpicture-play-cmd =
-    .aria-label = Spill av
-    .title = Spill av (mellomrom)
-pictureinpicture-mute-cmd =
-    .aria-label = Lyd av
-    .title = Lyd av ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Lyd på
-    .title = Lyd på ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Send tilbake til fanen
-    .title = Tilbake til fanen
-pictureinpicture-close-cmd =
-    .aria-label = Lukk
-    .title = Lukk ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Undertekster
-    .title = Undertekster
 pictureinpicture-pause-btn =
     .aria-label = Pause
     .tooltip = Pause (mellomrom)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Fullskjerm
-    .title = Fullskjerm (dobbeltklikk)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Avslutt fullskjerm
-    .title = Avslutt fullskjerm (dobbeltklikk)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Tilbake
-    .title = Tilbake (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Frem
-    .title = Frem (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Fullskjerm
     .tooltip = Fullskjerm (dobbeltklikk)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Frem
     .tooltip = Frem (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Innstillinger for undertekster
 pictureinpicture-subtitles-label = Undertekster
 pictureinpicture-font-size-label = Skriftstørrelse
 pictureinpicture-font-size-small = Liten

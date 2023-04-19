@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Importer nettleserdata
+migration-wizard-selection-list = Velg data du vil importere.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -34,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Passord fra CSV-fil
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -42,9 +44,22 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Importer alle tilgjengelige data
+migration-no-selected-data-label = Ingen data er valgt for import
+migration-selected-data-label = Importer valgte data
 
 ##
 
+migration-select-all-option-label = Merk alle
+migration-bookmarks-option-label = Bokmerker
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Favoritter
+migration-logins-and-passwords-option-label = Lagrede innlogginger og passord
+migration-history-option-label = Nettleserhistorikk
+migration-form-autofill-option-label = Autofylldata for skjema
+migration-passwords-from-file-progress-header = Importer passordfil
+migration-passwords-from-file-success-header = Passord ble importert
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
