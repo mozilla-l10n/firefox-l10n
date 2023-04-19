@@ -10,7 +10,7 @@ pictureinpicture-play =
 pictureinpicture-mute =
     .aria-label = Искљ. звук
 pictureinpicture-unmute =
-    .aria-label = Пусти тон
+    .aria-label = Укључи звук
 pictureinpicture-unpip =
     .aria-label = Врати на картицу
 pictureinpicture-close =
@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Пауза
-    .title = Пауза (типка за размак)
-pictureinpicture-play-cmd =
-    .aria-label = Репродукција
-    .title = Репродукција (типка за размак)
-pictureinpicture-mute-cmd =
-    .aria-label = Искључи звук
-    .title = Искључи звук ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Укључи звук
-    .title = Укључи звук ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Пошаљи назад у језичак
-    .title = Врати на језичак
-pictureinpicture-close-cmd =
-    .aria-label = Затвори
-    .title = Затвори ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Титлови
-    .title = Титлови
 pictureinpicture-pause-btn =
     .aria-label = Пауза
     .tooltip = Пауза (типка за размак)
@@ -59,23 +38,11 @@ pictureinpicture-close-btn =
     .aria-label = Затвори
     .tooltip = Затвори ({ $shortcut })
 pictureinpicture-subtitles-btn =
-    .aria-label = Титлови
-    .tooltip = Титлови
+    .aria-label = Поднаслови
+    .tooltip = Поднаслови
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Цео екран
-    .title = Цео екран (дупли клик)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Изађи из целог екрана
-    .title = Изађи из целог екрана (дупли клик)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Уназад
-    .title = Уназад (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Напред
-    .title = Напред (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Цео екран
     .tooltip = Цео екран (дупли клик)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Напред
     .tooltip = Напред (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Подешавања поднаслова
 pictureinpicture-subtitles-label = Поднаслови
 pictureinpicture-font-size-label = Величина фонта
 pictureinpicture-font-size-small = Мала
