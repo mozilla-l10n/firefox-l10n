@@ -60,6 +60,7 @@ migration-history-option-label = Historial de navegación
 migration-form-autofill-option-label = Datos de autollenado de formularios
 migration-passwords-from-file-progress-header = Importar archivo de contraseñas
 migration-passwords-from-file-success-header = Contraseñas importadas exitosamente
+migration-passwords-from-file = Buscando contraseñas en el archivo
 migration-passwords-new = Contraseñas nuevas
 migration-passwords-updated = Contraseñas existentes
 migration-passwords-from-file-picker-title = Importar archivo de contraseñas
@@ -77,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] Archivo TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } agregada
+       *[other] { $newEntries } agregadas
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } actualizada
+       *[other] { $updatedEntries } actualizadas
+    }
 migration-import-button-label = Importar
+migration-choose-to-import-from-file-button-label = Importar desde archivo
+migration-import-from-file-button-label = Seleccionar archivo
 migration-cancel-button-label = Cancelar
 migration-done-button-label = Listo
 migration-wizard-import-browser-no-browsers = { -brand-short-name } no pudo encontrar ningún programa que contenga datos de marcadores, historial o contraseñas.
