@@ -45,11 +45,22 @@ neterror-captive-portal = شما باستی در ابتدا وارد این شب
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } نمی‌تواند درخواست‌های شما برای نشانی این پایگاه را از طریق حل‌کنندهٔ ساناد معتمد ما محافظت کند. به این دلیل:
 neterror-dns-not-found-trr-third-party-warning = می‌توانید با یک حل‌کنندهٔ ساناد ناامن ادامه دهید. با این حال، ممکن است یک سوم‌شخص قادر به مشاهدهٔ وبگاهی که بازدید می‌کنید باشد.
+neterror-dns-not-found-trr-third-party-warning2 = می‌توانید با حل‌کنندهٔ ساناد پیش‌فرض‌تان ادامه دهید. با این حال، ممکن است یک سوم‌شخص قادر به مشاهدهٔ وبگاهی که بازدید می‌کنید باشد.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } قادر به اتصال به { $trrDomain } نیست.
+neterror-dns-not-found-trr-only-timeout = اتصال به { $trrDomain } بیش‌تر از آن‌چه انتظار می‌رفت، طول کشید.
+neterror-dns-not-found-trr-offline = به اینترنت متصل نیستید.
+neterror-dns-not-found-trr-unknown-host = نشانی‌ای برای این وبگاه توسط { $trrDomain } پیدا نشد.
+neterror-dns-not-found-trr-unknown-host2 = این وبگاه توسط { $trrDomain } پیدا نشد.
+neterror-dns-not-found-trr-server-problem = مشکلی با { $trrDomain } است.
+neterror-dns-not-found-trr-unknown-problem = مشکل ناگهانی.
 
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } نمی‌تواند درخواست‌های شما برای نشانی این پایگاه را از طریق حل‌کنندهٔ ساناد معتمد ما محافظت کند. به این دلیل:
+neterror-dns-not-found-native-fallback-heuristic = ساناد روی HTTPS روی شبکه‌تان از کار افتاده است.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } قادر به اتصال به { $trrDomain } نیست.
 
 ##
 
