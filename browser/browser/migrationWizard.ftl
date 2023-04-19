@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Heslá zo súboru CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Obľúbené položky
 migration-logins-and-passwords-option-label = Uložené prihlasovacie údaje a heslá
 migration-history-option-label = História prehliadania
 migration-form-autofill-option-label = Údaje automatického dopĺňania formulárov
+migration-passwords-from-file-progress-header = Import súboru s heslami
+migration-passwords-from-file-success-header = Heslá boli úspešne importované
+migration-passwords-from-file = Vyhľadávajú sa heslá v súbore
+migration-passwords-new = Nové heslá
+migration-passwords-updated = Existujúce heslá
+migration-passwords-from-file-picker-title = Import súboru s heslami
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,33 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Súbor TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } pridané
+        [few] { $newEntries } pridané
+        [many] { $newEntries } pridaných
+       *[other] { $newEntries } pridaných
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } aktualizované
+        [few] { $updatedEntries } aktualizované
+        [many] { $updatedEntries } aktualizovaných
+       *[other] { $updatedEntries } aktualizovaných
+    }
 migration-import-button-label = Importovať
+migration-choose-to-import-from-file-button-label = Importovať zo súboru
+migration-import-from-file-button-label = Vybrať súbor
 migration-cancel-button-label = Zrušiť
 migration-done-button-label = Hotovo
 migration-wizard-import-browser-no-browsers = { -brand-short-name } nenašiel žiadne programy, ktoré obsahujú údaje o záložkách, histórii prehliadania alebo heslách.
