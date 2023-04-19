@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Mombyta
-    .title = Mombyta (momombyryha)
-pictureinpicture-play-cmd =
-    .aria-label = Mbopu
-    .title = Mbopu (momombyryha)
-pictureinpicture-mute-cmd =
-    .aria-label = Mokirirĩ
-    .title = Mokirirĩ ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Embopu
-    .title = Embopu ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Emondojey tendayképe
-    .title = Ejevyjey tendayképe
-pictureinpicture-close-cmd =
-    .aria-label = Mboty
-    .title = Mboty ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Teratee’i
-    .title = Teratee’i
 pictureinpicture-pause-btn =
     .aria-label = Mombyta
     .tooltip = Mombyta (momombyryha)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Mba’erechaha tuichakue
-    .title = Emboja isaja’ỹre (mokõi jekutu)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Esẽ mba’erechaha tuichavévagui
-    .title = Esẽ mba’erechaha tuichavévagui (mokõi jekutu)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Tapykue
-    .title = Tapykue (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Tenonde
-    .title = Tenonde (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Mba’erechaha tuichakue
     .tooltip = Emboja isaja’ỹre (mokõi jekutu)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Tenonde
     .tooltip = Tenonde (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Teratee’i jeporavorã
 pictureinpicture-subtitles-label = Teratee’i
 pictureinpicture-font-size-label = Tai tuichakue
 pictureinpicture-font-size-small = Michĩva
