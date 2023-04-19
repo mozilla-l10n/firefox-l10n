@@ -66,7 +66,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Asemli TSV
        *[other] Afaylu TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } yettwarnz
+       *[other] { $newEntries } ttwarnan
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } yettwaleqqem
+       *[other] { $updatedEntries } ttwaleqqmen
+    }
 migration-import-button-label = Kter
+migration-choose-to-import-from-file-button-label = Kter seg ufaylu
+migration-import-from-file-button-label = Fren afaylu
 migration-cancel-button-label = Sefsex
 migration-done-button-label = Immed
 
@@ -82,6 +104,7 @@ migration-list-bookmark-label = ticraḍ n isebtar
 migration-list-favorites-label = ismenyifen
 migration-list-password-label = awalen uffiren
 migration-list-history-label = azray
+migration-list-autofill-label = isefka n taččart tawurmant
 
 ##
 
