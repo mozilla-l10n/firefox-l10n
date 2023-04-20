@@ -397,18 +397,26 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Detailěrowane i
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Pomagajśo nam lěpšy web natwariś.
+mr2022-onboarding-gratitude-subtitle = Wjeliki źěk, až { -brand-short-name } wužywaśo, kótaryž se wót załožby Mozilla Foundation spěchujo. Z wašeju pomocu źěłamy na tom, internet wěcej wótwórjony, pśistupny a lěpšy za kuždego cyniś.
 mr2022-onboarding-gratitude-primary-button-label = Cytajśo, což jo nowe
 mr2022-onboarding-gratitude-secondary-button-label = Pśeglědowanje zachopiś
 
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Cujśo se ako doma
+onboarding-infrequent-import-subtitle = Lěc tam wóstawaśo abo jano krotko póbywaśo, njezabywajśo, až móžośo swóje cytańske znamjenja, gronidła a wěcej importěrowaś.
 onboarding-infrequent-import-primary-button = Do { -brand-short-name } importěrowaś
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Wósoba, kótaraž na laptopje źěła, wobdana wót gwězdow a kwětkow
 mr2022-onboarding-default-image-alt =
     .aria-label = Wósoba, kótaraž logo { -brand-product-name } wobejma
 mr2022-onboarding-import-image-alt =
     .aria-label = Wósoba, kótaraž skateboard z tejzu softwarowych symbolow jězdźi
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Žaby pśez łopjena wutkow z QR-kodom skokocoju, aby wy { -brand-product-name } za mobilne rědy we srjejźi
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Guslowaŕski kij dajo se logoju priwatnego modusa { -brand-product-name } z kłobyka zjawiś
