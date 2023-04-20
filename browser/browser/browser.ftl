@@ -161,6 +161,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Pišćo mjenjej, namakajśo wěcej: Pytajśo z { $engineName } direktnje ze swójogo adresowego póla.
 urlbar-search-tips-redirect-2 = Zachopśo swójo pytanje w adresowem pólu, aby naraźenja wót { $engineName } a ze swójeje pśeglědowańskeje historije wiźeł.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Pytanje jo něnto lažčejše. Cyńśo swójo pytanje wěcej specifiske w adresowem pólu. Aby město togo URL pokazał, źiśo k pytańskim nastajenjam.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Wubjeŕśo toś to zwězanje, aby malsnjej namakał, což trjebaśo.
@@ -680,6 +682,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Wobraz we wobrazu wócyniś ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Wobraz we wobrazu zacyniś ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -826,6 +832,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Wótkaz e-mailowaś
     .tooltiptext = Wótkaz na toś ten bok e-mailowaś
+toolbar-button-logins =
+    .label = Gronidła
+    .tooltiptext = Waše skłaźone gronidła pokazaś a zastojaś
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -985,6 +994,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } wašu napšawdnu e-mailowu adresu maskěrujo, aby was pśed datowymi źěrami a spamom šćitał.
 
 ## Popup Notification
 
