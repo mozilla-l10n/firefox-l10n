@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Hesła z CSV-dataje
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Fawority
 migration-logins-and-passwords-option-label = Składowane přizjewjenja a hesła
 migration-history-option-label = Přehladowanska historija
 migration-form-autofill-option-label = Daty za awtomatiske wupjelnjenje formularow
+migration-passwords-from-file-progress-header = Dataju hesłow importować
+migration-passwords-from-file-success-header = Hesła su so wuspěšnje importowali
+migration-passwords-from-file = Dataja za hesła so přepruwuje
+migration-passwords-new = Nowe hesła
+migration-passwords-updated = Eksistowace hesła
+migration-passwords-from-file-picker-title = Dataju hesłow importować
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,33 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-dataja
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } je so přidało
+        [two] { $newEntries } stej so přidałoj
+        [few] { $newEntries } su so přidali
+       *[other] { $newEntries } je so přidało
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } je so zaktualizowało
+        [two] { $updatedEntries } stej so zaktualizowałoj
+        [few] { $updatedEntries } su so zaktualizowali
+       *[other] { $updatedEntries } je so zaktualizowało
+    }
 migration-import-button-label = Importować
+migration-choose-to-import-from-file-button-label = Z dataje importować
+migration-import-from-file-button-label = Dataju wubrać
 migration-cancel-button-label = Přetorhnyć
 migration-done-button-label = Dokónčeny
 migration-wizard-import-browser-no-browsers = { -brand-short-name } njemóžeše programy namakać, kotrež daty zapołožkow, historije abo hesłow wobsahować.
