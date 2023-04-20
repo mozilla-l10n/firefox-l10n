@@ -985,6 +985,10 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Reducěrowanje cookiejowych chórgojow
+cookie-banner-handling-description = { -brand-short-name } awtomatiski wopytujo, cookiejowe napšašowanja za cookiejowymi chórgojami na pódprětych sedłach wótpokazaś.
+cookie-banner-learn-more = Dalšne informacije
+forms-handle-cookie-banners =
+    .label = Cookieje chórgoji reducěrowaś
 
 ## Privacy Section - Address Bar
 
@@ -1125,6 +1129,11 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Nastajenja…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Wuběrk głosnikow
+permissions-speaker-settings =
+    .label = Nastajenja…
+    .accesskey = N
 permissions-notification = Powěźeńki
 permissions-notification-settings =
     .label = Nastajenja…
@@ -1235,18 +1244,48 @@ httpsonly-radio-disabled =
 preferences-doh-header = DNS pśez HTTPS
 preferences-doh-description = System domenowych mjenjow (DNS) pśez HTTPS waše napšašowanje za domenowym mjenim pśez skoděrowane zwisk sćelo, napórajo wěsty DNS a póśěžujo drugim wósobam wiźeś, ku kótarym websedłam se wóglědujośo.
 # Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Status: { $status }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Póbitowaŕ: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Njepłaśiwy URL
+preferences-doh-steering-status = Lokalnego póbitowarja wužywaś
+preferences-doh-status-active = Aktiwny
+preferences-doh-status-disabled = Wušaltowany
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Njeaktiwny ({ $reason })
 preferences-doh-group-message = Wěsty DNS zmóžniś z pomocu:
+preferences-doh-expand-section =
+    .tooltiptext = Dalšne informacije
+preferences-doh-setting-default =
+    .label = Standardny šćit
+    .accesskey = S
 preferences-doh-default-desc = { -brand-short-name } rozsuźujo, gdy wy měł wěsty DNS wužywaś, aby swóju priwatnosć šćitał.
 preferences-doh-default-detailed-desc-1 = Wužywajśo wěsty DNS w regionach, źož jo k dispoziciji
 preferences-doh-default-detailed-desc-2 = Wužywajśo swój standardny DNS-resolwer, jolic dajo problem z póbitowarjom za wěsty DNS
+preferences-doh-default-detailed-desc-3 = Wužywajśo lokalnego póbitowarja, jolic móžno
+preferences-doh-default-detailed-desc-4 = Znjemóžniśo, gaž VPN, kontrola starjejšych abo pśedewześowe směrnice su aktiwne
 preferences-doh-default-detailed-desc-5 = Znjemóžniśo, gaž seś { -brand-short-name } k wěsći dajo, až wón njama wěsty DNS wužywaś
+preferences-doh-setting-enabled =
+    .label = Pówušony šćit
+    .accesskey = P
 preferences-doh-enabled-desc = Kontrolěrujośo, gaž se ma wěsty DNS wužywaś a wuběraśo swójogo póbitowarja.
+preferences-doh-enabled-detailed-desc-1 = Póbitowarja wužywaś, kótaregož sćo wubrał
 preferences-doh-enabled-detailed-desc-2 = Wužywajśo jano swój standardny DNS-resolwer, jolic dajo problem z wěstym DNS
+preferences-doh-setting-strict =
+    .label = Maksimalny šćit
+    .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name } buźo pśecej wěsty DNS wužywaś. Buźośo warnowanje wěstotnego rizika wiźiśo, nježli až waš systemowy DNS wužywamy.
+preferences-doh-strict-detailed-desc-1 = Jano póbitowarja wužywaś, kótaregož sćo wubrał
 preferences-doh-strict-detailed-desc-2 = Pśecej warnowaś, jolic wěsty DNS njejo k dispoziciji
 preferences-doh-strict-detailed-desc-3 = Jolic wěsty DNS njejo k dispoziciji, se sedła njezacytaju abo pórědnje njefunkcioněruju
+preferences-doh-setting-off =
+    .label = Wušaltowany
+    .accesskey = u
 preferences-doh-off-desc = Wužywajśo swój standardny DNS-resolwer
 preferences-doh-checkbox-warn =
     .label = Warnowaś, jolic tśeśi póbitowaŕ wěstemu DNS aktiwnje zajźujo
