@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formulary
 protections-panel-site-not-working-view-issue-list-payments = Płaśenja
 protections-panel-site-not-working-view-issue-list-comments = Komentary
 protections-panel-site-not-working-view-issue-list-videos = Wideo
+protections-panel-site-not-working-view-issue-list-fonts = Pisma
 protections-panel-site-not-working-view-send-report = Rozpšawu pósłaś
 
 ##
@@ -114,6 +115,8 @@ protections-panel-cookie-banner-view-go-back =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Reducěrowanje cookiejowych chórgojow za { $host } znjemóžniś?
 protections-panel-cookie-banner-view-turn-on-for-site = Reducěrowanje cookiejowych chórgojow za toś to sedło zmóžniś?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } cookieje sedła lašujo a buźo bok aktualizěrowaś. Lašowanje wšych cookiejow móžo was pśizjawiś abo nakupowańske wózyki wuprozniś.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } wopytujo wšykne cookiejowe napšašowanja na pódprětych sedłach awtomatiski wótpokazaś.
 protections-panel-cookie-banner-view-cancel = Pśetergnuś
 protections-panel-cookie-banner-view-turn-off = Znjemóžniś
 protections-panel-cookie-banner-view-turn-on = Zmóžniś
