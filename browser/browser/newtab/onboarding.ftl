@@ -13,6 +13,14 @@
 onboarding-welcome-header = Witajće k { -brand-short-name }
 onboarding-start-browsing-button-label = Přehladowanje startować
 onboarding-not-now-button-label = Nic nětko
+mr1-onboarding-get-started-primary-button-label = Prěnje kroki
+mr1-onboarding-welcome-header = Witajće k { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } k primarnemu wobhladowakej činić
+    .title = Nastaja { -brand-short-name } k primarnemu wobhladowakej a připina jón k nadawkowej lajsće
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } k standardnemu wobhladowakej činić
+mr1-onboarding-set-default-secondary-button-label = Nic nětko
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } přidać
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Prěnje kroki: wobrazowka { $current } z { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Postup: krok { $current } z { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Započinamy wottud
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Meblowa designerka, přiwisnica Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Postup: krok { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animacije znjemóžnić
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Prěnje kroki
-mr1-onboarding-welcome-header = Witajće k { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } k primarnemu wobhladowakej činić
-    .title = Nastaja { -brand-short-name } k primarnemu wobhladowakej a připina jón k nadawkowej lajsće
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } k standardnemu wobhladowakej činić
-mr1-onboarding-set-default-secondary-button-label = Nic nětko
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Přizjewić
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -398,7 +397,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Nadrobne informa
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Pomhaće nam lěpši web natwarić.
-mr2022-onboarding-gratitude-subtitle = Wulki dźak, zo sće { -brand-short-name } wužiwaće, kotryž so wot załožby Mozilla Foundation spěchuje. Z wašej pomocu dźěłamy na tym, internet bóle wotewrjeny, přistupny a lěpši za kóždeho činić.
+mr2022-onboarding-gratitude-subtitle = Wulki dźak, zo { -brand-short-name } wužiwaće, kotryž so wot załožby Mozilla Foundation spěchuje. Z wašej pomocu dźěłamy na tym, internet bóle wotewrjeny, přistupny a lěpši za kóždeho činić.
 mr2022-onboarding-gratitude-primary-button-label = Čitajće, štož je nowe
 mr2022-onboarding-gratitude-secondary-button-label = Přehladowanje započeć
 
@@ -418,7 +417,7 @@ mr2022-onboarding-default-image-alt =
 mr2022-onboarding-import-image-alt =
     .aria-label = Wosoba, kotraž skateboard z tyzu softwarowych symbolow jězdźi
 mr2022-onboarding-mobile-download-image-alt =
-    .aria-label = Žaby přez Łopjena bónčawow z QR-kodom skakotaja, zo byšće { -brand-product-name } za mobilne graty wosrjedźa
+    .aria-label = Žaby přez łopjena bónčawow z QR-kodom skakotaja, zo byšće { -brand-product-name } za mobilne graty wosrjedźa
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Kuzłoprut da so logu priwatneho modusa { -brand-product-name } z kłobuka jewić
 mr2022-onboarding-privacy-segmentation-image-alt =
