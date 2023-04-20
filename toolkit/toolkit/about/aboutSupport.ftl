@@ -295,6 +295,8 @@ webgl2-renderer = WebGL 2 - kreslak gónjaka
 webgl2-version = WebGL 2 - wersija gónjaka
 webgl2-driver-extensions = WebGL 2 - rozšyrjenja gónjaka
 webgl2-extensions = WebGL 2 - rozšyrjenja
+webgpu-default-adapter = Standardny adapter WebGPU
+webgpu-fallback-adapter = Adapter fallback WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = W blokěrowańskej lisćinje znatych problemow dla: <a data-l10n-name="bug-link">programowa zmólka { $bugNumber }</a>
