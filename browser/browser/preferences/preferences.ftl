@@ -1130,7 +1130,7 @@ permissions-microphone-settings =
     .label = Nastajenja…
     .accesskey = t
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = Wuběr wótřerěčaka
+permissions-speaker = Wuběr wótřerěčakow
 permissions-speaker-settings =
     .label = Nastajenja…
     .accesskey = t
