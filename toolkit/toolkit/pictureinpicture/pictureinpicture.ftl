@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Παύση
-    .title = Παύση (Spacebar)
-pictureinpicture-play-cmd =
-    .aria-label = Αναπαραγωγή
-    .title = Αναπαραγωγή (Spacebar)
-pictureinpicture-mute-cmd =
-    .aria-label = Σίγαση
-    .title = Σίγαση ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Άρση σίγασης
-    .title = Άρση σίγασης ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Αποστολή πίσω στην καρτέλα
-    .title = Πίσω στην καρτέλα
-pictureinpicture-close-cmd =
-    .aria-label = Κλείσιμο
-    .title = Κλείσιμο ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Υπότιτλοι
-    .title = Υπότιτλοι
 pictureinpicture-pause-btn =
     .aria-label = Παύση
     .tooltip = Παύση (Spacebar)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Πλήρης οθόνη
-    .title = Πλήρης οθόνη (διπλό κλικ)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Έξοδος από πλήρη οθόνη
-    .title = Έξοδος από πλήρη οθόνη (διπλό κλικ)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Πίσω
-    .title = Πίσω (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Εμπρός
-    .title = Εμπρός (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Πλήρης οθόνη
     .tooltip = Πλήρης οθόνη (διπλό κλικ)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Εμπρός
     .tooltip = Εμπρός (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Ρυθμίσεις υπότιτλων
 pictureinpicture-subtitles-label = Υπότιτλοι
 pictureinpicture-font-size-label = Μέγεθος γραμματοσειράς
 pictureinpicture-font-size-small = Μικρό
