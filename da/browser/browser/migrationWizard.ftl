@@ -60,6 +60,7 @@ migration-history-option-label = Browserhistorik
 migration-form-autofill-option-label = Data til autofyldning af formularer
 migration-passwords-from-file-progress-header = Importer fil med adgangskoder
 migration-passwords-from-file-success-header = Adgangskoder blev importeret
+migration-passwords-from-file = Kontrollerer fil for adgangskoder
 migration-passwords-new = Nye adgangskoder
 migration-passwords-updated = Eksisterende adgangskoder
 migration-passwords-from-file-picker-title = Importer fil med adgangskoder
