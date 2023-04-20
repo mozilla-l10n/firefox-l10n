@@ -27,6 +27,7 @@ neterror-try-again-button = Hyšći raz wopytaś
 neterror-add-exception-button = Za toś to sedło pśecej pókšacowaś
 neterror-settings-button = DNS-nastajenja změniś
 neterror-view-certificate-link = Certifikat pokazaś
+neterror-trr-continue-this-time = Toś ten raz pókšacowaś
 neterror-disable-native-feedback-warning = Pśecej pókšacowaś
 
 ##
