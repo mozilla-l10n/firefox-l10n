@@ -995,6 +995,11 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } wašu napšawdnu e-mailowu adresu maskěrujo, aby was pśed datowymi źěrami a spamom šćitał.
+firefox-relay-offer-how-we-integrate = Gaž pókšacujośo, móžośo nowe e-mailowe maski { -relay-brand-short-name } direktnje ze swójogo zastojnika gronidłow { -brand-shorter-name } generěrowaś.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Pósrědnjamy wšykne mejlki wót <strong>{ $sitename }</strong> do <strong>{ $useremail }</strong> dalej.
 
 ## Popup Notification
 
