@@ -223,6 +223,10 @@ firefoxview-spotlight-promo-secondarybutton = Pśeskócyś
 
 colorways-cfr-primarybutton = Barwowu kombinaciju wubraś
     .accesskey = B
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Zabarwiśo swój wobglědowak z ekskluziwnymi barwowymi wósnjami { -brand-short-name }, kótarež su wót głosow inspirěrowane, kótarež su změnili kulturu.
+colorways-cfr-header-28days = Barwowe kombinacije „Njewótwisne głose“  16. januara spadnu
+colorways-cfr-header-14days = Barwowe kombinacije „Njewótwisne głose“  za dwa tyźenja spadnu
 
 ## Cookie Banner Handling CFR
 
