@@ -13,6 +13,14 @@
 onboarding-welcome-header = Witajśo k { -brand-short-name }
 onboarding-start-browsing-button-label = Pśeglědowanje startowaś
 onboarding-not-now-button-label = Nic něnto
+mr1-onboarding-get-started-primary-button-label = Prědne kšace
+mr1-onboarding-welcome-header = Witajśo k { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } k primarnemu wobglědowakoju cyniś
+    .title = Nastaja { -brand-short-name } ako standardny wobglědowak a pśipina jen k nadawkowej rědce
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } k strandardnemu wobglědowakoju cyniś
+mr1-onboarding-set-default-secondary-button-label = Nic něnto
 
 ## Custom Return To AMO onboarding strings
 
@@ -28,6 +36,7 @@ return-to-amo-add-theme-label = Drastwu pśidaś
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Witajśo k { -brand-short-name }
+mr1-return-to-amo-addon-title = Maśo malsny, priwatny wobglědowak k ruce. Něnto móžośo <b>{ $addon-name }</b> pśidaś a hyšći wěcej z { -brand-short-name } cyniś.
 mr1-return-to-amo-add-extension-label = { $addon-name } pśidaś
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -38,14 +47,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } pśidaś
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Prědne kšace: wobrazowka { $current } z { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Póstup: kšac { $current } z { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -59,6 +60,14 @@ mr1-welcome-screen-hero-text = Zachopinamy wót how
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Meblowa designerka, pśiwisaŕka Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Póstup: kšac { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animacije znjemóžniś
 
@@ -81,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Prědne kšace
-mr1-onboarding-welcome-header = Witajśo k { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } k primarnemu wobglědowakoju cyniś
-    .title = Nastaja { -brand-short-name } ako standardny wobglědowak a pśipina jen k nadawkowej rědce
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } k strandardnemu wobglědowakoju cyniś
-mr1-onboarding-set-default-secondary-button-label = Nic něnto
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Pśizjawiś
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -319,6 +319,9 @@ mr2022-onboarding-set-default-subtitle = Wužywajśo wobglědowak, kótaryž se 
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Naša nejnowša wersija jo wokoło was natwarjona, kótaraž wam lažčejše ako do togo cyni, web pśeglědowaś. Jo połny funkcijow, wó kótarychž se myslimy, až se wam spódobaju.
 mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
 
 ## MR2022 Import Settings screen strings
@@ -368,6 +371,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Sćo inowator.</b> Wiźiś
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Skócćo wót laptopa do telefona a zasej slědk
+mr2022-onboarding-mobile-download-subtitle = Wobstarajśo se rejtariki z jadnogo rěda a cyńśo tam dalej, gaž sćo pśestał na drugem rěźe. Mimo togo móžośo swóje cytańske znamjenja a gronidła synchronizěrowaś, źožkuli { -brand-product-name } wužywaśo.
 mr2022-onboarding-mobile-download-cta-text = Scannujśo QR-kod, aby { -brand-product-name } za swój mobilny rěd dostał abo <a data-l10n-name="download-label">sćelśo se ześěgnjeński wótkaz.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skannujśo QR-kod, aby se { -brand-product-name } za mobilny rěd wobstarał.
 
