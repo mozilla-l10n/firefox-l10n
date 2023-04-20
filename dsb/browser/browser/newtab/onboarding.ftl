@@ -424,3 +424,5 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Swětłokóžate a śamnokóžate ruki gromadu klatśaju
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Póglěd na schowanje słyńca z woknom z lišku a śpineju rostlinu na woknowej delce
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Ruka barwojtu collage zelenego wócka, oranžowego crjeja, cerwjenego basketbala, wioletnych nagłownych słuchatkow, módreje wutšoby a žołteje krony
