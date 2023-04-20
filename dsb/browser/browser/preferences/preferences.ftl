@@ -1290,7 +1290,11 @@ preferences-doh-off-desc = Wužywajśo swój standardny DNS-resolwer
 preferences-doh-checkbox-warn =
     .label = Warnowaś, jolic tśeśi póbitowaŕ wěstemu DNS aktiwnje zajźujo
     .accesskey = W
+preferences-doh-select-resolver = Wubjeŕśo póbitowarja:
 preferences-doh-exceptions-description = { -brand-short-name } njebuźo wěsty DNS na toś tych sedłach wužywaś
+preferences-doh-manage-exceptions =
+    .label = Wuwześa zastojaś…
+    .accesskey = z
 
 ## The following strings are used in the Download section of settings
 
