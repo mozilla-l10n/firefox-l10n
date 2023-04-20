@@ -135,3 +135,63 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Gronidła ze Safari importěrowaś
 migration-safari-password-import-steps-header = Aby gronidła ze Safari importěrował:
 migration-safari-password-import-step1 = Wócyńśo meni „Safari“ w Safari a pśejźćo k Einstellungen > Passwörter (Nastajenja > Gronidła)
+migration-safari-password-import-step2 = Wubjeŕśo tłocašk <img data-l10n-name="safari-icon-3dots"/> a wubjeŕśo „Alle Passwörter exportieren“
+migration-safari-password-import-step3 = Dataju gronidłow składowaś
+migration-safari-password-import-step4 = Wubjeŕśo „Dataju wubraś“ dołojce, aby dataju gronidłow wubrał, kótaruž sćo składł
+migration-safari-password-import-skip-button = Pśeskócyś
+migration-safari-password-import-select-button = Dataju wubraś
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } cytańske znamje
+        [two] { $quantity } cytańskej znamjeni
+        [few] { $quantity } cytańske znamjenja
+       *[other] { $quantity } cytańskich znamjenjow
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } faworit
+        [two] { $quantity } faworita
+        [few] { $quantity } fawority
+       *[other] { $quantity } faworitow
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } gronidło
+        [two] { $quantity } gronidle
+        [few] { $quantity } gronidła
+       *[other] { $quantity } gronidłow
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Ze slědnego { $maxAgeInDays } dnja
+        [two] Ze slědneju { $maxAgeInDays } dnjowu
+        [few] Ze slědnych { $maxAgeInDays } dnjow
+       *[other] Ze slědnych { $maxAgeInDays } dnjow
+    }
+migration-wizard-progress-success-formdata = Historija formularow
+migration-wizard-safari-permissions-sub-header = Aby cytańske znamjenja a pśeglědowańsku historiju Safari importěrował:
+migration-wizard-safari-instructions-continue = Wubjeŕśo „Pókšacowaś“
+migration-wizard-safari-instructions-folder = Wubjeŕśo zarědnik Safari w lisćinje a pón „Wócyniś“
+migration-wizard-safari-select-button = Dataju wubraś

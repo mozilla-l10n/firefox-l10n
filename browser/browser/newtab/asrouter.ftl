@@ -61,26 +61,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } wužywarjow
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Pšec z cookiejowymi chórgojami!
-cfr-cookie-banner-accept-button = Napšašowanja zachyśiś
-    .accesskey = N
-cfr-cookie-banner-reject-button = Nic něnto
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-1 = Mjenjej cookiejowych wuskokujucych woknow wiźeś
-cfr-cookie-banner-accept-button-variant-1 = Wuskokujuce wokna zachyśiś
-    .accesskey = u
-cfr-cookie-banner-reject-button-variant-1 = Ně, źěkujom se
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Reducěrowanje cookiejowych chórgojow
-cfr-cookie-banner-accept-button-variant-2 = Dowóliś
-    .accesskey = D
-cfr-cookie-banner-reject-button-variant-2 = Nic něnto
-    .accesskey = N
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizěrujśo swóje cytańske znamjenja wšuźi.
@@ -229,6 +209,7 @@ firefoxview-cfr-primarybutton = Wopytajśo jen
 firefoxview-cfr-secondarybutton = Nic něnto
     .accesskey = N
 firefoxview-cfr-header-v2 = Cyńśo tam malsnje dalej, źož sćo pśestał
+firefoxview-cfr-body-v2 = Wobstarajśo se zacynjone rejtariki slědk a pśejźćo mjazy rědami z { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
@@ -245,24 +226,11 @@ colorways-cfr-primarybutton = Barwowu kombinaciju wubraś
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Pšec z cookiejowymi chórgojami!
-cfr-cookiebanner-accept-button-v2 = Napšašowanja wótpokazaś
-    .accesskey = N
-cfr-cookiebanner-reject-button = Nic něnto
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Mjenjej cookiejowych wuskokujucych woknow wiźeś
-cfr-cookiebanner-accept-button-variant-1 = Wuskokujuce wokna zachyśiś
-    .accesskey = u
-cfr-cookiebanner-reject-button-variant-1 = Ně, źěkujom se
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reducěrowanje cookiejowych chórgojow
-cfr-cookiebanner-accept-button-variant-2 = Dowóliś
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-2 = Nic něnto
-    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Smy was zapśimjeli
 july-jam-set-default-primary = Móje wótkaze z { -brand-short-name } wócyniś
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
