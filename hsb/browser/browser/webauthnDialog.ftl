@@ -6,10 +6,10 @@
 #  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-prompt =
     { $retriesLeft ->
-        [0] Wopačny PIN! Prošu zapodajće prawy PIN za waš grat.
-        [one] Wopačny PIN! Prošu zapodajće prawy PIN za waš grat. Maće hišće { $retriesLeft } pospyt.
-        [two] Wopačny PIN! Prošu zapodajće prawy PIN za waš grat. Maće hišće { $retriesLeft } pospytaj.
-        [few] Wopačny PIN! Prošu zapodajće prawy PIN za waš grat. Maće hišće { $retriesLeft } pospyty.
-       *[other] Wopačny PIN! Prošu zapodajće prawy PIN za waš grat. Maće hišće { $retriesLeft } pospytow.
+        [0] Wopačny PIN! Prošu zapodajće prawy PIN za swój grat.
+        [one] Wopačny PIN! Prošu zapodajće prawy PIN za swój grat. Maće hišće { $retriesLeft } pospyt.
+        [two] Wopačny PIN! Prošu zapodajće prawy PIN za swój grat. Maće hišće { $retriesLeft } pospytaj.
+        [few] Wopačny PIN! Prošu zapodajće prawy PIN za swój grat. Maće hišće { $retriesLeft } pospyty.
+       *[other] Wopačny PIN! Prošu zapodajće prawy PIN za swój grat. Maće hišće { $retriesLeft } pospytow.
     }
 webauthn-pin-required-prompt = Prošu zapodajće PIN za swój grat.
