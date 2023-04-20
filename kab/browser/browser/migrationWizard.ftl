@@ -52,6 +52,9 @@ migration-bookmarks-option-label = Ticraḍ n isebtar
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Ismenyifen
 migration-history-option-label = Azray n tunigin
+migration-passwords-new = Awalen uffiren imaynuten
+migration-passwords-updated = Awalen uffiren yellan
+migration-passwords-from-file-picker-title = Kter afaylu n wawalen uffiren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -109,10 +112,13 @@ migration-list-autofill-label = isefka n taččart tawurmant
 ##
 
 migration-wizard-progress-header = Aktar n isefka
+migration-wizard-progress-done-header = Isefka ttwasifḍen-d akken iwata
 migration-wizard-progress-icon-in-progress =
     .aria-label = Aktar…
 migration-wizard-progress-icon-completed =
     .aria-label = Immed
+migration-safari-password-import-header = Sifeḍ awalen uffiren seg Safari
+migration-safari-password-import-steps-header = I wakken ad d-tsifḍeḍ awalen uffiren seg Safari:
 migration-safari-password-import-step3 = Sekles afaylu n wawalen uffiren
 migration-safari-password-import-skip-button = Suref
 migration-safari-password-import-select-button = Fren afaylu
