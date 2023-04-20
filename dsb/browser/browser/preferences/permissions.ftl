@@ -83,6 +83,7 @@ permissions-exceptions-etp-desc = Sćo znjemóžnił šćit na toś tych websed�
 permissions-exceptions-etp-window2 =
     .title = Wuwześa za pólěpšony slědowański šćit
     .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = Móžośo pódaś, kótare websedła maju pólěpšony slědowański šćit znjemóžnjony. Zapódajśo eksaktnu adresu websedła, kótarež cośo zastojaś a klikniśo pón na Wuwześe pśidaś.
 
 ## Exceptions - Cookies
 
@@ -213,7 +214,24 @@ permissions-site-microphone-disable-desc = To buźo websedłam, kótarež górje
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Nastajenja – pšawa głosnika
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Slědujuce websedła su wó to pšosyli, aby rěd za awdiowudaśe wubrali. Móžośo pódaś, kótare websedła směju rěd za awdiowudaśe wubraś.
 permissions-exceptions-doh-window =
     .title = Websedłowe wuwześa za DNS pśez HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } njebuźo wěsty DNS na toś tych sedłach a jich póddomenach wužywaś.
+permissions-doh-entry-field = Zapódajśo domenowe mě websedła
+    .accesskey = d
+permissions-doh-add-exception =
+    .label = Pśidaś
+    .accesskey = P
+permissions-doh-col =
+    .label = Domena
+permissions-doh-remove =
+    .label = Wótwónoźeś
+    .accesskey = t
+permissions-doh-remove-all =
+    .label = Wše wótwónoźeś
+    .accesskey = e
