@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Asteɛfu
-    .title = Asteɛfu (Afeggag n tallunt)
-pictureinpicture-play-cmd =
-    .aria-label = Urar
-    .title = Urar (Afeggag n tallunt)
-pictureinpicture-mute-cmd =
-    .aria-label = Sgugem
-    .title = Sgugem ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Sgugem
-    .title = Sgugem ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Ales tuɣalin ɣer yiccer
-    .title = Tuɣalin ɣer yiccer
-pictureinpicture-close-cmd =
-    .aria-label = Mdel
-    .title = Mdel ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Iduzwilen
-    .title = Iduzwilen
 pictureinpicture-pause-btn =
     .aria-label = Asteɛfu
     .tooltip = Asteɛfu (Afeggag n tallunt)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Agdil ačuran
-    .title = Agdil ačuran (sin isitiyen)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Ffeɣ seg ugdil ačuran
-    .title = Ffeɣ seg ugdil ačuran (sin isitiyen)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Tuɣalin ɣer deffir
-    .title = Tuɣalin ɣer deffir (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Welleh
-    .title = Welleh (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Agdil ačuran
     .tooltip = Agdil ačuran (sin isitiyen)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Welleh
     .tooltip = Welleh (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Iɣewwaren n yiduzwilen
 pictureinpicture-subtitles-label = Iduzwilen
 pictureinpicture-font-size-label = Teɣzi n tsefsit
 pictureinpicture-font-size-small = Mecṭuḥ

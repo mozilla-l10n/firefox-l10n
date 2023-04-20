@@ -27,6 +27,7 @@ neterror-try-again-button = Ɛreḍ i tikelt-nniḍen
 neterror-add-exception-button = Yal ass ttkemmil i usmel-a
 neterror-settings-button = Beddel iɣewwaṛen DNS
 neterror-view-certificate-link = Sken aselkin
+neterror-trr-continue-this-time = Kemmel tikkelt-a
 neterror-disable-native-feedback-warning = Ttkemmil dima
 
 ##
@@ -55,8 +56,8 @@ neterror-dns-not-found-hint-firewall = Senqqed aya { -brand-short-name } yettwas
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s umefru-nneɣ DNS aɣellsan. Da ara tafeḍ iwacu:
-neterror-dns-not-found-trr-only-attackers = Ma tkemmleḍ, aḥric wis kraḍ yezmer ad iwali ismal iɣer trezzuḍ neɣ ad k-m-yazen ɣer usmel ideg ulac laman.
 neterror-dns-not-found-trr-third-party-warning = Tzemreḍ ad tkemmleḍ s umefru DNS ur nelli ara d aɣellsan. Maca, aḥric wis kraḍ yezmer ad iwali ismal iɣer trezzuḍ.
+neterror-dns-not-found-trr-third-party-warning2 = Tzemreḍ ad tkemmleḍ s umefru-ik DNS amezwer. Maca, aḥric wis kraḍ yezmer ad iwali ismal iɣer trezzuḍ.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ur yessaweḍ ara ad yeqqen ɣer { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tuqqna ɣer { $trrDomain } teṭṭef ugar n wayen yetturaǧun.
 neterror-dns-not-found-trr-offline = Ur teqqineḍ ara ɣer internet.
@@ -69,9 +70,7 @@ neterror-dns-not-found-trr-unknown-problem = Ugur ur netturaǧu ara.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s umefru-nneɣ DNS aɣellsan. Da ara tafeḍ iwacu:
-neterror-dns-not-found-native-fallback-attackers = Tzemreḍ ad tkemmleḍ s umefru DNS ur nelli ara d aɣellsan. Maca, aḥric wis kraḍ yezmer ad iwali ismal iɣer trezzuḍ neɣ ad k-m-yazen ɣer usmel ideg ulac laman.
 neterror-dns-not-found-native-fallback-heuristic = DNS s HTTPS tensa deg uẓeṭṭa-inek•inem.
-neterror-dns-not-found-native-fallback-not-confirmed = Tuqqna ɣer { $trrDomain } ur tewwid ara ɛad.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ur yessaweḍ ara ad yeqqen ɣer { $trrDomain }.
 
 ##
