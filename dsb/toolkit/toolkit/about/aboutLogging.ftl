@@ -23,7 +23,6 @@
 about-logging-title = Wó protokolěrowanju
 about-logging-page-title = Protokolěrowański zastojnik
 about-logging-current-log-file = Aktualna protokolowa dataja:
-about-logging-current-log-modules = Aktualne protokolowe module:
 about-logging-new-log-file = Nowa protokolowa dataja:
 about-logging-currently-enabled-log-modules = Tuchylu zmóžnjone protokolowe module:
 about-logging-log-tutorial = Glejśo <a data-l10n-name="logging">HTTP-protokolěrowanje</a> za instrukcije wó tom, kak se toś ten rěd wužywa.
@@ -33,6 +32,8 @@ about-logging-set-log-file = Protokolowu dataju póstajiś
 about-logging-set-log-modules = Protokolowe module póstajiś
 about-logging-start-logging = Protokolěrowanje zachopiś
 about-logging-stop-logging = Protokolěrowanje skóńcyś
+about-logging-buttons-disabled = Protokolěrowanje jo pśez wariable wokoliny konfigurěrowane, dynamiska konfiguracija njejo k dispoziciji.
+about-logging-some-elements-disabled = Protokolěrowanje jo pśez URL konfigurěrowane, někotare konfiguraciske nastajenja njejsu k dispoziciji
 about-logging-info = Info:
 about-logging-log-modules-selection = Wuběrk protokolowych modulow
 about-logging-new-log-modules = Nowe protokolowe module:
