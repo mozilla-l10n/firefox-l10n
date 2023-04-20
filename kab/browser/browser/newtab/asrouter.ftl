@@ -220,6 +220,8 @@ colorways-cfr-header-today = Afran n yiniten n tuɣac tilelliyin ad ifakk ass-a
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-confirm-button = Agi iɣarracen n yinagan n tuqqna
+    .accesskey = A
 cfr-cbh-dismiss-button = Mačči tura
     .accesskey = M
 

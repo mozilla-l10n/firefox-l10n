@@ -42,6 +42,8 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Kter akk isefka yellan
+migration-no-selected-data-label = Ulac isefka i yettwafernen i usifeḍ
 migration-selected-data-label = Akter n isefka yettwafernen
 
 ##
@@ -51,7 +53,12 @@ migration-bookmarks-option-label = Ticraḍ n isebtar
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Ismenyifen
+migration-logins-and-passwords-option-label = Inekcam d wawalen uffiren yettwaskelsen
 migration-history-option-label = Azray n tunigin
+migration-form-autofill-option-label = Isefka n taččart tawurmant n tferra
+migration-passwords-from-file-progress-header = Kter afaylu n wawalen uffiren
+migration-passwords-from-file-success-header = Awalen uffiren ttwasifḍen-d akken iwata
+migration-passwords-from-file = Asenqed n wawalen uffiren deg ufaylu
 migration-passwords-new = Awalen uffiren imaynuten
 migration-passwords-updated = Awalen uffiren yellan
 migration-passwords-from-file-picker-title = Kter afaylu n wawalen uffiren

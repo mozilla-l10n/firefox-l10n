@@ -674,6 +674,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Ldi tugna-deg-tugnz ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Mdel tugna-deg-tugnz ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
