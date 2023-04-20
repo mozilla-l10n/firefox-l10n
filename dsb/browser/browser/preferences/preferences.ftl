@@ -133,6 +133,9 @@ disable-extension =
     .label = Rozšyrjenje znjemóžniś
 preferences-data-migration-header = Daty wobglědowaka importěrowaś
 preferences-data-migration-description = Cytańske znamjenja, gronidła, historiju a daty za awtomatiske wupołnjenje do { -brand-short-name } importěrowaś.
+preferences-data-migration-button =
+    .label = Daty importěrowaś
+    .accesskey = D
 tabs-group-header = Rejtariki
 ctrl-tab-recently-used-order =
     .label = Strg+Tab pśejźo rejtariki pó tuchylu póstajonem pórěźe
@@ -630,6 +633,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Pytańske naraźenja we wuslědkach adresowego póla pokazaś
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Pytańske wuraze město URL na boku wuslědkow standardneje pytnice pokazaś
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -743,6 +751,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Synchronizěrujośo tuchylu slědujuce zapiski:
+sync-syncing-across-devices-heading = Synchronizěrujośo toś te zapiski pśez wšykne waše zwězane rědy:
 sync-currently-syncing-bookmarks = Cytańske znamjenja
 sync-currently-syncing-history = Historija
 sync-currently-syncing-tabs = Wócynjone rejtariki
@@ -771,6 +780,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = s
     .buttonlabelextra2 = Źěliś
     .buttonaccesskeyextra2 = l
+sync-choose-dialog-subtitle = Změny na lisćinje zapiskow, kótarež se maju synchronizěrowaś, se na wšych wašych zwězanych rědach wótbłyšćuju.
 sync-engine-bookmarks =
     .label = Cytańske znamjenja
     .accesskey = C
@@ -839,6 +849,8 @@ forms-breach-alerts =
     .label = Warnowanja za gronidła zranjonych websedłow
     .accesskey = z
 forms-breach-alerts-learn-more-link = Dalšne informacije
+relay-integration =
+    .label = Zmóžniśo { -relay-brand-name } w swójom zastojniku gronidłow { -brand-short-name }
 relay-integration-learn-more-link = Dalšne informacije
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -972,6 +984,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Reducěrowanje cookiejowych chórgojow
 
 ## Privacy Section - Address Bar
 
