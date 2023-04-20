@@ -77,5 +77,26 @@ about-glean-label-for-ping-names =
 about-glean-label-for-log-pings =
     (Na žycenje. Wubjeŕśo pjerwjejšne pólo, jolic cośo, až se pingi teke protokolěruju, gaž se wótpósćełaju.
     Musyśo mimo togo <a data-l10n-name="enable-logging-link">protokolěrowanje zmóžniś</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Tłocćo na pjerwjejšny tłocašk, aby wšykne pingi { -glean-brand-name } ze swójim wobznamjenim wóznamjenił a wótpósćelśo wubrany ping.
+    (Wšykne pingi, kótarež se wót togo casa wótpósćełaju, daniž njestartujośo znowego, se z
+    <code>{ $debug-tag }</code> wóznamjeniju.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Woglědajśo se k bokoju { glean-debug-ping-viewer-brand-name } za pingi ze swójim wobznamjenim</a>.
+    Njeměło wěcej ako pór sekundow wót tłocenja tłocaška do pśichoda wašogo pinga traś.
+    Wótergi móžo pór minutow traś.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Za dalšne testy <i>ad hoc</i>
+    móžośo teke aktualnu gódnotu wěstego źěla instrumentacije póstajiś,
+    gaž konsolu wuwijaŕskich rědow how w <code>about:glean</code> wócynjaśo
+    a API testGetValue takle wužywaśo:
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Nastajenja nałožyś a ping wótpósłaś
 about-glean-about-data-header = Wó datach
+about-glean-about-data-explanation =
+    Aby lisćinu zgromaźonych datow pśepytował, konsultěrujśo
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
