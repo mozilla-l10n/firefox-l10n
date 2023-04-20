@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Duraklat
-    .title = Duraklat (Boşluk)
-pictureinpicture-play-cmd =
-    .aria-label = Oynat
-    .title = Oynat (Boşluk)
-pictureinpicture-mute-cmd =
-    .aria-label = Sesi kapat
-    .title = Sesi kapat ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Sesi aç
-    .title = Sesi aç ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Sekmeye geri gönder
-    .title = Geri gönder
-pictureinpicture-close-cmd =
-    .aria-label = Kapat
-    .title = Kapat ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Altyazı
-    .title = Altyazı
 pictureinpicture-pause-btn =
     .aria-label = Duraklat
     .tooltip = Duraklat (Boşluk)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Tam ekran
-    .title = Tam ekran (çift tıklama)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Tam ekrandan çık
-    .title = Tam ekrandan çık (çift tıklama)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Geri sar
-    .title = Geri sar (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = İleri sar
-    .title = İleri sar (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Tam ekran
     .tooltip = Tam ekran (çift tıklama)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = İleri sar
     .tooltip = İleri sar (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Altyazı ayarları
 pictureinpicture-subtitles-label = Altyazı
 pictureinpicture-font-size-label = Yazı tipi boyutu
 pictureinpicture-font-size-small = Küçük

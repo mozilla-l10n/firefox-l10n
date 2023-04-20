@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (Eski Sürüm)
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = CSV dosyasındaki parolalar
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Sık kullanılanlar
 migration-logins-and-passwords-option-label = Kayıtlı hesaplar ve parolalar
 migration-history-option-label = Gezinti geçmişi
 migration-form-autofill-option-label = Otomatik form doldurma verileri
+migration-passwords-from-file-progress-header = Parola dosyasını içe aktar
+migration-passwords-from-file-success-header = Parolalar başarıyla içe aktarıldı
+migration-passwords-from-file = Dosyadaki parolalar kontrol ediliyor
+migration-passwords-new = Yeni parolalar
+migration-passwords-updated = Mevcut parolalar
+migration-passwords-from-file-picker-title = Parola dosyasını içe aktar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV belgesi
        *[other] TSV dosyası
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } parola eklendi
+       *[other] { $newEntries } parola eklendi
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } parola güncellendi
+       *[other] { $updatedEntries } parola güncellendi
+    }
 migration-import-button-label = İçe aktar
+migration-choose-to-import-from-file-button-label = Dosyadan içe aktar
+migration-import-from-file-button-label = Dosya seç
 migration-cancel-button-label = Vazgeç
 migration-done-button-label = Tamam
 migration-wizard-import-browser-no-browsers = { -brand-short-name } yer imi, geçmiş veya parola verileri içeren herhangi bir program bulamadı.

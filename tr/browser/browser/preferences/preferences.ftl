@@ -1233,7 +1233,8 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
-preferences-doh-header = HTTPS üzerinden DNS
+preferences-doh-header = HTTPS Üzerinden DNS
+preferences-doh-description = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS oluşturur. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Durum: { $status }
@@ -1260,7 +1261,7 @@ preferences-doh-default-detailed-desc-1 = Güvenli DNS hizmetinin sunulduğu bö
 preferences-doh-default-detailed-desc-2 = Güvenli DNS sağlayıcınızda sorun yaşanırsa varsayılan DNS çözümleyiciniz kullanılır
 preferences-doh-default-detailed-desc-3 = Mümkünse yerel bir sağlayıcı kullanılır
 preferences-doh-default-detailed-desc-4 = VPN, ebeveyn denetileri veya kurumsal ilkeler etkinse güvenli DNS kapanır
-preferences-doh-default-detailed-desc-5 = Ağınız { -brand-short-name } tarayıcısına güvenli DNS kullanmama talebi gönderirse güvenli DNS kapanır
+preferences-doh-default-detailed-desc-5 = Ağınız { -brand-short-name } tarayıcısına güvenli DNS kullanmama isteği gönderirse güvenli DNS kapanır
 preferences-doh-setting-enabled =
     .label = Artırılmış koruma
     .accesskey = A
@@ -1270,7 +1271,7 @@ preferences-doh-enabled-detailed-desc-2 = Yalnızca güvenli DNS sağlayıcını
 preferences-doh-setting-strict =
     .label = Maksimum koruma
     .accesskey = M
-preferences-doh-strict-desc = { -brand-short-name } her zaman güvenli DNS kullanır. Sistem DNS’inizi kullanmadan önce bir güvenlik uyarısı gösteririz.
+preferences-doh-strict-desc = { -brand-short-name } her zaman güvenli DNS kullanır. Sistem DNS’inizi kullanmadan önce bir güvenlik uyarısı gösterir.
 preferences-doh-strict-detailed-desc-1 = Sadece seçtiğiniz sağlayıcıyı kullanır
 preferences-doh-strict-detailed-desc-2 = Güvenli DNS kullanılamazsa sizi her zaman uyarır
 preferences-doh-strict-detailed-desc-3 = Güvenli DNS kullanılamazsa siteler açılmaz veya düzgün çalışmaz
