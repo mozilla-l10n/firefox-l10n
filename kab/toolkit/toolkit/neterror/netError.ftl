@@ -62,6 +62,7 @@ neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ur yes
 neterror-dns-not-found-trr-only-timeout = Tuqqna ɣer { $trrDomain } teṭṭef ugar n wayen yetturaǧun.
 neterror-dns-not-found-trr-offline = Ur teqqineḍ ara ɣer internet.
 neterror-dns-not-found-trr-unknown-host = Ulac tansa i d-yettwafen i usmel-a sɣur { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = Asmel-a web ur yettwaf ara sɣur { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Yella-d wugur akken { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Ugur ur netturaǧu ara.
 

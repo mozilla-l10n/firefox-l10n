@@ -76,14 +76,8 @@ deniedPortAccess-title = Tansa-yagi tegdel
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Nesɛa uguren akken ad naf asmel.
-# Variables:
-#   $hostname (string) - Hostname of the website to which the user was trying to connect.
-dns-not-found-trr-only-title = Yezmer ad yili umihi n tɣellist i { $hostname }.
-# Variables:
 dns-not-found-trr-only-title2 = Yezmer ad yili wugur n tɣellist lawan n uṣeggem n taɣult-a
-# Variables:
-#   $hostname (string) - Hostname of the website to which the user was trying to connect.
-dns-not-found-native-fallback-title = Yezmer ad yili umihi n tɣellist i { $hostname }.
+dns-not-found-native-fallback-title2 = Yezmer ad yili wugur n tɣellist lawan n uṣeggem n taɣult-a
 fileNotFound-title = Ulac afaylu
 fileAccessDenied-title = Anekcum ɣer ufaylu yegdel
 generic-title = Ihuh.
