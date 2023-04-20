@@ -51,6 +51,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>ກົດ &quot;ລອງໃໝ່ອີກ&quot; ເພື່ອປ່ຽນເປັນໂໝດອອນໄລນ໌ ແລະໂຫຼດໜ້ານີ້ຄືນໃໝ່.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -106,6 +111,9 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>ບັນຫາແມ່ນເປັນໄປໄດ້ຫຼາຍທີ່ສຸດກັບເວັບໄຊທ໌, ແລະບໍ່ມີຫຍັງທີ່ເຈົ້າສາມາດແກ້ໄຂມັນໄດ້. ທ່ານ​ສາ​ມາດ​ແຈ້ງ​ໃຫ້​ຜູ້​ຄວບ​ຄຸມ​ຂອງ​ເວັບ​ໄຊ​ທ​໌​ກ່ຽວ​ກັບ​ບັນ​ຫາ​ໄດ້.</p>
+">
 
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ປ້ອງກັນຫນ້າເວັບນີ້ຈາກການໂຫລດໃນທິດທາງນີ້ເພາະວ່າຫນ້າເວັບມີເນື້ອຫາທີ່ຖືກບັອກໄວ້ໂດຍນະໂຍບາຍຄວາມປອດໄພ.</p>">
