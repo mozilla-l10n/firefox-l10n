@@ -64,4 +64,5 @@ about-logging-unknown-logging-preset = Njeznate protokolowanske přednastajenje 
 about-logging-unknown-profiler-preset = Njeznate profilerowe přednastajenje „{ $v }“
 about-logging-unknown-option = Njeznate nastajenje about:logging „{ $k }“
 about-logging-configuration-url-ignored = Konfiguraciski URL ignorowany
+about-logging-file-and-profiler-override = Wudawanje a přepisowanje nastajenjow wukonoweje analyzy njedatej so naraz wunuzować
 about-logging-configured-via-url = Přez URL skonfigurowane nastajenje
