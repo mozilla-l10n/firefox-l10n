@@ -90,6 +90,25 @@ migration-wizard-progress-success-new-passwords =
         [few] { $newEntries } su se pśidali
        *[other] { $newEntries } jo se pśidało
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } jo se zaktualizěrowało
+        [two] { $updatedEntries } stej se zaktualizěrowałej
+        [few] { $updatedEntries } su se zaktualizěrowali
+       *[other] { $updatedEntries } jo se zaktualizěrowało
+    }
+migration-import-button-label = Importěrowaś
+migration-choose-to-import-from-file-button-label = Z dataje importěrowaś
+migration-import-from-file-button-label = Dataju wubraś
+migration-cancel-button-label = Pśetergnuś
+migration-done-button-label = Gótowo
+migration-wizard-import-browser-no-browsers = { -brand-short-name } njejo mógł programy namakaś, kótarež daty cytańskich znamjenjow, historije abo gronidłow wopśimowaś.
+migration-wizard-import-browser-no-resources = Zmólka jo nastała. { -brand-short-name } njamóžo daty namakaś, kótarež daju se z togo profila wobglědowaka importěrowaś.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -97,6 +116,22 @@ migration-wizard-progress-success-new-passwords =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = cytańske znamjenja
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = fawority
+migration-list-password-label = gronidła
+migration-list-history-label = historija
+migration-list-autofill-label = Daty za awtomatiske wupołnjenje
 
 ##
 
+migration-wizard-progress-header = Daty se importěruju
+migration-wizard-progress-done-header = Daty su se wuspěšnje importěrowali
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importěrujo se…
+migration-wizard-progress-icon-completed =
+    .aria-label = Dokóńcony
+migration-safari-password-import-header = Gronidła ze Safari importěrowaś
+migration-safari-password-import-steps-header = Aby gronidła ze Safari importěrował:
+migration-safari-password-import-step1 = Wócyńśo meni „Safari“ w Safari a pśejźćo k Einstellungen > Passwörter (Nastajenja > Gronidła)
