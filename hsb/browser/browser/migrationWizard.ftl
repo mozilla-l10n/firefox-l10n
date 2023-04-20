@@ -108,7 +108,7 @@ migration-import-from-file-button-label = Dataju wubrać
 migration-cancel-button-label = Přetorhnyć
 migration-done-button-label = Dokónčeny
 migration-wizard-import-browser-no-browsers = { -brand-short-name } njemóžeše programy namakać, kotrež daty zapołožkow, historije abo hesłow wobsahować.
-migration-wizard-import-browser-no-resources = Zmylk je nastał. { -brand-short-name } njemóže dasty namakać, kotrež dadźa so z toho profila wobhladowaka importować.
+migration-wizard-import-browser-no-resources = Zmylk je nastał. { -brand-short-name } njemóže daty namakać, kotrež dadźa so z toho profila wobhladowaka importować.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -127,7 +127,7 @@ migration-list-autofill-label = Daty za awtomatiske wupjelnjenje
 ##
 
 migration-wizard-progress-header = Daty so importuja
-migration-wizard-progress-done-header = Daty so so wuspěšnje importowali
+migration-wizard-progress-done-header = Daty su so wuspěšnje importowali
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importuje so…
 migration-wizard-progress-icon-completed =
