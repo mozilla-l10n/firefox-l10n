@@ -161,6 +161,16 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } κωδικός πρόσβασης
        *[other] { $quantity } κωδικοί πρόσβασης
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Από την τελευταία ημέρα
+       *[other] Από τις τελευταίες { $maxAgeInDays } ημέρες
+    }
 migration-wizard-progress-success-formdata = Ιστορικό φορμών
 migration-wizard-safari-instructions-continue = Επιλέξτε «Συνέχεια»
 migration-wizard-safari-select-button = Επιλογή αρχείου

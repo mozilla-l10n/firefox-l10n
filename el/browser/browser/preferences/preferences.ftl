@@ -1246,6 +1246,9 @@ preferences-doh-bad-url = Μη έγκυρο URL
 preferences-doh-steering-status = Χρήση τοπικού παρόχου
 preferences-doh-status-active = Ενεργό
 preferences-doh-status-disabled = Ανενεργό
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Μη ενεργό ({ $reason })
 preferences-doh-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
 preferences-doh-setting-default =
