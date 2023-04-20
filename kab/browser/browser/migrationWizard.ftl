@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Kter-d isefka seg yiminig
+migration-wizard-selection-list = Fren isefka i tebɣiḍ ad ten-tsifḍeḍ.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -34,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (Ileqman iqbuṛen)
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Awalen uffiren seg ufaylu CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -160,6 +162,16 @@ migration-wizard-progress-success-passwords =
     { $quantity ->
         [one] { $quantity } wawal ufiir
        *[other] { $quantity } wawalen uffiren
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Seg wass aneggaru
+       *[other] Seg wass aneggaru { $maxAgeInDays } wussan
     }
 migration-wizard-progress-success-formdata = Amazray n tferkit
 migration-wizard-safari-instructions-continue = Fren “Kemmel”
