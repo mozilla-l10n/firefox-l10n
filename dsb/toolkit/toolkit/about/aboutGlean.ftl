@@ -54,7 +54,28 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Wó testowanju
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Dopołne instrukcije se w
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentach testowanja instrumentacije</a>
+    a w <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentaciji</a> dokumentěruju,
+    ale, krotko gronjone, aby manuelnje testował, lěc waša instrumentacije funkcioněrujo, wy měł:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ping njesłaś)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Zawěsććo, až dajo w pjerwjejšnem pólu zaspomliwe wobznamjenje pytanja zmólka, aby mógał swóje pingi pózdźej spóznał.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Wubjeŕśo z pjerwjejšneje lisćiny ping, kótaryž wašu instrumentaciju wopśimujo.
+    Jolic jo w <a data-l10n-name="custom-ping-link">swójskem pingu</a>, wubjeŕśo ten.
+    Howac jo standard za metriku <code>event</code>
+    ping <code>events</code>
+    a standard za druge metriki jo
+    ping <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Na žycenje. Wubjeŕśo pjerwjejšne pólo, jolic cośo, až se pingi teke protokolěruju, gaž se wótpósćełaju.
+    Musyśo mimo togo <a data-l10n-name="enable-logging-link">protokolěrowanje zmóžniś</a>.)
 controls-button-label-verbose = Nastajenja nałožyś a ping wótpósłaś
 about-glean-about-data-header = Wó datach
