@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Κωδικοί πρόσβασης από αρχείο CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Αγαπημένα
 migration-logins-and-passwords-option-label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
 migration-history-option-label = Ιστορικό περιήγησης
 migration-form-autofill-option-label = Δεδομένα αυτόματης συμπλήρωσης φορμών
+migration-passwords-from-file-progress-header = Εισαγωγή αρχείου κωδικών πρόσβασης
+migration-passwords-from-file-success-header = Επιτυχής εισαγωγή κωδικών πρόσβασης
+migration-passwords-from-file = Έλεγχος αρχείου για κωδικούς πρόσβασης
+migration-passwords-new = Νέοι κωδικοί πρόσβασης
+migration-passwords-updated = Υπάρχοντες κωδικοί πρόσβασης
+migration-passwords-from-file-picker-title = Εισαγωγή αρχείου κωδικών πρόσβασης
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Έγγραφο TSV
        *[other] Αρχείο TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] Προστέθηκε { $newEntries }
+       *[other] Προστέθηκαν { $newEntries }
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] Ενημερώθηκε { $updatedEntries }
+       *[other] Ενημερώθηκαν { $updatedEntries }
+    }
 migration-import-button-label = Εισαγωγή
+migration-choose-to-import-from-file-button-label = Εισαγωγή από αρχείο
+migration-import-from-file-button-label = Επιλογή αρχείου
 migration-cancel-button-label = Ακύρωση
 migration-done-button-label = Τέλος
 
