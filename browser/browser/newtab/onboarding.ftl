@@ -420,3 +420,5 @@ mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Žaby pśez łopjena wutkow z QR-kodom skokocoju, aby wy { -brand-product-name } za mobilne rědy we srjejźi
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Guslowaŕski kij dajo se logoju priwatnego modusa { -brand-product-name } z kłobyka zjawiś
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Swětłokóžate a śamnokóžate ruki gromadu klatśaju
