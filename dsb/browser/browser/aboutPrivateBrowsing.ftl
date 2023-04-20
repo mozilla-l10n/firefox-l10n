@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = Žedne skłaźone cookieje abo žedna h
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Pšec z cookiejowymi chórgojami!
 about-private-browsing-cookie-banners-promo-button = Cookieje chórgoje reducěrowaś
+about-private-browsing-cookie-banners-promo-message = Dajśo { -brand-short-name } za was awtomatiski na cookiejowe wuskokujuce wokna wótegroniś, aby wy se k pśeglědowanjeju bźez wótchylenja wrośił. { -brand-short-name } wšykne napšašowanja wótpokažo, jolic móžno.
