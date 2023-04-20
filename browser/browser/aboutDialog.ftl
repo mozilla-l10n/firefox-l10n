@@ -24,6 +24,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } aktualizěrujo se p�
 update-manual = Aktualizacije k dispoziciji na <label data-l10n-name="manual-link"/>
 update-unsupported = Njamóžośo dalšne aktualizacije na toś tom systemje pśewjasć. <label data-l10n-name="unsupported-link">Dalšne informacije</label>
 update-restarting = Startujo se…
+update-internal-error = Interneje zmólki dla njejo móžno za aktualizacijami pytaś. Aktualizacije su na <label data-l10n-name="manual-link"/> k dispoziciji
 channel-description = Sćo tuchylu na aktualizaciskem kanalu <label data-l10n-name="current-channel"></label>.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
