@@ -61,6 +61,7 @@ neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ndoike
 neterror-dns-not-found-trr-only-timeout = Pe { $trrDomain }-pe jeike nemoha’ãrõ hetave aravo.
 neterror-dns-not-found-trr-offline = Ndereikekuaamo’ãi ñandutípe.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } ndojuhúi kundaharape ko ñanduti rendápe g̃uarã.
+neterror-dns-not-found-trr-unknown-host2 = Ko ñandurti renda ndojuhúi { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Oĩ peteĩ apañuãi { $trrDomain } ndive.
 neterror-dns-not-found-trr-unknown-problem = Jejavy ñeha’arõ’ỹva.
 
