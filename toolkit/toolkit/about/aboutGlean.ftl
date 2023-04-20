@@ -84,6 +84,17 @@ about-glean-label-for-controls-submit =
     Tłóčće na předchadne tłóčatko, zo byšće wšě pingi { -glean-brand-name } ze swojej značku woznamjenił a wotpósćelće wubrany ping.
     (Wšě pingi, kotrež so wot toho časa wotesćelu, doniž njestartujeće znowa, so z
     <code>{ $debug-tag }</code> woznamjenjeja.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Wopytajće stronu { glean-debug-ping-viewer-brand-name } za pingi ze swojej značku</a>.
+    Njeměło wjace hač por sekundow wot tłóčenja tłóčatka do přichoda wašeho pinga trać.
+    Druhdy móže por mjeńšin trać.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Za dalše testy <i>ad hoc</i>
+    móžeće tež aktualnu hódnotu wěsteho dźěla instrumentacije postajić,
+    hdyž konsolu wuwiwarskich nastrojow tu w <code>about:glean</code> wočinjeće
+    a API testGetValue takle wužiwaće:
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
 about-glean-about-data-header = Wo datach
 about-glean-about-data-explanation =
