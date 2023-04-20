@@ -422,3 +422,5 @@ mr2022-onboarding-pin-private-image-alt =
     .aria-label = Guslowaŕski kij dajo se logoju priwatnego modusa { -brand-product-name } z kłobyka zjawiś
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Swětłokóžate a śamnokóžate ruki gromadu klatśaju
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Póglěd na schowanje słyńca z woknom z lišku a śpineju rostlinu na woknowej delce
