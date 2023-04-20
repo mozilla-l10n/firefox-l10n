@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = Za pśistup k swójim rejtar
 firefoxview-tabpickup-password-locked-link = Dalšne informacije
 firefoxview-tabpickup-password-locked-primarybutton = Głowne gronidło zapódaś
 firefoxview-tabpickup-signed-out-header = Pśizjawśo se, aby zasej zwězał
+firefoxview-tabpickup-signed-out-description = Aby se zasej zwězował a pśistup k swójim rejtarikam měł, pśizjawśo se pla swójogo { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Pśizjawiś
 firefoxview-tabpickup-syncing = Wobcakajśo, mjaztym až se waše rejtariki synchronizěruju. Buźo jano wokognuśe traś.
 firefoxview-mobile-promo-header = Wobstarajśo se rejtariki ze swójogo telefona abo tableta
