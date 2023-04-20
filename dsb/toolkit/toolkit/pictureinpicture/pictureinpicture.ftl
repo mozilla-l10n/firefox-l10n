@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pawza
-    .title = Pawza (wobceŕkowa rědka)
-pictureinpicture-play-cmd =
-    .aria-label = Wótgraś
-    .title = Wótgraś (wobceŕkowa rědka)
-pictureinpicture-mute-cmd =
-    .aria-label = Bźez zuka
-    .title = Bźez zuka ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Ze zukom
-    .title = Ze zukom ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = K rejtarkoju slědk pósłaś
-    .title = Slědk k rejtarikoju
-pictureinpicture-close-cmd =
-    .aria-label = Zacyniś
-    .title = Zacyniś ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Pódtitele
-    .title = Pódtitele
 pictureinpicture-pause-btn =
     .aria-label = Pawza
     .tooltip = Pawza (wobceŕkowa rědka)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Połna wobrazowka
-    .title = Połna wobrazowka (dwójne kliknjenje)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Połnu wobrazowku spušćiś
-    .title = Połnu wobrazowku spušćiś (dwójne kliknjenje)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Slědk
-    .title = Slědk (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Doprědka
-    .title = Doprědka (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Połna wobrazowka
     .tooltip = Połna wobrazowka (dwójne kliknjenje)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Doprědka
     .tooltip = Doprědka (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Nastajenja pódtitelow
 pictureinpicture-subtitles-label = Pódtitele
 pictureinpicture-font-size-label = Pismowa wjelikosć
 pictureinpicture-font-size-small = Mały
