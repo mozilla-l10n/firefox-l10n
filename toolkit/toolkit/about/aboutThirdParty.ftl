@@ -53,6 +53,13 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Tuchwilu zablokowany. Klikńće, zo byšće zablokowanje zběhnył.
     .aria-label = Tuchwilu zablokowany. Klikńće, zo byšće zablokowanje zběhnył.
+third-party-button-to-unblock-disabled =
+    .title =
+        Je tuchwilu jako zablokowane markěrowane, hačrunjež lisćina blokowanjow za tute
+        přewjedźenje { -brand-short-name } je znjemóžnjena Klikńće, zo byšće blokowanje skónčił.
+    .aria-label =
+        Je tuchwilu jako zablokowane markěrowane, hačrunjež lisćina blokowanjow za tute
+        přewjedźenje { -brand-short-name } je znjemóžnjena Klikńće, zo byšće blokowanje skónčił.
 third-party-button-expand =
     .title = Nadrobne informacije pokazać
 third-party-button-collapse =
