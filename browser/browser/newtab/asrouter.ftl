@@ -227,14 +227,31 @@ colorways-cfr-primarybutton = Barwowu kombinaciju wubraś
 colorways-cfr-body = Zabarwiśo swój wobglědowak z ekskluziwnymi barwowymi wósnjami { -brand-short-name }, kótarež su wót głosow inspirěrowane, kótarež su změnili kulturu.
 colorways-cfr-header-28days = Barwowe kombinacije „Njewótwisne głose“  16. januara spadnu
 colorways-cfr-header-14days = Barwowe kombinacije „Njewótwisne głose“  za dwa tyźenja spadnu
+colorways-cfr-header-7days = Barwowe kombinacije „Njewótwisne głose“  w toś tom tyźenju spadnu
+colorways-cfr-header-today = Barwowe kombinacije „Njewótwisne głose“ źinsa spadnu
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = { -brand-short-name } dowóliś cookiejowe chórgoji wótpokazaś?
+cfr-cbh-body = { -brand-short-name } móžo awtomatiski wjele napšašowanjow cookiejowych chórgojow wótpokazaś.
+cfr-cbh-confirm-button = Cookiejowe chórgoji reducěrowaś
+    .accesskey = C
+cfr-cbh-dismiss-button = Nic něnto
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Smy was zapśimjeli
+july-jam-body = Kuždy mjasec { -brand-short-name } w pśerězku wěcej ako 3000 pśeslědowakow na wužywarja blokěrujo a dawa wam wěsty, malsny pśistup k dobremu internetoju.
 july-jam-set-default-primary = Móje wótkaze z { -brand-short-name } wócyniś
+fox-doodle-pin-headline = Witajśo slědk
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = How jo krotke dopomnjeśe, až móžośo swój nejlubšy njewótwisny wobglědowak jano kliknjenje pśec měś.
+fox-doodle-pin-primary = Móje wótkaze z { -brand-short-name } wócyniś
+fox-doodle-pin-secondary = Nic něnto
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Waše PDF se něnto w { -brand-short-name } wócynjaju.</strong> Wobźěłajśo abo signěrujćśoformulary direktnje w swójom wobglědowaku. Aby to změnił, pytajśo za „PDF“ w swójich nastajenjach.
+set-default-pdf-handler-primary = Som zrozměł
