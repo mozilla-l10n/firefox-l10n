@@ -58,6 +58,7 @@ firefoxview-mobile-confirmation-description = Něnto móžośo swóje rejtariki 
 firefoxview-closed-tabs-title = Njedawno zacynjone
 firefoxview-closed-tabs-description2 = Wócyńśo boki znowego, kótarež sćo zacynił w toś tom woknje.
 firefoxview-closed-tabs-placeholder-header = Žedne rowno zacynjone rejtariki
+firefoxview-closed-tabs-placeholder-body = Gaž w toś tom woknje rejtarik zacynjaśo, móžośo jen wót how wuwołaś.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -75,6 +76,7 @@ firefoxview-change-colorway-button = Barwowu kombinaciju změniś
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Hyšći nic njejo wiźeś
+firefoxview-synced-tabs-placeholder-body = Pśiducy raz, gaž bok w { -brand-product-name } na drugem rěźe wócynjaśo, mějśo pśistup k njomu ako wót guslowarja.
 firefoxview-collapse-button-show =
     .title = Lisćinu pokazaś
 firefoxview-collapse-button-hide =
