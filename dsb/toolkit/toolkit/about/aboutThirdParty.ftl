@@ -53,10 +53,18 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Tuchylu zablokěrowany. Klikniśo, aby zablokěrowanje wotpórał.
     .aria-label = Tuchylu zablokěrowany. Klikniśo, aby zablokěrowanje wótpórał.
+third-party-button-to-unblock-disabled =
+    .title =
+        Jo tuchylu ako blokěrowane markěrowane, lěcrownož lisćina blokěrowanjow za toś to
+        pśewjeźenje { -brand-short-name } jo znjemóžnjona. Klikniśo, aby blokěrowanje skóńcył.
+    .aria-label =
+        Jo tuchylu ako blokěrowane markěrowane, lěcrownož lisćina blokěrowanjow za toś to
+        pśewjeźenje { -brand-short-name } jo znjemóžnjona. Klikniśo, aby blokěrowanje skóńcył.
 third-party-button-expand =
     .title = Nadrobne informacije pokazaś
 third-party-button-collapse =
     .title = Nadrobne informacije schowaś
+third-party-requires-restart = { -brand-short-name } musy se znowego startowaś, aby změnił, kótare module tśeśich póbitowarjow se blokěruju.
 third-party-should-restart-title = { -brand-short-name } znowego startowaś
 third-party-should-restart-ok = { -brand-short-name } něnto znowego startowaś
 third-party-restart-later = Pózdźej znowego startowaś
