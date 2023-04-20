@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Adgangskoder fra CSV-fil
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,11 @@ migration-favorites-option-label = Favoritter
 migration-logins-and-passwords-option-label = Gemte logins og adgangskoder
 migration-history-option-label = Browserhistorik
 migration-form-autofill-option-label = Data til autofyldning af formularer
+migration-passwords-from-file-progress-header = Importer fil med adgangskoder
+migration-passwords-from-file-success-header = Adgangskoder blev importeret
+migration-passwords-new = Nye adgangskoder
+migration-passwords-updated = Eksisterende adgangskoder
+migration-passwords-from-file-picker-title = Importer fil med adgangskoder
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +77,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } tilføjet
+       *[other] { $newEntries } tilføjet
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } opdateret
+       *[other] { $updatedEntries } opdateret
+    }
 migration-import-button-label = Importer
+migration-choose-to-import-from-file-button-label = Importer fra fil
+migration-import-from-file-button-label = Vælg fil
 migration-cancel-button-label = Annuller
 migration-done-button-label = Færdig
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kunne ikke finde nogen programmer, der indeholder bogmærker, historik eller adgangskoder.
