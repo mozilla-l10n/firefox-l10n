@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } is by de tiid
 aboutdialog-update-checking-failed = Kontrôle op fernijingen is mislearre.
 update-otherInstanceHandlingUpdates = { -brand-short-name } wurdt fernijd troch in oare sesje
 update-manual = Fernijingen beskikber op <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Fernijingen beskikber op <a data-l10n-name="manual-link"/>
 update-unsupported = Jo kinne gjin fernijngen mear útfiere op dit systeem. <label data-l10n-name="unsupported-link">Mear ynfo</label>
 update-restarting = Opnij starte…
 update-internal-error = Kin net kontrolearje op fernijingen fanwegen in ynterne flater. Fernijingen beskikber op <label data-l10n-name="manual-link"/>
