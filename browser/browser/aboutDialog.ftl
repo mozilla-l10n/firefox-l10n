@@ -20,6 +20,7 @@ update-adminDisabled = તમારા સિસ્ટમ સંચાલક દ
 update-noUpdatesFound = { -brand-short-name } નવીનકૃત છે
 update-otherInstanceHandlingUpdates = { -brand-short-name } એ બીજા નમૂના દ્દારા સુધારી દેવામાં આવ્યુ છે
 update-manual = સુધારાઓ આની પર ઉપલબ્ધ છે <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = સુધારાઓ આની પર ઉપલબ્ધ છે <a data-l10n-name="manual-link"/>
 update-unsupported = તમે આ સિસ્ટમ પર આગળનાં સુધારા ચલાવી શકતા નથી. <label data-l10n-name="unsupported-link">વધુ શીખો</label>
 update-restarting = પુનઃશરૂ
 channel-description = તમે હમણાં<label data-l10n-name="current-channel"></label>ચેનલ અપડેટ કરો
