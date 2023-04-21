@@ -21,6 +21,7 @@ update-adminDisabled = Updates disabled by yer system admeenistrator
 update-noUpdatesFound = { -brand-short-name } is up tae date
 update-otherInstanceHandlingUpdates = { -brand-short-name } is bein updatit by anither instance
 update-manual = Updates available at <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Updates available at <a data-l10n-name="manual-link"/>
 update-unsupported = Ye cannae mak onie mair updates on this system. <label data-l10n-name="unsupported-link">Lairn mair</label>
 update-restarting = Restertin...
 channel-description = The noo, ye're on the <label data-l10n-name="current-channel"></label> update channel.
