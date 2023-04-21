@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } al è inzornât
 aboutdialog-update-checking-failed = Impussibil controlâ la disponibilitât di inzornaments.
 update-otherInstanceHandlingUpdates = { -brand-short-name } al è daûr a jessi inzornât di une altre istance
 update-manual = Inzornaments disponibii su <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Inzornaments disponibii su <a data-l10n-name="manual-link"/>
 update-unsupported = No tu puedis vê altris inzornaments su chest sisteme. <label data-l10n-name="unsupported-link">Par savê di plui</label>
 update-restarting = Daûr a tornâ a inviâ…
 update-internal-error = Impussibil controlâ la presince di inzornaments par vie di un erôr interni. I inzornaments a son disponibii su <label data-l10n-name="manual-link"/>
