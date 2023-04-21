@@ -21,6 +21,7 @@ update-adminDisabled = အဆင့်မြှင့်တင်ခြင်း
 update-noUpdatesFound = { -brand-short-name } သည် နောက်ဆုံးပေါ်အသစ် ဖြစ်သွားပြီဖြစ်သည်။
 update-otherInstanceHandlingUpdates = { -brand-short-name } ကို အခြားတစ်ဖက်မှာ အဆင့်မြှင့်ပေးနေပါသည်။
 update-manual = နောက်ဆုံးပေါ်ရနိုင်သောနေရာသည် <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = နောက်ဆုံးပေါ်ရနိုင်သောနေရာသည် <a data-l10n-name="manual-link"/>
 update-unsupported = ဒီကွန်ပျူတာစနစ်တွင် နောင်လာမည့် အဆင့်မြှင့်တင်မှုများကို လုပ်ဆောင်နိုင်တော့မည် မဟုတ်ပါ။ <label data-l10n-name="unsupported-link">ပိုမို လေ့လာပါ</label>
 update-restarting = ပြန်ဖွင့်နေသည်…
 channel-description = သင်သည် နောက်ဆုံး ထွက်ရှိသော အဆင့်မြင့်တင်မှု့ ချန်နယ် <label data-l10n-name="current-channel"></label> သို့‌ ရောက်ရှိနေပါသည်။
