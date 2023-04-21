@@ -21,6 +21,7 @@ update-adminDisabled = अद्यतनों को आपके सिस्
 update-noUpdatesFound = { -brand-short-name } अद्यतन है
 update-otherInstanceHandlingUpdates = { -brand-short-name } को दूसरे उदाहरण के द्वारा अद्यतन किया जा रहा है
 update-manual = उपलब्ध अद्यतन <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = उपलब्ध अद्यतन <a data-l10n-name="manual-link"/>
 update-unsupported = आप इस तंत्र पर आगे अद्यतन नहीं कर सकते हैं. <label data-l10n-name="unsupported-link">अधिक जानें</label>
 update-restarting = पुन: प्रारंभ...
 channel-description = आप अभी यहाँ हैं <label data-l10n-name="current-channel"></label> चैनल अद्यतन करें.
