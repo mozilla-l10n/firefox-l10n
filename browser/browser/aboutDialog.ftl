@@ -22,6 +22,7 @@ update-noUpdatesFound = Mae { -brand-short-name } yn gyfredol
 aboutdialog-update-checking-failed = Wedi methu â gwirio am ddiweddariadau.
 update-otherInstanceHandlingUpdates = Mae { -brand-short-name } yn cael ei ddiweddaru gan enghraifft arall
 update-manual = Mae diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Mae diweddariadau ar gael yn <a data-l10n-name="manual-link"/>
 update-unsupported = Nid oes modd i chi ddiweddaru'r system hon ymhellach. <label data-l10n-name="unsupported-link">Dysgu rhagor</label>
 update-restarting = Ailgychwyn…
 update-internal-error = Methu gwirio am ddiweddariadau oherwydd gwall mewnol. Mae diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
