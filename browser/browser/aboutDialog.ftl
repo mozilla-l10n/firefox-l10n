@@ -20,6 +20,7 @@ update-adminDisabled = Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko o daaƴɗo ɗe
 update-noUpdatesFound = { -brand-short-name } hesɗitii
 update-otherInstanceHandlingUpdates = { -brand-short-name } woni ko e hesɗitineede e cilol goɗngol
 update-manual = Kesɗitine ena keɓoo to <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Kesɗitine ena keɓoo to <a data-l10n-name="manual-link"/>
 update-unsupported = Yamre wattiniinde waawaa heɓaade e ngoo yuɓɓo. <label data-l10n-name="unsupported-link">Ɓeydu humpito</label>
 update-restarting = Nana Hurmita
 channel-description = Ngon-ɗaa jooni ko e belgol kesɗitingol yamre <label data-l10n-name="current-channel"></label>hesɗitingol ceen
