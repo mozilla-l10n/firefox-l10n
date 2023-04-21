@@ -22,7 +22,7 @@ update-noUpdatesFound = 已經是最新版本的 { -brand-short-name }
 aboutdialog-update-checking-failed = 更新檢查失敗。
 update-otherInstanceHandlingUpdates = { -brand-short-name } 正被其他執行中的實例更新
 update-manual = 可用的更新位於 <label data-l10n-name="manual-link"/>
-aboutdialog-update-manual = 可用的更新位於 <a data-l10n-name="manual-link"/>
+aboutdialog-update-manual = <a data-l10n-name="manual-link"/> 已有可用更新
 update-unsupported = 您無法在此系統上進行後續更新。<label data-l10n-name="unsupported-link">詳細資訊</label>
 update-restarting = 重新啟動中…
 update-internal-error = 發生內部錯誤，無法檢查更新。可到下列網址下載 <label data-l10n-name="manual-link"/>
