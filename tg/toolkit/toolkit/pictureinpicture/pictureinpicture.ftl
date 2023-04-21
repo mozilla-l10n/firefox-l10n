@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Таваққуф кардан
-    .title = Таваққуф (тугмаи фосила)
-pictureinpicture-play-cmd =
-    .aria-label = Пахш кардан
-    .title = Пахш (тугмаи фосила)
-pictureinpicture-mute-cmd =
-    .aria-label = Бесадо кардан
-    .title = Бесадо ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Фаъол кардани садо
-    .title = Садо ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Бозгашт ба варақа
-    .title = Бозгашт ба варақа
-pictureinpicture-close-cmd =
-    .aria-label = Пӯшидан
-    .title = Пӯшидан ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Зерунвонҳо
-    .title = Зерунвонҳо
 pictureinpicture-pause-btn =
     .aria-label = Таваққуф кардан
     .tooltip = Таваққуф (тугмаи фосила)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Экрани пурра
-    .title = Экрани пурра (ду бор зер кунед)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Баромад аз экрани пурра
-    .title = Баромад аз экрани пурра (ду бор зер кунед)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Ба қафо
-    .title = Ба қафо (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Ба пеш
-    .title = Ба пеш (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Экрани пурра
     .tooltip = Экрани пурра (ду бор зер кунед)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Ба пеш
     .tooltip = Ба пеш (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Танзимоти зерунвонҳо
 pictureinpicture-subtitles-label = Зерунвонҳо
 pictureinpicture-font-size-label = Андозаи ҳуруф
 pictureinpicture-font-size-small = Хурд
