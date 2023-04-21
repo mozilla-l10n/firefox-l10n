@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } به‌روز است
 aboutdialog-update-checking-failed = بررسی برای به‌روزرسانی‌ها شکست خورد.
 update-otherInstanceHandlingUpdates = { -brand-short-name } دارد از نمونهٔ دیگری به‌روز می‌شود
 update-manual = به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
+aboutdialog-update-manual = به‌روز رسانی‌ها در <a data-l10n-name="manual-link"/> موجودند
 update-unsupported = روی این سامانه نمی‌توانید بیش از این به‌روز کنید. <label data-l10n-name="unsupported-link">بیشتر بدانید</label>
 update-restarting = اجرا کردن دوباره…
 update-internal-error = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
