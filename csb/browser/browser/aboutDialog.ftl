@@ -13,6 +13,7 @@ update-adminDisabled = Aktualizacje są wëłączoné przez sprôwnika systemù
 update-noUpdatesFound = Program { -brand-short-name } je zaktualniony
 update-otherInstanceHandlingUpdates = { -brand-short-name } je zaktualniany
 update-manual = Aktualizacje są przistãpné na <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Aktualizacje są przistãpné na <a data-l10n-name="manual-link"/>
 update-unsupported = Ni mòżesz dali zaktualniac negò systemù. <label data-l10n-name="unsupported-link">Wëdowiedzë sã wicy</label>
 channel-description = Jes na kanale aktualizacje programù <label data-l10n-name="current-channel"></label>.
 # Variables:
