@@ -21,6 +21,7 @@ update-adminDisabled = පද්ධති පරිපාලක විසින�
 update-noUpdatesFound = { -brand-short-name } යාවත්කාලීනයි
 aboutdialog-update-checking-failed = යාවත්කාල පරීක්‍ෂාවට අසමත් විය.
 update-manual = මෙහි යාවත්කාල තිබේ <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = මෙහි යාවත්කාල තිබේ <a data-l10n-name="manual-link"/>
 update-unsupported = ඔබට මෙම පද්ධතිය මත තවදුරටත් යාවත්කාල කිරීමට නොහැකිය. <label data-l10n-name="unsupported-link">තව දැනගන්න</label>
 update-restarting = නැවත අරඹමින්…
 channel-description = ඔබ දැනට සිටින්නේ <label data-l10n-name="current-channel"></label> යාවත්කාල නාලිකාවේය.
