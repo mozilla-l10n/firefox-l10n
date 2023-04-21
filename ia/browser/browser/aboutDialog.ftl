@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } es actual
 aboutdialog-update-checking-failed = Falta a verificar actualisationes
 update-otherInstanceHandlingUpdates = { -brand-short-name } es in actualisation per un altere instantia
 update-manual = Actualisationes disponibile in <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Actualisationes disponibile in <a data-l10n-name="manual-link"/>
 update-unsupported = Tu non pote facer plus actualisationes in iste systema. <label data-l10n-name="unsupported-link">Saper plus</label>
 update-restarting = Reinitiante…
 update-internal-error = Impossibile verificar le presentia de actualisationes a causa de un error interne. Actualisationes disponibile a <label data-l10n-name="manual-link"/>
