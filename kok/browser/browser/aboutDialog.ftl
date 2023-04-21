@@ -16,6 +16,7 @@ update-adminDisabled = तुमच्या यंत्रणा प्रश�
 update-noUpdatesFound = { -brand-short-name } हें अद्यावत केल्लें आसा
 update-otherInstanceHandlingUpdates = { -brand-short-name } हेर इंन्सन्स सुदारता
 update-manual = अद्यावतां उपलब्ध आसात<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = अद्यावतां उपलब्ध आसात<a data-l10n-name="manual-link"/>
 update-unsupported = ह्या व्यवस्थेर फुडे सुदार करपाक मेळचे ना.<label data-l10n-name="unsupported-link">अदिक शिकात</label>
 channel-description = तुमी सध्याक<label data-l10n-name="current-channel"></label>अद्यावत चॅनलाचेर आसात
 # Variables:
