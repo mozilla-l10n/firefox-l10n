@@ -93,7 +93,7 @@ about-glean-adhoc-explanation =
     Za dalše testy <i>ad hoc</i>
     móžeće tež aktualnu hódnotu wěsteho dźěla instrumentacije postajić,
     hdyž konsolu wuwiwarskich nastrojow tu w <code>about:glean</code> wočinjeće
-    a API testGetValue takle wužiwaće:
+    a API <code>testGetValue()</code> takle wužiwaće:
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
 about-glean-about-data-header = Wo datach
