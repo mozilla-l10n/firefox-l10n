@@ -20,6 +20,7 @@ update-adminDisabled = Uhlaziyo lurhoxiswe ngumlawuli wekhompyutha yakho
 update-noUpdatesFound = I-{ -brand-short-name } igqibelele
 update-otherInstanceHandlingUpdates = I-{ -brand-short-name } iyahlaziywa ngelinye ithuba
 update-manual = Uhlaziyo lufumaneka <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Uhlaziyo lufumaneka <a data-l10n-name="manual-link"/>
 update-unsupported = Akunakukwazi ukuhlaziya ngokubhekele phaya kule nkqubo. <label data-l10n-name="unsupported-link">Funda okungakumbi</label>
 update-restarting = Iyaqala kwakhona…
 channel-description = Ngoku ukwi <label data-l10n-name="current-channel"></label> ukwitshaneli yohlaziyo.
