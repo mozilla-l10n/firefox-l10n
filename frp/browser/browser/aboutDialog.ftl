@@ -20,6 +20,7 @@ update-adminDisabled = Les betar-a-jorn sont dèsactivâyes pèr vo‛tron admin
 update-noUpdatesFound = El { -brand-short-name } est a jorn
 update-otherInstanceHandlingUpdates = { -brand-short-name } est actualisâ pèr una âtra enstance
 update-manual = Betar a jorn disponibles a <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Betar a jorn disponibles a <a data-l10n-name="manual-link"/>
 update-unsupported = La dèrriére vèrsion est pas disponibla sur vo‛tron sistèmo. <label data-l10n-name="unsupported-link">En savêr més</label>
 update-restarting = Après renrayér…
 channel-description = Vos utilisâds lo canal <label data-l10n-name="current-channel"></label> pèr betar a jorn.{ " " }
