@@ -16,6 +16,7 @@ update-adminDisabled = Wo sestɛm sohwɛfo adum ntoso
 update-noUpdatesFound = { -brand-short-name } nnhia ntoso
 update-otherInstanceHandlingUpdates = Instans foforo re to { -brand-short-name } so
 update-manual = Wo benya ntoso no wɔ <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Wo benya ntoso no wɔ <a data-l10n-name="manual-link"/>
 update-unsupported = Wo renntumi nnyɛ ntoso biara bio wɔ sestɛm yi so. <label data-l10n-name="unsupported-link">Sua bi ka ho</label>
 channel-description = Seisei wo wɔ <label data-l10n-name="current-channel"></label> kyanɛl a wɔde yɛ ntoso no so.
 # Variables:
