@@ -12,6 +12,7 @@ update-failed-main = Mpshafatšo e padile.<a data-l10n-name="failed-link-main">L
 update-adminDisabled = Dimpshafatšo di šitišitšwe ke molaodi wa tshepedišo ya gago
 update-noUpdatesFound = { -brand-short-name } e nakong
 update-manual = Dimpshafatšo di hwetšagala go<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Dimpshafatšo di hwetšagala go<a data-l10n-name="manual-link"/>
 channel-description = Gona bjale o go <label data-l10n-name="current-channel"></label>kanale e mpshafaditšwego.
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
