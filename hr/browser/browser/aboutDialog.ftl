@@ -22,6 +22,7 @@ update-noUpdatesFound = Koristiš najnoviji { -brand-short-name }
 aboutdialog-update-checking-failed = Neuspjelo traženje novih verzija.
 update-otherInstanceHandlingUpdates = { -brand-short-name } nadograđuje jedna druga instanca
 update-manual = Nove verzije su dostupne na <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Nove verzije su dostupne na <a data-l10n-name="manual-link"/>
 update-unsupported = Na ovom sustavu više ne možeš nadograđivati. <label data-l10n-name="unsupported-link">Saznaj više</label>
 update-restarting = Ponovno pokretanje…
 update-internal-error = Neuspjelo traženje novih verzija zbog interne greške. Nove verzije su dostupne na <label data-l10n-name="manual-link"/>
