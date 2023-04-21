@@ -13,6 +13,7 @@ update-adminDisabled = Ukuvuselelwa kukhutshazelwe umphathi wohlelo lwakho
 update-noUpdatesFound = { -brand-short-name } isesikhathini
 update-otherInstanceHandlingUpdates = I-{ -brand-short-name } ifakwe ukwaziswa kwamuva ngenye indlela
 update-manual = Ukuvuselelwa kutholakala ku-<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ukuvuselelwa kutholakala ku-<a data-l10n-name="manual-link"/>
 update-unsupported = Awukwazi ukwenza ukufaka ukwaziswa kwamuva okuthuthukile kulolu hlelo. <label data-l10n-name="unsupported-link">Funda kabanzi</label>
 channel-description = Okwamanje uku <label data-l10n-name="current-channel"></label> vuselela isiteshi.{ " " }
 # Variables:
