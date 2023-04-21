@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } 已是最新
 aboutdialog-update-checking-failed = 检查更新失败。
 update-otherInstanceHandlingUpdates = { -brand-short-name } 正在由其他实例更新
 update-manual = 可访问 <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = 可访问 <a data-l10n-name="manual-link"/>
 update-unsupported = 您无法在这个系统上进一步更新。<label data-l10n-name="unsupported-link">详细了解</label>
 update-restarting = 正在重启浏览器…
 update-internal-error = 发生内部错误，无法检查更新。可访问 <label data-l10n-name="manual-link"/> 手动下载更新。
