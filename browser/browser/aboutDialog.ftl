@@ -21,6 +21,7 @@ update-adminDisabled = Actualizările sunt dezactivate de administratorul de sis
 update-noUpdatesFound = { -brand-short-name } este actualizat
 update-otherInstanceHandlingUpdates = { -brand-short-name } este actualizat de o altă instanță
 update-manual = Actualizări disponibile la <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Actualizări disponibile la <a data-l10n-name="manual-link"/>
 update-unsupported = Nu poți efectua actualizări suplimentare pe acest sistem. <label data-l10n-name="unsupported-link">Află mai multe</label>
 update-restarting = Se repornește…
 channel-description = Folosești în prezent canalul de actualizare <label data-l10n-name="current-channel"></label>.
