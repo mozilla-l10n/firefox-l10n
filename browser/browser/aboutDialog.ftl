@@ -46,6 +46,7 @@ update-otherInstanceHandlingUpdates =
        *[other] Програм { -brand-short-name }
     } се ажурира у другом примерку
 update-manual = Ажурирања су доступна на <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ажурирања су доступна на <a data-l10n-name="manual-link"/>
 update-unsupported = Не можете да извршите ажурирања на овом систему. <label data-l10n-name="unsupported-link">Сазнајте више</label>
 update-restarting = Рестартовање…
 update-internal-error = Интерна грешка спречава проверу ажурирања. Ажурирања су доступна на <label data-l10n-name="manual-link"/>
