@@ -22,6 +22,7 @@ update-noUpdatesFound = A { -brand-short-name } naprakész
 aboutdialog-update-checking-failed = Nem sikerült a frissítések keresése.
 update-otherInstanceHandlingUpdates = A { -brand-short-name } frissítése folyamatban egy másik példány által
 update-manual = Frissítés elérhető: <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Frissítés elérhető: <a data-l10n-name="manual-link"/>
 update-unsupported = Nem végezhet további frissítéseket ezen a rendszeren.<label data-l10n-name="unsupported-link">További tudnivalók</label>
 update-restarting = Újraindítás…
 update-internal-error = Belső hiba miatt nem lehet frissítéseket keresni. A frissítések itt érhetők el: <label data-l10n-name="manual-link"/>
