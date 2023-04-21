@@ -234,6 +234,7 @@ july-jam-headline = 保护您是我的职责
 july-jam-body = { -brand-short-name } 为每位用户月均拦截超过 3,000 个跟踪器，给您带来安全快速的良好互联网体验。
 july-jam-set-default-primary = 用 { -brand-short-name } 打开我的链接
 fox-doodle-pin-headline = 欢迎回来
+fox-doodle-pin-primary = 用 { -brand-short-name } 打开我的链接
 fox-doodle-pin-secondary = 暂时不要
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment

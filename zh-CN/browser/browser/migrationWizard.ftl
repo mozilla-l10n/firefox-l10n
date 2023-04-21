@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = 旧版 Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = CSV 文件中的密码
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer（IE 浏览器）
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,11 @@ migration-favorites-option-label = 收藏夹
 migration-logins-and-passwords-option-label = 保存的登录名和密码
 migration-history-option-label = 浏览历史
 migration-form-autofill-option-label = 自动填写表单数据
+migration-passwords-from-file-progress-header = 导入密码文件
+migration-passwords-from-file-success-header = 已成功导入密码
+migration-passwords-from-file = 正在检查文件中的密码
+migration-passwords-new = 新密码
+migration-passwords-from-file-picker-title = 导入密码文件
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -72,6 +78,8 @@ migration-passwords-from-file-tsv-filter-title =
        *[other] TSV 文件
     }
 migration-import-button-label = 导入
+migration-choose-to-import-from-file-button-label = 从文件导入
+migration-import-from-file-button-label = 选择文件
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
 migration-wizard-import-browser-no-browsers = { -brand-short-name } 找不到存有书签、历史记录或密码数据的程序。
