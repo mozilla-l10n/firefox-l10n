@@ -21,6 +21,7 @@ update-adminDisabled = نوێکردنەوە ناچالاک کراوە لە بە�
 update-noUpdatesFound = { -brand-short-name } ئێستا لە دووا وەشانە
 update-otherInstanceHandlingUpdates = { -brand-short-name } نوێکرایەوە لەلایەن نمونەیەکی ترەوە
 update-manual = نوێکردنەوە بەردەستە لە <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = نوێکردنەوە بەردەستە لە <a data-l10n-name="manual-link"/>
 update-unsupported = تۆ ناتوانی نوێکردنەوەی تر ئەنجام بدەی لەسەر ئەم سیستمە. <label data-l10n-name="unsupported-link"> زیاتر بزانە</label>
 update-restarting = پێکردنەوە…
 channel-description = تۆ ئێستا لە نوێکردنەوەی <label data-l10n-name="current-channel"></label> ئەم کەناڵەی.
