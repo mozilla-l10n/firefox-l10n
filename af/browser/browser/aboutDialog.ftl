@@ -20,6 +20,7 @@ update-adminDisabled = Bywerking deur die stelseladministrateur gedeaktiveer
 update-noUpdatesFound = { -brand-short-name } is op datum
 update-otherInstanceHandlingUpdates = { -brand-short-name } word tans bygewerk deur 'n ander programkopie
 update-manual = Bywerkings beskikbaar by <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Bywerkings beskikbaar by <a data-l10n-name="manual-link"/>
 update-unsupported = U kan nie verdere bywerkings op dié stelsel doen nie. <label data-l10n-name="unsupported-link">Meer inligting</label>
 update-restarting = Herbegin tans…
 channel-description = U is tans op die <label data-l10n-name="current-channel"></label>-bywerkkanaal.
