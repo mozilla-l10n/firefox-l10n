@@ -1238,6 +1238,7 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = طے شدہ حفاظت
     .accesskey = D
+preferences-doh-default-desc = تہاݙی رازداری دی حفاظت کیتے محفوظ  DNS کݙݨ ورتݨے ایندا فیصلہ { -brand-short-name } کریندے۔
 preferences-doh-default-detailed-desc-1 = جتھ ایہ دستیاب ہے انہاں علاقیاں وچ محفوظ  DNS ورتو
 preferences-doh-default-detailed-desc-3 = مقامی مہیا کار ورتو، جے ممکن ہے تاں
 preferences-doh-setting-enabled =
