@@ -15,6 +15,7 @@ update-failed-main = No jatanhentasti. <a data-l10n-name="failed-link-main">Sán
 update-adminDisabled = Iasi anapu ampe enka no tsinharhitini jaka xanhatatirini jimpo
 update-otherInstanceHandlingUpdates = { -brand-short-name } iasi anapu 'ukuatsati materu jasî anapu jimpo
 update-manual = Ixuri exeantauaka sánteru jimpanhechani <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ixuri exeantauaka sánteru jimpanhechani <a data-l10n-name="manual-link"/>
 update-unsupported = Noteru úatiksi úkauni santeru iasi anapu ampeecha arini miiunharhitakuani jimpo. <label data-l10n-name="unsupported-link">Sánteru mítini</label>
 channel-description = Jirukutapaxakari <label data-l10n-name="current-channel"></label> jimpanherantskueri ampe.
 # Variables:
