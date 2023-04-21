@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } अद्यतन अछि
 aboutdialog-update-checking-failed = अपडेट जाँचए में बिफल.
 update-otherInstanceHandlingUpdates = { -brand-short-name } केँ दोसर इंस्टांस केर द्वारा अद्यतन कएल जाए रहल अछि
 update-manual = अद्यतन एतय मोजुद अछि <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = अद्यतन एतय मोजुद अछि <a data-l10n-name="manual-link"/>
 update-unsupported = अहाँ एहि तंत्र पर आगाँ अद्यतन नहि कए सकैत अछि.<label data-l10n-name="unsupported-link">बेसी जानू</label>
 update-restarting = पुन: प्रारंभ भ रहल अछि...
 update-internal-error = आंतरिक त्रुटि के कारण अपडेट जाँचए में अक्षम. अपडेट <label data-l10n-name="manual-link"/> पर भेटत.
