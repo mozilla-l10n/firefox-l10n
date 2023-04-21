@@ -20,6 +20,7 @@ update-adminDisabled = Jiusu sistemys administrators ir deaktiviejs atjaunynuoju
 update-noUpdatesFound = { -brand-short-name } nav atjaunynuojumu
 update-otherInstanceHandlingUpdates = { -brand-short-name } itūbreid atjaunynoj cyta instance
 update-manual = Atjaunynuojumi ir pīejami ite<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Atjaunynuojumi ir pīejami ite<a data-l10n-name="manual-link"/>
 update-unsupported = Papyldus atjaunynuojumi itymā sistemā nav īspiejami. <label data-l10n-name="unsupported-link">Uzzynojit vairuok</label>
 update-restarting = Nūteik puorstarteišona…
 channel-description = Itūbreid jius izmontojit <label data-l10n-name="current-channel"></label> atjaunynuojumu kanalu.
