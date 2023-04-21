@@ -22,7 +22,7 @@ update-noUpdatesFound = { -brand-short-name } est à jour
 aboutdialog-update-checking-failed = Échec de la vérification des mises à jour.
 update-otherInstanceHandlingUpdates = { -brand-short-name } est mis à jour par une autre instance
 update-manual = Mises à jour disponibles à <label data-l10n-name="manual-link"/>
-aboutdialog-update-manual = Mises à jour disponibles à <a data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Mises à jour disponibles sur <a data-l10n-name="manual-link"/>
 update-unsupported = La dernière version n’est pas disponible pour votre système. <label data-l10n-name="unsupported-link">En savoir plus</label>
 update-restarting = Redémarrage…
 update-internal-error = Une erreur interne empêche la vérification des mises à jour. Elles sont disponibles sur <label data-l10n-name="manual-link"/>
