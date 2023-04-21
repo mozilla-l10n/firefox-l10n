@@ -68,6 +68,8 @@ import-items-description = درآمد کرݨ کیتے شئیں منتخب کرو
 import-permissions-page-title = برائے مہربانی { -brand-short-name } کوں اجازت ݙیو
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS دا تقاضا ہے جو تساں واضح طور تے { -brand-short-name } کوں Safari دیاں نشانیاں تائیں رسائی دی اجازت ݙیو۔ "جاری رکھو" تے کلک کرو تے ظاہر تھیوݨ والے فائل اوپن پینل وِچ "Bookmarks.plist" فائل کوں منتخب کرو۔
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS دا تقاضا ہے جو تساں واضح طور تے { -brand-short-name } کوں Safari دے ڈیٹا رسائی دی اجازت ݙیوو۔ “جاری رکھو” تے کلک کرو، ظاہر تھیوݨ آلے لبھݨ آلے ڈائیلاگ وچ “Safari“ فولڈر چݨو تے وت "کھولو" تے کلک کرو۔
 import-migrating-page-title = درآمد تھیندی پئی اے …
 import-migrating-description = ہیٹھ درج شئیں ایں ویلھے درآمد تھیندیاں پیاں ہن …
 import-select-profile-page-title = پروفائل منتخب کرو
