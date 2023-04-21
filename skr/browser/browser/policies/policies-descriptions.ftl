@@ -26,6 +26,8 @@ policy-Bookmarks = نشانیاں ٹول بار، نشانیاں مینو، یا
 policy-CaptivePortal = کیپٹیو پورٹل سپورٹ کوں فعال یا غیر فعال کرو۔
 policy-CertificatesDescription = سرٹیفکیٹ شامل کرو یا بلٹ ان سرٹیفکیٹ استعمال کرو۔
 policy-Cookies = ویب سائٹس کوں کوکیز سیٹ کرݨ دی اجازت ݙیو یا انکار کرو۔
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = کینٹینرز بارے پالیسیاں مرتب کرو۔
 policy-DisabledCiphers = سائفرز کوں غیر فعال کرو۔
 policy-DefaultDownloadDirectory = پہلے کنوں طے شدہ ڈاؤن لوڈ ڈائریکٹری مرتب کرو۔
 policy-DisableAppUpdate = براؤزر کوں اپڈیٹ تھیوݨ کنوں روکو۔
