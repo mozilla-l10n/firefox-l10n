@@ -17,6 +17,7 @@ update-adminDisabled = Ditlhabololo di emisitswe go ka dira ke molaolakhomphiuth
 update-noUpdatesFound = { -brand-short-name } e tlhabolotswe
 update-otherInstanceHandlingUpdates = { -brand-short-name } e tlhabololwa ke leloko le lengwe
 update-manual = Ditlhabololo di bonwa ko<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ditlhabololo di bonwa ko<a data-l10n-name="manual-link"/>
 update-unsupported = O ka se diragatse ditlhabololo tse di tetang selekanyo mo mafaratlhatlheng a.<label data-l10n-name="unsupported-link">Ithute go le gontsi</label>
 channel-description = O santse o le mo<label data-l10n-name="current-channel"></label>mosele wa tlhabololo.
 # Variables:
