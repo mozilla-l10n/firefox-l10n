@@ -20,6 +20,7 @@ update-adminDisabled = L'attualizzazziuna foru disabbilitati di l'amministraturi
 update-noUpdatesFound = { -brand-short-name } è attualizzatu
 update-otherInstanceHandlingUpdates = { -brand-short-name } si sta già attualizzannu
 update-manual = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = L'attualizzazziuna sunnu dispunìbbili nne <a data-l10n-name="manual-link"/>
 update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
 update-restarting = Staju riabbiannu…
 channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel"></label> .
