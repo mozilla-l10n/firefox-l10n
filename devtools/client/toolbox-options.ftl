@@ -106,13 +106,13 @@ options-disable-javascript-label = Вимкнути JavaScript *
 options-disable-javascript-tooltip =
     .title = Увімкнення цього параметра вимкне JavaScript для поточної вкладки. Якщо вкладку чи інструменти закрито, то ці налаштування не збережуться.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Увімкнути інструменти зневадження browser chrome та додатків
+options-enable-chrome-label = Увімкнути інструменти налагодження browser chrome і додатків
 options-enable-chrome-tooltip =
-    .title = Увімкнення цього параметра дозволить вам використовувати різні інструменти розробника в контексті браузера (Меню > Розробник > Інструменти браузера) та зневаджувати додатки в менеджері додатків
+    .title = Увімкнення цього параметра дозволить вам використовувати різні інструменти розробника в контексті браузера (Меню > Інші інструменти > Інструменти браузера) та налагоджувати додатки в менеджері додатків
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = Увімкнути віддалене зневадження
+options-enable-remote-label = Увімкнути віддалене налагодження
 options-enable-remote-tooltip2 =
-    .title = Увімкнення цього параметра дозволить віддалене зневадження цього екземпляру браузера
+    .title = Увімкнення цього параметра дозволить віддалене налагодження цього екземпляра браузера
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Увімкнути спеціальні форматувальники
 options-enable-custom-formatters-tooltip =

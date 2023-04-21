@@ -110,7 +110,7 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Увімкніть меню Р
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Увімкніть налагодження через USB в меню розробника Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Увімкніть зневадження через USB в Firefox на пристрої Android.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Увімкніть налагодження через USB у Firefox на пристрої Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Під'єднайте пристрій Android до комп'ютера.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.

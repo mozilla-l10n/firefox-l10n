@@ -22,8 +22,8 @@ serviceworker-worker-unregister = Скасувати реєстрацію
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
-serviceworker-worker-debug = Зневадження
-    .title = Лише виконувані service workers можуть бути зневаджені
+serviceworker-worker-debug = Налагодження
+    .title = Можна налагоджувати лише виконувані service workers
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Дослідити
@@ -51,7 +51,7 @@ serviceworker-empty-intro-link = Докладніше
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = Якщо ця сторінка повинна містити service worker, ви можете переглянути помилки в <a>Консолі</a> або зареєструвати свій service worker у <span>Зневаджувачі</span>.
+serviceworker-empty-suggestions2 = Якщо ця сторінка повинна містити service worker, ви можете переглянути помилки в <a>Консолі</a> або зареєструвати свій service worker у <span>Налагоджувачі</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Перегляньте service workers з інших доменів

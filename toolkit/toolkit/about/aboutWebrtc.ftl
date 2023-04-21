@@ -77,9 +77,9 @@ about-webrtc-nominated = Номіновано
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Вибрано
 about-webrtc-save-page-label = Зберегти сторінку
-about-webrtc-debug-mode-msg-label = Режим зневадження
-about-webrtc-debug-mode-off-state-label = Почати режим зневадження
-about-webrtc-debug-mode-on-state-label = Припинити режим зневадження
+about-webrtc-debug-mode-msg-label = Режим налагодження
+about-webrtc-debug-mode-off-state-label = Запустити режим налагодження
+about-webrtc-debug-mode-on-state-label = Зупинити режим налагодження
 about-webrtc-stats-heading = Статистика сеансу
 about-webrtc-stats-clear = Стерти історію
 about-webrtc-log-heading = Журнал з'єднання
@@ -181,7 +181,7 @@ about-webrtc-frame-stats-heading = Статистика відеокадру - M
 
 about-webrtc-save-page-msg = сторінку збережено до: { $path }
 about-webrtc-debug-mode-off-state-msg = журнал відстеження можна знайти в: { $path }
-about-webrtc-debug-mode-on-state-msg = режим зневадження активний, журнал відстеження в: { $path }
+about-webrtc-debug-mode-on-state-msg = режим налагодження активний, журнал відстеження: { $path }
 about-webrtc-aec-logging-off-state-msg = захоплені файли журналу можна знайти в: { $path }
 
 ##

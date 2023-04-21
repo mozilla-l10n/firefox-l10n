@@ -46,9 +46,9 @@ experimental-features-cookie-samesite-schemeful =
 experimental-features-cookie-samesite-schemeful-description = Обробляйте куки з одного домену, але за різними схемами (наприклад, http://example.com та https://example.com) як cross-site замість same-site. Поліпшує безпеку, але може призвести до несправностей.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
-    .label = Інструменти розробника: зневадження Service Worker
+    .label = Інструменти веброзробника: налагодження Service Worker
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Вмикає експериментальну підтримку Service Workers на панелі Зневадження. Ця функція може уповільнити роботу інструментів розробника та збільшити споживання пам'яті.
+experimental-features-devtools-serviceworker-debugger-support-description = Вмикає експериментальну підтримку Service Workers на панелі налагодження. Ця функція може сповільнити роботу інструментів веброзробника та збільшити споживання пам'яті.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Загальне вимкнення звуку WebRTC
