@@ -22,6 +22,7 @@ update-noUpdatesFound = Установлена последняя версия {
 aboutdialog-update-checking-failed = Не удалось проверить наличие обновлений.
 update-otherInstanceHandlingUpdates = Обновление производится другим процессом { -brand-short-name }
 update-manual = Обновления доступны на <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Обновления доступны на <a data-l10n-name="manual-link"/>
 update-unsupported = Вы не можете производить дальнейшие обновления на этой системе. <label data-l10n-name="unsupported-link">Подробнее</label>
 update-restarting = Перезапуск…
 update-internal-error = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <label data-l10n-name="manual-link"/>
