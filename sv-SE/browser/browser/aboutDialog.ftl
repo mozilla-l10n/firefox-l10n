@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } är redan uppdaterad
 aboutdialog-update-checking-failed = Det gick inte att söka efter uppdateringar.
 update-otherInstanceHandlingUpdates = { -brand-short-name } uppdateras av en annan instans
 update-manual = Uppdateringar finns på <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Uppdateringar finns på <a data-l10n-name="manual-link"/>
 update-unsupported = Du kan inte utföra fler uppdateringar på detta system. <label data-l10n-name="unsupported-link">Läs mer</label>
 update-restarting = Startar om…
 update-internal-error = Det gick inte att söka efter uppdateringar på grund av internt fel. Uppdateringar finns tillgängliga på <label data-l10n-name="manual-link"/>
