@@ -16,6 +16,7 @@ update-adminDisabled = اپڈیٹ چھُ تُہِند سسٹم انتظامین 
 update-noUpdatesFound = { -brand-short-name } چھُ تازئ ترین
 update-otherInstanceHandlingUpdates = دویمِہ مثألِہ ذریعہ چُھ  اپڈیٹ کرنْہ یوان { -brand-short-name }
 update-manual = اپڈیٹس چھَ دستیاب پ۪یٹھ<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = اپڈیٹس چھَ دستیاب پ۪یٹھ<a data-l10n-name="manual-link"/>
 update-unsupported = توہیہ ہیکیو نْہ یتھ سسٹمس پیٹھ مزید اپڈیٹ کْرتھ۔<label data-l10n-name="unsupported-link">مزید ہیچھیو</label>
 channel-description = تُہئ چھَو حالس  پ۪یٹھ <label data-l10n-name="current-channel"></label>  چینل كریو اپڈیٹ.
 # Variables:
