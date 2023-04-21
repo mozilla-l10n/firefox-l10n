@@ -20,6 +20,7 @@ update-adminDisabled = সিস্টেম অ্যাডমিনিস্�
 update-noUpdatesFound = { -brand-short-name } আপডেট করা অবস্থায় রয়েছে
 update-otherInstanceHandlingUpdates = { -brand-short-name } আরেকটি প্রতিলিপিতে আপডেট হচ্ছে
 update-manual = আপডেট উপলব্ধ রয়েছে এইখানে <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = আপডেট উপলব্ধ রয়েছে এইখানে <a data-l10n-name="manual-link"/>
 update-unsupported = আপনি এই সিস্টেমে আর আপডেট করতে পারবেন না।<label data-l10n-name="unsupported-link">আরও জানুন</label>
 update-restarting = পুনরারম্ভ…
 channel-description = আপনি বর্তমানে <label data-l10n-name="current-channel"></label> আপডেট চ্যানেলে রয়েছেন।
