@@ -20,6 +20,7 @@ update-adminDisabled = आपडेटफोरखौ नोंथांनि �
 update-noUpdatesFound = { -brand-short-name } आ गोदान
 update-otherInstanceHandlingUpdates = { -brand-short-name } आ गुबुन मोनसे बिदिन्थिजों आपडेट खालामजागासिनो दं।
 update-manual = ..आव आपडेटफोर दं<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = ..आव आपडेटफोर दं<a data-l10n-name="manual-link"/>
 update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<label data-l10n-name="unsupported-link">गोबां सोलों</label>
 update-restarting = फिन जागाय गासिनो दङ...
 channel-description = नोंथाङा दासान्दि दं<label data-l10n-name="current-channel"></label>सेनेलखौ आपडेट खालाम।
