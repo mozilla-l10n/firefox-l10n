@@ -21,6 +21,7 @@ update-adminDisabled = L'administrador ha inhabilitat les actualitzacions
 update-noUpdatesFound = El { -brand-short-name } està actualitzat
 update-otherInstanceHandlingUpdates = Una altra instància està actualitzant el { -brand-short-name }
 update-manual = Hi ha actualitzacions disponibles a <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Hi ha actualitzacions disponibles a <a data-l10n-name="manual-link"/>
 update-unsupported = No podeu actualitzar en este sistema. <label data-l10n-name="unsupported-link">Més informació</label>
 update-restarting = S'està reiniciant…
 channel-description = Actualment esteu al canal <label data-l10n-name="current-channel"></label> d'actualitzacions.
