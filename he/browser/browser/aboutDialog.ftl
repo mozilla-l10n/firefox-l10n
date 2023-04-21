@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } עדכני
 aboutdialog-update-checking-failed = בדיקת העדכונים נכשלה.
 update-otherInstanceHandlingUpdates = { -brand-short-name } מתעדכן ברגעים אלו באמצעות תהליך אחר
 update-manual = עדכונים זמינים ב־<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = עדכונים זמינים ב־<a data-l10n-name="manual-link"/>
 update-unsupported = לא ניתן לבצע עדכונים נוספים במערכת זו.<label data-l10n-name="unsupported-link">מידע נוסף</label>
 update-restarting = מתבצעת הפעלה מחדש…
 update-internal-error = לא ניתן היה לבדוק אחר עדכונים עקב שגיאה פנימית. עדכונים זמינים ב־<label data-l10n-name="manual-link"/>
