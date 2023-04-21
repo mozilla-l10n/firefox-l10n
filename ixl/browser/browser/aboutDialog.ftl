@@ -21,6 +21,7 @@ update-adminDisabled = Unq'a b'anb'al tuche' ya'samal ve't kat ta'n u ilol tetze
 update-noUpdatesFound = { -brand-short-name } ile' b'a'n ve't tatine'
 update-otherInstanceHandlingUpdates = { -brand-short-name } ile' ni b'anpu tuche' ta'n uma't lochb'al
 update-manual = La uch ib'anax b'a'n stej tzitza' <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = La uch ib'anax b'a'n stej tzitza' <a data-l10n-name="manual-link"/>
 update-unsupported = Ye' la uch ayakeb' ve't ti' ib'anat b'a'n stej tzitza'. <label data-l10n-name="unsupported-link">Ootzi ka'te</label>
 update-restarting = Ile' ni xe'tisa unpajte…
 channel-description = Ile' b'anel ve't kan tuche' tu b'anb'al tatine' <label data-l10n-name="current-channel"> </label> ti' ib'anax b'a'n stej.
