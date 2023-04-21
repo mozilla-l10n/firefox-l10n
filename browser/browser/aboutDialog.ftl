@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } es a jorn
 aboutdialog-update-checking-failed = Verificacion impossibla de la disponibilitat de mesas a jorn.
 update-otherInstanceHandlingUpdates = { -brand-short-name } es mes a jorn per una autra instància
 update-manual = Mesas a jorn disponiblas a <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Mesas a jorn disponiblas a <a data-l10n-name="manual-link"/>
 update-unsupported = La darrièra version es pas disponibla per vòstre sistèma. <label data-l10n-name="unsupported-link">Ne saber mai</label>
 update-restarting = Reaviada…
 update-internal-error = Verificacion impossibla de las mesas a jorn a causa d’una error intèrna. Las mesas a jorn son disponibla a <label data-l10n-name="manual-link"/>
