@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } ескірмеді
 aboutdialog-update-checking-failed = Жаңартуларды тексеру сәтсіз аяқталды.
 update-otherInstanceHandlingUpdates = { -brand-short-name } басқа экземплярмен жаңартылуда
 update-manual = Жаңартулар қолжетімді жері: <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Жаңартулар қолжетімді жері: <a data-l10n-name="manual-link"/>
 update-unsupported = Бұл жүйе үшін болашақ жаңартуларды орната алмайсыз. <label data-l10n-name="unsupported-link">Көбірек білу</label>
 update-restarting = Қайта қосылуда…
 update-internal-error = Ішкі қатеге байланысты жаңартуларды тексеру мүмкін емес. Жаңартулар <label data-l10n-name="manual-link"/> адресі бойынша қолжетімді
