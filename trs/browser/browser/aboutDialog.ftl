@@ -21,6 +21,7 @@ update-adminDisabled = Su' 'nïnj ra'a aga' sikà' rà na ni duyichin' si daran'
 update-noUpdatesFound = { -brand-short-name } nga ganahuin naka
 update-otherInstanceHandlingUpdates = { -brand-short-name } nahui nakà ma 'iaj a'ngo ña achín nì'iô'
 update-manual = Gà' hua sa nakà doj riña <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Gà' hua sa nakà doj riña <a data-l10n-name="manual-link"/>
 update-unsupported = Si ga'ue nagi'iaj nakà rè' doj riña aga' na gà' rû' huaj<label data-l10n-name="unsupported-link">Gahuin chrun doj</label>
 update-restarting = Nayi'ì ñûn
 channel-description = Riñan man sa naka doj huin <label data-l10n-name="current-channel"></label> nan.
