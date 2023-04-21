@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
 aboutdialog-update-checking-failed = اپ ڈیٹس کوں چیک کرݨ وِچ ناکام۔
 update-otherInstanceHandlingUpdates = { -brand-short-name } ݙوجھی جاہ توں اپڈیٹ تھیندا پیا ہے
 update-manual = اپڈیٹ اتھاں دستیاب کائنی  <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = اپڈیٹ اتھاں دستیاب کائنی  <a data-l10n-name="manual-link"/>
 update-unsupported = تساں ایں سسٹم تے ودھیک اپڈیٹ نہیں کر سڳدے۔<label data-l10n-name="unsupported-link">ودھیک سیکھو</label>
 update-restarting = ولدا شروع تھیندا پئے۔۔۔
 update-internal-error = اندرلی خرابی دی وجہ توں اپ ڈیٹس چیک کرݨ کنوں قاصر۔ اپ ڈیٹس <label data-l10n-name="manual-link"/> تے دستیاب ہن۔
