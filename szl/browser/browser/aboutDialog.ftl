@@ -21,6 +21,7 @@ update-adminDisabled = Aktualizacyje sōm zakozane ôd administratora systymu
 update-noUpdatesFound = { -brand-short-name } je aktualny
 update-otherInstanceHandlingUpdates = { -brand-short-name } je aktualizowany ôd inszyj instancyje
 update-manual = Aktualizacyje dostympne na <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Aktualizacyje dostympne na <a data-l10n-name="manual-link"/>
 update-unsupported = Niy idzie robić dalszych aktualizacyji na tym systymie. <label data-l10n-name="unsupported-link">Wiyncyj</label>
 update-restarting = Resztartowanie…
 channel-description = Używosz teroz kanału aktualizacyji <label data-l10n-name="current-channel"></label>.
