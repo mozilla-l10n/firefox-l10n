@@ -21,6 +21,7 @@ update-adminDisabled = प्रणाली प्रशासकाद्व�
 update-noUpdatesFound = { -brand-short-name } अद्ययावत आहे
 update-otherInstanceHandlingUpdates = { -brand-short-name } यावेळी वेगळ्या ठिकाणाहून सुधारित होत आहे
 update-manual = सुधारणा येथे उपलब्ध आहेत <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = सुधारणा येथे उपलब्ध आहेत <a data-l10n-name="manual-link"/>
 update-unsupported = आपण या सिस्टीमवर आणखी सुधारणा करू शकत नाही. <label data-l10n-name="unsupported-link">अधिक जाणा</label>
 update-restarting = पुनःसुरु होत आहे…
 channel-description = आपण सध्या <label data-l10n-name="current-channel"></label> सुधारणा वाहिनीवर आहात.
