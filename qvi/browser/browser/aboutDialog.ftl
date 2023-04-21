@@ -16,6 +16,7 @@ update-failed-main = Kunanpachakta witishka. <a data-l10n-name="failed-link-main
 update-adminDisabled = Kunanpayashkakuna kichushka kanpak llikata kamachikana
 update-noUpdatesFound = { -brand-short-name } ña kunanpayashka
 update-manual = Kunanpayashkakuna shinankapak -pi <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Kunanpayashkakuna shinankapak -pi <a data-l10n-name="manual-link"/>
 channel-description = Witkuta arikuhun <label data-l10n-name="current-channel"></label> witkuta kunanpayana.{ " " }
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
