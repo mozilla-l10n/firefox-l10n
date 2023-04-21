@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } ᱫᱚ ᱟᱹᱯ ᱴᱩ ᱰᱮᱴ 
 aboutdialog-update-checking-failed = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱮᱞ ᱨᱮ ᱦᱩᱰᱟᱹᱜ ᱾
 update-otherInstanceHandlingUpdates = { -brand-short-name } ᱮᱴᱟᱜᱤᱡ ᱡᱮᱞᱠᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱦᱟᱹᱞᱤ ᱟᱠᱟᱱᱟ
 update-manual = ᱨᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = ᱨᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ <a data-l10n-name="manual-link"/>
 update-unsupported = ᱟᱢ ᱱᱚᱶᱟ ᱥᱭᱥᱴᱮᱢ ᱨᱮ ᱢᱟᱲᱟᱝ ᱥᱮᱫ ᱦᱟᱹᱞᱤ ᱵᱟᱢ ᱦᱩᱭ ᱦᱚᱪᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾<label data-l10n-name="unsupported-link">ᱵᱟᱹᱲᱛᱤ ᱪᱚᱫ ᱢᱮ</label>
 update-restarting = ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵᱚᱜᱼᱟ…
 update-internal-error = ᱵᱷᱤᱛᱤᱨ ᱵᱷᱩᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱮᱱ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾ <label data-l10n-name="manual-link"/> ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ
