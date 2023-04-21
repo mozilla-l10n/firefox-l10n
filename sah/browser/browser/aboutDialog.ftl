@@ -16,6 +16,7 @@ update-adminDisabled = Саҥардыыны дьаһабыл боппут
 update-noUpdatesFound = { -brand-short-name } тиһэх барыла турар эбит
 update-otherInstanceHandlingUpdates = { -brand-short-name }: атын саҥардыы буола турар
 update-manual = Саҥардыы манна сытар <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Саҥардыы манна сытар <a data-l10n-name="manual-link"/>
 update-unsupported = Бу тиһиликкэ (систиэмэҕэ) салгыы саҥардыыны оҥорор кыаҕыҥ суох.<label data-l10n-name="unsupported-link">Сиһилии</label>
 channel-description = Билигин манна бааргын: <label data-l10n-name="current-channel"></label> саҥардыы канаала.
 # Variables:
