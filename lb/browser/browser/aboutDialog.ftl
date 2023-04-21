@@ -20,6 +20,7 @@ update-adminDisabled = Aktualisatioune goufe vun Ärem System-Administrateur aus
 update-noUpdatesFound = { -brand-short-name } ass aktuell
 update-otherInstanceHandlingUpdates = { -brand-short-name } gëtt duerch eng aner Instanz aktualiséiert.
 update-manual = Aktualiséierung disponibel ënner <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Aktualiséierung disponibel ënner <a data-l10n-name="manual-link"/>
 update-unsupported = Op dësem System si keng weider Aktualiséierungen méiglech. <label data-l10n-name="unsupported-link">Fir méi ze wëssen</label>
 update-restarting = Nei starten…
 channel-description = Dir benotzt den Aktualisatiounskanal <label data-l10n-name="current-channel"></label> Aktualisatiounskanal.{ " " }
