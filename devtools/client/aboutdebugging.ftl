@@ -9,11 +9,11 @@
 # Page Title strings
 
 # Page title (ie tab title) for the Setup page
-about-debugging-page-title-setup-page = Зневадження - Налаштування
+about-debugging-page-title-setup-page = Налагодження - Налаштування
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
-about-debugging-page-title-runtime-page = Зневадження - Runtime / { $selectedRuntimeId }
+about-debugging-page-title-runtime-page = Налагодження - Runtime / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -70,7 +70,7 @@ about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
 # Text to show in the footer of the sidebar that links to a help page
 # (currently: https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/)
-about-debugging-sidebar-support = Допомога зі зневадженням
+about-debugging-sidebar-support = Допомога із налагодженням
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
@@ -84,15 +84,15 @@ about-debugging-refresh-usb-devices-button = Оновити список при�
 # Title of the Setup page.
 about-debugging-setup-title = Налаштування
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Налаштуйте метод з'єднання, за допомогою якого ви бажаєте виконати віддалене зневадження свого пристрою.
+about-debugging-setup-intro = Налаштуйте метод з'єднання, за допомогою якого ви бажаєте виконати віддалене налагодження свого пристрою.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Використовуйте <a>{ about-debugging-this-firefox-runtime-name }</a> для зневадження розширень і service workers в цій версії { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = Використовуйте <a>{ about-debugging-this-firefox-runtime-name }</a> для налагодження розширень і service workers в цій версії { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Під'єднати пристрій
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = Увімкнення цієї функції завантажить і додасть необхідні компоненти зневадження Android USB до { -brand-shorter-name }.
+about-debugging-setup-usb-disabled = Увімкнення цієї функції завантажить і додасть необхідні компоненти налагодження Android USB до { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Увімкнути пристрої USB
@@ -108,7 +108,7 @@ about-debugging-setup-usb-status-updating = Оновлення…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Увімкніть меню Розробник на пристрої Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Увімкніть зневадження через USB в меню розробника Android.
+about-debugging-setup-usb-step-enable-debug2 = Увімкніть налагодження через USB в меню розробника Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Увімкніть зневадження через USB в Firefox на пристрої Android.
 # USB section step by step guide
@@ -182,7 +182,7 @@ about-debugging-runtime-service-workers-not-compatible = Конфігураці�
 about-debugging-browser-version-too-old = Під'єднаний браузер має застарілу версію ({ $runtimeVersion }). Мінімальна підтримувана версія ({ $minVersion }). Ця конфігурація не підтримується і може призвести до збою DevTools. Будь ласка, оновіть під'єднаний браузер. <a>Розв'язання проблем</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
-about-debugging-browser-version-too-old-fennec = Ця версія Firefox не може зневадити Firefox для Android (68). Радимо встановити Firefox для Android Nightly на ваш телефон для тестування. <a>Детальніше</a>
+about-debugging-browser-version-too-old-fennec = Ця версія Firefox не може налагодити Firefox для Android (68). Радимо встановити Firefox для Android Nightly на ваш телефон для тестування. <a>Детальніше</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
