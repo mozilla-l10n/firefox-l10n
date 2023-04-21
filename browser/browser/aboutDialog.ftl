@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } განახლებული�
 aboutdialog-update-checking-failed = განახლებების შემოწმება ვერ მოხერხდა.
 update-otherInstanceHandlingUpdates = { -brand-short-name } უკვე ახლდება
 update-manual = განახლებები ხელმისაწვდომია <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = განახლებები ხელმისაწვდომია <a data-l10n-name="manual-link"/>
 update-unsupported = თქვენ ამ სისტემაზე დამატებითი განახლებების შესრულებაც შეგიძლიათ. <label data-l10n-name="unsupported-link">ვრცლად</label>
 update-restarting = ეშვება ხელახლა…
 update-internal-error = ვერ მოწმდება განახლებებზე შიდა შეცდომის გამო. ხელით განახლებისთვის იხილეთ <label data-l10n-name="manual-link"/>
