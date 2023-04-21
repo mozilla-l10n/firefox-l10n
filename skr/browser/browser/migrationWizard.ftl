@@ -104,6 +104,7 @@ migration-import-from-file-button-label = فائل چݨو
 migration-cancel-button-label = منسوخ
 migration-done-button-label = تھی ڳیا
 migration-wizard-import-browser-no-browsers = { -brand-short-name } کوئی اینجھے پروگرام کائنی لبھ سڳا جیندے وچ نشانی، تاریخ یا پاس ورڈ ڈیٹا شامل ہووے۔
+migration-wizard-import-browser-no-resources = ہک خرابی ہائی۔ اوں براؤزر پروفائل کنوں امپورٹ کرݨ کیتے { -brand-short-name } کوئی ڈیٹا کائنی لبھ سڳا۔
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -130,6 +131,7 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = سفاری کنوں پاس ورڈز امپورٹ کرو
 migration-safari-password-import-steps-header = سفاری پاس ورڈز امپورٹ کرݨ کیتے:
 migration-safari-password-import-step1 = Safari وچ ، ”Safari“ مینیو کھولو تے ترجیحاں> پاسورڈز تے ون٘ڄو
+migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> بٹݨ چݨو تے "سارے پاس ورڈ ایکسپورٹ کرو" چݨو
 migration-safari-password-import-step3 = پاس ورڈز فائل محفوظ کرو
 migration-safari-password-import-skip-button = چھوڑو
 migration-safari-password-import-select-button = فائل چݨو
