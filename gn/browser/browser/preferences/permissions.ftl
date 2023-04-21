@@ -221,6 +221,7 @@ permissions-site-speaker-desc = Ko’ã ñanduti renda ojerure peteĩ mba’e’
 permissions-exceptions-doh-window =
     .title = Ñanduti renda ykepeguáva DNS mba’erã HTTPS rehegua
     .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } ndoipurumo’ãi DNS hekorosãva ko’ã tenda ha tendatee’ípe.
 permissions-doh-entry-field = Ehai ñanduti renda rendatee réra
     .accesskey = d
 permissions-doh-add-exception =
