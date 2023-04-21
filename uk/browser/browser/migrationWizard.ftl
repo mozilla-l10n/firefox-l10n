@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (застарілий)
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Паролі з файлу CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Обране
 migration-logins-and-passwords-option-label = Збережені паролі
 migration-history-option-label = Історія перегляду
 migration-form-autofill-option-label = Дані автозаповнення форм
+migration-passwords-from-file-progress-header = Імпортувати паролі з файлу
+migration-passwords-from-file-success-header = Паролі успішно імпортовано
+migration-passwords-from-file = Перевірка файлу на наявність паролів
+migration-passwords-new = Нові паролі
+migration-passwords-updated = Наявні паролі
+migration-passwords-from-file-picker-title = Імпортувати файл з паролями
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,31 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Документ TSV
        *[other] Файл TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] Додано { $newEntries }
+        [few] Додано { $newEntries }
+       *[many] Додано { $newEntries }
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] Оновлено { $updatedEntries }
+        [few] Оновлено { $updatedEntries }
+       *[many] Оновлено { $updatedEntries }
+    }
 migration-import-button-label = Імпорт
+migration-choose-to-import-from-file-button-label = Імпортувати з файлу
+migration-import-from-file-button-label = Вибрати файл
 migration-cancel-button-label = Скасувати
 migration-done-button-label = Готово
 migration-wizard-import-browser-no-browsers = { -brand-short-name } не зміг знайти програми, які містять закладки, історію чи паролі.
