@@ -21,6 +21,7 @@ update-adminDisabled = Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iy
 update-noUpdatesFound = Ang { -brand-short-name } ay up to date
 update-otherInstanceHandlingUpdates = Ang { -brand-short-name } ay kasalukuyang ina-update ng isa pang instance
 update-manual = Ang mga update ay matatagpuan sa <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ang mga update ay matatagpuan sa <a data-l10n-name="manual-link"/>
 update-unsupported = Hindi ka na maaaring makapag-update sa sistemang ito. <label data-l10n-name="unsupported-link">Alamin</label>
 update-restarting = Nag-rerestart...
 channel-description = Ikaw ay kasalukuyang nasa <label data-l10n-name="current-channel"></label> update channel.
