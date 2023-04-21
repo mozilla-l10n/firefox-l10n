@@ -12,7 +12,7 @@ experimental-features-css-masonry-description = Zmóžnja pódpěru za eksperime
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Toś ten nowy API pódpěru na niskim niwowje za wuwjeźenje woblicenjow a grafiske zwobraznjenje z  <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> rěda abo licadła wužywarja bitujo. <a data-l10n-name="spec">Specifikacija</a> jo hyšći w źěle. Dalšne informacije dostanjośo w <a data-l10n-name="bugzilla">zmólkowej rozpšawje 1602129</a>.
-experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">API pódpěru na niskim niwowje za wuwjeźenje woblicenjow a grafiske zwobraznjenje z  <a data-l10n-name="wikipedia-gpu">Graphics Processing Unit (GPU)</a> rěda abo licadła wužywarja bitujo. Prědna wersija <a data-l10n-name="spec">Specifikacija</a> se dokóńcenjeju bližy. Glejśo <a data-l10n-name="bugzilla">zmólkowu rozpšawu 1616739</a> za dalše drobnostki.
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> pódpěru na niskim niwowje za wuwjeźenje woblicenjow a grafiske zwobraznjenje z  <a data-l10n-name="wikipedia-gpu">Graphics Processing Unit (GPU)</a> rěda abo licadła wužywarja bitujo. Prědna wersija <a data-l10n-name="spec">Specifikacija</a> se dokóńcenjeju bližy. Glejśo <a data-l10n-name="bugzilla">zmólkowu rozpšawu 1616739</a> za dalše drobnostki.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =

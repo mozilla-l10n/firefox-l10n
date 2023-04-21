@@ -93,7 +93,7 @@ about-glean-adhoc-explanation =
     Za dalšne testy <i>ad hoc</i>
     móžośo teke aktualnu gódnotu wěstego źěla instrumentacije póstajiś,
     gaž konsolu wuwijaŕskich rědow how w <code>about:glean</code> wócynjaśo
-    a API testGetValue takle wužywaśo:
+    a API <code>testGetValue()</code> takle wužywaśo:
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Nastajenja nałožyś a ping wótpósłaś
 about-glean-about-data-header = Wó datach
