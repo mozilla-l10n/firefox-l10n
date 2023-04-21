@@ -20,6 +20,7 @@ update-adminDisabled = ཁྱེད་ཀྱི་མ་ལག་དོ་དམ
 update-noUpdatesFound = { -brand-short-name }་ནི་གསར་ཤོས་རེད་འདུག
 update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by another instance
 update-manual = Updates available at <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Updates available at <a data-l10n-name="manual-link"/>
 update-unsupported = You can not perform further updates on this system. <label data-l10n-name="unsupported-link">Learn more</label>
 update-restarting = འགོ་བསྐྱར་འཛུགས་བྱེད་བཞིན་པ་་་
 channel-description = You are currently on the <label data-l10n-name="current-channel"></label> update channel.{ " " }
