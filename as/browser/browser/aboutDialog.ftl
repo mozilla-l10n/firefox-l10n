@@ -21,6 +21,7 @@ update-adminDisabled = আপডেটসমূহ আপোনাৰ চিস�
 update-noUpdatesFound = { -brand-short-name } আপ টু ডেট আছে
 update-otherInstanceHandlingUpdates = { -brand-short-name } ক অন্য এটা উদাহৰণ দ্বাৰা আপডেইট কৰা হৈ আছে
 update-manual = আপডেটসমূহ <label data-l10n-name="manual-link"/>ত উপলব্ধ
+aboutdialog-update-manual = আপডেটসমূহ <a data-l10n-name="manual-link"/>ত উপলব্ধ
 update-unsupported = আপুনি এই চিস্টেমত ততোধিক আপডেইট পৰিৱেশন কৰিব নোৱাৰিব। <label data-l10n-name="unsupported-link">অধিক জানক</label>
 update-restarting = পুনৰাৰম্ভ হৈ আছে…
 channel-description = আপুনি বৰ্তমানে <label data-l10n-name="current-channel"></label> আপডেইট চেনেলত আছে।{ " " }
