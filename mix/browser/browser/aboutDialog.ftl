@@ -20,6 +20,7 @@ update-adminDisabled = Ntasia ña ndutsaa administrador ña sistema
 update-noUpdatesFound = { -brand-short-name } tsa ntu'tsai
 update-otherInstanceHandlingUpdates = { -brand-short-name }ndu tsai inka tsio
 update-manual = Ña saa ntii inkai nu <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ña saa ntii inkai nu <a data-l10n-name="manual-link"/>
 update-unsupported = Maku ntu tsaa sistema. <label data-l10n-name="unsupported-link">Kavi</label>
 update-restarting = Ntaki tsai…
 channel-description = Kuachu'un canal de actualizaciones <label data-l10n-name="current-channel"></label> . 
