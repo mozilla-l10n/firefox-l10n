@@ -36,6 +36,7 @@ update-otherInstanceHandlingUpdates =
        *[other] Aplikace { -brand-short-name } je aktualizována jinou instancí
     }
 update-manual = Aktualizace jsou dostupné na <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Aktualizace jsou dostupné na <a data-l10n-name="manual-link"/>
 update-unsupported = Na tomto systému nelze provádět další aktualizace. <label data-l10n-name="unsupported-link">Zjistit více</label>
 update-restarting = Restartování…
 update-internal-error = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na  adrese <label data-l10n-name="manual-link"/>
