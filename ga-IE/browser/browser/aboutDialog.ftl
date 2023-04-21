@@ -20,6 +20,7 @@ update-adminDisabled = Tá nuashonruithe bogearra díchumasaithe ag riarthóir d
 update-noUpdatesFound = Tá { -brand-short-name } cothrom le dáta
 update-otherInstanceHandlingUpdates = Tá { -brand-short-name } á nuashonrú ag ásc eile
 update-manual = Nuashonruithe ar fáil ó <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Nuashonruithe ar fáil ó <a data-l10n-name="manual-link"/>
 update-unsupported = Ní féidir leat tuilleadh nuashonruithe a chur i bhfeidhm ar an gcóras seo. <label data-l10n-name="unsupported-link">Tuilleadh eolais</label>
 update-restarting = Á Atosú…
 channel-description = Tá tú ar an gcainéal <label data-l10n-name="current-channel"></label> faoi láthair.
