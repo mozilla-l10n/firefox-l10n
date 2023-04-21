@@ -735,6 +735,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = 您当前正在同步以下项目：
+sync-syncing-across-devices-heading = 您目前与已连接的设备同步以下项目：
 sync-currently-syncing-bookmarks = 书签
 sync-currently-syncing-history = 历史记录
 sync-currently-syncing-tabs = 打开的标签页
@@ -763,6 +764,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = 断开连接…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = 对同步项目的更改会同步到所有已连接的设备上。
 sync-engine-bookmarks =
     .label = 书签
     .accesskey = m
