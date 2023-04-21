@@ -20,6 +20,7 @@ update-adminDisabled = সিস্টেম প্রশাসক কর্ত�
 update-noUpdatesFound = { -brand-short-name } হালনাগাদ করা হয়েছে
 update-otherInstanceHandlingUpdates = { -brand-short-name } অন্য স্থানে হালনাগাদ হয়েছে
 update-manual = হালনাগাদ যেখানে পাওয়া যাবে <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = হালনাগাদ যেখানে পাওয়া যাবে <a data-l10n-name="manual-link"/>
 update-unsupported = আপনি এই সিস্টেমে আর হালনাগাদ করতে পারবেন না। <label data-l10n-name="unsupported-link">আরও জানুন</label>
 update-restarting = পুনরায় আরম্ভ হচ্ছে…
 channel-description = আপনি বর্তমানে রয়েছেন <label data-l10n-name="current-channel"></label> হালনাগাদ চ্যানেল।
