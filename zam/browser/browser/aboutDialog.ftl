@@ -17,6 +17,7 @@ update-adminDisabled = Ree koo kub gaad toob
 update-noUpdatesFound = { -brand-short-name } gooc laa
 update-otherInstanceHandlingUpdates = { -brand-short-name } the thus kue noo kue
 update-manual = Taak laay koo kub lent lo <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Taak laay koo kub lent lo <a data-l10n-name="manual-link"/>
 update-unsupported = Naa gadt liiy kuub kue.<label data-l10n-name="unsupported-link">Lab Kue</label>
 update-restarting = Bí~rè là kíy...
 channel-description = Dee xhin luu kue <label data-l10n-name="current-channel"></label> gui koo kub.
