@@ -22,6 +22,7 @@ update-noUpdatesFound = Der er ingen opdateringer til { -brand-short-name } i ø
 aboutdialog-update-checking-failed = Kunne ikke søge efter opdateringer.
 update-otherInstanceHandlingUpdates = { -brand-short-name } er ved at blive opdateret af en anden instans
 update-manual = Opdateringer tilgængelige fra <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Opdateringer tilgængelige fra <a data-l10n-name="manual-link"/>
 update-unsupported = Du kan ikke foretage yderligere opdateringer på dette system.<label data-l10n-name="unsupported-link">Læs mere</label>
 update-restarting = Genstarter…
 update-internal-error = Kan ikke søge efter opdateringer på grund af en intern fejl. Opdateringer er tilgængelige på <label data-l10n-name="manual-link"/>
