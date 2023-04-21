@@ -16,6 +16,7 @@ update-adminDisabled = Birêveberiya pergala te nûkirin neçalak kirine
 update-noUpdatesFound = { -brand-short-name } ya nû ye
 update-otherInstanceHandlingUpdates = { -brand-short-name } ji hêla kopiyeke xwe ve tê nûkirin
 update-manual = Nûkirin li virê ne: <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Nûkirin li virê ne: <a data-l10n-name="manual-link"/>
 update-unsupported = Tu nikarî li ser vê pergalê nûkirinan bi kar bînî. <label data-l10n-name="unsupported-link">Zêdetir bizane</label>
 channel-description = Tu niha di kanala <label data-l10n-name="current-channel"></label> nûkirinê de yî.
 # Variables:
