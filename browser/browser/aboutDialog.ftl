@@ -12,6 +12,7 @@ update-failed-main = Шинэчлэлд амжилтгүй.<a data-l10n-name="fa
 update-adminDisabled = Шинэчлэлүүд захирагчаар хаагдсан
 update-noUpdatesFound = { -brand-short-name } нэн шинэ
 update-manual = Шинэчлэл боломжтой байна<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Шинэчлэл боломжтой байна<a data-l10n-name="manual-link"/>
 channel-description = Та яг одоо <label data-l10n-name="current-channel"></label>шинэчлэлийн сувагт байна.
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
