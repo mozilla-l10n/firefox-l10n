@@ -21,6 +21,7 @@ update-adminDisabled = Hizivadennoù diweredekaet gant hoc’h ardead reizhiad
 update-noUpdatesFound = Hizivaet eo bet { -brand-short-name }
 update-otherInstanceHandlingUpdates = Emañ { -brand-short-name } o vezañ hizivaet gant un eriol all
 update-manual = Hizivadennoù hegerz e <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Hizivadennoù hegerz e <a data-l10n-name="manual-link"/>
 update-unsupported = Ne c’hellit ket arloañ hizivadennoù ouzhpenn war ho reizhiad. <label data-l10n-name="unsupported-link">Gouzout hiroc’h</label>
 update-restarting = Oc’h adloc’hañ…
 channel-description = Oc’h arverañ ar sanell hizivaat <label data-l10n-name="current-channel"></label> emaoc’h bremañ.
