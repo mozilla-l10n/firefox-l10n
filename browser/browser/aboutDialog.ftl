@@ -22,6 +22,7 @@ update-noUpdatesFound = Изданието е последното на { -brand
 aboutdialog-update-checking-failed = Невъзможна проверка за обновявания.
 update-otherInstanceHandlingUpdates = Друг екземпляр на { -brand-short-name } е започнал обновяване
 update-manual = Обновяванията са налични на <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Обновяванията са налични на <a data-l10n-name="manual-link"/>
 update-unsupported = Не може повече да обновявате тази система. <label data-l10n-name="unsupported-link">Научете повече</label>
 update-restarting = Рестартиране…
 update-internal-error = Проверката за обновяване не е извършена поради вътрешна грешка. Новите издания са достъпно на <label data-l10n-name="manual-link"/>
