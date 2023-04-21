@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } estas aktuala
 aboutdialog-update-checking-failed = Malsukcesa kontrolo pri ekzisto de ĝisdatigoj.
 update-otherInstanceHandlingUpdates = { -brand-short-name } estas ĝisdatigata de alia instanco
 update-manual = Ĝisdatigoj haveblas ĉe <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ĝisdatigoj haveblas ĉe <a data-l10n-name="manual-link"/>
 update-unsupported = Vi ne plu povas ĝisdatigi en tiu ĉi sistemo. <label data-l10n-name="unsupported-link">Pli da informo</label>
 update-restarting = Restarto…
 update-internal-error = Pro interna eraro ne eblas kontroli ĉu estas ĝisdatigoj. Ĝisdatigoj haveblas ĉe <label data-l10n-name="manual-link"/>
