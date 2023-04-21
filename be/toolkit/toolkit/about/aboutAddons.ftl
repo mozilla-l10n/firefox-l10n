@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Пошук
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Атрымлівайце пашырэнні і тэмы з <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Атрымлівайце слоўнікі з <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Атрымлівайце моўныя пакункі з <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = У вас няма ніводнага ўсталяванага дадатку гэтага тыпу
 list-empty-available-updates =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Дазволы для сайтаў
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Дазволы сайта для { $host }
 
 ## These are global warnings
@@ -224,6 +231,8 @@ shortcuts-duplicate-warning-message = { $shortcut } выкарыстоўваец
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ужо выкарыстоўваецца дадаткам { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Паказаць яшчэ { $numberToShow }
@@ -292,7 +301,7 @@ details-addon-button = Падрабязнасці
 release-notes-addon-button = Заўвагі да выпуску
 permissions-addon-button = Правы доступу
 extension-enabled-heading = Уключаны
-extension-disabled-heading = Адключана
+extension-disabled-heading = Адключаны
 theme-enabled-heading = Уключана
 theme-disabled-heading = Выключана
 theme-disabled-heading2 = Захаваныя тэмы
@@ -303,7 +312,7 @@ theme-colorways-button = Паспрабаваць расфарбоўкі
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Змяніць расфарбоўку
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Згасае { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Уключаны
 plugin-disabled-heading = Адключана
@@ -390,6 +399,8 @@ addon-permissions-optional = Неабавязковыя дазволы для д
 addon-permissions-learnmore = Даведацца больш пра дазволы
 recommended-extensions-heading = Рэкамендаваныя пашырэнні
 recommended-themes-heading = Рэкамендаваныя тэмы
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Дае <span data-l10n-name="hostname">{ $hostname }</span> наступныя магчымасці:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -416,8 +427,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } несумяшчальна з { -brand-short-name } { $version }.
 details-notification-incompatible-link = Больш звестак
 details-notification-unsigned-and-disabled = Праца { $name } у { -brand-short-name } не была праверана, таму яно было адключана.
