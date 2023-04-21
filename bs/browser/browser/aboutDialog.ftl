@@ -21,6 +21,7 @@ update-adminDisabled = Nadogradnje koje je onemogućio vaš sistemski administra
 update-noUpdatesFound = Koristite posljednju verziju { -brand-short-name }a
 update-otherInstanceHandlingUpdates = { -brand-short-name } biva nadograđen od strane druge instance
 update-manual = Nadogradnje dostupne na <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Nadogradnje dostupne na <a data-l10n-name="manual-link"/>
 update-unsupported = Ne možete vršiti dodatne nadogradnje na ovom sistemu. <label data-l10n-name="unsupported-link">Saznajte više</label>
 update-restarting = Restartujem…
 channel-description = Vi ste trenutno na <label data-l10n-name="current-channel"></label> kanalu nadogradnje.
