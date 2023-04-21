@@ -21,6 +21,7 @@ update-adminDisabled = Ngat ma loyo nyonyo ni ojuko ngec manyen woko
 update-noUpdatesFound = { -brand-short-name } tye kakare
 update-otherInstanceHandlingUpdates = { -brand-short-name } tye ka keto ngec manyen ki ka mukene
 update-manual = Ngec manyen nonge i <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ngec manyen nonge i <a data-l10n-name="manual-link"/>
 update-unsupported = Pe i twero mede ki keto ngec manyen i nyonyo man. <label data-l10n-name="unsupported-link">Nong ngec mapol</label>
 update-restarting = Tye ka cake odoco...
 channel-description = Kombedi i tye i <label data-l10n-name="current-channel"></label> yo ngec manyen.{ " " }
