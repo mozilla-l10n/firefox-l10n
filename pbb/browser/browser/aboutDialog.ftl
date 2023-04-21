@@ -17,6 +17,7 @@ update-adminDisabled = Pheu'çxa i'ne mfxiçxa
 update-noUpdatesFound = { -brand-short-name } nãa pheu'nxinxaja
 update-otherInstanceHandlingUpdates = { -brand-short-name } txãa pheujna ũ'sa vxitenxa'k
 update-manual = Pheu'nxiisa' jxuka ewnxa' ũ'sa<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Pheu'nxiisa' jxuka ewnxa' ũ'sa<a data-l10n-name="manual-link"/>
 update-unsupported = Ewumeg khukya vxite pheu'nxisa'tx nãa vxisnxite.<label data-l10n-name="unsupported-link">Wejx jisa</label>
 channel-description = Txa' vxisna ũ'sa ẽsen paynxisa's<label data-l10n-name="current-channel"></label>Txi' jxuka phe'wuhwaja
 # Variables:
