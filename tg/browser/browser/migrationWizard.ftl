@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Бета
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Ниҳонвожаҳо аз файли CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -56,6 +57,11 @@ migration-bookmarks-option-label = Хатбаракҳо
 migration-favorites-option-label = Баргузидаҳо
 migration-logins-and-passwords-option-label = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
 migration-history-option-label = Таърихи тамошо
+migration-passwords-from-file-progress-header = Ворид кардани файл бо ниҳонвожаҳо
+migration-passwords-from-file-success-header = Ниҳонвожаҳо бо муваффақият ворид карда шуданд
+migration-passwords-new = Ниҳонвожаҳои нав
+migration-passwords-updated = Ниҳонвожаҳои мавҷудбуда
+migration-passwords-from-file-picker-title = Ворид кардани файл бо ниҳонвожаҳо
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -70,7 +76,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Ҳуҷҷати TSV
        *[other] Файли TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } илова карда шуд
+       *[other] { $newEntries } илова карда шуданд
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } навсозӣ карда шуд
+       *[other] { $updatedEntries } навсозӣ карда шуданд
+    }
 migration-import-button-label = Ворид кардан
+migration-choose-to-import-from-file-button-label = Ворид кардан аз файл
+migration-import-from-file-button-label = Интихоби файл
 migration-cancel-button-label = Бекор кардан
 migration-done-button-label = Тайёр
 

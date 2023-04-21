@@ -1233,8 +1233,27 @@ httpsonly-radio-disabled =
 preferences-doh-header = DNS тавассути HTTPS
 preferences-doh-description = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро месозад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 # Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Вазъият: { $status }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Таъминкунанда: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Нишонии URL беэътибор аст
+preferences-doh-status-active = Фаъол
+preferences-doh-status-disabled = Ғайрифаъол
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Ғайрифаъол ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = Маълумоти бештар
+preferences-doh-setting-default =
+    .label = Муҳофизати пешфарз
+    .accesskey = М
+preferences-doh-setting-enabled =
+    .label = Муҳофизати тақвиятёфта
+    .accesskey = М
 
 ## The following strings are used in the Download section of settings
 
