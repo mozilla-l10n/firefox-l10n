@@ -18,6 +18,7 @@ update-failed-main = Yeesal bi lajj na.<a data-l10n-name="failed-link-main">Yeb 
 update-adminDisabled = Sa saytukatu sistem suuxal na yeesal yi
 update-noUpdatesFound = { -brand-short-name } yees na
 update-manual = Yeesal yi féex ci<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Yeesal yi féex ci<a data-l10n-name="manual-link"/>
 channel-description = Yaa ngiy jëfandikoo yoonu yeesal <label data-l10n-name="current-channel"></label> yeesal yoon wi.
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
