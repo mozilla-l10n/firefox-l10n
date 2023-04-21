@@ -16,6 +16,7 @@ update-failed-main = Okutuusa kuganye. <a data-l10n-name="failed-link-main">Ttik
 update-adminDisabled = Okwetuukana kwanafuyizibwa omukulu w'ebyuma byo
 update-noUpdatesFound = { -brand-short-name }etuukanye
 update-manual = Ebituusa weebili ku <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ebituusa weebili ku <a data-l10n-name="manual-link"/>
 update-unsupported = Tosobola kola bipya ku sisitumu eno<label data-l10n-name="unsupported-link">Manya ebisingawo</label>
 update-restarting = Katandika bupya
 channel-description = Kakati oliku <label data-l10n-name="current-channel"></label> omukutu gutusiddwa.
