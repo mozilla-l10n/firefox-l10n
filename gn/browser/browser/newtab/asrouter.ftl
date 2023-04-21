@@ -238,6 +238,9 @@ july-jam-headline = Roguereko ñemo’ãpe
 july-jam-body = Peteĩteĩva jasýpe, { -brand-short-name } ojoko hetave 3,000 tapykuehoha puruháragui, ome’ẽva jeike pya’e ha tekorosã Ñandutípe.
 july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
 fox-doodle-pin-headline = Eg̃uahẽporãjey
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Peteĩ ñemomandu’a ikautha eguereko ne kundahára ijeheguíva namombyryiete ndehegui.
 fox-doodle-pin-primary = Embojuruja juajuha { -brand-short-name } ndive
 fox-doodle-pin-secondary = Ani ko’ág̃a
 
