@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } est atualizadu
 aboutdialog-update-checking-failed = Faddina in su controllu de atualizatziones.
 update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -brand-short-name }
 update-manual = Atualizatziones a disponimentu in <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Atualizatziones a disponimentu in <a data-l10n-name="manual-link"/>
 update-unsupported = No podes agiornare custu sistema. <label data-l10n-name="unsupported-link">Leghe àteru</label>
 update-restarting = Torrende a aviare
 update-internal-error = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <label data-l10n-name="manual-link"/>
