@@ -20,6 +20,7 @@ update-adminDisabled = Yeniləmələr sistem idarəçiniz tərəfindən söndür
 update-noUpdatesFound = { -brand-short-name } aktualdır
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən yenilənir
 update-manual = Yeniləmələr buradadır: <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Yeniləmələr buradadır: <a data-l10n-name="manual-link"/>
 update-unsupported = Siz bu sistemdə gələcək yeniləmələri qura bilməyəcəksiniz. <label data-l10n-name="unsupported-link">Ətraflı öyrən</label>
 update-restarting = Yenidən başladılır…
 channel-description = Hal-hazırda <label data-l10n-name="current-channel"></label> yeniləmə kanalındasınız.
