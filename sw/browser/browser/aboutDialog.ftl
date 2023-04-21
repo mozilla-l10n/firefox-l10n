@@ -13,6 +13,7 @@ update-adminDisabled = Visasisho vimelemazwa na msimamizi wa mfumo wako
 update-noUpdatesFound = { -brand-short-name } imesasishwa
 update-otherInstanceHandlingUpdates = { -brand-short-name } inasasishwa na tukio lingine
 update-manual = Visasisho vinapatikana kwa<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Visasisho vinapatikana kwa<a data-l10n-name="manual-link"/>
 update-unsupported = Huwezi kutekeleza visasisho zaidi kwenye mfumo huu.<label data-l10n-name="unsupported-link">Jifunze zaidi</label>
 update-restarting = Inaanzishwa tena
 channel-description = Kwa sasa uko kwenye<label data-l10n-name="current-channel"></label> sasisha idhaa.{ " " }
