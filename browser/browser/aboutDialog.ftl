@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } sudah dalam versi terbaru
 aboutdialog-update-checking-failed = Gagal memeriksa versi baru
 update-otherInstanceHandlingUpdates = { -brand-short-name } sedang diperbarui oleh salinan lainnya
 update-manual = Versi baru tersedia di <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Versi baru tersedia di <a data-l10n-name="manual-link"/>
 update-unsupported = Anda tidak dapat melakukan pemutakhiran selanjutnya pada sistem ini. <label data-l10n-name="unsupported-link">Pelajari lebih lanjut</label>
 update-restarting = Memulai ulang…
 update-internal-error = Gagal memeriksa versi baru karena kesalahan internal. Versi baru tersedia di <label data-l10n-name="manual-link"/>
