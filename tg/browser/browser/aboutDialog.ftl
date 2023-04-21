@@ -22,6 +22,7 @@ update-noUpdatesFound = «{ -brand-short-name }» нав аст
 aboutdialog-update-checking-failed = Санҷиши навсозиҳо иҷро нашуд.
 update-otherInstanceHandlingUpdates = «{ -brand-short-name }» аз тарафи раванди дигар навсозӣ шуда истодааст
 update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд
+aboutdialog-update-manual = Навсозиҳо дар <a data-l10n-name="manual-link"/> дастрасанд
 update-unsupported = Шумо дар низоми ҷорӣ навсозиҳои дигар иҷро карда наметавонед. <label data-l10n-name="unsupported-link">Маълумоти бештар</label>
 update-restarting = Дар ҳоли бозоғозӣ…
 update-internal-error = Ба сабаби хатои дохилӣ, тафтиш кардани навсозиҳо имконнопазир аст. Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд.
