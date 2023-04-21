@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } güncel
 aboutdialog-update-checking-failed = Güncellemeler kontrol edilemedi.
 update-otherInstanceHandlingUpdates = { -brand-short-name } başka bir kopyası tarafından şu an güncelleniyor
 update-manual = Güncelleme adresi: <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Güncelleme adresi: <a data-l10n-name="manual-link"/>
 update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<label data-l10n-name="unsupported-link">Daha fazla bilgi al</label>
 update-restarting = Yeniden başlatılıyor…
 update-internal-error = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <label data-l10n-name="manual-link"/> adresinde bulabilirsiniz.
