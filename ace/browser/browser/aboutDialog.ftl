@@ -20,6 +20,7 @@ update-adminDisabled = Peubarô geupeumaté lé ureueng urôih sistem droëneuh
 update-noUpdatesFound = { -brand-short-name } ka geupubarô
 update-otherInstanceHandlingUpdates = { -brand-short-name } teungoh geuseubarô ngon conto nyang la'én
 update-manual = Beunarô na bak <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Beunarô na bak <a data-l10n-name="manual-link"/>
 update-unsupported = Droëneuh h`an jeuët neupeugöt beunarô leubèh jeu'ôh bak sistem nyoë. <label data-l10n-name="unsupported-link">Meurunoë lom</label>
 update-restarting = Ulang keulayi…
 channel-description = Jinoë droëneuh teungoh na di <label data-l10n-name="current-channel"></label> peubarô saluran.{ " " }
