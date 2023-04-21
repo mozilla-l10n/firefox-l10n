@@ -21,6 +21,7 @@ update-adminDisabled = Naxi´ñao ña´kuiñɨ nu ka̱a̱ tee nɨnuu
 update-noUpdatesFound = { -brand-short-name } naxi´ñao a iyo jíía
 update-otherInstanceHandlingUpdates = { -brand-short-name } nánuku a jíía inka nuu
 update-manual = Naxi´ñao a jíía iyo nuu<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Naxi´ñao a jíía iyo nuu<a data-l10n-name="manual-link"/>
 update-unsupported = Nkuvika naxi´ñá ka̱a̱ ya´a. <label data-l10n-name="unsupported-link">Kutu´va jiee ya´a</label>
 update-restarting = Nakajie´e...
 channel-description = Ni´inu nasun da naxi´ña <label data-l10n-name="current-channel"></label>.
