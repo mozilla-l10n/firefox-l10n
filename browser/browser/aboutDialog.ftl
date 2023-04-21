@@ -21,6 +21,7 @@ update-adminDisabled = Вашиот системски администрато�
 update-noUpdatesFound = Нема надградби за { -brand-short-name }
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира од друга инстанца
 update-manual = Најнови верзии се достапни на <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Најнови верзии се достапни на <a data-l10n-name="manual-link"/>
 update-unsupported = Не можете да направите дополнителни ажурирања на овој систем. <label data-l10n-name="unsupported-link">Дознајте повеќе</label>
 update-restarting = Рестартирам…
 channel-description = Моментално сте на каналот за надградби <label data-l10n-name="current-channel"></label>.{ " " }
