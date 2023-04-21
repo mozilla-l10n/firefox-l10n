@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } yettwaleqqem
 aboutdialog-update-checking-failed = Aɣelluy deg usenqed n yileqman.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tleqqem-it tummant-nniḍen
 update-manual = Ileqman llan deg  <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Ileqman llan deg  <a data-l10n-name="manual-link"/>
 update-unsupported = Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. <label data-l10n-name="unsupported-link">Issin ugar </label>
 update-restarting = Aɛiwed n usenker…
 update-internal-error = Tella-d tuccḍa tagensant i yesweḥlen asenqed n yileqman. Ad ten-tafeḍ deg <label data-l10n-name="manual-link"/>
