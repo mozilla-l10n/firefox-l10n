@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } è actual
 aboutdialog-update-checking-failed = Betg reussì da controllar sche actualisaziuns stattan a disposiziun.
 update-otherInstanceHandlingUpdates = { -brand-short-name } vegn actualisà d'ina autra instanza
 update-manual = Actualisaziuns disponiblas sin <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Actualisaziuns disponiblas sin <a data-l10n-name="manual-link"/>
 update-unsupported = Sin quest sistem na pon naginas actualisaziuns vegnir exequidas pli. <label data-l10n-name="unsupported-link">Dapli infurmaziuns</label>
 update-restarting = Reaviar…
 update-internal-error = Impussibel da tschertgar actualisaziuns causa ina errur interna. Actualisaziuns stattan a disposiziun sin <label data-l10n-name="manual-link"/>
