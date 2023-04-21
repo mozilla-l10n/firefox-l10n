@@ -22,6 +22,7 @@ update-noUpdatesFound = Používate najnovšiu verziu prehliadača { -brand-shor
 aboutdialog-update-checking-failed = Nepodarilo sa skontrolovať aktualizácie.
 update-otherInstanceHandlingUpdates = { -brand-short-name } sa práve aktualizuje v inej inštancii
 update-manual = Aktualizácie sú k dispozícii na <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Aktualizácie sú k dispozícii na <a data-l10n-name="manual-link"/>
 update-unsupported = Ďalšie aktualizácie už nie sú na tomto systéme možné. <label data-l10n-name="unsupported-link">Ďalšie informácie</label>
 update-restarting = Reštartuje sa…
 update-internal-error = Nie je možné skontrolovať aktualizácie kvôli internej chybe. Aktualizácie sú k dispozícii na adrese <label data-l10n-name="manual-link"/>
