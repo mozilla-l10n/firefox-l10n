@@ -21,6 +21,7 @@ update-adminDisabled = Արդիացմունք անջատեալ են ի համա�
 update-noUpdatesFound = { -brand-short-name } արդիական է։
 update-otherInstanceHandlingUpdates = { -brand-short-name } արդիացուցանի այժմ ի ձեռն այղոյ իրիք
 update-manual = Արդիացմունք հասանելիք ի <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Արդիացմունք հասանելիք ի <a data-l10n-name="manual-link"/>
 update-unsupported = Ոչ կարես առնել զյետագայ արդիացմունս համակարգիս այսորիկ։ <label data-l10n-name="unsupported-link">Հանգամանաւրէն</label>
 update-restarting = Վերամեկնարկումն
 channel-description = Այժմուս կաս ի <label data-l10n-name="current-channel"></label> արդիացման խուղակի։
