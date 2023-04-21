@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } jalon chik
 aboutdialog-update-checking-failed = Xsach toq yekanöx taq k'exoj.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tajin nik'ex pa jun chik molaj
 update-manual = Wachel taq k'exoj ruwäch pa <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Wachel taq k'exoj ruwäch pa <a data-l10n-name="manual-link"/>
 update-unsupported = Man tikirel ta chik nab'an taq k'exoj pa re q'inoj re'. <label data-l10n-name="unsupported-link">Tetamäx ch'aqa' chik</label>
 update-restarting = Nitikirisäx…
 update-internal-error = Man ye'ilitäj ta taq k'exoj ruma k'o jun sachoj chupam. K'o taq k'exoj pa <label data-l10n-name="manual-link"/>
