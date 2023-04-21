@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } eguneratuta dago
 aboutdialog-update-checking-failed = Huts egin du eguneraketak bilatzean.
 update-otherInstanceHandlingUpdates = Beste instantzia bat ari da { -brand-short-name } eguneratzen
 update-manual = Eskuratu eguneraketak <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Eskuratu eguneraketak <a data-l10n-name="manual-link"/>
 update-unsupported = Ezin duzu eguneraketa gehiago burutu sistema honetan.<label data-l10n-name="unsupported-link">Argibide gehiago</label>
 update-restarting = Berrabiarazten…
 update-internal-error = Ezin dira eguneraketak bilatu barne-errore bat dela eta. Eguneraketak <label data-l10n-name="manual-link"/> helbidean daude erabilgarri
