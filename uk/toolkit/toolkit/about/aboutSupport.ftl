@@ -196,7 +196,7 @@ intl-regional-prefs = Регіональні налаштування
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
-remote-debugging-title = Віддалене зневадження (Протокол Chromium)
+remote-debugging-title = Віддалене налагодження (Протокол Chromium)
 remote-debugging-accepting-connections = Вхідні з'єднання
 remote-debugging-url = URL
 

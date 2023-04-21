@@ -291,8 +291,8 @@ menu-settings =
            *[other] ш
         }
 menu-tools-layout-debugger =
-    .label = Зневаджувач шаблона
-    .accesskey = ш
+    .label = Налагоджувач макета
+    .accesskey = м
 
 ## Window Menu
 

@@ -5,7 +5,11 @@
 url-classifier-title = Інформація про URL-класифікатор
 url-classifier-search-title = Пошук
 url-classifier-search-result-title = Результати
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Список таблиць: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Неправильний URL
@@ -32,7 +36,7 @@ url-classifier-cache-prefix = Префікс
 url-classifier-cache-ncache-expiry = Термін зберігання негативного кешу
 url-classifier-cache-fullhash = Повний хеш
 url-classifier-cache-pcache-expiry = Термін зберігання позитивного кешу
-url-classifier-debug-title = Зневадження
+url-classifier-debug-title = Налагодження
 url-classifier-debug-module-btn = Встановити модулі журналу
 url-classifier-debug-file-btn = Встановити файл журналу
 url-classifier-debug-js-log-chk = Встановити журнал JS
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Модулі журналу Safe Browsing
 url-classifier-debug-modules = Поточні модулі журналу
 url-classifier-debug-sbjs-modules = Журнал Safe Browsing JS
 url-classifier-debug-file = Поточний файл журналу
-
 url-classifier-trigger-update = Оновлення тригера
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Вимкнути журнал Safe Browsing JS
@@ -50,5 +53,9 @@ url-classifier-disabled = Вимкнено
 url-classifier-updating = оновлення
 url-classifier-cannot-update = не вдалося оновити
 url-classifier-success = успішно
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = помилка оновлення ({ $error })
 url-classifier-download-error = помилка завантаження ({ $error })

@@ -18,7 +18,7 @@ controls-button-label = Затвердити налаштування
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
-glean-debug-ping-viewer-brand-name = Переглядач пінгу зневадження { -glean-brand-name }
+glean-debug-ping-viewer-brand-name = Перегляд пінгу налагодження { -glean-brand-name }
 about-glean-page-title2 = Про { -glean-brand-name }
 about-glean-header = Про { -glean-brand-name }
 about-glean-interface-description =
@@ -31,9 +31,9 @@ about-glean-upload-disabled = Вивантаження даних вимкнен
 about-glean-upload-enabled-local = Вивантаження даних увімкнено лише для надсилання на локальний сервер.
 about-glean-upload-fake-enabled =
     Вивантаження даних вимкнено,
-    але ми обходимо це й кажемо { glean-sdk-brand-name }, що його увімкнено,
+    але ми обходимо це, повідомляючи { glean-sdk-brand-name }, що його увімкнено,
     тому дані все одно записуються локально.
-    Примітка: Якщо ви встановили мітку зневадження, пінги вивантажуватимуться до
+    Примітка: Якщо ви встановили мітку налагодження, пінги вивантажуватимуться до
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> незалежно від налаштувань.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Відповідні <a data-l10n-name="fog-prefs-and-defines-doc-link">параметри та визначення</a> включають:
@@ -63,7 +63,7 @@ about-glean-manual-testing =
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (не надсилати жодного пінгу)
 # An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Переконайтеся, що в попередньому полі є мітка зневадження, яку легко запам'ятати, щоб згодом ви могли розпізнавати ваші пінги.
+about-glean-label-for-tag-pings = Переконайтеся, що в попередньому полі є мітка налагодження, яку легко запам'ятати, щоб згодом ви могли розпізнавати ваші пінги.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =

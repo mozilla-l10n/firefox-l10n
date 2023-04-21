@@ -37,7 +37,7 @@ about-telemetry-addon-details-section = Подробиці про додатки
 about-telemetry-late-writes-section = Пізні записи
 about-telemetry-raw-payload-section = Необроблене навантаження
 about-telemetry-raw = Необроблений JSON
-about-telemetry-full-sql-warning = ПРИМІТКА: Увімкнено повільний режим зневадження SQL. Внизу можуть бути показані повні рядки SQL, але в телеметрію вони відправлені не будуть.
+about-telemetry-full-sql-warning = ПРИМІТКА: Увімкнено повільний режим налагодження SQL. Нижче можуть показуватися повні рядки SQL, але вони не відправлятимуться до телеметрії.
 about-telemetry-fetch-stack-symbols = Отримати назви функцій для стеків
 about-telemetry-hide-stack-symbols = Показати необроблені дані стеку
 # Selects the correct release version
