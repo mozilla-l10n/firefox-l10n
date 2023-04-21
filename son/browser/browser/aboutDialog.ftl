@@ -20,6 +20,7 @@ update-adminDisabled = War juwalkaa na taagandirey kayandi
 update-noUpdatesFound = { -brand-short-name } n' ka taagandi
 update-otherInstanceHandlingUpdates = Jinay tana foo goo ma { -brand-short-name } taagandi
 update-manual = Taagandiri barantey ne <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Taagandiri barantey ne <a data-l10n-name="manual-link"/>
 update-unsupported = War ši hin ka taagandiri tee koyne dabariɲaŋoo woo ga. <label data-l10n-name="unsupported-link">Ka bay ka tonton</label>
 update-restarting = Goo ma tunandi taaga…
 channel-description = Sohõda war goo <label data-l10n-name="current-channel"></label> taagandiri zuwoo boŋ.
