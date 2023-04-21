@@ -26,6 +26,7 @@ update-noUpdatesFound = Uusin { -brand-short-name }-versio käytössä
 aboutdialog-update-checking-failed = Päivitysten tarkistaminen epäonnistui.
 update-otherInstanceHandlingUpdates = { -brand-short-name }-ohjelman päivitys on jo käynnissä
 update-manual = Lataa päivitys: <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Lataa päivitys: <a data-l10n-name="manual-link"/>
 update-unsupported = Tälle järjestelmälle ei enää tarjota päivityksiä. <label data-l10n-name="unsupported-link">Lue lisätietoja</label>
 update-restarting = Käynnistetään uudestaan…
 update-internal-error = Päivityksiä ei voi tarkistaa sisäisen virheen vuoksi. Päivitykset ovat saatavilla osoitteessa <label data-l10n-name="manual-link"/>
