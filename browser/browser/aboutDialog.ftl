@@ -20,6 +20,7 @@ update-adminDisabled = I agiornamenti en dizabilitæ da-o teu aministratô do sc
 update-noUpdatesFound = { -brand-short-name } o l'é agiornòu
 update-otherInstanceHandlingUpdates = Agiornamento de { -brand-short-name } inte n'atra istansa
 update-manual = I agiornamenti en in <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = I agiornamenti en in <a data-l10n-name="manual-link"/>
 update-unsupported = No l'é poscibile instalâ atri agiornamenti in sce sto scistema.<label data-l10n-name="unsupported-link">Atre informaçioin</label>
 update-restarting = Arvo torna…
 channel-description = Òua ti ê into canâ de agiornamento <label data-l10n-name="current-channel"></label>.
