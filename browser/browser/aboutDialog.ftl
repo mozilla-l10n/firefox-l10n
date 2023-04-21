@@ -21,6 +21,7 @@ update-adminDisabled = عطّلَ مدير النظام التحديثات
 update-noUpdatesFound = { -brand-short-name } مُحدَّث
 update-otherInstanceHandlingUpdates = يجري تحديث { -brand-short-name } في سيرورة أخرى
 update-manual = التحديثات متاحة في <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = التحديثات متاحة في <a data-l10n-name="manual-link"/>
 update-unsupported = لا يمكنك إجراء أي تحديثات أخرى على هذا النظام. <label data-l10n-name="unsupported-link">اطّلع على المزيد</label>
 update-restarting = يُعيد التشغيل…
 channel-description = تتلقى التحديثات حاليًا من قناة <label data-l10n-name="current-channel"></label>.
