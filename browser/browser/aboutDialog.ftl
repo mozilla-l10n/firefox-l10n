@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } je posodobljen
 aboutdialog-update-checking-failed = Iskanje posodobitev ni uspelo.
 update-otherInstanceHandlingUpdates = { -brand-short-name } se posodablja v drugem primerku
 update-manual = Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Posodobitve so na voljo na <a data-l10n-name="manual-link"/>
 update-unsupported = Nadaljnje posodobitve niso več mogoče. <label data-l10n-name="unsupported-link">Več o tem</label>
 update-restarting = Ponovni zagon …
 update-internal-error = Iskanje posodobitev ni uspelo zaradi notranje napake. Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
