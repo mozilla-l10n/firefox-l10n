@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } er þegar með nýjustu útgáfu
 aboutdialog-update-checking-failed = Mistókst að athuga með uppfærslur.
 update-otherInstanceHandlingUpdates = Verið er að uppfæra { -brand-short-name } annarstaðar
 update-manual = Uppfærslur eru fáanlegar frá <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Uppfærslur eru fáanlegar frá <a data-l10n-name="manual-link"/>
 update-unsupported = Ekki er hægt að setja inn fleiri uppfærslur. <label data-l10n-name="unsupported-link">Frekari upplýsingar</label>
 update-restarting = Endurræsir…
 update-internal-error = Ekki er hægt að leita að uppfærslum vegna innri villu. Uppfærslur eru fáanlegar á <label data-l10n-name="manual-link"/>
