@@ -12,6 +12,7 @@ update-failed-main = இற்றைப்படுத்தல் தோல்�
 update-adminDisabled = இற்றைப்படுத்தல் உங்கள் கணினி  நிர்வாகியினால் முடக்கப்பட்டுள்ளது
 update-noUpdatesFound = { -brand-short-name } இற்றைப்படுத்தப்பட்டுள்ளது
 update-manual = புதியவை கிடைக்குமிடம்<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = புதியவை கிடைக்குமிடம்<a data-l10n-name="manual-link"/>
 channel-description = நீங்கள் தற்போது<label data-l10n-name="current-channel"></label>அலைவரிசையை புதுப்பிக்க.
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
