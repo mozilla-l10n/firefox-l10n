@@ -21,6 +21,7 @@ update-adminDisabled = Yangilanishlar tizimingiz administratori tomonidan oʻchi
 update-noUpdatesFound = { -brand-short-name } yangilangan
 update-otherInstanceHandlingUpdates = { -brand-short-name } boshqa manbadan yangilanadi
 update-manual = Yangilanishlar mavjud:<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Yangilanishlar mavjud:<a data-l10n-name="manual-link"/>
 update-unsupported = Siz keyingi yangilanishlarni ushbu tizimda bajara olmaysiz. <label data-l10n-name="unsupported-link">Batafsil</label>
 update-restarting = Qayta ishga tushirilmoqda…
 channel-description = Siz hozirda <label data-l10n-name="current-channel"></label> yangilash kanalidasiz.
