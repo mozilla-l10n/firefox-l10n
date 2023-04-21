@@ -21,6 +21,7 @@ update-adminDisabled = آپ کے سسٹم ایڈمن نے اپڈیٹ کو بند
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
 update-otherInstanceHandlingUpdates = { -brand-short-name } دوسری جگہ سے اپڈیٹ ہو رہا ہے
 update-manual = اپڈیٹ یہاں دستیاب ہیں  <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = اپڈیٹ یہاں دستیاب ہیں  <a data-l10n-name="manual-link"/>
 update-unsupported = آپ اس سسٹم پر مزید اپڈیٹ نہیں کر سکتے۔<label data-l10n-name="unsupported-link">مزید سیکھیں</label>
 update-restarting = دوباره شروع ہو رہا ہے…
 channel-description = آپ اس وقت <label data-l10n-name="current-channel"></label> کی اپڈیٹ چینل میں ہو۔
