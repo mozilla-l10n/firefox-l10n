@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } ​គឺ​ទាន់​សម�
 aboutdialog-update-checking-failed = មិនអាច​ពិនិត្យរកមើលកំណែថ្មី​បានទេ។
 update-otherInstanceHandlingUpdates = { -brand-short-name } កំពុង​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​​ធាតុ​ផ្សេង
 update-manual = បច្ចុប្បន្នភាព​មាន​នៅ <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = បច្ចុប្បន្នភាព​មាន​នៅ <a data-l10n-name="manual-link"/>
 update-unsupported = អ្នក​មិន​អាច​ធ្វើ​បច្ចុប្បន្នភាព​បន្ថែម​ទៀត​​ក្នុង​ប្រព័ន្ធ​នេះ​បាន​ទេ។ <label data-l10n-name="unsupported-link">ស្វែងយល់​បន្ថែម</label>
 update-restarting = កំពុង​ចាប់ផ្ដើម​ឡើង​វិញ
 update-internal-error = មិនអាច​ពិនិត្យរកមើល​កំណែថ្មី​បានទេ ដោយសារ​បញ្ហា​ខាងក្នុង។ មាន​កំណែ​ថ្មី​នៅ <label data-l10n-name="manual-link"/>
