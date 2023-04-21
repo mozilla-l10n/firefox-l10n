@@ -772,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Emboty tembiapo…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Umi moambuepy kyta rysýigua oñembojuehétava ojehecháta opaite ne mba’e’oka omba’apóvape.
 sync-engine-bookmarks =
     .label = Techaukaha
     .accesskey = m
@@ -976,6 +977,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Kookie Banner Ñemomichĩ
+cookie-banner-handling-description = { -brand-short-name } omboykese ijehegui opaite kookie mba’ejerure umi tenda ojokupytývape.
 cookie-banner-learn-more = Kuaave
 forms-handle-cookie-banners =
     .label = Emomichĩ kookie banner
@@ -1255,6 +1257,7 @@ preferences-doh-setting-default =
     .accesskey = D
 preferences-doh-default-desc = { -brand-short-name } oikuaa oipurúta vove DNS hekorosãva omo’ã hag̃ua nde rekoñemi.
 preferences-doh-default-detailed-desc-1 = Eipuru DNS hekorosãva tendaguasu ikatuhápe
+preferences-doh-default-detailed-desc-2 = Eipuru DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
 preferences-doh-default-detailed-desc-3 = Eipuru me’ẽhara ag̃uigua ikatúramo
 preferences-doh-setting-enabled =
     .label = Ñemo’ã Tuichavéva
