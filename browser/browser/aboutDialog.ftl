@@ -21,6 +21,7 @@ update-adminDisabled = L'alministrador del sistema desactivó los anovamientos
 update-noUpdatesFound = { -brand-short-name } ta anováu
 update-otherInstanceHandlingUpdates = Otra instancia ta anovando { -brand-short-name }
 update-manual = Hai anovamientos disponibles en <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Hai anovamientos disponibles en <a data-l10n-name="manual-link"/>
 update-unsupported = Yá nun pues anovar más nesti sistema.<label data-l10n-name="unsupported-link">Lleer más</label>
 update-restarting = Reaniciando…
 channel-description = Anguaño tas na canal d'anovamientos <label data-l10n-name="current-channel"></label>.
