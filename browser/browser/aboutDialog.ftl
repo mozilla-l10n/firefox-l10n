@@ -22,6 +22,7 @@ update-noUpdatesFound = Naudojama paskiausia „{ -brand-short-name }“ laida
 aboutdialog-update-checking-failed = Nepavyko patikrinti, ar yra naujinimų.
 update-otherInstanceHandlingUpdates = Programa „{ -brand-short-name }“ šiuo metu naujinama
 update-manual = Atsisiųskite naujinimą iš <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Atsisiųskite naujinimą iš <a data-l10n-name="manual-link"/>
 update-unsupported = Tolesni naujinimai, naudojantis šia sistema, yra negalimi. <label data-l10n-name="unsupported-link">Sužinoti daugiau</label>
 update-restarting = Paleidžiama iš naujo…
 update-internal-error = Dėl vidinės klaidos nepavyko patikrinti, ar yra naujinimų. Naujinimai pasiekiami per <label data-l10n-name="manual-link"/>
