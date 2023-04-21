@@ -21,6 +21,7 @@ update-adminDisabled = Sistēmas administrators ir atspējojis atjauninājumus
 update-noUpdatesFound = { -brand-short-name } ir atjaunināts
 update-otherInstanceHandlingUpdates = { -brand-short-name } tiek atjaunināts citā instancē
 update-manual = Atjauninājumi ir pieejami te<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Atjauninājumi ir pieejami te<a data-l10n-name="manual-link"/>
 update-unsupported = Jūs nevarat veikt turpmākus šīs sistēmas atjauninājumus. <label data-l10n-name="unsupported-link">Uzziniet vairāk</label>
 update-restarting = Notiek pārstartēšana…
 channel-description = Šobrīd jūs izmantojat <label data-l10n-name="current-channel"></label> atjauninājumu kanālu.
