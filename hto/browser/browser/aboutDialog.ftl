@@ -17,6 +17,7 @@ update-adminDisabled = Naama já ɨbaika fɨnóka
 update-noUpdatesFound = { -brand-short-name } jáa méidoga
 update-otherInstanceHandlingUpdates = { -brand-short-name } jɨaɨmona bíe ñúe fɨnofɨnoga
 update-manual = Méidoyena já íte <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Méidoyena já íte <a data-l10n-name="manual-link"/>
 channel-description = Ida dɨga ó taɨjɨdɨo<label data-l10n-name="current-channel"></label>Méidoyena.
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
