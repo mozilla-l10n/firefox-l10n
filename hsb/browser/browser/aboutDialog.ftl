@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } je aktualny
 aboutdialog-update-checking-failed = Pytanje za aktualizacijemi je so nimokuliło.
 update-otherInstanceHandlingUpdates = { -brand-short-name } so přez druhu instancu aktualizuje
 update-manual = Aktualizacije k dispoziciji na <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Aktualizacije k dispoziciji na <a data-l10n-name="manual-link"/>
 update-unsupported = Njemóžeće dalše aktualizacije na tutym systemje přewjesć. <label data-l10n-name="unsupported-link">Dalše informacije</label>
 update-restarting = Startuje so…
 update-internal-error = Interneho zmylka dla njeje móžno za aktualizacijemi pytać. Aktualizacije su na <label data-l10n-name="manual-link"/> k dispoziciji
