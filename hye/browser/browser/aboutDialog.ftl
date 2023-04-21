@@ -21,6 +21,7 @@ update-adminDisabled = Թարմացումներն անջատուած են Ձեր
 update-noUpdatesFound = { -brand-short-name }-ը թարմացուած է
 update-otherInstanceHandlingUpdates = { -brand-short-name }-ը թարմացուել է այղ աւրինակի կողմից
 update-manual = Թարմացումները հասանելի են՝ <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Թարմացումները հասանելի են՝ <a data-l10n-name="manual-link"/>
 update-unsupported = Դուք չէք կարող կատարել յետագայ թարմացումները այս համակարգում։ <label data-l10n-name="unsupported-link">Իմանալ աւելին</label>
 update-restarting = Վերամեկնարկում…
 channel-description = Այժմ գործում է <label data-l10n-name="current-channel"></label> թարմացումների աղբեւրը։
