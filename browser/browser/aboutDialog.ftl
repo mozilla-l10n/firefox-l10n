@@ -20,6 +20,7 @@ update-adminDisabled = Kemaskini dinyahdayakan oleh pentadbir sistem anda
 update-noUpdatesFound = { -brand-short-name } sudah terkini
 update-otherInstanceHandlingUpdates = { -brand-short-name } sedang dikemaskini oleh tika lain
 update-manual = Kemaskini tersedia di <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Kemaskini tersedia di <a data-l10n-name="manual-link"/>
 update-unsupported = Anda tidak boleh lagi melaksanakan kemaskini dalam sistem ini. <label data-l10n-name="unsupported-link">Ketahui selanjutnya</label>
 update-restarting = Memulakan semula...
 channel-description = Anda sedang berada dalam <label data-l10n-name="current-channel"></label> saluran kemaskini.
