@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } абноўлены
 aboutdialog-update-checking-failed = Не ўдалося праверыць наяўнасць абнаўленняў.
 update-otherInstanceHandlingUpdates = { -brand-short-name } абнаўляецца іншым асобнікам
 update-manual = Абнаўленні даступныя на <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Абнаўленні даступныя на <a data-l10n-name="manual-link"/>
 update-unsupported = Вы не можаце працягнуць абнаўленне на гэтай сістэме. <label data-l10n-name="unsupported-link">Падрабязней</label>
 update-restarting = Перазапуск…
 update-internal-error = Немагчыма праверыць наяўнасць абнаўленняў з-за ўнутранай памылкі. Абнаўленні даступныя па адрасе <label data-l10n-name="manual-link"/>
