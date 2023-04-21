@@ -1250,6 +1250,7 @@ preferences-doh-strict-detailed-desc-1 = جہڑا مہیاکار تساں چُݨ
 preferences-doh-setting-off =
     .label = بند
     .accesskey = O
+preferences-doh-off-desc = آپݨاں ڈیفالٹ DNS حل کرݨ آلا ورتو
 preferences-doh-select-resolver = مہیا کار چݨو…
 preferences-doh-exceptions-description = انہاں سائٹاں تے { -brand-short-name } محفوظ DNS کائناں ورتیسی
 preferences-doh-manage-exceptions =
