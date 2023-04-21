@@ -22,6 +22,7 @@ update-noUpdatesFound = Το { -brand-short-name } είναι ενημερωμέ
 aboutdialog-update-checking-failed = Ο έλεγχος για ενημερώσεις απέτυχε.
 update-otherInstanceHandlingUpdates = Το { -brand-short-name } ενημερώνεται από μια άλλη διεργασία
 update-manual = Διαθέσιμες ενημερώσεις στο <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Διαθέσιμες ενημερώσεις στο <a data-l10n-name="manual-link"/>
 update-unsupported = Δεν μπορείτε να εκτελέσετε περαιτέρω ενημερώσεις σε αυτό το σύστημα. <label data-l10n-name="unsupported-link">Μάθετε περισσότερα</label>
 update-restarting = Επανεκκίνηση…
 update-internal-error = Δεν είναι δυνατός ο έλεγχος για ενημερώσεις λόγω εσωτερικού σφάλματος. Οι ενημερώσεις διατίθενται στο <label data-l10n-name="manual-link"/>
