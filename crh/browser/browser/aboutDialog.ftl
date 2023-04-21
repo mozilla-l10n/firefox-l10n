@@ -20,6 +20,7 @@ update-adminDisabled = Yañartmalar sistem memurıñız tarafından ğayrıqabil
 update-noUpdatesFound = { -brand-short-name } künceldir
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa bir süreci tarafından yañartıla
 update-manual = Yañartmalar şundan faydalanışlı<label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Yañartmalar şundan faydalanışlı<a data-l10n-name="manual-link"/>
 update-unsupported = Bu sistem üzerinde artıq yañartmalarnı icra etalmazsıñız.<label data-l10n-name="unsupported-link">Daa çoq ögren</label>
 update-restarting = Kene başlatıla…
 channel-description = Al-azırda <label data-l10n-name="current-channel"></label> yañartma kanalı üzerindesiñiz.
