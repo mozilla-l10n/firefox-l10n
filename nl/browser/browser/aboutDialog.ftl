@@ -22,6 +22,7 @@ update-noUpdatesFound = { -brand-short-name } is up-to-date
 aboutdialog-update-checking-failed = Kan niet controleren op updates.
 update-otherInstanceHandlingUpdates = { -brand-short-name } wordt door een ander exemplaar bijgewerkt
 update-manual = Updates beschikbaar op <label data-l10n-name="manual-link"/>
+aboutdialog-update-manual = Updates beschikbaar op <a data-l10n-name="manual-link"/>
 update-unsupported = U kunt op dit systeem geen updates meer installeren. <label data-l10n-name="unsupported-link">Meer info</label>
 update-restarting = Herstarten…
 update-internal-error = Kan niet controleren op updates vanwege een interne fout. Updates beschikbaar op <label data-l10n-name="manual-link"/>
