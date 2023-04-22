@@ -418,6 +418,14 @@ update-application-suppress-prompts =
     .label = گھٹ اپ ڈیٹ نوٹیفکیشن پرامپٹس ݙکھاؤ۔
     .accesskey = n
 update-setting-write-failure-title2 = اپ ڈیٹ دیاں ترتیباں کوں محفوظ کرݨ وِچ خرابی۔
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } کوں ہک خرابی دا سامݨا کرݨا پیا تے ایں تبدیلی کوں ہتھیکڑا نہیں کیتا۔ نوٹ کرو جو ایں اپ ڈیٹ دی ترتیب کوں تبدیل کرݨ کیتے تلے ݙتی ڳئی فائل وِچ لکھݨ دی اجازت درکار ہے۔ تساں یا سسٹم ایڈمنسٹریٹر ایں فائل تے یوزرز گروپ کوں مکمل کنٹرول ݙے تے ایں غلطی کوں حل کر سڳدے ہن۔
+    
+    فائل تے کائنی لکھ سڳا: { $path }
 update-in-progress-title = اپ ڈیٹ جاری ہے
 update-in-progress-message = کیا تہاݙی { -brand-short-name } دی اپ ڈیٹ جاری رکھݨ چاہندے او؟
 update-in-progress-ok-button = تے کڈھ سٹو
