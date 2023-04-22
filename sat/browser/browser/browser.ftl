@@ -144,9 +144,15 @@ urlbar-tip-icon-description =
     .alt = ᱥᱚᱞᱦᱟ:
 urlbar-result-menu-button =
     .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
+urlbar-result-menu-learn-more =
+    .label = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = ᱦᱤᱛᱟᱹᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = ᱜᱚᱲᱚ ᱤᱫᱤ ᱢᱮ
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
