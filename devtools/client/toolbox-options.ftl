@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = 点击并拖动编辑大小值
 options-inspector-draggable-properties-tooltip =
     .title = 在查看器规则视图中单击并拖动编辑大小值。
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = 通过 prefers-reduced-motion 使用更简明的高亮显示。
+options-inspector-simplified-highlighters-tooltip =
+    .title = 设置 prefers-reduced-motion 首选项启用简化的高亮显示。在突出显示的元素周围绘制线条而不是填充矩形，以避免闪烁效果。
 
 ## "Default Color Unit" options for the Inspector
 
