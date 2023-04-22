@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = ᱰᱮᱥᱠᱴᱚᱯ ᱠᱷᱚᱱ ᱪ�
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱚ ᱪᱟᱞᱟᱣ ᱮᱱᱟ!
 about-private-browsing-cookie-banners-promo-button = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚᱭ ᱢᱮ
+about-private-browsing-cookie-banners-promo-message = { -brand-short-name } ᱫᱚ ᱟᱡ ᱛᱮ ᱟᱢᱟᱜ ᱵᱤᱱ ᱨᱚᱠ ᱴᱷᱚᱠ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱞᱟᱹᱜᱤᱫ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱛᱮᱠᱟ ᱮᱢ ᱟᱭ ᱾ { -brand-short-name } ᱡᱟᱦᱟᱸ ᱫᱷᱟᱹᱵᱤᱡ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱢᱟᱱᱟ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾
