@@ -62,6 +62,7 @@ migration-passwords-from-file-progress-header = 导入密码文件
 migration-passwords-from-file-success-header = 已成功导入密码
 migration-passwords-from-file = 正在检查文件中的密码
 migration-passwords-new = 新密码
+migration-passwords-updated = 现有密码
 migration-passwords-from-file-picker-title = 导入密码文件
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -77,6 +78,18 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV 文件
        *[other] TSV 文件
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords = 已添加 { $newEntries } 个
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords = 已更新 { $updatedEntries } 个
 migration-import-button-label = 导入
 migration-choose-to-import-from-file-button-label = 从文件导入
 migration-import-from-file-button-label = 选择文件
@@ -109,7 +122,10 @@ migration-wizard-progress-icon-completed =
     .aria-label = 已完成
 migration-safari-password-import-header = 从 Safari 浏览器导入密码
 migration-safari-password-import-steps-header = 如需导入 Safari 浏览器密码：
+migration-safari-password-import-step1 = 在 Safari 浏览器中，打开“Safari 浏览器”菜单，前往“偏好设置”>“密码”
+migration-safari-password-import-step2 = 点按 <img data-l10n-name="safari-icon-3dots"/> 按钮，然后选取“导出所有密码”
 migration-safari-password-import-step3 = 保存密码文件
+migration-safari-password-import-step4 = 使用下方的“选择文件”来选取您保存的密码文件
 migration-safari-password-import-skip-button = 跳过
 migration-safari-password-import-select-button = 选择文件
 # Shown in the migration wizard after importing bookmarks from another
@@ -145,4 +161,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = 表单历史记录
 migration-wizard-safari-permissions-sub-header = 如需导入 Safari 浏览器书签和历史记录：
 migration-wizard-safari-instructions-continue = 选择“继续”
+migration-wizard-safari-instructions-folder = 在列表中选择“Safari 浏览器”文件夹，然后选取“打开”
 migration-wizard-safari-select-button = 选择文件
