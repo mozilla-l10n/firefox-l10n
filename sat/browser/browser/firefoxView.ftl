@@ -41,6 +41,8 @@ firefoxview-tabpickup-sync-disconnected-primarybutton = ᱥᱟᱡᱟᱣ ᱠᱚ �
 firefoxview-tabpickup-password-locked-header = ᱴᱮᱵᱽ ᱨᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ ᱢᱮ
 firefoxview-tabpickup-password-locked-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 firefoxview-tabpickup-password-locked-primarybutton = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱫᱮᱨ ᱢᱮ
+firefoxview-tabpickup-signed-out-header = ᱫᱩᱲᱟᱹ ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
+firefoxview-tabpickup-signed-out-primarybutton = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 firefoxview-mobile-promo-header = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱵᱟᱝᱠᱷᱟᱱ ᱴᱮᱵᱽᱞᱮᱴ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱦᱚᱛᱟᱣ ᱢᱮ
 firefoxview-mobile-promo-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 firefoxview-mobile-confirmation-header = 🎉 ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱜᱮᱭᱟ!
@@ -54,13 +56,11 @@ firefoxview-pickup-tabs-badge = ᱢᱟᱲᱟᱝ ᱪᱚᱴᱠᱟᱨᱟᱜ
 firefoxview-tabs-list-tab-button =
     .title = ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ { $targetURI } ᱡᱷᱤᱡᱽ ᱢᱮ
 firefoxview-try-colorways-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱤᱰᱟᱹᱣ ᱧᱚᱜᱽ ᱢᱮ
-firefoxview-no-current-colorway-collection = ᱱᱟᱶᱟ ᱠᱚᱞᱚᱨᱣᱮ ᱦᱚᱨ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ
 firefoxview-change-colorway-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>ᱱᱤᱛᱚᱜ ᱧᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ</strong><br/>ᱞᱟᱦᱟ ᱚᱠᱛᱚ ᱡᱷᱚᱜ ᱟᱢ ᱛᱤᱧ ᱡᱷᱚᱜ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱦᱴᱟ { -brand-product-name } ᱨᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱠᱷᱟᱱ, ᱵᱷᱤᱞᱠᱤ ᱞᱮᱠᱷᱟ ᱦᱟᱛᱟᱣ ᱟᱢ ᱾
 firefoxview-synced-tabs-placeholder-header = ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ
 firefoxview-synced-tabs-placeholder-body = ᱫᱚᱥᱟᱨ ᱡᱷᱚᱜ ᱟᱢ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-product-name } ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱦᱴᱟ ᱠᱷᱩᱞᱟᱹ ᱡᱷᱚᱜ, ᱡᱟᱫᱩ ᱞᱮᱠᱷᱟ ᱛᱮ ᱦᱟᱛᱟᱣ ᱢᱮ ᱾
 firefoxview-collapse-button-show =
