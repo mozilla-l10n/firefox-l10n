@@ -60,3 +60,10 @@ about-private-browsing-pin-promo-link-text =
        *[other] ᱠᱟᱹᱢᱤᱵᱟᱨ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
     }
 about-private-browsing-pin-promo-title = ᱰᱮᱥᱠᱴᱚᱯ ᱠᱷᱚᱱ ᱪᱮᱫ ᱠᱩᱠᱤᱡᱽ ᱟᱨᱵᱟᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱵᱮᱝ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ ᱾ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱢᱮ ᱡᱮᱞᱠᱟ ᱚᱠᱚᱭ ᱦᱚᱸ ᱵᱟᱠᱚ ᱧᱮᱞᱮᱫ ᱢᱮᱭᱟ
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱚ ᱪᱟᱞᱟᱣ ᱮᱱᱟ!
+about-private-browsing-cookie-banners-promo-button = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚᱭ ᱢᱮ
