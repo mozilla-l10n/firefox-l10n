@@ -57,6 +57,7 @@ neterror-dns-not-found-hint-firewall = چیک کرو جو { -brand-short-name } 
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } اساݙے قابل اعتماد DNS حل کنندہ دے ذریعے ایں سائٹ دے پتے کیتے تہاݙی درخواست دی حفاظت نہیں کر سڳدا۔ اتھاں کیوں ہے:
 neterror-dns-not-found-trr-third-party-warning = تساں ڈی این ایس حل کرݨ آلے نال جاری رکھ سڳدے ہو جہڑا محفوظ کائنی۔ ول وی تریجھا فریق ایہ ݙیکھݨ دے قابل تھی سڳدے جو تساں کہڑیاں ویب سائٹاں تے ویندے ہو۔
+neterror-dns-not-found-trr-third-party-warning2 = تساں آپݨے ڈیفالٹ ڈی این ایس حل کرݨ آلے نال جاری رکھ سڳدے ہو۔ ول وی تریجھا فریق ایہ ݙیکھݨ دے قابل تھی سڳدے جو تساں کہڑیاں ویب سائٹاں تے ویندے ہو۔
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } نال جڑݨ دے قابل کائنا ہا۔
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } نال کنکشن وِچ توقع توں زیادہ وقت لڳا۔
 neterror-dns-not-found-trr-offline = تساں انٹرنیٹ نال منسلک کائنوے۔
