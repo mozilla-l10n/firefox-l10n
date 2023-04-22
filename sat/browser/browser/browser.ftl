@@ -679,6 +679,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱤᱨᱼᱪᱤᱛᱟᱹᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱤᱨᱼᱪᱤᱛᱟᱹᱨ ᱵᱚᱸᱫ ᱢᱮ ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -825,6 +829,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = ᱤᱢᱮᱞ ᱞᱤᱝᱠ
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱫ ᱞᱤᱝᱠ ᱧᱮᱞ ᱢᱮ
+toolbar-button-logins =
+    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
+    .tooltiptext = ᱟᱢᱟᱜ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱧᱮᱞ ᱢᱮ ᱟᱨ ᱡᱚᱛᱚᱱ ᱢᱮ
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -984,6 +991,8 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } ᱫᱚ ᱟᱢᱟᱜ ᱟᱢ ᱰᱟᱴᱟ ᱠᱩᱢᱵᱲᱩ ᱟᱨ ᱥᱯᱟᱢ ᱠᱷᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱢᱩᱞ ᱤᱢᱮᱞ ᱩᱠᱩᱭ ᱛᱟᱢᱟᱭ ᱾
+firefox-relay-offer-how-we-integrate = ᱞᱟᱦᱟ ᱠᱮᱠᱷᱟᱱ, ᱟᱢ ᱫᱚ ᱱᱟᱶᱟ { -relay-brand-short-name } ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱥᱤᱫᱷᱟᱹ ᱟᱢᱟᱜ { -brand-shorter-name } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱢᱮᱱᱮᱡᱚᱨ ᱠᱷᱚᱱ ᱛᱮᱭᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
