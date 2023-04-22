@@ -315,9 +315,9 @@ theme-colorways-button-colorway-enabled = Змяніць расфарбоўку
 #   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Згасае { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Уключаны
-plugin-disabled-heading = Адключана
+plugin-disabled-heading = Адключаны
 dictionary-enabled-heading = Уключаны
-dictionary-disabled-heading = Адключана
+dictionary-disabled-heading = Адключаны
 locale-enabled-heading = Уключана
 locale-disabled-heading = Выключана
 sitepermission-enabled-heading = Уключаны
