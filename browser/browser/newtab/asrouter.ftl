@@ -239,6 +239,7 @@ july-jam-headline = Asseguram vòstra proteccion
 july-jam-body = Cada mes, { -brand-short-name } bloca una mejana de 3 000 traçadors per utilizaire, per tal qu’ajatz accès a un Internet segur e rapid.
 july-jam-set-default-primary = Dobrir mos ligams dins { -brand-short-name }
 fox-doodle-pin-headline = Urós de vos tornar veire !
+fox-doodle-pin-primary = Dobrir mos ligams dins { -brand-short-name }
 fox-doodle-pin-secondary = Pas ara
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
