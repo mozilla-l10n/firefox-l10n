@@ -232,28 +232,6 @@ colorways-cfr-header-today = Barvne kombinacije Neodvisni glasovi potečejo dane
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Pasice s piškotki, izginite!
-cfr-cookiebanner-body = Dovoli { -brand-short-name(sklon: "dajalnik") }, da samodejno zavrne vse zahteve za shranjevanje piškotkov, kadar je to mogoče.
-cfr-cookiebanner-accept-button-v2 = Zavrni zahteve
-    .accesskey = r
-cfr-cookiebanner-reject-button = Ne zdaj
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Manj pozivov za sprejetje piškotkov
-cfr-cookiebanner-body-variant-1 = Naj { -brand-short-name } namesto vas odgovarja na zahteve za shranjevanje piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če bo to mogoče.
-cfr-cookiebanner-accept-button-variant-1 = Zavrni pojavna okna
-    .accesskey = Z
-cfr-cookiebanner-reject-button-variant-1 = Ne, hvala
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Zmanjšanje števila pasic s piškotki
-cfr-cookiebanner-body-variant-2 = Zmanjšajte število pasic s piškotki, tako da { -brand-short-name(sklon: "dajalnik") } dovolite zavračanje zahtev spletnih mest za shranjevanje piškotkov, če je to mogoče.
-cfr-cookiebanner-accept-button-variant-2 = Dovoli
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-2 = Ne zdaj
-    .accesskey = N
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Dovolite { -brand-short-name(sklon: "dajalnik") }, da zavrača pasice s piškotki?
 cfr-cbh-body = { -brand-short-name } lahko samodejno zavrne številne zahteve za shranjevanje piškotkov.
 cfr-cbh-confirm-button = Zavračaj pasice s piškotki
@@ -266,6 +244,12 @@ cfr-cbh-dismiss-button = Ne zdaj
 july-jam-headline = Stojimo vam ob strani
 july-jam-body = { -brand-short-name } vsak mesec v povprečju zavrne več kot 3000 sledilcev na uporabnika, s tem pa vam nudi varen in hiter dostop do najboljših mest na internetu.
 july-jam-set-default-primary = Odpiraj povezave v { -brand-short-name(sklon: "mestnik") }
+fox-doodle-pin-headline = Dobrodošli nazaj
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Samo opomnik, da si lahko priljubljeni neodvisni brskalnik pripnete na doseg miške z enim klikom.
+fox-doodle-pin-primary = Odpiraj povezave v { -brand-short-name(sklon: "mestnik") }
+fox-doodle-pin-secondary = Ne zdaj
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = z obrazci
 protections-panel-site-not-working-view-issue-list-payments = s plačili
 protections-panel-site-not-working-view-issue-list-comments = s komentarji
 protections-panel-site-not-working-view-issue-list-videos = z videi
+protections-panel-site-not-working-view-issue-list-fonts = Pisave
 protections-panel-site-not-working-view-send-report = Pošlji poročilo
 
 ##
