@@ -1247,11 +1247,14 @@ preferences-doh-status-disabled = Desactivat
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Inactiu ({ $reason })
+preferences-doh-group-message = Activar lo DNS segur amb :
 preferences-doh-expand-section =
     .tooltiptext = Mai d’informacions
 preferences-doh-setting-default =
     .label = Proteccion per defaut
     .accesskey = d
+preferences-doh-default-desc = { -brand-short-name } decidís quant utilizar lo DNS segur per protegir vòstra vida privada.
+preferences-doh-default-detailed-desc-1 = Utilizar lo DNS segur dins las regions ont es disponible
 preferences-doh-setting-enabled =
     .label = Proteccion espandida
     .accesskey = e
