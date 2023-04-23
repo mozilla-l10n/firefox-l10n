@@ -1252,6 +1252,14 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Proteccion per defaut
     .accesskey = d
+preferences-doh-setting-enabled =
+    .label = Proteccion espandida
+    .accesskey = e
+preferences-doh-enabled-desc = Contrarotlatz quand volètz utilizar lo DNS segur e causissètz vòstre provesidor.
+preferences-doh-enabled-detailed-desc-1 = Utilizar lo provesidor qu’avètz seleccionat
+preferences-doh-setting-strict =
+    .label = Proteccion maximala
+    .accesskey = m
 
 ## The following strings are used in the Download section of settings
 
