@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Приостановить
-    .title = Приостановить (Пробел)
-pictureinpicture-play-cmd =
-    .aria-label = Воспроизвести
-    .title = Воспроизвести (Пробел)
-pictureinpicture-mute-cmd =
-    .aria-label = Отключить звук
-    .title = Отключить звук ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Включить звук
-    .title = Включить звук ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Отправить обратно во вкладку
-    .title = Обратно во вкладку
-pictureinpicture-close-cmd =
-    .aria-label = Закрыть
-    .title = Закрыть ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Субтитры
-    .title = Субтитры
 pictureinpicture-pause-btn =
     .aria-label = Приостановить
     .tooltip = Приостановить (Пробел)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Перейти в полноэкранный режим
-    .title = Перейти в полноэкранный режим (двойной щелчок)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Выйти из полноэкранного режима
-    .title = Выйти из полноэкранного режима (двойной щелчок)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Назад
-    .title = Назад (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Вперёд
-    .title = Вперёд (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Перейти в полноэкранный режим
     .tooltip = Перейти в полноэкранный режим (двойной щелчок)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Вперёд
     .tooltip = Вперёд (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Настройки субтитров
 pictureinpicture-subtitles-label = Субтитры
 pictureinpicture-font-size-label = Размер шрифта
 pictureinpicture-font-size-small = Маленький
