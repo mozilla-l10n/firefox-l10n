@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge ancian
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Senhal a partir d’un fichièr CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Favorits
 migration-logins-and-passwords-option-label = Identificants e senhals salvats
 migration-history-option-label = Istoric de navegacion
 migration-form-autofill-option-label = Donadas d’emplenatge automatic
+migration-passwords-from-file-progress-header = Importar un fichièr de senhals
+migration-passwords-from-file-success-header = Senhals corrèctament importats
+migration-passwords-from-file = Verificacion del fichièr de senhals
+migration-passwords-new = Senhals novèls
+migration-passwords-updated = Senhals existents
+migration-passwords-from-file-picker-title = Importar un fichièr de senhals
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Document TSV
        *[other] Fichièr TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } apondut
+       *[other] { $newEntries } aponduts
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } actualizat
+       *[other] { $updatedEntries } actualizats
+    }
 migration-import-button-label = Importar
+migration-choose-to-import-from-file-button-label = Importar d’un fichièr
+migration-import-from-file-button-label = Seleccionar un fichièr
 migration-cancel-button-label = Anullar
 migration-done-button-label = Acabat
 migration-wizard-import-browser-no-browsers = { -brand-short-name } a pas pogut trapar cap de programa contenent de donadas de marcapaginas, istoric o senhals.
