@@ -539,6 +539,9 @@ search-restore-default =
 search-remove-engine =
     .label = ລຶບ
     .accesskey = ລ
+search-add-engine =
+    .label = ເພີ່ມ
+    .accesskey = A
 search-find-more-link = ຄົ້ນຫາເຄື່ອງມືການຊອກຫາເພີ່ມເຕີມ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
