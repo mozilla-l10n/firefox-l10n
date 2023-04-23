@@ -55,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Avança
     .tooltip = Avança (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Paramètres de jos títols
 pictureinpicture-subtitles-label = Sostitoles
 pictureinpicture-font-size-label = Talha de polissa
 pictureinpicture-font-size-small = Pichona
