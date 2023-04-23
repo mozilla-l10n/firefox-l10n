@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Uvoz podatkov brskalnika
+migration-wizard-selection-list = Izberite podatke, ki jih želite uvoziti.
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = iz { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = iz { $sourceBrowser } – { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -26,9 +43,23 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldija
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Uvozi vse razpoložljive podatke
+migration-selected-data-label = Uvozi izbrane podatke
 
 ##
 
+migration-select-all-option-label = Izberi vse
+migration-bookmarks-option-label = zaznamke
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = priljubljene
+migration-logins-and-passwords-option-label = shranjene prijave in gesla
+migration-history-option-label = zgodovino brskanja
+migration-form-autofill-option-label = podatke za izpolnjevanje obrazcev
+migration-passwords-from-file-success-header = Gesla so uspešno uvožena
+migration-passwords-from-file = Iskanje gesel v datoteki
+migration-passwords-new = Nova gesla
+migration-passwords-updated = Obstoječa gesla
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -43,6 +74,13 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Datoteka TSV
     }
+migration-import-button-label = Uvozi
+migration-choose-to-import-from-file-button-label = Uvozi iz datoteke
+migration-import-from-file-button-label = Izberi datoteko
+migration-cancel-button-label = Prekliči
+migration-done-button-label = Končaj
+migration-wizard-import-browser-no-browsers = { -brand-short-name } ni našel programov, ki bi vsebovali zaznamke, zgodovino ali gesla.
+migration-wizard-import-browser-no-resources = Prišlo je do napake. { -brand-short-name } ne najde podatkov za uvoz iz tega profila brskalnika.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -50,6 +88,68 @@ migration-passwords-from-file-tsv-filter-title =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = zaznamke
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = priljubljene
+migration-list-password-label = gesla
+migration-list-history-label = zgodovino
+migration-list-autofill-label = podatke za samodejno izpolnjevanje
 
 ##
 
+migration-wizard-progress-header = Uvažanje podatkov
+migration-wizard-progress-done-header = Podatki so uspešno uvoženi
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Uvažanje ...
+migration-wizard-progress-icon-completed =
+    .aria-label = Dokončano
+migration-safari-password-import-header = Uvozi gesla iz brskalnika Safari
+migration-safari-password-import-steps-header = Za uvoz gesel iz brskalnika Safari:
+migration-safari-password-import-step1 = V Safariju odprite meni “Safari” in izberite Preferences > Passwords
+migration-safari-password-import-step2 = Kliknite gumb <img data-l10n-name="safari-icon-3dots"/> in izberite “Export All Passwords”
+migration-safari-password-import-step3 = Shranite datoteko z gesli
+migration-safari-password-import-step4 = Spodaj kliknite “Izberi datoteko” in poiščite datoteko, ki ste jo shranili
+migration-safari-password-import-skip-button = Preskoči
+migration-safari-password-import-select-button = Izberi datoteko
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } zaznamek
+        [two] { $quantity } zaznamka
+        [few] { $quantity } zaznamki
+       *[other] { $quantity } zaznamkov
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } priljubljena
+        [two] { $quantity } priljubljeni
+        [few] { $quantity } priljubljene
+       *[other] { $quantity } priljubljenih
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } geslo
+        [two] { $quantity } gesli
+        [few] { $quantity } gesla
+       *[other] { $quantity } gesel
+    }
+migration-wizard-progress-success-formdata = zgodovina obrazcev
+migration-wizard-safari-permissions-sub-header = Za uvoz zaznamkov in zgodovine iz brskalnika Safari:
+migration-wizard-safari-select-button = Izberi datoteko

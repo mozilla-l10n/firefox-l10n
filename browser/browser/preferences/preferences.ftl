@@ -751,6 +751,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Trenutno se sinhronizirajo naslednji podatki:
+sync-syncing-across-devices-heading = Naslednji podatki se sinhronizirajo med vsemi povezanimi napravami:
 sync-currently-syncing-bookmarks = zaznamki
 sync-currently-syncing-history = zgodovina
 sync-currently-syncing-tabs = odprti zavihki
@@ -779,6 +780,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Odklopi …
     .buttonaccesskeyextra2 = d
+sync-choose-dialog-subtitle = Sprememba seznama, kaj želite sinhronizirati, se bo odrazila v vseh povezanih napravah.
 sync-engine-bookmarks =
     .label = zaznamke
     .accesskey = m
@@ -1239,6 +1241,34 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS prek HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Stanje: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Ponudnik: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Neveljaven spletni naslov
+preferences-doh-status-active = dejavno
+preferences-doh-status-disabled = izključeno
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = nedejavno ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = Več informacij
+preferences-doh-default-desc = { -brand-short-name } naj odloči, kdaj naj zaščiti vašo zasebnost z uporabo zavarovanega DNS.
+preferences-doh-enabled-desc = Odločajte sami, kdaj uporabiti zavarovan DNS, in izberite ponudnika.
+preferences-doh-strict-desc = { -brand-short-name } naj vedno uporablja zavarovan DNS. Preden se uporabi sistemski DNS, naj se prikaže opozorilo.
+preferences-doh-checkbox-warn =
+    .label = Opozori, če tretja oseba aktivno preprečuje uporabo zavarovanega DNS
+    .accesskey = O
+preferences-doh-select-resolver = Izberite ponudnika:
+preferences-doh-exceptions-description = Na naslednjih spletnih mestih { -brand-short-name } ne bo uporabljal varnega DNS
+preferences-doh-manage-exceptions =
+    .label = Upravljanje izjem ...
+    .accesskey = z
 
 ## The following strings are used in the Download section of settings
 

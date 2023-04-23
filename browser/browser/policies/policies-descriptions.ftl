@@ -26,6 +26,8 @@ policy-Bookmarks = Ustvarjaj zaznamke v orodni vrstici, meniju zaznamkov ali v d
 policy-CaptivePortal = Omogoči ali onemogoči podporo za prestrezni portal.
 policy-CertificatesDescription = Dodaj digitalna potrdila ali uporabi vgrajena potrdila.
 policy-Cookies = Spletnim mestom dovoli ali prepovej nastavljanje piškotkov.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Nastavi pravilnike, povezane z vsebniki.
 policy-DisabledCiphers = Onemogoči šifre.
 policy-DefaultDownloadDirectory = Nastavi privzeto mapo za prenose.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
