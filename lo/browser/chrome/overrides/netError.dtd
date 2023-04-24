@@ -106,6 +106,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.expiredCert.sts.secondPara "ມັນເປັນໄປໄດ້ວ່າໃບຢັ້ງຢືນຂອງເວັບໄຊທ໌ຈະຫມົດອາຍຸ, ເຊິ່ງປ້ອງກັນ &brandShortName; ຈາກ​ການ​ເຊື່ອມ​ຕໍ່​ຢ່າງ​ປອດ​ໄພ​.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ເຈົ້າສາມາດເຮັດແນວໃດກ່ຽວກັບມັນ?">
 
@@ -118,7 +119,9 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ປ້ອງກັນຫນ້າເວັບນີ້ຈາກການໂຫລດໃນທິດທາງນີ້ເພາະວ່າຫນ້າເວັບມີເນື້ອຫາທີ່ຖືກບັອກໄວ້ໂດຍນະໂຍບາຍຄວາມປອດໄພ.</p>">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ປ້ອງກັນບໍ່ໃຫ້ໜ້ານີ້ໂຫຼດໃນບໍລິບົດນີ້ ເພາະວ່າໜ້າເວັບມີນະໂຍບາຍ X-Frame-Options ທີ່ບໍ່ອະນຸຍາດມັນ.</p>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>ບໍ່ສາມາດສະແດງຫນ້າເວັບທີ່ທ່່ານກຳລັງເຂົ້າໄປເບິງເພາະໄດ້ກວດພົບວ່າເກີດມີຂໍ້ຜິດໃນການສົ່ງຂໍ້ມູນ.</p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ເພື່ອແຈ້ງບັນຫານີ້.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "ຍອມຮັບຄວາມສ່ຽງ ແລະ ສືບຕໍ່">
 
@@ -138,7 +141,9 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "ບັອກຫນ້າແລ້ວ">
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "ຖ້າທ່ານຢູ່ໃນເຄືອຂ່າຍຂອງບໍລິສັດ, ທ່ານສາມາດຕິດຕໍ່ຫາພະແນກໄອທີຂອງທ່ານ.">
 
 
+<!ENTITY prefReset.longDesc "ເບິ່ງຄືວ່າການຕັ້ງຄ່າຄວາມປອດໄພເຄືອຂ່າຍຂອງທ່ານອາດຈະເຮັດໃຫ້ເກີດນີ້. ທ່ານຕ້ອງການໃຫ້ການຕັ້ງຄ່າເລີ່ມຕົ້ນຄືນມາບໍ?">
 <!ENTITY prefReset.label "ກູ້ຄືນການຕັ້ງຄ່າເລີ່ມຕົ້ນ">
 
