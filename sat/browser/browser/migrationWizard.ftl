@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱭ ᱢᱮ
+migration-wizard-selection-list = ᱟᱢ ᱠᱩᱥᱩᱭᱟᱜ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱣᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -42,6 +44,9 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱰᱟᱴᱟ ᱡᱷᱚᱛᱚ ᱟᱹᱜᱩᱭ ᱢᱮ
+migration-no-selected-data-label = ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱰᱟᱴᱟ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱᱟ
+migration-selected-data-label = ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱭ ᱢᱮ
 
 ##
 
@@ -52,7 +57,13 @@ migration-bookmarks-option-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 migration-favorites-option-label = ᱠᱩᱥᱤ ᱠᱚ
 migration-logins-and-passwords-option-label = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ
 migration-history-option-label = ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
+migration-form-autofill-option-label = ᱟᱡ ᱛᱮ ᱯᱟᱨᱮᱡ ᱯᱷᱚᱨᱢ
+migration-passwords-from-file-progress-header = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
+migration-passwords-from-file-success-header = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱟᱹᱥ ᱞᱮᱠᱟᱛᱮ ᱟᱹᱜᱩᱭ ᱮᱱᱟ
+migration-passwords-from-file = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱟᱹᱜᱤᱫ ᱨᱮᱫ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ
 migration-passwords-new = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
+migration-passwords-updated = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
+migration-passwords-from-file-picker-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -66,6 +77,28 @@ migration-passwords-from-file-tsv-filter-title =
     { PLATFORM() ->
         [macos] TSV ᱫᱚᱞᱤᱞ
        *[other] TSV ᱨᱮᱫ
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } ᱥᱟᱞᱮᱫ ᱮᱱᱟ
+        [two] { $newEntries } ᱠᱤᱱ ᱥᱟᱞᱮᱫ ᱮᱱᱟ
+       *[other] { $newEntries } ᱠᱚ ᱥᱟᱞᱮᱫ ᱮᱱᱟ
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
+        [two] { $updatedEntries } ᱠᱤᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
+       *[other] { $updatedEntries } ᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
     }
 migration-import-button-label = ᱟᱹᱜᱩ
 migration-choose-to-import-from-file-button-label = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
@@ -85,11 +118,19 @@ migration-list-bookmark-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 migration-list-favorites-label = ᱠᱩᱥᱤ ᱠᱚ
 migration-list-password-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 migration-list-history-label = ᱱᱟᱜᱟᱢ
+migration-list-autofill-label = ᱟᱡ ᱛᱮ ᱯᱮᱨᱮᱡ ᱰᱟᱴᱟ
 
 ##
 
+migration-wizard-progress-header = ᱰᱟᱴᱟ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟ
+migration-wizard-progress-done-header = ᱰᱟᱴᱟ ᱨᱟᱹᱥ ᱞᱮᱠᱷᱟᱛᱮ ᱦᱮᱡ ᱮᱱᱟ
+migration-wizard-progress-icon-in-progress =
+    .aria-label = ᱟᱹᱜᱩᱭᱮᱫ ᱟ…
 migration-wizard-progress-icon-completed =
     .aria-label = ᱪᱟᱵᱟ ᱮᱱᱟ
+migration-safari-password-import-header = Safari ᱠᱷᱚᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
+migration-safari-password-import-steps-header = Safari ᱛᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱟᱹᱜᱩᱭ ᱢᱮ :
+migration-safari-password-import-step1 = Safari ᱨᱮ, “Safari” ᱢᱮᱱᱩ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱠᱩᱥᱤᱭᱟᱜ > ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
 migration-safari-password-import-skip-button = ᱟᱲᱟᱜ
 migration-safari-password-import-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-wizard-safari-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
