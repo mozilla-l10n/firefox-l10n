@@ -77,7 +77,7 @@ permissions-invalid-uri-label = გთხოვთ მიუთითოთ ს�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = გამონაკლისები, თვალთვალისგან გაძლიერებული დაცვის
+    .title = გამონაკლისები თვალთვალისგან გაძლიერებული დაცვისას
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = ამ საიტებისთვის დაცვა გამორთული გაქვთ
 permissions-exceptions-etp-window2 =
@@ -218,3 +218,6 @@ permissions-site-speaker-window =
     .title = პარამეტრები – ხმამაღლამოლაპარაკესთან წვდომის ნებართვები
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = მოცემული ვებსაიტები ითხოვს ხმის გამომტან მოწყობილობასთან წვდომის ნებართვას. შეგიძლიათ მიუთითოთ ნებადართული საიტები, რომლებსაც შეეძლება ხმის გამომტანის არჩევა.
+permissions-exceptions-doh-window =
+    .title = გამონაკლისები DNS-ის HTTPS-ით გადაცემისას
+    .style = { permissions-window2.style }

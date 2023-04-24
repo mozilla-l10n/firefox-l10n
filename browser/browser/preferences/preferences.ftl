@@ -1233,6 +1233,10 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = მხოლოდ-HTTPS-რეჟიმის გარეშე
 
+## DoH Section
+
+preferences-doh-header = DNS-ის HTTPS-ით გადაცემა
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = სამუშაო ეკრანი
