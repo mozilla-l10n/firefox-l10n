@@ -79,10 +79,30 @@ perftools-button-remove-directory = Odebrat vybrané
 perftools-presets-web-developer-label = Vývoj webu
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = Grafika
+perftools-presets-graphics-description =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění grafických chyb ve { -brand-shorter-name(case: "loc") }.
+       *[no-cases] Doporučené nastavení pro ladění grafických chyb v aplikaci { -brand-shorter-name }.
+    }
 perftools-presets-media-label = Média
+perftools-presets-media-description2 =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa ve { -brand-shorter-name(case: "loc") }.
+       *[no-cases] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v aplikaci { -brand-shorter-name }.
+    }
 perftools-presets-networking-label = Síť
+perftools-presets-networking-description =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění síťových problémů ve { -brand-shorter-name(case: "loc") }.
+       *[no-cases] Doporučené nastavení pro ladění síťových problémů v aplikaci { -brand-shorter-name }.
+    }
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Napájení
+perftools-presets-power-description =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění chyb ve spotřebě { -brand-shorter-name(case: "gen") }.
+       *[no-cases] Doporučené nastavení pro ladění chyb ve spotřebě aplikace { -brand-shorter-name }.
+    }
 perftools-presets-custom-label = Vlastní
 
 ##
