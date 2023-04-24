@@ -53,6 +53,7 @@ perftools-button-start-recording = Spustit nahrávání
 perftools-button-restart = Restartovat
 perftools-button-add-directory = Přidat adresář
 perftools-button-remove-directory = Odebrat vybrané
+perftools-button-edit-settings = Upravit nastavení…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
@@ -63,6 +64,7 @@ perftools-button-remove-directory = Odebrat vybrané
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+perftools-onboarding-message = <b>Novinka</b>: { -profiler-brand-name } je teď integrovaný do nástrojů pro webové vývojáře. <a>Zjistěte více</a> o tomto novém výkonném nástroji.
 
 ## Profiler presets
 

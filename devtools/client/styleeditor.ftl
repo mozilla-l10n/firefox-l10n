@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Naimportuje stávající stylopis a připojí ho k dokumentu
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Filtrovat kaskádové styly
 styleeditor-visibility-toggle =
     .tooltiptext = Přepne viditelnost stylopisu
     .accesskey = U
@@ -37,3 +39,5 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Přejít na řádek…
     .accesskey = n
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Nebyly nalezeny žádná odpovídající kaskádové styly.
