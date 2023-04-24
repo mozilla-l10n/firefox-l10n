@@ -717,7 +717,7 @@ sync-manage-account = Spravovať účet
 ## $email (string) - Email used for Firefox account
 
 sync-signedin-unverified = Adresa { $email } nie je overená.
-sync-signedin-login-failure = Ak sa chcete pripojiť k { $email } , musíte sa prihlásiť.
+sync-signedin-login-failure = Ak sa chcete pripojiť k účtu { $email }, musíte sa prihlásiť.
 
 ##
 
