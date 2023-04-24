@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Vanha Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Salasanat CSV-tiedostosta
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Suosikit
 migration-logins-and-passwords-option-label = Tallennetut käyttäjätunnukset ja salasanat
 migration-history-option-label = Selaushistoria
 migration-form-autofill-option-label = Lomakkeiden automaattisen täytön tiedot
+migration-passwords-from-file-progress-header = Tuo salasanojen tiedosto
+migration-passwords-from-file-success-header = Salasanat tuotu onnistuneesti
+migration-passwords-from-file = Tarkistetaan tiedostoa salasanojen varalta
+migration-passwords-new = Uudet salasanat
+migration-passwords-updated = Olemassa olevat salasanat
+migration-passwords-from-file-picker-title = Tuo salasanojen tiedosto
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,7 +78,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-tiedosto
        *[other] TSV-tiedosto
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } lisätty
+       *[other] { $newEntries } lisätty
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } päivitetty
+       *[other] { $updatedEntries } päivitetty
+    }
 migration-import-button-label = Tuo
+migration-choose-to-import-from-file-button-label = Tuo tiedostosta
+migration-import-from-file-button-label = Valitse tiedosto
 migration-cancel-button-label = Peruuta
 migration-done-button-label = Valmis
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ei löytänyt ohjelmia, jotka sisältävät kirjanmerkki-, historia- tai salasanatietoja.
