@@ -171,6 +171,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Doporučené nastavení s minimální režií pro ladění většiny webových aplikací.
 profiler-popup-presets-web-developer-label =
     .label = Nástroje pro webové vývojáře
@@ -182,29 +187,23 @@ profiler-popup-presets-firefox-description =
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-description =
-    { -brand-shorter-name.gender ->
-        [masculine] Doporučené nastavení pro ladění grafických chyb ve { -brand-shorter-name(case: "loc") }.
-        [feminine] Doporučené nastavení pro ladění grafických chyb v { -brand-shorter-name(case: "loc") }.
-        [neuter] Doporučené nastavení pro ladění grafických chyb v { -brand-shorter-name(case: "loc") }.
-       *[other] Doporučené nastavení pro ladění grafických chyb v aplikaci { -brand-shorter-name }.
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění grafických chyb ve { -brand-shorter-name(case: "loc") }.
+       *[no-cases] Doporučené nastavení pro ladění grafických chyb v aplikaci { -brand-shorter-name }.
     }
 profiler-popup-presets-graphics-label =
     .label = Grafika
 profiler-popup-presets-media-description2 =
-    { -brand-shorter-name.gender ->
-        [masculine] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa ve { -brand-shorter-name(case: "loc") }.
-        [feminine] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v { -brand-shorter-name(case: "loc") }.
-        [neuter] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v { -brand-shorter-name(case: "loc") }.
-       *[other] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v aplikaci { -brand-shorter-name }.
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa ve { -brand-shorter-name(case: "loc") }.
+       *[no-cases] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v aplikaci { -brand-shorter-name }.
     }
 profiler-popup-presets-media-label =
     .label = Média
 profiler-popup-presets-networking-description =
-    { -brand-shorter-name.gender ->
-        [masculine] Doporučené nastavení pro ladění síťových problémů ve { -brand-shorter-name(case: "loc") }.
-        [feminine] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
-        [neuter] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
-       *[other] Doporučené nastavení pro ladění síťových problémů v aplikaci { -brand-shorter-name }.
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění síťových problémů ve { -brand-shorter-name(case: "loc") }.
+       *[no-cases] Doporučené nastavení pro ladění síťových problémů v aplikaci { -brand-shorter-name }.
     }
 profiler-popup-presets-networking-label =
     .label = Síť
