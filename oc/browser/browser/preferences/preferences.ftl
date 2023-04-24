@@ -1263,6 +1263,11 @@ preferences-doh-enabled-detailed-desc-1 = Utilizar lo provesidor qu’avètz sel
 preferences-doh-setting-strict =
     .label = Proteccion maximala
     .accesskey = m
+preferences-doh-select-resolver = Causir lo provesidor :
+preferences-doh-exceptions-description = { -brand-short-name } utilizarà pas lo DNS segur per aquestes sites
+preferences-doh-manage-exceptions =
+    .label = Gerir las excepcions…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
