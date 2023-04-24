@@ -1236,6 +1236,10 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS-ის HTTPS-ით გადაცემა
+preferences-doh-description = საიტთა სახელების გადამყვანის (DNS) HTTPS-ით გადაცემისას საიტის მისამართის მოთხოვნები იგზავნება დაშიფრული კავშირით, შედეგად იქმნება დაცული DNS და გარეშე პირებს უძნელდებათ გაარკვიონ, რომელ ვებსაიტებთან ცდილობთ წვდომას.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = მომწოდებელი: { $name }
 
 ## The following strings are used in the Download section of settings
 
