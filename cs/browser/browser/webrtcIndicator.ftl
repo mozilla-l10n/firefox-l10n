@@ -13,19 +13,15 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title =
-    Ukazatel sdílení { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Ukazatel sdílení { -brand-short-name(case: "gen") }
+       *[no-cases] Ukazatel sdílení aplikace { -brand-short-name }
     }
 webrtc-indicator-window =
     .title =
-        Ukazatel sdílení { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] aplikace { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Ukazatel sdílení { -brand-short-name(case: "gen") }
+           *[no-cases] Ukazatel sdílení aplikace { -brand-short-name }
         }
 
 ## Used as list items in sharing menu
@@ -52,12 +48,10 @@ webrtc-sharing-menu =
     .accesskey = e
 webrtc-sharing-window = Sdílíte okno jiné aplikace.
 webrtc-sharing-browser-window =
-    Sdílíte { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Sdílíte { -brand-short-name(case: "acc") }.
+       *[no-cases] Sdílíte aplikaci { -brand-short-name }.
+    }
 webrtc-sharing-screen = Sdílíte celou vaši obrazovku.
 webrtc-stop-sharing-button = Ukončit sdílení
 webrtc-microphone-unmuted =
@@ -187,7 +181,6 @@ webrtc-allow-share-screen-and-audio-capture = Chcete serveru { $origin } povolit
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } poslouchat zvuky z tohoto panelu?
 webrtc-allow-share-camera-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat vaši webkameru?
-webrtc-allow-share-microphone-unsafe-delegations = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat váš mikrofon?
 webrtc-allow-share-microphone-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat váš mikrofon?
 webrtc-allow-share-screen-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } vidět vaši obrazovku?
 # "Speakers" is used in a general sense that might include headphones or
@@ -202,11 +195,9 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chcete serveru {
 
 webrtc-share-screen-warning = Obrazovku sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
 webrtc-share-browser-warning =
-    { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
-        [feminine] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
-        [neuter] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
-       *[other] Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+       *[no-cases] Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
     }
 webrtc-share-screen-learn-more = Zjistit více
 webrtc-pick-window-or-screen = Vyberte okno nebo obrazovku

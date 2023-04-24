@@ -38,11 +38,9 @@ videocontrols-picture-in-picture-toggle-label = Sledovat jako obraz v obraze
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer =
-    { -brand-short-name.gender ->
-        [masculine] Přehrávejte videa v popředí a zároveň dělejte ve { -brand-short-name(case: "loc") } klidně i něco jiného
-        [feminine] Přehrávejte videa v popředí a zároveň dělejte v { -brand-short-name(case: "loc") } klidně i něco jiného
-        [neuter] Přehrávejte videa v popředí a zároveň dělejte v { -brand-short-name(case: "loc") } klidně i něco jiného
-       *[other] Přehrávejte videa v popředí a zároveň dělejte v aplikaci { -brand-short-name } klidně i něco jiného
+    { -brand-short-name.case-status ->
+        [with-cases] Přehrávejte videa v popředí a zároveň dělejte ve { -brand-short-name(case: "loc") } klidně i něco jiného
+       *[no-cases] Přehrávejte videa v popředí a zároveň dělejte v aplikaci { -brand-short-name } klidně i něco jiného
     }
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.

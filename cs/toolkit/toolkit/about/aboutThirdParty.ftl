@@ -4,14 +4,12 @@
 
 third-party-page-title = Informace o modulu třetí strany
 third-party-section-title =
-    Seznam modulů třetích stran načtených v { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "loc") }
-        [feminine] { -brand-short-name(case: "loc") }
-        [neuter] { -brand-short-name(case: "loc") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Seznam modulů třetích stran načtených v { -brand-short-name(case: "loc") }
+       *[no-cases] Seznam modulů třetích stran načtených v aplikaci { -brand-short-name }
     }
 third-party-intro =
-    { -vendor-short-name.gender ->
+    { -vendor-short-name.case-status ->
         [with-cases] Tato stránka zobrazuje seznam modulů třetích stran, které byly vneseny do vaší aplikace { -brand-short-name }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo { -vendor-short-name(case: "ins") }.
        *[other] Tato stránka zobrazuje seznam modulů třetích stran, které byly vneseny do vaší aplikace { -brand-short-name }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo organizací { -vendor-short-name }.
     }
@@ -78,57 +76,43 @@ third-party-button-to-unblock =
     .aria-label = Blokováno. Klepněte pro odblokování.
 third-party-button-to-unblock-disabled =
     .title =
-        { -brand-short-name.gender ->
-            [masculine] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
-            [feminine] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
-            [neuter] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
-           *[other] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění aplikace { -brand-short-name } vypnutý. Klepněte pro odblokování.
+        { -brand-short-name.case-status ->
+            [with-cases] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
+           *[no-cases] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění aplikace { -brand-short-name } vypnutý. Klepněte pro odblokování.
         }
     .aria-label =
-        { -brand-short-name.gender ->
-            [masculine] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
-            [feminine] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
-            [neuter] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
-           *[other] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění aplikace { -brand-short-name } vypnutý. Klepněte pro odblokování.
+        { -brand-short-name.case-status ->
+            [with-cases] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
+           *[no-cases] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění aplikace { -brand-short-name } vypnutý. Klepněte pro odblokování.
         }
 third-party-button-expand =
     .title = Zobrazit podrobnosti
 third-party-button-collapse =
     .title = Skrýt podrobnosti
 third-party-requires-restart =
-    { -brand-short-name.gender ->
-        [masculine] Pro změnu blokovaných modulů třetích stran je potřeba { -brand-short-name(case: "acc") } restartovat.
-        [feminine] Pro změnu blokovaných modulů třetích stran je potřeba { -brand-short-name(case: "acc") } restartovat.
-        [neuter] Pro změnu blokovaných modulů třetích stran je potřeba { -brand-short-name(case: "acc") } restartovat.
-       *[other] Pro změnu blokovaných modulů třetích stran je potřeba aplikaci { -brand-short-name } restartovat.
+    { -brand-short-name.case-status ->
+        [with-cases] Pro změnu blokovaných modulů třetích stran je potřeba { -brand-short-name(case: "acc") } restartovat.
+       *[no-cases] Pro změnu blokovaných modulů třetích stran je potřeba aplikaci { -brand-short-name } restartovat.
     }
 third-party-should-restart-title =
-    { -brand-short-name.gender ->
-        [masculine] Restartovat { -brand-short-name(case: "acc") }
-        [feminine] Restartovat { -brand-short-name(case: "acc") }
-        [neuter] Restartovat { -brand-short-name(case: "acc") }
-       *[other] Restartovat aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Restartovat { -brand-short-name(case: "acc") }
+       *[no-cases] Restartovat aplikaci { -brand-short-name }
     }
 third-party-should-restart-ok =
-    { -brand-short-name.gender ->
-        [masculine] Restartovat { -brand-short-name(case: "acc") }
-        [feminine] Restartovat { -brand-short-name(case: "acc") }
-        [neuter] Restartovat { -brand-short-name(case: "acc") }
-       *[other] Restartovat aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Restartovat { -brand-short-name(case: "acc") }
+       *[no-cases] Restartovat aplikaci { -brand-short-name }
     }
 third-party-restart-later = Restartovat později
 third-party-blocked-by-builtin =
     .title =
-        { -brand-short-name.gender ->
-            [masculine] Blokováno { -brand-short-name(case: "gen") }
-            [feminine] Blokováno { -brand-short-name(case: "gen") }
-            [neuter] Blokováno { -brand-short-name(case: "gen") }
-           *[other] Blokováno aplikací { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Blokováno { -brand-short-name(case: "gen") }
+           *[no-cases] Blokováno aplikací { -brand-short-name }
         }
     .alt =
-        { -brand-short-name.gender ->
-            [masculine] Blokováno { -brand-short-name(case: "gen") }
-            [feminine] Blokováno { -brand-short-name(case: "gen") }
-            [neuter] Blokováno { -brand-short-name(case: "gen") }
-           *[other] Blokováno aplikací { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Blokováno { -brand-short-name(case: "gen") }
+           *[no-cases] Blokováno aplikací { -brand-short-name }
         }

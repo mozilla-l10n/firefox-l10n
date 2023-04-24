@@ -62,11 +62,9 @@ neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
 neterror-dns-not-found-trr-third-party-warning = Můžete pokračovat s použitím překladače, který není zabezpečený. Třetí strany pak ale mohou zjistit, jaké webové stránky navštěvujete.
 neterror-dns-not-found-trr-only-could-not-connect =
-    { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
-        [feminine] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
-        [neuter] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
-       *[other] Aplikaci { -brand-short-name } se nepodařilo připojit k DNS překladači { $trrDomain }.
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
+       *[no-cases] Aplikaci { -brand-short-name } se nepodařilo připojit k DNS překladači { $trrDomain }.
     }
 neterror-dns-not-found-trr-only-timeout = Připojení k DNS překladači { $trrDomain } trvalo déle, než se očekávalo.
 neterror-dns-not-found-trr-offline = Nejste připojeni k internetu.
@@ -91,11 +89,9 @@ neterror-redirect-loop = Tento problém může být způsoben zakázáním nebo 
 neterror-unknown-socket-type-psm-installed = Zkontrolujte, že je ve vašem systému nainstalován Personal Security Manager.
 neterror-unknown-socket-type-server-config = Tato chyba může být také způsobena nestandardní konfigurací serveru.
 neterror-not-cached-intro =
-    { -brand-short-name.gender ->
-        [masculine] Požadovaný dokument už není dostupný v mezipaměti { -brand-short-name(case: "gen") }.
-        [feminine] Požadovaný dokument už není dostupný v mezipaměti { -brand-short-name(case: "gen") }.
-        [neuter] Požadovaný dokument už není dostupný v mezipaměti { -brand-short-name(case: "gen") }.
-       *[other] Požadovaný dokument už není dostupný v mezipaměti aplikace { -brand-short-name }.
+    { -brand-short-name.case-status ->
+        [with-cases] Požadovaný dokument už není dostupný v mezipaměti { -brand-short-name(case: "gen") }.
+       *[no-cases] Požadovaný dokument už není dostupný v mezipaměti aplikace { -brand-short-name }.
     }
 neterror-not-cached-sensitive = Z bezpečnostních důvodů { -brand-short-name } automaticky nestahuje důvěrné dokumenty.
 neterror-not-cached-try-again = Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.
@@ -153,27 +149,21 @@ neterror-inadequate-security-code = Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error =
-    { -brand-short-name.gender ->
-        [masculine] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
-        [feminine] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
-        [neuter] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
-       *[other] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
+    { -brand-short-name.case-status ->
+        [with-cases] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
+       *[no-cases] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
     }
 neterror-network-protocol-error-intro = Požadovanou stránku nelze zobrazit, protože došlo k chybě v síťovém protokolu.
 neterror-network-protocol-error-contact-website = Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.
 certerror-expired-cert-second-para =
-    { -brand-short-name.gender ->
-        [masculine] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
-        [feminine] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
-        [neuter] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
-       *[other] Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+    { -brand-short-name.case-status ->
+        [with-cases] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+       *[no-cases] Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
     }
 certerror-expired-cert-sts-second-para =
-    { -brand-short-name.gender ->
-        [masculine] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení.
-        [feminine] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení.
-        [neuter] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení.
-       *[other] Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení.
+    { -brand-short-name.case-status ->
+        [with-cases] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení.
+       *[no-cases] Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení.
     }
 certerror-what-can-you-do-about-it-title = Co s tím můžete dělat?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Příčina tohoto problému je pravděpodobně na straně serveru a vy ji bohužel nemůžete odstranit.

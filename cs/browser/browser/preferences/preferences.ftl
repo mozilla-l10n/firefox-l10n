@@ -44,21 +44,17 @@ category-experimental =
 pane-experimental-subtitle = Tady pozor!
 pane-experimental-search-results-header = Experimenty { -brand-short-name(case: "gen") }: Postupujte obezřetně!
 pane-experimental-description2 =
-    Změny v pokročilém nastavení mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Změny v pokročilém nastavení mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name(case: "gen") }.
+       *[no-cases] Změny v pokročilém nastavení mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
+    }
 pane-experimental-reset =
     .label = Obnovit výchozí nastavení
     .accesskey = O
 help-button-label =
-    { -brand-short-name.gender ->
-        [masculine] Nápověda { -brand-short-name(case: "gen") }
-        [feminine] Nápověda { -brand-short-name(case: "gen") }
-        [neuter] Nápověda { -brand-short-name(case: "gen") }
-       *[other] Nápověda
+    { -brand-short-name.case-status ->
+        [with-cases] Nápověda { -brand-short-name(case: "gen") }
+       *[no-cases] Nápověda
     }
 addons-button-label = Rozšíření a vzhledy
 focus-search =
@@ -69,32 +65,24 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart =
-    Pro povolení této funkce je potřeba { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } restartovat.
+    { -brand-short-name.case-status ->
+        [with-cases] Pro povolení této funkce je potřeba { -brand-short-name(case: "acc") } restartovat.
+       *[no-cases] Pro povolení této funkce je potřeba aplikaci { -brand-short-name } restartovat.
+    }
 feature-disable-requires-restart =
-    Pro zakázání této funkce je potřeba { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } restartovat.
+    { -brand-short-name.case-status ->
+        [with-cases] Pro zakázání této funkce je potřeba { -brand-short-name(case: "acc") } restartovat.
+       *[no-cases] Pro zakázání této funkce je potřeba aplikaci { -brand-short-name } restartovat.
+    }
 should-restart-title =
-    Restartovat { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Restartovat { -brand-short-name(case: "acc") }
+       *[no-cases] Restartovat aplikaci { -brand-short-name }
     }
 should-restart-ok =
-    Restartovat { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Restartovat { -brand-short-name(case: "acc") }
+       *[no-cases] Restartovat aplikaci { -brand-short-name }
     }
 cancel-no-restart-button = Zrušit
 restart-later = Restartovat později
@@ -135,11 +123,9 @@ extension-controlling-websites-content-blocking-all-trackers = Toto nastavení j
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config =
-    { -brand-short-name.gender ->
-        [masculine] Připojení { -brand-short-name(case: "gen") } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
-        [feminine] Připojení { -brand-short-name(case: "gen") } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
-        [neuter] Připojení { -brand-short-name(case: "gen") } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
-       *[other] Připojení aplikace { -brand-short-name } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
+    { -brand-short-name.case-status ->
+        [with-cases] Připojení { -brand-short-name(case: "gen") } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
+       *[no-cases] Připojení aplikace { -brand-short-name } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
     }
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
@@ -154,12 +140,10 @@ search-results-header = Výsledky hledání
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v nastavení nic nenašli.
 search-results-help-link =
-    Potřebujete pomoc? Navštivte <a data-l10n-name="url">Podporu { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }</a>
+    { -brand-short-name.case-status ->
+        [with-cases] Potřebujete pomoc? Navštivte <a data-l10n-name="url">Podporu { -brand-short-name(case: "gen") }</a>
+       *[no-cases] Potřebujete pomoc? Navštivte <a data-l10n-name="url">Podporu aplikace { -brand-short-name }</a>
+    }
 
 ## General Section
 
@@ -203,12 +187,10 @@ confirm-on-quit-with-key =
     .accesskey = V
 warn-on-open-many-tabs =
     .label =
-        Varovat, pokud by mohlo otevření více panelů { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "acc") }
-            [feminine] { -brand-short-name(case: "acc") }
-            [neuter] { -brand-short-name(case: "acc") }
-           *[other] aplikaci { -brand-short-name }
-        } zpomalit
+        { -brand-short-name.case-status ->
+            [with-cases] Varovat, pokud by mohlo otevření více panelů { -brand-short-name(case: "acc") } zpomalit
+           *[no-cases] Varovat, pokud by mohlo otevření více panelů aplikaci { -brand-short-name } zpomalit
+        }
     .accesskey = d
 switch-to-new-tabs =
     .label = Přepnout na nový panel otevřený z odkazu
@@ -262,11 +244,9 @@ language-and-appearance-header = Zobrazení a jazyk stránek
 preferences-web-appearance-header = Vzhled webových stránek
 preferences-web-appearance-description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
 preferences-web-appearance-choice-browser =
-    { -brand-short-name.gender ->
-        [masculine] Vzhled { -brand-short-name(case: "gen") }
-        [feminine] Vzhled { -brand-short-name(case: "gen") }
-        [neuter] Vzhled { -brand-short-name(case: "gen") }
-       *[other] Vzhled aplikace { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Vzhled { -brand-short-name(case: "gen") }
+       *[no-cases] Vzhled aplikace { -brand-short-name }
     }
 preferences-web-appearance-choice-system = Podle systému
 preferences-web-appearance-choice-auto = Automatický
@@ -274,21 +254,17 @@ preferences-web-appearance-choice-light = Světlý
 preferences-web-appearance-choice-dark = Tmavý
 preferences-web-appearance-choice-tooltip-browser =
     .title =
-        { -brand-short-name.gender ->
-            [masculine] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu { -brand-short-name(case: "gen") }.
-            [feminine] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu { -brand-short-name(case: "gen") }.
-            [neuter] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu { -brand-short-name(case: "gen") }.
-           *[other] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu aplikace { -brand-short-name }.
+        { -brand-short-name.case-status ->
+            [with-cases] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu { -brand-short-name(case: "gen") }.
+           *[no-cases] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu aplikace { -brand-short-name }.
         }
 preferences-web-appearance-choice-tooltip-system =
     .title = Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vašeho systému.
 preferences-web-appearance-choice-tooltip-auto =
     .title =
-        { -brand-short-name.gender ->
-            [masculine] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
-            [feminine] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
-            [neuter] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
-           *[other] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a aplikace { -brand-short-name }.
+        { -brand-short-name.case-status ->
+            [with-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
+           *[no-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a aplikace { -brand-short-name }.
         }
 preferences-web-appearance-choice-tooltip-light =
     .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným tématem.
@@ -310,11 +286,9 @@ preferences-web-appearance-override-warning = Vaše nastavení upravuje vzhled s
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer =
-    { -brand-short-name.gender ->
-        [masculine] Vzhled { -brand-short-name(case: "gen") } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
-        [feminine] Vzhled { -brand-short-name(case: "gen") } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
-        [neuter] Vzhled { -brand-short-name(case: "gen") } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
-       *[other] Vzhled aplikace { -brand-short-name } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
+    { -brand-short-name.case-status ->
+        [with-cases] Vzhled { -brand-short-name(case: "gen") } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
+       *[no-cases] Vzhled aplikace { -brand-short-name } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
     }
 preferences-colors-header = Barvy
 preferences-colors-description = Nastavení výchozích barev pro text, odkazy a pozadí webových stránek.
@@ -346,21 +320,17 @@ choose-button =
     .label = Vybrat jazyky…
     .accesskey = j
 choose-browser-language-description =
-    Vyberte požadovaný jazyk uživatelského rozhraní { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Vyberte požadovaný jazyk uživatelského rozhraní { -brand-short-name(case: "gen") }.
+       *[no-cases] Vyberte požadovaný jazyk uživatelského rozhraní aplikace { -brand-short-name }.
+    }
 manage-browser-languages-button =
     .label = Vybrat alternativy…
     .accesskey = l
 confirm-browser-language-change-description =
-    Aby se změny projevily, restartujte { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Aby se změny projevily, restartujte { -brand-short-name(case: "acc") }
+       *[no-cases] Aby se změny projevily, restartujte aplikaci { -brand-short-name }
     }
 confirm-browser-language-change-button = Potvrdit a restartovat
 translate-web-pages =
@@ -445,19 +415,15 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label =
-        Použít { $plugin-name } ({ -brand-short-name.gender ->
-            [masculine] ve { -brand-short-name(case: "loc") }
-            [feminine] v { -brand-short-name(case: "loc") }
-            [neuter] v { -brand-short-name(case: "loc") }
-           *[other] v aplikaci { -brand-short-name }
-        })
+        { -brand-short-name.case-status ->
+            [with-cases] Použít { $plugin-name } (ve { -brand-short-name(case: "loc") })
+           *[no-cases] Použít { $plugin-name } (v aplikaci { -brand-short-name })
+        }
 applications-open-inapp =
     .label =
-        Otevřít { -brand-short-name.gender ->
-            [masculine] ve { -brand-short-name(case: "loc") }
-            [feminine] v { -brand-short-name(case: "loc") }
-            [neuter] v { -brand-short-name(case: "loc") }
-           *[other] v aplikaci { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Otevřít ve { -brand-short-name(case: "loc") }
+           *[no-cases] Otevřít v aplikaci { -brand-short-name }
         }
 
 ## The strings in this group are used to populate
@@ -496,19 +462,15 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Zjistit více
 update-application-title =
-    Aktualizace { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Aktualizace { -brand-short-name(case: "gen") }
+       *[no-cases] Aktualizace aplikace { -brand-short-name }
     }
 update-application-description =
-    Pro nejvyšší rychlost, stabilitu a bezpečnost udržujte { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } stále aktuální.
+    { -brand-short-name.case-status ->
+        [with-cases] Pro nejvyšší rychlost, stabilitu a bezpečnost udržujte { -brand-short-name(case: "acc") } stále aktuální.
+       *[no-cases] Pro nejvyšší rychlost, stabilitu a bezpečnost udržujte aplikaci { -brand-short-name } stále aktuální.
+    }
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verze { $version } <a data-l10n-name="learn-more">Co je nového</a>
@@ -516,11 +478,9 @@ update-history =
     .label = Zobrazit historii aktualizací…
     .accesskey = h
 update-application-allow-description =
-    Povolit { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") }
-        [feminine] { -brand-short-name(case: "dat") }
-        [neuter] { -brand-short-name(case: "dat") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Povolit { -brand-short-name(case: "dat") }
+       *[no-cases] Povolit aplikaci { -brand-short-name }
     }
 update-application-auto =
     .label = Instalovat aktualizace automaticky (doporučeno)
@@ -541,12 +501,10 @@ update-application-background-enabled =
         }
     .accesskey = v
 update-application-warning-cross-user-setting =
-    Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }, pokud používají stejnou instalaci.
+    { -brand-short-name.case-status ->
+        [with-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name(case: "gen") }, pokud používají stejnou instalaci.
+       *[no-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily aplikace { -brand-short-name }, pokud používají stejnou instalaci.
+    }
 update-application-use-service =
     .label = K instalaci aktualizací použít službu na pozadí
     .accesskey = b
@@ -595,12 +553,10 @@ performance-limit-content-process-option = Omezit počet procesů pro obsah na
     .accesskey = b
 performance-limit-content-process-enabled-desc = Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale potřebují více paměti.
 performance-limit-content-process-blocked-desc =
-    Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }. <a data-l10n-name="learn-more">Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
+    { -brand-short-name.case-status ->
+        [with-cases] Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu { -brand-short-name(case: "gen") }. <a data-l10n-name="learn-more">Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
+       *[no-cases] Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu aplikace { -brand-short-name }. <a data-l10n-name="learn-more">Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
+    }
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -647,12 +603,10 @@ browsing-cfr-recommendations-learn-more = Zjistit více
 
 network-settings-title = Nastavení sítě
 network-proxy-connection-description =
-    Konfigurovat připojení { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } k internetu.
+    { -brand-short-name.case-status ->
+        [with-cases] Konfigurovat připojení { -brand-short-name(case: "gen") } k internetu.
+       *[no-cases] Konfigurovat připojení aplikace { -brand-short-name } k internetu.
+    }
 network-proxy-connection-learn-more = Zjistit více
 network-proxy-connection-settings =
     .label = Nastavení…
@@ -798,17 +752,10 @@ search-show-suggestions-private-windows =
     .label = Našeptávat dotazy pro vyhledávač také v anonymních oknech
 suggestions-addressbar-settings-generic2 = Změnit nastavení našeptávání v adresním řádku
 search-suggestions-cant-show =
-    Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } nastavili, aby si nikdy { -brand-short-name.gender ->
-        [masculine] nepamatoval
-        [feminine] nepamatovala
-        [neuter] nepamatovalo
-       *[other] nepamatovala
-    } historii.
+    { -brand-short-name.case-status ->
+        [with-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name(case: "acc") } nastavili, aby si nikdy nepamatoval historii.
+       *[no-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci { -brand-short-name } nastavili, aby si nikdy nepamatovala historii.
+    }
 search-one-click-header2 = Vyhledávače
 search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a vyhledávacího pole.
 search-choose-engine-column =
@@ -1007,6 +954,12 @@ forms-breach-alerts =
     .label = Upozorňovat na hesla uložená pro servery, kde došlo k úniku dat
     .accesskey = ú
 forms-breach-alerts-learn-more-link = Zjistit více
+relay-integration =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Povolit { -relay-brand-name(case: "acc") } ve Správci hesel ve { -brand-short-name(case: "gen") }
+           *[no-cases] Povolit { -relay-brand-name(case: "acc") } ve Správci hesel v aplikaci { -brand-short-name }
+        }
 relay-integration-learn-more-link = Zjistit více
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -1083,11 +1036,9 @@ history-remember-search-option =
     .accesskey = f
 history-clear-on-close-option =
     .label =
-        Vymazat historii při ukončení { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] aplikace { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Vymazat historii při ukončení { -brand-short-name(case: "gen") }
+           *[no-cases] Vymazat historii při ukončení aplikace { -brand-short-name }
         }
     .accesskey = r
 history-clear-on-close-settings =
@@ -1108,11 +1059,9 @@ sitedata-total-size = Velikost cookies, dat uložených stránkami a mezipaměti
 sitedata-learn-more = Zjistit více
 sitedata-delete-on-close =
     .label =
-        Vymazat cookies a data stránek při zavření { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] aplikace { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Vymazat cookies a data stránek při zavření { -brand-short-name(case: "gen") }
+           *[no-cases] Vymazat cookies a data stránek při zavření aplikace { -brand-short-name }
         }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = V trvalém režimu anonymního prohlížení { -brand-short-name } smaže cookies a data stránek vždy při svém ukončení.
@@ -1305,11 +1254,9 @@ permissions-notification-settings =
 permissions-notification-link = Zjistit více
 permissions-notification-pause =
     .label =
-        Zakázat oznámení do restartu { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] aplikace { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Zakázat oznámení do restartu { -brand-short-name(case: "gen") }
+           *[no-cases] Zakázat oznámení do restartu aplikace { -brand-short-name }
         }
     .accesskey = n
 permissions-autoplay = Automatické přehrávání
@@ -1335,19 +1282,15 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header =
-    Sběr a používání dat o { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "loc") }
-        [feminine] { -brand-short-name(case: "loc") }
-        [neuter] { -brand-short-name(case: "loc") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Sběr a používání dat o { -brand-short-name(case: "loc") }
+       *[no-cases] Sběr a používání dat o aplikaci { -brand-short-name }
     }
 collection-description =
-    S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
+    { -brand-short-name.case-status ->
+        [with-cases] S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování { -brand-short-name(case: "gen") }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
+       *[no-cases] S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování aplikace { -brand-short-name }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
+    }
 collection-privacy-notice = Zásady ochrany osobních údajů
 collection-health-report-telemetry-disabled =
     { -vendor-short-name.case-status ->
@@ -1365,38 +1308,30 @@ collection-health-report =
 collection-health-report-link = Zjistit více
 collection-studies =
     .label =
-        Povolit { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "dat") } instalovat studie
-            [feminine] { -brand-short-name(case: "dat") } instalovat studie
-            [neuter] { -brand-short-name(case: "dat") } instalovat studie
-           *[other] instalaci studií
+        { -brand-short-name.case-status ->
+            [with-cases] Povolit { -brand-short-name(case: "dat") } instalovat studie
+           *[no-cases] Povolit instalaci studií
         }
 collection-studies-link =
-    Zobrazit studie { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Zobrazit studie { -brand-short-name(case: "gen") }
+       *[no-cases] Zobrazit studie aplikace { -brand-short-name }
     }
 addon-recommendations =
     .label =
-        Povolit { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "dat") }
-            [feminine] { -brand-short-name(case: "dat") }
-            [neuter] { -brand-short-name(case: "dat") }
-           *[other] aplikaci { -brand-short-name }
-        } doporučovat rozšíření vybraná přímo pro mě
+        { -brand-short-name.case-status ->
+            [with-cases] Povolit { -brand-short-name(case: "dat") } doporučovat rozšíření vybraná přímo pro mě
+           *[no-cases] Povolit aplikaci { -brand-short-name } doporučovat rozšíření vybraná přímo pro mě
+        }
 addon-recommendations-link = Zjistit více
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
 collection-backlogged-crash-reports-with-link =
-    Odesílat nevyřízená hlášení o pádech { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace
-    } za vás <a data-l10n-name="crash-reports-link">Zjistit více</a>
+    { -brand-short-name.case-status ->
+        [with-cases] Odesílat nevyřízená hlášení o pádech { -brand-short-name(case: "gen") } za vás <a data-l10n-name="crash-reports-link">Zjistit více</a>
+       *[no-cases] Odesílat nevyřízená hlášení o pádech aplikace za vás <a data-l10n-name="crash-reports-link">Zjistit více</a>
+    }
     .accesskey = c
 privacy-segmentation-section-header = Nové funkce, které zlepšují vaše prohlížení
 privacy-segmentation-section-description = Když nabízíme funkce, které využívají vaše data, abychom vám poskytli osobnější prožitek:
@@ -1437,30 +1372,24 @@ space-alert-over-5gb-settings-button =
     .label = Otevřít nastavení
     .accesskey = O
 space-alert-over-5gb-message2 =
-    <strong>{ -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") }
-        [feminine] { -brand-short-name(case: "dat") }
-        [neuter] { -brand-short-name(case: "dat") }
-       *[other] Aplikaci { -brand-short-name }
-    } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Uložená data stránky můžete vymazat v Nastavení  > Soukromí a zabezpečení > Cookies a data stránek.
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>{ -brand-short-name(case: "dat") } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Uložená data stránky můžete vymazat v Nastavení  > Soukromí a zabezpečení > Cookies a data stránek.
+       *[no-cases] <strong>Aplikaci { -brand-short-name } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Uložená data stránky můžete vymazat v Nastavení  > Soukromí a zabezpečení > Cookies a data stránek.
+    }
 space-alert-under-5gb-message2 =
-    <strong>{ -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") }
-        [feminine] { -brand-short-name(case: "dat") }
-        [neuter] { -brand-short-name(case: "dat") }
-       *[other] Aplikaci { -brand-short-name }
-    } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>{ -brand-short-name(case: "dat") } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
+       *[no-cases] <strong>Aplikaci { -brand-short-name } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
+    }
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Režim „pouze HTTPS“
 httpsonly-description =
-    Protokol HTTPS poskytuje zabezpečené, šifrované spojení mezi { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "ins") }
-        [feminine] { -brand-short-name(case: "ins") }
-        [neuter] { -brand-short-name(case: "ins") }
-       *[other] aplikací { -brand-short-name }
-    } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení jen skrze protokol HTTPS.
+    { -brand-short-name.case-status ->
+        [with-cases] Protokol HTTPS poskytuje zabezpečené, šifrované spojení mezi { -brand-short-name(case: "ins") } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení jen skrze protokol HTTPS.
+       *[no-cases] Protokol HTTPS poskytuje zabezpečené, šifrované spojení mezi aplikací { -brand-short-name } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení jen skrze protokol HTTPS.
+    }
 httpsonly-learn-more = Zjistit více
 httpsonly-radio-enabled =
     .label = Zapnout režim „pouze HTTPS“ ve všech oknech

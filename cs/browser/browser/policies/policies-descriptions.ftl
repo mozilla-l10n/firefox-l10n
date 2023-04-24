@@ -14,11 +14,9 @@ policy-3rdparty = Nastavení pravidel, ke kterým mají přístup rozšíření 
 policy-AllowedDomainsForApps = Nastavení domén, které mají povolený přístup ke Google Workspace.
 policy-AppAutoUpdate = Vypnutí nebo zapnutí automatických aktualizací aplikace.
 policy-AppUpdatePin =
-    { -brand-short-name.gender ->
-        [masculine] Zabrání aktualizaci { -brand-short-name(case: "gen") } nad uvedenou verzi.
-        [feminine] Zabrání aktualizaci { -brand-short-name(case: "gen") } nad uvedenou verzi.
-        [neuter] Zabrání aktualizaci { -brand-short-name(case: "gen") } nad uvedenou verzi.
-       *[other] Zabrání aktualizaci aplikace { -brand-short-name } nad uvedenou verzi.
+    { -brand-short-name.case-status ->
+        [with-cases] Zabrání aktualizaci { -brand-short-name(case: "gen") } nad uvedenou verzi.
+       *[no-cases] Zabrání aktualizaci aplikace { -brand-short-name } nad uvedenou verzi.
     }
 policy-AppUpdateURL = Nastavení vlastní URL pro aktualizace aplikace.
 policy-Authentication = Konfigurace integrované autentizace webových stránek, které ji podporují.
@@ -36,12 +34,10 @@ policy-DisabledCiphers = Zakázané metody šifrování.
 policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
 policy-DisableBuiltinPDFViewer =
-    Zablokování PDF prohlížeče PDF.js vestavěného { -brand-short-name.gender ->
-        [masculine] ve { -brand-short-name(case: "loc") }
-        [feminine] v { -brand-short-name(case: "loc") }
-        [neuter] v { -brand-short-name(case: "loc") }
-       *[other] v aplikaci { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Zablokování PDF prohlížeče PDF.js vestavěného ve { -brand-short-name(case: "loc") }.
+       *[no-cases] Zablokování PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
+    }
 policy-DisableDefaultBrowserAgent = Zabraňuje „výchozímu agentovi prohlížeče“ provádět jakékoliv akce. Dostupné pouze pro Windows, ostatní platformy agenty nemají.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
@@ -49,12 +45,10 @@ policy-DisableFirefoxAccounts = Vypnutí služeb používajících { -fxaccount-
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vypnutí funkce Firefox Screenshots.
 policy-DisableFirefoxStudies =
-    Zablokování spouštění studií { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Zablokování spouštění studií { -brand-short-name(case: "gen") }.
+       *[no-cases] Zablokování spouštění studií aplikace { -brand-short-name }.
+    }
 policy-DisableForgetButton = Zablokování tlačítka Zapomenout.
 policy-DisableFormHistory = Vypnutí ukládání historie vyhledávání a formulářů.
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
@@ -64,23 +58,19 @@ policy-DisablePocket2 = Vypnutí funkce pro ukládání stránek do služby { -p
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
 policy-DisableProfileImport = Blokování importu dat z jiných prohlížečů.
 policy-DisableProfileRefresh =
-    Blokování tlačítka pro obnovu { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } na stránce about:support.
+    { -brand-short-name.case-status ->
+        [with-cases] Blokování tlačítka pro obnovu { -brand-short-name(case: "gen") } na stránce about:support.
+       *[no-cases] Blokování tlačítka pro obnovu aplikace { -brand-short-name } na stránce about:support.
+    }
 policy-DisableSafeMode = Zablokování možnosti restartovat se zakázanými doplňky. Poznámka: přechod do nouzového režimu podržením klávesy Shift lze zablokovat jen na systému Windows pomocí zásad skupin.
 policy-DisableSecurityBypass = Zabránit uživateli obcházení některých bezpečnostních varování.
 policy-DisableSetAsDesktopBackground = Zablokování kontextové nabídky obrázků pro jejich nastavení jako pozadí plochy.
 policy-DisableSystemAddonUpdate = Zablokování instalace a aktualizací systémových doplňků prohlížeče.
 policy-DisableTelemetry = Vypnutí telemetrie.
 policy-DisableThirdPartyModuleBlocking =
-    { -brand-short-name.gender ->
-        [masculine] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu { -brand-short-name(case: "gen") }.
-        [feminine] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu { -brand-short-name(case: "gen") }.
-        [neuter] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu { -brand-short-name(case: "gen") }.
-       *[other] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu aplikace { -brand-short-name }.
+    { -brand-short-name.case-status ->
+        [with-cases] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu { -brand-short-name(case: "gen") }.
+       *[no-cases] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu aplikace { -brand-short-name }.
     }
 policy-DisplayBookmarksToolbar = Zobrazení lišty záložek ve výchozím nastavení.
 policy-DisplayMenuBar = Zobrazení hlavní nabídky ve výchozím nastavení.
@@ -123,19 +113,15 @@ policy-PrimaryPassword = Vyžadovat nebo zabránit používání hlavního hesla
 policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.
 policy-NewTabPage = Povolení nebo zákaz stránky nového panelu.
 policy-NoDefaultBookmarks =
-    Vypnutí vytváření výchozích záložek a chytrých záložek { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } (Nejnavštěvovanější, Poslední štítky). Poznámka: toto pravidlo se uplatní jen pokud bude nastaveno před prvním spuštěním.
+    { -brand-short-name.case-status ->
+        [with-cases] Vypnutí vytváření výchozích záložek a chytrých záložek { -brand-short-name(case: "gen") } (Nejnavštěvovanější, Poslední štítky). Poznámka: toto pravidlo se uplatní jen pokud bude nastaveno před prvním spuštěním.
+       *[no-cases] Vypnutí vytváření výchozích záložek a chytrých záložek aplikace { -brand-short-name } (Nejnavštěvovanější, Poslední štítky). Poznámka: toto pravidlo se uplatní jen pokud bude nastaveno před prvním spuštěním.
+    }
 policy-OfferToSaveLogins =
-    Nastavení dotazu na uložení přihlašovacích údajů { -brand-short-name.gender ->
-        [masculine] ve { -brand-short-name(case: "loc") }
-        [feminine] v { -brand-short-name(case: "loc") }
-        [neuter] v { -brand-short-name(case: "loc") }
-       *[other] v aplikaci { -brand-short-name }
-    }. Lze použít hodnoty true i false.
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavení dotazu na uložení přihlašovacích údajů ve { -brand-short-name(case: "loc") }. Lze použít hodnoty true i false.
+       *[no-cases] Nastavení dotazu na uložení přihlašovacích údajů v aplikaci { -brand-short-name }. Lze použít hodnoty true i false.
+    }
 policy-OfferToSaveLoginsDefault = Nastavení výchozí hodnoty pro to, zda má { -brand-short-name } nabízet ukládání přihlašovacích údajů. Platné hodnoty jsou true a false.
 policy-OverrideFirstRunPage = Nastavení vlastní stránky při prvním spuštění. Pokud nechcete při prvním spuštění zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pokud nechcete po aktualizaci zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
@@ -143,12 +129,10 @@ policy-PasswordManagerEnabled = Povolení ukládat přihlašovací údaje do spr
 policy-PasswordManagerExceptions = Zabrání { -brand-short-name(case: "dat") } ukládat heslo pro vybrané servery.
 # PDF.js and PDF should not be translated
 policy-PDFjs =
-    Zablokování nebo nastavení PDF prohlížeče PDF.js vestavěného { -brand-short-name.gender ->
-        [masculine] ve { -brand-short-name(case: "loc") }
-        [feminine] v { -brand-short-name(case: "loc") }
-        [neuter] v { -brand-short-name(case: "loc") }
-       *[other] v aplikaci { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Zablokování nebo nastavení PDF prohlížeče PDF.js vestavěného ve { -brand-short-name(case: "loc") }.
+       *[no-cases] Zablokování nebo nastavení PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
+    }
 policy-Permissions2 = Nastavení oprávnění pro kameru, mikrofon, zjišťování polohy, oznámení a automatické přehrávání.
 policy-PictureInPicture = Povolení nebo zakázání režimu obraz v obraze.
 policy-PopupBlocking = Povolení zobrazování vyskakovacích oken ve výchozím stavu.

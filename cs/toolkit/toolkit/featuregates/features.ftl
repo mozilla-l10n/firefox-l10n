@@ -17,12 +17,10 @@ experimental-features-web-gpu-description2 = Toto nové API poskytuje nízkoúro
 experimental-features-media-jxl =
     .label = Média: JPEG XL
 experimental-features-media-jxl-description =
-    Zapne { -brand-short-name.gender ->
-        [masculine] ve { -brand-short-name(case: "loc") }
-        [feminine] v { -brand-short-name(case: "loc") }
-        [neuter] v { -brand-short-name(case: "loc") }
-       *[other] v aplikaci { -brand-short-name }
-    } podporu pro formát JPEG XL (JXL). Toto je vylepšený formát obrazového souboru, který podporuje bezztrátový přechod z tradičních JPEG souborů. Podrobnosti najdete v <a data-l10n-name="bugzilla">bugu 1539075</a>.
+    { -brand-short-name.case-status ->
+        [with-cases] Zapne ve { -brand-short-name(case: "loc") } podporu pro formát JPEG XL (JXL). Toto je vylepšený formát obrazového souboru, který podporuje bezztrátový přechod z tradičních JPEG souborů. Podrobnosti najdete v <a data-l10n-name="bugzilla">bugu 1539075</a>.
+       *[no-cases] Zapne v aplikaci { -brand-short-name } podporu pro formát JPEG XL (JXL). Toto je vylepšený formát obrazového souboru, který podporuje bezztrátový přechod z tradičních JPEG souborů. Podrobnosti najdete v <a data-l10n-name="bugzilla">bugu 1539075</a>.
+    }
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =

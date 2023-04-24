@@ -11,29 +11,23 @@ profiles-restart-normal = Restartovat obvyklým způsobem…
 profiles-conflict =
     { -brand-product-name.case-status ->
         [with-cases]
-            { -brand-short-name.gender ->
-                [masculine] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-                [feminine] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-                [neuter] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-               *[other] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+            { -brand-short-name.case-status ->
+                [with-cases] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
+               *[no-cases] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
             }
        *[no-cases]
-            { -brand-short-name.gender ->
-                [masculine] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-                [feminine] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-                [neuter] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-               *[other] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+            { -brand-short-name.case-status ->
+                [with-cases] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
+               *[no-cases] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
             }
     }
 profiles-flush-fail-title = Změny nebyly uloženy
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Kvůli neočekávané chybě se nepodařilo vaše změny uložit.
 profiles-flush-restart-button =
-    Restartovat { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Restartovat { -brand-short-name(case: "acc") }
+       *[no-cases] Restartovat aplikaci { -brand-short-name }
     }
 # Variables:
 #   $name (String) - Name of the profile
@@ -55,12 +49,10 @@ profiles-set-as-default = Nastavit jako výchozí profil
 profiles-launch-profile = Spustit profil v novém okně prohlížeče
 profiles-cannot-set-as-default-title = Výchozí profil nelze změnit
 profiles-cannot-set-as-default-message =
-    Výchozí profil { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] pro aplikaci { -brand-short-name }
-    } nelze změnit.
+    { -brand-short-name.case-status ->
+        [with-cases] Výchozí profil { -brand-short-name(case: "gen") } nelze změnit.
+       *[no-cases] Výchozí profil pro aplikaci { -brand-short-name } nelze změnit.
+    }
 profiles-yes = ano
 profiles-no = ne
 profiles-rename-profile-title = Přejmenování profilu

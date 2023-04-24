@@ -11,9 +11,7 @@ restart-required-heading =
 restart-required-intro = { -brand-short-name } právě na pozadí instaluje aktualizace. Pro dokončení bude potřeba aplikaci restartovat.
 window-restoration-info = Vaše okna a panely budou rychle obnoveny, kromě těch anonymních.
 restart-button-label =
-    Restartovat { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Restartovat { -brand-short-name(case: "acc") }
+       *[no-cases] Restartovat aplikaci { -brand-short-name }
     }

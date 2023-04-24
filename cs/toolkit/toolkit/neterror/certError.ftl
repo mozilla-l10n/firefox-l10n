@@ -7,12 +7,10 @@
 cert-error-intro = { $hostname } používá neplatný bezpečnostní certifikát.
 cert-error-mitm-intro = Webové stránky prokazují svou totožnost prostřednictvím certifikátů, které vydávají certifikační autority.
 cert-error-mitm-mozilla =
-    Za { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "ins") }
-        [feminine] { -brand-short-name(case: "ins") }
-        [neuter] { -brand-short-name(case: "ins") }
-       *[other] aplikací { -brand-short-name }
-    } stojí nezisková organizace Mozilla, která spravuje otevřené úložiště certifikačních autorit (CA). Toto úložiště zajišťuje, aby certifikační autority dodržovaly osvědčené bezpečnostní postupy.
+    { -brand-short-name.case-status ->
+        [with-cases] Za { -brand-short-name(case: "ins") } stojí nezisková organizace Mozilla, která spravuje otevřené úložiště certifikačních autorit (CA). Toto úložiště zajišťuje, aby certifikační autority dodržovaly osvědčené bezpečnostní postupy.
+       *[no-cases] Za aplikací { -brand-short-name } stojí nezisková organizace Mozilla, která spravuje otevřené úložiště certifikačních autorit (CA). Toto úložiště zajišťuje, aby certifikační autority dodržovaly osvědčené bezpečnostní postupy.
+    }
 cert-error-mitm-connection = { -brand-short-name } používá úložiště certifikačních autorit od Mozilly, nikoliv úložiště z operačního systému. Pokud antivirový program nebo někdo na síti zachytává spojení s použitím certifikátu od autority, která v úložišti Mozilly není, je toto spojení považováno ze nezabezpečené.
 cert-error-trust-unknown-issuer-intro = Někdo se může snažit vydávat za zmiňovaný server a proto byste neměli v připojení pokračovat.
 # Variables:
@@ -74,12 +72,10 @@ open-in-new-window-for-csp-or-xfo-error = Otevřít stránku v novém okně
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc =
-    Pro vaši ochranu web { $hostname } nepovolí { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") }
-        [feminine] { -brand-short-name(case: "dat") }
-        [neuter] { -brand-short-name(case: "dat") }
-       *[other] aplikaci { -brand-short-name }
-    } stránku zobrazit jako vloženou součást jiné stránky. Chcete-li ji zobrazit, otevřete ji v novém okně.
+    { -brand-short-name.case-status ->
+        [with-cases] Pro vaši ochranu web { $hostname } nepovolí { -brand-short-name(case: "dat") } stránku zobrazit jako vloženou součást jiné stránky. Chcete-li ji zobrazit, otevřete ji v novém okně.
+       *[no-cases] Pro vaši ochranu web { $hostname } nepovolí aplikaci { -brand-short-name } stránku zobrazit jako vloženou součást jiné stránky. Chcete-li ji zobrazit, otevřete ji v novém okně.
+    }
 
 ## Messages used for certificate error titles
 
@@ -88,14 +84,7 @@ deniedPortAccess-title = Omezení přístupu k adrese
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm, tuto stránku se nám nedaří najít.
-# Variables:
-#   $hostname (string) - Hostname of the website to which the user was trying to connect.
-dns-not-found-trr-only-title = Možné bezpečnostní riziko pro { $hostname }.
-# Variables:
 dns-not-found-trr-only-title2 = Vyhledání této domény je možné bezpečnostní riziko
-# Variables:
-#   $hostname (string) - Hostname of the website to which the user was trying to connect.
-dns-not-found-native-fallback-title = Možné bezpečnostní riziko pro { $hostname }.
 fileNotFound-title = Soubor nenalezen
 fileAccessDenied-title = Přístup k souboru byl odepřen
 generic-title = Nepodařilo se dokončit požadavek
@@ -126,9 +115,7 @@ networkProtocolError-title = Chyba síťového protokolu
 nssBadCert-title = Varování: možné bezpečnostní riziko
 nssBadCert-sts-title = Nepřipojeno: Možný bezpečnostní problém
 certerror-mitm-title =
-    Software brání { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") }
-        [feminine] { -brand-short-name(case: "dat") }
-        [neuter] { -brand-short-name(case: "dat") }
-       *[other] aplikaci { -brand-short-name }
-    } v navázání zabezpečeného spojení s tímto webem
+    { -brand-short-name.case-status ->
+        [with-cases] Software brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení s tímto webem
+       *[no-cases] Software brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení s tímto webem
+    }
