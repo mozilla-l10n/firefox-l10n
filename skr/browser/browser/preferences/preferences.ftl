@@ -1258,6 +1258,7 @@ preferences-doh-setting-strict =
     .label = ودھ کنوں ودھ حفاظت
     .accesskey = M
 preferences-doh-strict-detailed-desc-1 = جہڑا مہیاکار تساں چُݨیا ہے  صرف اُوہو ورتو
+preferences-doh-strict-detailed-desc-2 = جے محفوظ DNS دستیاب کائنی تاں ہمیشاں خبردار کرو
 preferences-doh-setting-off =
     .label = بند
     .accesskey = O
