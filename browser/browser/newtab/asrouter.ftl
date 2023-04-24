@@ -239,6 +239,9 @@ july-jam-headline = Sizi koruyoruz
 july-jam-body = { -brand-short-name }, her ay kullanıcı başına ortalama 3.000 takip kodunu engelleyerek internete güvenli ve hızlı erişim sağlıyor.
 july-jam-set-default-primary = Bağlantılarımı { -brand-short-name } ile aç
 fox-doodle-pin-headline = Yeniden hoş geldiniz
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Küçük bir hatırlatma: Bağımsız tarayıcınızı bir tık kadar yakınınızda tutabilirsiniz.
 fox-doodle-pin-primary = Bağlantılarımı { -brand-short-name } ile aç
 fox-doodle-pin-secondary = Şimdi değil
 
