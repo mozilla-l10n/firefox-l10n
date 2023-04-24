@@ -68,6 +68,8 @@ about-glean-manual-testing =
     али укратко, да ручно проверите да ли ваш комплет алата ради:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (немој слати пинг)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Уверите се да је у претходном пољу лако памтљива ознака за отклањање грешака како би касније могли да препознате ваше пингове.
 controls-button-label-verbose = Примени подешавања и пошаљи пинг
 about-glean-about-data-header = О подацима
 about-glean-about-data-explanation =
