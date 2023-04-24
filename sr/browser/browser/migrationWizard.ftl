@@ -70,6 +70,28 @@ migration-passwords-from-file-csv-filter-title = CSV датотека
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 migration-passwords-from-file-tsv-filter-title = TSV датотека
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] Додано је { $newEntries }
+        [few] Додана су { $newEntries }
+       *[other] Додано је { $newEntries }
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] Ажурирано је { $updatedEntries }
+        [few] Ажурирана су { $updatedEntries }
+       *[other] Ажурирано је { $updatedEntries }
+    }
 migration-import-button-label = Увези
 migration-choose-to-import-from-file-button-label = Увези из датотеке
 migration-import-from-file-button-label = Изабери датотеку
@@ -142,6 +164,17 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } лозинка
         [few] { $quantity } лозинке
        *[other] { $quantity } лозинки
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Од задњег { $maxAgeInDays } дана
+        [few] Од задња { $maxAgeInDays } дана
+       *[other] Од задњих { $maxAgeInDays } дана
     }
 migration-wizard-progress-success-formdata = Историја образаца
 migration-wizard-safari-permissions-sub-header = Да увезете Safari обележиваче и историју прегледања:
