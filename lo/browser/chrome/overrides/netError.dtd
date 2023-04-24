@@ -142,6 +142,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "ບັອກຫນ້າແລ້ວ">
 
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "ຖ້າທ່ານຢູ່ໃນເຄືອຂ່າຍຂອງບໍລິສັດ, ທ່ານສາມາດຕິດຕໍ່ຫາພະແນກໄອທີຂອງທ່ານ.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "ຖ້າທ່ານບໍ່ຄຸ້ນເຄີຍກັບ <span class='mitm-name'/>, ນີ້ອາດຈະເປັນການໂຈມຕີ ແລະ ທ່ານບໍ່ຄວນສືບຕໍ່ໄປຫາເວັບໄຊທ໌.">
 
 
 <!ENTITY prefReset.longDesc "ເບິ່ງຄືວ່າການຕັ້ງຄ່າຄວາມປອດໄພເຄືອຂ່າຍຂອງທ່ານອາດຈະເຮັດໃຫ້ເກີດນີ້. ທ່ານຕ້ອງການໃຫ້ການຕັ້ງຄ່າເລີ່ມຕົ້ນຄືນມາບໍ?">
