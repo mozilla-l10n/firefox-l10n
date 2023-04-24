@@ -61,6 +61,7 @@ neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
 neterror-dns-not-found-trr-third-party-warning = Můžete pokračovat s použitím překladače, který není zabezpečený. Třetí strany pak ale mohou zjistit, jaké webové stránky navštěvujete.
+neterror-dns-not-found-trr-third-party-warning2 = Můžete pokračovat s použitím svého výchozího překladače. Třetí strany pak ale mohou zjistit, jaké webové stránky navštěvujete.
 neterror-dns-not-found-trr-only-could-not-connect =
     { -brand-short-name.case-status ->
         [with-cases] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
@@ -69,6 +70,7 @@ neterror-dns-not-found-trr-only-could-not-connect =
 neterror-dns-not-found-trr-only-timeout = Připojení k DNS překladači { $trrDomain } trvalo déle, než se očekávalo.
 neterror-dns-not-found-trr-offline = Nejste připojeni k internetu.
 neterror-dns-not-found-trr-unknown-host = DNS překladač { $trrDomain } nenalezl adresu pro tento server.
+neterror-dns-not-found-trr-unknown-host2 = Tento server nebyl překladačem { $trrDomain } nalezen.
 neterror-dns-not-found-trr-server-problem = Vyskytl se problém s DNS překladačem { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Neočekávaný problém.
 
@@ -78,6 +80,11 @@ neterror-dns-not-found-trr-unknown-problem = Neočekávaný problém.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
 neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS je ve vaší síti zakázáno.
+neterror-dns-not-found-native-fallback-not-confirmed2 =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
+       *[no-cases] Aplikaci { -brand-short-name } se nepodařilo připojit k DNS překladači { $trrDomain }.
+    }
 
 ##
 

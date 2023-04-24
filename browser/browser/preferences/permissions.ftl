@@ -218,3 +218,6 @@ permissions-site-speaker-window =
     .title = Oprávnění přístupu k reproduktoru
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Následující servery požádaly o výběr výstupního zvukového zařízení. Zde můžete určit, které servery mají povoleno vybrat výstupní zvukové zařízení.
+permissions-exceptions-doh-window =
+    .title = Výjimky pro DNS over HTTPS
+    .style = { permissions-window2.style }
