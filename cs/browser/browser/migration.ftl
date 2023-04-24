@@ -66,20 +66,16 @@ import-source-page-title = Import nastavení a údajů
 import-items-page-title = Importované položky
 import-items-description = Zvolte položky, které chcete importovat:
 import-permissions-page-title =
-    Udělte prosím { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") }
-        [feminine] { -brand-short-name(case: "dat") }
-        [neuter] { -brand-short-name(case: "dat") }
-       *[other] aplikaci { -brand-short-name }
-    } oprávnění
+    { -brand-short-name.case-status ->
+        [with-cases] Udělte prosím { -brand-short-name(case: "dat") } oprávnění
+       *[no-cases] Udělte prosím aplikaci { -brand-short-name } oprávnění
+    }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description =
-    macOS vyžaduje, abyste { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") }
-        [feminine] { -brand-short-name(case: "dat") }
-        [neuter] { -brand-short-name(case: "dat") }
-       *[other] aplikaci { -brand-short-name }
-    } výslovně povolili přístup k záložkám ze Safari. Klikněte na „Pokračovat“ a v zobrazeném panelu Otevřít soubor vyberte soubor „Bookmarks.plist“.
+    { -brand-short-name.case-status ->
+        [with-cases] macOS vyžaduje, abyste { -brand-short-name(case: "dat") } výslovně povolili přístup k záložkám ze Safari. Klikněte na „Pokračovat“ a v zobrazeném panelu Otevřít soubor vyberte soubor „Bookmarks.plist“.
+       *[no-cases] macOS vyžaduje, abyste aplikaci { -brand-short-name } výslovně povolili přístup k záložkám ze Safari. Klikněte na „Pokračovat“ a v zobrazeném panelu Otevřít soubor vyberte soubor „Bookmarks.plist“.
+    }
 import-migrating-page-title = Probíhá import…
 import-migrating-description = Teď jsou importovány následující položky…
 import-select-profile-page-title = Volba profilu
