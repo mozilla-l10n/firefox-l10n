@@ -26,6 +26,8 @@ policy-Bookmarks = Направи забелешку у траци са забе
 policy-CaptivePortal = Омогући или онемогући подршку за каптивне портале.
 policy-CertificatesDescription = Додај сертификате или користи уграђене сертификате.
 policy-Cookies = Дозволи или забрани сајтовима да остављају колачиће.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Подесите правила у вези са контејнерима.
 policy-DisabledCiphers = Онемогућите алгоритам шифровања.
 policy-DefaultDownloadDirectory = Поставите подразумевану фасциклу за преузимања.
 policy-DisableAppUpdate = Спречи ажурирање прегледача.
