@@ -1233,6 +1233,26 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS sobre HTTPS
+preferences-doh-description = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, criando um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Fornecedor: { $name }
+preferences-doh-group-message = Ative o DNS seguro usando:
+preferences-doh-default-desc = O { -brand-short-name } decide quando usar DNS seguro para proteger a sua privacidade.
+preferences-doh-default-detailed-desc-1 = Use DNS seguro em regiões onde está disponível
+preferences-doh-default-detailed-desc-2 = Use o seu resolvedor de DNS padrão se houver um problema com o fornecedor de DNS seguro
+preferences-doh-default-detailed-desc-5 = Desativar quando uma rede informar que o { -brand-short-name } não deve usar DNS seguro
+preferences-doh-enabled-desc = Você controla quando deve utilizar DNS seguro e escolhe o seu fornecedor.
+preferences-doh-enabled-detailed-desc-2 = Utilize o seu resolvedor de DNS padrão apenas se houver um problema com o DNS seguro
+preferences-doh-strict-desc = O { -brand-short-name } utilizará sempre DNS seguro. Irá ver um aviso de risco de segurança antes de utilizarmos o DNS do seu sistema.
+preferences-doh-strict-detailed-desc-2 = Avisar sempre que o DNS seguro não estiver disponível
+preferences-doh-strict-detailed-desc-3 = Se o DNS seguro não estiver disponível, os sites não serão carregados ou não funcionarão corretamente
+preferences-doh-off-desc = Use o seu resolvedor de DNS padrão
+preferences-doh-checkbox-warn =
+    .label = Avisar se um terceiro impede ativamente a segurança do DNS
+    .accesskey = A
+preferences-doh-exceptions-description = O { -brand-short-name } não utilizará DNS seguro nestes sites
 
 ## The following strings are used in the Download section of settings
 
