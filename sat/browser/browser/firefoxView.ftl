@@ -32,7 +32,9 @@ firefoxview-tabpickup-synctabs-description = ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱤ�
 firefoxview-tabpickup-synctabs-learn-how = ᱪᱮᱫᱢᱮ
 firefoxview-tabpickup-synctabs-primarybutton = ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
 firefoxview-tabpickup-fxa-admin-disabled-header = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱱᱫ ᱠᱟᱫᱟᱭ
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱝ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢᱤᱡ ᱮᱰᱢᱤᱱ ᱫᱚ ᱥᱤᱝᱠ ᱵᱚᱸᱫ ᱠᱟᱫᱟᱭ ᱾
 firefoxview-tabpickup-network-offline-header = ᱟᱢᱟᱜ ᱤᱱᱴᱟᱹᱨᱱᱮᱴ ᱡᱚᱱᱚᱲᱟᱣ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱢᱮ
+firefoxview-tabpickup-network-offline-description = ᱡᱩᱫᱤ ᱟᱢ ᱯᱷᱟᱭᱟᱨᱣᱞ ᱟᱨ ᱯᱨᱚᱠᱥᱤ ᱵᱮᱵᱷᱟᱨᱮᱫ ᱠᱷᱟᱱ, ᱧᱮᱞ ᱢᱮ ᱡᱮ { -brand-short-name } ᱴᱷᱮᱱ ᱣᱮᱵᱽ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱦᱢᱚᱛ ᱫᱟᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱾
 firefoxview-tabpickup-network-offline-primarybutton = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
 firefoxview-tabpickup-sync-error-header = ᱟᱹᱭᱩᱨᱢᱤᱫ ᱡᱷᱚᱜ ᱟᱞᱮ ᱢᱩᱥᱠᱤᱞᱚᱜ ᱠᱟᱱᱟ ᱞᱮ
 firefoxview-tabpickup-sync-error-primarybutton = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
@@ -49,6 +51,10 @@ firefoxview-mobile-confirmation-header = 🎉 ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ
 firefoxview-closed-tabs-title = ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ
 firefoxview-closed-tabs-placeholder-header = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
 firefoxview-closed-tabs-placeholder-body = ᱛᱤᱧ ᱡᱷᱚᱜ ᱟᱢ ᱱᱚᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱴᱮᱵᱽ ᱮᱢ ᱵᱚᱱᱫ ᱮᱫᱟ, ᱟᱢ ᱫᱚ ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = { $tabTitle } ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ᱢᱟᱲᱟᱝ ᱪᱚᱴᱠᱟᱨᱟᱜ
 # Variables:
