@@ -164,6 +164,11 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Zakázat rozšíření
 preferences-data-migration-header = Import dat z prohlížeče
+preferences-data-migration-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Import záložek, hesel, historie a dat automatického vyplňování do { -brand-short-name(case: "gen") }.
+       *[no-cases] Import záložek, hesel, historie a dat automatického vyplňování do aplikace { -brand-short-name }.
+    }
 preferences-data-migration-button =
     .label = Import dat
     .accesskey = m
@@ -1335,6 +1340,12 @@ collection-backlogged-crash-reports-with-link =
     .accesskey = c
 privacy-segmentation-section-header = Nové funkce, které zlepšují vaše prohlížení
 privacy-segmentation-section-description = Když nabízíme funkce, které využívají vaše data, abychom vám poskytli osobnější prožitek:
+privacy-segmentation-radio-off =
+    .label =
+        { -brand-product-name.case-status ->
+            [with-cases] Použít doporučení { -brand-product-name(case: "gen") }
+           *[no-cases] Použít doporučení aplikace { -brand-product-name }
+        }
 privacy-segmentation-radio-on =
     .label = Zobrazit podrobnosti
 
