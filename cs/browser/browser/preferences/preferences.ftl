@@ -1400,6 +1400,11 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS over HTTPS
+preferences-doh-description = Systém doménových jmen (DNS) přes HTTPS odešle váš požadavek na doménu skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním, aby viděli, které servery navštěvujete.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Poskytovatel: { $name }
 
 ## The following strings are used in the Download section of settings
 

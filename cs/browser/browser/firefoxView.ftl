@@ -85,6 +85,11 @@ firefoxview-mobile-promo-primarybutton =
        *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
     }
 firefoxview-mobile-confirmation-header = 🎉 Jdeme na to!
+firefoxview-mobile-confirmation-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Nyní si můžete vzít panely z { -brand-product-name(case: "gen") } na svém tabletu nebo telefonu.
+       *[no-cases] Nyní si můžete vzít panely z aplikace { -brand-product-name } na svém tabletu nebo telefonu.
+    }
 firefoxview-closed-tabs-title = Nedávno zavřené
 firefoxview-closed-tabs-description2 = Znovu otevřete stránky, které jste v tomto okně zavřeli.
 firefoxview-closed-tabs-placeholder-header = Žádné nedávno zavřené panely
@@ -106,6 +111,11 @@ firefoxview-change-colorway-button = Změnit paletu barev
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Zatím tu nic není
+firefoxview-synced-tabs-placeholder-body =
+    { -brand-product-name.case-status ->
+        [with-cases] Až příště otevřete stránku ve { -brand-product-name(case: "loc") } na jiném zařízení, jako zázrakem ji najdete i tady.
+       *[no-cases] Až příště otevřete stránku v aplikaci { -brand-product-name } na jiném zařízení, jako zázrakem ji najdete i tady.
+    }
 firefoxview-collapse-button-show =
     .title = Zobrazit seznam
 firefoxview-collapse-button-hide =
