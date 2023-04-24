@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Palavras-passe do ficheiro CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Credenciais e palavras-passe guardadas
 migration-history-option-label = Histórico de navegação
 migration-form-autofill-option-label = Dados de preenchimento automático de formulários
+migration-passwords-from-file-progress-header = Importar ficheiro de Palavras-passe
+migration-passwords-from-file-success-header = Palavras-passe importadas com sucesso
+migration-passwords-from-file = A verificar palavras-passe no ficheiro
+migration-passwords-new = Novas palavras-passe
+migration-passwords-updated = Palavras-passe existentes
+migration-passwords-from-file-picker-title = Importar ficheiro de palavras-passe
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,9 +78,33 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] Ficheiro TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } adicionada
+       *[other] { $newEntries } adicionadas
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } atualizada
+       *[other] { $updatedEntries } atualizadas
+    }
 migration-import-button-label = Importar
+migration-choose-to-import-from-file-button-label = Importar de um Ficheiro
+migration-import-from-file-button-label = Selecionar Ficheiro
 migration-cancel-button-label = Cancelar
 migration-done-button-label = Concluído
+migration-wizard-import-browser-no-browsers = O { -brand-short-name } não conseguiu encontrar nenhum programa que contenha dados de marcadores, histórico ou palavras-passe.
+migration-wizard-import-browser-no-resources = Ocorreu um erro. O { -brand-short-name } não conseguiu importar nenhum dado desse perfil de navegador.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -97,5 +128,9 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = A importar…
 migration-wizard-progress-icon-completed =
     .aria-label = Concluído
+migration-safari-password-import-header = Importar palavras-passe do Safari
+migration-safari-password-import-steps-header = Para importar palavras-passe do Safari:
+migration-safari-password-import-step1 = No Safari, abra o menu “Safari” e aceda a Preferências > Palavras-passe
+migration-safari-password-import-step2 = Selecione o botão <img data-l10n-name="safari-icon-3dots"/> e escolha “Exportar todas as palavras-passe”
 migration-safari-password-import-skip-button = Ignorar
 migration-wizard-safari-select-button = Selecionar Ficheiro
