@@ -117,6 +117,15 @@ about-debugging-network-locations-remove-button = ລຶບ
 
 # Runtime Page strings
 
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = ສ່ວນ​ຂະ​ຫຍາຍ
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = ແທັບ
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = ຕົວເຮັດວຽກບໍລິການ
 
 # Debug Targets strings
 
