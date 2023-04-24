@@ -127,6 +127,7 @@ about-processes-utility-actor-audio-decoder-wmf = ونڈوز میڈیا فریم
 about-processes-utility-actor-mf-media-engine = ونڈوز میڈیا فاؤنڈیشن میڈیا انجن CDM
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript اوریکل
+about-processes-utility-actor-windows-utils = ونڈوز افادیت
 
 ## Displaying CPU (percentage and total)
 ## Variables:
