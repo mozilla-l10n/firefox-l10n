@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+do-not-track-option-always =
+    .label = ᱡᱟᱣᱜᱮ
 settings-page-title = ᱥᱟᱡᱟᱣ ᱠᱚ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -15,9 +17,12 @@ settings-page-title = ᱥᱟᱡᱟᱣ ᱠᱚ
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = ᱥᱟᱡᱟᱣ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
+category-list =
+    .aria-label = ᱛᱷᱚᱠᱠᱚ
 pane-general-title = ᱥᱟᱫᱷᱟᱨᱚᱱ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = ᱚᱲᱟᱜ
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = ᱥᱮᱸᱫᱽᱨᱟ
@@ -55,6 +60,17 @@ restart-later = ᱛᱟᱭᱚᱢ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -71,6 +87,13 @@ show-tabs-in-taskbar =
     .label = ᱡᱷᱚᱨᱠᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱨ ᱨᱮ ᱴᱮᱵᱽ ᱢᱟᱲᱟᱝ ᱛᱮᱭᱟᱜ ᱧᱮᱞ ᱩᱫᱩᱜ ᱢᱮ
     .accesskey = k
 browser-containers-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 containers-disable-alert-cancel-button = ᱮᱢ ᱪᱷᱚ ᱠᱟᱜ ᱢᱮ
 containers-remove-cancel-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱟᱞᱚᱢ ᱚᱪᱚᱜᱽ ᱟ
 
@@ -138,11 +161,11 @@ applications-manage-app =
 applications-always-ask =
     .label = ᱡᱟᱣᱜᱮ ᱠᱩᱞᱤᱮᱢ
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ᱵᱮᱵᱷᱟᱨ ᱢᱮ ({ -brand-short-name } ᱨᱮ)
 
@@ -230,6 +253,10 @@ choose-bookmark =
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
+
 ##
 
 home-prefs-highlights-options-bookmarks =
@@ -244,7 +271,7 @@ search-remove-engine =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ᱱᱚᱠᱚᱞ ᱛᱮᱭᱟᱨ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱫ ᱟ ᱚᱠᱟ “{ $name }” ᱾ ᱫᱟᱨᱟᱭ ᱛᱮ ᱱᱤᱛᱚᱜ ᱵᱮᱵᱷᱟᱨᱚᱠ ᱠᱟᱱᱟ. ᱮᱴᱟᱜᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 search-keyword-warning-bookmark = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱛ ᱟ ᱚᱠᱟ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹᱝ ᱫᱟᱨᱟᱭ ᱛᱮ ᱱᱤᱛᱚᱜ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱮᱴᱟᱜᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
@@ -257,8 +284,15 @@ search-keyword-warning-bookmark = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ �
 
 ## Firefox Account - Signed in
 
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ᱫᱚ ᱵᱟᱭ ᱧᱮᱞ ᱢᱤᱞᱟᱣ ᱠᱟᱱᱟ ᱾
 sync-signedin-login-failure = ᱫᱟᱭᱟᱠᱟᱛᱮ { $email } ᱥᱟᱞᱟᱜ ᱫᱚᱦᱲᱟᱹ ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+
+##
+
 
 ## Sync section - enabling or disabling sync.
 
@@ -350,6 +384,9 @@ history-clear-on-close-settings =
 
 sitedata-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 
@@ -362,6 +399,9 @@ content-blocking-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 
 ##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 
 ## Privacy Section - Tracking
@@ -400,6 +440,9 @@ certs-enable-ocsp =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
