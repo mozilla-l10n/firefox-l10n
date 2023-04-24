@@ -155,7 +155,6 @@ spotlight-total-cookie-protection-header =
     ᱱᱤᱥᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱮᱵᱷᱟᱮ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
 spotlight-total-cookie-protection-primary-button = ᱢᱩᱴ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 spotlight-total-cookie-protection-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
-cfr-total-cookie-protection-header = ᱟᱢ ᱥᱟᱨᱦᱟᱣ ᱞᱮ ᱪᱟᱞ ᱟᱢ ᱠᱟᱱᱟ, { -brand-short-name } ᱫᱚ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱯᱨᱟᱭᱣᱮᱴ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱧᱚᱜ ᱜᱮᱭᱟ
 
 ## Emotive Continuous Onboarding
 
@@ -198,7 +197,6 @@ firefoxview-cfr-primarybutton = ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
     .accesskey = T
 firefoxview-cfr-secondarybutton = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = N
-firefoxview-cfr-header = { -firefoxview-brand-name } ᱥᱟᱶᱛᱮ ᱱᱮᱱᱮ ᱵᱚᱱᱫ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱧᱟᱢ ᱢᱮ
 
 ## Firefox View Spotlight
 
@@ -210,3 +208,18 @@ firefoxview-spotlight-promo-secondarybutton = ᱟᱲᱟᱜ
 
 colorways-cfr-primarybutton = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .accesskey = C
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-dismiss-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+    .accesskey = N
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = ᱟᱞᱮ ᱟᱯᱮᱭᱟᱜ ᱡᱚᱛᱱᱟ ᱞᱮ ᱤᱫᱤ ᱟᱠᱟᱫᱼᱟ
+fox-doodle-pin-headline = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+fox-doodle-pin-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
