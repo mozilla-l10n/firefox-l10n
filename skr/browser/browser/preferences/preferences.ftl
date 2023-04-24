@@ -969,6 +969,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = کوکی بینر گھٹاوݨ
+cookie-banner-handling-description = { -brand-short-name } سہارا تھیاں سائٹاں تے کوکی بینراں تے کوکی اردساں خودبخود مسترد کرݨ دی کوشش کریندے۔
 cookie-banner-learn-more = ٻیا سِکھو
 forms-handle-cookie-banners =
     .label = کوکی بینراں کوں تھوڑا کرو
