@@ -72,6 +72,13 @@ migration-passwords-from-file-tsv-filter-title =
 migration-import-button-label = Importovat
 migration-cancel-button-label = Zrušit
 migration-done-button-label = Hotovo
+migration-wizard-import-browser-no-browsers =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } nenašel žádné programy, které obsahují údaje o záložkách, historii nebo heslech.
+        [feminine] { -brand-short-name } nenašla žádné programy, které obsahují údaje o záložkách, historii nebo heslech.
+        [neuter] { -brand-short-name } nenašlo žádné programy, které obsahují údaje o záložkách, historii nebo heslech.
+       *[other] Aplikace { -brand-short-name } nenašla žádné programy, které obsahují údaje o záložkách, historii nebo heslech.
+    }
 migration-wizard-import-browser-no-resources = Nastala chyba. { -brand-short-name } nemůže najít žádná data k importu z tohoto profilu prohlížeče.
 
 ## These strings will be used to create a dynamic list of items that can be
@@ -156,3 +163,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Historie formulářů
 migration-wizard-safari-permissions-sub-header = Pro importování záložek a historie prohlížení ze Safari:
 migration-wizard-safari-instructions-continue = Vyberte „Pokračovat“
+migration-wizard-safari-instructions-folder = Vyberte v seznamu složku Safari a zvolte „Otevřít“
+migration-wizard-safari-select-button = Vybrat soubor
