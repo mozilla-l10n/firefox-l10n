@@ -70,6 +70,15 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (немој слати пинг)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Уверите се да је у претходном пољу лако памтљива ознака за отклањање грешака како би касније могли да препознате ваше пингове.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Из претходне листе изаберите пинг у ком се налази ваш инструмент.
+    Ако је у <a data-l10n-name="custom-ping-link">прилагођеном пингу</a>, изаберите га.
+    Иначе, подразумевана вредност за <code>event</code> метрику је
+    <code>events</code> пинг,
+    док је подразумевана вредност за све остале метрике
+    <code>metrics</code> пинг.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (Опционално. Означите ово поље ако желите да се пингови евидентирају када их шаљете.
