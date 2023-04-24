@@ -27,6 +27,7 @@ neterror-try-again-button = Zkusit znovu
 neterror-add-exception-button = Na tomto webu vždy pokračovat
 neterror-settings-button = Změnit nastavení DNS
 neterror-view-certificate-link = Zobrazit certifikát
+neterror-trr-continue-this-time = Tentokrát pokračovat
 neterror-disable-native-feedback-warning = Vždy pokračovat
 
 ##
@@ -59,7 +60,6 @@ neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
-neterror-dns-not-found-trr-only-attackers = Pokud budete pokračovat, třetí strany mohou zjistit, jaké webové stránky navštěvujete, nebo vás přesměrovat na nedůvěryhodný web.
 neterror-dns-not-found-trr-third-party-warning = Můžete pokračovat s použitím překladače, který není zabezpečený. Třetí strany pak ale mohou zjistit, jaké webové stránky navštěvujete.
 neterror-dns-not-found-trr-only-could-not-connect =
     { -brand-short-name.gender ->
@@ -79,9 +79,7 @@ neterror-dns-not-found-trr-unknown-problem = Neočekávaný problém.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
-neterror-dns-not-found-native-fallback-attackers = Můžete pokračovat s použitím překladače, který není zabezpečený. Třetí strany pak ale mohou zjistit, jaké webové stránky navštěvujete, nebo vás přesměrovat na nedůvěryhodný web.
 neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS je ve vaší síti zakázáno.
-neterror-dns-not-found-native-fallback-not-confirmed = Připojení k DNS překladači { $trrDomain } ještě není připraveno.
 
 ##
 

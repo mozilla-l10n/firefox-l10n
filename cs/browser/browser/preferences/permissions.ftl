@@ -209,3 +209,12 @@ permissions-site-microphone-desc = Následující servery požádaly o přístup
 permissions-site-microphone-disable-label =
     .label = Blokovat nové žádosti o přístup k vašemu mikrofonu
 permissions-site-microphone-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o přístup k vašemu mikrofonu. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Oprávnění přístupu k reproduktoru
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Následující servery požádaly o výběr výstupního zvukového zařízení. Zde můžete určit, které servery mají povoleno vybrat výstupní zvukové zařízení.

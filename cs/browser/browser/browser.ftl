@@ -892,6 +892,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Poslat odkaz e-mailem
     .tooltiptext = Odešle odkaz na aktuální stránku
+toolbar-button-logins =
+    .label = Přihlašovací údaje
+    .tooltiptext = Zobrazení a správa vašich uložených hesel
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

@@ -59,23 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } uživatelů
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Cookie lišty jsou fuč!
-cfr-cookie-banner-accept-button = Zamítnout požadavky
-    .accesskey = Z
-cfr-cookie-banner-reject-button = Teď ne
-    .accesskey = n
-cfr-cookie-banner-reject-button-variant-1 = Ne, děkuji
-    .accesskey = N
-cfr-cookie-banner-handling-header-variant-2 = Omezení cookie lišt
-cfr-cookie-banner-accept-button-variant-2 = Povolit
-    .accesskey = P
-cfr-cookie-banner-reject-button-variant-2 = Teď ne
-    .accesskey = n
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Mějte své záložky všude s sebou.
@@ -264,18 +247,12 @@ colorways-cfr-primarybutton = Zvolit baletu barev
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Cookie lišty jsou fuč!
-cfr-cookiebanner-reject-button = Teď ne
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Zobrazovat méně cookie lišt
-cfr-cookiebanner-reject-button-variant-1 = Ne, děkuji
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Omezení cookie lišt
-cfr-cookiebanner-accept-button-variant-2 = Povolit
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Teď ne
+cfr-cbh-dismiss-button = Teď ne
     .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Rozumím
