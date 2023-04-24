@@ -1251,6 +1251,7 @@ preferences-doh-default-desc = تہاݙی رازداری دی حفاظت کیت�
 preferences-doh-default-detailed-desc-1 = جتھ ایہ دستیاب ہے انہاں علاقیاں وچ محفوظ  DNS ورتو
 preferences-doh-default-detailed-desc-2 = جے محفوظ DNS فراہم کرݨ آلے نال کوئی مسئلہ ہے تاں آپݨا ڈیفالٹ DNS حل کرݨ آلا ورتو
 preferences-doh-default-detailed-desc-3 = مقامی مہیا کار ورتو، جے ممکن ہے تاں
+preferences-doh-default-detailed-desc-4 = جہڑے ویلے وی پی این، والدین کنٹرول، یا انٹرپراز پالیسیاں فعال ہوون بند کرو
 preferences-doh-setting-enabled =
     .label = ودھائی ہوئی حفاظت
     .accesskey = I
