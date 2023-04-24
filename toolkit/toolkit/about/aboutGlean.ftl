@@ -74,6 +74,24 @@ about-glean-label-for-tag-pings = Уверите се да је у претхо�
 about-glean-label-for-log-pings =
     (Опционално. Означите ово поље ако желите да се пингови евидентирају када их шаљете.
     Мораћете да <a data-l10n-name="enable-logging-link">омогућите евидентирање</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Кликните на претходно дугме да означите све { -glean-brand-name } пингове својом ознаком и послали изабрани пинг.
+    (Сви пингови послани од тада до поновног покретања програма биће означени са
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Посетите { glean-debug-ping-viewer-brand-name } страницу да бисте видели пингове са вашом ознаком</a>.
+    Пинг би требало да стигне неколико секунди након притиска на дугме.
+    Понекад може да потраје пар минута.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    За више <i>ad hoc</i> тестирања,
+    можете да одредите тренутну вредност одређеног дела инструмента тако што ћете
+    отворити конзолу алатки за програмере на <code>about:glean</code>
+    и искористити <code>testGetValue()</code> API, на пример:
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Примени подешавања и пошаљи пинг
 about-glean-about-data-header = О подацима
 about-glean-about-data-explanation =
