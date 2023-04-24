@@ -179,6 +179,10 @@ startup-restore-warn-on-quit =
     .label = Varovat při ukončování prohlížeče
 disable-extension =
     .label = Zakázat rozšíření
+preferences-data-migration-header = Import dat z prohlížeče
+preferences-data-migration-button =
+    .label = Import dat
+    .accesskey = m
 tabs-group-header = Panely
 ctrl-tab-recently-used-order =
     .label = Přepínat panely pomocí Ctrl+Tab v pořadí podle jejich posledního použití
@@ -1146,6 +1150,10 @@ sitedata-cookies-exceptions =
     .label = Výjimky…
     .accesskey = k
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-learn-more = Zjistit více
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresní řádek
@@ -1285,6 +1293,11 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Nastavení…
     .accesskey = n
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Volba reproduktoru
+permissions-speaker-settings =
+    .label = Nastavení…
+    .accesskey = t
 permissions-notification = Oznámení
 permissions-notification-settings =
     .label = Nastavení…
@@ -1455,6 +1468,9 @@ httpsonly-radio-enabled-pbm =
     .label = Zapnout režim „pouze HTTPS“ v anonymních oknech
 httpsonly-radio-disabled =
     .label = Nezapínat režim „pouze HTTPS“
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
