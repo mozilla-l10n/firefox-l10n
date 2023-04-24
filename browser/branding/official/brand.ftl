@@ -31,15 +31,16 @@
     .case-status = with-cases
 -brand-short-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxu
         [dat] Firefoxu
         [acc] Firefox
         [voc] Firefoxe
         [loc] Firefoxu
         [ins] Firefoxem
+       *[nom] Firefox
     }
     .gender = masculine
+    .case-status = with-cases
 -brand-shortcut-name =
     { $case ->
         [gen] Firefoxu

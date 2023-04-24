@@ -40,6 +40,11 @@ firefoxview-tabpickup-adddevice-primarybutton =
        *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
     }
 firefoxview-tabpickup-synctabs-header = Zapnutí synchronizace panelů
+firefoxview-tabpickup-synctabs-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Povolit { -brand-short-name(case: "dat") } sdílet panely mezi zařízeními.
+       *[no-cases] Povolit aplikaci { -brand-short-name } sdílet panely mezi zařízeními.
+    }
 firefoxview-tabpickup-synctabs-learn-how = Zjistěte jak
 firefoxview-tabpickup-synctabs-primarybutton = Synchronizovat otevřené panely
 firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána vaší organizací
@@ -51,8 +56,18 @@ firefoxview-tabpickup-sync-error-header = Při synchronizaci se vyskytly problé
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } se nyní nemůže spojit se službou pro synchronizaci. Zkuste to prosím za chvíli znovu.
 firefoxview-tabpickup-sync-error-primarybutton = Zkusit znovu
 firefoxview-tabpickup-sync-disconnected-header = Pro pokračování zapněte synchronizaci
+firefoxview-tabpickup-sync-disconnected-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Chcete-li získat své panely, musíte ve { -brand-short-name(case: "loc") } povolit synchronizaci.
+       *[no-cases] Chcete-li získat své panely, musíte v aplikaci { -brand-short-name } povolit synchronizaci.
+    }
 firefoxview-tabpickup-sync-disconnected-primarybutton = Zapnout synchronizaci v nastavení
 firefoxview-tabpickup-password-locked-header = Pro zobrazení panelů zadejte své hlavní heslo
+firefoxview-tabpickup-password-locked-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Chcete-li získat své panely, budete muset zadat hlavní heslo pro { -brand-short-name(case: "acc") }.
+       *[no-cases] Chcete-li získat své panely, budete muset zadat hlavní heslo pro aplikaci { -brand-short-name }.
+    }
 firefoxview-tabpickup-password-locked-link = Zjistit více
 firefoxview-tabpickup-password-locked-primarybutton = Zadat hlavní heslo
 firefoxview-tabpickup-signed-out-header = Pro opětovné připojení se přihlaste

@@ -318,20 +318,16 @@ quickactions-private2 = Otevřít anonymní okno
 quickactions-cmd-private = anonymní prohlížení
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh =
-    { -brand-short-name.gender ->
-        [masculine] Obnova { -brand-short-name(case: "gen") }
-        [feminine] Obnova { -brand-short-name(case: "gen") }
-        [neuter] Obnova { -brand-short-name(case: "gen") }
-       *[other] Obnova aplikace { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Obnova { -brand-short-name(case: "gen") }
+       *[no-cases] Obnova aplikace { -brand-short-name }
     }
 quickactions-cmd-refresh = obnova, obnovit
 # Restarts the browser
 quickactions-restart =
-    { -brand-short-name.gender ->
-        [masculine] Restartovat { -brand-short-name(case: "acc") }
-        [feminine] Restartovat { -brand-short-name(case: "acc") }
-        [neuter] Restartovat { -brand-short-name(case: "acc") }
-       *[other] Restartovat aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Restartovat { -brand-short-name(case: "acc") }
+       *[no-cases] Restartovat aplikaci { -brand-short-name }
     }
 quickactions-cmd-restart = restart, restartovat
 # Opens the screenshot tool
@@ -345,11 +341,9 @@ quickactions-themes = Nastavení vzhledu
 quickactions-cmd-themes = motivy vzhledu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update =
-    { -brand-short-name.gender ->
-        [masculine] Aktualizace { -brand-short-name(case: "gen") }
-        [feminine] Aktualizace { -brand-short-name(case: "gen") }
-        [neuter] Aktualizace { -brand-short-name(case: "gen") }
-       *[other] Aktualizace aplikace { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Aktualizace { -brand-short-name(case: "gen") }
+       *[no-cases] Aktualizace aplikace { -brand-short-name }
     }
 quickactions-cmd-update = aktualizace, aktualizovat
 # Opens the view-source UI with current pages source
@@ -400,12 +394,10 @@ identity-connection-not-secure = Spojení není zabezpečené
 identity-connection-secure = Zabezpečené spojení
 identity-connection-failure = Chyba spojení
 identity-connection-internal =
-    Toto je zabezpečená stránka { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Toto je zabezpečená stránka { -brand-short-name(case: "gen") }.
+       *[no-cases] Toto je zabezpečená stránka aplikace { -brand-short-name }.
+    }
 identity-connection-file = Tato stránka je uložena ve vašem počítači.
 identity-extension-page = Tato stránka je načtena z doplňku.
 identity-active-blocked =
@@ -551,7 +543,11 @@ browser-tab-unblock =
 
 browser-import-button2 =
     .label = Importovat záložky…
-    .tooltiptext = Importovat záložky z jiného prohlížeče do { -brand-short-name(case: "gen") }.
+    .tooltiptext =
+        { -brand-short-name.case-status ->
+            [with-cases] Importovat záložky z jiného prohlížeče do { -brand-short-name(case: "gen") }.
+           *[no-cases] Importovat záložky z jiného prohlížeče do aplikace { -brand-short-name }
+        }
 bookmarks-toolbar-empty-message = Chcete-li mít ke svým záložkám rychlý přístup, umístěte je sem na lištu záložek. <a data-l10n-name="manage-bookmarks">Spravovat záložky…</a>
 
 ## WebRTC Pop-up notifications
@@ -582,7 +578,11 @@ popup-mute-notifications-checkbox = Ztlumit oznámení ze serverů během sdíle
 
 ## WebRTC window or screen share tab switch warning
 
-sharing-warning-window = Sdílíte obsah okna { -brand-short-name(case: "gen") }. Ostatní lidé uvidí obsah každého panelu, který otevřete.
+sharing-warning-window =
+    { -brand-short-name.case-status ->
+        [with-cases] Sdílíte obsah okna { -brand-short-name(case: "gen") }. Ostatní lidé uvidí obsah každého panelu, který otevřete.
+       *[no-cases] Sdílíte obsah okna aplikace { -brand-short-name }. Ostatní lidé uvidí obsah každého panelu, který otevřete.
+    }
 sharing-warning-screen = Sdílíte obsah celé své obrazovky. Ostatní lidé uvidí obsah každého panelu, který otevřete.
 sharing-warning-proceed-to-tab =
     .label = Otevřít panel
@@ -917,12 +917,10 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing =
-    Některé zvuky nebo videa na této stránce používají DRM software, což může omezit { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } při práci s tímto obsahem.
+    { -brand-short-name.case-status ->
+        [with-cases] Některé zvuky nebo videa na této stránce používají DRM software, což může omezit { -brand-short-name(case: "acc") } při práci s tímto obsahem.
+       *[no-cases] Některé zvuky nebo videa na této stránce používají DRM software, což může omezit aplikaci { -brand-short-name } při práci s tímto obsahem.
+    }
 eme-notifications-drm-content-playing-manage = Nastavení
 eme-notifications-drm-content-playing-manage-accesskey = N
 eme-notifications-drm-content-playing-dismiss = Zavřít
@@ -1006,11 +1004,9 @@ navbar-print =
 navbar-home =
     .label = Domů
     .tooltiptext =
-        Otevře domovskou stránku { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] aplikace { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Otevře domovskou stránku { -brand-short-name(case: "gen") }
+           *[no-cases] Otevře domovskou stránku aplikace { -brand-short-name }
         }
 navbar-library =
     .label = Knihovna stránek
@@ -1034,12 +1030,10 @@ tabs-toolbar-list-all-tabs =
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message =
-    <strong>Chcete otevřít předchozí panely?</strong> Předchozí relaci { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } můžete obnovit z nabídky <img data-l10n-name="icon"/> v části Historie.
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>Chcete otevřít předchozí panely?</strong> Předchozí relaci { -brand-short-name(case: "gen") } můžete obnovit z nabídky <img data-l10n-name="icon"/> v části Historie.
+       *[no-cases] <strong>Chcete otevřít předchozí panely?</strong> Předchozí relaci aplikace { -brand-short-name } můžete obnovit z nabídky <img data-l10n-name="icon"/> v části Historie.
+    }
 restore-session-startup-suggestion-button = Jak na to
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -1094,11 +1088,9 @@ refresh-blocked-allow =
 
 firefox-relay-offer-why-relay = { -relay-brand-name } skryje vaši skutečnou e-mailovou adresu, aby vás ochránila před úniky dat a nevyžádanou poštou.
 firefox-relay-offer-how-we-integrate =
-    { -brand-shorter-name.gender ->
-        [masculine] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů ve { -brand-shorter-name(case: "loc") }.
-        [feminine] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů v { -brand-shorter-name(case: "loc") }.
-        [neuter] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů v { -brand-shorter-name(case: "loc") }.
-       *[other] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů v aplikaci { -brand-shorter-name }.
+    { -brand-short-name.case-status ->
+        [with-cases] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů ve { -brand-shorter-name(case: "loc") }.
+       *[no-cases] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů v aplikaci { -brand-shorter-name }.
     }
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask

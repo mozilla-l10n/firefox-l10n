@@ -214,12 +214,10 @@ about-logins-confirm-remove-all-dialog-title =
        *[other] Odstranit { $count } přihlašovacích údajů
     }
 about-logins-confirm-remove-all-dialog-message =
-    Tímto odstraníte všechny přihlašovací údaje uložené { -brand-short-name.gender ->
-        [masculine] ve { -brand-short-name(case: "loc") }
-        [feminine] v { -brand-short-name(case: "loc") }
-        [neuter] v { -brand-short-name(case: "loc") }
-       *[other] v aplikaci { -brand-short-name }
-    } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+    { -brand-short-name.case-status ->
+        [with-cases] Tímto odstraníte všechny přihlašovací údaje uložené ve { -brand-short-name(case: "loc") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+       *[no-cases] Tímto odstraníte všechny přihlašovací údaje uložené v aplikaci { -brand-short-name } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Odstranit jedny přihlašovací údaje ze všech zařízení
@@ -227,12 +225,10 @@ about-logins-confirm-remove-all-sync-dialog-title =
        *[other] Odstranit { $count } přihlašovacích údajů ze všech zařízení
     }
 about-logins-confirm-remove-all-sync-dialog-message =
-    Tímto odstraníte všechny přihlašovací údaje uložené { -brand-short-name.gender ->
-        [masculine] ve { -brand-short-name(case: "loc") }
-        [feminine] v { -brand-short-name(case: "loc") }
-        [neuter] v { -brand-short-name(case: "loc") }
-       *[other] v aplikaci { -brand-short-name }
-    } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+    { -brand-short-name.case-status ->
+        [with-cases] Tímto odstraníte všechny přihlašovací údaje uložené ve { -brand-short-name(case: "loc") } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+       *[no-cases] Tímto odstraníte všechny přihlašovací údaje uložené v aplikaci { -brand-short-name } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+    }
 
 ##
 
@@ -335,12 +331,10 @@ about-logins-import-dialog-error-try-import-again = Zkusit importovat znovu…
 about-logins-import-dialog-error-cancel = Zrušit
 about-logins-import-report-title = Souhrn
 about-logins-import-report-description =
-    Přihlašovací údaje importované do { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Přihlašovací údaje importované do { -brand-short-name(case: "gen") }.
+       *[no-cases] Přihlašovací údaje importované do aplikace { -brand-short-name }.
+    }
 #
 # Variables:
 #  $number (number) - The number of the row

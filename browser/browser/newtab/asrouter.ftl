@@ -131,17 +131,10 @@ cfr-doorhanger-fission-secondary-button = Zjistit více
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body =
-    V této verzi { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } se videa na tomto serveru nemusí přehrávat správně. Pro plnou podporu videí { -brand-short-name.gender ->
-        [masculine] svůj { -brand-short-name(case: "acc") }
-        [feminine] svou { -brand-short-name(case: "acc") }
-        [neuter] své { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } aktualizujte.
+    { -brand-short-name.case-status ->
+        [with-cases] V této verzi { -brand-short-name(case: "gen") } se videa na tomto serveru nemusí přehrávat správně. Pro plnou podporu videí svůj { -brand-short-name(case: "acc") } aktualizujte.
+       *[no-cases] V této verzi aplikace { -brand-short-name } se videa na tomto serveru nemusí přehrávat správně. Pro plnou podporu videí aplikaci { -brand-short-name } aktualizujte.
+    }
 cfr-doorhanger-video-support-header =
     Pro přehrání videa aktualizujte { -brand-short-name.gender ->
         [masculine] svůj { -brand-short-name(case: "acc") }
@@ -191,11 +184,9 @@ spotlight-total-cookie-protection-secondary-button = Teď ne
 
 spotlight-better-internet-header = Lepší internet začíná u vás
 spotlight-better-internet-body =
-    { -brand-short-name.gender ->
-        [masculine] Používáním { -brand-short-name(case: "gen") } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
-        [feminine] Používáním { -brand-short-name(case: "gen") } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
-        [neuter] Používáním { -brand-short-name(case: "gen") } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
-       *[other] Používáním aplikace { -brand-short-name } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
+    { -brand-short-name.case-status ->
+        [with-cases] Používáním { -brand-short-name(case: "gen") } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
+       *[no-cases] Používáním aplikace { -brand-short-name } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
     }
 spotlight-peace-mind-header = Všechno, co potřebujete
 spotlight-peace-mind-body = Každý měsíc zablokuje { -brand-short-name } pro každého uživatele v průměru přes 3000 sledovacích prvků. A to proto, aby vám nic nesnižovalo kvalitu internetu, tím méně sledovací prvky porušující vaše soukromí.
