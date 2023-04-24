@@ -26,6 +26,8 @@ policy-Bookmarks = Crear de marcapaginas dins la barra personala, lo menú dels 
 policy-CaptivePortal = Activar o desactivar lo portanèl de connexion.
 policy-CertificatesDescription = Apondre de certificats o utilizar de certificats predefinits.
 policy-Cookies = Autorizar o defendre als sites de definir de cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Definir las politicas ligadas als contenedors.
 policy-DisabledCiphers = Desactivar los chiframents.
 policy-DefaultDownloadDirectory = Definir lo dossièr de telecargament per defaut
 policy-DisableAppUpdate = Empachar lo navegador de se metre a jorn.
