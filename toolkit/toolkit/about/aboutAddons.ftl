@@ -32,19 +32,15 @@ help-button = Nápověda
 sidebar-help-button-title =
     .title = Nápověda
 addons-settings-button =
-    Nastavení { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavení { -brand-short-name(case: "gen") }
+       *[no-cases] Nastavení aplikace
     }
 sidebar-settings-button-title =
     .title =
-        Nastavení { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] aplikace
+        { -brand-short-name.case-status ->
+            [with-cases] Nastavení { -brand-short-name(case: "gen") }
+           *[no-cases] Nastavení aplikace
         }
 show-unsigned-extensions-button =
     .label = Některá rozšíření nemohla být ověřena
@@ -121,12 +117,10 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Některé doplňky byly zablokovány
 disabled-unsigned-description =
-    Následující doplňky nebyly ověřeny pro použití { -brand-short-name.gender ->
-        [masculine] ve { -brand-short-name(case: "loc") }
-        [feminine] v { -brand-short-name(case: "loc") }
-        [neuter] v { -brand-short-name(case: "loc") }
-       *[other] v aplikaci { -brand-short-name }
-    }. Můžete <label data-l10n-name="find-addons">za ně najít náhrady</label> nebo požádat vývojáře, aby je nechal ověřit.
+    { -brand-short-name.case-status ->
+        [with-cases] Následující doplňky nebyly ověřeny pro použití ve { -brand-short-name(case: "loc") }. Můžete <label data-l10n-name="find-addons">za ně najít náhrady</label> nebo požádat vývojáře, aby je nechal ověřit.
+       *[no-cases] Následující doplňky nebyly ověřeny pro použití v aplikaci { -brand-short-name }. Můžete <label data-l10n-name="find-addons">za ně najít náhrady</label> nebo požádat vývojáře, aby je nechal ověřit.
+    }
 disabled-unsigned-learn-more = Zjistěte více o naší snaze o vaši bezpečnost.
 disabled-unsigned-devinfo = Vývojáři, kteří mají zájem o ověření svých rozšíření, mohou pokračovat přečtením <label data-l10n-name="learn-more">našeho manuálu</label>.
 plugin-deprecation-description = Něco chybí? Některé zásuvné moduly už { -brand-short-name } nepodporuje. <label data-l10n-name="learn-more">Zjistit více.</label>
@@ -134,12 +128,10 @@ legacy-warning-show-legacy = Zobrazit zastaralá rozšíření
 legacy-extensions =
     .value = Zastaralá rozšíření
 legacy-extensions-description =
-    Tato rozšíření byla zakázána, protože neodpovídají současným standardům { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }. <label data-l10n-name="legacy-learn-more">Zjistit více o změnách pro doplňky</label>
+    { -brand-short-name.case-status ->
+        [with-cases] Tato rozšíření byla zakázána, protože neodpovídají současným standardům { -brand-short-name(case: "gen") }. <label data-l10n-name="legacy-learn-more">Zjistit více o změnách pro doplňky</label>
+       *[no-cases] Tato rozšíření byla zakázána, protože neodpovídají současným standardům aplikace { -brand-short-name }. <label data-l10n-name="legacy-learn-more">Zjistit více o změnách pro doplňky</label>
+    }
 private-browsing-description2 =
     Fungování rozšíření pro aplikaci { -brand-short-name } se v anonymních oknech mění. Žádné nově nainstalované rozšíření, nebude ve výchozím nastavení v anonymních oknech fungovat, pokud mu to nepovolíte. Rozšíření tak nebudou mít bez vašeho vědomí přístup k tomu, co v anonymních oknech děláte.
     <label data-l10n-name="private-browsing-learn-more">Jak na nastavení rozšíření</label>
@@ -242,11 +234,9 @@ shortcuts-modifier-other = Zahrnout Ctrl nebo Alt
 shortcuts-invalid = Neplatná kombinace kláves
 shortcuts-letter = Napište písmeno
 shortcuts-system =
-    Nelze přepsat zkratku { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Nelze přepsat zkratku { -brand-short-name(case: "gen") }
+       *[no-cases] Nelze přepsat zkratku aplikace { -brand-short-name }
     }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplicitní zkratka
@@ -374,12 +364,10 @@ addon-detail-homepage-label = Domovská stránka
 addon-detail-rating-label = Hodnocení
 # Message for add-ons with a staged pending update.
 install-postponed-message =
-    Toto rozšíření bude aktualizováno během restartu { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Toto rozšíření bude aktualizováno během restartu { -brand-short-name(case: "gen") }.
+       *[no-cases] Toto rozšíření bude aktualizováno během restartu aplikace { -brand-short-name }.
+    }
 install-postponed-button = Aktualizovat hned
 # The average rating that the add-on has received.
 # Variables:
@@ -465,11 +453,9 @@ locale-heading = Správa jazyků
 updates-heading = Správa aktualizací
 sitepermission-heading = Správa oprávnění serverů
 discover-heading =
-    Přizpůsobte si { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases] Přizpůsobte si { -brand-short-name(case: "acc") }
+       *[no-cases] Přizpůsobte si aplikaci { -brand-short-name }
     }
 shortcuts-heading = Správa klávesových zkratek pro rozšíření
 default-heading-search-label = Najít další doplňky
@@ -490,27 +476,21 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible =
-    { -brand-short-name.gender ->
-        [masculine] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
-        [feminine] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
-        [neuter] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
-       *[other] Doplněk { $name } není s aplikací { -brand-short-name } { $version } kompatibilní.
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
+       *[no-cases] Doplněk { $name } není s aplikací { -brand-short-name } { $version } kompatibilní.
     }
 details-notification-incompatible-link = Více informací
 details-notification-unsigned-and-disabled =
-    { -brand-short-name.gender ->
-        [masculine] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen a byl zakázán.
-        [feminine] Doplněk { $name } nemohl být pro použití v { -brand-short-name(case: "loc") } ověřen a byl zakázán.
-        [neuter] Doplněk { $name } nemohl být pro použití v { -brand-short-name(case: "loc") } ověřen a byl zakázán.
-       *[other] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen a byl zakázán.
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen a byl zakázán.
+       *[no-cases] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen a byl zakázán.
     }
 details-notification-unsigned-and-disabled-link = Více informací
 details-notification-unsigned =
-    { -brand-short-name.gender ->
-        [masculine] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
-        [feminine] Doplněk { $name } nemohl být pro použití v { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
-        [neuter] Doplněk { $name } nemohl být pro použití v { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
-       *[other] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen. Používejte ho obezřetně.
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
+       *[no-cases] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen. Používejte ho obezřetně.
     }
 details-notification-unsigned-link = Více informací
 details-notification-blocked = Doplněk { $name } byl zakázán kvůli problémům se zabezpečením nebo stabilitou.

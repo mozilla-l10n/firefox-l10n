@@ -7,12 +7,10 @@
 
 about-config-intro-warning-title = Tady pozor
 about-config-intro-warning-text =
-    Změny v pokročilé konfiguraci mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
+    { -brand-short-name.case-status ->
+        [with-cases] Změny v pokročilé konfiguraci mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name(case: "gen") }.
+       *[no-cases] Změny v pokročilé konfiguraci mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
+    }
 about-config-intro-warning-checkbox = Varovat při otevření této pokročilé konfigurace
 about-config-intro-warning-button = Beru na vědomí a chci pokračovat
 
@@ -20,21 +18,15 @@ about-config-intro-warning-button = Beru na vědomí a chci pokračovat
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text =
-    Změny v těchto předvolbách mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
-
+    { -brand-short-name.case-status ->
+        [with-cases] Změny v těchto předvolbách mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name(case: "gen") }.
+       *[no-cases] Změny v těchto předvolbách mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
+    }
 about-config-page-title = Pokročilá konfigurace
-
 about-config-search-input1 =
     .placeholder = Hledat podle názvu předvolby
 about-config-show-all = Zobrazit vše
-
 about-config-show-only-modified = Zobrazit pouze změněné předvolby
-
 about-config-pref-add-button =
     .title = Přidat
 about-config-pref-toggle-button =

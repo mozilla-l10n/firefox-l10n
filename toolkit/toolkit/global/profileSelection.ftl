@@ -6,11 +6,9 @@ profile-selection-window =
     .title = { -brand-short-name } - Výběr profilu uživatele
 profile-selection-button-accept =
     .label =
-        Spustit { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "acc") }
-            [feminine] { -brand-short-name(case: "acc") }
-            [neuter] { -brand-short-name(case: "acc") }
-           *[other] aplikaci { -brand-short-name }
+        { -brand-short-name.case-status ->
+            [with-cases] Spustit { -brand-short-name(case: "acc") }
+           *[no-cases] Spustit aplikaci { -brand-short-name }
         }
 profile-selection-button-cancel =
     .label = Ukončit
@@ -26,18 +24,14 @@ profile-selection-delete-button =
 profile-selection-conflict-message =
     { -brand-product-name.case-status ->
         [with-cases]
-            { -brand-short-name.gender ->
-                [masculine] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-                [feminine] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-                [neuter] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-               *[other] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+            { -brand-short-name.case-status ->
+                [with-cases] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
+               *[no-cases] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
             }
        *[no-cases]
-            { -brand-short-name.gender ->
-                [masculine] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-                [feminine] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-                [neuter] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-               *[other] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+            { -brand-short-name.case-status ->
+                [with-cases] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
+               *[no-cases] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
             }
     }
 

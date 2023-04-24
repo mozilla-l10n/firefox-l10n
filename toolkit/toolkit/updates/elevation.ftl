@@ -8,20 +8,16 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = Podrobnosti
 elevation-error-manual =
-    { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] Aplikaci { -brand-short-name }
-    } doporučujeme aktualizovat ručně stažením nejnovější verze z této stránky:
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name(case: "acc") } doporučujeme aktualizovat ručně stažením nejnovější verze z této stránky:
+       *[no-cases] Aplikaci { -brand-short-name } doporučujeme aktualizovat ručně stažením nejnovější verze z této stránky:
+    }
 elevation-finished-page = Aktualizace je připravena k instalaci
 elevation-finished-background-page =
-    Bezpečnostní a výkonnostní aktualizace { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } byla stažena a je připravena k instalaci.
+    { -brand-short-name.case-status ->
+        [with-cases] Bezpečnostní a výkonnostní aktualizace { -brand-short-name(case: "gen") } byla stažena a je připravena k instalaci.
+       *[no-cases] Bezpečnostní a výkonnostní aktualizace aplikace { -brand-short-name } byla stažena a je připravena k instalaci.
+    }
 elevation-finished-background = Aktualizace:
 elevation-more-elevated =
     Tato aktualizace vyžaduje oprávnění správce. Aktualizace bude nainstalována při příštím spuštění { -brand-short-name.gender ->
