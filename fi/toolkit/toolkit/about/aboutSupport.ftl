@@ -284,6 +284,8 @@ webgl2-renderer = WebGL 2 -ajurin mallintaja
 webgl2-version = WebGL 2 -ajurin versio
 webgl2-driver-extensions = WebGL 2 -ajurin laajennukset
 webgl2-extensions = WebGL 2 -laajennukset
+webgpu-default-adapter = WebGPU-oletussovitin
+webgpu-fallback-adapter = WebGPU-varasovitin
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Estolistalla tunnetuista ongelmista johtuen: <a data-l10n-name="bug-link">vika { $bugNumber }</a>
