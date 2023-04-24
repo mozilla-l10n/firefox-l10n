@@ -12,6 +12,7 @@ experimental-features-css-masonry-description = تجرباتی CSS میسنری 
 experimental-features-web-gpu2 =
     .label = ویب اے پی آئی: WebGPU
 experimental-features-web-gpu-description2 = ایہ نواں API صارف دے آلے یا کمپیوٹر دے <a data-l10n-name="wikipedia">گرافکس پروسیسنگ یونٹ (GPU)</a> دا استعمال کریندے ہوئے کمپیوٹیشن تے گرافکس رینڈرنگ کوں انجام ݙیوݨ کیتے گھٹ سطح دی مدد فراہم کریندا ہے۔ <a data-l10n-name="spec">تفصیل</a> ہݨ وی کام جاری ہے۔ ودھیک تفصیلاں کیتے <a data-l10n-name="bugzilla">بگ 1602129</a> ݙیکھو۔
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> صارف دے آلے یا کمپیوٹر دے <a data-l10n-name="wikipedia-gpu">گرافکس پروسیسنگ یونٹ (GPU)</a> دا استعمال کریندے ہوئے کمپیوٹیشن تے گرافکس رینڈرنگ کوں انجام ݙیوݨ کیتے گھٹ سطح دی مدد فراہم کریندا ہے۔ <a data-l10n-name="spec">تفصیل</a> دا پہلا ورژن مکمل تھیوݨ دے نیڑے ہے۔ ودھیک تفصیلاں کیتے <a data-l10n-name="bugzilla">بگ 1602129</a> ݙیکھو۔
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
