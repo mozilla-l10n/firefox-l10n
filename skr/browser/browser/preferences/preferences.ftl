@@ -1252,6 +1252,7 @@ preferences-doh-default-detailed-desc-1 = جتھ ایہ دستیاب ہے انہ
 preferences-doh-default-detailed-desc-2 = جے محفوظ DNS فراہم کرݨ آلے نال کوئی مسئلہ ہے تاں آپݨا ڈیفالٹ DNS حل کرݨ آلا ورتو
 preferences-doh-default-detailed-desc-3 = مقامی مہیا کار ورتو، جے ممکن ہے تاں
 preferences-doh-default-detailed-desc-4 = جہڑے ویلے وی پی این، والدین کنٹرول، یا انٹرپراز پالیسیاں فعال ہوون بند کرو
+preferences-doh-default-detailed-desc-5 = جہڑے ویلے نیٹ ورک ݙسیندے { -brand-short-name } جو ایں کوں محفوظ DNS کائنی ورتݨاں چاہیدا، بند کرو
 preferences-doh-setting-enabled =
     .label = ودھائی ہوئی حفاظت
     .accesskey = I
