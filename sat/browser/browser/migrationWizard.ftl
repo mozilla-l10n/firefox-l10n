@@ -135,4 +135,39 @@ migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"
 migration-safari-password-import-step3 = ᱫᱟᱱᱟᱝ ᱥᱟᱦᱟᱫ ᱨᱮᱫ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 migration-safari-password-import-skip-button = ᱟᱲᱟᱜ
 migration-safari-password-import-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } ᱵᱩᱩᱠᱢᱟᱨᱠ
+       *[other] { $quantity } ᱵᱩᱩᱠᱢᱟᱨᱠᱠᱚ
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } ᱠᱩᱥᱤ
+       *[other] { $quantity } ᱠᱩᱥᱤᱠᱚ
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
+        [two] { $quantity } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱤᱱ
+       *[other] { $quantity } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ
+    }
+migration-wizard-progress-success-formdata = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱚᱨᱢ
+migration-wizard-safari-instructions-continue = “ᱞᱟᱦᱟ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-wizard-safari-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ

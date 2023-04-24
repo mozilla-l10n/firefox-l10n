@@ -11,6 +11,8 @@
 ## in the documentation section in about:policies.
 
 policy-DisablePrivateBrowsing = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱚᱱᱫ ᱠᱟᱜ ᱢᱮ ᱾
+policy-FirefoxHome = Firefox Home ᱥᱟᱹᱛ ᱢᱮ ᱾
+policy-FirefoxHome2 = { -firefox-home-brand-name } ᱥᱟᱹᱛ ᱢᱮ ᱾
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 

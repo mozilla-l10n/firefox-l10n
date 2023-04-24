@@ -2,11 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = ᱪᱷᱟᱰᱟ ᱠᱚ
+    .style = width: 45em
+permissions-window2 =
+    .title = ᱪᱷᱟᱰᱟ ᱠᱚ
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
+permissions-address = ᱣᱮᱵᱥᱟᱭᱤᱴᱟᱜ ᱴᱷᱤᱠᱬᱟᱹ
+    .accesskey = d
 permissions-block =
     .label = ᱟᱠᱚᱴ
     .accesskey = B
+permissions-disable-etp =
+    .label = ᱵᱟᱫᱟᱜ ᱠᱚ ᱥᱮᱞᱮᱫ
+    .accesskey = E
 permissions-session =
     .label = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣ ᱮᱢ
     .accesskey = S
@@ -16,12 +27,37 @@ permissions-allow =
 permissions-button-off =
     .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .accesskey = O
+permissions-button-off-temporarily =
+    .label = ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+    .accesskey = T
+permissions-site-name =
+    .label = ᱣᱮᱵᱥᱟᱭᱤᱴ
 permissions-status =
     .label = ᱫᱚᱥᱟ
+permissions-remove =
+    .label = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = R
+permissions-remove-all =
+    .label = ᱡᱷᱚᱛᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = e
+permission-dialog =
+    .buttonlabelaccept = ᱵᱚᱫᱚᱞ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+    .buttonaccesskeyaccept = S
+permissions-autoplay-menu = ᱡᱷᱚᱛᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱞᱺ
+permissions-searchbox =
+    .placeholder = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+permissions-capabilities-autoplay-allow =
+    .label = ᱟᱰᱤᱭᱳ ᱟᱨ ᱣᱤᱰᱤᱭᱳ ᱦᱮᱥᱟᱨᱤᱭᱟᱹ ᱢᱮ
+permissions-capabilities-autoplay-block =
+    .label = ᱥᱟᱰᱮ ᱟᱠᱚᱴ ᱢᱮ
+permissions-capabilities-autoplay-blockall =
+    .label = ᱥᱟᱰᱮ ᱟᱨ ᱣᱤᱰᱤᱭᱳ ᱟᱴᱠᱟᱣ ᱢᱮ
 permissions-capabilities-allow =
     .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-block =
     .label = ᱟᱠᱚᱴ
+permissions-capabilities-prompt =
+    .label = ᱡᱟᱣᱜᱮ ᱠᱩᱞᱤᱮᱢ
 permissions-capabilities-listitem-allow =
     .value = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-listitem-block =
@@ -81,3 +117,21 @@ permissions-site-autoplay-window2 =
 
 ## Site Permissions - Microphone
 
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-doh-entry-field = ᱣᱮᱵᱽᱥᱟᱭᱤ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
+    .accesskey = d
+permissions-doh-add-exception =
+    .label = ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+    .accesskey = A
+permissions-doh-col =
+    .label = ᱰᱚᱢᱮᱱ
+permissions-doh-remove =
+    .label = ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = R
+permissions-doh-remove-all =
+    .label = ᱡᱷᱚᱛᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = e

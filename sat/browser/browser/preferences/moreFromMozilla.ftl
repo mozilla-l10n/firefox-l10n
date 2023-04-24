@@ -14,4 +14,13 @@ more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = { -rally-short-name } ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱢᱮ
+more-from-moz-qr-code-box-firefox-mobile-button = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱨᱮ ᱤᱢᱮᱞ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = { -brand-product-name } ᱢᱚᱵᱟᱭᱤᱱ ᱰᱟᱣᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ
+more-from-moz-button-mozilla-vpn-2 = VPN ᱟᱹᱜᱩᱭ ᱢᱮ
 more-from-moz-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+
+more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-button = { -relay-brand-short-name } ᱟᱹᱜᱩᱭ ᱢᱮ
