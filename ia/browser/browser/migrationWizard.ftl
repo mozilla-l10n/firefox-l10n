@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importar ab file
 migration-import-from-file-button-label = Eliger file
 migration-cancel-button-label = Cancellar
 migration-done-button-label = Facite
+migration-continue-button-label = Continuar
 migration-wizard-import-browser-no-browsers = { -brand-short-name } non pote trovar ulle programmas que contine datos de marcapagina, chronologia o contrasigno.
 migration-wizard-import-browser-no-resources = Un error eveniva. { -brand-short-name } non pote trovar ulle datos a importar del profilo de ille navigator.
 
