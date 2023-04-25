@@ -97,6 +97,7 @@ migration-choose-to-import-from-file-button-label = Увези из датоте
 migration-import-from-file-button-label = Изабери датотеку
 migration-cancel-button-label = Откажи
 migration-done-button-label = Готово
+migration-continue-button-label = Настави
 migration-wizard-import-browser-no-browsers = { -brand-short-name } није успео да пронађе програме са подацима о обележивачима, историјом или лозинкама.
 migration-wizard-import-browser-no-resources = Дошло је до грешке. { -brand-short-name } није успео да пронађе податке за увоз из тог профила прегледача.
 

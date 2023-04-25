@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Користи { -relay-brand-short-name } маскирање е-поште
+    .accesskey = е
 main-context-menu-suggest-strong-password =
     .label = Предложи јаку лозинку…
     .accesskey = ж
