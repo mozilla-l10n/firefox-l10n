@@ -126,6 +126,33 @@ about-debugging-runtime-tabs =
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
     .name = ຕົວເຮັດວຽກບໍລິການ
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = ຕັດການເຊື່ອມຕໍ່
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = ເປີດໃຊ້ການເຕືອນການເຊື່ອມຕໍ່
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = ບໍ່ມີຫຍັງເທື່ອ.
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = ກວດກາ
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = ໂຫລດຄືນໃຫມ່
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = ລຶບ
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = UUID ພາຍໃນ
