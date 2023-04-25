@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Defnyddio Arallenw E-bost { -relay-brand-short-name }
+    .accesskey = D
 main-context-menu-suggest-strong-password =
     .label = Cynnig Cyfrinair Cryf...
     .accesskey = C
