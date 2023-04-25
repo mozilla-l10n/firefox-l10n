@@ -237,6 +237,9 @@ july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
 july-jam-body = ہر مہینے، { -brand-short-name } فی صارف اوسطاً 3,000 کنوں ودھ ٹریکر بلاک کریندے۔ جہڑا تہاکوں چنگے انٹرنیٹ تائیں محفوظ، تیز رفتار رسائی فراہم کریندے۔
 july-jam-set-default-primary = { -brand-short-name } دے نال میݙے لنک کھولو
 fox-doodle-pin-headline = واپسی تے ست بسم اللہ
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = اِتھ ہک فوری یاد دہانی ہے جو تساں آپݨے پسندیدہ انڈی براؤزر کوں صرف ہک کلک دی دوری تے رکھ سڳدے ہو۔
 fox-doodle-pin-primary = { -brand-short-name } دے نال میݙے لنک کھولو
 fox-doodle-pin-secondary = ہݨ کائناں
 
