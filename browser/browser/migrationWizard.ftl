@@ -188,3 +188,4 @@ migration-wizard-safari-instructions-continue = Seleziona “Continua”
 migration-wizard-safari-instructions-folder = Seleziona la cartella Safari nell’elenco e fai clic su “Apri”
 migration-wizard-safari-select-button = Seleziona file
 
+
