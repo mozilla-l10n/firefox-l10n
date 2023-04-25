@@ -18,6 +18,14 @@ dialog-title =
 dialog-title-everything =
     .title = Clirio'r Holl Hanes
     .style = width: 34em
+sanitize-dialog-title =
+    .title = Clirio'r Hanes Diweddar
+    .style = min-width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+sanitize-dialog-title-everything =
+    .title = Clirio'r Holl Hanes
+    .style = min-width: 34em
 clear-data-settings-label = Pan fyddai'n gadael { -brand-short-name } dylai glirio popeth yn awtomatig
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
