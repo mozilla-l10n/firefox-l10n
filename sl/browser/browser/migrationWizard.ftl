@@ -49,13 +49,13 @@ migration-selected-data-label = Uvozi izbrane podatke
 ##
 
 migration-select-all-option-label = Izberi vse
-migration-bookmarks-option-label = zaznamke
+migration-bookmarks-option-label = zaznamki
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = priljubljene
 migration-logins-and-passwords-option-label = shranjene prijave in gesla
-migration-history-option-label = zgodovino brskanja
-migration-form-autofill-option-label = podatke za izpolnjevanje obrazcev
+migration-history-option-label = zgodovina brskanja
+migration-form-autofill-option-label = podatki za izpolnjevanje obrazcev
 migration-passwords-from-file-success-header = Gesla so uspešno uvožena
 migration-passwords-from-file = Iskanje gesel v datoteki
 migration-passwords-new = Nova gesla
