@@ -1257,6 +1257,7 @@ preferences-doh-default-detailed-desc-5 = جہڑے ویلے نیٹ ورک ݙسی
 preferences-doh-setting-enabled =
     .label = ودھائی ہوئی حفاظت
     .accesskey = I
+preferences-doh-enabled-desc = تساں کنٹرول کریندے ہو جو محفوظ ڈی این ایس کݙݨ ورتوں تے آپݨا فراہم کرݨ آلا چݨو۔
 preferences-doh-enabled-detailed-desc-1 = جہڑا مہیاکار تساں چُݨیا ہے ورتو
 preferences-doh-enabled-detailed-desc-2 = جے محفوظ DNS  نال کوئی مسئلہ ہے تاں صرف آپݨا ڈیفالٹ DNS حل کرݨ آلا ورتو
 preferences-doh-setting-strict =

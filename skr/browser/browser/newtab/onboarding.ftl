@@ -36,6 +36,7 @@ return-to-amo-add-theme-label = تھیم شامل کرو
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = { -brand-short-name } نال سلام دعا کرو
+mr1-return-to-amo-addon-title = تہاکوں اپݨی انڳل دے ݙوݙے تے ہک تکھا، نجی براؤزر مل ڳیا ہے۔ ہݨ تساں <b>{ $addon-name }</b> کوں شامل کر سڳدے ہو تے { -brand-short-name } دے نال ودھیک کجھ کر سڳدے ہو۔
 mr1-return-to-amo-add-extension-label = { $addon-name } شامل کرو
 
 ## Multistage onboarding strings (about:welcome pages)
