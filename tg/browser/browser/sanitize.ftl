@@ -18,6 +18,14 @@ dialog-title =
 dialog-title-everything =
     .title = Пок кардани ҳамаи таърих
     .style = width: 34em
+sanitize-dialog-title =
+    .title = Пок кардани таърихи охирин
+    .style = min-width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+sanitize-dialog-title-everything =
+    .title = Пок кардани ҳамаи таърих
+    .style = min-width: 34em
 clear-data-settings-label = Вақте ки шумо браузерро мепӯшед, «{ -brand-short-name }» ҳамаро ба таври худкор тоза мекунад
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
