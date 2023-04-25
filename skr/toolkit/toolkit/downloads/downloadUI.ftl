@@ -7,6 +7,12 @@ download-ui-confirm-title = تمام ڈاؤن لوڈز منسوخ کرو؟
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] جے تساں ہݨ ٻاہر نکلدے ہو تاں 1 ڈاؤن لوڈز منسوخ تھی ویسی۔ بھلا تہاکوں یقین ہے جو تساں اتھوں نکلݨ چاہندے ہو؟
+        [one] جے تساں ہݨ ٻاہر نکلدے ہو تاں 1 ڈاؤن لوڈز منسوخ تھی ویسی۔ بھلا تہاکوں یقین ہے جو تساں اتھوں نکلݨ چاہندے ہو؟
+       *[other] جے تساں ہݨ ٻاہر نکلدے ہو تاں { $downloadsCount } ڈاؤن لوڈز منسوخ تھی ویسن۔ بھلا تہاکوں یقین ہے جو تساں اتھوں نکلݨ چاہندے ہو؟
+    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] نہ چھوڑو
