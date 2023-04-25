@@ -21,6 +21,11 @@ dialog-title-everything =
 sanitize-dialog-title =
     .title = Xóa các lịch sử gần đây
     .style = min-width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+sanitize-dialog-title-everything =
+    .title = Xóa toàn bộ lịch sử
+    .style = min-width: 34em
 clear-data-settings-label = Khi đóng, { -brand-short-name } sẽ xóa tất cả một cách tự động
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
