@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = ייבוא מקובץ
 migration-import-from-file-button-label = בחירת קובץ
 migration-cancel-button-label = ביטול
 migration-done-button-label = סיום
+migration-continue-button-label = המשך
 migration-wizard-import-browser-no-browsers = ‏{ -brand-short-name } לא הצליח למצוא תוכנות המכילות נתונים של סימניות, היסטוריה או ססמאות.
 migration-wizard-import-browser-no-resources = אירעה שגיאה. { -brand-short-name } לא יכול למצוא נתונים לייבא מפרופיל הדפדפן הזה.
 
