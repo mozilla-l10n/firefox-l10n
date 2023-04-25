@@ -41,6 +41,8 @@ options-inspector-draggable-properties-tooltip =
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = prefers-reduced-motion نال سوکھا ہائی لائٹر ورتو
+options-inspector-simplified-highlighters-tooltip =
+    .title = prefers-reduced-motion فعال تھیوݨ نال سادے ہائی لائٹرز فعال کریندا ہے۔ چمکدے اثرات کنوں بچݨ کیتے نمایاں تھئے عناصر دے گرد بھری ہوئی مستطیلاں دی بجائے لکیراں چھکیندا ہے۔
 
 ## "Default Color Unit" options for the Inspector
 

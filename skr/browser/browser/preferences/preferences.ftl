@@ -1234,6 +1234,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS تے DNS
+preferences-doh-description = HTTPS تے ڈومین نیم سسٹم (DNS) ہک خفیہ کنکشن دے ذریعے ڈومین ناں کیتے تہاݙی ارداس پٹھیندے، ہک محفوظ DNS بݨیندا ہے تے ٻنھاں کیتے ایہ اوکھیرا بݨیندا  ہے جو تساں کہڑی ویب سائٹ تائیں رسائی حاصل کرݨ آلے ہو۔
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = حالت: { $status }
