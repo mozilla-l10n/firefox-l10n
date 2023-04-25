@@ -99,6 +99,10 @@ about-debugging-setup-usb-updating-button = ກຳລັງອັບເດດ…
 about-debugging-setup-usb-status-enabled = ເປີດໃຊ້ງານແລ້ວ
 about-debugging-setup-usb-status-disabled = ປິດໃຊ້ງານແລ້ວ
 about-debugging-setup-usb-status-updating = ກຳລັງອັບເດດ…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = ເປີດໃຊ້ເມນູນັກພັດທະນາໃນອຸປະກອນ Android ຂອງທ່ານ.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = ເຊື່ອມ​ຕໍ່​ອຸ​ປະ​ກອນ Android ກັບ​ຄອມ​ພິວ​ເຕີ​ຂອງ​ທ່ານ​.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = ຕຳແໜ່ງທີ່ຕັ້ງເຄືອຂ່າຍ
@@ -117,6 +121,11 @@ about-debugging-network-locations-remove-button = ລຶບ
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = ການຂະຫຍາຍຊົ່ວຄາວ
 # Title of the extensions category.
 about-debugging-runtime-extensions =
     .name = ສ່ວນ​ຂະ​ຫຍາຍ
@@ -126,6 +135,18 @@ about-debugging-runtime-tabs =
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
     .name = ຕົວເຮັດວຽກບໍລິການ
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = ໂຕເຮັດວຽກທີ່ໃຊ້ຮ່ວມກັນ
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = ຕົວເຮັດວຽກອື່ນໆ
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = ຂະບວນການ
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = ປະສິດທິພາບໂປຣໄຟລ໌
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -136,6 +157,9 @@ about-debugging-runtime-disconnect-button = ຕັດການເຊື່ອມ
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is false on the target runtime.
 about-debugging-connection-prompt-enable-button = ເປີດໃຊ້ການເຕືອນການເຊື່ອມຕໍ່
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = ປິດການເຕືອນການເຊື່ອມຕໍ່
 
 # Debug Targets strings
 
@@ -152,6 +176,10 @@ about-debugging-tmp-extension-reload-button = ໂຫລດຄືນໃຫມ່
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = ລຶບ
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = Manifest URL
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
@@ -160,3 +188,20 @@ about-debugging-extension-uuid =
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = ຕຳແຫນ່ງທີ່ຕັ້ງ
+# Displayed for extension using a non-persistent background page (either an event page or
+# background service worker) when the background script is currently running.
+about-debugging-extension-backgroundscript-status-running = ກຳລັງເຮັດວຽກ
+# Displayed for extension using a non-persistent background page when is currently stopped.
+about-debugging-extension-backgroundscript-status-stopped = ຢຸດ
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = ຍົກເລີກການລົງທະບຽນ
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = ກຳລັງເຮັດວຽກ
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = ຢຸດ
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = ການລົງທະບຽນ
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = ຂອບເຂດ

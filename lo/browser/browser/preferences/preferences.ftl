@@ -569,6 +569,9 @@ containers-remove-button =
 
 sync-signedout-caption = ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ
 sync-signedout-description2 = ຊິ້ງຂໍ້ມູນບຸກມາກ, ປະຫວັດ, ແຖບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ ແລະການຕັ້ງຄ່າຂອງທ່ານໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
+sync-signedout-account-signin3 =
+    .label = ເຂົ້າສູ່ລະບົບເພື່ອ Sync...
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -583,6 +586,9 @@ sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n
 
 sync-profile-picture =
     .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
+sync-sign-out =
+    .label = ອອກ​ຈາກ​ລະ​ບົບ…
+    .accesskey = g
 sync-manage-account = ຈັດການບັນຊີ
     .accesskey = o
 

@@ -95,6 +95,7 @@ migration-choose-to-import-from-file-button-label = ນໍາເຂົ້າຈ�
 migration-import-from-file-button-label = ເລືອກ File
 migration-cancel-button-label = ຍົກເລີກ
 migration-done-button-label = ສຳເລັດ
+migration-continue-button-label = ສືບຕໍ່
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ບໍ່ສາມາດຊອກຫາໂປຣແກຣມໃດໆທີ່ມີບຸກມາກ, ປະຫວັດ ຫຼືຂໍ້ມູນລະຫັດຜ່ານ.
 migration-wizard-import-browser-no-resources = ມີຄວາມຜິດພາດ. { -brand-short-name } ບໍ່ສາມາດຊອກຫາຂໍ້ມູນໃດໆທີ່ຈະນໍາເຂົ້າຈາກໂປຣໄຟລ໌ບຣາວເຊີນັ້ນໄດ້.
 
