@@ -95,6 +95,7 @@ migration-choose-to-import-from-file-button-label = 파일에서 가져오기
 migration-import-from-file-button-label = 파일 선택
 migration-cancel-button-label = 취소
 migration-done-button-label = 완료
+migration-continue-button-label = 계속
 migration-wizard-import-browser-no-browsers = { -brand-short-name }는 북마크, 기록 또는 비밀번호 데이터가 포함된 프로그램을 찾을 수 없습니다.
 migration-wizard-import-browser-no-resources = 오류가 발생했습니다. { -brand-short-name }는 해당 브라우저 프로필에서 가져올 데이터를 찾을 수 없습니다.
 
