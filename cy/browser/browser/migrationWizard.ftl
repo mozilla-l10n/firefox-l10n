@@ -111,6 +111,7 @@ migration-choose-to-import-from-file-button-label = Mewnforio o Ffeil
 migration-import-from-file-button-label = Dewis Ffeil
 migration-cancel-button-label = Diddymu
 migration-done-button-label = Gorffen
+migration-continue-button-label = Parhau
 migration-wizard-import-browser-no-browsers = Nid yw { -brand-short-name } wedi gallu dod o hyd i unrhyw raglenni sy'n cynnwys data nod tudalen, hanes neu gyfrinair.
 migration-wizard-import-browser-no-resources = Bu gwall. Nid oedd { -brand-short-name } wedi gallu dod o hyd i unrhyw ddata i'w fewnforio o'r proffil porwr hwnnw.
 
