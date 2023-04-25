@@ -217,6 +217,7 @@ permissions-site-microphone-disable-desc = ایہ اوتے درج نہ تھیو�
 permissions-site-speaker-window =
     .title = ترتیباں - سپیکر اجازتاں
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = انہاں ویب سائٹاں آڈیو آؤٹ پُٹ ڈیوائس چݨݨ کیتے ارداس کیتی ہے۔ تساں ایہ ݙسا سڳدے ہو جو کہڑیاں ویب سائٹاں کوں آڈیو آؤٹ پُٹ ڈیوائس چݨݨ دی اجازت ہے۔
 permissions-exceptions-doh-window =
     .title = HTTPS  تے DNS کیتے ویب سائٹ مستثنیات
     .style = { permissions-window2.style }
