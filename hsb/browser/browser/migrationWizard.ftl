@@ -107,6 +107,7 @@ migration-choose-to-import-from-file-button-label = Z dataje importować
 migration-import-from-file-button-label = Dataju wubrać
 migration-cancel-button-label = Přetorhnyć
 migration-done-button-label = Dokónčeny
+migration-continue-button-label = Dale
 migration-wizard-import-browser-no-browsers = { -brand-short-name } njemóžeše programy namakać, kotrež daty zapołožkow, historije abo hesłow wobsahować.
 migration-wizard-import-browser-no-resources = Zmylk je nastał. { -brand-short-name } njemóže daty namakać, kotrež dadźa so z toho profila wobhladowaka importować.
 
