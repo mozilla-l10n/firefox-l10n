@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Uit bestand importeren
 migration-import-from-file-button-label = Bestand selecteren
 migration-cancel-button-label = Annuleren
 migration-done-button-label = Gereed
+migration-continue-button-label = Doorgaan
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kan geen programma’s met bladwijzer-, geschiedenis- of wachtwoordgegevens vinden.
 migration-wizard-import-browser-no-resources = Er is een fout opgetreden. { -brand-short-name } kan geen uit dat browserprofiel te importeren gegevens vinden.
 
