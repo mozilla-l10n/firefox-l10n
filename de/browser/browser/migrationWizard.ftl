@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Passwörter aus CSV-Datei
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,9 +58,12 @@ migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Passwörter
 migration-history-option-label = Chronik
 migration-form-autofill-option-label = Daten für Formular-Autovervollständigung
+migration-passwords-from-file-progress-header = Passwort-Datei importieren
 migration-passwords-from-file-success-header = Passwörter erfolgreich importiert
+migration-passwords-from-file = Datei wird auf Passwörter überprüft
 migration-passwords-new = Neue Passwörter
 migration-passwords-updated = Bestehende Passwörter
+migration-passwords-from-file-picker-title = Passwort-Datei importieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -95,8 +99,11 @@ migration-wizard-progress-success-updated-passwords =
        *[other] { $updatedEntries } aktualisiert
     }
 migration-import-button-label = Importieren
+migration-choose-to-import-from-file-button-label = Aus Datei importieren
+migration-import-from-file-button-label = Datei auswählen
 migration-cancel-button-label = Abbrechen
 migration-done-button-label = Fertig
+migration-continue-button-label = Weiter
 migration-wizard-import-browser-no-browsers = { -brand-short-name } konnte keine Programme finden, die Lesezeichen-, Chronik- oder Passwortdaten enthalten.
 migration-wizard-import-browser-no-resources = Ein Fehler ist aufgetreten. { -brand-short-name } kann keine Daten aus diesem Browser-Profil zum Importieren finden.
 
