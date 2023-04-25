@@ -107,6 +107,7 @@ migration-choose-to-import-from-file-button-label = Importovať zo súboru
 migration-import-from-file-button-label = Vybrať súbor
 migration-cancel-button-label = Zrušiť
 migration-done-button-label = Hotovo
+migration-continue-button-label = Pokračovať
 migration-wizard-import-browser-no-browsers = { -brand-short-name } nenašiel žiadne programy, ktoré obsahujú údaje o záložkách, histórii prehliadania alebo heslách.
 migration-wizard-import-browser-no-resources = Vyskytla sa chyba. { -brand-short-name } nemôže nájsť žiadne údaje na importovanie z daného profilu prehliadača.
 
