@@ -107,6 +107,7 @@ migration-choose-to-import-from-file-button-label = Z dataje importěrowaś
 migration-import-from-file-button-label = Dataju wubraś
 migration-cancel-button-label = Pśetergnuś
 migration-done-button-label = Gótowo
+migration-continue-button-label = Dalej
 migration-wizard-import-browser-no-browsers = { -brand-short-name } njejo mógł programy namakaś, kótarež daty cytańskich znamjenjow, historije abo gronidłow wopśimowaś.
 migration-wizard-import-browser-no-resources = Zmólka jo nastała. { -brand-short-name } njamóžo daty namakaś, kótarež daju se z togo profila wobglědowaka importěrowaś.
 
