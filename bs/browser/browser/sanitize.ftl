@@ -21,6 +21,11 @@ dialog-title-everything =
 sanitize-dialog-title =
     .title = Obriši skorašnju historiju
     .style = min-width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+sanitize-dialog-title-everything =
+    .title = Obriši cijelu historiju
+    .style = min-width: 34em
 clear-data-settings-label = Pri zatvaranju, { -brand-short-name } će automatski brisati sve
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
