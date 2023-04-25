@@ -770,7 +770,7 @@ sync-manage-account = Управљај налогом
 ## $email (string) - Email used for Firefox account
 
 sync-signedin-unverified = { $email } није потврђен.
-sync-signedin-login-failure = Пријавите се да бисте се поново повезали са { $email }
+sync-signedin-login-failure = Пријавите се да поново повежете { $email }
 
 ##
 
