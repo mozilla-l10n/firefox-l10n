@@ -156,3 +156,7 @@ about-debugging-tmp-extension-remove-button = ລຶບ
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
     .label = UUID ພາຍໃນ
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = ຕຳແຫນ່ງທີ່ຕັ້ງ
