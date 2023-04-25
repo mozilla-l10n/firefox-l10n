@@ -24,7 +24,7 @@ sanitize-dialog-title =
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = تمام تاریخ خالی کرو
+    .title = یکی تاریخ صاف کرو
     .style = min-width: 34em
 clear-data-settings-label = جݙاں بند ہووے، { -brand-short-name } سبھ کجھ آپݨے آپ خالی کر سڳدا ہے
 

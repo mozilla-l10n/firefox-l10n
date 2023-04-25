@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = فائل کنوں امپور
 migration-import-from-file-button-label = فائل چݨو
 migration-cancel-button-label = منسوخ
 migration-done-button-label = تھی ڳیا
+migration-continue-button-label = جاری
 migration-wizard-import-browser-no-browsers = { -brand-short-name } کوئی اینجھے پروگرام کائنی لبھ سڳا جیندے وچ نشانی، تاریخ یا پاس ورڈ ڈیٹا شامل ہووے۔
 migration-wizard-import-browser-no-resources = ہک خرابی ہائی۔ اوں براؤزر پروفائل کنوں امپورٹ کرݨ کیتے { -brand-short-name } کوئی ڈیٹا کائنی لبھ سڳا۔
 

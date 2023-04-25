@@ -38,6 +38,9 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = سائز دیاں قدراں وِچ ترمیم کرݨ کیتے کلک کرو تے گھیلو
 options-inspector-draggable-properties-tooltip =
     .title = معائنہ کار رولز ویو وِچ سائز قدراں وِچ ترمیم کرݨ کیتے کلک کرو تے گھیلو۔
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = prefers-reduced-motion نال سوکھا ہائی لائٹر ورتو
 
 ## "Default Color Unit" options for the Inspector
 

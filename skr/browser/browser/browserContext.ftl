@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = { -relay-brand-short-name } ای میل مسسک ورتو
+    .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = تکڑا پاس ورڈ تجویز کرو…
     .accesskey = S
