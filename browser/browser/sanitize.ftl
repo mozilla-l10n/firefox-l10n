@@ -18,6 +18,9 @@ dialog-title =
 dialog-title-everything =
     .title = מחיקת כל ההיסטוריה
     .style = width: 34em
+sanitize-dialog-title =
+    .title = ניקוי היסטוריה אחרונה
+    .style = min-width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
