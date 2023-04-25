@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importar de arquivo
 migration-import-from-file-button-label = Selecionar arquivo
 migration-cancel-button-label = Cancelar
 migration-done-button-label = Concluído
+migration-continue-button-label = Avançar
 migration-wizard-import-browser-no-browsers = O { -brand-short-name } não conseguiu encontrar nenhum programa que contenha dados de favoritos, histórico ou senhas.
 migration-wizard-import-browser-no-resources = Ocorreu um erro. O { -brand-short-name } não encontrou nenhum dado para importar desse perfil de navegador.
 
