@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Utilizar a máscara de e-mail do { -relay-brand-short-name }
+    .accesskey = U
 main-context-menu-suggest-strong-password =
     .label = Sugerir palavra-passe forte…
     .accesskey = S

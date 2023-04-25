@@ -226,28 +226,6 @@ colorways-cfr-header-today = Os estilos de cor de Independent Voices expiram hoj
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Desapareçam faixas de cookies!
-cfr-cookiebanner-body = Deixar o { -brand-short-name } rejeitar automaticamente todos os pedidos de cookies, sempre que possível.
-cfr-cookiebanner-accept-button-v2 = Rejeitar Pedidos
-    .accesskey = R
-cfr-cookiebanner-reject-button = Agora não
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Ver menos pop-ups de cookies
-cfr-cookiebanner-body-variant-1 = Permitir que o { -brand-short-name } responda automaticamente a pop-ups de cookies para que possa voltar a navegar sem distrações. O { -brand-short-name } irá rejeitar todos os pedidos, se for possível.
-cfr-cookiebanner-accept-button-variant-1 = Ignorar pop-ups
-    .accesskey = I
-cfr-cookiebanner-reject-button-variant-1 = Não, obrigado
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Redução de Faixas de Cookies
-cfr-cookiebanner-body-variant-2 = Reduza a quantidade de faixas de cookies que vê, deixando o { -brand-short-name } rejeitar o pedido de consentimento de cookies de um site (se for possível).
-cfr-cookiebanner-accept-button-variant-2 = Permitir
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Agora não
-    .accesskey = n
-
-## Cookie Banner Handling CFR
-
 cfr-cbh-header = Permitir que o { -brand-short-name } rejeite faixas de cookies?
 cfr-cbh-body = O { -brand-short-name } pode rejeitar automaticamente muitos pedidos de faixas de cookies.
 cfr-cbh-confirm-button = Rejeitar faixas de cookies
@@ -260,6 +238,7 @@ cfr-cbh-dismiss-button = Agora não
 july-jam-headline = Estamos consigo
 july-jam-body = Todos os meses o { -brand-short-name } bloqueia uma média de mais de 3.000 rastreadores por utilizador, permitindo que possa ter um acesso rápido e seguro à melhor Internet.
 july-jam-set-default-primary = Abrir as minhas ligações com o { -brand-short-name }
+fox-doodle-pin-headline = Bem-vindo(a) de volta
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
