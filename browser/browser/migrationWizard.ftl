@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Ut bestân ymportearje
 migration-import-from-file-button-label = Bestân selektearje
 migration-cancel-button-label = Annulearje
 migration-done-button-label = Dien
+migration-continue-button-label = Trochgean
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kin gjin programma’s mei blêdwizer-, skiednis- of wachtwurdgegevens fine.
 migration-wizard-import-browser-no-resources = Der is in flater bard. { -brand-short-name } kin gjin út dat browserprofyl te ymportearjen gegevens fine.
 
