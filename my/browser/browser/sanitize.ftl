@@ -21,6 +21,11 @@ dialog-title-everything =
 sanitize-dialog-title =
     .title = လတ်တလောမှတ်တမ်းကို ရှင်းလင်းရန်
     .style = min-width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+sanitize-dialog-title-everything =
+    .title = မှတ်တမ်းအားလုံးကို ရှင်းပါမည်
+    .style = min-width: 34em
 clear-data-settings-label = ပိတ်သည့်အခါ { -brand-short-name } နှင့်ဆိုင်သည့်အချက်အလက်များကို အလိုအလျောက် ရှင်းလင်းသင့်တယ်
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
