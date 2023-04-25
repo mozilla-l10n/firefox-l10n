@@ -18,6 +18,14 @@ dialog-title =
 dialog-title-everything =
     .title = ᱡᱷᱚᱛᱚ ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
     .style = width: 34em
+sanitize-dialog-title =
+    .title = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+    .style = min-width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+sanitize-dialog-title-everything =
+    .title = ᱡᱷᱚᱛᱚ ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+    .style = min-width: 34em
 clear-data-settings-label = ᱵᱚᱱᱫ ᱞᱟᱠᱷᱟᱱ, { -brand-short-name } ᱫᱚ ᱟᱡ ᱛᱮ ᱡᱷᱚᱛᱚ ᱥᱟᱯᱷᱟᱭᱟᱭ
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
