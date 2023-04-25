@@ -18,6 +18,14 @@ dialog-title =
 dialog-title-everything =
     .title = پاک‌سازی تمام تاریخچه
     .style = width: 34em
+sanitize-dialog-title =
+    .title = پاک‌سازی تاریخچهٔ اخیر
+    .style = min-width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+sanitize-dialog-title-everything =
+    .title = پاک‌سازی تمام تاریخچه
+    .style = min-width: 34em
 clear-data-settings-label = هنگام بسته شدن، { -brand-short-name } باید همه را به طور خودکار پاک کند
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
