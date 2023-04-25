@@ -1236,9 +1236,23 @@ httpsonly-radio-disabled =
 preferences-doh-header = DNS sobre HTTPS
 preferences-doh-description = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, criando um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 # Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Estado: { $status }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Fornecedor: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL inválido
+preferences-doh-steering-status = A utilizar um fornecedor local
+preferences-doh-status-active = Ativo
+preferences-doh-status-disabled = Desligado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Inativo ({ $reason })
 preferences-doh-group-message = Ative o DNS seguro usando:
+preferences-doh-expand-section =
+    .tooltiptext = Mais informação
 preferences-doh-default-desc = O { -brand-short-name } decide quando usar DNS seguro para proteger a sua privacidade.
 preferences-doh-default-detailed-desc-1 = Use DNS seguro em regiões onde está disponível
 preferences-doh-default-detailed-desc-2 = Use o seu resolvedor de DNS padrão se houver um problema com o fornecedor de DNS seguro
@@ -1248,10 +1262,14 @@ preferences-doh-enabled-detailed-desc-2 = Utilize o seu resolvedor de DNS padrã
 preferences-doh-strict-desc = O { -brand-short-name } utilizará sempre DNS seguro. Irá ver um aviso de risco de segurança antes de utilizarmos o DNS do seu sistema.
 preferences-doh-strict-detailed-desc-2 = Avisar sempre que o DNS seguro não estiver disponível
 preferences-doh-strict-detailed-desc-3 = Se o DNS seguro não estiver disponível, os sites não serão carregados ou não funcionarão corretamente
+preferences-doh-setting-off =
+    .label = Desligado
+    .accesskey = D
 preferences-doh-off-desc = Use o seu resolvedor de DNS padrão
 preferences-doh-checkbox-warn =
     .label = Avisar se um terceiro impede ativamente a segurança do DNS
     .accesskey = A
+preferences-doh-select-resolver = Escolha o fornecedor:
 preferences-doh-exceptions-description = O { -brand-short-name } não utilizará DNS seguro nestes sites
 
 ## The following strings are used in the Download section of settings
