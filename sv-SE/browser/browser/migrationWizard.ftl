@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importera från fil
 migration-import-from-file-button-label = Välj fil
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Klar
+migration-continue-button-label = Fortsätt
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kunde inte hitta några program som innehåller bokmärkes-, historik- eller lösenordsdata.
 migration-wizard-import-browser-no-resources = Det uppstod ett problem. { -brand-short-name } kan inte hitta någon data att importera från den webbläsarprofilen.
 
