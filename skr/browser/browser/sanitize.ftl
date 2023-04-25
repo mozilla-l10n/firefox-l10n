@@ -18,6 +18,9 @@ dialog-title =
 dialog-title-everything =
     .title = تمام تاریخ خالی کرو
     .style = width: 34em
+sanitize-dialog-title =
+    .title = حالیہ تاریخ صاف کرو
+    .style = min-width: 34em
 clear-data-settings-label = جݙاں بند ہووے، { -brand-short-name } سبھ کجھ آپݨے آپ خالی کر سڳدا ہے
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
