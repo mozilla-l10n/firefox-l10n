@@ -95,6 +95,7 @@ migration-choose-to-import-from-file-button-label = Nhập từ tập tin
 migration-import-from-file-button-label = Chọn tập tin
 migration-cancel-button-label = Hủy bỏ
 migration-done-button-label = Xong
+migration-continue-button-label = Tiếp tục
 migration-wizard-import-browser-no-browsers = { -brand-short-name } không thể tìm thấy bất kỳ chương trình nào chứa dữ liệu dấu trang, lịch sử hoặc mật khẩu.
 migration-wizard-import-browser-no-resources = Có lỗi đã xảy ra. { -brand-short-name } không thể tìm thấy bất kỳ dữ liệu nào để nhập từ hồ sơ trình duyệt đó.
 

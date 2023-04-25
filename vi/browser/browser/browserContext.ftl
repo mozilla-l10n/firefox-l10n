@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Sử dụng mặt nạ email { -relay-brand-short-name }
+    .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Đề xuất mật khẩu mạnh…
     .accesskey = S
