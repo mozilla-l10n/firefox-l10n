@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Flytja inn úr skrá
 migration-import-from-file-button-label = Veldu skrá
 migration-cancel-button-label = Hætta við
 migration-done-button-label = Lokið
+migration-continue-button-label = Halda áfram
 migration-wizard-import-browser-no-browsers = { -brand-short-name } fann engin forrit sem innihalda bókamerki, feril eða lykilorðagögn.
 migration-wizard-import-browser-no-resources = Upp kom villa. { -brand-short-name } finnur engin gögn til að flytja inn úr þessu vafrasniði.
 
