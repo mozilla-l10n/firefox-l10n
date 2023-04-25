@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importar de um Ficheiro
 migration-import-from-file-button-label = Selecionar Ficheiro
 migration-cancel-button-label = Cancelar
 migration-done-button-label = Concluído
+migration-continue-button-label = Continuar
 migration-wizard-import-browser-no-browsers = O { -brand-short-name } não conseguiu encontrar nenhum programa que contenha dados de marcadores, histórico ou palavras-passe.
 migration-wizard-import-browser-no-resources = Ocorreu um erro. O { -brand-short-name } não conseguiu importar nenhum dado desse perfil de navegador.
 
@@ -132,5 +133,54 @@ migration-safari-password-import-header = Importar palavras-passe do Safari
 migration-safari-password-import-steps-header = Para importar palavras-passe do Safari:
 migration-safari-password-import-step1 = No Safari, abra o menu “Safari” e aceda a Preferências > Palavras-passe
 migration-safari-password-import-step2 = Selecione o botão <img data-l10n-name="safari-icon-3dots"/> e escolha “Exportar todas as palavras-passe”
+migration-safari-password-import-step3 = Guardar ficheiro de palavras-passe
+migration-safari-password-import-step4 = Utilize “Selecionar ficheiro” abaixo para escolher o ficheiro de palavras-passe que guardou
 migration-safari-password-import-skip-button = Ignorar
+migration-safari-password-import-select-button = Selecionar ficheiro
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } marcador
+       *[other] { $quantity } marcadores
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favorito
+       *[other] { $quantity } favoritos
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } palavra-passe
+       *[other] { $quantity } palavras-passe
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Do último dia
+       *[other] Dos últimos { $maxAgeInDays } dias
+    }
+migration-wizard-progress-success-formdata = Histórico de formulários
+migration-wizard-safari-permissions-sub-header = Para importar os favoritos e histórico de navegação do Safari:
+migration-wizard-safari-instructions-continue = Selecione “Continuar”
+migration-wizard-safari-instructions-folder = Selecione a pasta Safari na lista e escolha “Abrir”
 migration-wizard-safari-select-button = Selecionar Ficheiro
