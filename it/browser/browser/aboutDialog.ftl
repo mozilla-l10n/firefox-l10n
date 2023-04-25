@@ -41,3 +41,4 @@ bottomLinks-rights = Diritti dell’utente finale
 bottomLinks-privacy = Informativa sulla privacy
 aboutDialog-version = { $version } ({ $bits } bit)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits } bit)
+

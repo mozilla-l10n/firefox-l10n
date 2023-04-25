@@ -509,3 +509,4 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Rivela password
     .accesskey = v
+
