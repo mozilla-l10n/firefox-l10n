@@ -1254,6 +1254,10 @@ preferences-doh-setting-default =
 preferences-doh-setting-enabled =
     .label = Муҳофизати тақвиятёфта
     .accesskey = М
+preferences-doh-select-resolver = Интихоби таъминкунанда:
+preferences-doh-manage-exceptions =
+    .label = Идоракунии истисноҳо…
+    .accesskey = И
 
 ## The following strings are used in the Download section of settings
 
