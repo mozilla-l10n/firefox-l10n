@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Выкарыстаць маску эл. пошты { -relay-brand-short-name }
+    .accesskey = у
 main-context-menu-suggest-strong-password =
     .label = Прапанаваць надзейны пароль…
     .accesskey = ы
