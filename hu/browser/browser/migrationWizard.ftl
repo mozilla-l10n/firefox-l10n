@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importálás fájlból
 migration-import-from-file-button-label = Fájl kiválasztása
 migration-cancel-button-label = Mégse
 migration-done-button-label = Kész
+migration-continue-button-label = Folytatás
 migration-wizard-import-browser-no-browsers = A { -brand-short-name } nem talált olyan programot, amely könyvjelzőket, előzményeket vagy jelszóadatokat tartalmazna.
 migration-wizard-import-browser-no-resources = Hiba történt. A { -brand-short-name } nem talált importálandó adatot abból a böngészőprofilból.
 
