@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Использовать псевдоним эл. почты { -relay-brand-short-name }
+    .accesskey = н
 main-context-menu-suggest-strong-password =
     .label = Предложить надежный пароль…
     .accesskey = ж
