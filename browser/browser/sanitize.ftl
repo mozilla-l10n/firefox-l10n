@@ -24,7 +24,7 @@ sanitize-dialog-title =
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Minden előzmény törlése
+    .title = Összes előzmény törlése
     .style = min-width: 34em
 clear-data-settings-label = Bezáráskor a { -brand-short-name } mindent távolítson el automatikusan
 
