@@ -239,6 +239,11 @@ july-jam-headline = Estamos consigo
 july-jam-body = Todos os meses o { -brand-short-name } bloqueia uma média de mais de 3.000 rastreadores por utilizador, permitindo que possa ter um acesso rápido e seguro à melhor Internet.
 july-jam-set-default-primary = Abrir as minhas ligações com o { -brand-short-name }
 fox-doodle-pin-headline = Bem-vindo(a) de volta
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Eis uma nota rápida para lembrar que pode manter o seu navegador indie favorito apenas a um clique de distância.
+fox-doodle-pin-primary = Abrir as minhas ligações com o { -brand-short-name }
+fox-doodle-pin-secondary = Agora não
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
