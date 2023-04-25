@@ -95,6 +95,7 @@ migration-choose-to-import-from-file-button-label = 從檔案匯入
 migration-import-from-file-button-label = 選擇檔案
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
+migration-continue-button-label = 繼續
 migration-wizard-import-browser-no-browsers = { -brand-short-name } 找不到任何包含書籤、瀏覽紀錄或密碼的程式。
 migration-wizard-import-browser-no-resources = 發生錯誤。{ -brand-short-name } 無法從該瀏覽器設定檔找到任何可匯入的資料。
 
