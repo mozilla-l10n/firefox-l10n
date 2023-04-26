@@ -269,6 +269,8 @@ appmenu-help-enter-troubleshoot-mode2 =
 appmenu-help-exit-troubleshoot-mode =
     .label = Disattiva Modalità risoluzione problemi
     .accesskey = m
+appmenu-help-switch-device =
+    .label = Passaggio a un nuovo dispositivo
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

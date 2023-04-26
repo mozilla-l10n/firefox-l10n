@@ -324,6 +324,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Disattiva Modalità risoluzione problemi
     .accesskey = m
+menu-help-switch-device =
+    .label = Passaggio a un nuovo dispositivo
+    .accesskey = P
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
