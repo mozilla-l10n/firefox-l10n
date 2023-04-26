@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Marandurendágui jegueru
 migration-import-from-file-button-label = Eiporavo Marandurenda
 migration-cancel-button-label = Heja
 migration-done-button-label = Apopyre
+migration-continue-button-label = Ku’ejey
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ndojuhúi apopyre orekóva mba’ekuaarã techaukaha, tembiasakue térã ñe’ẽñemi rehegua.
 migration-wizard-import-browser-no-resources = Oiko jejavy. { -brand-short-name } ndojuhúi mba’ekuaarã omba’egueru hag̃ua kundahára mba’ete guive.
 
