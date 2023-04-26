@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pausa
-    .title = Pausa (Barra de Espaço)
-pictureinpicture-play-cmd =
-    .aria-label = Reproduzir
-    .title = Reproduzir (Barra de Espaço)
-pictureinpicture-mute-cmd =
-    .aria-label = Silenciar
-    .title = Silenciar ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Repor som
-    .title = Repor som ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Enviar para o separador
-    .title = Para o separador
-pictureinpicture-close-cmd =
-    .aria-label = Fechar
-    .title = Fechar ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Legendas
-    .title = Legendas
 pictureinpicture-pause-btn =
     .aria-label = Pausa
     .tooltip = Pausa (Barra de Espaço)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Ecrã completo
-    .title = Ecrã completo (duplo clique)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Sair do ecrã completo
-    .title = Sair do ecrã completo (duplo clique)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Retroceder
-    .title = Retroceder (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Avançar
-    .title = Avançar (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Ecrã completo
     .tooltip = Ecrã completo (duplo clique)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Avançar
     .tooltip = Avançar (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Definições das legendas
 pictureinpicture-subtitles-label = Legendas
 pictureinpicture-font-size-label = Tamanho do tipo de letra
 pictureinpicture-font-size-small = Pequeno
