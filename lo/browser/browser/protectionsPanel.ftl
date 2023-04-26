@@ -11,6 +11,8 @@ protections-panel-sitefixedsendreport-label = ເວັບໄຊແກ້ໄຂ�
 
 protections-popup-footer-protection-label-strict = ເຂັ້ມງວດ
     .label = ເຂັ້ມງວດ
+protections-popup-footer-protection-label-custom = ກຳນົດເອງ
+    .label = ກຳນົດເອງ
 protections-popup-footer-protection-label-standard = ​ມາດ​ຕະ​ຖານ
     .label = ​ມາດ​ຕະ​ຖານ
 
@@ -68,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = ແບບຟອມ
 protections-panel-site-not-working-view-issue-list-payments = ການຊໍາລະເງິນ
 protections-panel-site-not-working-view-issue-list-comments = ຄຳເຫັນ
 protections-panel-site-not-working-view-issue-list-videos = ວິດີໂອ
+protections-panel-site-not-working-view-issue-list-fonts = ຟັອນ
 protections-panel-site-not-working-view-send-report = ສົ່ງບົດລາຍງານ
 
 ##
@@ -81,6 +84,9 @@ protections-panel-description-shim-allowed = ບາງຕົວຕິດຕາ�
 protections-panel-description-shim-allowed-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 protections-panel-shim-allowed-indicator =
     .tooltiptext = ປົດບລັອກຕົວຕິດຕາມບາງສ່ວນແລ້ວ
+protections-panel-content-blocking-manage-settings =
+    .label = ຈັດການການຕັ້ງຄ່າການປົກປ້ອງ
+    .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = ລາຍງານເວັບໄຊທີ່ມີບັນຫາ
 protections-panel-content-blocking-breakage-report-view-description = ການຂັດຂວາງຕົວຕິດຕາມທີ່ແນ່ນອນສາມາດເຮັດໃຫ້ເກີດບັນຫາກັບບາງເວັບໄຊທ໌. ການລາຍງານບັນຫາເຫຼົ່ານີ້ຊ່ວຍເຮັດໃຫ້ { -brand-short-name } ດີຂຶ້ນສຳລັບທຸກຄົນ. ການສົ່ງບົດລາຍງານນີ້ຈະສົ່ງ URL ແລະຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າຕົວທ່ອງເວັບຂອງທ່ານໄປຫາ Mozilla. <label data-l10n-name="learn-more">ສຶກສາເພີ່ມເຕີມ</label>
