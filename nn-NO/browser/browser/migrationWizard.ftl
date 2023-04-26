@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importer frå fil
 migration-import-from-file-button-label = Vel fil
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
+migration-continue-button-label = Hald fram
 migration-wizard-import-browser-no-browsers = { -brand-short-name } klarte ikkje å finne noko program som inneheld bokmerke-, historikk- eller passord-data.
 migration-wizard-import-browser-no-resources = Det oppstod eit problem. { -brand-short-name } kan ikkje finne data å importere frå den nettlesarprofilen.
 
