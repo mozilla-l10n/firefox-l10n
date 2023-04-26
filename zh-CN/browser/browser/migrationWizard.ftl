@@ -95,6 +95,7 @@ migration-choose-to-import-from-file-button-label = 从文件导入
 migration-import-from-file-button-label = 选择文件
 migration-cancel-button-label = 取消
 migration-done-button-label = 完成
+migration-continue-button-label = 继续
 migration-wizard-import-browser-no-browsers = { -brand-short-name } 找不到存有书签、历史记录或密码数据的程序。
 migration-wizard-import-browser-no-resources = 出错了。{ -brand-short-name } 在所选的浏览器配置文件中找不到数据。
 
