@@ -111,6 +111,7 @@ migration-import-from-file-button-label = Seleziona file
 
 migration-cancel-button-label = Annulla
 migration-done-button-label = Fatto
+migration-continue-button-label = Continua
 migration-wizard-import-browser-no-browsers = Non è stato possibile trovare alcun programma che contenga segnalibri, cronologia o password.
 migration-wizard-import-browser-no-resources = Si è verificato un errore. Non è stato possibile importare alcun dato dal profilo del browser.
 
