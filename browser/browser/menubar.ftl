@@ -331,6 +331,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Hibakeresési mód bekapcsolása
     .accesskey = b
+menu-help-switch-device =
+    .label = Váltás egy új eszközre
+    .accesskey = j
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
