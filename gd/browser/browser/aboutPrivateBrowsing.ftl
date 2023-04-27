@@ -22,12 +22,10 @@ about-private-browsing-not-private = Chan eil thu ann an uinneag phrìobhaideach
 about-private-browsing-info-description-private-window = Uinneag phrìobhaideach: Falamhaichidh { -brand-short-name } eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dhùineas tu na h-uinneagan prìobhaideach air fad. Chan eil sin gad fhàgail gu tur gun urra ge-tà.
 about-private-browsing-info-description-simplified = Uinneag phrìobhaideach: Falamhaichidh { -brand-short-name } eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dhùineas tu na h-uinneagan prìobhaideach air fad ach chan eil sin gad fhàgail gu tur gun urra ge-tà.
 about-private-browsing-learn-more-link = Barrachd fiosrachaidh
-
 about-private-browsing-hide-activity = Falaich do ghnìomhachd is ionad, ge be càit an dèan thu brabhsadh
 about-private-browsing-get-privacy = Dìon do phrìobhaideachd ge be càit an dèan thu brabhsadh
 about-private-browsing-hide-activity-1 = Falaich do ghnìomhachd brabhsaidh is d’ ionad le { -mozilla-vpn-brand-name }. Gheibh thu ceangal tèarainte le aon bhriogadh, fiù air WiFi poblach.
 about-private-browsing-prominent-cta = Dìon do phrìobhaideachd le { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Luchdaich a-nuas { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Brabhsadh prìobhaideach air an rathad
 about-private-browsing-focus-promo-text = Falamhaichidh an aplacaid brabhsaidh phrìobhaideach shònraichte againn an eachdraidh is na briosgaidean agad gach turas.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Dèan brabhsadh prìobhaideach fi�
 about-private-browsing-focus-promo-text-b = Cleachd { -focus-brand-name } airson lorg prìobhaideach a dhèanamh nach eil thu airson ’s gum faic am prìomh bhrabhsair mobile agad e.
 about-private-browsing-focus-promo-header-c = An ath-cheum de phrìobhaideachd mobile
 about-private-browsing-focus-promo-text-c = Falamhaichidh { -focus-brand-name } an eachdraidh agad gach turas agus bacaidh e sanasachd is tracaichean.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,9 +48,22 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Dùin
-
 about-private-browsing-promo-close-button =
     .title = Dùin
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Brabhsadh prìobhaideach ann am briogadh
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Cùm air an doca
+       *[other] Prìnich ri bàr nan saothair
+    }
+about-private-browsing-pin-promo-title = Gun eachdraidh ’s gun bhriosgaidean gan sàbhaladh, air an desktop fhèin. Dèan brabhsadh mar nach eil duine sam bith a’ cumail sùil ort.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Uam-sa brataichean nam briosgaidean!
+about-private-browsing-cookie-banners-promo-button = Nas lugha de bhrataichean bhriosgaidean
