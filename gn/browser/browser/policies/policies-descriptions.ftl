@@ -116,6 +116,8 @@ policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eipurukuaa pe
 policy-SearchSuggestEnabled = Emyandy térã embogue jeheka rehegua.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Emohenda PKCS # 11 ra’ãha.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Embojuaju térã eipe’a PKCS #11 ta’ãha.
 policy-ShowHomeButton = Ehechauka ñepyrũha votõ tembipuru rendápe.
 policy-SSLVersionMax = Emboheko SSL rembiapokue ipyahuvéva.
 policy-SSLVersionMin = Emboheko SSL rembiapokue oiko’ivéva.
