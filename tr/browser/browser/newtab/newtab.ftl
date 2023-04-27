@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Ara
     .aria-label = Ara
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } ile arama yapın veya adres yazın
 newtab-search-box-handoff-text-no-engine = Arama yapın veya adres yazın
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = { $engine } ile arama yapın veya adres yazın
     .title = { $engine } ile arama yapın veya adres yazın
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Arama yapın veya adres yazın
     .title = Arama yapın veya adres yazın
     .aria-label = Arama yapın veya adres yazın
-
 newtab-search-box-text = Web’de ara
 newtab-search-box-input =
     .placeholder = Web’de ara
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Kısayolu düzenle
 newtab-topsites-title-label = Başlık
 newtab-topsites-title-input =
     .placeholder = Başlık yazın
-
 newtab-topsites-url-label = Adres
 newtab-topsites-url-input =
     .placeholder = Adres yazın ve yapıştırın
 newtab-topsites-url-validation = Geçerli bir adres gerekli
-
 newtab-topsites-image-url-label = Özel resim adresi
 newtab-topsites-use-image-link = Özel resim kullan…
 newtab-topsites-image-validation = Resim yüklenemedi. Başka bir adres deneyin.
@@ -84,15 +80,13 @@ newtab-topsite-sponsored = Sponsorlu
 newtab-menu-section-tooltip =
     .title = Menüyü aç
     .aria-label = Menüyü aç
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kaldır
     .aria-label = Kaldır
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Menüyü aç
     .aria-label = { $title } sağ tıklama menüsünü aç
@@ -158,21 +152,18 @@ newtab-label-removed-bookmark = Yer imi silindi
 newtab-label-recommended = Popüler
 newtab-label-saved = { -pocket-brand-name }’a kaydedildi
 newtab-label-download = İndirildi
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorlu
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = { $sponsor } sponsorluğunda
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } dk
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -201,16 +192,15 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Sık Kullanılan Siteler
 newtab-section-header-recent-activity = Son Etkinlikler
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } öneriyor
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gezinmeye başlayın. Son zamanlarda baktığınız veya yer imlerinize eklediğiniz bazı güzel makaleleri, videoları ve diğer sayfaları burada göstereceğiz.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hepsini bitirdiniz. Yeni { $provider } haberleri için daha fazla yine gelin. Beklemek istemiyor musunuz? İlginç yazılara ulaşmak için popüler konulardan birini seçebilirsiniz.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -232,11 +222,9 @@ newtab-pocket-learn-more = Daha fazla bilgi al
 newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
 newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınız okumaya değer şeylerle doldurun.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name }, { -brand-product-name } ailesinin bir parçasıdır
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name }’a kaydet
 newtab-pocket-saved-to-pocket = { -pocket-brand-name }’a kaydedildi
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Daha fazla içerik yükle
 
@@ -247,10 +235,14 @@ newtab-pocket-last-card-title = Hepsini bitirdiniz!
 newtab-pocket-last-card-desc = Daha fazlası için daha sonra yine gelin.
 newtab-pocket-last-card-image =
     .alt = Hepsini bitirdiniz
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Kaydet
 newtab-pocket-saved = Kaydedildi
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = Web’deki en iyi içerikleri keşfedin
+newtab-pocket-onboarding-cta = { -pocket-brand-name }, çeşitli yayınları tarayarak en bilgilendirici, ilham verici ve güvenilir içerikleri doğrudan { -brand-product-name } tarayıcınıza getiriyor.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -262,6 +254,8 @@ newtab-error-fallback-refresh-link = Yeniden denemek için sayfayı tazeleyin.
 
 newtab-custom-shortcuts-title = Kısayollar
 newtab-custom-shortcuts-subtitle = Kaydettiğiniz veya ziyaret ettiğiniz siteler
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } satır

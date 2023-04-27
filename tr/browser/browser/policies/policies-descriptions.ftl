@@ -116,6 +116,8 @@ policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca
 policy-SearchSuggestEnabled = Arama önerilerini etkinleştir veya devre dışı bırak.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 modüllerini yükle.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = PKCS #11 modülü ekle veya sil.
 policy-ShowHomeButton = Araç çubuğunda giriş sayfası düğmesini göster.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
