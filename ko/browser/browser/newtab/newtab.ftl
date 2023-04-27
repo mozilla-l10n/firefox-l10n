@@ -246,6 +246,7 @@ newtab-pocket-saved = 저장됨
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = 웹의 최고를 발견하세요
+newtab-pocket-onboarding-cta = { -pocket-brand-name }은 가장 유익하고 영감을 주며 신뢰할 수 있는 콘텐츠를 { -brand-product-name } 브라우저에 바로 제공하기 위해 다양한 출판물을 탐색합니다.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
