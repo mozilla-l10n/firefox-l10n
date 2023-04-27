@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = Gun eachdraidh ’s gun bhriosgaidean g
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Uam-sa brataichean nam briosgaidean!
 about-private-browsing-cookie-banners-promo-button = Nas lugha de bhrataichean bhriosgaidean
+about-private-browsing-cookie-banners-promo-message = Leig le { -brand-short-name } iarrtasan bhriosgaidean a fhreagairt leis fhèin airson ’s nach bris uiread a rudan a-steach ort is tu ri brabhsadh. Mas urrainn dha, diùltaidh { -brand-short-name } gach iarrtas.
