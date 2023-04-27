@@ -116,6 +116,8 @@ policy-SearchEngines = Configure lis impostazions dal motôr di ricercje. Cheste
 policy-SearchSuggestEnabled = Ative o disative i sugjeriments di ricercje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instale i modui PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Zonte o elimine modui PKCS #11.
 policy-ShowHomeButton = Mostre il boton pagjine iniziâl te sbare dai struments.
 policy-SSLVersionMax = Stabilìs la massime version di SSL.
 policy-SSLVersionMin = Stabilìs la minime version di SSL.
