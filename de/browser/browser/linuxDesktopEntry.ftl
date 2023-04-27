@@ -8,7 +8,17 @@
 
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
+# The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment = Im Internet surfen
+desktop-entry-generic-name = Internet-Browser
+# Keywords are search terms used to find this application.
+# The string is a list of keywords separated by semicolons:
+# - Do NOT replace semicolons with other punctuation signs.
+# - The list MUST end with a semicolon.
+desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
 
+desktop-action-new-window-name = Neues Fenster
+desktop-action-new-private-window-name = Neues privates Fenster
