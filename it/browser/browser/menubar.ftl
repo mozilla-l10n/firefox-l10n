@@ -336,3 +336,4 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Non è un sito ingannevole…
     .accesskey = e
+

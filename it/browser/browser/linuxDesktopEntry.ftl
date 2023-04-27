@@ -21,3 +21,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;Navigatore;
 
 desktop-action-new-window-name = Nuova finestra
 desktop-action-new-private-window-name = Nuova finestra anonima
+

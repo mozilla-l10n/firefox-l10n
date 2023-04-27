@@ -946,3 +946,4 @@ firefox-relay-offer-what-relay-does = Le email da <strong>{ $sitename }</strong>
 
 popup-notification-xpinstall-prompt-learn-more = Scopri come installare componenti aggiuntivi in completa sicurezza
 
+

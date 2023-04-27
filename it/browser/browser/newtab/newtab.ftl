@@ -286,3 +286,4 @@ newtab-custom-recent-subtitle = Una selezione di siti e contenuti visualizzati d
 newtab-custom-close-button = Chiudi
 
 newtab-custom-settings = Gestisci altre impostazioni
+
