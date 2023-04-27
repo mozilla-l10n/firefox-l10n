@@ -21,6 +21,8 @@ callout-firefox-view-colorways-reminder-subtitle = Cuir dath air a’ bhrabhsair
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Faigh cothrom air na tabaichean fosgailte agad o uidheam sam bith agus sioncronaich na comharran-lìn, faclan-faire ’s mòran a bharrachd agad.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Dèan toiseach-tòiseachaidh
 
 ## PDF.js Feature Tour Strings
 
