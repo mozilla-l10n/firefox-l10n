@@ -116,6 +116,8 @@ policy-SearchEngines = Nastajenja pytnicow konfigurěrowaś. Toś to pšawidło 
 policy-SearchSuggestEnabled = Pytańske naraźenja zmóžniś abo znjemóžniś.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Module PKCS #11 instalěrowaś.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Pśidajśo abo wulašujśo module PKCS #11.
 policy-ShowHomeButton = Tłocašk startoweho boka na symbolowej rědce pokazaś.
 policy-SSLVersionMax = Nastajśo maksimalnu SSL-wersiju.
 policy-SSLVersionMin = Nastajśo minimalnu SSL-wersiju.
