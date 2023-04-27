@@ -116,6 +116,8 @@ policy-SearchEngines = Ffurfweddu gosodiadau peiriannau chwilio. Dim ond yn y fe
 policy-SearchSuggestEnabled = Galluogi neu analluogi awgrymiadau chwilio.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Gosod modiwlau PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Ychwanegu neu ddileu modiwlau PKCS #11.
 policy-ShowHomeButton = Dangos y botwm cartref ar y bar offer.
 policy-SSLVersionMax = Gosodwch y fersiwn SSL uchaf.
 policy-SSLVersionMin = Gosodwch y fersiwn SSL lleiaf.

@@ -244,6 +244,11 @@ newtab-pocket-last-card-image =
 newtab-pocket-save = Cadw
 newtab-pocket-saved = Wedi'u Cadw
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = Darganfod y gorau o'r we
+newtab-pocket-onboarding-cta = Mae { -pocket-brand-name } yn archwilio ystod amrywiol o gyhoeddiadau i ddod â'r cynnwys mwyaf addysgiadol, ysbrydoledig a dibynadwy i'ch porwr { -brand-product-name }.
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
