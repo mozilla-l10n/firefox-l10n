@@ -114,6 +114,8 @@ policy-SearchEngines = הגדרת תצורת מנועי החיפוש. מדיני
 policy-SearchSuggestEnabled = הפעלה או השבתה של הצעות חיפוש.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = התקנת מודולי PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = הוספה או מחיקת מודולי PKCS #11.
 policy-ShowHomeButton = הצגת כפתור הבית בסרגל הכלים.
 policy-SSLVersionMax = הגדרת גרסת ה־SSL המקסימלית.
 policy-SSLVersionMin = הגדרת גרסת ה־SSL המינימלית.
