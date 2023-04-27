@@ -56,6 +56,13 @@ firefoxview-mobile-promo-primarybutton = Faigh { -brand-product-name } mobile
 firefoxview-mobile-confirmation-header = 🎉 Deiseil uile gu lèir!
 firefoxview-mobile-confirmation-description = Gheibh thu greim air na tabaichean { -brand-product-name } a th’ agad air an tablaid no fòn.
 firefoxview-closed-tabs-title = Air an dùnadh o chionn goirid
+firefoxview-closed-tabs-description2 = Ath-fhosgail duilleagan a dhùin thu san uinneag seo.
+firefoxview-closed-tabs-placeholder-header = Chan eil taba sam bith ann a dhùin thu o chionn goirid
+firefoxview-closed-tabs-placeholder-body = Ma dhùineas tu taba san uinneag seo, gheibh thu greim air uaithe seo.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Leig seachad { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Am fear gnìomhach mu dheireadh
 # Variables:
@@ -68,3 +75,9 @@ firefoxview-change-colorway-button = Atharraich an sgeama dhathan
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Chan eil dad ann fhathast a sheallas sinn dhut
+firefoxview-synced-tabs-placeholder-body = An ath-thuras a dh’fhosglas tu duilleag ann am { -brand-product-name } air uidheam eile, gheibh thu greim air an-seo mar gum b’ ann le draoidheachd.
+firefoxview-collapse-button-show =
+    .title = Seall an liosta
+firefoxview-collapse-button-hide =
+    .title = Falaich an liosta
