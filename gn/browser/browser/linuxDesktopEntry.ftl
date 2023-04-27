@@ -8,6 +8,8 @@
 
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
+# The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment = Eikundaha World Wide Web rupi
 desktop-entry-generic-name = Ñanduti Kundahára
 
 ## Actions are visible in a context menu after right clicking the

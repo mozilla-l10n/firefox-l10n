@@ -331,6 +331,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Eipe’a mba’éicha emyatyrõta apañuãi
     .accesskey = M
+menu-help-switch-device =
+    .label = Eva ambue mba’e’okápe
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
