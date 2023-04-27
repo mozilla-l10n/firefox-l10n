@@ -12,6 +12,12 @@ callout-primary-complete-button-label = Tha mi agaibh!
 callout-firefox-view-tab-pickup-subtitle = Faigh cothrom air tabaichean a tha fosgailte agad air an fhòn uaithe seo.
 callout-firefox-view-recently-closed-title = Faigh cothrom air na tabaichean a dhùin thu ann am priobadh na sùla
 callout-firefox-view-recently-closed-subtitle = Nochdaidh na tabaichean a dhùin thu an-seo mar gum b’ ann le draoidheachd. Cha bhi dragh ort a-rithist mu thabaichean a dhùin thu air mhearachd.
+callout-firefox-view-colorways-title = Cuir steall dhathan air
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Tagh tuar a tha a’ còrdadh riut-sa le sgeama dhathan. Ann am { -brand-product-name } a-mhàin.
+callout-firefox-view-colorways-reminder-title = Rùraich na sgeamannan dhathan as ùire againn
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Cuir dath air a’ bhrabhsair agad leis na sgeamannan dhathan againn. Ann am { -brand-product-name } a-mhàin.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
