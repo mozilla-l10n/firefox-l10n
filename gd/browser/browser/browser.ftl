@@ -76,6 +76,9 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = Brabhsadh prìobhaideach { -brand-shortcut-name }
 
 ##
 
@@ -133,11 +136,25 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Faigh cobhair
 urlbar-search-tips-confirm = Ceart, tha mi agaibh
+urlbar-search-tips-confirm-short = Tha mi agaibh
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Gliocas:
+urlbar-result-menu-button =
+    .title = Fosgail an clàr-taice
+urlbar-result-menu-button-feedback = Cuir beachd thugainn
+    .title = Fosgail an clàr-taice
+urlbar-result-menu-learn-more =
+    .label = Barrachd fiosrachaidh
+    .accesskey = B
+urlbar-result-menu-remove-from-history =
+    .label = Thoir air falbh on eachdraidh
+    .accesskey = T
+urlbar-result-menu-tip-get-help =
+    .label = Faigh cobhair
+    .accesskey = F
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -146,6 +163,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Nas lugha de sgrìobhadh: Dèan lorg le { $engineName } o bhàr an t-seòlaidh fhèin.
 urlbar-search-tips-redirect-2 = Dèan lorg ann am bàr an t-seòlaidh ’s chì thu molaidhean o { $engineName } agus on eachdraidh bhrabhsaidh agad.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Tha e nas fhasa na bha e a-riamh lorg a dhèanamh. Feuch is dèan lorg nas pongail an-seo air bàr an t-seòlaidh. Airson an URL a shealltainn an àite sin, tadhail air “Lorg” sna roghainnean.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Tagh an ath-ghoirid seo a lorg na dh’fheumas tu nas luaithe.
@@ -269,16 +288,35 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Seall na tuilleadain
+quickactions-cmd-addons2 = tuilleadain
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Stiùirich na comharran-lìn
 quickactions-cmd-bookmarks = comharran-lìn
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Falamhaich an eachdraidh
 quickactions-cmd-clearhistory = falamhaich an eachdraidh
+# Opens about:downloads page
+quickactions-downloads2 = Seall na chaidh a luchdadh a-nuas
 quickactions-cmd-downloads = luchdaidhean a-nuas
+# Opens about:addons page in the extensions section
+quickactions-extensions = Stiùirich na leudachain
+quickactions-cmd-extensions = leudachain
+# Opens the devtools web inspector
+quickactions-inspector2 = Fosgail innealan an luchd-leasachaidh
 quickactions-cmd-inspector = sgrùdaiche, devtools
+# Opens about:logins
+quickactions-logins2 = Stiùirich na faclan-faire
 quickactions-cmd-logins = clàraidhean a-steach, faclan-faire
+# Opens about:addons page in the plugins section
+quickactions-plugins = Rianaich na plugain
+quickactions-cmd-plugins = plugain
+# Opens the print dialog
+quickactions-print2 = Clò-bhuail an duilleag
 quickactions-cmd-print = clò-bhuail
+# Opens a new private browsing window
+quickactions-private2 = Fosgail uinneag phrìobhaideach
 quickactions-cmd-private = brabhsadh prìobhaideach
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ath-nuadhaich { -brand-short-name }
@@ -286,12 +324,24 @@ quickactions-cmd-refresh = ath-nuadhaich
 # Restarts the browser
 quickactions-restart = Ath-thòisich { -brand-short-name }
 quickactions-cmd-restart = ath-thòisich
+# Opens the screenshot tool
+quickactions-screenshot3 = Tog glacadh-sgrìn
 quickactions-cmd-screenshot = glacadh-sgrìn
+# Opens about:preferences
+quickactions-settings2 = Stiùirich na roghainnean
 quickactions-cmd-settings = roghainnean
+# Opens about:addons page in the themes section
+quickactions-themes = Stiùirich na h-ùrlaran
+quickactions-cmd-themes = ùrlaran
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ùraich { -brand-short-name }
 quickactions-cmd-update = ùraich
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Seall bun-tùs na duilleige
 quickactions-cmd-viewsource = seall am bun-tùs
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Barrachd fiosrachaidh mu na grad-ghnìomhan
 
 ## Bookmark Panel
 
@@ -488,6 +538,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Mus cleachd thu ath-ghoirid F12, feumaidh tu DevTools fhosgladh le clàr-taice an luchd-leasachaidh.
+enable-devtools-popup-description2 = Mus cleachd thu ath-ghoirid F12, feumaidh tu DevTools fhosgladh le clàr-taice innealan a’ bhrabhsair.
 
 ## URL Bar
 
@@ -633,6 +684,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Fosgail an dealbh ann an dealbh ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Fùin an dealbh ann an dealbh ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -716,6 +771,8 @@ bookmarks-tools =
     .label = Innealan nan comharran-lìn
 bookmarks-bookmark-edit-panel =
     .label = Deasaich an comharra-lìn seo
+bookmarks-subview-edit-bookmark =
+    .label = Deasaich an comharra-lìn seo…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -732,6 +789,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Dèan comharra-lìn dhen taba làithreach
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Dèan comharra-lìn dhen taba làithreach…
 
 ## Library Panel items
 
@@ -774,6 +834,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Cuir an dealbh air a' phost-d
     .tooltiptext = Cuir ceangal ris an duilleag seo air a' phost-d
+toolbar-button-logins =
+    .label = Faclan-faire
+    .tooltiptext = Seall is stiùirich na faclan-faire a shàbhail thu
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -917,6 +980,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Leudachain
+    .tooltiptext =
+        Leudachain
+        Tha feum air ceadan
 
 ## Autorefresh blocker
 
@@ -928,6 +996,12 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = Falaichidh { -relay-brand-name } am post-d ceart agad gus do dhìon o spama agus o dhaoine a nì oidhirp air an dàta agad.
+firefox-relay-offer-how-we-integrate = Ma leanas tu air adhart, is urrainn dhut masgan puist { -relay-brand-short-name } ùra a chruthachadh ann am manaidsear fhaclan-faire { -brand-shorter-name } fhèin.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Sìnidh sinn air adhart gach post-d o <strong>{ $sitename }</strong> gu <strong>{ $useremail }</strong>.
 
 ## Popup Notification
 
