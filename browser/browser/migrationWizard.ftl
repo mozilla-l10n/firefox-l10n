@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Dosyadan içe aktar
 migration-import-from-file-button-label = Dosya seç
 migration-cancel-button-label = Vazgeç
 migration-done-button-label = Tamam
+migration-continue-button-label = Devam
 migration-wizard-import-browser-no-browsers = { -brand-short-name } yer imi, geçmiş veya parola verileri içeren herhangi bir program bulamadı.
 migration-wizard-import-browser-no-resources = Bir hata oluştu. { -brand-short-name } bu tarayıcı profilinden içe aktarılacak herhangi bir veri bulamıyor.
 
