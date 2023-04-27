@@ -26,3 +26,13 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Dèan toise
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Deasaich PDFaichean leis an inneal teacsa ùr againn
+callout-pdfjs-edit-body-a = Lìon foirmean, cuir ris beachdan no nòtaichean ann am { -brand-short-name } fhèin.
+callout-pdfjs-edit-body-b = Cha leig thu leas innea-deasachaidh an-asgaidh a lorg air loidhne tuilleadh. Lìon foirmean, cuir ris beachdan is nòtaichean ann am { -brand-short-name } fhèin.
+callout-pdfjs-edit-button = Air adhart
+callout-pdfjs-draw-title = Soidhnich sgrìobhainnean leis an inneal tarraing ùr againn
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Cuir nòtaichean ri PDFaichean is sàbhail iad an uair sin.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Cha leig thu leas clò-bhualadh is sganadh a dhèanamh tuilleadh. Cuir nòtaichean ri PDFaichean is sàbhail a h-uile rud an uair sin.
+callout-pdfjs-draw-button = Tha mi agaibh!
