@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = گھٹ اوور ہیڈ دے نال، زیادہ تر ویب ایپ ڈیبگنگ کیتے تجویز کردہ اوور ہیڈ۔
 profiler-popup-presets-web-developer-label =
     .label = ویب تکمیل کار
@@ -223,6 +228,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = خیالات تے صلاحیں دی سانجھ کرو …
     .accesskey = S
+appmenu-help-switch-device =
+    .label = نویں ڈیوائس تے سوئچ کرݨ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

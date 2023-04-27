@@ -116,6 +116,8 @@ policy-SearchEngines = سرچ انجن دیاں ترتیباں کوں ترتیب
 policy-SearchSuggestEnabled = ڳولݨ دیاں تجویزاں کوں فعال یا غیر فعال کرو۔
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 ماڈیولز انسٹال کرو۔
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = PKCS #11 ماڈیول شامل کرو یا مٹاؤ۔
 policy-ShowHomeButton = ٹول بار تے ہوم بٹن ݙکھاؤ۔
 policy-SSLVersionMax = زیادہ توں زیادہ SSL ورژن سیٹ کرو۔
 policy-SSLVersionMin = کم از کم SSL ورژن سیٹ کرو۔
