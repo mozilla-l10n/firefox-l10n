@@ -116,6 +116,8 @@ policy-SearchEngines = Suchmaschineneinstellungen anpassen. Diese Richtlinie ist
 policy-SearchSuggestEnabled = Suchvorschläge aktivieren oder deaktivieren
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS#11-Module installieren
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = PKCS#11-Module hinzufügen oder löschen
 policy-ShowHomeButton = Schaltfläche "Startseite" in der Symbolleiste anzeigen
 policy-SSLVersionMax = Höchste zu verwendende SSL-Version festlegen
 policy-SSLVersionMin = Niedrigste zu verwendende SSL-Version festlegen
