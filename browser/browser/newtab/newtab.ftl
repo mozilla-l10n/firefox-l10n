@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = חיפוש
     .aria-label = חיפוש
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ‏ניתן לחפש עם { $engine } או להקליד כתובת
 newtab-search-box-handoff-text-no-engine = חיפוש או הכנסת כתובת
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = ‏ניתן לחפש עם { $engine } או להקליד כתובת
     .title = ‏ניתן לחפש עם { $engine } או להקליד כתובת
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = חיפוש או הכנסת כתובת
     .title = חיפוש או הכנסת כתובת
     .aria-label = חיפוש או הכנסת כתובת
-
 newtab-search-box-text = חיפוש ברשת
 newtab-search-box-input =
     .placeholder = חיפוש ברשת
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = עריכת קיצור דרך
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
     .placeholder = נא להזין כותרת
-
 newtab-topsites-url-label = כתובת
 newtab-topsites-url-input =
     .placeholder = נא להקליד או להזין כתובת
 newtab-topsites-url-validation = נדרשת כתובת תקינה
-
 newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
@@ -84,15 +80,13 @@ newtab-topsite-sponsored = ממומן
 newtab-menu-section-tooltip =
     .title = פתיחת תפריט
     .aria-label = פתיחת תפריט
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = הסרה
     .aria-label = הסרה
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = פתיחת תפריט
     .aria-label = פתיחת תפריט ההקשר עבור { $title }
@@ -156,21 +150,18 @@ newtab-label-removed-bookmark = הסימנייה הוסרה
 newtab-label-recommended = פופולרי
 newtab-label-saved = נשמר ל־{ -pocket-brand-name }
 newtab-label-download = התקבל
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ממומן
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = בחסות { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time =
     { $timeToRead ->
         [1] ‏{ $source }  · דקה אחת
@@ -203,16 +194,15 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = אתרים מובילים
 newtab-section-header-recent-activity = פעילות אחרונה
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = מומלץ על־ידי { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ניתן להתחיל בגלישה ואנו נציג בפניך מספר כתבות, סרטונים ועמודים שונים מעולים בהם ביקרת לאחרונה או שהוספת לסימניות.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = התעדכנת בכל הסיפורים. כדאי לנסות שוב מאוחר יותר כדי לקבל עוד סיפורים מובילים מאת { $provider }. לא רוצה לחכות? ניתן לבחור נושא נפוץ כדי למצוא עוד סיפורים נפלאים מרחבי הרשת.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -230,11 +220,9 @@ newtab-pocket-learn-more = מידע נוסף
 newtab-pocket-cta-button = קבלת { -pocket-brand-name }
 newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
 newtab-pocket-pocket-firefox-family = ‏{ -pocket-brand-name } הוא חלק ממשפחת { -brand-product-name }
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = שמירה אל { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = נשמר ל־{ -pocket-brand-name }
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = טעינת סיפורים נוספים
 
@@ -244,10 +232,14 @@ newtab-pocket-load-more-stories-button = טעינת סיפורים נוספים
 newtab-pocket-last-card-title = אין יותר במה להתעדכן!
 newtab-pocket-last-card-image =
     .alt = אין יותר במה להתעדכן
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = שמירה
 newtab-pocket-saved = נשמר
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = לגלות את המיטב של האינטרנט
+newtab-pocket-onboarding-cta = ‏{ -pocket-brand-name } חוקר מגוון רחב של פרסומים כדי להביא את התוכן האינפורמטיבי, מעורר ההשראה והאמין ביותר ישירות לדפדפן ה־{ -brand-product-name } שלך.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -259,6 +251,8 @@ newtab-error-fallback-refresh-link = נא לרענן את הדף כדי לנסו
 
 newtab-custom-shortcuts-title = קיצורי דרך
 newtab-custom-shortcuts-subtitle = אתרים ששמרת או ביקרת בהם
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] שורה אחת
