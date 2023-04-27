@@ -102,10 +102,20 @@ about-debugging-setup-usb-status-updating = ກຳລັງອັບເດດ…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = ເປີດໃຊ້ເມນູນັກພັດທະນາໃນອຸປະກອນ Android ຂອງທ່ານ.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = ເປີດໃຊ້ການດີບັກ USB ໃນເມນູນັກພັດທະນາ Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = ເປີດໃຊ້ການດີບັກ USB ໃນ Firefox ໃນອຸປະກອນ Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = ເຊື່ອມ​ຕໍ່​ອຸ​ປະ​ກອນ Android ກັບ​ຄອມ​ພິວ​ເຕີ​ຂອງ​ທ່ານ​.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
+about-debugging-setup-usb-troubleshoot = ມີບັນຫາໃນການເຊື່ອມຕໍ່ກັບອຸປະກອນ USB? <a>ແກ້ໄຂບັນຫາ</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = ຕຳແໜ່ງທີ່ຕັ້ງເຄືອຂ່າຍ
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
+about-debugging-setup-network-troubleshoot = ມີບັນຫາໃນການເຊື່ອມຕໍ່ຜ່ານທີ່ຕັ້ງເຄືອຂ່າຍ? <a>ແກ້ໄຂບັນຫາ</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = ເພີ່ມ
@@ -160,6 +170,12 @@ about-debugging-connection-prompt-enable-button = ເປີດໃຊ້ການ
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = ປິດການເຕືອນການເຊື່ອມຕໍ່
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = ໂຕສ້າງໂປຟາຍ
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = ຫຍໍ້ / ຂະຫຍາຍ
 
 # Debug Targets strings
 
@@ -170,12 +186,29 @@ about-debugging-debug-target-list-empty = ບໍ່ມີຫຍັງເທື�
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = ກວດກາ
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = ໂຫຼດແອດອອນຊົ່ວຄາວ...
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = ມີຂໍ້ຜິດພາດໃນລະຫວ່າງການຕິດຕັ້ງສ່ວນເສີມຊົ່ວຄາວ.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = ໂຫລດຄືນໃຫມ່
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = ລຶບ
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will forcefully terminate the extension background script (button
+# only visible in extensions that includes a non-persistent background script, either an
+# event page or a background service worker).
+about-debugging-tmp-extension-terminate-bgscript-button = ຢຸດສະຄຣິບພື້ນຫຼັງ
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = ເລືອກໄຟລ໌ manifest.json ຫຼື .xpi/.zip archive
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = WebExtension ນີ້ມີ ID ຊົ່ວຄາວ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -188,6 +221,14 @@ about-debugging-extension-uuid =
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = ຕຳແຫນ່ງທີ່ຕັ້ງ
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ID ສ່ວນຂະຫຍາຍ
+# Text displayed for extensions in "runtime" pages, before displaying the status of the
+# extension background script.
+about-debugging-extension-backgroundscript =
+    .label = ສະຄຣິບພື້ນຫຼັງ
 # Displayed for extension using a non-persistent background page (either an event page or
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = ກຳລັງເຮັດວຽກ
@@ -205,3 +246,19 @@ about-debugging-worker-status-registering = ການລົງທະບຽນ
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = ຂອບເຂດ
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = ບໍລິການຊຸກຍູ້
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = ໂປເຊດຫຼັກ
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = ປິດຂໍ້ຄວາມ
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = ລາຍລະອຽດຂໍ້ຜິດພາດ
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = ລາຍລະອຽດຄໍາເຕືອນ
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = ລາຍລະອຽດ

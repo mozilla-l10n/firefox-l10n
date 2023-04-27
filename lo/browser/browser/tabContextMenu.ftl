@@ -43,6 +43,9 @@ bookmark-selected-tabs =
 move-to-new-window =
     .label = ຍ້າຍໄປວິນໂດໃໝ່
     .accesskey = ວ
+tab-context-share-url =
+    .label = ແບ່ງປັນ
+    .accesskey = h
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
