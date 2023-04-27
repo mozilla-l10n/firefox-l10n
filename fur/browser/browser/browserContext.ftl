@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Dopre une mascare di pueste eletroniche { -relay-brand-short-name }
+    .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Sugjerìs password complicade…
     .accesskey = S

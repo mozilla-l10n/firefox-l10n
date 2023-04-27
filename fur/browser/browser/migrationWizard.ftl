@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Impuarte di file
 migration-import-from-file-button-label = Selezione file
 migration-cancel-button-label = Anule
 migration-done-button-label = Fat
+migration-continue-button-label = Continue
 migration-wizard-import-browser-no-browsers = { -brand-short-name } nol è rivât a cjatâ nissun program che al contegni segnelibris, cronologjiis o passwords.
 migration-wizard-import-browser-no-resources = Al è vignût fûr un erôr. { -brand-short-name } nol rive a cjatâ nissun dât di impuartâ di chel profîl dal navigadôr.
 
