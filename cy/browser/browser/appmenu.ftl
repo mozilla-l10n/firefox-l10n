@@ -228,6 +228,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Rhannwch syniadau ac adborth…
     .accesskey = R
+appmenu-help-switch-device =
+    .label = Newid i ddyfais newydd
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
