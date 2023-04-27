@@ -332,6 +332,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Выключыць рэжым вырашэння праблем
     .accesskey = ь
+menu-help-switch-device =
+    .label = Пераход на новую прыладу
+    .accesskey = ю
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
