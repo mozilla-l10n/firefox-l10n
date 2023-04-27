@@ -335,6 +335,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Diffodd y Modd Dartrys Problemau
     .accesskey = D
+menu-help-switch-device =
+    .label = Newid i Ddyfais Newydd
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
