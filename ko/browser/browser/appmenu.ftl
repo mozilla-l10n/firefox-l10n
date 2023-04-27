@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = 오버헤드가 낮은 대부분의 웹 앱 디버깅에 권장되는 프리셋입니다.
 profiler-popup-presets-web-developer-label =
     .label = 웹 개발자
@@ -223,6 +228,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = 아이디어 공유 및 의견 보내기…
     .accesskey = S
+appmenu-help-switch-device =
+    .label = 새 기기로 전환
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
