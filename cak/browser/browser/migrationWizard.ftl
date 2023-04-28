@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Ewan rutzij ruyakb'al CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,7 @@ migration-favorites-option-label = Taq ajowab'äl
 migration-logins-and-passwords-option-label = Yakon kitikirisaxik molojri'ïl chuqa' ewan taq tzij
 migration-history-option-label = Runatab'al okem pa k'amaya'l
 migration-form-autofill-option-label = Rutzij nojwuj ruyon ninojisäx
+migration-passwords-from-file-progress-header = Tijik' Ruyakb'al Ewan taq Tzij
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =

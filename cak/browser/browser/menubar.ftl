@@ -331,6 +331,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Tichup ri Rub'anikil Kiwäch K'ayewal
     .accesskey = R
+menu-help-switch-device =
+    .label = Tijal pa jun K'ak'a' Okisaxel
+    .accesskey = K
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
