@@ -334,7 +334,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = 使用 { -relay-brand-short-name } 邮箱马甲
+    .label = 使用 { -relay-brand-short-name } 马甲邮箱
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = 建议高强度密码…
