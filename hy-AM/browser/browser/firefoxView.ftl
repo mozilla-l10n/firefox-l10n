@@ -26,6 +26,7 @@ firefoxview-tabpickup-adddevice-primarybutton = Ստացեք { -brand-product-na
 firefoxview-tabpickup-synctabs-header = Միացնել ներդիրների համաժամացումը
 firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
+firefoxview-tabpickup-network-offline-header = Ստուգեք կապակցումը համացանցին
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-disconnected-header = Շարունակելու համար միացրեք համաժամացումը
