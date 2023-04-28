@@ -1246,6 +1246,49 @@ preferences-doh-resolver = Purschider: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = URL nunvalid
+preferences-doh-steering-status = I vegn utilisà in purschider local
+preferences-doh-status-active = Activ
+preferences-doh-status-disabled = Deactivà
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Betg activ ({ $reason })
+preferences-doh-group-message = Activar il DNS segirà cun:
+preferences-doh-expand-section =
+    .tooltiptext = Ulteriuras infurmaziuns
+preferences-doh-setting-default =
+    .label = Protecziun predefinida
+    .accesskey = P
+preferences-doh-default-desc = { -brand-short-name } decida cura utilisar in DNS segirà per proteger tia sfera privata.
+preferences-doh-default-detailed-desc-1 = Utilisar il DNS segirà en regiuns en las qualas el è disponibel
+preferences-doh-default-detailed-desc-2 = Utilisar la resoluziun DNS predefinida sch'i dat in problem cun il purschider DNS segirà
+preferences-doh-default-detailed-desc-3 = Utilisar in purschider local, sche pussaivel
+preferences-doh-default-detailed-desc-4 = Deactivar sch'in VPN, la restricziun da cuntegns u directivas dad interpresa èn activs
+preferences-doh-default-detailed-desc-5 = Deactivar sch'ina rait dumonda { -brand-short-name } da betg utilisar in DNS segirà
+preferences-doh-setting-enabled =
+    .label = Protecziun rinforzada
+    .accesskey = r
+preferences-doh-enabled-desc = Ti pos decider cura utilisar in DNS segirà e tscherner il purschider.
+preferences-doh-enabled-detailed-desc-1 = Utilisar il purschider che ti has tschernì
+preferences-doh-enabled-detailed-desc-2 = Mo utilisar il sistem da resoluziun DNS predefinì sch'i dat in problem cun il DNS segirà
+preferences-doh-setting-strict =
+    .label = Protecziun maximala
+    .accesskey = m
+preferences-doh-strict-desc = { -brand-short-name } vegn adina ad utilisar in DNS segirà. Ti vesas in avis che avertescha dal ristg per la segirezza avant l'utilisaziun dal DNS da tes sistem.
+preferences-doh-strict-detailed-desc-1 = Mo utilisar il purschider che ti tschernas
+preferences-doh-strict-detailed-desc-2 = Adina avertir sch'il DNS segirà na stat betg a disposiziun
+preferences-doh-strict-detailed-desc-3 = Sch'il DNS segirà n'è betg disponibel, na vegnan websites betg a chargiar u betg a funcziunar endretg
+preferences-doh-setting-off =
+    .label = Deactivà
+    .accesskey = D
+preferences-doh-off-desc = Utilisar il sistem da resoluziun DNS predefinì
+preferences-doh-checkbox-warn =
+    .label = Avertir sche terzs impedeschan activamain l'utilisaziun dal DNS segirà
+    .accesskey = A
+preferences-doh-select-resolver = Tscherner il purschider:
+preferences-doh-exceptions-description = { -brand-short-name } na vegn betg ad utilisar il DNS segirà sin questas websites
+preferences-doh-manage-exceptions =
+    .label = Administrar las excepziuns…
+    .accesskey = A
 
 ## The following strings are used in the Download section of settings
 

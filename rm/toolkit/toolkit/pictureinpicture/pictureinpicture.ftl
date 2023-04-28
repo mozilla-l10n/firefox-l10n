@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pausa
-    .title = Pausa (spaziunader)
-pictureinpicture-play-cmd =
-    .aria-label = Far ir
-    .title = Far ir (spaziunader)
-pictureinpicture-mute-cmd =
-    .aria-label = Senza tun
-    .title = Senza tun ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Cun tun
-    .title = Cun tun ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Trametter enavos al tab
-    .title = Enavos al tab
-pictureinpicture-close-cmd =
-    .aria-label = Serrar
-    .title = Serrar ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Suttitels
-    .title = Suttitels
 pictureinpicture-pause-btn =
     .aria-label = Pausa
     .tooltip = Pausa (spaziunader)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Maletg entir
-    .title = Maletg entir (clic dubel)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Bandunar il modus da maletg entir
-    .title = Bandunar il modus da maletg entir (clic dubel)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Enavos
-    .title = Enavos (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Enavant
-    .title = Enavant (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Maletg entir
     .tooltip = Maletg entir (clic dubel)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Enavant
     .tooltip = Enavant (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Parameters dals suttitels
 pictureinpicture-subtitles-label = Suttitels
 pictureinpicture-font-size-label = Grondezza da scrittira
 pictureinpicture-font-size-small = Pitschna
