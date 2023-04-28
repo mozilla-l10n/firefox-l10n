@@ -243,6 +243,11 @@ newtab-pocket-last-card-image =
 newtab-pocket-save = Spara
 newtab-pocket-saved = Sparad
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = Upptäck det bästa från webben
+newtab-pocket-onboarding-cta = { -pocket-brand-name } utforskar en mängd olika publikationer för att få det mest informativa, inspirerande och pålitliga innehållet direkt till din { -brand-product-name }-webbläsare.
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 

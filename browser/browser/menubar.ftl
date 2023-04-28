@@ -330,6 +330,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Stäng av felsökningsläge
     .accesskey = g
+menu-help-switch-device =
+    .label = Byter till en ny enhet
+    .accesskey = B
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
