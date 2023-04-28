@@ -60,6 +60,10 @@ migration-history-option-label = Runatab'al okem pa k'amaya'l
 migration-form-autofill-option-label = Rutzij nojwuj ruyon ninojisäx
 migration-passwords-from-file-progress-header = Tijik' Ruyakb'al Ewan taq Tzij
 migration-passwords-from-file-success-header = Ütz xejik' ewan taq tzij
+migration-passwords-from-file = Tikanöx ruyakb'al ewan taq tzij
+migration-passwords-new = K'ak'a' ewan taq tzij
+migration-passwords-updated = Ewan taq tzij e k'o
+migration-passwords-from-file-picker-title = Tijik' Ruyakb'al Ewan taq Tzij
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
