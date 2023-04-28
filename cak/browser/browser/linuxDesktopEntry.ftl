@@ -8,6 +8,9 @@
 
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
+# The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment = Tok chupam Word Wide Web
+desktop-entry-generic-name = Web Okik'amaya'l
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
