@@ -116,6 +116,8 @@ policy-SearchEngines = ຕັ້ງຄ່າການຕັ້ງຄ່າເຄ
 policy-SearchSuggestEnabled = ເປີດຫຼືປິດການແນະນໍາການຊອກຫາ.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = ຕິດຕັ້ງໂມດູນ PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = ເພີ່ມ ຫຼື ລຶບໂມດູນ PKCS #11.
 policy-ShowHomeButton = ສະແດງປຸ່ມໂຮມຢູ່ໃນແຖບເຄື່ອງມື.
 policy-SSLVersionMax = ກໍານົດສະບັບ SSL ສູງສຸດ.
 policy-SSLVersionMin = ກໍານົດສະບັບ SSL ຕໍາ່ສຸດ.

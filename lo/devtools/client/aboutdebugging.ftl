@@ -250,9 +250,18 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = ບໍລິການຊຸກຍູ້
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = ແຖບບໍ່ໄດ້ໂຫລດເຕັມທີ່ ແລະ ບໍ່ສາມາດກວດສອບໄດ້
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = ໂປເຊດຫຼັກ
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = ໂປເຊດຫຼັກຂອງບາວເຊີເປົ້າໝາຍ
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-name = Multiprocess Toolbox
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ປິດຂໍ້ຄວາມ
