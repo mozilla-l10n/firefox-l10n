@@ -10,7 +10,7 @@
 desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = 浏览万维网
-desktop-entry-generic-name = 网络浏览器
+desktop-entry-generic-name = Web 浏览器
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
