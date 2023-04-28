@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = ਵਿਰਾਮ
-    .title = ਵਿਰਾਮ (ਸਪੇਸ-ਪੱਟੀ)
-pictureinpicture-play-cmd =
-    .aria-label = ਚਲਾਓ
-    .title = ਚਲਾਓ (ਸਪੇਸ-ਬਾਰ)
-pictureinpicture-mute-cmd =
-    .aria-label = ਮਿਊਟ
-    .title = ਮਿਊਟ ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = ਅਣ-ਮਿਊਟ
-    .title = ਅਣ-ਮਿਊਟ ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = ਟੈਬ ਉੱਤੇ ਵਾਪਸ ਭੇਜੋ
-    .title = ਟੈਬ ਉੱਤੇ ਵਾਪਸ
-pictureinpicture-close-cmd =
-    .aria-label = ਬੰਦ ਕਰੋ
-    .title = ਬੰਦ ਕਰੋ ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = ਸਬ-ਟਾਈਟਲ
-    .title = ਸਬ-ਟਾਈਟਲ
 pictureinpicture-pause-btn =
     .aria-label = ਵਿਰਾਮ
     .tooltip = ਵਿਰਾਮ (ਸਪੇਸ-ਪੱਟੀ)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = ਪੂਰੀ ਸਕਰੀਨ
-    .title = ਪੂਰੀ ਸਕਰੀਨ (ਦੋ ਵਾਰ ਕਲਿੱਕ)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ
-    .title = ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ (ਦੋ ਵਾਰ ਕਲਿੱਕ)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = ਪਿੱਛੇ ਵੱਲ
-    .title = ਪਿੱਛੇ ਵੱਲ (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = ਅੱਗੇ ਵੱਲ
-    .title = ਅੱਗੇ ਵੱਲ (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = ਪੂਰੀ ਸਕਰੀਨ
     .tooltip = ਪੂਰੀ ਸਕਰੀਨ (ਦੋ ਵਾਰ ਕਲਿੱਕ)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = ਅੱਗੇ ਵੱਲ
     .tooltip = ਅੱਗੇ ਵੱਲ (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = ਸਬ-ਟਾਈਟਲ ਸੈਟਿੰਗਾਂ
 pictureinpicture-subtitles-label = ਸਬ-ਟਾਈਟਲ
 pictureinpicture-font-size-label = ਫ਼ੋਂਟ ਦਾ ਆਕਾਰ
 pictureinpicture-font-size-small = ਛੋਟੇ

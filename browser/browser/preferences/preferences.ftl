@@ -1238,6 +1238,30 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS ਉੱਤੇ DNS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = ਹਾਲਤ: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = ਪੂਰਕ: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = ਅਢੁੱਕਵਾਂ URL
+preferences-doh-steering-status = ਲੋਕਲ ਪੂਰਕ ਨੂੰ ਵਰਤੋਂ
+preferences-doh-status-active = ਸਰਗਰਮ
+preferences-doh-status-disabled = ਬੰਦ
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = ਸਰਗਰਮ ਨਹੀਂ ({ $reason })
+preferences-doh-group-message = ਇਹ ਵਰਤ ਕੇ ਸੁਰੱਖਿਅਤ DNS ਸਮਰੱਥ ਕਰੋ:
+preferences-doh-expand-section =
+    .tooltiptext = ਹੋਰ ਜਾਣਕਾਰੀ
+preferences-doh-setting-default =
+    .label = ਮੂਲ ਸੁਰੱਖਿਆ
+    .accesskey = D
+preferences-doh-default-desc = { -brand-short-name } ਫ਼ੈਸਲਾ ਕਰਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਬਚਾਉਣ ਲਈ ਕਦੋਂ ਸੁਰੱਖਿਤ DNS ਵਰਤਣੇ ਹਨ।
+preferences-doh-default-detailed-desc-1 = ਜਿਸ ਵੀ ਖੇਤਰ ਵਿੱਚ DNS ਸੁਰੱਖਿ੍ਤ ਮੌਜੂਦ ਹੋਣ, ਵਰਤੋਂ
+preferences-doh-default-detailed-desc-2 = ਜੇ ਸੁਰੱਖਿਅਤ DNS ਪੂਰਕ ਨਾਲ ਸਮੱਸਿਆ ਹੋਵੇ ਤਾਂ ਆਪਣੇ ਮੂਲ DNS ਹੱਲਕਰਤਾ ਨੂੰ ਵਰਤੋਂ
 
 ## The following strings are used in the Download section of settings
 
