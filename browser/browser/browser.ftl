@@ -144,6 +144,8 @@ urlbar-tip-icon-description =
     .alt = Tip:
 urlbar-result-menu-button =
     .title = Avrir il menu
+urlbar-result-menu-button-feedback = Resun
+    .title = Avrir il menu
 urlbar-result-menu-learn-more =
     .label = Ulteriuras infurmaziuns
     .accesskey = U
@@ -671,6 +673,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Avrir maletg-en-maletg ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Serrar maletg-en-maletg ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
