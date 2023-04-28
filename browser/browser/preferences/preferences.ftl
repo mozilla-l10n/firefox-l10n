@@ -1262,6 +1262,14 @@ preferences-doh-setting-default =
 preferences-doh-default-desc = { -brand-short-name } ਫ਼ੈਸਲਾ ਕਰਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਬਚਾਉਣ ਲਈ ਕਦੋਂ ਸੁਰੱਖਿਤ DNS ਵਰਤਣੇ ਹਨ।
 preferences-doh-default-detailed-desc-1 = ਜਿਸ ਵੀ ਖੇਤਰ ਵਿੱਚ DNS ਸੁਰੱਖਿ੍ਤ ਮੌਜੂਦ ਹੋਣ, ਵਰਤੋਂ
 preferences-doh-default-detailed-desc-2 = ਜੇ ਸੁਰੱਖਿਅਤ DNS ਪੂਰਕ ਨਾਲ ਸਮੱਸਿਆ ਹੋਵੇ ਤਾਂ ਆਪਣੇ ਮੂਲ DNS ਹੱਲਕਰਤਾ ਨੂੰ ਵਰਤੋਂ
+preferences-doh-default-detailed-desc-3 = ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੋਵੇ ਤਾਂ ਲੋਕਲ ਪੂਰਕ ਵਰਤੋਂ
+preferences-doh-default-detailed-desc-4 = ਜਦੋਂ VPN, ਮਾਪਿਆਂ ਵਾਲਾ ਕੰਟਰੋਲ ਜਾਂ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਪਾਲਸੀਆਂ ਸਰਗਰਮ ਹੋਣ ਤਾਂ ਬੰਦ ਰੱਖੋ
+preferences-doh-default-detailed-desc-5 = ਜਦੋਂ ਨੈੱਟਵਰਕ { -brand-short-name } ਨੂੰ ਸੁਰੱਖਿਅਤ DNS ਨਾ ਵਰਤਣ ਲਈ ਸੇਧ ਦੇਵੇ ਤਾਂ ਬੰਦ ਰੱਖੋ
+preferences-doh-setting-enabled =
+    .label = ਵਾਧਾ ਕੀਤੀ ਸੁਰੱਖਿਆ
+    .accesskey = I
+preferences-doh-enabled-desc = ਕਦੋਂ ਸੁਰੱਖਿਅਤ DNS ਵਰਤਣਾ ਹੈ ਅਤੇ ਕਿਹੜਾ ਪੂਰਕ ਵਰਤਣਾ ਹੈ, ਤੁਸੀਂ ਕੰਟਰੋਲ ਕਰ ਸਕਦੇ ਹੋ।
+preferences-doh-enabled-detailed-desc-1 = ਤੁਹਾਡੇ ਵਲੋਂ ਚੁਣਿਆ ਪੂਰਕ ਵਰਤੋਂ
 
 ## The following strings are used in the Download section of settings
 
