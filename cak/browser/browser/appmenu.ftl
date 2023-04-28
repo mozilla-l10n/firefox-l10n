@@ -228,6 +228,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Kekomonïx taq na'oj chuqa' taq rutzijol…
     .accesskey = m
+appmenu-help-switch-device =
+    .label = Tijal pa jun k'ak'a' okisaxel
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
