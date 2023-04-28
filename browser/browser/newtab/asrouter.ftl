@@ -226,25 +226,6 @@ colorways-cfr-header-today = La cumbinaziun da colurs «vuschs independentas» s
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Adia a las bandieras da cookies!
-cfr-cookiebanner-body = Permetter a { -brand-short-name } da refusar automaticamain tut las dumondas da bandieras da cookies, sche pussaivel.
-cfr-cookiebanner-accept-button-v2 = Refusar las dumondas
-    .accesskey = R
-cfr-cookiebanner-reject-button = Betg ussa
-    .accesskey = B
-cfr-cookiebanner-header-variant-1 = Mussar damain pop-ups da cookies
-cfr-cookiebanner-body-variant-1 = Lubescha a { -brand-short-name } da respunder automaticamain a pop-ups da cookies per tai. Uschia pos ti puspè navigar senza distracziun. { -brand-short-name } vegn a refusar sche pussaivel tut las dumondas.
-cfr-cookiebanner-accept-button-variant-1 = Bandischar ils pop-ups
-    .accesskey = d
-cfr-cookiebanner-reject-button-variant-1 = Na, grazia
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reducziun da bandieras da cookies
-cfr-cookiebanner-body-variant-2 = Reducescha il dumber da bandieras da cookies che ta vegnan mussadas cun permetter a { -brand-short-name } da refusar sche pussaivel la dumonda da cookies dad ina website.
-cfr-cookiebanner-accept-button-variant-2 = Permetter
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Betg ussa
-    .accesskey = B
 cfr-cbh-header = Permetter a { -brand-short-name } da refusar bandieras da cookies?
 cfr-cbh-body = { -brand-short-name } po refusar automaticamain bleras dumondas da bandieras da cookies.
 cfr-cbh-confirm-button = Refusar las bandieras da cookies
@@ -257,6 +238,12 @@ cfr-cbh-dismiss-button = Betg ussa
 july-jam-headline = Nus defendain tai
 july-jam-body = Mintga mais blochescha { -brand-short-name } en media passa 3'000 fastizaders per utilisader. Uschia vegns ti svelt e segir en l'internet.
 july-jam-set-default-primary = Avrir mias colliaziuns cun { -brand-short-name }
+fox-doodle-pin-headline = Bel da ta vesair puspè!
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Nus vulain ta regurdar che ti pos tegnair tes navigatur independent adina per mauns ed accessibel cun mo in clic.
+fox-doodle-pin-primary = Avrir mias colliaziuns cun { -brand-short-name }
+fox-doodle-pin-secondary = Betg ussa
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

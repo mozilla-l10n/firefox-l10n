@@ -26,6 +26,8 @@ policy-Bookmarks = Crear segnapaginas en la trav da segnapaginas, en il menu da 
 policy-CaptivePortal = Activar u deactivar il sustegn per captive portal.
 policy-CertificatesDescription = Agiuntar certificats u utilisar certificats predefinids.
 policy-Cookies = Permetter u scumandar a websites da definir cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Definir directivas che concernan containers.
 policy-DisabledCiphers = Deactivar la cifraziun.
 policy-DefaultDownloadDirectory = Definir l'ordinatur da standard per memorisar telechargiadas.
 policy-DisableAppUpdate = Impedir l'actualisaziun dal navigatur.
@@ -114,6 +116,8 @@ policy-SearchEngines = Configurar ils parameters da maschinas da tschertgar. Que
 policy-SearchSuggestEnabled = Activar u deactivar propostas da tschertga.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installar moduls PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Agiuntar u stizzar moduls PKCS #11.
 policy-ShowHomeButton = Mussar il buttun da la pagina da partenza en la trav d'utensils.
 policy-SSLVersionMax = Definir la versiun maximala da SSL.
 policy-SSLVersionMin = Definir la versiun minimala da SSL.
