@@ -1270,6 +1270,9 @@ preferences-doh-setting-enabled =
     .accesskey = I
 preferences-doh-enabled-desc = ਕਦੋਂ ਸੁਰੱਖਿਅਤ DNS ਵਰਤਣਾ ਹੈ ਅਤੇ ਕਿਹੜਾ ਪੂਰਕ ਵਰਤਣਾ ਹੈ, ਤੁਸੀਂ ਕੰਟਰੋਲ ਕਰ ਸਕਦੇ ਹੋ।
 preferences-doh-enabled-detailed-desc-1 = ਤੁਹਾਡੇ ਵਲੋਂ ਚੁਣਿਆ ਪੂਰਕ ਵਰਤੋਂ
+preferences-doh-setting-strict =
+    .label = ਵੱਧ ਤੋਂ ਵੱਧ ਸੁਰੱਖਿਆ
+    .accesskey = M
 
 ## The following strings are used in the Download section of settings
 
