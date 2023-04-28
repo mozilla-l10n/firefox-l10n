@@ -108,6 +108,8 @@ migration-import-from-file-button-label = Tagh faidhle
 migration-cancel-button-label = Sguir dheth
 migration-done-button-label = Deiseil
 migration-continue-button-label = Lean air adhart
+migration-wizard-import-browser-no-browsers = Cha b’ urrainn dha { -brand-short-name } prògram sam bith a lorg sa bheil dàta chomharran-lìn, eachdraidh no fhaclan-faire.
+migration-wizard-import-browser-no-resources = Thachair mearachd. Chan fhaigh { -brand-short-name } lorg air dàta sam bith as urrainn dha ion-phortadh on phròifil bhrabhsair ud.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -115,6 +117,21 @@ migration-continue-button-label = Lean air adhart
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = comharran-lìn
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = annsachdan
+migration-list-password-label = faclan-faire
+migration-list-history-label = eachdraidh
+migration-list-autofill-label = dàta fèin-lìonaidh
 
 ##
 
+migration-wizard-progress-header = Ag ion-phortadh dàta
+migration-wizard-progress-done-header = Chaidh an dàta ion-phortadh
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Ag ion-phortadh…
+migration-wizard-progress-icon-completed =
+    .aria-label = Deiseil
+migration-safari-password-import-header = Ion-phortaich faclan-faire o Shafari
+migration-safari-password-import-steps-header = Airson faclan-faire Shafari ion-phortadh:
