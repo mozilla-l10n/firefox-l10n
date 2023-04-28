@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Nadi
     .aria-label = Nadi
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Nadi s { $engine } neɣ sekcem tansa
 newtab-search-box-handoff-text-no-engine = Nadi neɣ sekcem tansa
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Nadi s { $engine } neɣ sekcem tansa
     .title = Nadi s { $engine } neɣ sekcem tansa
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Nadi neɣ sekcem tansa
     .title = Nadi neɣ sekcem tansa
     .aria-label = Nadi neɣ sekcem tansa
-
 newtab-search-box-text = Nadi di web
 newtab-search-box-input =
     .placeholder = Nadi di web
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Ẓreg anegzum
 newtab-topsites-title-label = Azwel
 newtab-topsites-title-input =
     .placeholder = Sekcem azwel
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Aru neɣ sekcem tansa URL
 newtab-topsites-url-validation = Tansa URL tameɣtut tettwasra
-
 newtab-topsites-image-url-label = Tugna tudmawant URL
 newtab-topsites-use-image-link = Seqdec tugna tudmawant…
 newtab-topsites-image-validation = Tugna ur d-uli ara. Ɛreḍ tansa-nniḍen URL.
@@ -84,15 +80,13 @@ newtab-topsite-sponsored = S lmendad
 newtab-menu-section-tooltip =
     .title = Ldi umuɣ
     .aria-label = Ldi umuɣ
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kkes
     .aria-label = Kkes
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Ldi umuɣ
     .aria-label = Ldi umuɣ asatal i { $title }
@@ -158,21 +152,18 @@ newtab-label-removed-bookmark = Tacreṭ n usebter tettwakkes
 newtab-label-recommended = Tiddin
 newtab-label-saved = Yettwakles ɣer { -pocket-brand-name }
 newtab-label-download = Yuli-d
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Yettwarfed
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Ddaw leɛnaya n { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } tsd
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -201,16 +192,15 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Ismal ifazen
 newtab-section-header-recent-activity = Armud n melmi kan
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Iwelleh-it-id { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Bdu tuniginn sakin nekkni ad k-n-sken imagraden, tividyutin, akked isebtar nniḍen i γef terziḍ yakan neγ i tceṛḍeḍ dagi.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagraden seg { $provider }. Ur tebɣiḍ ara ad terǧuḍ? Fren asentel seg wid yettwasnen akken ad twaliḍ imagraden yelhan di Web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -232,11 +222,9 @@ newtab-pocket-learn-more = Issin ugar
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } d yiwen seg twacult n { -brand-product-name }
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Sekles ɣer { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Yettwakles ɣer { -pocket-brand-name }
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Sali-d ugar n tqessiḍin
 
@@ -247,10 +235,13 @@ newtab-pocket-last-card-title = Aql-ak·akem tezziḍ-d akk!
 newtab-pocket-last-card-desc = Uɣal-d ticki ad tesnimreḍ ugar n ugbur.
 newtab-pocket-last-card-image =
     .alt = Aql-ak·akem tezziḍ-d akk!
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Sekles
 newtab-pocket-saved = Yettwasekles
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = Snirem ayen akk igerrzen deg web
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -262,6 +253,8 @@ newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
 
 newtab-custom-shortcuts-title = Inegzumen
 newtab-custom-shortcuts-subtitle = Ismal i teskelseḍ neɣ wuɣur terziḍ
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } yizirig

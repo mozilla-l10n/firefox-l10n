@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Kter seg ufaylu
 migration-import-from-file-button-label = Fren afaylu
 migration-cancel-button-label = Sefsex
 migration-done-button-label = Immed
+migration-continue-button-label = Kemmel
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
