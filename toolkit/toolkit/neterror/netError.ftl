@@ -58,12 +58,13 @@ neterror-dns-not-found-hint-firewall = Verifitgar che { -brand-short-name } ha i
 neterror-dns-not-found-trr-only-reason =
     { -brand-short-name } na po betg proteger tia dumonda per l'adressa da questa website via noss server DNS fidà.
     Il motiv:
-neterror-dns-not-found-trr-only-attackers = Sche ti cuntinueschas, po ina terza partida eventualmain vesair tge websites che ti visitas u ta renviar ad ina website dubiusa.
 neterror-dns-not-found-trr-third-party-warning = Ti pos cuntinuar cun in server DNS che n'è betg segirà. Ma ina terza partida po eventualmain vesair tge websites che ti visitas.
+neterror-dns-not-found-trr-third-party-warning2 = Ti pos cuntinuar cun il servetsch da resoluziun DNS predefinì. Ma ina terza partida po eventualmain vesair tge websites che ti visitas.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } n'ha betg pudì stabilir ina connexiun cun { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La connexiun cun { $trrDomain } ha cuzzà pli ditg che spetgà.
 neterror-dns-not-found-trr-offline = Ti n'es betg connectà cun l'internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } n'ha betg chattà ina adressa per questa website.
+neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } n'ha betg chattà questa website.
 neterror-dns-not-found-trr-server-problem = Igl ha dà in problem cun { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problem nunspetgà.
 
@@ -74,9 +75,7 @@ neterror-dns-not-found-trr-unknown-problem = Problem nunspetgà.
 neterror-dns-not-found-native-fallback-reason =
     { -brand-short-name } na po betg proteger tia dumonda per l'adressa da questa website via noss server DNS fidà.
     Il motiv:
-neterror-dns-not-found-native-fallback-attackers = Ti pos cuntinuar cun in server DNS che n'è betg segirà. Ma ina terza partida po eventualmain vesair tge websites che ti visitas u ta renviar ad ina website dubiusa.
 neterror-dns-not-found-native-fallback-heuristic = DNS via HTTPS è vegnì deactivà en tia rait.
-neterror-dns-not-found-native-fallback-not-confirmed = La connexiun cun { $trrDomain } n'è anc betg pronta.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } n'ha betg pudì stabilir ina connexiun cun { $trrDomain }.
 
 ##
