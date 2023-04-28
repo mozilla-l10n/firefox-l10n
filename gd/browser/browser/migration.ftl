@@ -68,6 +68,8 @@ import-items-description = Tagh na rudan a thèid ion-phortadh:
 import-permissions-page-title = Thoir ceadan dha { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = Tha macOS ag iarraidh ort gun doir thu cead dha { -brand-short-name } gu sònraichte airson na comharran-lìn aig Safari inntrigeadh. Briog air “Lean air adhart” agus tagh am faidhle “Bookmarks.plist” air a’ phanail fosgladh faidhle a nochdas.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = Tha macOS a’ sparradh ort gun toir thu cead dha { -brand-short-name } gu follaiseach airson cead-inntrigidh do dhàta Safarai. Briog air “Lean air adhart”, tagh am pasgan “Safari” sa chòmhradh aig Finder a nochdas is briog air “Fosgail” an uair sin.
 import-migrating-page-title = Ag ion-phortadh…
 import-migrating-description = Tha na rudan a leanas 'gan ion-phortadh an-dràsta…
 import-select-profile-page-title = Tagh pròifil
