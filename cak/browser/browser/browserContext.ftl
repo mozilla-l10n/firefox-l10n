@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Tokisäx Ruk'oj rutaqoya'l { -relay-brand-short-name }
+    .accesskey = t
 main-context-menu-suggest-strong-password =
     .label = Tichilab'ëx Ütz Ewan Tzij…
     .accesskey = Ü
