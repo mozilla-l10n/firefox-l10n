@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge ਪੁਰਾਣਾ
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = CSV ਫ਼ਾਇਲ ਤੋਂ ਪਾਸਵਰਡ
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = ਪਸੰਦਾਂ
 migration-logins-and-passwords-option-label = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
 migration-history-option-label = ਬਰਾਊਜ਼ਰ ਅਤੀਤ
 migration-form-autofill-option-label = ਫ਼ਾਰਮ ਆਪੇ-ਭਰਨ ਵਾਲਾ ਡਾਟਾ
+migration-passwords-from-file-progress-header = ਪਾਸਵਰਡ ਫ਼ਾਇਲ ਦਰਾਮਦ ਕਰੋ
+migration-passwords-from-file-success-header = ਪਾਸਵਰਡ ਕਾਮਯਾਬੀ ਨਾਲ ਦਰਾਮਦ ਕੀਤੇ ਗਏ
+migration-passwords-from-file = ਪਾਸਵਰਡਾਂ ਲਈ ਫ਼ਾਇਲ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+migration-passwords-new = ਨਵੇਂ ਪਾਸਵਰਡ
+migration-passwords-updated = ਮੌਜੂਦਾ ਪਾਸਵਰਡ
+migration-passwords-from-file-picker-title = ਪਾਸਵਰਡ ਫ਼ਾਇਲ ਦਰਾਮਦ ਕਰੋ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,9 +78,32 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV ਡੌਕੂਮੈਂਟ
        *[other] TSV ਫਾਇਲ
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } ਜੋੜੀ
+       *[other] { $newEntries } ਜੋੜੀਆਂ
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } ਅੱਪਡੇਟ ਕੀਤੀ
+       *[other] { $updatedEntries } ਅੱਪਡੇਟ ਕੀਤੀਆਂ
+    }
 migration-import-button-label = ਦਰਾਮਦ
+migration-choose-to-import-from-file-button-label = ਫ਼ਾਇਲ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
+migration-import-from-file-button-label = ਫ਼ਾਇਲ ਚੁਣੋ
 migration-cancel-button-label = ਰੱਦ ਕਰੋ
 migration-done-button-label = ਮੁਕੰਮਲ
+migration-continue-button-label = ਜਾਰੀ ਰੱਖੋ
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ਨੂੰ ਕੋਈ ਵੀ ਅਜਿਹਾ ਪਰੋਗਰਾਮ ਨਹੀਂ ਲੱਭਿਆ, ਜਿਸ ਵਿੱਚ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਜਾਂ ਪਾਸਵਰਡ ਡਾਟਾ ਹੋਵੇ।
 migration-wizard-import-browser-no-resources = ਗਲਤੀ ਆਈ ਸੀ। { -brand-short-name } ਨੂੰ ਉਸ ਬਰਾਊਜ਼ਰ ਪਰੋਫ਼ਾਈਲ ਤੋਂ ਦਰਾਮਦ ਕਰਨ ਲਈ ਕੋਈ ਵੀ ਡਾਟਾ ਨਹੀਂ ਲੱਭ ਸਕਿਆ।
 
