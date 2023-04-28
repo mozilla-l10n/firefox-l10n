@@ -105,6 +105,7 @@ migration-choose-to-import-from-file-button-label = Імпортувати з ф
 migration-import-from-file-button-label = Вибрати файл
 migration-cancel-button-label = Скасувати
 migration-done-button-label = Готово
+migration-continue-button-label = Продовжити
 migration-wizard-import-browser-no-browsers = { -brand-short-name } не зміг знайти програми, які містять закладки, історію чи паролі.
 migration-wizard-import-browser-no-resources = Сталася помилка. { -brand-short-name } не зміг знайти дані для імпорту з цього профілю браузера.
 
