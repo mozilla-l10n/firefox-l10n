@@ -237,6 +237,10 @@ newtab-pocket-last-card-image =
 newtab-pocket-save = ບັນທຶກ
 newtab-pocket-saved = ບັນທຶກແລ້ວ
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = ຄົ້ນພົບສິ່ງທີ່ດີທີ່ສຸດຂອງເວັບ
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
