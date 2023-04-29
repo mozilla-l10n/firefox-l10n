@@ -213,6 +213,7 @@ firefoxview-spotlight-promo-secondarybutton = Tik'o'
 
 colorways-cfr-primarybutton = Ticha' tunun b'onil
     .accesskey = c
+colorways-cfr-header-28days = Ri rub'onil Independent Voice xtik'is ruq'ijul ri 16 ruq'ij nab'ey ik'
 colorways-cfr-header-today = Ri rub'onil Independent Voice xtik'is ruq'ijul wakami
 
 ## Cookie Banner Handling CFR
