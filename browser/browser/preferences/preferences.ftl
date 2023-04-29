@@ -772,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = …ਡਿਸਕਨੈਕਟ ਕਰੋ
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = ਸਿੰਕ ਕਰਨ ਵਾਲੀਆਂ ਸਾਈਟਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਤਬਦੀਲੀਆਂ ਤੁਹਾਡੇ ਕਨੈਕਟ ਹੋਏ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਮਿਲਣਗੀਆਂ।
 sync-engine-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = m
@@ -1238,6 +1239,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS ਉੱਤੇ DNS
+preferences-doh-description = HTTPS ਰਾਹੀਂ ਡੋਮੇਨ ਨੇਮ ਸਿਸਟਮ (DNS) ਤੁਹਾਡੇ ਵਲੋਂ ਮੰਗ ਕੀਤੀ ਡੋਮੇਨ ਦੀ ਬੇਨਤੀ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਭੇਜਦਾ ਹੈ, ਸੁਰੱਖਿਅਤ DNS ਬਣਾਉਂਦਾ ਹੈ ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰਾਂ ਵੱਲੋਂ ਵੇਖਣ ਨੂੰ ਵੱਧ ਔਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = ਹਾਲਤ: { $status }
@@ -1270,9 +1272,26 @@ preferences-doh-setting-enabled =
     .accesskey = I
 preferences-doh-enabled-desc = ਕਦੋਂ ਸੁਰੱਖਿਅਤ DNS ਵਰਤਣਾ ਹੈ ਅਤੇ ਕਿਹੜਾ ਪੂਰਕ ਵਰਤਣਾ ਹੈ, ਤੁਸੀਂ ਕੰਟਰੋਲ ਕਰ ਸਕਦੇ ਹੋ।
 preferences-doh-enabled-detailed-desc-1 = ਤੁਹਾਡੇ ਵਲੋਂ ਚੁਣਿਆ ਪੂਰਕ ਵਰਤੋਂ
+preferences-doh-enabled-detailed-desc-2 = ਜੇ ਸੁਰੱਖਿਅਤ DNS ਨਾਲ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੋਵੇ ਤਾਂ ਆਪਣੇ ਮੂਲ DNS ਹੱਲਕਰਤਾ ਨੂੰ ਹੀ ਵਰਤੋਂ।
 preferences-doh-setting-strict =
     .label = ਵੱਧ ਤੋਂ ਵੱਧ ਸੁਰੱਖਿਆ
     .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } ਹਮੇਸ਼ਾ ਸੁਰੱਖਿਅਤ DNS ਵਰਤੇਗਾ। ਜਦੋਂ ਅਸੀਂ ਤੁਹਾਡੇ ਸਿਸਟਮ DNS ਨੂੰ ਵਰਤਾਂਗੇ ਤਾਂ ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਖ਼ਤਰੇ ਦੀ ਚੇਤਾਵਨੀ ਵੇਖੋਗੇ।
+preferences-doh-strict-detailed-desc-1 = ਸਿਰਫ਼ ਤੁਹਾਡੇ ਵਲੋਂ ਚੁਣੇ ਪੂਰਕ ਨੂੰ ਹੀ ਵਰਤੋਂ
+preferences-doh-strict-detailed-desc-2 = ਜੇ ਸੁਰੱਖਿਅਤ DNS ਮੌਜੂਦ ਨਾ ਹੋਵੇ ਤਾਂ ਹਮੇਸ਼ਾ ਸਾਵਧਾਨ ਕਰੋ
+preferences-doh-strict-detailed-desc-3 = ਜੇ ਸੁਰੱਖਿਅਤ DNS ਮੌਜੂਦ ਨਹੀਂ ਹੁੰਦੇ ਤਾਂ ਸਾਈਟ ਲੋਡ ਨਹੀਂ ਹੁੰਦੀਆਂ ਜਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦੀਆਂ
+preferences-doh-setting-off =
+    .label = ਬੰਦ
+    .accesskey = O
+preferences-doh-off-desc = ਤੁਹਾਡੇ ਮੂਲ DNS ਹੱਲਕਰਤਾ ਵਰਤੋਂ
+preferences-doh-checkbox-warn =
+    .label = ਸਾਵਧਾਨ ਕਰੋ ਜੇ ਕੋਈ ਤੀਜੀ ਧਿਰ ਸੁਰੱਖਿਅਤ DNS ਨੂੰ ਸਰਗਰਮ ਰੂਪ ਵਿੱਚ ਰੋਕਦੀ ਹੋਵੇ
+    .accesskey = W
+preferences-doh-select-resolver = ਪੂਰਕ ਚੁਣੋ:
+preferences-doh-exceptions-description = { -brand-short-name } ਇਹਨਾਂ ਸਾਈਟਾਂ ਲਈ ਸੁਰੱਖਿਅਤ DNS ਨਹੀਂ ਵਰਤੇਗਾ
+preferences-doh-manage-exceptions =
+    .label = …ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
