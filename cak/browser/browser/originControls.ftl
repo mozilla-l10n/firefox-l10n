@@ -30,6 +30,7 @@ origin-controls-state-no-access = Man tikirel ta nisik'ïx chuqa' yejal taq tzij
 origin-controls-state-always-on = Jantape' tikirel nisik'ïx chuqa' yejal taq tzij pa re ruxaq
 origin-controls-state-runnable-hover-open = Tijaq k'amal
 origin-controls-state-runnable-hover-run = Tisamajïx k'amal
+origin-controls-state-temporary-access = Tikirel nisik'ïx chuqa' yejal taq tzij pa re tz'etoj re'
 
 ## Extension's toolbar button.
 ## Variables:
