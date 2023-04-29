@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formularoj
 protections-panel-site-not-working-view-issue-list-payments = Pagoj
 protections-panel-site-not-working-view-issue-list-comments = Komentoj
 protections-panel-site-not-working-view-issue-list-videos = Filmetoj
+protections-panel-site-not-working-view-issue-list-fonts = Tiparoj
 protections-panel-site-not-working-view-send-report = Sendi raporton
 
 ##
