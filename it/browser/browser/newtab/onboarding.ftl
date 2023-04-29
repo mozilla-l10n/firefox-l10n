@@ -466,3 +466,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista di un tramonto attraverso una finestra, con una volpe e una pianta sul davanzale
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Una mano disegna un graffito con un collage colorato che include un occhio verde, una scarpa arancio, un pallone rosso da basket, cuffie viola, un cuore blu e una corona gialla
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+  .aria-label = Una volpe che saluta dallo schermo di un computer portatile. Il computer ha un mouse collegato.
+onboarding-device-migration-title = Bentornato
+onboarding-device-migration-subtitle = Accedi al tuo { -fxaccount-brand-name } per portare con te segnalibri, password e cronologia di navigazione su un nuovo dispositivo.
+onboarding-device-migration-primary-button-label = Accedi
