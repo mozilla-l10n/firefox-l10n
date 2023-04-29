@@ -116,6 +116,8 @@ policy-SearchEngines = Налаштувати засіб пошуку. Ця по
 policy-SearchSuggestEnabled = Увімкнути чи вимкнути пропозиції пошуку.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Встановити модулі PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Додати або видалити модулі PKCS #11.
 policy-ShowHomeButton = Показувати кнопку домівки на панелі інструментів.
 policy-SSLVersionMax = Встановити максимальну версію SSL.
 policy-SSLVersionMin = Встановити мінімальну версію SSL.
