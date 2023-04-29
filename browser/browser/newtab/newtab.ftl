@@ -246,6 +246,7 @@ newtab-pocket-saved = Сохранено
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Находите лучшее в сети
+newtab-pocket-onboarding-cta = { -pocket-brand-name } исследует широкий спектр публикаций, чтобы предоставить вам самый информативный, вдохновляющий и заслуживающий доверия контент прямо в вашем браузере { -brand-product-name }.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
