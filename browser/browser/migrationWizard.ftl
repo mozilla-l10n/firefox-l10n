@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importar d’un fichièr
 migration-import-from-file-button-label = Seleccionar un fichièr
 migration-cancel-button-label = Anullar
 migration-done-button-label = Acabat
+migration-continue-button-label = Contunhar
 migration-wizard-import-browser-no-browsers = { -brand-short-name } a pas pogut trapar cap de programa contenent de donadas de marcapaginas, istoric o senhals.
 migration-wizard-import-browser-no-resources = S’es producha una error. { -brand-short-name } a pas pogut trapar cap de donadas d’importar a partir del perfil d’aqueste navegador.
 
