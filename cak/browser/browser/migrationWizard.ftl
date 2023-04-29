@@ -78,9 +78,32 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV Wujil
        *[other] TSV Yakb'äl
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } etz'aqatisan
+       *[other] { $newEntries } etz'aqatisan
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } ek'exon
+       *[other] { $updatedEntries } ek'exon
+    }
 migration-import-button-label = Tijik' pe
+migration-choose-to-import-from-file-button-label = Tijik' pa jun Yakb'äl
+migration-import-from-file-button-label = Ticha' Yakb'äl
 migration-cancel-button-label = Tiq'at
 migration-done-button-label = Xk'is
+migration-continue-button-label = Titikïr chik el
 migration-wizard-import-browser-no-browsers = { -brand-short-name } majun nuk'samaj xrïl ri k'o kitzij yaketal, natab'äl o ewan taq  tzij chupam.
 migration-wizard-import-browser-no-resources = Xk'oje' jun sachoj. { -brand-short-name } majun tzij xrïl richin nijik' pa ruwäch okik'amaya'l.
 
