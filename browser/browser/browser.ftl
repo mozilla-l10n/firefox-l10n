@@ -144,6 +144,8 @@ urlbar-tip-icon-description =
     .alt = Konsileto:
 urlbar-result-menu-button =
     .title = Malfermi menuon
+urlbar-result-menu-button-feedback = Komentoj
+    .title = Malfermi menuon
 urlbar-result-menu-learn-more =
     .label = Pli da informo
     .accesskey = i
@@ -671,6 +673,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Malfermi inkrustitan videon ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Fermi inkrustitan videon ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 

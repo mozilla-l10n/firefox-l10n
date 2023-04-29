@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Rekomendita agordaro por la senerarigo de la plimulto de teksaĵaj programoj, kun malmulte da aldona kromprocezado.
 profiler-popup-presets-web-developer-label =
     .label = Teksaĵa programisto
@@ -223,6 +228,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Dividi ideojn kaj komentojn…
     .accesskey = D
+appmenu-help-switch-device =
+    .label = Iro al nova aparato
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
