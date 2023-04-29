@@ -344,6 +344,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Искључи режим за решавање проблема
     .accesskey = р
+menu-help-switch-device =
+    .label = Пребацивање на нови уређај
+    .accesskey = н
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
