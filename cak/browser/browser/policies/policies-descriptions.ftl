@@ -26,6 +26,8 @@ policy-Bookmarks = Ketz'uk taq yaketal pa ri Rukatz'ik yaketal. pa ri Ruk'utsama
 policy-CaptivePortal = Titz'ij o tichup ri rutob'al ri chapon portal.
 policy-CertificatesDescription = Ketz'aqatisäx taq iqitzijib'äl o ke'okisäx tz'aqatisan taq iqitzijib'äl.
 policy-Cookies = Niya' o man niya' ta q'ij chi ke ri ajk'amaya'l taq ruxaq richin nikijikib'a' taq kaxlanwäy.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Kejikib'äx taq na'oj kiximon kik'in ri taq k'wayöl.
 policy-DisabledCiphers = Kechup ewan rusik'ixik.
 policy-DefaultDownloadDirectory = Tijikib'äx ri kimolwuj qasanïk kan k'o wi.
 policy-DisableAppUpdate = Man tiya' q'ij richin nuk'ëx ri' ri okik'amaya'l.
