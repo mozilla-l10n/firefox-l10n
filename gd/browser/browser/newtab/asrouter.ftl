@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Gleus a mholamaid
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Carson a tha mi a’ faicinn seo?
-
 cfr-doorhanger-extension-cancel-button = Chan ann an-dràsta
     .accesskey = d
-
 cfr-doorhanger-extension-ok-button = Cuir ris an-dràsta
     .accesskey = C
-
 cfr-doorhanger-extension-manage-settings-button = Stiùirich roghainnean nam molaidhean
     .accesskey = m
-
 cfr-doorhanger-extension-never-show-recommendation = Na seall am moladh seo dhomh
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Barrachd fiosrachaidh
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = le { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Moladh
 cfr-doorhanger-extension-notification2 = Moladh
     .tooltiptext = Leudachan a mholamaid
     .a11y-announcement = Tha moladh leudachain ann
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Moladh
@@ -89,11 +81,9 @@ cfr-protections-panel-link-text = Barrachd fiosrachaidh
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gleus ùr:
-
 cfr-whatsnew-button =
     .label = Na tha ùr
     .tooltiptext = Na tha ùr
-
 cfr-whatsnew-release-notes-link-text = Leugh na nòtaichean sgaoilidh
 
 ## Enhanced Tracking Protection Milestones
@@ -171,11 +161,6 @@ spotlight-total-cookie-protection-expanded = Togaidh { -brand-short-name } feans
 spotlight-total-cookie-protection-primary-button = Cuir an làn-dìon o bhriosgaidean air
 spotlight-total-cookie-protection-secondary-button = Chan ann an-dràsta
 
-cfr-total-cookie-protection-header = Taing dhut-sa, tha { -brand-short-name } nas prìobhaidiche agus nas tèarainte na bha e a-riamh roimhe
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = ’S e gleus an làn-dìon o bhriosgaidean an dìon prìobhaideachd as treasa a bh’ againn a-riamh – agus tha e an sàs ann am { -brand-short-name } dhan a h-uile duine o thùs a-nis. Tha sinn fada an comain dhaoine mar thu fhèin a chur fo dheuchainn e tràth. Mòran taing airson eadar-lìon nas fheàrr, nas prìobhaidiche a thogail còmhla rinn.
-
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Is tusa ceann-toisich eadar-lìn nas fheàrr
@@ -202,7 +187,38 @@ spotlight-pin-secondary-button = Chan ann an-dràsta
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = { -brand-short-name } ùr. Nas prìobhaidiche. Na lugha de thracaichean. Gun mhura-bhith.
+mr2022-background-update-toast-text = Feuch am { -brand-short-name } as ùire, le dìon o thracadh a tha nas treasa na bha e a-riamh roimhe.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Fosgail { -brand-shorter-name } an-dràsta
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Cuir nam chuimhne an ceann tamaill
+
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Feuch e
+    .accesskey = F
+firefoxview-cfr-secondarybutton = Chan ann an-dràsta
+    .accesskey = C
+firefoxview-cfr-header-v2 = Lean ort far an do stad thu roimhe gun dàil
+
 ## Firefox View Spotlight
+
+
+## Colorways expiry reminder CFR
+
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

@@ -129,3 +129,64 @@ migration-wizard-progress-icon-completed =
     .aria-label = Deiseil
 migration-safari-password-import-header = Ion-phortaich faclan-faire o Shafari
 migration-safari-password-import-steps-header = Airson faclan-faire Shafari ion-phortadh:
+migration-safari-password-import-step1 = Ann an Safari, fosgail clàr-taice “Safari” is tadhail air “Preferences” > “Passwords”
+migration-safari-password-import-step2 = Tagh am putan <img data-l10n-name="safari-icon-3dots"/> is tagh “Às-phortaich a h-uile facal-faire”
+migration-safari-password-import-step3 = Sàbhail faidhle nam faclan-faire
+migration-safari-password-import-step4 = Cleachd “Tagh faidhle” gu h-ìosal airson faidhle nam faclan-faire a shàbhail thu a thaghadh
+migration-safari-password-import-skip-button = Leum seachad
+migration-safari-password-import-select-button = Tagh faidhle
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } chomharra-lìn
+        [two] { $quantity } chomharra-lìn
+        [few] { $quantity } comharran-lìn
+       *[other] { $quantity } comharra-lìn
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } annsachd
+        [two] { $quantity } annsachd
+        [few] { $quantity } annsachdan
+       *[other] { $quantity } annsachd
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } fhacal-faire
+        [two] { $quantity } fhacal-faire
+        [few] { $quantity } faclan-faire
+       *[other] { $quantity } facal-faire
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] dhen { $maxAgeInDays } latha ron diugh
+        [two] dhen { $maxAgeInDays } latha ron diugh
+        [few] dhen { $maxAgeInDays } làithean ron diugh
+       *[other] dhen { $maxAgeInDays } latha ron diugh
+    }
+migration-wizard-progress-success-formdata = Eachdraidh na foirm
+migration-wizard-safari-permissions-sub-header = Airson comharran-lìn is eachdraidh brabhsaidh Safari ion-phortadh:
+migration-wizard-safari-instructions-continue = Tagh “Air adhart”
+migration-wizard-safari-instructions-folder = Tagh pasgan Safari san liosta is tagh “Fosgail”
+migration-wizard-safari-select-button = Tagh faidhle
