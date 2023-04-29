@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Paŭzigi
-    .title = Paŭzigi (spacoklavo)
-pictureinpicture-play-cmd =
-    .aria-label = Ludi
-    .title = Ludi (spacoklavo)
-pictureinpicture-mute-cmd =
-    .aria-label = Silentigi
-    .title = Silentigi ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Malsilentigi
-    .title = Malsilentigi ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Sendi reen al langeto
-    .title = Reen al langeto
-pictureinpicture-close-cmd =
-    .aria-label = Fermi
-    .title = Fermi ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Subtekstoj
-    .title = Subtekstoj
 pictureinpicture-pause-btn =
     .aria-label = Paŭzigi
     .tooltip = Paŭzigi (spacoklavo)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Plenekrane
-    .title = Plenekrane (duobla alklako)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Eliri el plenekrana reĝimo
-    .title = Eliri el plenekrana reĝimo (duobla alklako)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Malantaŭen
-    .title = Malantaŭen (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Antaŭen
-    .title = Antaŭen (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Plenekrane
     .tooltip = Plenekrane (duobla alklako)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Antaŭen
     .tooltip = Antaŭen (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Agordoj de subteksto
 pictureinpicture-subtitles-label = Subtekstoj
 pictureinpicture-font-size-label = Tipara grando
 pictureinpicture-font-size-small = Eta
