@@ -223,25 +223,6 @@ colorways-cfr-header-today = La koloraroj de sendependaj voĉoj senvalidiĝos ho
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Kuketaj anoncoj, for!
-cfr-cookiebanner-body = Permesi al { -brand-short-name } aŭtomate rifuzi ĉiujn petojn de kuketaj anoncoj, se tio eblas.
-cfr-cookiebanner-accept-button-v2 = Rifuzi petojn
-    .accesskey = R
-cfr-cookiebanner-reject-button = Ne nun
-    .accesskey = N
-cfr-cookiebanner-header-variant-1 = Vidi malpli da kuketaj ŝprucaĵoj
-cfr-cookiebanner-body-variant-1 = Permesi al { -brand-short-name } aŭtomate respondi por vi kuketajn ŝprucaĵojn, tiel ke vi povas sendistre plu retumi. { -brand-short-name } rifuzos ĉiujn petojn, se tio eblas.
-cfr-cookiebanner-accept-button-variant-1 = Ignori ŝprucaĵojn
-    .accesskey = I
-cfr-cookiebanner-reject-button-variant-1 = Ne, dankon
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Redukto de kuketaj anoncoj
-cfr-cookiebanner-body-variant-2 = Redukti la kvanton de kuketaj anoncoj per permeso al { -brand-short-name } rifuzi la konsentan peton pri retejaj kuketoj, se tio eblas.
-cfr-cookiebanner-accept-button-variant-2 = Permesi
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Ne nun
-    .accesskey = N
 cfr-cbh-header = Ĉu permesi al { -brand-short-name } rifuzi kuketajn anoncojn?
 cfr-cbh-body = { -brand-short-name } povas aŭtomate rifuzi plurajn petojn de kuketaj anoncoj.
 cfr-cbh-confirm-button = Rifuzi kuketajn anoncojn
@@ -254,6 +235,12 @@ cfr-cbh-dismiss-button = Ne nun
 july-jam-headline = Ni protektas vin
 july-jam-body = Ĉiumonate { -brand-short-name } blokas mezume po 3,000+ spurilojn por ĉiu uzanto, proponante al vi sekuran kaj rapidan aliron al la bona interreto.
 july-jam-set-default-primary = Malfermi miajn ligilojn per { -brand-short-name }
+fox-doodle-pin-headline = Bonvenon denove
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Jen rapida memorigo, pri tio ke vi povas havi vian preferatan sendependan retumilon atingebla je unu alklako.
+fox-doodle-pin-primary = Malfermi miajn ligilojn per { -brand-short-name }
+fox-doodle-pin-secondary = Ne nun
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
