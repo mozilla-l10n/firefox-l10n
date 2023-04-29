@@ -23,7 +23,6 @@
 about-logging-title = O beleženju
 about-logging-page-title = Upravitelj beleženja
 about-logging-current-log-file = Trenutna dnevniška datoteka:
-about-logging-current-log-modules = Trenutni dnevniški moduli:
 about-logging-new-log-file = Nova dnevniška datoteka:
 about-logging-currently-enabled-log-modules = Trenutno omogočeni dnevniški moduli:
 about-logging-log-tutorial = Za navodila o uporabi tega orodja si oglejte <a data-l10n-name="logging">Beleženje HTTP</a>.
@@ -38,8 +37,8 @@ about-logging-log-modules-selection = Izbira modula za beleženje
 about-logging-new-log-modules = Novi dnevniški moduli:
 about-logging-logging-to-file = Beleženje v datoteko
 about-logging-logging-to-profiler = Beleženje v { -profiler-brand-name(sklon: "tozilnik") }
-about-logging-no-log-modules = Brez
-about-logging-no-log-file = Brez
+about-logging-no-log-modules = brez
+about-logging-no-log-file = brez
 about-logging-logging-preset-selector-text = Prednastavitev beleženja:
 
 ## Logging presets
