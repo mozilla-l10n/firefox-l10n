@@ -330,6 +330,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Tắt chế độ xử lý sự cố
     .accesskey = M
+menu-help-switch-device =
+    .label = Chuyển sang một thiết bị mới
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
