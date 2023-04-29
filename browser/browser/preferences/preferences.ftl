@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Nuntempe vi spegulas la jenajn elementojn:
+sync-syncing-across-devices-heading = Vi spegulas tiujn ĉi elementojn inter ĉiuj viaj konektitaj aparatoj:
 sync-currently-syncing-bookmarks = legosignojn
 sync-currently-syncing-history = historion
 sync-currently-syncing-tabs = malfermitajn langetojn
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = K
     .buttonlabelextra2 = Malkonekti…
     .buttonaccesskeyextra2 = M
+sync-choose-dialog-subtitle = Ŝanĝoj en la listo de spegulataj elementoj estos aplikitaj al ĉiuj viaj konektitaj aparatoj.
 sync-engine-bookmarks =
     .label = legosignojn
     .accesskey = l
@@ -1228,6 +1230,41 @@ httpsonly-radio-enabled-pbm =
     .label = Aktivigi HTTPS-nuran reĝimon nur en privataj fenestroj
 httpsonly-radio-disabled =
     .label = Ne aktivigi HTTPS-nuran reĝimon
+
+## DoH Section
+
+preferences-doh-header = DNS per HTTPS
+preferences-doh-description = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio kreas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Stato: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Provizanto: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Nevalida retadreso
+preferences-doh-steering-status = Loka provizanto uzata
+preferences-doh-status-active = Aktiva
+preferences-doh-status-disabled = Malŝaltita
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Neaktiva ({ $reason })
+preferences-doh-group-message = Aktivigi sekuran DNS per:
+preferences-doh-expand-section =
+    .tooltiptext = Pli da informo
+preferences-doh-setting-default =
+    .label = Norma protekto
+    .accesskey = N
+preferences-doh-default-desc = { -brand-short-name } decidas kiam uzi sekuran DNS por protekti vian privatecon.
+preferences-doh-default-detailed-desc-1 = Uzi sekuran DNS en regionoj, kie ĝi disponeblas
+preferences-doh-default-detailed-desc-2 = Uzi vian norman serĉilon DNS se estas problemo kun la provizanto de sekura DNS
+preferences-doh-default-detailed-desc-3 = Uzi lokan provizanton, se tio eblas
+preferences-doh-default-detailed-desc-4 = Malŝalti kiam VPN, gepatra superrego aŭ entreprena politikoj estas aktivaj.
+preferences-doh-default-detailed-desc-5 = Malŝalti kiam reto indikas al { -brand-short-name } ke sekura DNS ne devus esti uzata
+preferences-doh-setting-enabled =
+    .label = Plifortigita protekto
+    .accesskey = P
 
 ## The following strings are used in the Download section of settings
 
