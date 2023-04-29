@@ -1265,6 +1265,28 @@ preferences-doh-default-detailed-desc-5 = Malŝalti kiam reto indikas al { -bran
 preferences-doh-setting-enabled =
     .label = Plifortigita protekto
     .accesskey = P
+preferences-doh-enabled-desc = Vi decidas kiam uzi sekuran DNS kaj mem elektas la provizanton.
+preferences-doh-enabled-detailed-desc-1 = Uzi la provizanton elektita de vi
+preferences-doh-enabled-detailed-desc-2 = Nur uzi vian normal serĉilon DNS se estas problemo kun la sekura DNS
+preferences-doh-setting-strict =
+    .label = Plej forta protekto
+    .accesskey = f
+preferences-doh-strict-desc = { -brand-short-name } ĉiam uzos sekuran DNS. Vi vidos averton pri sekureca risko antaŭ ol ni uzos vian sisteman DNS.
+preferences-doh-strict-detailed-desc-1 = Nur uzi la provizanton elektita de vi.
+preferences-doh-strict-detailed-desc-2 = Ĉiam averti se sekura DNS ne estas disponebla
+preferences-doh-strict-detailed-desc-3 = Se sekura DNS ne estas disponebla, retejoj nek ŝargiĝos nek funkcios bone
+preferences-doh-setting-off =
+    .label = Malŝaltita
+    .accesskey = M
+preferences-doh-off-desc = Uzi vian normal serĉilon DNS
+preferences-doh-checkbox-warn =
+    .label = Averti se iu alia aktive evitas la uzon de sekura DNS
+    .accesskey = A
+preferences-doh-select-resolver = Elekti provizanton:
+preferences-doh-exceptions-description = { -brand-short-name } ne uzos sekuran DNS en tiuj ĉi retejoj
+preferences-doh-manage-exceptions =
+    .label = Administri esceptojn…
+    .accesskey = e
 
 ## The following strings are used in the Download section of settings
 
