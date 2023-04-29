@@ -26,6 +26,8 @@ policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de le
 policy-CaptivePortal = Aktivigi aŭ malaktivigi subtenon por kapta portalo.
 policy-CertificatesDescription = Aldoni atestilojn aŭ uzi inkluzivitajn atestilojn.
 policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Dinifi politikojn, kiuj rilatas ingojn.
 policy-DisabledCiphers = Malaktivigi ĉifradon.
 policy-DefaultDownloadDirectory = Difini la norman dosierujon por elŝutoj.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
@@ -114,6 +116,8 @@ policy-SearchEngines = Agordi serĉilojn. Tiu ĉi politiko nur disponebla en la 
 policy-SearchSuggestEnabled = Aktivigi aŭ malaktivigi serĉajn sugestojn.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instali modulojn PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Aldoni aŭ forigi modulojn PKCS #11.
 policy-ShowHomeButton = Montri la butonon por eka paĝo en la ilaro.
 policy-SSLVersionMax = Difini la minimuman version de SSL.
 policy-SSLVersionMin = Difini la maksimuman version de SSL.
