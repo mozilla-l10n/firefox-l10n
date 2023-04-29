@@ -56,12 +56,13 @@ neterror-dns-not-found-hint-firewall = kontroli ĉu { -brand-short-name } rajtas
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = Per niaj fidatajserviloj DNS { -brand-short-name } ne povas protekti vian peton al tiu ĉi adreso de retejo. Jen la kialo:
-neterror-dns-not-found-trr-only-attackers = Se vi daŭrigas, iu alia povus vidi la liston de retejoj vizititaj de vi, aŭ redirekti vin al nefidata retejo.
 neterror-dns-not-found-trr-third-party-warning = Vi povas daŭrigi per serĉilo DNS kiu ne estas sekura. Tamen, iu alia povas vidi, kiujn retejoj vi vizitas.
+neterror-dns-not-found-trr-third-party-warning2 = Vi povas daŭrigi per via norma serĉilo DNS. Tamen, iu alia povus vidi, kiujn retejoj vi vizitas.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ne povis konektiĝi al { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La konekto al { $trrDomain } daŭris pli longe ol atendite.
 neterror-dns-not-found-trr-offline = Vi ne estas konektita al interreto.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } ne trovis adreson por tiu ĉi retejo.
+neterror-dns-not-found-trr-unknown-host2 = Tiu ĉi retejo ne estis trovita de { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Okazis problemo kun { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Neatendita problemo.
 
@@ -70,9 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Neatendita problemo.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne povas protekti vian peton pri la adreso de tiu ĉi retejo uzante niajn fidatajn serĉilojn DNS. Jen la kialo:
-neterror-dns-not-found-native-fallback-attackers = Vi povas daŭrigi per serĉilo DNS kiu ne estas sekura. Tamen, iu alia povas vidi, kiujn retejoj vi vizitas, aŭ redirekti vin al nefidata retejo.
 neterror-dns-not-found-native-fallback-heuristic = DNS per HTTPS estis malaktivigita en via reto.
-neterror-dns-not-found-native-fallback-not-confirmed = La konekto al { $trrDomain } ankoraŭ ne pretas.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ne povis konektiĝi al { $trrDomain }.
 
 ##
