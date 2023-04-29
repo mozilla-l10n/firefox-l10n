@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Boyut değerlerini düzenlemek için tıklayıp sürükleyin
 options-inspector-draggable-properties-tooltip =
     .title = Denetçi kuralları görünümünde boyut değerlerini düzenlemek için tıklayıp sürükleyin.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = prefers-reduced-motion ile daha basit vurgular kullan
+options-inspector-simplified-highlighters-tooltip =
+    .title = prefers-reduced-motion etkinse basitleştirilmiş vurgulayıcıları etkinleştirir. Yanıp sönme efektlerini önlemek için, vurgulanan öğelerin etrafına dolgulu dikdörtgen yerine çizgi çizer.
 
 ## "Default Color Unit" options for the Inspector
 
