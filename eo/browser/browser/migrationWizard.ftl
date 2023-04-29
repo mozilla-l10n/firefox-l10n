@@ -60,6 +60,10 @@ migration-history-option-label = Historio de retumo
 migration-form-autofill-option-label = Datumoj pri aŭtomata plenigo de formularoj
 migration-passwords-from-file-progress-header = Enporti dosieron kun pasvortoj
 migration-passwords-from-file-success-header = Pasvortoj sukcese enportitaj
+migration-passwords-from-file = Kontrolo de ekzisto de pasvortoj en dosiero
+migration-passwords-new = Novaj pasvortoj
+migration-passwords-updated = Jamaj pasvortoj
+migration-passwords-from-file-picker-title = Enporti dosieron kun pasvortoj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -74,6 +78,34 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokumento TSV
        *[other] Dosiero TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } aldonita
+       *[other] { $newEntries } aldonitaj
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } ĝisdatigita
+       *[other] { $updatedEntries } ĝisdatigitaj
+    }
+migration-import-button-label = Enporti
+migration-choose-to-import-from-file-button-label = Enporti el dosiero
+migration-import-from-file-button-label = Elekti dosieron
+migration-cancel-button-label = Nuligi
+migration-done-button-label = Farita
+migration-continue-button-label = Daŭrigi
+migration-wizard-import-browser-no-browsers = { -brand-short-name } ne povis trovi programon, kiu enhavas legosignajn, historiajn aŭ pasvortajn datumojn.
+migration-wizard-import-browser-no-resources = Okazis erar. { -brand-short-name } ne povis trovi enporteblajn datumojn el tiu retumila profilo.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -81,6 +113,59 @@ migration-passwords-from-file-tsv-filter-title =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = legosignojn
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = plej ŝatatajn
+migration-list-password-label = pasvortojn
+migration-list-history-label = historion
+migration-list-autofill-label = datumojn de aŭtomata plenigo
 
 ##
 
+migration-wizard-progress-header = Datumoj enportataj
+migration-wizard-progress-done-header = Datumoj sukcese enportitaj
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Enporto…
+migration-wizard-progress-icon-completed =
+    .aria-label = Kompleta
+migration-safari-password-import-header = Enporti pasvortojn el Safari
+migration-safari-password-import-steps-header = Por enporti pasvortojn el Safari:
+migration-safari-password-import-step1 = En Safari, malfermu la menuon “Safari“ kaj iru al Preferoj > Pasvortoj
+migration-safari-password-import-step2 = Elektu la butonon <img data-l10n-name="safari-icon-3dots"/> kaj “Elporti ĉiujn pasvortojn”
+migration-safari-password-import-step3 = Konservi la dosieron kun pasvortoj
+migration-safari-password-import-step4 = Malsupre, uzu “Elekti dosieron” por elekti la dosieron kun pasvortoj, kiun vi konservis
+migration-safari-password-import-skip-button = Ignori
+migration-safari-password-import-select-button = Elekti dosieron
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } legosigno
+       *[other] { $quantity } legosignoj
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } plej ŝatata
+       *[other] { $quantity } plej ŝatataj
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } pasvorto
+       *[other] { $quantity } pasvortoj
+    }
