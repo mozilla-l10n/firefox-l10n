@@ -95,13 +95,7 @@ migration-wizard-progress-success-new-passwords =
 #
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
-migration-wizard-progress-success-updated-passwords =
-    { $updatedEntries ->
-        [one] Chaidh { $newEntries } ùrachadh
-        [two] Chaidh { $newEntries } ùrachadh
-        [few] Chaidh { $newEntries } ùrachadh
-       *[other] Chaidh { $newEntries } ùrachadh
-    }
+migration-wizard-progress-success-updated-passwords = Chaidh { $updatedEntries } ùrachadh
 migration-import-button-label = Ion-phortaich
 migration-choose-to-import-from-file-button-label = Ion-phortaich o fhaidhle
 migration-import-from-file-button-label = Tagh faidhle
