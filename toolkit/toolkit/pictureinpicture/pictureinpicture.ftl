@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Anhalten
-    .title = Anhalten (Leertaste)
-pictureinpicture-play-cmd =
-    .aria-label = Abspielen
-    .title = Abspielen (Leertaste)
-pictureinpicture-mute-cmd =
-    .aria-label = Ton aus
-    .title = Ton aus ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Ton an
-    .title = Ton an ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Einfügen in ursprünglichen Tab
-    .title = In ursprünglichen Tab
-pictureinpicture-close-cmd =
-    .aria-label = Schließen
-    .title = Schließen ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Untertitel
-    .title = Untertitel
 pictureinpicture-pause-btn =
     .aria-label = Anhalten
     .tooltip = Anhalten (Leertaste)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Vollbild
-    .title = Vollbild (Doppelklick)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Vollbild beenden
-    .title = Vollbild beenden (Doppelklick)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Zurück
-    .title = Zurück (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Vor
-    .title = Vor (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Vollbild
     .tooltip = Vollbild (Doppelklick)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Vor
     .tooltip = Vor (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Untertitel-Einstellungen
 pictureinpicture-subtitles-label = Untertitel
 pictureinpicture-font-size-label = Schriftgröße
 pictureinpicture-font-size-small = Klein
