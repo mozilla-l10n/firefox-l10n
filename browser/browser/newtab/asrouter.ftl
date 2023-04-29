@@ -207,12 +207,22 @@ firefoxview-cfr-primarybutton = Feuch e
 firefoxview-cfr-secondarybutton = Chan ann an-dràsta
     .accesskey = C
 firefoxview-cfr-header-v2 = Lean ort far an do stad thu roimhe gun dàil
+firefoxview-cfr-body-v2 = Faigh greim a-rithist air tabaichean a dhùin thu o chionn goirid is leum eadar uidheaman gun chnap-starra le { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Cuir fàilte air { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Ag iarradh an taba ud a tha fosgailte air an fhòn agad? Faigh greim air. An làrach air an do thadhail thu an-dràsta fhèin a dhìth ort? Fruis, seo dhut e le { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Seo mar a dh’obraicheas e
+firefoxview-spotlight-promo-secondarybutton = Leum seachad
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Tagh sgeama dhathan
+    .accesskey = T
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Cuir dathan air a’ bhrabhsair agad le tuaran dhathan nach fhaigh thu ach ann am { -brand-short-name } stèidhichte air guthan aig an robh buaidh mhòr air cultar.
 
 ## Cookie Banner Handling CFR
 
