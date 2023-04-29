@@ -169,3 +169,18 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } pasvorto
        *[other] { $quantity } pasvortoj
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] El la lasta tago
+       *[other] El la lastaj { $maxAgeInDays } tagoj
+    }
+migration-wizard-progress-success-formdata = Historio de formularoj
+migration-wizard-safari-permissions-sub-header = Por enporti legosignojn kaj retuman historio el Safari:
+migration-wizard-safari-instructions-continue = Elektu “Daŭrigi”
+migration-wizard-safari-instructions-folder = Elektu en la listo la dosierujon de Safari kaj “Open”
+migration-wizard-safari-select-button = Elekti dosieron
