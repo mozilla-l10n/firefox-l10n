@@ -1238,6 +1238,28 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS poprzez HTTPS
+preferences-doh-description = System nazw domen (DNS) poprzez HTTPS wysyła zapytanie o nazwę domeny przez zaszyfrowane połączenie, tworząc zabezpieczony serwer DNS i utrudniając innym podejrzenie, jaką witrynę zaraz otworzysz.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Stan: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Dostawca: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Nieprawidłowy adres URL
+preferences-doh-steering-status = Używanie lokalnego dostawcy
+preferences-doh-status-active = Aktywne
+preferences-doh-status-disabled = Wyłączone
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Nieaktywne ({ $reason })
+preferences-doh-group-message = Włącz zabezpieczony serwer DNS za pomocą:
+preferences-doh-expand-section =
+    .tooltiptext = Więcej informacji
+preferences-doh-setting-default =
+    .label = Domyślna ochrona
+    .accesskey = D
 
 ## The following strings are used in the Download section of settings
 
