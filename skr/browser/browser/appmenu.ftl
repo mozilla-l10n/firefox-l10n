@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = حالیہ بند تھیاں ٹیباں
 appmenu-recently-closed-windows =
     .label = حالیہ بند کیتی ڳئی ونڈوز
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = تاریخ ڳولو
 
 ## Help panel
 
