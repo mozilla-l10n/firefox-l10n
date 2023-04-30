@@ -1283,6 +1283,14 @@ preferences-doh-setting-off =
     .label = Wyłączone
     .accesskey = W
 preferences-doh-off-desc = Używa domyślnego serwera DNS
+preferences-doh-checkbox-warn =
+    .label = Ostrzeganie, jeśli ktoś inny aktywnie uniemożliwia korzystanie z zabezpieczonego serwera DNS
+    .accesskey = O
+preferences-doh-select-resolver = Wybierz dostawcę:
+preferences-doh-exceptions-description = { -brand-short-name } nie będzie używał zabezpieczonego serwera DNS na tych witrynach
+preferences-doh-manage-exceptions =
+    .label = Wyjątki…
+    .accesskey = k
 
 ## The following strings are used in the Download section of settings
 
