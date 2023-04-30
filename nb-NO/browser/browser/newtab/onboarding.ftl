@@ -47,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Legg til { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Komme i gang: Skjermbilde { $current } av { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Fremdrift: trinn { $current } av { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -68,6 +60,14 @@ mr1-welcome-screen-hero-text = Det begynner her
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Møbeldesigner, Firefox-fan
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Fremdrift: trinn { $current } av { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slå av animasjoner
 
@@ -425,3 +425,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Utsikt over en solnedgang gjennom et vindu med en rev og en stueplante i en vinduskarm
 mr2022-onboarding-colorways-image-alt =
     .aria-label = En hånd spraymaler en fargerik collage av et grønt øye, oransje sko, rød basketball, lilla hodetelefoner, blått hjerte og gul krone
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = En rev, på skjermen til en bærbar datamaskin, vinker. Den bærbare datamaskinen har en mus koblet til.
+onboarding-device-migration-title = Velkommen tilbake!
+onboarding-device-migration-subtitle = Logg på { -fxaccount-brand-name(capitalization: "sentence") } for å ta med deg bokmerkene, passordene og historikken din på den nye enheten.
+onboarding-device-migration-primary-button-label = Logg inn

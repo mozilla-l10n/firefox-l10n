@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importer fra fil
 migration-import-from-file-button-label = Velg fil
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
+migration-continue-button-label = Fortsett
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kunne ikke finne noen programmer som inneholder bokmerke-, historikk- eller passorddata.
 migration-wizard-import-browser-no-resources = Det oppstod et problem. { -brand-short-name } finner ingen data å importere fra den nettleserprofilen.
 
@@ -131,3 +132,55 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Importer passord fra Safari
 migration-safari-password-import-steps-header = Slik importerer du Safari-passord:
 migration-safari-password-import-step1 = I Safari, åpne «Safari»-menyen og gå til Innstillinger > Passord
+migration-safari-password-import-step2 = Velg knappen <img data-l10n-name="safari-icon-3dots"/> og velg «Eksporter alle passord»
+migration-safari-password-import-step3 = Lagre passordfilen
+migration-safari-password-import-step4 = Bruk «Velg fil» nedenfor for å velge passordfilen du lagret
+migration-safari-password-import-skip-button = Hopp over
+migration-safari-password-import-select-button = Velg fil
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } bokmerke
+       *[other] { $quantity } bokmerker
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favoritt
+       *[other] { $quantity } favoritter
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } passord
+       *[other] { $quantity } passord
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Fra den siste dagen
+       *[other] Fra de siste { $maxAgeInDays } dagene
+    }
+migration-wizard-progress-success-formdata = Skjemahistorikk
+migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerker og nettleserhistorikk:
+migration-wizard-safari-instructions-continue = Velg «Fortsett»
+migration-wizard-safari-instructions-folder = Velg Safari-mappen i listen og velg «Åpne»
+migration-wizard-safari-select-button = Velg fil
