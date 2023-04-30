@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Rowno zacynjone rejtariki
 appmenu-recently-closed-windows =
     .label = Rowno zacynjone wokna
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Historiju pśepytaś
 
 ## Help panel
 
