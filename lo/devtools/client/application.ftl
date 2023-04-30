@@ -22,7 +22,17 @@ serviceworker-worker-inspect-icon =
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = ເລີ່ມ
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+# Variables:
+#   $date (date) - Update date
+serviceworker-worker-updated = ອັບເດດ<time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>ແລ້ວ
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A running service worker is registered, currently executed, can
+# be debugged and stopped.
+serviceworker-worker-status-running = ກຳລັງເຮັດວຽກ
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = ຢຸດ
