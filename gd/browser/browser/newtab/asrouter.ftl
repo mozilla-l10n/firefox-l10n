@@ -240,6 +240,16 @@ cfr-cbh-dismiss-button = Chan ann an-dràsta
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Tha sinn ri do thaobh
+july-jam-body = Bacaidh { -brand-short-name } mu thuaireamh 3,000 tracaiche gach mìos do gach cleachdaiche agus bheir sinn dhut inntrigeadh sàbhailte ’s luath dhan eadar-lìon.
+july-jam-set-default-primary = Fosgail na ceanglaichean agam le { -brand-short-name }
+fox-doodle-pin-headline = Fàilte air ais
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Seo dhut cuimhneachan beag gu bheil am brabhsair neo-eisimeileach as fheàrr leat dìreach briogadh air falbh.
+fox-doodle-pin-primary = Fosgail na ceanglaichean agam le { -brand-short-name }
+fox-doodle-pin-secondary = Chan ann an-dràsta
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Thèid na PDFaichean agad fhosgladh ann am { -brand-short-name } a-nis.</strong> Deasaich no soidhnich foirmean sa bhrabhsair fhèin. Airson seo atharrachadh, lorg “PDF” sna roghainnean.
+set-default-pdf-handler-primary = Tha mi agaibh
