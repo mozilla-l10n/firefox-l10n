@@ -396,13 +396,29 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Seall mion-fhios
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Tha thu a’ cur taic ri lìon nas fheàrr
+mr2022-onboarding-gratitude-subtitle = Gun robh math agad airson { -brand-short-name } a chleachdadh, brabhsair aig a bheil taic Fonndas Mozilla. Le do thaic-sa, tha sinn ag obair airson eadar-lìon a bhios nas fhosgailte, nas so-ruigsinniche agus nas fheàrr dhan a h-uile duine.
+mr2022-onboarding-gratitude-primary-button-label = Faic na tha ùr
+mr2022-onboarding-gratitude-secondary-button-label = Tòisich air brabhsadh
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Dèan dachaigh dhut fhèin
+onboarding-infrequent-import-subtitle = Cuimhnich gun urrainn dhut na comharran-lìn, faclan-faire ’s mòran a bharrachd agad ion-phortadh ge be fuireach fada no goirid a tha fa-near dhut.
+onboarding-infrequent-import-primary-button = Ion-phortaich gu { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Neach a tha ag obair air laptop le rionnagan is flùraichean mun cuairt air
+mr2022-onboarding-default-image-alt =
+    .aria-label = Neach a tha a’ glacadh teann suaicheantas { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Neach a tha a’ falbh air spèileabord le bogsa de dh’ìomhaigheagan bathair-bhog
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Losgannan a’ leum air duilleagan-bàite le còd QR airson { -brand-product-name } mobile a luchdadh a-nuas sa mheadhan
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Slat-draoidheachd a chuireas suaicheantas brabhsadh prìobhaideach { -brand-product-name } am follais ann an ad
 
 ## Device migration onboarding
 
