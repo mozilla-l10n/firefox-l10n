@@ -430,7 +430,7 @@ mr2022-onboarding-colorways-image-alt =
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
-    .aria-label = Žołmjaca so liška na wobrazowce laptopa. Laptop ma přizamknjena myška.
+    .aria-label = Žołmjaca so liška na wobrazowce laptopa. Laptop ma přizamknjenu myšku.
 onboarding-device-migration-title = Witajće wróćo!
 onboarding-device-migration-subtitle = Přizjewće so pola { -fxaccount-brand-name(capitalization: "sentence") }, zo byšće swoje zapołožki, hesła a historiju na swojim nowym graće sobu wzał.
 onboarding-device-migration-primary-button-label = Přizjewić
