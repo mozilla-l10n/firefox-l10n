@@ -56,12 +56,12 @@ neterror-dns-not-found-hint-firewall = Verificar que { -brand-short-name } a l�
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } pòt pas protegir vòstra requèsta per aquesta adreça de site amb nòstre resolvador DNS de fisança. Vaquí perque :
-neterror-dns-not-found-trr-only-attackers = Se contunhatz, un tèrç poiriá veire los sites web que consultatz o vos enviar cap a un site web dobtós.
 neterror-dns-not-found-trr-third-party-warning = Podètz contunhar amb un resolvador DNS qu’es pas segur. Ça que la, una tèrça partida poiriá veire los sites web que consultatz.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } a pas pogut se connectar a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La connexion a { $trrDomain } a pres mai de temps que previst.
 neterror-dns-not-found-trr-offline = Cap de connexion Internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } a pas trobat cap d’adreça per aqueste site web.
+neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } a pas trobat aqueste site web.
 neterror-dns-not-found-trr-server-problem = I a agut un problèma amb { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problèma inesperat.
 
@@ -70,9 +70,7 @@ neterror-dns-not-found-trr-unknown-problem = Problèma inesperat.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } pòt pas protegir vòstra requèsta per aquesta adreça de site amb nòstre resolvador DNS de fisança. Vaquí perque :
-neterror-dns-not-found-native-fallback-attackers = Podètz contunhar amb un resolvador DNS qu’es pas segur. Ça que la, una tèrça partida poiriá veire los sites web que consultatz o vos enviar cap a un site pas fisable.
 neterror-dns-not-found-native-fallback-heuristic = Lo DNS via HTTPS foguèt desactivar sus vòstre ret.
-neterror-dns-not-found-native-fallback-not-confirmed = La connexion a { $trrDomain } es pas encara prèsta.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } a pas pogut se connectar a { $trrDomain }.
 
 ##
