@@ -6,6 +6,8 @@
 # These messages are used by the Firefox ".desktop" file on Linux.
 # https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html
 
+# The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment = ທ່ອງເວັບທົ່ວໂລກ
 desktop-entry-generic-name = ຕົວ​ທ່ອງ​ເວັບ​ເວັບ​ໄຊ​ຕ​໌
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:

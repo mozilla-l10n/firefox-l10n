@@ -350,6 +350,9 @@ update-application-warning-cross-user-setting = ການຕັ້ງຄ່າ�
 update-application-use-service =
     .label = ໃຊ້ບໍລິການພື້ນຫລັງໃນການຕິດຕັ້ງການອັບເດດ
     .accesskey = b
+update-application-suppress-prompts =
+    .label = ສະແດງການແຈ້ງເຕືອນການອັບເດດໜ້ອຍລົງ
+    .accesskey = n
 update-setting-write-failure-title2 = ເກີດຄວາມຜິດພາດໃນການບັນທຶກການຕັ້ງຄ່າການອັບເດດ
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -369,8 +372,14 @@ update-in-progress-cancel-button = &ສືບຕໍ່
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
+performance-use-recommended-settings-checkbox =
+    .label = ໃຊ້ການຕັ້ງຄ່າປະສິດທິພາບທີ່ແນະນໍາ
+    .accesskey = U
 performance-use-recommended-settings-desc = ການ​ຕັ້ງ​ຄ່າ​ເຫຼົ່າ​ນີ້​ແມ່ນ​ເຫມາະ​ສົມ​ກັບ​ຮາດ​ແວ​ຄອມ​ພິວ​ເຕີ​ແລະ​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ​ຂອງ​ທ່ານ​.
 performance-settings-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+performance-allow-hw-accel =
+    .label = ໃຊ້ການເລັ່ງຮາດແວເມື່ອມີໃຫ້
+    .accesskey = r
 performance-limit-content-process-option = ຂີດຈຳກັດໂປຣເຊດເນື້ອຫາ
     .accesskey = l
 performance-limit-content-process-enabled-desc = ຂະບວນການເນື້ອຫາເພີ່ມເຕີມສາມາດປັບປຸງປະສິດທິພາບໃນເວລາທີ່ໃຊ້ຫຼາຍແຖບ, ແຕ່ຍັງຈະໃຊ້ຫນ່ວຍຄວາມຈໍາຫຼາຍ.
@@ -392,8 +401,26 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = ສະແດງແຖບເລື່ອນສະເໝີ
     .accesskey = o
+browsing-use-onscreen-keyboard =
+    .label = ສະແດງແປ້ນພິມສໍາຜັດເມື່ອຈໍາເປັນ
+    .accesskey = c
+browsing-use-cursor-navigation =
+    .label = ໃຊ້ປຸ່ມເຄີເຊີເພື່ອນຳທາງພາຍໃນໜ້າຕ່າງໆສະເໝີ
+    .accesskey = k
+browsing-search-on-start-typing =
+    .label = ຊອກຫາຂໍ້ຄວາມເມື່ອທ່ານເລີ່ມພິມ
+    .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = ເປີດໃຊ້ການຄວບຄຸມວິດີໂອໃນຮູບພາບ
+    .accesskey = E
 browsing-picture-in-picture-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+browsing-media-control =
+    .label = ຄວບຄຸມສື່ຜ່ານແປ້ນພິມ, ຊຸດຫູຟັງ ຫຼື ອິນເຕີເຟດສະເໝືອນ
+    .accesskey = v
 browsing-media-control-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+browsing-cfr-recommendations =
+    .label = ແນະນຳການຂະຫຍາຍໃນຂະນະທີ່ທ່ານທ່ອງເວັບ
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## General Section - Proxy
@@ -679,6 +706,9 @@ privacy-header = ຄວາມເປັນສ່ວນຕົວຂອງບຣາ
 
 ## Privacy Section - Logins and Passwords
 
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = ເຂົ້າສູ່ລະບົບ ແລະ ລະຫັດຜ່ານ
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = ຖາມເພື່ອບັນທຶກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານສຳລັບເວັບໄຊ
@@ -686,10 +716,20 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = x
+forms-generate-passwords =
+    .label = ແນະນຳ ແລະ ສ້າງລະຫັດຜ່ານທີ່ເຂັ້ມແຂງ
+    .accesskey = u
+forms-breach-alerts =
+    .label = ສະແດງການແຈ້ງເຕືອນກ່ຽວກັບລະຫັດຜ່ານສໍາລັບເວັບໄຊທ໌ທີ່ຖືກລະເມີດ
+    .accesskey = b
 forms-breach-alerts-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 relay-integration =
     .label = ເປີດໃຊ້ { -relay-brand-name } ໃນຕົວຈັດການລະຫັດຜ່ານ { -brand-short-name } ຂອງທ່ານ
 relay-integration-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = ຕື່ມຂໍ້ມູນໃສ່ອັດຕະໂນມັດ ແລະ ລະຫັດຜ່ານ
+    .accesskey = i
 forms-saved-logins =
     .label = ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້…
     .accesskey = L
