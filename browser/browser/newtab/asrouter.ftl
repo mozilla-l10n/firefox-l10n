@@ -223,12 +223,23 @@ colorways-cfr-primarybutton = Tagh sgeama dhathan
     .accesskey = T
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Cuir dathan air a’ bhrabhsair agad le tuaran dhathan nach fhaigh thu ach ann am { -brand-short-name } stèidhichte air guthan aig an robh buaidh mhòr air cultar.
+colorways-cfr-header-28days = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach 16 dhen Fhaoilleach
+colorways-cfr-header-14days = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach ann an cola-deug
+colorways-cfr-header-7days = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach an t-seachdain-sa
+colorways-cfr-header-today = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach an-diugh
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = A bheil thu airson cead a thoirt dha { -brand-short-name } brataichean bhriosgaidean a dhiùltadh?
+cfr-cbh-body = ’S urrainn dha { -brand-short-name } iomadh iarrtas airson briosgaidean a dhiùltadh gu fèin-obrachail.
+cfr-cbh-confirm-button = Diùlt brataichean bhriosgaidean
+    .accesskey = D
+cfr-cbh-dismiss-button = Chan ann an-dràsta
+    .accesskey = C
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Tha sinn ri do thaobh
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
