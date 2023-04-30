@@ -73,6 +73,17 @@ restart-later = Ath-thòisich uaireigin eile
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = Tha an roghainn seo fo stiùireadh <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
@@ -120,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = Thoir rabhadh nuair a dh’fhàgas tu am brabhsair
 disable-extension =
     .label = Cuir an leudachan à comas
+preferences-data-migration-header = Ion-phortaich dàta a’ bhrabhsair
+preferences-data-migration-description = Ion-phortaich comharran-lìn, faclan-faire, an eachdraidh is dàta fèin-lìonaidh gu { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Ion-phortaich an dàta
+    .accesskey = o
 tabs-group-header = Tabaichean
 ctrl-tab-recently-used-order =
     .label = Cuairtichidh Ctrl+Tab thu tro na tabaichean san robh iad agad o chionn goirid
@@ -132,7 +148,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +171,10 @@ browser-containers-settings =
     .label = Roghainnean…
     .accesskey = i
 containers-disable-alert-title = A bheil thu airson gach taba soithich a dhùnadh?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ma chuireas tu tabaichean soithich à comas an-dràsta, thèid { $tabCount } taba soithich a dhùnadh an-dràsta. A bheil thu cinnteach gu bheil thu airson na tabaichean soithich a chur à comas?
@@ -169,10 +189,13 @@ containers-disable-alert-ok-button =
         [few] Dùin { $tabCount } tabaichean soithich
        *[other] Dùin { $tabCount } taba soithich
     }
+
+##
+
 containers-disable-alert-cancel-button = Cum an comas
 containers-remove-alert-title = A bheil thu airson an soitheach seo a thoirt air falbh?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Ma bheir thu air falbh an soitheach seo an-dràsta, thèid { $count } taba soithich a dhùnadh. A bheil thu cinnteach gu bheil thu airson an soitheach seo a thoirt air falbh?
@@ -190,6 +213,7 @@ preferences-web-appearance-header = Coltas nan làrach
 preferences-web-appearance-description = Cuiridh cuid a làraichean-lìn gleus air sgeama an dathan a-rèir nan roghainnean agad-sa. Tagh an sgeama dhathan a bu mhiann leat dha na làraichean ud.
 preferences-web-appearance-choice-browser = Ùrlar { -brand-short-name }
 preferences-web-appearance-choice-system = Ùrlar an t-siostaim
+preferences-web-appearance-choice-auto = Fèin-obrachail
 preferences-web-appearance-choice-light = Soilleir
 preferences-web-appearance-choice-dark = Dorcha
 preferences-web-appearance-choice-tooltip-browser =
@@ -231,6 +255,8 @@ advanced-fonts =
 preferences-zoom-header = Sùm
 preferences-default-zoom = An sùm bunaiteach
     .accesskey = s
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -323,15 +349,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Faighnich dhìom gach turas
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Cleachd { $plugin-name } (ann an { -brand-short-name })
 applications-open-inapp =
@@ -374,6 +400,8 @@ play-drm-content =
 play-drm-content-learn-more = Barrachd fiosrachaidh
 update-application-title = Ùrachaidhean { -brand-short-name }
 update-application-description = Cum { -brand-short-name } ùraichte airson dèanadas, seasmhachd is tèarainteachd as fhearr.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Tionndadh { $version } <a data-l10n-name="learn-more">Na tha ùr</a>
 update-history =
     .label = Seall eachdraidh nan ùrachaidhean…
@@ -400,7 +428,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Mearachd le sàbhaladh roghainnean an ùrachaidh
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -430,7 +458,7 @@ performance-limit-content-process-option = Crìoch pròiseasadh na susbaint
 performance-limit-content-process-enabled-desc = Ma cheadaicheas tu pròiseasan susbaint a bharrachd, dh﻿﻿’fhaoidte gum faigh thu dèanadas nas fhearr ach feumaidh e barrachd cuimhne aig an aon àm.
 performance-limit-content-process-blocked-desc = Chan urrainn dhut àireamh nam pròiseasan susbaint atharrachadh ach ann am { -brand-short-name } ioma-phròiseasach. <a data-l10n-name="learn-more">Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (bun-roghainn)
 
@@ -536,6 +564,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = ’Ga mholadh le { $provider }
 home-prefs-recommended-by-description-new = Sàr-shusbaint ’ga thasgadh le { $provider } mar phàirt de theaghlach { -brand-product-name }
@@ -565,6 +597,8 @@ home-prefs-recent-activity-description = Roghainn de làraichean is susbaint fai
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description-new = Gliocasan is naidheachdan o { -vendor-short-name } is { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -626,7 +660,7 @@ search-find-more-link = Faigh barrachd einnseanan-luirg
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Facal-luirg dùbailte
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Thagh thu facal-luirg a tha ’ga chleachdadh le “{ $name }” mu thràth. An tagh thu fear eile?
 search-keyword-warning-bookmark = Tagh thu facal-luirg a tha 'ga chleachdadh ann an comharra-lìn mu thràth. An tagh thu fear eile?
 
@@ -673,8 +707,15 @@ sync-sign-out =
     .accesskey = C
 sync-manage-account = Stiùirich an cunntas
     .accesskey = n
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
 sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
+
+##
+
 sync-resend-verification =
     .label = Cuir an dearbhadh às ùr
     .accesskey = d
@@ -885,8 +926,8 @@ history-clear-button =
 sitedata-header = Briosgaidean is dàta làraichean
 sitedata-total-size-calculating = Ag àireamhachadh meud dàta na làraich is an tasgadain...
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tha na tha de bhriosgaidean, dàta làraichean is an tasgadan a’ cleachdadh { $value } { $unit } de dh’àite air an diosg an-dràsta.
 sitedata-learn-more = Barrachd fiosrachaidh
 sitedata-delete-on-close =
@@ -924,6 +965,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Stiùirich na h-eisgeachdan…
     .accesskey = e
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 
@@ -995,6 +1039,9 @@ content-blocking-fingerprinters = Lorgaichean-meur
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Cuir an gleus prìobhaideachd as cumhachdaiche againn a-riamh fo dheuchainn
     .accesskey = C
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Tha na briosgaidean a bhuineas dhan làrach air a bheil thu ann an gleus làn-dìon nam briosgaidean airson ’s nach fhaigh tracaichean cothrom orra gus do leantainn mun cuairt.
 content-blocking-etp-standard-tcp-rollout-learn-more = Barrachd fiosrachaidh
@@ -1154,6 +1201,9 @@ httpsonly-radio-enabled-pbm =
     .label = Cuir am modh HTTPS a-mhàin an comas air uinneagan prìobhaideach a-mhàin
 httpsonly-radio-disabled =
     .label = Na cuir an comas am modh HTTPS a-mhàin
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
