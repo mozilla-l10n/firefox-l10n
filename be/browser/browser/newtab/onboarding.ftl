@@ -13,6 +13,14 @@
 onboarding-welcome-header = Вітаем у { -brand-short-name }
 onboarding-start-browsing-button-label = Пачаць агляданне
 onboarding-not-now-button-label = Не зараз
+mr1-onboarding-get-started-primary-button-label = Пачаць
+mr1-onboarding-welcome-header = Вітаем у { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Зрабіць { -brand-short-name } маім асноўным браўзерам
+    .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі заданняў
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Зрабіць { -brand-short-name } маім прадвызначаным браўзерам
+mr1-onboarding-set-default-secondary-button-label = Не зараз
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Дадаць { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Пачатак працы: экран { $current } з { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Прагрэс: крок { $current } з { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Ён пачынаецца тут
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Дызайнерка мэблі, прыхільніца Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Прагрэс: крок { $current } з { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Адключыць анімацыі
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Пачаць
-mr1-onboarding-welcome-header = Вітаем у { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Зрабіць { -brand-short-name } маім асноўным браўзерам
-    .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі заданняў
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Зрабіць { -brand-short-name } маім прадвызначаным браўзерам
-mr1-onboarding-set-default-secondary-button-label = Не зараз
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Увайсці
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -426,3 +425,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Від на заход сонца праз акно з лісой і пакаёвай раслінай на падаконніку
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Балончык з фарбай малюе каляровы калаж з зялёнага вока, аранжавага чаравіка, чырвонага баскетбольнага мяча, фіялетавых навушнікаў, сіняга сэрца і жоўтай кароны
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Ліса на экране ноўтбука прывітальна махае. Да ноўтбука падключана мышка.
+onboarding-device-migration-title = З вяртаннем!
+onboarding-device-migration-subtitle = Увайдзіце ў свой { -fxaccount-brand-name(capitalization: "sentence") }, каб перанесці свае закладкі, паролі і гісторыю на вашу новую прыладу.
+onboarding-device-migration-primary-button-label = Увайсці

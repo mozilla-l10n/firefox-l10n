@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Нядаўна закрытыя карткі
 appmenu-recently-closed-windows =
     .label = Нядаўна закрытыя вокны
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Шукаць у гісторыі
 
 ## Help panel
 
