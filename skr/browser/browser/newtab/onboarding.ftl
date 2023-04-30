@@ -414,3 +414,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = لومبڑ دے نال کھڑکی نال غروب آفتاب دا منظر تے کھڑکی تے ہک گھر دا پودا
 mr2022-onboarding-colorways-image-alt =
     .aria-label = ہک ہینڈ سپرے ساوی اکھ، نارنجی چتی، لال باسکٹ بال، جامنی رنگ دے ہیڈ فون، نیلے دل، تے پیلے رنگ دے تاج دا رنگیل کولیج پینٹ کریندا ہے۔
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = لیپ ٹاپ کمپیوٹر دی سکرین تے ہک لومڑی لہراندی  پئی ہے۔ لیپ ٹاپ وچ ہک ماؤس لڳا ہویا ہے۔
+onboarding-device-migration-title = واپسی تے ست بسم اللہ!
+onboarding-device-migration-subtitle = آپݨیاں نشانیاں، پاس ورڈ تے تاریخ آپݨی نویں ڈیوائس تے گھن آوݨ کیتے آپݨے { -fxaccount-brand-name(capitalization: "sentence") } وچ سائن ان تھیوو۔
+onboarding-device-migration-primary-button-label = سائن ان
