@@ -426,3 +426,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pohlad na chowanje słónca přez wokno z lišku a stwinej rostlinu na woknowym prohu
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Ruka barbojtu kolažu zeleneho wóčka, oranžoweho črija, čerwjeneho basketballa, wioletnych nahłownych słuchatkow, módreje wutroby a žołteje króny
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Žołmjaca so liška na wobrazowce laptopa. Laptop ma přizamknjena myška.
+onboarding-device-migration-title = Witajće wróćo!
+onboarding-device-migration-subtitle = Přizjewće so pola { -fxaccount-brand-name(capitalization: "sentence") }, zo byšće swoje zapołožki, hesła a historiju na swojim nowym graće sobu wzał.
+onboarding-device-migration-primary-button-label = Přizjewić

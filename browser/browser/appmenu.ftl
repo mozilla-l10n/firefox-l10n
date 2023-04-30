@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Runje začinjene rajtarki
 appmenu-recently-closed-windows =
     .label = Runje začinjene wokna
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Historiju přepytać
 
 ## Help panel
 
