@@ -280,20 +280,54 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Ion-phortaich on bhrabhsair
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Thoir a’ ghlas far brod an eadar-lìn
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Cuir gu dol { -brand-short-name } o àite sam bith le aon bhriogadh. Gach turas a nì thu sin, cuiridh tu taic ri eadar-lìon nas fhosgailte agus nas neo-eisimeiliche.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Cùm { -brand-short-name } air an doca
+       *[other] Prìnich { -brand-short-name } ri bàr nan saothair
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Cleachd brabhsair aig a bheil cùl-taic buidhean neo-phrothaideachd. Dìonaidh do phrìobhaideachd fhad ’s a shiùbhlas tusa ceithir-thimcheall an lìn.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Gasta gu bheil gaol agad air { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Faigh cothrom air eadar-lìon nas fhallaine o àite sam bith le aon bhriogadh. Tha an t-ùrachadh mu dheireadh againn loma-làn de rudan a chòrdas riut fìor-mhath nar beachd-ne.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Cleachd brabhsair a dhìonas do phrìobhaideachd fhad ’s a shiùbhlas tusa ceithir-thimcheall an lìn. Tha an t-ùrachadh mu dheireadh againn loma-làn de rudan a chòrdas riut fìor-mhath nar beachd-ne.
+mr2022-onboarding-existing-pin-checkbox-label = Cuir brabhsadh prìobhaideachd { -brand-short-name } ris cuideachd
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Cleachd { -brand-short-name } mar chiad roghainn brabhsair agad
+mr2022-onboarding-set-default-primary-button-label = Suidhich { -brand-short-name } mar am brabhsair bunaiteach agam
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Cleachd brabhsair aig a bheil cùl-taic buidhean neo-phrothaideachd. Dìonaidh do phrìobhaideachd fhad ’s a shiùbhlas tusa ceithir-thimcheall an lìn.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Chaidh an tionndadh as ùire againn a dhealbhadh is tusa aig a theis-meadhan is nì seo nas fhasa dhut e ceithir-thimcheall an lìn a shiubhal na a-riamh roimhe. Tha e loma-làn de rudan a chòrdas riut fìor-mhath nar beachd-ne.
+mr2022-onboarding-get-started-primary-button-label = Suidhich e ann am priobadh na sùla
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Suidheachadh cho luatha ri seabhag
+mr2022-onboarding-import-subtitle = Suidhiche { -brand-short-name } mar a lùigeas tu fhèin e. Cuir ris na comharran-lìn, faclan-faire ’s mòran a bharrachd on t-seann-bhrabhsair agad.
+mr2022-onboarding-import-primary-button-label-no-attribution = Ion-phortaich on bhrabhsair a chleachd thu roimhe
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
