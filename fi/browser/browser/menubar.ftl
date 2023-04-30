@@ -330,6 +330,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Poista vianmääritystila käytöstä
     .accesskey = P
+menu-help-switch-device =
+    .label = Uuteen laitteeseen vaihtaminen
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

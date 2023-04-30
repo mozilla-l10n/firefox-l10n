@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Tuo tiedostosta
 migration-import-from-file-button-label = Valitse tiedosto
 migration-cancel-button-label = Peruuta
 migration-done-button-label = Valmis
+migration-continue-button-label = Jatka
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ei löytänyt ohjelmia, jotka sisältävät kirjanmerkki-, historia- tai salasanatietoja.
 migration-wizard-import-browser-no-resources = Tapahtui virhe. { -brand-short-name } ei löydä tietoja tuotavaksi kyseisestä selainprofiilista.
 

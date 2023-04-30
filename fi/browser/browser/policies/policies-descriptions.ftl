@@ -113,6 +113,8 @@ policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettä
 policy-SearchSuggestEnabled = Ota käyttöön tai poista käytöstä hakuehdotukset.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Asenna PKCS #11 -moduulit.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Lisää tai poista PKCS #11 -moduuleja.
 policy-ShowHomeButton = Näytä kotipainike työkalupalkissa.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
 policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.

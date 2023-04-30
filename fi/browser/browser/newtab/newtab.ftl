@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Haku
     .aria-label = Haku
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Hae hakukoneella { $engine } tai kirjoita osoite
 newtab-search-box-handoff-text-no-engine = Kirjoita osoite tai hakusana
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Hae hakukoneella { $engine } tai kirjoita osoite
     .title = Hae hakukoneella { $engine } tai kirjoita osoite
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Kirjoita osoite tai hakusana
     .title = Kirjoita osoite tai hakusana
     .aria-label = Kirjoita osoite tai hakusana
-
 newtab-search-box-text = Verkkohaku
 newtab-search-box-input =
     .placeholder = Verkkohaku
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
-
 newtab-topsites-url-label = Osoite
 newtab-topsites-url-input =
     .placeholder = Kirjoita tai liitä osoite
 newtab-topsites-url-validation = Kelvollinen osoite vaaditaan
-
 newtab-topsites-image-url-label = Oman kuvan osoite
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
 newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
@@ -84,15 +80,13 @@ newtab-topsite-sponsored = Sponsoroitu
 newtab-menu-section-tooltip =
     .title = Avaa valikko
     .aria-label = Avaa valikko
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Poista
     .aria-label = Poista
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Avaa valikko
     .aria-label = Avaa pikavalikko sivustolle { $title }
@@ -162,21 +156,18 @@ newtab-label-removed-bookmark = Kirjanmerkki poistettu
 newtab-label-recommended = Pinnalla
 newtab-label-saved = Tallennettu { -pocket-brand-name }-palveluun
 newtab-label-download = Ladatut
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsoroitu
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorina { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -205,16 +196,15 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Ykkössivustot
 newtab-section-header-recent-activity = Viimeisin toiminta
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Suositukset lähteestä { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ala selata, niin tässä alkaa näkyä hyviä juttuja, videoita ja muita sivuja, joilla olet käynyt hiljattain tai jotka olet lisännyt kirjanmerkkeihin.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ei enempää suosituksia juuri nyt. Katso myöhemmin uudestaan lisää ykkösjuttuja lähteestä { $provider }. Etkö malta odottaa? Valitse suosittu aihe ja löydä lisää hyviä juttuja ympäri verkkoa.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -236,11 +226,9 @@ newtab-pocket-learn-more = Lue lisää
 newtab-pocket-cta-button = Hanki { -pocket-brand-name }
 newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name }-perhettä
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Tallenna { -pocket-brand-name }iin
 newtab-pocket-saved-to-pocket = Tallennettu { -pocket-brand-name }iin
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Lataa lisää tarinoita
 
@@ -251,10 +239,14 @@ newtab-pocket-last-card-title = Siinä kaikki!
 newtab-pocket-last-card-desc = Katso lisää myöhemmin.
 newtab-pocket-last-card-image =
     .alt = Siinä kaikki
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Tallenna
 newtab-pocket-saved = Tallennettu
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = Löydä verkon parhaat puolet
+newtab-pocket-onboarding-cta = { -pocket-brand-name } tutkii monenlaisia julkaisuja tarjotakseen informatiivisimman, inspiroivimman ja luotettavimman sisällön suoraan { -brand-product-name }-selaimellesi.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -266,6 +258,8 @@ newtab-error-fallback-refresh-link = Yritä uudestaan päivittämällä sivu.
 
 newtab-custom-shortcuts-title = Oikotiet
 newtab-custom-shortcuts-subtitle = Tallentamasi tai vierailemasi sivustot
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } rivi

@@ -12,6 +12,7 @@ experimental-features-css-masonry-description = Ottaa käyttöön tuen kokeellis
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Tämä uusi API tarjoaaa matalan tason tuen laskennan suorittamiseen ja grafiikan piirtämiseen käyttäen käyttäjän laitteen <a data-l10n-name="wikipedia">grafiikkaprosessoria (GPU)</a>. <a data-l10n-name="spec">Määrittely</a> on vielä keskeneräinen. Lisätietoja on <a data-l10n-name="bugzilla">bugissa 1602129</a>.
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU-rajapinta</a> tarjoaa matalan tason tuen laskentaan ja grafiikan renderöintiin tietokoneen tai laitteen <a data-l10n-name="wikipedia-gpu">näytönohjainta (GPU)</a> käyttäen. <a data-l10n-name="spec">Määrittelyn</a> ensimmäinen versio on valmistumassa. Katso <a data-l10n-name="bugzilla">bugi 1616739</a> saadaksesi lisätietoja.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =

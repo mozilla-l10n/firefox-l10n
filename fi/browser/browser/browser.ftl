@@ -144,6 +144,8 @@ urlbar-tip-icon-description =
     .alt = Vinkki:
 urlbar-result-menu-button =
     .title = Avaa valikko
+urlbar-result-menu-button-feedback = Palaute
+    .title = Avaa valikko
 urlbar-result-menu-learn-more =
     .label = Lue lisää
     .accesskey = L
@@ -318,6 +320,7 @@ quickactions-private2 = Avaa yksityinen ikkuna
 quickactions-cmd-private = yksityinen selaus
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Palauta { -brand-short-name } uudenveroiseksi
+quickactions-cmd-refresh = päivitä
 # Restarts the browser
 quickactions-restart = Käynnistä { -brand-short-name } uudelleen
 quickactions-cmd-restart = käynnistä uudelleen
