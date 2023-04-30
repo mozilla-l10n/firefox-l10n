@@ -426,3 +426,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Póglěd na schowanje słyńca z woknom z lišku a śpineju rostlinu na woknowej delce
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Ruka barwojtu collage zelenego wócka, oranžowego crjeja, cerwjenego basketbala, wioletnych nagłownych słuchatkow, módreje wutšoby a žołteje krony
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Žwaleca se liška na wobrazowce laptopa. Laptop ma pśizamknjonu myšku.
+onboarding-device-migration-title = Witajśo slědk!
+onboarding-device-migration-subtitle = Pśizjawśo se pla { -fxaccount-brand-name(capitalization: "sentence") }, aby swóje cytańske znamjenja, gronidła a historiju na swójom nowem rěźe sobu wzeł.
+onboarding-device-migration-primary-button-label = Pśizjawiś
