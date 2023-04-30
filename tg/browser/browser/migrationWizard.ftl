@@ -57,8 +57,10 @@ migration-bookmarks-option-label = Хатбаракҳо
 migration-favorites-option-label = Баргузидаҳо
 migration-logins-and-passwords-option-label = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
 migration-history-option-label = Таърихи тамошо
+migration-form-autofill-option-label = Маълумоти пуркунии худкори шакл
 migration-passwords-from-file-progress-header = Ворид кардани файл бо ниҳонвожаҳо
 migration-passwords-from-file-success-header = Ниҳонвожаҳо бо муваффақият ворид карда шуданд
+migration-passwords-from-file = Санҷиши файл нисбат ба доштани ниҳонвожаҳо
 migration-passwords-new = Ниҳонвожаҳои нав
 migration-passwords-updated = Ниҳонвожаҳои мавҷудбуда
 migration-passwords-from-file-picker-title = Ворид кардани файл бо ниҳонвожаҳо
@@ -101,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Ворид кардан аз
 migration-import-from-file-button-label = Интихоби файл
 migration-cancel-button-label = Бекор кардан
 migration-done-button-label = Тайёр
+migration-continue-button-label = Идома додан
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
