@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Nemrég bezárt lapok
 appmenu-recently-closed-windows =
     .label = Nemrég bezárt ablakok
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Keresés előzményei
 
 ## Help panel
 
