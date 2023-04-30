@@ -88,6 +88,9 @@ permissions-exceptions-cookie-desc = ທ່ານສາມາດລະບຸເ�
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = ຂໍ້ຍົກເວັ້ນ - ໂໝດ HTTPS ເທົ່ານັ້ນ
+    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ - ໂໝດ HTTPS ເທົ່ານັ້ນ
     .style = { permissions-window2.style }

@@ -20,6 +20,9 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = ປັບແຕ່ງ…
     .accesskey = C
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = ປັບແຕ່ງແຖບສໍາຜັດ…
+    .accesskey = C
 # This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =

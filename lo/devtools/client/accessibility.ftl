@@ -22,6 +22,10 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-embed = ເນື້ອຫາຝັງຕ້ອງມີປ້າຍຊື່. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-fieldset = ອົງປະກອບ <code>fieldset</code> ຈະຕ້ອງຖືກຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-fieldset-legend2 = ໃຊ້ອົງປະກອບ <code>legend</code> ເພື່ອຕິດປ້າຍກຳກັບ <span>fieldset</span>. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-form = ອົງປະກອບແບບຟອມຕ້ອງຖືກຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-form-visible = ອົງປະກອບແບບຟອມຄວນມີປ້າຍຂໍ້ຄວາມທີ່ເບິ່ງເຫັນໄດ້. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-heading = ຫົວຂໍ້ຕ້ອງມີປ້າຍຊື່. <a>ສຶກສາເພີ່ມເຕີມ</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section

@@ -1067,6 +1067,9 @@ preferences-doh-default-detailed-desc-2 = ໃຊ້ຕົວແກ້ໄຂ DNS 
 preferences-doh-default-detailed-desc-3 = ໃຊ້ຜູ້ໃຫ້ບໍລິການທ້ອງຖິ່ນ, ຖ້າເປັນໄປໄດ້
 preferences-doh-default-detailed-desc-4 = ປິດເມື່ອ VPN, ການຄວບຄຸມຂອງພໍ່ແມ່, ຫຼື ນະໂຍບາຍຂອງຫ້ອງການເຮັດວຽກ
 preferences-doh-default-detailed-desc-5 = ປິດເມື່ອເຄືອຂ່າຍບອກ { -brand-short-name } ມັນບໍ່ຄວນໃຊ້ DNS ທີ່ປອດໄພ
+preferences-doh-setting-enabled =
+    .label = ການປົກປ້ອງເພີ່ມຂຶ້ນ
+    .accesskey = I
 preferences-doh-enabled-desc = ທ່ານຄວບຄຸມເວລາທີ່ຈະໃຊ້ DNS ທີ່ປອດໄພ ແລະ ເລືອກຜູ້ໃຫ້ບໍລິການຂອງທ່ານ.
 preferences-doh-enabled-detailed-desc-1 = ໃຊ້ຜູ້ໃຫ້ບໍລິການທີ່ທ່ານເລືອກ
 preferences-doh-enabled-detailed-desc-2 = ພຽງແຕ່ໃຊ້ຕົວແກ້ໄຂ DNS ເລີ່ມຕົ້ນຂອງທ່ານຖ້າມີບັນຫາກັບ DNS ທີ່ປອດໄພ
@@ -1081,8 +1084,14 @@ preferences-doh-setting-off =
     .label = ປິດ
     .accesskey = O
 preferences-doh-off-desc = ໃຊ້ຕົວແກ້ໄຂ DNS ເລີ່ມຕົ້ນຂອງທ່ານ
+preferences-doh-checkbox-warn =
+    .label = ເຕືອນຖ້າຫາກວ່າພາກສ່ວນທີສາມຢ່າງຈິງຈັງປ້ອງກັນ DNS ທີ່ປອດໄພ
+    .accesskey = W
 preferences-doh-select-resolver = ເລືອກຜູ້ໃຫ້ບໍລິການ:
 preferences-doh-exceptions-description = { -brand-short-name } ຈະບໍ່ໃຊ້ DNS ທີ່ປອດໄພຢູ່ໃນເວັບໄຊເຫຼົ່ານີ້
+preferences-doh-manage-exceptions =
+    .label = ຈັດການຂໍ້ຍົກເວັ້ນ...
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
