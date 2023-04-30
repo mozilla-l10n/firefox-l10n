@@ -334,16 +334,60 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Ion-phortaich on 
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Tagh an dath a chuireas air bhioran thu
+mr2022-onboarding-colorway-subtitle = Bidh buaidh air cultar aig guthan neo-eisimeileach gu tric.
+mr2022-onboarding-colorway-primary-button-label-continue = Suidhich is lean air adhart
+mr2022-onboarding-existing-colorway-checkbox-label = Cleachd { -firefox-home-brand-name } mar an duilleag-dhachaigh dhathach agad
+mr2022-onboarding-colorway-label-default = Bun-roghainn
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Na dathan làithreach aig { -brand-short-name }
+mr2022-onboarding-colorway-description-default = <b>Cleachd na dathan a th’ agam ann am { -brand-short-name } an-dràsta.</b>
+mr2022-onboarding-colorway-label-playmaker = Playmaker
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Playmaker (dearg)
+mr2022-onboarding-colorway-description-playmaker = <b>’S e Playmaker a th’ annad.</b> Bidh tu a’ cruthachadh cothroman buannachaidh agus a’ cuideachadh càch mun cuairt ort airson ’s gun soirbhich leotha.
+mr2022-onboarding-colorway-label-expressionist = Eas-preiseanaiche
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Eas-preiseanaiche (buidhe)
+mr2022-onboarding-colorway-description-expressionist = <b>’S e eas-preiseanaiche a th’ annad.</b> Tha stèidh-amhairc eile agad agus tha na chruthaicheas tu a’ gluasad cridhe chàch.
+mr2022-onboarding-colorway-label-visionary = Lèirsinniche
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Lèirsinniche (uaine)
+mr2022-onboarding-colorway-description-visionary = <b>’S e lèirsinniche a th’ annad.</b> Tha thu a’ ceasnachadh mar a tha cùisean agus a’ brosnachadh chàch lèirsinn de shaoghal nas fheàrr a chruthachadh.
+mr2022-onboarding-colorway-label-activist = Neach-iomairt
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Neach-iomairt (gorm)
+mr2022-onboarding-colorway-description-activist = <b>’S e neach-iomairt a th’ annad.</b> Tha thu a’ fàgail an t-saoghail na àite nas fheàrr na bha e romhad-sa agus a’ toirt comas creidsinn do chàch.
+mr2022-onboarding-colorway-label-dreamer = Aislingiche
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Aislingiche (purpaidh)
+mr2022-onboarding-colorway-description-dreamer = <b>’S e aislingiche a th’ annad.</b> Tha thu dhen bheachd gu bheil fortan an cuideachd nan treun agus a’ brosnachadh càch gu treuntas.
+mr2022-onboarding-colorway-label-innovator = Ùr-ghnàthaichear
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Ùr-ghnàthaichear (orains)
+mr2022-onboarding-colorway-description-innovator = <b>’S e ùr-ghnàthaichear a th’ annad.</b> Tha thu a’ faicinn cothroman air feadh an àite ’s tha buaidh agad air beatha nan daoine mun cuairt ort.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Leum eadar laptop is fòn agus air ais a-rithist an uair sin
+mr2022-onboarding-mobile-download-subtitle = Faigh grein air na tabaichean a th’ agad air an dàrna uidheam is lean ort far an do stad thu air fear eile. Agus is urrainn dhut na comharran-lìn is faclan-faire agad a shioncronachadh àite sam bith a chleachdas tu { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Sganaich an còd QR airson { -brand-product-name } fhaighinn airson mobile no <a data-l10n-name="download-label">cuir ceangal thugad fhèin airson a luchdadh a-nuas.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Sganaich an còd QR airson { -brand-product-name } fhaighinn airson mobile.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Faigh cothrom air brabhsadh prìobhaideach ann am briogadh
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Gun eachdraidh ’s gun bhriosgaidean gan sàbhaladh, air an desktop fhèin. Dèan brabhsadh mar nach eil duine sam bith a’ cumail sùil ort.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Cùm brabhsadh prìobhaideach { -brand-short-name } air an doca
+       *[other] Prìnich brabhsadh prìobhaideach { -brand-short-name } ri bàr nan saothair
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Tha suim againn dha do phrìobhaideachd an-còmhnaidh
 
 ## MR2022 Multistage Gratitude screen strings
 
