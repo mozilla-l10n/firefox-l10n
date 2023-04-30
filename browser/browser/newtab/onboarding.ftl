@@ -13,6 +13,14 @@
 onboarding-welcome-header = Üdvözli a { -brand-short-name }
 onboarding-start-browsing-button-label = Böngészés megkezdése
 onboarding-not-now-button-label = Most nem
+mr1-onboarding-get-started-primary-button-label = Kezdő lépések
+mr1-onboarding-welcome-header = Üdvözli a { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = A { -brand-short-name } elsődleges böngészővé tétele
+    .title = Beállítja elsődleges böngészőként a { -brand-short-name(case: "accusative") }, és kitűzi a tálcára
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = A { -brand-short-name } alapértelmezett böngészővé tétele
+mr1-onboarding-set-default-secondary-button-label = Most nem
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } hozzáadása
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Első lépések: { $current }. képernyő / { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Haladás: { $current }. / { $total } lépés
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = A tűz itt kezdődik
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – Bútortevező, Firefox rajongó
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Haladás: { $current }. / { $total } lépés
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animációk kikapcsolása
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Kezdő lépések
-mr1-onboarding-welcome-header = Üdvözli a { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = A { -brand-short-name } elsődleges böngészővé tétele
-    .title = Beállítja elsődleges böngészőként a { -brand-short-name(case: "accusative") }, és kitűzi a tálcára
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = A { -brand-short-name } alapértelmezett böngészővé tétele
-mr1-onboarding-set-default-secondary-button-label = Most nem
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Bejelentkezés
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -426,3 +425,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Kilátás a naplementére egy ablakon keresztül, ahol egy róka és egy szobanövény van az ablakpárkányon
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Egy kézi festékszóró egy zöld szemből, narancssárga cipőből, piros kosárlabdából, lila fejhallgatóból, kék szívből és sárga koronából álló színes kollázst fest.
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Egy róka integetett egy laptop képernyőjén. A laptophoz egér van csatlakoztatva.
+onboarding-device-migration-title = Üdvözöljük újra!
+onboarding-device-migration-subtitle = Jelentkezzen be a { -fxaccount-brand-name }jába, hogy könyvjelzőit, jelszavait és előzményeit magával vigye az új eszközén.
+onboarding-device-migration-primary-button-label = Bejelentkezés
