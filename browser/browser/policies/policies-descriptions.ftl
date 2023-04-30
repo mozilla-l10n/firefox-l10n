@@ -26,6 +26,8 @@ policy-Bookmarks = Cruthaich comharran-lìn air bàr-inneal nan comharran-lìn, 
 policy-CaptivePortal = Cuir an comas no à comas taic airson Captive Portal.
 policy-CertificatesDescription = Cuir teisteanasan ris no cleachd teisteanasan a tha ’na bhroinn o thùs.
 policy-Cookies = Thoir cead do làraichean-lìn briosgaidean a shuidheachadh no bac iad.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Suidhich poileasaidhean co-cheangailte ri soithichean.
 policy-DisabledCiphers = Cuir na sifirean à comas.
 policy-DefaultDownloadDirectory = Suidhich pasgan bunaiteach nan luchdaidhean a-nuas.
 policy-DisableAppUpdate = Bac ùrachadh a’ bhrabhsair.
@@ -51,6 +53,7 @@ policy-DisableSecurityBypass = Na leig leis a’ chleachdaiche cuid a rabhaidhea
 policy-DisableSetAsDesktopBackground = Cuir à comas àithne “Suidhich mar chùlaibh an desktop” a’ chlàir-thaice mu choinneamh dhealbhan.
 policy-DisableSystemAddonUpdate = Na leig leis a’ bhrabhsair tuilleadan an t-siostaim a stàladh is ùrachadh.
 policy-DisableTelemetry = Cuir an telemeatraidh dheth.
+policy-DisableThirdPartyModuleBlocking = Na leig leis a’ chleachdaiche mòidealan le treas-phàrtaidhean a bhacadh a rachadh an stealladh a-steach do phròiseas { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Seall bàr-inneal nan comharran-lìn a ghnàth.
 policy-DisplayMenuBar = Seall bàr a’ chlàir-thaice a ghnàth.
 policy-DNSOverHTTPS = Rèitich DNS slighe HTTPS.
@@ -113,6 +116,8 @@ policy-SearchEngines = Rèitich roghainnean an einnsein-luirg. Chan eil am poile
 policy-SearchSuggestEnabled = Cuir an comas no à comas molaidhean luirg.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Stàlaich mòidealan PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Cuir ris no sguab às mòidealan PKCS #11.
 policy-ShowHomeButton = Seall putan na dachaigh air a’ bhàr-inneal.
 policy-SSLVersionMax = Suidhich an tionndadh SSL as motha.
 policy-SSLVersionMin = Suidhich an tionndadh SSL as lugha.
