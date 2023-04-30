@@ -134,3 +134,59 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Importowanie haseł z Safari
 migration-safari-password-import-steps-header = Aby zaimportować hasła z Safari:
 migration-safari-password-import-step1 = W Safari otwórz menu „Safari” i przejdź do „Preferencje” → „Hasła”
+migration-safari-password-import-step2 = Kliknij przycisk <img data-l10n-name="safari-icon-3dots"/> i wybierz „Eksportuj wszystkie hasła”
+migration-safari-password-import-step3 = Zapisz plik z hasłami
+migration-safari-password-import-step4 = Użyj przycisku „Wybierz plik” poniżej, aby wybrać zapisany plik z hasłami
+migration-safari-password-import-skip-button = Pomiń
+migration-safari-password-import-select-button = Wybierz plik
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } zakładka
+        [few] { $quantity } zakładki
+       *[many] { $quantity } zakładek
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } ulubiona
+        [few] { $quantity } ulubione
+       *[many] { $quantity } ulubionych
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } hasło
+        [few] { $quantity } hasła
+       *[many] { $quantity } haseł
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Z ostatniego dnia
+        [few] Z ostatnich { $maxAgeInDays } dni
+       *[many] Z ostatnich { $maxAgeInDays } dni
+    }
+migration-wizard-progress-success-formdata = Historia formularzy
+migration-wizard-safari-permissions-sub-header = Aby zaimportować zakładki i historię przeglądania z Safari:
+migration-wizard-safari-instructions-continue = Kliknij „Kontynuuj”
+migration-wizard-safari-instructions-folder = Zaznacz folder Safari na liście i kliknij „Otwórz”
+migration-wizard-safari-select-button = Wybierz plik
