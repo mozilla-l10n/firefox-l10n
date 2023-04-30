@@ -104,6 +104,8 @@ migration-import-from-file-button-label = Интихоби файл
 migration-cancel-button-label = Бекор кардан
 migration-done-button-label = Тайёр
 migration-continue-button-label = Идома додан
+migration-wizard-import-browser-no-browsers = Браузери «{ -brand-short-name }» ягон барномаеро пайдо карда натавонист, ки дорои маълумоти хатбаракҳо, ниҳонвожаҳо ё таърих мебошад.
+migration-wizard-import-browser-no-resources = Хато ба миён омад. Браузери «{ -brand-short-name }» наметавонад, ки ягон маълумотеро барои ворид кардан аз ин профили браузер пайдо кунад.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -117,6 +119,7 @@ migration-list-bookmark-label = хатбаракҳо
 migration-list-favorites-label = баргузидаҳо
 migration-list-password-label = ниҳонвожаҳо
 migration-list-history-label = таърих
+migration-list-autofill-label = маълумоти пуркунии худкор
 
 ##
 
@@ -179,4 +182,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Таърихи шакл
 migration-wizard-safari-permissions-sub-header = Барои ворид кардани хатбаракҳо ва таърихи тамошокунии «Safari»:
 migration-wizard-safari-instructions-continue = «Идома додан»-ро интихоб намоед
+migration-wizard-safari-instructions-folder = Ҷузвдони «Safari»-ро аз рӯйхат интихоб карда, имкони «Кушодан»-ро интихоб намоед
 migration-wizard-safari-select-button = Интихоби файл
