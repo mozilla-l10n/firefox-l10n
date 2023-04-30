@@ -13,6 +13,14 @@
 onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
 onboarding-start-browsing-button-label = 탐색 시작
 onboarding-not-now-button-label = 나중에
+mr1-onboarding-get-started-primary-button-label = 시작하기
+mr1-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
+    .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
+mr1-onboarding-set-default-secondary-button-label = 나중에
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } 추가
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = 시작하기:  { $current } / { $total } 화면
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = 진행률: { $current } / { $total } 단계
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = 시작
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — 가구 디자이너, Firefox 팬
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = 진행률: { $current } / { $total } 단계
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 애니메이션 끄기
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = 시작하기
-mr1-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
-    .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
-mr1-onboarding-set-default-secondary-button-label = 나중에
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = 로그인
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -426,3 +425,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = 창턱에 여우와 화초가 있는 창문을 통해 일몰의 전망
 mr2022-onboarding-colorways-image-alt =
     .aria-label = 손 스프레이로 녹색 눈, 주황색 신발, 빨간색 농구공, 보라색 헤드폰, 파란색 하트, 노란색 왕관의 다채로운 콜라주를 그림
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = 노트북 컴퓨터 화면에서 여우가 손을 흔드는 모습. 노트북에는 마우스가 연결되어 있습니다.
+onboarding-device-migration-title = 환영합니다
+onboarding-device-migration-subtitle = { -fxaccount-brand-name(capitalization: "sentence") }에 로그인하여 새 기기에 북마크, 비밀번호 및 기록을 가져오세요.
+onboarding-device-migration-primary-button-label = 로그인
