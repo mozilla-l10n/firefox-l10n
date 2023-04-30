@@ -57,10 +57,12 @@ neterror-dns-not-found-hint-firewall = ਜਾਂਚ ਕਰੋ ਕਿ { -brand-sh
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ਸਾਡੇ ਭਰੋਸੇਯੋਗ DNS ਹੱਲ਼ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵਾਂ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦੀ ਹੈ। ਇਸ ਦੇ ਕਾਰਨ ਹਨ:
 neterror-dns-not-found-trr-third-party-warning = ਤੁਸੀਂ ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ DNS ਹੱਲਕਰਤਾ ਨਾਲ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ। ਪਰ ਮਸਲਾ ਹੈ ਕਿ ਕੋਈ ਵੀ ਤੀਜੀ ਧਿਰ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਬਾਰੇ ਜਾਣ ਸਕਦੀ ਹੈ।
+neterror-dns-not-found-trr-third-party-warning2 = ਤੁਸੀਂ ਆਪਣੇ ਮੂਲ DNS ਹੱਲਕਰਤਾ ਨਾਲ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ। ਪਰ ਤੀਜੀ-ਧਿਰ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖ ਸਕਦੀ ਹੈ।
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੇਗਾ।
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ਲਈ ਕਨੈਕਸ਼ਨ ਨੂੰ ਆਸ ਤੋਂ ਵੱਧ ਸਮਾਂ ਲੱਗਾ ਹੈ।
 neterror-dns-not-found-trr-offline = ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ।
 neterror-dns-not-found-trr-unknown-host = ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਸਿਰਨਾਵਾਂ { $trrDomain } ਵਲੋਂ ਨਹੀਂ ਲੱਭਿਆ ਗਿਆ ਸੀ।
+neterror-dns-not-found-trr-unknown-host2 = ਇਹ ਵੈੱਬਸਾਈਟ { $trrDomain } ਨੂੰ ਨਹੀਂ ਲੱਭੀ ਹੈ।
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ਨਾਲ ਸਮੱਸਿਆ ਸੀ।
 neterror-dns-not-found-trr-unknown-problem = ਅਚਾਨਕ ਗਲਤੀ ਆਈ ਹੈ।
 
