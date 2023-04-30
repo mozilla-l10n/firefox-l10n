@@ -388,9 +388,14 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Tha suim againn dha do phrìobhaideachd an-còmhnaidh
+mr2022-onboarding-privacy-segmentation-subtitle = Eadar molaidhean ciallach is lorg tapaidh, tha sinn a’ sìor-obrachadh air { -brand-product-name } nas fheàrr, nas pearsanta.
+mr2022-onboarding-privacy-segmentation-text-cta = Dè sheallas sinn dhut nuair a bhios gleusan ùra againn a chleachdas an dàta agad airson am brabhsadh a nì thu a leasachadh?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Cleachd molaidhean { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Seall mion-fhiosrachadh
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Tha thu a’ cur taic ri lìon nas fheàrr
 
 ## Onboarding spotlight for infrequent users
 
