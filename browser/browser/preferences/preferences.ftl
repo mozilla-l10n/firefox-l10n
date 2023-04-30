@@ -1254,12 +1254,35 @@ preferences-doh-status-disabled = Wyłączone
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Nieaktywne ({ $reason })
-preferences-doh-group-message = Włącz zabezpieczony serwer DNS za pomocą:
+preferences-doh-group-message = Włącz zabezpieczony serwer DNS:
 preferences-doh-expand-section =
     .tooltiptext = Więcej informacji
 preferences-doh-setting-default =
     .label = Domyślna ochrona
     .accesskey = D
+preferences-doh-default-desc = { -brand-short-name } decyduje, kiedy używać zabezpieczonego serwera DNS do ochrony prywatności użytkownika.
+preferences-doh-default-detailed-desc-1 = Używa zabezpieczonego serwera DNS w regionach, gdzie jest dostępny
+preferences-doh-default-detailed-desc-2 = Używa domyślnego serwera DNS, jeśli występuje problem z dostawcą zabezpieczonego serwera DNS
+preferences-doh-default-detailed-desc-3 = Używa lokalnego dostawcy, jeśli to możliwe
+preferences-doh-default-detailed-desc-4 = Wyłącza, kiedy aktywna jest sieć VPN, kontrola rodzicielska lub zasady organizacji
+preferences-doh-default-detailed-desc-5 = Wyłącza, kiedy sieć mówi { -brand-short-name(case: "dat") }, że nie powinien używać zabezpieczonego serwera DNS
+preferences-doh-setting-enabled =
+    .label = Zwiększona ochrona
+    .accesskey = Z
+preferences-doh-enabled-desc = Użytkownik decyduje, kiedy używać zabezpieczonego serwera DNS i wybiera dostawcę.
+preferences-doh-enabled-detailed-desc-1 = Używa dostawcy wybranego przez użytkownika
+preferences-doh-enabled-detailed-desc-2 = Używa domyślnego serwera DNS tylko, jeśli występuje problem z zabezpieczonym serwerem DNS
+preferences-doh-setting-strict =
+    .label = Maksymalna ochrona
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } będzie zawsze używał zabezpieczonego serwera DNS. Przed użyciem systemowego serwera DNS zostanie wyświetlone ostrzeżenie o zagrożeniu bezpieczeństwa.
+preferences-doh-strict-detailed-desc-1 = Używa wyłącznie dostawcy wybranego przez użytkownika
+preferences-doh-strict-detailed-desc-2 = Zawsze ostrzega, jeśli zabezpieczony serwer DNS jest niedostępny
+preferences-doh-strict-detailed-desc-3 = Jeśli zabezpieczony serwer DNS jest niedostępny, witryny nie będą się wczytywać ani poprawnie działać
+preferences-doh-setting-off =
+    .label = Wyłączone
+    .accesskey = W
+preferences-doh-off-desc = Używa domyślnego serwera DNS
 
 ## The following strings are used in the Download section of settings
 
