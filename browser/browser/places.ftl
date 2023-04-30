@@ -75,6 +75,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Deasaich am pasgan…
     .accesskey = D
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
@@ -109,6 +111,9 @@ places-delete-bookmark =
            *[other] Sguab às an comharran-lìn
         }
     .accesskey = S
+places-untag-bookmark =
+    .label = Thoir an taga air falbh
+    .accesskey = T
 places-manage-bookmarks =
     .label = Stiùirich na comharran-lìn
     .accesskey = m
@@ -120,9 +125,6 @@ places-forget-about-this-site-forget = Dìochuimhnich
 places-library =
     .title = Leabhar-lann
     .style = width:800px; height:500px;
-places-library2 =
-    .title = Leabhar-lann
-    .style = min-width:800px; min-height:500px;
 places-library3 =
     .title = Leabhar-lann
 places-organize-button =
