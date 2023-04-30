@@ -419,6 +419,17 @@ mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Losgannan a’ leum air duilleagan-bàite le còd QR airson { -brand-product-name } mobile a luchdadh a-nuas sa mheadhan
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Slat-draoidheachd a chuireas suaicheantas brabhsadh prìobhaideach { -brand-product-name } am follais ann an ad
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Còig an àirde le craiceann soilleir is craiceann dorcha
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Laighe na grèine ann an uinneag le madadh-ruadh is lus-taighe air sòla uinneige
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Làmh a’ spreidhigeadh dealbh dathach le sùil uaine, bròg orains, ball-basgaid dearg, headphones purpaidh, cridhe gorm is crùn buidhe
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Madadh-ruadh air sgrìn laptop a’ smèideadh. Tha luchag plugte a-staigh san laptop.
+onboarding-device-migration-title = Fàilte air ais!
+onboarding-device-migration-subtitle = Clàraich a-steach dhan { -fxaccount-brand-name(capitalization: "sentence") } agad is thoir leat na comharran-lìn, faclan-faire ’s an eachdraidh agad gun uidheam ùr agad.
+onboarding-device-migration-primary-button-label = Clàraich a-steach
