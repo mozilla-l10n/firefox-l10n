@@ -116,6 +116,8 @@ policy-SearchEngines = Konfigurer søkemotorinnstillinger. Denne policyen er kun
 policy-SearchSuggestEnabled = Slå av eller på søkeforslag.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installer PKCS #11-moduler.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Legg til eller slett PKCS #11-moduler.
 policy-ShowHomeButton = Vis hjemknappen på verktøylinjen.
 policy-SSLVersionMax = Angi den maksimale SSL-versjonen.
 policy-SSLVersionMin = Angi den minimale SSL-versjonen.

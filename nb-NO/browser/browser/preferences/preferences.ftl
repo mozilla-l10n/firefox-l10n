@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Du synkroniserer for tiden disse elementene:
+sync-syncing-across-devices-heading = Du synkroniserer disse elementene mellom alle de tilkoblede enhetene dine:
 sync-currently-syncing-bookmarks = Bokmerker
 sync-currently-syncing-history = Historikk
 sync-currently-syncing-tabs = Åpne faner
@@ -771,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = L
     .buttonlabelextra2 = Koble fra
     .buttonaccesskeyextra2 = K
+sync-choose-dialog-subtitle = Endringer i listen over elementer som skal synkroniseres, gjenspeiles på alle de tilkoblede enhetene dine.
 sync-engine-bookmarks =
     .label = Bokmerker
     .accesskey = B
@@ -1234,11 +1236,57 @@ httpsonly-radio-disabled =
 preferences-doh-header = DNS-over-HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS sender forespørselen din om et domenenavn gjennom en kryptert tilkobling, lager en sikker DNS og gjør det vanskeligere for andre å se hvilket nettsted du er i ferd med å besøke.
 # Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Status: { $status }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Leverandør: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Ugyldig nettadresse
+preferences-doh-steering-status = Bruker lokal leverandør
+preferences-doh-status-active = Aktiv
+preferences-doh-status-disabled = Av
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Ikke aktiv ({ $reason })
+preferences-doh-group-message = Aktiver sikker DNS ved å bruke:
+preferences-doh-expand-section =
+    .tooltiptext = Mer informasjon
+preferences-doh-setting-default =
+    .label = Standardbeskyttelse
+    .accesskey = d
+preferences-doh-default-desc = { -brand-short-name } bestemmer når sikker DNS skal brukes for å beskytte personvernet ditt.
+preferences-doh-default-detailed-desc-1 = Bruk sikker DNS i regioner der den er tilgjengelig
 preferences-doh-default-detailed-desc-2 = Bruk din standard DNS-resolver hvis det er et problem med den sikre DNS-leverandøren
+preferences-doh-default-detailed-desc-3 = Bruk en lokal leverandør, hvis mulig
+preferences-doh-default-detailed-desc-4 = Slå av når VPN, foreldrekontroll eller bedriftspolicyer er aktive
+preferences-doh-default-detailed-desc-5 = Slå av når et nettverk forteller { -brand-short-name } at det sikker DNS ikke skal brukes
+preferences-doh-setting-enabled =
+    .label = Økt beskyttelse
+    .accesskey = k
+preferences-doh-enabled-desc = Du kontrollerer når du skal bruke sikker DNS og velger leverandør.
+preferences-doh-enabled-detailed-desc-1 = Bruk leverandøren du velger
 preferences-doh-enabled-detailed-desc-2 = Bruk bare standard DNS-resolver hvis det er et problem med sikker DNS
+preferences-doh-setting-strict =
+    .label = Maks beskyttelse
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } vil alltid bruke sikker DNS. Du vil se en advarsel om sikkerhetsrisiko før vi bruker systemets DNS.
+preferences-doh-strict-detailed-desc-1 = Bruk kun leverandøren du velger
+preferences-doh-strict-detailed-desc-2 = Advar alltid hvis sikker DNS ikke er tilgjengelig
+preferences-doh-strict-detailed-desc-3 = Hvis sikker DNS ikke er tilgjengelig, vil ikke nettsteder lastes eller fungere som de skal
+preferences-doh-setting-off =
+    .label = Av
+    .accesskey = A
 preferences-doh-off-desc = Bruk din standard DNS-resolver
+preferences-doh-checkbox-warn =
+    .label = Advar hvis en tredjepart aktivt hindrer sikker DNS
+    .accesskey = A
+preferences-doh-select-resolver = Velg leverandør:
+preferences-doh-exceptions-description = { -brand-short-name } vil ikke bruke sikker DNS på disse nettstedene
+preferences-doh-manage-exceptions =
+    .label = Behandle unntak
+    .accesskey = e
 
 ## The following strings are used in the Download section of settings
 
