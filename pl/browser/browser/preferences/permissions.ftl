@@ -218,3 +218,6 @@ permissions-site-speaker-window =
     .title = Wybieranie głośników — uprawnione witryny
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Następujące strony prosiły o możliwość wyboru wyjściowego urządzenia dźwiękowego. Określ, które witryny mogą je wybierać.
+permissions-exceptions-doh-window =
+    .title = DNS poprzez HTTPS — wyjątki
+    .style = { permissions-window2.style }
