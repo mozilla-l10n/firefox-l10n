@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = 최근에 닫은 탭
 appmenu-recently-closed-windows =
     .label = 최근에 닫은 창
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = 기록 검색
 
 ## Help panel
 
