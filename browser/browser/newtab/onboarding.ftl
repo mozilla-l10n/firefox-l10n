@@ -431,5 +431,5 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = En rev, på skjermen til en bærbar datamaskin, vinker. Den bærbare datamaskinen har en mus koblet til.
 onboarding-device-migration-title = Velkommen tilbake!
-onboarding-device-migration-subtitle = Logg på { -fxaccount-brand-name(capitalization: "sentence") } for å ta med deg bokmerkene, passordene og historikken din på den nye enheten.
+onboarding-device-migration-subtitle = Logg på { -fxaccount-brand-name } for å ta med deg bokmerkene, passordene og historikken din på den nye enheten.
 onboarding-device-migration-primary-button-label = Logg inn
