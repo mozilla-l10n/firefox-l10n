@@ -245,6 +245,7 @@ newtab-pocket-saved = Lagra
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Oppdag det beste p[ nettet
+newtab-pocket-onboarding-cta = { -pocket-brand-name } utforskar ei mengde ulike publikasjonar for å få det mest informative, inspirerande og pålitelege innhaldet direkte til { -brand-product-name }-nettlesaren din.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
