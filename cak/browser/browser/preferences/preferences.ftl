@@ -1218,6 +1218,7 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Chajinïk K'o Wi
     .accesskey = a
+preferences-doh-enabled-detailed-desc-1 = Tawokisaj ri ya'öl samaj xacha'
 preferences-doh-strict-detailed-desc-1 = Xa xe tawokisaj ri ya'öl samaj xacha'
 preferences-doh-setting-off =
     .label = Tichup
