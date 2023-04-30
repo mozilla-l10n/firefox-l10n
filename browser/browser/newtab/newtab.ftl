@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Lorg
     .aria-label = Lorg
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Dèan lorg le { $engine } no cuir a-steach seòladh
 newtab-search-box-handoff-text-no-engine = Dèan lorg no cuir a-steach seòladh
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Dèan lorg le { $engine } no cuir a-steach seòladh
     .title = Dèan lorg le { $engine } no cuir a-steach seòladh
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Dèan lorg no cuir a-steach seòladh
     .title = Dèan lorg no cuir a-steach seòladh
     .aria-label = Dèan lorg no cuir a-steach seòladh
-
 newtab-search-box-text = Lorg air an lìon
 newtab-search-box-input =
     .placeholder = Lorg air an lìon
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Deasaich an ath-ghoirid
 newtab-topsites-title-label = Tiotal
 newtab-topsites-title-input =
     .placeholder = Cuir ainm a-steach
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Sgrìobh URL no cuir fear ann
 newtab-topsites-url-validation = Tha feum air URL dligheach
-
 newtab-topsites-image-url-label = URL deilbh gnàthaichte
 newtab-topsites-use-image-link = Cleachd dealbh gnàthaichte...
 newtab-topsites-image-validation = Dh’fhàillig luchdadh an deilbh. Feuch URL eile.
@@ -84,15 +80,13 @@ newtab-topsite-sponsored = Sponsairichte
 newtab-menu-section-tooltip =
     .title = Fosgail an clàr-taice
     .aria-label = Fosgail an clàr-taice
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Thoir air falbh
     .aria-label = Thoir air falbh
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Fosgail an clàr-taice
     .aria-label = Fosgail an clàr-taice co-theacsail aig { $title }
@@ -162,21 +156,18 @@ newtab-label-removed-bookmark = Chaidh an comharra-lìn a thoirt air falbh
 newtab-label-recommended = A’ treandadh
 newtab-label-saved = Air a shàbhaladh ann am { -pocket-brand-name }
 newtab-label-download = Air a luchdadh a-nuas
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsairichte
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = ’Ga sponsaireadh le { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } mion
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -205,16 +196,15 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Brod nan làrach
 newtab-section-header-recent-activity = Gnìomhachd o chionn goirid
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = ’Ga mholadh le { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Tòisich air brabhsadh is seallaidh sinn dhut an-seo cuid dhe na h-artaigilean, videothan is duilleagan eile air an do thadhail thu no a chuir thu ris na comharran-lìn o chionn goirid.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Sin na naidheachdan uile o { $provider } an-dràsta ach bidh barrachd ann a dh’aithghearr. No thoir sùil air cuspair air a bheil fèill mhòr is leugh na tha a’ dol mun cuairt air an lìon an-dràsta.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -236,11 +226,9 @@ newtab-pocket-learn-more = Barrachd fiosrachaidh
 newtab-pocket-cta-button = Faigh { -pocket-brand-name }
 newtab-pocket-cta-text = Sàbhail na sgeulachdan as fhearr leat ann am { -pocket-brand-name } is faigh toileachas inntinn san leughadh.
 newtab-pocket-pocket-firefox-family = Tha { -pocket-brand-name } ’na phàirt de theaghlach bathar { -brand-product-name }
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Sàbhail ann am { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Air a shàbhaladh ann am { -pocket-brand-name }
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Luchdaich barrachd sgeulachdan
 
@@ -251,6 +239,12 @@ newtab-pocket-last-card-title = Chan eil naidheachd eile ann!
 newtab-pocket-last-card-desc = Till an-seo an ceann greis airson barrachd.
 newtab-pocket-last-card-image =
     .alt = Chan eil naidheachd eile ann!
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Sàbhail
+newtab-pocket-saved = Air a shàbhaladh
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -262,6 +256,8 @@ newtab-error-fallback-refresh-link = Ath-nuadhaich an duilleag airson fheuchainn
 
 newtab-custom-shortcuts-title = Ath-ghoiridean
 newtab-custom-shortcuts-subtitle = Làraichean a shàbhail thu no a thadhail thu orra
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } ràgh
