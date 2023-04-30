@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = ਕੈਸ਼ ਹੌਲੀ ਗਿਣਤੀ
 about-networking-rcwn-cache-not-slow = ਕੈਸ਼ਨ ਹੌਲੀ ਨਹੀਂ ਗਿਣਤੀ
 about-networking-networkid = ਨੈੱਟਵਰਕ ਪਛਾਣ
 about-networking-networkid-id = ਨੈੱਟਵਰਕ ਪਛਾਣ
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = ਇਸ ਸਫ਼ੇ ਨੂੰ <a data-l10n-name="about-logging-url">about:logging</a> ਉੱਤੇ ਭੇਜਿਆ ਗਿਆ ਹੈ।
 
 ## Link is intended as "network link"
 
