@@ -245,6 +245,8 @@ newtab-pocket-saved = Air a shàbhaladh
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
+newtab-pocket-onboarding-discover = Faigh lorg air brod an lìn
+newtab-pocket-onboarding-cta = Rùraichidh { -pocket-brand-name } raon farsaing de dh’fhoillseachaidhean airson an t-susbaint as fiosrachaile, as brosnachaile agus as earbsaiche a chur ri do làimh an-seo ann am brabhsair { -brand-product-name } agad fhèin.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
