@@ -398,6 +398,9 @@ update-application-warning-cross-user-setting = Re runuk'ulem re' xtisamajïx pa
 update-application-use-service =
     .label = Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch
     .accesskey = r
+update-application-suppress-prompts =
+    .label = Tik'ut jub'a' taq rutzijol richin k'exoj
+    .accesskey = r
 update-setting-write-failure-title2 = Xsach toq xyak ri Ruk'exoj taq runuk'ulem
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -443,6 +446,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Tokisäx jeb'ël q'axanïk
     .accesskey = e
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Jantape' tik'ut ri ruche'el silonem
+    .accesskey = k
 browsing-use-onscreen-keyboard =
     .label = Tik'ut pe ri na'onel pitzb'äl toq xtik'atzin
     .accesskey = p
@@ -805,6 +811,8 @@ forms-breach-alerts =
     .label = Kek'ut pe rutzijol taq k'ayewal chi kij ewan taq tzij kichin tz'ilan ajk'amaya'l ruxaq.
     .accesskey = n
 forms-breach-alerts-learn-more-link = Tetamäx ch'aqa' chik
+relay-integration =
+    .label = Titzij { -relay-brand-name } pa ri runuk'samajel ewan taq rutzij { -brand-short-name }
 relay-integration-learn-more-link = Tetamäx ch'aqa' chik
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
