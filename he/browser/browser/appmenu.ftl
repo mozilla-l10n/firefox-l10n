@@ -208,6 +208,9 @@ appmenu-recently-closed-tabs =
     .label = לשוניות שנסגרו לאחרונה
 appmenu-recently-closed-windows =
     .label = חלונות שנסגרו לאחרונה
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = חיפוש בהיסטוריה
 
 ## Help panel
 
