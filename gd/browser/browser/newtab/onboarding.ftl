@@ -13,6 +13,14 @@
 onboarding-welcome-header = Fàilte gu { -brand-short-name }
 onboarding-start-browsing-button-label = Tòisich air brabhsadh
 onboarding-not-now-button-label = Chan ann an-dràsta
+mr1-onboarding-get-started-primary-button-label = Dèan toiseach-tòiseachaidh
+mr1-onboarding-welcome-header = Fàilte gu { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Dèan { -brand-short-name } am prìomh-bhrabhsair agam
+    .title = Suidhichidh seo { -brand-short-name } ’na phrìomh-bhrabhsair is thèid a phrìneachadh ri bàr nan saothair
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Dèan { -brand-short-name } am brabhsair bunaiteach agam
+mr1-onboarding-set-default-secondary-button-label = Chan ann an-dràsta
 
 ## Custom Return To AMO onboarding strings
 
@@ -27,6 +35,9 @@ return-to-amo-add-theme-label = Cuir an t-ùrlar ris
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Can halò ri { -brand-short-name }
+mr1-return-to-amo-addon-title = Tha brabhsair luath ’s prìobhaideach deas ri do làimh. Is urrainn dhut <b>{ $addon-name }</b> a chur ris a-nis airson barrachd a dhèanamh le { -brand-short-name } fhathast.
+mr1-return-to-amo-add-extension-label = Cuir { $addon-name } ris
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -36,16 +47,6 @@ return-to-amo-add-theme-label = Cuir an t-ùrlar ris
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Toiseach-tòiseachaidh: sgrìn { $current } à { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Adhartas: ceum { $current } à { $total }
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Adhartas: ceum { $current } à { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -61,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – Dealbhaiche àirneis, dèidheil air Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Adhartas: ceum { $current } à { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Cuir na beòthachaidhean dheth
 
@@ -83,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Dèan toiseach-tòiseachaidh
-mr1-onboarding-welcome-header = Fàilte gu { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Dèan { -brand-short-name } am prìomh-bhrabhsair agam
-    .title = Suidhichidh seo { -brand-short-name } ’na phrìomh-bhrabhsair is thèid a phrìneachadh ri bàr nan saothair
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Dèan { -brand-short-name } am brabhsair bunaiteach agam
-mr1-onboarding-set-default-secondary-button-label = Chan ann an-dràsta
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Clàraich a-steach
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -230,9 +230,13 @@ mr2-onboarding-start-browsing-button-label = Tòisich air brabhsadh
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Tagh do chànan
+mr2022-onboarding-live-language-text = Tha do chànan aig { -brand-short-name }
+mr2022-language-mismatch-subtitle = Taing dhan choimhearsnachd againn, chaidh { -brand-short-name } eadar-theangachadh gu barrachd air 90 cànan. Tha coltas gur e “{ $systemLanguage }” an cànan aig an t-siostam agad agus gu bheil { $appLanguage } aig a’ { -brand-short-name } agad.
 onboarding-live-language-button-label-downloading = A’ luchdadh a-nuas na pacaid cànain airson a’ chànan a leanas: { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = A’ faighinn nan cànan a tha ri fhaighinn…
 onboarding-live-language-installing = A’ stàladh na pacaid cànain airson a’ chànan a leanas: { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = Cleachd { $negotiatedLanguage } na àite
+mr2022-onboarding-live-language-continue-in = Cùm a’ dol le { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Sguir dheth
 onboarding-live-language-skip-button-label = Leum thairis
 
@@ -258,9 +262,24 @@ fx100-upgrade-thanks-header = Ceud mìle taing
 fx100-upgrade-thank-you-body = Seo a’ cheudamh sgaoileadh dhe { -brand-short-name }! Tha sinn fad nad chomain-sa airson taic a chumail rinn nar strì airson eadar-lìon nas fheàrr, nas fhallaine.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Seo a’ cheudamh sgaoileadh againn! ’S fheàirrde sinn uile thusa nar measg. Cùm { -brand-short-name } faisg ri do thaobh, dìreach briogadh air falbh.
+mr2022-onboarding-secondary-skip-button-label = Leum seachad air seo
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Sàbhail is lean air adhart
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Suidhich { -brand-short-name } mar am brabhsair bunaiteach agam
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Ion-phortaich on bhrabhsair a chleachd thu roimhe
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Thoir a’ ghlas far brod an eadar-lìn
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -300,4 +319,7 @@ fx100-upgrade-thanks-keep-body = Seo a’ cheudamh sgaoileadh againn! ’S fheà
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+
+## Device migration onboarding
 
