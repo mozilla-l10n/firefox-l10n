@@ -11,6 +11,11 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Surf på nettet
 desktop-entry-generic-name = Nettlesar
+# Keywords are search terms used to find this application.
+# The string is a list of keywords separated by semicolons:
+# - Do NOT replace semicolons with other punctuation signs.
+# - The list MUST end with a semicolon.
+desktop-entry-keywords = Internett;WWW;Nettlesar;Web;Utforskar;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
