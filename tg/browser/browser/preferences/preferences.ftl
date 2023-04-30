@@ -1241,19 +1241,28 @@ preferences-doh-resolver = Таъминкунанда: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Нишонии URL беэътибор аст
+preferences-doh-steering-status = Истифодаи таъминкунандаи маҳаллӣ
 preferences-doh-status-active = Фаъол
 preferences-doh-status-disabled = Ғайрифаъол
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ғайрифаъол ({ $reason })
+preferences-doh-group-message = Фаъол кардани «DNS»-и бехатар тавассути:
 preferences-doh-expand-section =
     .tooltiptext = Маълумоти бештар
 preferences-doh-setting-default =
     .label = Муҳофизати пешфарз
     .accesskey = М
+preferences-doh-default-detailed-desc-3 = Истифодаи таъминкунандаи маҳаллӣ, агар имконпазир бошад
 preferences-doh-setting-enabled =
     .label = Муҳофизати тақвиятёфта
     .accesskey = М
+preferences-doh-setting-strict =
+    .label = Муҳофизати комил
+    .accesskey = М
+preferences-doh-setting-off =
+    .label = Ғайрифаъол
+    .accesskey = Ғ
 preferences-doh-select-resolver = Интихоби таъминкунанда:
 preferences-doh-manage-exceptions =
     .label = Идоракунии истисноҳо…

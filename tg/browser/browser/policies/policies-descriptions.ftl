@@ -114,6 +114,8 @@ policy-SearchEngines = Танзимоти низоми ҷустуҷӯиро та
 policy-SearchSuggestEnabled = Пешниҳодҳои ҷустуҷӯро фаъол ё ғайрифаъол мекунад.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Модулҳои «PKCS #11»-ро насб мекунад.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Модулҳои «PKCS #11»-ро илова ё нест мекунад.
 policy-ShowHomeButton = Намоиш додани тугмаи «Асосӣ» дар навори абзорҳо.
 policy-SSLVersionMax = Версия ҳадди аксари «SSL»-ро танзим мекунад.
 policy-SSLVersionMin = Версия ҳадди ақали «SSL»-ро танзим мекунад.
