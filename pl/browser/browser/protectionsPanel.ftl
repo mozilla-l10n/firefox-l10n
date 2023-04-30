@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = formularzami
 protections-panel-site-not-working-view-issue-list-payments = płatnościami
 protections-panel-site-not-working-view-issue-list-comments = komentarzami
 protections-panel-site-not-working-view-issue-list-videos = filmami
+protections-panel-site-not-working-view-issue-list-fonts = czcionkami
 protections-panel-site-not-working-view-send-report = Wyślij zgłoszenie
 
 ##
