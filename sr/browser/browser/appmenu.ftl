@@ -211,6 +211,9 @@ appmenu-recently-closed-tabs =
     .label = Недавно затворене картице
 appmenu-recently-closed-windows =
     .label = Недавно затворени прозори
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Претражи историју
 
 ## Help panel
 

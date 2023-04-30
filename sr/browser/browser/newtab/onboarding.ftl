@@ -13,77 +13,6 @@
 onboarding-welcome-header = Добро дошли у { -brand-short-name }
 onboarding-start-browsing-button-label = Претражујте интернет
 onboarding-not-now-button-label = Не сада
-
-## Custom Return To AMO onboarding strings
-
-return-to-amo-subtitle = Одлично, имате { -brand-short-name }
-# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Сада ће се инсталирати додатак <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
-return-to-amo-add-extension-label = Додај додатак
-return-to-amo-add-theme-label = Додајте тему
-
-##  Variables: $addon-name (String) - Name of the add-on to be installed
-
-mr1-return-to-amo-subtitle = Упознајте { -brand-short-name }
-mr1-return-to-amo-addon-title = Имате брз, приватни прегледач на дохват руке. Сада можете да додате <b>{ $addon-name }</b> и урадите више са { -brand-short-name }-ом.
-mr1-return-to-amo-add-extension-label = Додај { $addon-name }
-
-## Multistage onboarding strings (about:welcome pages)
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Први кораци: екран { $current } од { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Напредак: корак { $current } од { $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Све почиње овде
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — дизајнерка намештаја, обожаватељка Firefox-а
-# This button will open system settings to turn on prefers-reduced-motion
-mr1-onboarding-reduce-motion-button-label = Искључи анимације
-
-## Title and primary button strings differ between platforms as they
-## match the OS' application context menu item action where Windows uses "pin"
-## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Додајте { -brand-short-name } на траку задатака ради лакшег приступа
-       *[other] Закачите { -brand-short-name } на траку задатака ради лакшег приступа
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Додај на док
-       *[other] Закачи на траку задатака
-    }
-
-## Multistage MR1 onboarding strings (about:welcome pages)
-
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Увод
 mr1-onboarding-welcome-header =
     Добро дошли у { -brand-short-name.gender ->
@@ -116,6 +45,76 @@ mr1-onboarding-set-default-only-primary-button-label =
        *[other] програм { -brand-short-name }
     } као подразумевани прегледач
 mr1-onboarding-set-default-secondary-button-label = Не сада
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Одлично, имате { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Сада ће се инсталирати додатак <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Додај додатак
+return-to-amo-add-theme-label = Додајте тему
+
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Упознајте { -brand-short-name }
+mr1-return-to-amo-addon-title = Имате брз, приватни прегледач на дохват руке. Сада можете да додате <b>{ $addon-name }</b> и урадите више са { -brand-short-name }-ом.
+mr1-return-to-amo-add-extension-label = Додај { $addon-name }
+
+## Multistage onboarding strings (about:welcome pages)
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Први кораци: екран { $current } од { $total }
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text = Све почиње овде
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — дизајнерка намештаја, обожаватељка Firefox-а
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Напредак: корак { $current } од { $total }
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Искључи анимације
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Додајте { -brand-short-name } на траку задатака ради лакшег приступа
+       *[other] Закачите { -brand-short-name } на траку задатака ради лакшег приступа
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Додај на док
+       *[other] Закачи на траку задатака
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Пријави ме
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -463,3 +462,9 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Поглед на залазак сунца кроз прозор, са лисицом и собном биљком на дасци прозора
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Рука спрејем прави шарени колаж зеленог ока, наранџасте патике, црвене кошаркашке лопте, љубичастих слушалица, плавог срца и жуте круне
+
+## Device migration onboarding
+
+onboarding-device-migration-title = Добродошли назад!
+onboarding-device-migration-subtitle = Пријавите се у ваш { -fxaccount-brand-name(capitalization: "sentence") } да бисте пренели ваше обележиваче, лозинке и историју на нови уређај.
+onboarding-device-migration-primary-button-label = Пријави се
