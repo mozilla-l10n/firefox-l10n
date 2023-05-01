@@ -6,9 +6,16 @@
 # These messages are used by the Firefox ".desktop" file on Linux.
 # https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html
 
+# The entry name is the label on the desktop icon, among other things.
+desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Naviguer sur le Web
 desktop-entry-generic-name = Navigateur web
+# Keywords are search terms used to find this application.
+# The string is a list of keywords separated by semicolons:
+# - Do NOT replace semicolons with other punctuation signs.
+# - The list MUST end with a semicolon.
+desktop-entry-keywords = Internet;WWW;Navigateur;Web;Explorer;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.

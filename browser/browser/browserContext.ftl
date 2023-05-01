@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Utiliser un alias de messagerie { -relay-brand-short-name }
+    .accesskey = m
 main-context-menu-suggest-strong-password =
     .label = Suggérer un mot de passe fort…
     .accesskey = S
