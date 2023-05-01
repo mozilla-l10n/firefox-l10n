@@ -35,6 +35,7 @@ return-to-amo-add-theme-label = ᱛᱷᱤᱢ ᱥᱮᱞᱮᱫ ᱢᱮ
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = { -brand-short-name } ᱡᱚᱦᱟᱨᱟᱭ ᱢᱮ
 mr1-return-to-amo-add-extension-label = { $addon-name } ᱥᱮᱞᱮᱫ ᱢᱮ
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -320,3 +321,6 @@ onboarding-infrequent-import-primary-button = { -brand-short-name } ᱠᱷᱚᱱ
 
 mr2022-onboarding-default-image-alt =
     .aria-label = { -brand-product-name } ᱪᱤᱱᱦᱟᱹ ᱨᱮ ᱦᱚᱲ ᱦᱟ.ᱲᱩᱵᱚᱜ ᱠᱟᱱᱟᱭ
+
+## Device migration onboarding
+

@@ -105,6 +105,7 @@ migration-choose-to-import-from-file-button-label = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟ�
 migration-import-from-file-button-label = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-cancel-button-label = ᱵᱟᱹᱰᱨᱟᱹ
 migration-done-button-label = ᱦᱩᱭᱮᱱᱟ
+migration-continue-button-label = ᱞᱮᱛᱟᱲ
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

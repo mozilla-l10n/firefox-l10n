@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = { -relay-brand-short-name } ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = ᱟᱸᱴ ᱫᱟᱫᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱟᱛᱟᱣ ᱢᱮ …
     .accesskey = S
