@@ -13,6 +13,14 @@
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 onboarding-start-browsing-button-label = 开始上网冲浪
 onboarding-not-now-button-label = 暂时不要
+mr1-onboarding-get-started-primary-button-label = 开始使用
+mr1-onboarding-welcome-header = 欢迎使用 { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = 将 { -brand-short-name } 设为我的主浏览器
+    .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = 将 { -brand-short-name } 设为我的默认浏览器
+mr1-onboarding-set-default-secondary-button-label = 暂时不要
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = 添加 { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = 开始使用：第 { $current }屏，共 { $total } 屏
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = 进度：步骤 { $current } / { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = 星星之火 正将燎原
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = 索拉娅·奥索里奥（Soraya Osorio）— 家具设计师、Firefox 粉丝
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = 进度：步骤 { $current } / { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 关闭动画
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = 开始使用
-mr1-onboarding-welcome-header = 欢迎使用 { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = 将 { -brand-short-name } 设为我的主浏览器
-    .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = 将 { -brand-short-name } 设为我的默认浏览器
-mr1-onboarding-set-default-secondary-button-label = 暂时不要
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = 登录
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -410,3 +409,8 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = 透过窗户看日落，窗台上有一只狐狸和一株室内植物
 mr2022-onboarding-colorways-image-alt =
     .aria-label = 一个人使用喷漆，画出一幅包含绿色眼睛、橙色鼻子、红色篮球、紫色耳机、蓝色心脏和黄色皇冠的多彩涂鸦画作
+
+## Device migration onboarding
+
+onboarding-device-migration-title = 欢迎回来！
+onboarding-device-migration-primary-button-label = 登录
