@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Taq Ruwi' k'a b'a' Ketz'apïx
 appmenu-recently-closed-windows =
     .label = Taq k'ajtz'ib' k'a b'a' etz'apin
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Tikanöx natab'äl
 
 ## Help panel
 
