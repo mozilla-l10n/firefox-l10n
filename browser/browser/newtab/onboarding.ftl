@@ -13,6 +13,14 @@
 onboarding-welcome-header = Vertu velkomin í { -brand-short-name }
 onboarding-start-browsing-button-label = Fara að vafra
 onboarding-not-now-button-label = Ekki núna
+mr1-onboarding-get-started-primary-button-label = Hefjast handa
+mr1-onboarding-welcome-header = Velkomin í { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
+    .title = Gerir { -brand-short-name } að sjálfgefnum vafra og festir hann við verkefnastikuna
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Gera { -brand-short-name } að sjálfgefna vafranum mínum
+mr1-onboarding-set-default-secondary-button-label = Ekki núna
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Bæta við { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Komast í gang: skjár { $current } af { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Framvinda: skref { $current } af { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Húsgagnahönnuður, Firefox-aðdáandi
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Framvinda: skref { $current } af { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slökkva á hreyfingum
 
@@ -84,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Hefjast handa
-mr1-onboarding-welcome-header = Velkomin í { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
-    .title = Gerir { -brand-short-name } að sjálfgefnum vafra og festir hann við verkefnastikuna
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Gera { -brand-short-name } að sjálfgefna vafranum mínum
-mr1-onboarding-set-default-secondary-button-label = Ekki núna
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Innskráning
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -429,3 +428,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Útsýni á sólarlag í gegnum glugga með rebba og plöntu í gluggakistu
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Hönd spreyjar litríka mynd með grænu auga, appelsínugulum skó, rauðum körfubolta, fjólubláum heyrnartólum, bláu hjarta og gulri kórónu.
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Refur sem veifar á skjá fartölvu. Í fartölvuna er tengd mús.
+onboarding-device-migration-title = Velkomin aftur!
+onboarding-device-migration-subtitle = Skráðu þig inn á { -fxaccount-brand-name(capitalization: "sentence") } til að taka bókamerkin þín, lykilorð og feril með þér á nýja tækið þitt.
+onboarding-device-migration-primary-button-label = Skrá inn
