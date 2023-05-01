@@ -742,6 +742,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Шумо маводи зеринро ҳамоҳанг карда истодаед:
+sync-syncing-across-devices-heading = Шумо маводи зеринро дар ҳамаи дастгоҳҳои пайвастшудаи худ ҳамоҳанг карда истодаед:
 sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-history = Таърих
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
