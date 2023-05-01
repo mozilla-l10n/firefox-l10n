@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Nyleg attlatne faner
 appmenu-recently-closed-windows =
     .label = Nyleg attlatne vindauge
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Søkjehistorikk
 
 ## Help panel
 
