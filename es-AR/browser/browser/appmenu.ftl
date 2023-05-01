@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Pestañas cerradas recientemente
 appmenu-recently-closed-windows =
     .label = Ventanas cerradas recientemente
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Buscar en el historial
 
 ## Help panel
 
