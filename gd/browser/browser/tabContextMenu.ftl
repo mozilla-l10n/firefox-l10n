@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Dèan comharra-lìn dhen taba
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Dèan comharra-lìn dhen taba…
+    .accesskey = D
 tab-context-open-in-new-container-tab =
     .label = Fosgail ann an taba soithich ùr
     .accesskey = F
@@ -109,7 +112,6 @@ tab-context-move-tabs =
            *[other] Gluais na tabaichean
         }
     .accesskey = G
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

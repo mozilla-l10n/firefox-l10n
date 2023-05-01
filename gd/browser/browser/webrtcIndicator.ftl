@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Taisbeanair co-roinnidh
 webrtc-indicator-window =
     .title = { -brand-short-name } – Taisbeanair co-roinnidh
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Tha thu a’ co-roinneadh a’ chamara agad. Dèan briogadh airson an co-roinneadh a stiùireadh.
 webrtc-microphone-system-menu =
@@ -178,8 +173,8 @@ webrtc-allow-share-screen-and-audio-capture = An doir thu cead dha { $origin } �
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = A bheil thu airson cead a thoirt dha { $origin } cead a thoirt dha { $thirdParty } èisteachd ri fuaim an taba seo?
 webrtc-allow-share-camera-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan chamara dha { $thirdParty }?
-webrtc-allow-share-microphone-unsafe-delegations = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan mhicreofon dha { $thirdParty }?
 webrtc-allow-share-microphone-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan mhicreofon dha { $thirdParty }?
 webrtc-allow-share-screen-unsafe-delegation = An doir thu cead dha { $origin } gun leig e le { $thirdParty } an sgrìn agad fhaicinn?
 # "Speakers" is used in a general sense that might include headphones or
@@ -223,6 +218,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Bac an-còmhnaidh
     .accesskey = m
+webrtc-action-not-now =
+    .label = Chan ann an-dràsta
+    .accesskey = C
 
 ##
 
