@@ -1279,6 +1279,22 @@ preferences-doh-enabled-detailed-desc-2 = Na cleachd am fuasglaiche DNS bunaitea
 preferences-doh-setting-strict =
     .label = An dìon as treasa
     .accesskey = A
+preferences-doh-strict-desc = Cleachdaidh { -brand-short-name } DNS tèarainte an-còmhnaidh. Chì thu rabhadh tèaraineachd mus cleachd sinn DNS an t-siostaim agad.
+preferences-doh-strict-detailed-desc-1 = Na cleachd ach an solaraichte a thaghas tusa
+preferences-doh-strict-detailed-desc-2 = Thoir dhomh rabhadh an-còmhnaidh mur eil DNS tèarainte ri fhaighinn
+preferences-doh-strict-detailed-desc-3 = Mur eil DNS tèarainte ri fhaighinn, cha tèid làraichean a luchdadh no chan obraich iad mar bu chòir
+preferences-doh-setting-off =
+    .label = Dheth
+    .accesskey = D
+preferences-doh-off-desc = Cleachd am fuasglaiche DNS bunaiteach agad
+preferences-doh-checkbox-warn =
+    .label = Thoir dhomh rabhadh ma tha treas-phàrtaidh a’ bacadh DNS tèarainte a dh’aona-ghnothaich
+    .accesskey = { "" }
+preferences-doh-select-resolver = Tagh solaraiche:
+preferences-doh-exceptions-description = Cha chleachd { -brand-short-name } DNS tèarainte air na làraichean seo
+preferences-doh-manage-exceptions =
+    .label = Stiùirich na h-eisgeachdan…
+    .accesskey = S
 
 ## The following strings are used in the Download section of settings
 
