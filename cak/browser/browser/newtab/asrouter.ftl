@@ -162,6 +162,7 @@ spotlight-total-cookie-protection-secondary-button = Wakami mani
 spotlight-better-internet-header = Jun utziläj k'amaya'l nitikïr awik'in
 spotlight-better-internet-body = Toq nokisäx { -brand-short-name } ütz nikitz'ët ri jaqäl, okel k'amaya'l, ri yalan ütz chi qe qonojel.
 spotlight-peace-mind-header = Röj yatqachajij
+spotlight-peace-mind-body = Ik' ik' { -brand-short-name } yeruq'ät jub'a' chi re ri 3,000 ojqanela' chi kijujunal okisanel. Ruma majun k'o chin ninaqo ri awichinanem achi'el ri ojqanela', ri man ta nikiju' ki' chi ikojol rat chuqa' ri k'amaya'l.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Tik'oje' pa Dock

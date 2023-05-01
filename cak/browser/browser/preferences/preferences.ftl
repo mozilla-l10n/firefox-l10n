@@ -1087,6 +1087,8 @@ permissions-microphone = Q'asäy ch'ab'äl
 permissions-microphone-settings =
     .label = Taq nuk'ulem…
     .accesskey = m
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Rucha'ik q'asäy ch'ab'äl
 permissions-speaker-settings =
     .label = Taq nuk'ulem…
     .accesskey = n
