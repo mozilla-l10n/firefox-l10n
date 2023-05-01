@@ -83,10 +83,16 @@ about-debugging-refresh-usb-devices-button = ໂຫຼດອຸປະກອນ�
 
 # Title of the Setup page.
 about-debugging-setup-title = ຕັ້ງ​ຄ່າ
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = ຕັ້ງຄ່າວິທີການເຊື່ອມຕໍ່ທີ່ທ່ານຕ້ອງການແກ້ໄຂອຸປະກອນຂອງທ່ານຈາກໄລຍະໄກ.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = ໃຊ້ <a>{ about-debugging-this-firefox-runtime-name } </a> ເພື່ອດີບັກສ່ວນຂະຫຍາຍ ແລະ service worker ໃນເວີຊັນນີ້ຂອງ { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = ເຊື່ອມຕໍ່ອຸປະກອນ
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = ການເປີດໃຊ້ງານນີ້ຈະດາວໂຫຼດ ແລະ ເພີ່ມອົງປະກອບການດີບັກຂອງ Android USB ທີ່ຕ້ອງການໃສ່ { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = ເປີດໃຊ້ອຸປະກອນ USB
@@ -128,6 +134,10 @@ about-debugging-network-locations-host-input-label = Host
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = ລຶບ
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = ໂຮສບໍ່ຖືກຕ້ອງ “{ $host-value }”. ຮູບແບບທີ່ຄາດໄວ້ແມ່ນ “hostname:portnumber”.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -161,6 +171,10 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = ປະສິດທິພາບໂປຣໄຟລ໌
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to:
+# https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
+about-debugging-runtime-service-workers-not-compatible = ການຕັ້ງຄ່າໂປຣແກຣມທ່ອງເວັບຂອງທ່ານບໍ່ເຂົ້າກັນໄດ້ກັບພະນັກງານບໍລິການ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -266,6 +280,9 @@ about-debugging-main-process-description2 = ໂປເຊດຫຼັກຂອງ
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-name = Multiprocess Toolbox
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-description = ຂະບວນການຕົ້ນຕໍ ແລະ ຂະບວນການເນື້ອຫາສໍາລັບຕົວທ່ອງເວັບເປົ້າຫມາຍ
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ປິດຂໍ້ຄວາມ

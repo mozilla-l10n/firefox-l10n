@@ -6,12 +6,16 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+accessibility-text-label-header = ຂໍ້ຄວາມປ້າຍກຳກັບ ແລະ ຊື່
+accessibility-keyboard-header = ແປ້ນພິມ
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
+accessibility-warning =
+    .alt = ຄຳເຕືອນ
 accessibility-fail =
     .alt = ຂໍ້ຜິດພາດ
 accessibility-best-practices =
