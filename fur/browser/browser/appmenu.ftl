@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Schedis sieradis di resint
 appmenu-recently-closed-windows =
     .label = Barcons sierâts di resint
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Cîr te cronologjie
 
 ## Help panel
 
