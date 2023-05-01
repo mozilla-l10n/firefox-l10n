@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = 最近關閉的分頁
 appmenu-recently-closed-windows =
     .label = 最近關閉的視窗
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = 搜尋紀錄
 
 ## Help panel
 
