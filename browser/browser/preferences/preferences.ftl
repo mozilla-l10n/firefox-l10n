@@ -1242,6 +1242,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS prek HTTPS
+preferences-doh-description = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stanje: { $status }
@@ -1251,16 +1252,41 @@ preferences-doh-resolver = Ponudnik: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Neveljaven spletni naslov
+preferences-doh-steering-status = Uporablja se lokalni ponudnik
 preferences-doh-status-active = dejavno
 preferences-doh-status-disabled = izključeno
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = nedejavno ({ $reason })
+preferences-doh-group-message = Omogoči zavarovan DNS. Stopnja zaščite:
 preferences-doh-expand-section =
     .tooltiptext = Več informacij
+preferences-doh-setting-default =
+    .label = Privzeta
+    .accesskey = P
 preferences-doh-default-desc = { -brand-short-name } naj odloči, kdaj naj zaščiti vašo zasebnost z uporabo zavarovanega DNS.
+preferences-doh-default-detailed-desc-1 = uporabljaj zavarovan DNS v regijah, kjer je na voljo
+preferences-doh-default-detailed-desc-2 = če pride do težave s ponudnikom zavarovanega DNS, uporabi privzeti razreševalnik DNS
+preferences-doh-default-detailed-desc-3 = če je mogoče, uporabi lokalnega ponudnika
+preferences-doh-default-detailed-desc-4 = izklopi, ko je dejaven VPN, starševski nadzor ali pravilniki za podjetja
+preferences-doh-default-detailed-desc-5 = izklopi, ko omrežje sporoči { -brand-short-name(sklon: "dajalnik") }, naj ne uporablja zavarovanega DNS
+preferences-doh-setting-enabled =
+    .label = Okrepljena
+    .accesskey = k
 preferences-doh-enabled-desc = Odločajte sami, kdaj uporabiti zavarovan DNS, in izberite ponudnika.
+preferences-doh-enabled-detailed-desc-1 = uporabljaj ponudnika po izbiri
+preferences-doh-enabled-detailed-desc-2 = privzeti razreševalnik DNS uporabi samo, če pride do težav z zavarovanim
+preferences-doh-setting-strict =
+    .label = Najmočnejša
+    .accesskey = N
 preferences-doh-strict-desc = { -brand-short-name } naj vedno uporablja zavarovan DNS. Preden se uporabi sistemski DNS, naj se prikaže opozorilo.
+preferences-doh-strict-detailed-desc-1 = uporabljaj samo izbranega ponudnika
+preferences-doh-strict-detailed-desc-2 = vedno opozori, če zavarovani DNS ni na voljo
+preferences-doh-strict-detailed-desc-3 = Če zavarovan DNS ne bo na voljo, se strani ne bodo nalagale ali delovale pravilno
+preferences-doh-setting-off =
+    .label = Izklop
+    .accesskey = I
+preferences-doh-off-desc = Uporabljaj privzeti razreševalenik DNS.
 preferences-doh-checkbox-warn =
     .label = Opozori, če tretja oseba aktivno preprečuje uporabo zavarovanega DNS
     .accesskey = O

@@ -144,6 +144,8 @@ urlbar-tip-icon-description =
     .alt = Namig:
 urlbar-result-menu-button =
     .title = Odpri meni
+urlbar-result-menu-button-feedback = Povratne informacije
+    .title = Odpri meni
 urlbar-result-menu-learn-more =
     .label = Več o tem
     .accesskey = V
@@ -682,6 +684,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Odpri sliko v sliki ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Zapri sliko v sliki ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
