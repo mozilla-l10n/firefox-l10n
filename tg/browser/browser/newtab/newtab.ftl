@@ -244,6 +244,7 @@ newtab-pocket-saved = Нигоҳ дошта шуд
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Маводи беҳтаринро дар Интернет пайдо намоед
+newtab-pocket-onboarding-cta = «{ -pocket-brand-name }» ҳаҷми васеи нашрияҳои гуногунро баррасӣ карда, ба браузери «{ -brand-product-name }»-и шумо муҳтавои ахборотӣ, илҳомбахш ва боэътимодро таъмин менамояд.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
