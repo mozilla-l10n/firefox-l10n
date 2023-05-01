@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Варақаҳои ба наздикӣ пӯшидашуда
 appmenu-recently-closed-windows =
     .label = Равзанаҳои ба наздикӣ пӯшидашуда
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Ҷустуҷӯ дар таърих
 
 ## Help panel
 

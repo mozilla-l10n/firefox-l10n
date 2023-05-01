@@ -426,3 +426,8 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Намоиши ғуруби офтоб аз тиреза бо рӯбоҳ ва растании хонагӣ дар зертахтаи тиреза
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Спрейи дастӣ дар маҷмуи рангини чашми сабз, пойафзоли норанҷӣ, тӯби баскетболи сурх, гӯшмонакҳои арғувон, дили кабуд ва тоҷи зардро ранг мекунад
+
+## Device migration onboarding
+
+onboarding-device-migration-title = Бозгаштатон муборак!
+onboarding-device-migration-primary-button-label = Ворид шудан
