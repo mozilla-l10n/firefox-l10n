@@ -398,3 +398,8 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = ທັດສະນະຂອງ sunset ຜ່ານປ່ອງຢ້ຽມທີ່ມີ fox ແລະຕົ້ນໄມ້ເຮືອນຢູ່ໃນ windowsill ໄດ້
 mr2022-onboarding-colorways-image-alt =
     .aria-label = ສີດພົ່ນມືເຮັດໃຫ້ຕາສີຂຽວ, ເກີບສີສົ້ມ, ບານບ້ວງສີແດງ, ຫູຟັງສີມ່ວງ, ຫົວໃຈສີຟ້າ ແລະມົງກຸດສີເຫຼືອງ
+
+## Device migration onboarding
+
+onboarding-device-migration-title = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ!
+onboarding-device-migration-primary-button-label = ເຂົ້າສູ່ລະບົບ
