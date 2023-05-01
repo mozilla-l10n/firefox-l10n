@@ -330,6 +330,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Мәселелерді шешу режимін сөндіру
     .accesskey = м
+menu-help-switch-device =
+    .label = Жаңа құрылғыға ауысу
+    .accesskey = р
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

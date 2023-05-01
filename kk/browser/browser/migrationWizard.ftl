@@ -35,6 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = CSV файлынан парольдер
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -57,6 +58,12 @@ migration-favorites-option-label = Таңдамалы
 migration-logins-and-passwords-option-label = Сақталған логиндер мен парольдер
 migration-history-option-label = Шолу тарихы
 migration-form-autofill-option-label = Формаларды автотолтыру деректері
+migration-passwords-from-file-progress-header = Парольдер файлын импорттау
+migration-passwords-from-file-success-header = Парольдер сәтті импортталды
+migration-passwords-from-file = Файлды парольдерге тексеру
+migration-passwords-new = Жаңа парольдер
+migration-passwords-updated = Бар болып тұрған парольдер
+migration-passwords-from-file-picker-title = Парольдер файлын импорттау
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,9 +78,32 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV құжаты
        *[other] TSV файлы
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } қосылды
+       *[other] { $newEntries } қосылды
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } жаңартылды
+       *[other] { $updatedEntries } жаңартылды
+    }
 migration-import-button-label = Импорттау
+migration-choose-to-import-from-file-button-label = Файлдан импорттау
+migration-import-from-file-button-label = Файлды таңдау
 migration-cancel-button-label = Бас тарту
 migration-done-button-label = Дайын
+migration-continue-button-label = Жалғастыру
 migration-wizard-import-browser-no-browsers = { -brand-short-name } бетбелгі, тарих немесе пароль деректерін сақтайтын ешбір бағдарламаны таба алмады.
 migration-wizard-import-browser-no-resources = Қате орын алды. { -brand-short-name } браузер профилінен ешбір импортталатын деректерді таба алмады.
 
