@@ -220,6 +220,8 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Cuir cùlaibh is susbaint na làraich-lìn a-rèir roghainnean ùrlar { -brand-short-name } agad.
 preferences-web-appearance-choice-tooltip-system =
     .title = Cuir cùlaibh is susbaint na làraich-lìn a-rèir roghainnean an t-siostaim agad.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Cuir na cùlaibhean aig làraichean-lìn is aig susbaint air gleus a-rèir roghainnean an t-siostaim agad agus an ùrlair aig { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Cleachd coltas soilleir airson cùlaibhean is susbaint làraichean-lìn.
 preferences-web-appearance-choice-tooltip-dark =
@@ -228,6 +230,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -629,6 +633,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Seall molaidhean luirg ann an toraidhean bàr an t-seòlaidh
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Seall na briathran luirg an àite an URL air duilleag nan toraidhean on einnsean-luirg bhunaiteach
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -742,6 +751,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Tha thu a’ sioncronachadh nan nithean seo an-dràsta:
+sync-syncing-across-devices-heading = Tha thu a’ sioncronachadh na leanas air feadh nan uidheaman ceangailte air fad agad:
 sync-currently-syncing-bookmarks = Comharran-lìn
 sync-currently-syncing-history = Eachdraidh
 sync-currently-syncing-tabs = Tabaichean fosgailte
@@ -770,6 +780,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Dì-cheangail…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Ma dh’atharraicheas tu liosta nan nithean a nì sioncronachadh, bidh buaidh aige sin air na h-uidheaman ceangailte air fad agad.
 sync-engine-bookmarks =
     .label = na comharran-lìn agam
     .accesskey = m
@@ -838,6 +849,9 @@ forms-breach-alerts =
     .label = Seall caismeachdan mu fhaclan-faire do làraichean-lìn air an deach briseadh a-steach
     .accesskey = b
 forms-breach-alerts-learn-more-link = Barrachd fiosrachaidh
+relay-integration =
+    .label = Cuir { -relay-brand-name } an comas ann am manaidsear fhaclan-faire { -brand-short-name } agad
+relay-integration-learn-more-link = Barrachd fiosrachaidh
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Lìon clàraidhean a-steach is faclan-faire gu fèin-obrachail
@@ -954,6 +968,8 @@ sitedata-option-block-unvisited =
     .label = Briosgaidean o làraichean air nach deach tadhal
 sitedata-option-block-all-third-party =
     .label = Gach briosgaid treas-phàrtaidh (dh’fhaoidte gum bris seo làraichean-lìn)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Gach briosgaid thar-làraich (dh’fhaoidte nach obraich cuid a làraichean ri linn)
 sitedata-option-block-all =
     .label = Gach briosgaid (brisidh làraichean-lìn ri linn seo)
 sitedata-clear =
@@ -968,6 +984,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Nas lugha de bhrataichean bhriosgaidean
+cookie-banner-handling-description = Feuchaidh { -brand-short-name } ri iarrtasan bhriosgaidean a dhiùltadh air brataichean bhriosgaidean air làraichean ris a bheil taic.
+cookie-banner-learn-more = Barrachd fiosrachaidh
+forms-handle-cookie-banners =
+    .label = Nas lugha de bhrataichean bhriosgaidean
 
 ## Privacy Section - Address Bar
 
@@ -992,7 +1013,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Einnseanan-luirg
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Grad-ghnìomhan
+    .accesskey = G
 addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean o einnseanan-luirg
+addressbar-quickactions-learn-more = Barrachd fiosrachaidh
 
 ## Privacy Section - Content Blocking
 
@@ -1032,6 +1057,7 @@ content-blocking-all-cookies = Gach briosgaid
 content-blocking-unvisited-cookies = Briosgaidean o làraichean air nach deach tadhal
 content-blocking-all-windows-tracking-content = Susbaint tracaidh air uinneag sam bith
 content-blocking-all-third-party-cookies = Gach briosgaid le treas-phàrtaidh
+content-blocking-all-cross-site-cookies = Gach briosgaid thar-làraich
 content-blocking-cryptominers = Criopto-mhèinneadairean
 content-blocking-fingerprinters = Lorgaichean-meur
 # "Test pilot" is used as a verb. Possible alternatives:
@@ -1103,6 +1129,11 @@ permissions-microphone = Micreofon
 permissions-microphone-settings =
     .label = Roghainnean...
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Taghadh a’ ghlaodhaire
+permissions-speaker-settings =
+    .label = Roghainnean…
+    .accesskey = R
 permissions-notification = Brathan
 permissions-notification-settings =
     .label = Roghainnean...
@@ -1153,6 +1184,12 @@ addon-recommendations-link = Barrachd fiosrachaidh
 collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo
 collection-backlogged-crash-reports-with-link = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe a chur às do leth <a data-l10n-name="crash-reports-link">Barrachd fiosrachaidh</a>
     .accesskey = c
+privacy-segmentation-section-header = Gleusan ùra a leasaicheas am brabhsadh a nì thu
+privacy-segmentation-section-description = Ma bhios gleusan againn a chleachdas an dàta agad airson àrainneachd nas pearsantaiche:
+privacy-segmentation-radio-off =
+    .label = Cleachd molaidhean { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Seall am mion-fhiosrachadh
 
 ## Privacy Section - Security
 ##
@@ -1204,6 +1241,31 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS thar HTTPS
+preferences-doh-description = Cuiridh Domain Name System (DNS) thar HTTPS d’ iarrtas airson ainm àrainn air ceangal crioptaichte, a’ cruthachadh DNS tèarainte agus bidh e nas dorra do dhaoine eile na làraichean-lìn a tha thu ag inntrigeadh fhaicinn.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Staid: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Solaraiche: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL mì-dhligheach
+preferences-doh-steering-status = A’ cleachdadh solaraiche ionadail
+preferences-doh-status-active = Gnìomhach
+preferences-doh-status-disabled = Dheth
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Neo-ghnìomhach ({ $reason })
+preferences-doh-group-message = Cuir an DNS tèarainte an comas le:
+preferences-doh-expand-section =
+    .tooltiptext = Barrachd fiosrachaidh
+preferences-doh-setting-default =
+    .label = Dìon bunaiteach
+    .accesskey = D
+preferences-doh-default-desc = Co-dhùinidh { -brand-short-name } cuin a thèid DNS tèarainte a chleachdadh gus do phrìobhaideachd a dhìon.
+preferences-doh-default-detailed-desc-1 = Cleachdaidh sinn DNS tèarainte ann an àitichean far a bheil sin ri fhaighinn#
 
 ## The following strings are used in the Download section of settings
 
