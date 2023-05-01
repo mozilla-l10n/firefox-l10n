@@ -116,6 +116,8 @@ policy-SearchEngines = Nastavi iskalnike. Ta pravilnik je na voljo le v izdaji E
 policy-SearchSuggestEnabled = Omogoči ali onemogoči predloge iskanja.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Namesti module PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Dodaj ali izbriši module PKCS #11.
 policy-ShowHomeButton = Prikaži gumb Domov v orodni vrstici.
 policy-SSLVersionMax = Nastavi najnovejšo dovoljeno različico SSL.
 policy-SSLVersionMin = Nastavi najstarejšo dovoljeno različico SSL.

@@ -44,6 +44,7 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldija
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Uvozi vse razpoložljive podatke
+migration-no-selected-data-label = Ni izbranih podatkov za uvoz
 migration-selected-data-label = Uvozi izbrane podatke
 
 ##
@@ -74,11 +75,36 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Datoteka TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } dodano
+        [two] { $newEntries } dodani
+        [few] { $newEntries } dodana
+       *[other] { $newEntries } dodanih
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } posodobljeno
+        [two] { $updatedEntries } posodobljeni
+        [few] { $updatedEntries } posodobljena
+       *[other] { $updatedEntries } posodobljenih
+    }
 migration-import-button-label = Uvozi
 migration-choose-to-import-from-file-button-label = Uvozi iz datoteke
 migration-import-from-file-button-label = Izberi datoteko
 migration-cancel-button-label = Prekliči
-migration-done-button-label = Končaj
+migration-done-button-label = Končano
+migration-continue-button-label = Nadaljuj
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ni našel programov, ki bi vsebovali zaznamke, zgodovino ali gesla.
 migration-wizard-import-browser-no-resources = Prišlo je do napake. { -brand-short-name } ne najde podatkov za uvoz iz tega profila brskalnika.
 
@@ -149,6 +175,18 @@ migration-wizard-progress-success-passwords =
         [two] { $quantity } gesli
         [few] { $quantity } gesla
        *[other] { $quantity } gesel
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] zadnjega dne
+        [two] zadnjih { $maxAgeInDays } dni
+        [few] zadnjih { $maxAgeInDays } dni
+       *[other] zadnjih { $maxAgeInDays } dni
     }
 migration-wizard-progress-success-formdata = zgodovina obrazcev
 migration-wizard-safari-permissions-sub-header = Za uvoz zaznamkov in zgodovine iz brskalnika Safari:

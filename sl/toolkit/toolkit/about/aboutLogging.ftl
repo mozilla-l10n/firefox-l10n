@@ -35,6 +35,7 @@ about-logging-stop-logging = Končaj beleženje
 about-logging-info = Podatki:
 about-logging-log-modules-selection = Izbira modula za beleženje
 about-logging-new-log-modules = Novi dnevniški moduli:
+about-logging-logging-output-selection = Izpis beleženja
 about-logging-logging-to-file = Beleženje v datoteko
 about-logging-logging-to-profiler = Beleženje v { -profiler-brand-name(sklon: "tozilnik") }
 about-logging-no-log-modules = brez
@@ -44,8 +45,11 @@ about-logging-logging-preset-selector-text = Prednastavitev beleženja:
 ## Logging presets
 
 about-logging-preset-networking-label = Omrežje
+about-logging-preset-networking-description = Beleženje modulov za diagnosticiranje težav z omrežjem
 about-logging-preset-media-playback-label = Predvajanje predstavnosti
+about-logging-preset-media-playback-description = Beleženje modulov za diagnosticiranje težav s predvajanjem predstavnosti (ne težav z videokonferencami)
 about-logging-preset-custom-label = Po meri
+about-logging-preset-custom-description = Beleženje modulov po lastni izbiri
 # Error handling
 about-logging-error = Napaka:
 
