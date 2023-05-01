@@ -1273,6 +1273,12 @@ preferences-doh-default-detailed-desc-5 = Cuir dheth e ma dh’innseas lìonra d
 preferences-doh-setting-enabled =
     .label = Dìon leasaichte
     .accesskey = D
+preferences-doh-enabled-desc = ’S ann agad-sa a tha smachd air cuin a thèid DNS tèarainte a chleachdadh agus is urrainn dhut fhèin solaraiche a thaghadh.
+preferences-doh-enabled-detailed-desc-1 = Cleachd an solaraichte a thaghas tusa
+preferences-doh-enabled-detailed-desc-2 = Na cleachd am fuasglaiche DNS bunaiteach agad-sa ach ma bhios duilgheadas le solaraiche an DNS tèarainte
+preferences-doh-setting-strict =
+    .label = An dìon as treasa
+    .accesskey = A
 
 ## The following strings are used in the Download section of settings
 
