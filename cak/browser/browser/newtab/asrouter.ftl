@@ -151,6 +151,9 @@ spotlight-total-cookie-protection-header =
     Tatojtob'ej ri qana'ob'al richin
     ichinanem, ri nimaläj pa qab'anob'al
 spotlight-total-cookie-protection-body = Chijun Kichajixik Kuki man nuya' ta q'ij chi ri taq ojqanela' yekokisaj taq kuki richin yenachäx pa k'amab'ey.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } nunük' jun kokal chi kij ri taq kuki, yerujech'uj chwa ri ruxaq okinäq richin man tikokisaj richin nikoqaj. Rik'in ri etaman ruwäch okem, xtito'on richin nutziläx re samaj re' richin ninuk' jun ütz ajk'amaya'l qichin qonojel.
 spotlight-total-cookie-protection-primary-button = Titzij Kichajixik Chijun Kuki
 spotlight-total-cookie-protection-secondary-button = Wakami mani
 
