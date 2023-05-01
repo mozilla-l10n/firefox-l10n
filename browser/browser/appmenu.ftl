@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Nedávno zatvorené karty
 appmenu-recently-closed-windows =
     .label = Nedávno zatvorené okná
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Hľadať v histórii
 
 ## Help panel
 
