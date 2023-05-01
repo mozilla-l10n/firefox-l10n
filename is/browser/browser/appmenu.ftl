@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Nýlega lokaðir flipar
 appmenu-recently-closed-windows =
     .label = Nýlega lokaðir gluggar
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Leitarferill
 
 ## Help panel
 
