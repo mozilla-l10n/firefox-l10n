@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Son kapatılan sekmeler
 appmenu-recently-closed-windows =
     .label = Son kapatılan pencereler
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Geçmişte ara
 
 ## Help panel
 
