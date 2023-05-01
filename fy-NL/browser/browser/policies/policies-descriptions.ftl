@@ -116,6 +116,8 @@ policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze belieds
 policy-SearchSuggestEnabled = Syksuggestjes ynskeakelje of útskeakelje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11-modules ynstallearje.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = PKCS #11-modules tafoegje of fuortsmite.
 policy-ShowHomeButton = De startsideknop op de arkbalke toane.
 policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
 policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
