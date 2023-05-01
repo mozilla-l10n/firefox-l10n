@@ -1265,7 +1265,14 @@ preferences-doh-setting-default =
     .label = Dìon bunaiteach
     .accesskey = D
 preferences-doh-default-desc = Co-dhùinidh { -brand-short-name } cuin a thèid DNS tèarainte a chleachdadh gus do phrìobhaideachd a dhìon.
-preferences-doh-default-detailed-desc-1 = Cleachdaidh sinn DNS tèarainte ann an àitichean far a bheil sin ri fhaighinn#
+preferences-doh-default-detailed-desc-1 = Cleachdaidh sinn DNS tèarainte ann an àitichean far a bheil sin ri fhaighinn
+preferences-doh-default-detailed-desc-2 = Cleachd am fuasglaiche DNS bunaiteach agad ma bhios duilgheadas le solaraiche an DNS tèarainte
+preferences-doh-default-detailed-desc-3 = Cleachd solaraiche ionadail, ma ghabhas sin a dhèanamh
+preferences-doh-default-detailed-desc-4 = Cuir dheth e nuair a bhios VPN, gleus smachd nam pàrant no poileasaidhean enterprise an gnìomh
+preferences-doh-default-detailed-desc-5 = Cuir dheth e ma dh’innseas lìonra dha { -brand-short-name } nach bu chòir dha DNS tèarainte a chleachdadh
+preferences-doh-setting-enabled =
+    .label = Dìon leasaichte
+    .accesskey = D
 
 ## The following strings are used in the Download section of settings
 
