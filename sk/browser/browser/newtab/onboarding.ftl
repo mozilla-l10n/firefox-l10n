@@ -13,6 +13,14 @@
 onboarding-welcome-header = Víta vás { -brand-short-name }
 onboarding-start-browsing-button-label = Poďme prehliadať
 onboarding-not-now-button-label = Teraz nie
+mr1-onboarding-get-started-primary-button-label = Začíname
+mr1-onboarding-welcome-header = Víta vás { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Nastaviť { -brand-short-name } ako môj hlavný prehliadač
+    .title = Nastaví { -brand-short-name } ako predvolený prehliadač a pripne ho na panel úloh
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Nastaviť { -brand-short-name } ako môj predvolený prehliadač
+mr1-onboarding-set-default-secondary-button-label = Teraz nie
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Pridať { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Začíname: stránka { $current } z { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Priebeh: krok { $current } z { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Všetko začína tu
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio - návrhárka nábytku, fanúšička Firefoxu
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Priebeh: krok { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Vypnúť animácie
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Začíname
-mr1-onboarding-welcome-header = Víta vás { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Nastaviť { -brand-short-name } ako môj hlavný prehliadač
-    .title = Nastaví { -brand-short-name } ako predvolený prehliadač a pripne ho na panel úloh
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Nastaviť { -brand-short-name } ako môj predvolený prehliadač
-mr1-onboarding-set-default-secondary-button-label = Teraz nie
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Prihlásiť sa
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -426,3 +425,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pohľad na západ slnka cez okno s líškou a izbovou rastlinou na parapete
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Ručný sprej maľuje farebnú koláž zeleného oka, oranžovej topánky, červenej basketbalovej lopty, fialových slúchadiel, modrého srdca a žltej koruny
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Líška na obrazovke prenosného počítača máva. V notebooku je zapojená myš.
+onboarding-device-migration-title = Vitajte späť
+onboarding-device-migration-subtitle = Prihláste sa do svojho { -fxaccount-brand-name(capitalization: "sentence", case: "gen") } a vezmite si svoje záložky, heslá a históriu so sebou na nové zariadenie.
+onboarding-device-migration-primary-button-label = Prihlásiť sa
