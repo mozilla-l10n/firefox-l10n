@@ -47,14 +47,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } uzantısını ekle
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Başlarken: ekran { $current } / { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = İlerleme: adım { $current } / { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -68,6 +60,14 @@ mr1-welcome-screen-hero-text = Her şey burada başlıyor
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Mobilya tasarımcısı ve Firefox hayranı
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = İlerleme: adım { $current } / { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animasyonları kapat
 
@@ -426,3 +426,8 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pencere kenarında bir tilki ve bir ev bitkisi olan bir pencereden gün batımı manzarası
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Yeşil göz, turuncu ayakkabı, kırmızı basketbol topu, mor kulaklık, mavi kalp ve sarı taçtan oluşan renkli bir kolajı boyayan el spreyi
+
+## Device migration onboarding
+
+onboarding-device-migration-title = Yeniden hoş geldiniz!
+onboarding-device-migration-primary-button-label = Giriş yap
