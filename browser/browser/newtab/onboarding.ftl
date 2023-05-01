@@ -13,6 +13,14 @@
 onboarding-welcome-header = 歡迎使用 { -brand-short-name }
 onboarding-start-browsing-button-label = 開始瀏覽
 onboarding-not-now-button-label = 現在不要
+mr1-onboarding-get-started-primary-button-label = 開始使用
+mr1-onboarding-welcome-header = 歡迎使用 { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
+    .title = 將 { -brand-short-name } 設為預設瀏覽器，並釘選到工作列
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
+mr1-onboarding-set-default-secondary-button-label = 暫時不要
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = 新增 { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = 開始使用: 第 { $current } 畫面，全部共 { $total } 畫面
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = 進度：第 { $current } 步，共 { $total } 步
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = 一切從這裡開始
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — 家具設計師、Firefox 粉絲
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = 進度：第 { $current } 步，共 { $total } 步
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 關閉動畫
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = 開始使用
-mr1-onboarding-welcome-header = 歡迎使用 { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
-    .title = 將 { -brand-short-name } 設為預設瀏覽器，並釘選到工作列
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
-mr1-onboarding-set-default-secondary-button-label = 暫時不要
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = 登入
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -416,3 +415,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = 從窗戶看到日落，窗台上有隻狐狸與一顆盆栽
 mr2022-onboarding-colorways-image-alt =
     .aria-label = 用噴漆的方式手繪出色彩繽紛的拼貼圖，當中有綠色的眼睛、橘色的鞋子、紅色的籃球、紫色的耳機、藍色的心、黃色的皇冠
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = 有一隻狐狸在筆記型電腦螢幕上揮手，筆記型電腦連接著滑鼠。
+onboarding-device-migration-title = 歡迎回來！
+onboarding-device-migration-subtitle = 登入您的 { -fxaccount-brand-name(capitalization: "sentence") }後即可將書籤、密碼、瀏覽紀錄等資料帶到新裝置上。
+onboarding-device-migration-primary-button-label = 登入
