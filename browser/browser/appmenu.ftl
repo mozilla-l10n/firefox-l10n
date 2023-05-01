@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Oanrekommandearre foarynstelling foar de measte flateropspoaring yn web-apps, mei lege overhead.
 profiler-popup-presets-web-developer-label =
     .label = Webûntwikkeler
@@ -204,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Koartlyn sluten ljepblêden
 appmenu-recently-closed-windows =
     .label = Koartlyn sluten skermen
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Skiednis trochsykje
 
 ## Help panel
 
@@ -223,6 +231,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Ideeën en kommentaar diele…
     .accesskey = k
+appmenu-help-switch-device =
+    .label = Wikselje nei in nij apparaat
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
