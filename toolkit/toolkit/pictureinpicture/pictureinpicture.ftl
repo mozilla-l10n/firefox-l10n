@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Аялдату
-    .title = Аялдату (бос аралық пернесі)
-pictureinpicture-play-cmd =
-    .aria-label = Ойнату
-    .title = Ойнату (бос аралық пернесі)
-pictureinpicture-mute-cmd =
-    .aria-label = Дыбысын сөндіру
-    .title = Дыбысын сөндіру ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Даусын қосу
-    .title = Даусын қосу ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Қайта бетке жіберу
-    .title = Қайта бетке
-pictureinpicture-close-cmd =
-    .aria-label = Жабу
-    .title = Жабу ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Субтитрлар
-    .title = Субтитрлар
 pictureinpicture-pause-btn =
     .aria-label = Аялдату
     .tooltip = Аялдату (бос аралық пернесі)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Толық экран режимі
-    .title = Толық экран режимі (қос шерту)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Толық экраннан шығу
-    .title = Толық экраннан шығу (қос шерту)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Артқа
-    .title = Артқа (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Алға
-    .title = Алға (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Толық экран режимі
     .tooltip = Толық экран режимі (қос шерту)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Алға
     .tooltip = Алға (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Субтитрар баптаулары
 pictureinpicture-subtitles-label = Субтитрлар
 pictureinpicture-font-size-label = Қаріп өлшемі
 pictureinpicture-font-size-small = Кішкентай

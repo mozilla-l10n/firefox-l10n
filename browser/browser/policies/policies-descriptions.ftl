@@ -116,6 +116,8 @@ policy-SearchEngines = Іздеу жүйесі параметрлерін бап
 policy-SearchSuggestEnabled = Іздеу ұсыныстарын іске қосу немесе сөндіру.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 модульдерін орнату.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = PKCS #11 модульдерін қосу немесе өшіру.
 policy-ShowHomeButton = Құралдар панелінде үй батырмасын көрсету.
 policy-SSLVersionMax = Максималды SSL нұсқасын орнату.
 policy-SSLVersionMin = Минималды SSL нұсқасын орнату.

@@ -1251,6 +1251,17 @@ preferences-doh-status-disabled = Сөндірулі
 preferences-doh-status-not-active = Белсенді емес ({ $reason })
 preferences-doh-expand-section =
     .tooltiptext = Көбірек ақпарат
+preferences-doh-default-detailed-desc-3 = Мүмкін болса, жергілікті провайдерді пайдалану
+preferences-doh-setting-strict =
+    .label = Максималды қорғаныс
+    .accesskey = М
+preferences-doh-strict-detailed-desc-1 = Тек сіз тандаған провайдерді пайдалану
+preferences-doh-strict-detailed-desc-2 = Қауіпсіз DNS қолжетімді болмаса, әрқашан ескерту
+preferences-doh-strict-detailed-desc-3 = Қауіпсіз DNS қолжетімді болмаса, сайттар жүктелмейді немесе дұрыс жұмыс істемейді
+preferences-doh-setting-off =
+    .label = Сөндіру
+    .accesskey = С
+preferences-doh-select-resolver = Провайдерді таңдау:
 
 ## The following strings are used in the Download section of settings
 

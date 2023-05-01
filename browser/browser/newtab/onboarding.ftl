@@ -13,6 +13,14 @@
 onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
 onboarding-start-browsing-button-label = Шолуды бастау
 onboarding-not-now-button-label = Қазір емес
+mr1-onboarding-get-started-primary-button-label = Бастау
+mr1-onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
+    .title = { -brand-short-name } негізгі браузер етіп, тапсырмалар панеліне бекітеді
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
+mr1-onboarding-set-default-secondary-button-label = Қазір емес
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } қосу
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Жұмысты бастау: экран { $current }, барлығы { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Орындалу барысы: қадам { $current }, { $total } ішінен
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — жиһаз дизайнері, Firefox фанаты
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Орындалу барысы: қадам { $current }, { $total } ішінен
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Анимацияларды сөндіру
 
@@ -84,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Бастау
-mr1-onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
-    .title = { -brand-short-name } негізгі браузер етіп, тапсырмалар панеліне бекітеді
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
-mr1-onboarding-set-default-secondary-button-label = Қазір емес
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Кіру
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -428,3 +427,8 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Терезедегі түлкі мен үй өсімдігі бар терезе арқылы күннің батуы көрінісі
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Қол спрейі жасыл көздің, қызғылт сары аяқ киімнің, қызыл баскетбол добының, күлгін құлаққаптың, көк жүректің және сары тәждің түрлі-түсті коллажын бояйды
+
+## Device migration onboarding
+
+onboarding-device-migration-title = Қайта келуіңізбен!
+onboarding-device-migration-primary-button-label = Кіру
