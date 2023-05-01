@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Tabaichean a dhùin thu o chionn goirid
 appmenu-recently-closed-windows =
     .label = Uinneagan a dhùin thu o chionn goirid
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Lorg san eachdraidh
 
 ## Help panel
 
