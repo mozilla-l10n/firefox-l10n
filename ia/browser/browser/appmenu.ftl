@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Schedas claudite recentemente
 appmenu-recently-closed-windows =
     .label = Fenestras claudite recentemente
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Cercar in le chronologia
 
 ## Help panel
 
