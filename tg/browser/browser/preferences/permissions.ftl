@@ -221,6 +221,7 @@ permissions-site-speaker-desc = Сомонаҳои зерин интихоби �
 permissions-exceptions-doh-window =
     .title = Истисноҳои сомона барои «DNS тавассути HTTPS»
     .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } наметавонад, ки аз DNS-и бехатар дар ин сомонаҳо ва зердоменҳои он истифода барад.
 permissions-doh-entry-field = Номи домени сомонаро ворид намоед
     .accesskey = Н
 permissions-doh-add-exception =

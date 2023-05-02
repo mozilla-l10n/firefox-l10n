@@ -432,4 +432,5 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Рӯбоҳ дар экрани компютери ноутбук печида ба боло баромад. Ноутбук муш дорад, ки ба он васл карда шудааст.
 onboarding-device-migration-title = Бозгаштатон муборак!
+onboarding-device-migration-subtitle = Барои интиқол додани хатбаракҳо, ниҳонвожаҳо ва таърихи тамошокунии худ ба дастгоҳи нав, ба { -fxaccount-brand-name(capitalization: "sentence") } ворид шавед.
 onboarding-device-migration-primary-button-label = Ворид шудан

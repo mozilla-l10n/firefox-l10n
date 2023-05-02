@@ -26,6 +26,8 @@ policy-Bookmarks = Хатбаракҳоро дар навори хатбарак
 policy-CaptivePortal = Дастгирии портали фарогириро фаъол ё ғайрифаъол мекунад.
 policy-CertificatesDescription = Гувоҳномаҳоро илова кунед ё гувоҳномаҳои дарунсохтро истифода баред.
 policy-Cookies = Ба сомонаҳо барои танзими кукиҳо иҷозат медиҳад ё онҳоро манъ мекунад.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Сиёсатҳоеро танзим мекунад. ки ба дарбаргирандаҳо марбут мебошанд.
 policy-DisabledCiphers = Рамзҳоро ғайрифаъол мекунад.
 policy-DefaultDownloadDirectory = Ҷузвдонро барои боргирии пешфарз танзим мекунад.
 policy-DisableAppUpdate = Ба браузер имкон намедиҳад, ки навсозӣ карда шавад.
