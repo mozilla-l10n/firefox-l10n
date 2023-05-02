@@ -41,6 +41,10 @@ videocontrols-picture-in-picture-explainer = Cluich videothan sa bheulaibh fhad 
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Priob a-mach a’ video seo
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Pailteas sgrìnichean, pailteas spòrs. Cluich a’ video seo fhad ’s a bhios tu ri rudan eile.
 videocontrols-error-aborted = Sguireadh de luchdadh a' video.
 videocontrols-error-network = Sguireadh cluich a' video air sgàth mearachd lìonraidh.
 videocontrols-error-decode = Cha ghabh a' video a chluich a chionn 's gu bheil am faidhle coirbte.
