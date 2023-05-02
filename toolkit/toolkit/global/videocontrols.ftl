@@ -40,7 +40,7 @@ videocontrols-picture-in-picture-toggle-label = Coimhead air dealbh am broinn de
 videocontrols-picture-in-picture-explainer = Cluich videothan sa bheulaibh fhad ’s a bhios tu ri rudan eile le { -brand-short-name }
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label2 = Pop out this video
+videocontrols-picture-in-picture-toggle-label2 = Priob a-mach a’ video seo
 videocontrols-error-aborted = Sguireadh de luchdadh a' video.
 videocontrols-error-network = Sguireadh cluich a' video air sgàth mearachd lìonraidh.
 videocontrols-error-decode = Cha ghabh a' video a chluich a chionn 's gu bheil am faidhle coirbte.
