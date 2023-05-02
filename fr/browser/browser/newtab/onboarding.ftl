@@ -430,3 +430,5 @@ mr2022-onboarding-colorways-image-alt =
 ## Device migration onboarding
 
 onboarding-device-migration-title = Heureux de vous revoir !
+onboarding-device-migration-subtitle = Connectez-vous à votre { -fxaccount-brand-name } pour prendre vos marque-pages, mots de passe et historique avec vous sur votre nouvel appareil.
+onboarding-device-migration-primary-button-label = Se connecter
