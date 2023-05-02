@@ -352,11 +352,6 @@ theme-disabled-heading2 = Temi salvati
 theme-monochromatic-heading = Tonalità
 theme-monochromatic-subheading = Nuove vibranti tonalità da { -brand-product-name }. Disponibili per un periodo limitato.
 
-theme-colorways-button = Prova nuove tonalità
-theme-colorways-button-colorway-enabled = Cambia tonalità
-
-colorway-collection-expiry-label = Scade il { DATETIME($expiryDate, month: "long", day: "numeric") }
-
 plugin-enabled-heading = Attivi
 plugin-disabled-heading = Disattivati
 

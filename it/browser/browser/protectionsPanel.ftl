@@ -121,8 +121,6 @@ protections-panel-cookie-banner-handling-undetected = Sito attualmente non suppo
 
 protections-panel-cookie-banner-view-title =
   .title = Riduzione banner per i cookie
-protections-panel-cookie-banner-view-go-back =
-  .aria-label = Indietro
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
