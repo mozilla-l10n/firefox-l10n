@@ -330,6 +330,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Απενεργοποίηση λειτουργίας επίλυσης προβλημάτων
     .accesskey = ν
+menu-help-switch-device =
+    .label = Εναλλαγή σε νέα συσκευή
+    .accesskey = ν
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
