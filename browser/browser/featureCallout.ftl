@@ -9,6 +9,9 @@ callout-primary-complete-button-label = Tha mi agaibh!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Leum eadar uidheaman is tu a’ toirt leat nan tabaichean agad
 callout-firefox-view-tab-pickup-subtitle = Faigh cothrom air tabaichean a tha fosgailte agad air an fhòn uaithe seo.
 callout-firefox-view-recently-closed-title = Faigh cothrom air na tabaichean a dhùin thu ann am priobadh na sùla
 callout-firefox-view-recently-closed-subtitle = Nochdaidh na tabaichean a dhùin thu an-seo mar gum b’ ann le draoidheachd. Cha bhi dragh ort a-rithist mu thabaichean a dhùin thu air mhearachd.
@@ -21,6 +24,10 @@ callout-firefox-view-colorways-reminder-subtitle = Cuir dath air a’ bhrabhsair
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Cuir spionnadh nad bhrabhsadh is tu a’ togail nan tabaichean agad
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Faigh cothrom air na tabaichean fosgailte agad o uidheam sam bith agus sioncronaich na comharran-lìn, faclan-faire ’s mòran a bharrachd agad.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Dèan toiseach-tòiseachaidh
 
