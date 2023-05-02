@@ -4,7 +4,6 @@
 
 page-title = Taic le duilgheadasan
 page-subtitle = Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith feumail dhut ann am fuasgladh dhuilgheadasan. Ma tha ceist neo-theicnigeach agad mu { -brand-short-name }, cuir sùil air an <a data-l10n-name="support-link">làrach-taice</a> againn.
-
 crashes-title = Aithisgean tuislidh
 crashes-id = ID na h-aithisge
 crashes-send-date = Air a chur
@@ -55,6 +54,7 @@ app-basics-enabled-plugins = Plugain a tha an comas
 app-basics-build-config = Rèiteachadh na togalach
 app-basics-user-agent = UserAgent
 app-basics-os = OS
+app-basics-os-theme = OS Theme
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Rosetta Translated
@@ -65,13 +65,19 @@ app-basics-third-party = Mòidealan threas-phàrtaidhean
 app-basics-profiles = Pròifilean
 app-basics-launcher-process-status = Pròiseas an lòinseir
 app-basics-multi-process-support = Uinneagan ioma-phròiseasaidh
+app-basics-fission-support = Fission Windows
 app-basics-remote-processes-count = Pròiseasan cèin
 app-basics-enterprise-policies = Poileasaidhean Enterprise
 app-basics-location-service-key-google = Google Location Service Key
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Iuchair seirbheis nan ionad aig Mozilla
 app-basics-safe-mode = Am modh tèarainte
-
+app-basics-memory-size = Memory Size (RAM)
+app-basics-disk-available = Disk Space Available
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Seall san lorgair
@@ -101,11 +107,21 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Loga nan co-dhùnaidhean
 graphics-crash-guards-title = Gleusan a chuir freiceadan nan tuislidhean à comas
 graphics-workarounds-title = Workarounds
+graphics-device-pixel-ratios = Window Device Pixel Ratios
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Pròtacal nan uinneagan
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Àrainneachd deasga
 place-database-title = Stòr-dàta nan àitichean
+place-database-stats = Statistics
+place-database-stats-show = Show Statistics
+place-database-stats-hide = Hide Statistics
+place-database-stats-entity = Entity
+place-database-stats-count = Count
+place-database-stats-size-kib = Size (KiB)
+place-database-stats-size-perc = Size (%)
+place-database-stats-efficiency-perc = Efficiency (%)
+place-database-stats-sequentiality-perc = Sequentiality (%)
 place-database-integrity = Treibhdhireas
 place-database-verify-integrity = Dearbh an treibhdhireas
 a11y-title = So-ruigsinneachd
@@ -138,6 +154,7 @@ restart-button-label = Ath-thòisich
 audio-backend = Audio Backend
 max-audio-channels = Seanailean air a’ char as motha
 sample-rate = Reat samplachaidh as fhearr dhut
+roundtrip-latency = Roundtrip latency (standard deviation)
 media-title = Meadhanan
 media-output-devices-title = Uidheaman às-chuir
 media-input-devices-title = Uidheaman ion-chuir
@@ -151,6 +168,9 @@ media-device-channels = Seanailean
 media-device-rate = Reat
 media-device-latency = Latency
 media-capabilities-title = Comasan mheadhanan
+media-codec-support-info = Codec Support Information
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerate database
 
 ##
 
@@ -188,7 +208,6 @@ report-crash-for-days =
         [few] Aithisgean tuislidh sna { $days } làithean mu dheireadh
        *[other] Aithisgean tuislidh san { $days } latha mu dheireadh
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -198,7 +217,6 @@ crashes-time-minutes =
         [few] { $minutes } mionaidean air ais
        *[other] { $minutes } mionaid air ais
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -208,7 +226,6 @@ crashes-time-hours =
         [few] { $hours } uairean a thìde air ais
        *[other] { $hours } uair a thìde air ais
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -218,7 +235,6 @@ crashes-time-days =
         [few] { $days } làithean air ais
        *[other] { $days } latha air ais
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -228,7 +244,6 @@ pending-reports =
         [few] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuislidhean ri dhèiligeadh san rainse ama a tha seo)
        *[other] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuisleadh ri dhèiligeadh san rainse ama a tha seo)
     }
-
 raw-data-copied = Chaidh lethbhreac an dàta luim a chur air an stòr-bhòrd
 text-copied = Chaidh lethbhreac an teacsa a chur air a' bhòrd-chliopaichean
 
@@ -241,11 +256,9 @@ blocked-mismatched-version = Air a’ bhacadh ’s an draibhear grafaigeachd ead
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Chaidh casg a chuir air seo air draibhear nan grafaigean agad. Feuch is ùraich draibhear nan grafaigean agad gu tionndadh { $driverVersion } no fear nas ùire.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramadairean ClearType
-
 compositing = Compositing
 hardware-h264 = Dì-chòdachadh bathar-cruaidh H264
 main-thread-no-omtc = main thread, gun OMTC
@@ -260,7 +273,6 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Chaidh a lorg
 missing = A dhìth
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Tuairisgeul
@@ -283,18 +295,17 @@ webgl2-renderer = Reandaraiche draibhear WebGL 2
 webgl2-version = Tionndadh an draibheir WebGL 2
 webgl2-driver-extensions = Leudachain an draibheir WebGL 2
 webgl2-extensions = Leudachain WebGL 2
-
+webgpu-default-adapter = WebGPU Default Adapter
+webgpu-fallback-adapter = WebGPU Fallback Adapter
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Chaidh a chur air liosta-bhacaidh air sàilleibh duilgheadasan aithnichte: <a data-l10n-name="bug-link">buga { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
-
+wmfvpxvideo-crash-guard = WMF VPX Video Decoder
 reset-on-next-restart = Ath-shuidhich aig an ath ath-thòiseachadh
 gpu-process-kill-button = Cuir crìoch air pròiseas an GPU
 gpu-device-reset = Ath-shuidheachadh an uidheim
@@ -304,10 +315,8 @@ content-uses-tiling = Cleachd leacachadh (Susbaint)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 target-frame-rate = Target Frame Rate
-
 min-lib-versions = An tionndadh as lugha ris a tha dùil
 loaded-lib-versions = An tionndadh a tha 'ga chleachdadh
-
 has-seccomp-bpf = Seccomp-BPF (Criathradh ghairmean an t-siostaim)
 has-seccomp-tsync = Sioncronachadh snàithlein Seccomp
 has-user-namespaces = Ainm-spàsan cleachdaiche
@@ -316,22 +325,21 @@ can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 effective-content-sandbox-level = Effective Content Process Sandbox Level
+content-win32k-lockdown-state = Win32k Lockdown State for Content Process
+support-sandbox-gpu-level = GPU Process Sandbox Level
 sandbox-proc-type-content = susbaint
 sandbox-proc-type-file = susbaint faidhle
 sandbox-proc-type-media-plugin = plugan mheadhanan
 sandbox-proc-type-data-decoder = data decoder
-
 startup-cache-title = Tasgadan tòiseachaidh
 startup-cache-disk-cache-path = Slighe tasgadain air an diosg
 startup-cache-ignore-disk-cache = Leig seachad an tasgadan air an diosg
 startup-cache-found-disk-cache-on-init = Chaidh tasgadan a lorg air an diosg rè an tòiseachaidh
 startup-cache-wrote-to-disk-cache = Chaidh sgrìobhadh gu tasgadan an diosg
-
 launcher-process-status-0 = Enabled
 launcher-process-status-1 = Disabled due to failure
 launcher-process-status-2 = Disabled forcibly
 launcher-process-status-unknown = Unknown status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -344,11 +352,13 @@ fission-status-experiment-control = Chaidh a chur à comas le deuchainn
 fission-status-experiment-treatment = Chaidh a chur an comas le deuchainn
 fission-status-disabled-by-e10s-env = Chaidh a chur à comas leis an àrainneachd
 fission-status-enabled-by-env = Chaidh a chur an comas leis an àrainneachd
+fission-status-disabled-by-env = Disabled by environment
 fission-status-enabled-by-default = An comas o thùs
 fission-status-disabled-by-default = À comas o thùs
 fission-status-enabled-by-user-pref = Chaidh a chur an comas leis a’ chleachdaiche
 fission-status-disabled-by-user-pref = Chaidh a chur à comas leis a’ chleachdaiche
-
+fission-status-disabled-by-e10s-other = E10s disabled
+fission-status-enabled-by-rollout = Enabled by phased rollout
 async-pan-zoom = Panachadh/Sùmadh neo-shioncronach
 apz-none = chan eil gin
 wheel-enabled = tha ion-chur cuibhle an comas
@@ -356,6 +366,7 @@ touch-enabled = tha ion-chur suathaidh an comas
 drag-enabled = tha slaodadh a’ bhàr-sgrolaidh an comas
 keyboard-enabled = meur-chlàr an comas
 autoscroll-enabled = tha an sgroladh fèin-obrachail an comas
+zooming-enabled = smooth pinch-zoom enabled
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -382,7 +393,8 @@ support-printing-prefs-value = Luach
 
 support-remote-experiments-title = Deuchainnean cèine
 support-remote-experiments-name = Ainm
-
+support-remote-experiments-branch = Experiment Branch
+support-remote-experiments-see-about-studies = See <a data-l10n-name="support-about-studies-link">about:studies</a> for more information, including how to disable individual experiments or to disable { -brand-short-name } from running this type of experiment in the future.
 support-remote-features-title = Gleusan cèine
 support-remote-features-name = Ainm
 support-remote-features-status = Staid
