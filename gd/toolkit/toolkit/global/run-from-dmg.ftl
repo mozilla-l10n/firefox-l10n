@@ -15,14 +15,14 @@ prompt-to-install-no-button = Na stàlaich
 
 ## Strings for a dialog that opens if the installation failed.
 
-install-failed-title = { -brand-short-name } installation failed.
-install-failed-message = { -brand-short-name } failed to install but will continue to run.
+install-failed-title = Dh’fhàillig stàladh { -brand-short-name }.
+install-failed-message = Dh’fhàillig stàladh { -brand-short-name } ach tha e na ruith fhathast.
 
 ## Strings for a dialog that recommends to the user to start an existing
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
-prompt-to-launch-existing-app-title = Open existing { -brand-short-name } application?
-prompt-to-launch-existing-app-message = You already have { -brand-short-name } installed. Use the installed application to stay up to date and prevent data loss.
-prompt-to-launch-existing-app-yes-button = Open existing
-prompt-to-launch-existing-app-no-button = No thanks
+prompt-to-launch-existing-app-title = A bheil thu airson aplacaid { -brand-short-name } làithreach fhosgladh?
+prompt-to-launch-existing-app-message = Tha { -brand-short-name } stàlaichte agad mu thràth. Cleachd an aplacaid a stàlaich thu airson a chumail ùraichte agus airson ’s nach caill thu dàta.
+prompt-to-launch-existing-app-yes-button = Fosgail am fear làithreach
+prompt-to-launch-existing-app-no-button = Cha tòisich, mòran taing
