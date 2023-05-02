@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Εισαγωγή από αρ
 migration-import-from-file-button-label = Επιλογή αρχείου
 migration-cancel-button-label = Ακύρωση
 migration-done-button-label = Τέλος
+migration-continue-button-label = Συνέχεια
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
