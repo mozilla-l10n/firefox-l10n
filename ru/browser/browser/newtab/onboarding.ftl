@@ -428,6 +428,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Лиса на экране машет рукой — к ноутбуку подключена мышь.
 onboarding-device-migration-title = С возвращением!
 onboarding-device-migration-subtitle = Войдите в свой { -fxaccount-brand-name(case: "accusative") }, чтобы перенести закладки, пароли и историю на ваше новое устройство.
 onboarding-device-migration-primary-button-label = Войти
