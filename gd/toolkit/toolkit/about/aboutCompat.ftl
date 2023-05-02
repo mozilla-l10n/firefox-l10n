@@ -5,6 +5,8 @@
 label-disable = Cuir à comas
 label-enable = Cuir an comas
 label-interventions = Eadar-theachd
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Barrachd fiosrachaidh: Buga { $bug }
 label-overrides = Tar-àitheantan àidseant a’ chleachdaiche
 text-disabled-in-about-config = Chaidh an gleus seo a chur à comas ann an about:config
@@ -18,3 +20,5 @@ text-title = about:compat
 ## breakage. SmartBlock also contains special fixes for sites broken by
 ## Firefox's Total Cookie Protection feature.
 
+label-smartblock = SmartBlock Fixes
+text-no-smartblock = No SmartBlock fixes are being used
