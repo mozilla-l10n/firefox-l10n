@@ -13,6 +13,14 @@
 onboarding-welcome-header = Croeso i { -brand-short-name }
 onboarding-start-browsing-button-label = Cychwyn Pori
 onboarding-not-now-button-label = Nid nawr
+mr1-onboarding-get-started-primary-button-label = Cychwyn arni
+mr1-onboarding-welcome-header = Croeso i { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Gwneud { -brand-short-name } fy mrhif borwr
+    .title = Yn gosod { -brand-short-name } fel y porwr rhagosodedig a'i binio i'r bar tasgau
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Gwneud { -brand-short-name } fy mhorwr rhagosodedig
+mr1-onboarding-set-default-secondary-button-label = Nid nawr
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Ychwanegu { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Cychwyn arni: sgrin { $current } o { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Cynnydd: cam { $current } o { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Mae'n cychwyn yma
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio - Dylunydd dodrefn, cefnogwr Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Cynnydd: cam { $current } o { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Diffodd animeiddiadau
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Cychwyn arni
-mr1-onboarding-welcome-header = Croeso i { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Gwneud { -brand-short-name } fy mrhif borwr
-    .title = Yn gosod { -brand-short-name } fel y porwr rhagosodedig a'i binio i'r bar tasgau
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Gwneud { -brand-short-name } fy mhorwr rhagosodedig
-mr1-onboarding-set-default-secondary-button-label = Nid nawr
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Mewngofnodi
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -427,3 +426,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Golygfa o fachlud trwy ffenestr gyda llwynog a phlanhigyn tŷ ar silff ffenestr
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Mae llaw gyda chwistrell yn paentio collage lliwgar o lygad gwyrdd, esgid oren, pêl-fasged goch, clustffonau porffor, calon las a choron felen
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Llwynog ar sgrin gliniadur yn chwifio. Mae llygoden wedi'i phlygio i mewn i'r gliniadur.
+onboarding-device-migration-title = Croeso nôl
+onboarding-device-migration-subtitle = Mewngofnodwch i'ch { -fxaccount-brand-name(capitalization: "sentence") } i ddod â'ch nodau tudalen, cyfrineiriau a hanes gyda chi ar eich dyfais newydd.
+onboarding-device-migration-primary-button-label = Mewngofnodi
