@@ -13,6 +13,14 @@
 onboarding-welcome-header = Welcome to { -brand-short-name }
 onboarding-start-browsing-button-label = Start Browsing
 onboarding-not-now-button-label = Not now
+mr1-onboarding-get-started-primary-button-label = Get started
+mr1-onboarding-welcome-header = Welcome to { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Make { -brand-short-name } my primary browser
+    .title = Sets { -brand-short-name } as default browser and pins to taskbar
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Make { -brand-short-name } my default browser
+mr1-onboarding-set-default-secondary-button-label = Not now
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Add { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Getting started: screen { $current } of { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Progress: step { $current } of { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Furniture designer, Firefox fan
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progress: step { $current } of { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Turn off animations
 
@@ -84,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Get started
-mr1-onboarding-welcome-header = Welcome to { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Make { -brand-short-name } my primary browser
-    .title = Sets { -brand-short-name } as default browser and pins to taskbar
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Make { -brand-short-name } my default browser
-mr1-onboarding-set-default-secondary-button-label = Not now
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Sign in
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -429,3 +428,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = View of a sunset through a window with a fox and a house plant on a windowsill
 mr2022-onboarding-colorways-image-alt =
     .aria-label = A hand spray paints a colourful collage of a green eye, orange shoe, red basketball, purple headphones, blue heart, and yellow crown
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = A fox on the screen of a laptop computer waving. The laptop has a mouse plugged into it.
+onboarding-device-migration-title = Welcome back!
+onboarding-device-migration-subtitle = Sign in to your { -fxaccount-brand-name(capitalization: "sentence") } to bring your bookmarks, passwords, and history with you on your new device.
+onboarding-device-migration-primary-button-label = Sign in
