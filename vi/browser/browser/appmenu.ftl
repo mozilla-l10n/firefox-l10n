@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Thẻ mới đóng gần đây
 appmenu-recently-closed-windows =
     .label = Các cửa sổ mới đóng
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Lịch sử tìm kiếm
 
 ## Help panel
 
