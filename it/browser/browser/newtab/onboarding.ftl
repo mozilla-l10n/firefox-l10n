@@ -474,3 +474,4 @@ onboarding-device-migration-image-alt =
 onboarding-device-migration-title = Bentornato
 onboarding-device-migration-subtitle = Accedi al tuo { -fxaccount-brand-name } per portare con te segnalibri, password e cronologia di navigazione su un nuovo dispositivo.
 onboarding-device-migration-primary-button-label = Accedi
+
