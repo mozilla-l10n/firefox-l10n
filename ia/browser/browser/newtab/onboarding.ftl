@@ -428,5 +428,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Un vulpe salutante sur le schermo de un computator portabile. Le portabile ha un mus inserite in illo.
 onboarding-device-migration-title = Bentornate!
+onboarding-device-migration-subtitle = Accede a tu { -fxaccount-brand-name } pro portar con te sur tu nove apparato tu marcapaginas, contrasignos, e chronologia.
 onboarding-device-migration-primary-button-label = Aperir session
