@@ -386,6 +386,7 @@ sitedata-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚ
 
 ## Privacy Section - Address Bar
 
