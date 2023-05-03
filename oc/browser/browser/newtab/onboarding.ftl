@@ -13,6 +13,14 @@
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
 onboarding-start-browsing-button-label = Començar de navegar
 onboarding-not-now-button-label = Pas ara
+mr1-onboarding-get-started-primary-button-label = Per començar
+mr1-onboarding-welcome-header = La benvenguda a { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Definir { -brand-short-name } coma navegador principal
+    .title = Definís { -brand-short-name } coma navegador per defaut e lo penja a la barra de prètzfaches
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Definir { -brand-short-name } coma navegador per defaut
+mr1-onboarding-set-default-secondary-button-label = Pas ara
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Apondre { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Primièrs passes : ecran { $current } sus { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Progression : etapa { $current } de { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Lo camin comença aquí
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Conceptora de mòbles, afogat de Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progression : etapa { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desactivar las animacions
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Per començar
-mr1-onboarding-welcome-header = La benvenguda a { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Definir { -brand-short-name } coma navegador principal
-    .title = Definís { -brand-short-name } coma navegador per defaut e lo penja a la barra de prètzfaches
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Definir { -brand-short-name } coma navegador per defaut
-mr1-onboarding-set-default-secondary-button-label = Pas ara
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Connexion
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -427,3 +426,9 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista d’un solelh que cabussa per una fenèstra amb un rainal e un pòt de flors sul rebòrd d’una fenèstra
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Bomba de pintura colora un empegatge d’un uèlh verd, d’una cauçadura iranja, d’una palma de basquet roge, d’un casc de musica violet, d’un còr blau e d’una corona jauna
+
+## Device migration onboarding
+
+onboarding-device-migration-title = Urós de vos tornar veire !
+onboarding-device-migration-subtitle = Connectatz-vos a vòstre { -fxaccount-brand-name(capitalization: "sentence") } per emportar vòstres marcapaginas, senhals e istorics amb vos sus vòstre aparelh novèl.
+onboarding-device-migration-primary-button-label = Se connectar
