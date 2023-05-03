@@ -13,6 +13,14 @@
 onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
 onboarding-start-browsing-button-label = เริ่มการเรียกดู
 onboarding-not-now-button-label = ไม่ใช่ตอนนี้
+mr1-onboarding-get-started-primary-button-label = เริ่มต้น
+mr1-onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
+    .title = ตั้ง { -brand-short-name } เป็นเบราว์เซอร์หลักและปักหมุดเข้ากับแถบงาน
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของฉัน
+mr1-onboarding-set-default-secondary-button-label = ไม่ใช่ตอนนี้
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = เพิ่ม { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = เริ่มต้นใช้งาน: หน้าจอ { $current } จาก { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = ความคืบหน้า: ขั้นตอนที่ { $current } จาก { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — นักออกแบบเฟอร์นิเจอร์ แฟน Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = ความคืบหน้า: ขั้นตอนที่ { $current } จาก { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ปิดภาพเคลื่อนไหว
 
@@ -84,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = เริ่มต้น
-mr1-onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
-    .title = ตั้ง { -brand-short-name } เป็นเบราว์เซอร์หลักและปักหมุดเข้ากับแถบงาน
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของฉัน
-mr1-onboarding-set-default-secondary-button-label = ไม่ใช่ตอนนี้
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = ลงชื่อเข้า
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -429,3 +428,7 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = ภาพวิวดวงอาทิตย์ตกที่หน้าต่างพร้อมสุนัขจิ้งจอกและพืชในบ้านบนขอบหน้าต่าง
 mr2022-onboarding-colorways-image-alt =
     .aria-label = สเปรย์มือวาดภาพคอลลาจที่เต็มไปด้วยสีสันซึ่งประกอบด้วยดวงตาสีเขียว รองเท้าสีส้ม ลูกบาสเกตบอลสีแดง หูฟังสีม่วง หัวใจสีน้ำเงิน และมงกุฎสีเหลือง
+
+## Device migration onboarding
+
+onboarding-device-migration-title = ยินดีต้อนรับกลับมา!

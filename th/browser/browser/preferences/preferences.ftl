@@ -727,6 +727,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = คุณกำลังซิงค์รายการเหล่านี้:
+sync-syncing-across-devices-heading = คุณกำลังซิงค์รายการเหล่านี้กับอุปกรณ์ที่เชื่อมต่อทั้งหมดของคุณ:
 sync-currently-syncing-bookmarks = ที่คั่นหน้า
 sync-currently-syncing-history = ประวัติ
 sync-currently-syncing-tabs = แท็บที่เปิด
@@ -755,6 +756,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = ตัดการเชื่อมต่อ…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = การเปลี่ยนรายการที่จะซิงค์จะมีผลกับอุปกรณ์ที่เชื่อมต่อทั้งหมดของคุณ
 sync-engine-bookmarks =
     .label = ที่คั่นหน้า
     .accesskey = ท
@@ -1212,6 +1214,32 @@ httpsonly-radio-enabled-pbm =
     .label = เปิดใช้งานโหมด HTTPS-Only ในหน้าต่างส่วนตัวเท่านั้น
 httpsonly-radio-disabled =
     .label = ไม่ต้องเปิดใช้งานโหมด HTTPS-Only
+
+## DoH Section
+
+preferences-doh-header = DNS over HTTPS
+preferences-doh-description = Domain Name System (DNS) over HTTPS จะส่งคำขอชื่อโดเมนของคุณผ่านการเชื่อมต่อที่มีการเข้ารหัส เพื่อเสริมความปลอดภัยให้กับ DNS และทำให้ผู้อื่นดูว่าคุณกำลังจะเข้าถึงเว็บไซต์ใดได้ยากขึ้น
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = สถานะ: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = ผู้ให้บริการ: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL ไม่ถูกต้อง
+preferences-doh-steering-status = ใช้ผู้ให้บริการเฉพาะที่
+preferences-doh-status-active = ทำงาน
+preferences-doh-status-disabled = ปิด
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = ไม่ทำงาน ({ $reason })
+preferences-doh-group-message = เปิดใช้งาน secure DNS โดยใช้:
+preferences-doh-expand-section =
+    .tooltiptext = ข้อมูลเพิ่มเติม
+preferences-doh-setting-default =
+    .label = การปกป้องแบบเริ่มต้น
+    .accesskey = ป
 
 ## The following strings are used in the Download section of settings
 
