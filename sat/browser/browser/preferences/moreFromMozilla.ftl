@@ -12,8 +12,13 @@ more-from-moz-subtitle = ᱮᱴᱟᱜ { -vendor-short-name } ᱡᱤᱱᱤᱥ ᱠ
 more-from-moz-firefox-mobile-title = { -brand-product-name } ᱢᱳᱵᱟᱭᱤᱞ
 more-from-moz-firefox-mobile-description = ᱢᱚᱵᱟᱭᱤᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱩᱭᱞᱩ ᱨᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = ᱟᱱᱚᱱᱤᱢᱮᱥ ᱵᱽᱨᱟᱩᱡᱷᱟᱭᱤᱝ ᱟᱨ ᱥᱩᱪᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱮᱱ ᱮᱴᱟᱜ ᱞᱮᱭᱟᱨ ᱧᱟᱢ ᱢᱮ ᱾
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = ᱡᱚᱛᱚ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱱᱟᱯᱟᱭ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱠᱟᱹᱢᱤ ᱨᱮ ᱞᱟᱜᱟᱣ ᱢᱮ ᱾
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = ᱟᱵᱚᱣᱟᱜ ᱰᱟᱴᱟ ᱥᱟᱬᱮᱥ ᱯᱟᱹᱴᱷᱩᱣᱟᱹ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱭᱟᱨ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱵᱚᱣᱟᱜ ᱵᱮᱵᱚᱥᱛᱟ ᱠᱷᱚᱱ ᱵᱟᱲᱛᱤ ᱥᱩᱵᱤᱫᱷᱟ ᱢᱮᱱᱟᱜ ᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱢᱟᱨᱟᱝ ᱴᱮᱠᱱᱚᱞᱚᱡᱤ ᱵᱟᱵᱚᱫᱽ ᱛᱮ ᱦᱚᱲ ᱠᱚ ᱜᱚᱲᱚ ᱮᱢᱟᱭ ᱾
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = { -rally-short-name } ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱢᱮ
 more-from-moz-qr-code-box-firefox-mobile-title = ᱟᱢᱟᱜ ᱢᱳᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮ ᱰᱟᱣᱩᱱᱞᱚᱰ ᱢᱮ ᱾ QR ᱠᱳᱰ ᱨᱮ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱩᱫᱩᱜᱽ ᱢᱮ ᱾ ᱡᱩᱫᱤ ᱢᱤᱫ ᱞᱤᱝᱠ ᱧᱮᱞᱚᱜ-ᱟ, ᱚᱱᱟ ᱨᱮ ᱴᱤᱯᱟᱹᱣ ᱢᱮ ᱾
@@ -26,4 +31,5 @@ more-from-moz-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = ᱟᱢᱟᱜ inbox ᱟᱨ ᱟᱢᱟᱜ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱚ ᱯᱷᱨᱤ ᱤᱢᱮᱞ ᱩᱠᱩ ᱡᱤᱱᱤᱥ ᱛᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱮ ᱾
 more-from-moz-firefox-relay-button = { -relay-brand-short-name } ᱟᱹᱜᱩᱭ ᱢᱮ
