@@ -30,6 +30,8 @@ policy-Bookmarks = Vytvoření záložek na liště, v nabídce nebo vybrané sl
 policy-CaptivePortal = Povolení nebo zakázání podpory captive portálů.
 policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Nastavení pravidel souvisejících s kontejnery.
 policy-DisabledCiphers = Zakázané metody šifrování.
 policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
@@ -146,6 +148,8 @@ policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen
 policy-SearchSuggestEnabled = Povolení nebo zákaz našeptávání dotazů pro vyhledávač.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalace modulů PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Přidání nebo odebrání modulů PKCS #11.
 policy-ShowHomeButton = Zobrazení domovského tlačítka na liště.
 policy-SSLVersionMax = Nastavení maximální verze SSL.
 policy-SSLVersionMin = Nastavení minimální verze SSL.

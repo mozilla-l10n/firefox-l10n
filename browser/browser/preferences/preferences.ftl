@@ -1106,7 +1106,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Omezení cookie lišt
+cookie-banner-handling-description = { -brand-short-name } se automaticky snaží odmítat lišty s žádostmi o povolení cookies na podporovaných serverech.
 cookie-banner-learn-more = Zjistit více
+forms-handle-cookie-banners =
+    .label = Omezit cookie lišty
 
 ## Privacy Section - Address Bar
 
@@ -1416,6 +1420,20 @@ preferences-doh-description = Systém doménových jmen (DNS) přes HTTPS odešl
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Poskytovatel: { $name }
+preferences-doh-group-message = Povolit zabezpečené DNS:
+preferences-doh-default-desc = { -brand-short-name } se rozhodne, kdy používat bezpečné DNS pro ochranu vašeho soukromí.
+preferences-doh-default-detailed-desc-1 = Zabezpečené DNS se použije v oblastech, kde je dostupné
+preferences-doh-default-detailed-desc-2 = Pokud se zabezpečeným DNS nastane problém, použije se výchozí překladač DNS
+preferences-doh-enabled-desc = Sami si nastavíte, kdy se zabezpečené DNS použije, a od jakého poskytovatele.
+preferences-doh-enabled-detailed-desc-2 = Výchozí překladač DNS se použijte jen v případě problému se zabezpečeným DNS
+preferences-doh-strict-desc = { -brand-short-name } vždy použije zabezpečené DNS. Před použitím systémového překladače DNS vždy uvidíte bezpečnostní varování.
+preferences-doh-strict-detailed-desc-2 = Vždy upozorní, pokud není zabezpečené DNS dostupné
+preferences-doh-strict-detailed-desc-3 = Pokud není zabezpečené DNS dostupné, webové stránky se nenačtou nebo nemusí správně fungovat
+preferences-doh-off-desc = Použije výchozí překladač DNS
+preferences-doh-select-resolver = Vyberte poskytovatele:
+preferences-doh-manage-exceptions =
+    .label = Výjimky…
+    .accesskey = k
 
 ## The following strings are used in the Download section of settings
 

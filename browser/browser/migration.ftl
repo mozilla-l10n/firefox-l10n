@@ -73,8 +73,14 @@ import-permissions-page-title =
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description =
     { -brand-short-name.case-status ->
-        [with-cases] macOS vyžaduje, abyste { -brand-short-name(case: "dat") } výslovně povolili přístup k záložkám ze Safari. Klikněte na „Pokračovat“ a v zobrazeném panelu Otevřít soubor vyberte soubor „Bookmarks.plist“.
-       *[no-cases] macOS vyžaduje, abyste aplikaci { -brand-short-name } výslovně povolili přístup k záložkám ze Safari. Klikněte na „Pokračovat“ a v zobrazeném panelu Otevřít soubor vyberte soubor „Bookmarks.plist“.
+        [with-cases] macOS vyžaduje, abyste { -brand-short-name(case: "dat") } výslovně povolili přístup k záložkám ze Safari. Klepněte na „Pokračovat“ a v zobrazeném panelu Otevřít soubor vyberte soubor „Bookmarks.plist“.
+       *[no-cases] macOS vyžaduje, abyste aplikaci { -brand-short-name } výslovně povolili přístup k záložkám ze Safari. Klepněte na „Pokračovat“ a v zobrazeném panelu Otevřít soubor vyberte soubor „Bookmarks.plist“.
+    }
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string =
+    { -brand-short-name.case-status ->
+        [with-cases] macOS vyžaduje, abyste { -brand-short-name(case: "dat") } výslovně povolili přístup k datům ze Safari. Klepněte na „Pokračovat“, v zobrazeném dialogu Finderu vyberte „Safari“ a pak klepněte na „Otevřít“.
+       *[no-cases] macOS vyžaduje, abyste aplikaci { -brand-short-name } výslovně povolili přístup k datům ze Safari. Klepněte na „Pokračovat“, v zobrazeném dialogu Finderu vyberte „Safari“ a pak klepněte na „Otevřít“.
     }
 import-migrating-page-title = Probíhá import…
 import-migrating-description = Teď jsou importovány následující položky…

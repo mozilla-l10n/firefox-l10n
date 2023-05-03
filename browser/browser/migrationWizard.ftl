@@ -43,7 +43,9 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Importovat všechna dostupná data
 migration-no-selected-data-label = Pro import nejsou vybrána žádná data
+migration-selected-data-label = Importovat vybraná data
 
 ##
 
@@ -74,10 +76,10 @@ migration-cancel-button-label = Zrušit
 migration-done-button-label = Hotovo
 migration-wizard-import-browser-no-browsers =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } nenašel žádné programy, které obsahují údaje o záložkách, historii nebo heslech.
-        [feminine] { -brand-short-name } nenašla žádné programy, které obsahují údaje o záložkách, historii nebo heslech.
-        [neuter] { -brand-short-name } nenašlo žádné programy, které obsahují údaje o záložkách, historii nebo heslech.
-       *[other] Aplikace { -brand-short-name } nenašla žádné programy, které obsahují údaje o záložkách, historii nebo heslech.
+        [masculine] { -brand-short-name } nenašel žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
+        [feminine] { -brand-short-name } nenašla žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
+        [neuter] { -brand-short-name } nenašlo žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
+       *[other] Aplikace { -brand-short-name } nenašla žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
     }
 migration-wizard-import-browser-no-resources = Nastala chyba. { -brand-short-name } nemůže najít žádná data k importu z tohoto profilu prohlížeče.
 
@@ -98,6 +100,7 @@ migration-list-autofill-label = data pro automatické vyplňování
 ##
 
 migration-wizard-progress-header = Import dat
+migration-wizard-progress-done-header = Import dat byl úspěšně dokončen
 migration-wizard-progress-icon-in-progress =
     .aria-label = Probíhá import…
 migration-wizard-progress-icon-completed =
