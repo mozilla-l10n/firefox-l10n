@@ -153,6 +153,10 @@ spotlight-public-wifi-vpn-link = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 spotlight-total-cookie-protection-header =
     ᱟᱞᱮᱭᱟᱜ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ
     ᱱᱤᱥᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱮᱵᱷᱟᱮ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+spotlight-total-cookie-protection-body = ᱢᱩᱴ ᱠᱩᱠᱤ ᱯᱨᱚᱴᱮᱠᱥᱚᱱ ᱫᱚ ᱴᱨᱮᱠᱚᱨ ᱠᱚ ᱣᱮᱵᱽ ᱨᱮ ᱟᱢᱟᱜ ᱯᱟᱨᱥᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱠᱷᱚᱱ ᱵᱟᱫᱟᱭ ᱾
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ᱠᱩᱠᱤ ᱠᱚ ᱥᱟᱸᱣ ᱡᱩᱲᱟᱹᱭ ᱠᱟᱛᱮᱜ ᱢᱤᱫ ᱜᱷᱟᱴ ᱵᱮᱱᱟᱣᱜᱼᱟ, ᱚᱱᱟ ᱠᱚ ᱟᱢᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮᱜᱮ ᱥᱤᱢᱟᱹᱭᱟ, ᱚᱱᱟᱛᱮ ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱟᱢᱟᱜ ᱛᱟᱞᱟ ᱨᱮ ᱵᱟᱝ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱮᱛᱚᱦᱚᱵ ᱥᱮᱴᱮᱨ ᱠᱟᱛᱮ, ᱟᱢ ᱱᱚᱶᱟ ᱥᱟᱯᱲᱟᱣ ᱛᱮ ᱫᱚ ᱱᱟᱯᱟᱭ ᱥᱟᱦᱤᱡ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱣᱮᱵᱽ ᱛᱮᱭᱟᱨ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 spotlight-total-cookie-protection-primary-button = ᱢᱩᱴ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 spotlight-total-cookie-protection-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
