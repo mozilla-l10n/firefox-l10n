@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Cliquer et faire glisser pour modifier les valeurs de la taille
 options-inspector-draggable-properties-tooltip =
     .title = Cliquer et faire glisser pour modifier les valeurs de la taille dans la vue de l’inspecteur de règles.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Utiliser des mises en évidence plus simples avec prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Active les mises en évidence simplifiées quand prefers-reduced-motion est activé. Des lignes sont tracées autour des éléments mis en évidence à la place des rectangles colorés pour éviter les clignotements.
 
 ## "Default Color Unit" options for the Inspector
 
