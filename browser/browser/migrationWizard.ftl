@@ -137,3 +137,50 @@ migration-safari-password-import-step3 = บันทึกไฟล์รหั
 migration-safari-password-import-step4 = ใช้ “เลือกไฟล์” ด้านล่างเพื่อเลือกไฟล์รหัสผ่านที่คุณได้บันทึกไว้
 migration-safari-password-import-skip-button = ข้าม
 migration-safari-password-import-select-button = เลือกไฟล์
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } ที่คั่นหน้า
+       *[other] { $quantity } ที่คั่นหน้า
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } รายการโปรด
+       *[other] { $quantity } รายการโปรด
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } รหัสผ่าน
+       *[other] { $quantity } รหัสผ่าน
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] จากวันก่อน
+       *[other] จาก { $maxAgeInDays } วันก่อน
+    }
+migration-wizard-progress-success-formdata = ประวัติแบบฟอร์ม
+migration-wizard-safari-permissions-sub-header = หากต้องการนำเข้าที่คั่นหน้าและประวัติการเรียกดูจาก Safari:
+migration-wizard-safari-instructions-continue = ให้เลือก “ดำเนินการต่อ”
+migration-wizard-safari-instructions-folder = เลือกโฟลเดอร์ Safari จากในรายการ แล้วเลือก “เปิด”
+migration-wizard-safari-select-button = เลือกไฟล์
