@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กเว็บแอปส่วนใหญ่ โดยมีโอเวอร์เฮดต่ำ
 profiler-popup-presets-web-developer-label =
     .label = นักพัฒนาเว็บ
@@ -223,6 +228,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = แบ่งปันแนวคิดและคำติชม…
     .accesskey = บ
+appmenu-help-switch-device =
+    .label = สลับไปยังอุปกรณ์ใหม่
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
