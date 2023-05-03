@@ -206,6 +206,8 @@ places-details-pane-no-items =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Cerca nei segnalibri
 places-search-history =
     .placeholder = Cerca nella cronologia
 
