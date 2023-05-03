@@ -11,8 +11,10 @@ more-from-moz-category =
 more-from-moz-subtitle = ᱮᱴᱟᱜ { -vendor-short-name } ᱡᱤᱱᱤᱥ ᱠᱚ ᱧᱮᱞ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱢᱤᱫ ᱵᱮᱥ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱫᱚᱦᱚ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱤᱥᱟᱹᱠᱚᱨᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜᱼᱟᱭ ᱾
 more-from-moz-firefox-mobile-title = { -brand-product-name } ᱢᱳᱵᱟᱭᱤᱞ
 more-from-moz-firefox-mobile-description = ᱢᱚᱵᱟᱭᱤᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱩᱭᱞᱩ ᱨᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾
+more-from-moz-firefox-mobile-description-advanced = ᱴᱨᱚᱠᱟᱨ ᱵᱞᱚᱠ ᱠᱷᱚᱱ ᱚᱴᱚᱯᱷᱮᱭᱞᱮ ᱡᱚᱡᱚᱱᱟ ᱨᱮ ᱵᱽᱨᱮᱠ ᱞᱟᱹᱜᱤᱫ, { -brand-product-name } ᱢᱚᱵᱟᱭᱤᱞ ᱵᱽᱨᱟᱩᱡᱟᱨ ᱫᱚ ᱟᱢᱟᱜ ᱥᱟᱨᱦᱟᱣᱟᱱ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱷᱤᱲ ᱜᱮ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟᱭ ᱾
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
-more-from-moz-mozilla-vpn-description = ᱟᱱᱚᱱᱤᱢᱮᱥ ᱵᱽᱨᱟᱩᱡᱷᱟᱭᱤᱝ ᱟᱨ ᱥᱩᱪᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱮᱱ ᱮᱴᱟᱜ ᱞᱮᱭᱟᱨ ᱧᱟᱢ ᱢᱮ ᱾
+more-from-moz-mozilla-vpn-description = ᱟᱱᱚᱱᱤᱢᱮᱥ ᱵᱽᱨᱟᱩᱡᱷᱟᱭᱤᱝ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱞᱚᱨᱚᱛ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭ ᱡᱟᱝ ᱢᱮ ᱾
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } ᱫᱚ ᱵᱟᱝ ᱪᱤᱱᱦᱟᱹᱯ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮᱭᱟᱜ ᱢᱤᱫ ᱯᱚᱨᱚᱛ ᱮ ᱢᱮᱥᱟᱭᱟᱭ ᱾ ᱟᱨ, ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱮᱴᱟᱜ VPNs ᱞᱮᱠᱷᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱱᱟᱯᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱵᱟᱭ ᱯᱟᱧᱡᱟᱭᱟᱭ ᱾
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
