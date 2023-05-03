@@ -122,6 +122,7 @@ urlbar-tabtosearch-onboard = اختر هذا الاختصار لتجد ما تر
 urlbar-search-mode-bookmarks = العلامات
 urlbar-search-mode-tabs = الألسنة
 urlbar-search-mode-history = التأريخ
+urlbar-search-mode-actions = الإجراءات
 
 ##
 
@@ -222,11 +223,18 @@ search-one-offs-tabs =
     .tooltiptext = الألسنة ({ $restrict })
 search-one-offs-history =
     .tooltiptext = التأريخ ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = الإجراءات ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = اعرض الإضافات
+quickactions-cmd-addons2 = الإضافات
+quickactions-cmd-bookmarks = العلامات
+quickactions-cmd-extensions = الامتدادات
 
 ## Bookmark Panel
 
@@ -549,7 +557,7 @@ urlbar-result-action-search-tabs = ابحث في الألسنة
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
