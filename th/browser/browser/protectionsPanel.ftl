@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = แบบฟอร์
 protections-panel-site-not-working-view-issue-list-payments = การชำระเงิน
 protections-panel-site-not-working-view-issue-list-comments = ความคิดเห็น
 protections-panel-site-not-working-view-issue-list-videos = วิดีโอ
+protections-panel-site-not-working-view-issue-list-fonts = แบบอักษร
 protections-panel-site-not-working-view-send-report = ส่งรายงาน
 
 ##
@@ -108,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = ปิดสำหรับ�
 protections-panel-cookie-banner-handling-undetected = ไม่รองรับไซต์ในขณะนี้
 protections-panel-cookie-banner-view-title =
     .title = การลดแบนเนอร์คุกกี้
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = กลับ
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ต้องการปิดการลดแบนเนอร์คุกกี้สำหรับ { $host } หรือไม่?
