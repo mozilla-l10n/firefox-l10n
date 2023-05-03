@@ -31,6 +31,7 @@ accessibility-text-label-issue-fieldset-legend2 = ໃຊ້ອົງປະກອ
 accessibility-text-label-issue-form = ອົງປະກອບແບບຟອມຕ້ອງຖືກຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-form-visible = ອົງປະກອບແບບຟອມຄວນມີປ້າຍຂໍ້ຄວາມທີ່ເບິ່ງເຫັນໄດ້. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-heading = ຫົວຂໍ້ຕ້ອງມີປ້າຍຊື່. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-image = ເນື້ອໃນທີ່ມີຮູບພາບຕ້ອງໄດ້ຮັບການຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
