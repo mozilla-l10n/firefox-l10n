@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (nessun titolo)
 places-bookmarks-backup-title = Nome del file per il salvataggio
 places-bookmarks-restore-alert-title = Ripristina segnalibri
+places-bookmarks-restore-alert = Questo sostituirà tutti i segnalibri correnti con quelli contenuti nel file. Procedere con l’operazione?
 places-bookmarks-restore-title = Seleziona un file di salvataggio
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Tipo di file non supportato.
