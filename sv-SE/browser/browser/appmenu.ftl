@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Nyligen stängda flikar
 appmenu-recently-closed-windows =
     .label = Nyligen stängda fönster
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Sökhistorik
 
 ## Help panel
 
