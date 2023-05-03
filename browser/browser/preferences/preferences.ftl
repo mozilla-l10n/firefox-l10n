@@ -1240,6 +1240,29 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = การปกป้องแบบเริ่มต้น
     .accesskey = ป
+preferences-doh-default-desc = { -brand-short-name } จะตัดสินใจว่าควรใช้ secure DNS เมื่อใดเพื่อที่จะปกป้องความเป็นส่วนตัวของคุณ
+preferences-doh-default-detailed-desc-1 = ใช้ secure DNS ในภูมิภาคที่สามารถใช้ได้
+preferences-doh-default-detailed-desc-2 = ใช้ DNS resolver เริ่มต้นของคุณหากมีปัญหากับผู้ให้บริการ secure DNS
+preferences-doh-default-detailed-desc-3 = ใช้ผู้ให้บริการเฉพาะที่หากเป็นไปได้
+preferences-doh-default-detailed-desc-4 = ปิดใช้เมื่อ VPN, การควบคุมโดยผู้ปกครอง, หรือนโยบายองค์กรทำงาน
+preferences-doh-default-detailed-desc-5 = ปิดใช้เมื่อเครือข่ายบอกกับ { -brand-short-name } ว่าไม่ควรใช้ secure DNS
+preferences-doh-setting-enabled =
+    .label = การปกป้องแบบเพิ่มเติม
+    .accesskey = พ
+preferences-doh-enabled-desc = ให้คุณควบคุมว่าควรใช้ secure DNS เมื่อใดและเลือกผู้ให้บริการของคุณเองได้
+preferences-doh-enabled-detailed-desc-1 = ใช้ผู้ให้บริการที่คุณเลือก
+preferences-doh-enabled-detailed-desc-2 = ใช้ DNS resolver เริ่มต้นของคุณเฉพาะเมื่อมีปัญหากับ secure DNS เท่านั้น
+preferences-doh-setting-strict =
+    .label = การปกป้องแบบสูงสุด
+    .accesskey = ส
+preferences-doh-strict-desc = { -brand-short-name } จะใช้ secure DNS เสมอ คุณจะเห็นคำเตือนเกี่ยวกับความเสี่ยงด้านความปลอดภัยก่อนที่เราจะใช้ DNS ของระบบของคุณ
+preferences-doh-strict-detailed-desc-1 = ใช้เฉพาะผู้ให้บริการที่คุณเลือกเท่านั้น
+preferences-doh-strict-detailed-desc-2 = เตือนเสมอเมื่อ secure DNS ใช้ไม่ได้
+preferences-doh-strict-detailed-desc-3 = หาก secure DNS ใช้ไม่ได้ ไซต์ต่างๆ จะไม่โหลดหรือทำงานถูกต้อง
+preferences-doh-setting-off =
+    .label = ปิด
+    .accesskey = ป
+preferences-doh-off-desc = ใช้ DNS resolver เริ่มต้นของคุณ
 
 ## The following strings are used in the Download section of settings
 
