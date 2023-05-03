@@ -505,3 +505,7 @@ onboarding-infrequent-import-primary-button =
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+
+## Device migration onboarding
+
+onboarding-device-migration-title = Vítejte zpět!
