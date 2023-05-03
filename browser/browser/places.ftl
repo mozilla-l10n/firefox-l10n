@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Elimina cartelle
         }
     .accesskey = n
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Elimina pagina
+           *[other] Elimina pagine
+        }
+    .accesskey = E
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnalibri gestiti
@@ -103,6 +112,15 @@ places-delete-bookmark =
            *[other] Elimina segnalibri
         }
     .accesskey = E
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Aggiungi pagina ai segnalibri…
+           *[other] Aggiungi pagine ai segnalibri…
+        }
+    .accesskey = A
 places-untag-bookmark =
     .label = Elimina etichetta
     .accesskey = m
@@ -244,3 +262,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = I segnalibri e la cronologia non potranno funzionare correttamente in quanto un file di { -brand-short-name } risulta utilizzato da un’altra applicazione. Il problema potrebbe essere causato da un software di sicurezza.
