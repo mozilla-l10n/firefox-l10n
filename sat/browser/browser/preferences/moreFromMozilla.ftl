@@ -16,6 +16,7 @@ more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = { -rally-short-name } ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱢᱮ
+more-from-moz-qr-code-box-firefox-mobile-title = ᱟᱢᱟᱜ ᱢᱳᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮ ᱰᱟᱣᱩᱱᱞᱚᱰ ᱢᱮ ᱾ QR ᱠᱳᱰ ᱨᱮ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱩᱫᱩᱜᱽ ᱢᱮ ᱾ ᱡᱩᱫᱤ ᱢᱤᱫ ᱞᱤᱝᱠ ᱧᱮᱞᱚᱜ-ᱟ, ᱚᱱᱟ ᱨᱮ ᱴᱤᱯᱟᱹᱣ ᱢᱮ ᱾
 more-from-moz-qr-code-box-firefox-mobile-button = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱨᱮ ᱤᱢᱮᱞ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = { -brand-product-name } ᱢᱚᱵᱟᱭᱤᱱ ᱰᱟᱣᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ
