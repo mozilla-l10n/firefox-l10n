@@ -8,7 +8,9 @@
 more-from-moz-title = { -vendor-short-name } ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮ
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮ
+more-from-moz-subtitle = ᱮᱴᱟᱜ { -vendor-short-name } ᱡᱤᱱᱤᱥ ᱠᱚ ᱧᱮᱞ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱢᱤᱫ ᱵᱮᱥ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱫᱚᱦᱚ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱤᱥᱟᱹᱠᱚᱨᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜᱼᱟᱭ ᱾
 more-from-moz-firefox-mobile-title = { -brand-product-name } ᱢᱳᱵᱟᱭᱤᱞ
+more-from-moz-firefox-mobile-description = ᱢᱚᱵᱟᱭᱤᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱩᱭᱞᱩ ᱨᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
