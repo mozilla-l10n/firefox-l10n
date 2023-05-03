@@ -8,6 +8,8 @@
 
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
+# The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment = World Wide Web ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 desktop-entry-generic-name = ᱣᱮᱵᱽ ᱵᱽᱨᱟᱣᱡᱚᱨ
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
