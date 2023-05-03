@@ -429,6 +429,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Un renard fait signe de la patte sur l’écran d’un ordinateur portable. Une souris est connectée à l’ordinateur portable.
 onboarding-device-migration-title = Heureux de vous revoir !
 onboarding-device-migration-subtitle = Connectez-vous à votre { -fxaccount-brand-name } pour prendre vos marque-pages, mots de passe et historique avec vous sur votre nouvel appareil.
 onboarding-device-migration-primary-button-label = Se connecter
