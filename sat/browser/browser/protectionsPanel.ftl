@@ -41,11 +41,11 @@ protections-panel-protectionsdashboard-label = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱮ�
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+protections-panel-site-not-working-view-issue-list-fonts = ᱪᱤᱠᱤ ᱠᱚ
 
 ##
 
 protections-panel-description-shim-allowed-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -53,3 +53,10 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = ᱨᱤᱯᱚᱴ ᱠᱩᱞ ᱢᱮ
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚ
+protections-panel-cookie-banner-view-title =
+    .title = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚ
+protections-panel-cookie-banner-view-turn-on = ᱮᱢ ᱢᱮ
