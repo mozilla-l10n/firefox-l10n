@@ -106,6 +106,8 @@ migration-import-from-file-button-label = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-cancel-button-label = ᱵᱟᱹᱰᱨᱟᱹ
 migration-done-button-label = ᱦᱩᱭᱮᱱᱟ
 migration-continue-button-label = ᱞᱮᱛᱟᱲ
+migration-wizard-import-browser-no-browsers = { -brand-short-name } ᱫᱚ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ, ᱦᱤᱛᱟᱹᱞ ᱟᱨᱵᱟᱝ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱰᱟᱴᱟ. ᱢᱮᱱᱟᱜ ᱪᱮᱫ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱫᱟᱭ ᱾
+migration-wizard-import-browser-no-resources = ᱢᱤᱫᱴᱟᱹᱝ ᱦᱩᱰᱟᱹᱜ. ᱦᱩᱭᱮᱱᱟ ᱾ { -brand-short-name } ᱫᱚ ᱚᱱᱟ ᱵᱨᱟᱣᱡᱚᱨ ᱢᱚᱦᱚᱨ ᱠᱷᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱵᱟᱝ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱫᱟᱭ ᱾
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -134,6 +136,7 @@ migration-safari-password-import-steps-header = Safari ᱛᱮ ᱫᱟᱱᱟᱝ �
 migration-safari-password-import-step1 = Safari ᱨᱮ, “Safari” ᱢᱮᱱᱩ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱠᱩᱥᱤᱭᱟᱜ > ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> ᱵᱩᱛᱟᱹᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ “ᱡᱷᱚᱛᱚ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-safari-password-import-step3 = ᱫᱟᱱᱟᱝ ᱥᱟᱦᱟᱫ ᱨᱮᱫ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+migration-safari-password-import-step4 = ᱞᱟᱛᱟᱨ ᱨᱮ ᱢᱮᱱᱟᱜ “ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ” ᱵᱮᱵᱷᱟᱨ ᱛᱮ ᱥᱟᱸᱪᱷᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 migration-safari-password-import-skip-button = ᱟᱲᱟᱜ
 migration-safari-password-import-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 # Shown in the migration wizard after importing bookmarks from another
@@ -169,6 +172,19 @@ migration-wizard-progress-success-passwords =
         [two] { $quantity } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱤᱱ
        *[other] { $quantity } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] ᱢᱟᱲᱟᱝ ᱫᱤᱱ ᱠᱷᱚᱱ
+        [two] ᱢᱟᱲᱟᱝ ᱫᱤᱱ ᱠᱷᱚᱱ
+       *[other] ᱢᱟᱲᱟᱝ { $maxAgeInDays } ᱫᱤᱱ ᱠᱷᱚᱱ
+    }
 migration-wizard-progress-success-formdata = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱚᱨᱢ
+migration-wizard-safari-permissions-sub-header = Safari ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱞᱟᱫᱮ ᱞᱟᱹᱜᱤᱫ :
 migration-wizard-safari-instructions-continue = “ᱞᱟᱦᱟ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+migration-wizard-safari-instructions-folder = ᱞᱤᱥᱴᱤ ᱨᱮ Safari ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ “ᱠᱷᱩᱞᱟᱹ” ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ
 migration-wizard-safari-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
