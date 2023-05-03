@@ -1263,6 +1263,14 @@ preferences-doh-setting-off =
     .label = ปิด
     .accesskey = ป
 preferences-doh-off-desc = ใช้ DNS resolver เริ่มต้นของคุณ
+preferences-doh-checkbox-warn =
+    .label = เตือนหากมีบุคคลที่สามเข้ามาขัดขวาง secure DNS อย่างต่อเนื่อง
+    .accesskey = ต
+preferences-doh-select-resolver = เลือกผู้ให้บริการ:
+preferences-doh-exceptions-description = { -brand-short-name } จะไม่ใช้ secure DNS บนไซต์เหล่านี้
+preferences-doh-manage-exceptions =
+    .label = จัดการข้อยกเว้น…
+    .accesskey = ย
 
 ## The following strings are used in the Download section of settings
 
