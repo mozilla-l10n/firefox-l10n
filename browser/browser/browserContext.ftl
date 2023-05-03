@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Utilizar un àlias { -relay-brand-short-name }
+    .accesskey = U
 main-context-menu-suggest-strong-password =
     .label = Suggerir un senhal fòrt…
     .accesskey = S
