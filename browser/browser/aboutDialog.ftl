@@ -25,6 +25,7 @@ aboutdialog-update-manual = التحديثات متاحة في <a data-l10n-name
 update-unsupported = لا يمكنك إجراء أي تحديثات أخرى على هذا النظام. <label data-l10n-name="unsupported-link">اطّلع على المزيد</label>
 update-restarting = يُعيد التشغيل…
 channel-description = تتلقى التحديثات حاليًا من قناة <label data-l10n-name="current-channel"></label>.
+update-internal-error = تعذر التحقق من وجود تحديثات بسبب خطأ داخلي. التحديثات متاحة في <label data-l10n-name = "manual-link" />
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = تتلقى التحديثات حاليًا من قناة <label data-l10n-name="current-channel">{ $channel }</label>.

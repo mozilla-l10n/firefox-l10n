@@ -123,6 +123,9 @@ profiler-popup-button-idle =
 profiler-popup-button-recording =
     .label = محلّل الأداء
     .tooltiptext = يُسجّل المحلّل تحليلًا
+profiler-popup-button-capturing =
+    .label = محلّل الأداء
+    .tooltiptext = محلّل الأداء يلتقط ملفًا شخصيًا
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-header-text = { -profiler-brand-name }
@@ -164,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-label =
     .label = مطوّري الوب
 profiler-popup-presets-firefox-label =
@@ -174,6 +182,9 @@ profiler-popup-presets-media-label =
     .label = الوسائط
 profiler-popup-presets-networking-label =
     .label = الشبكة
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = طاقة
 profiler-popup-presets-custom-label =
     .label = مخصّص
 
