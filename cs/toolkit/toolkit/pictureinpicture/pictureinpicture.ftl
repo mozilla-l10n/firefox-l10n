@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pozastavit
-    .title = Pozastavit (mezerník)
-pictureinpicture-play-cmd =
-    .aria-label = Přehrát
-    .title = Přehrát (mezerník)
-pictureinpicture-mute-cmd =
-    .aria-label = Ztlumit
-    .title = Ztlumit ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Zapnout zvuk
-    .title = Zapnout zvuk ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Odeslat zpět do panelu
-    .title = Zpět do panelu
-pictureinpicture-close-cmd =
-    .aria-label = Zavřít
-    .title = Zavřít ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Titulky
-    .title = Titulky
 pictureinpicture-pause-btn =
     .aria-label = Pozastavit
     .tooltip = Pozastavit (mezerník)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Celá obrazovka
-    .title = Celá obrazovka (poklepání)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Ukončit režim celé obrazovky
-    .title = Ukončit režim celé obrazovky (poklepání)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Zpět
-    .title = Zpět (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Vpřed
-    .title = Vpřed (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Celá obrazovka
     .tooltip = Celá obrazovka (poklepání)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Vpřed
     .tooltip = Vpřed (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Nastavení titulků
 pictureinpicture-subtitles-label = Titulky
 pictureinpicture-font-size-label = Velikost písma
 pictureinpicture-font-size-small = Malé

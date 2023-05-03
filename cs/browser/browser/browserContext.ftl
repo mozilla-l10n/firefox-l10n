@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Použít e-mailovou masku { -relay-brand-short-name }
+    .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Navrhnout bezpečně vygenerované heslo…
     .accesskey = g

@@ -85,6 +85,7 @@ deniedPortAccess-title = Omezení přístupu k adrese
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm, tuto stránku se nám nedaří najít.
 dns-not-found-trr-only-title2 = Vyhledání této domény je možné bezpečnostní riziko
+dns-not-found-native-fallback-title2 = Vyhledání této domény je možné bezpečnostní riziko
 fileNotFound-title = Soubor nenalezen
 fileAccessDenied-title = Přístup k souboru byl odepřen
 generic-title = Nepodařilo se dokončit požadavek

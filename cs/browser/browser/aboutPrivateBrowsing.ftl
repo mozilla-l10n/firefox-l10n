@@ -66,3 +66,4 @@ about-private-browsing-pin-promo-title = Žádné uložené cookies ani historie
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Cookie lišty jsou fuč!
+about-private-browsing-cookie-banners-promo-button = Omezit cookie lišty

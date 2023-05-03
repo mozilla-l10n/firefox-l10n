@@ -233,6 +233,9 @@ appmenu-recently-closed-tabs =
     .label = Naposledy zavřené panely
 appmenu-recently-closed-windows =
     .label = Naposledy zavřená okna
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Hledat v historii
 
 ## Help panel
 
@@ -260,6 +263,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Sdílet nápad nebo zpětnou vazbu…
     .accesskey = S
+appmenu-help-switch-device =
+    .label = Přenos na nové zařízení
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

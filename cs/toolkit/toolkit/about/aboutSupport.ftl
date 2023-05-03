@@ -303,6 +303,8 @@ webgl2-renderer = Zobrazování WebGL2
 webgl2-version = Verze ovladače WebGL 2
 webgl2-driver-extensions = Rozšíření ovladače WebGL 2
 webgl2-extensions = Rozšíření WebGL 2
+webgpu-default-adapter = Výchozí adaptér WebGPU
+webgpu-fallback-adapter = Záložní adaptér WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Zablokováno kvůli známým problémům: <a data-l10n-name="bug-link">bug { $bugNumber }</a>

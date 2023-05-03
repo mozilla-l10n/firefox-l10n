@@ -247,6 +247,8 @@ colorways-cfr-primarybutton = Zvolit baletu barev
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-confirm-button = Odmítat cookie lišty
+    .accesskey = c
 cfr-cbh-dismiss-button = Teď ne
     .accesskey = n
 
