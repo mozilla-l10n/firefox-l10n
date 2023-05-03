@@ -428,6 +428,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = En räv på skärmen på en bärbar dator vinkar. Den bärbara datorn har en mus ansluten till den.
 onboarding-device-migration-title = Välkommen tillbaka!
 onboarding-device-migration-subtitle = Logga in på ditt { -fxaccount-brand-name } för att ta med dig dina bokmärken, lösenord och historik på din nya enhet.
 onboarding-device-migration-primary-button-label = Logga in
