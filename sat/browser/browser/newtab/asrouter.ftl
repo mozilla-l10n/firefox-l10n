@@ -250,4 +250,5 @@ fox-doodle-pin-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>ᱟᱵᱚᱣᱟᱜ PDF ᱱᱤᱛᱚᱜ { -brand-short-name } ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱᱟ ᱾</strong> ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱨᱮᱜᱮ ᱯᱷᱚᱨᱢ ᱥᱟᱯᱲᱟᱣ ᱟᱨᱵᱟᱝ ᱥᱩᱦᱤ ᱠᱟᱜ ᱢᱮ ᱾ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ, ᱥᱟᱡᱟᱣ ᱨᱮ  “PDF” ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
 set-default-pdf-handler-primary = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
