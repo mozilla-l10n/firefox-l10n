@@ -5,3 +5,6 @@
 places-error-title = { -brand-short-name }
 places-no-title = (gjin titel)
 places-bookmarks-restore-filter-name = JSON
+places-bookmarks-restore-format-error = Net stipe bestânstype.
+places-bookmarks-import = Blêdwizerbestân ymportearje
+places-bookmarks-export = Blêdwizerbestân eksportearje

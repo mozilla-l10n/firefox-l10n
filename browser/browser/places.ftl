@@ -199,6 +199,15 @@ places-view-sort-col-date-added =
     .label = Tafoege
 places-view-sort-col-last-modified =
     .label = Lêst wizige
+places-view-sortby-name =
+    .label = Sortearje op Namme
+    .accesskey = N
+places-view-sortby-url =
+    .label = Sortearje op Lokaasje
+    .accesskey = L
+places-view-sortby-date-added =
+    .label = Sortearje op Tafoege
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -208,6 +217,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Selektearje in item om te besjen en de eigenskippen te bewurkjen
 places-details-pane-no-items =
     .value = Gjin items
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Ien item
+           *[other] { $count } items
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
