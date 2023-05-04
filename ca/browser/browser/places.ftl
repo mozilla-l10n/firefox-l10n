@@ -246,3 +246,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Les adreces d'interès i l'historial no seran funcionals perquè un dels fitxers del { -brand-short-name } l'utilitza una altra aplicació. Cert programari de seguretat podria estar provocant aquest problema.
