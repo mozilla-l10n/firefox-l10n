@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] ਬੁੱਕਮਾਰਕ ਹਟਾਓ
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] …ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+           *[other] …ਸਫ਼ਿਆਂ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = ਟੈਗ ਹਟਾਓ
     .accesskey = R
