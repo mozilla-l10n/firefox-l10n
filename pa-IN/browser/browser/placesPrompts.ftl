@@ -4,7 +4,12 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (ਟਾਇਟਲ ਨਹੀਂ)
+places-bookmarks-backup-title = ਬੁੱਕਮਾਰਕ ਬੈਕਅੱਪ ਫਾਈਲ-ਨਾਂ
 places-bookmarks-restore-alert-title = ਬੁੱਕਮਾਰਕ ਰੀਵਰਟ
 places-bookmarks-restore-alert = ਇਹ ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਬੁੱਕਮਾਰਕ ਨੂੰ ਬੈਕਅੱਪ ਨਾਲ ਬਦਲ ਦੇਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਇਹ ਚਾਹੁੰਦੇ ਹੋ?
 places-bookmarks-restore-title = ਬੁੱਕਮਾਰਕ ਬੈਕਅੱਪ ਚੁਣੋ
 places-bookmarks-restore-filter-name = JSON
+places-bookmarks-restore-format-error = ਗ਼ੈਰ-ਸਹਾਇਕ ਫਾਈਲ ਕਿਸਮ ਹੈ।
+places-bookmarks-restore-parse-error = ਬੈਕਅੱਪ ਫਾਈਲ ਪਰੋਸੈਸ ਕਰਨ ਲਈ ਅਸਮਰੱਥ
+places-bookmarks-import = ਬੁੱਕਮਾਰਕ ਫਾਈਲਾਂ ਇੰਪੋਰਟ ਕਰੋ
+places-bookmarks-export = ਬੁੱਕਮਾਰਕ ਫਾਈਲ ਐਕਸਪੋਰਟ
