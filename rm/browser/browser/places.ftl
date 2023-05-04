@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] Stizzar ils segnapaginas
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Agiuntar in segnapagina per la pagina…
+           *[other] Agiuntar segnapaginas per las paginas…
+        }
+    .accesskey = A
 places-untag-bookmark =
     .label = Allontanar il chavazzin
     .accesskey = A
