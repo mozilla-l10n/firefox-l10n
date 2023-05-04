@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = 新建隐私窗口打开
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (空)
 places-add-bookmark =
     .label = 新建书签…
     .accesskey = B
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = 清除
 places-library =
     .title = 我的足迹
     .style = width:700px; height:500px;
-places-library2 =
-    .title = 我的足迹
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = 我的足迹
 places-organize-button =
@@ -198,6 +197,21 @@ places-view-sort-col-date-added =
     .label = 添加日期
 places-view-sort-col-last-modified =
     .label = 修改日期
+places-view-sortby-name =
+    .label = 按名称排序
+    .accesskey = N
+places-view-sortby-visit-count =
+    .label = 按访问次数排序
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = 按添加时间排序
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = 按最后修改日期排序
+    .accesskey = M
+places-view-sortby-tags =
+    .label = 按标签排序
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -205,3 +219,17 @@ places-back-button =
 places-forward-button =
     .tooltiptext = 转到下一页
 places-details-pane-select-an-item-description = 选择一个条目来查看或编辑其属性
+places-details-pane-no-items =
+    .value = 无
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = 搜索书签
+places-search-history =
+    .placeholder = 搜索历史记录
+
+##
+
+places-locked-prompt = 由于某个 { -brand-short-name } 的文件正被其他应用程序使用，书签和历史记录系统无法运行。某些安全软件可能引起这类问题。
