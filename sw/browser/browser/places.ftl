@@ -140,3 +140,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Vialamisho na mfumo wa historia hautafanya kazi kwa sababu mojawapo ya faili { -brand-short-name } inatumiwa na programu nyingine. Programu zingine za usalama zaweza kusababisha tatizo hili.
