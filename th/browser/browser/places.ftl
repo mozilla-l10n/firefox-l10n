@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] ลบที่คั่นหน้า
         }
     .accesskey = ล
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] เพิ่มที่คั่นหน้าสำหรับหน้า…
+           *[other] เพิ่มที่คั่นหน้าสำหรับหน้า…
+        }
+    .accesskey = ท
 places-untag-bookmark =
     .label = เอาแท็กออก
     .accesskey = อ
