@@ -41,9 +41,6 @@ places-sortby-name =
 places-library =
     .title = Biblioteka
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteka
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteka
 places-organize-button =
@@ -126,3 +123,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Go forward
 places-details-pane-select-an-item-description = Select an item to view and edit its properties
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
