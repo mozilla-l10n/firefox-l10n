@@ -139,6 +139,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ముందుకు వెళ్ళు
 places-details-pane-select-an-item-description = ఒక అంశము యొక్క లక్షణములను చూసుటకు మరియు సరిచేయుటకు ఎంపికచేయి
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ఒక అంశం
+           *[other] { $count } అంశాలు
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
