@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Mở trong cửa sổ riêng tư mới
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Trống)
 places-add-bookmark =
     .label = Thêm dấu trang…
     .accesskey = B
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = Quên
 places-library =
     .title = Thư viện
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Thư viện
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Thư viện
 places-organize-button =
@@ -205,3 +204,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Tiến
 places-details-pane-select-an-item-description = Chọn một mục để xem và chỉnh sửa thuộc tính của nó
+places-details-pane-no-items =
+    .value = Không có mục nào
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
