@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Barchasini varaqlarda ochish
     .accesskey = o
+places-empty-bookmarks-folder =
+    .label = (Boʻsh)
 places-view =
     .label = Koʻrinishi
     .accesskey = i
@@ -53,9 +55,6 @@ places-manage-bookmarks =
 places-library =
     .title = Kutubxona
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Kutubxona
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Kutubxona
 places-organize-button =
@@ -131,6 +130,27 @@ places-view-sort-col-date-added =
     .label = Qoʻshilgan
 places-view-sort-col-last-modified =
     .label = Soʻnggi oʻzgartirilgan
+places-view-sortby-name =
+    .label = Nomi bo‘yicha saralash
+    .accesskey = N
+places-view-sortby-url =
+    .label = Manzil bo‘yicha saralash
+    .accesskey = M
+places-view-sortby-date =
+    .label = Eng so‘nggi kirishlar bo‘yicha saralash
+    .accesskey = k
+places-view-sortby-visit-count =
+    .label = Tashrif miqdori bo‘yicha saralash
+    .accesskey = T
+places-view-sortby-date-added =
+    .label = Qo‘shilganlar bo‘yicha saralash
+    .accesskey = Q
+places-view-sortby-last-modified =
+    .label = So‘nggi o‘zgartirish bo‘yicha saralash
+    .accesskey = o
+places-view-sortby-tags =
+    .label = Teglar bo‘yicha saralash
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -138,3 +158,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Oldinga oʻtish
 places-details-pane-select-an-item-description = Koʻrish uchun bandni tanlang va xossalarini oʻzgartiring
+places-details-pane-no-items =
+    .value = Elementlar yoʻq
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Bitta element
+           *[other] { $count } ta element
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Xatchoplarni izlash
+places-search-history =
+    .placeholder = Tarixni izlash
+places-search-downloads =
+    .placeholder = Yuklab olishlarni izlash
+
+##
+
