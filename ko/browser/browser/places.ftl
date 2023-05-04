@@ -82,6 +82,15 @@ places-delete-folder =
            *[other] 폴더 삭제
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] 페이지 삭제
+           *[other] 페이지 삭제
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 관리되는 북마크
@@ -204,6 +213,10 @@ places-forward-button =
 places-details-pane-select-an-item-description = 속성을 보고 편집할 항목을 선택하세요
 places-details-pane-no-items =
     .value = 항목 없음
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = { $count }개
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
