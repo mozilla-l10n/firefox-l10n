@@ -181,3 +181,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Xatcho‘plar va tizim tarixi funksional emas, chunki { -brand-short-name } fayllaridan biri boshqa dastur tomonidan foydalanilmoqda. Ba’zi xavfsizlik dasturlari muammoga sabab bo‘lishi mumkin.
