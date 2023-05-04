@@ -164,6 +164,15 @@ places-view-sort-col-date-added =
     .label = Adăugat
 places-view-sort-col-last-modified =
     .label = Ultima modificare
+places-view-sortby-name =
+    .label = Sortează după nume
+    .accesskey = n
+places-view-sortby-url =
+    .label = Sortează după locație
+    .accesskey = l
+places-view-sortby-date =
+    .label = Sortează după cele mai recente vizite
+    .accesskey = v
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -179,6 +188,9 @@ places-details-pane-no-items =
 
 places-search-history =
     .placeholder = Caută în istoric
+places-search-downloads =
+    .placeholder = Caută descărcări
 
 ##
 
+places-locked-prompt = Marcajele și istoricul nu vor funcționa pentru că unul dintre fișierele { -brand-short-name } este folosit de altă aplicație. Problema ar putea fi cauzată de un program de securitate.
