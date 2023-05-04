@@ -11,6 +11,8 @@ places-open-in-tab =
 places-open-all-in-tabs =
     .label = Բացել Բոլորը Ներդիրներում
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (Դատարկ)
 places-view =
     .label = Տեսք
     .accesskey = Տ
@@ -132,3 +134,18 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Անցնել առաջ
 places-details-pane-select-an-item-description = Ընտրեք բաղադրիրը դիտելու և խմբագրելու նրա կարգավորումները
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Մեկ միավոր
+           *[other] { $count } միավորներ
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
