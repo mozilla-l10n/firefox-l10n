@@ -401,5 +401,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = ໝາຈອກຢູ່ໜ້າຈໍຄອມພິວເຕີແລັບທັອບໂບກມື. ແລັບທັອບມີຫນູສຽບໃສ່ມັນ.
 onboarding-device-migration-title = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ!
+onboarding-device-migration-subtitle = ເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name(capitalization: "sentence") } ຂອງທ່ານເພື່ອນຳເອົາບຸກມາກ, ລະຫັດຜ່ານ ແລະ ປະຫວັດຂອງທ່ານໄປນຳໃນອຸປະກອນໃໝ່ຂອງທ່ານ.
 onboarding-device-migration-primary-button-label = ເຂົ້າສູ່ລະບົບ
