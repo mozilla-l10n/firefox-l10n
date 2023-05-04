@@ -73,6 +73,17 @@ restart-later = Reiniciar máis tarde
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -117,7 +128,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -140,6 +151,10 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = i
 containers-disable-alert-title = Pechar todas as lapelas contedor?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Se desactiva as lapelas contedor agora, { $tabCount } lapela contedor pecharase. Confirma que quere desactivar as lapelas contedor?
@@ -150,10 +165,13 @@ containers-disable-alert-ok-button =
         [one] Pechar { $tabCount } lapela contedor
        *[other] Pechar { $tabCount } lapelas contedor
     }
+
+##
+
 containers-disable-alert-cancel-button = Manter activado
 containers-remove-alert-title = Retirar este contedor?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Se retira este contedor agora, pecharase { $count } lapela contedora. Confirma que quere retirar este contedor?
@@ -176,6 +194,8 @@ advanced-fonts =
 preferences-zoom-header = Ampliación
 preferences-default-zoom = Ampliación predeterminada
     .accesskey = p
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage } %
 preferences-zoom-text-only =
@@ -268,15 +288,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Preguntar sempre
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usar { $plugin-name } (en { -brand-short-name })
 applications-open-inapp =
@@ -312,6 +332,8 @@ play-drm-content =
 play-drm-content-learn-more = Máis información
 update-application-title = Actualizacións de { -brand-short-name }
 update-application-description = Manteña { -brand-short-name } actualizado para obter un mellor rendemento, estabilidade e seguranza.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novidades</a>
 update-history =
     .label = Amosar historial de actualización…
@@ -335,7 +357,7 @@ update-application-use-service =
     .accesskey = g
 update-setting-write-failure-title2 = Produciuse un erro ao gardar a configuración da actualización
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -365,7 +387,7 @@ performance-limit-content-process-option = Límite de procesos de contido
 performance-limit-content-process-enabled-desc = Os procesos de contido adicionais poden mellorar o rendemento cando se usan moitas lapelas, pero tamén usarán máis memoria.
 performance-limit-content-process-blocked-desc = Modificar o número de procesos de contido só é posíbel coa versión multiproceso do { -brand-short-name }. <a data-l10n-name="learn-more">Coñeza máis sobre como comprobar se o multiproceso está activado</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predeterminado)
 
@@ -407,7 +429,7 @@ browsing-cfr-recommendations-learn-more = Máis información
 
 network-settings-title = Configuración de rede
 network-proxy-connection-description = Configurar o modo en que { -brand-short-name } se conecta á Internet.
-network-proxy-connection-learn-more = Obter máis información
+network-proxy-connection-learn-more = Máis información
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
@@ -464,6 +486,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Contido excepcional patrocinado por { $provider }, parte da familia { -brand-product-name }
@@ -491,6 +517,8 @@ home-prefs-recent-activity-description = Unha selección de sitios e contido rec
 home-prefs-snippets-header =
     .label = Fragmentos
 home-prefs-snippets-description-new = Consellos e novas de { -vendor-short-name } e { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -550,7 +578,7 @@ search-find-more-link = Atopar máis buscadores
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicar a palabra clave
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = A palabra clave que escolleu está a ser utilizada por "{ $name }". Seleccione outra.
 search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utilizada por un marcador. Seleccione outra.
 
@@ -597,8 +625,15 @@ sync-sign-out =
     .accesskey = S
 sync-manage-account = Xestionar conta
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+
+##
+
 sync-resend-verification =
     .label = Reenviar comprobación
     .accesskey = m
@@ -809,8 +844,8 @@ history-clear-button =
 sitedata-header = Cookies e datos dos sitios
 sitedata-total-size-calculating = Calculando o tamaño dos datos do sitio e da caché...
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = As cookies, datos dos sitios e a caché almacenados usan actualmente { $value }{ $unit } de espazo no disco.
 sitedata-learn-more = Máis información
 sitedata-delete-on-close =
@@ -844,6 +879,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Xestionar as excepcións…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 
@@ -914,6 +952,9 @@ content-blocking-fingerprinters = Pegadas dixitais
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Experimente coa nosa experiencia de privacidade máis potente de todos os tempos
     .accesskey = E
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-etp-standard-tcp-rollout-learn-more = Máis información
 content-blocking-warning-title = Atención!
 content-blocking-and-isolating-etp-warning-description-2 = Esta configuración pode provocar que algúns sitios web non mostren contido ou funcionen correctamente. Se un sitio semella estragado, probe a desactivar a protección de rastrexo para que ese sitio cargue todo o contido.
@@ -1070,6 +1111,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activar o modo só HTTPS só nas xanelas privadas
 httpsonly-radio-disabled =
     .label = Non activar o modo só HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

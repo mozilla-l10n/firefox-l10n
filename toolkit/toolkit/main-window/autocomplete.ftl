@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Import Logins Autocomplete
+### Import Logins Autocomplete
+
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
@@ -20,4 +21,4 @@ autocomplete-import-logins-chromium-edge =
 
 ##
 
-autocomplete-import-learn-more = Saiba máis
+autocomplete-import-learn-more = Máis información
