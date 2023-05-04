@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Открыть в новом приватном окне
     .accesskey = и
+places-empty-bookmarks-folder =
+    .label = (Пусто)
 places-add-bookmark =
     .label = Создать закладку…
     .accesskey = з
@@ -208,3 +210,28 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Перейти вперёд
 places-details-pane-select-an-item-description = Выберите элемент для просмотра и правки его свойств
+places-details-pane-no-items =
+    .value = Нет элементов
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] { $count } элемент
+            [few] { $count } элемента
+           *[many] { $count } элементов
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Поиск в закладках
+places-search-history =
+    .placeholder = Поиск в журнале
+places-search-downloads =
+    .placeholder = Поиск в загрузках
+
+##
+
+places-locked-prompt = Работа с закладками и журналом невозможна, так как один из файлов { -brand-short-name } используется другим приложением. Данную проблему могут вызывать некоторые из защитных программ.
