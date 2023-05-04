@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Arvi tutto inti feuggi
     .accesskey = o
+places-empty-bookmarks-folder =
+    .label = (veuo)
 places-view =
     .label = Fanni vedde
     .accesskey = F
@@ -123,10 +125,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Vanni avanti
 places-details-pane-select-an-item-description = Seleçionn-a un ògetto pe vedde e modificâ e propietæ
+places-details-pane-no-items =
+    .value = No ògetti
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] 'N ògetto
+           *[other] { $count } ògetti
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Çerca inti segnalibbri
+places-search-history =
+    .placeholder = Çerca inta stöia
+places-search-downloads =
+    .placeholder = Çerca descaregamenti
 
 ##
 
