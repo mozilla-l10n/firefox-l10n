@@ -214,6 +214,8 @@ places-search-bookmarks =
     .placeholder = Søg i bogmærker
 places-search-history =
     .placeholder = Søg i historik
+places-search-downloads =
+    .placeholder = Søg i hentede filer
 
 ##
 
