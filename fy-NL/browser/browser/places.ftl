@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Mappen fuortsmite
         }
     .accesskey = f
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Side fuortsmite
+           *[other] Siden fuortsmite
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Behearde blêdwizers
@@ -107,6 +116,15 @@ places-delete-bookmark =
            *[other] Blêdwizers fuortsmite
         }
     .accesskey = f
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Blêdwizer foar side meitsje…
+           *[other] Blêdwizer foar siden meitsje…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Tag fuortsmite
     .accesskey = f
@@ -208,6 +226,9 @@ places-view-sortby-url =
 places-view-sortby-date =
     .label = Sortearje op Meast resinte besite
     .accesskey = B
+places-view-sortby-visit-count =
+    .label = Sortearje op Besykteller
+    .accesskey = b
 places-view-sortby-date-added =
     .label = Sortearje op Tafoege
     .accesskey = T
