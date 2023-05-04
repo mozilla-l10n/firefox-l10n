@@ -197,6 +197,27 @@ places-view-sort-col-date-added =
     .label = ਜੋੜਨ ਤਾਰੀਖ
 places-view-sort-col-last-modified =
     .label = ਆਖਰੀ ਸੋਧ
+places-view-sortby-name =
+    .label = ਨਾਂ ਰਾਹੀਂ ਲੜੀਬੱਧ
+    .accesskey = N
+places-view-sortby-url =
+    .label = ਟਿਕਾਣੇ ਰਾਹੀਂ ਲੜੀਬੱਧ
+    .accesskey = L
+places-view-sortby-date =
+    .label = ਸਭ ਤੋਂ ਵੱਧ ਤਾਜ਼ਾ ਖੋਲ੍ਹਣ  ਰਾਹੀਂ ਲੜੀਬੱਧ
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ਖੋਲ੍ਹਣ ਗਿਣਤੀ ਰਾਹੀਂ ਲੜੀਬੱਧ
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = ਜੋੜਨ ਰਾਹੀਂ ਲੜੀਬੱਧ
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ਆਖਰੀ ਸੋਧ ਰਾਹੀਂ ਲੜੀਬੱਧ
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ਟੈਗ ਰਾਹੀਂ ਲੜੀਬੱਧ
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -206,6 +227,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = ਕਿਸੇ ਆਈਟਮ ਨੂੰ ਵੇਖਣ ਤੇ ਉਸਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧਣ ਲਈ ਚੁਣੋ
 places-details-pane-no-items =
     .value = ਕੋਈ ਆਈਟਮ ਨਹੀਂ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ਇੱਕ ਆਈਟਮ
+           *[other] { $count } ਆਈਟਮਾਂ
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
