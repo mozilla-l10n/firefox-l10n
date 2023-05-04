@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] 刪除資料夾
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] 刪除頁面
+           *[other] 刪除頁面
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 受管理的書籤
@@ -105,6 +114,15 @@ places-delete-bookmark =
            *[other] 刪除書籤
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] 將頁面加入書籤…
+           *[other] 將頁面加入書籤…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = 移除標籤
     .accesskey = R
@@ -237,6 +255,8 @@ places-details-pane-items-count =
 
 places-search-bookmarks =
     .placeholder = 搜尋書籤
+places-search-history =
+    .placeholder = 搜尋記錄
 places-search-downloads =
     .placeholder = 搜尋下載
 
