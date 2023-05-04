@@ -148,6 +148,15 @@ places-forward-button =
 places-details-pane-select-an-item-description = Select an item to view and edit its properties
 places-details-pane-no-items =
     .value = Nav nivīnys vīneibys
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [zero] { $count } vīneibys
+            [one] { $count } vīneiba
+           *[other] { $count } vīneibys
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
