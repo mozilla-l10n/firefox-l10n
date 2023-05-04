@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] ลบโฟลเดอร์
         }
     .accesskey = ล
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] ลบหน้า
+           *[other] ลบหน้า
+        }
+    .accesskey = ล
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ที่คั่นหน้าที่ถูกจัดการ
@@ -197,6 +206,27 @@ places-view-sort-col-date-added =
     .label = วันที่เพิ่ม
 places-view-sort-col-last-modified =
     .label = วันที่เปลี่ยนแปลงล่าสุด
+places-view-sortby-name =
+    .label = เรียงตามชื่อ
+    .accesskey = ร
+places-view-sortby-url =
+    .label = เรียงตามตำแหน่งที่ตั้ง
+    .accesskey = ง
+places-view-sortby-date =
+    .label = เรียงตามวันที่เยี่ยมชมล่าสุด
+    .accesskey = ต
+places-view-sortby-visit-count =
+    .label = เรียงตามจำนวนการเข้าชม
+    .accesskey = ม
+places-view-sortby-date-added =
+    .label = เรียงตามวันที่เพิ่ม
+    .accesskey = ว
+places-view-sortby-last-modified =
+    .label = เรียงตามวันที่เปลี่ยนแปลงล่าสุด
+    .accesskey = น
+places-view-sortby-tags =
+    .label = เรียงตามป้ายกำกับ
+    .accesskey = ย
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -219,3 +249,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = ระบบที่คั่นหน้าและประวัติจะไม่ทำงานเนื่องจากหนึ่งในไฟล์ของ { -brand-short-name } มีการใช้งานโดยแอปพลิเคชันอื่น ซอฟต์แวร์ความปลอดภัยบางตัวสามารถก่อให้เกิดปัญหานี้
