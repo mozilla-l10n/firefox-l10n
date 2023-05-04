@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = सगळ्या टॅबांत उगडात
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (रिकामे)
 places-view =
     .label = पळयात
     .accesskey = w
@@ -37,9 +39,6 @@ places-sortby-name =
 places-library =
     .title = पुस्तकालय
     .style = width:700px; height:500px;
-places-library2 =
-    .title = पुस्तकालय
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = पुस्तकालय
 places-organize-button =
@@ -115,6 +114,27 @@ places-view-sort-col-date-added =
     .label = जोडले
 places-view-sort-col-last-modified =
     .label = निमाणो केल्लो बदल
+places-view-sortby-name =
+    .label = नावान वर्गीकरण करात
+    .accesskey = न
+places-view-sortby-url =
+    .label = थळान वर्गीकरण करात
+    .accesskey = थ
+places-view-sortby-date =
+    .label = सद्याच्या भेटीसावंन वर्गीकरण करात
+    .accesskey = भ
+places-view-sortby-visit-count =
+    .label = भेटीच्या गणनान वर्गीकरण करात
+    .accesskey = ग
+places-view-sortby-date-added =
+    .label = Added वर्गीकरण करात
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = निमणे बदलिल्ल्यान वर्गीकरण करात
+    .accesskey = ब
+places-view-sortby-tags =
+    .label = टॅगांन वर्गीकरण करात
+    .accesskey = ट
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -122,3 +142,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = मुखार वचात
 places-details-pane-select-an-item-description = ताची वैशिश्ट्यां पळोवपाक आणि संपादित करपाक वस्त निवडात
+places-details-pane-no-items =
+    .value = वस्ती ना
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] एक वस्त
+           *[other] { $count } वस्ती
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = बुकमार्क सोदात
+places-search-history =
+    .placeholder = इतिहास सोदात
+places-search-downloads =
+    .placeholder = डावनलोड सोदात
+
+##
+
+places-locked-prompt = बूकमार्क्स आनी इतिहास व्यवस्था काम करची ना कारण { -brand-short-name } तली एक फायल हेर अनुप्रयोगान वापरान आसा. काय सुरक्षा सॉफ्टवेर हो आडमेळ हाडू शकता.
