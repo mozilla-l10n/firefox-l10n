@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (ללא כותרת)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = מטעמי אבטחה, כתובות ״javascript״ או ״data:‎״ לא יטענו מחלון ההיסטוריה או מסרגל הצד.
 places-bookmarks-backup-title = שם קובץ גיבוי הסימניות
 places-bookmarks-restore-alert-title = שחזור סימניות
 places-bookmarks-restore-alert = פעולה זו תחליף את כל הסימניות הנוכחיות עם הגיבוי. האם להמשיך?
