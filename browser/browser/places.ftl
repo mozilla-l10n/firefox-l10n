@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Open All in Tabs
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (Empty)
 places-view =
     .label = View
     .accesskey = w
@@ -37,9 +39,6 @@ places-sortby-name =
 places-library =
     .title = Library
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Library
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Library
 places-organize-button =
@@ -122,3 +121,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Go forward
 places-details-pane-select-an-item-description = Select an item to view and edit its properties
+places-details-pane-no-items =
+    .value = No items
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] One item
+           *[other] { $count } items
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Search Bookmarks
+places-search-history =
+    .placeholder = Search History
+places-search-downloads =
+    .placeholder = Search Downloads
+
+##
+
