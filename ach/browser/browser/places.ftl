@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Yek ki nying
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Kwany potbuk
+           *[other] Kwany potbuk
+        }
+    .accesskey = K
 places-library =
     .title = Ot gwoko buk
     .style = width:700px; height:500px;
