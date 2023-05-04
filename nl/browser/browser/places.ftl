@@ -116,6 +116,15 @@ places-delete-bookmark =
            *[other] Bladwijzers verwijderen
         }
     .accesskey = v
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Bladwijzer voor pagina maken…
+           *[other] Bladwijzers voor pagina’s maken…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Tag verwijderen
     .accesskey = v
