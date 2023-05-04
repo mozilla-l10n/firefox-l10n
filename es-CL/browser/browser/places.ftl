@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Eliminar carpetas
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Eliminar página
+           *[other] Eliminar páginas
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores administrados
@@ -107,6 +116,15 @@ places-delete-bookmark =
            *[other] Eliminar marcadores
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Marcar página…
+           *[other] Marcar páginas…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Eliminar etiqueta
     .accesskey = R
@@ -202,6 +220,9 @@ places-view-sort-col-last-modified =
 places-view-sortby-name =
     .label = Ordenar por nombre
     .accesskey = N
+places-view-sortby-url =
+    .label = Ordenar por ubicación
+    .accesskey = L
 places-view-sortby-date =
     .label = Ordenar por visita más reciente
     .accesskey = V
@@ -226,6 +247,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Selecciona un elemento para ver y editar sus propiedades
 places-details-pane-no-items =
     .value = No hay elementos
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un elemento
+           *[other] { $count } elementos
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -239,3 +268,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = El sistema de marcadores e historial no serán funcionales debido a que uno de los archivos de { -brand-short-name } está siendo ocupado por otra aplicación. Algunos programas de seguridad pueden causar este problema.
