@@ -140,3 +140,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Dipukutshwayo le tshepedišo ya histori di ka se šome ka gobane e nngwe ya difaele tša { -brand-short-name } e dirišwa ke tirišo e nngwe. Lenaneotirišo la tšhireletšo le ka baka bothata bjo.
