@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (brak tytułu)
 places-bookmarks-backup-title = Nazwa pliku kopii zapasowej zakładek
 places-bookmarks-restore-alert-title = Przywróć zakładki
 places-bookmarks-restore-alert = Wszystkie bieżące zakładki zostaną zastąpione przez te z kopii zapasowej. Czy kontynuować?
