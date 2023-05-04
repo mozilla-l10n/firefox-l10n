@@ -127,12 +127,22 @@ places-forward-button =
 places-details-pane-select-an-item-description = पहाण्याकरीता व गुणधर्म संपादीत करण्याकरीता घटक निवडा
 places-details-pane-no-items =
     .value = घटक नाही
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] एक घटक
+           *[other] { $count } items
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
 places-search-history =
     .placeholder = इतिहास शोधा
+places-search-downloads =
+    .placeholder = डाउनलोडस् शोधा
 
 ##
 
