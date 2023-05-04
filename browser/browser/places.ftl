@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Buka di Jendela Penjelajahan Pribadi Baru
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Kosong)
 places-add-bookmark =
     .label = Tambah Markah…
     .accesskey = M
@@ -202,3 +204,22 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Maju
 places-details-pane-select-an-item-description = Pilih item untuk ditampilkan dan diubah propertinya
+places-details-pane-no-items =
+    .value = Tak ada item
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = { $count } item
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Cari di Daftar Markah
+places-search-history =
+    .placeholder = Cari di Riwayat
+places-search-downloads =
+    .placeholder = Cari di Unduhan
+
+##
+
