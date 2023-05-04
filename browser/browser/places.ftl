@@ -175,3 +175,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Lo sistema de marcapachinas y l'historial no funcionarán ya que un d'os fichers de { -brand-short-name } lo ye fendo servir belatra aplicación. Qualque programa de seguranza podría estar causando iste problema.
