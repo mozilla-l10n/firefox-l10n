@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Dobrir dins una fenèstra privada
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Void)
 places-add-bookmark =
     .label = Apondre un marcapagina…
     .accesskey = A
@@ -197,6 +199,15 @@ places-view-sort-col-date-added =
     .label = Data d'apondon
 places-view-sort-col-last-modified =
     .label = Darrièra modificacion
+places-view-sortby-name =
+    .label = Triar per nom
+    .accesskey = n
+places-view-sortby-visit-count =
+    .label = Triar per nombre de visitas
+    .accesskey = n
+places-view-sortby-last-modified =
+    .label = Triar per data de darrièra modificacion
+    .accesskey = m
 places-cmd-find-key =
     .key = F
 places-back-button =
@@ -227,3 +238,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Los marcapaginas e l'istoric del sistèma foncionaràn pas per çò que un dels fichièrs de { -brand-short-name } es utilizat per un autre programa. Lo problèma pòt venir d'un logicial de seguretat.
