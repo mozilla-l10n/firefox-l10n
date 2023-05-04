@@ -116,14 +116,25 @@ browser-containers-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } ᱵᱟᱹᱴᱤ ᱴᱟᱵᱽ ᱵᱚᱱᱫ ᱢᱮ
+        [two] { $tabCount } ᱵᱟᱹᱴᱤ ᱴᱟᱵᱽ ᱠᱤᱱ ᱵᱚᱱᱫ ᱢᱮ
+       *[other] { $tabCount } ᱵᱟᱹᱴᱤ ᱴᱟᱵᱽ ᱠᱚ ᱵᱚᱱᱫ ᱢᱮ
+    }
 
 ##
 
 containers-disable-alert-cancel-button = ᱮᱢ ᱪᱷᱚ ᱠᱟᱜ ᱢᱮ
+containers-remove-alert-title = ᱱᱚᱶᱟ ᱵᱟᱹᱴᱤ ᱚᱪᱚᱜᱟᱢ ᱥᱮ ?
+containers-remove-ok-button = ᱱᱚᱶᱟ ᱵᱟᱹᱴᱤ ᱚᱪᱚᱜᱽ ᱢᱮ
 containers-remove-cancel-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱟᱞᱚᱢ ᱚᱪᱚᱜᱽ ᱟ
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ᱯᱟᱹᱨᱥᱤ ᱟᱨ ᱧᱮᱞᱚᱜ
+preferences-web-appearance-header = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱧᱮᱞᱚᱜ
+preferences-web-appearance-choice-browser = { -brand-short-name } ᱛᱷᱤᱢ
 preferences-web-appearance-choice-system = ᱥᱭᱥᱴᱟᱹᱢ ᱛᱷᱮᱢ
 preferences-web-appearance-choice-auto = ᱟᱡ ᱛᱮ
 preferences-web-appearance-choice-light = ᱢᱟᱨᱥᱟᱞ
@@ -138,27 +149,52 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = ᱨᱚᱝ ᱠᱚ
+preferences-colors-manage-button =
+    .label = ᱨᱚᱝ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ…
+    .accesskey = C
+preferences-fonts-header = ᱪᱤᱠᱤ ᱠᱚ
+default-font = ᱢᱩᱞ ᱪᱤᱠᱤ
+    .accesskey = D
 default-font-size = ᱢᱟᱯ
     .accesskey = S
 advanced-fonts =
     .label = ᱞᱟᱦᱟᱱᱛᱤ…
     .accesskey = A
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = ᱡᱩᱢ
+preferences-default-zoom = ᱢᱩᱞ ᱡᱩᱢ
+    .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = ᱮᱠᱷᱮᱱ ᱚᱱᱚᱞ ᱜᱮ ᱢᱟᱨᱟᱝ ᱪᱷᱚ
+    .accesskey = t
+language-header = ᱯᱟᱹᱨᱥᱤ
 choose-language-description = ᱥᱟᱦᱟᱴ ᱠᱚ ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱯᱟᱹᱨᱚᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 choose-button =
     .label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
     .accesskey = o
+confirm-browser-language-change-button = ᱮᱢ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱢᱮ
 translate-web-pages =
     .label = ᱣᱮᱵᱽ ᱡᱤᱱᱤᱥ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = <img data-l10n-name="logo"/> ᱛᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱦᱩᱭᱠᱟᱱᱟ
 translate-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
+check-user-spelling =
+    .label = ᱚᱞ ᱚᱞ ᱛᱮ ᱟᱢᱟᱜ ᱜᱟᱵᱟᱱ ᱧᱮᱞ ᱢᱮ
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ᱨᱮᱫᱽ ᱟᱨ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ
 download-header = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 download-save-where = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
     .accesskey = v
@@ -173,6 +209,12 @@ download-choose-folder =
             [macos] ᱣ
            *[other] ᱚ
         }
+download-always-ask-where =
+    .label = ᱨᱮᱫ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱡᱷᱚᱜ ᱜᱷᱤᱲ ᱜᱮ ᱠᱩᱠᱞᱤ ᱢᱮ
+    .accesskey = A
+applications-header = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ
+applications-filter =
+    .placeholder = ᱨᱮᱫ ᱯᱨᱚᱠᱟᱨ ᱟᱨᱵᱟᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 applications-type-column =
     .label = ᱡᱤᱱᱤᱥ ᱞᱮᱠᱟ
     .accesskey = T
@@ -204,9 +246,15 @@ applications-always-ask =
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ᱵᱮᱵᱷᱟᱨ ᱢᱮ ({ -brand-short-name } ᱨᱮ)
+applications-open-inapp =
+    .label = { -brand-short-name } ᱨᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -218,16 +266,25 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
+applications-handle-new-file-types-description = ᱮᱴᱟᱜ ᱨᱮᱫᱽ ᱠᱚ ᱥᱟᱶᱛᱮ { -brand-short-name } ᱫᱚ ᱪᱮᱫ ᱪᱤᱠᱟᱹᱭᱟᱭ ?
+applications-save-for-new-types =
+    .label = ᱨᱮᱫᱽ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
+    .accesskey = S
 play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+update-application-title = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ
 update-application-use-service =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱚᱱᱚᱲ ᱠᱟᱹᱢᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = b
@@ -260,6 +317,7 @@ browsing-cfr-recommendations-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## General Section - Proxy
 
+network-settings-title = ᱱᱮᱴᱣᱟᱨᱠ ᱥᱟᱡᱟᱣᱠᱚ
 network-proxy-connection-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 network-proxy-connection-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
@@ -270,6 +328,14 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = ᱚᱲᱟᱜᱥᱟᱦᱴᱟ ᱟᱨ ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ
+home-newtabs-mode-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱠᱚ
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (ᱢᱩᱞ)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (ᱢᱩᱞ)
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -287,6 +353,14 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header2 = { -firefox-home-brand-name } ᱡᱤᱱᱤᱥ
+home-prefs-search-header =
+    .label = ᱣᱮᱵᱽ ᱥᱮᱸᱫᱽᱨᱟ
+home-prefs-shortcuts-header =
+    .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+home-prefs-shortcuts-description = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
+home-prefs-shortcuts-by-option-sponsored =
+    .label = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -295,17 +369,38 @@ choose-bookmark =
 ## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
+home-prefs-recommended-by-header =
+    .label = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟᱜ
 
 ##
 
+home-prefs-recommended-by-learn-more = ᱱᱚᱶᱟ ᱫᱚ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱠᱟᱹᱢᱤᱭᱟᱭ
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
+home-prefs-recommended-by-option-recent-saves =
+    .label = ᱱᱮᱱᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+home-prefs-highlights-option-visited-pages =
+    .label = ᱦᱤᱨᱤ ᱠᱟᱱ ᱥᱟᱦᱴᱟ
 home-prefs-highlights-options-bookmarks =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+home-prefs-highlights-option-most-recent-download =
+    .label = ᱱᱮᱱᱮ ᱰᱟᱣᱱᱞᱚᱰ ᱠᱟᱱ
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name } ᱨᱮ ᱥᱟᱦᱴᱟ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
+home-prefs-recent-activity-header =
+    .label = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
+home-prefs-recent-activity-description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱪᱷᱟᱣ
 
 ## Search Section
 
+search-bar-header = ᱥᱮᱸᱫᱽᱨᱟ ᱦᱟᱯᱟ
 search-remove-engine =
     .label = ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
+search-add-engine =
+    .label = ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+    .accesskey = A
+search-find-more-link = ᱰᱷᱮᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱠᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ᱱᱚᱠᱚᱞ ᱛᱮᱭᱟᱨ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ
@@ -316,13 +411,23 @@ search-keyword-warning-bookmark = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ �
 
 ## Containers Section
 
+containers-settings-button =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ
+containers-remove-button =
+    .label = ᱚᱪᱚᱜᱽ ᱢᱮ
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = ᱟᱢᱟᱜ ᱣᱮᱵ ᱟᱢ ᱥᱟᱶ ᱛᱮ ᱤᱫᱤ ᱢᱮ
 
 ## Firefox Account - Signed in
 
+sync-sign-out =
+    .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ…
+    .accesskey = g
+sync-manage-account = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -332,6 +437,9 @@ sync-signedin-login-failure = ᱫᱟᱭᱟᱠᱟᱛᱮ { $email } ᱥᱟᱞᱟ�
 
 ##
 
+sync-sign-in =
+    .label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
+    .accesskey = g
 
 ## Sync section - enabling or disabling sync.
 
@@ -340,6 +448,15 @@ sync-signedin-login-failure = ᱫᱟᱭᱟᱠᱟᱛᱮ { $email } ᱥᱟᱞᱟ�
 
 sync-currently-syncing-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 sync-currently-syncing-history = ᱱᱟᱜᱟᱢ
+sync-currently-syncing-tabs = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
+sync-currently-syncing-logins-passwords = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
+sync-currently-syncing-addresses = ᱴᱷᱤᱠᱬᱟᱤᱭᱟᱹ
+sync-currently-syncing-creditcards = ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ
+sync-currently-syncing-addons = ᱮᱰ-ᱟᱸᱱᱥ
+sync-currently-syncing-settings = ᱥᱟᱡᱟᱣ ᱠᱚ
+sync-change-options =
+    .label = ᱵᱚᱫᱚᱞ…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -372,6 +489,7 @@ forms-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
 forms-breach-alerts-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+relay-integration-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 forms-primary-pw-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
