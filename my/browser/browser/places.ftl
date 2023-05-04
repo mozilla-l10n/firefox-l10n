@@ -41,9 +41,6 @@ places-sortby-name =
 places-library =
     .title = စာကြည့်တိုက်
     .style = width:700px; height:500px;
-places-library2 =
-    .title = စာကြည့်တိုက်
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = စာကြည့်တိုက်
 places-organize-button =
@@ -126,3 +123,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ဆက်သွားပါ
 places-details-pane-select-an-item-description = အချက်တခုကို ရှုမြင်ဖို့နဲ့ ၄င်းရဲ့ ဂုဏ်အင်္ဂါရပ်များကို တည်းဖြတ်ဖို့ ရွေးချယ်ပါ
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
