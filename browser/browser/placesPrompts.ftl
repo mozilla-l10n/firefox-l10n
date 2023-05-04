@@ -5,6 +5,7 @@
 places-error-title = { -brand-short-name }
 places-bookmarks-backup-title = 書籤備份檔名
 places-bookmarks-restore-alert-title = 回復書籤
+places-bookmarks-restore-alert = 這個動作會用備份資料覆蓋目前使用的所有書籤，您確定要繼續嗎？
 places-bookmarks-restore-title = 請選擇書籤備份檔案
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = 檔案類型不支援。
