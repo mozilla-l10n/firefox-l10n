@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = Pievienota
 places-view-sort-col-last-modified =
     .label = Pēdējo reizi labota
+places-view-sortby-name =
+    .label = Kārtot pēc nosaukuma
+    .accesskey = n
+places-view-sortby-url =
+    .label = Kārtot pēc vietas
+    .accesskey = v
+places-view-sortby-date =
+    .label = Kārtot pēc apmeklējuma laika
+    .accesskey = a
+places-view-sortby-visit-count =
+    .label = Kārtot pēc apmeklējumu skaita
+    .accesskey = s
+places-view-sortby-date-added =
+    .label = Kārtot pēc pievienošanas
+    .accesskey = c
+places-view-sortby-last-modified =
+    .label = Kārtot pēc izmaiņu datuma
+    .accesskey = i
+places-view-sortby-tags =
+    .label = Kārtot pēc birkām
+    .accesskey = b
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -140,3 +161,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Grāmatzīmju un pārlūkošanas vēstures funkcijas nebūs pieejamas, jo { -brand-short-name } failus izmanto kāda cita programma. Dažas drošības programmas var radīt šo problēmu.
