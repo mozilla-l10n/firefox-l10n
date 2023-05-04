@@ -123,6 +123,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Kies 'n item om sy eienskappe te kyk en te redigeer
 places-details-pane-no-items =
     .value = Geen items nie
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Een item
+           *[other] { $count } items
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -131,6 +139,8 @@ places-search-bookmarks =
     .placeholder = Deursoek boekmerke
 places-search-history =
     .placeholder = Deursoek geskiedenis
+places-search-downloads =
+    .placeholder = Deursoek aflaaie
 
 ##
 
