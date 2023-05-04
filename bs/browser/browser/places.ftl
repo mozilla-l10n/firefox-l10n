@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = Dodato
 places-view-sort-col-last-modified =
     .label = Zadnja izmjena
+places-view-sortby-name =
+    .label = Sortiraj po nazivu
+    .accesskey = n
+places-view-sortby-url =
+    .label = Sortiraj po lokaciji
+    .accesskey = l
+places-view-sortby-date =
+    .label = Sortiraj po posljednjim posjetama
+    .accesskey = j
+places-view-sortby-visit-count =
+    .label = Sortiraj po broju posjeta
+    .accesskey = b
+places-view-sortby-date-added =
+    .label = Sortiraj prema dodanom
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Sortiraj po zadnje uređenom
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Sortiraj po oznakama
+    .accesskey = o
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -149,3 +170,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Sistem zabilješki i historije neće funkcionisati zato što jedan od { -brand-short-name } fajlova koristi druga aplikacija. Neki sigurnosni softveri mogu uzrokovati ovakve probleme.
