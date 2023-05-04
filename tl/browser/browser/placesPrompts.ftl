@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (walang pamagat)
+places-bookmarks-backup-title = Pangalan ng backup ng mga bookmark
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Hindi suportadong file type.
 places-bookmarks-restore-parse-error = Hindi ma-process ang backup file.
