@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = បើក​ក្នុង​ផ្ទាំង​ទាំងអស់
     .accesskey = ប
+places-empty-bookmarks-folder =
+    .label = (ទទេ)
 places-view =
     .label = មើល
     .accesskey = ម
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = បណ្ណាល័យ
     .style = width:700px; height:500px;
-places-library2 =
-    .title = បណ្ណាល័យ
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = បណ្ណាល័យ
 places-organize-button =
@@ -126,3 +125,18 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ទៅ​មុខ
 places-details-pane-select-an-item-description = ជ្រើស​ធាតុ​ដើម្បី​មើល និង​កែ​សម្រួល​លក្ខណៈ​សម្បត្តិ​របស់​វា
+places-details-pane-no-items =
+    .value = គ្មាន​ធាតុ
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = ស្វែងរក​ចំណាំ
+places-search-history =
+    .placeholder = ស្វែងរក​ប្រវត្តិ
+places-search-downloads =
+    .placeholder = ស្វែងរក​ឯកសារ​ទាញ​យក
+
+##
+
