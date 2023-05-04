@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ordenar por nombre
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Borrar la pachina
+           *[other] Borrar las pachinas
+        }
+    .accesskey = B
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcapachinas chestionaus
