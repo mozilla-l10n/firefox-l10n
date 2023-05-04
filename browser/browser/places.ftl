@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] 删除书签
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] 将页面加入书签…
+           *[other] 将页面加入书签…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = 移除标签
     .accesskey = R
