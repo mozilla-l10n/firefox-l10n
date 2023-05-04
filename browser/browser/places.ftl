@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Eyða möppum
         }
     .accesskey = p
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Eyða síðu
+           *[other] Eyða síðum
+        }
+    .accesskey = ð
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Stýrð bókamerki
