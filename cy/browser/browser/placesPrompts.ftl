@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (dim teitl)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Am resymau diogelwch, ni fydd modd llwytho “javascript:” na URLau “data:” o'r ffenestr hanes na'r bar ochr.
 places-bookmarks-backup-title = Enw ffeil nodau tudalen wrth gefn
 places-bookmarks-restore-alert-title = Adfer i'r Nodau Tudalen
 places-bookmarks-restore-alert = Bydd hwn yn newid eich holl nodau tudalen presennol drwy'r copïo wrth gefn. Iawn?
