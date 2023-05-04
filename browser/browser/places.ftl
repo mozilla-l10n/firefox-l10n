@@ -41,9 +41,6 @@ places-sortby-name =
 places-library =
     .title = Pustaka
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Pustaka
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Pustaka
 places-organize-button =
@@ -126,3 +123,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Langkau
 places-details-pane-select-an-item-description = Pilih item untuk dipapar dan diedit sifatnya
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
