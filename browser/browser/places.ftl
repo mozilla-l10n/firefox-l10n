@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (ਖਾਲੀ)
 places-add-bookmark =
     .label = …ਬੁੱਕਮਾਰਕ ਜੋੜੋ
     .accesskey = B
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = ਭੁੱਲੋ
 places-library =
     .title = ਲਾਇਬਰੇਰੀ
     .style = width:700px; height:500px;
-places-library2 =
-    .title = ਲਾਇਬਰੇਰੀ
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = ਲਾਇਬਰੇਰੀ
 places-organize-button =
@@ -205,3 +204,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ਅੱਗੇ ਚੱਲੋ
 places-details-pane-select-an-item-description = ਕਿਸੇ ਆਈਟਮ ਨੂੰ ਵੇਖਣ ਤੇ ਉਸਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧਣ ਲਈ ਚੁਣੋ
+places-details-pane-no-items =
+    .value = ਕੋਈ ਆਈਟਮ ਨਹੀਂ
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = ਬੁੱਕਮਾਰਕਾਂ ਵਿੱਚ ਖੋਜ
+places-search-history =
+    .placeholder = ਖੋਜ ਅਤੀਤ
+
+##
+
