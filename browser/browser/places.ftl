@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Agor mewn Ffenestr Breifat Newydd
     .accesskey = B
+places-empty-bookmarks-folder =
+    .label = (Gwag)
 places-add-bookmark =
     .label = Ychwanegu Nod Tudalen…
     .accesskey = N
@@ -214,3 +216,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Mynd ymlaen
 places-details-pane-select-an-item-description = Dewis eitem i'w gweld a golygu ei phriodweddau
+places-details-pane-no-items =
+    .value = Dim eitemau
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Chwilio'r Nodau Tudalen
+places-search-history =
+    .placeholder = Hanes Chwilio
+
+##
+
