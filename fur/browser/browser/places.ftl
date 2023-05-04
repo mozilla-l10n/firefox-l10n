@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Elimine cartelis
         }
     .accesskey = E
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Elimine la pagjine
+           *[other] Elimine lis pagjinis
+        }
+    .accesskey = E
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnelibris gjestîts
@@ -107,6 +116,15 @@ places-delete-bookmark =
            *[other] Elimine segnelibris
         }
     .accesskey = E
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Zonte pagjine tai segnelibris…
+           *[other] Zonte pagjinis tai segnelibris…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Gjave etichete
     .accesskey = G
@@ -202,12 +220,21 @@ places-view-sort-col-last-modified =
 places-view-sortby-name =
     .label = Met in ordin par non
     .accesskey = n
+places-view-sortby-url =
+    .label = Met in ordin par direzion
+    .accesskey = D
+places-view-sortby-date =
+    .label = Met in ordin par visite plui resinte
+    .accesskey = V
 places-view-sortby-visit-count =
     .label = Met in ordin par numar di visitis
     .accesskey = C
 places-view-sortby-date-added =
     .label = Met in ordin par date di zonte
     .accesskey = e
+places-view-sortby-last-modified =
+    .label = Met in ordin par ultin modificât
+    .accesskey = M
 places-view-sortby-tags =
     .label = Met in ordin par etichete
     .accesskey = T
@@ -218,6 +245,8 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Va indevant
 places-details-pane-select-an-item-description = Sielç un element par visualizâlu e modificâ lis sôs proprietâts
+places-details-pane-no-items =
+    .value = Nissun element
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
@@ -232,6 +261,11 @@ places-details-pane-items-count =
 
 places-search-bookmarks =
     .placeholder = Cîr tai segnelibris
+places-search-history =
+    .placeholder = Cîr te cronologjie
+places-search-downloads =
+    .placeholder = Cîr tai discjamâts
 
 ##
 
+places-locked-prompt = Il sisteme di segnelibris e cronologjie nol funzionarà parcè che une altre aplicazion e sta doprant un dai files di { -brand-short-name }.  Cierts programs di sigurece a puedin causâ chest probleme.
