@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Hape në Dritare të Re Private
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (E zbrazët)
 places-add-bookmark =
     .label = Shtoni Faqerojtës…
     .accesskey = F
@@ -82,6 +84,15 @@ places-delete-folder =
            *[other] Fshiji Dosjet
         }
     .accesskey = F
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Fshije Faqen
+           *[other] Fshiji Faqet
+        }
+    .accesskey = F
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Faqerojtës të administruar
@@ -103,6 +114,15 @@ places-delete-bookmark =
            *[other] Fshiji Faqerojtësit
         }
     .accesskey = F
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Faqeruani Faqe…
+           *[other] Faqeruani Faqen…
+        }
+    .accesskey = F
 places-untag-bookmark =
     .label = Hiqe Etiketën
     .accesskey = H
@@ -120,9 +140,6 @@ places-forget-about-this-site-forget = Harroje
 places-library =
     .title = Arkiv
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Arkiv
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Arkiv
 places-organize-button =
@@ -198,6 +215,27 @@ places-view-sort-col-date-added =
     .label = Shtuar më
 places-view-sort-col-last-modified =
     .label = Ndryshuar Së Fundi Më
+places-view-sortby-name =
+    .label = Renditi sipas Emrash
+    .accesskey = E
+places-view-sortby-url =
+    .label = Renditi sipas Vendndodhjesh
+    .accesskey = V
+places-view-sortby-date =
+    .label = Renditi sipas Vizitës Më të Freskët
+    .accesskey = F
+places-view-sortby-visit-count =
+    .label = Renditi sipas Numrash Vizite
+    .accesskey = N
+places-view-sortby-date-added =
+    .label = Renditi sipas Shtimesh
+    .accesskey = S
+places-view-sortby-last-modified =
+    .label = Renditi sipas Ndryshuar së Fundi Më
+    .accesskey = U
+places-view-sortby-tags =
+    .label = Renditi sipas Etiketash
+    .accesskey = K
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -205,3 +243,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Vazhdoni përpara
 places-details-pane-select-an-item-description = Përzgjidhni një objekt për ta parë dhe për t&i përpunuar vetitë
+places-details-pane-no-items =
+    .value = Pa objekte
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Një objekt
+           *[other] { $count } objekte
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Kërkoni Te Faqerojtësit
+places-search-history =
+    .placeholder = Kërko Në Historik
+places-search-downloads =
+    .placeholder = Kërko te Shkarkimet
+
+##
+
+places-locked-prompt = Sistemi i faqerojtësve dhe historikut nuk do të jetë funksional, ngaqë një nga kartelat e { -brand-short-name }-it është duke u përdorur nga një aplikacion tjetër. Ky problem mund të shkaktohet nga disa programe sigurie.
