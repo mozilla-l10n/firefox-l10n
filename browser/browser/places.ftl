@@ -200,6 +200,15 @@ places-forward-button =
 places-details-pane-select-an-item-description = Odaberi stavku za pregled i uređivanje njenih svojstava
 places-details-pane-no-items =
     .value = Nema stavaka
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] { $count } stavka
+            [few] { $count } stavke
+           *[other] { $count } stavaka
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
