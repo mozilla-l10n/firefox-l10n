@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (titl ebet)
 places-bookmarks-backup-title = Restr gwared ar sinedoù
 places-bookmarks-restore-alert-title = Tuginañ ar sinedoù
+places-bookmarks-restore-alert = Lakaet e vo ar gwared e-lec'h ho sinedoù bremanel holl. Ha sur oc'h?
 places-bookmarks-restore-title = Diuzañ ur gwared sinedoù
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Rizh restr anskoret
