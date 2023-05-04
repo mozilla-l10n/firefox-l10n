@@ -140,3 +140,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Izimpawu zokubekisa nohlelo lomlando ngeke zisebenze ngoba ifayela elilodwa le-{ -brand-short-name } lisetshenziswa ngolunye uhlelokusebenza. Amanye amasofthiwe wokuvikeleka angabangela le nkinga.
