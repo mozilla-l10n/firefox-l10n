@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Opna í nýjum huliðsglugga
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Tómt)
 places-add-bookmark =
     .label = Bæta við bókamerki…
     .accesskey = B
@@ -122,9 +124,6 @@ places-forget-about-this-site-forget = Gleyma
 places-library =
     .title = Safn
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Safn
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Safn
 places-organize-button =
@@ -207,3 +206,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Fara áfram
 places-details-pane-select-an-item-description = Veldu hlut til að skoða og breyta
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Leita í bókamerkjum
+places-search-history =
+    .placeholder = Leitarsaga
+
+##
+
