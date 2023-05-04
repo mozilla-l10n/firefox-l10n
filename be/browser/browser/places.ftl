@@ -124,9 +124,6 @@ places-forget-about-this-site-forget = Забыць
 places-library =
     .title = Бібліятэка
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Бібліятэка
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Бібліятэка
 places-organize-button =
@@ -209,3 +206,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Пайсці наперад
 places-details-pane-select-an-item-description = Абярыце элемент для прагляду і праўкі яго ўласцівасцяў
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Пошук закладак
+places-search-history =
+    .placeholder = Шукаць у гісторыі
+
+##
+
