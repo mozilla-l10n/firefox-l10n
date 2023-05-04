@@ -216,6 +216,8 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Caută în marcaje
 places-search-history =
     .placeholder = Caută în istoric
 places-search-downloads =
