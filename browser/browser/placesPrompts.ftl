@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (bez naslova)
+places-bookmarks-restore-alert-title = Vrati zabilješke
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Nepodržani tip datoteke.
 places-bookmarks-restore-parse-error = Nije moguće procesuirati datoteku.
