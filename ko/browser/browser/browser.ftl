@@ -726,8 +726,8 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] 북마크 탐색창 숨기기
-           *[other] 북마크 탐색창 보기
+            [true] 북마크 사이드바 숨기기
+           *[other] 북마크 사이드바 표시
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =

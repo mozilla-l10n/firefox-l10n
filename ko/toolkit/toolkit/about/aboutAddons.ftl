@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = 검색
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain }</a>에서 확장 기능 및 테마 받기
 list-empty-get-dictionaries-message = <a data-l10n-name="get-extensions">{ $domain }</a>에서 사전 받기
 list-empty-get-language-packs-message = <a data-l10n-name="get-extensions">{ $domain }</a>에서 언어 팩 받기
+
+##
+
 list-empty-installed =
     .value = 설치한 부가 기능이 없음
 list-empty-available-updates =
@@ -143,7 +150,7 @@ addon-category-sitepermission-title =
     .title = 사이트 권한
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = { $host }에 대한 사이트 권한
 
 ## These are global warnings
@@ -207,7 +214,7 @@ shortcuts-input =
     .placeholder = 단축키 입력
 shortcuts-browserAction2 = 도구 모음 버튼 활성화
 shortcuts-pageAction = 페이지 작업 활성화
-shortcuts-sidebarAction = 탐색창 표시/숨기기
+shortcuts-sidebarAction = 사이드바 표시/숨기기
 shortcuts-modifier-mac = Ctrl, Alt 또는 ⌘ 포함
 shortcuts-modifier-other = Ctrl 또는 Alt 포함
 shortcuts-invalid = 잘못된 조합
@@ -223,6 +230,8 @@ shortcuts-duplicate-warning-message = { $shortcut } 단축키가 여러 곳에 �
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = 이미 { $addon }에서 사용 중입니다.
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] { $numberToShow }개 더 보기
@@ -284,16 +293,9 @@ extension-enabled-heading = 사용함
 extension-disabled-heading = 사용 안 함
 theme-enabled-heading = 사용함
 theme-disabled-heading = 사용 안 함
-theme-disabled-heading2 = 저장된 테마
 theme-monochromatic-heading = 컬러웨이
 theme-monochromatic-subheading = { -brand-product-name }의 생동감 넘치는 새로운 컬러웨이입니다. 제한된 시간 동안 사용할 수 있습니다.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = 컬러웨이 체험
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = 컬러웨이 변경
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = { DATETIME($expiryDate, month: "long", day: "numeric") } 만료
+theme-disabled-heading2 = 저장된 테마
 plugin-enabled-heading = 사용함
 plugin-disabled-heading = 사용 안 함
 dictionary-enabled-heading = 사용함
@@ -377,6 +379,8 @@ addon-permissions-optional = 추가 기능에 필요한 선택 권한:
 addon-permissions-learnmore = 권한에 대해 더 알아보기
 recommended-extensions-heading = 추천 확장 기능
 recommended-themes-heading = 추천 테마
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span>에 다음 권한을 부여합니다:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -403,8 +407,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name }는 { -brand-short-name } { $version }와 호환되지 않습니다.
 details-notification-incompatible-link = 추가 정보
 details-notification-unsigned-and-disabled = { $name } 부가 기능이 { -brand-short-name }에서 확인되지 않았기 때문에 비활성화되었습니다.

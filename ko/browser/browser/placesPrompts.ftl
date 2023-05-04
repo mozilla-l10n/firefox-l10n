@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (제목 없음)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = 보안상의 이유로 "javascript:" 또는 "data:" URL은 기록 창이나 사이드바에서 로드할 수 없습니다.
 places-bookmarks-backup-title = 북마크 백업 파일 이름
 places-bookmarks-restore-alert-title = 북마크 복구
 places-bookmarks-restore-alert = 현재 북마크를 모두 백업으로 교체합니다. 계속하시겠습니까?
