@@ -204,6 +204,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Avancer
 places-details-pane-select-an-item-description = Sélectionner un élément pour afficher et modifier ses propriétés
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un élément
+           *[other] { $count } éléments
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
