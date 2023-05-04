@@ -136,10 +136,22 @@ places-forward-button =
 places-details-pane-select-an-item-description = বৈশিষ্টসমূহ চাই আৰু তাক সম্পাদন কৰিবলৈ এটা বস্তু বাছক।
 places-details-pane-no-items =
     .value = কোনো বস্তু নাই
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] এটা বস্তু
+           *[other] { $count } বস্তুবোৰ
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-history =
+    .placeholder = ইতিহাস সন্ধান কৰক
+places-search-downloads =
+    .placeholder = ডাউনল'ডসমূহ সন্ধান কৰক
 
 ##
 
