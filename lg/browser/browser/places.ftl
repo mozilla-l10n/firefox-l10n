@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Ggulirawo Byonna mu Awaddirira
     .accesskey = G
+places-empty-bookmarks-folder =
+    .label = (Kyelele)
 places-view =
     .label = Endabika
     .accesskey = a
@@ -35,9 +37,6 @@ places-sortby-name =
 places-library =
     .title = Etterekero le biwandiiko
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Etterekero le biwandiiko
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Etterekero le biwandiiko
 places-organize-button =
@@ -118,3 +117,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Weyongereyo mu maaso
 places-details-pane-select-an-item-description = Londayo ekintu nga bw'okirongoosamu
+places-details-pane-no-items =
+    .value = Tewali bintu
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Noonya Obulambe
+places-search-history =
+    .placeholder = Noonya Ebyaffayo
+
+##
+
