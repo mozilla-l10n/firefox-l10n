@@ -41,9 +41,6 @@ places-sortby-name =
 places-library =
     .title = Libraia
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Libraia
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Libraia
 places-organize-button =
@@ -126,3 +123,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Vanni avanti
 places-details-pane-select-an-item-description = Seleçionn-a un ògetto pe vedde e modificâ e propietæ
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
