@@ -256,6 +256,8 @@ places-search-bookmarks =
     .placeholder = Nadi ticraḍ n isebtar
 places-search-history =
     .placeholder = Nadi deg umazray
+places-search-downloads =
+    .placeholder = Nadi deg isadaren
 
 ##
 
