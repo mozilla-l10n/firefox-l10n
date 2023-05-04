@@ -130,6 +130,17 @@ places-forward-button =
 places-details-pane-select-an-item-description = Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar
 places-details-pane-no-items =
     .value = Dada
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Rud amháin
+            [two] { $count } rud
+            [few] { $count } rud
+            [many] { $count } rud
+           *[other] { $count } rud
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
