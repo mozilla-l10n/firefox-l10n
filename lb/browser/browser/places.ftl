@@ -5,6 +5,8 @@
 places-open =
     .label = Opmaachen
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (Eidel)
 places-by-date =
     .label = No Datum
     .accesskey = D
@@ -16,9 +18,6 @@ places-history =
 places-library =
     .title = Bibliothéik
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Bibliothéik
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Bibliothéik
 places-organize-button =
@@ -58,3 +57,16 @@ places-view-sort-col-name =
     .label = Numm
 places-view-sort-col-last-modified =
     .label = Zulescht geännert
+places-view-sortby-name =
+    .label = Zortéieren nom Numm
+    .accesskey = N
+places-view-sortby-url =
+    .label = Zortéieren no der Adress
+    .accesskey = L
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
