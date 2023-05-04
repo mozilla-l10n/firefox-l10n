@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Jxuka kaskhewujnxite çehk phaden
     .accesskey = J
+places-empty-bookmarks-folder =
+    .label = (Txihpamee)
 places-view =
     .label = Thegna
     .accesskey = T
@@ -37,9 +39,6 @@ places-sortby-name =
 places-library =
     .title = Paynxisa
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Paynxisa
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Paynxisa
 places-organize-button =
@@ -115,6 +114,27 @@ places-view-sort-col-date-added =
     .label = Kãjanxisa
 places-view-sort-col-last-modified =
     .label = Nmehte yu'thewa'hsaa
+places-view-sortby-name =
+    .label = Yase isa phewuhn
+    .accesskey = Y
+places-view-sortby-url =
+    .label = Phewuhn txisa'h
+    .accesskey = t
+places-view-sortby-date =
+    .label = Phewuhn nawẽ pahn thakwe u'seh
+    .accesskey = p
+places-view-sortby-visit-count =
+    .label = Phewuhn txa'wẽ txakwetey pahna ũ'sçxa
+    .accesskey = t
+places-view-sortby-date-added =
+    .label = Eentxi thegçx phewuhn
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Nmehj thegçxa phewun
+    .accesskey = p
+places-view-sortby-tags =
+    .label = Nawẽ txi'pnxi's thegçxa phewuhn
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -122,3 +142,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Yaçuhj uhjnah
 places-details-pane-select-an-item-description = Mtxitx vxite kãjanxisa txã'nxuçxa fxi'hjya ewuna petxjĩtxih
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Pa'kwen txi'pupnxisa's
+places-search-history =
+    .placeholder = Pakwen
+places-search-downloads =
+    .placeholder = Spatxnxitx pa'kwen
+
+##
+
