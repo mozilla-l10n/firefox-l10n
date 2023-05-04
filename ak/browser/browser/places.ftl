@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Bue No Nyinara wɔ Ntab mu
     .accesskey = o
+places-empty-bookmarks-folder =
+    .label = (Hwee)
 places-view =
     .label = Hwɛ
     .accesskey = w
@@ -37,9 +39,6 @@ places-sortby-name =
 places-library =
     .title = Nwomasuabea
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Nwomasuabea
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Nwomasuabea
 places-organize-button =
@@ -120,3 +119,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Kɔ enim
 places-details-pane-select-an-item-description = Fa aetɛm, hwɛ na sesa ne ho nsɛm
+places-details-pane-no-items =
+    .value = Neɛma biara nni hɔ
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Hwehwɛ Mbukmaak
+places-search-history =
+    .placeholder = Hwehwɛ Abakɔsɛm
+
+##
+
