@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (ಯಾವುದೆ ಶೀರ್ಷಿಕೆಯಿಲ್ಲ)
+places-bookmarks-backup-title = ಬುಕ್‌ಮಾರ್ಕುಗಳ ಬ್ಯಾಕ್ಅಪ್ ಕಡತದ ಹೆಸರು
 places-bookmarks-restore-alert-title = ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು
 places-bookmarks-restore-alert = ಇದು ನಿಮ್ಮ ಈಗಿನ ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಬ್ಯಾಕ್ಅಪ್‌ನಿಂದ ಬದಲಾಯಿಸುತ್ತದೆ. ನೀವು ಖಚಿತವಾಗಿಯೂ ಹೀಗೆ ಮಾಡಲು ಬಯಸುತ್ತೀರೆ?
 places-bookmarks-restore-title = ಒಂದು ಬುಕ್‌ಮಾರ್ಕುಗಳ ಬ್ಯಾಕ್ಅಪ್ ಅನ್ನು ಆರಿಸು
