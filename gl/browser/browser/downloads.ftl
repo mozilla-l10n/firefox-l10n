@@ -96,6 +96,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Borrar as descargas
     .accesskey = d
+downloads-cmd-delete-file =
+    .label = Eliminar
+    .accesskey = E
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Permitir a descarga
@@ -170,7 +173,7 @@ downloads-cancel-download =
 downloads-history =
     .label = Amosar todas as descargas
     .accesskey = s
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalles da descarga
