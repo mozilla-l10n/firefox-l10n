@@ -5,51 +5,50 @@
 places-open =
     .label = Xhal la
     .accesskey = X
-
 places-view =
     .label = N-wíɁ
     .accesskey = w
-
 places-file-close =
     .label = TòɁw
     .accesskey = T
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = Mbwíʔ
     .tooltiptext = Zè kó mbwíʔ
     .accesskey = w
-
 places-view-button-mac =
     .label = Mbwíʔ
     .tooltiptext = Zè kó mbwíʔ
-
 places-cmd-backup =
     .label = M-bì~rè...
     .accesskey = M
-
 places-cmd-restore =
     .label = Bí~rè là kíy
     .accesskey = r
-
 places-cmd-restore-from-file =
     .label = Mxhen na...
     .accesskey = M
-
 places-view-sort-col-name =
     .label = Xha mud leel
-
 places-view-sort-col-url =
     .label = Paa duuy
-
 places-view-sort-col-date-added =
     .label = M-tòb
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = M-bì~rè
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = KwàɁn ndó~làz=ná
+places-search-history =
+    .placeholder = Kuan ko güil
+places-search-downloads =
+    .placeholder = Kuan ko blal
+
+##
 
