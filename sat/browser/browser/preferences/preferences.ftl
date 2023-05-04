@@ -665,12 +665,35 @@ content-blocking-tracking-content-label =
 content-blocking-tracking-protection-option-all-windows =
     .label = ᱡᱷᱚᱛᱚ ᱡᱷᱚᱨᱠᱟ ᱨᱮ
     .accesskey = A
+content-blocking-option-private =
+    .label = ᱠᱷᱟᱹᱞᱤ ᱱᱤᱡᱚᱨ ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = ᱟᱠᱚᱴ ᱞᱤᱥᱴᱤ ᱵᱚᱫᱚᱞ ᱢᱮ
+content-blocking-cookies-label =
+    .label = ᱠᱩᱠᱤᱡᱽᱠᱚ
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = ᱠᱨᱭᱯᱴᱚᱢᱟᱭᱱᱟᱹᱨ ᱠᱚ
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = ᱠᱟᱹᱴᱩᱵᱪᱷᱟᱯᱟ ᱟᱜ
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
+permissions-header = ᱪᱷᱟᱹᱰ ᱠᱚ
+permissions-location = ᱡᱟᱭᱜᱟ
+permissions-location-settings =
+    .label = ᱥᱟᱡᱟᱣᱠᱚ…
+    .accesskey = t
 permissions-microphone-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = t
