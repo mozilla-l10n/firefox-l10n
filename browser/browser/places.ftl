@@ -91,6 +91,15 @@ places-delete-folder =
            *[other] Dileu Ffolder
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Dileu Tudalen
+           *[other] Dileu Tudalennau
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Nodau Tudalen wedi'u rheoli
@@ -239,6 +248,18 @@ places-forward-button =
 places-details-pane-select-an-item-description = Dewis eitem i'w gweld a golygu ei phriodweddau
 places-details-pane-no-items =
     .value = Dim eitemau
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [zero] Dim eitemau
+            [one] { $count }eitem
+            [two] { $count }eitem
+            [few] { $count }eitem
+            [many] { $count }eitem
+           *[other] { $count }eitem
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
