@@ -210,6 +210,10 @@ places-details-pane-no-items =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = ค้นหาที่คั่นหน้า
+places-search-history =
+    .placeholder = ค้นหาประวัติ
 places-search-downloads =
     .placeholder = ค้นหาการดาวน์โหลด
 
