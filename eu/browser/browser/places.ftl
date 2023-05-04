@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Ireki lotura leiho pribatu berrian
     .accesskey = t
+places-empty-bookmarks-folder =
+    .label = (Hutsa)
 places-add-bookmark =
     .label = Gehitu laster-marka…
     .accesskey = G
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = Ahaztu
 places-library =
     .title = Biltegia
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biltegia
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biltegia
 places-organize-button =
@@ -205,3 +204,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Joan aurrera
 places-details-pane-select-an-item-description = Hautatu elementu bat bere propietateak ikusi eta editatzeko
+places-details-pane-no-items =
+    .value = Elementurik ez
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Bilatu laster-markak
+places-search-history =
+    .placeholder = Bilatu historia
+
+##
+
