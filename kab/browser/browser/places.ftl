@@ -118,6 +118,15 @@ places-delete-bookmark =
            *[other] Kkes ticraḍ n yisebtar
         }
     .accesskey = K
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Creḍ asebter…
+           *[other] Ticraḍ n isebtar…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Kkes tabzimt
     .accesskey = K
