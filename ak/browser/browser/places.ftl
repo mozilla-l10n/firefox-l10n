@@ -142,3 +142,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Mbukmaak ne abakɔsɛm sestɛm no rennyɛ edwuma efiri sɛ aplekehyɛn foforo de { -brand-short-name } ne mfael redi dwuma. Sikuriti sɔftwɛɛ bi tumi de ɔhaw yi ba.
