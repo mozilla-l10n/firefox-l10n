@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Slet mapper
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Slet side
+           *[other] Slet sider
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerede bogmærker
@@ -197,6 +206,27 @@ places-view-sort-col-date-added =
     .label = Tilføjet
 places-view-sort-col-last-modified =
     .label = Sidst ændret
+places-view-sortby-name =
+    .label = Sorter efter navn
+    .accesskey = n
+places-view-sortby-url =
+    .label = Sorter efter adresse
+    .accesskey = d
+places-view-sortby-date =
+    .label = Sorter efter seneste besøg
+    .accesskey = b
+places-view-sortby-visit-count =
+    .label = Sorter efter antal besøg
+    .accesskey = a
+places-view-sortby-date-added =
+    .label = Sorter efter tilføjet
+    .accesskey = t
+places-view-sortby-last-modified =
+    .label = Sorter efter senest ændret
+    .accesskey = æ
+places-view-sortby-tags =
+    .label = Sorter efter mærkater
+    .accesskey = m
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -227,3 +257,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Bogmærker og historik vil ikke virke, da en  { -brand-short-name }-fil er i brug af et andet program. Visse sikkerhedsprogrammer kan være skyld i dette.
