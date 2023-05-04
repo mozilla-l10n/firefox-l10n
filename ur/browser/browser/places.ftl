@@ -62,6 +62,15 @@ places-edit-bookmark =
 places-edit-generic =
     .label = تدوین کریں…
     .accesskey = i
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] صفحہ حذف کریں
+           *[other] صفحات حذف کریں
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = بک مارکس منظم کریں
