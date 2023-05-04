@@ -206,6 +206,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Hautatu elementu bat bere propietateak ikusi eta editatzeko
 places-details-pane-no-items =
     .value = Elementurik ez
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Elementu bat
+           *[other] { $count } elementu
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -214,6 +222,8 @@ places-search-bookmarks =
     .placeholder = Bilatu laster-markak
 places-search-history =
     .placeholder = Bilatu historia
+places-search-downloads =
+    .placeholder = Bilatu deskargak
 
 ##
 
