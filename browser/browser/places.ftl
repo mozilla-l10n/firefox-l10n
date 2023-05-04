@@ -114,6 +114,27 @@ places-view-sort-col-date-added =
     .label = Bygevoeg
 places-view-sort-col-last-modified =
     .label = Laas gewysig
+places-view-sortby-name =
+    .label = Rangskik volgens naam
+    .accesskey = n
+places-view-sortby-url =
+    .label = Rangskik volgens ligging
+    .accesskey = l
+places-view-sortby-date =
+    .label = Rangskik volgens onlangsste besoek
+    .accesskey = b
+places-view-sortby-visit-count =
+    .label = Rangskik volgens besoekertelling
+    .accesskey = t
+places-view-sortby-date-added =
+    .label = Rangskik volgens byvoegdatum
+    .accesskey = d
+places-view-sortby-last-modified =
+    .label = Rangskik volgens laas gewysig
+    .accesskey = w
+places-view-sortby-tags =
+    .label = Rangskik volgens merkers
+    .accesskey = m
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -144,3 +165,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Die boekmerk-en-geskiedenisstelsel sal nie werk nie want een van { -brand-short-name } se lêers word deur 'n ander toepassing gebruik. Party sekuriteitsprogramme kan dit veroorsaak.
