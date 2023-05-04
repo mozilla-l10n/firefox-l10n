@@ -19,6 +19,7 @@ policy-FirefoxHome2 = { -firefox-home-brand-name } ᱥᱟᱹᱛ ᱢᱮ ᱾
 
 ##
 
+policy-NewTabPage = ᱱᱟᱣᱟ ᱴᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱮᱢ ᱢᱮ ᱟᱨᱵᱟᱝ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 ᱢᱚᱰᱭᱩᱞ ᱠᱚ ᱦᱚᱦᱟᱞ ᱢᱮ ᱾
 policy-ShowHomeButton = ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱟᱨ ᱨᱮ ᱚᱲᱟᱜ ᱵᱩᱛᱟᱹᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾

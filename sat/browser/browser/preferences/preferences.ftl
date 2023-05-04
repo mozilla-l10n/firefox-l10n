@@ -34,7 +34,16 @@ category-privacy =
 pane-sync-title3 = ᱥᱭᱝᱠ
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = { -brand-short-name } ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱥ ᱠᱚ
+category-experimental =
+    .tooltiptext = { -brand-short-name } ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱥ ᱠᱚ
+pane-experimental-subtitle = ᱦᱩᱥᱤᱭᱟᱹᱨ ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
+pane-experimental-search-results-header = { -brand-short-name } ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱥ ᱠᱚ ᱺ ᱦᱩᱥᱤᱭᱟᱹᱨ ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
+pane-experimental-reset =
+    .label = ᱢᱩᱞ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
+    .accesskey = R
 help-button-label = { -brand-short-name } ᱜᱚᱲᱚ
+addons-button-label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ
 focus-search =
     .key = f
 close-button =
@@ -70,9 +79,25 @@ restart-later = ᱛᱟᱭᱚᱢ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱡᱷᱟᱣ ᱠᱚ ᱠᱚᱵᱡᱟᱭᱟᱭ ᱾
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱡᱷᱟᱣ ᱠᱚ ᱠᱚᱵᱡᱟᱭᱟᱭ ᱾
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱵᱟᱹᱴᱤ ᱴᱮᱵᱽ ᱫᱟᱨᱠᱟᱨ ᱛᱟᱭᱟ ᱾
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱡᱷᱟᱣ ᱠᱚ ᱠᱚᱵᱡᱟᱭᱟᱭ ᱾
 
 ## Preferences UI Search Results
 
+search-results-header = ᱥᱮᱸᱫᱽᱨᱟ ᱛᱮᱞᱟ ᱠᱚ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = ᱤᱠᱟᱹ! ᱥᱟᱡᱟᱣ ᱨᱮ ᱫᱚ “<span data-l10n-name="query"></span>” ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱛᱟᱞᱟ ᱜᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
+search-results-help-link = ᱜᱚᱲᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ? <a data-l10n-name="url">{ -brand-short-name } ᱜᱚᱲᱚ</a> ᱧᱮᱞ ᱢᱮ
 
 ## General Section
 
@@ -99,6 +124,20 @@ containers-remove-cancel-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱟᱞ�
 
 ## General Section - Language & Appearance
 
+preferences-web-appearance-choice-system = ᱥᱭᱥᱴᱟᱹᱢ ᱛᱷᱮᱢ
+preferences-web-appearance-choice-auto = ᱟᱡ ᱛᱮ
+preferences-web-appearance-choice-light = ᱢᱟᱨᱥᱟᱞ
+preferences-web-appearance-choice-dark = ᱧᱩᱛ
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 default-font-size = ᱢᱟᱯ
     .accesskey = S
 advanced-fonts =
