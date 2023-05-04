@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (sen título)
 places-bookmarks-backup-title = Nome do ficheiro de copia de seguranza dos marcadores
 places-bookmarks-restore-alert-title = Reverter marcadores
+places-bookmarks-restore-alert = Esta acción substituirá os marcadores polos da copia de seguranza. Ten a certeza de querer facelo?
 places-bookmarks-restore-title = Seleccione unha copia de seguranza dos marcadores
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Tipo de ficheiro non compatíbel.
