@@ -227,6 +227,7 @@ cfr-cbh-dismiss-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 july-jam-headline = ᱟᱞᱮ ᱟᱯᱮᱭᱟᱜ ᱡᱚᱛᱱᱟ ᱞᱮ ᱤᱫᱤ ᱟᱠᱟᱫᱼᱟ
 fox-doodle-pin-headline = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+fox-doodle-pin-primary = { -brand-short-name } ᱥᱟᱶ ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 fox-doodle-pin-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment

@@ -16,6 +16,10 @@ origin-controls-option-when-clicked =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-hover-run-visit-only = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
+origin-controls-state-runnable-hover-open = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+origin-controls-state-runnable-hover-run = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
+origin-controls-state-temporary-access = ᱱᱚᱶᱟ ᱦᱤᱨᱤ ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
 
 ## Extension's toolbar button.
 ## Variables:

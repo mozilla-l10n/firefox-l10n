@@ -61,6 +61,8 @@ mr1-onboarding-welcome-image-caption = ᱥᱚᱨᱟᱭᱟ ᱳᱥᱚᱨᱤᱭᱚ 
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator-label =
+    .aria-label = ᱞᱟᱦᱟ: ᱪᱟᱹᱞ { $total } ᱠᱷᱚᱱ { $current }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ᱮᱱᱤᱢᱮᱥᱚᱱ ᱠᱚ ᱵᱚᱸᱫ ᱢᱮ
 
@@ -324,3 +326,5 @@ mr2022-onboarding-default-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-title = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!
+onboarding-device-migration-primary-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
