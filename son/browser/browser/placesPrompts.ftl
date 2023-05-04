@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (bila nda maa)
 places-bookmarks-backup-title = Doo-šilbay banda-gaabu tukumaa
 places-bookmarks-restore-alert-title = Doo-šilbawey yeeti
 places-bookmarks-restore-alert = Woo ga war sohõda doo-šilbawey kul barmay nda banda-gaaboo. War ga alhakiika woo ga?
