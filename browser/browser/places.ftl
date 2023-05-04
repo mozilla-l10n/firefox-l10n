@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Suprimir los dossièrs
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Suprimir la pagina
+           *[other] Suprimir la pagina
+        }
+    .accesskey = u
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcapaginas constrenches
@@ -107,6 +116,15 @@ places-delete-bookmark =
            *[other] Suprimir los marcapaginas
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Apondre la pagina als marcapaginas…
+           *[other] Apondre las paginas als marcapaginas…
+        }
+    .accesskey = A
 places-untag-bookmark =
     .label = Tirar l’etiqueta
     .accesskey = T
@@ -202,12 +220,24 @@ places-view-sort-col-last-modified =
 places-view-sortby-name =
     .label = Triar per nom
     .accesskey = n
+places-view-sortby-url =
+    .label = Triar per emplaçament
+    .accesskey = e
+places-view-sortby-date =
+    .label = Triat de la darrièra visita
+    .accesskey = v
 places-view-sortby-visit-count =
     .label = Triar per nombre de visitas
     .accesskey = n
+places-view-sortby-date-added =
+    .label = Triada per data d'apondon
+    .accesskey = a
 places-view-sortby-last-modified =
     .label = Triar per data de darrièra modificacion
     .accesskey = m
+places-view-sortby-tags =
+    .label = Triar per balisas
+    .accesskey = b
 places-cmd-find-key =
     .key = F
 places-back-button =
