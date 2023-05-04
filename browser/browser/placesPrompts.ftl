@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (ไม่มีชื่อเรื่อง)
 places-bookmarks-backup-title = ชื่อไฟล์สำรองข้อมูลที่คั่นหน้า
 places-bookmarks-restore-alert-title = คืนที่คั่นหน้ากลับ
+places-bookmarks-restore-alert = สิ่งนี้จะแทนที่ที่คั่นหน้าปัจจุบันทั้งหมดของคุณด้วยข้อมูลสำรอง คุณแน่ใจหรือไม่?
 places-bookmarks-restore-title = เลือกที่คั่นหน้าที่สำรองไว้
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = ชนิดไฟล์ที่ไม่รองรับ
