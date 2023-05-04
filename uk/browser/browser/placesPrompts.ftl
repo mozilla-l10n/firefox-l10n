@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (без назви)
+places-bookmarks-backup-title = Назва резервної копії закладок
 places-bookmarks-restore-alert-title = Повернути закладки
 places-bookmarks-restore-alert = Це замінить всі ваші поточні закладки резервною копією. Ви певні?
 places-bookmarks-restore-title = Оберіть резервну копію закладок

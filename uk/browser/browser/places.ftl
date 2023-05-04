@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Відкрити в приватному вікні
     .accesskey = п
+places-empty-bookmarks-folder =
+    .label = (Порожньо)
 places-add-bookmark =
     .label = Додати закладку…
     .accesskey = з
@@ -83,6 +85,15 @@ places-delete-folder =
            *[many] Видалити теки
         }
     .accesskey = л
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Видалити сторінку
+           *[other] Видалити сторінки
+        }
+    .accesskey = В
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Керовані закладки
@@ -249,8 +260,12 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Шукати в закладках
 places-search-history =
     .placeholder = Шукати в історії
+places-search-downloads =
+    .placeholder = Шукати в завантаженнях
 
 ##
 
