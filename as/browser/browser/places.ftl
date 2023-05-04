@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = সকলোক টেবত খোলক
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (ৰিক্ত)
 places-view =
     .label = দৰ্শন কৰক
     .accesskey = w
@@ -50,9 +52,6 @@ other-bookmarks-folder =
 places-library =
     .title = লাইব্ৰেৰী
     .style = width:700px; height:500px;
-places-library2 =
-    .title = লাইব্ৰেৰী
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = লাইব্ৰেৰী
 places-organize-button =
@@ -135,3 +134,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = আগলৈ যাওক
 places-details-pane-select-an-item-description = বৈশিষ্টসমূহ চাই আৰু তাক সম্পাদন কৰিবলৈ এটা বস্তু বাছক।
+places-details-pane-no-items =
+    .value = কোনো বস্তু নাই
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
