@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] საქაღალდეების წაშლა
         }
     .accesskey = წ
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] გვერდის წაშლა
+           *[other] გვერდების წაშლა
+        }
+    .accesskey = წ
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = გამართული სანიშნები
@@ -197,6 +206,24 @@ places-view-sort-col-date-added =
     .label = დამატების თარიღი
 places-view-sort-col-last-modified =
     .label = ბოლო ცვლილება
+places-view-sortby-name =
+    .label = სახელით დალაგება
+    .accesskey = ს
+places-view-sortby-url =
+    .label = მისამართით დალაგება
+    .accesskey = მ
+places-view-sortby-visit-count =
+    .label = ნახვების რაოდენობით დალაგება
+    .accesskey = რ
+places-view-sortby-date-added =
+    .label = დამატების თარიღით დალაგება
+    .accesskey = დ
+places-view-sortby-last-modified =
+    .label = ბოლო ცვლილებებით დალაგება
+    .accesskey = ც
+places-view-sortby-tags =
+    .label = ჭდეებით დალაგება
+    .accesskey = ჭ
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -206,12 +233,25 @@ places-forward-button =
 places-details-pane-select-an-item-description = შეარჩიეთ ერთეული მისი პარამეტრების სანახავად და ჩასასწორებლად
 places-details-pane-no-items =
     .value = ელემენტები არაა
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ერთი ცალი
+           *[other] { $count } ცალი
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = სანიშნების ძიება
+places-search-history =
+    .placeholder = ძიება ისტორიაში
 places-search-downloads =
     .placeholder = ჩამოტვირთვების ძიება
 
 ##
 
+places-locked-prompt = სანიშნებისა და ისტორიის სიტემა ვერ იმუშავებს, რადგან ერთ-ერთი { -brand-short-name } ფაილი სხვა პროგრამის მიერ გამოიყენება. ამის მიზეზი შესაძლოა უსაფრთხოების ზოგიერთი პროგრამა იყოს.
