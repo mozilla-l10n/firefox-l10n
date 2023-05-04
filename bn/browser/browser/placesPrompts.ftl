@@ -11,4 +11,5 @@ places-bookmarks-restore-title = একটি বুকমার্ক ব্য
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = অসমর্থিত ধরনের ফাইল।
 places-bookmarks-restore-parse-error = ব্যাকআপ ফাইল প্রক্রিয়াকরণে ব্যর্থ।
+places-bookmarks-import = বুকমার্ক ফাইল আমদানি করুন
 places-bookmarks-export = বুকমার্ক ফাইল এক্সপোর্ট করা হবে
