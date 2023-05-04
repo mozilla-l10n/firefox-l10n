@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Open almal in oortjies
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (Leeg)
 places-view =
     .label = Bekyk
     .accesskey = k
@@ -37,9 +39,6 @@ places-sortby-name =
 places-library =
     .title = Biblioteek
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteek
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteek
 places-organize-button =
@@ -122,3 +121,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Gaan vorentoe
 places-details-pane-select-an-item-description = Kies 'n item om sy eienskappe te kyk en te redigeer
+places-details-pane-no-items =
+    .value = Geen items nie
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Deursoek boekmerke
+places-search-history =
+    .placeholder = Deursoek geskiedenis
+
+##
+
