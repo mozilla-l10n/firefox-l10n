@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Digeriñ e-barzh ur prenestr merdeiñ prevez nevez
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Goullo)
 places-add-bookmark =
     .label = Ouzhpennañ ur sined…
     .accesskey = s
@@ -122,9 +124,6 @@ places-forget-about-this-site-forget = Ankouaat
 places-library =
     .title = Levraoueg
     .style = width:700px; height:470px;
-places-library2 =
-    .title = Levraoueg
-    .style = min-width:700px; min-height:470px;
 places-library3 =
     .title = Levraoueg
 places-organize-button =
@@ -207,3 +206,18 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Mont war-raok
 places-details-pane-select-an-item-description = Diuzañ an ergorenn evit gwelout he ferzhioù
+places-details-pane-no-items =
+    .value = Ergorenn ebet
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Klask er sinedoù
+places-search-history =
+    .placeholder = Klask er roll istor
+places-search-downloads =
+    .placeholder = Klask er pellgargadurioù
+
+##
+
