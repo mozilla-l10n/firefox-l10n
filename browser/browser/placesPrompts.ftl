@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (žadyn titul)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Z přičinow wěstoty njedadźa so URL „javascript:“ abo „data:“ z wokna historije abo bóčnicy čitać.
 places-bookmarks-backup-title = Datajowe mjeno za zawěsćenje zapołožkow
 places-bookmarks-restore-alert-title = Zapołožki wobnowić
 places-bookmarks-restore-alert = To naruna wšě z wašich zapołožkow přez zawěsćene. Chceće to woprawdźe činić?
