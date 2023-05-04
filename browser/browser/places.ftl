@@ -157,6 +157,8 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ముందుకు వెళ్ళు
 places-details-pane-select-an-item-description = ఒక అంశము యొక్క లక్షణములను చూసుటకు మరియు సరిచేయుటకు ఎంపికచేయి
+places-details-pane-no-items =
+    .value = ఏ అంశాలు లేవు
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
@@ -172,3 +174,4 @@ places-details-pane-items-count =
 
 ##
 
+places-locked-prompt = { -brand-short-name } యొక్క ఫైళ్లు ఇతర అనువర్తనంచే ఉపయోగించబడుచున్నాయి కాబట్టి ఇష్టాంశములు, చరిత్ర భాగము పనిచెయ్యదు. కొన్ని రక్షణ సాఫ్ట్వేరు ఈ సమస్యని లగచేయవచ్చు.
