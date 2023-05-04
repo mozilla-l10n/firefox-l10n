@@ -202,6 +202,8 @@ places-back-button =
 places-forward-button =
     .tooltiptext = მომდევნოზე გადასვლა
 places-details-pane-select-an-item-description = შეარჩიეთ ერთეული მისი პარამეტრების სანახავად და ჩასასწორებლად
+places-details-pane-no-items =
+    .value = ელემენტები არაა
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
