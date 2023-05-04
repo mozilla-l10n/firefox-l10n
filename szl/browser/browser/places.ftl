@@ -234,6 +234,15 @@ places-forward-button =
 places-details-pane-select-an-item-description = Ôbier elymynt, coby pokozać i edytować jego włosności
 places-details-pane-no-items =
     .value = Żodnych elymyntōw
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] { $count } elymynt
+            [few] { $count } elymynta
+           *[many] { $count } elymyntōw
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
