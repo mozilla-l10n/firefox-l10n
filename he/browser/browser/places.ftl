@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = פתיחה בחלון פרטי חדש
     .accesskey = ט
+places-empty-bookmarks-folder =
+    .label = (ריק)
 places-add-bookmark =
     .label = הוספת סימנייה…
     .accesskey = מ
@@ -204,6 +206,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = המשך קדימה
 places-details-pane-select-an-item-description = נא לבחור פריט כדי לצפות ולערוך את המאפיינים שלו
+places-details-pane-no-items =
+    .value = אין פריטים
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] פריט אחד
+           *[other] { $count } פריטים
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
