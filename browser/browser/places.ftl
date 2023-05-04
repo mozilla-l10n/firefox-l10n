@@ -43,6 +43,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Խմբավորել ըստ անունների
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Ջնջել էջը
+           *[other] Ջնջել էջերը
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Կառավարել էջանիշները
