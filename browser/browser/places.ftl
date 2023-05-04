@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] Poista kirjanmerkit
         }
     .accesskey = r
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Lisää sivu kirjanmerkkeihin…
+           *[other] Lisää sivut kirjanmerkkeihin…
+        }
+    .accesskey = L
 places-untag-bookmark =
     .label = Poista avainsana
     .accesskey = P
