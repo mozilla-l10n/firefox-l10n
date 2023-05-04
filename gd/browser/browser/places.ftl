@@ -205,6 +205,27 @@ places-view-sort-col-date-added =
     .label = Air a chruthachadh
 places-view-sort-col-last-modified =
     .label = Atharrachadh mu dheireadh
+places-view-sortby-name =
+    .label = Seòrsaich a-rèir ainm
+    .accesskey = n
+places-view-sortby-url =
+    .label = Seòrsaich a-rèir seòlaidh
+    .accesskey = l
+places-view-sortby-date =
+    .label = Seòrsaich a-rèir an tadhail as ùire
+    .accesskey = t
+places-view-sortby-visit-count =
+    .label = Seòrsaich a-rèir uiread nan tadhal
+    .accesskey = u
+places-view-sortby-date-added =
+    .label = Seòrsaich a-rèir latha cruthachaidh
+    .accesskey = l
+places-view-sortby-last-modified =
+    .label = Seòrsaich a-rèir atharrachaidh mu dheireadh
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Seòrsaich a-rèir taga
+    .accesskey = g
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -237,3 +258,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Chan obraich na comharran-lìn is an eachdraidh a chionn ’s gu bheil aon dhe na faidhlichean aig { -brand-short-name } ’ga chleachdadh aig aplacaid eile. Èirigh an duilgheadas seo le cuid dhen bhathar-bhog tèarainteachd.
