@@ -129,6 +129,8 @@ places-details-pane-select-an-item-description = কোনো বস্তু �
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-downloads =
+    .placeholder = ডাউনলোড অনুসন্ধান করুন
 
 ##
 
