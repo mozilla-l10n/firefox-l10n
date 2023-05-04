@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = ಸೇರ್ಪಡಿಸಲಾದ
 places-view-sort-col-last-modified =
     .label = ಕೊನೆಯ ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ
+places-view-sortby-name =
+    .label = ಹೆಸರಿನ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸು
+    .accesskey = N
+places-view-sortby-url =
+    .label = ಸ್ಥಳದ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸು
+    .accesskey = L
+places-view-sortby-date =
+    .label = ಅತ್ಯಂತ ಇತ್ತೀಚಿನ ಭೇಟಿಯ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸು
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ಭೇಟಿಯ ಎಣಿಕೆಯ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸು
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = ಸೇರಿಸಿದುದರ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸು
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ಕೊನೆಯದಾಗಿ ಮಾರ್ಪಡಿಸಲಾದುದರ ಮೇರೆಗೆ ವಿಂಗಡಿಸು
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ಟ್ಯಾಗ್‌ಗಳ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸು
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -148,3 +169,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = ಬುಕ್‌ಮಾರ್ಕುಗಳ ಹಾಗು ಇತಿಹಾಸ ವ್ಯವಸ್ಥೆಯು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ ಏಕೆಂದರೆ { -brand-short-name } ಕಡತಗಳಲ್ಲಿ ಒಂದು ಬೇರೆ ಅನ್ವಯಗಳಿಂದ ಬಳಸಲ್ಪಡುತ್ತಿದೆ. ಕೆಲವು ಸುರಕ್ಷತಾ ತಂತ್ರಾಂಶವು ಈ ತೊಂದರೆ ಕಾರಣವಾಗಿರಬಹುದು.
