@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (无标题)
 places-bookmarks-backup-title = 书签备份文件名
 places-bookmarks-restore-alert-title = 恢复书签
+places-bookmarks-restore-alert = 此操作将用备份的书签覆盖您当前的书签，确定？
 places-bookmarks-restore-title = 选择书签备份
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = 不支持的文件类型。
