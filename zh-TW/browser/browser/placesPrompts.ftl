@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = （無標題）
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = 為了安全上的考量，無法從瀏覽記錄視窗或側邊欄載入「javascript:」網址或「data:」開頭的網址。
 places-bookmarks-backup-title = 書籤備份檔名
 places-bookmarks-restore-alert-title = 回復書籤
 places-bookmarks-restore-alert = 這個動作會用備份資料覆蓋目前使用的所有書籤，您確定要繼續嗎？
