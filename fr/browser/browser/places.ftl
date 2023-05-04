@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Ouvrir dans une nouvelle fenêtre privée
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Vide)
 places-add-bookmark =
     .label = Ajouter un marque-page…
     .accesskey = o
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = Oublier
 places-library =
     .title = Bibliothèque
     .style = width:730px; height:500px;
-places-library2 =
-    .title = Bibliothèque
-    .style = min-width:730px; min-height:500px;
 places-library3 =
     .title = Bibliothèque
 places-organize-button =
@@ -205,3 +204,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Avancer
 places-details-pane-select-an-item-description = Sélectionner un élément pour afficher et modifier ses propriétés
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Rechercher dans les marque-pages
+
+##
+
