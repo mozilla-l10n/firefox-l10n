@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Na'nïn' dara'anj 'ngà rakïj ñanj
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (hua ni'ninj ma)
 places-view =
     .label = Gini'iaj
     .accesskey = w
@@ -38,12 +40,18 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Nagi'iaj chre' daj si yugui ma
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Dure' pajina
+           *[other] Dure' nej pajina
+        }
+    .accesskey = D
 places-library =
     .title = Dukuâ ñanj
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Dukuâ ñanj
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Dukuâ ñanj
 places-organize-button =
@@ -119,6 +127,24 @@ places-view-sort-col-date-added =
     .label = 'Ngà nuta' ma
 places-view-sort-col-last-modified =
     .label = Sa nagi'iât ne' rukù ni'inj
+places-view-sortby-name =
+    .label = Nagi'iaj chre' daj hua ma'an si yugui
+    .accesskey = N
+places-view-sortby-url =
+    .label = Nagi'iaj chre' daj nu ma
+    .accesskey = L
+places-view-sortby-date =
+    .label = Nagi'iaj chre' daj gi'iaj sun ma
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Nagi'iaj chre' daj niko guìi ni'iaj ma
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Nagi'iaj chre' ma 'ngà diu
+    .accesskey = e
+places-view-sortby-tags =
+    .label = Nagi'iaj chre' 'ngà etiketa
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -126,3 +152,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Gan’ānjt ne’ ñaan
 places-details-pane-select-an-item-description = Ganahui 'ngò elemento ni'iaj ni nagi'iât
+places-details-pane-no-items =
+    .value = Nitaj si ni'ñun'
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] 'Ngo sa raj sun'
+           *[other] { $count } sa raj sun'
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Nana'ui' sa raj sun nichrò' doj
+places-search-history =
+    .placeholder = Nana'ui' riña aché nu'
+places-search-downloads =
+    .placeholder = Na'ui' sa naduninj
+
+##
+
+places-locked-prompt = Nitaj si 'iaj sun sa na'ní sat riña gaché nut dadin' hua da'aj nej archivo { -brand-short-name }’ ni si rajsun a'ngo aplikasiôn ma. Si ruhuaj ni hua da'aj nej sa dugumi na 'iaj.
