@@ -134,6 +134,8 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Անցնել առաջ
 places-details-pane-select-an-item-description = Ընտրեք բաղադրիրը դիտելու և խմբագրելու նրա կարգավորումները
+places-details-pane-no-items =
+    .value = Չկա տարր
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
