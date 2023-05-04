@@ -197,6 +197,21 @@ places-view-sort-col-date-added =
     .label = Προσθήκη
 places-view-sort-col-last-modified =
     .label = Τελευταία τροποποίηση
+places-view-sortby-name =
+    .label = Ταξινόμηση κατά όνομα
+    .accesskey = ν
+places-view-sortby-date =
+    .label = Ταξινόμηση κατά ημερομηνία επίσκεψης
+    .accesskey = ψ
+places-view-sortby-visit-count =
+    .label = Ταξινόμηση κατά αριθμό επισκέψεων
+    .accesskey = θ
+places-view-sortby-date-added =
+    .label = Ταξινόμηση κατά σειρά προσθήκης
+    .accesskey = η
+places-view-sortby-last-modified =
+    .label = Ταξινόμηση κατά τελευταία τροποποίηση
+    .accesskey = λ
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -208,6 +223,8 @@ places-details-pane-select-an-item-description = Επιλέξτε ένα στο�
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-history =
+    .placeholder = Αναζήτηση ιστορικού
 
 ##
 
