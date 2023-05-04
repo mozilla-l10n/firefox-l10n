@@ -205,9 +205,18 @@ places-view-sortby-name =
 places-view-sortby-url =
     .label = Sortearje op Lokaasje
     .accesskey = L
+places-view-sortby-date =
+    .label = Sortearje op Meast resinte besite
+    .accesskey = B
 places-view-sortby-date-added =
     .label = Sortearje op Tafoege
     .accesskey = T
+places-view-sortby-last-modified =
+    .label = Sortearje op Lêst wizige
+    .accesskey = a
+places-view-sortby-tags =
+    .label = Sortearje op Labels
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -229,6 +238,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Blêdwizers trochsykje
+places-search-history =
+    .placeholder = Skiednis trochsykje
+places-search-downloads =
+    .placeholder = Downloads trochsykje
 
 ##
 
+places-locked-prompt = It blêdwizer- en skiednissysteem sil net funksjoneel wêze, omdat ien de bestannen fan { -brand-short-name } yn gebrûk is troch in oare applikaasje. Guon feilichheidsprogramma's kinne dit feroarsaakje.
