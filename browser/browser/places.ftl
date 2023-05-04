@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Адкрыць у новым прыватным акне
     .accesskey = п
+places-empty-bookmarks-folder =
+    .label = (Пуста)
 places-add-bookmark =
     .label = Дадаць закладку…
     .accesskey = з
@@ -116,6 +118,15 @@ places-delete-bookmark =
            *[many] Выдаленне закладак
         }
     .accesskey = В
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Зрабіць закладку…
+           *[other] Зрабіць закладкі на старонкі…
+        }
+    .accesskey = і
 places-untag-bookmark =
     .label = Выдаліць тэг
     .accesskey = В
@@ -208,6 +219,9 @@ places-view-sort-col-date-added =
     .label = Дададзена
 places-view-sort-col-last-modified =
     .label = Апошняе змяненне
+places-view-sortby-name =
+    .label = Сартаваць па назве
+    .accesskey = Н
 places-view-sortby-url =
     .label = Сартаваць па месцазнаходжанні
     .accesskey = м
@@ -233,6 +247,17 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Пайсці наперад
 places-details-pane-select-an-item-description = Абярыце элемент для прагляду і праўкі яго ўласцівасцяў
+places-details-pane-no-items =
+    .value = Няма элементаў
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] { $count } элемент
+            [few] { $count } элементы
+           *[many] { $count } элементаў
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
