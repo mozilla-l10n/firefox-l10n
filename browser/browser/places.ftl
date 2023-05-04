@@ -71,6 +71,15 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Editează…
     .accesskey = i
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Șterge pagina
+           *[other] Șterge paginile
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcaje gestionate
@@ -194,6 +203,15 @@ places-forward-button =
 places-details-pane-select-an-item-description = Selectează un element pentru a-l vedea și a-i edita proprietățile
 places-details-pane-no-items =
     .value = Niciun element
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un element
+            [few] { $count } elemente
+           *[other] { $count } de elemente
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".

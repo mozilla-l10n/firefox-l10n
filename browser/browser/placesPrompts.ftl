@@ -5,6 +5,7 @@
 places-error-title = { -brand-short-name }
 places-no-title = (fără titlu)
 places-bookmarks-backup-title = Numele fișierului cu copia de siguranță a marcajelor
+places-bookmarks-restore-alert = Acest lucru va înlocui toate marcajele actuale cu cele din copia de siguranță. Sigur vrei asta?
 places-bookmarks-restore-title = Selectează o copie de siguranță cu marcaje
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Fișierul nu este suportat.
