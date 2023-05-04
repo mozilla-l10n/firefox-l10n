@@ -148,6 +148,10 @@ places-forward-button =
 places-details-pane-select-an-item-description = ជ្រើស​ធាតុ​ដើម្បី​មើល និង​កែ​សម្រួល​លក្ខណៈ​សម្បត្តិ​របស់​វា
 places-details-pane-no-items =
     .value = គ្មាន​ធាតុ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = ធាតុ { $count }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
