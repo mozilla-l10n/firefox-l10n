@@ -206,6 +206,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Velg elementet du vil vise og redigere
 places-details-pane-no-items =
     .value = Ingen elementer
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Ett element
+           *[other] { $count } elementer
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -214,6 +222,9 @@ places-search-bookmarks =
     .placeholder = Søk i bokmerker
 places-search-history =
     .placeholder = Søk i historikk
+places-search-downloads =
+    .placeholder = Søk i nedlastinger
 
 ##
 
+places-locked-prompt = Bokmerke- og historikksystemet vil ikke virke fordi en av { -brand-short-name } sine filer er i bruk av et annet program. Noen sikkerhetsprogrammer kan forårsake dette problemet.
