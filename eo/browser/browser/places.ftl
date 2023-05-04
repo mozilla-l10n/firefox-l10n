@@ -122,9 +122,6 @@ places-forget-about-this-site-forget = Forgesi
 places-library =
     .title = Biblioteko
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteko
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteko
 places-organize-button =
@@ -207,3 +204,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Antaŭen
 places-details-pane-select-an-item-description = Elekti elementon por vidi kaj modifi ĝiajn atributojn
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
