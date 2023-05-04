@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Tijaq pa K'ak'a' Ichinan Tzuwäch
     .accesskey = I
+places-empty-bookmarks-folder =
+    .label = (Tolan)
 places-add-bookmark =
     .label = Titz'aqatisäx Yaketal…
     .accesskey = Y
@@ -193,6 +195,27 @@ places-view-sort-col-date-added =
     .label = Tz'aqatisan
 places-view-sort-col-last-modified =
     .label = Ruk'isib'äl K'exoj
+places-view-sortby-name =
+    .label = Kenuk' chi b'i'aj
+    .accesskey = b
+places-view-sortby-url =
+    .label = Tinuk' chi k'ojlem
+    .accesskey = k
+places-view-sortby-date =
+    .label = Kenuk' chi k'ak'a' tz'etoj
+    .accesskey = t
+places-view-sortby-visit-count =
+    .label = Tinuk' chi jarupe' chi tz'etoj
+    .accesskey = j
+places-view-sortby-date-added =
+    .label = Tinuk' chi ruq'ijul
+    .accesskey = q
+places-view-sortby-last-modified =
+    .label = Tinuk' chi ruk'isb'äl k'exoj
+    .accesskey = k
+places-view-sortby-tags =
+    .label = Tinuk' chi taq etal
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -200,3 +223,23 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Tib'e chuwäch
 places-details-pane-select-an-item-description = Tacha' jun ch'akulal richin natz'ët chuqa' nanük' ri taq ruch'akulal
+places-details-pane-no-items =
+    .value = Majun taq ch'akulal
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Jun ruch'akul
+           *[other] { $count } taq ruch'akul
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-downloads =
+    .placeholder = Kekanöx taq qasan
+
+##
+
+places-locked-prompt = Ri ruq'inoj natab'äl chuqa' ri taq yaketal man xkesamäj ta, ruma chi jun chi ke ri taq ruyakb'al { -brand-short-name }’s tajin nokisäx ruma jun chik chokoy. Jujun jikomal taq kema' yetikïr nikib'än re k'ayewal re'.
