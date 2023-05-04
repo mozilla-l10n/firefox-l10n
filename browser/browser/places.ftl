@@ -127,6 +127,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Одберете ставка за преглед и уредете ги нејзините својства
 places-details-pane-no-items =
     .value = Нема ставки
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Една ставка
+           *[other] { $count } ставки
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -135,6 +143,8 @@ places-search-bookmarks =
     .placeholder = Барај во обележувачите
 places-search-history =
     .placeholder = Барај во историјата
+places-search-downloads =
+    .placeholder = Пребарај ги преземањата
 
 ##
 
