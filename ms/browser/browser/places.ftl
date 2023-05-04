@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Susun Mengikut Nama
     .accesskey = n
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Buang Halaman
+           *[other] Buang Halaman
+        }
+    .accesskey = B
 places-library =
     .title = Pustaka
     .style = width:700px; height:500px;
@@ -118,6 +127,27 @@ places-view-sort-col-date-added =
     .label = Ditambah
 places-view-sort-col-last-modified =
     .label = Terakhir Diubah
+places-view-sortby-name =
+    .label = Susun mengikut Nama
+    .accesskey = N
+places-view-sortby-url =
+    .label = Susun mengikut Lokasi
+    .accesskey = L
+places-view-sortby-date =
+    .label = Susun mengikut Paling Terkini Dilawati
+    .accesskey = D
+places-view-sortby-visit-count =
+    .label = Susun mengikut Bilangan Lawatan
+    .accesskey = S
+places-view-sortby-date-added =
+    .label = Susun mengikut Ditambah
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Susun mengikut Terakhir Diubah
+    .accesskey = S
+places-view-sortby-tags =
+    .label = Susun mengikut Tag
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -125,10 +155,23 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Langkau
 places-details-pane-select-an-item-description = Pilih item untuk dipapar dan diedit sifatnya
+places-details-pane-no-items =
+    .value = Tiada item
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = { $count } item
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Cari Tandabuku
+places-search-history =
+    .placeholder = Sejarah Carian
+places-search-downloads =
+    .placeholder = Cari Muat turun
 
 ##
 
+places-locked-prompt = Tandabuku dan sistem sejarah tidak akan berfungsi kerana salah satu fail { -brand-short-name } sedang digunakan oleh aplikasi lain. Sesetengah sekuriti perisian boleh menyebabkan masalah ini.
