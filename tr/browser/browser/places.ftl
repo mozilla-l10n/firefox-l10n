@@ -208,6 +208,9 @@ places-view-sortby-url =
 places-view-sortby-date =
     .label = Son ziyarete göre sırala
     .accesskey = z
+places-view-sortby-visit-count =
+    .label = Ziyaret sayısına göre sırala
+    .accesskey = a
 places-view-sortby-date-added =
     .label = Ekleme tarihine göre sırala
     .accesskey = E
@@ -224,6 +227,8 @@ places-back-button =
 places-forward-button =
     .tooltiptext = İleriye gider
 places-details-pane-select-an-item-description = Özelliklerini görmek ve değiştirmek için bir öğe seçin
+places-details-pane-no-items =
+    .value = Öğe yok
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -237,3 +242,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = { -brand-short-name } uygulamasına ait dosyalardan biri başka bir uygulama tarafından kullanılmakta olduğundan, yer imi ve geçmiş sistemi çalışmayacak. Bazı güvenlik yazılımları bu soruna sebep olabilir.

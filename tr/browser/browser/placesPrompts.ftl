@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (başlık yok)
 places-bookmarks-backup-title = Yer imi yedeğinin dosya adı
 places-bookmarks-restore-alert-title = Eski yer imlerini getir
+places-bookmarks-restore-alert = Bu işlem tüm mevcut yer imlerinizi yedektekilerle değiştirecektir. Emin misiniz?
 places-bookmarks-restore-title = Yer imi yedeği seçin
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Desteklenmeyen dosya türü.
