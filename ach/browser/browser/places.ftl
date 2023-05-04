@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = Kimedo
 places-view-sort-col-last-modified =
     .label = Yub me agiki
+places-view-sortby-name =
+    .label = Yek ki Nying
+    .accesskey = N
+places-view-sortby-url =
+    .label = Yek ki Kabedo
+    .accesskey = K
+places-view-sortby-date =
+    .label = Yek ki Lim mukato manyen loyo
+    .accesskey = L
+places-view-sortby-visit-count =
+    .label = Yek ki Wel me Lim
+    .accesskey = W
+places-view-sortby-date-added =
+    .label = Yek ki Makimedo
+    .accesskey = k
+places-view-sortby-last-modified =
+    .label = Yek ki Yub me agiki
+    .accesskey = u
+places-view-sortby-tags =
+    .label = Yek ki Lanyut
+    .accesskey = a
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -125,12 +146,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Cit anyim
 places-details-pane-select-an-item-description = Yer jami me anena kadong i yub jami me ticce
+places-details-pane-no-items =
+    .value = Jami peke
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Gin acel
+           *[other] gin { $count }
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
 places-search-bookmarks =
     .placeholder = Yeny Alama me buk
+places-search-history =
+    .placeholder = Yeny Gin mukato
+places-search-downloads =
+    .placeholder = Yeny Gam
 
 ##
 
+places-locked-prompt = Nyonyo me alama me buk kacel ki gin mukato pe bi tic pien purugram mapat tye katic ki pwail acel me { -brand-short-name }. Purugram mogo me ber bedo romo kelo peko man.
