@@ -118,6 +118,15 @@ places-delete-bookmark =
            *[other] Keyuj Yaketal
         }
     .accesskey = y
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Yaketal Ruxaq…
+           *[other] Tiyaketalïx Ruxaq…
+        }
+    .accesskey = Y
 places-untag-bookmark =
     .label = Tiyuj Etal
     .accesskey = y
@@ -246,6 +255,10 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Kekanöx Yaketal
+places-search-history =
+    .placeholder = Tikanöx Natab'äl
 places-search-downloads =
     .placeholder = Kekanöx taq qasan
 

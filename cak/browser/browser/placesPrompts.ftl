@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (majun rub'i')
 places-bookmarks-backup-title = Rub'i' ruyakb'al wachib'äl kichin taq yaketal
 places-bookmarks-restore-alert-title = Ketzolïx taq yaketal
 places-bookmarks-restore-alert = Re smaj re' nkeruk'ëx konojel ri taq ayaketal ruma ri ruwachib'al chajixïk. ¿La ja ri' nawajo'?
