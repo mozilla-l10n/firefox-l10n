@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] Deler marcapaginas
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Adder pagina al marcapaginas…
+           *[other] Adder paginas al marcapaginas…
+        }
+    .accesskey = A
 places-untag-bookmark =
     .label = Remover tag
     .accesskey = R
@@ -215,6 +224,9 @@ places-view-sortby-url =
 places-view-sortby-date =
     .label = Ordinar per visita plus recente
     .accesskey = n
+places-view-sortby-visit-count =
+    .label = Ordinar per numero de visitas
+    .accesskey = q
 places-view-sortby-date-added =
     .label = Ordinar per le data addite
     .accesskey = d

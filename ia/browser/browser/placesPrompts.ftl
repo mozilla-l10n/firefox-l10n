@@ -5,6 +5,7 @@
 places-error-title = { -brand-short-name }
 places-no-title = (sin titulo)
 places-bookmarks-backup-title = Nomine del file de salveguarda del marcapaginas
+places-bookmarks-restore-alert-title = Restaurar le marcapaginas
 places-bookmarks-restore-alert = Isto reimplaciara tote tu marcapaginas actual per illos del salveguarda. Desira tu vermente facer lo?
 places-bookmarks-restore-title = Selige un salveguarda de marcapaginas
 places-bookmarks-restore-filter-name = JSON
