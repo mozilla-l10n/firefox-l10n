@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (کوئی عنوان کائنی)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = سیکیورٹی وجوہات دی بناء تے، "جاوا سکرپٹ" یا "ڈیٹا" URLs کوں تاریخ دی ونڈو یا سائیڈ بار کنوں لوڈ نئیں کیتی ونڄ سڳدی۔
 places-bookmarks-backup-title = نشانیاں دا بیک اپ فائل ناں
 places-bookmarks-restore-alert-title = نشانیاں کوں موندھا کرو
 places-bookmarks-restore-alert = ایہ تہاݙیاں تمام موجودہ نشانیاں کوں بیک اپ دے نال وٹا ݙیسے۔ کیا تہاکوں یقین ہے؟
