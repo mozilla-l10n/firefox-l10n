@@ -141,8 +141,11 @@ places-details-pane-items-count =
 
 places-search-bookmarks =
     .placeholder = બુકમાર્કોમાં શોધો
+places-search-history =
+    .placeholder = શોધ ઇતિહાસ
 places-search-downloads =
     .placeholder = ડાઉનલોડમાં શોધો
 
 ##
 
+places-locked-prompt = બુકમાર્કો અને ઇતિહાસ સિસ્ટમ કામ આપશે નહિં કારણ કે { -brand-short-name } ની ફાઈલોમાંની કોઈક અન્ય કાર્યક્રમ દ્વારા વપરાશમાં છે. અમુક સુરક્ષા સોફ્ટવેર આ સમસ્યા સર્જી શકે છે.
