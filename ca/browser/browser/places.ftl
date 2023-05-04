@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Obre en una finestra privada nova
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Buit)
 places-add-bookmark =
     .label = Afegeix una adreça d'interès…
     .accesskey = A
@@ -202,3 +204,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Vés endavant
 places-details-pane-select-an-item-description = Seleccioneu un element per visualitzar-ne i editar-ne les propietats
+places-details-pane-no-items =
+    .value = Cap element
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Cerca les adreces d'interès
+
+##
+
