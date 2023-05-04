@@ -207,6 +207,8 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = بک مارک تلاش کریں
 places-search-history =
     .placeholder = سابقات تلاش کریں
 places-search-downloads =
@@ -214,3 +216,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = بک مارک و سابقات نظام فعل نہیں ہو گا کیونکہ { -brand-short-name } کی ایک مسل کسی اور ایپلی کیشن کے استعمال میں ہے۔ کچھ سلامتی سافٹ ویئر یہ مسلہ پیدا کر سکتا۔
