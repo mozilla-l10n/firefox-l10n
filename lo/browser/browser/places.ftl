@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = ເປີດໃນໜ້າຕ່າງສ່ວນຕົວໃໝ່
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (ວ່າງເປົ່າ)
 places-add-bookmark =
     .label = ເພີ່ມບຸກມາກ...
     .accesskey = B
@@ -75,6 +77,15 @@ places-edit-generic =
 places-edit-folder2 =
     .label = ແກ້ໄຂໂຟນເດີ...
     .accesskey = E
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] ລຶບຫນ້າ
+           *[other] ລຶບຫນ້າ
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ບຸກມາກທີ່ຈັດການ
@@ -173,6 +184,27 @@ places-view-sort-col-date-added =
     .label = ເພີ່ມເມື່ອ
 places-view-sort-col-last-modified =
     .label = ດັດແກ້ລ່າສຸດເມື່ອ
+places-view-sortby-name =
+    .label = ລຽງຕາມຊື່
+    .accesskey = N
+places-view-sortby-url =
+    .label = ລຽງຕາມຕຳແຫນ່ງທີ່ຕັ້ງ
+    .accesskey = L
+places-view-sortby-date =
+    .label = ລຽງຕາມເຂົ້າເບິ່ງລ່າສຸດ
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ລຽງຕາມຈຳນວນການເຂົ້າເບິ່ງ
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = ລຽງຕາມມື້ທີ່ເພີ່ມ
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ລຽງຕາມມື້ທີ່ດັດແກ້ລ່າສຸດ
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ລຽງຕາມແທັກ
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -180,3 +212,23 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ໄປຂ້າງຫນ້າ
 places-details-pane-select-an-item-description = ເລືອກລາຍການທີ່ຈະເບິ່ງແລະແກ້ໄຂຄຸນສົມບັດຂອງມັນ
+places-details-pane-no-items =
+    .value = ບໍ່ມີລາຍການ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = { $count } ລາຍການ
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = ຊອກຫາບຸກມາກ
+places-search-history =
+    .placeholder = ຊອກຫາປະຫວັດການໃຊ້ງານ
+places-search-downloads =
+    .placeholder = ຊອກຫາການດາວໂຫລດ
+
+##
+
+places-locked-prompt = ບຸກມາກແລະປະຫວັດການໃຊ້ງານຈະບໍ່ສາມາດໃຊ້ງານໄດ້ເນື່ອງຈາກຫນຶ່ງໃນໄຟລ໌ຂອງ { -brand-short-name } ແມ່ນຖືກໃຊ້ຢູ່ໂດຍແອັບພລິເຄຊັນອື່ນໆ. ຊອບແວຄວາມປອດໄພບາງຕົວອາດເຮັດໃຫ້ເກີດບັນຫານີ້ໄດ້.
