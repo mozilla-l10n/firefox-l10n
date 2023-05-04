@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = නව පෞද්. කවුළුවකින් අරින්න
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (හිස්)
 places-add-bookmark =
     .label = පොත්යොමුවක් එක්කරන්න…
     .accesskey = B
@@ -102,9 +104,6 @@ places-forget-about-this-site-forget = අමතක
 places-library =
     .title = පුස්තකාලය
     .style = width:700px; height:500px;
-places-library2 =
-    .title = පුස්තකාලය
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = පුස්තකාලය
 places-organize-button =
@@ -187,3 +186,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ඉදිරියට යන්න
 places-details-pane-select-an-item-description = ගුණාංග දැකීමට සහ සංස්කරණයට අංගයක් තෝරන්න
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
