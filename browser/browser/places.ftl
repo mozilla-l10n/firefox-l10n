@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Avaa uuteen yksityiseen ikkunaan
     .accesskey = y
+places-empty-bookmarks-folder =
+    .label = (Tyhjä)
 places-add-bookmark =
     .label = Lisää kirjanmerkki…
     .accesskey = r
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = Unohda
 places-library =
     .title = Kirjasto
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Kirjasto
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Kirjasto
 places-organize-button =
@@ -205,3 +204,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Siirry seuraavaan
 places-details-pane-select-an-item-description = Valitse kohde, jonka ominaisuuksia muokataan tai näytetään
+places-details-pane-no-items =
+    .value = Ei osumia
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Etsi kirjanmerkeistä
+places-search-history =
+    .placeholder = Etsi sivuhistoriasta
+
+##
+
