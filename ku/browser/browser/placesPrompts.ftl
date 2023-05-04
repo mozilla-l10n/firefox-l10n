@@ -11,4 +11,5 @@ places-bookmarks-restore-title = Hilanîneke bijareyan hilbijêre
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Cureyê pelê nayê destekirin.
 places-bookmarks-restore-parse-error = Pêvajoya hilanîna pelê nederbasdar e.
+places-bookmarks-import = Pela Bijareyan Îthal Bike
 places-bookmarks-export = Pela Bijareyan Bibe Derve
