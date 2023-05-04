@@ -124,9 +124,6 @@ places-forget-about-this-site-forget = Pozabi
 places-library =
     .title = Knjižnica
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Knjižnica
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Knjižnica
 places-organize-button =
@@ -209,3 +206,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Pojdi naprej
 places-details-pane-select-an-item-description = Izberi predmet za prikaz in urejanje njegovih lastnosti
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
