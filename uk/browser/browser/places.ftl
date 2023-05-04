@@ -105,6 +105,15 @@ places-delete-bookmark =
            *[many] Видалити закладки
         }
     .accesskey = з
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Додати сторінку до закладок…
+           *[other] Додати сторінки до закладок…
+        }
+    .accesskey = з
 places-untag-bookmark =
     .label = Вилучити мітку
     .accesskey = ч
@@ -197,6 +206,27 @@ places-view-sort-col-date-added =
     .label = Додано
 places-view-sort-col-last-modified =
     .label = Остання зміна
+places-view-sortby-name =
+    .label = Впорядкувати за назвою
+    .accesskey = н
+places-view-sortby-url =
+    .label = Впорядкувати за адресою
+    .accesskey = з
+places-view-sortby-date =
+    .label = Впорядкувати за останнім відвідуванням
+    .accesskey = в
+places-view-sortby-visit-count =
+    .label = Впорядкувати за кількістю відвідувань
+    .accesskey = к
+places-view-sortby-date-added =
+    .label = Впорядкувати за часом додавання
+    .accesskey = ч
+places-view-sortby-last-modified =
+    .label = Впорядкувати за останньою зміною
+    .accesskey = ю
+places-view-sortby-tags =
+    .label = Впорядкувати за мітками
+    .accesskey = т
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -206,6 +236,15 @@ places-forward-button =
 places-details-pane-select-an-item-description = Додати елемент до перегляду та редагувати його властивості
 places-details-pane-no-items =
     .value = Жодного елементу
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Один елемент
+            [few] { $count } елемента
+           *[many] { $count } елементів
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
