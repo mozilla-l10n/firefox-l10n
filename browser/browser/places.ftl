@@ -77,6 +77,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Upravit složku
     .accesskey = i
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
@@ -271,4 +273,8 @@ places-search-downloads =
 
 ##
 
-places-locked-prompt = Není možné používat záložky a historii, protože některé soubory aplikace { -brand-short-name } už jsou používány jinou aplikací. Toto může být způsobeno bezpečnostním softwarem.
+places-locked-prompt =
+    { -brand-short-name.case-status ->
+        [with-cases] Není možné používat záložky a historii, protože některé soubory { -brand-short-name(case: "gen") } už jsou používány jinou aplikací. Toto může být způsobeno bezpečnostním softwarem.
+       *[no-cases] Není možné používat záložky a historii, protože některé soubory aplikace { -brand-short-name } už jsou používány jinou aplikací. Toto může být způsobeno bezpečnostním softwarem.
+    }
