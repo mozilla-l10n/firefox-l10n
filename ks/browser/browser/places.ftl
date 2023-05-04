@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = سٲری كھولیو ٹیبزن منز
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (خٲلی)
 places-view =
     .label = وچھیو
     .accesskey = w
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = مكتب
     .style = width:700px; height:500px;
-places-library2 =
-    .title = مكتب
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = مكتب
 places-organize-button =
@@ -119,6 +118,27 @@ places-view-sort-col-date-added =
     .label = رلٲومُت
 places-view-sort-col-last-modified =
     .label = ٲخری تبدیل كرموْت
+places-view-sortby-name =
+    .label = ناو ذریعہ کْریو سارٹ&
+    .accesskey = N
+places-view-sortby-url =
+    .label = ذریعہ کْریو سارٹ جایہ&
+    .accesskey = L
+places-view-sortby-date =
+    .label = تازْ ترین ذریعہ کْریو سارٹ&
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ویزیٹ کاوُنٹ ذریعہ کْریو سارٹ&
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = جمع کرنْہ آمُت ذریعہ کْریو سارٹ&
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ذریعہ کْریو سارٹ&
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ٹیگو ذریعہ کْریو سارٹ&
+    .accesskey = T
 places-cmd-find-key =
     .key = F
 places-back-button =
@@ -126,3 +146,23 @@ places-back-button =
 places-forward-button =
     .tooltiptext = برونٹھ گژھیو
 places-details-pane-select-an-item-description = آیٹم ژٲریو امچئ خصوصیات وچھنئ تئ بدلاونئ خٲطرئ
+places-details-pane-no-items =
+    .value = كہن آیٹم چھُ نئ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = اكھ آیٹم، # ۱ آیٹمس
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = نشان زَد ژھٲنڈيو
+places-search-history =
+    .placeholder = تٲریخ ژھٲنڈيو
+places-search-downloads =
+    .placeholder = ڈاونلوڈس ژھٲنڈيو
+
+##
+
+places-locked-prompt = بوک مارْک تْہ ہسٹری سسٹم روزن نْہ فنکشنل کیازِ  { -brand-short-name }' چِہ فایلو منز اکھ چھ استعمالس منز بدل ایپلیکیشن ذریعہ۔ کینہ حفاظتی سافٹ وْیر ہیکن یہ پرابلیم کْرتھ۔
