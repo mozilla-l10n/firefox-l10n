@@ -210,6 +210,10 @@ places-details-pane-select-an-item-description = Özelliklerini görmek ve deği
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Yer imlerinde ara
+places-search-history =
+    .placeholder = Geçmişte ara
 
 ##
 
