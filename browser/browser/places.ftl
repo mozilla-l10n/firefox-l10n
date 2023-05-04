@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
     .accesskey = γ
+places-empty-bookmarks-folder =
+    .label = (Κενό)
 places-add-bookmark =
     .label = Προσθήκη σελιδοδείκτη…
     .accesskey = σ
@@ -202,3 +204,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Μετάβαση μπροστά
 places-details-pane-select-an-item-description = Επιλέξτε ένα στοιχείο για να δείτε και να επεξεργαστείτε τις ιδιότητές του
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
