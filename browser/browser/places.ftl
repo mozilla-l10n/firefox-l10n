@@ -126,6 +126,15 @@ places-delete-bookmark =
            *[other] Dileu Nod Tudalen
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Gosod Nod i Dudalen…
+           *[other] Gosod Nod i Dudalennau…
+        }
+    .accesskey = N
 places-untag-bookmark =
     .label = Tynnu Tag
     .accesskey = T
