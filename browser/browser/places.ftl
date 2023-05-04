@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = சேர்க்கப்பட்டது
 places-view-sort-col-last-modified =
     .label = கடைசியாக திருத்தியமைக்கப்பட்டது
+places-view-sortby-name =
+    .label = பெயரால் வரிசைப்படுத்து
+    .accesskey = வ
+places-view-sortby-url =
+    .label = இடத்தால் வரிசைப்படுத்து
+    .accesskey = இ
+places-view-sortby-date =
+    .label = மிக அண்மைய பார்வை மூலம் வரிசைப்படுத்து
+    .accesskey = ப
+places-view-sortby-visit-count =
+    .label = பார்த்த எண்ணிக்கையால் வரிசைப்படுத்து
+    .accesskey = எ
+places-view-sortby-date-added =
+    .label = சேர்க்கப்பட்டதால் வரிசைப்படுத்து
+    .accesskey = ச
+places-view-sortby-last-modified =
+    .label = அண்மைய மாற்றங்களால் வரிசைப்படுத்து
+    .accesskey = ம
+places-view-sortby-tags =
+    .label = ஒட்டுக்களால் வரிசைப்படுத்து
+    .accesskey = ஒ
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -141,8 +162,11 @@ places-details-pane-items-count =
 
 places-search-bookmarks =
     .placeholder = தேடு புத்தகக்குறிகள்
+places-search-history =
+    .placeholder = இங்கே தேடுங்கள்
 places-search-downloads =
     .placeholder = பதிவிறக்கங்களில் தேடு
 
 ##
 
+places-locked-prompt = புத்தகக்குறிகள் மற்றும் வரலாறு அமைப்பு வேலை செய்யாது ஏனெனில் { -brand-short-name }இன் கோப்புகளில் ஒன்று வேறு பயன்பாட்டால் பயன்படுத்தப்படுகிறது. சில பாதுகாப்பு மென்பொருள் இந்த சிக்கலை உருவாக்கலாம்.
