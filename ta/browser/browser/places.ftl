@@ -127,12 +127,22 @@ places-forward-button =
 places-details-pane-select-an-item-description = ஒரு உருப்படியை அதன் தன்மைகளை பார்க்க மற்றும் திருத்த தேர்ந்தெடுக்கவும்
 places-details-pane-no-items =
     .value = உருப்படிகள் இல்லை
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ஒரு உருப்படி
+           *[other] { $count } உருப்படிகள்
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
 places-search-bookmarks =
     .placeholder = தேடு புத்தகக்குறிகள்
+places-search-downloads =
+    .placeholder = பதிவிறக்கங்களில் தேடு
 
 ##
 
