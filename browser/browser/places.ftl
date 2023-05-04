@@ -114,6 +114,27 @@ places-view-sort-col-date-added =
     .label = ଯୁକ୍ତ
 places-view-sort-col-last-modified =
     .label = ପୂର୍ବ ରୂପାନ୍ତରଣ
+places-view-sortby-name =
+    .label = ନାମାନୁସାରେ ସଜାଡ଼ନ୍ତୁ
+    .accesskey = N
+places-view-sortby-url =
+    .label = ସ୍ଥାନ ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ
+    .accesskey = L
+places-view-sortby-date =
+    .label = ନିକଟରେ ପରିଦର୍ଶିତ ପୃଷ୍ଠା ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ପରିଦର୍ଶନ ସଂଖ୍ୟା ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = ଯୋଗ କରାଯାଇଥିବା ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ଶେଷଥର ପରିବର୍ତ୍ତିତ ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ଟ୍ୟାଗଗୁଡ଼ିକ ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -144,3 +165,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = ଚିହ୍ନିତ ସ୍ଥାନ ଏବଂ ପୁରୁଣା ତଥ୍ଯକୁ କାର୍ଯ୍ୟକାରୀ କରାଯାଇପାରିବ ନାହିଁ କାରଣ  { -brand-short-name } ର ଫାଇଲ ମଧ୍ଯରୁ ଗୋଟିଏ ଅନ୍ୟ ଏକ ପ୍ରୟୋଗରେ ବ୍ୟବହାର ହେଉଅଛି। କୌଣସି ସୁରକ୍ଷା ସଫ୍ଟୱେର ଦ୍ୱାରା ଏହି ସମସ୍ୟା ଘଟିଥାଇପାରେ।
