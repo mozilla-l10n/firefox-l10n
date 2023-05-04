@@ -199,6 +199,24 @@ places-view-sort-col-date-added =
     .label = Toegevoegd
 places-view-sort-col-last-modified =
     .label = Laatst gewijzigd
+places-view-sortby-name =
+    .label = Sorteren op Naam
+    .accesskey = N
+places-view-sortby-url =
+    .label = Sorteren op Locatie
+    .accesskey = c
+places-view-sortby-date =
+    .label = Sorteren op Meest recente bezoek
+    .accesskey = M
+places-view-sortby-visit-count =
+    .label = Sorteren op Bezoekteller
+    .accesskey = B
+places-view-sortby-date-added =
+    .label = Sorteren op Toegevoegd
+    .accesskey = T
+places-view-sortby-tags =
+    .label = Sorteren op Labels
+    .accesskey = L
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -208,6 +226,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Selecteer een item om de eigenschappen ervan te bekijken en te wijzigen
 places-details-pane-no-items =
     .value = Geen items
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Eén item
+           *[other] { $count } items
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -216,6 +242,8 @@ places-search-bookmarks =
     .placeholder = Bladwijzers doorzoeken
 places-search-history =
     .placeholder = Geschiedenis doorzoeken
+places-search-downloads =
+    .placeholder = Downloads doorzoeken
 
 ##
 
