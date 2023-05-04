@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = เปิดในหน้าต่างส่วนตัวใหม่
     .accesskey = ส
+places-empty-bookmarks-folder =
+    .label = (ว่าง)
 places-add-bookmark =
     .label = เพิ่มที่คั่นหน้า…
     .accesskey = ท
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = ลืม
 places-library =
     .title = ห้องสมุด
     .style = width:700px; height:500px;
-places-library2 =
-    .title = ห้องสมุด
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = ห้องสมุด
 places-organize-button =
@@ -205,3 +204,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = เดินหน้า
 places-details-pane-select-an-item-description = เลือกรายการเพื่อดูและแก้ไขคุณสมบัติ
+places-details-pane-no-items =
+    .value = ไม่มีรายการ
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
