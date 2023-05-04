@@ -248,6 +248,8 @@ places-search-bookmarks =
     .placeholder = 搜索书签
 places-search-history =
     .placeholder = 搜索历史记录
+places-search-downloads =
+    .placeholder = 搜索下载
 
 ##
 
