@@ -116,6 +116,15 @@ places-delete-bookmark =
            *[other] מחיקת סימניות
         }
     .accesskey = מ
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] הוספת העמוד לסימניות…
+           *[other] הוספת העמודים לסימניות…
+        }
+    .accesskey = ע
 places-untag-bookmark =
     .label = הסרת תגית
     .accesskey = ת
