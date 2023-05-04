@@ -39,6 +39,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] Ficheiro TSV
     }
+migration-cancel-button-label = Cancelar
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
