@@ -89,6 +89,15 @@ places-delete-folder =
            *[other] Rjadowaki zhašeć
         }
     .accesskey = R
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Stronu zhašeć
+           *[other] Strony zhašeć
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Rjadowane zapołožki
@@ -113,6 +122,15 @@ places-delete-bookmark =
            *[other] Zapołožki zhašeć
         }
     .accesskey = Z
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Stronu jako zapołožku składować …
+           *[other] Strony jako zapołožki składować …
+        }
+    .accesskey = S
 places-untag-bookmark =
     .label = Značku wotstronić
     .accesskey = Z
