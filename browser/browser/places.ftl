@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Hamısını Vərəqlərdə Aç
     .accesskey = A
+places-empty-bookmarks-folder =
+    .label = (Boş)
 places-view =
     .label = Görünüş
     .accesskey = G
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = Kitabxana
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Kitabxana
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Kitabxana
 places-organize-button =
@@ -126,3 +125,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = İrəli get
 places-details-pane-select-an-item-description = Xüsusiyyətlərini görmək və dəyişmək üçün bir obyekt seçin
+places-details-pane-no-items =
+    .value = Obyekt yoxdur
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Əlfəcinlərdə Axtar
+
+##
+
