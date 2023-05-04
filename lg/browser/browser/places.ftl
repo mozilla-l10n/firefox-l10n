@@ -140,3 +140,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Sistemu ya'obulambe ne ebyaffayo ejja kubanga tekola kubanga emu ku fayiro za { -brand-short-name } erimukozesebwa plogramu endala. Ezimu ku plogramu zobukumi ziyinza oke leta kino.
