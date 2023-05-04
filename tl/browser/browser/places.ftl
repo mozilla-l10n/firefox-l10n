@@ -84,9 +84,6 @@ places-manage-bookmarks =
 places-library =
     .title = Library
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Library
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Library
 places-organize-button =
@@ -169,3 +166,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Sulong
 places-details-pane-select-an-item-description = Pumili ng item na titingnan at i-edit ang mga properties nito
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
