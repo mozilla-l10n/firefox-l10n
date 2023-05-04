@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Openen in nieuw privévenster
     .accesskey = v
+places-empty-bookmarks-folder =
+    .label = (Leeg)
 places-add-bookmark =
     .label = Bladwijzer toevoegen…
     .accesskey = B
@@ -122,9 +124,6 @@ places-forget-about-this-site-forget = Vergeten
 places-library =
     .title = Bibliotheek
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Bibliotheek
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Bibliotheek
 places-organize-button =
@@ -207,3 +206,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Vooruit gaan
 places-details-pane-select-an-item-description = Selecteer een item om de eigenschappen ervan te bekijken en te wijzigen
+places-details-pane-no-items =
+    .value = Geen items
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Bladwijzers doorzoeken
+places-search-history =
+    .placeholder = Geschiedenis doorzoeken
+
+##
+
