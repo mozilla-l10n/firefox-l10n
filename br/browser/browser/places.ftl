@@ -88,6 +88,15 @@ places-delete-folder =
            *[other] Dilemel an teuliadoù
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Dilemel ar bajenn
+           *[other] Dilemel pajennoù
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Sinedoù meret
@@ -229,6 +238,17 @@ places-forward-button =
 places-details-pane-select-an-item-description = Diuzañ an ergorenn evit gwelout he ferzhioù
 places-details-pane-no-items =
     .value = Ergorenn ebet
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un ergorenn
+            [two] { $count } ergorenn
+            [few] { $count } ergorenn
+            [many] { $count } a ergorennoù
+           *[other] { $count } ergorenn
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
