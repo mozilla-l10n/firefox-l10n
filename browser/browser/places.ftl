@@ -148,6 +148,8 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = পত্ৰচিহ্নসমূহ সন্ধান কৰক
 places-search-history =
     .placeholder = ইতিহাস সন্ধান কৰক
 places-search-downloads =
