@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Oscail gach rud i gcluaisíní
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (Gan Sonrú)
 places-view =
     .label = Amharc
     .accesskey = m
@@ -44,9 +46,6 @@ places-manage-bookmarks =
 places-library =
     .title = Leabharlann
     .style = width:750px; height:500px;
-places-library2 =
-    .title = Leabharlann
-    .style = min-width:750px; min-height:500px;
 places-library3 =
     .title = Leabharlann
 places-organize-button =
@@ -129,3 +128,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ar Aghaidh
 places-details-pane-select-an-item-description = Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar
+places-details-pane-no-items =
+    .value = Dada
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Cuardaigh Leabharmharcanna
+places-search-history =
+    .placeholder = Stair an Chuardaigh
+
+##
+
