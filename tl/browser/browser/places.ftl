@@ -69,6 +69,15 @@ places-edit-bookmark =
 places-edit-generic =
     .label = I-edit…
     .accesskey = i
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Tanggalin ang Pahina
+           *[other] Tanggalin ang mga Pahina
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Mga naka-manage na bookmark
