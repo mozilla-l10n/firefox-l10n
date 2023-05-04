@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Бүгдийг нь самбарт нээ
     .accesskey = н
+places-empty-bookmarks-folder =
+    .label = (Хоосон)
 places-view =
     .label = Харах
     .accesskey = р
@@ -35,9 +37,6 @@ places-sortby-name =
 places-library =
     .title = Сан
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Сан
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Сан
 places-file-close =
@@ -84,3 +83,14 @@ places-cmd-find-key =
 places-back-button =
     .tooltiptext = Буцна
 places-details-pane-select-an-item-description = Харахыг болон засварлахыг хүссэн зүйлээ сонгоно уу
+places-details-pane-no-items =
+    .value = Юм байхгүй
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Хаяг хайх
+
+##
+
