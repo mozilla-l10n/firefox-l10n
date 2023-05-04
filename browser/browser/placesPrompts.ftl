@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = （無標題）
 places-bookmarks-backup-title = 書籤備份檔名
 places-bookmarks-restore-alert-title = 回復書籤
 places-bookmarks-restore-alert = 這個動作會用備份資料覆蓋目前使用的所有書籤，您確定要繼續嗎？
