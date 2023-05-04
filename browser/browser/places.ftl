@@ -210,6 +210,8 @@ places-search-bookmarks =
     .placeholder = جست‌وجو در نشانک‌ها
 places-search-history =
     .placeholder = جست‌وجو در تاریخچه
+places-search-downloads =
+    .placeholder = جستجوی بارگیری‌ها
 
 ##
 
