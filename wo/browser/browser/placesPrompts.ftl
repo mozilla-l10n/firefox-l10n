@@ -11,4 +11,5 @@ places-bookmarks-restore-title = Falal benn aarum mandarga xët
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Giiru dencukaay bu ñu saytuwul.
 places-bookmarks-restore-parse-error = Kenn mënula saytu dencukaayu aar bi.
+places-bookmarks-import = Fat ay mandarga xët
 places-bookmarks-export = Jàllale mandarga xët yi
