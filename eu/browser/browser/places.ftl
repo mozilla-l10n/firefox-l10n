@@ -197,6 +197,27 @@ places-view-sort-col-date-added =
     .label = Gehituta
 places-view-sort-col-last-modified =
     .label = Azken aldaketa
+places-view-sortby-name =
+    .label = Ordenatu izenaren arabera
+    .accesskey = i
+places-view-sortby-url =
+    .label = Ordenatu helbidearen arabera
+    .accesskey = l
+places-view-sortby-date =
+    .label = Ordenatu azken bisitaren arabera
+    .accesskey = b
+places-view-sortby-visit-count =
+    .label = Ordenatu bisita kopuruen arabera
+    .accesskey = k
+places-view-sortby-date-added =
+    .label = Ordenatu gehitutako dataren arabera
+    .accesskey = d
+places-view-sortby-last-modified =
+    .label = Ordenatu azken aldaketa-dataren arabera
+    .accesskey = a
+places-view-sortby-tags =
+    .label = Ordenatu etiketen arabera
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -227,3 +248,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Laster-marken eta historiaren sistema ezingo da erabili beste aplikazio bat ari delako erabiltzen { -brand-short-name }(r)en fitxategietako bat. Zenbait segurtasun-softwarek arazo hau sor dezakete.
