@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] Slet bogmærker
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Bogmærk side…
+           *[other] Bogmærk sider…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Fjern mærkat
     .accesskey = j
