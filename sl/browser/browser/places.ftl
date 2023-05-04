@@ -118,6 +118,15 @@ places-delete-bookmark =
            *[other] Izbriši zaznamke
         }
     .accesskey = b
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Dodaj stran med zaznamke …
+           *[other] Dodaj strani med zaznamke …
+        }
+    .accesskey = Z
 places-untag-bookmark =
     .label = Odstrani oznako
     .accesskey = O
