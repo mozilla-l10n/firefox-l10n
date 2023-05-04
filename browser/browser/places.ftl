@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = ചേര്‍ത്തിരിക്കുന്നു
 places-view-sort-col-last-modified =
     .label = ഏറ്റവും ഒടുവില്‍ മാറ്റിയതു്
+places-view-sortby-name =
+    .label = പേരു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക
+    .accesskey = അ
+places-view-sortby-url =
+    .label = സ്ഥലമനുസരിച്ചു് ക്രമത്തിലാക്കുക
+    .accesskey = ല
+places-view-sortby-date =
+    .label = ഏറ്റവും ഒടുവില്‍ സന്ദര്‍ശിച്ചതനുസരിച്ചു് ക്രമത്തിലാക്കുക
+    .accesskey = സ
+places-view-sortby-visit-count =
+    .label = സന്ദര്‍ശനത്തിന്റെ എണ്ണമനുസരിച്ചു് ക്രമത്തിലാക്കുക
+    .accesskey = എ
+places-view-sortby-date-added =
+    .label = ചേര്‍ത്തതനുസരിച്ചു് ക്രമത്തിലാക്കുക
+    .accesskey = ത
+places-view-sortby-last-modified =
+    .label = അവസാനം മാറ്റം വരുത്തിയതനുസരിച്ചു് ക്രമത്തിലാക്കുക
+    .accesskey = അ
+places-view-sortby-tags =
+    .label = റ്റാഗുകളനുസരിച്ചു് ക്രമത്തിലാക്കുക
+    .accesskey = ക
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -148,3 +169,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = { -brand-short-name }-ന്റെ ഒരു ഫയല്‍ മറ്റൊരു പ്രയോഗം ഉപയോഗിക്കുന്നതിനാല്‍ അടയാളക്കുറിപ്പുകളും ചരിത്രവും പ്രവര്‍ത്തിക്കുന്നതല്ല. ഏതെങ്കിലും സുരക്ഷ സോഫ്റ്റ്‌വെയര്‍ ആവാം ഇതിനു് കാരണം.
