@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Vierç intun gnûf barcon privât
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Vueide)
 places-add-bookmark =
     .label = Zonte segnelibri…
     .accesskey = B
@@ -122,9 +124,6 @@ places-forget-about-this-site-forget = Dismentee
 places-library =
     .title = Librarie
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Librarie
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Librarie
 places-organize-button =
@@ -200,6 +199,18 @@ places-view-sort-col-date-added =
     .label = Zontât
 places-view-sort-col-last-modified =
     .label = Ultime modifiche
+places-view-sortby-name =
+    .label = Met in ordin par non
+    .accesskey = n
+places-view-sortby-visit-count =
+    .label = Met in ordin par numar di visitis
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Met in ordin par date di zonte
+    .accesskey = e
+places-view-sortby-tags =
+    .label = Met in ordin par etichete
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -207,3 +218,20 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Va indevant
 places-details-pane-select-an-item-description = Sielç un element par visualizâlu e modificâ lis sôs proprietâts
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Une vôs
+           *[other] { $count } vôs
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Cîr tai segnelibris
+
+##
+
