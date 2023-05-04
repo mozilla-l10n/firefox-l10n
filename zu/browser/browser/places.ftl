@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Vula konke kumamaki
     .accesskey = m
+places-empty-bookmarks-folder =
+    .label = (Akunalutho)
 places-view =
     .label = Bheka
     .accesskey = k
@@ -35,9 +37,6 @@ places-sortby-name =
 places-library =
     .title = Umtapo
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Umtapo
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Umtapo
 places-organize-button =
@@ -118,3 +117,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Iya phambili
 places-details-pane-select-an-item-description = Khetha into ezobukwa bese uhlela izakhiwo zayo
+places-details-pane-no-items =
+    .value = Azikho izinto
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Into eyodwa
+           *[other] { $count } wento
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Sesha izimpawu zokubekisa
+places-search-history =
+    .placeholder = Umlando wosesho
+places-search-downloads =
+    .placeholder = Sesha okulandwa kungeniswe
+
+##
+
