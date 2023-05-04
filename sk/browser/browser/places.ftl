@@ -124,9 +124,6 @@ places-forget-about-this-site-forget = Zabudnúť
 places-library =
     .title = Knižnica
     .style = width:760px; height:500px;
-places-library2 =
-    .title = Knižnica
-    .style = min-width:760px; min-height:500px;
 places-library3 =
     .title = Knižnica
 places-organize-button =
@@ -209,3 +206,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Prejsť dopredu
 places-details-pane-select-an-item-description = Vyberte položku, ktorej vlastnosti chcete zobraziť alebo upraviť
+places-details-pane-no-items =
+    .value = Žiadne položky
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-history =
+    .placeholder = Hľadať v histórii
+
+##
+
