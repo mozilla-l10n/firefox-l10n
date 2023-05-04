@@ -11,3 +11,5 @@ places-bookmarks-restore-title = पुस्तकचिह्न बैकअ�
 places-bookmarks-restore-filter-name = जेएसओएन
 places-bookmarks-restore-format-error = असमर्थित फाइल प्रकार
 places-bookmarks-restore-parse-error = बैकअप फाइलक प्रक्रियामे असमर्थ
+places-bookmarks-import = पुस्तकचिह्न फाइल आयात  करू
+places-bookmarks-export = पुस्तकचिह्न फाइल निर्यात  करू
