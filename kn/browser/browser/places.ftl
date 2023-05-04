@@ -125,6 +125,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ಮುಂದಕ್ಕೆ ತೆರಳು
 places-details-pane-select-an-item-description = ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಅಂಶವನ್ನು ಆರಿಸಿ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ಒಂದು ಅಂಶ
+           *[other] { $count } ಅಂಶಗಳು
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -133,6 +141,8 @@ places-search-bookmarks =
     .placeholder = ಬುಕ್‌ಮಾರ್ಕುಗಳಿಗಾಗಿ ಹುಡುಕು
 places-search-history =
     .placeholder = ಇತಿಹಾಸವನ್ನು ಹುಡುಕು
+places-search-downloads =
+    .placeholder = ಇಳಿಕೆಗಳನ್ನು ಹುಡುಕು
 
 ##
 
