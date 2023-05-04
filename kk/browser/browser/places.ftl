@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Жаңа жекелік терезесінде ашу
     .accesskey = к
+places-empty-bookmarks-folder =
+    .label = (Бос)
 places-add-bookmark =
     .label = Бетбелгіні қосу…
     .accesskey = б
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = Ұмыту
 places-library =
     .title = Жинақталған
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Жинақталған
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Жинақталған
 places-organize-button =
@@ -205,3 +204,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Келесі бетке өту
 places-details-pane-select-an-item-description = Қарап шығу мен қасиеттерін түзету үшін элементті таңдаңыз
+places-details-pane-no-items =
+    .value = Мүшелері жоқ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Бір нәрсе
+           *[other] { $count } нәрсе
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Бетбелгілер ішінен іздеу
+places-search-history =
+    .placeholder = Тарихтың ішінен іздеу
+places-search-downloads =
+    .placeholder = Жүктемелер ішінен іздеу
+
+##
+
