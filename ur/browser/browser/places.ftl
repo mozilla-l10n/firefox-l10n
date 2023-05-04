@@ -20,6 +20,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = نئے نجی دریچے میں کھولیں
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (خالی)
 places-add-bookmark =
     .label = بک مارک شامل کریں…
     .accesskey = B
@@ -79,9 +81,6 @@ places-forget-about-this-site-forget = بھول جائیں
 places-library =
     .title = لائبریری
     .style = width:700px; height:500px;
-places-library2 =
-    .title = لائبریری
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = لائبریری
 places-organize-button =
@@ -164,3 +163,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = آگے بڑھیں
 places-details-pane-select-an-item-description = شے کے خواص نظارہ اور تدوین کرنے کے لیے اسے منتخب کریں
+places-details-pane-no-items =
+    .value = کوئی اشیا نہیں
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-history =
+    .placeholder = سابقات تلاش کریں
+places-search-downloads =
+    .placeholder = ڈاؤن لوڈ تلاش کریں
+
+##
+
