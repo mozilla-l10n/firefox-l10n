@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Otvoriť v novom súkromnom okne
     .accesskey = s
+places-empty-bookmarks-folder =
+    .label = (prázdne)
 places-add-bookmark =
     .label = Pridať záložku…
     .accesskey = z
@@ -199,6 +201,24 @@ places-view-sort-col-date-added =
     .label = Pridané
 places-view-sort-col-last-modified =
     .label = Posledná úprava
+places-view-sortby-name =
+    .label = Usporiadať podľa názvu
+    .accesskey = n
+places-view-sortby-date =
+    .label = Usporiadať podľa času poslednej návštevy
+    .accesskey = d
+places-view-sortby-visit-count =
+    .label = Usporiadať podľa počtu návštev
+    .accesskey = t
+places-view-sortby-date-added =
+    .label = Usporiadať podľa času pridania
+    .accesskey = r
+places-view-sortby-last-modified =
+    .label = Usporiadať podľa času poslednej úpravy
+    .accesskey = v
+places-view-sortby-tags =
+    .label = Usporiadať podľa značiek
+    .accesskey = U
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -208,12 +228,24 @@ places-forward-button =
 places-details-pane-select-an-item-description = Vyberte položku, ktorej vlastnosti chcete zobraziť alebo upraviť
 places-details-pane-no-items =
     .value = Žiadne položky
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Jedna položka
+            [few] { $count } položky
+           *[other] { $count } položiek
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Hľadať v záložkách
 places-search-history =
     .placeholder = Hľadať v histórii
 
 ##
 
+places-locked-prompt = Systém záložiek a histórie nebude funkčný, pretože jeden zo súborov prehliadača { -brand-short-name } je používaný inou aplikáciou. Tento problém môžu spôsobovať niektoré bezpečnostné aplikácie.
