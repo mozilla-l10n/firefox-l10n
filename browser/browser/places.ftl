@@ -17,6 +17,8 @@ places-open-all-in-tabs =
 places-open-in-window =
     .label = नए विंडो में खोलें
     .accesskey = N
+places-empty-bookmarks-folder =
+    .label = (रिक्त)
 places-add-bookmark =
     .label = बुकमार्क‌ जोड़ें‌…
     .accesskey = B
@@ -78,9 +80,6 @@ places-manage-bookmarks =
 places-library =
     .title = लाइब्रे‌री
     .style = width:700px; height:500px;
-places-library2 =
-    .title = लाइब्रे‌री
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = लाइब्रे‌री
 places-organize-button =
@@ -163,3 +162,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = आगे जाएँ
 places-details-pane-select-an-item-description = किसी मद की विशेषताओं को देखने के लिए इसे चुनें और संपादित करें
+places-details-pane-no-items =
+    .value = कोई वस्तु नहीं
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-history =
+    .placeholder = इतिहास खोजें
+
+##
+
