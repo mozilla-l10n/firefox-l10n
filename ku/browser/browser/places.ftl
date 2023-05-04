@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Hemûyan di Hilpekînan de Veke
     .accesskey = H
+places-empty-bookmarks-folder =
+    .label = (Vala)
 places-view =
     .label = Bibîne
     .accesskey = B
@@ -37,9 +39,6 @@ places-sortby-name =
 places-library =
     .title = Pirtûkxane
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Pirtûkxane
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Pirtûkxane
 places-organize-button =
@@ -122,3 +121,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Here pêş
 places-details-pane-select-an-item-description = Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre
+places-details-pane-no-items =
+    .value = Tu tişt tune
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
