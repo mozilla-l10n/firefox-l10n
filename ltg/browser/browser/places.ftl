@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Open All in Tabs
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (Tukšs)
 places-view =
     .label = View
     .accesskey = w
@@ -116,6 +118,27 @@ places-view-sort-col-date-added =
     .label = Added
 places-view-sort-col-last-modified =
     .label = Last Modified
+places-view-sortby-name =
+    .label = Kuortuot piec nūsaukuma
+    .accesskey = N
+places-view-sortby-url =
+    .label = Kuortuot piec vītys
+    .accesskey = L
+places-view-sortby-date =
+    .label = Kuortuot piec apmekliejuma laika
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Kuortuot piec apmekliejumu skaita
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Kuortuot piec pīvīnuošonys
+    .accesskey = c
+places-view-sortby-last-modified =
+    .label = Kuortuot piec izmaiņu datuma
+    .accesskey = i
+places-view-sortby-tags =
+    .label = Kuortuot piec birkom
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -123,10 +146,19 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Go forward
 places-details-pane-select-an-item-description = Select an item to view and edit its properties
+places-details-pane-no-items =
+    .value = Nav nivīnys vīneibys
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Mekleit gruomotzeimes
+places-search-history =
+    .placeholder = Mekleit viesturī
+places-search-downloads =
+    .placeholder = Mekleit lejupīluodēs
 
 ##
 
+places-locked-prompt = Gruomotzeimju i puorlūkuošonys viestures funkcejis nabyus pīejamys, kam { -brand-short-name } failus izmontoj kaida cyta programa. Dažys drūseibys programys var radeit itū problemu.
