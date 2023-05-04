@@ -116,6 +116,15 @@ places-delete-bookmark =
            *[other] Eyða bókamerkjum
         }
     .accesskey = y
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Bókamerkja síðu…
+           *[other] Bókamerkja síður…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Fjarlægja merki
     .accesskey = r
@@ -226,6 +235,9 @@ places-view-sortby-date-added =
 places-view-sortby-last-modified =
     .label = Raða eftir seinast breytt
     .accesskey = R
+places-view-sortby-tags =
+    .label = Raða eftir merkjum
+    .accesskey = t
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -233,6 +245,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Fara áfram
 places-details-pane-select-an-item-description = Veldu hlut til að skoða og breyta
+places-details-pane-no-items =
+    .value = Engin atriði
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Eitt atriði
+           *[other] { $count } atriði
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
