@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = ট্যাবের মধ্যে সকল প্রদর্শন করা হবে
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (ফাঁকা)
 places-view =
     .label = প্রদর্শন
     .accesskey = প
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = লাইব্রেরি
     .style = width:700px; height:500px;
-places-library2 =
-    .title = লাইব্রেরি
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = লাইব্রেরি
 places-organize-button =
@@ -126,3 +125,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = পরবর্তী স্থানে এগিয়ে চলুন
 places-details-pane-select-an-item-description = কোনো বস্তু প্রদর্শন করার জন্য ও সেটির বৈশিষ্ট্য পরিবর্তের উদ্দেশ্যে নির্বাচন করুন
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
