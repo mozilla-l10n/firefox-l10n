@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] Hapus Markah
         }
     .accesskey = H
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Markahi Laman…
+           *[other] Markahi Banyak Laman…
+        }
+    .accesskey = M
 places-untag-bookmark =
     .label = Hapus tag
     .accesskey = H
