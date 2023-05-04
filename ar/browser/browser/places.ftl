@@ -176,6 +176,18 @@ places-forward-button =
 places-details-pane-select-an-item-description = اختر عنصرًا لعرضه وتحرير خصائصه
 places-details-pane-no-items =
     .value = لا عناصر
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [zero] لا عناصر
+            [one] عنصر واحد
+            [two] عنصرين
+            [few] { $count } عناصر
+            [many] { $count } عنصرًا
+           *[other] { $count } عنصر
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
