@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Ubrir tot en pestanyas
     .accesskey = o
+places-empty-bookmarks-folder =
+    .label = (Vuedo)
 places-view =
     .label = Veyer
     .accesskey = r
@@ -47,9 +49,6 @@ managed-bookmarks-subfolder =
 places-library =
     .title = Reposte
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Reposte
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Reposte
 places-organize-button =
@@ -125,6 +124,27 @@ places-view-sort-col-date-added =
     .label = Calendata d'adición
 places-view-sort-col-last-modified =
     .label = Zaguera modificación
+places-view-sortby-name =
+    .label = Ordenar por nombre
+    .accesskey = n
+places-view-sortby-url =
+    .label = Ordenar por puesto
+    .accesskey = p
+places-view-sortby-date =
+    .label = Ordenar por vesita mas recient
+    .accesskey = v
+places-view-sortby-visit-count =
+    .label = Ordenar por numbro de vesitas
+    .accesskey = r
+places-view-sortby-date-added =
+    .label = Ordenar por data d'anyadencia
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Ordenar por data de zaguera modificación
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Ordenar por etiquetas
+    .accesskey = t
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -132,3 +152,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ir ta debant
 places-details-pane-select-an-item-description = Seleccione un elemento ta veyer y editar as suyas propiedatz
+places-details-pane-no-items =
+    .value = Garra elemento
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un elemento
+           *[other] { $count } elementos
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Mirar marcadors
+places-search-history =
+    .placeholder = Mirar l'historial
+places-search-downloads =
+    .placeholder = Mirar descargas
+
+##
+
