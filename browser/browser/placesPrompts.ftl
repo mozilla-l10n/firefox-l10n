@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (ensin títulu)
 places-bookmarks-restore-filter-name = JSON
