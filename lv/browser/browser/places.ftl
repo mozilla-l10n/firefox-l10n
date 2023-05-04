@@ -135,6 +135,8 @@ places-search-bookmarks =
     .placeholder = Meklēt grāmatzīmes
 places-search-history =
     .placeholder = Meklēt vēsturē
+places-search-downloads =
+    .placeholder = Meklēt lejupielādēs
 
 ##
 
