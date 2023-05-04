@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Eike Ovetã Ñemigua Pyahúpe
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Nandi)
 places-add-bookmark =
     .label = Embojuaju techaukaha…
     .accesskey = B
@@ -197,6 +199,27 @@ places-view-sort-col-date-added =
     .label = Mbojoapypyre
 places-view-sort-col-last-modified =
     .label = Ñemoambue ramove
+places-view-sortby-name =
+    .label = Teraite rupi ñemohenda
+    .accesskey = N
+places-view-sortby-url =
+    .label = Tendaite rupi ñemohenda
+    .accesskey = L
+places-view-sortby-date =
+    .label = Jeike ramovéva rupi ñemohenda
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Jeikehague jepapa rupi
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Ñembojoapy ramove rupi
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Emohenda ñemoambueramovéva rupi
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Teramoĩ rupi ñemohenda
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -208,6 +231,12 @@ places-details-pane-select-an-item-description = Eiporavo peteĩ mba’epuru ehe
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Techaukaha jeheka
+places-search-history =
+    .placeholder = Heka
+places-search-downloads =
+    .placeholder = Ñemboguejy jeheka
 
 ##
 
