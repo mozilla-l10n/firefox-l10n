@@ -116,6 +116,15 @@ places-delete-bookmark =
            *[other] Emboguete techaukahakuéra
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Embojuaju kuatiarogue techaukaháre…
+           *[other] Embojuaju kuatiarogue techaukaháre…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Emboguete teramoĩ
     .accesskey = R
@@ -236,6 +245,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Tenonde jeho
 places-details-pane-select-an-item-description = Eiporavo peteĩ mba’epuru ehecha ha embosako’i hag̃ua imba’etee
+places-details-pane-no-items =
+    .value = Mba’epururã’ỹ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Peteĩ mba’epuru
+           *[other] { $count } mba’epurukuéra
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -249,3 +268,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Apopyvusu techaukaha ha tembiasakue rehegua ndoikomo’ãi oĩre peteĩva { -brand-short-name }’s marandurenda ojepurúva ambue tembipuru’ípe. Oĩ tembiaporape hekorosãva ikatuvahína omoapanuãi.
