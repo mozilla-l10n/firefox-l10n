@@ -206,6 +206,8 @@ places-details-pane-no-items =
 
 places-search-bookmarks =
     .placeholder = Pretraži zabilješke
+places-search-history =
+    .placeholder = Pretraži povijest
 places-search-downloads =
     .placeholder = Pretraži preuzimanja
 
