@@ -86,6 +86,15 @@ places-delete-folder =
            *[other] Обриши фасцикли
         }
     .accesskey = О
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Избриши страницу
+           *[other] Избриши странице
+        }
+    .accesskey = И
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Управљај обележивачима
@@ -201,6 +210,27 @@ places-view-sort-col-date-added =
     .label = Додато
 places-view-sort-col-last-modified =
     .label = Последња измена
+places-view-sortby-name =
+    .label = По називу
+    .accesskey = н
+places-view-sortby-url =
+    .label = По адреси
+    .accesskey = а
+places-view-sortby-date =
+    .label = По датуму последње посете
+    .accesskey = п
+places-view-sortby-visit-count =
+    .label = По броју посета
+    .accesskey = б
+places-view-sortby-date-added =
+    .label = По датуму додавања
+    .accesskey = д
+places-view-sortby-last-modified =
+    .label = По датуму последње измене
+    .accesskey = и
+places-view-sortby-tags =
+    .label = По ознакама
+    .accesskey = о
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -223,6 +253,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Претражите обележиваче
+places-search-history =
+    .placeholder = Претражите историју
+places-search-downloads =
+    .placeholder = Претражите преузимања
 
 ##
 
+places-locked-prompt = Обележивачи и историја неће функционисати јер неку од датотека програма { -brand-short-name } користи други програм. Неки безбедносни програми могу да проузрокују овај проблем.
