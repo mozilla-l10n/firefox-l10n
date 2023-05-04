@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (akukho mxholo)
 places-bookmarks-restore-alert-title = Buyela kwiZalathisi eziphawulayo
 places-bookmarks-restore-alert = Oku kuya kuthatha indawo yazo zonke izalathisi eziphawulayo zakho zangoku ngelalela. Uqinisekile?
 places-bookmarks-restore-title = Khetha ilalela lezalathisi eziphawulayo
