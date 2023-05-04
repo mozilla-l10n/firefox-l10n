@@ -164,6 +164,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = किसी मद की विशेषताओं को देखने के लिए इसे चुनें और संपादित करें
 places-details-pane-no-items =
     .value = कोई वस्तु नहीं
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] एक मद
+           *[other] { $count } मद
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
