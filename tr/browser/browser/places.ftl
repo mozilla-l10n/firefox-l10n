@@ -214,6 +214,8 @@ places-search-bookmarks =
     .placeholder = Yer imlerinde ara
 places-search-history =
     .placeholder = Geçmişte ara
+places-search-downloads =
+    .placeholder = İndirilenlerde ara
 
 ##
 
