@@ -153,6 +153,36 @@ mr1-onboarding-theme-description-system =
     .aria-description =
         ᱵᱚᱴᱚᱱ, ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱞᱟᱹᱜᱤᱫ, 
         ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱛᱷᱤᱢ ᱯᱟᱧᱡᱟᱭ ᱢᱮ ᱾
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱞᱟᱭᱤᱴ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
+        ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱞᱟᱭᱤᱴ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
+        ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
+        ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
+        ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱰᱟᱭᱱᱟᱢᱤᱠ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
+        ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱰᱟᱭᱱᱟᱢᱤᱠ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
+        ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
@@ -179,6 +209,7 @@ mr2-onboarding-default-theme-label = ᱢᱩᱞ ᱛᱷᱤᱢ ᱠᱚ ᱥᱮᱸᱫ�
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = ᱟᱞᱮ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ
+mr2-onboarding-thank-you-text = { -brand-short-name } ᱫᱚ ᱢᱤᱫ ᱥᱟᱹᱫᱷᱤᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱮᱥᱚᱨᱠᱟᱨᱤ ᱥᱚᱝᱥᱛᱷᱟ ᱨᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱾ ᱥᱟᱶᱛᱮ ᱟᱵᱚ ᱵᱮᱥ, ᱠᱮᱴᱟᱡ, ᱟᱨ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱮᱵᱽ ᱵᱚᱱ ᱛᱮᱭᱟᱨ ᱫᱟᱲᱟᱭᱟᱜᱼᱟ ᱾
 mr2-onboarding-start-browsing-button-label = ᱯᱟᱱᱛᱮᱭᱟᱜ ᱮᱦᱚᱵᱽ ᱢᱮ
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
@@ -200,6 +231,7 @@ mr2-onboarding-start-browsing-button-label = ᱯᱟᱱᱛᱮᱭᱟᱜ ᱮᱦᱚ�
 
 onboarding-live-language-header = ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱛᱟᱢ
 mr2022-onboarding-live-language-text = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱨᱚᱲᱟᱭ
+mr2022-language-mismatch-subtitle = ᱟᱵᱚᱣᱟᱜ ᱜᱟᱶᱛᱟ ᱠᱷᱟᱹᱛᱤᱨ, { -brand-short-name } ᱫᱚ 90 ᱜᱚᱴᱟᱝ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱟᱠᱟᱱᱟ ᱾ ᱟᱢᱟᱜ ᱥᱤᱥᱴᱮᱢ { $systemLanguage } ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ, ᱟᱨ { -brand-short-name } ᱫᱚ { $appLanguage } ᱵᱮᱵᱷᱟᱨᱮᱫᱟᱭ ᱾
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠ ᱰᱟᱩᱱᱞᱳᱰᱚᱜ ᱠᱟᱱᱟ …
 onboarding-live-language-waiting-button = ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ …
 onboarding-live-language-installing = { $negotiatedLanguage } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠᱮᱴ ᱵᱚᱦᱟᱞᱚᱜ ᱠᱟᱱᱟ …
@@ -221,12 +253,18 @@ fx100-thank-you-hero-text =
     100
     ᱥᱟᱨᱦᱟᱣ 
     <span data-l10n-name="zap">ᱠᱚ</span>
+fx100-thank-you-subtitle = ᱱᱚᱶᱟ ᱫᱚ ᱑᱐᱐ ᱟᱱᱟᱜ ᱨᱤᱞᱤᱡᱽ ᱠᱟᱱᱟ! ᱢᱤᱫ ᱱᱟᱯᱟᱭ, ᱱᱟᱯᱟᱭ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱵᱮᱱᱟᱣ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ ᱾
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] ᱰᱚᱠ ᱨᱮ { -brand-short-name } ᱫᱚᱦᱚᱭ ᱢᱮ
        *[other] ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
     }
 fx100-upgrade-thanks-header = 100 ᱥᱟᱨᱦᱟᱣ ᱠᱚ
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = ᱱᱚᱶᱟ ᱫᱚ { -brand-short-name } ᱨᱮᱭᱟᱜ 100th ᱮᱞ ᱠᱟᱱᱟ ᱾ ᱱᱟᱯᱟᱭ, ᱱᱟᱯᱟᱭ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱵᱮᱱᱟᱣ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱟᱞᱚ ᱠᱚ ᱛᱚᱨᱡᱚᱢᱟ ᱾
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = ᱱᱚᱶᱟ ᱫᱚ ᱑᱐᱐ ᱟᱱᱟᱜ ᱨᱤᱞᱤᱡᱽ ᱠᱟᱱᱟ! ᱟᱵᱚᱣᱟᱜ ᱥᱟᱶᱛᱟ ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ ᱾ { -brand-short-name } ᱢᱤᱫ ᱠᱞᱤᱠ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱑᱐᱐ ᱞᱟᱹᱜᱤᱫ ᱫᱚᱦᱚ ᱢᱮ
 mr2022-onboarding-secondary-skip-button-label = ᱱᱚᱶᱟ ᱪᱚᱨᱚᱬ ᱟᱲᱟᱜ ᱠᱟᱜ ᱢᱮ
 
 ## MR2022 New User Easy Setup screen strings
@@ -245,6 +283,8 @@ mr2022-onboarding-easy-setup-import-checkbox-label = ᱢᱟᱲᱟᱝᱟᱜ ᱵ�
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = ᱢᱤᱫᱴᱟᱹᱝ ᱵᱷᱟᱹᱜᱤ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ { -brand-short-name } ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱜᱮ ᱚᱰᱚᱠ ᱢᱮ ᱾ ᱱᱚᱨᱟ ᱠᱚᱨᱟᱣ ᱠᱟᱛᱮ ᱟᱢ ᱟᱹᱰᱤ ᱵᱟᱥ ᱠᱩᱞᱟᱹ ᱟᱨ ᱥᱟᱹᱫᱷᱤᱱ ᱣᱮᱵᱽ ᱥᱟᱫ ᱯᱟᱧᱡᱟᱭ ᱮᱫᱟᱢ ᱾
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
