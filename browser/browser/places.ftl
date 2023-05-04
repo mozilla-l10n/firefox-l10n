@@ -120,9 +120,6 @@ places-forget-about-this-site-forget = Esquecer
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteca
 places-organize-button =
@@ -205,3 +202,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Avançar
 places-details-pane-select-an-item-description = Selecione um item para ver e editar suas propriedades
+places-details-pane-no-items =
+    .value = Nenhum item
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
