@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] Ezabatu-laster-markak
         }
     .accesskey = E
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Egin orriaren laster-marka…
+           *[other] Egin orrien laster-markak…
+        }
+    .accesskey = m
 places-untag-bookmark =
     .label = Kendu etiketa
     .accesskey = K
