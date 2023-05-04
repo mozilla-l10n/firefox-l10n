@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Cantzella is cartellas
         }
     .accesskey = C
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Cantzella sa pàgina
+           *[other] Cantzella is pàginas
+        }
+    .accesskey = z
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Sinnalibros gestidos
@@ -206,6 +215,27 @@ places-view-sort-col-date-added =
     .label = Agiuntu
 places-view-sort-col-last-modified =
     .label = Ùrtima modìfica
+places-view-sortby-name =
+    .label = Assenta dae su nòmine
+    .accesskey = n
+places-view-sortby-url =
+    .label = Assenta dae sa positzione
+    .accesskey = p
+places-view-sortby-date =
+    .label = Assenta dae sa bìsita prus reghente
+    .accesskey = b
+places-view-sortby-visit-count =
+    .label = Assenta dae su nùmeru de bìsitas
+    .accesskey = n
+places-view-sortby-date-added =
+    .label = Assenta dae sa data de agiunta
+    .accesskey = u
+places-view-sortby-last-modified =
+    .label = Assenta dae s'ùrtima modìfica
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Assenta dae is etichetas
+    .accesskey = E
 places-cmd-find-key =
     .key = f
 places-back-button =
