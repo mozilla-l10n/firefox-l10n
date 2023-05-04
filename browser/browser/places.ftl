@@ -148,6 +148,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Որոնել էջանիշերում
+places-search-history =
+    .placeholder = Որոնել Պատմությունում
+places-search-downloads =
+    .placeholder = Որոնել ներբեռնում
 
 ##
 
+places-locked-prompt = Էջանիշերի և պատմության համակարգը չի գործի, քանի որ { -brand-short-name } ֆայլերից մեկը օգտագործվում է այլ ծրագրի կողմից: Սրա պատճառը կարող է լինել անվտանգության ինչ որ ծրագիր:
