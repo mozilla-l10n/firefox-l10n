@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Kustuta kaustad
         }
     .accesskey = k
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Kustuta leht
+           *[other] Kustuta lehed
+        }
+    .accesskey = u
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hallatud järjehoidjad
@@ -193,6 +202,27 @@ places-view-sort-col-date-added =
     .label = Lisatud
 places-view-sort-col-last-modified =
     .label = Viimati muudetud
+places-view-sortby-name =
+    .label = Sorditakse nime järgi
+    .accesskey = S
+places-view-sortby-url =
+    .label = Sorditakse asukoha järgi
+    .accesskey = o
+places-view-sortby-date =
+    .label = Sorditakse viimase külastamise aja järgi
+    .accesskey = r
+places-view-sortby-visit-count =
+    .label = Sorditakse külastamiste arvu järgi
+    .accesskey = t
+places-view-sortby-date-added =
+    .label = Sorditakse lisamise järgi
+    .accesskey = k
+places-view-sortby-last-modified =
+    .label = Sordi viimase muutmise järgi
+    .accesskey = v
+places-view-sortby-tags =
+    .label = Sordi siltide järgi
+    .accesskey = j
 places-cmd-find-key =
     .key = F
 places-back-button =
@@ -202,12 +232,25 @@ places-forward-button =
 places-details-pane-select-an-item-description = Vali element, et vaadata ja muuta selle omadusi
 places-details-pane-no-items =
     .value = Elemendid puuduvad
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Üks element
+           *[other] { $count } elementi
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Otsi järjehoidjatest
 places-search-history =
     .placeholder = Otsi ajaloost
+places-search-downloads =
+    .placeholder = Otsi allalaadimistest
 
 ##
 
+places-locked-prompt = Järjehoidjate ja ajaloo süsteem ei tööta, kuna üht { -brand-short-name }i faili kasutab muu rakendus. Sellist probleemi võib tekitada turvalisust tagav tarkvara.
