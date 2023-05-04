@@ -51,6 +51,15 @@ places-delete-folder =
            *[other] సంచయాలను తొలగించు
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] పేజీని తొలగించు
+           *[other] పేజీలను తొలగించు
+        }
+    .accesskey = D
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = ఇతర ఇష్టాంశాలు
@@ -150,6 +159,9 @@ places-view-sortby-date-added =
 places-view-sortby-last-modified =
     .label = చివరిగా సవరించిన ప్రకారం క్రమపరచు
     .accesskey = M
+places-view-sortby-tags =
+    .label = ట్యాగుల క్రమంలో అమర్చు
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -171,6 +183,12 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = ఇష్టాంశాలను వెతకండి
+places-search-history =
+    .placeholder = చరిత్రలో వెతకండి
+places-search-downloads =
+    .placeholder = దింపుకోళ్ళలో వెతకండి
 
 ##
 
