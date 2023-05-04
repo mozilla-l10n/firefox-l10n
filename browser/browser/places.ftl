@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = باز کردن در پنجرهٔ ناشناس جدید
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (خالی)
 places-add-bookmark =
     .label = اضافه کردن نشانک…
     .accesskey = B
@@ -198,3 +200,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = جلو رفتن
 places-details-pane-select-an-item-description = یک مورد را برای مشاهده و ویرایش انتخاب کنید
+places-details-pane-no-items =
+    .value = موردی وجود ندارد
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = جست‌وجو در نشانک‌ها
+places-search-history =
+    .placeholder = جست‌وجو در تاریخچه
+
+##
+
