@@ -9,6 +9,7 @@ places-bookmarks-restore-alert-title = Restablir los marcapaginas
 places-bookmarks-restore-alert = Aquò remplaçarà totes vòstres marcapaginas pel salvament. Sètz segur(a) ?
 places-bookmarks-restore-title = Seleccionatz un salament de marcapaginas
 places-bookmarks-restore-filter-name = JSON
+places-bookmarks-restore-format-error = Mena de fichièr pas gerida.
 places-bookmarks-restore-parse-error = Impossible de tractar lo fichièr de salvament.
 places-bookmarks-import = Importar un fichièr de marcapaginas
 places-bookmarks-export = Exportar los marcapaginas dins un fichièr
