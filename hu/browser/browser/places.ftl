@@ -116,6 +116,15 @@ places-delete-bookmark =
            *[other] Könyvjelzők törlése
         }
     .accesskey = t
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Lap könyvjelzőzése…
+           *[other] Lapok könyvjelzőzése…
+        }
+    .accesskey = k
 places-untag-bookmark =
     .label = Címke eltávolítása
     .accesskey = t
