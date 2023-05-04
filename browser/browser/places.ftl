@@ -86,6 +86,15 @@ places-delete-folder =
            *[other] Delete Folders
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Delete Page
+           *[other] Delete Pages
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Managed bookmarks
