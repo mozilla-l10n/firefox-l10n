@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = എല്ലാം ടാബുകളില്‍ തുറക്കുക
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (ശൂന്യം)
 places-view =
     .label = കാഴ്ച
     .accesskey = w
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = സംഭരണി
     .style = width:700px; height:500px;
-places-library2 =
-    .title = സംഭരണി
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = സംഭരണി
 places-organize-button =
@@ -126,3 +125,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = മുമ്പോട്ടു് പോകുക
 places-details-pane-select-an-item-description = ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = അടയാളക്കുറിപ്പുകള്‍ തെരയുക
+places-search-history =
+    .placeholder = ചരിത്രം തെരയുക
+
+##
+
