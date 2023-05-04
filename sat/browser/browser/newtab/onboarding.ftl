@@ -36,10 +36,17 @@ return-to-amo-add-theme-label = ᱛᱷᱤᱢ ᱥᱮᱞᱮᱫ ᱢᱮ
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = { -brand-short-name } ᱡᱚᱦᱟᱨᱟᱭ ᱢᱮ
+mr1-return-to-amo-addon-title = ᱟᱢ ᱴᱷᱮᱱ ᱢᱤᱫᱴᱟᱝ ᱯᱨᱟᱭᱣᱮᱴ, ᱯᱨᱟᱭᱵᱷᱮᱴ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱤᱛᱚᱜ ᱟᱢ <b>{ $addon-name }</b> ᱟᱨᱦᱚᱸ { -brand-short-name } ᱥᱟᱞᱟᱜ ᱟᱹᱰᱤ ᱰᱷᱮᱨ ᱡᱤᱱᱤᱥ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱟᱭᱟᱜᱼᱟᱢ ᱾
 mr1-return-to-amo-add-extension-label = { $addon-name } ᱥᱮᱞᱮᱫ ᱢᱮ
 
 ## Multistage onboarding strings (about:welcome pages)
 
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = ᱮᱛᱚᱦᱚᱵ: { $total } ᱠᱷᱚᱱ { $current } ᱥᱠᱨᱤᱱ
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -70,6 +77,12 @@ mr1-onboarding-reduce-motion-button-label = ᱮᱱᱤᱢᱮᱥᱚᱱ ᱠᱚ ᱵ�
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] ᱟᱞᱜᱟ ᱛᱮ ᱥᱮᱴᱮᱨᱚᱜ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱰᱚᱠ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
+       *[other] ᱟᱞᱜᱟ ᱛᱮ ᱥᱮᱴᱮᱨᱚᱜ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -86,6 +99,7 @@ mr1-onboarding-sign-in-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱛᱮᱭᱟᱨ ᱢᱮ
+mr1-onboarding-default-subtitle = ᱚᱴᱚᱯᱟᱭᱞᱚᱴ ᱨᱮ ᱪᱚᱴᱠᱟᱨ, ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱯᱨᱟᱭᱵᱷᱮᱥᱤ ᱫᱤᱦᱚᱭ ᱢᱮ ᱾
 mr1-onboarding-default-primary-button-label = ᱢᱩᱞ ᱵᱽᱨᱟᱩᱡᱚᱨ ᱞᱮᱠᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
@@ -100,6 +114,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ᱠᱷᱚ
 mr1-onboarding-import-primary-button-label-no-attribution = ᱢᱟᱲᱟᱝᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 mr1-onboarding-import-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 mr2-onboarding-colorway-header = ᱡᱤᱣᱚᱱ ᱨᱚᱝ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ
+mr2-onboarding-colorway-subtitle = ᱱᱟᱣᱟ ᱨᱚᱝ ᱨᱩᱯ ᱛᱮᱭᱟᱨ ᱥᱤᱢᱤᱛ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱦᱮᱸᱱᱟ ᱾
 mr2-onboarding-colorway-primary-button-label = ᱠᱚᱞᱚᱨᱣᱮ ᱥᱮᱧᱪᱟᱣ ᱢᱮ
 mr2-onboarding-colorway-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 mr2-onboarding-colorway-label-soft = ᱞᱟᱹᱵᱤᱫ
@@ -112,6 +127,7 @@ mr2-onboarding-theme-label-auto = ᱟᱡ ᱛᱮ
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ᱢᱩᱞ
 mr1-onboarding-theme-header = ᱟᱢᱟᱜ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
+mr1-onboarding-theme-subtitle = ᱢᱤᱫᱴᱟᱹᱝ ᱛᱷᱤᱢ ᱥᱟᱞᱟᱜ ᱛᱮ { -brand-short-name } ᱥᱟᱡᱟᱣ ᱢᱮ ᱾
 mr1-onboarding-theme-primary-button-label = ᱛᱷᱚᱤᱢ ᱥᱮᱧᱪᱟᱣ ᱢᱮ
 mr1-onboarding-theme-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 # System theme uses operating system color settings
@@ -127,6 +143,16 @@ onboarding-theme-primary-button-label = ᱦᱩᱭᱮᱱᱟ
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        ᱵᱚᱴᱚᱱ, ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱞᱟᱹᱜᱤᱫ, 
+        ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱛᱷᱤᱢ ᱯᱟᱧᱡᱟᱭ ᱢᱮ ᱾
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        ᱵᱚᱴᱚᱱ, ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱞᱟᱹᱜᱤᱫ, 
+        ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱛᱷᱤᱢ ᱯᱟᱧᱡᱟᱭ ᱢᱮ ᱾
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
@@ -326,5 +352,7 @@ mr2022-onboarding-default-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = ᱢᱤᱫ ᱞᱮᱯᱴᱚᱯ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱢᱤᱫ ᱯᱷᱚᱠᱥ ᱟᱸᱡᱚᱢᱟ ᱱᱚᱶᱟ ᱞᱚᱯᱴᱚᱯ ᱨᱮ ᱢᱤᱫ ᱢᱟᱣᱩᱥ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 onboarding-device-migration-title = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!
 onboarding-device-migration-primary-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
