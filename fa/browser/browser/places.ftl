@@ -193,6 +193,27 @@ places-view-sort-col-date-added =
     .label = تاریخ افزوده شدن
 places-view-sort-col-last-modified =
     .label = زمان آخرین تغییر
+places-view-sortby-name =
+    .label = مرتب‌سازی بر حسب نام
+    .accesskey = ن
+places-view-sortby-url =
+    .label = مرتب‌سازی بر حسب مکان
+    .accesskey = م
+places-view-sortby-date =
+    .label = مرتب‌سازی بر حسب تازه‌ترین بازدید
+    .accesskey = ب
+places-view-sortby-visit-count =
+    .label = مرتب‌سازی بر حسب تعداد بازدید
+    .accesskey = ت
+places-view-sortby-date-added =
+    .label = مرتب کردن بر اساس اضافه شدن
+    .accesskey = ش
+places-view-sortby-last-modified =
+    .label = مرتب کردن بر اساس آخرین تغییر
+    .accesskey = ت
+places-view-sortby-tags =
+    .label = مرتب‌سازی بر اساس برچسبها
+    .accesskey = ب
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -215,3 +236,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = به دلیل این که یکی از پرونده‌های { -brand-short-name } در حال استفاده توسط برنامهٔ دیگری است، سیستم نشانک‌ها و تاریخچه عمل نخواهد کرد. امکان دارد برخی نرم‌افزارهای امنیتی باعث ایجاد این مشکل شوند.
