@@ -20,6 +20,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Buksan sa Bagong Private Window
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Walang laman)
 places-add-bookmark =
     .label = Magdagdag ng Bookmark…
     .accesskey = B
@@ -168,6 +170,15 @@ places-view-sort-col-date-added =
     .label = Idinagdag
 places-view-sort-col-last-modified =
     .label = Huling Binago
+places-view-sortby-name =
+    .label = Pagsunud-sunurin ayon sa Pangalan
+    .accesskey = N
+places-view-sortby-url =
+    .label = Pagsunud-sunurin ayon sa Lokasyon
+    .accesskey = L
+places-view-sortby-date =
+    .label = Pagsunud-sunurin ayon sa Pinakahuling Pagbisita
+    .accesskey = V
 places-view-sortby-visit-count =
     .label = Isalansan ayon sa Bilang ng Pagbisita
     .accesskey = C
@@ -210,3 +221,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Hindi gumagana ang system ng bookmark at history dahil ginagamit ng ibang application ang isa sa mga file ng { -brand-short-name }. Maaaring isang security software ang sanhi nito.
