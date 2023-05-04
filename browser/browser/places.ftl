@@ -210,6 +210,8 @@ places-details-pane-select-an-item-description = Sélectionner un élément pour
 
 places-search-bookmarks =
     .placeholder = Rechercher dans les marque-pages
+places-search-downloads =
+    .placeholder = Rechercher dans les téléchargements
 
 ##
 
