@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Abrir en una nueva ventana privada
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Vacío)
 places-add-bookmark =
     .label = Agregar marcador...
     .accesskey = m
@@ -122,9 +124,6 @@ places-forget-about-this-site-forget = Olvidar
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteca
 places-organize-button =
@@ -207,3 +206,25 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ir adelante
 places-details-pane-select-an-item-description = Selecciona un elemento para ver y editar sus propiedades
+places-details-pane-no-items =
+    .value = Sin elementos
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un elemento
+           *[other] { $count } elementos
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Buscar marcadores
+places-search-downloads =
+    .placeholder = Buscar descargas
+
+##
+
+places-locked-prompt = El sistema del historial y los marcadores no funcionará por que uno de los archivos de { -brand-short-name } está ocupado por otra aplicación. Algunos programas de seguridad pueden causar este problema.
