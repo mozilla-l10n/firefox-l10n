@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Aperir in un nove fenestra private
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Vacue)
 places-add-bookmark =
     .label = Adder marcapagina…
     .accesskey = m
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = Oblidar
 places-library =
     .title = Bibliotheca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Bibliotheca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Bibliotheca
 places-organize-button =
@@ -198,6 +197,24 @@ places-view-sort-col-date-added =
     .label = Addite
 places-view-sort-col-last-modified =
     .label = Ultime modification
+places-view-sortby-name =
+    .label = Ordinar per nomine
+    .accesskey = n
+places-view-sortby-url =
+    .label = Ordinar per adresse
+    .accesskey = a
+places-view-sortby-date =
+    .label = Ordinar per visita plus recente
+    .accesskey = n
+places-view-sortby-date-added =
+    .label = Ordinar per le data addite
+    .accesskey = d
+places-view-sortby-last-modified =
+    .label = Ordinar per ultime modification
+    .accesskey = u
+places-view-sortby-tags =
+    .label = Ordinar per etiquettas
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -205,3 +222,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Avantiar
 places-details-pane-select-an-item-description = Selige un elemento pro vider e modificar su proprietates
+places-details-pane-no-items =
+    .value = Nulle elementos
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un elemento
+           *[other] { $count } elementos
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Cercar in le marcapaginas
+places-search-history =
+    .placeholder = Cercar in le chronologia
+places-search-downloads =
+    .placeholder = Cercar in le discargamentos
+
+##
+
+places-locked-prompt = Le systema de marcapaginas e chronologia non functionara perque un del files de { -brand-short-name } es in uso per un altere application. Alcun software de securitate pote causar iste problema.
