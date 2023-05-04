@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = নাম অনুসারে সাজান
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] পাতাটি মুছুন
+           *[other] পাতাগুলি মুছুন
+        }
+    .accesskey = D
 places-library =
     .title = লাইব্রেরি
     .style = width:700px; height:500px;
