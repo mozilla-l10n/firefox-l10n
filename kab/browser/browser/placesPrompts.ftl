@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (ulac azwel)
 places-bookmarks-backup-title = Ifuyla n ukles n tecraḍ n isebtar
 places-bookmarks-restore-alert-title = Err-d ticraḍ n isebtar
+places-bookmarks-restore-alert = Aya ad isemselsi akk ticraḍ n isebtar timiranin s wayen i tḥerzeḍ yakan. Ad tkemmled?
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Tawsit n ufaylu ur tettusefrak ara.
 places-bookmarks-restore-parse-error = Ur izmir ara ad isleḍ afaylu n uklas.
