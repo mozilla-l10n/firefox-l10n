@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Iepenje yn nij priveefinster
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Leech)
 places-add-bookmark =
     .label = Blêdwizer tafoegje…
     .accesskey = B
@@ -122,9 +124,6 @@ places-forget-about-this-site-forget = Ferjitte
 places-library =
     .title = Biblioteek
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteek
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteek
 places-organize-button =
@@ -207,3 +206,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Gean foarút
 places-details-pane-select-an-item-description = Selektearje in item om te besjen en de eigenskippen te bewurkjen
+places-details-pane-no-items =
+    .value = Gjin items
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
