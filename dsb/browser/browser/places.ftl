@@ -89,6 +89,15 @@ places-delete-folder =
            *[other] Zarědniki lašowaś
         }
     .accesskey = l
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Bok lašowaś
+           *[other] Boki lašowaś
+        }
+    .accesskey = B
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Zastojane cytańske znamjenja
@@ -113,6 +122,15 @@ places-delete-bookmark =
            *[other] Cytańske znamjenja lašowaś
         }
     .accesskey = l
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Bok ako cytańske znamje składowaś …
+           *[other] Boki ako cytańske znamje składowaś …
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Wobznamjenje wótwónoźeś
     .accesskey = W
