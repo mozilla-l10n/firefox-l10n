@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = அனைத்தையும் கீற்றுகளாகத் திற
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (வெற்று)
 places-view =
     .label = பார்வை
     .accesskey = w
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = தரவகம்
     .style = width:700px; height:500px;
-places-library2 =
-    .title = தரவகம்
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = தரவகம்
 places-organize-button =
@@ -126,3 +125,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = முன்னால் செல்
 places-details-pane-select-an-item-description = ஒரு உருப்படியை அதன் தன்மைகளை பார்க்க மற்றும் திருத்த தேர்ந்தெடுக்கவும்
+places-details-pane-no-items =
+    .value = உருப்படிகள் இல்லை
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = தேடு புத்தகக்குறிகள்
+
+##
+
