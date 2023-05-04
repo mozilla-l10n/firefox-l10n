@@ -182,6 +182,10 @@ places-details-pane-no-items =
 
 places-search-bookmarks =
     .placeholder = ابحث في العلامات
+places-search-history =
+    .placeholder = ابحث في التأريخ
+places-search-downloads =
+    .placeholder = ابحث في التنزيلات
 
 ##
 
