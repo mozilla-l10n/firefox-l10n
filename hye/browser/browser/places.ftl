@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Բացել նոր գաղտնի պատուհանում
     .accesskey = գ
+places-empty-bookmarks-folder =
+    .label = (Դատարկ)
 places-add-bookmark =
     .label = Աւելացնել էջանիշ…
     .accesskey = է
@@ -83,6 +85,15 @@ places-delete-folder =
            *[other] Ջնջել պանակները
         }
     .accesskey = ր
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Ջնջել էջը
+           *[other] Ջնջել էջերը
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Կառավարուող էջանիշեր
@@ -116,9 +127,6 @@ places-forget-about-this-site-forget = Մոռանալ
 places-library =
     .title = Դարան
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Դարան
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Դարան
 places-organize-button =
@@ -194,6 +202,27 @@ places-view-sort-col-date-added =
     .label = Աւելացուել է
 places-view-sort-col-last-modified =
     .label = Վերջին փոփոխութիւնը
+places-view-sortby-name =
+    .label = Տեսակաւորել ըստ անուան
+    .accesskey = N
+places-view-sortby-url =
+    .label = Խմբաւորել ըստ տեղի
+    .accesskey = L
+places-view-sortby-date =
+    .label = Խմբաւորել ըստ վերջին այցելութեան
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Խմբաւորել ըստ այցելութիւնների
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Խմբաւորել ըստ աւելացնելու
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Խմբաւորել ըստ փոփոխման
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Խմբաւորել ըստ պիտակի
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -201,3 +230,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Անցնել առաջ
 places-details-pane-select-an-item-description = Ընտրէք բաղադրիչը դիտելու եւ խմբագրելու նրա կարգաւորումները
+places-details-pane-no-items =
+    .value = Չկա տարր
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Մեկ միաւոր
+           *[other] { $count } միաւորներ
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Որոնել էջանիշերում
+places-search-history =
+    .placeholder = Որոնել պատմութիւնում
+places-search-downloads =
+    .placeholder = Որոնել ներբեռնումներում
+
+##
+
