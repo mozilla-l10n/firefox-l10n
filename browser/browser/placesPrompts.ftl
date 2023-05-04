@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-bookmarks-restore-title = בחירת קובץ גיבוי סימניות
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = סוג קובץ לא נתמך.
 places-bookmarks-restore-parse-error = לא ניתן לעבד את קובץ הגיבוי.
