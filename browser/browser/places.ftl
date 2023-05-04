@@ -199,6 +199,9 @@ places-view-sort-col-date-added =
     .label = Hozzáadva
 places-view-sort-col-last-modified =
     .label = Utoljára módosítva
+places-view-sortby-name =
+    .label = Rendezés név szerint
+    .accesskey = n
 places-view-sortby-url =
     .label = Rendezés hely szerint
     .accesskey = h
@@ -211,6 +214,9 @@ places-view-sortby-visit-count =
 places-view-sortby-date-added =
     .label = Rendezés a hozzáadás ideje szerint
     .accesskey = e
+places-view-sortby-last-modified =
+    .label = Rendezés az utolsó módosítás szerint
+    .accesskey = m
 places-view-sortby-tags =
     .label = Rendezés címkék szerint
     .accesskey = c
@@ -244,3 +250,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = A könyvjelzők és az előzmények rendszere nem fog működni, mert a { -brand-short-name } egyik fájlját egy másik alkalmazás használja. Egyes biztonsági szoftverek okozhatnak ilyen problémát.
