@@ -8,6 +8,7 @@ places-bookmarks-backup-title = Enw ffeil nodau tudalen wrth gefn
 places-bookmarks-restore-alert-title = Adfer i'r Nodau Tudalen
 places-bookmarks-restore-title = Dewis nodau tudalen wrth gefn
 places-bookmarks-restore-filter-name = JSON
+places-bookmarks-restore-format-error = Math ffeil nad yw'n cael ei chynnal.
 places-bookmarks-restore-parse-error = Methu prosesu'r ffeil wrth gefn.
 places-bookmarks-import = Mewnforio Ffeil Nodau Tudalen
 places-bookmarks-export = Allforio Ffeil Nodau Tudalen
