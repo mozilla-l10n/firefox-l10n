@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Ava uues privaatses aknas
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (tühi)
 places-add-bookmark =
     .label = Lisa järjehoidja…
     .accesskey = h
@@ -116,9 +118,6 @@ places-forget-about-this-site-forget = Unusta
 places-library =
     .title = Kogumik
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Kogumik
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Kogumik
 places-organize-button =
@@ -201,3 +200,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Mine edasi
 places-details-pane-select-an-item-description = Vali element, et vaadata ja muuta selle omadusi
+places-details-pane-no-items =
+    .value = Elemendid puuduvad
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-history =
+    .placeholder = Otsi ajaloost
+
+##
+
