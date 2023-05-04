@@ -502,6 +502,7 @@ forms-windows-sso-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -536,25 +537,72 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
     .accesskey = ᱥ
+history-clear-button =
+    .label = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ
 sitedata-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+sitedata-option-block-all =
+    .label = ᱠᱷᱚᱛᱚ ᱠᱩᱩᱠᱤ ᱠᱚ (ᱱᱚᱶᱟ ᱫᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱟᱹᱯᱩᱫᱟᱭ)
+sitedata-clear =
+    .label = ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ…
+    .accesskey = l
 
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚ
+cookie-banner-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+forms-handle-cookie-banners =
+    .label = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚᱭ ᱢᱮ
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ᱴᱷᱤᱠᱟᱹᱱᱟ ᱦᱩᱨᱠᱟᱹᱬ
+addressbar-locbar-history-option =
+    .label = ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
+    .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+    .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
+    .accesskey = T
+addressbar-locbar-engines-option =
+    .label = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
+    .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = ᱞᱚᱜᱚᱱ ᱛᱮᱭᱟ ᱠᱚᱢᱤ
+    .accesskey = Q
+addressbar-quickactions-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = ᱵᱟᱲᱦᱟᱣᱟᱠᱟᱱ ᱯᱟᱸᱡᱟ ᱨᱚᱯᱷᱟ
 content-blocking-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = ᱢᱟᱱᱚᱠ
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = ᱱᱤᱦᱟᱹᱛ
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = ᱠᱩᱥᱤᱭᱟᱜ
+    .accesskey = C
 
 ##
 
