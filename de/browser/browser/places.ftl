@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] Lesezeichen löschen
         }
     .accesskey = s
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Lesezeichen für Seiten hinzufügen…
+           *[other] Lesezeichen für Seiten hinzufügen…
+        }
+    .accesskey = L
 places-untag-bookmark =
     .label = Schlagwort entfernen
     .accesskey = e
