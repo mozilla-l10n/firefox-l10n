@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Yeni gizli pencerede aç
     .accesskey = z
+places-empty-bookmarks-folder =
+    .label = (Boş)
 places-add-bookmark =
     .label = Yer imi ekle…
     .accesskey = m
@@ -122,9 +124,6 @@ places-forget-about-this-site-forget = Unut
 places-library =
     .title = Arşiv
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Arşiv
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Arşiv
 places-organize-button =
@@ -207,3 +206,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = İleriye gider
 places-details-pane-select-an-item-description = Özelliklerini görmek ve değiştirmek için bir öğe seçin
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
