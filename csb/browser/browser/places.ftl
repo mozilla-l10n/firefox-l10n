@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Òtemkni wszëtkò w kôrtach
     .accesskey = Ò
+places-empty-bookmarks-folder =
+    .label = (Pùsti)
 places-view =
     .label = Wëzdrzatk
     .accesskey = W
@@ -37,9 +39,6 @@ places-sortby-name =
 places-library =
     .title = Biblioteka
     .style = width:800px; height:500px;
-places-library2 =
-    .title = Biblioteka
-    .style = min-width:800px; min-height:500px;
 places-library3 =
     .title = Biblioteka
 places-organize-button =
@@ -120,3 +119,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Biéj do przódkù
 places-details-pane-select-an-item-description = Wëbierzë element, abë wëskrzënic i editowac jegò swòjiznã
+places-details-pane-no-items =
+    .value = Felënk elementów
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Jeden element
+            [few] { $count } elementë
+           *[many] { $count } elementë
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Szëkba w załóżkach
+places-search-history =
+    .placeholder = Szëkba w historie
+
+##
+
+places-locked-prompt = System załóżków i historie nie bãdą robiłë dlôte, że jeden z programów { -brand-short-name } je brëkòwóny przez jinszą aplikacjã. Niechtërne programë sparłãczoné z bezpiekã mògą bëc winné.
