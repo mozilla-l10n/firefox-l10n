@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Atvērt visas cilnēs
     .accesskey = A
+places-empty-bookmarks-folder =
+    .label = (Tukšs)
 places-view =
     .label = Skats
     .accesskey = t
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = Bibliotēka
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Bibliotēka
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Bibliotēka
 places-organize-button =
@@ -126,3 +125,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Iet uz priekšu
 places-details-pane-select-an-item-description = Izvēlieties elementu, ko aplūkot vai rediģēt
+places-details-pane-no-items =
+    .value = Nav nevienas vienības
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Meklēt grāmatzīmes
+places-search-history =
+    .placeholder = Meklēt vēsturē
+
+##
+
