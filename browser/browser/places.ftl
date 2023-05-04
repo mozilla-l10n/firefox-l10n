@@ -197,6 +197,27 @@ places-view-sort-col-date-added =
     .label = Ditambahkan pada
 places-view-sort-col-last-modified =
     .label = Modifikasi Terakhir
+places-view-sortby-name =
+    .label = Urut berdasarkan Nama
+    .accesskey = N
+places-view-sortby-url =
+    .label = Urut berdasarkan Lokasi
+    .accesskey = L
+places-view-sortby-date =
+    .label = Urut berdasarkan Yang Terbaru & Kunjungan
+    .accesskey = K
+places-view-sortby-visit-count =
+    .label = Urut berdasarkan Jumlah Kunjungan
+    .accesskey = J
+places-view-sortby-date-added =
+    .label = Urut berdasarkan Waktu Ditambahkan
+    .accesskey = W
+places-view-sortby-last-modified =
+    .label = Urut berdasarkan Terakhir Diubah
+    .accesskey = T
+places-view-sortby-tags =
+    .label = Urut berdasarkan Tag
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -223,3 +244,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Sistem markah dan riwayat tidak dapat berfungsi karena salah satu berkas milik { -brand-short-name } sedang digunakan oleh aplikasi lainnya. Beberapa perangkat lunak keamanan dapat menyebabkan masalah ini.
