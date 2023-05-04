@@ -232,8 +232,12 @@ places-details-pane-select-an-item-description = Επιλέξτε ένα στο�
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Αναζήτηση σελιδοδεικτών
 places-search-history =
     .placeholder = Αναζήτηση ιστορικού
+places-search-downloads =
+    .placeholder = Αναζήτηση λήψεων
 
 ##
 
