@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Vula zonke iithebhu
     .accesskey = V
+places-empty-bookmarks-folder =
+    .label = (Okungenanto)
 places-view =
     .label = Jonga
     .accesskey = g
@@ -37,9 +39,6 @@ places-sortby-name =
 places-library =
     .title = Ilayibhrari
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Ilayibhrari
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Ilayibhrari
 places-organize-button =
@@ -122,3 +121,22 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Yiya phambili
 places-details-pane-select-an-item-description = Khetha iayithem uyijonge uze uhlele iipropati zayo
+places-details-pane-no-items =
+    .value = Akukho zinto
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Into enye
+           *[other] { $count } izinto
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-downloads =
+    .placeholder = Khangela ngokuKhutshelwayo
+
+##
+
