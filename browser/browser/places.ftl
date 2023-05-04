@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Hapus Folder
         }
     .accesskey = H
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Hapus Laman
+           *[other] Hapus Laman
+        }
+    .accesskey = H
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Markah yang dikelola
