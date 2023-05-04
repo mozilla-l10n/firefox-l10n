@@ -173,6 +173,21 @@ places-view-sortby-name =
 places-view-sortby-url =
     .label = رتّب بالمكان
     .accesskey = ك
+places-view-sortby-date =
+    .label = رتّب بآخر زيارة
+    .accesskey = خ
+places-view-sortby-visit-count =
+    .label = رتّب بعدد الزيارات
+    .accesskey = ع
+places-view-sortby-date-added =
+    .label = رتّب بتاريخ الإضافة
+    .accesskey = ض
+places-view-sortby-last-modified =
+    .label = رتّب بآخر تعديل
+    .accesskey = ع
+places-view-sortby-tags =
+    .label = رتّب بالوسوم
+    .accesskey = س
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -207,3 +222,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = لن يعمل نظام التأريخ و العلامات بشكل صحيح لأنّ أحد ملفات { -brand-short-name } يستخدمه تطبيق آخر. قد يكون المتسبب بهذا أحد برامج الحماية.
