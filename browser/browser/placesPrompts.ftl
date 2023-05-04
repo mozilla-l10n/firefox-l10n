@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (제목 없음)
 places-bookmarks-restore-alert-title = 북마크 복구
 places-bookmarks-restore-title = 북마크 백업 선택
+places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = 지원하지 않는 파일 형식.
 places-bookmarks-restore-parse-error = 백업 파일을 처리할 수 없습니다.
 places-bookmarks-import = 북마크 파일 가져오기
