@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (ᱮᱠᱷᱮᱱ)
 places-add-bookmark =
     .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱮᱞᱮᱫ ᱢᱮ …
     .accesskey = B
@@ -86,6 +88,15 @@ places-delete-folder =
            *[other] ᱯᱚᱴᱚᱢ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] ᱥᱟᱦᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ
+           *[other] ᱥᱟᱦᱴᱟ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱚᱢᱵᱷᱵᱲᱟᱣ ᱢᱮ
@@ -109,6 +120,15 @@ places-delete-bookmark =
            *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
+           *[other] ᱥᱟᱦᱴᱟᱠᱚ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = ᱴᱮᱜᱽ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
@@ -198,6 +218,27 @@ places-view-sort-col-date-added =
     .label = ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 places-view-sort-col-last-modified =
     .label = ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱮᱱ
+places-view-sortby-name =
+    .label = ᱧᱩᱛᱩᱢ ᱫᱟᱨᱟᱭ ᱛᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = N
+places-view-sortby-url =
+    .label = ᱡᱟᱭᱜᱟ ᱩᱫᱩᱜ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱟᱞᱟ
+    .accesskey = L
+places-view-sortby-date =
+    .label = ᱟᱹᱰᱤ ᱥᱩᱨᱟᱜ ᱧᱮᱞ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱟᱞᱟ
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ᱧᱮᱞ ᱞᱮᱠᱷᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱟᱞᱟ
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = ᱥᱮᱞᱟᱫᱟᱜ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱟᱞᱟ
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ᱢᱩᱪᱟᱹᱫ ᱵᱚᱫᱚᱞ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱟᱞᱟ
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ᱛᱚᱞ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱮᱴ ᱢᱮ
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -205,3 +246,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ᱢᱟᱲᱟᱝ ᱥᱮᱫ ᱪᱟᱞᱟᱣ
 places-details-pane-select-an-item-description = ᱢᱤᱫ ᱡᱤᱱᱤᱥ ᱟᱨ ᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱜᱩᱱ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+places-details-pane-no-items =
+    .value = ᱡᱟᱦᱟᱱᱟᱜ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ᱢᱤᱫᱴᱟᱹᱝ ᱡᱤᱱᱤᱥ
+           *[other] { $count } ᱡᱤᱱᱤᱥ ᱠᱚ
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+places-search-history =
+    .placeholder = ᱥᱮᱸᱫᱽᱨᱟ ᱱᱟᱜᱟᱢ ᱠᱚ
+places-search-downloads =
+    .placeholder = ᱰᱟᱩᱱᱞᱚᱰ ᱯᱟᱱᱛᱮ ᱢᱮ
+
+##
+
+places-locked-prompt = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹᱝ ᱟᱨᱚ ᱦᱤᱛᱟᱹᱞ ᱥᱮᱥᱴᱮᱢ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱢᱤᱛ { -brand-short-name }’ ᱨᱮᱫ ᱨᱮᱭᱟᱜ ᱮᱴᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱫᱟᱨᱟᱭ ᱛᱮ ᱵᱮᱵᱷᱟᱨᱚ ᱨᱮ ᱢᱮᱱᱟᱜ ᱟ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱡᱟᱹᱯᱛᱤ ᱥᱚᱯᱷᱴᱣᱮᱭᱟᱨᱚ ᱱᱚᱣᱟ ᱫᱤᱜᱫᱷᱟᱹ ᱡᱟᱱᱟᱢ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
