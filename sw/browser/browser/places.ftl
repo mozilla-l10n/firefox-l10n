@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Fungua Zote kwa vichupo
     .accesskey = F
+places-empty-bookmarks-folder =
+    .label = (Tupu)
 places-view =
     .label = Onyesha
     .accesskey = s
@@ -35,9 +37,6 @@ places-sortby-name =
 places-library =
     .title = Maktaba
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Maktaba
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Maktaba
 places-organize-button =
@@ -118,3 +117,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Nenda mbele
 places-details-pane-select-an-item-description = Chagua kipengee cha kuangalia na kuhariri sifa zake
+places-details-pane-no-items =
+    .value = Hakuna vipengee
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Kipengee kimoja
+           *[other] { $count }vipengee
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Tafuta Vialamisho
+places-search-history =
+    .placeholder = Historia ya Utafutaji
+places-search-downloads =
+    .placeholder = Tafuta Vipakuzi
+
+##
+
