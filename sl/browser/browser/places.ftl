@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Odpri v novem zasebnem oknu
     .accesskey = s
+places-empty-bookmarks-folder =
+    .label = (Prazno)
 places-add-bookmark =
     .label = Dodaj zaznamek …
     .accesskey = D
@@ -199,6 +201,27 @@ places-view-sort-col-date-added =
     .label = Dodano
 places-view-sort-col-last-modified =
     .label = Zadnja sprememba
+places-view-sortby-name =
+    .label = Razvrsti po imenu
+    .accesskey = N
+places-view-sortby-url =
+    .label = Razvrsti po naslovu
+    .accesskey = L
+places-view-sortby-date =
+    .label = Razvrsti po datumu zadnjega obiska
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Razvrsti po številu obiskov
+    .accesskey = z
+places-view-sortby-date-added =
+    .label = Razvrsti po datumu dodajanja
+    .accesskey = a
+places-view-sortby-last-modified =
+    .label = Razvrsti po datumu zadnje spremembe
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Razvrsti po oznakah
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -206,10 +229,29 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Pojdi naprej
 places-details-pane-select-an-item-description = Izberi predmet za prikaz in urejanje njegovih lastnosti
+places-details-pane-no-items =
+    .value = Brez predmetov
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] En predmet
+            [two] { $count } predmeta
+            [few] { $count } predmeti
+           *[other] { $count } predmetov
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Iskanje po zaznamkih
+places-search-history =
+    .placeholder = Iskanje po zgodovini
+places-search-downloads =
+    .placeholder = Iskanje po prenosih
 
 ##
 
+places-locked-prompt = Zaznamki in zgodovina ne bodo delovali, ker eno izmed datotek programa { -brand-short-name } uporablja nek drug program. Napako lahko povzroča katero izmed varnostnih orodij.

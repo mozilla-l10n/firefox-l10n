@@ -3,4 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (brez naslova)
+places-bookmarks-backup-title = Ime datoteke z varnostno kopijo zaznamkov
+places-bookmarks-restore-alert-title = Povrni zaznamke
+places-bookmarks-restore-alert = Ta korak bo vse vaše trenutne zaznamke zamenjal z varnostno kopijo. Ali ste prepričani?
 places-bookmarks-restore-filter-name = JSON
+places-bookmarks-restore-format-error = Vrsta datoteke ni podprta.
+places-bookmarks-restore-parse-error = Varnostne kopije ni mogoče obdelati.
+places-bookmarks-import = Uvozi datoteko z zaznamki
+places-bookmarks-export = Izvozi datoteko zaznamkov
