@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Ta bort mappar
         }
     .accesskey = b
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Ta bort sida
+           *[other] Ta bort sidor
+        }
+    .accesskey = T
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hanterade bokmärken
@@ -107,6 +116,15 @@ places-delete-bookmark =
            *[other] Ta bort bokmärken
         }
     .accesskey = b
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Bokmärk sida…
+           *[other] Bokmärk sidor…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Ta bort tagg
     .accesskey = T
@@ -199,6 +217,27 @@ places-view-sort-col-date-added =
     .label = Ursprungsdatum
 places-view-sort-col-last-modified =
     .label = Senast ändrad
+places-view-sortby-name =
+    .label = Sortera efter namn
+    .accesskey = N
+places-view-sortby-url =
+    .label = Sortera efter plats
+    .accesskey = P
+places-view-sortby-date =
+    .label = Sortera efter senaste besök
+    .accesskey = B
+places-view-sortby-visit-count =
+    .label = Sortera på antal besök
+    .accesskey = A
+places-view-sortby-date-added =
+    .label = Sortera på tillagd
+    .accesskey = T
+places-view-sortby-last-modified =
+    .label = Sortera efter senast uppdaterad
+    .accesskey = u
+places-view-sortby-tags =
+    .label = Sortera efter etiketter
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
