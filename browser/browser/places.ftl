@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Ordner löschen
         }
     .accesskey = s
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Seite entfernen
+           *[other] Seiten entfernen
+        }
+    .accesskey = e
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Verwaltete Lesezeichen
@@ -197,6 +206,27 @@ places-view-sort-col-date-added =
     .label = Hinzugefügt
 places-view-sort-col-last-modified =
     .label = Zuletzt verändert
+places-view-sortby-name =
+    .label = Sortieren nach Name
+    .accesskey = N
+places-view-sortby-url =
+    .label = Sortieren nach Adresse
+    .accesskey = r
+places-view-sortby-date =
+    .label = Sortieren nach zuletzt besucht
+    .accesskey = z
+places-view-sortby-visit-count =
+    .label = Sortieren nach meistbesucht
+    .accesskey = o
+places-view-sortby-date-added =
+    .label = Sortieren nach hinzugefügt
+    .accesskey = h
+places-view-sortby-last-modified =
+    .label = Sortieren nach zuletzt geändert
+    .accesskey = d
+places-view-sortby-tags =
+    .label = Sortieren nach Schlagwörtern
+    .accesskey = w
 places-cmd-find-key =
     .key = f
 places-back-button =
