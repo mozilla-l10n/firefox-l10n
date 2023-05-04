@@ -202,6 +202,21 @@ places-view-sort-col-last-modified =
 places-view-sortby-name =
     .label = Raða eftir nafni
     .accesskey = n
+places-view-sortby-url =
+    .label = Raða eftir staðsetningu
+    .accesskey = R
+places-view-sortby-date =
+    .label = Raða eftir nýjustu heimsókn
+    .accesskey = R
+places-view-sortby-visit-count =
+    .label = Raða eftir fjölda heimsókna
+    .accesskey = R
+places-view-sortby-date-added =
+    .label = Raða eftir hvenær bætt við
+    .accesskey = R
+places-view-sortby-last-modified =
+    .label = Raða eftir seinast breytt
+    .accesskey = R
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -222,3 +237,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Bókamerki og ferill eru ekki aðgengilegar því einhverjar skrár fyrir { -brand-short-name } eru þegar í notkun af öðru forriti. Stundum getur öryggishugbúnaður valdið þessum vandræðum.
