@@ -258,3 +258,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = System cytańskich znamjenjow a historije njebuźo funkcioněrowaś, dokulaž wužywa se jadna z datajow { -brand-short-name } pśez druge nałoženje. Někaka wěstotna softwara móžo toś ten problem zawinowaś.
