@@ -78,6 +78,15 @@ places-delete-folder =
            *[other] බහාලුම් මකන්න
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] පිටුව මකන්න
+           *[other] පිටු මකන්න
+        }
+    .accesskey = D
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = අනු බහාලුම
@@ -96,6 +105,15 @@ places-delete-bookmark =
            *[other] පොත්යොමු මකන්න
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] පිටුවට පොත්යොමුවක්…
+           *[other] පිටුවලට පොත්යොමු…
+        }
+    .accesskey = B
 places-manage-bookmarks =
     .label = පොත්යොමු කළමනාකරණය
     .accesskey = M
@@ -179,6 +197,27 @@ places-view-sort-col-date-added =
     .label = එක් කළා
 places-view-sort-col-last-modified =
     .label = අවසාන සංශෝධනය
+places-view-sortby-name =
+    .label = නම අනුව පිළිවෙළට
+    .accesskey = N
+places-view-sortby-url =
+    .label = ස්ථානය අනුව පිළිවෙලට
+    .accesskey = L
+places-view-sortby-date =
+    .label = වඩා මෑත ගොඩවැදීම අනුව
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ගොඩවැදීම් ගණන අනුව
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = එක් කිරීම අනුව
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = අවසන් සංශෝධනය අනුව
+    .accesskey = M
+places-view-sortby-tags =
+    .label = අනන්‍යන අනුව
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -186,10 +225,19 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ඉදිරියට යන්න
 places-details-pane-select-an-item-description = ගුණාංග දැකීමට සහ සංස්කරණයට අංගයක් තෝරන්න
+places-details-pane-no-items =
+    .value = අංග නැත
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = පොත්යොමු සොයන්න
+places-search-history =
+    .placeholder = සෙවුම් ඉතිහාසය
+places-search-downloads =
+    .placeholder = බාගැනීම් සොයන්න
 
 ##
 
+places-locked-prompt = පොත්යොමු හා ඉතිහාස පද්ධතිය ක්‍රියාකාරී නොවනු ඇත මන්ද { -brand-short-name } ගොනු වලින් එකක් වෙනත් යෙදුමක් භාවිතා කරයි. සමහර ආරක්‍ෂණ මෘදුකාංග මෙම ගැටළුව සිදු කරනු ඇත.
