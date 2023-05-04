@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Stizzar ils ordinaturs
         }
     .accesskey = d
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Stizzar la pagina
+           *[other] Stizzar las paginas
+        }
+    .accesskey = z
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnapaginas administrads
