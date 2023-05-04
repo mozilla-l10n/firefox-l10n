@@ -86,6 +86,15 @@ places-delete-folder =
            *[other] Smazat složky
         }
     .accesskey = m
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Smazat stránku
+           *[other] Smazat stránky
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Záložky spravované správcem
@@ -109,6 +118,15 @@ places-delete-bookmark =
            *[other] Smazat záložky
         }
     .accesskey = m
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Přidat stránku do záložek…
+           *[other] Přidat stránky do záložek…
+        }
+    .accesskey = P
 places-untag-bookmark =
     .label = Odebrat štítek
     .accesskey = r
@@ -201,6 +219,27 @@ places-view-sort-col-date-added =
     .label = Přidáno
 places-view-sort-col-last-modified =
     .label = Poslední změna
+places-view-sortby-name =
+    .label = Podle názvu
+    .accesskey = n
+places-view-sortby-url =
+    .label = Podle adresy
+    .accesskey = a
+places-view-sortby-date =
+    .label = Podle poslední návštěvy
+    .accesskey = l
+places-view-sortby-visit-count =
+    .label = Podle počtu návštěv
+    .accesskey = o
+places-view-sortby-date-added =
+    .label = Podle přidání
+    .accesskey = d
+places-view-sortby-last-modified =
+    .label = Podle poslední změny
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Podle štítků
+    .accesskey = t
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -227,6 +266,9 @@ places-search-bookmarks =
     .placeholder = Hledat v záložkách
 places-search-history =
     .placeholder = Hledat v historii
+places-search-downloads =
+    .placeholder = Hledat stahování
 
 ##
 
+places-locked-prompt = Není možné používat záložky a historii, protože některé soubory aplikace { -brand-short-name } už jsou používány jinou aplikací. Toto může být způsobeno bezpečnostním softwarem.
