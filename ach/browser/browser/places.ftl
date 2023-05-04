@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Yab weng i dirica matino
     .accesskey = Y
+places-empty-bookmarks-folder =
+    .label = (Nono)
 places-view =
     .label = Nen
     .accesskey = n
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = Ot gwoko buk
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Ot gwoko buk
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Ot gwoko buk
 places-organize-button =
@@ -126,3 +125,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Cit anyim
 places-details-pane-select-an-item-description = Yer jami me anena kadong i yub jami me ticce
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
