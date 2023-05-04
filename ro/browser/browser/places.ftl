@@ -20,6 +20,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Deschide într-o fereastră privată nouă
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Gol)
 places-add-bookmark =
     .label = Adaugă un marcaj…
     .accesskey = B
@@ -87,9 +89,6 @@ places-manage-bookmarks =
 places-library =
     .title = Bibliotecă
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Bibliotecă
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Bibliotecă
 places-organize-button =
@@ -172,3 +171,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Navighează înainte
 places-details-pane-select-an-item-description = Selectează un element pentru a-l vedea și a-i edita proprietățile
+places-details-pane-no-items =
+    .value = Niciun element
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-history =
+    .placeholder = Caută în istoric
+
+##
+
