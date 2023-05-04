@@ -125,6 +125,8 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ಮುಂದಕ್ಕೆ ತೆರಳು
 places-details-pane-select-an-item-description = ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಅಂಶವನ್ನು ಆರಿಸಿ
+places-details-pane-no-items =
+    .value = ಯಾವುದೇ ಅಂಶವಿಲ್ಲ
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
