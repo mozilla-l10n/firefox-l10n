@@ -10,5 +10,6 @@ places-bookmarks-restore-alert = Դուք կփոխարինեք ձեր ընթաց
 places-bookmarks-restore-title = Ընտրեք էջանիշերի պահուց
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Չսպասարկվող նիշքի տեսակ:
+places-bookmarks-restore-parse-error = Հնարավոր չէ մշակել պահեստային ֆայլը:
 places-bookmarks-import = Ներմուծել էջանիշերի ֆայլը
 places-bookmarks-export = Արտահանել էջանիշերի ֆայլը
