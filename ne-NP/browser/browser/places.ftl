@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = नाम अनुसार क्रमबद्ध गर्नुहोस्
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] पृष्ठ मेट्नुहोस्
+           *[other] पृष्ठहरु हटाउनुहाेस्
+        }
+    .accesskey = D
 places-library =
     .title = Library
     .style = width:700px; height:500px;
