@@ -119,6 +119,10 @@ places-forward-button =
 places-details-pane-select-an-item-description = Fal benn mbir ngir wone ak soppali jikko yi
 places-details-pane-no-items =
     .value = Amul dara
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = { $count } mbir
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
