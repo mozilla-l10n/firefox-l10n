@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] ਫੋਲਡਰ ਹਟਾਓ
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] ਸਫ਼ੇ ਨੂੰ ਹਟਾਓ
+           *[other] ਸਫ਼ਿਆਂ ਨੂੰ ਹਟਾਓ
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ਇੰਤਜ਼ਾਮ ਕੀਤੇ ਬੁੱਕਮਾਰਕਾਂ
