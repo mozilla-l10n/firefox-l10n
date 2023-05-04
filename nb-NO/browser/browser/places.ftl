@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Åpne i nytt privat vindu
     .accesskey = r
+places-empty-bookmarks-folder =
+    .label = (Tom)
 places-add-bookmark =
     .label = Legg til bokmerke …
     .accesskey = b
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = Glem
 places-library =
     .title = Arkiv
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Arkiv
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Arkiv
 places-organize-button =
@@ -205,3 +204,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Gå frem
 places-details-pane-select-an-item-description = Velg elementet du vil vise og redigere
+places-details-pane-no-items =
+    .value = Ingen elementer
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Søk i bokmerker
+places-search-history =
+    .placeholder = Søk i historikk
+
+##
+
