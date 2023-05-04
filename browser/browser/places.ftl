@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Malfermi en nova privata fenestro
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Malplena)
 places-add-bookmark =
     .label = Aldoni legosignon…
     .accesskey = A
@@ -197,6 +199,27 @@ places-view-sort-col-date-added =
     .label = Aldonita
 places-view-sort-col-last-modified =
     .label = Laste modifita
+places-view-sortby-name =
+    .label = Ordigi laŭ nomo
+    .accesskey = o
+places-view-sortby-url =
+    .label = Ordigi laŭ retadreso
+    .accesskey = r
+places-view-sortby-date =
+    .label = Origi laŭ plej ĵusa vizito
+    .accesskey = v
+places-view-sortby-visit-count =
+    .label = Ordigi laŭ nombro de vizitoj
+    .accesskey = n
+places-view-sortby-date-added =
+    .label = Ordigi laŭ dato de aldono
+    .accesskey = d
+places-view-sortby-last-modified =
+    .label = Ordigi laŭ dato de lasta modifo
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Ordigi laŭ etikedoj
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -204,10 +227,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Antaŭen
 places-details-pane-select-an-item-description = Elekti elementon por vidi kaj modifi ĝiajn atributojn
+places-details-pane-no-items =
+    .value = Neniu elemento
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Unu elemento
+           *[other] { $count } elementoj
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Serĉi legosignojn
+places-search-history =
+    .placeholder = Serĉi en historio
+places-search-downloads =
+    .placeholder = Serĉi en elŝutoj
 
 ##
 
+places-locked-prompt = La paĝosigna kaj historia sistemo ne estos aktiva ĉar unu el la dosieroj de { -brand-short-name } estas uzata de alia programo. Tiun problemon povas okazigi sekureca programo.
