@@ -195,6 +195,24 @@ places-view-sort-col-date-added =
     .label = Įtrauktas
 places-view-sort-col-last-modified =
     .label = Atnaujintas
+places-view-sortby-name =
+    .label = Rikiuoti pagal pavadinimą
+    .accesskey = p
+places-view-sortby-url =
+    .label = Rikiuoti pagal adresą
+    .accesskey = a
+places-view-sortby-date =
+    .label = Rikiuoti pagal lankymosi datą
+    .accesskey = l
+places-view-sortby-visit-count =
+    .label = Rikiuoti pagal apsilankymų skaičių
+    .accesskey = s
+places-view-sortby-date-added =
+    .label = Rikiuoti pagal įtraukimo datą
+    .accesskey = d
+places-view-sortby-tags =
+    .label = Rikiuoti pagal gaires
+    .accesskey = g
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -204,6 +222,15 @@ places-forward-button =
 places-details-pane-select-an-item-description = Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti
 places-details-pane-no-items =
     .value = Nėra objektų
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] { $count } objektas
+            [few] { $count } objektai
+           *[other] { $count } objektų
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -212,6 +239,8 @@ places-search-bookmarks =
     .placeholder = Ieškoti adresyne
 places-search-history =
     .placeholder = Ieškoti žurnale
+places-search-downloads =
+    .placeholder = Ieškoti atsiuntimų
 
 ##
 
