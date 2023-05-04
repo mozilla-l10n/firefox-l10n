@@ -160,6 +160,8 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = वाचनखूणा शोधा
 places-search-history =
     .placeholder = इतिहास शोधा
 places-search-downloads =
@@ -167,3 +169,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = { -brand-short-name } पैकी एक फाइल ॲप्लिकेशनद्वारे वापरणीत असल्यामुळे वाचनखूण व इतिहास प्रणाली कार्यक्षम राहणार नाही. काहिक सुरक्षा सॉफ्टवेअर ही अडचण निर्माण करू शकते.
