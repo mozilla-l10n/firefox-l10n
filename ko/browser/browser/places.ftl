@@ -120,9 +120,6 @@ places-forget-about-this-site-forget = 지우기
 places-library =
     .title = 라이브러리
     .style = width:700px; height:500px;
-places-library2 =
-    .title = 라이브러리
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = 라이브러리
 places-organize-button =
@@ -205,3 +202,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = 앞으로 가기
 places-details-pane-select-an-item-description = 속성을 보고 편집할 항목을 선택하세요
+places-details-pane-no-items =
+    .value = 항목 없음
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = 북마크 검색
+places-search-downloads =
+    .placeholder = 다운로드 항목 검색
+
+##
+
