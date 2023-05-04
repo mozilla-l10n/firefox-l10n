@@ -122,9 +122,6 @@ places-forget-about-this-site-forget = Oblidar
 places-library =
     .title = Bibliotèca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Bibliotèca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Bibliotèca
 places-organize-button =
@@ -207,3 +204,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Avançar d'una pagina
 places-details-pane-select-an-item-description = Seleccionatz un element per visualizar e modificar sas proprietats
+places-details-pane-no-items =
+    .value = Pas cap d'element
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Recercar dins los marcapaginas
+places-search-history =
+    .placeholder = Recercar dins l'istoric
+
+##
+
