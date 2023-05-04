@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Abrir em nova janela privativa
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (vazio)
 places-add-bookmark =
     .label = Adicionar favorito…
     .accesskey = f
@@ -82,6 +84,15 @@ places-delete-folder =
            *[other] Excluir pastas
         }
     .accesskey = x
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Excluir página
+           *[other] Excluir páginas
+        }
+    .accesskey = A
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Favoritos controlados
@@ -103,6 +114,15 @@ places-delete-bookmark =
            *[other] Excluir favoritos
         }
     .accesskey = x
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Adicionar página aos favoritos…
+           *[other] Adicionar páginas aos favoritos…
+        }
+    .accesskey = f
 places-untag-bookmark =
     .label = Remover etiqueta
     .accesskey = R
@@ -237,6 +257,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Procurar favoritos
+places-search-history =
+    .placeholder = Procurar no histórico
+places-search-downloads =
+    .placeholder = Procurar nos downloads
 
 ##
 
+places-locked-prompt = O sistema de favoritos e histórico não funcionará agora porque um dos arquivos do { -brand-short-name } está sendo usado por outra aplicação. Alguns softwares de segurança podem causar este problema.
