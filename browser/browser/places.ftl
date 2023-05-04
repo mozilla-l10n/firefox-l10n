@@ -199,6 +199,9 @@ places-view-sort-col-date-added =
     .label = Bætt við
 places-view-sort-col-last-modified =
     .label = Síðast breytt
+places-view-sortby-name =
+    .label = Raða eftir nafni
+    .accesskey = n
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -214,6 +217,8 @@ places-search-bookmarks =
     .placeholder = Leita í bókamerkjum
 places-search-history =
     .placeholder = Leitarsaga
+places-search-downloads =
+    .placeholder = Leita í niðurhali
 
 ##
 
