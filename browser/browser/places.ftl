@@ -138,6 +138,8 @@ places-search-bookmarks =
     .placeholder = Szëkba w załóżkach
 places-search-history =
     .placeholder = Szëkba w historie
+places-search-downloads =
+    .placeholder = Szëkba w zladënkach
 
 ##
 
