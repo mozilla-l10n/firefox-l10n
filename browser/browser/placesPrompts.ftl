@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (sense títol)
 places-bookmarks-backup-title = Nom del fitxer de còpia de les adreces d'interès
 places-bookmarks-restore-alert-title = Reverteix les adreces d'interès
 places-bookmarks-restore-alert = Es reemplaçarà tot el contingut actual de les vostres adreces d'interès amb la còpia de seguretat. N'esteu segur?
