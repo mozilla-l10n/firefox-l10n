@@ -82,6 +82,15 @@ places-edit-folder2 =
 places-delete-folder =
     .label = フォルダーを削除
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] ページを削除
+           *[other] ページを削除
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 管理ブックマーク
@@ -99,6 +108,15 @@ places-show-in-folder =
 places-delete-bookmark =
     .label = ブックマークを削除
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] ページをブックマークに追加...
+           *[other] ページをブックマークに追加...
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = タグを消去
     .accesskey = R
