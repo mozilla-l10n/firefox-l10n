@@ -122,9 +122,6 @@ places-forget-about-this-site-forget = Olvidar
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteca
 places-organize-button =
@@ -200,6 +197,24 @@ places-view-sort-col-date-added =
     .label = Añadido
 places-view-sort-col-last-modified =
     .label = Última modificación
+places-view-sortby-name =
+    .label = Ordenar por nombre
+    .accesskey = N
+places-view-sortby-date =
+    .label = Ordenar por visita más reciente
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Ordenar por contador de visitas
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Ordenar por fecha de adición
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Ordenar por última modificación
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Ordenar por etiquetas
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -207,3 +222,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ir adelante
 places-details-pane-select-an-item-description = Selecciona un elemento para ver y editar sus propiedades
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
