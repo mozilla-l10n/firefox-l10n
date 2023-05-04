@@ -86,6 +86,15 @@ places-delete-folder =
            *[other] Pašalinti aplankus
         }
     .accesskey = P
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Pašalinti tinklalapį
+           *[other] Pašalinti tinklalapius
+        }
+    .accesskey = t
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tvarkomas adresynas
