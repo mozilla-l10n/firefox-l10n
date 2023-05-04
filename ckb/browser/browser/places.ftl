@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = هەمووی لە ناو بازدەرەکان بکەرەوە
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (بەتاڵ)
 places-view =
     .label = پیشاندان
     .accesskey = w
@@ -38,12 +40,18 @@ places-delete-domain-data =
 places-sortby-name =
     .label = بەپێی ناو
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] پەڕە بسڕەوە
+           *[other] پەڕەکان بسڕەوە
+        }
+    .accesskey = D
 places-library =
     .title = کتێبخانە
     .style = width:700px; height:500px;
-places-library2 =
-    .title = کتێبخانە
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = کتێبخانە
 places-organize-button =
@@ -119,6 +127,27 @@ places-view-sort-col-date-added =
     .label = زیادکرا
 places-view-sort-col-last-modified =
     .label = دووا دەستکاریکراو
+places-view-sortby-name =
+    .label = بەپێی ناو
+    .accesskey = N
+places-view-sortby-url =
+    .label = ڕێکخستن بەپێی شوێن
+    .accesskey = L
+places-view-sortby-date =
+    .label = ڕێکخستن بەپێی دووا سەردانیکردن
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ڕێکخستن بەپێی ژمارەی سەردانیکردن
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = ڕێکخستن بە پێی زیادکردن
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ڕێکخستن بە پێی دووا دەستکاریکردن
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ڕێکخستن بە پێی تاگ
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -126,3 +155,18 @@ places-back-button =
 places-forward-button =
     .tooltiptext = بڕۆ پێشەوە
 places-details-pane-select-an-item-description = بڕگەیەک هەڵبژێرە بۆ پیشاندان و دەستکاریکردنی تایبەتمەندییەکانی
+places-details-pane-no-items =
+    .value = هیچ برگەیەک نیە
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = گەڕان لە دڵخوازەکان
+places-search-history =
+    .placeholder = گەڕان لە ناو مێژووی کاردا
+places-search-downloads =
+    .placeholder = گەڕان لەناو داگرتنەکان
+
+##
+
