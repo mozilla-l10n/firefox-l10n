@@ -204,6 +204,15 @@ places-forward-button =
 places-details-pane-select-an-item-description = Zaznacz element, by wyświetlić i edytować jego właściwości
 places-details-pane-no-items =
     .value = Brak elementów
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Jeden element
+            [few] { $count } elementy
+           *[many] { $count } elementów
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
