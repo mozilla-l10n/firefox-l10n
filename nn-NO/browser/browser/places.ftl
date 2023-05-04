@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Opne i nytt privat vindauge
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Tom)
 places-add-bookmark =
     .label = Legg til bokmerke
     .accesskey = b
@@ -204,3 +206,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Gå fram
 places-details-pane-select-an-item-description = Vel elementet du vil vise og redigere
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Søk i bokmerke
+places-search-history =
+    .placeholder = Søk i historikk
+
+##
+
