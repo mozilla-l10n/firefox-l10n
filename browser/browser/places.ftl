@@ -170,6 +170,9 @@ places-search-bookmarks =
     .placeholder = Cuardaigh Leabharmharcanna
 places-search-history =
     .placeholder = Stair an Chuardaigh
+places-search-downloads =
+    .placeholder = Cuardaigh Íoslódálacha
 
 ##
 
+places-locked-prompt = Ní bheidh na leabharmharcanna nó an córas staire ag obair toisc go bhfuil comhad de chuid { -brand-short-name } in úsáid ag feidhmchlár eile. Is féidir le roinnt bogearraí slándála a bheith freagrach as an bhfadhb seo.
