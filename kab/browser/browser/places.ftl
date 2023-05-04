@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Ldi deg usfaylu uslig amaynut
     .accesskey = d
+places-empty-bookmarks-folder =
+    .label = (Ilem)
 places-add-bookmark =
     .label = Rnu tacreṭ n usebter…
     .accesskey = T
@@ -199,6 +201,27 @@ places-view-sort-col-date-added =
     .label = Azem n tmerna
 places-view-sort-col-last-modified =
     .label = Asnifel aneggaru
+places-view-sortby-name =
+    .label = Asmizzwer s yisem
+    .accesskey = z
+places-view-sortby-url =
+    .label = Smizzwer s tansa
+    .accesskey = S
+places-view-sortby-date =
+    .label = Smizzwer s timerziwt n melmi kan
+    .accesskey = m
+places-view-sortby-visit-count =
+    .label = Smizzwer s umḍan n tirza
+    .accesskey = w
+places-view-sortby-date-added =
+    .label = Smizzwer s wazemz n tmerna
+    .accesskey = m
+places-view-sortby-last-modified =
+    .label = Smizzwer s wazemz n usnifel aneggaru
+    .accesskey = g
+places-view-sortby-tags =
+    .label = Smizzwer s tebzimt
+    .accesskey = m
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -206,3 +229,24 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ddu ɣer zdat
 places-details-pane-select-an-item-description = Fren aferdis akken ad twaliḍ udiɣ ad tesnifleḍ taɣaṛa-yines
+places-details-pane-no-items =
+    .value = Ulac iferdisen
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Aferdis
+           *[other] { $count } iferdisen
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Nadi ticraḍ n isebtar
+places-search-history =
+    .placeholder = Nadi deg umazray
+
+##
+
