@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = जोड़ल गेल
 places-view-sort-col-last-modified =
     .label = अंतिम रूपांतरित
+places-view-sortby-name =
+    .label = नामसँ छांटू (N)
+    .accesskey = N
+places-view-sortby-url =
+    .label = स्थान क अनुसार छाँटू
+    .accesskey = L
+places-view-sortby-date =
+    .label = सबसे हालिया विजिट केर अनुसार छाँटू
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = भ्रमण गिनती क अनुसार छाँटू
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = जोड़ल गेल अनुसार छाँटू
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = अंतिम रूपांतरण क अनुसार छाँटू
+    .accesskey = M
+places-view-sortby-tags =
+    .label = टैग द्वारा छाँटू (T)
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -148,3 +169,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = ई पुस्तकचिह्न आ इतिहास तंत्र कार्यशील नहि रहत किएक { -brand-short-name } क फाइलमे सँ एकटा कोनो दोसर अनुप्रयोगक द्वारा प्रयोगमे अछि. किछु सुरक्षा साफ़्टवेयर एहि समस्याक कारण बन सकैत अछि.
