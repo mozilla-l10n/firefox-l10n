@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (sem título)
 places-bookmarks-backup-title = Nome do arquivo de backup dos favoritos
 places-bookmarks-restore-alert-title = Reverter favoritos
+places-bookmarks-restore-alert = Todos os favoritos serão substituídos pelos do backup. Tem certeza?
 places-bookmarks-restore-title = Selecionar um backup de favoritos
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Tipo de arquivo não suportado.
