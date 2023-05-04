@@ -20,6 +20,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = افتح في نافذة خاصة جديدة
     .accesskey = خ
+places-empty-bookmarks-folder =
+    .label = (فارغ)
 places-add-bookmark =
     .label = أضِف علامة…
     .accesskey = ع
@@ -90,9 +92,6 @@ places-manage-bookmarks =
 places-library =
     .title = المكتبة
     .style = width:700px; height:500px;
-places-library2 =
-    .title = المكتبة
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = المكتبة
 places-organize-button =
@@ -175,3 +174,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = انتقل إلى الأمام
 places-details-pane-select-an-item-description = اختر عنصرًا لعرضه وتحرير خصائصه
+places-details-pane-no-items =
+    .value = لا عناصر
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = ابحث في العلامات
+
+##
+
