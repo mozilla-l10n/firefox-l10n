@@ -114,6 +114,27 @@ places-view-sort-col-date-added =
     .label = Added
 places-view-sort-col-last-modified =
     .label = Last Modified
+places-view-sortby-name =
+    .label = Sort by Name
+    .accesskey = N
+places-view-sortby-url =
+    .label = Sort by Location
+    .accesskey = L
+places-view-sortby-date =
+    .label = Sort by Most Recent Visit
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Sort by Visit Count
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Sort by Added
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Sort by Last Modified
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Sort by Tags
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -144,3 +165,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = The bookmarks and history system will not be functional because one of { -brand-short-name }’s files is in use by another application. Some security software can cause this problem.
