@@ -127,6 +127,8 @@ places-search-bookmarks =
     .placeholder = Wut ci biir mandarga xët yi
 places-search-history =
     .placeholder = Wut ci biir jaar jaar bi
+places-search-downloads =
+    .placeholder = Wut ay yeb
 
 ##
 
