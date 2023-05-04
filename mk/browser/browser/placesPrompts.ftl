@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (Без наслов)
 places-bookmarks-backup-title = Име на резервните обележувачи
 places-bookmarks-restore-alert-title = Враќање на обележувачите
+places-bookmarks-restore-alert = Ова ќе ги замени вашите тековни обележувачи со резервата. Дали сте сигурни?
 places-bookmarks-restore-title = Избор на резервни обележувачи
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Типот на датотека не е поддржан.
