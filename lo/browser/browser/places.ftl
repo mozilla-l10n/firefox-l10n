@@ -98,6 +98,15 @@ other-bookmarks-folder =
 places-show-in-folder =
     .label = ສະແດງໃນ Finder
     .accesskey = F
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] ໜ້າບຸກມາກ...
+           *[other] ໜ້າບຸກມາກ...
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = ລຶບແທັກ
     .accesskey = R
