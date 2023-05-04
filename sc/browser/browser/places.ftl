@@ -105,6 +105,15 @@ places-delete-bookmark =
            *[other] Cantzella is sinnalibros
         }
     .accesskey = C
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Agiunghe a is sinnalibros…
+           *[other] Agiunghe is pàginas a is sinnalibros…
+        }
+    .accesskey = S
 places-untag-bookmark =
     .label = Boga·nche s'eticheta
     .accesskey = B
