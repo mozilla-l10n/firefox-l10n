@@ -37,9 +37,6 @@ places-sortby-name =
 places-library =
     .title = Tiirahugu
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Tiirahugu
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Tiirahugu
 places-organize-button =
@@ -122,3 +119,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Koy jine
 places-details-pane-select-an-item-description = Hayiize suuba k'a guna nda ka nga mayrawey fasal.
+places-details-pane-no-items =
+    .value = Hayiize kul ši
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Doo-šilbawey ceeci
+places-search-history =
+    .placeholder = Taariki ceeci
+
+##
+
