@@ -122,9 +122,6 @@ places-forget-about-this-site-forget = Tesarái
 places-library =
     .title = Mba’erysýi
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Mba’erysýi
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Mba’erysýi
 places-organize-button =
@@ -207,3 +204,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Tenonde jeho
 places-details-pane-select-an-item-description = Eiporavo peteĩ mba’epuru ehecha ha embosako’i hag̃ua imba’etee
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
