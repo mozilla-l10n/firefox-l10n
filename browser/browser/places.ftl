@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Avrir en ina nova fanestra privata
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (vid)
 places-add-bookmark =
     .label = Agiuntar in segnapagina…
     .accesskey = s
@@ -195,6 +197,27 @@ places-view-sort-col-date-added =
     .label = Agiuntà
 places-view-sort-col-last-modified =
     .label = Midà la davosa giada
+places-view-sortby-name =
+    .label = Zavrar tenor il num
+    .accesskey = n
+places-view-sortby-url =
+    .label = Zavrar tenor l'adressa
+    .accesskey = a
+places-view-sortby-date =
+    .label = Zavrar tenor l'ultima visita
+    .accesskey = Z
+places-view-sortby-visit-count =
+    .label = Zavrar tenor il dumber da visitas
+    .accesskey = o
+places-view-sortby-date-added =
+    .label = Zavrar tenor la data d'agiunta
+    .accesskey = Z
+places-view-sortby-last-modified =
+    .label = Zavrar tenor la data da l'ultima midada
+    .accesskey = Z
+places-view-sortby-tags =
+    .label = Zavrar tenor ils chavazzins
+    .accesskey = Z
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -202,3 +225,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = A la proxima pagina
 places-details-pane-select-an-item-description = Tscherna in'endataziun per vesair e modifitgar sias caracteristicas
+places-details-pane-no-items =
+    .value = Naginas endataziuns
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] In'endataziun
+           *[other] { $count } endataziuns
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Tschertgar en ils segnapaginas
+places-search-history =
+    .placeholder = Tschertgar en la cronologia
+places-search-downloads =
+    .placeholder = Tschertgar en las telechargiadas
+
+##
+
+places-locked-prompt = Il sistem da segnapaginas e la cronologia na funcziunan betg, perquai che ina da las datotecas { -brand-short-name } vegn utilisada dad in'autra applicaziun. Tscherts programs da segirezza (antivirus etc.) pon chaschunar quest problem.
