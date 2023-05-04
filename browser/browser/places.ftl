@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Slett mapper
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Slett side
+           *[other] Slett sidene
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerte bokmerker
@@ -105,6 +114,15 @@ places-delete-bookmark =
            *[other] Slett bokmerker
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Bokmerk side …
+           *[other] Bokmerk sider …
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Fjern tagg
     .accesskey = F
@@ -203,6 +221,9 @@ places-view-sortby-name =
 places-view-sortby-url =
     .label = Sorter etter plassering
     .accesskey = p
+places-view-sortby-date =
+    .label = Sorter etter sist besøkt
+    .accesskey = B
 places-view-sortby-visit-count =
     .label = Sorter etter besøksantall
     .accesskey = a
