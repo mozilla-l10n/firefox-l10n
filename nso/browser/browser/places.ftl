@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Bula tšohle ka dithepo
     .accesskey = l
+places-empty-bookmarks-folder =
+    .label = (Ga e na selo)
 places-view =
     .label = Tebelelo
     .accesskey = l
@@ -35,9 +37,6 @@ places-sortby-name =
 places-library =
     .title = Bokgobapuku
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Bokgobapuku
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Bokgobapuku
 places-organize-button =
@@ -118,3 +117,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Eya pele
 places-details-pane-select-an-item-description = Kgetha aetheme gore o lebelele le go lokiša dipharologantšho tša yona
+places-details-pane-no-items =
+    .value = Ga go na diaetheme
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Aetheme e tee
+           *[other] diaetheme tše { $count }
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Nyaka dipukutshwayo
+places-search-history =
+    .placeholder = Nyaka histori
+places-search-downloads =
+    .placeholder = Nyaka ditaollo
+
+##
+
