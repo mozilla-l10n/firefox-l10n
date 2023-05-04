@@ -88,6 +88,15 @@ places-delete-folder =
            *[many] Удалить папки
         }
     .accesskey = л
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Удалить страницу
+           *[other] Удалить страницы
+        }
+    .accesskey = а
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Управляемые закладки
@@ -111,6 +120,15 @@ places-delete-bookmark =
            *[many] Удалить { $count } закладок
         }
     .accesskey = л
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Добавить страницу в закладки…
+           *[other] Добавить страницы в закладки…
+        }
+    .accesskey = н
 places-untag-bookmark =
     .label = Удалить метку
     .accesskey = и
