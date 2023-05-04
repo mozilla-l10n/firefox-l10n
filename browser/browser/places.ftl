@@ -178,3 +178,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = I segnalibbri e a stöia a no fonçioniâ perché un schedaio de { -brand-short-name } l'é uzou da 'n'atra aplicaçion. Quarche aplicaçion de seguessa peu caozâ sto problema.
