@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Aberi in una ventana privada noa
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Bòidu)
 places-add-bookmark =
     .label = Agiunghe unu sinnalibru...
     .accesskey = s
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = Iscaressi
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteca
 places-organize-button =
@@ -205,3 +204,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = In antis
 places-details-pane-select-an-item-description = Sèbera un'elementu pro dd'ammustrare e nde modificare is propiedades
+places-details-pane-no-items =
+    .value = Nissunu elementu
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un'elementu
+           *[other] { $count } elementos
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Chirca in sinnalibros
+places-search-history =
+    .placeholder = Chirca in sa cronologia
+places-search-downloads =
+    .placeholder = Chirca in iscarrigamentos
+
+##
+
+places-locked-prompt = Is sinnalibros e sa cronologia no ant a funtzionare dae chi unu de is archìvios de { -brand-short-name } est impreadu dae un'àtera aplicatzione. Sa faddina diat pòdere èssere istada generada dae calicunu programma de seguresa.
