@@ -5,6 +5,7 @@
 places-error-title = { -brand-short-name }
 places-no-title = (bez viersroksta)
 places-bookmarks-backup-title = Gruomotzeimju rezerves puorspīdumi faila nūsaukums
+places-bookmarks-restore-alert-title = Atjaunōt grōmotzeimes
 places-bookmarks-restore-alert = Jiusu pošreizejuos gruomotzeimes aizvītuos rezerves puorspīdums. Voi tīšom vālotīs tū izdareit?
 places-bookmarks-restore-title = Izavielit gruomotzeimju rezerves puorspīdumus
 places-bookmarks-restore-filter-name = JSON

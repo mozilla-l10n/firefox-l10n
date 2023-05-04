@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sort By Name
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Dzēst lopu
+           *[other] Dzēst lopys
+        }
+    .accesskey = D
 places-library =
     .title = Biblioteka
     .style = width:700px; height:500px;
