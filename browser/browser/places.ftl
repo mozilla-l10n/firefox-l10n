@@ -89,6 +89,15 @@ places-delete-folder =
            *[other] Sguab na pasganan às
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Sguab an duilleag às
+           *[other] Sguab na duilleagan às
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Comharran-lìn fo stiùireadh
@@ -113,6 +122,15 @@ places-delete-bookmark =
            *[other] Sguab às an comharran-lìn
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Dèan comharra-lìn dhen duilleag…
+           *[other] Dèan comharra-lìn dhe na duilleagan…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Thoir an taga air falbh
     .accesskey = T
