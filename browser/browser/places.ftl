@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = W nowem priwatnem woknje wócyniś
     .accesskey = i
+places-empty-bookmarks-folder =
+    .label = (Prozny)
 places-add-bookmark =
     .label = Cytańske znamje pśidaś…
     .accesskey = C
@@ -203,6 +205,27 @@ places-view-sort-col-date-added =
     .label = Pśidany
 places-view-sort-col-last-modified =
     .label = Slědna změna
+places-view-sortby-name =
+    .label = Pó mjenje sortěrowaś
+    .accesskey = m
+places-view-sortby-url =
+    .label = Pó městnje sortěrowaś
+    .accesskey = t
+places-view-sortby-date =
+    .label = Pó nejnowšem woglěźe sortěrowaś
+    .accesskey = l
+places-view-sortby-visit-count =
+    .label = Po licbje woglědow sortěrowaś
+    .accesskey = c
+places-view-sortby-date-added =
+    .label = Pó dodanych sortěrowaś
+    .accesskey = d
+places-view-sortby-last-modified =
+    .label = Pó slědnjej změnje sortěrowaś
+    .accesskey = s
+places-view-sortby-tags =
+    .label = Pó wobznamjenjach sortěrowaś
+    .accesskey = z
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -210,3 +233,28 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Doprědka hyś
 places-details-pane-select-an-item-description = Zapisk wubraś, aby se jogo kakosći woglědali a wobźěłali
+places-details-pane-no-items =
+    .value = Žedne zapiski
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Jaden zapisk
+            [two] { $count } zapiska
+            [few] { $count } zapiski
+           *[other] { $count } zapiskow
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Cytańske znamjenja pśepytaś
+places-search-history =
+    .placeholder = Historiju pśepytaś
+places-search-downloads =
+    .placeholder = Ześěgnjenja přepytaś
+
+##
+
