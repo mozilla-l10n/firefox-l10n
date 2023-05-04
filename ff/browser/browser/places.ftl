@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Uddit Fof e Tabbe
     .accesskey = U
+places-empty-bookmarks-folder =
+    .label = (Meho)
 places-view =
     .label = Hollir
     .accesskey = i
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = Deftordu
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Deftordu
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Deftordu
 places-organize-button =
@@ -119,6 +118,27 @@ places-view-sort-col-date-added =
     .label = Ɓeydaa
 places-view-sort-col-last-modified =
     .label = Waylaa Sakket
+places-view-sortby-name =
+    .label = Leemtir Innde
+    .accesskey = I
+places-view-sortby-url =
+    .label = Leemtir Nokkuure
+    .accesskey = N
+places-view-sortby-date =
+    .label = Leemtir Cakkitiiɗe Yilleede
+    .accesskey = C
+places-view-sortby-visit-count =
+    .label = Leemtir Limoore Njillu
+    .accesskey = L
+places-view-sortby-date-added =
+    .label = Leemtir nde Ɓeydaa
+    .accesskey = Ɓ
+places-view-sortby-last-modified =
+    .label = Leemtir nde Waylaa Sakket
+    .accesskey = W
+places-view-sortby-tags =
+    .label = Leemtir Tage
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -126,3 +146,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ɓennu
 places-details-pane-select-an-item-description = Labo temre ngam yiyde e taƴtaade keeroraaɗi mum
+places-details-pane-no-items =
+    .value = Alaa teme
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Temre wootere
+           *[other] { $count } teme
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Yiyko Maantore
+places-search-history =
+    .placeholder = Yiylo Aslol
+places-search-downloads =
+    .placeholder = Yiylo Gaawte
+
+##
+
+places-locked-prompt = Yuɓɓo maantore e aslol ngoo waawaa huutoreede sabuwootere e piille '{ -brand-short-name }' woni ko e huutoreede jaaɓnirde woɗnde. Won e toirɗe kisal gaddooje ɗee caɗeele.
