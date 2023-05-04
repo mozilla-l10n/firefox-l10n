@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Klasörleri sil
         }
     .accesskey = s
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Sayfayı sil
+           *[other] Sayfaları sil
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Yönetilen yer imleri
@@ -107,6 +116,15 @@ places-delete-bookmark =
            *[other] Yer imlerini sil
         }
     .accesskey = s
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Yer imlerine ekle…
+           *[other] Yer imlerine ekle…
+        }
+    .accesskey = m
 places-untag-bookmark =
     .label = Etiketi kaldır
     .accesskey = K
@@ -229,6 +247,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Özelliklerini görmek ve değiştirmek için bir öğe seçin
 places-details-pane-no-items =
     .value = Öğe yok
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] { $count } öğe
+           *[other] { $count } öğe
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
