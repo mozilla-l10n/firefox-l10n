@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = सबैलाई ट्याबहरूमा खोल्नुहोस्
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (खाली)
 places-view =
     .label = दृश्य
     .accesskey = w
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = Library
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Library
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Library
 places-organize-button =
@@ -119,6 +118,27 @@ places-view-sort-col-date-added =
     .label = थपिएको
 places-view-sort-col-last-modified =
     .label = पछिल्लो परिमार्जित
+places-view-sortby-name =
+    .label = नाम अनुसार क्रमबद्ध गर्नुहोस्
+    .accesskey = N
+places-view-sortby-url =
+    .label = स्थान अनुसार क्रमबद्ध
+    .accesskey = L
+places-view-sortby-date =
+    .label = सबैभन्दा पछिल्लो भ्रमण अनुसार क्रमबद्ध
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = भ्रमण गणना अनुसार क्रमबद्ध गर्नुहोस्
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = थपिएको अनुसार क्रमबद्ध गर्नुहोस्
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = अन्तिम परिमार्जित अनुसार क्रमबद्ध गर्नुहोस्
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ट्याग अनुसार क्रमबद्ध गर्नुहोस्
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -126,3 +146,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = अगाडि जानुहोस्
 places-details-pane-select-an-item-description = वस्तुको गुण हेर्न र सम्पादन गर्न कुनै एक वस्तु चयन गर्नुहोस्
+places-details-pane-no-items =
+    .value = कुनैपनि वस्तुहरू छैन
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] एक वस्तु
+           *[other] { $count } वस्तुहरू
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = पुस्तकचिनोहरू खोज्नुहोस्
+places-search-history =
+    .placeholder = इतिहास खोज्नुहोस्
+places-search-downloads =
+    .placeholder = डाउनलोडहरू खोज्नुहोस्
+
+##
+
+places-locked-prompt = पुस्तकचिनो र इतिहास प्रणाली कार्यात्मक हुनेछैन किनभने { -brand-short-name } को फाइलहरू अर्को अनुप्रयोगले प्रयोग गरिरहेको छ। केही सुरक्षा सफ्टवेयरले यो समस्या पैदा गर्न सक्छ।
