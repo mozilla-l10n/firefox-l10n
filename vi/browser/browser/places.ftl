@@ -206,6 +206,10 @@ places-forward-button =
 places-details-pane-select-an-item-description = Chọn một mục để xem và chỉnh sửa thuộc tính của nó
 places-details-pane-no-items =
     .value = Không có mục nào
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = { $count } mục
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
