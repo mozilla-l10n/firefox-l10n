@@ -116,6 +116,15 @@ places-delete-bookmark =
            *[other] Forigi legosignojn
         }
     .accesskey = l
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Aldoni paĝon al legosignoj…
+           *[other] Aldoni paĝojn al legosignoj…
+        }
+    .accesskey = p
 places-untag-bookmark =
     .label = Forigi etikedon
     .accesskey = F
