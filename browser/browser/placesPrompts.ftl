@@ -12,3 +12,4 @@ places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Ikke understøttet filtype.
 places-bookmarks-restore-parse-error = Kunne ikke behandle sikkerhedskopien.
 places-bookmarks-import = Importer bogmærkefil
+places-bookmarks-export = Eksporter bogmærkefil
