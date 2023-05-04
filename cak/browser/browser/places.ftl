@@ -87,6 +87,15 @@ places-delete-folder =
            *[other] Keyuj taq Yakwuj
         }
     .accesskey = y
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Tiyuj el Ruxaq
+           *[other] Keyuj el ri taq Ruxaq
+        }
+    .accesskey = T
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Taq yaketal enuk'samajin
