@@ -122,9 +122,6 @@ places-forget-about-this-site-forget = Забути
 places-library =
     .title = Бібліотека
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Бібліотека
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Бібліотека
 places-organize-button =
@@ -207,3 +204,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Перейти вперед
 places-details-pane-select-an-item-description = Додати елемент до перегляду та редагувати його властивості
+places-details-pane-no-items =
+    .value = Жодного елементу
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-history =
+    .placeholder = Шукати в історії
+
+##
+
