@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-error-title = { -brand-short-name }
+places-no-title = (Без наслов)
+places-bookmarks-backup-title = Име на резервните обележувачи
+places-bookmarks-restore-alert-title = Враќање на обележувачите
+places-bookmarks-restore-title = Избор на резервни обележувачи
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Типот на датотека не е поддржан.
 places-bookmarks-restore-parse-error = Резервната датотека не може да се обработи.
+places-bookmarks-import = Увези датотека со обележувачи
+places-bookmarks-export = Извезете ја датотеката со обележувачи

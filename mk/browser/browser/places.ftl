@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Отвори во јазичиња
     .accesskey = т
+places-empty-bookmarks-folder =
+    .label = (Празно)
 places-view =
     .label = Поглед
     .accesskey = П
@@ -123,10 +125,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Оди напред
 places-details-pane-select-an-item-description = Одберете ставка за преглед и уредете ги нејзините својства
+places-details-pane-no-items =
+    .value = Нема ставки
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Барај во обележувачите
+places-search-history =
+    .placeholder = Барај во историјата
 
 ##
 
