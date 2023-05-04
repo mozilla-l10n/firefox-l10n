@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (akukho mxholo)
+places-bookmarks-backup-title = Igama lefayile lelalela lezalathisi eziphawulayo
 places-bookmarks-restore-alert-title = Buyela kwiZalathisi eziphawulayo
 places-bookmarks-restore-alert = Oku kuya kuthatha indawo yazo zonke izalathisi eziphawulayo zakho zangoku ngelalela. Uqinisekile?
 places-bookmarks-restore-title = Khetha ilalela lezalathisi eziphawulayo
