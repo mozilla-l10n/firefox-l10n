@@ -30,9 +30,6 @@ places-sortby-name =
 places-library =
     .title = Katalogo
     .style = width:730px; height:500px;
-places-library2 =
-    .title = Katalogo
-    .style = min-width:730px; min-height:500px;
 places-library3 =
     .title = Katalogo
 places-organize-button =
@@ -115,3 +112,15 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Agtarus
 places-details-pane-select-an-item-description = Pilienyo ti maysa tapno maipadlaw sakayonto makapangbaliw kadagiti gupitna.
+places-details-pane-no-items =
+    .value = Awan
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-downloads =
+    .placeholder = Biroken iti Pakayulogan
+
+##
+
+places-locked-prompt = Saan a makapaandar ti sistema ti pannanda ken pakasaritaan gapu ta inar-aramat ti sabali nga aplikasion ti maysa nga intar ti { -brand-short-name }. Maikraman ti sumagmamano a software a panseguridad ti problema.
