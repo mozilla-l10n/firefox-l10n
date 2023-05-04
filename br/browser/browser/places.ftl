@@ -199,6 +199,27 @@ places-view-sort-col-date-added =
     .label = Ouzhpennet
 places-view-sort-col-last-modified =
     .label = An hini kemmet diwezhañ
+places-view-sortby-name =
+    .label = Rummañ dre anv
+    .accesskey = a
+places-view-sortby-url =
+    .label = Rummañ dre lec'hiadur
+    .accesskey = l
+places-view-sortby-date =
+    .label = Rummañ dre weladenn nevesañ
+    .accesskey = w
+places-view-sortby-visit-count =
+    .label = Rummañ dre gont ar gweladenniñ
+    .accesskey = g
+places-view-sortby-date-added =
+    .label = Rummañ dre ar re ouzhpennet
+    .accesskey = o
+places-view-sortby-last-modified =
+    .label = Rummañ dre an hini diwezhañ kemmet
+    .accesskey = k
+places-view-sortby-tags =
+    .label = Rummañ dre glavioù
+    .accesskey = a
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -221,3 +242,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Ar reizhiad sinedoù hag istor ne vo ket arc’hwelel rak ur restr eus { -brand-short-name } zo implijet gant un arload all. Ul lod eus ar meziantoù diogelroez a c'hell bezañ kaoz d'ar gudenn-mañ.
