@@ -86,6 +86,15 @@ places-delete-folder =
            *[other] Slett mapper
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Slett sida
+           *[other] Slett sider
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerte bokmerke
@@ -205,12 +214,21 @@ places-view-sortby-name =
 places-view-sortby-url =
     .label = Sorter etter plassering
     .accesskey = p
+places-view-sortby-date =
+    .label = Sorter etter sist besøkt
+    .accesskey = B
+places-view-sortby-visit-count =
+    .label = Sorter etter besøkstal
+    .accesskey = a
 places-view-sortby-date-added =
     .label = Sorter etter lagt til
     .accesskey = l
 places-view-sortby-last-modified =
     .label = Sorter etter sist oppdatert
     .accesskey = o
+places-view-sortby-tags =
+    .label = Sorter etter etikettar
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -241,3 +259,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Bokmerke- og historikksystemet vil ikkje fungere fordi ein av { -brand-short-name } sine filer er i bruk av eit anna program. Nokre sikkerheitsprogram kan skape dette problemet.
