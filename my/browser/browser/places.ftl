@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = အားလုံးကို စာအမှတ်များနဲ့ ဖွင့်ပါ
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (ဘာမျှမရှိ)
 places-view =
     .label = ရှုမြင်ချက်
     .accesskey = w
@@ -119,6 +121,24 @@ places-view-sort-col-last-modified =
 places-view-sortby-name =
     .label = အမည်အားဖြင့် စီပါ
     .accesskey = N
+places-view-sortby-url =
+    .label = တည်နေရာအားဖြင့် စီပါ
+    .accesskey = L
+places-view-sortby-date =
+    .label = လတ်တလောကြည့်ရှုမှု အများဆုံးအားဖြင့် စီပါ
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ကြည့်ရှုမှု အရေအတွက်အားဖြင့် စီပါ
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = ထည့်ခဲ့သည့်အချိန်ဖြင့် စီပါ
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ပြုပြင်ထားသည့်အချိန်ဖြင့် စီပါ
+    .accesskey = M
+places-view-sortby-tags =
+    .label = အမှတ်အသားဖြင့် စီပါ
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -126,10 +146,23 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ဆက်သွားပါ
 places-details-pane-select-an-item-description = အချက်တခုကို ရှုမြင်ဖို့နဲ့ ၄င်းရဲ့ ဂုဏ်အင်္ဂါရပ်များကို တည်းဖြတ်ဖို့ ရွေးချယ်ပါ
+places-details-pane-no-items =
+    .value = မည်သည့်အရာမျှ မရှိပါ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = မှတ်တမ်း { $count } ခု
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = စာမှတ်များကို ရှာရန်
+places-search-history =
+    .placeholder = မှတ်တမ်း ရှာရန်
+places-search-downloads =
+    .placeholder = ဆွဲချထားသည့် ဖိုင်များကို ရှာရန်
 
 ##
 
+places-locked-prompt = { -brand-short-name } ၏ ဖိုင်များထဲမှ တစ်ခုကို အက်ပလီကေးရှင်းတစ်ခုက အသုံးပြုနေသောကြောင့် စာမှတ်များနှင့် မှတ်တမ်းစနစ်သည် ကောင်းစွာ လုပ်ဆောင်နိုင်မည် မဟုတ်ပါ။ အချို့ လုံခြုံရေးဆိုင်ရာ ဆော့ဖ်ဝဲသည် ယခုပြဿနာကို ဖြစ်စေနိုင်သည်။
