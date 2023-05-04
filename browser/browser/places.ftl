@@ -144,3 +144,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Pergala bijare û dîrokê nayê xebitandin ji ber ku pelên { -brand-short-name }'ê ji hêla sepaneke din ve tên bikaranîn. Dibe ku sedema vê yekê pirsgirêkên ewlekariyê be.
