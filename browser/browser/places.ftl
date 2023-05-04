@@ -213,3 +213,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Zabilješke i povijest neće biti funkcionalne zbog jedne { -brand-short-name } datoteke koju koristi drugi program. Neki sigurnosni programi mogu ovo prouzročiti.
