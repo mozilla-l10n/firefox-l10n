@@ -4,3 +4,4 @@
 
 places-error-title = { -brand-short-name }
 places-bookmarks-restore-filter-name = JSON
+places-bookmarks-restore-format-error = Jenis fail tidak disokong.
