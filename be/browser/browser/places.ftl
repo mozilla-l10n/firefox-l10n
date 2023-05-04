@@ -199,6 +199,12 @@ places-view-sort-col-date-added =
     .label = Дададзена
 places-view-sort-col-last-modified =
     .label = Апошняе змяненне
+places-view-sortby-date-added =
+    .label = Сартаваць па даце дадання
+    .accesskey = д
+places-view-sortby-last-modified =
+    .label = Сартаваць па даце апошняй змены
+    .accesskey = з
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -214,6 +220,9 @@ places-search-bookmarks =
     .placeholder = Пошук закладак
 places-search-history =
     .placeholder = Шукаць у гісторыі
+places-search-downloads =
+    .placeholder = Пошук сцягванняў
 
 ##
 
+places-locked-prompt = Сістэма гісторыі і закладак не дзейнічае, бо адзін з файлаў { -brand-short-name } скарыстоўваецца іншай праграмай. Гэтую праблему могуць выклікаць асобныя праграмы бяспекі.
