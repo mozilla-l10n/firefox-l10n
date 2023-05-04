@@ -210,6 +210,9 @@ places-view-sortby-visit-count =
 places-view-sortby-date-added =
     .label = Rikiuoti pagal įtraukimo datą
     .accesskey = d
+places-view-sortby-last-modified =
+    .label = Rikiuoti pagal taisymo datą
+    .accesskey = t
 places-view-sortby-tags =
     .label = Rikiuoti pagal gaires
     .accesskey = g
@@ -244,3 +247,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = „{ -brand-short-name }“ adresynas ir žurnalas neveiks, kadangi vieną iš jos failų naudoja kita programa. Šią problemą gali sukelti kai kurios saugumo programos.
