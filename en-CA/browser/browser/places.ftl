@@ -216,6 +216,8 @@ places-search-bookmarks =
     .placeholder = Search Bookmarks
 places-search-history =
     .placeholder = Search History
+places-search-downloads =
+    .placeholder = Search Downloads
 
 ##
 
