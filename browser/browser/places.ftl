@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Otwórz w nowym oknie prywatnym
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (pusty)
 places-add-bookmark =
     .label = Dodaj zakładkę…
     .accesskey = z
@@ -82,6 +84,15 @@ places-delete-folder =
            *[other] Usuń foldery
         }
     .accesskey = U
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Usuń tę stronę
+           *[other] Usuń te strony
+        }
+    .accesskey = s
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Zakładki zarządzane przez administratora
@@ -195,6 +206,27 @@ places-view-sort-col-date-added =
     .label = Dodano
 places-view-sort-col-last-modified =
     .label = Ostatnia modyfikacja
+places-view-sortby-name =
+    .label = Sortuj według nazw
+    .accesskey = n
+places-view-sortby-url =
+    .label = Sortuj według adresu
+    .accesskey = a
+places-view-sortby-date =
+    .label = Sortuj według daty ostatniej wizyty
+    .accesskey = d
+places-view-sortby-visit-count =
+    .label = Sortuj według liczby wizyt
+    .accesskey = c
+places-view-sortby-date-added =
+    .label = Sortuj według daty dodania
+    .accesskey = n
+places-view-sortby-last-modified =
+    .label = Sortuj według daty ostatniej modyfikacji
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Sortuj według etykiet
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -217,6 +249,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Szukaj w zakładkach
+places-search-history =
+    .placeholder = Szukaj w historii
+places-search-downloads =
+    .placeholder = Szukaj w pobranych plikach
 
 ##
 
+places-locked-prompt = System zakładek i historii nie będzie działał, ponieważ jeden z plików programu { -brand-short-name } jest używany przez inną aplikację. Niektóre programy związane z bezpieczeństwem mogą powodować ten problem.
