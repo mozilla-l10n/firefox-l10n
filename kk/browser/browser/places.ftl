@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Бумаларды өшіру
         }
     .accesskey = ш
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Бетті өшіру
+           *[other] Беттерді өшіру
+        }
+    .accesskey = ш
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Басқарылатын бетбелгілер
@@ -105,6 +114,15 @@ places-delete-bookmark =
            *[other] Бетбелгілерді өшіру
         }
     .accesskey = ш
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Бетті бетбелгілерге қосу…
+           *[other] Беттерді бетбелгілерге қосу…
+        }
+    .accesskey = б
 places-untag-bookmark =
     .label = Тегті өшіру
     .accesskey = р
@@ -248,3 +266,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Бетбелгілер мен тарих қазір қолжетімсіз, өйткені { -brand-short-name } кейбір файлдарын басқа бағдарлама қолданып тұр. Кейбір қауіпсіздік бағдарламалар осындай мәселені туғызуы мүмкін.
