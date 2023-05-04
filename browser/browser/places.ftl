@@ -123,6 +123,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre
 places-details-pane-no-items =
     .value = Tu tişt tune
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Hêmanek
+           *[other] { $count } hêman
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -131,6 +139,8 @@ places-search-bookmarks =
     .placeholder = Di Bijareyan de Bigere
 places-search-history =
     .placeholder = Di Mêjûyê de Bigere
+places-search-downloads =
+    .placeholder = Di Jêbarkiriyan de bigere
 
 ##
 
