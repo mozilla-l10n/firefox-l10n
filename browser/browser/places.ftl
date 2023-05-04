@@ -11,6 +11,8 @@ places-open-in-tab =
 places-open-all-in-tabs =
     .label = అన్నింటినీ ట్యాబులలో తెరువు
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (ఖాళి)
 places-view =
     .label = చూడండి
     .accesskey = w
@@ -55,9 +57,6 @@ other-bookmarks-folder =
 places-library =
     .title = లైబ్రరీ
     .style = width:700px; height:500px;
-places-library2 =
-    .title = లైబ్రరీ
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = లైబ్రరీ
 places-organize-button =
@@ -140,3 +139,10 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ముందుకు వెళ్ళు
 places-details-pane-select-an-item-description = ఒక అంశము యొక్క లక్షణములను చూసుటకు మరియు సరిచేయుటకు ఎంపికచేయి
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
