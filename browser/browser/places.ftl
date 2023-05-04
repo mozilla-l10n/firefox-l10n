@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Kārtot pēc nosaukuma
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Dzēst lapu
+           *[other] Dzēst lapas
+        }
+    .accesskey = D
 places-library =
     .title = Bibliotēka
     .style = width:700px; height:500px;
@@ -148,6 +157,15 @@ places-forward-button =
 places-details-pane-select-an-item-description = Izvēlieties elementu, ko aplūkot vai rediģēt
 places-details-pane-no-items =
     .value = Nav nevienas vienības
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [zero] { $count } vienības
+            [one] { $count } vienība
+           *[other] { $count } vienības
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
