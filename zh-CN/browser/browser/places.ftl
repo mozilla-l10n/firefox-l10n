@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] 删除文件夹
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] 删除页面
+           *[other] 删除页面
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 受控书签
@@ -203,6 +212,9 @@ places-view-sortby-name =
 places-view-sortby-url =
     .label = 按网址排序
     .accesskey = L
+places-view-sortby-date =
+    .label = 按上次访问时间排序
+    .accesskey = V
 places-view-sortby-visit-count =
     .label = 按访问次数排序
     .accesskey = C
@@ -224,6 +236,10 @@ places-forward-button =
 places-details-pane-select-an-item-description = 选择一个条目来查看或编辑其属性
 places-details-pane-no-items =
     .value = 无
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = { $count }个项目
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
