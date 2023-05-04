@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ada görə sırala
     .accesskey = k
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Səhifəni Sil
+           *[other] Səhifələri Sil
+        }
+    .accesskey = D
 places-library =
     .title = Kitabxana
     .style = width:700px; height:500px;
@@ -164,6 +173,8 @@ places-search-bookmarks =
     .placeholder = Əlfəcinlərdə Axtar
 places-search-history =
     .placeholder = Tarixçədə Axtar
+places-search-downloads =
+    .placeholder = Endirmələrdə Axtar
 
 ##
 
