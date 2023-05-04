@@ -91,6 +91,8 @@ places-details-pane-no-items =
 
 places-search-bookmarks =
     .placeholder = Хаяг хайх
+places-search-history =
+    .placeholder = Зорчсон түүхэнд хайх
 
 ##
 
