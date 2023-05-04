@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Mappák törlése
         }
     .accesskey = t
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Lap törlése
+           *[other] Lapok törlése
+        }
+    .accesskey = t
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Menedzsel könyvjelzők
