@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = បាន​បន្ថែម
 places-view-sort-col-last-modified =
     .label = បាន​កែប្រែ​ចុងក្រោយ
+places-view-sortby-name =
+    .label = តម្រៀប​តាម​ឈ្មោះ
+    .accesskey = N
+places-view-sortby-url =
+    .label = តម្រៀប​តាម​ទីតាំង
+    .accesskey = L
+places-view-sortby-date =
+    .label = តម្រៀប​តាម​ការ​ទស្សនា​ថ្មី​បំផុត
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = តម្រៀប​តាម​ចំនួន​​នៃ​ការ​ទស្សនា
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = តម្រៀប​តាម​អ្វី​ដែល​បាន​បន្ថែម
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = តម្រៀប​តាម​អ្វី​ដែល​បាន​កែប្រែ​ចុង​ក្រោយ
+    .accesskey = M
+places-view-sortby-tags =
+    .label = តម្រៀប​តាម​ស្លាក
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -140,3 +161,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = ប្រព័ន្ធ​ចំណាំ និង​ប្រវត្តិ​នឹង​មិន​ដំណើរការ​ទេ ពីព្រោះ​ឯកសារ​មួយ​ក្នុង​ចំណោម​ឯកសារ​ទាំងអស់​របស់ { -brand-short-name } កំពុង​ត្រូវ​បាន​ប្រើ​ដោយ​កម្មវិធី​ផ្សេងទៀត ។ កម្មវិធី​សុវត្ថិភាព​ខ្លះ​អាច​បង្ក​ឲ្យ​មាន​បញ្ហា​នេះ ។
