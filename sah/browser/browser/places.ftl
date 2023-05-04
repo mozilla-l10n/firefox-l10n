@@ -119,6 +119,10 @@ places-forward-button =
 places-details-pane-select-an-item-description = Элэмиэн ис тутулун көрөргө уонна көннөрөргө бэйэтин тал
 places-details-pane-no-items =
     .value = Пууннара суох
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value = { $count } пуун
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
