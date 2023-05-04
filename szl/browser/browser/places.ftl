@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Ôdewrzij w nowym prywatnym ôknie
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (prōżne)
 places-add-bookmark =
     .label = Przidej zokłodka…
     .accesskey = Z
@@ -84,6 +86,15 @@ places-delete-folder =
            *[many] Skasuj katalogi
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Skasuj strōna
+           *[other] Skasuj strōny
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Regiyrowane zokłodki
@@ -118,9 +129,6 @@ places-forget-about-this-site-forget = Przepōmnij
 places-library =
     .title = Bibliotyka
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Bibliotyka
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Bibliotyka
 places-organize-button =
@@ -196,6 +204,27 @@ places-view-sort-col-date-added =
     .label = Przidane
 places-view-sort-col-last-modified =
     .label = Ôstatnio zmiyniōne
+places-view-sortby-name =
+    .label = Sortuj podug miana
+    .accesskey = n
+places-view-sortby-url =
+    .label = Sortuj podug placu
+    .accesskey = p
+places-view-sortby-date =
+    .label = Sortuj podug ôstatnigo byzuchu
+    .accesskey = B
+places-view-sortby-visit-count =
+    .label = Sortuj podug wielości byzuchōw
+    .accesskey = w
+places-view-sortby-date-added =
+    .label = Sortuj podug przidanio
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Sortuj podug ôstatnij zmiany
+    .accesskey = z
+places-view-sortby-tags =
+    .label = Sortuj podug etyket
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -203,3 +232,19 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Do przodku
 places-details-pane-select-an-item-description = Ôbier elymynt, coby pokozać i edytować jego włosności
+places-details-pane-no-items =
+    .value = Żodnych elymyntōw
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Szukej we zokłodkach
+places-search-history =
+    .placeholder = Szukej w historyji
+places-search-downloads =
+    .placeholder = Szukej w pobraniach
+
+##
+
+places-locked-prompt = Systym zokłodek i historyje niy bydzie fungować, bo jedyn ze zbiorōw aplikacyje { -brand-short-name } używo prawie inkszo aplikacyjo. Tyn problym może robić software bezpieczyństwa.
