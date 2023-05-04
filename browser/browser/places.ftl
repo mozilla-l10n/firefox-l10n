@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ordina pe nomme
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Scancella pagina
+           *[other] Scancella pagine
+        }
+    .accesskey = S
 places-library =
     .title = Libraia
     .style = width:700px; height:500px;
