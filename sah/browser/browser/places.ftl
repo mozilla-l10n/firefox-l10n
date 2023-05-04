@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Барытын кыбытыктарга арый
     .accesskey = к
+places-empty-bookmarks-folder =
+    .label = (Кураанах)
 places-view =
     .label = Көстүүтэ
     .accesskey = т
@@ -35,9 +37,6 @@ places-sortby-name =
 places-library =
     .title = Билибитиэкэ
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Билибитиэкэ
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Билибитиэкэ
 places-organize-button =
@@ -118,3 +117,18 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Инники бар
 places-details-pane-select-an-item-description = Элэмиэн ис тутулун көрөргө уонна көннөрөргө бэйэтин тал
+places-details-pane-no-items =
+    .value = Пууннара суох
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Бэлиэ-кыбытыктарга көрдөөһүн
+places-search-history =
+    .placeholder = Сурунаалга көрдөөһүн
+places-search-downloads =
+    .placeholder = Хачайдааһыннарга көрдөөһүн
+
+##
+
