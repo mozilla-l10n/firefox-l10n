@@ -294,6 +294,9 @@ applications-save-for-new-types =
     .accesskey = S
 play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 update-application-title = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ
+# Variables:
+# $version (string) - Firefox version
+update-application-version = ᱵᱷᱚᱨᱥᱚᱱ { $version } <a data-l10n-name="ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ">ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜᱼᱟ</a>
 update-history =
     .label = ᱦᱟᱹᱞᱤ ᱨᱟᱠᱟᱵ ᱦᱤᱛᱟᱹᱞ ᱩᱫᱩᱜ ᱢᱮ…
     .accesskey = p
@@ -421,6 +424,10 @@ home-prefs-recent-activity-description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭ�
 ## Search Section
 
 search-bar-header = ᱥᱮᱸᱫᱽᱨᱟ ᱦᱟᱯᱟ
+search-choose-engine-column =
+    .label = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
+search-choose-keyword-column =
+    .label = ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ
 search-remove-engine =
     .label = ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
@@ -438,6 +445,8 @@ search-keyword-warning-bookmark = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ �
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = ᱥᱟᱡᱟᱣ ᱛᱮ ᱨᱤᱣᱟᱹᱲ
 containers-settings-button =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
 containers-remove-button =
@@ -450,6 +459,8 @@ sync-signedout-caption = ᱟᱢᱟᱜ ᱣᱮᱵ ᱟᱢ ᱥᱟᱶ ᱛᱮ ᱤᱫ�
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
 sync-sign-out =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ…
     .accesskey = g
@@ -464,12 +475,19 @@ sync-signedin-login-failure = ᱫᱟᱭᱟᱠᱟᱛᱮ { $email } ᱥᱟᱞᱟ�
 
 ##
 
+sync-remove-account =
+    .label = ᱠᱷᱟᱛᱟ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = R
 sync-sign-in =
     .label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
     .accesskey = g
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-now =
+    .labelnotsyncing = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
+    .accesskeynotsyncing = N
+    .labelsyncing = ᱥᱭᱝᱠᱚᱜ ᱠᱟᱱᱟ…
 
 ## The list of things currently syncing.
 
@@ -636,6 +654,17 @@ enhanced-tracking-protection-setting-custom =
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-etp-standard-tcp-rollout-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+content-blocking-warning-learn-how = ᱪᱮᱫᱢᱮ ᱚᱠᱟᱞᱠᱟ
+content-blocking-reload-tabs-button =
+    .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱞᱟᱫᱮ ᱢᱮ
+    .accesskey = R
+content-blocking-tracking-content-label =
+    .label = ᱯᱟᱧᱡᱟ ᱡᱤᱱᱤᱥ
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = ᱡᱷᱚᱛᱚ ᱡᱷᱚᱨᱠᱟ ᱨᱮ
+    .accesskey = A
 
 ## Privacy Section - Tracking
 

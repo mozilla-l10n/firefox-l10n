@@ -85,6 +85,12 @@ permissions-invalid-uri-label = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱴᱷᱤᱠ ᱦᱚᱥ�
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱣᱮᱵᱽᱥᱟᱭᱤᱴᱠᱚ ᱼ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ
+    .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱣᱮᱵᱽᱥᱟᱭᱤᱴᱠᱚ ᱼ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = ᱟᱢ ᱜᱚᱴᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱚᱠᱟ ᱣᱮᱵᱥᱟᱤᱴ ᱯᱚᱯ ᱚᱯ ᱣᱤᱸᱰᱚ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣᱮᱢ ᱮᱢᱟ, ᱥᱟᱤᱴ ᱨᱮᱭᱟᱜ ᱥᱩᱦᱤ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱠᱟ ᱟᱢ ᱵᱟᱛᱟᱣ ᱮᱢ  ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱴᱟᱤᱯ ᱢᱮ ᱟᱨᱚ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱵᱟᱛᱟᱣ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Exceptions - Saved Logins
@@ -105,15 +111,33 @@ permissions-site-autoplay-window2 =
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = ᱥᱟᱡᱟᱣ ᱠᱚ - ᱠᱷᱚᱵᱚᱨ ᱦᱚᱠ
+    .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = ᱥᱟᱡᱟᱣ ᱠᱚ - ᱠᱷᱚᱵᱚᱨ ᱦᱚᱠ
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = ᱥᱟᱡᱟᱣ - ᱡᱟᱭᱜᱟ ᱦᱚᱠ
+    .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = ᱥᱟᱡᱟᱣ - ᱡᱟᱭᱜᱟ ᱦᱚᱠ
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Virtual Reality
 
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = ᱥᱟᱡᱟᱣ ᱠᱚ - ᱠᱮᱢᱮᱨᱟ ᱦᱚᱠ
+    .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = ᱥᱟᱡᱟᱣ ᱠᱚ - ᱠᱮᱢᱮᱨᱟ ᱦᱚᱠ
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 
