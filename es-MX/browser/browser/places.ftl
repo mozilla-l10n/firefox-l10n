@@ -211,6 +211,15 @@ places-view-sortby-date =
 places-view-sortby-visit-count =
     .label = Ordenar por cantidad de visitas
     .accesskey = c
+places-view-sortby-date-added =
+    .label = Ordenar por fecha
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Ordenar por última modificación
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Ordenar por etiquetas
+    .accesskey = t
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -234,6 +243,8 @@ places-details-pane-items-count =
 
 places-search-bookmarks =
     .placeholder = Buscar marcadores
+places-search-history =
+    .placeholder = Buscar en el historial
 places-search-downloads =
     .placeholder = Buscar descargas
 
