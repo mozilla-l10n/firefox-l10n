@@ -311,6 +311,10 @@ performance-settings-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 performance-allow-hw-accel =
     .label = ᱦᱟᱰᱣᱮᱨ ᱛᱚᱲᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱛᱤᱱ ᱨᱮ ᱧᱟᱢᱚᱜᱼᱟ
     .accesskey = r
+# Variables:
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (ᱢᱩᱞ)
 
 ## General Section - Browsing
 
@@ -343,12 +347,21 @@ network-proxy-connection-settings =
 
 home-homepage-mode-label = ᱚᱲᱟᱜᱥᱟᱦᱴᱟ ᱟᱨ ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ
 home-newtabs-mode-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱠᱚ
+home-restore-defaults =
+    .label = ᱦᱩᱲᱟᱹᱜ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
+    .accesskey = R
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox Home (ᱢᱩᱞ)
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (ᱢᱩᱞ)
+home-mode-choice-custom =
+    .label = ᱠᱩᱥᱤᱭᱟᱠ URLs…
+home-mode-choice-blank =
+    .label = ᱮᱠᱷᱮᱱᱟ ᱥᱟᱦᱴᱟ
+home-homepage-custom-url =
+    .placeholder = ᱢᱤᱫᱴᱟᱹᱝ URL ᱞᱟᱴᱷᱟᱭ ᱢᱮ…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -366,6 +379,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox ᱚᱲᱟᱜ ᱡᱤᱱᱤᱥ
 home-prefs-content-header2 = { -firefox-home-brand-name } ᱡᱤᱱᱤᱥ
 home-prefs-search-header =
     .label = ᱣᱮᱵᱽ ᱥᱮᱸᱫᱽᱨᱟ
@@ -628,7 +642,21 @@ enhanced-tracking-protection-setting-custom =
 
 ## Privacy Section - Permissions
 
+permissions-microphone-settings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
+    .accesskey = t
+permissions-speaker-settings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
+    .accesskey = t
+permissions-notification = ᱤᱛᱞᱟᱹᱭ ᱠᱚ
+permissions-notification-settings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
+    .accesskey = t
 permissions-notification-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+permissions-autoplay = ᱟᱡ ᱛᱮ ᱮᱱᱮᱡ
+permissions-autoplay-settings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
+    .accesskey = t
 permissions-block-popups =
     .label = ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱟᱴᱠᱟᱣ
     .accesskey = B
@@ -647,6 +675,7 @@ addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = ᱡᱟᱹᱯᱛᱤ
 security-enable-safe-browsing-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Privacy Section - Certificates
@@ -655,6 +684,15 @@ certs-header = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ
 certs-enable-ocsp =
     .label = ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ ᱨᱮᱭᱟᱜ ᱱᱤᱛᱚᱜᱟᱜ ᱚᱠᱛᱚ ᱮᱢ ᱜᱚᱴᱟᱭ ᱞᱟᱹᱜᱤᱫ OCSP ᱠᱩᱠᱞᱤ ᱨᱩᱣᱟᱹᱲᱤᱡ ᱥᱚᱨᱣᱚᱨ ᱠᱟᱹᱢᱤᱟᱭ
     .accesskey = Q
+certs-view =
+    .label = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱮᱞ ᱢᱮ…
+    .accesskey = C
+certs-devices =
+    .label = ᱡᱟᱹᱯᱛᱤ ᱥᱟᱫᱷᱚᱱ…
+    .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱡᱷᱤᱜ ᱢᱮ
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 
@@ -662,6 +700,8 @@ httpsonly-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## DoH Section
 
+preferences-doh-status-active = ᱩᱥᱨᱟᱹᱣ
+preferences-doh-status-disabled = ᱵᱚᱸᱫᱚ
 
 ## The following strings are used in the Download section of settings
 
