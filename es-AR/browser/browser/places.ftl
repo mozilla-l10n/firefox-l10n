@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Abrir en una nueva ventana privada
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Vacío)
 places-add-bookmark =
     .label = Agregar marcador…
     .accesskey = m
@@ -83,6 +85,15 @@ places-delete-folder =
            *[other] Borrar carpetas
         }
     .accesskey = p
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Borrar página
+           *[other] Borrar páginas
+        }
+    .accesskey = B
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores administrados
@@ -122,9 +133,6 @@ places-forget-about-this-site-forget = Olvidar
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteca
 places-organize-button =
@@ -200,6 +208,27 @@ places-view-sort-col-date-added =
     .label = Agregado
 places-view-sort-col-last-modified =
     .label = Última modificación
+places-view-sortby-name =
+    .label = Ordenar por nombre
+    .accesskey = n
+places-view-sortby-url =
+    .label = Ordenar por dirección
+    .accesskey = O
+places-view-sortby-date =
+    .label = Ordenar por fecha de visita
+    .accesskey = v
+places-view-sortby-visit-count =
+    .label = Ordenar por cantidad de visitas
+    .accesskey = c
+places-view-sortby-date-added =
+    .label = Ordenar por agregado
+    .accesskey = g
+places-view-sortby-last-modified =
+    .label = Ordenar por última modificación
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Ordenar por etiquetas
+    .accesskey = e
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -207,3 +236,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ir adelante
 places-details-pane-select-an-item-description = Seleccione un ítem para mostrar y editar sus propiedades
+places-details-pane-no-items =
+    .value = Ningún ítem
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un ítem
+           *[other] { $count } ítems
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Buscar en marcadores
+places-search-history =
+    .placeholder = Buscar en historial
+places-search-downloads =
+    .placeholder = Buscar en descargas
+
+##
+
+places-locked-prompt = El sistema de marcadores e historial no será funcional porque uno de los archivos de { -brand-short-name } está en uso por otra aplicación. Algún software de seguridad puede ser la causa de este problema.
