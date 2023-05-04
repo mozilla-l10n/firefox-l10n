@@ -107,11 +107,20 @@ is-not-default = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨ�
 set-as-my-default-browser =
     .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = D
+disable-extension =
+    .label = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
+preferences-data-migration-header = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱭ ᱢᱮ
+preferences-data-migration-button =
+    .label = ᱰᱟᱴᱟ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟ
+    .accesskey = m
 tabs-group-header = ᱴᱮᱵᱽ ᱠᱚ
 show-tabs-in-taskbar =
     .label = ᱡᱷᱚᱨᱠᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱨ ᱨᱮ ᱴᱮᱵᱽ ᱢᱟᱲᱟᱝ ᱛᱮᱭᱟᱜ ᱧᱮᱞ ᱩᱫᱩᱜ ᱢᱮ
     .accesskey = k
 browser-containers-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+browser-containers-settings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
+    .accesskey = i
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -285,9 +294,13 @@ applications-save-for-new-types =
     .accesskey = S
 play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 update-application-title = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ
+update-history =
+    .label = ᱦᱟᱹᱞᱤ ᱨᱟᱠᱟᱵ ᱦᱤᱛᱟᱹᱞ ᱩᱫᱩᱜ ᱢᱮ…
+    .accesskey = p
 update-application-use-service =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱚᱱᱚᱲ ᱠᱟᱹᱢᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = b
+update-in-progress-title = ᱦᱟᱹᱞᱤᱭᱟᱜ ᱞᱟᱦᱟᱜ ᱠᱟᱱᱟ
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ᱞᱟᱦᱟᱜ ᱢᱮ

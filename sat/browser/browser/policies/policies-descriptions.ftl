@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-DisableBuiltinPDFViewer = PDF.js ᱵᱚᱸᱫᱚᱭ ᱢᱮ, { -brand-short-name } ᱨᱮ PDF ᱫᱮᱠᱷᱟᱣᱤᱭᱟᱹ ᱛᱮᱭᱟᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 policy-DisablePrivateBrowsing = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱚᱱᱫ ᱠᱟᱜ ᱢᱮ ᱾
 policy-FirefoxHome = Firefox Home ᱥᱟᱹᱛ ᱢᱮ ᱾
 policy-FirefoxHome2 = { -firefox-home-brand-name } ᱥᱟᱹᱛ ᱢᱮ ᱾
