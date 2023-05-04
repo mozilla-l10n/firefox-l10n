@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Abrir en una nueva ventana privada
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Vacío)
 places-add-bookmark =
     .label = Añadir marcador…
     .accesskey = B
@@ -222,10 +224,18 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ir adelante
 places-details-pane-select-an-item-description = Selecciona un elemento para ver y editar sus propiedades
+places-details-pane-no-items =
+    .value = No hay elementos
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Buscar en marcadores
+places-search-history =
+    .placeholder = Buscar en historial
+places-search-downloads =
+    .placeholder = Buscar en descargas
 
 ##
 
