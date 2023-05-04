@@ -206,10 +206,13 @@ firefoxview-cfr-primarybutton = ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
 firefoxview-cfr-secondarybutton = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = N
 firefoxview-cfr-header-v2 = ᱞᱚᱜᱚᱱ ᱪᱟᱞᱟᱜ ᱢᱮ ᱡᱟᱦᱟᱸ ᱨᱮ ᱢᱟᱲᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱢ
+firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ᱛᱮ ᱟᱢ ᱵᱚᱱᱫ ᱟᱠᱟᱱ ᱴᱮᱵᱽ, ᱥᱟᱶᱛᱮ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱫᱚᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name } ᱡᱚᱦᱟᱨᱟᱭ ᱢᱮ
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = ᱯᱷᱚᱱ ᱨᱮ ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ? ᱱᱤᱛᱚᱜ ᱦᱟᱛᱟᱣ ᱢᱮ ᱾ ᱱᱤᱛᱚᱜ ᱠᱚᱨᱟᱣ ᱠᱟᱛᱮ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱢᱮ ? { -firefoxview-brand-name } ᱵᱚᱦᱟᱞ ᱢᱮ ᱾
 firefoxview-spotlight-promo-primarybutton = ᱧᱮᱞ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱠᱟᱹᱢᱤᱭᱟ
 firefoxview-spotlight-promo-secondarybutton = ᱟᱲᱟᱜ
 
@@ -217,16 +220,31 @@ firefoxview-spotlight-promo-secondarybutton = ᱟᱲᱟᱜ
 
 colorways-cfr-primarybutton = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱥᱟᱶᱛᱮ ᱨᱚᱝ ᱠᱚ ᱮᱢᱟᱱ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+colorways-cfr-header-28days = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱡᱟᱱᱣᱟᱨᱤ 16 ᱨᱮ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
+colorways-cfr-header-14days = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱵᱟᱨ ᱦᱟᱯᱛᱟ ᱨᱮ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
+colorways-cfr-header-7days = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱱᱤᱭᱟᱹ ᱦᱟᱹᱯᱛᱟ ᱨᱮ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
+colorways-cfr-header-today = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱛᱮᱦᱮᱸᱧ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = { -brand-short-name } ᱫᱚ ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱚ ᱵᱟᱫ ᱪᱷᱚᱭᱟᱢ ᱥᱮ ?
+cfr-cbh-body = { -brand-short-name } ᱫᱚ ᱟᱡ ᱛᱮᱜᱮ ᱟᱭᱢᱟ ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱱᱮᱦᱚᱨ ᱠᱚ ᱵᱟᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+cfr-cbh-confirm-button = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱵᱟᱫ ᱜᱤᱰᱤ
+    .accesskey = R
 cfr-cbh-dismiss-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = ᱟᱞᱮ ᱟᱯᱮᱭᱟᱜ ᱡᱚᱛᱱᱟ ᱞᱮ ᱤᱫᱤ ᱟᱠᱟᱫᱼᱟ
+july-jam-body = ᱪᱟᱸᱫᱚ ᱯᱤᱪᱷᱟᱹ, { -brand-short-name } ᱫᱚ ᱢᱤᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱜᱷᱩᱸᱴ 3,000+ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱯᱟᱧᱡᱟ ᱠᱩᱜ ᱠᱚ ᱵᱟᱫ ᱠᱟᱫ ᱠᱚᱣᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱥᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱪᱚᱴᱠᱟᱨ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱮᱢᱟᱢᱟᱭ ᱾
+july-jam-set-default-primary = { -brand-short-name } ᱥᱟᱶ ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 fox-doodle-pin-headline = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = ᱱᱚᱸᱰᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱠᱟᱛᱷᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱟᱢᱟᱜ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱤᱱᱰᱤ ᱵᱨᱟᱩᱡᱟᱨ ᱢᱤᱫ ᱠᱞᱤᱠ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱫᱚᱦᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 fox-doodle-pin-primary = { -brand-short-name } ᱥᱟᱶ ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 fox-doodle-pin-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
