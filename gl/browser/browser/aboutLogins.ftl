@@ -109,6 +109,9 @@ login-item-time-used = Última utilización: { DATETIME($timeUsed, day: "numeric
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-action-created = Data de creación
+login-item-timeline-action-updated = Actualizado
+login-item-timeline-action-used = Usado
 
 ## OS Authentication dialog
 
