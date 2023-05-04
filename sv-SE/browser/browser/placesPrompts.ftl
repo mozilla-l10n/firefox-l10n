@@ -10,5 +10,6 @@ places-bookmarks-restore-alert = Det här ersätter alla dina nuvarande bokmärk
 places-bookmarks-restore-title = Välj en säkerhetskopia på bokmärken
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Filtypen stöds inte.
+places-bookmarks-restore-parse-error = Kan inte bearbeta säkerhetskopieringsfilen.
 places-bookmarks-import = Importera bokmärkesfilen
 places-bookmarks-export = Exportera bokmärkesfilen
