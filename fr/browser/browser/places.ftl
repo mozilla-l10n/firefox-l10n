@@ -197,6 +197,27 @@ places-view-sort-col-date-added =
     .label = Date d’ajout
 places-view-sort-col-last-modified =
     .label = Date de modification
+places-view-sortby-name =
+    .label = nom
+    .accesskey = n
+places-view-sortby-url =
+    .label = adresse
+    .accesskey = e
+places-view-sortby-date =
+    .label = dernière visite
+    .accesskey = d
+places-view-sortby-visit-count =
+    .label = nombre de visites
+    .accesskey = v
+places-view-sortby-date-added =
+    .label = date d’ajout
+    .accesskey = t
+places-view-sortby-last-modified =
+    .label = date de modification
+    .accesskey = o
+places-view-sortby-tags =
+    .label = étiquette
+    .accesskey = u
 places-cmd-find-key =
     .key = F
 places-back-button =
@@ -204,6 +225,8 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Avancer
 places-details-pane-select-an-item-description = Sélectionner un élément pour afficher et modifier ses propriétés
+places-details-pane-no-items =
+    .value = Pas d’élément
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
@@ -218,8 +241,11 @@ places-details-pane-items-count =
 
 places-search-bookmarks =
     .placeholder = Rechercher dans les marque-pages
+places-search-history =
+    .placeholder = Rechercher dans l’historique
 places-search-downloads =
     .placeholder = Rechercher dans les téléchargements
 
 ##
 
+places-locked-prompt = Le système de marque-pages et d’historique ne sera pas opérationnel car l’un des fichiers de { -brand-short-name } est en cours d’utilisation par une autre application. Certains logiciels de sécurité peuvent causer ce problème.
