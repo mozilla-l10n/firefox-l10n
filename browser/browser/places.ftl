@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Megnyitás új privát ablakban
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Üres)
 places-add-bookmark =
     .label = Könyvjelzők hozzáadása…
     .accesskey = K
@@ -122,9 +124,6 @@ places-forget-about-this-site-forget = Elfelejtés
 places-library =
     .title = Könyvtár
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Könyvtár
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Könyvtár
 places-organize-button =
@@ -207,3 +206,24 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ugrás előre
 places-details-pane-select-an-item-description = Jelöljön ki egy elemet megtekintésre, és szerkessze tulajdonságait
+places-details-pane-no-items =
+    .value = 0 elem
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Egy elem
+           *[other] { $count } elem
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Keresés a könyvjelzők között
+places-search-downloads =
+    .placeholder = Keresés a letöltések között
+
+##
+
