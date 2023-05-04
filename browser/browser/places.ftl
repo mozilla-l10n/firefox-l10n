@@ -214,6 +214,9 @@ places-view-sortby-visit-count =
 places-view-sortby-date-added =
     .label = מיון לפי הוספה
     .accesskey = ה
+places-view-sortby-last-modified =
+    .label = מיון לפי שינוי אחרון
+    .accesskey = נ
 places-view-sortby-tags =
     .label = מיון לפי תגיות
     .accesskey = ג
@@ -238,6 +241,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = חיפוש בסימניות
+places-search-history =
+    .placeholder = חיפוש בהיסטוריה
+places-search-downloads =
+    .placeholder = חיפוש בהורדות
 
 ##
 
+places-locked-prompt = מערכת הסימניות וההיסטוריה לא מתפקדת מאחר שאחד הקבצים של { -brand-short-name } נמצא בשימוש על־ידי יישום אחר. בעיה זו נגרמת לעתים על־ידי תכניות אבטחה.
