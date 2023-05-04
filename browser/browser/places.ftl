@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Mappen verwijderen
         }
     .accesskey = v
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Pagina verwijderen
+           *[other] Pagina’s verwijderen
+        }
+    .accesskey = w
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Beheerde bladwijzers
@@ -214,6 +223,9 @@ places-view-sortby-visit-count =
 places-view-sortby-date-added =
     .label = Sorteren op Toegevoegd
     .accesskey = T
+places-view-sortby-last-modified =
+    .label = Sorteren op Laatst gewijzigd
+    .accesskey = w
 places-view-sortby-tags =
     .label = Sorteren op Labels
     .accesskey = L
@@ -247,3 +259,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Het bladwijzer- en geschiedenissysteem zal niet werken, omdat een van de bestanden van { -brand-short-name } in gebruik is door een andere toepassing. Sommige beveiligingssoftware kan dit probleem veroorzaken.
