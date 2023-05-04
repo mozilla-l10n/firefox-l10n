@@ -213,6 +213,8 @@ permissions-site-microphone-disable-desc = Aya ad isewḥel asuter n tsirag n un
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-doh-entry-field = Sekcem isem n taɣult n usmel web
+    .accesskey = t
 permissions-doh-add-exception =
     .label = Rnu
     .accesskey = R

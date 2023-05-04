@@ -1225,10 +1225,19 @@ httpsonly-radio-disabled =
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Addad: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Asaǧǧăw: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL d arameɣtu
 preferences-doh-status-active = Urmid
 preferences-doh-status-disabled = Yensa
 preferences-doh-expand-section =
     .tooltiptext = Ugar n telɣut
+preferences-doh-setting-default =
+    .label = Ammesten s wudem amezwer
+    .accesskey = A
 preferences-doh-setting-off =
     .label = Yensa
     .accesskey = s
