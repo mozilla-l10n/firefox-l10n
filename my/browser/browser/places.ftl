@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = အမည်အလိုက် မျိုးတူစုပါ
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] စာမျက်နှာကို ဖျက်ရန်
+           *[other] စာမျက်နှာများကို ဖျက်ရန်
+        }
+    .accesskey = D
 places-library =
     .title = စာကြည့်တိုက်
     .style = width:700px; height:500px;
