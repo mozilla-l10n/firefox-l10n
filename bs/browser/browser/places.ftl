@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Otvori sve u tabovima
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (prazno)
 places-view =
     .label = Prikaži
     .accesskey = w
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = Biblioteka
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteka
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteka
 places-organize-button =
@@ -126,3 +125,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Idi naprijed
 places-details-pane-select-an-item-description = Odaberite stavku za pregled i podešavanje
+places-details-pane-no-items =
+    .value = Nema stavki
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Jedna stavka
+            [few] { $count } stavki
+           *[other] { $count } stavki
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Pretraži Zabilješke
+places-search-history =
+    .placeholder = Pretraži Historiju
+places-search-downloads =
+    .placeholder = Pretraži preuzimanja
+
+##
+
