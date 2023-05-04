@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = 用新隱私視窗開啟
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (空)
 places-add-bookmark =
     .label = 新增書籤…
     .accesskey = B
@@ -120,9 +122,6 @@ places-forget-about-this-site-forget = 忘記
 places-library =
     .title = 收藏庫
     .style = width:700px; height:500px;
-places-library2 =
-    .title = 收藏庫
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = 收藏庫
 places-organize-button =
@@ -205,3 +204,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = 到下一頁
 places-details-pane-select-an-item-description = 請選擇一個項目以檢視或編輯其屬性
+places-details-pane-no-items =
+    .value = 無項目
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
