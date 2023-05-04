@@ -222,8 +222,11 @@ places-details-pane-items-count =
 
 places-search-bookmarks =
     .placeholder = Sök bokmärken
+places-search-history =
+    .placeholder = Sök i historik
 places-search-downloads =
     .placeholder = Sök hämtade filer
 
 ##
 
+places-locked-prompt = Systemet med bokmärken och historik kommer inte att fungera eftersom en av { -brand-short-name } filer används av ett annat program. Vissa säkerhetsprogram kan orsaka detta problem.
