@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (žeden titel)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Z pśicynow wěstoty njedaju se URL „javascript:“ abo „data:“ z wokna historije abo bócnice cytaś.
 places-bookmarks-backup-title = Datajowe mě za zawěsćenje cytańskich znamjenjow
 places-bookmarks-restore-alert-title = Cytańske znamjenja wótnowiś
 places-bookmarks-restore-alert = To narowna wšykne z wašych cytańskich znamjenjow pśez zawěsćone. Cośo to napšawdu cyniś?
