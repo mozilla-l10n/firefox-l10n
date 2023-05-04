@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Кушодан дар равзанаи хусусии нав
     .accesskey = К
+places-empty-bookmarks-folder =
+    .label = (Холӣ)
 places-add-bookmark =
     .label = Илова кардани хатбарак…
     .accesskey = И
@@ -82,6 +84,15 @@ places-delete-folder =
            *[other] Нест кардани ҷузвдонҳо
         }
     .accesskey = Н
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Нест кардани саҳифа
+           *[other] Нест кардани саҳифаҳо
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Хатбаракҳои идорашаванда
@@ -103,6 +114,15 @@ places-delete-bookmark =
            *[other] Нест кардани хатбаракҳо
         }
     .accesskey = Н
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Гузоштани хатбарак барои ин саҳифа…
+           *[other] Гузоштани хатбаракҳо барои ин саҳифаҳо…
+        }
+    .accesskey = Х
 places-untag-bookmark =
     .label = Тоза кардани барчасп
     .accesskey = Т
@@ -120,9 +140,6 @@ places-forget-about-this-site-forget = Фаромӯш кардан
 places-library =
     .title = Китобхона
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Китобхона
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Китобхона
 places-organize-button =
@@ -198,6 +215,27 @@ places-view-sort-col-date-added =
     .label = Санаи иловакунӣ
 places-view-sort-col-last-modified =
     .label = Тағйири охирин
+places-view-sortby-name =
+    .label = Мураттаб кардан аз рӯи ном
+    .accesskey = N
+places-view-sortby-url =
+    .label = Мураттаб кардан аз рӯи ҷойгиршавӣ
+    .accesskey = L
+places-view-sortby-date =
+    .label = Мураттаб кардан аз рӯи боздидҳои охирин
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Мураттаб кардан аз рӯи шумораи боздидҳо
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Мураттаб кардан аз рӯи санаи иловакунӣ
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Мураттаб кардан аз рӯи санаи тағйири охирин
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Мураттаб кардан аз рӯи барчаспҳо
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -205,3 +243,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Ба пеш
 places-details-pane-select-an-item-description = Ҷузъеро барои дидан ва таҳрир кардани хусусиятҳои он интихоб намоед
+places-details-pane-no-items =
+    .value = Ягон мавод нест
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Як адад
+           *[other] { $count } адад
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Ҷустуҷӯ дар хатбаракҳо
+places-search-history =
+    .placeholder = Ҷустуҷӯ дар таърих
+places-search-downloads =
+    .placeholder = Ҷустуҷӯ дар боргириҳо
+
+##
+
+places-locked-prompt = Низоми хатбаракҳо ва таърих кор намекунад, зеро ки яке аз файлҳои { -brand-short-name } аз ҷониби барномаи дигар истифода мешавад. Баъзе нармафзорҳои амният метавонанд ин мушкилиро ба вуҷуд оранд.
