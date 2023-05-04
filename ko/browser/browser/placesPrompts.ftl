@@ -6,6 +6,7 @@ places-error-title = { -brand-short-name }
 places-no-title = (제목 없음)
 places-bookmarks-backup-title = 북마크 백업 파일 이름
 places-bookmarks-restore-alert-title = 북마크 복구
+places-bookmarks-restore-alert = 현재 북마크를 모두 백업으로 교체합니다. 계속하시겠습니까?
 places-bookmarks-restore-title = 북마크 백업 선택
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = 지원하지 않는 파일 형식.
