@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Atverti naujoje privačiojoje kortele
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (tuščias)
 places-add-bookmark =
     .label = Įtraukti adresą…
     .accesskey = r
@@ -118,9 +120,6 @@ places-forget-about-this-site-forget = Pamiršti
 places-library =
     .title = Archyvas
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Archyvas
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Archyvas
 places-organize-button =
@@ -203,3 +202,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Eiti pirmyn
 places-details-pane-select-an-item-description = Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti
+places-details-pane-no-items =
+    .value = Nėra objektų
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Ieškoti adresyne
+places-search-history =
+    .placeholder = Ieškoti žurnale
+
+##
+
