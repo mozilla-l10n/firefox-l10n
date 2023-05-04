@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (χωρίς τίτλο)
+places-bookmarks-backup-title = Όνομα αντιγράφου ασφαλείας σελιδοδεικτών
 places-bookmarks-restore-alert-title = Επαναφορά σελιδοδεικτών
 places-bookmarks-import = Εισαγωγή αρχείου σελιδοδεικτών
 places-bookmarks-export = Εξαγωγή αρχείου σελιδοδεικτών
