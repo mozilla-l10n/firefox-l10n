@@ -121,6 +121,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Fa aetɛm, hwɛ na sesa ne ho nsɛm
 places-details-pane-no-items =
     .value = Neɛma biara nni hɔ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Ade baako
+           *[other] { $count } ndeɛma
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -129,6 +137,8 @@ places-search-bookmarks =
     .placeholder = Hwehwɛ Mbukmaak
 places-search-history =
     .placeholder = Hwehwɛ Abakɔsɛm
+places-search-downloads =
+    .placeholder = Hwehwɛ Ntwe
 
 ##
 
