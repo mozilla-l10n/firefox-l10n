@@ -10,5 +10,6 @@ places-bookmarks-restore-alert = To narowna wšykne z wašych cytańskich znamje
 places-bookmarks-restore-title = Zawěsćenje cytańskich znamjenjow wubraś
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Njepódpěrany datajowy typ.
+places-bookmarks-restore-parse-error = Njejo móžno, zawěsćeńsku dataju pśeźěłaś.
 places-bookmarks-import = Dataju cytańskich znamjenjow importěrowaś
 places-bookmarks-export = Dataju cytańskich znamjenjow eksportěrowaś
