@@ -250,3 +250,4 @@ places-search-history =
 
 ##
 
+places-locked-prompt = Anagraw n tecraḍ n isebtar d umazray ur itteddu ara acku yiwen seg ifuyla n { -brand-short-name } iseqdac-it yakan yiwen n usnas. Kra n iseɣẓanen n tɣellist zemren ad sirwen ugur-a.
