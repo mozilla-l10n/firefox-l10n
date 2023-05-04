@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = ಎಲ್ಲಾ ಹಾಳೆಗಳಲ್ಲೂ ತೆರೆ
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (ಖಾಲಿ)
 places-view =
     .label = ನೋಟ
     .accesskey = w
@@ -41,9 +43,6 @@ places-sortby-name =
 places-library =
     .title = ಲೈಬ್ರರಿ
     .style = width:700px; height:500px;
-places-library2 =
-    .title = ಲೈಬ್ರರಿ
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = ಲೈಬ್ರರಿ
 places-organize-button =
@@ -126,3 +125,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = ಮುಂದಕ್ಕೆ ತೆರಳು
 places-details-pane-select-an-item-description = ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಅಂಶವನ್ನು ಆರಿಸಿ
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = ಬುಕ್‌ಮಾರ್ಕುಗಳಿಗಾಗಿ ಹುಡುಕು
+places-search-history =
+    .placeholder = ಇತಿಹಾಸವನ್ನು ಹುಡುಕು
+
+##
+
