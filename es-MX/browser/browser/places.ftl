@@ -85,6 +85,15 @@ places-delete-folder =
            *[other] Eliminar carpetas
         }
     .accesskey = E
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Eliminar página
+           *[other] Eliminar páginas
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores administrados
@@ -107,6 +116,15 @@ places-delete-bookmark =
            *[other] Eliminar marcadores
         }
     .accesskey = E
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Agregar página a marcadores…
+           *[other] Agregar páginas a marcadores…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Eliminar etiqueta
     .accesskey = E
