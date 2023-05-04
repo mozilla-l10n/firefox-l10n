@@ -116,6 +116,15 @@ places-delete-bookmark =
            *[other] Eliminar marcadores
         }
     .accesskey = d
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Añadir página a marcadores…
+           *[other] Añadir páginas a marcadores…
+        }
+    .accesskey = m
 places-untag-bookmark =
     .label = Eliminar etiqueta
     .accesskey = r
