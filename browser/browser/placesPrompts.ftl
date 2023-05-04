@@ -5,6 +5,8 @@
 places-error-title = { -brand-short-name }
 places-no-title = (ingen tittel)
 places-bookmarks-backup-title = Filnavn for sikkerhetskopi av bokmerker
+places-bookmarks-restore-alert-title = Tilbakestill bokmerker
+places-bookmarks-restore-alert = Dette vil erstatte alle bokmerker du har nå med sikkerhetskopien. Er du sikker på at du vil gjøre dette?
 places-bookmarks-restore-title = Velg en sikkerhetskopi
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Ustøttet filtype.
