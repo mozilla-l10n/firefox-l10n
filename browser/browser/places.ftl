@@ -206,12 +206,22 @@ places-forward-button =
 places-details-pane-select-an-item-description = Seleccioneu un element per visualitzar-ne i editar-ne les propietats
 places-details-pane-no-items =
     .value = Cap element
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un element
+           *[other] { $count } elements
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
 places-search-bookmarks =
     .placeholder = Cerca les adreces d'interès
+places-search-downloads =
+    .placeholder = Cerca les baixades
 
 ##
 
