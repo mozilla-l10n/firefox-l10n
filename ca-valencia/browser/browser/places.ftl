@@ -20,6 +20,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Obri en una finestra privada nova
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Buit)
 places-add-bookmark =
     .label = Afig una adreça d'interés…
     .accesskey = A
@@ -79,6 +81,15 @@ places-delete-folder =
            *[other] Suprimeix les carpetes
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Suprimeix la pàgina
+           *[other] Suprimeix les pàgines
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Adreces d'interés gestionades
@@ -111,9 +122,6 @@ places-forget-about-this-site-forget = Oblida
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteca
 places-organize-button =
@@ -189,6 +197,27 @@ places-view-sort-col-date-added =
     .label = Addició
 places-view-sort-col-last-modified =
     .label = Darrera modificació
+places-view-sortby-name =
+    .label = Ordena per nom
+    .accesskey = n
+places-view-sortby-url =
+    .label = Ordena per ubicació
+    .accesskey = u
+places-view-sortby-date =
+    .label = Ordena per darrera visita
+    .accesskey = v
+places-view-sortby-visit-count =
+    .label = Ordena per nombre de visites
+    .accesskey = b
+places-view-sortby-date-added =
+    .label = Ordena per data d'addició
+    .accesskey = a
+places-view-sortby-last-modified =
+    .label = Ordena per darrera modificació
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Ordena per etiquetes
+    .accesskey = t
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -196,3 +225,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Vés avant
 places-details-pane-select-an-item-description = Seleccioneu un element per visualitzar-ne i editar-ne les propietats
+places-details-pane-no-items =
+    .value = Cap element
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Un element
+           *[other] { $count } elements
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Cerca les adreces d'interés
+places-search-history =
+    .placeholder = Cerca en l'historial
+places-search-downloads =
+    .placeholder = Cerca les baixades
+
+##
+
+places-locked-prompt = Les adreces d'interés i l'historial no seran funcionals perquè un dels fitxers del { -brand-short-name } l'utilitza una altra aplicació. Cert programari de seguretat podria estar provocant este problema.
