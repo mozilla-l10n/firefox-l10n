@@ -155,6 +155,27 @@ places-view-sort-col-date-added =
     .label = जोड़ा गया
 places-view-sort-col-last-modified =
     .label = अंतिम रूपांतरित
+places-view-sortby-name =
+    .label = नाम के अनुसार छाँटें
+    .accesskey = N
+places-view-sortby-url =
+    .label = स्थान के अनुसार छाँटें
+    .accesskey = L
+places-view-sortby-date =
+    .label = सबसे हाल का विजिट के अनुसार छाँटें
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = विजिट गिनती के अनुसार छाँटें
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = जोड़े गए के अनुसार छाँटें
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = अंतिम रूपांतरण के अनुसार छाँटें
+    .accesskey = M
+places-view-sortby-tags =
+    .label = टैग के अनुसार छाँटें
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -178,6 +199,8 @@ places-details-pane-items-count =
 
 places-search-history =
     .placeholder = इतिहास खोजें
+places-search-downloads =
+    .placeholder = डाउनलोड खोजें
 
 ##
 

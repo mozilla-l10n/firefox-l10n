@@ -4,3 +4,6 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (कोई शीर्षक नहीं)
+places-bookmarks-restore-filter-name = JSON
+places-bookmarks-restore-format-error = असमर्थित फ़ाइल प्रकार.
+places-bookmarks-restore-parse-error = बैकअप फ़ाइल की प्रक्रिया में असमर्थ.
