@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Open All in Tabs
     .accesskey = O
+places-empty-bookmarks-folder =
+    .label = (སྟོང་བ)
 places-view =
     .label = View
     .accesskey = w
@@ -38,12 +40,18 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sort By Name
     .accesskey = r
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] དྲ་ངོས་བསུབ་པ
+           *[other] དྲ་ངོས་བསུབ་པ
+        }
+    .accesskey = D
 places-library =
     .title = གསོག་མཛོད
     .style = width:700px; height:500px;
-places-library2 =
-    .title = གསོག་མཛོད
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = གསོག་མཛོད
 places-organize-button =
@@ -119,6 +127,27 @@ places-view-sort-col-date-added =
     .label = Added
 places-view-sort-col-last-modified =
     .label = Last Modified
+places-view-sortby-name =
+    .label = མིང་ལ་བསྟུན་ནས་སྒྲིག
+    .accesskey = N
+places-view-sortby-url =
+    .label = གནས་ཡུལ་ལ་སྒྲིག
+    .accesskey = L
+places-view-sortby-date =
+    .label = Sort by Most Recent Visit
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Sort by Visit Count
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Sort by Added
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Sort by Last Modified
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Sort by Tags
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -126,3 +155,19 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Go forward
 places-details-pane-select-an-item-description = Select an item to view and edit its properties
+places-details-pane-no-items =
+    .value = No items
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Search Bookmarks
+places-search-history =
+    .placeholder = Search History
+places-search-downloads =
+    .placeholder = Search Downloads
+
+##
+
+places-locked-prompt = The bookmarks and history system will not be functional because one of { -brand-short-name }’s files is in use by another application. Some security software can cause this problem.
