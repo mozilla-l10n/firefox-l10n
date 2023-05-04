@@ -214,6 +214,16 @@ places-forward-button =
 places-details-pane-select-an-item-description = Tagh rud gus fheartan fhaicinn agus an deasachadh
 places-details-pane-no-items =
     .value = Chan eil càil
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Aon nì
+            [two] { $count } nì
+            [few] { $count } nithean
+           *[other] { $count } nì
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -222,6 +232,8 @@ places-search-bookmarks =
     .placeholder = Lorg sna comharran-lìn
 places-search-history =
     .placeholder = Eachdraidh nan lorg
+places-search-downloads =
+    .placeholder = Lorg sna chaidh a luchdadh a-nuas
 
 ##
 
