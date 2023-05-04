@@ -114,6 +114,27 @@ places-view-sort-col-date-added =
     .label = Okongeziweyo
 places-view-sort-col-last-modified =
     .label = Ihlengahlengiswe Okokugqibela
+places-view-sortby-name =
+    .label = Hlela ngokwegama
+    .accesskey = g
+places-view-sortby-url =
+    .label = Hlela ngokwendawo
+    .accesskey = n
+places-view-sortby-date =
+    .label = Hlela ngokolona tyelelo lwakutshanje
+    .accesskey = t
+places-view-sortby-visit-count =
+    .label = Hlela ngokobalo lotyelelo
+    .accesskey = b
+places-view-sortby-date-added =
+    .label = Hlela ngokongeziweyo
+    .accesskey = w
+places-view-sortby-last-modified =
+    .label = Hlela ngokwelungiswe mva
+    .accesskey = l
+places-view-sortby-tags =
+    .label = Hlela ngokweethegi
+    .accesskey = t
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -135,8 +156,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Khangela iibhukhmakhi
+places-search-history =
+    .placeholder = Khangela imbali
 places-search-downloads =
     .placeholder = Khangela ngokuKhutshelwayo
 
 ##
 
+places-locked-prompt = Izalathisi eziphawulayo kunye nesistim yembali aziyi kusebenza ngenxa yokuba enye yeefayile ze-{ -brand-short-name } isetyenziswa yenye iaplikheshini. Enye isoftwe yokhuseleko ingayibangela le ngxaki.
