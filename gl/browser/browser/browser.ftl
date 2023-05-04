@@ -315,7 +315,7 @@ identity-description-passive-loaded-mixed2 = Aínda que { -brand-short-name } bl
 identity-description-active-loaded = Este sitio web contén contido que non é seguro (como os scripts) e a súa conexión non é privada.
 identity-description-active-loaded-insecure = A información que comparte con este sitio podería ser visíbel por outros (como contrasinais, mensaxes, tarxetas de crédito, etc.).
 identity-learn-more =
-    .value = Obteña máis información
+    .value = Máis información
 identity-disable-mixed-content-blocking =
     .label = Desactivar a protección por agora
     .accesskey = D
@@ -533,7 +533,7 @@ urlbar-result-action-search-tabs = Buscar nas lapelas
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =

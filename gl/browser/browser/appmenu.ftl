@@ -135,7 +135,7 @@ profiler-popup-description-title =
     .value = Grava, analiza, comparte
 profiler-popup-description = Colabore coas incidencias de rendemento publicando perfís para compartir co teu equipo.
 profiler-popup-learn-more-button =
-    .label = Saber máis
+    .label = Máis información
 profiler-popup-settings =
     .value = Configuración
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
@@ -165,6 +165,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Predefinido recomendado para a maioría da depuración de aplicacións web, con sobrecarga baixa.
