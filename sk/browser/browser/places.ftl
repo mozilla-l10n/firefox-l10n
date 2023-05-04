@@ -86,6 +86,15 @@ places-delete-folder =
            *[other] Odstrániť priečinky
         }
     .accesskey = d
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Odstrániť stránku
+           *[other] Odstrániť stránky
+        }
+    .accesskey = d
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Záložky spravované správcom
@@ -204,6 +213,9 @@ places-view-sort-col-last-modified =
 places-view-sortby-name =
     .label = Usporiadať podľa názvu
     .accesskey = n
+places-view-sortby-url =
+    .label = Usporiadať podľa stránky
+    .accesskey = s
 places-view-sortby-date =
     .label = Usporiadať podľa času poslednej návštevy
     .accesskey = d
@@ -245,6 +257,8 @@ places-search-bookmarks =
     .placeholder = Hľadať v záložkách
 places-search-history =
     .placeholder = Hľadať v histórii
+places-search-downloads =
+    .placeholder = Hľadať v stiahnutých súboroch
 
 ##
 
