@@ -84,6 +84,15 @@ places-delete-folder =
            *[other] Xóa thư mục
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Xóa trang
+           *[other] Xóa trang
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Dấu trang được quản lý
@@ -105,6 +114,15 @@ places-delete-bookmark =
            *[other] Xóa dấu trang
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Đánh dấu trang…
+           *[other] Đánh dấu các trang…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Xóa thẻ
     .accesskey = R
@@ -197,6 +215,27 @@ places-view-sort-col-date-added =
     .label = Ngày thêm
 places-view-sort-col-last-modified =
     .label = Sửa đổi lần cuối
+places-view-sortby-name =
+    .label = Sắp xếp theo tên
+    .accesskey = t
+places-view-sortby-url =
+    .label = Sắp xếp theo địa chỉ
+    .accesskey = c
+places-view-sortby-date =
+    .label = Sắp xếp theo lần xem gần đây
+    .accesskey = g
+places-view-sortby-visit-count =
+    .label = Sắp xếp theo số lần xem
+    .accesskey = s
+places-view-sortby-date-added =
+    .label = Sắp xếp theo thời điểm thêm vào
+    .accesskey = t
+places-view-sortby-last-modified =
+    .label = Sắp xếp theo sửa đổi lần cuối
+    .accesskey = c
+places-view-sortby-tags =
+    .label = Sắp xếp theo nhãn
+    .accesskey = n
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -214,6 +253,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Tìm kiếm dấu trang
+places-search-history =
+    .placeholder = Tìm kiếm lịch sử
+places-search-downloads =
+    .placeholder = Tìm kiếm dữ liệu đã tải xuống
 
 ##
 
+places-locked-prompt = Hệ thống các dấu trang và lịch sử sẽ không hoạt động vì một tập tin của { -brand-short-name } đang bị một ứng dụng khác sử dụng. Một phần mềm bảo mật nào đó cũng có thể gây ra vấn đề này.
