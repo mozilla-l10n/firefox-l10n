@@ -209,6 +209,27 @@ places-view-sort-col-date-added =
     .label = Ychwanegwyd
 places-view-sort-col-last-modified =
     .label = Newidiwyd Diwethaf
+places-view-sortby-name =
+    .label = Trefnu yn ôl Enw
+    .accesskey = E
+places-view-sortby-url =
+    .label = Trefnu yn ôl Lleoliad
+    .accesskey = L
+places-view-sortby-date =
+    .label = Trefnu yn ôl yr Ymweliad Diweddaraf
+    .accesskey = Y
+places-view-sortby-visit-count =
+    .label = Trefnu yn ôl Cyfrif Ymweliadau
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Trefnu yn ôl Ychwanegwyd
+    .accesskey = Y
+places-view-sortby-last-modified =
+    .label = Trefnu yn ôl Newid Diwethaf
+    .accesskey = N
+places-view-sortby-tags =
+    .label = Trefnu yn ôl Tagiau
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -231,3 +252,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Ni fydd y system nodau tudalen a hanes yn weithredol gan fod un o ffeiliau { -brand-short-name } yn cael ei defnyddio gan raglen arall. Mae rhai meddalwedd diogelwch yn gallu achosi'r broblem yma.
