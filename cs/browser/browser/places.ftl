@@ -210,10 +210,21 @@ places-forward-button =
 places-details-pane-select-an-item-description = Pro zobrazení a úpravu vlastností vyberte některou z položek
 places-details-pane-no-items =
     .value = Bez položek
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Jedna položka
+            [few] { $count } položky
+           *[other] { $count } položek
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Hledat v záložkách
 places-search-history =
     .placeholder = Hledat v historii
 

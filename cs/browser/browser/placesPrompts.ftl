@@ -5,6 +5,7 @@
 places-error-title = { -brand-short-name }
 places-no-title = (bez titulku)
 places-bookmarks-backup-title = Soubor zálohy záložek
+places-bookmarks-restore-alert-title = Obnova záložek
 places-bookmarks-restore-alert = Při obnově budou vaše současné záložky nahrazeny zálohou. Chcete pokračovat?
 places-bookmarks-restore-title = Volba zálohy záložek
 places-bookmarks-restore-filter-name = JSON
