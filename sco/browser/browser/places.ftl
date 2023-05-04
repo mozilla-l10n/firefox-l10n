@@ -197,6 +197,9 @@ places-view-sort-col-last-modified =
 places-view-sortby-name =
     .label = Sort by Nemme
     .accesskey = N
+places-view-sortby-url =
+    .label = Sort by Airtin
+    .accesskey = A
 places-view-sortby-date =
     .label = Sort by Maist Recent Visit
     .accesskey = V
@@ -206,6 +209,9 @@ places-view-sortby-visit-count =
 places-view-sortby-date-added =
     .label = Sort by Eikit-on
     .accesskey = e
+places-view-sortby-last-modified =
+    .label = Sort by Last Chynged
+    .accesskey = C
 places-view-sortby-tags =
     .label = Sort by Tags
     .accesskey = T
@@ -230,8 +236,13 @@ places-details-pane-items-count =
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = Sairch Buikmerks
+places-search-history =
+    .placeholder = Airt-Oot Historie
 places-search-downloads =
     .placeholder = Airt-oot in Doonloads
 
 ##
 
+places-locked-prompt = The buikmerks and historie system willnae be functional acause ane o { -brand-short-name }’s files is in yaise by anither application. Some siccarness saftware can cause this problem.
