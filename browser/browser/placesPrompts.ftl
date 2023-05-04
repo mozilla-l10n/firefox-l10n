@@ -7,6 +7,7 @@ places-no-title = (brez naslova)
 places-bookmarks-backup-title = Ime datoteke z varnostno kopijo zaznamkov
 places-bookmarks-restore-alert-title = Povrni zaznamke
 places-bookmarks-restore-alert = Ta korak bo vse vaše trenutne zaznamke zamenjal z varnostno kopijo. Ali ste prepričani?
+places-bookmarks-restore-title = Izberite varnostno kopijo zaznamkov
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Vrsta datoteke ni podprta.
 places-bookmarks-restore-parse-error = Varnostne kopije ni mogoče obdelati.
