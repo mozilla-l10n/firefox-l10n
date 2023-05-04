@@ -214,6 +214,9 @@ places-search-bookmarks =
     .placeholder = Lesezeichen durchsuchen
 places-search-history =
     .placeholder = Chronik durchsuchen
+places-search-downloads =
+    .placeholder = Downloads durchsuchen
 
 ##
 
+places-locked-prompt = Das Lesezeichen- und Chronik-System wird nicht funktionieren, da eine der Dateien von { -brand-short-name } von einer anderen Anwendung verwendet wird. Dieses Problem könnte von einer Sicherheitssoftware verursacht werden, beispielsweise von einem Virenscanner.
