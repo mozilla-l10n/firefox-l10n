@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Отвори у новом приватном прозору
     .accesskey = в
+places-empty-bookmarks-folder =
+    .label = (празно)
 places-add-bookmark =
     .label = Додај обележивач…
     .accesskey = б
@@ -124,9 +126,6 @@ places-forget-about-this-site-forget = Заборави
 places-library =
     .title = Библиотека
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Библиотека
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Библиотека
 places-organize-button =
@@ -209,3 +208,12 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Напред
 places-details-pane-select-an-item-description = Изаберите ставку да бисте прегледали и уредили њена својства
+places-details-pane-no-items =
+    .value = Нема ставки
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+
+##
+
