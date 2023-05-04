@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Otevřít v novém anonymním okně
     .accesskey = t
+places-empty-bookmarks-folder =
+    .label = (prázdný)
 places-add-bookmark =
     .label = Nová záložka
     .accesskey = z
@@ -206,3 +208,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Přejde vpřed
 places-details-pane-select-an-item-description = Pro zobrazení a úpravu vlastností vyberte některou z položek
+places-details-pane-no-items =
+    .value = Bez položek
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-history =
+    .placeholder = Hledat v historii
+
+##
+
