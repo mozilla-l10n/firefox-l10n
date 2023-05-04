@@ -20,6 +20,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Open in New Private Windae
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (Tuim)
 places-add-bookmark =
     .label = Eik On Buikmerk...
     .accesskey = B
@@ -79,6 +81,15 @@ places-delete-folder =
            *[other] Dicht Folders
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Dicht Page
+           *[other] Dicht Pages
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Managed buikmerks
@@ -108,9 +119,6 @@ places-forget-about-this-site-forget = Forget
 places-library =
     .title = Leebrar
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Leebrar
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Leebrar
 places-organize-button =
@@ -186,6 +194,21 @@ places-view-sort-col-date-added =
     .label = Eikit on
 places-view-sort-col-last-modified =
     .label = Last Chynged
+places-view-sortby-name =
+    .label = Sort by Nemme
+    .accesskey = N
+places-view-sortby-date =
+    .label = Sort by Maist Recent Visit
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Sort by Visit Coont
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Sort by Eikit-on
+    .accesskey = e
+places-view-sortby-tags =
+    .label = Sort by Tags
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -193,3 +216,22 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Gang forrit
 places-details-pane-select-an-item-description = Wale an item fur tae view and edit its properties
+places-details-pane-no-items =
+    .value = Nae items
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Ane item
+           *[other] { $count } items
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-downloads =
+    .placeholder = Airt-oot in Doonloads
+
+##
+
