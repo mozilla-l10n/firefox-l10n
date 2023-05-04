@@ -8,6 +8,8 @@ places-open =
 places-open-all-in-tabs =
     .label = Ubbi lépp ci ay koñ
     .accesskey = l
+places-empty-bookmarks-folder =
+    .label = (Weyëŋ)
 places-view =
     .label = Tànn
     .accesskey = T
@@ -35,9 +37,6 @@ places-sortby-name =
 places-library =
     .title = Kaggu
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Kaggu
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Kaggu
 places-organize-button =
@@ -118,3 +117,17 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Dem kanam
 places-details-pane-select-an-item-description = Fal benn mbir ngir wone ak soppali jikko yi
+places-details-pane-no-items =
+    .value = Amul dara
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Wut ci biir mandarga xët yi
+places-search-history =
+    .placeholder = Wut ci biir jaar jaar bi
+
+##
+
+places-locked-prompt = Doxalinu mandarga xët yi ak jaar jaar du mëna ne ndax beneen tëralin a ngiy jëfandikoo benn ci dencukaayi { -brand-short-name }. Yenn xeltéefi kaarange mën nañu indi lu ni mel.
