@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] Διαγραφή σελιδοδεικτών
         }
     .accesskey = Δ
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Προσθήκη σελιδοδείκτη…
+           *[other] Προσθήκη σελιδοδεικτών…
+        }
+    .accesskey = Π
 places-untag-bookmark =
     .label = Αφαίρεση ετικέτας
     .accesskey = Α
@@ -209,6 +218,9 @@ places-view-sort-col-last-modified =
 places-view-sortby-name =
     .label = Ταξινόμηση κατά όνομα
     .accesskey = ν
+places-view-sortby-url =
+    .label = Ταξινόμηση κατά διεύθυνση
+    .accesskey = θ
 places-view-sortby-date =
     .label = Ταξινόμηση κατά ημερομηνία επίσκεψης
     .accesskey = ψ
@@ -221,6 +233,9 @@ places-view-sortby-date-added =
 places-view-sortby-last-modified =
     .label = Ταξινόμηση κατά τελευταία τροποποίηση
     .accesskey = λ
+places-view-sortby-tags =
+    .label = Ταξινόμηση κατά ετικέτες
+    .accesskey = τ
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -228,6 +243,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Μετάβαση μπροστά
 places-details-pane-select-an-item-description = Επιλέξτε ένα στοιχείο για να δείτε και να επεξεργαστείτε τις ιδιότητές του
+places-details-pane-no-items =
+    .value = Κανένα στοιχείο
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Ένα στοιχείο
+           *[other] { $count } στοιχεία
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -241,3 +266,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = Το σύστημα σελιδοδεικτών και ιστορικού δεν θα λειτουργεί επειδή ένα από τα αρχεία του { -brand-short-name } χρησιμοποιείται από μια άλλη εφαρμογή. Αυτό το πρόβλημα μπορεί να οφείλεται σε κάποιο λογισμικό ασφάλειας.
