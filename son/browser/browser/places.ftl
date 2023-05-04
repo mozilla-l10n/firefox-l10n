@@ -121,6 +121,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Hayiize suuba k'a guna nda ka nga mayrawey fasal.
 places-details-pane-no-items =
     .value = Hayiize kul ši
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Haya-ize foo
+           *[other] haya-ize { $count }
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -129,6 +137,8 @@ places-search-bookmarks =
     .placeholder = Doo-šilbawey ceeci
 places-search-history =
     .placeholder = Taariki ceeci
+places-search-downloads =
+    .placeholder = Zumandey ceeci
 
 ##
 
