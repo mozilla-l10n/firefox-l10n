@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = যোগ হওয়ার তারিখ
 places-view-sort-col-last-modified =
     .label = সর্বশেষ পরিবর্তনের সময়
+places-view-sortby-name =
+    .label = নাম অনুযায়ী ক্রমবিন্যাস করা হবে
+    .accesskey = N
+places-view-sortby-url =
+    .label = অবস্থান অনুযায়ী  ক্রমবিন্যাস করা হবে
+    .accesskey = L
+places-view-sortby-date =
+    .label = সাম্প্রতিক ভিজিট দ্বারা বাছাই করুন
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = পরিদর্শনের সংখ্যা অনুযায়ী ক্রমবিন্যাস করা হবে
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = যোগ করার তারিখ অনুযায়ী ক্রমবিন্যাস করা হবে
+    .accesskey = য
+places-view-sortby-last-modified =
+    .label = সর্বশেষ পরিবর্তনের সময় অনুযায়ী ক্রমবিন্যাস করা হবে
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ট্যাগ অনুযায়ী ক্রমবিন্যাস করা হবে
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -125,12 +146,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = পরবর্তী স্থানে এগিয়ে চলুন
 places-details-pane-select-an-item-description = কোনো বস্তু প্রদর্শন করার জন্য ও সেটির বৈশিষ্ট্য পরিবর্তের উদ্দেশ্যে নির্বাচন করুন
+places-details-pane-no-items =
+    .value = কিছু নেই
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] একটি বস্তু
+           *[other] { $count } বস্তু
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
+places-search-bookmarks =
+    .placeholder = বুকমার্ক অনুসন্ধান করুন
+places-search-history =
+    .placeholder = পূর্ববর্তী তথ্য অনুসন্ধান করুন
 places-search-downloads =
     .placeholder = ডাউনলোড অনুসন্ধান করুন
 
 ##
 
+places-locked-prompt = { -brand-short-name }-র একটি ফাইল অন্য অ্যাপ্লিকেশন দ্বারা বর্তমানে ব্যবহৃত হওয়ার ফলে বুকমার্ক ও পূর্ববর্তী তথ্যের ব্যবস্থাগুলি বর্তমানে সঞ্চালিত হবে না। নিরাপত্তা বিষয়ক কোনো সফ্টওয়্যারের ফলে এই সমস্যা দেখা দিতে পারে।
