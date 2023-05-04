@@ -197,6 +197,27 @@ places-view-sort-col-date-added =
     .label = Lisäyspäivä
 places-view-sort-col-last-modified =
     .label = Viimeisin muokkaus
+places-view-sortby-name =
+    .label = Nimi
+    .accesskey = N
+places-view-sortby-url =
+    .label = Osoite
+    .accesskey = O
+places-view-sortby-date =
+    .label = Vierailupäivä
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = Vierailukerrat
+    .accesskey = i
+places-view-sortby-date-added =
+    .label = Lisäyspäivä
+    .accesskey = L
+places-view-sortby-last-modified =
+    .label = Muokkauspäivä
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Avainsanat
+    .accesskey = s
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -206,6 +227,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Valitse kohde, jonka ominaisuuksia muokataan tai näytetään
 places-details-pane-no-items =
     .value = Ei osumia
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Yksi osuma
+           *[other] { $count } osumaa
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -214,6 +243,9 @@ places-search-bookmarks =
     .placeholder = Etsi kirjanmerkeistä
 places-search-history =
     .placeholder = Etsi sivuhistoriasta
+places-search-downloads =
+    .placeholder = Etsi latauksista
 
 ##
 
+places-locked-prompt = Selaimen kirjanmerkki- ja sivuhistoriatoiminnot eivät ole käytössä, koska jokin { -brand-short-name }in tiedostoista on toisen ohjelman käytössä. Jotkin tietoturvallisuusohjelmat voivat aiheuttaa tämän ongelman.
