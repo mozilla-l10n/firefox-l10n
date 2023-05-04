@@ -226,6 +226,8 @@ places-search-bookmarks =
     .placeholder = Chwilio'r Nodau Tudalen
 places-search-history =
     .placeholder = Hanes Chwilio
+places-search-downloads =
+    .placeholder = Chwilio'r Llwytho i Lawr
 
 ##
 
