@@ -12,3 +12,4 @@ places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Nem támogatott fájltípus.
 places-bookmarks-restore-parse-error = Nem sikerült feldolgozni a mentésfájlt
 places-bookmarks-import = Könyvjelzőfájl importálása
+places-bookmarks-export = Könyvjelzőfájl exportálása
