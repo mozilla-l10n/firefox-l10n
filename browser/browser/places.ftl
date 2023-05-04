@@ -86,6 +86,15 @@ places-delete-folder =
            *[other] حذف پوشه‌ها
         }
     .accesskey = ح
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] حذف صفحه
+           *[other] حذف صفحات
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = نشانک‌های مدیریت شده
@@ -223,6 +232,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = یک مورد را برای مشاهده و ویرایش انتخاب کنید
 places-details-pane-no-items =
     .value = موردی وجود ندارد
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] یک مورد
+           *[other] { $count } مورد
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
