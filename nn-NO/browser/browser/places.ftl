@@ -206,6 +206,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Gå fram
 places-details-pane-select-an-item-description = Vel elementet du vil vise og redigere
+places-details-pane-no-items =
+    .value = Ingen element
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Eitt element
+           *[other] { $count } element
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -214,6 +224,8 @@ places-search-bookmarks =
     .placeholder = Søk i bokmerke
 places-search-history =
     .placeholder = Søk i historikk
+places-search-downloads =
+    .placeholder = Søk i nedlastingar
 
 ##
 
