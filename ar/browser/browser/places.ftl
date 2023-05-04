@@ -74,6 +74,15 @@ places-edit-generic =
 places-edit-folder2 =
     .label = حرّر المجلد…
     .accesskey = ح
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] احذف الصفحة
+           *[other] احذف الصفحات
+        }
+    .accesskey = ذ
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = العلامات المُدارة
