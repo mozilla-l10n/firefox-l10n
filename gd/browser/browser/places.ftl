@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Fosgail ann an uinneag phrìobhaideach ùr
     .accesskey = p
+places-empty-bookmarks-folder =
+    .label = (Falamh)
 places-add-bookmark =
     .label = Cuir comharra-lìn ris…
     .accesskey = c
@@ -210,3 +212,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Air adhart
 places-details-pane-select-an-item-description = Tagh rud gus fheartan fhaicinn agus an deasachadh
+places-details-pane-no-items =
+    .value = Chan eil càil
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Lorg sna comharran-lìn
+places-search-history =
+    .placeholder = Eachdraidh nan lorg
+
+##
+
