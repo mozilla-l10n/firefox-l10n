@@ -114,6 +114,15 @@ places-delete-bookmark =
            *[other] სანიშნების წაშლა
         }
     .accesskey = წ
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] გვერდის ჩანიშვნა…
+           *[other] გვერდების ჩანიშვნა…
+        }
+    .accesskey = ნ
 places-untag-bookmark =
     .label = ჭდის მოცილება
     .accesskey = ც
@@ -212,6 +221,9 @@ places-view-sortby-name =
 places-view-sortby-url =
     .label = მისამართით დალაგება
     .accesskey = მ
+places-view-sortby-date =
+    .label = ბოლოს მონახულებული
+    .accesskey = ბ
 places-view-sortby-visit-count =
     .label = ნახვების რაოდენობით დალაგება
     .accesskey = რ
