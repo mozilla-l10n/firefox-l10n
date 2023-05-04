@@ -83,6 +83,15 @@ places-delete-folder =
            *[other] Izbriši mape
         }
     .accesskey = I
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Izbriši stranicu
+           *[other] Izbriši stranice
+        }
+    .accesskey = O
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Upravljane zabilješke
@@ -106,6 +115,15 @@ places-delete-bookmark =
            *[other] Izbriši zabilješke
         }
     .accesskey = I
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Zabilježi stranicu …
+           *[other] Zabilježi stranice …
+        }
+    .accesskey = Z
 places-untag-bookmark =
     .label = Ukloni oznaku
     .accesskey = U
@@ -191,6 +209,27 @@ places-view-sort-col-date-added =
     .label = Dodano
 places-view-sort-col-last-modified =
     .label = Zadnje izmijenjeno
+places-view-sortby-name =
+    .label = Poredaj po imenu
+    .accesskey = i
+places-view-sortby-url =
+    .label = Poredaj po lokaciji
+    .accesskey = l
+places-view-sortby-date =
+    .label = Poredaj po posljednjim posjetima
+    .accesskey = j
+places-view-sortby-visit-count =
+    .label = Poredaj po broju posjeta
+    .accesskey = b
+places-view-sortby-date-added =
+    .label = Poredaj po datumu dodavanja
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Poredaj po zadnje uređenom
+    .accesskey = m
+places-view-sortby-tags =
+    .label = Poredaj po oznakama
+    .accesskey = n
 places-cmd-find-key =
     .key = f
 places-back-button =
