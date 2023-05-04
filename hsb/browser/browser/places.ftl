@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = W nowym priwatnym woknje wočinić
     .accesskey = r
+places-empty-bookmarks-folder =
+    .label = (Prózdny)
 places-add-bookmark =
     .label = Zapołožku přidać…
     .accesskey = Z
@@ -203,6 +205,27 @@ places-view-sort-col-date-added =
     .label = Přidaty
 places-view-sort-col-last-modified =
     .label = Poslednja změna
+places-view-sortby-name =
+    .label = Po mjenje sortěrować
+    .accesskey = m
+places-view-sortby-url =
+    .label = Po městnje sortěrować
+    .accesskey = s
+places-view-sortby-date =
+    .label = Po najnowšim wopyće sortěrować
+    .accesskey = n
+places-view-sortby-visit-count =
+    .label = Po wopytowym ličenju sortěrować
+    .accesskey = i
+places-view-sortby-date-added =
+    .label = Po přidatych sortěrować
+    .accesskey = o
+places-view-sortby-last-modified =
+    .label = Po datumje poslednjeje změny sortěrować
+    .accesskey = d
+places-view-sortby-tags =
+    .label = Po značkach sortěrować
+    .accesskey = z
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -210,3 +233,29 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Doprědka hić
 places-details-pane-select-an-item-description = Zapisk wubrać, zo bychu so jeho kajkosće wobhladali a wobdźěłali
+places-details-pane-no-items =
+    .value = Žane zapiski
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Jedyn zapisk
+            [two] { $count } zapiskaj
+            [few] { $count } zapiski
+           *[other] { $count } zapiskow
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Zapołožki přepytać
+places-search-history =
+    .placeholder = Historiju přepytać
+places-search-downloads =
+    .placeholder = Sćehnjenja přepytać
+
+##
+
+places-locked-prompt = System zapołožkow a historije njebudźe fungować, dokelž so jedna z datajow { -brand-short-name } přez druhe nałoženje wužiwa. Někajka wěstotna softwara móže tutón problem zawinować.
