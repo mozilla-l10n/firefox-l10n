@@ -118,6 +118,27 @@ places-view-sort-col-date-added =
     .label = Əlavə etmə tarixi
 places-view-sort-col-last-modified =
     .label = Son dəyişiklik
+places-view-sortby-name =
+    .label = Ada görə sırala
+    .accesskey = A
+places-view-sortby-url =
+    .label = Məkana görə sırala
+    .accesskey = M
+places-view-sortby-date =
+    .label = Ən son ziyarətə görə sırala
+    .accesskey = s
+places-view-sortby-visit-count =
+    .label = Ziyarət sayısına görə sırala
+    .accesskey = s
+places-view-sortby-date-added =
+    .label = Əlavə edilməyə görə sırala
+    .accesskey = l
+places-view-sortby-last-modified =
+    .label = Son düzəlişə görə sırala
+    .accesskey = d
+places-view-sortby-tags =
+    .label = Nişanlara görə sırala
+    .accesskey = N
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -127,12 +148,23 @@ places-forward-button =
 places-details-pane-select-an-item-description = Xüsusiyyətlərini görmək və dəyişmək üçün bir obyekt seçin
 places-details-pane-no-items =
     .value = Obyekt yoxdur
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Bir element
+           *[other] { $count } element
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
 places-search-bookmarks =
     .placeholder = Əlfəcinlərdə Axtar
+places-search-history =
+    .placeholder = Tarixçədə Axtar
 
 ##
 
+places-locked-prompt = { -brand-short-name } proqramına aid fayllardan biri başqa bir proqram tərəfindən istifadə olunduğu üçün, əlfəcin və səyahət keçmişi sistemi işləməyəcək. Bəzi təhlükəsizlik proqramları buna səbəb ola bilər.
