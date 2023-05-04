@@ -5,4 +5,5 @@
 places-error-title = { -brand-short-name }
 places-no-title = (کوئی عنوان نہیں)
 places-bookmarks-restore-filter-name = JSON
+places-bookmarks-restore-format-error = غیر معاون مسل قسم۔
 places-bookmarks-restore-parse-error = پشتارہ مسل پر عمل کاری کرنے میں ناکام۔
