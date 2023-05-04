@@ -139,6 +139,8 @@ places-search-bookmarks =
     .placeholder = ଚିହ୍ନିତ ସ୍ଥାନ ଖୋଜନ୍ତୁ
 places-search-history =
     .placeholder = ଇତିହାସ ଖୋଜନ୍ତୁ
+places-search-downloads =
+    .placeholder = ଆହରଣଗୁଡ଼ିକୁ ସନ୍ଧାନ କରନ୍ତୁ
 
 ##
 
