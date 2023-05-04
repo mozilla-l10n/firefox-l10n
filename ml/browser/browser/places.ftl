@@ -125,6 +125,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = മുമ്പോട്ടു് പോകുക
 places-details-pane-select-an-item-description = ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക
+places-details-pane-no-items =
+    .value = വസ്തുക്കള്‍ ലഭ്യമല്ല
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ഒരു വസ്തു
+           *[other] { $count } വസ്തു
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -133,6 +143,8 @@ places-search-bookmarks =
     .placeholder = അടയാളക്കുറിപ്പുകള്‍ തെരയുക
 places-search-history =
     .placeholder = ചരിത്രം തെരയുക
+places-search-downloads =
+    .placeholder = ഡൌണ്‍ലോഡുകള്‍ തെരയുക
 
 ##
 
