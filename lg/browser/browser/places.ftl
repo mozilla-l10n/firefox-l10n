@@ -119,6 +119,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = Londayo ekintu nga bw'okirongoosamu
 places-details-pane-no-items =
     .value = Tewali bintu
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Ekintu kimu
+           *[other] { $count } ebintu
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
@@ -127,6 +135,8 @@ places-search-bookmarks =
     .placeholder = Noonya Obulambe
 places-search-history =
     .placeholder = Noonya Ebyaffayo
+places-search-downloads =
+    .placeholder = Noonya Ebiwanuddwa
 
 ##
 
