@@ -214,6 +214,8 @@ places-search-bookmarks =
     .placeholder = ਬੁੱਕਮਾਰਕਾਂ ਵਿੱਚ ਖੋਜ
 places-search-history =
     .placeholder = ਖੋਜ ਅਤੀਤ
+places-search-downloads =
+    .placeholder = ਡਾਊਨਲੋਡ ਖੋਜ
 
 ##
 
