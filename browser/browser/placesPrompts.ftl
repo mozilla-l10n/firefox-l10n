@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (başlık yok)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Güvenlik nedeniyle “javascript:” veya “data:” URL’leri geçmiş penceresinden veya kenar çubuğundan açılamaz.
 places-bookmarks-backup-title = Yer imi yedeğinin dosya adı
 places-bookmarks-restore-alert-title = Eski yer imlerini getir
 places-bookmarks-restore-alert = Bu işlem tüm mevcut yer imlerinizi yedektekilerle değiştirecektir. Emin misiniz?
