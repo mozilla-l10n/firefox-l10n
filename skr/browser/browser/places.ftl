@@ -23,6 +23,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = نویں نجی ونڈو وِچ کھولو
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (خالی)
 places-add-bookmark =
     .label = نشانی شامل کرو …
     .accesskey = B
@@ -82,6 +84,15 @@ places-delete-folder =
            *[other] فولڈرز مٹاؤ
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] ورقہ مٹاؤ
+           *[other] ورقے مٹاؤ
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = نشانیاں منظم کرو
@@ -103,6 +114,15 @@ places-delete-bookmark =
            *[other] نشانیاں مٹاؤ
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] ورقہ نشانی لاؤ …
+           *[other] ورقے نشانی لاؤ …
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = ٹیگ ہٹاؤ
     .accesskey = R
@@ -120,9 +140,6 @@ places-forget-about-this-site-forget = بھل ونڄو
 places-library =
     .title = لائبریری
     .style = width:700px; height:500px;
-places-library2 =
-    .title = لائبریری
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = لائبریری
 places-organize-button =
@@ -198,6 +215,27 @@ places-view-sort-col-date-added =
     .label = اضافہ شدہ
 places-view-sort-col-last-modified =
     .label = چھیکڑی واری تبدیل تھیا
+places-view-sortby-name =
+    .label = بمطابق ناں چھانٹی کرو
+    .accesskey = N
+places-view-sortby-url =
+    .label = بمطابق ناں چھانٹی کرو
+    .accesskey = L
+places-view-sortby-date =
+    .label = بمطابق اصلوں حالیہ دورہ چھانٹی کرو
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = بمطابق ملاحظہ شماری چھانٹی کرو
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = بمطابق ودھارا چھانٹی کرو
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = بمطابق چھیکڑی ترمیم چھانٹی کرو
+    .accesskey = M
+places-view-sortby-tags =
+    .label = بمطابق ٹیگ چھانٹی کرو
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -205,3 +243,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = اڳو تے ودھو
 places-details-pane-select-an-item-description = ہک آئٹم کوں ایندی خصوصیات کوں ݙیکھݨ تے ایندے وِچ ترمیم کرݨ کیتے منتخب کرو۔
+places-details-pane-no-items =
+    .value = کوئی شئے نہ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ہک شے
+           *[other] { $count } شئیں
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = نشانیاں ڳولو
+places-search-history =
+    .placeholder = تاریخ ڳولو
+places-search-downloads =
+    .placeholder = ڈاؤن لوڈز ڳولو
+
+##
+
+places-locked-prompt = نشانیاں تے تاریخ سسٹم فعال کائنا تھیسن کیوں جو { -brand-short-name } دیاں فائلاں وِچو ہک ٻئی ایپلیکیشن دے زیر استعمال ہے۔ کجھ سیکیورٹی سافٹ ویئر ایں مسئلے دا سبب بݨ سڳدے ہن۔
