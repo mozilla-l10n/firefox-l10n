@@ -159,6 +159,18 @@ places-view-sort-col-date-added =
     .label = Idinagdag
 places-view-sort-col-last-modified =
     .label = Huling Binago
+places-view-sortby-visit-count =
+    .label = Isalansan ayon sa Bilang ng Pagbisita
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = Isalansan ayon sa Araw ng Pag-dagdag
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = Isalansan ayon sa Araw na may Huling Iniba
+    .accesskey = M
+places-view-sortby-tags =
+    .label = Isalansan ayon sa mga Tag
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -166,12 +178,26 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Sulong
 places-details-pane-select-an-item-description = Pumili ng item na titingnan at i-edit ang mga properties nito
+places-details-pane-no-items =
+    .value = Walang mga item
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Isang item
+           *[other] { $count } na mga item
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
 places-search-bookmarks =
     .placeholder = Hanapin sa mga Bookmark
+places-search-history =
+    .placeholder = Hanapin sa Kasaysayan
+places-search-downloads =
+    .placeholder = Hanapin sa mga Download
 
 ##
 
