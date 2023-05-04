@@ -121,6 +121,27 @@ places-view-sort-col-date-added =
     .label = যোগ হয়েছে
 places-view-sort-col-last-modified =
     .label = সর্বশেষ পরিবর্তন
+places-view-sortby-name =
+    .label = নাম অনুসারে সাজানো N
+    .accesskey = N
+places-view-sortby-url =
+    .label = অবস্থান অনুসারে সাজান L
+    .accesskey = L
+places-view-sortby-date =
+    .label = সাম্প্রতিক ভিজিট অনুসারে সাজান V
+    .accesskey = V
+places-view-sortby-visit-count =
+    .label = ভিজিট সংখ্যা অনুসারে সাজান C
+    .accesskey = C
+places-view-sortby-date-added =
+    .label = যোগের ক্রমানুসারে সাজানো e
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = সর্বশেষ পরিবর্তন অনুসারে সাজান M
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ট্যাগ অনুসারে সাজান T
+    .accesskey = T
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -151,3 +172,4 @@ places-search-downloads =
 
 ##
 
+places-locked-prompt = বুকমার্ক ও ইতিহাস সক্রিয় করা সম্ভব নয় কারণ { -brand-short-name } এর একটি ফাইল অন্য একটি অ্যাপ্লিকেশন ব্যবহার করছে। কিছু নিরাপত্তা সফটওয়্যার এই সমস্যার কারণ হতে পারে।
