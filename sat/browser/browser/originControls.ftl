@@ -8,14 +8,27 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱵᱟᱭ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ
+origin-controls-options =
+    .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭᱺ
 origin-controls-option-all-domains =
     .label = ᱡᱷᱚᱛᱚ ᱥᱟᱭᱤᱴ ᱠᱚᱨᱮ
 origin-controls-option-when-clicked =
     .label = ᱠᱷᱟᱹᱞᱤ ᱚᱛᱟ ᱞᱮᱱ ᱱᱟ ᱜᱮ
+# This string denotes an option that grants the extension access to
+# the current site whenever they visit it.
+# Variables:
+#   $domain (String) - The domain for which the access is granted.
+origin-controls-option-always-on =
+    .label = { $domain } ᱡᱟᱹᱣᱜᱮ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱪᱷᱚᱣᱟᱭ ᱮᱢ
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
+origin-controls-state-always-on = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱜᱷᱤᱲᱜᱮ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱜᱟᱱᱚᱜᱼᱟ
+origin-controls-state-when-clicked = ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱚᱠ ᱫᱚᱨᱠᱟᱨ
 origin-controls-state-hover-run-visit-only = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
 origin-controls-state-runnable-hover-open = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 origin-controls-state-runnable-hover-run = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ

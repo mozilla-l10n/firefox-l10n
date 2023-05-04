@@ -138,6 +138,9 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱟᱵᱚᱛ ᱛᱮ ᱦᱤᱲᱤᱧ ᱢᱮ
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱫᱚ { $hostOrBaseDomain } ᱥᱟᱶ ᱡᱚᱛᱚ ᱰᱟᱴᱟ ᱚᱪᱚᱜ ᱦᱚᱪᱚᱭᱟ ᱡᱮᱞᱮᱠᱟ ᱱᱟᱜᱟᱢ, ᱯᱟᱥᱣᱟᱨᱰ, ᱠᱩᱠᱤ, ᱠᱮᱪ ᱟᱨ ᱥᱟᱛᱟᱢ ᱠᱩᱥᱤᱠᱚ ᱾ ᱟᱢ ᱥᱟᱹᱨᱤᱜᱟᱹᱨᱤ ᱜᱮᱢ ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱫᱚ{ $hostOrBaseDomain } ᱥᱟᱶ ᱡᱚᱯᱚᱲᱟᱣ ᱟᱠᱟᱱ ᱰᱟᱴᱟ, ᱡᱟᱦᱟᱸ ᱨᱮ ᱱᱟᱜᱟᱢ, ᱠᱩᱠᱤ, ᱠᱟᱪ ᱟᱨ ᱥᱟᱛᱟᱢ ᱯᱚᱨᱤᱯᱷᱚᱨᱢᱮᱸᱴ ᱥᱮᱞᱮᱫ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱡᱚᱲᱟᱣ ᱟᱠᱟᱱ ᱵᱮᱠᱢᱟᱨᱠ ᱟᱨ ᱯᱟᱥᱣᱟᱨᱰ ᱠᱚ ᱫᱚ ᱵᱟᱝ ᱦᱮᱡ ᱦᱩᱭᱩᱜᱼᱟ ᱾ ᱟᱢ ᱥᱟᱹᱨᱤᱜᱟᱹᱨᱤ ᱜᱮᱢ ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ?
 places-forget-about-this-site-forget = ᱦᱤᱲᱤᱧ
 places-library =
