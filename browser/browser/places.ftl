@@ -20,6 +20,8 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Отваряне в поверителен прозорец
     .accesskey = п
+places-empty-bookmarks-folder =
+    .label = (Празно)
 places-add-bookmark =
     .label = Нова отметка…
     .accesskey = о
@@ -105,9 +107,6 @@ places-manage-bookmarks =
 places-library =
     .title = Библиотека
     .style = width:800px; height:500px;
-places-library2 =
-    .title = Библиотека
-    .style = min-width:800px; min-height:500px;
 places-library3 =
     .title = Библиотека
 places-organize-button =
@@ -183,6 +182,27 @@ places-view-sort-col-date-added =
     .label = Добавена на
 places-view-sort-col-last-modified =
     .label = Последна промяна
+places-view-sortby-name =
+    .label = Сортиране по име
+    .accesskey = и
+places-view-sortby-url =
+    .label = Сортиране по местоположение
+    .accesskey = м
+places-view-sortby-date =
+    .label = Сортиране по последно посещение
+    .accesskey = с
+places-view-sortby-visit-count =
+    .label = Сортиране по брой посещения
+    .accesskey = б
+places-view-sortby-date-added =
+    .label = Сортиране по добавено на
+    .accesskey = д
+places-view-sortby-last-modified =
+    .label = Сортиране по последна промяна
+    .accesskey = л
+places-view-sortby-tags =
+    .label = Сортиране по етикети
+    .accesskey = е
 places-cmd-find-key =
     .key = f
 places-back-button =
@@ -190,3 +210,27 @@ places-back-button =
 places-forward-button =
     .tooltiptext = Отиване напред
 places-details-pane-select-an-item-description = Изберете елемент, който да разгледате и редактирате
+places-details-pane-no-items =
+    .value = Няма елементи
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] Един елемент
+           *[other] { $count } елемента
+        }
+
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+places-search-bookmarks =
+    .placeholder = Търсене в отметките
+places-search-history =
+    .placeholder = Търсене в историята
+places-search-downloads =
+    .placeholder = Търсене в изтеглянията
+
+##
+
+places-locked-prompt = Отметки и История няма да работят, защото един от файловете на { -brand-short-name } е заключен от друго приложение. Някои от програмите за безопасност може да предизвикат такъв проблем.
