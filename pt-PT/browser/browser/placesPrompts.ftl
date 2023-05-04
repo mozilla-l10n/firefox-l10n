@@ -9,5 +9,6 @@ places-bookmarks-restore-alert-title = Reverter marcadores
 places-bookmarks-restore-alert = Esta operação substituirá todos os atuais marcadores pelos da cópia de segurança. Tem a certeza?
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Tipo de ficheiro não suportado.
+places-bookmarks-restore-parse-error = Não foi possível processar o ficheiro de cópia de segurança.
 places-bookmarks-import = Importar ficheiro de marcadores
 places-bookmarks-export = Exportar ficheiro de marcadores
