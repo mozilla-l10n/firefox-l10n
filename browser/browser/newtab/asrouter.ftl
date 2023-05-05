@@ -255,3 +255,16 @@ fox-doodle-pin-secondary = Nic nětko
 
 set-default-pdf-handler-headline = <strong>Waše PDF so nětko w { -brand-short-name } wočinjeja.</strong> Wobdźěłajće abo signujće formulary direktnje w swojim wobhladowaku. Zo byšće to změnił, pytajće za „PDF“ w swojich nastajenjach.
 set-default-pdf-handler-primary = Sym zrozumił
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Nowy grat we wašim přichodźe?
+fxa-sync-cfr-primary = Dalše informacije
+    .accesskey = D
+fxa-sync-cfr-secondary = Pozdźišo dopomnić
+    .accesskey = m
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = StaršI grat wužiwać?
+device-migration-fxa-spotlight-link = Pozdźišo dopomnić

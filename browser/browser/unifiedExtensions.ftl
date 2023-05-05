@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Rozšěrjenje wotstronić
 unified-extensions-context-menu-report-extension =
     .label = Rozšěrjenje zdźělić
+unified-extensions-context-menu-move-widget-up =
+    .label = Horje
+unified-extensions-context-menu-move-widget-down =
+    .label = Dele
