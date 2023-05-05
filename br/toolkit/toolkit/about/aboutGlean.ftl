@@ -72,3 +72,18 @@ about-glean-label-for-ping-names =
     Mod-all, an talvoud dre ziouer evit ar muzulioù <code>event</code> eo
     ar ping <code>events</code>,
     hag ar ping <code>metrics</code> eo an hini dre ziouer evit an holl muzulioù all.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Diret. Kroaziit ar voest kent ma fell deoc'h e vefe enrollet ho ping pa vezont kaset.
+    Rankout a reoc'h ivez <a data-l10n-name="enable-logging-link">gweredekaat ar renabliñ</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Pouezit war ar bouton kent evit merkañ holl ping { -glean-brand-name } gant ho tikedenn hag evit kinnig ar ping diuzet.
+    (An holl ping kinniget adalek ar poent-se, ha betek ma vo adloc'het an arload, a vo tikedennet gant 
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Gweladennit lec'hienn { glean-debug-ping-viewer-brand-name } evit gwelout ar ping gant ho tikedenn</a>.
+    Rankout a rafe ar ping erruout un nebeud eilennoù goude m'ho pefe pouezet war ar bouton.
+    A-wechoù e c'hall kemer un nebeud munutennoù.
