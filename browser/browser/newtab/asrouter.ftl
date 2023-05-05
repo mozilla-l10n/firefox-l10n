@@ -252,3 +252,16 @@ fox-doodle-pin-secondary = Не зараз
 
 set-default-pdf-handler-headline = <strong>Вашы PDF-файлы цяпер адкрываюцца ў { -brand-short-name }.</strong> Рэдагуйце або падпісвайце формы прама ў браўзеры. Каб змяніць, шукайце «PDF» у наладах.
 set-default-pdf-handler-primary = Зразумела
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Новая прылада ў вашай будучыні?
+fxa-sync-cfr-body = Пераканайцеся, што вашы апошнія закладкі, паролі і карткі будуць з вамі кожны раз, калі вы адкрываеце новы браўзер { -brand-product-name }.
+fxa-sync-cfr-primary = Падрабязней
+    .accesskey = д
+fxa-sync-cfr-secondary = Нагадаць пазней
+    .accesskey = а
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Карыстаецеся старой прыладай?
