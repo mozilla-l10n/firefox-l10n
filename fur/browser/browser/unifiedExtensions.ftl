@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Gjave estension
 unified-extensions-context-menu-report-extension =
     .label = Segnale estension
+unified-extensions-context-menu-move-widget-up =
+    .label = Sposte in sù
+unified-extensions-context-menu-move-widget-down =
+    .label = Sposte in jù
