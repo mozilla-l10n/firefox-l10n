@@ -34,3 +34,7 @@ mztabrow-open-in-private-window = Адкрыць у новым прыватны�
     .accesskey = п
 mztabrow-add-bookmark = Зрабіць закладку…
     .accesskey = і
+mztabrow-save-to-pocket = Захаваць у { -pocket-brand-name }
+    .accesskey = З
+mztabrow-copy-link = Капіяваць спасылку
+    .accesskey = л
