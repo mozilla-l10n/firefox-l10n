@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = หยุดชั่วคราว
-    .title = หยุดชั่วคราว (Spacebar)
-pictureinpicture-play-cmd =
-    .aria-label = เล่น
-    .title = เล่น (Spacebar)
-pictureinpicture-mute-cmd =
-    .aria-label = ปิดเสียง
-    .title = ปิดเสียง ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = เลิกปิดเสียง
-    .title = เลิกปิดเสียง ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = ส่งกลับไปที่แท็บ
-    .title = กลับไปที่แท็บ
-pictureinpicture-close-cmd =
-    .aria-label = ปิด
-    .title = ปิด ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = คำบรรยาย
-    .title = คำบรรยาย
 pictureinpicture-pause-btn =
     .aria-label = หยุดชั่วคราว
     .tooltip = หยุดชั่วคราว (Spacebar)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = เต็มหน้าจอ
-    .title = เต็มหน้าจอ (คลิกสองครั้ง)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = ออกจากภาพเต็มหน้าจอ
-    .title = ออกจากภาพเต็มหน้าจอ (คลิกสองครั้ง)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = ย้อนหลัง
-    .title = ย้อนหลัง (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = เดินหน้า
-    .title = เดินหน้า (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = เต็มหน้าจอ
     .tooltip = เต็มหน้าจอ (คลิกสองครั้ง)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = เดินหน้า
     .tooltip = เดินหน้า (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = การตั้งค่าคำบรรยาย
 pictureinpicture-subtitles-label = คำบรรยาย
 pictureinpicture-font-size-label = ขนาดแบบอักษร
 pictureinpicture-font-size-small = เล็ก
