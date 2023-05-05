@@ -334,6 +334,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Diweredekaat ar mod disac’hañ
     .accesskey = D
+menu-help-switch-device =
+    .label = Tremen war un trevnad nevez
+    .accesskey = T
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
