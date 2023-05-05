@@ -14,3 +14,4 @@ places-bookmarks-restore-format-error = Tipo di file non supportato.
 places-bookmarks-restore-parse-error = Impossibile elaborare il file di backup.
 places-bookmarks-import = Importa file dei segnalibri
 places-bookmarks-export = Esporta file dei segnalibri
+
