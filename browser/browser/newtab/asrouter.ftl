@@ -246,3 +246,19 @@ fox-doodle-pin-secondary = 나중에
 
 set-default-pdf-handler-headline = <strong>이제 PDF가 { -brand-short-name }에서 열립니다.</strong> 브라우저에서 직접 양식을 편집하거나 서명하세요. 변경하려면, 설정에서 "PDF"를 검색하세요.
 set-default-pdf-handler-primary = 확인
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = 미래의 새 기기?
+fxa-sync-cfr-body = 새 { -brand-product-name } 브라우저를 열 때마다 최신 북마크, 비밀번호 및 탭이 함께 제공되는지 확인하세요.
+fxa-sync-cfr-primary = 더 알아보기
+    .accesskey = L
+fxa-sync-cfr-secondary = 나중에 알림
+    .accesskey = R
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = 오래된 기기를 사용하시나요?
+device-migration-fxa-spotlight-body = 특히 새 기기로 전환하는 경우 북마크 및 비밀번호와 같은 중요한 정보를 잃지 않도록 데이터를 백업하세요.
+device-migration-fxa-spotlight-primary-button = 내 데이터를 백업하는 방법
+device-migration-fxa-spotlight-link = 나중에 알림

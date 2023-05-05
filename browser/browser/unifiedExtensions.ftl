@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = 확장 기능 제거
 unified-extensions-context-menu-report-extension =
     .label = 확장 기능 신고
+unified-extensions-context-menu-move-widget-up =
+    .label = 위로 이동
+unified-extensions-context-menu-move-widget-down =
+    .label = 아래로 이동
