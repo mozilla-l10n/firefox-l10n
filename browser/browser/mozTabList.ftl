@@ -37,4 +37,4 @@ mztabrow-add-bookmark = Könyvjelzőzés…
 mztabrow-save-to-pocket = Mentés a { -pocket-brand-name }be
     .accesskey = M
 mztabrow-copy-link = Hivatkozás másolása
-    .accesskey = m
+    .accesskey = H
