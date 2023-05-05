@@ -540,6 +540,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Evit ober gant ar verradenn F12, digorit DevTools dre al lañser diorroen web.
+enable-devtools-popup-description2 = Evit implijout ar verradenn F12 e rankit da gentañ digeriñ DevTools dre lañser ar Merdeer binviji.
 
 ## URL Bar
 
@@ -575,6 +576,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Enankit gerioù da glask
     .aria-label = Klask en ivinelloù
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Skrivañ ar gerioù da glask
+    .aria-label = Klask
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -650,6 +655,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Klask er sinedoù
 urlbar-result-action-search-history = Klask er roll istor
 urlbar-result-action-search-tabs = Klask ivinelloù
+urlbar-result-action-search-actions = Klask
 
 ## Labels shown above groups of urlbar results
 
@@ -663,6 +669,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Kinnigoù { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Oberoù prim
 
 ## Reader View toolbar buttons
 
@@ -677,6 +686,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Digeriñ Skeudenn-ouzh-skeudenn ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Serriñ Skeudenn-ouzh-skeudenn ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -760,6 +773,8 @@ bookmarks-tools =
     .label = Ostilhoù ar sinedoù
 bookmarks-bookmark-edit-panel =
     .label = Embann ar sined-mañ
+bookmarks-subview-edit-bookmark =
+    .label = Embann ar sined…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -776,6 +791,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Lakaat an ivinell vremanel er sinedoù
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Lakaat an ivinell a-vremañ er sinedoù…
 
 ## Library Panel items
 
@@ -818,6 +836,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Kas an ere dre bostel
     .tooltiptext = Kas ere ar bajenn-mañ dre bostel
+toolbar-button-logins =
+    .label = Gerioù-tremen
+    .tooltiptext = Gwelout ha merañ ar gerioù-tremen enrollet
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -949,13 +970,23 @@ data-reporting-notification-message = { -brand-short-name } a dreuzkas roadenno�
 data-reporting-notification-button =
     .label = Dibab ar pezh a zo rannet ganin
     .accesskey = D
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Merdeiñ prevez
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Askouezhioù
+    .tooltiptext = Askouezhioù
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Askouezhioù
+    .tooltiptext =
+        Askouezhioù
+        Aotreoù ret
 
 ## Autorefresh blocker
 
@@ -967,6 +998,8 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } a guzh ho chomlec'h postel gwirion evit ho kwareziñ rak ar fuadurioù roadennoù ha rak ar posteloù strobus.
+firefox-relay-offer-how-we-integrate = En ur genderc'hel e c'halloc'h genel { -relay-brand-short-name } maskloù nevez evit ho chomlec'h postel, war-eeun dre ho { -brand-shorter-name } merour gerioù-tremen.
 
 ## Popup Notification
 
