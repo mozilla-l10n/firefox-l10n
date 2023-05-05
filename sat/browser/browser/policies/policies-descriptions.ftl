@@ -10,6 +10,12 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = ᱠᱚᱥᱴᱚᱢ ᱮᱯ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ URL ᱥᱮᱴ ᱢᱮ ᱾
+policy-CaptivePortal = ᱠᱮᱯᱴᱤᱵᱷ ᱯᱚᱨᱴᱟᱞ ᱜᱚᱲᱚ ᱫᱚ ᱮᱢ ᱟᱨ ᱵᱟᱝ ᱵᱚᱸᱫ ᱪᱷᱚᱭ ᱢᱮ ᱾
+policy-CertificatesDescription = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱮᱞᱮᱫ ᱢᱮ ᱟᱨ ᱵᱟᱝ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+policy-DisabledCiphers = ᱮᱞᱮᱠᱷ ᱵᱚᱱᱫᱚᱭ ᱢᱮ ᱾
+policy-DefaultDownloadDirectory = ᱢᱩᱞ ᱰᱟᱩᱱᱞᱚᱰ ᱜᱩᱫᱟᱢ ᱥᱮᱴ ᱢᱮ ᱾
+policy-DisableAppUpdate = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱷᱚᱱ ᱢᱟᱱᱟᱭ ᱢᱮ ᱾
 policy-DisableBuiltinPDFViewer = PDF.js ᱵᱚᱸᱫᱚᱭ ᱢᱮ, { -brand-short-name } ᱨᱮ PDF ᱫᱮᱠᱷᱟᱣᱤᱭᱟᱹ ᱛᱮᱭᱟᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 policy-DisablePrivateBrowsing = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱚᱱᱫ ᱠᱟᱜ ᱢᱮ ᱾
 policy-FirefoxHome = Firefox Home ᱥᱟᱹᱛ ᱢᱮ ᱾
