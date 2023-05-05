@@ -237,3 +237,14 @@ fox-doodle-pin-secondary = Mačči tura
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-primary = Awi-t
+
+## FxA sync CFR
+
+fxa-sync-cfr-primary = Issin ugar
+    .accesskey = I
+fxa-sync-cfr-secondary = Smekti-y-id ticki
+    .accesskey = S
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-link = Smekti-y-id ticki

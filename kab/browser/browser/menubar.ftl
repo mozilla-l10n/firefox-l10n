@@ -331,6 +331,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Sens askar n ferru n wuguren
     .accesskey = A
+menu-help-switch-device =
+    .label = Uɣal ɣer yibenk amaynut
+    .accesskey = A
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
