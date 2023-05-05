@@ -246,3 +246,14 @@ fox-doodle-pin-secondary = Plus tard
 
 set-default-pdf-handler-headline = <strong>Vos fichiers PDF s’ouvrent désormais dans { -brand-short-name }.</strong> Modifiez ou signez des formulaires directement dans votre navigateur. Pour modifier ce comportement, recherchez « PDF » dans les paramètres.
 set-default-pdf-handler-primary = J’ai compris
+
+## FxA sync CFR
+
+fxa-sync-cfr-primary = En savoir plus
+    .accesskey = E
+fxa-sync-cfr-secondary = Me le rappeler plus tard
+    .accesskey = M
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-link = Me le rappeler plus tard
