@@ -264,3 +264,4 @@ fxa-sync-cfr-secondary = ᱛᱟᱭᱚᱢ ᱛᱮ ᱵᱟᱛᱟᱣ ᱤᱧ ᱢᱮ
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = ᱢᱟᱨᱮ ᱥᱟᱫᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ?
