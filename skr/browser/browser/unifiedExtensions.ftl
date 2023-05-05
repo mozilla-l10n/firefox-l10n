@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = ایکسٹینشن ہٹاؤ
 unified-extensions-context-menu-report-extension =
     .label = ایکسٹینشن دی رپورٹ کرو
+unified-extensions-context-menu-move-widget-up =
+    .label = اُوتے کرو
+unified-extensions-context-menu-move-widget-down =
+    .label = تلے کرو

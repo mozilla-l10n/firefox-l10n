@@ -247,3 +247,14 @@ fox-doodle-pin-secondary = ہݨ کائناں
 
 set-default-pdf-handler-headline = <strong>تہاݙیاں PDFs ہݨ { -brand-short-name } وچ کھلدیاں ہن۔</strong> براہ راست آپݨے براؤزر وچ فارماں وچ تبدیلی یا دستخط کرو۔ وٹاوݨ کیتے، ترتیباں وچ  “PDF” ڳولو۔
 set-default-pdf-handler-primary = سمجھ گھدے
+
+## FxA sync CFR
+
+fxa-sync-cfr-primary = ٻیا سِکھو
+    .accesskey = L
+fxa-sync-cfr-secondary = میکوں بعد اِچ یاد ݙیواؤ
+    .accesskey = R
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-link = میکوں بعد اِچ یاد ݙیواؤ
