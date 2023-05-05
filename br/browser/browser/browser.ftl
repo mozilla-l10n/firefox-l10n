@@ -142,6 +142,19 @@ urlbar-search-tips-confirm-short = Komprenet em eus!
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tun:
+urlbar-result-menu-button =
+    .title = Digeriñ al lañser
+urlbar-result-menu-button-feedback = Evezhiadennoù
+    .title = Digeriñ al lañser
+urlbar-result-menu-learn-more =
+    .label = Gouzout hiroc'h
+    .accesskey = G
+urlbar-result-menu-remove-from-history =
+    .label = Dilemel eus ar roll-istor
+    .accesskey = i
+urlbar-result-menu-tip-get-help =
+    .label = Skoazell
+    .accesskey = S
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -159,6 +172,7 @@ urlbar-tabtosearch-onboard = Dibabit ar verradenn-mañ evit kavout ar pezh a fel
 urlbar-search-mode-bookmarks = Sinedoù
 urlbar-search-mode-tabs = Ivinelloù
 urlbar-search-mode-history = Roll istor
+urlbar-search-mode-actions = Oberoù
 
 ##
 
@@ -201,6 +215,12 @@ page-action-manage-extension =
     .label = Merañ an askouezh...
 page-action-remove-extension =
     .label = Dilemel an askouezh
+page-action-manage-extension2 =
+    .label = Merañ an askouezh...
+    .accesskey = M
+page-action-remove-extension2 =
+    .label = Dilemel an askouezh
+    .accesskey = a
 
 ## Auto-hide Context Menu
 
@@ -259,6 +279,8 @@ search-one-offs-tabs =
     .tooltiptext = Ivinelloù ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Roll istor ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Oberoù ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -267,14 +289,57 @@ search-one-offs-history =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Gwelout an askouezhioù
 quickactions-cmd-addons2 = askouezhioù
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Merañ ar sinedoù
 quickactions-cmd-bookmarks = sinedoù
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Skarzhañ ar roll istor
 quickactions-cmd-clearhistory = skarzhañ ar roll istor
+# Opens about:downloads page
+quickactions-downloads2 = Gwelout ar pellgargadurioù
 quickactions-cmd-downloads = pellgargadurioù
 # Opens about:addons page in the extensions section
 quickactions-extensions = Merañ an askouezhioù
 quickactions-cmd-extensions = askouezhioù
+# Opens the devtools web inspector
+quickactions-inspector2 = Digeriñ Developer Tools
+quickactions-cmd-inspector = inspector, devtools
+# Opens about:logins
+quickactions-logins2 = Merañ ar gerioù-tremen
+quickactions-cmd-logins = titouroù kennaskañ, gerioù-tremen
+# Opens about:addons page in the plugins section
+quickactions-plugins = Merañ an enlugelladoù
+quickactions-cmd-plugins = enlugelladoù
+# Opens the print dialog
+quickactions-print2 = Moullañ ar bajenn
+quickactions-cmd-print = moullañ
+# Opens a new private browsing window
+quickactions-private2 = Digeriñ ur prenestr prevez
+quickactions-cmd-private = Merdeiñ prevez
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Freskaat { -brand-short-name }
+quickactions-cmd-refresh = freskaat
+# Restarts the browser
+quickactions-restart = Adloc'hañ { -brand-short-name }
+quickactions-cmd-restart = adloc'hañ
+# Opens the screenshot tool
+quickactions-screenshot3 = Kemer un dapadenn-skramm
+quickactions-cmd-screenshot = tapadenn-skramm
+# Opens about:preferences
+quickactions-settings2 = Merañ an arventennoù
+quickactions-cmd-settings = arventennoù, dibaboù gwellañ, dibarzhioù
+# Opens about:addons page in the themes section
+quickactions-themes = Merañ an neuzioù
+quickactions-cmd-themes = neuzioù
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Hizivaat { -brand-short-name }
+quickactions-cmd-update = hizivaat
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Gwelout tarzh ar bajennad
+quickactions-cmd-viewsource = gwelout tarzh, tarzh
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Gouzout hiroc'h diwar-benn an Oberoù prim
 
 ## Bookmark Panel
 
@@ -451,6 +516,9 @@ popup-select-microphone-icon =
     .tooltiptext = Mikro
 popup-select-speaker-icon =
     .tooltiptext = Selaouelloù
+popup-select-window-or-screen =
+    .label = Prenestr pe skramm:
+    .accesskey = P
 popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
 popup-screen-sharing-block =
     .label = Stankañ
