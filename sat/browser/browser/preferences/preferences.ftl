@@ -474,10 +474,28 @@ home-prefs-recent-activity-description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭ�
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = ᱵᱷᱟᱜᱽ
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ᱫᱷᱟᱹᱲ
+            [two] { $num } ᱫᱷᱟᱹᱲ ᱠᱤᱱ
+           *[other] { $num } ᱫᱷᱟᱹᱲ ᱠᱚ
+        }
 
 ## Search Section
 
 search-bar-header = ᱥᱮᱸᱫᱽᱨᱟ ᱦᱟᱯᱟ
+search-bar-hidden =
+    .label = ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱪᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+search-bar-shown =
+    .label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱵᱟᱨ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱵᱟᱨ ᱥᱮᱞᱮᱫ ᱢᱮ
+search-engine-default-header = ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
+search-suggestions-header = ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+search-suggestions-option =
+    .label = ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱫᱤᱥ ᱠᱚ ᱩᱫᱩᱜ
+    .accesskey = s
 search-choose-engine-column =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
 search-choose-keyword-column =
@@ -569,15 +587,32 @@ sync-engine-logins-passwords =
     .label = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
     .tooltiptext = ᱟᱢ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
     .accesskey = ᱫ
+sync-engine-creditcards =
+    .label = ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ
+    .tooltiptext = ᱧᱩᱛᱩᱢ, ᱱᱚᱢᱵᱚᱨ ᱟᱨ ᱵᱚᱫᱚᱞ ᱚᱠᱛᱚ (ᱠᱷᱟᱹᱞᱤ ᱰᱮᱥᱠᱴᱚᱯ ᱨᱮᱜᱮ)
+    .accesskey = C
+sync-engine-addons =
+    .label = ᱮᱰ-ᱟᱸᱱᱥ
+    .tooltiptext = Firefox ᱰᱮᱥᱠᱴᱚᱯ ᱞᱟᱹᱜᱤᱫ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ
+    .accesskey = A
+sync-engine-settings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ
+    .tooltiptext = ᱟᱢ ᱵᱚᱫᱚᱞ ᱟᱠᱟᱫ ᱡᱮᱜᱮᱛᱟᱹᱨᱤ, ᱯᱨᱟᱭᱣᱮᱥᱤ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱡᱟᱣᱠᱚ
+    .accesskey = s
 
 ## The device name controls.
 
+sync-device-name-header = ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱧᱩᱛᱩᱢ
+sync-device-name-change =
+    .label = ᱥᱚᱫᱷᱚᱱ ᱧᱩᱛᱩᱢ ᱵᱚᱫᱚᱞ ᱢᱮ…
+    .accesskey = h
 sync-device-name-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = ᱵ
 sync-device-name-save =
     .label = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
     .accesskey = ᱥ
+sync-connect-another-device = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱲᱟᱹᱣ ᱢᱮ
 
 ## Privacy Section
 
