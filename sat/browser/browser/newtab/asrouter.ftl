@@ -256,6 +256,11 @@ set-default-pdf-handler-primary = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
 ## FxA sync CFR
 
 fxa-sync-cfr-header = ᱟᱢᱟᱜ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱨᱮᱭᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ?
+fxa-sync-cfr-body = ᱡᱟᱣᱜᱮ ᱟᱢ { -brand-product-name } ᱵᱽᱨᱟᱣᱡᱚᱨ ᱮᱦᱚᱵᱟ ᱟᱢᱟᱜ ᱱᱟᱣᱟ ᱵᱩᱠᱢᱟᱨᱠ, ᱯᱟᱥᱣᱚᱨᱰ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱟᱢ ᱥᱟᱶᱛᱮ ᱧᱟᱢᱟ ᱾
+fxa-sync-cfr-primary = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+    .accesskey = L
+fxa-sync-cfr-secondary = ᱛᱟᱭᱚᱢ ᱛᱮ ᱵᱟᱛᱟᱣ ᱤᱧ ᱢᱮ
+    .accesskey = R
 
 ## Device Migration FxA Spotlight
 
