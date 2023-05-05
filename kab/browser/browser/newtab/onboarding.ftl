@@ -414,4 +414,5 @@ mr2022-onboarding-default-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-title = Ansuf tikkelt niḍen!
 onboarding-device-migration-primary-button-label = Kcem
