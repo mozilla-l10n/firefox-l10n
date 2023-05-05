@@ -1426,6 +1426,7 @@ preferences-doh-resolver = Poskytovatel: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Neplatná adresa URL
+preferences-doh-steering-status = Pomocí místního poskytovatele
 preferences-doh-status-active = Aktivní
 preferences-doh-status-disabled = Vypnuto
 # Variables:
@@ -1434,16 +1435,29 @@ preferences-doh-status-not-active = Neaktivní ({ $reason })
 preferences-doh-group-message = Povolit zabezpečené DNS:
 preferences-doh-expand-section =
     .tooltiptext = Více informací
+preferences-doh-setting-default =
+    .label = Výchozí ochrana
+    .accesskey = V
 preferences-doh-default-desc = { -brand-short-name } se rozhodne, kdy používat bezpečné DNS pro ochranu vašeho soukromí.
 preferences-doh-default-detailed-desc-1 = Zabezpečené DNS se použije v oblastech, kde je dostupné
 preferences-doh-default-detailed-desc-2 = Pokud se zabezpečeným DNS nastane problém, použije se výchozí překladač DNS
+preferences-doh-default-detailed-desc-3 = Pokud je to možné, použijte místního poskytovatele
+preferences-doh-default-detailed-desc-4 = Vypne se, když je aktivní VPN, rodičovská kontrola nebo podnikové zásady
+preferences-doh-default-detailed-desc-5 = Vypne se, když síť oznámí { -brand-short-name(case: "dat") }, že nemá používat zabezpečené DNS
+preferences-doh-setting-enabled =
+    .label = Zvýšená ochrana
+    .accesskey = Z
 preferences-doh-enabled-desc = Sami si nastavíte, kdy se zabezpečené DNS použije, a od jakého poskytovatele.
 preferences-doh-enabled-detailed-desc-2 = Výchozí překladač DNS se použijte jen v případě problému se zabezpečeným DNS
+preferences-doh-setting-strict =
+    .label = Maximální ochrana
+    .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name } vždy použije zabezpečené DNS. Před použitím systémového překladače DNS vždy uvidíte bezpečnostní varování.
 preferences-doh-strict-detailed-desc-2 = Vždy upozorní, pokud není zabezpečené DNS dostupné
 preferences-doh-strict-detailed-desc-3 = Pokud není zabezpečené DNS dostupné, webové stránky se nenačtou nebo nemusí správně fungovat
 preferences-doh-off-desc = Použije výchozí překladač DNS
 preferences-doh-select-resolver = Vyberte poskytovatele:
+preferences-doh-exceptions-description = { -brand-short-name } nebude používat zabezpečené DNS na těchto stránkách
 preferences-doh-manage-exceptions =
     .label = Výjimky…
     .accesskey = k
