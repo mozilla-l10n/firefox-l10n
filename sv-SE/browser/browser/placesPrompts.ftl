@@ -4,12 +4,11 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (namnlös)
-places-bookmarks-backup-title = Säkerhetskopia på bokmärken
 places-bookmarks-restore-alert-title = Återställ bokmärken
 places-bookmarks-restore-alert = Det här ersätter alla dina nuvarande bokmärken med säkerhetskopian. Är du säker?
-places-bookmarks-restore-title = Välj en säkerhetskopia på bokmärken
+places-bookmarks-restore-title = Välj en säkerhetskopia av bokmärken
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Filtypen stöds inte.
-places-bookmarks-restore-parse-error = Kan inte bearbeta säkerhetskopieringsfilen.
-places-bookmarks-import = Importera bokmärkesfilen
-places-bookmarks-export = Exportera bokmärkesfilen
+places-bookmarks-restore-parse-error = Det gick inte att bearbeta säkerhetskopian.
+places-bookmarks-import = Importera bokmärkesfil
+places-bookmarks-export = Exportera bokmärkesfil
