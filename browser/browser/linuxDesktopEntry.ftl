@@ -8,6 +8,14 @@
 
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
+# The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment = Περιηγηθείτε στον παγκόσμιο ιστό
+desktop-entry-generic-name = Πρόγραμμα περιήγησης
+# Keywords are search terms used to find this application.
+# The string is a list of keywords separated by semicolons:
+# - Do NOT replace semicolons with other punctuation signs.
+# - The list MUST end with a semicolon.
+desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;Διαδίκτυο;Ιστός;Ίντερνετ;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
