@@ -496,10 +496,17 @@ search-suggestions-header = ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 search-suggestions-option =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱫᱤᱥ ᱠᱚ ᱩᱫᱩᱜ
     .accesskey = s
+search-show-suggestions-private-windows =
+    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+suggestions-addressbar-settings-generic2 = ᱮᱴᱟᱜ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱥᱩᱡᱷᱟᱹᱣ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
+search-one-click-header2 = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 search-choose-engine-column =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
 search-choose-keyword-column =
     .label = ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ
+search-restore-default =
+    .label = ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ
+    .accesskey = D
 search-remove-engine =
     .label = ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
@@ -519,6 +526,10 @@ search-keyword-warning-bookmark = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ �
 
 containers-back-button2 =
     .aria-label = ᱥᱟᱡᱟᱣ ᱛᱮ ᱨᱤᱣᱟᱹᱲ
+containers-header = ᱱᱟᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ
+containers-add-button =
+    .label = ᱱᱚᱶᱟ ᱫᱚᱦᱚᱣᱟᱜ ᱥᱚᱞᱮᱫ ᱢᱮ
+    .accesskey = A
 containers-settings-button =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
 containers-remove-button =
@@ -528,6 +539,18 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = ᱟᱢᱟᱜ ᱣᱮᱵ ᱟᱢ ᱥᱟᱶ ᱛᱮ ᱤᱫᱤ ᱢᱮ
+sync-signedout-account-signin3 =
+    .label = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ…
+    .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱞᱟᱹᱜᱤᱫ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ᱟᱨᱵᱟᱝ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ᱞᱟᱹᱜᱤᱫ Firefox ᱰᱟᱣᱱᱞᱚᱰ ᱢᱮ ᱾
 
 ## Firefox Account - Signed in
 
@@ -547,6 +570,9 @@ sync-signedin-login-failure = ᱫᱟᱭᱟᱠᱟᱛᱮ { $email } ᱥᱟᱞᱟ�
 
 ##
 
+sync-resend-verification =
+    .label = ᱯᱩᱥᱴᱟᱹᱣ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+    .accesskey = d
 sync-remove-account =
     .label = ᱠᱷᱟᱛᱟ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
@@ -556,6 +582,11 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = ᱟᱹᱭᱩᱨ ᱢᱤᱫ: ᱮᱢ ᱪᱷᱚ
+prefs-syncing-off = ᱟᱹᱭᱩᱨ ᱢᱤᱫ: ᱵᱚᱸᱫ
+prefs-sync-turn-on-syncing =
+    .label = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ...
+    .accesskey = s
 prefs-sync-now =
     .labelnotsyncing = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
     .accesskeynotsyncing = N
@@ -583,10 +614,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = ᱱᱟᱜᱟᱢ
     .accesskey = ᱱ
+sync-engine-tabs =
+    .label = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
+    .tooltiptext = ᱡᱷᱚᱛᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱠᱟᱱ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴᱮᱵᱽ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ
+    .accesskey = t
 sync-engine-logins-passwords =
     .label = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
     .tooltiptext = ᱟᱢ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
     .accesskey = ᱫ
+sync-engine-addresses =
+    .label = ᱴᱷᱤᱠᱬᱟᱤᱭᱟᱹ
+    .tooltiptext = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱰᱟᱠ ᱴᱷᱤᱠᱬᱟᱹ (ᱠᱷᱟᱹᱞᱤ ᱰᱮᱥᱠᱴᱚᱯ ᱨᱮᱜᱮ)
+    .accesskey = e
 sync-engine-creditcards =
     .label = ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ
     .tooltiptext = ᱧᱩᱛᱩᱢ, ᱱᱚᱢᱵᱚᱨ ᱟᱨ ᱵᱚᱫᱚᱞ ᱚᱠᱛᱚ (ᱠᱷᱟᱹᱞᱤ ᱰᱮᱥᱠᱴᱚᱯ ᱨᱮᱜᱮ)
@@ -616,9 +655,17 @@ sync-connect-another-device = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱲᱟᱹᱣ
 
 ## Privacy Section
 
+privacy-header = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱱᱤᱥᱚᱱ
 
 ## Privacy Section - Logins and Passwords
 
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
+    .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱞᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱞᱤ ᱢᱮ
+    .accesskey = r
 forms-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
