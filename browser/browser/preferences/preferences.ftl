@@ -1418,9 +1418,22 @@ httpsonly-radio-disabled =
 preferences-doh-header = DNS over HTTPS
 preferences-doh-description = Systém doménových jmen (DNS) přes HTTPS odešle váš požadavek na doménu skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním, aby viděli, které servery navštěvujete.
 # Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Stav: { $status }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Poskytovatel: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Neplatná adresa URL
+preferences-doh-status-active = Aktivní
+preferences-doh-status-disabled = Vypnuto
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Neaktivní ({ $reason })
 preferences-doh-group-message = Povolit zabezpečené DNS:
+preferences-doh-expand-section =
+    .tooltiptext = Více informací
 preferences-doh-default-desc = { -brand-short-name } se rozhodne, kdy používat bezpečné DNS pro ochranu vašeho soukromí.
 preferences-doh-default-detailed-desc-1 = Zabezpečené DNS se použije v oblastech, kde je dostupné
 preferences-doh-default-detailed-desc-2 = Pokud se zabezpečeným DNS nastane problém, použije se výchozí překladač DNS

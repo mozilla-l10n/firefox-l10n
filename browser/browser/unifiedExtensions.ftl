@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Odebrat rozšíření
 unified-extensions-context-menu-report-extension =
     .label = Nahlásit rozšíření
+unified-extensions-context-menu-move-widget-up =
+    .label = Posunout výše
+unified-extensions-context-menu-move-widget-down =
+    .label = Posunout níže
