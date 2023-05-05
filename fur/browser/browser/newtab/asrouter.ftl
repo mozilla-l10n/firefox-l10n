@@ -249,3 +249,15 @@ fox-doodle-pin-secondary = No cumò
 
 set-default-pdf-handler-headline = <strong>Cumò i tiei PDFs si vierzin in { -brand-short-name }.</strong> Modifiche o firme i formularis dret dal to navigadôr. Par cambiâ, cîr “PDF” tes impostazions.
 set-default-pdf-handler-primary = Capît
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Gnûf dispositîf tal to futûr?
+fxa-sync-cfr-body = Fâs in mût che i tiei ultins segnelibris, passwords e schedis a sedin a tô disposizion ogni volte che tu vierzis un gnûf navigadôr { -brand-product-name }.
+fxa-sync-cfr-primary = Plui informazions
+    .accesskey = l
+fxa-sync-cfr-secondary = Visimi plui indevant
+    .accesskey = V
+
+## Device Migration FxA Spotlight
+
