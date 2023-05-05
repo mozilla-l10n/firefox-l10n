@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Kiegészítő eltávolítása
 unified-extensions-context-menu-report-extension =
     .label = Kiegészítő jelentése
+unified-extensions-context-menu-move-widget-up =
+    .label = Mozgatás felfelé
+unified-extensions-context-menu-move-widget-down =
+    .label = Mozgatás lefelé
