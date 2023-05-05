@@ -312,6 +312,7 @@ mr2022-onboarding-get-started-primary-button-label = ᱢᱤᱫᱴᱟᱹᱝ ᱴ�
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = ᱟᱹᱰᱤ ᱪᱚᱴᱠᱟᱨ ᱥᱮᱴᱚᱯ
 mr2022-onboarding-import-primary-button-label-no-attribution = ᱢᱟᱲᱟᱝᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 
 ## If your language uses grammatical genders, in the description for the
