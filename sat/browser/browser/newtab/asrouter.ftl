@@ -252,3 +252,10 @@ fox-doodle-pin-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 set-default-pdf-handler-headline = <strong>ᱟᱵᱚᱣᱟᱜ PDF ᱱᱤᱛᱚᱜ { -brand-short-name } ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱᱟ ᱾</strong> ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱨᱮᱜᱮ ᱯᱷᱚᱨᱢ ᱥᱟᱯᱲᱟᱣ ᱟᱨᱵᱟᱝ ᱥᱩᱦᱤ ᱠᱟᱜ ᱢᱮ ᱾ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ, ᱥᱟᱡᱟᱣ ᱨᱮ  “PDF” ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
 set-default-pdf-handler-primary = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = ᱟᱢᱟᱜ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱨᱮᱭᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ?
+
+## Device Migration FxA Spotlight
+

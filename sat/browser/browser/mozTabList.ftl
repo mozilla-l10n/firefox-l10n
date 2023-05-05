@@ -36,5 +36,5 @@ mztabrow-add-bookmark = ᱵᱩᱠᱢᱟᱨᱠ…
     .accesskey = B
 mztabrow-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
     .accesskey = o
-mztabrow-copy-link = Copy Link
+mztabrow-copy-link = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
     .accesskey = L
