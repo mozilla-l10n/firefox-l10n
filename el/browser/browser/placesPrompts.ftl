@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (χωρίς τίτλο)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Για λόγους ασφαλείας, δεν είναι δυνατή η φόρτωση των URL τύπου «javascript:» ή «data:» από το παράθυρο ιστορικού ή την πλαϊνή γραμμή.
 places-bookmarks-backup-title = Όνομα αντιγράφου ασφαλείας σελιδοδεικτών
 places-bookmarks-restore-alert-title = Επαναφορά σελιδοδεικτών
 places-bookmarks-restore-alert = Αυτή η ενέργεια θα αντικαταστήσει όλους τους τρέχοντες σελιδοδείκτες σας με αυτούς στο αντίγραφο ασφαλείας. Θέλετε σίγουρα να το κάνετε αυτό;
