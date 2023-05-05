@@ -25,12 +25,17 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = ໃຊ້ຄຸນສົມບັດ <code>alt</code> ເພື່ອຕິດປ້າຍກຳກັບອົງປະກອບ <div>area</div> ທີ່ມີຄຸນສົມບັດ <span>href</span>. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-dialog = ກ່ອງໂຕ້ຕອບຄວນຖືກຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-document-title = ເອກະສານຕ້ອງມີ <code>ຫົວຂໍ້</code>. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-embed = ເນື້ອຫາຝັງຕ້ອງມີປ້າຍຊື່. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-figure = ຕົວເລກທີ່ມີຄໍາບັນຍາຍທາງເລືອກຄວນໄດ້ຮັບການຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-fieldset = ອົງປະກອບ <code>fieldset</code> ຈະຕ້ອງຖືກຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-fieldset-legend2 = ໃຊ້ອົງປະກອບ <code>legend</code> ເພື່ອຕິດປ້າຍກຳກັບ <span>fieldset</span>. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-form = ອົງປະກອບແບບຟອມຕ້ອງຖືກຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-form-visible = ອົງປະກອບແບບຟອມຄວນມີປ້າຍຂໍ້ຄວາມທີ່ເບິ່ງເຫັນໄດ້. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-heading = ຫົວຂໍ້ຕ້ອງມີປ້າຍຊື່. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-heading-content = ຫົວຂໍ້ຄວນມີເນື້ອໃນຂໍ້ຄວາມທີ່ເຫັນໄດ້. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-image = ເນື້ອໃນທີ່ມີຮູບພາບຕ້ອງໄດ້ຮັບການຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section

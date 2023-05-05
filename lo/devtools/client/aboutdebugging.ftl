@@ -175,6 +175,13 @@ about-debugging-runtime-profile-button2 = ປະສິດທິພາບໂປ�
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
 about-debugging-runtime-service-workers-not-compatible = ການຕັ້ງຄ່າໂປຣແກຣມທ່ອງເວັບຂອງທ່ານບໍ່ເຂົ້າກັນໄດ້ກັບພະນັກງານບໍລິການ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = ຕົວທ່ອງເວັບທີ່ເຊື່ອມຕໍ່ແມ່ນຫລ້າສຸດ ({ $runtimeVersion }, buildID { $runtimeID }) ຫຼາຍກວ່າ { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). ນີ້ແມ່ນການຕັ້ງຄ່າທີ່ບໍ່ຮອງຮັບ ແລະອາດເຮັດໃຫ້ DevTools ລົ້ມເຫລວ. ກະລຸນາອັບເດດ Firefox. <a>ການແກ້ໄຂບັນຫາ</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -268,6 +275,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = ບໍລິການຊຸກຍູ້
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = ການກວດສອບ Service Worker ແມ່ນຖືກປິດໃຊ້ງານສໍາລັບ multiprocess { -brand-shorter-name }
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = ແຖບບໍ່ໄດ້ໂຫລດເຕັມທີ່ ແລະ ບໍ່ສາມາດກວດສອບໄດ້
