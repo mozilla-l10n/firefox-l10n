@@ -74,6 +74,17 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚ
+protections-panel-cookie-banner-handling-enabled = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱪᱷᱚ ᱜᱮᱭᱟ
+protections-panel-cookie-banner-handling-disabled = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱱᱫ ᱜᱮᱭᱟ
+protections-panel-cookie-banner-handling-undetected = ᱥᱟᱭᱟᱴ ᱱᱤᱛᱚᱜ ᱥᱟᱵ ᱨᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ
 protections-panel-cookie-banner-view-title =
     .title = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = { $host } ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱨᱮᱰᱟᱹᱠᱥᱚᱱ ᱵᱚᱱᱫᱚᱭᱟᱢ ᱥᱮ ?
+protections-panel-cookie-banner-view-turn-on-for-site = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱨᱮᱰᱟᱹᱠᱥᱚᱱ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴᱟᱜ ᱠᱩᱠᱤ ᱠᱚ ᱢᱮᱴᱟᱣᱟᱭ ᱟᱨ ᱥᱟᱦᱴᱟ ᱯᱷᱟᱨᱪᱟ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾ ᱡᱷᱚᱛᱚ ᱠᱩᱠᱤ ᱠᱚ ᱢᱮᱴᱟᱣ ᱞᱮᱠᱷᱟᱱ ᱟᱢ ᱵᱟᱦᱨᱮ ᱛᱮ ᱚᱰᱚᱠᱚᱜᱼᱟᱢ ᱟᱨᱵᱟᱝ ᱠᱤᱨᱤᱧ ᱵᱚᱥᱛᱟ ᱫᱚ ᱠᱷᱟᱹᱞᱤᱜ ᱛᱟᱢᱟᱸ ᱾
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } ᱫᱚ ᱥᱚᱦᱚᱫ ᱮᱢᱚᱜ ᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱡ ᱛᱮ ᱡᱷᱚᱛᱚ ᱠᱩᱠᱤ ᱱᱮᱦᱚᱨ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟ ᱮᱫᱟᱭ ᱾
+protections-panel-cookie-banner-view-cancel = ᱵᱟᱹᱰᱨᱟᱹ
+protections-panel-cookie-banner-view-turn-off = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 protections-panel-cookie-banner-view-turn-on = ᱮᱢ ᱢᱮ
