@@ -54,3 +54,21 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Diwar-benn an testañ
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Titouret eo an holl doareoù ober e-barzh
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dielloù an testoù benviañ</a>
+    hag e-barzh dielloù <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name },
+    met, en nebeud gerioù, ma fell deoc'h testañ gant an dorn ho penviañ , setu ar pezh a rankfec'h ober :
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (chom hep kas tamm ping ebet)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Er vaezienn gent, bezit sur ez eus enni ur valizenn ziveugañ aes da zerc'hel soñj evit ma c'hallfec'h anavezout ho ping diwezhatoc'h.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Diuzit el listenn gent ar ping e-lec'h m'emañ ho penviañ.
+    M'emañ en ur <a data-l10n-name="custom-ping-link">ping personelaet</a>, dibabit hemañ.
+    Mod-all, an talvoud dre ziouer evit ar muzulioù <code>event</code> eo
+    ar ping <code>events</code>,
+    hag ar ping <code>metrics</code> eo an hini dre ziouer evit an holl muzulioù all.
