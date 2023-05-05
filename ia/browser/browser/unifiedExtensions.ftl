@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Remover extension
 unified-extensions-context-menu-report-extension =
     .label = Signalar extension
+unified-extensions-context-menu-move-widget-up =
+    .label = Mover in alto
+unified-extensions-context-menu-move-widget-down =
+    .label = Mover in basso
