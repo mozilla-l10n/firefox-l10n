@@ -273,3 +273,4 @@ onboarding-live-language-secondary-cancel-download = Cancelar
 
 ## Device migration onboarding
 
+onboarding-device-migration-primary-button-label = Acceder
