@@ -177,4 +177,5 @@ migration-wizard-progress-success-history =
     }
 migration-wizard-progress-success-formdata = Ιστορικό φορμών
 migration-wizard-safari-instructions-continue = Επιλέξτε «Συνέχεια»
+migration-wizard-safari-instructions-folder = Επιλέξτε τον φάκελο του Safari από τη λίστα και κάντε κλικ στο «Άνοιγμα»
 migration-wizard-safari-select-button = Επιλογή αρχείου
