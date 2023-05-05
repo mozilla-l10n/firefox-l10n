@@ -265,3 +265,6 @@ fxa-sync-cfr-secondary = Нагадаць пазней
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Карыстаецеся старой прыладай?
+device-migration-fxa-spotlight-body = Зрабіце рэзервовую копію дадзеных, каб упэўніцца, што вы не страціце важную інфармацыю, такую як закладкі і паролі, асабліва калі вы пераходзіце на новую прыладу.
+device-migration-fxa-spotlight-primary-button = Як зрабіць рэзервовую копію маіх дадзеных
+device-migration-fxa-spotlight-link = Нагадаць пазней
