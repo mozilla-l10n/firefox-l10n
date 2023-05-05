@@ -319,7 +319,7 @@ play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 update-application-title = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ
 # Variables:
 # $version (string) - Firefox version
-update-application-version = ᱵᱷᱚᱨᱥᱚᱱ { $version } <a data-l10n-name="ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ">ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜᱼᱟ</a>
+update-application-version = ᱵᱷᱚᱨᱥᱚᱱ { $version } <a data-l10n-name="learn-more">ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜᱼᱟ</a>
 update-history =
     .label = ᱦᱟᱹᱞᱤ ᱨᱟᱠᱟᱵ ᱦᱤᱛᱟᱹᱞ ᱩᱫᱩᱜ ᱢᱮ…
     .accesskey = p
