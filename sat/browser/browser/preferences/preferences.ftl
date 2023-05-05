@@ -324,16 +324,38 @@ update-history =
     .label = ᱦᱟᱹᱞᱤ ᱨᱟᱠᱟᱵ ᱦᱤᱛᱟᱹᱞ ᱩᱫᱩᱜ ᱢᱮ…
     .accesskey = p
 update-application-allow-description = ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭᱮᱢ
+update-application-auto =
+    .label = ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱵᱚᱦᱟᱞ ᱪᱷᱚᱭᱮᱢ (ᱯᱚᱨᱟᱢᱮᱥ)
+    .accesskey = A
+update-application-check-choose =
+    .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱧᱮᱞᱟᱭ ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱵᱚᱦᱚᱞᱟᱢ ᱥᱮ ᱵᱟᱝᱟ ᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱟᱢ
+    .accesskey = C
+update-application-manual =
+    .label = ᱛᱤᱥ ᱦᱚᱸ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱟᱞᱚᱢ ᱵᱚᱦᱟᱞ ᱟ (ᱵᱟᱝ ᱯᱚᱨᱟᱢᱮᱥ)
+    .accesskey = N
+update-application-background-enabled =
+    .label = ᱚᱠᱟ ᱡᱷᱚᱜ { -brand-short-name } ᱫᱚ ᱵᱟᱭ ᱫᱟᱹᱲ ᱮᱫᱟᱭ
+    .accesskey = W
 update-application-use-service =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱚᱱᱚᱲ ᱠᱟᱹᱢᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = b
+update-application-suppress-prompts =
+    .label = ᱠᱚᱢ ᱴᱟᱴᱠᱟ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .accesskey = n
+update-setting-write-failure-title2 = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱟᱡᱟᱣ ᱥᱟᱺᱪᱟᱣ ᱡᱷᱚᱜᱽ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ
 update-in-progress-title = ᱦᱟᱹᱞᱤᱭᱟᱜ ᱞᱟᱦᱟᱜ ᱠᱟᱱᱟ
+update-in-progress-message = ᱟᱢ ᱫᱚ ᱪᱮᱫ ᱱᱚᱶᱟ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱛᱮ { -brand-short-name } ᱪᱟᱹᱞᱩ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
+update-in-progress-ok-button = ᱵᱟᱹᱨᱜᱤᱞ
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ᱞᱟᱦᱟᱜ ᱢᱮ
 
 ## General Section - Performance
 
+performance-title = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
+performance-use-recommended-settings-checkbox =
+    .label = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱟᱡᱟᱣ ᱯᱚᱨᱟᱢᱮᱥ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = U
 performance-settings-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 performance-allow-hw-accel =
     .label = ᱦᱟᱰᱣᱮᱨ ᱛᱚᱲᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱛᱤᱱ ᱨᱮ ᱧᱟᱢᱚᱜᱼᱟ
@@ -369,6 +391,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ
 
 ## Home Section - Home Page Customization
 
@@ -408,6 +431,7 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox ᱚᱲᱟᱜ ᱡᱤᱱᱤᱥ
 home-prefs-content-header2 = { -firefox-home-brand-name } ᱡᱤᱱᱤᱥ
+home-prefs-content-description2 = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱢ ᱪᱮᱫ ᱡᱤᱱᱤᱥ ᱟᱢᱟᱜ { -firefox-home-brand-name } ᱥᱠᱨᱤᱱ ᱨᱮ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱾
 home-prefs-search-header =
     .label = ᱣᱮᱵᱽ ᱥᱮᱸᱫᱽᱨᱟ
 home-prefs-shortcuts-header =
@@ -444,6 +468,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
 home-prefs-recent-activity-description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱪᱷᱟᱣ
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = ᱵᱷᱟᱜᱽ
 
 ## Search Section
 
