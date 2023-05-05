@@ -158,6 +158,7 @@ spotlight-total-cookie-protection-secondary-button = اکنون نه
 
 ## Emotive Continuous Onboarding
 
+spotlight-pin-secondary-button = اکنون نه
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -178,6 +179,7 @@ spotlight-total-cookie-protection-secondary-button = اکنون نه
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-secondarybutton = پرش
 
 ## Colorways expiry reminder CFR
 
@@ -189,4 +191,10 @@ spotlight-total-cookie-protection-secondary-button = اکنون نه
 
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+
+## FxA sync CFR
+
+
+## Device Migration FxA Spotlight
 

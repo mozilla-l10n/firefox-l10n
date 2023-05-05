@@ -19,3 +19,4 @@ colorway-closet-cancel-button = لغو
 colorway-homepage-reset-prompt = { -firefox-home-brand-name } را صفحهٔ خانگی رنگارنگ خود کنید
 colorway-homepage-reset-success-message = { -firefox-home-brand-name } اکنون صفحهٔ خانگی شماست
 colorway-homepage-reset-apply-button = اِعمال
+colorway-homepage-reset-undo-button = برگردان
