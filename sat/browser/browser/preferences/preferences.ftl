@@ -840,12 +840,16 @@ permissions-block-popups-exceptions-button =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = E
     .searchkeywords = ᱴᱚᱴᱠᱟ ᱠᱚ
+permissions-addon-install-warning =
+    .label = ᱡᱩᱫᱤ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱮᱰ-ᱳᱱ ᱤᱱᱥᱴᱚᱞ ᱠᱷᱟᱱ ᱠᱷᱚᱵᱚᱨᱟᱢᱟ ᱠᱚ
+    .accesskey = W
 permissions-addon-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } ᱰᱟᱴᱟ ᱡᱟᱣᱨᱟ ᱟᱨ ᱵᱮᱵᱷᱟᱨ
 collection-health-report-telemetry-disabled-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 collection-health-report-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
@@ -880,8 +884,25 @@ httpsonly-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## DoH Section
 
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = ᱵᱟᱝ ᱵᱟᱛᱟᱣ URL
 preferences-doh-status-active = ᱩᱥᱨᱟᱹᱣ
 preferences-doh-status-disabled = ᱵᱚᱸᱫᱚ
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = ᱵᱟᱝ ᱪᱚᱴᱠᱟᱨ ({ $reason })
+preferences-doh-group-message = ᱨᱩᱠᱷᱤᱭᱟᱹ DNS ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ:
+preferences-doh-expand-section =
+    .tooltiptext = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+preferences-doh-setting-default =
+    .label = ᱢᱩᱞ ᱨᱩᱠᱷᱤᱭᱟᱹ
+    .accesskey = D
+preferences-doh-setting-off =
+    .label = ᱵᱚᱸᱫᱚ
+    .accesskey = O
+preferences-doh-off-desc = ᱟᱢᱟᱜ ᱢᱩᱞ DNS ᱨᱤᱡᱚᱞᱵᱷᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱛᱟᱢ
+preferences-doh-select-resolver = ᱯᱨᱚᱣᱟᱭᱰᱟᱹᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
 
 ## The following strings are used in the Download section of settings
 
