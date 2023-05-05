@@ -903,6 +903,7 @@ preferences-doh-setting-off =
     .accesskey = O
 preferences-doh-off-desc = ᱟᱢᱟᱜ ᱢᱩᱞ DNS ᱨᱤᱡᱚᱞᱵᱷᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱛᱟᱢ
 preferences-doh-select-resolver = ᱯᱨᱚᱣᱟᱭᱰᱟᱹᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
+preferences-doh-exceptions-description = { -brand-short-name } ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ DNS ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱟᱭ
 
 ## The following strings are used in the Download section of settings
 
