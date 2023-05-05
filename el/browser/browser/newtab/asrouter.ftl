@@ -238,6 +238,9 @@ july-jam-headline = Πάντα στο πλευρό σας
 july-jam-body = Κάθε μήνα, το { -brand-short-name } αποκλείει κατά μέσο όρο 3.000+ ιχνηλάτες ανά χρήστη, παρέχοντάς σας ασφαλή και γρήγορη πρόσβαση στο διαδίκτυο.
 july-jam-set-default-primary = Άνοιγμα συνδέσμων με το { -brand-short-name }
 fox-doodle-pin-headline = Καλώς ορίσατε και πάλι
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Ακολουθεί μια γρήγορη υπενθύμιση ότι μπορείτε να έχετε το αγαπημένο σας, ανεξάρτητο πρόγραμμα περιήγησης μόνο ένα κλικ μακριά.
 fox-doodle-pin-primary = Άνοιγμα συνδέσμων με το { -brand-short-name }
 fox-doodle-pin-secondary = Όχι τώρα
 
@@ -245,3 +248,19 @@ fox-doodle-pin-secondary = Όχι τώρα
 
 set-default-pdf-handler-headline = <strong>Τα PDF σας ανοίγουν πλέον στο { -brand-short-name }.</strong> Επεξεργαστείτε ή υπογράψτε φόρμες απευθείας από το πρόγραμμα περιήγησής σας. Για αλλαγή, αναζητήστε «PDF» στις ρυθμίσεις.
 set-default-pdf-handler-primary = Το κατάλαβα
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Νέα συσκευή στο μέλλον;
+fxa-sync-cfr-body = Βεβαιωθείτε ότι οι πιο πρόσφατοι σελιδοδείκτες, οι κωδικοί πρόσβασης και οι καρτέλες σας έρχονται μαζί σας κάθε φορά που ανοίγετε ένα νέο πρόγραμμα περιήγησης { -brand-product-name }.
+fxa-sync-cfr-primary = Μάθετε περισσότερα
+    .accesskey = Μ
+fxa-sync-cfr-secondary = Υπενθύμιση αργότερα
+    .accesskey = Υ
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Χρησιμοποιείτε παλαιότερη συσκευή;
+device-migration-fxa-spotlight-body = Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας για να βεβαιωθείτε ότι δεν θα χάσετε σημαντικές πληροφορίες, όπως σελιδοδείκτες και κωδικούς πρόσβασης –– ειδικά εάν μεταβείτε σε μια νέα συσκευή.
+device-migration-fxa-spotlight-primary-button = Δημιουργία αντιγράφων ασφαλείας δεδομένων
+device-migration-fxa-spotlight-link = Υπενθύμιση αργότερα
