@@ -2,23 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = Σχετικά με την καταγραφή
 about-logging-page-title = Διαχείριση καταγραφής
@@ -60,5 +43,6 @@ about-logging-invalid-output = Μη έγκυρη τιμή «{ $v }» για το
 about-logging-unknown-logging-preset = Άγνωστη προκαθορισμένη τιμή καταγραφής «{ $v }»
 about-logging-unknown-profiler-preset = Άγνωστη προκαθορισμένη τιμή καταγραφής σε προφίλ «{ $v }»
 about-logging-unknown-option = Άγνωστη επιλογή about:logging «{ $k }»
+about-logging-configuration-url-ignored = Αγνοήθηκε το URL ρυθμίσεων
 about-logging-file-and-profiler-override = Δεν είναι δυνατή η ταυτόχρονη επιβολή της εξόδου αρχείου και της παράκαμψης των επιλογών του εργαλείου προφίλ
 about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μέσω URL
