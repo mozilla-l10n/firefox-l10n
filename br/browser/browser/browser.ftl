@@ -163,6 +163,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Skrivit nebeutoc'h, kavit muioc'h: Klaskit war { $engineName } adalek ho parrenn chomlec'h.
 urlbar-search-tips-redirect-2 = Krogit ho klask er varrenn-chomlec'h evit gwelout alioù klask { $engineName } hag ho roll istor merdeiñ.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Aesoc'h e teu da vezañ ar c'hlask. Klaskit ober e seurt ma vefe resisoc'h an danvez a glaskit, amañ er varrenn enklask. Evit diskouez kentoc'h an URL e c'hallit mont el lodenn Enklask, e-barzh an arventennoù.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Dibabit ar verradenn-mañ evit kavout ar pezh a fell deoc'h buanoc’h.
@@ -1000,6 +1002,10 @@ refresh-blocked-allow =
 
 firefox-relay-offer-why-relay = { -relay-brand-name } a guzh ho chomlec'h postel gwirion evit ho kwareziñ rak ar fuadurioù roadennoù ha rak ar posteloù strobus.
 firefox-relay-offer-how-we-integrate = En ur genderc'hel e c'halloc'h genel { -relay-brand-short-name } maskloù nevez evit ho chomlec'h postel, war-eeun dre ho { -brand-shorter-name } merour gerioù-tremen.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Treuzkas a raimp an holl chomlec'hioù postel deus <strong>{ $sitename }</strong> da <strong>{ $useremail }</strong>.
 
 ## Popup Notification
 
