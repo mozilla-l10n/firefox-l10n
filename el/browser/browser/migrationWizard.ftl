@@ -104,6 +104,8 @@ migration-import-from-file-button-label = Επιλογή αρχείου
 migration-cancel-button-label = Ακύρωση
 migration-done-button-label = Τέλος
 migration-continue-button-label = Συνέχεια
+migration-wizard-import-browser-no-browsers = Το { -brand-short-name } δεν μπόρεσε να βρει προγράμματα που περιέχουν δεδομένα σελιδοδεικτών, ιστορικού ή κωδικών πρόσβασης.
+migration-wizard-import-browser-no-resources = Προέκυψε σφάλμα. Το { -brand-short-name } δεν μπορεί να βρει δεδομένα προς εισαγωγή από αυτό το προφίλ προγράμματος περιήγησης.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

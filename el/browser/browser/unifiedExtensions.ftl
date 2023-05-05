@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Αφαίρεση επέκτασης
 unified-extensions-context-menu-report-extension =
     .label = Αναφορά επέκτασης
+unified-extensions-context-menu-move-widget-up =
+    .label = Μετακίνηση πάνω
+unified-extensions-context-menu-move-widget-down =
+    .label = Μετακίνηση κάτω
