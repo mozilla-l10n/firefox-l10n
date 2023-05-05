@@ -430,5 +430,7 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Μια αλεπού χαιρετά στην οθόνη ενός φορητού υπολογιστή. Έχει συνδεθεί ένα ποντίκι στον φορητό υπολογιστή.
 onboarding-device-migration-title = Καλώς ορίσατε και πάλι!
 onboarding-device-migration-primary-button-label = Σύνδεση
