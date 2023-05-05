@@ -355,6 +355,7 @@ mr2022-onboarding-colorway-description-innovator = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴ
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-cta-text = { -brand-product-name } ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ <a data-l10n-name="download-label">ᱢᱤᱫᱴᱟᱹᱝ ᱰᱟᱣᱱᱞᱚᱰ ᱞᱤᱝᱠ ᱵᱷᱮᱡᱟ ᱡᱚᱝ ᱢᱮ</a>
 mr2022-onboarding-no-mobile-download-cta-text = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ { -brand-product-name } ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱾
 
 ## MR2022 Upgrade Dialog screens

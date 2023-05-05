@@ -102,18 +102,41 @@ search-results-help-link = ᱜᱚᱲᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ? <a data-l10n-n
 ## General Section
 
 startup-header = ᱮᱛᱦᱚᱵ
+always-check-default =
+    .label = ᱫᱤᱱ ᱜᱮ ᱧᱮᱞ ᱢᱮ ᱡᱩᱫᱤ { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱟᱱᱟ ᱥᱮ ᱵᱟᱝᱟ
+    .accesskey = y
 is-default = { -brand-short-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱟᱱᱟ
 is-not-default = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱝ ᱠᱟᱱᱟ
 set-as-my-default-browser =
     .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = D
+startup-restore-windows-and-tabs =
+    .label = ᱢᱟᱲᱟᱝ ᱡᱷᱚᱨᱠᱟ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+    .accesskey = s
+startup-restore-warn-on-quit =
+    .label = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱚᱸᱫ ᱡᱷᱚᱜ ᱟᱢ ᱦᱩᱥᱤᱭᱟᱹᱨ ᱢᱮᱭᱟᱭ
 disable-extension =
     .label = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
 preferences-data-migration-header = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱭ ᱢᱮ
+preferences-data-migration-description = { -brand-short-name } ᱨᱮ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ, ᱦᱤᱛᱟᱹᱞ. ᱟᱨ ᱟᱡ ᱛᱮ ᱯᱮᱨᱮᱡ ᱰᱟᱴᱟ ᱠᱚ ᱟᱹᱜᱩᱭ ᱢᱮ ᱾
 preferences-data-migration-button =
     .label = ᱰᱟᱴᱟ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟ
     .accesskey = m
 tabs-group-header = ᱴᱮᱵᱽ ᱠᱚ
+open-new-link-as-tabs =
+    .label = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱵᱟᱝ ᱠᱟᱛᱮ ᱴᱮᱵᱽ ᱠᱚᱨᱮ ᱞᱤᱝᱠ ᱠᱚ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+    .accesskey = w
+confirm-on-close-multiple-tabs =
+    .label = ᱟᱭᱢᱟᱸ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫ ᱢᱟᱲᱟᱝ ᱨᱮ ᱴᱷᱟᱹᱣᱠᱟᱹᱜ ᱢᱮ
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = { $quitKey } ᱥᱟᱞᱟᱜ ᱵᱚᱸᱫ ᱢᱟᱲᱟᱝ ᱨᱮ ᱴᱷᱟᱹᱣᱠᱟᱹᱜ ᱢᱮ
+    .accesskey = b
 show-tabs-in-taskbar =
     .label = ᱡᱷᱚᱨᱠᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱨ ᱨᱮ ᱴᱮᱵᱽ ᱢᱟᱲᱟᱝ ᱛᱮᱭᱟᱜ ᱧᱮᱞ ᱩᱫᱩᱜ ᱢᱮ
     .accesskey = k
@@ -300,6 +323,7 @@ update-application-version = ᱵᱷᱚᱨᱥᱚᱱ { $version } <a data-l10n-nam
 update-history =
     .label = ᱦᱟᱹᱞᱤ ᱨᱟᱠᱟᱵ ᱦᱤᱛᱟᱹᱞ ᱩᱫᱩᱜ ᱢᱮ…
     .accesskey = p
+update-application-allow-description = ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭᱮᱢ
 update-application-use-service =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱚᱱᱚᱲ ᱠᱟᱹᱢᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = b
