@@ -249,3 +249,19 @@ fox-doodle-pin-secondary = Most nem
 
 set-default-pdf-handler-headline = <strong>A PDF-jei mostantól a { -brand-short-name }szal nyílnak meg.</strong> Szerkessze vagy írja alá az űrlapokat közvetlenül a böngészőjében. A módosításhoz keressen a „PDF” kifejezésre a beállításokban.
 set-default-pdf-handler-primary = Megértettem
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Új eszköz a jövőben?
+fxa-sync-cfr-body = Győződjön meg arról, hogy a legfrissebb könyvjelzőit, jelszavait és lapjait magával viszi, amikor új { -brand-product-name } böngészőt nyit meg.
+fxa-sync-cfr-primary = További tudnivalók
+    .accesskey = T
+fxa-sync-cfr-secondary = Figyelmeztetés később
+    .accesskey = F
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Régebbi eszközt használ?
+device-migration-fxa-spotlight-body = Készítsen biztonsági mentést az adatairól, hogy ne veszítsen el olyan fontos információkat, mint a könyvjelzők és a jelszavak – különösen, ha új eszközre vált.
+device-migration-fxa-spotlight-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
+device-migration-fxa-spotlight-link = Figyelmeztetés később
