@@ -671,6 +671,10 @@ forms-exceptions =
     .accesskey = x
 forms-breach-alerts-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 relay-integration-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = ᱟᱡ ᱛᱮ ᱵᱚᱞᱚ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱯᱮᱨᱮᱡ ᱢᱮ
+    .accesskey = i
 forms-saved-logins =
     .label = ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ …
     .accesskey = L
@@ -936,6 +940,7 @@ space-alert-over-5gb-settings-button =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = ᱠᱷᱟᱹᱞᱤᱼHTTPS ᱢᱳᱰ
 httpsonly-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## DoH Section
