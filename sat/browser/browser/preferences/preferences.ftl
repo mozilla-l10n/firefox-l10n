@@ -633,9 +633,15 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱚᱫᱚᱞ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
 forms-windows-sso-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+forms-windows-sso-desc = ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱨᱮ ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = ᱢᱤᱫᱴᱟᱹᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱢᱮ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -740,11 +746,21 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-social-media-trackers = ᱥᱟᱸᱣᱛᱟ ᱢᱤᱰᱤᱭᱟ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ
+content-blocking-all-cookies = ᱡᱷᱚᱛᱚ ᱠᱩᱠᱤ ᱠᱚ
+content-blocking-unvisited-cookies = ᱵᱟᱝ ᱦᱤᱨᱤᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ ᱠᱷᱚᱱ ᱠᱩᱩᱠᱤ ᱠᱚ
+content-blocking-all-windows-tracking-content = ᱡᱷᱚᱛᱚ ᱣᱤᱱᱰᱚ ᱨᱮ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱡᱤᱱᱤᱥ ᱠᱚ
+content-blocking-all-third-party-cookies = ᱡᱷᱚᱛᱚ ᱛᱮᱥᱟᱨ ᱯᱟᱴᱤ ᱠᱩᱠᱤᱡᱽ
+content-blocking-all-cross-site-cookies = ᱡᱷᱚᱛᱚ ᱥᱟᱭᱤᱨᱼᱵᱟᱨᱯᱟᱦᱴᱟ ᱠᱩᱠᱤᱡᱽ ᱠᱚ
+content-blocking-cryptominers = ᱠᱨᱭᱯᱴᱚᱢᱟᱭᱱᱟᱹᱨ
+content-blocking-fingerprinters = ᱠᱟᱹᱴᱩᱵᱪᱷᱟᱯᱟ ᱟᱜ
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+content-blocking-warning-title = ᱵᱚᱦᱚ ᱪᱚᱴ ᱯᱮ!
 content-blocking-warning-learn-how = ᱪᱮᱫᱢᱮ ᱚᱠᱟᱞᱠᱟ
+content-blocking-reload-description = ᱱᱚᱶᱟ ᱵᱮᱵᱚᱥᱛᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱟᱢᱟᱜ ᱴᱟᱵᱽ ᱠᱚ ᱨᱤᱞᱚᱰ ᱞᱟᱹᱠᱛᱤᱭᱟᱢᱟ ᱾
 content-blocking-reload-tabs-button =
     .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱞᱟᱫᱮ ᱢᱮ
     .accesskey = R
@@ -775,6 +791,9 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = ᱮᱠᱥᱮᱯᱥᱚᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ …
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -783,9 +802,20 @@ permissions-location = ᱡᱟᱭᱜᱟ
 permissions-location-settings =
     .label = ᱥᱟᱡᱟᱣᱠᱚ…
     .accesskey = t
+permissions-xr = ᱵᱷᱟᱨᱛᱩᱣᱟᱞ ᱨᱮᱭᱟᱞᱤᱴᱤ
+permissions-xr-settings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
+    .accesskey = t
+permissions-camera = ᱠᱮᱢᱨᱟ
+permissions-camera-settings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
+    .accesskey = t
+permissions-microphone = ᱢᱟᱭᱠᱨᱚᱯᱷᱳᱱ
 permissions-microphone-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = ᱥᱯᱤᱠᱚᱨ ᱵᱟᱪᱷᱟᱣ
 permissions-speaker-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = t
@@ -794,6 +824,9 @@ permissions-notification-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = t
 permissions-notification-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+permissions-notification-pause =
+    .label = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱫᱷᱟᱹᱵᱤᱡ ᱠᱷᱚᱵᱚᱨ ᱛᱷᱩᱢ ᱛᱷᱟᱲ ᱢᱮ
+    .accesskey = n
 permissions-autoplay = ᱟᱡ ᱛᱮ ᱮᱱᱮᱡ
 permissions-autoplay-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
@@ -801,6 +834,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱟᱴᱠᱟᱣ
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
+    .accesskey = E
+    .searchkeywords = ᱴᱚᱴᱠᱟ ᱠᱚ
 permissions-addon-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = E
