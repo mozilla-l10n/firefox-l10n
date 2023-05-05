@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Thoir an leudachan air falbh
 unified-extensions-context-menu-report-extension =
     .label = Dèan aithris air an leudachan
+unified-extensions-context-menu-move-widget-up =
+    .label = Gluais suas
+unified-extensions-context-menu-move-widget-down =
+    .label = Gluais sìos

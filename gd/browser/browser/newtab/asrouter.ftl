@@ -253,3 +253,19 @@ fox-doodle-pin-secondary = Chan ann an-dràsta
 
 set-default-pdf-handler-headline = <strong>Thèid na PDFaichean agad fhosgladh ann am { -brand-short-name } a-nis.</strong> Deasaich no soidhnich foirmean sa bhrabhsair fhèin. Airson seo atharrachadh, lorg “PDF” sna roghainnean.
 set-default-pdf-handler-primary = Tha mi agaibh
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Uidheam ùr gu bhith agad?
+fxa-sync-cfr-body = Dèan cinnteach gun tig na comharran-lìn, faclan-faire is tabaichean cò riut uair sam bith a dh’fhosglas tu brabhsair { -brand-product-name } ùr.
+fxa-sync-cfr-primary = Barrachd fiosrachaidh
+    .accesskey = B
+fxa-sync-cfr-secondary = Cuir nam chuimhne an ceann greis
+    .accesskey = u
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = A bheil uidheam nas sine agad?
+device-migration-fxa-spotlight-body = Dèan lethbhreacan-glèidhidh dhen dàta agad a dhèanamh cinnteach nach caill thu fiosrachadh cudromach mar chomharran-lìn is faclan-faire – gu sònraichte nuair a ghluaiseas tu gu uidheam ùr.
+device-migration-fxa-spotlight-primary-button = Ciamar a nì mi lethbhreac-glèidhidh dhen dàta agam
+device-migration-fxa-spotlight-link = Cuir nam chuimhne an ceann greis
