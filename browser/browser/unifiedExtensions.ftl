@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = 移除擴充套件
 unified-extensions-context-menu-report-extension =
     .label = 回報擴充套件
+unified-extensions-context-menu-move-widget-up =
+    .label = 上移
+unified-extensions-context-menu-move-widget-down =
+    .label = 下移
