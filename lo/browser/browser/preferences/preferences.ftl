@@ -592,6 +592,9 @@ containers-header = ແທັບແຍກຂໍ້ມູນ
 containers-add-button =
     .label = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
     .accesskey = A
+containers-new-tab-check =
+    .label = ເລືອກກ່ອງບັນຈຸສໍາລັບແຕ່ລະແຖບໃຫມ່
+    .accesskey = S
 containers-settings-button =
     .label = ການຕັ້ງຄ່າ
 containers-remove-button =
@@ -647,10 +650,15 @@ sync-sign-in =
 
 prefs-syncing-on = ການຊິງຄ໌: ເປີດ
 prefs-syncing-off = ການຊິງຄ໌: ປິດ
+prefs-sync-turn-on-syncing =
+    .label = ເປີດການຊິງຄ໌...
+    .accesskey = s
 prefs-sync-offer-setup-label2 = ຊິ້ງຂໍ້ມູນບຸກມາກ, ປະຫວັດ, ແຖບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ ແລະການຕັ້ງຄ່າຂອງທ່ານໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = ຕອນນີ້ທ່ານກຳລັງຊິງຄ໌ລາຍການເຫຼົ່ານີ້:
+sync-syncing-across-devices-heading = ທ່ານກຳລັງຊິ້ງຂໍ້ມູນລາຍການເຫຼົ່ານີ້ໃນທົ່ວທຸກອຸປະກອນທີ່ເຊື່ອມຕໍ່ຂອງທ່ານ:
 sync-currently-syncing-bookmarks = ບຸກມາກ
 sync-currently-syncing-history = ປະຫວັດການໃຊ້ງານ
 sync-currently-syncing-tabs = ເປີດແທັບ
@@ -659,6 +667,9 @@ sync-currently-syncing-addresses = ທີ່ຢູ່
 sync-currently-syncing-creditcards = ບັດເຄດິດ
 sync-currently-syncing-addons = Add-ons
 sync-currently-syncing-settings = ການຕັ້ງຄ່າ
+sync-change-options =
+    .label = ປ່ຽນ...
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -733,6 +744,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້…
     .accesskey = L
+forms-primary-pw-use =
+    .label = ໃຊ້ລະຫັດຜ່ານຫຼັກ
+    .accesskey = U
 forms-primary-pw-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -740,6 +754,9 @@ forms-primary-pw-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 forms-master-pw-change =
     .label = ປ່ຽນລະຫັດຜ່ານຫຼັກ
     .accesskey = M
+forms-primary-pw-change =
+    .label = ປ່ຽນລະຫັດຜ່ານຫຼັກ...
+    .accesskey = P
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
@@ -859,6 +876,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ແທັບທີ່ເປີດຢູ່
     .accesskey = ປ
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = ທາງ​ລັດ
+    .accesskey = S
 addressbar-suggestions-settings = ປ່ຽນການຕັ້ງຄ່າສຳລັບຄຳແນະນຳເຄື່ອງມືການຊອກຫາ
 addressbar-quickactions-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 
@@ -975,6 +996,9 @@ collection-description = ພວກ​ເຮົາ​ພະ​ຍາ​ຍາມ�
 collection-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 collection-health-report-telemetry-disabled = ທ່ານບໍ່ສາມາດອະນຸຍາດໃຫ້ { -vendor-short-name } ບັນທຶກຂໍ້ມູນດ້ານວິຊາການ ແລະການໂຕ້ຕອບໄດ້ອີກຕໍ່ໄປ. ຂໍ້ມູນທີ່ຜ່ານມາທັງໝົດຈະຖືກລຶບພາຍໃນ 30 ມື້.
 collection-health-report-telemetry-disabled-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+collection-health-report =
+    .label = ອະນຸຍາດໃຫ້ { -brand-short-name } ສົ່ງຂໍ້ມູນດ້ານວິຊາການ ແລະການໂຕ້ຕອບໄປຫາ { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 collection-studies =
     .label = ອະນຸຍາດໃຫ້ { -brand-short-name } ຕິດຕັ້ງ ແລະດໍາເນີນການສຶກສາ
