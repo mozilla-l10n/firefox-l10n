@@ -36,3 +36,5 @@ mztabrow-add-bookmark = Adicionar aos favoritos…
     .accesskey = A
 mztabrow-save-to-pocket = Salvar no { -pocket-brand-name }
     .accesskey = o
+mztabrow-copy-link = Copiar link
+    .accesskey = l
