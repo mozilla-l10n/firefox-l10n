@@ -3,14 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
+tabbrowser-empty-private-tab-title = ᱱᱟᱶᱟ ᱯᱨᱟᱭᱣᱮᱴ ᱴᱮᱵᱽ
 tabbrowser-menuitem-close-tab =
     .label = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 tabbrowser-menuitem-close =
     .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+# Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } — { $containerName }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+            [two] { $tabCount } ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -24,13 +35,23 @@ tabbrowser-confirm-close-tabs-button = ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ �
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] ᱵᱚᱸᱫ ᱟᱨ ᱵᱟᱹᱜᱤ ᱢᱮ
+       *[other] ᱵᱚᱸᱫ ᱟᱨ ᱵᱟᱹᱜᱤ ᱢᱮ
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } ᱵᱟᱹᱜᱤ ᱢᱮ
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } ᱥᱟᱞᱟᱜ ᱵᱚᱸᱫ ᱢᱟᱲᱟᱝ ᱨᱮ ᱴᱷᱟᱹᱣᱠᱟᱹᱜ ᱢᱮ
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = ᱩᱫᱩᱜ ᱴᱷᱟᱹᱣᱠᱟᱹᱭ ᱢᱮ
 tabbrowser-confirm-open-multiple-tabs-button = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
 
 ## Confirmation dialog for enabling caret browsing
