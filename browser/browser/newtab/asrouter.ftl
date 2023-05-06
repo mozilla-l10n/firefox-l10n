@@ -246,3 +246,19 @@ fox-doodle-pin-secondary = Không phải bây giờ
 
 set-default-pdf-handler-headline = <strong>Các tập tin PDF của bạn bây giờ mở trong { -brand-short-name }.</strong> Chỉnh sửa hoặc ký biểu mẫu trực tiếp trong trình duyệt của bạn. Để thay đổi, tìm kiếm “PDF” trong cài đặt.
 set-default-pdf-handler-primary = Đã hiểu
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Thiết bị mới trong tương lai của bạn?
+fxa-sync-cfr-body = Đảm bảo các dấu trang, mật khẩu và thẻ mới nhất luôn đi cùng bạn bất cứ khi nào bạn mở trình duyệt { -brand-product-name } mới.
+fxa-sync-cfr-primary = Tìm hiểu thêm
+    .accesskey = L
+fxa-sync-cfr-secondary = Nhắc tôi sau
+    .accesskey = R
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Sử dụng thiết bị cũ hơn?
+device-migration-fxa-spotlight-body = Sao lưu dữ liệu của bạn để đảm bảo bạn không bị mất thông tin quan trọng như dấu trang và mật khẩu –– đặc biệt nếu bạn chuyển sang một thiết bị mới.
+device-migration-fxa-spotlight-primary-button = Cách sao lưu dữ liệu của tôi
+device-migration-fxa-spotlight-link = Nhắc tôi sau

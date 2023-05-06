@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (không tiêu đề)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Vì lý do bảo mật, không thể tải các URL “javascript:” hoặc “data:” từ cửa sổ lịch sử hoặc thanh lề.
 places-bookmarks-backup-title = Tên tập tin sao lưu dấu trang
 places-bookmarks-restore-alert-title = Khôi phục dấu trang
 places-bookmarks-restore-alert = Việc này sẽ ghi đè tất cả các dấu trang hiện thời của bạn. Bạn có chắc không?
