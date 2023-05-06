@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Remove Extension
 unified-extensions-context-menu-report-extension =
     .label = Report Extension
+unified-extensions-context-menu-move-widget-up =
+    .label = Move Up
+unified-extensions-context-menu-move-widget-down =
+    .label = Move Down
