@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protections-panel-sendreportview-error = ᱱᱚᱣᱟ ᱠᱷᱚᱵᱚᱨ ᱚᱰᱚᱠ ᱨᱮ ᱢᱤᱫ ᱜᱷᱚᱴᱚᱱ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾ ᱛᱟᱭᱚᱢ ᱛᱮ ᱟᱨᱦᱚᱸ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = ᱥᱟᱭᱤᱴ ᱴᱷᱤᱠ ᱮᱱᱟ ᱥᱮ ? ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
