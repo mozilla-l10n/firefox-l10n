@@ -1255,6 +1255,7 @@ preferences-doh-setting-default =
     .accesskey = d
 preferences-doh-default-desc = { -brand-short-name } decidís quant utilizar lo DNS segur per protegir vòstra vida privada.
 preferences-doh-default-detailed-desc-1 = Utilizar lo DNS segur dins las regions ont es disponible
+preferences-doh-default-detailed-desc-3 = Utilizar un provesidor local, se possible
 preferences-doh-setting-enabled =
     .label = Proteccion espandida
     .accesskey = e
