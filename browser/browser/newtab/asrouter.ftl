@@ -247,6 +247,14 @@ set-default-pdf-handler-primary = 明白了
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = 您未来的新设备？
+fxa-sync-cfr-primary = 详细了解
+    .accesskey = L
+fxa-sync-cfr-secondary = 稍后提醒我
+    .accesskey = R
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = 使用的是旧设备？
+device-migration-fxa-spotlight-primary-button = 如何备份数据
+device-migration-fxa-spotlight-link = 稍后提醒我
