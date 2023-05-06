@@ -231,6 +231,20 @@ quickactions-addons = Vezi suplimentele
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestionează extensiile
 quickactions-cmd-extensions = extensii
+quickactions-cmd-refresh = reîmprospătează
+# Restarts the browser
+quickactions-restart = Repornește { -brand-short-name }
+quickactions-cmd-restart = repornește
+# Opens the screenshot tool
+quickactions-screenshot3 = Realizează o captură de ecran
+# Opens about:addons page in the themes section
+quickactions-themes = Gestionează temele
+quickactions-cmd-themes = teme
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Vezi sursa paginii
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Află mai multe despre acțiunile rapide
 
 ## Bookmark Panel
 
@@ -452,6 +466,9 @@ urlbar-result-action-search-tabs = Caută file
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Acțiuni rapide
 
 ## Reader View toolbar buttons
 

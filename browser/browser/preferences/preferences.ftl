@@ -119,6 +119,11 @@ startup-restore-warn-on-quit =
     .label = Avertizează la închiderea browserului
 disable-extension =
     .label = Dezactivează extensia
+preferences-data-migration-header = Importă date dintr-un browser
+preferences-data-migration-description = Importă marcajele, parolele, istoricul și date de completare automată în { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Importă date
+    .accesskey = m
 tabs-group-header = File
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab parcurge filele în ordinea celor mai recent folosite
@@ -912,6 +917,9 @@ sitedata-cookies-exceptions =
     .label = Gestionează excepțiile…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Bară de adresă
@@ -935,6 +943,9 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motoare de căutare
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Acțiuni rapide
+    .accesskey = Q
 addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
 addressbar-quickactions-learn-more = Află mai multe
 
@@ -1142,6 +1153,14 @@ httpsonly-radio-enabled-pbm =
     .label = Activează modul numai HTTPS doar în ferestrele private
 httpsonly-radio-disabled =
     .label = Nu activa modul numai HTTPS
+
+## DoH Section
+
+preferences-doh-header = DNS prin HTTPS
+preferences-doh-description = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Furnizor: { $name }
 
 ## The following strings are used in the Download section of settings
 
