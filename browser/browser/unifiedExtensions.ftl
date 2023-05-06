@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Выдаліць пашырэнне
 unified-extensions-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
+unified-extensions-context-menu-move-widget-up =
+    .label = Рухаць угору
+unified-extensions-context-menu-move-widget-down =
+    .label = Рухаць уніз
