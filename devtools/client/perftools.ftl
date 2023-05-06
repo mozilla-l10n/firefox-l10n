@@ -7,12 +7,14 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Nastavení nástroje na měření výkonu
 perftools-intro-description =
     Nahrávání spustí v novém panelu profiler.firefox.com. Všechna data jsou
     ukládána lokálně na vašem počítači, ale můžete se rozhodnout je sdílet.
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Plné nastavení
 perftools-heading-buffer = Nastavení vyrovnávací paměti
 perftools-heading-features = Funkce
 perftools-heading-features-default = Funkce (ve výchozím nastavení doporučeno)
@@ -50,6 +52,7 @@ perftools-devtools-settings-label = Nastavení
 ##
 
 perftools-button-start-recording = Spustit nahrávání
+perftools-button-save-settings = Uložit nastavení a přejít zpět
 perftools-button-restart = Restartovat
 perftools-button-add-directory = Přidat adresář
 perftools-button-remove-directory = Odebrat vybrané

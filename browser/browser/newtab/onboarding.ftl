@@ -377,6 +377,11 @@ mr2022-onboarding-existing-pin-header =
         [with-cases] Děkujeme, že máte rádi { -brand-product-name(case: "acc") }
        *[no-cases] Děkujeme, že máte rádi aplikaci { -brand-product-name }
     }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Spusťte zdravější internet odkudkoli jediným klepnutím. Naše nejnovější aktualizace je plná nových věcí, o kterých si myslíme, že si je zamilujete.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Používejte prohlížeč, který chrání vaše soukromí při procházení webu. Naše nejnovější aktualizace je plná věcí, které si zamilujete.
 
 ## MR2022 New User Set Default screen strings
 
@@ -509,3 +514,4 @@ onboarding-infrequent-import-primary-button =
 ## Device migration onboarding
 
 onboarding-device-migration-title = Vítejte zpět!
+onboarding-device-migration-primary-button-label = Přihlásit se
