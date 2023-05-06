@@ -29,6 +29,9 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱦᱩᱭᱮᱱᱟ
+screenshots-notification-image-copied-title = ᱥᱠᱨᱤᱱᱥᱚᱴ ᱱᱚᱠᱚᱞ ᱮᱱᱟ
+screenshots-empty-selection-error-title = ᱟᱢᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱫᱚ ᱟᱹᱰᱤ ᱦᱩᱰᱤᱧ ᱜᱮᱭᱟ
+screenshots-private-window-error-title = { -screenshots-brand-name } ᱫᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱳᱰ ᱨᱮ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
 screenshots-generic-error-title = ᱴᱤᱜ ᱴᱚᱲᱚᱜ! { -screenshots-brand-name } ᱫᱚ ᱠᱷᱟᱨᱟᱯ ᱜᱮ ᱚᱰᱚᱠ ᱮᱱᱟ ᱾
 screenshots-generic-error-details = ᱪᱮᱫ ᱦᱩᱭ ᱞᱮᱱᱟ ᱚᱱᱟ ᱵᱟᱞᱮ ᱵᱟᱲᱟᱭ ᱫᱟᱲᱮᱭᱟᱫ ᱟ ᱾ ᱫᱩᱦᱲᱟᱹ ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱟᱨ ᱟᱵᱝ ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱥᱚᱴ ᱤᱫᱤ ᱢᱮ ?
 screenshots-too-large-error-title = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱫᱚ ᱟᱹᱰᱤ ᱢᱟᱨᱟᱝ ᱠᱷᱟᱹᱛᱤᱨ ᱠᱷᱟᱴᱚ ᱟᱠᱟᱱᱟ

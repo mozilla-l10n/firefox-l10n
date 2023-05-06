@@ -6,7 +6,9 @@ fxa-toolbar-sync-syncing2 = ᱥᱤᱝᱠ ᱦᱩᱭᱩ ᱠᱟᱱᱟ...
 sync-disconnect-dialog-title2 = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜᱟᱢ ?
 sync-disconnect-dialog-button = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜ
 fxa-signout-dialog2-title = { -fxaccount-brand-name } ᱠᱷᱚᱱ ᱚᱰᱚᱠᱚᱜ ᱟᱢ ᱥᱮ ?
+fxa-signout-dialog-body = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱰᱟᱴᱟ ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱛᱟᱦᱮᱱ ᱟ ᱾
 fxa-signout-dialog2-button = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
+fxa-signout-dialog2-checkbox = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ (ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, ᱦᱤᱛᱟᱹᱞ, ᱵᱵᱩᱩᱠᱢᱟᱨᱠ ᱠᱚ, etc.)
 fxa-menu-sync-settings =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱥᱟᱡᱟᱣ ᱠᱚ
 fxa-menu-turn-on-sync =
@@ -17,5 +19,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱛᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱱ ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱮᱵᱽ ᱴᱟᱴᱠᱟ ᱥᱟᱹᱦᱤᱡ ᱵᱷᱮᱡᱟᱭ ᱢᱮ ᱾
 fxa-menu-sign-out =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ…
