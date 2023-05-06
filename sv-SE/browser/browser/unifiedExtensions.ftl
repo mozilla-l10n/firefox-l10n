@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Ta bort tillägg
 unified-extensions-context-menu-report-extension =
     .label = Rapportera tillägg
+unified-extensions-context-menu-move-widget-up =
+    .label = Flytta upp
+unified-extensions-context-menu-move-widget-down =
+    .label = Flytta ner
