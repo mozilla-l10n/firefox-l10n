@@ -745,11 +745,30 @@ history-clear-button =
 
 sitedata-header = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ
 sitedata-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+sitedata-allow-cookies-option =
+    .label = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱭ ᱢᱮ
+    .accesskey = A
+sitedata-option-block-cross-site-trackers =
+    .label = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱩ
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ
+sitedata-option-block-unvisited =
+    .label = ᱵᱟᱝ ᱦᱤᱨᱤᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱠᱩᱠᱤ ᱠᱚ
+sitedata-option-block-all-third-party =
+    .label = ᱡᱷᱚᱛᱚ ᱯᱮᱼᱯᱟᱨᱴᱤ ᱠᱩᱩᱠᱤ ᱠᱚ (ᱱᱚᱶᱟ ᱫᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱟᱹᱯᱩᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ)
+sitedata-option-block-all-cross-site-cookies =
+    .label = ᱡᱷᱚᱛᱚ ᱠᱨᱚᱥ ᱥᱟᱭᱤᱴ ᱠᱩᱩᱠᱤ ᱠᱚ (ᱱᱚᱶᱟ ᱫᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱟᱹᱯᱩᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ)
 sitedata-option-block-all =
     .label = ᱠᱷᱚᱛᱚ ᱠᱩᱩᱠᱤ ᱠᱚ (ᱱᱚᱶᱟ ᱫᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱟᱹᱯᱩᱫᱟᱭ)
 sitedata-clear =
     .label = ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ…
     .accesskey = l
+sitedata-settings =
+    .label = ᱰᱟᱴᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ…
+    .accesskey = M
+sitedata-cookies-exceptions =
+    .label = ᱮᱠᱥᱮᱯᱥᱚᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ …
+    .accesskey = x
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -761,6 +780,7 @@ forms-handle-cookie-banners =
 ## Privacy Section - Address Bar
 
 addressbar-header = ᱴᱷᱤᱠᱟᱹᱱᱟ ᱦᱩᱨᱠᱟᱹᱬ
+addressbar-suggest = ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱡᱷᱚᱜ, ᱵᱟᱛᱟᱣ ᱢᱮ
 addressbar-locbar-history-option =
     .label = ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
     .accesskey = h
@@ -783,6 +803,7 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = ᱞᱚᱜᱚᱱ ᱛᱮᱭᱟ ᱠᱚᱢᱤ
     .accesskey = Q
+addressbar-suggestions-settings = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱛᱟᱣ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱥᱤᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
 addressbar-quickactions-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Privacy Section - Content Blocking
@@ -806,6 +827,8 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-blocking-desc = { -brand-short-name } ᱫᱚ ᱱᱚᱶᱟ ᱠᱚ ᱵᱞᱚᱠᱟᱭ ᱺ
+content-blocking-private-windows = ᱯᱨᱟᱭᱣᱚᱴ ᱣᱤᱱᱰᱚ ᱨᱮ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱡᱤᱱᱤᱥ ᱠᱚ
 content-blocking-social-media-trackers = ᱥᱟᱸᱣᱛᱟ ᱢᱤᱰᱤᱭᱟ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ
 content-blocking-all-cookies = ᱡᱷᱚᱛᱚ ᱠᱩᱠᱤ ᱠᱚ
 content-blocking-unvisited-cookies = ᱵᱟᱝ ᱦᱤᱨᱤᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ ᱠᱷᱚᱱ ᱠᱩᱩᱠᱤ ᱠᱚ
