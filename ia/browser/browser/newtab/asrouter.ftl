@@ -253,6 +253,7 @@ set-default-pdf-handler-primary = Comprendite
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Nove apparato in tu futuro?
+fxa-sync-cfr-body = Verifica que tu ultime marcapaginas, contrasignos, e schedas veni con te quandocunque tu aperi un nove navigator { -brand-product-name }.
 fxa-sync-cfr-primary = Pro saper plus
     .accesskey = s
 fxa-sync-cfr-secondary = Rememora me plus tarde
@@ -261,5 +262,6 @@ fxa-sync-cfr-secondary = Rememora me plus tarde
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Usa tu un apparato plus vetule?
+device-migration-fxa-spotlight-body = Preserva tu datos pro assecurar te que tu non perde importante info como marcapaginas e contrasignos, specialmente si tu passa a un nove apparato.
 device-migration-fxa-spotlight-primary-button = Como reservar mi datos
 device-migration-fxa-spotlight-link = Rememora me plus tarde
