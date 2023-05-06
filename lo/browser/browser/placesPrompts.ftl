@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (ບໍ່ມີຫົວຂໍ້)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = ສໍາລັບເຫດຜົນດ້ານຄວາມປອດໄພ, "javascript:" ຫຼື "data:" URLs ບໍ່ສາມາດໂຫລດຈາກຫນ້າຕ່າງປະຫວັດສາດ ຫຼື ແຖບຂ້າງ.
 places-bookmarks-backup-title = ຊື່ໄຟລ໌ການສຳຮອງຂໍ້ມູນບຸກມາກ
 places-bookmarks-restore-alert-title = ກູ້ຄືນບຸກມາກ
 places-bookmarks-restore-alert = ນີ້ຈະແທນທີ່ບຸກມາກປະຈຸບັນທັງຫມົດຂອງທ່ານດ້ວຍຂໍ້ມູນສຳຮອງ. ທ່ານແນ່ໃຈບໍ່?

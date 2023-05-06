@@ -235,3 +235,19 @@ fox-doodle-pin-secondary = ບໍ່ແມ່ນຕອນນີ້
 
 set-default-pdf-handler-headline = <strong>ໄຟລ໌ PDF ຂອງເຈົ້າຕອນນີ້ເປີດຢູ່ໃນ { -brand-short-name }.</strong> ແກ້ໄຂ ຫຼືເຊັນແບບຟອມໂດຍກົງໃນໂປຣແກຣມທ່ອງເວັບຂອງເຈົ້າ. ເພື່ອປ່ຽນແປງ, ຊອກຫາ "PDF" ໃນການຕັ້ງຄ່າ.
 set-default-pdf-handler-primary = ເຂົ້າໃຈແລ້ວ!
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = ອຸປະກອນໃຫມ່ໃນອະນາຄົດຂອງເຈົ້າບໍ?
+fxa-sync-cfr-body = ໃຫ້ແນ່ໃຈວ່າບຸກມາກ, ລະຫັດຜ່ານ ແລະ ແຖບຫຼ້າສຸດຂອງທ່ານມາກັບທ່ານທຸກຄັ້ງທີ່ທ່ານເປີດບຣາວເຊີ { -brand-product-name } ໃໝ່.
+fxa-sync-cfr-primary = ຮຽນຮູ້ເພີ່ມເຕີມ
+    .accesskey = L
+fxa-sync-cfr-secondary = ເຕືອນຂ້ອຍໃນພາຍຫຼັງ
+    .accesskey = R
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = ໃຊ້ອຸປະກອນເກົ່າບໍ?
+device-migration-fxa-spotlight-body = ສຳຮອງຂໍ້ມູນຂອງທ່ານເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານຈະບໍ່ເສຍຂໍ້ມູນສຳຄັນເຊັ່ນ: ບຸກມາກ ແລະ ລະຫັດຜ່ານ –– ໂດຍສະເພາະຫາກທ່ານປ່ຽນໄປໃຊ້ອຸປະກອນໃໝ່.
+device-migration-fxa-spotlight-primary-button = ວິ​ທີ​ການ​ສໍາ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ​
+device-migration-fxa-spotlight-link = ເຕືອນຂ້ອຍໃນພາຍຫຼັງ
