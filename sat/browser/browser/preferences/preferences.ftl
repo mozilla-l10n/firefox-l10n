@@ -829,6 +829,11 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-blocking-desc = { -brand-short-name } ᱫᱚ ᱱᱚᱶᱟ ᱠᱚ ᱵᱞᱚᱠᱟᱭ ᱺ
 content-blocking-private-windows = ᱯᱨᱟᱭᱣᱚᱴ ᱣᱤᱱᱰᱚ ᱨᱮ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱡᱤᱱᱤᱥ ᱠᱚ
+content-blocking-cross-site-cookies-in-all-windows = ᱡᱷᱚᱛᱚ ᱣᱤᱱᱰᱚ ᱨᱮ ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱠᱩᱠᱤ (ᱯᱟᱧᱡᱟ ᱠᱩᱠᱤ ᱥᱟᱶᱛᱮ)
+content-blocking-cross-site-cookies-in-all-windows2 = ᱡᱷᱚᱛᱚ ᱣᱤᱱᱰᱚ ᱨᱮ ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱠᱩᱠᱤ
+content-blocking-cross-site-tracking-cookies = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ
+content-blocking-all-cross-site-cookies-private-windows = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚ ᱨᱮ ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱠᱩᱠᱤ
+content-blocking-cross-site-tracking-cookies-plus-isolate = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ, ᱟᱨ ᱵᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱠᱩᱠᱤ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱢᱮ
 content-blocking-social-media-trackers = ᱥᱟᱸᱣᱛᱟ ᱢᱤᱰᱤᱭᱟ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ
 content-blocking-all-cookies = ᱡᱷᱚᱛᱚ ᱠᱩᱠᱤ ᱠᱚ
 content-blocking-unvisited-cookies = ᱵᱟᱝ ᱦᱤᱨᱤᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ ᱠᱷᱚᱱ ᱠᱩᱩᱠᱤ ᱠᱚ
@@ -837,6 +842,13 @@ content-blocking-all-third-party-cookies = ᱡᱷᱚᱛᱚ ᱛᱮᱥᱟᱨ ᱯ�
 content-blocking-all-cross-site-cookies = ᱡᱷᱚᱛᱚ ᱥᱟᱭᱤᱨᱼᱵᱟᱨᱯᱟᱦᱴᱟ ᱠᱩᱠᱤᱡᱽ ᱠᱚ
 content-blocking-cryptominers = ᱠᱨᱭᱯᱴᱚᱢᱟᱭᱱᱟᱹᱨ
 content-blocking-fingerprinters = ᱠᱟᱹᱴᱩᱵᱪᱷᱟᱯᱟ ᱟᱜ
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label =
+        ᱟᱞᱮᱭᱟᱜ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ
+        ᱱᱤᱥᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱮᱵᱷᱟᱨ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+    .accesskey = T
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -935,6 +947,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } ᱰᱟᱴᱟ ᱡᱟᱣᱨᱟ ᱟᱨ ᱵᱮᱵᱷᱟᱨ
 collection-health-report-telemetry-disabled-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 collection-health-report-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+collection-studies-link = { -brand-short-name } ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱧᱮᱞ ᱢᱮ
 addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Privacy Section - Security
@@ -968,6 +981,13 @@ httpsonly-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## DoH Section
 
+preferences-doh-header = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = ᱫᱚᱥᱟ : { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = ᱮᱢᱚᱜᱤᱡᱺ { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = ᱵᱟᱝ ᱵᱟᱛᱟᱣ URL
