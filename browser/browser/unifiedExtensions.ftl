@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Xóa tiện ích
 unified-extensions-context-menu-report-extension =
     .label = Báo cáo tiện ích
+unified-extensions-context-menu-move-widget-up =
+    .label = Di chuyển lên
+unified-extensions-context-menu-move-widget-down =
+    .label = Di chuyển xuống
