@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (无标题)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = 基于安全因素，“javascript:”及“data:”URL 不会在历史记录窗口或者侧栏中加载。
 places-bookmarks-backup-title = 书签备份文件名
 places-bookmarks-restore-alert-title = 恢复书签
 places-bookmarks-restore-alert = 此操作将用备份的书签覆盖您当前的书签，确定？
