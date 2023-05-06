@@ -946,7 +946,6 @@ content-blocking-unvisited-cookies = Cookies de sitios non visitados
 content-blocking-all-windows-tracking-content = Rastrexo de contido en todas as xanelas
 content-blocking-all-third-party-cookies = Todas as cookies de terceiros
 content-blocking-cryptominers = Criptomineiros
-content-blocking-fingerprinters = Pegadas dixitais
 # "Test pilot" is used as a verb. Possible alternatives:
 # "Be the first to try", "Join an early experiment".
 content-blocking-etp-standard-tcp-rollout-checkbox =
