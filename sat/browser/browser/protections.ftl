@@ -42,6 +42,7 @@ monitor-no-breaches-title = ᱵᱮᱥ ᱠᱷᱚᱵᱚᱨ!
 monitor-partial-breaches-percentage = { $percentageResolved }% ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 monitor-partial-breaches-motivation-title-start = ᱟᱹᱰᱤ ᱵᱮᱥ ᱮᱛᱦᱚᱵ!
 monitor-partial-breaches-motivation-title-middle = ᱞᱟᱜᱟᱣ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
+monitor-partial-breaches-motivation-title-end = ᱦᱩᱭᱮᱱ ᱜᱮᱭᱟ! ᱞᱟᱜᱟᱣ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ ᱾
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
