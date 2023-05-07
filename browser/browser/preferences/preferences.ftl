@@ -743,6 +743,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Los elements seguents son actualament sincronizats :
+sync-syncing-across-devices-heading = Actualament sincronizatz aquestes elements entre totes vòstres aparelhs connectats :
 sync-currently-syncing-bookmarks = Marcapaginas
 sync-currently-syncing-history = Istoric
 sync-currently-syncing-tabs = Onglets dobèrts

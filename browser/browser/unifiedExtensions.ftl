@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Suprimir l’extension
 unified-extensions-context-menu-report-extension =
     .label = Senhalar l’extension
+unified-extensions-context-menu-move-widget-up =
+    .label = Montar
+unified-extensions-context-menu-move-widget-down =
+    .label = Davalar
