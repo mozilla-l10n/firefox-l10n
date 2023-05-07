@@ -1252,6 +1252,7 @@ preferences-doh-status-not-active = Белсенді емес ({ $reason })
 preferences-doh-expand-section =
     .tooltiptext = Көбірек ақпарат
 preferences-doh-default-detailed-desc-3 = Мүмкін болса, жергілікті провайдерді пайдалану
+preferences-doh-enabled-detailed-desc-1 = Сіз тандаған провайдерді пайдалану
 preferences-doh-setting-strict =
     .label = Максималды қорғаныс
     .accesskey = М
