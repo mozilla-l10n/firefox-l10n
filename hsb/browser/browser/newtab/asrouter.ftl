@@ -259,6 +259,7 @@ set-default-pdf-handler-primary = Sym zrozumił
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Nowy grat we wašim přichodźe?
+fxa-sync-cfr-body = Zawěsćće, zo maće swoje najnowše zapołožki, hesła a rajtarki kóždy raz ze sobu, hdyž nowy wobhladowak { -brand-product-name } wočinjeće.
 fxa-sync-cfr-primary = Dalše informacije
     .accesskey = D
 fxa-sync-cfr-secondary = Pozdźišo dopomnić
@@ -267,4 +268,6 @@ fxa-sync-cfr-secondary = Pozdźišo dopomnić
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = StaršI grat wužiwać?
+device-migration-fxa-spotlight-body = Zawěsćće swoje daty, zo njebyšće wažne informacije kaž zapołožki a hesła zhubił –– předewšěm, jeli k nowemu gratej přeńdźeće.
+device-migration-fxa-spotlight-primary-button = Kak móžu swoje daty zawěsćić
 device-migration-fxa-spotlight-link = Pozdźišo dopomnić
