@@ -248,3 +248,16 @@ fox-doodle-pin-secondary = Ikkje no
 
 set-default-pdf-handler-headline = <strong>PDF-filene dine vert no opna i { -brand-short-name }.</strong> Rediger eller fyll ut skjema direkte i nettlesaren din. For å endre, søk etter «PDF» i innstillingane.
 set-default-pdf-handler-primary = Eg forstår
+
+## FxA sync CFR
+
+fxa-sync-cfr-primary = Les meir
+    .accesskey = L
+fxa-sync-cfr-secondary = Minn meg på det seinare
+    .accesskey = M
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Brukar du ei gammal eining?
+device-migration-fxa-spotlight-primary-button = Korleis tryggingskopiere mine data
+device-migration-fxa-spotlight-link = Minn meg på det seinare
