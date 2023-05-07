@@ -12,6 +12,8 @@
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-runnable-hover-open = Otvori dodatak
+origin-controls-state-runnable-hover-run = Pokreni dodatak
 
 ## Extension's toolbar button.
 ## Variables:
