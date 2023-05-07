@@ -247,4 +247,5 @@ fxa-sync-cfr-secondary = Smekti-y-id ticki
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Aseqdec n yibenk aqbur?
 device-migration-fxa-spotlight-link = Smekti-y-id ticki
