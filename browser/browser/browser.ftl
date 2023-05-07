@@ -140,6 +140,17 @@ urlbar-tip-icon-description =
     .alt = Savjet:
 urlbar-result-menu-button =
     .title = Otvori izbornik
+urlbar-result-menu-button-feedback = Povratne informacije
+    .title = Otvori izbornik
+urlbar-result-menu-learn-more =
+    .label = Saznaj više
+    .accesskey = S
+urlbar-result-menu-remove-from-history =
+    .label = Ukloni iz povijesti
+    .accesskey = U
+urlbar-result-menu-tip-get-help =
+    .label = Zatraži pomoć
+    .accesskey = Z
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -665,6 +676,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Otvori sliku u slici ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Zatvori sliku u slici ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
