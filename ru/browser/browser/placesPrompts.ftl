@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (без заголовка)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Из соображений безопасности загрузка адресов «javascript:» или «data:» из окна журнала или боковой панели запрещена.
 places-bookmarks-backup-title = Имя файла резервной копии закладок
 places-bookmarks-restore-alert-title = Восстановление закладок
 places-bookmarks-restore-alert = Все ваши текущие закладки будут заменены закладками из резервной копии. Вы уверены?
