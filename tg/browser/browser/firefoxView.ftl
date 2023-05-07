@@ -62,7 +62,7 @@ firefoxview-closed-tabs-placeholder-body = Вақте ки шумо варақа
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
-    .title = Қатъ гарнонидани { $tabTitle }
+    .title = Қатъ гардонидани { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Фаъолонаи охирин
 # Variables:

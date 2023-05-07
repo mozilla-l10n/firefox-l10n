@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Тоза кардани васеъшавӣ
 unified-extensions-context-menu-report-extension =
     .label = Шикоят дар бораи васеъшавӣ
+unified-extensions-context-menu-move-widget-up =
+    .label = Ба боло гузоштан
+unified-extensions-context-menu-move-widget-down =
+    .label = Ба поён гузоштан

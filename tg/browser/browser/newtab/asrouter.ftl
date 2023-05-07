@@ -248,3 +248,15 @@ fox-doodle-pin-secondary = Ҳоло не
 
 set-default-pdf-handler-headline = <strong>Акнун файлҳои PDF-и шумо дар «{ -brand-short-name }» кушода мешаванд.</strong> Шаклҳоро мустақиман дар браузери худ таҳрир кунед ё ба онҳо имзо гузоред. Барои тағйир додани ин имкон, калимаи «PDF»-ро дар танзимот пайдо кунед.
 set-default-pdf-handler-primary = Фаҳмидам
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Дар оянда аз дастгоҳи нав истифода мебаред?
+fxa-sync-cfr-primary = Маълумоти бештар
+    .accesskey = М
+fxa-sync-cfr-secondary = Баъдтар ёдоварӣ кунед
+    .accesskey = Б
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Аз дастгоҳи куҳна истифода мебаред?
