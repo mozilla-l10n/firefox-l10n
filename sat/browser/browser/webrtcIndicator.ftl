@@ -38,11 +38,31 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = ᱨᱮᱵᱽ ᱦᱟᱹᱴᱤᱧ ᱥᱟᱫᱷᱚᱱ ᱠᱚ
     .accesskey = d
+webrtc-sharing-window = ᱟᱢ ᱫᱚ ᱮᱴᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱣᱤᱱᱰᱚ ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟᱢ ᱾
+webrtc-sharing-browser-window = ᱟᱢ ᱫᱚ { -brand-short-name } ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟᱢ ᱾
+webrtc-sharing-screen = ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟᱢ ᱾
+webrtc-stop-sharing-button = ᱦᱟᱹᱴᱤᱧ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+webrtc-microphone-unmuted =
+    .title = ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+webrtc-microphone-muted =
+    .title = ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+webrtc-camera-unmuted =
+    .title = ᱠᱮᱢᱨᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+webrtc-camera-muted =
+    .title = ᱠᱮᱢᱨᱟ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+webrtc-minimize =
+    .title = ᱪᱤᱱᱦᱟᱹ ᱦᱩᱰᱤᱧ ᱪᱷᱚᱭ ᱢᱮ
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
+webrtc-camera-system-menu =
+    .label = ᱟᱢ ᱟᱢᱟᱜ ᱠᱟᱢᱮᱨᱟ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱦᱚᱪᱚ ᱮᱫᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
+webrtc-microphone-system-menu =
+    .label = ᱟᱢ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱦᱚᱪᱚ ᱮᱫᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
+webrtc-screen-system-menu =
+    .label = ᱟᱢ ᱟᱢᱟᱜ ᱣᱤᱱᱰᱚ ᱟᱨ ᱵᱟᱝ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱨᱤᱱ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱦᱚᱪᱚ ᱮᱫᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Tooltips used by the legacy global sharing indicator
 
@@ -125,6 +145,14 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = { $origin } ᱫᱚ ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱨᱮᱭᱟᱜ ᱥᱟᱰᱮ ᱟᱧᱡᱚᱢ ᱪᱷᱚᱭᱟᱢ ᱥᱮ ?
+webrtc-allow-share-camera = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱵᱮᱵᱷᱟᱨ ᱪᱷᱚᱭᱟᱢ ᱥᱮ ?
+webrtc-allow-share-microphone = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱪᱷᱚᱭᱟᱢ ᱥᱮ ?
+webrtc-allow-share-screen = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱫᱮᱠᱷᱟᱣ ᱪᱷᱚᱭᱟᱢ ᱥᱮ ?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } ᱫᱚ ᱮᱴᱟᱜ ᱥᱯᱤᱠᱚᱨ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱪᱷᱚᱣᱟᱭᱮᱢ ?
+webrtc-allow-share-camera-and-microphone = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱨ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱪᱷᱚᱣᱟᱭᱟᱢ ᱥᱮ ?
 
 ## Variables:
 ##   $origin (String): the first party origin.
