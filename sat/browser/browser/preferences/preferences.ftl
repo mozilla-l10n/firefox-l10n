@@ -330,6 +330,9 @@ applications-ask-before-handling =
     .label = ᱨᱮᱫ ᱥᱟᱺᱪᱟᱣ ᱟᱢ ᱥᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱟᱢ ᱠᱩᱠᱞᱤ ᱢᱮ
     .accesskey = A
 drm-content-header = ᱰᱤᱡᱤᱴᱟᱞ ᱨᱟᱭᱤᱴᱥ ᱢᱮᱱᱮᱡᱢᱮᱱᱴ (DRM) ᱡᱤᱱᱤᱥ
+play-drm-content =
+    .label = DRM-ᱠᱚᱵᱚᱡᱽ ᱟᱠᱟᱱ ᱠᱟᱛᱷᱟ ᱮᱢ ᱢᱮ
+    .accesskey = P
 play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 update-application-title = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ
 # Variables:
@@ -489,6 +492,7 @@ home-prefs-recent-activity-description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭ�
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = ᱵᱷᱟᱜᱽ
+home-prefs-snippets-description-new = { -vendor-short-name } ᱟᱨ { -brand-product-name } ᱠᱷᱚᱱ ᱴᱤᱯᱥ ᱟᱨ ᱠᱷᱚᱵᱚᱨ
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -960,6 +964,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ᱰᱟᱴᱟ ᱡᱟᱣᱨᱟ ᱟᱨ ᱵᱮᱵᱷᱟᱨ
+collection-privacy-notice = ᱫᱟᱱᱟᱝ ᱠᱷᱚᱵᱚᱨ
 collection-health-report-telemetry-disabled-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 collection-health-report-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 collection-studies-link = { -brand-short-name } ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱧᱮᱞ ᱢᱮ
@@ -993,6 +998,8 @@ space-alert-over-5gb-settings-button =
 
 httpsonly-header = ᱠᱷᱟᱹᱞᱤᱼHTTPS ᱢᱳᱰ
 httpsonly-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+httpsonly-radio-disabled =
+    .label = HTTPS-ᱠᱷᱟᱹᱞᱤ ᱢᱳᱰ ᱟᱞᱚ ᱮᱢ ᱟ
 
 ## DoH Section
 
