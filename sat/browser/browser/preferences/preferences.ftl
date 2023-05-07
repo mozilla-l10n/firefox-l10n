@@ -87,7 +87,7 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱡᱷᱟᱣ ᱠᱚ ᱠᱚᱵᱡᱟᱭᱟᱭ ᱾
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱵᱟᱹᱴᱤ ᱴᱮᱵᱽ ᱫᱟᱨᱠᱟᱨ ᱛᱟᱭᱟ ᱾
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ ᱫᱟᱨᱠᱟᱨ ᱛᱟᱭᱟ ᱾
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱡᱷᱟᱣ ᱠᱚ ᱠᱚᱵᱡᱟᱭᱟᱭ ᱾
@@ -147,22 +147,23 @@ browser-containers-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 browser-containers-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = i
+containers-disable-alert-title = ᱡᱷᱚᱛᱚ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱟᱢ ᱥᱮ ?
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] { $tabCount } ᱵᱟᱹᱴᱤ ᱴᱟᱵᱽ ᱵᱚᱱᱫ ᱢᱮ
-        [two] { $tabCount } ᱵᱟᱹᱴᱤ ᱴᱟᱵᱽ ᱠᱤᱱ ᱵᱚᱱᱫ ᱢᱮ
-       *[other] { $tabCount } ᱵᱟᱹᱴᱤ ᱴᱟᱵᱽ ᱠᱚ ᱵᱚᱱᱫ ᱢᱮ
+        [one] { $tabCount } ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱟᱵᱽ ᱵᱚᱱᱫ ᱢᱮ
+        [two] { $tabCount } ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱟᱵᱽ ᱠᱤᱱ ᱵᱚᱱᱫ ᱢᱮ
+       *[other] { $tabCount } ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱟᱵᱽ ᱠᱚ ᱵᱚᱱᱫ ᱢᱮ
     }
 
 ##
 
 containers-disable-alert-cancel-button = ᱮᱢ ᱪᱷᱚ ᱠᱟᱜ ᱢᱮ
-containers-remove-alert-title = ᱱᱚᱶᱟ ᱵᱟᱹᱴᱤ ᱚᱪᱚᱜᱟᱢ ᱥᱮ ?
-containers-remove-ok-button = ᱱᱚᱶᱟ ᱵᱟᱹᱴᱤ ᱚᱪᱚᱜᱽ ᱢᱮ
+containers-remove-alert-title = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱚᱪᱚᱜᱟᱢ ᱥᱮ ?
+containers-remove-ok-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱚᱪᱚᱜᱽ ᱢᱮ
 containers-remove-cancel-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱟᱞᱚᱢ ᱚᱪᱚᱜᱽ ᱟ
 
 ## General Section - Language & Appearance
@@ -269,6 +270,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } ᱵᱮᱵᱷᱟᱨ ᱢᱮ (ᱢᱩᱞ)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] macOS ᱢᱩᱞ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+            [windows] Windows ᱢᱩᱞ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+           *[other] ᱥᱤᱥᱴᱚᱢ ᱢᱩᱞ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+        }
 applications-use-other =
     .label = ᱮᱴᱟᱜᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
 applications-select-helper = ᱜᱚᱲᱚᱭᱤᱡᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
@@ -318,6 +326,10 @@ applications-handle-new-file-types-description = ᱮᱴᱟᱜ ᱨᱮᱫᱽ ᱠ�
 applications-save-for-new-types =
     .label = ᱨᱮᱫᱽ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
     .accesskey = S
+applications-ask-before-handling =
+    .label = ᱨᱮᱫ ᱥᱟᱺᱪᱟᱣ ᱟᱢ ᱥᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱟᱢ ᱠᱩᱠᱞᱤ ᱢᱮ
+    .accesskey = A
+drm-content-header = ᱰᱤᱡᱤᱴᱟᱞ ᱨᱟᱭᱤᱴᱥ ᱢᱮᱱᱮᱡᱢᱮᱱᱴ (DRM) ᱡᱤᱱᱤᱥ
 play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 update-application-title = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ
 # Variables:
