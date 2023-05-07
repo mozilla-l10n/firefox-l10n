@@ -238,10 +238,10 @@ appmenu-help-switch-device =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-enter-troubleshoot-mode2 =
-    .label = Modh fuasglaidh air duilgheadasan…
-    .accesskey = M
+    .label = Am modh fuasgladh dhuilgheadasan…
+    .accesskey = m
 appmenu-help-exit-troubleshoot-mode =
-    .label = Cuir am modh fuasglaidh air duilgheadasan dheth
+    .label = Cuir am modh fuasgladh dhuilgheadasan dheth
     .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
