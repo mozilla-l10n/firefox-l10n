@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = הסרת הרחבה
 unified-extensions-context-menu-report-extension =
     .label = דיווח על הרחבה
+unified-extensions-context-menu-move-widget-up =
+    .label = הזזה למעלה
+unified-extensions-context-menu-move-widget-down =
+    .label = הזזה למטה
