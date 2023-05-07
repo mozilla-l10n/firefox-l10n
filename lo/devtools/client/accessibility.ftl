@@ -37,6 +37,7 @@ accessibility-text-label-issue-form-visible = ອົງປະກອບແບບ�
 accessibility-text-label-issue-heading = ຫົວຂໍ້ຕ້ອງມີປ້າຍຊື່. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-heading-content = ຫົວຂໍ້ຄວນມີເນື້ອໃນຂໍ້ຄວາມທີ່ເຫັນໄດ້. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-image = ເນື້ອໃນທີ່ມີຮູບພາບຕ້ອງໄດ້ຮັບການຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-toolbar = ແຖບເຄື່ອງມືຕ້ອງຖືກຕິດສະຫຼາກເມື່ອມີແຖບເຄື່ອງມືຫຼາຍກວ່າໜຶ່ງແຖບ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
