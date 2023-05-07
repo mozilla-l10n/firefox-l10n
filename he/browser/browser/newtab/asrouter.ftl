@@ -231,3 +231,13 @@ fox-doodle-pin-secondary = לא כעת
 
 set-default-pdf-handler-headline = <strong>מסמכי ה־PDF שלך נפתחים כעת באמצעות { -brand-short-name }.</strong> באפשרותך לערוך או לחתום על טפסים ישירות בדפדפן שלך. כדי לשנות, יש לחפש ״PDF״ בהגדרות.
 set-default-pdf-handler-primary = הבנתי
+
+## FxA sync CFR
+
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = משתמשים במכשיר ישן?
+device-migration-fxa-spotlight-body = כדאי לגבות את הנתונים שלכם כדי לוודא שלא תאבדו מידע חשוב כמו סימניות וססמאות - במיוחד אם אתם עוברים למכשיר חדש.
+device-migration-fxa-spotlight-primary-button = כיצד לגבות את הנתונים שלי
+device-migration-fxa-spotlight-link = להזכיר לי מאוחר יותר
