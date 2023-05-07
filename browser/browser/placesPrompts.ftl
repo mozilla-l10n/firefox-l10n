@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (без назви)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = З міркувань безпеки, URL “javascript” або “data:” не можуть бути завантажені з вікна історії чи бічної панелі.
 places-bookmarks-backup-title = Назва резервної копії закладок
 places-bookmarks-restore-alert-title = Повернути закладки
 places-bookmarks-restore-alert = Це замінить всі ваші поточні закладки резервною копією. Ви певні?
