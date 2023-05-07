@@ -103,3 +103,5 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = ເຊົາປິດສຽງແທັບ
     .accesskey = m
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = ກຳລັງຫຼິ້ນສຽງ

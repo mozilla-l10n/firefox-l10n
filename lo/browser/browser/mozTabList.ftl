@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
+#   $date (string) - Date to be formatted based on locale
+mztabrow-date = { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $time (string) - Time to be formatted based on locale
+mztabrow-time = { DATETIME($time, timeStyle: "short") }
+# Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 mztabrow-tabs-list-tab =
     .title = ເປີດ { $targetURI } ໃນແຖບໃໝ່
