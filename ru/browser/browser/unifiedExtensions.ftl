@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Удалить расширение
 unified-extensions-context-menu-report-extension =
     .label = Пожаловаться на расширение
+unified-extensions-context-menu-move-widget-up =
+    .label = Вверх
+unified-extensions-context-menu-move-widget-down =
+    .label = Вниз
