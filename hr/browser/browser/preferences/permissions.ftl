@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Upiši valjano ime glavnog računala
 permissions-exceptions-etp-window =
     .title = Iznimke za poboljšanu zaštitu od praćenja
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Zaštita je isključena na ovim web stranicama.
 permissions-exceptions-etp-window2 =
     .title = Iznimke za poboljšanu zaštitu od praćenja
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Zaštita je isključena na ovim web stranicama.
 
 ## Exceptions - Cookies
 
@@ -207,3 +207,21 @@ permissions-site-microphone-desc = Sljedeće stranice su zatražile pristup tvom
 permissions-site-microphone-disable-label =
     .label = Blokiraj nove zahtjeve za pristup tvom mikrofonu
 permissions-site-microphone-disable-desc = Ovo će spriječiti traženje pristupa tvom mikrofonu za svaku stranicu koja nije navedena. Blokiranje pristupa tvom mikrofonu može pokvariti neke funkcije web stranice.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-doh-entry-field = Upiši ime domene web stranice
+    .accesskey = d
+permissions-doh-add-exception =
+    .label = Dodaj
+    .accesskey = D
+permissions-doh-col =
+    .label = Domena
+permissions-doh-remove =
+    .label = Ukloni
+    .accesskey = U
+permissions-doh-remove-all =
+    .label = Ukloni sve
+    .accesskey = s
