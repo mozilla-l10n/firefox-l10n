@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
 unified-extensions-context-menu-report-extension =
     .label = Rozšyrjenje k wěsći daś
+unified-extensions-context-menu-move-widget-up =
+    .label = Górjej
+unified-extensions-context-menu-move-widget-down =
+    .label = Dołoj
