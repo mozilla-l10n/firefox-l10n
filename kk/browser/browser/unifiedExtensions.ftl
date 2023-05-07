@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Кеңейтуді өшіру
 unified-extensions-context-menu-report-extension =
     .label = Кеңейтуді хабарлау
+unified-extensions-context-menu-move-widget-up =
+    .label = Жоғары жылжыту
+unified-extensions-context-menu-move-widget-down =
+    .label = Төмен жылжыту
