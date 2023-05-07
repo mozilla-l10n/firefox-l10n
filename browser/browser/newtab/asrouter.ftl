@@ -236,6 +236,9 @@ july-jam-headline = Сіз үшін қамқорлықпен
 july-jam-body = Ай сайын { -brand-short-name } бір пайдаланушыға орташа есеппен 3000+ трекерді блоктайды, бұл сізге жақсы интернетке қауіпсіз және жылдам қол жеткізуге мүмкіндік береді.
 july-jam-set-default-primary = Менің сілтемелерімді { -brand-short-name } арқылы ашу
 fox-doodle-pin-headline = Қайта қош келдіңіз
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Таңдаулы тәуелсіз браузеріңізді қасыңызда ұстауға болатынын еске саламыз.
 fox-doodle-pin-primary = Менің сілтемелерімді { -brand-short-name } арқылы ашу
 fox-doodle-pin-secondary = Қазір емес
 
@@ -243,3 +246,14 @@ fox-doodle-pin-secondary = Қазір емес
 
 set-default-pdf-handler-headline = <strong>PDF файлдарыңыз енді { -brand-short-name } ішінде ашылады.</strong> Формаларды тікелей браузерде өңдеңіз немесе қол қойыңыз. Өзгерту үшін параметрлерден "PDF" іздеңіз.
 set-default-pdf-handler-primary = Түсіндім
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Болашақта жаңа құрылғыңыз бола ма?
+fxa-sync-cfr-primary = Көбірек білу
+    .accesskey = л
+fxa-sync-cfr-secondary = Кейінірек еске салу
+    .accesskey = р
+
+## Device Migration FxA Spotlight
+
