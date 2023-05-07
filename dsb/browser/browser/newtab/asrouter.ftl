@@ -255,3 +255,17 @@ fox-doodle-pin-secondary = Nic něnto
 
 set-default-pdf-handler-headline = <strong>Waše PDF se něnto w { -brand-short-name } wócynjaju.</strong> Wobźěłajśo abo signěrujćśoformulary direktnje w swójom wobglědowaku. Aby to změnił, pytajśo za „PDF“ w swójich nastajenjach.
 set-default-pdf-handler-primary = Som zrozměł
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Nowy rěd we wašom pśichoźe?
+fxa-sync-cfr-body = Zawěsććo, až maśo swóje nejnowše cytańske znamjenja, gronidła a rejtariki kuždy raz ze sobu, gaž nowy wobglědowak { -brand-product-name } wócynjaśo.
+fxa-sync-cfr-primary = Dalšne informacije
+    .accesskey = D
+fxa-sync-cfr-secondary = Pózdźej dopomnjeś
+    .accesskey = o
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Staršy rěd wužywaś?
+device-migration-fxa-spotlight-body = Zawěsććo swóje daty, až njeby wy wažne informacije ako cytańske znamjenja a groidła zgubił –– pśedewšym, jolic k nowemu rědoju pśejźośo.
