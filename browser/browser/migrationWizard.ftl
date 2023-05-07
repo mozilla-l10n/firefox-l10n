@@ -107,3 +107,40 @@ migration-safari-password-import-header = Uvezi lozinke iz Safarija
 migration-safari-password-import-steps-header = Za uvoz Safari lozinki:
 migration-safari-password-import-skip-button = Preskoči
 migration-safari-password-import-select-button = Odaberi datoteku
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } zabilješka
+        [few] { $quantity } zabilješke
+       *[other] { $quantity } zabilješki
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favorit
+        [few] { $quantity } favorita
+       *[other] { $quantity } favorita
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } lozinka
+        [few] { $quantity } lozinke
+       *[other] { $quantity } lozinki
+    }
+migration-wizard-safari-instructions-continue = Odaberi „Nastavi”
+migration-wizard-safari-select-button = Odaberi datoteku

@@ -149,7 +149,6 @@ spotlight-public-wifi-vpn-link = Ne sada
 ## Total Cookie Protection Rollout
 
 spotlight-total-cookie-protection-secondary-button = Ne sada
-cfr-total-cookie-protection-header = Zahvaljujući tebi, { -brand-short-name } je privatniji i sigurniji nego ikad
 
 ## Emotive Continuous Onboarding
 
@@ -192,7 +191,6 @@ firefoxview-cfr-primarybutton = Isprobaj ga
     .accesskey = I
 firefoxview-cfr-secondarybutton = Ne sada
     .accesskey = N
-firefoxview-cfr-header = Vrati nedavno zatvorene kartice pomoću { -firefoxview-brand-name }
 
 ## Firefox View Spotlight
 
@@ -205,3 +203,25 @@ colorways-cfr-primarybutton = Odaberi kolorit
     .accesskey = O
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Oboji preglednik s ekskluzivnim { -brand-short-name } nijansama inspiriranim glasovima koji su promijenili kulturu.
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+
+## FxA sync CFR
+
+fxa-sync-cfr-primary = Saznaj više
+    .accesskey = S
+fxa-sync-cfr-secondary = Podsjeti me kasnije
+    .accesskey = P
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Koristiš stariji uređaj?
+device-migration-fxa-spotlight-primary-button = Kako napraviti sigurnosnu kopiju mojih podataka
+device-migration-fxa-spotlight-link = Podsjeti me kasnije
