@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Вилучити розширення
 unified-extensions-context-menu-report-extension =
     .label = Поскаржитись на розширення
+unified-extensions-context-menu-move-widget-up =
+    .label = Посунути вгору
+unified-extensions-context-menu-move-widget-down =
+    .label = Посунути вниз
