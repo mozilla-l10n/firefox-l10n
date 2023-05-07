@@ -252,6 +252,7 @@ set-default-pdf-handler-primary = Comprés !
 
 ## FxA sync CFR
 
+fxa-sync-cfr-body = Asseguratz-vos que vòstres darrièrs marcapaginas, senhals e onglets vengan amb vos cada còp que dobrissètz un navegador { -brand-product-name } novèl.
 fxa-sync-cfr-primary = Ne saber mai
     .accesskey = N
 fxa-sync-cfr-secondary = Lo me remembrar mai tard

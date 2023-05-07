@@ -429,6 +429,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Un rainal per l’ecran d’un ordenador portable que saluda. L’ordenador a una mirga connectada.
 onboarding-device-migration-title = Urós de vos tornar veire !
 onboarding-device-migration-subtitle = Connectatz-vos a vòstre { -fxaccount-brand-name(capitalization: "sentence") } per emportar vòstres marcapaginas, senhals e istorics amb vos sus vòstre aparelh novèl.
 onboarding-device-migration-primary-button-label = Se connectar

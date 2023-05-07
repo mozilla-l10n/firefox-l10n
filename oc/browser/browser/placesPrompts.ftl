@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (sens títol)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Per de rasons de seguretat, las URL « javascript: » o « data: » se pòdon pas cargar de la fenèstra d’istoric o de la barra laterala estant.
 places-bookmarks-backup-title = Fichièr de salvament dels marcapaginas
 places-bookmarks-restore-alert-title = Restablir los marcapaginas
 places-bookmarks-restore-alert = Aquò remplaçarà totes vòstres marcapaginas pel salvament. Sètz segur(a) ?
