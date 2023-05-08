@@ -251,6 +251,7 @@ set-default-pdf-handler-primary = Forstået
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Skal du snart have en ny enhed?
 fxa-sync-cfr-body = Sørg for at have dine seneste bogmærker, adgangskoder og faneblade med dig, hver gang du åbner en ny { -brand-product-name }-browser.
 fxa-sync-cfr-primary = Læs mere
     .accesskey = L
@@ -260,5 +261,6 @@ fxa-sync-cfr-secondary = Påmind mig senere
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Bruger du en ældre enhed?
+device-migration-fxa-spotlight-body = Tag en sikkerhedskopi af dine data for at sikre, at du ikke mister vigtige oplysninger som bogmærker og adgangskoder - især hvis du skifter til en ny enhed.
 device-migration-fxa-spotlight-primary-button = Sådan sikkerhedskopierer du dine data
 device-migration-fxa-spotlight-link = Påmind mig senere
