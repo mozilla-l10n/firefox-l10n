@@ -242,3 +242,13 @@ fox-doodle-pin-secondary = Wakami mani
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-primary = Xik'o pa nuwi'
+
+## FxA sync CFR
+
+fxa-sync-cfr-primary = Tetamäx ch'aqa' chik
+    .accesskey = t
+fxa-sync-cfr-secondary = Tinatäx pe chwe
+    .accesskey = n
+
+## Device Migration FxA Spotlight
+
