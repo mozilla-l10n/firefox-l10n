@@ -44,12 +44,12 @@
 <!ENTITY netOffline.longDesc2 "<p>Le navigator es in modo foras de linea e non pote connecter se al objecto requestate.</p><ul><li>Es le computator connectite a un rete active?</li><li>Preme &quot;Retentar&quot; pro cambiar al modo in linea e recargar le pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codification del contento">
-<!ENTITY contentEncodingError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque illo usa un forma de compression invalide o non admittite.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque illo usa un forma de compression invalide o non admittite.</p><ul><li>Continge le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Typo de file non secur">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li>
+  <li>Per favor continge le proprietarios del sito web pro informar les de iste problema.</li>
 </ul>
 ">
 
@@ -75,7 +75,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Le sito respondeva al requesta de rete in un via inexpectate e le browser non pote continuar.</p>">
 
 <!ENTITY nssFailure2.title "Connexion secur fallite">
-<!ENTITY nssFailure2.longDesc2 "<p>Le pagina que tu tenta vider non pote ser monstrate perque le authenticitate del datos recipite non pote ser verificate.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Le pagina que tu tenta de vider non pote ser monstrate perque le authenticitate del datos recipite non pote ser verificate.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
 <!ENTITY nssBadCert.title "Connexion secur fallite">
 <!ENTITY nssBadCert.longDesc2 "<ul>
