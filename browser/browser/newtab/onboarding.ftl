@@ -13,6 +13,14 @@
 onboarding-welcome-header = Velkommen til { -brand-short-name }
 onboarding-start-browsing-button-label = Kom i gang
 onboarding-not-now-button-label = Ikke nu
+mr1-onboarding-get-started-primary-button-label = Kom i gang
+mr1-onboarding-welcome-header = Velkommen til { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Gør { -brand-short-name } til min foretrukne browser
+    .title = Sætter { -brand-short-name } som standard-browser og fastgør den til proceslinjen
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Gør { -brand-short-name } til min standard-browser
+mr1-onboarding-set-default-secondary-button-label = Ikke nu
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Tilføj { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Kom i gang: Side { $current } af { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Status: Skridt { $current } af { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Alt starter her
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio - møbeldesigner og Firefox-fan
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Status: Skridt { $current } af { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slå animationer fra
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Kom i gang
-mr1-onboarding-welcome-header = Velkommen til { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Gør { -brand-short-name } til min foretrukne browser
-    .title = Sætter { -brand-short-name } som standard-browser og fastgør den til proceslinjen
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Gør { -brand-short-name } til min standard-browser
-mr1-onboarding-set-default-secondary-button-label = Ikke nu
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Log ind
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -427,3 +426,10 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Udsigt til en solnedgang gennem et vindue med en ræv og en stueplante i en vindueskarm
 mr2022-onboarding-colorways-image-alt =
     .aria-label = En hånd spraymaler en farverig kollage bestående af et grønt øje, en orange sko, en rød basketball, lilla hovedtelefoner, et blåt hjerte og en gul krone
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = En vinkende ræv på en bærbar computers skærm. Den bærbare computer har en mus tilsluttet.
+onboarding-device-migration-title = Velkommen tilbage!
+onboarding-device-migration-primary-button-label = Log ind
