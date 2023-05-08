@@ -252,3 +252,5 @@ fxa-sync-cfr-secondary = Tinatäx pe chwe
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = ¿La nokisäx jun rij okisaxel?
+device-migration-fxa-spotlight-link = Tinatäx pe chwe
