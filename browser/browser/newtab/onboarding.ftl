@@ -432,4 +432,5 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = En vinkende ræv på en bærbar computers skærm. Den bærbare computer har en mus tilsluttet.
 onboarding-device-migration-title = Velkommen tilbage!
+onboarding-device-migration-subtitle = Log ind på din { -fxaccount-brand-name } for at få adgang til dine bogmærker, adgangskoder og historik på din nye enhed.
 onboarding-device-migration-primary-button-label = Log ind
