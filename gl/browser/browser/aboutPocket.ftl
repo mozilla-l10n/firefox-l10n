@@ -21,6 +21,7 @@ pocket-panel-saved-page-saved = Gardouse en { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Gardouse en { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Retirando páxina…
 pocket-panel-saved-removed = Páxina eliminada da miña lista
+pocket-panel-saved-removed-updated = Páxina retirada das gardadas
 pocket-panel-saved-processing-tags = Engadindo etiquetas…
 pocket-panel-saved-remove-page = Retirar páxina
 pocket-panel-saved-save-tags = Gardar

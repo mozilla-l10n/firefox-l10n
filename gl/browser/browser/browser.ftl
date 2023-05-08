@@ -108,6 +108,15 @@ urlbar-tip-icon-description =
     .alt = Consello:
 urlbar-result-menu-button =
     .title = Abrir o menú
+urlbar-result-menu-learn-more =
+    .label = Máis información
+    .accesskey = i
+urlbar-result-menu-remove-from-history =
+    .label = Retirar do historial
+    .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = Obter axuda
+    .accesskey = x
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -125,6 +134,7 @@ urlbar-tabtosearch-onboard = Seleccione este atallo para atopar o que precise m�
 urlbar-search-mode-bookmarks = Marcadores
 urlbar-search-mode-tabs = Lapelas
 urlbar-search-mode-history = Historial
+urlbar-search-mode-actions = Accións
 
 ##
 
@@ -167,6 +177,12 @@ page-action-manage-extension =
     .label = Xestionar extensión…
 page-action-remove-extension =
     .label = Eliminar extensión
+page-action-manage-extension2 =
+    .label = Xestionar as extensións…
+    .accesskey = e
+page-action-remove-extension2 =
+    .label = Retirar a extensión
+    .accesskey = R
 
 ## Auto-hide Context Menu
 
@@ -225,11 +241,22 @@ search-one-offs-tabs =
     .tooltiptext = Lapelas ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historial ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Accións ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Ver os complementos
+quickactions-cmd-addons2 = complementos
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Xestionar os marcadores
+quickactions-cmd-bookmarks = marcadores
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Borrar o historial
+quickactions-cmd-clearhistory = borrar o historial
 
 ## Bookmark Panel
 
