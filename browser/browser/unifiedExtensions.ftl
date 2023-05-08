@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Fjern udvidelse
 unified-extensions-context-menu-report-extension =
     .label = Rapporter udvidelse
+unified-extensions-context-menu-move-widget-up =
+    .label = Flyt op
+unified-extensions-context-menu-move-widget-down =
+    .label = Flyt ned
