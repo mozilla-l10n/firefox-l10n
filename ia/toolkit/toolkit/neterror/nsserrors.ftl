@@ -8,24 +8,13 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Un error occurreva durante un connexion a { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Codice de error: { $error }
-
 psmerr-ssl-disabled = Connexion secur impossibile perque le protocollo SSL ha essite disactivate.
 psmerr-ssl2-disabled = On non pote connecter se securmente perque le sito usa un version plus vetule e insecur del protocollo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Tu ha recipite un certificato invalide.  Per favor contacta le administrator del servitor o le correspondente de email e da les le sequente information:
+    Tu ha recipite un certificato invalide.  Continge le administrator del servitor o le correspondente de email e da les le sequente information:
     
     Tu certificato contine le mesme numero serial que un altere certificato emittite per le autoritate de certification.  Per favor obtene un nove certificato continente un numero serial unic.
-
 ssl-error-export-only-server = Impossibile communicar in maniera secur. Le par non supporta cryptographia de alte nivello.
 ssl-error-us-only-server = Impossibile communicar in maniera secur. Le par require cryptographia de un alte nivello que non es supportate.
 ssl-error-no-cypher-overlap = Impossibile communicar in maniera secur con le par: nulle algorithmo cryptographic in commun.
@@ -212,14 +201,6 @@ sec-error-pkcs7-keyalg-mismatch = Impossibile decryptar: le algorithmo de crypta
 sec-error-pkcs7-bad-signature = Le verification de signatura ha fallite: nulle signatario trovate, troppo de signatarios trovate, o datos improprie o corrumpite.
 sec-error-unsupported-keyalg = Algorithmo del clave non supportate o incognite.
 sec-error-decryption-disallowed = Impossibile decryptar: datos cryptate con un algorithmo o dimension de clave non permittite.
-xp-sec-fortezza-bad-card = Le carta Fortezza non ha essite initialisate correctemente. Per favor remove lo e retorna lo a su emissor.
-xp-sec-fortezza-no-card = Nulle cartas de Fortezza trovate
-xp-sec-fortezza-none-selected = Nulle carta de Fortezza seligite
-xp-sec-fortezza-more-info = Por favor elige un personalitate pro obtener informationes re illo
-xp-sec-fortezza-person-not-found = Personality non trovate
-xp-sec-fortezza-no-more-info = Nulle altere informationes re ille Personalitate
-xp-sec-fortezza-bad-pin = Pin invalide
-xp-sec-fortezza-person-error = Impossibile initialisar le personalitates de Fortezza.
 sec-error-no-krl = Nulle KRL pro iste certificato de sito trovate.
 sec-error-krl-expired = Le KRL pro iste certificato de sito ha expirate.
 sec-error-krl-bad-signature = Le KRL pro iste certificato de sito ha un signatura non valide.
@@ -234,9 +215,6 @@ sec-error-cert-nickname-collision = Un certificato con le mesme supernomine jam 
 sec-error-key-nickname-collision = Un clave con le mesme supernomine jam existe.
 sec-error-safe-not-created = error durante que esseva create un objecto secur
 sec-error-baggage-not-created = error durante que esseva create un objecto bagage
-xp-java-remove-principal-error = Il non se poteva remover le principal
-xp-java-delete-privilege-error = Il non se poteva deler le privilegio
-xp-java-cert-not-exists-error = Iste principal non ha un certificato
 sec-error-bad-export-algorithm = Le algorithmo requirite non es permittite.
 sec-error-exporting-certificates = Error in le tentativa de exportar certificatos.
 sec-error-importing-certificates = Error in le tentativa de importar certificatos.
@@ -353,3 +331,14 @@ mozilla-pkix-error-invalid-integer-encoding = Le servitor presentava un certific
 mozilla-pkix-error-empty-issuer-name = Le servitor presentava un certificato con un nomine distincte del emittitor vacue.
 mozilla-pkix-error-additional-policy-constraint-failed = Un altere coercition de regulamento falleva durante le validation de iste certificato.
 mozilla-pkix-error-self-signed-cert = Le certificato non es fidite per que illo es auto-signate.
+xp-java-remove-principal-error = Il non se poteva remover le principal
+xp-java-delete-privilege-error = Il non se poteva deler le privilegio
+xp-java-cert-not-exists-error = Iste principal non ha un certificato
+xp-sec-fortezza-bad-card = Le carta Fortezza non ha essite initialisate correctemente. Per favor remove lo e retorna lo a su emissor.
+xp-sec-fortezza-no-card = Nulle cartas de Fortezza trovate
+xp-sec-fortezza-none-selected = Nulle carta de Fortezza seligite
+xp-sec-fortezza-more-info = Por favor elige un personalitate pro obtener informationes re illo
+xp-sec-fortezza-person-not-found = Personality non trovate
+xp-sec-fortezza-no-more-info = Nulle altere informationes re ille Personalitate
+xp-sec-fortezza-bad-pin = Pin invalide
+xp-sec-fortezza-person-error = Impossibile initialisar le personalitates de Fortezza.
