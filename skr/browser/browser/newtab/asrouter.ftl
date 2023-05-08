@@ -250,6 +250,7 @@ set-default-pdf-handler-primary = سمجھ گھدے
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = تہاݙے مستقبل وچ نویں ڈیوائس؟
 fxa-sync-cfr-primary = ٻیا سِکھو
     .accesskey = L
 fxa-sync-cfr-secondary = میکوں بعد اِچ یاد ݙیواؤ
