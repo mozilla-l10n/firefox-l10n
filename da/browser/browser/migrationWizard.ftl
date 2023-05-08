@@ -103,6 +103,7 @@ migration-choose-to-import-from-file-button-label = Importer fra fil
 migration-import-from-file-button-label = Vælg fil
 migration-cancel-button-label = Annuller
 migration-done-button-label = Færdig
+migration-continue-button-label = Fortsæt
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kunne ikke finde nogen programmer, der indeholder bogmærker, historik eller adgangskoder.
 migration-wizard-import-browser-no-resources = Der opstod en fejl. { -brand-short-name } kan ikke finde nogen data at importere fra den valgte browser-profil.
 
