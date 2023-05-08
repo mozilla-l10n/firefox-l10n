@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Odstrániť rozšírenie
 unified-extensions-context-menu-report-extension =
     .label = Nahlásiť rozšírenie
+unified-extensions-context-menu-move-widget-up =
+    .label = Posunúť nahor
+unified-extensions-context-menu-move-widget-down =
+    .label = Posunúť nadol
