@@ -331,6 +331,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Slå fejlsøgnings-tilstand fra
     .accesskey = f
+menu-help-switch-device =
+    .label = Skifte til en ny enhed
+    .accesskey = n
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
