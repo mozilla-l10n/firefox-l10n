@@ -226,23 +226,6 @@ colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = ¡Se acabaron los banners de cookies!
-cfr-cookiebanner-body = Permitir que { -brand-short-name } rechace automáticamente todas las solicitudes de banner de cookies cuando sea posible.
-cfr-cookiebanner-accept-button-v2 = Rechazar solicitudes
-    .accesskey = R
-cfr-cookiebanner-reject-button = Ahora no
-    .accesskey = n
-cfr-cookiebanner-header-variant-1 = Ver menos ventanas emergentes de cookies
-cfr-cookiebanner-accept-button-variant-1 = Descartar ventanas emergentes
-    .accesskey = D
-cfr-cookiebanner-reject-button-variant-1 = No, gracias
-    .accesskey = N
-cfr-cookiebanner-header-variant-2 = Reducción de banner de cookies
-cfr-cookiebanner-accept-button-variant-2 = Permitir
-    .accesskey = P
-cfr-cookiebanner-reject-button-variant-2 = Ahora no
-    .accesskey = n
 cfr-cbh-header = ¿Permitir que { -brand-short-name } rechace los banners de cookies?
 cfr-cbh-body = { -brand-short-name } puede rechazar automáticamente muchas solicitudes de banner de cookies.
 cfr-cbh-confirm-button = Rechazar banners de cookies
@@ -255,8 +238,30 @@ cfr-cbh-dismiss-button = Ahora no
 july-jam-headline = Nosotros te protegemos
 july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3,000 rastreadores por usuario, lo que brinda un acceso rápido y seguro a Internet bueno.
 july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
+fox-doodle-pin-headline = Te damos de nuevo la bienvenida
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Un recordatorio rápido de que puedes mantener tu navegador independiente favorito a solo un clic de distancia.
+fox-doodle-pin-primary = Abrir mis enlaces con { -brand-short-name }
+fox-doodle-pin-secondary = Ahora no
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-headline = <strong>Tus archivos PDF ahora se abren en { -brand-short-name }.</strong> Edita o firma formularios directamente en tu navegador. Para cambiar, busca "PDF" en ajustes.
 set-default-pdf-handler-primary = Entendido
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = ¿Nuevo dispositivo en tu futuro?
+fxa-sync-cfr-body = Asegúrate de que tus últimos marcadores, contraseñas y pestañas estén contigo cada vez que abras un nuevo navegador { -brand-product-name }.
+fxa-sync-cfr-primary = Saber más
+    .accesskey = L
+fxa-sync-cfr-secondary = Recordarme luego
+    .accesskey = R
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = ¿Usando un dispositivo más antiguo?
+device-migration-fxa-spotlight-body = Realiza una copia de seguridad de tus datos para asegurarte de no perder información importante como marcadores y contraseñas, especialmente si cambias a un nuevo dispositivo.
+device-migration-fxa-spotlight-primary-button = Cómo hacer una copia de seguridad de mis datos
+device-migration-fxa-spotlight-link = Recordarme luego
