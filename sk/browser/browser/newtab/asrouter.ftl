@@ -252,3 +252,19 @@ fox-doodle-pin-secondary = Teraz nie
 
 set-default-pdf-handler-headline = <strong>Vaše súbory PDF sa teraz otvárajú vo { -brand-short-name(case: "loc") }.</strong> Upravujte formuláre alebo podpisujte priamo vo svojom prehliadači. Ak to chcete zmeniť, vyhľadajte v nastaveniach „PDF“.
 set-default-pdf-handler-primary = Rozumiem
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Nové zariadenie vo vašej budúcnosti?
+fxa-sync-cfr-body = Uistite sa, že máte vaše záložky, heslá a karty vždy pri sebe, keď otvoríte novú inštaláciu prehliadača { -brand-product-name }.
+fxa-sync-cfr-primary = Ďalšie informácie
+    .accesskey = a
+fxa-sync-cfr-secondary = Pripomenúť neskôr
+    .accesskey = P
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Používate staršie zariadenie?
+device-migration-fxa-spotlight-body = Zálohujte si údaje, aby ste nestratili dôležité informácie, ako sú záložky a heslá – najmä ak prejdete na nové zariadenie.
+device-migration-fxa-spotlight-primary-button = Ako zálohovať moje údaje
+device-migration-fxa-spotlight-link = Pripomenúť neskôr
