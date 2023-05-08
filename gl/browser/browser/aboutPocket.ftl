@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Engadir etiquetas
-
 pocket-panel-saved-error-generic = Produciuse un erro ao tentar gardar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = As etiquetas está limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Só se poden gardar ligazóns
@@ -19,7 +18,9 @@ pocket-panel-saved-error-not-saved = Non se gardou a páxina
 pocket-panel-saved-error-no-internet = É necesario estar conectado á Internet para poder gardar en { -pocket-brand-name }. Conéctese á Internet e tente de novo.
 pocket-panel-saved-page-removed = Retirouse a páxina
 pocket-panel-saved-page-saved = Gardouse en { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Gardouse en { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Retirando páxina…
+pocket-panel-saved-removed = Páxina eliminada da miña lista
 pocket-panel-saved-processing-tags = Engadindo etiquetas…
 pocket-panel-saved-remove-page = Retirar páxina
 pocket-panel-saved-save-tags = Gardar
@@ -27,6 +28,8 @@ pocket-panel-saved-saving-tags = Gardando…
 pocket-panel-saved-suggested-tags = Etiquetas suxeridas
 pocket-panel-saved-tags-saved = Engadíronse as etiquetas
 pocket-panel-signup-view-list = Ver lista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Engadir etiquetas:
 
 ## about:pocket-signup panel
 
@@ -48,8 +51,15 @@ pocket-panel-home-paragraph = Pode empregar { -pocket-brand-name } para explorar
 pocket-panel-home-explore-popular-topics = Explorar temas populares
 pocket-panel-home-discover-more = Descubrir máis
 pocket-panel-home-explore-more = Explorar
+pocket-panel-home-most-recent-saves-loading = Cargando o gardado recentemente…
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Ver a miña lista
+pocket-panel-header-my-saves = Ver os meus gardados
+pocket-panel-header-sign-in = Acceder
+
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Mostralo todo
+pocket-panel-button-remove = Retirar

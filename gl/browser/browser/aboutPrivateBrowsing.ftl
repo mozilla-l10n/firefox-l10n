@@ -22,11 +22,11 @@ about-private-browsing-not-private = Actualmente non está nunha xanela privada.
 about-private-browsing-info-description-private-window = Xanela privada: O { -brand-short-name } limpa o historial de buscas e de navegación ao pechar todas as xanelas privadas,. Isto non fai que vostede permaneza no anonimato.
 about-private-browsing-info-description-simplified = O { -brand-short-name } limpa o historial de buscas e de navegación ao pechar todas as xanelas privadas, pero isto non fai que vostede permaneza no anonimato.
 about-private-browsing-learn-more-link = Máis información
-
 about-private-browsing-hide-activity = Agoche a súa actividade e situación en calquera lugar polo que navegue
 about-private-browsing-get-privacy = Obteña proteccións de privacidade en calquera lugar polo que navegue
 about-private-browsing-hide-activity-1 = Agoche a súa actividade e a localización de navegación con { -mozilla-vpn-brand-name }. Un clic crea unha conexión segura, mesmo en redes sen fíos públicas.
 about-private-browsing-prominent-cta = Manteña a súa privacidade con { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Descargar { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -44,4 +44,7 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Pechar
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+
+## Strings used in a promotion message for cookie banner reduction
 
