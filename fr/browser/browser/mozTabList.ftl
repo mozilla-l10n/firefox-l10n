@@ -14,6 +14,10 @@ mztabrow-time = { DATETIME($time, timeStyle: "short") }
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 mztabrow-tabs-list-tab =
     .title = Ouvrir { $targetURI } dans un nouvel onglet
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+mztabrow-dismiss-tab-button =
+    .title = Fermer { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 mztabrow-just-now-timestamp = À l’instant
 
