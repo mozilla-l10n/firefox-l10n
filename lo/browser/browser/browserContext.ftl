@@ -148,9 +148,15 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-link =
     .label = ບຸກມາກລີ້ງ
     .accesskey = B
+main-context-menu-bookmark-link-2 =
+    .label = ລິ້ງບຸກມາກ...
+    .accesskey = B
 main-context-menu-save-link =
     .label = ບັນທຶກລີ້ງນີ້ໄວ້ທີ່...
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = ບັນທຶກລິ້ງໄປຫາ { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -307,6 +313,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = ໃຊ້ { -relay-brand-short-name } Email Mask
+    .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = ແນະນຳລະຫັດຜ່ານທີ່ເຂັ້ມແຂງ...
     .accesskey = S

@@ -863,6 +863,9 @@ sitedata-clear =
 sitedata-settings =
     .label = ຈັດການຂໍ້ມູນ…
     .accesskey = M
+sitedata-cookies-exceptions =
+    .label = ຈັດການຂໍ້ຍົກເວັ້ນ...
+    .accesskey = x
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -889,6 +892,15 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-shortcuts-option =
     .label = ທາງ​ລັດ
     .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = ເວັບໄຊທ໌ຍອດນິຍົມ
+    .accesskey = T
+addressbar-locbar-engines-option =
+    .label = ເຄື່ອງ​ມື​ຄົ້ນ​ຫາ
+    .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = ຄຳສັ່ງດ່ວນ
+    .accesskey = Q
 addressbar-suggestions-settings = ປ່ຽນການຕັ້ງຄ່າສຳລັບຄຳແນະນຳເຄື່ອງມືການຊອກຫາ
 addressbar-quickactions-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 

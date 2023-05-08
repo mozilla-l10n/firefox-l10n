@@ -43,3 +43,4 @@ accessibility-text-label-issue-toolbar = ແຖບເຄື່ອງມືຕ້
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-focusable = ອົງປະກອບແບບໂຕ້ຕອບຕ້ອງເປັນຈຸດສຸມ. <a>ສຶກສາເພີ່ມເຕີມ</a>

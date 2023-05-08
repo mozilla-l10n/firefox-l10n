@@ -36,3 +36,21 @@ serviceworker-worker-updated = ອັບເດດ<time>{ DATETIME($date, month: 
 serviceworker-worker-status-running = ກຳລັງເຮັດວຽກ
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = ຢຸດ
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = App Manifest
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = ການນໍາສະເຫນີ
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = ໄອຄອນ
+# Text displayed while we are loading the manifest file
+manifest-loading = ກຳລັງໂຫລດ manifest...
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = ໂຫລດ manifest ແລ້ວ.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = ມີຂໍ້ຜິດພາດໃນຂະນະທີ່ໂຫລດ manifest:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools ຜິດພາດ
+# Text displayed when the page has no manifest available
+manifest-non-existing = ບໍ່ພົບ manifest ເພື່ອກວດກາ.
