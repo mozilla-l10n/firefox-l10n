@@ -758,7 +758,7 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Máis información
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Encher automaticamente as contas e os contrasinais
+    .label = Completar automaticamente as contas e os contrasinais
     .accesskey = i
 forms-saved-logins =
     .label = Identificacións gardadas…
