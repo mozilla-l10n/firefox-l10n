@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Nedavno zaprti zavihki
 appmenu-recently-closed-windows =
     .label = Nedavno zaprta okna
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Iskanje po zgodovini
 
 ## Help panel
 

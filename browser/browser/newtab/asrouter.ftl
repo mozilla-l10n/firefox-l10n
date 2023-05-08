@@ -255,3 +255,19 @@ fox-doodle-pin-secondary = Ne zdaj
 
 set-default-pdf-handler-headline = <strong>Datoteke PDF zdaj za vas odpira { -brand-short-name }.</strong> Sedaj lahko urejate in podpisujete obrazce neposredno v brskalniku. Če želite to spremeniti, v nastavitvah poiščite “PDF”.
 set-default-pdf-handler-primary = Razumem
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Se vam obeta nov računalnik?
+fxa-sync-cfr-body = Naj vam bodo najnovejši zaznamki, gesla in zavihki pri roki vsakič, ko se preselite v nov brskalnik { -brand-product-name }.
+fxa-sync-cfr-primary = Več o tem
+    .accesskey = V
+fxa-sync-cfr-secondary = Opomni me pozneje
+    .accesskey = p
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Uporabljate starejšo napravo?
+device-migration-fxa-spotlight-body = Varnostno kopirajte svoje podatke in poskrbite, da jih ne boste izgubili – še posebej, če boste zamenjali računalnik.
+device-migration-fxa-spotlight-primary-button = Kako varnostno kopirati podatke
+device-migration-fxa-spotlight-link = Opomni me pozneje

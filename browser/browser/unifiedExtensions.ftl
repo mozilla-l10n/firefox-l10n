@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Odstrani razširitev
 unified-extensions-context-menu-report-extension =
     .label = Prijavi razširitev
+unified-extensions-context-menu-move-widget-up =
+    .label = Premakni gor
+unified-extensions-context-menu-move-widget-down =
+    .label = Premakni dol

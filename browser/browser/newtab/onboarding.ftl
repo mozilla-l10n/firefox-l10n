@@ -13,6 +13,14 @@
 onboarding-welcome-header = Dobrodošli v { -brand-short-name(sklon: "mestnik") }
 onboarding-start-browsing-button-label = Začnite z brskanjem
 onboarding-not-now-button-label = Ne zdaj
+mr1-onboarding-get-started-primary-button-label = Začni
+mr1-onboarding-welcome-header = Dobrodošli v { -brand-short-name(sklon: "mestnik") }
+mr1-onboarding-set-default-pin-primary-button-label = Nastavi { -brand-short-name } kot moj glavni brskalnik
+    .title = Nastavi { -brand-short-name } kot privzeti brskalnik in ga pripni v opravilno vrstico
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Nastavi { -brand-short-name } kot privzet brskalnik
+mr1-onboarding-set-default-secondary-button-label = Ne zdaj
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Dodaj { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Prvi koraki: zaslon { $current } od { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Napredek: korak { $current } od { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – oblikovalka pohištva, ljubiteljica Firefoxa
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Napredek: korak { $current } od { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Izklopi animacije
 
@@ -84,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Začni
-mr1-onboarding-welcome-header = Dobrodošli v { -brand-short-name(sklon: "mestnik") }
-mr1-onboarding-set-default-pin-primary-button-label = Nastavi { -brand-short-name } kot moj glavni brskalnik
-    .title = Nastavi { -brand-short-name } kot privzeti brskalnik in ga pripni v opravilno vrstico
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Nastavi { -brand-short-name } kot privzet brskalnik
-mr1-onboarding-set-default-secondary-button-label = Ne zdaj
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Prijava
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -428,3 +427,9 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pogled na sončni zahod skozi okno, na katerem počivata lisica in lončnica
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Roka z razpršilcem slika barvit kolaž z zelenim očesom, oranžnim čevljem, rdečo košarkarsko žogo, vijoličnimi slušalkami, modrim srcem in rumeno krono
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Lisica, ki maha z zaslona prenosnega računalnika. Prenosnik ima priključeno miško.
+onboarding-device-migration-title = Dobrodošli nazaj!

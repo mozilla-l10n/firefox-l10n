@@ -56,7 +56,7 @@ places-by-day-and-site =
     .label = Po datumu in strani
     .accesskey = t
 places-history-search =
-    .placeholder = Zgodovina iskanja
+    .placeholder = Iskanje po zgodovini
 places-history =
     .aria-label = Zgodovina
 places-bookmarks-search =
@@ -77,6 +77,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Uredi mapo …
     .accesskey = U
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
