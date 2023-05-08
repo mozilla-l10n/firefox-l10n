@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Brug { -relay-brand-short-name }-mail-maske
+    .accesskey = m
 main-context-menu-suggest-strong-password =
     .label = Foreslå sikker adgangskode…
     .accesskey = r
