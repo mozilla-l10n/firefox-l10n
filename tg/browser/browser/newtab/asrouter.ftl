@@ -260,3 +260,5 @@ fxa-sync-cfr-secondary = Баъдтар ёдоварӣ кунед
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Аз дастгоҳи куҳна истифода мебаред?
+device-migration-fxa-spotlight-primary-button = Тарзи таҳия кардани нусхаи эҳтиётии маълумоти ман
+device-migration-fxa-spotlight-link = Баъдтар ёдоварӣ кунед
