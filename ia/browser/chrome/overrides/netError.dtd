@@ -84,7 +84,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Controla que le parametros del proxy es correcte.</li>
-  <li>Contacta tu administrator de rete pro saper si le servitor del proxy functiona.</li>
+  <li>Continge tu administrator de rete pro saper si le servitor del proxy functiona.</li>
 </ul>
 ">
 
@@ -131,7 +131,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Que pote tu facer concernente a isto?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Le problema es probabilemente in le sito web, e il ha nihil que tu pote facer pro resolver lo.</p>
-<p>Si tu es in un rete de interprisa o usa un programma anti-virus, tu pote contactar le respective equipas de assistentia technic. Tu pote tamben signalar le problema al administrator del sito.</p>">
+<p>Si tu es in un rete de interprisa o usa un programma anti-virus, tu pote continger le respective equipas de assistentia technic. Tu pote tamben signalar le problema al administrator del sito.</p>">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
 <p>Le horologio de tu computator signa <span id='wrongSystemTime_systemDate2'/>. Verifica que le data, hora e fuso horari es configurate correctemente in tu systema, e alora refresca <span class='hostname'/>.</p>
@@ -153,7 +153,7 @@ was trying to connect. -->
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ha blocate le cargamento de iste pagina in iste contexto perque le pagina ha un politica X-Frame-Options que non lo permitte.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error ha essite detegite in le transmission de datos.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error ha essite detegite in le transmission de datos.</p><ul><li>Continge le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Acceptar le risco e continuar">
 
