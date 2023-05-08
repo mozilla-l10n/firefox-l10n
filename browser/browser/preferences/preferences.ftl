@@ -1217,7 +1217,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
-preferences-doh-header = DNS over HTTPS (HTTPS를 통한 DNS)
+preferences-doh-header = DNS over HTTPS
 preferences-doh-description = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 생성하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
 # Variables:
 #   $status (string) - The status of the DoH connection
