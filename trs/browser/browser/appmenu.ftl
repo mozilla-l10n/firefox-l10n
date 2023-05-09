@@ -15,6 +15,10 @@ appmenuitem-history =
     .label = Sa gini’iājt
 appmenuitem-downloads =
     .label = Nadunïnj
+appmenuitem-passwords =
+    .label = Nej da\'nga\' huìi
+appmenuitem-addons-and-themes =
+    .label = Nej sa nūtò’ nī nej têma
 appmenuitem-print =
     .label = Nari' ña du'ua
 appmenuitem-zoom =
@@ -94,6 +98,11 @@ profiler-popup-discard-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
