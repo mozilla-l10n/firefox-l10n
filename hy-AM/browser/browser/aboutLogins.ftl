@@ -7,6 +7,9 @@ about-logins-page-title = Մուտքագրումներ և գաղտնաբառեր
 login-filter =
     .placeholder = Որոնել մուտքագրումներ
 create-login-button = Ստեղծել նոր մուտքագրում
+about-logins-login-filter =
+    .placeholder = Որոնել մուտքագրումներ
+    .key = F
 create-new-login-button =
     .title = Ստեղծել նոր մուտքագրում
 fxaccounts-sign-in-text = Ստացեք ձեր գաղտնաբառերը ձեր մյուս սարքերում
@@ -40,6 +43,14 @@ login-list-count =
     { $count ->
         [one] { $count } մուտքագրում
        *[other] { $count } մուտքագրումներ
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count }-ը { $total } մուտքագրումից
+       *[other] { $count }-ը { $total } մուտքագրումներից
     }
 login-list-sort-label-text = Տեսակավարել ըստ՝
 login-list-name-option = Անվան (Ա-Ֆ)
