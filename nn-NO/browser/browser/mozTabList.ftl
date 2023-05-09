@@ -5,6 +5,12 @@
 mztabrow-open-menu-button =
     .title = Opne meny
 # Variables:
+#   $date (string) - Date to be formatted based on locale
+mztabrow-date = { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $time (string) - Time to be formatted based on locale
+mztabrow-time = { DATETIME($time, timeStyle: "short") }
+# Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 mztabrow-tabs-list-tab =
     .title = Opne { $targetURI } i ei ny fane
@@ -18,3 +24,17 @@ mztabrow-just-now-timestamp = Akkurat no
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+mztabrow-delete = Slett
+    .accesskey = S
+mztabrow-forget-about-this-site = Gløym denne nettstaden…
+    .accesskey = G
+mztabrow-open-in-window = Opne i nytt vindauge
+    .accesskey = n
+mztabrow-open-in-private-window = Opne i nytt privat vindauge
+    .accesskey = p
+mztabrow-add-bookmark = Bokmerk…
+    .accesskey = B
+mztabrow-save-to-pocket = Lagre til { -pocket-brand-name }
+    .accesskey = L
+mztabrow-copy-link = Kopier lenke
+    .accesskey = K
