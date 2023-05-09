@@ -430,5 +430,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Ноутбук экранындағы түлкі қол бұлғап тұр. Ноутбукке тышқан жалғанған.
 onboarding-device-migration-title = Қайта келуіңізбен!
+onboarding-device-migration-subtitle = Бетбелгілер, парольдер және тарихты жаңа құрылғыда өзіңізбен бірге алып келу үшін{ -fxaccount-brand-name(capitalization: "sentence") } тіркегісіне кіріңіз.
 onboarding-device-migration-primary-button-label = Кіру
