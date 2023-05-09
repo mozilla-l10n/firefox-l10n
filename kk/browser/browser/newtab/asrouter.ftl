@@ -250,6 +250,7 @@ set-default-pdf-handler-primary = Түсіндім
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Болашақта жаңа құрылғыңыз бола ма?
+fxa-sync-cfr-body = Жаңа { -brand-product-name } браузерін ашқанда, соңғы бетбелгілер, парольдер және беттер сізбен бірге болатынына көз жеткізіңіз.
 fxa-sync-cfr-primary = Көбірек білу
     .accesskey = л
 fxa-sync-cfr-secondary = Кейінірек еске салу
@@ -257,3 +258,7 @@ fxa-sync-cfr-secondary = Кейінірек еске салу
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Ескі құрылғыны пайдаланып жатырсыз ба?
+device-migration-fxa-spotlight-body = Бетбелгілер мен парольдер сияқты маңызды ақпаратты жоғалтпау үшін деректердің сақтық көшірмесін жасаңыз, әсіресе жаңа құрылғыға ауыссаңыз.
+device-migration-fxa-spotlight-primary-button = Деректерімнің сақтық көшірмесін қалай жасауға болады
+device-migration-fxa-spotlight-link = Кейінірек еске салу
