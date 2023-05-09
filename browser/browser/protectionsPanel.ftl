@@ -70,6 +70,7 @@ protections-panel-site-not-working-view-issue-list-forms = Formularios
 protections-panel-site-not-working-view-issue-list-payments = Pagos
 protections-panel-site-not-working-view-issue-list-comments = Comentarios
 protections-panel-site-not-working-view-issue-list-videos = Videos
+protections-panel-site-not-working-view-issue-list-fonts = Fuentes
 protections-panel-site-not-working-view-send-report = Envía un reporte
 
 ##
@@ -108,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Desactivar para este sitio
 protections-panel-cookie-banner-handling-undetected = Sitio actualmente no soportado
 protections-panel-cookie-banner-view-title =
     .title = Reducción de banner de cookies
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Atrás
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ¿Desactivar la reducción de banner de cookies para { $host }?
