@@ -21,10 +21,20 @@ appmenuitem-addons-and-themes =
     .label = Nej sa nūtò’ nī nej têma
 appmenuitem-print =
     .label = Nari' ña du'ua
+appmenuitem-find-in-page =
+    .label = Nānà’huì’ riña pâgina…
 appmenuitem-zoom =
     .value = Soom
+appmenuitem-more-tools =
+    .label = Doj sa gā’hue gārasun’
 appmenuitem-help =
     .label = Sa ruguñu'unj un
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Dūnâj
+           *[other] Ña gāhui’
+        }
 
 ## Zoom and Fullscreen Controls
 
