@@ -613,7 +613,7 @@ search-show-suggestions-url-bar-option =
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
-    .label = 기본 검색 엔진 결과 페이지에 URL 대신 검색어 표시
+    .label = 기본 검색 엔진 결과 페이지에서 URL 대신 검색어 표시
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
