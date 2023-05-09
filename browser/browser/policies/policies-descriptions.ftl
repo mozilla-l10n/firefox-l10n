@@ -26,6 +26,8 @@ policy-Bookmarks = Crear marcadores en la barra de herramientas Marcadores, men�
 policy-CaptivePortal = Habilitar o deshabilitar soporte de portal cautivo.
 policy-CertificatesDescription = Agregar certificados o usar certificados incorporados.
 policy-Cookies = Permitir o denegar sitios web para establecer cookies.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Establecer políticas relacionadas con los contenedores.
 policy-DisabledCiphers = Desactivar cifrados.
 policy-DefaultDownloadDirectory = Establece el directorio de descarga predeterminado
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
@@ -114,6 +116,8 @@ policy-SearchEngines = Configurar los ajustes del motor de búsqueda. Esta polí
 policy-SearchSuggestEnabled = Habilitar o deshabilitar sugerencias de búsqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Agregar o eliminar módulos PKCS #11.
 policy-ShowHomeButton = Muestra el botón de inicio en la barra de herramientas.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.

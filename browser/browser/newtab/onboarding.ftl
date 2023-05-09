@@ -433,3 +433,5 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Un zorro que saluda en la pantalla de una laptop. La laptop tiene un mouse conectado.
 onboarding-device-migration-title = ¡Te damos la bienvenida de nuevo!
+onboarding-device-migration-subtitle = Inicia sesión en su { -fxaccount-brand-name(capitalization: "sentence") } para recuperar tus marcadores, contraseñas e historial en tu nuevo dispositivo.
+onboarding-device-migration-primary-button-label = Iniciar sesión
