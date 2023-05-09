@@ -54,3 +54,17 @@ manifest-loaded-error = ມີຂໍ້ຜິດພາດໃນຂະນະທ�
 manifest-loaded-devtools-error = Firefox DevTools ຜິດພາດ
 # Text displayed when the page has no manifest available
 manifest-non-existing = ບໍ່ພົບ manifest ເພື່ອກວດກາ.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = ໄອຄອນ
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest.
+# Variables:
+#   $sizes (string) - User-dependent string that has been parsed as a
+#                     space-separated list of `<width>x<height>` sizes or
+#                     the keyword `any`.
+manifest-icon-img-title = ໄອຄອນທີ່ມີຂະໜາດ: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = ໄອຄອນຂະໜາດທີ່ບໍ່ໄດ້ລະບຸ

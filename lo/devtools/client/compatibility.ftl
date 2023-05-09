@@ -30,3 +30,10 @@ compatibility-settings-header = ການຕັ້ງຄ່າ
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences = { $number } ເກີດຂຶ້ນ
+compatibility-no-issues-found = ບໍ່ພົບບັນຫາຄວາມເຂົ້າກັນໄດ້.
+compatibility-close-settings-button =
+    .title = ປິດການຕັ້ງຄ່າ
