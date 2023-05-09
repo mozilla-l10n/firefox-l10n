@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (тақырыпсыз)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Қауіпсіздік мақсаттарында бүйір панелінен "javascript:" пен "data:" адрестерін жүктеуге тыйым салынған.
 places-bookmarks-backup-title = Бетбелгілердің резервті нұсқасы бар файлдың аты
 places-bookmarks-restore-alert-title = Бетбелгілерді қалпына келтіру
 places-bookmarks-restore-alert = Ағымдағы бетбелгілердің барлығы резервті нұсқасындағы бетбелгілерімен ауыстырылады. Мұны қалайсыз ба?
