@@ -26,3 +26,5 @@ mztabrow-just-now-timestamp = Gerade eben
 
 mztabrow-delete = Löschen
     .accesskey = L
+mztabrow-copy-link = Link kopieren
+    .accesskey = L
