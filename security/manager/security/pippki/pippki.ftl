@@ -77,7 +77,7 @@ set-password-reminder = Cudromach: ma dhìochuimhnicheas tu facal-faire lethbhre
 
 protected-auth-window =
     .title = Dearbhadh le tòcan dìonta
-protected-auth-msg = Dearbhaich an tòcan. Tha an dòigh dearbhachaidh a' crochadh air seòrsan an tòcain agad.
+protected-auth-msg = Dearbh an tòcan. Tha an dòigh dearbhachaidh a’ crochadh air seòrsa an tòcain agad.
 protected-auth-token = Tòcan:
 
 ## Protected authentication alert
