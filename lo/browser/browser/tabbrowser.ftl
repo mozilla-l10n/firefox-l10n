@@ -103,5 +103,13 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = ເຊົາປິດສຽງແທັບ
     .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = ປິດສຽງແທັບ
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = ເຊົາປິດສຽງແທັບ
+    .accesskey = m
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = ກຳລັງຫຼິ້ນສຽງ

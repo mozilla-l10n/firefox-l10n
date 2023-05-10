@@ -34,6 +34,9 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = ບຸກມາກແທັບນີ້…
     .accesskey = B
+synced-tabs-context-open-in-private-window =
+    .label = ເປີດໃນໜ້າຕ່າງສ່ວນຕົວໃໝ່
+    .accesskey = P
 
 ##
 

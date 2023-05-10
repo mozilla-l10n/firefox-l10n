@@ -27,6 +27,7 @@ compatibility-settings-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = ການຕັ້ງຄ່າ
+compatibility-target-browsers-header = ຕົວທ່ອງເວັບເປົ້າຫມາຍ
 
 ##
 

@@ -969,9 +969,17 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = ຕົວຂຸດຫລຽນດິຈິຕໍລ
     .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = ລາຍນິ້ວມື
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = ຈັດການຂໍ້ຍົກເວັ້ນ...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
