@@ -500,7 +500,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Začít prohlížet
 
 ## Onboarding spotlight for infrequent users
 
-onboarding-infrequent-import-title = Ciťte se jako doma
+onboarding-infrequent-import-title = Buďte se jako doma
 onboarding-infrequent-import-primary-button =
     { -brand-short-name.case-status ->
         [with-cases] Importovat do { -brand-short-name(case: "gen") }
