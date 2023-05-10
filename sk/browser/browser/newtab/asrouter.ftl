@@ -255,7 +255,7 @@ set-default-pdf-handler-primary = Rozumiem
 
 ## FxA sync CFR
 
-fxa-sync-cfr-header = Nové zariadenie vo vašej budúcnosti?
+fxa-sync-cfr-header = Plánujete v blízkej budúcnosti nové zariadenie?
 fxa-sync-cfr-body = Uistite sa, že máte vaše záložky, heslá a karty vždy pri sebe, keď otvoríte novú inštaláciu prehliadača { -brand-product-name }.
 fxa-sync-cfr-primary = Ďalšie informácie
     .accesskey = a
