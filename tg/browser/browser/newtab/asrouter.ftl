@@ -251,7 +251,7 @@ set-default-pdf-handler-primary = Фаҳмидам
 
 ## FxA sync CFR
 
-fxa-sync-cfr-header = Дар оянда аз дастгоҳи нав истифода мебаред?
+fxa-sync-cfr-header = Шумо мехоҳед, ки дар оянда аз дастгоҳи дигари нав истифода баред?
 fxa-sync-cfr-primary = Маълумоти бештар
     .accesskey = М
 fxa-sync-cfr-secondary = Баъдтар ёдоварӣ кунед
