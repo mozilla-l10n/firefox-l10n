@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Extensie verwijderen
 unified-extensions-context-menu-report-extension =
     .label = Extensie rapporteren
+unified-extensions-context-menu-move-widget-up =
+    .label = Omhoog verplaatsen
+unified-extensions-context-menu-move-widget-down =
+    .label = Omlaag verplaatsen
