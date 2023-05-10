@@ -247,7 +247,7 @@ set-default-pdf-handler-primary = 知道了！
 
 ## FxA sync CFR
 
-fxa-sync-cfr-header = 您未來的新裝置？
+fxa-sync-cfr-header = 打算要換新裝置？
 fxa-sync-cfr-body = 確保您最新的書籤、密碼、分頁能在開啟新的 { -brand-product-name } 瀏覽器時隨身帶著走。
 fxa-sync-cfr-primary = 更多資訊
     .accesskey = L
