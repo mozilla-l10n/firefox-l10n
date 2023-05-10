@@ -252,6 +252,7 @@ set-default-pdf-handler-primary = Comprés !
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Sètz per aver un aparelh novèl lèu ?
 fxa-sync-cfr-body = Asseguratz-vos que vòstres darrièrs marcapaginas, senhals e onglets vengan amb vos cada còp que dobrissètz un navegador { -brand-product-name } novèl.
 fxa-sync-cfr-primary = Ne saber mai
     .accesskey = N
@@ -260,5 +261,6 @@ fxa-sync-cfr-secondary = Lo me remembrar mai tard
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Utilizatz un aparelh mai ancian ?
 device-migration-fxa-spotlight-primary-button = Cossí salvagardar las donadas
 device-migration-fxa-spotlight-link = Lo me remembrar mai tard
