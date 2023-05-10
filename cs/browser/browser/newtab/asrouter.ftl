@@ -265,6 +265,14 @@ set-default-pdf-handler-primary = Rozumím
 
 ## FxA sync CFR
 
+fxa-sync-cfr-primary = Zjistit více
+    .accesskey = Z
+fxa-sync-cfr-secondary = Upozornit mě později
+    .accesskey = U
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Používáte starší zařízení?
+device-migration-fxa-spotlight-body = Zálohujte svá data, abyste neztratili důležité informace, jako jsou záložky a hesla – zejména pokud přejdete na nové zařízení.
+device-migration-fxa-spotlight-primary-button = Jak zálohovat moje data
+device-migration-fxa-spotlight-link = Upozornit mě později
