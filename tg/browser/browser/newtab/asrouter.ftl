@@ -252,6 +252,7 @@ set-default-pdf-handler-primary = Фаҳмидам
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Шумо мехоҳед, ки дар оянда аз дастгоҳи дигари нав истифода баред?
+fxa-sync-cfr-body = Мутмаин шавед, ки ҳар вақте ки шумо аз браузери нави «{ -brand-product-name }» истифода мебаред, хатбаракҳо, ниҳонвожаҳо ва варақаҳои охирин ҳамеша бо шумо меоянд.
 fxa-sync-cfr-primary = Маълумоти бештар
     .accesskey = М
 fxa-sync-cfr-secondary = Баъдтар ёдоварӣ кунед
