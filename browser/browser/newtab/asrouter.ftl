@@ -252,9 +252,16 @@ set-default-pdf-handler-primary = Begrepen
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Nieuw apparaat in de toekomst?
 fxa-sync-cfr-body = Zorg ervoor dat u uw nieuwste bladwijzers, wachtwoorden en tabbladen altijd bij de hand hebt wanneer u een nieuwe { -brand-product-name }-browser opent.
+fxa-sync-cfr-primary = Meer info
+    .accesskey = M
+fxa-sync-cfr-secondary = Later herinneren
+    .accesskey = L
 
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Gebruikt u een ouder apparaat?
 device-migration-fxa-spotlight-body = Maak een back-up van uw gegevens om ervoor te zorgen dat u geen belangrijke informatie zoals bladwijzers en wachtwoorden kwijtraakt, vooral als u overschakelt naar een nieuw apparaat.
+device-migration-fxa-spotlight-primary-button = Hoe maak ik een back-up van mijn gegevens
+device-migration-fxa-spotlight-link = Later herinneren
