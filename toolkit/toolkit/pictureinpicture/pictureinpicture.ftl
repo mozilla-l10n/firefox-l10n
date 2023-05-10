@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = Pausa
-    .title = Pausa (barra espaciadora)
-pictureinpicture-play-cmd =
-    .aria-label = Reproducir
-    .title = Reproducir (barra espaciadora)
-pictureinpicture-mute-cmd =
-    .aria-label = Silenciar
-    .title = Silenciar ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = Activar sonido
-    .title = Activar sonido ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = Enviar de vuelta a la pestaña
-    .title = Volver a la pestaña
-pictureinpicture-close-cmd =
-    .aria-label = Cerrar
-    .title = Cerrar ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = Subtítulos
-    .title = Subtítulos
 pictureinpicture-pause-btn =
     .aria-label = Pausa
     .tooltip = Pausa (barra espaciadora)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = Pantalla completa
-    .title = Pantalla completa (doble clic)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = Salir de pantalla completa
-    .title = Salir de pantalla completa (doble clic)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = Ir atrás
-    .title = Ir atrás (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = Ir adelante
-    .title = Ir adelante (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = Pantalla completa
     .tooltip = Pantalla completa (doble clic)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Ir adelante
     .tooltip = Ir adelante (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Configuración de subtítulos
 pictureinpicture-subtitles-label = Subtítulos
 pictureinpicture-font-size-label = Tamaño de fuente
 pictureinpicture-font-size-small = Pequeño
