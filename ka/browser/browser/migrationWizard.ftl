@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = ბრაუზერის მონაცემების გადმოტანა
+migration-wizard-selection-list = აირჩიეთ მონაცემები, რომელთა გადმოტანაც გსურთ.
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
