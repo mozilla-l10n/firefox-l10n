@@ -7,10 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Tab zoumaachen
 tabbrowser-menuitem-close =
     .label = Zoumaachen
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -41,4 +37,7 @@ tabbrowser-confirm-open-multiple-tabs-button = Tabs opmaachen
 
 
 ## Context menu buttons, of which only one will be visible at a time
+
+
+## Ctrl-Tab dialog
 
