@@ -37,7 +37,7 @@ flextype-dual = Flex Container/Item
 # Variables
 # $action (string) - Will either be remote-node-picker-notice-action-desktop or
 #                    remote-node-picker-notice-action-touch
-remote-node-picker-notice = Seletor de nós do DevTools ativado. { $action }
+remote-node-picker-notice = Seletor de nodes do DevTools ativado. { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = Clique em um elemento para selecionar no Inspetor
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
