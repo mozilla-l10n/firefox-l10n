@@ -226,25 +226,6 @@ colorways-cfr-header-today = დამოუკიდებელი ხმე�
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = ფუნთუშის მოთხოვნის აბრებო, გაქრით!
-cfr-cookiebanner-body = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს ფუნთუშების ყველა მოთხოვნას, როცა კი შესაძლებელია.
-cfr-cookiebanner-accept-button-v2 = მოთხოვნების უარყოფა
-    .accesskey = უ
-cfr-cookiebanner-reject-button = ახლა არა
-    .accesskey = ა
-cfr-cookiebanner-header-variant-1 = იხილეთ ნაკლები ამომხტარი მოთხოვნები
-cfr-cookiebanner-body-variant-1 = დართეთ ნება და { -brand-short-name } თავადვე უპასუხებს ფუნთუშების ამომხტარ მოთხოვნებს, რომ შეუფერხებლად განაგრძოთ გვერდების მონახულება. { -brand-short-name } უარყოფს ყველას, როცა კი შესაძლებელია.
-cfr-cookiebanner-accept-button-variant-1 = ამომხტომების არიდება
-    .accesskey = რ
-cfr-cookiebanner-reject-button-variant-1 = არა, გმადლობთ
-    .accesskey = ა
-cfr-cookiebanner-header-variant-2 = ფუნთუშის მოთხოვნების შემცირება
-cfr-cookiebanner-body-variant-2 = შეამცირეთ ფუნთუშების აბრები, დართეთ ნება და { -brand-short-name } თავადვე უარყოფს საიტის ფუნთუშის მიღების მოთხოვნებს, როცა კი შესაძლებელია.
-cfr-cookiebanner-accept-button-variant-2 = ნებართვა
-    .accesskey = ნ
-cfr-cookiebanner-reject-button-variant-2 = ახლა არა
-    .accesskey = ა
 cfr-cbh-header = გსურთ, { -brand-short-name } უარყოფდეს ფუნთუშების ნებართვებს?
 cfr-cbh-body = { -brand-short-name } თავადვე უარყოფს ფუნთუშის მოთხოვნების უმეტესობას.
 cfr-cbh-confirm-button = ფუნთუშის მოთხოვნების უარყოფა
@@ -257,8 +238,28 @@ cfr-cbh-dismiss-button = ახლა არა
 july-jam-headline = ჩვენ გიცავთ
 july-jam-body = ყოველთვიურად, { -brand-short-name } ზღუდავს საშუალოდ 3000+ მეთვალყურეს თითოეულ მომხმარებელზე, შედეგად იღებთ უსაფრთხო, სწრაფ წვდომას ჯანსაღ ინტერნეტსივრცესთან.
 july-jam-set-default-primary = ბმულებს გახსნის { -brand-short-name }
+fox-doodle-pin-headline = კეთილი იყოს თქვენი დაბრუნება
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = აქვე მოკლე შეხსენება, რომ თქვენი საყვარელი დამოუკიდებელი ბრაუზერი შეგიძლიათ იქონიოთ თითის ერთ გაწვდენაზე.
+fox-doodle-pin-primary = ბმულების გასახსნელად გამოიყენებოდეს { -brand-short-name }
+fox-doodle-pin-secondary = ახლა არა
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-headline = <strong>თქვენს PDF-ებს ახლა უკვე გახნის { -brand-short-name }.</strong> ჩაასწორეთ ან დაამატეთ ხელმოწერა პირდაპირ ბრაუზერიდან. შესაცვლელად მონახეთ „PDF“ პარამეტრებში.
 set-default-pdf-handler-primary = გასაგებია
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = ახალ მოწყობილობაზე გადადიხართ?
+fxa-sync-cfr-body = თან წაიყოლეთ თქვენი უახლესი სანიშნები, პაროლები და ჩანართები ახალი { -brand-product-name }-ბრაუზერის გახსნისთანავე.
+fxa-sync-cfr-primary = ვრცლად
+    .accesskey = ც
+fxa-sync-cfr-secondary = მოგვიანებით შეხსენება
+    .accesskey = ო
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = ძველ მოწყობილობას იყენებთ?
+device-migration-fxa-spotlight-body = გადაინახეთ მონაცემები, რომ არ დაგეკარგოთ მნიშვნელოვანი ინფორმაცია, მათ შორის სანიშნები და პაროლები –– მით უფრო, თუ ახალ მოწყობილობაზე აპირებთ გადასვლას.
