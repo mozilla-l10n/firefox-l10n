@@ -38,8 +38,8 @@ pictureinpicture-close-btn =
     .aria-label = Tampar
     .tooltip = Tampar ({ $shortcut })
 pictureinpicture-subtitles-btn =
-    .aria-label = Sostitoles
-    .tooltip = Sostitoles
+    .aria-label = Sostítols
+    .tooltip = Sostítols
 
 ##
 
@@ -59,7 +59,7 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Paramètres de jos títols
-pictureinpicture-subtitles-label = Sostitoles
+pictureinpicture-subtitles-label = Sostítols
 pictureinpicture-font-size-label = Talha de polissa
 pictureinpicture-font-size-small = Pichona
 pictureinpicture-font-size-medium = Mejana
