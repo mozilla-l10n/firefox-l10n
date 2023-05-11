@@ -161,3 +161,16 @@ tabbrowser-context-unmute-selected-tabs =
     .accesskey = m
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = A’ cluich fuaim
+
+## Ctrl-Tab dialog
+
+# Variables:
+#   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
+tabbrowser-ctrl-tab-list-all-tabs =
+    .label =
+        { $tabCount ->
+            [one] Seall na tabaichean air fad ({ $tabCount })
+            [two] Seall na tabaichean air fad ({ $tabCount })
+            [few] Seall na tabaichean air fad ({ $tabCount })
+           *[other] Seall na tabaichean air fad ({ $tabCount })
+        }
