@@ -13,6 +13,14 @@
 onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
 onboarding-start-browsing-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
 onboarding-not-now-button-label = ახლა არა
+mr1-onboarding-get-started-primary-button-label = დაიწყეთ
+mr1-onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = აქციეთ { -brand-short-name } ძირითად ბრაუზერად
+    .title = { -brand-short-name } გახდება ნაგულისხმევი ბრაუზერი და მიმაგრდება ამოცანათა ზოლზე
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
+mr1-onboarding-set-default-secondary-button-label = ახლა არა
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = დაამატეთ { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = დაწყება: ეკრანი { $current }, სულ { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = წინსვლა: ნაბიჯი { $current }, სულ { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — ავეჯის კონსტრუქტორი, Firefox-ის ქომაგი
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = წინსვლა: ნაბიჯი { $current }, სულ { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ანიმაციების გათიშვა
 
@@ -84,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = დაიწყეთ
-mr1-onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = აქციეთ { -brand-short-name } ძირითად ბრაუზერად
-    .title = { -brand-short-name } გახდება ნაგულისხმევი ბრაუზერი და მიმაგრდება ამოცანათა ზოლზე
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
-mr1-onboarding-set-default-secondary-button-label = ახლა არა
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = შესვლა
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -429,3 +428,10 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = მზის ჩასვლის ხედი ფანჯრიდან და რაფაზე მძინარე მელა ოთახის ყვავილთან ერთად.
 mr2022-onboarding-colorways-image-alt =
     .aria-label = ხელში დაჭერილი შესასხურებლით იხატება ფერადი ნივთების ნაკრები მწვანე თვალით, ნარინჯისფერი ფეხსაცმლით, კალათბურთის წითელი ბურთით, იისფერი ყურსასმენით, ლურჯი გულითა და ოქროსფერი გვირგინით.
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = მელას მისალმება ნოუთბუქის ეკრანიდან. ნოუთბუქზე მიერთებულია თაგვი.
+onboarding-device-migration-title = კეთილი იყოს თქვენი დაბრუნება!
+onboarding-device-migration-primary-button-label = შესვლა
