@@ -53,3 +53,7 @@ tabbrowser-context-unmute-tab =
 
 ## Ctrl-Tab dialog
 
+# Variables:
+#   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
+tabbrowser-ctrl-tab-list-all-tabs =
+    .label = ಎಲ್ಲಾ ಪಟ್ಟಿ ಮಾಡು { $tabCount } ಹಾಳೆಗಳು
