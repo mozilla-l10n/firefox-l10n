@@ -114,6 +114,9 @@ newtab-menu-show-privacy-info = ᱟᱞᱮ ᱠᱟᱹᱢᱤᱠᱚ ᱟᱨ ᱟᱢᱟ
 newtab-privacy-modal-button-done = ᱦᱩᱭᱮᱱᱟ
 newtab-privacy-modal-button-manage = ᱜᱚᱲᱚ ᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
 newtab-privacy-modal-header = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
+newtab-privacy-modal-paragraph-2 =
+    ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱮᱢᱚᱜ ᱥᱟᱶᱛᱮ, ᱟᱯᱮ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱨᱮᱥ, ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱵᱟᱷᱪᱟᱣ ᱠᱟᱱ ᱥᱯᱳᱱᱥᱚᱨ ᱠᱚ ᱠᱷᱚᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱟᱯᱮ ᱠᱚ ᱴᱷᱮᱱ ᱞᱮ ᱯᱟᱨᱥᱟᱞ ᱟ ᱾ 
+    ᱱᱤᱥᱪᱤᱱᱛ ᱛᱟᱦᱮᱸᱱ ᱢᱮ, <strong>ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱰᱟᱴᱟ ᱫᱚ ᱟᱢᱟᱜ { -brand-product-name } ᱠᱷᱚᱱ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱦᱨᱮ ᱛᱮ ᱵᱟᱭ ᱪᱟᱞᱟᱜᱼᱟ</strong> - ᱟᱞᱮ ᱫᱚ ᱵᱟᱞᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱟᱨ ᱟᱞᱮ ᱨᱤᱱ ᱠᱚ ᱢᱟᱸ ᱢᱩᱴᱮ ᱵᱟᱝᱟ ᱾
 newtab-privacy-modal-link = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱱᱤᱥᱚᱱ ᱪᱮᱞᱠᱟ ᱠᱟᱹᱢᱤᱟᱭ ᱵᱟᱲᱟᱭᱢᱮ
 
 ##
@@ -196,6 +199,11 @@ newtab-section-header-pocket = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟ�
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = ᱵᱽᱨᱟᱣᱡᱤᱝ ᱮᱛᱚᱦᱚᱵ ᱢᱮ, ᱟᱨ ᱟᱢ ᱡᱟᱦᱟᱸᱱ ᱱᱟᱯᱟᱭ ᱚᱱᱚᱞ, ᱵᱷᱤᱰᱤᱭᱳ ᱟᱨ ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱠᱚ ᱞᱮ ᱫᱮᱠᱷᱟᱣ ᱟᱢᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱱᱮᱞᱮ ᱮᱢ ᱧᱮᱞ ᱠᱟᱫᱟ ᱵᱟᱝᱠᱷᱟᱱ ᱡᱟᱦᱟᱸ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱟᱫᱟᱢ ᱾
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = ᱡᱷᱚᱛᱚ ᱪᱟᱵᱟ ᱮᱱᱟ ᱾ { $provider } ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ ᱵᱟᱝ ᱛᱟᱹᱝᱜᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱢ ? ᱣᱮᱵᱽ ᱡᱟᱠᱟᱛ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱦᱤᱱᱤ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -203,6 +211,8 @@ newtab-discovery-empty-section-topstories-header = ᱡᱷᱚᱛᱚ ᱧᱮᱞ ᱦ
 newtab-discovery-empty-section-topstories-content = ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾
 newtab-discovery-empty-section-topstories-try-again-button = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ
 newtab-discovery-empty-section-topstories-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ …
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ᱮᱦᱮ! ᱱᱚᱶᱟ ᱡᱟᱭᱜᱟ ᱨᱮ ᱞᱮ ᱞᱮᱫᱮ ᱠᱟᱫ ᱜᱮᱭᱟ ᱞᱮ, ᱞᱟᱫᱮ ᱠᱟᱹᱢᱤ ᱵᱟᱭ ᱯᱩᱨᱟᱹᱣ ᱠᱟᱱᱟ ᱾
 
 ## Pocket Content Section.
 
