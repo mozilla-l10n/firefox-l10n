@@ -12,10 +12,6 @@ tabbrowser-menuitem-close =
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
-# Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
     .label =
@@ -51,4 +47,7 @@ tabbrowser-confirm-close-tabs-button = Jup unq'a ilb'al tetze'
 
 
 ## Context menu buttons, of which only one will be visible at a time
+
+
+## Ctrl-Tab dialog
 
