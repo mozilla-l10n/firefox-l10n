@@ -12,10 +12,6 @@ tabbrowser-menuitem-close =
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -45,4 +41,7 @@ tabbrowser-confirm-open-multiple-tabs-button = Síne pestañas
 tabbrowser-customizemode-tab-title = Sá´á vii { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
+
+
+## Ctrl-Tab dialog
 
