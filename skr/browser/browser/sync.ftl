@@ -17,6 +17,10 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = ہم وقت کرݨ چالو کرو
 fxa-menu-connect-another-device =
     .label = ہک ٻئٖے آلے نال جوڑو …
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+fxa-menu-send-tab-to-device =
+    .label = ڈیوائس تے ٹیب بھیڄو؛ ڈیوائس تے { $tabCount } ٹیباں بھیڄو۔
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = ڈیوائساں دی ہمہ وقت سازی تھیندی پئی اے …
