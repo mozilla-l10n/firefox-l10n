@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = გაფართოების ამოშლა
 unified-extensions-context-menu-report-extension =
     .label = გაფართოების გასაჩივრება
+unified-extensions-context-menu-move-widget-up =
+    .label = აწევა
+unified-extensions-context-menu-move-widget-down =
+    .label = ჩამოწევა
