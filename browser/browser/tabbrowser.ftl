@@ -12,10 +12,6 @@ tabbrowser-menuitem-close =
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -62,3 +58,6 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = ट्याबमा आवाज आउने बनाउनुहोस्
     .accesskey = m
+
+## Ctrl-Tab dialog
+
