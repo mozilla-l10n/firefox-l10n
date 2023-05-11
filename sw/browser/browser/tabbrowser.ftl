@@ -7,10 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Funga Kichupo
 tabbrowser-menuitem-close =
     .label = Funga
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -39,4 +35,7 @@ tabbrowser-confirm-close-tabs-button = Funga vichupo
 
 
 ## Context menu buttons, of which only one will be visible at a time
+
+
+## Ctrl-Tab dialog
 
