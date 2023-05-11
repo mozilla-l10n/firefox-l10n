@@ -50,11 +50,11 @@ pictureinpicture-exit-fullscreen-btn =
     .aria-label = Quitar l’ecran complèt
     .tooltip = Quitar l’ecran complèt (clic doble)
 pictureinpicture-seekbackward-btn =
-    .aria-label = Retorn arrièr
-    .tooltip = Retorn arrièr (←)
+    .aria-label = Recular
+    .tooltip = Recular (←)
 pictureinpicture-seekforward-btn =
-    .aria-label = Avança
-    .tooltip = Avança (→)
+    .aria-label = Avançar
+    .tooltip = Avançar (→)
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
