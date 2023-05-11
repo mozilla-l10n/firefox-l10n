@@ -162,7 +162,7 @@ urlbar-result-menu-tip-get-help =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = מהיום מקלידים פחות ומוצאים יותר: אפשר לחפש עם { $engineName } ישירות משורת הכתובת שלך.
-urlbar-search-tips-redirect-2 = ניתן להתחיל לחפש בשורת הכתובת כדי לצפות בהצעות מ־{ $engineName } ובהיסטוריית הגלישה שלך.
+urlbar-search-tips-redirect-2 = ניתן להתחיל את החיפוש שלך בשורת הכתובת כדי לצפות בהצעות מ־{ $engineName } ובהיסטוריית הגלישה שלך.
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = החיפוש נעשה פשוט יותר. נסו להפוך את החיפוש שלכם לספציפי יותר כאן בשורת הכתובת. כדי להציג את כתובת האתר במקום, ניתן להיכנס בהגדרות לקטגוריה ״חיפוש״.
 # Prompts users to use the Urlbar when they are typing in the domain of a
