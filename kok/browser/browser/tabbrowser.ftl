@@ -7,10 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = टॅब बंद करात
 tabbrowser-menuitem-close =
     .label = बंद
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -40,3 +36,10 @@ tabbrowser-confirm-close-tabs-button = टॅब्जा बंद करात
 
 ## Context menu buttons, of which only one will be visible at a time
 
+
+## Ctrl-Tab dialog
+
+# Variables:
+#   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
+tabbrowser-ctrl-tab-list-all-tabs =
+    .label = सगळ्या { $tabCount } टॅबांचीवळेरी करात
