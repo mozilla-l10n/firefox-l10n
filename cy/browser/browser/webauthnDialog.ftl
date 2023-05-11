@@ -14,4 +14,16 @@ webauthn-pin-invalid-prompt =
         [many] PIN anghywir! Rhowch y PIN cywir ar gyfer eich dyfais. Mae gennych { $retriesLeft } ymgais ar ôl.
        *[other] PIN anghywir! Rhowch y PIN cywir ar gyfer eich dyfais. Mae gennych { $retriesLeft } ymgais ar ôl.
     }
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [zero] PIN anghywir. Mae gennych { $retriesLeft } ymgais ar ôl cyn i chi golli mynediad parhaol i'r manylion adnabod ar y ddyfais hon.
+        [one] PIN anghywir. Mae gennych { $retriesLeft } ymgais ar ôl cyn i chi golli mynediad parhaol i'r manylion adnabod ar y ddyfais hon.
+        [two] PIN anghywir. Mae gennych { $retriesLeft } ymgais ar ôl cyn i chi golli mynediad parhaol i'r manylion adnabod ar y ddyfais hon.
+        [few] PIN anghywir. Mae gennych { $retriesLeft } ymgais ar ôl cyn i chi golli mynediad parhaol i'r manylion adnabod ar y ddyfais hon.
+        [many] PIN anghywir. Mae gennych { $retriesLeft } ymgais ar ôl cyn i chi golli mynediad parhaol i'r manylion adnabod ar y ddyfais hon.
+       *[other] PIN anghywir. Mae gennych { $retriesLeft } ymgais ar ôl cyn i chi golli mynediad parhaol i'r manylion adnabod ar y ddyfais hon.
+    }
+webauthn-pin-invalid-short-prompt = PIN anghywir. Ceisiwch eto.
 webauthn-pin-required-prompt = Rhowch y PIN ar gyfer eich dyfais.
