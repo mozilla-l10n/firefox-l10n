@@ -7,10 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Tswalela thepo
 tabbrowser-menuitem-close =
     .label = Tswalela
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -39,4 +35,7 @@ tabbrowser-confirm-close-tabs-button = Tswalela dithepo
 
 
 ## Context menu buttons, of which only one will be visible at a time
+
+
+## Ctrl-Tab dialog
 
