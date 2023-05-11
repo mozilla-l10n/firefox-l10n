@@ -234,6 +234,12 @@ set-default-pdf-handler-primary = הבנתי
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = יהיה לך מכשיר חדש בעתיד?
+fxa-sync-cfr-body = כדאי לוודא שהסימניות, הססמאות והלשוניות ביותר שלך מגיעות איתך בכל פעם שתפתח דפדפן { -brand-product-name } במכשיר חדש.
+fxa-sync-cfr-primary = מידע נוסף
+    .accesskey = מ
+fxa-sync-cfr-secondary = להזכיר לי מאוחר יותר
+    .accesskey = ל
 
 ## Device Migration FxA Spotlight
 
