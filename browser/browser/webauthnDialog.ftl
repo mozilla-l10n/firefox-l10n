@@ -7,7 +7,7 @@
 webauthn-pin-invalid-prompt =
     { $retriesLeft ->
         [0] 잘못된 PIN! 기기의 올바른 PIN을 입력하세요.
-       *[other] 잘못된 PIN! 기기의 올바른 PIN을 입력하세요. { $retriesLeft }번 더 시도할 수 있습니다.
+       *[other] 잘못된 PIN! 기기의 올바른 PIN을 입력하세요. { $retriesLeft }번의 시도가 남아 있습니다.
     }
 # Variables:
 #  $retriesLeft (Number): number of tries left
