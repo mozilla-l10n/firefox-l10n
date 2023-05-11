@@ -17,6 +17,14 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Aktivizo njëkohësim
 fxa-menu-connect-another-device =
     .label = Lidhni Tjetër Pajisje…
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+fxa-menu-send-tab-to-device =
+    .label =
+        { $tabCount ->
+            [one] Dërgoje Skedën te Pajisje
+           *[other] Dërgo { $tabCount } Skedë te Pajisje
+        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Po njëkohësohen Pajisje…
