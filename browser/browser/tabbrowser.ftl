@@ -5,10 +5,6 @@
 tabbrowser-empty-tab-title = Agafishi Gashya
 tabbrowser-menuitem-close =
     .label = Gufunga
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -36,4 +32,7 @@ tabbrowser-tab-tooltip =
 
 
 ## Context menu buttons, of which only one will be visible at a time
+
+
+## Ctrl-Tab dialog
 
