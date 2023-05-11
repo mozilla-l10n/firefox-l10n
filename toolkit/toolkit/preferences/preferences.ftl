@@ -4,21 +4,19 @@
 
 password-not-set =
     .value = (no establecida)
-
 failed-pp-change = No se puede cambiar la contraseña maestra.
 incorrect-pp = No introdujo la contraseña maestra actual correctamente. Vuelva a intentarlo.
 pp-change-ok = Se cambió correctamente la Contraseña maestra.
-
 pp-empty-warning = Sus contraseñas guardadas y claves privadas no estarán protegidas.
 pp-erased-ok = Eliminó su contraseña maestra. { pp-empty-warning }
 pp-not-wanted = ¡Atención! Decidió no usar una contraseña maestra. { pp-empty-warning }
-
+settings-pp-erased-ok = Eliminó lacontraseña principal. Las contraseñas almacenadas y las claves privadas de certificado administradas por { -brand-short-name } no estarán protegidas.
+settings-pp-not-wanted = ¡Advertencia! Decidió no utilizar una contraseña principal. Las contraseñas almacenadas y las claves privadas de certificado administradas por { -brand-short-name } no estarán protegidas.
 pp-change2empty-in-fips-mode = En este momento se encuentra en modo FIPS. FIPS requiere una contraseña maestra no vacía.
 pw-change-success-title = Cambio de contraseña exitoso
 pw-change-failed-title = Cambio de contraseña fallido
 pw-remove-button =
     .label = Eliminar
-
 primary-password-dialog =
     .title = Contraseña maestra
 set-password-old-password = Contraseña actual:
@@ -26,11 +24,9 @@ set-password-new-password = Ingrese nueva contraseña:
 set-password-reenter-password = Reingrese contraseña:
 set-password-meter = Medidor de calidad de la contraseña
 set-password-meter-loading = Cargando
-
 primary-password-admin = Su administrador requiere que tenga configurada una Contraseña maestra para guardar los inicios de sesión y las contraseñas.
 primary-password-description = Una contraseña maestra se usa para proteger información confidencial como inicios de sesión y contraseñas. Si crea una contraseña maestra, se le pedirá que la ingrese una vez por sesión cuando { -brand-short-name } recupere información guardada protegida por la contraseña.
 primary-password-warning = Asegúrese de recordar la contraseña maestra que ingresó. Si la olvida, no podrá volver a acceder a la información que está protegiendo.
-
 remove-primary-password =
     .title = Eliminar contraseña maestra
 remove-info =
