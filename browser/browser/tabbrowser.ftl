@@ -7,10 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Vala Isigqebhe
 tabbrowser-menuitem-close =
     .label = Vala
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -39,4 +35,7 @@ tabbrowser-confirm-close-tabs-button = Vala izigqebhe
 
 
 ## Context menu buttons, of which only one will be visible at a time
+
+
+## Ctrl-Tab dialog
 
