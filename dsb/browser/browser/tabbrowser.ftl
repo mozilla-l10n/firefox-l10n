@@ -159,3 +159,15 @@ tabbrowser-context-unmute-selected-tabs =
     .accesskey = o
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Awdio wótgraś
+
+## Ctrl-Tab dialog
+
+# Variables:
+#   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
+tabbrowser-ctrl-tab-list-all-tabs =
+    .label =
+        { $tabCount ->
+            [two] Wobej { $tabCount } rejtarika nalicyś
+            [few] Wšě { $tabCount } rejtariki nalicyś
+           *[other] Wšych { $tabCount } rejtarikow nalicyś
+        }
