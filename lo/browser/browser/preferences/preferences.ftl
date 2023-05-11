@@ -963,6 +963,9 @@ content-blocking-tracking-protection-option-all-windows =
     .label = ໃນໜ້າຕ່າງທັງໝົດ
     .accesskey = A
 content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
+content-blocking-cookies-label =
+    .label = ຄຸກກີ້
+    .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = ຂໍ້ມູນເພີ່ມເຕີມ
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.

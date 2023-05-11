@@ -38,3 +38,11 @@ compatibility-issue-occurrences = { $number } ເກີດຂຶ້ນ
 compatibility-no-issues-found = ບໍ່ພົບບັນຫາຄວາມເຂົ້າກັນໄດ້.
 compatibility-close-settings-button =
     .title = ປິດການຕັ້ງຄ່າ
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        ບັນຫາຄວາມເຂົ້າກັນໄດ້ໃນ:
+        { $browsers }

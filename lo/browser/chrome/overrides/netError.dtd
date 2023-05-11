@@ -108,6 +108,7 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; ກວດພົບໄພຂົ່ມຂູ່ດ້ານຄວາມປອດໄພທີ່ອາດຈະເກີດຂຶ້ນ ແລະ ບໍ່ໄດ້ສືບຕໍ່ໄປຫາ <span class='hostname'/> ເພາະວ່າເວັບໄຊທ໌ນີ້ຕ້ອງການການເຊື່ອມຕໍ່ທີ່ປອດໄພ.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; ກວດພົບບັນຫາ ແລະບໍ່ໄດ້ສືບຕໍ່ໄປຫາ <span class='hostname'/>. ເວັບ​ໄຊ​ທ໌​ຖືກ​ຕັ້ງ​ຄ່າ​ຜິດ​ຫຼື​ໂມງ​ຄອມ​ພິວ​ເຕີ​ຂອງ​ທ່ານ​ຖືກ​ຕັ້ງ​ເປັນ​ເວ​ລາ​ທີ່​ຜິດ​ພາດ.">
+<!ENTITY certerror.expiredCert.secondPara2 "ມັນເປັນໄປໄດ້ວ່າໃບຢັ້ງຢືນຂອງເວັບໄຊທ໌ຈະຫມົດອາຍຸ, ເຊິ່ງປ້ອງກັນບໍ່ໃຫ້ &brandShortName; ຈາກ​ການ​ເຊື່ອມ​ຕໍ່​ຢ່າງ​ປອດ​ໄພ​. ຖ້າທ່ານໄປຢ້ຽມຢາມເວັບໄຊທ໌ນີ້, ຜູ້ໂຈມຕີສາມາດພະຍາຍາມລັກຂໍ້ມູນເຊັ່ນ: ລະຫັດຜ່ານ, ອີເມວ, ຫຼື ລາຍລະອຽດບັດເຄຣດິດຂອງທ່ານ.">
 <!ENTITY certerror.expiredCert.sts.secondPara "ມັນເປັນໄປໄດ້ວ່າໃບຢັ້ງຢືນຂອງເວັບໄຊທ໌ຈະຫມົດອາຍຸ, ເຊິ່ງປ້ອງກັນ &brandShortName; ຈາກ​ການ​ເຊື່ອມ​ຕໍ່​ຢ່າງ​ປອດ​ໄພ​.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ເຈົ້າສາມາດເຮັດແນວໃດກ່ຽວກັບມັນ?">

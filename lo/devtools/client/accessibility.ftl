@@ -34,13 +34,21 @@ accessibility-text-label-issue-fieldset = ອົງປະກອບ <code>fieldse
 accessibility-text-label-issue-fieldset-legend2 = ໃຊ້ອົງປະກອບ <code>legend</code> ເພື່ອຕິດປ້າຍກຳກັບ <span>fieldset</span>. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-form = ອົງປະກອບແບບຟອມຕ້ອງຖືກຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-form-visible = ອົງປະກອບແບບຟອມຄວນມີປ້າຍຂໍ້ຄວາມທີ່ເບິ່ງເຫັນໄດ້. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-frame = <code>frame</code> ອົງປະກອບຕ້ອງຖືກຕິດປ້າຍ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-heading = ຫົວຂໍ້ຕ້ອງມີປ້າຍຊື່. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-heading-content = ຫົວຂໍ້ຄວນມີເນື້ອໃນຂໍ້ຄວາມທີ່ເຫັນໄດ້. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-image = ເນື້ອໃນທີ່ມີຮູບພາບຕ້ອງໄດ້ຮັບການຕິດສະຫຼາກ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-interactive = ອົງປະກອບແບບໂຕ້ຕອບຕ້ອງຖືກຕິດປ້າຍ <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-text-label-issue-optgroup-label2 = ໃຊ້ຄຸນສົມບັດ <code>label</code> ເພື່ອຕິດປ້າຍກຳກັບ <span>optgroup</span>. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-text-label-issue-toolbar = ແຖບເຄື່ອງມືຕ້ອງຖືກຕິດສະຫຼາກເມື່ອມີແຖບເຄື່ອງມືຫຼາຍກວ່າໜຶ່ງແຖບ. <a>ສຶກສາເພີ່ມເຕີມ</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = ອົງປະກອບທີ່ສາມາດສຸມໃສ່ໄດ້ຄວນມີຄວາມຫມາຍແບບໂຕ້ຕອບ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-keyboard-issue-tabindex = ຫຼີກເວັ້ນການໃຊ້ຄຸນສົມບັດ <code>tabindex</code> ທີ່ໃຫຍ່ກວ່າສູນ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-keyboard-issue-action = ອົງປະກອບການໂຕ້ຕອບຈະຕ້ອງສາມາດເປີດໃຊ້ງານໂດຍໃຊ້ແປ້ນພິມໄດ້. <a>ສຶກສາເພີ່ມເຕີມ</a>
 accessibility-keyboard-issue-focusable = ອົງປະກອບແບບໂຕ້ຕອບຕ້ອງເປັນຈຸດສຸມ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-keyboard-issue-focus-visible = ອົງປະກອບທີ່ສາມາດໂຟກັສໄດ້ອາດບໍ່ມີການຈັດຮູບແບບໂຟກັສ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+accessibility-keyboard-issue-mouse-only = ອົງປະກອບທີ່ສາມາດຄລິກໄດ້ຕ້ອງມີຄວາມຕັ້ງໃຈໄດ້ ແລະ ຄວນມີຄວາມໝາຍແບບໂຕ້ຕອບ. <a>ສຶກສາເພີ່ມເຕີມ</a>

@@ -36,8 +36,27 @@ serviceworker-worker-updated = ອັບເດດ<time>{ DATETIME($date, month: 
 serviceworker-worker-status-running = ກຳລັງເຮັດວຽກ
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = ຢຸດ
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = ບໍ່ພົບ service workers
+# Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = ຖ້າໜ້າປັດຈຸບັນຄວນມີ service worker, ທ່ານສາມາດຊອກຫາຂໍ້ຜິດພາດໃນ <a>Console</a> ຫຼື ຂັ້ນຕອນການລົງທະບຽນ service worker ຂອງທ່ານໃນ <span>Debugger</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = ເບິ່ງ service worker ຈາກໂດເມນອື່ນ
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = App Manifest
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = ບໍ່ພົບ web app manifest
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = ຮຽນຮູ້ວິທີເພີ່ມ manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = ຂໍ້ຜິດພາດ ແລະ ຄຳເຕືອນ
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = ຂໍ້ມູນສະເພາະຕົວ
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = ການນໍາສະເຫນີ
 # Header for the Icon section of Manifest inspection displayed in the application panel.
@@ -54,6 +73,14 @@ manifest-loaded-error = ມີຂໍ້ຜິດພາດໃນຂະນະທ�
 manifest-loaded-devtools-error = Firefox DevTools ຜິດພາດ
 # Text displayed when the page has no manifest available
 manifest-non-existing = ບໍ່ພົບ manifest ເພື່ອກວດກາ.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = manifest ໄດ້ຖືກຝັງຢູ່ໃນ URL ຂໍ້ມູນ.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+# Variables:
+#   $purpose (string) - Manifest purpose
+manifest-icon-purpose = ຈຸດປະສົງ: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
