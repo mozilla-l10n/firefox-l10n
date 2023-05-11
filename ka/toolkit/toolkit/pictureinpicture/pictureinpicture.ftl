@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = შეჩერება
-    .title = შეჩერება (ჰარი)
-pictureinpicture-play-cmd =
-    .aria-label = გაშვება
-    .title = გაშვება (ჰარი)
-pictureinpicture-mute-cmd =
-    .aria-label = დადუმება
-    .title = დადუმება ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = ახმოვანება
-    .title = ახმოვანება ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = დაბრუნება ჩანართში
-    .title = დაბრუნება ჩანართში
-pictureinpicture-close-cmd =
-    .aria-label = დახურვა
-    .title = დახურვა ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = ზედწარწერები
-    .title = სუბტიტრები
 pictureinpicture-pause-btn =
     .aria-label = შეჩერება
     .tooltip = შეჩერება (ჰარი)
@@ -64,18 +43,6 @@ pictureinpicture-subtitles-btn =
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = სრულ ეკრანზე
-    .title = სრულეკრანიანი (ორმაგი წკაპი)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = გამოსვლა სრული ეკრანიდან
-    .title = სრულეკრანიანიდან გამოსვლა (ორმაგი წკაპი)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = უკუსვლა
-    .title = უკან გადახვევა (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = წინსვლა
-    .title = წინ გადახვევა (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = სრულ ეკრანზე
     .tooltip = სრულეკრანიანი (ორმაგი წკაპი)
@@ -88,6 +55,10 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = წინსვლა
     .tooltip = წინ გადახვევა (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = ქვეწარწერების პარამეტრები
 pictureinpicture-subtitles-label = ზედწარწერა
 pictureinpicture-font-size-label = შრიფტის ზომა
 pictureinpicture-font-size-small = მცირე

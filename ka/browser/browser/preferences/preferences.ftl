@@ -1238,8 +1238,26 @@ httpsonly-radio-disabled =
 preferences-doh-header = DNS-ის HTTPS-ით გადაცემა
 preferences-doh-description = საიტთა სახელების გადამყვანის (DNS) HTTPS-ით გადაცემისას საიტის მისამართის მოთხოვნები იგზავნება დაშიფრული კავშირით, შედეგად იქმნება დაცული DNS და გარეშე პირებს უძნელდებათ გაარკვიონ, რომელ ვებსაიტებთან ცდილობთ წვდომას.
 # Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = მდგომარეობა: { $status }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = მომწოდებელი: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = არამართებული ბმული
+preferences-doh-steering-status = ადგილობრივი მომწოდებლის გამოყენებით
+preferences-doh-status-active = მოქმედი
+preferences-doh-status-disabled = გამორთ.
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = უქმი ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = ვრცლად
+preferences-doh-setting-default =
+    .label = ნაგულისხმევი დაცვა
+    .accesskey = დ
+preferences-doh-default-detailed-desc-3 = ადგილობრივი მომწოდებელი, როცა კი შესაძლებელია
 
 ## The following strings are used in the Download section of settings
 
