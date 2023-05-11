@@ -6,10 +6,6 @@ tabbrowser-menuitem-close-tab =
     .label = Chiuji scheda
 tabbrowser-menuitem-close =
     .label = Chiuji
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -39,3 +35,10 @@ tabbrowser-confirm-close-tabs-button = Chiuji schedi
 
 ## Context menu buttons, of which only one will be visible at a time
 
+
+## Ctrl-Tab dialog
+
+# Variables:
+#   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
+tabbrowser-ctrl-tab-list-all-tabs =
+    .label = Lista tutti i { $tabCount } schedi
