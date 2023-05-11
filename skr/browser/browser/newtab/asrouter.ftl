@@ -258,4 +258,5 @@ fxa-sync-cfr-secondary = میکوں بعد اِچ یاد ݙیواؤ
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-primary-button = میں آپݨے ڈیٹا کوں بیک اپ کین٘ویں کراں
 device-migration-fxa-spotlight-link = میکوں بعد اِچ یاد ݙیواؤ
