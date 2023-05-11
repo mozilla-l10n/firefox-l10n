@@ -218,9 +218,11 @@ newtab-discovery-empty-section-topstories-timed-out = ᱮᱦᱮ! ᱱᱚᱶᱟ �
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ᱧᱩᱛᱩᱢᱟᱱ ᱵᱤᱥᱚᱭ ᱠᱚ :
+newtab-pocket-new-topics-title = ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱥᱮ ? { -pocket-brand-name } ᱠᱷᱚᱱ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱧᱮᱞ ᱢᱮ ᱾
 newtab-pocket-more-recommendations = ᱰᱷᱮᱨ ᱵᱟᱛᱟᱣᱟᱜ ᱠᱚ
 newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
+newtab-pocket-cta-text = { -pocket-brand-name } ᱨᱮ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱢᱮ, ᱟᱨ ᱵᱮᱥ ᱡᱤᱱᱤᱥ ᱠᱚ ᱮᱢᱟᱱ ᱯᱟᱲᱦᱟᱣ ᱢᱮ ᱾
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱧᱡᱽ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
@@ -242,6 +244,7 @@ newtab-pocket-saved = ᱥᱟᱺᱪᱟᱣᱮᱱᱟ
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = ᱣᱮᱵ ᱨᱮᱭᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱯᱟᱭ ᱡᱤᱱᱤᱥ ᱦᱟᱛᱟᱣ ᱢᱮ
+newtab-pocket-onboarding-cta = { -pocket-brand-name } ᱟᱢᱟᱜ { -brand-product-name } ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱯᱟᱭ, ᱥᱚᱨᱮᱥ ᱠᱟᱛᱷᱟ ᱠᱚ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱞᱮᱠᱟᱱ ᱯᱚᱵᱞᱤᱠᱮᱥᱚᱱ ᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱮᱫᱟᱭ ᱾
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -263,6 +266,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
 newtab-custom-pocket-title = { -pocket-brand-name } ᱮᱛ ᱵᱟᱛᱟᱣᱟᱜ
+newtab-custom-pocket-subtitle = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
 newtab-custom-pocket-sponsored = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
 newtab-custom-pocket-show-recent-saves = ᱱᱮᱱᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 newtab-custom-recent-title = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ

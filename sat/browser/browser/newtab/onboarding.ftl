@@ -291,11 +291,21 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] ᱰᱚᱠ ᱨᱮ { -brand-short-name } ᱫᱚᱦᱚᱭ ᱢᱮ
        *[other] ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝ ᱞᱟᱵᱷ ᱥᱟᱶᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱮᱦᱚᱵ ᱢᱮ ᱾ ᱟᱢᱟᱜ ᱣᱮᱵᱽ ᱨᱮ ᱫᱟᱬᱟ ᱛᱮ ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱞᱮ ᱨᱩᱠᱷᱤᱭᱟᱹᱭᱟ ᱾
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = { -brand-product-name } ᱫᱩᱞᱟᱹᱲᱟᱜ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱜᱮ
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = ᱢᱤᱫᱴᱮᱱ ᱠᱞᱤᱠ ᱛᱮ ᱡᱟᱦᱟᱸ ᱴᱷᱟᱶ ᱠᱷᱚᱱ ᱦᱚᱸ ᱥᱚᱨᱮᱥ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱮᱛᱚᱦᱚᱵ ᱢᱮ ᱾ ᱟᱵᱚᱣᱟᱜ ᱱᱟᱶᱟ ᱠᱷᱚᱵᱚᱨ ᱫᱚ ᱱᱟᱣᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱥᱟᱶ ᱡᱩᱲᱟᱹᱭ ᱟᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱠᱩᱥᱤᱭᱟᱜᱼᱟᱢ ᱾
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = ᱢᱤᱫᱴᱟᱹᱝ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱡᱟᱦᱟᱸᱛᱮ ᱟᱢᱟᱜ ᱣᱮᱵᱽ ᱨᱮ ᱫᱟᱬᱟ ᱛᱮ ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱞᱮ ᱨᱩᱠᱷᱤᱭᱟᱹᱭᱟ ᱾ ᱟᱞᱮᱭᱟᱜ ᱱᱟᱶᱟ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱫᱚ ᱱᱟᱣᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱛᱮ ᱯᱮᱨᱮᱡ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱠᱩᱥᱤᱭᱟᱜᱼᱟᱢ ᱾
 mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } ᱦᱚ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ
 
 ## MR2022 New User Set Default screen strings
@@ -303,16 +313,23 @@ mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } ᱦᱚ ᱱ
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ
 mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱥᱮᱴ ᱢᱮ
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝ ᱞᱟᱵᱷ ᱥᱟᱶᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱮᱦᱚᱵ ᱢᱮ ᱾ ᱟᱢᱟᱜ ᱣᱮᱵᱽ ᱨᱮ ᱫᱟᱬᱟ ᱛᱮ ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱞᱮ ᱨᱩᱠᱷᱤᱭᱟᱹᱭᱟ ᱾
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = ᱟᱞᱮᱭᱟᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱫᱚ ᱟᱢ ᱤᱫᱤᱭᱟᱛᱮ ᱛᱮᱭᱟᱨ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸ ᱛᱮ ᱟᱢ ᱫᱚ ᱣᱮᱵᱽ ᱨᱮ ᱟᱹᱰᱤ ᱟᱞᱜᱟ ᱛᱮ ᱫᱟᱬᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱱᱮᱠᱟ ᱯᱷᱤᱪᱚᱨ ᱛᱮ ᱯᱮᱨᱮᱡ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱠᱩᱥᱤᱭᱟᱜᱼᱟᱢ ᱾
 mr2022-onboarding-get-started-primary-button-label = ᱢᱤᱫᱴᱟᱹᱝ ᱴᱤᱡ ᱨᱮ ᱥᱮᱛ ᱢᱮ
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = ᱟᱹᱰᱤ ᱪᱚᱴᱠᱟᱨ ᱥᱮᱴᱚᱯ
+mr2022-onboarding-import-subtitle = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱥᱮᱴ ᱢᱮ ᱾ ᱟᱢᱟᱜ ᱯᱟᱹᱦᱤᱞ ᱵᱽᱨᱟᱩᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, ᱟᱨ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾
 mr2022-onboarding-import-primary-button-label-no-attribution = ᱢᱟᱲᱟᱝᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 
 ## If your language uses grammatical genders, in the description for the
@@ -355,6 +372,8 @@ mr2022-onboarding-colorway-description-innovator = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴ
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = ᱞᱮᱯᱴᱚᱯ ᱠᱷᱚᱱ ᱯᱷᱚᱱ ᱛᱮ ᱟᱨ ᱯᱷᱮᱨ ᱫᱩᱦᱲᱟᱹ ᱨᱩᱣᱟᱹᱲ ᱢᱮ
+mr2022-onboarding-mobile-download-subtitle = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱤᱫᱤ ᱢᱮ ᱟᱨ ᱱᱤᱛᱚᱜ ᱫᱚ ᱡᱟᱦᱟᱸ ᱨᱮ ᱢᱟᱲᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱢ ᱚᱱᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱵ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾ ᱥᱟᱶᱛᱮ ᱟᱢ { -brand-product-name } ᱫᱚ ᱡᱟᱦᱟᱸ ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱟᱢ ᱟᱨ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ ᱾
 mr2022-onboarding-mobile-download-cta-text = { -brand-product-name } ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ <a data-l10n-name="download-label">ᱢᱤᱫᱴᱟᱹᱝ ᱰᱟᱣᱱᱞᱚᱰ ᱞᱤᱝᱠ ᱵᱷᱮᱡᱟ ᱡᱚᱝ ᱢᱮ</a>
 mr2022-onboarding-no-mobile-download-cta-text = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ { -brand-product-name } ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱾
 
@@ -372,6 +391,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = ᱟᱞᱮ ᱫᱤᱱᱜᱮ ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱮ ᱥᱚᱢᱟᱱᱟᱜᱼᱟ
+mr2022-onboarding-privacy-segmentation-subtitle = ᱵᱩᱫᱷᱤᱭᱟᱹ ᱥᱩᱡᱷᱟᱹᱣ ᱠᱷᱚᱱ ᱥᱮᱸᱫᱽᱨᱟ ᱫᱷᱟᱹᱵᱤᱡ, ᱟᱞᱮ ᱫᱚ ᱵᱮᱥ ᱟᱨ ᱱᱤᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱞᱮᱠᱷᱟ  { -brand-product-name } ᱞᱮ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱾
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 mr2022-onboarding-privacy-segmentation-button-secondary-label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 
