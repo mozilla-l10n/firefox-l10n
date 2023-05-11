@@ -7,10 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Close Tab
 tabbrowser-menuitem-close =
     .label = Close
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -47,3 +43,6 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Unmute Tab
     .accesskey = m
+
+## Ctrl-Tab dialog
+
