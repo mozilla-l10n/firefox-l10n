@@ -11,4 +11,5 @@ webauthn-pin-invalid-prompt =
         [few] Няправільны PIN-код! Увядзіце правільны PIN-код для вашай прылады. У вас засталося { $retriesLeft } спробы.
        *[many] Няправільны PIN-код! Увядзіце правільны PIN-код для вашай прылады. У вас засталося { $retriesLeft } спроб.
     }
+webauthn-pin-invalid-short-prompt = Няправільны PIN-код. Паспрабуйце зноў.
 webauthn-pin-required-prompt = Калі ласка, увядзіце PIN-код для вашай прылады.
