@@ -99,7 +99,7 @@ cfr-doorhanger-milestone-close-button = Tampar
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = Vòstra vida privada es importanta. Ara { -brand-short-name } encamina de forma segura vòstras requèstas DNS tant coma se pòt via un servici partenari per vos protegir pendent la navegacion.
+cfr-doorhanger-doh-body = Vòstra vida privada es importanta. Ara { -brand-short-name } encamina de fòrma segura vòstras requèstas DNS tant coma se pòt via un servici partenari per vos protegir pendent la navegacion.
 cfr-doorhanger-doh-header = Requèstas DNS mai seguras e chifradas
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O

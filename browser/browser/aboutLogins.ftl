@@ -212,7 +212,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 ##
 
 about-logins-confirm-export-dialog-title = Exportacion dels identificants e senhals
-about-logins-confirm-export-dialog-message = Vòstres senhals seràn salvats jos la forma de tèxt legible (per exemple, « senh4l-f3bl3 ») ; atal qual que siá que pòt dobrir lo fichièr poirà los consultar.
+about-logins-confirm-export-dialog-message = Vòstres senhals seràn salvats jos la fòrma de tèxt legible (per exemple, « senh4l-f3bl3 ») ; atal qual que siá que pòt dobrir lo fichièr poirà los consultar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
 about-logins-alert-import-title = Importacion acabada
 about-logins-alert-import-message = Veire lo resumit detalhat de l’importacion

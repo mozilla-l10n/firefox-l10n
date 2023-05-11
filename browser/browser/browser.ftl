@@ -997,4 +997,4 @@ firefox-relay-offer-what-relay-does = Transferirem totes los messatges de <stron
 
 ## Popup Notification
 
-popup-notification-xpinstall-prompt-learn-more = Ne saber mai sus l’installacion de moduls de forma segura
+popup-notification-xpinstall-prompt-learn-more = Ne saber mai sus l’installacion de moduls de fòrma segura
