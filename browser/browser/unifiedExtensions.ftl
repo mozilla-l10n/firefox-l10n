@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Tynnu Estyniad
 unified-extensions-context-menu-report-extension =
     .label = Adrodd ar yr Estyniad
+unified-extensions-context-menu-move-widget-up =
+    .label = Symud i Fyny
+unified-extensions-context-menu-move-widget-down =
+    .label = Symud i Lawr

@@ -175,6 +175,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Dad-dewi Tabiau
     .accesskey = t
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Chwarae sain
 
 ## Ctrl-Tab dialog
 

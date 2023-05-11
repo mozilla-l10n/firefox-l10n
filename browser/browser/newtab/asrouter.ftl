@@ -261,3 +261,19 @@ fox-doodle-pin-secondary = Nid nawr
 
 set-default-pdf-handler-headline = <strong>Mae'ch ffeiliau PDF nawr yn agor yn { -brand-short-name }.</strong> Golygwch neu llofnodwch ffurflenni o fewn eich porwr. I newid, chwiliwch am "PDF" yn y gosodiadau.
 set-default-pdf-handler-primary = Iawn
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Dyfais newydd yn eich dyfodol?
+fxa-sync-cfr-body = Gwnewch yn siŵr fod eich nodau tudalen, cyfrineiriau a thabiau diweddaraf yn dod gyda chi unrhyw bryd y byddwch yn agor porwr { -brand-product-name } newydd.
+fxa-sync-cfr-primary = Dysgu rhagor
+    .accesskey = D
+fxa-sync-cfr-secondary = Atgoffwch fi yn nes ymlaen
+    .accesskey = A
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Yn defnyddio dyfais hŷn?
+device-migration-fxa-spotlight-body = Gwnewch gopi wrth gefn o'ch data i wneud yn siŵr nad ydych chi'n colli manylion pwysig fel nodau tudalen a chyfrineiriau -- yn enwedig os byddwch chi'n newid i ddyfais newydd.
+device-migration-fxa-spotlight-primary-button = Sut i wneud copi wrth gefn o fy nata
+device-migration-fxa-spotlight-link = Atgoffwch fi yn nes ymlaen
