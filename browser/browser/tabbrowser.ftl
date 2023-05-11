@@ -7,10 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = ଟ୍ୟାବ ବନ୍ଦକରନ୍ତୁ
 tabbrowser-menuitem-close =
     .label = ବନ୍ଦକରନ୍ତୁ
-# Variables:
-#   $title (String): the title of the current tab.
-tabbrowser-tab-tooltip =
-    .label = { $title }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -39,4 +35,7 @@ tabbrowser-confirm-close-tabs-button = ଟ୍ୟାବ ବନ୍ଦକରନ୍�
 
 
 ## Context menu buttons, of which only one will be visible at a time
+
+
+## Ctrl-Tab dialog
 
