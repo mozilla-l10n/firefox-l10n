@@ -113,3 +113,10 @@ tabbrowser-context-unmute-selected-tabs =
     .accesskey = m
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = 오디오 재생
+
+## Ctrl-Tab dialog
+
+# Variables:
+#   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
+tabbrowser-ctrl-tab-list-all-tabs =
+    .label = 전체 탭 { $tabCount }개 목록
