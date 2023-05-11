@@ -138,3 +138,11 @@ tabbrowser-context-unmute-selected-tabs =
 
 ## Ctrl-Tab dialog
 
+# Variables:
+#   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
+tabbrowser-ctrl-tab-list-all-tabs =
+    .label =
+        { $tabCount ->
+            [one] Birta alla { $tabCount } flipa
+           *[other] Birta alla { $tabCount } flipa
+        }
