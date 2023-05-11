@@ -12,6 +12,14 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Միացնել համաժամացումը
 fxa-menu-connect-another-device =
     .label = Կապակցել այլ սարք...
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+fxa-menu-send-tab-to-device =
+    .label =
+        { $tabCount ->
+            [one] Ուղարկել ներդիրը սարքին
+           *[other] Ուղարկել { $tabCount } ներդիրները սարքին
+        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Սարքերի համաժամեցում...
