@@ -27,6 +27,8 @@ account-send-to-all-devices-titlecase = Trimite tuturor dispozitivelor
 account-send-tab-to-device-singledevice-status = Niciun dispozitiv conectat
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Află despre trimiterea filelor…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Conectează alt dispozitiv…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
