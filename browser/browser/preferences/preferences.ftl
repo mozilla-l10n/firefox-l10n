@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Merreni Web-in me vete
 sync-signedout-description2 = Njëkohësoni faqerojtësit tuaj, skedat, fjalëkalimet, shtesa dhe rregullime nga krejt pajisjet tuaja.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Që të kryeni njëkohësim te pajisja juaj celulare, shkarkoni Firefox-in për <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ose <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Ndryshoni foto profili
@@ -815,6 +822,16 @@ sync-device-name-save =
     .label = Ruaje
     .accesskey = u
 sync-connect-another-device = Lidhni tjetër pajisje
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Verifikimi u Dërgua
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = U dërgua një lidhje verifikimi te { $email }.
+sync-verification-not-sent-title = S’arrihet të Dërgohet Verifikimi
+sync-verification-not-sent-body = S’qemë në gjendje të dërgojmë mesazh verifikimi këtë herë, ju lutemi, riprovoni më vonë.
 
 ## Privacy Section
 
@@ -1222,6 +1239,9 @@ httpsonly-radio-enabled-pbm =
     .label = Aktivizoje Mënyrën Vetëm-HTTPS vetëm në dritare private
 httpsonly-radio-disabled =
     .label = Mos e aktivizo Mënyrën Vetëm-HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
