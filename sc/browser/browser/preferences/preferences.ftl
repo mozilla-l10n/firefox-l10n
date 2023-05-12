@@ -823,6 +823,11 @@ sync-connect-another-device = Connete un'àteru dispositivu
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Verìfica imbiada
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Ligòngiu de verìfica imbiadu a { $email }.
+sync-verification-not-sent-title = Impossìbile imbiare sa verìfica
+sync-verification-not-sent-body = Impossìbile imbiare sa verìfica in custu momentu; torra·bi a proare a pustis.
 
 ## Privacy Section
 
