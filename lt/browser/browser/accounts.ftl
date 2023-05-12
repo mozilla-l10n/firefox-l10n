@@ -22,6 +22,7 @@ account-verify = Patvirtinti { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Siųsti į visus įrenginius
+account-manage-devices-titlecase = Tvarkyti įrenginius…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -30,6 +31,8 @@ account-send-to-all-devices-titlecase = Siųsti į visus įrenginius
 account-send-tab-to-device-singledevice-status = Nėra susietų įrenginių.
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Sužinokite apie kortelių siuntimą…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Susieti kitą įrenginį…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -39,6 +42,15 @@ account-send-tab-to-device-verify = Patvirtinkite savo paskyrą…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Šis kompiuteris dabar sujungtas su „{ $deviceName }“.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Šis kompiuteris dabar sujungtas su naujuoju įrenginiu.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Sėkmingai prisijungėte
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Šis kompiuteris buvo atjungtas.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -48,6 +60,11 @@ account-single-tab-arriving-title = Gauta kortelė
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Kortelė iš „{ $deviceName }“
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
