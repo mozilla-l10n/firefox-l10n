@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = קחו את הרשת עמכם
 sync-signedout-description2 = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות וההגדרות בין כל המכשירים שלך.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = הורידו את Firefox עבור <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> או <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> כדי להסתנכרן עם המכשירים הניידים שלכם.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = שינוי תמונת פרופיל
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = שמירה
     .accesskey = ש
 sync-connect-another-device = חיבור מכשיר נוסף
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = קישור האימות נשלח
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = קישור האימות נשלח לכתובת { $email }.
+sync-verification-not-sent-title = לא ניתן לשלוח קישור אימות
+sync-verification-not-sent-body = אין באפשרותנו לשלוח את הודעת האימות כרגע, נא לנסות שוב מאוחר יותר.
 
 ## Privacy Section
 
