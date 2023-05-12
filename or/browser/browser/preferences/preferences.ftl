@@ -249,7 +249,14 @@ search-keyword-warning-bookmark = ଆପଣ ଗୋଟିଏ ସୂଚକ ଶବ�
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 
 ## Variables
@@ -278,6 +285,11 @@ sync-engine-history =
 
 ## The device name controls.
 
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = ଯାଞ୍ଚ ବିବରଣୀ ପଠା ସରିଛି
 
 ## Privacy Section
 
@@ -380,6 +392,9 @@ certs-enable-ocsp =
     .accesskey = Q
 
 ## Privacy Section - HTTPS-Only
+
+
+## DoH Section
 
 
 ## The following strings are used in the Download section of settings
