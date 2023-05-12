@@ -41,8 +41,15 @@ account-send-tab-to-device-verify = Verifikasi Akun Anda…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Komputer ini sekarang telah terhubung dengan { $deviceName }.
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Komputer ini terhubung dengan perangkat baru.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Anda berhasil masuk
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Komputer ini sudah tidak terhubung.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
