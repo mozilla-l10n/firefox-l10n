@@ -22,6 +22,7 @@ account-verify = Verificar { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Inviar a tote le apparatos
+account-manage-devices-titlecase = Gerer le apparatos…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -30,6 +31,8 @@ account-send-to-all-devices-titlecase = Inviar a tote le apparatos
 account-send-tab-to-device-singledevice-status = Nulle apparatos connectite
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Informationes sur le invio de schedas…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Connecter un altere apparato…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -46,6 +49,8 @@ account-connection-connected-with = Iste computator es ora connectite con { $dev
 account-connection-connected-with-noname = Iste computator es ora connectite con un nove apparato.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Tu ha correctemente aperite session
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Iste computator ha essite disconnectite.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
