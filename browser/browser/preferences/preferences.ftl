@@ -496,6 +496,9 @@ sync-device-name-save =
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = प्रमाणीकरण पाठइयो
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = एक प्रमाणीकरण लिङ्क { $email } मा पठाइएको छ।
 sync-verification-not-sent-title = प्रमाणिकरण पठाउन असमर्थ
 sync-verification-not-sent-body = हामी यस समय प्रमाणिकरण मेल पठाउन असमर्थ छौँ, पछि पुनःप्रयास गर्नुहोस्।
 
