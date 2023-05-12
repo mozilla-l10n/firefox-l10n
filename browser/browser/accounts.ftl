@@ -22,6 +22,7 @@ account-verify = { $email } ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਭੇਜੋ
+account-manage-devices-titlecase = …ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -41,6 +42,15 @@ account-send-tab-to-device-verify = …ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤ�
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = ਇਹ ਕੰਪਿਊਟਰ ਹੁਣ { $deviceName } ਨਾਲ ਕਨੈਕਟ ਹੈ।
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = ਇਹ ਕੰਪਿਊਟਰ ਹੁਣ ਨਵੇਂ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਹੈ।
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = ਤੁਸੀਂ ਕਾਮਯਾਬੀ ਨਾਲ ਸਾਇਨ ਇਨ ਕਰ ਚੁੱਕੇ ਹੋ
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = ਇਹ ਕੰਪਿਊਟਰ ਡਿਸ-ਕਨੈਕਟ ਹੋ ਚੁੱਕਾ ਹੈ।
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -62,6 +72,18 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ਟੈਬਾਂ ਮਿਲੀਆਂ
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } ਟੈਬ { $deviceName } ਤੋਂ ਪੁੱਜੀ ਹੈ
+       *[other] { $tabCount } ਟੈਬਾਂ { $deviceName } ਤੋਂ ਪੁੱਜੀਆਂ ਹਨ
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } ਟੈਬ ਤੁਹਾਡੇ ਕਨੈਕਟ ਹੋਏ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਈ ਹੈ
+       *[other] { $tabCount } ਟੈਬਾਂ ਤੁਹਾਡੇ ਕਨੈਕਟ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਈਆਂ ਹਨ
+    }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
