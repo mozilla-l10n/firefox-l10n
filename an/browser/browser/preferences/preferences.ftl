@@ -52,6 +52,17 @@ restart-later = Reiniciar mas entabant
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -100,6 +111,10 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = g
 containers-disable-alert-title = Zarrar totas las pestanyas de contenedor?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Si desactiva agora las pestanyas de contenedor, se zarrará { $tabCount } pestanya de contenedor. Ye seguro de fer-lo?
@@ -110,6 +125,9 @@ containers-disable-alert-ok-button =
         [one] Zarrar { $tabCount } pestanya de contenedor
        *[other] Zarrar { $tabCount } pestanyas de contenedor
     }
+
+##
+
 containers-disable-alert-cancel-button = Mantener habilitadas
 containers-remove-alert-title = Borrar iste contenedor?
 # Variables:
@@ -402,6 +420,10 @@ home-prefs-search-header =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomendau per { $provider }
 
@@ -500,6 +522,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Leva-te lo web con tu
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -513,6 +539,9 @@ sync-mobile-promo = Descargar Firefos pa <img data-l10n-name="android-icon"/> <a
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Cambiar a imachen de perfil
 sync-sign-out =
@@ -520,8 +549,15 @@ sync-sign-out =
     .accesskey = Z
 sync-manage-account = Chestionar la cuenta
     .accesskey = t
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } no ye verificau.
 sync-signedin-login-failure = Enciete una sesión ta reconnectar { $email }
+
+##
+
 sync-resend-verification =
     .label = Reninviar la verificación
     .accesskey = d
@@ -611,6 +647,16 @@ sync-device-name-save =
     .label = Alzar
     .accesskey = z
 sync-connect-another-device = Connectar belatro dispositivo
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Verificación ninviada
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = S'ha ninviau un vinclo de verificación ta { $email }
+sync-verification-not-sent-title = No s'ha puesto ninviar a verificación
+sync-verification-not-sent-body = No s'ha puesto ninviar una verificación de correu en isto momento, torne a prebar-lo dimpués.
 
 ## Privacy Section
 
@@ -755,6 +801,9 @@ sitedata-cookies-exceptions =
     .label = Chestionar excepcions…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra d'adrezas
@@ -808,6 +857,9 @@ content-blocking-all-windows-tracking-content = Conteniu que fa seguimiento en t
 content-blocking-all-third-party-cookies = Totas las cookies de tercers
 content-blocking-cryptominers = Criptominers
 content-blocking-fingerprinters = Ditaladas dichitals
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = Atención!
 content-blocking-warning-learn-how = Aprende cómo
 content-blocking-reload-description = Habrás de recargar las tuyas pestanyas pa aplicar estes cambios.
@@ -949,6 +1001,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activar lo modo Nomás-HTTPS nomás en as finestras privadas
 httpsonly-radio-disabled =
     .label = No activar lo modo Nomás-HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
