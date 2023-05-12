@@ -296,6 +296,11 @@ sync-engine-history =
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = বৈধতা পঠোৱা হল
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = { $email }-লৈ এটা সত্যাপন লিংক পঠিওৱা হৈছে।
+sync-verification-not-sent-title = সত্যাপন পঠিয়াব পৰা নগ'ল
+sync-verification-not-sent-body = আমি এই সময়ত এটা সত্যাপন মেইল পঠিয়াব নোৱাৰিলোঁ, অনুগ্ৰহ কৰি পাছত পুনৰ চেষ্টা কৰিব।
 
 ## Privacy Section
 
