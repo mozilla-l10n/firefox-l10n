@@ -21,14 +21,21 @@ account-verify = Confirmer { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Envoyer à tous les appareils
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Aucun appareil connecté
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = En savoir plus sur l’envoi d’onglets…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Le compte n’est pas confirmé
+account-send-tab-to-device-verify = Confirmer le compte…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -41,12 +48,18 @@ account-single-tab-arriving-title = Onglet reçu
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Onglet provenant de { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Onglets reçus
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
