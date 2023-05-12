@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਹਟਾਓ
 unified-extensions-context-menu-report-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
+unified-extensions-context-menu-move-widget-up =
+    .label = ਉੱਤੇ ਭੇਜੋ
+unified-extensions-context-menu-move-widget-down =
+    .label = ਹੇਠਾਂ ਭੇਜੋ
