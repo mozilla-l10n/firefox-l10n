@@ -73,6 +73,17 @@ restart-later = Adloc'hañ diwezhatoc'h
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> reoliañ an arventenn-mañ.
@@ -143,6 +154,10 @@ browser-containers-settings =
     .label = Arventennoù…
     .accesskey = v
 containers-disable-alert-title = Serriñ an holl ivinelloù endalc'her?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
@@ -159,6 +174,9 @@ containers-disable-alert-ok-button =
         [many] Serriñ { $tabCount } a ivinelloù endalc'her
        *[other] Serriñ { $tabCount } ivinell endalc'her
     }
+
+##
+
 containers-disable-alert-cancel-button = Leuskel gweredekaet
 containers-remove-alert-title = Lemel an endalc'had kuit?
 # Variables:
@@ -476,6 +494,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Erbedet gant { $provider }
 home-prefs-recommended-by-description-new = Danvezioù dibar dibabet gant { $provider }, ezel familh { -brand-product-name }
@@ -588,6 +610,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Kemerit ho web ganeoc'h
 sync-signedout-description2 = Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha arventennoù dre veur a drevnad.
 sync-signedout-account-signin3 =
@@ -605,6 +631,9 @@ sync-mobile-promo = Pellgargañ Firefox evit <img data-l10n-name="android-icon"/
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Kemmañ ar skeudenn aelad
 sync-sign-out =
@@ -612,8 +641,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Ardeiñ ar gont
     .accesskey = A
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+
+##
+
 sync-resend-verification =
     .label = Adkas ar gwiriadur
     .accesskey = g
@@ -712,6 +748,16 @@ sync-device-name-save =
     .label = Enrollañ
     .accesskey = E
 sync-connect-another-device = Kennaskit un trevnad all
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Kaset eo bet ar gemennadenn gwiriañ
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Kaset ez eus bet un ere gwiriañ da { $email }
+sync-verification-not-sent-title = Dic'houest da gas ar gemennadenn gwiriañ
+sync-verification-not-sent-body = N'haller ket kas ur postel gwiriañ evit ar mare, klaskit en-dro diwezhatoc'h.
 
 ## Privacy Section
 
@@ -864,6 +910,9 @@ sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barrenn chomlec'hioù
@@ -933,6 +982,9 @@ content-blocking-fingerprinters = Dinoerien roudoù niverel
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Amprouit hor c'heweriuster galloudusañ betek en
     .accesskey = A
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ar gwarez toupinoù klok a endalc'h toupinoù al lec'hienn m'emaoc'h warni, evel-se n’hall ket an heulierien ober ganto evit heuliañ ac'hanoc'h etre al lec'hiennoù.
 content-blocking-etp-standard-tcp-rollout-learn-more = Gouzout hiroc'h
@@ -1091,6 +1143,9 @@ httpsonly-radio-enabled-pbm =
     .label = Gweredekaat HTTPS-hepken er prenestroù prevez hepken
 httpsonly-radio-disabled =
     .label = Na weredekaat ar mod HTTPS-hepken
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
