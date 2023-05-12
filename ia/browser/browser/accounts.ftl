@@ -39,6 +39,13 @@ account-send-tab-to-device-verify = Verifica tu conto…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Iste computator es ora connectite con { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Iste computator es ora connectite con un nove apparato.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Tu ha correctemente aperite session
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -60,6 +67,18 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Schedas recipite
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } scheda ha arrivate de { $deviceName }
+       *[other] { $tabCount } schedas ha arrivate de { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } scheda ha arrivate de tu apparatos connectite
+       *[other] { $tabCount } schedas ha arrivate de tu apparatos connectite
+    }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
