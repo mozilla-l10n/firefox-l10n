@@ -52,6 +52,17 @@ restart-later = Keyinroq qayta ishga tushirish
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Qidiruv natijalari
@@ -102,6 +113,10 @@ browser-containers-settings =
     .label = Sozlamalar
     .accesskey = s
 containers-disable-alert-title = Barcha Container oynalari yopilsinmi?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Konteyner oynasini o‘chirib qo‘ysangiz, { $tabCount } ta konteyner oynasi yopiladi.
@@ -112,6 +127,9 @@ containers-disable-alert-ok-button =
         [one] Konteynerda { $tabCount } ta varaqni yopish
        *[other] Konteynerda { $tabCount } ta varaqni yopish
     }
+
+##
+
 containers-disable-alert-cancel-button = Yoniq qoldirish
 containers-remove-alert-title = Bu konteyner olib tashlansinmi?
 # Variables:
@@ -376,6 +394,10 @@ home-prefs-search-header =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } tomonidan tavsiya qilingan
 
@@ -468,6 +490,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Internet doim siz bilan birga
 sync-signedout-description2 = Xatchoʻplar, tarix, varaqlar, parollar, qoʻshimcha dasturlar va boshqa sozlamalarni barcha qurilmalaringizga sinxronlang.
 sync-signedout-account-signin3 =
@@ -485,6 +511,9 @@ sync-mobile-promo = Firefox brauzerini mobil qurilmangiz bilan sinxronlash uchun
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Profil rasmini o‘zgartirish
 sync-sign-out =
@@ -492,8 +521,15 @@ sync-sign-out =
     .accesskey = C
 sync-manage-account = Hisobni boshqarish
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } tasdiqlanmagan.
 sync-signedin-login-failure = Qayta ulanish uchun kiring { $email }
+
+##
+
 sync-resend-verification =
     .label = Tasdiqlashni qayta yuborish
     .accesskey = y
@@ -593,6 +629,16 @@ sync-device-name-save =
     .accesskey = S
 sync-connect-another-device = Boshqa qurilmani ulash
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Tasdiqlash jo‘natilgan
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Tasdiqlash havolasi { $email } nomli e-pochtaga jo‘natildi
+sync-verification-not-sent-title = Tasdiqlash jo‘natilmadi
+sync-verification-not-sent-body = Ayni paytda tekshirish xatini yubora olmaymiz, keyinroq urinib ko‘ring.
+
 ## Privacy Section
 
 privacy-header = Brauzer maxfiyligi
@@ -669,6 +715,9 @@ sitedata-settings =
     .label = Ma’lumotlarni boshqarish
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Manzil paneli
@@ -692,6 +741,9 @@ addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni 
 
 
 ##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 
 ## Privacy Section - Tracking
@@ -776,6 +828,9 @@ certs-devices =
     .accesskey = X
 
 ## Privacy Section - HTTPS-Only
+
+
+## DoH Section
 
 
 ## The following strings are used in the Download section of settings
