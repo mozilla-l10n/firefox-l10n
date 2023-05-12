@@ -68,6 +68,7 @@ third-party-requires-restart = Rhaid i { -brand-short-name } ailgychwyn i newid 
 third-party-blocking-requires-restart = I rwystro modiwl trydydd parti, rhaid i { -brand-short-name } ailgychwyn.
 third-party-should-restart-title = Ailgychwyn { -brand-short-name }
 third-party-should-restart-ok = Ailgychwynnwch { -brand-short-name } nawr
+third-party-restart-now = Ailgychwyn nawr
 third-party-restart-later = Ailgychwyn yn ddiweddarach
 third-party-blocked-by-builtin =
     .title = Wedi'i rwystro gan { -brand-short-name }
