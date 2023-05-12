@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Өз интернетіңізді өзіңізбен бірге ұстаңыз
 sync-signedout-description2 = Бетбелгілер, шолу тарихы, беттер, парольдер, қосымшалар және баптауларды барлық құрылғыларыңыз арасында синхрондаңыз.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Firefox қолданбасын <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> немесе <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> үшін жүктеп алып, мобильді құрылғыңызбен синхрондаңыз.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Профиль суретін ауыстыру
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Сақтау
     .accesskey = а
 sync-connect-another-device = Басқа құрылғыны байланыстыру
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Растау жіберілді
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = { $email } адресіне растау сілтемесі жіберілді
+sync-verification-not-sent-title = Растауды жіберу мүмкін емес
+sync-verification-not-sent-body = Ағымдағы уақытта растау хатын жіберу сәтсіз аяқталды. Кейінірек қайталап көріңіз.
 
 ## Privacy Section
 
