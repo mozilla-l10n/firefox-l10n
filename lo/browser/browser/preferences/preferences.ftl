@@ -612,6 +612,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ
 sync-signedout-description2 = ຊິ້ງຂໍ້ມູນບຸກມາກ, ປະຫວັດ, ແຖບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ ແລະການຕັ້ງຄ່າຂອງທ່ານໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 sync-signedout-account-signin3 =
@@ -628,6 +632,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ຫລື <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ເພື່ອຊິງຄ໌ກັບອຸປະກອນມືຖືຂອງທ່ານ.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
@@ -719,6 +726,16 @@ sync-device-name-save =
     .label = ບັນທຶກ
     .accesskey = v
 sync-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = ສົ່ງການກວດສອບແລ້ວ
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = ສົ່ງລິ້ງກວດສອບໄປທີ່ { $email } ແລ້ວ
+sync-verification-not-sent-title = ບໍ່ສາມາດສົ່ງລິ້ງກວດສອບ
+sync-verification-not-sent-body = ພວກເຮົາບໍ່ສາມາດສົ່ງຈົດໝາຍກວດສອບໄດ້ໃນຕອນນີ້, ກະລຸນາລອງອີກເທື່ອໜຶ່ງ
 
 ## Privacy Section
 

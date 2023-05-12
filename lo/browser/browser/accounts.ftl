@@ -16,6 +16,8 @@ account-manage-devices = ຈັດການອຸປະກອນ…
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-reconnect = ເຊື່ອມຕໍ່ { $email } ໃໝ໋
+account-verify = ກວດສອບ { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
@@ -24,10 +26,16 @@ account-send-to-all-devices-titlecase = ສົ່ງໄປຫາທຸກອຸ�
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = ບໍ່ມີອຸປະກອນເຊື່ອມຕໍ່
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = ຮຽນຮູ້ກ່ຽວກັບແທັບສົ່ງຕໍ່...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = ບັນຊີຍັງບໍ່ຢືນຢັນ
+account-send-tab-to-device-verify = ຢືນຢັນບັນຊີຂອງທ່ານ...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
