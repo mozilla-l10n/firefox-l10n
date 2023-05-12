@@ -73,6 +73,17 @@ restart-later = Վերամեկնարկել յետոյ
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> վերահսկում է այս կարգաւորումները:
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Կարգաւորումներ...
     .accesskey = ր
 containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Եթե անջատէք պարունակի ներդիրները, { $tabCount } պարունակի ներդիրը կը փակուի: Վստահ էք, որ ցանկանում էք անջատել պարունակի ներդիրը։
@@ -165,6 +180,9 @@ containers-disable-alert-ok-button =
         [one] Փակել { $tabCount } պարունակի ներդիրը
        *[other] { $tabCount } պարունակի ներդիրները
     }
+
+##
+
 containers-disable-alert-cancel-button = Պահել միացուած
 containers-remove-alert-title = Հեռացնե՞լ այս պարունակը:
 # Variables:
@@ -527,6 +545,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Առաջարկուում է { $provider }
 home-prefs-recommended-by-description-new = Բացառիկ բովանդակութիւն, որը համակարգում է { -brand-product-name }-ի ընտանիքի մաս կազմող { $provider }-ը
@@ -636,6 +658,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ունեցէք ձեր ոստայնը ձեզ հետ
 sync-signedout-description2 = Համաժամեցնել էջանիշները, պատմութիւնը, գաղտնաբառերը, յաւելումները եւ կարգաւորումները բոլոր սարքերում:
 sync-signedout-account-signin3 =
@@ -653,6 +679,9 @@ sync-mobile-promo = Ներբեռնել Firefox-ը <img data-l10n-name="android-i
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Փոխել հաշուի նկարը
 sync-sign-out =
@@ -660,8 +689,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Կառավարել հաշիւը
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+##
+
 sync-resend-verification =
     .label = Կրկին ուղարկել հաստատումը
     .accesskey = d
@@ -760,6 +796,16 @@ sync-device-name-save =
     .label = Պահպանել
     .accesskey = պ
 sync-connect-another-device = Միացնել այլ սարքի
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Հաստատումն ուղարկուած է
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Նոյնականացման յղումը ուղարկուել է { $email }-ին։
+sync-verification-not-sent-title = Չյաջողուեց ուղարկել հաստատում
+sync-verification-not-sent-body = Մենք չենք կարողանում ուղարկել ստուգման յղումը։ Փորձէք աւելի ուշ։
 
 ## Privacy Section
 
@@ -912,6 +958,9 @@ sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Հասցէգաւտի
@@ -981,6 +1030,9 @@ content-blocking-fingerprinters = Մատնահետքեր
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Փորձէք մեր գաղտնիութեան պահպանման ամենահզաւր յաւելուածը
     .accesskey = ձ
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Նշոցիկների ամբողղջական պահպանութիւնը ներառում է նշոցիկներ ներկայում գործածուող կայքում, հետագծիչները չեն կարող գործածել դրանք միջկայքային հետապնդման համար:
 content-blocking-etp-standard-tcp-rollout-learn-more = Իմանալ աւելին
@@ -1139,6 +1191,9 @@ httpsonly-radio-enabled-pbm =
     .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
