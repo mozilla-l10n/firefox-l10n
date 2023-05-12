@@ -57,6 +57,9 @@ account-connection-disconnected = Tento počítač byl odpojen.
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = Přijaté panely
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Panely z { $deviceName }
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
