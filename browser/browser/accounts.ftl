@@ -37,6 +37,9 @@ account-send-tab-to-device-verify = ನಿಮ್ಮ ಖಾತೆಯನ್ನು 
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = ಪಡೆಯಲಾದ ಟ್ಯಾಬ್
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = { $deviceName } ಇಂದ ಹಾಳೆ
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
