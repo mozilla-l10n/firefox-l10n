@@ -30,6 +30,8 @@ account-send-to-all-devices-titlecase = Envia a tots els dispositius
 account-send-tab-to-device-singledevice-status = No hi ha cap dispositiu connectat
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Més informació sobre enviar pestanyes…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Connecta un altre dispositiu…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
