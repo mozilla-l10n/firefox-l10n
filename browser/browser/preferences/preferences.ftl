@@ -692,6 +692,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Wzmiće swój web sobu
 sync-signedout-description2 = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
 sync-signedout-account-signin3 =
@@ -708,6 +712,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> abo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> sćahnyć, zo byšće ze swojim mobilnym gratom synchronizował.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profilowy wobraz změnić
@@ -825,6 +832,16 @@ sync-device-name-save =
     .label = Składować
     .accesskey = k
 sync-connect-another-device = Z druhim gratom zwjazać
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Přepruwowanje wotpósłane
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Přepruwowanski wotkaz je so do { $email } pósłał.
+sync-verification-not-sent-title = Wobkrućenje njeda so pósłać
+sync-verification-not-sent-body = Njemóžemy tuchwilu wobkrućensku e-mejlku słać, prošu spytajće pozdźišo hišće raz.
 
 ## Privacy Section
 
