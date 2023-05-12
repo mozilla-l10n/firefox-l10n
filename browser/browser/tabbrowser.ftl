@@ -161,6 +161,7 @@ tabbrowser-tab-audio-playing-description = Відтворення аудіо
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
+            [one] Показати { $tabCount } вкладку
             [few] Показати всі { $tabCount } вкладки
            *[many] Показати всі { $tabCount } вкладок
         }
