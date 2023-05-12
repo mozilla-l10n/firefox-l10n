@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] Tangalt PIN d tarameɣtut! Ttxil-k·m sekcem tagalt PIN tameɣtut i yibenk-ik·im. Mazal-ak·am { $retriesLeft } uneɛruḍ.
        *[other] Tangalt PIN d tarameɣtut! Ttxil-k·m sekcem tagalt PIN tameɣtut i yibenk-ik·im. Mazal-ak·am { $retriesLeft } yineɛruḍen.
     }
+webauthn-pin-invalid-short-prompt = PIN d arameɣtu. Ɛreḍ tikelt-nniḍen.
 webauthn-pin-required-prompt = Ttxil-k·m sekcem PIN i yibenk-ik·im.
