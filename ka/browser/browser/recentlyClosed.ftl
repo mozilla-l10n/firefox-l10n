@@ -17,3 +17,12 @@ recently-closed-panel-reopen-all-windows = ყველა ფანჯრის
 
 ##
 
+# Variables:
+#   $tabCount (Number): Number of other tabs
+#   $winTitle (String): Window title
+recently-closed-undo-close-window-label =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } (და { $tabCount } სხვა ჩანართი)
+       *[other] { $winTitle } (და { $tabCount } სხვა ჩანართი)
+    }
