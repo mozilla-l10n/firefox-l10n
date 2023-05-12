@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ
 appmenu-recently-closed-windows =
     .label = ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਵਿੰਡੋ
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = ਅਤੀਤ ਵਿੱਚ ਖੋਜੋ
 
 ## Help panel
 
