@@ -741,6 +741,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Понесите веб са собом
 sync-signedout-description2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања са свим уређајима.
 sync-signedout-account-signin3 =
@@ -757,6 +761,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Преузмите Firefox за <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> да бисте синхронизовали податке са мобилним уређајем.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Промени профилну слику
@@ -874,6 +881,12 @@ sync-device-name-save =
     .label = Сачувај
     .accesskey = С
 sync-connect-another-device = Повежи други уређај
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-not-sent-title = Не могу да пошаљем потврду
+sync-verification-not-sent-body = Не можемо да пошаљемо е-пошту за потврду, покушајте касније.
 
 ## Privacy Section
 
