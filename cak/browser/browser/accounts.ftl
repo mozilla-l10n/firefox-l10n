@@ -22,6 +22,7 @@ account-verify = Tinik'öx { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Titaq pa Ronojel taq Okisaxel
+account-manage-devices-titlecase = Kenuk'samajïx taq Okisaxel…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -41,6 +42,15 @@ account-send-tab-to-device-verify = Tajikib'a' ri Rub'i' Ataqoya'l…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Re kematz'ib' okinäq rik'in { $deviceName } wakami.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Re kematz'ib' re' okinäq rik'in jun k'ak'a' okisaxel wakami.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Ütz xatikirisaj molojri'ïl
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Xchup re kematz'ib' re'.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
