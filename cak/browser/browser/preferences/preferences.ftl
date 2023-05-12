@@ -656,6 +656,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Tak'waj awik'in ri Ajk'amaya'l
 sync-signedout-description2 = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq runuk'ulem chi kikojol konojel ri taq awokisaxel.
 sync-signedout-account-signin3 =
@@ -672,6 +676,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Taqasaj Firefox richin <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> chuqa' <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> richin naxïm rik'in ri awoyonib'al okisaxel.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
@@ -787,6 +794,12 @@ sync-device-name-save =
     .label = Tiyak
     .accesskey = a
 sync-connect-another-device = Tokisäx jun chik okisaxel
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Xtaq ri runik'oxik
+sync-verification-not-sent-title = Man tikirel ta nitaq ri jikib'anïk
 
 ## Privacy Section
 
