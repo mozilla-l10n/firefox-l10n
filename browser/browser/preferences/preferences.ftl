@@ -548,7 +548,11 @@ sync-device-name-save =
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Apstiprinājums nosūtīts
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Apstiprinājuma saite ir nosūtīta uz { $email }.
 sync-verification-not-sent-title = Nevar nosūtīt apstiprinājumu
+sync-verification-not-sent-body = Diemžēl, šobrīd nav iespējams nosūtīt apstiprinājuma epastu, lūdzu mēģiniet vēlreiz nedaudz vēlāk.
 
 ## Privacy Section
 
