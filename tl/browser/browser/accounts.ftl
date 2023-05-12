@@ -16,6 +16,7 @@ account-manage-devices = I-manage ang mga Device…
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-verify = Patunayan ang { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
@@ -41,6 +42,9 @@ account-send-tab-to-device-verify = Beripikahin ang Iyong Account…
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = Natanggap ang Tab
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Tab mula sa { $deviceName }
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
