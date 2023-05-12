@@ -60,6 +60,11 @@ account-single-tab-arriving-title = وصل لسان
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = لسان من { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
@@ -67,3 +72,30 @@ account-single-tab-arriving-from-device-title = لسان من { $deviceName }
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = وصل لسان
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] وصل لسان من { $deviceName }
+        [two] وصل لسانين من { $deviceName }
+        [few] وصلت { $tabCount } ألسنة من { $deviceName }
+        [many] وصل { $tabCount } لسانًا من { $deviceName }
+       *[other] وصل { $tabCount } لسان من { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] وصل لسان من أجهزتك المتصلة
+        [two] وصل لسانين من أجهزتك المتصلة
+        [few] وصلت { $tabCount } ألسنة من أجهزتك المتصلة
+        [many] وصل { $tabCount } لسانًا من أجهزتك المتصلة
+       *[other] وصل { $tabCount } لسان من أجهزتك المتصلة
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] وصل لسان
+        [two] وصل لسانين
+        [few] وصلت { $tabCount } ألسنة
+        [many] وصل { $tabCount } لسانًا
+       *[other] وصل { $tabCount } لسان
+    }
