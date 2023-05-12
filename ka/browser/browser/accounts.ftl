@@ -22,12 +22,15 @@ account-verify = დაადასტურეთ { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = ყველა მოწყობილობაზე გაგზავნა
+account-manage-devices-titlecase = მოწყობილობების მართვა…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = მოწყობილობები არაა დაკავშირებული
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = ვრცლად ჩანართების გაგზავნის შესახებ…
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = სხვა მოწყობილობის დაკავშირება…
 
@@ -39,6 +42,15 @@ account-send-tab-to-device-verify = დაამოწმეთ ანგარ�
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = ეს კომპიუტერი და { $deviceName } დაკავშირებულია.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = ეს კომპიუტერი დაკავშირებულია ახალ მოწყობილობასთან.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = წარმატებით შეხვედით ანგარიშზე
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = ეს კომპიუტერი გამოთიშულია.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
