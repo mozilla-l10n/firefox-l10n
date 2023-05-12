@@ -668,6 +668,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = 웹과 함께 하세요.
 sync-signedout-description2 = 북마크, 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화하세요.
 sync-signedout-account-signin3 =
@@ -684,6 +688,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = 모바일 기기와 동기화하려면 <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> 또는 <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>용 Firefox를 다운로드하세요.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = 프로필 사진 변경
@@ -801,6 +808,16 @@ sync-device-name-save =
     .label = 저장
     .accesskey = v
 sync-connect-another-device = 다른 기기 연결
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = 검증 이메일 보냄
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = { $email }로 검증 링크를 보냈습니다.
+sync-verification-not-sent-title = 검증 이메일을 보낼 수 없음
+sync-verification-not-sent-body = 지금 검증 이메일을 보낼 수 없습니다. 나중에 다시 시도하세요.
 
 ## Privacy Section
 
