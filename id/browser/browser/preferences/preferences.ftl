@@ -73,6 +73,17 @@ restart-later = Mulai Ulang Nanti
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> mengendalikan setelan ini.
@@ -155,8 +166,15 @@ browser-containers-settings =
     .label = Setelan…
     .accesskey = E
 containers-disable-alert-title = Tutup Semua Kontainer Tab?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc = Jika Anda menonaktifkan Tab Kontainer sekarang, { $tabCount } tab kontainer akan ditutup. Yakin ingin menonaktifkan Tab Kontainer?
 containers-disable-alert-ok-button = Tutup { $tabCount } Tab Kontainer
+
+##
+
 containers-disable-alert-cancel-button = Tetap aktifkan
 containers-remove-alert-title = Hapus Kontainer Ini?
 # Variables:
@@ -523,6 +541,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Disarankan oleh { $provider }
 home-prefs-recommended-by-description-new = Konten luar biasa yang dikelola oleh { $provider }, bagian dari keluarga { -brand-product-name }
@@ -635,6 +657,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Bawalah Web bersama Anda
 sync-signedout-description2 = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai perangkat Anda.
 sync-signedout-account-signin3 =
@@ -652,6 +678,9 @@ sync-mobile-promo = Unduh Firefox untuk <img data-l10n-name="android-icon"/> <a 
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Ubah gambar profil
 sync-sign-out =
@@ -659,8 +688,15 @@ sync-sign-out =
     .accesskey = K
 sync-manage-account = Kelola Akun
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
+
+##
+
 sync-resend-verification =
     .label = Kirim Ulang Verifikasi
     .accesskey = u
@@ -759,6 +795,13 @@ sync-device-name-save =
     .label = Simpan
     .accesskey = S
 sync-connect-another-device = Hubungkan perangkat lain
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Verifikasi Dikirim
+sync-verification-not-sent-title = Gagal Mengirim Verifikasi
+sync-verification-not-sent-body = Kami tidak dapat mengirimkan email verifikasi saat ini, coba lagi nanti.
 
 ## Privacy Section
 
@@ -915,6 +958,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Kelola Pengecualian…
     .accesskey = K
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 
@@ -1161,6 +1207,9 @@ httpsonly-radio-enabled-pbm =
     .label = Aktifkan Mode Hanya HTTPS di jendela pribadi saja
 httpsonly-radio-disabled =
     .label = Jangan aktifkan Mode Hanya HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
