@@ -220,6 +220,7 @@ colorways-cfr-header-today = Afran n yiniten n tuɣac tilelliyin ad ifakk ass-a
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Sireg { -brand-short-name } ad yegdel iɣarracen n yinagan n tuqqna?
 cfr-cbh-body = { -brand-short-name } yezmer ad yagi aṭas yissutar n yiɣarracen n yinagan n tuqqna s wudem awurman.
 cfr-cbh-confirm-button = Agi iɣarracen n yinagan n tuqqna
     .accesskey = A
