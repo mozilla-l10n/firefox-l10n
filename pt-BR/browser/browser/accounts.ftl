@@ -28,6 +28,8 @@ account-send-to-all-devices-titlecase = Enviar para todos os dispositivos
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Sem dispositivos conectados
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Saiba mais sobre envio de abas…
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Conectar outro dispositivo…
 
@@ -39,6 +41,15 @@ account-send-tab-to-device-verify = Verificar sua conta…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Este computador agora está conectado com { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Este computador agora está conectado com um novo dispositivo.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Você entrou na sua conta com sucesso
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Este computador foi desconectado.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -66,6 +77,11 @@ account-multiple-tabs-arriving-from-single-device =
     { $tabCount ->
         [one] { $tabCount } aba chegou do { $deviceName }
        *[other] { $tabCount } abas chegaram do { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } aba chegou dos seus dispositivos conectados
+       *[other] { $tabCount } abas chegaram dos seus dispositivos conectados
     }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
