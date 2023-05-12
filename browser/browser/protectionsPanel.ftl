@@ -9,8 +9,8 @@ protections-panel-sitefixedsendreport-label = Lo site es petaçat ? Enviatz un
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
-protections-popup-footer-protection-label-strict = Estricte
-    .label = Estricte
+protections-popup-footer-protection-label-strict = Estricta
+    .label = Estricta
 protections-popup-footer-protection-label-custom = Personalizat
     .label = Personalizat
 protections-popup-footer-protection-label-standard = Estandard
@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Desactivada per aqueste site
 protections-panel-cookie-banner-handling-undetected = Site actualament pas pres en carga
 protections-panel-cookie-banner-view-title =
     .title = Reduccion de las bandièras de cookies
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Tornar
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Desactivar la reduccion de las bandièras de cookies per { $host } ?

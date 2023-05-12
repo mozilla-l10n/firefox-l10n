@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] Còdi PIN incorrècte ! Picatz lo còdi PIN corrècte per l’aparelh. Vos demòran { $retriesLeft } ensag
        *[other] Còdi PIN incorrècte ! Picatz lo còdi PIN corrècte per l’aparelh. Vos demòran  ensages
     }
+webauthn-pin-invalid-short-prompt = Còdi PIN incorrècte. Tornatz ensajar.
 webauthn-pin-required-prompt = Picatz lo còdi PIN de l’aparelh.
