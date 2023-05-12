@@ -638,9 +638,12 @@ sync-connect-another-device = మరొక పరికరాన్ని అన
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = నిర్ధారణ పంపబడింది
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = ఒక నిర్ధారణ లింకు { $email } కు పంపబడింది.
+sync-verification-not-sent-title = నిర్ధారణను పంపలేకపోయాం
+sync-verification-not-sent-body = ఈ సమయంలో నిర్ధారణ మెయిలుని పంపించలేకపోతున్నాం, దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.
 
 ## Privacy Section
 
