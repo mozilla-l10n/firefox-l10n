@@ -11,4 +11,14 @@ webauthn-pin-invalid-prompt =
         [few] Nesprávny PIN! Zadajte správny kód PIN pre svoje zariadenie. Zostávajú vám { $retriesLeft } pokusy.
        *[other] Nesprávny PIN! Zadajte správny kód PIN pre svoje zariadenie. Zostáva vám { $retriesLeft } pokusov.
     }
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Nesprávny PIN. Zostáva vám { $retriesLeft } pokus, kým natrvalo stratíte prístup k prihlasovacím údajom v tomto zariadení.
+        [few] Nesprávny PIN. Zostávajú vám { $retriesLeft } pokusy, kým natrvalo stratíte prístup k prihlasovacím údajom v tomto zariadení.
+        [many] Nesprávny PIN. Zostáva vám { $retriesLeft } pokusov, kým natrvalo stratíte prístup k prihlasovacím údajom v tomto zariadení.
+       *[other] Nesprávny PIN. Zostáva vám { $retriesLeft } pokusov, kým natrvalo stratíte prístup k prihlasovacím údajom v tomto zariadení.
+    }
+webauthn-pin-invalid-short-prompt = Nesprávny PIN. Skúste to znova.
 webauthn-pin-required-prompt = Zadajte kód PIN pre svoje zariadenie.
