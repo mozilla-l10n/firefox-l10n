@@ -42,6 +42,15 @@ account-send-tab-to-device-verify = حساب خود را تایید کنید
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = این رایانه اکنون به { $deviceName } متصل است.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = این رایانه اکنون به یک دستگاه جدید متصل شد.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = شما با موفقیت وارد سیستم شدید
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = اتصال این رایانه قطع شده است.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
