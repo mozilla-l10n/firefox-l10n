@@ -10,4 +10,12 @@ webauthn-pin-invalid-prompt =
         [one] ਗਲਤ ਪਿੰਨ! ਆਪਣੇ ਡਿਵਾਈਸ ਲਈ ਠੀਕ ਪਿੰਨ ਭਰੋ। ਤੁਹਾਡੇ ਕੋਲ { $retriesLeft } ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਬਚੀ ਹੈ।
        *[other] ਗਲਤ ਪਿੰਨ! ਆਪਣੇ ਡਿਵਾਈਸ ਲਈ ਠੀਕ ਪਿੰਨ ਭਰੋ। ਤੁਹਾਡੇ ਕੋਲ { $retriesLeft } ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਬਚੀਆਂ ਹਨ।
     }
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] ਪਿੰਨ ਗਲਤ ਹੈ। ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਸਨਦਾਂ ਲਈ ਤੁਹਾਡੀ ਪਹੁੰਚ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਖਤਮ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ { $retriesLeft } ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਹੈ।
+       *[other] ਪਿੰਨ ਗਲਤ ਹੈ। ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਸਨਦਾਂ ਲਈ ਤੁਹਾਡੀ ਪਹੁੰਚ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਖਤਮ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ { $retriesLeft } ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ ਹਨ।
+    }
+webauthn-pin-invalid-short-prompt = ਪਿੰਨ ਗਲਤ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 webauthn-pin-required-prompt = ਆਪਣੇ ਡਿਵਾਈਸ ਲਈ ਪਿੰਨ ਦਿਓ।
