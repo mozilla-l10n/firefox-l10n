@@ -804,6 +804,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Vezměte si web s sebou
 sync-signedout-description2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení ve všech svých zařízeních.
 sync-signedout-account-signin3 =
@@ -820,6 +824,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Stáhněte si Firefox pro <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> nebo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> a synchronizujte svá data se svým mobilním zařízením.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Změnit profilový obrázek
@@ -937,6 +944,12 @@ sync-device-name-save =
     .label = Uložit
     .accesskey = l
 sync-connect-another-device = Připojit další zařízení
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Ověření odesláno
+sync-verification-not-sent-title = Ověření nelze odeslat
 
 ## Privacy Section
 
