@@ -14,6 +14,7 @@ recently-closed-menu-reopen-all-windows = بازآوری همهٔ پنجره‌�
 ## and should follow the same capitalization (sentence case for English).
 ## Check appmenu.ftl for reference.
 
+recently-closed-panel-reopen-all-tabs = بازگردانی همهٔ زبانه‌ها
 recently-closed-panel-reopen-all-windows = بازگردانی همهٔ پنجره‌ها
 
 ##
