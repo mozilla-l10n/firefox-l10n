@@ -46,6 +46,7 @@ account-single-tab-arriving-from-device-title = Tabbere { $deviceName }
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Tabbe keɓaama
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
