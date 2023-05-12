@@ -23,6 +23,7 @@ account-send-tab-to-device-singledevice-status = Alaa kaɓirgel seŋii
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify = Ƴeewto konte maa
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
