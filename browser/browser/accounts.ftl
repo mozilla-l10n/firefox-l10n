@@ -22,6 +22,7 @@ account-verify = Vahvista { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Lähetä kaikkiin laitteisiin
+account-manage-devices-titlecase = Hallitse laitteita…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -41,6 +42,8 @@ account-send-tab-to-device-verify = Vahvista tili…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Olet kirjautunut sisään
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
