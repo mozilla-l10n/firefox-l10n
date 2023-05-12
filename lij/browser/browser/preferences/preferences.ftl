@@ -555,6 +555,9 @@ sync-connect-another-device = Conetti atro dispoxitivo
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Verifica mandâ
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Un colegamento de verifica o l'é stæto mandou a { $email }.
 sync-verification-not-sent-title = No se peu mandâ a verifica
 
 ## Privacy Section
