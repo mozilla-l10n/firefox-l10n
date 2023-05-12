@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] Рамзи PIN нодуруст аст! Лутфан, рамзи PIN-и дурустро барои дастгоҳи худ ворид намоед. Шумо { $retriesLeft } кӯшиши дигар доред.
        *[other] Рамзи PIN нодуруст аст! Лутфан, рамзи PIN-и дурустро барои дастгоҳи худ ворид намоед. Шумо { $retriesLeft } кӯшиши дигар доред.
     }
+webauthn-pin-invalid-short-prompt = Рамзи PIN нодуруст аст. Аз нав кӯшиш кунед.
 webauthn-pin-required-prompt = Лутфан, рамзи PIN-ро барои дастгоҳи худ ворид намоед.
