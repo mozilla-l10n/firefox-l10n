@@ -26,6 +26,10 @@ account-send-to-all-devices-titlecase = Azen ɣer akk ibenkan
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Ulac ibenk iqqnen
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Issin ugar ɣef tuzna n waccaren…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -57,3 +61,16 @@ account-single-tab-arriving-from-device-title = Iccer si { $deviceName }
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } n yiccer ilḥeq-d seg { $deviceName }.
+       *[other] { $tabCount } n waccaren leḥqen-d seg { $deviceName }
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } n yiccer yewweḍ-d
+       *[other] { $tabCount } n waccaren wwḍen-d
+    }
