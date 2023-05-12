@@ -30,6 +30,8 @@ account-send-to-all-devices-titlecase = Küldés minden eszközre
 account-send-tab-to-device-singledevice-status = Nincs eszköz csatlakoztatva
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Ismerje meg a lapok küldését…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Másik eszköz csatlakoztatása…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -39,6 +41,15 @@ account-send-tab-to-device-verify = Fiók ellenőrzése…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Ez a számítógép már kapcsolódik ehhez: { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Ez a számítógép egy új eszközhöz kapcsolódik.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Sikeresen bejelentkezett
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = A számítógép leválasztásra került.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
