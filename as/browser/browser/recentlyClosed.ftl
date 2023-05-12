@@ -7,11 +7,15 @@
 ## and should follow the same capitalization (title case for English).
 ## Check menubar.ftl for reference.
 
+recently-closed-menu-reopen-all-tabs = সকলো টেব পুনৰ খোলক
+recently-closed-menu-reopen-all-windows = সকলো ৱিণ্ড' পুনৰ খোলক
 
 ## These strings are used in the app menu,
 ## and should follow the same capitalization (sentence case for English).
 ## Check appmenu.ftl for reference.
 
+recently-closed-panel-reopen-all-tabs = সকলো টেব পুনৰ খোলক
+recently-closed-panel-reopen-all-windows = সকলো উইণ্ড' পুনৰ খোলক
 
 ##
 
