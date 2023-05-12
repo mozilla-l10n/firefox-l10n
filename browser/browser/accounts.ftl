@@ -22,6 +22,7 @@ account-verify = Verifiqueu «{ $email }»
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Envia a tots els dispositius
+account-manage-devices-titlecase = Gestiona els dispositius…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -41,6 +42,15 @@ account-send-tab-to-device-verify = Verifiqueu el compte…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Aquest ordinador ara està connectat amb { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Aquest ordinador ara està connectat amb un dispositiu nou.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Heu iniciat la sessió correctament
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Aquest ordinador s'ha desconnectat.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -50,6 +60,11 @@ account-single-tab-arriving-title = S'ha rebut una pestanya
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Pestanya de { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
