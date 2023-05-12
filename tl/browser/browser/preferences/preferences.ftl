@@ -723,6 +723,7 @@ sync-verification-sent-title = Napadala na ang beripikasyon
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Ang beripikasyon na link ay naipadala na sa { $email }.
 sync-verification-not-sent-title = Hindi maipadala ang beripikasyon
+sync-verification-not-sent-body = Hindi kami makapagpadala ng verification mail sa ngayon, pakisubukan mamaya.
 
 ## Privacy Section
 
