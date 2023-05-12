@@ -73,6 +73,17 @@ restart-later = Ponovo pokreni kasnije
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -129,6 +140,10 @@ browser-containers-settings =
     .label = Postavke…
     .accesskey = t
 containers-disable-alert-title = Zatvoriti sve kontejnerske kartice?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ako sad deaktiviraš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerska kartica. Zaista želiš deaktivirati kontejnerske kartice?
@@ -141,6 +156,9 @@ containers-disable-alert-ok-button =
         [few] Zatvori { $tabCount } kontejnerske kartice
        *[other] Zatvori { $tabCount } kontejnerskih kartica
     }
+
+##
+
 containers-disable-alert-cancel-button = Ostavi aktivirano
 containers-remove-alert-title = Ukloniti ovaj kontejner?
 # Variables:
@@ -458,6 +476,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
 home-prefs-recommended-by-description-new = Izuzetan sadržaj kojeg odabire { $provider }, dio obitelji { -brand-product-name }
@@ -568,6 +590,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ponesi svoj web sa sobom
 sync-signedout-description2 = Sinkroniziraj svoje zabilješke, povijest, kartice, lozinke, dodatke i postavke kroz sve svoje uređaje.
 sync-signedout-account-signin3 =
@@ -585,6 +611,9 @@ sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a d
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Primijeni sliku profila
 sync-sign-out =
@@ -592,8 +621,15 @@ sync-sign-out =
     .accesskey = O
 sync-manage-account = Upravljaj računom
     .accesskey = u
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavi se za ponovno povezivanje s { $email }
+
+##
+
 sync-resend-verification =
     .label = Ponovo pošalji potvrdu
     .accesskey = d
@@ -692,6 +728,15 @@ sync-device-name-save =
     .label = Spremi
     .accesskey = e
 sync-connect-another-device = Poveži drugi uređaj
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Potvrda poslana
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Link potvrde je poslan na { $email }.
+sync-verification-not-sent-title = Slanje potvrde nije moguće
 
 ## Privacy Section
 
@@ -840,6 +885,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Upravljanje iznimkama…
     .accesskey = z
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 
@@ -1059,6 +1107,9 @@ httpsonly-radio-enabled-pbm =
     .label = Aktiviraj način rada "Samo HTTPS" samo u privatnim prozorima
 httpsonly-radio-disabled =
     .label = Nemoj aktivirati način rada "Samo HTTPS"
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
