@@ -21,14 +21,19 @@ account-verify = Потврди { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Пошаљи на све уређаје
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Нема повезаних уређаја
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Налог није потврђен
+account-send-tab-to-device-verify = Потврдите ваш налог…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
