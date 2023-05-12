@@ -832,6 +832,7 @@ sync-connect-another-device = Під'єднати інший пристрій
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = Запит для підтвердження відправлено
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Посилання для підтвердження було надіслано на адресу { $email }.
