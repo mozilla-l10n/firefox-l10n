@@ -21,25 +21,61 @@ account-verify = אימות { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = שליחה לכל המכשירים
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = אין מכשירים מחוברים
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = מידע נוסף על שליחת לשוניות…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = חיבור מכשיר נוסף…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = חשבון לא מאומת
+account-send-tab-to-device-verify = אימות החשבון שלך…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = נכנסת בהצלחה
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = מחשב זה נותק.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = התקבלה לשונית אחת
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = לשונית מהמכשיר { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = התקבלו לשוניות
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] התקבלה לשונית אחת מ־{ $deviceName }
+       *[other] התקבלו { $tabCount } לשוניות מ־{ $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] התקבלה לשונית אחת מהמכשירים המחוברים שלך
+       *[other] התקבלו { $tabCount } לשוניות מהמכשירים המחוברים שלך
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] התקבלה לשונית אחת
+       *[other] התקבלו { $tabCount } לשוניות
+    }
