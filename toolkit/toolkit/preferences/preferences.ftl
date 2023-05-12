@@ -4,21 +4,19 @@
 
 password-not-set =
     .value = (njepostajeny)
-
 failed-pp-change = Njeje móžno, hłowne hesło změnić.
 incorrect-pp = Njejsće prawe hłowne hesło zapodał. Prošu spytajće hišće raz.
 pp-change-ok = Hłowne hesło je so wuspěšnje změniło.
-
 pp-empty-warning = Waše składowane hesła a priwatne kluče so nješkitaja.
 pp-erased-ok = Sće swoje hłowne hesło zhašał.  { pp-empty-warning }
 pp-not-wanted = Warnowanje! Sće so rozsudźił, zo njeby so hłowne hesło wužiwało. { pp-empty-warning }
-
+settings-pp-erased-ok = Sće swoje hłowne hesło zhašał. Přez { -brand-short-name } zrjadowane składowane hesła a priwatne kluče certifikatow so nješkitaja.
+settings-pp-not-wanted = Kedźbu! Sće rozsudźił, hłowne hesło njewužiwać. Přez { -brand-short-name } zrjadowane składowane hesła a priwatne kluče certifikatow so nješkitaja.
 pp-change2empty-in-fips-mode = Sće tuchwilu we FIPS-modusu. FIPS sej hłowne hesło žada.
 pw-change-success-title = Změnjenje hesła je so poradźiło
 pw-change-failed-title = Změnjenje hesła njeje so poradźiło
 pw-remove-button =
     .label = Wotstronić
-
 primary-password-dialog =
     .title = Hłowne hesło
 set-password-old-password = Tuchwilne hesło:
@@ -26,11 +24,9 @@ set-password-new-password = Nowe hesło zapisać:
 set-password-reenter-password = Hesło wospjetować:
 set-password-meter = Měridło kajkosće hesła
 set-password-meter-loading = Začituje so
-
 primary-password-admin = Waš administrator sej žada, zo hłowne hesło nastajeće, zo byšće pžizjewjenja a hesła składował.
 primary-password-description = Hłowne hesło so wužiwa, zo bychu so někotre diskretne informacije kaž přizjewjenja a hesła na tutym graće škitali. Jeli hłowne hesło wutworiće, budźe so was jónkróc na posedźenje za nim prašeć, hdyž { -brand-short-name } składowane informacije škitane z tutym hesłom wotwołuje.
 primary-password-warning = Prošu zawěsćće, zo sej hłowne hesło, kotrež scé stajił, spomjatkujeće. Jeli swoje hłowne hesło zabudźeće, njemóžeće na z nim škitane informacije na tutym graće přistup měć.
-
 remove-primary-password =
     .title = Hłowne hesło wotstronić
 remove-info =
