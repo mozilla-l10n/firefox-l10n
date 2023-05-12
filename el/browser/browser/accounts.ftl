@@ -25,6 +25,10 @@ account-verify = Επαλήθευση { $email }
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Μάθετε για την αποστολή καρτελών…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Σύνδεση άλλης συσκευής…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -38,9 +42,36 @@ account-verify = Επαλήθευση { $email }
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = Ελήφθη καρτέλα
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Καρτέλα από τη συσκευή { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Ελήφθησαν καρτέλες
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] Έφτασε { $tabCount } καρτέλα από τη συσκευή { $deviceName }
+       *[other] Έφτασαν { $tabCount } καρτέλες από τη συσκευή { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] Έφτασε { $tabCount } καρτέλα από τις συνδεδεμένες συσκευές σας
+       *[other] Έφτασαν { $tabCount } καρτέλες από τις συνδεδεμένες συσκευές σας
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] Έφτασε { $tabCount } καρτέλα
+       *[other] Έφτασαν { $tabCount } καρτέλες
+    }
