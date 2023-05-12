@@ -47,6 +47,17 @@ restart-later = Nayi'i ñun' ne' rukú doj
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -95,6 +106,10 @@ browser-containers-settings =
     .label = Nagi'iô'...
     .accesskey = N
 containers-disable-alert-title = Narun' daran' sa hua ni'ninj anj
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Sisa' guxunt rakïj ñanj, { $tabCount } ni ganarán ma'ān a'ngò da'aj rakïj ñanj. Hua nika ruhua raj
@@ -105,6 +120,9 @@ containers-disable-alert-ok-button =
         [one] Ganarun' { $tabCount } rakïj ñanj
        *[other] Ganarun' { $tabCount } rakïj ñanj
     }
+
+##
+
 containers-disable-alert-cancel-button = Ga ra'nga' ma
 containers-remove-alert-title = Guxunt markador na anj?
 # Variables:
@@ -371,6 +389,10 @@ home-prefs-search-header =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
@@ -465,6 +487,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ganikaj web ga'ant
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -478,6 +504,9 @@ sync-mobile-promo = Naduni' Firefox guenda <img data-l10n-name="android-icon"/> 
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Nadunā ña du'uat
 sync-sign-out =
@@ -485,8 +514,15 @@ sync-sign-out =
     .accesskey = G
 sync-manage-account = Dugumi' Kuenda
     .accesskey = D
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } se sa ni'in huin ma.
 sync-signedin-login-failure = Gayi'ī sesión da' gatu ñut { $email }
+
+##
+
 sync-resend-verification =
     .label = Ga'nin' ga'anj ñun ma
     .accesskey = d
@@ -576,6 +612,16 @@ sync-device-name-save =
     .label = Na'nïnj sà'
     .accesskey = N
 sync-connect-another-device = Gatu 'ngà a'ngo aga'a...
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Sa natsít nga gan'anj
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Nga nukui' 'ngo enlâse da' ni'iajt sa gi'iaj gire' { $email }
+sync-verification-not-sent-title = Nu ga'ue gan'anj sa natsít
+sync-verification-not-sent-body = Na'ue natsij aga' na sa ga'nínt riña korreo, yakaj da'nga ñû nanâ doj.
 
 ## Privacy Section
 
@@ -694,6 +740,9 @@ sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Dukuán direksion
@@ -743,6 +792,9 @@ content-blocking-all-windows-tracking-content = Sa ni'iaj sa màn 'iát riña da
 content-blocking-all-third-party-cookies = Daran' nej a'ngô kokî huaa
 content-blocking-cryptominers = Nej Kriptominêro
 content-blocking-fingerprinters = Nej da'nga' ra'a
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = ¡Nuguan' huaa!
 content-blocking-warning-learn-how = Gahuin chrūn dàj
 content-blocking-reload-description = Da' naduna sa huin ruhuât ni da'uît nagi'iaj nakàt rakïj ñanj.
@@ -868,6 +920,9 @@ certs-devices =
     .accesskey = N
 
 ## Privacy Section - HTTPS-Only
+
+
+## DoH Section
 
 
 ## The following strings are used in the Download section of settings
