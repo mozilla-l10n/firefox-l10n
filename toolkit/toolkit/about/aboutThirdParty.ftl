@@ -65,6 +65,7 @@ third-party-button-expand =
 third-party-button-collapse =
     .title = Cau gwybodaeth fanwl
 third-party-requires-restart = Rhaid i { -brand-short-name } ailgychwyn i newid pa fodiwlau trydydd parti sy'n cael eu rhwystro.
+third-party-blocking-requires-restart = I rwystro modiwl trydydd parti, rhaid i { -brand-short-name } ailgychwyn.
 third-party-should-restart-title = Ailgychwyn { -brand-short-name }
 third-party-should-restart-ok = Ailgychwynnwch { -brand-short-name } nawr
 third-party-restart-later = Ailgychwyn yn ddiweddarach
