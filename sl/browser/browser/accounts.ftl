@@ -22,6 +22,7 @@ account-verify = Potrdi { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Pošlji na vse naprave
+account-manage-devices-titlecase = Upravljanje naprav …
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
