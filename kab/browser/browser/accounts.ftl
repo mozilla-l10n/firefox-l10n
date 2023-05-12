@@ -16,6 +16,7 @@ account-manage-devices = Sefrek ibenkan…
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-reconnect = Qqen i tikelt-nniḍen { $email }
 account-verify = Senqed { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
@@ -30,9 +31,17 @@ account-send-to-all-devices-titlecase = Azen ɣer akk ibenkan
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Amiḍan ur yettwasenqed ara
+account-send-tab-to-device-verify = Senqed amiḍan-ik…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Aselkim-a yeqqen akka tura akked { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Aselkim-a yeqqen akka tura akked yibenk amaynut.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Teqneḍ akken iwata
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
