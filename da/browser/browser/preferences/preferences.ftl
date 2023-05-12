@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Tag dit net med dig
 sync-signedout-description2 = Synkroniser din historik, dine bogmærker, faneblade, adgangskoder, tilføjelser og indstillinger på tværs af dine enheder.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Hent Firefox til <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eller <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> for at synkronisere med din mobil-enhed
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Skift profilbillede
@@ -817,6 +824,14 @@ sync-device-name-save =
     .label = Gem
     .accesskey = G
 sync-connect-another-device = Opret forbindelse til en ny enhed
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Et bekræftelseslink er blevet sendt til { $email }.
+sync-verification-not-sent-body = Det er i øjeblikket ikke muligt for os at sende en bekræftelsesmail. Prøv igen senere.
 
 ## Privacy Section
 
