@@ -820,9 +820,11 @@ sync-connect-another-device = 连接其他设备
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = 已发出验证邮件
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = 验证链接已发送到 { $email }。
+sync-verification-not-sent-title = 无法发送验证邮件
 sync-verification-not-sent-body = 我们目前无法发送验证邮件，请稍后再试。
 
 ## Privacy Section
