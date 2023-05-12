@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Prenda tes web cun tai
 sync-signedout-description2 = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tes parameters cun tut tes apparats.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Telechargiar Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> u <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronisar cun tes apparat mobil.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Midar il maletg da profil
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Memorisar
     .accesskey = m
 sync-connect-another-device = Colliar in auter apparat
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Tramess la verificaziun
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Ina colliaziun da verificaziun è vegnida tramessa a { $email }.
+sync-verification-not-sent-title = Impussibel da trametter la verificaziun
+sync-verification-not-sent-body = Impussibel da trametter in e-mail da verificaziun en quest mument, emprova p.pl. pli tard anc ina giada.
 
 ## Privacy Section
 
