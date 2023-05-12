@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Leve a sua Web consigo
 sync-signedout-description2 = Sincronize os marcadores, histórico, separadores, palavras-passe, extras e definições entre dispositivos.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Transfira o Firefox para <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ou <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> para sincronizar com o seu dispositivo móvel.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Alterar imagem de perfil
@@ -817,6 +824,12 @@ sync-device-name-save =
     .label = Guardar
     .accesskey = r
 sync-connect-another-device = Ligar outro dispositivo
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Verificação enviada
+sync-verification-not-sent-title = Verificação não enviada
 
 ## Privacy Section
 
