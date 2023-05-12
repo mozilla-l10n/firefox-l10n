@@ -73,6 +73,17 @@ restart-later = Taaskäivita hiljem
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = Seda sätet juhib laiendus <img data-l10n-name="icon"/><strong>{ $name }</strong>.
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Sätted…
     .accesskey = d
 containers-disable-alert-title = Konteinerkaartide sulgemine
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Kui sa keelad konteinerkaardid, siis suletakse üks konteinerkaart. Kas oled kindel, et soovid konteinerkaardid keelata?
@@ -165,6 +180,9 @@ containers-disable-alert-ok-button =
         [one] Sulge konteinerkaart
        *[other] Sulge { $tabCount } konteinerkaarti
     }
+
+##
+
 containers-disable-alert-cancel-button = Ära keela
 containers-remove-alert-title = Konteineri eemaldamine
 # Variables:
@@ -526,6 +544,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } soovitab
 home-prefs-recommended-by-description-new = Erakordne sisu, mida kureerib { -brand-product-name } perekonda kuuluv { $provider }
@@ -637,6 +659,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Võta oma veeb endaga kaasa
 sync-signedout-description2 = Sünkroniseeri oma järjehoidjad, ajalugu, kaardid, paroolid, lisad ja sätted kõigis oma seadmetes.
 sync-signedout-account-signin3 =
@@ -654,6 +680,9 @@ sync-mobile-promo = Hangi Firefox <img data-l10n-name="android-icon"/> <a data-l
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Muuda profiilipilti
 sync-sign-out =
@@ -661,8 +690,15 @@ sync-sign-out =
     .accesskey = o
 sync-manage-account = Halda kontot
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } pole kinnitatud.
 sync-signedin-login-failure = Konto { $email } taasühendamiseks logi sisse
+
+##
+
 sync-resend-verification =
     .label = Saada kinnitamise e-kiri uuesti
     .accesskey = k
@@ -761,6 +797,16 @@ sync-device-name-save =
     .label = Salvesta
     .accesskey = v
 sync-connect-another-device = Ühenda teine seade
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Kinnitusnõue on saadetud
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Kinnitamise link saadeti aadressile { $email }.
+sync-verification-not-sent-title = Kinnitusnõude saatmine pole võimalik
+sync-verification-not-sent-body = Konto kinnitamist võimaldavat e-kirja polnud praegu võimalik saata, palun proovi hiljem uuesti.
 
 ## Privacy Section
 
@@ -913,6 +959,9 @@ sitedata-cookies-exceptions =
     .label = Halda erandeid…
     .accesskey = H
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Aadressiriba
@@ -983,6 +1032,9 @@ content-blocking-fingerprinters = seadmetuvastajad
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Testi meie kõige võimsamat privaatsuse funktsionaalsust
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Täielik küpsistevastane kaitse sisaldab ka külastatava saidi küpsiseid, nii et jälitajaid ei saaks sind saitide üleselt jälitada.
 content-blocking-etp-standard-tcp-rollout-learn-more = Rohkem teavet
@@ -1142,6 +1194,9 @@ httpsonly-radio-enabled-pbm =
     .label = Ainult HTTPS-režiimi kasutatakse ainult privaatsetes akendes
 httpsonly-radio-disabled =
     .label = Ainult HTTPS-režiimi ei lubata
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
