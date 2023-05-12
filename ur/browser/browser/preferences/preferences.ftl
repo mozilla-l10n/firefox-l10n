@@ -56,6 +56,17 @@ restart-later = بعد میں دوباره شروع کریں
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = تلاش کے نتائج
@@ -103,11 +114,18 @@ browser-containers-settings =
     .label = سیٹنگز…
     .accesskey = i
 containers-disable-alert-title = تمام  حامل ٹیبس بند کریں
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] { $tabCount } کنٹینر ٹیب بند کریں
        *[other] { $tabCount } کنٹینر ٹیبس بند کریں
     }
+
+##
+
 containers-disable-alert-cancel-button = اہل بنایا رکھیں
 containers-remove-alert-title = اس حامل کو ہٹائیں؟
 # Variables:
@@ -386,6 +404,10 @@ home-prefs-shortcuts-description = وہ سائٹس جو آپ محفوظ کرتے
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } کی جانب سے تجویز کردہ
 
@@ -480,6 +502,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = اپنی ویب اپنے ساتھ رکھیں
 sync-signedout-account-signin3 =
     .label = سنک کرنے کے لئے سائن ان کریں…
@@ -496,6 +522,9 @@ sync-mobile-promo = Firefox ڈاؤن لوڈ کریں <img data-l10n-name="androi
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = پروفائل کی تصویر تبدیل کریں
 sync-sign-out =
@@ -503,8 +532,15 @@ sync-sign-out =
     .accesskey = گ
 sync-manage-account = اکاؤنٹ کا منظم کریں
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } توثیق شدہ نہیں ہے۔
 sync-signedin-login-failure = پھر جڑنے کے لیے سائن ان کریں { $email }
+
+##
+
 sync-resend-verification =
     .label = توژیق کاری دوبارہ ارسال کریں
     .accesskey = d
@@ -594,6 +630,16 @@ sync-device-name-save =
     .label = محفوظ کریں
     .accesskey = v
 sync-connect-another-device = ایک اور آلہ جوڑیں
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = توثیق مرسلہ
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = ایک تصدیقی لنک { $email } پر بھیج دی گی ہے۔
+sync-verification-not-sent-title = توثیق کاری نہیں بھیج سکا
+sync-verification-not-sent-body = ہم اس وقت توثیق کاری ای میل بھیج نہیں سک رہے ہیں، آپ بعد میں پھر کوشش کریں۔
 
 ## Privacy Section
 
@@ -727,6 +773,9 @@ sitedata-cookies-exceptions =
     .label = مستثنیات کو منظم کریں…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = پتہ کی بار
@@ -781,6 +830,9 @@ content-blocking-all-windows-tracking-content = تمام ونڈوز میں مو�
 content-blocking-all-third-party-cookies = تمام تیسری تنظیم کے کوکیز
 content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = دھیان دیں!
 content-blocking-warning-learn-how = کیسے سیکھیں
 content-blocking-reload-description = آپ کو ان تبدیلیوں کو لاگو کرنے کے لئے اپنے ٹیب کو دوبارہ لوڈ کرنے کی ضرورت ہوگی۔
@@ -900,6 +952,9 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = اورجانیے
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
