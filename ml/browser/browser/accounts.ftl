@@ -54,6 +54,11 @@ account-multiple-tabs-arriving-from-single-device =
         [one] { $tabCount } ടാബ് { $deviceName } ല്‍ നിന്നും വന്നു
        *[other] { $tabCount } ടാബുകള്‍ { $deviceName } ല്‍ നിന്നും വന്നു
     }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } ടാബ് നിങ്ങളുടെ ബന്ധിപ്പിച്ച ഉപകരണം വഴി വന്നു
+       *[other] { $tabCount } ടാബുകള്‍ നിങ്ങളുടെ ബന്ധിപ്പിച്ച ഉപകരണം വഴി വന്നു
+    }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
