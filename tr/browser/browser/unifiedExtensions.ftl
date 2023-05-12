@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Uzantıyı kaldır
 unified-extensions-context-menu-report-extension =
     .label = Uzantıyı rapor et
+unified-extensions-context-menu-move-widget-up =
+    .label = Yukarı taşı
+unified-extensions-context-menu-move-widget-down =
+    .label = Aşağı taşı

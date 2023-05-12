@@ -63,6 +63,7 @@ third-party-button-collapse =
 third-party-requires-restart = Engellenen üçüncü taraf modüllerini değiştirmek için { -brand-short-name } yeniden başlatılmalıdır.
 third-party-should-restart-title = { -brand-short-name } tarayıcısını yeniden başlat
 third-party-should-restart-ok = { -brand-short-name } tarayıcısını şimdi yeniden başlat
+third-party-restart-now = Yeniden başlat
 third-party-restart-later = Daha sonra yeniden başlat
 third-party-blocked-by-builtin =
     .title = { -brand-short-name } tarafından engellendi
