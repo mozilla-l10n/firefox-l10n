@@ -17,9 +17,12 @@ account-manage-devices = 기기 관리…
 ##   $email (String): = Email address of user's Firefox Account.
 
 account-reconnect = { $email } 다시 연결
+account-verify = { $email } 검증
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = 모든 기기에 보내기
+account-manage-devices-titlecase = 기기 관리…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -34,6 +37,8 @@ account-send-tab-to-device-connectdevice = 다른 기기 연결…
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = 계정 검증되지 않음
+account-send-tab-to-device-verify = 계정 검증…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -52,6 +57,9 @@ account-connection-disconnected = 이 컴퓨터는 연결이 끊어졌습니다.
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = 전송 받은 탭
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = { $deviceName }에서 온 탭
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -64,3 +72,9 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = 전송 받은 탭
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device = { $deviceName }에서 탭 { $tabCount }개 도착
+account-multiple-tabs-arriving-from-multiple-devices = 연결된 기기에서 탭 { $tabCount }개 도착
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device = 탭 { $tabCount }개 도착
