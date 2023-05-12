@@ -30,6 +30,8 @@ account-manage-devices-titlecase = Administrar dispositivos…
 account-send-tab-to-device-singledevice-status = No hay dispositivos conectados
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Saber acerca de enviar pestañas…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Conectar otro dispositivo…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -53,6 +55,7 @@ account-connection-disconnected = Esta computadora ha sido desconectada.
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Pestaña recibida
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
