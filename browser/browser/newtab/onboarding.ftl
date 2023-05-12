@@ -372,7 +372,7 @@ mr2022-onboarding-colorway-description-innovator = <b>სიახლის შ�
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = მოქნილად გადაერთეთ ლეპტოპიდან ტელეფონზე ან პირიქით
+mr2022-onboarding-mobile-download-title = მოქნილად გადაერთეთ ნოუთბუქიდან ტელეფონზე ან პირიქით
 mr2022-onboarding-mobile-download-subtitle = წაიყოლეთ ჩანართები სხვა მოწყობილობაზე და განაგრძეთ იქიდან, სადაც გაჩერდით. ამასთანავე, დაასინქრონეთ სანიშნები და პაროლები ყველგან, სადაც { -brand-product-name } გიყენიათ.
 mr2022-onboarding-mobile-download-cta-text = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-product-name } მობილურზე ან <a data-l10n-name="download-label">გაგზავნეთ ჩამოსატვირთი ბმული.</a>
 mr2022-onboarding-no-mobile-download-cta-text = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-product-name } მობილურზე.
@@ -413,7 +413,7 @@ onboarding-infrequent-import-primary-button = გადმოტანა – { 
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
 mr2022-onboarding-pin-image-alt =
-    .aria-label = ლეპტოპით მომუშავე პიროვნება ყვავილებითა და ვარსკვლავებით გარშემორტყმული
+    .aria-label = ნოუთბუქით მომუშავე პიროვნება ყვავილებითა და ვარსკვლავებით გარშემორტყმული
 mr2022-onboarding-default-image-alt =
     .aria-label = პიროვნება ეხუტება { -brand-product-name }-ლოგოს
 mr2022-onboarding-import-image-alt =
