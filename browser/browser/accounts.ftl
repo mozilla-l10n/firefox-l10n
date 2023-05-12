@@ -45,6 +45,9 @@ account-send-tab-to-device-verify = Verificar sua conta…
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = Aba recebida
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Aba do { $deviceName }
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -57,3 +60,16 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Abas recebidas
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } aba chegou do { $deviceName }
+       *[other] { $tabCount } abas chegaram do { $deviceName }
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } aba chegou
+       *[other] { $tabCount } abas chegaram
+    }
