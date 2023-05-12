@@ -44,6 +44,17 @@ restart-later = Pārstartēt vēlāk
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -90,6 +101,10 @@ browser-containers-settings =
     .label = Iestatījumi...
     .accesskey = i
 containers-disable-alert-title = Aizvērt visas konteineru cilnes?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [zero] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas. Vai tiešām vēlaties deaktivēt konteineru cilnes?
@@ -102,6 +117,9 @@ containers-disable-alert-ok-button =
         [one] Aizvērt { $tabCount } konteineru cilni
        *[other] Aizvērt { $tabCount } konteineru cilnes
     }
+
+##
+
 containers-disable-alert-cancel-button = Paturēt aktivētu
 containers-remove-alert-title = Noņemt šo konteineru?
 # Variables:
@@ -351,6 +369,10 @@ home-prefs-search-header =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Iesaka { $provider }
 
@@ -435,6 +457,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Paņem tīmekli sev līdz
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -448,12 +474,22 @@ sync-mobile-promo = Lejupielādēt Firefox <img data-l10n-name="android-icon"/> 
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Mainīt profila attēlu
 sync-manage-account = Pārvaldīt kontu
     .accesskey = a
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
+
+##
+
 sync-resend-verification =
     .label = Nosūtīt vēlreiz
     .accesskey = N
@@ -507,6 +543,12 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saglabāt
     .accesskey = r
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Apstiprinājums nosūtīts
+sync-verification-not-sent-title = Nevar nosūtīt apstiprinājumu
 
 ## Privacy Section
 
@@ -610,6 +652,9 @@ sitedata-clear =
 sitedata-settings =
     .label = Pārvaldīt datus…
     .accesskey = P
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 
@@ -743,6 +788,9 @@ certs-devices =
     .accesskey = D
 
 ## Privacy Section - HTTPS-Only
+
+
+## DoH Section
 
 
 ## The following strings are used in the Download section of settings
