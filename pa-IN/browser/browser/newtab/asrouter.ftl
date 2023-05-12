@@ -246,3 +246,19 @@ fox-doodle-pin-secondary = ਹੁਣੇ ਨਹੀਂ
 
 set-default-pdf-handler-headline = <strong>ਤੁਹਾਡੇ PDF ਹੁਣ { -brand-short-name } ਵਿੱਚ ਖੁੱਲ੍ਹਦੇ ਹਨ।</strong> ਫ਼ਾਰਮਾਂ ਨੂੰ ਸਿੱਧਾ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਸੋਧੋ ਜਾਂ ਉਹਨਾਂ ਉੱਤੇ ਦਸਤਖਤ ਕਰੋ। ਬਦਲਣ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ “PDF” ਖੋਜੋ।
 set-default-pdf-handler-primary = ਸਮਝੇ
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = ਤੁਹਾਡੇ ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ?
+fxa-sync-cfr-body = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਹਾਡੇ ਨਵੇਂ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਟੈਬਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਨਵੇਂ { -brand-product-name } ਬਰਾਊਜ਼ਰ ਖੋਲ੍ਹਣ ਦੌਰਾਨ ਮਿਲ ਰਹੇ ਹਨ।
+fxa-sync-cfr-primary = ਹੋਰ ਜਾਣੋ
+    .accesskey = L
+fxa-sync-cfr-secondary = ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੇਤੇ ਕਰਵਾਓ
+    .accesskey = R
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = ਪੁਰਾਣਾ ਡਿਵਾਈਸ ਵਰਤ ਰਹੇ ਹੋ?
+device-migration-fxa-spotlight-body = ਆਪਣੇ ਡਿਵਾਈਸ ਦਾ ਬੈਕਅੱਪ ਲੈਣਾ ਨਾ ਭੁੱਲੋ ਤਾਂ ਕਿ ਖਾਸ ਕਰਕੇ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਬਦਲਣ ਦੇ ਦੌਰਾਨ ਬੁੱਕਮਾਰਕ ਅਤੇ ਪਾਸਵਰਡਾਂ ਵਰਗੀਆਂ ਖਾਸ ਜਾਣਕਾਰੀਆਂ ਗੁੰਮ ਨਾ ਜਾਣ।
+device-migration-fxa-spotlight-primary-button = ਆਪਣੇ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਕਿਵੇਂ ਲਈਏ
+device-migration-fxa-spotlight-link = ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੇਤੇ ਕਰਵਾਓ
