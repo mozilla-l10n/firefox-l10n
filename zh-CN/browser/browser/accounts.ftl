@@ -28,7 +28,11 @@ account-manage-devices-titlecase = 管理设备…
 ## and the account has only 1 device connected.
 
 # Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = 无已连接设备
+# Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = 了解发送标签页…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = 连接其他设备…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -38,8 +42,15 @@ account-send-tab-to-device-verify = 验证您的账号…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = 此计算机已与 { $deviceName } 连接。
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = 此计算机已与新设备连接。
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = 您已成功登录
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = 此计算机已取消连接。
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
