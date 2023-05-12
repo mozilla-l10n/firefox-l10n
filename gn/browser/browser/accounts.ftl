@@ -40,6 +40,11 @@ account-send-tab-to-device-singledevice-learnmore = Maranduve ñemondo tendayke 
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = Tendayke jejapyhy
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
