@@ -19,14 +19,21 @@ account-manage-devices = គ្រប់គ្រងឧបករណ៍…
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = ផ្ញើ​ទៅ​ឧបករណ៍​ទាំងអស់
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = គ្មាន​ឧបករណ៍​ដែល​បាន​តភ្ជាប់
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = សិក្សា​អំពី​ផ្ទាំង​ផ្ញើ…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = គណនី​មិន​បាន​ផ្ទៀងផ្ទាត់
+account-send-tab-to-device-verify = ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -36,9 +43,13 @@ account-manage-devices = គ្រប់គ្រងឧបករណ៍…
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = បាន​ទទួល​ផ្ទាំង
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = ផ្ទាំង​ពី { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = ផ្ទាំង​ដែល​បាន​ទទួល
