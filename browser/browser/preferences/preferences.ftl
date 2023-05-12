@@ -836,6 +836,7 @@ sync-verification-sent-title = Запит для підтвердження ві
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Посилання для підтвердження було надіслано на адресу { $email }.
+sync-verification-not-sent-title = Не вдалося надіслати запит для підтвердження
 sync-verification-not-sent-body = Зараз ми не можемо надіслати повідомлення для підтвердження, спробуйте знову пізніше.
 
 ## Privacy Section
