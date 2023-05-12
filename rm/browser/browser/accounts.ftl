@@ -22,6 +22,7 @@ account-verify = Verifitgar { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Trametter a tut ils apparats
+account-manage-devices-titlecase = Administrar ils apparats…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -41,6 +42,15 @@ account-send-tab-to-device-verify = Verifitgar tes conto…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Quest computer è ussa connectà cun { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Quest computer è ussa connectà cun in nov apparat.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Ti es t'annunzià cun success
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Quest computer è vegnì deconnectà.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
