@@ -58,3 +58,9 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Thẻ đã nhận
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device = { $tabCount } thẻ đã tới từ { $deviceName }
+account-multiple-tabs-arriving-from-multiple-devices = { $tabCount } đã tới từ thiết bị đã kết nối của bạn
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device = { $tabCount } thẻ đã đến
