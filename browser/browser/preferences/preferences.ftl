@@ -800,6 +800,9 @@ sync-connect-another-device = Hubungkan perangkat lain
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Verifikasi Dikirim
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Sebuah tautan verifikasi telah dikirim ke { $email }.
 sync-verification-not-sent-title = Gagal Mengirim Verifikasi
 sync-verification-not-sent-body = Kami tidak dapat mengirimkan email verifikasi saat ini, coba lagi nanti.
 
