@@ -73,6 +73,17 @@ restart-later = Restert Efter
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -140,6 +151,10 @@ browser-containers-settings =
     .label = Settins…
     .accesskey = i
 containers-disable-alert-title = Sneck Aw Conteener Tabs?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Gin ye disable Conteener Tabs noo, { $tabCount } conteener tab will be sneckit. Are ye shair ye want tae disable Conteener Tabs?
@@ -150,6 +165,9 @@ containers-disable-alert-ok-button =
         [one] Sneck { $tabCount } Conteener Tab
        *[other] Sneck { $tabCount } Conteener Tabs
     }
+
+##
+
 containers-disable-alert-cancel-button = Stey enabled
 containers-remove-alert-title = Remuive This Conteener?
 # Variables:
@@ -464,6 +482,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recommendit by { $provider }
 home-prefs-recommended-by-description-new = Gallus content pit thegither by { $provider }, pairt o the { -brand-product-name } faimily
@@ -573,6 +595,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Tak Yer Wab Wi Ye
 sync-signedout-description2 = Synchronise yer buikmerks, historie, tabs, passwirds, eik-ons, and settins across aw yer devices.
 sync-signedout-account-signin3 =
@@ -590,6 +616,9 @@ sync-mobile-promo = Doonload Firefox fur <img data-l10n-name="android-icon"/> <a
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Chynge profile pictur
 sync-sign-out =
@@ -597,8 +626,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Manage accoont
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } isnae trystmakkit
 sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
+
+##
+
 sync-resend-verification =
     .label = Resend Trystmakkin
     .accesskey = d
@@ -697,6 +733,16 @@ sync-device-name-save =
     .label = Save
     .accesskey = v
 sync-connect-another-device = Connect anither device
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Trystmakkin Sent
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = A trystmakkin link has been sent tae { $email }.
+sync-verification-not-sent-title = No Able tae Send Trystmakkin
+sync-verification-not-sent-body = We're no able tae send a trystmakkin mail jist the noo, gie it anither shottie efter.
 
 ## Privacy Section
 
@@ -849,6 +895,9 @@ sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Baur
@@ -913,6 +962,9 @@ content-blocking-all-windows-tracking-content = Trackin content in aw windaes
 content-blocking-all-third-party-cookies = Aw third-pairty cookies
 content-blocking-cryptominers = Cryptohowkers
 content-blocking-fingerprinters = Fingirprenters
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-etp-standard-tcp-rollout-learn-more = Lairn mair
 content-blocking-warning-title = Haud the bus!
 content-blocking-and-isolating-etp-warning-description-2 = This settin micht gar some wabsites tae no kythe content or wirk richt. Gin a site luiks mogert, ye micht want tae turn aff trackin bieldin fur thon site tae load aw content.
@@ -1069,6 +1121,9 @@ httpsonly-radio-enabled-pbm =
     .label = Yaise HTTPS-Anely Mode in private windaes, jist
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
