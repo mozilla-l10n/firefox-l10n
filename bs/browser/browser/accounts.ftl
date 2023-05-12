@@ -19,14 +19,19 @@ account-verify = Verifikuj { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Pošalji svim uređajima
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Nema povezanih uređaja
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Račun nije verifikovan
+account-send-tab-to-device-verify = Verifikujte vaš račun…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -35,6 +40,7 @@ account-verify = Verifikuj { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Tab primljen
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab iz { $deviceName }
@@ -44,6 +50,7 @@ account-single-tab-arriving-from-device-title = Tab iz { $deviceName }
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Tabovi primljeni
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
