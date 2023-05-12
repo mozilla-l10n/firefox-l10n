@@ -16,6 +16,8 @@ account-manage-devices = …Chestionar dispositivos...
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-reconnect = Tornar a connectar { $email }
+account-verify = Verificar { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
