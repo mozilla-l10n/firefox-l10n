@@ -559,6 +559,7 @@ sync-verification-sent-title = Verifica mandâ
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Un colegamento de verifica o l'é stæto mandou a { $email }.
 sync-verification-not-sent-title = No se peu mandâ a verifica
+sync-verification-not-sent-body = Òua no ariescimmo a mandâ 'na email de verifica, pe piaxei preuva torna dòppo.
 
 ## Privacy Section
 
