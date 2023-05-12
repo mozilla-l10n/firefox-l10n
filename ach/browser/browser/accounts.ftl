@@ -71,3 +71,14 @@ account-multiple-tabs-arriving-from-single-device =
         [one] dirica matidi { $tabCount } obino ki i { $deviceName }
        *[other] dirica matino { $tabCount } obino ki i { $deviceName }
     }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] dirica matidi { $tabCount } obino ki i nyonyo ni ma okube
+       *[other] dirica matidi { $tabCount } gi obino ki i nyonyo ni ma okube
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] dirica matidi { $tabCount } obino
+       *[other] dirica matino { $tabCount } obino
+    }
