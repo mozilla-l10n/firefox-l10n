@@ -528,6 +528,9 @@ sync-connect-another-device = အခြားကိရိယာကို ချ�
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = အတည်ပြုချက်ပေးပို့ပြီး
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = အတည်ပြုခြင်းဆိုင်ရာ လင့်ခ်တစ်ခုကို { $email } သို့ ပို့လိုက်သည်။
 sync-verification-not-sent-title = အတည်ပြုချက်ကို မပေးပို့နိုင်ပါ
 sync-verification-not-sent-body = ဒီအချိန်တွင် အတည်ပြုရန်ချောစာကို ကျွန်ုပ်တို့ မပို့နိုင်သေးပါ။ ကျေးဇူးပြု၍ နောင်တွင် ထပ်မံ ဆောင်ရွက်ကြည့်ပါ။
 
