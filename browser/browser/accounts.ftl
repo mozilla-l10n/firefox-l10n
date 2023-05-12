@@ -19,6 +19,7 @@ account-verify = Ստուգել { $email }-ը
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Ուղարկել բոլոր սարքերին
+account-manage-devices-titlecase = Կառավարել սարքերը…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -68,6 +69,13 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Ներդիր է ստացվել
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } ներդիր է ստացվել { $deviceName }-ից.
+       *[other] { $tabCount } ներդիրներ ստացվել են { $deviceName }-ից:
+    }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
         [one] { $tabCount } ներդիրը ստացվել է կապակցված սարքերից:
