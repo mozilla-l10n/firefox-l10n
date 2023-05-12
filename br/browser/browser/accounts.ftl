@@ -90,3 +90,12 @@ account-multiple-tabs-arriving-from-multiple-devices =
         [many] { $tabCount } a ivinelloù degouezhet eus an trevnad kennasket.
        *[other] { $tabCount } ivinell degouezhet eus an trevnad kennasket.
     }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] Degouezhet ez eus { $tabCount } ivinell
+        [two] Degouezhet ez eus { $tabCount } ivinell
+        [few] Degouezhet ez eus { $tabCount } ivinell
+        [many] Degouezhet ez eus { $tabCount } a ivinelloù
+       *[other] Degouezhet ez eus { $tabCount } ivinell
+    }
