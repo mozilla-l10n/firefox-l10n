@@ -67,6 +67,7 @@ third-party-button-collapse =
 third-party-requires-restart = { -brand-short-name } کوں ایہ تبدیل کرݨ کیتے ولدا شروع کرݨا چاہیدا ہے جو کیڑھے تریاکل ماڈیولز بلاک ہن۔
 third-party-should-restart-title = نویں سروں چلاؤ { -brand-short-name }
 third-party-should-restart-ok = { -brand-short-name } کوں ہݨیں دوبارہ شروع کرو۔
+third-party-restart-now = ہُݨ ولدا شروع کرو
 third-party-restart-later = بعد اِچ نویں سروں شروع کرو
 third-party-blocked-by-builtin =
     .title = { -brand-short-name } ولوں بلاک تھیا
