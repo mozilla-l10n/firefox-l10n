@@ -72,3 +72,21 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ٹیب حاصل تھیا
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $deviceName } کنوں { $tabCount } ٹیب آڳئی ہے
+       *[other] { $deviceName } کنوں { $tabCount } ٹیباں آڳیاں ہن
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] تہاݙی کنکٹ تھئی ڈیوائساں کنوں { $tabCount } ٹیب آڳئی ہے
+       *[other] تہاݙی کنکٹ تھئی ڈیوائساں کنوں { $tabCount } ٹیباں آڳیاں  ہن
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } ٹیب آ ڳیا ہے
+       *[other] { $tabCount } ٹیباں آ ڳیاں ہن
+    }
