@@ -21,14 +21,21 @@ account-verify = Dilysu { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Anfon i Bob Dyfais
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Dim Dyfais wedi ei Gysylltu
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Dysgu am Anfon Tabiau…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Cyfrif Heb ei Wirio
+account-send-tab-to-device-verify = Gwiriwch eich Cyfrif…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -37,6 +44,7 @@ account-verify = Dilysu { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Tab wedi'i Dderbyn
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab gan { $deviceName }
@@ -46,3 +54,4 @@ account-single-tab-arriving-from-device-title = Tab gan { $deviceName }
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Tab wedi'i Dderbyn
