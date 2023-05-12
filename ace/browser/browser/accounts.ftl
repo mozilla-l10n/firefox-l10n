@@ -8,6 +8,7 @@ account-send-to-all-devices = Kirém keu mandum peukakah
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-reconnect = Sambông ulang { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
