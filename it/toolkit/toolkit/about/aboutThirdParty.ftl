@@ -70,8 +70,10 @@ third-party-button-expand =
 third-party-button-collapse =
     .title = Nascondi informazioni dettagliate
 third-party-requires-restart = È necessario riavviare { -brand-short-name } per modificare quali moduli di terze parti sono bloccati.
+third-party-blocking-requires-restart = Per bloccare un modulo di terze parti è necessario riavviare { -brand-short-name }.
 third-party-should-restart-title = Riavvia { -brand-short-name }
 third-party-should-restart-ok = Riavvia { -brand-short-name } adesso
+third-party-restart-now = Riavvia adesso
 third-party-restart-later = Riavvia più tardi
 
 third-party-blocked-by-builtin =
