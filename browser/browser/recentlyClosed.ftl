@@ -19,3 +19,12 @@ recently-closed-panel-reopen-all-windows = Riapri tutte le finestre
 
 ##
 
+# Variables:
+#   $tabCount (Number): Number of other tabs
+#   $winTitle (String): Window title
+recently-closed-undo-close-window-label =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } (e un’altra scheda)
+       *[other] { $winTitle } (e altre { $tabCount } schede)
+    }
