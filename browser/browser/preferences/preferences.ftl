@@ -833,6 +833,7 @@ sync-verification-sent-title = დასტური გაიგზავნა
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = დადასტურების ბმული გაიგზავნა { $email }-ზე
 sync-verification-not-sent-title = დასტურის გაგზავნა ვერ მოხერხდა
+sync-verification-not-sent-body = ჩვენ ამჟამად ვერ შევძელით დასტურის ელფოსტის გაგზავნა, გთხოვთ, ცადეთ მოგვიანებით.
 
 ## Privacy Section
 
