@@ -32,12 +32,17 @@ account-verify = Verifikasikan { $email }
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Komputer ini terhubung dengan perangkat baru.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = Tab diterima
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Tab dari { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
