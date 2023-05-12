@@ -885,6 +885,7 @@ sync-connect-another-device = Повежи други уређај
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = Верификација је послата
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Потврдна веза је послат на { $email }.
