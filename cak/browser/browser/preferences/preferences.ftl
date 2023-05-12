@@ -799,7 +799,11 @@ sync-connect-another-device = Tokisäx jun chik okisaxel
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Xtaq ri runik'oxik
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Xtaq jun ruximöy jikib'anïk pa { $email }.
 sync-verification-not-sent-title = Man tikirel ta nitaq ri jikib'anïk
+sync-verification-not-sent-body = K'a wakami man yojtikïr ta niqanik'oj pa taqoya'l, tab'ana' utzil tatojtob'ej pa jun chi ti ramaj.
 
 ## Privacy Section
 
