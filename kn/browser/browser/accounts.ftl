@@ -22,6 +22,8 @@ account-send-to-all-devices-titlecase = ಎಲ್ಲಾ ಸಾಧನಗಳಿಗ
 account-send-tab-to-device-singledevice-status = ಯಾವುದೇ ಸಾಧನಗಳನ್ನು ಜೋಡಿಸಲಾಗಿಲ್ಲ
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = ಟ್ಯಾಬ್‌ಗಳನ್ನು ಕಳುಹಿಸುವುದರ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -40,6 +42,11 @@ account-single-tab-arriving-title = ಪಡೆಯಲಾದ ಟ್ಯಾಬ್
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } ಇಂದ ಹಾಳೆ
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
@@ -47,3 +54,21 @@ account-single-tab-arriving-from-device-title = { $deviceName } ಇಂದ ಹಾ
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ಪಡೆಯಲಾದ ಟ್ಯಾಬ್‌ಗಳು
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $deviceName } ನಿಂದ { $tabCount } ಹಾಳೆಯು ಬಂದಿದೆ
+       *[other] { $deviceName } ನಿಂದ { $tabCount } ಹಾಳೆಗಳು ಬಂದಿವೆ
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] ನಿಮ್ಮ ಸಂಪರ್ಕದಲ್ಲಿರುವ ಸಾಧನಗಳಿಂದ { $tabCount } ಹಾಳೆಯು ಬಂದಿದೆ
+       *[other] ನಿಮ್ಮ ಸಂಪರ್ಕದಲ್ಲಿರುವ ಸಾಧನಗಳಿಂದ { $tabCount } ಹಾಳೆಗಳು ಬಂದಿವೆ
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } ಹಾಳೆಯು ಬಂದಿದೆ
+       *[other] { $tabCount } ಹಾಳೆಗಳು ಬಂದಿವೆ
+    }
