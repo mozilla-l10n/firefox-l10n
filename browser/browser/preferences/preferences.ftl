@@ -601,6 +601,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = وب را با خودتان همراه کنید
 sync-signedout-description2 = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
 sync-signedout-account-signin3 =
@@ -617,6 +621,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = بارگیری فایرفاکس برای <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">اندروید</a> یا <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> جهت همگام‌سازی با دستگاه همراه شما.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = تغییرتصویر نمایه
@@ -732,6 +739,15 @@ sync-device-name-save =
     .label = ذخیره
     .accesskey = ذ
 sync-connect-another-device = اتصال یک دستگاه دیگر
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = تایید ارسال
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = یک لینک تایید برای { $email } ارسال شد.
+sync-verification-not-sent-title = قادر به ارسال ایمیل تاییدیه نیست
 
 ## Privacy Section
 
