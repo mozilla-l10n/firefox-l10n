@@ -59,6 +59,17 @@ restart-later = পরে রিস্টার্ট করা হবে
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -110,6 +121,10 @@ browser-containers-settings =
     .label = সেটিং
     .accesskey = i
 containers-disable-alert-title = সব কন্টেইনার ট্যাব বন্ধ করবেন?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] আপনি যদি এখন কন্টেইনার ট্যাবগুলো নিস্ক্রিয় করেন, { $tabCount } কন্টেইনার ট্যাব বন্ধ হয়ে যাবে। আপনি কি নিশ্চিত আপনি কন্টেইনার ট্যাবগুলো নিষ্ক্রিয় করতে চান?
@@ -120,6 +135,9 @@ containers-disable-alert-ok-button =
         [one] { $tabCount } কন্টেইনার ট্যাব বন্ধ করুন
        *[other] { $tabCount } কন্টেইনার ট্যাবগুলো বন্ধ করুন
     }
+
+##
+
 containers-disable-alert-cancel-button = সক্রিয় রাখুন
 containers-remove-alert-title = এই কন্টেইনার সরাতে চান?
 # Variables:
@@ -402,6 +420,10 @@ home-prefs-search-header =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } দ্বারা সুপারিশকৃত
 
@@ -497,6 +519,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = আপনার ওয়েব আপনার সঙ্গে নিন
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -510,6 +536,9 @@ sync-mobile-promo = আপনার মোবাইল ডিভাইসের 
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = প্রোফাইলের ছবি পরিবর্তন করুন
 sync-sign-out =
@@ -517,8 +546,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = অ্যাকাউন্ট ব্যবস্থাপনা
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } যাচাইকৃত নয়।
 sync-signedin-login-failure = { $email } পুনরায় সংযোগ করতে অনুগ্রহ করে সাইন ইন করুন
+
+##
+
 sync-resend-verification =
     .label = যাচাইকরণ পুনরায় পাঠান
     .accesskey = d
@@ -609,6 +645,13 @@ sync-device-name-save =
     .label = সংরক্ষণ
     .accesskey = v
 sync-connect-another-device = অন্য একটি ডিভাইস সংযুক্ত করুন
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = ভেরিফিকেশন পাঠানো হয়েছে
+sync-verification-not-sent-title = ভেরিফিকেশন পাঠানো সম্ভব হয়নি
+sync-verification-not-sent-body = আমরা এই সময়ে একটি যাচাইকরণ মেইল পাঠাতে অক্ষম, দয়া করে পরে আবার চেষ্টা করুন।
 
 ## Privacy Section
 
@@ -731,6 +774,9 @@ sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = ঠিকানা বার
@@ -780,6 +826,9 @@ content-blocking-all-windows-tracking-content = সমস্ত উইন্ড�
 content-blocking-all-third-party-cookies = সকল তৃতীয়-পক্ষের কুকিগুলো
 content-blocking-cryptominers = ক্রিপ্টোমাইনার
 content-blocking-fingerprinters = ফিঙ্গারপ্রিন্টারস
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = সাধুবাদ জানাই!
 content-blocking-warning-learn-how = শিখুন কিভাবে হয়
 content-blocking-reload-description = এই পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে আপনার ট্যাব পুনরায় লোড করতে হবে।
@@ -911,6 +960,9 @@ certs-devices =
     .accesskey = D
 
 ## Privacy Section - HTTPS-Only
+
+
+## DoH Section
 
 
 ## The following strings are used in the Download section of settings
