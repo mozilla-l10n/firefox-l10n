@@ -73,6 +73,17 @@ restart-later = Reaniciar dempués
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -126,6 +137,10 @@ browser-containers-settings =
     .label = Axustes…
     .accesskey = u
 containers-disable-alert-title = ¿Zarrar tolos contenedores de llingüetes?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Si desactives los contenedores de llingüetes agora, va zarrase { $tabCount } llingüeta. ¿De xuru que quies desactivar los contenedores de llingüetes?
@@ -136,6 +151,9 @@ containers-disable-alert-ok-button =
         [one] Zarrar { $tabCount } llingüeta
        *[other] Zarrar { $tabCount } llingüetes
     }
+
+##
+
 containers-disable-alert-cancel-button = Caltener n'activo
 containers-remove-alert-title = ¿Quitar esti contenedor?
 # Variables:
@@ -441,6 +459,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-description-new = Conteníu esceicional de la web esbilláu por { $provider }, parte de la familia de { -brand-product-name }
 
 ##
@@ -544,6 +566,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Lleva la web contigo
 sync-signedout-description2 = Sincroniza los marcadores, l'historial, les contraseñes, los complementos y los axustes en tolos preseos de to.
 sync-signedout-account-signin3 =
@@ -561,6 +587,9 @@ sync-mobile-promo = Baxa Firefox <img data-l10n-name="android-icon"/> p'<a data-
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Camudar la semeya del perfil
 sync-sign-out =
@@ -568,8 +597,15 @@ sync-sign-out =
     .accesskey = Z
 sync-manage-account = Xestionar la cuenta
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ta ensin verificar.
 sync-signedin-login-failure = Anicia sesión pa volver conectate a { $email }
+
+##
+
 sync-remove-account =
     .label = Quitar la cuenta
     .accesskey = Q
@@ -658,6 +694,11 @@ sync-device-name-save =
     .label = Guardar
     .accesskey = v
 sync-connect-another-device = Conectar otru preséu
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-not-sent-title = Nun ye posible unviar la verificación
 
 ## Privacy Section
 
@@ -799,6 +840,9 @@ sitedata-cookies-exceptions =
     .label = Xestionar les esceiciones…
     .accesskey = X
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de direiciones
@@ -863,6 +907,9 @@ content-blocking-all-windows-tracking-content = Conteníu que rastrexa en toles 
 content-blocking-all-third-party-cookies = Toles cookies de terceros
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Xeneradores de buelgues
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o nun funcionen correutamente. Si te paez qu'un sitiu ta estropiáu, pues desactivar la proteición antirrastrexu pa esi sitiu y cargar tol conteníu.
 content-blocking-warning-learn-how = Lleer cómo
@@ -1013,6 +1060,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activar el mou de namás HTTPS únicamente nes ventanes privaes
 httpsonly-radio-disabled =
     .label = Nun activar el mou de namás HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
