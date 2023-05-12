@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Emportatz vòstre Web pertot
 sync-signedout-description2 = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e paramètres per totes vòstres periferics.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Telecargatz Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronizar vòstre periferic mobil.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
@@ -816,6 +823,15 @@ sync-device-name-save =
     .label = Enregistrar
     .accesskey = g
 sync-connect-another-device = Connectar un periferic de mai
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Ligam de verificacion mandat
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Un ligam de verificacion es estat mandat a { $email }
+sync-verification-not-sent-title = Impossible de mandar lo ligam de verificacion
 
 ## Privacy Section
 
