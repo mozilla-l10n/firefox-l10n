@@ -36,6 +36,15 @@ account-send-tab-to-device-verify = Natsîj si kuedât...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Ngà huā konektadô aga’ nan ngà { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Ngà huā konektadô aga’ nan ngà ‘ngō aga’ nakàa.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Hue’ê gayì’ì si sesiûnt
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Gahuin deskonektadô aga’ nan.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
