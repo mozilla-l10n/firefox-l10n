@@ -49,6 +49,8 @@ account-connection-connected-with = Этот компьютер теперь п�
 account-connection-connected-with-noname = Этот компьютер теперь подключен к новому устройству.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Вы успешно вошли
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Этот компьютер был отключён.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
