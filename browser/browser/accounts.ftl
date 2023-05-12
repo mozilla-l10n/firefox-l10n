@@ -20,6 +20,8 @@ account-send-to-all-devices-titlecase = সকল ডিভাইসে পা�
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = কোন ডিভাইস সংযুক্ত নয়
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = ট্যাব পাঠানো নিয়ে আরও জানুন…
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = অন্য ডিভাইসে সংযুক্ত হোন…
 
