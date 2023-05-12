@@ -17,6 +17,7 @@ account-manage-devices = Upravljanje naprav …
 ##   $email (String): = Email address of user's Firefox Account.
 
 account-reconnect = Ponovno poveži { $email }
+account-verify = Potrdi { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
