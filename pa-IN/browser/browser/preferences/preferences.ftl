@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
 sync-signedout-description2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸਿੰਕਰੋਨਾਈਜ਼ ਕਰੋ।
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ਐਂਡਰਾਈਡ</a> ਜਾਂ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ਲਈ Firefox ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = ਬਿਉਰਾ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = ਸੰਭਾਲੋ
     .accesskey = v
 sync-connect-another-device = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = ਤਸਦੀਕ ਭੇਜੀ ਗਈ
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = { $email } ਨੂੰ ਤਸਦੀਕੀ ਲਿੰਕ ਭੇਜਿਆ ਜਾ ਚੁੱਕਾ ਹੈ
+sync-verification-not-sent-title = ਤਸਦੀਕ ਭੇਜਣ ਲਈ ਅਸਮਰੱਥ
+sync-verification-not-sent-body = ਅਸੀਂ ਇਸ ਸਮੇਂ ਤਸਦੀਕੀ ਈਮੇਲ ਭੇਜਣ ਲਈ ਅਸਮਰੱਥਾਂ ਹਾਂ, ਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 
 ## Privacy Section
 
