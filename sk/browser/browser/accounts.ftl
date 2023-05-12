@@ -25,10 +25,16 @@ account-verify = Overiť { $email }
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Žiadne pripojené zariadenia
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Zistiť viac o posielaní kariet…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Účet nie je overený
+account-send-tab-to-device-verify = Overte svoj účet…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -43,3 +49,24 @@ account-verify = Overiť { $email }
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } karta bola prijatá zo zariadenia { $deviceName }.
+        [few] { $tabCount } karty boli prijaté zo zariadenia { $deviceName }.
+       *[other] { $tabCount } kariet bolo prijatých zo zariadenia { $deviceName }.
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } karta bola prijatá z vašich pripojených zariadení.
+        [few] { $tabCount } karty boli prijaté z vašich pripojených zariadení.
+       *[other] { $tabCount } kariet bolo prijatých z vašich pripojených zariadení.
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } karta bola prijatá
+        [few] { $tabCount } karty boli prijaté
+       *[other] { $tabCount } kariet bolo prijatých
+    }

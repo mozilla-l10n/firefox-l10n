@@ -688,6 +688,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Vezmite si svoj web so sebou
 sync-signedout-description2 = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
 sync-signedout-account-signin3 =
@@ -704,6 +708,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Stiahnite si Firefox pre <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> alebo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> a synchronizujte svoje údaje s vašim mobilným zariadením.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Zmeniť obrázok profilu
@@ -821,6 +828,15 @@ sync-device-name-save =
     .label = Uložiť
     .accesskey = U
 sync-connect-another-device = Pripojiť ďalšie zariadenie
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Overovací odkaz bol odoslaný na adresu { $email }
+sync-verification-not-sent-title = Overovací odkaz nebolo možné odoslať
+sync-verification-not-sent-body = V tomto momente nie je možné odoslať overovací odkaz, skúste to znova neskôr.
 
 ## Privacy Section
 
