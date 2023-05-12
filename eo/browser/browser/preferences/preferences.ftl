@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Kunporti vian Teksaĵon kun vi
 sync-signedout-description2 = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj agordojn en ĉiuj viaj aparatoj.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Elŝuti Firefox por <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> aŭ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> por speguli kun via portebla aparato.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Ŝanĝi bildon de profilo
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Konservi
     .accesskey = K
 sync-connect-another-device = Konekti alian aparaton
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Kontrolo sendita
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Kontrola ligilo estis sendita al { $email }.
+sync-verification-not-sent-title = Ne eblis sendi kontrolon
+sync-verification-not-sent-body = Ni ne povas nun sendi kontrolan retpoŝton, bonvolu klopodi denove poste.
 
 ## Privacy Section
 
