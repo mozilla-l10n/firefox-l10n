@@ -22,6 +22,8 @@ account-send-to-all-devices-titlecase = அ.சாதனங்களுக்க
 account-send-tab-to-device-singledevice-status = சாதனங்கள் இணைக்கப்படவில்லை
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = கீற்றை அனுப்புவது பற்றி அறிந்துக்கொள்...
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = மற்றொரு சாதனத்தை இணை…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
