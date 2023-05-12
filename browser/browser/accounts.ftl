@@ -28,6 +28,8 @@ account-send-to-all-devices-titlecase = ផ្ញើ​ទៅ​ឧបករណ�
 account-send-tab-to-device-singledevice-status = គ្មាន​ឧបករណ៍​ដែល​បាន​តភ្ជាប់
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = សិក្សា​អំពី​ផ្ទាំង​ផ្ញើ…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = ភ្ជាប់​ឧបករណ៍​ផ្សេង...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -53,3 +55,9 @@ account-single-tab-arriving-from-device-title = ផ្ទាំង​ពី { $d
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ផ្ទាំង​ដែល​បាន​ទទួល
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device = ផ្ទាំង { $tabCount } បាន​មកដល់​ពី { $deviceName }
+account-multiple-tabs-arriving-from-multiple-devices = ផ្ទាំង { $tabCount } បាន​មកដល់​ពី​ឧបករណ៍​ដែល​បាន​តភ្ជាប់​របស់​អ្នក
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device = ផ្ទាំង { $tabCount } បាន​មកដល់
