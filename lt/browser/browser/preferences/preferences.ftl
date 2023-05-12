@@ -73,6 +73,17 @@ restart-later = Perleisti vėliau
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = Šį nustatymą valdo <img data-l10n-name="icon"/> <strong>„{ $name }“</strong>.
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Nuostatos…
     .accesskey = u
 containers-disable-alert-title = Užverti visas sudėtinio rodinio korteles?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Jeigu dabar išjungsite sudėtinio rodinio korteles, bus užverta { $tabCount } sudėtinio rodinio kortelė. Ar tikrai norite išjungti sudėtinio rodinio korteles?
@@ -167,6 +182,9 @@ containers-disable-alert-ok-button =
         [few] Užverti #1 sudėtinio rodinio korteles
        *[other] Užverti { $tabCount } sudėtinio rodinio kortelių
     }
+
+##
+
 containers-disable-alert-cancel-button = Palikti įjungtas
 containers-remove-alert-title = Pašalinti šį sudėtinį rodinį?
 # Variables:
@@ -529,6 +547,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Rekomenduoja „{ $provider }“
 home-prefs-recommended-by-description-new = Išskirtinis turinys, kuruojamas „{ $provider }“, kuri yra „{ -brand-product-name }“ šeimos dalis
@@ -639,6 +661,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Pasiimkite savo saityną kartu
 sync-signedout-description2 = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus, ir nuostatas visuose savo įrenginiuose.
 sync-signedout-account-signin3 =
@@ -656,6 +682,9 @@ sync-mobile-promo = Parsisiųskite „Firefox“, skirtą <img data-l10n-name="a
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Keisti profilio nuotrauką
 sync-sign-out =
@@ -663,8 +692,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Tvarkyti paskyrą
     .accesskey = y
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
 sync-signedin-login-failure = Prie { $email } reikia prisijungti iš naujo
+
+##
+
 sync-resend-verification =
     .label = Pakartotinai išsiųsti patvirtinimą
     .accesskey = k
@@ -763,6 +799,16 @@ sync-device-name-save =
     .label = Įrašyti
     .accesskey = r
 sync-connect-another-device = Susieti kitą įrenginį
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Patvirtinimo saitas išsiųstas
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Adresu { $email } išsiųstas patvirtinimo saitas.
+sync-verification-not-sent-title = Patvirtinimo nusiųsti nepavyko
+sync-verification-not-sent-body = Šiuo metu patvirtinimo laiško nusiųsti nepavyko, pabandykite vėliau.
 
 ## Privacy Section
 
@@ -915,6 +961,9 @@ sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adreso laukas
@@ -984,6 +1033,9 @@ content-blocking-fingerprinters = Skaitmeninių atspaudų stebėjimas
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Išbandykite mūsų galingiausią privatumo apsaugą
     .accesskey = b
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Visapusiška slapukų apsauga riboja slapukų pasiekimą jūsų lankomoje svetainėje, todėl stebėjimo elementai negali jų naudoti jūsų sekimui tarp svetainių.
 content-blocking-etp-standard-tcp-rollout-learn-more = Sužinoti daugiau
@@ -1142,6 +1194,9 @@ httpsonly-radio-enabled-pbm =
     .label = Įjungti tik HTTPS veikseną privačiojo naršymo languose
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
