@@ -18,10 +18,13 @@ account-verify = Потврди { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Испрати на сите уреди
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Нема поврзани уреди
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Научете како се испраќаат јазичиња…
 
