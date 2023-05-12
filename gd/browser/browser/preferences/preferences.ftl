@@ -692,6 +692,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Thoir leat an lìon
 sync-signedout-description2 = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
 sync-signedout-account-signin3 =
@@ -708,6 +712,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Luchdaich a-nuas Firefox airson <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> no <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> gus sioncronachadh a dhèanamh leis an uidheam mobile agad.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Atharraich dealbh na pròifil
@@ -825,6 +832,16 @@ sync-device-name-save =
     .label = Sàbhail
     .accesskey = b
 sync-connect-another-device = Ceangail uidheam eile ris
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Chaidh an dearbhadh a chur
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Chaidh ceangal dearbhaidh a chur gu { $email }.
+sync-verification-not-sent-title = Chan urrainn dhuinn an dearbhadh a chur
+sync-verification-not-sent-body = Chan urrainn dhuinn post-d dearbhaidh a chur an-dràsta fhèin, feuch ris a-rithist às a dhèidh seo.
 
 ## Privacy Section
 
