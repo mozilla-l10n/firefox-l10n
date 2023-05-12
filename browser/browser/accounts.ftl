@@ -22,6 +22,7 @@ account-verify = Dilysu { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Anfon i Bob Dyfais
+account-manage-devices-titlecase = Rheoli Dyfeisiadau…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -41,6 +42,15 @@ account-send-tab-to-device-verify = Gwiriwch eich Cyfrif…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Mae'r cyfrifiadur hwn bellach wedi'i gysylltu i { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Mae'r cyfrifiadur hwn bellach wedi'i gysylltu i ddyfais newydd.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Rydych wedi mewngofnodi'n llwyddiannus
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Mae'r cyfrifiadur hwn wedi'i ddatgysylltu.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
