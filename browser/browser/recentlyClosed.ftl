@@ -7,11 +7,15 @@
 ## and should follow the same capitalization (title case for English).
 ## Check menubar.ftl for reference.
 
+recently-closed-menu-reopen-all-tabs = Opne alle faner på nytt
+recently-closed-menu-reopen-all-windows = Opne alle vindauge på nytt
 
 ## These strings are used in the app menu,
 ## and should follow the same capitalization (sentence case for English).
 ## Check appmenu.ftl for reference.
 
+recently-closed-panel-reopen-all-tabs = Opne alle faner på nytt
+recently-closed-panel-reopen-all-windows = Opne alle vindauge på nytt
 
 ##
 
