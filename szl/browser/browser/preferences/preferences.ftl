@@ -73,6 +73,17 @@ restart-later = Resztartuj niyskorzij
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> kōntroluje tyn sztalōnek.
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Nasztalowania…
     .accesskey = i
 containers-disable-alert-title = Zawrzić wszyskie kōntynerowe karty?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Jak teroz zastawisz kōntynerowe karty, { $tabCount } tako karta sie zawrze. Na zicher chcesz zastawić kōntynerowe karty?
@@ -167,6 +182,9 @@ containers-disable-alert-ok-button =
         [few] Zawrzij { $tabCount } kōntynerowe karty
        *[many] Zawrzij { $tabCount } kōntynerowych kart
     }
+
+##
+
 containers-disable-alert-cancel-button = Ôstow załōnczōne
 containers-remove-alert-title = Wyciepać tyn kōntyner?
 # Variables:
@@ -531,6 +549,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Rykōmyndowane ôd { $provider }
 home-prefs-recommended-by-description-new = Ekstra zawartość ôbrano ôd { $provider }, co je we familiji { -brand-product-name }
@@ -641,6 +663,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Bier swōj nec ze sobōm
 sync-signedout-description2 = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i sztalōnki na wszyskich swojich maszinach.
 sync-signedout-account-signin3 =
@@ -658,6 +684,9 @@ sync-mobile-promo = Pobier Firefox na <img data-l10n-name="android-icon"/> <a da
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Zmiyń profilowy ôbrozek
 sync-sign-out =
@@ -665,8 +694,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Regiyruj kōntym
     .accesskey = r
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Kōnto { $email } niy ma zweryfikowane.
 sync-signedin-login-failure = Wloguj sie, coby zaś połōnczyć kōnto { $email }
+
+##
+
 sync-resend-verification =
     .label = Poślij zaś weryfikacyjo
     .accesskey = z
@@ -765,6 +801,16 @@ sync-device-name-save =
     .label = Spamiyntej
     .accesskey = p
 sync-connect-another-device = Połōncz inkszo maszina
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Weryfikacyjo je posłano
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Link z weryfikacyjōm je posłany na { $email }.
+sync-verification-not-sent-title = Niy idzie posłać weryfikacyje
+sync-verification-not-sent-body = Niy idzie prawie posłać emaila z weryfikacyjōm. Sprōbuj zaś niyskorzij.
 
 ## Privacy Section
 
@@ -916,6 +962,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Regiyruj wyjōntkami…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Address Bar
 
@@ -1147,6 +1196,9 @@ httpsonly-radio-enabled-pbm =
     .label = Załōncz tryb "ino HTTPS" ino w prywatnych ôknach
 httpsonly-radio-disabled =
     .label = Niy załōnczej trybu "ino HTTPS"
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
