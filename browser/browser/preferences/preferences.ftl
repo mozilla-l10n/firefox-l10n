@@ -833,6 +833,7 @@ sync-verification-sent-title = Stadfesting sendt
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Ei stadfestingslenke er sendt til { $email }.
 sync-verification-not-sent-title = Klarte ikkje å sende stadfesting
+sync-verification-not-sent-body = Vi klarte ikkje å sende ei stadfesting på e-post no, prøv på nytt seinare.
 
 ## Privacy Section
 
