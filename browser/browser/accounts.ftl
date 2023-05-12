@@ -25,10 +25,14 @@ account-verify = Verificatz «{ $email }»
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Saber cossí enviar d'onglets…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Compte pas verificat
+account-send-tab-to-device-verify = Verificatz vòstre compte…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -37,9 +41,27 @@ account-verify = Verificatz «{ $email }»
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Onglet recebut
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Onglet de { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Onglets recebuts
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } onglet recebut de { $deviceName }
+       *[other] { $tabCount } onglets recebuts de { $deviceName }
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } onglet es arribat
+       *[other] { $tabCount } onglets son arribats
+    }
