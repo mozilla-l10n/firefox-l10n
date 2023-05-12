@@ -829,6 +829,9 @@ sync-connect-another-device = სხვა მოწყობილობას�
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = დასტური გაიგზავნა
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = დადასტურების ბმული გაიგზავნა { $email }-ზე
 sync-verification-not-sent-title = დასტურის გაგზავნა ვერ მოხერხდა
 
 ## Privacy Section
