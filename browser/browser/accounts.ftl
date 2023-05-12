@@ -21,6 +21,7 @@ account-verify = सत्यापित करना { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = सभी उपकरणों को भेजें
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -37,6 +38,7 @@ account-verify = सत्यापित करना { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = टैब प्राप्त किया गया
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } से टैब
@@ -46,6 +48,7 @@ account-single-tab-arriving-from-device-title = { $deviceName } से टैब
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = टैब प्राप्त किया गया
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
