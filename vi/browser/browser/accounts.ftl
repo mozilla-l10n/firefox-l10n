@@ -30,6 +30,8 @@ account-send-to-all-devices-titlecase = Gửi tới tất cả các thiết bị
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Tài khoản chưa được xác thực
+account-send-tab-to-device-verify = Xác minh tài khoản của bạn…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

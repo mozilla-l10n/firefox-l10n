@@ -812,6 +812,7 @@ sync-connect-another-device = Kết nối thiết bị khác
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = Tin nhắn xác thực đã được gửi
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Một liên kết xác thực đã được gửi tới { $email }
