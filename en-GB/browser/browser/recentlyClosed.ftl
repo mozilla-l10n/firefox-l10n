@@ -7,6 +7,8 @@
 ## and should follow the same capitalization (title case for English).
 ## Check menubar.ftl for reference.
 
+recently-closed-menu-reopen-all-tabs = Reopen All Tabs
+recently-closed-menu-reopen-all-windows = Reopen All Windows
 
 ## These strings are used in the app menu,
 ## and should follow the same capitalization (sentence case for English).
