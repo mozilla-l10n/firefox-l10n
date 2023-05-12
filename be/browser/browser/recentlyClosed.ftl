@@ -7,11 +7,15 @@
 ## and should follow the same capitalization (title case for English).
 ## Check menubar.ftl for reference.
 
+recently-closed-menu-reopen-all-tabs = Пераадкрыць усе карткі
+recently-closed-menu-reopen-all-windows = Пераадкрыць усе вокны
 
 ## These strings are used in the app menu,
 ## and should follow the same capitalization (sentence case for English).
 ## Check appmenu.ftl for reference.
 
+recently-closed-panel-reopen-all-tabs = Пераадкрыць усе карткі
+recently-closed-panel-reopen-all-windows = Пераадкрыць усе вокны
 
 ##
 
