@@ -688,6 +688,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Вазьміце сваё Сеціва з сабой
 sync-signedout-description2 = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.
 sync-signedout-account-signin3 =
@@ -704,6 +708,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Сцягніце Firefox для <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> або <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>, каб сінхранізавацца са сваёй мабільнай прыладай.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Змяніць профільную выяву
@@ -821,6 +828,16 @@ sync-device-name-save =
     .label = Захаваць
     .accesskey = х
 sync-connect-another-device = Злучыць іншую прыладу
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Пацверджанне выслана
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Спасылка для пацверджання адпраўлена { $email }.
+sync-verification-not-sent-title = Немагчыма адправіць пацверджанне
+sync-verification-not-sent-body = Мы зараз не можам адправіць ліст з пацверджаннем, калі ласка, паспрабуйце пазней.
 
 ## Privacy Section
 
