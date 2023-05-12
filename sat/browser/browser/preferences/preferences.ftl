@@ -557,6 +557,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = ᱟᱢᱟᱜ ᱣᱮᱵ ᱟᱢ ᱥᱟᱶ ᱛᱮ ᱤᱫᱤ ᱢᱮ
 sync-signedout-account-signin3 =
     .label = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ…
@@ -572,6 +576,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱞᱟᱹᱜᱤᱫ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ᱟᱨᱵᱟᱝ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ᱞᱟᱹᱜᱤᱫ Firefox ᱰᱟᱣᱱᱞᱚᱰ ᱢᱮ ᱾
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
@@ -671,6 +678,11 @@ sync-device-name-save =
     .label = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
     .accesskey = ᱥ
 sync-connect-another-device = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱲᱟᱹᱣ ᱢᱮ
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = ᱧᱮᱞ ᱢᱮᱲᱟᱣ ᱠᱩᱞ ᱮᱱᱟ
 
 ## Privacy Section
 
