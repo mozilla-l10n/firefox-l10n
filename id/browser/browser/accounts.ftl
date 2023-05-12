@@ -57,3 +57,9 @@ account-single-tab-arriving-from-device-title = Tab dari { $deviceName }
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Tab Diterima
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device = { $tabCount } tab telah diterima dari { $deviceName }
+account-multiple-tabs-arriving-from-multiple-devices = { $tabCount } tab telah diterima dari perangkat Anda yang telah terhubung
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device = { $tabCount } tab telah diterima
