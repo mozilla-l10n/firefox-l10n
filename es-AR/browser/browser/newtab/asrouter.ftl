@@ -252,7 +252,7 @@ set-default-pdf-handler-primary = Entendido
 
 ## FxA sync CFR
 
-fxa-sync-cfr-header = ¿Nuevo dispositivo en su futuro?
+fxa-sync-cfr-header = ¿Piensa tener un nuevo dispositivo en su futuro?
 fxa-sync-cfr-body = Asegúrese de que los últimos marcadores, contraseñas y pestañas estén ahí cada vez que abra un nuevo navegador { -brand-product-name }.
 fxa-sync-cfr-primary = Conocer más
     .accesskey = r
