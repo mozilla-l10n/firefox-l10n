@@ -22,6 +22,7 @@ account-verify = Dearbh { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Cuir gun a h-uile uidheam
+account-manage-devices-titlecase = Stiùirich na h-uidheaman…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -41,6 +42,15 @@ account-send-tab-to-device-verify = Dearbh an cunntas agad...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Tha an coimpiutair seo ceangailte ri { $deviceName } a-nis.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Tha an coimpiutair seo ceangailte ri uidheam ùr a-nis.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Chaidh do chlàradh a-steach
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Chaidh an coimpiutair seo a dhì-cheangal.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
