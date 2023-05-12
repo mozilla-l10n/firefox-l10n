@@ -28,6 +28,8 @@ account-send-to-all-devices-titlecase = Pošalji na sve uređaje
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Niti jedan uređaj nije povezan
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Saznaj više o slanju kartica …
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Poveži novi uređaj…
 
@@ -35,9 +37,19 @@ account-send-tab-to-device-connectdevice = Poveži novi uređaj…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Račun nije potvrđen
+account-send-tab-to-device-verify = Potvrdi tvoj račun …
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Ovo računalo je sad povezano s { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Ovo računalo je sad povezano s novim uređajem.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Uspješno si prijavljen/a
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Ovo računalo je odspojeno.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.

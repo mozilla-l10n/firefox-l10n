@@ -737,6 +737,7 @@ sync-verification-sent-title = Potvrda poslana
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Link potvrde je poslan na { $email }.
 sync-verification-not-sent-title = Slanje potvrde nije moguće
+sync-verification-not-sent-body = Trenutačno ne možemo poslati e-poštu za potvrdu, pokušaj kasnije ponovo.
 
 ## Privacy Section
 
