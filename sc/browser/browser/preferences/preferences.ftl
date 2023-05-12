@@ -680,6 +680,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Bati·ti·nche·ddu in ònnia logu, su web tuo
 sync-signedout-description2 = Sincroniza is sinnalibros tuos, sa cronologia, is ischedas, is craes, is cumplementos e sa cunfiguratzione in totu is dispositivos tuos.
 sync-signedout-account-signin3 =
@@ -696,6 +700,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Iscàrriga Firefox pro <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o pro <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pro sincronizare cun su dispositivu mòbile tuo.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Muda s'immàgine de su profilu
@@ -811,6 +818,11 @@ sync-device-name-save =
     .label = Sarva
     .accesskey = v
 sync-connect-another-device = Connete un'àteru dispositivu
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Verìfica imbiada
 
 ## Privacy Section
 
@@ -1221,6 +1233,9 @@ httpsonly-radio-enabled-pbm =
     .label = Ativa sa modalidade HTTPS ebbia isceti in is ventanas privadas
 httpsonly-radio-disabled =
     .label = No atives sa modalidade HTTPS ebbia
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
