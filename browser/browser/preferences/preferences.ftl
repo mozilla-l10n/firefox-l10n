@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Web’inizi yanınızda taşıyın
 sync-signedout-description2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında senkronize edin.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Mobil cihazınızla eşitleme yapmak isterseniz <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> veya <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> için Firefox’u indirin.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profil resmini değiştir
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Kaydet
     .accesskey = K
 sync-connect-another-device = Başka bir cihaz bağla
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Doğrulama gönderildi
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = { $email } adresine doğrulama bağlantısı gönderildi.
+sync-verification-not-sent-title = Doğrulama gönderilemedi
+sync-verification-not-sent-body = Şu anda doğrulama e-postası gönderemedik. Lütfen daha sonra yeniden deneyin.
 
 ## Privacy Section
 
