@@ -29,6 +29,7 @@ account-send-to-all-devices-titlecase = Azen ɣer akk ibenkan
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Amiḍan ur yettwasenqed ara
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
