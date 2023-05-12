@@ -832,6 +832,7 @@ sync-verification-sent-title = Ligam de verificacion mandat
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Un ligam de verificacion es estat mandat a { $email }
 sync-verification-not-sent-title = Impossible de mandar lo ligam de verificacion
+sync-verification-not-sent-body = Sèm pas en capacitat d'enviar un corrièl de verificacion en aqueste moment, mercés de tornar ensajar mai tard.
 
 ## Privacy Section
 
