@@ -56,9 +56,30 @@ account-connection-disconnected = Esta computadora ha sido desconectada.
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = Pestaña recibida
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Pestaña de { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } pestaña llegó desde { $deviceName }
+       *[other] { $tabCount } pestañas llegaron desde { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } pestaña llegó desde tus dispositivos conectados
+       *[other] { $tabCount } pestañas llegaron desde tus dispositivos conectados
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] Llegó { $tabCount } pestaña
+       *[other] Llegaron { $tabCount } pestañas
+    }
