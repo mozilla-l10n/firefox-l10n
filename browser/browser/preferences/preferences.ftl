@@ -828,10 +828,12 @@ sync-connect-another-device = Σύνδεση άλλης συσκευής
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = Η επιβεβαίωση εστάλη
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Έχει σταλεί ένα σύνδεσμος επαλήθευσης στην διεύθυνση { $email }.
 sync-verification-not-sent-title = Αδυναμία αποστολής επιβεβαίωσης
+sync-verification-not-sent-body = Δεν μπορέσαμε να στείλουμε ένα email επαλήθευσης, παρακαλούμε δοκιμάστε ξανά αργότερα.
 
 ## Privacy Section
 
