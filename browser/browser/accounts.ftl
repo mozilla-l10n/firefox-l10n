@@ -30,6 +30,8 @@ account-send-to-all-devices-titlecase = Envoyer à tous les appareils
 account-send-tab-to-device-singledevice-status = Aucun appareil connecté
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = En savoir plus sur l’envoi d’onglets…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Connecter un autre appareil…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
