@@ -829,6 +829,10 @@ sync-connect-another-device = Kople til ei anna eining
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Stadfesting sendt
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Ei stadfestingslenke er sendt til { $email }.
+sync-verification-not-sent-title = Klarte ikkje å sende stadfesting
 
 ## Privacy Section
 
