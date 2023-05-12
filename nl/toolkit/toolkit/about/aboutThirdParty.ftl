@@ -65,6 +65,7 @@ third-party-button-expand =
 third-party-button-collapse =
     .title = Detailinformatie samenvouwen
 third-party-requires-restart = { -brand-short-name } dient opnieuw te starten om te wijzigen welke modules van derden worden geblokkeerd.
+third-party-blocking-requires-restart = Om een externe module te blokkeren, moet { -brand-short-name } opnieuw worden gestart.
 third-party-should-restart-title = { -brand-short-name } herstarten
 third-party-should-restart-ok = { -brand-short-name } nu herstarten
 third-party-restart-now = Nu herstarten
