@@ -16,18 +16,26 @@ account-manage-devices = მოწყობილობების მართ
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-reconnect = ხელახლა დაკავშირება – { $email }
 account-verify = დაადასტურეთ { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = ყველა მოწყობილობაზე გაგზავნა
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = მოწყობილობები არაა დაკავშირებული
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = სხვა მოწყობილობის დაკავშირება…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = ანგარიში დაუმოწმებელია
+account-send-tab-to-device-verify = დაამოწმეთ ანგარიში…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -37,9 +45,36 @@ account-verify = დაადასტურეთ { $email }
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = ჩანართი მიღებულია
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = ჩანართი { $deviceName }-იდან
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = ჩანართები მიღებულია
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] ჩანართი მიღებულია { $deviceName }-დან
+       *[other] { $tabCount } ჩანართი მიღებულია { $deviceName }-დან
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] ჩანართი მიღებულია დაკავშირებული მოწყობილობებიდან.
+       *[other] { $tabCount } ჩანართი მიღებულია დაკავშირებული მოწყობილობებიდან
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] ჩანართი მიღებულია
+       *[other] მიღებულია { $tabCount } ჩანართი
+    }
