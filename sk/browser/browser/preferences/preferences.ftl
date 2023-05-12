@@ -832,6 +832,7 @@ sync-connect-another-device = Pripojiť ďalšie zariadenie
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = Overenie bolo odoslané
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Overovací odkaz bol odoslaný na adresu { $email }
