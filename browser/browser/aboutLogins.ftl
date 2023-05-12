@@ -43,6 +43,10 @@ login-list-count =
     { $count ->
        *[other] { $count } info masuk
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count = { $count } dari { $total } info masuk
 login-list-sort-label-text = Urutkan berdasarkan:
 login-list-name-option = Nama (A-Z)
 login-list-name-reverse-option = Nama (Z-A)
