@@ -67,6 +67,7 @@ third-party-button-collapse =
 third-party-requires-restart = { -brand-short-name } dient opnieuw te starten om te wijzigen welke modules van derden worden geblokkeerd.
 third-party-should-restart-title = { -brand-short-name } herstarten
 third-party-should-restart-ok = { -brand-short-name } nu herstarten
+third-party-restart-now = Nu herstarten
 third-party-restart-later = Later herstarten
 third-party-blocked-by-builtin =
     .title = Geblokkeerd door { -brand-short-name }
