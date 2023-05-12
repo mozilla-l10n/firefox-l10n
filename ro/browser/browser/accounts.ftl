@@ -25,11 +25,14 @@ account-send-to-all-devices-titlecase = Trimite tuturor dispozitivelor
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Niciun dispozitiv conectat
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Află despre trimiterea filelor…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Cont neverificat
+account-send-tab-to-device-verify = Verifică-ți contul…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
