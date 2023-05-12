@@ -799,7 +799,12 @@ sync-connect-another-device = අන් උපාංගයක් සබඳින
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = තහවුරු කිරීම යැවිණි
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = තහවුරු කිරීමේ සබැඳිය { $email } වෙත යවා ඇත.
 sync-verification-not-sent-title = තහවුරු කිරීම යැවීමට නොහැකි විය
+sync-verification-not-sent-body = තහවුරු කිරීමේ වි-තැපෑල මේ මොහොතේ යැවීමට නොහැකිය, පසුව උත්සාහ කරන්න.
 
 ## Privacy Section
 
