@@ -13,10 +13,17 @@ account-verify = Verifikasi { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Kirém keu mandum peukakah
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Hana Peukakah Nyang Meuhubông
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Meurunoe Cara Kirém Tab…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Sambông Peukakah Laen…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -47,3 +54,9 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Tabs Teurimong
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device = { $tabCount } tab ka teuka nibak { $deviceName }
+account-multiple-tabs-arriving-from-multiple-devices = { $tabCount } tab ka teuka nibak peukakah droen laen nyang meuhubông
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device = { $tabCount } tab ka teuka

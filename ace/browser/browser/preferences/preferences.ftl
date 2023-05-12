@@ -515,6 +515,7 @@ sync-verification-sent-title = Kirem Verifikasi
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Tautan verifikasi kalheuh teukirem keu { $email }.
 sync-verification-not-sent-title = Hanjeut keu Kirem Verifikasi.
+sync-verification-not-sent-body = Kamoe han jeut meu kirém sabôh email verifikasi jinoe, neuci keulayi euntreuk lom.
 
 ## Privacy Section
 
