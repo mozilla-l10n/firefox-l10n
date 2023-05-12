@@ -30,9 +30,30 @@ account-verify = যাঁচাই { $email }
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = ট্যাব প্রাপ্ত হয়েছে
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = ট্যাব { $deviceName } থেকে
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } ট্যাব { $deviceName } থেকে এসেছে
+       *[other] { $tabCount } ট্যাবসমূহ { $deviceName } থেকে এসেছে
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } আপনার সংযুক্ত ডিভাইস থেকে এসেছে
+       *[other] { $tabCount } ট্যাবসমূহ আপনার সংযুক্ত ডিভাইস থেকে এসেছে
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } ট্যাব এসেছে
+       *[other] { $tabCount } ট্যাব এসেছে
+    }
