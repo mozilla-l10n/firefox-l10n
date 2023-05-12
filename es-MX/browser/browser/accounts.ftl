@@ -21,6 +21,7 @@ account-verify = Verificar { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Enviar a todos los dispositivos
 account-manage-devices-titlecase = Administrar dispositivos…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
@@ -65,6 +66,7 @@ account-single-tab-arriving-from-device-title = Pestaña de { $deviceName }
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Pestañas recibidas
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
