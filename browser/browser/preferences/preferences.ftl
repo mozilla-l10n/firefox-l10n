@@ -777,6 +777,9 @@ sync-connect-another-device = Conectează alt dispozitiv
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Verificare trimisă
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Un link de verificare a fost trimis la { $email }.
 sync-verification-not-sent-title = Nu se poate trimite verificarea
 sync-verification-not-sent-body = Nu putem să trimitem un e-mail de verificare în acest moment, te rugăm să încerci din nou mai târziu.
 
