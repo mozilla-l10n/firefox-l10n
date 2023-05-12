@@ -26,10 +26,18 @@ account-send-to-all-devices-titlecase = Trametter a tut ils apparats
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Nagins apparats connectads
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Dapli davart il trametter tabs…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Colliar in auter apparat…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Il conto n'è betg verifitgà
+account-send-tab-to-device-verify = Verifitgar tes conto…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -42,6 +50,11 @@ account-single-tab-arriving-title = Retschavì in tab
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab da { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
