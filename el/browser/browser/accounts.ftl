@@ -21,10 +21,13 @@ account-verify = Επαλήθευση { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Αποστολή σε όλες τις συσκευές
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Δεν συνδέθηκαν συσκευές
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Μάθετε για την αποστολή καρτελών…
 # Redirects to an FxAccounts page that tells to you to connect another device.
@@ -33,6 +36,7 @@ account-send-tab-to-device-connectdevice = Σύνδεση άλλης συσκε�
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Ο λογαριασμός δεν επαληθεύτηκε
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
