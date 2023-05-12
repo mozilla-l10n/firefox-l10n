@@ -22,6 +22,8 @@ account-send-to-all-devices-titlecase = Cihazlarnıñ episine yiber
 account-send-tab-to-device-singledevice-status = Bağlanğan Cihazlar Yoq
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = İlmeklerniñ Yiberilüvi Aqqında Ögren…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Başqa bir Cihaznı Bağla…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -40,6 +42,11 @@ account-single-tab-arriving-title = İlmek Qabul Etildi
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } menşeli ilmek
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
@@ -47,3 +54,21 @@ account-single-tab-arriving-from-device-title = { $deviceName } menşeli ilmek
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = İlmekler Qabul Etildi
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $deviceName } cihazından { $tabCount } ilmek kelgendir
+       *[other] { $deviceName } cihazından { $tabCount } ilmek kelgendir
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] Bağlanğan cihazlarıñızdan { $tabCount } ilmek ulaşqandır
+       *[other] Bağlanğan cihazlarıñızdan { $tabCount } ilmek ulaşqandır
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } ilmek ulaşqandır
+       *[other] { $tabCount } ilmek ulaşqandır
+    }
