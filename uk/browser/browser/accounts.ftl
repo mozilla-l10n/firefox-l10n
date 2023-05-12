@@ -30,6 +30,8 @@ account-manage-devices-titlecase = Керувати пристроями…
 account-send-tab-to-device-singledevice-status = Немає під'єднаних пристроїв
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Докладніше про надсилання вкладок…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Під'єднати інший пристрій…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -39,6 +41,15 @@ account-send-tab-to-device-verify = Підтвердити обліковий з
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Цей комп'ютер під'єднано до { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Цей комп'ютер під'єднано до нового пристрою.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Ви успішно увійшли
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Цей комп'ютер було від'єднано.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -48,6 +59,11 @@ account-single-tab-arriving-title = Відправлена вкладка
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Вкладка з { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
