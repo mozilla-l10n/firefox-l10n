@@ -657,6 +657,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = වියමන ඔබ සමඟ ගෙනයන්න
 sync-signedout-description2 = ඔබගේ සියළුම උපාංග වලට ඔබගේ පොත්යොමු, ඉතිහාසය, පටිති, මුරපද, එක්කහු සහ සැකසුම් සමමුහූර්ත කරන්න.
 sync-signedout-account-signin3 =
@@ -673,6 +677,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = ඔබගේ ජංගම උපාංගය සමඟ සමමුහූර්තයට <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ඇන්ඩ්‍රොයිඩ්</a> හෝ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">අයිඕඑස්</a> සඳහා ෆයර්ෆොක්ස් බාගන්න.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = පැතිකඩ රූපය සංශෝධනය
@@ -788,6 +795,11 @@ sync-device-name-save =
     .label = සුරකින්න
     .accesskey = v
 sync-connect-another-device = අන් උපාංගයක් සබඳින්න
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-not-sent-title = තහවුරු කිරීම යැවීමට නොහැකි විය
 
 ## Privacy Section
 
@@ -1171,6 +1183,9 @@ httpsonly-radio-enabled-pbm =
     .label = පෞද්. කවුළුවල පමණක් HTTPS-පමණි ප්‍රකාරය
 httpsonly-radio-disabled =
     .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
