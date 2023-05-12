@@ -22,6 +22,7 @@ account-verify = ផ្ទៀងផ្ទាត់ { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = ផ្ញើ​ទៅ​ឧបករណ៍​ទាំងអស់
+account-manage-devices-titlecase = គ្រប់គ្រងឧបករណ៍…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -41,6 +42,15 @@ account-send-tab-to-device-verify = ផ្ទៀងផ្ទាត់​គណ�
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = ឥឡូវនេះ កុំព្យូទ័រនេះភ្ជាប់ជាមួយ { $deviceName } ។
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = ឥឡូវនេះ កុំព្យូទ័រនេះភ្ជាប់ជាមួយឧបករណ៍ថ្មីមួយ។
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = អ្នកបានចូលដោយជោគជ័យ
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = កុំព្យូទ័រនេះត្រូវបានផ្តាច់។
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
