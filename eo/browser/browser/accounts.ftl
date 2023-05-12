@@ -22,6 +22,7 @@ account-verify = Kontroli { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Sendi al ĉiuj aparatoj
+account-manage-devices-titlecase = Administri aparatojn…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
