@@ -22,6 +22,7 @@ account-verify = ກວດສອບ { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = ສົ່ງໄປຫາທຸກອຸປະກອນ
+account-manage-devices-titlecase = ຈັດການອຸປະກອນ...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -30,6 +31,8 @@ account-send-to-all-devices-titlecase = ສົ່ງໄປຫາທຸກອຸ�
 account-send-tab-to-device-singledevice-status = ບໍ່ມີອຸປະກອນເຊື່ອມຕໍ່
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = ຮຽນຮູ້ກ່ຽວກັບແທັບສົ່ງຕໍ່...
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -39,6 +42,15 @@ account-send-tab-to-device-verify = ຢືນຢັນບັນຊີຂອງ�
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = ຄອມພິວເຕີເຄື່ອງນີ້ເຊື່ອມຕໍ່ກັບ { $deviceName } ແລ້ວ.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = ດຽວນີ້ຄອມພິວເຕີເຄື່ອງນີ້ເຊື່ອມຕໍ່ກັບອຸປະກອນໃໝ່ແລ້ວ.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = ທ່ານໄດ້ເຂົ້າສູ່ລະບົບສຳເລັດແລ້ວ
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = ຄອມພິວເຕີເຄື່ອງນີ້ຖືກຕັດການເຊື່ອມຕໍ່.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
