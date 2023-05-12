@@ -21,13 +21,28 @@ account-send-to-all-devices-titlecase = Cwal i nyonyo weng
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Nyonyo mo pe ma okube
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Nong ngec ikom cwalo dirica matino…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Kub Nyonyo Mukene…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Pe ki moko akaunt
+account-send-tab-to-device-verify = Mok akaunt mamegi…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Kompiuta man dong tye ka kube ki { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Kompiuta man dong tye ka kube ki nyonyo manyen.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Idonyo iyie maber
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -37,6 +52,11 @@ account-single-tab-arriving-title = Kigamo dirica matidi
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Dirica matidi ki i { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
