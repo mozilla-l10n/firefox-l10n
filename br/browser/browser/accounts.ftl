@@ -28,10 +28,14 @@ account-send-to-all-devices-titlecase = Kan d'an holl drvenadoù
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Trevnad ebet kennasket
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Gouzout hiroc'h a-zivout kas ivinelloù…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Kont amgwiriet
+account-send-tab-to-device-verify = Gwiriit ho kont…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
