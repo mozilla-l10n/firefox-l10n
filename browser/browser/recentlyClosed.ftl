@@ -7,11 +7,15 @@
 ## and should follow the same capitalization (title case for English).
 ## Check menubar.ftl for reference.
 
+recently-closed-menu-reopen-all-tabs = Ath-fhosgail gach taba
+recently-closed-menu-reopen-all-windows = Ath-fhosgail gach uinneag
 
 ## These strings are used in the app menu,
 ## and should follow the same capitalization (sentence case for English).
 ## Check appmenu.ftl for reference.
 
+recently-closed-panel-reopen-all-tabs = Ath-fhosgail gach taba
+recently-closed-panel-reopen-all-windows = Ath-fhosgail gach uinneag
 
 ##
 
