@@ -47,6 +47,17 @@ restart-later = Riabbìa doppu
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -95,6 +106,10 @@ browser-containers-settings =
     .label = Mpustazziuna…
     .accesskey = i
 containers-disable-alert-title = Vo' chiùjiri tutti i schedi cuntinituri?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Si disabbìliti i schedi cuntinituri ora, { $tabCount } scheda cuntinituri veni chiusa. Sì sicuru ca vo' disabbilitari i schedi cuntinituri?
@@ -105,6 +120,9 @@ containers-disable-alert-ok-button =
         [one] Chiuji { $tabCount } scheda cuntinituri
        *[other] Chiuji { $tabCount } schedi cuntinituri
     }
+
+##
+
 containers-disable-alert-cancel-button = Teni abbilitatu
 containers-remove-alert-title = Livari stu cuntinituri?
 # Variables:
@@ -381,6 +399,10 @@ home-prefs-search-header =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
@@ -475,6 +497,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Pòrtati appressu a to Riti
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -488,6 +514,9 @@ sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Cancia a mmàggini dû prufilu
 sync-sign-out =
@@ -495,8 +524,15 @@ sync-sign-out =
     .accesskey = N
 sync-manage-account = Gistisci cuntu
     .accesskey = G
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } nun è virificata.
 sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
+
+##
+
 sync-resend-verification =
     .label = Rimanna virìfica
     .accesskey = R
@@ -586,6 +622,16 @@ sync-device-name-save =
     .label = Sarba
     .accesskey = b
 sync-connect-another-device = Cunnetti n'autru dispusitivu
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Virìfica mannata
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Na lijami di virìfica fu mannatu a { $email }.
+sync-verification-not-sent-title = Nun fu pussìbbili mannari nuḍḍa virìfica
+sync-verification-not-sent-body = P'accamora nun putemu mannari na virìfica, riprova cchiù tardu.
 
 ## Privacy Section
 
@@ -704,6 +750,9 @@ sitedata-settings =
     .label = Gistisci dati…
     .accesskey = G
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra dû nnirizzu
@@ -752,6 +801,9 @@ content-blocking-all-windows-tracking-content = Cuntinuti trazzanti 'n tutti i f
 content-blocking-all-third-party-cookies = Tutti i cookie di terzi parti
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Giniratura d'urmi diggitali
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = Cumanna!
 content-blocking-warning-learn-how = Vidi comu
 content-blocking-reload-description = Ài a ricarricari i schedi p'appricari sti canciamenti.
@@ -883,6 +935,9 @@ certs-devices =
     .accesskey = D
 
 ## Privacy Section - HTTPS-Only
+
+
+## DoH Section
 
 
 ## The following strings are used in the Download section of settings
