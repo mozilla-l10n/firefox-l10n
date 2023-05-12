@@ -829,7 +829,11 @@ sync-connect-another-device = Conectar otro dispositivo
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Verificación enviada
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Un enlace de verificación ha sido enviado a { $email }.
 sync-verification-not-sent-title = No es posible enviar la verificación
+sync-verification-not-sent-body = Por el momento no podemos enviar un correo de verificación, por favor, intenta de nuevo más tarde.
 
 ## Privacy Section
 
