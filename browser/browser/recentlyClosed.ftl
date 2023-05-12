@@ -7,11 +7,14 @@
 ## and should follow the same capitalization (title case for English).
 ## Check menubar.ftl for reference.
 
+recently-closed-menu-reopen-all-tabs = सभी टैब फिर से खोलें
 
 ## These strings are used in the app menu,
 ## and should follow the same capitalization (sentence case for English).
 ## Check appmenu.ftl for reference.
 
+recently-closed-panel-reopen-all-tabs = सभी टैब फिर से खोलें
+recently-closed-panel-reopen-all-windows = सभी विंडो फिर से खोलें
 
 ##
 
