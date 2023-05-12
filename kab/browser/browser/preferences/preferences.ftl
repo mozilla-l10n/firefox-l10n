@@ -824,6 +824,8 @@ sync-verification-sent-title = Asenqed yettwazen
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Aseɣwen n usenqed ittwazen i { $email }.
+sync-verification-not-sent-title = Ulamek tuzna n useɣwen n usenqed
+sync-verification-not-sent-body = Ur nezmir ara ad nazen imayl n usenqed akka tura, ma ulac aɣilif ɛreḍ i tikelt-nniḍen ticki.
 
 ## Privacy Section
 
