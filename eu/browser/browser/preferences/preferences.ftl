@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Eraman ezazu weba zurekin
 sync-signedout-description2 = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta ezarpenak zure gailu guztien artean.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Deskargatu <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> edo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>erako Firefox zure gailu mugikorrarekin sinkronizatzeko.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Aldatu profileko argazkia
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Gorde
     .accesskey = G
 sync-connect-another-device = Konektatu beste gailu bat
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Egiaztapena bidali da
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Egiaztapen-lotura { $email } helbidera bidali da.
+sync-verification-not-sent-title = Ezin da egiaztapena bidali
+sync-verification-not-sent-body = Ezin dugu egiaztapen-mezua bidali une honetan, saiatu berriro geroago.
 
 ## Privacy Section
 
