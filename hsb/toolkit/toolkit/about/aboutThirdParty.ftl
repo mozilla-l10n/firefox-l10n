@@ -67,6 +67,7 @@ third-party-button-collapse =
 third-party-requires-restart = { -brand-short-name } dyrbi so znowa startować, zo by změnił, kotre module třećich poskićowarjow so blokuja.
 third-party-should-restart-title = { -brand-short-name } znowa startować
 third-party-should-restart-ok = { -brand-short-name } nětko znowa startować
+third-party-restart-now = Nětko znowa startować
 third-party-restart-later = Pozdźišo znowa startować
 third-party-blocked-by-builtin =
     .title = Přez { -brand-short-name } zablokowany
