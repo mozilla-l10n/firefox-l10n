@@ -26,13 +26,28 @@ account-send-to-all-devices-titlecase = সকল ডিভাইসে পা�
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = কোন ডিভাইস সংযুক্ত নয়
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = অন্য ডিভাইসে সংযুক্ত হোন…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = অ্যাকাউন্ট যাচাই হয়নি
+account-send-tab-to-device-verify = আপনার অ্যাকাউন্ট যাচাই করুন…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = এই কম্পিউটার এখন { $deviceName } এর সাথে সংযুক্ত রয়েছে।
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = এই কম্পিউটারটি এখন একটি নতুন ডিভাইসের সাথে সংযুক্ত আছে।
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = আপনি সফলভাবে সাইন ইন করেছেন
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = এই কম্পিউটারটি বিচ্ছিন্ন করা হয়েছে।
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -42,6 +57,11 @@ account-single-tab-arriving-title = ট্যাব গৃহীত
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } হতে ট্যাব
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
