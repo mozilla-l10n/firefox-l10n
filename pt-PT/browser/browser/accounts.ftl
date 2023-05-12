@@ -29,6 +29,8 @@ account-send-to-all-devices-titlecase = Enviar para todos os dispositivos
 account-send-tab-to-device-singledevice-status = Sem dispositivos ligados
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Saber acerca de enviar separadores…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Ligar outro dispositivo…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -47,6 +49,11 @@ account-single-tab-arriving-title = Separador recebido
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Separador de { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
