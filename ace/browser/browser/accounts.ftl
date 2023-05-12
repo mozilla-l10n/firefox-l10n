@@ -21,6 +21,8 @@ account-verify = Verifikasi { $email }
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Akun Hana Meuvèripikasi
+account-send-tab-to-device-verify = Vèripikasi Akun Droëneuh…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
