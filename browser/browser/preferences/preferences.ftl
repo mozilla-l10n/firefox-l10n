@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = So haben Sie das Web überall dabei.
 sync-signedout-description2 = Synchronisieren Sie Ihre Lesezeichen, Chronik, Tabs, Passwörter, Add-ons und Einstellungen zwischen allen Ihren Geräten.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Firefox für <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> oder <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> herunterladen, um mit Ihrem Handy zu synchronisieren.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profilbild ändern
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Speichern
     .accesskey = S
 sync-connect-another-device = Weiteres Gerät verbinden
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Verifizierung gesendet
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Ein Link zur Verifizierung wurde an { $email } gesendet.
+sync-verification-not-sent-title = Verifizierung konnte nicht gesendet werden
+sync-verification-not-sent-body = Die E-Mail zur Verifizierung konnte nicht gesendet werden. Bitte versuchen Sie es später erneut.
 
 ## Privacy Section
 
