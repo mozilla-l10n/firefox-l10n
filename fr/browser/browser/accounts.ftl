@@ -54,6 +54,11 @@ account-multiple-tabs-arriving-from-single-device =
         [one] { $tabCount } onglet reçu provenant de { $deviceName }
        *[other] { $tabCount } onglets reçus provenant de { $deviceName }
     }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } onglet a été reçu et provient de vos différents appareils connectés.
+       *[other] { $tabCount } onglets ont été reçus et proviennent de vos différents appareils connectés.
+    }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
