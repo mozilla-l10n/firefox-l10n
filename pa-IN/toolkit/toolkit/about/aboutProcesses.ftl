@@ -83,7 +83,9 @@ about-processes-frame-name-many = ਸਬ-ਫਰੇਮ ({ $number }): { $shortUrl
 
 about-processes-utility-actor-unknown = ਅਣਪਛਾਤਾ ਐਕਟਰ
 about-processes-utility-actor-audio-decoder = ਆਡੀਓ ਡੀਕੋਡਰ
+about-processes-utility-actor-audio-decoder-generic = ਸਧਾਰਨ ਆਡੀਓ ਡੀਕੋਡਰ
 about-processes-utility-actor-audio-decoder-applemedia = Apple ਮੀਡੀਆ ਆਡੀਓ ਡੀਕੋਡਰ
+about-processes-utility-actor-audio-decoder-wmf = Windows ਮੀਡੀਆ ਫ਼ਰੇਮਵਰਕ ਆਡੀਓ ਡਿਕੋਡਰ
 about-processes-utility-actor-mf-media-engine = Windows ਮੀਡੀਆ ਫਾਊਂਡੇਸ਼ਨ ਮੀਡੀਆ ਇੰਜਣ CDM
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
