@@ -1273,6 +1273,7 @@ preferences-doh-setting-default =
     .label = Προεπιλεγμένη προστασία
     .accesskey = Π
 preferences-doh-default-desc = Το { -brand-short-name } αποφασίζει πότε θα χρησιμοποιεί ασφαλές DNS για την προστασία του απορρήτου σας.
+preferences-doh-default-detailed-desc-5 = Απενεργοποίηση όταν ένα δίκτυο ενημερώνει το { -brand-short-name } ότι δεν πρέπει να χρησιμοποιεί ασφαλές DNS
 preferences-doh-setting-enabled =
     .label = Αυξημένη προστασία
     .accesskey = Α
