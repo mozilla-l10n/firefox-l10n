@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = اپݨی ویب اپݨے نال رکھو
 sync-signedout-description2 = اپݨے تمام آلات تے اپݨے نشانیاں، تاریخ، ٹیباں، پاس ورڈز، ایڈ آنز تے ترتیباں کوں سنکرونائز کرو۔
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> یا <img data-l10n-name="ios-icon"/> کیتے Firefox ڈاؤن لوڈ کرو اپݨے موبائل آلے دے نال مطابقت پذیری کیتے <a data-l10n-name="ios-link">iOS</a>۔
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = پروفائل دی تصویر تبدیل کرو
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = ہتھیکڑا کرو
     .accesskey = v
 sync-connect-another-device = ٻئی ڈیوائس نال کنکٹ کرو
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = توثیق بھیڄ ݙتی ڳئی
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = { $email } کوں توثیق دا لنک بھیڄ ݙتا ڳئے۔
+sync-verification-not-sent-title = توثیق بھیڄݨ توں عاری
+sync-verification-not-sent-body = اساں ایں ویلھے توثیق دی میل بھیڄݨ کنوں عاری ہیں، برائے مہربانی کجھ دیر بعد کوشش کرو۔
 
 ## Privacy Section
 
