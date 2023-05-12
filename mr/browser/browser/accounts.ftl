@@ -5,7 +5,66 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = खाते प्रस्थापन संपवा
-
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = सगळ्या उपकरणांना पाठवा
 
+## Variables:
+##   $email (String): = Email address of user's Firefox Account.
+
+account-reconnect = { $email } शी पुन्हा जोडा
+account-verify = { $email } पडताळा
+
+## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
+
+account-send-to-all-devices-titlecase = सगळ्या उपकरणांना पाठवा
+
+## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
+## and the account has only 1 device connected.
+
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = कोणतेही साधन जोडलेले नाही
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = टॅब पाठवण्याबद्दल जाणून घ्या…
+
+## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
+## and the Sync account is unverified. Redirects to the Sync preferences page.
+
+account-send-tab-to-device-verify-status = खातं प्रमाणित नाही
+account-send-tab-to-device-verify = आपले खाते प्रमाणित करा...
+
+## These strings are used in a notification shown when a new device joins the Firefox account.
+
+
+## These strings are used in a notification shown when we're opening
+## a single tab another device sent us to display.
+## The body for this notification is the URL of the received tab.
+
+account-single-tab-arriving-title = टॅब प्राप्त
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = { $deviceName } वरील टॅब
+
+## These strings are used in a notification shown when we're opening
+## multiple tabs another device or devices sent us to display.
+## Variables:
+##   $tabCount (Number): the number of tabs received
+
+account-multiple-tabs-arriving-title = टॅब प्राप्त
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } टॅब { $deviceName } कडून आली आहे
+       *[other] { $tabCount } टॅब्स { $deviceName } कडून आल्या आहेत.
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } टॅब आपल्या जोडलेल्या साधनांपासून आला आहे
+       *[other] { $tabCount } टॅब्स आपल्या जोडलेल्या साधनांपासून आल्या आहेत.
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } टॅब आली आहे
+       *[other] { $tabCount } टॅब्स आल्या आहेत
+    }
