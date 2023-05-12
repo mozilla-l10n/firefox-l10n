@@ -22,6 +22,7 @@ account-verify = Gwiriañ { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Kan d'an holl drvenadoù
+account-manage-devices-titlecase = Merañ an trevnadoù...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -30,6 +31,8 @@ account-send-to-all-devices-titlecase = Kan d'an holl drvenadoù
 account-send-tab-to-device-singledevice-status = Trevnad ebet kennasket
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Gouzout hiroc'h a-zivout kas ivinelloù…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Kennaskañ un trevnad all…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -39,6 +42,15 @@ account-send-tab-to-device-verify = Gwiriit ho kont…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Kennasket eo an urzhiataer-mañ gant { $deviceName }
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Kennasket eo an urzhiataer-mañ gant un trevnad nevez.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Kennasket oc'h gant berzh
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Digennasket eo bet an urzhiataer-mañ.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -48,6 +60,11 @@ account-single-tab-arriving-title = Ivinell degemeret
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Ivinell eus { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
@@ -55,3 +72,21 @@ account-single-tab-arriving-from-device-title = Ivinell eus { $deviceName }
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Ivinelloù degemeret
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } ivinell degouezhet eus { $deviceName }
+        [two] { $tabCount } ivinell degouezhet eus { $deviceName }
+        [few] { $tabCount } ivinell degouezhet eus { $deviceName }
+        [many] { $tabCount } a ivinelloù degouezhet eus { $deviceName }
+       *[other] { $tabCount } ivinell degouezhet eus { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } ivinell degouezhet eus an trevnad kennasket.
+        [two] { $tabCount } ivinell degouezhet eus an trevnad kennasket.
+        [few] { $tabCount } ivinell degouezhet eus an trevnad kennasket.
+        [many] { $tabCount } a ivinelloù degouezhet eus an trevnad kennasket.
+       *[other] { $tabCount } ivinell degouezhet eus an trevnad kennasket.
+    }
