@@ -12,4 +12,14 @@ webauthn-pin-invalid-prompt =
         [few] Bha am PIN ceàrr! Cuir a-steach am PIN ceart airson an uidheim agad. Tha { $retriesLeft } oidhirpean air fhàgail agad.
        *[other] Bha am PIN ceàrr! Cuir a-steach am PIN ceart airson an uidheim agad. Tha { $retriesLeft } oidhirp air fhàgail agad.
     }
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Tha am PIN ceàrr. Tha { $retriesLeft } oidhirp air fhàgail agad mus caill thu cothrom air na teisteasan agad air an uidheam seo gu buan.
+        [two] Tha am PIN ceàrr. Tha { $retriesLeft } oidhirp air fhàgail agad mus caill thu cothrom air na teisteasan agad air an uidheam seo gu buan.
+        [few] Tha am PIN ceàrr. Tha { $retriesLeft } oidhirpean air fhàgail agad mus caill thu cothrom air na teisteasan agad air an uidheam seo gu buan.
+       *[other] Tha am PIN ceàrr. Tha { $retriesLeft } oidhirp air fhàgail agad mus caill thu cothrom air na teisteasan agad air an uidheam seo gu buan.
+    }
+webauthn-pin-invalid-short-prompt = Tha am PIN ceàrr. Feuch ris a-rithist.
 webauthn-pin-required-prompt = Cuir a-steach am PIN airson an uidheim agad.
