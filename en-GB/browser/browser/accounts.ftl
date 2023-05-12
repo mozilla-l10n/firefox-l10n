@@ -22,6 +22,7 @@ account-verify = Verify { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Send to All Devices
+account-manage-devices-titlecase = Manage Devices…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -39,6 +40,15 @@ account-send-tab-to-device-verify = Verify Your Account…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = This computer is now connected with { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = This computer is now connected with a new device.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = You have signed in successfully
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = This computer has been disconnected.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -47,6 +57,11 @@ account-send-tab-to-device-verify = Verify Your Account…
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab from { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
