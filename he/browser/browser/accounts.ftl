@@ -42,6 +42,9 @@ account-send-tab-to-device-verify = אימות החשבון שלך…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(case: "a") }
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = מחשב זה חובר עכשיו אל { $deviceName }.
