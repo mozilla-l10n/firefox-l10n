@@ -20,10 +20,14 @@ account-send-to-all-devices-titlecase = ಎಲ್ಲಾ ಸಾಧನಗಳಿಗ
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = ಯಾವುದೇ ಸಾಧನಗಳನ್ನು ಜೋಡಿಸಲಾಗಿಲ್ಲ
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = ಟ್ಯಾಬ್‌ಗಳನ್ನು ಕಳುಹಿಸುವುದರ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = ಖಾತೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ
+account-send-tab-to-device-verify = ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಿ…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -39,3 +43,4 @@ account-single-tab-arriving-title = ಪಡೆಯಲಾದ ಟ್ಯಾಬ್
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = ಪಡೆಯಲಾದ ಟ್ಯಾಬ್‌ಗಳು
