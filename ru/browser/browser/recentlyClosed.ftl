@@ -19,3 +19,13 @@ recently-closed-panel-reopen-all-windows = Снова открыть все ок
 
 ##
 
+# Variables:
+#   $tabCount (Number): Number of other tabs
+#   $winTitle (String): Window title
+recently-closed-undo-close-window-label =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } (и { $tabCount } другая вкладка)
+        [few] { $winTitle } (и { $tabCount } другие вкладки)
+       *[many] { $winTitle } (и { $tabCount } других вкладок)
+    }
