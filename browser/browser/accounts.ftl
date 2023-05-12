@@ -28,6 +28,8 @@ account-send-to-all-devices-titlecase = Пошаљи на све уређаје
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Нема повезаних уређаја
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Повежи други уређај…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -42,6 +44,11 @@ account-send-tab-to-device-verify = Потврдите ваш налог…
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
