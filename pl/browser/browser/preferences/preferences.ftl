@@ -688,6 +688,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Zabierz swoją sieć ze sobą
 sync-signedout-description2 = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
 sync-signedout-account-signin3 =
@@ -704,6 +708,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Firefox na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> i <a data-l10n-name="ios-link">iOS</a> <img data-l10n-name="ios-icon"/> daje możliwość synchronizacji z urządzeniami przenośnymi.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Zmień zdjęcie profilowe
@@ -821,6 +828,16 @@ sync-device-name-save =
     .label = Zachowaj
     .accesskey = Z
 sync-connect-another-device = Połącz inne urządzenie
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Wysłano wiadomość weryfikacyjną
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Wysłano odnośnik weryfikacyjny na adres { $email }.
+sync-verification-not-sent-title = Błąd wysyłania wiadomości weryfikacyjnej
+sync-verification-not-sent-body = Nie udało się wysłać wiadomości z odnośnikiem weryfikacyjnym, proszę spróbować później.
 
 ## Privacy Section
 
