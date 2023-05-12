@@ -653,6 +653,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Вземете Мрежата със себе си
 sync-signedout-description2 = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 sync-signedout-account-signin3 =
@@ -669,6 +673,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Изтеглете Firefox за <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>, за да синхронизирате с мобилното си устройство.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Промяна снимката на профила
@@ -784,6 +791,16 @@ sync-device-name-save =
     .label = Запазване
     .accesskey = З
 sync-connect-another-device = Добавяне на устройство
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Изпратено потвърждение
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Препратка за потвърждение е изпратена до { $email }.
+sync-verification-not-sent-title = Грешка при изпращане на съобщението за потвърждаване
+sync-verification-not-sent-body = Потвърждаващото съобщение не е изпратено, моля опитайте по-късно.
 
 ## Privacy Section
 
@@ -1144,6 +1161,9 @@ httpsonly-header = Режим „само HTTPS“
 httpsonly-learn-more = Научете повече
 httpsonly-radio-enabled =
     .label = Включване на режим „само HTTPS“ за всички прозорци
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
