@@ -36,9 +36,31 @@ account-verify = Stadfest { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Fane motteken
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Fane frå { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } fane har kome frå { $deviceName }
+       *[other] { $tabCount } faner har kome frå { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } fane har kome frå dei tilkopla einingane dine.
+       *[other] { $tabCount } faner har kome frå dei tilkopla einingane dine.
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } fane har kome
+       *[other] { $tabCount } faner har kome
+    }
