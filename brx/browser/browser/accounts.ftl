@@ -6,6 +6,7 @@
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-reconnect = फिन फोनांजाब { $email }
 account-verify = { $email } फोरमान खालाम
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
