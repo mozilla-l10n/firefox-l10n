@@ -16,14 +16,23 @@ account-verify = Natsij { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Ga'ni' riña darān aga'a
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Nitaj a'ngo aga'a hua conektado
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Gini'in' daj ga'ni' pestaña...
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Ganachun' 'ngà a'ngo aga'a...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Hua nï' nu natsij ma kuendâ na
+account-send-tab-to-device-verify = Natsîj si kuedât...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -32,15 +41,22 @@ account-verify = Natsij { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Nahuin ra'à ma pestaña
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Danj { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Nahuin ra'à ma nej pestaña
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
