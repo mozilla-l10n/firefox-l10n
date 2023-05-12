@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Pidä oma selain aina mukanasi
 sync-signedout-description2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Lataa Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Androidille</a> tai <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS:lle</a> ja synkronoi tietosi kannettavalle laitteellesi.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Vaihda kuva
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Tallenna
     .accesskey = T
 sync-connect-another-device = Yhdistä toinen laite
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Vahvistus lähetetty
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Vahvistuslinkki on lähetetty osoitteeseen { $email }.
+sync-verification-not-sent-title = Vahvistuksen lähetys epäonnistui
+sync-verification-not-sent-body = Vahvistussähköpostin lähetys ei onnistu tällä hetkellä. Yritä uudestaan myöhemmin.
 
 ## Privacy Section
 
