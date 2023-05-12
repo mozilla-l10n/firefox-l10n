@@ -73,6 +73,17 @@ restart-later = أعِد التشغيل لاحقًا
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -140,6 +151,10 @@ browser-containers-settings =
     .label = الإعدادات…
     .accesskey = د
 containers-disable-alert-title = أأغلق كل الألسنة الحاوية؟
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] إذا عطلت الألسنة الحاوية الآن فسيغلق لسان حاو. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
@@ -156,6 +171,9 @@ containers-disable-alert-ok-button =
         [many] أغلق { $tabCount } لسانًا حاويًا
        *[other] أغلق { $tabCount } لسان حاو
     }
+
+##
+
 containers-disable-alert-cancel-button = أبقها مفعلّة
 containers-remove-alert-title = أتريد إزالة هذه الحاوية؟
 # Variables:
@@ -473,6 +491,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = ينصح به { $provider }
 home-prefs-recommended-by-description-new = محتوى مميّز جمعه لك { $provider }، وهو جزء من عائلة { -brand-product-name }
@@ -586,6 +608,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = خُذ الوِب معك
 sync-signedout-description2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
 sync-signedout-account-signin3 =
@@ -603,6 +629,9 @@ sync-mobile-promo = نزّل Firefox لنظامي <img data-l10n-name="android-i
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = غيّر صورة الحساب
 sync-sign-out =
@@ -610,8 +639,15 @@ sync-sign-out =
     .accesskey = خ
 sync-manage-account = أدِر الحساب
     .accesskey = س
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ليس مؤكّدًا.
 sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $email }
+
+##
+
 sync-resend-verification =
     .label = أعِد إرسال التأكيد
     .accesskey = س
@@ -710,6 +746,16 @@ sync-device-name-save =
     .label = احفظ
     .accesskey = ح
 sync-connect-another-device = صِلْ جهازا آخر
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = أُرسل رابط التأكّد
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = أُرسل رابط تأكيد إلى { $email }.
+sync-verification-not-sent-title = تعذّر إرسال رسالة التأكيد
+sync-verification-not-sent-body = يتعذّر إرسال بريد التأكيد حاليًا، رجاء إعادة المحاولة لاحقًا.
 
 ## Privacy Section
 
@@ -860,6 +906,9 @@ sitedata-cookies-exceptions =
     .label = أدِر الاستثناءات…
     .accesskey = ت
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = شريط العناوين
@@ -923,6 +972,9 @@ content-blocking-all-windows-tracking-content = المحتوى الذي يتعق
 content-blocking-all-third-party-cookies = كل الكعكات من الأطراف الثالثة
 content-blocking-cryptominers = المُعدّنات المعمّاة
 content-blocking-fingerprinters = مسجّلات البصمات
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-etp-standard-tcp-rollout-learn-more = اطّلع على المزيد
 content-blocking-warning-title = انتبه!
 content-blocking-and-isolating-etp-warning-description-2 = قد يتسبّب هذا الإعداد بألّا تعرض بعض المواقع أي محتوى أو ألا تعمل كما ينبغي. إن رأيت الموقع معطوبًا، فيمكنك تعطيل الحماية من التعقّب لهذا الموقع لتحميل محتواه.
@@ -1071,6 +1123,9 @@ httpsonly-radio-enabled-pbm =
     .label = فعّل وضع HTTPS فقط في النوافذ الخاصة فقط
 httpsonly-radio-disabled =
     .label = لا تفعّل وضع HTTPS فقط
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
