@@ -105,6 +105,7 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; ກວດພົບໄພຂົ່ມຂູ່ດ້ານຄວາມປອດໄພທີ່ອາດເກີດຂຶ້ນ ແລະ ບໍ່ໄດ້ສືບຕໍ່ໄປຫາ <span class='hostname'/>. ຖ້າທ່ານໄປຢ້ຽມຢາມເວັບໄຊທ໌ນີ້, ຜູ້ໂຈມຕີສາມາດພະຍາຍາມລັກຂໍ້ມູນເຊັ່ນ: ລະຫັດຜ່ານ, ອີເມວ, ຫຼື ລາຍລະອຽດບັດເຄຣດິດຂອງທ່ານ.">
 <!ENTITY certerror.sts.introPara "&brandShortName; ກວດພົບໄພຂົ່ມຂູ່ດ້ານຄວາມປອດໄພທີ່ອາດຈະເກີດຂຶ້ນ ແລະ ບໍ່ໄດ້ສືບຕໍ່ໄປຫາ <span class='hostname'/> ເພາະວ່າເວັບໄຊທ໌ນີ້ຕ້ອງການການເຊື່ອມຕໍ່ທີ່ປອດໄພ.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; ກວດພົບບັນຫາ ແລະບໍ່ໄດ້ສືບຕໍ່ໄປຫາ <span class='hostname'/>. ເວັບ​ໄຊ​ທ໌​ຖືກ​ຕັ້ງ​ຄ່າ​ຜິດ​ຫຼື​ໂມງ​ຄອມ​ພິວ​ເຕີ​ຂອງ​ທ່ານ​ຖືກ​ຕັ້ງ​ເປັນ​ເວ​ລາ​ທີ່​ຜິດ​ພາດ.">
