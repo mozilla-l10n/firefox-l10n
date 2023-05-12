@@ -22,6 +22,8 @@ account-send-to-all-devices-titlecase = Op all Apparat senden
 account-send-tab-to-device-singledevice-status = Keng Apparater verbonnen
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Méi iwwer d'Senden vun Tabs gewuer ginn...
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = En aneren Apparat verbannen…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
