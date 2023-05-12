@@ -73,6 +73,17 @@ restart-later = Reinicia més tard
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -140,6 +151,10 @@ browser-containers-settings =
     .label = Paràmetres…
     .accesskey = t
 containers-disable-alert-title = Voleu tancar totes les pestanyes de contenidor?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Si desactiveu les pestanyes de contenidor ara, es tancarà { $tabCount } pestanya de contenidor. Segur que voleu desactivar les pestanyes de contenidor?
@@ -150,6 +165,9 @@ containers-disable-alert-ok-button =
         [one] Tanca { $tabCount } pestanya de contenidor
        *[other] Tanca { $tabCount } pestanyes de contenidor
     }
+
+##
+
 containers-disable-alert-cancel-button = Mantén activades
 containers-remove-alert-title = Voleu eliminar este contenidor?
 # Variables:
@@ -464,6 +482,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
@@ -573,6 +595,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = El vostre web a tot arreu
 sync-signedout-description2 = Sincronitzeu les vostres adreces d'interés, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
 sync-signedout-account-signin3 =
@@ -590,6 +616,9 @@ sync-mobile-promo = Baixeu el Firefox per a l'<img data-l10n-name="android-icon"
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Canvia la imatge de perfil
 sync-sign-out =
@@ -597,8 +626,15 @@ sync-sign-out =
     .accesskey = T
 sync-manage-account = Gestiona el compte
     .accesskey = a
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+
+##
+
 sync-resend-verification =
     .label = Torna a enviar la verificació
     .accesskey = v
@@ -697,6 +733,16 @@ sync-device-name-save =
     .label = Guarda
     .accesskey = D
 sync-connect-another-device = Connecta un altre dispositiu
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = S'ha enviat la verificació
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = S'ha enviat un enllaç de verificació a { $email }.
+sync-verification-not-sent-title = No s'ha pogut enviar la verificació
+sync-verification-not-sent-body = Ara mateix no es pot enviar un correu de verificació, torneu-ho a provar més tard.
 
 ## Privacy Section
 
@@ -845,6 +891,9 @@ sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra d'adreces
@@ -914,6 +963,9 @@ content-blocking-fingerprinters = Generadors d'empremtes digitals
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Sigueu dels primers de provar les funcions de privadesa més potents que existeixen
     .accesskey = S
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on vos trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre,
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
@@ -1072,6 +1124,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activa el mode només HTTPS únicament en les finestres privades
 httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
