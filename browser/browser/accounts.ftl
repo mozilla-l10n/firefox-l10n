@@ -42,8 +42,15 @@ account-send-tab-to-device-verify = Vahvista tili…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Tämä tietokone on nyt yhdistetty laitteeseen { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Tämä tietokone on nyt yhdistetty uuteen laitteeseen.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Olet kirjautunut sisään
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Tämä tietokone on kytketty irti tilistä.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
