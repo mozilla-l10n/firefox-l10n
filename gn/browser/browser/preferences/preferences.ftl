@@ -833,6 +833,7 @@ sync-verification-sent-title = Jehechajey ñemondo
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Joajuha jehechajey rehegua oñemondo { $email }-pe.
 sync-verification-not-sent-title = Ndaikatúi oñemondo jehechajey
+sync-verification-not-sent-body = Ndaikatúi roguerahauka ñanduti veve jehechajeyrã ko’ag̃a, ikatu eha’ã ag̃ave.
 
 ## Privacy Section
 
