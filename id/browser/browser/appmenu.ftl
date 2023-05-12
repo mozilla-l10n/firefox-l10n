@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Prasetel yang direkomendasikan untuk sebagian besar debugging aplikasi web, dengan overhead yang rendah.
 profiler-popup-presets-web-developer-label =
     .label = Pengembang Web
@@ -204,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Tab yang Baru Saja Ditutup
 appmenu-recently-closed-windows =
     .label = Jendela yang Baru Saja Ditutup
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Riwayat pencarian
 
 ## Help panel
 
@@ -223,6 +231,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Bagikan ide dan umpan balik…
     .accesskey = B
+appmenu-help-switch-device =
+    .label = Beralih ke perangkat baru
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

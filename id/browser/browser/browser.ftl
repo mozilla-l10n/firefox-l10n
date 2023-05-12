@@ -144,6 +144,8 @@ urlbar-tip-icon-description =
     .alt = Kiat:
 urlbar-result-menu-button =
     .title = Buka menu
+urlbar-result-menu-button-feedback = Umpan Balik
+    .title = Buka menu
 urlbar-result-menu-learn-more =
     .label = Pelajari lebih lanjut
     .accesskey = P
@@ -667,6 +669,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Buka Gambar dalam Gambar ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Tutup Gambar dalam Gambar ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -813,6 +819,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Surelkan Tautan
     .tooltiptext = Surelkan tautan laman ini
+toolbar-button-logins =
+    .label = Sandi
+    .tooltiptext = Lihat dan kelola sandi tersimpan Anda
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
