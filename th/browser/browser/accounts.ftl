@@ -64,3 +64,9 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ได้รับแท็บ
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device = มี { $tabCount } แท็บเข้ามาจาก { $deviceName }
+account-multiple-tabs-arriving-from-multiple-devices = มี { $tabCount } แท็บเข้ามาจากอุปกรณ์ที่เชื่อมต่อของคุณ
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device = มี { $tabCount } แท็บเข้ามา
