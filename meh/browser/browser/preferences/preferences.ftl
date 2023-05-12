@@ -59,6 +59,17 @@ restart-later = Nakajie'e inka ichi
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Nánuku resultados
@@ -88,10 +99,17 @@ browser-containers-settings =
     .label = Ke´i...
     .accesskey = i
 containers-disable-alert-title = ¿Nakasɨ kuaíyo contenedor pestañas?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-ok-button =
     { $tabCount ->
        *[other] Nakasɨ { $tabCount } pestaña contenedora
     }
+
+##
+
 containers-remove-alert-title = ¿Xina marcador?
 containers-remove-ok-button = Xina a ta´a ini noo´o ya´a
 containers-remove-cancel-button = Nxina a ta´a ini noo´o ya´a
@@ -367,6 +385,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = A kachi { $provider }
 
@@ -462,6 +484,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Kua´an Web ji noo´o
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -475,6 +501,9 @@ sync-mobile-promo = Xinuun Firefox <img data-l10n-name="android-icon"/><a data-l
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Sama tutu natava perfil
 sync-sign-out =
@@ -482,8 +511,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Administrar cuenta
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Kuni kune'ya de ya'a kuvi... { $email } noo'o
 sync-signedin-login-failure = Kuamani ini noo´o je kajie´e sesión tuku { $email }
+
+##
+
 sync-resend-verification =
     .label = Chu'un íchi verificación íchika
     .accesskey = d
@@ -573,6 +609,16 @@ sync-device-name-save =
     .label = Chuva´a
     .accesskey = v
 sync-connect-another-device = Chu´un inka ka̱a̱
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Nchu'un ichí verificación
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Iin enlace verificación nchu'un ichí { $email }.
+sync-verification-not-sent-title = Ntu nkuvi chu'un ichí verificación
+sync-verification-not-sent-body = Ntañu'u ntu kuvi chu'un ichí iin correo verificación, sa'ama inka ichí tuku.
 
 ## Privacy Section
 
@@ -709,6 +755,9 @@ sitedata-cookies-exceptions =
     .label = Tetiñu da excepciones...
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra da nuu
@@ -760,6 +809,9 @@ content-blocking-unvisited-cookies = Cookies nuu web ntu nne'ya
 content-blocking-all-third-party-cookies = Kuaiyo Cookies da inka
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Huellas dactilares
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = ¡Atención!
 content-blocking-warning-learn-how = Kutu´va naja
 content-blocking-reload-description = Nejika nakajie´e tuku da pestañas saa kino da nsama.
@@ -873,6 +925,9 @@ httpsonly-radio-enabled-pbm =
     .label = Tee HTTPS nu ntaka da ventanas yu'u
 httpsonly-radio-disabled =
     .label = Nte kutuvi HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
