@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Taktu vefinn með þér
 sync-signedout-description2 = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingar á milli allra tækjanna þinna.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Sæktu Firefox fyrir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eða <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> til að samstilla með farsímanum.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Breyta notandamynd
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Vista
     .accesskey = V
 sync-connect-another-device = Tengja annað tæki
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Staðfesting send
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Staðfestingartengill var sendur á { $email }.
+sync-verification-not-sent-title = Gat ekki send staðfestingu
+sync-verification-not-sent-body = Því miður getum við ekki sent staðfestingarpóst í augnablikinu, reyndu aftur seinna.
 
 ## Privacy Section
 
