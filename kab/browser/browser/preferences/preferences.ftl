@@ -678,6 +678,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Awi web-inek yid-k
 sync-signedout-description2 = Semtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d yiɣewwaren akked ibenkan-inek akk.
 sync-signedout-account-signin3 =
@@ -694,6 +698,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Sader Firefox i <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> neɣ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOs</a> akken ad temtawiḍ d yibenkan-ik aziraz.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Beddel tugna n umaɣnu
@@ -809,6 +816,14 @@ sync-device-name-save =
     .label = Sekles
     .accesskey = l
 sync-connect-another-device = Qqen ibenk-nniḍen
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Asenqed yettwazen
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Aseɣwen n usenqed ittwazen i { $email }.
 
 ## Privacy Section
 
