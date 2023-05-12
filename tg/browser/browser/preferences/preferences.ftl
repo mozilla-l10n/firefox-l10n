@@ -683,6 +683,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Сомонаҳои худро бо худ гиред
 sync-signedout-description2 = Хатбаракҳо, таърих, варақаҳо, ниҳонвожаҳо, ҷузъҳои иловагӣ ва танзимоти худро дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
 sync-signedout-account-signin3 =
@@ -699,6 +703,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = «Firefox»-ро барои <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ё <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> боргирӣ кунед ва бо дастгоҳи мобилии худ ҳамоҳанг созед.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Иваз кардани расми профил
@@ -815,6 +822,16 @@ sync-device-name-save =
     .label = Нигоҳ доштан
     .accesskey = Н
 sync-connect-another-device = Пайваст кардани дастгоҳи дигар
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Паёми тасдиқӣ фиристода шуд
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Пайванди тасдиқӣ ба { $email } фиристода шуд.
+sync-verification-not-sent-title = Паёми тасдиқӣ фиристода намешавад
+sync-verification-not-sent-body = Дар айни ҳол, мо паёми тасдиқиро фиристода наметавонем, лутфан, дертар аз нав кӯшиш кунед.
 
 ## Privacy Section
 
