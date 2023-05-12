@@ -35,9 +35,31 @@ account-verify = Verifica { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Feuggio reçevuo
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Feuggio da { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } feuggio arivou da { $deviceName }
+       *[other] { $tabCount } feuggi arivæ da { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } feuggio arivou da-i teu dispoxitivi conessi
+       *[other] { $tabCount } feuggi arivæ da-i teu dispoxitivi conessi
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } fuggio arivou
+       *[other] { $tabCount } feuggi arivæ
+    }
