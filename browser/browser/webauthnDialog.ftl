@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] Yanlış PIN! Lütfen cihazınız için doğru PIN’i girin. { $retriesLeft } deneme hakkınız kaldı.
        *[other] Yanlış PIN! Lütfen cihazınız için doğru PIN’i girin. { $retriesLeft } deneme hakkınız kaldı.
     }
+webauthn-pin-invalid-short-prompt = Yanlış PIN. Yeniden deneyin.
 webauthn-pin-required-prompt = Lütfen cihazınızın PIN’ini yazın.
