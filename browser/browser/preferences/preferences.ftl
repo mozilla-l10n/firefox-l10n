@@ -748,6 +748,7 @@ sync-verification-sent-title = تایید ارسال
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = یک لینک تایید برای { $email } ارسال شد.
 sync-verification-not-sent-title = قادر به ارسال ایمیل تاییدیه نیست
+sync-verification-not-sent-body = در حال حاضر امکان ارسال پشت‌الکترونیکی تایید را نداریم، لطفا بعدا دوباره تلاش کنید.
 
 ## Privacy Section
 

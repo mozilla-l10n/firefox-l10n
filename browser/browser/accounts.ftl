@@ -22,6 +22,7 @@ account-verify = تایید { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = ارسال به همه دستگاه‌ها
+account-manage-devices-titlecase = مدیریت دستگاه‌ها…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -44,9 +45,15 @@ account-send-tab-to-device-verify = حساب خود را تایید کنید
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = زبانه‌های دریافت شده
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = زبانه از { $deviceName }
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
@@ -54,8 +61,21 @@ account-single-tab-arriving-from-device-title = زبانه از { $deviceName }
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = زبانه‌ها دریافت شد
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } زبانه از { $deviceName } دریافت شد
+       *[other] { $tabCount } زبانه از { $deviceName } دریافت شدند
+    }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
         [one] { $tabCount } زبانه از دستگاه‌های متصل شده شما دریافت شد.
        *[other] { $tabCount } زبانه از دستگاه‌های متصل شده شما دریافت شد.
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } زبانه دریافت شد
+       *[other] { $tabCount } زبانه دریافت شدند
     }
