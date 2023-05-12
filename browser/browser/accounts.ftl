@@ -54,6 +54,7 @@ account-connection-disconnected = This computer has been disconnected.
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Tab Received
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab from { $deviceName }
