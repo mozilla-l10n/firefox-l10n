@@ -22,6 +22,7 @@ account-verify = أكّد { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = أرسله إلى كل الأجهزة
+account-manage-devices-titlecase = أدِر الأجهزة…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -30,6 +31,8 @@ account-send-to-all-devices-titlecase = أرسله إلى كل الأجهزة
 account-send-tab-to-device-singledevice-status = لا أجهزة متصلة
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = اطلع على المزيد عن إرسال الألسنة…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = صِلْ جهازا آخر…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -39,6 +42,15 @@ account-send-tab-to-device-verify = أكّد حسابك…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = أصبح هذا الحاسوب الآن متصلًا مع { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = صار هذا الحاسوب متصلًا الآن مع جهاز جديد.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = نجح الولوج إلى حسابك
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = قُطع اتصال هذا الحاسوب.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
