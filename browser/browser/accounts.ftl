@@ -34,9 +34,16 @@ account-send-tab-to-device-connectdevice = Conetti 'n atro dispoxitivo…
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = Conto no verificou
+account-send-tab-to-device-verify = Verifico o teu conto…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Sto computer oua o l’é connesso con { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Sto computer oua o l’é stæto connesso con un neuvo dispoxitivo.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
