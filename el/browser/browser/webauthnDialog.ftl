@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] Εσφαλμένο PIN! Παρακαλώ εισαγάγετε το σωστό PIN για τη συσκευή σας. Σας απομένει { $retriesLeft } προσπάθεια.
        *[other] Εσφαλμένο PIN! Παρακαλώ εισαγάγετε το σωστό PIN για τη συσκευή σας. Σας απομένουν { $retriesLeft } προσπάθειες.
     }
+webauthn-pin-invalid-short-prompt = Εσφαλμένο PIN. Δοκιμάστε ξανά.
 webauthn-pin-required-prompt = Παρακαλώ εισαγάγετε το PIN της συσκευής σας.

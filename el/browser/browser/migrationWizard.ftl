@@ -130,6 +130,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Ολοκληρώθηκε
 migration-safari-password-import-header = Εισαγωγή κωδικών πρόσβασης από το Safari
+migration-safari-password-import-step1 = Στο Safari, ανοίξτε το μενού «Safari» και μεταβείτε στις Προτιμήσεις > Συνθηματικά
 migration-safari-password-import-step2 = Κάντε κλικ στο κουμπί <img data-l10n-name="safari-icon-3dots"/> και επιλέξτε «Εξαγωγή όλων των συνθηματικών»
 migration-safari-password-import-skip-button = Παράλειψη
 migration-safari-password-import-select-button = Επιλογή αρχείου
