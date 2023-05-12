@@ -63,6 +63,7 @@ third-party-button-expand =
 third-party-button-collapse =
     .title = Σύμπτυξη λεπτομερών πληροφοριών
 third-party-requires-restart = Το { -brand-short-name } πρέπει να επανεκκινηθεί για να αλλάξει τις μονάδες τρίτων που αποκλείονται.
+third-party-blocking-requires-restart = Για να αποκλείσετε μια τρίτη μονάδα, πρέπει να επανεκκινήσετε το { -brand-short-name }.
 third-party-should-restart-title = Επανεκκίνηση του { -brand-short-name }
 third-party-should-restart-ok = Επανεκκίνηση του { -brand-short-name } τώρα
 third-party-restart-now = Επανεκκίνηση τώρα
