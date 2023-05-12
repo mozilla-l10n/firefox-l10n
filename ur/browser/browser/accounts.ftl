@@ -26,10 +26,16 @@ account-send-to-all-devices-titlecase = ‏تمام آلات پر ارسال ک�
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = کوئی آلات جڈے ہوئے نہیں ہیں
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = ٹیب بھیجنے کے بارے میں جانیں…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = اکاؤنٹ تصدیق شدہ نہیں ہے
+account-send-tab-to-device-verify = اپنے اکاؤنٹ کی توثیق کریں…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -38,6 +44,7 @@ account-send-to-all-devices-titlecase = ‏تمام آلات پر ارسال ک�
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = ٹیب حاصل ہوا
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } سے ٹیب
@@ -47,3 +54,22 @@ account-single-tab-arriving-from-device-title = { $deviceName } سے ٹیب
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = ٹیب حاصل ہوا
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $deviceName } سے { $tabCount } ٹیب آ چکے ہے
+       *[other] { $deviceName } سے { $tabCount } ٹیب آ چکے ہے
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } ٹیب آپکے منسلک آلات سے آ چکا ہے
+       *[other] { $tabCount } ٹیب آپکے منسلک آلات سے آ چکا ہے
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } ٹیب پہنچ چکے ہے
+       *[other] { $tabCount } ٹیب پہنچ چکے ہے
+    }
