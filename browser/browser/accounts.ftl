@@ -8,6 +8,7 @@ account-send-to-all-devices = ಎಲ್ಲಾ ಸಾಧನಗಳಿಗೆ ಕಳ
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-reconnect = { $email } ಅನ್ನು ಮರುಸಂಪರ್ಕಗೊಳಿಸು
 account-verify = { $email } ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಿ
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
