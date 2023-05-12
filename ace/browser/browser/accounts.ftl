@@ -9,6 +9,7 @@ account-send-to-all-devices = Kirém keu mandum peukakah
 ##   $email (String): = Email address of user's Firefox Account.
 
 account-reconnect = Sambông ulang { $email }
+account-verify = Verifikasi { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
@@ -28,6 +29,10 @@ account-reconnect = Sambông ulang { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Tab Teurimong
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Tab dari { $deviceName }
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -39,3 +44,4 @@ account-single-tab-arriving-truncated-url = { $url }…
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Tabs Teurimong
