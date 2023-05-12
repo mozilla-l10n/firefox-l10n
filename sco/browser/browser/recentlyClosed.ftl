@@ -19,3 +19,12 @@ recently-closed-panel-reopen-all-windows = Reopen Aw Windaes
 
 ##
 
+# Variables:
+#   $tabCount (Number): Number of other tabs
+#   $winTitle (String): Window title
+recently-closed-undo-close-window-label =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } (and { $tabCount } ither tab)
+       *[other] { $winTitle } (and { $tabCount } ither tabs)
+    }
