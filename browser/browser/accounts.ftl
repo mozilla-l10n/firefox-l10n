@@ -37,6 +37,8 @@ account-send-tab-to-device-verify = 验证您的账号…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = 您已成功登录
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
