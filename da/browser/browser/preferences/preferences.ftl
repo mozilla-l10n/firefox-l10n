@@ -828,9 +828,11 @@ sync-connect-another-device = Opret forbindelse til en ny enhed
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+sync-verification-sent-title = Bekræftelse er sendt
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Et bekræftelseslink er blevet sendt til { $email }.
+sync-verification-not-sent-title = Kunne ikke sende bekræftelse
 sync-verification-not-sent-body = Det er i øjeblikket ikke muligt for os at sende en bekræftelsesmail. Prøv igen senere.
 
 ## Privacy Section
