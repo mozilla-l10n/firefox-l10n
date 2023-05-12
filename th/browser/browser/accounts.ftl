@@ -41,6 +41,13 @@ account-send-tab-to-device-verify = ยืนยันบัญชีของ�
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = คอมพิวเตอร์นี้เชื่อมต่อกับ { $deviceName } แล้ว
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = คอมพิวเตอร์นี้เชื่อมต่อกับอุปกรณ์ใหม่แล้ว
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = คุณได้ลงชื่อเข้าเรียบร้อยแล้ว
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = ตัดการเชื่อมต่อคอมพิวเตอร์นี้แล้ว
 
