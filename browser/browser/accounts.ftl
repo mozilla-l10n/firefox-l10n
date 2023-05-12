@@ -21,10 +21,16 @@ account-verify = { $email } నిర్థారించండి
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = పరికరాలన్నిటికీ పంపించు
+account-manage-devices-titlecase = పరికరాలను నిర్వహించండి…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = పరికరాలేమీ అనుసంధానం కాలేదు
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = మరొక పరికరాన్ని అనుసంధానించండి…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -32,14 +38,24 @@ account-verify = { $email } నిర్థారించండి
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = ఈ కంప్యూటరు ఇప్పుడు ఒక కొత్త పరికరంతో అనుసంధానమయ్యింది.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = మీరు విజయవంతంగా ప్రవేశించారు
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = ట్యాబు వచ్చింది
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } నుంచి ట్యాబు
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
