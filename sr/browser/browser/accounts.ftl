@@ -39,6 +39,10 @@ account-send-tab-to-device-verify = Потврдите ваш налог…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Успешно сте се пријавили
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Овај рачунар је отпојен.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
