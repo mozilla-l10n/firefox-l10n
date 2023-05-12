@@ -12,10 +12,13 @@ account-verify = Puorbaudeit { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = Syuteit iz vysom īreičom
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Uzzinit vairuok par ciļņu syuteišonu…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -28,9 +31,13 @@ account-verify = Puorbaudeit { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Cilne nu { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Cilnes sajimtys
