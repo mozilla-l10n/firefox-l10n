@@ -5,13 +5,42 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = 完成帳號設定
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = 帳號已取消連結
-
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = 傳送到所有裝置
-
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = 管理裝置…
+
+## Variables:
+##   $email (String): = Email address of user's Firefox Account.
+
+account-reconnect = 重新連線至 { $email }
+account-verify = 確認 { $email }
+
+## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
+
+
+## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
+## and the account has only 1 device connected.
+
+
+## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
+## and the Sync account is unverified. Redirects to the Sync preferences page.
+
+
+## These strings are used in a notification shown when a new device joins the Firefox account.
+
+
+## These strings are used in a notification shown when we're opening
+## a single tab another device sent us to display.
+## The body for this notification is the URL of the received tab.
+
+account-single-tab-arriving-title = 收到分頁
+
+## These strings are used in a notification shown when we're opening
+## multiple tabs another device or devices sent us to display.
+## Variables:
+##   $tabCount (Number): the number of tabs received
+
