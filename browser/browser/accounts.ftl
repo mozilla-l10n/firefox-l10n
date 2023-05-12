@@ -37,9 +37,31 @@ account-verify = Verifiser { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Fane mottatt
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Fane fra { $deviceName }
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } fane har kommet fra { $deviceName }
+       *[other] { $tabCount } faner har kommet fra { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } fane har kommet fra de tilkoblede enhetene dine
+       *[other] { $tabCount } faner har kommet fra de tilkoblede enhetene dine
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } fane har ankommet
+       *[other] { $tabCount } faner har ankommet
+    }
