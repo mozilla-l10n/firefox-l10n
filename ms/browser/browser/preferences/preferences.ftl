@@ -533,6 +533,8 @@ sync-verification-sent-title = Pengesahan Telah Dihantar
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Pautan pengesahan telah dihantar kepada { $email }.
+sync-verification-not-sent-title = Gagal Menghantar Pengesahan
+sync-verification-not-sent-body = Kami tidak dapat menghantar e-mel pengesahan pada masa ini, sila cuba lagi selepas ini.
 
 ## Privacy Section
 
