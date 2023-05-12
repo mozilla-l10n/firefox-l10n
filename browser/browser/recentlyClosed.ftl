@@ -19,3 +19,12 @@ recently-closed-panel-reopen-all-windows = Rihapi Krejt Dritaret
 
 ##
 
+# Variables:
+#   $tabCount (Number): Number of other tabs
+#   $winTitle (String): Window title
+recently-closed-undo-close-window-label =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } (dhe { $tabCount } skedë tjetër)
+       *[other] { $winTitle } (dhe { $tabCount } skeda të tjera)
+    }
