@@ -26,6 +26,10 @@ account-send-to-all-devices-titlecase = Pošalji svim uređajima
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Nema povezanih uređaja
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Naučite više o slanju tabova…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = Poveži dodatni uređaj…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
