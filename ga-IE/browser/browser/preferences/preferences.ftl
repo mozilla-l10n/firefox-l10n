@@ -58,6 +58,17 @@ restart-later = Atosaigh Ar Ball
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Torthaí an Chuardaigh
@@ -91,6 +102,10 @@ browser-containers-settings =
     .label = Socruithe…
     .accesskey = i
 containers-disable-alert-title = An bhfuil fonn ort gach Cluaisín Coimeádáin a dhúnadh?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Má dhíchumasaíonn tú Cluaisíní Coimeádáin anois, dúnfar { $tabCount } chluaisín coimeádáin. An bhfuil tú cinnte gur mhaith leat Cluaisíní Coimeádáin a dhíchumasú?
@@ -107,6 +122,9 @@ containers-disable-alert-ok-button =
         [many] Dún { $tabCount } gCluaisín Coimeádáin
        *[other] Dún { $tabCount } Cluaisín Coimeádáin
     }
+
+##
+
 containers-disable-alert-cancel-button = Ná díchumasaigh
 containers-remove-alert-title = Bain an Coimeádán seo?
 # Variables:
@@ -333,6 +351,10 @@ choose-bookmark =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Molta ag { $provider }
 
@@ -397,6 +419,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Beir do Ghréasán féin leat
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -410,12 +436,22 @@ sync-mobile-promo = Íoslódáil Firefox ar <img data-l10n-name="android-icon"/>
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Athraigh an pictiúr próifíle
 sync-manage-account = Bainistigh mo chuntas
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Níl { $email } deimhnithe.
 sync-signedin-login-failure = Logáil isteach chun athcheangal { $email }
+
+##
+
 sync-sign-in =
     .label = Logáil isteach
     .accesskey = g
@@ -456,6 +492,16 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sábháil
     .accesskey = b
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Teachtaireacht Deimhnithe Seolta
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Seoladh nasc deimhnithe chuig { $email }.
+sync-verification-not-sent-title = Níorbh fhéidir deimhniúchán a sheoladh
+sync-verification-not-sent-body = Ní rabhthas ábalta an ríomhphost deimhnithe a sheoladh; bain triail eile as ar ball.
 
 ## Privacy Section
 
@@ -519,6 +565,9 @@ history-clear-on-close-settings =
 sitedata-header = Fianáin agus Sonraí Suímh
 sitedata-learn-more = Tuilleadh eolais
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra Suímh
@@ -550,6 +599,9 @@ enhanced-tracking-protection-setting-standard =
     .accesskey = d
 
 ##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-cookies-label =
     .label = Fianáin
@@ -647,6 +699,9 @@ certs-devices =
     .accesskey = d
 
 ## Privacy Section - HTTPS-Only
+
+
+## DoH Section
 
 
 ## The following strings are used in the Download section of settings
