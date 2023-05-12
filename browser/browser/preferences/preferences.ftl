@@ -684,6 +684,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Vigye magával a webet
 sync-signedout-description2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 sync-signedout-account-signin3 =
@@ -700,6 +704,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Töltse le a Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> vagy <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> appot a mobileszközével való szinkronizáláshoz.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profilkép módosítása
@@ -817,6 +824,16 @@ sync-device-name-save =
     .label = Mentés
     .accesskey = M
 sync-connect-another-device = Másik eszköz csatlakoztatása
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Ellenőrzés elküldve
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Az ellenőrzési hivatkozás elküldve ide: { $email }
+sync-verification-not-sent-title = Nem küldhető ellenőrzés
+sync-verification-not-sent-body = Nem sikerült elküldeni az ellenőrző levelet, próbálja újra később.
 
 ## Privacy Section
 
