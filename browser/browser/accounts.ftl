@@ -36,6 +36,7 @@ account-verify = დაადასტურეთ { $email }
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = ჩანართი მიღებულია
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
