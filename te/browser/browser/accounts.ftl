@@ -16,6 +16,7 @@ account-manage-devices = పరికరాలను నిర్వహించ
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-reconnect = { $email } ను మళ్ళీ అనుసంధానించు
 account-verify = { $email } నిర్థారించండి
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
@@ -36,9 +37,30 @@ account-verify = { $email } నిర్థారించండి
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = { $deviceName } నుంచి ట్యాబు
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $deviceName } నుండి { $tabCount } ట్యాబు వచ్చింది.
+       *[other] { $deviceName } నుండి { $tabCount } ట్యాబులు వచ్చాయి
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] మీ అనుసంధానిత పరికరాల నుండి { $tabCount } ట్యాబు వచ్చింది
+       *[other] మీ అనుసంధానిత పరికరాల నుండి { $tabCount } ట్యాబులు వచ్చాయి
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } ట్యాబు వచ్చింది
+       *[other] { $tabCount } ట్యాబులు వచ్చాయి
+    }
