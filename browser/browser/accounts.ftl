@@ -26,6 +26,10 @@ account-reconnect = { $email } 다시 연결
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = 연결된 기기 없음
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = 탭 보내기에 대해 알아보기…
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = 다른 기기 연결…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -33,6 +37,15 @@ account-send-tab-to-device-singledevice-status = 연결된 기기 없음
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = 이 컴퓨터는 이제 { $deviceName }와 연결되었습니다.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = 이 컴퓨터는 이제 새 기기와 연결되었습니다.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = 성공적으로 로그인했습니다
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = 이 컴퓨터는 연결이 끊어졌습니다.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
