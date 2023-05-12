@@ -22,10 +22,13 @@ account-verify = Xác minh { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Gửi tới tất cả các thiết bị
+account-manage-devices-titlecase = Quản lý thiết bị…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = Không có thiết bị nào được kết nối
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Tìm hiểu thêm về việc gửi các thẻ…
 # Redirects to an FxAccounts page that tells to you to connect another device.
@@ -39,6 +42,15 @@ account-send-tab-to-device-verify = Xác minh tài khoản của bạn…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Máy tính này hiện được kết nối với { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Máy tính này hiện được kết nối với một thiết bị mới.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Bạn đã đăng nhập thành công
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Máy tính này đã bị ngắt kết nối.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
