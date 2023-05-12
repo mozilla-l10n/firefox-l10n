@@ -22,6 +22,7 @@ account-verify = Επαλήθευση { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Αποστολή σε όλες τις συσκευές
+account-manage-devices-titlecase = Διαχείριση συσκευών…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -37,9 +38,19 @@ account-send-tab-to-device-connectdevice = Σύνδεση άλλης συσκε�
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Ο λογαριασμός δεν επαληθεύτηκε
+account-send-tab-to-device-verify = Επαλήθευση λογαριασμού…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Αυτός ο υπολογιστής είναι πλέον συνδεδεμένος με το { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Αυτός ο υπολογιστής είναι πλέον συνδεδεμένος με μια νέα συσκευή.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Έγινε επιτυχής σύνδεση
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Αυτός ο υπολογιστείς έχει αποσυνδεθεί.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
