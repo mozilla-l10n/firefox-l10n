@@ -22,6 +22,7 @@ account-verify = Confirmer { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Envoyer à tous les appareils
+account-manage-devices-titlecase = Gérer les appareils…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
