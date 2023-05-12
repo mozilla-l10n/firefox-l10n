@@ -43,3 +43,27 @@ account-verify = Potrdi { $email }
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } prejet zavihek iz naprave { $deviceName }
+        [two] { $tabCount } prejeta zavihka iz naprave { $deviceName }
+        [few] { $tabCount } prejeti zavihki iz naprave { $deviceName }
+       *[other] { $tabCount } prejetih zavihkov iz naprave { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } prejet zavihek iz vaših povezanih naprav
+        [two] { $tabCount } prejeta zavihka iz vaših povezanih naprav
+        [few] { $tabCount } prejeti zavihki iz vaših povezanih naprav
+       *[other] { $tabCount } prejetih zavihkov iz vaših povezanih naprav
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } prejet zavihek
+        [two] { $tabCount } prejeta zavihka
+        [few] { $tabCount } prejeti zavihki
+       *[other] { $tabCount } prejetih zavihkov
+    }

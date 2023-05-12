@@ -692,6 +692,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ponesite svoj splet s seboj
 sync-signedout-description2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh svojih naprav.
 sync-signedout-account-signin3 =
@@ -708,6 +712,9 @@ sync-signedout-account-signin3 =
 sync-mobile-promo = Prenesite Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ali <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> za sinhroniziranje z mobilno napravo.
 
 ## Firefox Account - Signed in
+
+
+## Firefox account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Spremeni sliko profila
@@ -825,6 +832,16 @@ sync-device-name-save =
     .label = Shrani
     .accesskey = S
 sync-connect-another-device = Poveži drugo napravo
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Potrditev poslana
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Potrditvena povezava je bila poslana na { $email }.
+sync-verification-not-sent-title = Potrditve ni mogoče poslati
+sync-verification-not-sent-body = Potrditvene e-pošte trenutno ne moremo poslati. Poskusite znova pozneje.
 
 ## Privacy Section
 
