@@ -73,6 +73,17 @@ restart-later = I-restart Mamaya
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -126,6 +137,10 @@ browser-containers-settings =
     .label = Mga setting…
     .accesskey = i
 containers-disable-alert-title = Isara Lahat ng Mga Container Tab?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Kapag dinisable mo ngayon ang Container Tabs, may { $tabCount } container tab na isasara. Sigurado ka bang gusto mo i-disable ang Container Tabs?
@@ -136,6 +151,9 @@ containers-disable-alert-ok-button =
         [one] Isara ang { $tabCount } Container Tab
        *[other] Isara ang { $tabCount } Container Tab
     }
+
+##
+
 containers-disable-alert-cancel-button = Patuloy na pinagana
 containers-remove-alert-title = Alisin ang Container na Ito?
 # Variables:
@@ -446,6 +464,10 @@ home-prefs-search-header =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Inirekomenda ni { $provider }
 
@@ -554,6 +576,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Dalhin Mo Ang Web Kahit Saan
 sync-signedout-description2 = I-synchronize ang iyong mga bookmark, kasaysayan, mga tab, password, add-on, at mga setting sa lahat ng iyong mga device.
 sync-signedout-account-signin3 =
@@ -571,6 +597,9 @@ sync-mobile-promo = Mag-download ng Firefox para sa <img data-l10n-name="android
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Baguhin ang larawan ng profile
 sync-sign-out =
@@ -578,8 +607,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Pamahalaan ang account
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Hindi pa verified ang { $email }.
 sync-signedin-login-failure = Mangyaring mag-sign in upang maikonekta uli ang { $email }
+
+##
+
 sync-resend-verification =
     .label = Ipadala muli ang Beripikasyon
     .accesskey = d
@@ -678,6 +714,15 @@ sync-device-name-save =
     .label = I-save
     .accesskey = v
 sync-connect-another-device = Magkonekta ng Isa Pang Device
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+sync-verification-sent-title = Napadala na ang beripikasyon
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Ang beripikasyon na link ay naipadala na sa { $email }.
+sync-verification-not-sent-title = Hindi maipadala ang beripikasyon
 
 ## Privacy Section
 
@@ -822,6 +867,9 @@ sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
@@ -886,6 +934,9 @@ content-blocking-all-windows-tracking-content = Tracking content sa lahat ng mga
 content-blocking-all-third-party-cookies = Lahat ng mga third-party na mga cookie
 content-blocking-cryptominers = Mga Cryptominer
 content-blocking-fingerprinters = Mga Fingerprinter
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = Mag-ingat!
 content-blocking-and-isolating-etp-warning-description-2 = Ang setting na ito ay maaaring maging sanhi ng ilang mga website na hindi ipakita ang nilalaman o gumana nang tama. Kung tila nasira ang isang site, baka gusto mong patayin ang tracking protection para sa site na iyon upang mai-load ang lahat ng nilalaman.
 content-blocking-warning-learn-how = Alamin kung paano
@@ -1028,6 +1079,9 @@ httpsonly-radio-enabled-pbm =
     .label = I-enable ang HTTPS-Only Mode sa mga private window lamang
 httpsonly-radio-disabled =
     .label = Huwag i-enable ang HTTPS-Only Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
