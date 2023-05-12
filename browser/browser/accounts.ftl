@@ -16,6 +16,7 @@ account-manage-devices = គ្រប់គ្រងឧបករណ៍…
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
+account-verify = ផ្ទៀងផ្ទាត់ { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 

@@ -524,6 +524,10 @@ sync-device-name-save =
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = បាន​ផ្ញើ​ការ​ផ្ទៀងផ្ទាត់
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = តំណ​ការ​ផ្ទៀងផ្ទាត់​ត្រូវបាន​ផ្ញើ​ទៅ { $email } ។
+sync-verification-not-sent-title = មិន​អាច​ផ្ញើ​ការ​ផ្ទៀងផ្ទាត់​បាន​ទេ
 sync-verification-not-sent-body = យើង​មិន​អាច​ផ្ញើ​អ៊ីមែល​​ផ្ទៀងផ្ទាត់​បាន​ទេ​នៅ​ពេល​នេះ សូម​​ព្យាយាម​ម្ដង​ទៀត​នៅ​ពេល​ក្រោយ។
 
 ## Privacy Section
