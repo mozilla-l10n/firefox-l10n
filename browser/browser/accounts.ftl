@@ -22,6 +22,7 @@ account-verify = Ellenőrizze ezt: { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Küldés minden eszközre
+account-manage-devices-titlecase = Eszközök kezelése…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
