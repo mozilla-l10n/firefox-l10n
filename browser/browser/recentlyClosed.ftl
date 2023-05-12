@@ -14,6 +14,8 @@ recently-closed-menu-reopen-all-windows = Reopen All Windows
 ## and should follow the same capitalization (sentence case for English).
 ## Check appmenu.ftl for reference.
 
+recently-closed-panel-reopen-all-tabs = Reopen all tabs
+recently-closed-panel-reopen-all-windows = Reopen all windows
 
 ##
 
