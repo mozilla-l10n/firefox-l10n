@@ -12,14 +12,21 @@ account-reconnect = { $email } पुनः जडान गर्नुहो�
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = सम्पूर्ण उपकरणहरुमा पठाउनुहोस्
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = कुनैपनि उपकरणहरु जडान गरिएको छैन
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = पठाउने ट्याबहरुबारे सिक्नुहोस्...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = खाता प्रमाणित छैन
+account-send-tab-to-device-verify = खाता प्रमाणित गर्नुहोस्...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -28,6 +35,7 @@ account-reconnect = { $email } पुनः जडान गर्नुहो�
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = ट्याब पाईयो
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } बाट ट्याब
@@ -37,6 +45,7 @@ account-single-tab-arriving-from-device-title = { $deviceName } बाट ट्
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = ट्याबहरु पाईयो
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
