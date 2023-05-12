@@ -949,7 +949,11 @@ sync-connect-another-device = Připojit další zařízení
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = Ověření odesláno
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = Odkaz pro ověření byl odeslán na { $email }.
 sync-verification-not-sent-title = Ověření nelze odeslat
+sync-verification-not-sent-body = V tuto chvíli nemůžeme ověřovací email odeslat, zkuste to prosím znovu později.
 
 ## Privacy Section
 
