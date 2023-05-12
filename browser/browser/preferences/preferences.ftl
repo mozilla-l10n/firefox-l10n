@@ -650,6 +650,9 @@ sync-connect-another-device = অন্য একটি ডিভাইস স�
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = ভেরিফিকেশন পাঠানো হয়েছে
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = যাচাইকরণ লিঙ্ক { $email } এ পাঠানো হয়েছে।
 sync-verification-not-sent-title = ভেরিফিকেশন পাঠানো সম্ভব হয়নি
 sync-verification-not-sent-body = আমরা এই সময়ে একটি যাচাইকরণ মেইল পাঠাতে অক্ষম, দয়া করে পরে আবার চেষ্টা করুন।
 
