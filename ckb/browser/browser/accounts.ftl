@@ -68,6 +68,13 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = بازدەرەکان گەیشتن
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } بازدەر گەیشت لە { $deviceName }ەوە
+       *[other] { $tabCount } گەیشت لە { $deviceName }ەوە
+    }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
