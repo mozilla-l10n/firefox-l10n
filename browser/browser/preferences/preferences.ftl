@@ -833,6 +833,7 @@ sync-verification-sent-title = Verificação enviada
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Um link de verificação foi enviado para { $email }.
 sync-verification-not-sent-title = Não foi possível enviar a verificação
+sync-verification-not-sent-body = Não foi possível enviar um email de confirmação neste momento, tente novamente mais tarde.
 
 ## Privacy Section
 
