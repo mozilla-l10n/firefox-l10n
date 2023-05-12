@@ -29,6 +29,8 @@ account-manage-devices-titlecase = Управљај уређајима…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Нема повезаних уређаја
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = Више о слању картица…
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Повежи други уређај…
 
@@ -40,6 +42,11 @@ account-send-tab-to-device-verify = Потврдите ваш налог…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Овај рачунар је сада повезан са уређајем { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Овај рачунар је сада повезан са новим уређајем.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Успешно сте се пријавили
 # Used in a notification shown after the Firefox account was disconnected remotely.
@@ -49,6 +56,10 @@ account-connection-disconnected = Овај рачунар је отпојен.
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = Картица је примљена
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = Картица са { $deviceName }
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -60,3 +71,25 @@ account-single-tab-arriving-truncated-url = { $url }…
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = Примљене картице
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] Преузета је { $tabCount } картица са { $deviceName }
+        [few] Преузете су { $tabCount } картице са { $deviceName }
+       *[other] Преузето је { $tabCount } картица са { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] Преузета је { $tabCount } картица са повезаних уређаја
+        [few] Преузете су { $tabCount } картице са повезаних уређаја
+       *[other] Преузето је { $tabCount } картица са повезаних уређаја
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] Преузета је { $tabCount } картица
+        [few] Преузете су { $tabCount } картице
+       *[other] Преузето је { $tabCount } картица
+    }
