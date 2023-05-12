@@ -59,6 +59,14 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = File primită
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $tabCount } filă a sosit de pe { $deviceName }
+        [few] { $tabCount } file au sosit de pe { $deviceName }
+       *[other] { $tabCount } de file au sosit de pe { $deviceName }
+    }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
         [one] { $tabCount } filă a sosit de pe dispozitivele tale conectate
