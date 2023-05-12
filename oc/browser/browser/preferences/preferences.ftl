@@ -1039,13 +1039,13 @@ content-blocking-fpi-incompatibility-warning = Utilizatz l’isolacion First-Par
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Estandard
+    .label = Estandarda
     .accesskey = d
 enhanced-tracking-protection-setting-strict =
-    .label = Estricte
+    .label = Estricta
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
-    .label = Personalizat
+    .label = Personalizada
     .accesskey = P
 
 ##
