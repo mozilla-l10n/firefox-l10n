@@ -19,3 +19,7 @@ firefoxview-tabpickup-description = Atverti tinklalapius iš kitų įrenginių.
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = Baigta { $percentValue }%
 firefoxview-tabpickup-step-signin-header = Sklandžiai pereikite tarp įrenginių
+firefoxview-tabpickup-step-signin-primarybutton = Tęsti
+firefoxview-tabpickup-adddevice-header = Sinchronizuokite „{ -brand-product-name }“ telefone arba planšetėje
+firefoxview-tabpickup-adddevice-description = Atsisiųskite „{ -brand-product-name }“ mobiliajam ir ten prisijunkite.
+firefoxview-tabpickup-adddevice-learn-how = Sužinoti kaip
