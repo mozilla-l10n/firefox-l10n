@@ -205,6 +205,9 @@ appmenu-recently-closed-tabs =
     .label = Lapelas pechadas recentemente
 appmenu-recently-closed-windows =
     .label = Xanelas pechadas recentemente
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Buscar no historial
 
 ## Help panel
 
@@ -221,6 +224,8 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = p
 appmenu-help-report-site-issue =
     .label = Informar dunha incidencia no sitio…
+appmenu-help-switch-device =
+    .label = Cambiando a un dispositivo novo
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
