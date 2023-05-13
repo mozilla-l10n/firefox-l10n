@@ -942,6 +942,11 @@ firefox-relay-offer-how-we-integrate = Se continui potrai generare nuovi alias d
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Le email da <strong>{ $sitename }</strong> verranno inoltrate a <strong>{ $useremail }</strong>.
 
+firefox-relay-offer-why-to-use-relay = I nostri alias di posta elettronica, sicuri e facili da utilizzare, proteggono la tua identità e bloccano lo spam nascondendo il tuo indirizzo reale.
+firefox-relay-offer-what-relay-provides = Tutte le email inviate al tuo alias verranno inoltrate a <strong>{ $useremail }</strong> (a meno che tu non decida di bloccarle).
+firefox-relay-offer-legal-notice = Facendo clic su “Utilizza alias di posta elettronica”, accetti le <label data-l10n-name="tos-url">Condizioni di utilizzo del servizio</label> e l’<label data-l10n-name="privacy-url">Informativa sulla privacy</label>.
+
+
 ## Popup Notification
 
 popup-notification-xpinstall-prompt-learn-more = Scopri come installare componenti aggiuntivi in completa sicurezza
