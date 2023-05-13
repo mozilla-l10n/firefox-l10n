@@ -969,6 +969,8 @@ sitedata-option-block-unvisited =
     .label = Inagan n tuqqna seg ismal web ur yettwarzan ara
 sitedata-option-block-all-third-party =
     .label = Akk inagan n tuqqna n wis kraḍ (zemren ad rẓen isaml web)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Akk inagan n tuqna gar yismal (izmer ad yiṛeẓ ismal web)
 sitedata-option-block-all =
     .label = Akk inagan n tuqqna (ad rẓen isaml web)
 sitedata-clear =
@@ -1239,6 +1241,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS s HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Addad: { $status }
@@ -1248,13 +1251,26 @@ preferences-doh-resolver = Asaǧǧăw: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = URL d arameɣtu
+preferences-doh-steering-status = Aseqdec n usaǧǧaw adigan
 preferences-doh-status-active = Urmid
 preferences-doh-status-disabled = Yensa
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = D arurmid ({ $reason })
+preferences-doh-group-message = Rmed DNS n tɣellist s:
 preferences-doh-expand-section =
     .tooltiptext = Ugar n telɣut
 preferences-doh-setting-default =
     .label = Ammesten s wudem amezwer
     .accesskey = A
+preferences-doh-setting-enabled =
+    .label = Ammesten yettwasghden
+    .accesskey = A
+preferences-doh-enabled-detailed-desc-1 = Seqdec asaǧǧaw i tferneḍ
+preferences-doh-setting-strict =
+    .label = Ammesten unnig
+    .accesskey = U
+preferences-doh-strict-detailed-desc-1 = Seqdec kan asaǧǧaw i tferneḍ
 preferences-doh-setting-off =
     .label = Yensa
     .accesskey = s

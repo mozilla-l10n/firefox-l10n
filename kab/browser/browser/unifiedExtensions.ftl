@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Kkes asiɣzef
 unified-extensions-context-menu-report-extension =
     .label = Mmel asiɣzef
+unified-extensions-context-menu-move-widget-up =
+    .label = Ali
+unified-extensions-context-menu-move-widget-down =
+    .label = Ader
