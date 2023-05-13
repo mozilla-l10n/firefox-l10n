@@ -14,3 +14,8 @@ firefoxview-close-button =
     .aria-label = Užverti
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ką tik
+firefoxview-tabpickup-description = Atverti tinklalapius iš kitų įrenginių.
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = Baigta { $percentValue }%
+firefoxview-tabpickup-step-signin-header = Sklandžiai pereikite tarp įrenginių
