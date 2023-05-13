@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+mztabrow-open-menu-button =
+    .title = ເປີດເມນູ
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 mztabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -30,6 +32,7 @@ mztabrow-open-in-window = ເປີດໃນໜ້າຕ່າງໃໝ່
     .accesskey = N
 mztabrow-open-in-private-window = ເປີດໃນໜ້າຕ່າງສ່ວນຕົວໃໝ່
     .accesskey = P
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 mztabrow-add-bookmark = ບຸກມາກ
     .accesskey = B
 mztabrow-save-to-pocket = ບັນທືກໄປທີ່ { -pocket-brand-name }
