@@ -105,6 +105,7 @@ migration-cancel-button-label = Cancelar
 migration-done-button-label = Feito
 migration-continue-button-label = Continuar
 migration-wizard-import-browser-no-browsers = { -brand-short-name } non puido atopar ningún programa que conteña datos de marcadores, historial ou contrasinais.
+migration-wizard-import-browser-no-resources = Houbo un erro. { -brand-short-name } non pode atopar ningún dato para importar desde ese perfil do navegador.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -181,3 +182,5 @@ migration-wizard-progress-success-history =
 migration-wizard-progress-success-formdata = Historial de formularios
 migration-wizard-safari-permissions-sub-header = Para importar os marcadores de Safari e o historial de navegación:
 migration-wizard-safari-instructions-continue = Seleccione «Continuar»
+migration-wizard-safari-instructions-folder = Seleccione o cartafol de Safari na lista e escolla «Abrir»
+migration-wizard-safari-select-button = Seleccionar un ficheiro
