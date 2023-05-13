@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (унвон нест)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Бо мақсадҳои бехатарӣ, нишониҳои URL-и «javascript:» ё «data:» аз равзанаи таърих ё навори ҷонибӣ бор карда намешаванд.
 places-bookmarks-backup-title = Номи файли нусхаи эҳтиётии хатбаракҳо
 places-bookmarks-restore-alert-title = Барқарор кардани хатбаракҳо
 places-bookmarks-restore-alert = Ин амал ҳамаи хатбаракҳои ҷории шуморо бо нусхаи эҳтиётӣ иваз мекунад. Шумо мутмаин ҳастед?
