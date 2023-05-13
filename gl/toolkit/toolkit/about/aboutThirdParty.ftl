@@ -43,4 +43,5 @@ third-party-button-expand =
     .title = Mostrar información detallada
 third-party-button-collapse =
     .title = Contraer información detallada
+third-party-blocking-requires-restart = Para bloquear un módulo de terceiros, { -brand-short-name } debe reiniciarse.
 third-party-restart-now = Reiniciar agora
