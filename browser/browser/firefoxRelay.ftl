@@ -29,3 +29,13 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Non adesso
     .accesskey = N
+
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Proteggi il tuo indirizzo email:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = utilizza un alias di posta elettronica { -relay-brand-name }
+firefox-relay-use-mask-title = Utilizza un alias di posta elettronica { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Utilizza alias di posta elettronica
+    .accesskey = U
