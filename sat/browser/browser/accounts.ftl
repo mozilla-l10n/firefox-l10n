@@ -52,12 +52,17 @@ account-connection-connected-with = ᱱᱟᱶᱟ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱫ
 account-connection-connected-with-noname = ᱱᱚᱶᱟ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱫᱚ ᱱᱤᱛᱚᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱᱟᱭ ᱾
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = ᱟᱢ ᱫᱚ ᱨᱟᱹᱥ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜᱼᱟᱢ
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = ᱱᱚᱶᱟ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱨᱟᱹᱯᱩᱫ ᱮᱱᱟ ᱾
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
 account-single-tab-arriving-title = ᱴᱮᱵᱽ ᱧᱟᱢᱮᱱᱟ
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = { $deviceName } ᱠᱷᱚᱱ ᱴᱮᱵᱽ
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -69,3 +74,25 @@ account-single-tab-arriving-truncated-url = { $url }…
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = ᱴᱮᱵᱽ ᱠᱚ ᱧᱟᱢᱮᱱᱟ
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] { $deviceName } ᱠᱷᱚᱱ { $tabCount } ᱴᱮᱵᱽ ᱦᱮᱡ ᱮᱱᱟ
+        [two] { $deviceName } ᱠᱷᱚᱱ { $tabCount } ᱴᱮᱵᱽ ᱠᱤᱱ ᱦᱮᱡ ᱮᱱᱟ
+       *[other] { $deviceName } ᱠᱷᱚᱱ { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱦᱮᱡ ᱮᱱᱟ
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] ᱟᱢᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱥᱟᱦᱴᱟ ᱠᱷᱚᱱ { $tabCount } ᱴᱮᱵᱽ ᱦᱮᱡ ᱮᱱᱟ
+        [two] ᱟᱢᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱥᱟᱦᱴᱟ ᱠᱷᱚᱱ { $tabCount } ᱴᱮᱵᱽ ᱠᱤᱱ ᱦᱮᱡ ᱮᱱᱟ
+       *[other] ᱟᱢᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱥᱟᱦᱴᱟ ᱠᱷᱚᱱ { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱦᱮᱡ ᱮᱱᱟ
+    }
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] { $tabCount } ᱴᱮᱵᱽ ᱦᱮᱡ ᱮᱱᱟ
+        [two] { $tabCount } ᱴᱮᱵᱽ ᱠᱤᱱ ᱦᱮᱡ ᱮᱱᱟ
+       *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱦᱮᱡ ᱮᱱᱟ
+    }

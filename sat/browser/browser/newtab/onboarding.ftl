@@ -392,29 +392,47 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = ᱟᱞᱮ ᱫᱤᱱᱜᱮ ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱮ ᱥᱚᱢᱟᱱᱟᱜᱼᱟ
 mr2022-onboarding-privacy-segmentation-subtitle = ᱵᱩᱫᱷᱤᱭᱟᱹ ᱥᱩᱡᱷᱟᱹᱣ ᱠᱷᱚᱱ ᱥᱮᱸᱫᱽᱨᱟ ᱫᱷᱟᱹᱵᱤᱡ, ᱟᱞᱮ ᱫᱚ ᱵᱮᱥ ᱟᱨ ᱱᱤᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱞᱮᱠᱷᱟ  { -brand-product-name } ᱞᱮ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱾
+mr2022-onboarding-privacy-segmentation-text-cta = ᱟᱢ ᱪᱮᱫ ᱱᱟᱶᱟ ᱯᱷᱤᱪᱚᱨ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱟᱞᱮ ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱮᱥ ᱩᱥᱟᱹᱨ ᱪᱷᱚ ᱞᱮᱠᱷᱟᱱ ?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 mr2022-onboarding-privacy-segmentation-button-secondary-label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = ᱟᱯᱮ ᱫᱚ ᱵᱮᱥ ᱣᱮᱵ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱞᱮ ᱮᱢᱚᱜ ᱠᱟᱱᱟ
+mr2022-onboarding-gratitude-subtitle = { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ, Mozilla Foundation ᱜᱚᱲᱚ ᱛᱮ ᱾ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱛᱮ, ᱟᱞᱮ ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱢᱤᱫᱴᱟᱹᱝ ᱡᱷᱩᱞᱟᱹ, ᱵᱮᱵᱲᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱞᱮᱠᱷᱟ ᱟᱨ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱤᱱᱴᱚᱨᱱᱥᱴ ᱛᱮᱭᱟᱨ ᱨᱮ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ ᱞᱮ ᱾
 mr2022-onboarding-gratitude-primary-button-label = ᱧᱮᱞ ᱢᱮ ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
 mr2022-onboarding-gratitude-secondary-button-label = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
 
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = ᱚᱲᱟᱜ ᱨᱮ ᱟᱢ ᱛᱮ ᱛᱮᱭᱟᱨ ᱢᱮ
+onboarding-infrequent-import-subtitle = ᱡᱩᱫᱤ ᱟᱢ ᱛᱟᱦᱮᱸ ᱩᱛᱟᱹᱨᱮᱱᱟᱢ ᱥᱮ ᱛᱷᱩᱢ ᱟᱠᱟᱱᱟᱢ, ᱟᱢ ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱨᱦᱚᱸ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱞᱟᱫᱮ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 onboarding-infrequent-import-primary-button = { -brand-short-name } ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = ᱞᱮᱯᱴᱚᱯ ᱨᱮ ᱦᱚᱲ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟᱭ ᱟᱨ ᱟᱡ ᱫᱚ ᱤᱯᱤᱞ ᱟᱨ ᱵᱟᱦᱟ ᱛᱮ ᱜᱷᱮᱨᱟᱣ ᱠᱟᱱᱟᱭ ᱾
 mr2022-onboarding-default-image-alt =
     .aria-label = { -brand-product-name } ᱪᱤᱱᱦᱟᱹ ᱨᱮ ᱦᱚᱲ ᱦᱟ.ᱲᱩᱵᱚᱜ ᱠᱟᱱᱟᱭ
+mr2022-onboarding-import-image-alt =
+    .aria-label = ᱦᱚᱲ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱮᱴᱵᱚᱰ ᱨᱮ ᱫᱮᱡ ᱠᱟᱱᱟᱭ ᱥᱟᱶᱛᱮ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = ᱪᱮᱛᱟᱱ ᱨᱮ { -brand-product-name } ᱞᱟᱹᱜᱤᱫ ᱢᱚᱵᱟᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ QR ᱠᱳᱰ ᱢᱮᱱᱟᱜᱼᱟ ᱥᱟᱶᱛᱮ ᱞᱤᱞᱤ ᱯᱟᱰ ᱨᱮ ᱫᱚᱱᱮᱫ ᱢᱤᱫ ᱨᱮᱴᱚ
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = ᱦᱟᱥᱩ ᱦᱟᱯᱟᱱ ᱛᱮ { -brand-product-name } ᱫᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱞᱚᱜᱚ ᱧᱮᱞ ᱪᱷᱚᱭᱟᱭ
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = ᱟᱨᱥᱟᱞ ᱪᱟᱢᱲᱟ ᱟᱨ ᱧᱩᱨ ᱪᱚᱢᱲᱟ ᱛᱤ ᱠᱚ ᱨᱮᱭᱟᱜ ᱦᱟᱭ ᱯᱷᱟᱭᱤᱵᱷ
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = ᱢᱤᱫᱴᱟᱹᱝ ᱡᱷᱚᱨᱠᱟ ᱛᱮ ᱵᱮᱲᱟ ᱦᱟᱹᱥᱩᱨ ᱨᱮᱭᱟᱜ ᱧᱮᱞ ᱡᱟᱦᱟᱸ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱛᱩᱭᱩ ᱟᱨ ᱢᱤᱫᱴᱟᱹᱝ ᱨᱚᱦᱚᱭ ᱫᱟᱨᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = ᱢᱤᱫ ᱛᱤ ᱥᱯᱨᱮᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱟᱹᱨᱤᱭᱟᱹᱲ ᱢᱮᱫ, ᱥᱟᱱᱛᱨᱟ ᱡᱩᱛᱟᱹ, ᱟᱨᱟᱜ ᱵᱮᱥᱠᱮᱴᱵᱚᱞ, ᱵᱮᱝᱜᱩᱱᱤ ᱦᱮᱰᱯᱷᱚᱱ, ᱞᱤᱞ ᱠᱚᱞᱡᱟ, ᱟᱨ ᱥᱟᱥᱟᱝ ᱠᱨᱟᱣᱱ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱨᱚᱝᱜᱤ ᱠᱚᱞᱟᱡᱽ ᱯᱮᱨᱮᱡ ᱮᱫᱟᱭ
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = ᱢᱤᱫ ᱞᱮᱯᱴᱚᱯ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱢᱤᱫ ᱯᱷᱚᱠᱥ ᱟᱸᱡᱚᱢᱟ ᱱᱚᱶᱟ ᱞᱚᱯᱴᱚᱯ ᱨᱮ ᱢᱤᱫ ᱢᱟᱣᱩᱥ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 onboarding-device-migration-title = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!
+onboarding-device-migration-subtitle = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚ ᱨᱮ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱨ ᱱᱟᱜᱟᱢ ᱟᱹᱜᱩ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ  { -fxaccount-brand-name(capitalization: "sentence") } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢᱚᱜ ᱢᱮ ᱾
 onboarding-device-migration-primary-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ

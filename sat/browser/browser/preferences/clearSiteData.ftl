@@ -8,6 +8,7 @@ clear-site-data-window =
 clear-site-data-window2 =
     .title = ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ
     .style = min-width: 35em
+clear-site-data-description = ᱡᱷᱚᱛᱚ ᱠᱩᱠᱩᱡᱽ ᱟᱨ ᱫᱟᱦᱚ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱢᱮᱴᱟᱣ ᱞᱮᱠᱷᱟᱱ { -brand-short-name } ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱚᱰᱚᱠ ᱫᱟᱲᱮ ᱢᱮᱭᱟᱭ ᱟᱨ ᱚᱯᱷᱞᱟᱭᱤᱱ ᱣᱮᱵᱽ ᱡᱤᱱᱤᱥ ᱠᱚ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱠᱮᱪ ᱰᱟᱴᱟ ᱥᱟᱯᱷᱟ ᱞᱮᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱫᱚ ᱵᱟᱭ ᱪᱤᱠᱟᱹᱜᱼᱟ ᱾
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -43,6 +44,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = ᱠᱮᱪ ᱟᱠᱟᱱ ᱣᱮᱵ ᱡᱤᱱᱤᱥ
     .accesskey = W
+clear-site-data-cache-info = ᱫᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱨᱮ ᱪᱤᱛᱟᱹᱨ ᱟᱨ ᱰᱟᱴᱟ ᱫᱩᱦᱲᱟᱹ ᱞᱚᱰ ᱦᱚᱪᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ
 clear-site-data-dialog =
     .buttonlabelaccept = ᱯᱷᱟᱨᱪᱟ
     .buttonaccesskeyaccept = l
