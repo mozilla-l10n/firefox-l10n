@@ -143,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = n
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -188,7 +188,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Palikti įjungtas
 containers-remove-alert-title = Pašalinti šį sudėtinį rodinį?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Jei dabar pašalinsite šį sudėtinį rodinį, bus užverta { $count } sudėtinio rodinio kortelė. Ar tikrai norite pašalinti šį sudėtinį rodinį?
@@ -205,12 +205,14 @@ preferences-web-appearance-header = Svetainių išvaizda
 preferences-web-appearance-description = Kai kurios svetainės pritaiko savo spalvų schemą pagal jūsų nustatymus. Pasirinkite, kurią spalvų schemą norėtumėte naudoti tokioms svetainėms.
 preferences-web-appearance-choice-browser = „{ -brand-short-name }“ grafinis apvalkalas
 preferences-web-appearance-choice-system = Sistemos grafinis apvalkalas
-preferences-web-appearance-choice-light = Šviesi
-preferences-web-appearance-choice-dark = Tamsi
+preferences-web-appearance-choice-light = Šviesus
+preferences-web-appearance-choice-dark = Tamsus
 preferences-web-appearance-choice-tooltip-browser =
     .title = Priderinti jūsų „{ -brand-short-name }“ grafinio apvalkalo nustatymus svetainių fonui ir turiniui.
 preferences-web-appearance-choice-tooltip-system =
     .title = Priderinti jūsų sistemos grafinio apvalkalo nustatymus svetainių fonui ir turiniui.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Automatiškai keiskite svetainės foną ir turinį pagal sistemos nustatymus ir „{ -brand-short-name }“ grafinį apvalkalą.
 preferences-web-appearance-choice-tooltip-light =
     .title = Naudoti šviesias spalvas svetainių fonui ir turiniui.
 preferences-web-appearance-choice-tooltip-dark =
@@ -219,6 +221,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -246,6 +250,8 @@ advanced-fonts =
 preferences-zoom-header = Dydis
 preferences-default-zoom = Numatytasis dydis
     .accesskey = d
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -338,15 +344,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Visada klausti
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Naudoti „{ $plugin-name }“ papildinį (programoje „{ -brand-short-name }“)
 applications-open-inapp =
@@ -389,6 +395,8 @@ play-drm-content =
 play-drm-content-learn-more = Sužinoti daugiau
 update-application-title = „{ -brand-short-name }“ naujinimai
 update-application-description = Laiku atnaujinkite „{ -brand-short-name }“ didesniam našumui, stabilumui bei saugumui užtikrinti.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Laida { $version } <a data-l10n-name="learn-more">Kas naujo</a>
 update-history =
     .label = Rodyti naujinimų žurnalą…
@@ -415,7 +423,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Klaida įrašant naujinimų nuostatas
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -445,7 +453,7 @@ performance-limit-content-process-option = Turinio procesų riba
 performance-limit-content-process-enabled-desc = Papildomi turinio procesai gali paspartinti veikimą kai naudojama daugiau kortelių, tačiau taip pat naudos daugiau atminties.
 performance-limit-content-process-blocked-desc = Turinio procesų skaičiaus keitimas galimas tik daugiaprocesėje „{ -brand-short-name }“. <a data-l10n-name="learn-more">Sužinokite kaip patikrinti, ar daugiaprocesė veiksena įjungta</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (numatyta)
 
@@ -511,6 +519,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = „Firefox“ pradžia (numatytoji)
+home-mode-choice-default-fx =
+    .label = „{ -firefox-home-brand-name }“ (numatytasis)
 home-mode-choice-custom =
     .label = Kiti URL…
 home-mode-choice-blank =
@@ -536,6 +546,8 @@ choose-bookmark =
 
 home-prefs-content-header = „Firefox“ pradžios turinys
 home-prefs-content-description = Pasirinkite, kokį turinį norite matyti „Firefox“ pradžios ekrane
+home-prefs-content-header2 = „{ -firefox-home-brand-name }“ turinys
+home-prefs-content-description2 = Pasirinkite, kokio turinio norite savo „{ -firefox-home-brand-name }“ ekrane.
 home-prefs-search-header =
     .label = Paieška internete
 home-prefs-shortcuts-header =
@@ -560,6 +572,8 @@ home-prefs-recommended-by-description-new = Išskirtinis turinys, kuruojamas „
 home-prefs-recommended-by-learn-more = Kaip tai veikia
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Rėmėjų straipsniai
+home-prefs-recommended-by-option-recent-saves =
+    .label = Rodyti naujausius įrašus
 home-prefs-highlights-option-visited-pages =
     .label = Aplankyti tinklalapiai
 home-prefs-highlights-options-bookmarks =
@@ -578,6 +592,8 @@ home-prefs-recent-activity-description = Paskiausiai lankytos svetainės ir ži�
 home-prefs-snippets-header =
     .label = Iškarpos
 home-prefs-snippets-description-new = Patarimai ir naujienos iš „{ -vendor-short-name }“ ir „{ -brand-product-name }“
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -607,6 +623,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Rodyti paieškos žodžių siūlymus adreso lauko rezultatuose
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Rodyti paieškos žodžius, vietoj URL, numatytosios ieškyklės rezultatų tinklalapyje
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -638,7 +659,7 @@ search-find-more-link = Rasti daugiau ieškyklių
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pasikartojantis reikšminis žodis
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Įvedėte reikšminį žodį, kurį jau naudoja „{ $name }“. Prašome įvesti kitą.
 search-keyword-warning-bookmark = Įvedėte reikšminį žodį, kurį jau naudojate adresyno įrašui. Prašom įvesti kitą.
 
@@ -833,6 +854,9 @@ forms-breach-alerts =
     .label = Rodyti įspėjimus apie slaptažodžius pažeistose svetainėse
     .accesskey = d
 forms-breach-alerts-learn-more-link = Sužinoti daugiau
+relay-integration =
+    .label = Įjunkite „{ -relay-brand-name }“ savo „{ -brand-short-name }“ slaptažodžių tvarkyklėje
+relay-integration-learn-more-link = Sužinoti daugiau
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automatiškai užpildyti prisijungimus ir slaptažodžius
@@ -921,8 +945,8 @@ history-clear-button =
 sitedata-header = Slapukai ir svetainių duomenys
 sitedata-total-size-calculating = Skaičiuojamas svetainių duomenų ir podėlio dydis…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saugomi slapukai, svetainių duomenys ir podėlis šiuo metu užima { $value } { $unit } disko vietos.
 sitedata-learn-more = Sužinoti daugiau
 sitedata-delete-on-close =
@@ -987,7 +1011,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Ieškyklės
     .accesskey = e
+addressbar-locbar-quickactions-option =
+    .label = Spartieji veiksmai
+    .accesskey = S
 addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
+addressbar-quickactions-learn-more = Sužinoti daugiau
 
 ## Privacy Section - Content Blocking
 
@@ -1018,6 +1046,7 @@ content-blocking-etp-custom-desc = Pasirinkite, kuriuos stebėjimo elementus ir 
 content-blocking-etp-blocking-desc = „{ -brand-short-name }“ blokuoja:
 content-blocking-private-windows = Stebėjimui naudojamas turinys privačiojo naršymo languose
 content-blocking-cross-site-cookies-in-all-windows = Tarp svetainių veikiantys slapukai visuose languose (įskaitant stebėjimo slapukus)
+content-blocking-cross-site-cookies-in-all-windows2 = Tarp svetainių veikiantys slapukai visuose languose
 content-blocking-cross-site-tracking-cookies = Tarp svetainių veikiantys stebėjimo slapukai
 content-blocking-all-cross-site-cookies-private-windows = Tarp svetainių veikiantys slapukai privačiuose languose
 content-blocking-cross-site-tracking-cookies-plus-isolate = Tarp svetainių veikiantys slapukai, o likusius slapukus izoliuoti
