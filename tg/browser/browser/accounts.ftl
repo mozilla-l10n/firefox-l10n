@@ -42,6 +42,9 @@ account-send-tab-to-device-verify = Ҳисоби худро тасдиқ кун�
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Ин компютер бо { $deviceName } пайваст карда шуд.
