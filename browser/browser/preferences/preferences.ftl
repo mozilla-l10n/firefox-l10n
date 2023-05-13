@@ -205,6 +205,7 @@ preferences-web-appearance-header = Svetainių išvaizda
 preferences-web-appearance-description = Kai kurios svetainės pritaiko savo spalvų schemą pagal jūsų nustatymus. Pasirinkite, kurią spalvų schemą norėtumėte naudoti tokioms svetainėms.
 preferences-web-appearance-choice-browser = „{ -brand-short-name }“ grafinis apvalkalas
 preferences-web-appearance-choice-system = Sistemos grafinis apvalkalas
+preferences-web-appearance-choice-auto = Automatinis
 preferences-web-appearance-choice-light = Šviesus
 preferences-web-appearance-choice-dark = Tamsus
 preferences-web-appearance-choice-tooltip-browser =
@@ -1068,6 +1069,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Visapusiška slapukų apsauga riboja slapukų pasiekimą jūsų lankomoje svetainėje, todėl stebėjimo elementai negali jų naudoti jūsų sekimui tarp svetainių.
 content-blocking-etp-standard-tcp-rollout-learn-more = Sužinoti daugiau
+content-blocking-etp-standard-tcp-title = Apima visapusišką slapukų apsaugą, mūsų galingiausią visų laikų privatumo funkciją
 content-blocking-warning-title = Dėmesio!
 content-blocking-and-isolating-etp-warning-description-2 = Ši nuostata gali sutrikdyti kai kurių svetainių veikimą. Jeigu atrodo, kad svetainė veikia netinkamai, galite pabandyti išjungti apsaugą nuo stebėjimo joje, kad būtų įkeltas visas turinys.
 content-blocking-warning-learn-how = Sužinoti kaip
@@ -1175,6 +1177,12 @@ addon-recommendations-link = Sužinoti daugiau
 collection-health-report-disabled = Duomenų siuntimas šiai darinio sąrankai yra išjungtas
 collection-backlogged-crash-reports-with-link = Leisti „{ -brand-short-name }“ siųsti sukauptus strigčių pranešimus jūsų vardu. <a data-l10n-name="crash-reports-link">Sužinoti daugiau</a>
     .accesskey = s
+privacy-segmentation-section-header = Naujos funkcijos, kurios pagerina jūsų naršymą
+privacy-segmentation-section-description = Kai siūlome funkcijas, kurios naudoja jūsų duomenis, kad suteiktų jums asmeniškesnės patirties:
+privacy-segmentation-radio-off =
+    .label = Naudoti „{ -brand-product-name }“ rekomendacijas
+privacy-segmentation-radio-on =
+    .label = Rodyti detalią informaciją
 
 ## Privacy Section - Security
 ##

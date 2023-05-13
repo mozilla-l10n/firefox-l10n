@@ -83,6 +83,7 @@ permissions-exceptions-etp-desc = Šiose svetainėse esate išjungę apsaugą.
 permissions-exceptions-etp-window2 =
     .title = Išimtys išplėstai apsaugai nuo stebėjimo
     .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = Galite nurodyti, kuriose svetainėse išjungta išplėsta apsauga nuo stebėjimo. Įveskite tikslų svetainės adresą, kurią norite tvarkyti, ir spustelėkite „Sukurti išimtį“.
 
 ## Exceptions - Cookies
 
