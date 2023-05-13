@@ -74,6 +74,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Editar cartafol…
     .accesskey = E
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
@@ -113,6 +115,16 @@ places-delete-bookmark =
            *[other] Eliminar marcadores
         }
     .accesskey = m
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Marcar a páxina…
+            [one] Marcar a páxina…
+           *[other] Marcar as páxinas…
+        }
+    .accesskey = M
 places-manage-bookmarks =
     .label = Xestionar marcadores
     .accesskey = X

@@ -667,6 +667,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Está sincronizando estes elementos:
+sync-syncing-across-devices-heading = Está sincronizando estes elementos en todos os seus dispositivos conectados:
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Lapelas abertas
@@ -695,6 +696,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Desconectar...
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Os cambios na lista de elementos para sincronizar reflectiranse en todos os seus dispositivos conectados.
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
@@ -1130,6 +1132,29 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS sobre HTTPS
+preferences-doh-description = O sistema de nomes de dominio (DNS) sobre HTTPS envía a súa solicitude de nome de dominio a través dunha conexión cifrada, creando un DNS seguro e dificultando que outros poidan ver a que sitio web está a piques de acceder.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Estado: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Provedor: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL non válido
+preferences-doh-steering-status = Usando un provedor local
+preferences-doh-status-active = Activo
+preferences-doh-status-disabled = Desactivado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Non activo ({ $reason })
+preferences-doh-group-message = Activar o DNS seguro usando:
+preferences-doh-expand-section =
+    .tooltiptext = Máis información
+preferences-doh-setting-default =
+    .label = Protección por defecto
+    .accesskey = d
 
 ## The following strings are used in the Download section of settings
 

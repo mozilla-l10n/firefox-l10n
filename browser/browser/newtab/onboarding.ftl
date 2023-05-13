@@ -273,4 +273,8 @@ onboarding-live-language-secondary-cancel-download = Cancelar
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Un raposo saudando na pantalla dun ordenador portátil. O portátil ten un rato conectado.
+onboarding-device-migration-title = Benvido de novo!
+onboarding-device-migration-subtitle = Inicie sesión no seu { -fxaccount-brand-name(capitalization: "sentence") } para recuperar os seus marcadores, contrasinais e historial consigo no seu novo dispositivo.
 onboarding-device-migration-primary-button-label = Acceder
