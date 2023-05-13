@@ -9,4 +9,5 @@ webauthn-pin-invalid-prompt =
         [0] Feil PIN-kode! Skriv inn korrekt PIN-kode for denne eininga.
        *[other] Feil PIN-kode! Skriv inn korrekt PIN-kode for denne eininga. Du har { $retriesLeft } forsøk att.
     }
+webauthn-pin-invalid-short-prompt = Feil PIN-kode. Prøv på nytt.
 webauthn-pin-required-prompt = Skriv inn PIN-kode for denne eininga.
