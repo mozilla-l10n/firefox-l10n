@@ -135,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Фаъол кардани садо дар варақаҳо
     .accesskey = m
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Пахши аудио
 
 ## Ctrl-Tab dialog
 
