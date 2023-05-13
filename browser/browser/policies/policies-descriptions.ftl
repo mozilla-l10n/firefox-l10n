@@ -75,7 +75,7 @@ policy-FirefoxHome2 = Configura { -firefox-home-brand-name }.
 policy-FlashPlugin = Permitir o denegar el uso del complemento Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Obliga la navegación directa del sitio de intranet en lugar de buscar al escribir entradas de una sola palabra en la barra de direcciones.
 policy-Handlers = Configurar gestores de aplicación predeterminados.
-policy-HardwareAcceleration = Si es "false", desactivar aceleración de hardware.
+policy-HardwareAcceleration = De ser falso, desactiva la aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y opcionalmente bloquear la página de inicio.
 policy-InstallAddonsPermission = Permitir que algunos sitios web instalen complementos.
