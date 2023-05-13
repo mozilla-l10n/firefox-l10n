@@ -21,6 +21,8 @@ account-verify = { $email } ᱯᱩᱥᱴᱟᱹᱣ ᱪᱷᱚ
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
+account-send-to-all-devices-titlecase = ᱡᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱵᱷᱮᱡᱟᱭᱢᱮ
+account-manage-devices-titlecase = ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -35,9 +37,21 @@ account-send-tab-to-device-connectdevice = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱡ�
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = ᱠᱷᱟᱛᱟ ᱟᱵᱝ ᱯᱩᱥᱴᱟᱹᱣ ᱠᱟᱱᱟ
+account-send-tab-to-device-verify = ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱯᱩᱥᱴᱟᱹᱣ ᱢᱮ…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = ᱱᱟᱶᱟ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱫᱚ ᱱᱤᱛᱚᱜ { $deviceName } ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱᱟᱭ ᱾
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = ᱱᱚᱶᱟ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱫᱚ ᱱᱤᱛᱚᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱᱟᱭ ᱾
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = ᱟᱢ ᱫᱚ ᱨᱟᱹᱥ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜᱼᱟᱢ
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
