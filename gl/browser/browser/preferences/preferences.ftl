@@ -1155,6 +1155,37 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Protección por defecto
     .accesskey = d
+preferences-doh-default-desc = { -brand-short-name } decide cando usar DNS seguro para protexer a súa privacidade.
+preferences-doh-default-detailed-desc-1 = Usar DNS seguro nas rexións onde estea dispoñible
+preferences-doh-default-detailed-desc-2 = Use o seu resolvedor de DNS predeterminado se hai un problema co provedor de DNS seguro
+preferences-doh-default-detailed-desc-3 = Usar un provedor local, se é posible
+preferences-doh-default-detailed-desc-4 = Desactivar cando a VPN, o control parental ou as políticas empresariais estean activas
+preferences-doh-default-detailed-desc-5 = Desactivar cando unha rede lle indique a { -brand-short-name } que non debería usar DNS seguro
+preferences-doh-setting-enabled =
+    .label = Protección aumentada
+    .accesskey = i
+preferences-doh-enabled-desc = Vostede controla cando usar o DNS seguro e escolle o seu provedor.
+preferences-doh-enabled-detailed-desc-1 = Use o provedor que seleccione
+preferences-doh-enabled-detailed-desc-2 = Use só o seu resolvedor de DNS predeterminado se hai un problema co DNS seguro
+preferences-doh-setting-strict =
+    .label = Protección máxima
+    .accesskey = m
+preferences-doh-strict-desc = { -brand-short-name } sempre usará DNS seguro. Verá unha advertencia de risco de seguranza antes de usar o DNS do seu sistema.
+preferences-doh-strict-detailed-desc-1 = Use só o provedor que seleccione
+preferences-doh-strict-detailed-desc-2 = Avisar sempre se o DNS seguro non está dispoñible
+preferences-doh-strict-detailed-desc-3 = Se o DNS seguro non está dispoñible, os sitios non cargarán nin funcionarán correctamente
+preferences-doh-setting-off =
+    .label = Desactivado
+    .accesskey = o
+preferences-doh-off-desc = Use o seu resolvedor de DNS predeterminado
+preferences-doh-checkbox-warn =
+    .label = Avisar se un terceiro impide activamente o DNS seguro
+    .accesskey = A
+preferences-doh-select-resolver = Escoller provedor:
+preferences-doh-exceptions-description = { -brand-short-name } non usará DNS seguro nestes sitios
+preferences-doh-manage-exceptions =
+    .label = Xestionar as excepcións…
+    .accesskey = X
 
 ## The following strings are used in the Download section of settings
 
