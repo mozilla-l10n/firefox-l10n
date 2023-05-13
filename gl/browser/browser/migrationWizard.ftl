@@ -57,8 +57,13 @@ migration-bookmarks-option-label = Marcadores
 migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Accesos e contrasinais gardados
 migration-history-option-label = Historial de navegación
+migration-form-autofill-option-label = Datos de autocompletado de formularios
 migration-passwords-from-file-progress-header = Importar ficheiros de contrasinais
 migration-passwords-from-file-success-header = Contrasinais importados correctamente
+migration-passwords-from-file = Verificando contrasinais no arquivo
+migration-passwords-new = Novos contrasinais
+migration-passwords-updated = Contrasinais existentes
+migration-passwords-from-file-picker-title = Importar ficheiro de contrasinais
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -73,7 +78,33 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] Ficheiro TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } engadida
+       *[other] { $newEntries } engadidas
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } actualizada
+       *[other] { $updatedEntries } actualizadas
+    }
+migration-import-button-label = Importar
+migration-choose-to-import-from-file-button-label = Importar do ficheiro
+migration-import-from-file-button-label = Seleccionar un ficheiro
 migration-cancel-button-label = Cancelar
+migration-done-button-label = Feito
+migration-continue-button-label = Continuar
+migration-wizard-import-browser-no-browsers = { -brand-short-name } non puido atopar ningún programa que conteña datos de marcadores, historial ou contrasinais.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -81,6 +112,72 @@ migration-cancel-button-label = Cancelar
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = marcadores
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = favoritos
+migration-list-password-label = contrasinais
+migration-list-history-label = historial
+migration-list-autofill-label = datos de autocompletado
 
 ##
 
+migration-wizard-progress-header = Importando datos
+migration-wizard-progress-done-header = Datos importados correctamente
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importando…
+migration-wizard-progress-icon-completed =
+    .aria-label = Rematado
+migration-safari-password-import-header = Importar contrasinais desde Safari
+migration-safari-password-import-steps-header = Para importar contrasinais desde Safari:
+migration-safari-password-import-step1 = En Safari, abra o menú «Safari» e vaia a Preferencias > Contrasinais
+migration-safari-password-import-step2 = Seleccione o botón <img data-l10n-name="safari-icon-3dots"/> e escolla «Exportar todos os contrasinais»
+migration-safari-password-import-step3 = Garda o ficheiro de contrasinais
+migration-safari-password-import-step4 = Use "Seleccionar ficheiro" a continuación para escoller o ficheiro de contrasinais que gardou
+migration-safari-password-import-skip-button = Saltar
+migration-safari-password-import-select-button = Seleccionar un ficheiro
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } marcador
+       *[other] { $quantity } marcadores
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favorito
+       *[other] { $quantity } favoritos
+    }
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } contrasinal
+       *[other] { $quantity } contrasinais
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Desde os último día
+       *[other] Desde os últimos { $maxAgeInDays } días
+    }
+migration-wizard-progress-success-formdata = Historial de formularios
+migration-wizard-safari-permissions-sub-header = Para importar os marcadores de Safari e o historial de navegación:
+migration-wizard-safari-instructions-continue = Seleccione «Continuar»
