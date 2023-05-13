@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Característica recomendada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por que estou vendo isto?
-
 cfr-doorhanger-extension-cancel-button = Agora non
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Engadir agora
     .accesskey = a
-
 cfr-doorhanger-extension-manage-settings-button = Xestionar a configuración de recomendación
     .accesskey = m
-
 cfr-doorhanger-extension-never-show-recommendation = Non amosarme esta recomendación
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Máis información
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión dispoñible
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Máis información
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova característica:
-
 cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
-
 cfr-whatsnew-release-notes-link-text = Lea as notas de lanzamento
 
 ## Enhanced Tracking Protection Milestones
@@ -169,6 +159,7 @@ spotlight-total-cookie-protection-secondary-button = Agora non
 
 ## Emotive Continuous Onboarding
 
+
 ## MR2022 Background Update Windows native toast notification strings.
 ##
 ## These strings will be displayed by the Windows operating system in
@@ -182,7 +173,43 @@ spotlight-total-cookie-protection-secondary-button = Agora non
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
+## Colorways expiry reminder CFR
+
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+fox-doodle-pin-headline = Benvido de novo
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Aquí ten un rápido recordatorio de que pode manter o seu navegador indie favorito a só un clic de distancia.
+fox-doodle-pin-primary = Abre as miñas ligazóns con { -brand-short-name }
+fox-doodle-pin-secondary = Agora non
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Novo dispositivo no seu futuro?
+fxa-sync-cfr-body = Asegúrese de que os seus marcadores, contrasinais e lapelas máis recentes veñen consigo cada vez que abre un novo navegador { -brand-product-name }.
+fxa-sync-cfr-primary = Máis información
+    .accesskey = M
+fxa-sync-cfr-secondary = Lembrarmo máis tarde
+    .accesskey = L
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Usa un dispositivo antigo?
+device-migration-fxa-spotlight-body = Faga unha copia de seguranza dos seus datos para asegurarse de non perder información importante como marcadores e contrasinais, especialmente se cambia a un dispositivo novo.
+device-migration-fxa-spotlight-primary-button = Como facer unha copia de seguranza dos meus datos
+device-migration-fxa-spotlight-link = Lembrarmo máis tarde
