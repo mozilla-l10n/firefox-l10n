@@ -38,6 +38,39 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navegación privada)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navegación privada)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Navegación privada de { -brand-full-name }
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — Navegación privada de { -brand-full-name }
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navegación privada
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Navegación privada
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -130,6 +163,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Escriba menos e atope máis: Busque con { $engineName } directamente dende súa barra de enderezos.
 urlbar-search-tips-redirect-2 = Inicie a busca na barra de enderezos para ver suxestións de { $engineName } e o seu historial de navegación.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Agora buscar é máis doado. Probe a usar buscas máis específicas na barra de enderezos. Para mostrar o URL no seu lugar, visite a sección de «Busca» na configuración.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seleccione este atallo para atopar o que precise máis rápido.
@@ -304,6 +339,9 @@ quickactions-cmd-update = actualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ver o código da páxina
 quickactions-cmd-viewsource = ver o código, código
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Máis información sobre as accións rápidas
 
 ## Bookmark Panel
 
@@ -492,6 +530,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Para usar o atallo F12, primeiro abra DevTools a través do menú Desenvolvedor Web.
+enable-devtools-popup-description2 = Para usar o atallo F12 abra primeiro as ferramentas de desenvolvemento mediante o menú de ferramentas do navegador.
 
 ## URL Bar
 
@@ -606,6 +645,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Buscar nos marcadores
 urlbar-result-action-search-history = Buscar no historial
 urlbar-result-action-search-tabs = Buscar nas lapelas
+urlbar-result-action-search-actions = Accións de busca
 
 ## Labels shown above groups of urlbar results
 
@@ -619,6 +659,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Sexestións de { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Accións rápidas
 
 ## Reader View toolbar buttons
 
@@ -720,6 +763,8 @@ bookmarks-tools =
     .label = Ferramentas dos marcadores
 bookmarks-bookmark-edit-panel =
     .label = Editar este marcador
+bookmarks-subview-edit-bookmark =
+    .label = Editar este marcador…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -736,6 +781,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Engadir a marcadores a lapela actual
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Engadir a marcadores a lapela actual…
 
 ## Library Panel items
 
@@ -778,6 +826,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Enviar ligazón
     .tooltiptext = Enviar por correo unha ligazón a esta páxina
+toolbar-button-logins =
+    .label = Contrasinais
+    .tooltiptext = Ver e xestionar os teus contrasinais gardados
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -850,6 +901,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Mover o alternador de imaxe en imaxe ao lado dereito
+    .accesskey = r
+picture-in-picture-move-toggle-left =
+    .label = Mover o alternador de imaxe en imaxe ao lado esquerdo
+    .accesskey = l
 
 ##
 
@@ -903,13 +960,23 @@ data-reporting-notification-message = { -brand-short-name } envía automaticamen
 data-reporting-notification-button =
     .label = Escolla que desexa compartir
     .accesskey = c
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Navegación privada
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Extensións
+    .tooltiptext = Extensións
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Extensións
+    .tooltiptext =
+        Extensións
+        Necesítanse permisos
 
 ## Autorefresh blocker
 
@@ -921,6 +988,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } enmascara o seu verdadeiro enderezo de correo electrónico para axudar a protexelo de violacións de datos e correo non desexado.
 
 ## Popup Notification
 
