@@ -8,6 +8,9 @@ places-open =
 places-open-in-tab =
     .label = Abrir nunha nova lapela
     .accesskey = w
+places-open-in-container-tab =
+    .label = Abrir nunha nova lapela contedor
+    .accesskey = i
 places-open-all-bookmarks =
     .label = Abrir todos os marcadores
     .accesskey = o
@@ -125,6 +128,9 @@ places-create-bookmark =
            *[other] Marcar as páxinas…
         }
     .accesskey = M
+places-untag-bookmark =
+    .label = Retirar a etiqueta
+    .accesskey = R
 places-manage-bookmarks =
     .label = Xestionar marcadores
     .accesskey = X
