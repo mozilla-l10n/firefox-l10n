@@ -12,8 +12,15 @@ callout-primary-complete-button-label = Entendín!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Saltar entre dispositivos levando as súas lapelas
+callout-firefox-view-tab-pickup-subtitle = Colla rapidamente as lapelas abertas do seu teléfono e ábraas aquí, para navegar sen obstáculos.
+callout-firefox-view-recently-closed-title = Recupere as súas lapelas pechadas nun intre
+callout-firefox-view-recently-closed-subtitle = Todas as súas lapelas pechadas aparecerán aquí por arte de maxia. Non se volva preocupar por pechar de novo un sitio sen querer.
 callout-firefox-view-colorways-title = Engadir un toque de cor
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Escolla a tonalidade que lle guste coas combinacións de cores. Só en { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = Explorar as nosas últimas combinacións de cores
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Coloree o seu navegador con estas tonalidades emblemáticas, inspiradas en voces independentes. Só en { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
@@ -21,6 +28,7 @@ callout-firefox-view-colorways-reminder-title = Explorar as nosas últimas combi
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Mellore a súa navegación coa recollida de lapelas
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Acceda ás súas lapelas abertas desde calquera dispositivo. Ademais, sincronice os seus marcadores, contrasinais, e moito máis.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Comezar
 
 ## PDF.js Feature Tour Strings
