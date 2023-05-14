@@ -110,7 +110,7 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 cfr-doorhanger-fission-body-approved = A súa privacidade importa. { -brand-short-name } agora illa ou probas de sitios web entre si, o que dificulta que os piratas informáticos rouben contrasinais, números de tarxetas de crédito e outra información confidencial.
 cfr-doorhanger-fission-header = Illamento do sitio
-cfr-doorhanger-fission-primary-button = Entendín
+cfr-doorhanger-fission-primary-button = Entendido
     .accesskey = E
 cfr-doorhanger-fission-secondary-button = Máis información
     .accesskey = M
@@ -228,9 +228,16 @@ colorways-cfr-header-today = As combinacións de cores de Independent Voices cad
 
 cfr-cbh-header = Permitir que { -brand-short-name } rexeite os avisos de cookies?
 cfr-cbh-body = { -brand-short-name } pode rexeitar automaticamente moitas solicitudes de avisos de cookies.
+cfr-cbh-confirm-button = Rexeitar os avisos de cookies
+    .accesskey = R
+cfr-cbh-dismiss-button = Agora non
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Encargámonos por vostede
+july-jam-body = Cada mes, { -brand-short-name } bloquea unha media de máis de 3.000 rastreadores por persoa, o que lle ofrece un acceso seguro e rápido á boa internet.
+july-jam-set-default-primary = Abrir as miñas ligazóns con { -brand-short-name }
 fox-doodle-pin-headline = Benvido de novo
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
@@ -240,6 +247,7 @@ fox-doodle-pin-secondary = Agora non
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-primary = Entendido
 
 ## FxA sync CFR
 

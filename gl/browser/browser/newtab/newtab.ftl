@@ -235,7 +235,10 @@ newtab-pocket-load-more-stories-button = Cargar máis historias
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Estás ao día!
 newtab-pocket-last-card-desc = Volva máis tarde para ver máis.
+newtab-pocket-last-card-image =
+    .alt = Estás ao día
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 

@@ -42,4 +42,4 @@ callout-pdfjs-draw-title = Asinar documentos coa nosa nova ferramenta de debuxo
 callout-pdfjs-draw-body-a = Facer anotacións nos PDF e gardar os cambios.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Non máis impresión e dixitalización. Faga anotacións nos PDF e garde os cambios.
-callout-pdfjs-draw-button = Entendín!
+callout-pdfjs-draw-button = Entendido!
