@@ -1274,6 +1274,7 @@ preferences-doh-setting-default =
     .accesskey = М
 preferences-doh-default-desc = Барои муҳофизат кардани махфияти шумо, «{ -brand-short-name }» муайян мекунад, ки кадом вақт DNS-и бехатар истифода мешавад.
 preferences-doh-default-detailed-desc-1 = Аз DNS-и бехатар дар он минтақаҳое, ки он дастрас аст, истифода баред
+preferences-doh-default-detailed-desc-2 = Ҳалкунандаи DNS-и пешфарз истифода бурда шавад, агар ҳангоми истифодаи таъминкунандаи DNS-и бехатар мушкилӣ пайдо шавад
 preferences-doh-default-detailed-desc-3 = Истифодаи таъминкунандаи маҳаллӣ, агар имконпазир бошад
 preferences-doh-default-detailed-desc-4 = Хомӯш кунед, агар VPN, назорати волидайн ё сиёсатҳои корхона фаъоланд
 preferences-doh-setting-enabled =
