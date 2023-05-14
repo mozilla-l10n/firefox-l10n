@@ -75,6 +75,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title =
     { $tabCount ->
+        [one] Zavrieť kartu?
         [few] Zavrieť { $tabCount } karty?
        *[other] Zavrieť { $tabCount } kariet?
     }
@@ -89,6 +90,7 @@ tabbrowser-confirm-close-tabs-checkbox = Vyžadovať potvrdenie pred zatvorením
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
     { $windowCount ->
+        [one] Zavrieť okno?
         [few] Zavrieť { $windowCount } okná?
        *[other] Zavrieť { $windowCount } okien?
     }
@@ -161,6 +163,7 @@ tabbrowser-tab-audio-playing-description = Prehráva zvuk
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
+            [one] Zobraziť kartu
             [few] Zobraziť všetky { $tabCount } karty
            *[other] Zobraziť všetkých { $tabCount } kariet
         }
