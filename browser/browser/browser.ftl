@@ -135,7 +135,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Abre o panel da mensaxe de instalación do complemento
 urlbar-tip-help-icon =
     .title = Obter axuda
-urlbar-search-tips-confirm = Entendín
+urlbar-search-tips-confirm = Entendido
 urlbar-search-tips-confirm-short = Entendido
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
