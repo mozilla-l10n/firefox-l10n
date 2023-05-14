@@ -11,6 +11,7 @@ pp-empty-warning = Sus contraseñas guardadas y claves privadas no estarán prot
 pp-erased-ok = Ha eliminado su contraseña maestra. { pp-empty-warning }
 pp-not-wanted = ¡Atención! Ha decidido no usar una contraseña maestra. { pp-empty-warning }
 settings-pp-erased-ok = Ha eliminado su contraseña principal. Las contraseñas almacenadas y las claves privadas de certificado administradas por { -brand-short-name } ya no estarán protegidas.
+settings-pp-not-wanted = ¡Advertencia! Ha decidido no usar una contraseña principal. Las contraseñas almacenadas y las claves privadas de certificados administradas por { -brand-short-name } ya no estarán protegidas.
 pp-change2empty-in-fips-mode = En este momento se encuentra en modo FIPS. FIPS requiere una contraseña maestra no vacía.
 pw-change-success-title = Cambio de contraseña correcto
 pw-change-failed-title = Falló el cambio de contraseña
