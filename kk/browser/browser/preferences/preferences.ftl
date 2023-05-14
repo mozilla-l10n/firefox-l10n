@@ -1251,6 +1251,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS арқылы DNS
+preferences-doh-description = HTTPS арқылы домендік атаулар жүйесі (DNS) шифрленген байланыс арқылы домендік атқа сұрауыңызды жібереді, осылай ол қауіпсіз DNS жасайды және басқаларға қай веб-сайтқа кіргіңіз келетінін көруді қиындатады.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Күйі: { $status }
@@ -1266,9 +1267,16 @@ preferences-doh-status-disabled = Сөндірулі
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Белсенді емес ({ $reason })
+preferences-doh-group-message = Қауіпсіз DNS мүмкіндігін келесі арқылы іске қосу:
 preferences-doh-expand-section =
     .tooltiptext = Көбірек ақпарат
+preferences-doh-setting-default =
+    .label = Қалыпты қорғаныс
+    .accesskey = л
 preferences-doh-default-detailed-desc-3 = Мүмкін болса, жергілікті провайдерді пайдалану
+preferences-doh-setting-enabled =
+    .label = Жақсартылған қорғаныс
+    .accesskey = а
 preferences-doh-enabled-detailed-desc-1 = Сіз тандаған провайдерді пайдалану
 preferences-doh-setting-strict =
     .label = Максималды қорғаныс
