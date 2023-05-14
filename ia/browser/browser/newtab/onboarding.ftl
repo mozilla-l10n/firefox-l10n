@@ -369,10 +369,10 @@ mr2022-onboarding-colorway-description-innovator = <b>Tu es un Innovator.</b> Tu
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Passa de portabile a telephono e retro ancora
+mr2022-onboarding-mobile-download-title = Passa de portabile a telephono e vice versa
 mr2022-onboarding-mobile-download-subtitle = Prende le schedas de un apparato e continua ubi tu lassava sur un altere. Synchronisa tu marcapaginas e contrasignos ubicunque tu usa { -brand-product-name }.
-mr2022-onboarding-mobile-download-cta-text = Scande le codice QR pro haber { -brand-product-name } sur tu apparato mobile o <a data-l10n-name="download-label">invia a te mesme un ligamine de discargamento.</a>
-mr2022-onboarding-no-mobile-download-cta-text = Scande le codice QR pro haber { -brand-product-name } sur tu apparato mobile.
+mr2022-onboarding-mobile-download-cta-text = Scanna le codice QR pro haber { -brand-product-name } sur tu apparato mobile o <a data-l10n-name="download-label">invia te un ligamine de discargamento.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Scanna le codice QR pro haber { -brand-product-name } sur tu apparato mobile.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
