@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Fjarlægja forritsauka
 unified-extensions-context-menu-report-extension =
     .label = Kvarta yfir forritsauka
+unified-extensions-context-menu-move-widget-up =
+    .label = Færa upp
+unified-extensions-context-menu-move-widget-down =
+    .label = Færa niður
