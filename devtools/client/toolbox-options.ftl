@@ -42,7 +42,7 @@ options-inspector-draggable-properties-tooltip =
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Usar resaltadores más simples con prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
-    .title = Activaresaltadores simplificados cuando se habilita prefers-reduced-motion. Dibuja líneas en lugar de rectángulos rellenos alrededor de los elementos resaltados para evitar efectos de parpadeo.
+    .title = Activar resaltadores simplificados cuando se habilita prefers-reduced-motion. Dibuja líneas en lugar de rectángulos rellenos alrededor de los elementos resaltados para evitar efectos de parpadeo.
 
 ## "Default Color Unit" options for the Inspector
 
