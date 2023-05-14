@@ -22,14 +22,17 @@ firefoxview-tabpickup-description = Abre páxinas doutros dispositivos.
 firefoxview-tabpickup-progress-label = { $percentValue }% completado
 firefoxview-tabpickup-step-signin-header = Cambiar sen problemas entre dispositivos
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-tabpickup-adddevice-description = Descargar { -brand-product-name } para móbil e iniciar sesión alí.
 firefoxview-tabpickup-adddevice-learn-how = Aprender como
 firefoxview-tabpickup-adddevice-primarybutton = Obter { -brand-product-name } para móbiles
 firefoxview-tabpickup-synctabs-header = Activar a sincronización de lapelas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta lapelas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprender como
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar as lapelas abertas
+firefoxview-tabpickup-fxa-admin-disabled-header = A súa organización desactivou a sincronización
 firefoxview-tabpickup-network-offline-header = Comprobe a súa conexión a internet
 firefoxview-tabpickup-network-offline-primarybutton = Tentar de novo
+firefoxview-tabpickup-sync-error-header = Temos problemas para sincronizar
 firefoxview-tabpickup-sync-error-primarybutton = Tentar de novo
 firefoxview-tabpickup-sync-disconnected-header = Activar a sincronización para continuar
 firefoxview-tabpickup-sync-disconnected-primarybutton = Activar a sincronización na configuración
@@ -40,6 +43,10 @@ firefoxview-tabpickup-signed-out-header = Identifíquese para reconectar
 firefoxview-tabpickup-signed-out-primarybutton = Acceder
 firefoxview-mobile-confirmation-header = 🎉 Listo!
 firefoxview-closed-tabs-title = Pechadas recentemente
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Descartar { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Última activa
 # Variables:
@@ -48,3 +55,12 @@ firefoxview-tabs-list-tab-button =
     .title = Abrir { $targetURI } nunha nova lapela
 firefoxview-try-colorways-button = Probar combinacións de cores
 firefoxview-change-colorway-button = Cambiar a combinación de cores
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Nada que ver aínda
+firefoxview-collapse-button-show =
+    .title = Mostrar a lista
+firefoxview-collapse-button-hide =
+    .title = Agochar a lista
