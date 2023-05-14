@@ -15,6 +15,8 @@ about-logging-set-log-file = Ορισμός αρχείου καταγραφής
 about-logging-set-log-modules = Ορισμός μονάδων καταγραφής
 about-logging-start-logging = Έναρξη καταγραφής
 about-logging-stop-logging = Τερματισμός καταγραφής
+about-logging-buttons-disabled = Η καταγραφή διαμορφώθηκε μέσω μεταβλητών περιβάλλοντος, η δυναμική διαμόρφωση δεν είναι διαθέσιμη.
+about-logging-some-elements-disabled = Η καταγραφή διαμορφώθηκε μέσω URL, ορισμένες επιλογές δεν είναι διαθέσιμες
 about-logging-info = Πληροφορίες:
 about-logging-log-modules-selection = Επιλογή μονάδας καταγραφής
 about-logging-new-log-modules = Νέες μονάδες καταγραφής:
@@ -32,6 +34,7 @@ about-logging-preset-networking-description = Μονάδες καταγραφή�
 about-logging-preset-media-playback-label = Αναπαραγωγή πολυμέσων
 about-logging-preset-media-playback-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων αναπαραγωγής πολυμέσων (όχι ζητημάτων τηλεδιασκέψεων)
 about-logging-preset-custom-label = Προσαρμοσμένο
+about-logging-preset-custom-description = Οι μονάδες καταγραφής επιλέχθηκαν χειροκίνητα
 # Error handling
 about-logging-error = Σφάλμα:
 
