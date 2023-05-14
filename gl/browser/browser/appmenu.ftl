@@ -187,6 +187,9 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Predefinido para investigar erros de rede en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Enerxía
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
