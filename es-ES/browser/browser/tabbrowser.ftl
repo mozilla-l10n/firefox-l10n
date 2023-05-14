@@ -135,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Restaurar sonido en pestañas
     .accesskey = R
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Reproduciendo audio
 
 ## Ctrl-Tab dialog
 
