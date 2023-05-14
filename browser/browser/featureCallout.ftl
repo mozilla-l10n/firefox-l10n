@@ -9,13 +9,29 @@ callout-primary-complete-button-label = Entendín!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Saltar entre dispositivos levando as súas lapelas
 callout-firefox-view-colorways-title = Engadir un toque de cor
+callout-firefox-view-colorways-reminder-title = Explorar as nosas últimas combinacións de cores
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Mellore a súa navegación coa recollida de lapelas
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Comezar
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Editar PDF coa nosa nova ferramenta de texto
+callout-pdfjs-edit-body-a = Encher formularios, engadir comentarios, ou tomar notas directamente en { -brand-short-name }.
+callout-pdfjs-edit-body-b = Non se moleste en buscar editores gratuítos en internet. Encha formularios, engada comentarios ou tome notas directamente en { -brand-short-name }.
 callout-pdfjs-edit-button = Seguinte
+callout-pdfjs-draw-title = Asinar documentos coa nosa nova ferramenta de debuxo
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Facer anotacións nos PDF e gardar os cambios.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Non máis impresión e dixitalización. Faga anotacións nos PDF e garde os cambios.
 callout-pdfjs-draw-button = Entendín!
