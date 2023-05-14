@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = Estás ao día!
 newtab-pocket-last-card-desc = Volva máis tarde para ver máis.
 newtab-pocket-last-card-image =
     .alt = Estás ao día
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Gardar
+newtab-pocket-saved = Gardado
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -266,6 +269,7 @@ newtab-custom-sponsored-sites = Atallos patrocinados
 newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contido excepcional patrocinado por { -pocket-brand-name }, parte da familia { -brand-product-name }
 newtab-custom-pocket-sponsored = Historias patrocinadas
+newtab-custom-pocket-show-recent-saves = Mostrar o gardado recentemente
 newtab-custom-recent-title = Actividade recente
 newtab-custom-recent-subtitle = Unha selección de sitios e contido recentes
 newtab-custom-close-button = Pechar

@@ -31,9 +31,11 @@ return-to-amo-subtitle = Ben, xa ten o { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Agora imos obter <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Engadir a extensión
+return-to-amo-add-theme-label = Engadir o tema
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Saúde a { -brand-short-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -128,6 +130,7 @@ mr1-onboarding-theme-label-light = Claro
 mr1-onboarding-theme-label-dark = Escuro
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Feito
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -220,16 +223,37 @@ mr2-onboarding-start-browsing-button-label = Iniciar a navegación
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-header = Escolla o seu idioma
+mr2022-onboarding-live-language-text = { -brand-short-name } fala o seu idioma
 onboarding-live-language-secondary-cancel-download = Cancelar
+onboarding-live-language-skip-button-label = Saltar
 
 ## Firefox 100 Thank You screens
 
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Manter { -brand-short-name } na doca
+       *[other] Fixar { -brand-short-name } na barra de tarefas
+    }
+fx100-upgrade-thanks-header = 100 grazas
+mr2022-onboarding-secondary-skip-button-label = Saltar este paso
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Gardar e continuar
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Establecer { -brand-short-name } como navegador predeterminado
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importar desde un navegador anterior
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Abrir unha internet incríbel
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -241,15 +265,36 @@ onboarding-live-language-secondary-cancel-download = Cancelar
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Configurar en segundos
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde un navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Escolla a cor que o inspire
+mr2022-onboarding-colorway-primary-button-label-continue = Estabelecer e continuar
+mr2022-onboarding-colorway-label-default = Predeterminado
+mr2022-onboarding-colorway-label-playmaker = Busca-xogadas
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Busca-xogadas (vermello)
+mr2022-onboarding-colorway-label-expressionist = Expresionista
+mr2022-onboarding-colorway-label-visionary = Visionario
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Visionario (verde)
+mr2022-onboarding-colorway-label-activist = Activista
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Activista (azul)
+mr2022-onboarding-colorway-label-dreamer = Soñador
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Soñador (violeta)
+mr2022-onboarding-colorway-label-innovator = Innovador
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Innovador (laranxa)
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -263,9 +308,13 @@ onboarding-live-language-secondary-cancel-download = Cancelar
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Vexa as novidades
+mr2022-onboarding-gratitude-secondary-button-label = Iniciar a navegación
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Síntase como na casa
+onboarding-infrequent-import-primary-button = Importar a { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech

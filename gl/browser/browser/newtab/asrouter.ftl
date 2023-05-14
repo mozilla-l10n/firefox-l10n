@@ -247,6 +247,7 @@ fox-doodle-pin-secondary = Agora non
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Os seus PDF agora ábrense en { -brand-short-name }.</strong> Edite ou asine formularios directamente no seu navegador. Para cambiar, busque «PDF» na configuración.
 set-default-pdf-handler-primary = Entendido
 
 ## FxA sync CFR
