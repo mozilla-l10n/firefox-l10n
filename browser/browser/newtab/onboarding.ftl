@@ -36,6 +36,8 @@ return-to-amo-add-theme-label = Engadir o tema
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Saúde a { -brand-short-name }
+mr1-return-to-amo-addon-title = Ten un navegador rápido e privado ao seu alcance. Agora pode engadir <b>{ $addon-name }</b> e facer aínda máis con { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Engadir { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -64,6 +66,8 @@ mr1-onboarding-welcome-image-caption = Soraya Osorio — Deseñadora de mobiliar
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progreso: paso { $actual } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desactivar animacións
 
@@ -225,17 +229,38 @@ mr2-onboarding-start-browsing-button-label = Iniciar a navegación
 
 onboarding-live-language-header = Escolla o seu idioma
 mr2022-onboarding-live-language-text = { -brand-short-name } fala o seu idioma
+mr2022-language-mismatch-subtitle = Grazas á nosa comunidade, { -brand-short-name } está traducido a máis de 90 idiomas. Parece que o seu sistema está a usar { $systemLanguage } e { -brand-short-name } está a usar { $appLanguage }.
+onboarding-live-language-button-label-downloading = Descargando o paquete de idioma para { $negotiatedLanguage }…
+onboarding-live-language-waiting-button = Obtendo os idiomas dispoñíbeis…
+onboarding-live-language-installing = Instalando o paquete de idioma para { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = Cambiar a { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Continuar en { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Cancelar
 onboarding-live-language-skip-button-label = Saltar
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    grazas
+    <span data-l10n-name="zap">a vostede</span>
+fx100-thank-you-subtitle = É a nosa publicación número 100! Grazas por axudarnos a construír unha internet mellor e máis saudábel.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Manter { -brand-short-name } na doca
        *[other] Fixar { -brand-short-name } na barra de tarefas
     }
 fx100-upgrade-thanks-header = 100 grazas
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = É a nosa publicación número 100 de { -brand-short-name }. Grazas a <em>vostede</em> por axudarnos a construír unha internet mellor e máis saudábel.
 mr2022-onboarding-secondary-skip-button-label = Saltar este paso
 
 ## MR2022 New User Easy Setup screen strings
@@ -254,9 +279,17 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importar desde un navegador
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Abrir unha internet incríbel
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Manter { -brand-short-name } na doca
+       *[other] Fixar { -brand-short-name } na barra de tarefas
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Grazas por querer a { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -269,6 +302,7 @@ mr2022-onboarding-get-started-primary-button-label = Configurar en segundos
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuración ultrarrápida
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde un navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
@@ -277,12 +311,17 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde un
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Escolla a cor que o inspire
+mr2022-onboarding-colorway-subtitle = As voces independentes poden cambiar a cultura.
 mr2022-onboarding-colorway-primary-button-label-continue = Estabelecer e continuar
 mr2022-onboarding-colorway-label-default = Predeterminado
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Cores actuais de { -brand-short-name }
 mr2022-onboarding-colorway-label-playmaker = Busca-xogadas
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Busca-xogadas (vermello)
 mr2022-onboarding-colorway-label-expressionist = Expresionista
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Expresionista (amarelo)
 mr2022-onboarding-colorway-label-visionary = Visionario
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionario (verde)
