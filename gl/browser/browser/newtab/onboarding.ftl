@@ -344,6 +344,9 @@ mr2022-onboarding-colorway-tooltip-innovator2 =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Sempre respectamos a súa privacidade
+mr2022-onboarding-privacy-segmentation-button-primary-label = Usar as recomendacións de { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar información detallada
 
 ## MR2022 Multistage Gratitude screen strings
 
@@ -358,6 +361,8 @@ onboarding-infrequent-import-primary-button = Importar a { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Choque de mans de pel clara e escura
 
 ## Device migration onboarding
 
