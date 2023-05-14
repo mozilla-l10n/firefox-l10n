@@ -249,3 +249,19 @@ fox-doodle-pin-secondary = Ekki núna
 
 set-default-pdf-handler-headline = <strong>PDF-skjölin þín opnast nú í { -brand-short-name }.</strong> Breyttu eða undirritaðu eyðublöð beint í vafranum þínum. Til að breyta þessu skaltu leita „PDF“ í stillingunum.
 set-default-pdf-handler-primary = Ég skil!
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Nýtt tæki í framtíðinni?
+fxa-sync-cfr-body = Gakktu úr skugga um að nýjustu bókamerkin þín, lykilorðin og flipar fylgi þér í hvert skipti sem þú opnar nýjan { -brand-product-name }-vafra.
+fxa-sync-cfr-primary = Kanna nánar
+    .accesskey = K
+fxa-sync-cfr-secondary = Minna mig á seinna
+    .accesskey = M
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Notarðu eldra tæki?
+device-migration-fxa-spotlight-body = Taktu öryggisafrit af gögnunum þínum til að tryggja að þú glatir ekki mikilvægum upplýsingum, eins og bókamerkjum og lykilorðum - sérstaklega ef þú skiptir yfir í nýtt tæki.
+device-migration-fxa-spotlight-primary-button = Hvernig á að taka öryggisafrit af gögnunum mínum
+device-migration-fxa-spotlight-link = Minna mig á seinna
