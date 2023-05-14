@@ -15,6 +15,9 @@ permissions-address = Enderezo do sitio web
 permissions-block =
     .label = Bloquear
     .accesskey = B
+permissions-disable-etp =
+    .label = Engadir unha excepción
+    .accesskey = E
 permissions-session =
     .label = Permitir nesta sesión
     .accesskey = s
@@ -210,6 +213,9 @@ permissions-site-microphone-disable-desc = Isto evitará que os sitios web non l
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Configuración - Permisos de altofalantes
+    .style = { permissions-window2.style }
 permissions-exceptions-doh-window =
     .title = Excepcións de sitios web para DNS sobre HTTPS
     .style = { permissions-window2.style }

@@ -84,6 +84,21 @@ restart-later = Reiniciar máis tarde
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta opción.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta opción.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> necesita lapelas contedoras.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta opción.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla como { -brand-short-name } se conecta a internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -116,6 +131,11 @@ startup-restore-warn-on-quit =
     .label = Avísao cando deixe o navegador
 disable-extension =
     .label = Desactivar extensión
+preferences-data-migration-header = Importar datos do navegador
+preferences-data-migration-description = Importar marcadores, contrasinais, historial e datos de autocompletado a { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Importar datos
+    .accesskey = m
 tabs-group-header = Lapelas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab para alternar entre as lapelas segundo o seu uso recente
@@ -183,6 +203,27 @@ containers-remove-cancel-button = Non retirar este contedor
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma e aparencia
+preferences-web-appearance-header = Aspecto do sitio web
+preferences-web-appearance-choice-browser = Tema de { -brand-short-name }
+preferences-web-appearance-choice-system = Tema do sistema
+preferences-web-appearance-choice-auto = Automático
+preferences-web-appearance-choice-light = Claro
+preferences-web-appearance-choice-dark = Escuro
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = Cores
+preferences-colors-manage-button =
+    .label = Xestionar as cores…
+    .accesskey = c
+preferences-fonts-header = Tipos de letra
 default-font = Tipo de letra predeterminado
     .accesskey = d
 default-font-size = Tamaño
@@ -325,6 +366,12 @@ applications-use-os-default-label =
 
 ##
 
+applications-save-for-new-types =
+    .label = Gardar os ficheiros
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Preguntar se abrir ou gardar os ficheiros
+    .accesskey = a
 drm-content-header = Contido DRM (Digital Rights Management, Xestión de dereitos dixitais)
 play-drm-content =
     .label = Reproducir contido controlado por DRM
@@ -355,6 +402,9 @@ update-application-warning-cross-user-setting = Esta configuración aplicarase a
 update-application-use-service =
     .label = Usar un servizo en segundo plano para instalar as actualizacións
     .accesskey = g
+update-application-suppress-prompts =
+    .label = Mostrar menos mensaxes de notificación de actualización
+    .accesskey = n
 update-setting-write-failure-title2 = Produciuse un erro ao gardar a configuración da actualización
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -400,6 +450,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Utilizar desprazamento suave
     .accesskey = m
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Amosar sempre as barras de desprazamento
+    .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = Amosar un teclado táctil cando sexa necesario
     .accesskey = c
@@ -450,6 +503,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Páxina de inicio de Firefox (Predeterminada)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom =
     .label = URLs personalizados...
 home-mode-choice-blank =
@@ -475,6 +530,7 @@ choose-bookmark =
 
 home-prefs-content-header = Contido da páxina de inicio de Firefox
 home-prefs-content-description = Escolla o contido que quere na pantalla de inicio de Firefox.
+home-prefs-content-header2 = Contido de { -firefox-home-brand-name }
 home-prefs-search-header =
     .label = Busca na web
 home-prefs-shortcuts-header =
@@ -499,6 +555,8 @@ home-prefs-recommended-by-description-new = Contido excepcional patrocinado por 
 home-prefs-recommended-by-learn-more = Como funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Historias patrocinadas
+home-prefs-recommended-by-option-recent-saves =
+    .label = Mostrar o gardado recentemente
 home-prefs-highlights-option-visited-pages =
     .label = Páxinas visitadas
 home-prefs-highlights-options-bookmarks =
@@ -775,6 +833,7 @@ forms-breach-alerts =
     .label = Mostrar alertas sobre contrasinais de sitios web vulnerados
     .accesskey = b
 forms-breach-alerts-learn-more-link = Máis información
+relay-integration-learn-more-link = Máis información
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Completar automaticamente as contas e os contrasinais
@@ -883,6 +942,8 @@ sitedata-block-desc = Tipo de contido bloqueado
     .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Rastrexadores entre sitios
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Cookies de seguimento entre sitios
 sitedata-option-block-unvisited =
     .label = Cookies de sitios non visitados
 sitedata-option-block-all-third-party =
@@ -901,6 +962,10 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Redución do aviso de cookies
+cookie-banner-learn-more = Máis información
+forms-handle-cookie-banners =
+    .label = Reducir os avisos de cookies
 
 ## Privacy Section - Address Bar
 
@@ -925,7 +990,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motores de busca
     .accesskey = M
+addressbar-locbar-quickactions-option =
+    .label = Accións rápidas
+    .accesskey = r
 addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
+addressbar-quickactions-learn-more = Máis información
 
 ## Privacy Section - Content Blocking
 
