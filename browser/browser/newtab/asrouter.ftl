@@ -159,6 +159,14 @@ spotlight-total-cookie-protection-secondary-button = Agora non
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Unha internet mellor comeza con vostede
+spotlight-peace-mind-header = Encargámonos por vostede
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Manter na doca
+       *[other] Fixar na barra de tarefas
+    }
+spotlight-pin-secondary-button = Agora non
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -173,9 +181,19 @@ spotlight-total-cookie-protection-secondary-button = Agora non
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Lembrarmo máis tarde
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Probalo
+    .accesskey = P
+firefoxview-cfr-secondarybutton = Agora non
+    .accesskey = n
+firefoxview-cfr-header-v2 = Seguir onde o deixou
 
 ## Firefox View Spotlight
 
