@@ -778,6 +778,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = Н
     .buttonlabelextra2 = Қатъ кардани пайваст…
     .buttonaccesskeyextra2 = П
+sync-choose-dialog-subtitle = Тағйирот дар рӯйхати унсурҳои ҳамоҳангсозӣ ба ҳамаи дастгоҳҳои пайвастшудаи шумо ворид карда мешавад.
 sync-engine-bookmarks =
     .label = Хатбаракҳо
     .accesskey = Х
