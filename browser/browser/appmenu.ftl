@@ -187,6 +187,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Predefinido para investigar erros de rede en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
+profiler-popup-presets-power-description = Preestablecido para investigar erros no consumo eléctrico en { -brand-shorter-name }, con pouca sobrecarga.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Enerxía
@@ -227,6 +228,9 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = p
 appmenu-help-report-site-issue =
     .label = Informar dunha incidencia no sitio…
+appmenu-help-share-ideas =
+    .label = Compartir ideas e comentarios…
+    .accesskey = s
 appmenu-help-switch-device =
     .label = Cambiando a un dispositivo novo
 
