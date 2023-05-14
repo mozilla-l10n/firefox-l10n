@@ -76,6 +76,7 @@ firefoxview-change-colorway-button = Cambiar a combinación de cores
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Nada que ver aínda
+firefoxview-synced-tabs-placeholder-body = A próxima vez que abra unha páxina en { -brand-product-name } noutro dispositivo, atoparaa aquí como por arte de maxia.
 firefoxview-collapse-button-show =
     .title = Mostrar a lista
 firefoxview-collapse-button-hide =
