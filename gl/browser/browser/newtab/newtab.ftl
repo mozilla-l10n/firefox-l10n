@@ -119,7 +119,7 @@ newtab-privacy-modal-paragraph-2 =
     contido relevante, e inspeccionado antes, de patrocinadores selectos. Teña a certeza de que <strong> a súa navegación
     os datos nunca deixan a súa copia persoal de { -brand-product-name } </strong>: non a vemos nós e os nosos
     patrocinadores tampouco a ven.
-newtab-privacy-modal-link = Saiba como funciona a privacidade na nova lapela
+newtab-privacy-modal-link = Aprender como funciona a privacidade na nova lapela
 
 ##
 
