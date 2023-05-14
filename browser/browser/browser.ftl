@@ -43,6 +43,9 @@ browser-main-window-mac =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = Navegación privada de { -brand-shortcut-name }
 
 ##
 
@@ -259,6 +262,48 @@ quickactions-cmd-bookmarks = marcadores
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Borrar o historial
 quickactions-cmd-clearhistory = borrar o historial
+# Opens about:downloads page
+quickactions-downloads2 = Ver as descargas
+quickactions-cmd-downloads = descargas
+# Opens about:addons page in the extensions section
+quickactions-extensions = Xestionar as extensións
+quickactions-cmd-extensions = extensións
+# Opens the devtools web inspector
+quickactions-inspector2 = Abrir as ferramentas de desenvolvemento
+quickactions-cmd-inspector = inspector, desenvolvemento
+# Opens about:logins
+quickactions-logins2 = Xestionar os contrasinais
+quickactions-cmd-logins = credenciais, contrasinais
+# Opens about:addons page in the plugins section
+quickactions-plugins = Xestionar os engadidos
+quickactions-cmd-plugins = engadidos
+# Opens the print dialog
+quickactions-print2 = Imprimir a páxina
+quickactions-cmd-print = imprimir
+# Opens a new private browsing window
+quickactions-private2 = Abrir unha xanela privada
+quickactions-cmd-private = navegación privada
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Actualizar { -brand-short-name }
+quickactions-cmd-refresh = actualizar
+# Restarts the browser
+quickactions-restart = Reiniciar { -brand-short-name }
+quickactions-cmd-restart = reiniciar
+# Opens the screenshot tool
+quickactions-screenshot3 = Facer unha captura de pantalla
+quickactions-cmd-screenshot = captura de pantalla
+# Opens about:preferences
+quickactions-settings2 = Xestionar a configuración
+quickactions-cmd-settings = configuración, preferencias, opcións
+# Opens about:addons page in the themes section
+quickactions-themes = Xestionar os temas
+quickactions-cmd-themes = temas
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Actualizar { -brand-short-name }
+quickactions-cmd-update = actualizar
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Ver o código da páxina
+quickactions-cmd-viewsource = ver o código, código
 
 ## Bookmark Panel
 
@@ -482,6 +527,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Introduza os termos de busca
     .aria-label = Buscar nas lapelas
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Introduza os termos de busca
+    .aria-label = Accións de busca
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
