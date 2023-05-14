@@ -16,6 +16,7 @@ pocket-panel-saved-error-tag-length = As etiquetas está limitadas a 25 caracter
 pocket-panel-saved-error-only-links = Só se poden gardar ligazóns
 pocket-panel-saved-error-not-saved = Non se gardou a páxina
 pocket-panel-saved-error-no-internet = É necesario estar conectado á Internet para poder gardar en { -pocket-brand-name }. Conéctese á Internet e tente de novo.
+pocket-panel-saved-error-remove = Produciuse un erro ao intentar retirar a páxina.
 pocket-panel-saved-page-removed = Retirouse a páxina
 pocket-panel-saved-page-saved = Gardouse en { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Gardouse en { -pocket-brand-name }!
@@ -43,6 +44,7 @@ pocket-panel-signup-signup-firefox = Rexístrese con { -brand-product-name }
 pocket-panel-signup-tagline = Garde artigos e vídeos dende { -brand-product-name } para velos en { -pocket-brand-name } en calquera dispositivo, en calquera momento.
 pocket-panel-signup-tagline-story-one = Prema no botón { -pocket-brand-name } para gardar calquera artigo, vídeo ou páxina dende { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Véxao en { -pocket-brand-name } en calquera dispositivo, en calquera momento.
+pocket-panel-signup-cta-a-fix = O seu botón de gardar para internet.
 
 ## about:pocket-home panel
 
