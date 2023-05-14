@@ -42,9 +42,16 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Pechar
+about-private-browsing-promo-close-button =
+    .title = Pechar
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Liberdade de navegación privada cun só clic
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Adeus aos avisos de cookies!
+about-private-browsing-cookie-banners-promo-button = Reducir os avisos de cookies
