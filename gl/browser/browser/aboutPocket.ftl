@@ -61,6 +61,8 @@ pocket-panel-home-discover-more = Descubrir máis
 pocket-panel-home-explore-more = Explorar
 pocket-panel-home-most-recent-saves = Velaquí o último que gardou:
 pocket-panel-home-most-recent-saves-loading = Cargando o gardado recentemente…
+pocket-panel-home-new-user-cta = Prema o botón de { -pocket-brand-name } para gardar artigos, vídeos, e ligazóns.
+pocket-panel-home-new-user-message = Consulte aquí o último que gardou.
 
 ## Pocket panel header component
 
@@ -71,4 +73,5 @@ pocket-panel-header-sign-in = Acceder
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Mostralo todo
+pocket-panel-button-activate = Activar { -pocket-brand-name } en { -brand-product-name }
 pocket-panel-button-remove = Retirar
