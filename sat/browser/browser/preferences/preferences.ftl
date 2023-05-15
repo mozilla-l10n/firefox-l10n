@@ -240,6 +240,7 @@ preferences-web-appearance-override-warning = ᱟᱢᱟᱜ ᱨᱚᱝ ᱵᱟᱪ�
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } ᱛᱷᱤᱢ ᱫᱚ <a data-l10n-name="themes-link"> ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ</a> ᱨᱮ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 preferences-colors-header = ᱨᱚᱝ ᱠᱚ
+preferences-colors-description = { -brand-short-name }ᱦᱟᱜ ᱢᱩᱞ ᱚᱞ, ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱠᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱞᱤᱝᱠ ᱨᱮᱭᱟᱜ ᱨᱚᱝ ᱞᱟᱫᱮ ᱪᱮᱛᱟᱱ ᱞᱟᱫᱮ ᱢᱮ ᱾
 preferences-colors-manage-button =
     .label = ᱨᱚᱝ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ…
     .accesskey = C
@@ -267,9 +268,11 @@ choose-language-description = ᱥᱟᱦᱟᱴ ᱠᱚ ᱩᱫᱩᱜ ᱞᱟᱹᱜ�
 choose-button =
     .label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
     .accesskey = o
+choose-browser-language-description = { -brand-short-name } ᱠᱷᱚᱱ ᱫᱮᱠᱷᱟᱣ ᱢᱮᱱᱩ, ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱟᱨ ᱤᱛᱞᱟᱹᱭ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 manage-browser-languages-button =
     .label = ᱵᱚᱫᱚᱞ ᱛᱮᱭᱟᱜ ᱥᱮᱴ ᱢᱮ…
     .accesskey = l
+confirm-browser-language-change-description = ᱱᱚᱣᱟ ᱵᱚᱫᱚᱞ ᱠᱚ ᱮᱢ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱢᱮ
 confirm-browser-language-change-button = ᱮᱢ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱢᱮ
 translate-web-pages =
     .label = ᱣᱮᱵᱽ ᱡᱤᱱᱤᱥ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
@@ -281,6 +284,10 @@ translate-attribution = <img data-l10n-name="logo"/> ᱛᱮ ᱛᱚᱨᱡᱚᱢ�
 translate-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = “{ $localeName }” ᱨᱮᱭᱟᱜ ᱢᱟᱦᱟᱸ, ᱚᱠᱛᱚ, ᱮᱞ ᱟᱨ ᱢᱟᱯ ᱠᱚ ᱯᱷᱚᱨᱢᱟᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱥᱟᱡᱟᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
 check-user-spelling =
     .label = ᱚᱞ ᱚᱞ ᱛᱮ ᱟᱢᱟᱜ ᱜᱟᱵᱟᱱ ᱧᱮᱞ ᱢᱮ
     .accesskey = t
@@ -306,6 +313,7 @@ download-always-ask-where =
     .label = ᱨᱮᱫ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱡᱷᱚᱜ ᱜᱷᱤᱲ ᱜᱮ ᱠᱩᱠᱞᱤ ᱢᱮ
     .accesskey = A
 applications-header = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ
+applications-description = ᱵᱟᱪᱷᱟᱣ ᱢᱮ { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱨᱮᱫ ᱣᱮᱵᱽ ᱠᱷᱚᱱ ᱰᱟᱣᱱᱞᱚᱰ ᱠᱟᱱ ᱟᱨᱵᱟᱝ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱞᱟᱹᱜᱤᱫ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
 applications-filter =
     .placeholder = ᱨᱮᱫ ᱯᱨᱚᱠᱟᱨ ᱟᱨᱵᱟᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 applications-type-column =
