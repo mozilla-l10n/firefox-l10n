@@ -8,12 +8,30 @@
 
 ## Panel
 
+unified-extensions-header-title = Extensións
+unified-extensions-manage-extensions =
+    .label = Xestionar as extensións
 
 ## An extension in the main list
 
+# Each extension in the unified extensions panel (list) has a secondary button
+# to open a context menu. This string is used for each of these buttons.
+# Variables:
+#   $extensionName (String) - Name of the extension
+unified-extensions-item-open-menu =
+    .aria-label = Abrir o menú de { $extensionName }
+unified-extensions-item-message-manage = Xestionar a extensión
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Fixar na barra de ferramentas
+unified-extensions-context-menu-manage-extension =
+    .label = Xestionar a extensión
+unified-extensions-context-menu-remove-extension =
+    .label = Retirar a extensión
+unified-extensions-context-menu-report-extension =
+    .label = Denunciar a extensión
 unified-extensions-context-menu-move-widget-up =
     .label = Subir
 unified-extensions-context-menu-move-widget-down =
