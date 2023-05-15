@@ -29,6 +29,12 @@ about-glean-interface-description =
 about-glean-upload-enabled = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη.
 about-glean-upload-disabled = Η μεταφόρτωση δεδομένων είναι απενεργοποιημένη.
 about-glean-upload-enabled-local = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη μόνο για αποστολή σε τοπικό διακομιστή.
+about-glean-upload-fake-enabled =
+    Η μεταφόρτωση δεδομένων έχει απενεργοποιηθεί,
+    αλλά λέμε ψέματα στο { glean-sdk-brand-name } ότι είναι ενεργή,
+    ώστε τα δεδομένα να εξακολουθούν να καταγράφονται τοπικά.
+    Σημείωση: Εάν ορίσετε μια ετικέτα ελέγχου σφαλμάτων, τα ping θα μεταφορτώνονται στο
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> ανεξαρτήτως των ρυθμίσεων.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Οι σχετικές <a data-l10n-name="fog-prefs-and-defines-doc-link">προτιμήσεις και ορισμοί</a> περιλαμβάνουν:
 # Variables:
