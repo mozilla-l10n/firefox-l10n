@@ -11,6 +11,10 @@ mztabrow-date = { DATETIME($date, dateStyle: "short") }
 #   $time (string) - Time to be formatted based on locale
 mztabrow-time = { DATETIME($time, timeStyle: "short") }
 # Variables:
+#   $targetURI (string) - URL of tab that will be opened in the new tab
+mztabrow-tabs-list-tab =
+    .title = { $targetURI } adresini yeni sekmede aç
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 mztabrow-dismiss-tab-button =
     .title = { $tabTitle } sekmesini kapat
@@ -26,6 +30,8 @@ mztabrow-forget-about-this-site = Bu siteyi unut…
     .accesskey = u
 mztabrow-open-in-window = Yeni pencerede aç
     .accesskey = Y
+mztabrow-open-in-private-window = Yeni gizli pencerede aç
+    .accesskey = z
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 mztabrow-add-bookmark = Yer imlerine ekle…
     .accesskey = Y
