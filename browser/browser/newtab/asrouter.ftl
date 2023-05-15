@@ -262,6 +262,6 @@ fxa-sync-cfr-secondary = Later herinneren
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Gebruikt u een ouder apparaat?
-device-migration-fxa-spotlight-body = Maak een back-up van uw gegevens om ervoor te zorgen dat u geen belangrijke informatie zoals bladwijzers en wachtwoorden kwijtraakt, vooral als u overschakelt naar een nieuw apparaat.
+device-migration-fxa-spotlight-body = Maak een back-up van uw gegevens om ervoor te zorgen dat u geen belangrijke informatie, zoals bladwijzers en wachtwoorden kwijtraakt, vooral als u overschakelt naar een nieuw apparaat.
 device-migration-fxa-spotlight-primary-button = Hoe maak ik een back-up van mijn gegevens
 device-migration-fxa-spotlight-link = Later herinneren
