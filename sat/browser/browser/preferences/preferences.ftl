@@ -618,13 +618,33 @@ search-bar-shown =
 search-engine-default-header = ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
 search-engine-default-desc-2 = ᱱᱚᱶᱟ ᱫᱚ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱵᱟᱨ ᱨᱮ ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱫᱚ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 search-engine-default-private-desc-2 = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱷᱮᱜᱟᱨ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+search-separate-default-engine =
+    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚ ᱨᱮᱜᱮ ᱱᱚᱶᱟ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = U
 search-suggestions-header = ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+search-suggestions-desc = ᱵᱟᱪᱷᱟᱣᱢᱮ ᱡᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱟᱛᱟᱣᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱠᱷᱚᱱ ᱦᱟᱹᱡᱩᱜ ᱠᱟᱱᱟ ᱾
 search-suggestions-option =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱫᱤᱥ ᱠᱚ ᱩᱫᱩᱜ
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱛᱮᱞᱟ ᱨᱮ ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱱᱡᱤᱱ ᱨᱮᱭᱟᱜ ᱛᱮᱞᱟ ᱥᱟᱦᱴᱟ ᱨᱮ URL ᱵᱮᱜᱚᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱛᱮᱞᱟ ᱨᱮ ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱢᱟᱲᱟᱝ ᱨᱮ
 search-show-suggestions-private-windows =
     .label = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 suggestions-addressbar-settings-generic2 = ᱮᱴᱟᱜ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱥᱩᱡᱷᱟᱹᱣ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
+search-suggestions-cant-show = ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟ ᱫᱚ ᱡᱟᱭᱜᱟ ᱵᱟᱨ ᱛᱟᱞᱟ ᱨᱮ ᱵᱟᱭ ᱫᱮᱠᱷᱟᱣᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱥᱮ { -brand-short-name } ᱫᱚ ᱦᱤᱛᱟᱹᱞ ᱟᱞᱚ ᱩᱭᱦᱟᱹᱨ ᱞᱟᱹᱜᱤᱫ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱵᱟᱛᱟᱣ ᱠᱟᱱᱟ ᱾
 search-one-click-header2 = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 search-choose-engine-column =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
