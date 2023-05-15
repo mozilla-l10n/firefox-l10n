@@ -290,9 +290,16 @@ mr2022-onboarding-pin-primary-button-label =
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Grazas por querer a { -brand-product-name }
+mr2022-onboarding-existing-pin-checkbox-label = Engada tamén a navegación privada de { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Faga de { -brand-short-name } o seu navegador de referencia
+mr2022-onboarding-set-default-primary-button-label = Faga { -brand-short-name } o seu navegador predeterminado
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Use un navegador apoiado por unha organización sen ánimo de lucro. Defendemos a súa privacidade mentres percorre a web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -313,9 +320,11 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde un
 mr2022-onboarding-colorway-title = Escolla a cor que o inspire
 mr2022-onboarding-colorway-subtitle = As voces independentes poden cambiar a cultura.
 mr2022-onboarding-colorway-primary-button-label-continue = Estabelecer e continuar
+mr2022-onboarding-existing-colorway-checkbox-label = Faga de { -firefox-home-brand-name } a súa páxina de inicio colorida
 mr2022-onboarding-colorway-label-default = Predeterminado
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Cores actuais de { -brand-short-name }
+mr2022-onboarding-colorway-description-default = <b>Usar as miñas cores actuais de { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Busca-xogadas
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Busca-xogadas (vermello)
@@ -337,10 +346,13 @@ mr2022-onboarding-colorway-tooltip-innovator2 =
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Saltar entre o portátil e o teléfono
+mr2022-onboarding-no-mobile-download-cta-text = Escanear o código QR para obter { -brand-product-name } para móbil.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Obter liberdade de navegación privada cun só clic
 
 ## MR2022 Privacy Segmentation screen strings
 
@@ -350,6 +362,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar informac
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Está a axudarnos a construír unha web mellor
 mr2022-onboarding-gratitude-primary-button-label = Vexa as novidades
 mr2022-onboarding-gratitude-secondary-button-label = Iniciar a navegación
 
@@ -361,6 +374,8 @@ onboarding-infrequent-import-primary-button = Importar a { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persoa que abraza o logotipo de { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Choque de mans de pel clara e escura
 
