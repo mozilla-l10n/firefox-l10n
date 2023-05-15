@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = ᱣᱮᱵᱥᱟᱭᱤᱴ “ᱚᱞᱚᱢ ᱜᱷᱮᱨ ᱮᱥᱮᱫ” ᱥᱤᱜᱱᱟᱞ ᱮᱢᱟ ᱠᱚᱢ ᱚᱠᱚᱭ ᱟᱢ ᱵᱟᱝ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ
 do-not-track-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+do-not-track-option-default-content-blocking-known =
+    .label = ᱠᱷᱟᱹᱞᱤ ᱩᱱ ᱡᱷᱚᱜ ᱚᱠᱟᱨᱮ { -brand-short-name } ᱫᱚ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱜ ᱵᱞᱚᱠᱮᱫ ᱠᱚᱣᱟᱭ ᱾
 do-not-track-option-always =
     .label = ᱡᱟᱣᱜᱮ
 settings-page-title = ᱥᱟᱡᱟᱣ ᱠᱚ
@@ -17,6 +20,7 @@ settings-page-title = ᱥᱟᱡᱟᱣ ᱠᱚ
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = ᱥᱟᱡᱟᱣ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
+managed-notice = ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱟᱢ ᱜᱟᱶᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱮᱫᱟᱭ ᱾
 category-list =
     .aria-label = ᱛᱷᱚᱠᱠᱚ
 pane-general-title = ᱥᱟᱫᱷᱟᱨᱚᱱ
@@ -39,6 +43,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱥ ᱠᱚ
 pane-experimental-subtitle = ᱦᱩᱥᱤᱭᱟᱹᱨ ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
 pane-experimental-search-results-header = { -brand-short-name } ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱥ ᱠᱚ ᱺ ᱦᱩᱥᱤᱭᱟᱹᱨ ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
+pane-experimental-description2 = ᱮᱰᱵᱷᱟᱱᱥ ᱠᱚᱱᱯᱷᱮᱜᱩᱨᱮᱥᱚᱱ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱨᱮᱭᱟᱜ ᱚᱥᱚᱨ ᱫᱚ { -brand-short-name }ᱦᱟᱜ ᱠᱟᱹᱢᱤ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱪᱮᱛᱟᱱ ᱨᱮ ᱯᱟᱲᱟᱣᱜᱼᱟ ᱾
 pane-experimental-reset =
     .label = ᱢᱩᱞ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
     .accesskey = R
@@ -91,6 +96,15 @@ extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱡᱷᱟᱣ ᱠᱚ ᱠᱚᱵᱡᱟᱭᱟᱭ ᱾
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> ᱠᱚᱵᱽᱡᱟᱭᱟᱭ ᱡᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟᱛᱮ { -brand-short-name } ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣᱜᱼᱟᱭ ᱾
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱮᱢ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ <img data-l10n-name="addons-icon"/>ᱮᱰ-ᱚᱱ<img data-l10n-name="menu-icon"/> ᱢᱮᱱᱩ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
 
 ## Preferences UI Search Results
 

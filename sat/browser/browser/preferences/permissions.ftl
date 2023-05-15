@@ -195,14 +195,33 @@ permissions-site-camera-window2 =
 permissions-site-camera-desc = ᱱᱚᱶᱟ ᱠᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢ ᱴᱷᱮᱱ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱱᱮᱦᱚᱨ ᱮᱫᱟ ᱾ ᱟᱢ ᱮᱢ ᱵᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱚᱠᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾ ᱟᱢ ᱫᱚ ᱟᱠᱚᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱠᱚ ᱥᱮ ᱠᱟᱱᱟ ᱾
 permissions-site-camera-disable-label =
     .label = ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱱᱟᱶᱟ ᱱᱮᱦᱚᱨ ᱠᱚ ᱢᱟᱱᱟᱭ ᱢᱮ
+permissions-site-camera-disable-desc = ᱱᱟᱶᱟ ᱫᱚ ᱡᱟᱦᱟᱸ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱚᱱᱟ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨᱵᱟᱹᱱᱩᱜᱼᱟ ᱩᱱᱠᱩ ᱠᱚ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱵᱟᱠᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱟᱠᱚᱴ ᱞᱮᱠᱷᱟᱱ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱯᱷᱤᱪᱚᱨ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱭᱟᱭ ᱾
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = ᱥᱟᱡᱟᱣ - ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱚᱠ
+    .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = ᱥᱟᱡᱟᱣ - ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱚᱠ
+    .style = { permissions-window2.style }
+permissions-site-microphone-desc = ᱱᱚᱶᱟ ᱠᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢ ᱴᱷᱮᱱ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱱᱮᱦᱚᱨ ᱮᱫᱟ ᱾ ᱟᱢ ᱮᱢ ᱵᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱚᱠᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱟᱫᱮᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾ ᱟᱢ ᱫᱚ ᱟᱠᱚᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱟᱫᱮᱨ ᱵᱟᱠᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+permissions-site-microphone-disable-label =
+    .label = ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱟᱫᱮᱨ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱱᱟᱶᱟ ᱱᱮᱦᱚᱨ ᱠᱚ ᱢᱟᱱᱟᱭ ᱢᱮ
+permissions-site-microphone-disable-desc = ᱱᱟᱶᱟ ᱫᱚ ᱡᱟᱦᱟᱸ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱚᱱᱟ ᱞᱤᱥᱴᱤᱨᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱩᱱᱠᱩ ᱠᱚ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱟᱫᱮᱨ ᱵᱟᱠᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱟᱫᱮᱨ ᱟᱠᱚᱴ ᱞᱮᱠᱷᱟᱱ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱯᱷᱤᱪᱚᱨ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱭᱟᱭ ᱾
 
 ## Site Permissions - Speaker
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = ᱥᱟᱡᱟᱣ ᱠᱚ - ᱥᱯᱤᱠᱚᱨ ᱦᱚᱠ
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = ᱱᱚᱶᱟ ᱠᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱥᱮᱰᱮ ᱥᱟᱫᱷᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱱᱮᱦᱚᱨ ᱮᱫᱟ ᱾ ᱟᱢ ᱫᱚ ᱚᱠᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱵᱷᱵᱟᱨ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱚᱱᱟ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+permissions-exceptions-doh-window =
+    .title = DNS ᱪᱮᱛᱟᱱ ᱨᱮ HTTPS ᱵᱟᱠᱷᱨᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱪᱷᱟᱲ
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ DNS ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱥᱚᱵᱽᱰᱚᱢᱮᱱ ᱨᱮ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱟᱭ ᱾
 permissions-doh-entry-field = ᱣᱮᱵᱽᱥᱟᱭᱤ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
     .accesskey = d
 permissions-doh-add-exception =
