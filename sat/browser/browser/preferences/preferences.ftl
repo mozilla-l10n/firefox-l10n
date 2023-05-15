@@ -215,6 +215,14 @@ preferences-web-appearance-choice-light = ᱢᱟᱨᱥᱟᱞ
 preferences-web-appearance-choice-dark = ᱧᱩᱛ
 preferences-web-appearance-choice-tooltip-browser =
     .title = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱡᱤᱱᱤᱥ ᱟᱢᱟᱜ { -brand-short-name } ᱛᱷᱤᱢ ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱾
+preferences-web-appearance-choice-tooltip-system =
+    .title = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱠᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱡᱤᱱᱤᱥ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱲᱟᱣ ᱢᱮ ᱾
+preferences-web-appearance-choice-tooltip-auto =
+    .title = ᱟᱢᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱥᱟᱡᱟᱣ ᱟᱨ { -brand-short-name } ᱛᱷᱤᱢ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱟᱡ ᱛᱮ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
+preferences-web-appearance-choice-tooltip-light =
+    .title = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱡᱤᱱᱤᱥ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱥᱟᱞ ᱧᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+preferences-web-appearance-choice-tooltip-dark =
+    .title = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱡᱤᱱᱤᱥ ᱞᱟᱹᱜᱤᱫ ᱧᱩᱛ ᱧᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -225,6 +233,12 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = ᱟᱢᱟᱜ ᱨᱚᱝ ᱵᱟᱪᱷᱟᱣ ᱠᱚ ᱫᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱧᱮᱞ ᱨᱮ ᱢᱮᱥᱟᱜ ᱠᱟᱱᱟ ᱾ <a data-l10n-name="colors-link">ᱨᱚᱝ ᱢᱮᱱᱮᱡᱽ ᱢᱮ</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = { -brand-short-name } ᱛᱷᱤᱢ ᱫᱚ <a data-l10n-name="themes-link"> ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ</a> ᱨᱮ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 preferences-colors-header = ᱨᱚᱝ ᱠᱚ
 preferences-colors-manage-button =
     .label = ᱨᱚᱝ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ…
