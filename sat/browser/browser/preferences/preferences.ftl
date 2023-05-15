@@ -769,6 +769,20 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = ᱚᱠᱟ ᱥᱭᱝᱠ ᱨᱮᱭᱟᱜ ᱛᱟᱦᱮᱸᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = ᱵᱚᱫᱚᱞ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = ᱡᱩᱲᱟᱹᱣ ᱨᱟᱹᱯᱩᱫ ᱮᱱᱟ…
+    .buttonaccesskeyextra2 = D
+sync-choose-what-to-sync-dialog3 =
+    .title = ᱚᱠᱟ ᱥᱭᱝᱠ ᱨᱮᱭᱟᱜ ᱛᱟᱦᱮᱸᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .style = min-width: 36em;
+    .buttonlabelaccept = ᱵᱚᱫᱚᱞᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = ᱡᱩᱲᱟᱹᱣ ᱨᱟᱹᱯᱩᱫ ᱮᱱᱟ…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
     .accesskey = m
