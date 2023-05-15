@@ -400,6 +400,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 update-application-title = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ
+update-application-description = ᱵᱮᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ, ᱥᱴᱮᱵᱚᱞ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱱᱚᱶᱟ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ᱵᱷᱚᱨᱥᱚᱱ { $version } <a data-l10n-name="learn-more">ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜᱼᱟ</a>
@@ -419,6 +420,7 @@ update-application-manual =
 update-application-background-enabled =
     .label = ᱚᱠᱟ ᱡᱷᱚᱜ { -brand-short-name } ᱫᱚ ᱵᱟᱭ ᱫᱟᱹᱲ ᱮᱫᱟᱭ
     .accesskey = W
+update-application-warning-cross-user-setting = ᱱᱚᱶᱟ ᱥᱟᱡᱟᱣ ᱫᱚ ᱡᱷᱚᱛᱚ ᱣᱤᱱᱰᱚ ᱠᱷᱟᱛᱟ ᱟᱨ { -brand-short-name } ᱢᱚᱦᱚᱨ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱱᱚᱶᱟ ᱵᱚᱦᱟᱞ ᱵᱮᱵᱷᱟᱨᱟᱭ ᱾
 update-application-use-service =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱚᱱᱚᱲ ᱠᱟᱹᱢᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = b
@@ -426,6 +428,11 @@ update-application-suppress-prompts =
     .label = ᱠᱚᱢ ᱴᱟᱴᱠᱟ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accesskey = n
 update-setting-write-failure-title2 = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱟᱡᱟᱣ ᱥᱟᱺᱪᱟᱣ ᱡᱷᱚᱜᱽ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 = { -brand-short-name } ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱰᱤᱜᱟᱹᱣ ᱧᱟᱢ ᱠᱮᱜᱼᱟᱭ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱚ ᱵᱟᱭ ᱥᱟᱺᱪᱟᱣ ᱞᱮᱱᱟ ᱾ ᱵᱟᱲᱟᱭ ᱠᱟᱜ ᱢᱮ ᱡᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱫᱚ ᱨᱮᱫ ᱨᱮ ᱚᱞ ᱟᱫᱮᱨ ᱦᱚᱠ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱥᱮ ᱢᱤᱫ
 update-in-progress-title = ᱦᱟᱹᱞᱤᱭᱟᱜ ᱞᱟᱦᱟᱜ ᱠᱟᱱᱟ
 update-in-progress-message = ᱟᱢ ᱫᱚ ᱪᱮᱫ ᱱᱚᱶᱟ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱛᱮ { -brand-short-name } ᱪᱟᱹᱞᱩ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
 update-in-progress-ok-button = ᱵᱟᱹᱨᱜᱤᱞ
