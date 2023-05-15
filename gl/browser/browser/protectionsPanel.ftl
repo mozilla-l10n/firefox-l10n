@@ -103,4 +103,16 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = Redución do aviso de cookies
+protections-panel-cookie-banner-handling-enabled = Activado para este sitio
+protections-panel-cookie-banner-handling-disabled = Desactivado para este sitio
+protections-panel-cookie-banner-handling-undetected = Sitio actualmente non soportado
+protections-panel-cookie-banner-view-title =
+    .title = Redución do aviso de cookies
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Desactivar a redución do aviso de cookies para { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Activar a redución do aviso de cookies para este sitio?
 protections-panel-cookie-banner-view-cancel = Cancelar
+protections-panel-cookie-banner-view-turn-off = Desactivar
+protections-panel-cookie-banner-view-turn-on = Activar
