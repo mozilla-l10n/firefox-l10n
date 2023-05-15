@@ -488,12 +488,22 @@ browsing-picture-in-picture-toggle-enabled =
     .label = ᱪᱤᱛᱟᱹᱨ ᱵᱷᱤᱛᱤᱨ ᱪᱤᱛᱟᱹᱨ ᱣᱤᱰᱤᱭᱚ ᱠᱚᱵᱚᱡᱽ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
     .accesskey = E
 browsing-picture-in-picture-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+browsing-media-control =
+    .label = ᱠᱟᱹᱴᱷᱤᱵᱚᱰ, ᱦᱮᱰᱥᱮᱴ ᱥᱮ ᱣᱟᱹᱯᱪᱩᱣᱟᱹᱞ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ ᱛᱮ ᱢᱤᱰᱤᱭᱟ ᱠᱚᱵᱚᱡᱽ ᱢᱮ
+    .accesskey = v
 browsing-media-control-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+browsing-cfr-recommendations =
+    .label = ᱵᱽᱨᱟᱣᱡᱽ ᱥᱟᱶ ᱛᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱟᱛᱟᱣᱟᱢᱟᱭ
+    .accesskey = R
+browsing-cfr-features =
+    .label = ᱵᱽᱨᱟᱣᱡᱽ ᱥᱟᱶ ᱛᱮ ᱯᱷᱤᱪᱚᱨ ᱠᱚ ᱵᱟᱛᱟᱣᱟᱢᱟᱭ
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## General Section - Proxy
 
 network-settings-title = ᱱᱮᱴᱣᱟᱨᱠ ᱥᱟᱡᱟᱣᱠᱚ
+network-proxy-connection-description = ᱥᱟᱡᱟᱣ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟᱛᱮ { -brand-short-name } ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣᱜᱼᱟ ᱾
 network-proxy-connection-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 network-proxy-connection-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
@@ -502,6 +512,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ
+home-new-windows-tabs-description2 = ᱟᱢ ᱟᱢᱟᱜ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ, ᱱᱟᱣᱟ ᱣᱤᱱᱰᱚ ᱟᱨ ᱱᱟᱣᱟ ᱴᱟᱵᱽ ᱮᱢᱟᱱ ᱠᱚ ᱚᱞ ᱠᱟᱛᱮ ᱪᱮᱫ ᱧᱮᱞᱟ ᱚᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
 ## Home Section - Home Page Customization
 
@@ -540,6 +551,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Firefox ᱚᱲᱟᱜ ᱡᱤᱱᱤᱥ
+home-prefs-content-description = ᱵᱟᱪᱷᱟᱣᱢᱮ ᱚᱠᱟ ᱡᱤᱱᱤᱥ ᱟᱢ Firefox ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱾
 home-prefs-content-header2 = { -firefox-home-brand-name } ᱡᱤᱱᱤᱥ
 home-prefs-content-description2 = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱢ ᱪᱮᱫ ᱡᱤᱱᱤᱥ ᱟᱢᱟᱜ { -firefox-home-brand-name } ᱥᱠᱨᱤᱱ ᱨᱮ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱾
 home-prefs-search-header =
@@ -559,6 +571,7 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟᱜ
+home-prefs-recommended-by-description-new = { $provider }, ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
 
 ##
 
@@ -603,6 +616,8 @@ search-bar-hidden =
 search-bar-shown =
     .label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱵᱟᱨ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱵᱟᱨ ᱥᱮᱞᱮᱫ ᱢᱮ
 search-engine-default-header = ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
+search-engine-default-desc-2 = ᱱᱚᱶᱟ ᱫᱚ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱵᱟᱨ ᱨᱮ ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱫᱚ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+search-engine-default-private-desc-2 = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱷᱮᱜᱟᱨ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 search-suggestions-header = ᱥᱚᱞᱟᱦ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 search-suggestions-option =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱫᱤᱥ ᱠᱚ ᱩᱫᱩᱜ
