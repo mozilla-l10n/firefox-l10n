@@ -1267,7 +1267,7 @@ preferences-doh-status-disabled = Ανενεργό
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Μη ενεργό ({ $reason })
-preferences-doh-group-message = Ενεργοποίηση ασφαλούς DNS με χρήση:
+preferences-doh-group-message = Ενεργοποίηση ασφαλούς DNS με:
 preferences-doh-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
 preferences-doh-setting-default =
@@ -1288,10 +1288,14 @@ preferences-doh-enabled-detailed-desc-2 = Χρήση προεπιλεγμένη�
 preferences-doh-setting-strict =
     .label = Μέγιστη προστασία
     .accesskey = Μ
+preferences-doh-strict-desc = Το { -brand-short-name } θα χρησιμοποιεί πάντα ασφαλές DNS. Θα βλέπετε μια προειδοποίηση πριν χρησιμοποιήσουμε το DNS του συστήματός σας.
+preferences-doh-strict-detailed-desc-1 = Χρήση μόνο του παρόχου της επιλογής σας
 preferences-doh-strict-detailed-desc-2 = Πάντα προειδοποίηση εάν το ασφαλές DNS δεν είναι διαθέσιμο
+preferences-doh-strict-detailed-desc-3 = Εάν δεν διατίθεται ασφαλές DNS, οι ιστότοποι δεν θα φορτώνονται ή δεν θα λειτουργούν σωστά
 preferences-doh-setting-off =
-    .label = Ανενεργό
-    .accesskey = Α
+    .label = Καμία προστασία
+    .accesskey = Κ
+preferences-doh-off-desc = Χρήση προεπιλεγμένης ανάλυσης DNS
 preferences-doh-checkbox-warn =
     .label = Προειδοποίηση εάν ένα τρίτο μέρος εμποδίζει ενεργά το ασφαλές DNS
     .accesskey = Π
