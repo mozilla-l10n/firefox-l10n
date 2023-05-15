@@ -1034,6 +1034,7 @@ content-blocking-unvisited-cookies = Cookies de sitios non visitados
 content-blocking-all-windows-tracking-content = Rastrexo de contido en todas as xanelas
 content-blocking-all-third-party-cookies = Todas as cookies de terceiros
 content-blocking-cryptominers = Criptomineiros
+content-blocking-fingerprinters = Pegadas dixitais
 # "Test pilot" is used as a verb. Possible alternatives:
 # "Be the first to try", "Join an early experiment".
 content-blocking-etp-standard-tcp-rollout-checkbox =
@@ -1100,6 +1101,11 @@ permissions-microphone = Micrófono
 permissions-microphone-settings =
     .label = Configuración...
     .accesskey = g
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Selección de altofalantes
+permissions-speaker-settings =
+    .label = Configuración…
+    .accesskey = f
 permissions-notification = Notificacións
 permissions-notification-settings =
     .label = Configuración...
@@ -1150,6 +1156,7 @@ addon-recommendations-link = Máis información
 collection-health-report-disabled = O envío de informes está desactivado nesta configuración de compilación
 collection-backlogged-crash-reports-with-link = Permitir que o { -brand-short-name } envíe informes de fallo atrasados no seu nome <a data-l10n-name="crash-reports-link">Máis información</a>
     .accesskey = P
+privacy-segmentation-section-header = Novas funcionalidades que melloran a súa navegación
 
 ## Privacy Section - Security
 ##
