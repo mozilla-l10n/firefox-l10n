@@ -67,7 +67,7 @@ mr1-onboarding-welcome-image-caption = Soraya Osorio — Deseñadora de mobiliar
 #   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
-    .aria-label = Progreso: paso { $actual } de { $total }
+    .aria-label = Progreso: paso { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desactivar animacións
 
