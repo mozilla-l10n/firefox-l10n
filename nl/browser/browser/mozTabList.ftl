@@ -25,13 +25,14 @@ mztabrow-just-now-timestamp = Zojuist
 # For developers, this duplicates command because the label attribute is required.
 
 mztabrow-delete = Verwijderen
-    .accesskey = D
+    .accesskey = V
 mztabrow-forget-about-this-site = Deze website vergeten…
     .accesskey = v
 mztabrow-open-in-window = Openen in nieuw venster
     .accesskey = n
 mztabrow-open-in-private-window = Openen in nieuw privévenster
     .accesskey = p
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 mztabrow-add-bookmark = Bladwijzer maken…
     .accesskey = B
 mztabrow-save-to-pocket = Opslaan naar { -pocket-brand-name }
