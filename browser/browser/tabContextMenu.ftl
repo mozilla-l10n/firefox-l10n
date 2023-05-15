@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Marcar lapela
     .accesskey = l
+tab-context-bookmark-tab =
+    .label = Marcar a lapela…
+    .accesskey = M
 tab-context-open-in-new-container-tab =
     .label = Abrir nunha nova lapela contedor
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Mover lapelas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

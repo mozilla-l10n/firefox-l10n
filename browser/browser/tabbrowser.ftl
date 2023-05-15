@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nova lapela
+tabbrowser-empty-private-tab-title = Nova lapela privada
 tabbrowser-menuitem-close-tab =
     .label = Pechar lapela
 tabbrowser-menuitem-close =
