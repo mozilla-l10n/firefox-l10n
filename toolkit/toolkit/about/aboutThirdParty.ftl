@@ -61,6 +61,7 @@ third-party-button-expand =
 third-party-button-collapse =
     .title = Ayrıntılı bilgileri gizle
 third-party-requires-restart = Engellenen üçüncü taraf modüllerini değiştirmek için { -brand-short-name } yeniden başlatılmalıdır.
+third-party-blocking-requires-restart = Üçüncü taraf modülünü engellemek için { -brand-short-name } yeniden başlatılmalıdır.
 third-party-should-restart-title = { -brand-short-name } tarayıcısını yeniden başlat
 third-party-should-restart-ok = { -brand-short-name } tarayıcısını şimdi yeniden başlat
 third-party-restart-now = Yeniden başlat
