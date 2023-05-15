@@ -117,7 +117,7 @@ urlbar-tip-icon-description =
 urlbar-result-menu-button =
     .title = Apri menu
 urlbar-result-menu-button-feedback = Feedback
-        .title = Apri menu
+    .title = Apri menu
 urlbar-result-menu-learn-more =
     .label = Ulteriori informazioni
     .accesskey = U
@@ -942,13 +942,41 @@ firefox-relay-offer-how-we-integrate = Se continui potrai generare nuovi alias d
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-does = Le email da <strong>{ $sitename }</strong> verranno inoltrate a <strong>{ $useremail }</strong>.
 
+## Popup Notification
+
 firefox-relay-offer-why-to-use-relay = I nostri alias di posta elettronica, sicuri e facili da utilizzare, proteggono la tua identità e bloccano lo spam nascondendo il tuo indirizzo reale.
 firefox-relay-offer-what-relay-provides = Tutte le email inviate al tuo alias verranno inoltrate a <strong>{ $useremail }</strong> (a meno che tu non decida di bloccarle).
 firefox-relay-offer-legal-notice = Facendo clic su “Utilizza alias di posta elettronica”, accetti le <label data-l10n-name="tos-url">Condizioni di utilizzo del servizio</label> e l’<label data-l10n-name="privacy-url">Informativa sulla privacy</label>.
 
-
-## Popup Notification
+## Pop-up Notification
 
 popup-notification-xpinstall-prompt-learn-more = Scopri come installare componenti aggiuntivi in completa sicurezza
 
+## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ha impedito a questo sito di aprire una finestra pop-up.
+       *[other] { -brand-short-name } ha impedito a questo sito di aprire { $popupCount } finestre pop-up.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } ha impedito a questo sito di aprire più di { $popupCount } finestre pop-up.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opzioni
+           *[other] Preferenze
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] r
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Visualizza “{ $popupURI }”
