@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Utwreiding fuortsmite
 unified-extensions-context-menu-report-extension =
     .label = Utwreiding rapportearje
+unified-extensions-context-menu-move-widget-up =
+    .label = Omheech ferpleatse
+unified-extensions-context-menu-move-widget-down =
+    .label = Omleech ferpleatse

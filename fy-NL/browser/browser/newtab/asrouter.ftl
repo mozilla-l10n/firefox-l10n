@@ -249,3 +249,19 @@ fox-doodle-pin-secondary = No net
 
 set-default-pdf-handler-headline = <strong>Jo PDF’s wurde no iepene yn { -brand-short-name }.</strong> Bewurkje of ûndertekenje formulieren streekrjocht yn jo browser. Sykje nei ‘PDF’ yn ynstellingen om te wizigjen.
 set-default-pdf-handler-primary = Begrepen
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Nij apparaat yn de takomst?
+fxa-sync-cfr-body = Soargje derfoar dat jo jo lêste blêdwizers, wachtwurden en ljepblêden altyd by de hân hawwe as jo in nije { -brand-product-name }-browser iepenje.
+fxa-sync-cfr-primary = Mear ynfo
+    .accesskey = M
+fxa-sync-cfr-secondary = Letter werinnerje
+    .accesskey = L
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Brûke jo in âlder apparaat?
+device-migration-fxa-spotlight-body = Meitsje in reservekopy fan jo gegevens om derfoar te soargjen dat jo gjin wichtige ynformaasje, lykas blêdwizers en wachtwurden kwytreitsje, foaral as jo oerskeakelje nei in nij apparaat.
+device-migration-fxa-spotlight-primary-button = Hoe meitsje in reservekopy fan myn gegevens
+device-migration-fxa-spotlight-link = Letter werinnerje
