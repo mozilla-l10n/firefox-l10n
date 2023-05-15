@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = ລຶບສ່ວນຂະຫຍາຍ
 unified-extensions-context-menu-report-extension =
     .label = ລາຍງານສ່ວນຂະຫຍາຍ
+unified-extensions-context-menu-move-widget-up =
+    .label = ຍ້າຍຂື້ນ
+unified-extensions-context-menu-move-widget-down =
+    .label = ຍ້າຍລົງ
