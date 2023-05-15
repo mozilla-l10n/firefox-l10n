@@ -30,6 +30,10 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱦᱩᱭᱮᱱᱟ
 screenshots-notification-image-copied-title = ᱥᱠᱨᱤᱱᱥᱚᱴ ᱱᱚᱠᱚᱞ ᱮᱱᱟ
+screenshots-request-error-title = ᱛᱷᱚᱠ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱾
+screenshots-request-error-details = ᱤᱠᱟᱹ! ᱟᱞᱮ ᱫᱚ ᱟᱢᱟᱜ ᱩᱴᱷᱟᱹᱣ ᱪᱤᱛᱟᱹᱨ ᱵᱟᱞᱮ ᱤᱫᱤ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+screenshots-connection-error-title = ᱟᱞᱮ ᱫᱚ ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾
+screenshots-unshootable-page-error-title = ᱟᱞᱮ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱵᱟᱞᱮ ᱤᱫᱤ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱾
 screenshots-empty-selection-error-title = ᱟᱢᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱫᱚ ᱟᱹᱰᱤ ᱦᱩᱰᱤᱧ ᱜᱮᱭᱟ
 screenshots-private-window-error-title = { -screenshots-brand-name } ᱫᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱳᱰ ᱨᱮ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
 screenshots-generic-error-title = ᱴᱤᱜ ᱴᱚᱲᱚᱜ! { -screenshots-brand-name } ᱫᱚ ᱠᱷᱟᱨᱟᱯ ᱜᱮ ᱚᱰᱚᱠ ᱮᱱᱟ ᱾

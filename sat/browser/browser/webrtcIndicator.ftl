@@ -163,6 +163,7 @@ webrtc-allow-share-camera-and-microphone = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱠ�
 
 webrtc-share-screen-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 webrtc-share-entire-screen = ᱛᱚᱴᱟ ᱯᱚᱨᱫᱟ
+webrtc-share-pipe-wire-portal = ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱥᱟᱡᱟᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = { $monitorIndex } ᱯᱚᱨᱫᱟ
@@ -186,6 +187,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = ᱡᱟᱣᱜᱮ ᱵᱞᱚᱠ ᱢᱮ
     .accesskey = w
+webrtc-action-not-now =
+    .label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+    .accesskey = N
 
 ##
 
