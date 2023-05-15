@@ -162,6 +162,7 @@ webrtc-allow-share-camera-and-microphone = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱠ�
 ##
 
 webrtc-share-screen-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+webrtc-pick-window-or-screen = ᱡᱷᱚᱨᱠᱟ ᱥᱮ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 webrtc-share-entire-screen = ᱛᱚᱴᱟ ᱯᱚᱨᱫᱟ
 webrtc-share-pipe-wire-portal = ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱥᱟᱡᱟᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 # Variables:
@@ -193,4 +194,5 @@ webrtc-action-not-now =
 
 ##
 
+webrtc-remember-allow-checkbox = ᱱᱚᱶᱟ ᱩᱫᱩᱜ ᱩᱭᱦᱟᱹᱨ ᱢᱮ
 webrtc-mute-notifications-checkbox = ᱦᱟᱹᱴᱤᱧ ᱡᱷᱚᱜ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱪᱩᱯ ᱪᱷᱚᱭ ᱢᱮ
