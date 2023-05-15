@@ -693,6 +693,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = ᱟᱢᱟᱜ ᱣᱮᱵ ᱟᱢ ᱥᱟᱶ ᱛᱮ ᱤᱫᱤ ᱢᱮ
+sync-signedout-description2 = ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟ, ᱦᱤᱛᱟᱹᱞ, ᱪᱮᱵᱽᱠᱚ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ, ᱮᱰ-ᱚᱱ ᱟᱨ ᱥᱟᱡᱟᱣ ᱠᱚ ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱭᱩᱨ ᱢᱤᱫ ᱢᱮ ᱾
 sync-signedout-account-signin3 =
     .label = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ…
     .accesskey = i
@@ -744,6 +745,7 @@ prefs-syncing-off = ᱟᱹᱭᱩᱨ ᱢᱤᱫ: ᱵᱚᱸᱫ
 prefs-sync-turn-on-syncing =
     .label = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ...
     .accesskey = s
+prefs-sync-offer-setup-label2 = ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟ, ᱦᱤᱛᱟᱹᱞ, ᱪᱮᱵᱽᱠᱚ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ, ᱮᱰ-ᱚᱱ ᱟᱨ ᱥᱟᱡᱟᱣ ᱠᱚ ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱭᱩᱨ ᱢᱤᱫ ᱢᱮ ᱾
 prefs-sync-now =
     .labelnotsyncing = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
     .accesskeynotsyncing = N
@@ -751,6 +753,8 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱱᱚᱶᱟ ᱠᱚ ᱡᱤᱱᱤᱥ ᱮᱢ ᱟᱹᱭᱩᱨ ᱢᱤᱫᱮᱫᱟᱢ :
+sync-syncing-across-devices-heading = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱠᱚ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱚ ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱮᱱᱟᱢ ᱺ
 sync-currently-syncing-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 sync-currently-syncing-history = ᱱᱟᱜᱟᱢ
 sync-currently-syncing-tabs = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
