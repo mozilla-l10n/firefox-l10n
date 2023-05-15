@@ -1251,6 +1251,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+preferences-doh-description = Το DNS (Domain Name System) over HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, δημιουργώντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Κατάσταση: { $status }
@@ -1274,10 +1275,16 @@ preferences-doh-setting-default =
     .accesskey = Π
 preferences-doh-default-desc = Το { -brand-short-name } αποφασίζει πότε θα χρησιμοποιεί ασφαλές DNS για την προστασία του απορρήτου σας.
 preferences-doh-default-detailed-desc-1 = Χρήση ασφαλούς DNS σε περιοχές όπου είναι διαθέσιμο
+preferences-doh-default-detailed-desc-2 = Χρήση προεπιλεγμένης ανάλυσης DNS εάν υπάρχει πρόβλημα με τον πάροχο ασφαλούς DNS
+preferences-doh-default-detailed-desc-3 = Χρήση τοπικού παρόχου εάν είναι δυνατόν
+preferences-doh-default-detailed-desc-4 = Απενεργοποίηση όταν είναι ενεργό το VPN, ο γονικός έλεγχος ή οι εταιρικές πολιτικές
 preferences-doh-default-detailed-desc-5 = Απενεργοποίηση όταν ένα δίκτυο ενημερώνει το { -brand-short-name } ότι δεν πρέπει να χρησιμοποιεί ασφαλές DNS
 preferences-doh-setting-enabled =
     .label = Αυξημένη προστασία
     .accesskey = Α
+preferences-doh-enabled-desc = Εσείς ελέγχετε πότε θα χρησιμοποιείται ασφαλές DNS και επιλέγετε τον πάροχό σας.
+preferences-doh-enabled-detailed-desc-1 = Χρήση του παρόχου της επιλογής σας
+preferences-doh-enabled-detailed-desc-2 = Χρήση προεπιλεγμένης ανάλυσης DNS μόνο εάν υπάρχει πρόβλημα με το ασφαλές DNS
 preferences-doh-setting-strict =
     .label = Μέγιστη προστασία
     .accesskey = Μ
