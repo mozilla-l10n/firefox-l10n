@@ -179,6 +179,10 @@ permissions-site-xr-window =
 permissions-site-xr-window2 =
     .title = ᱥᱟᱡᱟᱣ - ᱣᱟᱹᱨᱪᱩᱣᱟᱹᱞ ᱨᱤᱭᱟᱞᱤᱴᱤ ᱫᱟᱣ
     .style = { permissions-window2.style }
+permissions-site-xr-desc = ᱱᱚᱶᱟ ᱠᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢ ᱴᱷᱮᱱ ᱟᱢᱟᱜ ᱣᱟᱹᱨᱪᱩᱣᱟᱹᱞ ᱨᱤᱭᱟᱞᱤᱴᱤ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱱᱮᱦᱚᱨ ᱮᱫᱟ ᱾ ᱟᱢ ᱮᱢ ᱵᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱚᱠᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ ᱣᱟᱹᱨᱪᱩᱣᱟᱹᱞ ᱨᱤᱭᱟᱞᱤᱴᱤ ᱟᱫᱮᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾ ᱟᱢ ᱫᱚ ᱟᱠᱚᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱣᱟᱹᱨᱪᱩᱣᱟᱹᱞ ᱨᱤᱭᱟᱞᱤᱴᱤ ᱟᱫᱮᱨ ᱥᱟᱱᱟᱭᱟ ᱾
+permissions-site-xr-disable-label =
+    .label = ᱟᱢᱟᱜ ᱣᱟᱹᱨᱪᱩᱣᱟᱹᱞ ᱨᱤᱭᱟᱞᱤᱴᱤ ᱥᱟᱫᱷᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱫᱮᱨᱮᱫ ᱱᱮᱦᱮᱨ ᱠᱚ ᱢᱟᱱᱟᱭ ᱢᱮ
+permissions-site-xr-disable-desc = ᱱᱟᱶᱟ ᱫᱚ ᱡᱟᱦᱟᱸ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱚᱱᱟ ᱞᱤᱥᱴᱤᱨᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱩᱱᱠᱩ ᱠᱚ ᱣᱟᱹᱨᱪᱩᱣᱟᱹᱞ ᱨᱤᱭᱟᱞᱤᱴᱤ ᱟᱫᱮᱨ ᱵᱟᱠᱚ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱟᱢᱟᱜ ᱣᱟᱹᱨᱪᱩᱣᱟᱹᱞ ᱨᱤᱭᱟᱞᱤᱴᱤ ᱟᱫᱮᱨ ᱟᱠᱚᱴ ᱞᱮᱠᱷᱟᱱ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱯᱷᱤᱪᱚᱨ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱭᱟᱭ ᱾
 
 ## Site Permissions - Camera
 
@@ -188,6 +192,9 @@ permissions-site-camera-window =
 permissions-site-camera-window2 =
     .title = ᱥᱟᱡᱟᱣ ᱠᱚ - ᱠᱮᱢᱮᱨᱟ ᱦᱚᱠ
     .style = { permissions-window2.style }
+permissions-site-camera-desc = ᱱᱚᱶᱟ ᱠᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢ ᱴᱷᱮᱱ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱱᱮᱦᱚᱨ ᱮᱫᱟ ᱾ ᱟᱢ ᱮᱢ ᱵᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱚᱠᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾ ᱟᱢ ᱫᱚ ᱟᱠᱚᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱠᱚ ᱥᱮ ᱠᱟᱱᱟ ᱾
+permissions-site-camera-disable-label =
+    .label = ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱱᱟᱶᱟ ᱱᱮᱦᱚᱨ ᱠᱚ ᱢᱟᱱᱟᱭ ᱢᱮ
 
 ## Site Permissions - Microphone
 
