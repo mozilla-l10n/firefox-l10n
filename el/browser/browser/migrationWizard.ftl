@@ -130,8 +130,11 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Ολοκληρώθηκε
 migration-safari-password-import-header = Εισαγωγή κωδικών πρόσβασης από το Safari
+migration-safari-password-import-steps-header = Για την εισαγωγή κωδικών πρόσβασης από το Safari:
 migration-safari-password-import-step1 = Στο Safari, ανοίξτε το μενού «Safari» και μεταβείτε στις Προτιμήσεις > Συνθηματικά
 migration-safari-password-import-step2 = Κάντε κλικ στο κουμπί <img data-l10n-name="safari-icon-3dots"/> και επιλέξτε «Εξαγωγή όλων των συνθηματικών»
+migration-safari-password-import-step3 = Αποθηκεύστε το αρχείο κωδικών πρόσβασης
+migration-safari-password-import-step4 = Χρησιμοποιήστε το «Επιλογή αρχείου» παρακάτω για να επιλέξετε το αρχείο κωδικών πρόσβασης που αποθηκεύσατε
 migration-safari-password-import-skip-button = Παράλειψη
 migration-safari-password-import-select-button = Επιλογή αρχείου
 # Shown in the migration wizard after importing bookmarks from another
@@ -177,6 +180,7 @@ migration-wizard-progress-success-history =
        *[other] Από τις τελευταίες { $maxAgeInDays } ημέρες
     }
 migration-wizard-progress-success-formdata = Ιστορικό φορμών
+migration-wizard-safari-permissions-sub-header = Για την εισαγωγή σελιδοδεικτών και ιστορικού περιήγησης από το Safari:
 migration-wizard-safari-instructions-continue = Επιλέξτε «Συνέχεια»
 migration-wizard-safari-instructions-folder = Επιλέξτε τον φάκελο του Safari από τη λίστα και κάντε κλικ στο «Άνοιγμα»
 migration-wizard-safari-select-button = Επιλογή αρχείου
