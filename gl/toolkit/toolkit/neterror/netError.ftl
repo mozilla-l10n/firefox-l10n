@@ -24,7 +24,10 @@ neterror-pref-reset-button = Restaurar a configuración predeterminada
 neterror-return-to-previous-page-button = Ir atrás
 neterror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 neterror-try-again-button = Tentar de novo
+neterror-settings-button = Cambiar a configuración de DNS
 neterror-view-certificate-link = Ver o certificado
+neterror-trr-continue-this-time = Continuar esta vez
+neterror-disable-native-feedback-warning = Continuar sempre
 
 ##
 
@@ -38,6 +41,8 @@ neterror-load-error-try-again = O sitio podería estar non dispoñíbel temporal
 neterror-load-error-connection = Se non consegue cargar algunhas páxinas, comprobe a conexión de rede do computador.
 neterror-load-error-firewall = Se o computador ou a rede están protexidos por unha devasa ou proxy, asegúrese que { -brand-short-name } ten permiso para acceder á Web.
 neterror-captive-portal = Debe identificarse nesta rede antes de que poida acceder á Internet.
+neterror-dns-not-found-hint-try-again = Ténteo de novo máis tarde
+neterror-dns-not-found-hint-check-network = Comprobe a súa conexión de rede
 
 ## TRR-only specific messages
 ## Variables:
@@ -45,7 +50,9 @@ neterror-captive-portal = Debe identificarse nesta rede antes de que poida acced
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-third-party-warning2 = Pode continuar co seu resolvedor de DNS predeterminado. Non obstante, é posible que un terceiro poida ver os sitios web que visita.
+neterror-dns-not-found-trr-offline = Non está conectado a Internet.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } non atopou este sitio web.
+neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 
 ## Native fallback specific messages
 ## Variables:
