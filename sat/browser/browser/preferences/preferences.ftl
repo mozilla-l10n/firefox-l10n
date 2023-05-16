@@ -1185,6 +1185,10 @@ collection-health-report-telemetry-disabled-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ 
 collection-health-report-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 collection-studies-link = { -brand-short-name } ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱧᱮᱞ ᱢᱮ
 addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+privacy-segmentation-radio-off =
+    .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+privacy-segmentation-radio-on =
+    .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 
 ## Privacy Section - Security
 ##
@@ -1192,7 +1196,14 @@ addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ᱡᱟᱹᱯᱛᱤ
+security-browsing-protection = ᱠᱩᱢᱵᱽᱲᱩ ᱡᱤᱱᱤᱥ ᱟᱨ ᱤᱥᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹᱤᱭᱟᱹ
+security-enable-safe-browsing =
+    .label = ᱤᱥᱠᱟᱨ ᱟᱨ ᱠᱩᱢᱵᱽᱲᱩ ᱡᱚᱱᱚᱥ ᱵᱟᱹᱰ ᱢᱮ
+    .accesskey = B
 security-enable-safe-browsing-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+security-block-downloads =
+    .label = ᱤᱥᱠᱟᱨ ᱰᱟᱣᱩᱱᱞᱚᱰ ᱵᱟᱹᱰ ᱢᱮ
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
