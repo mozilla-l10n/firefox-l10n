@@ -26,14 +26,15 @@
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
-
-
 -focus-brand-name = Firefox Focus
-
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefox Suxire
-
-
--relay-brand-name = Firefox Relay
--relay-brand-short-name = Relay
+# ”Home" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-home-brand-name = Inicio de Firefox
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name = Vista de Firefox
