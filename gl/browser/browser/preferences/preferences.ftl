@@ -1033,6 +1033,7 @@ content-blocking-all-cookies = Todas as cookies
 content-blocking-unvisited-cookies = Cookies de sitios non visitados
 content-blocking-all-windows-tracking-content = Rastrexo de contido en todas as xanelas
 content-blocking-all-third-party-cookies = Todas as cookies de terceiros
+content-blocking-all-cross-site-cookies = Todas as cookies entre sitios
 content-blocking-cryptominers = Criptomineiros
 content-blocking-fingerprinters = Pegadas dixitais
 # "Test pilot" is used as a verb. Possible alternatives:
@@ -1157,6 +1158,10 @@ collection-health-report-disabled = O envío de informes está desactivado nesta
 collection-backlogged-crash-reports-with-link = Permitir que o { -brand-short-name } envíe informes de fallo atrasados no seu nome <a data-l10n-name="crash-reports-link">Máis información</a>
     .accesskey = P
 privacy-segmentation-section-header = Novas funcionalidades que melloran a súa navegación
+privacy-segmentation-radio-off =
+    .label = Usar as recomendacións de { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Mostrar información detallada
 
 ## Privacy Section - Security
 ##
