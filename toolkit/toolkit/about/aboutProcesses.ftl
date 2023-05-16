@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Xestor de procesos
-
 # The Actions column
 about-processes-column-action =
     .title = Accións
@@ -15,7 +14,6 @@ about-processes-shutdown-process =
     .title = Descargar lapelas e matar procesos
 about-processes-shutdown-tab =
     .title = Pechar lapela
-
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -52,7 +50,7 @@ about-processes-socket-process = Rede ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker de sandbox remoto ({ $pid })
 about-processes-fork-server-process = Servidor de rama ({ $pid })
 about-processes-preallocated-process = Pre-asignado ({ $pid })
-
+about-processes-utility-process = Utilidade ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -87,7 +85,6 @@ about-processes-active-threads =
         [one] { $active } fío activo dun total de { $number }: { $list }
        *[other] { $active } fíos activos dun total de { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -99,25 +96,21 @@ about-processes-inactive-threads =
         [one] { $number } fío inactivo
        *[other] { $number } fíos inactivos
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Identificador do fío: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Lapela: { $name }
 about-processes-preloaded-tab = Lapela nova precargada
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Submarco: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -125,6 +118,13 @@ about-processes-frame-name-one = Submarco: { $url }
 about-processes-frame-name-many = Submarcos ({ $number }): { $shortUrl }
 
 ## Utility process actor names
+
+about-processes-utility-actor-unknown = Actor descoñecido
+about-processes-utility-actor-audio-decoder = Descodificador de son
+about-processes-utility-actor-audio-decoder-generic = Descodificador de son xenérico
+# "Oracle" refers to an internal Firefox process and should be kept in English
+about-processes-utility-actor-js-oracle = Oracle de JavaScript
+about-processes-utility-actor-windows-utils = Utilidades de Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -138,15 +138,12 @@ about-processes-frame-name-many = Submarcos ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Tempo total de CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (medición)
-
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0,1%
     .title = Tempo total da CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = inactividade
     .title = Tempo total da CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -165,7 +162,6 @@ about-processes-cpu-fully-idle = inactividade
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evolución: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
