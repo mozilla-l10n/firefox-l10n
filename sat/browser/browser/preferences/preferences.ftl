@@ -783,6 +783,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = ᱡᱩᱲᱟᱹᱣ ᱨᱟᱹᱯᱩᱫ ᱮᱱᱟ…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = ᱡᱤᱱᱤᱥ ᱠᱚ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴ ᱨᱮ ᱵᱚᱫᱚᱞ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱫᱚ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱧᱮᱞᱚᱜᱚᱜᱼᱟ ᱾
 sync-engine-bookmarks =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
     .accesskey = m
@@ -832,6 +833,11 @@ sync-connect-another-device = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱲᱟᱹᱣ
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = ᱧᱮᱞ ᱢᱮᱲᱟᱣ ᱠᱩᱞ ᱮᱱᱟ
+# Variables:
+#   $email (String): Email address of user's Firefox account.
+sync-verification-sent-body = { $email } ᱨᱮ ᱯᱩᱥᱴᱟᱹᱣ ᱞᱤᱝᱠ ᱵᱷᱮᱡᱟ ᱦᱩᱭᱮᱱᱟ ᱾
+sync-verification-not-sent-title = ᱯᱩᱥᱴᱟᱹᱣ ᱵᱷᱮᱡᱟᱭ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ
+sync-verification-not-sent-body = ᱟᱞᱮ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱩᱥᱴᱟᱹᱣ ᱢᱮᱞ ᱱᱤᱛᱚᱜ ᱵᱟᱞᱮ ᱵᱷᱮᱡᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ, ᱫᱟᱭᱟᱠᱟᱛᱮ ᱛᱟᱭᱚᱢ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱟᱸ ᱾
 
 ## Privacy Section
 
@@ -849,7 +855,15 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
+forms-generate-passwords =
+    .label = ᱵᱟᱛᱟᱣᱢᱮ ᱟᱨ ᱠᱮᱴᱮᱡ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱢᱮ
+    .accesskey = u
+forms-breach-alerts =
+    .label = ᱠᱩᱢᱵᱲᱩ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱵᱚᱛ ᱠᱷᱚᱵᱚᱨ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .accesskey = b
 forms-breach-alerts-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+relay-integration =
+    .label = ᱟᱢᱟᱜ { -brand-short-name } ᱫᱟᱱᱟᱝ ᱢᱮᱱᱮᱡᱚᱨ ᱨᱮ { -relay-brand-name } ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 relay-integration-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -871,12 +885,21 @@ forms-master-pw-change =
 forms-primary-pw-change =
     .label = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱚᱫᱚᱞ ᱢᱮ…
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = ᱢᱟᱲᱟᱝ ᱫᱚ ᱢᱟᱥᱴᱚᱨ ᱯᱟᱥᱣᱟᱰ ᱠᱚ ᱢᱮᱛᱟᱜ ᱛᱟᱦᱮᱸᱡ
+forms-primary-pw-fips-title = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ FIPS ᱢᱳᱰ ᱨᱮ ᱢᱟᱱᱟᱢᱟᱸ ᱾ FIPS ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝ ᱠᱷᱟᱹᱞᱤ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 forms-master-pw-fips-desc = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱚᱫᱚᱞ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
+forms-windows-sso =
+    .label = Microsoft, ᱠᱟᱹᱢᱤ ᱟᱨ ᱟᱥᱲᱟ ᱮᱠᱟᱣᱩᱱᱴ ᱞᱟᱹᱜᱤᱫ Windows ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱥᱩᱦᱤ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱭ ᱢᱮ
 forms-windows-sso-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 forms-windows-sso-desc = ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱨᱮ ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = ᱢᱤᱫᱴᱟᱹᱝ ᱫᱟᱵᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱣᱤᱱᱰᱚ ᱵᱚᱞᱚᱱ ᱠᱨᱮᱰᱮᱱᱥᱤᱭᱟᱞ ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱨᱮ ᱟᱢᱟᱜ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱥᱤᱠᱭᱩᱨᱤᱴᱤ ᱥᱟᱧᱪᱟᱣ ᱨᱮ ᱜᱚᱲᱚᱜᱼᱟ ᱾
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -904,10 +927,14 @@ history-remember-option-never =
     .label = ᱦᱤᱛᱟᱹᱞ ᱛᱤᱥ ᱦᱚᱸ ᱟᱞᱚᱢ ᱩᱭᱦᱟᱹᱨ ᱟ
 history-remember-option-custom =
     .label = ᱦᱤᱛᱟᱹᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱥᱤᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+history-remember-description = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ, ᱰᱟᱣᱱᱞᱚᱰ, ᱯᱷᱚᱨᱢ, ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱤᱛᱟᱹᱞ ᱢᱚᱱᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾
 history-dontremember-description = { -brand-short-name } ᱫᱚ ᱱᱤᱡᱮᱨᱟᱜ ᱯᱟᱱᱛᱮ ᱭᱟᱜ ᱞᱮᱠᱟ ᱢᱤᱛ ᱜᱮ ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨᱟ, ᱟᱨ ᱟᱢ ᱣᱮᱵ ᱯᱟᱱᱛᱮ ᱞᱮᱠᱟ ᱡᱟᱦᱟᱱ ᱦᱤᱛᱟᱹᱞ ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱟ ᱾
 history-private-browsing-permanent =
     .label = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱢᱳᱰ ᱡᱟᱣᱜᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = p
+history-remember-browser-option =
+    .label = ᱵᱽᱨᱟᱩᱡᱤᱝ ᱟᱨ ᱰᱟᱩᱱᱞᱚᱰ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱩᱭᱦᱟᱹᱨ ᱠᱟᱜ ᱢᱮ
+    .accesskey = b
 history-remember-search-option =
     .label = ᱯᱟᱱᱛᱮ ᱟᱨ ᱛᱮᱭᱟᱨ ᱦᱤᱛᱟᱹᱞ ᱩᱭᱦᱟᱹᱨ ᱫᱚᱦᱚᱭ ᱢᱮ
     .accesskey = f
@@ -924,14 +951,32 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ
+sitedata-total-size-calculating = ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱟᱨ ᱠᱮᱪ ᱢᱟᱯ ᱦᱤᱥᱟᱹᱵᱚᱜ ᱠᱟᱱᱟ …
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = ᱟᱢᱟᱜ ᱫᱚᱦᱚ ᱟᱠᱟᱱ ᱠᱩᱠᱤ, ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ, ᱟᱨ ᱠᱮᱪ ᱱᱤᱛᱚᱜ ᱰᱤᱥᱠ ᱡᱟᱭᱜᱟ ᱨᱮᱭᱟᱜ { $value } { $unit } ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾
 sitedata-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+sitedata-delete-on-close =
+    .label = { -brand-short-name } ᱵᱚᱸᱫ ᱞᱮᱠᱷᱟᱱ ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = { -brand-short-name } ᱵᱚᱸᱫ ᱞᱮᱠᱷᱟᱱ ᱯᱟᱨᱢᱟᱱᱮᱱᱴ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱳᱰ ᱨᱮ ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱫᱚ ᱜᱷᱤᱲᱜᱮ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱾
 sitedata-allow-cookies-option =
     .label = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱭ ᱢᱮ
     .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱵᱟᱹᱰ ᱢᱮ
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = ᱴᱟᱭᱤᱯ ᱵᱟᱹᱰ
+    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱩ
 sitedata-option-block-cross-site-tracking-cookies =
     .label = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ
+sitedata-option-block-cross-site-cookies =
+    .label = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ, ᱟᱨ ᱵᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱠᱩᱠᱤ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱢᱮ
 sitedata-option-block-unvisited =
     .label = ᱵᱟᱝ ᱦᱤᱨᱤᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱠᱩᱠᱤ ᱠᱚ
 sitedata-option-block-all-third-party =
@@ -953,6 +998,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚ
+cookie-banner-handling-description = { -brand-short-name } ᱫᱚ ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱥᱚᱦᱚᱫ ᱮᱢᱚᱜ ᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱡ ᱛᱮ ᱡᱷᱚᱛᱚ ᱠᱩᱠᱤ ᱱᱮᱦᱚᱨ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟ ᱮᱫᱟᱭ ᱾
 cookie-banner-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 forms-handle-cookie-banners =
     .label = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚᱭ ᱢᱮ
@@ -989,7 +1035,9 @@ addressbar-quickactions-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = ᱵᱟᱲᱦᱟᱣᱟᱠᱟᱱ ᱯᱟᱸᱡᱟ ᱨᱚᱯᱷᱟ
+content-blocking-section-top-level-description = ᱜᱷᱮᱨ ᱮᱥᱮᱫᱠᱩᱜ ᱫᱚ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱚ ᱯᱟᱧᱡᱟᱮᱫ ᱢᱮᱭᱟ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱯᱟᱹᱨᱠᱟᱹᱣ ᱵᱟᱵᱚᱛ ᱡᱤᱱᱤᱥ ᱠᱚ ᱡᱟᱣᱨᱟᱭᱟ ᱾ { -brand-short-name } ᱫᱚ ᱱᱚᱠᱟ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱜ ᱟᱨ ᱮᱴᱟᱜ ᱥᱚᱱᱮᱦ ᱥᱠᱨᱤᱯᱴ ᱠᱚᱭ ᱵᱟᱹᱰ ᱠᱚᱣᱟᱭ ᱾
 content-blocking-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+content-blocking-fpi-incompatibility-warning = ᱟᱢ ᱫᱚ ᱨᱯᱷᱟᱥᱴ ᱯᱟᱴᱤ ᱟᱭᱥᱚᱞᱮᱥᱚᱱ (FPI) ᱵᱮᱵᱷᱟᱨᱮᱫᱟᱢ, ᱡᱟᱦᱟᱸᱭ ᱫᱚ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱠᱩᱠᱤ ᱥᱟᱡᱟᱣ ᱠᱚ ᱞᱟᱫᱮ ᱪᱮᱛᱟᱱ ᱞᱟᱫᱮᱭᱟᱭ ᱾
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1007,6 +1055,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱚᱢᱟᱱ ᱞᱟᱹᱜᱤᱫ ᱾ ᱥᱟᱦᱴᱟ ᱢᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱞᱟᱫᱮᱜᱼᱟ ᱾
+content-blocking-etp-strict-desc = ᱡᱟᱹᱥᱛᱤ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢᱚᱜᱼᱟᱭ, ᱢᱮᱱᱠᱷᱟᱱ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱥᱟᱭᱤᱴ ᱥᱮ ᱡᱤᱱᱤᱥ ᱠᱚ ᱨᱟᱹᱯᱩᱫ ᱫᱟᱲᱮᱟᱜᱼᱟ ᱾
+content-blocking-etp-custom-desc = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱚᱠᱟ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ ᱟᱨ ᱥᱠᱨᱤᱯᱴ ᱞᱚ ᱵᱞᱚᱠ ᱠᱚᱣᱟ ᱾
 content-blocking-etp-blocking-desc = { -brand-short-name } ᱫᱚ ᱱᱚᱶᱟ ᱠᱚ ᱵᱞᱚᱠᱟᱭ ᱺ
 content-blocking-private-windows = ᱯᱨᱟᱭᱣᱚᱴ ᱣᱤᱱᱰᱚ ᱨᱮ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱡᱤᱱᱤᱥ ᱠᱚ
 content-blocking-cross-site-cookies-in-all-windows = ᱡᱷᱚᱛᱚ ᱣᱤᱱᱰᱚ ᱨᱮ ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱠᱩᱠᱤ (ᱯᱟᱧᱡᱟ ᱠᱩᱠᱤ ᱥᱟᱶᱛᱮ)
@@ -1032,8 +1083,12 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = ᱢᱩᱴ ᱠᱩᱠᱤ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱡᱟᱦᱟᱸ ᱥᱟᱭᱤᱴ ᱨᱮ ᱢᱮᱱᱟᱢᱟᱸ ᱚᱱᱰᱮ ᱠᱚ ᱛᱟᱦᱮᱸᱱᱟ,ᱢᱮᱱᱠᱷᱟᱱ ᱯᱟᱧᱡᱟᱤᱭᱟᱹ ᱡᱮᱞᱠᱟ ᱟᱢ ᱵᱟᱠᱚ ᱯᱟᱧᱡᱟ ᱫᱟᱲᱮ ᱢᱮᱭᱟ ᱠᱚ ᱾
 content-blocking-etp-standard-tcp-rollout-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+content-blocking-etp-standard-tcp-title = ᱥᱟᱶᱛᱮ ᱢᱩᱴ ᱠᱤᱠᱤ ᱨᱩᱠᱷᱤᱭᱟᱹ , ᱟᱞᱮᱭᱟᱜ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱫᱟᱲᱮ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱷᱤᱪᱚᱨ
 content-blocking-warning-title = ᱵᱚᱦᱚ ᱪᱚᱴ ᱯᱮ!
+content-blocking-and-isolating-etp-warning-description-2 = ᱱᱚᱶᱟ ᱥᱟᱡᱟᱣ ᱛᱮᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱟᱠᱚ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ ᱾ ᱡᱩᱫᱤ ᱥᱟᱭᱤᱴ ᱨᱟᱹᱯᱩᱫ ᱜᱮ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱷᱟᱱ, ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱫᱚ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱨᱭᱟᱹ ᱵᱚᱸᱫ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱡᱟᱦᱟᱸ ᱛᱮ ᱡᱷᱚᱛᱚ ᱡᱤᱱᱤᱥ ᱞᱟᱫᱮᱜᱼᱟ ᱾
 content-blocking-warning-learn-how = ᱪᱮᱫᱢᱮ ᱚᱠᱟᱞᱠᱟ
 content-blocking-reload-description = ᱱᱚᱶᱟ ᱵᱮᱵᱚᱥᱛᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱟᱢᱟᱜ ᱴᱟᱵᱽ ᱠᱚ ᱨᱤᱞᱚᱰ ᱞᱟᱹᱠᱛᱤᱭᱟᱢᱟ ᱾
 content-blocking-reload-tabs-button =
