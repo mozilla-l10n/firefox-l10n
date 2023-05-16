@@ -545,7 +545,7 @@ urlbar-placeholder =
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Buscar na Rede
-    .aria-label = Buscar con { $name }
+    .aria-label = Buscar en { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables

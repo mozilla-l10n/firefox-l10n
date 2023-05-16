@@ -113,7 +113,7 @@ policy-SecurityDevices = Permite instalar os módulos PKCS #11.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Engadir ou eliminar módulos PKCS #11.
 policy-ShowHomeButton = Mostrar o botón de inicio na barra de ferramentas.
-policy-SSLVersionMax = Establecer a versión de SSL máxima.
+policy-SSLVersionMax = Estabelecer a versión máxima de SSL.
 policy-SSLVersionMin = Establecer a versión mínima de SSL.
 policy-SupportMenu = Engadir un elemento de menú de asistencia personalizada ao menú de axuda.
 policy-UserMessaging = Non mostrar ao usuario certas mensaxes.

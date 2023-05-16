@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Produciuse un erro durante unha conexión con { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de erro: { $error }
-
 psmerr-ssl-disabled = Non é posíbel conectarse de modo seguro porque se desactivou o protocolo SSL.
 psmerr-ssl2-disabled = Non é posíbel conectarse de modo seguro porque o sitio utiliza unha versión máis antiga e insegura do protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recibiu un certificado non válido. Contacte co administrador do servidor ou co correo electrónico correspondente e fornézalles a seguinte información:
     
     O seu certificado contén o mesmo número de serie que o outro certificado emitido pola autoridade certificadora. Obteña un certificado que conteña un único número de serie.
-
 ssl-error-export-only-server = Non foi posíbel comunicar de modo seguro. O elemento do mesmo nivel non é compatíbel cunha codificación de grao alto.
 ssl-error-us-only-server = Non foi posíbel comunicar de modo seguro. O elemento do mesmo nivel require unha codificación de grao alto que non é compatíbel.
 ssl-error-no-cypher-overlap = Non é posíbel comunicar de modo seguro cun elemento do mesmo nivel: Non hai algoritmos de codificación común.
@@ -61,7 +58,7 @@ ssl-error-rx-malformed-cert-verify = SSL recibiu unha mensaxe incorrecta de esta
 ssl-error-rx-malformed-client-key-exch = SSL recibiu unha mensaxe incorrecta de estabelecemento de comunicación co intercambio de chave de cliente.
 ssl-error-rx-malformed-finished = SSL recibiu unha mensaxe incorrecta de estabelecemento de comunicación concluído.
 ssl-error-rx-malformed-change-cipher = SSL recibiu un rexistro incorrecto de Change Cipher Spec.
-ssl-error-rx-malformed-alert = SSL recibiu un rexistro incorrecto de alarma.
+ssl-error-rx-malformed-alert = SSL recibiu un rexistro incorrecto de alerta.
 ssl-error-rx-malformed-handshake = SSL recibiu un rexistro incorrecto de estabelecemento de comunicación.
 ssl-error-rx-malformed-application-data = SSL recibiu un rexistro incorrecto de datos do aplicativo.
 ssl-error-rx-unexpected-hello-request = SSL recibiu unha mensaxe inesperada de estabelecemento de comunicación.
@@ -75,7 +72,7 @@ ssl-error-rx-unexpected-cert-verify = SSL recibiu unha mensaxe inesperada de est
 ssl-error-rx-unexpected-client-key-exch = SSL recibiu unha mensaxe inesperada de estabelecemento de comunicación co intercambio de chave do cliente.
 ssl-error-rx-unexpected-finished = SSL recibiu unha mensaxe inesperada de estabelecemento de comunicación finalizado.
 ssl-error-rx-unexpected-change-cipher = SSL recibiu un rexistro inesperado de Change Cipher Spec.
-ssl-error-rx-unexpected-alert = SSL recibiu un rexistro inesperado de alarma.
+ssl-error-rx-unexpected-alert = SSL recibiu un rexistro inesperado de alerta.
 ssl-error-rx-unexpected-handshake = SSL recibiu un rexistro inesperado de estabelecemento de comunicación.
 ssl-error-rx-unexpected-application-data = SSL recibiu un rexistro inesperado de datos do aplicativo.
 ssl-error-rx-unknown-record-type = SSL recibiu un rexistro cun tipo de contido descoñecido.
