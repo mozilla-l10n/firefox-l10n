@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Datos internos de WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gardar about:webrtc como
@@ -19,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Rexistro AEC
 about-webrtc-aec-logging-off-state-label = Iniciar rexistro AEC
 about-webrtc-aec-logging-on-state-label = Deter rexistro AEC
 about-webrtc-aec-logging-on-state-msg = Rexistro AEC activo (fale co interlocutor durante uns minutos e logo deteña a captura)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Recargar automaticamente
 
 ##
 
@@ -59,8 +60,6 @@ about-webrtc-ice-pair-bytes-sent = Bytes enviados:
 about-webrtc-ice-pair-bytes-received = Bytes recibidos:
 about-webrtc-ice-component-id = ID do compoñente
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -70,16 +69,13 @@ about-webrtc-type-remote = Remoto
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominado
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seleccionado
-
 about-webrtc-save-page-label = Gardar páxina
 about-webrtc-debug-mode-msg-label = Modo de depuración
 about-webrtc-debug-mode-off-state-label = Iniciar modo de depuración
@@ -105,7 +101,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (pechado
 
 ##
 
-
 about-webrtc-local-candidate = Candidato local
 about-webrtc-remote-candidate = Candidato remoto
 about-webrtc-raw-candidates-heading = Todos os candidatos non procesados
@@ -125,6 +120,7 @@ about-webrtc-discarded-packets-label = Paquetes descartados:
 about-webrtc-decoder-label = Descodificador
 about-webrtc-encoder-label = Codificador
 about-webrtc-show-tab-label = Mostrar lapela
+about-webrtc-current-framerate-label = Frecuencia de fotogramas
 about-webrtc-width-px = Ancho (px)
 about-webrtc-height-px = Altura (px)
 about-webrtc-consecutive-frames = Fotogramas consecutivos
@@ -141,41 +137,37 @@ about-webrtc-local-receive-ssrc = SSRC receptor local
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = Remote SSRC remoto
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+about-webrtc-pc-configuration-show-msg = Mostrar a configuración
+about-webrtc-pc-configuration-hide-msg = Agochar a configuración
+
 ##
 
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Fornecido
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Non fornecido
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencias de WebRTC configuradas polo usuario
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Largo de banda estimado
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Identificador de tracexador
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Largo de banda de envío (bytes/sec)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Largo de banda de recepción (bytes/sec)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Recheo máximo (bytes/seg)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Período para espazador en ms
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = Tempo de ida de volta (RTT, en ms)
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -194,6 +186,22 @@ about-webrtc-aec-logging-off-state-msg = os ficheiros de rexistro poden atoparse
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } fotograma
+       *[other] { $frames } fotogramas
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } canle
+       *[other] { $channels } canles
+    }
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -202,7 +210,6 @@ about-webrtc-received-label =
         [one] Recibiu { $packets } paquete
        *[other] Recibiu { $packets } paquetes
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -211,7 +218,6 @@ about-webrtc-lost-label =
         [one] Perdeuse { $packets } paquete
        *[other] Perdéronse { $packets } paquetes
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -220,13 +226,11 @@ about-webrtc-sent-label =
         [one] Enviouse { $packets } paquete
        *[other] Enviáronse { $packets } paquetes
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -239,21 +243,20 @@ about-webrtc-trickle-caption-msg = Os candidatos lentos (chegados despois da res
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Establecer SDP local na marca de tempo { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Establecer SDP remoto na marca de tempo { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Marca de tempo { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
-##
+## These are displayed on the button that shows or hides the SDP information disclosure
 
-##
+about-webrtc-show-msg-sdp = Mostrar o SDP
+about-webrtc-hide-msg-sdp = Agochar o SDP
 
 ##
 
