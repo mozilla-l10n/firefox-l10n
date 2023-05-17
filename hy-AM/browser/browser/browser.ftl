@@ -887,6 +887,10 @@ popup-warning-message =
         [one] { -brand-short-name } կանխվել է Pop-up-ի բացումը այս կայքից:
        *[other] { -brand-short-name } կանխել է { $popupCount } Pop-up պատուհանների բացումը:
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } արգելափակեց այս կայքը ավելի բացելու քան { $popupCount } ելնող պատուհաններ։
 popup-warning-button =
     .label =
         { PLATFORM() ->
