@@ -1036,6 +1036,17 @@ popup-warning-exceeded-message =
         [many] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } a brenestroù diflugell.
        *[other] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } prenestr diflugell.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Dibarzhioù
+           *[other] Gwellvezioù
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] D
+           *[other] G
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
