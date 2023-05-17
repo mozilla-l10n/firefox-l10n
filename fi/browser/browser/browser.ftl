@@ -1019,3 +1019,7 @@ popup-warning-button =
             [windows] A
            *[other] A
         }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Näytä ”{ $popupURI }”
