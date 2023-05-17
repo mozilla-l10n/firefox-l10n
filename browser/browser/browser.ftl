@@ -997,6 +997,7 @@ firefox-relay-offer-what-relay-does = Minden e-mailt továbbítunk a(z) <strong>
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Biztonságos, könnyen használható maszkjaink az e-mail-címének elrejtésével védik személyazonosságát, és megakadályozzák a levélszemetet.
 
 ## Pop-up Notification
 
