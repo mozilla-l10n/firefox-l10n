@@ -1008,6 +1008,10 @@ popup-warning-message =
         [one] { -brand-short-name } бұл веб сайттан атып шығатын терезені болдырмады.
        *[other] { -brand-short-name } бұл веб сайттан атып шығатын { $popupCount } терезені болдырмады.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } бұл сайтқа { $popupCount } көп атып шығатын терезені ашуға жол бермеген.
 popup-warning-button =
     .label =
         { PLATFORM() ->
