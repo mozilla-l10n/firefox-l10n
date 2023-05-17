@@ -443,3 +443,31 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ithintele le sayithi ekuvuleni iwindow ezivelelayo.
+       *[other] { -brand-short-name } ithintele le sayithi okuvuleni { $popupCount } iiwindo ezongezelelekileyo.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Iindlela zokhetho
+           *[other] Izikhethwa
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Bonisa '{ $popupURI }'
