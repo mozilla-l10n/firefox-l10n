@@ -1015,6 +1015,17 @@ popup-warning-message =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði fleiri en { $popupCount } sprettiglugga.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Valkostir
+           *[other] Kjörstillingar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] V
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
