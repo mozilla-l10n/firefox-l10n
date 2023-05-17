@@ -371,3 +371,20 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } kganetse saete e go bula window e e tlhagelelang .
+       *[other] { -brand-short-name } kganetse saete e go bula { $popupCount } windows tse di tlhagelelang.
+    }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Bontsha '{ $popupURI }'
