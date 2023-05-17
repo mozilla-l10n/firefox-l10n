@@ -995,6 +995,17 @@ popup-notification-xpinstall-prompt-learn-more = Научете повече з�
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } попречи на страницата да отвори изскачащ прозорец
+       *[other] { -brand-short-name } попречи на страницата да отвори { $popupCount } изскачащи прозореца.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } попречи на страницата да отвори повече от { $popupCount } изскачащи прозореца.
 popup-warning-button =
     .label =
         { PLATFORM() ->
