@@ -528,6 +528,10 @@ refresh-blocked-allow =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = { -brand-short-name } menghalang laman ini daripada membuka { $popupCount } tetingkap pop-up.
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } menghalang laman ini daripada membuka lebih daripada { $popupCount } tetingkap pop-up.
 popup-warning-button =
     .label =
         { PLATFORM() ->
