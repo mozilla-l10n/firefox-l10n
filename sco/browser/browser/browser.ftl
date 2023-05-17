@@ -841,6 +841,28 @@ popup-notification-xpinstall-prompt-learn-more = Lairn mair aboot instawin eik-o
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } stappit this site fae openin a lowp-up windae.
+       *[other] { -brand-short-name } stappit this site fae openin { $popupCount } lowp-up windaes.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } stappit this site fae openin mair nor { $popupCount } lowp-up windaes.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Kythe “{ $popupURI }”
