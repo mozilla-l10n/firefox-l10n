@@ -994,4 +994,25 @@ firefox-relay-offer-what-relay-does = Ni plusendos ĉiujn retpoŝtajn mesaĝojn 
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Pli da informo pri sekura instalo de aldonaĵoj
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ne permesis al tiu ĉi retejo malfermi ŝprucfenestron.
+       *[other] { -brand-short-name } ne permesis al tiu ĉi retejo malfermi { $popupCount } ŝprucfenestrojn.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } malpermesis al tiu ĉi retejo malfermi pli ol { $popupCount } ŝprucfenestrojn.
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Montri '{ $popupURI }'
