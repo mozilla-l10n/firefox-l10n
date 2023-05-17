@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Duyệt web trên toàn thế giới
 desktop-entry-generic-name = Trình duyệt web
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = Trình duyệt Web { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Trình duyệt;Web;Duyệt web;
 
 desktop-action-new-window-name = Cửa sổ mới
 desktop-action-new-private-window-name = Cửa sổ riêng tư mới
+desktop-action-open-profile-manager = Mở trình quản lý hồ sơ
