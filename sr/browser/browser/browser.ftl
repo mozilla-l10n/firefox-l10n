@@ -1013,4 +1013,14 @@ firefox-relay-offer-what-relay-does = Проследићемо све е-пор�
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Сазнајте више о безбедном инсталирању додатака
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Прикажи „{ $popupURI }‟
