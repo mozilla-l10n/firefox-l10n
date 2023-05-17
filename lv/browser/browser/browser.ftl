@@ -528,3 +528,17 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [zero] { -brand-short-name } liedza lapai atvērt jaunu logu.
+        [one] { -brand-short-name } liedza lapai atvērt { $popupCount } jaunus logus.
+       *[other] { -brand-short-name } liedza lapai atvērt { $popupCount } jaunus logus.
+    }
