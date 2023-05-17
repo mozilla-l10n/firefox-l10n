@@ -995,4 +995,14 @@ firefox-relay-offer-what-relay-does = Ad nwelleh meṛṛa imaylen seg <strong>{
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Issin ugar ɣef usbeddi n yizegrar s tɣellist
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Sken '{ $popupURI }'
