@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = 瀏覽全球資訊網
 desktop-entry-generic-name = 網頁瀏覽器
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = { -brand-shortcut-name } 網頁瀏覽器
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = 網際網路;網路;瀏覽器;網頁;上網;Internet;WW
 
 desktop-action-new-window-name = 開新視窗
 desktop-action-new-private-window-name = 開新隱私視窗
+desktop-action-open-profile-manager = 開啟設定檔管理員
