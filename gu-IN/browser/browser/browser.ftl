@@ -552,6 +552,17 @@ popup-warning-message =
         [one] { -brand-short-name } એ પોપ-અપ વિન્ડોને ખોલીને આ સાઇટને અટકાવેલ છે.
        *[other] { -brand-short-name }  એ { $popupCount } પોપ-અપ વિન્ડોને ખોલીને આ સાઇટને અટકાવેલ છે.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] વિકલ્પો
+           *[other] પસંદગીઓ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
