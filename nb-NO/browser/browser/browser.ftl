@@ -994,4 +994,14 @@ firefox-relay-offer-what-relay-does = Vi videresender alle e-poster fra <strong>
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Les mer om sikker installering av utvidelser
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Åpne «{ $popupURI }»
