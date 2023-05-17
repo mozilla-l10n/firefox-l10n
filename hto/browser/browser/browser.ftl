@@ -134,6 +134,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Fákara éroiya ɨ́bai
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -144,6 +149,14 @@ reader-view-close-button =
 
 bookmarks-sidebar-content =
     .aria-label = Rɨgɨnoga
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 
 ## Library Panel items
 
@@ -203,3 +216,26 @@ tabs-toolbar =
 
 ## Unified extensions (toolbar) button
 
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Autorefresh blocker
+
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Ákatari '{ $popupURI }'
