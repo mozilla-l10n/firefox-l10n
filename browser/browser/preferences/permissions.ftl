@@ -108,12 +108,12 @@ permissions-exceptions-https-only-desc = 您可以針對特定網站關閉純 HT
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = 允許彈出視窗的網站
+    .title = 允許彈出型視窗的網站
     .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
-    .title = 允許彈出視窗的網站
+    .title = 允許彈出型視窗的網站
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = 您可以指定哪些網站可以開啟彈出型視窗 (Pop-up)。請輸入完整網址後按「允許」。
+permissions-exceptions-popup-desc = 您可以指定哪些網站可以開啟彈出型視窗。請輸入完整網址後按「允許」。
 
 ## Exceptions - Saved Logins
 
