@@ -1004,6 +1004,13 @@ popup-notification-xpinstall-prompt-learn-more = Meer info over het veilig insta
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } heeft voorkomen dat deze website een pop-upvenster opende.
+       *[other] { -brand-short-name } heeft voorkomen dat deze website { $popupCount } pop-upvensters opende.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
