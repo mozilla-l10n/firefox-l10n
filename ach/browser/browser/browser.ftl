@@ -627,4 +627,32 @@ firefox-relay-offer-what-relay-does = Wabi cwalo email weng ma aa ki bot <strong
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Nong ngec mapol ikom keto med-ikome maber
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ogengo kakube man me yabo dirica ma pye-malo.
+       *[other] { -brand-short-name } ogengo kakube man me yabo { $popupCount } diria ma bino kengi.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Gin ayera
+           *[other] Ter
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Nyut “{ $popupURI }”
