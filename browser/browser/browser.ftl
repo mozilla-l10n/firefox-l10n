@@ -570,3 +570,18 @@ popup-warning-message =
         [one] { -brand-short-name }ने ह्या स्थळाला पॉपअप पटल उघडण्यापासून प्रतिबंध केले आहे.
        *[other] { -brand-short-name }ने ह्या स्थळाला { $popupCount } पॉपअप पटलांना उघडण्यापासून प्रतिबंध केले आहे.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] पर्याय
+           *[other] प्राधान्यक्रम
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' दाखवा
