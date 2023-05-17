@@ -996,4 +996,14 @@ firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong> adresinden 
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Eklentileri güvenle yükleme hakkında daha fazla bilgi alın
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = “{ $popupURI }” penceresini göster
