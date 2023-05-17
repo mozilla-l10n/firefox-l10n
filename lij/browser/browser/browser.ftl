@@ -557,6 +557,13 @@ refresh-blocked-allow =
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } o l'à inpedio a sto scito d'arvî un barcon de pop-up.
+       *[other] { -brand-short-name } o l'à inpedio a sto scito d'arvî { $popupCount } barcoin de pop-up.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
