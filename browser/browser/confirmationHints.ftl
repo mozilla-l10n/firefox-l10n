@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Прышпілена!
 confirmation-hint-pin-tab-description = Націсніце правай кнопкай на картцы, каб адшпіліць.
 confirmation-hint-send-to-device = Адпраўлена!
 confirmation-hint-firefox-relay-mask-generated = Створана новая маска { -relay-brand-short-name }!
+confirmation-hint-firefox-relay-mask-created = Створана новая маска!
+confirmation-hint-firefox-relay-mask-reused = Наяўная маска выкарыстана паўторна!
