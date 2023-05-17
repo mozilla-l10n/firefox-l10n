@@ -1011,6 +1011,21 @@ popup-warning-message =
         [one] { -brand-short-name } xuq'ät re ruxaq k'amaya'l re richin nujäq jun silon tzuwäch
        *[other] { -brand-short-name } xuq'ät re ruxaq k'amaya'l re richin yerujäq { $popupCount } silon taq tzuwäch.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } xuq'ät chi re ruxaq re' yerujäq { $popupCount } silonel taq tzuwäch.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Taq cha'oj
+           *[other] Taq ajowab'äl
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] a
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
