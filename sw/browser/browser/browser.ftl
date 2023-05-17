@@ -282,3 +282,7 @@ popup-warning-message =
         [one] { -brand-short-name } imezuia hii saiti kufungua dirisha la kidukizo.
        *[other] { -brand-short-name } imezuia hii saiti kufungua { $popupCount } madirisha ya vidukizo.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Onyesha '{ $popupURI }'
