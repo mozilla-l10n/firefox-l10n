@@ -897,3 +897,7 @@ popup-warning-button =
             [windows] خ
            *[other] ت
         }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = أظهر ”{ $popupURI }“
