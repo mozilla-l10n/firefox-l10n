@@ -1006,3 +1006,18 @@ popup-warning-message =
         [one] { -brand-short-name }(e)k galarazi egin du gune honek pop-up leiho bat irekitzea.
        *[other] { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } pop-up leiho irekitzea.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Aukerak
+           *[other] Hobespenak
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] H
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Erakutsi '{ $popupURI }'
