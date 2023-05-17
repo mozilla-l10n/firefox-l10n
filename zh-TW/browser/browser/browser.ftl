@@ -999,6 +999,9 @@ popup-notification-xpinstall-prompt-learn-more = 了解如何於安裝附加元�
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name } 封鎖了此網站的 { $popupCount } 個彈出視窗。
 popup-warning-button =
     .label =
         { PLATFORM() ->
