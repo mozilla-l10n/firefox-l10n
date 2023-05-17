@@ -1005,4 +1005,19 @@ firefox-relay-offer-what-relay-does = Sìnidh sinn air adhart gach post-d o <str
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Barrachd fiosrachaidh mu stàladh tèarainte de thuilleadain
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] Cha do leig { -brand-short-name } leis an làrach seo priob-uinneag fhosgladh.
+        [two] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } phriob-uinneag fhosgladh.
+        [few] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } priob-uinneagan fhosgladh.
+       *[other] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } priob-uinneag fhosgladh.
+    }
