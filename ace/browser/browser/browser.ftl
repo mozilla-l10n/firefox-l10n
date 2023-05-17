@@ -152,6 +152,11 @@ popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jib
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -173,6 +178,14 @@ bookmarks-menu-button =
     .label = Menu Peutanda
 bookmarks-other-bookmarks-menu =
     .label = Peutanda Laén
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-toolbar-menu =
     .label = Bar Alat Peutanda
 bookmarks-toolbar-placeholder =
@@ -253,8 +266,28 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-allow =
     .label = Peuidin
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Peuleumah “{ $popupURI }”
