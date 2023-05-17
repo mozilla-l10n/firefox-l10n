@@ -172,6 +172,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = TòɁw mbwíʔ
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 fullscreen-warning-no-domain = Yêtz ré de loo lo narú
@@ -192,6 +197,14 @@ bookmarks-other-bookmarks-menu =
     .label = Tá thíb ko ndó~làz=ná
 bookmarks-mobile-bookmarks-menu =
     .label = Ndó~làz=ná xó lent yib
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = KwàɁn ndó~làz=ná
 bookmarks-bookmark-edit-panel =
@@ -275,3 +288,26 @@ tabs-toolbar-list-all-tabs =
 
 ## Unified extensions (toolbar) button
 
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Autorefresh blocker
+
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Mb-lòɁ '{ $popupURI }'
