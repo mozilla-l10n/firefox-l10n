@@ -405,6 +405,11 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = پیشاندەری خوێندنەوە دابخە
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -436,6 +441,11 @@ bookmarks-other-bookmarks-menu =
     .label = دڵخوازی تر
 bookmarks-mobile-bookmarks-menu =
     .label = دڵخوازەکانی مۆبایل
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -454,6 +464,9 @@ bookmarks-tools-menu-button-visibility =
             [true] پێڕستی دڵخوازەکان بسڕەوە لە توڵامراز
            *[other] پێڕستی دڵخوازەکان زیادبکە بۆ توڵامراز
         }
+
+##
+
 bookmarks-search =
     .label = گەڕان لە دڵخوازەکان
 bookmarks-tools =
@@ -596,8 +609,39 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-allow =
     .label = ڕێگەبدە
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] هەڵبژاردەکان
+           *[other] هەڵبژاردنەکان
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = “{ $popupURI }” پیشان بدە
