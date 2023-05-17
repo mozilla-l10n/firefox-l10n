@@ -503,3 +503,7 @@ popup-warning-message =
         [one] { -brand-short-name } ഒരു പോപ്പപ്പ് ജാലകം തുറക്കുന്നതില്‍ നിന്നും ഈ സൈറ്റിനെ തടയുന്നു
        *[other] { -brand-short-name } ഈ സൈറ്റ് തുറക്കുന്നതില്‍ നിന്നും തടയുന്നു { $popupCount } പോപ്പപ്പ് ജാലകങ്ങള്‍.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' കാണിക്കുക
