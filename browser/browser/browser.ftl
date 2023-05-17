@@ -997,4 +997,14 @@ firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónic
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Saber más sobre cómo instalar complementos de forma segura
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Mostrar '{ $popupURI }'
