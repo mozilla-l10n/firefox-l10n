@@ -661,3 +661,18 @@ popup-warning-message =
         [one] { -brand-short-name } privó que iste puesto ubrise una finestra emerchent.
        *[other] { -brand-short-name } privó que iste puesto ubrise { $popupCount } finestras emerchents.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] f
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Amostrar '{ $popupURI }'
