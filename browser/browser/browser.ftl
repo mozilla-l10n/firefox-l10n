@@ -565,3 +565,18 @@ popup-warning-message =
         [one] { -brand-short-name } bu saytdan peyda olan pəncərələrin qarşısı alınıb.
        *[other] { -brand-short-name } bu saytdan { $popupCount } peyda olan pəncərələrin qarşısı alınıb.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçimlər
+           *[other] Nizamlamalar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Göstər: “{ $popupURI }”
