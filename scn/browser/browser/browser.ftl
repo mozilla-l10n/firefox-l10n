@@ -499,6 +499,17 @@ popup-notification-xpinstall-prompt-learn-more = Cchiù nfurmazziuna supra u nzi
 
 ## Pop-up warning
 
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Prifirenzi
+           *[other] Prifirenzi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] P
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
