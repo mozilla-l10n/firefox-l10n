@@ -1008,3 +1008,18 @@ popup-warning-message =
         [one] { -brand-short-name } бұл веб сайттан атып шығатын терезені болдырмады.
        *[other] { -brand-short-name } бұл веб сайттан атып шығатын { $popupCount } терезені болдырмады.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Баптаулар
+           *[other] Баптаулар
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Б
+           *[other] П
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = "{ $popupURI }" көрсету
