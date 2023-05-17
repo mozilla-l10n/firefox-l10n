@@ -38,6 +38,13 @@ videocontrols-picture-in-picture-toggle-label = Ver imaxe en imaxe
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Reproduza vídeos en primeiro plano mentres fai outras cousas en { -brand-short-name }
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Sacar este vídeo
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = A máis pantallas, máis diversión. Reproduce o vídeo mentres fas outras cousas.
 videocontrols-error-aborted = Detívose a carga do vídeo.
 videocontrols-error-network = Interrompeuse a reprodución do vídeo debido a un erro da rede.
 videocontrols-error-decode = Non é posíbel reproducir o vídeo porque o ficheiro está danado.
