@@ -779,6 +779,14 @@ popup-warning-message =
         [few] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } ferestre pop-up.
        *[other] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } de ferestre pop-up.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [few] { -brand-short-name } a împiedicat acest site să deschidă mai mult de { $popupCount } ferestre pop-up.
+       *[other] { -brand-short-name } a împiedicat acest site să deschidă mai mult de { $popupCount } de ferestre pop-up.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
