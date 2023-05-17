@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Finsters en ljepblêden
 browser-data-session-label =
     .value = Finsters en ljepblêden
+browser-data-payment-methods-checkbox =
+    .label = Betellingsmetoaden
+browser-data-payment-methods-label =
+    .value = Betellingsmetoaden
