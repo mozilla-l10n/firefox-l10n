@@ -793,6 +793,17 @@ popup-warning-message =
         [one] { -brand-short-name } ఈ సైటు యొక్క పాప్-అప్ విండోను తెరుచుటను నిరోధిస్తోంది.
        *[other] { -brand-short-name } అనునది ఈ సైటును { $popupCount } పాప్-అప్ విండోలను తెరుచుటను నిరోధిస్తోంది.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] ఎంపికలు
+           *[other] అభిరుచులు
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
