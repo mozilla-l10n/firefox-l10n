@@ -886,6 +886,16 @@ popup-warning-message =
         [many] منع { -brand-short-name } هذا الموقع من فتح { $popupCount } نافذة منبثقة.
        *[other] منع { -brand-short-name } هذا الموقع من فتح { $popupCount } نافذة منبثقة.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [two] منع { -brand-short-name } هذا الموقع من فتح ما يزيد عن نافذتين منبثقتين.
+        [few] منع { -brand-short-name } هذا الموقع من فتح ما يزيد عن { $popupCount } نوافذ منبثقة.
+        [many] منع { -brand-short-name } هذا الموقع من فتح ما يزيد عن { $popupCount } نافذة منبثقة.
+       *[other] منع { -brand-short-name } هذا الموقع من فتح ما يزيد عن { $popupCount } نافذة منبثقة.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
