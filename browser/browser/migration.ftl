@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Cửa Sổ và Thẻ
 browser-data-session-label =
     .value = Cửa Sổ và Thẻ
+browser-data-payment-methods-checkbox =
+    .label = Phương thức thanh toán
+browser-data-payment-methods-label =
+    .value = Phương thức thanh toán

@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = Tạo mặt nạ { -relay-brand-short-nam
 firefox-relay-opt-in-confirmation-enable =
     .label = Tiếp tục
     .accesskey = C
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Bảo vệ địa chỉ email của bạn:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Sử dụng mặt nạ email { -relay-brand-name }
+firefox-relay-use-mask-title = Sử dụng mặt nạ email { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Sử dụng mặt nạ email
+    .accesskey = U
 firefox-relay-opt-in-confirmation-disable =
     .label = Đừng hỏi lại tôi điều này
     .accesskey = D
