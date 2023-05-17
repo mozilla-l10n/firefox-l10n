@@ -961,6 +961,17 @@ popup-notification-xpinstall-prompt-learn-more = در مورد نصبِ امنِ
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } از باز کردن پنجرهٔ pop-up توسط این سایت جلوگیری کرد.
+       *[other] { -brand-short-name } از باز کردن { $popupCount } پنجرهٔ pop-up توسط این سایت جلوگیری کرد.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } مانع از باز شدن بیش از { $popupCount } پنجره بازشو در این سایت شد.
 popup-warning-button =
     .label =
         { PLATFORM() ->
