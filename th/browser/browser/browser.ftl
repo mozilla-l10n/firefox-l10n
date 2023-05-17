@@ -998,6 +998,24 @@ popup-notification-xpinstall-prompt-learn-more = เรียนรู้เพ�
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้เปิด { $popupCount } หน้าต่างป๊อปอัป
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้เปิดมากกว่า { $popupCount } หน้าต่างป๊อปอัป
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] ตัวเลือก
+           *[other] การตั้งค่า
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ต
+           *[other] ค
+        }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = แสดง “{ $popupURI }”
