@@ -1008,6 +1008,22 @@ popup-notification-xpinstall-prompt-learn-more = Więcej informacji o bezpieczn
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } uniemożliwił tej witrynie otwarcie wyskakującego okna.
+        [few] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien
+       *[many] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [few] { -brand-short-name } uniemożliwił tej witrynie otwarcie więcej niż { $popupCount } wyskakujących okien.
+       *[many] { -brand-short-name } uniemożliwił tej witrynie otwarcie więcej niż { $popupCount } wyskakujących okien.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1019,3 +1035,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Wyświetl „{ $popupURI }”
