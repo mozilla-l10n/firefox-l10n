@@ -1002,4 +1002,32 @@ firefox-relay-offer-what-relay-does = ᱟᱞᱮ ᱫᱚ ᱡᱷᱚᱛᱚ ᱤᱢᱮ
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name }%S ᱱᱚᱣᱟ ᱥᱟᱤᱴ ᱯᱚᱯ-ᱚᱯ ᱣᱤᱸᱰᱚ  ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱾ .
+       *[other] { -brand-short-name } ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱯᱚᱯ-ᱚᱯ ᱣᱤᱸᱰᱚ ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ { $popupCount } ᱯᱚᱯᱼᱚᱯᱷ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ
+           *[other] ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = “{ $popupURI }” ᱫᱮᱠᱷᱟᱣ ᱢᱮ
