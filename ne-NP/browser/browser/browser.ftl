@@ -533,3 +533,31 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ले यो साइटलाई पप-अप सञ्झ्याल खोल्नबाट रोक्यो।
+       *[other] { -brand-short-name } ले यो साइटलाई { $popupCount } पप-अप सञ्झ्यालहरू खोल्नबाट रोक्यो।
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] विकल्पहरू
+           *[other] प्राथमिकताहरू…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' देखाउनुहोस्
