@@ -993,4 +993,28 @@ firefox-relay-offer-what-relay-does = אנחנו נעביר את כל הודעו
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = מידע נוסף על התקנת תוספות בצורה בטוחה
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } מנע מאתר זה לפתוח חלון קופץ.
+       *[other] { -brand-short-name } מנע מאתר זה מלפתוח { $popupCount } חלונות קופצים.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] אפשרויות
+           *[other] העדפות
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] א
+           *[other] ד
+        }
