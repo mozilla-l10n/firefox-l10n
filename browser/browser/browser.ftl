@@ -541,6 +541,10 @@ popup-warning-message =
         [one] { -brand-short-name } একটি পপ আপ উইন্ডো খোলার থেকে এই সাইটকে প্রতিরোধ করেছে।
        *[other] { -brand-short-name } { $popupCount } পপ আপ উইন্ডো খোলার থেকে এই সাইটকে প্রতিরোধ করেছে।
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } এই সাইট থেকে { $popupCount } এর বেশি পপ-আপ উইন্ডো খোলা থেকে বিরত রাখে।
 popup-warning-button =
     .label =
         { PLATFORM() ->
