@@ -995,4 +995,36 @@ firefox-relay-offer-what-relay-does = O mandarìn indenant dutis lis e-mails di 
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Scuvierç di plui su la instalazion di components adizionâi in sigurece
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } al à impedît a chest sît di vierzi un barcon a comparse.
+       *[other] { -brand-short-name } al à impedît a chest sît di vierzi { $popupCount } barcons a comparse.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } al à impedît a chest sît di vierzi plui di { $popupCount } barcons a comparse.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opzions
+           *[other] Preferencis
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Mostre “{ $popupURI }”
