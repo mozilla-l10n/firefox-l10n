@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = 창과 탭
 browser-data-session-label =
     .value = 창과 탭
+browser-data-payment-methods-checkbox =
+    .label = 결제 방법
+browser-data-payment-methods-label =
+    .value = 결제 방법
