@@ -1004,6 +1004,15 @@ popup-warning-message =
         [few] { -brand-short-name } je spriječio otvaranje { $popupCount } skočna prozora na ovoj stranici.
        *[other] { -brand-short-name } je spriječio otvaranje { $popupCount } skočnih prozora na ovoj stranici.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } skočnog prozora.
+        [few] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } skočna prozora.
+       *[other] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } skočnih prozora.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
