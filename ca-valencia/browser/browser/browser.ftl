@@ -842,4 +842,36 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Més informació sobre la instal·lació de complements de forma segura
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] El { -brand-short-name } ha impedit que este lloc obrira una finestra emergent.
+       *[other] El { -brand-short-name } ha impedit que este lloc obrira { $popupCount } finestres emergents.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = El { -brand-short-name } ha impedit que este lloc obrira més de { $popupCount } finestres emergents.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferències
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Mostra «{ $popupURI }»
