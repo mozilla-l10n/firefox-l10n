@@ -988,4 +988,25 @@ firefox-relay-offer-what-relay-does = 我们会将所有发送自“<strong>{ $s
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = 详细了解如何安全地安装附加组件
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] 选项
+           *[other] 首选项
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = 显示“{ $popupURI }”
