@@ -145,6 +145,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -157,6 +162,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Bontšha dipukutshwayo tše oketšegilego
 bookmarks-sidebar-content =
     .aria-label = Dipukutshwayo
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = Nyaka dipukutshwayo
 bookmarks-bookmark-edit-panel =
@@ -240,7 +253,30 @@ data-reporting-notification-message = { -brand-short-name } ka maitirišo e rome
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } e thibetše letlakala le go hlahlela gape ka maitirišo.
 refresh-blocked-redirect-label = { -brand-short-name } e thibetše letlakala le go laela gape ka maitirišo go ya letlakaleng le lengwe.
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } e thibetše saete ye go bula lefasetere le runyago.
+       *[other] { -brand-short-name } e thibetše saete ye go bula mafasetere a { $popupCount } a runyago.
+    }
