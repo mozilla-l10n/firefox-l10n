@@ -552,6 +552,10 @@ popup-warning-message =
         [one] { -brand-short-name } એ પોપ-અપ વિન્ડોને ખોલીને આ સાઇટને અટકાવેલ છે.
        *[other] { -brand-short-name }  એ { $popupCount } પોપ-અપ વિન્ડોને ખોલીને આ સાઇટને અટકાવેલ છે.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } એ આ સાઇટને { $popupCount } કરતાં વધુ પૉપ-અપ વિંડોઝ ખોલવાથી અટકાવી.
 popup-warning-button =
     .label =
         { PLATFORM() ->
