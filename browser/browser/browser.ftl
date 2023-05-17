@@ -280,3 +280,7 @@ popup-warning-message =
         [one] { -brand-short-name } e thibetše saete ye go bula lefasetere le runyago.
        *[other] { -brand-short-name } e thibetše saete ye go bula mafasetere a { $popupCount } a runyago.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Laetša '{ $popupURI }'
