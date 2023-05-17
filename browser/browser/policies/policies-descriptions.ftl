@@ -13,6 +13,7 @@
 policy-3rdparty = Estableza as políticas ás que WebExtensions poida acceder mediante chrome.storage.managed.
 policy-AllowedDomainsForApps = Definir dominios cos que se pode acceder a Google Workspace.
 policy-AppAutoUpdate = Active ou desactive a actualización automática do aplicativo.
+policy-AppUpdatePin = Impedir a { -brand-short-name } actualizarse alén dunha versión indicada.
 policy-AppUpdateURL = Permítelle estabelecer un URL de actualización personalizado para o aplicativo.
 policy-Authentication = Configura a autenticación integrada para os sitios web que a admiten.
 policy-AutoLaunchProtocolsFromOrigins = Definir unha lista de protocolos externos que poidan ser empregados  das orixes listadas sen lle preguntar ao usuario.
@@ -52,6 +53,7 @@ policy-DisableSecurityBypass = Evita que o usuario se salte certos avisos de seg
 policy-DisableSetAsDesktopBackground = Desactiva a orde do menú Estabelecer como fondo do escritorio para as imaxes.
 policy-DisableSystemAddonUpdate = Evita que o navegador instale e actualice complementos do sistema.
 policy-DisableTelemetry = Desactivar a telemetría.
+policy-DisableThirdPartyModuleBlocking = Impedir á persoa usuaria bloquear módulos de terceiras partes que se inxectan no proceso de { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Amosa a barra de ferramentas de marcadores de forma predeterminada.
 policy-DisplayMenuBar = Amosar a barra de menú de forma predeterminada.
 policy-DNSOverHTTPS = Permite configurar o DNS baixo HTTPS.
@@ -61,6 +63,7 @@ policy-DownloadDirectory = Establecer e bloquear o directorio de descarga.
 policy-EnableTrackingProtection = Activa ou desactiva o bloqueo de contido e opcionalmente bloquéao.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Activar ou desactivar Extensións de Medios Cifrados e, opcionalmente, bloquealo.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Desactivar avisos segundo a extensión de ficheiro de tipos de ficheiro específicos en dominios.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -68,7 +71,9 @@ policy-Extensions = Instala, desinstala ou bloquea extensións. A opción de ins
 policy-ExtensionSettings = Xestionar todos os aspectos da instalación de extensións.
 policy-ExtensionUpdate = Activar ou desactivar as actualizacións automáticas de extensións.
 policy-FirefoxHome = Configurar o Firefox Home.
+policy-FirefoxHome2 = Configurar { -firefox-home-brand-name }.
 policy-FlashPlugin = Permite ou denega o uso do engadido Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forzar a navegación directa no sitio da intranet en lugar de buscar ao escribir entradas dunha soa palabra na barra de enderezos.
 policy-Handlers = Configurar os manipuladores de aplicativos predeterminados.
 policy-HardwareAcceleration = Se é falso, desactiva a aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -95,6 +100,7 @@ policy-OfferToSaveLoginsDefault = Establecer o valor predeterminado para permiti
 policy-OverrideFirstRunPage = Anular a páxina de primeira execución. Deixe esta política en branco se quere desactivar a páxina de primeira execución.
 policy-OverridePostUpdatePage = Anula a páxina de «Novidades» posterior á actualización. Deixe esta política en branco se quere desactivar a páxina posterior á actualización.
 policy-PasswordManagerEnabled = Habilitar gardar contrasinais no xestor de contrasinais.
+policy-PasswordManagerExceptions = Impedir a { -brand-short-name } gardar contrasinais para sitios concretos.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactivar ou configurar PDF.js, o visor de PDF incorporado en { -brand-short-name }.
 policy-Permissions2 = Configurar os permisos para cámara, micrófono, localización, notificacións e reprodución automática.
@@ -115,7 +121,10 @@ policy-SecurityDevices2 = Engadir ou eliminar módulos PKCS #11.
 policy-ShowHomeButton = Mostrar o botón de inicio na barra de ferramentas.
 policy-SSLVersionMax = Estabelecer a versión máxima de SSL.
 policy-SSLVersionMin = Establecer a versión mínima de SSL.
+policy-StartDownloadsInTempDirectory = Forzar que as descargas se inicien nun lugar temporal e local en lugar de no directorio de descargas predeterminado.
 policy-SupportMenu = Engadir un elemento de menú de asistencia personalizada ao menú de axuda.
 policy-UserMessaging = Non mostrar ao usuario certas mensaxes.
+policy-UseSystemPrintDialog = Imprimir co diálogo de impresión do sistema.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquea sitios web para que non sexan visitados. Vexa a documentación para obter máis información sobre o formato.
+policy-Windows10SSO = Permitir o inicio de sesión único de Windows para contas de Microsoft, do traballo e da escola.

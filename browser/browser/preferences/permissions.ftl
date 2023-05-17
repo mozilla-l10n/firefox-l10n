@@ -77,12 +77,13 @@ permissions-invalid-uri-label = Introduza un nome de servidor válido
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Excepcións para a protección avanzada de rastrexo
+    .title = Excepcións da protección mellorada contra o rastrexo
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Desactivou as proteccións nestes sitios web.
 permissions-exceptions-etp-window2 =
-    .title = Excepcións para a protección avanzada de rastrexo
+    .title = Excepcións da protección mellorada contra o rastrexo
     .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = Pode indicar que sitios web teñen desactivada a protección mellorada contra o rastrexo. Escriba o enderezo exacto do sitio que queira xestionar e prema «Engadir unha excepción».
 
 ## Exceptions - Cookies
 
@@ -216,6 +217,7 @@ permissions-site-microphone-disable-desc = Isto evitará que os sitios web non l
 permissions-site-speaker-window =
     .title = Configuración - Permisos de altofalantes
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Os seguintes sitios web solicitaron seleccionar un dispositivo de saída de son. Podes indicar que sitios web teñen permiso para seleccionar un dispositivo de saída de son.
 permissions-exceptions-doh-window =
     .title = Excepcións de sitios web para DNS sobre HTTPS
     .style = { permissions-window2.style }
