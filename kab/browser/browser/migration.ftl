@@ -145,3 +145,7 @@ browser-data-session-checkbox =
     .label = Isfuyla d yiccaren
 browser-data-session-label =
     .value = Isfuyla d yiccaren
+browser-data-payment-methods-checkbox =
+    .label = Tarrayin n uxelleṣ
+browser-data-payment-methods-label =
+    .value = Tarrayin n uxelleṣ

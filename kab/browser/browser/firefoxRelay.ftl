@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = Sirew agelmus { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Kemmel
     .accesskey = K
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Mmesten tansa-k n yimayl:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Seqdec ugelmus n yimayl n { -relay-brand-name }
+firefox-relay-use-mask-title = Seqdec ugelmus n yimayl n { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Seqdec agelmus n yimayl
+    .accesskey = S
 firefox-relay-opt-in-confirmation-disable =
     .label = Ur yi-d-skan ara aya tikkelt-nniḍen
     .accesskey = U

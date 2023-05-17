@@ -104,6 +104,7 @@ migration-import-from-file-button-label = Fren afaylu
 migration-cancel-button-label = Sefsex
 migration-done-button-label = Immed
 migration-continue-button-label = Kemmel
+migration-wizard-import-browser-no-browsers = { -brand-short-name } ur issaweḍ ara ad yaf kra n wahi ideg llant tecraḍ n yisebtar, azray neɣ isefka n wawalen uffiren.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
