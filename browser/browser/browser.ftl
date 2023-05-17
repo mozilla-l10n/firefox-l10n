@@ -441,3 +441,7 @@ popup-warning-message =
         [one] { -brand-short-name } ଏହି ସାଇଟକୁ ପପ-ଅପ ୱିଣ୍ଡୋ ଖୋଲିବାରୁ ବାରଣ କରିଥାଏ।
        *[other] { -brand-short-name } ଏହି ସାଇଟକୁ { $popupCount } ପପ-ଅପ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ଖୋଲିବାରୁ ବାରଣ କରିଥାଏ।
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }'କୁ ଦର୍ଶାନ୍ତୁ
