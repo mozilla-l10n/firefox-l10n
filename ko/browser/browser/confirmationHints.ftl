@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = 고정됨!
 confirmation-hint-pin-tab-description = 탭을 마우스 오른쪽 버튼으로 눌러 고정 해제합니다.
 confirmation-hint-send-to-device = 보냄!
 confirmation-hint-firefox-relay-mask-generated = 새 { -relay-brand-short-name } 마스크가 생성되었습니다!
+confirmation-hint-firefox-relay-mask-created = 새로운 마스크가 생성됨!
+confirmation-hint-firefox-relay-mask-reused = 기존 마스크 재사용됨!
