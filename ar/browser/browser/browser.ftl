@@ -869,4 +869,31 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = اطّلع على المزيد حول طريقة تثبيت الإضافات بأمان تام
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] منع { -brand-short-name } هذا الموقع من فتح نافذة منبثقة.
+        [two] منع { -brand-short-name } هذا الموقع من فتح نافذتين منبثقتين.
+        [few] منع { -brand-short-name } هذا الموقع من فتح { $popupCount } نوافذ منبثقة.
+        [many] منع { -brand-short-name } هذا الموقع من فتح { $popupCount } نافذة منبثقة.
+       *[other] منع { -brand-short-name } هذا الموقع من فتح { $popupCount } نافذة منبثقة.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] الخيارات
+           *[other] التفضيلات
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] خ
+           *[other] ت
+        }
