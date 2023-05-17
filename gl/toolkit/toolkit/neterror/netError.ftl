@@ -24,6 +24,7 @@ neterror-pref-reset-button = Restaurar a configuración predeterminada
 neterror-return-to-previous-page-button = Ir atrás
 neterror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 neterror-try-again-button = Tentar de novo
+neterror-add-exception-button = Continuar sempre para este sitio
 neterror-settings-button = Cambiar a configuración de DNS
 neterror-view-certificate-link = Ver o certificado
 neterror-trr-continue-this-time = Continuar esta vez
@@ -41,23 +42,37 @@ neterror-load-error-try-again = O sitio podería estar non dispoñíbel temporal
 neterror-load-error-connection = Se non consegue cargar algunhas páxinas, comprobe a conexión de rede do computador.
 neterror-load-error-firewall = Se o computador ou a rede están protexidos por unha devasa ou proxy, asegúrese que { -brand-short-name } ten permiso para acceder á Web.
 neterror-captive-portal = Debe identificarse nesta rede antes de que poida acceder á Internet.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Pretendías ir a <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Se escribiches ben o enderezo, podes:</strong>
 neterror-dns-not-found-hint-try-again = Ténteo de novo máis tarde
 neterror-dns-not-found-hint-check-network = Comprobe a súa conexión de rede
+neterror-dns-not-found-hint-firewall = Comproba que { -brand-short-name } ten permiso para acceder á web (pode que teñas conexión pero que esteas detrás dunha devasa)
 
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } non pode protexer a túa solicitude para o enderezo deste sitio a través do noso resolvente de DNS de confianza. Motivo:
+neterror-dns-not-found-trr-third-party-warning = Podes continuar cun resolvente de DNS que non sexa seguro. Porén, pode que unha terceira parte poida ver os sitios web que visitas.
 neterror-dns-not-found-trr-third-party-warning2 = Pode continuar co seu resolvedor de DNS predeterminado. Non obstante, é posible que un terceiro poida ver os sitios web que visita.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non se puido conectar a { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = A conexión con { $trrDomain } tardou máis do esperado.
 neterror-dns-not-found-trr-offline = Non está conectado a Internet.
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } non atopou un enderezo para este sitio web.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } non atopou este sitio web.
+neterror-dns-not-found-trr-server-problem = Houbo un problema con { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } non pode protexer a túa solicitude para o enderezo deste sitio a través do noso resolvente de DNS de confianza. Motivo:
+neterror-dns-not-found-native-fallback-heuristic = O DNS por HTTPS está desactivado na túa rede.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } non se puido conectar a { $trrDomain }.
 
 ##
 
