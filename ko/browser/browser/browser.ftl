@@ -990,6 +990,7 @@ firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong>의 모든 �
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = 안전하고 사용하기 쉬운 마스크는 이메일 주소를 숨김으로써 신원을 보호하고 스팸을 방지합니다.
 
 ## Pop-up Notification
 
