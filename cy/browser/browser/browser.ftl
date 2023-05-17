@@ -1031,6 +1031,28 @@ popup-warning-message =
         [many] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
        *[other] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen.
+        [two] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen.
+        [few] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen.
+        [many] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen.
+       *[other] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opsiynau
+           *[other] Dewisiadau
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] D
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
