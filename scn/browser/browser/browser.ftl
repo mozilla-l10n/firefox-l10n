@@ -492,4 +492,14 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Cchiù nfurmazziuna supra u nzitamentu sicuru di l'agghiuncitini
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Mustra “{ $popupURI }”
