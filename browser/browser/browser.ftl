@@ -965,6 +965,17 @@ popup-notification-xpinstall-prompt-learn-more = එක්කහු ආරක්
 
 ## Pop-up warning
 
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] විකල්ප
+           *[other] අභිප්‍රේත
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
