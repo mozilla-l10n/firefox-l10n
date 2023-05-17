@@ -151,6 +151,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -163,6 +168,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Zêdetir bijare nîşan bide
 bookmarks-sidebar-content =
     .aria-label = Bijare
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = Vê bijareyê serast bike
 bookmarks-toolbar-menu =
@@ -261,7 +274,30 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } nehişt ku ev malper rûpelê xweber nû bike.
 refresh-blocked-redirect-label = { -brand-short-name } nehişt ku ev malper ber bi malpereke din ve bê beralîkirin.
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name }ê asteng kir ku ev malper popupekê veke.
+       *[other] { -brand-short-name }ê asteng kir ku ev malper { $popupCount } popupan veke.
+    }
