@@ -853,6 +853,28 @@ popup-notification-xpinstall-prompt-learn-more = Alamin ang tungkol sa ligtas na
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] Pinigil ng { -brand-short-name } na magbukas ng pop-up window sa site na ito.
+       *[other] Pinigil ng { -brand-short-name } na magbukas ng { $popupCount } pop-up window sa site na ito.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = Pinigilan ng { -brand-short-name } ang site na ito na magbukas ng higit sa { $popupCount } pop-up window.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Mga Pagpipilian
+           *[other] Mga Kagustuhan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Ipakita ang '{ $popupURI }'
