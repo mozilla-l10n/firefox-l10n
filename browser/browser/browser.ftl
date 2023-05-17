@@ -1011,6 +1011,21 @@ popup-warning-message =
         [one] A { -brand-short-name } megakadályozta, hogy ez a webhely felugró ablakot nyisson meg.
        *[other] A { -brand-short-name } megakadályozta, hogy ez a webhely { $popupCount } felugró ablakot nyisson meg.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = A { -brand-short-name } megakadályozta, hogy ez a webhely több mint { $popupCount } felugró ablakot nyisson meg.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Beállítások
+           *[other] Beállítások
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] B
+           *[other] B
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
