@@ -1021,6 +1021,16 @@ popup-warning-message =
         [few] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } priob-uinneagan fhosgladh.
        *[other] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } priob-uinneag fhosgladh.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] Chum { -brand-short-name } an làrach seo o bhith a’ fosgladh { $popupCount } phriob-uinneag
+        [two] Chum { -brand-short-name } an làrach seo o bhith a’ fosgladh { $popupCount } phriob-uinneag
+        [few] Chum { -brand-short-name } an làrach seo o bhith a’ fosgladh { $popupCount } priob-uinneagan
+       *[other] Chum { -brand-short-name } an làrach seo o bhith a’ fosgladh { $popupCount } priob-uinneag
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
