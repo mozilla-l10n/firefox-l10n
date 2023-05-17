@@ -994,4 +994,21 @@ firefox-relay-offer-what-relay-does = Θα προωθήσουμε όλα τα em
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Μάθετε περισσότερα σχετικά με την ασφαλή εγκατάσταση πρόσθετων
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Επιλογές
+           *[other] Προτιμήσεις
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] λ
+           *[other] ρ
+        }
