@@ -988,4 +988,25 @@ firefox-relay-offer-what-relay-does = Totu is messàgios de posta eletrònica an
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Àteras informatziones subra de s'installatzione segura de cumplementos
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } at impedidu a custu situ de abèrrere una ventana emergente.
+       *[other] { -brand-short-name } at impedidu a custu situ de abèrrere { $popupCount } ventanas emergentes.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } at impedidu a custu situ de abèrrere prus de { $popupCount } ventanas emergentes.
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Ammustra “{ $popupURI }”
