@@ -712,6 +712,17 @@ popup-warning-message =
         [one] { -brand-short-name } ushbu saytni o‘zi paydo bo‘luvchi oynadan to‘sib turibdi.
        *[other] { -brand-short-name } ushbu saytni o‘zi paydo bo‘luvchi { $popupCount } oynalardan to‘sib turibdi.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Sozlamalar
+           *[other] Parametrlar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] P
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
