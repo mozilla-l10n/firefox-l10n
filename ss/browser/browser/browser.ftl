@@ -50,6 +50,7 @@ browser-main-window-title = { -brand-full-name }
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -96,6 +97,14 @@ browser-window-minimize-button =
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -106,6 +115,13 @@ browser-window-minimize-button =
 
 bookmarks-sidebar-content =
     .aria-label = Tibekiso
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
 
 bookmarks-toolbar-menu =
     .label = LiIthulusi-bha Letibekiso
@@ -126,9 +142,6 @@ bookmarks-toolbar-placeholder-button =
 ## Customize Toolbar Buttons
 
 
-## More items
-
-
 ## EME notification panel
 
 
@@ -136,9 +149,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -165,7 +175,6 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Layishela
-
 tabs-toolbar-new-tab =
     .label = Emathebhu Lamasha
 
@@ -174,5 +183,29 @@ tabs-toolbar-new-tab =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+
 ## Unified extensions (toolbar) button
 
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Autorefresh blocker
+
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Khombisa '{ $popupURI }'
