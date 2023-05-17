@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (brez naslova)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Iz varnostnih razlogov URL-jev "javascript:" ali "data:" ne morete odpreti neposredno iz okna za zgodovino ali iz stranske vrstice.
 places-bookmarks-backup-title = Ime datoteke z varnostno kopijo zaznamkov
 places-bookmarks-restore-alert-title = Povrni zaznamke
 places-bookmarks-restore-alert = Ta korak bo vse vaše trenutne zaznamke zamenjal z varnostno kopijo. Ali ste prepričani?
