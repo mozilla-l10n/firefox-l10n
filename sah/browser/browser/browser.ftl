@@ -284,3 +284,7 @@ refresh-blocked-redirect-label = Атын сирэйгэ аптамаатына�
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = { -brand-short-name } биир ойон тахсар түннүгү хааччахтаата.
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Маны «{ $popupURI }» көрдөр
