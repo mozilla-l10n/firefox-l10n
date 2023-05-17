@@ -815,6 +815,10 @@ refresh-blocked-allow =
 
 ## Pop-up warning
 
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } nuu ya´a ntu nkuni sínenu { $popupCount } ventanas nava.
 popup-warning-button =
     .label =
         { PLATFORM() ->
