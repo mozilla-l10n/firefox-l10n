@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = Búðu til { -relay-brand-short-name } gr
 firefox-relay-opt-in-confirmation-enable =
     .label = Halda áfram
     .accesskey = H
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Verndaðu tölvupóstfangið þitt:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Notaðu { -relay-brand-name } tölvupósthulu
+firefox-relay-use-mask-title = Notaðu { -relay-brand-name } tölvupósthulu
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Nota tölvupóstmaska
+    .accesskey = u
 firefox-relay-opt-in-confirmation-disable =
     .label = Ekki sýna mér þetta aftur
     .accesskey = k

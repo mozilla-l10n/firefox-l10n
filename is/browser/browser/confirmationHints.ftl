@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Fest!
 confirmation-hint-pin-tab-description = Hægri smelltu á flipann til að fjarlæga hann.
 confirmation-hint-send-to-device = Sent!
 confirmation-hint-firefox-relay-mask-generated = Ný { -relay-brand-short-name } gríma útbúin!
+confirmation-hint-firefox-relay-mask-created = Nýr maski búinn til!
+confirmation-hint-firefox-relay-mask-reused = Fyrirliggjandi maski endurnýttur!

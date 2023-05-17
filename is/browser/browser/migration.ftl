@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Gluggar og flipar
 browser-data-session-label =
     .value = Gluggar og flipar
+browser-data-payment-methods-checkbox =
+    .label = Greiðslumátar
+browser-data-payment-methods-label =
+    .value = Greiðslumátar
