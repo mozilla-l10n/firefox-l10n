@@ -1005,4 +1005,34 @@ firefox-relay-offer-what-relay-does = Vsa sporočila spletnega mesta <strong>{ $
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Več o varni namestitvi dodatkov
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } je strani preprečil, da bi odprla pojavno okno.
+        [two] { -brand-short-name } je strani preprečil, da bi odprla { $popupCount } pojavni okni.
+        [few] { -brand-short-name } je strani preprečil, da bi odprla { $popupCount } pojavna okna.
+       *[other] { -brand-short-name } je strani preprečil, da bi odprla { $popupCount } pojavnih oken.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Nastavitve
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] N
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Pokaži '{ $popupURI }'
