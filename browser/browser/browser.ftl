@@ -1021,6 +1021,17 @@ popup-notification-xpinstall-prompt-learn-more = Dysgwch ragor am osod ategion y
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [zero] Nid yw gwefan { -brand-short-name } wedi rhwystro rhag agor llamlenni.
+        [one] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
+        [two] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
+        [few] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
+        [many] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
+       *[other] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
+    }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Dangos '{ $popupURI }'
