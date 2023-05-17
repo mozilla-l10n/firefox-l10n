@@ -50,6 +50,7 @@ browser-main-window-title = { -brand-full-name }
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -98,6 +99,14 @@ urlbar-go-button =
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -108,6 +117,13 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Utumenyetso
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
 
 bookmarks-toolbar-menu =
     .label = Umwanyabikoresho w'Utumenyetso
@@ -128,8 +144,6 @@ bookmarks-toolbar-placeholder-button =
 ## Customize Toolbar Buttons
 
 
-## More items
-
 ## EME notification panel
 
 
@@ -137,9 +151,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -151,7 +162,6 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Gutuma Ibyirambura Bikoreshwa kuri { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Guhagarika Ibyirambura kuri { $uriHost }
     .accesskey = p
@@ -173,7 +183,6 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ibikururwa
-
 tabs-toolbar-new-tab =
     .label = Agafishi Gashya
 
@@ -182,5 +191,29 @@ tabs-toolbar-new-tab =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+
 ## Unified extensions (toolbar) button
 
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Autorefresh blocker
+
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Kwerekana '{ $popupURI }'
