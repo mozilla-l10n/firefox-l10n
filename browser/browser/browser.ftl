@@ -301,3 +301,7 @@ popup-warning-message =
         [one] { -brand-short-name }ê asteng kir ku ev malper popupekê veke.
        *[other] { -brand-short-name }ê asteng kir ku ev malper { $popupCount } popupan veke.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' nîşan bide
