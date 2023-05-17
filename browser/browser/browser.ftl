@@ -1021,6 +1021,14 @@ popup-notification-xpinstall-prompt-learn-more = Сазнајте више о б
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } је спречио веб сајт да отвори искачући прозор.
+        [few] { -brand-short-name } је спречио веб сајт да отвори { $popupCount } искачућа прозора.
+       *[other] { -brand-short-name } је спречио веб сајт да отвори { $popupCount } искачућих прозора.
+    }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Прикажи „{ $popupURI }‟
