@@ -531,3 +531,18 @@ popup-warning-message =
         [one] { -brand-short-name } இந்த தளத்தை ஒரு பாப்-அப் சாளரத்தைத் திறப்பதைத் தடுத்துவிட்டது.
        *[other] { -brand-short-name } இந்த தளத்தை { $popupCount } பாப்-அப் சாளரங்களைத் திறப்பதைத் தடுத்துவிட்டது.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] தேர்வுகள்
+           *[other] முன்னுரிமைகள்
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }'ஐ காட்டு
