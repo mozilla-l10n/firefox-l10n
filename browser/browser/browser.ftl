@@ -999,6 +999,15 @@ popup-warning-message =
         [few] „{ -brand-short-name }“ neleido šiai svetainei atverti { $popupCount } iškylančiojo lango.
        *[other] „{ -brand-short-name }“ neleido šiai svetainei atverti { $popupCount } iškylančiųjų langų.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] „{ -brand-short-name }“ neleido šiai svetainei atverti daugiau nei { $popupCount } iškylančiojo lango.
+        [few] „{ -brand-short-name }“ neleido šiai svetainei atverti daugiau nei { $popupCount } iškylančiųjų langų.
+       *[other] „{ -brand-short-name }“ neleido šiai svetainei atverti daugiau nei { $popupCount } iškylančiųjų langų.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
