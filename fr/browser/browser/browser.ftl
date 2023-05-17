@@ -997,6 +997,7 @@ firefox-relay-offer-what-relay-does = Nous transférerons tous les e-mails de <s
 
 ## Popup Notification
 
+firefox-relay-offer-legal-notice = En cliquant sur « Utiliser les alias de messagerie », vous acceptez les <label data-l10n-name="tos-url">Conditions d’utilisation</label> et la <label data-l10n-name="privacy-url">Politique de confidentialité</label>.
 
 ## Pop-up Notification
 
