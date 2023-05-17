@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Clavate!
 confirmation-hint-pin-tab-description = Clicca dextre le scheda pro disclavar lo.
 confirmation-hint-send-to-device = Inviate!
 confirmation-hint-firefox-relay-mask-generated = Nove masca de { -relay-brand-short-name } generate!
+confirmation-hint-firefox-relay-mask-created = Nove masca create!
+confirmation-hint-firefox-relay-mask-reused = Masca existente reusate!
