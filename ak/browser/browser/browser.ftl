@@ -294,3 +294,7 @@ popup-warning-message =
         [one] { -brand-short-name } sii saet yi ano kwan sɛ ɔbebue tokura pɔpap.
        *[other] { -brand-short-name } sii saet yi ano kwan sɛ ɔbebue pɔpap ntokura { $popupCount }
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Kyerɛ '{ $popupURI }'
