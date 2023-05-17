@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Wokna a rejtariki
 browser-data-session-label =
     .value = Wokna a rejtariki
+browser-data-payment-methods-checkbox =
+    .label = Płaśeńske metody
+browser-data-payment-methods-label =
+    .value = Płaśeńske metody
