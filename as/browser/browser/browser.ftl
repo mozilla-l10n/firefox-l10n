@@ -831,4 +831,14 @@ refresh-blocked-redirect-label = { -brand-short-name } এ এই পৃষ্�
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = নিৰাপদে এড-অন ইনষ্টল কৰাৰ বিষয়ে অধিক জানক
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' দেখুৱাওক
