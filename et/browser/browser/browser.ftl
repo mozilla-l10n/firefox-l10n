@@ -900,6 +900,17 @@ popup-notification-xpinstall-prompt-learn-more = Rohkem teavet lisade turvalise 
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ei lubanud sellel veebilehel avada hüpikakent.
+       *[other] { -brand-short-name } ei lubanud sellel veebilehel avada { $popupCount } hüpikakent.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } ei lubanud sellel saidil avada rohkem kui { $popupCount } hüpikakent.
 popup-warning-button =
     .label =
         { PLATFORM() ->
