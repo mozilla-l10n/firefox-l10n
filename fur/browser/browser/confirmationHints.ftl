@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Fissade!
 confirmation-hint-pin-tab-description = Clic-diestri ae schede par molâle.
 confirmation-hint-send-to-device = Mandade!
 confirmation-hint-firefox-relay-mask-generated = Gnove mascare di { -relay-brand-short-name } gjenerade!
+confirmation-hint-firefox-relay-mask-created = Gnove mascare creade!
+confirmation-hint-firefox-relay-mask-reused = Mascare esistente tornade a doprâ!

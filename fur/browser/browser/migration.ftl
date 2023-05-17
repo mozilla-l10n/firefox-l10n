@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Barcons e schedis
 browser-data-session-label =
     .value = Barcons e schedis
+browser-data-payment-methods-checkbox =
+    .label = Metodis di paiament
+browser-data-payment-methods-label =
+    .value = Metodis di paiament
