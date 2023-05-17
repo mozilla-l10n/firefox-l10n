@@ -886,6 +886,9 @@ firefox-relay-offer-what-relay-does = ພວກເຮົາຈະສົ່ງຕ
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name } ປ້ອງກັນບໍ່ໃຫ້ເວັບໄຊທ໌ນີ້ເປີດ { $popupCount } ໜ້າຕ່າງປັອບອັບ.
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
