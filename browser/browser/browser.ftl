@@ -994,4 +994,21 @@ firefox-relay-offer-what-relay-does = Välitämme kaikki sähköpostit sivustolt
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Lue lisää lisäosien asentamisesta turvallisesti
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Asetukset
+           *[other] Asetukset
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
+        }
