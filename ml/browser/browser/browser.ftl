@@ -490,3 +490,16 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ഒരു പോപ്പപ്പ് ജാലകം തുറക്കുന്നതില്‍ നിന്നും ഈ സൈറ്റിനെ തടയുന്നു
+       *[other] { -brand-short-name } ഈ സൈറ്റ് തുറക്കുന്നതില്‍ നിന്നും തടയുന്നു { $popupCount } പോപ്പപ്പ് ജാലകങ്ങള്‍.
+    }
