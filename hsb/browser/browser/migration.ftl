@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Wokna a rajtarki
 browser-data-session-label =
     .value = Wokna a rajtarki
+browser-data-payment-methods-checkbox =
+    .label = Płaćenske metody
+browser-data-payment-methods-label =
+    .value = Płaćenske metody

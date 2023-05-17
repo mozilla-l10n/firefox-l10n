@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Připjaty!
 confirmation-hint-pin-tab-description = Klikńće z prawej tastu, zo byšće jón wotpjał.
 confirmation-hint-send-to-device = Pósłany!
 confirmation-hint-firefox-relay-mask-generated = Nowa maska { -relay-brand-short-name } je so generowała!
+confirmation-hint-firefox-relay-mask-created = Nowa maska je so wutworiła!
+confirmation-hint-firefox-relay-mask-reused = Eksistowaca maska wužita!
