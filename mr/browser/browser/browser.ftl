@@ -570,6 +570,10 @@ popup-warning-message =
         [one] { -brand-short-name }ने ह्या स्थळाला पॉपअप पटल उघडण्यापासून प्रतिबंध केले आहे.
        *[other] { -brand-short-name }ने ह्या स्थळाला { $popupCount } पॉपअप पटलांना उघडण्यापासून प्रतिबंध केले आहे.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } ने या साइटला { $popupCount } पेक्षा जास्त पॉप-अप विंडो उघडण्यापासून प्रतिबंधित केले.
 popup-warning-button =
     .label =
         { PLATFORM() ->
