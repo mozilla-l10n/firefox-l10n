@@ -1009,6 +1009,17 @@ popup-warning-message =
         [one] { -brand-short-name } isewḥel asmel-a akken ad yeldi asfaylu udhim.
        *[other] { -brand-short-name } isewḥel asmel-a akken ad yeldi { $popupCount } isfuyla udhimen.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Iɣewwaṛen
+           *[other] Ismenyifen…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
