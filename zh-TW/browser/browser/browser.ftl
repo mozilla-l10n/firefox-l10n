@@ -193,7 +193,7 @@ urlbar-screen-blocked =
 urlbar-persistent-storage-blocked =
     .tooltiptext = 您已封鎖此網站儲存資料至持續性儲存空間。
 urlbar-popup-blocked =
-    .tooltiptext = 您封鎖了此網站的彈出視窗。
+    .tooltiptext = 您封鎖了此網站的彈出型視窗。
 urlbar-autoplay-media-blocked =
     .tooltiptext = 您已封鎖此網站自動播放有聲音的媒體內容。
 urlbar-canvas-blocked =
@@ -889,7 +889,7 @@ popups-infobar-dont-show-message =
     .label = 擋下彈出型視窗時不顯示此訊息
     .accesskey = D
 edit-popup-settings =
-    .label = 管理彈出視窗設定…
+    .label = 管理彈出型視窗設定…
     .accesskey = M
 picture-in-picture-hide-toggle =
     .label = 隱藏子母畫面切換按鈕
@@ -993,6 +993,10 @@ firefox-relay-offer-what-relay-does = 我們會將所有 <strong>{ $sitename }</
 ## Popup Notification
 
 firefox-relay-offer-why-to-use-relay = 我們安全易用的轉寄信箱，可隱藏您的實際信箱，並保護您的身分並防止垃圾信入侵。
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = 所有寄到您的轉寄信箱中的郵件，將會再轉寄到 <strong>{ $useremail }</strong>，除非您決定要封鎖此轉寄信箱。
+firefox-relay-offer-legal-notice = 若點擊「使用轉寄信箱」，代表您同意<label data-l10n-name="tos-url">服務條款</label>與<label data-l10n-name="privacy-url">隱私權公告</label>。
 
 ## Pop-up Notification
 
@@ -1002,11 +1006,15 @@ popup-notification-xpinstall-prompt-learn-more = 了解如何於安裝附加元�
 
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-message = { -brand-short-name } 封鎖了此網站的 { $popupCount } 個彈出視窗。
+popup-warning-message =
+    { $popupCount ->
+        [1] { -brand-short-name } 封鎖了此網站開啟的彈出型視窗。
+       *[other] { -brand-short-name } 封鎖了此網站的 { $popupCount } 個彈出型視窗。
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message = { -brand-short-name } 阻擋了此網站開啟超過 { $popupCount } 個彈出型視窗。
+popup-warning-exceeded-message = { -brand-short-name } 封鎖了此網站開啟超過 { $popupCount } 個彈出型視窗。
 popup-warning-button =
     .label =
         { PLATFORM() ->

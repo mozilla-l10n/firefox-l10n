@@ -23,7 +23,7 @@ toolbox-meatball-menu-community-label = 社群…
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
-toolbox-meatball-menu-noautohide-label = 不自動隱藏彈出視窗
+toolbox-meatball-menu-noautohide-label = 不自動隱藏彈出型視窗
 toolbox-meatball-menu-pseudo-locale-accented = 啟用「accented」語系
 toolbox-meatball-menu-pseudo-locale-bidi = 啟用「bidi」語系
 
@@ -42,10 +42,6 @@ toolbox-mode-parent-process-label = 僅有父處理程序
 toolbox-mode-parent-process-sub-label = （快速）
 toolbox-mode-parent-process-container =
     .title = 謹聚焦於來自父處理程序的資源。
-toolbox-always-on-top-enabled =
-    .title = 停用「總是顯示在最上層」（將重新啟動開發者工具）
-toolbox-always-on-top-disabled =
-    .title = 啟用「總是顯示在最上層」（將重新啟動開發者工具）
 toolbox-always-on-top-enabled2 = 關閉總是顯示在最上層功能
     .title = 將重新啟動開發者工具
 toolbox-always-on-top-disabled2 = 開啟總是顯示在最上層功能
