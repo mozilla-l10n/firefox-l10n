@@ -147,6 +147,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -159,6 +164,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Kyerɛ mbukmaak bebree
 bookmarks-sidebar-content =
     .aria-label = Mbukmaak
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = Hwewhɛ Mbukmaak
 bookmarks-bookmark-edit-panel =
@@ -251,6 +264,10 @@ data-reporting-notification-message = { -brand-short-name } soma data bi otomati
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } siiw krataafa yi sɛ noara bebue ne ho bio.
@@ -258,3 +275,22 @@ refresh-blocked-redirect-label = { -brand-short-name } siiw krataafa yi sɛ ɔde
 refresh-blocked-allow =
     .label = Ma ho kwan
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } sii saet yi ano kwan sɛ ɔbebue tokura pɔpap.
+       *[other] { -brand-short-name } sii saet yi ano kwan sɛ ɔbebue pɔpap ntokura { $popupCount }
+    }
