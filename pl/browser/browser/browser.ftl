@@ -1001,4 +1001,21 @@ firefox-relay-offer-what-relay-does = Będziemy przekierowywać wszystkie wiadom
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Więcej informacji o bezpiecznym instalowaniu dodatków
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcje
+           *[other] Preferencje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
