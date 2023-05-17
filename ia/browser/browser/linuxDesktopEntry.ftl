@@ -24,4 +24,4 @@ desktop-entry-keywords = Internet;WWW;Navigator;Web;Explorator;
 
 desktop-action-new-window-name = Nove fenestra
 desktop-action-new-private-window-name = Nove fenestra private
-desktop-action-open-profile-manager = Aperir le gestor del profilo
+desktop-action-open-profile-manager = Aperir le gestor de profilo
