@@ -994,4 +994,21 @@ firefox-relay-offer-what-relay-does = Encaminharemos todos os emails de <strong>
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Saiba mais sobre instalação de extensões com segurança
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opções
+           *[other] Preferências
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
