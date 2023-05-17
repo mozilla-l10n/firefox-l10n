@@ -1008,6 +1008,21 @@ popup-warning-message =
         [one] { -brand-short-name } forhindret dette nettstedet fra å åpne et sprettoppvindu.
        *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne { $popupCount } sprettoppvinduer.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } forhindret dette nettstedet fra å åpne mer enn { $popupCount } sprettopp-vinduer.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Innstillinger
+           *[other] Innstillinger
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
