@@ -994,4 +994,28 @@ firefox-relay-offer-what-relay-does = We’ll forward all emails from <strong>{ 
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Learn more about installing add-ons safely
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } prevented this site from opening a pop-up window.
+       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
