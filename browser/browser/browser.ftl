@@ -145,6 +145,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -157,6 +162,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = இன்னும் புத்தகக்குறிகளைக் காட்டுக
 bookmarks-sidebar-content =
     .aria-label = புத்தகக்குறிகள்
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக
 bookmarks-toolbar-menu =
@@ -235,7 +248,30 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ஆனது இந்தப் பக்கம் தன்னிச்சையாக மேலேற்றப்படுவதனைத் தடுக்கிறது.
 refresh-blocked-redirect-label = { -brand-short-name } ஆனது இந்தப் பக்கம் தன்னிச்சையாக இன்னொரு பக்கத்திற்குத் திருப்பப்படுவதனைத் தடுக்கிறது.
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ஆனது முன்னெழும் சாளரம் திறப்பதினைத் தடைசெய்கிறது.
+       *[other] { $popupCount } ஆனது முன்னெழும் சாளரங்கள் திறப்பதினைத் தடைசெய்கின்றன.
+    }
