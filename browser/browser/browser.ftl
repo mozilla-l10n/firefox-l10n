@@ -986,4 +986,36 @@ firefox-relay-offer-what-relay-does = Do t’i përcjellim krejt email-et nga <s
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Mësoni më tepër rreth instalimit të shtesave në mënyrë të parrezik
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } pengoi këtë sajt të hapë një dritare flluskë.
+       *[other] { -brand-short-name } pengoi kë të sajt të hapë { $popupCount } dritare flluska.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } e pengoi këtë sajt të hapë më shumë se { $popupCount } dritare flluska.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Mundësi
+           *[other] Parapëlqime
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Shfaq '{ $popupURI }'
