@@ -213,3 +213,7 @@ browser-data-session-checkbox =
     .label = Okna a panely
 browser-data-session-label =
     .value = Okna a panely
+browser-data-payment-methods-checkbox =
+    .label = Způsoby platby
+browser-data-payment-methods-label =
+    .value = Způsoby platby
