@@ -984,4 +984,33 @@ firefox-relay-offer-what-relay-does = Visus el. laiškus iš <strong>{ $sitename
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Sužinokite daugiau apie saugų priedų diegimą
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] „{ -brand-short-name }“ neleido šiai svetainei atverti iškylančiojo lango.
+        [few] „{ -brand-short-name }“ neleido šiai svetainei atverti { $popupCount } iškylančiojo lango.
+       *[other] „{ -brand-short-name }“ neleido šiai svetainei atverti { $popupCount } iškylančiųjų langų.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Nuostatos
+           *[other] Nuostatos
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Rodyti „{ $popupURI }“
