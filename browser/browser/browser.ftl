@@ -395,3 +395,16 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } prevented this site from opening a pop-up window.
+       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows.
+    }
