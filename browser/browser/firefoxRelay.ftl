@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = { -relay-brand-short-name }-maszk létreh
 firefox-relay-opt-in-confirmation-enable =
     .label = Folytatás
     .accesskey = F
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Védje meg az e-mail-címét:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Használjon { -relay-brand-name } e-mail-maszkot
+firefox-relay-use-mask-title = Használjon { -relay-brand-name } e-mail-maszkot
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = E-mail-maszk használata
+    .accesskey = h
 firefox-relay-opt-in-confirmation-disable =
     .label = Ne mutassa ezt újra
     .accesskey = N
