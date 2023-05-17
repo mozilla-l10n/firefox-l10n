@@ -999,6 +999,17 @@ popup-notification-xpinstall-prompt-learn-more = Més informació sobre la insta
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] El { -brand-short-name } ha impedit que aquest lloc obrís una finestra emergent.
+       *[other] El { -brand-short-name } ha impedit que aquest lloc obrís { $popupCount } finestres emergents.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = El { -brand-short-name } ha impedit que aquest lloc obrís més de { $popupCount } finestres emergents.
 popup-warning-button =
     .label =
         { PLATFORM() ->
