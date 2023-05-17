@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Připnuto!
 confirmation-hint-pin-tab-description = Pro odepnutí panelu na něj klepněte pravým tlačítkem.
 confirmation-hint-send-to-device = Odesláno
 confirmation-hint-firefox-relay-mask-generated = Vygenerována nová maska { -relay-brand-short-name }!
+confirmation-hint-firefox-relay-mask-created = Byla vytvořena nová maska!
+confirmation-hint-firefox-relay-mask-reused = Existující maska byla znovu použita!
