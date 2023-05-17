@@ -528,3 +528,16 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } একটি পপ আপ উইন্ডো খোলার থেকে এই সাইটকে প্রতিরোধ করেছে।
+       *[other] { -brand-short-name } { $popupCount } পপ আপ উইন্ডো খোলার থেকে এই সাইটকে প্রতিরোধ করেছে।
+    }
