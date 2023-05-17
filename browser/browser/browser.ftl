@@ -519,3 +519,24 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] ជម្រើស
+           *[other] ចំណូលចិត្ត
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = បង្ហាញ '{ $popupURI }'
