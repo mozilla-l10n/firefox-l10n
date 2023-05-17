@@ -1011,3 +1011,7 @@ popup-warning-message =
         [one] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði { $popupCount } sprettiglugga.
        *[other] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði { $popupCount } sprettiglugga.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Sýna “{ $popupURI }”
