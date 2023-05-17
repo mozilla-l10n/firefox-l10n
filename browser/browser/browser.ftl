@@ -147,6 +147,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -159,6 +164,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Wëskrzëni wicy załóżków
 bookmarks-sidebar-content =
     .aria-label = Załóżczi
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-toolbar-menu =
     .label = Lëstew załóżków
 bookmarks-toolbar-placeholder =
@@ -243,6 +256,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Program { -brand-short-name } nie zezwôlô ti stronie na ji aùtomatny zladënk znowa.
@@ -250,3 +267,38 @@ refresh-blocked-redirect-label = Program { -brand-short-name } nie dôł ti stro
 refresh-blocked-allow =
     .label = Zezwòlë
     .accesskey = Z
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } nie zezwôlë ny stronie òtemknąc wëskakùjącégò òkna.
+        [few] { -brand-short-name } nie zezwôlë ny stronie òtmëkac { $popupCount } wëskakùjącëch òknów.
+       *[many] { -brand-short-name } nie zezwôlë ny stronie òtmëkac { $popupCount } wëskakùjącëch òknów.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Òptacje
+           *[other] Preferencje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] p
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Wëskrzëni '{ $popupURI }'
