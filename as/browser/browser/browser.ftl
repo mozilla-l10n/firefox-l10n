@@ -839,6 +839,13 @@ popup-notification-xpinstall-prompt-learn-more = নিৰাপদে এড-�
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } এ এই ছাইটক এটা পপ-আপ উইণ্ড' খোলাৰ পৰা প্ৰতিৰোধ কৰিছে।
+       *[other] { -brand-short-name } এ এই ছাইটক { $popupCount } পপ-আপ উইণ্ড'সমূহ খোলাৰ পৰা প্ৰতিৰোধ কৰিছে।
+    }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' দেখুৱাওক
