@@ -997,4 +997,21 @@ firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónic
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Tetamäx ch'aqa' chik chi rij ri ütz rub'eyal ye'ayäk taq tz'aqat
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } xuq'ät re ruxaq k'amaya'l re richin nujäq jun silon tzuwäch
+       *[other] { -brand-short-name } xuq'ät re ruxaq k'amaya'l re richin yerujäq { $popupCount } silon taq tzuwäch.
+    }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Tik'ut pe ri “{ $popupURI }”
