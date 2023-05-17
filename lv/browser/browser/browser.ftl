@@ -542,3 +542,18 @@ popup-warning-message =
         [one] { -brand-short-name } liedza lapai atvērt { $popupCount } jaunus logus.
        *[other] { -brand-short-name } liedza lapai atvērt { $popupCount } jaunus logus.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Iestatījumi
+           *[other] Iestatījumi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Rādīt '{ $popupURI }'
