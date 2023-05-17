@@ -990,4 +990,28 @@ firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong> に届い�
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = アドオンの安全なインストールの詳細
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { $popupCount } 個のポップアップがブロックされました。
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] 設定
+           *[other] 設定
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = “{ $popupURI }” を表示
