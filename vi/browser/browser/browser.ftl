@@ -997,6 +997,13 @@ popup-notification-xpinstall-prompt-learn-more = Tìm hiểu thêm về cách c�
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name } đã chặn trang web này mở { $popupCount } cửa sổ bật lên.
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } đã ngăn trang web này mở nhiều hơn { $popupCount } cửa sổ bật lên.
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1008,3 +1015,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Hiển thị '{ $popupURI }'
