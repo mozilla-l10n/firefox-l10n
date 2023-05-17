@@ -151,3 +151,7 @@ browser-data-session-checkbox =
     .label = Fenêtres et onglets
 browser-data-session-label =
     .value = Fenêtres et onglets
+browser-data-payment-methods-checkbox =
+    .label = Moyens de paiement
+browser-data-payment-methods-label =
+    .value = Moyens de paiement
