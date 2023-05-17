@@ -542,6 +542,14 @@ popup-warning-message =
         [one] { -brand-short-name } liedza lapai atvērt { $popupCount } jaunus logus.
        *[other] { -brand-short-name } liedza lapai atvērt { $popupCount } jaunus logus.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] Neļaut { -brand-short-name } atvērt vairāk kā { $popupCount } uznirstošos logus
+       *[other] Neļaut { -brand-short-name } atvērt vairāk kā { $popupCount } uznirstošo logu
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
