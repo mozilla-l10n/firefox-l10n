@@ -1007,6 +1007,14 @@ popup-warning-message =
         [one] { -brand-short-name } מנע מאתר זה לפתוח חלון קופץ.
        *[other] { -brand-short-name } מנע מאתר זה מלפתוח { $popupCount } חלונות קופצים.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] ‏
+       *[other] { -brand-short-name } מנע מאתר זה לפתוח יותר מ־{ $popupCount } חלונות קופצים.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1018,3 +1026,7 @@ popup-warning-button =
             [windows] א
            *[other] ד
         }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = הצגת “{ $popupURI }”
