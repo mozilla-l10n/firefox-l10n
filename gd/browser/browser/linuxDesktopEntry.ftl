@@ -22,3 +22,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;eadar-lìon;brabhsair
 
 desktop-action-new-window-name = Uinneag ùr
 desktop-action-new-private-window-name = Uinneag phrìobhaideach ùr
+desktop-action-open-profile-manager = Fosgail manaidsear nam pròifilean

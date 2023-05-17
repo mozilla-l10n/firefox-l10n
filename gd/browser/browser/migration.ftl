@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Uinneagan is tabaichean
 browser-data-session-label =
     .value = Uinneagan is tabaichean
+browser-data-payment-methods-checkbox =
+    .label = Dòighean pàighidh
+browser-data-payment-methods-label =
+    .value = Dòighean pàighidh
