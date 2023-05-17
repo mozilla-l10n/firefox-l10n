@@ -12,4 +12,5 @@ webauthn-pin-invalid-prompt =
         [few] Wopacny PIN! Pšosym zapódajśo pšawy PIN za swój rěd. Maśo hyšći { $retriesLeft } wopyty.
        *[other] Wopacny PIN! Pšosym zapódajśo pšawy PIN za swój rěd. Maśo hyšći { $retriesLeft } wopytow.
     }
+webauthn-pin-invalid-short-prompt = Wopacny PIN. Wopytajśo hyšći raz.
 webauthn-pin-required-prompt = Pšosym zapódajśo PIN za swój rěd.
