@@ -153,6 +153,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -165,6 +170,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Өссө бэлиэлэр
 bookmarks-sidebar-content =
     .aria-label = Бэлиэлэр
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = Бэлиэни уларытыы
 bookmarks-toolbar-menu =
@@ -248,7 +261,26 @@ data-reporting-notification-message = Браузер үлэтин тупсара
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Бу сирэй аптамаатынан хачаданарын { -brand-short-name } бүөлээтэ.
 refresh-blocked-redirect-label = Атын сирэйгэ аптамаатынан барыыны { -brand-short-name } бүөлээтэ.
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name } биир ойон тахсар түннүгү хааччахтаата.
