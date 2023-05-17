@@ -82,7 +82,7 @@ about-debugging-refresh-usb-devices-button = Actualizar dispositivos
 # Setup Page strings
 
 # Title of the Setup page.
-about-debugging-setup-title = Configurar
+about-debugging-setup-title = Configuración
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Configure o método de conexión co que desexe depurar o dispositivo de forma remota.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
@@ -158,13 +158,13 @@ about-debugging-runtime-tabs =
     .name = Lapelas
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Service Workers
+    .name = Traballadores de servizos
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Shared Workers
+    .name = Traballadores compartidos
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = Outros workers
+    .name = Outros traballadores
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesos
@@ -322,7 +322,7 @@ about-debugging-multiprocess-toolbox-description = Procesos principais e proceso
 about-debugging-message-close-icon =
     .alt = Pechar mensaxe
 # Label text used for the error details of message component.
-about-debugging-message-details-label-error = Detalles de erro
+about-debugging-message-details-label-error = Detalles do erro
 # Label text used for the warning details of message component.
 about-debugging-message-details-label-warning = Detalles da advertencia
 # Label text used for default state of details of message component.
