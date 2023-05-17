@@ -942,4 +942,42 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Przewiydz sie wiyncyj ô bezpiecznyj insztalacyji rozszyrzyń
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] Aplikacyjo { -brand-short-name } niy dała tyj strōnie ôdewrzić wyskakujōncego ôkna.
+        [few] Aplikacyjo { -brand-short-name } niy dała tyj strōnie ôdewrzić { $popupCount } wyskakujōncych ôkiyn.
+       *[many] Aplikacyjo { -brand-short-name } niy dała tyj strōnie ôdewrzić { $popupCount } wyskakujōncych ôkiyn.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] Aplikacyjo { -brand-short-name } niy dała tyj strōnie ôdewrzić wiyncyj jak jednego wyskakujōncego ôkna.
+        [few] Aplikacyjo { -brand-short-name } niy dała tyj strōnie ôdewrzić wiyncyj jak { $popupCount } wyskakujōncych ôkiyn.
+       *[many] Aplikacyjo { -brand-short-name } niy dała tyj strōnie ôdewrzić wiyncyj jak { $popupCount } wyskakujōncych ôkiyn.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ôpcyje
+           *[other] Preferyncyje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Pokoż „{ $popupURI }”
