@@ -893,4 +893,25 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Rohkem teavet lisade turvalise paigaldamise kohta
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Sätted
+           *[other] Eelistused
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] e
+           *[other] E
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Kuva '{ $popupURI }'
