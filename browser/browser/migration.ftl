@@ -183,3 +183,8 @@ browser-data-session-checkbox =
     .label = Finestre e schede
 browser-data-session-label =
     .value = Finestre e schede
+
+browser-data-payment-methods-checkbox =
+  .label = Metodi di pagamento
+browser-data-payment-methods-label =
+  .value = Metodi di pagamento
