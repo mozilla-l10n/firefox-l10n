@@ -137,3 +137,7 @@ browser-data-session-checkbox =
     .label = Вікна і вкладки
 browser-data-session-label =
     .value = Вікна і вкладки
+browser-data-payment-methods-checkbox =
+    .label = Способи оплати
+browser-data-payment-methods-label =
+    .value = Способи оплати

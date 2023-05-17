@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Прикріплено!
 confirmation-hint-pin-tab-description = Натисніть правою кнопкою на вкладці, щоб відкріпити її.
 confirmation-hint-send-to-device = Надіслано!
 confirmation-hint-firefox-relay-mask-generated = Створено нову маску { -relay-brand-short-name }!
+confirmation-hint-firefox-relay-mask-created = Нова маска створена!
+confirmation-hint-firefox-relay-mask-reused = Наявна маска використана повторно!
