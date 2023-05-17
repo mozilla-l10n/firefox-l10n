@@ -988,4 +988,21 @@ firefox-relay-offer-what-relay-does = ყველა წერილი, რო
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = იხილეთ ვრცლად დამატებების უსაფრთხოდ ჩადგმის შესახებ
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] პარამეტრები
+           *[other] პარამეტრები
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] პ
+           *[other] პ
+        }
