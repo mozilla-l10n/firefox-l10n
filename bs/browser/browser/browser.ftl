@@ -562,4 +562,18 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Saznajte više o sigurnoj instalaciji add-ona
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } je spriječio ovu stranicu da otvori pop-up prozor.
+        [few] { -brand-short-name } je spriječio ovu stranicu da otvori { $popupCount } pop-up prozora.
+       *[other] { -brand-short-name } je spriječio ovu stranicu da otvori { $popupCount } pop-up prozora.
+    }
