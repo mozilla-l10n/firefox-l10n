@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Παράθυρα και καρτέλες
 browser-data-session-label =
     .value = Παράθυρα και καρτέλες
+browser-data-payment-methods-checkbox =
+    .label = Μέθοδοι πληρωμής
+browser-data-payment-methods-label =
+    .value = Μέθοδοι πληρωμής
