@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Přehladajće World Wide Web
 desktop-entry-generic-name = Webwobhladowak
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = Webwobhladowak { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;wobhladowak;Web;Explorer;
 
 desktop-action-new-window-name = Nowe wokno
 desktop-action-new-private-window-name = Nowe priwatne wokno
+desktop-action-open-profile-manager = Zrjadowak profilow wočinić
