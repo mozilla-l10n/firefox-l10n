@@ -1017,6 +1017,26 @@ popup-notification-xpinstall-prompt-learn-more = Gouzout hiroc'h a-zivout stalia
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] Harzet eo bet gant { -brand-short-name } da zigeriñ un diflugell o tont eus al lec'hienn-mañ.
+        [two] Harzet eo bet gant { -brand-short-name } da zigeriñ { $popupCount } ziflugell o tont eus al lec'hienn-mañ.
+        [few] Harzet eo bet gant { -brand-short-name } da zigeriñ { $popupCount } diflugell o tont eus al lec'hienn-mañ.
+        [many] Harzet eo bet gant { -brand-short-name } da zigeriñ { $popupCount } a ziflugelloù o tont eus al lec'hienn-mañ.
+       *[other] Harzet eo bet gant { -brand-short-name } da zigeriñ { $popupCount } diflugell o tont eus al lec'hienn-mañ.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [two] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } brenestr diflugell.
+        [few] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } frenestr diflugell.
+        [many] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } a brenestroù diflugell.
+       *[other] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } prenestr diflugell.
+    }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Diskouez '{ $popupURI }'
