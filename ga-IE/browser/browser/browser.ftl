@@ -624,3 +624,18 @@ popup-warning-message =
         [many] Níor lig { -brand-short-name } don suíomh seo { $popupCount } bpreabfhuinneog a oscailt.
        *[other] Níor lig { -brand-short-name } don suíomh seo { $popupCount } preabfhuinneog a oscailt.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Roghanna
+           *[other] Sainroghanna
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] R
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Taispeáin “{ $popupURI }”
