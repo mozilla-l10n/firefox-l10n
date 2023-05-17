@@ -994,4 +994,36 @@ firefox-relay-offer-what-relay-does = Мо ҳамаи паёмҳои элект�
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Маълумоти бештар дар бораи насбкунии бехатари ҷузъи иловагӣ
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ин сомонаро аз кушодани равзанаи зоҳиршаванда манъ кард.
+       *[other] { -brand-short-name } ин сомонаро аз кушодани { $popupCount } равзанаи зоҳиршаванда манъ кард.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } ин сомонаро аз кушодани зиёда аз { $popupCount } равзанаи зоҳиршаванда манъ кард.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Имконот
+           *[other] Хусусиятҳо
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Намоиш додани “{ $popupURI }”
