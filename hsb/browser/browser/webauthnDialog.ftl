@@ -16,10 +16,10 @@ webauthn-pin-invalid-prompt =
 #  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
-        [one] Wopačny PIN. Maće { $retriesLeft } pospyt wyše, prjedy přistup k přizjewjenskim datam na tutym graće na přeco zhubiće.
-        [two] Wopačny PIN. Maće { $retriesLeft } pospytaj wyše, prjedy přistup k přizjewjenskim datam na tutym graće na přeco zhubiće.
-        [few] Wopačny PIN. Maće { $retriesLeft } pospyty wyše, prjedy přistup k přizjewjenskim datam na tutym graće na přeco zhubiće.
-       *[other] Wopačny PIN. Maće { $retriesLeft } pospytow wyše, prjedy přistup k přizjewjenskim datam na tutym graće na přeco zhubiće.
+        [one] Wopačny PIN. Maće { $retriesLeft } pospyt wyše, prjedy hač přistup k přizjewjenskim datam na tutym graće na přeco zhubiće.
+        [two] Wopačny PIN. Maće { $retriesLeft } pospytaj wyše, prjedy hač přistup k přizjewjenskim datam na tutym graće na přeco zhubiće.
+        [few] Wopačny PIN. Maće { $retriesLeft } pospyty wyše, prjedy hač přistup k přizjewjenskim datam na tutym graće na přeco zhubiće.
+       *[other] Wopačny PIN. Maće { $retriesLeft } pospytow wyše, prjedy hač přistup k přizjewjenskim datam na tutym graće na přeco zhubiće.
     }
 webauthn-pin-invalid-short-prompt = Wopačny PIN. Spytajće hišće raz.
 webauthn-pin-required-prompt = Prošu zapodajće PIN za swój grat.
