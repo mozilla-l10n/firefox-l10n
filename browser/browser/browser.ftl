@@ -607,4 +607,20 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Tuilleadh eolais faoi bhreiseáin agus conas is féidir iad a shuiteáil go sábháilte
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] Níor lig { -brand-short-name } don suíomh seo preabfhuinneog a oscailt.
+        [two] Níor lig { -brand-short-name } don suíomh seo { $popupCount } phreabfhuinneog a oscailt.
+        [few] Níor lig { -brand-short-name } don suíomh seo { $popupCount } phreabfhuinneog a oscailt.
+        [many] Níor lig { -brand-short-name } don suíomh seo { $popupCount } bpreabfhuinneog a oscailt.
+       *[other] Níor lig { -brand-short-name } don suíomh seo { $popupCount } preabfhuinneog a oscailt.
+    }
