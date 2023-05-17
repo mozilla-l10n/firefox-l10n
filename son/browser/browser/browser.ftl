@@ -442,3 +442,31 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } na Interneti dogoo woo ganji a ma biiboŋ bata feeri.
+       *[other] { -brand-short-name } na Interneti dogoo woo ganji a ma biiboŋ bata { $popupCount } feeri.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Suubarey
+           *[other] Ibaayey
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = “{ $popupURI }” cebe
