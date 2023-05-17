@@ -958,4 +958,14 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = එක්කහු ආරක්‍ෂිතව ස්ථාපනය ගැන තව දැනගන්න
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' පෙන්වන්න
