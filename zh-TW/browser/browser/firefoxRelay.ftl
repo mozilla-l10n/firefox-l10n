@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = 產生 { -relay-brand-short-name } 轉寄
 firefox-relay-opt-in-confirmation-enable =
     .label = 繼續
     .accesskey = C
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = 保護您的電子郵件信箱：
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = 使用 { -relay-brand-name } 轉寄信箱
+firefox-relay-use-mask-title = 使用 { -relay-brand-name } 轉寄信箱
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = 使用轉寄信箱
+    .accesskey = U
 firefox-relay-opt-in-confirmation-disable =
     .label = 不要再顯示此訊息
     .accesskey = D

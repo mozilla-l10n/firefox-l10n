@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = 視窗與分頁
 browser-data-session-label =
     .value = 視窗與分頁
+browser-data-payment-methods-checkbox =
+    .label = 付款方式
+browser-data-payment-methods-label =
+    .value = 付款方式

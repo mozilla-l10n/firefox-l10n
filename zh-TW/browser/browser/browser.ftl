@@ -992,6 +992,7 @@ firefox-relay-offer-what-relay-does = 我們會將所有 <strong>{ $sitename }</
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = 我們安全易用的轉寄信箱，可隱藏您的實際信箱，並保護您的身分並防止垃圾信入侵。
 
 ## Pop-up Notification
 
