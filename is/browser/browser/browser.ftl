@@ -1011,6 +1011,10 @@ popup-warning-message =
         [one] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði { $popupCount } sprettiglugga.
        *[other] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði { $popupCount } sprettiglugga.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði fleiri en { $popupCount } sprettiglugga.
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
