@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Janelas e abas
 browser-data-session-label =
     .value = Janelas e abas
+browser-data-payment-methods-checkbox =
+    .label = Métodos de pagamento
+browser-data-payment-methods-label =
+    .value = Métodos de pagamento
