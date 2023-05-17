@@ -1005,6 +1005,7 @@ firefox-relay-offer-what-relay-does = Posrědkujemy wšě mejlki wot <strong>{ $
 
 ## Popup Notification
 
+firefox-relay-offer-legal-notice = Hdyž na „E-mejlowu masku wužiwać“ klikaće, zwoliće do <label data-l10n-name="tos-url">>wužiwanskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">zdźělenki priwatnosće</label>.
 
 ## Pop-up Notification
 
