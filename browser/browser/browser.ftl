@@ -1005,4 +1005,34 @@ firefox-relay-offer-what-relay-does = Pósrědnjamy wšykne mejlki wót <strong>
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Zgóńśo wěcej wó wěstem instalěrowanju dodankow
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } jo wócynjanjeju wuskokujucego wokna zajźował.
+        [two] { -brand-short-name } jo wócynjanjeju { $popupCount } wuskokujuceju woknowu pśez toś to sydło zajźował.
+        [few] { -brand-short-name } jo wócynjanjeju { $popupCount } wuskokujucych woknow pśez toś to sydło zajźował.
+       *[other] { -brand-short-name } jo wócynjanjeju { $popupCount } wuskokujucych woknow pśez toś to sydło zajźował.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Nastajenja
+           *[other] Nastajenja
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] t
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = ‚{ $popupURI }“ pokazaś
