@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Vastgemaakt!
 confirmation-hint-pin-tab-description = Klik met de rechtermuisknop op het tabblad om het los te maken.
 confirmation-hint-send-to-device = Verzonden!
 confirmation-hint-firefox-relay-mask-generated = Nieuw { -relay-brand-short-name }-masker aangemaakt!
+confirmation-hint-firefox-relay-mask-created = Nieuw masker aangemaakt!
+confirmation-hint-firefox-relay-mask-reused = Bestaand masker opnieuw gebruikt!

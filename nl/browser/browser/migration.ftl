@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Vensters en tabbladen
 browser-data-session-label =
     .value = Vensters en tabbladen
+browser-data-payment-methods-checkbox =
+    .label = Betalingsmethoden
+browser-data-payment-methods-label =
+    .value = Betalingsmethoden
