@@ -1004,6 +1004,17 @@ popup-notification-xpinstall-prompt-learn-more = Læs mere om sikker installerin
 
 ## Pop-up warning
 
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Indstillinger
+           *[other] Indstillinger
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
