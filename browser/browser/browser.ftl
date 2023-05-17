@@ -1028,6 +1028,15 @@ popup-warning-message =
         [few] { -brand-short-name } је спречио веб сајт да отвори { $popupCount } искачућа прозора.
        *[other] { -brand-short-name } је спречио веб сајт да отвори { $popupCount } искачућих прозора.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] .
+        [few] { -brand-short-name } је спречио да ова веб страница отвори више од { $popupCount } искачућа прозора.
+       *[other] { -brand-short-name } је спречио да ова веб страница отвори више од { $popupCount } искачућих прозора.
+    }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
