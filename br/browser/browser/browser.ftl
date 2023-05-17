@@ -1009,4 +1009,14 @@ firefox-relay-offer-what-relay-does = Treuzkas a raimp an holl chomlec'hioù pos
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Gouzout hiroc'h a-zivout staliañ askouezhioù ent diogel
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Diskouez '{ $popupURI }'
