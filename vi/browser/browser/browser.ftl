@@ -990,4 +990,21 @@ firefox-relay-offer-what-relay-does = Chúng tôi sẽ chuyển tiếp tất c�
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Tìm hiểu thêm về cách cài đặt tiện ích một cách an toàn
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Tùy chọn
+           *[other] Tùy chỉnh
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
