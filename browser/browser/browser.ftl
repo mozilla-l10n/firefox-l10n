@@ -271,6 +271,11 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -420,3 +425,19 @@ refresh-blocked-redirect-label = { -brand-short-name } ଏହି ପୃଷ୍ଠ
 
 ## Firefox Relay integration
 
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ଏହି ସାଇଟକୁ ପପ-ଅପ ୱିଣ୍ଡୋ ଖୋଲିବାରୁ ବାରଣ କରିଥାଏ।
+       *[other] { -brand-short-name } ଏହି ସାଇଟକୁ { $popupCount } ପପ-ଅପ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ଖୋଲିବାରୁ ବାରଣ କରିଥାଏ।
+    }
