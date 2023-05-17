@@ -844,6 +844,24 @@ refresh-blocked-allow =
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } го спречи ова место да отвори скокачки прозорец.
+       *[other] { -brand-short-name } го спречи ова место да отвори { $popupCount } скокачки прозорци.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Опции
+           *[other] Поставки
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] о
+           *[other] П
+        }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Покажи го „{ $popupURI }“
