@@ -1011,6 +1011,10 @@ popup-warning-message =
         [one] { -brand-short-name } heeft voorkomen dat deze website een pop-upvenster opende.
        *[other] { -brand-short-name } heeft voorkomen dat deze website { $popupCount } pop-upvensters opende.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } heeft voorkomen dat deze website meer dan { $popupCount } pop-upvensters opende.
 popup-warning-button =
     .label =
         { PLATFORM() ->
