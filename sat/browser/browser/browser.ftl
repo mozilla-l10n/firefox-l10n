@@ -1009,13 +1009,6 @@ popup-notification-xpinstall-prompt-learn-more = ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ �
 
 ## Pop-up warning
 
-# Variables:
-#   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-message =
-    { $popupCount ->
-        [one] { -brand-short-name }%S ᱱᱚᱣᱟ ᱥᱟᱤᱴ ᱯᱚᱯ-ᱚᱯ ᱣᱤᱸᱰᱚ  ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱾ .
-       *[other] { -brand-short-name } ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱯᱚᱯ-ᱚᱯ ᱣᱤᱸᱰᱚ ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ { $popupCount } ᱯᱚᱯᱼᱚᱯᱷ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
-    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
