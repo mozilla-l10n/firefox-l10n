@@ -588,6 +588,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = ເປີດຮູບໃນຮູບ ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = ປິດຮູບໃນຮູບ ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
