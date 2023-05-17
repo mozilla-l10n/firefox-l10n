@@ -997,4 +997,21 @@ firefox-relay-offer-what-relay-does = Wy stjoere alle e-mailberjochten fan <stro
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Mear ynfo oer it feilich ynstallearjen fan add-ons
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opsjes
+           *[other] Foarkarren
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] F
+        }
