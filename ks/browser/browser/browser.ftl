@@ -168,6 +168,11 @@ urlbar-result-action-search-w-engine = سْیت کْریو تلاش
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -180,6 +185,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = مزید نشان زد ہٲویو
 bookmarks-sidebar-content =
     .aria-label = نشان زَد
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = یئ نشان زَد كریو ایڈيٹ
 bookmarks-toolbar-menu =
@@ -292,6 +305,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ئن دیوت نئ یَتھ صفحس پانٲی لوڈ گژھنئ
@@ -299,3 +316,22 @@ refresh-blocked-redirect-label = { -brand-short-name }  ئن دیوت نئ یت�
 refresh-blocked-allow =
     .label = اجازتھ
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = ان رُکأو یہ سایِٹ اکھ پاپ۔اپ وینڈو کھولنْہ نِش۔؛ ان رُکأو یہ سایِٹ اکھ پاپ۔اپ وینڈو کھولنْہ نِش۔#۲{ -brand-short-name }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' ہٲویو
