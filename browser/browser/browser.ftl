@@ -995,6 +995,7 @@ firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónic
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de usar protegen su identidad y evitan el correo basura al ocultar su dirección de correo electrónico.
 
 ## Pop-up Notification
 
