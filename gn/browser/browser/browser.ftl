@@ -1002,6 +1002,17 @@ popup-notification-xpinstall-prompt-learn-more = Eñemomaranduve mba’éichapa 
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ndohejái ko tenda oipe’a peteĩ ovetã apysẽ.
+       *[other] { -brand-short-name } ndohejái ko tenda oipe’a { $popupCount } ovetã apysẽ.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } omboyke ko tenda ombojurujávo hetave { $popupCount } ovetã iñapysẽva.
 popup-warning-button =
     .label =
         { PLATFORM() ->
