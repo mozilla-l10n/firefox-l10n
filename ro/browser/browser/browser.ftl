@@ -771,6 +771,14 @@ popup-notification-xpinstall-prompt-learn-more = Află mai multe despre instalar
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } a împiedicat acest site să deschidă o fereastră pop-up.
+        [few] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } ferestre pop-up.
+       *[other] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } de ferestre pop-up.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
