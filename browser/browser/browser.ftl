@@ -1013,4 +1013,14 @@ firefox-relay-offer-what-relay-does = Byddwn yn anfon pob e-bost o <strong>{ $si
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Dysgwch ragor am osod ategion yn ddiogel
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Dangos '{ $popupURI }'
