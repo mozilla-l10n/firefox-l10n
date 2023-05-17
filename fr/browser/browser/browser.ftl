@@ -997,6 +997,7 @@ firefox-relay-offer-what-relay-does = Nous transférerons tous les e-mails de <s
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Nos alias sécurisés et faciles à utiliser protègent votre identité et bloquent le spam en masquant votre adresse e-mail.
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Tous les e-mails envoyés à vos alias de messagerie seront transférés à <strong>{ $useremail }</strong> (sauf si vous décidez de les bloquer).
