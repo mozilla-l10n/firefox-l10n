@@ -992,4 +992,17 @@ firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong> guneko mezu
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Gehigarriak modu seguruan instalatzeko argibide gehiago
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name }(e)k galarazi egin du gune honek pop-up leiho bat irekitzea.
+       *[other] { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } pop-up leiho irekitzea.
+    }
