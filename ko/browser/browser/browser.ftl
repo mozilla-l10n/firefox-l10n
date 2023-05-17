@@ -990,4 +990,32 @@ firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong>의 모든 �
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = 부가 기능을 안전하게 설치하는 방법에 대해 더 알아보기
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name }가 이 사이트에서 팝업 창 { $popupCount }개를 차단했습니다.
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name }가 이 사이트에서 팝업 창 { $popupCount }개 이상을 차단했습니다.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] 옵션
+           *[other] 환경 설정
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = 표시: “{ $popupURI }”
