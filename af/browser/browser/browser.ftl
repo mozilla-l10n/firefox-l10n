@@ -446,3 +446,18 @@ popup-warning-message =
         [one] { -brand-short-name } het gekeer dat dié werf 'n opspringvenster oopmaak.
        *[other] { -brand-short-name } het gekeer dat dié werf { $popupCount } opspringvensters oopmaak.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opsies
+           *[other] Voorkeure
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] V
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Wys “{ $popupURI }”
