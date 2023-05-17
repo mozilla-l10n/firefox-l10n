@@ -815,6 +815,17 @@ refresh-blocked-allow =
 
 ## Pop-up warning
 
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Kaji
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
