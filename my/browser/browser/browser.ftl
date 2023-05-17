@@ -558,3 +558,27 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name } သည် ယခုဝဘ်ဆိုက်ထံမှ pop-up ဝင်းဒိုး { $popupCount } ဖွင့်ခြင်းကို တားဆီးထားသည်။
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] ရွေးစရာများ
+           *[other] နှစ်သက်ရာအပြင်အဆင်များ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' ကို ပြပါ
