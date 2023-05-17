@@ -1004,3 +1004,18 @@ popup-warning-message =
         [few] { -brand-short-name } je spriječio otvaranje { $popupCount } skočna prozora na ovoj stranici.
        *[other] { -brand-short-name } je spriječio otvaranje { $popupCount } skočnih prozora na ovoj stranici.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Mogućnosti
+           *[other] Postavke
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Prikaži '{ $popupURI }'
