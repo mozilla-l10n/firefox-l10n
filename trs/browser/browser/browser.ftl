@@ -591,4 +591,32 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Gini'in doj nej nuguan' atāj sna'ānj dà' ga'ue ga'nïnj hue'ê' 'ngō sa nata'a nī si ga'ui' yi'ì ñù'
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } sitio na nū ga'ni da' nayi'ni ventana ra'ñanj an
+       *[other] { -brand-short-name } nu ga'nin ma da' na'nïn sitio na { $popupCount } nej ventana ra'ñanj an.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Nagui’iaj
+           *[other] Nagui’iaj
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Digun' “{ $popupURI }”
