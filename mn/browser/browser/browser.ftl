@@ -139,6 +139,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -149,6 +154,14 @@ urlbar-go-button =
 
 bookmarks-toolbar-chevron =
     .tooltiptext = Нэмэлт хаягнуудыг харуул
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = Хадгалсан хаяганд хайх
 bookmarks-bookmark-edit-panel =
@@ -220,6 +233,10 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } нь энэ хуудсыг автоматаар дахин дуудагдахаас сэргийлсэн
@@ -227,3 +244,19 @@ refresh-blocked-redirect-label = { -brand-short-name } нь энэ хуудсы�
 refresh-blocked-allow =
     .label = Зөвшөөр
     .accesskey = ш
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }'-г харуул
