@@ -994,4 +994,32 @@ firefox-relay-offer-what-relay-does = Nus vegnin a renviar tut ils e-mails da <s
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Vegnir a savair dapli davart l'installaziun da supplements a moda segira
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ha impedì questa website d'avrir ina fanestra popup.
+       *[other] { -brand-short-name } ha impedì questa website d'avrir { $popupCount } fanestras popup.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opziuns
+           *[other] Preferenzas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Mussar: '{ $popupURI }'
