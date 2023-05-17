@@ -1180,6 +1180,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ᱰᱟᱴᱟ ᱡᱟᱣᱨᱟ ᱟᱨ ᱵᱮᱵᱷᱟᱨ
+collection-description = ᱟᱞᱮ ᱫᱚ ᱟᱢ ᱟᱭᱢᱟᱸ ᱡᱤᱱᱤᱥ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱞᱮ ᱮᱢᱟᱢ ᱠᱟᱱᱟ ᱟᱨ ᱟᱞᱮ ᱫᱚ ᱡᱟᱦᱟᱸ ᱡᱤᱥᱤᱥ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱨᱮᱭᱟᱜ ᱛᱟᱦᱮᱸᱱᱟ ᱚᱱᱟ ᱜᱮ { -brand-short-name } ᱞᱟᱹᱜᱤᱫ ᱞᱮ ᱡᱟᱣᱨᱟᱭᱟ ᱾ ᱱᱤᱡᱚᱨ ᱵᱚᱵᱚᱛ ᱡᱟᱦᱱᱟᱜ ᱡᱟᱣᱨᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱫᱮᱨ ᱦᱚᱠ ᱞᱮ ᱠᱚᱭᱟ ᱾
 collection-privacy-notice = ᱫᱟᱱᱟᱝ ᱠᱷᱚᱵᱚᱨ
 collection-health-report-telemetry-disabled-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 collection-health-report-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
