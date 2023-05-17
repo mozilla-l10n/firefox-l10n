@@ -1000,6 +1000,10 @@ popup-notification-xpinstall-prompt-learn-more = アドオンの安全なイン�
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = { $popupCount } 個のポップアップがブロックされました。
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = このサイトで { $popupCount } 個のポップアップウインドウがブロックされました。
 popup-warning-button =
     .label =
         { PLATFORM() ->
