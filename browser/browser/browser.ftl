@@ -1120,6 +1120,15 @@ popup-warning-message =
         [few] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovací okna
        *[other] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovacích oken.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] Aplikace { -brand-short-name } zabránila stránce otevřít více než jedno vyskakovací okno.
+        [few] Aplikace { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovací okna
+       *[other] Aplikace { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovacích oken.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1131,3 +1140,7 @@ popup-warning-button =
             [windows] M
            *[other] P
         }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Zobrazit „{ $popupURI }“
