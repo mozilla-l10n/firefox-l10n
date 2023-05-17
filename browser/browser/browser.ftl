@@ -994,4 +994,17 @@ firefox-relay-offer-what-relay-does = Біз <strong>{ $sitename }</strong> ад
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Қосымшаларды қауіпсіз орнату туралы көбірек біліңіз
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } бұл веб сайттан атып шығатын терезені болдырмады.
+       *[other] { -brand-short-name } бұл веб сайттан атып шығатын { $popupCount } терезені болдырмады.
+    }
