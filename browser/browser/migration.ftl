@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Vindauge og faner
 browser-data-session-label =
     .value = Vindauge og faner
+browser-data-payment-methods-checkbox =
+    .label = Betalingsmåtar
+browser-data-payment-methods-label =
+    .value = Betalingsmåtar
