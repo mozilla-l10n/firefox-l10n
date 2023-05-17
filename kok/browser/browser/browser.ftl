@@ -159,6 +159,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -171,6 +176,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = अदीक बूकमार्क दाखोवचे
 bookmarks-sidebar-content =
     .aria-label = बुकमार्क
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = हो बूकमार्क संपादीत करचो
 bookmarks-toolbar-menu =
@@ -283,6 +296,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } न ह्या पानाक स्वयंचलीतपणान परत लोडींग करपा पासून प्रतिबंधीत केलां.
@@ -290,3 +307,26 @@ refresh-blocked-redirect-label = { -brand-short-name } न ह्या पा�
 refresh-blocked-allow =
     .label = अनुमती दियात
     .accesskey = S
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } न ह्या सायटीक पॉप-अप विंडो उगडपापासून आडयला.
+       *[other] { -brand-short-name } न ह्या सायटीक { $popupCount } पॉप-अप विंडो उगडपापासून आडयला.
+    }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' दाखयात
