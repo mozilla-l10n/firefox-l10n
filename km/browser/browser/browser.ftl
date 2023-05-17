@@ -525,6 +525,9 @@ refresh-blocked-allow =
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name } បាន​ការពារ​ទំព័រ​​នេះមិន​ឲ្យ​​​បើក​បង្អួច​លេចឡើង { $popupCount }។
 popup-warning-button =
     .label =
         { PLATFORM() ->
