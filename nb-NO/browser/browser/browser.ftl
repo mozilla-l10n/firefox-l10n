@@ -1002,6 +1002,13 @@ popup-notification-xpinstall-prompt-learn-more = Les mer om sikker installering 
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } forhindret dette nettstedet fra å åpne et sprettoppvindu.
+       *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne { $popupCount } sprettoppvinduer.
+    }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Åpne «{ $popupURI }»
