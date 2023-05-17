@@ -145,6 +145,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -157,6 +162,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Onyesha alamisho zaidi
 bookmarks-sidebar-content =
     .aria-label = Vialamisho
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = Hariri Alamisho Hili
 bookmarks-toolbar-menu =
@@ -242,7 +255,30 @@ data-reporting-notification-message = { -brand-short-name } hutuma kiotomatiki b
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } imezuia ukurasa huu kupakia kiotomatiki.
 refresh-blocked-redirect-label = { -brand-short-name } imezuia ukurasa huu kuelekezwa tena kiotomatiki kwa ukurasa mwingine.
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } imezuia hii saiti kufungua dirisha la kidukizo.
+       *[other] { -brand-short-name } imezuia hii saiti kufungua { $popupCount } madirisha ya vidukizo.
+    }
