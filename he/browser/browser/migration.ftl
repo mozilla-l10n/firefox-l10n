@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = חלונות ולשוניות
 browser-data-session-label =
     .value = חלונות ולשוניות
+browser-data-payment-methods-checkbox =
+    .label = אמצעי תשלום
+browser-data-payment-methods-label =
+    .value = אמצעי תשלום

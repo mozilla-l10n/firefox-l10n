@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = נעוץ!
 confirmation-hint-pin-tab-description = יש ללחוץ על הלשונית עם הכפתור הימני כדי לשחרר את הנעיצה.
 confirmation-hint-send-to-device = נשלח!
 confirmation-hint-firefox-relay-mask-generated = נוצרה מסיכה חדשה של { -relay-brand-short-name }!
+confirmation-hint-firefox-relay-mask-created = נוצרה מסיכה חדשה!
+confirmation-hint-firefox-relay-mask-reused = נעשה שימוש חוזר במסיכה קיימת!
