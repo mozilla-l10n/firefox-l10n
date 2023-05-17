@@ -45,3 +45,4 @@ screenshots-private-window-error-details = Perdoe polas molestias. Estamos a tra
 screenshots-generic-error-title = Vaites! { -screenshots-brand-name } deixou de funcionar correctamente.
 screenshots-generic-error-details = Non estamos seguros de que aconteceu. Quéreo tentar de novo ou facer unha captura doutra páxina?
 screenshots-too-large-error-title = A captura de pantalla recortouse por ser demasiado grande
+screenshots-too-large-error-details = Proba a seleccionar unha parte inferior a 32 700 píxeles no seu lado máis longo ou 124 900 000 píxeles de área total.

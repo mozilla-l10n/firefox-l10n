@@ -51,7 +51,7 @@ webrtc-camera-unmuted =
 webrtc-camera-muted =
     .title = Activar a cámara
 webrtc-minimize =
-    .title = Indicador minimizado
+    .title = Minimizar o indicador
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -161,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = Permitir que { $origin } escoite o
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Permitir que { $origin } conceda a { $thirdParty } permiso para escoitar o son desta lapela?
 webrtc-allow-share-camera-unsafe-delegation = Permitir que { $origin } lle dea acceso a { $thirdParty } á súa cámara?
 webrtc-allow-share-microphone-unsafe-delegation = Permitir que { $origin } lle dea acceso a { $thirdParty } ao seu micrófono?
 webrtc-allow-share-screen-unsafe-delegation = Permitir que { $origin } lle dea permiso a { $thirdParty } para ver a súa pantalla?
