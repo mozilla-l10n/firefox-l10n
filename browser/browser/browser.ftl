@@ -994,4 +994,25 @@ firefox-relay-offer-what-relay-does = Wir leiten alle E-Mails von <strong>{ $sit
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Weitere Informationen über das sichere Installieren von Add-ons
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Einstellungen
+           *[other] Einstellungen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] i
+           *[other] i
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Anzeigen: '{ $popupURI }'
