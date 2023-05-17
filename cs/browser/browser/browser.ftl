@@ -1112,6 +1112,14 @@ popup-notification-xpinstall-prompt-learn-more = Zjistit více o bezpečné inst
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] Aplikace { -brand-short-name } zabránila stránce otevřít vyskakovací okno.
+        [few] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovací okna
+       *[other] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovacích oken.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
