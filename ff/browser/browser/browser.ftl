@@ -565,3 +565,31 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } haɗii ndee lowre udditde henorde suppitere.
+       *[other] { -brand-short-name } haɗii ndee lowre udditde kenorɗe cuppitte { $popupCount }.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Cuɓe
+           *[other] Cuɓoraaɗe
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Hollir '{ $popupURI }'
