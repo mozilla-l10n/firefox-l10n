@@ -605,6 +605,10 @@ popup-warning-message =
         [one] { -brand-short-name } sitio na nū ga'ni da' nayi'ni ventana ra'ñanj an
        *[other] { -brand-short-name } nu ga'nin ma da' na'nïn sitio na { $popupCount } nej ventana ra'ñanj an.
     }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } Nu ga'nïn riña sitiô nan guendâ na'nïn riña { $popupCount } huij bentâna.
 popup-warning-button =
     .label =
         { PLATFORM() ->
