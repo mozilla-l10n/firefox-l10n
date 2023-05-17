@@ -519,3 +519,27 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message = { -brand-short-name } menghalang laman ini daripada membuka { $popupCount } tetingkap pop-up.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Pilihan
+           *[other] Keutamaan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] K
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Papar “{ $popupURI }”
