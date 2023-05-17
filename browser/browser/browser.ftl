@@ -618,3 +618,35 @@ refresh-blocked-refresh-label = { -brand-short-name } evitó qu'esta páxina se 
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } evitó qu'esti sitiu abriere un ventanu emerxente.
+       *[other] { -brand-short-name } evitó qu'esti sitiu abriere { $popupCount } ventanos emerxentes.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message = { -brand-short-name } evitó qu'esti sitiu abriere más de { $popupCount } ventanos emerxentes.
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencies
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Amosar «{ $popupURI }»
