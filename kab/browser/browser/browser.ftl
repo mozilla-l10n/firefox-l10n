@@ -1003,6 +1003,13 @@ popup-notification-xpinstall-prompt-learn-more = Issin ugar ɣef usbeddi n yizeg
 ## Pop-up warning
 
 # Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } isewḥel asmel-a akken ad yeldi asfaylu udhim.
+       *[other] { -brand-short-name } isewḥel asmel-a akken ad yeldi { $popupCount } isfuyla udhimen.
+    }
+# Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Sken '{ $popupURI }'
