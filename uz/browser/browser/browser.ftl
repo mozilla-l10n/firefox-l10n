@@ -698,4 +698,21 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Qoʻshimcha dasturlarni xavfsiz oʻrnatish haqida batafsil
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ushbu saytni o‘zi paydo bo‘luvchi oynadan to‘sib turibdi.
+       *[other] { -brand-short-name } ushbu saytni o‘zi paydo bo‘luvchi { $popupCount } oynalardan to‘sib turibdi.
+    }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }”ni ko“rsatish
