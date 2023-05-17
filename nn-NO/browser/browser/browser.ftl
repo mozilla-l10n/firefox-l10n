@@ -994,4 +994,32 @@ firefox-relay-offer-what-relay-does = Vi videaresender alle e-postar frå <stron
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Les meir om sikker installering av tillegg
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } hindra denne nettstaden frå å opne eit sprettopp-vindauge.
+       *[other] { -brand-short-name } hindra denne nettstaden frå å opne { $popupCount } sprettopp-vindauge.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Innstillingar
+           *[other] Innstillingar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Vis «{ $popupURI }»
