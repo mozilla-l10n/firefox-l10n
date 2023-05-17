@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = O fíoWebRender de RenderBackend
 perftools-thread-paint-worker =
     .title = Cando o pintado fóra-do-fío-principal esta activado, o fío no que o pintado sucede
+perftools-thread-timer =
+    .title = Os temporizadores de manexo de fíos (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = A computación de estilo sepárase en múltiplos fíos
 pref-thread-stream-trans =
@@ -95,6 +97,18 @@ perftools-thread-dns-resolver =
     .title = Neste fío sucede a resolución de DNS
 perftools-thread-task-controller =
     .title = Fíos de agrupación de subprocesos de TaskController
+perftools-thread-jvm-gecko =
+    .title = O fío principal da JVM de Gecko
+perftools-thread-jvm-nimbus =
+    .title = Os fíos principais para o SDK de experimentos de Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = O despachante predeterminado para a biblioteca de corutinas de Kotlin
+perftools-thread-jvm-glean =
+    .title = Os fíos principais do SDK de telemetría de Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = O despachante de entrada e saída para a biblioteca de corutinas de Kotlin
+perftools-thread-jvm-pool =
+    .title = Fíos creados nun grupo de fíos sen nome
 
 ##
 
@@ -135,6 +149,7 @@ perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Predefinido para investigar erros de rede en { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Enerxía
+perftools-presets-power-description = Predefinición para investigar erros de uso de enerxía en { -brand-shorter-name }, con baixo consumo de recursos.
 perftools-presets-custom-label = Personalizado
 
 ##

@@ -25,15 +25,24 @@ toolbox-meatball-menu-community-label = Comunidade…
 # contributors.
 toolbox-meatball-menu-noautohide-label = Desactivar o agachado automática de xanelas emerxente
 toolbox-meatball-menu-pseudo-locale-accented = Activar a configuración rexional «acentuada».
+toolbox-meatball-menu-pseudo-locale-bidi = Activar a configuración rexional "bidi"
 
 ##
 
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Modo de caixa de ferramentas do navegador
 toolbox-mode-browser-console-label = Modo de consola do navegador
 toolbox-mode-everything-label = Multiproceso
 toolbox-mode-everything-sub-label = (Máis lento)
 toolbox-mode-everything-container =
     .title = Depurar todo en todos os procesos
+toolbox-mode-parent-process-label = Só no proceso superior
 toolbox-mode-parent-process-sub-label = (Rápido)
+toolbox-mode-parent-process-container =
+    .title = Concentrarse só nos recursos do proceso superior.
+toolbox-always-on-top-enabled2 = Desactivar sempre na parte superior
+    .title = Isto reiniciará as ferramentas de desenvolvemento
+toolbox-always-on-top-disabled2 = Activar sempre na parte superior
+    .title = Isto reiniciará as ferramentas de desenvolvemento
