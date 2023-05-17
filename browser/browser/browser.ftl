@@ -551,3 +551,24 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Inpostaçioin
+           *[other] Preferense
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Fanni vedde '{ $popupURI }'
