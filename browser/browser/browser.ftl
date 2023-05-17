@@ -990,4 +990,14 @@ firefox-relay-offer-what-relay-does = เราจะส่งต่ออีเ
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับการติดตั้งส่วนเสริมอย่างปลอดภัย
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = แสดง “{ $popupURI }”
