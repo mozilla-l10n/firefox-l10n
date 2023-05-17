@@ -9,10 +9,10 @@ protections-panel-sitefixedsendreport-label = Sitio arranxado? Envíe un informe
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
-protections-popup-footer-protection-label-strict = Estrito
-    .label = Estrito
-protections-popup-footer-protection-label-custom = Personalizado
-    .label = Personalizado
+protections-popup-footer-protection-label-strict = Estrita
+    .label = Estrita
+protections-popup-footer-protection-label-custom = Personalizada
+    .label = Personalizada
 protections-popup-footer-protection-label-standard = Estándar
     .label = Estándar
 
@@ -20,9 +20,9 @@ protections-popup-footer-protection-label-standard = Estándar
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = Máis información sobre a protección avanzada de rastreo
-protections-panel-etp-on-header = A protección avanzada de rastrexo está activada para este sitio
-protections-panel-etp-off-header = A protección avanzada de rastrexo está desactivada neste sitio
+    .aria-label = Máis información sobre a protección mellorada contra o rastrexo
+protections-panel-etp-on-header = A protección mellorada contra o rastrexo está activada para este sitio
+protections-panel-etp-off-header = A protección mellorada contra o rastrexo está desactivada neste sitio
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = O sitio non funciona?
 # The heading/title of the sub-panel view
@@ -42,7 +42,7 @@ protections-panel-no-trackers-found = Non se detectaron rastreadores coñecidos 
 protections-panel-content-blocking-tracking-protection = Rastrexo de contido
 protections-panel-content-blocking-socialblock = Rastreadores de redes sociais
 protections-panel-content-blocking-cryptominers-label = Criptomineiros
-protections-panel-content-blocking-fingerprinters-label = Pegadas dixitais
+protections-panel-content-blocking-fingerprinters-label = Identificadores de pegada dixital
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -77,7 +77,7 @@ protections-panel-site-not-working-view-send-report = Enviar informe
 
 protections-panel-cross-site-tracking-cookies = Estas cookies seguen de sitio en sitio para recoller datos sobre o que faga en liña. Están establecidos por terceiros como anunciantes e empresas de análise.
 protections-panel-cryptominers = Os criptomineiros usan o poder informático do seu sistema para minar diñeiro dixital. Os scripts de criptomoeda drenan a batería, desaceleran o computador e poden aumentar a súa factura enerxética.
-protections-panel-fingerprinters = As pegadas dixitais recollen configuracións do seu navegador e computador para crear un perfil de vostede. Usando esta pegada dixital, poden rastrealo en diferentes sitios web.
+protections-panel-fingerprinters = Os Identificadores de pegada dixital recollen unha parte da configuración do seu navegador e computador para crear un perfil de vostede. Usando esta pegada dixital, poden rastrexalo en diferentes sitios web.
 protections-panel-tracking-content = Os sitios web poden cargar anuncios externos, vídeos e outro contido con código de seguimento. O bloqueo de contido de seguimento pode axudar aos sitios a cargarse máis rápido, pero é posible que algúns botóns, formularios e campos de inicio de sesión non funcionen.
 protections-panel-social-media-trackers = As redes sociais colocan rastreadores noutros sitios web para seguir o que faga, vexa e mire en liña. Isto permite ás empresas de redes sociais aprender máis sobre vostede máis alá do que comparte nos seus perfís de redes sociais.
 protections-panel-description-shim-allowed = Algúns rastrexadores marcados a continuación desbloqueáronse parcialmente nesta páxina porque vostede ten interactuado con eles.
@@ -113,6 +113,8 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Desactivar a redución do aviso de cookies para { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Activar a redución do aviso de cookies para este sitio?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } borrará os rastros deste sitio e actualizará a páxina. Borrar todos os rastros pode que peche a súa sesión ou baleire o carro da compra.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } intenta rexeitar automaticamente todas as solicitudes de rastros nos sitios compatibles.
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desactivar
 protections-panel-cookie-banner-view-turn-on = Activar

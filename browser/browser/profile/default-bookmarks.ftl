@@ -10,6 +10,7 @@
 default-bookmarks-title = Marcadores
 default-bookmarks-heading = Marcadores
 default-bookmarks-toolbarfolder = Cartafol da barra de marcadores
+default-bookmarks-toolbarfolder-description = Engade marcadores a este cartafol para velos na barra de marcadores
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Primeiros pasos
 # Firefox links folder name

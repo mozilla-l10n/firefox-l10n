@@ -4,6 +4,14 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-prompt =
+    { $retriesLeft ->
+        [0] PIN incorrecto! Introduce o PIN correcto do dispositivo.
+        [one] PIN incorrecto! Introduce o PIN correcto do dispositivo. Quédache { $retriesLeft } intento.
+       *[other] PIN incorrecto! Introduce o PIN correcto do dispositivo. Quédanche { $retriesLeft } intentos.
+    }
+# Variables:
+#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] PIN incorrecto. Queda { $retriesLeft } intento antes de perder permanentemente o acceso ás credenciais deste dispositivo.
