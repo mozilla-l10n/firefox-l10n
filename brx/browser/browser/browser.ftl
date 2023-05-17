@@ -242,6 +242,11 @@ urlbar-result-action-visit = थां
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 fullscreen-exit-button = आबुं स्क्रिन निफ्राय ओंखार लां (Esc)
@@ -263,6 +268,14 @@ bookmarks-other-bookmarks-menu =
     .label = गुबुन बुकमाकॅफोर
 bookmarks-mobile-bookmarks-menu =
     .label = मबाइल बुकमार्कफोर
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-search =
     .label = बुकमार्कफोरखौ नागिर
 bookmarks-bookmark-edit-panel =
@@ -392,6 +405,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } आ फिन ल'ड खालामनायखाय बे बिलाइखौ हेंथा होबाय।
@@ -399,3 +416,19 @@ refresh-blocked-redirect-label = { -brand-short-name } आ बे बिला�
 refresh-blocked-allow =
     .label = गनायथि हो
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' खौ दिनथि
