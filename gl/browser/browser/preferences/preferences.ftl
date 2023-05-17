@@ -204,11 +204,22 @@ containers-remove-cancel-button = Non retirar este contedor
 
 language-and-appearance-header = Idioma e aparencia
 preferences-web-appearance-header = Aspecto do sitio web
+preferences-web-appearance-description = Algúns sitios web adaptan o seu esquema de cores segundo as túas preferencias. Escolle o esquema de cores que queres usar neses sitios.
 preferences-web-appearance-choice-browser = Tema de { -brand-short-name }
 preferences-web-appearance-choice-system = Tema do sistema
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Escuro
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Usar a túa configuración de tema de { -brand-short-name } para o fondo e contido de sitios web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Usar a configuración do sistema para o fondo e contido de sitios web.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Cambiar automaticamente o fondo e contido de sitios web segundo a configuración do teu sistema e o tema de { -brand-short-name }.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Usar unha aparencia clara para o fondo e contido de sitios web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Usar unha aparencia escura para o fondo e contido de sitios web.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -219,7 +230,14 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = As túas escollas de cores substitúen a aparencia do sitio web. <a data-l10n-name="colors-link">Xestionar as cores</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Xestiona os temas de { -brand-short-name } en <a data-l10n-name="themes-link">Extensións e temas</a>
 preferences-colors-header = Cores
+preferences-colors-description = Substituír as cores predeterminadas de { -brand-short-name } para texto, fondos de sitios web, e ligazóns.
 preferences-colors-manage-button =
     .label = Xestionar as cores…
     .accesskey = c
@@ -366,6 +384,7 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Que debería facer { -brand-short-name } con outros ficheiros?
 applications-save-for-new-types =
     .label = Gardar os ficheiros
     .accesskey = s
@@ -531,6 +550,7 @@ choose-bookmark =
 home-prefs-content-header = Contido da páxina de inicio de Firefox
 home-prefs-content-description = Escolla o contido que quere na pantalla de inicio de Firefox.
 home-prefs-content-header2 = Contido de { -firefox-home-brand-name }
+home-prefs-content-description2 = Escolle o contido que queres na túa pantalla de { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Busca na web
 home-prefs-shortcuts-header =
@@ -605,6 +625,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Amosar suxestións de busca nos resultados da barra de enderezos
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Mostrar termos de busca en vez de URL na páxina de resultados do motor de busca predeterminado
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -833,6 +858,8 @@ forms-breach-alerts =
     .label = Mostrar alertas sobre contrasinais de sitios web vulnerados
     .accesskey = b
 forms-breach-alerts-learn-more-link = Máis información
+relay-integration =
+    .label = Activar { -relay-brand-name } no teu xestor de contrasinais de { -brand-short-name }
 relay-integration-learn-more-link = Máis información
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -944,10 +971,14 @@ sitedata-option-block-cross-site-trackers =
     .label = Rastrexadores entre sitios
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies de seguimento entre sitios
+sitedata-option-block-cross-site-cookies =
+    .label = Rastros de seguimento entre sitios, e illar outros rastros entre sitios
 sitedata-option-block-unvisited =
     .label = Cookies de sitios non visitados
 sitedata-option-block-all-third-party =
     .label = Todas as cookies de terceiros (pode causar erros nos sitios web)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Todos os rastros entre sitios (pode romper páxinas)
 sitedata-option-block-all =
     .label = Todas as cookies (pode causar erros nos sitios web)
 sitedata-clear =
@@ -963,6 +994,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Redución do aviso de cookies
+cookie-banner-handling-description = { -brand-short-name } intenta automaticamente rexeitar as solicitudes de rastros en diálogos de rastros de sitios web compatíbeis.
 cookie-banner-learn-more = Máis información
 forms-handle-cookie-banners =
     .label = Reducir os avisos de cookies
@@ -998,7 +1030,7 @@ addressbar-quickactions-learn-more = Máis información
 
 ## Privacy Section - Content Blocking
 
-content-blocking-enhanced-tracking-protection = Protección avanzada de rastreo
+content-blocking-enhanced-tracking-protection = Protección mellorada contra o rastrexo
 content-blocking-section-top-level-description = Os rastrexadores seguen a súa presenza para recoller información sobre os seus hábitos e intereses de navegación. { -brand-short-name } bloquea moitos destes rastrexadores e outros scripts maliciosos.
 content-blocking-learn-more = Máis información
 content-blocking-fpi-incompatibility-warning = Está a usar Illamento de Primeiras Partes (First Party Isolation, FPI), que anula algúns dos axustes de cookies de { -brand-short-name }.
@@ -1011,10 +1043,10 @@ enhanced-tracking-protection-setting-standard =
     .label = Estándar
     .accesskey = d
 enhanced-tracking-protection-setting-strict =
-    .label = Estrito
+    .label = Estrita
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
-    .label = Personalizado
+    .label = Personalizada
     .accesskey = z
 
 ##
@@ -1025,6 +1057,7 @@ content-blocking-etp-custom-desc = Escolla os rastreadores e scripts que bloquea
 content-blocking-etp-blocking-desc = { -brand-short-name } bloquea o seguinet:
 content-blocking-private-windows = Tracexamento de contido en xanelas privadas
 content-blocking-cross-site-cookies-in-all-windows = Cookies entre sitios en todas as xanelas  (inclúe cookies de rastrexo)
+content-blocking-cross-site-cookies-in-all-windows2 = Rastros entre sitios en todas as xanelas
 content-blocking-cross-site-tracking-cookies = Cookies de seguimento entre sitios
 content-blocking-all-cross-site-cookies-private-windows = Cookies entre sitios en xanelas privadas
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de rastrexo entre sitios e illar as cookies restantes
@@ -1044,7 +1077,10 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = A protección de rastros total limita os rastros ao sitio no que estás, para que os rastrexadores non os poidan usar para seguirte entre sitios.
 content-blocking-etp-standard-tcp-rollout-learn-more = Máis información
+content-blocking-etp-standard-tcp-title = Inclúe protección de rastros total, a funcionalidade de privacidade máis potente da nosa historia
 content-blocking-warning-title = Atención!
 content-blocking-and-isolating-etp-warning-description-2 = Esta configuración pode provocar que algúns sitios web non mostren contido ou funcionen correctamente. Se un sitio semella estragado, probe a desactivar a protección de rastrexo para que ese sitio cargue todo o contido.
 content-blocking-warning-learn-how = Aprender como
@@ -1074,8 +1110,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Pegadas dixitais
-    .accesskey = P
+    .label = Identificadores de pegada dixital
+    .accesskey = f
 
 ## Privacy Section - Tracking
 
@@ -1158,6 +1194,7 @@ collection-health-report-disabled = O envío de informes está desactivado nesta
 collection-backlogged-crash-reports-with-link = Permitir que o { -brand-short-name } envíe informes de fallo atrasados no seu nome <a data-l10n-name="crash-reports-link">Máis información</a>
     .accesskey = P
 privacy-segmentation-section-header = Novas funcionalidades que melloran a súa navegación
+privacy-segmentation-section-description = Cando ofrecemos funcionalidades que usan os teus datos para darte unha experiencia máis personalizada:
 privacy-segmentation-radio-off =
     .label = Usar as recomendacións de { -brand-product-name }
 privacy-segmentation-radio-on =

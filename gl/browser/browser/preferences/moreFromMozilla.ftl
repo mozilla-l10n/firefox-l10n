@@ -25,10 +25,13 @@ more-from-moz-mozilla-rally-description-advanced = Doe os seus datos a estudos d
 more-from-moz-button-mozilla-rally-2 = Unirse a { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Descargue empregando o seu dispositivo móbil. Apunte a cámara ao código QR. Cando apareza unha ligazón, tóquea.
 more-from-moz-qr-code-box-firefox-mobile-button = No canto disto, enviar un correo electrónico ao seu teléfono
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Código QR para descargar { -brand-product-name } para móbil
 more-from-moz-button-mozilla-vpn-2 = Obter unha VPN
 more-from-moz-learn-more-link = Máis información
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = Protexe a túa caixa de entrada e a túa identidade con enmascaramento gratuíto de correo electrónico.
 more-from-moz-firefox-relay-button = Obter { -relay-brand-short-name }

@@ -138,6 +138,9 @@ places-forget-about-this-site-confirmation-title = Esquecer este sitio
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Esta acción retira todos os datos relacionados con { $hostOrBaseDomain }, incluído o historial, os contrasinais, as cookies, a caché e as preferencias de contido. Confirma que desexa proseguir?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Esta acción retirará datos relacionados con { $hostOrBaseDomain }, incluído o historial, as cookies, a caché, e as preferencias de contido. Non se retirarán os marcadores nin contrasinais relacionados. Seguro que queres proceder?
 places-forget-about-this-site-forget = Esquecer
 places-library =
     .title = Biblioteca
