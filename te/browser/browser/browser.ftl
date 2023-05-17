@@ -779,4 +779,21 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = పొడగింతలను సురక్షితంగా స్థాపించుకోవడం గురించి ఇంకా తెలుసుకోండి
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ఈ సైటు యొక్క పాప్-అప్ విండోను తెరుచుటను నిరోధిస్తోంది.
+       *[other] { -brand-short-name } అనునది ఈ సైటును { $popupCount } పాప్-అప్ విండోలను తెరుచుటను నిరోధిస్తోంది.
+    }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' చూపించు
