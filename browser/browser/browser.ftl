@@ -873,4 +873,28 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Իմացեք ավելին հավելումների ապահով տեղակայման մասին
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } կանխվել է Pop-up-ի բացումը այս կայքից:
+       *[other] { -brand-short-name } կանխել է { $popupCount } Pop-up պատուհանների բացումը:
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Կարգավորումներ
+           *[other] Նախըտրանքներ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
