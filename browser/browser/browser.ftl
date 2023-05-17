@@ -1037,6 +1037,17 @@ popup-warning-exceeded-message =
         [few] { -brand-short-name } је спречио да ова веб страница отвори више од { $popupCount } искачућа прозора.
        *[other] { -brand-short-name } је спречио да ова веб страница отвори више од { $popupCount } искачућих прозора.
     }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Подешавања
+           *[other] Подешавања
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] П
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
