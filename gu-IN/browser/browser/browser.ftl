@@ -539,3 +539,20 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } એ પોપ-અપ વિન્ડોને ખોલીને આ સાઇટને અટકાવેલ છે.
+       *[other] { -brand-short-name }  એ { $popupCount } પોપ-અપ વિન્ડોને ખોલીને આ સાઇટને અટકાવેલ છે.
+    }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' બતાવો
