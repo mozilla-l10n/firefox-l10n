@@ -995,6 +995,10 @@ firefox-relay-offer-what-relay-does = O mandarìn indenant dutis lis e-mails di 
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Lis nestris mascaris di pueste eletroniche, facilis di doprâ e siguris, a protezin la tô identitât e a blochin la pueste malvolude (spam) platant la tô direzion reâl di pueste eletroniche.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Dutis lis e-mails inviadis ae tô mascare e-mail a vignaran mandadis indenant a <strong>{ $useremail }</strong> (gjavant che no tu decidis di blocâlis).
 
 ## Pop-up Notification
 
