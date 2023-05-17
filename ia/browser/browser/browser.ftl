@@ -1001,6 +1001,13 @@ popup-notification-xpinstall-prompt-learn-more = Saper plus re le installation s
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ha impedite a iste sito de aperir un fenestra emergente.
+       *[other] { -brand-short-name } ha impedite a iste sito de aperir { $popupCount } fenestras emergente.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
