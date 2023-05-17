@@ -145,6 +145,11 @@ urlbar-go-button =
 ## Reader View toolbar buttons
 
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -157,6 +162,14 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Bonisa ukuphawulwa kokubonisa okungaphezulu
 bookmarks-sidebar-content =
     .aria-label = Izimpawu zokubekisa
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
+##
+
 bookmarks-bookmark-edit-panel =
     .label = Hlela lolu phawu lokubekisa
 bookmarks-toolbar-menu =
@@ -238,6 +251,10 @@ data-reporting-notification-message = I-{ -brand-short-name } ithumela ngokuzenz
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = I-{ -brand-short-name } ivimbele le khasi ekulayisheni kabusha ngokuzenzakalela.
@@ -245,3 +262,22 @@ refresh-blocked-redirect-label = I-{ -brand-short-name } ivimbele le khasi ekuth
 refresh-blocked-allow =
     .label = Vumela
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Popup Notification
+
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] I-{ -brand-short-name } ivimbele leli sayithi ekuvuleni iwindi le-pop-up.
+       *[other] I-{ -brand-short-name } ivimbele leli sayithi ekuvuleni amawindi we-pop-up angu-{ $popupCount }.
+    }
