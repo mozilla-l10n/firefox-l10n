@@ -13,6 +13,8 @@ styleeditor-filter-input =
 styleeditor-visibility-toggle =
     .tooltiptext = Alternar a visibilidade da folla de estilo
     .accesskey = G
+styleeditor-visibility-toggle-system =
+    .tooltiptext = Non se poden desactivar as follas de estilo do sistema
 styleeditor-save-button = Gardar
     .tooltiptext = Gardar esta folla de estilo a un ficheiro
     .accesskey = G
@@ -37,3 +39,5 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Saltar á liña…
     .accesskey = S
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Non se atopou ningunha folla de estilo que coincida.
