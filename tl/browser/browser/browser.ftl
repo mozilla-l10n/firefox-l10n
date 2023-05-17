@@ -845,4 +845,14 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Alamin ang tungkol sa ligtas na pagkabit ng mga add-on
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Ipakita ang '{ $popupURI }'
