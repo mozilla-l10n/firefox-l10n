@@ -994,4 +994,25 @@ firefox-relay-offer-what-relay-does = Nos inultrara tote le emails ab <strong>{ 
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Saper plus re le installation secur de additivos
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Optiones
+           *[other] Preferentias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Monstrar “{ $popupURI }”
