@@ -122,6 +122,9 @@ about-processes-frame-name-many = Submarcos ({ $number }): { $shortUrl }
 about-processes-utility-actor-unknown = Actor descoñecido
 about-processes-utility-actor-audio-decoder = Descodificador de son
 about-processes-utility-actor-audio-decoder-generic = Descodificador de son xenérico
+about-processes-utility-actor-audio-decoder-applemedia = Descodificador de son de Apple Media
+about-processes-utility-actor-audio-decoder-wmf = Descodificador de son de Windows Media Framework
+about-processes-utility-actor-mf-media-engine = CMD de Media Engine de Windows Media Foundation
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = Oracle de JavaScript
 about-processes-utility-actor-windows-utils = Utilidades de Windows

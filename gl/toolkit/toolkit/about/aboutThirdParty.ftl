@@ -31,6 +31,12 @@ third-party-unsigned-icon =
     .title = Este módulo non está asinado
 third-party-warning-icon =
     .title = { -brand-short-name } fallou no código deste módulo
+third-party-icon-unsigned =
+    .title = Este módulo non está asinado
+    .alt = Este módulo non está asinado
+third-party-icon-warning =
+    .title = { -brand-short-name } quebrou en código deste módulo
+    .alt = { -brand-short-name } quebrou en código deste módulo
 third-party-status-loaded = Cargado
 third-party-status-blocked = Bloqueado
 third-party-status-redirected = Redirixido
@@ -42,10 +48,23 @@ third-party-button-open =
 third-party-button-to-block =
     .title = Bloquear este módulo
     .aria-label = Bloquear este módulo
+third-party-button-to-unblock =
+    .title = Bloqueado actualmente. Preme para desbloquealo.
+    .aria-label = Bloqueado actualmente. Preme para desbloquealo.
+third-party-button-to-unblock-disabled =
+    .title =
+        Marcado actualmente como bloqueado, aínda que a lista de bloqueos está 
+        desactivada para esta execución de { -brand-short-name }. Preme para 
+        desbloquealo.
+    .aria-label =
+        Marcado actualmente como bloqueado, aínda que a lista de bloqueos está 
+        desactivada para esta execución de { -brand-short-name }. Preme para 
+        desbloquealo.
 third-party-button-expand =
     .title = Mostrar información detallada
 third-party-button-collapse =
     .title = Contraer información detallada
+third-party-requires-restart = { -brand-short-name } debe reiniciarse para cambiar os módulos de terceiras partes que están bloqueados.
 third-party-blocking-requires-restart = Para bloquear un módulo de terceiros, { -brand-short-name } debe reiniciarse.
 third-party-should-restart-title = Reiniciar { -brand-short-name }
 third-party-should-restart-ok = Reiniciar { -brand-short-name } agora

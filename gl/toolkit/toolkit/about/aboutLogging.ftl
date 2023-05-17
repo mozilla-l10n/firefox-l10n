@@ -15,6 +15,8 @@ about-logging-set-log-file = Estabelecer un ficheiro de rexistro
 about-logging-set-log-modules = Estabelecer módulos de rexistro
 about-logging-start-logging = Iniciar rexistro
 about-logging-stop-logging = Deter rexistro
+about-logging-buttons-disabled = O rexistro está configurado mediante variables de ambiente, a configuración dinámica non está dispoñíbel.
+about-logging-some-elements-disabled = O rexistro está configurado mediante URL, algunhas opcións de configuración non están dispoñíbeis
 about-logging-info = Información:
 about-logging-log-modules-selection = Selección de módulos de rexistro
 about-logging-new-log-modules = Novos módulos de rexistro:
@@ -23,11 +25,14 @@ about-logging-logging-to-file = Rexistrando nun ficheiro
 about-logging-logging-to-profiler = Rexistrando no { -profiler-brand-name }
 about-logging-no-log-modules = Nada
 about-logging-no-log-file = Nada
+about-logging-logging-preset-selector-text = Predefinición de rexistro:
 
 ## Logging presets
 
 about-logging-preset-networking-label = Rede
+about-logging-preset-networking-description = Módulos de rexistro para diagnosticar problemas de rede
 about-logging-preset-media-playback-label = Reprodución multimedia
+about-logging-preset-media-playback-description = Módulos de rexistro para diagnosticar problemas de reprodución multimedia (non problemas de videoconferencia)
 about-logging-preset-custom-label = Personalizado
 about-logging-preset-custom-description = Módulos de rexistro seleccionados manualmente
 # Error handling
@@ -37,3 +42,10 @@ about-logging-error = Erro:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = O valor «{ $v }» non é válido para a chave «{ $k }»
+about-logging-unknown-logging-preset = Predefinición de rexistro descoñecida «{ $v }»
+about-logging-unknown-profiler-preset = Predefinición de perfilador descoñecida «{ $v }»
+about-logging-unknown-option = Opción de about:logging descoñecida «{ $k }»
+about-logging-configuration-url-ignored = Ignorouse o URL de configuración
+about-logging-file-and-profiler-override = Non se pode forzar a saída do ficheiro e substituír as opcións do perfilador ao mesmo tempo
+about-logging-configured-via-url = Opción configurada por URL
