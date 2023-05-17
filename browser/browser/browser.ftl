@@ -997,4 +997,32 @@ firefox-relay-offer-what-relay-does = Iremos reencaminhar todos os e-mails de <s
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Saber mais acerca de instalar extras com segurança
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] O { -brand-short-name } impediu este site de abrir janelas pop-up.
+       *[other] O { -brand-short-name } impediu este site de abrir { $popupCount } janelas pop-up.
+    }
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opções
+           *[other] Preferências
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Mostrar “{ $popupURI }”
