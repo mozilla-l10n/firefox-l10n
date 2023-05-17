@@ -1001,6 +1001,13 @@ popup-notification-xpinstall-prompt-learn-more = Lue lisää lisäosien asentami
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } esti tätä sivustoa avaamasta ponnahdusikkunaa.
+       *[other] { -brand-short-name } esti tätä sivustoa avaamasta { $popupCount } ponnahdusikkunaa.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
