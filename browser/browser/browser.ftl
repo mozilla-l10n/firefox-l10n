@@ -407,3 +407,7 @@ popup-warning-message =
         [one] { -brand-short-name } ई साइट केँ पाप अप विंडो खोलनैसे रोकनै अछि.
        *[other] { -brand-short-name } ई साइट केँ { $popupCount } पाप अप विंडो केँ खोलबासँ रोकनै अछि.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' देखाउ
