@@ -1001,4 +1001,25 @@ firefox-relay-offer-what-relay-does = Všetky e-maily od používateľa <strong>
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Ďalšie informácie o bezpečnej inštalácii doplnkov
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Možnosti
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] M
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Zobraziť { $popupURI }
