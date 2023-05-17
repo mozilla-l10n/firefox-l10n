@@ -275,3 +275,7 @@ popup-warning-message =
         [one] { -brand-short-name } ஆனது முன்னெழும் சாளரம் திறப்பதினைத் தடைசெய்கிறது.
        *[other] { $popupCount } ஆனது முன்னெழும் சாளரங்கள் திறப்பதினைத் தடைசெய்கின்றன.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = '{ $popupURI }' இனைக் காட்டு
