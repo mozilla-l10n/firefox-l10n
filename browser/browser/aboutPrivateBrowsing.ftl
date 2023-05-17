@@ -67,4 +67,8 @@ about-private-browsing-pin-promo-title = Žádné uložené cookies ani historie
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Cookie lišty jsou fuč!
 about-private-browsing-cookie-banners-promo-button = Omezit cookie lišty
-about-private-browsing-cookie-banners-promo-message = Nechte { -brand-short-name } automaticky odpovídat na vyskakovací okna souborů cookie za vás, abyste se mohli vrátit k procházení bez rozptylování. { -brand-short-name } odmítne všechny požadavky, pokud je to možné.
+about-private-browsing-cookie-banners-promo-message =
+    Nechte { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name(case: "acc") }
+       *[no-cases] aplikaci { -brand-short-name }
+    } automaticky odpovídat na vyskakovací okna souborů cookie za vás, abyste se mohli vrátit k procházení bez rozptylování. { -brand-short-name } odmítne všechny požadavky, pokud je to možné.
