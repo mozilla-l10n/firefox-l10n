@@ -13,3 +13,4 @@ confirmation-hint-pin-tab = Бекітілді!
 confirmation-hint-pin-tab-description = Бетті бекітуден босату үшін оны оң жақпен шертіңіз.
 confirmation-hint-send-to-device = Жіберілді!
 confirmation-hint-firefox-relay-mask-generated = Жаңа { -relay-brand-short-name } маскасы жасалды!
+confirmation-hint-firefox-relay-mask-created = Жаңа маска жасалды!
