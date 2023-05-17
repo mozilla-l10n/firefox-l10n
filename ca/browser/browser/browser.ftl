@@ -992,4 +992,25 @@ firefox-relay-offer-what-relay-does = Tots els missatges de correu electrònic d
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Més informació sobre la instal·lació de complements de forma segura
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferències
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Mostra «{ $popupURI }»
