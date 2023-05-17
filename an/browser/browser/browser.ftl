@@ -647,4 +647,17 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Aprende mas sobre instalar complementos de manera segura
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } privó que iste puesto ubrise una finestra emerchent.
+       *[other] { -brand-short-name } privó que iste puesto ubrise { $popupCount } finestras emerchents.
+    }
