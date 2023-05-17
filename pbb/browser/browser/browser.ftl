@@ -351,3 +351,20 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ayte ivxitne' vxite vxitx le'çxkwe phadewajas tudtewe'sx.
+       *[other] { -brand-short-name } na' ayte phadeya ewumene' { $popupCount } vxitx le'çxkwe's tudtewe'sxa's.
+    }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Ta'sxn '{ $popupURI }'
