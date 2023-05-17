@@ -998,4 +998,25 @@ firefox-relay-offer-what-relay-does = Ми пересилатимемо всі �
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Дізнайтеся більше про безпечне встановлення додатків
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Налаштування
+           *[other] Налаштування
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Н
+           *[other] Н
+        }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Показати '{ $popupURI }'
