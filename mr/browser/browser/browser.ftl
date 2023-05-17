@@ -556,4 +556,17 @@ refresh-blocked-allow =
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = अ‍ॅड-ऑन सुरक्षितपणे स्थापित करण्याबद्दल अधिक जाणून घ्या
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name }ने ह्या स्थळाला पॉपअप पटल उघडण्यापासून प्रतिबंध केले आहे.
+       *[other] { -brand-short-name }ने ह्या स्थळाला { $popupCount } पॉपअप पटलांना उघडण्यापासून प्रतिबंध केले आहे.
+    }
