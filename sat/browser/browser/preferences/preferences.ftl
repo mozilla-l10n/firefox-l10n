@@ -1247,6 +1247,7 @@ preferences-doh-resolver = ᱮᱢᱚᱜᱤᱡᱺ { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = ᱵᱟᱝ ᱵᱟᱛᱟᱣ URL
+preferences-doh-steering-status = ᱞᱚᱠᱟᱞ ᱯᱨᱚᱯᱷᱟᱭᱰᱚᱨ
 preferences-doh-status-active = ᱩᱥᱨᱟᱹᱣ
 preferences-doh-status-disabled = ᱵᱚᱸᱫᱚ
 # Variables:
@@ -1258,12 +1259,22 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = ᱢᱩᱞ ᱨᱩᱠᱷᱤᱭᱟᱹ
     .accesskey = D
+preferences-doh-setting-enabled =
+    .label = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱰᱷᱟᱣᱮᱱᱟ
+    .accesskey = I
+preferences-doh-setting-strict =
+    .label = Max ᱨᱩᱠᱷᱤᱭᱟᱹ
+    .accesskey = M
+preferences-doh-strict-detailed-desc-1 = ᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱫ ᱯᱨᱚᱵᱷᱟᱭᱰᱚᱨ ᱜᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 preferences-doh-setting-off =
     .label = ᱵᱚᱸᱫᱚ
     .accesskey = O
 preferences-doh-off-desc = ᱟᱢᱟᱜ ᱢᱩᱞ DNS ᱨᱤᱡᱚᱞᱵᱷᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱛᱟᱢ
 preferences-doh-select-resolver = ᱯᱨᱚᱣᱟᱭᱰᱟᱹᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
 preferences-doh-exceptions-description = { -brand-short-name } ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ DNS ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱟᱭ
+preferences-doh-manage-exceptions =
+    .label = ᱮᱠᱥᱮᱯᱥᱚᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ …
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 

@@ -27,14 +27,73 @@ tabbrowser-close-tabs-tooltip =
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ᱴᱮᱵᱽ ᱢᱭᱩᱴ ᱢᱮ ({ $shortcut })
+            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱢᱭᱩᱴ ᱢᱮ ({ $shortcut })
+           *[other] ᱴᱮᱵᱽ { $tabCount } ᱠᱚ ᱢᱭᱩᱴ ᱢᱮ ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ᱴᱮᱵᱽ ᱟᱹᱱᱢᱭᱩᱴ ᱢᱮ ({ $shortcut })
+            [two] ᱴᱮᱵᱽ ᱠᱜᱱ ᱟᱹᱱᱢᱭᱩᱴ ᱢᱮ ({ $shortcut })
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱱᱢᱭᱩᱴ ᱢᱮ ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ᱴᱮᱵᱽ ᱢᱭᱩᱴ ᱢᱮ
+            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱢᱭᱩᱴ ᱢᱮ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱢᱭᱩᱴ ᱢᱮ
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ᱴᱮᱵᱽ ᱟᱹᱱᱢᱭᱩᱴ ᱢᱮ
+            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱟᱹᱱᱢᱭᱩᱴ ᱢᱮ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱱᱢᱭᱩᱴ ᱢᱮ
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ᱴᱮᱵᱽ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
+            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title =
+    { $tabCount ->
+        [one] { $tabCount } ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+        [two] { $tabCount } ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+       *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+    }
 tabbrowser-confirm-close-tabs-button = ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+tabbrowser-confirm-close-tabs-checkbox = ᱟᱭᱢᱟᱸ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫ ᱢᱟᱲᱟᱝ ᱨᱮ ᱴᱷᱟᱹᱣᱠᱟᱹᱜ ᱢᱮ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [one] { $windowCount } ᱡᱷᱚᱨᱠᱟ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+        [two] { $windowCount } ᱡᱷᱚᱨᱠᱟ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+       *[other] { $windowCount } ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+    }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
         [windows] ᱵᱚᱸᱫ ᱟᱨ ᱵᱟᱹᱜᱤ ᱢᱮ
@@ -44,6 +103,7 @@ tabbrowser-confirm-close-windows-button =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = ᱡᱷᱚᱨᱠᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱟᱨ { -brand-short-name } ᱵᱚᱸᱫ ᱟᱢ ᱥᱮ ?
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } ᱵᱟᱹᱜᱤ ᱢᱮ
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
@@ -57,6 +117,7 @@ tabbrowser-confirm-open-multiple-tabs-button = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴ�
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = ᱠᱟᱨᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ
+tabbrowser-confirm-caretbrowsing-checkbox = ᱱᱚᱶᱟ ᱵᱟᱠᱚᱥ ᱟᱨ ᱟᱞᱚᱢ ᱫᱮᱷᱟᱣᱤᱧᱟ ᱾
 
 ##
 

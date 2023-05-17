@@ -65,7 +65,10 @@ protections-panel-site-not-working-view-send-report = ᱢᱤᱫᱴᱟᱹᱝ ᱠ�
 
 ##
 
+protections-panel-cross-site-tracking-cookies = ᱱᱚᱶᱟ ᱠᱩᱠᱤ ᱠᱚ ᱟᱢ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱥᱟᱭᱤᱴ ᱯᱟᱧᱞᱟ ᱠᱟᱢᱟ ᱠᱚ ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ ᱵᱟᱵᱚᱛ ᱞᱟᱹᱜᱤᱫ ᱾ ᱱᱚᱶᱟ ᱠᱚ ᱫᱚ ᱯᱮ ᱯᱟᱨᱴᱤ ᱴᱷᱮᱱ ᱴᱷᱮᱱ ᱡᱮᱞᱠᱟ ᱤᱥᱛᱤᱭᱟᱨ ᱟᱨ ᱟᱱᱟᱞᱭᱴᱤᱠᱥ ᱠᱚᱢᱯᱟᱱᱤ ᱠᱚ ᱥᱮᱴ ᱟᱠᱟᱫᱟ ᱾
 protections-panel-description-shim-allowed-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+protections-panel-content-blocking-breakage-report-view =
+    .title = ᱢᱤᱫᱴᱟᱹᱝ ᱨᱟᱹᱯᱩᱫ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

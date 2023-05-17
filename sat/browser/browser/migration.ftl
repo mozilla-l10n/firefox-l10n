@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ
 browser-data-session-label =
     .value = ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ
+browser-data-payment-methods-checkbox =
+    .label = ᱜᱚᱱᱚᱝ ᱦᱚᱨᱟ
+browser-data-payment-methods-label =
+    .value = ᱜᱚᱱᱚᱝ ᱦᱚᱨᱟ

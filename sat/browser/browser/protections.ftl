@@ -11,11 +11,14 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> ᱯᱟᱧᱡᱟᱠᱩᱜ ᱠᱚ ᱟᱠᱚᱴ ᱪᱷᱚ ᱠᱟᱱᱟ { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } ᱠᱷᱚᱱ
        *[other] <b>{ $count }</b> ᱯᱟᱧᱡᱟᱠᱩᱜ ᱠᱚ ᱟᱠᱚᱴ ᱪᱷᱚ ᱠᱟᱱᱟ { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } ᱠᱷᱚᱱ
     }
+protection-report-webpage-title = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱮᱥᱵᱚᱰ
+protection-report-page-content-title = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱮᱥᱵᱚᱰ
 protection-report-manage-protections = ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = ᱛᱮᱦᱮᱸᱧ
 social-tab-title = ᱥᱚᱥᱤᱭᱟᱞ ᱢᱮᱰᱤᱭᱟ ᱴᱨᱮᱠᱚᱨ ᱠᱚ
+cookie-tab-title = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ
 tracker-tab-title = ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱡᱤᱱᱤᱥ
 fingerprinter-tab-title = ᱠᱟᱹᱴᱩᱵᱪᱷᱟᱯᱟ ᱟᱜ
 cryptominer-tab-title = ᱠᱨᱭᱯᱴᱚᱢᱟᱭᱱᱟᱹᱨ ᱠᱚ

@@ -1019,8 +1019,8 @@ popup-warning-message =
 popup-warning-button =
     .label =
         { PLATFORM() ->
-            [windows] ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ
-           *[other] ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
+            [windows] ᱚᱯᱥᱚᱱ
+           *[other] ᱠᱩᱥᱤᱠᱚ
         }
     .accesskey =
         { PLATFORM() ->
@@ -1030,4 +1030,4 @@ popup-warning-button =
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
-    .label = “{ $popupURI }” ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .label = “{ $popupURI }” ᱫᱮᱠᱷᱟᱣᱢᱮ

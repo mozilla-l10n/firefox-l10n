@@ -16,6 +16,16 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = ᱥᱤᱝᱠ ᱮᱢ ᱪᱷᱚ
 fxa-menu-connect-another-device =
     .label = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ…
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+fxa-menu-send-tab-to-device =
+    .label =
+        { $tabCount ->
+            [1] ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱴᱮᱵᱽ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+            [one] ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱴᱮᱵᱽ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+            [two] ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+           *[other] ᱥᱟᱫᱷᱚᱱ ᱛᱮ { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱛᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ…
