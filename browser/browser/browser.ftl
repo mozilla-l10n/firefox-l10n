@@ -997,4 +997,17 @@ firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónic
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Aprender más acerca de instalar complementos de forma segura
+
+## Pop-up warning
+
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ha evitado que este sitio abra una ventana emergente.
+       *[other] { -brand-short-name } ha evitado que este sitio abra { $popupCount } ventanas emergentes.
+    }
