@@ -1011,3 +1011,7 @@ popup-warning-message =
         [one] A { -brand-short-name } megakadályozta, hogy ez a webhely felugró ablakot nyisson meg.
        *[other] A { -brand-short-name } megakadályozta, hogy ez a webhely { $popupCount } felugró ablakot nyisson meg.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = „{ $popupURI }” megjelenítése
