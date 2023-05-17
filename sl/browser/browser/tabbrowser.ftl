@@ -157,6 +157,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Povrni glasnost zavihkov
     .accesskey = r
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Predvaja zvok
 
 ## Ctrl-Tab dialog
 

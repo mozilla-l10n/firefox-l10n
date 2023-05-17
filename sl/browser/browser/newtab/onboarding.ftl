@@ -433,3 +433,4 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Lisica, ki maha z zaslona prenosnega računalnika. Prenosnik ima priključeno miško.
 onboarding-device-migration-title = Dobrodošli nazaj!
+onboarding-device-migration-primary-button-label = Prijava
