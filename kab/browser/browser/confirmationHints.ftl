@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Ittwasenten!
 confirmation-hint-pin-tab-description = Sit s tqeffalt tayeffust ɣef yiccer akken ad t-id-qelɛeḍ.
 confirmation-hint-send-to-device = Ittwazen!
 confirmation-hint-firefox-relay-mask-generated = Agelmus amaynut n { -relay-brand-short-name } tettusirew-d?
+confirmation-hint-firefox-relay-mask-created = Yettwarna ugelmus amaynut!
+confirmation-hint-firefox-relay-mask-reused = Yettwasenqed daɣen ugelmus yellan!
