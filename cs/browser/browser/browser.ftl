@@ -1105,4 +1105,21 @@ firefox-relay-offer-what-relay-does = Všechny e-maily z <strong>{ $sitename }</
 
 ## Popup Notification
 
+
+## Pop-up Notification
+
 popup-notification-xpinstall-prompt-learn-more = Zjistit více o bezpečné instalaci doplňků
+
+## Pop-up warning
+
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Předvolby
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] P
+        }
