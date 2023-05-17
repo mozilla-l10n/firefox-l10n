@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Ablakok és lapok
 browser-data-session-label =
     .value = Ablakok és lapok
+browser-data-payment-methods-checkbox =
+    .label = Fizetési módok
+browser-data-payment-methods-label =
+    .value = Fizetési módok

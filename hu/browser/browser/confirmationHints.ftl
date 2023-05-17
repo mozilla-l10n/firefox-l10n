@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Rögzítve!
 confirmation-hint-pin-tab-description = A feloldáshoz kattintson a fülre jobb egérgombbal.
 confirmation-hint-send-to-device = Elküldve!
 confirmation-hint-firefox-relay-mask-generated = Új { -relay-brand-short-name }-maszk létrehozva!
+confirmation-hint-firefox-relay-mask-created = Új maszk létrehozva.
+confirmation-hint-firefox-relay-mask-reused = A meglévő maszk újrafelhasználva.
