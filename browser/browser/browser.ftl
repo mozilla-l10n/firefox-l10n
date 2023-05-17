@@ -281,3 +281,7 @@ popup-warning-message =
         [one] I-{ -brand-short-name } ivimbele leli sayithi ekuvuleni iwindi le-pop-up.
        *[other] I-{ -brand-short-name } ivimbele leli sayithi ekuvuleni amawindi we-pop-up angu-{ $popupCount }.
     }
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Bonisa '{ $popupURI }'
