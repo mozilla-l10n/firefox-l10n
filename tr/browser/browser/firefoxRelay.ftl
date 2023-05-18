@@ -24,6 +24,8 @@ firefox-relay-generate-mask-subtitle = { -relay-brand-short-name } maskesi oluş
 firefox-relay-opt-in-confirmation-enable =
     .label = İleri
     .accesskey = İ
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = E-posta adresinizi koruyun:
 firefox-relay-opt-in-confirmation-disable =
     .label = Bunu bir daha gösterme
     .accesskey = B
