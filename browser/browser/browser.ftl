@@ -1013,6 +1013,11 @@ firefox-relay-offer-what-relay-does = Byddwn yn anfon pob e-bost o <strong>{ $si
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Mae ein arallenwau diogel, hawdd eu defnyddio yn diogelu eich hunaniaeth ac yn atal sbam trwy guddio'ch cyfeiriad e-bost.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Bydd pob e-bost sy'n cael eu hanfon at eich arallenwau e-bost yn cael eu hanfon ymlaen at <strong>{ $useremail }</strong> (oni bai eich bod yn penderfynu eu rhwystro).
+firefox-relay-offer-legal-notice = Drwy glicio “Defnyddio arallenw e-bost”, rydych yn cytuno i'r <label data-l10n-name="tos-url">Amodau Gwasanaeth</label> a <label data-l10n-name="privacy-url">Hysbysiad Preifatrwydd </label>.
 
 ## Pop-up Notification
 
