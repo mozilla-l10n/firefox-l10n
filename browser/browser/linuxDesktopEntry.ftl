@@ -24,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;İnternet;Tarayıcı
 
 desktop-action-new-window-name = Yeni pencere
 desktop-action-new-private-window-name = Yeni gizli pencere
+desktop-action-open-profile-manager = Profil yöneticisini aç
