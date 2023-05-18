@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = { -relay-brand-short-name }-Maske erstell
 firefox-relay-opt-in-confirmation-enable =
     .label = Weiter
     .accesskey = W
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Schützen Sie Ihre E-Mail-Adresse:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = { -relay-brand-name }-E-Mail-Maske verwenden
+firefox-relay-use-mask-title = { -relay-brand-name }-E-Mail-Maske verwenden
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = E-Mail-Maske verwenden
+    .accesskey = v
 firefox-relay-opt-in-confirmation-disable =
     .label = Nicht mehr anzeigen
     .accesskey = m

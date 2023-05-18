@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Kürzlich geschlossene Tabs
 appmenu-recently-closed-windows =
     .label = Kürzlich geschlossene Fenster
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Chronik durchsuchen
 
 ## Help panel
 

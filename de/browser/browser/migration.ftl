@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Fenster und Tabs
 browser-data-session-label =
     .value = Fenster und Tabs
+browser-data-payment-methods-checkbox =
+    .label = Zahlungsmethoden
+browser-data-payment-methods-label =
+    .value = Zahlungsmethoden
