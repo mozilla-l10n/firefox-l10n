@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Fönster och flikar
 browser-data-session-label =
     .value = Fönster och flikar
+browser-data-payment-methods-checkbox =
+    .label = Betalningsmetoder
+browser-data-payment-methods-label =
+    .value = Betalningsmetoder

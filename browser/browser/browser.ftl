@@ -994,6 +994,11 @@ firefox-relay-offer-what-relay-does = Vi vidarebefordrar alla e-postmeddelanden 
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Våra säkra, lättanvända alias skyddar din identitet och förhindrar skräppost genom att dölja din e-postadress.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Alla e-postmeddelanden som skickas till dina e-postalias kommer att vidarebefordras till <strong>{ $useremail }</strong> (om du inte bestämmer dig för att blockera dem).
+firefox-relay-offer-legal-notice = Genom att klicka på "Använd e-postalias" godkänner du <label data-l10n-name="tos-url">användarvillkoren</label> och <label data-l10n-name="privacy-url">sekretessmeddelandet</label>.
 
 ## Pop-up Notification
 
