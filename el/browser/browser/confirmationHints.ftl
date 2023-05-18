@@ -13,3 +13,4 @@ confirmation-hint-pin-tab = Καρφιτσώθηκε!
 confirmation-hint-pin-tab-description = Κάντε δεξί κλικ στην καρτέλα για ξεκαρφίτσωμα.
 confirmation-hint-send-to-device = Απεστάλη!
 confirmation-hint-firefox-relay-mask-generated = Δημιουργήθηκε νέα μάσκα { -relay-brand-short-name }!
+confirmation-hint-firefox-relay-mask-created = Δημιουργήθηκε νέα μάσκα!
