@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Pencereler ve sekmeler
 browser-data-session-label =
     .value = Pencereler ve sekmeler
+browser-data-payment-methods-checkbox =
+    .label = Ödeme yöntemleri
+browser-data-payment-methods-label =
+    .value = Ödeme yöntemleri
