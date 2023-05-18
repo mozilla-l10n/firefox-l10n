@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = 窗口和标签页
 browser-data-session-label =
     .value = 窗口和标签页
+browser-data-payment-methods-checkbox =
+    .label = 付款方式
+browser-data-payment-methods-label =
+    .value = 付款方式
