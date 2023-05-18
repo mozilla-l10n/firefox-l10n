@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Surfa på webben
 desktop-entry-generic-name = Webbläsare
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = { -brand-shortcut-name } webbläsare
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Webbläsare;Webb;Utforskare;
 
 desktop-action-new-window-name = Nytt fönster
 desktop-action-new-private-window-name = Nytt privat fönster
+desktop-action-open-profile-manager = Öppna Profilhanteraren
