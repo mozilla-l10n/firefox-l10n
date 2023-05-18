@@ -251,6 +251,7 @@ set-default-pdf-handler-primary = Aikumby
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = ¿Eikesépa mba’e’oka pyahúpe?
 fxa-sync-cfr-primary = Kuaave
     .accesskey = L
 fxa-sync-cfr-secondary = Chemomandu’a ag̃ave
@@ -259,3 +260,5 @@ fxa-sync-cfr-secondary = Chemomandu’a ag̃ave
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = ¿Eipuruhína mba’e’oka itujavéva?
+device-migration-fxa-spotlight-primary-button = Mba’éichapa añongatúta che mba’ekuaarã
+device-migration-fxa-spotlight-link = Chemomandu’a ag̃ave

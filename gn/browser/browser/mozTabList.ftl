@@ -29,5 +29,7 @@ mztabrow-delete = Mboguete
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 mztabrow-add-bookmark = Techaukaha…
     .accesskey = B
+mztabrow-save-to-pocket = Eñongatu { -pocket-brand-name }-pe
+    .accesskey = o
 mztabrow-copy-link = Emonguatia juajuha
     .accesskey = L

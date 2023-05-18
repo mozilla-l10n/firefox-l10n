@@ -26,6 +26,12 @@ fxviewtabrow-just-now-timestamp = Ko’ag̃aite
 
 fxviewtabrow-delete = Mboguete
     .accesskey = D
+fxviewtabrow-forget-about-this-site = Eñenbuesarái ko Ñanduti Rendágui…
+    .accesskey = F
+fxviewtabrow-open-in-window = Eike Ovetã Pyahúpe
+    .accesskey = N
+fxviewtabrow-open-in-private-window = Eike Ovetã Ñemigua Pyahúpe
+    .accesskey = P
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = Techaukaha…
     .accesskey = B

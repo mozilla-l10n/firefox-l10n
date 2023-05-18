@@ -429,4 +429,5 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-title = ¡Eg̃uahẽporã jey!
 onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo

@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Ovetã ha tendayke
 browser-data-session-label =
     .value = Ovetã ha tendayke
+browser-data-payment-methods-checkbox =
+    .label = Mba’éicha ehepyme’ẽta
+browser-data-payment-methods-label =
+    .value = Mba’éicha ehepyme’ẽta

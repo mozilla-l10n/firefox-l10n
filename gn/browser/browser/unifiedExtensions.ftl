@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Emboguete jepysokue
 unified-extensions-context-menu-report-extension =
     .label = Morandu’i jepysokue
+unified-extensions-context-menu-move-widget-up =
+    .label = Hupi
+unified-extensions-context-menu-move-widget-down =
+    .label = Mboguejy
