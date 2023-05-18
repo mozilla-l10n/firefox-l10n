@@ -24,6 +24,8 @@ fxviewtabrow-just-now-timestamp = Zojuist
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+fxviewtabrow-delete = Verwijderen
+    .accesskey = V
 fxviewtabrow-forget-about-this-site = Deze website vergeten…
     .accesskey = v
 fxviewtabrow-open-in-window = Openen in nieuw venster
