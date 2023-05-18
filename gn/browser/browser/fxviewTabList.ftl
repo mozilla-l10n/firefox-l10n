@@ -31,3 +31,5 @@ fxviewtabrow-add-bookmark = Techaukaha…
     .accesskey = B
 fxviewtabrow-save-to-pocket = Eñongatu { -pocket-brand-name }-pe
     .accesskey = o
+fxviewtabrow-copy-link = Emonguatia juajuha
+    .accesskey = L

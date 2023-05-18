@@ -13,6 +13,14 @@
 onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
 onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 onboarding-not-now-button-label = Ani ko’ág̃a
+mr1-onboarding-get-started-primary-button-label = Eñepyrũ
+mr1-onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
+mr1-onboarding-set-default-pin-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aipuruvévarõ
+    .title = Areko { -brand-short-name } kundahára ypyguárõ ha ambojuaju tembiaporã rendáre
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Ajapo { -brand-short-name }-gui kundahára ypyguávarõ
+mr1-onboarding-set-default-secondary-button-label = Ani ko’ág̃a
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Embojuaju { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Ku’e ñepyrũgua: mba’erechaha { $current } { $total } pegua
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Jeku’e: jeguata { $current } { $total } rehegua
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Tata oñepyrũ ápe
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Moheñoihára purupy ogaygua, Firefox rayhuha
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Jeku’e: jeguata { $current } { $total } rehegua
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Eipe’aite mbovy’aha
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Eñepyrũ
-mr1-onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
-mr1-onboarding-set-default-pin-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aipuruvévarõ
-    .title = Areko { -brand-short-name } kundahára ypyguárõ ha ambojuaju tembiaporã rendáre
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Ajapo { -brand-short-name }-gui kundahára ypyguávarõ
-mr1-onboarding-set-default-secondary-button-label = Ani ko’ág̃a
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Eñepyrũ tembiapo
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -427,3 +426,7 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Ehechahápe kuarahy reike ovetã guive aguara ha ka’avokuéra ndive
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Mbochiviviha ombosa’y ta’ãnga’aty tesa rovyũ, sapatu narã, pelóta pytã baloncesto-gua, ñehendu’atãha pytãũ, korasõ hovy ha koróna sa’yjúva
+
+## Device migration onboarding
+
+onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo

@@ -248,3 +248,14 @@ fox-doodle-pin-secondary = Ani ko’ág̃a
 
 set-default-pdf-handler-headline = <strong>Umi PDFs ijurujáma { -brand-short-name }.</strong> Embosako’i ha emboheraguapy myanyhẽha kundaharapevoi. Emoambue hag̃ua, eheka “PDF” ñemoĩporãha.
 set-default-pdf-handler-primary = Aikumby
+
+## FxA sync CFR
+
+fxa-sync-cfr-primary = Kuaave
+    .accesskey = L
+fxa-sync-cfr-secondary = Chemomandu’a ag̃ave
+    .accesskey = R
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = ¿Eipuruhína mba’e’oka itujavéva?

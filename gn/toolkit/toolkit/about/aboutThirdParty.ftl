@@ -67,6 +67,7 @@ third-party-button-collapse =
 third-party-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã omoambue hag̃ua ta’ãha mbohapyháva jejokopyre.
 third-party-should-restart-title = Emoñepyrũjey { -brand-short-name }
 third-party-should-restart-ok = Emoñepyrũjey { -brand-short-name } ko’ág̃a
+third-party-restart-now = Emoñepyrũjey ko’ág̃a
 third-party-restart-later = Emoñepyrũjey ag̃ave
 third-party-blocked-by-builtin =
     .title = Ojokopyre { -brand-short-name }
