@@ -26,3 +26,5 @@ fxviewtabrow-just-now-timestamp = Gerade eben
 
 fxviewtabrow-delete = Löschen
     .accesskey = L
+fxviewtabrow-copy-link = Link kopieren
+    .accesskey = L
