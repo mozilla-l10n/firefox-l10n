@@ -435,7 +435,7 @@ update-setting-write-failure-message2 =
     Ne eblis skribi la dosieron: { $path }
 update-in-progress-title = Ĝisdatigo plenumata
 update-in-progress-message = Ĉu vi volas ke { -brand-short-name } daŭrigu tiun ĉi ĝisdatigon?
-update-in-progress-ok-button = &Abandoni
+update-in-progress-ok-button = &Ignori
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
