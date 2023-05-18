@@ -30,6 +30,8 @@ fxviewtabrow-forget-about-this-site = Забути про цей сайт…
     .accesskey = З
 fxviewtabrow-open-in-window = Відкрити в новому вікні
     .accesskey = н
+fxviewtabrow-open-in-private-window = Відкрити в приватному вікні
+    .accesskey = п
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = Додати закладку…
     .accesskey = к
