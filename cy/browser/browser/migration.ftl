@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Ffenestri a Thabiau
 browser-data-session-label =
     .value = Ffenestri a Thabiau
+browser-data-payment-methods-checkbox =
+    .label = Dulliau talu
+browser-data-payment-methods-label =
+    .value = Dulliau talu
