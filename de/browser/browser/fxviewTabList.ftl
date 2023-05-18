@@ -26,5 +26,7 @@ fxviewtabrow-just-now-timestamp = Gerade eben
 
 fxviewtabrow-delete = Löschen
     .accesskey = L
+fxviewtabrow-forget-about-this-site = Gesamte Website vergessen…
+    .accesskey = v
 fxviewtabrow-copy-link = Link kopieren
     .accesskey = L
