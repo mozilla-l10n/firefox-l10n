@@ -26,5 +26,7 @@ mztabrow-just-now-timestamp = Gerade eben
 
 mztabrow-delete = Löschen
     .accesskey = L
+mztabrow-forget-about-this-site = Gesamte Website vergessen…
+    .accesskey = v
 mztabrow-copy-link = Link kopieren
     .accesskey = L
