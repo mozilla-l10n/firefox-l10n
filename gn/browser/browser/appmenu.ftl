@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Tendayke oñembotyramóva
 appmenu-recently-closed-windows =
     .label = Ovetã oñembotyramóva
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Eheka tembiasakuépe
 
 ## Help panel
 
