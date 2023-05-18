@@ -252,6 +252,7 @@ set-default-pdf-handler-primary = Anladım
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Yeni bir cihaza geçmeyi düşünüyor musunuz?
 fxa-sync-cfr-primary = Bilgi al
     .accesskey = D
 fxa-sync-cfr-secondary = Daha sonra hatırlat
@@ -259,5 +260,6 @@ fxa-sync-cfr-secondary = Daha sonra hatırlat
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Eski bir cihaz mı kullanıyorsunuz?
 device-migration-fxa-spotlight-primary-button = Verilerimi nasıl yedekleyebilirim?
 device-migration-fxa-spotlight-link = Daha sonra hatırlat
