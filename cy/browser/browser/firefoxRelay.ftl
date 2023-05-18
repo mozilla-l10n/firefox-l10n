@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = Cynhyrchwch arallenw { -relay-brand-short
 firefox-relay-opt-in-confirmation-enable =
     .label = Ymlaen
     .accesskey = Y
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Diogelwch eich cyfeiriad e-bost:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Defnyddiwch arallenw e-bost { -relay-brand-name }
+firefox-relay-use-mask-title = Defnyddiwch arallenw e-bost { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Defnyddiwch arallenw e-bost
+    .accesskey = D
 firefox-relay-opt-in-confirmation-disable =
     .label = Peidio â dangos hwn i mi eto
     .accesskey = P
