@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Pori'r We Fyd Eang
 desktop-entry-generic-name = Porwr Gwe
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = Porwr Gwe { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = Rhyngrwyd;WWW;Porwr;Gwe;Archwiliwr;
 
 desktop-action-new-window-name = Ffenestr Newydd
 desktop-action-new-private-window-name = Ffenestr Breifat Newydd
+desktop-action-open-profile-manager = Agorwch y Rheolwr Proffil
