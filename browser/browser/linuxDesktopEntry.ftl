@@ -22,3 +22,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;
 
 desktop-action-new-window-name = 新建窗口
 desktop-action-new-private-window-name = 新建隐私窗口
+desktop-action-open-profile-manager = 打开配置文件管理器
