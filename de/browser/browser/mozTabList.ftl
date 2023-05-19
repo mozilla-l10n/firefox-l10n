@@ -35,5 +35,7 @@ mztabrow-open-in-private-window = In neuem privaten Fenster öffnen
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 mztabrow-add-bookmark = Als Lesezeichen hinzufügen…
     .accesskey = L
+mztabrow-save-to-pocket = In { -pocket-brand-name } speichern
+    .accesskey = o
 mztabrow-copy-link = Link kopieren
     .accesskey = L
