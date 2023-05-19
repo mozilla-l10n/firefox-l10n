@@ -1120,10 +1120,31 @@ popup-notification-xpinstall-prompt-learn-more = Zjistit více o bezpečné inst
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
-    { $popupCount ->
-        [one] Aplikace { -brand-short-name } zabránila stránce otevřít vyskakovací okno.
-        [few] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovací okna
-       *[other] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovacích oken.
+    { -brand-short-name.gender ->
+        [masculine]
+            { $popupCount ->
+                [one] { -brand-short-name } zabránil stránce otevřít vyskakovací okno.
+                [few] { -brand-short-name } zabránil stránce otevřít { $popupCount } vyskakovací okna
+               *[other] { -brand-short-name } zabránil stránce otevřít { $popupCount } vyskakovacích oken.
+            }
+        [feminine]
+            { $popupCount ->
+                [one] { -brand-short-name } zabránila stránce otevřít vyskakovací okno.
+                [few] { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovací okna
+               *[other] { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovacích oken.
+            }
+        [neuter]
+            { $popupCount ->
+                [one] { -brand-short-name } zabránilo stránce otevřít vyskakovací okno.
+                [few] { -brand-short-name } zabránilo stránce otevřít { $popupCount } vyskakovací okna
+               *[other] { -brand-short-name } zabránilo stránce otevřít { $popupCount } vyskakovacích oken.
+            }
+       *[other]
+            { $popupCount ->
+                [one] Aplikace { -brand-short-name } zabránila stránce otevřít vyskakovací okno.
+                [few] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovací okna
+               *[other] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovacích oken.
+            }
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
