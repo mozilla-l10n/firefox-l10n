@@ -35,5 +35,7 @@ fxviewtabrow-open-in-private-window = In neuem privaten Fenster öffnen
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = Als Lesezeichen hinzufügen…
     .accesskey = L
+fxviewtabrow-save-to-pocket = In { -pocket-brand-name } speichern
+    .accesskey = o
 fxviewtabrow-copy-link = Link kopieren
     .accesskey = L
