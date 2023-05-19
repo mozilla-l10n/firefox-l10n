@@ -249,3 +249,19 @@ fox-doodle-pin-secondary = Betg ussa
 
 set-default-pdf-handler-headline = <strong>Tes PDFs s'avran ussa en { -brand-short-name }.</strong> Modifitgescha u suttascriva formulars directamain en tes navigatur. Per midar quest cumportament, tschertgar «PDF» en ils parameters.
 set-default-pdf-handler-primary = Jau hai chapì
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = In nov apparat en tes futur?
+fxa-sync-cfr-body = Fa la segira che ti hajas tes segnapaginas, pleds-clav e tabs ils pli novs adina cun tai cura che ti avras in nov navigatur { -brand-product-name }.
+fxa-sync-cfr-primary = Ulteriuras infurmaziuns
+    .accesskey = U
+fxa-sync-cfr-secondary = Ma regurdar pli tard
+    .accesskey = r
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Utiliseschas ti in apparat pli vegl?
+device-migration-fxa-spotlight-body = Fa copias da segirezza da tias datas per far la segira che ti na perdas betg infurmaziuns impurtantas sco segnapaginas e pleds-clav – specialmain sche ti midas ad in nov apparat.
+device-migration-fxa-spotlight-primary-button = Co far copias da segirezza da mias datas
+device-migration-fxa-spotlight-link = Ma regurdar pli tard
