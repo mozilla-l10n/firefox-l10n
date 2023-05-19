@@ -1194,6 +1194,13 @@ collection-studies-link = { -brand-short-name } ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱧᱮ
 addon-recommendations =
     .label = { -brand-short-name } ᱫᱚ ᱵᱮᱥ ᱱᱤᱡᱚᱨ ᱦᱤᱥᱟᱵ ᱛᱮᱭᱟᱜ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱭ ᱢᱮ
 addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = ᱱᱚᱶᱟ ᱵᱮᱱᱟᱣ ᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱠᱷᱚᱵᱚᱨ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+collection-backlogged-crash-reports-with-link = { -brand-short-name } ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱛᱮ ᱵᱮᱠᱞᱚᱜᱽ ᱟᱠᱟᱱ ᱠᱨᱟᱥ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱚᱰᱚᱠ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱠ ᱮᱢᱟᱭ ᱢᱮ <a data-l10n-name="crash-reports-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+    .accesskey = c
+privacy-segmentation-section-header = ᱱᱟᱣᱟ ᱯᱷᱤᱪᱚᱨ ᱡᱟᱦᱟᱸᱭ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱥᱩᱫᱽᱨᱟᱹᱣ ᱪᱷᱚᱭ ᱟ
+privacy-segmentation-section-description = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱵᱮᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱦᱩᱦᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱤᱪᱚᱨ ᱞᱮ ᱮᱢᱚᱜᱼᱟ :
 privacy-segmentation-radio-off =
     .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 privacy-segmentation-radio-on =
@@ -1213,6 +1220,9 @@ security-enable-safe-browsing-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 security-block-downloads =
     .label = ᱤᱥᱠᱟᱨ ᱰᱟᱣᱩᱱᱞᱚᱰ ᱵᱟᱹᱰ ᱢᱮ
     .accesskey = d
+security-block-uncommon-software =
+    .label = ᱵᱟᱝ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱟᱨ ᱵᱟᱝ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱ ᱥᱚᱯᱷᱴᱣᱮᱭᱟᱨ ᱠᱚ ᱵᱟᱵᱚᱫᱽ ᱞᱮ ᱦᱩᱥᱤᱭᱟᱹᱨᱮᱫ ᱢᱮᱭᱟ
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
@@ -1229,11 +1239,16 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱡᱷᱤᱜ ᱢᱮ
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } ᱫᱚ ᱰᱤᱥᱠ ᱨᱮᱟᱜ ᱡᱟᱭᱜᱟ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱱᱟ ᱾</strong> ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱡᱤᱱᱤᱥ ᱫᱚ ᱱᱟᱯᱟᱭ ᱛᱮ ᱵᱟᱝ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱟᱢ ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱱ ᱰᱟᱴᱟ ᱠᱚ ᱢᱮᱴᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ > ᱱᱤᱥᱚᱱ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ > ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱾
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ᱫᱚ ᱰᱤᱥᱠ ᱨᱮᱟᱜ ᱡᱟᱭᱜᱟ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱱᱟ ᱾</strong> ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱡᱤᱱᱤᱥ ᱫᱚ ᱱᱟᱯᱟᱭ ᱛᱮ ᱵᱟᱝ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱟᱢᱟᱜ ᱰᱮᱥᱠ ᱵᱮᱵᱷᱟᱨ ᱵᱮᱥ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ “ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ” ᱾
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = ᱠᱷᱟᱹᱞᱤᱼHTTPS ᱢᱳᱰ
+httpsonly-description = HTTPS ᱫᱚ { -brand-short-name } ᱟᱢ ᱟᱢ ᱦᱤᱨᱤᱮᱫ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ, ᱟᱨ ᱠᱮᱴᱮᱡ ᱡᱩᱲᱟᱹᱣ ᱫᱚᱦᱚᱭᱟᱭ ᱾ ᱡᱟᱹᱥᱛᱤ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱫᱚ  HTTPS ᱛᱟᱦᱮᱸᱱ ᱛᱟᱠᱚᱣᱟ, ᱟᱨ ᱡᱩᱫᱤ HTTPS-Only ᱢᱳᱰ ᱮᱢ ᱪᱷᱚ ᱮᱱ ᱠᱷᱟᱱ, ᱢᱮᱱᱠᱷᱟᱱ { -brand-short-name } ᱫᱚ ᱡᱷᱚᱛᱚ ᱡᱩᱲᱟᱹᱣ HTTPS ᱛᱮ ᱦᱟᱹᱞᱤᱦᱚᱪᱚᱭᱟᱭ ᱾
 httpsonly-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+httpsonly-radio-enabled =
+    .label = ᱡᱚᱛᱚ ᱡᱷᱚᱨᱠᱟ ᱨᱮ HTTPS-ᱢᱳᱰ ᱜᱮ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 httpsonly-radio-disabled =
     .label = HTTPS-ᱠᱷᱟᱹᱞᱤ ᱢᱳᱰ ᱟᱞᱚ ᱮᱢ ᱟ
 

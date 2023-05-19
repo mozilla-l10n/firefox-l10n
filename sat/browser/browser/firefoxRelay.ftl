@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = { -relay-brand-short-name } ᱢᱟᱥᱠ 
 firefox-relay-opt-in-confirmation-enable =
     .label = ᱞᱮᱛᱟᱲ
     .accesskey = C
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = ᱟᱢᱟᱜ ᱤᱼᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱛᱟᱢ ᱺ
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+firefox-relay-use-mask-title = { -relay-brand-name } ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = U
 firefox-relay-opt-in-confirmation-disable =
     .label = ᱱᱚᱶᱟ ᱫᱩᱦᱲᱟᱹ ᱟᱞᱚᱢ ᱠᱩᱞᱤᱧᱟ
     .accesskey = D
