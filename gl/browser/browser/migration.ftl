@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Xanelas e lapelas
 browser-data-session-label =
     .value = Xanelas e lapelas
+browser-data-payment-methods-checkbox =
+    .label = Métodos de pagamento
+browser-data-payment-methods-label =
+    .value = Métodos de pagamento
