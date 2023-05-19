@@ -13,3 +13,4 @@ confirmation-hint-pin-tab = 已固定！
 confirmation-hint-pin-tab-description = 右键点击标签页以取消固定。
 confirmation-hint-send-to-device = 发送成功！
 confirmation-hint-firefox-relay-mask-generated = 已生成新的 { -relay-brand-short-name } 马甲！
+confirmation-hint-firefox-relay-mask-created = 马甲创建成功！
