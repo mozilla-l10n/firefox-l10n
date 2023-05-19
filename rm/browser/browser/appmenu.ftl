@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Tabs serrads dacurt
 appmenu-recently-closed-windows =
     .label = Fanestras serradas dacurt
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Tschertgar en la cronologia
 
 ## Help panel
 
