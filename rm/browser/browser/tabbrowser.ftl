@@ -135,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Reactivar il tun dals tabs
     .accesskey = u
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Reproducziun dad audio
 
 ## Ctrl-Tab dialog
 

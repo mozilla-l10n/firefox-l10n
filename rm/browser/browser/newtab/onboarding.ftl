@@ -47,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Agiuntar { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Emprims pass: visur { $current } da { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Progress: pass { $current } da { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -68,6 +60,14 @@ mr1-welcome-screen-hero-text = Fieu e flomma per cumenzar
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – designra da mobiglias e fan da Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progress: pass { $current } da { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Deactivar las animaziuns
 
@@ -426,3 +426,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista dad in tramunt tras ina fanestra cun ina vulp ed ina planta da chasa sin il curnisch
 mr2022-onboarding-colorways-image-alt =
     .aria-label = In maun dissegna in collascha colurada da graffitis cun in egl verd, in chalzer oransch, ina balla-basket cotschna, uregliers violets, in cor blau ed ina curuna melna
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Ina vulp che salida sin in visur dad in laptop. Ina mieur è connectada cun il laptop.
+onboarding-device-migration-title = Bel da ta vesair puspè!
+onboarding-device-migration-subtitle = T'annunzia en tes { -fxaccount-brand-name(capitalization: "sentence") } per prender cun tai tes segnapaginas, pleds-clav e tia cronologia sin tes nov apparat.
+onboarding-device-migration-primary-button-label = S'annunziar

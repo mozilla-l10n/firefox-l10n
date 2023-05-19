@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Allontanar l'extensiun
 unified-extensions-context-menu-report-extension =
     .label = Rapportar l'extensiun
+unified-extensions-context-menu-move-widget-up =
+    .label = Spustar ensi
+unified-extensions-context-menu-move-widget-down =
+    .label = Spustar engiu
