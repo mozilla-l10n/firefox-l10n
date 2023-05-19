@@ -28,5 +28,12 @@ mztabrow-delete = Löschen
     .accesskey = L
 mztabrow-forget-about-this-site = Gesamte Website vergessen…
     .accesskey = v
+mztabrow-open-in-window = In neuem Fenster öffnen
+    .accesskey = F
+mztabrow-open-in-private-window = In neuem privaten Fenster öffnen
+    .accesskey = p
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
+mztabrow-add-bookmark = Als Lesezeichen hinzufügen…
+    .accesskey = L
 mztabrow-copy-link = Link kopieren
     .accesskey = L
