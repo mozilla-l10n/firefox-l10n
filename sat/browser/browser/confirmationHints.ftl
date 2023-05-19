@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = ᱞᱟᱴᱷᱟ ᱮᱱᱟ !
 confirmation-hint-pin-tab-description = ᱪᱷᱟᱰᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵᱽ ᱨᱮ ᱡᱚᱡᱚᱢᱼᱚᱛᱟ ᱠᱟᱜ ᱢᱮ
 confirmation-hint-send-to-device = ᱠᱩᱞ ᱮᱱᱟ!
 confirmation-hint-firefox-relay-mask-generated = ᱱᱟᱶᱟ { -relay-brand-short-name } ᱢᱟᱥᱠ ᱛᱮᱭᱟᱨ ᱮᱱᱟ !
+confirmation-hint-firefox-relay-mask-created = ᱱᱟᱶᱟ ᱢᱟᱥᱠ ᱛᱮᱭᱟᱨ ᱮᱱᱟ!
+confirmation-hint-firefox-relay-mask-reused = ᱢᱟᱲᱟᱝᱟᱜ ᱢᱟᱥᱠ ᱫᱩᱦᱲᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱮᱱᱟ !
