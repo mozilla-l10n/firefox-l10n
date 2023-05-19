@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = Gin masg { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Lean air adhart
     .accesskey = L
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Dìon an seòladh post-d agad:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Cleachd masg puist-d { -relay-brand-name }
+firefox-relay-use-mask-title = Cleachd masg puist-d { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Cleachd masg puist-d
+    .accesskey = u
 firefox-relay-opt-in-confirmation-disable =
     .label = Na seall seo dhomh a-rithist
     .accesskey = N

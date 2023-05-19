@@ -1005,6 +1005,11 @@ firefox-relay-offer-what-relay-does = Sìnidh sinn air adhart gach post-d o <str
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Tha na masgan againn tèarainte ’s furasta ri an cleachdadh, dìonaidh iad do dhearbh-aithne agus bacaidh iad spama le bhith a’ cur a’ phuist-d agad am falach.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Thèid gach post-d a chuirear dha na masgan puist-d agad a shìneadh air adhart gu <strong>{ $useremail }</strong> (ach ma bhacas tu iad).
+firefox-relay-offer-legal-notice = Le bith a’ briogadh air “Cleachd masg puist-d”, bidh tu ag aontachadh ri <label data-l10n-name="tos-url">teirmichean na seirbheise</label> agus <label data-l10n-name="privacy-url">aithris na prìobhaideachd</label>.
 
 ## Pop-up Notification
 
