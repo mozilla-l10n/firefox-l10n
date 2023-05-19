@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+site-data-settings-description = ᱞᱟᱛᱟᱨ ᱨᱮ ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱠᱩᱠᱤ ᱟᱨ ᱥᱟᱭᱤᱴ ᱵᱟᱵᱚᱛ ᱰᱮᱴᱟ ᱠᱚ ᱫᱚᱦᱚᱮᱫᱟ ᱾ { -brand-short-name } ᱫᱚ ᱟᱢ ᱵᱟᱝ ᱢᱮᱴᱟᱣ ᱫᱷᱟᱹᱵᱤᱡ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱫᱚᱦᱚᱭᱟᱭ, ᱟᱨ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱦᱚᱸ ᱢᱮᱴᱟᱣᱟᱭ ᱵᱟᱝᱼᱛᱟᱦᱮᱱ ᱫᱚᱦᱚ ᱫᱷᱟᱹᱵᱤᱡ ᱪᱮᱫᱟᱜ ᱥᱮ ᱡᱟᱭᱜᱟ ᱞᱟᱹᱠᱤᱛ ᱠᱟᱱᱟ ᱾
 site-data-search-textbox =
     .placeholder = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
     .accesskey = S
@@ -44,3 +47,8 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ᱚᱪᱚᱜᱽ ᱢᱮ
 site-data-removing-header = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱚᱪᱚᱜᱚᱜ ᱠᱟᱱᱟ
+site-data-removing-desc = ᱠᱩᱠᱤ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱫᱚ ᱚᱪᱚᱜ ᱞᱟᱠᱮᱟᱱ ᱟᱢ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱛᱮ ᱚᱰᱚᱠᱚᱜᱼᱟᱢ ᱾ ᱟᱢ ᱥᱟᱹᱨᱤᱛᱮ ᱱᱚᱣᱟ ᱵᱚᱫᱚᱞᱠᱚ ᱫᱟᱦᱟ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
+# Variables:
+#   $baseDomain (String) - The single domain for which data is being removed
+site-data-removing-single-desc = ᱠᱩᱠᱤ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱫᱚ ᱚᱪᱚᱜ ᱞᱟᱠᱮᱟᱱ ᱟᱢ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱛᱮ ᱚᱰᱚᱠᱚᱜᱼᱟᱢ ᱾ ᱟᱢ ᱫᱚ ᱥᱟᱹᱨᱤᱛᱮ ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ <strong>{ $baseDomain }</strong> ᱞᱟᱹᱜᱤᱫ ᱚᱪᱚᱜᱽ  ᱥᱟᱭᱤᱴ ᱠᱟᱱᱟ ᱥᱮ?
+site-data-removing-table = ᱞᱟᱛᱟᱨ ᱨᱮ ᱚᱞ ᱟᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱟᱨ ᱥᱟᱦᱴᱟ ᱰᱟᱴᱟ ᱠᱚ ᱚᱪᱚᱜ ᱦᱩᱭᱩᱜᱼᱟ
