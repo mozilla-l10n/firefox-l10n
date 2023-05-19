@@ -994,6 +994,11 @@ firefox-relay-offer-what-relay-does = Nus vegnin a renviar tut ils e-mails da <s
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Noss alias segirs ch'èn simpels d'utilisar protegian tia identitad ed eviteschan messadis nungiavischads cun zuppentar tia adressa dad e-mail.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Tut ils e-mails tramess a tes alias vegnan renviads a <strong>{ $useremail }</strong> (nun che ti decidias d'als bloccar).
+firefox-relay-offer-legal-notice = Cun cliccar sin «Utilisar alias dad e-mail», acceptas ti las <label data-l10n-name="tos-url">cundiziuns d'utilisaziun</label> e las <label data-l10n-name="privacy-url">infurmaziuns davart la protecziun da datas</label>.
 
 ## Pop-up Notification
 

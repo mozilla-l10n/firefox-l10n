@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Fanestras e tabs
 browser-data-session-label =
     .value = Fanestras e tabs
+browser-data-payment-methods-checkbox =
+    .label = Metodas da pajament
+browser-data-payment-methods-label =
+    .value = Metodas da pajament
