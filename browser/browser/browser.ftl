@@ -997,6 +997,11 @@ firefox-relay-offer-what-relay-does = Reenviaremos todos os correos electrónico
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = As nosas máscaras, seguras e fáciles de usar, protexen a súa identidade e evitan o spam ocultando o seu enderezo de correo electrónico.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Todos os correos electrónicos enviados ás súas máscaras de correo electrónico serán reenviados a <strong>{ $useremail }</strong> (a non ser que decida bloquealos).
+firefox-relay-offer-legal-notice = Ao premer en “Usar máscara de correo”, vostede acepta as <label data-l10n-name="tos-url">Condicións do servizo</label> e o <label data-l10n-name="privacy-url">Aviso de privacidade</label>.
 
 ## Pop-up Notification
 
