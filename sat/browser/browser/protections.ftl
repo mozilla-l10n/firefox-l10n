@@ -132,13 +132,43 @@ info-exposed-passwords-found =
         [two] ᱡᱷᱚᱛᱚ ᱠᱩᱢᱵᱽᱲᱩ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱵᱟᱲᱟᱭ ᱦᱩᱭ ᱮᱱᱟ
        *[other] ᱡᱷᱚᱛᱚ ᱠᱩᱢᱵᱽᱲᱩ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱵᱟᱲᱟᱭ ᱦᱩᱭ ᱮᱱᱟ
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] ᱵᱟᱝ ᱥᱩᱡᱷᱟᱹᱣ ᱠᱩᱢᱵᱽᱲᱩ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱯᱟᱥᱱᱟᱣ ᱠᱟᱱᱟ
+        [two] ᱵᱟᱝ ᱥᱩᱡᱷᱟᱹᱣ ᱠᱩᱢᱵᱽᱲᱩ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱯᱟᱥᱱᱟᱣ ᱠᱟᱱᱟ
+       *[other] ᱵᱟᱝ ᱥᱩᱡᱷᱟᱹᱣ ᱠᱩᱢᱵᱽᱲᱩ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱯᱟᱥᱱᱟᱣ ᱠᱟᱱᱟ
+    }
 monitor-no-breaches-title = ᱵᱮᱥ ᱠᱷᱚᱵᱚᱨ!
+monitor-no-breaches-description = ᱟᱢ ᱴᱷᱮᱱ ᱪᱮᱫ ᱡᱤᱱᱤᱥ ᱵᱟᱭ ᱠᱩᱢᱵᱽᱲᱩ ᱠᱟᱱᱟ ᱾ ᱡᱩᱫᱤ ᱚᱱᱟ ᱵᱚᱫᱚᱞᱚᱜᱼᱟ, ᱟᱞᱮ ᱫᱚ ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱢᱮᱭᱟ ᱞᱮ ᱾
+monitor-view-report-link = ᱠᱷᱚᱵᱚᱨ ᱧᱮᱞ ᱢᱮ
+    .title = { -monitor-brand-short-name } ᱨᱮ ᱠᱩᱢᱵᱽᱲᱩ ᱧᱮᱞ ᱢᱮ
+monitor-breaches-unresolved-title = ᱟᱢᱟᱜ ᱠᱩᱢᱵᱽᱲᱩ ᱧᱮᱞ ᱢᱮ
+monitor-breaches-unresolved-description = ᱠᱩᱢᱵᱽᱲᱩ ᱵᱤᱵᱨᱚᱬ ᱟᱨ ᱟᱢ ᱵᱚᱵᱚᱛ ᱡᱤᱱᱤᱥ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱠᱟᱛᱮ ᱧᱮᱞ ᱠᱟᱛᱮ, ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱠᱩᱢᱵᱽᱲᱩ ᱫᱚ ᱴᱷᱤᱠ ᱮᱱᱟ ᱞᱮᱠᱷᱟ ᱪᱤᱱᱦᱟᱹ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+monitor-manage-breaches-link = ᱠᱩᱢᱵᱽᱲᱩ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
+    .title = { -monitor-brand-short-name } ᱨᱮ ᱠᱩᱢᱵᱽᱲᱩ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
+monitor-breaches-resolved-title = ᱴᱷᱤᱠ ᱜᱭᱟ! ᱟᱢ ᱫᱚ ᱵᱟᱲᱟᱭ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱠᱩᱢᱵᱽᱲᱩ ᱠᱚ ᱧᱮᱞ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱠᱮᱫᱟᱢ ᱾
+monitor-breaches-resolved-description = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱤᱢᱮᱞ ᱡᱟᱦᱟᱸ ᱱᱟᱶᱟ ᱠᱩᱢᱵᱽᱲᱩ ᱨᱮ ᱧᱮᱞᱚᱜ ᱠᱷᱟᱱ, ᱟᱞᱮ ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱢᱮᱭᱟ ᱞᱮ ᱾
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } ᱠᱷᱚᱱ { $numBreaches } ᱠᱩᱢᱵᱽᱲᱩ ᱫᱚ ᱴᱷᱤᱠᱮᱱ ᱞᱮᱠᱷᱟ ᱪᱤᱱᱦᱟᱹ ᱮᱢ ᱠᱟᱱᱟ ᱾
+        [two] { $numBreachesResolved } ᱠᱷᱚᱱ { $numBreaches } ᱠᱩᱢᱵᱽᱲᱩ ᱠᱤᱱ ᱫᱚ ᱴᱷᱤᱠᱮᱱ ᱞᱮᱠᱷᱟ ᱪᱤᱱᱦᱟᱹ ᱮᱢ ᱠᱟᱱᱟ ᱾
+       *[other] { $numBreachesResolved } ᱠᱷᱚᱱ { $numBreaches } ᱠᱩᱢᱵᱽᱲᱩ ᱠᱚ ᱫᱚ ᱴᱷᱤᱠᱮᱱ ᱞᱮᱠᱷᱟ ᱪᱤᱱᱦᱟᱹ ᱮᱢ ᱠᱟᱱᱟ ᱾
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 monitor-partial-breaches-motivation-title-start = ᱟᱹᱰᱤ ᱵᱮᱥ ᱮᱛᱦᱚᱵ!
 monitor-partial-breaches-motivation-title-middle = ᱞᱟᱜᱟᱣ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
 monitor-partial-breaches-motivation-title-end = ᱦᱩᱭᱮᱱ ᱜᱮᱭᱟ! ᱞᱟᱜᱟᱣ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ ᱾
+monitor-partial-breaches-motivation-description = { -monitor-brand-short-name } ᱨᱮ ᱵᱟᱠᱤ ᱟᱢᱟᱜ ᱠᱩᱢᱵᱽᱲᱩ ᱠᱚᱨᱮ ᱴᱷᱤᱠ ᱢᱮ ᱾
+monitor-resolve-breaches-link = ᱠᱩᱢᱵᱽᱲᱩ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱢᱮ
+    .title = { -monitor-brand-short-name } ᱨᱮ ᱠᱩᱢᱵᱽᱲᱩ ᱧᱮᱞ ᱢᱮ
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -147,6 +177,30 @@ monitor-partial-breaches-motivation-title-end = ᱦᱩᱭᱮᱱ ᱜᱮᱭᱟ! �
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = ᱥᱚᱥᱤᱭᱟᱥ ᱢᱤᱰᱤᱭᱟ ᱯᱟᱧᱡᱟᱠᱩᱜ
+    .aria-label =
+        { $count ->
+            [one] { $count } ᱥᱚᱥᱤᱭᱟᱞ ᱢᱤᱰᱤᱭᱟ ᱯᱟᱧᱡᱟᱠᱩᱜ ({ $percentage }%)
+            [two] { $count } ᱥᱟᱶᱛᱟ ᱢᱤᱰᱤᱭᱟ ᱴᱨᱮᱠᱚᱨᱠᱤᱱ ({ $percentage }%)
+           *[other] { $count } ᱥᱟᱶᱛᱟ ᱢᱤᱰᱤᱭᱟ ᱴᱨᱮᱠᱚᱨᱠᱚ ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ
+    .aria-label =
+        { $count ->
+            [one] { $count } ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ ({ $percentage }%)
+            [two] { $count } ᱠᱨᱚᱥ-ᱥᱟᱭᱴ ᱴᱨᱮᱠᱤᱝ ᱠᱩᱠᱤᱠᱤᱱ ({ $percentage }%)
+           *[other] { $count } ᱠᱨᱚᱥ-ᱥᱟᱭᱴ ᱴᱨᱮᱠᱤᱝ ᱠᱩᱠᱤᱠᱚ ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = ᱴᱨᱮᱠᱤᱝ ᱡᱤᱱᱤᱥ
+    .aria-label =
+        { $count ->
+            [one] { $count } ᱯᱟᱧᱡᱟ ᱡᱤᱱᱤᱥ ({ $percentage }%)
+            [two] { $count } ᱯᱟᱧᱡᱟ ᱡᱤᱱᱤᱥ ({ $percentage }%)
+           *[other] { $count } ᱯᱟᱧᱡᱟ ᱡᱤᱱᱤᱥ ({ $percentage }%)
+        }
 bar-tooltip-fingerprinter =
     .title = ᱠᱟᱹᱴᱩᱵᱪᱷᱟᱯᱟ ᱟᱜ
     .aria-label =
