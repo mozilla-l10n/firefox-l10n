@@ -77,6 +77,9 @@ certmgr-email =
 certmgr-serial =
     .label = Numero seriale
 
+certmgr-fingerprint-sha-256 =
+    .label = Impronta digitale SHA-256
+
 certmgr-view =
     .label = Visualizza…
     .accesskey = V
