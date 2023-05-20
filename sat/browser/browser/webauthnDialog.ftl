@@ -2,5 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-prompt =
+    { $retriesLeft ->
+        [0] ᱵᱷᱩᱞ PIN! ᱫᱚᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱷᱤᱠ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾
+        [one] ᱵᱷᱩᱞ PIN! ᱫᱚᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱷᱤᱠ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣ ᱥᱟᱨᱮᱡ ᱮᱱᱟ ᱾
+        [two] ᱵᱷᱩᱞ PIN! ᱫᱚᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱷᱤᱠ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣᱠᱤᱱ ᱥᱟᱨᱮᱡ ᱮᱱᱟ ᱾
+       *[other] ᱵᱷᱩᱞ PIN! ᱫᱚᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱷᱤᱠ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣᱠᱚ ᱥᱟᱨᱮᱡ ᱮᱱᱟ ᱾
+    }
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] ᱵᱷᱩᱞ ᱜᱮᱭᱟ PIN ᱾ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱮᱯᱮᱢ ᱜᱟᱶᱛᱟ ᱠᱚ ᱟᱫ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+        [two] ᱵᱷᱩᱞ ᱜᱮᱭᱟ PIN ᱾ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱮᱯᱮᱢ ᱜᱟᱶᱛᱟ ᱠᱚ ᱟᱫ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣᱠᱤᱱ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+       *[other] ᱵᱷᱩᱞ ᱜᱮᱭᱟ PIN ᱾ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱮᱯᱮᱢ ᱜᱟᱶᱛᱟ ᱠᱚ ᱟᱫ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+    }
 webauthn-pin-invalid-short-prompt = ᱵᱷᱩᱞ PIN ᱾ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 webauthn-pin-required-prompt = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱞᱟᱹᱜᱤᱫ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾
