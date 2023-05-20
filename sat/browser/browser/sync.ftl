@@ -4,6 +4,7 @@
 
 fxa-toolbar-sync-syncing2 = ᱥᱤᱝᱠ ᱦᱩᱭᱩ ᱠᱟᱱᱟ...
 sync-disconnect-dialog-title2 = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜᱟᱢ ?
+sync-disconnect-dialog-body = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱮ ᱵᱚᱸᱫᱟᱭ ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱰᱟᱴᱟ ᱵᱮᱭ ᱢᱮᱴᱟᱣᱟᱭ ᱾
 sync-disconnect-dialog-button = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜ
 fxa-signout-dialog2-title = { -fxaccount-brand-name } ᱠᱷᱚᱱ ᱚᱰᱚᱠᱚᱜ ᱟᱢ ᱥᱮ ?
 fxa-signout-dialog-body = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱰᱟᱴᱟ ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱛᱟᱦᱮᱱ ᱟ ᱾
