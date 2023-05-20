@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Равзанаҳо ва варақаҳо
 browser-data-session-label =
     .value = Равзанаҳо ва варақаҳо
+browser-data-payment-methods-checkbox =
+    .label = Тарзҳои пардохт
+browser-data-payment-methods-label =
+    .value = Тарзҳои пардохт
