@@ -175,6 +175,9 @@ about-debugging-runtime-profile-button2 = ປະສິດທິພາບໂປ�
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
 about-debugging-runtime-service-workers-not-compatible = ການຕັ້ງຄ່າໂປຣແກຣມທ່ອງເວັບຂອງທ່ານບໍ່ເຂົ້າກັນໄດ້ກັບພະນັກງານບໍລິການ. <a>ສຶກສາເພີ່ມເຕີມ</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Firefox ລຸ້ນນີ້ບໍ່ສາມາດແກ້ບັນຫາ Firefox ສໍາລັບ Android (68). ພວກເຮົາແນະນໍາໃຫ້ຕິດຕັ້ງ Firefox ສໍາລັບ Android Nightly ໃນໂທລະສັບຂອງທ່ານເພື່ອທົດສອບ. <a>ລາຍລະອຽດເພີ່ມເຕີມ</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)

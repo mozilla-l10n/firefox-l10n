@@ -14,6 +14,9 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = ຕົວເຮັດວຽກບໍລິການ
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = ເປີດ <a>about:debugging</a> ສໍາລັບພະນັກງານບໍລິການຈາກໂດເມນອື່ນ
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = ຍົກເລີກການລົງທະບຽນ
 # Alt text for the image icon displayed inside a debug link for a service worker.
