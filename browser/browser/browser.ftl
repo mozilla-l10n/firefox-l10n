@@ -996,6 +996,10 @@ firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong> adresinden 
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Güvenli, kullanımı kolay maskelerimiz kimliğinizi korur ve e-posta adresinizi gizleyerek istenmeyen e-postaları önler.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = E-posta maskelerinize gönderilen tüm e-postalar <strong>{ $useremail }</strong> adresine yönlendirilecektir (siz engellemeye karar vermediğiniz sürece).
 
 ## Pop-up Notification
 
