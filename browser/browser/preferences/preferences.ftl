@@ -183,6 +183,21 @@ containers-remove-cancel-button = این حامل حذف نشود
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زبان و ظاهر
+preferences-web-appearance-choice-auto = خودکار
+preferences-web-appearance-choice-light = روشن
+preferences-web-appearance-choice-dark = تاریک
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = رنگ‌ها
+preferences-fonts-header = قلم‌ها
 default-font = قلم پیش‌فرض
     .accesskey = D
 default-font-size = اندازه
@@ -499,6 +514,8 @@ home-prefs-recommended-by-description-new = محتوای استثنایی که �
 home-prefs-recommended-by-learn-more = این چجوری کار میکنه
 home-prefs-recommended-by-option-sponsored-stories =
     .label = محتوایی از حامیان مالی
+home-prefs-recommended-by-option-recent-saves =
+    .label = نمایش ذخیره‌های اخیر
 home-prefs-highlights-option-visited-pages =
     .label = صفحات بازدید شده
 home-prefs-highlights-options-bookmarks =
@@ -773,6 +790,7 @@ forms-breach-alerts =
     .label = هشدارهای مربوط به گذرواژه‌ها در خصوص سایت‌های هک شده را نمایش بده
     .accesskey = b
 forms-breach-alerts-learn-more-link = بیشتر بدانید
+relay-integration-learn-more-link = بیشتر بدانید
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = پُر کردن خودکار ورودها و گذرواژه‌ها
@@ -928,6 +946,7 @@ addressbar-locbar-engines-option =
     .label = موتورهای جستجو
     .accesskey = a
 addressbar-suggestions-settings = تغییر ترجیحات مربوط به پیشنهادهای موتورهای جستجو
+addressbar-quickactions-learn-more = بیشتر بدانید
 
 ## Privacy Section - Content Blocking
 

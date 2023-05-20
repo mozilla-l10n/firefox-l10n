@@ -7,6 +7,17 @@
 # This approach minimizes issues across multiple release channels and rebranded
 # versions.
 
+default-bookmarks-title = نشانک‌ها
+default-bookmarks-heading = نشانک‌ها
+default-bookmarks-toolbarfolder = پوشهٔ نوار ابزار نشانک‌ها
+# link title for https://www.mozilla.org/firefox/central/
+default-bookmarks-getting-started = آغاز کردن
+# link title for https://www.mozilla.org/firefox/help/
+default-bookmarks-firefox-get-help = دریافت راهنمایی
+# link title for https://www.mozilla.org/contribute/
+default-bookmarks-firefox-community = مشارکت کنید
+# link title for https://www.mozilla.org/about/
+default-bookmarks-firefox-about = دربارهٔ ما
 # Firefox Nightly links folder name
 default-bookmarks-nightly-heading = منابع Firefox شبانه
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
