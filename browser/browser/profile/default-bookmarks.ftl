@@ -22,5 +22,11 @@ default-bookmarks-firefox-about = دربارهٔ ما
 default-bookmarks-nightly-heading = منابع Firefox شبانه
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = وب‌نوشت Firefox شبانه
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = شبکهٔ توسعه‌دهندگان Mozilla
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
 default-bookmarks-nightly-tester-tools = ابزارهای آزمایشگر شبانه
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = تمام فروپاشی‌های شما
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = سیارهٔ Mozilla
