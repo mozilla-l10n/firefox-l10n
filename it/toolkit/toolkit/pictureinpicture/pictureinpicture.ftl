@@ -51,6 +51,18 @@ pictureinpicture-subtitles-btn =
 
 ##
 
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Schermo intero
+    .tooltip = Schermo intero (doppio clic o { $shortcut })
+
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Esci da schermo intero
+    .tooltip = Esci da schermo intero (doppio clic o { $shortcut })
+
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+  .key = F
+
 pictureinpicture-fullscreen-btn =
     .aria-label = Schermo intero
     .tooltip = Schermo intero (doppio clic)
