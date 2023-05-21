@@ -29,7 +29,10 @@ firefox-relay-opt-in-title-1 = Chráňte svoju e-mailovú adresu:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = použite e-mailovú masku služby { -relay-brand-name }
-firefox-relay-use-mask-title = Použiť e-mailovú masku služby { -relay-brand-name }
+firefox-relay-use-mask-title = Použite e-mailovú masku služby { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Použiť e-mailovú masku
+    .accesskey = P
 firefox-relay-opt-in-confirmation-disable =
     .label = Nabudúce nezobrazovať
     .accesskey = N
