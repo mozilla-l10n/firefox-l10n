@@ -25,7 +25,7 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
-accessibility-text-label-issue-area = برای برچسب زدن عناصر <div>ناحیه</div> از ویژگی <code>دگرساز</code> استفاده کنید که دارای ویژگی <span>href</span> است. بیشتر بیاموزید</a>
+accessibility-text-label-issue-area = برای برچسب زدن عناصر <div>ناحیه</div> از ویژگی <code>دگرساز</code> استفاده کنید که دارای ویژگی <span>href</span> است. <a>بیشتر بیاموزید</a>
 accessibility-text-label-issue-dialog = گفت‌وگوها باید برچسب‌گذاری شوند. <a>بیشتر بدانید</a>
 accessibility-text-label-issue-document-title = پرونده‌ها باید دارای یک <code>عنوان</code> باشند. <a>بیشتر بدانید</a>
 accessibility-text-label-issue-embed = محتوای جاسازی شده باید برچسب‌گذاری شده باشد. <a>بیشتر بدانید</a>
