@@ -1282,6 +1282,7 @@ preferences-doh-enabled-detailed-desc-1 = Utilizar lo provesidor qu’avètz sel
 preferences-doh-setting-strict =
     .label = Proteccion maximala
     .accesskey = m
+preferences-doh-strict-detailed-desc-1 = Utilizar sonque lo prevesidor que seleccionèretz
 preferences-doh-off-desc = Utilizar lo servidor de resolucion DNS per defaut
 preferences-doh-checkbox-warn =
     .label = Avertir se un tèrç empacha d’utilizar lo DNS segur
