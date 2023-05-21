@@ -183,7 +183,7 @@ downloads-cancel-download =
 downloads-history =
     .label = ສະແດງການດາວໂຫລດທັງຫມົດ
     .accesskey = S​
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = ລາຍລະອຽດການດາວໂຫລດ
@@ -193,6 +193,7 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded = ບໍ່ໄດ້ດາວໂຫຼດ { $num } ໄຟລ໌.
 downloads-blocked-from-url = ການດາວໂຫຼດຖືກບລັອກຈາກ { $url }.
 downloads-blocked-download-detailed-info = { $url } ພະຍາຍາມດາວໂຫຼດຫຼາຍໄຟລ໌ໂດຍອັດຕະໂນມັດ. ເວັບໄຊດັ່ງກ່າວອາດຈະຖືກທໍາລາຍ ຫຼືພະຍາຍາມເກັບຮັກສາໄຟລ໌ຂີ້ເຫຍື້ອຢູ່ໃນອຸປະກອນຂອງທ່ານ.
 

@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = ສ້າງໜ້າກາກ { -relay-b
 firefox-relay-opt-in-confirmation-enable =
     .label = ສືບຕໍ່
     .accesskey = C
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = ປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານ:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = ໃຊ້ໜ້າກາກອີເມວ { -relay-brand-name }
+firefox-relay-use-mask-title = ໃຊ້ໜ້າກາກອີເມວ { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = ໃຊ້ຫນ້າກາກອີເມວ
+    .accesskey = U
 firefox-relay-opt-in-confirmation-disable =
     .label = ຢ່າສະແດງສິ່ງນີ້ໃຫ້ຂ້ອຍເຫັນອີກ
     .accesskey = D

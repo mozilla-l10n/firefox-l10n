@@ -883,6 +883,7 @@ firefox-relay-offer-what-relay-does = ພວກເຮົາຈະສົ່ງຕ
 
 ## Pop-up Notification
 
+popup-notification-xpinstall-prompt-learn-more = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການຕິດຕັ້ງ add-ons ຢ່າງປອດໄພ
 
 ## Pop-up warning
 
