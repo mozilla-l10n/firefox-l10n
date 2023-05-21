@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = დაამზადეთ { -relay-bran
 firefox-relay-opt-in-confirmation-enable =
     .label = განაგრძეთ
     .accesskey = გ
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = დაიცავით საკუთარი ელფოსტის მისამართი:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = გამოიყენეთ { -relay-brand-name } ელფოსტის შესანიღბად
+firefox-relay-use-mask-title = გამოიყენეთ { -relay-brand-name } ელფოსტის შესანიღბად
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = ელფოსტის ნიღბის გამოყენება
+    .accesskey = ფ
 firefox-relay-opt-in-confirmation-disable =
     .label = მომავალში ჩვენების გარეშე
     .accesskey = რ
