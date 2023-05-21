@@ -483,6 +483,7 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Žádné uložené cooki
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Vždy respektujeme vaše soukromí
+mr2022-onboarding-privacy-segmentation-button-primary-label = Použít doporučení aplikace { -brand-product-name(case: "gen") }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Zobrazit podrobnosti
 
 ## MR2022 Multistage Gratitude screen strings
