@@ -258,6 +258,7 @@ fox-doodle-pin-headline = Vítejte zpět
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Zde je rychlé připomenutí, že si svůj oblíbený nezávislý prohlížeč můžete jediným klepnutím ponechat.
+fox-doodle-pin-secondary = Teď ne
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
