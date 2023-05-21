@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Fenèstras e onglets
 browser-data-session-label =
     .value = Fenèstras e onglets
+browser-data-payment-methods-checkbox =
+    .label = Metòdes de pagament
+browser-data-payment-methods-label =
+    .value = Metòdes de pagament

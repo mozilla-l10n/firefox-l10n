@@ -24,6 +24,8 @@ firefox-relay-generate-mask-subtitle = Generar un àlias { -relay-brand-short-na
 firefox-relay-opt-in-confirmation-enable =
     .label = Contunhar
     .accesskey = C
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Protegissètz vòstra adreça email :
 firefox-relay-opt-in-confirmation-disable =
     .label = Me mostrar pas mai aquò
     .accesskey = M
