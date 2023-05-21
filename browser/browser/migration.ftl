@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Okná a karty
 browser-data-session-label =
     .value = Okná a karty
+browser-data-payment-methods-checkbox =
+    .label = Platobné metódy
+browser-data-payment-methods-label =
+    .value = Platobné metódy

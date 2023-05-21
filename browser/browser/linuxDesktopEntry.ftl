@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Prehľadávať web (www)
 desktop-entry-generic-name = Webový prehliadač
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = Webový prehliadač { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Prehliadač;Web;Prieskumník;
 
 desktop-action-new-window-name = Nové okno
 desktop-action-new-private-window-name = Nové súkromné okno
+desktop-action-open-profile-manager = Otvoriť Správcu profilov
