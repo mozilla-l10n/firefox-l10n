@@ -32,3 +32,10 @@ fxviewtabrow-open-in-window = Opna í nýjum glugga
     .accesskey = n
 fxviewtabrow-open-in-private-window = Opna í nýjum huliðsglugga
     .accesskey = p
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
+fxviewtabrow-add-bookmark = Bókamerki…
+    .accesskey = B
+fxviewtabrow-save-to-pocket = Vista í { -pocket-brand-name }
+    .accesskey = s
+fxviewtabrow-copy-link = Afrita tengil
+    .accesskey = l

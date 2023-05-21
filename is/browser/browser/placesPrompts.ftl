@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (enginn titill)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Af öryggisástæðum er ekki hægt að hlaða inn java-skriftum eða gagnaslóðum úr ferilglugga eða hliðarspjaldi.
 places-bookmarks-backup-title = Skráarnafn bókamerkja afrits
 places-bookmarks-restore-alert-title = Endurheimta bókamerki
 places-bookmarks-restore-alert = Þetta yfirskrifar öll bókamerki með afritinu. Ertu viss?
