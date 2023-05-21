@@ -39,6 +39,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Velikost vyrovnávací paměti:
+perftools-custom-threads-label = Přidat vlastní vlákna podle názvu:
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Vlákna:
 perftools-devtools-settings-label = Nastavení
@@ -48,6 +49,7 @@ perftools-devtools-settings-label = Nastavení
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Ukončuje se nahrávání
 
 ##
 
