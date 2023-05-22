@@ -108,6 +108,13 @@ addon-restart-now =
     .label = ᱱᱤᱛ ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ ᱢᱮ
 disabled-unsigned-heading =
     .value = ᱛᱤᱱᱟᱹᱜ ᱜᱚᱱ ᱮᱰᱼᱚᱱ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+disabled-unsigned-description =
+    { -brand-short-name } ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱛᱟᱨ ᱨᱮᱭᱟᱜ ᱮᱰᱼᱚᱱ ᱠᱚ ᱵᱟᱭ ᱯᱩᱥᱴᱟᱹᱣ ᱟᱠᱟᱱᱟ ᱾ ᱟᱢ ᱫᱚ
+    <label data-l10n-name="find-addons">ᱵᱚᱫᱚᱞ ᱠᱚ ᱯᱟᱱᱛᱮ ᱧᱟᱢ ᱢᱮ</label> ᱟᱨᱵᱟᱝ ᱰᱮᱵᱽᱞᱚᱯᱚᱨ ᱠᱷᱚᱱ ᱚᱱᱟ ᱠᱚ ᱯᱤᱥᱴᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱢᱮᱱᱟᱜ ᱢᱮ ᱾
+disabled-unsigned-learn-more = ᱟᱢᱟᱜ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥᱩᱵᱤᱫᱷᱟ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢ ᱨᱮ ᱟᱞᱮᱭᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱰᱷᱮᱨ ᱵᱟᱰᱟᱭ ᱢᱮ ᱾
+disabled-unsigned-devinfo =
+    ᱡᱟᱦᱟᱸᱭ ᱰᱮᱵᱽᱞᱚᱯᱚᱨ ᱠᱚ ᱟᱠᱚᱣᱟᱜ ᱮᱰ-ᱳᱱ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱥᱤᱭᱟᱜᱼᱟ ᱠᱚ ᱩᱱᱠᱩ ᱫᱚ 
+    <label data-l10n-name="learn-more">ᱢᱟᱱᱩᱣᱟᱞ</label>ᱠᱚ ᱯᱟᱲᱦᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 addon-category-extension = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
 addon-category-extension-title =
     .title = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
