@@ -429,5 +429,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Dizüstü bilgisayarın ekranında el sallayan bir tilki. Dizüstü bilgisayara takılı bir fare var.
 onboarding-device-migration-title = Yeniden hoş geldiniz!
+onboarding-device-migration-subtitle = Yer imlerinizi, parolalarınızı ve geçmişinizi yeni cihazınıza taşımak için { -fxaccount-brand-name(capitalization: "sentence") }nıza giriş yapın.
 onboarding-device-migration-primary-button-label = Giriş yap

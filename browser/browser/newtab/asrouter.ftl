@@ -253,6 +253,7 @@ set-default-pdf-handler-primary = Anladım
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Yeni bir cihaza geçmeyi düşünüyor musunuz?
+fxa-sync-cfr-body = { -brand-product-name } tarayıcısını yüklediğiniz her yere yer imleriniz, parolalarınız ve sekmeleriniz de sizinle birlikte gelsin.
 fxa-sync-cfr-primary = Bilgi al
     .accesskey = D
 fxa-sync-cfr-secondary = Daha sonra hatırlat
@@ -261,5 +262,6 @@ fxa-sync-cfr-secondary = Daha sonra hatırlat
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Eski bir cihaz mı kullanıyorsunuz?
+device-migration-fxa-spotlight-body = Yeni bir cihaza geçiş yaparken yer imleri ve parolalar gibi önemli bilgilerinizin kaybolmaması için için verilerinizi yedekleyin.
 device-migration-fxa-spotlight-primary-button = Verilerimi nasıl yedekleyebilirim?
 device-migration-fxa-spotlight-link = Daha sonra hatırlat
