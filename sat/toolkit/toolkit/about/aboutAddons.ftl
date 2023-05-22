@@ -119,6 +119,7 @@ plugin-deprecation-description = ᱡᱟᱦᱟᱱᱟᱜ ᱵᱟᱹᱜᱤᱜ ᱠᱟ
 legacy-warning-show-legacy = ᱞᱮᱜᱥᱭᱤ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 legacy-extensions =
     .value = ᱞᱮᱜᱥᱭᱤ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ
+legacy-extensions-description = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ { -brand-short-name }ᱨᱮᱭᱟᱜ ᱢᱟᱱᱚᱠ ᱨᱮ ᱵᱟᱭ ᱛᱤᱝᱜᱩ ᱞᱮᱱᱟᱭ ᱚᱱᱟ ᱛᱮ ᱠᱚ ᱵᱚᱸᱫ ᱠᱮᱜᱼᱟ ᱾ <label data-l10n-name="legacy-learn-more">ᱮᱰ-ᱚᱱ ᱨᱮᱭᱟᱜ ᱵᱚᱫᱚᱞ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</label>
 addon-category-extension = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
 addon-category-extension-title =
     .title = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
