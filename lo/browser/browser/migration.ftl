@@ -128,3 +128,7 @@ browser-data-session-checkbox =
     .label = ວີນໂດ ແລະ ແທັບ
 browser-data-session-label =
     .value = ວີນໂດ ແລະ ແທັບ
+browser-data-payment-methods-checkbox =
+    .label = ວິທີການຈ່າຍເງິນ
+browser-data-payment-methods-label =
+    .value = ວິທີການຈ່າຍເງິນ
