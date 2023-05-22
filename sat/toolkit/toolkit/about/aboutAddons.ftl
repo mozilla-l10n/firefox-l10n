@@ -116,6 +116,9 @@ disabled-unsigned-devinfo =
     ᱡᱟᱦᱟᱸᱭ ᱰᱮᱵᱽᱞᱚᱯᱚᱨ ᱠᱚ ᱟᱠᱚᱣᱟᱜ ᱮᱰ-ᱳᱱ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱥᱤᱭᱟᱜᱼᱟ ᱠᱚ ᱩᱱᱠᱩ ᱫᱚ 
     <label data-l10n-name="learn-more">ᱢᱟᱱᱩᱣᱟᱞ</label>ᱠᱚ ᱯᱟᱲᱦᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 plugin-deprecation-description = ᱡᱟᱦᱟᱱᱟᱜ ᱵᱟᱹᱜᱤᱜ ᱠᱟᱱᱟ ᱥᱮ? { -brand-short-name } ᱫᱚ ᱟᱭᱢᱟ ᱯᱞᱚᱜᱤᱱ ᱥᱟᱞᱟᱜ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱ ᱾ <label data-l10n-name="learn-more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ ᱾</label>
+legacy-warning-show-legacy = ᱞᱮᱜᱥᱭᱤ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+legacy-extensions =
+    .value = ᱞᱮᱜᱥᱭᱤ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ
 addon-category-extension = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
 addon-category-extension-title =
     .title = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
