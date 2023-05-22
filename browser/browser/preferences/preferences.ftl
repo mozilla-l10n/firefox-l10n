@@ -1280,6 +1280,32 @@ preferences-doh-default-detailed-desc-1 = გამოიყენება DNS 
 preferences-doh-default-detailed-desc-2 = გამოიყენება ნაგულისხმევი DNS-გადამყვანი, თუ ხარვეზითაა დაცული DNS-ის მომწოდებელი
 preferences-doh-default-detailed-desc-3 = ადგილობრივი მომწოდებელი, როცა კი შესაძლებელია
 preferences-doh-default-detailed-desc-4 = გამოირთვება, როცა VPN, მშობლის ზედამხედველობა ან დაწესებულების დებულებებია ამოქმედებული
+preferences-doh-default-detailed-desc-5 = გამოირთვება, როცა ქსელშია მითითება, რომ { -brand-short-name } არ იყენებდეს დაცულ DNS-ს.
+preferences-doh-setting-enabled =
+    .label = გაზრდილი უსაფრთხოება
+    .accesskey = გ
+preferences-doh-enabled-desc = თავად საზღვრავთ, როდის გამოიყენოთ დაცული DNS და ირჩევთ მომწოდებელს.
+preferences-doh-enabled-detailed-desc-1 = გამოიყენება თქვენი შერჩეული მომწოდებელი
+preferences-doh-enabled-detailed-desc-2 = გამოიყენება ნაგულისხმევი DNS-გადამყვანი მხოლოდ მაშინ, თუ ხარვეზითაა დაცული DNS-ის მომწოდებელი
+preferences-doh-setting-strict =
+    .label = უმაღლესი უსაფრთხოება
+    .accesskey = უ
+preferences-doh-strict-desc = { -brand-short-name } ყოველთვის გამოიყენებს დაცულ DNS-ს. იხილავთ საშიშროების შესახებ გაფრთხილებას სისტემის DNS-ის გამოყენებამდე.
+preferences-doh-strict-detailed-desc-1 = გამოიყენება მხოლოდ თქვენი შერჩეული მომწოდებელი
+preferences-doh-strict-detailed-desc-2 = ყოველთვის გამოჩნდება გაფრთხილება, როცა დაცული DNS მიუწვდომელია
+preferences-doh-strict-detailed-desc-3 = თუ დაცული DNS მიუწვდომელია, საიტები არ ჩაიტვირთება ან სათანადოდ ვერ იმუშავებს
+preferences-doh-setting-off =
+    .label = გამორთ.
+    .accesskey = ო
+preferences-doh-off-desc = გამოიყენება თქვენი ნაგულისხმევი DNS-გადამყვანი
+preferences-doh-checkbox-warn =
+    .label = გაფრთხილება, თუ გარეშე მხარე ხელს უშლის დაცულ DNS-ს
+    .accesskey = ფ
+preferences-doh-select-resolver = მომწოდებლის არჩევა:
+preferences-doh-exceptions-description = { -brand-short-name } არ გამოიყენებს დაცულ DNS-ს ამ საიტებზე
+preferences-doh-manage-exceptions =
+    .label = გამონაკლისების მართვა…
+    .accesskey = კ
 
 ## The following strings are used in the Download section of settings
 
