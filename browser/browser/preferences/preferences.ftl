@@ -1269,11 +1269,15 @@ preferences-doh-status-disabled = გამორთ.
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = უქმი ({ $reason })
+preferences-doh-group-message = ჩართეთ დაცული DNS:
 preferences-doh-expand-section =
     .tooltiptext = ვრცლად
 preferences-doh-setting-default =
     .label = ნაგულისხმევი დაცვა
     .accesskey = დ
+preferences-doh-default-desc = { -brand-short-name } გადაწყვეტს, როდის გამოიყენოს დაცული DNS თქვენი უსაფრთხოებისთვის.
+preferences-doh-default-detailed-desc-1 = გამოიყენება DNS იმ მხარეში, სადაც ხელმისაწვდომია
+preferences-doh-default-detailed-desc-2 = გამოიყენება ნაგულისხმევი DNS-გადამყვანი, თუ ხარვეზი შეექმნა დაცული DNS-ის მომწოდებელს
 preferences-doh-default-detailed-desc-3 = ადგილობრივი მომწოდებელი, როცა კი შესაძლებელია
 
 ## The following strings are used in the Download section of settings
