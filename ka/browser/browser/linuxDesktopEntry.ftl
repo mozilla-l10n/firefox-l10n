@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = მსოფლიო ქსელთან წვდომა
 desktop-entry-generic-name = ბრაუზერი
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = { -brand-shortcut-name }-ბრაუზერი
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = ინტერნეტი;WWW;ბრაუზერ�
 
 desktop-action-new-window-name = ახალი ფანჯარა
 desktop-action-new-private-window-name = ახალი პირადი ფანჯარა
+desktop-action-open-profile-manager = პროფილის მმართველის გახსნა
