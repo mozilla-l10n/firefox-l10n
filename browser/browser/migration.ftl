@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Ventanas y pestañas
 browser-data-session-label =
     .value = Ventanas y pestañas
+browser-data-payment-methods-checkbox =
+    .label = Métodos de pago
+browser-data-payment-methods-label =
+    .value = Métodos de pago
