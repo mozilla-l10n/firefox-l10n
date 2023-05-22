@@ -33,5 +33,5 @@ more-from-moz-learn-more-link = Frekari upplýsingar
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
-more-from-moz-firefox-relay-description = Verndaðu pósthólfið og auðkennin þín með ókeypis tölvupóstsgrímu.
+more-from-moz-firefox-relay-description = Verndaðu pósthólfið og auðkennin þín með ókeypis tölvupósthulu.
 more-from-moz-firefox-relay-button = Fáðu þér { -relay-brand-short-name }
