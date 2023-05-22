@@ -182,7 +182,7 @@ newtab-section-menu-add-topsite = Bæta við toppsíðu
 newtab-section-menu-add-search-engine = Bæta við leitarvél
 newtab-section-menu-move-up = Færa upp
 newtab-section-menu-move-down = Færa niður
-newtab-section-menu-privacy-notice = Tilkynning um friðhelgi
+newtab-section-menu-privacy-notice = Meðferð persónuupplýsinga
 
 ## Section aria-labels
 
