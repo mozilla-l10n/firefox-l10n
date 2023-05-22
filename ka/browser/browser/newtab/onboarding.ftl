@@ -434,4 +434,5 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = მელას მისალმება ნოუთბუქის ეკრანიდან. ნოუთბუქზე მიერთებულია თაგვი.
 onboarding-device-migration-title = კეთილი იყოს თქვენი დაბრუნება!
+onboarding-device-migration-subtitle = შედით თქვენს  { -fxaccount-brand-name(case: "ins") }, რომ მუდამ თან იქონიოთ თქვენი სანიშნები, პაროლები და ისტორია ახალ მოწყობილობაზე.
 onboarding-device-migration-primary-button-label = შესვლა
