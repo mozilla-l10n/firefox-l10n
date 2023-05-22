@@ -3,65 +3,89 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ᱮᱰᱼᱚᱱᱥ ᱵᱮᱵᱚᱥᱛᱷᱟᱤᱡ
-
+search-header =
+    .placeholder = addons.mozilla.org ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .searchbuttonlabel = ᱥᱮᱸᱫᱽᱨᱟ
 search-header-shortcut =
     .key = f
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain }</a> ᱨᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱧᱟᱢ ᱢᱮ
+list-empty-get-dictionaries-message = <a data-l10n-name="get-extensions">{ $domain }</a> ᱨᱮ ᱥᱟᱵᱟᱫ ᱜᱟᱫᱮᱞ ᱧᱟᱢ ᱢᱮ
+list-empty-get-language-packs-message = <a data-l10n-name="get-extensions">{ $domain }</a> ᱨᱮ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠ ᱧᱮᱢ ᱢᱮ
+
+##
+
 list-empty-installed =
     .value = ᱟᱢ ᱴᱷᱮᱱ ᱱᱚᱣᱟ ᱞᱮᱠᱟᱱ ᱵᱚᱦᱟᱞᱟᱜ ᱨᱮᱭᱟᱜ ᱡᱟᱦᱟᱱ ᱮᱰ-ᱟᱹᱱᱥ ᱵᱟᱹᱱᱩᱜ ᱟ
-
 list-empty-available-updates =
     .value = ᱡᱟᱦᱟᱱ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
-
 list-empty-recent-updates =
     .value = ᱟᱢ ᱥᱩᱨ ᱫᱤᱱ ᱡᱟᱦᱟᱸ ᱜᱮ ᱮᱰ-ᱟᱹᱱᱥ ᱵᱟᱢ ᱦᱟᱹᱞᱤ ᱟᱠᱟᱫ ᱟ
-
 list-empty-find-updates =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱸᱞ
-
 list-empty-button =
     .label = ᱠᱷᱚᱸᱡᱟ-ᱟᱫᱮᱨ ᱵᱟᱵᱚᱫ ᱵᱟᱲᱛᱤ ᱪᱮᱫ ᱢᱮ
-
+help-button = ᱮᱰ-ᱚᱱ ᱜᱚᱲᱚ
+sidebar-help-button-title =
+    .title = ᱮᱰ-ᱚᱱ ᱜᱚᱲᱚ
+addons-settings-button = { -brand-short-name } ᱥᱟᱯᱲᱟᱣᱠᱚ
+sidebar-settings-button-title =
+    .title = { -brand-short-name } ᱥᱟᱯᱲᱟᱣᱠᱚ
+show-unsigned-extensions-button =
+    .label = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱯᱩᱥᱴᱟᱹᱣ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ
+show-all-extensions-button =
+    .label = ᱡᱷᱚᱛᱚ ᱯᱟᱥᱱᱟᱣ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 detail-version =
     .label = ᱵᱷᱟᱹᱨᱥᱚᱱ
-
 detail-last-updated =
     .label = ᱢᱩᱪᱟᱹᱫ ᱦᱟᱹᱞᱤᱭᱟᱜ
-
+addon-detail-description-expand = ᱵᱚᱲᱛᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+addon-detail-description-collapse = ᱠᱚᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 detail-contributions-description = ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱨᱮ ᱱᱤᱡ ᱛᱮᱭᱟᱨᱤᱡ ᱠᱩᱞᱤ ᱜᱮᱭᱟ ᱡᱮ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱛᱮ ᱢᱤᱫ ᱦᱩᱰᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱛᱮᱭᱟᱨ ᱫᱟᱨᱟᱭ ᱛᱮ ᱟᱡᱟᱜ ᱞᱮᱛᱟᱲ ᱞᱟᱦᱟ ᱨᱮᱭᱟᱜ ᱜᱚᱲᱚ ᱢᱮᱱᱟᱜ ᱟ᱾
-
+detail-contributions-button = ᱮᱱᱮᱢ
+    .title = ᱮᱰᱼᱚᱱᱥ ᱨᱮᱭᱟᱜ ᱩᱛᱷᱱᱟᱹᱣ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜ ᱢᱮ
+    .accesskey = C
 detail-update-type =
     .value = ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ
-
 detail-update-default =
     .label = ᱢᱩᱞ
     .tooltiptext = ᱮᱠᱮᱱ ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚ़ᱦᱟᱞ ᱡᱩᱫᱤ ᱳᱸᱰᱮ ᱦᱩᱲᱟᱜ ᱢᱮᱱᱟᱜ ᱟ ᱾
-
 detail-update-automatic =
     .label = ᱪᱟᱹᱞᱩ
     .tooltiptext = ᱦᱟᱹᱞᱤ ᱠᱚ ᱟᱡ ᱟᱡ ᱛᱮ ᱵᱚ़ᱦᱟᱞ
-
 detail-update-manual =
     .label = ᱵᱚᱸᱫᱚ
     .tooltiptext = ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱟᱞᱚᱢ ᱵᱚᱦᱟᱞᱟ
-
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱟᱭ ᱜᱚᱱᱚᱜᱼᱟ
+detail-private-disallowed-description2 = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱯᱨᱟᱭᱵᱷᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱚᱠᱛᱚ ᱨᱮ ᱵᱟᱝ ᱪᱟᱹᱞᱩᱜᱼᱟ ᱾ <a data-l10n-name="learn-more">Learn more</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱟᱫᱮᱨ ᱦᱚᱠ ᱫᱟᱨᱠᱟᱨ
+detail-private-required-description2 = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱚᱠᱛᱚ ᱨᱮ ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ <a data-l10n-name="learn-more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+detail-private-browsing-on =
+    .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
+    .tooltiptext = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱨᱮ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+detail-private-browsing-off =
+    .label = ᱟᱞᱚ ᱢᱟᱹᱧᱡᱩᱨᱮᱭᱟᱢ
+    .tooltiptext = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱨᱮ ᱵᱚᱸᱫ ᱢᱮ
 detail-home =
     .label = ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = ᱮᱰ-ᱟᱹᱱ ᱯᱨᱚᱯᱷᱟᱤᱞ
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱸᱜᱷᱟᱱ
     .accesskey = f
     .tooltiptext = ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤ ᱠᱚ ᱛᱮᱸᱜᱷᱟᱱ
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -78,13 +102,12 @@ detail-show-preferences =
             [windows] ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
            *[other] ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱᱥ ᱨᱮᱭᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
         }
-
 detail-rating =
     .value = ᱫᱚᱨ ᱴᱷᱟᱹᱣᱠᱟᱹ
-
 addon-restart-now =
     .label = ᱱᱤᱛ ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ ᱢᱮ
-
+disabled-unsigned-heading =
+    .value = ᱛᱤᱱᱟᱹᱜ ᱜᱚᱱ ᱮᱰᱼᱚᱱ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
 addon-category-extension = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
 addon-category-extension-title =
     .title = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
@@ -181,13 +204,15 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
-# Variables:
-#   $version (String): application version.
-details-notification-incompatible = { $name } ᱫᱚ { -brand-short-name } { $version } ᱥᱟᱸᱣ ᱵᱟᱝ ᱥᱚᱸᱜᱚᱛᱟ᱾
 
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible = { $name } ᱫᱚ { -brand-short-name } { $version } ᱥᱟᱸᱣ ᱵᱟᱝ ᱥᱚᱸᱜᱚᱛᱟ᱾
 details-notification-blocked = { $name } ᱫᱚ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱵᱟᱝ ᱛᱤᱸᱜᱩ ᱛᱷᱤᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ
 details-notification-blocked-link = ᱰᱷᱮᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
-
 details-notification-softblocked = { $name }ᱫᱚ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱵᱟᱝ ᱛᱤᱸᱜᱩ ᱛᱷᱤᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱵᱟᱰᱟᱭᱟ ᱠᱟᱱᱟ᱾
 details-notification-softblocked-link = ᱰᱷᱮᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
-
