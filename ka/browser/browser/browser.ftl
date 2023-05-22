@@ -144,6 +144,8 @@ urlbar-tip-icon-description =
     .alt = რჩევა:
 urlbar-result-menu-button =
     .title = მენიუს გახსნა
+urlbar-result-menu-button-feedback = გამოხმაურება
+    .title = მენიუს გახსნა
 urlbar-result-menu-learn-more =
     .label = ვრცლად
     .accesskey = ლ
@@ -671,6 +673,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = გაიხსნას ეკრანი-ეკრანში ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = დაიხუროს ეკრანი-ეკრანში ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -988,6 +994,11 @@ firefox-relay-offer-what-relay-does = ყველა წერილი, რო
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = ჩვენი დაცული, ადვილად გამოსაყენებელი შესაძლებლობა დაგეხმარებათ, დაფაროთ ვინაობა და აირიდოთ უსარგებლო წერილები ელფოსტის მისამართის შენიღბვით.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = თქვენი ელფოსტის ნიღბებზე შემოსული ყველა წერილი გადამისამართდება <strong>{ $useremail }</strong>-ზე (თუ თავად არ შეზღუდავთ).
+firefox-relay-offer-legal-notice = „ელფოსტის ნიღბის გამოყენებაზე“ დაწკაპებით ეთანხმებით <label data-l10n-name="tos-url">მომსახურების პირობებსა</label> და <label data-l10n-name="privacy-url">პირადულობის განაცხადს</label>.
 
 ## Pop-up Notification
 

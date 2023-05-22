@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = ფანჯრები და ჩანართები
 browser-data-session-label =
     .value = ფანჯრები და ჩანართები
+browser-data-payment-methods-checkbox =
+    .label = გადახდის საშუალებები
+browser-data-payment-methods-label =
+    .value = გადახდის საშუალებები
