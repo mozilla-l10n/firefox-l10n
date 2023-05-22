@@ -390,6 +390,9 @@ mr2022-onboarding-set-default-primary-button-label =
         [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč
        *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí prohlížeč
     }
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Používejte prohlížeč podporovaný neziskovou organizací. Chráníme vaše soukromí, když se pohybujete po webu.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -478,12 +481,17 @@ mr2022-onboarding-no-mobile-download-cta-text =
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Získejte svobodu soukromého prohlížení jediným klepnutím
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Žádné uložené cookies ani historie, přímo z vaší plochy. Prohlížejte, jako když se nikdo nedívá.Žádné uložené soubory cookies ani historie, přímo z vaší plochy. Prohlížejte, jako by se nikdo nedíval.
 
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Vždy respektujeme vaše soukromí
-mr2022-onboarding-privacy-segmentation-button-primary-label = Použít doporučení aplikace { -brand-product-name(case: "gen") }
+mr2022-onboarding-privacy-segmentation-button-primary-label =
+    { -brand-product-name.case-status ->
+        [with-cases] Použít doporučení { -brand-product-name(case: "gen") }
+       *[no-cases] Použít doporučení aplikace { -brand-product-name }
+    }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Zobrazit podrobnosti
 
 ## MR2022 Multistage Gratitude screen strings
@@ -511,8 +519,20 @@ onboarding-infrequent-import-primary-button =
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Osoba pracující na notebooku obklopená hvězdami a květinami
+mr2022-onboarding-default-image-alt =
+    .aria-label = Osoba objímající logo { -brand-product-name(case: "gen") }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Osoba na skateboardu s krabicí softwarových ikon
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Pohled na západ slunce oknem s liškou a pokojovou rostlinou na parapetu
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Ruční sprej maluje barevnou koláž zeleného oka, oranžové boty, červeného basketbalového míče, fialových sluchátek, modrého srdce a žluté koruny
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Liška na obrazovce přenosného počítače mává. V notebooku je připojena myš.
 onboarding-device-migration-title = Vítejte zpět!
 onboarding-device-migration-primary-button-label = Přihlásit se
