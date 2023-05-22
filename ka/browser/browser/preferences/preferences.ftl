@@ -1224,7 +1224,7 @@ security-block-uncommon-software =
 
 certs-header = სერტიფიკატები
 certs-enable-ocsp =
-    .label = OCSP სერვერებისთვის სერტიფიკატების დამოწმების მოთხოვნა
+    .label = სერტიფიკატების დამოწმება OCSP-მოთხოვნით
     .accesskey = O
 certs-view =
     .label = სერტიფიკატების ნახვა…
@@ -1253,7 +1253,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS-ის HTTPS-ით გადაცემა
-preferences-doh-description = საიტთა სახელების გადამყვანის (DNS) HTTPS-ით გადაცემისას საიტის მისამართის მოთხოვნები იგზავნება დაშიფრული კავშირით, შედეგად იქმნება დაცული DNS და გარეშე პირებს უძნელდებათ გაარკვიონ, რომელ ვებსაიტებთან ცდილობთ წვდომას.
+preferences-doh-description = საიტთა სახელების (DNS) მომსახურების HTTPS-ით გატარებისას საიტის მისამართის მოთხოვნები იგზავნება დაშიფრული არხით, შედეგად იქმნება დაცული DNS და გარეშე პირებს უძნელდებათ გაარკვიონ, რომელ ვებსაიტებთან ცდილობთ წვდომას.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = მდგომარეობა: { $status }
@@ -1269,16 +1269,17 @@ preferences-doh-status-disabled = გამორთ.
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = უქმი ({ $reason })
-preferences-doh-group-message = ჩართეთ დაცული DNS:
+preferences-doh-group-message = დაცული DNS:
 preferences-doh-expand-section =
     .tooltiptext = ვრცლად
 preferences-doh-setting-default =
-    .label = ნაგულისხმევი დაცვა
-    .accesskey = დ
-preferences-doh-default-desc = { -brand-short-name } გადაწყვეტს, როდის გამოიყენოს დაცული DNS თქვენი უსაფრთხოებისთვის.
+    .label = ნაგულისხმევი უსაფრთხოება
+    .accesskey = ნ
+preferences-doh-default-desc = { -brand-short-name } წყვეტს, როდის გამოიყენოს დაცული DNS თქვენი პირადულობისთვის.
 preferences-doh-default-detailed-desc-1 = გამოიყენება DNS იმ მხარეში, სადაც ხელმისაწვდომია
-preferences-doh-default-detailed-desc-2 = გამოიყენება ნაგულისხმევი DNS-გადამყვანი, თუ ხარვეზი შეექმნა დაცული DNS-ის მომწოდებელს
+preferences-doh-default-detailed-desc-2 = გამოიყენება ნაგულისხმევი DNS-გადამყვანი, თუ ხარვეზითაა დაცული DNS-ის მომწოდებელი
 preferences-doh-default-detailed-desc-3 = ადგილობრივი მომწოდებელი, როცა კი შესაძლებელია
+preferences-doh-default-detailed-desc-4 = გამოირთვება, როცა VPN, მშობლის ზედამხედველობა ან დაწესებულების დებულებებია ამოქმედებული
 
 ## The following strings are used in the Download section of settings
 
