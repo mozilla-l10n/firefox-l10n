@@ -989,7 +989,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } felur raunverulegt tölvupóstfang þitt til að vernda þig gegn gagnastuldi og ruslpósti.
-firefox-relay-offer-how-we-integrate = Með því að halda áfram muntu geta búið til nýjar { -relay-brand-short-name } tölvupóstgrímur beint úr { -brand-shorter-name } lykilorðastjóranum þínum.
+firefox-relay-offer-how-we-integrate = Með því að halda áfram muntu geta búið til nýjar { -relay-brand-short-name } tölvupósthulur beint úr { -brand-shorter-name } lykilorðastjóranum þínum.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
@@ -997,6 +997,11 @@ firefox-relay-offer-what-relay-does = Við munum áframsenda allan tölvupóst f
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Öruggar og einfaldar pósthulur okkar vernda auðkennin þín og koma í veg fyrir ruslpóstsendingar með því að fela tölvupóstfangið þitt.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Allur tölvupóstur sem sendur er á tölvupósthulurnar þínar verða sendar til <strong>{ $useremail }</strong> (nema þú ákveðir að loka á viðkomandi).
+firefox-relay-offer-legal-notice = Með því að smella á „Nota tölvupósthulu“ samþykkir þú <label data-l10n-name="tos-url">þjónustuskilmála</label> og <label data-l10n-name="privacy-url">persónuverndarstefnu </label> okkar.
 
 ## Pop-up Notification
 
