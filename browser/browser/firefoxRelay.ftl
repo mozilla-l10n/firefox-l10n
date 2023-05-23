@@ -24,6 +24,11 @@ firefox-relay-generate-mask-subtitle = Generer { -relay-brand-short-name }-maske
 firefox-relay-opt-in-confirmation-enable =
     .label = Hald fram
     .accesskey = H
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Vern e-postadressa di:
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Bruk e-postmaske
+    .accesskey = B
 firefox-relay-opt-in-confirmation-disable =
     .label = Ikkje vis dette fleire gongar
     .accesskey = I
