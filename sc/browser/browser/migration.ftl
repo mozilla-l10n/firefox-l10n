@@ -68,6 +68,8 @@ import-items-description = Seletziona cale elementos boles importare:
 import-permissions-page-title = Dona permissos a { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS rechedet chi permitas in manera esplìtzita a { -brand-short-name } de atzèdere a is sinnalibros de Safari. Incarca «Sighi» e seletziona s'archìviu «Bookmarks.plist» in su menù de abertura de archìvios chi at a aparèssere.
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = A macOS ddi bisòngiat chi permitas a { -brand-short-name } de atzèdere a is datos de Safari. Incarca “Sighi”, sèbera sa cartella “Safari” in su diàlogu de Finder chi aparit e in fines incarca “Aberi”.
 import-migrating-page-title = Importende…
 import-migrating-description = Importende is elementos imbenientes…
 import-select-profile-page-title = Seletziona profilu

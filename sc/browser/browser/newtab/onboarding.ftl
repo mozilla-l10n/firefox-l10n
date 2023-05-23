@@ -13,6 +13,14 @@
 onboarding-welcome-header = Ti donamus su benebènnidu a { -brand-short-name }
 onboarding-start-browsing-button-label = Cumintza a navigare
 onboarding-not-now-button-label = Immoe nono
+mr1-onboarding-get-started-primary-button-label = Cumintza
+mr1-onboarding-welcome-header = Ti donamus su benebènnidu a { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Cunfigura { -brand-short-name } comente navigadore printzipale miu
+    .title = Cunfigura { -brand-short-name } comente navigadore predefinidu e dd'apicat a sa barra de tareas
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Cunfigura { -brand-short-name } comente navigadore predefinidu miu
+mr1-onboarding-set-default-secondary-button-label = Immoe nono
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Agiunghe { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Introdutzione: ischermada { $current } de { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Progressu: passu { $current } de { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Disegnadora de mòbiles, fan de Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progressu: passu { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Istuda is animatziones
 
@@ -84,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Cumintza
-mr1-onboarding-welcome-header = Ti donamus su benebènnidu a { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Cunfigura { -brand-short-name } comente navigadore printzipale miu
-    .title = Cunfigura { -brand-short-name } comente navigadore predefinidu e dd'apicat a sa barra de tareas
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Cunfigura { -brand-short-name } comente navigadore predefinidu miu
-mr1-onboarding-set-default-secondary-button-label = Immoe nono
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Intra
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -428,3 +427,10 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Bisura de un'iscurigadòrgiu dae sa bentana, cun unu margiane e una pianta in sa perdìtzia
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Una manu disinnat unu grafitu cun unu collage coloradu chi tenet unu ogru birde, un'iscarpa in colore de arantzu, una bòcia rùbia de pallacanestro, cùfias muradas, unu coro biaitu e una colora groga
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Unu margiane saludende dae s’ischermu de un’ordinadore portàtile. S’ordinadore tenet unu puntadore acapiadu.
+onboarding-device-migration-title = Ti donamus torra su benebènnidu!
+onboarding-device-migration-primary-button-label = Identìfica·ti
