@@ -317,9 +317,55 @@ locale-enabled-heading = ᱮᱢ ᱪᱷᱚ
 locale-disabled-heading = ᱵᱚᱸᱫᱚ
 sitepermission-enabled-heading = ᱮᱢ ᱪᱷᱚ
 sitepermission-disabled-heading = ᱵᱚᱸᱫ
+always-activate-button = ᱫᱤᱱᱜᱮ ᱮᱛᱵᱚᱵ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱮ
+never-activate-button = ᱛᱤᱥ ᱦᱚᱸ ᱪᱟᱹᱞᱩ ᱨᱮ ᱟᱞᱚᱢ ᱛᱟᱦᱮᱸᱱᱟ
+addon-detail-author-label = ᱚᱱᱚᱞᱤᱭᱟᱹ :
+addon-detail-version-label = ᱵᱷᱟᱹᱨᱥᱚᱱ
+addon-detail-last-updated-label = ᱢᱩᱪᱟᱹᱫ ᱦᱟᱹᱞᱤᱭᱟᱜ
+addon-detail-homepage-label = ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ
+addon-detail-rating-label = ᱫᱚᱨ ᱴᱷᱟᱹᱣᱠᱟᱹ
+# Message for add-ons with a staged pending update.
+install-postponed-message = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱞᱮᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱚᱜᱼᱟ ᱾
+install-postponed-button = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = 5 ᱠᱷᱚᱱ { NUMBER($rating, maximumFractionDigits: 1) } ᱫᱚᱨ ᱮᱢ ᱦᱩᱭᱮᱱᱟ
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (ᱵᱚᱸᱫ ᱠᱟᱱᱟ)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } ᱧᱮᱞ
+        [two] { $numberOfReviews } ᱧᱮᱞᱠᱤᱱ
+       *[other] { $numberOfReviews } ᱧᱮᱞᱠᱚ
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ᱫᱚ ᱚᱪᱚᱜ ᱮᱱᱟ ᱾
+pending-uninstall-undo-button = ᱨᱩᱣᱟᱹᱲ
+addon-detail-updates-label = ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱪᱷᱚᱣᱟᱜ ᱢᱮ
+addon-detail-updates-radio-default = ᱢᱩᱞ
+addon-detail-updates-radio-on = ᱪᱟᱹᱞᱩ
+addon-detail-updates-radio-off = ᱵᱚᱸᱫᱚ
+addon-detail-update-check-label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱸᱜᱷᱟᱱ
+install-update-button = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱜᱚᱱᱚᱜᱼᱟ
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = ᱛᱤᱧ ᱡᱷᱚᱜ ᱮᱢ ᱪᱷᱚᱜᱼᱟ, ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱚᱠᱛᱚ ᱨᱮ ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ <a data-l10n-name="learn-more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+addon-detail-private-browsing-allow = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
+addon-detail-private-browsing-disallow = ᱟᱞᱚ ᱢᱟᱹᱧᱡᱩᱨᱮᱭᱟᱢ
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
