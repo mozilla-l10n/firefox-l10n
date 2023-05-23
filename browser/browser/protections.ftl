@@ -15,8 +15,8 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> tracexador bloqueado desde o { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> tracexadores bloqueados desde o { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] <b>{ $count }</b> rastrexador bloqueado desde o { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> rastrexadores bloqueados desde o { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } segue  bloqueando os rastrexadores nas xanelas privadas pero non garda un rexistro do bloqueado.
