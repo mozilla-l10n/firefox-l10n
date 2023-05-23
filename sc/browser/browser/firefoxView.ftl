@@ -35,10 +35,10 @@ firefoxview-tabpickup-fxa-admin-disabled-header = S'organizatzione tua at disati
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non podet sincronizare is ischedas intre dispositivos ca s'amministratzione tua at disativadu sa sincronizatzione.
 firefoxview-tabpickup-network-offline-header = Controlla sa connessione a sa rete
 firefoxview-tabpickup-network-offline-description = Si ses imperende unu firewall o una connessione intermèdia (proxy), controlla chi { -brand-short-name } tèngiat su permissu pro atzèdere in rete.
-firefoxview-tabpickup-network-offline-primarybutton = Torra·bi a proare.
+firefoxview-tabpickup-network-offline-primarybutton = Torra a nche proare.
 firefoxview-tabpickup-sync-error-header = Tenimus problemas pro sincronizare
-firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } non podet connètere cun su servìtziu de sincronizatzione immoe. Torra·bi a proare a pustis.
-firefoxview-tabpickup-sync-error-primarybutton = Torra·bi a proare
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } non podet connètere cun su servìtziu de sincronizatzione immoe. Torra a nche proare a pustis.
+firefoxview-tabpickup-sync-error-primarybutton = Torra a nche proare
 firefoxview-tabpickup-sync-disconnected-header = Ativa sa sincronizatzione pro sighire
 firefoxview-tabpickup-sync-disconnected-description = Pro recuperare is ischedas tuas, depes permìtere sa sincronizatzione in { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Ativa sa sincronizatzione dae sa cunfiguratzione
@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Ùrtima ativa
 firefoxview-tabs-list-tab-button =
     .title = Aberi { $targetURI } in un'ischeda noa
 firefoxview-try-colorways-button = Prova is cumbinatziones de colores
-firefoxview-no-current-colorway-collection = Amus a tènnere luego cumbinatziones de colores noas
 firefoxview-change-colorway-button = Càmbia sa cumbinatzione de colores
 # Variables:
 #  $intensity (String): Colorway intensity

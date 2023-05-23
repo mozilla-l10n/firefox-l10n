@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Imprea un'alias de posta eletrònica de { -relay-brand-short-name }
+    .accesskey = I
 main-context-menu-suggest-strong-password =
     .label = Cussìgia una crae segura...
     .accesskey = s

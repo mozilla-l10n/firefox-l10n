@@ -183,7 +183,7 @@ downloads-cancel-download =
 downloads-history =
     .label = Ammustra totu is iscarrigamentos
     .accesskey = A
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detàllios de s'iscarrigamentu
@@ -233,5 +233,6 @@ downloads-error-blocked-by = Impossìbile sarvare s'iscarrigamentu ca est blocad
 downloads-error-extension = Impossìbile sarvare s'iscarrrigamentu ca est blocadu dae un'estensione.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
-    Impossìbile sarvare s'iscarrigamentu ca ddoe est istada una faddina disconnota.n
-    Torra·bi a proare.
+    Impossìbile sarvare s’iscarrigamentu ca ddoe est istada una faddina disconnota.
+    
+    Torra a nche proare.

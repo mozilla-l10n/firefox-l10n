@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = Gènera un’àlias de { -relay-brand-sho
 firefox-relay-opt-in-confirmation-enable =
     .label = Sighi
     .accesskey = S
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Ampara s’indiritzu tuo de posta eletrònica:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Imprea un’alias de posta eletrònica de { -relay-brand-name }
+firefox-relay-use-mask-title = Imprea un’alias de posta eletrònica de { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Imprea alias de posta
+    .accesskey = I
 firefox-relay-opt-in-confirmation-disable =
     .label = No mi ddu torres a ammustrare
     .accesskey = N

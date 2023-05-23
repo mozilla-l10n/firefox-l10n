@@ -144,6 +144,8 @@ urlbar-tip-icon-description =
     .alt = Cussìgiu:
 urlbar-result-menu-button =
     .title = Aberi su menù
+urlbar-result-menu-button-feedback = Cummentu
+    .title = Aberi su menù
 urlbar-result-menu-learn-more =
     .label = Àteras informatziones
     .accesskey = i
@@ -671,6 +673,10 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Aberi immàgine subra immàgine ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Serra immàgine subra immàgine ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
@@ -988,6 +994,11 @@ firefox-relay-offer-what-relay-does = Totu is messàgios de posta eletrònica an
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Is alias de posta eletrònica nostros, seguros e de impreu discansosu, amparant s’identidade tua e blocant su spam cuende s’indiritzu tuo beru.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Totu is messàgios imbiados a s’alias tuo ant a èssere imbiados a <strong>{ $useremail }</strong> (si non detzides de ddos blocare).
+firefox-relay-offer-legal-notice = Faghende clic subra “Imprea alias de posta”, atzetas is <label data-l10n-name="tos-url">Acòrdios de servìtziu</label> e s’<label data-l10n-name="privacy-url">Avisu de riservadesa</label>.
 
 ## Pop-up Notification
 

@@ -167,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Paràmetros cussigiados pro sa curretzione de faddinas de sa majoria de aplicatziones web, cun subra-càrriga (overhead) bàscia.
 profiler-popup-presets-web-developer-label =
     .label = Isvilupu web
@@ -204,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Ischedas serradas de reghente
 appmenu-recently-closed-windows =
     .label = Ventanas serradas de reghente
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Chirca in sa cronologia
 
 ## Help panel
 
@@ -223,6 +231,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Cumpartzi ideas e cummentos…
     .accesskey = C
+appmenu-help-switch-device =
+    .label = Passare a unu dispositivu nou
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
