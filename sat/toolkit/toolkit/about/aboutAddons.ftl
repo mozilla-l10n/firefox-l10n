@@ -286,6 +286,37 @@ addon-options-button =
 
 report-addon-button = ᱠᱷᱚᱵᱚᱨ
 remove-addon-button = ᱚᱪᱚᱜᱽ ᱢᱮ
+# The link will always be shown after the other text.
+remove-addon-disabled-button = ᱚᱪᱚᱜ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ <a data-l10n-name="link">ᱪᱮᱫᱟᱜ?</a>
+disable-addon-button = ᱵᱚᱸᱫᱚᱭ
+enable-addon-button = ᱦᱩᱭ ᱦᱚᱪᱚ
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = ᱦᱩᱭ ᱦᱚᱪᱚ
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] ᱵᱟᱪᱷᱟᱣ
+       *[other] ᱠᱩᱥᱤᱠᱚ
+    }
+details-addon-button = ᱵᱤᱵᱨᱚᱬ ᱠᱚ
+release-notes-addon-button = ᱠᱷᱟᱴᱚ ᱚᱞ ᱯᱟᱨᱥᱟᱞ ᱢᱮ
+permissions-addon-button = ᱪᱷᱟᱹᱰ ᱠᱚ
+extension-enabled-heading = ᱦᱩᱭ ᱦᱚᱪᱚ
+extension-disabled-heading = ᱵᱚᱸᱫ
+theme-enabled-heading = ᱦᱩᱭ ᱦᱚᱪᱚ
+theme-disabled-heading = ᱵᱚᱸᱫ
+theme-monochromatic-heading = ᱠᱚᱞᱚᱨᱣᱮ
+theme-monochromatic-subheading = { -brand-product-name } ᱠᱷᱚᱱ ᱱᱟᱣᱟ ᱨᱚᱝ ᱨᱩᱯ ᱾ ᱠᱚᱢ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱦᱮᱸᱱᱟ ᱾
+theme-disabled-heading2 = ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱛᱷᱤᱢᱠᱚ
+plugin-enabled-heading = ᱦᱩᱭ ᱦᱚᱪᱚ
+plugin-disabled-heading = ᱵᱚᱸᱫᱚᱭ
+dictionary-enabled-heading = ᱦᱩᱭ ᱦᱚᱪᱚ
+dictionary-disabled-heading = ᱵᱚᱸᱫᱚ
+locale-enabled-heading = ᱮᱢ ᱪᱷᱚ
+locale-disabled-heading = ᱵᱚᱸᱫᱚ
+sitepermission-enabled-heading = ᱮᱢ ᱪᱷᱚ
+sitepermission-disabled-heading = ᱵᱚᱸᱫ
 
 ## Pending uninstall message bar
 
