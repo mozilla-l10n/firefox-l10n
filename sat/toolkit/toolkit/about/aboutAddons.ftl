@@ -222,6 +222,11 @@ shortcuts-pageAction = ᱥᱟᱦᱴᱟ ᱠᱟᱹᱢᱤ ᱮᱢ ᱪᱷᱚᱭ ᱢ�
 shortcuts-sidebarAction = ᱫᱷᱟᱨᱮ ᱯᱟᱦᱴᱟ ᱥᱮᱫ ᱵᱚᱫᱚᱞ ᱢᱮ
 shortcuts-modifier-mac = Ctrl, Alt, ᱥᱮ ⌘ ᱥᱮᱞᱮᱫ ᱢᱮ
 shortcuts-modifier-other = Ctrl ᱟᱨᱵᱟᱝ Alt ᱥᱮᱞᱮᱫ ᱢᱮ
+shortcuts-invalid = ᱵᱷᱩᱞ ᱢᱮᱥᱟ
+shortcuts-letter = ᱚᱞ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱠᱟᱨ
+shortcuts-system = { -brand-short-name } ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱞᱟᱫᱮ ᱪᱮᱛᱟᱱ ᱞᱟᱫᱮ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 
 ## Recommended add-ons page
 
