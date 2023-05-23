@@ -24,3 +24,4 @@ desktop-entry-keywords = Internett;WWW;Nettlesar;Web;Utforskar;
 
 desktop-action-new-window-name = Nytt vindauge
 desktop-action-new-private-window-name = Nytt privat vindauge
+desktop-action-open-profile-manager = Opne profilhandsaming
