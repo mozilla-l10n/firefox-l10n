@@ -249,6 +249,19 @@ header-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱟᱹᱜᱤᱫ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱞᱮᱠᱟ ᱜᱮᱭᱟ, ᱟᱨ ᱚᱱᱟ ᱠᱚᱛᱮ ᱫᱚ ᱟᱢ
+    ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚᱦᱚ, ᱵᱷᱤᱰᱤᱭᱳ ᱠᱚ ᱰᱟᱣᱱᱞᱚᱰ, ᱵᱮᱯᱟᱨ ᱯᱟᱱᱛᱮ, ᱵᱟᱱᱴᱷᱤᱠ ᱰᱷᱟᱶᱨᱟ ᱠᱚ ᱟᱠᱚᱴ, ᱵᱽᱨᱟᱣᱡᱚᱨ ᱪᱮᱫ ᱞᱮᱠᱟ ᱧᱮᱞᱚᱜᱼᱟ, ᱟᱨᱦᱚᱸ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱠᱚᱨᱟᱣ ᱪᱷᱚ ᱫᱟᱲᱮ ᱢᱮᱭᱟᱭ ᱾ ᱱᱚᱶᱟ ᱦᱩᱰᱤᱧ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱠᱚᱫᱚ ᱛᱮᱥᱟᱨ ᱯᱟᱴᱤ ᱛᱮ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱᱟ ᱾ ᱱᱚᱰᱮ { -brand-product-name } ᱨᱮᱱᱟᱜ ᱢᱤᱫ 
+    <a data-l10n-name="learn-more-trigger">ᱵᱟᱪᱷᱟᱣ ᱢᱮᱱᱟᱜᱼᱟ</a> ᱡᱟᱦᱟᱸ ᱫᱚ
+    ᱨᱩᱠᱷᱤᱭᱟᱹ, ᱵᱮᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    ᱱᱚᱶᱟ ᱠᱚ ᱵᱟᱛᱮᱣ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱᱟᱜ ᱟᱢ ᱠᱩᱥᱤ ᱞᱮᱠᱷᱟᱛᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱩᱠᱩ ᱫᱚ ᱮᱴᱟᱜ
+     ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱡᱟᱦᱟᱸ ᱮᱢ ᱵᱚᱦᱟᱞ ᱠᱟᱫᱟᱢ , ᱢᱚᱦᱚᱨ ᱠᱩᱥᱤᱠᱚ ᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+discopane-notice-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+privacy-policy = ᱩᱠᱩ ᱱᱤᱛᱤ
 
 ## Add-on actions
 
