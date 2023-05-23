@@ -227,6 +227,25 @@ shortcuts-letter = ᱚᱞ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱠᱟᱨ
 shortcuts-system = { -brand-short-name } ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱞᱟᱫᱮ ᱪᱮᱛᱟᱱ ᱞᱟᱫᱮ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱮᱥ ᱨᱮ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭᱚᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = { $addon } ᱛᱮ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] { $numberToShow } ᱰᱷᱮᱨ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+        [two] { $numberToShow } ᱠᱤᱱ ᱰᱷᱮᱨ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+       *[other] { $numberToShow } ᱠᱚ ᱰᱷᱮᱨ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    }
+shortcuts-card-collapse-button = ᱠᱚᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+header-back-button =
+    .title = ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱣ
 
 ## Recommended add-ons page
 
