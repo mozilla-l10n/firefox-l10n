@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (kein Titel)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Aus Sicherheitsgründen können "javascript:"- oder "data:"-URLs nicht aus Chronik-Fenster oder -Sidebar geladen werden.
 places-bookmarks-backup-title = Dateiname für Lesezeichen-Backup
 places-bookmarks-restore-alert-title = Lesezeichen zurücksetzen
 places-bookmarks-restore-alert = Dies wird alle aktuellen Lesezeichen durch das Backup ersetzen. Sind Sie sicher?
