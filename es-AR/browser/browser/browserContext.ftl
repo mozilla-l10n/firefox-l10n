@@ -334,7 +334,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = Usar máscara de correo electrónico de { -relay-brand-short-name }
+    .label = Usar alias de correo electrónico de { -relay-brand-short-name }
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Sugerir contraseña segura…

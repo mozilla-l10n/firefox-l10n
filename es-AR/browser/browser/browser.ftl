@@ -987,7 +987,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } enmascara su verdadera dirección de correo electrónico para ayudarlo a protegerse de filtraciones de datos y spam.
-firefox-relay-offer-how-we-integrate = Al continuar, podrá generar nuevas máscaras de correo electrónico de { -relay-brand-short-name } directamente desde el administrador de contraseñas de { -brand-shorter-name }.
+firefox-relay-offer-how-we-integrate = Al continuar, podrá generar nuevos alias de correo electrónico de { -relay-brand-short-name } directamente desde el administrador de contraseñas de { -brand-shorter-name }.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
@@ -995,7 +995,7 @@ firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónic
 
 ## Popup Notification
 
-firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de usar protegen su identidad y evitan el correo basura al ocultar su dirección de correo electrónico.
+firefox-relay-offer-why-to-use-relay = Nuestros alias seguros y fáciles de usar protegen su identidad y evitan el correo basura al ocultar su dirección de correo electrónico.
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Todos los correos electrónicos enviados a sus alias de correo electrónico se reenviarán a <strong>{ $useremail }</strong> (a menos que decida bloquearlos).
