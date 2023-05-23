@@ -370,6 +370,14 @@ addon-detail-private-browsing-disallow = ᱟᱞᱚ ᱢᱟᱹᱧᱡᱩᱨᱮᱭ�
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = { -brand-product-name } ᱫᱚ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱟᱸ ᱟᱞᱮᱭᱟᱜ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣ ᱠᱷᱟᱱ ᱚᱱᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱞᱮ ᱯᱟᱥᱱᱟᱣᱟ
+    .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Mozilla ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱚᱫᱷᱤᱠᱟᱨᱤᱠ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣᱟᱭ
+    .aria-label = { addon-badge-line3.title }
 
 ##
 
