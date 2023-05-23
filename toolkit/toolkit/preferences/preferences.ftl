@@ -4,21 +4,19 @@
 
 password-not-set =
     .value = (nicht festgelegt)
-
 failed-pp-change = Hauptpasswort konnte nicht geändert werden.
 incorrect-pp = Sie haben nicht das richtige aktuelle Hauptpasswort eingegeben. Bitte versuchen Sie es erneut.
 pp-change-ok = Hauptpasswort erfolgreich geändert.
-
 pp-empty-warning = Ihre gespeicherten Passwörter und privaten Schlüssel werden nicht geschützt.
 pp-erased-ok = Sie haben Ihr Hauptpasswort gelöscht. { pp-empty-warning }
 pp-not-wanted = Warnung! Sie haben sich entschieden, kein Hauptpasswort zu verwenden. { pp-empty-warning }
-
+settings-pp-erased-ok = Sie haben Ihr Hauptpasswort gelöscht. Gespeicherte Passwörter und private Schlüssel von Zertifikaten, die von { -brand-short-name } verwaltet werden, werden nicht geschützt.
+settings-pp-not-wanted = Achtung! Sie haben sich entschieden, kein Hauptpasswort zu verwenden. Gespeicherte Passwörter und private Schlüssel von Zertifikaten, die von { -brand-short-name } verwaltet werden, werden nicht geschützt.
 pp-change2empty-in-fips-mode = Sie sind derzeit im FIPS-Modus. FIPS benötigt ein nicht leeres Hauptpasswort.
 pw-change-success-title = Das Ändern des Passworts war erfolgreich
 pw-change-failed-title = Das Ändern des Passworts ist fehlgeschlagen
 pw-remove-button =
     .label = Entfernen
-
 primary-password-dialog =
     .title = Hauptpasswort
 set-password-old-password = Aktuelles Passwort:
@@ -26,11 +24,9 @@ set-password-new-password = Neues Passwort:
 set-password-reenter-password = Neues Passwort (nochmals):
 set-password-meter = Passwort-Qualitätsmessung
 set-password-meter-loading = Laden
-
 primary-password-admin = Der Administrator hat festgelegt, dass zum Speichern von Passwörtern ein Hauptpasswort gesetzt sein muss.
 primary-password-description = Das Hauptpasswort wird verwendet, um Ihre vertraulichen Daten, wie Zugangsdaten und Passwörter, zu schützen. Wenn Sie ein Hauptpasswort festlegen, werden Sie einmal pro Sitzung danach gefragt, sobald { -brand-short-name } auf die geschützten Daten zugreifen muss.
 primary-password-warning = Bitte stellen Sie sicher, dass Sie das Hauptpasswort nicht vergessen. Falls Sie das Hauptpasswort vergessen sollten, gibt es keine Möglichkeit, an die Daten zu gelangen, die davon geschützt werden.
-
 remove-primary-password =
     .title = Hauptpasswort entfernen
 remove-info =
