@@ -10,4 +10,12 @@ webauthn-pin-invalid-prompt =
         [one] Falsche PIN! Bitte geben Sie die richtige PIN für Ihr Gerät ein. Sie haben noch { $retriesLeft } Versuch.
        *[other] Falsche PIN! Bitte geben Sie die richtige PIN für Ihr Gerät ein. Sie haben noch { $retriesLeft } Versuche.
     }
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Falsche PIN. Sie haben noch { $retriesLeft } Versuch, bevor Sie dauerhaft den Zugriff auf die Zugangsdaten auf diesem Gerät verlieren.
+       *[other] Falsche PIN. Sie haben noch { $retriesLeft } Versuche, bevor Sie dauerhaft den Zugriff auf die Zugangsdaten auf diesem Gerät verlieren.
+    }
+webauthn-pin-invalid-short-prompt = Falsche PIN. Versuchen Sie es erneut.
 webauthn-pin-required-prompt = Bitte geben Sie die PIN für Ihr Gerät ein.

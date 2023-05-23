@@ -59,6 +59,7 @@ third-party-button-expand =
 third-party-button-collapse =
     .title = Detaillierte Informationen einklappen
 third-party-requires-restart = { -brand-short-name } muss neu gestartet werden, um zu ändern, welche Module von Drittanbietern blockiert werden.
+third-party-blocking-requires-restart = Um ein Modul eines Drittanbieters zu blockieren, muss { -brand-short-name } neu gestartet werden.
 third-party-should-restart-title = { -brand-short-name } neu starten
 third-party-should-restart-ok = { -brand-short-name } jetzt neu starten
 third-party-restart-now = Jetzt neu starten
