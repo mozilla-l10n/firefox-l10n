@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Faddina in su carrigamentu de sa pàgina">
-<!ENTITY retry.label "Torra·bi a proare">
+<!ENTITY retry.label "Torra a nche proare">
 <!ENTITY returnToPreviousPage.label "A coa">
 <!ENTITY returnToPreviousPage1.label "A coa (cussigiadu)">
 <!ENTITY advanced2.label "Avantzadu…">
@@ -53,7 +53,7 @@
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Preme &quot;Torra·bi a proare&quot; pro colare a sa modalidade in lìnia e torra a carrigare sa pàgina.</li>
+  <li>Preme &quot;Torra a nche proare&quot; pro colare a sa modalidade in lìnia e torra a carrigare sa pàgina.</li>
 </ul>
 ">
 

@@ -53,7 +53,7 @@ abuse-report-messagebar-action-remove-sitepermission = Eja, cantzella·ddu
 abuse-report-messagebar-action-keep-sitepermission = No, lassa·ddu
 abuse-report-messagebar-action-remove-theme = Eja, cantzella·ddu
 abuse-report-messagebar-action-keep-theme = No, lassa·ddu
-abuse-report-messagebar-action-retry = Torra·bi a proare
+abuse-report-messagebar-action-retry = Torra a nche proare
 abuse-report-messagebar-action-cancel = Annulla
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
@@ -72,6 +72,9 @@ abuse-report-broken-reason-extension-v2 = Non funtzionat, istròpiat sitos e all
 abuse-report-broken-reason-sitepermission-v2 = Non funtzionat, istròpiat sitos e allentat { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Non funtzionat o istròpiat sa visualizatzione de su navigadore
 abuse-report-policy-reason-v2 = Cuntenet cuntenutu de òdiu, violentu o illegale
+abuse-report-policy-suggestions =
+    Nota: Informes de problemas de deretos de autore e màrchios registrados depent èssere fatos in unu protzessu separadu.
+    <a data-l10n-name="report-infringement-link">Imprea custas istrutziones</a> pro imbiare un’informe.
 abuse-report-unwanted-reason-v2 = No dd'apo mai bòlidu e no iscio comente ddu bogare
 abuse-report-unwanted-example = Esempru: un'aplicatzione dd'at installadu chena su permissu miu
 abuse-report-other-reason = Un'àtera cosa

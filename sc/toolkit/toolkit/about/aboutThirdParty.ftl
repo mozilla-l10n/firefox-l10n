@@ -10,5 +10,6 @@ third-party-th-process = Protzessu
 third-party-th-status = Istadu
 third-party-status-loaded = Carrigadu
 third-party-status-blocked = Blocadu
+third-party-button-copy-to-clipboard = Còpia is datos chene protzessare in punta de billete
 third-party-button-expand =
     .title = Ammustra informatziones detalliadas

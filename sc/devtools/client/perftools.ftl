@@ -64,6 +64,13 @@ perftools-button-edit-settings = Modìfica sa cunfiguratzione...
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Iscuadra de isvilupu web
+perftools-presets-web-developer-description = Paràmetros cussigiados pro sa curretzione de faddinas de sa majoria de aplicatziones web, cun subra-càrriga (overhead) bàscia.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Profilu cussigiadu pro descrìere { -brand-shorter-name }
 perftools-presets-graphics-label = Gràficas

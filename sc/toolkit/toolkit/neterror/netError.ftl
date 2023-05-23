@@ -23,7 +23,7 @@ neterror-override-exception-button = Atzeta s'arriscu e sighi
 neterror-pref-reset-button = Recùpera sa cunfiguratzione predefinida
 neterror-return-to-previous-page-button = A coa
 neterror-return-to-previous-page-recommended-button = A coa (cussigiadu)
-neterror-try-again-button = Torra·bi a proare
+neterror-try-again-button = Torra a nche proare
 neterror-add-exception-button = Sighi semper pro custu situ
 neterror-settings-button = Modìfica is cunfiguratziones de DNS
 neterror-view-certificate-link = Ammustra su tzertificadu
@@ -65,7 +65,6 @@ neterror-dns-not-found-trr-unknown-problem = Faddina disabetada.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-native-fallback-not-confirmed = Sa connessione a { $trrDomain } no est pronta ancora.
 
 ##
 
@@ -79,7 +78,7 @@ neterror-unknown-socket-type-server-config = Custu podet èssere causadu dae una
 neterror-not-cached-intro = Su documentu rechestu no est a disponimentu in sa memòria temporànea de { -brand-short-name }.
 neterror-not-cached-sensitive = Comente mesura de seguresa, { -brand-short-name } non torrat a rechèdere in automàticu documentos sensìbiles.
 neterror-not-cached-try-again = Incarca "Torra a proare" pro torrare a preguntare su documentu dae su situ web.
-neterror-net-offline = Preme “Torra·bi a proare” pro colare a sa modalidade in lìnia e torra a carrigare sa pàgina.
+neterror-net-offline = Preme “Torra a nche proare” pro colare a sa modalidade in lìnia e torra a carrigare sa pàgina.
 neterror-proxy-resolve-failure-settings = Controlla chi is cunfiguratziones de su serbidore intermediàriu siant curretas.
 neterror-proxy-resolve-failure-connection = Controlla chi sa connessione de rete de s’elaboradore funtzionet.
 neterror-proxy-resolve-failure-firewall = Si sa rete o s’elaboradore tuo est protetu dae unu firewall o dae unu serbidore intermediàriu, assegura·ti chi { -brand-short-name } tèngiat su permissu de atzèdere a su situ.

@@ -3,9 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Archìviu de registru atuale:
-about-logging-current-log-modules = Mòdulos e registru atuales:
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Aberi sa cartella
 about-logging-set-log-file = Aberi s'archìviu de registru
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+about-logging-preset-custom-label = Personalizadu
+# Error handling
+about-logging-error = Faddina:
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

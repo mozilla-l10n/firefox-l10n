@@ -8,6 +8,7 @@ profiles-create = Crea unu profilu nou
 profiles-restart-title = Torra a aviare
 profiles-restart-in-safe-mode = Torra a aviare cun is cumplementos disativados…
 profiles-restart-normal = Torra a aviare cun normalidade...
+profiles-conflict = Un’àtera còpia de { -brand-product-name } at fatu modìficas a is profilos. Depes torrare a aviare { -brand-short-name } prima de fàghere àteros càmbios.
 profiles-flush-fail-title = Modìficas non sarvadas
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-restart-button = Torra a aviare { -brand-short-name }
