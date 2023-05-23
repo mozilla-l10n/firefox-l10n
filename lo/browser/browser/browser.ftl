@@ -880,6 +880,11 @@ firefox-relay-offer-what-relay-does = ພວກເຮົາຈະສົ່ງຕ
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = ໜ້າກາກທີ່ປອດໄພ ແລະ ໃຊ້ງ່າຍຂອງພວກເຮົາປົກປ້ອງຕົວຕົນຂອງເຈົ້າ ແລະ ປ້ອງກັນສະແປມໂດຍການເຊື່ອງທີ່ຢູ່ອີເມວຂອງເຈົ້າ.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = ອີເມວທັງໝົດທີ່ຖືກສົ່ງໄປຫາໜ້າກາກອີເມວຂອງທ່ານຈະຖືກສົ່ງຕໍ່ໄປຫາ <strong>{ $useremail }</strong> (ເວັ້ນເສຍແຕ່ວ່າທ່ານຕັດສິນໃຈບລັອກພວກມັນ).
+firefox-relay-offer-legal-notice = ໂດຍການຄລິກ “ໃຊ້ໜ້າກາກອີເມວ”, ທ່ານເຫັນດີນຳ <label data-l10n-name="tos-url">ເງື່ອນໄຂການໃຫ້ບໍລິການ</label> ແລະ <label data-l10n-name="privacy-url">ປະກາດຄວາມເປັນສ່ວນຕົວ </label>.
 
 ## Pop-up Notification
 
