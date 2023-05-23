@@ -131,6 +131,7 @@ startup-restore-warn-on-quit =
     .label = Faghe ischire cando essis dae su navigadore
 disable-extension =
     .label = Disativa estensione
+preferences-data-migration-header = Importa datos de su navigadore
 tabs-group-header = Ischedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cuncàmbia ischedas in s'òrdine de impreu reghente
@@ -1134,6 +1135,9 @@ permissions-microphone = Micròfonu
 permissions-microphone-settings =
     .label = Cunfiguratzione…
     .accesskey = t
+permissions-speaker-settings =
+    .label = Cunfiguratzione…
+    .accesskey = c
 permissions-notification = Notìficas
 permissions-notification-settings =
     .label = Cunfiguratzione…
@@ -1241,6 +1245,8 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-expand-section =
+    .tooltiptext = Àteras informatziones
 
 ## The following strings are used in the Download section of settings
 

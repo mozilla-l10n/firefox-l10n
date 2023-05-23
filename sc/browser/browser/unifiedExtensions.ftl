@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Boga s'estensione
 unified-extensions-context-menu-report-extension =
     .label = Sinnala s'estensione
+unified-extensions-context-menu-move-widget-up =
+    .label = Move in artu
+unified-extensions-context-menu-move-widget-down =
+    .label = Move a bàsciu

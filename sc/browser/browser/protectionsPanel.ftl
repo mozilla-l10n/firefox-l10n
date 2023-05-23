@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Faddina in s'imbiu de s'informe. Torra·bi a proare a pustis.
+protections-panel-sendreportview-error = Faddina in s’imbiu de s’informe. Torra a nche proare a pustis.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Assentadu, su situ? Imbia un'informe
 
@@ -108,8 +108,6 @@ protections-panel-cookie-banner-handling-disabled = Disativadu pro custu situ
 protections-panel-cookie-banner-handling-undetected = Situ non cumpatìbile
 protections-panel-cookie-banner-view-title =
     .title = Ismenguada de is avisos de testimòngios
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = In segus
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Boles disativare s’ismèngua de is avisos de testimòngios pro { $host }?

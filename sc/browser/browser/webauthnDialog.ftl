@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] PIN isballiadu! Inserta su PIN curretu pro su dispositivu tuo. T'abarrat { $retriesLeft } tentativu.
        *[other] PIN isballiadu! Inserta su PIN curretu pro su dispositivu tuo. T'abarrant { $retriesLeft } tentativos.
     }
+webauthn-pin-invalid-short-prompt = PIN isballiadu. Torra a proare.
 webauthn-pin-required-prompt = Inserta su còdighe PIN pro su dispositivu tuo.

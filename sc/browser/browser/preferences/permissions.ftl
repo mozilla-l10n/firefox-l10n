@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Inserta unu nòmine de ordinadore tzentrale vàl
 permissions-exceptions-etp-window =
     .title = Etzetziones pro s'amparu megioradu contra sa sighidura
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = As disativadu is protetziones in custos sitos web.
 permissions-exceptions-etp-window2 =
     .title = Etzetziones pro s'amparu megioradu contra sa sighidura
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = As disativadu is protetziones in custos sitos web.
 permissions-exceptions-manage-etp-desc = Podes pretzisare pro cales sitos web boles disativare s’amparu megioradu contra sa sighidura. Iscrie s’indiritzu esatu de su situ chi boles gestire e incarca Agiunghe un’etzetzione.
 
 ## Exceptions - Cookies
@@ -209,3 +209,16 @@ permissions-site-microphone-desc = Is sitos web imbenientes ant rechestu de atz�
 permissions-site-microphone-disable-label =
     .label = Bloca is rechestas noas de atzessu a su micròfonu
 permissions-site-microphone-disable-desc = Custu at a evitare chi is sitos web chi non sunt in custa lista rechedant su permissu de atzèdere a su micròfonu tuo. Blochende s'atzessu a su micròfonu, podet èssere chi calicuna funtzionalidade de su situ no at a funtzionare bene.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-doh-col =
+    .label = Domìniu
+permissions-doh-remove =
+    .label = Boga
+    .accesskey = B
+permissions-doh-remove-all =
+    .label = Boga totu
+    .accesskey = t
