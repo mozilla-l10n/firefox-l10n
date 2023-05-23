@@ -262,9 +262,30 @@ discopane-notice-recommendations =
      ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱡᱟᱦᱟᱸ ᱮᱢ ᱵᱚᱦᱟᱞ ᱠᱟᱫᱟᱢ , ᱢᱚᱦᱚᱨ ᱠᱩᱥᱤᱠᱚ ᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 discopane-notice-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 privacy-policy = ᱩᱠᱩ ᱱᱤᱛᱤ
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = ᱚᱱᱚᱞᱤᱭᱟᱹ <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ: { $dailyUsers }
+install-extension-button = { -brand-product-name } ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ
+install-theme-button = ᱛᱷᱤᱢ ᱵᱚᱦᱚᱞ ᱢᱮ
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+find-more-addons = ᱟᱨᱦᱚᱸ ᱮᱰ-ᱳᱱ ᱯᱟᱱᱛᱮ ᱧᱟᱢ ᱢᱮ
+find-more-themes = ᱟᱨᱦᱚᱸ ᱛᱷᱤᱢ ᱠᱚ ᱯᱟᱱᱛᱮ ᱧᱟᱢ ᱢᱮ
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = ᱰᱷᱮᱨ ᱵᱟᱪᱷᱟᱣ
 
 ## Add-on actions
 
+report-addon-button = ᱠᱷᱚᱵᱚᱨ
+remove-addon-button = ᱚᱪᱚᱜᱽ ᱢᱮ
 
 ## Pending uninstall message bar
 
