@@ -12,6 +12,8 @@
 
 webext-perms-header = Boles agiùnghere { $extension }?
 webext-perms-header-with-perms = Boles agiùnghere { $extension }? Custa estensione at a tènnere permissu pro:
+webext-perms-header-unsigned = Boles agiùnghere { $extension }? Custa estensione no est averiguada. Is estensiones malas ti nde podent furare is informatziones riservadas o pònnere s'elaboradore in perìgulu. Agiunghe isceti si ti fidas de s'orìgine.
+webext-perms-header-unsigned-with-perms = Boles agiùnghere { $extension }? Custa estensione no est averiguada. Is estensiones malas ti nde podent furare is informatziones riservadas o pònnere s'elaboradore in perìgulu. Agiunghe isceti si ti fidas de s'orìgine. Custa estensione at a tènnere su permissu de:
 webext-perms-sideload-header = { $extension } agiuntu
 
 ##
@@ -22,12 +24,17 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Annulla
     .accesskey = A
+webext-perms-sideload-text = Un'àteru programma in s'elaboradore tuo at installadu unu cumplementu chi diat pòdere tènnere efetu in su navigadore tuo. Revisiona is rechestas de permissos de custu cumplementu e sèbera de ativare o annullare (pro ddu lassare disativadu).
+webext-perms-sideload-text-no-perms = Un'àteru programma in s'elaboradore tuo at installadu unu cumplementu chi diat pòdere tènnere efetu in su navigadore tuo. Sèbera de ativare o annullare (pro ddu lassare disativadu).
 webext-perms-sideload-enable =
     .label = Ativa
     .accesskey = A
 webext-perms-sideload-cancel =
     .label = Annulla
     .accesskey = l
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } est istadu atualizadu. Depes aprovare is permissos noos in antis de s'installatzione de de versione atualizada. Si sèberas “annulla” as a abarrare cun sa versione atuale de s'estensione. S'estensione at a tènnere su permissu de:
 webext-perms-update-accept =
     .label = Agiorna
     .accesskey = g
@@ -69,6 +76,7 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Custu cumplementu donat atzessu a { $hostname } a is dispositivos MIDI tuos.
 webext-site-perms-header-with-gated-perms-midi-sysex = Custu cumplementu donat a { $hostname } atzessu a is dispositivos MIDI tuos (cun cumpatibilidade SysEx).
 
 ##
@@ -80,6 +88,8 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Custu cumplementu donat a
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Boles agiùnghere { $extension }? Custa estensione cuntzedet a { $hostname } is capatzidades imbenientes:
+webext-site-perms-header-unsigned-with-perms = Boles agiùnghere { $extension }? Custa estensione no est averguada. Is estensiones malas ti nde podent furare is informatziones riservadas o pònnere s'elaboradore in perìgulu. Agiunghe isceti si ti fidas de s'orìgine. Custa estensione cuntzedet a { $hostname } is capatzidades imbenientes:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = { -brand-short-name } at impedidu a custu situ de ti dimandare de installare unu programma in s'elaboradore tuo.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -40,6 +41,8 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = S'amministratzione de sistema at blocadu { $addonName } ({ $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = S'amministratzione de sistema at impedidu a custu situ de ti dimandare de installare unu programma in s'elaboradore tuo.
 addon-install-full-screen-blocked = S'installatzione de cumplementos no est autorizada in modalidade de ischermu a mannària prena, o prima de bi colare.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -48,9 +51,13 @@ webext-perms-sideload-menu-item = { $addonName } agiuntu a { -brand-short-name }
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Nche boles bogare a { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Boles bogare { $name } dae { -brand-shorter-name }?
 addon-removal-button = Boga
+addon-removal-abuse-report-checkbox = Sinnala custa estensione a { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
