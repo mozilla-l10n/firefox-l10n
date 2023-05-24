@@ -9,6 +9,8 @@
 
 webext-perms-description-bookmarks = Ler e modificar favoritos
 webext-perms-description-clipboardRead = Obter dados da área de transferência
+webext-perms-description-devtools = Estender as ferramentas de desenvolvimento para acessar seus dados em abas abertas
+webext-perms-description-find = Ler o texto de todas as abas abertas
 webext-perms-description-geolocation = Acessar sua localização
 webext-perms-description-history = Acessar o histórico de navegação
 webext-perms-description-management = Monitorar o uso de extensões e gerenciar temas
