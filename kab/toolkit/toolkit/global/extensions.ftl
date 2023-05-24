@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-update-accept =
     .label = Lqem
     .accesskey = L
+webext-perms-optional-perms-list-intro = Ibɣa:
 webext-perms-optional-perms-allow =
     .label = Sireg
     .accesskey = A
