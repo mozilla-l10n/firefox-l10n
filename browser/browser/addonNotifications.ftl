@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = { -brand-short-name } hat diese Website daran gehindert, Sie zu fragen, ob Software auf Ihrem Computer installiert werden soll.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -50,6 +51,17 @@ webext-perms-update-menu-item = { $addonName } benötigt neue Berechtigungen
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] Add-on wird heruntergeladen und verifiziert…
+       *[other] { $addonCount } Add-ons werden heruntergeladen und verifiziert…
+    }
+addon-download-verifying = Verifizieren
+addon-install-cancel-button =
+    .label = Abbrechen
+    .accesskey = A
 addon-install-accept-button =
     .label = Hinzufügen
     .accesskey = H
@@ -57,6 +69,19 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message =
+    { $addonCount ->
+        [one] Diese Seite möchte ein Add-on in { -brand-short-name } installieren:
+       *[other] Diese Seite möchte { $addonCount } Add-ons in { -brand-short-name } installieren:
+    }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] Achtung: Diese Seite möchte ein nicht verifiziertes Add-on in { -brand-short-name } installieren. Das Installieren erfolgt auf eigene Gefahr.
+       *[other] Achtung: Diese Seite möchte { $addonCount } nicht verifizierte Add-ons in { -brand-short-name } installieren. Das Installieren erfolgt auf eigene Gefahr.
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Achtung: Diese Seite möchte { $addonCount } Add-ons in { -brand-short-name } installieren, von denen einige nicht verifiziert sind. Das Installieren erfolgt auf eigene Gefahr.
 
 ## Add-on install errors
 ## Variables:
