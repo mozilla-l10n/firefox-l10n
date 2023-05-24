@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Subtítulos
     .tooltip = Subtítulos
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Pantalla completa
+    .tooltip = Pantalla completa (doble clic o { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Salir de pantalla completa
+    .tooltip = Salir de pantalla completa (doble clic o { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Salir de pantalla completa
     .tooltip = Salir de pantalla completa (doble clic)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Atrás
     .tooltip = Atrás (←)
