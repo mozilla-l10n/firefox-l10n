@@ -84,7 +84,6 @@ addon-install-accept-button =
 ##   $addonCount (Number): the number of add-ons being installed
 
 addon-confirm-install-message = ເວັບ​ໄຊ​ນີ້​ຕ້ອງ​ການ​ທີ່​ຈະ​ຕິດ​ຕັ້ງ { $addonCount } add-on ໃນ { -brand-short-name }:
-addon-confirm-install-unsigned-message = ຂໍ້ຄວນລະວັງ: ເວັບໄຊທ໌ນີ້ຕ້ອງການຕິດຕັ້ງ add-on ທີ່ບໍ່ໄດ້ຮັບການຢືນຢັນໃນ { -brand-short-name }. ດຳເນີນການດ້ວຍຄວາມສ່ຽງຂອງທ່ານເອງ.
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message = ຂໍ້​ຄວນ​ລະ​ວັງ​: ເວັບ​ໄຊ​ນີ້​ຕ້ອງ​ການ​ທີ່​ຈະ​ຕິດ​ຕັ້ງ { $addonCount } add-ons ໃນ { -brand-short-name }​, ບາງ​ອັນ​ທີ່​ບໍ່​ໄດ້​ຮັບ​ການ​ກວດ​ສອບ​. ດໍາເນີນການຢູ່ໃນຄວາມສ່ຽງຂອງທ່ານເອງ.
