@@ -116,6 +116,8 @@ policy-SearchEngines = กำหนดค่าการตั้งค่าเ
 policy-SearchSuggestEnabled = เปิดใช้งานหรือปิดใช้งานข้อเสนอแนะการค้นหา
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = ติดตั้งโมดูล PKCS #11
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = เพิ่มหรือลบโมดูล PKCS #11
 policy-ShowHomeButton = แสดงปุ่มหน้าแรกบนแถบเครื่องมือ
 policy-SSLVersionMax = ตั้งรุ่น SSL สูงสุด
 policy-SSLVersionMin = ตั้งรุ่น SSL ต่ำสุด
