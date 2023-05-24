@@ -628,8 +628,10 @@ firefox-relay-offer-what-relay-does = Wabi cwalo email weng ma aa ki bot <strong
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Pe kimoko)
 popup-notification-xpinstall-prompt-learn-more = Nong ngec mapol ikom keto med-ikome maber
 
 ## Pop-up warning
