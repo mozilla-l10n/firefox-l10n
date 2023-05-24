@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } ha privau que iste puesto web le demand
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Permitir que { $host } instale un complemento?
+xpinstall-prompt-message = Yes mirando d'instalar un complemento dende { $host }. Compreba que i confías antes de continar.
 
 ##
 
+xpinstall-prompt-header-unknown = Permitir que un puesto desconoixiu instale un complemento?
+xpinstall-prompt-message-unknown = Yes mirando d'instalar un complemento dende un puesto desconoixiu. Asegura-te de que confías en este puesto antes de continar.
 xpinstall-prompt-dont-allow =
     .label = No permitir-lo
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = No permitir-lo nunca
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Seguir con a instalación
+    .accesskey = S
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +37,12 @@ xpinstall-disabled = A instalación de software ye actualment desactivada. Prete
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = H
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ye blocau per lo tuyo administrador de sistemas.
+addon-install-full-screen-blocked = La instalación de complementos no ye permitida mientres u antes de dentrar en o modo de pantalla completa.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } s'ha anyadiu a { -brand-short-name }
@@ -33,6 +52,10 @@ webext-perms-update-menu-item = { $addonName } requiere nuevos permisos
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Sacar { $name } de { -brand-shorter-name }?
+addon-removal-button = Eliminar
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
