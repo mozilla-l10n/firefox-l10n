@@ -22,5 +22,6 @@ webext-perms-description-privacy = Să citească și să modifice setările de c
 webext-perms-description-proxy = Să controleze setările proxy ale browserului
 webext-perms-description-sessions = Să acceseze filele închise recent
 webext-perms-description-tabs = Să acceseze filele browserului
+webext-perms-description-tabHide = Să ascundă și să afișeze filele browserului
 webext-perms-description-topSites = Să acceseze istoricul de navigare
 webext-perms-description-webNavigation = Să acceseze activitatea browserului în timpul navigării
