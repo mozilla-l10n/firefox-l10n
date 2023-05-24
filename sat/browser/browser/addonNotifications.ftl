@@ -48,7 +48,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ᱫᱚ ᱟᱢᱤᱡ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱛᱮ ᱵᱞᱚᱠ ᱟᱠᱟᱱᱟ ᱾{ " " }
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ᱫᱚ ᱟᱢᱤᱡ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱛᱮ ᱵᱞᱚᱠ ᱟᱠᱟᱱᱟ ᱾
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ᱟᱢᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱱ ᱢᱟᱱᱟ ᱠᱮᱫᱟᱭ ᱾
 addon-install-full-screen-blocked = ᱯᱩᱨᱟᱹ ᱯᱚᱨᱫᱟ ᱢᱳᱰ ᱨᱮ ᱵᱚᱞᱚ ᱢᱟᱲᱟᱝ ᱨᱮ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱫᱚ ᱮᱢ ᱵᱟᱹᱰ ᱜᱮᱭᱟ ᱾
