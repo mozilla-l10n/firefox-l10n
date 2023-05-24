@@ -7,12 +7,25 @@ xpinstall-prompt = A { -brand-short-name } nem engedte, hogy a webhely engedély
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Engedélyezi, hogy a(z) { $host } egy kiegészítőt telepítsen?
+xpinstall-prompt-message = Egy kiegészítőt próbál meg telepíteni innen: { $host }. Mielőtt folytatná, győződjön meg róla, hogy megbízik-e a webhelyben.
 
 ##
 
+xpinstall-prompt-header-unknown = Engedélyezi, hogy egy ismeretlen webhely kiegészítőt telepítsen?
+xpinstall-prompt-message-unknown = Egy kiegészítőt próbál meg telepíteni egy ismeretlen oldalról. Mielőtt folytatná, győződjön meg róla, hogy megbízik-e a webhelyben.
 xpinstall-prompt-dont-allow =
     .label = Tiltás
     .accesskey = L
+xpinstall-prompt-never-allow =
+    .label = Soha ne engedélyezze
+    .accesskey = S
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Telepítés folytatása
+    .accesskey = f
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -21,6 +34,15 @@ xpinstall-prompt-dont-allow =
 
 xpinstall-disabled-locked = A szoftvertelepítést a rendszergazda megtiltotta.
 xpinstall-disabled = A szoftvertelepítés jelenleg tiltva van. Kattintson az Engedélyezés gombra, és próbálja újra.
+xpinstall-disabled-button =
+    .label = Engedélyezés
+    .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = A(z) { $addonName } ({ $addonId }) telepítését a rendszergazda blokkolta.
+addon-install-full-screen-blocked = A kiegészítőtelepítés nem engedélyezett, ha teljes képernyős módban van, vagy abba lép.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } hozzáadva ide: { -brand-short-name }
@@ -30,6 +52,10 @@ webext-perms-update-menu-item = A(z) { $addonName } új engedélyeket igényel
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Eltávolítja a(z) { $name } kiegészítőt a { -brand-shorter-name }ból?
+addon-removal-button = Eltávolítás
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -48,11 +74,19 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message =
+    { $addonCount ->
+        [one] Ez az oldal egy kiegészítőt szeretne telepíteni a { -brand-short-name } böngészőbe:
+       *[other] Ez az oldal { $addonCount } kiegészítőt szeretne telepíteni a { -brand-short-name } böngészőbe:
+    }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
         [one] Figyelem: Ez az oldal egy ellenőrizetlen kiegészítőt próbál telepíteni a { -brand-short-name }ba. Saját felelősségre folytassa.
        *[other] Figyelem: Ez az oldal { $addonCount } ellenőrizetlen kiegészítőt próbál telepíteni a { -brand-short-name }ba. Saját felelősségre folytassa.
     }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Figyelem: Ez az oldal { $addonCount } kiegészítőt próbál telepíteni a { -brand-short-name } böngészőbe, amelyek egy része ellenőrizetlen. Saját felelősségre folytassa.
 
 ## Add-on install errors
 ## Variables:
