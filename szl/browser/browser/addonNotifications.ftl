@@ -17,6 +17,9 @@ xpinstall-prompt-message-unknown = Prōbujesz zainsztalować rozszyrzynie z niyp
 xpinstall-prompt-dont-allow =
     .label = Niy zwolej
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Nigdy niy zwolej
+    .accesskey = z
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
