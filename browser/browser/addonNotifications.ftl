@@ -43,6 +43,9 @@ addon-confirm-install-unsigned-message =
         [one] सावधान: इ साइट एकटा असत्यापित सहयुक्ति‍ स्थापित करय चाहैत अछि { -brand-short-name }. अपन जोखि‍म पर आगाँ बढ़ू.
        *[other] सावधान: इ साइट { -brand-short-name } मे { $addonCount } असत्यापित सहयुक्ति‍ स्थापित करय चाहैत छथि‍. अपन जोखि‍म पर आगॉं बढ़ू.
     }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = सावधान: इ साइट { -brand-short-name } मे { $addonCount } सहयुक्ति‍ स्थापित करय चाहैत अछि, जाहि मे किछु असत्यापित अछि. अपन जोखि‍म पर आगॉं बढ़ू.
 
 ## Add-on install errors
 ## Variables:
