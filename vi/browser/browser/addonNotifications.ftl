@@ -10,6 +10,11 @@ xpinstall-prompt = Trang này muốn cài đặt phần mềm lên máy tính c�
 
 ##
 
+xpinstall-prompt-header-unknown = Cho phép một trang không xác định cài đặt một tiện ích?
+xpinstall-prompt-message-unknown = Bạn đang cố gắng cài đặt tiện ích từ một trang không xác định. Hãy chắc chắn rằng bạn tin tưởng trang này trước khi tiếp tục.
+xpinstall-prompt-dont-allow =
+    .label = Không cho phép
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -18,6 +23,9 @@ xpinstall-prompt = Trang này muốn cài đặt phần mềm lên máy tính c�
 
 xpinstall-disabled-locked = Quản trị hệ thống của bạn đã vô hiệu hóa cài đặt phần mềm.
 xpinstall-disabled = Hiện tại việc cài đặt phần mềm đã bị vô hiệu hóa. Hãy nhấn Bật rồi thử lại.
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } yêu cầu quyền mới
 
 ## Add-on removal warning
 
@@ -25,6 +33,12 @@ xpinstall-disabled = Hiện tại việc cài đặt phần mềm đã bị vô 
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = Đang tải và xác thực { $addonCount } tiện ích…
 addon-download-verifying = Đang xác thực
+addon-install-cancel-button =
+    .label = Hủy bỏ
+    .accesskey = C
+addon-install-accept-button =
+    .label = Thêm
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
