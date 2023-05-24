@@ -25,5 +25,6 @@ webext-perms-description-privacy = Lese og endre personverninnstillingar
 webext-perms-description-proxy = Kontrollere proxy-innstillingane for nettlesaren
 webext-perms-description-sessions = Tilgang til nylege attlatne faner
 webext-perms-description-tabs = Få tilgang til faner
+webext-perms-description-tabHide = Gøym og vis nettlesarfaner
 webext-perms-description-topSites = Få tilgang til nettlesarhistorikken
 webext-perms-description-webNavigation = Få tilgang til nettlesaraktivitet under navigasjon

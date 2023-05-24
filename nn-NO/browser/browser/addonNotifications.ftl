@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } hindra denne sida frå å spørje deg o
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Tillate { $host } å innstallere eit tillegg?
+xpinstall-prompt-message = Du prøver å installere eit tillegg frå { $host }. Hald berre fram om du stolar på nettsida.
 
 ##
 
+xpinstall-prompt-header-unknown = Tillate ein ukjend nettstad å installere eit tillegg?
+xpinstall-prompt-message-unknown = Du prøver å installere ei utviding frå ei ukjend nettside. Fortset berre viss du stolar på nettstaden.
 xpinstall-prompt-dont-allow =
     .label = Ikkje tillat
     .accesskey = k
+xpinstall-prompt-never-allow =
+    .label = Aldri tillat
+    .accesskey = A
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Fortset til installasjon
+    .accesskey = F
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -23,6 +36,12 @@ xpinstall-disabled-locked = Programvareinstallasjon er avslått av systemansvarl
 xpinstall-disabled-button =
     .label = Tillat
     .accesskey = T
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) vert blokkert av systemadministratoren din.
+addon-install-full-screen-blocked = Tilleggsinnstallasjon er ikkje tillaten medan du er i, eller før du går inn i, fullskjermmodus.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } lagt til i { -brand-short-name }
@@ -33,9 +52,13 @@ webext-perms-update-menu-item = { $addonName } krev nye løyve
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Fjerne { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Fjerne { $name } frå { -brand-shorter-name }?
 addon-removal-button = Fjern
+addon-removal-abuse-report-checkbox = Rapporter denne utvidinga til { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -72,10 +95,12 @@ addon-confirm-install-some-unsigned-message = Åtvaring: Denne nettstaden ønskj
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-network-failure = Klarte ikkje å laste ned tillegget på grunn av ein tilkoplingsfeil.
 addon-install-error-incorrect-hash = Klarte ikkje å installere tillegget fordi det ikkje passar med det tillegget { -brand-short-name } venta.
 addon-install-error-corrupt-file = Klarte ikkje å installere tillegget, lasta ned frå denne sida, fordi det ser ut til at det er skada.
 addon-install-error-file-access = Klarte ikkje å installere { $addonName } fordi { -brand-short-name } ikkje klarte å endre den påkravde fila.
 addon-install-error-not-signed = { -brand-short-name } har hindra denne sida frå å installere eit ikkje-stadfesta tillegg.
+addon-install-error-invalid-domain = Tillegget { $addonName } kan ikkje installerast frå denne plasseringa.
 addon-local-install-error-network-failure = Klarte ikkje å installere dette tillegget på grunn av ein feil i filsystemet.
 addon-local-install-error-incorrect-hash = Klarte ikkje å installere dette tillegget på grunn av at det ikkje passar med utvidinga som { -brand-short-name } venta.
 addon-local-install-error-corrupt-file = Klarte ikkje å installere dette tillegget fordi det ser ut til å vere skada.
