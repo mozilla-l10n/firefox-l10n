@@ -46,6 +46,9 @@ addon-install-full-screen-blocked = No se permite la instalación de complemento
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } se agregó a { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } requiere nuevos permisos
 
 ## Add-on removal warning
 

@@ -32,6 +32,10 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = Actualizar
     .accesskey = U
+webext-perms-host-description-all-urls = Acceder a tus datos para todos los sitios web
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Acceder a tus datos para los sitios del dominio { $domain }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
