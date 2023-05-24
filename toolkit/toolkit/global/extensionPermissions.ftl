@@ -7,6 +7,7 @@
 ## Permissions for which the message has been changed and the key updated
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
+webext-perms-description-browserSettings = Đọc và chỉnh sửa cài đặt trình duyệt
 webext-perms-description-browsingData = Xóa lịch sử duyệt web, cookie và dữ liệu liên quan
 webext-perms-description-downloads-open = Mở tập tin đã tải xuống máy tính của bạn
 webext-perms-description-find = Đọc văn bản của tất cả các thẻ đang mở
@@ -15,5 +16,8 @@ webext-perms-description-history = Truy cập lịch sử duyệt web
 webext-perms-description-nativeMessaging = Trao đổi thông báo với các chương trình khác với { -brand-short-name }
 webext-perms-description-notifications = Hiển thị thông báo cho bạn
 webext-perms-description-pkcs11 = Cung cấp dịch vụ mật mã xác thực
+webext-perms-description-privacy = Đọc và chỉnh sửa các cài đặt riêng tư
 webext-perms-description-proxy = Kiểm soát cài đặt proxy của trình duyệt
+webext-perms-description-sessions = Truy cập các thẻ đã đóng gần đây
+webext-perms-description-tabs = Truy cập các thẻ trên trình duyệt
 webext-perms-description-topSites = Truy cập lịch sử duyệt web

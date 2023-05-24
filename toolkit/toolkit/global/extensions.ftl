@@ -30,12 +30,16 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = Cập nhật
     .accesskey = U
+webext-perms-optional-perms-list-intro = Tiện ích này muốn:
 webext-perms-optional-perms-allow =
     .label = Cho phép
     .accesskey = A
 webext-perms-optional-perms-deny =
     .label = Từ chối
     .accesskey = D
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Truy cập dữ liệu của bạn trên trang { $domain }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Truy cập dữ liệu của bạn từ { $domain }
