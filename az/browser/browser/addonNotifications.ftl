@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = { -brand-short-name } bu saytın kompüterinizə proqram quraşdırmağı istəməsini əngəllədi.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -9,6 +10,9 @@
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = İcazə Vermə
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -20,9 +24,19 @@ xpinstall-disabled = Proqram quraşdırılması hazırda sönülüdür. Aktivlə
 xpinstall-disabled-button =
     .label = Aktiv et
     .accesskey = n
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } tətbiqinə əlavə edildi
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } yeni icazələr tələb edir
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { $name } uzantısı { -brand-shorter-name } səyyahından silinsin?
+addon-removal-button = Sil
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
