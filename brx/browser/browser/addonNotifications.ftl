@@ -17,9 +17,13 @@
 
 xpinstall-disabled-locked = सफ्टवेयार इनष्टलेसनखौ नोंथांनि सिस्टेम खुंगिरिजों लोरबां खालामनाय जाबाय।
 xpinstall-disabled = सफ्टवेयार इनष्टलेसनआ दासान्दि लोरबां खालामजानाय। हाहोनाय खालाम आरो फिन नाजा-खौ क्लिक खालाम ।
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { -brand-short-name } आव { $addonName }खौ दाजाबदेरबाय
 
 ## Add-on removal warning
 
+addon-removal-button = बोखार
 addon-download-verifying = नायबिजिर गासिनो दं
 
 ## Variables:
