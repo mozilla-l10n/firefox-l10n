@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Voleu afegir { $extension }?
+webext-perms-header-with-perms = Voleu afegir { $extension }? Esta extensió tindrà permís per:
+webext-perms-header-unsigned = Voleu afegir { $extension }? Esta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font.
+webext-perms-header-unsigned-with-perms = Voleu afegir { $extension }? Esta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font. Esta extensió tindrà permís per:
 webext-perms-sideload-header = S'ha afegit { $extension }
 webext-perms-optional-perms-header = { $extension } sol·licita permisos addicionals.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancel·la
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = «{ $extension }» s'ha actualitzat. Heu d'aprovar els permisos nous per instal·lar la versió actualitzada. Feu clic a «Cancel·la» per mantindre la versió actual de l'extensió. Esta extensió tindrà permís per:
 webext-perms-update-accept =
     .label = Actualitza
     .accesskey = A
