@@ -1000,8 +1000,10 @@ firefox-relay-offer-why-to-use-relay = Våra säkra, lättanvända alias skyddar
 firefox-relay-offer-what-relay-provides = Alla e-postmeddelanden som skickas till dina e-postalias kommer att vidarebefordras till <strong>{ $useremail }</strong> (om du inte bestämmer dig för att blockera dem).
 firefox-relay-offer-legal-notice = Genom att klicka på "Använd e-postalias" godkänner du <label data-l10n-name="tos-url">användarvillkoren</label> och <label data-l10n-name="privacy-url">sekretessmeddelandet</label>.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Overifierad)
 popup-notification-xpinstall-prompt-learn-more = Läs mer om hur du installerar tillägg säkert
 
 ## Pop-up warning
