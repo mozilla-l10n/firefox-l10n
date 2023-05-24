@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Legge til { $extension }?
+webext-perms-header-with-perms = Legge til { $extension }? Denne utvidelsen vil ha tillatelse til å:
+webext-perms-header-unsigned = Legge til { $extension }? Denne utvidelsen er ikke bekreftet. Skadelige utvidelser kan stjele dine privatopplysninger eller kompromittere din datamaskin. Legg kun til denne utvidelsen om du stoler på kilden.
+webext-perms-header-unsigned-with-perms = Legge til { $extension }? Denne utvidelsen er ikke bekreftet. Skadelige utvidelser kan stjele dine privatopplysninger eller kompromittere din datamaskin. Legg kun til denne utvidelsen om du stoler på kilden. Denne utvidelsen vil ha tillatelse til å:
 webext-perms-sideload-header = { $extension } lagt til
 webext-perms-optional-perms-header = { $extension } ber om ytterligere tillatelser.
 
