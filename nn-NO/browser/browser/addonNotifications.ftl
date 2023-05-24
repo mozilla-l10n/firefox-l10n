@@ -19,10 +19,19 @@ xpinstall-disabled-locked = Programvareinstallasjon er avslått av systemansvarl
 xpinstall-disabled-button =
     .label = Tillat
     .accesskey = T
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } lagt til i { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } krev nye løyve
 
 ## Add-on removal warning
 
 addon-download-verifying = Stadfestar
+addon-install-cancel-button =
+    .label = Avbryt
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
