@@ -10,10 +10,24 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = បញ្ចូល { $extension }?
+webext-perms-sideload-header = បាន​បញ្ចូល { $extension }
 webext-perms-optional-perms-header = { $extension } ស្នើ​សុំ​ការអនុញ្ញាត​បន្ថែម។
 
 ##
 
+webext-perms-add =
+    .label = បញ្ចូល
+    .accesskey = A
+webext-perms-cancel =
+    .label = បោះបង់
+    .accesskey = C
+webext-perms-sideload-enable =
+    .label = បើក
+    .accesskey = E
+webext-perms-update-accept =
+    .label = ធ្វើ​បច្ចុប្បន្នភាព
+    .accesskey = U
 webext-perms-optional-perms-list-intro = វា​មាន​បំណង៖
 webext-perms-optional-perms-allow =
     .label = អនុញ្ញាត
@@ -21,6 +35,18 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = បដិសេធ
     .accesskey = D
+webext-perms-host-description-all-urls = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក​សម្រាប់​​គ្រប់​វិបសាយ
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់អ្នក​នៅ​ក្នុង​ដែន​ផ្សេង { $domainCount }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក​សម្រាប់ { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក​នៅ​លើ​ទំព័រ​​ផ្សេង { $domainCount }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
