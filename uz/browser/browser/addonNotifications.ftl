@@ -74,6 +74,9 @@ addon-confirm-install-unsigned-message =
         [one] Diqqat: Bu sayt tekshirilmagan qoʻshimcha dasturni { -brand-short-name }ga o‘rnatmoqchi. Xavfdan qoʻrqmasangiz, davom eting.
        *[other] Diqqat: Bu sayt { $addonCount } ta tekshirilmagan qoʻshimcha dasturni { -brand-short-name }ga oʻrnatmoqchi. Xavfdan qoʻrqmasangiz, davom eting.
     }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Diqqat: Bu sayt baʼzilari tekshirilmagan { $addonCount } ta qoʻshimcha dasturni { -brand-short-name }ga oʻrnatmoqchi. Xavfdan qoʻrqmasangiz, davom eting.
 
 ## Add-on install errors
 ## Variables:
