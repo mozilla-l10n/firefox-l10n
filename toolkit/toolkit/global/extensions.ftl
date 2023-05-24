@@ -27,14 +27,25 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Batal
     .accesskey = B
+webext-perms-update-accept =
+    .label = Perbarui
+    .accesskey = P
 webext-perms-optional-perms-list-intro = Pengaya ingin:
 webext-perms-host-description-all-urls = Mengakses data Anda pada semua situs
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Mengakses data Anda untuk situs pada domain { $domain }
 # Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards = Mengakses data Anda pada { $domainCount } domain lainnya
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Mengakses data Anda pada { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites = Mengakses data Anda pada { $domainCount } situs lainnya
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

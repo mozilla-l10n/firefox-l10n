@@ -7,6 +7,8 @@ xpinstall-prompt = { -brand-short-name } telah mencegah situs ini untuk memasang
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Izinkan { $host } untuk memasang pengaya?
+xpinstall-prompt-message = Anda akan memasang pengaya dari { $host }. Pastikan Anda mempercayai situs ini sebelum melanjutkan.
 
 ##
 
