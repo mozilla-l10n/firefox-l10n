@@ -42,6 +42,9 @@ webext-perms-optional-perms-deny =
     .accesskey = D
 webext-perms-host-description-all-urls = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក​សម្រាប់​​គ្រប់​វិបសាយ
 # Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក​សម្រាប់​​គេហទំព័រ​​នៅ​ក្នុង​ដែន { $domain }
+# Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-wildcards = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់អ្នក​នៅ​ក្នុង​ដែន​ផ្សេង { $domainCount }

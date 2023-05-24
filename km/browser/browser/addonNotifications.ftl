@@ -34,6 +34,10 @@ webext-perms-update-menu-item = { $addonName } តម្រូវ​ឲ្យ​
 ## Add-on removal warning
 
 # Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = លុប { $name } ចេញពី { -brand-shorter-name } មែនទេ?
+addon-removal-button = លុប​ចេញ
+# Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = កំពុង​ទាញ​យក និង​ផ្ទៀងផ្ទាត់​កម្មវិធី​បន្ថែម { $addonCount }...
 addon-download-verifying = កំពុង​ផ្ទៀងផ្ទាត់
