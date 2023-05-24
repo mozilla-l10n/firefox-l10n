@@ -12,6 +12,7 @@
 
 webext-perms-header = "{ $extension }" जोड्ने हो?
 webext-perms-sideload-header = { $extension } थपियो
+webext-perms-optional-perms-header = { $extension } ले थप अनुमतिहरू अनुरोध गरेको छ।
 
 ##
 
@@ -21,6 +22,8 @@ webext-perms-add =
 webext-perms-cancel =
     .label = रद्द गर्नुहोस्
     .accesskey = C
+webext-perms-sideload-text = तपाईँको कम्प्युटरमा भएको अर्को कार्यक्रम ले एड-अन स्थापना गरेको छ जसले तपाईँको ब्राउजरलाई असर गर्न सक्छ। कृपया यो एड-अनको अनुमतिहरू अनुरोधको समिक्षा गर्नुहोस् र सक्षम गर्ने वा रद्द गर्ने(अक्षम गरेर छोड्न को लागि) हो छान्नुहोस्।
+webext-perms-sideload-text-no-perms = तपाईँको कम्प्युटरमा भएको अर्को कार्यक्रम ले एड-अन स्थापना गरेको छ जसले तपाईँको ब्राउजरलाई असर गर्न सक्छ। कृपया सक्षम गर्ने वा रद्द गर्ने (अक्षम गरेर छोड्न को लागि) हो छान्नुहोस्।
 webext-perms-sideload-enable =
     .label = सक्षम पार्नुहोस्
     .accesskey = E
