@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Altyazı
     .tooltip = Altyazı
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Tam ekran
+    .tooltip = Tam ekran (çift tıklayın veya { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Tam ekrandan çık
+    .tooltip = Tam ekrandan çık (çift tıklayın veya { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Tam ekrandan çık
     .tooltip = Tam ekrandan çık (çift tıklama)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Geri sar
     .tooltip = Geri sar (←)
