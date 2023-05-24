@@ -68,6 +68,7 @@ addon-removal-title = Poistetaanko { $name }?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Poistetaanko ”{ $name }” { -brand-shorter-name }-selaimesta?
 addon-removal-button = Poista
+addon-removal-abuse-report-checkbox = Raportoi tämä laajennus { -vendor-short-name }lle
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
