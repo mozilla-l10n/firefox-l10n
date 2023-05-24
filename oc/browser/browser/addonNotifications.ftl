@@ -19,6 +19,9 @@ xpinstall-prompt = { -brand-short-name } a empachat aqueste site de vos demandar
 xpinstall-disabled-locked = L'installacion de programas es estada desactivada per l'administrator de vòstre sistèma.
 xpinstall-disabled = L'installacion de programas es desactivada. Clicatz sus Activar puèi tornatz ensajar.
 # Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } es estat apondut a { -brand-short-name }
+# Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } demanda de permissions novèlas
 
