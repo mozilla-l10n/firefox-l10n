@@ -33,6 +33,13 @@ webext-perms-update-menu-item = { $addonName } کو نئی اجازتوں کی �
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] ایڈ اون ڈاؤن لوڈ اور تصدیق کر رہا ہے…
+       *[other] { $addonCount } ایڈ اون ڈاؤن لوڈ اور تصدیق کر رہا ہے…
+    }
 addon-download-verifying = توثیق کر رہا ہے
 addon-install-accept-button =
     .label = اضافہ کریں
@@ -41,6 +48,11 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message =
+    { $addonCount ->
+        [one] یہ سائٹ { -brand-short-name } پر ایک ایڈ اون تنصیب کرنا چاہتی ہے:
+       *[other] یہ سائٹ { $addonCount } ایڈ اون { -brand-short-name } پر تنصیب کرنا چاہتی ہے:
+    }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
         [one] احتیاط: یہ سائٹ { -brand-short-name } پر ایک غیر تصدیق شدہ ایڈ اون تنصیب کرنا چاہے گی۔ اپنی زمہ داری پر آگے چلیں

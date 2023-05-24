@@ -28,6 +28,14 @@ webext-perms-host-description-all-urls = تمام ویب سائٹس کے لئے 
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ڈومین میں آپ کی سائٹس کے کوائف کی رسائی حاصل کریں
 # Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] { $domainCount } دیگر ڈومین میں اپنے کوائف کی رسائی حاصل کرے
+       *[other] { $domainCount } دیگر ڈومین میں اپنے کوائف کی رسائی حاصل کرے
+    }
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } کے لئے اپنے کوائف کی رسائی
 
