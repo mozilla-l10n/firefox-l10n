@@ -48,7 +48,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName }({ $addonId }) 부가 기능이 시스템 관리자에 의해 차단되었습니다.{ " " }
+addon-install-blocked-by-policy = { $addonName }({ $addonId }) 부가 기능이 시스템 관리자에 의해 차단되었습니다.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = 시스템 관리자가 이 사이트에서 컴퓨터에 소프트웨어를 설치하도록 요청하는 것을 차단했습니다.
 addon-install-full-screen-blocked = 전체 화면 모드에서 또는 전체 화면 모드로 전환 중에는 부가 기능을 설치할 수 없습니다.
