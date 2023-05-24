@@ -14,10 +14,14 @@ webext-perms-header = Ychwanegu { $extension }?
 
 ##
 
+webext-perms-add =
+    .label = Ychwanegu
+    .accesskey = Y
 webext-perms-cancel =
     .label = Diddymu
     .accesskey = D
 webext-perms-sideload-text = Mae rhaglen arall ar eich cyfrifiadur wedi gosod ychwanegyn y gall effeithio ar eich porwr. Darllenwch geisiadau caniatâd yr ychwanegyn a dewis i Alluogi neu Ddiddymu (ei adael wedi ei analluogi).
+webext-perms-sideload-text-no-perms = Mae rhaglen arall ar eich cyfrifiadur wedi gosod ychwanegyn y gall effeithio ar eich porwr. Darllenwch geisiadau caniatâd yr ychwanegyn a dewis i Alluogi neu Ddiddymu (i'w adael wedi ei analluogi).
 webext-perms-sideload-enable =
     .label = Galluogi
     .accesskey = G
@@ -27,6 +31,13 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = Diweddaru
     .accesskey = D
+webext-perms-optional-perms-list-intro = Mae eisiau:
+webext-perms-optional-perms-allow =
+    .label = Caniatáu
+    .accesskey = C
+webext-perms-optional-perms-deny =
+    .label = Gwrthod
+    .accesskey = G
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Cael mynediad at eich data yn { $domain }
