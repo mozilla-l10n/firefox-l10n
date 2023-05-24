@@ -20,6 +20,10 @@ xpinstall-disabled = Sampum xeltéef yi dindeekuna. Cuqal ci Sàjj te nga jéema
 
 ## Add-on removal warning
 
+addon-download-verifying = Wóorliku baa ngiy dox
+addon-install-cancel-button =
+    .label = Neenal
+    .accesskey = e
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -29,3 +33,5 @@ xpinstall-disabled = Sampum xeltéef yi dindeekuna. Cuqal ci Sàjj te nga jéema
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-network-failure = Modilu mottali bi mënula sampu ndax njumte ci tërëlinu dencukaay yi.
+addon-local-install-error-corrupt-file = Modilu mottali bii sampuwul ndax dafa niroog lu sankar.
