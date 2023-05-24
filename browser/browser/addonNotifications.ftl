@@ -15,12 +15,14 @@
 
 ##
 
+xpinstall-disabled-locked = Programvareinstallasjon er avslått av systemansvarleg.
 xpinstall-disabled-button =
     .label = Tillat
     .accesskey = T
 
 ## Add-on removal warning
 
+addon-download-verifying = Stadfestar
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
