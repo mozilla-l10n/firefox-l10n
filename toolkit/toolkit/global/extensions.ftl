@@ -12,18 +12,65 @@
 
 webext-perms-header = Добавить { $extension }?
 webext-perms-header-with-perms = Добавить { $extension }? Это расширение будет иметь разрешение на:
+webext-perms-header-unsigned = Добавить { $extension }? Это расширение не проверено. Вредоносные расширения могут украсть вашу личную информацию или подвергнуть риску ваш компьютер. Добавляйте его, только если вы доверяете источнику.
+webext-perms-header-unsigned-with-perms = Добавить { $extension }? Это расширение не проверено. Вредоносные расширения могут украсть вашу личную информацию или подвергнуть риску ваш компьютер. Добавляйте его, только если вы доверяете источнику. Это расширение будет иметь разрешение на:
 webext-perms-sideload-header = { $extension } добавлено
 webext-perms-optional-perms-header = { $extension } запрашивает дополнительные разрешения.
 
 ##
 
+webext-perms-add =
+    .label = Добавить
+    .accesskey = Д
+webext-perms-cancel =
+    .label = Отмена
+    .accesskey = О
+webext-perms-sideload-text = Другая программа на вашем компьютере установила дополнение, которое может повлиять на ваш браузер. Пожалуйста, ознакомьтесь с запросами разрешений для этого дополнения и выберите «Включить» или «Отмена» (чтобы оставить его отключённым).
+webext-perms-sideload-text-no-perms = Другая программа на вашем компьютере установила дополнение, которое может повлиять на ваш браузер. Пожалуйста, выберите «Включить» или «Отмена» (чтобы оставить его отключённым).
+webext-perms-sideload-enable =
+    .label = Включить
+    .accesskey = В
+webext-perms-sideload-cancel =
+    .label = Отмена
+    .accesskey = О
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } было обновлено. Вы должны одобрить новые разрешения перед установкой обновлённой версии. Выбрав «Отмена», вы сохраните текущую версию расширения. Оно будет иметь разрешение на:
+webext-perms-update-accept =
+    .label = Обновить
+    .accesskey = Н
+webext-perms-optional-perms-list-intro = Оно хочет получить разрешение на:
+webext-perms-optional-perms-allow =
+    .label = Разрешить
+    .accesskey = Р
+webext-perms-optional-perms-deny =
+    .label = Отклонить
+    .accesskey = О
 webext-perms-host-description-all-urls = Доступ к вашим данным для всех веб-сайтов
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Доступ к вашим данным для сайтов в домене { $domain }
 # Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Доступ к вашим данным для ещё { $domainCount } домена
+        [few] Доступ к вашим данным для ещё { $domainCount } доменов
+       *[many] Доступ к вашим данным для ещё { $domainCount } доменов
+    }
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Доступ к вашим данным для { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Доступ к вашим данным для ещё { $domainCount } сайта
+        [few] Доступ к вашим данным для ещё { $domainCount } сайтов
+       *[many] Доступ к вашим данным для ещё { $domainCount } сайтов
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
