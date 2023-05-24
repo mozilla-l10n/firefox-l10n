@@ -42,6 +42,9 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName }({ $addonId }) արգելափակուած է Ձեր վարչարարի կողմից։
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Ձեր համակարգի վարիչն արգելել է այս կայքին բեռնել ծրագրաշար համակարգչում։
+addon-install-full-screen-blocked = Յաւելումի տեղադրումը չի թոյլատրուում լիեկրան աշխատակերպում կամ նախքան լիեկրան կերպին անցնելը։
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName }-ը աւելացուել է { -brand-short-name }-ում
@@ -55,6 +58,7 @@ webext-perms-update-menu-item = { $addonName }-ը պահանջում է նոր �
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Հեռացնե՞լ { $name }֊ը { -brand-shorter-name }֊ից։
 addon-removal-button = Հեռացնել
+addon-removal-abuse-report-checkbox = Դիմել { -vendor-short-name }-ին ընդլայման խնդրի վերաբերեալ
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -96,6 +100,8 @@ addon-install-error-incorrect-hash = Այս հաւելումը չի կարող �
 addon-install-error-corrupt-file = Այս կայքից ներբեռնած հաւելումը չի տեղադրուել, քանի որ այն վնասուած է։
 addon-install-error-file-access = { $addonName }-ը հնարաւոր չէ տեղադրել, որովհետեւ { -brand-short-name }-ը չի կարող փոփոխել անհրաժեշտ նիշքը։
 addon-install-error-not-signed = { -brand-short-name }-ը կանխուել է այս կայքից չստուգուած հաւելումների տեղադրումը։
+addon-install-error-invalid-domain = { $addonName }-ը յաւելումը այս տեղադրումից չի ներբեռնուել։
+addon-local-install-error-network-failure = Հետեւեալ յաւելումը չի տեղադրուել նիշային համակարգի սխալի պատճառով։
 addon-local-install-error-incorrect-hash = Այս հաւելումը չի կարող տեղադրուել, որովհետեւ այն չի համապատասխանում ակնկալուող { -brand-short-name } հաւելմանը։
 addon-local-install-error-corrupt-file = Այս հաւելումը չի կարող տեղադրուել, քանի որ այն վնասուած է։
 addon-local-install-error-file-access = { $addonName }-ը հնարաւոր չէ ներբեռնել, որովհետեւ { -brand-short-name }-ը չի կարող ձեւափոխել անհրաժեշտ նիշքը։

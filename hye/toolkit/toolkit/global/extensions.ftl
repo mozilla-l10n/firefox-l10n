@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Աւելացնե՞լ { $extension }-ը
+webext-perms-header-with-perms = Աւելացնե՞լ { $extension } -ը։ Յաւելումը կը ստանայ հետեւեալ արտաւնութիւնները.
+webext-perms-header-unsigned = Աւելացնե՞լ { $extension }-ը։ Յաւելումը հաստատուած չէ։ Խնդրահարոյց յաւելումները կարող են գողանալ ձեր տուեալները։ Աւելացնել միայն աղբեւրին վստահելու դէպքում։
+webext-perms-header-unsigned-with-perms = Աւելացնե՞լ { $extension }-ը։ Յաւելումը հաստատուած չէ: Խնդրահարոյց յաւելումները կարող են գողանալ ձեր տուեալները։ Աւելացնել միայն աղբեւրին վստահելու դէպքում։ Յաւելումը կը ստանայ հետեւեալ արտաւնութիւնները.
 webext-perms-sideload-header = { $extension }-ը աւելացուել է
 webext-perms-optional-perms-header = { $extension }-ը պահանջում է լրացուցիչ թոյլտուութիւններ։
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Չեղարկել
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } թարմացուել է։ Մինչ նոր տարբերակի բեռնումը հարկաւոր է հաստատել արտաւնութիւնների տրամադրումը։ «Չեղարկում» տարբերակի ընտրումը կազդի յաւելման ներկայիս տարբերակի վրա։ Յաւելումը կը ստանայ հետեւեալ արտաւնութիւնները.
 webext-perms-update-accept =
     .label = Թարմացնել
     .accesskey = U
@@ -45,8 +51,24 @@ webext-perms-host-description-all-urls = Մուտք գործեք Ձեր տուե
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Մատչել Ձեր տուեալներին { $domain } տիրոյթի կայքերի համար
 # Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Ձեր տուեալները հասանելի են { $domainCount } այլ տիրոյթում
+       *[other] Ձեր տուեալները հասանելի են { $domainCount } այլ տիրոյթներում
+    }
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Մուտք գործեք Ձեր տուեալները { $domain }-ում
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Ձեր տուեալներն հասանելի են { $domainCount } այլ կայքում
+       *[other] Ձեր տուեալներն հասանելի են { $domainCount } այլ կայքերում
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -65,6 +87,10 @@ webext-perms-host-description-one-site = Մուտք գործեք Ձեր տուե
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Աւելացնե՞լ { $extension }-ը։ Այս յաւելումը տալիս է { $hostname }-ին հետեւեալ հնարաւորութիւնները.
+webext-site-perms-header-unsigned-with-perms = Աւելացնե՞լ { $extension }-ը։ Յաւելումը հաստատուած չէ։ Խնդրահարոյց յաւելումները կարող են գողանալ ձեր տուեալները։ Աւելացնել միայն աղբեւրին վստահելու դէպքում։ Այս յաւելումը { $hostname }-ին տալիս է հետեւեալ հնարաւորութիւնները.
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Ստանալ հասանելիութիւն MIDI սարքերին
+webext-site-perms-midi-sysex = Ստանալ հասանելիութիւն MIDI սարքերին SysEx֊ի աջակցութեամբ
