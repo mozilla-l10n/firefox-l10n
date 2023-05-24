@@ -10,6 +10,9 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Idagdag ang { $extension }?
+webext-perms-sideload-header = Idinagdag ang { $extension }
+webext-perms-optional-perms-header = Ang { $extension } ay humihingi ng mga karagdagang pahintulot.
 
 ##
 
@@ -19,6 +22,8 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Kanselahin
     .accesskey = C
+webext-perms-sideload-text = May program sa iyong computer na nagkabit ng add-on na maaaring makaapekto sa iyong browser. Pakisuri ang mga permission request ng add-on at piliin kung dapat i-Enable o Kanselahin (para maiwang naka-disable).
+webext-perms-sideload-text-no-perms = May program sa iyong computer na nagkabit ng add-on na maaaring makaapekto sa iyong browser. Pakipili kung dapat i-Enable o Kanselahin (para maiwang naka-disable).
 webext-perms-sideload-enable =
     .label = Enable
     .accesskey = E
@@ -28,6 +33,7 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = Pagbabago
     .accesskey = U
+webext-perms-optional-perms-list-intro = Nais nitong:
 webext-perms-optional-perms-allow =
     .label = Payagan
     .accesskey = A
