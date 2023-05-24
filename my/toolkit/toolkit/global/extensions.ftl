@@ -42,9 +42,15 @@ webext-perms-optional-perms-deny =
     .accesskey = D
 webext-perms-host-description-all-urls = ဝဘ်ဆိုက်အားလုံးအတွက် သင့်အချက်အလက်များကို ကြည့်မည်
 # Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = { $domain } ဒိုမိန်း အတွက် သင့်အချက်အလက်များကို ကြည့်မည်
+# Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-wildcards = အခြားဒိုမိန်း { $domainCount } ခုရှိ ဒေတာကို ကြည့်မည်
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = { $domain } အတွက် သင့်အချက်အလက်ကို ကြည့်မည်
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
