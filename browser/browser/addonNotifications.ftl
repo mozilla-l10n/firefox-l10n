@@ -16,6 +16,10 @@
 ##
 
 xpinstall-disabled-locked = Die Software-Installation wurde von Ihrem Administrator deaktiviert.
+xpinstall-disabled = Die Software-Installation ist momentan deaktiviert. Klicken Sie auf  "Aktivieren" und versuchen Sie es dann erneut.
+xpinstall-disabled-button =
+    .label = Aktivieren
+    .accesskey = k
 
 ## Add-on removal warning
 
