@@ -10,15 +10,57 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Ajouter { $extension } ?
 webext-perms-header-with-perms = Ajouter { $extension } ? Cette extension aura l’autorisation de :
 webext-perms-header-unsigned = Ajouter { $extension } ? Cette extension n’a pas été vérifiée. Les extensions malveillantes peuvent voler vos informations personnelles ou compromettre votre ordinateur. Ne l’ajoutez que si vous faites confiance à la source.
 webext-perms-header-unsigned-with-perms = Ajouter { $extension } ? Cette extension n’a pas été vérifiée. Les extensions malveillantes peuvent voler vos informations personnelles ou compromettre votre ordinateur. Ne l’ajoutez que si vous faites confiance à la source. Cette extension aura l’autorisation de :
+webext-perms-sideload-header = { $extension } a été ajouté
+webext-perms-optional-perms-header = { $extension } demande des permissions supplémentaires.
 
 ##
 
+webext-perms-add =
+    .label = Ajouter
+    .accesskey = A
+webext-perms-cancel =
+    .label = Annuler
+    .accesskey = n
+webext-perms-sideload-text = Un programme de votre ordinateur a installé un module complémentaire qui pourrait affecter votre navigateur. Veuillez prendre connaissance des permissions que demande ce module et décider de l’activer ou d’annuler (afin de le laisser désactivé).
+webext-perms-sideload-text-no-perms = Un programme de votre ordinateur a installé un module complémentaire qui pourrait affecter votre navigateur. Veuillez décider de l’activer ou d’annuler (afin de le laisser désactivé).
+webext-perms-sideload-enable =
+    .label = Activer
+    .accesskey = A
+webext-perms-sideload-cancel =
+    .label = Annuler
+    .accesskey = n
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } a été mis à jour. Vous devez approuver les nouvelles autorisations avant que la version mise à jour ne soit installée. Sélectionner « Annuler » conservera la version actuelle de l’extension. Cette extension aura l’autorisation de :
+webext-perms-update-accept =
+    .label = Mettre à jour
+    .accesskey = M
+webext-perms-optional-perms-list-intro = L’extension souhaite :
+webext-perms-optional-perms-allow =
+    .label = Autoriser
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = Refuser
+    .accesskey = R
+webext-perms-host-description-all-urls = Accéder à vos données pour tous les sites web
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Accéder à vos données pour les sites du domaine { $domain }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Accéder à vos données pour { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Accéder à vos données sur { $domainCount } autre site
+       *[other] Accéder à vos données sur { $domainCount } autres sites
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
