@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } evitou que este sitio solicitase instal
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Permitir que { $host } instale un complemento?
+xpinstall-prompt-message = Está intentando instalar un complemento de { $host }. Asegúrese de confiar neste sitio antes de continuar.
 
 ##
 
+xpinstall-prompt-header-unknown = Quere que un sitio descoñecido instale un complemento?
+xpinstall-prompt-message-unknown = Está intentando instalar un complemento desde un sitio descoñecido. Asegúrese de confiar neste sitio antes de continuar.
 xpinstall-prompt-dont-allow =
     .label = Non permitir
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Non permitir nunca
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Continuar coa instalación
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +37,11 @@ xpinstall-disabled = A instalación de software está desactivada. Prema Activar
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = A
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) está bloqueado polo seu administrador do sistema.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } engadiuse a { -brand-short-name }
