@@ -8,3 +8,5 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-geolocation = Kcem ɣer wadeg-inek
+webext-perms-description-pkcs11 = Ittak-d tanfiwin n usesteb agensan
+webext-perms-description-tabHide = Sken-d neγ ffer iccaren n iminig

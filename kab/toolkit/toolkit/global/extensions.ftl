@@ -12,6 +12,7 @@
 
 webext-perms-header = Rnu { $extension }?
 webext-perms-sideload-header = { $extension } ittwarna
+webext-perms-optional-perms-header = { $extension } yesra tisirag-nniḍen
 
 ##
 
