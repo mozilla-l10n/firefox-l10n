@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = Aplikace { -brand-short-name } zabránila této stránce v dotazu na instalaci softwaru do vašeho počítače.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -22,10 +23,40 @@ xpinstall-disabled-button =
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] Stahování a ověřování doplňku…
+        [few] Stahování a ověřování { $addonCount } doplňků…
+       *[other] Stahování a ověřování { $addonCount } doplňků…
+    }
+addon-install-cancel-button =
+    .label = Zrušit
+    .accesskey = Z
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message =
+    { $addonCount ->
+        [one] Tato stránka chce nainstalovat doplněk do aplikace { -brand-short-name }:
+        [few] Tato stránka chce nainstalovat { $addonCount } doplňky do aplikace { -brand-short-name }:
+       *[other] Tato stránka chce nainstalovat { $addonCount } doplňků do aplikace { -brand-short-name }:
+    }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] Upozornění: Tato stránka chce nainstalovat neověřený doplněk do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
+        [few] Upozornění: Tato stránka chce nainstalovat { $addonCount } neověřené doplňky do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
+       *[other] Upozornění: Tato stránka chce nainstalovat { $addonCount } neověřených doplňků do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message =
+    { $addonCount ->
+        [few] Upozornění: Tato stránka chce nainstalovat { $addonCount } doplňky do aplikace { -brand-short-name }, z nichž některé jsou neověřené. Pokračujte na vlastní riziko.
+       *[other] Upozornění: Tato stránka chce nainstalovat { $addonCount } doplňků do aplikace { -brand-short-name }, z nichž některé jsou neověřené. Pokračujte na vlastní riziko.
+    }
 
 ## Add-on install errors
 ## Variables:
