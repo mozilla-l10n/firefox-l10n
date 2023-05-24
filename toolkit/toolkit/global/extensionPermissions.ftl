@@ -12,6 +12,7 @@ webext-perms-description-browserSettings = Čitanje i mijenjanje postavki pregle
 webext-perms-description-clipboardRead = Dohvaćanje podataka iz međuspremnika
 webext-perms-description-clipboardWrite = Unošenje podataka u međuspremnik
 webext-perms-description-downloads = Preuzimanje datoteka te čitanje i uređivanje povijesti preuzimanja
+webext-perms-description-find = Čitanje teksta svih otvorenih kartica
 webext-perms-description-nativeMessaging = Razmjena poruka s programima, ali ne i s { -brand-short-name }
 webext-perms-description-privacy = Čitanje i mijenjanje postavki privatnosti
 webext-perms-description-sessions = Pristup nedavno zatvorenim karticama
