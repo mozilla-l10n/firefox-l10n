@@ -42,10 +42,10 @@ pictureinpicture-subtitles-btn =
     .tooltip = Titulky
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Na celú obrazovku
-    .tooltip = Na celú obrazovku (dvoj-klik alebo { $shortcut })
+    .tooltip = Na celú obrazovku (dvojité kliknutie alebo { $shortcut })
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Ukončiť režim Na celú obrazovku
-    .tooltip = Ukončiť režim Na celú obrazovku (dvoj-klik alebo { $shortcut })
+    .tooltip = Ukončiť režim Na celú obrazovku (dvojité kliknutie alebo { $shortcut })
 
 ##
 
