@@ -10,10 +10,19 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Добавить { $extension }?
+webext-perms-sideload-header = { $extension } добавлено
 webext-perms-optional-perms-header = { $extension } запрашивает дополнительные разрешения.
 
 ##
 
+webext-perms-host-description-all-urls = Доступ к вашим данным для всех веб-сайтов
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Доступ к вашим данным для сайтов в домене { $domain }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Доступ к вашим данным для { $domain }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
