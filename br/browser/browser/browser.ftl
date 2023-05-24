@@ -1010,8 +1010,10 @@ firefox-relay-offer-what-relay-does = Treuzkas a raimp an holl chomlec'hioù pos
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Nann-gwiriet)
 popup-notification-xpinstall-prompt-learn-more = Gouzout hiroc'h a-zivout staliañ askouezhioù ent diogel
 
 ## Pop-up warning
