@@ -16,6 +16,7 @@
 ##
 
 xpinstall-disabled-locked = Programmatūras instalēšanu ir liedzis sistēmas administrators.
+xpinstall-disabled = Programmatūras instalēšana ir deaktivēta. Klikšķiniet Aktivēt un mēģiniet vēlreiz.
 
 ## Add-on removal warning
 
