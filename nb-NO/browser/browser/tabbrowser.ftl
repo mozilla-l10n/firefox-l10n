@@ -135,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Lyd på i faner
     .accesskey = a
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Spiller av lyd
 
 ## Ctrl-Tab dialog
 
