@@ -7,15 +7,35 @@ xpinstall-prompt = El { -brand-short-name } ha evitat que aquest lloc us demani 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Permeteu que { $host } instal·li un complement?
+xpinstall-prompt-message = Esteu a punt d'instal·lar un complement de { $host }. Assegureu-vos que confieu en aquest lloc abans de continuar.
 
 ##
 
+xpinstall-prompt-header-unknown = Permeteu que un lloc desconegut instal·li un complement?
+xpinstall-prompt-message-unknown = Esteu a punt d'instal·lar un complement d'un lloc desconegut. Assegureu-vos que confieu en aquest lloc abans de continuar.
 xpinstall-prompt-dont-allow =
     .label = No ho permetis
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = No permetis mai
+    .accesskey = m
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Informa d'un lloc sospitós
+    .accesskey = r
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Continua la instal·lació
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Aquest lloc us demana accés als dispositius MIDI (Musical Instrument Digital Interface). Aquest tipus d'accés es pot activar instal·lant un complement.
+site-permission-install-first-prompt-midi-message = No es garanteix que aquest accés sigui segur. Continueu només si confieu en aquest lloc.
 
 ##
 
@@ -24,12 +44,27 @@ xpinstall-disabled = Actualment la instal·lació de programari està inhabilita
 xpinstall-disabled-button =
     .label = Habilita
     .accesskey = H
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = L'administrador del sistema ha blocat { $addonName } ({ $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = L'administrador del sistema ha evitat que aquest lloc us demani instal·lar programari al vostre ordinador.
+addon-install-full-screen-blocked = No es permet instal·lar cap complement mentre estigueu en el mode de pantalla completa, o abans d'entrar-hi.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } s'ha afegit al { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } requereix permisos nous
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Voleu eliminar «{ $name }» del { -brand-shorter-name }?
+addon-removal-button = Elimina
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -76,4 +111,7 @@ addon-local-install-error-incorrect-hash = No s'ha pogut instal·lar aquest comp
 addon-local-install-error-corrupt-file = No es pot instal·lar el complement perquè sembla estar malmès.
 addon-local-install-error-file-access = No s'ha pogut instal·lar el complement «{ $addonName }» perquè el { -brand-short-name } no ha pogut modificar un fitxer necessari.
 addon-local-install-error-not-signed = No es pot instal·lar aquest complement perquè no està verificat.
+# Variables:
+#   $appVersion (String): the application version.
+addon-install-error-incompatible = No s'ha pogut instal·lar el complement «{ $addonName }» perquè no és compatible amb el { -brand-short-name } { $appVersion }.
 addon-install-error-blocklisted = No s'ha pogut instal·lar el complement { $addonName } perquè té un risc elevat de provocar problemes d'estabilitat o de seguretat.

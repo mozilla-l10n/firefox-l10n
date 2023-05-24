@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Voleu afegir { $extension }?
+webext-perms-header-with-perms = Voleu afegir { $extension }? Aquesta extensió tindrà permís per:
+webext-perms-header-unsigned = Voleu afegir { $extension }? Aquesta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font.
+webext-perms-header-unsigned-with-perms = Voleu afegir { $extension }? Aquesta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font. Aquesta extensió tindrà permís per:
 webext-perms-sideload-header = S'ha afegit { $extension }
 webext-perms-optional-perms-header = { $extension } sol·licita permisos addicionals.
 
@@ -22,12 +25,17 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Cancel·la
     .accesskey = C
+webext-perms-sideload-text = Un altre programa del vostre ordinador ha instal·lat un complement que pot afectar el navegador. Reviseu els permisos que se sol·liciten i trieu Habilita o Cancel·la (per deixar-lo inhabilitat).
+webext-perms-sideload-text-no-perms = Un altre programa del vostre ordinador ha instal·lat un complement que pot afectar el navegador. Reviseu els permisos que se sol·liciten i trieu Habilita o Cancel·la (per deixar-lo inhabilitat).
 webext-perms-sideload-enable =
     .label = Habilita
     .accesskey = H
 webext-perms-sideload-cancel =
     .label = Cancel·la
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = «{ $extension }» s'ha actualitzat. Heu d'aprovar els permisos nous per instal·lar la versió actualitzada. Feu clic a «Cancel·la» per mantenir la versió actual de l'extensió. Aquesta extensió tindrà permís per:
 webext-perms-update-accept =
     .label = Actualitza
     .accesskey = A
@@ -69,9 +77,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Aquest complement permet a { $hostname } accedir als vostres dispositius MIDI.
+webext-site-perms-header-with-gated-perms-midi-sysex = Aquest complement permet a { $hostname } accedir als vostres dispositius MIDI (compatibles amb SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Normalment, són dispositius com els sintetitzadors d'àudio, però també poden estar integrats en l'ordinador.
+    
+    Els llocs web normalment no poden accedir als dispositius MIDI. Un ús inadequat podria causar danys o posar la seguretat en risc.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -79,6 +96,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Voleu afegir { $extension }? Aquesta extensió concedeix els permisos següents a { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Voleu afegir { $extension }? Aquesta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font. Aquesta extensió concedeix els permisos següents a { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Accés a dispositius MIDI
+webext-site-perms-midi-sysex = Accés a dispositius MIDI compatibles amb SysEx
