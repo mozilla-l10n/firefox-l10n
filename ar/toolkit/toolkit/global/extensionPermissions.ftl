@@ -12,11 +12,13 @@ webext-perms-description-browserSettings = قراءة و تعديل إعداد�
 webext-perms-description-browsingData = مسح تأريخ التصفح الحديث و الكعكات و البيانات المتعلقة بها
 webext-perms-description-clipboardRead = الحصول على البيانات من الحافظة
 webext-perms-description-clipboardWrite = إدخال البيانات إلى الحافظة
+webext-perms-description-devtools = توسيع أدوات المطورين للوصول إلى بياناتك في الألسنة المفتوحة
 webext-perms-description-downloads = تنزيل الملفات و قراءة تأريخ تنزيل المتصفح و تعديله
 webext-perms-description-downloads-open = فتح الملفات المنزلة على حاسوبك
 webext-perms-description-find = قراءة النص من كل الألسنة
 webext-perms-description-geolocation = معرفة مكانك
 webext-perms-description-history = الوصول إلى تأريخ التصفح
+webext-perms-description-management = مراقبة استخدام الامتدادات وإدارة السمات
 webext-perms-description-nativeMessaging = تبادل الرسائل مع برامج أخرى غير { -brand-short-name }
 webext-perms-description-notifications = عرض التنبيهات
 webext-perms-description-pkcs11 = توفر خدمات استيثاق معمّاة
