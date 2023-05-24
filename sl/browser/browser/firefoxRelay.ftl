@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = Ustvari masko { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Nadaljuj
     .accesskey = d
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Zaščitite svoj e-poštni naslov:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = uporabite e-poštno masko { -relay-brand-name }
+firefox-relay-use-mask-title = Uporabi e-poštno masko { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Uporabi e-poštno masko
+    .accesskey = U
 firefox-relay-opt-in-confirmation-disable =
     .label = Ne prikazuj več
     .accesskey = v

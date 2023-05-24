@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Okna in zavihki
 browser-data-session-label =
     .value = Okna in zavihki
+browser-data-payment-methods-checkbox =
+    .label = Načini plačila
+browser-data-payment-methods-label =
+    .value = Načini plačila
