@@ -18,6 +18,9 @@ xpinstall-prompt = { -brand-short-name } a empachat aqueste site de vos demandar
 
 xpinstall-disabled-locked = L'installacion de programas es estada desactivada per l'administrator de vòstre sistèma.
 xpinstall-disabled = L'installacion de programas es desactivada. Clicatz sus Activar puèi tornatz ensajar.
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } demanda de permissions novèlas
 
 ## Add-on removal warning
 
@@ -29,6 +32,9 @@ addon-downloading-and-verifying =
        *[other] Telecargament e verificacion de { $addonCount } moduls…
     }
 addon-download-verifying = Verificacion en cors
+addon-install-accept-button =
+    .label = Apondre
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -42,6 +48,7 @@ addon-install-error-network-failure = Lo modul complementari a pas pogut èsser 
 addon-install-error-incorrect-hash = Aqueste modul complementari a pas pogut èsser installat perque correspond pas al modul de { -brand-short-name } esperat.
 addon-install-error-corrupt-file = Lo modul complementari telecargat sus aqueste site a pas pogut èsser installat perque es corromput.
 addon-install-error-file-access = { $addonName } a pas pogut èsser installat perque { -brand-short-name } pòt pas modificar lo fichièr necessari.
+addon-install-error-not-signed = { -brand-short-name } a empachat aquel site d'installar un modul non verificat.
 addon-local-install-error-network-failure = Aqueste modul complementari a pas pogut èsser installat a causa d'una error del sistèma de fichièrs.
 addon-local-install-error-incorrect-hash = Aqueste modul complementari a pas pogut èsser installat perque correspond pas al modul de { -brand-short-name } esperat.
 addon-local-install-error-corrupt-file = Aqueste modul complementari a pas pogut èsser installat perque sembla qu'es corromput.
