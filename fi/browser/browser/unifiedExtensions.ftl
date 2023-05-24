@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Poista laajennus
 unified-extensions-context-menu-report-extension =
     .label = Ilmoita laajennuksesta
+unified-extensions-context-menu-move-widget-up =
+    .label = Siirrä ylös
+unified-extensions-context-menu-move-widget-down =
+    .label = Siirrä alas

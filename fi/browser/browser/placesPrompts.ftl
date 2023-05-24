@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (ei otsikkoa)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Turvallisuussyistä "javascript:"- tai "data:"-osoitteita ei voi ladata historiaikkunasta tai sivupalkista.
 places-bookmarks-backup-title = Kirjanmerkkien varmuuskopion tiedostonimi
 places-bookmarks-restore-alert-title = Palauta kirjanmerkit
 places-bookmarks-restore-alert = Tämä toiminto korvaa olemassa olevat kirjanmerkit varmuuskopioiduilla kirjanmerkeillä. Palautetaanko kirjanmerkit?

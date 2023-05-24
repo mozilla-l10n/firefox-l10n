@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Tekstitykset
     .tooltip = Tekstitykset
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Koko näyttö
+    .tooltip = Koko näyttö (kaksoisnapsauta tai { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Poistu koko näytöstä
+    .tooltip = Poistu koko näytön tilasta (kaksoisnapsauta tai { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Poistu koko näytöstä
     .tooltip = Poistu koko näytön tilasta (kaksoisnapsautus)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Taaksepäin
     .tooltip = Taaksepäin (←)
