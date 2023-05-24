@@ -20,6 +20,7 @@ xpinstall-disabled = Woesiw sɔfwɛɛ instɔlehyɛn ano kwan. Klike Kenyan na sa
 
 ## Add-on removal warning
 
+addon-download-verifying = Regye-ato-mu
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -29,3 +30,5 @@ xpinstall-disabled = Woesiw sɔfwɛɛ instɔlehyɛn ano kwan. Klike Kenyan na sa
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-network-failure = Enntumi enninstɔl kaho yi efiri sɛ fael sestem mfomso bi bae.
+addon-local-install-error-corrupt-file = Enntumi enninstɔl kaho yi efiri sɛ edi dɛm.
