@@ -7,16 +7,25 @@ xpinstall-prompt = { -brand-short-name } ได้ป้องกันไม่
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = อนุญาตให้ { $host } ติดตั้งส่วนเสริมหรือไม่?
+xpinstall-prompt-message = คุณกำลังพยายามติดตั้งส่วนเสริมจาก { $host } ตรวจสอบให้แน่ใจว่าคุณเชื่อถือไซต์นี้ก่อนดำเนินการต่อ
 
 ##
 
 xpinstall-prompt-header-unknown = อนุญาตให้ไซต์ที่ไม่รู้จักติดตั้งส่วนเสริม?
+xpinstall-prompt-message-unknown = คุณกำลังพยายามติดตั้งส่วนเสริมจากไซต์ที่ไม่รู้จัก ตรวจสอบให้แน่ใจว่าคุณเชื่อถือไซต์นี้ก่อนดำเนินการต่อ
 xpinstall-prompt-dont-allow =
     .label = ไม่อนุญาต
     .accesskey = ไ
 xpinstall-prompt-never-allow =
     .label = ไม่อนุญาตเสมอ
     .accesskey = ม
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = ดำเนินการติดตั้งต่อไป
+    .accesskey = ด
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -30,6 +39,7 @@ xpinstall-disabled-button =
     .accesskey = ป
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ผู้ดูแลระบบของคุณได้ป้องกันไม่ให้ไซต์นี้ขอคุณเพื่อติดตั้งซอฟต์แวร์ลงในคอมพิวเตอร์ของคุณ
+addon-install-full-screen-blocked = ไม่อนุญาตให้ติดตั้งส่วนเสริมขณะอยู่ในหรือก่อนเข้าสู่โหมดเต็มหน้าจอ
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ต้องการสิทธิอนุญาตใหม่
