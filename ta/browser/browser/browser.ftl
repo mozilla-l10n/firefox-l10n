@@ -519,8 +519,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (சரிபார்க்காத)
 
 ## Pop-up warning
 
