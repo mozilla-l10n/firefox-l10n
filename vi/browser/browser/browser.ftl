@@ -996,8 +996,10 @@ firefox-relay-offer-why-to-use-relay = Mặt nạ an toàn, dễ sử dụng c�
 firefox-relay-offer-what-relay-provides = Tất cả email gửi đến mặt nạ email của bạn sẽ được chuyển đến <strong>{ $useremail }</strong> (trừ khi bạn quyết định chặn chúng).
 firefox-relay-offer-legal-notice = Bằng cách nhấp vào “Sử dụng mặt nạ email”, bạn đồng ý với <label data-l10n-name="tos-url">điều khoản sử dụng</label> và <label data-l10n-name="privacy-url">thông báo về quyền riêng tư</label>.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Chưa xác thực)
 popup-notification-xpinstall-prompt-learn-more = Tìm hiểu thêm về cách cài đặt tiện ích một cách an toàn
 
 ## Pop-up warning
