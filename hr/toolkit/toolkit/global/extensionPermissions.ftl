@@ -18,6 +18,7 @@ webext-perms-description-downloads-open = Otvaranje datoteka preuzetih na tvoje 
 webext-perms-description-find = Čitanje teksta svih otvorenih kartica
 webext-perms-description-geolocation = Pristupi tvojoj lokaciji
 webext-perms-description-history = Pristup povijesti pregledavanja
+webext-perms-description-management = Prati korištenja dodataka i upravljaj temama
 webext-perms-description-nativeMessaging = Razmjena poruka s programima, ali ne i s { -brand-short-name }
 webext-perms-description-notifications = Prikazuje obavijesti
 webext-perms-description-pkcs11 = Pružaj kriptografske usluge autentikacije
