@@ -16,6 +16,12 @@ xpinstall-prompt-message-unknown = আপনি অজানা সাইট থ
 xpinstall-prompt-dont-allow =
     .label = অনুমোদন করো না
     .accesskey = D
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = ইনস্টলেশন চালিয়ে যান
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
