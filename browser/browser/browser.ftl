@@ -1014,8 +1014,10 @@ firefox-relay-offer-what-relay-does = Проследићемо све е-пор�
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (неверефиковано)
 popup-notification-xpinstall-prompt-learn-more = Сазнајте више о безбедном инсталирању додатака
 
 ## Pop-up warning
