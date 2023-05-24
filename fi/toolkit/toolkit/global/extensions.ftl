@@ -15,6 +15,7 @@ webext-perms-header-with-perms = Lisätäänkö { $extension }? Tällä laajennu
 webext-perms-header-unsigned = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneesi turvallisuuden. Lisää se vain, jos luotat lähteeseen.
 webext-perms-header-unsigned-with-perms = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneesi turvallisuuden. Lisää se vain, jos luotat lähteeseen. Tällä laajennuksella on seuraavat oikeudet:
 webext-perms-sideload-header = { $extension } lisätty
+webext-perms-optional-perms-header = { $extension } pyytää lisäoikeuksia.
 
 ##
 
@@ -86,6 +87,8 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Lisätäänkö { $extension }? Tämä laajennus antaa seuraavat ominaisuudet kohteelle { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneen turvallisuuden. Lisää se vain, jos luotat lähteeseen. Tämä laajennus antaa seuraavat ominaisuudet kohteelle { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
