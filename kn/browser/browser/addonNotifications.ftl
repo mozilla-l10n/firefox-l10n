@@ -38,6 +38,9 @@ addon-download-verifying = ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದ�
 addon-install-cancel-button =
     .label = ರದ್ದುಗೊಳಿಸು
     .accesskey = C
+addon-install-accept-button =
+    .label = ಸೇರಿಸು
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed

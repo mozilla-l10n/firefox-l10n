@@ -14,9 +14,27 @@ webext-perms-header = ಸೇರಿಸು‍ { $extension }?‍
 
 ##
 
+webext-perms-add =
+    .label = ಸೇರಿಸು
+    .accesskey = A
 webext-perms-cancel =
     .label = ರದ್ದುಗೊಳಿಸು
     .accesskey = C
+webext-perms-sideload-enable =
+    .label = ಶಕ್ತಗೊಳಿಸು
+    .accesskey = E
+webext-perms-sideload-cancel =
+    .label = ರದ್ದು ಮಾಡು
+    .accesskey = C
+webext-perms-update-accept =
+    .label = ಪರಿಷ್ಕರಿಸು
+    .accesskey = U
+webext-perms-optional-perms-allow =
+    .label = ಅನುಮತಿಸು
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = ನಿರಾಕರಿಸು
+    .accesskey = D
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
