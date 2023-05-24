@@ -995,8 +995,10 @@ firefox-relay-offer-what-relay-does = Θα προωθήσουμε όλα τα em
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Μη επαληθευμένο)
 popup-notification-xpinstall-prompt-learn-more = Μάθετε περισσότερα σχετικά με την ασφαλή εγκατάσταση πρόσθετων
 
 ## Pop-up warning
