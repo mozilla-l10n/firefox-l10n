@@ -1003,8 +1003,10 @@ firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de 
 firefox-relay-offer-what-relay-provides = Todos los correos electrónicos enviados a tus máscaras de correo electrónico se reenviarán a <strong>{ $useremail }</strong> (a menos que decidas bloquearlos).
 firefox-relay-offer-legal-notice = Al hacer clic en "Usar máscara de correo", aceptas los <label data-l10n-name="tos-url">Términos de servicio</label> y el <label data-l10n-name="privacy-url">aviso de privacidad</label>.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (No verificado)
 popup-notification-xpinstall-prompt-learn-more = Aprender más acerca de instalar complementos de forma segura
 
 ## Pop-up warning
