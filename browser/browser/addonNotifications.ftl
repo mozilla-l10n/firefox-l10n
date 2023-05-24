@@ -44,6 +44,9 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = ‫{ $addonName } ({ $addonId }) توسط مدیر سیستم شما مسدود شده است.{ " " }
 addon-install-full-screen-blocked = نصب افزونه در حین یا قبل از ورود به حالت تمام صفحه مجاز نیست.
 # Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } به { -brand-short-name } افزوده شد
+# Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } درخواست مجوز جدید دارد
 

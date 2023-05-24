@@ -9,6 +9,7 @@
 
 webext-perms-description-bookmarks = خواندن و تنظیم نشانک‌ها
 webext-perms-description-browserSettings = خواندن و تغییر تنظیمات مرورگر
+webext-perms-description-browsingData = پاک کردن تاریخچهٔ مرور اخیر،‌ کلوچک‌ها و اطلاعات مرتبط
 webext-perms-description-clipboardRead = دریافت اطلاعات از تخته نسخه برداری
 webext-perms-description-clipboardWrite = ورود اطلاعات به تخته نسخه برداری
 webext-perms-description-devtools = گسترش ابزارتوسعه‌دهندگان برای دسترسی به داده‌های شما بر روی زبانه‌های باز
