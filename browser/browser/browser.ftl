@@ -991,8 +991,10 @@ firefox-relay-offer-what-relay-does = Kami akan meneruskan semua email dari <str
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Belum Diverifikasi)
 popup-notification-xpinstall-prompt-learn-more = Pelajari lebih lanjut tentang memasang pengaya dengan aman
 
 ## Pop-up warning
