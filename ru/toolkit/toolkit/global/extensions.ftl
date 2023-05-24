@@ -11,6 +11,7 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Добавить { $extension }?
+webext-perms-header-with-perms = Добавить { $extension }? Это расширение будет иметь разрешение на:
 webext-perms-sideload-header = { $extension } добавлено
 webext-perms-optional-perms-header = { $extension } запрашивает дополнительные разрешения.
 
