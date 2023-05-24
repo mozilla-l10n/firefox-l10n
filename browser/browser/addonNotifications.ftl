@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } prevented this site from asking you to 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Allow { $host } to install an add-on?
+xpinstall-prompt-message = You are attempting to install an add-on from { $host }. Make sure you trust this site before continuing.
 
 ##
 
+xpinstall-prompt-header-unknown = Allow an unknown site to install an add-on?
+xpinstall-prompt-message-unknown = You are attempting to install an add-on from an unknown site. Make sure you trust this site before continuing.
 xpinstall-prompt-dont-allow =
     .label = Don’t Allow
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Never Allow
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Continue to Installation
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +37,12 @@ xpinstall-disabled = Software installation is currently disabled. Click Enable a
 xpinstall-disabled-button =
     .label = Enable
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) is blocked by your system administrator.
+addon-install-full-screen-blocked = Add-on installation is not allowed while in or before entering fullscreen mode.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } added to { -brand-short-name }
@@ -33,6 +52,10 @@ webext-perms-update-menu-item = { $addonName } requires new permissions
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Remove { $name } from { -brand-shorter-name }?
+addon-removal-button = Remove
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
