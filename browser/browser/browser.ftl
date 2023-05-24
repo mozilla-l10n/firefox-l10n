@@ -372,8 +372,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Ga e a tlhotlhomisiwa)
 
 ## Pop-up warning
 
