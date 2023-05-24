@@ -363,6 +363,12 @@ mr2022-onboarding-welcome-pin-subtitle =
         [with-cases] Spusťte { -brand-short-name(case: "acc") } odkudkoli jediným klepnutím. Pokaždé, když to uděláte, volíte otevřenější a nezávislejší web.
        *[no-cases] Spusťte aplikaci { -brand-short-name } odkudkoli jediným klepnutím. Pokaždé, když to uděláte, volíte otevřenější a nezávislejší web.
     }
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Ponechat { -brand-short-name } v docku
+       *[other] Připnout { -brand-short-name } na hlavní panel
+    }
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -382,9 +388,12 @@ mr2022-onboarding-existing-pin-subtitle = Spusťte zdravější internet odkudko
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Používejte prohlížeč, který chrání vaše soukromí při procházení webu. Naše nejnovější aktualizace je plná věcí, které si zamilujete.
+mr2022-onboarding-existing-pin-checkbox-label = Přidat též anonymní prohlížení { -brand-short-name(case: "gen") }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Nastavte si { -brand-short-name } jako váš prohlížeč
 mr2022-onboarding-set-default-primary-button-label =
     { -brand-short-name.case-status ->
         [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč
@@ -483,10 +492,16 @@ mr2022-onboarding-no-mobile-download-cta-text =
 
 mr2022-upgrade-onboarding-pin-private-window-header = Získejte svobodu soukromého prohlížení jediným klepnutím
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Žádné uložené cookies ani historie, přímo z vaší plochy. Prohlížejte, jako když se nikdo nedívá.Žádné uložené soubory cookies ani historie, přímo z vaší plochy. Prohlížejte, jako by se nikdo nedíval.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Ponechat anonymní prohlížení { -brand-short-name(case: "gen") } v docku
+       *[other] Připnout anonymní prohlížení { -brand-short-name(case: "gen") } na hlavní panel
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Vždy respektujeme vaše soukromí
+mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentních návrhů po inteligentnější vyhledávání. Neustále pracujeme na vytvoření lepšího a osobnějšího { -brand-product-name(case: "gen") }.
 mr2022-onboarding-privacy-segmentation-button-primary-label =
     { -brand-product-name.case-status ->
         [with-cases] Použít doporučení { -brand-product-name(case: "gen") }
