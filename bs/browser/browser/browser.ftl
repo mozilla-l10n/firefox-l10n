@@ -563,8 +563,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Neprovjeren)
 popup-notification-xpinstall-prompt-learn-more = Saznajte više o sigurnoj instalaciji add-ona
 
 ## Pop-up warning
