@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Undertekster
     .tooltip = Undertekster
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Fullskjerm
+    .tooltip = Fullskjerm (dobbeltklikk eller { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Avslutt fullskjerm
+    .tooltip = Avslutt fullskjerm (dobbeltklikk or { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Avslutt fullskjerm
     .tooltip = Avslutt fullskjerm (dobbeltklikk)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Tilbake
     .tooltip = Tilbake (←)
