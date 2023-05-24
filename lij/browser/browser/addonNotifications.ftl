@@ -78,8 +78,10 @@ addon-install-error-incorrect-hash = Inposcibile instalâ o conponente azonto pe
 addon-install-error-corrupt-file = Inposcibile instalâ o conponente azonto scaregou da sto scito perché o file o l'é aroinou.
 addon-install-error-file-access = Inposcibile instalâ { $addonName } perché { -brand-short-name } o no l'é in graddo de cangiâ o file domandou.
 addon-install-error-not-signed = L’instalaçion de 'n conponente azonto no verificou a l'é stæta blocâ da { -brand-short-name }.
+addon-local-install-error-network-failure = Inposcibile instalâ sto conponente azonto perché gh'é 'n'erô into scistema de schedai.
 addon-local-install-error-incorrect-hash = Inposcibile instalâ sto conponente azonto perché o no corisponde a quello che m'aspetavo da { -brand-short-name }.
 addon-local-install-error-corrupt-file = Inposcibile instalâ sto conponente azonto perché o l'é aroinou.
+addon-local-install-error-file-access = Inposcibile instalâ { $addonName } perché { -brand-short-name } o no l'é in graddo de cangiâ o schedaio domandou.
 addon-local-install-error-not-signed = Inposcibile instalâ sto conponente azonto perché o no l'é verificou.
 # Variables:
 #   $appVersion (String): the application version.
