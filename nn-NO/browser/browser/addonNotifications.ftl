@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } hindra denne sida frå å spørje deg o
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Ikkje tillat
+    .accesskey = k
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
