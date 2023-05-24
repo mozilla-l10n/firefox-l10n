@@ -985,8 +985,10 @@ firefox-relay-offer-what-relay-does = Visus el. laiškus iš <strong>{ $sitename
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (nepatikrintas)
 popup-notification-xpinstall-prompt-learn-more = Sužinokite daugiau apie saugų priedų diegimą
 
 ## Pop-up warning
