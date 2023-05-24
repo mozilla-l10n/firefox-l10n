@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } nū ga'nīn sitio na da' gatu 'ngò sof
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Ga'ue ga'nïnt riña { $host } da' ga'nïn 'ngō sa nata' aj?
+xpinstall-prompt-message = Huin ruhuât ga'nïnjt 'ngō sa nata'a asìj riña { $host }. Da' ga'ue gan'ānjt ne' ñaa nī gi'ni'iāj sinī si sê sa yi'ìi huin sitiô nan.
 
 ##
 
+xpinstall-prompt-header-unknown = Ga'nïnt riña 'ngō sitiô nu ni'înt ga'nïn 'ngō sa nata'a bè'ej?
+xpinstall-prompt-message-unknown = Ruhuaj ga'nïn 'ngō sa nata'a asìj riña 'ngō sitiô nu ni'înt. Asìj gàchin gan'ānjt ne' ñaa nī ni'iāj si sê sa yi'ìi huin sitiô nan.
 xpinstall-prompt-dont-allow =
     .label = Si ga'ni'
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Nitāj damā ga'nï'
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Guij ne' ñāan ngà sa a'nïnt
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +37,11 @@ xpinstall-disabled = Giyichin' software a'nít riña aga' na. Ga'ui' klik da' na
 xpinstall-disabled-button =
     .label = Dugi'iaj sun' man
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ganarán sa nikāj ñu'ūnj sistêma riñaj.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } 'ngà nuta' ma { -brand-short-name }
