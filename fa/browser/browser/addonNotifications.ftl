@@ -30,6 +30,10 @@ webext-perms-update-menu-item = { $addonName } درخواست مجوز جدید 
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = حذف { $name } از { -brand-shorter-name }؟
+addon-removal-button = حذف
 addon-download-verifying = در حال بررسی
 addon-install-cancel-button =
     .label = انصراف
