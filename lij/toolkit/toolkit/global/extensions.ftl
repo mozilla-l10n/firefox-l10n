@@ -12,6 +12,7 @@
 
 webext-perms-header = Azonzi { $extension }?
 webext-perms-sideload-header = { $extension } azonto
+webext-perms-optional-perms-header = { $extension } o domanda di permissi in ciù.
 
 ##
 
@@ -21,12 +22,21 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Anulla
     .accesskey = A
+webext-perms-sideload-text = Un atro programma into computer o l'à instalou 'n conponente azonto che peu ronpe a-o teu navegatô. Pe piaxei amia torna e domande de permisso e çerni se Abilitâ o Scancelâ (òscia lascialo dizabiltou).
+webext-perms-sideload-text-no-perms = Un atro programma into computer o l'à instalou 'n conponente azonto che peu ronpe a-o teu navegatô. Pe piaxei çerni se Abilitâ o Scancelâ (òscia lascialo dizabiltou).
 webext-perms-sideload-enable =
     .label = Abilita
     .accesskey = A
 webext-perms-update-accept =
     .label = Agiorna
     .accesskey = A
+webext-perms-optional-perms-list-intro = O veu:
+webext-perms-optional-perms-allow =
+    .label = Permetti
+    .accesskey = P
+webext-perms-optional-perms-deny =
+    .label = No permette
+    .accesskey = N
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
