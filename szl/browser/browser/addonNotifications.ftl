@@ -41,7 +41,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Rozszyrzynie { $addonName } ({ $addonId }) je zaszperowane ôd administratora systymu.{ " " }
+addon-install-blocked-by-policy = Rozszyrzynie { $addonName } ({ $addonId }) je zaszperowane ôd administratora systymu.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Administratōr systymu niy doł tyj strōnie spytać cie, coby zainsztalować software na tym kōmputrze.
 addon-install-full-screen-blocked = Niy śmiysz insztalować rozszyrzyń we trybie cołkigo ekranu abo podwiela do niego niy wleziesz.
