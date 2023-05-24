@@ -32,6 +32,7 @@ addon-install-cancel-button =
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-network-failure = Додатак не може да буде преузет због проблема са везом.
 addon-install-error-incorrect-hash = Додатак не може да буде инсталиран, јер се не слаже са оним што је додатак { -brand-short-name } очекивао.
 addon-install-error-corrupt-file = Додатак преузет са овог сајта не може да буде инсталиран, јер је неисправан.
 addon-install-error-file-access = { $addonName } не може да буде инсталиран јер { -brand-short-name } не може да измени потребну датотеку.
