@@ -21,6 +21,7 @@ xpinstall-prompt-dont-allow =
 
 ## Add-on removal warning
 
+addon-removal-button = ඉවත් කරන්න
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
