@@ -26,5 +26,6 @@ webext-perms-description-privacy = Leer y modificar configuración de privacidad
 webext-perms-description-proxy = Controlar configuración del proxy del navegador
 webext-perms-description-sessions = Acceder a pestañas recientemente cerradas
 webext-perms-description-tabs = Acceder a pestañas del navegador
+webext-perms-description-tabHide = Ocultar y mostrar las pestañas del navegador
 webext-perms-description-topSites = Acceder al historial de navegación
 webext-perms-description-webNavigation = Acceder a actividad del navegador durante la navegación
