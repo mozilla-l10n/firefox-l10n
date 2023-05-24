@@ -1000,8 +1000,10 @@ firefox-relay-offer-why-to-use-relay = Nostre mascas, secur e facile a usar, pro
 firefox-relay-offer-what-relay-provides = Tote le emails inviate al mascas de tu email sera inultrate a <strong>{ $useremail }</strong> (si tu non decide de blocar los).
 firefox-relay-offer-legal-notice = Si tu clicca “Usar masca email”, tu concorda con le <label data-l10n-name="tos-url">Terminos se servicio</label> e con le <label data-l10n-name="privacy-url">Aviso de confidentialitate</label>.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Non verificate)
 popup-notification-xpinstall-prompt-learn-more = Saper plus re le installation secur de additivos
 
 ## Pop-up warning
