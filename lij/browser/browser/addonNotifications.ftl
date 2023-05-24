@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } o l'à inpedio a sto scito de domandâ 
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = No Permétte
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -21,6 +24,12 @@ xpinstall-disabled = L'instalaçion do software a l'é dizabilita. Sciacca Abili
 xpinstall-disabled-button =
     .label = Abilita
     .accesskey = A
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } azonto a { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } o l'à bezeugno de neuvi permissi
 
 ## Add-on removal warning
 
