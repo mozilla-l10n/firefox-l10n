@@ -20,6 +20,7 @@ xpinstall-disabled = চফ্টৱেৰ ইনস্টল বৰ্তমা
 
 ## Add-on removal warning
 
+addon-download-verifying = সতা সত্য নিৰূপন কৰা হৈ আছে
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -29,3 +30,5 @@ xpinstall-disabled = চফ্টৱেৰ ইনস্টল বৰ্তমা
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-network-failure = এটা ফাইলচিস্টেম ত্ৰুটিৰ বাবে এই এড-অন ইনস্টল কৰিব পৰা নগল।
+addon-local-install-error-corrupt-file = এই এড-অন ইনস্টল কৰিব পৰা নগল কাৰণ ই সম্ভবত ক্ষতিগ্ৰস্থ।
