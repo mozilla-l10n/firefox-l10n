@@ -608,8 +608,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Gan fíorú)
 popup-notification-xpinstall-prompt-learn-more = Tuilleadh eolais faoi bhreiseáin agus conas is féidir iad a shuiteáil go sábháilte
 
 ## Pop-up warning
