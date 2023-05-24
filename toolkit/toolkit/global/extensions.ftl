@@ -41,9 +41,18 @@ webext-perms-optional-perms-deny =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Овај додатак даје { $hostname }-у приступ вашим MIDI уређајима.
+webext-site-perms-header-with-gated-perms-midi-sysex = Овај додатак даје { $hostname }-у приступ вашим MIDI уређајима (са SysEx подршком).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    То су обично уређаји који се повежу попут аудио синтисајзера, али могу бити и уграђени у ваш рачунар.
+    
+    Сајтовима обично није дозвољен приступ MIDI уређајима. Неправилна употреба може да проузрокује штету или да угрози безбедност.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -51,6 +60,10 @@ webext-perms-optional-perms-deny =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Додати { $extension }? Овај додатак пружа следеће могућности { $hostname }-у:
+webext-site-perms-header-unsigned-with-perms = Додати { $extension }? Овај додатак није верификован. Злонамеран додатак може да украде ваше личне податке или да угрози ваш рачунар. Додајте само ако верујете његовом извору. Овај додатак пружа следеће могућности { $hostname }-у:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Приступ MIDI уређајима
+webext-site-perms-midi-sysex = Приступ MIDI уређајима са SysEx подршком

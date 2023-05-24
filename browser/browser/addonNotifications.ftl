@@ -9,13 +9,22 @@
 
 ##
 
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Пријави сумњиви сајт
+    .accesskey = П
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Овај сајт захтева приступ вашим MIDI (дигитални интерфејс музичких инструмената) уређајима. Можете да омогућите приступ инсталирањем додатка.
+site-permission-install-first-prompt-midi-message = Овај захтев за приступ није нужно безбедан. Наставите само ако верујете овом сајту.
 
 ##
 
 xpinstall-disabled-locked = Администратор система је онемогућио инсталацију софтвера.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Администратор вашег система је спречио овом сајту да тражи дозволу за инсталирање софтвера.
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } захтева новe дозволe
@@ -44,6 +53,7 @@ addon-install-error-incorrect-hash = Додатак не може да буде 
 addon-install-error-corrupt-file = Додатак преузет са овог сајта не може да буде инсталиран, јер је неисправан.
 addon-install-error-file-access = { $addonName } не може да буде инсталиран јер { -brand-short-name } не може да измени потребну датотеку.
 addon-install-error-not-signed = { -brand-short-name } је спречио сајт да инсталира непроверен додатак.
+addon-install-error-invalid-domain = Додатак { $addonName } не може да се инсталира са ове локације.
 addon-local-install-error-incorrect-hash = Додатак не може да буде инсталиран, јер се не слаже са оним што је додатак { -brand-short-name } очекивао.
 addon-local-install-error-corrupt-file = Додатак не може да буде инсталиран, јер је неисправан.
 addon-local-install-error-file-access = { $addonName } не може да буде инсталиран јер { -brand-short-name } не може да измени потребну датотеку.
