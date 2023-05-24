@@ -7,32 +7,73 @@ xpinstall-prompt = { -brand-short-name } zabránil tejto stránke požiadať o i
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Chcete nainštalovať doplnok z { $host }?
+xpinstall-prompt-message = Pokúšate sa nainštalovať doplnok z { $host }. Uistite sa, že tejto stránke môžete dôverovať.
 
 ##
 
+xpinstall-prompt-header-unknown = Chcete nainštalovať doplnok z neznámej stránky?
+xpinstall-prompt-message-unknown = Pokúšate sa nainštalovať doplnok z neznámej stránky. Uistite sa, že tejto stránke môžete dôverovať.
+xpinstall-prompt-dont-allow =
+    .label = Nepovoliť
+    .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Nikdy nepovoliť
+    .accesskey = e
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Nainštalovať
+    .accesskey = a
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 
 ##
 
+xpinstall-disabled-locked = Inštalácia softvéru bola vypnutá vaším správcom systému.
 xpinstall-disabled = Inštalácia softvéru je momentálne vypnutá. Kliknite na tlačidlo Povoliť a skúste to znova.
 xpinstall-disabled-button =
     .label = Povoliť
     .accesskey = v
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = Doplnok { $addonName } ({ $addonId }) bol zablokovaný správcom vášho počítača.{ " " }
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Váš správca systému zabránil tejto stránke požiadať vás o inštaláciu softvéru do vášho počítača.
+addon-install-full-screen-blocked = V režime celej obrazovky alebo tesne pred jeho zapnutím nie je inštalácia doplnkov povolená.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = Doplnok { $addonName } bol pridaný do aplikácie { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = Doplnok { $addonName } vyžaduje nové povolenia
 
 ## Add-on removal warning
 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Odstrániť { $name }?
+addon-removal-button = Odstrániť
 addon-removal-abuse-report-checkbox = Nahlásiť toto rozšírenie spoločnosti { -vendor-short-name }
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] Sťahuje a overuje sa doplnok…
+        [few] Sťahujú a overujú sa { $addonCount } doplnky…
+       *[other] Sťahuje a overuje sa { $addonCount } doplnkov…
+    }
 addon-download-verifying = Overuje sa
 addon-install-cancel-button =
     .label = Zrušiť
     .accesskey = Z
+addon-install-accept-button =
+    .label = Pridať
+    .accesskey = r
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -61,7 +102,9 @@ addon-confirm-install-some-unsigned-message =
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-network-failure = Doplnok nemohol byť stiahnutý kvôli problémom s pripojením.
 addon-install-error-incorrect-hash = Doplnok nemohol byť nainštalovaný, pretože neodpovedá tomu, čo prehliadač { -brand-short-name } očakával.
+addon-install-error-corrupt-file = Doplnok stiahnutý z tejto stránky nemohol byť nainštalovaný, pretože je zrejme poškodený.
 addon-install-error-file-access = Doplnok { $addonName } nemohol byť nainštalovaný, pretože { -brand-short-name } nemohol upraviť potrebný súbor.
 addon-install-error-not-signed = { -brand-short-name } zabránil tejto stránke nainštalovať neoverený doplnok.
 addon-install-error-invalid-domain = Doplnok { $addonName } nie je možné nainštalovať z tohto umiestnenia.
