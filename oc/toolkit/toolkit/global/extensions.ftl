@@ -10,6 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Apondre { $extension } ?
 webext-perms-header-with-perms = Apondre{ $extension } ? Aquesta extension aurà la permission de :
 webext-perms-header-unsigned = Apondre { $extension } ? Aquesta extension foguèt pas verificada. Las extensions malvolentas pòdon prendre vòstras donadas personalas o far perilh a vòstre ordenador. L’apondètz sonque se vos fisatz de la font.
 webext-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquesta extension foguèt pas verificada. Las extensions malvolentas pòdon prendre vòstras donadas personalas o far perilh a vòstre ordenador. L’apondètz sonque se vos fisatz de la font. Aquesta extension aurà la permission de :
@@ -24,6 +25,8 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Anullar
     .accesskey = n
+webext-perms-sideload-text = Un programa del vòstre ordenador installèt un modul complementari que poiriá portar tòrt a vòstre navegador. Mercé de reveire las permissions que demanda aquel modul e prenètz la decision de l’activar o de l’anullar (que demòre desactivat).
+webext-perms-sideload-text-no-perms = Un programa del vòstre ordenador installèt un modul complementari que poiriá portar tòrt a vòstre navegador. Mercé de reveire las permissions que demanda aquel modul e prenètz la decision de l’activar o de l’anullar (que demòre desactivat).
 webext-perms-sideload-enable =
     .label = Activar
     .accesskey = A
@@ -36,6 +39,7 @@ webext-perms-update-text = { $extension } es estat actualizat. Devètz aprovar d
 webext-perms-update-accept =
     .label = Metre a jorn
     .accesskey = M
+webext-perms-optional-perms-list-intro = Vòl :
 webext-perms-optional-perms-allow =
     .label = Autorizar
     .accesskey = A
