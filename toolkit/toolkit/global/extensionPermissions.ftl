@@ -13,6 +13,7 @@ webext-perms-description-browsingData = Gezinti geçmişini, çerezleri ve ilgil
 webext-perms-description-clipboardRead = Panodaki verileri alma
 webext-perms-description-clipboardWrite = Panoya veri gönderme
 webext-perms-description-declarativeNetRequest = Herhangi bir sayfadaki içeriği engelleme
+webext-perms-description-declarativeNetRequestFeedback = Gezinti geçmişinizi okuma
 webext-perms-description-devtools = Açık sekmelerdeki verilere erişmek için geliştirici araçlarını genişletme
 webext-perms-description-downloads = Dosya indirme, tarayıcının indirme geçmişini okuma ve değiştirme
 webext-perms-description-downloads-open = Bilgisayarınıza indirilen dosyaları açma

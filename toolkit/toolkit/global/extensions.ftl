@@ -77,6 +77,8 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Bu eklenti, { $hostname } sitesinin MIDI cihazlarınıza erişmesini sağlar.
+webext-site-perms-header-with-gated-perms-midi-sysex = Bu eklenti, { $hostname } sitesinin MIDI cihazlarınıza erişmesini sağlar (SysEx desteği ile).
 
 ##
 
@@ -99,3 +101,5 @@ webext-site-perms-header-unsigned-with-perms = { $extension } eklensin mi? Bu uz
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = MIDI cihazlarına erişebilir
+webext-site-perms-midi-sysex = SysEx destekli MIDI cihazlarına erişebilir
