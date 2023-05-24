@@ -10,7 +10,9 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Leggje til { $extension }?
 webext-perms-sideload-header = { $extension } lagt til
+webext-perms-optional-perms-header = { $extension } ber om ytterlegare løyve.
 
 ##
 
@@ -20,12 +22,24 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Avbryt
     .accesskey = A
+webext-perms-sideload-text = Eit anna program på datamaskina har installert eit tillegg som kan påverke nettlesaren din. Ver snill og vurder løyveførespurnadane til dette tillegget og vel Slå på eller Avbryt (for at det framleis skal vere slått av).
+webext-perms-sideload-text-no-perms = Eit anna program installerte eit tillegg som kan påverke nettlesaren din. Vel Slå på eller Avbryt (for at det framleis skal vere slått av).
 webext-perms-sideload-enable =
     .label = Slå på
     .accesskey = S
+webext-perms-sideload-cancel =
+    .label = Avbryt
+    .accesskey = A
 webext-perms-update-accept =
     .label = Oppdater
     .accesskey = O
+webext-perms-optional-perms-list-intro = Den vil:
+webext-perms-optional-perms-allow =
+    .label = Tillat
+    .accesskey = T
+webext-perms-optional-perms-deny =
+    .label = Ikkje tillat
+    .accesskey = I
 webext-perms-host-description-all-urls = Få tilgang til dine data for alle nettstadar
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
