@@ -5,3 +5,6 @@
 webext-default-search-yes =
     .label = Ναι
     .accesskey = Ν
+webext-default-search-no =
+    .label = Όχι
+    .accesskey = Ό
