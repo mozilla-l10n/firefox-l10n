@@ -993,8 +993,10 @@ firefox-relay-offer-what-relay-does = We’ll forward all emails from <strong>{ 
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Unverified)
 popup-notification-xpinstall-prompt-learn-more = Learn more about installing add-ons safely
 
 ## Pop-up warning
