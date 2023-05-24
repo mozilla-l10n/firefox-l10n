@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = { -brand-short-name } ur yeǧǧi ara asmel-a ad isebded aseɣẓan ɣef uselkim-inek.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -37,3 +38,4 @@ addon-download-verifying = Asenqed iteddu
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-not-signed = Azegrir-a ur yebdid ara acku ur yettwasenqed ara.
