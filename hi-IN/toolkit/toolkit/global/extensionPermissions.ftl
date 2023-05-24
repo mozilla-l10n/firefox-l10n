@@ -8,6 +8,7 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-bookmarks = पिस्तकचिन्हों को पढ़ें और सुधारें
+webext-perms-description-browserSettings = ब्राउज़र सेटिंग्स पढ़ें और संशोधित करें
 webext-perms-description-clipboardRead = क्लिपबोर्ड से डाटा लाये
 webext-perms-description-clipboardWrite = क्लिपबोर्ड पर डाटा इनपुट करे
 webext-perms-description-downloads = फाइल्स को डाउनलोड करके पढ़ें और ब्राउज़र के डाउनलोड इतिहास को सुधारें
