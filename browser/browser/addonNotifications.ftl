@@ -20,6 +20,11 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Ніколи не дозволяти
     .accesskey = Н
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Повідомити про підозрілий сайт
+    .accesskey = П
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -113,6 +118,7 @@ addon-install-error-incorrect-hash = Додаток не може бути вс�
 addon-install-error-corrupt-file = Додаток, завантажений з цього сайту, не не може бути встановлений, тому що він виглядає пошкодженим.
 addon-install-error-file-access = { $addonName } не вдалося встановити, тому що { -brand-short-name } не може змінити необхідний файл.
 addon-install-error-not-signed = { -brand-short-name } заблокував встановлення неперевіреного додатка з цього сайту.
+addon-install-error-invalid-domain = Неможливо встановити додаток { $addonName } звідси.
 addon-local-install-error-network-failure = Цей додаток не вдалося встановити через помилку файлової системи.
 addon-local-install-error-incorrect-hash = Цей додаток не вдалося встановити, тому що він не відповідає додатку, очікуваному { -brand-short-name }.
 addon-local-install-error-corrupt-file = Цей додаток не вдалося встановити, тому що він виглядає пошкодженим.
