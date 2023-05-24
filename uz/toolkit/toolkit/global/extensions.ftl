@@ -11,6 +11,8 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = { $extension } qoʻshilsinmi?
+webext-perms-header-unsigned = { $extension } qoʻshilsinmi? Bu kengaytma tekshiruvdan oʻtmagan. Zararli kengaytmalar shaxsiy maʼlumotlaringizni oʻgʻirlashi yoki kompyuteringizni buzishi mumkin. Manbaga ishonsangiz, uni qoʻshing.
+webext-perms-header-unsigned-with-perms = { $extension } qoʻshilsinmi? Bu kengaytma tekshiruvdan oʻtmagan. Zararli kengaytmalar shaxsiy maʼlumotlaringizni oʻgʻirlashi yoki kompyuteringizni buzishi mumkin. Manbaga ishonsangiz, uni qoʻshing. Kengaytma quyidagi huquqlarga ega boʻladi:
 webext-perms-sideload-header = { $extension } qo‘shildi
 webext-perms-optional-perms-header = { $extension } qoʻshimcha ruxsat soʻramoqda.
 
@@ -56,6 +58,9 @@ webext-perms-optional-perms-deny =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = { $extension } qoʻshilsinmi? Bu kengaytma { $hostname }ga quyidagi imkoniyatlarni beradi:
+webext-site-perms-header-unsigned-with-perms = { $extension } qoʻshilsinmi? Bu kengaytma tekshiruvdan oʻtmagan. Zararli kengaytmalar shaxsiy maʼlumotlaringizni oʻgʻirlashi yoki kompyuteringizni buzishi mumkin. Manbaga ishonsangiz, uni qoʻshing. Bu kengaytma { $hostname }ga quyidagi imkoniyatlarni beradi:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = MIDI qurilmalariga kirish
