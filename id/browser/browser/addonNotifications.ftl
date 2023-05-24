@@ -20,6 +20,12 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Jangan Pernah Izinkan
     .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Lanjut ke Pemasangan
+    .accesskey = L
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
