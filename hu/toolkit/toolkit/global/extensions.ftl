@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Hozzáadja: { $extension }?
+webext-perms-header-with-perms = Hozzáadja a(z) { $extension } kiegészítőt? A következőkhöz lesz engedélye:
+webext-perms-header-unsigned = Hozzáadja a(z) { $extension } kiegészítőt? A kiegészítő nem ellenőrzött. A kártékony kiegészítők ellophatják a személyes adatait, vagy veszélyeztethetik a számítógépét. Csak akkor adja hozzá ezt a kiegészítőt, ha megbízik a forrásban.
+webext-perms-header-unsigned-with-perms = Hozzáadja a(z) { $extension } kiegészítőt? A kiegészítő nem ellenőrzött. A kártékony kiegészítők ellophatják a személyes adatait, vagy veszélyeztethetik a számítógépét. Csak akkor adja hozzá ezt a kiegészítőt, ha megbízik a forrásban. A kiegészítőnek a következőkhöz lesz engedélye:
 webext-perms-sideload-header = { $extension } hozzáadva
 webext-perms-optional-perms-header = A(z) { $extension } további engedélyeket igényel.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Mégse
     .accesskey = M
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = A(z) { $extension } frissítésre került. Jóvá kell hagynia az új engedélyeket, mielőtt a frissített verzió települ. A „Mégse” megtartja a kiegészítő jelenlegi verzióját. A kiegészítőnek a következőkhöz lesz engedélye:
 webext-perms-update-accept =
     .label = Frissítés
     .accesskey = F
@@ -71,9 +77,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Ez a kiegészítő hozzáférést biztosít a(z) { $hostname } számára a MIDI-eszközeihez.
+webext-site-perms-header-with-gated-perms-midi-sysex = Ez a kiegészítő hozzáférést biztosít a(z) { $hostname } számára a MIDI-eszközeihez (SysEx támogatással).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Ezek általában bővíthető eszközök, például hangszintetizátorok, de előfordulhatnak a számítógépbe építve is.
+    
+    A weboldalak általában nem érhetnek el MIDI-eszközöket. A nem megfelelő használatuk kárt okozhat, vagy veszélyeztetheti a biztonságot.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -81,6 +96,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Hozzáadja a(z) { $extension } kiegészítőt? Ez a kiegészítő a következő lehetőségeket biztosítja a(z) { $hostname } számára:
+webext-site-perms-header-unsigned-with-perms = Hozzáadja a(z) { $extension } kiegészítőt? A kiegészítő nem ellenőrzött. A kártékony kiegészítők ellophatják a személyes adatait, vagy veszélyeztethetik a számítógépét. Csak akkor adja hozzá ezt a kiegészítőt, ha megbízik a forrásban. A kiegészítő a következő lehetőségeket biztosítja a(z) { $hostname } számára:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = MIDI eszközök elérése
+webext-site-perms-midi-sysex = MIDI eszközök elérése SysEx támogatással
