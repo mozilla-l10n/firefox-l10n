@@ -13,6 +13,7 @@ webext-perms-description-browsingData = Удаление недавней ист
 webext-perms-description-clipboardRead = Получение данных из буфера обмена
 webext-perms-description-clipboardWrite = Помещение данных в буфер обмена
 webext-perms-description-declarativeNetRequest = Блокировка содержимого на любой странице
+webext-perms-description-declarativeNetRequestFeedback = Чтение истории браузера
 webext-perms-description-devtools = Разрешение инструментам разработчика получать доступ к вашим данным в открытых вкладках
 webext-perms-description-downloads = Загрузку файлов, чтение и изменение истории загрузок браузера
 webext-perms-description-downloads-open = Открытие файлов, загруженных на ваш компьютер
