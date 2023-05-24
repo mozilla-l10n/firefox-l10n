@@ -994,8 +994,10 @@ firefox-relay-offer-why-to-use-relay = 我们安全且易用的邮箱马甲通�
 firefox-relay-offer-what-relay-provides = 发送到马甲邮箱的所有电子邮件都将转发到 <strong>{ $useremail }</strong>（除非您决定阻止它们）。
 firefox-relay-offer-legal-notice = 点击“使用马甲邮箱”，即表示您同意<label data-l10n-name="tos-url">服务条款</label>和<label data-l10n-name="privacy-url">隐私声明</label>。
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = （未验证）
 popup-notification-xpinstall-prompt-learn-more = 详细了解如何安全地安装附加组件
 
 ## Pop-up warning
