@@ -40,6 +40,12 @@ addon-downloading-and-verifying =
        *[other] Oñemboguejy ha Ojohechajey { $addonCount } moĩmbaha…
     }
 addon-download-verifying = Jehechajey
+addon-install-cancel-button =
+    .label = Heja
+    .accesskey = C
+addon-install-accept-button =
+    .label = Embojuaju
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
