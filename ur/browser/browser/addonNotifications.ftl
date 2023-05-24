@@ -7,12 +7,16 @@ xpinstall-prompt = { -brand-short-name } نے اس سائٹ کو آپ سے اپ�
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = { $host } کو ایڈ آن کو انسٹال کرنے کی اجازت دیں؟
 
 ##
 
 xpinstall-prompt-dont-allow =
     .label = اجازت مت دیں
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = کبھی اجازت نہیں دیں
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -33,6 +37,10 @@ webext-perms-update-menu-item = { $addonName } کو نئی اجازتوں کی �
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = { $name } کو حذف کریں؟
+addon-removal-abuse-report-checkbox = اس توسیع کی اطلاع{ -vendor-short-name } کو دیں
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
