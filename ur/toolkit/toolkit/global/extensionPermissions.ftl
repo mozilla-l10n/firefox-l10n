@@ -9,6 +9,7 @@
 
 webext-perms-description-clipboardRead = کلپ بورڈ سے کوائف حاصل کرے
 webext-perms-description-clipboardWrite = کلپ بورڈ میں کوائف ڈالیں
+webext-perms-description-find = تمام کھلے ٹیبس کا متن پڑھیں
 webext-perms-description-geolocation = اپنے محل وقوع تک رسائی کریں
 webext-perms-description-nativeMessaging = { -brand-short-name } کے علاوہ پروگرام کے ساتھ پیغامپیغامات کا تبادلہ کریں
 webext-perms-description-notifications = اطلاعات کی آپ کو نمائش کریں

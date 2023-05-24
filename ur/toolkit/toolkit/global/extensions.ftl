@@ -15,8 +15,14 @@ webext-perms-sideload-header = { $extension } شامل
 
 ##
 
+webext-perms-add =
+    .label = اضافہ کریں
+    .accesskey = A
 webext-perms-sideload-text = ایک اور پروگرام نے آپ کے کمپیوٹر پر add-on تنصیب کیا ہے جو آپ کے براؤزر کو متاثر کر سکتا ہے۔ براہ مہربانی اس add-on کی اجازتوں کی درخواست کا جائزہ لیں اور چنیں فعال یا منسوخ(غیر فعل چھوڑنے کے لئے)۔
 webext-perms-sideload-text-no-perms = ایک اور پروگرام نے آپ کے کمپیوٹر پر add-on تنصیب کیا ہے جو آپ کے براؤزر کو متاثر کر سکتا ہے۔ براہ مہربانی چنیں فعال یا منسوخ(غیر فعل چھوڑنے کے لئے)۔
+webext-perms-optional-perms-deny =
+    .label = انکار کریں
+    .accesskey = D
 webext-perms-host-description-all-urls = تمام ویب سائٹس کے لئے آپ کے کوائف تک رسائی
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)

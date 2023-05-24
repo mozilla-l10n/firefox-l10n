@@ -34,6 +34,9 @@ webext-perms-update-menu-item = { $addonName } کو نئی اجازتوں کی �
 ## Add-on removal warning
 
 addon-download-verifying = توثیق کر رہا ہے
+addon-install-accept-button =
+    .label = اضافہ کریں
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
