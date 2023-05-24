@@ -34,6 +34,10 @@ webext-perms-update-menu-item = { $addonName } သည် ခွင့်ပြ�
 ## Add-on removal warning
 
 # Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name }မှ { $name } ကို ပယ်ဖျက်ချင်ပါသလား?
+addon-removal-button = ပယ်ဖျက်ပါ
+# Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = အက်အွန် { $addonCount } ခုကို ရယူပြီး အတည်ပြုနေသည်…
 addon-download-verifying = စစ်ဆေးအတည်ပြုနေသည်။
