@@ -15,6 +15,9 @@
 
 ##
 
+xpinstall-disabled-button =
+    .label = បើក
+    .accesskey = n
 
 ## Add-on removal warning
 
