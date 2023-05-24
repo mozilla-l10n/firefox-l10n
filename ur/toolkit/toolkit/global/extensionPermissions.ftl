@@ -16,4 +16,5 @@ webext-perms-description-nativeMessaging = { -brand-short-name } کے علاوہ
 webext-perms-description-notifications = اطلاعات کی آپ کو نمائش کریں
 webext-perms-description-sessions = حالیہ بند کی گئی ٹیبیں تک رسائی
 webext-perms-description-tabs = براؤزر کے ٹیب کی رسائی
+webext-perms-description-tabHide = برائوزر ٹیبس دیکھائیں اور چھپائیں
 webext-perms-description-webNavigation = گشت کاری کے دوران برائزر کی سرگرمی کی رسائی

@@ -21,6 +21,7 @@ webext-perms-add =
     .accesskey = A
 webext-perms-sideload-text = ایک اور پروگرام نے آپ کے کمپیوٹر پر add-on تنصیب کیا ہے جو آپ کے براؤزر کو متاثر کر سکتا ہے۔ براہ مہربانی اس add-on کی اجازتوں کی درخواست کا جائزہ لیں اور چنیں فعال یا منسوخ(غیر فعل چھوڑنے کے لئے)۔
 webext-perms-sideload-text-no-perms = ایک اور پروگرام نے آپ کے کمپیوٹر پر add-on تنصیب کیا ہے جو آپ کے براؤزر کو متاثر کر سکتا ہے۔ براہ مہربانی چنیں فعال یا منسوخ(غیر فعل چھوڑنے کے لئے)۔
+webext-perms-optional-perms-list-intro = وہ کرنا چاہتا ہے:
 webext-perms-optional-perms-deny =
     .label = انکار کریں
     .accesskey = D
