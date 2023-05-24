@@ -14,6 +14,7 @@ webext-perms-description-downloads-open = Άνοιγμα ληφθέντων αρ
 webext-perms-description-find = Ανάγνωση κειμένου από όλες τις ανοικτές καρτέλες
 webext-perms-description-geolocation = Πρόσβαση στην τοποθεσία σας
 webext-perms-description-history = Πρόσβαση στο ιστορικό περιήγησης
+webext-perms-description-management = Εποπτεία χρήσης επεκτάσεων και διαχείριση θεμάτων
 webext-perms-description-nativeMessaging = Ανταλλαγή μηνυμάτων με προγράμματα εκτός του { -brand-short-name }
 webext-perms-description-notifications = Εμφάνιση ειδοποιήσεων σε εσάς
 webext-perms-description-privacy = Ανάγνωση και τροποποίηση ρυθμίσεων απορρήτου
