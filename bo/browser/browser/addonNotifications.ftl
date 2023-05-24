@@ -51,7 +51,6 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
-addon-confirm-install-unsigned-message = Caution: This site would like to install an unverified add-on in { -brand-short-name }. Proceed at your own risk.
 
 ## Add-on install errors
 ## Variables:
