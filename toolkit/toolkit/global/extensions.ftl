@@ -76,3 +76,5 @@ webext-perms-host-description-too-many-sites = เข้าถึงข้อม
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = เข้าถึงอุปกรณ์ MIDI
+webext-site-perms-midi-sysex = เข้าถึงอุปกรณ์ MIDI พร้อมการสนับสนุน SysEx

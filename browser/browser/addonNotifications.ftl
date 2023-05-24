@@ -28,6 +28,8 @@ xpinstall-disabled = การติดตั้งซอฟต์แวร์�
 xpinstall-disabled-button =
     .label = เปิดใช้งาน
     .accesskey = ป
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = ผู้ดูแลระบบของคุณได้ป้องกันไม่ให้ไซต์นี้ขอคุณเพื่อติดตั้งซอฟต์แวร์ลงในคอมพิวเตอร์ของคุณ
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ต้องการสิทธิอนุญาตใหม่
@@ -52,6 +54,7 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message = ไซต์นี้ต้องการติดตั้ง { $addonCount } ส่วนเสริมใน { -brand-short-name }:
 addon-confirm-install-unsigned-message = ข้อควรระวัง: ไซต์นี้ต้องการติดตั้ง { $addonCount } ส่วนเสริมที่ไม่ได้รับการยืนยันใน { -brand-short-name } ดำเนินการต่อโดยรับความเสี่ยงของคุณเอง
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
