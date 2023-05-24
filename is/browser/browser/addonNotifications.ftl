@@ -7,9 +7,11 @@ xpinstall-prompt = { -brand-short-name } kom í veg fyrir að vefsvæðið gæti
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Leyfa { $host } að setja inn viðbót?
 
 ##
 
+xpinstall-prompt-header-unknown = Leyfa óþekktum vef að setja inn viðbót?
 xpinstall-prompt-dont-allow =
     .label = Ekki leyfa
     .accesskey = D
