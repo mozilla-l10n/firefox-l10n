@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } ha privau que iste puesto web le demand
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = No permitir-lo
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -18,6 +21,15 @@ xpinstall-prompt = { -brand-short-name } ha privau que iste puesto web le demand
 
 xpinstall-disabled-locked = A instalación de software ha estau desactivada por l'administrador d'o suyo sistema.
 xpinstall-disabled = A instalación de software ye actualment desactivada. Prete Activar y torne-lo a prebar.
+xpinstall-disabled-button =
+    .label = Activar
+    .accesskey = H
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } s'ha anyadiu a { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } requiere nuevos permisos
 
 ## Add-on removal warning
 
@@ -29,6 +41,12 @@ addon-downloading-and-verifying =
        *[other] Se son baixando y verificando { $addonCount } complementos…
     }
 addon-download-verifying = Se ye verificando
+addon-install-cancel-button =
+    .label = Cancelar
+    .accesskey = C
+addon-install-accept-button =
+    .label = Anyader
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
