@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = أتريد إضافة { $extension }؟
+webext-perms-header-with-perms = أتريد إضافة { $extension }؟ لهذا الامتداد تصريح:
+webext-perms-header-unsigned = أتريد إضافة { $extension }؟ لم يُتحقق من هذا الامتداد. تستطيع الامتدادات الخبيثة سرقة بيانات الخاصة أو تعريض حاسوبك للخطر. لا تُضفه إلا إن كنت تثق في مصدره.
+webext-perms-header-unsigned-with-perms = أتريد إضافة { $extension }؟ لم يُتحقق من هذا الامتداد. تستطيع الامتدادات الخبيثة سرقة بيانات الخاصة أو تعريض حاسوبك للخطر. لا تُضفه إلا إن كنت تثق في مصدره. لهذا الامتداد تصريح:
 webext-perms-sideload-header = أُضيف { $extension }
 webext-perms-optional-perms-header = يطلب { $extension } صلاحيات إضافية.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ألغِ
     .accesskey = ل
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = حُدّث { $extension }. يجب عليك الموافقة على الصلاحيات الجديدة لتنصيب النسخة المحدّثة. اختيار الإلغاء سيُبقي النسخة الحالية من الامتداد. لهذا الامتداد تصريح:
 webext-perms-update-accept =
     .label = حدّث
     .accesskey = ح
@@ -87,6 +93,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = أتريد إضافة { $extension }؟ سيمنح هذا الامتداد الموقع { $hostname } الميزات الآتية:
+webext-site-perms-header-unsigned-with-perms = أتريد إضافة { $extension }؟ لم يُتحقق من هذا الامتداد. تستطيع الامتدادات الخبيثة سرقة بيانات الخاصة أو تعريض حاسوبك للخطر. لا تُضفه إلا إن كنت تثق في مصدره. سيمنح هذا الامتداد الموقع { $hostname } الميزات الآتية:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = الوصول إلى أجهزة MIDI
+webext-site-perms-midi-sysex = الوصول إلى أجهزة MIDI التي تدعم SysEx
