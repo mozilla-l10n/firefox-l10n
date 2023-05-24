@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } je spriječio ovu stranicu da vas pita 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Dozvoli da { $host } instalira add-on?
+xpinstall-prompt-message = Pokušavate instalirati add-on sa { $host }. Provjerite da li vjerujete ovoj stranici prije nastavka.
 
 ##
 
+xpinstall-prompt-header-unknown = Dozvoliti nepoznatoj stranici da instalira add-on?
+xpinstall-prompt-message-unknown = Pokušavate instalirati add-on sa nepoznate stranice. Provjerite da li vjerujete ovoj stranici prije nastavka.
 xpinstall-prompt-dont-allow =
     .label = Nemoj dozvoliti
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Nikad ne dozvoli
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Nastavi ka instalaciji
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,12 +37,25 @@ xpinstall-disabled = Instalacija sotvera je trenutno onemogućena. Pritisnite Do
 xpinstall-disabled-button =
     .label = Omogući
     .accesskey = O
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) je blokiran od strane vašeg sistemskog administratora.
+addon-install-full-screen-blocked = Instalacija add-ona nije dozvoljena za vrijeme ili prije ulaska u fullscreen režim.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } je dodan u { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } traži nove dozvole
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Ukloniti { $name } iz { -brand-shorter-name }?
+addon-removal-button = Ukloni
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
