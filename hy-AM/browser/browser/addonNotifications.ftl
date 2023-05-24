@@ -53,9 +53,13 @@ webext-perms-update-menu-item = { $addonName }-ը պահանջում է նոր �
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Հեռացնե՞լ { $name }-ը:
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Հեռացնե՞լ { $name } ֊ը { -brand-shorter-name } ֊ից։
 addon-removal-button = Հեռացնել
+addon-removal-abuse-report-checkbox = Զեկուցեք այս ընդլայնման մասին { -vendor-short-name }-ին
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -84,6 +88,9 @@ addon-confirm-install-unsigned-message =
         [one] Ուշադրություն. Այս կայքը ցանկանում է տեղադրել չստուգված հավելում { -brand-short-name }-ում: Վարվեք ըստ սեփական հայեցողության:
        *[other] Ուշադրություն. Այս կայքը ցանկանում է տեղադրել { $addonCount } չստուգված հավելումներ { -brand-short-name }-ում: Վարվեք ըստ սեփական հայեցողության:
     }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Ուշադրություն. Այս կայքը ցանկանում է տեղադրել { $addonCount } հավելումներ { -brand-short-name }-ում, որոնց մի մաստ ստուգված չէ: Վարվեք ըստ սեփական հայեցողության:
 
 ## Add-on install errors
 ## Variables:
