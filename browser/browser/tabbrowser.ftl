@@ -151,6 +151,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Укључи звук картица
     .accesskey = о
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Репродукција звука
 
 ## Ctrl-Tab dialog
 
