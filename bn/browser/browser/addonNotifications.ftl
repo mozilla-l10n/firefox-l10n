@@ -12,10 +12,14 @@ xpinstall-prompt-message = আপনি { $host } থেকে অ্যাড-�
 
 ##
 
+xpinstall-prompt-header-unknown = কোনও অজানা সাইটকে একটি অ্যাড-অন ইনস্টল করার অনুমতি দিবেন?
 xpinstall-prompt-message-unknown = আপনি অজানা সাইট থেকে একটি অ্যাড-অন ইনস্টল করার চেষ্টা করছেন। চালিয়ে যাওয়ার আগে নিশ্চিত করুন যে আপনি এই সাইটে আস্থা রেখেছেন।
 xpinstall-prompt-dont-allow =
     .label = অনুমোদন করো না
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = কখনও অনুমতি দেবেন না
+    .accesskey = N
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
