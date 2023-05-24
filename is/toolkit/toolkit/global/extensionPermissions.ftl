@@ -9,6 +9,9 @@
 
 webext-perms-description-bookmarks = Skoða og breyta bókamerkjum
 webext-perms-description-browserSettings = Lesa og breyta vafrastillingum
+webext-perms-description-devtools = Veita tækjatólum þróara aðgang að gögnum þínum í opnum flipum
+webext-perms-description-downloads-open = Opna skrár sem hafa verið niðurhalaðar
+webext-perms-description-find = Lesa texta á öllum flipum
 webext-perms-description-geolocation = Aðgang að staðsetningu
 webext-perms-description-management = Fylgjast með notkun á viðbótum og sýsla með þemu
 webext-perms-description-nativeMessaging = Deila skilaboðum með öðrum forritum en { -brand-short-name }
