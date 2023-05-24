@@ -68,6 +68,7 @@ addon-removal-title = { $name } ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { -brand-shorter-name } ᱠᱷᱚᱱ { $name } ᱚᱪᱚᱜᱽᱟᱢ ᱥᱮ ?
 addon-removal-button = ᱚᱪᱚᱜᱽ ᱢᱮ
+addon-removal-abuse-report-checkbox = ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱫᱚ { -vendor-short-name } ᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -110,6 +111,7 @@ addon-install-error-corrupt-file = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱟ
 addon-install-error-file-access = { $addonName } ᱫᱚ ᱵᱚᱦᱟᱞ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ { -brand-short-name } ᱫᱚ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱨᱮᱫ ᱵᱚᱫᱚᱞ ᱵᱟᱭ ᱜᱟᱱ ᱪᱷᱚ ᱞᱮᱫᱟᱭ ᱾
 addon-install-error-not-signed = { -brand-short-name } ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱠᱷᱚᱱ ᱵᱟᱝ ᱯᱩᱥᱴᱟᱹᱣ ᱟᱠᱟᱱ ᱮᱰ-ᱳᱱ ᱵᱚᱦᱟᱞ ᱢᱟᱱᱟ ᱠᱮᱫᱮᱭᱟᱭ ᱾
 addon-install-error-invalid-domain = ᱱᱚᱣᱟ ᱴᱷᱟᱶ ᱠᱷᱚᱱ { $addonName } ᱮᱰᱼᱚᱱ ᱫᱚ ᱵᱚᱦᱟᱞ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱾
+addon-local-install-error-network-failure = ᱱᱚᱶᱟ ᱮᱰᱼᱚᱱ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱨᱮᱫ ᱥᱭᱥᱴᱚᱢ ᱨᱮ ᱵᱷᱩᱞ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 addon-local-install-error-incorrect-hash = ᱱᱚᱶᱟ ᱮᱰ-ᱚᱱ ᱫᱚ ᱵᱟᱭ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱮᱰ-ᱚᱱ { -brand-short-name } ᱥᱟᱶ ᱡᱩᱲᱟᱹᱭ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
 addon-local-install-error-corrupt-file = ᱱᱚᱣᱟ ᱮᱰ-ᱚᱱ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱱᱚᱣᱟ ᱨᱟᱹᱯᱩᱫ ᱜᱮ ᱧᱮᱞᱚᱠ ᱠᱟᱱᱟ ᱾
 addon-local-install-error-file-access = { $addonName } ᱫᱚ ᱵᱚᱦᱟᱞ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ { -brand-short-name } ᱫᱚ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱨᱮᱫ ᱵᱚᱫᱚᱞ ᱵᱟᱭ ᱜᱟᱱ ᱪᱷᱚ ᱞᱮᱫᱟᱭ ᱾
