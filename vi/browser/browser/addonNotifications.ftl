@@ -46,6 +46,11 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message = Trang này muốn cài đặt { $addonCount } tiện ích vào { -brand-short-name }:
+addon-confirm-install-unsigned-message = Chú ý: Trang này muốn cài đặt { $addonCount } tiện ích chưa được kiểm định vào { -brand-short-name }. Chúng tôi không chịu trách nhiệm về những vấn đề có thể xảy ra.
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Chú ý: Trang này muốn cài đặt { $addonCount } tiện ích vào { -brand-short-name }, một số trong đó chưa được kiểm định. Chúng tôi không chịu trách nhiệm về những vấn đề có thể xảy ra.
 
 ## Add-on install errors
 ## Variables:
