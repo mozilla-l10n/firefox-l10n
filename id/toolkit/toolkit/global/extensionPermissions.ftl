@@ -13,6 +13,7 @@ webext-perms-description-browsingData = Bersihkan riwayat penjelajahan terkini, 
 webext-perms-description-clipboardRead = Mendapatkan data dari papan klip
 webext-perms-description-clipboardWrite = Memasukkan data ke papan klip
 webext-perms-description-declarativeNetRequest = Blokir konten di laman mana pun
+webext-perms-description-declarativeNetRequestFeedback = Membaca riwayat penjelajahan Anda
 webext-perms-description-devtools = Perlebar alat pengembang untuk mengakses data Anda di tab yang terbuka
 webext-perms-description-downloads = Mengunduh berkas serta membaca dan mengubah riwayat unduhan peramban
 webext-perms-description-downloads-open = Buka berkas yang sudah diunduh ke komputer Anda

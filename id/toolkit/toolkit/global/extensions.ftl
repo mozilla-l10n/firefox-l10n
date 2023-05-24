@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Tambahkan { $extension }?
+webext-perms-header-with-perms = Tambahkan { $extension }? Ekstensi ini akan memiliki izin untuk:
+webext-perms-header-unsigned = Tambahkan { $extension }? Ekstensi ini tidak diverifikasi. Ekstensi berbahaya dapat mencuri informasi pribadi Anda atau membahayakan komputer Anda. Hanya tambahkan ekstensi ini jika Anda percaya sumbernya.
+webext-perms-header-unsigned-with-perms = Tambahkan { $extension }? Ekstensi ini tidak diverifikasi. Ekstensi berbahaya dapat mencuri informasi pribadi Anda atau membahayakan komputer Anda. Hanya tambahkan ekstensi ini jika Anda percaya sumbernya. Ekstensi ini akan memiliki izin untuk:
 webext-perms-sideload-header = { $extension } ditambahkan
 webext-perms-optional-perms-header = { $extension } meminta izin tambahan.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Batal
     .accesskey = B
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } telah diperbarui. Anda harus menyetujui izin barunya sebelum dapat memasang versi terbaru. Dengan memilih “Batal” maka ekstensi versi Anda saat ini akan dipertahankan. Ektstensi ini akan memiliki izin untuk:
 webext-perms-update-accept =
     .label = Perbarui
     .accesskey = P
@@ -64,6 +70,7 @@ webext-perms-host-description-too-many-sites = Mengakses data Anda pada { $domai
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
 webext-site-perms-header-with-gated-perms-midi = Pengaya ini memberikan akses kepada { $hostname } ke perangkat MIDI Anda.
+webext-site-perms-header-with-gated-perms-midi-sysex = Pengaya ini memberikan akses kepada { $hostname } ke perangkat MIDI Anda (dengan dukungan SysEx).
 
 ##
 
@@ -74,6 +81,10 @@ webext-site-perms-header-with-gated-perms-midi = Pengaya ini memberikan akses ke
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Tambahkan { $extension }? Ekstensi ini memberikan kemampuan berikut untuk { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Tambahkan { $extension }? Ekstensi ini belum diverifikasi. Ekstensi yang berbahaya dapat mencuri informasi pribadi Anda atau membahayakan komputer Anda. Hanya tambahkan jika Anda mempercayai sumbernya. Ekstensi ini memberikan kemampuan berikut untuk { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Akses perangkat MIDI
+webext-site-perms-midi-sysex = Akses perangkat MIDI dengan dukungan SysEx
