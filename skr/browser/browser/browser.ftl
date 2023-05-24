@@ -998,8 +998,10 @@ firefox-relay-offer-what-relay-does = اساں <strong>{ $sitename }</strong> ک
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (غیر تصدیق شدہ)
 popup-notification-xpinstall-prompt-learn-more = محفوظ طریقے نال ایڈ آنز انسٹال کرݨ بارے مزید سکھو۔
 
 ## Pop-up warning
