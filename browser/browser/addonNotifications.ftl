@@ -44,6 +44,9 @@ addon-download-verifying = Verifica in corso
 addon-install-cancel-button =
     .label = Anulla
     .accesskey = A
+addon-install-accept-button =
+    .label = Azonzi
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
