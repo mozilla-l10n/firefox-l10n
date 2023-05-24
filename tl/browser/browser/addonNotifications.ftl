@@ -9,12 +9,19 @@
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Huwag Pahintulutan
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 
 ##
 
+xpinstall-disabled-locked = Ang pag-install ng software ay hindi pinagana ng iyong system administrator.
+xpinstall-disabled-button =
+    .label = Paganahin
+    .accesskey = n
 
 ## Add-on removal warning
 

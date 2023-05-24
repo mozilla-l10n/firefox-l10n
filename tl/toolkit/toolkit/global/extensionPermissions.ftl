@@ -7,4 +7,6 @@
 ## Permissions for which the message has been changed and the key updated
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
+webext-perms-description-bookmarks = Basahin at baguhin ang mga bookmark
+webext-perms-description-clipboardWrite = Magpasok ng data sa clipboard
 webext-perms-description-geolocation = I-access ang iyong lokasyon

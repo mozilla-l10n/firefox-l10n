@@ -13,6 +13,27 @@
 
 ##
 
+webext-perms-add =
+    .label = Idagdag
+    .accesskey = A
+webext-perms-cancel =
+    .label = Kanselahin
+    .accesskey = C
+webext-perms-sideload-enable =
+    .label = Enable
+    .accesskey = E
+webext-perms-sideload-cancel =
+    .label = Kanselahin
+    .accesskey = C
+webext-perms-update-accept =
+    .label = Pagbabago
+    .accesskey = U
+webext-perms-optional-perms-allow =
+    .label = Payagan
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = Tanggihan
+    .accesskey = D
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = i-Access ang iyong data para sa mga site sa { $domain } domain
