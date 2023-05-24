@@ -42,6 +42,8 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) er blokeret af din system-administrator.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Din systemadministrator har forhindret dette websted i at spørge dig om lov til at installere software på din computer.
 addon-install-full-screen-blocked = Installation af tilføjelser er ikke tilladt i fuldskærms-tilstand eller ved aktivering af fuldskærms-tilstand.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -53,9 +55,13 @@ webext-perms-update-menu-item = { $addonName } kræver nye tilladelser
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Fjern { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Fjern { $name } fra { -brand-shorter-name }?
 addon-removal-button = Fjern
+addon-removal-abuse-report-checkbox = Rapporter denne udvidelse til { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -67,6 +73,9 @@ addon-download-verifying = Verificerer
 addon-install-cancel-button =
     .label = Afbryd
     .accesskey = A
+addon-install-accept-button =
+    .label = Tilføj
+    .accesskey = T
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed

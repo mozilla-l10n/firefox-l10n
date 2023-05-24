@@ -11,7 +11,10 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Tilføj { $extension }?
+webext-perms-header-with-perms = Tilføj { $extension }? Denne udvidelse vil have tilladelse til at:
+webext-perms-header-unsigned-with-perms = Tilføj { $extension }? Denne udvidelse er ikke verificeret. Ondsindede udvidelser kan stjæle dine personlige oplysninger eller bringe din computer i fare. Tilføj kun udvidelsen, hvis du stoler på udvikleren bag. Denne udvidelse vil have tilladelse til at:
 webext-perms-sideload-header = { $extension } tilføjet
+webext-perms-optional-perms-header = { $extension } kræver yderligere tilladelser.
 
 ##
 
@@ -29,10 +32,19 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Fortryd
     .accesskey = F
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } er blevet opdateret. Du skal godkende nye tilladelser, før den opdaterede version bliver installeret. Hvis du vælger "Annuller", så beholder du den nuværende version af udvidelsen. Denne udvidelse vil have tilladelse til at:
 webext-perms-update-accept =
     .label = Opdater
     .accesskey = O
 webext-perms-optional-perms-list-intro = Den vil:
+webext-perms-optional-perms-allow =
+    .label = Tillad
+    .accesskey = T
+webext-perms-optional-perms-deny =
+    .label = Afvis
+    .accesskey = A
 webext-perms-host-description-all-urls = Tilgå dine data for alle websteder
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
@@ -74,6 +86,7 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-unsigned-with-perms = Vil du tilføje { $extension }? Denne udvidelse er ikke verificeret. Ondsindede udvidelser kan stjæle dine personlige oplysninger eller kompromittere din computer. Tilføj den kun, hvis du stoler på ophavsmanden. Udvidelsen tilføjer følgende funktioner til { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
