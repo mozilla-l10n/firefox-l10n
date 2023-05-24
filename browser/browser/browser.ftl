@@ -1013,6 +1013,10 @@ firefox-relay-offer-what-relay-does = Проследићемо све е-пор�
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Наше безбедне и једноставне маске сакривају вашу адресу е-поште и тако штите ваш идентитет и спречавају нежељену пошту.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Све поруке послане на ваш маску е-поште биће прослеђене на <strong>{ $useremail }</strong>, осим ако не одлучите да их блокирате.
 
 ## Add-on Pop-up Notifications
 
