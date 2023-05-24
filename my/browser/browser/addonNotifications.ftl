@@ -10,6 +10,9 @@ xpinstall-prompt = သင့်ကွန်ပျူတာတွင် ဆော
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = ခွင့်မပြုပါနှင့်
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -21,14 +24,30 @@ xpinstall-disabled = ဆော့ဖ်ဝဲထည့်သွင်းမှ�
 xpinstall-disabled-button =
     .label = လုပ်ဆောင်နိုင်စေမည်။
     .accesskey = n
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } ကို { -brand-short-name } သို့ ထည့်ထားသည်
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } သည် ခွင့်ပြုချက်အသစ်များ လိုအပ်သည်
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying = အက်အွန် { $addonCount } ခုကို ရယူပြီး အတည်ပြုနေသည်…
 addon-download-verifying = စစ်ဆေးအတည်ပြုနေသည်။
+addon-install-cancel-button =
+    .label = မလုပ်ဆောင်တော့ပါ
+    .accesskey = C
+addon-install-accept-button =
+    .label = ပေါင်းထည့်ရန်
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message = ဒီဆိုက်သည် { -brand-short-name } ထံမှ အက်အွန် { $addonCount } ခုကို တပ်ဆင်လိုသည်။
 addon-confirm-install-unsigned-message = သတိ။ ဒီဆိုက်သည် { -brand-short-name }က အတည်မပြုရသေးသည့် အက်အွန်တစ်ခုကို တပ်ဆင်လိုသည်။ သင်တာဝန်ယူနိုင်လျှင် ဆောင်ရွက်နိုင်သည်။
 
 ## Add-on install errors
