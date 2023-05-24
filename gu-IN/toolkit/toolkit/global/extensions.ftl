@@ -10,6 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = { $extension } ઉમેરીએ?
 webext-perms-sideload-header = { $extension } ઉમેરી
 webext-perms-optional-perms-header = { $extension } એ અતિરિક્ત પરવાનગીઓની વિનંતી કરી છે.
 
