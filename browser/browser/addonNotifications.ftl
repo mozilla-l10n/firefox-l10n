@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } har förhindrat den här hemsidan från
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-message = Du försöker installera ett tillägg från { $host }. Se till att du litar på den här webbplatsen innan du fortsätter.
 
 ##
 
+xpinstall-prompt-header-unknown = Tillåt en okänd webbplats att installera ett tillägg?
+xpinstall-prompt-message-unknown = Du försöker installera ett tillägg från en okänd webbplats. Se till att du litar på den här webbplatsen innan du fortsätter.
+xpinstall-prompt-dont-allow =
+    .label = Tillåt inte
+    .accesskey = n
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Rapportera misstänkt webbplats
+    .accesskey = R
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Den här webbplatsen begär åtkomst till dina MIDI-enheter (Musical Instrument Digital Interface). Enhetsåtkomst kan aktiveras genom att installera ett tillägg.
+site-permission-install-first-prompt-midi-message = Denna åtkomst är inte garanterad säker. Fortsätt bara om du litar på den här webbplatsen.
 
 ##
 
@@ -21,9 +34,27 @@ xpinstall-disabled = Programvaruinstallationer är för närvarande inaktiverade
 xpinstall-disabled-button =
     .label = Aktivera
     .accesskey = A
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) blockeras av din systemadministratör.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Din systemadministratör förhindrade den här webbplatsen från att be dig installera programvara på din dator.
+addon-install-full-screen-blocked = Tilläggsinstallation är inte tillåten när den är i eller innan fullskärmsläge.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } har lagts till { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } kräver nya behörigheter
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Ta bort { $name }?
+addon-removal-abuse-report-checkbox = Rapportera detta tillägg till { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -35,6 +66,9 @@ addon-download-verifying = Verifierar
 addon-install-cancel-button =
     .label = Avbryt
     .accesskey = A
+addon-install-accept-button =
+    .label = Lägg till
+    .accesskey = L
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -62,6 +96,7 @@ addon-install-error-incorrect-hash = Tillägget kunde inte installeras eftersom 
 addon-install-error-corrupt-file = Tillägget som hämtades från denna sidan kunde inte installeras eftersom det verkar som filen har blivit korrupt.
 addon-install-error-file-access = { $addonName } kunde inte installeras eftersom { -brand-short-name } inte kan modifiera den nödvändiga filen.
 addon-install-error-not-signed = { -brand-short-name } har hindrat den här webbplatsen från att installera ett overifierat tillägg.
+addon-install-error-invalid-domain = Tillägget { $addonName } kan inte installeras från den här platsen.
 addon-local-install-error-network-failure = Tillägget kunde inte installeras på grund av ett fel i filsystemet.
 addon-local-install-error-incorrect-hash = Tillägget kunde inte installeras eftersom det inte matchar tillägget som { -brand-short-name } förväntade sig.
 addon-local-install-error-corrupt-file = Tillägget kunde inte installeras eftersom det verkar vara trasigt.
