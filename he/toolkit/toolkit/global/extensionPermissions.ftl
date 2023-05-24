@@ -25,5 +25,6 @@ webext-perms-description-privacy = קריאה ועריכה של הגדרות פ�
 webext-perms-description-proxy = שליטה בהגדרות המתווך של הדפדפן
 webext-perms-description-sessions = גישה ללשוניות שנסגרו לאחרונה
 webext-perms-description-tabs = גישה ללשוניות
+webext-perms-description-tabHide = הסתרה והצגת לשוניות הדפדפן
 webext-perms-description-topSites = גישה להיסטוריית הגלישה
 webext-perms-description-webNavigation = גישה לפעילות הדפדפן במהלך הניווט

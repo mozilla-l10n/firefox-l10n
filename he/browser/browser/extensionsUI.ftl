@@ -7,3 +7,9 @@
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
 webext-default-search-description = ההרחבה { $addonName } מבקשת לשנות את מנוע חיפוש ברירת המחדל שלך מ־{ $currentEngine } ל־{ $newEngine }. האם זה בסדר מבחינתך?
+webext-default-search-yes =
+    .label = כן
+    .accesskey = כ
+webext-default-search-no =
+    .label = לא
+    .accesskey = ל
