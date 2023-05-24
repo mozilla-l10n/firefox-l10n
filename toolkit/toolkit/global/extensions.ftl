@@ -11,6 +11,7 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Додати { $extension }?
+webext-perms-optional-perms-header = { $extension } захтева додатне дозволе.
 
 ##
 
@@ -26,6 +27,12 @@ webext-perms-sideload-enable =
 webext-perms-update-accept =
     .label = Ажурирај
     .accesskey = А
+webext-perms-optional-perms-allow =
+    .label = Дозволи
+    .accesskey = Д
+webext-perms-optional-perms-deny =
+    .label = Одбиј
+    .accesskey = О
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
