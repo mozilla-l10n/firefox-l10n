@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Sottitui
     .tooltip = Sottitui
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Plen visôr
+    .tooltip = Plen schermi (dopli-clic o { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Jes dal plen visôr
+    .tooltip = Jes dal plen schermi (dopli-clic o { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Jes di Plen visôr
     .tooltip = Jes de modalitât a plen visôr (dopli clic)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Indaûr
     .tooltip = Indaûr (←)
