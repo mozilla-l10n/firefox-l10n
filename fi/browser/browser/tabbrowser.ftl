@@ -135,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Palauta ääni välilehtiin
     .accesskey = ä
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Toistaa ääntä
 
 ## Ctrl-Tab dialog
 
