@@ -79,11 +79,6 @@ addon-confirm-install-message =
         [one] Huin rua sitio na dugutu a'ngo complement { -brand-short-name }:
        *[other] Sitio na huin rua dugutuj { $addonCount } nej komplemento riña { -brand-short-name }:
     }
-addon-confirm-install-unsigned-message =
-    { $addonCount ->
-        [one] Gadadut: Sitio na huin rua dugutuj 'ngo komplemento nuni'in' riña { -brand-short-name }. Ni'iaj din' ahī hua ma.
-       *[other] Gadadut: Sitio na huin rua dugutuj 'ngo komplemento nuni'in' riña { -brand-short-name }. Ni'iaj din' ahī hua ma.
-    }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message = Gadadut: Sitio na huin rua dugutuj 'ngo komplemento nuni'in' riña { $addonCount } nuta' komplemento { -brand-short-name }, notam si yitïnj hua ma. Ni'iaj din' ahī hua ma.
