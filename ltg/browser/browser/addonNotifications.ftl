@@ -33,6 +33,14 @@ webext-perms-update-menu-item = { $addonName } requires new permissions
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [zero] Īlōdej un porbauda atjaunynōjumu…
+        [one] Īlōdej un porbauda { $addonCount } atjaunynōjumu…
+       *[other] Īlōdej un porbauda { $addonCount } atjaunynōjumus…
+    }
 addon-download-verifying = Verifying
 addon-install-cancel-button =
     .label = Cancel
@@ -44,6 +52,25 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message =
+    { $addonCount ->
+        [zero] Lopa grib īinstalēt { $addonCount } papyldynōjumus { -brand-short-name }:
+        [one] Lopa grib īinstalēt { $addonCount } papyldynōjumu { -brand-short-name }:
+       *[other] Lopa grib īinstalēt { $addonCount } papyldynōjumus { -brand-short-name }:
+    }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [zero] Uzmaneibu: Itei lopa grib uzlikt { $addonCount } naporbaudeitus papyldinojumus { -brand-short-name }. Turpynoj uzajemut pylnu atbiļdeibu..
+        [one] Uzmaneibu: Itei lopa grib uzlikt naporbaudeitu papyldinojumu { -brand-short-name }. Turpynoj uzajemut pylnu atbiļdeibu.
+       *[other] Uzmaneibu: Itei lopa grib uzlikt { $addonCount } naporbaudeitus papyldinojumus { -brand-short-name }. Turpynoj uzajemut pylnu atbiļdeibu.
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message =
+    { $addonCount ->
+        [one] Uzmaneibu: Itei lopa grib uzlikt { $addonCount } naporbaudeitus papyldinojumus { -brand-short-name }. Turpynoj uzajemut pylnu atbiļdeibu.
+       *[other] Uzmaneibu: Itei lopa grib uzlikt { $addonCount } naporbaudeitus papyldinojumus { -brand-short-name }. Turpynoj uzajemut pylnu atbiļdeibu.
+    }
 
 ## Add-on install errors
 ## Variables:

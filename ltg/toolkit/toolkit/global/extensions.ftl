@@ -40,6 +40,31 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Deny
     .accesskey = D
+webext-perms-host-description-all-urls = Pīeja vysai informacejai vysōs lopōs
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Pīeja tovim datim lopōs nu { $domain } domena
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [zero] Pīeja tovim datim { $domainCount } cytūs domenūs
+        [one] Pīeja tovim datim { $domainCount } cytā domenā
+       *[other] Pīeja tovim datim { $domainCount } cytūs domenūs
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Pīeja tovim datim nu { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [zero] Pīeja tovim datim { $domainCount } cytōs lopōs
+        [one] Pīeja tovim datim { $domainCount } cytā lopā
+       *[other] Pīeja tovim datim { $domainCount } cytōs lopōs
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
