@@ -21,6 +21,8 @@ psmerr-ssl2-disabled = ᱡᱟᱹᱯᱛᱤ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱭ ᱡᱚᱲ
 psmerr-hostreusedissuerandserial =
     ᱟᱢ ᱢᱤᱫ ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱢᱟᱯ ᱮᱢ ᱧᱟᱢ ᱟᱠᱟᱫᱟ ᱥᱟᱹᱨᱵᱟᱹᱨ ᱥᱟᱥᱚᱱᱤᱡ ᱟᱨ ᱵᱟᱝ ᱤ-ᱢᱮᱞ ᱨᱚᱲ ᱨᱩᱣᱟᱲᱤᱡ ᱥᱚᱢᱚᱯᱚᱨᱠ ᱮᱢ ᱟᱨ ᱩᱱᱠᱩ ᱱᱚᱶᱟ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱠᱚ ᱮᱢᱟᱠᱚᱢ :
     ᱟᱢᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱨᱮ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ ᱫᱟᱨᱟᱭ ᱛᱮ ᱮᱴᱟᱜᱟᱜ ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢ ᱞᱮᱠᱟᱛᱮ ᱥᱚᱢᱟᱱ ᱛᱤᱨᱭᱟᱹᱣ ᱞᱮᱠᱷᱟ ᱢᱮᱱᱟᱜ ᱟ ᱢᱤᱫ ᱵᱷᱮᱜᱟᱨ ᱛᱤᱨᱭᱟᱹᱣ ᱞᱮᱠᱷᱟ ᱛᱟᱦᱮᱸᱱ ᱢᱤᱫ ᱱᱟᱶᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱟᱢ ᱢᱮ ᱾
+ssl-error-export-only-server = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾ ᱯᱤᱭᱚᱨ ᱫᱚ ᱦᱟᱭ ᱜᱽᱨᱮᱰ ᱫᱟᱱᱟᱝᱟᱜ ᱵᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+ssl-error-us-only-server = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾ ᱯᱤᱭᱚᱨ ᱫᱚ ᱦᱟᱭ ᱜᱽᱨᱮᱰ ᱫᱟᱱᱟᱝᱟᱜ ᱫᱚᱨᱠᱟᱨ ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱟᱭ ᱥᱟᱹᱯᱚᱴ ᱠᱟᱱᱟ ᱾
 ssl-error-no-cypher-overlap = ᱡᱚᱲ ᱥᱟᱶ ᱡᱟᱯᱛᱤ ᱞᱮᱠᱟᱛᱮ ᱨᱚᱲ-ᱨᱚᱯᱚᱲ ᱵᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱺᱡᱟᱦᱟᱱ ᱥᱚᱢᱟᱱ ᱫᱟᱱᱟᱝᱼᱟᱜ ᱦᱩᱰᱤᱝ ᱮᱞᱟᱠᱷ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ᱾
 ssl-error-no-certificate = ᱯᱨᱚᱢᱟᱬ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱯᱨᱚᱢᱟᱬ ᱥᱟᱠᱟᱢ ᱟᱨ ᱵᱟᱝ ᱠᱟᱴᱷᱤ ᱧᱟᱢ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
 ssl-error-bad-certificate = ᱡᱚᱲ ᱥᱟᱶ ᱡᱟᱯᱛᱤ ᱞᱮᱠᱟᱱ ᱨᱚᱲ ᱨᱚᱯᱚᱲ ᱵᱟᱭ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱚᱲ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱢᱟᱬ ᱥᱟᱠᱟᱢ ᱵᱟᱰᱨᱟ ᱟᱠᱟᱱ ᱛᱟᱦᱮᱱᱟ᱾
@@ -138,8 +140,12 @@ ssl-error-feature-not-supported-for-ssl2 = SSL ᱵᱟᱰᱜᱟᱜ SSL 2.0 ᱡᱚ
 ssl-error-feature-not-supported-for-servers = SSL ᱵᱟᱹᱰᱜᱟᱜ ᱥᱟᱨᱚᱣᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱜᱚᱰᱚᱣᱟᱜ ᱟ ᱾
 ssl-error-feature-not-supported-for-clients = SSL ᱵᱟᱰᱜᱟᱜ ᱜᱟᱸᱦᱠᱤ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱜᱚᱲᱚᱣᱟᱜ ᱟ ᱾
 ssl-error-invalid-version-range = SSL ᱵᱷᱚᱨᱥᱚᱱ ᱨᱮᱧᱡᱽ ᱫᱚ ᱵᱟᱭ ᱴᱷᱤᱠ ᱟ ᱾
+ssl-error-cipher-disallowed-for-version = SSL ᱯᱤᱭᱚᱨ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱤᱯᱷᱚᱨ ᱥᱩᱴ ᱮ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱫᱟᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱵᱷᱚᱨᱥᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱟᱱᱟ ᱜᱮᱭᱟ ᱾
 ssl-error-rx-malformed-hello-verify-request = SSL ᱵᱟᱝᱴᱷᱤᱠ ᱛᱮᱭᱟᱨᱟᱜ ᱡᱚᱦᱟᱨ ᱱᱮᱦᱚᱨ ᱛᱤ ᱥᱟᱯᱟᱵ ᱠᱷᱚᱵᱚᱨ ᱧᱮᱞ ᱯᱚᱨᱚᱠ ᱢᱮ ᱾
 ssl-error-rx-unexpected-hello-verify-request = SSL ᱵᱟᱝ ᱟᱝᱥᱚᱜᱟᱜ ᱡᱚᱦᱟᱨ ᱱᱮᱦᱚᱨ ᱛᱤ ᱥᱟᱯᱟᱵ ᱠᱷᱚᱵᱚᱨ ᱮ ᱧᱟᱢ ᱟᱠᱟᱫ ᱟ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾
+ssl-error-feature-not-supported-for-version = SSL ᱯᱷᱤᱪᱚᱨ ᱫᱚ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱵᱷᱚᱨᱥᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱹᱯᱚᱴ ᱵᱟᱹᱱᱩᱜ ᱟᱹᱱᱤᱡ ᱾
+ssl-error-rx-unexpected-cert-status = SSL ᱵᱟᱝ ᱟᱝᱥᱚᱜᱟᱜ ᱥᱟᱨᱚᱣᱟᱨ ᱡᱚᱦᱟᱨ ᱛᱤ ᱥᱟᱯᱟᱵ ᱠᱷᱚᱵᱚᱨ ᱥᱛᱷᱤᱛᱤ ᱮ ᱧᱟᱢ ᱟᱠᱟᱫ ᱟ ᱾
+ssl-error-unsupported-hash-algorithm = TLS ᱯᱤᱭᱚᱨ ᱵᱮᱵᱷᱟᱮᱫ ᱦᱮᱥ ᱮᱞᱜᱚᱨᱤᱫᱚᱢ ᱵᱟᱭ ᱥᱟᱹᱯᱚᱴ ᱟ ᱾
 sec-error-io = ᱡᱟᱹᱯᱛᱤ ᱡᱤᱱᱢᱟ ᱮᱢ ᱡᱚᱦᱚᱜ ᱢᱤᱫ I/O ᱵᱷᱩᱞ ᱦᱩᱭ ᱮᱱᱟ ᱾
 sec-error-library-failure = ᱡᱟᱹᱯᱛᱤ ᱯᱩᱛᱷᱤ ᱚᱲᱟᱜ ᱰᱤᱜᱟᱹᱣ ᱾
 sec-error-bad-data = ᱡᱟᱹᱯᱛᱤ ᱯᱩᱛᱷᱤ ᱚᱲᱟᱜ : ᱵᱟᱹᱲᱤᱡ ᱰᱟᱴᱟᱭ ᱧᱟᱢ ᱠᱮᱫ ᱟ ᱾
