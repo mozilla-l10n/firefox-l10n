@@ -69,6 +69,8 @@ webext-perms-host-description-too-many-sites = 存取您用于其他 { $domainCo
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = 此附加组件会准许 { $hostname } 访问您的 MIDI 设备。
+webext-site-perms-header-with-gated-perms-midi-sysex = 此附加组件会准许 { $hostname } 访问您的 MIDI 设备（支持 SysEx）。
 
 ##
 
@@ -86,6 +88,10 @@ webext-site-perms-description-gated-perms-midi =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = 要安装 { $extension } 吗？此扩展将授予 { $hostname } 以下功能：
+webext-site-perms-header-unsigned-with-perms = 要安装 { $extension } 吗？此扩展未经验证。恶意的扩展可能会窃取您的私密信息或损坏您的计算机。请仅在信任其来源时才安装。此扩展将授予 { $hostname } 以下功能：
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = 访问 MIDI 设备
+webext-site-perms-midi-sysex = 访问支持 SysEx 的 MIDI 设备
