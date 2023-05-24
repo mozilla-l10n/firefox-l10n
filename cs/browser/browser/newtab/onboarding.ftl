@@ -502,6 +502,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Vždy respektujeme vaše soukromí
 mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentních návrhů po inteligentnější vyhledávání. Neustále pracujeme na vytvoření lepšího a osobnějšího { -brand-product-name(case: "gen") }.
+mr2022-onboarding-privacy-segmentation-text-cta = Co chcete vidět, když nabízíme nové funkce, které využívají vaše data k vylepšení vašeho prohlížení?
 mr2022-onboarding-privacy-segmentation-button-primary-label =
     { -brand-product-name.case-status ->
         [with-cases] Použít doporučení { -brand-product-name(case: "gen") }
@@ -525,6 +526,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Začít prohlížet
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Buďte se jako doma
+onboarding-infrequent-import-subtitle = Ať už se zabydlujete, nebo se jen zastavujete, nezapomeňte, že můžete naimportovat své záložky, hesla a další položky.
 onboarding-infrequent-import-primary-button =
     { -brand-short-name.case-status ->
         [with-cases] Importovat do { -brand-short-name(case: "gen") }
@@ -540,6 +542,12 @@ mr2022-onboarding-default-image-alt =
     .aria-label = Osoba objímající logo { -brand-product-name(case: "gen") }
 mr2022-onboarding-import-image-alt =
     .aria-label = Osoba na skateboardu s krabicí softwarových ikon
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Žáby poskakující po leknínech s QR kódem pro stažení { -brand-product-name(case: "gen") } do mobilu uprostřed.
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Kouzelná hůlka způsobí, že se z klobouku objeví { -brand-product-name } logo soukromého prohlížení
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Ruce světlé a tmavé pleti si plácnou
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pohled na západ slunce oknem s liškou a pokojovou rostlinou na parapetu
 mr2022-onboarding-colorways-image-alt =
@@ -550,4 +558,5 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Liška na obrazovce přenosného počítače mává. V notebooku je připojena myš.
 onboarding-device-migration-title = Vítejte zpět!
+onboarding-device-migration-subtitle = Přihlaste se ke svému { -fxaccount-brand-name(capitalization: "sentence", case: "gen") } a přeneste si své záložky, hesla a historii do nového zařízení.
 onboarding-device-migration-primary-button-label = Přihlásit se
