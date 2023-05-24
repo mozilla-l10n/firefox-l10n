@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } 已阻止此网站在您的计算机上
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = 不允许
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -21,13 +24,25 @@ xpinstall-disabled = 软件安装已被禁用。请单击“启用”并重试�
 xpinstall-disabled-button =
     .label = 启用
     .accesskey = n
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } 已添加到 { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } 需要新的权限
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying = 正在下载并验证 { $addonCount } 个附加组件…
 addon-download-verifying = 正在验证
 addon-install-cancel-button =
     .label = 取消
     .accesskey = C
+addon-install-accept-button =
+    .label = 添加
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -42,6 +57,7 @@ addon-install-error-incorrect-hash = 所下载的不是本要安装附加组件 
 addon-install-error-corrupt-file = 从此网站下载的这个附加组件文件损坏了，无法安装。
 addon-install-error-file-access = { $addonName } 未能安装，因为 { -brand-short-name } 无法修改所需的文件。
 addon-install-error-not-signed = { -brand-short-name } 已阻止此网站安装未通过验证的附加组件。
+addon-local-install-error-network-failure = 因为文件系统错误，无法安装该附加组件。
 addon-local-install-error-incorrect-hash = 所下载的不是本要安装附加组件 { -brand-short-name }，无法安装。
 addon-local-install-error-corrupt-file = 该附加组件无法安装，因为它似乎已损坏。
 addon-local-install-error-file-access = { $addonName } 未能安装，因为 { -brand-short-name } 无法修改所需的文件。
