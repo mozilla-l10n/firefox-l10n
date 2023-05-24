@@ -995,8 +995,10 @@ firefox-relay-offer-what-relay-does = Välitämme kaikki sähköpostit sivustolt
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Varmentamaton)
 popup-notification-xpinstall-prompt-learn-more = Lue lisää lisäosien asentamisesta turvallisesti
 
 ## Pop-up warning
