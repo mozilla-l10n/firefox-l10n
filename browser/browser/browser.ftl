@@ -955,8 +955,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (تایید نشده)
 popup-notification-xpinstall-prompt-learn-more = در مورد نصبِ امنِ افزونه‌ها اطلاعات بیشتر بیاموزید
 
 ## Pop-up warning
