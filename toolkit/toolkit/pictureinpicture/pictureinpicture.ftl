@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = כתוביות
     .tooltip = כתוביות
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = מסך מלא
+    .tooltip = מסך מלא (לחיצה כפולה או { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = יציאה ממסך מלא
+    .tooltip = יציאה ממסך מלא (לחיצה כפולה או { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = יציאה ממסך מלא
     .tooltip = יציאה ממסך מלא (לחיצה כפולה)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = אחורה
     .tooltip = אחורה (←)
