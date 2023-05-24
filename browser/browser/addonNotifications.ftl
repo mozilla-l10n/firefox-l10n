@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } je tej strani preprečil vprašati, ali
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Ne dovoli
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -20,6 +23,12 @@ xpinstall-disabled = Namestitev programske opreme je trenutno onemogočena. Klik
 xpinstall-disabled-button =
     .label = Omogoči
     .accesskey = O
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } je bil dodan v { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } zahteva nova dovoljenja
 
 ## Add-on removal warning
 
