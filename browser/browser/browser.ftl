@@ -995,8 +995,10 @@ firefox-relay-offer-what-relay-does = Ni plusendos ĉiujn retpoŝtajn mesaĝojn 
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Nekontrolita)
 popup-notification-xpinstall-prompt-learn-more = Pli da informo pri sekura instalo de aldonaĵoj
 
 ## Pop-up warning
