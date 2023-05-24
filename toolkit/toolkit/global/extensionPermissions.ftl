@@ -8,6 +8,22 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-bookmarks = קריאה ועריכת סימניות
+webext-perms-description-browserSettings = קריאה ועריכת הגדרות הדפדפן
+webext-perms-description-browsingData = איפוס היסטוריית הגלישה, העוגיות והנתונים הנוספים שצברת לאחרונה
+webext-perms-description-clipboardRead = קבלת נתונים מלוח העריכה
+webext-perms-description-clipboardWrite = הזנת נתונים בלוח העריכה
+webext-perms-description-devtools = הרחבת כלי הפיתוח לקבלת גישה לנתונים שלך בלשוניות פתוחות
+webext-perms-description-downloads = הורדת קבצים, קריאה ועריכת היסטוריית ההורדות של הדפדפן
+webext-perms-description-downloads-open = פתיחת קבצים שהורדו למחשב שלך
+webext-perms-description-find = קריאת הטקסט של כל הלשוניות הפתוחות
+webext-perms-description-history = גישה להיסטוריית הגלישה
+webext-perms-description-management = ניטור שימוש בהרחבות וניהול ערכות נושא
 webext-perms-description-nativeMessaging = החלפת הודעות עם יישומים אחרים מ־{ -brand-short-name }
 webext-perms-description-notifications = הצגת התרעות
 webext-perms-description-pkcs11 = אספקת שירותי אימות מוצפנים
+webext-perms-description-privacy = קריאה ועריכה של הגדרות פרטיות
+webext-perms-description-proxy = שליטה בהגדרות המתווך של הדפדפן
+webext-perms-description-sessions = גישה ללשוניות שנסגרו לאחרונה
+webext-perms-description-tabs = גישה ללשוניות
+webext-perms-description-topSites = גישה להיסטוריית הגלישה
+webext-perms-description-webNavigation = גישה לפעילות הדפדפן במהלך הניווט
