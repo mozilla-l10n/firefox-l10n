@@ -10,6 +10,8 @@ xpinstall-prompt = { -brand-short-name } evitó que este sitio le solicite insta
 
 ##
 
+xpinstall-prompt-header-unknown = ¿Permitir que un sitio desconocido instale complementos?
+xpinstall-prompt-message-unknown = Estás intentando instalar un complemento desde un sitio desconocido. Asegúrate de que confías en el sitio antes de continuar.
 xpinstall-prompt-dont-allow =
     .label = No permitir
     .accesskey = N
