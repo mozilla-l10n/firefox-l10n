@@ -48,7 +48,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) تہاݙے سسٹم منتظم دی طرفوں بلاک کر ݙتا ڳئے.{ " " }
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) تہاݙے سسٹم منتظم دی طرفوں بلاک کر ݙتا ڳئے.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = تہاݙے سسٹم دے منتظم ایں سائٹ کوں تہاݙے کمپیوٹر تے سافٹ ویئر انسٹال کرݨ کیتے آکھݨ توں روک ݙتا ہے۔
 addon-install-full-screen-blocked = فل سکرین موڈ وِچ داخل تھیوݨ دے دوران یا ایں کنوں پہلے ایڈ آن انسٹال کرݨ دی اجازت کائنی
