@@ -20,6 +20,7 @@ xpinstall-disabled = Sazkirina nivîsbariyê niha hate neçalakirin. Çalakirin�
 
 ## Add-on removal warning
 
+addon-download-verifying = Rastandin
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -29,3 +30,7 @@ xpinstall-disabled = Sazkirina nivîsbariyê niha hate neçalakirin. Çalakirin�
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-file-access = Ji ber ku { -brand-short-name } nikare pelê pêwîst biguherîne { $addonName } nehate sazkirin.
+addon-local-install-error-network-failure = Ev add-on ji ber çewtiyeke pergala pelan nehate sazkirin.
+addon-local-install-error-corrupt-file = Ji ber ku ev add-on şikestî xuya dike, nehate sazkirin.
+addon-local-install-error-file-access = Ji ber ku { -brand-short-name } nikare pelê pêwîst biguherîne { $addonName } nehate sazkirin.
