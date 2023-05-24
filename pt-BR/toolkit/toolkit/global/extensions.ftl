@@ -34,6 +34,7 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Negar
     .accesskey = N
+webext-perms-host-description-all-urls = Acessar seus dados em todos os sites visitados
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
