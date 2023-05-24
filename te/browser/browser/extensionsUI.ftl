@@ -8,3 +8,9 @@ webext-perms-learn-more = ఇంకా తెలుసుకోండి
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
 webext-default-search-description = { $addonName } మీ అప్రమేయ శోధన యంత్రాన్ని { $currentEngine } నుండి { $newEngine }కు మార్చాలనుకుంటుంది. ఇది మీకు సమ్మతమేనా?
+webext-default-search-yes =
+    .label = అవును
+    .accesskey = Y
+webext-default-search-no =
+    .label = కాదు
+    .accesskey = N

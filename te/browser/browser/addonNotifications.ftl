@@ -51,6 +51,13 @@ addon-removal-title = { $name }‌ను తీసివేయారా?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { -brand-shorter-name } నుండి { $name }‌ని తొలగించాలా?
 addon-removal-button = తొలగించు
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] పొడిగింతను దింపుకుంటోంది మరియు నిర్ధారిస్తోంది...
+       *[other] { $addonCount } పొడిగింతలను దింపుకుంటోంది మరియు నిర్ధారిస్తోంది…
+    }
 addon-download-verifying = నిర్ధారించుచున్నది
 addon-install-cancel-button =
     .label = రద్దుచేయి
