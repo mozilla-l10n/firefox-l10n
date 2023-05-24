@@ -619,8 +619,10 @@ refresh-blocked-refresh-label = { -brand-short-name } evitó qu'esta páxina se 
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Ensin verificar)
 
 ## Pop-up warning
 
