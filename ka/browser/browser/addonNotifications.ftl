@@ -31,3 +31,4 @@ addon-install-cancel-button =
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-network-failure = დამატება კავშირის ჩაშლის გამო ვერ ჩამოტვირთვა.
