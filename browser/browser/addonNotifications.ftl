@@ -42,6 +42,14 @@ addon-confirm-install-message =
         [one] Страницата иска да инсталира добавка на { -brand-short-name }:
        *[other] Страницата иска да инсталира { $addonCount } добавки на { -brand-short-name }:
     }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] Внимание: Страницата иска да инсталира непроверена добавка на { -brand-short-name }. Продължете на своя отговорност.
+       *[other] Внимание: Страницата иска да инсталира { $addonCount } непроверени добавки на { -brand-short-name }. Продължете на своя отговорност.
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Внимание: Страницата иска да инсталира { $addonCount } добавки на { -brand-short-name }, някои от които са непроверени. Продължете на своя отговорност.
 
 ## Add-on install errors
 ## Variables:
