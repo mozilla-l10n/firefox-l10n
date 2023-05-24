@@ -29,3 +29,5 @@ xpinstall-disabled = மென்பொருள் நிறுவுதல் 
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-network-failure = கோப்பு முறைமை வழுவின் காரணமாக இந்த உட்செருகலை நிறுவமுடியவில்லை.
+addon-local-install-error-corrupt-file = இந்த உட்செருகல் சிதைந்துள்ளதாகத் தோன்றுவதால் நிறுவமுடியவில்லை.
