@@ -11,13 +11,18 @@ webext-perms-description-bookmarks = خواندن و تنظیم نشانک‌ه�
 webext-perms-description-browserSettings = خواندن و تغییر تنظیمات مرورگر
 webext-perms-description-clipboardRead = دریافت اطلاعات از تخته نسخه برداری
 webext-perms-description-clipboardWrite = ورود اطلاعات به تخته نسخه برداری
+webext-perms-description-devtools = گسترش ابزارتوسعه‌دهندگان برای دسترسی به داده‌های شما بر روی زبانه‌های باز
 webext-perms-description-downloads = دریافت پرونده‌های تاریخچه دریافت ها و تنظیم و خواندن آن ها
+webext-perms-description-downloads-open = بازکردن پرونده‌های دریافت ها بر روی کامپیوتر شما
+webext-perms-description-find = خواندن متن تمام زبانه‌های باز
 webext-perms-description-geolocation = دسترسی به موقعیت مکانی شما
 webext-perms-description-history = دسترسی به تاریخچه مرورکردن
 webext-perms-description-management = نظارت بر استفاده از افزودنی‌ها و مدیریت تم‌ها
 webext-perms-description-nativeMessaging = تبادل پیام با برنامه ها غیر از { -brand-short-name }
 webext-perms-description-notifications = نمایش هشدار بر روی صفحه برای شما
+webext-perms-description-pkcs11 = فراهم‌سازی خدمات احراز هویت رمزنگاری شده
 webext-perms-description-privacy = خواندن و تنظیم تنظیمات حریم شخصی
+webext-perms-description-proxy = در دست گرفتن تنظیمات پراکسی مرورگر
 webext-perms-description-sessions = دسترسی به آخرین زبانه‌های بسته شده
 webext-perms-description-tabs = دسترسی به زبانه‌های مرورگر
 webext-perms-description-topSites = دسترسی به تاریخچه مرورکردن
