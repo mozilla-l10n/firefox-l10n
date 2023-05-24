@@ -9,6 +9,8 @@
 
 webext-perms-description-bookmarks = Číst a upravovat záložky
 webext-perms-description-browsingData = Mazat nedávnou historii prohlížení, cookies a související data
+webext-perms-description-clipboardRead = Získat data ze schránky
+webext-perms-description-clipboardWrite = Vkládat data do schránky
 webext-perms-description-declarativeNetRequest = Blokovat obsah na jakékoli stránce
 webext-perms-description-declarativeNetRequestFeedback = Číst vaši historii prohlížení
 webext-perms-description-devtools = Rozšířit nástroje pro vývojáře a získat přístup k vašim datům v otevřených panelech

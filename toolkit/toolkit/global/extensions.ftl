@@ -25,9 +25,14 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Zrušit
     .accesskey = Z
+webext-perms-sideload-text = Jiný program ve vašem počítači nainstaloval doplněk, který může ovlivnit váš prohlížeč. Prosím ověřte požadavky na oprávnění tohoto doplňku a zvolte Povolit nebo Zrušit (chcete-li jej ponechat zakázaný).
+webext-perms-sideload-text-no-perms = Jiný program ve vašem počítači nainstaloval doplněk, který může ovlivnit váš prohlížeč. Prosím zvolte Povolit nebo Zrušit (chcete-li jej ponechat zakázaný).
 webext-perms-sideload-enable =
     .label = Povolit
     .accesskey = P
+webext-perms-sideload-cancel =
+    .label = Zrušit
+    .accesskey = Z
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Rozšíření { $extension } bylo aktualizováno. Před instalací aktualizované verze je potřeba schválit nová oprávnění. Zvolením „Zrušit“ bude zachována stávající verze rozšíření. Toto rozšíření získá následující oprávnění:
