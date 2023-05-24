@@ -10,7 +10,9 @@
 webext-perms-description-bookmarks = Կարդալ և փոփոխել էջանիշերը
 webext-perms-description-browserSettings = Կարդալ և փոփոխել դիտարկիչի կարգավորումները
 webext-perms-description-browsingData = Մաքրել վերջին դիտարկումները, cookie-ները և նման տվյալներ
+webext-perms-description-clipboardRead = Ստանալ տվյալը սեղմատախտակից
 webext-perms-description-clipboardWrite = Ներածել տվյալը սեղմատախտակ
+webext-perms-description-devtools = Երկարաձգեք մշակողի գործիքները՝ մատչելու համար ձեր բացած ներդիրները
 webext-perms-description-downloads = Ներբեռնեք ֆայլեր և կարդացեք ու փոփոխեք դիտարկիչի ներբեռնումների պատմությունը
 webext-perms-description-downloads-open = Բացել համակարգչում ներբեռնված ֆայլեր
 webext-perms-description-find = Կարդալ բոլոր բաց ներդիրների տեքստը
