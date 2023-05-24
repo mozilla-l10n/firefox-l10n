@@ -31,6 +31,10 @@ webext-perms-update-menu-item = { $addonName } को नई अनुमात�
 ## Add-on removal warning
 
 # Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name } से { $name } हटाएँ?
+addon-removal-button = हटाएँ
+# Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
     { $addonCount ->
