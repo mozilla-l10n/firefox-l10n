@@ -65,6 +65,7 @@ addon-removal-title = { $name } өшіру керек пе?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { -brand-shorter-name } ішінен { $name } өшіру керек пе?
+addon-removal-button = Өшіру
 addon-removal-abuse-report-checkbox = Бұл кеңейту туралы { -vendor-short-name } адресіне шағым жасау
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
