@@ -8,8 +8,17 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-bookmarks = Leer y modificar marcadores
+webext-perms-description-browserSettings = Leer y modificar configuración del navegador
 webext-perms-description-browsingData = Borrar historial de navegación reciente, cookies y datos relacionados
+webext-perms-description-clipboardRead = Obtener datos desde el portapapeles
+webext-perms-description-clipboardWrite = Ingresar datos desde el portapapeles
+webext-perms-description-declarativeNetRequest = Bloquear contenido en cualquier página
 webext-perms-description-downloads-open = Abrir archivos descargados a tu computadora
+webext-perms-description-geolocation = Acceder a tu ubicación
+webext-perms-description-history = Acceder al historial de navegación
 webext-perms-description-management = Controlar el uso de la extensión y administrar temas
+webext-perms-description-pkcs11 = Proporciona servicios autenticación criptográfica
+webext-perms-description-privacy = Leer y modificar la configuración de privacidad
 webext-perms-description-proxy = Controlar configuración del proxy del navegador
+webext-perms-description-tabHide = Ocultar y mostrar pestañas de navegación
 webext-perms-description-topSites = Acceder el historial de navegación
