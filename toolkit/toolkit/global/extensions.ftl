@@ -60,6 +60,16 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = dostop do vaših podatkov za { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] dostop do vaših podatkov na { $domainCount } drugi strani
+        [two] dostop do vaših podatkov na { $domainCount } drugih straneh
+        [few] dostop do vaših podatkov na { $domainCount } drugih straneh
+       *[other] dostop do vaših podatkov na { $domainCount } drugih straneh
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
