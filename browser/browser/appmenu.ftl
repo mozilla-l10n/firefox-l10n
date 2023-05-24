@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = Suljetut välilehdet
 appmenu-recently-closed-windows =
     .label = Suljetut ikkunat
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Etsi historiasta
 
 ## Help panel
 

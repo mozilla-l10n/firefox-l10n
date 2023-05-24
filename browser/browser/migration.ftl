@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Ikkunat ja välilehdet
 browser-data-session-label =
     .value = Ikkunat ja välilehdet
+browser-data-payment-methods-checkbox =
+    .label = Maksutavat
+browser-data-payment-methods-label =
+    .value = Maksutavat

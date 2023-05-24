@@ -13,6 +13,18 @@
 onboarding-welcome-header = Tässä { -brand-short-name }, tervetuloa
 onboarding-start-browsing-button-label = Aloita selaaminen
 onboarding-not-now-button-label = Ei nyt
+mr1-onboarding-get-started-primary-button-label = Aloita
+mr1-onboarding-welcome-header =
+    { -brand-short-name.case-status ->
+        [with-cases] Tervetuloa { -brand-short-name(case: "illative") }
+       *[no-cases] Tässä { -brand-short-name }, tervetuloa
+    }
+mr1-onboarding-set-default-pin-primary-button-label = Aseta { -brand-short-name } pääselaimeksi
+    .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
+mr1-onboarding-set-default-secondary-button-label = Ei nyt
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +51,6 @@ mr1-return-to-amo-add-extension-label = Lisää { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Käytön aloittaminen: näkymä { $current }/{ $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Edistyminen: vaihe { $current }/{ $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +66,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Huonekalujen suunnittelija, Firefox-fani
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Edistyminen: vaihe { $current }/{ $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Poista animaatiot käytöstä
 
@@ -84,20 +96,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Aloita
-mr1-onboarding-welcome-header =
-    { -brand-short-name.case-status ->
-        [with-cases] Tervetuloa { -brand-short-name(case: "illative") }
-       *[no-cases] Tässä { -brand-short-name }, tervetuloa
-    }
-mr1-onboarding-set-default-pin-primary-button-label = Aseta { -brand-short-name } pääselaimeksi
-    .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
-mr1-onboarding-set-default-secondary-button-label = Ei nyt
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Kirjaudu sisään
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -433,3 +432,9 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Näkymä auringonlaskuun ikkunan läpi, jossa on kettu ja huonekasvi ikkunalaudalla
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Käsisuihke maalaa värikkään kollaasin vihreästä silmästä, oranssista kengästä, punaisesta koripallosta, violeteista kuulokkeista, sinisestä sydämestä ja keltaisesta kruunusta
+
+## Device migration onboarding
+
+onboarding-device-migration-title = Tervetuloa takaisin!
+onboarding-device-migration-subtitle = Kirjaudu sisään { -fxaccount-brand-name(capitalization: "sentence") }llesi, niin voit tuoda kirjanmerkkisi, salasanasi ja historiasi uudelle laitteellesi.
+onboarding-device-migration-primary-button-label = Kirjaudu sisään
