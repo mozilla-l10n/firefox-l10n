@@ -592,8 +592,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Nū natsij ma)
 popup-notification-xpinstall-prompt-learn-more = Gini'in doj nej nuguan' atāj sna'ānj dà' ga'ue ga'nïnj hue'ê' 'ngō sa nata'a nī si ga'ui' yi'ì ñù'
 
 ## Pop-up warning
