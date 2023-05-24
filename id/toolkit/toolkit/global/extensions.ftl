@@ -13,6 +13,9 @@
 
 ##
 
+webext-perms-sideload-cancel =
+    .label = Batal
+    .accesskey = B
 webext-perms-optional-perms-list-intro = Pengaya ingin:
 webext-perms-host-description-all-urls = Mengakses data Anda pada semua situs
 # Variables:

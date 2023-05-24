@@ -41,6 +41,7 @@ addon-install-cancel-button =
 ##   $addonCount (Number): the number of add-ons being installed
 
 addon-confirm-install-message = Situs ini ingin menginstal { $addonCount } pengaya di { -brand-short-name }:
+addon-confirm-install-unsigned-message = Perhatian: Situs ini ingin memasang pengaya yang tidak diverifikasi pada { -brand-short-name }. Jika melanjutkan. risiko ditanggung sendiri.
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message = Perhatian: Situs ini ingin menginstal { $addonCount } pengaya di { -brand-short-name }, beberapa diantaranya tidak terverifikasi. Jika melanjutkan, risiko ditanggung sendiri.
