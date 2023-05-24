@@ -382,6 +382,18 @@ addon-badge-line3 =
 ##
 
 available-updates-heading = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ
+recent-updates-heading = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ
+release-notes-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ…
+release-notes-error = ᱤᱠᱟᱹ, ᱢᱮᱱᱠᱷᱟᱱ ᱨᱤᱞᱤᱡᱽ ᱱᱚᱴ ᱞᱟᱫᱮ ᱡᱷᱚᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
+addon-permissions-empty = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱨᱮ ᱡᱟᱦᱟᱸ ᱦᱚᱠ ᱞᱟᱹᱠᱛᱤ ᱵᱟᱹᱱᱩᱜ ᱟᱹᱱᱤᱡ
+addon-permissions-required = ᱠᱚᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱫᱟᱣ:
+addon-permissions-optional = ᱢᱚᱱᱮ ᱞᱮᱠᱟᱱᱟᱜ ᱫᱟᱣ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱞᱮᱫ ᱠᱟᱱᱟ :
+addon-permissions-learnmore = ᱪᱷᱟᱹᱲ ᱵᱟᱵᱚᱛ ᱡᱟᱹᱥᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ
+recommended-extensions-heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱯᱟᱥᱱᱟᱣᱨᱠᱚ
+recommended-themes-heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱛᱷᱤᱢᱠᱚ
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
+addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> ᱞᱟᱹᱜᱤᱫ ᱞᱟᱛᱟᱨ ᱨᱮ ᱚᱞ ᱟᱠᱟᱱ ᱦᱚᱠ ᱠᱚ ᱮᱢᱟᱭᱟᱭ:
 
 ## Page headings
 
