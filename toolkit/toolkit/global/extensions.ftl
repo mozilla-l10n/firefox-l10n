@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Czy dodać „{ $extension }”?
+webext-perms-header-with-perms = Czy dodać „{ $extension }”? To rozszerzenie wymaga następujących uprawnień:
+webext-perms-header-unsigned = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu.
+webext-perms-header-unsigned-with-perms = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu. To rozszerzenie wymaga następujących uprawnień:
 webext-perms-sideload-header = Dodano „{ $extension }”
 webext-perms-optional-perms-header = Dodatek „{ $extension }” prosi o nowe uprawnienia.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Anuluj
     .accesskey = A
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = Rozszerzenie „{ $extension }” zostało uaktualnione. Nowe uprawnienia muszą zostać zaakceptowane zanim uaktualniona wersja zostanie zainstalowana. Wybranie „Anuluj” spowoduje pozostawienie aktualnie zainstalowanej wersji rozszerzenia. To rozszerzenie wymaga następujących uprawnień:
 webext-perms-update-accept =
     .label = Uaktualnij
     .accesskey = U
@@ -40,6 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Zabroń
     .accesskey = a
+webext-perms-host-description-all-urls = Dostęp do danych użytkownika na wszystkich stronach
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Dostęp do danych na stronach w domenie { $domain }
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -69,9 +79,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Ten dodatek daje witrynie { $hostname } dostęp do urządzeń MIDI użytkownika.
+webext-site-perms-header-with-gated-perms-midi-sysex = Ten dodatek daje witrynie { $hostname } dostęp do urządzeń MIDI użytkownika (z obsługą SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Są to zwykle urządzenia podłączane do komputera, takie jak syntezatory dźwięku, ale mogą być również wbudowane w komputer.
+    
+    Witryny zazwyczaj nie mają dostępu do urządzeń MIDI. Niewłaściwe użycie może spowodować uszkodzenia lub zagrozić bezpieczeństwu.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -79,6 +98,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Czy dodać „{ $extension }”? To rozszerzenie daje witrynie { $hostname } te możliwości:
+webext-site-perms-header-unsigned-with-perms = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu. To rozszerzenie daje witrynie { $hostname } te możliwości:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Dostęp do urządzeń MIDI
+webext-site-perms-midi-sysex = Dostęp do urządzeń MIDI z obsługą SysEx
