@@ -11,6 +11,10 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Додати { $extension }?
+webext-perms-header-with-perms = Додати { $extension }? Овај додатак ће имати следеће дозволе:
+webext-perms-header-unsigned = Додати { $extension }? Овај додатак је непроверен. Злонамерни додаци могу украсти ваше личне податке или угрозити ваш рачунар. Додајте га само ако верујете његовом извору.
+webext-perms-header-unsigned-with-perms = Додати { $extension }? Овај додатак је непроверен. Злонамерни додаци могу украсти ваше личне податке или угрозити ваш рачунар. Додајте га само ако верујете његовом извору. Овај додатак ће имати следеће дозволе:
+webext-perms-sideload-header = Додатак { $extension } је додат
 webext-perms-optional-perms-header = { $extension } захтева додатне дозволе.
 
 ##
@@ -21,18 +25,52 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Откажи
     .accesskey = О
+webext-perms-sideload-text = Други програм на вашем рачунару је инсталирао додатак који може утицати на прегледач. Прегледајте дозволе додатка и одлучите да ли желите да га омогућите или не.
+webext-perms-sideload-text-no-perms = Други програм на вашем рачунару је инсталирао додатак који може утицати на прегледач. Одлучите да ли желите да га омогућите или не.
 webext-perms-sideload-enable =
     .label = Омогући
     .accesskey = О
+webext-perms-sideload-cancel =
+    .label = Откажи
+    .accesskey = т
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = Додатак { $extension } је ажуриран. Морате да одобрите нове дозволе пре него што се ажурирана верзија инсталира. Кликом на „Откажи” задржаћете тренутну верзију додатка. Овај додатак ће имати следеће дозволе:
 webext-perms-update-accept =
     .label = Ажурирај
     .accesskey = А
+webext-perms-optional-perms-list-intro = Захтева следеће дозволе:
 webext-perms-optional-perms-allow =
     .label = Дозволи
     .accesskey = Д
 webext-perms-optional-perms-deny =
     .label = Одбиј
     .accesskey = О
+webext-perms-host-description-all-urls = Приступ подацима за све веб-сајтове
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Приступ подацима за веб-сајтове у домену { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Приступ подацима у још { $domainCount } домену
+        [few] Приступ подацима у још { $domainCount } домена
+       *[other] Приступ подацима у још { $domainCount } домена
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Приступ подацима за сајт { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Приступ подацима на још { $domainCount } сајту
+        [few] Приступ подацима на још { $domainCount } сајта
+       *[other] Приступ подацима на још { $domainCount } сајтова
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
