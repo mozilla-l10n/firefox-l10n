@@ -1019,8 +1019,10 @@ firefox-relay-offer-why-to-use-relay = Mae ein arallenwau diogel, hawdd eu defny
 firefox-relay-offer-what-relay-provides = Bydd pob e-bost sy'n cael eu hanfon at eich arallenwau e-bost yn cael eu hanfon ymlaen at <strong>{ $useremail }</strong> (oni bai eich bod yn penderfynu eu rhwystro).
 firefox-relay-offer-legal-notice = Drwy glicio “Defnyddio arallenw e-bost”, rydych yn cytuno i'r <label data-l10n-name="tos-url">Amodau Gwasanaeth</label> a <label data-l10n-name="privacy-url">Hysbysiad Preifatrwydd </label>.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Heb eu gwirio)
 popup-notification-xpinstall-prompt-learn-more = Dysgwch ragor am osod ategion yn ddiogel
 
 ## Pop-up warning
