@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Phụ đề
     .tooltip = Phụ đề
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Toàn màn hình
+    .tooltip = Toàn màn hình (nhấp đúp chuột hoặc { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Thoát toàn màn hình
+    .tooltip = Thoát toàn màn hình (nhấp đúp chuột hoặc { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Thoát toàn màn hình
     .tooltip = Thoát toàn màn hình (nhấp đúp chuột)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Quay lại
     .tooltip = Quay lại (←)
