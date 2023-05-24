@@ -991,8 +991,10 @@ firefox-relay-offer-what-relay-does = เราจะส่งต่ออีเ
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (ไม่ได้รับการยืนยัน)
 popup-notification-xpinstall-prompt-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับการติดตั้งส่วนเสริมอย่างปลอดภัย
 
 ## Pop-up warning
