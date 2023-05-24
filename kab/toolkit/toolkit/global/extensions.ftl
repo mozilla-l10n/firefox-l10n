@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Rnu { $extension }?
+webext-perms-header-with-perms = Rnu { $extension }? Asiɣzef-a ad yesεu tasiregt ɣer:
+webext-perms-header-unsigned = Rnu { $extension }? Asiɣzef-a ur yettwasenqed ara. Yir iseɣzaf zemren ad akren talɣut-ik·im tusligt neɣ ad d-glun s wayen n dir i uselkim-ik·im. Rnu-t kan ma yella tettekleḍ ɣef uɣbalu-ines.
+webext-perms-header-unsigned-with-perms = Rnu { $extension }? Asiɣzef-a ur yettwasenqed ara. Yir iseɣzaf zemren ad akren talɣut-ik·im tusligt neɣ ad d-glun s wayen n dir i uselkim-ik·im. Rnu-t kan ma yella tettekleḍ ɣef uɣbalu-ines. Asiɣzef-a ad yesεu tasiregt ɣer:
 webext-perms-sideload-header = { $extension } ittwarna
 webext-perms-optional-perms-header = { $extension } yesra tisirag-nniḍen
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Sefsex
     .accesskey = F
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } ittwalqem. Issefk ad tqebleḍ tisirag timaynutin send ad tesbeddeḍ lqem yettwalleqmen. Afran n "Sefsex" ad yeǧǧ lqem n usiɣzef-a amiran. Asiɣzef-a ad yesεu tasiregt ɣer:
 webext-perms-update-accept =
     .label = Lqem
     .accesskey = L
@@ -71,6 +77,8 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Azegrir-a yettmuddu anekcum i yibenkan MIDI ɣer { $hostname }.
+webext-site-perms-header-with-gated-perms-midi-sysex = Azegrir-a yettmuddu anekcum i { $hostname } ɣer yibenkan-ik·im MIDI (s tallalt n SysEx).
 
 ##
 
@@ -81,6 +89,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Rnu { $extension }? Asiɣzef-a tettmuddu tizemmar-a i { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Rnu { $extension }? Asiɣzef-a ur yettwasenqed ara. Yir iseɣzaf zemren ad akren talɣut-ik·im tusligt neɣ ad d-glun s wayen n dir i uselkim-ik·im. Rnu-t kan ma yella tettekleḍ ɣef uɣbalu-ines. Asiɣzef-a ad yettmuddu tizemmar-a i { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Kcem ibenkan MIDI
+webext-site-perms-midi-sysex = Kcem ɣer yibenkan MIDI s tallelt SysEx

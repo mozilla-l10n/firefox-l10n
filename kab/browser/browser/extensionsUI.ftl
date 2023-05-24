@@ -13,3 +13,6 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = Ala
     .accesskey = L
+# Variables:
+#   $addonName (String): localized named of the extension that was just installed.
+addon-post-install-message = { $addonName } yettwarna.
