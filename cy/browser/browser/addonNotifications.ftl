@@ -28,6 +28,9 @@ addon-download-verifying = Dilysu
 addon-install-cancel-button =
     .label = Diddymu
     .accesskey = D
+addon-install-accept-button =
+    .label = Ychwanegu
+    .accesskey = Y
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed

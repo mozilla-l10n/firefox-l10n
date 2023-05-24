@@ -8,11 +8,13 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-bookmarks = Darllen a newid nodau tudalen
+webext-perms-description-browserSettings = Darllen a newid gosodiadau'r porwr
 webext-perms-description-clipboardRead = Estyn data o'r clipfwrdd
 webext-perms-description-clipboardWrite = Mewnbynnu data i'r clipfwrdd
 webext-perms-description-downloads = Llwytho i lawr, darllen ffeiliau a newid hanes llwytho i lawr y porwr
 webext-perms-description-geolocation = Mynediad i'ch lleoliad
 webext-perms-description-history = Mynediad at eich hanes pori
+webext-perms-description-management = Monitro'r defnydd o estyniadau a rheoli themâu
 webext-perms-description-nativeMessaging = Cyfnewid negeseuon gyda rhaglenni ar wahân i { -brand-short-name }
 webext-perms-description-notifications = Dangos hysbysiadau i chi
 webext-perms-description-privacy = Darllen a newid gosodiadau preifatrwydd
