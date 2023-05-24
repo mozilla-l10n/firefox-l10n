@@ -987,8 +987,10 @@ firefox-relay-offer-what-relay-does = Do t’i përcjellim krejt email-et nga <s
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (E paverifikuar)
 popup-notification-xpinstall-prompt-learn-more = Mësoni më tepër rreth instalimit të shtesave në mënyrë të parrezik
 
 ## Pop-up warning
