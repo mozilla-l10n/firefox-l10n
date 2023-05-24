@@ -258,3 +258,10 @@ fox-doodle-pin-secondary = Не сада
 
 set-default-pdf-handler-headline = <strong>Ваши PDF-ови се сада отварају у { -brand-short-name }-у.</strong> Измените или потпишите обрасце директно у прегледачу. Да промените, потражите „PDF” у подешавањима.
 set-default-pdf-handler-primary = Важи
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Планирате да набавите нови уређај?
+
+## Device Migration FxA Spotlight
+

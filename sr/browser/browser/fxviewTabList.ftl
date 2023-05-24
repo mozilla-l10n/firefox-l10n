@@ -34,7 +34,7 @@ fxviewtabrow-open-in-private-window = Отвори у новом приватн�
     .accesskey = п
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = Обележи…
-    .accesskey = О
+    .accesskey = б
 fxviewtabrow-save-to-pocket = Сачувај у { -pocket-brand-name }
     .accesskey = С
 fxviewtabrow-copy-link = Копирај везу
