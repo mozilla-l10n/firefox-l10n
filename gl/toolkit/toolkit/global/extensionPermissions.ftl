@@ -11,6 +11,7 @@ webext-perms-description-bookmarks = Ler e modificar os marcadores
 webext-perms-description-browserSettings = Ler e modificar a configuración do navegador
 webext-perms-description-browsingData = Borrar o historial recente de navegación, as cookies e datos relacionados
 webext-perms-description-clipboardRead = Obter os datos do portapapeis
+webext-perms-description-declarativeNetRequestFeedback = Ler o seu historial de navegación
 webext-perms-description-find = Ler o texto de todas as lapelas abertas
 webext-perms-description-history = Acceder ao historial de navegación
 webext-perms-description-notifications = Amosarlle notificacións
