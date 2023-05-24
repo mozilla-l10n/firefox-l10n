@@ -48,6 +48,14 @@ webext-perms-host-description-all-urls = Acceder a los datos para todos los siti
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acceder a los datos para los sitios en el dominio { $domain }
 # Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Acceder a los datos en { $domainCount } dominio diferente
+       *[other] Acceder a los datos en { $domainCount } dominios diferentes
+    }
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Acceder a los datos de { $domain }
 # Variables:
