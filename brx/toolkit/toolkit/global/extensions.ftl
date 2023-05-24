@@ -27,6 +27,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = नेवसि
     .accesskey = C
+webext-perms-update-accept =
+    .label = आपडेट खालाम
+    .accesskey = U
+webext-perms-optional-perms-allow =
+    .label = गनायथि हो
+    .accesskey = A
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
