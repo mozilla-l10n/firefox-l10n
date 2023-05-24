@@ -67,6 +67,9 @@ addon-download-verifying = Kontrolo
 addon-install-cancel-button =
     .label = Nuligi
     .accesskey = N
+addon-install-accept-button =
+    .label = Aldoni
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
