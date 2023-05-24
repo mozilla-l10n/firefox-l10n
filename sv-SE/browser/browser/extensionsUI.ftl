@@ -8,6 +8,12 @@ webext-perms-learn-more = Läs mer
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
 webext-default-search-description = { $addonName } vill du ändra din förvalda sökmotor från { $currentEngine } till { $newEngine }. Är det OK?
+webext-default-search-yes =
+    .label = Ja
+    .accesskey = J
+webext-default-search-no =
+    .label = Nej
+    .accesskey = N
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = { $addonName } har lagts till.
