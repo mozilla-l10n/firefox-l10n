@@ -7,6 +7,8 @@ xpinstall-prompt = { -brand-short-name } prevented this site from asking you to 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Allow { $host } to install an add-on?
+xpinstall-prompt-message = You are attempting to install an add-on from { $host }. Make sure you trust this site before continuing.
 
 ##
 
@@ -20,6 +22,12 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow-and-report =
     .label = Report Suspicious Site
     .accesskey = R
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Continue to Installation
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
