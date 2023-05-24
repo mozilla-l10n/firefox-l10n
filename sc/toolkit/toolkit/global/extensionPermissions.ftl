@@ -13,6 +13,7 @@ webext-perms-description-browsingData = Limpiare sa cronologia de navigatzione r
 webext-perms-description-clipboardRead = Otènnere datos de sa punta de billete
 webext-perms-description-clipboardWrite = Agiùnghere datos in punta de billete
 webext-perms-description-declarativeNetRequest = Bloca su cuntenutu in cale si siat pàgina
+webext-perms-description-declarativeNetRequestFeedback = Leghe sa cronologia de navigatzione tua
 webext-perms-description-devtools = Abèrrere is ainas de isvilupu pro atzèdere a is datos tuos in is ischedas abertas
 webext-perms-description-downloads = Iscarrigare archìvios e lèghere e modificare sa cronologia de iscarrigamentos de su navigadore
 webext-perms-description-downloads-open = Abèrrere archìvios iscarrigados in s'ordinadore

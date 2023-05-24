@@ -15,6 +15,7 @@ webext-perms-header-with-perms = Boles agiùnghere { $extension }? Custa estensi
 webext-perms-header-unsigned = Boles agiùnghere { $extension }? Custa estensione no est averiguada. Is estensiones malas ti nde podent furare is informatziones riservadas o pònnere s'elaboradore in perìgulu. Agiunghe isceti si ti fidas de s'orìgine.
 webext-perms-header-unsigned-with-perms = Boles agiùnghere { $extension }? Custa estensione no est averiguada. Is estensiones malas ti nde podent furare is informatziones riservadas o pònnere s'elaboradore in perìgulu. Agiunghe isceti si ti fidas de s'orìgine. Custa estensione at a tènnere su permissu de:
 webext-perms-sideload-header = { $extension } agiuntu
+webext-perms-optional-perms-header = { $extension } pedit permissos agiuntivos.
 
 ##
 
@@ -93,3 +94,5 @@ webext-site-perms-header-unsigned-with-perms = Boles agiùnghere { $extension }?
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Atzèdere a dispositivos MIDI
+webext-site-perms-midi-sysex = Atzèdere a dispositivos MIDI cumpatìbiles cun SysEx
