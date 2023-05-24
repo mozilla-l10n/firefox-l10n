@@ -33,6 +33,13 @@ webext-perms-update-menu-item = { $addonName } ന് പുതിയ അനു�
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] ആഡോണ്‍ ഡൗണ്‍ലോഡ് ചെയ്യുകയും പരിശോധിക്കുകയും ചെയ്യുന്നു…
+       *[other] ആഡോണുകളില്‍ { $addonCount } ഡൗണ്‍ലോഡ് ചെയ്യുകയും പരിശോധിക്കുകയും ചെയ്യുന്നു…
+    }
 addon-download-verifying = ഉറപ്പാക്കുന്നു
 addon-install-cancel-button =
     .label = റദ്ദാക്കുക
