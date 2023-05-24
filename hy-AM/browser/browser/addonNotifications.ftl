@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } կասեցրել է ձեր համակա
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Թույլատրե՞լ { $host }֊ին տեղակայել հավելումներ։
+xpinstall-prompt-message = Դուք փորձում եք տեղակայել հավելանյութ { $host }- ից: Համոզվեք, որ վստահում եք այս կայքին, նախքան շարունակելը:
 
 ##
 
+xpinstall-prompt-header-unknown = Թույլ տվեք անհայտ կայքին տեղակայել հավելանյութ:
+xpinstall-prompt-message-unknown = Դուք փորձում եք հավելանյութ տեղադրել անհայտ կայքից։Համոզվեք, որ վստահում եք այս կայքին՝շարունակելուց առաջ։
 xpinstall-prompt-dont-allow =
     .label = Չթույլատրել
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Երբեք չթույլատրել
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Շարունակել տեղակայումը
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -23,6 +36,12 @@ xpinstall-disabled = Ծրագրերի տեղակայումը ժամանակավ�
 xpinstall-disabled-button =
     .label = Միացնել
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName }({ $addonId }) արգելափակված է Ձեր համակարգավարի կողմից։
+addon-install-full-screen-blocked = Լրացուցիչ էկրան տեղադրումը չի թույլատրվում ամբողջ էկրանին ռեժիմը մուտքագրվելիս կամ դրա ընթացքում։
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName }-ը ավելացվել է { -brand-short-name }-ում
@@ -32,6 +51,10 @@ webext-perms-update-menu-item = { $addonName }-ը պահանջում է նոր �
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Հեռացնե՞լ { $name } ֊ը { -brand-shorter-name } ֊ից։
+addon-removal-button = Հեռացնել
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
