@@ -8,6 +8,7 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-bookmarks = Číst a upravovat záložky
+webext-perms-description-browserSettings = Číst a upravovat nastavení prohlížeče
 webext-perms-description-browsingData = Mazat nedávnou historii prohlížení, cookies a související data
 webext-perms-description-clipboardRead = Získat data ze schránky
 webext-perms-description-clipboardWrite = Vkládat data do schránky
