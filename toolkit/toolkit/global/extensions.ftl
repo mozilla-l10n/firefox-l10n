@@ -10,18 +10,32 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Додати { $extension }?
 webext-perms-header-with-perms = Додати { $extension }? Це розширення матиме дозвіл:
 webext-perms-header-unsigned = Додати { $extension }? Це розширення неперевірене. Зловмисні розширення можуть викрадати вашу особисту інформацію, або компрометувати ваш комп'ютер. Додавайте його лише якщо ви впевнені в надійності джерела.
 webext-perms-header-unsigned-with-perms = Додати { $extension }? Це розширення неперевірене. Зловмисні розширення можуть викрадати вашу особисту інформацію, або компрометувати ваш комп'ютер. Додавайте його лише якщо ви впевнені в надійності джерела. Це розширення матиме дозвіл:
+webext-perms-sideload-header = { $extension } додано
 webext-perms-optional-perms-header = { $extension } запитує додаткові дозволи.
 
 ##
 
+webext-perms-add =
+    .label = Додати
+    .accesskey = о
+webext-perms-cancel =
+    .label = Скасувати
+    .accesskey = С
 webext-perms-sideload-text = Інша програма на вашому комп'ютері встановила додаток, що може вплинути на ваш браузер. Ознайомтесь із запитами дозволів для цього додатка й оберіть Увімкнути чи Скасувати (щоб залишити його вимкненим).
 webext-perms-sideload-text-no-perms = Інша програма на вашому комп'ютері встановила додаток, що може вплинути на ваш браузер. Оберіть Увімкнути чи Скасувати (щоб залишити його вимкненим).
+webext-perms-sideload-enable =
+    .label = Увімкнути
+    .accesskey = У
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } було оновлено. Ви повинні схвалити нові дозволи перед встановленням оновленої версії. Вибравши “Скасувати”, розширення не оновиться і ви продовжите користуватися поточною версією. Це розширення матиме дозвіл:
+webext-perms-update-accept =
+    .label = Оновити
+    .accesskey = н
 webext-perms-optional-perms-list-intro = Він хоче отримати дозвіл на:
 webext-perms-optional-perms-allow =
     .label = Дозволити
