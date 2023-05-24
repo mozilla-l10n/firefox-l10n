@@ -12,9 +12,19 @@ xpinstall-prompt-message = U probeert een add-on te installeren vanaf { $host }.
 
 ##
 
+xpinstall-prompt-header-unknown = Een onbekende website toestaan een add-on te installeren?
+xpinstall-prompt-message-unknown = U probeert een add-on te installeren vanaf een onbekende website. Zorg ervoor dat u deze website vertrouwt voordat u verdergaat.
 xpinstall-prompt-dont-allow =
     .label = Niet toestaan
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Nooit toestaan
+    .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Verdachte website melden
+    .accesskey = m
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -24,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Deze website vraagt toegang tot uw MIDI-apparaten (Musical Instrument Digital Interface). Toegang tot apparaten kan worden ingeschakeld door een add-on te installeren.
+site-permission-install-first-prompt-midi-message = Deze toegang is niet gegarandeerd veilig. Ga alleen verder als u deze website vertrouwt.
 
 ##
 
@@ -32,6 +44,13 @@ xpinstall-disabled = Installatie van software is momenteel uitgeschakeld. Klik o
 xpinstall-disabled-button =
     .label = Inschakelen
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) is geblokkeerd door uw systeembeheerder.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Uw systeembeheerder heeft voorkomen dat deze website u vraagt software op uw computer te installeren.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } is aan { -brand-short-name } toegevoegd
@@ -42,9 +61,13 @@ webext-perms-update-menu-item = { $addonName } vereist nieuwe toestemmingen
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = { $name } verwijderen?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { $name } uit { -brand-shorter-name } verwijderen?
 addon-removal-button = Verwijderen
+addon-removal-abuse-report-checkbox = Deze extensie rapporteren aan { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,6 +109,7 @@ addon-install-error-incorrect-hash = De add-on kon niet worden geïnstalleerd, o
 addon-install-error-corrupt-file = De van deze website gedownloade add-on kon niet worden geïnstalleerd, omdat deze beschadigd lijkt.
 addon-install-error-file-access = { $addonName } kon niet worden geïnstalleerd, omdat { -brand-short-name } het benodigde bestand niet kan aanpassen.
 addon-install-error-not-signed = { -brand-short-name } heeft voorkomen dat deze website een niet-geverifieerde add-on heeft geïnstalleerd.
+addon-install-error-invalid-domain = De add-on { $addonName } kan niet vanaf deze locatie worden geïnstalleerd.
 addon-local-install-error-network-failure = Deze add-on kon niet worden geïnstalleerd, vanwege een bestandssysteemfout.
 addon-local-install-error-incorrect-hash = Deze add-on kon niet worden geïnstalleerd, omdat deze niet overeenkomt met de verwachte add-on { -brand-short-name }.
 addon-local-install-error-corrupt-file = Deze add-on kon niet worden geïnstalleerd, omdat deze beschadigd lijkt.
