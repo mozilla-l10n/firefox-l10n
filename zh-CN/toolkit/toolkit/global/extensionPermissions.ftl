@@ -13,6 +13,7 @@ webext-perms-description-browsingData = 清除最近的浏览记录、Cookie 及
 webext-perms-description-clipboardRead = 获取剪贴板数据
 webext-perms-description-clipboardWrite = 录入数据到剪贴板
 webext-perms-description-declarativeNetRequest = 拦截任何页面上的内容
+webext-perms-description-declarativeNetRequestFeedback = 读取您的浏览记录
 webext-perms-description-devtools = 让开发者工具可以存取您打开的标签页中的数据
 webext-perms-description-downloads = 下载文件和读写浏览器的下载历史
 webext-perms-description-downloads-open = 打开已下载至您的计算机的文件
