@@ -33,6 +33,7 @@ webext-perms-update-menu-item = { $addonName } नवीन परवानग�
 
 ## Add-on removal warning
 
+addon-removal-button = काढून टाका
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
