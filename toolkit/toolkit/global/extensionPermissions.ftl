@@ -21,6 +21,7 @@ webext-perms-description-history = เข้าถึงประวัติก
 webext-perms-description-management = เฝ้าสังเกตการใช้ส่วนขยายและจัดการชุดรูปแบบ
 webext-perms-description-nativeMessaging = แลกเปลี่ยนข้อความกับโปรแกรมอื่นนอกเหนือจาก { -brand-short-name }
 webext-perms-description-notifications = แสดงผลการแจ้งเตือนให้คุณ
+webext-perms-description-pkcs11 = ให้บริการตรวจสอบความถูกต้องของการเข้ารหัสลับ
 webext-perms-description-privacy = อ่านและเปลี่ยนแปลงการตั้งค่าความเป็นส่วนตัว
 webext-perms-description-proxy = ควบคุมการตั้งค่าพร็อกซีของเบราว์เซอร์
 webext-perms-description-sessions = เข้าถึงแท็บที่ปิดล่าสุด
