@@ -90,6 +90,14 @@ addon-confirm-install-message =
         [one] Aqueste site vòl installar un modul sus { -brand-short-name } :
        *[other] Aqueste site vòl installar { $addonCount } moduls de { -brand-short-name } :
     }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] Atencion : aquel site vòl installar un modul pas verificat sus { -brand-short-name }. Contunhatz sota vòstres risques.
+       *[other] Atencion : aquel site vòl installar un modul non verificat apelat { $addonCount } sus { -brand-short-name }. Contunhatz sota vòstres risques.
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Atencion : aquel site vòl installar { $addonCount } moduls sus { -brand-short-name }, qu'un almens es pas verificat. Contunhatz sota vòstres risques.
 
 ## Add-on install errors
 ## Variables:
