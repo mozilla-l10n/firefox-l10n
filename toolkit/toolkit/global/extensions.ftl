@@ -40,6 +40,29 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Refusar
     .accesskey = R
+webext-perms-host-description-all-urls = Acceder a tias datas per tut las websites
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Acceder a tias datas per paginas en la domena { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Acceder a tias datas en { $domainCount } autra domena
+       *[other] Acceder a tias datas en { $domainCount } autras domenas
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Acceder a tias datas per { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Acceder a tias datas sin { $domainCount } autra pagina
+       *[other] Acceder a tias datas sin { $domainCount } autras paginas
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
