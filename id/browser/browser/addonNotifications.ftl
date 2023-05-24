@@ -47,6 +47,9 @@ addon-download-verifying = Memverifikasi
 addon-install-cancel-button =
     .label = Batal
     .accesskey = B
+addon-install-accept-button =
+    .label = Tambahkan
+    .accesskey = T
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed

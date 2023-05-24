@@ -8,14 +8,18 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-bookmarks = Membaca dan mengubah markah
+webext-perms-description-browserSettings = Lihat dan ubah setelan peramban
+webext-perms-description-browsingData = Bersihkan riwayat penjelajahan terkini, kuki, dan data terkait
 webext-perms-description-downloads = Mengunduh berkas serta membaca dan mengubah riwayat unduhan peramban
 webext-perms-description-downloads-open = Buka berkas yang sudah diunduh ke komputer Anda
 webext-perms-description-find = Baca teks dari semua tab terbuka
+webext-perms-description-geolocation = Mengakses lokasi Anda
 webext-perms-description-history = Mengakses riwayat penjelajahan
 webext-perms-description-nativeMessaging = Bertukar pesan dengan program selain { -brand-short-name }
 webext-perms-description-notifications = Menampilkan pemberitahuan untuk Anda
 webext-perms-description-pkcs11 = Menyediakan layanan autentikasi kriptografi
 webext-perms-description-sessions = Mengakses tab yang baru saja ditutup
 webext-perms-description-tabs = Mengakses tab peramban
+webext-perms-description-tabHide = Sembunyikan dan tampilkan tab peramban
 webext-perms-description-topSites = Mengakses riwayat penjelajahan
 webext-perms-description-webNavigation = Mengakses aktivitas peramban selama navigasi
