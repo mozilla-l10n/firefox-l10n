@@ -41,8 +41,16 @@ webext-perms-optional-perms-deny =
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Truy cập dữ liệu của bạn trên trang { $domain }
 # Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards = Truy cập dữ liệu của bạn trong { $domainCount } tên miền khác
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Truy cập dữ liệu của bạn từ { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites = Truy cập dữ liệu của bạn trên { $domainCount } trang khác
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
