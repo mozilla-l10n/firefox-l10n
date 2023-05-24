@@ -40,4 +40,5 @@ addon-removal-abuse-report-checkbox = Report this extension tae { -vendor-short-
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-network-failure = The eik-on couldnae be doonloadit acause a connection didnae wirk.
 addon-local-install-error-network-failure = This eik-on couldnae be instawed acause o a filesystem mishanter.
