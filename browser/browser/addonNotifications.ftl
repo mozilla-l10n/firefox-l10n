@@ -7,9 +7,13 @@ xpinstall-prompt = { -brand-short-name } a empêché ce site d’installer un lo
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Autoriser { $host } à installer un module complémentaire ?
+xpinstall-prompt-message = Vous essayez d’installer un module complémentaire depuis { $host }. Assurez-vous qu’il s’agit d’un site digne de confiance avant de continuer.
 
 ##
 
+xpinstall-prompt-header-unknown = Autoriser un site inconnu à installer un module complémentaire ?
+xpinstall-prompt-message-unknown = Vous essayez d’installer un module complémentaire depuis un site inconnu. Assurez-vous qu’il s’agit d’un site digne de confiance avant de continuer.
 xpinstall-prompt-dont-allow =
     .label = Ne pas autoriser
     .accesskey = N
@@ -24,6 +28,8 @@ xpinstall-disabled = L’installation de logiciels est actuellement désactivée
 xpinstall-disabled-button =
     .label = Activer
     .accesskey = v
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Votre administrateur système a empêché ce site d’installer un logiciel sur votre ordinateur.
 addon-install-full-screen-blocked = L’installation de modules complémentaires n’est pas autorisée pendant ou avant le passage en mode plein écran.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -34,6 +40,10 @@ webext-perms-update-menu-item = { $addonName } demande de nouvelles permissions
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Supprimer { $name } de { -brand-shorter-name } ?
+addon-removal-button = Supprimer
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

@@ -4,5 +4,10 @@
 
 webext-perms-learn-more = En savoir plus
 # Variables:
+#   $addonName (String): localized named of the extension that is asking to change the default search engine.
+#   $currentEngine (String): name of the current search engine.
+#   $newEngine (String): name of the new search engine.
+webext-default-search-description = { $addonName } souhaite remplacer votre moteur de recherche par défaut { $currentEngine } par { $newEngine }. Cela vous convient-il ?
+# Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = { $addonName } a été ajouté.
