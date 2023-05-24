@@ -36,6 +36,9 @@ addon-download-verifying = Праверка
 addon-install-cancel-button =
     .label = Скасаваць
     .accesskey = С
+addon-install-accept-button =
+    .label = Дадаць
+    .accesskey = Д
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed

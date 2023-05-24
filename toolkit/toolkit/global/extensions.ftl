@@ -12,6 +12,7 @@
 
 webext-perms-header = Дадаць { $extension }?
 webext-perms-sideload-header = { $extension } дададзена
+webext-perms-optional-perms-header = { $extension } запытвае дадатковыя дазволы.
 
 ##
 
@@ -32,6 +33,13 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = Абнавіць
     .accesskey = А
+webext-perms-optional-perms-list-intro = Ён хоча атрымаць дазвол на:
+webext-perms-optional-perms-allow =
+    .label = Дазволіць
+    .accesskey = Д
+webext-perms-optional-perms-deny =
+    .label = Забараніць
+    .accesskey = З
 webext-perms-host-description-all-urls = Доступ да вашых звестак для ўсіх вэб-сайтаў
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
