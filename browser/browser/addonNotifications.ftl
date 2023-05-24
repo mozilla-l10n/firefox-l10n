@@ -34,6 +34,10 @@ webext-perms-update-menu-item = { $addonName } има потреба од нов
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Да се отстрани { $name }?
+addon-removal-abuse-report-checkbox = Пријавете ја оваа екстензија на { -vendor-short-name }
+# Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
     { $addonCount ->
