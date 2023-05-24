@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Adder { $extension }?
+webext-perms-header-with-perms = Adder { $extension }? Iste extension habera le permission de:
+webext-perms-header-unsigned = Adder { $extension }? Iste extension non ha essite verificate. Extensiones malevolente pote robar tu informationes personal o compromitter tu computator. Solmente installa iste extension si tu confide in su origine.
+webext-perms-header-unsigned-with-perms = Adder { $extension }? Iste extension non ha essite verificate. Extensiones malevolente pote robar tu informationes personal o compromitter tu computator. Solmente installa iste extension si tu confide in su origine. Iste extension habera le permission de:
 webext-perms-sideload-header = { $extension } addite
 webext-perms-optional-perms-header = { $extension } require altere permissiones.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancellar
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } ha essite actualisate. Tu debe approbar le nove permissiones ante que le nove version es installate. Seliger “Cancellar” mantenera le version actual de tu extension. Iste extension habera le permission de:
 webext-perms-update-accept =
     .label = Actualisar
     .accesskey = U
@@ -90,7 +96,10 @@ webext-site-perms-description-gated-perms-midi =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Adder { $extension }? Iste extension forni a { $hostname } le capacitates sequente:
+webext-site-perms-header-unsigned-with-perms = Adder { $extension }? Iste extension non es verificate. Extensiones maligne pote robar tu informationes private o compromitter tu computator. Solo adde lo si tu te fide del fonte. Iste extension forni a { $hostname } le capacitates sequente:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
 webext-site-perms-midi = Acceder al apparatos MIDI
+webext-site-perms-midi-sysex = Acceder al apparatos MIDI que supporta SysEx

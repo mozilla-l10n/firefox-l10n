@@ -14,3 +14,6 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = No
     .accesskey = N
+# Variables:
+#   $addonName (String): localized named of the extension that was just installed.
+addon-post-install-message = { $addonName } ha essite addite.
