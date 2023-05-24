@@ -20,6 +20,11 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Nikdy nepovoliť
     .accesskey = e
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Nahlásiť podozrivú stránku
+    .accesskey = N
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -29,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Táto stránka požaduje prístup k vašim zariadeniam MIDI (Musical Instrument Digital Interface). Prístup k zariadeniam je možné povoliť inštaláciou doplnku.
+site-permission-install-first-prompt-midi-message = Tento prístup nie je zaručene bezpečný. Pokračujte len vtedy, ak dôverujete tejto stránke.
 
 ##
 
@@ -57,6 +64,9 @@ webext-perms-update-menu-item = Doplnok { $addonName } vyžaduje nové povolenia
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Odstrániť { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Odstrániť { $name } z prehliadača { -brand-shorter-name }?
 addon-removal-button = Odstrániť
 addon-removal-abuse-report-checkbox = Nahlásiť toto rozšírenie spoločnosti { -vendor-short-name }
 # Variables:
