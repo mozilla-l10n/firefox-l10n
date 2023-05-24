@@ -23,6 +23,7 @@ xpinstall-disabled-button =
 
 ## Add-on removal warning
 
+addon-download-verifying = מאמת
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
