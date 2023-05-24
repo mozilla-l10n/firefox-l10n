@@ -15,10 +15,16 @@
 
 ##
 
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } ని { -brand-short-name } కి జోడించబడినది
 
 ## Add-on removal warning
 
 addon-download-verifying = నిర్ధారించుచున్నది
+addon-install-cancel-button =
+    .label = రద్దుచేయి
+    .accesskey = C
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
