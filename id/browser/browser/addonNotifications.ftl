@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } telah mencegah situs ini untuk memasang
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Jangan Izinkan
+    .accesskey = J
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -22,6 +25,12 @@ xpinstall-disabled-button =
     .label = Aktifkan
     .accesskey = f
 addon-install-full-screen-blocked = Instalasi pengaya tidak diizinkan saat sebelum memasuki atau berada dalam mode layar penuh.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } ditambahkan pada { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } memerlukan izin baru
 
 ## Add-on removal warning
 

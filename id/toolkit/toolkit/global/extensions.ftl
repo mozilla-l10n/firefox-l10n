@@ -11,9 +11,19 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Tambahkan { $extension }?
+webext-perms-sideload-header = { $extension } ditambahkan
 
 ##
 
+webext-perms-add =
+    .label = Tambahkan
+    .accesskey = T
+webext-perms-cancel =
+    .label = Batal
+    .accesskey = B
+webext-perms-sideload-enable =
+    .label = Aktifkan
+    .accesskey = A
 webext-perms-sideload-cancel =
     .label = Batal
     .accesskey = B
