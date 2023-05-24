@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = Уклони додатак
 unified-extensions-context-menu-report-extension =
     .label = Пријави додатак
+unified-extensions-context-menu-move-widget-up =
+    .label = Помери горе
+unified-extensions-context-menu-move-widget-down =
+    .label = Помери доле

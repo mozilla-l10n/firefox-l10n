@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Дошло је до грешке при повезивању на { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код грешке: { $error }
-
 psmerr-ssl-disabled = Није могуће безбедно повезивање јер је протокол SSL искључен.
 psmerr-ssl2-disabled = Безбедно повезивање није могуће јер сајт користи старију верзију SSL протокола.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Примили сте неисправан сертификат. Обавестите администратора сервера или надлежне о следећем:
     
     Ваш сертификат садржи исти серијски број као још неки сертификат издат од стране сертификационог тела. Набавите нови сертификат са јединственим серијским бројем.
-
 ssl-error-export-only-server = Није могућа безбедна комуникација. Удаљени рачунар не подржава шифровање високе категорије.
 ssl-error-us-only-server = Није могућа безбедна комуникација. Удаљени рачунар захтева шифровање високе категорије које није подржано.
 ssl-error-no-cypher-overlap = Није могуће безбедна комуникација са удаљеним рачунаром: Нема заједничких алгоритама за шифровање.
@@ -218,7 +214,7 @@ xp-sec-fortezza-none-selected = Није изабрана Fortezza карта
 xp-sec-fortezza-more-info = Изаберите личност о којој треба добавити податке
 xp-sec-fortezza-person-not-found = Личност није пронађена
 xp-sec-fortezza-no-more-info = Нема више података о тој личности
-xp-sec-fortezza-bad-pin = Неисправан Pin
+xp-sec-fortezza-bad-pin = Неисправан PIN
 xp-sec-fortezza-person-error = Није могуће покренути Fortezza личности.
 sec-error-no-krl = KRL за сертификат овог сајта није пронађен.
 sec-error-krl-expired = KRL за сертификат овог сајта је истекао.
