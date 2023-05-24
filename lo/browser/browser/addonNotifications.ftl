@@ -9,12 +9,18 @@
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = ບໍ່ອະນຸຍາດ
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 
 ##
 
+xpinstall-disabled-button =
+    .label = ເປີດໃຊ້ງານ
+    .accesskey = n
 
 ## Add-on removal warning
 
