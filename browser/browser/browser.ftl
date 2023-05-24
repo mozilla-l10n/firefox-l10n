@@ -993,8 +993,10 @@ firefox-relay-offer-what-relay-does = Tots els missatges de correu electrònic d
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (No verificat)
 popup-notification-xpinstall-prompt-learn-more = Més informació sobre la instal·lació de complements de forma segura
 
 ## Pop-up warning
