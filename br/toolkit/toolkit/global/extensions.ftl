@@ -58,6 +58,17 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Haeziñ ho roadennoù evit { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Haeziñ ho roadennoù war { $domainCount } lec'hienn all
+        [two] Haeziñ ho roadennoù war { $domainCount } lec'hienn all
+        [few] Haeziñ ho roadennoù war { $domainCount } lec'hienn all
+        [many] Haeziñ ho roadennoù war { $domainCount } lec'hienn all
+       *[other] Haeziñ ho roadennoù war { $domainCount } lec'hienn all
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
