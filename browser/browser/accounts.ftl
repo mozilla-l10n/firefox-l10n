@@ -42,11 +42,14 @@ account-send-tab-to-device-verify = アカウントを認証...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = このコンピューターは { $deviceName } と接続しました。
 # Used when the name of the new device is not known.
-account-connection-connected-with-noname = このコンピューターは新規端末と接続しました。
+account-connection-connected-with-noname = このコンピューターは新しい端末と接続しました。
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = ログインできました
 # Used in a notification shown after the Firefox account was disconnected remotely.
