@@ -25,6 +25,7 @@ xpinstall-disabled-button =
 
 ## Add-on removal warning
 
+addon-removal-button = Alisin
 addon-download-verifying = Biniberika
 addon-install-cancel-button =
     .label = Kanselahin
@@ -38,3 +39,7 @@ addon-install-cancel-button =
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-network-failure = Hindi ma-install ang add-on na ito dahil sa filesystem error.
+addon-local-install-error-incorrect-hash = Hindi ma-install ang add-on dahil hindi tugma sa inaasahan ng add-on { -brand-short-name }.
+addon-local-install-error-corrupt-file = Hindi ma-install ang add-on dahil ito ay sira.
+addon-local-install-error-not-signed = Hindi ma-install ang add-on dahil hindi pa ito na beripika.

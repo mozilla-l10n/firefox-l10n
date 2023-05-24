@@ -34,6 +34,7 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Tanggihan
     .accesskey = D
+webext-perms-host-description-all-urls = I-access ang iyong data para sa lahat ng website
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = i-Access ang iyong data para sa mga site sa { $domain } domain
