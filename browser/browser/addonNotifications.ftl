@@ -64,6 +64,9 @@ webext-perms-update-menu-item = { $addonName } yêu cầu quyền mới
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Xóa { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Gỡ bỏ { $name } từ { -brand-shorter-name }?
 addon-removal-button = Xóa
 addon-removal-abuse-report-checkbox = Báo cáo tiện ích mở rộng này cho { -vendor-short-name }
 # Variables:
