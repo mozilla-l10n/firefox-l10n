@@ -26,5 +26,6 @@ webext-perms-description-privacy = Consulter et modifier les paramètres de vie 
 webext-perms-description-proxy = Contrôler les paramètres proxy du navigateur
 webext-perms-description-sessions = Accéder aux onglets récemment fermés
 webext-perms-description-tabs = Accéder aux onglets du navigateur
+webext-perms-description-tabHide = Afficher ou masquer les onglets du navigateur
 webext-perms-description-topSites = Accéder à l’historique de navigation
 webext-perms-description-webNavigation = Accéder à l’activité du navigateur pendant la navigation
