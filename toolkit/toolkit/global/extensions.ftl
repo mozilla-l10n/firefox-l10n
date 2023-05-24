@@ -75,9 +75,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Bheir an tuilleadan seo inntrigidh dha { $hostname } dha na h-uidheaman MIDI agad.
+webext-site-perms-header-with-gated-perms-midi-sysex = Bheir an tuilleadan seo inntrigidh dha { $hostname } dha na h-uidheaman MIDI agad (le taic SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    ’S e uidheaman plug-in a bhios annta mar is trice, mar shinteisearan fuaime ach dh’fhaoidte cuideachd gum bi e am broinn a’ choimpiutair agad.
+    
+    Mar is trice, cha bhi cead-inntrigidh aig làraichean-lìn do dh’uidheaman MIDI. Tha cunnart ann gun èirich dochann no briseadh tèarainteachd ri linn mì-ghnìomh.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -85,6 +94,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = A bheil thu airson { $extension } a chur ris? Bheir an leudachan seo na comasan a leanas dha { $hostname }:
+webext-site-perms-header-unsigned-with-perms = A bheil thu airson { $extension } a chur ris? Cha deach an leudachan seo a dhearbhadh. Goididh leudachain dhroch-rùnach fiosrachadh prìobhaideach ort no millidh iad an coimpiutair agad. Na stàlaich an leudachan seo ach ma tha earbsa agad san tùs. Bheir an leudachan seo na comasan a leanas dha { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Cothrom fhaighinn air uidheaman MIDI
+webext-site-perms-midi-sysex = Cothrom fhaighinn air uidheama MIDI le taic SysEx
