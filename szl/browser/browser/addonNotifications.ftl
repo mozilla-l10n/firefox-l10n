@@ -93,6 +93,14 @@ addon-confirm-install-unsigned-message =
         [few] Pozōr: Ta strōna chce zainsztalować { $addonCount } niyzweryfikowane rozszyrzynia do aplikacyje { -brand-short-name }. Insztalujesz to na włosne ryzyko.
        *[many] Pozōr: Ta strōna chce zainsztalować { $addonCount } niyzweryfikowanych rozszyrzyń do aplikacyje { -brand-short-name }. Insztalujesz to na włosne ryzyko.
     }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message =
+    { $addonCount ->
+        [one] Pozōr: Ta strōna chce zainsztalować { $addonCount } rozszyrzynia do aplikacyje { -brand-short-name }, a niykere ś nich sōm niyzweryfikowane. Insztalujesz to na włosne ryzyko.
+        [few] Pozōr: Ta strōna chce zainsztalować { $addonCount } rozszyrzynia do aplikacyje { -brand-short-name }, a niykere ś nich sōm niyzweryfikowane. Insztalujesz to na włosne ryzyko.
+       *[many] Pozōr: Ta strōna chce zainsztalować { $addonCount } rozszyrzyń do aplikacyje { -brand-short-name }, a niykere ś nich sōm niyzweryfikowane. Insztalujesz to na włosne ryzyko.
+    }
 
 ## Add-on install errors
 ## Variables:
