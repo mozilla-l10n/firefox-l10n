@@ -12,6 +12,7 @@ webext-perms-description-browserSettings = Consulter et modifier les paramètres
 webext-perms-description-browsingData = Effacer l’historique de navigation récent, les cookies et les données associées
 webext-perms-description-clipboardRead = Lire les données du presse-papiers
 webext-perms-description-clipboardWrite = Ajouter des données dans le presse-papiers
+webext-perms-description-declarativeNetRequest = Bloquer du contenu sur n’importe quelle page
 webext-perms-description-devtools = Ouvrir les outils de développement afin d’accéder à vos données dans les onglets ouverts
 webext-perms-description-downloads = Télécharger des fichiers, et consulter et modifier l’historique des téléchargements du navigateur
 webext-perms-description-downloads-open = Ouvrir les fichiers téléchargés sur votre ordinateur
