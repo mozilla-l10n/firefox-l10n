@@ -55,6 +55,9 @@ webext-perms-update-menu-item = { $addonName }-ը պահանջում է նոր �
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Հեռացնե՞լ { $name }-ը
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Հեռացնե՞լ { $name }֊ը { -brand-shorter-name }֊ից։
 addon-removal-button = Հեռացնել
