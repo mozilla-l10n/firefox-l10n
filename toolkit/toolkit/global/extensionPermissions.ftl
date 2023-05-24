@@ -8,6 +8,7 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-bookmarks = អាន និង​កែប្រែ​ចំណាំ
+webext-perms-description-browserSettings = អាន និង​កែប្រែ​ការ​កំណត់​កម្មវិធី​រុករក
 webext-perms-description-clipboardRead = យក​ទិន្នន័យ​ពី​អង្គ​ចងចាំ
 webext-perms-description-clipboardWrite = ដាក់​ទិន្នន័យ​ចូល​អង្គ​ចងចាំ
 webext-perms-description-downloads = ទាញយក​ឯកសារ និង​អាន រួច​កែប្រែ​ប្រវត្តិ​ទាញយក​របស់​កម្មវិធី​អ៊ីនធឺណិត
