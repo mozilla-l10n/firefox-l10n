@@ -19,6 +19,9 @@
 ## Add-on removal warning
 
 addon-removal-button = Sampôh
+addon-install-accept-button =
+    .label = Tamah
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
