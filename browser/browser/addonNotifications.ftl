@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = { -brand-short-name } har förhindrat den här hemsidan från att fråga om du vill installera programvara på datorn.
+xpinstall-prompt = { -brand-short-name } hindrade den här webbplatsen från att be dig installera programvara på din dator.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -73,8 +73,8 @@ addon-removal-abuse-report-checkbox = Rapportera detta tillägg till { -vendor-s
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
     { $addonCount ->
-        [one] Laddar ner och verifierar tillägg...
-       *[other] Laddar ner och verifierar { $addonCount } tillägg...
+        [one] Laddar ner och verifierar tillägg…
+       *[other] Laddar ner och verifierar { $addonCount } tillägg…
     }
 addon-download-verifying = Verifierar
 addon-install-cancel-button =
@@ -89,8 +89,8 @@ addon-install-accept-button =
 
 addon-confirm-install-message =
     { $addonCount ->
-        [one] Den här hemsidan vill installera ett tillägg i { -brand-short-name }:
-       *[other] Den här hemsidan vill installera { $addonCount } tillägg i { -brand-short-name }:
+        [one] Den här webbplatsen vill installera ett tillägg i { -brand-short-name }:
+       *[other] Den här webbplatsen vill installera { $addonCount } tillägg i { -brand-short-name }:
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
