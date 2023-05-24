@@ -77,6 +77,8 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Ce module complémentaire donne accès aux périphériques MIDI à { $hostname }.
+webext-site-perms-header-with-gated-perms-midi-sysex = Ce module complémentaire donne accès aux périphériques MIDI (avec la prise en charge de SysEx) à { $hostname }.
 
 ##
 
@@ -87,6 +89,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Ajouter { $extension } ? Cette extension donne les capacités suivantes à { $hostname } :
+webext-site-perms-header-unsigned-with-perms = Ajouter { $extension } ? Cette extension n’a pas été vérifiée. Une extension malveillante peut voler vos informations personnelles ou compromettre votre ordinateur. Ne l’ajoutez que si vous faites confiance à sa source. Cette extension donne les capacités suivantes à { $hostname } :
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Accéder aux appareils MIDI
+webext-site-perms-midi-sysex = Accéder aux appareils MIDI prenant en charge SysEx

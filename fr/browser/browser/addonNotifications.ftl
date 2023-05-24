@@ -17,6 +17,12 @@ xpinstall-prompt-message-unknown = Vous essayez d’installer un module complém
 xpinstall-prompt-dont-allow =
     .label = Ne pas autoriser
     .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Continuer l’installation
+    .accesskey = I
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -85,6 +91,7 @@ addon-install-error-incorrect-hash = Le module complémentaire n’a pas pu êtr
 addon-install-error-corrupt-file = Le module complémentaire téléchargé depuis ce site n’a pas pu être installé car il semble corrompu.
 addon-install-error-file-access = { $addonName } n’a pas pu être installé car un fichier n’a pas pu être modifié par { -brand-short-name }.
 addon-install-error-not-signed = { -brand-short-name } a empêché ce site d’installer un module complémentaire non vérifié.
+addon-install-error-invalid-domain = Le module complémentaire { $addonName } ne peut pas être installé depuis cet emplacement.
 addon-local-install-error-network-failure = Ce module complémentaire n’a pas pu être installé à cause d’une erreur du système de fichiers.
 addon-local-install-error-incorrect-hash = Ce module complémentaire n’a pas pu être installé car il ne correspond pas au module attendu par { -brand-short-name }.
 addon-local-install-error-corrupt-file = Ce module complémentaire n’a pas pu être installé car il semble être corrompu.
