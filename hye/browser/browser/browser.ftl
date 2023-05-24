@@ -846,8 +846,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Չստուգուած)
 popup-notification-xpinstall-prompt-learn-more = Իմացէք աւելին հաւելումների ապահով տեղակայման մասին
 
 ## Pop-up warning
