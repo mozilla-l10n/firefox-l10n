@@ -26,5 +26,6 @@ webext-perms-description-privacy = Janngu tee mbaylaa teelte sutura
 webext-perms-description-proxy = Yiil teelte proksi wanngorde
 webext-perms-description-sessions = Tabbe uddaaɗe sakket
 webext-perms-description-tabs = Yetto tabbe wanngorde
+webext-perms-description-tabHide = Suuɗ tee hollir tabbe wanngorde ndee
 webext-perms-description-topSites = Yah to daartol kewe banngagol
 webext-perms-description-webNavigation = Yah to coftal wanngorde nde mbanngoto-ɗaa ndee
