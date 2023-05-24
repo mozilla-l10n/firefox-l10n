@@ -8,9 +8,12 @@ xpinstall-prompt = { -brand-short-name } je tej strani preprečil vprašati, ali
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Dovolite { $host } namestitev dodatka?
+xpinstall-prompt-message = Poskušate namestiti dodatek iz { $host }. Preden nadaljujete, preverite, da zaupate tej strani.
 
 ##
 
+xpinstall-prompt-header-unknown = Ali dovolite nameščanje dodatka neznani strani?
+xpinstall-prompt-message-unknown = Poskušate namestiti dodatek iz neznane strani. Preden nadaljujete, preverite, da zaupate tej strani.
 xpinstall-prompt-dont-allow =
     .label = Ne dovoli
     .accesskey = N
@@ -22,6 +25,12 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-never-allow-and-report =
     .label = Prijavi sumljivo stran
     .accesskey = j
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Nadaljuj z namestitvijo
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -35,8 +44,14 @@ xpinstall-disabled = Namestitev programske opreme je trenutno onemogočena. Klik
 xpinstall-disabled-button =
     .label = Omogoči
     .accesskey = O
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = Vaš sistemski skrbnik je zavrnil { $addonName } ({ $addonId }).{ " " }
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Skrbnik vašega sistema je tej strani preprečil vprašati, ali lahko na vaš računalnik namesti programsko opremo.
+addon-install-full-screen-blocked = Namestitev dodatkov ni dovoljena med ali pred vstopom v celozaslonski način.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } je bil dodan v { -brand-short-name }
