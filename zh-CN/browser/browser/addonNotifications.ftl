@@ -47,6 +47,9 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = 注意：此网站想在 { -brand-short-name } 中安装 { $addonCount } 个附加组件，其中一些未通过验证。请谨慎决定。
 
 ## Add-on install errors
 ## Variables:
