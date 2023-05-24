@@ -11,10 +11,20 @@ xpinstall-prompt-header = { $host } को ऐड-ऑन स्थापित �
 
 ##
 
+xpinstall-prompt-header-unknown = किसी अज्ञात साइट को ऐड-ऑन स्थापित करने की अनुमति दें?
 xpinstall-prompt-message-unknown = आप किसी अज्ञात साइट से ऐड-ऑन स्थापित करने का प्रयास कर रहे हैं। सुनिश्चित करें कि आप जारी रखने से पहले इस साइट पर भरोसा करते हैं।
 xpinstall-prompt-dont-allow =
     .label = अनुमति न दें
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = कभी अनुमति न दें
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = स्थापना के लिए जारी रखें
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -23,6 +33,9 @@ xpinstall-prompt-dont-allow =
 
 xpinstall-disabled-locked = सॉफ़्टवेयर संस्थापन आपके सिस्टम प्रशासक के द्वारा निष्क्रिय कर दिया गया है.
 xpinstall-disabled = सॉफ्टवेयर संस्थापन अभी निष्क्रिय है. सक्रिय पर क्लिक करें और फिर कोशिश करें.
+xpinstall-disabled-button =
+    .label = 0सक्रिय करें
+    .accesskey = n
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } को { -brand-short-name } से जोड़ा गया
