@@ -15,6 +15,7 @@ webext-perms-description-clipboardWrite = Nhập dữ liệu vào bộ nhớ t�
 webext-perms-description-declarativeNetRequest = Chặn nội dung trên bất kỳ trang nào
 webext-perms-description-declarativeNetRequestFeedback = Đọc lịch sử duyệt web của bạn
 webext-perms-description-devtools = Mở rộng công cụ nhà phát triển để truy cập dữ liệu của bạn trong các thẻ đang mở
+webext-perms-description-downloads = Tải xuống các tập tin và chỉnh sửa lịch sử tải về của trình duyệt
 webext-perms-description-downloads-open = Mở tập tin đã tải xuống máy tính của bạn
 webext-perms-description-find = Đọc văn bản của tất cả các thẻ đang mở
 webext-perms-description-geolocation = Truy cập vị trí của bạn
