@@ -33,6 +33,7 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = Actualizează
     .accesskey = U
+webext-perms-optional-perms-list-intro = Vrea:
 webext-perms-optional-perms-allow =
     .label = Permite
     .accesskey = A
@@ -43,6 +44,15 @@ webext-perms-host-description-all-urls = Să îți acceseze datele pentru toate 
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Să îți acceseze datele pentru site-uri din domeniul { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Să îți acceseze datele într-un alt domeniu
+        [few] Să îți acceseze datele în alte { $domainCount } domenii
+       *[other] Să îți acceseze datele în alte { $domainCount } de domenii
+    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Să îți acceseze datele pentru { $domain }

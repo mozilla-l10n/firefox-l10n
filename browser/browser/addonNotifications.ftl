@@ -11,9 +11,14 @@ xpinstall-prompt-message = Încerci să instalezi un supliment de la { $host }. 
 
 ##
 
+xpinstall-prompt-header-unknown = Permiți unui site necunoscut să instaleze un supliment?
+xpinstall-prompt-message-unknown = Încerci să instalezi un supliment de pe un site necunoscut. Asigură-te că site-ul e de încredere înainte de a continua.
 xpinstall-prompt-dont-allow =
     .label = Nu permite
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Nu permite niciodată
+    .accesskey = N
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -31,12 +36,25 @@ xpinstall-disabled = Instalarea de programe este dezactivată în prezent. Dă c
 xpinstall-disabled-button =
     .label = Activează
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) este blocat de administratorul de sistem.
+addon-install-full-screen-blocked = Instalarea de suplimente nu este permisă cât timp ești sau înainte de a intra în modul de afișare pe tot ecranul.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } adăugat în { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } solicită permisiuni noi
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Elimini { $name } din { -brand-shorter-name }?
+addon-removal-button = Elimină
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -82,6 +100,7 @@ addon-confirm-install-some-unsigned-message =
 
 addon-install-error-network-failure = Suplimentul nu a putut fi descărcat din cauza unui eșec de conectare.
 addon-install-error-incorrect-hash = Suplimentul nu a putut fi instalat deoarece nu se potrivește cu suplimentul { -brand-short-name } așteptat.
+addon-install-error-corrupt-file = Suplimentul descărcat de pe acest site nu a putut fi instalat deoarece pare să fie corupt.
 addon-install-error-file-access = { $addonName } nu a putut fi instalat deoarece { -brand-short-name } nu poate modifica fișierul necesar.
 addon-install-error-not-signed = { -brand-short-name } a împiedicat acest site să instaleze un supliment neverificat.
 addon-local-install-error-network-failure = Acest supliment nu a putut fi instalat din cauza unei erori la sistemul de fișiere.
