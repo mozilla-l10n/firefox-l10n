@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } ogengo kakube man me penyi me keto puru
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Yee ki { $host } me keto med-ikome?
+xpinstall-prompt-message = Itye ka temo me keto med-ikome ki i { $host }. Nen ni meno i geno kakube man ma pud pe imede anyim.
 
 ##
 
+xpinstall-prompt-header-unknown = Yee ki kakube ma pe ngene me keto med-ikome?
+xpinstall-prompt-message-unknown = Itye ka temo me keto med-ikome ki i kakube ma pe ngene. Nen ni meno i geno kakube man ma pud pe imede anyim.
 xpinstall-prompt-dont-allow =
     .label = Pe i ye
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Matwal pe iyee
+    .accesskey = M
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Mede me keto
+    .accesskey = M
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -33,6 +46,10 @@ webext-perms-update-menu-item = { $addonName } mito twero manyen
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Kwany { $name } ki ii { -brand-shorter-name }?
+addon-removal-button = Kwany
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

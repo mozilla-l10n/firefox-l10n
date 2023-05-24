@@ -42,6 +42,17 @@ webext-perms-optional-perms-deny =
     .accesskey = K
 webext-perms-host-description-all-urls = Nong data ni pi kakube weng
 # Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Nong data mamegi pi kakube i ker me { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Nong data mamegi i ker { $domainCount } mukene
+       *[other] Nong data mamegi i ker { $domainCount } mukene
+    }
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Nong data ni pi { $domain }
 
