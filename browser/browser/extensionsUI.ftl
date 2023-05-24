@@ -7,6 +7,12 @@
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
 webext-default-search-description = { $addonName } quisiera cambiar su motor de búsqueda de { $currentEngine } a { $newEngine }. ¿Está de acuerdo?
+webext-default-search-yes =
+    .label = Sí
+    .accesskey = S
+webext-default-search-no =
+    .label = No
+    .accesskey = N
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = { $addonName } fue agregada.
