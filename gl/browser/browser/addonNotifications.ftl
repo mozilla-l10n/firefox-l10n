@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } evitou que este sitio solicitase instal
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Non permitir
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +27,9 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } engadiuse a { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } require novos permisos
 
 ## Add-on removal warning
 
@@ -42,6 +48,9 @@ addon-download-verifying = Comprobando
 addon-install-cancel-button =
     .label = Cancelar
     .accesskey = C
+addon-install-accept-button =
+    .label = Engadir
+    .accesskey = a
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed

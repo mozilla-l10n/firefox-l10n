@@ -10,13 +10,33 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Engadir { $extension }?
 webext-perms-sideload-header = Engadiuse { $extension }
+webext-perms-optional-perms-header = { $extension } solicita permisos adicionais.
 
 ##
 
+webext-perms-add =
+    .label = Engadir
+    .accesskey = a
+webext-perms-cancel =
+    .label = Cancelar
+    .accesskey = C
 webext-perms-sideload-text = Outro programa do seu computador instalou un complemento que pode afectar ao seu navegador. Revise os permisos que solicita este complemento e escolla Activar ou Cancelar (para deixalo desactivado).
 webext-perms-sideload-text-no-perms = Outro programa do seu computador instalou un complemento que pode afectar ao seu navegador. Escolla Activar ou Cancelar (para deixalo desactivado).
+webext-perms-sideload-enable =
+    .label = Activar
+    .accesskey = v
+webext-perms-sideload-cancel =
+    .label = Cancelar
+    .accesskey = C
 webext-perms-optional-perms-list-intro = Quere:
+webext-perms-optional-perms-allow =
+    .label = Permitir
+    .accesskey = P
+webext-perms-optional-perms-deny =
+    .label = Denegar
+    .accesskey = D
 webext-perms-host-description-all-urls = Acceder aos seus datos de todos os sitios web
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
