@@ -1003,8 +1003,10 @@ firefox-relay-offer-what-relay-does = ਅਸੀਂ <strong>{ $sitename }</strong
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (ਨਾ-ਜਾਂਚ ਕੀਤੇ)
 popup-notification-xpinstall-prompt-learn-more = ਐਡ-ਆਨਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਇੰਸਟਾਲ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 ## Pop-up warning
