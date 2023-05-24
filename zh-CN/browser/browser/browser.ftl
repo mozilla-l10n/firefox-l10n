@@ -683,7 +683,7 @@ fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 已
 fullscreen-warning-no-domain = 此文档已进入全屏模式
 fullscreen-exit-button = 退出全屏模式(Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
-fullscreen-exit-mac-button = 退出全屏模式（esc）
+fullscreen-exit-mac-button = 退出全屏模式(esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
