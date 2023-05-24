@@ -62,3 +62,12 @@ addon-confirm-install-some-unsigned-message =
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-network-failure = Doplněk nemohl být stažen z důvodu selhání připojení.
+addon-install-error-corrupt-file = Doplněk stažený z tohoto serveru nemohl být nainstalován, protože je poškozený.
+addon-install-error-not-signed = Aplikace { -brand-short-name } zabránila tomuto serveru v instalaci neověřeného doplňku.
+addon-local-install-error-network-failure = Tento doplněk nemohl být nainstalován z důvodu chyby souborového systému.
+addon-local-install-error-corrupt-file = Tento doplněk nemohl být nainstalován, protože je poškozený.
+addon-local-install-error-not-signed = Tento doplněk nemohl být nainstalován, protože nebyl ověřen.
+# Variables:
+#   $appVersion (String): the application version.
+addon-install-error-incompatible = Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s aplikací { -brand-short-name } { $appVersion }.
