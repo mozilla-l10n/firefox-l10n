@@ -57,7 +57,7 @@ pictureinpicture-exit-fullscreen-btn =
     .tooltip = Sair de tela inteira (duplo-clique)
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
 pictureinpicture-toggle-fullscreen-shortcut =
-    .key = T
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Voltar
     .tooltip = Voltar (←)
