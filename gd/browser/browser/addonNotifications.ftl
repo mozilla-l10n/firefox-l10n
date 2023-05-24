@@ -7,13 +7,19 @@ xpinstall-prompt = Cha do leig { -brand-short-name } leis an làrach seo iarraid
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = An doir thu cead dha { $host } leudachan a stàladh?
 xpinstall-prompt-message = Tha thu a’ feuchainn ri tuilleadan a stàladh o { $host }. Dèan cinnteach gu bheil earbsa agad san làrach seo mus lean thu air adhart.
 
 ##
 
+xpinstall-prompt-header-unknown = An doir thu cead do làrach nach aithne dhuinn tuilleadan a stàladh?
+xpinstall-prompt-message-unknown = Tha thu a’ feuchainn ri tuilleadan a stàladh o làrach neo-aithnichte. Dèan cinnteach gu bheil earbsa agad san làrach seo mus lean thu air adhart.
 xpinstall-prompt-dont-allow =
     .label = Na ceadaich
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Na ceadaich seo idir
+    .accesskey = N
 # Long text in this context make the dropdown menu extend awkwardly to the left,
 # avoid a localization that's significantly longer than the English version.
 xpinstall-prompt-never-allow-and-report =
@@ -38,8 +44,14 @@ xpinstall-disabled = Chan eil stàladh bathair-bhuig an comas an-dràsta. Briog 
 xpinstall-disabled-button =
     .label = Cuir an comas
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = Chaidh { $addonName } ({ $addonId }) a bhacadh le rianaire an t-siostaim agad.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Cha do leig rianair an t-siostaim agad leis an làrach seo iarraidh ort bathar-bog a stàladh air a’ choimpiutair agad.
+addon-install-full-screen-blocked = Chan fhaod thu tuilleadan a stàladh fhad ’s a tha thu ann am modh na làn-sgrìn no gu bhith dol ann.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Chaidh { $addonName } a chur ri { -brand-short-name }
@@ -50,9 +62,13 @@ webext-perms-update-menu-item = Feumaidh { $addonName } ceadan ùra
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = A bheil thu airson { $name } a thoirt air falbh?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = A bheil thu airson { $name } a thoirt air falbh o { -brand-shorter-name }?
 addon-removal-button = Thoir air falbh
+addon-removal-abuse-report-checkbox = Dèan aithris air an leudachan seo gu { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = A bheil thu airson { $extension } a chur ris?
+webext-perms-header-with-perms = A bheil thu airson { $extension } a chur ris? Seo na dh’fhaodas an leudachan:
+webext-perms-header-unsigned = A bheil thu airson { $extension } a chur ris? An aire: Cha deach an leudachan seo a dhearbhadh. Goididh leudachain dhroch-rùnach fiosrachadh prìobhaideach ort no millidh iad an coimpiutair agad. Na stàlaich an leudachan seo ach ma tha earbsa agad san tùs.
+webext-perms-header-unsigned-with-perms = A bheil thu airson { $extension } a chur ris? An aire: Cha deach an leudachan seo a dhearbhadh. Goididh leudachain dhroch-rùnach fiosrachadh prìobhaideach ort no millidh iad an coimpiutair agad. Na stàlaich an leudachan seo ach ma tha earbsa agad san tùs. Seo na dh’fhaodas an leudachan:
 webext-perms-sideload-header = Chaidh { $extension } a chur ris
 webext-perms-optional-perms-header = Tha { $extension } ag iarraidh ceadan a bharrachd.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Sguir dheth
     .accesskey = S
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = Chaidh { $extension } ùrachadh. Feumaidh tu aontachadh ris na ceadan ùra mus dèid an tionndadh ùr a stàladh. Ma thaghas tu “Sguir dheth”, thèid an leudachan làithreach a ghlèidheadh. Seo na dh’fhaodas an leudachan:
 webext-perms-update-accept =
     .label = Ùraich
     .accesskey = r
