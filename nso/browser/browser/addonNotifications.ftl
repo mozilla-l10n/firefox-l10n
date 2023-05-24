@@ -20,6 +20,7 @@ xpinstall-disabled = Go lokela lenaneotirišo la khomphutha gabjale go šitišit
 
 ## Add-on removal warning
 
+addon-download-verifying = Go netefatša
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -29,3 +30,5 @@ xpinstall-disabled = Go lokela lenaneotirišo la khomphutha gabjale go šitišit
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-network-failure = Setlaleletši se se ka se lokelwe ka baka la phošo ya tshepedišo ya faele.
+addon-local-install-error-corrupt-file = Setlaleletši se se ka se lokelwe ka ge se bonagala se senyegile.
