@@ -77,9 +77,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Dette tillegget gir { $hostname } tilgang til MIDI-einingane dine.
+webext-site-perms-header-with-gated-perms-midi-sysex = Dette tillegget gir { $hostname } tilgang til MIDI-einingane dine (med SysEx-støtte).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Dette er vanlegvis eksterne synthesizerar, men dei kan også vere innebyggde i datamaskina di.
+    
+    Nettstadar har normalt ikkje tillgang til MIDI-einingar. Feil bruk kan føre til skade eller kompromittere sikkerheita.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -88,6 +97,7 @@ webext-perms-host-description-too-many-sites =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Vil du leggje til { $extension }? Denne utvidinga gir { $hostname } følgjande funksjonar:
+webext-site-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne utvidinga er ikkje stadfesta. Skadelege utvidingar kan stele privatopplysningane dine eller kompromittere datamaskina di. Legg berre til denne utvidinga om du stolar på kjelda. Denne utvidinga gir følgjande funksjonar til { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
