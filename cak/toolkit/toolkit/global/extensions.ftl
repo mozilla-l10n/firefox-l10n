@@ -39,6 +39,7 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Tiq'at
     .accesskey = T
+webext-perms-host-description-all-urls = Nok pa ri taq atzij pa ronojel ri ajk'amaya'l ruxaq
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Katok pa ri taq atzij richin ri taq ruxaq k'amaya'l pa { $domain } ruk'ojlem b'ey
