@@ -96,6 +96,10 @@ webext-site-perms-description-gated-perms-midi =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = ¿Añadir { $extension }? Esta extensión concede los siguientes permisos a { $hostname }:
+webext-site-perms-header-unsigned-with-perms = ¿Añadir { $extension }? Esta extensión no está verificada. Las extensiones maliciosas pueden robar su información privada o comprometer su ordenador. Añádala únicamente si confía en la fuente. Esta extensión concede los siguientes permisos a { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Acceder a dispositivos midi
+webext-site-perms-midi-sysex = Acceder a dispositivos MIDI con soporte para SysEx
