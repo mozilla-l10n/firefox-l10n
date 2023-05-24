@@ -12,6 +12,7 @@
 
 webext-perms-header = Tilføj { $extension }?
 webext-perms-header-with-perms = Tilføj { $extension }? Denne udvidelse vil have tilladelse til at:
+webext-perms-header-unsigned = Tilføj { $extension }? Denne udvidelse er ikke verificeret. Ondsindede udvidelser kan stjæle dine personlige oplysninger eller bringe din computer i fare. Tilføj kun udvidelsen, hvis du stoler på udvikleren bag.
 webext-perms-header-unsigned-with-perms = Tilføj { $extension }? Denne udvidelse er ikke verificeret. Ondsindede udvidelser kan stjæle dine personlige oplysninger eller bringe din computer i fare. Tilføj kun udvidelsen, hvis du stoler på udvikleren bag. Denne udvidelse vil have tilladelse til at:
 webext-perms-sideload-header = { $extension } tilføjet
 webext-perms-optional-perms-header = { $extension } kræver yderligere tilladelser.
@@ -76,9 +77,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Denne tilføjelse giver { $hostname } adgang til dine MIDI-enheder.
+webext-site-perms-header-with-gated-perms-midi-sysex = Denne tilføjelse giver { $hostname } adgang til dine MIDI-enheder (med SysEx-understøttelse).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Enhederne er som regel eksterne synthesizere, men kan også være bygget ind i din computer.
+    
+    Websteder har normalt ikke tilladelse til at tilgå MIDI-enheder. Forkert anvendelse kan føre til skader eller kompromittere sikkerheden.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -86,7 +96,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Vil du tilføje { $extension }? Denne udvidelse tilføjer følgende funktioner til { $hostname }:
 webext-site-perms-header-unsigned-with-perms = Vil du tilføje { $extension }? Denne udvidelse er ikke verificeret. Ondsindede udvidelser kan stjæle dine personlige oplysninger eller kompromittere din computer. Tilføj den kun, hvis du stoler på ophavsmanden. Udvidelsen tilføjer følgende funktioner til { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Tilgå MIDI-enheder
+webext-site-perms-midi-sysex = Tilgå MIDI-enheder med SysEx-understøttelse

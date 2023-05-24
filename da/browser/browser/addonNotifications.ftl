@@ -20,6 +20,11 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Tillad aldrig
     .accesskey = l
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Rapporter mistænkeligt websted
+    .accesskey = R
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -29,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Webstedet anmoder om adgang til dine MIDI-enheder (Musical Instrument Digital Interface). Adgang kan aktiveres ved at installere en tilføjelse.
+site-permission-install-first-prompt-midi-message = Der er ingen garanti for, at adgangen er sikker. Fortsæt kun, hvis du stoler på webstedet.
 
 ##
 
@@ -103,6 +110,7 @@ addon-install-error-incorrect-hash = Tilføjelsen kunne ikke installeres, fordi 
 addon-install-error-corrupt-file = Tilføjelsen fra dette websted kunne ikke installeres, da den synes at være ødelagt.
 addon-install-error-file-access = { $addonName } kunne ikke installeres, fordi { -brand-short-name } ikke kan redigere den nødvendige fil.
 addon-install-error-not-signed = { -brand-short-name } har forhindret dette websted i at installere en uverificeret tilføjelse.
+addon-install-error-invalid-domain = Tilføjelsen { $addonName } kan ikke installeres fra denne placering.
 addon-local-install-error-network-failure = Denne tilføjelse kunne ikke installeres på grund af en filsystemsfejl.
 addon-local-install-error-incorrect-hash = Denne tilføjelse kunne ikke installeres, fordi den ikke matcher den tilføjelse { -brand-short-name } forventede.
 addon-local-install-error-corrupt-file = Denne tilføjelse kunne ikke installeres, fordi den lader til at være ødelagt.
