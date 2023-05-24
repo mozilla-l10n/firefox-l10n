@@ -1004,8 +1004,10 @@ firefox-relay-offer-why-to-use-relay = Наші захищені та прост
 firefox-relay-offer-what-relay-provides = Усі електронні листи, надіслані на ваші маски електронної пошти, будуть перенаправлені на <strong>{ $useremail }</strong> (якщо ви не вирішите їх заблокувати).
 firefox-relay-offer-legal-notice = Натискаючи “Використовувати маску електронної пошти”, ви погоджуєтеся із <label data-l10n-name="tos-url">Загальними положеннями та умовами</label> й <label data-l10n-name="privacy-url">Положенням про приватність</label>.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Не перевірено)
 popup-notification-xpinstall-prompt-learn-more = Дізнайтеся більше про безпечне встановлення додатків
 
 ## Pop-up warning
