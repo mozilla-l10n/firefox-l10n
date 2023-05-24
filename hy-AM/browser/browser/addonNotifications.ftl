@@ -32,6 +32,7 @@ xpinstall-prompt-install =
 
 ##
 
+xpinstall-disabled-locked = Ծրագրերի տեղակայումը պասիվացվել է ձեր համակարգի վարիչի կողմից։
 xpinstall-disabled = Ծրագրերի տեղակայումը ժամանակավորապես պասիվացված է: Սեղմեք Ակտիվացնել և կրկին փորձեք:
 xpinstall-disabled-button =
     .label = Միացնել
@@ -63,6 +64,12 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } հավելումների ներբեռնում և ստուգում…
     }
 addon-download-verifying = Ստուգում
+addon-install-cancel-button =
+    .label = Չեղարկել
+    .accesskey = C
+addon-install-accept-button =
+    .label = Ավելացնել
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -85,6 +92,7 @@ addon-confirm-install-unsigned-message =
 addon-install-error-network-failure = Հավելումը չի կարող ներբեռնվել, քանի որ տեղի է ունեցել կապի խափանում:
 addon-install-error-incorrect-hash = Այս հավելումը չի կարող տեղադրվել, քանի որ այն չի համապատասխանում ակնկալվող { -brand-short-name } հավելմանը:
 addon-install-error-corrupt-file = Այս կայքից ներբեռնած հավելումը չի տեղադրվել, քանի որ այն վնասված է:
+addon-install-error-file-access = { $addonName }-ը չի կարող տեղադրվել, քանի որ { -brand-short-name }-ը չի կարող ձևափոխել անհրաժեշտ նիշքը։
 addon-install-error-not-signed = { -brand-short-name }-ը կանխել է այս կայքից չստուգված հավելումների տեղադրումը:
 addon-local-install-error-network-failure = Հետևյալ հավելումը չի տեղադրվել ֆայլերի համակարգի սխալի պատճառով:
 addon-local-install-error-incorrect-hash = Այս հավելումը չի կարող տեղադրվել, քանի որ այն չի համապատասխանում ակնկալվող { -brand-short-name } հավելմանը:

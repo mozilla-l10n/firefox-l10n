@@ -16,9 +16,30 @@ webext-perms-optional-perms-header = { $extension }-ը պահանջում է լ�
 
 ##
 
+webext-perms-add =
+    .label = Ավելացնել
+    .accesskey = A
+webext-perms-cancel =
+    .label = Չեղարկել
+    .accesskey = C
 webext-perms-sideload-text = Այս համակարգչի մեկ այլ ծրագիր տեղադրել է հավելում, որը կարող է ազդել դիտարկիչի աշխատանքի վրա: Դիտեք այդ հավելման թույլտվությունների հարցումները և ընտրեք Միացնել կամ Չեղարկել (այն անջատած թողնելու համար):
 webext-perms-sideload-text-no-perms = Այս համակարգչի մեկ այլ ծրագիր տեղադրել է հավելում, որը կարող է ազդել դիտարկիչի աշխատանքի վրա: Ընտրեք Միացնել կամ Չեղարկել (այն անջատված թսղնելու համար):
+webext-perms-sideload-enable =
+    .label = Միացնել
+    .accesskey = E
+webext-perms-sideload-cancel =
+    .label = Չեղարկել
+    .accesskey = C
+webext-perms-update-accept =
+    .label = Թարմացնել
+    .accesskey = U
 webext-perms-optional-perms-list-intro = Այն ցանկանում է՝
+webext-perms-optional-perms-allow =
+    .label = Թույլատրել
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = Արգելել
+    .accesskey = D
 webext-perms-host-description-all-urls = Մատչել ձեր տվյալներին բոլոր կայքերի համար
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
