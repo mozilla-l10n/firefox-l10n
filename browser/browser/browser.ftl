@@ -1003,8 +1003,10 @@ firefox-relay-offer-why-to-use-relay = Us feilige, maklik te brûken maskers bes
 firefox-relay-offer-what-relay-provides = Alle e-mailberjochten dy’t nei jo e-mailmaskers ferstjoerd wurde, wurde trochstjoerd nei <strong>{ $useremail }</strong> (útsein as jo beslute se te blokkearjen).
 firefox-relay-offer-legal-notice = Troch op ‘E-mailmasker brûke’ te klikken, geane jo akkoard mei de <label data-l10n-name="tos-url">Tsjinstbetingsten</label> en <label data-l10n-name="privacy-url">Privacyferklearring</label>.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Net ferifiearre)
 popup-notification-xpinstall-prompt-learn-more = Mear ynfo oer it feilich ynstallearjen fan add-ons
 
 ## Pop-up warning
