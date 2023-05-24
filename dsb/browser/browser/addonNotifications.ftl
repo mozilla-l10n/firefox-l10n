@@ -7,15 +7,35 @@ xpinstall-prompt = { -brand-short-name } jo toś tomu sedłoju zawoborał, was s
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = { $host } dowóliś, dodank instalěrowaś?
+xpinstall-prompt-message = Wopytujośo dodank z { $host } instalěrowaś. Pśeznańśo se, lěc toś to sedło jo dowěry gódne, nježli až pókšacujośo.
 
 ##
 
+xpinstall-prompt-header-unknown = Njeznatemu sedłoju dowóliś, dodank instalěrowaś?
+xpinstall-prompt-message-unknown = Wopytujośo dodank z njeznatego sedła instalěrowaś. Pśeznańśo se, lěc toś to sedło jo dowěry gódne, nježli až pókšacujośo.
 xpinstall-prompt-dont-allow =
     .label = Njedowóliś
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Nigda njedowóliś
+    .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Suspektne sedło k wěsći daś
+    .accesskey = S
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Z instalaciju pókšacowaś
+    .accesskey = k
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Toś te sedła sebje pśistup k wašym rědam MIDi (Musical Instrument Digital Interface) pomina. Rědowy pśistup dajo se zmóžniś, gaž dodank instalěrujośo.
+site-permission-install-first-prompt-midi-message = Wěsty pśistup se njegarantěrujo. Póstupujśo jano, jolic toś tomu sedłoju dowěriśo.
 
 ##
 
@@ -24,6 +44,14 @@ xpinstall-disabled = Instalacija softwary jo tuchylu znjemóžnjona. Klikniśo n
 xpinstall-disabled-button =
     .label = Zmóžniś
     .accesskey = m
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) jo se znjemóžnił wót twójogo administratora.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Waš systemowy administrator jo zawoborał toś tomu sedłoju, was se wó dowólenje pšašaś, software na wašym licadle instalěrowaś.
+addon-install-full-screen-blocked = Instalacija dodankow njejo dowólona w modusu połneje wobrazowki a nježli až do njogo zastupijośo.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } jo se { -brand-short-name } pśidał
@@ -33,6 +61,14 @@ webext-perms-update-menu-item = { $addonName } pomina se nowe pšawa
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = { $name } wótwónoźeś?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { $name } z { -brand-shorter-name } wótwónoźeś?
+addon-removal-button = Wótwónoźeś
+addon-removal-abuse-report-checkbox = { -vendor-short-name } toś to rozšyrjenje k wěsći daś
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -85,6 +121,7 @@ addon-install-error-incorrect-hash = Toś ten dodank njedajo se instalěrowaś, 
 addon-install-error-corrupt-file = Dodank, kótaryž sćo z toś togo sedła ześěgnuł, njedajo se instalěrowaś, dokulaž zda se, až jo wobškóźony.
 addon-install-error-file-access = { $addonName } njedajo se instalěrowaś, dokulaž { -brand-short-name } njamóžo trěbnu dataju změniś.
 addon-install-error-not-signed = { -brand-short-name } jo toś tomu sedłoju instalěrowanje njewobkšuśonego dodanka zawoborał.
+addon-install-error-invalid-domain = Dodank { $addonName } njedajo se z toś togo městna instalěrowaś.
 addon-local-install-error-network-failure = Toś ten dodank njedajo se systemoweje zmólki dla instalěrowaś.
 addon-local-install-error-incorrect-hash = Toś ten dodank njedajo se instalěrowaś, dokulaž njewótpowědujo dodankoju, kótaryž jo { -brand-short-name } wótcakał.
 addon-local-install-error-corrupt-file = Toś ten dodank njedajo se instalěrowaś, dokulaž zda se, až jo wobškóźony.
