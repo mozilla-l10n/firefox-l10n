@@ -10,6 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-sideload-header = { $extension } es estat apondut
 webext-perms-optional-perms-header = { $extension } demanda de permissions suplementàrias.
 
 ##
@@ -38,6 +39,9 @@ webext-perms-host-description-too-many-wildcards =
         [one] Accedir a vòstras donadas dins { $domainCount } autre domeni
        *[other] Accedir a vòstras donadas dins { $domainCount } autres domenis
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Accedir a vòstras donadas per { $domain }
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
