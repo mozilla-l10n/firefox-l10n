@@ -15,6 +15,7 @@
 
 ##
 
+xpinstall-disabled-locked = Programinės įrangos diegimas neleidžiamas jūsų sistemos administratoriaus.
 xpinstall-disabled = Programinės įrangos automatinis diegimas šiuo metu neleidžiamas. Jei norite leisti, spustelėkite „Leisti“ ir bandykite vėl.
 
 ## Add-on removal warning
