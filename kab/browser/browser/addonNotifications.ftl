@@ -7,6 +7,7 @@ xpinstall-prompt = { -brand-short-name } ur yeǧǧi ara asmel-a ad isebded aseɣ
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Sireg { $host } ad isebded azegrir?
 
 ##
 
@@ -28,6 +29,10 @@ webext-perms-update-menu-item = { $addonName } yesra tisirag-nniḍen
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Kkes { $name } seg { -brand-shorter-name }?
+addon-removal-button = Kkes
 addon-download-verifying = Asenqed iteddu
 
 ## Variables:
