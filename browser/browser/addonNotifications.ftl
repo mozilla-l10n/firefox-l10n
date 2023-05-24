@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = { -brand-short-name } evitó que este sitio pida instalar software en su computadora.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -9,6 +10,14 @@
 
 ##
 
+xpinstall-prompt-header-unknown = ¿Permitir que un sitio desconocido instale un complemento?
+xpinstall-prompt-message-unknown = Está intentando instalar un complemento desde un sitio desconocido. Asegúrese de que confía en este sitio antes de continuar.
+xpinstall-prompt-dont-allow =
+    .label = No permitir
+    .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = No permitir nunca
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -16,6 +25,22 @@
 ##
 
 xpinstall-disabled = La instalación de software está actualmente deshabilitada. Haga click en Editar opciones… para habilitarla y vuelva a intentar.
+xpinstall-disabled-button =
+    .label = Habilitar
+    .accesskey = H
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) está bloqueado por el administrador del sistema.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = El administrador del sistema evitó que este sitio pida instalar software en su computadora.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } agregado a { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } requiere nuevos permisos
 
 ## Add-on removal warning
 
@@ -30,6 +55,9 @@ addon-download-verifying = Verificando
 addon-install-cancel-button =
     .label = Cancelar
     .accesskey = C
+addon-install-accept-button =
+    .label = Agregar
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -64,3 +92,4 @@ addon-local-install-error-file-access = { $addonName } no pudo instalarse porque
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } no pudo instalarse porque no es compatible con { -brand-short-name } { $appVersion }.
+addon-install-error-blocklisted = { $addonName } no se pudo instalar porque tiene un alto riesgo de causar problemas de estabilidad o de seguridad.
