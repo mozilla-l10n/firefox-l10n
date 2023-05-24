@@ -56,6 +56,7 @@ addon-install-error-network-failure = A extensão não pôde ser baixada por cau
 addon-install-error-corrupt-file = A extensão baixada deste site não pôde ser instalada porque parece estar corrompida.
 addon-install-error-file-access = { $addonName } não pôde ser instalado porque { -brand-short-name } não pode modificar o arquivo necessário.
 addon-local-install-error-network-failure = Esta extensão não pôde ser instalada devido a um erro do sistema de arquivos.
+addon-local-install-error-corrupt-file = Esta extensão não pôde ser instalada porque parece estar danificada.
 addon-local-install-error-file-access = { $addonName } não pôde ser instalado porque { -brand-short-name } não pode modificar o arquivo necessário.
 addon-local-install-error-not-signed = Esta extensão não pôde ser instalada porque não foi verificada.
 # Variables:
