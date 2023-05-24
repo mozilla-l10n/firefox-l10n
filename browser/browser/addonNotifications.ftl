@@ -30,6 +30,7 @@ webext-perms-update-menu-item = { $addonName } traži nova dopuštenja
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Ukloni { $name } iz { -brand-shorter-name }?
+addon-removal-button = Ukloni
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
