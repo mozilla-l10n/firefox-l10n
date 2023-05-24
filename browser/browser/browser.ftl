@@ -995,8 +995,10 @@ firefox-relay-offer-what-relay-does = Біз <strong>{ $sitename }</strong> ад
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Тексерілмеген)
 popup-notification-xpinstall-prompt-learn-more = Қосымшаларды қауіпсіз орнату туралы көбірек біліңіз
 
 ## Pop-up warning
