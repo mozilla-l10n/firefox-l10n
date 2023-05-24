@@ -19,6 +19,7 @@ webext-perms-description-history = Դիտարկումների պատմությա
 webext-perms-description-management = ետևել ընդլայնման օգտագործմանը և կառավարել ոճերը
 webext-perms-description-nativeMessaging = Հաղորդագրությունների փոխանակում ոչ { -brand-short-name }-ով
 webext-perms-description-notifications = Ցուցադրել ծանուցումները
+webext-perms-description-pkcs11 = Տրամադրել գաղտնագրման իսկորոշման ծառայություններ
 webext-perms-description-privacy = Կարդալ և փոփոխել գաղտնիության կարգավորումները
 webext-perms-description-proxy = Կառավարել դիտարկիչի պրոքի կարգավորումները
 webext-perms-description-sessions = Վերջերս փակված ներդիրների մատչում
