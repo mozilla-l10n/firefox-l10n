@@ -210,6 +210,8 @@ spotlight-pin-secondary-button = Teď ne
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Nový { -brand-short-name }. Více soukromí, méně sledovacích prvků. Bez kompromisů.
+mr2022-background-update-toast-text = Vyzkoušejte nyní nejnovější { -brand-short-name(case: "acc") }, který byl vylepšen o naši dosud nejsilnější ochranu proti sledování.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -231,6 +233,8 @@ firefoxview-cfr-primarybutton = Vyzkoušejte ho
     .accesskey = t
 firefoxview-cfr-secondarybutton = Teď ne
     .accesskey = n
+firefoxview-cfr-header-v2 = Rychle pokračujte tam, kde jste skončili
+firefoxview-cfr-body-v2 = Získejte zpět nedávno zavřené panely a plynule přecházejte mezi zařízeními pomocí { -firefoxview-brand-name(case: "gen") }.
 
 ## Firefox View Spotlight
 
@@ -244,9 +248,16 @@ firefoxview-spotlight-promo-secondarybutton = Přeskočit
 
 colorways-cfr-primarybutton = Zvolit baletu barev
     .accesskey = Z
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Vybarvěte svůj prohlížeč { -brand-short-name } exkluzivními odstíny inspirovanými hlasy, které změnily kulturu.
+colorways-cfr-header-28days = Paleta barev Nezávislé hlasy je dostupná pouze do 16. ledna.
+colorways-cfr-header-14days = Paleta barev Nezávislé hlasy vyprší během dvou týdnů
+colorways-cfr-header-7days = Paleta barev Nezávislé hlasy vyprší tento týden
+colorways-cfr-header-today = Paleta barev Nezávislé hlasy vyprší dnes
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Povolit ve { -brand-short-name(case: "dat") } blokování cookie lišt?
 cfr-cbh-confirm-button = Odmítat cookie lišty
     .accesskey = c
 cfr-cbh-dismiss-button = Teď ne
