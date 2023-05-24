@@ -258,6 +258,7 @@ colorways-cfr-header-today = Paleta barev Nezávislé hlasy vyprší dnes
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Povolit ve { -brand-short-name(case: "dat") } blokování cookie lišt?
+cfr-cbh-body = { -brand-short-name } může automaticky blokovat řadu cookie lišt.
 cfr-cbh-confirm-button = Odmítat cookie lišty
     .accesskey = c
 cfr-cbh-dismiss-button = Teď ne
@@ -265,18 +266,25 @@ cfr-cbh-dismiss-button = Teď ne
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Všechno, co potřebujete
+july-jam-body = Každý měsíc { -brand-short-name } zablokuje v průměru více než 3 000 sledovacích prvků na uživatele, takže máte bezpečný a rychlý přístup ke kvalitnímu internetu.
+july-jam-set-default-primary = Otevírat mé odkazy pomocí { -brand-short-name(case: "gen") }
 fox-doodle-pin-headline = Vítejte zpět
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Zde je rychlé připomenutí, že si svůj oblíbený nezávislý prohlížeč můžete jediným klepnutím ponechat.
+fox-doodle-pin-primary = Otevírat mé odkazy pomocí { -brand-short-name(case: "gen") }
 fox-doodle-pin-secondary = Teď ne
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Vaše PDF dokumenty se nyní otevírají v { -brand-short-name(case: "loc") }.</strong> Upravujte nebo podepisujte formuláře přímo v prohlížeči. Pro změnu vyhledejte v nastavení položku „PDF“.
 set-default-pdf-handler-primary = Rozumím
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Plánujete v blízké budoucnosti nové zařízení?
+fxa-sync-cfr-body = Ujistěte se, že máte své záložky, hesla a panely vždy při sobě, když otevřete novou instalaci prohlížeče { -brand-product-name }.
 fxa-sync-cfr-primary = Zjistit více
     .accesskey = Z
 fxa-sync-cfr-secondary = Upozornit mě později
