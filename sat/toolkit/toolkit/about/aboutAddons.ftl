@@ -405,6 +405,16 @@ recommended-theme-1 = ᱩᱱᱩᱭᱦᱟᱹᱨ ᱢᱮᱱᱟᱜ ᱛᱟᱢᱟᱸ ?
 
 extension-heading = ᱟᱢᱟᱜ ᱮᱠᱥᱴᱮᱱᱥᱮᱱ ᱢᱮᱱᱮᱡᱽ ᱛᱟᱢ
 theme-heading = ᱟᱢᱟᱜ ᱛᱷᱤᱢᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱛᱟᱢ
+plugin-heading = ᱟᱢᱟᱜ ᱯᱞᱚᱜᱤᱱᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱛᱟᱢ
+dictionary-heading = ᱟᱢᱟᱜ ᱥᱟᱵᱟᱫ ᱜᱟᱫᱮᱞ ᱠᱚ ᱢᱮᱱᱮᱡ ᱛᱟᱢ
+locale-heading = ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱛᱟᱢ
+updates-heading = ᱟᱢᱟᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱠᱚ ᱢᱮᱱᱮᱡ ᱛᱟᱢ
+sitepermission-heading = ᱟᱢᱟᱜ ᱥᱟᱭᱤᱴ ᱦᱚᱠᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱛᱟᱢ
+discover-heading = ᱟᱢᱟᱜ { -brand-short-name } ᱱᱤᱡᱽ ᱠᱩᱥᱤ ᱛᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+shortcuts-heading = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+default-heading-search-label = ᱟᱨᱦᱚᱸ ᱮᱰ-ᱳᱱ ᱯᱟᱱᱛᱮ ᱧᱟᱢ ᱢᱮ
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 addon-page-options-button =
     .title = ᱡᱚᱛᱚ ᱮᱰ-ᱟᱹᱱᱥ ᱞᱟᱹᱜᱤᱫ ᱴᱩᱞᱥ ᱠᱚ
 
@@ -420,7 +430,13 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } ᱫᱚ { -brand-short-name } { $version } ᱥᱟᱸᱣ ᱵᱟᱝ ᱥᱚᱸᱜᱚᱛᱟ᱾
+details-notification-incompatible-link = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+details-notification-unsigned-and-disabled = { $name } ᱫᱚ { -brand-short-name } ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱯᱩᱥᱴᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱟᱨ ᱚᱱᱟᱛᱮ ᱵᱚᱸᱫ ᱮᱱᱟ ᱾
+details-notification-unsigned-and-disabled-link = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+details-notification-unsigned = { $name } ᱫᱚ { -brand-short-name } ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱯᱩᱥᱴᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱾ ᱦᱩᱥᱤᱭᱟᱹᱨ ᱥᱟᱹᱦᱤᱡ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
+details-notification-unsigned-link = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 details-notification-blocked = { $name } ᱫᱚ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱵᱟᱝ ᱛᱤᱸᱜᱩ ᱛᱷᱤᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ
 details-notification-blocked-link = ᱰᱷᱮᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 details-notification-softblocked = { $name }ᱫᱚ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱵᱟᱝ ᱛᱤᱸᱜᱩ ᱛᱷᱤᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱵᱟᱰᱟᱭᱟ ᱠᱟᱱᱟ᱾
 details-notification-softblocked-link = ᱰᱷᱮᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+details-notification-gmp-pending = { $name } ᱫᱚ ᱠᱷᱟᱴᱚ ᱚᱠᱛᱚ ᱨᱮ ᱵᱚᱦᱟᱞᱚᱜᱼᱟ ᱾
