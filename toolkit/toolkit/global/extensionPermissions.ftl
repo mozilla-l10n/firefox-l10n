@@ -28,5 +28,6 @@ webext-perms-description-privacy = branje in spreminjanje nastavitev zasebnosti
 webext-perms-description-proxy = nadzor nad nastavitvami posrednika
 webext-perms-description-sessions = dostop do nedavno zaprtih zavihkov
 webext-perms-description-tabs = dostop do zavihkov brskalnika
+webext-perms-description-tabHide = Skrij in prikaži zavihke brskalnika
 webext-perms-description-topSites = dostop do zgodovine brskanja
 webext-perms-description-webNavigation = dostop do dejavnosti brskalnika
