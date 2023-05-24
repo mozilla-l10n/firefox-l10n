@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = เพิ่ม { $extension }?
+webext-perms-header-with-perms = ต้องการเพิ่ม { $extension } หรือไม่ ส่วนขยายนี้จะได้รับอนุญาตให้:
+webext-perms-header-unsigned = ต้องการเพิ่ม { $extension } หรือไม่ ส่วนขยายนี้ยังไม่ถูกยืนยัน ส่วนขยายที่เป็นอันตรายอาจขโมยข้อมูลส่วนตัวของคุณหรือทำให้คอมพิวเตอร์ของคุณเสียหายได้ โปรดเพิ่มส่วนขยายนี้ก็ต่อเมื่อคุณเชื่อถือแหล่งที่มาเท่านั้น
+webext-perms-header-unsigned-with-perms = ต้องการเพิ่ม { $extension } หรือไม่ ส่วนขยายนี้ยังไม่ถูกยืนยัน ส่วนขยายที่เป็นอันตรายอาจขโมยข้อมูลส่วนตัวของคุณหรือทำให้คอมพิวเตอร์ของคุณเสียหายได้ โปรดเพิ่มส่วนขยายนี้ก็ต่อเมื่อคุณเชื่อถือแหล่งที่มาเท่านั้น ส่วนขยายนี้จะได้รับอนุญาตให้:
 webext-perms-sideload-header = เพิ่ม { $extension } แล้ว
 webext-perms-optional-perms-header = { $extension } ขอสิทธิอนุญาตเพิ่มเติม
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ยกเลิก
     .accesskey = ย
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } ได้รับการอัปเดตแล้ว คุณต้องอนุมัติสิทธิอนุญาตใหม่ก่อนที่รุ่นอัปเดตจะติดตั้ง การเลือก “ยกเลิก” จะคงรุ่นส่วนขยายปัจจุบันของคุณไว้ ส่วนขยายนี้จะได้รับอนุญาตให้:
 webext-perms-update-accept =
     .label = อัปเดต
     .accesskey = อ
@@ -63,9 +69,18 @@ webext-perms-host-description-too-many-sites = เข้าถึงข้อม
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = ส่วนเสริมนี้จะให้ { $hostname } เข้าถึงอุปกรณ์ MIDI ของคุณได้
+webext-site-perms-header-with-gated-perms-midi-sysex = ส่วนเสริมนี้จะให้ { $hostname } เข้าถึงอุปกรณ์ MIDI ของคุณได้ (พร้อมการรองรับ SysEx)
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    อุปกรณ์เหล่านี้มักเป็นอุปกรณ์เสริม เช่น เครื่องสังเคราะห์เสียง แต่ก็อาจติดตั้งมาพร้อมกับคอมพิวเตอร์ของคุณได้เช่นกัน
+    
+    โดยปกติแล้ว เว็บไซต์ต่างๆ จะไม่ได้รับอนุญาตให้เข้าถึงอุปกรณ์ MIDI การใช้งานอย่างไม่ถูกต้องอาจทำให้เกิดความเสียหายหรือช่องโหว่ด้านความปลอดภัยได้
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -73,6 +88,8 @@ webext-perms-host-description-too-many-sites = เข้าถึงข้อม
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = ต้องการเพิ่ม { $extension } หรือไม่ ส่วนขยายนี้มอบความสามารถต่อไปนี้ให้ { $hostname }:
+webext-site-perms-header-unsigned-with-perms = ต้องการเพิ่ม { $extension } หรือไม่ ส่วนขยายนี้ยังไม่ถูกยืนยัน ส่วนขยายที่เป็นอันตรายอาจขโมยข้อมูลส่วนตัวของคุณหรือทำให้คอมพิวเตอร์ของคุณเสียหายได้ โปรดเพิ่มส่วนขยายนี้ก็ต่อเมื่อคุณเชื่อถือแหล่งที่มาเท่านั้น ส่วนขยายนี้มอบความสามารถต่อไปนี้ให้ { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
