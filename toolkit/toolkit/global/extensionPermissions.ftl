@@ -16,6 +16,7 @@ webext-perms-description-declarativeNetRequest = Bloquear conteúdo em qualquer 
 webext-perms-description-declarativeNetRequestFeedback = Consultar o seu histórico de navegação
 webext-perms-description-devtools = Estender as ferramentas de programador para aceder aos seus dados em separadores abertos
 webext-perms-description-downloads = Transferir ficheiros, ler e modificar o histórico de transferências do navegador
+webext-perms-description-downloads-open = Abrir ficheiros transferidos para o seu computador
 webext-perms-description-find = Ler o texto de todos os separadores abertos
 webext-perms-description-geolocation = Aceder à sua localização
 webext-perms-description-history = Aceder ao histórico de navegação

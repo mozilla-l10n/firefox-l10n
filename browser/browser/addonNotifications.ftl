@@ -77,15 +77,35 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message =
+    { $addonCount ->
+        [one] Este site gostaria de instalar um extra no { -brand-short-name }:
+       *[other] Este site gostaria de instalar { $addonCount } extras no { -brand-short-name }:
+    }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] Cuidado: este site gostaria de instalar um extra não verificado no { -brand-short-name }. Proceda por sua conta e risco.
+       *[other] Cuidado: este site gostaria de instalar { $addonCount } extras não verificados no { -brand-short-name }. Proceda por sua conta e risco.
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Cuidado: este site gostaria de instalar { $addonCount } extras no { -brand-short-name }, alguns dos quais não verificados. Proceda por sua conta e risco.
 
 ## Add-on install errors
 ## Variables:
 ##   $addonName (String): the add-on name.
 
 addon-install-error-network-failure = O extra não pôde ser transferido porque a ligação falhou.
+addon-install-error-incorrect-hash = O extra não pôde ser instalado porque não corresponde ao extra { -brand-short-name } esperado.
+addon-install-error-corrupt-file = O extra transferido a partir deste site não pôde ser instalado porque aparenta estar corrompido.
 addon-install-error-file-access = { $addonName } não pôde ser instalado porque o { -brand-short-name } não consegue modificar o ficheiro necessário.
+addon-install-error-not-signed = O { -brand-short-name } impediu este site de instalar um extra não verificado.
 addon-install-error-invalid-domain = O extra { $addonName } não pode ser instalado a partir desta localização.
+addon-local-install-error-network-failure = Este extra não pôde ser instalado devido a um erro do sistema de ficheiros.
+addon-local-install-error-incorrect-hash = Este extra não pôde ser instalado porque não corresponde ao extra { -brand-short-name } esperado.
+addon-local-install-error-corrupt-file = Este extra não pôde ser instalado porque parece estar corrompido.
 addon-local-install-error-file-access = { $addonName } não pôde ser instalado porque o { -brand-short-name } não consegue modificar o ficheiro necessário.
+addon-local-install-error-not-signed = Este extra não pôde ser instalado porque não foi verificado.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } não pôde ser instalado porque não é compatível com o { -brand-short-name } { $appVersion }.
