@@ -10,12 +10,24 @@ xpinstall-prompt = { -brand-short-name } evitó que este sitio web te pidiera in
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = No permitir
+    .accesskey = D
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Continuar con la instalación
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 
 ##
 
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } se agregó a { -brand-short-name }
 
 ## Add-on removal warning
 
