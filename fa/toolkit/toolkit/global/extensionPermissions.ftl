@@ -25,5 +25,6 @@ webext-perms-description-privacy = خواندن و تنظیم تنظیمات ح�
 webext-perms-description-proxy = در دست گرفتن تنظیمات پراکسی مرورگر
 webext-perms-description-sessions = دسترسی به آخرین زبانه‌های بسته شده
 webext-perms-description-tabs = دسترسی به زبانه‌های مرورگر
+webext-perms-description-tabHide = پنهان کردن و نمایش زبانه‌های مرورگر
 webext-perms-description-topSites = دسترسی به تاریخچه مرورکردن
 webext-perms-description-webNavigation = دسترسی به فعالیت ها در طی گشتن

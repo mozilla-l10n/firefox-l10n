@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = اضافه کردن { $extension }؟
+webext-perms-header-with-perms = { $extension } اضافه شود؟ این افزونه اجازه خواهد داشت:
+webext-perms-header-unsigned = { $extension } اضافه شود؟ این افزونه تأیید نشده است. برنامه‌های افزودنی مخرب می‌توانند اطلاعات خصوصی شما را بدزدند یا رایانه شما را به خطر بیندازند. فقط در صورت اعتماد به منبع آن را اضافه کنید.
+webext-perms-header-unsigned-with-perms = { $extension } اضافه شود؟ این افزونه تأیید نشده است. برنامه‌های افزودنی مخرب می‌توانند اطلاعات خصوصی شما را بدزدند یا رایانه شما را به خطر بیندازند. فقط در صورت اعتماد به منبع آن را اضافه کنید. این افزونه دسترسی‌های مقابل را خواهد داشت:
 webext-perms-sideload-header = { $extension } اضافه شد
 webext-perms-optional-perms-header = { $extension } نیازمند مجوزهای بیشتری است.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = انصراف
     .accesskey = ا
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } به روز شده است. قبل از نصب بروزرسانی شما باید مجوزهای جدید را تایید کنید. انتخاب «انصراف» نسخه کنونی افزونهٔ شما را حفظ می‌کند. این افزونه دسترسی‌های مقابل را خواهد داشت:
 webext-perms-update-accept =
     .label = به‌روزرسانی‌
     .accesskey = ب
@@ -45,8 +51,24 @@ webext-perms-host-description-all-urls = دسترسی به تمامی اطلاع
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = دسترسی به داده های شما برای پایگاه های اینترنتی در این { $domain } دامنه
 # Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] دسترسی به داده‌های شما در { $domainCount } دامنه دیگر
+       *[other] دسترسی به داده‌های شما { $domainCount } در دامنه دیگر
+    }
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = دسترسی به داده شما برای { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] دسترسی به داده‌های شما بر روی { $domainCount } پایگاه اینترنتی دیگر
+       *[other] دسترسی به داده‌های شما بر روی { $domainCount } پایگاه اینترنتی دیگر
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
