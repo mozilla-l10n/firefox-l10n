@@ -20,6 +20,11 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Inoiz ez baimendu
     .accesskey = n
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Eman gune susmagarriaren berri
+    .accesskey = s
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -42,6 +47,9 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) blokeatu du zure sistemaren administratzaileak.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Zure sistemaren kudeatzaileak gune honi galarazi egin dio ordenagailuan softwarea instalatzeaz galdetzea.
+addon-install-full-screen-blocked = Gehigarrien instalazioa ez da baimentzen pantaila osoko moduan edo modu horretara sartu aurretik.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } gehigarria { -brand-short-name }(e)ra gehitu da
@@ -52,9 +60,13 @@ webext-perms-update-menu-item = { $addonName } hedapenak baimen berriak behar di
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = { $name } kendu?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Kendu { $name } { -brand-shorter-name }(e)tik?
 addon-removal-button = Kendu
+addon-removal-abuse-report-checkbox = Salatu hedapen hau { -vendor-short-name }(r)i
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -96,6 +108,7 @@ addon-install-error-incorrect-hash = Ezin izan da gehigarri hau instalatu ez dat
 addon-install-error-corrupt-file = Ezin izan da gune honetako gehigarria instalatu hondatuta dagoela dirudielako.
 addon-install-error-file-access = Ezin izan da { $addonName } instalatu { -brand-short-name }(e)k ezin duelako beharrezko fitxategia aldatu.
 addon-install-error-not-signed = { -brand-short-name }(e)k gune honi egiaztatu gabeko gehigarri bat instalatzea eragotzi dio.
+addon-install-error-invalid-domain = Ezin da helbide honetatik { $addonName } gehigarria instalatu.
 addon-local-install-error-network-failure = Ezin izan da gehigarri hau instalatu fitxategi-sistemako errore bat dela-eta.
 addon-local-install-error-incorrect-hash = Ezin izan da gehigarri hau instalatu ez datorrelako esperotako { -brand-short-name } gehigarriarekin bat.
 addon-local-install-error-corrupt-file = Ezin izan da gehigarri hau instalatu hondatuta dagoela dirudielako.

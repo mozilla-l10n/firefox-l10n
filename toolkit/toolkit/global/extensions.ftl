@@ -11,7 +11,11 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Gehitu { $extension }?
+webext-perms-header-with-perms = { $extension } gehitu? Hedapen honek ondorengo baimenak izango ditu:
+webext-perms-header-unsigned = { $extension } gehitu? Hedapen hau egiaztatu gabe dago. Asmo txarreko hedapenek zure informazio pertsonala lapurtu edo zure ordenagailua arriskuan jar dezakete. Instalatu soilik iturburu fidagarrikoa bada.
+webext-perms-header-unsigned-with-perms = { $extension } gehitu? Hedapen hau egiaztatu gabe dago. Asmo txarreko hedapenek zure informazio pertsonala lapurtu edo zure ordenagailua arriskuan jar dezakete. Instalatu soilik iturburu fidagarrikoa bada. Hedapen honek ondorengo baimenak izango ditu:
 webext-perms-sideload-header = { $extension } gehitu da
+webext-perms-optional-perms-header = { $extension } hedapenak aparteko baimenak eskatzen ditu.
 
 ##
 
@@ -29,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Utzi
     .accesskey = U
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } eguneratu egin da. Baimen berriak onartu behar dituzu eguneratutako bertsioa instala dadin. "Utzi" aukeratuz gero, hedapenaren uneko bertsioarekin jarraituko duzu. Hedapen honek ondorengo baimenak izango ditu:
 webext-perms-update-accept =
     .label = Eguneratu
     .accesskey = E
@@ -70,6 +77,8 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Gehigarri honek { $hostname } guneari zure MIDI gailuetarako sarbidea ematen dio.
+webext-site-perms-header-with-gated-perms-midi-sysex = Gehigarri honek { $hostname } guneari zure MIDI gailuetarako sarbidea ematen dio (SysEx euskarriarekin).
 
 ##
 
@@ -80,6 +89,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = { $extension } gehitu? Hedapen honek ondorengo gaitasunak ematen dizkio { $hostname }(r)i:
+webext-site-perms-header-unsigned-with-perms = { $extension } gehitu? Hedapen hau egiaztatu gabe dago. Asmo txarreko hedapenek zure informazio pertsonala lapurtu edo zure ordenagailua arriskuan jar dezakete. Instalatu soilik iturburu fidagarrikoa bada. Hedapen honek ondorengo baimenak ematen dizkio { $hostname }(r)i:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = MIDI gailuak atzitzea
+webext-site-perms-midi-sysex = SysEx euskarria duten MIDI gailuak atzitzea
