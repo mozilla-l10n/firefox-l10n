@@ -10,6 +10,9 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header-with-perms = Apondre{ $extension } ? Aquesta extension aurà la permission de :
+webext-perms-header-unsigned = Apondre { $extension } ? Aquesta extension foguèt pas verificada. Las extensions malvolentas pòdon prendre vòstras donadas personalas o far perilh a vòstre ordenador. L’apondètz sonque se vos fisatz de la font.
+webext-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquesta extension foguèt pas verificada. Las extensions malvolentas pòdon prendre vòstras donadas personalas o far perilh a vòstre ordenador. L’apondètz sonque se vos fisatz de la font. Aquesta extension aurà la permission de :
 webext-perms-sideload-header = { $extension } es estat apondut
 webext-perms-optional-perms-header = { $extension } demanda de permissions suplementàrias.
 
@@ -18,9 +21,21 @@ webext-perms-optional-perms-header = { $extension } demanda de permissions suple
 webext-perms-add =
     .label = Apondre
     .accesskey = A
+webext-perms-cancel =
+    .label = Anullar
+    .accesskey = n
 webext-perms-sideload-enable =
     .label = Activar
     .accesskey = A
+webext-perms-sideload-cancel =
+    .label = Anullar
+    .accesskey = n
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } es estat actualizat. Devètz aprovar de permissions novèlas abans d'installar la version actualizada. Causir « Anullar »  mantendrà la version actuala de l’extension. Aquesta extension aurà la permission de :
+webext-perms-update-accept =
+    .label = Metre a jorn
+    .accesskey = M
 webext-perms-optional-perms-allow =
     .label = Autorizar
     .accesskey = A
@@ -58,6 +73,8 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Aqueste modul complementari dòna accès a { $hostname } a vòstres periferics MIDI.
+webext-site-perms-header-with-gated-perms-midi-sysex = Aqueste modul complementari dòna accès a { $hostname } a vòstres periferics MIDI (amb presa en carga de SysEx)
 
 ##
 
@@ -68,6 +85,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Apondre { $extension } ? Aquesta extensions aurà las possibilitats seguentas { $hostname } :
+webext-site-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquesta extension foguèt pas verificada. Las extensions malvolentas pòdon prendre vòstras donadas personalas o far perilh a vòstre ordenador. L’apondètz sonque se vos fisatz de la font. Aquesta extension aurà las permissions de { $hostname } :
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Accedir als periferics MIDI
+webext-site-perms-midi-sysex = Accedir als periferics MIDI compatibles amb SysEx
