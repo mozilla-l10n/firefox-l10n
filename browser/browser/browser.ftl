@@ -998,8 +998,10 @@ firefox-relay-offer-what-relay-does = Transferirem totes los messatges de <stron
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Pas verificat)
 popup-notification-xpinstall-prompt-learn-more = Ne saber mai sus l’installacion de moduls de fòrma segura
 
 ## Pop-up warning
