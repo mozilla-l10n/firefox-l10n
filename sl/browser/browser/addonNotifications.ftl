@@ -48,7 +48,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Vaš sistemski skrbnik je zavrnil { $addonName } ({ $addonId }).{ " " }
+addon-install-blocked-by-policy = Vaš sistemski skrbnik je zavrnil { $addonName } ({ $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Skrbnik vašega sistema je tej strani preprečil vprašati, ali lahko na vaš računalnik namesti programsko opremo.
 addon-install-full-screen-blocked = Namestitev dodatkov ni dovoljena med ali pred vstopom v celozaslonski način.
