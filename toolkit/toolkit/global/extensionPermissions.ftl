@@ -13,6 +13,7 @@ webext-perms-description-browsingData = Rydde seneste browsing-historik, cookies
 webext-perms-description-clipboardRead = Læse data fra udklipsholderen
 webext-perms-description-clipboardWrite = Skrive data til udklipsholderen
 webext-perms-description-declarativeNetRequest = Blokere indhold på enhver side
+webext-perms-description-declarativeNetRequestFeedback = Læse din browser-historik
 webext-perms-description-devtools = Udvide Udviklerværktøj til at have adgang til data i åbne faneblade
 webext-perms-description-downloads = Hente filer, samt læse og ændre browserens filhentningshistorik
 webext-perms-description-downloads-open = Åbne filer hentet ned på din computer
