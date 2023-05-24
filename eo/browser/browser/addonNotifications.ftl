@@ -20,6 +20,11 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Neniam permesi
     .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Raporti suspektindan retejon
+    .accesskey = R
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -29,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Tiu ĉi retejo petas aliron al viaj aparatoj MIDI (Musical Instrument Digital Interface). Vi povas aktivigi tiun aliron per instalo de aldonaĵo.
+site-permission-install-first-prompt-midi-message = Tiu ĉi aliro ne estas nepre sekura. Daŭrigu nur se vi fidas tiun ĉi retejon.
 
 ##
 
@@ -42,6 +49,8 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) estis blokita de via sistema administranto.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Via sistema administranto ne permesis al tiu ĉi retejo peti al vi la rajton instali programon en via komputilo.
 addon-install-full-screen-blocked = La instalo de aldonaĵoj ne estas permesata en plenekrana reĝimo, aŭ antaŭ ol eniri ĝin.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -53,9 +62,13 @@ webext-perms-update-menu-item = { $addonName } postulas novajn permesojn
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Ĉu forigi { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Ĉu forigi { $name } el { -brand-shorter-name }?
 addon-removal-button = Forigi
+addon-removal-abuse-report-checkbox = Denunci tiun ĉi etendaĵon al { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -97,6 +110,7 @@ addon-install-error-incorrect-hash = La aldonaĵo ne povis esti instalita ĉar �
 addon-install-error-corrupt-file = La aldonaĵo elŝutita el tiu ĉi retejo ne povis esti instalita ĉar ĝi aspektas difektite.
 addon-install-error-file-access = { $addonName } no povis esti instalita ĉar { -brand-short-name } ne povas modifi la bezonatan dosieron.
 addon-install-error-not-signed = { -brand-short-name } evitis ke tiu ĉi retejo instalu nekontrolitan aldonaĵon.
+addon-install-error-invalid-domain = La aldonaĵo { $addonName } ne povas esti instalita el tiu ĉi ejo.
 addon-local-install-error-network-failure = Tiu ĉi aldonaĵo ne povis esti instalita pro eraro en la dosiersistemo.
 addon-local-install-error-incorrect-hash = Tiu ĉi aldonaĵo ne povis esti instalita ĉar ĝi ne kongruas kun la aldonaĵo, kiun atendis { -brand-short-name }.
 addon-local-install-error-corrupt-file = Tiu ĉi aldonaĵo ne povis esti instalita ĉar ĝi aspektas difektite.
