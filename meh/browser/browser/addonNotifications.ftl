@@ -49,7 +49,11 @@ addon-removal-title = ¿Xina { $name }?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Xina { $name } nee { -brand-shorter-name }?
+addon-removal-button = Xita
 addon-download-verifying = Verificando
+addon-install-cancel-button =
+    .label = Nkuvi-ka
+    .accesskey = C
 addon-install-accept-button =
     .label = Tee
     .accesskey = A
