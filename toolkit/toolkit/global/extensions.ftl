@@ -82,6 +82,13 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Ce module complémentaire
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Ces périphériques sont habituellement branchés à votre ordinateur, comme par exemple un synthétiseur audio, mais ils peuvent aussi être intégrés à votre ordinateur.
+    
+    Les sites web ne sont normalement pas autorisés à accéder aux périphériques MIDI. Une utilisation incorrecte pourrait provoquer des dommages ou compromettre la sécurité.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
