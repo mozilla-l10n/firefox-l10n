@@ -61,4 +61,16 @@ addon-confirm-install-some-unsigned-message =
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-incorrect-hash = Doplnok nemohol byť nainštalovaný, pretože neodpovedá tomu, čo prehliadač { -brand-short-name } očakával.
+addon-install-error-file-access = Doplnok { $addonName } nemohol byť nainštalovaný, pretože { -brand-short-name } nemohol upraviť potrebný súbor.
+addon-install-error-not-signed = { -brand-short-name } zabránil tejto stránke nainštalovať neoverený doplnok.
 addon-install-error-invalid-domain = Doplnok { $addonName } nie je možné nainštalovať z tohto umiestnenia.
+addon-local-install-error-network-failure = Tento doplnok nemohol byť nainštalovaný kvôli chybe v súborovom systéme.
+addon-local-install-error-incorrect-hash = Tento doplnok nemohol byť nainštalovaný, pretože neodpovedá tomu, čo prehliadač { -brand-short-name } očakával.
+addon-local-install-error-corrupt-file = Tento doplnok nemohol byť nainštalovaný, pretože je zrejme poškodený.
+addon-local-install-error-file-access = Doplnok { $addonName } nemohol byť nainštalovaný, pretože { -brand-short-name } nemohol upraviť potrebný súbor.
+addon-local-install-error-not-signed = Tento doplnok nemohol byť nainštalovaný, pretože nebol overený.
+# Variables:
+#   $appVersion (String): the application version.
+addon-install-error-incompatible = Doplnok { $addonName } nemohol byť nainštalovaný, pretože nie je kompatibilný s prehliadačom { -brand-short-name } { $appVersion }.
+addon-install-error-blocklisted = Doplnok { $addonName } nebol byť nainštalovaný, pretože je veľké riziko, že spôsobí problémy so stabilitou alebo bezpečnosťou prehliadača.
