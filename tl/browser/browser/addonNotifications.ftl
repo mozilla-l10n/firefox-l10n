@@ -25,6 +25,9 @@ xpinstall-disabled-button =
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Alisin { $name }?
 addon-removal-button = Alisin
 addon-download-verifying = Biniberika
 addon-install-cancel-button =
