@@ -11,6 +11,8 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Adaugi { $extension }?
+webext-perms-header-with-perms = Adaugi { $extension }? Aceasta va avea permisiunea:
+webext-perms-header-unsigned-with-perms = Adaugi { $extension }? Această extensie este neverificată. Extensiile rău intenționate îți pot fura informațiile private sau compromite calculatorul. Adaug-o numai dacă ai încredere în sursă. Această extensie va avea permisiunea:
 webext-perms-sideload-header = { $extension } adăugat
 webext-perms-optional-perms-header = { $extension } solicită permisiuni suplimentare.
 
@@ -30,6 +32,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Renunță
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } a fost actualizat. Trebuie să aprobi noile permisiuni înainte ca versiunea actualizată să se instaleze. Dacă alegi „Renunță”, se va menține versiunea actuală a extensiei. Această extensie va avea permisiunea:
 webext-perms-update-accept =
     .label = Actualizează
     .accesskey = U

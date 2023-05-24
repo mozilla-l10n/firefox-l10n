@@ -12,6 +12,7 @@ webext-perms-description-browserSettings = Să citească și să modifice setăr
 webext-perms-description-browsingData = Să șteargă istoricul recent de navigare, cookie-urile și datele asociate
 webext-perms-description-clipboardRead = Să obțină date din clipboard
 webext-perms-description-clipboardWrite = Să introducă date în clipboard
+webext-perms-description-devtools = Să extindă instrumentele pentru dezvoltatori pentru a-ți accesa datele în filele deschise
 webext-perms-description-downloads = Să descarce fișiere și să citească sau să modifice istoricul descărcărilor din browser
 webext-perms-description-downloads-open = Să deschidă fișiere descărcate pe calculator
 webext-perms-description-find = Să citească textul din toate filele deschise
