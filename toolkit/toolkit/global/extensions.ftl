@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = { $extension } hinzufügen?
+webext-perms-header-with-perms = { $extension } hinzufügen? Diese Erweiterung wird folgende Berechtigungen erhalten:
+webext-perms-header-unsigned = { $extension } hinzufügen? Diese Erweiterung wurde nicht verifiziert. Böswillige Erweiterungen können private Informationen stehlen oder Ihren Computer übernehmen. Fügen Sie diese nur hinzu, wenn Sie der Quelle vertrauen.
+webext-perms-header-unsigned-with-perms = { $extension } hinzufügen? Diese Erweiterung wurde nicht verifiziert. Böswillige Erweiterungen können private Informationen stehlen oder Ihren Computer übernehmen. Fügen Sie diese nur hinzu, wenn Sie der Quelle vertrauen. Diese Erweiterung wird folgende Berechtigungen erhalten:
 webext-perms-sideload-header = { $extension } hinzugefügt
 webext-perms-optional-perms-header = { $extension } bittet um zusätzliche Berechtigungen.
 
