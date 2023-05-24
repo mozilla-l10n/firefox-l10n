@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = { $extension } を追加しますか？
+webext-perms-header-with-perms = { $extension } を追加しますか？ この拡張機能は以下の権限が必要です:
+webext-perms-header-unsigned = { $extension } を追加しますか？ この拡張機能は検証されていません。悪意のある拡張機能はユーザーの個人情報を盗んだりコンピューターを危険にさらすことがあります。提供元を信頼できる場合のみ、追加するようにしてください。
+webext-perms-header-unsigned-with-perms = { $extension } を追加しますか？ この拡張機能は検証されていません。悪意のある拡張機能はユーザーの個人情報を盗んだりコンピューターを危険にさらすことがあります。提供元を信頼できる場合のみ、追加するようにしてください。この拡張機能は以下の権限が必要です:
 webext-perms-sideload-header = { $extension } が追加されました
 webext-perms-optional-perms-header = { $extension } が追加の許可を必要としています。
 
@@ -22,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = キャンセル
     .accesskey = C
+webext-perms-sideload-text = コンピューター上の別のプログラムがブラウザーの動作に影響するアドオンをインストールしました。このアドオンの権限の要求を見直して、有効にするかキャンセル (無効のまま) を選んでください。
 webext-perms-sideload-text-no-perms = コンピューター上の別のプログラムがブラウザーの動作に影響するアドオンをインストールしました。有効にするかキャンセル (無効のまま) を選んでください。
 webext-perms-sideload-enable =
     .label = 有効にする
@@ -29,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = キャンセル
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } が更新されています。新しいバージョンがインストールされる前に新たな権限を承認してください。“キャンセル” を選ぶと拡張機能は現在のバージョンが維持されます。この拡張機能は以下の権限が必要です:
 webext-perms-update-accept =
     .label = 更新
     .accesskey = U
@@ -62,6 +69,8 @@ webext-perms-host-description-too-many-sites = 他の { $domainCount } 個のサ
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = このアドオンは MIDI デバイスへのアクセスを { $hostname } に許可します。
+webext-site-perms-header-with-gated-perms-midi-sysex = このアドオンは SysEx 対応 MIDI デバイスへのアクセスを { $hostname } に許可します。
 
 ##
 
@@ -79,6 +88,10 @@ webext-site-perms-description-gated-perms-midi =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = { $extension } を追加しますか？ この拡張機能は以下の機能を { $hostname } に付与します:
+webext-site-perms-header-unsigned-with-perms = { $extension } を追加しますか？ この拡張機能は検証されていません。悪意のある拡張機能はあなたの機密情報を盗んだり、コンピューターを損傷させることができます。提供元を信用できる場合のみ追加してください。この拡張機能は以下の機能を { $hostname } に付与します:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = MIDI デバイスへのアクセス
+webext-site-perms-midi-sysex = SysEx 対応 MIDI デバイスへのアクセス
