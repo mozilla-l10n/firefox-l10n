@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = { $extension } ਜੋੜਨਾ ਹੈ?
+webext-perms-header-with-perms = { $extension } ਜੋੜਨ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਚਾਹੀਦੀਆਂ ਹੋਣਗੀਆਂ:
+webext-perms-header-unsigned = { $extension } ਜੋੜਨ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਹੋਈ ਹੈ। ਦੋਖੀ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨ ਸਕਦੀਆਂ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਲਈ ਸੰਨ੍ਹ ਲਾ ਸਕਦੀਆਂ ਹਨ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਦੇ ਸਰੋਤ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਇਸ ਨੂੰ ਜੋੜੋ।
+webext-perms-header-unsigned-with-perms = { $extension } ਜੋੜਨ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਹੋਈ ਹੈ। ਦੋਖੀ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨ ਸਕਦੀਆਂ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਲਈ ਸੰਨ੍ਹ ਲਾ ਸਕਦੀਆਂ ਹਨ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਦੇ ਸਰੋਤ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਇਸ ਨੂੰ ਜੋੜੋ। ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਚਾਹੀਦੀਆਂ ਹੋਣਗੀਆਂ:
 webext-perms-sideload-header = { $extension } ਨੂੰ ਜੋੜਿਆ ਗਿਆ
 webext-perms-optional-perms-header = { $extension } ਨੇ ਹੋਰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ।
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਕੀਤੇ ਵਰਜ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰਹਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਨਾ ਹੋਵੇਗਾ। ਆਪਣੇ ਮੌਜੂਦਾ ਇਕਸਟੈਨਸ਼ਨ ਵਰਜ਼ਨ ਨੂੰ ਰੱਖਣ ਲਈ “ਰੱਦ ਕਰੋ” ਨੂੰ ਚੁਣੋ। ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੋਵੇਗੀ:
 webext-perms-update-accept =
     .label = ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = U
@@ -71,6 +77,8 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = ਇਹ ਐਡ-ਆਨ { $hostname } ਨੂੰ ਤੁਹਾਡੇ MIDI ਡਿਵਾਈਸਾਂ ਤੱਕ ਪਹੁੰਚ ਦਿੰਦੀ ਹੈ।
+webext-site-perms-header-with-gated-perms-midi-sysex = ਇਹ ਐਡ-ਆਨ { $hostname } ਨੂੰ ਤੁਹਾਡੇ MIDI ਡਿਵਾਈਸ ਲਈ ਪਹੁੰਚ ਦਿੰਦੀ ਹੈ (SysEx ਸਹਾਇਤਾ ਰਾਹੀ)।
 
 ##
 
@@ -81,6 +89,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = { $extension } ਨੂੰ ਜੋੜਨਾ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ { $hostname } ਲਈ ਅੱਗੇ ਦਿੱਤੀਆਂ ਸਮਰੱਥਾ ਦੀ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਹੈ:
+webext-site-perms-header-unsigned-with-perms = { $extension } ਜੋੜਨੀ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਤਸਦੀਕ ਕੀਤੀ ਨਹੀਂ ਹੈ। ਖ਼ਰਾਬ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰ ਸਕਦੀਆਂ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੰਨ੍ਹ ਲਾ ਸਕਦੀਆਂ ਹਨ। ਜੇ ਤੁਹਾਨੂੰ ਸਰੋਤ ਉੱਤੇ ਭਰੋਸਾ ਹੋਵੇ ਤਾਂ ਹੀ ਇਸ ਨੂੰ ਜੋੜੋ। ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ { $hostname } ਲਈ ਅੱਗੇ ਦਿੱਤੀਆਂ ਸਮਰੱਥਾਵਾਂ ਦੀ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਗਈ ਹੈ:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = MIDI ਡਿਵਾਈਸਾਂ ਲਈ ਪਹੁੰਚ
+webext-site-perms-midi-sysex = SysEx ਸਹਿਯੋਗ ਲਈ MIDI ਡਿਵਾਈਸਾਂ ਲਈ ਪਹੁੰਚ
