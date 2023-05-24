@@ -948,8 +948,10 @@ firefox-relay-offer-why-to-use-relay = I nostri alias di posta elettronica, sicu
 firefox-relay-offer-what-relay-provides = Tutte le email inviate al tuo alias verranno inoltrate a <strong>{ $useremail }</strong> (a meno che tu non decida di bloccarle).
 firefox-relay-offer-legal-notice = Facendo clic su “Utilizza alias di posta elettronica”, accetti le <label data-l10n-name="tos-url">Condizioni di utilizzo del servizio</label> e l’<label data-l10n-name="privacy-url">Informativa sulla privacy</label>.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (non verificato)
 popup-notification-xpinstall-prompt-learn-more = Scopri come installare componenti aggiuntivi in completa sicurezza
 
 ## Pop-up warning
