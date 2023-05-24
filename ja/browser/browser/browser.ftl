@@ -991,8 +991,10 @@ firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong> に届い�
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (未検証)
 popup-notification-xpinstall-prompt-learn-more = アドオンの安全なインストールの詳細
 
 ## Pop-up warning
