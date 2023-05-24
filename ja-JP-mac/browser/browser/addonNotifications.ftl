@@ -7,6 +7,8 @@ xpinstall-prompt = このサイトからは { -brand-short-name } にソフト�
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = { $host } にアドオンのインストールを許可しますか？
+xpinstall-prompt-message = { $host } からアドオンをインストールしようとしています。続行するには、このサイトを許可サイトに設定する必要があります。
 
 ##
 
@@ -23,6 +25,12 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-never-allow-and-report =
     .label = 不審なサイトを報告
     .accesskey = R
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = インストールを続行
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -41,12 +49,26 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) はシステム管理者によりブロックされています。
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = ソフトウェアのインストールの確認は、システム管理者によりブロックされています。
+addon-install-full-screen-blocked = フルスクリーンモード中またはフルスクリーンモードに入る前は、アドオンのインストールは許可されていません。
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } が { -brand-short-name } に追加されました
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } が新たな権限を必要としています
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = { $name } を削除しますか？
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name } から { $name } を削除しますか？
+addon-removal-button = 削除
+addon-removal-abuse-report-checkbox = この拡張機能を { -vendor-short-name } に報告する
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = { $addonCount } 個のアドオンをダウンロードして検証しています...
@@ -76,6 +98,7 @@ addon-install-error-incorrect-hash = このアドオンは { -brand-short-name }
 addon-install-error-corrupt-file = このサイトからダウンロードしたアドオンは壊れているため、インストールできませんでした。
 addon-install-error-file-access = { -brand-short-name } は必要なファイルが変更できなかったため、{ $addonName } をインストールできませんでした。
 addon-install-error-not-signed = このサイトのアドオンは未検証のため、{ -brand-short-name } はインストールを中止しました。
+addon-install-error-invalid-domain = この場所からは { $addonName } アドオンをインストールできません。
 addon-local-install-error-network-failure = ファイルシステムエラーのため、アドオンをインストールできませんでした。
 addon-local-install-error-incorrect-hash = このアドオンは { -brand-short-name } に対応していないため、インストールできませんでした。
 addon-local-install-error-corrupt-file = このアドオンは壊れているため、インストールできませんでした。
