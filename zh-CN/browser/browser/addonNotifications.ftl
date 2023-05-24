@@ -29,6 +29,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = 此网站请求访问您的 MIDI（乐器数字接口）设备，安装附加组件后可实现访问。
+site-permission-install-first-prompt-midi-message = 此访问不一定安全，请仅在您信任此网站时才继续。
 
 ##
 
@@ -42,6 +44,8 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName }（{ $addonId }）已被系统管理员禁用。
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = 您的系统管理员已阻止此网站在您的计算机上安装软件的请求。
 addon-install-full-screen-blocked = 进入全屏模式前或进入时，不允许安装附加组件。
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -89,6 +93,7 @@ addon-install-error-incorrect-hash = 所下载的不是本要安装附加组件 
 addon-install-error-corrupt-file = 从此网站下载的这个附加组件文件损坏了，无法安装。
 addon-install-error-file-access = { $addonName } 未能安装，因为 { -brand-short-name } 无法修改所需的文件。
 addon-install-error-not-signed = { -brand-short-name } 已阻止此网站安装未通过验证的附加组件。
+addon-install-error-invalid-domain = 无法从此位置安装 { $addonName } 附加组件。
 addon-local-install-error-network-failure = 因为文件系统错误，无法安装该附加组件。
 addon-local-install-error-incorrect-hash = 所下载的不是本要安装附加组件 { -brand-short-name }，无法安装。
 addon-local-install-error-corrupt-file = 该附加组件无法安装，因为它似乎已损坏。
