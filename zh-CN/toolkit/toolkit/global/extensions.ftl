@@ -65,6 +65,13 @@ webext-perms-host-description-too-many-sites = 存取您用于其他 { $domainCo
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    这些通常是音频合成器等插拔设备，但也可能内置于您的计算机中。
+    
+    通常网站不被允许访问 MIDI 设备。使用不当可能会造成损坏或危及信息安全。
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
