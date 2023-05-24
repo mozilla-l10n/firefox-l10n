@@ -52,6 +52,10 @@ webext-perms-update-menu-item = { $addonName } benötigt neue Berechtigungen
 ## Add-on removal warning
 
 # Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { $name } aus { -brand-shorter-name } entfernen?
+addon-removal-button = Entfernen
+# Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
     { $addonCount ->
