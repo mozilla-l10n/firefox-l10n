@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = ¿Agregar { $extension }?
+webext-perms-header-with-perms = ¿Agregar { $extension }? Este complemento tendrá permiso para:
+webext-perms-header-unsigned = ¿Agregar { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar su información privada o poner en peligro la computadora. Solamente instale este complemento si confía en la fuente.
+webext-perms-header-unsigned-with-perms = ¿Agregar { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar su información privada o poner en peligro la computadora. Solamente instale este complemento si confía en la fuente. Este complemento tendrá permiso para:
 webext-perms-sideload-header = { $extension } agregado
 webext-perms-optional-perms-header = { $extension } solicita permisos adicionales.
 
@@ -74,9 +77,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Este complemento le da a { $hostname } acceso a sus dispositivos MIDI.
+webext-site-perms-header-with-gated-perms-midi-sysex = Este complemento le da a { $hostname } acceso a sus dispositivos MIDI (con compatibilidad SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Por lo general, se trata de dispositivos como sintetizadores de audio, pero también pueden estar integrados en su computadora.
+    
+    Normalmente, los sitios web no pueden acceder a dispositivos MIDI. El uso inadecuado podría causar daños o comprometer la seguridad.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
