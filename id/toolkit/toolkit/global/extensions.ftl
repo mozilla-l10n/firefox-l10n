@@ -63,6 +63,7 @@ webext-perms-host-description-too-many-sites = Mengakses data Anda pada { $domai
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Pengaya ini memberikan akses kepada { $hostname } ke perangkat MIDI Anda.
 
 ##
 
