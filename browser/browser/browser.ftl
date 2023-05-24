@@ -1005,6 +1005,10 @@ firefox-relay-offer-what-relay-does = Vsa sporočila spletnega mesta <strong>{ $
 
 ## Popup Notification
 
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Vsa e-pošta, ki prispe na vaše maske, se posreduje na <strong>{ $useremail }</strong> (razen če se jo odločite blokirati).
+firefox-relay-offer-legal-notice = S klikom na "Uporabi e-poštno masko" se strinjate s <label data-l10n-name="tos-url">pogoji uporabe</label> in z <label data-l10n-name="privacy-url">obvestilom o zasebnosti</label>.
 
 ## Add-on Pop-up Notifications
 
