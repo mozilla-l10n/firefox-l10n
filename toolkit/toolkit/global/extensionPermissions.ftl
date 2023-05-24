@@ -9,16 +9,21 @@
 
 webext-perms-description-bookmarks = Janngu mbaylaa maante ɗerewol
 webext-perms-description-browserSettings = Janngu tee mbaylaa teelte sutura
+webext-perms-description-browsingData = Momtu aslol peeragol cakkitiingol, kukiije, e keɓe nannuɗe heen
 webext-perms-description-clipboardRead = Heɓ keɓe ummoraade e gostorel
 webext-perms-description-clipboardWrite = Waɗ keɓe ɗee e gostorel
+webext-perms-description-devtools = Timmitin kootorɗe topagol ngam heɓde keɓe maa e tabbe udditiiɗe
 webext-perms-description-downloads = Awto piille, njanngaa, mbaylaa daartol kewe wanngorde ndee
 webext-perms-description-downloads-open = Uddit piille gaawtaaɗe e ordinateer maa
+webext-perms-description-find = Tar binndi tabbe udditiiɗe fof
 webext-perms-description-geolocation = Yah to Nokkuure maa
 webext-perms-description-history = Yah to daartol kewe banngagol
 webext-perms-description-management = Reen kuutoragol njokkon, njiilaa kettule
 webext-perms-description-nativeMessaging = Wostondir mesasuuji e tuugnorɗe goɗɗe ko wonaa { -brand-short-name }
 webext-perms-description-notifications = Ɗis tintine maa
+webext-perms-description-pkcs11 = Jonnu carwe goongtiɗiol gannaagol
 webext-perms-description-privacy = Janngu tee mbaylaa teelte sutura
+webext-perms-description-proxy = Yiil teelte proksi wanngorde
 webext-perms-description-sessions = Tabbe uddaaɗe sakket
 webext-perms-description-tabs = Yetto tabbe wanngorde
 webext-perms-description-topSites = Yah to daartol kewe banngagol
