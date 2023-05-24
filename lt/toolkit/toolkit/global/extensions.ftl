@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Pridėti „{ $extension }“?
+webext-perms-header-with-perms = Pridėti „{ $extension }“? Šis priedas turės tokius leidimus:
+webext-perms-header-unsigned = Pridėti „{ $extension }“? Šis priedas yra nepatikrintas. Kenkėjiški priedai gali pavogti jūsų asmeninę informaciją, arba apkrėsti kompiuterį. Pridėkite tik jei pasitikite šaltiniu.
+webext-perms-header-unsigned-with-perms = Pridėti „{ $extension }“? Šis priedas yra nepatikrintas. Kenkėjiški priedai gali pavogti jūsų asmeninę informaciją, arba apkrėsti kompiuterį. Pridėkite tik jei pasitikite šaltiniu. Šis priedas turės tokius leidimus:
 webext-perms-sideload-header = „{ $extension }“ pridėtas
 webext-perms-optional-perms-header = „{ $extension }“ prašo papildomų leidimų.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Atsisakyti
     .accesskey = A
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = „{ $extension }“ buvo atnaujintas. Jūs turite patvirtinti naujus leidimus prieš įrašant šią versiją. Pasirinkę „Atsisakyti“, liksite prie senos priedo versijos. Šis priedas turės tokius leidimus:
 webext-perms-update-accept =
     .label = Naujinti
     .accesskey = N
@@ -83,6 +89,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Pridėti „{ $extension }“? Šis priedas suteikia šias galimybes { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Pridėti „{ $extension }“? Šis priedas yra nepatikrintas. Kenkėjiški priedai gali pavogti jūsų asmeninę informaciją, arba apkrėsti kompiuterį. Pridėkite tik jei pasitikite šaltiniu. Šis priedas suteikia tokias galimybes { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Naudoti MIDI įrenginius
+webext-site-perms-midi-sysex = Naudoti MIDI įrenginius su „SysEx“ palaikymu
