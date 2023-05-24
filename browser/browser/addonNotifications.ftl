@@ -62,6 +62,7 @@ addon-removal-title = Вилучити { $name }?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Вилучити { $name } з { -brand-shorter-name }?
+addon-removal-button = Вилучити
 addon-removal-abuse-report-checkbox = Поскаржитись на це розширення до { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
