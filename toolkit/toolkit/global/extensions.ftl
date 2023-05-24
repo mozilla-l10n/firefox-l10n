@@ -30,7 +30,36 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = अद्यावधिक गर्नुहोस्
     .accesskey = U
+webext-perms-optional-perms-list-intro = त्यो चाहन्छ कि:
+webext-perms-optional-perms-allow =
+    .label = अनुमति दिनुहोस्
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = अस्वीकार गर्नुहोस्
+    .accesskey = D
 webext-perms-host-description-all-urls = सबै वेबसाइटहरूमा आफ्नो डाटाको पहुँच
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = { $domain } डोमेनमा भएको साइटहरूको लागि आफ्नो डाटाको पहुँच पाउनुहोस्
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] अन्य { $domainCount } डोमेनमा आफ्नो डाटाको पहुँच पाउनुहोस्
+       *[other] अन्य { $domainCount } डोमेनहरूमा आफ्नो डाटाको पहुँच पाउनुहोस्
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = { $domain } को लागि आफ्नो डाटाको पहुँच पाउनुहोस्
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] अन्य { $domainCount } साइटमा आफ्नो डाटाको पहुँच पाउनुहोस्
+       *[other] अन्य { $domainCount } साइटहरूमा आफ्नो डाटाको पहुँच पाउनुहोस्
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
