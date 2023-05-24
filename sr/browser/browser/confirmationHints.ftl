@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = Закачен!
 confirmation-hint-pin-tab-description = Откачите картицу десним кликом на њу.
 confirmation-hint-send-to-device = Послато!
 confirmation-hint-firefox-relay-mask-generated = Направљена је нова { -relay-brand-short-name } маска!
+confirmation-hint-firefox-relay-mask-created = Нова маска је направљена!
+confirmation-hint-firefox-relay-mask-reused = Употребљена је већ постојећа маска!
