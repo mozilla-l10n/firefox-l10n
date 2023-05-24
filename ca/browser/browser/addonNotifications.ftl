@@ -62,9 +62,13 @@ webext-perms-update-menu-item = { $addonName } requereix permisos nous
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Voleu eliminar { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Voleu eliminar «{ $name }» del { -brand-shorter-name }?
 addon-removal-button = Elimina
+addon-removal-abuse-report-checkbox = Informeu d'aquesta extensió a { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -106,6 +110,7 @@ addon-install-error-incorrect-hash = No s'ha pogut instal·lar el complement per
 addon-install-error-corrupt-file = No s'ha pogut instal·lar el complement baixat perquè sembla que era defectuós.
 addon-install-error-file-access = No s'ha pogut instal·lar el complement «{ $addonName }» perquè el { -brand-short-name } no ha pogut modificar un fitxer necessari.
 addon-install-error-not-signed = El { -brand-short-name } ha evitat que aquest lloc instal·li un complement no verificat.
+addon-install-error-invalid-domain = El complement { $addonName } no es pot instal·lar des d'aquesta ubicació.
 addon-local-install-error-network-failure = No s'ha pogut instal·lar el complement per un error del sistema de fitxers.
 addon-local-install-error-incorrect-hash = No s'ha pogut instal·lar aquest complement perquè no coincideix amb el complement que esperava el { -brand-short-name }.
 addon-local-install-error-corrupt-file = No es pot instal·lar el complement perquè sembla estar malmès.
