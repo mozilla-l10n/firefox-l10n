@@ -9,8 +9,11 @@
 
 webext-perms-description-bookmarks = Darllen a newid nodau tudalen
 webext-perms-description-browserSettings = Darllen a newid gosodiadau'r porwr
+webext-perms-description-browsingData = Clirio'r hanes pori diweddar, cwcis a data cysylltiedig
 webext-perms-description-clipboardRead = Estyn data o'r clipfwrdd
 webext-perms-description-clipboardWrite = Mewnbynnu data i'r clipfwrdd
+webext-perms-description-declarativeNetRequest = Rhwystro cynnwys ar unrhyw dudalen
+webext-perms-description-declarativeNetRequestFeedback = Darllen eich hanes pori
 webext-perms-description-devtools = Estyn offer datblygwyr i gael mynediad at eich data mewn tabiau agored
 webext-perms-description-downloads = Llwytho i lawr, darllen ffeiliau a newid hanes llwytho i lawr y porwr
 webext-perms-description-downloads-open = Agor ffeiliau a llwythwyd i lawr i'ch cyfrifiadur

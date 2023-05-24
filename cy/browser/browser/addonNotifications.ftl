@@ -7,12 +7,35 @@ xpinstall-prompt = Rhwystrodd { -brand-short-name } y wefan rhag gofyn i chi oso
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Caniatáu i { $host } osod ategyn?
+xpinstall-prompt-message = Rydych yn ceisio gosod ychwanegyn o { $host }. Gwnewch yn siŵr eich bod yn ymddiried yn y wefan hon cyn parhau.
 
 ##
 
+xpinstall-prompt-header-unknown = Caniatáu i wefan anhysbys osod ategyn?
+xpinstall-prompt-message-unknown = Rydych yn ceisio gosod ychwanegyn o wefan anhysbys. Gwnewch yn siŵr eich bod yn ymddiried yn y wefan hon cyn parhau.
+xpinstall-prompt-dont-allow =
+    .label = Peidio â Chaniatáu
+    .accesskey = P
+xpinstall-prompt-never-allow =
+    .label = Byth Caniatáu
+    .accesskey = B
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Adrodd am Wefan Amheus
+    .accesskey = A
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Ymlaen i'r Gosod
+    .accesskey = G
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Mae'r wefan hon yn gofyn am fynediad i'ch dyfeisiau MIDI (Rhyngwyneb Digidol Offeryn Cerdd). Mae modd galluogi mynediad i ddyfais trwy osod ychwanegyn.
+site-permission-install-first-prompt-midi-message = Nid oes gwarant fod y mynediad hwn yn ddiogel. Parhewch dim ond os ydych yn ymddiried yn y wefan hon.
 
 ##
 
@@ -21,12 +44,31 @@ xpinstall-disabled = Mae gosod meddalwedd wedi ei analluogi. Cliciwch Galluogi a
 xpinstall-disabled-button =
     .label = Galluogi
     .accesskey = a
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = Mae { $addonName } ({ $addonId }) wedi ei analluogi gan eich gweinyddwr system.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Rhwystrodd eich gweinyddwr systemau y wefan hon rhag gofyn i chi osod meddalwedd ar eich cyfrifiadur.
+addon-install-full-screen-blocked = Nid yw gosod ychwanegiad yn cael ei ganiatáu wrth fynd i'r modd sgrin lawn neu cyn hynny.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = Mae { $addonName } wedi ei ychwanegu at { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = Mae { $addonName } angen caniatâd newydd
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Tynnu { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Tynnu { $name } o { -brand-shorter-name }?
+addon-removal-button = Tynnu
+addon-removal-abuse-report-checkbox = Adroddwch yr estyniad hwn i { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -85,6 +127,7 @@ addon-install-error-incorrect-hash = Nid oedd modd gosod yr ychwanegyn am nad yw
 addon-install-error-corrupt-file = Nid oedd modd llwytho'r ychwanegyn i lawr o'r wefan hon oherwydd ei fod yn ymddangos yn llwgr.
 addon-install-error-file-access = Nid oedd modd gosod { $addonName } gan nad oedd { -brand-short-name } yn gallu newid y linell angenrheidiol.
 addon-install-error-not-signed = Mae { -brand-short-name } wedi atal y wefan rhag gosod ychwanegyn sydd heb ei wirio.
+addon-install-error-invalid-domain = Nid oes modd gosod yr ychwanegyn { $addonName } o'r lleoliad hwn.
 addon-local-install-error-network-failure = Nid oedd modd gosod yr ychwanegyn oherwydd gwall system.
 addon-local-install-error-incorrect-hash = Nid oedd modd gosod yr ychwanegyn am nad yw'n cydweddu â'r ychwanegyn { -brand-short-name } disgwyliwyd.
 addon-local-install-error-corrupt-file = Nid oedd modd gosod yr ychwanegyn am ei fod yn edrych yn llwgr.
