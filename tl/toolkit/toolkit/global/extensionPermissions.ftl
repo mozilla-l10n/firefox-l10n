@@ -9,7 +9,9 @@
 
 webext-perms-description-bookmarks = Basahin at baguhin ang mga bookmark
 webext-perms-description-clipboardWrite = Magpasok ng data sa clipboard
+webext-perms-description-downloads-open = Buksan ang mga file na na-download sa iyong computer
 webext-perms-description-geolocation = I-access ang iyong lokasyon
 webext-perms-description-nativeMessaging = Makipagpalit ng mga mensahe sa mga program maliban sa { -brand-short-name }
+webext-perms-description-pkcs11 = Magbigay ng cryptographic authentication service
 webext-perms-description-sessions = I-access ang mga kasasara lang na mga tab
 webext-perms-description-webNavigation = I-access ang browser activity habang nag-nanavigate

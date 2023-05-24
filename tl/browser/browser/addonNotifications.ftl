@@ -46,3 +46,6 @@ addon-local-install-error-network-failure = Hindi ma-install ang add-on na ito d
 addon-local-install-error-incorrect-hash = Hindi ma-install ang add-on dahil hindi tugma sa inaasahan ng add-on { -brand-short-name }.
 addon-local-install-error-corrupt-file = Hindi ma-install ang add-on dahil ito ay sira.
 addon-local-install-error-not-signed = Hindi ma-install ang add-on dahil hindi pa ito na beripika.
+# Variables:
+#   $appVersion (String): the application version.
+addon-install-error-incompatible = Hindi ma-install ang { $addonName } dahil hindi tugma sa { -brand-short-name } { $appVersion }.
