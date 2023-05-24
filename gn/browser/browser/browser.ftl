@@ -996,8 +996,10 @@ firefox-relay-offer-what-relay-does = Romondojeýta opaite ñanduti veve <strong
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Ndojehechajeýiva)
 popup-notification-xpinstall-prompt-learn-more = Eñemomaranduve mba’éichapa emohendáta moĩmbaha tekorosãkuápe
 
 ## Pop-up warning
