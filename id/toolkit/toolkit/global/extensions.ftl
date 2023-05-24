@@ -10,6 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Tambahkan { $extension }?
 
 ##
 
