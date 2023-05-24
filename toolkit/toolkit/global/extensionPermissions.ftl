@@ -13,6 +13,7 @@ webext-perms-description-browsingData = Rensa den senaste webbhistoriken, kakor 
 webext-perms-description-clipboardRead = Hämta data från urklipp
 webext-perms-description-clipboardWrite = Mata in data till urklipp
 webext-perms-description-declarativeNetRequest = Blockera innehåll på vilken sida som helst
+webext-perms-description-declarativeNetRequestFeedback = Läs din surfhistorik
 webext-perms-description-devtools = Utöka utvecklarverktyg för att komma åt dina data i öppna flikar
 webext-perms-description-downloads = Ladda ner filer och läsa och ändra webbläsarens nedladdningshistorik
 webext-perms-description-downloads-open = Öppna filer som hämtats till din dator

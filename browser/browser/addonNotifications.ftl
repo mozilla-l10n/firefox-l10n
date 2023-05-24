@@ -7,6 +7,7 @@ xpinstall-prompt = { -brand-short-name } har förhindrat den här hemsidan från
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Tillåt { $host } att installera ett tillägg?
 xpinstall-prompt-message = Du försöker installera ett tillägg från { $host }. Se till att du litar på den här webbplatsen innan du fortsätter.
 
 ##
@@ -16,11 +17,20 @@ xpinstall-prompt-message-unknown = Du försöker installera ett tillägg från e
 xpinstall-prompt-dont-allow =
     .label = Tillåt inte
     .accesskey = n
+xpinstall-prompt-never-allow =
+    .label = Tillåt aldrig
+    .accesskey = a
 # Long text in this context make the dropdown menu extend awkwardly to the left,
 # avoid a localization that's significantly longer than the English version.
 xpinstall-prompt-never-allow-and-report =
     .label = Rapportera misstänkt webbplats
     .accesskey = R
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Fortsätt till installation
+    .accesskey = F
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -54,6 +64,10 @@ webext-perms-update-menu-item = { $addonName } kräver nya behörigheter
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Ta bort { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Ta bort { $name } från { -brand-shorter-name }?
+addon-removal-button = Ta bort
 addon-removal-abuse-report-checkbox = Rapportera detta tillägg till { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
