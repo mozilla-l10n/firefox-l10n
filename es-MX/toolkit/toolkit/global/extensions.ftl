@@ -12,6 +12,7 @@
 
 webext-perms-header = ¿Agregar { $extension }?
 webext-perms-sideload-header = { $extension } agregado
+webext-perms-optional-perms-header = { $extension } requiere permisos adicionales.
 
 ##
 
@@ -32,10 +33,36 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = Actualizar
     .accesskey = U
+webext-perms-optional-perms-list-intro = Quiere:
+webext-perms-optional-perms-allow =
+    .label = Permitir
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = Denegar
+    .accesskey = D
 webext-perms-host-description-all-urls = Acceder a tus datos para todos los sitios web
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acceder a tus datos para los sitios del dominio { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Accede a tus datos en { $domainCount } otro dominio
+       *[other] Accede a tus datos en { $domainCount } otros dominios
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Acceder a tus datos para { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Acceder a tus datos en { $domainCount } otro sitio
+       *[other] Acceder a tus datos en { $domainCount } otros sitios
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
