@@ -80,6 +80,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Add { $extension }? This extension grants the following capabilities to { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Add { $extension }? This extension is unverified. Malicious extensions can steal your private information or compromise your computer. Only add it if you trust the source. This extension grants the following capabilities to { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Access MIDI devices
+webext-site-perms-midi-sysex = Access MIDI devices with SysEx support

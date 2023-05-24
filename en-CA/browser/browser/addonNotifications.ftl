@@ -74,6 +74,7 @@ addon-install-error-incorrect-hash = The add-on could not be installed because i
 addon-install-error-corrupt-file = The add-on downloaded from this site could not be installed because it appears to be corrupt.
 addon-install-error-file-access = { $addonName } could not be installed because { -brand-short-name } cannot modify the needed file.
 addon-install-error-not-signed = { -brand-short-name } has prevented this site from installing an unverified add-on.
+addon-install-error-invalid-domain = The add-on { $addonName } can not be installed from this location.
 addon-local-install-error-network-failure = This add-on could not be installed because of a filesystem error.
 addon-local-install-error-incorrect-hash = This add-on could not be installed because it does not match the add-on { -brand-short-name } expected.
 addon-local-install-error-corrupt-file = This add-on could not be installed because it appears to be corrupt.
