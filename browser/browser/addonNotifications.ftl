@@ -34,6 +34,10 @@ webext-perms-update-menu-item = { $addonName } 需要新的权限
 ## Add-on removal warning
 
 # Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = 移除 { -brand-shorter-name } 中的 { $name } 吗？
+addon-removal-button = 移除
+# Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = 正在下载并验证 { $addonCount } 个附加组件…
 addon-download-verifying = 正在验证
@@ -47,6 +51,7 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-unsigned-message = 注意：此网站想在 { -brand-short-name } 中安装 { $addonCount } 个未通过验证的附加组件。请谨慎决定。
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message = 注意：此网站想在 { -brand-short-name } 中安装 { $addonCount } 个附加组件，其中一些未通过验证。请谨慎决定。
