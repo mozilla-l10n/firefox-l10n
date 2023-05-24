@@ -48,7 +48,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) è bloccà da l'administratur da tes sistem.{ " " }
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) è bloccà da l'administratur da tes sistem.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L'administratur da tes sistem ha impedì che questa website ta dumondia sche software duai vegnir installada sin tes computer.
 addon-install-full-screen-blocked = L'installaziun da supplements n'è betg permessa durant u avant che midar en il modus da maletg entir.
