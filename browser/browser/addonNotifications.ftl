@@ -17,6 +17,9 @@ xpinstall-prompt-message-unknown = Vous essayez d’installer un module complém
 xpinstall-prompt-dont-allow =
     .label = Ne pas autoriser
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Ne jamais autoriser
+    .accesskey = N
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -34,6 +37,11 @@ xpinstall-disabled = L’installation de logiciels est actuellement désactivée
 xpinstall-disabled-button =
     .label = Activer
     .accesskey = v
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) est bloqué par votre administrateur système.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Votre administrateur système a empêché ce site d’installer un logiciel sur votre ordinateur.
 addon-install-full-screen-blocked = L’installation de modules complémentaires n’est pas autorisée pendant ou avant le passage en mode plein écran.
