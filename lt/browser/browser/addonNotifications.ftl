@@ -41,7 +41,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Jūsų sistemos administratorius yra užblokavęs „{ $addonName }“ ({ $addonId }).{ " " }
+addon-install-blocked-by-policy = Jūsų sistemos administratorius yra užblokavęs „{ $addonName }“ ({ $addonId }).
 addon-install-full-screen-blocked = Priedų diegimas yra neleidžiamas esant viso ekrano veiksenoje, arba prieš pareinant į ją.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
