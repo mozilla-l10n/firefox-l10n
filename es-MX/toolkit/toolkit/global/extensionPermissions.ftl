@@ -13,6 +13,7 @@ webext-perms-description-browsingData = Borrar historial de navegación reciente
 webext-perms-description-clipboardRead = Obtener datos desde el portapapeles
 webext-perms-description-clipboardWrite = Ingresar datos desde el portapapeles
 webext-perms-description-declarativeNetRequest = Bloquear contenido en cualquier página
+webext-perms-description-devtools = Extiende las herramientas de desarrollador para acceder a tus datos en las pestañas abiertas
 webext-perms-description-downloads = Descargar archivos y leer y modificar el historial de descargas del navegador
 webext-perms-description-downloads-open = Abrir archivos descargados a tu computadora
 webext-perms-description-find = Leer el texto de todas las pestañas abiertas
