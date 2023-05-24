@@ -9,15 +9,19 @@
 
 webext-perms-description-bookmarks = Lenn ha kemmañ ar sinedoù
 webext-perms-description-browserSettings = Lenn ha kemmañ arventennoù ar merdeer
+webext-perms-description-browsingData = Skarzhañ ar roll istor, an toupinoù hag ar roadennoù liammet nevesañ
 webext-perms-description-clipboardRead = Kaout roadennoù ar golver
 webext-perms-description-clipboardWrite = Enankañ roadennoù er golver
 webext-perms-description-downloads = Pellgargañ restroù ha lenn ha kemmañ roll istor ar merdeer
+webext-perms-description-downloads-open = Digeriñ ar restroù pellgarget gant hoc'h urzhiataer
+webext-perms-description-find = Lenn testennoù an holl ivinelloù digor
 webext-perms-description-geolocation = Haeziñ d'ho lec'hiadur
 webext-perms-description-history = Lenn ar roll istor merdeiñ
 webext-perms-description-management = Evezhiañ arver an askouezhioù hag ardeiñ an neuzioù
 webext-perms-description-nativeMessaging = Eskemm kemennadennoù gant goulevioù all (estreget { -brand-short-name })
 webext-perms-description-notifications = Skrammañ rebuzadurioù evidoc'h
 webext-perms-description-privacy = Lenn ha kemmañ arventennoù ar vuhez prevez
+webext-perms-description-proxy = Reoliañ arventennoù proksi ar merdeer
 webext-perms-description-tabs = Haeziñ ivinelloù ar merdeer
 webext-perms-description-topSites = Lenn ar roll istor merdeiñ
 webext-perms-description-webNavigation = Haeziñ oberiantiz ar merdeer e-pad ar merdeiñ
