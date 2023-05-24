@@ -993,8 +993,10 @@ firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong> guneko mezu
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Egiaztatu gabea)
 popup-notification-xpinstall-prompt-learn-more = Gehigarriak modu seguruan instalatzeko argibide gehiago
 
 ## Pop-up warning
