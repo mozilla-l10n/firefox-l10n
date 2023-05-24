@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = Stop { -brand-short-name } an suíomh seo ó bheith ag iarraidh ort bogearraí a shuiteáil ar do ríomhaire.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -42,6 +43,7 @@ addon-install-blocked-by-policy = Chuir riarthóir do chórais cosc ar { $addonN
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Bain { $name } ó { -brand-shorter-name }?
 addon-removal-button = Bain
+addon-download-verifying = Á Fhíorú
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
