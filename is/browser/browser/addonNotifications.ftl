@@ -15,6 +15,9 @@ xpinstall-prompt-header-unknown = Leyfa óþekktum vef að setja inn viðbót?
 xpinstall-prompt-dont-allow =
     .label = Ekki leyfa
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Aldrei leyfa
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -26,6 +29,11 @@ xpinstall-disabled = Hugbúnaðar uppsetning er óvirk. Smelltu á Virkja og rey
 xpinstall-disabled-button =
     .label = Virkja
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) hefur verið lokað af kerfisstjóra þínum.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } bætt við í { -brand-short-name }
