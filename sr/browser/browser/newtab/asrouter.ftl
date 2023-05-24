@@ -262,6 +262,15 @@ set-default-pdf-handler-primary = Важи
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Планирате да набавите нови уређај?
+fxa-sync-cfr-body = Побрините се да ваши обележивачи, лозинке и картице буду са вама када отворите нови { -brand-product-name } прегледач.
+fxa-sync-cfr-primary = Сазнајте више
+    .accesskey = С
+fxa-sync-cfr-secondary = Подсети ме касније
+    .accesskey = П
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Користите старији уређај?
+device-migration-fxa-spotlight-body = Направите резервну копију података да не изгубите важне податке као што су обележивачи и лозинке –– посебно када их преносите на нови уређај.
+device-migration-fxa-spotlight-primary-button = Како да направим резервну копију
+device-migration-fxa-spotlight-link = Подсети ме касније
