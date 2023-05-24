@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Leggje til { $extension }?
+webext-perms-header-with-perms = Leggje til { $extension }? Denne utvidinga vil ha løyve til å:
+webext-perms-header-unsigned = Leggje til { $extension }? Denne utvidinga er ikkje stadfesta. Skadelege utvidingar kan stele privatopplysningane dine eller kompromittere datamaskina di. Legg berre til denne utvidinga om du stolar på kjelda.
+webext-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne utvidinga er ikkje stadfesta. Skadelege utvidingar kan stele privatopplysningane dine eller kompromittere datamaskina di. Legg berre til denne utvidinga om du stolar på kjelda. Denne utvidinga vil ha løyve til å:
 webext-perms-sideload-header = { $extension } lagt til
 webext-perms-optional-perms-header = { $extension } ber om ytterlegare løyve.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Avbryt
     .accesskey = A
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } er oppdatert. Du må godkjenne nye løyve før den oppdaterte versjonen vil bli installert. Vel du «Avbryt», vil du behalde den noverande versjonen av utvidinga. Denne utvideinga vil ha løyve til å:
 webext-perms-update-accept =
     .label = Oppdater
     .accesskey = O
@@ -81,6 +87,9 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Vil du leggje til { $extension }? Denne utvidinga gir { $hostname } følgjande funksjonar:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Tilgang til MIDI-einingar
+webext-site-perms-midi-sysex = Tilgang til MIDI-einingar med SysEx-sttte
