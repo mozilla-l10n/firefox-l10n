@@ -21,10 +21,26 @@ xpinstall-disabled-button =
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] Add-on downloade en ferifiearje…
+       *[other] { $addonCount } add-ons downloade en ferifiearje…
+    }
+addon-download-verifying = Ferifiearje
+addon-install-cancel-button =
+    .label = Annulearje
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message =
+    { $addonCount ->
+        [one] Dizze website wol in add-on ynstallearje yn { -brand-short-name }:
+       *[other] Dizze website wol { $addonCount } add-ons ynstallearje yn { -brand-short-name }:
+    }
 
 ## Add-on install errors
 ## Variables:
