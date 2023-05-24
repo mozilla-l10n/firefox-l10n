@@ -7,12 +7,24 @@ xpinstall-prompt = { -brand-short-name } esti sivustoa avaamasta ohjelmien asenn
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Saako { $host } asentaa lisäosan?
+xpinstall-prompt-message = Olet aikeissa asentaa lisäosan sivustolta { $host }. Varmistu sivuston luotettavuudesta, ennen kuin jatkat.
 
 ##
 
+xpinstall-prompt-header-unknown = Saako tuntematon sivusto asentaa lisäosan?
 xpinstall-prompt-dont-allow =
     .label = Älä salli
     .accesskey = Ä
+xpinstall-prompt-never-allow =
+    .label = Älä salli koskaan
+    .accesskey = k
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Jatka asennukseen
+    .accesskey = a
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +36,12 @@ xpinstall-disabled = Ohjelmien asentaminen on tällä hetkellä estetty. Ota se 
 xpinstall-disabled-button =
     .label = Ota käyttöön
     .accesskey = k
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) on järjestelmänvalvojasi estämä.
+addon-install-full-screen-blocked = Lisäosien asennus ei ole sallittu koko näytön tilassa tai ennen koko näytön tilaan siirtymistä.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } lisätty { -brand-short-name }iin
@@ -33,6 +51,10 @@ webext-perms-update-menu-item = { $addonName } vaatii uusia oikeuksia
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Poistetaanko ”{ $name }” { -brand-shorter-name }-selaimesta?
+addon-removal-button = Poista
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

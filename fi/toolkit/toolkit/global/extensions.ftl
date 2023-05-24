@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Lisätäänkö { $extension }?
+webext-perms-header-with-perms = Lisätäänkö { $extension }? Tällä laajennuksella on seuraavat oikeudet:
+webext-perms-header-unsigned = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneesi turvallisuuden. Lisää se vain, jos luotat lähteeseen.
+webext-perms-header-unsigned-with-perms = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneesi turvallisuuden. Lisää se vain, jos luotat lähteeseen. Tällä laajennuksella on seuraavat oikeudet:
 webext-perms-sideload-header = { $extension } lisätty
 
 ##
@@ -29,6 +32,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Peruuta
     .accesskey = P
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } on päivitetty. Sinun täytyy hyväksyä uudet oikeudet ennen kuin uusi versio asennetaan. Jos valitset ”Peruuta”, laajennuksen nykyinen versio säilytetään. Tämän laajennuksen uudet oikeudet ovat:
 webext-perms-update-accept =
     .label = Päivitä
     .accesskey = i
@@ -83,3 +89,5 @@ webext-perms-host-description-too-many-sites =
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Käytä MIDI-laitteita
+webext-site-perms-midi-sysex = Käytä MIDI-laitteita SysEx-tuella
