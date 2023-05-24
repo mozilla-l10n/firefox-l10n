@@ -989,8 +989,10 @@ firefox-relay-offer-what-relay-does = Всички писма от <strong>{ $si
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (непроверено)
 popup-notification-xpinstall-prompt-learn-more = Научете повече за безопасното инсталиране на добавки
 
 ## Pop-up warning
