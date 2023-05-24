@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Undertitels
     .tooltip = Undertitels
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Folslein skerm
+    .tooltip = Folslein skerm (dûbelklik of { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Folslein skerm ferlitte
+    .tooltip = Folslein skerm ferlitte (dûbelklik of { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Folslein skerm ferlitte
     .tooltip = Folslein skerm ferlitte (dûbelklik)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Tebek
     .tooltip = Tebek (←)
