@@ -29,6 +29,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Este sitio está solicitando acceso aos seus dispositivos MIDI (Interface dixital de instrumentos musicais). O acceso ao dispositivo pódese activar instalando un complemento.
+site-permission-install-first-prompt-midi-message = Non se garante que este acceso sexa seguro. Continúe só se confía neste sitio.
 
 ##
 
