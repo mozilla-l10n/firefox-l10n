@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } បាន​រារាំង​តំ
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = កុំ​អនុញ្ញាត
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -21,9 +24,18 @@ xpinstall-disabled = ការ​ដំឡើង​កម្មវិធី​�
 xpinstall-disabled-button =
     .label = បើក
     .accesskey = n
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } បាន​បញ្ចូល​ទៅ​ក្នុង { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } តម្រូវ​ឲ្យ​មាន​ការ​អនុញ្ញាត​ថ្មី
 
 ## Add-on removal warning
 
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying = កំពុង​ទាញ​យក និង​ផ្ទៀងផ្ទាត់​កម្មវិធី​បន្ថែម { $addonCount }...
 addon-download-verifying = កំពុង​ផ្ទៀងផ្ទាត់
 addon-install-cancel-button =
     .label = បោះបង់
@@ -35,7 +47,11 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message = ទំព័រ​​នេះ​ចង់​ដំឡើង​កម្មវិធី​បន្ថែម​ { $addonCount } នៅ​ក្នុង { -brand-short-name }៖
 addon-confirm-install-unsigned-message = ប្រយ័ត្ន៖ វេបសាយ​នេះ​ចង់​ដំឡើង​កម្មវិធី​បន្ថែម​​ដែល​មិន​បាន​បញ្ជាក់​នៅ​ក្នុង { -brand-short-name }។ ចាប់ផ្ដើម​ដំណើរការ​ដោយ​ការ​ទទួល​ខុសត្រូវ​ខ្លួន​ឯង
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = ប្រយ័ត្ន៖ ទំព័រ​​នេះ​ចង់​ដំឡើង​កម្មវិធី​បន្ថែម { $addonCount } ​នៅ​ក្នុង { -brand-short-name } ផ្នែក​មួយ​ចំនួន​មិន​ទាន់​បាន​បញ្ជាក់។ ចាប់ផ្ដើម​ដំណើរការ​ដោយ​ការ​ទទួល​ខុសត្រូវ​ខ្លួន​ឯង។
 
 ## Add-on install errors
 ## Variables:
