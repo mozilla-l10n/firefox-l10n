@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name }(e)k gune honi galarazi egin dio ordenag
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Baimendu { $host }(r)i gehigarri bat instalatzea?
+xpinstall-prompt-message = { $host }(e)tik gehigarri bat instalatzen saiatzen ari zara. Jarraitu aurretik, ziurtatu gunea fidagarria dela.
 
 ##
 
+xpinstall-prompt-header-unknown = Baimendu gune ezezagun bati gehigarria instalatzea?
+xpinstall-prompt-message-unknown = Gune ezezagun batetik gehigarri bat instalatzen saiatzen ari zara. Jarraitu aurretik, ziurtatu gunea fidagarria dela.
 xpinstall-prompt-dont-allow =
     .label = Ez baimendu
     .accesskey = E
+xpinstall-prompt-never-allow =
+    .label = Inoiz ez baimendu
+    .accesskey = n
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Jarraitu instalazioa
+    .accesskey = J
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +37,11 @@ xpinstall-disabled = Softwareren instalazioa ezgaituta dago. Egin klik 'Gaitu' b
 xpinstall-disabled-button =
     .label = Gaitu
     .accesskey = G
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) blokeatu du zure sistemaren administratzaileak.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } gehigarria { -brand-short-name }(e)ra gehitu da
@@ -33,6 +51,10 @@ webext-perms-update-menu-item = { $addonName } hedapenak baimen berriak behar di
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Kendu { $name } { -brand-shorter-name }(e)tik?
+addon-removal-button = Kendu
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
