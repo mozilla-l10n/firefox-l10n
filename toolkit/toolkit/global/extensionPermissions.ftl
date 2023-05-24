@@ -25,6 +25,7 @@ webext-perms-description-nativeMessaging = Vyměňovat si zprávy s jinými apli
 webext-perms-description-notifications = Zobrazovat vám oznámení
 webext-perms-description-pkcs11 = Poskytovat služby pro kryptografickou autentizaci
 webext-perms-description-privacy = Číst a upravovat nastavení soukromí
+webext-perms-description-proxy = Změnit nastavení proxy
 webext-perms-description-sessions = Přistupovat k nedávno zavřeným panelům
 webext-perms-description-tabs = Přistupovat k panelům prohlížeče
 webext-perms-description-tabHide = Skrývat a zobrazovat panely prohlížeče
