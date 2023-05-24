@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Is-deitlau
     .tooltip = Is-deitlau
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Sgrin Lawn
+    .tooltip = Sgrin Lawn (clic dwbl neu { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Gadael sgrin lawn
+    .tooltip = Gadael sgrin lawn (clic dwbl neu { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Gadael sgrin lawn
     .tooltip = Gadael sgrin lawn (clic dwbl)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = L
 pictureinpicture-seekbackward-btn =
     .aria-label = Mynd yn ôl
     .tooltip = Mynd yn ôl (←)
