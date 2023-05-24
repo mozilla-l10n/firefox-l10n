@@ -79,9 +79,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Tento doplnok poskytuje stránke { $hostname } prístup k vašim MIDI zariadeniam.
+webext-site-perms-header-with-gated-perms-midi-sysex = Tento doplnok poskytuje stránke { $hostname } prístup k vašim MIDI zariadeniam (s podporou SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Zvyčajne ide o pripojené zariadenia, ako sú zvukové syntetizátory, ale môžu byť zabudované aj vo vašom počítači.
+    
+    Webové stránky zvyčajne nemajú povolený prístup k zariadeniam MIDI. Nesprávne používanie môže spôsobiť poškodenie alebo ohroziť bezpečnosť.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
