@@ -12,6 +12,7 @@
 
 webext-perms-header = { $extension } dobäisetzen?
 webext-perms-sideload-header = { $extension } dobäigesat
+webext-perms-optional-perms-header = { $extension } freet zousätzlech Rechter.
 
 ##
 
@@ -26,6 +27,19 @@ webext-perms-sideload-text-no-perms = Een anere Programm op dësem Computer huet
 webext-perms-sideload-enable =
     .label = Aktivéieren
     .accesskey = E
+webext-perms-sideload-cancel =
+    .label = Ofbriechen
+    .accesskey = C
+webext-perms-update-accept =
+    .label = Aktualiséieren
+    .accesskey = U
+webext-perms-optional-perms-list-intro = Et wëllt:
+webext-perms-optional-perms-allow =
+    .label = Erlaben
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = Verbidden
+    .accesskey = D
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

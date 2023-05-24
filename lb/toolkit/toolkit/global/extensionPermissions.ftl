@@ -7,6 +7,8 @@
 ## Permissions for which the message has been changed and the key updated
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
+webext-perms-description-bookmarks = Lieszeechen liesen an änneren
+webext-perms-description-browserSettings = Liesen an ännere vun de Browserastellungen
 webext-perms-description-downloads-open = Erofgeluede Fichieren opmaachen
 webext-perms-description-find = Den Text vun allen oppenen Tabs liesen
 webext-perms-description-notifications = Matdeelunge weisen
