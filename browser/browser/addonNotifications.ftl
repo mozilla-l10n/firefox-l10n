@@ -7,9 +7,12 @@ xpinstall-prompt = { -brand-short-name } evitó que este sitio web te pidiera in
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = ¿Permitir que { $host } instale un complemento?
+xpinstall-prompt-message = Estás intentando instalar un complemento desde { $host }. Asegúrate de que confías en el sitio antes de continuar.
 
 ##
 
+xpinstall-prompt-message-unknown = Estás intentando instalar un complemento desde un sitio desconocido. Asegúrate de que confías en el sitio antes de continuar.
 xpinstall-prompt-dont-allow =
     .label = No permitir
     .accesskey = D
@@ -27,6 +30,11 @@ site-permission-install-first-prompt-midi-message = No se garantiza que este acc
 
 ##
 
+xpinstall-disabled-locked = El administrador del sistema desactivó la instalación de software.
+xpinstall-disabled = La instalación de software está desactivada. Haz clic en Activar y vuelve a intentarlo.
+xpinstall-disabled-button =
+    .label = Activar
+    .accesskey = A
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +60,7 @@ addon-downloading-and-verifying =
         [one] Descargando y verificando complemento…
        *[other] Descargando y verificando { $addonCount } complementos…
     }
+addon-download-verifying = Verificando
 addon-install-cancel-button =
     .label = Cancelar
     .accesskey = C
