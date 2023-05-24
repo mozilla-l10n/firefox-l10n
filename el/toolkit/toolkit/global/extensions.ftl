@@ -33,6 +33,9 @@ webext-perms-update-accept =
 webext-perms-optional-perms-allow =
     .label = Αποδοχή
     .accesskey = Α
+webext-perms-optional-perms-deny =
+    .label = Άρνηση
+    .accesskey = ρ
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

@@ -9,6 +9,9 @@
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Απόρριψη
+    .accesskey = ρ
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 

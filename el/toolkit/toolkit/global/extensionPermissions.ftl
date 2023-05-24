@@ -17,6 +17,7 @@ webext-perms-description-history = Πρόσβαση στο ιστορικό πε
 webext-perms-description-management = Εποπτεία χρήσης επεκτάσεων και διαχείριση θεμάτων
 webext-perms-description-nativeMessaging = Ανταλλαγή μηνυμάτων με προγράμματα εκτός του { -brand-short-name }
 webext-perms-description-notifications = Εμφάνιση ειδοποιήσεων σε εσάς
+webext-perms-description-pkcs11 = Παροχή κρυπτογραφικών υπηρεσιών ταυτοποίησης
 webext-perms-description-privacy = Ανάγνωση και τροποποίηση ρυθμίσεων απορρήτου
 webext-perms-description-sessions = Πρόσβαση στις πρόσφατα κλεισμένες καρτέλες
 webext-perms-description-topSites = Πρόσβαση στο ιστορικό περιήγησης
