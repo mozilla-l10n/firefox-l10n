@@ -59,6 +59,10 @@ webext-perms-update-menu-item = { $addonName } yeni izinler istiyor
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } kaldırılsın mı?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { $name }, { -brand-shorter-name } tarayıcınızdan kaldırılsın mı?
+addon-removal-button = Kaldır
 addon-removal-abuse-report-checkbox = Bu uzantıyı { -vendor-short-name }’ya şikâyet et
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
