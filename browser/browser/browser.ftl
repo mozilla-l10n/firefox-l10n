@@ -995,8 +995,10 @@ firefox-relay-offer-what-relay-does = Vi videresender alle e-poster fra <strong>
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Ubekreftet)
 popup-notification-xpinstall-prompt-learn-more = Les mer om sikker installering av utvidelser
 
 ## Pop-up warning
