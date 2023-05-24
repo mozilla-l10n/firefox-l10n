@@ -15,6 +15,7 @@
 
 ##
 
+xpinstall-disabled-locked = Programvaruinstallationer har inaktiverats av systemadministratören.
 xpinstall-disabled = Programvaruinstallationer är för närvarande inaktiverade. Klicka på Aktivera och försök sedan igen.
 
 ## Add-on removal warning
