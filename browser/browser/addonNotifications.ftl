@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } liedza šai lapai prasīt jums atļauju
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Neatļaut
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -21,9 +24,19 @@ xpinstall-disabled = Programmatūras instalēšana ir deaktivēta. Klikšķiniet
 xpinstall-disabled-button =
     .label = Aktivēt
     .accesskey = n
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } pievienots { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } ir nepieciešamas jaunas tiesības
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Aizvākt { $name } no { -brand-shorter-name }?
+addon-removal-button = Aizvākt
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -36,6 +49,9 @@ addon-download-verifying = Pārbauda
 addon-install-cancel-button =
     .label = Atcelt
     .accesskey = c
+addon-install-accept-button =
+    .label = Pievienot
+    .accesskey = P
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
