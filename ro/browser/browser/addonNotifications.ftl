@@ -7,6 +7,7 @@ xpinstall-prompt = { -brand-short-name } a împiedicat acest site să îți cear
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Permiți lui { $host } să instaleze un supliment?
 xpinstall-prompt-message = Încerci să instalezi un supliment de la { $host }. Asigură-te că ai încredere în acest site înainte de a continua.
 
 ##
@@ -52,9 +53,13 @@ webext-perms-update-menu-item = { $addonName } solicită permisiuni noi
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Elimini { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Elimini { $name } din { -brand-shorter-name }?
 addon-removal-button = Elimină
+addon-removal-abuse-report-checkbox = Raportează această extensie la { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
