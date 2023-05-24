@@ -16,6 +16,9 @@
 ##
 
 xpinstall-disabled = Inštalácia softvéru je momentálne vypnutá. Kliknite na tlačidlo Povoliť a skúste to znova.
+xpinstall-disabled-button =
+    .label = Povoliť
+    .accesskey = v
 
 ## Add-on removal warning
 
