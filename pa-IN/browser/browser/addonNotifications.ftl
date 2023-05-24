@@ -7,12 +7,30 @@ xpinstall-prompt = { -brand-short-name } ਨੇ ਇਸ ਸਾਇਟ ਨੂੰ �
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = { $host } ਨੂੰ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਆਗਿਆ ਦੇਣੀ ਹੈ?
+xpinstall-prompt-message = ਤੁਸੀਂ { $host } ਤੋਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ। ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ‘ਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ।
 
 ##
 
+xpinstall-prompt-header-unknown = ਅਣਪਛਾਤੀ ਸਾਈਟ ਨੂੰ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੇਣ ਲਈ ਸਹਿਮਤ ਹੋ?
+xpinstall-prompt-message-unknown = ਤੁਸੀਂ ਅਣਪਛਾਤੀ ਸਾਈਟ ਤੋਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ। ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ‘ਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ।
 xpinstall-prompt-dont-allow =
     .label = ਮਨਜ਼ੂਰੀ ਨਾ ਦਿਓ
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = ਕਦੇ ਵੀ ਇਜ਼ਾਜ਼ਤ ਨਾ ਦਿਓ
+    .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = ਸ਼ੱਕੀ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
+    .accesskey = R
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = ਇੰਸਟਾਲੇਸ਼ਨ ਜਾਰੀ ਰੱਖੋ
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +42,14 @@ xpinstall-disabled = ਸਾਫਟਵੇਅਰ ਦੀ ਇੰਸਟਾਲੇਸ਼
 xpinstall-disabled-button =
     .label = ਸਮਰੱਥ ਕਰੋ
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ‘ਤੇ ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨੇ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਇਸ ਸਾਈਟ ਤੋਂ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਤੋਂ ਪੁੱਛਣ ਤੇ ਰੋਕ ਲਾਈ ਹੈ।
+addon-install-full-screen-blocked = ਪੂਰੀ ਸਕਰੀਨ ਢੰਗ ‘ਚ ਹੋਣ ਜਾਂ ਜਾਣ ਦੇ ਦੌਰਾਨ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ।
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ਨੂੰ { -brand-short-name } 'ਚ ਜੋੜਿਆ
@@ -33,6 +59,14 @@ webext-perms-update-menu-item = { $addonName } ਨੂੰ ਨਵੀਆਂ ਇਜ�
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = { $name } ਹਟਾਉਣਾ ਹੈ?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { $name } ਨੂੰ { -brand-shorter-name } ਵਿੱਚੋਂ ਹਟਾਉਣਾ ਹੈ?
+addon-removal-button = ਹਟਾਓ
+addon-removal-abuse-report-checkbox = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ { -vendor-short-name } ਨੂੰ ਰਿਪੋਰਟ ਦਿਓ
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -56,6 +90,11 @@ addon-confirm-install-message =
         [one] ਇਹ ਸਾਈਟ { -brand-short-name } ਵਿੱਚ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ:
        *[other] ਇਹ ਸਾਈਟ { -brand-short-name } ਵਿੱਚ { $addonCount } ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ:
     }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] ਸਾਵਧਾਨ: ਇਹ ਸਾਈਟ { -brand-short-name } ਵਿੱਚ ਨਾ-ਜਾਂਚ ਕੀਤੀ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ। ਖ਼ਤਰੇ ਬਾਰੇ ਸਮਝ ਕੇ ਜਾਰੀ ਰੱਖੋ।
+       *[other] ਸਾਵਧਾਨ: ਇਹ ਸਾਈਟ { -brand-short-name } ਵਿੱਚ ਨਾ-ਜਾਂਚ ਕੀਤੀਆਂ { $addonCount } ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ। ਖ਼ਤਰੇ ਬਾਰੇ ਸਮਝ ਕੇ ਜਾਰੀ ਰੱਖੋ।
+    }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message = ਸਾਵਧਾਨ: ਇਹ ਸਾਈਟ { -brand-short-name } ਵਿੱਚ { $addonCount } ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ, ਜਿਹਨਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨਾ-ਜਾਂਚ ਕੀਤੇ ਹਨ। ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਧਿਆਨ ਰੱਖੋ।
@@ -69,6 +108,7 @@ addon-install-error-incorrect-hash = ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ 
 addon-install-error-corrupt-file = ਇਸ ਸਾਈਟ ਤੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ ਇਹ ਨਿਕਾਰਾ ਜਾਪਦੀ ਹੈ।
 addon-install-error-file-access = { $addonName } ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ { -brand-short-name } ਲੋੜੀਂਦੀ ਫਾਈਲ ਨੂੰ ਸੋਧ ਨਹੀਂ ਸਕਦਾ ਹੈ।
 addon-install-error-not-signed = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨਾ-ਤਸਦੀਕ ਹੋਈ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਹੋਣ ਤੋਂ ਰੋਕ ਦਿੱਤੀ ਹੈ।
+addon-install-error-invalid-domain = { $addonName } ਐਡ-ਆਨ ਨੂੰ ਇਸ ਟਿਕਾਣੇ ਲਈ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 addon-local-install-error-network-failure = ਇਸ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ ਫਾਈਲ-ਸਿਸਟਮ ਦੀ ਗਲਤੀ ਹੈ।
 addon-local-install-error-incorrect-hash = ਇਸ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ ਇਹ ਉਮੀਦ ਕੀਤੀ { -brand-short-name } ਐਡ-ਆਨ ਨਾਲ ਮਿਲਦੀ ਨਹੀਂ ਹੈ।
 addon-local-install-error-corrupt-file = ਇਸ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ ਇਹ ਨਿਕਾਰਾ ਜਾਪਦੀ ਹੈ।
