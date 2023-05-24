@@ -14,6 +14,9 @@ xpinstall-prompt-header-unknown = Разрешить неизвестному с
 xpinstall-prompt-dont-allow =
     .label = Не разрешать
     .accesskey = е
+xpinstall-prompt-never-allow =
+    .label = Никогда не разрешать
+    .accesskey = и
 # Long text in this context make the dropdown menu extend awkwardly to the left,
 # avoid a localization that's significantly longer than the English version.
 xpinstall-prompt-never-allow-and-report =
