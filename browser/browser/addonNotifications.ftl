@@ -51,6 +51,7 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) is geblokkeerd door uw systeembeheerder.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Uw systeembeheerder heeft voorkomen dat deze website u vraagt software op uw computer te installeren.
+addon-install-full-screen-blocked = Add-on-installatie is niet toegestaan in of voor het openen van de modus volledig scherm.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } is aan { -brand-short-name } toegevoegd
