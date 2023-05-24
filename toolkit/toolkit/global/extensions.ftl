@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Engadir { $extension }?
+webext-perms-header-with-perms = Engadir { $extension }? Esta extensión terá permiso para:
+webext-perms-header-unsigned = Engadir { $extension }? Esta extensión está sen comprobar. As extensións maliciosas poden roubar a súa información privada ou comprometer o seu computador. Instálea só se confía na fonte.
+webext-perms-header-unsigned-with-perms = Engadir { $extension }? Esta extensión está sen comprobar. As extensións maliciosas poden roubar a súa información privada ou comprometer o seu computador. Instálea só se confía na fonte. Esta extensión terá permiso para:
 webext-perms-sideload-header = Engadiuse { $extension }
 webext-perms-optional-perms-header = { $extension } solicita permisos adicionais.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancelar
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = Actualizouse { $extension }. Debe aprobar permisos novos antes de que se instale a versión actualizada. Se escolle «Cancelar» manterase a versión actual da extensión. Esta extensión terá permiso para:
 webext-perms-optional-perms-list-intro = Quere:
 webext-perms-optional-perms-allow =
     .label = Permitir
