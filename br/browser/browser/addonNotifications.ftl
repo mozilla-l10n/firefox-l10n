@@ -42,6 +42,7 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Stanket eo { $addonName } ({ $addonId }) gant hoc'h ardoer reizhiad.{ " " }
+addon-install-full-screen-blocked = N’eo ket aotreet staliañ askouezhioù p’emaoc'h er mod skramm a-bezh pe a-raok mont e-barzh.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ouzhpennet da { -brand-short-name }

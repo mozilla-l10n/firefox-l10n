@@ -24,6 +24,7 @@ webext-perms-description-notifications = Skrammañ rebuzadurioù evidoc'h
 webext-perms-description-pkcs11 = Kinnig gwazerezhioù dilesa enrineget
 webext-perms-description-privacy = Lenn ha kemmañ arventennoù ar vuhez prevez
 webext-perms-description-proxy = Reoliañ arventennoù proksi ar merdeer
+webext-perms-description-sessions = Haeziñ ivinelloù serret nevez ’zo
 webext-perms-description-tabs = Haeziñ ivinelloù ar merdeer
 webext-perms-description-tabHide = Diskouez ha kuzhat ivinelloù ar merdeer
 webext-perms-description-topSites = Lenn ar roll istor merdeiñ
