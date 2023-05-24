@@ -28,6 +28,12 @@ webext-perms-update-accept =
     .label = Atualizar
     .accesskey = u
 webext-perms-optional-perms-list-intro = Ele quer:
+webext-perms-optional-perms-allow =
+    .label = Permitir
+    .accesskey = P
+webext-perms-optional-perms-deny =
+    .label = Negar
+    .accesskey = N
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
