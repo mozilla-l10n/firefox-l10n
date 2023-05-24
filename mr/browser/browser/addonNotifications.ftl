@@ -7,12 +7,22 @@ xpinstall-prompt = { -brand-short-name } ने ह्या स्थळास 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = { $host } ला अ‍ॅड-ऑन स्थापित करण्याची अनुमती द्यायची?
 
 ##
 
 xpinstall-prompt-dont-allow =
     .label = परवानगी देऊ नका
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = कधीही परवानगी देऊ नका
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = प्रस्थापनेकडे चला
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +34,11 @@ xpinstall-disabled = सॉफ्टवेअर प्रतिष्ठाप�
 xpinstall-disabled-button =
     .label = कार्यान्वीत करा
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = प्रणाली प्रशासकाद्वारे { $addonName } ({ $addonId }) अवरोधित केले आहे.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name } मध्ये { $addonName } जोडले आहे
@@ -33,6 +48,9 @@ webext-perms-update-menu-item = { $addonName } नवीन परवानग�
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name } मधून { $name } काढायचे?
 addon-removal-button = काढून टाका
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
