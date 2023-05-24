@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } দ্বারা এই সাইট�
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = অনুমতি দেওয়া হবে না
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -21,6 +24,12 @@ xpinstall-disabled = সফ্টওয়্যার ইনস্টলেশন 
 xpinstall-disabled-button =
     .label = সক্রিয় করুন
     .accesskey = n
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } এ যোগ করা হয়েছে
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } এর নতুন অনুমতির প্রয়োজন
 
 ## Add-on removal warning
 
@@ -35,6 +44,9 @@ addon-download-verifying = যাচাই করা হচ্ছে
 addon-install-cancel-button =
     .label = বাতিল
     .accesskey = C
+addon-install-accept-button =
+    .label = যোগ করুন
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
