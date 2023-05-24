@@ -9,12 +9,18 @@
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Ruxsat berilmasin
+    .accesskey = R
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 
 ##
 
+xpinstall-disabled-button =
+    .label = Yoqish
+    .accesskey = n
 
 ## Add-on removal warning
 
