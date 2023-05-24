@@ -33,6 +33,7 @@ webext-perms-update-menu-item = { $addonName } þarfnast nýrra heimilda
 
 ## Add-on removal warning
 
+addon-removal-button = Fjarlægja
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
