@@ -40,6 +40,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Մերժել
     .accesskey = D
+webext-perms-host-description-all-urls = Մուտք գործեք Ձեր տուեալները բոլոր կայքերի համար
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Մատչել Ձեր տուեալներին { $domain } տիրոյթի կայքերի համար
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Մուտք գործեք Ձեր տուեալները { $domain }-ում
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

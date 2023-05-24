@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = { -brand-short-name }֊ը կանխեց այս կայքը `խնդրելով Ձեզ համակարգչից տեղադրել ծրագրակազմ:
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -77,6 +78,14 @@ addon-confirm-install-message =
         [one] Այս կայքը ցանկանում է հաւելում տեղադրել { -brand-short-name }-ում.
        *[other] Այս կայքը ցանկանում է { $addonCount } հաւելում տեղադրել { -brand-short-name }-ում.
     }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] Զգուշացում. Այս կայքը ցանկանում է տեղադրել չստուգուած հաւելում { -brand-short-name }-ում։ Վարուեք ըստ սեփական հայեցողութեան:
+       *[other] Ուշադրութիւն. Այս կայքը ցանկանում է տեղադրել { $addonCount } չստուգուած հաւելումներ { -brand-short-name }-ում։ Վարուեք ըստ սեփական հայեցողութեան։
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message = Զգուշացում. Այս կայքը ցանկանում է տեղադրել { $addonCount } հաւելումներ { -brand-short-name }-ում, որոնց մի մասը ստուգուած չէ։ Վարուէք ըստ սեփական հայեցողութեան։
 
 ## Add-on install errors
 ## Variables:
@@ -89,3 +98,9 @@ addon-install-error-file-access = { $addonName }-ը հնարաւոր չէ տեղ
 addon-install-error-not-signed = { -brand-short-name }-ը կանխուել է այս կայքից չստուգուած հաւելումների տեղադրումը։
 addon-local-install-error-incorrect-hash = Այս հաւելումը չի կարող տեղադրուել, որովհետեւ այն չի համապատասխանում ակնկալուող { -brand-short-name } հաւելմանը։
 addon-local-install-error-corrupt-file = Այս հաւելումը չի կարող տեղադրուել, քանի որ այն վնասուած է։
+addon-local-install-error-file-access = { $addonName }-ը հնարաւոր չէ ներբեռնել, որովհետեւ { -brand-short-name }-ը չի կարող ձեւափոխել անհրաժեշտ նիշքը։
+addon-local-install-error-not-signed = Այս հաւելումը հնարաւոր չէ տեղադրել, որովհետեւ այն ստուգուած չէ։
+# Variables:
+#   $appVersion (String): the application version.
+addon-install-error-incompatible = { $addonName }-ը հնարաւոր չէ տեղադրել, որովհետեւ համատեղելի չէ { -brand-short-name } { $appVersion }-ի հետ։
+addon-install-error-blocklisted = { $addonName }-ը հնարաւոր չէ տեղադրել, որովհետեւ այն պարունակում է անվտանգութեան խնդիրներ։
