@@ -12,9 +12,14 @@ xpinstall-prompt-message = Anda akan memasang pengaya dari { $host }. Pastikan A
 
 ##
 
+xpinstall-prompt-header-unknown = Izinkan situs yang tidak dikenal memasang pengaya?
+xpinstall-prompt-message-unknown = Anda akan memasang pengaya dari situs yang tidak dikenal. Pastikan Anda mempercayai situs ini sebelum melanjutkan.
 xpinstall-prompt-dont-allow =
     .label = Jangan Izinkan
     .accesskey = J
+xpinstall-prompt-never-allow =
+    .label = Jangan Pernah Izinkan
+    .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -26,6 +31,11 @@ xpinstall-disabled = Pemasangan perangkat lunak sedang dinonaktifkan. Klik Aktif
 xpinstall-disabled-button =
     .label = Aktifkan
     .accesskey = f
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) diblokir oleh administrator sistem Anda.
 addon-install-full-screen-blocked = Instalasi pengaya tidak diizinkan saat sebelum memasuki atau berada dalam mode layar penuh.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
