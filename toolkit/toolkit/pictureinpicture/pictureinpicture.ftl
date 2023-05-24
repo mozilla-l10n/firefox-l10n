@@ -57,7 +57,7 @@ pictureinpicture-exit-fullscreen-btn =
     .tooltip = Kilépés a teljes képernyős módból (dupla kattintás)
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
 pictureinpicture-toggle-fullscreen-shortcut =
-    .key = T
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Vissza
     .tooltip = Vissza (←)
