@@ -12,6 +12,7 @@
 
 webext-perms-header = Tambahkan { $extension }?
 webext-perms-sideload-header = { $extension } ditambahkan
+webext-perms-optional-perms-header = { $extension } meminta izin tambahan.
 
 ##
 
@@ -31,6 +32,12 @@ webext-perms-update-accept =
     .label = Perbarui
     .accesskey = P
 webext-perms-optional-perms-list-intro = Pengaya ingin:
+webext-perms-optional-perms-allow =
+    .label = Izinkan
+    .accesskey = I
+webext-perms-optional-perms-deny =
+    .label = Tolak
+    .accesskey = T
 webext-perms-host-description-all-urls = Mengakses data Anda pada semua situs
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)

@@ -7,3 +7,9 @@
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
 webext-default-search-description = { $addonName } ingin mengubah mesin pencari baku Anda dari { $currentEngine } ke { $newEngine }. Oke?
+webext-default-search-yes =
+    .label = Ya
+    .accesskey = Y
+webext-default-search-no =
+    .label = Tidak
+    .accesskey = T
