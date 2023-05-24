@@ -34,6 +34,12 @@ webext-perms-update-accept =
     .label = Yenilə
     .accesskey = U
 webext-perms-optional-perms-list-intro = Etmək istədikləri:
+webext-perms-optional-perms-allow =
+    .label = İcazə ver
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = Rədd et
+    .accesskey = D
 webext-perms-host-description-all-urls = Bütün saytlar üçün olan məlumatlarınıza baxmaq
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)

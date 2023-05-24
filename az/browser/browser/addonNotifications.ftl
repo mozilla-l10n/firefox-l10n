@@ -48,6 +48,9 @@ addon-download-verifying = Təsdiqlənir
 addon-install-cancel-button =
     .label = ləğv et
     .accesskey = l
+addon-install-accept-button =
+    .label = Əlavə et
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
