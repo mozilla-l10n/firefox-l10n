@@ -557,8 +557,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (न तपासलेले)
 popup-notification-xpinstall-prompt-learn-more = अ‍ॅड-ऑन सुरक्षितपणे स्थापित करण्याबद्दल अधिक जाणून घ्या
 
 ## Pop-up warning
