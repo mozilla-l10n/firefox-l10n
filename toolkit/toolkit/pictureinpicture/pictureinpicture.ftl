@@ -57,7 +57,7 @@ pictureinpicture-exit-fullscreen-btn =
     .tooltip = Изађи из целог екрана (дупли клик)
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
 pictureinpicture-toggle-fullscreen-shortcut =
-    .key = Ц
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Уназад
     .tooltip = Уназад (←)
