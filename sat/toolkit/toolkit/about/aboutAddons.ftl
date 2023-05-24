@@ -378,6 +378,9 @@ addon-badge-recommended2 =
 addon-badge-line3 =
     .title = Mozilla ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱚᱫᱷᱤᱠᱟᱨᱤᱠ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣᱟᱭ
     .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱟᱣ ᱮᱫᱟᱭ
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -394,9 +397,14 @@ recommended-themes-heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱛᱷᱤᱢᱠᱚ
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> ᱞᱟᱹᱜᱤᱫ ᱞᱟᱛᱟᱨ ᱨᱮ ᱚᱞ ᱟᱠᱟᱱ ᱦᱚᱠ ᱠᱚ ᱮᱢᱟᱭᱟᱭ:
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = ᱩᱱᱩᱭᱦᱟᱹᱨ ᱢᱮᱱᱟᱜ ᱛᱟᱢᱟᱸ ? <a data-l10n-name="link">Firefox Color ᱛᱮ ᱟᱢᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱛᱷᱤᱢ ᱛᱮᱭᱟᱨ ᱢᱮ ᱾</a>
 
 ## Page headings
 
+extension-heading = ᱟᱢᱟᱜ ᱮᱠᱥᱴᱮᱱᱥᱮᱱ ᱢᱮᱱᱮᱡᱽ ᱛᱟᱢ
+theme-heading = ᱟᱢᱟᱜ ᱛᱷᱤᱢᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱛᱟᱢ
 addon-page-options-button =
     .title = ᱡᱚᱛᱚ ᱮᱰ-ᱟᱹᱱᱥ ᱞᱟᱹᱜᱤᱫ ᱴᱩᱞᱥ ᱠᱚ
 
