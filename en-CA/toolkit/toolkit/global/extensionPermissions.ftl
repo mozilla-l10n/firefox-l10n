@@ -13,6 +13,7 @@ webext-perms-description-browsingData = Clear recent browsing history, cookies, 
 webext-perms-description-clipboardRead = Get data from the clipboard
 webext-perms-description-clipboardWrite = Input data to the clipboard
 webext-perms-description-declarativeNetRequest = Block content on any page
+webext-perms-description-declarativeNetRequestFeedback = Read your browsing history
 webext-perms-description-devtools = Extend developer tools to access your data in open tabs
 webext-perms-description-downloads = Download files and read and modify the browser’s download history
 webext-perms-description-downloads-open = Open files downloaded to your computer
