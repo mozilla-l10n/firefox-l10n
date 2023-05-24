@@ -9,9 +9,11 @@
 
 webext-perms-description-bookmarks = Ɣer sakin beddel ticraḍ n yisebtar
 webext-perms-description-browserSettings = Γer sakin beddel iɣewwaren n yiminig
+webext-perms-description-browsingData = Sfeḍ azray aneggaru n tunigin, inagan n tuqqna, akked yisefka icudden ɣur-s
 webext-perms-description-clipboardRead = Awi-d isefka seg ɣef ufus
 webext-perms-description-clipboardWrite = Sekcem isefka ɣer 'Ɣef ufus'
 webext-perms-description-devtools = Siɣzef ifecka n uneflay akken ad tkecmeḍ ɣer yisefka-inek deg waccaren yeldin
+webext-perms-description-downloads = Sader-d ifuyla, ɣer sakin beddel azray n yisadaren deg yiminig
 webext-perms-description-downloads-open = Ldi ifuyla ittwasidren deg uselkim-inek
 webext-perms-description-find = Γer aḍris n waccaren akk yeldin
 webext-perms-description-geolocation = Kcem ɣer wadeg-inek

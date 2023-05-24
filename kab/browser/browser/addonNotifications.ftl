@@ -8,12 +8,24 @@ xpinstall-prompt = { -brand-short-name } ur yeǧǧi ara asmel-a ad isebded aseɣ
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Sireg { $host } ad isebded azegrir?
+xpinstall-prompt-message = Ad tettaɛraḍeḍ ad tesbeddeḍ azegrir seg { $host }. Ḍmen d akken d asmel yettwamanen uqbel ad tkemmleḍ.
 
 ##
 
+xpinstall-prompt-header-unknown = Sireg asmel arussin ad yesbedd azegrir?
+xpinstall-prompt-message-unknown = Ad tettaɛraḍeḍ ad tesbeddeḍ azegrir seg %S seg usmel arussin. Ḍmen d akken d asmel yettwamanen uqbel ad tkemmleḍ.
 xpinstall-prompt-dont-allow =
     .label = Ur ttaǧǧa ara
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Werǧin ad tsirgeḍ
+    .accesskey = A
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Kemmel asebded
+    .accesskey = S
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -25,6 +37,12 @@ xpinstall-disabled = Asebded n yiseɣẓanen yewḥel. Sit ɣef Rmed sakin ɛre�
 xpinstall-disabled-button =
     .label = Rmed
     .accesskey = r
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) yesweḥl-it unedbal-ik n unagraw.
+addon-install-full-screen-blocked = Asebeddi n yizegrar ur yettwasireg ara deg uskar n ugdil aččuṛan neɣ uqbel anekcum ɣur-s.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ittwarna ɣer { -brand-short-name }
@@ -53,6 +71,11 @@ addon-confirm-install-message =
     { $addonCount ->
         [one] Asmel-a yebɣa ad isebded azegrir ɣef { -brand-short-name }:
        *[other] asmel-a yebɣa ad isebded { $addonCount } n yizegrar ɣef { -brand-short-name }:
+    }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] Ɣur-k: Asmel-a yebɣa ad isebded azegrir ur nettusenqed ara deg { -brand-short-name }. Ḍebber aqerru-k.
+       *[other] Ɣuṛ-k: Asmel-a yebɣa ad isebded izegrar ur nettusenqed ara deg { $addonCount } deg { -brand-short-name }. Ḍebber aqerru-k.
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
