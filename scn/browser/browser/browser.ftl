@@ -493,8 +493,10 @@ refresh-blocked-allow =
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (nun virificata)
 popup-notification-xpinstall-prompt-learn-more = Cchiù nfurmazziuna supra u nzitamentu sicuru di l'agghiuncitini
 
 ## Pop-up warning
