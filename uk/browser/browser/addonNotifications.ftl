@@ -7,12 +7,25 @@ xpinstall-prompt = { -brand-short-name } заблокував запит на в
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Дозволити { $host } встановити додаток?
+xpinstall-prompt-message = Ви збираєтеся встановити додаток з { $host }. Перш ніж продовжити, переконайтеся, що ви довіряєте цьому сайту.
 
 ##
 
+xpinstall-prompt-header-unknown = Дозволити невідомому сайту встановити додаток?
+xpinstall-prompt-message-unknown = Ви збираєтеся встановити додаток з невідомого сайту. Перш ніж продовжити, переконайтеся, що ви довіряєте цьому сайту.
 xpinstall-prompt-dont-allow =
     .label = Не дозволяти
     .accesskey = Н
+xpinstall-prompt-never-allow =
+    .label = Ніколи не дозволяти
+    .accesskey = Н
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Продовжити встановлення
+    .accesskey = ж
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -26,8 +39,14 @@ xpinstall-disabled = Зараз встановлення програмного 
 xpinstall-disabled-button =
     .label = Увімкнути
     .accesskey = У
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) заблоковано вашим системним адміністратором.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ваш системний адміністратор заблокував запит на встановлення програмного забезпечення з цього сайту на ваш комп'ютер.
+addon-install-full-screen-blocked = Встановлення додатків не дозволено під час або перед початком повноекранного режиму.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } додано до { -brand-short-name }
@@ -40,7 +59,18 @@ webext-perms-update-menu-item = { $addonName } вимагає нових доз�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Вилучити { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Вилучити { $name } з { -brand-shorter-name }?
 addon-removal-abuse-report-checkbox = Поскаржитись на це розширення до { -vendor-short-name }
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] Завантаження і перевірка { $addonCount } додатка…
+        [few] Завантаження і перевірка { $addonCount } додатків…
+       *[many] Завантаження і перевірка { $addonCount } додатків…
+    }
 addon-download-verifying = Перевірка
 addon-install-cancel-button =
     .label = Скасувати
@@ -80,10 +110,12 @@ addon-confirm-install-some-unsigned-message =
 addon-install-error-network-failure = Додаток не може бути завантажений через збій з'єднання.
 addon-install-error-incorrect-hash = Додаток не може бути встановлений, тому що він не відповідає додатку, очікуваному { -brand-short-name }.
 addon-install-error-corrupt-file = Додаток, завантажений з цього сайту, не не може бути встановлений, тому що він виглядає пошкодженим.
+addon-install-error-file-access = { $addonName } не вдалося встановити, тому що { -brand-short-name } не може змінити необхідний файл.
 addon-install-error-not-signed = { -brand-short-name } заблокував встановлення неперевіреного додатка з цього сайту.
 addon-local-install-error-network-failure = Цей додаток не вдалося встановити через помилку файлової системи.
 addon-local-install-error-incorrect-hash = Цей додаток не вдалося встановити, тому що він не відповідає додатку, очікуваному { -brand-short-name }.
 addon-local-install-error-corrupt-file = Цей додаток не вдалося встановити, тому що він виглядає пошкодженим.
+addon-local-install-error-file-access = { $addonName } не вдалося встановити, тому що { -brand-short-name } не може змінити необхідний файл.
 addon-local-install-error-not-signed = Цей додаток не може бути встановлений, тому що він не був перевірений.
 # Variables:
 #   $appVersion (String): the application version.
