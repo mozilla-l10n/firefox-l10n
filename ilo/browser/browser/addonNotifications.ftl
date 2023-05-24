@@ -15,6 +15,8 @@
 
 ##
 
+xpinstall-disabled-locked = Iniddep ti mangimaton iti sistema ti panagisimpa ti software.
+xpinstall-disabled = Nakaiddep met ti panagisimpa ti software. Aglagitikkayo iti Pagbalinen sayo padasen manen.
 
 ## Add-on removal warning
 
