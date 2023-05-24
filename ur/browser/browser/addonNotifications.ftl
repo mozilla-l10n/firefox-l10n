@@ -40,6 +40,10 @@ webext-perms-update-menu-item = { $addonName } کو نئی اجازتوں کی �
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } کو حذف کریں؟
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name } سے { $name } ہٹائیں
+addon-removal-button = ہٹائیں
 addon-removal-abuse-report-checkbox = اس توسیع کی اطلاع{ -vendor-short-name } کو دیں
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -49,6 +53,9 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } ایڈ اون ڈاؤن لوڈ اور تصدیق کر رہا ہے…
     }
 addon-download-verifying = توثیق کر رہا ہے
+addon-install-cancel-button =
+    .label = منسوخ کریں
+    .accesskey = C
 addon-install-accept-button =
     .label = اضافہ کریں
     .accesskey = A

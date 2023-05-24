@@ -7,6 +7,7 @@
 ## Permissions for which the message has been changed and the key updated
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
+webext-perms-description-bookmarks = بک مارک پڑھیں اور ترمیم کریں
 webext-perms-description-clipboardRead = کلپ بورڈ سے کوائف حاصل کرے
 webext-perms-description-clipboardWrite = کلپ بورڈ میں کوائف ڈالیں
 webext-perms-description-downloads-open = اپنے کمپیوٹر پر ڈاؤن لوڈ شدہ فائلوں کو کھولیں
