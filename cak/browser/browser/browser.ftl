@@ -998,8 +998,10 @@ firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónic
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Man jikib'an ta)
 popup-notification-xpinstall-prompt-learn-more = Tetamäx ch'aqa' chik chi rij ri ütz rub'eyal ye'ayäk taq tz'aqat
 
 ## Pop-up warning
