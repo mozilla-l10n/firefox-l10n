@@ -18,6 +18,7 @@
 xpinstall-disabled-button =
     .label = Activer
     .accesskey = v
+addon-install-full-screen-blocked = L’installation de modules complémentaires n’est pas autorisée pendant ou avant le passage en mode plein écran.
 
 ## Add-on removal warning
 
