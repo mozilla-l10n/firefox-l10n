@@ -122,7 +122,7 @@ options-enable-service-workers-http-label = 啟用 Service Workers over HTTP（�
 options-enable-service-workers-http-tooltip =
     .title = 開啟此選項後，將會允許在開啟工具箱的所有分頁中透過 HTTP 使用 service workers。
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = 開啟原始碼對應
+options-source-maps-label = 開啟原始碼對應表
 options-source-maps-tooltip =
     .title = 若您開啟此選項，將會在開發者工具中進行原始碼對應。
 # The message shown for settings that trigger page reload
