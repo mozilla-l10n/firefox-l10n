@@ -998,8 +998,10 @@ firefox-relay-offer-what-relay-does = Iremos reencaminhar todos os e-mails de <s
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Não verificado)
 popup-notification-xpinstall-prompt-learn-more = Saber mais acerca de instalar extras com segurança
 
 ## Pop-up warning
