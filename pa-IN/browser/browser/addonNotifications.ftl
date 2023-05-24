@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } ਨੇ ਇਸ ਸਾਇਟ ਨੂੰ �
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = ਮਨਜ਼ੂਰੀ ਨਾ ਦਿਓ
+    .accesskey = D
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +27,9 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ਨੂੰ { -brand-short-name } 'ਚ ਜੋੜਿਆ
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } ਨੂੰ ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੈ
 
 ## Add-on removal warning
 
@@ -38,6 +44,9 @@ addon-download-verifying = ਜਾਂਚ ਜਾਰੀ ਹੈ
 addon-install-cancel-button =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+addon-install-accept-button =
+    .label = ਜੋੜੋ
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
