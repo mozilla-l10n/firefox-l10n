@@ -7,9 +7,12 @@ xpinstall-prompt = { -brand-short-name } দ্বারা এই সাইট�
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = { $host } কে অ্যাড-অন ইনস্টল করার অনুমতি দেবেন?
+xpinstall-prompt-message = আপনি { $host } থেকে অ্যাড-অন ইনস্টল করার চেষ্টা করছেন। নিশ্চিত হোন সাইটটি আপনার আস্থাভাজন।
 
 ##
 
+xpinstall-prompt-message-unknown = আপনি অজানা সাইট থেকে একটি অ্যাড-অন ইনস্টল করার চেষ্টা করছেন। চালিয়ে যাওয়ার আগে নিশ্চিত করুন যে আপনি এই সাইটে আস্থা রেখেছেন।
 xpinstall-prompt-dont-allow =
     .label = অনুমোদন করো না
     .accesskey = D
@@ -24,6 +27,12 @@ xpinstall-disabled = সফটওয়্যার ইনস্টলেশন ব
 xpinstall-disabled-button =
     .label = সক্রিয়
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) আপনার সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা ব্লক হয়েছে।
+addon-install-full-screen-blocked = পূর্ণস্ক্রিন মোডে বা পূর্ণস্ক্রিন মোডে থাকতে বা প্রবেশের আগে অ্যাড-অন ইনস্টলেশন অনুমোদিত নয়।
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name } এর সাথে { $addonName } যোগ হয়েছে
@@ -33,6 +42,10 @@ webext-perms-update-menu-item = { $addonName } এর নতুন অনুম�
 
 ## Add-on removal warning
 
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name } হতে { $name } অপসারণ করবেন?
+addon-removal-button = অপসারণ
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
