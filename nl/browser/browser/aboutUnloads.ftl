@@ -15,18 +15,15 @@ about-unloads-intro =
     { -brand-short-name } prioriteit geeft aan tabbladen en welk tabblad wordt gelost
     wanneer het lossen van tabbladen wordt geactiveerd. U kunt handmatig het lossen van tabbladen
     activeren door hieronder op de knop <em>Lossen</em> te klikken.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Zie <a data-l10n-name="doc-link">Tabbladen lossen</a> voor meer info over
     de functie en deze pagina.
-
-about-unloads-last-updated = Laatst bijgewerkt: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-updated = Last updated: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Lossen
     .title = Tabblad met de hoogste prioriteit lossen
 about-unloads-no-unloadable-tab = Er zijn geen te lossen tabbladen.
-
 about-unloads-column-priority = Prioriteit
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Laatst benaderd
@@ -38,8 +35,7 @@ about-unloads-column-memory = Geheugen
     .title = Het geschatte geheugengebruik van het tabblad
 about-unloads-column-processes = Proces-ID’s
     .title = ID’s van de processen die de inhoud van het tabblad hosten
-
-about-unloads-last-accessed = { DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
     .title = { NUMBER($mem, maxFractionalUnits: 2) } MB
