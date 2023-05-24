@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = { $extension } қосу керек пе?
+webext-perms-header-with-perms = { $extension } қосу керек пе? Бұл кеңейтудің келесі рұқсаттары болады:
+webext-perms-header-unsigned = { $extension } қосу керек пе? Бұл кеңейту расталмаған. Зиянкес кеңейтулер сіздің жеке деректеріңізді ұрлай алады. Бұны тек шыққан көзіне сенсеңіз, орнатуға болады.
+webext-perms-header-unsigned-with-perms = { $extension } қосу керек пе? Бұл кеңейту расталмаған. Зиянкес кеңейтулер сіздің жеке деректеріңізді ұрлай алады. Бұны тек шыққан көзіне сенсеңіз, орнатуға болады. Бұл кеңейтудің келесі рұқсаттары болады:
 webext-perms-sideload-header = { $extension } қосылды
 webext-perms-optional-perms-header = { $extension } қосымша рұқсаттарды сұрайды.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Бас тарту
     .accesskey = с
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } жаңартылды. Жаңартылған нұсқасы орнатылу алдында жаңа рұқсаттарды сізге растау керек. "Бас тарту" таңдасаңыз, кеңейтудің ағымдағы нұсқасы қалатын болады. Бұл кеңейтудің келесі рұқсаттары болады:
 webext-perms-update-accept =
     .label = Жаңарту
     .accesskey = Ж
@@ -71,6 +77,8 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Бұл қосымша { $hostname } үшін MIDI құрылғыларыңызға қатынауға рұқсат береді.
+webext-site-perms-header-with-gated-perms-midi-sysex = Бұл қосымша { $hostname } үшін MIDI құрылғыларыңызға (SysEx қолдауымен) қатынауға рұқсат береді.
 
 ##
 
@@ -81,6 +89,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = { $extension } қосу керек пе? Бұл кеңейту { $hostname } үшін келесі мүмкіндіктерді береді:
+webext-site-perms-header-unsigned-with-perms = { $extension } қосу керек пе? Бұл кеңейту расталмаған. Зиянкес кеңейтулер сіздің жеке деректеріңізді ұрлай алады. Бұны тек шыққан көзіне сенсеңіз, орнатуға болады. Бұл кеңейту { $hostname } үшін келесі мүмкіндіктерді береді:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = MIDI құрылғыларына қатынау
+webext-site-perms-midi-sysex = SysEx қолдауы бар MIDI құрылғыларына қатынау
