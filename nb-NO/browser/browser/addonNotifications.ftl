@@ -18,6 +18,12 @@ xpinstall-prompt = { -brand-short-name } forhindret dette nettstedet fra å spø
 
 xpinstall-disabled-locked = Programvareinstallasjon er avslått av systemansvarlig.
 xpinstall-disabled = Programvareinstallasjon er avslått akkurat nå. Trykk på «Tillat» for å slå det på, og prøv igjen.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } lagt til i { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } krever nye tillatelser
 
 ## Add-on removal warning
 
@@ -29,6 +35,9 @@ addon-downloading-and-verifying =
        *[other] Laster ned og kontrollerer { $addonCount } utvidelser …
     }
 addon-download-verifying = Kontrollerer
+addon-install-cancel-button =
+    .label = Avbryt
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
