@@ -25,6 +25,8 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Cancelar
     .accesskey = C
+webext-perms-sideload-text = Outro programa no seu computador instalou um extra que pode afetar o seu navegador. Por favor reveja os pedidos de permissões deste extra e escolha Ativar ou Cancelar (para deixá-lo desativado).
+webext-perms-sideload-text-no-perms = Outro programa no seu computador instalou um extra que pode afetar o seu navegador. Por favor escolha Ativar ou Cancelar (para deixá-lo desativado).
 webext-perms-sideload-enable =
     .label = Ativar
     .accesskey = A
@@ -41,6 +43,9 @@ webext-perms-optional-perms-list-intro = Quer:
 webext-perms-optional-perms-allow =
     .label = Permitir
     .accesskey = P
+webext-perms-optional-perms-deny =
+    .label = Negar
+    .accesskey = N
 webext-perms-host-description-all-urls = Aceder aos seus dados em todos os sites
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
