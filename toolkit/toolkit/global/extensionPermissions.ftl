@@ -19,6 +19,7 @@ webext-perms-description-downloads = Descargar archivos y leer o modificar el hi
 webext-perms-description-downloads-open = Abrir archivos descargados en la computadora
 webext-perms-description-find = Leer el texto de todas las pestañas abiertas
 webext-perms-description-geolocation = Acceder a su ubicación
+webext-perms-description-history = Acceder al historial de navegación
 webext-perms-description-management = Monitorear uso de extensiones y administrar temas
 webext-perms-description-nativeMessaging = Intercambiar mensajes con programas que no sean { -brand-short-name }
 webext-perms-description-notifications = Mostrar notificaciones
