@@ -20,6 +20,7 @@ xpinstall-disabled = Usakinishaji wa programu kwa sasa umelemazwa. Bofya Wezesha
 
 ## Add-on removal warning
 
+addon-download-verifying = Kudhibitisha
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -29,3 +30,5 @@ xpinstall-disabled = Usakinishaji wa programu kwa sasa umelemazwa. Bofya Wezesha
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-network-failure = Kifaa cha nyongeza hiki hakingesakinishwa kwa sababu ya kosa la mfumo wa faili.
+addon-local-install-error-corrupt-file = Kifaa hiki cha nyongeza hakingesakinishwa kwa sababu kinaonekana kuwa kimevurugwa.
