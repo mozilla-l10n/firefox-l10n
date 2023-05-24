@@ -33,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Prekliči
     .accesskey = P
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = Razširitev { $extension } je bila posodobljena. Pred namestitvijo posodobljene različice morate odobriti nova dovoljenja. Če izberete “Prekliči”, bo ohranjena trenutna različica. Ta razširitev bo imela dovoljenje za:
 webext-perms-update-accept =
     .label = Posodobi
     .accesskey = P
