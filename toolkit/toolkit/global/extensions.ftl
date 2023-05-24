@@ -27,6 +27,9 @@ webext-perms-sideload-text-no-perms = Un atro programma into computer o l'à ins
 webext-perms-sideload-enable =
     .label = Abilita
     .accesskey = A
+webext-perms-sideload-cancel =
+    .label = Anulla
+    .accesskey = A
 webext-perms-update-accept =
     .label = Agiorna
     .accesskey = A
@@ -37,6 +40,29 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = No permette
     .accesskey = N
+webext-perms-host-description-all-urls = Accesso a-i teu dæti pe tutti i sciti
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Accesso a-i teu dæti pe-o dòminio { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Accesso a-i teu dæti into atro { $domainCount } dòminio
+       *[other] Acedi a-i teu dæti inti atri { $domainCount } dòmini
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Accesso a-i teu dæti pe { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Accesso a-i teu dæti into atro { $domainCount } scito
+       *[other] Acedi a-i teu dæti inti atri { $domainCount } sciti
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
