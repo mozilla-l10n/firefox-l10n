@@ -1002,8 +1002,10 @@ firefox-relay-offer-why-to-use-relay = Güvenli, kullanımı kolay maskelerimiz 
 firefox-relay-offer-what-relay-provides = E-posta maskelerinize gönderilen tüm e-postalar <strong>{ $useremail }</strong> adresine yönlendirilecektir (siz engellemeye karar vermediğiniz sürece).
 firefox-relay-offer-legal-notice = “E-posta maskesi kullan”a tıkladığınızda <label data-l10n-name="tos-url">Hizmet Koşulları</label>’nı ve <label data-l10n-name="privacy-url">Gizlilik Bildirimi</label>’ni kabul etmiş sayılırsınız.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Doğrulanmamış)
 popup-notification-xpinstall-prompt-learn-more = Eklentileri güvenle yükleme hakkında daha fazla bilgi alın
 
 ## Pop-up warning
