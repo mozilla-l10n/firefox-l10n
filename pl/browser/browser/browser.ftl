@@ -1002,8 +1002,10 @@ firefox-relay-offer-what-relay-does = Będziemy przekierowywać wszystkie wiadom
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (niezweryfikowany)
 popup-notification-xpinstall-prompt-learn-more = Więcej informacji o bezpiecznym instalowaniu dodatków
 
 ## Pop-up warning
