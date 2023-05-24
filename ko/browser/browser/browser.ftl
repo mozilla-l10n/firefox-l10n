@@ -996,8 +996,10 @@ firefox-relay-offer-why-to-use-relay = 안전하고 사용하기 쉬운 마스�
 firefox-relay-offer-what-relay-provides = 이메일 마스크로 전송된 모든 이메일은 차단하지 않는 한 <strong>{ $useremail }</strong>(으)로 전달됩니다.
 firefox-relay-offer-legal-notice = "이메일 마스크 사용"을 클릭하면, <label data-l10n-name="tos-url">서비스 약관</label>및 <label data-l10n-name="privacy-url">개인정보처리방침</label>에 동의하는 것입니다.
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (검사하지 않았음)
 popup-notification-xpinstall-prompt-learn-more = 부가 기능을 안전하게 설치하는 방법에 대해 더 알아보기
 
 ## Pop-up warning
