@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } заблокував запит на в
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Не дозволяти
+    .accesskey = Н
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -25,6 +28,12 @@ xpinstall-disabled-button =
     .accesskey = У
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ваш системний адміністратор заблокував запит на встановлення програмного забезпечення з цього сайту на ваш комп'ютер.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } додано до { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } вимагає нових дозволів
 
 ## Add-on removal warning
 
