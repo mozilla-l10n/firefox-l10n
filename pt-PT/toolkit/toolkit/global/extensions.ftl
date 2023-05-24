@@ -101,3 +101,5 @@ webext-site-perms-header-unsigned-with-perms = Adicionar { $extension }? Esta ex
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Aceder a dispositivos MIDI
+webext-site-perms-midi-sysex = Aceder a dispositivos MIDI com suporte SysEx
