@@ -12,6 +12,7 @@ webext-perms-description-browserSettings = Janngu tee mbaylaa teelte sutura
 webext-perms-description-clipboardRead = Heɓ keɓe ummoraade e gostorel
 webext-perms-description-clipboardWrite = Waɗ keɓe ɗee e gostorel
 webext-perms-description-downloads = Awto piille, njanngaa, mbaylaa daartol kewe wanngorde ndee
+webext-perms-description-downloads-open = Uddit piille gaawtaaɗe e ordinateer maa
 webext-perms-description-geolocation = Yah to Nokkuure maa
 webext-perms-description-history = Yah to daartol kewe banngagol
 webext-perms-description-management = Reen kuutoragol njokkon, njiilaa kettule
