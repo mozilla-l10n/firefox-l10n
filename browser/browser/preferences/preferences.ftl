@@ -1462,7 +1462,11 @@ preferences-doh-default-detailed-desc-1 = Zabezpečené DNS se použije v oblast
 preferences-doh-default-detailed-desc-2 = Pokud se zabezpečeným DNS nastane problém, použije se výchozí překladač DNS
 preferences-doh-default-detailed-desc-3 = Pokud je to možné, použijte místního poskytovatele
 preferences-doh-default-detailed-desc-4 = Vypne se, když je aktivní VPN, rodičovská kontrola nebo podnikové zásady
-preferences-doh-default-detailed-desc-5 = Vypne se, když síť oznámí { -brand-short-name(case: "dat") }, že nemá používat zabezpečené DNS
+preferences-doh-default-detailed-desc-5 =
+    { -brand-short-name.case-status ->
+        [with-cases] Vypne se, když síť oznámí { -brand-short-name(case: "dat") }, že nemá používat zabezpečené DNS
+       *[no-cases] Vypne se, když síť oznámí aplikaci { -brand-short-name }, že nemá používat zabezpečené DNS
+    }
 preferences-doh-setting-enabled =
     .label = Zvýšená ochrana
     .accesskey = Z
