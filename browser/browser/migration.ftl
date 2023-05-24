@@ -143,3 +143,7 @@ browser-data-session-checkbox =
     .label = Прозори и картице
 browser-data-session-label =
     .value = Прозори и картице
+browser-data-payment-methods-checkbox =
+    .label = Начини плаћања
+browser-data-payment-methods-label =
+    .value = Начини плаћања
