@@ -10,15 +10,33 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = להוסיף את { $extension }?
+webext-perms-optional-perms-header = ההרחבה { $extension } מבקשת הרשאות נוספות.
 
 ##
 
+webext-perms-add =
+    .label = הוספה
+    .accesskey = ה
+webext-perms-cancel =
+    .label = ביטול
+    .accesskey = ב
+webext-perms-sideload-enable =
+    .label = הפעלה
+    .accesskey = ה
+webext-perms-sideload-cancel =
+    .label = ביטול
+    .accesskey = ב
+webext-perms-update-accept =
+    .label = עדכון
+    .accesskey = ע
 webext-perms-optional-perms-allow =
     .label = אישור
     .accesskey = א
 webext-perms-optional-perms-deny =
     .label = דחיה
     .accesskey = ד
+webext-perms-host-description-all-urls = גישה לנתונים שלך מכל האתרים
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
