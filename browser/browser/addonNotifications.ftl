@@ -67,6 +67,9 @@ addon-download-verifying = Verificando
 addon-install-cancel-button =
     .label = Cancelar
     .accesskey = C
+addon-install-accept-button =
+    .label = Agregar
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
