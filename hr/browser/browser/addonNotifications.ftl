@@ -2,15 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xpinstall-prompt = { -brand-short-name } je spriječio ovu stranicu da te zatraži instalirati program na tvoje računalo.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Dozvoliti, da { $host } instalira dodatak?
+xpinstall-prompt-message = Pokušavaš instalirati dodatak s { $host } stranice. Prije nego što nastaviš, odluči je li vjeruješ ovoj web lokaciji.
 
 ##
 
+xpinstall-prompt-header-unknown = Želiš li dozvoliti nepoznatoj stranici da instalira dodatak?
+xpinstall-prompt-message-unknown = Pokušavaš instalirati dodatak s nepoznate stranice. Prije nego što nastaviš, odluči je li vjeruješ ovoj web lokaciji.
+xpinstall-prompt-dont-allow =
+    .label = Nemoj dozvoliti
+    .accesskey = N
 xpinstall-prompt-never-allow =
     .label = Nikad ne dozvoli
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Nastavi s instalacijom
     .accesskey = N
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
@@ -18,6 +32,17 @@ xpinstall-prompt-never-allow =
 
 ##
 
+xpinstall-disabled-locked = Tvoj administrator sustava je deaktivirao mogućnost instaliranja softvera.
+xpinstall-disabled = Instaliranje programa trenutačno je deaktivirano. Klikni na Aktiviraj i pokušaj ponovo.
+xpinstall-disabled-button =
+    .label = Aktiviraj
+    .accesskey = m
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = Tvoj administrator sustava je blokirao dodatak { $addonName } ({ $addonId }).
+addon-install-full-screen-blocked = Instaliranje dodatka nije dopušteno za vrijeme ili prije ulaska u cjeloekranski prikaz.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Dodatak je { $addonName } dodan u { -brand-short-name }
@@ -40,6 +65,9 @@ addon-downloading-and-verifying =
        *[other] Preuzimanje i provjera { $addonCount } dodataka…
     }
 addon-download-verifying = Provjera
+addon-install-cancel-button =
+    .label = Odustani
+    .accesskey = O
 addon-install-accept-button =
     .label = Dodaj
     .accesskey = D
@@ -52,6 +80,20 @@ addon-confirm-install-message =
         [one] Ova stranica želi instalirati dodatak u { -brand-short-name }:
         [few] Ova stranica želi instalirati { $addonCount } dodatka u { -brand-short-name }:
        *[other] Ova stranica želi instalirati { $addonCount } dodataka u { -brand-short-name }:
+    }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [one] Oprez: ova stranica želi instalirati nepotvrđeni dodatak u { -brand-short-name }. Nastavi na vlastiti rizik.
+        [few] Oprez: ova stranica želi instalirati { $addonCount } nepotvrđena dodatka u { -brand-short-name }. Nastavi na vlastiti rizik.
+       *[other] Oprez: ova stranica želi instalirati { $addonCount } nepotvrđenih dodataka u { -brand-short-name }. Nastavi na vlastiti rizik.
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message =
+    { $addonCount ->
+        [one] Oprez: ova stranica želi instalirati { $addonCount } dodatak u { -brand-short-name }, a neki od njih nisu potvrđeni. Nastavi na vlastiti rizik.
+        [few] Oprez: ova stranica želi instalirati { $addonCount } dodatka u { -brand-short-name }, a neki od njih nisu potvrđeni. Nastavi na vlastiti rizik.
+       *[other] Oprez: ova stranica želi instalirati { $addonCount } dodataka u { -brand-short-name }, a neki od njih nisu potvrđeni. Nastavi na vlastiti rizik.
     }
 
 ## Add-on install errors
