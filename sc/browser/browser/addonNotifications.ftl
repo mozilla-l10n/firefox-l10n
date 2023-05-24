@@ -20,6 +20,11 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Non permitas mai
     .accesskey = M
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Sinnala unu situ suspetu
+    .accesskey = S
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -29,10 +34,12 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-message = No est garantidu chi custu atzessu siat seguru. Sighi isceti si cunfias cun custu situ.
 
 ##
 
 xpinstall-disabled-locked = S'amministratzione de sistema at disativadu s'installatzione de programmas.
+xpinstall-disabled = S’installatzione de programmas est disativada immoe. Incarca Ativa e torra a nche proare.
 xpinstall-disabled-button =
     .label = Ativa
     .accesskey = A

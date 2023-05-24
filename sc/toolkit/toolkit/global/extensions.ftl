@@ -82,6 +82,13 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Custu cumplementu donat a
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    A s’ispissu, sunt dispositivos esternos comente sintetizadores àudio, ma podent èssere fintzas integrados in s’elaboradore tuo.
+    
+    Is prus de is bortas, is sitos web non tenent atzessu a is dispositivos MIDI. Un’impreu inadeguadu podet provocare dannos o cumpromìtere sa seguresa.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
