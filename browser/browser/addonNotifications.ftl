@@ -7,22 +7,49 @@ xpinstall-prompt = { -brand-short-name } бұл сайттан компьюте�
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = { $host } үшін қосымшаны орнатуға рұқсат ету керек пе?
+xpinstall-prompt-message = Сіз { $host } адресінен қосымшаны орнату талабын жасағансыз. Жалғастыру алдында сайтқа сенімді екеніңізге көз жеткізіңіз.
 
 ##
 
+xpinstall-prompt-header-unknown = Белгісіз сайтқа қосымшаны орнатуды рұқсат ету керек пе?
+xpinstall-prompt-message-unknown = Сіз белгісіз сайттан қосымшаны орнату талабын жасағансыз. Жалғастыру алдында сайтқа сенімді екеніңізге көз жеткізіңіз.
 xpinstall-prompt-dont-allow =
     .label = Рұқсат етпеу
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = Ешқашан рұқсат етпеу
+    .accesskey = н
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Күмәнді сайт туралы хабарлау
+    .accesskey = К
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Орнатуға жалғастыру
+    .accesskey = С
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 
 ##
 
+xpinstall-disabled-locked = Бағдарламалық қамтамасын орнату мүмкіндігін сіздің жүйелік администраторыңыз сөндірген.
 xpinstall-disabled = Қазір бағдарламалық қамтамасын орнату мүмкіндігі өшулі тұр. "Қосу" батырмасын басып, қайталап көріңіз
 xpinstall-disabled-button =
     .label = Іске қосу
     .accesskey = н
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) сіздің жүйелік әкімшіңізбен бұғатталған.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Жүйелік әкімшіңіз бұл сайттан компьютеріңізге бағдарламалық қамтаманы орнату сұранымын болдырмады.
+addon-install-full-screen-blocked = Толық экран режимінде немесе оған кірер алдында кеңейтулерді орнату рұқсат етілмейді.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } ішіне қосылды
@@ -32,6 +59,13 @@ webext-perms-update-menu-item = { $addonName } жаңа рұқсаттарды �
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = { $name } өшіру керек пе?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name } ішінен { $name } өшіру керек пе?
+addon-removal-abuse-report-checkbox = Бұл кеңейту туралы { -vendor-short-name } адресіне шағым жасау
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -73,6 +107,7 @@ addon-install-error-incorrect-hash = Бұл кеңейтуді орнату мү
 addon-install-error-corrupt-file = Бұл сайттан алынған қосымшаны орнату мүмкін емес, өйткені ол зақымдалған сияқты.
 addon-install-error-file-access = { $addonName } орнату мүмкін емес, өйткені { -brand-short-name } керек файлды түзете алмады.
 addon-install-error-not-signed = { -brand-short-name } бұл сайттың расталмаған кеңейтуді орнату талабын болдырмады.
+addon-install-error-invalid-domain = { $addonName } қосымшасын осы жерден орнату мүмкін емес.
 addon-local-install-error-network-failure = Бұл кеңейтуді файлдық жүйе қатесі салдарынан орнату мүмкін емес.
 addon-local-install-error-incorrect-hash = Бұл кеңейтуді орнату мүмкін емес, өйткені ол { -brand-short-name } күткен кеңейту емес.
 addon-local-install-error-corrupt-file = Бұл кеңейту зақымдалған сияқты, сол үшін оны орнату мүмкін емес.
