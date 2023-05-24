@@ -10,12 +10,20 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header-with-perms = ເພີ່ມ { $extension } ບໍ? ສ່ວນຂະຫຍາຍນີ້ຈະມີການອະນຸຍາດໃຫ້:
+webext-perms-header-unsigned = ເພີ່ມ { $extension } ບໍ? ສ່ວນຂະຫຍາຍນີ້ບໍ່ໄດ້ຖືກຢືນຢັນ. ສ່ວນຂະຫຍາຍທີ່ເປັນອັນຕະລາຍສາມາດລັກເອົາຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ ຫຼືທໍາລາຍຄອມພິວເຕີຂອງທ່ານໄດ້. ພຽງແຕ່ເພີ່ມມັນຖ້າທ່ານໄວ້ວາງໃຈແຫຼ່ງ.
+webext-perms-header-unsigned-with-perms = ເພີ່ມ { $extension } ບໍ? ສ່ວນຂະຫຍາຍນີ້ບໍ່ໄດ້ຖືກຢືນຢັນ. ສ່ວນຂະຫຍາຍທີ່ເປັນອັນຕະລາຍສາມາດລັກເອົາຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ ຫຼືທໍາລາຍຄອມພິວເຕີຂອງທ່ານໄດ້. ພຽງແຕ່ເພີ່ມມັນຖ້າທ່ານໄວ້ວາງໃຈແຫຼ່ງ. ສ່ວນຂະຫຍາຍນີ້ຈະມີການອະນຸຍາດໃຫ້:
 
 ##
 
 webext-perms-add =
     .label = ເພີ່ມ
     .accesskey = A
+webext-perms-sideload-text = ໂຄງການອື່ນໃນຄອມພິວເຕີຂອງທ່ານໄດ້ຕິດຕັ້ງ add-on ທີ່ອາດຈະສົ່ງຜົນກະທົບຕໍ່ຕົວທ່ອງເວັບຂອງທ່ານ. ກະ​ລຸ​ນາ​ກວດ​ສອບ​ການ​ຮ້ອງ​ຂໍ​ການ​ອະ​ນຸ​ຍາດ​ຂອງ add-on ນີ້​ແລະ​ເລືອກ​ທີ່​ຈະ​ເປີດ​ຫຼື​ຍົກ​ເລີກ (ເພື່ອ​ປະ​ໃຫ້​ມັນ​ປິດ​ການ​ໃຊ້​ງານ​)​.
+webext-perms-sideload-text-no-perms = ໂຄງການອື່ນໃນຄອມພິວເຕີຂອງທ່ານໄດ້ຕິດຕັ້ງ add-on ທີ່ອາດຈະສົ່ງຜົນກະທົບຕໍ່ຕົວທ່ອງເວັບຂອງທ່ານ. ກະ​ລຸ​ນາ​ເລືອກ​ທີ່​ຈະ​ເປີດ​ຫຼື​ຍົກ​ເລີກ (ເພື່ອ​ປະ​ໃຫ້​ມັນ​ປິດ​ການ​ໃຊ້​ງານ​)​.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } ໄດ້ຖືກອັບເດດແລ້ວ. ທ່ານຕ້ອງອະນຸມັດການອະນຸຍາດໃຫມ່ກ່ອນທີ່ສະບັບປັບປຸງຈະຕິດຕັ້ງ. ການເລືອກ "ຍົກເລີກ" ຈະຮັກສາສະບັບຂະຫຍາຍປະຈຸບັນຂອງທ່ານ. ສ່ວນຂະຫຍາຍນີ້ຈະມີການອະນຸຍາດໃຫ້:
 webext-perms-optional-perms-list-intro = ສ່ວນຂະຫຍາຍຕ້ອງການ:
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
@@ -25,6 +33,8 @@ webext-perms-optional-perms-list-intro = ສ່ວນຂະຫຍາຍຕ້ອ
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = ສ່ວນເສີມນີ້ເຮັດໃຫ້ { $hostname } ເຂົ້າເຖິງອຸປະກອນ MIDI ຂອງທ່ານ.
+webext-site-perms-header-with-gated-perms-midi-sysex = ສ່ວນເສີມນີ້ເຮັດໃຫ້ { $hostname } ເຂົ້າເຖິງອຸປະກອນ MIDI ຂອງທ່ານ (ໂດຍຮອງຮັບ SysEx).
 
 ##
 
@@ -35,6 +45,10 @@ webext-perms-optional-perms-list-intro = ສ່ວນຂະຫຍາຍຕ້ອ
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = ເພີ່ມ { $extension } ບໍ? ສ່ວນຂະຫຍາຍນີ້ໃຫ້ຄວາມສາມາດຕໍ່ໄປນີ້ແກ່ { $hostname }:
+webext-site-perms-header-unsigned-with-perms = ເພີ່ມ { $extension } ບໍ? ສ່ວນຂະຫຍາຍນີ້ບໍ່ໄດ້ຖືກຢືນຢັນ. ສ່ວນຂະຫຍາຍທີ່ເປັນອັນຕະລາຍສາມາດລັກເອົາຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ ຫຼືທໍາລາຍຄອມພິວເຕີຂອງທ່ານໄດ້. ພຽງແຕ່ເພີ່ມມັນຖ້າທ່ານໄວ້ວາງໃຈແຫຼ່ງ. ສ່ວນຂະຫຍາຍນີ້ໃຫ້ຄວາມສາມາດຕໍ່ໄປນີ້ແກ່ { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = ເຂົ້າເຖິງອຸປະກອນ MIDI
+webext-site-perms-midi-sysex = ເຂົ້າເຖິງອຸປະກອນ MIDI ດ້ວຍການຮອງຮັບ SysEx
