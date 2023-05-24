@@ -251,6 +251,8 @@ set-default-pdf-handler-primary = Jeg forstår
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Planlegger du å kjøpe en ny enhet i fremtiden?
+fxa-sync-cfr-body = Sørg for at de nyeste bokmerkene, passordene og fanene dine følger med deg hver gang du åpner en ny { -brand-product-name }-nettleser.
 fxa-sync-cfr-primary = Les mer
     .accesskey = L
 fxa-sync-cfr-secondary = Påminn senere
