@@ -9,9 +9,11 @@
 
 webext-perms-description-bookmarks = વાંચો અને બુકમાર્ક્સ ફેરફાર
 webext-perms-description-browserSettings = વાંચો અને બ્રાઉઝર સેટિંગ્સમાં ફેરફાર
+webext-perms-description-browsingData = તાજેતરના બ્રાઉઝિંગ ઇતિહાસ, કુકીઝ અને સંબંધિત ડેટાને સાફ કરો
 webext-perms-description-clipboardRead = ક્લિપબોર્ડ પાસેથી માહિતી મેળવો
 webext-perms-description-clipboardWrite = ક્લિપબોર્ડ પર ઇનપુટ માહિતી
 webext-perms-description-downloads = ફાઇલો ડાઉનલોડ કરો અને વાંચો અને બ્રાઉઝરના ડાઉનલોડ ઇતિહાસ સુધારવા
+webext-perms-description-downloads-open = તમારા કમ્પ્યુટર પર ડાઉનલોડ કરેલી ફાઇલો ખોલો
 webext-perms-description-find = બધા ખુલ્લા ટેબ્સનો લખાણ વાંચો
 webext-perms-description-geolocation = તમારાં સ્થાનમાં પ્રવેશો
 webext-perms-description-history = બ્રાઉઝિંગ ઇતિહાસને ઍક્સેસ કરો
