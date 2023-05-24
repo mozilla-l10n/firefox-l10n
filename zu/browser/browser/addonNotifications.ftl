@@ -20,6 +20,7 @@ xpinstall-disabled = Ukufakela uhlaka olusetshenziswayo kwenziwe kwangasebenza o
 
 ## Add-on removal warning
 
+addon-download-verifying = Iyaqinisekisa
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -29,3 +30,5 @@ xpinstall-disabled = Ukufakela uhlaka olusetshenziswayo kwenziwe kwangasebenza o
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-local-install-error-network-failure = Lokhu okungangezwa akwazanga ukufakwa ngenxa yephutha kufayela lohlelo.
+addon-local-install-error-corrupt-file = Lokhu okungangezwa akwazanga ukufakwa ngoba kubonakala sengathi kumoshekile.
