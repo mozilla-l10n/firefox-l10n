@@ -996,8 +996,10 @@ firefox-relay-offer-what-relay-does = Ad nwelleh meṛṛa imaylen seg <strong>{
 ## Popup Notification
 
 
-## Pop-up Notification
+## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (Ur ittusenqed ara)
 popup-notification-xpinstall-prompt-learn-more = Issin ugar ɣef usbeddi n yizegrar s tɣellist
 
 ## Pop-up warning
