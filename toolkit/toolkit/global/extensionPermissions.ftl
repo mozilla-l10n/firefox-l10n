@@ -12,6 +12,7 @@ webext-perms-description-browserSettings = गोपनीयता सेटि
 webext-perms-description-clipboardRead = क्लिपबोर्ड वरील माहिती घ्या
 webext-perms-description-clipboardWrite = क्लिपबोर्ड वर माहिती भरा
 webext-perms-description-downloads = फाईल डाउनलोड करा आणि ब्राउझरचा डाउनलोड इतिहास वाचून बदल करा
+webext-perms-description-downloads-open = आपल्या संगणकावर डाउनलोड केलेल्या फाईल उघडा
 webext-perms-description-geolocation = आपल्या ठिकाणाचा वापर करा
 webext-perms-description-history = ब्राऊझरचा इतिहास पहा
 webext-perms-description-management = एक्स्टेंशनचा वापर मॉनिटर करा व थीम व्यवस्थापित करा
