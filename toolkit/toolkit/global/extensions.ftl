@@ -42,6 +42,9 @@ webext-perms-optional-perms-deny =
     .accesskey = I
 webext-perms-host-description-all-urls = Få tilgang til dine data for alle nettstadar
 # Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Få tilgang til dine data frå nettstadar under { $domain }-domenet
+# Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-wildcards =
