@@ -23,6 +23,9 @@ addon-download-verifying = 검사하는 중
 addon-install-cancel-button =
     .label = 취소
     .accesskey = C
+addon-install-accept-button =
+    .label = 추가
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
