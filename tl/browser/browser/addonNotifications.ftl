@@ -41,7 +41,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Ang { $addonName } ({ $addonId }) ay hinarangan ng iyong system administrator.{ " " }
+addon-install-blocked-by-policy = Ang { $addonName } ({ $addonId }) ay hinarangan ng iyong system administrator.
 addon-install-full-screen-blocked = Hindi pinapayagan ang pagkabit ng add-on habang nasa loob ng o bago pumasok ng fullscreen mode.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
