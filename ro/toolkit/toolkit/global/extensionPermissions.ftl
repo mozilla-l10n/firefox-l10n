@@ -7,11 +7,14 @@
 ## Permissions for which the message has been changed and the key updated
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
+webext-perms-description-bookmarks = Să citească și să modifice marcaje
 webext-perms-description-browserSettings = Să citească și să modifice setările browserului
 webext-perms-description-browsingData = Să șteargă istoricul recent de navigare, cookie-urile și datele asociate
 webext-perms-description-clipboardRead = Să obțină date din clipboard
 webext-perms-description-clipboardWrite = Să introducă date în clipboard
+webext-perms-description-downloads = Să descarce fișiere și să citească sau să modifice istoricul descărcărilor din browser
 webext-perms-description-downloads-open = Să deschidă fișiere descărcate pe calculator
+webext-perms-description-find = Să citească textul din toate filele deschise
 webext-perms-description-geolocation = Să îți acceseze locația
 webext-perms-description-history = Să acceseze istoricul de navigare
 webext-perms-description-management = Să monitorizeze utilizarea de extensii și să gestioneze teme
