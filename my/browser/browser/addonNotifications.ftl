@@ -52,7 +52,6 @@ addon-install-accept-button =
 ##   $addonCount (Number): the number of add-ons being installed
 
 addon-confirm-install-message = ဒီဆိုက်သည် { -brand-short-name } ထံမှ အက်အွန် { $addonCount } ခုကို တပ်ဆင်လိုသည်။
-addon-confirm-install-unsigned-message = သတိ။ ဒီဆိုက်သည် { -brand-short-name }က အတည်မပြုရသေးသည့် အက်အွန်တစ်ခုကို တပ်ဆင်လိုသည်။ သင်တာဝန်ယူနိုင်လျှင် ဆောင်ရွက်နိုင်သည်။
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message = သတိ။ ဒီဆိုက်သည် { -brand-short-name }မှ အက်အွန် { $addonCount }ခုကို တပ်ဆင်လိုသည်၊ ထို့အထဲမှ အချို့သည် အတည်မပြုရသေးပါ။ မိမိကိုယ်တိုင် တာဝန်ခံနိုင်ပါက ဆောင်ရွက်နိုင်သည်။
