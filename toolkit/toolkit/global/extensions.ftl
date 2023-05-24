@@ -10,15 +10,67 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = Chcete pridať { $extension }?
 webext-perms-header-with-perms = Chcete nainštalovať { $extension }? Toto rozšírenie bude mať nasledujúce povolenia:
 webext-perms-header-unsigned = Chcete nainštalovať { $extension }? Toto rozšírenie nie je overené. Škodlivé rozšírenia môžu ukradnúť vaše osobné informácie alebo nakaziť váš počítač. Rozšírenie nainštalujte iba ak pochádza z dôveryhodného zdroja.
 webext-perms-header-unsigned-with-perms = Chcete nainštalovať { $extension }? Toto rozšírenie nie je overené. Škodlivé rozšírenia môžu ukradnúť vaše osobné informácie alebo nakaziť váš počítač. Rozšírenie nainštalujte iba ak pochádza z dôveryhodného zdroja. Toto rozšírenie bude mať nasledujúce povolenia:
+webext-perms-sideload-header = Doplnok { $extension } bol pridaný
+webext-perms-optional-perms-header = Doplnok { $extension } vyžaduje ďalšie povolenia.
 
 ##
 
+webext-perms-add =
+    .label = Pridať
+    .accesskey = P
+webext-perms-cancel =
+    .label = Zrušiť
+    .accesskey = Z
+webext-perms-sideload-text = Iný program vo vašom počítači nainštaloval doplnok, ktorý by mohol ovplyvniť váš prehliadač. Prosím, pozrite si žiadosti o povolenia tohto doplnku a vyberte možnosť Povoliť alebo Zrušiť (ak chcete ponechať doplnok zakázaný).
+webext-perms-sideload-text-no-perms = Iný program vo vašom počítači nainštaloval doplnok, ktorý by mohol ovplyvniť váš prehliadač. Prosím, vyberte možnosť Povoliť alebo Zrušiť (ak chcete ponechať doplnok zakázaný).
+webext-perms-sideload-enable =
+    .label = Povoliť
+    .accesskey = P
+webext-perms-sideload-cancel =
+    .label = Zrušiť
+    .accesskey = Z
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Pre rozšírenie { $extension } je dostupná aktualizácia. Pred inštaláciou aktualizovanej verzie musíte schváliť nové povolenia. Výberom možnosti “Zrušiť” sa zachová vaša aktuálna verzia rozšírenia. Toto rozšírenie bude mať nasledujúce povolenia:
+webext-perms-update-accept =
+    .label = Aktualizovať
+    .accesskey = A
+webext-perms-optional-perms-list-intro = Chce:
+webext-perms-optional-perms-allow =
+    .label = Povoliť
+    .accesskey = o
+webext-perms-optional-perms-deny =
+    .label = Odmietnuť
+    .accesskey = d
+webext-perms-host-description-all-urls = Prístup k údajom pre všetky webové stránky
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = Prístup k údajom pre webové stránky na doméne { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Prístup k údajom pre { $domainCount } ďalšiu doménu
+        [few] Prístup k údajom pre { $domainCount } ďalšie domény
+       *[other] Prístup k údajom pre { $domainCount } ďalších domén
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Prístup k údajom pre { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-sites =
+    { $domainCount ->
+        [one] Prístup k údajom pre { $domainCount } ďalšiu stránku
+        [few] Prístup k údajom pre { $domainCount } ďalšie stránky
+       *[other] Prístup k údajom pre { $domainCount } ďalších stránok
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
