@@ -16,6 +16,7 @@
 webext-perms-cancel =
     .label = අවලංගු කරන්න
     .accesskey = C
+webext-perms-optional-perms-list-intro = එයට අවශයයි:
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
