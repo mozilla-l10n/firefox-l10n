@@ -10,6 +10,10 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
+webext-perms-header = ¿La nitz'aqatisäx { $extension }?
+webext-perms-header-with-perms = ¿La nitz'aqatisäx { $extension }? Re k'amal re' xtiya' q'ij richin:
+webext-perms-header-unsigned = ¿La nitz'aqatisäx { $extension }? Man nik'on ta re chokoy re'. Ri itzel taq chokoy yetikïr nikeleq'aj ri awetamab'al o nikiq'eleb'ej ri akematz'ib'. Tayaka' re chokoy re' we nakuqub'a' ak'u'x chi rij akuchi' petenäq wi.
+webext-perms-header-unsigned-with-perms = ¿La nitz'aqatisäx { $extension }? Man nik'on ta re chokoy re'. Ri itzel taq chokoy yetikïr nikeleq'aj ri awetamab'al o nikiq'eleb'ej ri akematz'ib'. Tayaka' re chokoy re' we nakuqub'a' ak'u'x chi rij akuchi' petenäq wi. Re chokoy niya' q'ij chi re:
 webext-perms-sideload-header = { $extension } tz'aqatisan
 webext-perms-optional-perms-header = { $extension } nuk'utuj rutz'aqat taq ya'oj q'ij.
 
@@ -29,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Tiq'at
     .accesskey = T
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } xk'extäj. K'o chi ye'ajikib'a' k'ak'a' taq ya'oj q'ij chuwäch nayäk ri k'ak'a' ruwäch k'exon. We nacha' “Tiq'at” nik'oje' na ri ruwäch tz'aqat k'o wakami. Re k'amal re' niya' q'ij chi re:
 webext-perms-update-accept =
     .label = Tik'ex
     .accesskey = T
@@ -51,6 +58,9 @@ webext-perms-host-description-too-many-wildcards =
         [one] Katok pa ri taq atzij pa { $domainCount } jun chik ruk'ojlem b'ey
        *[other] Katok pa ri taq atzij pa { $domainCount } ch'aqa' chik taq ruk'ojlem b'ey
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = Katok pa taq atzij richin { $domain }
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -80,3 +90,5 @@ webext-perms-host-description-too-many-sites =
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Tok pa MIDI taq okisaxel
+webext-site-perms-midi-sysex = Tok pa MIDI okisaxel rik'in SysEx to'ïk
