@@ -7,22 +7,36 @@ xpinstall-prompt = { -brand-short-name } je tej strani preprečil vprašati, ali
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Dovolite { $host } namestitev dodatka?
 
 ##
 
 xpinstall-prompt-dont-allow =
     .label = Ne dovoli
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Nikoli ne dovoli
+    .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Prijavi sumljivo stran
+    .accesskey = j
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Spletno mesto zahteva dostop do vaših naprav MIDI (Musical Instrument Digital Interface). Dostop do naprav lahko omogočite z namestitvijo dodatka.
+site-permission-install-first-prompt-midi-message = Takšen dostop ni zajamčeno varen. Nadaljujte samo, če temu spletnemu mestu zaupate.
 
 ##
 
+xpinstall-disabled-locked = Skrbnik vašega sistema je onemogočil nameščanje programske opreme.
 xpinstall-disabled = Namestitev programske opreme je trenutno onemogočena. Kliknite gumb Omogoči, če jo želite omogočiti, potem pa poskusite znova.
 xpinstall-disabled-button =
     .label = Omogoči
     .accesskey = O
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Skrbnik vašega sistema je tej strani preprečil vprašati, ali lahko na vaš računalnik namesti programsko opremo.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } je bil dodan v { -brand-short-name }
@@ -32,6 +46,14 @@ webext-perms-update-menu-item = { $addonName } zahteva nova dovoljenja
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Odstranim { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Odstrani { $name } iz { -brand-shorter-name }a?
+addon-removal-button = Odstrani
+addon-removal-abuse-report-checkbox = Prijavi to razširitev organizaciji { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -45,6 +67,9 @@ addon-download-verifying = Potrjevanje
 addon-install-cancel-button =
     .label = Prekliči
     .accesskey = P
+addon-install-accept-button =
+    .label = Dodaj
+    .accesskey = D
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -63,6 +88,14 @@ addon-confirm-install-unsigned-message =
         [few] Pozor: Stran želi namestiti { $addonCount } nepotrjene dodatke za { -brand-short-name }. Nadaljujte na lastno odgovornost.
        *[other] Pozor: Stran želi namestiti { $addonCount } nepotrjenih dodatkov za { -brand-short-name }. Nadaljujte na lastno odgovornost.
     }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message =
+    { $addonCount ->
+        [two] Pozor: stran želi v { -brand-short-name } namestiti { $addonCount } dodatka, od katerih je vsaj en nepotrjen. Nadaljujte na lastno odgovornost.
+        [few] Pozor: stran želi v { -brand-short-name } namestiti { $addonCount } dodatke, od katerih je vsaj en nepotrjen. Nadaljujte na lastno odgovornost.
+       *[other] Pozor: stran želi v { -brand-short-name } namestiti { $addonCount } dodatkov, od katerih je vsaj en nepotrjen. Nadaljujte na lastno odgovornost.
+    }
 
 ## Add-on install errors
 ## Variables:
@@ -73,6 +106,7 @@ addon-install-error-incorrect-hash = Dodatka ni bilo mogoče namestiti, ker ne u
 addon-install-error-corrupt-file = Dodatka, prenesenega s te strani, ni bilo mogoče namestiti, ker je verjetno poškodovan.
 addon-install-error-file-access = { $addonName } ni bilo mogoče namestiti, ker { -brand-short-name } ne more spremeniti zahtevane datoteke.
 addon-install-error-not-signed = { -brand-short-name } je tej strani preprečil namestitev nepotrjenega dodatka.
+addon-install-error-invalid-domain = Dodatka { $addonName } ni mogoče namestiti s tega mesta.
 addon-local-install-error-network-failure = Tega dodatka ni bilo mogoče namestiti zaradi napake v datotečnem sistemu.
 addon-local-install-error-incorrect-hash = Tega dodatka ni bilo mogoče namestiti, ker ne ustreza pričakovanemu dodatku { -brand-short-name }.
 addon-local-install-error-corrupt-file = Tega dodatka ni bilo mogoče namestiti, ker je verjetno poškodovan.

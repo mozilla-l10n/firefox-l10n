@@ -11,7 +11,11 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Dodaj { $extension }?
+webext-perms-header-with-perms = Želite dodati { $extension }? Razširitev bo imela dovoljenje za:
+webext-perms-header-unsigned = Želite dodati { $extension }? Ta razširitev je nepreverjena. Zlonamerne razširitve lahko ukradejo vaše zasebne podatke ali ogrozijo vaš računalnik. Razširitev dodajte samo v primeru, da zaupate izvoru.
+webext-perms-header-unsigned-with-perms = Želite dodati { $extension }? Ta razširitev je nepreverjena. Zlonamerne razširitve lahko ukradejo vaše zasebne podatke ali ogrozijo vaš računalnik. Razširitev dodajte samo v primeru, da zaupate izvoru. Razširitev bo imela dovoljenje za:
 webext-perms-sideload-header = { $extension } je bil dodan
+webext-perms-optional-perms-header = { $extension } zahteva dodatna dovoljenja.
 
 ##
 
@@ -32,6 +36,30 @@ webext-perms-sideload-cancel =
 webext-perms-update-accept =
     .label = Posodobi
     .accesskey = P
+webext-perms-optional-perms-list-intro = Želi:
+webext-perms-optional-perms-allow =
+    .label = Dovoli
+    .accesskey = D
+webext-perms-optional-perms-deny =
+    .label = Zavrni
+    .accesskey = Z
+webext-perms-host-description-all-urls = dostop do vaših podatkov za vsa spletna mesta
+# Variables:
+#   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
+webext-perms-host-description-wildcard = dostop do vaših podatkov za strani domene { $domain }
+# Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] dostop do vaših podatkov v { $domainCount } drugi domeni
+        [two] dostop do vaših podatkov v { $domainCount } drugih domenah
+        [few] dostop do vaših podatkov v { $domainCount } drugih domenah
+       *[other] dostop do vaših podatkov v { $domainCount } drugih domenah
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
+webext-perms-host-description-one-site = dostop do vaših podatkov za { $domain }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -40,9 +68,18 @@ webext-perms-update-accept =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Ta dodatek daje spletnemu mestu { $hostname } dostop do vaših naprav MIDI.
+webext-site-perms-header-with-gated-perms-midi-sysex = Ta dodatek daje spletnemu mestu { $hostname } dostop do vaših naprav MIDI (s podporo za SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    To so običajno priključki, kot so zvočni sintetizatorji, lahko pa so tudi vgrajeni v računalnik.
+    
+    Spletnim mestom dostop do naprav MIDI običajno ni dovoljen. Nepravilna uporaba lahko povzroči škodo ali ogrozi varnost.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -50,6 +87,10 @@ webext-perms-update-accept =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Želite dodati { $extension }? Ta razširitev daje spletnemu mestu { $hostname } naslednje zmožnosti:
+webext-site-perms-header-unsigned-with-perms = Želite dodati { $extension }? Ta razširitev je nepreverjena. Zlonamerne razširitve lahko ukradejo vaše zasebne podatke ali ogrozijo vaš računalnik. Razširitev dodajte samo v primeru, da zaupate izvoru. Ta razširitev daje spletnemu mestu { $hostname } naslednje zmožnosti:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = dostop do naprav MIDI
+webext-site-perms-midi-sysex = dostop do naprav MIDI s podporo SysEx
