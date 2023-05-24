@@ -18,6 +18,19 @@ webext-perms-sideload-header = { $extension } teutamah
 webext-perms-add =
     .label = Tamah
     .accesskey = A
+webext-perms-cancel =
+    .label = Bateuë
+    .accesskey = B
+webext-perms-sideload-cancel =
+    .label = Bateuë
+    .accesskey = B
+webext-perms-update-accept =
+    .label = Seubarô
+    .accesskey = U
+webext-perms-optional-perms-list-intro = Nyan peureulèë keu:
+webext-perms-optional-perms-allow =
+    .label = Peuidin
+    .accesskey = A
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
