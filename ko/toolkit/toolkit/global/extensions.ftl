@@ -20,9 +20,16 @@ webext-perms-add =
 webext-perms-cancel =
     .label = 취소
     .accesskey = C
+webext-perms-sideload-cancel =
+    .label = 취소
+    .accesskey = C
 webext-perms-update-accept =
     .label = 업데이트
     .accesskey = U
+webext-perms-optional-perms-list-intro = 필요한 권한:
+webext-perms-optional-perms-deny =
+    .label = 거부
+    .accesskey = D
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } 도메인 사이트에 대한 사용자 데이터에 접근
