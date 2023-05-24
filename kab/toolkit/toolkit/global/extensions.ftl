@@ -21,6 +21,12 @@ webext-perms-add =
 webext-perms-update-accept =
     .label = Lqem
     .accesskey = L
+webext-perms-optional-perms-allow =
+    .label = Sireg
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = Gdel
+    .accesskey = D
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
