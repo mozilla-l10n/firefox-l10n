@@ -10,6 +10,9 @@ xpinstall-prompt = { -brand-short-name } esti sivustoa avaamasta ohjelmien asenn
 
 ##
 
+xpinstall-prompt-dont-allow =
+    .label = Älä salli
+    .accesskey = Ä
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -21,6 +24,12 @@ xpinstall-disabled = Ohjelmien asentaminen on tällä hetkellä estetty. Ota se 
 xpinstall-disabled-button =
     .label = Ota käyttöön
     .accesskey = k
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } lisätty { -brand-short-name }iin
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } vaatii uusia oikeuksia
 
 ## Add-on removal warning
 
@@ -35,6 +44,9 @@ addon-download-verifying = Varmennetaan
 addon-install-cancel-button =
     .label = Peruuta
     .accesskey = P
+addon-install-accept-button =
+    .label = Lisää
+    .accesskey = L
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
