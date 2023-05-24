@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = 자막
     .tooltip = 자막
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = 전체 화면
+    .tooltip = 전체 화면 (더블 클릭 또는 { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = 전체 화면 종료
+    .tooltip = 전체 화면 종료 (더블 클릭 또는 { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = 전체 화면 종료
     .tooltip = 전체 화면 종료 (더블 클릭)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = 뒤로
     .tooltip = 뒤로 (←)
