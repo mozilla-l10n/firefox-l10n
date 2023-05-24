@@ -7,6 +7,8 @@ xpinstall-prompt = { -brand-short-name } ha impedì questa website da dumandar, 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Permetter a { $host } dad installar in supplement?
+xpinstall-prompt-message = Ti emprovas dad installar in supplement da { $host }. Fa la segira che ti ta fidas da la website avant che cuntinuar.
 
 ##
 
@@ -15,9 +17,25 @@ xpinstall-prompt-message-unknown = Ti emprovas dad installar in supplement dad i
 xpinstall-prompt-dont-allow =
     .label = Betg permetter
     .accesskey = B
+xpinstall-prompt-never-allow =
+    .label = Mai permetter
+    .accesskey = M
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Rapportar ina website suspectusa
+    .accesskey = R
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Cuntinuar cun l'installaziun
+    .accesskey = C
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Questa website dumonda l'access a tes apparats MIDI (Musical Instrument Digital Interface). L'access als apparats pon ins garantir cun installar in supplement.
+site-permission-install-first-prompt-midi-message = La segirezza da quest access n'è betg garantida. Cuntinuescha mo sche ti ta fidas da questa website.
 
 ##
 
@@ -26,6 +44,14 @@ xpinstall-disabled = L'installaziun da software è actualmain deactivada. Clicca
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = A
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) è bloccà da l'administratur da tes sistem.{ " " }
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = L'administratur da tes sistem ha impedì che questa website ta dumondia sche software duai vegnir installada sin tes computer.
+addon-install-full-screen-blocked = L'installaziun da supplements n'è betg permessa durant u avant che midar en il modus da maletg entir.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Agiuntà { $addonName } a { -brand-short-name }
@@ -35,6 +61,14 @@ webext-perms-update-menu-item = { $addonName } dumonda novas autorisaziuns
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Allontanar { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Allontanar { $name } da { -brand-shorter-name }?
+addon-removal-button = Allontanar
+addon-removal-abuse-report-checkbox = Rapportar questa extensiun a { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -76,6 +110,7 @@ addon-install-error-incorrect-hash = Impussibel dad installar il supplement. El 
 addon-install-error-corrupt-file = Impussibel dad installar il supplement telechargià da questa pagina. El para dad esser donnegià.
 addon-install-error-file-access = Impussibel dad installar { $addonName } perquai che { -brand-short-name } na po betg modifitgar la datoteca necessaria.
 addon-install-error-not-signed = { -brand-short-name } ha impedì che questa pagina installeschia in supplement betg verifitgà.
+addon-install-error-invalid-domain = Impussibel dad installar il supplement { $addonName } da quest lieu.
 addon-local-install-error-network-failure = Impussibel dad installar quest supplement pervia d'ina errur en il sistem da datotecas.
 addon-local-install-error-incorrect-hash = Impussibel dad installar quest supplement perquai ch'el na correspunda betg al supplement che { -brand-short-name } ha spetgà.
 addon-local-install-error-corrupt-file = Impussibel dad installar quest supplement. El para dad esser donnegià.

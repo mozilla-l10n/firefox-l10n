@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Agiuntar { $extension }?
+webext-perms-header-with-perms = Agiuntar { $extension }? Questa extensiun vegn ad avair las permissiuns per:
+webext-perms-header-unsigned = Agiuntar { $extension }? Questa extensiun n'è betg verifitgada. Extensiuns donnegiusas pon engular tias infurmaziuns privatas u cumprometter tes computer. L'installescha mo sche ti ta fidas da la funtauna.
+webext-perms-header-unsigned-with-perms = Agiuntar { $extension }? Questa extensiun n'è betg verifitgada. Extensiuns donnegiusas pon engular tias infurmaziuns privatas u cumprometter tes computer. L'installescha mo sche ti ta fidas da la funtauna. Questa extensiun vegn ad avair las permissiuns per:
 webext-perms-sideload-header = Agiuntà { $extension }
 webext-perms-optional-perms-header = { $extension } dumonda ulteriuras autorisaziuns.
 
@@ -30,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Interrumper
     .accesskey = I
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } è vegnì actualisà. Ti stos acceptar las novas permissiuns avant che la versiun actualisada vegn installada. Sche ti tschernas «Interrumper», vegn la versiun actuala da l'extensiun mantegnida. Questa extensiun vegn ad avair las permissiuns per:
 webext-perms-update-accept =
     .label = Actualisar
     .accesskey = A
@@ -71,9 +77,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Quest supplement permetta a { $hostname } dad acceder ad apparats MIDI.
+webext-site-perms-header-with-gated-perms-midi-sysex = Quest supplement permetta a { $hostname } dad acceder ad apparats MIDI (cun sustegn da SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    I sa tracta normalmain dad apparats externs sco synthesizers da tun, ma i po era dar ch'i pertutga apparats integrads en il computer.
+    
+    Websites na pon normalmain betg acceder ad apparats MIDI. L'utilisaziun faussa po chaschunar donns u cumprometter la segirezza.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -81,6 +96,10 @@ webext-perms-host-description-too-many-sites =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Agiuntar { $extension }? Questa extensiun permetta a { $hostname } il suandant:
+webext-site-perms-header-unsigned-with-perms = Agiuntar { $extension }? Questa extensiun n'è betg verifitgada. Extensiuns donnegiusas pon engular tias infurmaziuns privatas u cumprometter tes computer. L'installescha mo sche ti ta fidas da la funtauna. Questa extensiun permetta ad { $hostname } dad utilisar las suandantas funcziuns:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Acceder als apparats MIDI
+webext-site-perms-midi-sysex = Acceder als apparats MIDI cun sustegn da SysEx
