@@ -6,21 +6,52 @@
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-message = Tu tenta de installar un additivo ex { $host }. Verifica que tu fide iste sito ante continuar.
 
 ##
 
+xpinstall-prompt-message-unknown = Tu tenta de installar un additivo ex un sito incognite. Verifica que tu te fide de iste sito ante continuar.
+xpinstall-prompt-dont-allow =
+    .label = Non permitter
+    .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Reporta sito suspecte
+    .accesskey = R
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Continuar le installation
+    .accesskey = P
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Iste sito demanda accesso a tu dispositivos MIDI. Le accesso al dispositivo pote esser activate per installation de un additivo.
+site-permission-install-first-prompt-midi-message = Iste accesso non es garantite esser secur. Solo continua si tu te fide de iste sito.
 
 ##
 
+xpinstall-disabled-button =
+    .label = Activar
+    .accesskey = A
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Tu administrator de systema ha impedite iste sito de demandar te de installar software sur tu computator.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { $addonName } addite a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } require nove permissiones
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Remover { $name }?
+addon-removal-button = Remover
+addon-removal-abuse-report-checkbox = Signalar iste extension a { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -57,6 +88,7 @@ addon-confirm-install-some-unsigned-message = Attention: Iste sito vole installa
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-invalid-domain = Le additivo { $addonName } non pote esser installate ab iste position.
 addon-local-install-error-network-failure = Iste additivo non ha potite esser installate a causa de un error del systema de files.
 addon-local-install-error-incorrect-hash = Le additivo non ha potite esser installate perque illo non corresponde al additivo { -brand-short-name } expectate.
 addon-local-install-error-corrupt-file = Le additivo non ha potite esser installate perque illo appare esser corrumpite.

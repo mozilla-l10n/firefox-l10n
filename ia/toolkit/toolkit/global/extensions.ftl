@@ -11,14 +11,35 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Adder { $extension }?
+webext-perms-sideload-header = { $extension } addite
+webext-perms-optional-perms-header = { $extension } require altere permissiones.
 
 ##
 
+webext-perms-add =
+    .label = Adder
+    .accesskey = A
+webext-perms-cancel =
+    .label = Cancellar
+    .accesskey = C
 webext-perms-sideload-text = Un altere programma de tu computator ha installate un additivo que pote affectar tu navigator. Per favor revide le requestas de permission de iste additivo e elige Activar o Cancellar (pro lassar lo inactive).
 webext-perms-sideload-text-no-perms = Un altere programma de tu computator ha installate un additivo que pote affectar tu navigator. Per favor elige Activar o Cancellar (pro lassar lo inactive).
 webext-perms-sideload-enable =
     .label = Activar
     .accesskey = E
+webext-perms-sideload-cancel =
+    .label = Cancellar
+    .accesskey = C
+webext-perms-update-accept =
+    .label = Actualisar
+    .accesskey = U
+webext-perms-optional-perms-list-intro = Illo vole:
+webext-perms-optional-perms-allow =
+    .label = Permitter
+    .accesskey = A
+webext-perms-optional-perms-deny =
+    .label = Denegar
+    .accesskey = D
 webext-perms-host-description-all-urls = Acceder a tu datos pro tote le sitos web
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
@@ -50,9 +71,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Iste additivo da a { $hostname } le accesso a tu apparatos MIDI.
+webext-site-perms-header-with-gated-perms-midi-sysex = Iste additivo da a { $hostname } le accesso a tu apparatos MIDI (con supporto SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Istos es usualmente dispositivos connexe como synthetisatores audio, ma poterea alsi esser integrate in tu computator.
+    
+    Al sitos web non es normalmente permittite acceder al dispositivos MIDI. Le uso improprie poterea causar damno o compromitter securitate.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -63,3 +93,4 @@ webext-perms-host-description-too-many-sites =
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Acceder al apparatos MIDI
