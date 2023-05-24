@@ -7,12 +7,25 @@ xpinstall-prompt = Harzet eo bet gant { -brand-short-name } da leuskel al lec'hi
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Aotren { $host } da staliañ un enlugellad?
+xpinstall-prompt-message = Emaoc'h o klask staliañ un enlugellad adalek { $host }. Bezit sur eo fizius al lec'hienn-mañ a-raok kenderc'hel.
 
 ##
 
+xpinstall-prompt-header-unknown = Aotren ul lec'hienn dianav da staliañ askouezhioù?
+xpinstall-prompt-message-unknown = Emaoc'h o klask staliañ un askouezh adalek ul lec'hienn dianav. Bezit sur e c'hallit fiziañ el lec'hienn-mañ a-raok kenderc'hel.
 xpinstall-prompt-dont-allow =
     .label = Na aotren
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Na aotren
+    .accesskey = N
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Kenderc'hel d'ar staliadur
+    .accesskey = K
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,6 +37,11 @@ xpinstall-disabled = Staliañ meziantoù zo diweredekaet bremañ. Klikit war Aot
 xpinstall-disabled-button =
     .label = Aotren
     .accesskey = o
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = Stanket eo { $addonName } ({ $addonId }) gant hoc'h ardoer reizhiad.{ " " }
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ouzhpennet da { -brand-short-name }
@@ -33,6 +51,24 @@ webext-perms-update-menu-item = Aotreoù nevez a zo goulennet gant { $addonName 
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Dilemel { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Dilemel { $name } eus { -brand-shorter-name }?
+addon-removal-button = Dilemel
+addon-removal-abuse-report-checkbox = Disklêriañ an askouezh-mañ da { -vendor-short-name }
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [one] O pellgargañ hag o wiriañ an askouezh...
+        [two] O pellgargañ hag o wiriañ { $addonCount } askouezh...
+        [few] O pellgargañ hag o wiriañ { $addonCount } askouezh...
+        [many] O pellgargañ hag o wiriañ { $addonCount } a askouezhioù...
+       *[other] O pellgargañ hag o wiriañ { $addonCount } askouezh...
+    }
 addon-download-verifying = O wiriañ
 addon-install-cancel-button =
     .label = Nullañ

@@ -45,6 +45,17 @@ webext-perms-host-description-all-urls = Haeziñ ho roadennoù evit an holl lec'
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Haeziñ ho roadennoù war al lec'hiennoù en domani { $domain }
 # Variables:
+#   $domainCount (Number): Integer indicating the number of additional
+#     hosts for which this webextension is requesting permission.
+webext-perms-host-description-too-many-wildcards =
+    { $domainCount ->
+        [one] Haeziñ ho roadennoù en { $domainCount } domani disheñvel
+        [two] Haeziñ ho roadennoù en { $domainCount } zomani disheñvel
+        [few] Haeziñ ho roadennoù en { $domainCount } domani disheñvel
+        [many] Haeziñ ho roadennoù e { $domainCount } a zomanioù disheñvel
+       *[other] Haeziñ ho roadennoù en { $domainCount } domani disheñvel
+    }
+# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Haeziñ ho roadennoù evit { $domain }
 
