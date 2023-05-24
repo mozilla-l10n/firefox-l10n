@@ -13,12 +13,18 @@ xpinstall-prompt-message = Olet aikeissa asentaa lisäosan sivustolta { $host }.
 ##
 
 xpinstall-prompt-header-unknown = Saako tuntematon sivusto asentaa lisäosan?
+xpinstall-prompt-message-unknown = Olet aikeissa asentaa lisäosan tuntemattomalta sivustolta. Varmistu tämän sivuston luotettavuudesta ennen kuin jatkat.
 xpinstall-prompt-dont-allow =
     .label = Älä salli
     .accesskey = Ä
 xpinstall-prompt-never-allow =
     .label = Älä salli koskaan
     .accesskey = k
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Ilmoita epäilyttävästä sivustosta
+    .accesskey = R
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -28,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Tämä sivusto pyytää pääsyä MIDI-laitteisiisi (Musical Instrument Digital Interface). Pääsy laitteeseen voidaan ottaa käyttöön asentamalla lisäosa.
+site-permission-install-first-prompt-midi-message = Tämän pääsyn turvallisuutta ei taata. Jatka vain, jos luotat tähän sivustoon.
 
 ##
 
@@ -41,6 +49,8 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) on järjestelmänvalvojasi estämä.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Järjestelmänvalvojasi esti tätä sivustoa pyytämästä sinua asentamaan ohjelmistoja tietokoneellesi.
 addon-install-full-screen-blocked = Lisäosien asennus ei ole sallittu koko näytön tilassa tai ennen koko näytön tilaan siirtymistä.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -51,6 +61,9 @@ webext-perms-update-menu-item = { $addonName } vaatii uusia oikeuksia
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Poistetaanko { $name }?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Poistetaanko ”{ $name }” { -brand-shorter-name }-selaimesta?
@@ -96,6 +109,7 @@ addon-install-error-incorrect-hash = Lisäosaa ei voitu asentaa, koska se ei vas
 addon-install-error-corrupt-file = Ladattua lisäosaa ei voitu asentaa, koska asennuspaketti on virheellinen.
 addon-install-error-file-access = Lisäosaa { $addonName } ei voitu asentaa, koska { -brand-short-name } ei voi muokata tarvittavaa tiedostoa.
 addon-install-error-not-signed = { -brand-short-name } esti tätä sivustoa asentamasta varmentamatonta lisäosaa.
+addon-install-error-invalid-domain = Lisäosaa { $addonName } ei voi asentaa tästä sijainnista.
 addon-local-install-error-network-failure = Tätä lisäosaa ei voitu asentaa tiedostojärjestelmävirheen vuoksi.
 addon-local-install-error-incorrect-hash = Tätä lisäosaa ei voitu asentaa koska se ei vastaa { -brand-short-name }in odottamaa lisäosaa.
 addon-local-install-error-corrupt-file = Tätä lisäosaa ei voitu asentaa koska lisäosapaketti on ilmeisesti vaurioitunut.

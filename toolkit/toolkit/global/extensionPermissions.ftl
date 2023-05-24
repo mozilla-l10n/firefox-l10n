@@ -12,6 +12,7 @@ webext-perms-description-browserSettings = Lue ja muokkaa selaimen asetuksia
 webext-perms-description-browsingData = Tyhjennä viimeaikainen historia, evästeet ja liittyvät tiedot
 webext-perms-description-clipboardRead = Lue tietoja leikepöydältä
 webext-perms-description-clipboardWrite = Kirjoita tietoja leikepöydälle
+webext-perms-description-declarativeNetRequest = Estä sisältö millä tahansa sivulla
 webext-perms-description-devtools = Laajenna web-työkaluita käyttämään avoimissa välilehdissä olevia tietoja
 webext-perms-description-downloads = Lataa tiedostoja sekä lue ja muokkaa selaimen lataushistoriaa
 webext-perms-description-downloads-open = Avaa tietokoneellesi ladattuja tiedostoja
