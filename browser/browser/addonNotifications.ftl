@@ -15,6 +15,8 @@
 
 ##
 
+xpinstall-disabled-locked = Installation af software er deaktiveret af din systemadministrator.
+xpinstall-disabled = Installation af software er i øjeblikket deaktiveret. Klik på Aktiver og prøv igen.
 xpinstall-disabled-button =
     .label = Aktiver
     .accesskey = A
