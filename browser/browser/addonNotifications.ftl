@@ -7,21 +7,59 @@ xpinstall-prompt = { -brand-short-name } попречи на тази стран
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Може ли { $host } да инсталира добавка?
+xpinstall-prompt-message = Опитвате се да инсталирате добавка от { $host }. Уверете се, че имате доверие на страницата, преди да продължите.
 
 ##
 
+xpinstall-prompt-header-unknown = Може ли непозната страница да инсталира добавка?
+xpinstall-prompt-message-unknown = Опитвате се да инсталирате добавка от непозната страница. Уверете се, че имате доверие на страницата, преди да продължите.
+xpinstall-prompt-dont-allow =
+    .label = Забраняване
+    .accesskey = З
+xpinstall-prompt-never-allow =
+    .label = Никога
+    .accesskey = к
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Инсталиране
+    .accesskey = т
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 
 ##
 
+xpinstall-disabled-locked = Инсталирането на софтуер е изключено от вашия системен администратор.
+xpinstall-disabled = Инсталирането на софтуер в момента е изключено. Натиснете Включване и опитайте отново.
 xpinstall-disabled-button =
     .label = Разрешаване
     .accesskey = а
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = Разширението { $addonName } ({ $addonId }) е изключено от вашия системен администратор.
+addon-install-full-screen-blocked = Инсталирането на добавки не е позволено, докато сте в режим на цял екран или преди него.
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = Добавката „{ $addonName }“ е инсталирана във { -brand-short-name }
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = Добавката „{ $addonName }“ иска следните права
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Премахване на { $name }?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = Желаете ли да премахнете разширението „{ $name }“ от { -brand-shorter-name }?
+addon-removal-button = Премахване
+addon-removal-abuse-report-checkbox = Докладване разширението на { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -33,6 +71,9 @@ addon-download-verifying = Проверяване
 addon-install-cancel-button =
     .label = Отказ
     .accesskey = О
+addon-install-accept-button =
+    .label = Добавяне
+    .accesskey = д
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
@@ -55,9 +96,11 @@ addon-confirm-install-some-unsigned-message = Внимание: Страница
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-network-failure = Добавката не може да бъде изтеглена поради неуспешно установена връзка.
 addon-install-error-incorrect-hash = Добавката не може да бъде инсталирана, защото не е тази, която { -brand-short-name } очаква.
 addon-install-error-corrupt-file = Изтеглената добавка не може да бъде инсталирана, защото изглежда е повредена.
 addon-install-error-file-access = Добавката { $addonName } не може да бъде инсталирана, защото { -brand-short-name } не може да промени необходимите файлове.
+addon-install-error-not-signed = { -brand-short-name } предотврати опит за инсталиране на непроверена добавка от страницата.
 addon-local-install-error-network-failure = Добавката не може да бъде инсталирана поради грешка във файловата система.
 addon-local-install-error-incorrect-hash = Добавката не може да бъде инсталирана, защото не е тази, която { -brand-short-name } очаква.
 addon-local-install-error-corrupt-file = Добавката не може да бъде инсталирана, защото изглежда е повредена.
@@ -66,3 +109,4 @@ addon-local-install-error-not-signed = Добавката не може да б�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Добавката { $addonName } не може да бъде инсталирана, защото е несъвместима с { -brand-short-name } { $appVersion }.
+addon-install-error-blocklisted = Добавката { $addonName } не може да бъде инсталирана, защото носи висок риск от причиняване на проблеми със стабилността или сигурността.
