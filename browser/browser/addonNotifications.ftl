@@ -6,9 +6,11 @@
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Разрешить { $host } выполнить установку дополнения?
 
 ##
 
+xpinstall-prompt-header-unknown = Разрешить неизвестному сайту установить дополнение?
 xpinstall-prompt-dont-allow =
     .label = Не разрешать
     .accesskey = е
@@ -17,6 +19,12 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow-and-report =
     .label = Сообщить о подозрительном сайте
     .accesskey = п
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Продолжить установку
+    .accesskey = ж
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -28,6 +36,7 @@ xpinstall-prompt-never-allow-and-report =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) заблокировано вашим системным администратором.
+addon-install-full-screen-blocked = Установка дополнений не разрешена во время или перед входом в полноэкранный режим.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } добавлено в { -brand-short-name }
