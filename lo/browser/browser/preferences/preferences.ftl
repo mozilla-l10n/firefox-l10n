@@ -947,6 +947,9 @@ enhanced-tracking-protection-setting-standard =
 enhanced-tracking-protection-setting-strict =
     .label = ເຂັ້ມງວດ
     .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = ປັບແຕ່ງ
+    .accesskey = C
 
 ##
 
