@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = สร้างตัวปกปิด {
 firefox-relay-opt-in-confirmation-enable =
     .label = ดำเนินการต่อ
     .accesskey = ต
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = ปกป้องที่อยู่อีเมลของคุณ:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = ใช้ตัวปกปิดอีเมลของ { -relay-brand-name }
+firefox-relay-use-mask-title = ใช้ตัวปกปิดอีเมลของ { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = ใช้ตัวปกปิดอีเมล
+    .accesskey = ช
 firefox-relay-opt-in-confirmation-disable =
     .label = ไม่ต้องแสดงข้อความนี้อีก
     .accesskey = ม

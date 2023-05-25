@@ -182,7 +182,7 @@ newtab-section-menu-add-topsite = เพิ่มไซต์เด่น
 newtab-section-menu-add-search-engine = เพิ่มเครื่องมือค้นหา
 newtab-section-menu-move-up = ย้ายขึ้น
 newtab-section-menu-move-down = ย้ายลง
-newtab-section-menu-privacy-notice = ประกาศความเป็นส่วนตัว
+newtab-section-menu-privacy-notice = ข้อกำหนดความเป็นส่วนตัว
 
 ## Section aria-labels
 
