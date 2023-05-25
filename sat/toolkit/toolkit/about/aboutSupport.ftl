@@ -25,8 +25,26 @@ features-title = { -brand-short-name } ᱯᱷᱤᱪᱚᱨᱠᱚ
 features-name = ᱧᱩᱛᱩᱢ
 features-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
 features-id = ID
+processes-title = ᱨᱤᱢᱚᱴ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ
+processes-type = ᱞᱮᱠᱟ
+processes-count = ᱞᱮᱠᱷᱟ
 app-basics-title = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱢᱩᱞ ᱠᱚ
+app-basics-name = ᱧᱩᱛᱩᱢ
+app-basics-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
+app-basics-build-id = ᱛᱮᱭᱟᱨ ID
+app-basics-distribution-id = ᱦᱟᱹᱴᱤᱧ ID
+app-basics-update-channel = ᱪᱮᱱᱮᱞ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] ᱰᱟᱭᱨᱮᱠᱴᱚᱨᱤ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
+       *[other] ᱯᱚᱴᱚᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
+    }
+app-basics-update-history = ᱦᱟᱹᱞᱤᱭᱟᱠ ᱱᱟᱜᱟᱢ
 app-basics-show-update-history = ᱦᱟᱹᱞᱤ ᱨᱟᱠᱟᱵ ᱦᱤᱛᱟᱹᱞ ᱩᱫᱩᱜ ᱢᱮ᱾
+# Represents the path to the binary used to start the application.
+app-basics-binary = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱭᱱᱮᱨᱤ
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] ᱯᱨᱚᱯᱷᱟᱤᱞ ᱩᱱᱩᱫᱩᱠ ᱯᱩᱛᱷᱤ
@@ -35,8 +53,21 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = ᱦᱩᱭ ᱦᱚᱪᱚᱣᱟᱜ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ
 app-basics-build-config = ᱛᱮᱭᱟᱨ ᱨᱮᱭᱟᱜ ᱵᱷᱤᱛᱤᱨ ᱵᱮᱱᱟᱣ
 app-basics-user-agent = ᱵᱮᱵᱷᱟᱨ ᱠᱚᱭᱤᱡ ᱮᱡᱮᱱᱴ
+app-basics-os = OS
+app-basics-os-theme = OS ᱛᱷᱤᱢ
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = ᱢᱮᱢᱚᱨᱤ ᱵᱮᱵᱷᱟᱨ
+app-basics-performance = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
+app-basics-service-workers = ᱥᱚᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱠᱩᱜ ᱧᱩᱛᱩᱢ ᱞᱮᱠᱷᱟ ᱠᱟᱫᱟ ᱠᱚ
+app-basics-third-party = ᱛᱮᱥᱟᱨ ᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞ
+app-basics-profiles = ᱢᱚᱦᱲᱟᱠᱚ
+app-basics-launcher-process-status = ᱞᱚᱧᱪᱚᱨ ᱠᱟᱹᱢᱤᱮᱫᱟᱭ
 app-basics-multi-process-support = ᱟᱹᱰᱤ ᱞ ᱞᱮᱠᱟᱱ ᱠᱟᱹᱢᱤ ᱣᱤᱱᱰᱚ᱾
+app-basics-fission-support = ᱯᱷᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ
+app-basics-remote-processes-count = ᱨᱤᱢᱚᱴ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ
+app-basics-enterprise-policies = ᱮᱱᱴᱚᱨᱯᱨᱟᱭᱤᱡᱽ ᱱᱤᱛᱤ
 modified-key-prefs-title = ᱢᱚᱦᱚᱛ ᱵᱚᱫᱚᱞᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
 user-js-title = user.js ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
 user-js-description = ᱟᱢᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱯᱚᱴᱚᱢ ᱨᱮ <a data-l10n-name="user-js-link">user.js</a> ᱨᱮᱫ, ᱢᱮᱱᱟᱜᱼᱟ, ᱡᱟᱦᱟᱸ ᱨᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱥᱟᱹᱢᱤᱞ ᱢᱮᱱᱟᱜ ᱟ ᱚᱠᱟ ᱫᱚ { -brand-short-name } ᱫᱟᱨᱟᱭ ᱛᱮ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾
