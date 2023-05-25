@@ -104,6 +104,23 @@ graphics-diagnostics-title = ᱰᱟᱭᱟᱱᱚᱥᱴᱤᱠ
 graphics-failure-log-title = ᱰᱤᱜᱟᱹᱣ ᱞᱚᱜᱽ
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = ᱴᱷᱟᱹᱣᱠᱟᱹ ᱞᱚᱜᱽ
+graphics-crash-guards-title = ᱠᱨᱟᱥ ᱜᱟᱰ ᱵᱚᱸᱫ ᱠᱟᱱ ᱯᱷᱤᱪᱚᱨᱠᱚ
+graphics-workarounds-title = ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ
+graphics-device-pixel-ratios = ᱡᱷᱚᱨᱠᱟ ᱥᱟᱫᱷᱚᱱ ᱯᱤᱠᱥᱮᱞ ᱨᱮᱥᱤᱭᱚ
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = ᱡᱷᱚᱨᱠᱟ ᱯᱚᱨᱴᱟᱞ
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = ᱰᱮᱥᱠᱴᱚᱯ ᱥᱟᱪᱟᱨᱦᱮ
+place-database-title = ᱰᱟᱴᱟᱵᱮᱥ ᱫᱚᱦᱚᱭᱟᱭ
+place-database-stats = ᱥᱴᱟᱴᱤᱥᱴᱤᱠᱥ
+place-database-stats-show = ᱥᱴᱟᱴᱤᱥᱴᱤᱠᱥ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+place-database-stats-hide = ᱥᱴᱟᱴᱤᱥᱴᱤᱠᱥ ᱩᱠᱩᱭ ᱢᱮ
+place-database-stats-entity = ᱮᱱᱴᱤᱴᱤ
+place-database-stats-count = ᱞᱮᱠᱷᱟ
+place-database-stats-size-kib = ᱢᱟᱯ (KiB)
+place-database-stats-size-perc = ᱢᱟᱯ (%)
+place-database-stats-efficiency-perc = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ (%)
 a11y-title = ᱟᱹᱛᱩᱨ ᱫᱟᱲᱮ ᱛᱮᱫ
 a11y-activated = ᱪᱚᱜᱚᱲ ᱦᱚᱪᱚᱣᱟᱜ
 a11y-force-disabled = ᱟᱹᱛᱩᱨ ᱞᱮᱠᱷᱟ ᱟᱠᱚᱴ ᱦᱚᱪᱚ
