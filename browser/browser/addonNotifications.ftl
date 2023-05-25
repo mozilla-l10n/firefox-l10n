@@ -104,6 +104,7 @@ addon-confirm-install-unsigned-message =
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
+        [one] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať doplnok, ktorý nie je overený. Pokračujete na vlastné riziko.
         [few] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať { $addonCount } doplnky, niektoré z nich nie sú overené. Pokračujete na vlastné riziko.
        *[other] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať { $addonCount } doplnkov, niektoré z nich nie sú overené. Pokračujete na vlastné riziko.
     }
