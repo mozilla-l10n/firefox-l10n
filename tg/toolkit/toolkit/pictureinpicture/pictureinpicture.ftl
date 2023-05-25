@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Зерунвонҳо
     .tooltip = Зерунвонҳо
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Экрани пурра
+    .tooltip = Экрани пурра (ду бор зер кунед ё { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Баромад аз экрани пурра
+    .tooltip = Баромад аз экрани пурра (ду бор зер кунед ё { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Баромад аз экрани пурра
     .tooltip = Баромад аз экрани пурра (ду бор зер кунед)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Ба қафо
     .tooltip = Ба қафо (←)
