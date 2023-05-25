@@ -57,7 +57,7 @@ pictureinpicture-exit-fullscreen-btn =
     .tooltip = Gadael sgrin lawn (clic dwbl)
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
 pictureinpicture-toggle-fullscreen-shortcut =
-    .key = L
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Mynd yn ôl
     .tooltip = Mynd yn ôl (←)
