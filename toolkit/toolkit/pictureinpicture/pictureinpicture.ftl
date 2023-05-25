@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = 字幕
     .tooltip = 字幕
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = 全屏
+    .tooltip = 全屏（双击或按 { $shortcut } 键）
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = 退出全屏
+    .tooltip = 退出全屏（双击或按 { $shortcut } 键）
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = 退出全屏
     .tooltip = 退出全屏（双击）
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = 快退
     .tooltip = 快退（←）
