@@ -140,12 +140,48 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱯᱨᱚᱠᱟᱨ
 sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = ᱟᱨᱜᱭᱩᱢᱮᱱᱴᱥ
+troubleshoot-mode-title = ᱮᱴᱠᱮᱴᱚᱬᱮᱠᱚ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱢᱮ
+restart-in-troubleshoot-mode-label = ᱦᱟᱨᱠᱮᱛ ᱴᱷᱤᱠ ᱢᱳᱰ…
+clear-startup-cache-title = ᱥᱴᱟᱴᱚᱯ ᱠᱮᱪ ᱠᱚ ᱯᱷᱟᱨᱪᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟᱭ ᱢᱮ
+clear-startup-cache-label = ᱥᱴᱟᱴᱚᱯᱷ ᱠᱮᱪ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ…
+startup-cache-dialog-title2 = ᱥᱴᱟᱴᱚᱯᱷ ᱠᱮᱪ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵᱟᱢ ᱥᱮ ?
+startup-cache-dialog-body2 = ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱥᱟᱡᱟᱣᱠᱚ ᱥᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱠᱚ ᱵᱟᱭ ᱚᱪᱚᱜᱽᱟᱭ ᱾
+restart-button-label = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
 
 ## Media titles
 
+audio-backend = ᱥᱟᱰᱮ ᱵᱮᱠᱮᱱᱰ
+max-audio-channels = ᱢᱮᱠᱥ ᱪᱮᱱᱮᱞᱥ
+sample-rate = ᱥᱩᱥᱤ ᱥᱮᱢᱯᱚᱞ ᱫᱚᱨ
+roundtrip-latency = ᱨᱟᱣᱱᱰᱴᱨᱤᱯ ᱞᱮᱴᱮᱱᱥᱤ (ᱥᱴᱟᱱᱰᱟᱰ ᱰᱮᱣᱤᱮᱥᱚᱱ)
+media-title = ᱢᱤᱰᱤᱭᱟ
+media-output-devices-title = ᱵᱟᱦᱨᱮ ᱥᱟᱫᱷᱚᱱᱠᱚ
+media-input-devices-title = ᱵᱷᱤᱛᱤᱨ ᱥᱟᱫᱷᱚᱱᱠᱚ
+media-device-name = ᱧᱩᱛᱩᱢ
+media-device-group = ᱫᱳᱞ
+media-device-vendor = ᱵᱮᱯᱟᱨᱤ
+media-device-state = ᱯᱚᱱᱚᱛ
+media-device-preferred = ᱠᱩᱥᱤᱠᱚᱱ
+media-device-format = ᱛᱮᱭᱟᱨ
+media-device-channels = ᱪᱟᱱᱮᱞ
+media-device-rate = ᱫᱚᱨ
+media-device-latency = ᱞᱮᱴᱮᱱᱥᱤ
+media-capabilities-title = ᱢᱤᱰᱤᱭᱟ ᱫᱟᱲᱮᱠᱚ
+media-codec-support-info = ᱠᱳᱰᱮᱠ ᱜᱚᱲᱚ ᱵᱤᱵᱨᱚᱬ
+# List all the entries of the database.
+media-capabilities-enumerate = ᱮᱱᱭᱩᱢᱮᱨᱮᱴ ᱰᱟᱴᱟᱵᱮᱥ
 
 ##
 
+intl-title = ᱡᱮᱜᱮᱛᱟᱹᱨᱤ ᱟᱨ ᱛᱚᱨᱡᱚᱢᱟ
+intl-app-title = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱥᱟᱡᱟᱣᱠᱚ
+intl-locales-requested = ᱱᱮᱯᱚᱨ ᱠᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ
+intl-locales-available = ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ
+intl-locales-supported = ᱮᱯ ᱯᱟᱹᱨᱥᱤᱠᱚ
+intl-locales-default = ᱢᱩᱞ ᱯᱟᱹᱨᱥᱤ
+intl-os-title = ᱚᱯᱨᱮᱴᱤᱝ ᱥᱭᱥᱴᱚᱢ
+intl-os-prefs-system-locales = ᱥᱤᱥᱴᱚᱢ ᱯᱟᱹᱨᱥᱤᱠᱚ
 
 ## Remote Debugging
 ##
