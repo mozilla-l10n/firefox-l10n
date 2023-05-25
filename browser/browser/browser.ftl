@@ -994,6 +994,11 @@ firefox-relay-offer-what-relay-does = Välitämme kaikki sähköpostit sivustolt
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Turvalliset ja helppokäyttöiset maskit suojaavat henkilöllisyyttäsi sekä estävät roskapostia piilottamalla sähköpostiosoitteesi.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Kaikki sähköpostimaskeihisi lähetetyt sähköpostit välitetään edelleen osoitteeseen <strong>{ $useremail }</strong> (ellet päätä estää saapuvia viestejä).
+firefox-relay-offer-legal-notice = Napsauttamalla “Käytä sähköpostimaskia” hyväksyt <label data-l10n-name="tos-url">käyttöehdot</label> ja <label data-l10n-name="privacy-url">tietosuojakäytännön</label>.
 
 ## Add-on Pop-up Notifications
 
