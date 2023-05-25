@@ -182,6 +182,7 @@ intl-locales-supported = ᱮᱯ ᱯᱟᱹᱨᱥᱤᱠᱚ
 intl-locales-default = ᱢᱩᱞ ᱯᱟᱹᱨᱥᱤ
 intl-os-title = ᱚᱯᱨᱮᱴᱤᱝ ᱥᱭᱥᱴᱚᱢ
 intl-os-prefs-system-locales = ᱥᱤᱥᱴᱚᱢ ᱯᱟᱹᱨᱥᱤᱠᱚ
+intl-regional-prefs = ᱨᱤᱡᱚᱱᱟᱞ ᱠᱩᱥᱤᱠᱚ
 
 ## Remote Debugging
 ##
@@ -192,6 +193,9 @@ intl-os-prefs-system-locales = ᱥᱤᱥᱴᱚᱢ ᱯᱟᱹᱨᱥᱤᱠᱚ
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = ᱨᱤᱢᱚᱴ ᱰᱮᱵᱚᱜᱤᱝ (ᱠᱨᱚᱢᱤᱭᱚᱢ ᱯᱨᱚᱴᱚᱠᱚᱞ)
+remote-debugging-accepting-connections = ᱡᱩᱲᱟᱹᱣᱠᱚ ᱦᱟᱛᱟᱣᱮᱫᱟ
+remote-debugging-url = URL
 
 ##
 
@@ -238,12 +242,14 @@ text-copied = ᱚᱱᱚᱞ ᱨᱮᱴᱚᱵᱚᱨᱰ ᱨᱮ ᱱᱚᱠᱚᱞᱮᱱ
 blocked-driver = ᱟᱢᱟᱜ ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱰᱨᱟᱤᱵᱟᱨ ᱵᱟᱨᱥᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱾
 blocked-gfx-card = ᱵᱟᱝ ᱠᱚᱨᱟᱣᱠᱟᱱ ᱰᱨᱟᱤᱣᱟᱨ ᱠᱟᱛᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱟᱢᱟᱜ ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱠᱟᱨᱰ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱾
 blocked-os-version = ᱟᱢᱟᱠ ᱪᱟᱞᱩ ᱥᱮᱥᱴᱮᱢ ᱵᱟᱨᱥᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱾
+blocked-mismatched-version = ᱟᱢᱟᱜ ᱜᱽᱨᱟᱯᱷᱤᱠ ᱰᱨᱟᱭᱵᱷᱚᱨ ᱵᱷᱚᱨᱥᱚᱱ ᱨᱮᱡᱤᱥᱴᱨᱤ ᱟᱨ DLL ᱛᱟᱞᱟᱨᱮ ᱵᱷᱮᱜᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱾
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ᱪᱤᱛᱟᱹᱨ ᱰᱨᱟᱤᱵᱟᱨ ᱵᱟᱨᱥᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱵᱟᱨᱥᱱ { $driverVersion } ᱟᱨ ᱵᱟᱝ ᱱᱟᱣᱟᱱᱟᱜ ᱨᱮᱟᱢᱟᱜ ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱰᱨᱟᱤᱣᱟᱨ ᱦᱟᱹᱞᱤ ᱦᱚᱪᱚ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮᱸ ᱾
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ᱯᱩᱥᱴᱟᱹᱣ ᱴᱟᱭᱤᱯ ᱯᱟᱨᱟᱢᱤᱴᱟᱨ
+compositing = ᱛᱮᱭᱟᱨᱚᱜ ᱠᱟᱱᱟ
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
