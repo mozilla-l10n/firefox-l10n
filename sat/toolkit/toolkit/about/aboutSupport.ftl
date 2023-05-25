@@ -299,9 +299,31 @@ wmfvpxvideo-crash-guard = WMF VPX ᱣᱤᱰᱤᱭᱚ ᱰᱤᱠᱚᱰᱚᱨ
 reset-on-next-restart = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱨᱮ ᱫᱩᱦᱲᱟᱹ ᱨᱤᱥᱮᱴ ᱯᱮ
 gpu-process-kill-button = GPU ᱞᱟᱦᱟᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 gpu-device-reset = ᱥᱟᱫᱷᱚᱱ ᱨᱤᱥᱮᱴ ᱢᱮ
+gpu-device-reset-button = ᱥᱟᱫᱷᱚᱱ ᱨᱤᱥᱮᱴ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
+uses-tiling = ᱴᱤᱞᱤᱝ ᱵᱮᱵᱷᱟᱨᱟᱭ
+content-uses-tiling = ᱴᱤᱞᱤᱝ ᱵᱮᱵᱷᱟᱨᱟᱭ (ᱡᱤᱱᱤᱥ)
+off-main-thread-paint-enabled = ᱵᱟᱦᱨᱮ ᱢᱩᱞ ᱛᱷᱚᱠ ᱪᱤᱛᱟᱹᱨ ᱮᱢ ᱪᱷᱚ ᱮᱱᱟ
+off-main-thread-paint-worker-count = ᱵᱟᱦᱨᱮ ᱢᱩᱞ ᱛᱷᱚᱠ ᱪᱤᱛᱟᱹᱨ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱦᱤᱥᱟᱹᱵ
+target-frame-rate = ᱴᱟᱨᱜᱮᱴ ᱯᱷᱨᱮᱢ ᱫᱚᱨ
 min-lib-versions = ᱟᱸᱥᱟᱜ ᱠᱚᱢᱩᱛᱟᱹᱨ ᱵᱟᱨᱥᱱ
 loaded-lib-versions = ᱵᱮᱵᱷᱟᱨ ᱨᱮ ᱵᱟᱨᱥᱟᱱ
+has-seccomp-bpf = Seccomp-BPF (ᱥᱤᱥᱴᱚᱢ ᱠᱚᱞ ᱪᱷᱟᱹᱱᱤ)
+has-seccomp-tsync = Seccomp ᱛᱷᱨᱮᱰ ᱟᱹᱭᱩᱨ ᱢᱤᱫ
 has-user-namespaces = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱡᱟᱭᱜᱟ ᱠᱚ
+has-privileged-user-namespaces = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢᱡᱟᱭᱜᱟ ᱞᱟᱹᱜᱤᱫ ᱯᱨᱤᱵᱷᱤᱞᱮᱡᱮᱰ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
+can-sandbox-content = ᱡᱤᱱᱤᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱮᱱᱰᱵᱚᱠᱥᱤᱝ
+can-sandbox-media = ᱢᱤᱰᱤᱭᱟ ᱯᱞᱚᱜᱤᱱ ᱥᱮᱱᱰᱵᱚᱠᱥᱤᱝ
+content-sandbox-level = ᱡᱤᱱᱤᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱮᱱᱰᱵᱚᱠᱥᱤᱝ ᱞᱮᱣᱮᱞ
+effective-content-sandbox-level = ᱵᱮᱥ ᱡᱤᱱᱤᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱮᱱᱰᱵᱚᱠᱥᱤᱝ ᱞᱮᱣᱮᱞ
+content-win32k-lockdown-state = Win32k ᱞᱚᱠᱰᱟᱣᱱ ᱥᱴᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱠᱚᱱᱴᱮᱱᱴ ᱯᱨᱚᱥᱮᱥᱮᱥ
+support-sandbox-gpu-level = GPU ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱮᱱᱰᱵᱚᱠᱥᱤᱝ ᱞᱮᱣᱮᱞ
+sandbox-proc-type-content = ᱡᱤᱱᱤᱥ
+sandbox-proc-type-file = ᱨᱮᱫᱽ ᱡᱤᱱᱤᱥ
+sandbox-proc-type-media-plugin = ᱢᱤᱰᱤᱭᱟ ᱯᱞᱚᱜᱤᱱ
+sandbox-proc-type-data-decoder = ᱰᱟᱴᱟ ᱰᱤᱠᱚᱰᱚᱨ
+startup-cache-title = ᱥᱴᱚᱴᱚᱯᱷ ᱠᱮᱪ
+startup-cache-disk-cache-path = ᱰᱤᱥᱠ ᱠᱮᱪ ᱦᱚᱨ
+startup-cache-ignore-disk-cache = ᱰᱤᱥᱠ ᱠᱮᱪ ᱮᱨᱮᱲ ᱜᱤᱰᱤ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
