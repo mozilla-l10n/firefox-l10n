@@ -435,6 +435,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Kettu kannettavan tietokoneen näytöllä heiluttamassa. Kannettavassa tietokoneessa on hiiri kytkettynä.
 onboarding-device-migration-title = Tervetuloa takaisin!
 onboarding-device-migration-subtitle = Kirjaudu sisään { -fxaccount-brand-name(capitalization: "sentence") }llesi, niin voit tuoda kirjanmerkkisi, salasanasi ja historiasi uudelle laitteellesi.
 onboarding-device-migration-primary-button-label = Kirjaudu sisään
