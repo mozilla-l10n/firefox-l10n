@@ -209,6 +209,9 @@ appmenu-recently-closed-tabs =
     .label = แท็บที่ปิดล่าสุด
 appmenu-recently-closed-windows =
     .label = หน้าต่างที่ปิดล่าสุด
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = ค้นหาประวัติ
 
 ## Help panel
 
