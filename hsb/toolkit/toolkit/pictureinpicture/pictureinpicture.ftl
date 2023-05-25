@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Podtitule
     .tooltip = Podtitule
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Połna wobrazowka
+    .tooltip = Połna wobrazowka (klikńće dwójce abo wužiwajće { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Połnu wobrazowku wopušćić
+    .tooltip = Połnu wobrazowku wopušćić (klikńće dwójce abo wužiwajće { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Połnu wobrazowku wopušćić
     .tooltip = Połnu wobrazowku wopušćić (dwójne kliknjenje)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Dozady
     .tooltip = Dozady (←)
