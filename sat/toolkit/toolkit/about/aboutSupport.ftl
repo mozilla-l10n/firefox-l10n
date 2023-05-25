@@ -121,12 +121,25 @@ place-database-stats-count = ᱞᱮᱠᱷᱟ
 place-database-stats-size-kib = ᱢᱟᱯ (KiB)
 place-database-stats-size-perc = ᱢᱟᱯ (%)
 place-database-stats-efficiency-perc = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ (%)
+place-database-stats-sequentiality-perc = ᱥᱤᱠᱣᱮᱱᱥᱤᱭᱟᱞᱤᱴᱤ (%)
+place-database-integrity = ᱤᱱᱴᱮᱜᱽᱨᱤᱴᱭ
+place-database-verify-integrity = ᱤᱱᱴᱮᱜᱽᱨᱤᱴᱭ ᱯᱩᱥᱴᱟᱹᱣ ᱢᱮ
 a11y-title = ᱟᱹᱛᱩᱨ ᱫᱟᱲᱮ ᱛᱮᱫ
 a11y-activated = ᱪᱚᱜᱚᱲ ᱦᱚᱪᱚᱣᱟᱜ
 a11y-force-disabled = ᱟᱹᱛᱩᱨ ᱞᱮᱠᱷᱟ ᱟᱠᱚᱴ ᱦᱚᱪᱚ
+a11y-handler-used = ᱮᱠᱥᱮᱥᱤᱵᱚᱞ ᱯᱮᱱᱰᱣᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱱᱟ
+a11y-instantiator = ᱮᱠᱥᱮᱥᱤᱵᱤᱵᱤᱞᱤᱴᱤ ᱤᱱᱥᱴᱟᱱᱴᱚᱨ
 library-version-title = ᱯᱩᱛᱷᱤ ᱳᱲᱟᱜ ᱵᱟᱨᱥᱟᱱ
 copy-text-to-clipboard-label = ᱨᱮᱴᱚᱯᱵᱚᱨᱰ ᱨᱮ ᱚᱱᱚᱞ ᱱᱚᱠᱚᱞ ᱢᱮ ᱾
 copy-raw-data-to-clipboard-label = ᱨᱮᱴᱚᱯᱵᱚᱨᱰ ᱨᱮ ᱵᱮᱨᱮᱞ ᱰᱟᱴᱟ ᱱᱚᱠᱚᱞ ᱢᱮ᱾
+sandbox-title = ᱥᱮᱱᱰᱵᱚᱠᱥ
+sandbox-sys-call-log-title = ᱨᱤᱡᱮᱠᱴ ᱠᱟᱱ ᱥᱤᱥᱴᱚᱢ ᱠᱚᱞᱠᱚ
+sandbox-sys-call-index = #
+sandbox-sys-call-age = ᱴᱤᱡ ᱢᱟᱲᱟᱝ ᱨᱮ
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱯᱨᱚᱠᱟᱨ
+sandbox-sys-call-number = Syscall
 
 ## Media titles
 
