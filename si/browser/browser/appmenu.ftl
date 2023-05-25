@@ -157,6 +157,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-label =
     .label = වියමන සංවර්ධක
 profiler-popup-presets-firefox-label =
@@ -188,6 +193,9 @@ appmenu-recently-closed-tabs =
     .label = මෑත දී වසා දැමූ පටිති
 appmenu-recently-closed-windows =
     .label = මෑත දී වසා දැමූ කවුළු
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = ඉතිහාසය සොයන්න
 
 ## Help panel
 
