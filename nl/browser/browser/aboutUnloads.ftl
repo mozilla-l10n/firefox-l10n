@@ -20,7 +20,7 @@ about-unloads-intro =
 about-unloads-learn-more =
     Zie <a data-l10n-name="doc-link">Tabbladen lossen</a> voor meer info over
     de functie en deze pagina.
-about-unloads-last-updated = Last updated: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-updated = Laatst bijgewerkt: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Lossen
     .title = Tabblad met de hoogste prioriteit lossen
 about-unloads-no-unloadable-tab = Er zijn geen te lossen tabbladen.
