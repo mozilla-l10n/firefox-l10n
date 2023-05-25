@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Субтитры
     .tooltip = Субтитры
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = На весь экран
+    .tooltip = На весь экран (двойное нажатие или { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Выйти из полноэкранного режима
+    .tooltip = Выйти из полноэкранного режима (двойное нажатие или { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Выйти из полноэкранного режима
     .tooltip = Выйти из полноэкранного режима (двойной щелчок)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = А
 pictureinpicture-seekbackward-btn =
     .aria-label = Назад
     .tooltip = Назад (←)
