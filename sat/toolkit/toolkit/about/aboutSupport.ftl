@@ -68,11 +68,42 @@ app-basics-multi-process-support = ᱟᱹᱰᱤ ᱞ ᱞᱮᱠᱟᱱ ᱠᱟᱹᱢ
 app-basics-fission-support = ᱯᱷᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ
 app-basics-remote-processes-count = ᱨᱤᱢᱚᱴ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ
 app-basics-enterprise-policies = ᱮᱱᱴᱚᱨᱯᱨᱟᱭᱤᱡᱽ ᱱᱤᱛᱤ
+app-basics-location-service-key-google = Google ᱡᱟᱭᱜᱟ ᱠᱟᱹᱢᱤ ᱪᱟᱹᱵᱤ
+app-basics-safebrowsing-key-google = Google ᱨᱩᱠᱷᱤᱭᱟᱹᱵᱽᱨᱟᱣᱡᱤᱝ ᱪᱟᱹᱵᱤ
+app-basics-key-mozilla = Mozilla ᱨᱮᱭᱟᱜ ᱡᱟᱭᱜᱟ ᱠᱟᱹᱢᱤ ᱪᱟᱹᱵᱤ
+app-basics-safe-mode = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱳᱰ
+app-basics-memory-size = ᱢᱚᱱᱮ ᱢᱟᱯ (RAM)
+app-basics-disk-available = ᱰᱤᱥᱠ ᱡᱟᱭᱜᱟ ᱢᱮᱱᱟᱜᱼᱟ
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
+show-dir-label =
+    { PLATFORM() ->
+        [macos] ᱨᱚᱫ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+        [windows] ᱨᱮᱫ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+       *[other] ᱰᱟᱭᱨᱮᱠᱴᱚᱨᱤ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+    }
+environment-variables-title = ᱥᱟᱪᱟᱨᱦᱮ ᱵᱚᱫᱚᱞᱠᱚ
+environment-variables-name = ᱧᱩᱛᱩᱢ
+environment-variables-value = ᱜᱚᱱᱚᱝ
+experimental-features-title = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱷᱤᱪᱚᱨᱠᱚ
+experimental-features-name = ᱧᱩᱛᱩᱢ
+experimental-features-value = ᱜᱚᱱᱚᱝ
 modified-key-prefs-title = ᱢᱚᱦᱚᱛ ᱵᱚᱫᱚᱞᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
+modified-prefs-name = ᱧᱩᱛᱩᱢ
+modified-prefs-value = ᱜᱚᱱᱚᱝ
 user-js-title = user.js ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
 user-js-description = ᱟᱢᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱯᱚᱴᱚᱢ ᱨᱮ <a data-l10n-name="user-js-link">user.js</a> ᱨᱮᱫ, ᱢᱮᱱᱟᱜᱼᱟ, ᱡᱟᱦᱟᱸ ᱨᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱥᱟᱹᱢᱤᱞ ᱢᱮᱱᱟᱜ ᱟ ᱚᱠᱟ ᱫᱚ { -brand-short-name } ᱫᱟᱨᱟᱭ ᱛᱮ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾
 locked-key-prefs-title = ᱢᱚᱦᱚᱛ ᱠᱩᱞᱩᱯᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱾
+locked-prefs-name = ᱧᱩᱛᱩᱢ
+locked-prefs-value = ᱜᱚᱱᱚᱝ
 graphics-title = ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱠᱚ
+graphics-features-title = ᱯᱷᱤᱪᱚᱨᱠᱚ
+graphics-diagnostics-title = ᱰᱟᱭᱟᱱᱚᱥᱴᱤᱠ
+graphics-failure-log-title = ᱰᱤᱜᱟᱹᱣ ᱞᱚᱜᱽ
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
 a11y-title = ᱟᱹᱛᱩᱨ ᱫᱟᱲᱮ ᱛᱮᱫ
 a11y-activated = ᱪᱚᱜᱚᱲ ᱦᱚᱪᱚᱣᱟᱜ
 a11y-force-disabled = ᱟᱹᱛᱩᱨ ᱞᱮᱠᱷᱟ ᱟᱠᱚᱴ ᱦᱚᱪᱚ
