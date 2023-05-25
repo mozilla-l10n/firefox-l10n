@@ -251,6 +251,8 @@ set-default-pdf-handler-primary = Selvä
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Uusi laite tulevaisuudessa?
+fxa-sync-cfr-body = Varmista, että uusimmat kirjanmerkkisi, salasanasi ja välilehdet tulevat mukanasi aina, kun avaat uuden { -brand-product-name }-selaimen.
 fxa-sync-cfr-primary = Lue lisää
     .accesskey = L
 fxa-sync-cfr-secondary = Muistuta myöhemmin
@@ -258,4 +260,7 @@ fxa-sync-cfr-secondary = Muistuta myöhemmin
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Käytätkö vanhempaa laitetta?
+device-migration-fxa-spotlight-body = Varmuuskopioi tietosi varmistaaksesi, ettet menetä tärkeitä tietoja, kuten kirjanmerkkejä ja salasanoja – varsinkin jos vaihdat uuteen laitteeseen.
+device-migration-fxa-spotlight-primary-button = Kuinka varmuuskopioida omat tiedot
 device-migration-fxa-spotlight-link = Muistuta myöhemmin
