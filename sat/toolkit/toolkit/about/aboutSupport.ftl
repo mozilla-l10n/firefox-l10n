@@ -324,10 +324,39 @@ sandbox-proc-type-data-decoder = ᱰᱟᱴᱟ ᱰᱤᱠᱚᱰᱚᱨ
 startup-cache-title = ᱥᱴᱚᱴᱚᱯᱷ ᱠᱮᱪ
 startup-cache-disk-cache-path = ᱰᱤᱥᱠ ᱠᱮᱪ ᱦᱚᱨ
 startup-cache-ignore-disk-cache = ᱰᱤᱥᱠ ᱠᱮᱪ ᱮᱨᱮᱲ ᱜᱤᱰᱤ
+startup-cache-found-disk-cache-on-init = ᱰᱤᱥᱠ ᱠᱮᱪ ᱮᱛᱦᱚᱵ ᱨᱮ ᱧᱟᱢᱮᱱᱟ
+startup-cache-wrote-to-disk-cache = ᱰᱤᱥᱠ ᱠᱮᱪ ᱨᱮ ᱚᱞᱮᱱᱟ
+launcher-process-status-0 = ᱮᱢ ᱪᱷᱚ ᱮᱱᱟ
+launcher-process-status-1 = ᱰᱤᱜᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱚᱸᱫ ᱮᱱᱟ
+launcher-process-status-2 = ᱡᱩᱨ ᱡᱚᱵᱚᱨᱫᱚᱥᱛ ᱵᱚᱸᱫ ᱮᱱᱟ
+launcher-process-status-unknown = ᱵᱟᱝᱵᱟᱲᱟᱭ ᱥᱴᱟᱴᱚᱥ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱛᱮ ᱵᱚᱸᱫ ᱮᱱᱟ
+fission-status-experiment-treatment = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱛᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
+fission-status-disabled-by-e10s-env = ᱥᱟᱪᱟᱨᱦᱮ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+fission-status-enabled-by-env = ᱥᱟᱪᱟᱨᱦᱮ ᱞᱮᱠᱟᱛᱮ ᱮᱢ ᱠᱟᱱᱟ
+fission-status-disabled-by-env = ᱥᱟᱪᱟᱨᱦᱮ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+fission-status-enabled-by-default = ᱢᱩᱞ ᱞᱮᱠᱟᱛᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
+fission-status-disabled-by-default = ᱢᱩᱞ ᱞᱮᱠᱟᱛᱮ ᱵᱚᱸᱫ ᱪᱷᱚ ᱠᱟᱱᱟ
+fission-status-enabled-by-user-pref = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱞᱮᱠᱷᱟᱛᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
+fission-status-disabled-by-user-pref = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱚᱸᱫ ᱪᱷᱚ ᱠᱟᱱᱟ
+fission-status-disabled-by-e10s-other = E10s ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+fission-status-enabled-by-rollout = ᱯᱷᱮᱡ ᱨᱚᱞᱟᱣᱴ ᱛᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
+async-pan-zoom = ᱮᱥᱤᱱᱠᱨᱚᱱᱚᱥ ᱯᱮᱱ/ᱡᱩᱢ
+apz-none = ᱵᱟᱹᱱᱩᱜᱼᱟ
+wheel-enabled = ᱪᱚᱠᱟ ᱟᱫᱮᱨ ᱮᱢᱪᱷᱚ ᱠᱟᱱᱟ
+touch-enabled = ᱴᱚᱪ ᱟᱫᱮᱨ ᱮᱢᱪᱷᱚ ᱠᱟᱱᱟ
+drag-enabled = ᱥᱠᱨᱚᱞᱵᱟᱨ ᱚᱨᱟᱬᱜᱚ ᱮᱢᱪᱷᱚ ᱠᱟᱱᱟ
+keyboard-enabled = ᱠᱤᱵᱚᱰ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
+autoscroll-enabled = ᱟᱡ ᱛᱮ ᱥᱠᱨᱚᱞ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
+zooming-enabled = ᱥᱞᱤᱢ ᱯᱤᱧᱪ-ᱡᱩᱢ ᱮᱢ ᱪᱷᱚ ᱟᱠᱟᱱᱟ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
