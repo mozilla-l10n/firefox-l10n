@@ -361,12 +361,19 @@ zooming-enabled = ᱥᱞᱤᱢ ᱯᱤᱧᱪ-ᱡᱩᱢ ᱮᱢ ᱪᱷᱚ ᱟᱠᱟ
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = ᱮᱥᱤᱝᱠ ᱣᱤᱞ ᱟᱫᱮᱨ ᱵᱟᱝ ᱥᱚᱦᱚᱫ ᱟᱠᱟᱱ ᱠᱩᱥᱤᱠᱚ ᱠᱷᱟᱹᱛᱤᱨ ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱᱟ: { $preferenceKey }
+touch-warning = ᱮᱥᱤᱝᱠ ᱴᱚᱪ ᱟᱫᱮᱨ ᱵᱟᱝ ᱥᱚᱦᱚᱫ ᱟᱠᱟᱱ ᱠᱩᱥᱤᱠᱚ ᱠᱷᱟᱹᱛᱤᱨ ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱᱟ: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = ᱵᱟᱝᱪᱩᱦᱩᱞ
+policies-active = ᱪᱩᱦᱩᱞ
+policies-error = ᱵᱷᱩᱞ
 
 ## Printing section
 
+support-printing-title = ᱪᱷᱟᱯᱟᱜ ᱠᱟᱱᱟ
+support-printing-troubleshoot = ᱴᱨᱟᱹᱵᱟᱹᱞᱥᱩᱴᱤᱝ
 
 ## Normandy sections
 
