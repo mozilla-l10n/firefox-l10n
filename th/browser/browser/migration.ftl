@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = หน้าต่างและแท็บ
 browser-data-session-label =
     .value = หน้าต่างและแท็บ
+browser-data-payment-methods-checkbox =
+    .label = วิธีการชำระเงิน
+browser-data-payment-methods-label =
+    .value = วิธีการชำระเงิน

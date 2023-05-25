@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = เรียกดูเวิลด์ไวด์เว็บ
 desktop-entry-generic-name = เว็บเบราว์เซอร์
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = เว็บเบราว์เซอร์ { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = อินเทอร์เน็ต;เบราว์
 
 desktop-action-new-window-name = หน้าต่างใหม่
 desktop-action-new-private-window-name = หน้าต่างส่วนตัวใหม่
+desktop-action-open-profile-manager = เปิดตัวจัดการโปรไฟล์
