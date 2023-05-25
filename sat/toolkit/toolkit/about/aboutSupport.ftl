@@ -250,16 +250,55 @@ try-newer-driver = ᱪᱤᱛᱟᱹᱨ ᱰᱨᱟᱤᱵᱟᱨ ᱵᱟᱨᱥᱱ ᱞ�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ᱯᱩᱥᱴᱟᱹᱣ ᱴᱟᱭᱤᱯ ᱯᱟᱨᱟᱢᱤᱴᱟᱨ
 compositing = ᱛᱮᱭᱟᱨᱚᱜ ᱠᱟᱱᱟ
+hardware-h264 = ᱦᱮᱰᱣᱮᱨ H264 ᱰᱤᱠᱚᱰᱤᱝ
+main-thread-no-omtc = ᱢᱩᱞ ᱛᱷᱨᱮᱰ, OMTC ᱫᱚ ᱵᱟᱝᱟ
+yes = ᱦᱚᱭ
+no = ᱵᱟᱝ
+unknown = ᱵᱟᱝ ᱵᱟᱲᱟᱭᱟᱜ
+virtual-monitor-disp = ᱣᱟᱹᱨᱪᱩᱣᱟᱞ ᱢᱚᱱᱤᱴᱚᱨ ᱰᱤᱥᱯᱞᱮ
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = ᱧᱟᱢᱮᱱᱟ
+missing = ᱟᱫ
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
+gpu-description = ᱵᱤᱵᱨᱚᱬ
 gpu-vendor-id = ᱟᱥᱨᱤᱧᱤᱡᱟᱜ ID
 gpu-device-id = ᱰᱤᱵᱷᱟᱤᱥ ID
 gpu-subsys-id = ᱠᱷᱩᱸᱴ ᱥᱤᱥᱴᱮᱢ ID
+gpu-drivers = ᱰᱨᱟᱭᱵᱷᱚᱨᱠᱚ
+gpu-ram = RAM
+gpu-driver-vendor = ᱰᱨᱟᱭᱵᱷᱚᱨ ᱵᱮᱯᱟᱨᱤ
 gpu-driver-version = ᱰᱨᱟᱤᱣᱟᱨ ᱵᱟᱨᱥᱱ
 gpu-driver-date = ᱰᱨᱟᱤᱵᱟᱨ ᱢᱟᱹᱦᱤᱫ
+gpu-active = ᱪᱩᱦᱩᱞ
+webgl1-wsiinfo = WebGL 1 ᱰᱨᱟᱭᱵᱷᱚᱨ WSI ᱵᱤᱵᱨᱚᱬ
+webgl1-renderer = WebGL 1 ᱰᱨᱟᱭᱵᱷᱚᱨ ᱨᱮᱱᱰᱨᱚᱨ
+webgl1-version = WebGL 1 ᱰᱨᱟᱭᱵᱷᱚᱨ ᱵᱷᱚᱨᱥᱚᱱ
+webgl1-driver-extensions = WebGL 1 ᱰᱨᱟᱭᱵᱷᱚᱨ ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ
+webgl1-extensions = WebGL 1 ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ
+webgl2-wsiinfo = WebGL 2 ᱰᱨᱟᱭᱵᱷᱚᱨ WSI ᱵᱤᱵᱨᱚᱬ
+webgl2-renderer = WebGL 2 ᱰᱨᱟᱭᱵᱷᱚᱨ ᱨᱮᱱᱰᱨᱚᱨ
+webgl2-version = WebGL 2 ᱰᱨᱟᱭᱵᱷᱚᱨ ᱵᱷᱚᱨᱥᱚᱱ
+webgl2-driver-extensions = WebGL 2 ᱰᱨᱟᱭᱵᱷᱚᱨ ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ
+webgl2-extensions = WebGL 2 ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ
+webgpu-default-adapter = WebGPU ᱢᱩᱞ ᱮᱰᱟᱯᱴᱚᱨ
+webgpu-fallback-adapter = WebGPU ᱯᱷᱚᱞᱵᱮᱠ ᱮᱰᱟᱯᱴᱚᱨ
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = ᱱᱚᱶᱟ ᱠᱚ ᱠᱟᱨᱚᱬ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴ ᱠᱟᱱᱟ : <a data-l10n-name="bug-link">ᱵᱷᱩᱞ{ $bugNumber }</a>
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = ᱚᱠᱚᱴᱠᱟᱱᱟ; ᱰᱤᱜᱟᱹᱣ ᱠᱳᱰ { $failureCode }
+d3d11layers-crash-guard = D3D11 ᱠᱚᱢᱯᱚᱡᱚᱨ
+glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX ᱣᱤᱰᱤᱭᱚ ᱰᱤᱠᱚᱰᱚᱨ
+reset-on-next-restart = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱨᱮ ᱫᱩᱦᱲᱟᱹ ᱨᱤᱥᱮᱴ ᱯᱮ
+gpu-process-kill-button = GPU ᱞᱟᱦᱟᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+gpu-device-reset = ᱥᱟᱫᱷᱚᱱ ᱨᱤᱥᱮᱴ ᱢᱮ
 min-lib-versions = ᱟᱸᱥᱟᱜ ᱠᱚᱢᱩᱛᱟᱹᱨ ᱵᱟᱨᱥᱱ
 loaded-lib-versions = ᱵᱮᱵᱷᱟᱨ ᱨᱮ ᱵᱟᱨᱥᱟᱱ
 has-user-namespaces = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱡᱟᱭᱜᱟ ᱠᱚ
