@@ -4,139 +4,102 @@
 
 certmgr-title =
     .title = Zrjadowak certifikatow
-
 certmgr-tab-mine =
     .label = Waše certifikaty
-
 certmgr-tab-remembered =
     .label = Awtentifikaciske rozsudy
-
 certmgr-tab-people =
     .label = Ludźo
-
 certmgr-tab-servers =
     .label = Serwery
-
 certmgr-tab-ca =
     .label = Awtority
-
 certmgr-mine = Maće certifikaty wot tutych organizacijow, kotrež was identifikuja
 certmgr-remembered = Tute certifikaty so wužiwaja, zo bychu was na websydłach identifikowali.
 certmgr-people = Maće certifikaty wo dataji, kotrež tutych ludźi identifikuja
 certmgr-server = Tute zapiski zmylkowe wuwzaća serweroweho certifikata identifikuja
 certmgr-ca = Maće certifikaty wo dataji, kotrež tute certifikatowe awtority identifikuja
-
 certmgr-edit-ca-cert =
     .title = Nastajenja dowěryhódnosće certifikata certifikatoweje awtority wobdźěłać
     .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Nastajenja dowěryhódnosće certifikata certifikatoweje awtority wobdźěłać
     .style = min-width: 48em;
-
 certmgr-edit-cert-edit-trust = Nastajenja dwoěryhódnosće:
-
 certmgr-edit-cert-trust-ssl =
     .label = Tutón certifikat móže websydła identifikować.
-
 certmgr-edit-cert-trust-email =
     .label = Tutón certifikat móže e-mejlowych wužiwarjow identifikować.
-
 certmgr-delete-cert =
     .title = Certifikat zhašeć
     .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Certifikat zhašeć
     .style = min-width: 48em; min-height: 24em;
-
 certmgr-cert-host =
     .label = Host
-
 certmgr-cert-name =
     .label = Mjeno certifikata
-
 certmgr-cert-server =
     .label = Serwer
-
 certmgr-override-lifetime =
     .label = Žiwjenski čas
-
 certmgr-token-name =
     .label = Wěstotny grat
-
 certmgr-begins-label =
     .label = Započnje so
-
 certmgr-expires-label =
     .label = Spadnje
-
 certmgr-email =
     .label = E-mejlowa adresa
-
 certmgr-serial =
     .label = Serijowe čisło
-
+certmgr-fingerprint-sha-256 =
+    .label = Porstowy wotćišć SHA-256
 certmgr-view =
     .label = Wobhladać…
     .accesskey = l
-
 certmgr-edit =
     .label = Dowěru wobdźěłać…
     .accesskey = D
-
 certmgr-export =
     .label = Eksportować…
     .accesskey = E
-
 certmgr-delete =
     .label = Zhašeć…
     .accesskey = h
-
 certmgr-delete-builtin =
     .label = Zhašeć abo dowěru zebrać…
     .accesskey = o
-
 certmgr-backup =
     .label = Zawěsćic…
     .accesskey = w
-
 certmgr-backup-all =
     .label = Wšo zawěsćić…
     .accesskey = o
-
 certmgr-restore =
     .label = Importować…
     .accesskey = m
-
 certmgr-add-exception =
     .label = Wuwzaće přidać…
     .accesskey = u
-
 exception-mgr =
     .title = Wěstotne wuwzaće přidać
-
 exception-mgr-extra-button =
     .label = Wěstotne wuwzace wobkrućic
     .accesskey = t
-
 exception-mgr-supplemental-warning = Banki, wobchody a druhe zjawne městna njebudu was prosyć to činić.
-
 exception-mgr-cert-location-url =
     .value = Městno:
-
 exception-mgr-cert-location-download =
     .label = Certifikat wobstarać
     .accesskey = b
-
 exception-mgr-cert-status-view-cert =
     .label = Pokazać…
     .accesskey = k
-
 exception-mgr-permanent =
     .label = Tute wuwzaće na přeco składować
     .accesskey = T
-
 pk11-bad-password = Zapodate hesło bě wopak.
 pkcs12-decode-err = Dataja njeda so dekodowaće.  Pak njeje we formaće PKCS #12, je wobkškodźena pak hesło, kotrež sće zapodał, je wopak.
 pkcs12-unknown-err-restore = Dataja PKCS #12 njeda so z njeznatych přičinow wobnowić.
@@ -169,37 +132,28 @@ delete-user-cert-title =
     .title = Waše certifikaty zhašeć
 delete-user-cert-confirm = Chceće woprawdźe tute certifikaty zhašeć?
 delete-user-cert-impact = jeli jedny ze swojich certifikatow zhašeće, njemóžeće wjace jón wužiwać, zo by was identifikował.
-
-
 delete-ssl-override-title =
     .title = Serwerowe wuwzaće certifikata zhašeć
 delete-ssl-override-confirm = Chceće woprawdźe tute serwerowe wuwzaće zhašeć?
 delete-ssl-override-impact = Jeli serwerowe wuwzaće zhašeće, wobnowiće zwučene kontrole wěstoty za tón serwer a je trěbne, zo wón płaćiwy certifikat wužiwa.
-
 delete-ca-cert-title =
     .title = CA-certifikaty zhašeć abo jim dowěru zebrać
 delete-ca-cert-confirm = Sće požadał, tute CA-certifikaty zhašeć. Za zasadźene certifikaty budźe so dowěryhódnosć wotstronjeć, štož ma samsny wuskutk. Chceće woprawdźe zhašeć abo dowěru zebrać?
 delete-ca-cert-impact = Jeli certfikat Certifikateje awtority (CA) zhašeš abo jemu dowěru zebjerješ , tute nałoženje certifikatam wudatym wot tuteje CA wjace njedowěri.
-
-
 delete-email-cert-title =
     .title = E-mejlowe certifikaty zhašeć
 delete-email-cert-confirm = Chceće woprawdźe e-mejlowe certifikaty tutych ludźi zhašeć?
 delete-email-cert-impact = Jeli e-mejlowy certifikat někajkeje wosoby zhašeće, njemóžeće wjace wosobje zaklučowanu e-mejl pósłać.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certifikat ze serijowym čisłom: { $serialNumber }
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Žadyn klientowy certifikat pósłać
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Njeskładowany)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Nic k dispoziciji)
 
