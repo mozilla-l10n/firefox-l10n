@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = 마지막 활동
 firefoxview-tabs-list-tab-button =
     .title = 새 탭에서 { $targetURI } 열기
 firefoxview-try-colorways-button = 컬러웨이 체험
-firefoxview-no-current-colorway-collection = 새로운 컬러웨이 출시 예정
 firefoxview-change-colorway-button = 컬러웨이 변경
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = 목록 표시
 firefoxview-collapse-button-hide =
     .title = 목록 숨기기
+firefoxview-overview-navigation = 최근 탐색
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = 기록
+firefoxview-history-header = 기록
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = 열린 탭
+firefoxview-opentabs-header = 열린 탭
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = 모두 보기

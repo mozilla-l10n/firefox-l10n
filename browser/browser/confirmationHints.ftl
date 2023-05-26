@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = 보냄!
 confirmation-hint-firefox-relay-mask-generated = 새 { -relay-brand-short-name } 마스크가 생성되었습니다!
 confirmation-hint-firefox-relay-mask-created = 새로운 마스크가 생성됨!
 confirmation-hint-firefox-relay-mask-reused = 기존 마스크 재사용됨!
+confirmation-hint-screenshot-copied = 스크린샷이 복사되었습니다!
