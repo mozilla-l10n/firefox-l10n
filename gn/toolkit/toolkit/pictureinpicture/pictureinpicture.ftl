@@ -40,6 +40,9 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Teratee’i
     .tooltip = Teratee’i
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Mba’erechaha tuichakue
+    .tooltip = Mba’erechaha tuichakue (kutu jo’a térã { $shortcut })
 
 ##
 
