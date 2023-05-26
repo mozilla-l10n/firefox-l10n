@@ -14,6 +14,8 @@ default-bookmarks-toolbarfolder = پوشهٔ نوار ابزار نشانک‌ه
 default-bookmarks-getting-started = آغاز کردن
 # link title for https://www.mozilla.org/firefox/help/
 default-bookmarks-firefox-get-help = دریافت راهنمایی
+# link title for https://www.mozilla.org/firefox/customize/
+default-bookmarks-firefox-customize = سفارشی‌سازی Firefox
 # link title for https://www.mozilla.org/contribute/
 default-bookmarks-firefox-community = مشارکت کنید
 # link title for https://www.mozilla.org/about/
@@ -22,6 +24,8 @@ default-bookmarks-firefox-about = دربارهٔ ما
 default-bookmarks-nightly-heading = منابع Firefox شبانه
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = وب‌نوشت Firefox شبانه
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = سامانهٔ ردیاب اشکال Mozilla
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = شبکهٔ توسعه‌دهندگان Mozilla
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
