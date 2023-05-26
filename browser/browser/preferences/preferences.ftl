@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Frekari upplýsingar
 relay-integration =
     .label = Virkjaðu { -relay-brand-name } í { -brand-short-name } lykilorðastjóranum þínum
+preferences-relay-integration-checkbox =
+    .label = Stinga upp á { -relay-brand-name } tölvupósthulum til að vernda póstfangið þitt
 relay-integration-learn-more-link = Kanna nánar
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

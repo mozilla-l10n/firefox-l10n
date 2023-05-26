@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Sent!
 confirmation-hint-firefox-relay-mask-generated = Ný { -relay-brand-short-name } tölvupósthula útbúin!
 confirmation-hint-firefox-relay-mask-created = Ný tölvupósthula útbúin!
 confirmation-hint-firefox-relay-mask-reused = Fyrirliggjandi tölvupósthula endurnýtt!
+confirmation-hint-screenshot-copied = Skjámynd afrituð!
