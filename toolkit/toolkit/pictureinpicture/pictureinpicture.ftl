@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Subtitles
     .tooltip = Subtitles
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Fullscreen
+    .tooltip = Fullscreen (double-click or { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Exit fullscreen
+    .tooltip = Exit fullscreen (double-click or { $shortcut })
 
 ##
 
