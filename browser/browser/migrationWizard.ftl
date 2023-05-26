@@ -58,6 +58,7 @@ migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Passwörter
 migration-history-option-label = Chronik
 migration-form-autofill-option-label = Daten für Formular-Autovervollständigung
+migration-payment-methods-option-label = Zahlungsmethoden
 migration-passwords-from-file-progress-header = Passwort-Datei importieren
 migration-passwords-from-file-success-header = Passwörter erfolgreich importiert
 migration-passwords-from-file = Datei wird auf Passwörter überprüft
@@ -120,6 +121,7 @@ migration-list-favorites-label = Favoriten
 migration-list-password-label = Passwörter
 migration-list-history-label = Chronik
 migration-list-autofill-label = Daten für automatisches Ausfüllen
+migration-list-payment-methods-label = Zahlungsmethoden
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Von den letzten { $maxAgeInDays } Tagen
     }
 migration-wizard-progress-success-formdata = Gespeicherte Formulardaten
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } Zahlungsmethode
+       *[other] { $quantity } Zahlungsmethoden
+    }
 migration-wizard-safari-permissions-sub-header = Um Safari-Lesezeichen und die Surf-Chronik zu importieren:
 migration-wizard-safari-instructions-continue = Wählen Sie "Fortsetzen"
 migration-wizard-safari-instructions-folder = Wählen Sie in der Liste den Safari-Ordner aus und wählen Sie "Öffnen"
