@@ -14,7 +14,7 @@ abuse-report-title-theme = ᱱᱚᱶᱟ ᱴᱷᱤᱢ ᱫᱚ { -vendor-short-name
 abuse-report-subtitle = ᱮᱴᱠᱮᱴᱚᱬᱮ ᱪᱮᱫ ᱠᱟᱱᱟ ?
 # Variables:
 #   $author-name (string) - Name of the add-on author
-abuse-report-addon-authored-by = ᱚᱱᱚᱞᱤᱭᱟᱹ <a data-l10n-name="author-name"></a>
+abuse-report-addon-authored-by = ᱚᱱᱚᱞᱤᱭᱟᱹ <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     ᱪᱮᱫ ᱵᱟᱝ ᱴᱷᱟᱹᱠᱟᱹ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ?
     <a data-l10n-name="learnmore-link">ᱨᱤᱯᱚᱴᱤᱝ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱵᱟᱵᱚᱫᱽ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
