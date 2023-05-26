@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] ¡PIN oiko’ỹva! Imoinge PIN oikóva mba’e’okápe g̃uarã. Opyta { $retriesLeft } eha’ãjey hag̃ua.
        *[other] ¡PIN oiko’ỹva! Imoinge PIN oikóva mba’e’okápe g̃uarã. Opyta { $retriesLeft } eha’ãjey hag̃ua.
     }
+webauthn-pin-invalid-short-prompt = PIN ndoikóiva. Eha’ãjey.
 webauthn-pin-required-prompt = Emoingemína PIN oikóva ne mba’e’okápe.

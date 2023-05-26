@@ -58,6 +58,7 @@ migration-favorites-option-label = Takate’ỹha
 migration-logins-and-passwords-option-label = Puruhára ha ñe’ẽñemi ñongatupyre
 migration-history-option-label = Kundaha rembiasakue
 migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva
+migration-payment-methods-option-label = Mba’éicha ehepyme’ẽta
 migration-passwords-from-file-progress-header = Marandurenda ñemba’egueru ñe’ẽñemi
 migration-passwords-from-file-success-header = Ñe’ẽñemi Ñemba’egueru Porã
 migration-passwords-from-file = Aheka ñe’ẽñemi marandurendápe
@@ -120,6 +121,7 @@ migration-list-favorites-label = Takate’ỹha
 migration-list-password-label = Ñe’ẽñemi
 migration-list-history-label = Tembiasakue
 migration-list-autofill-label = Mba’ekuaarã henyhẽjeheguíva
+migration-list-payment-methods-label = mba’éicha ehepyme’ẽta
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Ára eipururamovehague { $maxAgeInDays }
     }
 migration-wizard-progress-success-formdata = Myanyhẽha rembiasakue
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } mba’éicha ehepyme’ẽta
+       *[other] { $quantity } mba’éicha ehepyme’ẽmbáta
+    }
 migration-wizard-safari-permissions-sub-header = Emba’egueru hag̃ua Safari kundahára rechaukaha ha rembiasakue:
 migration-wizard-safari-instructions-continue = Eiporavo “Ku’ejey”
 migration-wizard-safari-instructions-folder = Eiporavo Safari marandurenda rysýipe ha eiporavo “Mbojuruja”

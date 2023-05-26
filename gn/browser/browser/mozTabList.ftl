@@ -26,8 +26,12 @@ mztabrow-just-now-timestamp = Ko’ag̃aite
 
 mztabrow-delete = Mboguete
     .accesskey = D
+mztabrow-forget-about-this-site = Ehejarei ko Ñanduti Renda…
+    .accesskey = F
 mztabrow-open-in-window = Eike Ovetã Pyahúpe
     .accesskey = N
+mztabrow-open-in-private-window = Eike Ovetã Ñemigua Pyahúpe
+    .accesskey = P
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 mztabrow-add-bookmark = Techaukaha…
     .accesskey = B

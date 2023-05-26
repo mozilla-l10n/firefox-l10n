@@ -24,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;
 
 desktop-action-new-window-name = Ovetã pyahu
 desktop-action-new-private-window-name = Ovetã ñemi pyahu
+desktop-action-open-profile-manager = Embojuruja mba’ete ñangarekoha
