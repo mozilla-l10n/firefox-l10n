@@ -183,6 +183,7 @@ containers-remove-cancel-button = این حامل حذف نشود
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زبان و ظاهر
+preferences-web-appearance-choice-system = زمینهٔ سامانه
 preferences-web-appearance-choice-auto = خودکار
 preferences-web-appearance-choice-light = روشن
 preferences-web-appearance-choice-dark = تاریک
@@ -340,6 +341,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = ‏{ -brand-short-name } با دیگر پرونده‌ها چه کند؟
+applications-save-for-new-types =
+    .label = ذخیرهٔ پرونده‌ها
+    .accesskey = ذ
 drm-content-header = محتوا مدیریت حقوق دیجیتال(DRM)
 play-drm-content =
     .label = پخش محتوا کنترل شده-DRM
