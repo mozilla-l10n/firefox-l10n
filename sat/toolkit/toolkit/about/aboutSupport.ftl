@@ -374,6 +374,13 @@ policies-error = ᱵᱷᱩᱞ
 
 support-printing-title = ᱪᱷᱟᱯᱟᱜ ᱠᱟᱱᱟ
 support-printing-troubleshoot = ᱴᱨᱟᱹᱵᱟᱹᱞᱥᱩᱴᱤᱝ
+support-printing-clear-settings-button = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱪᱷᱟᱯᱟ ᱥᱟᱡᱟᱣᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
+support-printing-modified-settings = ᱵᱚᱫᱚᱞ ᱠᱟᱱ ᱪᱷᱟᱯᱟ ᱥᱟᱡᱟᱣᱠᱚ
+support-printing-prefs-name = ᱧᱩᱛᱩᱢ
+support-printing-prefs-value = ᱜᱚᱱᱚᱝ
 
 ## Normandy sections
 
+support-remote-experiments-title = ᱨᱤᱢᱚᱴ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱠᱚ
+support-remote-experiments-name = ᱧᱩᱛᱩᱢ
+support-remote-experiments-branch = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱰᱟᱹᱨ
