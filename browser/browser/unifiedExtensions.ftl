@@ -32,3 +32,7 @@ unified-extensions-context-menu-remove-extension =
     .label = เอาส่วนขยายออก
 unified-extensions-context-menu-report-extension =
     .label = รายงานส่วนขยาย
+unified-extensions-context-menu-move-widget-up =
+    .label = ย้ายขึ้น
+unified-extensions-context-menu-move-widget-down =
+    .label = ย้ายลง

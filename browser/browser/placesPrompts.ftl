@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (ไม่มีชื่อเรื่อง)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = ด้วยเหตุผลความปลอดภัย URL ที่ขึ้นต้นด้วย “javascript:” หรือ “data:” จะไม่ถูกโหลดจากหน้าต่างประวัติหรือแถบข้าง
 places-bookmarks-backup-title = ชื่อไฟล์สำรองข้อมูลที่คั่นหน้า
 places-bookmarks-restore-alert-title = คืนที่คั่นหน้ากลับ
 places-bookmarks-restore-alert = สิ่งนี้จะแทนที่ที่คั่นหน้าปัจจุบันทั้งหมดของคุณด้วยข้อมูลสำรอง คุณแน่ใจหรือไม่?

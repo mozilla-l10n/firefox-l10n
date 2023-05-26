@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = คำบรรยาย
     .tooltip = คำบรรยาย
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = เต็มหน้าจอ
+    .tooltip = เต็มหน้าจอ (คลิกสองครั้งหรือ { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = ออกจากภาพเต็มหน้าจอ
+    .tooltip = ออกจากภาพเต็มหน้าจอ (คลิกสองครั้งหรือ { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = ออกจากภาพเต็มหน้าจอ
     .tooltip = ออกจากภาพเต็มหน้าจอ (คลิกสองครั้ง)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = ย้อนหลัง
     .tooltip = ย้อนหลัง (←)

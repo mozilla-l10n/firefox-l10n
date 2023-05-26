@@ -431,4 +431,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = สุนัขจิ้งจอกบนหน้าจอคอมพิวเตอร์แล็ปท็อปโบกมือ แล็ปท็อปมีเมาส์เสียบอยู่
 onboarding-device-migration-title = ยินดีต้อนรับกลับมา!
+onboarding-device-migration-subtitle = ลงชื่อเข้าใช้ { -fxaccount-brand-name(capitalization: "sentence") } ของคุณเพื่อนำที่คั่นหน้า รหัสผ่าน และประวัติติดตัวไปด้วยบนอุปกรณ์เครื่องใหม่ของคุณ
+onboarding-device-migration-primary-button-label = ลงชื่อเข้า
