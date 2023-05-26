@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = 发送成功！
 confirmation-hint-firefox-relay-mask-generated = 已生成新的 { -relay-brand-short-name } 马甲！
 confirmation-hint-firefox-relay-mask-created = 马甲创建成功！
 confirmation-hint-firefox-relay-mask-reused = 已复用现有马甲！
+confirmation-hint-screenshot-copied = 截图已复制！

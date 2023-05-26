@@ -58,6 +58,7 @@ migration-favorites-option-label = 收藏夹
 migration-logins-and-passwords-option-label = 保存的登录名和密码
 migration-history-option-label = 浏览历史
 migration-form-autofill-option-label = 自动填写表单数据
+migration-payment-methods-option-label = 付款方式
 migration-passwords-from-file-progress-header = 导入密码文件
 migration-passwords-from-file-success-header = 已成功导入密码
 migration-passwords-from-file = 正在检查文件中的密码
@@ -112,6 +113,7 @@ migration-list-favorites-label = 收藏夹
 migration-list-password-label = 密码
 migration-list-history-label = 历史记录
 migration-list-autofill-label = 自动填写数据
+migration-list-payment-methods-label = 付款方式
 
 ##
 
