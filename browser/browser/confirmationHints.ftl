@@ -13,3 +13,4 @@ confirmation-hint-pin-tab = Fixado!
 confirmation-hint-pin-tab-description = Clique com o botão direito no separador para o desafixar.
 confirmation-hint-send-to-device = Enviado!
 confirmation-hint-firefox-relay-mask-generated = Nova máscara { -relay-brand-short-name } gerada!
+confirmation-hint-firefox-relay-mask-created = Nova máscara criada!
