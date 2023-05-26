@@ -58,6 +58,7 @@ migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Salvate credentiales e contrasignos
 migration-history-option-label = Chronologia de navigation
 migration-form-autofill-option-label = Completion automatic datos de formularios
+migration-payment-methods-option-label = Methodos de pagamento
 migration-passwords-from-file-progress-header = Importar file de contrasignos
 migration-passwords-from-file-success-header = File de contrasignos importate con successo
 migration-passwords-from-file = Verificar file pro contrasignos
@@ -120,6 +121,7 @@ migration-list-favorites-label = favoritos
 migration-list-password-label = contrasignos
 migration-list-history-label = chronologia
 migration-list-autofill-label = autoplenamento de datos
+migration-list-payment-methods-label = methodos de pagamento
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Ab le ultime { $maxAgeInDays } dies
     }
 migration-wizard-progress-success-formdata = Chronologia de formulario
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } methodo de pagamento
+       *[other] { $quantity } methodos de pagamento
+    }
 migration-wizard-safari-permissions-sub-header = Pro importar marcapaginas e chronologia de navigation ab Safari
 migration-wizard-safari-instructions-continue = Elige “Continuar”
 migration-wizard-safari-instructions-folder = Selige le plica Safari in le lista e “Open”
