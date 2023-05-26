@@ -58,6 +58,7 @@ migration-favorites-option-label = 즐겨찾기
 migration-logins-and-passwords-option-label = 저장된 로그인 및 비밀번호
 migration-history-option-label = 방문 기록
 migration-form-autofill-option-label = 양식 자동 채우기 데이터
+migration-payment-methods-option-label = 결제 방법
 migration-passwords-from-file-progress-header = 비밀번호 파일 가져오기
 migration-passwords-from-file-success-header = 비밀번호를 성공적으로 가져옴
 migration-passwords-from-file = 비밀번호 파일 확인 중
@@ -83,13 +84,13 @@ migration-passwords-from-file-tsv-filter-title =
 #
 # Variables:
 #  $newEntries (Number): the number of new successfully imported passwords
-migration-wizard-progress-success-new-passwords = { $newEntries } 추가됨
+migration-wizard-progress-success-new-passwords = { $newEntries }개 추가됨
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
-migration-wizard-progress-success-updated-passwords = { $updatedEntries } 업데이트됨
+migration-wizard-progress-success-updated-passwords = { $updatedEntries }개 업데이트됨
 migration-import-button-label = 가져오기
 migration-choose-to-import-from-file-button-label = 파일에서 가져오기
 migration-import-from-file-button-label = 파일 선택
@@ -112,6 +113,7 @@ migration-list-favorites-label = 즐겨찾기
 migration-list-password-label = 비밀번호
 migration-list-history-label = 기록
 migration-list-autofill-label = 자동 채우기 데이터
+migration-list-payment-methods-label = 결제 방법
 
 ##
 
@@ -134,7 +136,7 @@ migration-safari-password-import-select-button = 파일 선택
 #
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
-migration-wizard-progress-success-bookmarks = { $quantity } 북마크
+migration-wizard-progress-success-bookmarks = 북마크 { $quantity }개
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -142,13 +144,13 @@ migration-wizard-progress-success-bookmarks = { $quantity } 북마크
 #
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
-migration-wizard-progress-success-favorites = { $quantity } 즐겨찾기
+migration-wizard-progress-success-favorites = 즐겨찾기 { $quantity }개
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
 # Variables:
 #  $quantity (Number): the number of successfully imported passwords
-migration-wizard-progress-success-passwords = { $quantity } 비밀번호
+migration-wizard-progress-success-passwords = 비밀번호 { $quantity }개
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -156,6 +158,12 @@ migration-wizard-progress-success-passwords = { $quantity } 비밀번호
 #  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
 migration-wizard-progress-success-history = 지난 { $maxAgeInDays }일부터
 migration-wizard-progress-success-formdata = 양식 기록
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods = 결제 방법 { $quantity }개
 migration-wizard-safari-permissions-sub-header = Safari 북마크 및 방문 기록을 가져오려면:
 migration-wizard-safari-instructions-continue = "계속"을 선택하세요
 migration-wizard-safari-instructions-folder = 목록에서 Safari 폴더를 선택하고 "열기"를 선택하세요
