@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Hendyramovéva
 firefoxview-tabs-list-tab-button =
     .title = Embojuruja { $targetURI } tendayke pyahúpe
 firefoxview-try-colorways-button = Eipuru sa’y ojueheguáva
-firefoxview-no-current-colorway-collection = Oĩma sa’y ojuehegua ipyahúva
 firefoxview-change-colorway-button = Emoambue sa’y ojueheguáva
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Ehechauka tysýi
 firefoxview-collapse-button-hide =
     .title = Emokañy tysýi
+firefoxview-overview-navigation = Ñeikundaha ramovéva
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Tembiasakue
+firefoxview-history-header = Tembiasakue
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Tendayke ijurujáva
+firefoxview-opentabs-header = Tendayke ijurujáva
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Ehechapa
