@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Отправлено!
 confirmation-hint-firefox-relay-mask-generated = Сгенерирован новый псевдоним { -relay-brand-short-name }!
 confirmation-hint-firefox-relay-mask-created = Создан новый псевдоним!
 confirmation-hint-firefox-relay-mask-reused = Существующий псевдоним использован повторно!
+confirmation-hint-screenshot-copied = Скриншот скопирован!

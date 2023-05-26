@@ -58,6 +58,7 @@ migration-favorites-option-label = Избранное
 migration-logins-and-passwords-option-label = Сохранённые логины и пароли
 migration-history-option-label = Журнал посещений
 migration-form-autofill-option-label = Данные автозаполнения форм
+migration-payment-methods-option-label = Способы оплаты
 migration-passwords-from-file-progress-header = Импорт паролей из файла
 migration-passwords-from-file-success-header = Пароли успешно импортированы
 migration-passwords-from-file = Проверка файла на наличие паролей
@@ -122,6 +123,7 @@ migration-list-favorites-label = избранное
 migration-list-password-label = пароли
 migration-list-history-label = история
 migration-list-autofill-label = данные автозаполнения
+migration-list-payment-methods-label = способы оплаты
 
 ##
 
@@ -186,6 +188,17 @@ migration-wizard-progress-success-history =
        *[many] За последние { $maxAgeInDays } дней
     }
 migration-wizard-progress-success-formdata = Журнал форм
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } метод оплаты
+        [few] { $quantity } методы оплаты
+       *[many] { $quantity } методов оплаты
+    }
 migration-wizard-safari-permissions-sub-header = Чтобы импортировать закладки Safari и журнал посещённых страниц:
 migration-wizard-safari-instructions-continue = Нажмите «Продолжить»
 migration-wizard-safari-instructions-folder = Выберите папку Safari в списке и нажмите «Открыть».
