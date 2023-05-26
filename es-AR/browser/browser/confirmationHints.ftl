@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = ¡Enviado!
 confirmation-hint-firefox-relay-mask-generated = ¡Nuevo alias de { -relay-brand-short-name } generado!
 confirmation-hint-firefox-relay-mask-created = ¡Nuevo alias creado!
 confirmation-hint-firefox-relay-mask-reused = ¡Alias existente reusado!
+confirmation-hint-screenshot-copied = ¡Captura de pantalla copiada!
