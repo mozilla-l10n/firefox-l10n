@@ -63,3 +63,7 @@ about-private-browsing-pin-promo-title = සුරකින ලද දත්ත�
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = දත්තකඩ පතාක ඉවරයි!
+about-private-browsing-cookie-banners-promo-button = දත්තකඩ පතාක අවම කරන්න

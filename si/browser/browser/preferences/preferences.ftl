@@ -955,6 +955,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = දත්තකඩ පතාක අවකරණය
 cookie-banner-learn-more = තව දැනගන්න
 
 ## Privacy Section - Address Bar
