@@ -49,6 +49,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Izhod iz celozaslonskega načina
     .tooltip = Izhod iz celozaslonskega načina (dvoklik)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Nazaj
     .tooltip = Nazaj (←)
