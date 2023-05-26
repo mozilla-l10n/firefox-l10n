@@ -844,6 +844,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = 더 알아보기
 relay-integration =
     .label = { -brand-short-name } 비밀번호 관리자에서 { -relay-brand-name } 활성화
+preferences-relay-integration-checkbox =
+    .label = 이메일 주소를 보호하기 위해 { -relay-brand-name } 이메일 마스크 제안
 relay-integration-learn-more-link = 더 알아보기
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
