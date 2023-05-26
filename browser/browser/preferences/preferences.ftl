@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Ulteriori informazioni
 relay-integration =
     .label = Attiva { -relay-brand-name } nel gestore password di { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Suggerisci alias di posta elettronica { -relay-brand-name } per proteggere il tuo indirizzo email
 relay-integration-learn-more-link = Ulteriori informazioni
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
