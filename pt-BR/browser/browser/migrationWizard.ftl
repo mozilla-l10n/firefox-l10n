@@ -58,6 +58,7 @@ migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Contas e senhas salvas
 migration-history-option-label = Histórico de navegação
 migration-form-autofill-option-label = Dados de preenchimento automático de formulários
+migration-payment-methods-option-label = Métodos de pagamento
 migration-passwords-from-file-progress-header = Importar arquivo de senhas
 migration-passwords-from-file-success-header = Senhas importadas com sucesso
 migration-passwords-from-file = Verificando senhas no arquivo
@@ -120,6 +121,7 @@ migration-list-favorites-label = favoritos
 migration-list-password-label = senhas
 migration-list-history-label = histórico
 migration-list-autofill-label = dados de preenchimento automático
+migration-list-payment-methods-label = métodos de pagamento
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Dos últimos { $maxAgeInDays } dias
     }
 migration-wizard-progress-success-formdata = Histórico de formulários
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } método de pagamento
+       *[other] { $quantity } métodos de pagamento
+    }
 migration-wizard-safari-permissions-sub-header = Para importar favoritos e histórico de navegação do Safari:
 migration-wizard-safari-instructions-continue = Selecione “Avançar”
 migration-wizard-safari-instructions-folder = Selecione a pasta Safari na lista e escolha “Abrir”
