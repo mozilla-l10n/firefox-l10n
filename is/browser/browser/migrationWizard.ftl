@@ -58,6 +58,7 @@ migration-favorites-option-label = Eftirlæti
 migration-logins-and-passwords-option-label = Vistaðar innskráningar og lykilorð
 migration-history-option-label = Vafurferill
 migration-form-autofill-option-label = Sjálfvirk útfyllingargögn reita
+migration-payment-methods-option-label = Greiðslumátar
 migration-passwords-from-file-progress-header = Flytja inn lykilorðaskrá
 migration-passwords-from-file-success-header = Tókst að flytja inn lykilorð
 migration-passwords-from-file = Athuga lykilorð í skrá
@@ -120,6 +121,7 @@ migration-list-favorites-label = eftirlæti
 migration-list-password-label = lykilorð
 migration-list-history-label = vafurferill
 migration-list-autofill-label = sjálfvirk útfyllingargögn
+migration-list-payment-methods-label = greiðslumátar
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Frá síðustu { $maxAgeInDays } dögum
     }
 migration-wizard-progress-success-formdata = Ferill innfyllingarforms
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } greiðslumáti
+       *[other] { $quantity } greiðslumátar
+    }
 migration-wizard-safari-permissions-sub-header = Til að flytja inn Safari-bókamerki og vafurferil:
 migration-wizard-safari-instructions-continue = Veldu „Áfram“
 migration-wizard-safari-instructions-folder = Veldu Safari-möppu á listanum og veldu „Opna“
