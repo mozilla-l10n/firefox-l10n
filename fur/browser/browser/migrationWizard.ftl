@@ -58,6 +58,7 @@ migration-favorites-option-label = Preferîts
 migration-logins-and-passwords-option-label = Credenziâls e passwords salvadis
 migration-history-option-label = Cronologjie di navigazion
 migration-form-autofill-option-label = Dâts pe compilazion automatiche dai formularis
+migration-payment-methods-option-label = Metodis di paiament
 migration-passwords-from-file-progress-header = Impuarte file des passwords
 migration-passwords-from-file-success-header = Passwords impuartadis cun sucès
 migration-passwords-from-file = Daûr a controlâ il file pes passwords
@@ -120,6 +121,7 @@ migration-list-favorites-label = preferîts
 migration-list-password-label = passwords
 migration-list-history-label = cronologjie
 migration-list-autofill-label = dâts pe auto-compilazion
+migration-list-payment-methods-label = metodis di paiament
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Dai ultins { $maxAgeInDays } dîs
     }
 migration-wizard-progress-success-formdata = Cronologjie formularis
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } metodi di paiament
+       *[other] { $quantity } metodis di paiament
+    }
 migration-wizard-safari-permissions-sub-header = Par impuartâ i segnelibris di Safari e la cronologjie di navigazion:
 migration-wizard-safari-instructions-continue = Selezione “Continue”
 migration-wizard-safari-instructions-folder = Selezione la cartele Safari te liste e sielç “Vierç”

@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Ultime ative
 firefoxview-tabs-list-tab-button =
     .title = Vierç { $targetURI } intune gnove schede
 firefoxview-try-colorways-button = Prove gnovis tonalitâts
-firefoxview-no-current-colorway-collection = A stan par rivâ gnovis tonalitâts
 firefoxview-change-colorway-button = Cambie tonalitât
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Mostre liste
 firefoxview-collapse-button-hide =
     .title = Plate liste
+firefoxview-overview-navigation = Navigazion resinte
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Cronologjie
+firefoxview-history-header = Cronologjie
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Schedis viertis
+firefoxview-opentabs-header = Schedis viertis
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Mostre dut

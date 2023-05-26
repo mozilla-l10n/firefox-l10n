@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Plui informazions
 relay-integration =
     .label = Ative { -relay-brand-name } sul to gjestôr des passwords di { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Sugjerìs mascaris di pueste eletroniche { -relay-brand-name } par protezi la tô direzion e-mail
 relay-integration-learn-more-link = Plui informazions
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
