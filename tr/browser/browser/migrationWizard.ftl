@@ -58,6 +58,7 @@ migration-favorites-option-label = Sık kullanılanlar
 migration-logins-and-passwords-option-label = Kayıtlı hesaplar ve parolalar
 migration-history-option-label = Gezinti geçmişi
 migration-form-autofill-option-label = Otomatik form doldurma verileri
+migration-payment-methods-option-label = Ödeme yöntemleri
 migration-passwords-from-file-progress-header = Parola dosyasını içe aktar
 migration-passwords-from-file-success-header = Parolalar başarıyla içe aktarıldı
 migration-passwords-from-file = Dosyadaki parolalar kontrol ediliyor
@@ -120,6 +121,7 @@ migration-list-favorites-label = sık kullanılanlar
 migration-list-password-label = parolalar
 migration-list-history-label = geçmiş
 migration-list-autofill-label = otomatik doldurma verileri
+migration-list-payment-methods-label = ödeme yöntemleri
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Son { $maxAgeInDays } gün
     }
 migration-wizard-progress-success-formdata = Form geçmişi
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } ödeme yöntemi
+       *[other] { $quantity } ödeme yöntemi
+    }
 migration-wizard-safari-permissions-sub-header = Safari yer işaretlerini ve gezinti geçmişini içe aktarmak için:
 migration-wizard-safari-instructions-continue = “Devam Et”i seçin
 migration-wizard-safari-instructions-folder = Listeden Safari klasörünü seçip “Aç”ı seçin
