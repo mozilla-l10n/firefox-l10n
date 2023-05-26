@@ -43,6 +43,9 @@ pictureinpicture-subtitles-btn =
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Mba’erechaha tuichakue
     .tooltip = Mba’erechaha tuichakue (kutu jo’a térã { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Esẽ mba’erechaha tuichavévagui
+    .tooltip = Esẽ mba’erechaha tuichavévagui (kutu jo’a térã { $shortcut })
 
 ##
 
@@ -52,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Esẽ mba’erechaha tuichavévagui
     .tooltip = Esẽ mba’erechaha tuichavévagui (mokõi jekutu)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Tapykue
     .tooltip = Tapykue (←)
