@@ -18,6 +18,7 @@ abuse-report-addon-authored-by = ᱚᱱᱚᱞᱤᱭᱟᱹ <a data-l10n-name="aut
 abuse-report-learnmore =
     ᱪᱮᱫ ᱵᱟᱝ ᱴᱷᱟᱹᱠᱟᱹ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ?
     <a data-l10n-name="learnmore-link">ᱨᱤᱯᱚᱴᱤᱝ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱵᱟᱵᱚᱫᱽ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
+abuse-report-submit-description = ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱟᱛᱟᱣ ᱢᱮ (ᱩᱱᱟᱹᱜ ᱵᱟᱝ ᱞᱟᱹᱠᱛᱤ)
 
 ## Panel buttons.
 
