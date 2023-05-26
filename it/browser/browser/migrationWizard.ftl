@@ -58,16 +58,14 @@ migration-favorites-option-label = Preferiti
 migration-logins-and-passwords-option-label = Credenziali e password salvate
 migration-history-option-label = Cronologia di navigazione
 migration-form-autofill-option-label = Dati per la compilazione automatica dei moduli
-# A description for the .csv file format that may be shown as the file type
-
+migration-payment-methods-option-label = Metodi di pagamento
 migration-passwords-from-file-progress-header = Importazione file di password
 migration-passwords-from-file-success-header = Password importate correttamente
 migration-passwords-from-file = Verifica delle password nel file
 migration-passwords-new = Nuove password
 migration-passwords-updated = Password esistenti
-
 migration-passwords-from-file-picker-title = Importazione file di password
-
+# A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
     { PLATFORM() ->
@@ -81,7 +79,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] File TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -92,7 +89,6 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } aggiunta
        *[other] { $newEntries } aggiunte
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -103,12 +99,9 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } aggiornata
        *[other] { $updatedEntries } aggiornate
     }
-
-
 migration-import-button-label = Importa
 migration-choose-to-import-from-file-button-label = Importa da file
 migration-import-from-file-button-label = Seleziona file
-
 migration-cancel-button-label = Annulla
 migration-done-button-label = Fatto
 migration-continue-button-label = Continua
@@ -128,6 +121,7 @@ migration-list-favorites-label = preferiti
 migration-list-password-label = password
 migration-list-history-label = cronologia
 migration-list-autofill-label = dati per la compilazione automatica dei moduli
+migration-list-payment-methods-label = metodi di pagamento
 
 ##
 
@@ -184,9 +178,17 @@ migration-wizard-progress-success-history =
        *[other] Degli ultimi { $maxAgeInDays } giorni
     }
 migration-wizard-progress-success-formdata = Cronologia moduli
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } metodo di pagamento
+       *[other] { $quantity } metodi di pagamento
+    }
 migration-wizard-safari-permissions-sub-header = Per importare i segnalibri di Safari e la cronologia di navigazione:
 migration-wizard-safari-instructions-continue = Seleziona “Continua”
 migration-wizard-safari-instructions-folder = Seleziona la cartella Safari nell’elenco e fai clic su “Apri”
 migration-wizard-safari-select-button = Seleziona file
-
-
