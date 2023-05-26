@@ -58,6 +58,7 @@ migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Accesos e contrasinais gardados
 migration-history-option-label = Historial de navegación
 migration-form-autofill-option-label = Datos de autocompletado de formularios
+migration-payment-methods-option-label = Métodos de pagamento
 migration-passwords-from-file-progress-header = Importar ficheiros de contrasinais
 migration-passwords-from-file-success-header = Contrasinais importados correctamente
 migration-passwords-from-file = Verificando contrasinais no arquivo
@@ -120,6 +121,7 @@ migration-list-favorites-label = favoritos
 migration-list-password-label = contrasinais
 migration-list-history-label = historial
 migration-list-autofill-label = datos de autocompletado
+migration-list-payment-methods-label = métodos de pagamento
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Desde os últimos { $maxAgeInDays } días
     }
 migration-wizard-progress-success-formdata = Historial de formularios
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } método de pago
+       *[other] { $quantity } métodos de pago
+    }
 migration-wizard-safari-permissions-sub-header = Para importar os marcadores de Safari e o historial de navegación:
 migration-wizard-safari-instructions-continue = Seleccione «Continuar»
 migration-wizard-safari-instructions-folder = Seleccione o cartafol de Safari na lista e escolla «Abrir»
