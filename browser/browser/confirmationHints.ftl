@@ -13,3 +13,5 @@ confirmation-hint-pin-tab = ปักหมุดแล้ว!
 confirmation-hint-pin-tab-description = คลิกขวาที่แท็บเพื่อถอนหมุด
 confirmation-hint-send-to-device = ส่งแล้ว!
 confirmation-hint-firefox-relay-mask-generated = สร้างตัวปกปิด { -relay-brand-short-name } ใหม่แล้ว!
+confirmation-hint-firefox-relay-mask-created = สร้างตัวปกปิดใหม่แล้ว!
+confirmation-hint-firefox-relay-mask-reused = ใช้ตัวปกปิดที่มีอยู่ซ้ำแล้ว!
