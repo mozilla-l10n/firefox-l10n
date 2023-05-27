@@ -186,6 +186,17 @@ migration-wizard-progress-success-history =
        *[other] ᱢᱟᱲᱟᱝ { $maxAgeInDays } ᱫᱤᱱ ᱠᱷᱚᱱ
     }
 migration-wizard-progress-success-formdata = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱚᱨᱢ
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } ᱜᱚᱱᱚᱝ ᱮᱢ ᱵᱟᱪᱷᱟᱣ
+        [two] { $quantity } ᱜᱚᱱᱚᱝ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱠᱤᱱ
+       *[other] { $quantity } ᱜᱚᱱᱚᱝ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱠᱚ
+    }
 migration-wizard-safari-permissions-sub-header = Safari ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱞᱟᱫᱮ ᱞᱟᱹᱜᱤᱫ :
 migration-wizard-safari-instructions-continue = “ᱞᱟᱦᱟ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-wizard-safari-instructions-folder = ᱞᱤᱥᱴᱤ ᱨᱮ Safari ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ “ᱠᱷᱩᱞᱟᱹ” ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ

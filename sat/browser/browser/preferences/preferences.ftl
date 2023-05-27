@@ -864,6 +864,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 relay-integration =
     .label = ᱟᱢᱟᱜ { -brand-short-name } ᱫᱟᱱᱟᱝ ᱢᱮᱱᱮᱡᱚᱨ ᱨᱮ { -relay-brand-name } ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+preferences-relay-integration-checkbox =
+    .label = { -relay-brand-name } ᱫᱚ ᱟᱢᱟᱜ ᱤᱼᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱤᱼᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱟᱛᱟᱣ ᱢᱮ
 relay-integration-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
