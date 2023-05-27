@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Saper plus
 relay-integration =
     .label = Activar { -relay-brand-name } in le gestor de contrasignos de { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Suggerer mascas email { -relay-brand-name } pro proteger tu adresse email
 relay-integration-learn-more-link = Pro saper plus
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
