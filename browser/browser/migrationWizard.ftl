@@ -58,6 +58,7 @@ migration-favorites-option-label = Fawority
 migration-logins-and-passwords-option-label = Skłaźone pśizjawjenja a gronidła
 migration-history-option-label = Pśeglědowańska historija
 migration-form-autofill-option-label = Daty za awtomatiske wupołnjenje formularow
+migration-payment-methods-option-label = Płaśeńske metody
 migration-passwords-from-file-progress-header = Dataju gronidłow importěrowaś
 migration-passwords-from-file-success-header = Gronidła su se wuspěšnje importěrowali
 migration-passwords-from-file = Dataja za gronidła se pśeglědujo
@@ -124,6 +125,7 @@ migration-list-favorites-label = fawority
 migration-list-password-label = gronidła
 migration-list-history-label = historija
 migration-list-autofill-label = Daty za awtomatiske wupołnjenje
+migration-list-payment-methods-label = płaśeńske metody
 
 ##
 
@@ -192,6 +194,18 @@ migration-wizard-progress-success-history =
        *[other] Ze slědnych { $maxAgeInDays } dnjow
     }
 migration-wizard-progress-success-formdata = Historija formularow
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } płaśeńska metoda
+        [two] { $quantity } płaśeńskej metoźe
+        [few] { $quantity } płaśeńske metody
+       *[other] { $quantity } płaśeńskich metodow
+    }
 migration-wizard-safari-permissions-sub-header = Aby cytańske znamjenja a pśeglědowańsku historiju Safari importěrował:
 migration-wizard-safari-instructions-continue = Wubjeŕśo „Pókšacowaś“
 migration-wizard-safari-instructions-folder = Wubjeŕśo zarědnik Safari w lisćinje a pón „Wócyniś“
