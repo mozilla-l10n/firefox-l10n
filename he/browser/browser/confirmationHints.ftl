@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = נשלח!
 confirmation-hint-firefox-relay-mask-generated = נוצרה מסיכה חדשה של { -relay-brand-short-name }!
 confirmation-hint-firefox-relay-mask-created = נוצרה מסיכה חדשה!
 confirmation-hint-firefox-relay-mask-reused = נעשה שימוש חוזר במסיכה קיימת!
+confirmation-hint-screenshot-copied = צילום המסך הועתק!

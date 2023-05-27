@@ -74,3 +74,19 @@ firefoxview-collapse-button-show =
     .title = הצגת רשימה
 firefoxview-collapse-button-hide =
     .title = הסתרת רשימה
+firefoxview-overview-navigation = גלישה אחרונה
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = היסטוריה
+firefoxview-history-header = היסטוריה
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = לשוניות פתוחות
+firefoxview-opentabs-header = לשוניות פתוחות
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = הצגת הכל

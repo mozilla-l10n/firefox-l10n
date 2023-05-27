@@ -58,6 +58,7 @@ migration-favorites-option-label = מועדפים
 migration-logins-and-passwords-option-label = כניסות וססמאות שמורות
 migration-history-option-label = היסטוריית גלישה
 migration-form-autofill-option-label = נתוני מילוי אוטומטי של טפסים
+migration-payment-methods-option-label = אמצעי תשלום
 migration-passwords-from-file-progress-header = ייבוא קובץ ססמאות
 migration-passwords-from-file-success-header = הססמאות יובאו בהצלחה
 migration-passwords-from-file = בתהליך בדיקת הקובץ אחר ססמאות
@@ -120,6 +121,7 @@ migration-list-favorites-label = מועדפים
 migration-list-password-label = ססמאות
 migration-list-history-label = היסטוריה
 migration-list-autofill-label = נתוני מילוי אוטומטי
+migration-list-payment-methods-label = אמצעי תשלום
 
 ##
 
@@ -184,6 +186,16 @@ migration-wizard-progress-success-history =
        *[other] מ־{ $maxAgeInDays } הימים האחרונים
     }
 migration-wizard-progress-success-formdata = היסטוריית טפסים
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] אמצעי תשלום אחד
+       *[other] { $quantity } אמצעי תשלום
+    }
 migration-wizard-safari-permissions-sub-header = כדי לייבא סימניות והיסטוריית גלישה של Safari:
 migration-wizard-safari-instructions-continue = יש ללחוץ על ״המשך״
 migration-wizard-safari-instructions-folder = יש לבחור בתיקיה של Safari מהרשימה וללחוץ על ״פתיחה״
