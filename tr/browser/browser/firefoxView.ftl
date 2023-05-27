@@ -81,6 +81,7 @@ firefoxview-collapse-button-show =
     .title = Listeyi göster
 firefoxview-collapse-button-hide =
     .title = Listeyi gizle
+firefoxview-overview-navigation = Son bakılanlar
 
 ## History in this context refers to browser history
 
