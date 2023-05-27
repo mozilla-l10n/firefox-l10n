@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = מידע נוסף
 relay-integration =
     .label = הפעלת { -relay-brand-name } במנהל הססמאות של { -brand-short-name } שלך
+preferences-relay-integration-checkbox =
+    .label = הצעת מסיכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
 relay-integration-learn-more-link = מידע נוסף
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
