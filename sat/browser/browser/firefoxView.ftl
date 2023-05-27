@@ -81,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-collapse-button-hide =
     .title = ᱞᱤᱥᱪᱤ ᱩᱠᱩᱭ ᱢᱮ
+firefoxview-overview-navigation = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = ᱱᱟᱜᱟᱢ
+firefoxview-history-header = ᱱᱟᱜᱟᱢ
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = ᱴᱮᱵᱽᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+firefoxview-opentabs-header = ᱴᱮᱵᱽᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
