@@ -234,6 +234,7 @@ onboarding-live-language-skip-button-label = پرش
 
 ## Firefox 100 Thank You screens
 
+fx100-upgrade-thanks-header = ۱۰۰ سپاسگزاری
 
 ## MR2022 New User Easy Setup screen strings
 
@@ -260,6 +261,10 @@ onboarding-live-language-skip-button-label = پرش
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-label-default = پیش‌فرض
+mr2022-onboarding-colorway-label-visionary = رؤیایی
+mr2022-onboarding-colorway-label-activist = کنشگر
+mr2022-onboarding-colorway-label-dreamer = رؤیاپرداز
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -273,6 +278,8 @@ onboarding-live-language-skip-button-label = پرش
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = چیزهای تازه را ببینید
+mr2022-onboarding-gratitude-secondary-button-label = آغاز مرور
 
 ## Onboarding spotlight for infrequent users
 
