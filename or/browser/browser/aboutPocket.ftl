@@ -40,6 +40,7 @@ pocket-panel-signup-tagline-story-two = ଯେତେବେଳେ ଲୋଡ଼ା
 
 ## about:pocket-home panel
 
+pocket-panel-home-welcome-back = ପୁଣି ଥରେ ସ୍ୱାଗତ
 
 ## Pocket panel header component
 
