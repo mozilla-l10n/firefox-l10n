@@ -58,6 +58,7 @@ migration-favorites-option-label = ລາຍການທີ່ມັກ
 migration-logins-and-passwords-option-label = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 migration-history-option-label = ປະຫວັດການທ່ອງເວັບ
 migration-form-autofill-option-label = ຕື່ມຂໍ້ມູນໃສ່ແບບຟອມອັດຕະໂນມັດ
+migration-payment-methods-option-label = ວິທີການຈ່າຍເງິນ
 migration-passwords-from-file-progress-header = ນໍາເຂົ້າໄຟລ໌ລະຫັດຜ່ານ
 migration-passwords-from-file-success-header = ນຳເຂົ້າລະຫັດຜ່ານສຳເລັດແລ້ວ
 migration-passwords-from-file = ກຳລັງກວດສອບໄຟລ໌ລະຫັດຜ່ານ
@@ -112,6 +113,7 @@ migration-list-favorites-label = ລາຍການທີ່ມັກ
 migration-list-password-label = ລະຫັດຜ່ານ
 migration-list-history-label = ປະຫວັດ
 migration-list-autofill-label = ຕື່ມຂໍ້ມູນອັດຕະໂນມັດ
+migration-list-payment-methods-label = ວິ​ທີ​ການ​ຊໍາ​ລະ​ເງິນ​
 
 ##
 

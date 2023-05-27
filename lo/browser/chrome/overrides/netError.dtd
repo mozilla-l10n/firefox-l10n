@@ -146,6 +146,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "ຄຳເຕືອນ: ຄວາມສ່ຽງດ້ານຄວາມປອດໄພທີ່ອາດເກີດຂຶ້ນຢູ່ຂ້າງໜ້າ">
 <!ENTITY certerror.sts.pagetitle  "ບໍ່ໄດ້ເຊື່ອມຕໍ່: ບັນຫາຄວາມປອດໄພທີ່ເປັນໄປໄດ້">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ມີນະໂຍບາຍຄວາມປອດໄພທີ່ເອີ້ນວ່າ HTTP Strict Transport Security (HSTS), ຊຶ່ງຫມາຍຄວາມວ່າ &brandShortName; ພຽງແຕ່ສາມາດເຊື່ອມຕໍ່ກັບມັນຢ່າງປອດໄພ. ທ່ານບໍ່ສາມາດເພີ່ມຂໍ້ຍົກເວັ້ນເພື່ອເຂົ້າເບິ່ງເວັບໄຊນີ້ໄດ້.">
 <!ENTITY certerror.copyToClipboard.label "ສຳເນົາຂໍ້ຄວາມໄປໄວ້ທີ່ Clipboard">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -153,6 +154,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "ບັອກຫນ້າແລ້ວ">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> ສ່ວນຫຼາຍອາດຈະເປັນເວັບໄຊທ໌ທີ່ປອດໄພ, ແຕ່ການເຊື່ອມຕໍ່ທີ່ປອດໄພບໍ່ສາມາດຖືກສ້າງຕັ້ງຂຶ້ນ. ບັນຫານີ້ແມ່ນເກີດມາຈາກ <span class='mitm-name'/>, ເຊິ່ງເປັນຊອບແວໃນຄອມພິວເຕີຂອງທ່ານ ຫຼື ເຄືອຂ່າຍຂອງທ່ານ.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'ຖ້າຊອບແວຕ້ານໄວຣັສຂອງທ່ານປະກອບມີຄຸນສົມບັດທີ່ສະແກນການເຊື່ອມຕໍ່ທີ່ຖືກເຂົ້າລະຫັດ (ມັກເອີ້ນວ່າ "ການສະແກນເວັບ" ຫຼື "ການສະແກນ https"), ທ່ານສາມາດປິດຄຸນສົມບັດນັ້ນໄດ້. ຖ້າອັນນັ້ນໃຊ້ບໍ່ໄດ້, ທ່ານສາມາດລຶບ ແລະ ຕິດຕັ້ງຊອບແວຕ້ານໄວຣັສຄືນໃໝ່ໄດ້.'>
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "ຖ້າທ່ານຢູ່ໃນເຄືອຂ່າຍຂອງບໍລິສັດ, ທ່ານສາມາດຕິດຕໍ່ຫາພະແນກໄອທີຂອງທ່ານ.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "ຖ້າທ່ານບໍ່ຄຸ້ນເຄີຍກັບ <span class='mitm-name'/>, ນີ້ອາດຈະເປັນການໂຈມຕີ ແລະ ທ່ານບໍ່ຄວນສືບຕໍ່ໄປຫາເວັບໄຊທ໌.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "ຖ້າທ່ານບໍ່ຄຸ້ນເຄີຍກັບ <span class='mitm-name'/>, ນີ້ອາດຈະເປັນການໂຈມຕີ, ແລະບໍ່ມີຫຍັງທີ່ທ່ານສາມາດເຮັດເພື່ອເຂົ້າເຖິງເວັບໄຊທ໌.">
@@ -161,3 +164,4 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "ເບິ່ງຄືວ່າການຕັ້ງຄ່າຄວາມປອດໄພເຄືອຂ່າຍຂອງທ່ານອາດຈະເຮັດໃຫ້ເກີດນີ້. ທ່ານຕ້ອງການໃຫ້ການຕັ້ງຄ່າເລີ່ມຕົ້ນຄືນມາບໍ?">
 <!ENTITY prefReset.label "ກູ້ຄືນການຕັ້ງຄ່າເລີ່ມຕົ້ນ">
 
+<!ENTITY networkProtocolError.longDesc "<p>ບໍ່ສາມາດສະແດງຫນ້າເວັບທີ່ທ່ານກຳລັງເຂົ້າໄປເບິງໄດ້ ເພາະວ່າໄດ້ພົບມີຂໍ້ພິດພາບໃນໂປໂຕຄໍຂອງເນັດເວີກ.</p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທເພື່ອແຈ້ງກ່ຽວກັບບັນຫານີ້.</li></ul>">
