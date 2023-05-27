@@ -864,6 +864,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Падрабязней
 relay-integration =
     .label = Уключыце { -relay-brand-name } у сваім менеджары пароляў { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Прапаноўваць маскі электроннай пошты { -relay-brand-name } для абароны вашага адраса электроннай пошты
 relay-integration-learn-more-link = Падрабязней
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
