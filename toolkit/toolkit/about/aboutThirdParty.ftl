@@ -65,6 +65,7 @@ third-party-button-collapse =
 third-party-requires-restart = { -brand-short-name }қай үшінші тарап модульдері бұғатталғанын өзгерту үшін қайта іске қосылуы керек.
 third-party-should-restart-title = { -brand-short-name } қайта қосу
 third-party-should-restart-ok = { -brand-short-name } қазір қайта қосу
+third-party-restart-now = Қазір қайта қосу
 third-party-restart-later = Кейінірек қайта іске қосу
 third-party-blocked-by-builtin =
     .title = { -brand-short-name } өнімімен бұғатталған
