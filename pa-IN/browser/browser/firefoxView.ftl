@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = ਆਖਰੀ ਸਰਗਰਮੀ
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
 firefoxview-try-colorways-button = ਰੰਗ-ਢੰਗ ਵਰਤ ਕੇ ਵੇਖੋ
-firefoxview-no-current-colorway-collection = ਨਵਾਂ ਰੰਗ-ਢੰਗ ਆ ਰਿਹਾ ਹੈ
 firefoxview-change-colorway-button = ਰੰਗ-ਢੰਗ ਬਦਲੋ
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = ਸੂਚੀ ਵੇਖਾਓ
 firefoxview-collapse-button-hide =
     .title = ਸੂਚੀ ਲੁਕਾਓ
+firefoxview-overview-navigation = ਸੱਜਰੀ ਕੀਤੀ ਬਰਾਊਜ਼ਿੰਗ
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = ਅਤੀਤ
+firefoxview-history-header = ਅਤੀਤ
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+firefoxview-opentabs-header = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = ਸਭ ਵੇਖੋ

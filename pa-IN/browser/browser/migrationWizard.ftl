@@ -58,6 +58,7 @@ migration-favorites-option-label = ਪਸੰਦਾਂ
 migration-logins-and-passwords-option-label = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
 migration-history-option-label = ਬਰਾਊਜ਼ਰ ਅਤੀਤ
 migration-form-autofill-option-label = ਫ਼ਾਰਮ ਆਪੇ-ਭਰਨ ਵਾਲਾ ਡਾਟਾ
+migration-payment-methods-option-label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
 migration-passwords-from-file-progress-header = ਪਾਸਵਰਡ ਫ਼ਾਇਲ ਦਰਾਮਦ ਕਰੋ
 migration-passwords-from-file-success-header = ਪਾਸਵਰਡ ਕਾਮਯਾਬੀ ਨਾਲ ਦਰਾਮਦ ਕੀਤੇ ਗਏ
 migration-passwords-from-file = ਪਾਸਵਰਡਾਂ ਲਈ ਫ਼ਾਇਲ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
@@ -120,6 +121,7 @@ migration-list-favorites-label = ਪਸੰਦਾਂ
 migration-list-password-label = ਪਾਸਵਰਡ
 migration-list-history-label = ਅਤੀਤ
 migration-list-autofill-label = ਆਪੇ-ਭਰ ਵਾਲਾ ਡਾਟਾ
+migration-list-payment-methods-label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] ਪਿਛਲੇ { $maxAgeInDays } ਦਿਨਾਂ ਤੋਂ
     }
 migration-wizard-progress-success-formdata = ਫ਼ਾਰਮ ਅਤੀਤ
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } ਭੁਗਤਾਨ ਦਾ ਢੰਗ
+       *[other] { $quantity } ਭੁਗਤਾਨ ਦੇ ਢੰਗ
+    }
 migration-wizard-safari-permissions-sub-header = Safari ਬੁੱਕਮਾਰਕ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਦਰਾਮਦ ਕਰਨ ਲਈ:
 migration-wizard-safari-instructions-continue = “ਜਾਰੀ ਰੱਖੋ” ਨੂੰ ਚੁਣੋ
 migration-wizard-safari-instructions-folder = ਸੂਚੀ ਵਿੱਚੋਂ Safari ਫ਼ੋਲਡਰ ਚੁਣੋ ਅਤੇ “Open” ਨੂੰ ਚੁਣੋ

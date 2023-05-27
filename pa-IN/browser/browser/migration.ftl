@@ -149,3 +149,7 @@ browser-data-session-checkbox =
     .label = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
 browser-data-session-label =
     .value = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
+browser-data-payment-methods-checkbox =
+    .label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
+browser-data-payment-methods-label =
+    .value = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
