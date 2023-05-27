@@ -81,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Lisćinu pokazać
 firefoxview-collapse-button-hide =
     .title = Lisćinu schować
+firefoxview-overview-navigation = Njedawno wopytane
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Historija
+firefoxview-history-header = Historija
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Wočinjene rajtarki
+firefoxview-opentabs-header = Wočinjene rajtarki
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Wšě pokazać
