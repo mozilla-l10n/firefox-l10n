@@ -58,6 +58,7 @@ migration-favorites-option-label = Fawority
 migration-logins-and-passwords-option-label = Składowane přizjewjenja a hesła
 migration-history-option-label = Přehladowanska historija
 migration-form-autofill-option-label = Daty za awtomatiske wupjelnjenje formularow
+migration-payment-methods-option-label = Płaćenske metody
 migration-passwords-from-file-progress-header = Dataju hesłow importować
 migration-passwords-from-file-success-header = Hesła su so wuspěšnje importowali
 migration-passwords-from-file = Dataja za hesła so přepruwuje
@@ -124,6 +125,7 @@ migration-list-favorites-label = fawority
 migration-list-password-label = hesła
 migration-list-history-label = historija
 migration-list-autofill-label = Daty za awtomatiske wupjelnjenje
+migration-list-payment-methods-label = płaćenske metody
 
 ##
 
@@ -192,6 +194,18 @@ migration-wizard-progress-success-history =
        *[other] Z poslednich { $maxAgeInDays } dnjow
     }
 migration-wizard-progress-success-formdata = Formularna historija
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } płaćenska metoda
+        [two] { $quantity } płaćenskej metodźe
+        [few] { $quantity } płaćenske metody
+       *[other] { $quantity } płaćenskich metodow
+    }
 migration-wizard-safari-permissions-sub-header = Zo byšće zapołožki a přehladowansku historiju Safari importował:
 migration-wizard-safari-instructions-continue = Wubjerće „Pokročować“
 migration-wizard-safari-instructions-folder = Wubjerće rjadowak Safari w lisćinje a potom „Wočinić“
