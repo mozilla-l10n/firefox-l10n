@@ -34,7 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
-site-permission-install-first-prompt-midi-header = Бұл сайт сіздің MIDI (музыкалық аспаптың цифрлық интерфейсі) құрылғыларыңызға қатынау рұқсатын сұрайды. Құрылғыға қатынауды қосымшаны орнату арқылы іске қосуға болады.
+site-permission-install-first-prompt-midi-header = Бұл сайт сіздің MIDI (музыкалық аспаптың цифрлық интерфейсі) құрылғыларыңызға қатынау рұқсатын сұрайды. Құрылғыға қатынау рұқсатын қосымшаны орнату арқылы іске қосуға болады.
+site-permission-install-first-prompt-midi-message = Бұл қатынау рұқсаты қауіпсіз болатынына кепілдік берілмейді. Бұл сайтқа сенсеңіз ғана жалғастырыңыз.
 
 ##
 
