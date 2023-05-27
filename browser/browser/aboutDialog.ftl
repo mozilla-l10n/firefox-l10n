@@ -28,6 +28,7 @@ channel-description = ଆପଣ ବର୍ତ୍ତମାନ  ଏଠାରେ ଅ
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = ଆପଣ ବର୍ତ୍ତମାନ  ଏଠାରେ ଅଛନ୍ତି<label data-l10n-name="current-channel">{ $channel }</label>ଚ୍ୟାନେଲ ଅପଡେଟ କରନ୍ତୁ ।
 warningDesc-version = { -brand-short-name } ଟି ପରୀକ୍ଷାମୂଳକ ସ୍ଥିତିରେ ଅଛି ଏବଂ ହୁଏତଃ ଅସ୍ଥାୟୀ ହୋଇଥିବ।
+aboutdialog-help-user = { -brand-product-name } ସହାୟତା
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ଏକ ଅଟେ <label data-l10n-name="community-exp-creditsLink">ବିଶ୍ୱବ୍ୟାପି ସମ୍ପ୍ରଦାୟ</label> ୱେବକୁ ମୁକ୍ତ, ସର୍ବସାଧାରଣ ଏବଂ ସମସ୍ତଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟ ରଖିବା ପାଇଁ ଏକା ସହିତ କାମ କରୁଅଛୁ।
 community-2 = { -brand-short-name } ଟି ଏହା ଦ୍ୱାରା ରଚିତ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">ବିଶ୍ୱ ସମ୍ପ୍ରଦାୟ</label> ୱେବକୁ ମୁକ୍ତ, ସର୍ବସାଧାରଣ ଏବଂ ସମସ୍ତଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଏକା ସହିତ ମିଶି କାମ କରୁଅଛୁ।
 helpus = ସାହାର୍ଯ୍ୟ କରିବାକୁ ଚାହାନ୍ତି କି? <label data-l10n-name="helpus-donateLink"> ଦାନ କରନ୍ତୁ </label> କିମ୍ବା <label data-l10n-name="helpus-getInvolvedLink"> ଜଡ଼ିତ ହୁଅନ୍ତୁ!</label>
