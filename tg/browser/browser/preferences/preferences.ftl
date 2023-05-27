@@ -859,6 +859,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Маълумоти бештар
 relay-integration =
     .label = «{ -relay-brand-name }»-ро дар мудири ниҳонвожаҳои «{ -brand-short-name }» фаъол созед
+preferences-relay-integration-checkbox =
+    .label = Барои муҳофизат кардани нишонии почтаи электронии шумо, ниқобҳои муҳофизатии почтаи электронии { -relay-brand-name } пешниҳод карда мешаванд
 relay-integration-learn-more-link = Маълумоти бештар
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

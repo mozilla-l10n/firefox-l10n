@@ -81,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Намоиш додани рӯйхат
 firefoxview-collapse-button-hide =
     .title = Пинҳон кардани рӯйхат
+firefoxview-overview-navigation = Тамошокунии охирин
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Таърих
+firefoxview-history-header = Таърих
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Варақаҳои кушодашуда
+firefoxview-opentabs-header = Варақаҳои кушодашуда
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Ҳамаро дидан

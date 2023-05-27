@@ -58,6 +58,7 @@ migration-favorites-option-label = Баргузидаҳо
 migration-logins-and-passwords-option-label = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
 migration-history-option-label = Таърихи тамошо
 migration-form-autofill-option-label = Маълумоти пуркунии худкори шакл
+migration-payment-methods-option-label = Тарзҳои пардохт
 migration-passwords-from-file-progress-header = Ворид кардани файл бо ниҳонвожаҳо
 migration-passwords-from-file-success-header = Ниҳонвожаҳо бо муваффақият ворид карда шуданд
 migration-passwords-from-file = Санҷиши файл нисбат ба доштани ниҳонвожаҳо
@@ -120,6 +121,7 @@ migration-list-favorites-label = баргузидаҳо
 migration-list-password-label = ниҳонвожаҳо
 migration-list-history-label = таърих
 migration-list-autofill-label = маълумоти пуркунии худкор
+migration-list-payment-methods-label = тарзҳои пардохт
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Аз { $maxAgeInDays } рӯзи охирин
     }
 migration-wizard-progress-success-formdata = Таърихи шакл
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } тарзи пардохт
+       *[other] { $quantity } тарзи пардохт
+    }
 migration-wizard-safari-permissions-sub-header = Барои ворид кардани хатбаракҳо ва таърихи тамошокунии «Safari»:
 migration-wizard-safari-instructions-continue = «Идома додан»-ро интихоб намоед
 migration-wizard-safari-instructions-folder = Ҷузвдони «Safari»-ро аз рӯйхат интихоб карда, имкони «Кушодан»-ро интихоб намоед
