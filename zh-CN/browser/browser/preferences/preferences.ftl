@@ -852,6 +852,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = 详细了解
 relay-integration =
     .label = 启用 { -brand-short-name } 密码管理器的 { -relay-brand-name } 服务
+preferences-relay-integration-checkbox =
+    .label = 建议使用 { -relay-brand-name } 马甲邮箱以保护您的电子邮箱
 relay-integration-learn-more-link = 详细了解
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
