@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = ბოლოს მოქმედი
 firefoxview-tabs-list-tab-button =
     .title = გახსენით { $targetURI } ახალ ჩანართში
 firefoxview-try-colorways-button = მოსინჯეთ ახალი შეფერილობა
-firefoxview-no-current-colorway-collection = ახალი შეფერილობა უკვე გელოდებათ
 firefoxview-change-colorway-button = შეფერილობის შეცვლა
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = გამოჩენა
 firefoxview-collapse-button-hide =
     .title = აკეცვა
+firefoxview-overview-navigation = ბოლოს მონახულებული
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = ისტორია
+firefoxview-history-header = ისტორია
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = გახსნილი ჩანართები
+firefoxview-opentabs-header = გახსნილი ჩანართები
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = ყველას ნახვა

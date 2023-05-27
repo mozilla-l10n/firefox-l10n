@@ -13,6 +13,7 @@ xpinstall-prompt-message = თქვენ ცდილობთ დამატ
 ##
 
 xpinstall-prompt-header-unknown = ნებას რთავთ უცნობ საიტს, ჩადგას დამატება?
+xpinstall-prompt-message-unknown = თქვენ ცდილობთ დამატების ჩადგმას უცნობი საიტიდან. დარწმუნდით, რომ სანდო საიტია, სანამ განაგრძობთ.
 xpinstall-prompt-dont-allow =
     .label = აკრძალვა
     .accesskey = ა
