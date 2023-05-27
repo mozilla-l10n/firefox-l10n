@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = გაგზავნილია!
 confirmation-hint-firefox-relay-mask-generated = ახალი { -relay-brand-short-name }-ნიღაბი დამზადებულია!
 confirmation-hint-firefox-relay-mask-created = შეიქმნა ახალი ნიღაბი!
 confirmation-hint-firefox-relay-mask-reused = არსებული ნიღაბი გამოიყენება კვლავ!
+confirmation-hint-screenshot-copied = ეკრანის ასლი აღებულია!

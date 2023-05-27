@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = ზედწარწერები
     .tooltip = სუბტიტრები
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = სრულ ეკრანზე
+    .tooltip = სრულ ეკრანზე (ორმაგი წკაპი ან { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = სრული ეკრანიდან გამოსვლა
+    .tooltip = სრული ეკრანიდან გამოსვლა (ორმაგი წკაპი ან { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = გამოსვლა სრული ეკრანიდან
     .tooltip = სრულეკრანიანიდან გამოსვლა (ორმაგი წკაპი)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = უკუსვლა
     .tooltip = უკან გადახვევა (←)

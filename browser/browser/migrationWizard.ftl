@@ -58,6 +58,7 @@ migration-favorites-option-label = რჩეულები
 migration-logins-and-passwords-option-label = შენახული ანგარიშები და პაროლები
 migration-history-option-label = დათვალიერების ისტორია
 migration-form-autofill-option-label = შევსებული ველების მონაცემები
+migration-payment-methods-option-label = გადახდის საშუალებები
 migration-passwords-from-file-progress-header = პაროლების ფაილის გადმოტანა
 migration-passwords-from-file-success-header = პაროლები გადმოტანილია წარმატებით
 migration-passwords-from-file = ფაილის შემოწმება პაროლებისთვის
@@ -120,6 +121,7 @@ migration-list-favorites-label = რჩეულები
 migration-list-password-label = პაროლები
 migration-list-history-label = ისტორია
 migration-list-autofill-label = შევსებული ველები
+migration-list-payment-methods-label = გადახდის საშუალებები
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] წინა { $maxAgeInDays } დღიდან
     }
 migration-wizard-progress-success-formdata = შევსებული ველები
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } გადახდის საშუალება
+       *[other] { $quantity } გადახდის საშუალება
+    }
 migration-wizard-safari-permissions-sub-header = Safari-ს სანიშნებისა და დათვალიერების ისტორიის გადმოსატანად:
 migration-wizard-safari-instructions-continue = აირჩიეთ „გაგრძელება“
 migration-wizard-safari-instructions-folder = აირჩიეთ Safari-ს საქაღალდე სიიდან და მიუთითეთ „გახსნა“
