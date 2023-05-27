@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Máis información
 relay-integration =
     .label = Activar { -relay-brand-name } no teu xestor de contrasinais de { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Suxerir máscaras de correo electrónico de { -relay-brand-name } para protexer o seu enderezo de correo electrónico
 relay-integration-learn-more-link = Máis información
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
