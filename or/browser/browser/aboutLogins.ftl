@@ -136,6 +136,7 @@ about-logins-confirm-remove-dialog-confirm-button = କାଢ଼ନ୍ତୁ
 
 ##
 
+about-logins-confirm-export-dialog-confirm-button = …ରପ୍ତାନୀ କରିବା
 confirm-discard-changes-dialog-title = ଅଣସଞ୍ଚିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନଷ୍ଟ କରିଦେବେ?
 confirm-discard-changes-dialog-message = ସମସ୍ତ ଅଣସଂରକ୍ଷିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବିଲୁପ୍ତ ହୋଇଯିବ
 confirm-discard-changes-dialog-confirm-button = ପରିତ୍ୟାଗ
@@ -174,6 +175,7 @@ about-logins-error-message-default = ପାସୱାର୍ଡ଼ ସଂରକ୍
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = ହୋଇଗଲା
+about-logins-import-dialog-error-title = ଆମଦାନିରେ ତ୍ରୁଟି
 about-logins-import-dialog-error-file-format-title = ଫାଇଲ୍ ଫର୍ମାଟ୍ ସମସ୍ୟା
 about-logins-import-dialog-error-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 about-logins-import-dialog-error-cancel = ବାତିଲ କରନ୍ତୁ
