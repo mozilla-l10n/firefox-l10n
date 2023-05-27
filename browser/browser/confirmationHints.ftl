@@ -14,3 +14,5 @@ confirmation-hint-pin-tab-description = Бетті бекітуден босат
 confirmation-hint-send-to-device = Жіберілді!
 confirmation-hint-firefox-relay-mask-generated = Жаңа { -relay-brand-short-name } маскасы жасалды!
 confirmation-hint-firefox-relay-mask-created = Жаңа маска жасалды!
+confirmation-hint-firefox-relay-mask-reused = Бар болып тұрған маска қайта қолданылды!
+confirmation-hint-screenshot-copied = Скриншот көшірілді!
