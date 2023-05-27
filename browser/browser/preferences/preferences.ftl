@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Daha fazla bilgi al
 relay-integration =
     .label = { -brand-short-name } parola yöneticinizde { -relay-brand-name }’i etkinleştirin
+preferences-relay-integration-checkbox =
+    .label = E-posta adresimi korumak için { -relay-brand-name } e-posta maskeleri öner
 relay-integration-learn-more-link = Daha fazla bilgi al
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
