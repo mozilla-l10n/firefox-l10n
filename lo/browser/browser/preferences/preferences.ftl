@@ -765,6 +765,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 relay-integration =
     .label = ເປີດໃຊ້ { -relay-brand-name } ໃນຕົວຈັດການລະຫັດຜ່ານ { -brand-short-name } ຂອງທ່ານ
+preferences-relay-integration-checkbox =
+    .label = ແນະນຳໜ້າກາກອີເມວ { -relay-brand-name } ເພື່ອປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານ
 relay-integration-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
