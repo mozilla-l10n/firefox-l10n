@@ -34,6 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-message = ਇਹ ਪਹੁੰਚ ਦੀ ਸੁਰੱਖਿਅਤ ਹੋਣ ਦੀ ਗਾਰੰਟੀ ਨਹੀਂ ਹੈ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਜਾਰੀ ਰੱਖਿਓ।
 
 ##
 

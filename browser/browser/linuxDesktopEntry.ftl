@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = ਵਰਲਡ ਵਾਈਡ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਕਰੋ
 desktop-entry-generic-name = ਵੈੱਬ ਬਰਾਊਜ਼ਰ
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = { -brand-shortcut-name } ਵੈੱਬ ਬਰਾਊਜ਼ਰ
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = ਇੰਟਰਨੈੱਟ;WWW;ਬਰਾਊਜ਼ਰ;ਵੈ�
 
 desktop-action-new-window-name = ਨਵੀਂ ਵਿੰਡੋ
 desktop-action-new-private-window-name = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ
+desktop-action-open-profile-manager = ਪਰੋਫ਼ਾਈਲ ਮੈਨੇਜਰ ਖੋਲ੍ਹੋ
