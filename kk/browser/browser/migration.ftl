@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Терезелер мен беттер
 browser-data-session-label =
     .value = Терезелер мен беттер
+browser-data-payment-methods-checkbox =
+    .label = Төлем әдістері
+browser-data-payment-methods-label =
+    .value = Төлем әдістері

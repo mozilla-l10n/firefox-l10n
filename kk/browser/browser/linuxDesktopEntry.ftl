@@ -24,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;Интернет;Ға
 
 desktop-action-new-window-name = Жаңа терезе
 desktop-action-new-private-window-name = Жаңа жекелік терезе
+desktop-action-open-profile-manager = Профильдер бақарушысын ашу

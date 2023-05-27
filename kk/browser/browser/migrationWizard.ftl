@@ -58,6 +58,7 @@ migration-favorites-option-label = Таңдамалы
 migration-logins-and-passwords-option-label = Сақталған логиндер мен парольдер
 migration-history-option-label = Шолу тарихы
 migration-form-autofill-option-label = Формаларды автотолтыру деректері
+migration-payment-methods-option-label = Төлем әдістері
 migration-passwords-from-file-progress-header = Парольдер файлын импорттау
 migration-passwords-from-file-success-header = Парольдер сәтті импортталды
 migration-passwords-from-file = Файлды парольдерге тексеру
@@ -120,6 +121,7 @@ migration-list-favorites-label = таңдамалы
 migration-list-password-label = парольдер
 migration-list-history-label = тарих
 migration-list-autofill-label = автотолтыру деректері
+migration-list-payment-methods-label = төлем әдістері
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Соңғы { $maxAgeInDays } күннен бастап
     }
 migration-wizard-progress-success-formdata = Формалар тарихы
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } төлем әдісі
+       *[other] { $quantity } төлем әдісі
+    }
 migration-wizard-safari-permissions-sub-header = Safari бетбелгілері мен шолу тарихын импорттау үшін:
 migration-wizard-safari-instructions-continue = "Жалғастыру" таңдаңыз
 migration-wizard-safari-instructions-folder = Тізімнен Safari бумасын таңдап, "Ашу" басыңыз.
