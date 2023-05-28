@@ -13,6 +13,14 @@
 onboarding-welcome-header = Witamy w przeglądarce { -brand-short-name }
 onboarding-start-browsing-button-label = Zacznij przeglądać Internet
 onboarding-not-now-button-label = Nie teraz
+mr1-onboarding-get-started-primary-button-label = Pierwsze kroki
+mr1-onboarding-welcome-header = Witamy w przeglądarce { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako główną
+    .title = Ustawia przeglądarkę { -brand-short-name } jako domyślną i przypina ją do paska zadań
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako domyślną
+mr1-onboarding-set-default-secondary-button-label = Nie teraz
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Dodaj „{ $addon-name }”
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Pierwsze kroki: { $current }. ekran z { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Postęp: { $current }. krok z { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -62,6 +62,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — projektantka mebli, fanka Firefoksa
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Postęp: { $current }. krok z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Wyłącz animacje
 
@@ -84,16 +92,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Pierwsze kroki
-mr1-onboarding-welcome-header = Witamy w przeglądarce { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako główną
-    .title = Ustawia przeglądarkę { -brand-short-name } jako domyślną i przypina ją do paska zadań
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako domyślną
-mr1-onboarding-set-default-secondary-button-label = Nie teraz
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Zaloguj się
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -428,3 +427,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Widok na zachód słońca przez okno z lisem i rośliną doniczkową na parapecie
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Farba w sprayu maluje kolorowy kolaż zielonego oka, pomarańczowego buta, czerwonej piłki do koszykówki, fioletowych słuchawek, niebieskiego serca i żółtej korony
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Lis na ekranie laptopa macha łapą. Laptop ma podłączoną mysz.
+onboarding-device-migration-title = Witamy z powrotem!
+onboarding-device-migration-subtitle = Zaloguj się na { -fxaccount-brand-name(case: "loc", capitalization: "lower") }, aby przenieść swoje zakładki, hasła i historię na nowe urządzenie.
+onboarding-device-migration-primary-button-label = Zaloguj się
