@@ -844,6 +844,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Tìm hiểu thêm
 relay-integration =
     .label = Bật { -relay-brand-name } trong trình quản lý mật khẩu { -brand-short-name } của bạn
+preferences-relay-integration-checkbox =
+    .label = Đề xuất mặt nạ email { -relay-brand-name } để bảo vệ địa chỉ email của bạn
 relay-integration-learn-more-link = Tìm hiểu thêm
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
