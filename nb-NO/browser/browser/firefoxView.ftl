@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Sist aktiv
 firefoxview-tabs-list-tab-button =
     .title = Åpne { $targetURI } i en ny fane
 firefoxview-try-colorways-button = Prøv fargesammensettinger
-firefoxview-no-current-colorway-collection = Nye fargesammensettinger er på vei
 firefoxview-change-colorway-button = Endre fargesammensetting
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,18 @@ firefoxview-collapse-button-show =
     .title = Vis liste
 firefoxview-collapse-button-hide =
     .title = Skjul liste
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Historikk
+firefoxview-history-header = Historikk
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Åpne faner
+firefoxview-opentabs-header = Åpne faner
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Vis alle
