@@ -37,7 +37,6 @@ abuse-report-submit-button = ᱡᱚᱢᱟᱭ ᱢᱮ
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
-abuse-report-messagebar-aborted = <span data-l10n-name="addon-name"> ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱢᱟᱱᱟ ᱮᱱᱟ ᱾
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-name }</span> ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱜ ᱠᱟᱱᱟ ᱾
 abuse-report-messagebar-submitted = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ ᱪᱮᱫ <span data-l10n-name="addon-name">{ $addon-name }</span> ᱢᱮᱴᱟᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
 abuse-report-messagebar-submitted-noremove = ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱜᱮ ᱾
