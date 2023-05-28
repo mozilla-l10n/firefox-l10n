@@ -44,6 +44,8 @@ findbar-case-sensitive-status =
     .value = (ᱢᱤᱥᱤᱨ ᱵᱷᱮᱫᱟᱣᱟᱜ )
 findbar-match-diacritics-status =
     .value = (ᱵᱤᱥᱮᱥᱚᱠ ᱠᱚ ᱢᱮᱲᱟᱣ)
+findbar-entire-word-status =
+    .value = (ᱯᱩᱨᱟᱹ ᱟᱹᱲᱟᱹ ᱜᱮ)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches

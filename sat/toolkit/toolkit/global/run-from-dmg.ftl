@@ -22,3 +22,7 @@ install-failed-message = { -brand-short-name } ᱵᱚᱦᱟᱞ ᱰᱤᱜᱟᱹ�
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = ᱢᱟᱲᱟᱝᱟᱜ { -brand-short-name } ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱷᱩᱞᱟᱹᱭᱟᱢ ᱥᱮ ?
+prompt-to-launch-existing-app-message = ᱟᱢ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ { -brand-short-name } ᱵᱚᱦᱟᱞ ᱠᱟᱫᱟᱢ ᱾ ᱟᱹᱯᱴᱩᱰᱮᱴ ᱛᱟᱦᱮᱸᱱ ᱟᱨ ᱰᱟᱴᱟ ᱞᱚᱥ ᱟᱞᱚ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱵᱚᱦᱟᱞ ᱠᱟᱱ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+prompt-to-launch-existing-app-yes-button = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜᱟᱜ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+prompt-to-launch-existing-app-no-button = ᱵᱟᱝᱟ ᱥᱟᱨᱦᱟᱣ
