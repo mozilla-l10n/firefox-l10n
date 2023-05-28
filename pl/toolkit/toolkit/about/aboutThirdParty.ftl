@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-page-title = Informacje o modułach zewnętrznych
-third-party-section-title = Lista modułów zewnętrznych w programie { -brand-short-name }
+third-party-section-title = Lista modułów zewnętrznych w { -brand-short-name(case: "loc") }
 third-party-intro =
     Na tej stronie wyświetlane są moduły zewnętrzne, które zostały umieszczone w tej kopii
-    programu { -brand-short-name }. Każdy moduł niepodpisany przez firmę Microsoft lub
+    { -brand-short-name(case: "gen") }. Każdy moduł niepodpisany przez firmę Microsoft lub
     { -vendor-short-name(case: "acc") } jest uważany za moduł zewnętrzny.
 third-party-message-empty = Nie wykryto żadnych modułów zewnętrznych.
 third-party-message-no-duration = Nie nagrano
@@ -54,17 +54,19 @@ third-party-button-to-unblock =
 third-party-button-to-unblock-disabled =
     .title =
         Obecnie oznaczony jako zablokowany, chociaż lista blokowania jest wyłączona
-        na czas tego uruchomienia programu { -brand-short-name }. Kliknij, aby go odblokować.
+        na czas tego uruchomienia { -brand-short-name(case: "gen") }. Kliknij, aby go odblokować.
     .aria-label =
         Obecnie oznaczony jako zablokowany, chociaż lista blokowania jest wyłączona
-        na czas tego uruchomienia programu { -brand-short-name }. Kliknij, aby go odblokować.
+        na czas tego uruchomienia { -brand-short-name(case: "gen") }. Kliknij, aby go odblokować.
 third-party-button-expand =
     .title = Wyświetl szczegółowe informacje
 third-party-button-collapse =
     .title = Zwiń szczegółowe informacje
 third-party-requires-restart = { -brand-short-name } musi zostać ponownie uruchomiony, aby zmienić blokowane moduły zewnętrzne.
+third-party-blocking-requires-restart = { -brand-short-name } musi zostać ponownie uruchomiony, aby zablokować moduł zewnętrzny.
 third-party-should-restart-title = Ponowne uruchomienie { -brand-short-name(case: "gen") }
 third-party-should-restart-ok = Uruchom { -brand-short-name(case: "acc") } ponownie
+third-party-restart-now = Uruchom ponownie
 third-party-restart-later = Uruchom ponownie później
 third-party-blocked-by-builtin =
     .title = Zablokowane przez { -brand-short-name(case: "acc") }
