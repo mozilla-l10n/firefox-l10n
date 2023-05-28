@@ -103,8 +103,8 @@ tabbrowser-confirm-close-windows-button =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
-tabbrowser-confirm-close-tabs-with-key-title = Zamknąć okno i zakończyć program { -brand-short-name }?
-tabbrowser-confirm-close-tabs-with-key-button = Zakończ program { -brand-short-name }
+tabbrowser-confirm-close-tabs-with-key-title = Zamknąć okno i zakończyć { -brand-short-name(case: "acc") }?
+tabbrowser-confirm-close-tabs-with-key-button = Zakończ { -brand-short-name(case: "acc") }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Pytaj o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
@@ -116,10 +116,10 @@ tabbrowser-confirm-open-multiple-tabs-title = Potwierdzenie otwarcia
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
-       *[other] Nastąpi otwarcie { $tabCount } kart jednocześnie. Może to spowodować spowolnienie działania przeglądarki { -brand-short-name } podczas wczytywania stron. Czy na pewno kontynuować?
+       *[other] Nastąpi otwarcie { $tabCount } kart jednocześnie. Może to spowodować spowolnienie działania { -brand-short-name(case: "gen") } podczas wczytywania stron. Czy na pewno kontynuować?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Otwórz karty
-tabbrowser-confirm-open-multiple-tabs-checkbox = Ostrzegaj, kiedy próba otwarcia zbyt wielu kart może spowolnić przeglądarkę { -brand-short-name }
+tabbrowser-confirm-open-multiple-tabs-checkbox = Ostrzegaj, kiedy próba otwarcia zbyt wielu kart może spowolnić { -brand-short-name(case: "acc") }
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -133,7 +133,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Nie pytaj ponownie.
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Zezwalaj powiadomieniom tego typu z { $domain } przełączać na kartę, z której są otwierane
-tabbrowser-customizemode-tab-title = Dostosowywanie programu { -brand-short-name }
+tabbrowser-customizemode-tab-title = Dostosowywanie { -brand-short-name(case: "gen") }
 
 ## Context menu buttons, of which only one will be visible at a time
 
@@ -151,6 +151,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Włącz dźwięki
     .accesskey = W
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Odtwarza dźwięk
 
 ## Ctrl-Tab dialog
 
