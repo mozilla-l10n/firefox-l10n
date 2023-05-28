@@ -182,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Fra de siste { $maxAgeInDays } dagene
     }
 migration-wizard-progress-success-formdata = Skjemahistorikk
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } betalingsmåte
+       *[other] { $quantity } betalingsmåter
+    }
 migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerker og nettleserhistorikk:
 migration-wizard-safari-instructions-continue = Velg «Fortsett»
 migration-wizard-safari-instructions-folder = Velg Safari-mappen i listen og velg «Åpne»
