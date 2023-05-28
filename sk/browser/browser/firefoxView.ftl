@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Naposledy prezerané
 firefoxview-tabs-list-tab-button =
     .title = Otvoriť { $targetURI } na novej karte
 firefoxview-try-colorways-button = Vyskúšajte farebné témy
-firefoxview-no-current-colorway-collection = Nové farby sú na ceste
 firefoxview-change-colorway-button = Zmeniť farebnú tému
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Zobraziť zoznam
 firefoxview-collapse-button-hide =
     .title = Skryť zoznam
+firefoxview-overview-navigation = Nedávne prehliadanie
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = História
+firefoxview-history-header = História
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Otvorené karty
+firefoxview-opentabs-header = Otvorené karty
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Zobraziť všetky
