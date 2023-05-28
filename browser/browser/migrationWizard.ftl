@@ -58,6 +58,7 @@ migration-favorites-option-label = Obľúbené položky
 migration-logins-and-passwords-option-label = Uložené prihlasovacie údaje a heslá
 migration-history-option-label = História prehliadania
 migration-form-autofill-option-label = Údaje automatického dopĺňania formulárov
+migration-payment-methods-option-label = Spôsoby platby
 migration-passwords-from-file-progress-header = Import súboru s heslami
 migration-passwords-from-file-success-header = Heslá boli úspešne importované
 migration-passwords-from-file = Vyhľadávajú sa heslá v súbore
@@ -124,6 +125,7 @@ migration-list-favorites-label = obľúbené položky
 migration-list-password-label = heslá
 migration-list-history-label = história
 migration-list-autofill-label = údaje automatického dopĺňania
+migration-list-payment-methods-label = spôsoby platby
 
 ##
 
@@ -192,6 +194,18 @@ migration-wizard-progress-success-history =
        *[other] Za posledných { $maxAgeInDays } dní
     }
 migration-wizard-progress-success-formdata = Údaje zadané do formulárov
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } spôsob platby
+        [few] { $quantity } spôsoby platby
+        [many] { $quantity } spôsobov platby
+       *[other] { $quantity } spôsobov platby
+    }
 migration-wizard-safari-permissions-sub-header = Ak chcete importovať záložky a históriu prehliadania zo Safari:
 migration-wizard-safari-instructions-continue = Zvoľte tlačidlo “Pokračovať”
 migration-wizard-safari-instructions-folder = V zozname vyberte priečinok Safari a zvoľte “Otvoriť”
