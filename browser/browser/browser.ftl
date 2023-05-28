@@ -1001,6 +1001,10 @@ firefox-relay-offer-what-relay-does = Będziemy przekierowywać wszystkie wiadom
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Nasze bezpieczne, łatwe w użyciu maski chronią Twoją tożsamość i zapobiegają spamowi, ukrywając Twój adres e-mail.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Wszystkie wiadomości wysłane na Twoje maski będą przekazywane na adres <strong>{ $useremail }</strong> (chyba że zdecydujesz się je zablokować).
 
 ## Add-on Pop-up Notifications
 
