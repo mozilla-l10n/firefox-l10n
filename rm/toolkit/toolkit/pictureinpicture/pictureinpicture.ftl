@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Suttitels
     .tooltip = Suttitels
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Maletg entir
+    .tooltip = Maletg entir (clic dubel u { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Bandunar il maletg entir
+    .tooltip = Bandunar il maletg entir (clic dubel u { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Bandunar il modus da maletg entir
     .tooltip = Bandunar il modus da maletg entir (clic dubel)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Enavos
     .tooltip = Enavos (←)
