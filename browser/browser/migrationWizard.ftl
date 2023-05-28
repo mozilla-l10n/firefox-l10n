@@ -58,6 +58,7 @@ migration-favorites-option-label = Trang ưa thích
 migration-logins-and-passwords-option-label = Thông tin đăng nhập và mật khẩu đã lưu
 migration-history-option-label = Lịch sử duyệt web
 migration-form-autofill-option-label = Dữ liệu tự động điền biểu mẫu
+migration-payment-methods-option-label = Phương thức thanh toán
 migration-passwords-from-file-progress-header = Nhập tập tin mật khẩu
 migration-passwords-from-file-success-header = Đã nhập mật khẩu thành công
 migration-passwords-from-file = Kiểm tra tập tin cho mật khẩu
@@ -112,6 +113,7 @@ migration-list-favorites-label = trang ưa thích
 migration-list-password-label = mật khẩu
 migration-list-history-label = lịch sử
 migration-list-autofill-label = dữ liệu tự động điền
+migration-list-payment-methods-label = phương thức thanh toán
 
 ##
 
@@ -156,6 +158,12 @@ migration-wizard-progress-success-passwords = { $quantity } mật khẩu
 #  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
 migration-wizard-progress-success-history = Từ { $maxAgeInDays } ngày qua
 migration-wizard-progress-success-formdata = Lịch sử biểu mẫu
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods = { $quantity } phương thức thanh toán
 migration-wizard-safari-permissions-sub-header = Để nhập dấu trang Safari và lịch sử duyệt web:
 migration-wizard-safari-instructions-continue = Chọn “Tiếp tục”
 migration-wizard-safari-instructions-folder = Chọn thư mục Safari trong danh sách và chọn “Mở”
