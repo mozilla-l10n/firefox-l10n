@@ -39,9 +39,20 @@ permission-dialog-description-extension-app = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥ
 ##  $host (string) - The hostname that is initiating the request
 ##  $scheme (string) - The type of link that's being opened.
 
+permission-dialog-remember = <strong>{ $scheme }</strong>ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹ ᱞᱟᱹᱜᱤᱫ<strong>{ $host }</strong>ᱦᱮᱸᱥᱤᱭᱟᱹᱨ ᱪᱷᱚᱭᱮᱢ
+permission-dialog-remember-file = ᱨᱮᱫᱽ ᱫᱚ <strong>{ $scheme }</strong> ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱣᱜᱮ ᱦᱮᱸᱥᱤᱭᱟᱹᱨ ᱪᱷᱚᱣᱟᱭ ᱮᱢ
+permission-dialog-remember-extension = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ <strong>{ $scheme }</strong> ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱣᱜᱮ ᱦᱮᱸᱥᱤᱭᱟᱹᱨ ᱪᱷᱚᱣᱟᱭ ᱮᱢ
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .accessKey = A
+permission-dialog-unset-description = ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾
+permission-dialog-set-change-app-link = ᱢᱤᱫᱴᱟᱹᱝ ᱮᱴᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
 ## Chooser dialog
 ## Variables:
@@ -52,6 +63,15 @@ permission-dialog-description-extension-app = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥ
 ## Variables:
 ##  $scheme (string) - The type of link that's being opened.
 
+chooser-window =
+    .title = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = { $scheme } ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = <strong>{ $scheme }</strong> ᱞᱤᱝᱠ ᱠᱚ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱶᱟ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱡᱟᱹᱣᱜᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 choose-app-btn =
     .label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
     .accessKey = ᱵ
