@@ -87,3 +87,9 @@ abuse-report-broken-suggestions-theme =
     ᱦᱩᱭᱩᱜᱼᱟ ᱱᱚᱶᱟ ᱛᱷᱤᱢ ᱵᱟᱵᱚᱛ ᱫᱚ ᱟᱢ ᱛᱷᱤᱢ ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱥᱟᱞᱟᱜ ᱠᱟᱛᱷᱟᱜ ᱢᱮ ᱾
     ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="support-link">ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱪᱟᱞᱟᱜ ᱢᱮ</a> ᱾
 abuse-report-policy-reason-v2 = ᱱᱚᱶᱟ ᱨᱮ ᱦᱤᱨᱠᱟᱹ, ᱦᱤᱸᱥᱟᱹᱞᱤᱭᱟᱹ ᱟᱨ ᱵᱟᱝ ᱵᱟᱝ ᱟᱹᱛᱷᱟᱹᱲᱤ ᱵᱮᱥᱟᱹᱨᱤᱭᱟᱹ ᱡᱤᱱᱤᱥ ᱢᱮᱱᱟᱜᱼᱟ
+abuse-report-policy-suggestions =
+    ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱺ ᱱᱚᱠᱚᱞ ᱟᱨ ᱴᱨᱮᱰᱢᱟᱨᱠ ᱵᱚᱵᱚᱛ ᱢᱩᱫᱼᱫᱟ ᱫᱚ ᱮᱴᱟᱜ ᱡᱟᱭᱜᱟ ᱨᱮ ᱠᱷᱚᱵᱚᱨ ᱯᱮ ᱾
+    ᱠᱷᱚᱵᱚᱨ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="report-infringement-link">ᱱᱚᱶᱟ ᱫᱤᱥᱟᱹᱩᱫᱩᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ</a> ᱾
+abuse-report-unwanted-reason-v2 = ᱤᱧ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱹᱧ ᱫᱚᱠᱟᱨᱟᱜᱼᱟ ᱟᱨ ᱤᱧ ᱵᱟᱹᱧ ᱵᱟᱲᱟᱭᱟ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱱᱚᱶᱟ ᱠᱷᱚᱱ ᱥᱟᱦᱟᱜᱼᱟ
+abuse-report-unwanted-example = ᱫᱟᱹᱭᱠᱟᱹ ᱺ ᱤᱧᱟᱜ ᱵᱤᱱ ᱠᱩᱠᱞᱤ ᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱚᱦᱚᱞ ᱮᱱᱟ
+abuse-report-other-reason = ᱡᱟᱦᱱᱟᱜ ᱮᱴᱟᱜ ᱡᱤᱱᱤᱥ
