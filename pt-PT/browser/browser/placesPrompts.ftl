@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (sem título)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Por motivos de segurança, os endereços “javascript:” ou “data:” não podem ser carregados a partir da janela do histórico ou da barra lateral.
 places-bookmarks-backup-title = Nome de ficheiro da cópia de segurança de marcadores
 places-bookmarks-restore-alert-title = Reverter marcadores
 places-bookmarks-restore-alert = Esta operação substituirá todos os atuais marcadores pelos da cópia de segurança. Tem a certeza?
