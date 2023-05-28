@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Hoạt động lần cuối
 firefoxview-tabs-list-tab-button =
     .title = Mở { $targetURI } trong một thẻ mới
 firefoxview-try-colorways-button = Thử đường màu
-firefoxview-no-current-colorway-collection = Các đường màu mới đang được triển khai
 firefoxview-change-colorway-button = Thay đổi đường màu
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Hiển thị danh sách
 firefoxview-collapse-button-hide =
     .title = Ẩn danh sách
+firefoxview-overview-navigation = Duyệt web gần đây
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Lịch sử
+firefoxview-history-header = Lịch sử
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Các thẻ đang mở
+firefoxview-opentabs-header = Các thẻ đang mở
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Xem tất cả
