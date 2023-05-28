@@ -854,7 +854,7 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Dźwięk lub obraz na tej stronie używają oprogramowania DRM, które może ograniczać możliwości oferowane przez przeglądarkę { -brand-short-name }.
+eme-notifications-drm-content-playing = Dźwięk lub obraz na tej stronie używają oprogramowania DRM, które może ograniczać możliwości oferowane przez { -brand-short-name(case: "acc") }.
 eme-notifications-drm-content-playing-manage = Zarządzaj ustawieniami
 eme-notifications-drm-content-playing-manage-accesskey = u
 eme-notifications-drm-content-playing-dismiss = Zamknij
@@ -933,7 +933,7 @@ navbar-print =
     .tooltiptext = Wydrukuj tę stronę… ({ $shortcut })
 navbar-home =
     .label = Strona startowa
-    .tooltiptext = Przejdź do strony startowej przeglądarki { -brand-short-name }
+    .tooltiptext = Przejdź do strony startowej { -brand-short-name(case: "gen") }
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Wyświetl historię, zachowane zakładki i jeszcze więcej

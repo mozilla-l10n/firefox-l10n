@@ -161,6 +161,7 @@ tabbrowser-tab-audio-playing-description = Odtwarza dźwięk
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
+            [one] Wyświetl kartę na liście
             [few] Wyświetl listę ze wszystkimi { $tabCount } kartami
            *[many] Wyświetl wszystkie { $tabCount } kart na liście
         }
