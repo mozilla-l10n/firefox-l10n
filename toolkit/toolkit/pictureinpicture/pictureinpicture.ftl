@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Legendas
     .tooltip = Legendas
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Ecrã completo
+    .tooltip = Ecrã completo (duplo clique ou { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Sair do ecrã completo
+    .tooltip = Sair do ecrã completo (duplo clique ou { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Sair do ecrã completo
     .tooltip = Sair do ecrã completo (duplo clique)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Retroceder
     .tooltip = Retroceder (←)
