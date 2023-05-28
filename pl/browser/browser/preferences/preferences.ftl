@@ -863,7 +863,9 @@ forms-breach-alerts =
     .accesskey = o
 forms-breach-alerts-learn-more-link = Więcej informacji
 relay-integration =
-    .label = Włącz { -relay-brand-name } w menedżerze haseł { -brand-short-name(case: "gen") }
+    .label = Włącz { -relay-brand-name } w menedżerze haseł { -brand-short-name(case: "gen") }.
+preferences-relay-integration-checkbox =
+    .label = Proponowanie masek { -relay-brand-name } do ochrony adresu e-mail.
 relay-integration-learn-more-link = Więcej informacji
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
