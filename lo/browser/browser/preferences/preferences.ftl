@@ -1121,6 +1121,9 @@ certs-view =
 certs-devices =
     .label = ອຸປະກອນຄວາມປອດໄພ…
     .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = ເປີດການຕັ້ງຄ່າ
+    .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } ກຳລັງຈະໝົດພື້ນທີ່ດິສກ໌.</strong> ເນື້ອຫາເວັບໄຊທ໌ອາດຈະບໍ່ສະແດງຢ່າງຖືກຕ້ອງ. ທ່ານ​ສາ​ມາດ​ລຶບ​ຂໍ້​ມູນ​ທີ່​ເກັບ​ໄວ້​ໄດ້​ໃນ​ການ​ຕັ້ງ​ຄ່າ > ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ & ຄວາມ​ປອດ​ໄພ​> Cookies ແລະ​ຂໍ້​ມູນ​ເວັບ​ໄຊ.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ກຳລັງຈະໝົດພື້ນທີ່ດິສກ໌.</strong> ເນື້ອຫາເວັບໄຊທ໌ອາດຈະບໍ່ສະແດງຢ່າງຖືກຕ້ອງ. ເຂົ້າໄປທີ່ “ສຶກສາເພີ່ມເຕີມ” ເພື່ອປັບແຕ່ງການນຳໃຊ້ດິສກ໌ຂອງທ່ານເພື່ອປະສົບການການຊອກຫາທີ່ດີຂຶ້ນ.
 

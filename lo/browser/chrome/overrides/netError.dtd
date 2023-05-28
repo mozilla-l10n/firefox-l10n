@@ -50,6 +50,7 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.longDesc "<p>ເອກະສານທີໄດ້ຮ້ອງຂໍໄປບໍ່ມີຢູ່ໃນຖານຄວາມຈຳຊົວຄ່າວຂອງ &brandShortName;.</p><ul><li>ເພື່ອເປັນການຮັກສາຄວາມປອດໄພ, &brandShortName; ຈະບໍ່ມີການຮ້ອງຂໍເອກະສານທີ່ລະອຽດອ່ອນຄືນແບບອັດຕະໂນມັດ.</li><li>ຄິກໃສ່ລອງອີກຄັ້ງເພື່ອຮ້ອງຂໍເອກະສານນີ້ຄືນອີກເທື່ອຫນຶ່ງຈາກເວັບໄຊທ໌ນີ້.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -122,6 +123,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ເຈົ້າສາມາດເຮັດແນວໃດກ່ຽວກັບມັນ?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>ບັນຫາແມ່ນເປັນໄປໄດ້ຫຼາຍທີ່ສຸດກັບເວັບໄຊທ໌, ແລະບໍ່ມີຫຍັງທີ່ເຈົ້າສາມາດແກ້ໄຂມັນໄດ້.</p>
+<p>ຖ້າທ່ານຢູ່ໃນເຄືອຂ່າຍຂອງບໍລິສັດ ຫຼືໃຊ້ຊອບແວຕ້ານໄວຣັສ, ທ່ານສາມາດຕິດຕໍ່ກັບທີມງານຊ່ວຍເຫຼືອເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ. ນອກນັ້ນທ່ານຍັງສາມາດແຈ້ງໃຫ້ຜູ້ເບິ່ງແຍງຂອງເວັບໄຊທ໌ກ່ຽວກັບບັນຫາດັ່ງກ່າວ.</p>
+">
 
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
