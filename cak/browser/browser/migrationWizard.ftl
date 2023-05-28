@@ -58,6 +58,7 @@ migration-favorites-option-label = Taq ajowab'äl
 migration-logins-and-passwords-option-label = Yakon kitikirisaxik molojri'ïl chuqa' ewan taq tzij
 migration-history-option-label = Runatab'al okem pa k'amaya'l
 migration-form-autofill-option-label = Rutzij nojwuj ruyon ninojisäx
+migration-payment-methods-option-label = Rub'eyal tojïk
 migration-passwords-from-file-progress-header = Tijik' Ruyakb'al Ewan taq Tzij
 migration-passwords-from-file-success-header = Ütz xejik' ewan taq tzij
 migration-passwords-from-file = Tikanöx ruyakb'al ewan taq tzij
@@ -120,6 +121,7 @@ migration-list-favorites-label = taq ajowab'äl
 migration-list-password-label = ewan taq tzij
 migration-list-history-label = natab'äl
 migration-list-autofill-label = taq tzij yonil nikinojisaj ki'
+migration-list-payment-methods-label = rub'eyal tojïk
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Richin ruk'isib'äl { $maxAgeInDays } q'ij
     }
 migration-wizard-progress-success-formdata = Runojwuj natab'äl
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } rub'eyal tojïk
+       *[other] { $quantity } rub'eyal taq tojïk
+    }
 migration-wizard-safari-permissions-sub-header = Richin yejik' taq yaketal chuqa' taq runatab'al rokem Safari:
 migration-wizard-safari-instructions-continue = Ticha' “Tisamajïx”
 migration-wizard-safari-instructions-folder = Ticha' ri rumolyakb'al Safari pa ri cholb'äl k'a ri ticha' “Tijaq”

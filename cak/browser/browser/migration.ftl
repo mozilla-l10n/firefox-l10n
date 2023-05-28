@@ -147,3 +147,5 @@ browser-data-session-checkbox =
     .label = Taq ruwäch chuqa' taq ruwi'
 browser-data-session-label =
     .value = Taq ruwäch chuqa' taq ruwi'
+browser-data-payment-methods-label =
+    .value = Rub'eyal tojïk
