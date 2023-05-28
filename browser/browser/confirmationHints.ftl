@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Đã gửi!
 confirmation-hint-firefox-relay-mask-generated = Đã tạo mặt nạ { -relay-brand-short-name } mới!
 confirmation-hint-firefox-relay-mask-created = Đã tạo mặt nạ mới!
 confirmation-hint-firefox-relay-mask-reused = Mặt nạ hiện tại đã được tái sử dụng!
+confirmation-hint-screenshot-copied = Đã sao chép ảnh chụp màn hình!
