@@ -85,9 +85,15 @@ firefoxview-overview-navigation = Ostatnio przeglądane
 
 ## History in this context refers to browser history
 
+firefoxview-history-navigation = Historia
+firefoxview-history-header = Historia
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-navigation = Otwarte karty
+firefoxview-opentabs-header = Otwórz karty
 
 ##
 
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Pokaż wszystko

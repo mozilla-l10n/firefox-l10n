@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Przeglądaj Internet
 desktop-entry-generic-name = Przeglądarka internetowa
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = Przeglądarka { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Przeglądarka;Browser;Wyszukiwarka;Web;Sie
 
 desktop-action-new-window-name = Nowe okno
 desktop-action-new-private-window-name = Nowe okno prywatne
+desktop-action-open-profile-manager = Menedżer profili
