@@ -72,7 +72,15 @@ chooser-dialog =
 chooser-dialog-description = { $scheme } ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = <strong>{ $scheme }</strong> ᱞᱤᱝᱠ ᱠᱚ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱶᱟ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱡᱟᱹᱣᱜᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }ᱦᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱨᱮ ᱱᱚᱶᱟ ᱫᱚ ᱵᱚᱫᱚᱞ ᱜᱟᱱᱚᱜᱼᱟ ᱾
+       *[other] { -brand-short-name }ᱦᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱨᱮ ᱱᱚᱶᱟ ᱫᱚ ᱵᱚᱫᱚᱞ ᱜᱟᱱᱚᱜᱼᱟ ᱾
+    }
+choose-other-app-description = ᱮᱴᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 choose-app-btn =
     .label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
     .accessKey = ᱵ
 choose-other-app-window-title = ᱮᱴᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ …
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = ᱯᱨᱟᱭᱣᱮᱴ ᱢᱳᱰ ᱨᱮ ᱵᱚᱸᱫ ᱜᱮᱭᱟ
