@@ -58,6 +58,7 @@ migration-favorites-option-label = Favoriter
 migration-logins-and-passwords-option-label = Sparade inloggningar och lösenord
 migration-history-option-label = Webbläsarhistorik
 migration-form-autofill-option-label = Autofylldata för formulär
+migration-payment-methods-option-label = Betalningsmetoder
 migration-passwords-from-file-progress-header = Importera lösenordsfil
 migration-passwords-from-file-success-header = Lösenord har importerats
 migration-passwords-from-file = Söker efter lösenord i filen
@@ -120,6 +121,7 @@ migration-list-favorites-label = favoriter
 migration-list-password-label = lösenord
 migration-list-history-label = historik
 migration-list-autofill-label = autofylldata
+migration-list-payment-methods-label = betalningsmetoder
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Från de senaste { $maxAgeInDays } dagarna
     }
 migration-wizard-progress-success-formdata = Formulärhistorik
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } betalningsmetod
+       *[other] { $quantity } betalningsmetoder
+    }
 migration-wizard-safari-permissions-sub-header = Så här importerar du Safari-bokmärken och webbhistorik:
 migration-wizard-safari-instructions-continue = Välj "Fortsätt"
 migration-wizard-safari-instructions-folder = Välj Safari-mappen i listan och välj "Öppna"
