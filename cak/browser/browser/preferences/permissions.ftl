@@ -213,6 +213,9 @@ permissions-site-microphone-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Taq runuk'ulem - Taq Ruya'oj Q'ij Q'asäy Tzij
+    .style = { permissions-window2.style }
 permissions-doh-add-exception =
     .label = Titz'aqatisäx
     .accesskey = t

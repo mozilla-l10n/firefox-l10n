@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (majun rub'i')
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Ruma achajixik, “javascript” o “kitzij:” URLs man yetikïr ta yesamajïx pa ri tzuwäch o pa ri rupas k'o chi ruxikin ri natab'äl.
 places-bookmarks-backup-title = Rub'i' ruyakb'al wachib'äl kichin taq yaketal
 places-bookmarks-restore-alert-title = Ketzolïx taq yaketal
 places-bookmarks-restore-alert = Re smaj re' nkeruk'ëx konojel ri taq ayaketal ruma ri ruwachib'al chajixïk. ¿La ja ri' nawajo'?

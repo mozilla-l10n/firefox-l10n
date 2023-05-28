@@ -373,3 +373,8 @@ onboarding-infrequent-import-primary-button = Tijik' pa { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+
+## Device migration onboarding
+
+onboarding-device-migration-title = Ütz apetik jumul chik!
+onboarding-device-migration-primary-button-label = Titikirisäx molojri'ïl
