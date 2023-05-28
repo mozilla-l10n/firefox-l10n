@@ -81,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Mussar la glista
 firefoxview-collapse-button-hide =
     .title = Zuppentar la glista
+firefoxview-overview-navigation = Navigaziun recenta
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Cronologia
+firefoxview-history-header = Cronologia
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Tabs averts
+firefoxview-opentabs-header = Tabs averts
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Mussar tut

@@ -58,6 +58,7 @@ migration-favorites-option-label = Favurits
 migration-logins-and-passwords-option-label = Infurmaziuns d'annunzia e pleds-clav memorisads
 migration-history-option-label = Cronologia da navigaziun
 migration-form-autofill-option-label = Datas da l'endataziun automatica en formulars
+migration-payment-methods-option-label = Metodas da pajament
 migration-passwords-from-file-progress-header = Importar ina datoteca da pleds-clav
 migration-passwords-from-file-success-header = Importà cun success ils pleds-clav
 migration-passwords-from-file = Tschertgar pleds-clav en la datoteca
@@ -120,6 +121,7 @@ migration-list-favorites-label = favurits
 migration-list-password-label = pleds-clav
 migration-list-history-label = cronologia
 migration-list-autofill-label = datas da l'endataziun automatica
+migration-list-payment-methods-label = metodas da pajament
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Dals ultims { $maxAgeInDays } dis
     }
 migration-wizard-progress-success-formdata = Cronologia da formulars
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } metoda da pajament
+       *[other] { $quantity } metodas da pajament
+    }
 migration-wizard-safari-permissions-sub-header = Per importar ils segnapaginas e la cronologia da navigaziun da Safari:
 migration-wizard-safari-instructions-continue = Tscherna «Cuntinuar»
 migration-wizard-safari-instructions-folder = Tscherna l'ordinatur Safari en la glista e clicca sin «Avrir»

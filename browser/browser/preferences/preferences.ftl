@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Ulteriuras infurmaziuns
 relay-integration =
     .label = Activar { -relay-brand-name } en tia administraziun da pleds-clav da { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Proponer alias dad e-mail da { -relay-brand-name } per proteger tia adressa dad e-mail
 relay-integration-learn-more-link = Ulteriuras infurmaziuns
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

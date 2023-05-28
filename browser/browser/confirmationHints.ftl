@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Tramess!
 confirmation-hint-firefox-relay-mask-generated = Generà in nov alias { -relay-brand-short-name }!
 confirmation-hint-firefox-relay-mask-created = Creà in nov alias!
 confirmation-hint-firefox-relay-mask-reused = Reutilisà in alias existent!
+confirmation-hint-screenshot-copied = Copià il maletg dal visur!
