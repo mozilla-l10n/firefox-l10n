@@ -58,6 +58,7 @@ migration-favorites-option-label = Favoritter
 migration-logins-and-passwords-option-label = Lagrede innlogginger og passord
 migration-history-option-label = Nettleserhistorikk
 migration-form-autofill-option-label = Autofylldata for skjema
+migration-payment-methods-option-label = Betalingsmetoder
 migration-passwords-from-file-progress-header = Importer passordfil
 migration-passwords-from-file-success-header = Passord ble importert
 migration-passwords-from-file = Ser etter passord i filen
@@ -120,6 +121,7 @@ migration-list-favorites-label = favoritter
 migration-list-password-label = passord
 migration-list-history-label = historikk
 migration-list-autofill-label = autofylldata
+migration-list-payment-methods-label = betalingsmetoder
 
 ##
 
