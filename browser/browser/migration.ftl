@@ -65,11 +65,11 @@ no-migration-sources = Nie odnaleziono żadnych programów, z których można b
 import-source-page-title = Importuj ustawienia i dane
 import-items-page-title = Elementy do zaimportowania
 import-items-description = Wybierz elementy do zaimportowania:
-import-permissions-page-title = Proszę dać uprawnienia przeglądarce { -brand-short-name }
+import-permissions-page-title = Proszę dać uprawnienia { -brand-short-name(case: "dat") }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS wymaga zezwolenia przeglądarce { -brand-short-name } na dostęp do zakładek przeglądarki Safari przez użytkownika. Kliknij „Kontynuuj” i wybierz plik „Bookmarks.plist” w panelu otwierania pliku, który zostanie otwarty.
+import-permissions-description = macOS wymaga zezwolenia { -brand-short-name(case: "dat") } na dostęp do zakładek przeglądarki Safari przez użytkownika. Kliknij „Kontynuuj” i wybierz plik „Bookmarks.plist” w panelu otwierania pliku, który zostanie otwarty.
 # Do not translate "Safari" (the name of the browser on Apple devices)
-import-safari-permissions-string = macOS wymaga zezwolenia przeglądarce { -brand-short-name } na dostęp do danych przeglądarki Safari przez użytkownika. Kliknij „Kontynuuj”, wybierz folder „Safari” w oknie Findera, które zostanie otwarte, a następnie kliknij „Otwórz”.
+import-safari-permissions-string = macOS wymaga zezwolenia { -brand-short-name(case: "dat") } na dostęp do danych przeglądarki Safari przez użytkownika. Kliknij „Kontynuuj”, wybierz folder „Safari” w oknie Findera, które zostanie otwarte, a następnie kliknij „Otwórz”.
 import-migrating-page-title = Importowanie…
 import-migrating-description = Poniższe elementy są właśnie importowane…
 import-select-profile-page-title = Wybierz profil
@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Okna i karty
 browser-data-session-label =
     .value = Okna i karty
+browser-data-payment-methods-checkbox =
+    .label = Metody płatności
+browser-data-payment-methods-label =
+    .value = Metody płatności

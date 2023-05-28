@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (brak tytułu)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Ze względów bezpieczeństwa adresy URL typu „data:” i „javascript:” nie mogą zostać otwarte z okna historii lub z panelu bocznego.
 places-bookmarks-backup-title = Nazwa pliku kopii zapasowej zakładek
 places-bookmarks-restore-alert-title = Przywróć zakładki
 places-bookmarks-restore-alert = Wszystkie bieżące zakładki zostaną zastąpione przez te z kopii zapasowej. Czy kontynuować?
