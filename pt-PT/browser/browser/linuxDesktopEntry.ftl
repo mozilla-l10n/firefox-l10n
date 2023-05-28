@@ -14,3 +14,4 @@ desktop-entry-name = { -brand-shortcut-name }
 
 desktop-action-new-window-name = Nova janela
 desktop-action-new-private-window-name = Nova janela privada
+desktop-action-open-profile-manager = Abrir o Gestor de Perfis
