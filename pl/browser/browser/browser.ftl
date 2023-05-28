@@ -1015,8 +1015,8 @@ popup-notification-xpinstall-prompt-learn-more = Więcej informacji o bezpieczn
 popup-warning-message =
     { $popupCount ->
         [one] { -brand-short-name } uniemożliwił tej witrynie otwarcie wyskakującego okna.
-        [few] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien
-       *[many] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien
+        [few] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien.
+       *[many] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
