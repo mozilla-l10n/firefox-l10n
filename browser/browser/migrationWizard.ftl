@@ -167,7 +167,7 @@ migration-wizard-progress-success-formdata = 表单历史记录
 #
 # Variables:
 #  $quantity (Number): the number of successfully imported payment methods
-migration-wizard-progress-success-payment-methods = { $quantity } 个支付方式
+migration-wizard-progress-success-payment-methods = { $quantity } 个付款方式
 migration-wizard-safari-permissions-sub-header = 如需导入 Safari 浏览器书签和历史记录：
 migration-wizard-safari-instructions-continue = 选择“继续”
 migration-wizard-safari-instructions-folder = 在列表中选择“Safari 浏览器”文件夹，然后选取“打开”
