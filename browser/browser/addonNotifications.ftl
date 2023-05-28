@@ -54,7 +54,7 @@ addon-domain-blocked-by-policy = Administrator komputera nie pozwolił tej witry
 addon-install-full-screen-blocked = Instalacja dodatków jest niedozwolona w trybie pełnoekranowym lub przed jego włączeniem.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
-webext-perms-sideload-menu-item = Dodatek „{ $addonName }” został dodany do programu { -brand-short-name }
+webext-perms-sideload-menu-item = Dodatek „{ $addonName }” został dodany do { -brand-short-name(case: "gen") }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } wymaga nowych uprawnień
@@ -66,7 +66,7 @@ webext-perms-update-menu-item = { $addonName } wymaga nowych uprawnień
 addon-removal-title = Czy usunąć „{ $name }”?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Czy usunąć rozszerzenie „{ $name }” z przeglądarki { -brand-shorter-name }?
+addon-removal-message = Czy usunąć rozszerzenie „{ $name }” z { -brand-shorter-name(case: "gen") }?
 addon-removal-button = Usuń
 addon-removal-abuse-report-checkbox = Zgłoś to rozszerzenie do { -vendor-short-name(case: "gen") }
 # Variables:
@@ -90,40 +90,41 @@ addon-install-accept-button =
 
 addon-confirm-install-message =
     { $addonCount ->
-        [one] Strona prosi o zgodę na instalację dodatku w programie { -brand-short-name }:
-        [few] Strona prosi o zgodę na instalację { $addonCount } dodatków w programie { -brand-short-name }:
-       *[many] Strona prosi o zgodę na instalację { $addonCount } dodatków w programie { -brand-short-name }:
+        [one] Strona prosi o zgodę na instalację dodatku w { -brand-short-name(case: "loc") }:
+        [few] Strona prosi o zgodę na instalację { $addonCount } dodatków w { -brand-short-name(case: "loc") }:
+       *[many] Strona prosi o zgodę na instalację { $addonCount } dodatków w { -brand-short-name(case: "loc") }:
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
-        [one] Ostrożnie! Strona prosi o zgodę na instalację niezweryfikowanego dodatku w programie { -brand-short-name }. Kontynuuj na własną odpowiedzialność.
-        [few] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } niezweryfikowanych dodatków w programie { -brand-short-name }. Kontynuuj na własną odpowiedzialność.
-       *[many] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } niezweryfikowanych dodatków w programie { -brand-short-name }. Kontynuuj na własną odpowiedzialność.
+        [one] Ostrożnie! Strona prosi o zgodę na instalację niezweryfikowanego dodatku w { -brand-short-name(case: "loc") }. Kontynuuj na własną odpowiedzialność.
+        [few] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } niezweryfikowanych dodatków w { -brand-short-name(case: "loc") }. Kontynuuj na własną odpowiedzialność.
+       *[many] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } niezweryfikowanych dodatków w { -brand-short-name(case: "loc") }. Kontynuuj na własną odpowiedzialność.
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
-        [few] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } dodatków w programie { -brand-short-name } - niektóre z nich są niezweryfikowane. Kontynuuj na własną odpowiedzialność.
-       *[many] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } dodatków w programie { -brand-short-name } - niektóre z nich są niezweryfikowane. Kontynuuj na własną odpowiedzialność.
+        [one] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } dodatku w { -brand-short-name(case: "loc") }, który jest niezweryfikowany. Kontynuuj na własną odpowiedzialność.
+        [few] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } dodatków w { -brand-short-name(case: "loc") } – niektóre z nich są niezweryfikowane. Kontynuuj na własną odpowiedzialność.
+       *[many] Ostrożnie! Strona prosi o zgodę na instalację { $addonCount } dodatków w { -brand-short-name(case: "loc") } – niektóre z nich są niezweryfikowane. Kontynuuj na własną odpowiedzialność.
     }
 
 ## Add-on install errors
 ## Variables:
 ##   $addonName (String): the add-on name.
 
-addon-install-error-network-failure = Nie udało się zainstalować dodatku, ponieważ wystąpił błąd połączenia.
-addon-install-error-incorrect-hash = Nie udało się zainstalować dodatku, ponieważ nie pasuje on do dodatku oczekiwanego przez program { -brand-short-name }.
+addon-install-error-network-failure = Nie udało się zainstalować dodatku z powodu błędu połączenia.
+addon-install-error-incorrect-hash = Nie udało się zainstalować dodatku, ponieważ nie pasuje on do dodatku oczekiwanego przez { -brand-short-name(case: "gen") }.
 addon-install-error-corrupt-file = Dodatek pobrany z tej strony nie może zostać zainstalowany, ponieważ wygląda on na uszkodzony.
 addon-install-error-file-access = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ { -brand-short-name } nie może zmodyfikować potrzebnego pliku.
 addon-install-error-not-signed = { -brand-short-name } uniemożliwił tej stronie instalację niezweryfikowanego dodatku.
 addon-install-error-invalid-domain = Dodatek „{ $addonName }” nie może być instalowany z tego miejsca.
 addon-local-install-error-network-failure = Nie udało się zainstalować dodatku z powodu błędu systemu plików.
-addon-local-install-error-incorrect-hash = Nie udało się zainstalować dodatku, ponieważ nie pasuje on do dodatku oczekiwanego przez program { -brand-short-name }.
+addon-local-install-error-incorrect-hash = Nie udało się zainstalować dodatku, ponieważ nie pasuje on do dodatku oczekiwanego przez { -brand-short-name(case: "gen") }.
 addon-local-install-error-corrupt-file = Dodatek nie może zostać zainstalowany, ponieważ wygląda on na uszkodzony.
 addon-local-install-error-file-access = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ { -brand-short-name } nie może zmodyfikować potrzebnego pliku.
 addon-local-install-error-not-signed = Ten dodatek nie może zostać zainstalowany, ponieważ nie został zweryfikowany.
 # Variables:
 #   $appVersion (String): the application version.
-addon-install-error-incompatible = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ nie jest on zgodny z programem { -brand-short-name } { $appVersion }.
+addon-install-error-incompatible = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ nie jest on zgodny z { -brand-short-name(case: "ins") } { $appVersion }.
 addon-install-error-blocklisted = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ obarczony jest on wysokim ryzykiem utraty stabilności lub problemów z bezpieczeństwem.
