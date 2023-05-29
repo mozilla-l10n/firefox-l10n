@@ -58,6 +58,7 @@ migration-favorites-option-label = Favorittar
 migration-logins-and-passwords-option-label = Lagra innloggingar og passord
 migration-history-option-label = Nettlesarhistorikk
 migration-form-autofill-option-label = Autofylldata for skjema
+migration-payment-methods-option-label = Betalingsmåtar
 migration-passwords-from-file-progress-header = Importer passordfil
 migration-passwords-from-file-success-header = Passord importerte
 migration-passwords-from-file = Ser etter passord i fila
@@ -120,6 +121,7 @@ migration-list-favorites-label = favorittar
 migration-list-password-label = passord
 migration-list-history-label = historikk
 migration-list-autofill-label = autofylldata
+migration-list-payment-methods-label = betalingsmåtar
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Frå siste { $maxAgeInDays } dagar
     }
 migration-wizard-progress-success-formdata = Skjemahistorikk
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } betalingsmåte
+       *[other] { $quantity } betalingsmåtar
+    }
 migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerke og netthistorik:
 migration-wizard-safari-instructions-continue = Vel «Hald fram»
 migration-wizard-safari-instructions-folder = Vel Safari-mappa i lista og vel «Opne»
