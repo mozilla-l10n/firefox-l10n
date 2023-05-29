@@ -96,6 +96,9 @@ neterror-content-encoding-error = ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤ
 neterror-unsafe-content-type = ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱤᱥᱚᱭ ᱨᱮ ᱠᱷᱚᱵᱚᱨ ᱮᱢᱟ ᱠᱚᱢ ᱾
 neterror-nss-failure-not-verified = ᱚᱠᱟ ᱥᱟᱦᱴᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱚᱱᱟ ᱫᱚ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ ᱚᱛᱷᱮᱱᱴᱤᱥᱤᱴᱭ ᱫᱚ ᱵᱟᱝ ᱯᱩᱥᱴᱟᱹᱣ ᱫᱟᱲᱮᱞᱟᱱᱟ ᱾
 neterror-nss-failure-contact-website = ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱟᱵᱚᱫᱽ ᱠᱷᱚᱵᱚᱨ ᱮᱢ ᱢᱮ ᱾
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱷᱚᱢᱚᱠ ᱮ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱮᱜᱼᱟᱭ ᱟᱨ <b>{ $hostname }</b> ᱨᱮ ᱵᱟᱭ ᱞᱟᱦᱟ ᱞᱮᱱᱟᱭ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱛᱮ ᱪᱟᱞᱟᱜ ᱠᱷᱟᱱ, ᱠᱩᱢᱵᱽᱲᱩ ᱠᱚ ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱰ, ᱤᱢᱮᱞ ᱟᱨ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱵᱤᱵᱨᱤᱬ ᱠᱚ ᱤᱫᱤ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 neterror-corrupted-content-intro = ᱥᱟᱦᱴᱟ ᱟᱢ ᱧᱮᱞ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱭᱮᱫ ᱟ ᱵᱟᱝ ᱩᱫᱩᱜ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱰᱟᱴᱟ ᱵᱚᱫᱚᱞ ᱨᱮ ᱢᱤᱫ ᱵᱷᱩᱞ ᱧᱟᱢ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾
 neterror-corrupted-content-contact-website = ᱣᱮᱵ ᱥᱟᱤᱴ ᱢᱟᱹᱞᱤᱠ ᱠᱚ ᱥᱚᱢᱯᱚᱠ ᱠᱚᱢ ᱱᱚᱣᱟ ᱫᱤᱜᱫᱷᱟ ᱩᱱᱠᱩ ᱩᱛᱞᱟᱹᱭᱟ ᱠᱚ ᱢᱮ ᱾
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
