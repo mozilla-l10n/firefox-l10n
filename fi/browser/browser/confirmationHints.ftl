@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Lähetetty!
 confirmation-hint-firefox-relay-mask-generated = Uusi { -relay-brand-short-name }-maski luotu!
 confirmation-hint-firefox-relay-mask-created = Uusi maski luotu!
 confirmation-hint-firefox-relay-mask-reused = Olemassa oleva maski käytetty uudelleen!
+confirmation-hint-screenshot-copied = Kuvakaappaus kopioitu!

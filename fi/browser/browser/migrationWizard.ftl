@@ -58,6 +58,7 @@ migration-favorites-option-label = Suosikit
 migration-logins-and-passwords-option-label = Tallennetut käyttäjätunnukset ja salasanat
 migration-history-option-label = Selaushistoria
 migration-form-autofill-option-label = Lomakkeiden automaattisen täytön tiedot
+migration-payment-methods-option-label = Maksutavat
 migration-passwords-from-file-progress-header = Tuo salasanojen tiedosto
 migration-passwords-from-file-success-header = Salasanat tuotu onnistuneesti
 migration-passwords-from-file = Tarkistetaan tiedostoa salasanojen varalta
@@ -120,6 +121,7 @@ migration-list-favorites-label = suosikit
 migration-list-password-label = salasanat
 migration-list-history-label = historia
 migration-list-autofill-label = automaattisen täytön tiedot
+migration-list-payment-methods-label = maksutavat
 
 ##
 
@@ -180,6 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Viimeisen { $maxAgeInDays } päivän ajalta
     }
 migration-wizard-progress-success-formdata = Lomakehistoria
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } maksutapa
+       *[other] { $quantity } maksutapaa
+    }
 migration-wizard-safari-permissions-sub-header = Tuo Safari-kirjanmerkit ja -selaushistoria seuraavasti:
 migration-wizard-safari-instructions-continue = Valitse "Jatka"
 migration-wizard-safari-instructions-folder = Valitse luettelosta Safari-kansio ja valitse "Avaa"
