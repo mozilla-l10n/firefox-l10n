@@ -994,6 +994,7 @@ firefox-relay-offer-what-relay-does = Vi videaresender alle e-postar frå <stron
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Dei sikre, brukarvennlege aliasa våre vernar identiteten din og hindrar spam ved å skjule e-postadressa di.
 
 ## Add-on Pop-up Notifications
 
