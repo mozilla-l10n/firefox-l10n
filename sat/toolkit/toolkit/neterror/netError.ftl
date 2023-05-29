@@ -64,11 +64,15 @@ neterror-dns-not-found-trr-offline = ᱟᱢ ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥ�
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱭ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱫᱼᱟᱭ ᱾
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱟᱭ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱫᱼᱟᱭ ᱾
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ᱥᱟᱞᱟᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
+neterror-dns-not-found-trr-unknown-problem = ᱵᱟᱝᱵᱷᱟᱹᱵᱤᱛ ᱠᱟᱱ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱾
 
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱵᱷᱚᱨᱥᱟ DNS ᱨᱤᱡᱚᱞᱵᱷᱚᱨ ᱛᱮ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱱᱮᱦᱚᱨ ᱵᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ  ᱾ ᱵᱟᱲᱟᱭ ᱢᱮ ᱪᱮᱫᱟᱜ ᱥᱮ ᱺ
+neterror-dns-not-found-native-fallback-heuristic = ᱟᱢᱟᱜ ᱱᱮᱴᱣᱟᱨᱠ ᱨᱮ DNS ᱪᱮᱛᱟᱱ HTTPS ᱵᱚᱸᱫ ᱟᱠᱟᱱᱟ ᱾
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ᱫᱚ { $trrDomain } ᱥᱟᱞᱟᱜ ᱵᱟᱭ ᱡᱩᱲᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 
 ##
 
