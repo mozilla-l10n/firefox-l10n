@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (namnlaus)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Av tryggingsårsaker kan ikjke «javascript:»- eller «data:»-URL-er lastast frå historikkvindauget eller sidestolpen.
 places-bookmarks-backup-title = Filnamn for sikkerheitskopi til bokmerke
 places-bookmarks-restore-alert-title = Tilbakestill bokmerke
 places-bookmarks-restore-alert = Dette vil byte ut alle dei eksisterande bokmerka dine med sikkerheitskopien. Er du sikker på at du vil gjere dette?

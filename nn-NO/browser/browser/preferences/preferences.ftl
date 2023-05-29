@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Les meir
 relay-integration =
     .label = Slå på { -relay-brand-name } i passordhandsamaren for { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Foreslå { -relay-brand-name } e-postalias for å beskytte e-postadressa di
 relay-integration-learn-more-link = Les meir
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
