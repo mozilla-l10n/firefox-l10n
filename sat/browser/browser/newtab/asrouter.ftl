@@ -265,6 +265,6 @@ fxa-sync-cfr-secondary = ᱛᱟᱭᱚᱢ ᱛᱮ ᱵᱟᱛᱟᱣ ᱤᱧ ᱢᱮ
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = ᱢᱟᱨᱮ ᱥᱟᱫᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ?
-device-migration-fxa-spotlight-body = ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱮᱠᱷᱟ ᱟᱹᱰᱤ ᱡᱟᱹᱨᱩᱲ ᱡᱤᱱᱤᱥ ᱟᱞᱚ ᱟᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱠᱚᱯ ᱢᱮ –– ᱵᱤᱥᱮᱥ ᱛᱮ ᱚᱠᱚ ᱡᱷᱚᱜ ᱟᱢ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱵᱚᱫᱚᱞ ᱡᱷᱚᱜ ᱾
+device-migration-fxa-spotlight-body = ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱮᱠᱷᱟ ᱟᱹᱰᱤ ᱡᱟᱹᱨᱩᱲ ᱡᱤᱱᱤᱥ ᱟᱞᱚ ᱟᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱠᱚᱯ ᱢᱮ — ᱵᱤᱥᱮᱥ ᱛᱮ ᱚᱠᱚ ᱡᱷᱚᱜ ᱟᱢ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱵᱚᱫᱚᱞ ᱡᱷᱚᱜ ᱾
 device-migration-fxa-spotlight-primary-button = ᱤᱧᱟᱜ ᱰᱟᱴᱟ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱮᱠᱚᱯᱟᱹᱧ
 device-migration-fxa-spotlight-link = ᱛᱟᱭᱚᱢ ᱛᱮ ᱵᱟᱛᱟᱣ ᱤᱧ ᱢᱮ
