@@ -261,6 +261,6 @@ fxa-sync-cfr-secondary = Recordármelo más tarde
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = ¿Está usando un dispositivo más antiguo?
-device-migration-fxa-spotlight-body = Haga una copia de seguridad de sus datos para asegurarse de no perder información importante como marcadores y contraseñas –– especialmente si cambia a un nuevo dispositivo.
+device-migration-fxa-spotlight-body = Haga una copia de seguridad de sus datos para asegurarse de no perder información importante como marcadores y contraseñas — especialmente si cambia a un nuevo dispositivo.
 device-migration-fxa-spotlight-primary-button = Cómo hacer una copia de seguridad de mis datos
 device-migration-fxa-spotlight-link = Recordármelo más tarde
