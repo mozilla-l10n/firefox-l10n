@@ -45,3 +45,6 @@ translations-settings-never-translate-langs-description = Пераклад не 
 translations-settings-never-translate-sites-description = Пераклад не будзе прапанаваны для наступных сайтаў
 translations-settings-languages-column =
     .label = Мовы
+translations-settings-close-dialog =
+    .buttonlabelaccept = Закрыць
+    .buttonaccesskeyaccept = ц
