@@ -259,6 +259,6 @@ fxa-sync-cfr-secondary = Nhắc tôi sau
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Sử dụng thiết bị cũ hơn?
-device-migration-fxa-spotlight-body = Sao lưu dữ liệu của bạn để đảm bảo bạn không bị mất thông tin quan trọng như dấu trang và mật khẩu –– đặc biệt nếu bạn chuyển sang một thiết bị mới.
+device-migration-fxa-spotlight-body = Sao lưu dữ liệu của bạn để đảm bảo bạn không bị mất thông tin quan trọng như dấu trang và mật khẩu — đặc biệt nếu bạn chuyển sang một thiết bị mới.
 device-migration-fxa-spotlight-primary-button = Cách sao lưu dữ liệu của tôi
 device-migration-fxa-spotlight-link = Nhắc tôi sau
