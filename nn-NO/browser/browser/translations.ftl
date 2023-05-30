@@ -40,3 +40,13 @@ translations-panel-restore-button =
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-header = Omsetjingar
+translations-manage-settings-button =
+    .label = Innstillingar
+    .accesskey = n
+translations-manage-description = Last ned språk for fråkopla-omsetting.
+translations-manage-all-language = Alle språk
+translations-manage-delete-button = Slett
+translations-settings-languages-column =
+    .label = Språk
+translations-settings-sites-column =
+    .label = Nettstadar
