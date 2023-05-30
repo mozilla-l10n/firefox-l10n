@@ -39,7 +39,7 @@ translations-panel-settings-never-translate-site =
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
-translations-panel-header = ¿Eñe’ẽ’asa ko kuatiarogue?
+translations-panel-header = ¿Emoñe’ẽasa ko kuatiarogue?
 translations-panel-translate-button =
     .label = Ñe’ẽasa
 translations-panel-translate-cancel =
@@ -53,11 +53,34 @@ translations-panel-error-dismiss-button =
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Emoñe’ẽasa ko
+translations-panel-to-label = Emoñe’ẽasa pe
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+translations-panel-choose-language =
+    .label = Eiporavo peteĩ ñe’ẽ
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Ñemoñe’ẽasa
+translations-manage-settings-button =
+    .label = Ñemboheko…
+    .accesskey = t
+translations-manage-all-language = Opaite ñe’ẽ
+translations-manage-download-button = Mboguejy
+translations-manage-delete-button = Mboguete
+translations-settings-title =
+    .title = Ñe’ẽasa ñemboheko
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-languages-column =
+    .label = Ñe’ẽita
+translations-settings-sites-column =
+    .label = Ñanduti renda
+translations-settings-close-dialog =
+    .buttonlabelaccept = Mboty
+    .buttonaccesskeyaccept = C
