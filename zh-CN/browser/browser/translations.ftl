@@ -17,7 +17,7 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = 管理语言
-translations-panel-settings-about = 关于 { -brand-shorter-name } 的翻译
+translations-panel-settings-about = 关于 { -brand-shorter-name } 提供的翻译
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
