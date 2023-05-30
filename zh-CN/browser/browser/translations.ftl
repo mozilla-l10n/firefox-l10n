@@ -53,7 +53,7 @@ translations-panel-error-unsupported = 无法翻译此页面
 translations-panel-error-dismiss-button =
     .label = 明白
 translations-panel-error-change-button =
-    .label = 更改源语言
+    .label = 更改原始语言
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
@@ -67,8 +67,8 @@ translations-panel-error-unsupported-hint-unknown = 抱歉，我们尚未支持�
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
-translations-panel-from-label = 翻译自
-translations-panel-to-label = 翻译为
+translations-panel-from-label = 原始语言：
+translations-panel-to-label = 目标语言：
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
