@@ -90,3 +90,7 @@ translations-panel-restore-button =
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-header = Traduções
+translations-manage-settings-button =
+    .label = Configurações…
+    .accesskey = C
+translations-manage-description = Baixar idiomas para traduzir sem acessar a internet.
