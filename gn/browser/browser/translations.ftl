@@ -17,10 +17,37 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Eñangareko ñe’ẽnguérare
+translations-panel-settings-about = Ñe’ẽasa rehegua { -brand-shorter-name }-pe
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = Emoñe’ẽasameme { $language }
+translations-panel-settings-always-translate-unknown-language =
+    .label = Emoñe’ẽasameme ko ñe’ẽ
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = Ani emoñe’ẽasa { $language }
+translations-panel-settings-never-translate-unknown-language =
+    .label = Ani araka’eve emoñe’ẽasa ko ñe’ẽ
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = Araka'eve ani emo'ñẽasa ko tenda
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = ¿Eñe’ẽ’asa ko kuatiarogue?
+translations-panel-translate-button =
+    .label = Ñe’ẽasa
+translations-panel-translate-cancel =
+    .label = Heja
+translations-panel-error-load-languages-hint-button =
+    .label = Eha’ãjey
+translations-panel-error-dismiss-button =
+    .label = Aikumby
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
