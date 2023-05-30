@@ -58,6 +58,7 @@ migration-favorites-option-label = Favoris
 migration-logins-and-passwords-option-label = Identifiants et mots de passe enregistrés
 migration-history-option-label = Historique de navigation
 migration-form-autofill-option-label = Données de remplissage automatique des formulaires
+migration-payment-methods-option-label = Moyens de paiement
 migration-passwords-from-file-progress-header = Importer un fichier de mots de passe
 migration-passwords-from-file-success-header = Mots de passe correctement importés
 migration-passwords-from-file = Recherche des mots de passe dans le fichier
@@ -120,6 +121,7 @@ migration-list-favorites-label = favoris
 migration-list-password-label = mots de passe
 migration-list-history-label = historique
 migration-list-autofill-label = données de remplissage automatique
+migration-list-payment-methods-label = moyens de paiement
 
 ##
 
@@ -183,4 +185,3 @@ migration-wizard-progress-success-formdata = Historique des formulaires
 migration-wizard-safari-permissions-sub-header = Pour importer les marque-pages et l’historique de navigation de Safari :
 migration-wizard-safari-instructions-continue = Sélectionnez « Continuer »
 migration-wizard-safari-instructions-folder = Sélectionnez le dossier Safari dans la liste et choisissez « Ouvrir »
-migration-wizard-safari-select-button = Sélectionner un fichier
