@@ -73,6 +73,53 @@ translations-panel-to-label = Cilowa rěč:
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Tuta strona so z rěče { $fromLanguage } do rěče { $toLanguage } přełožuje
+translations-panel-choose-language =
+    .label = Wubjerće rěč
+translations-panel-restore-button =
+    .label = Original pokazać
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Přełožki
+translations-manage-settings-button =
+    .label = Nastajenja…
+    .accesskey = N
+translations-manage-description = Rěče za přełožowanje offline sćahnyć.
+translations-manage-all-language = Wšě rěče
+translations-manage-download-button = Sćahnyć
+translations-manage-delete-button = Zhašeć
+translations-settings-title =
+    .title = Přełožowanske nastajenja
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Přełožowanje so za slědowace rěče awtomatisce přewjedźe
+translations-settings-never-translate-langs-description = Přełožowanje so za slědowace rěče njeposkićuje
+translations-settings-never-translate-sites-description = Přełožowanje so za slědowace sydła njeposkićuje
+translations-settings-languages-column =
+    .label = Rěče
+translations-settings-remove-language-button =
+    .label = Rěč wotstronić
+    .accesskey = s
+translations-settings-remove-all-languages-button =
+    .label = Wšě rěče wotstronić
+    .accesskey = r
+translations-settings-sites-column =
+    .label = Websydła
+translations-settings-remove-site-button =
+    .label = Sydło wotstronić
+    .accesskey = S
+translations-settings-remove-all-sites-button =
+    .label = Wšě sydła wotstronić
+    .accesskey = o
+translations-settings-close-dialog =
+    .buttonlabelaccept = Začinić
+    .buttonaccesskeyaccept = Z
