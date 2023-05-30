@@ -49,16 +49,36 @@ translations-panel-error-load-languages-hint-button =
 translations-panel-error-unsupported = 이 페이지는 번역할 수 없습니다.
 translations-panel-error-dismiss-button =
     .label = 확인
+translations-panel-error-change-button =
+    .label = 원본 언어 변경
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = 죄송합니다. 아직 { $language }을(를) 지원하지 않습니다.
+translations-panel-error-unsupported-hint-unknown = 죄송합니다. 아직 이 언어를 지원하지 않습니다.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = 원본 언어:
+translations-panel-to-label = 대상 언어:
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = 이 페이지는 { $fromLanguage }에서 { $toLanguage }(으)로 번역됨
 translations-panel-choose-language =
     .label = 언어 선택
 translations-panel-restore-button =
@@ -83,3 +103,24 @@ translations-settings-title =
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = 다음 언어는 자동으로 번역됨
+translations-settings-never-translate-langs-description = 다음 언어는 번역이 제공되지 않음
+translations-settings-never-translate-sites-description = 다음 사이트는 번역이 제공되지 않음
+translations-settings-languages-column =
+    .label = 언어
+translations-settings-remove-language-button =
+    .label = 언어 제거
+    .accesskey = R
+translations-settings-remove-all-languages-button =
+    .label = 모든 언어 제거
+    .accesskey = e
+translations-settings-sites-column =
+    .label = 웹 사이트
+translations-settings-remove-site-button =
+    .label = 사이트 제거
+    .accesskey = S
+translations-settings-remove-all-sites-button =
+    .label = 모든 사이트 제거
+    .accesskey = m
+translations-settings-close-dialog =
+    .buttonlabelaccept = 닫기
+    .buttonaccesskeyaccept = C
