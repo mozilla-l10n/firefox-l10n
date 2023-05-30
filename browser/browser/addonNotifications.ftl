@@ -34,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Situs ini meminta akses ke perangkat MIDI (Musical Instrument Digital Interface) Anda. Akses perangkat dapat diaktifkan dengan memasang pengaya.
+site-permission-install-first-prompt-midi-message = Akses ini tidak dijamin aman. Lanjutkan jika Anda mempercayai situs ini.
 
 ##
 
@@ -82,6 +84,11 @@ addon-install-accept-button =
 ##   $addonCount (Number): the number of add-ons being installed
 
 addon-confirm-install-message = Situs ini ingin menginstal { $addonCount } pengaya di { -brand-short-name }:
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [1] Perhatian: Situs ini ingin menginstal { $addonCount } pengaya tidak terverifikasi di { -brand-short-name }. Jika melanjutkan, risiko ditanggung sendiri.
+       *[other] { "" }
+    }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message = Perhatian: Situs ini ingin menginstal { $addonCount } pengaya di { -brand-short-name }, beberapa diantaranya tidak terverifikasi. Jika melanjutkan, risiko ditanggung sendiri.

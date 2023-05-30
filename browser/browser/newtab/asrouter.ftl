@@ -55,29 +55,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } pengguna
     }
 
-## Cookie Banner Handling Onboarding
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Lenyapkan spanduk kuki!
-cfr-cookie-banner-handling-body = Izinkan { -brand-short-name } untuk menolak semua permintaan banner kuki secara otomatis, jika memungkinkan. Jika tidak, semua kuki akan diterima untuk mengabaikan lebih banyak spanduk.
-cfr-cookie-banner-accept-button = Abaikan Permintaan
-    .accesskey = A
-cfr-cookie-banner-reject-button = Jangan sekarang
-    .accesskey = J
-cfr-cookie-banner-handling-header-variant-1 = Lihat lebih sedikit pop-up kuki
-cfr-cookie-banner-handling-body-variant-1 = Izinkan { -brand-short-name } menjawab pop-up kuki secara otomatis agar Anda dapat kembali ke penjelajahan bebas gangguan. { -brand-short-name } akan menolak semua permintaan jika memungkinkan, atau menerima semua jika tidak.
-cfr-cookie-banner-accept-button-variant-1 = Tutup Pop-up
-    .accesskey = T
-cfr-cookie-banner-reject-button-variant-1 = Tidak, terima kasih
-    .accesskey = T
-cfr-cookie-banner-handling-header-variant-2 = Pengurangan Spanduk Kuki
-cfr-cookie-banner-handling-body-variant-2 = Izinkan { -brand-short-name } untuk menolak permintaan persetujuan kuki dari situs jika memungkinkan atau menerima akses kuki jika tidak dimungkinkan?
-cfr-cookie-banner-accept-button-variant-2 = Izinkan
-    .accesskey = I
-cfr-cookie-banner-reject-button-variant-2 = Jangan sekarang
-    .accesskey = J
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronkan markah Anda di mana saja.
@@ -246,24 +223,9 @@ colorways-cfr-header-today = Ragam warna Suara Independen kedaluarsa hari ini
 
 ## Cookie Banner Handling CFR
 
-# Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Lenyapkan spanduk kuki!
-cfr-cookiebanner-body = Izinkan { -brand-short-name } untuk secara otomatis menolak semua permintaan spanduk kuki jika memungkinkan.
-cfr-cookiebanner-accept-button-v2 = Tolak Permintaan
+cfr-cbh-confirm-button = Tolak spanduk kuki
     .accesskey = T
-cfr-cookiebanner-reject-button = Jangan sekarang
-    .accesskey = J
-cfr-cookiebanner-header-variant-1 = Lihat lebih sedikit pop-up kuki
-cfr-cookiebanner-body-variant-1 = Izinkan { -brand-short-name } menjawab pop-up kuki secara otomatis agar Anda dapat kembali ke penjelajahan bebas gangguan. { -brand-short-name } akan menolak semua permintaan jika memungkinkan.
-cfr-cookiebanner-accept-button-variant-1 = Tutup Pop-up
-    .accesskey = u
-cfr-cookiebanner-reject-button-variant-1 = Tidak, Terima kasih
-    .accesskey = h
-cfr-cookiebanner-header-variant-2 = Pengurangan Spanduk Kuki
-cfr-cookiebanner-body-variant-2 = Kurangi jumlah spanduk kuki yang Anda lihat dengan mengizinkan { -brand-short-name } untuk menolak permintaan izin kuki situs web jika memungkinkan.
-cfr-cookiebanner-accept-button-variant-2 = Izinkan
-    .accesskey = I
-cfr-cookiebanner-reject-button-variant-2 = Jangan sekarang
+cfr-cbh-dismiss-button = Jangan sekarang
     .accesskey = J
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -271,3 +233,13 @@ cfr-cookiebanner-reject-button-variant-2 = Jangan sekarang
 july-jam-headline = Kami membantu Anda
 july-jam-body = Setiap bulan { -brand-short-name } memblokir rata-rata 3000+ pelacak per pengguna, memberikan Anda akses yang aman dan cepat ke internet yang baik.
 july-jam-set-default-primary = Buka tautan saya dengan { -brand-short-name }
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = Paham
+
+## FxA sync CFR
+
+
+## Device Migration FxA Spotlight
+
