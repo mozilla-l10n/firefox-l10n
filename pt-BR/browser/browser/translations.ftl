@@ -94,3 +94,7 @@ translations-manage-settings-button =
     .label = Configurações…
     .accesskey = C
 translations-manage-description = Baixar idiomas para traduzir sem acessar a internet.
+translations-manage-all-language = Todos os idiomas
+translations-manage-download-button = Baixar
+translations-manage-delete-button = Excluir
+translations-manage-error-download = Houve um problema ao baixar os arquivos de idioma. Tente novamente.
