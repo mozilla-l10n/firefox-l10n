@@ -45,8 +45,11 @@ translations-panel-translate-button =
 translations-panel-translate-cancel =
     .label = Annuleren
 translations-panel-error-translating = Er is een probleem opgetreden bij het vertalen. Probeer het opnieuw.
+translations-panel-error-load-languages = Kon talen niet laden
+translations-panel-error-load-languages-hint = Controleer uw internetverbinding en probeer het opnieuw.
 translations-panel-error-load-languages-hint-button =
     .label = Opnieuw proberen
+translations-panel-error-unsupported = Er is voor deze pagina geen vertaling beschikbaar
 translations-panel-error-dismiss-button =
     .label = Begrepen
 translations-panel-error-change-button =
@@ -57,15 +60,15 @@ translations-panel-error-change-button =
 #
 # Variables:
 #   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Sorry, we ondersteunen { $language } nog niet.
+translations-panel-error-unsupported-hint-known = Sorry, we ondersteunen het { $language } nog niet.
 translations-panel-error-unsupported-hint-unknown = Sorry, we ondersteunen deze taal nog niet.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
-translations-panel-from-label = Vertalen vanuit
-translations-panel-to-label = Vertalen naar
+translations-panel-from-label = Vertalen vanuit het
+translations-panel-to-label = Vertalen naar het
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
@@ -78,7 +81,7 @@ translations-panel-to-label = Vertalen naar
 # Variables:
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
-translations-panel-revisit-header = Deze pagina is van { $fromLanguage } naar { $toLanguage } vertaald
+translations-panel-revisit-header = Deze pagina is van het { $fromLanguage } naar het { $toLanguage } vertaald
 translations-panel-choose-language =
     .label = Kies een taal
 translations-panel-restore-button =
@@ -95,6 +98,16 @@ translations-manage-all-language = Alle talen
 translations-manage-download-button = Downloaden
 translations-manage-delete-button = Verwijderen
 translations-manage-error-download = Er is een probleem opgetreden bij het downloaden van de taalbestanden. Probeer het opnieuw.
+translations-manage-error-delete = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
+translations-manage-error-list = Kan de lijst met beschikbare talen voor vertaling niet ophalen. Vernieuw de pagina om het opnieuw te proberen.
+translations-settings-title =
+    .title = Vertaalinstellingen
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Voor de volgende talen zal de vertaling automatisch worden uitgevoerd
+translations-settings-never-translate-langs-description = Voor de volgende talen zal geen vertaling worden aangeboden
+translations-settings-never-translate-sites-description = Voor de volgende websites zal geen vertaling worden aangeboden
 translations-settings-languages-column =
     .label = Talen
 translations-settings-remove-language-button =
