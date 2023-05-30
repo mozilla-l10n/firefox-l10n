@@ -248,6 +248,6 @@ fxa-sync-cfr-secondary = ເຕືອນຂ້ອຍໃນພາຍຫຼັງ
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = ໃຊ້ອຸປະກອນເກົ່າບໍ?
-device-migration-fxa-spotlight-body = ສຳຮອງຂໍ້ມູນຂອງທ່ານເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານຈະບໍ່ເສຍຂໍ້ມູນສຳຄັນເຊັ່ນ: ບຸກມາກ ແລະ ລະຫັດຜ່ານ –– ໂດຍສະເພາະຫາກທ່ານປ່ຽນໄປໃຊ້ອຸປະກອນໃໝ່.
+device-migration-fxa-spotlight-body = ສຳຮອງຂໍ້ມູນຂອງທ່ານເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານຈະບໍ່ເສຍຂໍ້ມູນສຳຄັນເຊັ່ນ: ບຸກມາກ ແລະ ລະຫັດຜ່ານ — ໂດຍສະເພາະຫາກທ່ານປ່ຽນໄປໃຊ້ອຸປະກອນໃໝ່.
 device-migration-fxa-spotlight-primary-button = ວິ​ທີ​ການ​ສໍາ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ​
 device-migration-fxa-spotlight-link = ເຕືອນຂ້ອຍໃນພາຍຫຼັງ
