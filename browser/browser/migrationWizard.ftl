@@ -58,6 +58,7 @@ migration-favorites-option-label = 我的最愛
 migration-logins-and-passwords-option-label = 儲存的登入資訊與密碼
 migration-history-option-label = 瀏覽紀錄
 migration-form-autofill-option-label = 表單自動填寫資料
+migration-payment-methods-option-label = 付款方式
 migration-passwords-from-file-progress-header = 匯入密碼檔
 migration-passwords-from-file-success-header = 已成功匯入密碼
 migration-passwords-from-file = 正在檢查檔案中的密碼
@@ -112,6 +113,7 @@ migration-list-favorites-label = 我的最愛
 migration-list-password-label = 密碼
 migration-list-history-label = 瀏覽紀錄
 migration-list-autofill-label = 自動填寫資料
+migration-list-payment-methods-label = 付款方式
 
 ##
 
@@ -160,7 +162,12 @@ migration-wizard-progress-success-history =
        *[other] 過去 { $maxAgeInDays } 來
     }
 migration-wizard-progress-success-formdata = 表單填寫紀錄
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods = { $quantity } 筆付款方式
 migration-wizard-safari-permissions-sub-header = 若要匯入 Safari 書籤與上網紀錄:
 migration-wizard-safari-instructions-continue = 選擇「繼續」
 migration-wizard-safari-instructions-folder = 從清單中選擇 Safari 資料夾，然後選擇「開啟」
-migration-wizard-safari-select-button = 選擇檔案

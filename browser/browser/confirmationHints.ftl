@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = 已送出！
 confirmation-hint-firefox-relay-mask-generated = 已產生新的 { -relay-brand-short-name } 轉寄信箱！
 confirmation-hint-firefox-relay-mask-created = 已產生新的轉寄信箱！
 confirmation-hint-firefox-relay-mask-reused = 重複使用現有的轉寄信箱！
+confirmation-hint-screenshot-copied = 已複製擷圖！
