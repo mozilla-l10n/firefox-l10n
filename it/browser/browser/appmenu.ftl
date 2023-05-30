@@ -295,3 +295,4 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Strumenti del browser
 appmenu-developer-tools-extensions =
     .label = Estensioni per sviluppatori
+
