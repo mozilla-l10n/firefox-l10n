@@ -11,7 +11,7 @@ translations-panel-settings-button =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-displayname-beta =
-    .label = { $language } BETA
+    .label = { $language }（测试中）
 
 ## Options in the Firefox Translations settings.
 
@@ -54,13 +54,6 @@ translations-panel-error-dismiss-button =
     .label = 明白
 translations-panel-error-change-button =
     .label = 更改源语言
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = 抱歉，我们尚未支持 { $language }。
 translations-panel-error-unsupported-hint-unknown = 抱歉，我们尚未支持这种语言。
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -74,14 +67,42 @@ translations-panel-to-label = 翻译到
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
-#
-# Variables:
-#   $fromLanguage (string) - The original language of the document.
-#   $toLanguage (string) - The target language of the translation.
-translations-panel-revisit-header = 此页面从 { $fromLanguage } 翻译到 { $toLanguage }
+translations-panel-restore-button =
+    .label = 显示原文
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = 翻译
+translations-manage-settings-button =
+    .label = 设置…
+    .accesskey = t
+translations-manage-all-language = 所有语言
+translations-manage-download-button = 下载
+translations-manage-delete-button = 删除
+translations-settings-title =
+    .title = 翻译设置
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = 将为以下语言自动进行翻译
+translations-settings-never-translate-langs-description = 翻译不支持下列语言
+translations-settings-never-translate-sites-description = 翻译不支持下列网站
+translations-settings-languages-column =
+    .label = 语言
+translations-settings-remove-language-button =
+    .label = 移除语言
+    .accesskey = R
+translations-settings-remove-all-languages-button =
+    .label = 移除所有语言
+    .accesskey = e
+translations-settings-sites-column =
+    .label = 网站
+translations-settings-remove-site-button =
+    .label = 移除站点
+    .accesskey = S
+translations-settings-remove-all-sites-button =
+    .label = 移除全部站点
+    .accesskey = m
+translations-settings-close-dialog =
+    .buttonlabelaccept = 关闭
+    .buttonaccesskeyaccept = C
