@@ -262,6 +262,6 @@ fxa-sync-cfr-secondary = Visimi plui indevant
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Stâstu doprant un dispositîf plui vieri?
-device-migration-fxa-spotlight-body = Fâs un backup dai tiei dâts par no pierdi informazions impuartantis come segnelibris e passwords –– soredut se tu passis a un gnûf dispositîf.
+device-migration-fxa-spotlight-body = Fâs un backup dai tiei dâts par no pierdi informazions impuartantis come segnelibris e passwords — soredut se tu passis a un gnûf dispositîf.
 device-migration-fxa-spotlight-primary-button = Cemût salvâ i miei dâts
 device-migration-fxa-spotlight-link = Visimi plui indevant
