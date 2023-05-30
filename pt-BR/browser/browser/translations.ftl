@@ -22,7 +22,7 @@ translations-panel-settings-about = Sobre traduções no { -brand-shorter-name }
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-always-translate-language =
-    .label = Sempre traduzir de { $langName }
+    .label = Sempre traduzir de { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Sempre traduzir deste idioma
 # Text displayed for the option to never translate a given language
