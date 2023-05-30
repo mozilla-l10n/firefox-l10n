@@ -58,6 +58,7 @@ migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Bewarre oanmeldingen en wachtwurden
 migration-history-option-label = Navigaasjeskiednis
 migration-form-autofill-option-label = Gegevens foar automatysk ynfoljen fan formulieren
+migration-payment-methods-option-label = Betellingsmetoaden
 migration-passwords-from-file-progress-header = Wachtwurden ymportearje
 migration-passwords-from-file-success-header = Wachtwurden mei sukses ymportearre
 migration-passwords-from-file = Bestân wurdt kontrolearre op wachtwurden
@@ -120,6 +121,7 @@ migration-list-favorites-label = favoriten
 migration-list-password-label = wachtwurden
 migration-list-history-label = skiednis
 migration-list-autofill-label = gegevens automatysk ynfolje
+migration-list-payment-methods-label = betellingsmetoaden
 
 ##
 
@@ -180,7 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Fan de lêste { $maxAgeInDays } dagen
     }
 migration-wizard-progress-success-formdata = Formulierskiednis
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } betellingsmetoade
+       *[other] { $quantity } betellingsmetoaden
+    }
 migration-wizard-safari-permissions-sub-header = Safari-blêdwizers en navigaasjeskiednis ymportearje:
 migration-wizard-safari-instructions-continue = Selektearje ‘Trochgean’
 migration-wizard-safari-instructions-folder = Selektearje de map Safari yn de list en kies ‘Iepenje’
-migration-wizard-safari-select-button = Bestân selektearje
