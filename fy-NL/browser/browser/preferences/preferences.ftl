@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Mear ynfo
 relay-integration =
     .label = { -relay-brand-name } ynskeakelje yn jo { -brand-short-name }-wachtwurdenbehearder
+preferences-relay-integration-checkbox =
+    .label = { -relay-brand-name }-e-mailmaskers foarstelle om jo e-mailadres te beskermjen
 relay-integration-learn-more-link = Mear ynfo
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
