@@ -44,16 +44,44 @@ translations-panel-translate-button =
     .label = 翻譯
 translations-panel-translate-cancel =
     .label = 取消
+translations-panel-error-translating = 翻譯時發生問題，請再試一次。
+translations-panel-error-load-languages = 無法載入語言清單
+translations-panel-error-load-languages-hint = 請確認網路連線正常後再試一次。
+translations-panel-error-load-languages-hint-button =
+    .label = 重試
+translations-panel-error-unsupported = 無法翻譯此頁面
+translations-panel-error-dismiss-button =
+    .label = 知道了！
+translations-panel-error-change-button =
+    .label = 更改原始語言
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = 抱歉，我們尚未支援 { $language }。
+translations-panel-error-unsupported-hint-unknown = 抱歉，我們尚未支援此語言。
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = 原始語言：
+translations-panel-to-label = 翻譯語言：
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = 已將此頁面從 { $fromLanguage } 翻譯為 { $toLanguage }
 translations-panel-choose-language =
     .label = 選擇一種語言
 translations-panel-restore-button =
@@ -70,8 +98,16 @@ translations-manage-all-language = 所有語言
 translations-manage-download-button = 下載
 translations-manage-delete-button = 刪除
 translations-manage-error-download = 下載語言檔案時發生問題，請再試一次。
+translations-manage-error-delete = 刪除語言檔案時發生錯誤，請再試一次。
+translations-manage-error-list = 取得可下載語言清單時發生錯誤，請重新整理頁面後再試一次。
+translations-settings-title =
+    .title = 翻譯設定
+    .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = 自動翻譯下列語言頁面
+translations-settings-never-translate-langs-description = 不對下列語言提供翻譯
+translations-settings-never-translate-sites-description = 不對下列網站進行翻譯
 translations-settings-languages-column =
     .label = 語言
 translations-settings-remove-language-button =
