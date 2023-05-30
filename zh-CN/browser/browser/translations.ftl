@@ -30,14 +30,19 @@ translations-panel-translate-cancel =
     .label = 取消
 translations-panel-error-translating = 翻译时遇到问题。请重试。
 translations-panel-error-load-languages = 无法加载语言
-translations-panel-error-load-languages-hint = 请检查您的互联网连接并重试。
 translations-panel-error-load-languages-hint-button =
     .label = 重试
-translations-panel-error-unsupported = 此页面无法翻译
 translations-panel-error-dismiss-button =
     .label = 明白
 translations-panel-error-change-button =
     .label = 更改源语言
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = 抱歉，我们尚未支持{ $language }。
 translations-panel-error-unsupported-hint-unknown = 抱歉，我们尚未支持这种语言。
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -51,6 +56,16 @@ translations-panel-to-label = 翻译到
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = 已将此页面从{ $fromLanguage }翻译为{ $toLanguage }
+translations-panel-choose-language =
+    .label = 选择语言
 translations-panel-restore-button =
     .label = 显示原文
 
@@ -60,9 +75,11 @@ translations-manage-header = 翻译
 translations-manage-settings-button =
     .label = 设置…
     .accesskey = t
+translations-manage-description = 下载离线翻译语言包。
 translations-manage-all-language = 所有语言
 translations-manage-download-button = 下载
 translations-manage-delete-button = 删除
+translations-manage-error-download = 下载离线包时遇到问题，请重试。
 translations-settings-title =
     .title = 翻译设置
     .style = min-width: 36em
@@ -79,6 +96,12 @@ translations-settings-remove-all-languages-button =
     .accesskey = e
 translations-settings-sites-column =
     .label = 网站
+translations-settings-remove-site-button =
+    .label = 移除网站
+    .accesskey = S
+translations-settings-remove-all-sites-button =
+    .label = 移除全部网站
+    .accesskey = m
 translations-settings-close-dialog =
     .buttonlabelaccept = 关闭
     .buttonaccesskeyaccept = C
