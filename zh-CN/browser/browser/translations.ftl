@@ -18,28 +18,12 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = 管理语言
 translations-panel-settings-about = 关于 { -brand-shorter-name } 的翻译
-# Text displayed for the option to always translate a given language
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-settings-always-translate-language =
-    .label = 始终翻译 { $language }
-translations-panel-settings-always-translate-unknown-language =
-    .label = 总是翻译这种语言
-# Text displayed for the option to never translate a given language
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-settings-never-translate-language =
-    .label = 永不翻译 { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = 永不翻译这种语言
-# Text displayed for the option to never translate this website
-translations-panel-settings-never-translate-site =
-    .label = 永不翻译这个网站
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
-translations-panel-header = 翻译此页面？
 translations-panel-translate-button =
     .label = 翻译
 translations-panel-translate-cancel =
@@ -85,8 +69,6 @@ translations-settings-title =
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = 将为以下语言自动进行翻译
-translations-settings-never-translate-langs-description = 翻译不支持下列语言
-translations-settings-never-translate-sites-description = 翻译不支持下列网站
 translations-settings-languages-column =
     .label = 语言
 translations-settings-remove-language-button =
@@ -97,12 +79,6 @@ translations-settings-remove-all-languages-button =
     .accesskey = e
 translations-settings-sites-column =
     .label = 网站
-translations-settings-remove-site-button =
-    .label = 移除站点
-    .accesskey = S
-translations-settings-remove-all-sites-button =
-    .label = 移除全部站点
-    .accesskey = m
 translations-settings-close-dialog =
     .buttonlabelaccept = 关闭
     .buttonaccesskeyaccept = C
