@@ -22,7 +22,7 @@ translations-panel-settings-about = Um þýðingar í { -brand-shorter-name }
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-always-translate-language =
-    .label = Alltaf þýða { $langName }
+    .label = Alltaf þýða { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Alltaf þýða þetta tungumál
 # Text displayed for the option to never translate a given language
