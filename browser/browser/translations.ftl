@@ -42,6 +42,8 @@ translations-panel-error-change-button =
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Langue source :
+translations-panel-to-label = Langue cible :
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
@@ -50,3 +52,14 @@ translations-panel-error-change-button =
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Traductions
+translations-manage-settings-button =
+    .label = Paramètres…
+    .accesskey = P
+translations-manage-all-language = Toutes les langues
+translations-manage-download-button = Télécharger
+translations-manage-delete-button = Supprimer
+translations-settings-languages-column =
+    .label = Langues
+translations-settings-sites-column =
+    .label = Sites web
