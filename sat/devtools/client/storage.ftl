@@ -15,13 +15,68 @@ storage-table-type-cookies-hint = ᱦᱚᱥᱴ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ �
 # Hint shown when the local storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
 storage-table-type-localstorage-hint = ᱢᱤᱫ ᱦᱚᱥᱴ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱞᱚᱠᱟᱞ ᱥᱴᱚᱨᱮᱡᱽ ᱧᱮᱞ ᱟᱨ ᱥᱟᱯᱲᱟᱣ ᱢᱮ᱾ <a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
+# Hint shown when the session storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
+storage-table-type-sessionstorage-hint = ᱢᱤᱫ ᱦᱚᱥᱴ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱥᱮᱥᱚᱱ ᱥᱴᱚᱨᱮᱡᱽ ᱧᱮᱞ ᱟᱨ ᱥᱟᱯᱲᱟᱣ ᱢᱮ᱾ <a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
+# Hint shown when the IndexedDB storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
+storage-table-type-indexeddb-hint = ᱢᱤᱫ ᱰᱮᱴᱟᱵᱮᱥ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ IndexedDB ᱟᱫᱮᱨ ᱟᱠᱟᱱᱟᱜ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱜᱮᱫ ᱜᱤᱰᱤ ᱢᱮ᱾<a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ᱾</a>
+# Hint shown when the cache storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
+storage-table-type-cache-hint = ᱢᱤᱫ ᱥᱴᱚᱨᱮᱡᱽ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱠᱮᱪ ᱥᱴᱚᱨᱮᱡᱽ ᱧᱮᱞ ᱟᱨ ᱜᱮᱫ ᱜᱤᱰᱤ ᱢᱮ᱾<a data-l10n-name="learn-more-link"> <a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ᱾</a>
+# Hint shown when the extension storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
+storage-table-type-extensionstorage-hint = ᱢᱤᱫ ᱦᱚᱥᱴ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱥᱴᱚᱨᱮᱡᱽ ᱧᱮᱞ ᱟᱨ ᱥᱟᱯᱲᱟᱣ ᱢᱮ᱾ <a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ᱾</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = ᱞᱤᱥᱴᱤ ᱪᱷᱟᱹᱱᱤ ᱢᱮ
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = ᱜᱚᱱᱚᱝ ᱪᱷᱟᱹᱱᱤ ᱢᱮ
+# Add Item button title
+storage-add-button =
+    .title = ᱞᱤᱥᱴᱤ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+# Refresh button title
+storage-refresh-button =
+    .title = ᱞᱤᱥᱴᱤ ᱯᱷᱟᱹᱨᱭᱟᱹᱣ ᱢᱮ
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = ᱡᱚᱛᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = ᱡᱚᱛᱚ ᱥᱮᱥᱚᱱᱥ ᱠᱩᱠᱤᱡᱽ ᱢᱮᱴᱟᱣ ᱢᱮ
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = ᱱᱚᱠᱚᱞ
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = { $itemName } ᱢᱮᱴᱟᱣ ᱢᱮ
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = ᱞᱤᱥᱴᱤ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = { $host } ᱡᱚᱛᱚ ᱯᱷᱚᱨᱢ ᱢᱮᱴᱟᱣ ᱢᱮ
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
+storage-table-headers-cookies-name = ᱧᱩᱛᱩᱢ
+storage-table-headers-cookies-value = ᱜᱚᱱᱚᱝ
+storage-table-headers-cookies-expires = ᱪᱟᱵᱟᱜᱼᱟ / ᱵᱟᱹᱲᱛᱤ ᱩᱢᱮᱨ
+storage-table-headers-cookies-size = ᱢᱟᱯ
+storage-table-headers-cookies-last-accessed = ᱢᱟᱲᱟᱝ ᱟᱫᱮᱨᱟᱜ
+storage-table-headers-cookies-creation-time = ᱛᱮᱭᱟᱨ ᱮᱱᱟ
+storage-table-headers-cache-status = ᱫᱚᱥᱟ
+storage-table-headers-extension-storage-area = ᱵᱟᱺᱫᱤ ᱮᱨᱤᱭᱟ
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = ᱠᱩᱠᱤᱡᱽᱠᱚ
 
 ##
 
