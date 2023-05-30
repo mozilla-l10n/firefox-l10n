@@ -74,6 +74,14 @@ translations-panel-to-label = Traducer in
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Iste pagina es traducite ab le { $fromLanguage } in { $toLanguage }
 translations-panel-choose-language =
     .label = Elige un lingua
 translations-panel-restore-button =
@@ -91,6 +99,12 @@ translations-manage-download-button = Discargar
 translations-manage-delete-button = Deler
 translations-manage-error-download = Il habeva un problema discargante le files del linguas. Retenta.
 translations-manage-error-delete = Il habeva un problema delente le files del linguas. Retenta.
+translations-settings-title =
+    .title = Parametros del traductiones
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Le traductiones apparera automaticamente pro le linguas sequente
 translations-settings-never-translate-langs-description = Le traductiones non es offerite pro le linguas sequente
 translations-settings-never-translate-sites-description = Le traduction non essera offerite pro le sitos sequente
 translations-settings-languages-column =
