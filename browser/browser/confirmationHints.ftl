@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Ferstjoerd!
 confirmation-hint-firefox-relay-mask-generated = Nij { -relay-brand-short-name }-masker oanmakke!
 confirmation-hint-firefox-relay-mask-created = Nij masker oanmakke!
 confirmation-hint-firefox-relay-mask-reused = Besteand masker opnij brûkt!
+confirmation-hint-screenshot-copied = Skermôfbylding kopiearre!
