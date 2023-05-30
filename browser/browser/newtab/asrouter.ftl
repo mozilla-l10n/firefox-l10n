@@ -268,6 +268,6 @@ fxa-sync-cfr-secondary = Pozdźišo dopomnić
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = StaršI grat wužiwać?
-device-migration-fxa-spotlight-body = Zawěsćće swoje daty, zo njebyšće wažne informacije kaž zapołožki a hesła zhubił –– předewšěm, jeli k nowemu gratej přeńdźeće.
+device-migration-fxa-spotlight-body = Zawěsćće swoje daty, zo njebyšće wažne informacije kaž zapołožki a hesła zhubił — předewšěm, jeli k nowemu gratej přeńdźeće.
 device-migration-fxa-spotlight-primary-button = Kak móžu swoje daty zawěsćić
 device-migration-fxa-spotlight-link = Pozdźišo dopomnić
