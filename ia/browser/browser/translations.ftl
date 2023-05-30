@@ -29,7 +29,7 @@ translations-panel-settings-always-translate-unknown-language =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
-    .label = Jammais traducer ab { $langName }
+    .label = Jammais traducer ab { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Jammais traducer ab iste lingua
 # Text displayed for the option to never translate this website
