@@ -58,6 +58,7 @@ migration-favorites-option-label = Favorieten
 migration-logins-and-passwords-option-label = Opgeslagen aanmeldingen en wachtwoorden
 migration-history-option-label = Navigatiegeschiedenis
 migration-form-autofill-option-label = Gegevens voor automatisch invullen van formulieren
+migration-payment-methods-option-label = Betalingsmethoden
 migration-passwords-from-file-progress-header = Wachtwoordenbestand importeren
 migration-passwords-from-file-success-header = Wachtwoorden met succes geïmporteerd
 migration-passwords-from-file = Bestand wordt gecontroleerd op wachtwoorden
@@ -120,6 +121,7 @@ migration-list-favorites-label = favorieten
 migration-list-password-label = wachtwoorden
 migration-list-history-label = geschiedenis
 migration-list-autofill-label = gegevens automatisch invullen
+migration-list-payment-methods-label = betalingsmethoden
 
 ##
 
@@ -180,7 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Van de afgelopen { $maxAgeInDays } dagen
     }
 migration-wizard-progress-success-formdata = Formuliergeschiedenis
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } betalingsmethode
+       *[other] { $quantity } betalingsmethoden
+    }
 migration-wizard-safari-permissions-sub-header = Safari-bladwijzers en navigatiegeschiedenis importeren:
 migration-wizard-safari-instructions-continue = Selecteer ‘Doorgaan’
 migration-wizard-safari-instructions-folder = Selecteer de map Safari in de lijst en kies ‘Openen’
-migration-wizard-safari-select-button = Bestand selecteren
