@@ -77,6 +77,33 @@ storage-table-headers-extension-storage-area = ᱵᱟᱺᱫᱤ ᱮᱨᱤᱭᱟ
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = ᱠᱩᱠᱤᱡᱽᱠᱚ
+storage-tree-labels-local-storage = ᱞᱚᱠᱟᱞ ᱵᱟᱺᱫᱤ
+storage-tree-labels-session-storage = ᱥᱮᱥᱚᱱ ᱵᱟᱺᱫᱤ
+storage-tree-labels-indexed-db = ᱤᱱᱰᱮᱠᱥ ᱟᱠᱟᱱᱟᱜ ᱰᱮᱴᱟᱵᱮᱥ
+storage-tree-labels-cache = ᱠᱮᱪ ᱵᱟᱺᱫᱤ
+storage-tree-labels-extension-storage = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱟᱺᱫᱤ
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = ᱯᱷᱚᱞᱚᱠ ᱯᱟᱥᱱᱟᱣ ᱢᱮ
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = ᱯᱷᱚᱞᱚᱠ ᱥᱟᱢᱴᱟᱣ ᱢᱮ
+# String displayed in the expires column when the cookie is a Session Cookie
+storage-expires-session = ᱥᱮᱥᱚᱱ
+# Heading displayed over the item value in the sidebar
+storage-data = ᱰᱟᱴᱟ
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = ᱟᱹᱜᱩ ᱟᱠᱟᱱ ᱜᱚᱱᱚᱝ
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = { $dbName } ᱰᱮᱴᱟᱵᱮᱥ ᱫᱚ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱡᱚᱛᱚ ᱛᱚᱯᱚᱞ ᱵᱚᱱᱫᱚ ᱮᱱ ᱛᱟᱭᱚᱢ᱾
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = { $dbName } ᱰᱮᱴᱟᱵᱮᱥ ᱫᱚ ᱵᱟᱭ ᱢᱮᱴᱟᱣᱜᱼᱟ᱾
