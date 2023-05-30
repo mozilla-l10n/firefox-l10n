@@ -5,9 +5,23 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = 페이지 번역
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } 베타
 
 ## Options in the Firefox Translations settings.
 
+translations-panel-settings-manage-languages =
+    .label = 언어 관리
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = 항상 { $language } 번역
+translations-panel-settings-always-translate-unknown-language =
+    .label = 항상 이 언어 번역
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
