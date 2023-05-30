@@ -99,6 +99,7 @@ translations-manage-download-button = Discargar
 translations-manage-delete-button = Deler
 translations-manage-error-download = Il habeva un problema discargante le files del linguas. Retenta.
 translations-manage-error-delete = Il habeva un problema delente le files del linguas. Retenta.
+translations-manage-error-list = Impossibile obtener le lista del linguas disponibile pro le traduction. Actualisa le pagina pro retentar.
 translations-settings-title =
     .title = Parametros del traductiones
     .style = min-width: 36em
