@@ -18,20 +18,38 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = 管理语言
 translations-panel-settings-about = 关于 { -brand-shorter-name } 的翻译
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = 总是翻译{ $language }
+translations-panel-settings-always-translate-unknown-language =
+    .label = 总是翻译此语言
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = 永不翻译{ $language }
 translations-panel-settings-never-translate-unknown-language =
-    .label = 永不翻译这种语言
+    .label = 永不翻译此语言
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = 永不翻译此网站
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = 要翻译此页面吗？
 translations-panel-translate-button =
     .label = 翻译
 translations-panel-translate-cancel =
     .label = 取消
-translations-panel-error-translating = 翻译时遇到问题。请重试。
+translations-panel-error-translating = 翻译时遇到问题，请重试。
 translations-panel-error-load-languages = 无法加载语言
+translations-panel-error-load-languages-hint = 请检查您的互联网连接，然后重试。
 translations-panel-error-load-languages-hint-button =
     .label = 重试
+translations-panel-error-unsupported = 无法翻译此页面
 translations-panel-error-dismiss-button =
     .label = 明白
 translations-panel-error-change-button =
@@ -50,7 +68,7 @@ translations-panel-error-unsupported-hint-unknown = 抱歉，我们尚未支持�
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = 翻译自
-translations-panel-to-label = 翻译到
+translations-panel-to-label = 翻译为
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
@@ -80,12 +98,16 @@ translations-manage-all-language = 所有语言
 translations-manage-download-button = 下载
 translations-manage-delete-button = 删除
 translations-manage-error-download = 下载离线包时遇到问题，请重试。
+translations-manage-error-delete = 删除离线包时遇到问题，请重试。
+translations-manage-error-list = 获取可用离线包失败，请刷新页面重试。
 translations-settings-title =
     .title = 翻译设置
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
-translations-settings-always-translate-langs-description = 将为以下语言自动进行翻译
+translations-settings-always-translate-langs-description = 自动翻译下列语言
+translations-settings-never-translate-langs-description = 永不翻译下列语言
+translations-settings-never-translate-sites-description = 永不翻译下列网站
 translations-settings-languages-column =
     .label = 语言
 translations-settings-remove-language-button =
