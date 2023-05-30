@@ -262,6 +262,6 @@ fxa-sync-cfr-secondary = მოგვიანებით შეხსენე
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = ძველ მოწყობილობას იყენებთ?
-device-migration-fxa-spotlight-body = გადაინახეთ მონაცემები, რომ არ დაგეკარგოთ მნიშვნელოვანი ინფორმაცია, მათ შორის სანიშნები და პაროლები –– მით უფრო, თუ ახალ მოწყობილობაზე აპირებთ გადასვლას.
+device-migration-fxa-spotlight-body = გადაინახეთ მონაცემები, რომ არ დაგეკარგოთ მნიშვნელოვანი ინფორმაცია, მათ შორის სანიშნები და პაროლები — მით უფრო, თუ ახალ მოწყობილობაზე აპირებთ გადასვლას.
 device-migration-fxa-spotlight-primary-button = როგორაა შესაძლებელი დამარქაფება
 device-migration-fxa-spotlight-link = მოგვიანებით შეხსენება
