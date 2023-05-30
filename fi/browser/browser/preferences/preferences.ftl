@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Lue lisää
 relay-integration =
     .label = Ota { -relay-brand-name } käyttöön { -brand-short-name }in salasanojen hallinnassa
+preferences-relay-integration-checkbox =
+    .label = Ehdota { -relay-brand-name }-sähköpostimaskeja sähköpostiosoitteen suojaamiseksi
 relay-integration-learn-more-link = Lue lisää
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

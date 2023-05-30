@@ -77,6 +77,8 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Tämä lisäosa antaa sivustolle { $hostname } pääsyn MIDI-laitteisiisi.
+webext-site-perms-header-with-gated-perms-midi-sysex = Tämä lisäosa antaa sivustolle { $hostname } pääsyn MIDI-laitteisiisi (SysEx-tuella).
 
 ##
 
