@@ -630,6 +630,12 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Chiudi Picture-in-Picture ({ $shortcut })
 
+picture-in-picture-panel-header = Picture-in-Picture
+picture-in-picture-panel-headline = Questo sito web sconsiglia l’utilizzo di Picture-in-Picture
+picture-in-picture-panel-body = I video potrebbero non essere visualizzati come previsto dallo sviluppatore utilizzando Picture-in-Picture.
+picture-in-picture-enable-toggle =
+  .label = Attiva comunque
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
