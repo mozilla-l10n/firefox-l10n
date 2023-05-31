@@ -26,6 +26,7 @@ about-logging-logging-to-profiler = Registrazione in { -profiler-brand-name }
 about-logging-no-log-modules = Nessuno
 about-logging-no-log-file = Nessuno
 about-logging-logging-preset-selector-text = Preset di registrazione:
+about-logging-with-profiler-stacks-checkbox = Attiva analisi dello stack per messaggi di log
 
 ## Logging presets
 
