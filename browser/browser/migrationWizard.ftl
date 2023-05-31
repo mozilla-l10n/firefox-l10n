@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Password da file CSV
+migration-wizard-migrator-display-name-file-bookmarks = Segnalibri da file HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -99,6 +100,35 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } aggiornata
        *[other] { $updatedEntries } aggiornate
     }
+
+migration-bookmarks-from-file-picker-title = Importazione file di segnalibri
+migration-bookmarks-from-file-progress-header = Importazione segnalibri
+migration-bookmarks-from-file = Segnalibri
+migration-bookmarks-from-file-success-header = Segnalibri importati correttamente
+
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+  { PLATFORM() ->
+      [macos] Documento HTML
+     *[other] File HTML
+  }
+
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = File JSON
+
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } segnalibro
+       *[other] { $newEntries } segnalibri
+    }
+
 migration-import-button-label = Importa
 migration-choose-to-import-from-file-button-label = Importa da file
 migration-import-from-file-button-label = Seleziona file
