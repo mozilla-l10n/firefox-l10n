@@ -47,6 +47,9 @@ third-party-icon-warning =
 third-party-status-loaded = Caricato
 third-party-status-blocked = Bloccato
 third-party-status-redirected = Reindirizzato
+third-party-loading-data =
+    .alt = Caricamento informazioni sul sistema…
+    .title = Caricamento informazioni sul sistema…
 
 third-party-button-copy-to-clipboard = Copia i dati non elaborati negli appunti
 third-party-button-reload = Ricarica con informazioni di sistema
