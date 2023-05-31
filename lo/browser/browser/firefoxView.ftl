@@ -81,3 +81,15 @@ firefoxview-collapse-button-show =
     .title = ສະແດງລາຍການ
 firefoxview-collapse-button-hide =
     .title = ເຊື່ອງລາຍຊື່
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = ປະຫວັດການໃຊ້ງານ
+firefoxview-history-header = ປະຫວັດການໃຊ້ງານ
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = ເປີດແທັບ
+
+##
+
