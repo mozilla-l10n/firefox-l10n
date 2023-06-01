@@ -58,6 +58,7 @@ migration-favorites-option-label = Ffefrynnau
 migration-logins-and-passwords-option-label = Mewngofnodion a chyfrineiriau a gadwyd
 migration-history-option-label = Hanes pori
 migration-form-autofill-option-label = Data awtolenwi ffurflenni
+migration-payment-methods-option-label = Dulliau talu
 migration-passwords-from-file-progress-header = Mewnforio Ffeil Cyfrineiriau
 migration-passwords-from-file-success-header = Cyfrineiriau wedi'u Mewnforio'n Llwyddiannus
 migration-passwords-from-file = Yn gwirio ffeil am gyfrineiriau
@@ -128,6 +129,7 @@ migration-list-favorites-label = ffefrynnau
 migration-list-password-label = cyfrineiriau
 migration-list-history-label = hanes
 migration-list-autofill-label = data awtolenwi
+migration-list-payment-methods-label = dulliau talu
 
 ##
 
@@ -204,7 +206,20 @@ migration-wizard-progress-success-history =
        *[other] O'r { $maxAgeInDays } diwrnod diwethaf
     }
 migration-wizard-progress-success-formdata = Hanes ffurflen
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [zero] { $quantity } dulliau talu
+        [one] { $quantity } dull talu
+        [two] { $quantity } ddull talu
+        [few] { $quantity } dull talu
+        [many] { $quantity } dull talu
+       *[other] { $quantity } dull talu
+    }
 migration-wizard-safari-permissions-sub-header = I fewnforio nodau tudalen a hanes pori Safari:
 migration-wizard-safari-instructions-continue = Dewis “Continue”
 migration-wizard-safari-instructions-folder = Dewiswch ffolder Safari yn y rhestr a dewis “Open”
-migration-wizard-safari-select-button = Dewis Ffeil

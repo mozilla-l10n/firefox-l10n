@@ -81,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Dangos rhestr
 firefoxview-collapse-button-hide =
     .title = Cuddio rhestr
+firefoxview-overview-navigation = Pori diweddar
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Hanes
+firefoxview-history-header = Hanes
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Agor tabiau
+firefoxview-opentabs-header = Agor tabiau
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Gweld y cyfan
