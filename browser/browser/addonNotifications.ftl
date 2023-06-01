@@ -87,7 +87,7 @@ addon-confirm-install-message = Situs ini ingin menginstal { $addonCount } penga
 addon-confirm-install-unsigned-message =
     { $addonCount ->
         [1] Perhatian: Situs ini ingin menginstal { $addonCount } pengaya tidak terverifikasi di { -brand-short-name }. Jika melanjutkan, risiko ditanggung sendiri.
-       *[other] { "" }
+       *[other] Perhatian: Situs ini ingin menginstal { $addonCount } pengaya tidak terverifikasi di { -brand-short-name }. Jika melanjutkan, risiko ditanggung sendiri.
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
