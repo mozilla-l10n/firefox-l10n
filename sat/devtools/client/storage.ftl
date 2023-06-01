@@ -23,7 +23,7 @@ storage-table-type-sessionstorage-hint = ᱢᱤᱫ ᱦᱚᱥᱴ ᱵᱟᱪᱷᱟ�
 storage-table-type-indexeddb-hint = ᱢᱤᱫ ᱰᱮᱴᱟᱵᱮᱥ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ IndexedDB ᱟᱫᱮᱨ ᱟᱠᱟᱱᱟᱜ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱜᱮᱫ ᱜᱤᱰᱤ ᱢᱮ᱾<a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ᱾</a>
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
-storage-table-type-cache-hint = ᱢᱤᱫ ᱥᱴᱚᱨᱮᱡᱽ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱠᱮᱪ ᱥᱴᱚᱨᱮᱡᱽ ᱧᱮᱞ ᱟᱨ ᱜᱮᱫ ᱜᱤᱰᱤ ᱢᱮ᱾<a data-l10n-name="learn-more-link"> <a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ᱾</a>
+storage-table-type-cache-hint = ᱢᱤᱫ ᱥᱴᱚᱨᱮᱡᱽ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱠᱮᱪ ᱥᱴᱚᱨᱮᱡᱽ ᱧᱮᱞ ᱟᱨ ᱜᱮᱫ ᱜᱤᱰᱤ ᱢᱮ᱾ <a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ᱾</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
 storage-table-type-extensionstorage-hint = ᱢᱤᱫ ᱦᱚᱥᱴ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱥᱴᱚᱨᱮᱡᱽ ᱧᱮᱞ ᱟᱨ ᱥᱟᱯᱲᱟᱣ ᱢᱮ᱾ <a data-l10n-name="learn-more-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ᱾</a>
