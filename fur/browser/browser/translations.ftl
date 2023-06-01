@@ -54,16 +54,67 @@ translations-panel-error-dismiss-button =
     .label = Capît
 translations-panel-error-change-button =
     .label = Cambie la lenghe di origjin
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Nus displâs, { $language } nol è ancjemò supuartât.
+translations-panel-error-unsupported-hint-unknown = Nus displâs, no supuartìn ancjemò cheste lenghe.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Tradûs di
+translations-panel-to-label = Tradûs in
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Cheste pagjine e je stade voltade dal { $fromLanguage } al { $toLanguage }
+translations-panel-choose-language =
+    .label = Sielç une lenghe
+translations-panel-restore-button =
+    .label = Mostre origjinâl
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Traduzions
+translations-manage-settings-button =
+    .label = Impostazions…
+    .accesskey = t
+translations-manage-description = Discjame lis lenghis pe traduzion fûr rêt.
+translations-manage-all-language = Dutis lis lenghis
+translations-manage-download-button = Discjame
+translations-manage-delete-button = Elimine
+translations-manage-error-download = Al è vignût fûr un probleme tal discjariâ i files de lenghe. Torne prove.
+translations-manage-error-delete = Al è vignût fûr un probleme tal eliminâ i files de lenghe. Torne prove.
+translations-manage-error-list = Impussibil otignî la liste des lenghis disponibilis pe traduzion. Inzorne la pagjine par tornâ a provâ.
+translations-settings-title =
+    .title = Impostazions traduzions
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = La traduzion e vignarà fate in automatic par chestis lenghis
+translations-settings-never-translate-langs-description = La traduzion no sarà disponibile par chestis lenghis
+translations-settings-never-translate-sites-description = La traduzion no sarà disponibile par chescj sîts
+translations-settings-languages-column =
+    .label = Lenghis
+translations-settings-remove-language-button =
+    .label = Gjave lenghe
+    .accesskey = R
+translations-settings-remove-all-languages-button =
+    .label = Gjave dutis lis lenghis
+    .accesskey = e
+translations-settings-sites-column =
+    .label = Sîts web
