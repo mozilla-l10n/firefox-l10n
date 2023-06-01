@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = Aplikace { -brand-short-name } zabránila této stránce v dotazu na instalaci softwaru do vašeho počítače.
+xpinstall-prompt =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zabránil této stránce v dotazu na instalaci softwaru do vašeho počítače.
+        [feminine] { -brand-short-name } zabránila této stránce v dotazu na instalaci softwaru do vašeho počítače.
+        [neuter] { -brand-short-name } zabránilo této stránce v dotazu na instalaci softwaru do vašeho počítače.
+       *[other] Aplikace { -brand-short-name } zabránila této stránce v dotazu na instalaci softwaru do vašeho počítače.
+    }
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -54,7 +60,11 @@ addon-domain-blocked-by-policy = Nastavení od správce vašeho systému zabrán
 addon-install-full-screen-blocked = V režimu celé obrazovky nebo těsně před jeho zapnutím není instalace doplňků povolena.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
-webext-perms-sideload-menu-item = Doplněk { $addonName } byl přidán do aplikace { -brand-short-name }
+webext-perms-sideload-menu-item =
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk { $addonName } byl přidán do { -brand-short-name(case: "gen") }
+       *[no-cases] Doplněk { $addonName } byl přidán do aplikace { -brand-short-name }
+    }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = Doplněk { $addonName } vyžaduje nová oprávnění
@@ -66,7 +76,11 @@ webext-perms-update-menu-item = Doplněk { $addonName } vyžaduje nová oprávn�
 addon-removal-title = Opravdu chcete odebrat rozšíření { $name }?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Odebrat { $name } z aplikace { -brand-shorter-name }?
+addon-removal-message =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Odebrat doplněk { $name } z { -brand-shorter-name(case: "gen") }?
+       *[no-cases] Odebrat doplněk { $name } z aplikace { -brand-shorter-name }?
+    }
 addon-removal-button = Odebrat
 addon-removal-abuse-report-checkbox =
     { -vendor-short-name.case-status ->
@@ -94,22 +108,59 @@ addon-install-accept-button =
 
 addon-confirm-install-message =
     { $addonCount ->
-        [one] Tato stránka chce nainstalovat doplněk do aplikace { -brand-short-name }:
-        [few] Tato stránka chce nainstalovat { $addonCount } doplňky do aplikace { -brand-short-name }:
-       *[other] Tato stránka chce nainstalovat { $addonCount } doplňků do aplikace { -brand-short-name }:
+        [one]
+            { -brand-short-name.case-status ->
+                [with-cases] Tato stránka chce nainstalovat doplněk do { -brand-short-name(case: "gen") }:
+               *[no-cases] Tato stránka chce nainstalovat doplněk do aplikace { -brand-short-name }:
+            }
+        [few]
+            { -brand-short-name.case-status ->
+                [with-cases] Tato stránka chce nainstalovat { $addonCount } doplňky do { -brand-short-name(case: "gen") }:
+               *[no-cases] Tato stránka chce nainstalovat { $addonCount } doplňky do aplikace { -brand-short-name }:
+            }
+       *[other]
+            { -brand-short-name.case-status ->
+                [with-cases] Tato stránka chce nainstalovat { $addonCount } doplňků do { -brand-short-name(case: "gen") }:
+               *[no-cases] Tato stránka chce nainstalovat { $addonCount } doplňků do aplikace { -brand-short-name }:
+            }
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
-        [one] Upozornění: Tato stránka chce nainstalovat neověřený doplněk do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
-        [few] Upozornění: Tato stránka chce nainstalovat { $addonCount } neověřené doplňky do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
-       *[other] Upozornění: Tato stránka chce nainstalovat { $addonCount } neověřených doplňků do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
+        [one]
+            { -brand-short-name.case-status ->
+                [with-cases] Upozornění: Tato stránka chce nainstalovat neověřený doplněk do { -brand-short-name(case: "gen") }. Pokračujte na vlastní riziko.
+               *[no-cases] Upozornění: Tato stránka chce nainstalovat neověřený doplněk do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
+            }
+        [few]
+            { -brand-short-name.case-status ->
+                [with-cases] Upozornění: Tato stránka chce nainstalovat { $addonCount } neověřené doplňky do { -brand-short-name(case: "gen") }. Pokračujte na vlastní riziko.
+               *[no-cases] Upozornění: Tato stránka chce nainstalovat { $addonCount } neověřené doplňky do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
+            }
+       *[other]
+            { -brand-short-name.case-status ->
+                [with-cases] Upozornění: Tato stránka chce nainstalovat { $addonCount } neověřených doplňků do { -brand-short-name(case: "gen") }. Pokračujte na vlastní riziko.
+               *[no-cases] Upozornění: Tato stránka chce nainstalovat { $addonCount } neověřených doplňků do aplikace { -brand-short-name }. Pokračujte na vlastní riziko.
+            }
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
-        [few] Upozornění: Tato stránka chce nainstalovat { $addonCount } doplňky do aplikace { -brand-short-name }, z nichž některé jsou neověřené. Pokračujte na vlastní riziko.
-       *[other] Upozornění: Tato stránka chce nainstalovat { $addonCount } doplňků do aplikace { -brand-short-name }, z nichž některé jsou neověřené. Pokračujte na vlastní riziko.
+        [one]
+            { -brand-short-name.case-status ->
+                [with-cases] { "" }
+               *[no-cases] { "" }
+            }
+        [few]
+            { -brand-short-name.case-status ->
+                [with-cases] Upozornění: Tato stránka chce nainstalovat { $addonCount } doplňky do { -brand-short-name(case: "gen") }, z nichž některé jsou neověřené. Pokračujte na vlastní riziko.
+               *[no-cases] Upozornění: Tato stránka chce nainstalovat { $addonCount } doplňky do aplikace { -brand-short-name }, z nichž některé jsou neověřené. Pokračujte na vlastní riziko.
+            }
+       *[other]
+            { -brand-short-name.case-status ->
+                [with-cases] Upozornění: Tato stránka chce nainstalovat { $addonCount } doplňků do { -brand-short-name(case: "gen") }, z nichž některé jsou neověřené. Pokračujte na vlastní riziko.
+               *[no-cases] Upozornění: Tato stránka chce nainstalovat { $addonCount } doplňků do aplikace { -brand-short-name }, z nichž některé jsou neověřené. Pokračujte na vlastní riziko.
+            }
     }
 
 ## Add-on install errors
@@ -120,7 +171,13 @@ addon-install-error-network-failure = Doplněk nemohl být stažen z důvodu sel
 addon-install-error-incorrect-hash = Doplněk nemohl být nainstalován, protože neodpovídá doplňku, který { -brand-short-name } očekává.
 addon-install-error-corrupt-file = Doplněk stažený z tohoto serveru nemohl být nainstalován, protože je poškozený.
 addon-install-error-file-access = Doplněk { $addonName } nemohl být nainstalován, protože { -brand-short-name } nemůže upravit potřebný soubor.
-addon-install-error-not-signed = Aplikace { -brand-short-name } zabránila tomuto serveru v instalaci neověřeného doplňku.
+addon-install-error-not-signed =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zabránil tomuto serveru v instalaci neověřeného doplňku.
+        [feminine] { -brand-short-name } zabránila tomuto serveru v instalaci neověřeného doplňku.
+        [neuter] { -brand-short-name } zabránilo tomuto serveru v instalaci neověřeného doplňku.
+       *[other] Aplikace { -brand-short-name } zabránila tomuto serveru v instalaci neověřeného doplňku.
+    }
 addon-install-error-invalid-domain = Doplněk { $addonName } nelze z této adresy nainstalovat.
 addon-local-install-error-network-failure = Tento doplněk nemohl být nainstalován z důvodu chyby souborového systému.
 addon-local-install-error-incorrect-hash = Tento doplněk nemohl být nainstalován, protože neodpovídá doplňku, který { -brand-short-name } očekává.
@@ -129,5 +186,9 @@ addon-local-install-error-file-access = Doplněk { $addonName } nemohl být nain
 addon-local-install-error-not-signed = Tento doplněk nemohl být nainstalován, protože nebyl ověřen.
 # Variables:
 #   $appVersion (String): the application version.
-addon-install-error-incompatible = Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s aplikací { -brand-short-name } { $appVersion }.
+addon-install-error-incompatible =
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s { -brand-short-name(case: "ins") } { $appVersion }.
+       *[no-cases] Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s aplikací { -brand-short-name } { $appVersion }.
+    }
 addon-install-error-blocklisted = Doplněk { $addonName } nemohl být nainstalován, protože přináší vysoké riziko nestability nebo bezpečnostních problémů.

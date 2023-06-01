@@ -1152,10 +1152,31 @@ popup-warning-message =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message =
-    { $popupCount ->
-        [one] Aplikace { -brand-short-name } zabránila stránce otevřít více než jedno vyskakovací okno.
-        [few] Aplikace { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovací okna
-       *[other] Aplikace { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovacích oken.
+    { -brand-short-name.gender ->
+        [masculine]
+            { $popupCount ->
+                [one] { -brand-short-name } zabránil stránce otevřít více než jedno vyskakovací okno.
+                [few] { -brand-short-name } zabránil stránce otevřít více než { $popupCount } vyskakovací okna
+               *[other] { -brand-short-name } zabránil stránce otevřít více než { $popupCount } vyskakovacích oken.
+            }
+        [feminine]
+            { $popupCount ->
+                [one] { -brand-short-name } zabránila stránce otevřít více než jedno vyskakovací okno.
+                [few] { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovací okna
+               *[other] { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovacích oken.
+            }
+        [neuter]
+            { $popupCount ->
+                [one] { -brand-short-name } zabránilo stránce otevřít více než jedno vyskakovací okno.
+                [few] { -brand-short-name } zabránilo stránce otevřít více než { $popupCount } vyskakovací okna
+               *[other] { -brand-short-name } zabránilo stránce otevřít více než { $popupCount } vyskakovacích oken.
+            }
+       *[other]
+            { $popupCount ->
+                [one] Aplikace { -brand-short-name } zabránila stránce otevřít více než jedno vyskakovací okno.
+                [few] Aplikace { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovací okna
+               *[other] Aplikace { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovacích oken.
+            }
     }
 popup-warning-button =
     .label =
