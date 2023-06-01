@@ -2,15 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-page-title = Handsam tillegg
+addons-page-title = Tilleggshandsamar
 search-header =
     .placeholder = Søk på addons.mozilla.org
     .searchbuttonlabel = Søk
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Last ned utvidingar og tema på <<a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Last ned ordbøker på <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Last ned språkpakkar på <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Du har ingen tillegg av denne typen installerte
 list-empty-available-updates =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Nettstadløyve
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Nettstadløyve for { $host }
 
 ## These are global warnings
@@ -200,7 +207,7 @@ addon-open-about-debugging = Feilsøk tillegg
 ## Extension shortcut management
 
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Handsam snarvegar for tillegg
+addon-manage-extensions-shortcuts = Handsam snarvegar for utvidingar
     .accesskey = H
 shortcuts-no-addons = Du har ingen utvidinga aktiverte.
 shortcuts-no-commands = Følgjande utvidingar har ikkje snarvegar:
@@ -224,6 +231,8 @@ shortcuts-duplicate-warning-message = { $shortcut } blir brukt som ein hurtigtas
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Allereie i bruk av { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Vis { $numberToShow } fleire
@@ -293,16 +302,9 @@ extension-enabled-heading = Slått på
 extension-disabled-heading = Slått av
 theme-enabled-heading = Slått på
 theme-disabled-heading = Slått av
-theme-disabled-heading2 = Lagra tema
 theme-monochromatic-heading = Fargesamansetjingar
 theme-monochromatic-subheading = Levande nye fargesamansetjingar frå { -brand-product-name }. Tilgjengeleg for ein avgrensa periode.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Prøv Colorways
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Endre fargesamansetjing
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Går ut { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Lagra tema
 plugin-enabled-heading = Slått på
 plugin-disabled-heading = Slått av
 dictionary-enabled-heading = Slått på
@@ -387,6 +389,8 @@ addon-permissions-optional = Valfrie løyve for ekstra funksjonalitet:
 addon-permissions-learnmore = Les meir om løyve
 recommended-extensions-heading = Tilrådde utvidingar
 recommended-themes-heading = Tilrådde tema
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Gir følgjande funksjonar til <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -413,8 +417,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } er ikkje kompatibel med { -brand-short-name } { $version }.
 details-notification-incompatible-link = Meir informasjon
 details-notification-unsigned-and-disabled = { $name } har ikkje blitt stadfesta for bruk i { -brand-short-name } og er slått av.
