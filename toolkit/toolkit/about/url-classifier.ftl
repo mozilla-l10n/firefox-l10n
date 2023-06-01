@@ -5,7 +5,11 @@
 url-classifier-title = Информация об URL-классификаторе
 url-classifier-search-title = Поиск
 url-classifier-search-result-title = Результаты
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Список таблиц: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Некорректный URL
@@ -30,7 +34,7 @@ url-classifier-cache-show-entries = Показать записи
 url-classifier-cache-entries = Записи кэша
 url-classifier-cache-prefix = Префикс
 url-classifier-cache-ncache-expiry = Срок хранения негативного кэша истекает
-url-classifier-cache-fullhash = Полный хэш
+url-classifier-cache-fullhash = Полный хеш
 url-classifier-cache-pcache-expiry = Срок хранения позитивного кэша истекает
 url-classifier-debug-title = Отладка
 url-classifier-debug-module-btn = Указать модули лога
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Модули лога безопасного �
 url-classifier-debug-modules = Текущие модули логирования
 url-classifier-debug-sbjs-modules = Лог JS безопасного веб-сёрфинга
 url-classifier-debug-file = Текущий файл лога
-
 url-classifier-trigger-update = Запустить обновление
 url-classifier-not-available = недоступно
 url-classifier-disable-sbjs-log = Отключить лог JS безопасного веб-сёрфинга
@@ -50,5 +53,9 @@ url-classifier-disabled = Отключено
 url-classifier-updating = обновление
 url-classifier-cannot-update = не удалось обновить
 url-classifier-success = успешно
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = ошибка обновления ({ $error })
 url-classifier-download-error = ошибка загрузки ({ $error })
