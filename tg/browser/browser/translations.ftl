@@ -52,6 +52,16 @@ translations-panel-error-load-languages-hint-button =
 translations-panel-error-unsupported = Тарҷума барои ин саҳифа дастнорас аст
 translations-panel-error-dismiss-button =
     .label = Фаҳмидам
+translations-panel-error-change-button =
+    .label = Забони матни аслиро иваз намоед
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Мутаассифона, айни ҳол забони «{ $language }» дастгирӣ намешавад.
+translations-panel-error-unsupported-hint-unknown = Мутаассифона, айни ҳол ин забон дастгирӣ намешавад.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -89,11 +99,15 @@ translations-manage-download-button = Боргирӣ кардан
 translations-manage-delete-button = Нест кардан
 translations-manage-error-download = Ҳангоми боргирӣ кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-delete = Ҳангоми несткунии файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
+translations-manage-error-list = Рӯйхати забонҳои дастрас барои тарҷума ба даст оварда нашуд. Саҳифаро аз нав бор карда, аз нав кӯшиш намоед.
 translations-settings-title =
     .title = Танзимоти тарҷума
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = Тарҷума барои забонҳои зерин ба таври худкор пешниҳод карда мешавад
+translations-settings-never-translate-langs-description = Тарҷума барои забонҳои зерин пешниҳод карда намешавад
+translations-settings-never-translate-sites-description = Тарҷума барои сомонаҳои зерин пешниҳод карда намешавад
 translations-settings-languages-column =
     .label = Забонҳо
 translations-settings-remove-language-button =
