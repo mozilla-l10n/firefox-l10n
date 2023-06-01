@@ -54,19 +54,38 @@ translations-panel-error-dismiss-button =
     .label = Anladım
 translations-panel-error-change-button =
     .label = Kaynak dili değiştir
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Maalesef henüz { $language } dilini desteklemiyoruz.
 translations-panel-error-unsupported-hint-unknown = Ne yazık ki henüz bu dili desteklemiyoruz.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Bu dilden
+translations-panel-to-label = Bu dile
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Bu sayfa { $fromLanguage } dilinden { $toLanguage } diline çevrilmiştir
 translations-panel-choose-language =
     .label = Dil seçin
+translations-panel-restore-button =
+    .label = Orijinalini göster
 
 ## Firefox Translations language management in about:preferences.
 
@@ -81,8 +100,14 @@ translations-manage-delete-button = Sil
 translations-manage-error-download = Dil dosyaları indirilirken bir sorun oluştu. Lütfen yeniden deneyin.
 translations-manage-error-delete = Dil dosyaları silinirken bir hata oluştu. Lütfen yeniden deneyin.
 translations-manage-error-list = Çeviri için mevcut dillerin listesi alınamadı. Yeniden denemek için sayfayı tazeleyin.
+translations-settings-title =
+    .title = Çeviri Ayarları
+    .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = Aşağıdaki diller otomatik olarak çevrilecektir
+translations-settings-never-translate-langs-description = Aşağıdaki diller için çeviri önerisi yapılmayacaktır
+translations-settings-never-translate-sites-description = Aşağıdaki siteler için çeviri önerisi yapılmayacaktır
 translations-settings-languages-column =
     .label = Diller
 translations-settings-remove-language-button =
