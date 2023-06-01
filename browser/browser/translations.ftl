@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Перакласці гэту старонку
+translations-panel-settings-button =
+    .aria-label = Кіраваць наладамі перакладу
 
 ## Options in the Firefox Translations settings.
 
