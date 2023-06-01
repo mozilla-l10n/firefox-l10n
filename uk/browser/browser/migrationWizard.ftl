@@ -58,6 +58,7 @@ migration-favorites-option-label = Обране
 migration-logins-and-passwords-option-label = Збережені паролі
 migration-history-option-label = Історія перегляду
 migration-form-autofill-option-label = Дані автозаповнення форм
+migration-payment-methods-option-label = Способи оплати
 migration-passwords-from-file-progress-header = Імпортувати паролі з файлу
 migration-passwords-from-file-success-header = Паролі успішно імпортовано
 migration-passwords-from-file = Перевірка файлу на наявність паролів
@@ -122,6 +123,7 @@ migration-list-favorites-label = обране
 migration-list-password-label = паролі
 migration-list-history-label = історія
 migration-list-autofill-label = дані автозаповнення
+migration-list-payment-methods-label = способи оплати
 
 ##
 
@@ -186,7 +188,17 @@ migration-wizard-progress-success-history =
        *[many] За останні { $maxAgeInDays } днів
     }
 migration-wizard-progress-success-formdata = Історія форм
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } спосіб оплати
+        [few] { $quantity } способи оплати
+       *[many] { $quantity } способів оплати
+    }
 migration-wizard-safari-permissions-sub-header = Щоб імпортувати закладки з Safari та історію перегляду:
 migration-wizard-safari-instructions-continue = Виберіть “Продовжити”
 migration-wizard-safari-instructions-folder = Виберіть теку Safari у списку та виберіть “Відкрити”
-migration-wizard-safari-select-button = Вибрати файл
