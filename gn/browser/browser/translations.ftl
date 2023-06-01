@@ -44,10 +44,24 @@ translations-panel-translate-button =
     .label = Ñe’ẽasa
 translations-panel-translate-cancel =
     .label = Heja
+translations-panel-error-translating = Iñapañuãi’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
+translations-panel-error-load-languages = Noñemyanyhẽkuaái ñe’ẽnguéra
+translations-panel-error-load-languages-hint = Ehechajey ne ñanduti reko ha eha’ãjey ag̃ave.
 translations-panel-error-load-languages-hint-button =
     .label = Eha’ãjey
+translations-panel-error-unsupported = Pe ñe’ẽasa ndahekói ko kuatiaroguépe g̃uarã
 translations-panel-error-dismiss-button =
     .label = Aikumby
+translations-panel-error-change-button =
+    .label = Emoambue ñe’ẽ ypyguáva
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Rombyasy, noromoneĩri gueteri { $language }.
+translations-panel-error-unsupported-hint-unknown = Rombyasy, noromoneĩri gueteri ko ñe’ẽ.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -62,6 +76,8 @@ translations-panel-to-label = Emoñe’ẽasa pe
 
 translations-panel-choose-language =
     .label = Eiporavo peteĩ ñe’ẽ
+translations-panel-restore-button =
+    .label = Ehechauka ypykuéva
 
 ## Firefox Translations language management in about:preferences.
 
@@ -79,8 +95,17 @@ translations-settings-close-key =
     .key = w
 translations-settings-languages-column =
     .label = Ñe’ẽita
+translations-settings-remove-language-button =
+    .label = Emboguete Ñe’ẽ
+    .accesskey = R
+translations-settings-remove-all-languages-button =
+    .label = Emboguepaite Ñe’ẽnguéra
+    .accesskey = e
 translations-settings-sites-column =
     .label = Ñanduti renda
+translations-settings-remove-site-button =
+    .label = Emboguete Tenda
+    .accesskey = S
 translations-settings-remove-all-sites-button =
     .label = Emboguepaite tendakuéra
     .accesskey = m
