@@ -121,6 +121,7 @@ migration-list-favorites-label = priljubljene
 migration-list-password-label = gesla
 migration-list-history-label = zgodovino
 migration-list-autofill-label = podatke za samodejno izpolnjevanje
+migration-list-payment-methods-label = načine plačil
 
 ##
 
@@ -189,5 +190,16 @@ migration-wizard-progress-success-history =
        *[other] zadnjih { $maxAgeInDays } dni
     }
 migration-wizard-progress-success-formdata = zgodovina obrazcev
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } način plačila
+        [two] { $quantity } načina plačil
+        [few] { $quantity } načini plačil
+       *[other] { $quantity } načinov plačil
+    }
 migration-wizard-safari-permissions-sub-header = Za uvoz zaznamkov in zgodovine iz brskalnika Safari:
-migration-wizard-safari-select-button = Izberi datoteko
