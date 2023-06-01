@@ -60,7 +60,7 @@ translations-panel-error-change-button =
 #
 # Variables:
 #   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = К сожалению, мы пока не поддерживаем { $language } язык.
+translations-panel-error-unsupported-hint-known = К сожалению, мы пока не поддерживаем следующий язык: { $language }
 translations-panel-error-unsupported-hint-unknown = К сожалению, мы пока не поддерживаем этот язык.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -83,7 +83,7 @@ translations-panel-to-label = Перевести на
 #   $toLanguage (string) - The target language of the translation.
 translations-panel-revisit-header = Эта страница переведена с { $fromLanguage } на { $toLanguage }
 translations-panel-choose-language =
-    .label = Выберите язык
+    .label = Выбрать язык
 translations-panel-restore-button =
     .label = Показать оригинал
 
