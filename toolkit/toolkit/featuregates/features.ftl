@@ -37,8 +37,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = Кэш запуска about:home
-experimental-features-abouthome-startup-cache-description = Кэширование начальной страницы about:home, по умолчанию загружающейся при запуске. Целью кэширования является повышение скорости запуска.
+    .label = Кеш запуска about:home
+experimental-features-abouthome-startup-cache-description = Кеширование начальной страницы about:home, по умолчанию загружающейся при запуске. Целью кеширования является повышение скорости запуска.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -62,5 +62,5 @@ experimental-features-ime-search =
     .label = Адресная строка: показывать результаты при составлении IME
 experimental-features-ime-search-description = IME (Input Method Editor - Редактор методов ввода) — это инструмент, позволяющий вводить сложные символы, например, используемые в письменности языков Восточной Азии или Индии, с помощью стандартной клавиатуры. Включение этого эксперимента позволит держать панель адресной строки открытой, показывая результаты поиска и предложения при использовании IME для ввода текста. Обратите внимание, что IME может отображать панель, закрывающую результаты адресной строки, поэтому данная настройка предлагается только для IME не использующего этот тип панели.
 experimental-features-accessibility-cache =
-    .label = Кэш поддержки доступности
-experimental-features-accessibility-cache-description = Кэширует всю информацию о поддержке доступности из всех документов в основном процессе { -brand-short-name }. Это повышает производительность программ чтения с экрана и других приложений, использующих API поддержки доступности.
+    .label = Кеш поддержки доступности
+experimental-features-accessibility-cache-description = Кеширует всю информацию о поддержке доступности из всех документов в основном процессе { -brand-short-name }. Это повышает производительность программ чтения с экрана и других приложений, использующих API поддержки доступности.

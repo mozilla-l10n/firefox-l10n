@@ -56,12 +56,10 @@ neterror-dns-not-found-hint-firewall = Проверить, что { -brand-short
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } не может защитить ваш запрос адреса этого сайта через наш доверенный разрешитель имен DNS. Вот причина:
-neterror-dns-not-found-trr-third-party-warning = Вы можете продолжить работу с незащищённым разрешителем имён DNS. Однако третья сторона может увидеть, какие сайты вы посещаете.
 neterror-dns-not-found-trr-third-party-warning2 = Вы можете продолжить работу с разрешителем имён DNS по умолчанию. Однако третья сторона может увидеть, какие сайты вы посещаете.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не удалось подключиться к { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Подключение к { $trrDomain } заняло больше времени, чем ожидалось.
 neterror-dns-not-found-trr-offline = Вы не подключены к Интернету.
-neterror-dns-not-found-trr-unknown-host = { $trrDomain } не смог найти адрес этого сайта.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } не смог найти этот сайт.
 neterror-dns-not-found-trr-server-problem = С { $trrDomain } возникла проблема.
 neterror-dns-not-found-trr-unknown-problem = Неожиданная проблема.
@@ -83,7 +81,7 @@ neterror-unknown-protocol = Для открытия данного адреса 
 neterror-redirect-loop = Эта проблема может возникать при отключении или запрещении принятия кук.
 neterror-unknown-socket-type-psm-installed = Убедитесь, что в вашей системе установлен «Менеджер личной защиты (PSM)».
 neterror-unknown-socket-type-server-config = Возможно, это произошло из-за нестандартной конфигурации сервера.
-neterror-not-cached-intro = Запрошенный документ недоступен в кэше { -brand-short-name }.
+neterror-not-cached-intro = Запрошенный документ недоступен в кеше { -brand-short-name }.
 neterror-not-cached-sensitive = В целях безопасности { -brand-short-name } не производит автоматический повторный запрос важных документов.
 neterror-not-cached-try-again = Нажмите «Попробовать снова», чтобы повторно запросить документ с веб-сайта.
 neterror-net-offline = Нажмите «Попробовать снова», чтобы подключиться к сети и перезагрузить страницу.
