@@ -864,6 +864,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Докладніше
 relay-integration =
     .label = Увімкнути { -relay-brand-name } у менеджері паролів { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Пропонувати маски електронної пошти { -relay-brand-name }, щоб захистити електронну адресу
 relay-integration-learn-more-link = Докладніше
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
