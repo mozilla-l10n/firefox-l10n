@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Sposta su
 unified-extensions-context-menu-move-widget-down =
     .label = Sposta giù
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Alcune estensioni non sono consentite
+unified-extensions-mb-quarantined-domain-message = Solo alcune estensioni monitorate da { -vendor-short-name } sono consentite in questo sito per proteggere i tuoi dati.
