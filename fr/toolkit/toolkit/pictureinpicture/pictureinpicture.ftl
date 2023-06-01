@@ -49,6 +49,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Quitter le mode plein écran
     .tooltip = Quitter le mode plein écran (double-clic)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Retour en arrière
     .tooltip = Retour en arrière (←)
