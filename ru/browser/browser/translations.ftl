@@ -29,7 +29,7 @@ translations-panel-settings-always-translate-unknown-language =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
-    .label = Никогда не переводить с { $langName }
+    .label = Никогда не переводить с { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Никогда не переводить с этого языка
 # Text displayed for the option to never translate this website
