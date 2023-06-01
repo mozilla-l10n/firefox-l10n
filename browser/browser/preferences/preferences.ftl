@@ -876,6 +876,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Dysgu rhagor
 relay-integration =
     .label = Galluogi { -relay-brand-name } yn eich rheolwr cyfrineiriau { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Awgrymu arallewnau e-byst { -relay-brand-name } i ddiogelu eich cyfeiriad e-bost
 relay-integration-learn-more-link = Dysgu rhagor
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Anfonwyd!
 confirmation-hint-firefox-relay-mask-generated = Arallenw { -relay-brand-short-name } newydd wedi'i gynhyrchu!
 confirmation-hint-firefox-relay-mask-created = Arallenw newydd wedi'i greu!
 confirmation-hint-firefox-relay-mask-reused = Arallenw cyfredol wedi'i ailddefnyddio!
+confirmation-hint-screenshot-copied = Llun sgrin wedi'i gopïo!
