@@ -58,6 +58,7 @@ migration-favorites-option-label = Kedvencek
 migration-logins-and-passwords-option-label = Mentett bejelentkezések és jelszavak
 migration-history-option-label = Böngészési előzmények
 migration-form-autofill-option-label = Adatok automatikus kitöltése
+migration-payment-methods-option-label = Fizetési módok
 migration-passwords-from-file-progress-header = Jelszófájl importálása
 migration-passwords-from-file-success-header = A jelszavak sikeresen importálva
 migration-passwords-from-file = Jelszavak keresése a fájlban
@@ -120,6 +121,7 @@ migration-list-favorites-label = kedvencek
 migration-list-password-label = jelszavak
 migration-list-history-label = előzmények
 migration-list-autofill-label = adatok automatikus kitöltése
+migration-list-payment-methods-label = fizetési módok
 
 ##
 
@@ -180,7 +182,16 @@ migration-wizard-progress-success-history =
        *[other] Az elmúlt { $maxAgeInDays } napból
     }
 migration-wizard-progress-success-formdata = Űrlapok előzményei
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } fizetési mód
+       *[other] { $quantity } fizetési mód
+    }
 migration-wizard-safari-permissions-sub-header = A Safari könyvjelzőinek és böngészési előzményeinek importálásához:
 migration-wizard-safari-instructions-continue = Válassza a „Folytatás” gombot
 migration-wizard-safari-instructions-folder = Válassza ki a Safari mappát a listából, és válassza a „Megnyitás” lehetőséget
-migration-wizard-safari-select-button = Fájl kiválasztása
