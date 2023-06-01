@@ -53,6 +53,7 @@ policy-DisableSecurityBypass = Estä käyttäjää ohittamasta tiettyjä tietotu
 policy-DisableSetAsDesktopBackground = Poista käytöstä kuville tarkoitettu valikon komento Aseta työpöydän taustakuvaksi.
 policy-DisableSystemAddonUpdate = Estä selainta asentamasta ja päivittämästä järjestelmälisäosia.
 policy-DisableTelemetry = Poista kaukomittaus käytöstä.
+policy-DisableThirdPartyModuleBlocking = Estä käyttäjää estämästä ulkopuolisia moduuleja, jotka injektoidaan { -brand-short-name }-prosessiin.
 policy-DisplayBookmarksToolbar = Näytä kirjanmerkkipalkki oletusarvoisesti.
 policy-DisplayMenuBar = Näytä valikkopalkki oletusarvoisesti.
 policy-DNSOverHTTPS = Käytä DNS:ää HTTPS:n välityksellä.
@@ -62,6 +63,7 @@ policy-DownloadDirectory = Aseta ja lukitse latauskansio.
 policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisällön esto, ja valinnaisesti lukitse asetus.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Ota käyttöön tai poista käytöstä suojatun median laajennukset (Encrypted Media Extensions), ja valinnaisesti lukitse asetus.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Poista käytöstä tiedostopäätteeseen perustuvat varoitukset tietyistä tiedostotyypeistä verkkotunnuksissa.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -71,6 +73,7 @@ policy-ExtensionUpdate = Ota käyttöön tai poista käytöstä laajennusten aut
 policy-FirefoxHome = Muokkaa Firefox-aloitussivun asetuksia.
 policy-FirefoxHome2 = Määritä { -firefox-home-brand-name }.
 policy-FlashPlugin = Salli tai estä Flash-liitännäisen käyttö.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Pakota suora intranet-sivustonavigointi internethaun sijaan, kun yksittäisiä sanoja kirjoitetaan osoitepalkkiin.
 policy-Handlers = Määritä oletussovelluskäsittelijät.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
 # “lock” means that the user won’t be able to change this setting
@@ -111,13 +114,12 @@ policy-SanitizeOnShutdown2 = Tyhjennä selaustiedot sammutuksen yhteydessä.
 policy-SearchBar = Aseta hakupalkin oletussijainti. Käyttäjä voi silti vaihtaa sitä.
 policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettävissä vain Extended Support Release (ESR) -versiossa.
 policy-SearchSuggestEnabled = Ota käyttöön tai poista käytöstä hakuehdotukset.
-# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = Asenna PKCS #11 -moduulit.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Lisää tai poista PKCS #11 -moduuleja.
 policy-ShowHomeButton = Näytä kotipainike työkalupalkissa.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
 policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
+policy-StartDownloadsInTempDirectory = Pakota lataukset alkamaan paikallisesta väliaikaisesta sijainnista oletusarvoisen latauskansion sijaan.
 policy-SupportMenu = Lisää Ohje-valikkoon oma valikkokohta tukea varten.
 policy-UserMessaging = Älä näytä tiettyjä viestejä käyttäjälle.
 policy-UseSystemPrintDialog = Tulosta käyttäen järjestelmän tulostusikkunaa.
