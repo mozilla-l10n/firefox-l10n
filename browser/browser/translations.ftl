@@ -25,7 +25,7 @@ translations-panel-error-dismiss-button =
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
-translations-panel-from-label = Omaset frå
+translations-panel-from-label = Omset frå
 translations-panel-to-label = Omset til
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
@@ -50,3 +50,6 @@ translations-settings-languages-column =
     .label = Språk
 translations-settings-sites-column =
     .label = Nettstadar
+translations-settings-close-dialog =
+    .buttonlabelaccept = Lat att
+    .buttonaccesskeyaccept = L

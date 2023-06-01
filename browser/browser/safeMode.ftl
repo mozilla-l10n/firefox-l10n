@@ -9,7 +9,7 @@ start-troubleshoot-mode =
     .label = Opne
 refresh-profile =
     .label = Tilbakestill { -brand-short-name }
-troubleshoot-mode-description = Bruk denne spesielle modusen for { -brand-short-name } for å diagnostisere problem. Utvideingane og tilpassingane dine vert mellombels deaktiverte.
+troubleshoot-mode-description = Bruk denne spesielle modusen for { -brand-short-name } for å diagnostisere problem. Utvidingane og tilpassingane dine vert mellombels deaktiverte.
 skip-troubleshoot-refresh-profile = Du kan også hoppe over feilsøking, og tilbakestille { -brand-short-name } i staden.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } avslutta uventa under oppstart. Det kan vere eit tillegg som er årsak til dette, eller andre problem. Du kan prøve å rette opp problemet med å feilsøkje i Trygg modus.
