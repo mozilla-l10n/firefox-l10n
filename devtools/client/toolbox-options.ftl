@@ -98,9 +98,9 @@ options-sourceeditor-keybinding-default-label = По умолчанию
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Дополнительные параметры
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = Отключить HTTP-кэш (когда открыта панель инструментов)
+options-disable-http-cache-label = Отключить HTTP-кеш (когда открыта панель инструментов)
 options-disable-http-cache-tooltip =
-    .title = Включение этой опции отключит HTTP-кэш для всех вкладок, в которых открыта панель инструментов. Эта опция не влияет на Service Worker'ы.
+    .title = Включение этой опции отключит HTTP-кеш для всех вкладок, в которых открыта панель инструментов. Эта опция не влияет на Service Worker'ы.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Отключить JavaScript *
 options-disable-javascript-tooltip =

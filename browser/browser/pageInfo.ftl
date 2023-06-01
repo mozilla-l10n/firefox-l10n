@@ -149,7 +149,7 @@ page-info-security-no-owner =
     .value = Информация о владельце этого веб-сайта отсутствует.
 media-select-folder = Выберите папку для сохранения изображений
 media-unknown-not-cached =
-    .value = Неизвестно (не кэшировано)
+    .value = Неизвестно (не кешировано)
 permissions-use-default =
     .label = По умолчанию
 security-no-visits = Нет
@@ -224,17 +224,17 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } КБ
+
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Блокировать изображения с { $website }
     .accesskey = л
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Информация о странице — { $website }
 page-info-frame =

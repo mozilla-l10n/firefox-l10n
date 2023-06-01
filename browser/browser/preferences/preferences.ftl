@@ -953,11 +953,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Куки и данные сайтов
-sitedata-total-size-calculating = Вычисление объема данных сайтов и кэша…
+sitedata-total-size-calculating = Вычисление объема данных сайтов и кеша…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Ваши сохранённые куки, данные сайтов и кэш сейчас занимают на диске { $value } { $unit }.
+sitedata-total-size = Ваши сохранённые куки, данные сайтов и кеш сейчас занимают на диске { $value } { $unit }.
 sitedata-learn-more = Подробнее
 sitedata-delete-on-close =
     .label = Удалять куки и данные сайтов при закрытии { -brand-short-name }
