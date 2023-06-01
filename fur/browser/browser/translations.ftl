@@ -24,7 +24,7 @@ translations-panel-settings-about = Informazions su lis traduzions in { -brand-s
 translations-panel-settings-always-translate-language =
     .label = Tradûs simpri dal { $language }
 translations-panel-settings-always-translate-unknown-language =
-    .label = Tradûs simpri cheste lenghe
+    .label = Tradûs simpri di cheste lenghe
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -39,6 +39,21 @@ translations-panel-settings-never-translate-site =
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = Tradusi cheste pagjine?
+translations-panel-translate-button =
+    .label = Tradûs
+translations-panel-translate-cancel =
+    .label = Anule
+translations-panel-error-translating = Al è vignût fûr un probleme tal tradusi. Torne prove.
+translations-panel-error-load-languages = Impussibil cjariâ lis lenghis
+translations-panel-error-load-languages-hint = Verifiche la conession a internet e torne prove.
+translations-panel-error-load-languages-hint-button =
+    .label = Torne prove
+translations-panel-error-unsupported = La traduzion no je disponibile par cheste pagjine
+translations-panel-error-dismiss-button =
+    .label = Capît
+translations-panel-error-change-button =
+    .label = Cambie la lenghe di origjin
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
