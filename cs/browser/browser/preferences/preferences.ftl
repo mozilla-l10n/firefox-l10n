@@ -984,6 +984,8 @@ relay-integration =
             [with-cases] Povolit { -relay-brand-name(case: "acc") } ve Správci hesel ve { -brand-short-name(case: "gen") }
            *[no-cases] Povolit { -relay-brand-name(case: "acc") } ve Správci hesel v aplikaci { -brand-short-name }
         }
+preferences-relay-integration-checkbox =
+    .label = Navrhovat e-mailové masky služby { -relay-brand-name } na ochranu vaší e-mailové adresy
 relay-integration-learn-more-link = Zjistit více
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
