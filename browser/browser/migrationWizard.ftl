@@ -195,11 +195,10 @@ migration-wizard-progress-success-formdata = Журнал форм
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
     { $quantity ->
-        [one] { $quantity } метод оплаты
-        [few] { $quantity } методы оплаты
-       *[many] { $quantity } методов оплаты
+        [one] { $quantity } способ оплаты
+        [few] { $quantity } способа оплаты
+       *[many] { $quantity } способов оплаты
     }
 migration-wizard-safari-permissions-sub-header = Чтобы импортировать закладки Safari и журнал посещённых страниц:
 migration-wizard-safari-instructions-continue = Нажмите «Продолжить»
 migration-wizard-safari-instructions-folder = Выберите папку Safari в списке и нажмите «Открыть».
-migration-wizard-safari-select-button = Выберите файл

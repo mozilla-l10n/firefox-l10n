@@ -42,10 +42,10 @@ pictureinpicture-subtitles-btn =
     .tooltip = Субтитры
 pictureinpicture-fullscreen-btn2 =
     .aria-label = На весь экран
-    .tooltip = На весь экран (двойное нажатие или { $shortcut })
+    .tooltip = На весь экран (двойной щелчок или { $shortcut })
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Выйти из полноэкранного режима
-    .tooltip = Выйти из полноэкранного режима (двойное нажатие или { $shortcut })
+    .tooltip = Выйти из полноэкранного режима (двойной щелчок или { $shortcut })
 
 ##
 
