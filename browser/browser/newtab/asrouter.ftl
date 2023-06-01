@@ -297,18 +297,30 @@ fox-doodle-pin-headline = Vítejte zpět
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Zde je rychlé připomenutí, že si svůj oblíbený nezávislý prohlížeč můžete jediným klepnutím ponechat.
-fox-doodle-pin-primary = Otevírat mé odkazy pomocí { -brand-short-name(case: "gen") }
+fox-doodle-pin-primary =
+    { -brand-short-name.case-status ->
+        [with-cases] Otevírat mé odkazy pomocí { -brand-short-name(case: "gen") }
+       *[no-cases] Otevírat mé odkazy pomocí aplikace { -brand-short-name }
+    }
 fox-doodle-pin-secondary = Teď ne
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
-set-default-pdf-handler-headline = <strong>Vaše PDF dokumenty se nyní otevírají v { -brand-short-name(case: "loc") }.</strong> Upravujte nebo podepisujte formuláře přímo v prohlížeči. Pro změnu vyhledejte v nastavení položku „PDF“.
+set-default-pdf-handler-headline =
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>Vaše PDF dokumenty se nyní otevírají ve { -brand-short-name(case: "loc") }.</strong> Upravujte nebo podepisujte formuláře přímo v prohlížeči. Pro změnu vyhledejte v nastavení položku „PDF“.
+       *[no-cases] <strong>Vaše PDF dokumenty se nyní otevírají v aplikaci { -brand-short-name }.</strong> Upravujte nebo podepisujte formuláře přímo v prohlížeči. Pro změnu vyhledejte v nastavení položku „PDF“.
+    }
 set-default-pdf-handler-primary = Rozumím
 
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Plánujete v blízké budoucnosti nové zařízení?
-fxa-sync-cfr-body = Ujistěte se, že máte své záložky, hesla a panely vždy při sobě, když otevřete novou instalaci prohlížeče { -brand-product-name }.
+fxa-sync-cfr-body =
+    { -brand-product-name.case-status ->
+        [with-cases] Ujistěte se, že máte své záložky, hesla a panely vždy při sobě, když otevřete novou instalaci { -brand-product-name(case: "gen") }.
+       *[no-cases] Ujistěte se, že máte své záložky, hesla a panely vždy při sobě, když otevřete novou instalaci prohlížeče { -brand-product-name }.
+    }
 fxa-sync-cfr-primary = Zjistit více
     .accesskey = Z
 fxa-sync-cfr-secondary = Upozornit mě později
