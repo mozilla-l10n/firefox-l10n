@@ -129,6 +129,11 @@ options-enable-remote-label = Attiva debug remoto
 options-enable-remote-tooltip2 =
     .title = Attivando questa opzione è possibile effettuare il debug remoto di questa istanza del browser
 
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Utilizza il tasto F12 per aprire o chiudere DevTools
+options-enable-f12-tooltip =
+    .title = Attivando questa opzione il tasto F12 verrà associato all’apertura e chiusura degli strumenti di sviluppo
+
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Attiva formattatori personalizzati
 options-enable-custom-formatters-tooltip =
