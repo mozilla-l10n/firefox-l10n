@@ -29,7 +29,7 @@ translations-panel-settings-always-translate-unknown-language =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
-    .label = Peidio cyfieithu { $langName }
+    .label = Peidio cyfieithu { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Peidio byth cyfieithu'r iaith hon
 # Text displayed for the option to never translate this website
@@ -104,7 +104,7 @@ translations-settings-title =
     .title = Gosodiadau Cyfieithiadau
     .style = min-width: 36em
 translations-settings-close-key =
-    .key = C
+    .key = w
 translations-settings-always-translate-langs-description = Bydd cyfieithu'n digwydd yn awtomatig ar gyfer yr ieithoedd canlynol
 translations-settings-never-translate-langs-description = Ni fydd cyfieithiad yn cael ei gynnig ar gyfer yr ieithoedd canlynol
 translations-settings-never-translate-sites-description = Ni fydd cyfieithiad yn cael ei gynnig ar gyfer y gwefannau canlynol
