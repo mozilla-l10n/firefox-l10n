@@ -18,8 +18,18 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Керувати мовами
 translations-panel-settings-about = Про переклад у { -brand-shorter-name }
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = Завжди перекладати { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Завжди перекладати цією мовою
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = Ніколи не перекладати { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Ніколи не перекладати цією мовою
 # Text displayed for the option to never translate this website
@@ -58,11 +68,20 @@ translations-panel-error-unsupported-hint-unknown = На жаль, ми ще н�
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = Перекласти з
+translations-panel-to-label = Перекласти мовою
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Цю сторінку перекладено з { $fromLanguage } на { $toLanguage }
 translations-panel-choose-language =
     .label = Вибрати мову
 translations-panel-restore-button =
@@ -84,6 +103,8 @@ translations-manage-error-list = Не вдалося отримати списо
 translations-settings-title =
     .title = Налаштування перекладу
     .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
 translations-settings-always-translate-langs-description = Переклад відбуватиметься автоматично для таких мов
 translations-settings-never-translate-langs-description = Переклад не пропонуватиметься для таких мов
 translations-settings-never-translate-sites-description = Переклад не пропонуватиметься для таких сайтів
