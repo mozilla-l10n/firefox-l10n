@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- This file is only used by the Firefox Translations extension,
-   - and should be removed once possible.
-   - See: https://bugzilla.mozilla.org/show_bug.cgi?id=1788595 -->
-
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -56,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "Diese Seite nie übersetzen">
+<!ENTITY translation.options.neverForSite.label "Diese Website nie übersetzen">
 <!ENTITY translation.options.neverForSite.accesskey "n">
 <!ENTITY translation.options.preferences.label  "Einstellungen für die Übersetzung">
 <!ENTITY translation.options.preferences.accesskey "E">
