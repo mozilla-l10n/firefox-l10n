@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Podnapisi
     .tooltip = Podnapisi
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Celoten zaslon
+    .tooltip = Celozaslonski način (dvoklik ali { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Izhod iz celozaslonskega načina
+    .tooltip = Končaj celozaslonski način (dvoklik ali { $shortcut })
 
 ##
 
