@@ -54,6 +54,10 @@ translations-panel-to-label = Langue cible :
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+translations-panel-choose-language =
+    .label = Choisissez une langue
+translations-panel-restore-button =
+    .label = Afficher la page d’origine
 
 ## Firefox Translations language management in about:preferences.
 
