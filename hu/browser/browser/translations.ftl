@@ -29,7 +29,7 @@ translations-panel-settings-always-translate-unknown-language =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
-    .label = Sose fordítson erről a nyelvről: { $langName }
+    .label = Sose fordítson erről a nyelvről: { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Sose fordítson erről a nyelvről
 # Text displayed for the option to never translate this website
