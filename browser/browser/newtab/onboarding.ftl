@@ -539,7 +539,11 @@ onboarding-infrequent-import-primary-button =
 mr2022-onboarding-pin-image-alt =
     .aria-label = Osoba pracující na notebooku obklopená hvězdami a květinami
 mr2022-onboarding-default-image-alt =
-    .aria-label = Osoba objímající logo { -brand-product-name(case: "gen") }
+    .aria-label =
+        { -brand-product-name.case-status ->
+            [with-cases] Osoba objímající logo { -brand-product-name(case: "gen") }
+           *[no-cases] Osoba objímající logo aplikace { -brand-product-name }
+        }
 mr2022-onboarding-import-image-alt =
     .aria-label = Osoba na skateboardu s krabicí softwarových ikon
 mr2022-onboarding-mobile-download-image-alt =
