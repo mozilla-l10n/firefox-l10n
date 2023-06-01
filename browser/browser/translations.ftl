@@ -38,6 +38,9 @@ translations-panel-error-dismiss-button =
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-header = Пераклады
+translations-manage-settings-button =
+    .label = Налады…
+    .accesskey = д
 translations-manage-all-language = Усе мовы
 translations-manage-download-button = Сцягнуць
 translations-manage-delete-button = Выдаліць
@@ -45,6 +48,9 @@ translations-settings-never-translate-langs-description = Пераклад не 
 translations-settings-never-translate-sites-description = Пераклад не будзе прапанаваны для наступных сайтаў
 translations-settings-languages-column =
     .label = Мовы
+translations-settings-remove-all-sites-button =
+    .label = Выдаліць усе сайты
+    .accesskey = ь
 translations-settings-close-dialog =
     .buttonlabelaccept = Закрыць
     .buttonaccesskeyaccept = ц
