@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Ricerca aggiornamenti…
 update-downloading = <img data-l10n-name="icon"/>Download aggiornamento — <label data-l10n-name="download-status"/>
 update-downloading-message = Download aggiornamento — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Download aggiornamento — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Download aggiornamento — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Installazione aggiornamento…
 update-failed = Aggiornamento non riuscito. <label data-l10n-name="failed-link">Scarica l’ultima versione</label>
 update-failed-main = Aggiornamento non riuscito. <a data-l10n-name="failed-link-main">Scarica l’ultima versione</a>
@@ -23,10 +32,20 @@ aboutdialog-update-checking-failed = Impossibile controllare la disponibilità d
 update-otherInstanceHandlingUpdates = Aggiornamento di { -brand-short-name } in corso in un’altra istanza
 update-manual = Aggiornamenti disponibili su <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Aggiornamenti disponibili su <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Aggiornamenti disponibili su <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Aggiornamenti disponibili su <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Non è possibile installare ulteriori aggiornamenti su questo sistema. <label data-l10n-name="unsupported-link">Ulteriori informazioni</label>
 update-restarting = Riavvio…
-update-internal-error = Impossibile verificare la disponibilità di aggiornamenti a causa di un errore interno. Aggiornamenti disponibili a <label data-l10n-name="manual-link"/>
 channel-description = Canale di aggiornamento attuale: <label data-l10n-name="current-channel"></label>.
+update-internal-error = Impossibile verificare la disponibilità di aggiornamenti a causa di un errore interno. Aggiornamenti disponibili a <label data-l10n-name="manual-link"/>
+update-internal-error2 = Impossibile verificare la disponibilità di aggiornamenti a causa di un errore interno. Aggiornamenti disponibili a <label data-l10n-name="manual-link">{ $displayUrl }</label>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Canale di aggiornamento attuale: <label data-l10n-name="current-channel">{ $channel }</label>.
@@ -41,4 +60,3 @@ bottomLinks-rights = Diritti dell’utente finale
 bottomLinks-privacy = Informativa sulla privacy
 aboutDialog-version = { $version } ({ $bits } bit)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits } bit)
-
