@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Elküldve!
 confirmation-hint-firefox-relay-mask-generated = Új { -relay-brand-short-name }-maszk létrehozva!
 confirmation-hint-firefox-relay-mask-created = Új maszk létrehozva.
 confirmation-hint-firefox-relay-mask-reused = A meglévő maszk újrafelhasználva.
+confirmation-hint-screenshot-copied = Képernyőkép másolva.
