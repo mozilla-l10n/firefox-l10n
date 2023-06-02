@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Passord frå CSV-fil
+migration-wizard-migrator-display-name-file-bookmarks = Bokmerke frå HTML-fil
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -99,6 +100,10 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } oppdatert
        *[other] { $updatedEntries } oppdaterte
     }
+migration-bookmarks-from-file-picker-title = Importer bokmerkefil
+migration-bookmarks-from-file-progress-header = Importerer bokmerke
+migration-bookmarks-from-file = Bokmerke
+migration-bookmarks-from-file-success-header = Bokmerka vart importerte
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer frå fil
 migration-import-from-file-button-label = Vel fil
@@ -195,4 +200,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerke og netthistorik:
 migration-wizard-safari-instructions-continue = Vel «Hald fram»
 migration-wizard-safari-instructions-folder = Vel Safari-mappa i lista og vel «Opne»
-migration-wizard-safari-select-button = Vel fil
