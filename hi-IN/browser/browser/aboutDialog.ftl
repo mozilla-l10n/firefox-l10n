@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = अपडेट के लिए जाँचा जा रहा है…
 update-downloading = <img data-l10n-name="icon"/>अपडेट डाउनलोड हो रहा है — <label data-l10n-name="download-status"/>
 update-downloading-message = अपडेट डाउनलोड हो रहा है — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = अपडेट लागू हो रहा है…
 update-failed = अपडेट विफल. <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड करें</label>
 update-failed-main = अपडेट विफल. <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड करें</a>
@@ -22,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } अद्यतन है
 update-otherInstanceHandlingUpdates = { -brand-short-name } को दूसरे उदाहरण के द्वारा अद्यतन किया जा रहा है
 update-manual = उपलब्ध अद्यतन <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = उपलब्ध अद्यतन <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = उपलब्ध अद्यतन <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = उपलब्ध अद्यतन <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = आप इस तंत्र पर आगे अद्यतन नहीं कर सकते हैं. <label data-l10n-name="unsupported-link">अधिक जानें</label>
 update-restarting = पुन: प्रारंभ...
 channel-description = आप अभी यहाँ हैं <label data-l10n-name="current-channel"></label> चैनल अद्यतन करें.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = आप अभी यहाँ हैं <label data-l10n-name="current-channel">{ $channel }</label> चैनल अद्यतन करें.
