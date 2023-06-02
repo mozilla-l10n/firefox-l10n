@@ -13,6 +13,13 @@ update-updateButton =
     .accesskey = ର
 update-checkingForUpdates = ଅପଡେଟସବୁ ପରଖୁଛି…
 update-downloading = <img data-l10n-name="icon"/> ଅପଡେଟ ଡାଉନଲୋଡ଼ ହେଉଛି --<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = ଅପଡେଟଟି ପ୍ରୟୋଗ କରୁଛି…
 update-failed = ଅପଡେଟ ବିଫଳ ।<label data-l10n-name="failed-link">ନୂତନତମ ସଂସ୍କରଣକୁ ଆହରଣ କରନ୍ତୁ</label>
 update-failed-main = ଅପଡେଟ ବିଫଳ ।<a data-l10n-name="failed-link-main">ନୂତନତମ ସଂସ୍କରଣକୁ ଆହରଣ କରନ୍ତୁ</a>
@@ -21,9 +28,18 @@ update-noUpdatesFound = { -brand-short-name } ଟି ଅଦ୍ୟତିତ ଅ�
 update-otherInstanceHandlingUpdates = { -brand-short-name } ଅନ୍ୟ ଏକ ସ୍ଥିତିରେ ଅଦ୍ୟତିତ ହୋଇଛି
 update-manual = ଅପଡେଟସବୁ ଏଠାରେ ପାଇବେ:<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = ଅପଡେଟସବୁ ଏଠାରେ ପାଇବେ:<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = ଅପଡେଟସବୁ ଏଠାରେ ପାଇବେ:<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = ଅପଡେଟସବୁ ଏଠାରେ ପାଇବେ:<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ଏହି ସିଷ୍ଟମରେ ଆଉ ଅପଡେଟ କରିପାରିବେ ନାହିଁ ।<label data-l10n-name="unsupported-link">ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ</label>
 update-restarting = ବନ୍ଦହେଲାପରେ ପୁଣିଥରେ ଆରମ୍ଭ କରୁଅଛି…
 channel-description = ଆପଣ ବର୍ତ୍ତମାନ  ଏଠାରେ ଅଛନ୍ତି<label data-l10n-name="current-channel"></label>ଚ୍ୟାନେଲ ଅପଡେଟ କରନ୍ତୁ ।
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = ଆପଣ ବର୍ତ୍ତମାନ  ଏଠାରେ ଅଛନ୍ତି<label data-l10n-name="current-channel">{ $channel }</label>ଚ୍ୟାନେଲ ଅପଡେଟ କରନ୍ତୁ ।
