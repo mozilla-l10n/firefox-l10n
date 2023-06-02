@@ -19,6 +19,7 @@ update-downloading-message = 更新をダウンロード中 — <label data-l10n
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>更新をダウンロード中 — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = 更新をダウンロード中 — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = ご利用のシステムでは、このバージョン以�
 update-restarting = 再起動中...
 channel-description = 現在のアップデートチャンネルは <label data-l10n-name="current-channel"></label> です。{ " " }
 update-internal-error = 内部エラーにより更新を確認できません。<label data-l10n-name="manual-link"/> から更新が利用可能です。
+update-internal-error2 = 内部エラーにより更新を確認できません。<label data-l10n-name="manual-link">{ $displayUrl }</label> から更新が利用可能です。
 
 ##
 
