@@ -42,6 +42,7 @@ update-unsupported = Не може повече да обновявате таз
 update-restarting = Рестартиране…
 channel-description = Канал за обновяване <label data-l10n-name="current-channel"></label>.
 update-internal-error = Проверката за обновяване не е извършена поради вътрешна грешка. Новите издания са достъпно на <label data-l10n-name="manual-link"/>
+update-internal-error2 = Проверката за обновяване не е извършена поради вътрешна грешка. Новите издания са достъпно на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
