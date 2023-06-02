@@ -680,6 +680,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Picture-in-picture iepenje ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Picture-in-picture slute ({ $shortcut })
+picture-in-picture-panel-header = Picture-in-Picture
+picture-in-picture-panel-headline = Dizze website advisearret Picture-in-Picture net
+picture-in-picture-panel-body = Fideo’s wurde mooglik net toand sa as de ûntwikkeler it bedoeld hat, wylst Picture-in-Picture ynskeakele is.
+picture-in-picture-enable-toggle =
+    .label = Dochs ynskeakelje
 
 ## Full Screen and Pointer Lock UI
 
