@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Memeriksa versi baru…
 update-downloading = <img data-l10n-name="icon"/>Mengunduh versi baru — <label data-l10n-name="download-status"/>
 update-downloading-message = Mengunduh pemutakhiran — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Mengunduh versi baru — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Menerapkan pemutakhiran…
 update-failed = Pemutakhiran gagal. <label data-l10n-name="failed-link">Unduh versi terbaru</label>
 update-failed-main = Pemutakhiran gagal. <a data-l10n-name="failed-link-main">Unduh versi terbaru</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Gagal memeriksa versi baru
 update-otherInstanceHandlingUpdates = { -brand-short-name } sedang diperbarui oleh salinan lainnya
 update-manual = Versi baru tersedia di <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Versi baru tersedia di <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Versi baru tersedia di <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Versi baru tersedia di <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Anda tidak dapat melakukan pemutakhiran selanjutnya pada sistem ini. <label data-l10n-name="unsupported-link">Pelajari lebih lanjut</label>
 update-restarting = Memulai ulang…
-update-internal-error = Gagal memeriksa versi baru karena kesalahan internal. Versi baru tersedia di <label data-l10n-name="manual-link"/>
 channel-description = Anda sedang berada di kanal pemutakhiran <label data-l10n-name="current-channel"></label>.
+update-internal-error = Gagal memeriksa versi baru karena kesalahan internal. Versi baru tersedia di <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Anda sedang berada di kanal pemutakhiran <label data-l10n-name="current-channel">{ $channel }</label>.
