@@ -34,6 +34,8 @@ aboutdialog-update-manual = புதுப்பித்தல்கள் இ
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = புதுப்பித்தல்கள் இங்கே உள்ளன <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = புதுப்பித்தல்கள் இங்கே உள்ளன <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = இந்த கணினியில் நீங்கள் மேலும் புதுப்பித்தல்களை மேற்கொள்ள முடியாது. <label data-l10n-name="unsupported-link">மேலும் அறிய</label>
 update-restarting = மறுதுவக்கம்…
 channel-description = நீங்கள் தற்போது <label data-l10n-name="current-channel"></label> உலாவியை மேம்படுத்தப்போகிறீர்கள்.
