@@ -99,6 +99,7 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } mis à jour
        *[other] { $updatedEntries } mis à jour
     }
+migration-bookmarks-from-file = Marque-pages
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer depuis un fichier
 migration-import-from-file-button-label = Sélectionner un fichier

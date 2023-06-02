@@ -680,6 +680,9 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Ouvrir l’incrustation vidéo ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fermer l’incrustation vidéo ({ $shortcut })
+picture-in-picture-panel-header = Incrustation vidéo
+picture-in-picture-enable-toggle =
+    .label = Activer quand même
 
 ## Full Screen and Pointer Lock UI
 
