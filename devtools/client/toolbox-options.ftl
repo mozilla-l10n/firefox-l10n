@@ -113,6 +113,8 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Zdalene pytanje za zmylkami
 options-enable-remote-tooltip2 =
     .title = Hdyž tute nastajenje zmóžnjeće, so instanca wobhladowaka znazdala za zmylkami přepytuje
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = F12 wužiwać, zo bychu so wuwiwanske nastroje wočinili abo začinili
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Swójske formatowaki zmóžnić
 options-enable-custom-formatters-tooltip =
