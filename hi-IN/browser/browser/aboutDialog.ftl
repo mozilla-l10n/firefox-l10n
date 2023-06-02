@@ -18,6 +18,8 @@ update-downloading-message = अपडेट डाउनलोड हो रह
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>अपडेट डाउनलोड हो रहा है — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = अपडेट डाउनलोड हो रहा है — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
