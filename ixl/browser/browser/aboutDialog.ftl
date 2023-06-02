@@ -19,6 +19,7 @@ update-downloading-message = Il u b'anb'al tetz ile' ni teq'o ku'tzan —<label 
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Ile' ni teq'o ku'tzan ti' ib'anax tuche' — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Il u b'anb'al tetz ile' ni teq'o ku'tzan —<label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
