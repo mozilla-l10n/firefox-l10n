@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = Праверка існавання абнаўленняў…
 update-downloading = <img data-l10n-name="icon"/>Сцягваецца абнаўленне — <label data-l10n-name="download-status"/>
 update-downloading-message = Сцягваецца абнаўленне — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = Прымяняецца абнаўленне…
 update-failed = Няўдача абнаўлення. <label data-l10n-name="failed-link">Сцягнуць апошнюю версію</label>
 update-failed-main = Няўдача абнаўлення. <a data-l10n-name="failed-link-main">Сцягнуць апошнюю версію</a>
@@ -23,10 +30,19 @@ aboutdialog-update-checking-failed = Не ўдалося праверыць на
 update-otherInstanceHandlingUpdates = { -brand-short-name } абнаўляецца іншым асобнікам
 update-manual = Абнаўленні даступныя на <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Абнаўленні даступныя на <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Абнаўленні даступныя на <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Абнаўленні даступныя на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Вы не можаце працягнуць абнаўленне на гэтай сістэме. <label data-l10n-name="unsupported-link">Падрабязней</label>
 update-restarting = Перазапуск…
-update-internal-error = Немагчыма праверыць наяўнасць абнаўленняў з-за ўнутранай памылкі. Абнаўленні даступныя па адрасе <label data-l10n-name="manual-link"/>
 channel-description = Зараз вы на <label data-l10n-name="current-channel"></label> канале абнаўленняў.
+update-internal-error = Немагчыма праверыць наяўнасць абнаўленняў з-за ўнутранай памылкі. Абнаўленні даступныя па адрасе <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Зараз вы на <label data-l10n-name="current-channel">{ $channel }</label> канале абнаўленняў.
