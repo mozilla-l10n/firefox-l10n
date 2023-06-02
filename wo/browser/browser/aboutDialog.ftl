@@ -12,6 +12,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Wut ay yeesal…
 update-downloading = <img data-l10n-name="icon"/>Yebum yeesal bi —<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Yebum yeesal bi —<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Def yeesal bi…
 update-failed = Yeesal bi lajj na.<label data-l10n-name="failed-link">Yeb sumb bi mujj</label>
 update-failed-main = Yeesal bi lajj na.<a data-l10n-name="failed-link-main">Yeb sumb bi mujj</a>
@@ -19,7 +27,16 @@ update-adminDisabled = Sa saytukatu sistem suuxal na yeesal yi
 update-noUpdatesFound = { -brand-short-name } yees na
 update-manual = Yeesal yi féex ci<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Yeesal yi féex ci<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Yeesal yi féex ci<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Yeesal yi féex ci<a data-l10n-name="manual-link">{ $displayUrl }</a>
 channel-description = Yaa ngiy jëfandikoo yoonu yeesal <label data-l10n-name="current-channel"></label> yeesal yoon wi.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Yaa ngiy jëfandikoo yoonu yeesal <label data-l10n-name="current-channel">{ $channel }</label> yeesal yoon wi.
