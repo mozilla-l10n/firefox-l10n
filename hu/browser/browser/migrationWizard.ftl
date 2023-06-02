@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge béta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Jelszavak egy CSV-fájlból
+migration-wizard-migrator-display-name-file-bookmarks = Könyvjelzők HTML-fájlból
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } frissítve
        *[other] { $updatedEntries } frissítve
+    }
+migration-bookmarks-from-file-picker-title = Könyvjelzőfájl importálása
+migration-bookmarks-from-file-progress-header = Könyvjelzők importálása
+migration-bookmarks-from-file = Könyvjelzők
+migration-bookmarks-from-file-success-header = A könyvjelzők sikeresen importálva
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokumentum
+       *[other] HTML-fájl
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-fájl
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } könyvjelző
+       *[other] { $newEntries } könyvjelző
     }
 migration-import-button-label = Importálás
 migration-choose-to-import-from-file-button-label = Importálás fájlból

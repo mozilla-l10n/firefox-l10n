@@ -680,6 +680,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Kép a képben megnyitása ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Kép a képben bezárása ({ $shortcut })
+picture-in-picture-panel-header = Kép a képben
+picture-in-picture-panel-headline = A weboldal nem ajánlja a Kép a képben módot
+picture-in-picture-panel-body = Előfordulhat, hogy a videók nem a fejlesztő által kívánt módon jelennek meg, ha a Kép a képben funkció engedélyezett.
+picture-in-picture-enable-toggle =
+    .label = Engedélyezés mindenképp
 
 ## Full Screen and Pointer Lock UI
 

@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = A kiegészítő nem tud adatokat olvasni és módosítani
+origin-controls-quarantined =
+    .label = A kiegészítő nem olvashatja és módosíthatja az adatokat
 origin-controls-options =
     .label = A kiegészítő képes adatokat olvasni és módosítani
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ezen az oldalon nem tud adatokat olvasni és módosítani
+origin-controls-state-quarantined = A { -vendor-short-name } nem engedélyezte ezen az oldalon
 origin-controls-state-always-on = Ezen az oldalon mindig tud adatokat olvasni és módosítani
 origin-controls-state-when-clicked = Az adatok olvasásához és módosításához engedély szükséges
 origin-controls-state-hover-run-visit-only = Futtatás csak a mostani felkereséskor
