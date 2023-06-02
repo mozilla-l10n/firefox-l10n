@@ -19,6 +19,7 @@ update-downloading-message = Niqasäx k'exoj — <label data-l10n-name="download
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Tajin niqasäx k'exoj ruwäch — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Niqasäx k'exoj — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Man tikirel ta chik nab'an taq k'exoj pa re q'inoj re'. <la
 update-restarting = Nitikirisäx…
 channel-description = Tajin nawokisaj ri q'axab'äl <label data-l10n-name="current-channel"></label> kiq'axab'al taq k'exoj ruwäch.
 update-internal-error = Man ye'ilitäj ta taq k'exoj ruma k'o jun sachoj chupam. K'o taq k'exoj pa <label data-l10n-name="manual-link"/>
+update-internal-error2 = Man ye'ilitäj ta taq k'exoj ruma k'o jun sachoj chupam. K'o taq k'exoj pa <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
