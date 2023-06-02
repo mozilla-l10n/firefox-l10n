@@ -35,10 +35,13 @@ aboutdialog-update-manual = Nove verzije su dostupne na <a data-l10n-name="manua
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = Nove verzije su dostupne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Nove verzije su dostupne na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Na ovom sustavu više ne možeš nadograđivati. <label data-l10n-name="unsupported-link">Saznaj više</label>
 update-restarting = Ponovno pokretanje…
 channel-description = Trenutačno se nalaziš na <label data-l10n-name="current-channel"></label> kanalu za aktualiziranje.
 update-internal-error = Neuspjelo traženje novih verzija zbog interne greške. Nove verzije su dostupne na <label data-l10n-name="manual-link"/>
+update-internal-error2 = Neuspjelo traženje novih verzija zbog interne greške. Nove verzije su dostupne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
