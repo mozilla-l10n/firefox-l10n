@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Lecture audio
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Lister les { $tabCount } onglets
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Rendre l’onglet muet
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Réactiver le son de l’onglet
+tabbrowser-manager-close-tab =
+    .tooltiptext = Fermer l’onglet

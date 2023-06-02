@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = L’extension ne peut ni lire ni modifier de données
+origin-controls-quarantined =
+    .label = L’extension n’est pas autorisée à lire ni à modifier de données
 origin-controls-options =
     .label = L’extension peut lire et modifier les données :
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ne peut ni lire ni modifier les données de ce site
+origin-controls-state-quarantined = Non autorisée par { -vendor-short-name } sur ce site
 origin-controls-state-always-on = Peut toujours lire et modifier les données de ce site
 origin-controls-state-when-clicked = Permission requise pour lire et modifier des données
 origin-controls-state-hover-run-visit-only = Autoriser pour cette fois seulement
