@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = M
 update-checkingForUpdates = Menyemak kemaskini…
 update-downloading = <img data-l10n-name="icon"/>Memuat turun kemaskini — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Memuat turun kemaskini — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Melaksanakan kemaskini…
 update-failed = Kemaskini gagal. <label data-l10n-name="failed-link">Muat turun versi terkini</label>
 update-failed-main = Kemaskini gagal. <a data-l10n-name="failed-link-main">Muat turun versi terkini</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } sudah terkini
 update-otherInstanceHandlingUpdates = { -brand-short-name } sedang dikemaskini oleh tika lain
 update-manual = Kemaskini tersedia di <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Kemaskini tersedia di <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Kemaskini tersedia di <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Kemaskini tersedia di <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Anda tidak boleh lagi melaksanakan kemaskini dalam sistem ini. <label data-l10n-name="unsupported-link">Ketahui selanjutnya</label>
 update-restarting = Memulakan semula...
 channel-description = Anda sedang berada dalam <label data-l10n-name="current-channel"></label> saluran kemaskini.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Anda sedang berada dalam <label data-l10n-name="current-channel">{ $channel }</label> saluran kemaskini.
