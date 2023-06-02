@@ -19,6 +19,7 @@ update-downloading-message = Telechargiar in'actualisaziun – <label data-l10n-
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>L'actualisaziun vegn telechargiada — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Telechargiar in'actualisaziun – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Sin quest sistem na pon naginas actualisaziuns vegnir exequ
 update-restarting = Reaviar…
 channel-description = Ti retschaivas actualmain las actualisaziuns dal chanal <label data-l10n-name="current-channel"></label>.
 update-internal-error = Impussibel da tschertgar actualisaziuns causa ina errur interna. Actualisaziuns stattan a disposiziun sin <label data-l10n-name="manual-link"/>
+update-internal-error2 = Impussibel da tschertgar actualisaziuns causa ina errur interna. Actualisaziuns stattan a disposiziun sin <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
