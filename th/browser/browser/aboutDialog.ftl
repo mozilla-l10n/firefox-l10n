@@ -19,6 +19,7 @@ update-downloading-message = กำลังดาวน์โหลดอัป
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>กำลังดาวน์โหลดการอัปเดต — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = กำลังดาวน์โหลดอัปเดต — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
