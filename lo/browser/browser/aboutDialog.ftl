@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = ກຳລັງກວດສອບການອັບເດດ...
 update-downloading = <img data-l10n-name="icon"/>ກຳລັງດາວໂລດໂຕອັບເດດ —<label data-l10n-name="download-status"/>
 update-downloading-message = ກຳລັງດາວໂຫລດການອັບເດດ — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>ກຳລັງດາວໂລດໂຕອັບເດດ —<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = ກຳລັງນຳໃຊ້ການອັບເດດ...
 update-failed = ການອັບເດດລົ້ມເຫລວ.<label data-l10n-name="failed-link">ດາວໂຫລດລຸ້ນຫລ້າສຸດ</label>
 update-failed-main = ການອັບເດດລົ້ມເຫລວ.<a data-l10n-name="failed-link-main">ດາວໂຫລດລຸ້ນຫລ້າສຸດ</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = ລົ້ມເຫລວໃນການກ�
 update-otherInstanceHandlingUpdates = { -brand-short-name } ກຳລັງອັບເດດໂດຍອິນສະເຕນອື່ນຢູ່
 update-manual = ອັບເດດມີຢູ່ທີ<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = ອັບເດດມີຢູ່ທີ<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = ອັບເດດມີຢູ່ທີ<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = ອັບເດດມີຢູ່ທີ<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ທ່ານບໍ່ສາມາດດຳເນີນການອັບເດດອື່ນໆໄດ້ອີກໃນລະບົບນີ້.<label data-l10n-name="unsupported-link">ສຶກສາເພີ່ມເຕີມ...</label>
 update-restarting = ກຳລັງເລີ່ມເຮັດວຽກໃຫມ່…
-update-internal-error = ບໍ່ສາມາດກວດສອບການອັບເດດໄດ້ເນື່ອງຈາກຄວາມຜິດພາດພາຍໃນ. ການອັບເດດມີໃຫ້ຢູ່ <label data-l10n-name="manual-link"/>
 channel-description = ຕອນນີ້ທ່ານກຳລັງຢູ່ທີ<label data-l10n-name="current-channel"></label>ຊອງການອັບເດດ.
+update-internal-error = ບໍ່ສາມາດກວດສອບການອັບເດດໄດ້ເນື່ອງຈາກຄວາມຜິດພາດພາຍໃນ. ການອັບເດດມີໃຫ້ຢູ່ <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = ຕອນນີ້ທ່ານກຳລັງຢູ່ທີ<label data-l10n-name="current-channel">{ $channel }</label>ຊອງການອັບເດດ.
