@@ -42,6 +42,7 @@ update-unsupported = Nid oes modd i chi ddiweddaru'r system hon ymhellach. <labe
 update-restarting = Ailgychwyn…
 channel-description = Rydych ar sianel diweddaru <label data-l10n-name="current-channel"></label>.
 update-internal-error = Methu gwirio am ddiweddariadau oherwydd gwall mewnol. Mae diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
+update-internal-error2 = Methu gwirio am ddiweddariadau oherwydd gwall mewnol. Mae diweddariadau ar gael yn <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
