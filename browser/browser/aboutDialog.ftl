@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Preverjanje posodobitev …
 update-downloading = <img data-l10n-name="icon"/>Prenašanje posodobitev — <label data-l10n-name="download-status"/>
 update-downloading-message = Prenašanje posodobitve – <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Prenašanje posodobitev — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Nameščanje posodobitev …
 update-failed = Posodobitev ni uspela. <label data-l10n-name="failed-link">Prenesite najnovejšo različico</label>
 update-failed-main = Posodobitev ni uspela. <a data-l10n-name="failed-link-main">Prenesite najnovejšo različico</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Iskanje posodobitev ni uspelo.
 update-otherInstanceHandlingUpdates = { -brand-short-name } se posodablja v drugem primerku
 update-manual = Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Posodobitve so na voljo na <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Posodobitve so na voljo na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Posodobitve so na voljo na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nadaljnje posodobitve niso več mogoče. <label data-l10n-name="unsupported-link">Več o tem</label>
 update-restarting = Ponovni zagon …
-update-internal-error = Iskanje posodobitev ni uspelo zaradi notranje napake. Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
 channel-description = Uporabljate posodobitveni kanal <label data-l10n-name="current-channel"></label>.
+update-internal-error = Iskanje posodobitev ni uspelo zaradi notranje napake. Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Uporabljate posodobitveni kanal <label data-l10n-name="current-channel">{ $channel }</label>.
