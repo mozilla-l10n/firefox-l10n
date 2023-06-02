@@ -110,6 +110,8 @@ options-enable-remote-tooltip2 =
     .title = Фаъолсозии ин имкон ба шумо имкон медиҳад, ки тавонед хатоҳои намунаи ин браузерро ба таври дурдаст ислоҳ кунед
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = Истифода кардани тугмаи «F12» барои кушодан ва пӯшидани «DevTools»
+options-enable-f12-tooltip =
+    .title = Агар шумо ин имконро фаъол созед, тугмаи «F12» барои кушодан ва пӯшидани қуттии абзорҳои «DevTools» истифода мешавад
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Фаъол кардани воситаҳои шаклсозии фармоишӣ
 options-enable-custom-formatters-tooltip =
