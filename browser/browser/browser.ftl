@@ -677,6 +677,10 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Opne bilde-i-bilde ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Lat att bilde-i-bilde ({ $shortcut })
+picture-in-picture-panel-header = Bilde-i-bilde
+picture-in-picture-panel-headline = Denne nettstaden tilrår ikkje bilde-i-bilde
+picture-in-picture-enable-toggle =
+    .label = Slå på likevel
 
 ## Full Screen and Pointer Lock UI
 
