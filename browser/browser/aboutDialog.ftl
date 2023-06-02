@@ -19,6 +19,7 @@ update-downloading-message = Mengunduh pemutakhiran — <label data-l10n-name="d
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Mengunduh versi baru — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Mengunduh pemutakhiran — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Anda tidak dapat melakukan pemutakhiran selanjutnya pada si
 update-restarting = Memulai ulang…
 channel-description = Anda sedang berada di kanal pemutakhiran <label data-l10n-name="current-channel"></label>.
 update-internal-error = Gagal memeriksa versi baru karena kesalahan internal. Versi baru tersedia di <label data-l10n-name="manual-link"/>
+update-internal-error2 = Gagal memeriksa versi baru karena kesalahan internal. Versi baru tersedia di <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
