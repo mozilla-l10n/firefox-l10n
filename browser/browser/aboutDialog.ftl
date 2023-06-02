@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = अद्यतनक लेल जाँचि रहल अछि…
 update-downloading = <img data-l10n-name="icon"/>अद्यतन डाउनलोड कए रहल अछि — <label data-l10n-name="download-status"/>
 update-downloading-message = अपडेट डाउनलोड क रहल अछि — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+aboutdialog-update-downloading = अपडेट डाउनलोड क रहल अछि — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = अद्यतन लागू कए रहल अछि…
 update-failed = अद्यतन विफल. <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड करू </label>
 update-failed-main = अद्यतन विफल. <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड करू </a>
@@ -23,10 +31,18 @@ aboutdialog-update-checking-failed = अपडेट जाँचए में �
 update-otherInstanceHandlingUpdates = { -brand-short-name } केँ दोसर इंस्टांस केर द्वारा अद्यतन कएल जाए रहल अछि
 update-manual = अद्यतन एतय मोजुद अछि <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = अद्यतन एतय मोजुद अछि <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = अहाँ एहि तंत्र पर आगाँ अद्यतन नहि कए सकैत अछि.<label data-l10n-name="unsupported-link">बेसी जानू</label>
 update-restarting = पुन: प्रारंभ भ रहल अछि...
-update-internal-error = आंतरिक त्रुटि के कारण अपडेट जाँचए में अक्षम. अपडेट <label data-l10n-name="manual-link"/> पर भेटत.
 channel-description = अहाँ अखन एतए छी<label data-l10n-name="current-channel"></label> चैनल अद्यतन करू.
+update-internal-error = आंतरिक त्रुटि के कारण अपडेट जाँचए में अक्षम. अपडेट <label data-l10n-name="manual-link"/> पर भेटत.
+update-internal-error2 = आंतरिक त्रुटि के कारण अपडेट जाँचए में अक्षम. अपडेट <label data-l10n-name="manual-link">{ $displayUrl }</label> पर भेटत.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = अहाँ अखन एतए छी<label data-l10n-name="current-channel">{ $channel }</label> चैनल अद्यतन करू.
