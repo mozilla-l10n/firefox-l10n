@@ -35,6 +35,8 @@ aboutdialog-update-manual = עדכונים זמינים ב־<a data-l10n-name="m
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = עדכונים זמינים ב־<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = עדכונים זמינים ב־<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = לא ניתן לבצע עדכונים נוספים במערכת זו.<label data-l10n-name="unsupported-link">מידע נוסף</label>
 update-restarting = מתבצעת הפעלה מחדש…
 channel-description = כרגע על ערוץ העדכונים <label data-l10n-name="current-channel"></label>.{ "  " }
