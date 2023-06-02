@@ -19,6 +19,7 @@ update-downloading-message = <label data-l10n-name="download-status"/> — হ�
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>হালনাগাদ ডাউনলোড করা হচ্ছে — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = <label data-l10n-name="download-status">{ $transfer }</label> — হালনাগাদ ডাউনলোড করা হচ্ছে
 
 ##
 
