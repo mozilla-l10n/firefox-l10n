@@ -102,6 +102,16 @@ migration-wizard-progress-success-updated-passwords =
     }
 migration-bookmarks-from-file = Yer imleri
 migration-bookmarks-from-file-success-header = Yer imleri başarıyla içe aktarıldı
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML belgesi
+       *[other] HTML dosyası
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON dosyası
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #

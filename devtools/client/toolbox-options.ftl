@@ -113,6 +113,8 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Uzaktan hata ayıklamayı etkinleştir
 options-enable-remote-tooltip2 =
     .title = Bu seçeneği açarsanız bu tarayıcıda uzaktan hata ayıklamaya izin verilir
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Geliştirici araçlarını açıp kapatmak için F12 tuşunu kullan
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Özel biçimlendiricileri etkinleştir
 options-enable-custom-formatters-tooltip =
