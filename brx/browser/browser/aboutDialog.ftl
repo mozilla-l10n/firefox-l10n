@@ -17,6 +17,7 @@ update-downloading = <img data-l10n-name="icon"/> आपडेटखौ डा�
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/> आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
