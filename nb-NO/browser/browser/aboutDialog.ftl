@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Søker etter oppdateringer …
 update-downloading = <img data-l10n-name="icon"/>Laster ned oppdatering — <label data-l10n-name="download-status"/>
 update-downloading-message = Laster ned oppdatering — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Laster ned oppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Installerer oppdatering …
 update-failed = Oppdatering mislykket. <label data-l10n-name="failed-link">Last ned den nyeste versjonen</label>
 update-failed-main = Oppdatering mislykket. <a data-l10n-name="failed-link-main">Last ned den nyeste versjonen</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Kunne ikke søke etter oppdateringer
 update-otherInstanceHandlingUpdates = { -brand-short-name } blir oppdatert av en annen instans
 update-manual = Oppdateringer er tilgjengelig på <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Oppdateringer er tilgjengelig på <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Oppdateringer er tilgjengelig på <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Oppdateringer er tilgjengelig på <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Du kan ikke utføre flere oppdateringer på dette systemet. <label data-l10n-name="unsupported-link">Les mer</label>
 update-restarting = Starter på nytt…
-update-internal-error = Kan ikke se etter oppdateringer på grunn av intern feil. Oppdateringer tilgjengelig på <label data-l10n-name="manual-link"/>
 channel-description = Du bruker nå oppdateringskanalen <label data-l10n-name="current-channel"></label>.{ " " }
+update-internal-error = Kan ikke se etter oppdateringer på grunn av intern feil. Oppdateringer tilgjengelig på <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Du bruker nå oppdateringskanalen <label data-l10n-name="current-channel">{ $channel }</label>.
