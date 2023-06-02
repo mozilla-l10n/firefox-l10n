@@ -677,6 +677,7 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Aperir Imagine annidate ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Clauder Imagine annidate ({ $shortcut })
+picture-in-picture-panel-header = Imagine-in-imagine
 
 ## Full Screen and Pointer Lock UI
 
