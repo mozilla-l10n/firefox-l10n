@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = הזזה למעלה
 unified-extensions-context-menu-move-widget-down =
     .label = הזזה למטה
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = חלק מההרחבות אינן מורשות לשימוש
+unified-extensions-mb-quarantined-domain-message = רק חלק מההרחבות המנוטרות על־ידי { -vendor-short-name } מותרות לשימוש באתר זה כדי להגן על הנתונים שלך.

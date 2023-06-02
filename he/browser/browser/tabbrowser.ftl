@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = מתנגן שמע
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = הצגת כל { $tabCount } הלשוניות
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = השתקת לשונית
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = ביטול השתקת לשונית
+tabbrowser-manager-close-tab =
+    .tooltiptext = סגירת לשונית

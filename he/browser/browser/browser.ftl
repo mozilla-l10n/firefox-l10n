@@ -676,6 +676,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = פתיחת תמונה בתוך תמונה ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = סגירת תמונה בתוך תמונה ({ $shortcut })
+picture-in-picture-panel-header = תמונה בתוך תמונה
+picture-in-picture-panel-headline = אתר זה אינו ממליץ על תמונה בתוך תמונה
+picture-in-picture-panel-body = ייתכן שסרטונים לא יוצגו כפי שהמפתח התכוון בזמן שמצב תמונה בתוך תמונה מופעל.
+picture-in-picture-enable-toggle =
+    .label = להפעיל בכל זאת
 
 ## Full Screen and Pointer Lock UI
 
