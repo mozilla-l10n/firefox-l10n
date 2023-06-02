@@ -29,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Daty njedadźa so na tutym sydle čitać a změnić
+origin-controls-state-quarantined = Wot { -vendor-short-name } na tutym sydle njedowoleny
 origin-controls-state-always-on = Daty dadźa so přeco na tutym sydle čitać a změnić
 origin-controls-state-when-clicked = Prawo trěbne, zo byšće móhł daty čitać a změnić
 origin-controls-state-hover-run-visit-only = Jenož za tutón wopyt wuwjesć

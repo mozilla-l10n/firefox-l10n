@@ -689,6 +689,7 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Wobraz we wobrazu začinić ({ $shortcut })
 picture-in-picture-panel-header = Wobraz-we-wobrazu
+picture-in-picture-panel-headline = Tute websydło wobraz-we-wobrazu njeporuča.
 picture-in-picture-enable-toggle =
     .label = Najebać toho zmóžnić
 
