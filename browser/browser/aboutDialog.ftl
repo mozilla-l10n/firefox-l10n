@@ -18,6 +18,8 @@ update-downloading-message = Update downloade – <label data-l10n-name="downloa
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Fernijing downloade — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Update downloade – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -40,6 +42,7 @@ update-unsupported = Jo kinne gjin fernijngen mear útfiere op dit systeem. <lab
 update-restarting = Opnij starte…
 channel-description = Jo binne op dit stuit op it <label data-l10n-name="current-channel"></label>-fernijingskanaal.
 update-internal-error = Kin net kontrolearje op fernijingen fanwegen in ynterne flater. Fernijingen beskikber op <label data-l10n-name="manual-link"/>
+update-internal-error2 = Kin net kontrolearje op fernijingen fanwegen in ynterne flater. Fernijingen beskikber op <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
