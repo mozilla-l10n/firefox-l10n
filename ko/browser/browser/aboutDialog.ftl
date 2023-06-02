@@ -19,6 +19,7 @@ update-downloading-message = 업데이트 다운로드 중 — <label data-l10n-
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>업데이트 다운로드 중 — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = 업데이트 다운로드 중 — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -35,10 +36,13 @@ aboutdialog-update-manual = <a data-l10n-name="manual-link"/>에서 업데이트
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = <label data-l10n-name="manual-link">{ $displayUrl }</label>에서 업데이트를 사용 가능합니다.
+settings-update-manual-with-link = <a data-l10n-name="manual-link">{ $displayUrl }</a>에서 업데이트를 사용 가능합니다.
 update-unsupported = 이 시스템에서는 더 이상 업데이트를 할 수 없습니다.<label data-l10n-name="unsupported-link">더 알아보기</label>
 update-restarting = 다시 시작하는 중…
 channel-description = 현재 사용 중인 업데이트 채널은 <label data-l10n-name="current-channel"></label> 입니다.
 update-internal-error = 내부 오류로 인해 업데이트를 확인할 수 없습니다. <label data-l10n-name="manual-link"/>에서 업데이트를 사용 가능합니다.
+update-internal-error2 = 내부 오류로 인해 업데이트를 확인할 수 없습니다. <label data-l10n-name="manual-link">{ $displayUrl }</label>에서 업데이트를 사용 가능합니다.
 
 ##
 
