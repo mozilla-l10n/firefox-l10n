@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Nduki tu'un tsaá
 update-downloading = <img data-l10n-name="icon"/>Snuì ña tsaá—<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Snuì ña tsaá—<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Chikai actualización…
 update-failed = Mani kuu ntu tsai<label data-l10n-name="failed-link">Snuù version saa ntii</label>
 update-failed-main = Mani kuu ntu tsai<a data-l10n-name="failed-link-main">Snuù version saa ntii</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } tsa ntu'tsai
 update-otherInstanceHandlingUpdates = { -brand-short-name }ndu tsai inka tsio
 update-manual = Ña saa ntii inkai nu <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Ña saa ntii inkai nu <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Ña saa ntii inkai nu <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Ña saa ntii inkai nu <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Maku ntu tsaa sistema. <label data-l10n-name="unsupported-link">Kavi</label>
 update-restarting = Ntaki tsai…
 channel-description = Kuachu'un canal de actualizaciones <label data-l10n-name="current-channel"></label> . 
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Kuachu'un canal de actualizaciones <label data-l10n-name="current-channel">{ $channel }</label> . 
