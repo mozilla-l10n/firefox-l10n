@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Taagandirey ceeci…
 update-downloading = <img data-l10n-name="icon"/>Taagandiri goo ma zumandi — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Taagandiri goo ma zumandi — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Taagandiri kanandi…
 update-failed = Taagandiri kay. <label data-l10n-name="failed-link">Dumi kokorantaa zumandi</label>
 update-failed-main = Taagandiri kay. <a data-l10n-name="failed-link-main">Dumi kokorantaa zumandi</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } n' ka taagandi
 update-otherInstanceHandlingUpdates = Jinay tana foo goo ma { -brand-short-name } taagandi
 update-manual = Taagandiri barantey ne <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Taagandiri barantey ne <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Taagandiri barantey ne <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Taagandiri barantey ne <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = War ši hin ka taagandiri tee koyne dabariɲaŋoo woo ga. <label data-l10n-name="unsupported-link">Ka bay ka tonton</label>
 update-restarting = Goo ma tunandi taaga…
 channel-description = Sohõda war goo <label data-l10n-name="current-channel"></label> taagandiri zuwoo boŋ.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Sohõda war goo <label data-l10n-name="current-channel">{ $channel }</label> taagandiri zuwoo boŋ.
