@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Daûr a cirî inzornaments...
 update-downloading = <img data-l10n-name="icon"/>Daûr a discjamâ l'inzornament — <label data-l10n-name="download-status"/>
 update-downloading-message = Daûr a discjariâ l'inzornament — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Daûr a discjamâ l'inzornament — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Aplicazion dal inzornament...
 update-failed = Inzornament falît. <label data-l10n-name="failed-link">Discjame la ultime version</label>
 update-failed-main = Inzornament falît. <a data-l10n-name="failed-link-main">Discjame la ultime version</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Impussibil controlâ la disponibilitât di 
 update-otherInstanceHandlingUpdates = { -brand-short-name } al è daûr a jessi inzornât di une altre istance
 update-manual = Inzornaments disponibii su <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Inzornaments disponibii su <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Inzornaments disponibii su <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Inzornaments disponibii su <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No tu puedis vê altris inzornaments su chest sisteme. <label data-l10n-name="unsupported-link">Par savê di plui</label>
 update-restarting = Daûr a tornâ a inviâ…
-update-internal-error = Impussibil controlâ la presince di inzornaments par vie di un erôr interni. I inzornaments a son disponibii su <label data-l10n-name="manual-link"/>
 channel-description = Tu sês par cumò tal canâl di inzornament <label data-l10n-name="current-channel"></label>inzornament cjanâl
+update-internal-error = Impussibil controlâ la presince di inzornaments par vie di un erôr interni. I inzornaments a son disponibii su <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Tu sês par cumò tal canâl di inzornament <label data-l10n-name="current-channel">{ $channel }</label>inzornament cjanâl
