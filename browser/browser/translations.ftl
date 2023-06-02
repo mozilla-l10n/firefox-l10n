@@ -74,6 +74,14 @@ translations-panel-to-label = Fordítás erre:
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Az oldal le lett fordítva erről: { $fromLanguage }, erre: { $toLanguage }
 translations-panel-choose-language =
     .label = Válasszon nyelvet
 translations-panel-restore-button =

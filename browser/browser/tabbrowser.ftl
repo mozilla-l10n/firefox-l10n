@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Hang lejátszása
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Minden lap ({ $tabCount }) felsorolása
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Lap némítása
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Lap visszahangosítása
+tabbrowser-manager-close-tab =
+    .tooltiptext = Lap bezárása
