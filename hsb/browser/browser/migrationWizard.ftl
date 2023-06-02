@@ -103,6 +103,32 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } su so zaktualizowali
        *[other] { $updatedEntries } je so zaktualizowało
     }
+migration-bookmarks-from-file-picker-title = Dataju zapołožkow importować
+migration-bookmarks-from-file-progress-header = Zapołožki importować
+migration-bookmarks-from-file = Zapołožki
+migration-bookmarks-from-file-success-header = Zapołožki su so wuspěšnje importowali
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokument
+       *[other] HTML-dataja
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-dataja
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } zapołožka
+        [two] { $newEntries } zapołožce
+        [few] { $newEntries } zapołožki
+       *[other] { $newEntries } zapołožkow
+    }
 migration-import-button-label = Importować
 migration-choose-to-import-from-file-button-label = Z dataje importować
 migration-import-from-file-button-label = Dataju wubrać
@@ -209,4 +235,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Zo byšće zapołožki a přehladowansku historiju Safari importował:
 migration-wizard-safari-instructions-continue = Wubjerće „Pokročować“
 migration-wizard-safari-instructions-folder = Wubjerće rjadowak Safari w lisćinje a potom „Wočinić“
-migration-wizard-safari-select-button = Dataju wubrać
