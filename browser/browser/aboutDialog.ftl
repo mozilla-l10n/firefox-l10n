@@ -18,6 +18,8 @@ update-downloading-message = Сцягваецца абнаўленне — <labe
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Сцягваецца абнаўленне — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Сцягваецца абнаўленне — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
