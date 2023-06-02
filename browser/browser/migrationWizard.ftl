@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Passord fra CSV-fil
+migration-wizard-migrator-display-name-file-bookmarks = Bokmerker fra HTML-fil
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } oppdatert
        *[other] { $updatedEntries } oppdatert
+    }
+migration-bookmarks-from-file-picker-title = Importer bokmerkefil
+migration-bookmarks-from-file-progress-header = Importerer bokmerker
+migration-bookmarks-from-file = Bokmerker
+migration-bookmarks-from-file-success-header = Bokmerker ble importert
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokument
+       *[other] HTML-fil
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-fil
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } bokmerke
+       *[other] { $newEntries } bokmerker
     }
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer fra fil
@@ -195,4 +220,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerker og nettleserhistorikk:
 migration-wizard-safari-instructions-continue = Velg «Fortsett»
 migration-wizard-safari-instructions-folder = Velg Safari-mappen i listen og velg «Åpne»
-migration-wizard-safari-select-button = Velg fil
