@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Omhoog verplaatsen
 unified-extensions-context-menu-move-widget-down =
     .label = Omlaag verplaatsen
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Sommige extensies zijn niet toegestaan
+unified-extensions-mb-quarantined-domain-message = Om uw gegevens te beschermen, zijn slechts enkele extensies die worden gecontroleerd door { -vendor-short-name } toegestaan op deze website.

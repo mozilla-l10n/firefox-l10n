@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Extensie kan geen gegevens lezen en wijzigen
+origin-controls-quarantined =
+    .label = Extensie mag geen gegevens lezen en wijzigen
 origin-controls-options =
     .label = Extensie kan gegevens lezen en wijzigen:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Kan gegevens op deze website niet lezen en wijzigen
+origin-controls-state-quarantined = Niet toegestaan door { -vendor-short-name } op deze website
 origin-controls-state-always-on = Kan altijd gegevens op deze website lezen en wijzigen
 origin-controls-state-when-clicked = Toestemming nodig om gegevens te lezen en te wijzigen
 origin-controls-state-hover-run-visit-only = Alleen voor dit bezoek uitvoeren

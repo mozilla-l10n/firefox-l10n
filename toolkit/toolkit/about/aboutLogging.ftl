@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = Over logging
 about-logging-page-title = Loggingbeheerder
 about-logging-current-log-file = Huidige logbestand:
-about-logging-current-log-modules = Huidige logmodules:
 about-logging-new-log-file = Nieuw logboekbestand:
 about-logging-currently-enabled-log-modules = Momenteel ingeschakelde logboekmodules:
 about-logging-log-tutorial =
@@ -46,6 +28,7 @@ about-logging-logging-to-profiler = Logging naar de { -profiler-brand-name }
 about-logging-no-log-modules = Geen
 about-logging-no-log-file = Geen
 about-logging-logging-preset-selector-text = Voorinstelling logging:
+about-logging-with-profiler-stacks-checkbox = Stacktraces voor logboekberichten inschakelen
 
 ## Logging presets
 
