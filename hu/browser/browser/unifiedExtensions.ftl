@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Mozgatás felfelé
 unified-extensions-context-menu-move-widget-down =
     .label = Mozgatás lefelé
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Egyes kiegészítők nem engedélyezettek
+unified-extensions-mb-quarantined-domain-message = Az adatai védelme érdekében csak néhány, a { -vendor-short-name } által figyelt kiegészítő engedélyezett az oldalon.

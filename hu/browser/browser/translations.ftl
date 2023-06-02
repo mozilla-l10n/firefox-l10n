@@ -99,6 +99,7 @@ translations-manage-download-button = Letöltés
 translations-manage-delete-button = Törlés
 translations-manage-error-download = Hiba történt a nyelvi fájlok letöltése során. Próbálja meg újra.
 translations-manage-error-delete = Hiba történt a nyelvi fájlok törlése során. Próbálja meg újra.
+translations-manage-error-list = Nem sikerült lekérni a fordításhoz elérhető nyelveket. Az újrapróbálkozáshoz frissítse az oldalt.
 translations-settings-title =
     .title = Fordítási beállítások
     .style = min-width: 36em
