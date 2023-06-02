@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Checking for updates…
 update-downloading = <img data-l10n-name="icon"/>Downloading update — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Downloading update — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Applying update…
 update-failed = Update failed. <label data-l10n-name="failed-link">Download the latest version</label>
 update-failed-main = Update failed. <a data-l10n-name="failed-link-main">Download the latest version</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } is up to date
 update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by another instance
 update-manual = Updates available at <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Updates available at <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Updates available at <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Updates available at <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = You can not perform further updates on this system. <label data-l10n-name="unsupported-link">Learn more</label>
 update-restarting = Restarting…
 channel-description = You are currently on the <label data-l10n-name="current-channel"></label> update channel.{ " " }
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = You are currently on the <label data-l10n-name="current-channel">{ $channel }</label> update channel.{ " " }
