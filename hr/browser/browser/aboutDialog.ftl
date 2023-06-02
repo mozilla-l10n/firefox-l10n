@@ -19,6 +19,7 @@ update-downloading-message = Preuzimanje dopune — <label data-l10n-name="downl
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Preuzimanje dopune — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
