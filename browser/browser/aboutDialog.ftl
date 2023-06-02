@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Đang kiểm tra cập nhật…
 update-downloading = <img data-l10n-name="icon"/>Đang tải cập nhật — <label data-l10n-name="download-status"/>
 update-downloading-message = Đang tải xuống bản cập nhật — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Đang tải cập nhật — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Đang cài đặt cập nhật…
 update-failed = Cập nhật thất bại. <label data-l10n-name="failed-link">Tải phiên bản mới nhất</label>
 update-failed-main = Cập nhật thất bại. <a data-l10n-name="failed-link-main">Tải phiên bản mới nhất</a>
@@ -23,10 +31,17 @@ aboutdialog-update-checking-failed = Không thể kiểm tra bản cập nhật.
 update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập nhật bởi tiến trình khác
 update-manual = Cập nhật có tại <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Cập nhật có tại <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = Bạn không thể cập nhật thêm trên hệ thống này nữa. <label data-l10n-name="unsupported-link">Tìm hiểu thêm</label>
 update-restarting = Đang khởi động lại…
-update-internal-error = Không thể kiểm tra các bản cập nhật do lỗi nội bộ. Các bản cập nhật có sẵn tại <label data-l10n-name="manual-link"/>
 channel-description = Bạn hiện đang ở trên kênh cập nhật <label data-l10n-name="current-channel"></label>.
+update-internal-error = Không thể kiểm tra các bản cập nhật do lỗi nội bộ. Các bản cập nhật có sẵn tại <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Bạn hiện đang ở trên kênh cập nhật <label data-l10n-name="current-channel">{ $channel }</label>.
