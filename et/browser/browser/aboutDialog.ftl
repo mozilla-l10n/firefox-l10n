@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Uuenduste olemasolu kontrollimine…
 update-downloading = <img data-l10n-name="icon"/>Uuenduse allalaadimine — <label data-l10n-name="download-status"/>
 update-downloading-message = Uuenduse allalaadimine — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Uuenduse allalaadimine — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Uuenduse rakendamine…
 update-failed = Uuendamine ebaõnnestus. <label data-l10n-name="failed-link">Laadi alla uusim versioon</label>
 update-failed-main = Uuendamine ebaõnnestus. <a data-l10n-name="failed-link-main">Laadi alla uusim versioon</a>
@@ -22,9 +30,18 @@ update-noUpdatesFound = Kasutusel on { -brand-short-name }i uusim versioon
 update-otherInstanceHandlingUpdates = { -brand-short-name }i uuendatakse teise protsessi poolt
 update-manual = Uuendused on saadaval aadressil <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Uuendused on saadaval aadressil <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Uuendused on saadaval aadressil <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Uuendused on saadaval aadressil <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Edasised uuendused selle süsteemi peal pole võimalikud. <label data-l10n-name="unsupported-link">Rohkem teavet</label>
 update-restarting = Taaskäivitamine…
 channel-description = Kasutusel on uuendustekanal <label data-l10n-name="current-channel"></label>.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Kasutusel on uuendustekanal <label data-l10n-name="current-channel">{ $channel }</label>.
