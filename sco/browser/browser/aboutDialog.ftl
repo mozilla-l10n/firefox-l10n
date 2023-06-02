@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Checkin fur updates...
 update-downloading = <img data-l10n-name="icon"/>Doonloadin update — <label data-l10n-name="download-status"/>
 update-downloading-message = Doonloadin update — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Doonloadin update — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Doonloadin update — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Instawin update...
 update-failed = Update misgaed. <label data-l10n-name="failed-link">Doonload the latest version</label>
 update-failed-main = Update misgaed. <a data-l10n-name="failed-link-main">Doonload the latest version</a>
@@ -22,9 +31,18 @@ update-noUpdatesFound = { -brand-short-name } is up tae date
 update-otherInstanceHandlingUpdates = { -brand-short-name } is bein updatit by anither instance
 update-manual = Updates available at <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Updates available at <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Updates available at <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Updates available at <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ye cannae mak onie mair updates on this system. <label data-l10n-name="unsupported-link">Lairn mair</label>
 update-restarting = Restertin...
 channel-description = The noo, ye're on the <label data-l10n-name="current-channel"></label> update channel.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = The noo, ye're on the <label data-l10n-name="current-channel">{ $channel }</label> update channel.
