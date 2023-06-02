@@ -19,6 +19,7 @@ update-downloading-message = Descargando actualización — <label data-l10n-nam
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Bajando actualización — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Descargando actualización — <label data-l10n-name = "download-status" />
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Ya no puedes seguir actualizando en este sistema.<label dat
 update-restarting = Reiniciando…
 channel-description = Estás en el canal de actualizaciones <label data-l10n-name="current-channel"></label>.
 update-internal-error = No se pueden buscar actualizaciones debido a un error interno. Actualizaciones disponibles en <label data-l10n-name="manual-link"/>
+update-internal-error2 = No se pueden buscar actualizaciones debido a un error interno. Actualizaciones disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
