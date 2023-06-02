@@ -42,6 +42,7 @@ update-unsupported = 您无法在这个系统上进一步更新。<label data-l1
 update-restarting = 正在重启浏览器…
 channel-description = 您目前在 <label data-l10n-name="current-channel"></label> 更新通道。
 update-internal-error = 发生内部错误，无法检查更新。可访问 <label data-l10n-name="manual-link"/> 手动下载更新。
+update-internal-error2 = 发生内部错误，无法检查更新。可访问 <label data-l10n-name="manual-link">{ $displayUrl }</label> 手动下载更新。
 
 ##
 
