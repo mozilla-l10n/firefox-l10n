@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Расширение не может читать и изменять данные
+origin-controls-quarantined =
+    .label = Расширению запрещено читать и изменять данные
 origin-controls-options =
     .label = Расширение может читать и изменять данные:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Не может читать и изменять данные на этой странице
+origin-controls-state-quarantined = Запрещено { -vendor-short-name } на этом сайте
 origin-controls-state-always-on = Всегда может читать и изменять данные на этой странице
 origin-controls-state-when-clicked = Требуется разрешение на чтение и изменение данных
 origin-controls-state-hover-run-visit-only = Выполнить только для этого посещения
