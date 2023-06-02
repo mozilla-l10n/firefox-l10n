@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = 關於記錄功能
 about-logging-page-title = 記錄管理員
 about-logging-current-log-file = 目前的紀錄檔：
-about-logging-current-log-modules = 目前的紀錄模組:
 about-logging-new-log-file = 新記錄檔：
 about-logging-currently-enabled-log-modules = 目前啟用的記錄模組：
 about-logging-log-tutorial = 請參考 <a data-l10n-name="logging">HTTP Logging</a> 一文當中的使用教學來使用此工具。
@@ -44,6 +26,7 @@ about-logging-logging-to-profiler = 記錄到 { -profiler-brand-name }
 about-logging-no-log-modules = 無
 about-logging-no-log-file = 無
 about-logging-logging-preset-selector-text = 預設記錄類型：
+about-logging-with-profiler-stacks-checkbox = 開啟紀錄訊息的堆疊追踪
 
 ## Logging presets
 

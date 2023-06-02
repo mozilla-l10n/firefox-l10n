@@ -120,3 +120,12 @@ tabbrowser-tab-audio-playing-description = 播放聲音
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = 列出全部 { $tabCount } 個分頁
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = 分頁靜音
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = 取消分頁靜音
+tabbrowser-manager-close-tab =
+    .tooltiptext = 關閉分頁

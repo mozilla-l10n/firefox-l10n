@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = 上移
 unified-extensions-context-menu-move-widget-down =
     .label = 下移
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = 不允許使用某些擴充套件
+unified-extensions-mb-quarantined-domain-message = 為了保護您的資料安全，僅可在此網站使用某些受 { -vendor-short-name } 監控的擴充套件。
