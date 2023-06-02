@@ -18,6 +18,7 @@ update-downloading-message = Dina-download ang update —<label data-l10n-name="
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
