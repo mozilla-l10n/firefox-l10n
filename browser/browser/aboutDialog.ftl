@@ -13,6 +13,13 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Nuashonruithe á lorg…
 update-downloading = <img data-l10n-name="icon"/>Nuashonrú á íoslódáil — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = Nuashonrú á chur i bhfeidhm…
 update-failed = Theip ar an nuashonrú. <label data-l10n-name="failed-link">Íoslódáil an leagan is déanaí</label>
 update-failed-main = Theip ar an nuashonrú. <a data-l10n-name="failed-link-main">Íoslódáil an leagan is déanaí</a>
@@ -21,9 +28,18 @@ update-noUpdatesFound = Tá { -brand-short-name } cothrom le dáta
 update-otherInstanceHandlingUpdates = Tá { -brand-short-name } á nuashonrú ag ásc eile
 update-manual = Nuashonruithe ar fáil ó <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Nuashonruithe ar fáil ó <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Nuashonruithe ar fáil ó <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Nuashonruithe ar fáil ó <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ní féidir leat tuilleadh nuashonruithe a chur i bhfeidhm ar an gcóras seo. <label data-l10n-name="unsupported-link">Tuilleadh eolais</label>
 update-restarting = Á Atosú…
 channel-description = Tá tú ar an gcainéal <label data-l10n-name="current-channel"></label> faoi láthair.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Tá tú ar an gcainéal <label data-l10n-name="current-channel">{ $channel }</label> faoi láthair.
