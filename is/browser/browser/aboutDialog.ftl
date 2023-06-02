@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Athuga með uppfærslur…
 update-downloading = <img data-l10n-name="icon"/>Niðurhala uppfærslu — <label data-l10n-name="download-status"/>
 update-downloading-message = Sækir uppfærslu — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Niðurhala uppfærslu — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Virkja uppfærslu…
 update-failed = Uppfærsla mistókst. <label data-l10n-name="failed-link">Niðurhala nýjustu útgáfu</label>
 update-failed-main = Uppfærsla mistókst. <a data-l10n-name="failed-link-main">Niðurhala nýjustu útgáfu</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Mistókst að athuga með uppfærslur.
 update-otherInstanceHandlingUpdates = Verið er að uppfæra { -brand-short-name } annarstaðar
 update-manual = Uppfærslur eru fáanlegar frá <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Uppfærslur eru fáanlegar frá <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Uppfærslur eru fáanlegar frá <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Uppfærslur eru fáanlegar frá <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ekki er hægt að setja inn fleiri uppfærslur. <label data-l10n-name="unsupported-link">Frekari upplýsingar</label>
 update-restarting = Endurræsir…
-update-internal-error = Ekki er hægt að leita að uppfærslum vegna innri villu. Uppfærslur eru fáanlegar á <label data-l10n-name="manual-link"/>
 channel-description = Þú ert núna á <label data-l10n-name="current-channel"></label> uppfærslurásinni.
+update-internal-error = Ekki er hægt að leita að uppfærslum vegna innri villu. Uppfærslur eru fáanlegar á <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Þú ert núna á <label data-l10n-name="current-channel">{ $channel }</label> uppfærslurásinni.
