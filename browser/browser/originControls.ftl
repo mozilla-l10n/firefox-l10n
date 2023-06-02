@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = 확장 기능이 데이터 읽기 및 변경 못함
+origin-controls-quarantined =
+    .label = 확장 기능이 데이터 읽기 및 변경 허용 안 됨
 origin-controls-options =
     .label = 확장 기능이 데이터 읽기 및 변경 가능:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = 이 사이트에서 데이터 읽기 및 변경 못함
+origin-controls-state-quarantined = 이 사이트에서 { -vendor-short-name }에 의해 허용 안 됨
 origin-controls-state-always-on = 항상 이 사이트에서 데이터 읽기 및 변경 가능
 origin-controls-state-when-clicked = 데이터 읽기 및 변경에 권한 필요
 origin-controls-state-hover-run-visit-only = 이번 방문에만 실행
