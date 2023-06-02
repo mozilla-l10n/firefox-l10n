@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Omheech ferpleatse
 unified-extensions-context-menu-move-widget-down =
     .label = Omleech ferpleatse
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Guon útwreidingen binne net tastien
+unified-extensions-mb-quarantined-domain-message = Om jo gegevens te beskermjen, binne mar inkelde útwreidingen dy’t kontrolearre wurde troch { -vendor-short-name } tastien op dizze website.

@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Wachtwurden út CSV-bestân
+migration-wizard-migrator-display-name-file-bookmarks = Blêdwizers út HTML-bestân
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } bywurke
        *[other] { $updatedEntries } bywurke
+    }
+migration-bookmarks-from-file-picker-title = Blêdwizerbestân ymportearje
+migration-bookmarks-from-file-progress-header = Blêdwizers ymportearje
+migration-bookmarks-from-file = Blêdwizers
+migration-bookmarks-from-file-success-header = Blêdwizers mei sukses ymportearre
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokumint
+       *[other] HTML-bestân
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-bestân
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } blêdwizer
+       *[other] { $newEntries } blêdwizers
     }
 migration-import-button-label = Ymportearje
 migration-choose-to-import-from-file-button-label = Ut bestân ymportearje

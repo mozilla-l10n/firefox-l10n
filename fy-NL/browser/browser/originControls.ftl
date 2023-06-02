@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Utwreiding kin gjin gegevens lêze en wizigje
+origin-controls-quarantined =
+    .label = Utwreiding mei gjin gegevens lêze en wizigje
 origin-controls-options =
     .label = Utwreiding kin gegevens lêze en wizigje:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Kin gegevens op dizze side net lêze en wizigje
+origin-controls-state-quarantined = Net tastien troch { -vendor-short-name } op dizze website
 origin-controls-state-always-on = Kin altyd gegevens op dizze website lêze en wizigje
 origin-controls-state-when-clicked = Tastimming nedich om gegevens te lêzen en te wizigjen
 origin-controls-state-hover-run-visit-only = Allinnich foar dit besyk útfiere

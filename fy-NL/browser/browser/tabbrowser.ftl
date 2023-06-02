@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Lûd ôfspylje
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Alle { $tabCount } ljepblêdtitels toane
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Ljepblêd dôvje
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Ljepblêd dôvje opheffe
+tabbrowser-manager-close-tab =
+    .tooltiptext = Ljepblêd slute
