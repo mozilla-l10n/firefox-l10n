@@ -19,6 +19,7 @@ update-downloading-message = Загрузка обновления — <label da
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Загрузка обновления — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Загрузка обновления — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Вы не можете производить дальне�
 update-restarting = Перезапуск…
 channel-description = Сейчас вы находитесь на канале обновлений <label data-l10n-name="current-channel"></label>.{ " " }
 update-internal-error = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <label data-l10n-name="manual-link"/>
+update-internal-error2 = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
