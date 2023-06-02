@@ -100,6 +100,9 @@ migration-wizard-progress-success-updated-passwords =
        *[other] { $updatedEntries } mis à jour
     }
 migration-bookmarks-from-file = Marque-pages
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Fichier JSON
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer depuis un fichier
 migration-import-from-file-button-label = Sélectionner un fichier

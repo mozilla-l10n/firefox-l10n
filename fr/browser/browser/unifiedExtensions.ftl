@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Déplacer vers le haut
 unified-extensions-context-menu-move-widget-down =
     .label = Déplacer vers le bas
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Certaines extensions ne sont pas autorisées
+unified-extensions-mb-quarantined-domain-message = Afin de protéger vos données, seules certaines extensions surveillées par { -vendor-short-name } sont autorisées sur ce site.
