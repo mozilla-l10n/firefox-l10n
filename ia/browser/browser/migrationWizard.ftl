@@ -99,6 +99,29 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualisate
        *[other] { $updatedEntries } actualisate
     }
+migration-bookmarks-from-file-progress-header = Importation de marcapaginas…
+migration-bookmarks-from-file = Marcapaginas
+migration-bookmarks-from-file-success-header = Marcapaginas importate con successo
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Documento HTML
+       *[other] File HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = File JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } marcapagina
+       *[other] { $newEntries } marcapaginas
+    }
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar ab file
 migration-import-from-file-button-label = Eliger file
@@ -195,4 +218,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Pro importar marcapaginas e chronologia de navigation ab Safari
 migration-wizard-safari-instructions-continue = Elige “Continuar”
 migration-wizard-safari-instructions-folder = Selige le plica Safari in le lista e “Open”
-migration-wizard-safari-select-button = Elige file

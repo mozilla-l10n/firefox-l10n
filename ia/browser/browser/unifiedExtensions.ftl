@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Mover in alto
 unified-extensions-context-menu-move-widget-down =
     .label = Mover in basso
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Alcun extensiones non es permittite
