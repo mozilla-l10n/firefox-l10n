@@ -19,6 +19,7 @@ update-downloading-message = O pellgargañ an hizivadenn —<label data-l10n-nam
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>O pellgargañ an hizivadenn — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = O pellgargañ an hizivadenn —<label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
