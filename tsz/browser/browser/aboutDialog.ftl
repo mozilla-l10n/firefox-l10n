@@ -9,6 +9,14 @@ update-checkForUpdatesButton =
     .accesskey = J
 update-checkingForUpdates = Jimpanhe ampe jirhinhantaxati…
 update-downloading = <img data-l10n-name="icon"/>Jatsirantaxati jimpanhe ma — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Jatsirantaxati jimpanhe ma — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Iasi anapu ampe úrani jarhani…
 update-failed = No jatanhentasti. <label data-l10n-name="failed-link">Sánteru jimpanhe ma jirinhantsï</label>
 update-failed-main = No jatanhentasti. <a data-l10n-name="failed-link-main">Sánteru jimpanhe ma jirinhantsï</a>
@@ -16,8 +24,17 @@ update-adminDisabled = Iasi anapu ampe enka no tsinharhitini jaka xanhatatirini 
 update-otherInstanceHandlingUpdates = { -brand-short-name } iasi anapu 'ukuatsati materu jasî anapu jimpo
 update-manual = Ixuri exeantauaka sánteru jimpanhechani <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Ixuri exeantauaka sánteru jimpanhechani <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Ixuri exeantauaka sánteru jimpanhechani <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Ixuri exeantauaka sánteru jimpanhechani <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Noteru úatiksi úkauni santeru iasi anapu ampeecha arini miiunharhitakuani jimpo. <label data-l10n-name="unsupported-link">Sánteru mítini</label>
 channel-description = Jirukutapaxakari <label data-l10n-name="current-channel"></label> jimpanherantskueri ampe.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Jirukutapaxakari <label data-l10n-name="current-channel">{ $channel }</label> jimpanherantskueri ampe.
