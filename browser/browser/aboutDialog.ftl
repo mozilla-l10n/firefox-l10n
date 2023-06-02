@@ -42,6 +42,7 @@ update-unsupported = Du kan ikkje utføre fleire oppdateringar på dette systeme
 update-restarting = Startar på nytt...
 channel-description = Du brukar no oppdateringskanalen <label data-l10n-name="current-channel"></label>
 update-internal-error = Klarte ikkje å sjå etter oppdateringar på grunn av intern feil. Oppdateringar tilgjengelege på <label data-l10n-name="manual-link"/>
+update-internal-error2 = Klarte ikkje å sjå etter oppdateringar på grunn av intern feil. Oppdateringar tilgjengelege på <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
