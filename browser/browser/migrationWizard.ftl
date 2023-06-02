@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (Legado)
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Senhas de arquivo CSV
+migration-wizard-migrator-display-name-file-bookmarks = Favoritos de arquivo HTML
 migration-wizard-migrator-display-name-ie = Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } atualizada
        *[other] { $updatedEntries } atualizadas
+    }
+migration-bookmarks-from-file-picker-title = Importar arquivo de favoritos
+migration-bookmarks-from-file-progress-header = Importando favoritos
+migration-bookmarks-from-file = Favoritos
+migration-bookmarks-from-file-success-header = Favoritos importados com sucesso
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Documento HTML
+       *[other] Arquivo HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Arquivo JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } favorito
+       *[other] { $newEntries } favoritos
     }
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar de arquivo
@@ -195,4 +220,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Para importar favoritos e histórico de navegação do Safari:
 migration-wizard-safari-instructions-continue = Selecione “Avançar”
 migration-wizard-safari-instructions-folder = Selecione a pasta Safari na lista e escolha “Abrir”
-migration-wizard-safari-select-button = Selecionar arquivo
