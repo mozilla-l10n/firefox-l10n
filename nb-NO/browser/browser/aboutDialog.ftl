@@ -19,6 +19,7 @@ update-downloading-message = Laster ned oppdatering — <label data-l10n-name="d
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Laster ned oppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Laster ned oppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Du kan ikke utføre flere oppdateringer på dette systemet.
 update-restarting = Starter på nytt…
 channel-description = Du bruker nå oppdateringskanalen <label data-l10n-name="current-channel"></label>.{ " " }
 update-internal-error = Kan ikke se etter oppdateringer på grunn av intern feil. Oppdateringer tilgjengelig på <label data-l10n-name="manual-link"/>
+update-internal-error2 = Kan ikke se etter oppdateringer på grunn av intern feil. Oppdateringer tilgjengelig på <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
