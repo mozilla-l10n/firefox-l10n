@@ -9,6 +9,14 @@ update-checkForUpdatesButton =
     .accesskey = C
 update-checkingForUpdates = अपडेटांखातीर तपासतात...
 update-downloading = <img data-l10n-name="icon"/>अद्यावत डावनलोडींग करता-<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>अद्यावत डावनलोडींग करता-<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = सुदार लागू करता...
 update-failed = अद्यावत अपेशी थारलां.<label data-l10n-name="failed-link">हालींची वर्जन डावनलोड करचें</label>
 update-failed-main = अद्यावत अपेशी थारलां.<a data-l10n-name="failed-link-main">हालींची वर्जन डावनलोड करचें</a>
@@ -17,8 +25,17 @@ update-noUpdatesFound = { -brand-short-name } हें अद्यावत �
 update-otherInstanceHandlingUpdates = { -brand-short-name } हेर इंन्सन्स सुदारता
 update-manual = अद्यावतां उपलब्ध आसात<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = अद्यावतां उपलब्ध आसात<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = अद्यावतां उपलब्ध आसात<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = अद्यावतां उपलब्ध आसात<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ह्या व्यवस्थेर फुडे सुदार करपाक मेळचे ना.<label data-l10n-name="unsupported-link">अदिक शिकात</label>
 channel-description = तुमी सध्याक<label data-l10n-name="current-channel"></label>अद्यावत चॅनलाचेर आसात
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = तुमी सध्याक<label data-l10n-name="current-channel">{ $channel }</label>अद्यावत चॅनलाचेर आसात
