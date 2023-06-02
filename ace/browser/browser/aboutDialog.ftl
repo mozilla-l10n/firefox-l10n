@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Paréksa peuë nyang barô…
 update-downloading = <img data-l10n-name="icon"/>Neu-unduh beunarô — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Neu-unduh beunarô — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Neupeuja peubarô…
 update-failed = Peubarô hana wasé. <label data-l10n-name="failed-link">Unduh versi paléng barô</label>
 update-failed-main = Peubarô hana wasé. <a data-l10n-name="failed-link-main">Unduh versi paléng barô</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } ka geupubarô
 update-otherInstanceHandlingUpdates = { -brand-short-name } teungoh geuseubarô ngon conto nyang la'én
 update-manual = Beunarô na bak <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Beunarô na bak <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Beunarô na bak <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Beunarô na bak <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Droëneuh h`an jeuët neupeugöt beunarô leubèh jeu'ôh bak sistem nyoë. <label data-l10n-name="unsupported-link">Meurunoë lom</label>
 update-restarting = Ulang keulayi…
 channel-description = Jinoë droëneuh teungoh na di <label data-l10n-name="current-channel"></label> peubarô saluran.{ " " }
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Jinoë droëneuh teungoh na di <label data-l10n-name="current-channel">{ $channel }</label> peubarô saluran.{ " " }
