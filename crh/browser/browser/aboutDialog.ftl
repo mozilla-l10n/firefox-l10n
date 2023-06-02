@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = K
 update-checkingForUpdates = Yañartmalar içün teşkerile…
 update-downloading = <img data-l10n-name="icon"/>Yañartma endirile — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Yañartma endirile — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Yañartma uyğulana…
 update-failed = Yañartma muvafaqiyetsiz edi.<label data-l10n-name="failed-link">Soñki sürümni endir</label>
 update-failed-main = Yañartma muvafaqiyetsiz edi.<a data-l10n-name="failed-link-main">Soñki sürümni endir</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } künceldir
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa bir süreci tarafından yañartıla
 update-manual = Yañartmalar şundan faydalanışlı<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Yañartmalar şundan faydalanışlı<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Yañartmalar şundan faydalanışlı<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Yañartmalar şundan faydalanışlı<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Bu sistem üzerinde artıq yañartmalarnı icra etalmazsıñız.<label data-l10n-name="unsupported-link">Daa çoq ögren</label>
 update-restarting = Kene başlatıla…
 channel-description = Al-azırda <label data-l10n-name="current-channel"></label> yañartma kanalı üzerindesiñiz.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Al-azırda <label data-l10n-name="current-channel">{ $channel }</label> yañartma kanalı üzerindesiñiz.
