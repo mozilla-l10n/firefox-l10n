@@ -51,6 +51,16 @@ translations-panel-error-load-languages-hint-button =
 translations-panel-error-unsupported = Omsetjing er ikkje tilgjengeleg for denne sida
 translations-panel-error-dismiss-button =
     .label = Eg forstår
+translations-panel-error-change-button =
+    .label = Endre kjeldespråk
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Beklagar, støttar ikkje { $language } enno.
+translations-panel-error-unsupported-hint-unknown = Beklagar, vi støttar ikkje dette språket enno.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -63,6 +73,14 @@ translations-panel-to-label = Omset til
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Denne sida er omsett frå { $fromLanguage } til { $toLanguage }
 translations-panel-choose-language =
     .label = Vel eit språk
 translations-panel-restore-button =
@@ -78,6 +96,12 @@ translations-manage-description = Last ned språk for fråkopla-omsetting.
 translations-manage-all-language = Alle språk
 translations-manage-download-button = Last ned
 translations-manage-delete-button = Slett
+translations-manage-error-download = Klarte ikkje å laste ned språkfilene. Prøv på nytt.
+translations-settings-title =
+    .title = Omsetjingsinnstillingar
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
 translations-settings-never-translate-langs-description = Omsetting vert ikkje tilbydd for følgjande språk
 translations-settings-never-translate-sites-description = Omsetting vert ikkje tilbydd for følgjande nettsider
 translations-settings-languages-column =
