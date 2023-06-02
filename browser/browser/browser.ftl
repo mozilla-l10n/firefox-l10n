@@ -677,6 +677,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = 開啟子母畫面（{ $shortcut }）
 picture-in-picture-urlbar-button-close =
     .tooltiptext = 關閉子母畫面（{ $shortcut }）
+picture-in-picture-panel-header = 子母畫面
+picture-in-picture-panel-headline = 此網站不建議使用子母畫面功能
+picture-in-picture-panel-body = 開啟子母畫面功能時，影片可能無法如開發者所預期的顯示。
+picture-in-picture-enable-toggle =
+    .label = 還是開啟
 
 ## Full Screen and Pointer Lock UI
 

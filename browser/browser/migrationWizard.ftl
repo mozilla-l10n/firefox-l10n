@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge 傳統版
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV 檔案中的密碼
+migration-wizard-migrator-display-name-file-bookmarks = HTML 檔裡的書籤
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -91,6 +92,26 @@ migration-wizard-progress-success-new-passwords = 已新增 { $newEntries } 筆
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = 已更新 { $updatedEntries } 筆
+migration-bookmarks-from-file-picker-title = 匯入書籤檔案
+migration-bookmarks-from-file-progress-header = 匯入書籤
+migration-bookmarks-from-file = 書籤
+migration-bookmarks-from-file-success-header = 已成功匯入書籤
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML 文件
+       *[other] HTML 檔案
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON 檔案
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks = { $newEntries } 筆書籤
 migration-import-button-label = 匯入
 migration-choose-to-import-from-file-button-label = 從檔案匯入
 migration-import-from-file-button-label = 選擇檔案
