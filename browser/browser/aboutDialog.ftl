@@ -19,6 +19,7 @@ update-downloading-message = Aktualizacija so sćahuje – <label data-l10n-name
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Aktualizacija so sćahuje — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Aktualizacija so sćahuje – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Njemóžeće dalše aktualizacije na tutym systemje přewje
 update-restarting = Startuje so…
 channel-description = Sće tuchwilu na aktualizaciskim kanalu <label data-l10n-name="current-channel"></label>.{ " " }
 update-internal-error = Interneho zmylka dla njeje móžno za aktualizacijemi pytać. Aktualizacije su na <label data-l10n-name="manual-link"/> k dispoziciji
+update-internal-error2 = Interneho zmylka dla njeje móžno za aktualizacijemi pytać. Aktualizacije su na <label data-l10n-name="manual-link">{ $displayUrl }</label> k dispoziciji
 
 ##
 
