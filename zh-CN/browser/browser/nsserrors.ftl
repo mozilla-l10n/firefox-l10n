@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = 连接到 { $hostname } 时发生错误。{ $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 错误代码：{ $error }
-
 psmerr-ssl-disabled = 由于 SSL 协议已被禁用，无法安全地连接。
 psmerr-ssl2-disabled = 由于该站点使用了旧的不安全版本的SSL协议，无法安全地连接。
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     您收到了一个无效的证书。请与服务器管理员或者邮件联系人联系，并提供以下信息：
     
     您的证书具有与证书颁发机构签发的另一个证书相同的序列号。请获取一个具有唯一序列号的新证书。
-
 ssl-error-export-only-server = 无法安全通信。对等端不支持高等级加密。
 ssl-error-us-only-server = 无法安全通信。不支持对等端要求的高等级加密。
 ssl-error-no-cypher-overlap = 无法安全地与对等端通信：没有双方共用的加密算法。
@@ -342,7 +338,7 @@ sec-error-cert-signature-algorithm-disabled = 该证书使用的签名算法已�
 mozilla-pkix-error-key-pinning-failure = 此服务器使用了公钥固定（HPKP）机制，但无法构成与其固定的证书集合（pinset）匹配的可信任证书链。无法忽视对密钥固定的违反。
 mozilla-pkix-error-ca-cert-used-as-end-entity = 该服务器使用了一个使用“基本约束扩展”标识它为一个证书颁发机构的证书。对于一个正常颁发的证书，不应该是这样。
 mozilla-pkix-error-inadequate-key-size = 该服务器提供的证书密钥位数太小，不足以建立安全连接。
-mozilla-pkix-error-v1-cert-used-as-ca = 服务器的证书由非信任源（Trust Anchor）的X.509 版本 1 证书签发。X.509 版本 1 证书已不赞成使用，不应再用来签发其他证书。
+mozilla-pkix-error-v1-cert-used-as-ca = 服务器的证书由非信任源（Trust Anchor）的X.509 版本 1 证书签发。X.509 版本 1 证书已弃用，不应再用来签发其他证书。
 mozilla-pkix-error-not-yet-valid-certificate = 服务器出示的证书尚未生效。
 mozilla-pkix-error-not-yet-valid-issuer-certificate = 用来签发此服务器证书的一个证书尚未生效。
 mozilla-pkix-error-signature-algorithm-mismatch = 该证书在签名字段中的签名算法与其在 signatureAlgorithm 字段的算法不匹配。

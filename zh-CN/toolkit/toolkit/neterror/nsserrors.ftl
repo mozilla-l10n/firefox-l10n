@@ -8,24 +8,13 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = 连接到 { $hostname } 时发生错误。{ $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = 错误代码：{ $error }
-
 psmerr-ssl-disabled = 由于 SSL 协议已被禁用，无法安全地连接。
 psmerr-ssl2-disabled = 由于该站点使用了旧的不安全版本的SSL协议，无法安全地连接。
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     您收到了一个无效的证书。请与服务器管理员或者邮件联系人联系，并提供以下信息：
     
     您的证书具有与证书颁发机构签发的另一个证书相同的序列号。请获取一个具有唯一序列号的新证书。
-
 ssl-error-export-only-server = 无法安全通信。对等端不支持高等级加密。
 ssl-error-us-only-server = 无法安全通信。不支持对等端要求的高等级加密。
 ssl-error-no-cypher-overlap = 无法安全地与对等端通信：没有双方共用的加密算法。
@@ -212,14 +201,6 @@ sec-error-pkcs7-keyalg-mismatch = 无法解密：密钥加密算法与您的证�
 sec-error-pkcs7-bad-signature = 签名核实失败：没有找到签署者，找到过多签署者，或者不恰当或损坏的数据。
 sec-error-unsupported-keyalg = 不支持或未知的密钥算法。
 sec-error-decryption-disallowed = 无法解密：加密数据时使用了不允许的算法或密钥长度。
-xp-sec-fortezza-bad-card = Fortezza 卡未正确初始化。请将其取出并退还给签发者。
-xp-sec-fortezza-no-card = 没有找到 Fortezza 卡
-xp-sec-fortezza-none-selected = 未选择 Fortezza 卡
-xp-sec-fortezza-more-info = 请选择一种个人设置以得到更多信息
-xp-sec-fortezza-person-not-found = 无法找到个人设置
-xp-sec-fortezza-no-more-info = 此个人设置中没有更多的信息
-xp-sec-fortezza-bad-pin = 无效的 PIN
-xp-sec-fortezza-person-error = 无法初始化 Fortezza 个人设置。
 sec-error-no-krl = 没有找到此站点证书的密钥吊销列表（KRL）。
 sec-error-krl-expired = 此站点证书的密钥吊销列表（KRL）已过期。
 sec-error-krl-bad-signature = 此站点证书的密钥吊销列表（KRL）有一个无效的签名。
@@ -234,9 +215,6 @@ sec-error-cert-nickname-collision = 已经存在相同昵称的证书。
 sec-error-key-nickname-collision = 同样昵称的密钥已经存在。
 sec-error-safe-not-created = 建立安全目标时错误。
 sec-error-baggage-not-created = 建立目标包时发生错误
-xp-java-remove-principal-error = 无法移除 Principal
-xp-java-delete-privilege-error = 无法删除权限
-xp-java-cert-not-exists-error = 此 Principal 没有证书
 sec-error-bad-export-algorithm = 所需算法不允许使用。
 sec-error-exporting-certificates = 尝试导出证书发生错误。
 sec-error-importing-certificates = 尝试导入证书时错误。
@@ -342,7 +320,7 @@ sec-error-cert-signature-algorithm-disabled = 该证书使用的签名算法已�
 mozilla-pkix-error-key-pinning-failure = 此服务器使用了公钥固定（HPKP）机制，但无法构成与其固定的证书集合（pinset）匹配的可信任证书链。无法忽视对密钥固定的违反。
 mozilla-pkix-error-ca-cert-used-as-end-entity = 该服务器使用了一个使用“基本约束扩展”标识它为一个证书颁发机构的证书。对于一个正常颁发的证书，不应该是这样。
 mozilla-pkix-error-inadequate-key-size = 该服务器提供的证书密钥位数太小，不足以建立安全连接。
-mozilla-pkix-error-v1-cert-used-as-ca = 服务器的证书由非信任源（Trust Anchor）的X.509 版本 1 证书签发。X.509 版本 1 证书已不赞成使用，不应再用来签发其他证书。
+mozilla-pkix-error-v1-cert-used-as-ca = 服务器的证书由非信任源（Trust Anchor）的X.509 版本 1 证书签发。X.509 版本 1 证书已弃用，不应再用来签发其他证书。
 mozilla-pkix-error-not-yet-valid-certificate = 服务器出示的证书尚未生效。
 mozilla-pkix-error-not-yet-valid-issuer-certificate = 用来签发此服务器证书的一个证书尚未生效。
 mozilla-pkix-error-signature-algorithm-mismatch = 该证书在签名字段中的签名算法与其在 signatureAlgorithm 字段的算法不匹配。
@@ -353,3 +331,14 @@ mozilla-pkix-error-invalid-integer-encoding = 服务器提供的证书包含无�
 mozilla-pkix-error-empty-issuer-name = 服务器出示的证书有一个空的发行者专有名称。
 mozilla-pkix-error-additional-policy-constraint-failed = 验证此证书时，某个附加策略约束验证失败。
 mozilla-pkix-error-self-signed-cert = 此证书由于自签名而不被信任。
+xp-java-remove-principal-error = 无法移除 Principal
+xp-java-delete-privilege-error = 无法删除权限
+xp-java-cert-not-exists-error = 此 Principal 没有证书
+xp-sec-fortezza-bad-card = Fortezza 卡未正确初始化。请将其取出并退还给签发者。
+xp-sec-fortezza-no-card = 没有找到 Fortezza 卡
+xp-sec-fortezza-none-selected = 未选择 Fortezza 卡
+xp-sec-fortezza-more-info = 请选择一种个人设置以得到更多信息
+xp-sec-fortezza-person-not-found = 无法找到个人设置
+xp-sec-fortezza-no-more-info = 此个人设置中没有更多的信息
+xp-sec-fortezza-bad-pin = 无效的 PIN
+xp-sec-fortezza-person-error = 无法初始化 Fortezza 个人设置。

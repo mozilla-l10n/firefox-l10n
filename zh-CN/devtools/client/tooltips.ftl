@@ -66,10 +66,10 @@ inactive-css-ruby-element-fix = 请尝试调整 ruby 文本的 <strong>font-size
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = 下列浏览器不支持 <strong>{ $property }</strong>：
-css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> 原为实验性属性，现行 W3C 标准已不赞成使用，下列浏览器已不支持：
-css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> 原为实验性属性，现行 W3C 标准已不赞成使用。
-css-compatibility-deprecated-message = <strong>{ $property }</strong> 在现行 W3C 标准中已不赞成使用，下列浏览器已不支持：
-css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 在 W3C 标准中已不赞成使用。
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> 原为实验性属性，现行 W3C 标准已弃用，下列浏览器已不支持：
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> 原为实验性属性，现行 W3C 标准已弃用。
+css-compatibility-deprecated-message = <strong>{ $property }</strong> 在现行 W3C 标准中已弃用，下列浏览器已不支持：
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 在 W3C 标准中已弃用。
 css-compatibility-experimental-message = <strong>{ $property }</strong> 为实验性属性，在下列浏览器中已不支持：
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> 为实验性属性。
 css-compatibility-learn-more-message = <span data-l10n-name="link">详细了解</span>“<strong>{ $rootProperty }</strong>”
