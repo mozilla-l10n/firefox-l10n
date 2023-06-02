@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Traženje novih verzija …
 update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label data-l10n-name="download-status"/>
 update-downloading-message = Preuzimanje dopune — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Primjena dopune…
 update-failed = Aktualiziranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmi najnoviju verziju</label>
 update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju verziju</a>
@@ -23,10 +31,17 @@ aboutdialog-update-checking-failed = Neuspjelo traženje novih verzija.
 update-otherInstanceHandlingUpdates = { -brand-short-name } nadograđuje jedna druga instanca
 update-manual = Nove verzije su dostupne na <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Nove verzije su dostupne na <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = Na ovom sustavu više ne možeš nadograđivati. <label data-l10n-name="unsupported-link">Saznaj više</label>
 update-restarting = Ponovno pokretanje…
-update-internal-error = Neuspjelo traženje novih verzija zbog interne greške. Nove verzije su dostupne na <label data-l10n-name="manual-link"/>
 channel-description = Trenutačno se nalaziš na <label data-l10n-name="current-channel"></label> kanalu za aktualiziranje.
+update-internal-error = Neuspjelo traženje novih verzija zbog interne greške. Nove verzije su dostupne na <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Trenutačno se nalaziš na <label data-l10n-name="current-channel">{ $channel }</label> kanalu za aktualiziranje.
