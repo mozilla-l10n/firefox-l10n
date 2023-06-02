@@ -9,6 +9,14 @@ update-checkForUpdatesButton =
     .accesskey = к
 update-checkingForUpdates = Саҥардыыны көрүү...
 update-downloading = <img data-l10n-name="icon"/>Саҥардыы хаамыыта — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Саҥардыы хаамыыта — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Саҥардыыны туһаныы...
 update-failed = Саҥардыы сатаммата.<label data-l10n-name="failed-link">Бүтэһик барылын хачайдаа</label>
 update-failed-main = Саҥардыы сатаммата.<a data-l10n-name="failed-link-main">Бүтэһик барылын хачайдаа</a>
@@ -17,8 +25,17 @@ update-noUpdatesFound = { -brand-short-name } тиһэх барыла турар
 update-otherInstanceHandlingUpdates = { -brand-short-name }: атын саҥардыы буола турар
 update-manual = Саҥардыы манна сытар <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Саҥардыы манна сытар <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Саҥардыы манна сытар <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Саҥардыы манна сытар <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Бу тиһиликкэ (систиэмэҕэ) салгыы саҥардыыны оҥорор кыаҕыҥ суох.<label data-l10n-name="unsupported-link">Сиһилии</label>
 channel-description = Билигин манна бааргын: <label data-l10n-name="current-channel"></label> саҥардыы канаала.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Билигин манна бааргын: <label data-l10n-name="current-channel">{ $channel }</label> саҥардыы канаала.
