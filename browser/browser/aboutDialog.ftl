@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Vyhľadávajú sa aktualizácie…
 update-downloading = <img data-l10n-name="icon"/>Sťahuje sa aktualizácia — <label data-l10n-name="download-status"/>
 update-downloading-message = Sťahuje sa aktualizácia — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Sťahuje sa aktualizácia — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Aktualizácia sa inštaluje…
 update-failed = Aktualizácia zlyhala. <label data-l10n-name="failed-link">Stiahnuť najnovšiu verziu</label>
 update-failed-main = Aktualizácia zlyhala. <a data-l10n-name="failed-link-main">Stiahnuť najnovšiu verziu</a>
@@ -23,10 +31,17 @@ aboutdialog-update-checking-failed = Nepodarilo sa skontrolovať aktualizácie.
 update-otherInstanceHandlingUpdates = { -brand-short-name } sa práve aktualizuje v inej inštancii
 update-manual = Aktualizácie sú k dispozícii na stránke <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Aktualizácie sú k dispozícii na stránke <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = Ďalšie aktualizácie už nie sú na tomto systéme možné. <label data-l10n-name="unsupported-link">Ďalšie informácie</label>
 update-restarting = Reštartuje sa…
-update-internal-error = Nie je možné skontrolovať aktualizácie kvôli internej chybe. Aktualizácie sú k dispozícii na stránke <label data-l10n-name="manual-link"/>
 channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel"></label>.{ " " }
+update-internal-error = Nie je možné skontrolovať aktualizácie kvôli internej chybe. Aktualizácie sú k dispozícii na stránke <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel">{ $channel }</label>.
