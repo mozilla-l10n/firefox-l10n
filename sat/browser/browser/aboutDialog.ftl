@@ -19,6 +19,7 @@ update-downloading-message = ᱟᱹᱯᱰᱥᱮᱴ ᱰᱟᱩᱱᱞᱚᱰᱚᱜ �
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>ᱦᱟᱹᱞᱤᱭᱟᱜ ᱰᱟᱩᱱᱞᱚᱰᱜᱭᱮᱫᱼᱟ — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = ᱟᱹᱯᱰᱥᱮᱴ ᱰᱟᱩᱱᱞᱚᱰᱚᱜ ᱠᱟᱱᱟ — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
