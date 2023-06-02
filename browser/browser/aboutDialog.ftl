@@ -18,6 +18,7 @@ update-downloading-message = अपडेट डाउनलोड क रहल
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>अद्यतन डाउनलोड कए रहल अछि — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = अपडेट डाउनलोड क रहल अछि — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
@@ -35,6 +36,8 @@ aboutdialog-update-manual = अद्यतन एतय मोजुद अछ�
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = अद्यतन एतय मोजुद अछि <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = अद्यतन एतय मोजुद अछि <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = अहाँ एहि तंत्र पर आगाँ अद्यतन नहि कए सकैत अछि.<label data-l10n-name="unsupported-link">बेसी जानू</label>
 update-restarting = पुन: प्रारंभ भ रहल अछि...
 channel-description = अहाँ अखन एतए छी<label data-l10n-name="current-channel"></label> चैनल अद्यतन करू.
