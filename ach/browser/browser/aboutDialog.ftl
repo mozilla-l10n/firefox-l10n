@@ -34,6 +34,8 @@ aboutdialog-update-manual = Ngec manyen nonge i <a data-l10n-name="manual-link"/
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = Ngec manyen nonge i <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Ngec manyen nonge i <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Pe i twero mede ki keto ngec manyen i nyonyo man. <label data-l10n-name="unsupported-link">Nong ngec mapol</label>
 update-restarting = Tye ka cake odoco...
 channel-description = Kombedi i tye i <label data-l10n-name="current-channel"></label> yo ngec manyen.{ " " }
