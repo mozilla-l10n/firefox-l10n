@@ -18,6 +18,7 @@ update-downloading-message = განახლების ჩამოტვ�
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>განახლების ჩამოტვირთვა — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
