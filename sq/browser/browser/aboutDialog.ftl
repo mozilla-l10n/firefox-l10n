@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Po shihet për përditësime…
 update-downloading = <img data-l10n-name="icon"/>Po shkarkohet përditësimi — <label data-l10n-name="download-status"/>
 update-downloading-message = Po shkarkohet përditësim — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Po shkarkohet përditësimi — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Po shkarkohet përditësim — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Po zbatohet përditësimi…
 update-failed = Përditësimi dështoi. <label data-l10n-name="failed-link">Shkarkoni versionin më të ri</label>
 update-failed-main = Përditësimi dështoi. <a data-l10n-name="failed-link-main">Shkarkoni versionin më të ri</a>
@@ -23,10 +32,20 @@ aboutdialog-update-checking-failed = S’u arrit të kontrollohet për përditë
 update-otherInstanceHandlingUpdates = { -brand-short-name }-i po përditësohet nga një instancë tjetër
 update-manual = Përditësimet gjenden te <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Përditësimet gjenden te <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Përditësimet gjenden te <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Përditësimet gjenden te <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nuk mund të kryeni përditësime të mëtejshme në këtë sistem. <label data-l10n-name="unsupported-link">Mësoni më tepër</label>
 update-restarting = Po riniset…
-update-internal-error = S’arrihet të kontrollohet për përditësime, për shkak gabimi të brendshëm. Përditësime të passhme te <label data-l10n-name="manual-link"/>
 channel-description = Tani gjendeni te kanali i përditësimit për <label data-l10n-name="current-channel"></label>.
+update-internal-error = S’arrihet të kontrollohet për përditësime, për shkak gabimi të brendshëm. Përditësime të passhme te <label data-l10n-name="manual-link"/>
+update-internal-error2 = S’arrihet të kontrollohet për përditësime, për shkak gabimi të brendshëm. Përditësime të passhme te <label data-l10n-name="manual-link">{ $displayUrl }</label>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Tani gjendeni te kanali i përditësimit për <label data-l10n-name="current-channel">{ $channel }</label>.
