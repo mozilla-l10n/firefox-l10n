@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞᱮᱫ ᱟ …
 update-downloading = <img data-l10n-name="icon"/>ᱦᱟᱹᱞᱤᱭᱟᱜ ᱰᱟᱩᱱᱞᱚᱰᱜᱭᱮᱫᱼᱟ — <label data-l10n-name="download-status"/>
 update-downloading-message = ᱟᱹᱯᱰᱥᱮᱴ ᱰᱟᱩᱱᱞᱚᱰᱚᱜ ᱠᱟᱱᱟ — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>ᱦᱟᱹᱞᱤᱭᱟᱜ ᱰᱟᱩᱱᱞᱚᱰᱜᱭᱮᱫᱼᱟ — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = ᱦᱟᱹᱞᱤ ᱵᱚᱦᱟᱞᱮᱫ ᱟ  …
 update-failed = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾ <label data-l10n-name="failed-link">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱩᱱᱞᱚᱰᱭ ᱢᱮ</label>
 update-failed-main = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ <a data-l10n-name="failed-link-main">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱩᱱᱞᱚᱰᱭ ᱢᱮ</a>
@@ -23,10 +31,20 @@ aboutdialog-update-checking-failed = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱮᱞ ᱨ�
 update-otherInstanceHandlingUpdates = { -brand-short-name } ᱮᱴᱟᱜᱤᱡ ᱡᱮᱞᱠᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱦᱟᱹᱞᱤ ᱟᱠᱟᱱᱟ
 update-manual = ᱨᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = ᱨᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = ᱨᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = ᱨᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ᱟᱢ ᱱᱚᱶᱟ ᱥᱭᱥᱴᱮᱢ ᱨᱮ ᱢᱟᱲᱟᱝ ᱥᱮᱫ ᱦᱟᱹᱞᱤ ᱵᱟᱢ ᱦᱩᱭ ᱦᱚᱪᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾<label data-l10n-name="unsupported-link">ᱵᱟᱹᱲᱛᱤ ᱪᱚᱫ ᱢᱮ</label>
 update-restarting = ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵᱚᱜᱼᱟ…
-update-internal-error = ᱵᱷᱤᱛᱤᱨ ᱵᱷᱩᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱮᱱ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾ <label data-l10n-name="manual-link"/> ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ
 channel-description = ᱨᱮ ᱟᱢ ᱱᱤᱛᱚᱜ ᱢᱮᱱᱟᱢᱟ <label data-l10n-name="current-channel"></label> ᱦᱟᱹᱞᱤ ᱪᱮᱱᱟᱞ ᱾
+update-internal-error = ᱵᱷᱤᱛᱤᱨ ᱵᱷᱩᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱮᱱ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾ <label data-l10n-name="manual-link"/> ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ
+update-internal-error2 = ᱵᱷᱤᱛᱤᱨ ᱵᱷᱩᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱮᱱ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾ <label data-l10n-name="manual-link">{ $displayUrl }</label> ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = ᱨᱮ ᱟᱢ ᱱᱤᱛᱚᱜ ᱢᱮᱱᱟᱢᱟ <label data-l10n-name="current-channel">{ $channel }</label> ᱦᱟᱹᱞᱤ ᱪᱮᱱᱟᱞ ᱾
