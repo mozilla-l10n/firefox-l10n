@@ -18,6 +18,7 @@ update-downloading-message = Discargante actualisation — <label data-l10n-name
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Discargante actualisation — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -40,6 +41,7 @@ update-unsupported = Tu non pote facer plus actualisationes in iste systema. <la
 update-restarting = Reinitiante…
 channel-description = Tu es actualmente in le canal de actualisationes <label data-l10n-name="current-channel"></label>.
 update-internal-error = Impossibile verificar le presentia de actualisationes a causa de un error interne. Actualisationes disponibile a <label data-l10n-name="manual-link"/>
+update-internal-error2 = Impossibile verificar le presentia de actualisationes a causa de un error interne. Actualisationes disponibile a <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
