@@ -10,6 +10,14 @@ update-checkForUpdatesButton =
     .accesskey = U
 update-checkingForUpdates = Yu'pthewa'ja's pakwesawe'sx…
 update-downloading = <img data-l10n-name="icon"/>Pheu'nxisa's spahtxna ũ'sa—<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Pheu'nxisa's spahtxna ũ'sa—<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Pheu'nxisa's txi'na ũ'sa…
 update-failed = Pheu'nxiisa' suweka<label data-l10n-name="failed-link">Nmejth fxijnxi's spajtxna ũ'sa'</label>
 update-failed-main = Pheu'nxiisa' suweka<a data-l10n-name="failed-link-main">Nmejth fxijnxi's spajtxna ũ'sa'</a>
@@ -18,8 +26,17 @@ update-noUpdatesFound = { -brand-short-name } nãa pheu'nxinxaja
 update-otherInstanceHandlingUpdates = { -brand-short-name } txãa pheujna ũ'sa vxitenxa'k
 update-manual = Pheu'nxiisa' jxuka ewnxa' ũ'sa<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Pheu'nxiisa' jxuka ewnxa' ũ'sa<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Pheu'nxiisa' jxuka ewnxa' ũ'sa<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Pheu'nxiisa' jxuka ewnxa' ũ'sa<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ewumeg khukya vxite pheu'nxisa'tx nãa vxisnxite.<label data-l10n-name="unsupported-link">Wejx jisa</label>
 channel-description = Txa' vxisna ũ'sa ẽsen paynxisa's<label data-l10n-name="current-channel"></label>Txi' jxuka phe'wuhwaja
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Txa' vxisna ũ'sa ẽsen paynxisa's<label data-l10n-name="current-channel">{ $channel }</label>Txi' jxuka phe'wuhwaja
