@@ -21,7 +21,7 @@ translations-panel-translate-button =
     .label = Oversett
 translations-panel-translate-cancel =
     .label = Avbryt
-translations-panel-error-translating = Det oppsto et problem med å oversette. Prøv på nytt.
+translations-panel-error-translating = Det oppstod et problem med å oversette. Prøv på nytt.
 translations-panel-error-load-languages = Kunne ikke laste inn språk
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
