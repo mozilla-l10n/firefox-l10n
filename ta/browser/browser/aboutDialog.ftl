@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = புதுப்பித்தல்களுக்கு சரிபார்க்கிறது…
 update-downloading = <img data-l10n-name="icon"/>புதுப்பித்தல்களைப் பதிவிறக்குகிறது — <label data-l10n-name="download-status"/>
 update-downloading-message = புதுப்பிப்பைப் பதிவிறக்குகிறது — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>புதுப்பித்தல்களைப் பதிவிறக்குகிறது — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = மேம்படுத்தலை செயல்படுத்துகிறது...
 update-failed = புதுப்பித்தல் தோல்வியுற்றது. <label data-l10n-name="failed-link">சமீபத்திய பதிப்பைப் பதிவிறக்கவும்</label>
 update-failed-main = புதுப்பித்தல் தோல்வியுற்றது. <a data-l10n-name="failed-link-main">சமீபத்திய பதிப்பைப் பதிவிறக்கவும்</a>
@@ -22,9 +30,16 @@ update-noUpdatesFound = { -brand-short-name } புத்தம் புதி
 update-otherInstanceHandlingUpdates = { -brand-short-name } மற்றொரு நேர்வின் மூலம் புதுப்பிக்கப்படுகிறது
 update-manual = புதுப்பித்தல்கள் இங்கே உள்ளன <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = புதுப்பித்தல்கள் இங்கே உள்ளன <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = இந்த கணினியில் நீங்கள் மேலும் புதுப்பித்தல்களை மேற்கொள்ள முடியாது. <label data-l10n-name="unsupported-link">மேலும் அறிய</label>
 update-restarting = மறுதுவக்கம்…
 channel-description = நீங்கள் தற்போது <label data-l10n-name="current-channel"></label> உலாவியை மேம்படுத்தப்போகிறீர்கள்.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = நீங்கள் தற்போது <label data-l10n-name="current-channel">{ $channel }</label> உலாவியை மேம்படுத்தப்போகிறீர்கள்.
