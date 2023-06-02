@@ -19,6 +19,7 @@ update-downloading-message = Sťahuje sa aktualizácia — <label data-l10n-name
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Sťahuje sa aktualizácia — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Sťahuje sa aktualizácia — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
