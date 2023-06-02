@@ -305,7 +305,7 @@ quickactions-extensions = 확장 기능 관리
 quickactions-cmd-extensions = 확장 기능, extensions
 # Opens the devtools web inspector
 quickactions-inspector2 = 개발자 도구 열기
-quickactions-cmd-inspector = 검사기, inspector, devtools
+quickactions-cmd-inspector = 검사기, 개발자 도구, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 비밀번호 관리
 quickactions-cmd-logins = 로그인, 비밀번호, logins, passwords
@@ -522,8 +522,8 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = F12 단축키를 사용하려면, 먼저 웹 개발자 메뉴를 통해 DevTools를 여세요.
-enable-devtools-popup-description2 = F12 단축키를 사용하려면, 먼저 브라우저 도구 메뉴를 통해 DevTools를 여세요.
+enable-devtools-popup-description = F12 단축키를 사용하려면, 먼저 웹 개발자 메뉴를 통해 개발자 도구를 여세요.
+enable-devtools-popup-description2 = F12 단축키를 사용하려면, 먼저 브라우저 도구 메뉴를 통해 개발자 도구를 여세요.
 
 ## URL Bar
 

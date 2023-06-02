@@ -89,7 +89,7 @@ about-glean-li-for-visit-gdpv =
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     더 많은 <i>임시</i> 테스트를 위해
-    여기 <code>about:glean</code>에서 devtools 콘솔을 열고 <code>Glean.metricCategory.metricName.testGetValue()</code> 같은 
+    여기 <code>about:glean</code>에서 개발자 도구 콘솔을 열고 <code>Glean.metricCategory.metricName.testGetValue()</code> 같은 
     <code>testGetValue()</code> API를 사용하여 
     특정 계측 부분의 현재 값을 결정할 수도 있습니다.
 controls-button-label-verbose = 설정 적용 및 핑 제출
