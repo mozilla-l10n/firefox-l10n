@@ -99,6 +99,7 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } mis à jour
        *[other] { $updatedEntries } mis à jour
     }
+migration-bookmarks-from-file-progress-header = Importation des marque-pages
 migration-bookmarks-from-file = Marque-pages
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
