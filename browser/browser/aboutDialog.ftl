@@ -19,6 +19,7 @@ update-downloading-message = Henter opdatering — <label data-l10n-name="downlo
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Henter opdatering — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Henter opdatering — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Du kan ikke foretage yderligere opdateringer på dette syst
 update-restarting = Genstarter…
 channel-description = Du er i øjeblikket på opdateringskanalen: <label data-l10n-name="current-channel"></label>.
 update-internal-error = Kan ikke søge efter opdateringer på grund af en intern fejl. Opdateringer er tilgængelige på <label data-l10n-name="manual-link"/>
+update-internal-error2 = Kan ikke søge efter opdateringer på grund af en intern fejl. Opdateringer er tilgængelige på <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
