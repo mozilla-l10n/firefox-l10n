@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = হালনাগাদ পরীক্ষা করা হচ্ছে…
 update-downloading = <img data-l10n-name="icon"/>হালনাগাদ ডাউনলোড করা হচ্ছে — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>হালনাগাদ ডাউনলোড করা হচ্ছে — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = হালানাগাদ প্রয়োগ করা হচ্ছে…
 update-failed = হালনাগাদ ব্যর্থ। <label data-l10n-name="failed-link">সর্বশেষ সংস্করণ ডাউনলোড করুন</label>
 update-failed-main = হালনাগাদ ব্যর্থ। <a data-l10n-name="failed-link-main">সর্বশেষ সংস্করণ ডাউনলোড করুন</a>
@@ -21,9 +29,16 @@ update-noUpdatesFound = { -brand-short-name } হালনাগাদ করা
 update-otherInstanceHandlingUpdates = { -brand-short-name } অন্য স্থানে হালনাগাদ হয়েছে
 update-manual = হালনাগাদ যেখানে পাওয়া যাবে <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = হালনাগাদ যেখানে পাওয়া যাবে <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = আপনি এই সিস্টেমে আর হালনাগাদ করতে পারবেন না। <label data-l10n-name="unsupported-link">আরও জানুন</label>
 update-restarting = পুনরায় আরম্ভ হচ্ছে…
 channel-description = আপনি বর্তমানে রয়েছেন <label data-l10n-name="current-channel"></label> হালনাগাদ চ্যানেল।
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = আপনি বর্তমানে রয়েছেন <label data-l10n-name="current-channel">{ $channel }</label> হালনাগাদ চ্যানেল।
