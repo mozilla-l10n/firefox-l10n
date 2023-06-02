@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Tekopyahu jehechajey…
 update-downloading = <img data-l10n-name="icon"/>Oñemboguejyhína tekopyahu —<label data-l10n-name="download-status"/>
 update-downloading-message = Oguejyhína ñemhekopyahu — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Oñemboguejyhína tekopyahu —<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Ojepuruhína tekopyahu…
 update-failed = Tekopyahu ndoikói.<label data-l10n-name="failed-link">Emboguejy apopy ipyahuvéva</label>
 update-failed-main = Tekopyahu ndoikói.<a data-l10n-name="failed-link-main">Emboguejy apopy ipyahuvéva</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Ndojejuhukuaái ñembohekopyahu.
 update-otherInstanceHandlingUpdates = { -brand-short-name } oñembohekopyahuhína ambuéva rupi
 update-manual = Tekopyahu rejuhukuaáva ápe<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Tekopyahu rejuhukuaáva ápe<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Tekopyahu rejuhukuaáva ápe<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Tekopyahu rejuhukuaáva ápe<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ndaikatuvéima reipuru ambue tekopyahu ko apopyvusúpe.<label data-l10n-name="unsupported-link">Kuaave</label>
 update-restarting = Moñepyrũjey…
-update-internal-error = Ndaikatúi eheka ñembohekopyahu oĩ rupi jejavy. Ñembohekopyahu eipurukuaa <label data-l10n-name="manual-link"/>-pe
 channel-description = Oiporuhína mbohapeha<label data-l10n-name="current-channel"></label> tekopyahurã.
+update-internal-error = Ndaikatúi eheka ñembohekopyahu oĩ rupi jejavy. Ñembohekopyahu eipurukuaa <label data-l10n-name="manual-link"/>-pe
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Oiporuhína mbohapeha<label data-l10n-name="current-channel">{ $channel }</label> tekopyahurã.
