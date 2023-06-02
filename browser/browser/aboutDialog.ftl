@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Tikrinama, ar yra naujinimų…
 update-downloading = <img data-l10n-name="icon"/>Atsiunčiamas naujinimas — <label data-l10n-name="download-status"/>
 update-downloading-message = Atsisiunčiamas naujinimas – <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Atsiunčiamas naujinimas — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Diegiamas naujinimas…
 update-failed = Programos atnaujinti nepavyko. <label data-l10n-name="failed-link">Atsisiųskite paskiausią laidą</label>
 update-failed-main = Programos atnaujinti nepavyko. <a data-l10n-name="failed-link-main">Atsisiųskite paskiausią laidą</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Nepavyko patikrinti, ar yra naujinimų.
 update-otherInstanceHandlingUpdates = Programa „{ -brand-short-name }“ šiuo metu naujinama
 update-manual = Atsisiųskite naujinimą iš <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Atsisiųskite naujinimą iš <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Atsisiųskite naujinimą iš <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Atsisiųskite naujinimą iš <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Tolesni naujinimai, naudojantis šia sistema, yra negalimi. <label data-l10n-name="unsupported-link">Sužinoti daugiau</label>
 update-restarting = Paleidžiama iš naujo…
-update-internal-error = Dėl vidinės klaidos nepavyko patikrinti, ar yra naujinimų. Naujinimai pasiekiami per <label data-l10n-name="manual-link"/>
 channel-description = Šiuo metu naudojamas <label data-l10n-name="current-channel"></label> naujinimų kanalas.
+update-internal-error = Dėl vidinės klaidos nepavyko patikrinti, ar yra naujinimų. Naujinimai pasiekiami per <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Šiuo metu naudojamas <label data-l10n-name="current-channel">{ $channel }</label> naujinimų kanalas.
