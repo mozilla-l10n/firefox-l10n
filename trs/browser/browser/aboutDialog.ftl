@@ -19,6 +19,7 @@ update-downloading-message = Hìaj nadunin sa nākà doj — <label data-l10n-na
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Hìaj naninj sa nakàa<label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Hìaj nadunin sa nākà doj — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
