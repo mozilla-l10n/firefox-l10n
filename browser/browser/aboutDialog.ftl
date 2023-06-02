@@ -19,6 +19,7 @@ update-downloading-message = Sækir uppfærslu — <label data-l10n-name="downlo
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Niðurhala uppfærslu — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Sækir uppfærslu — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Ekki er hægt að setja inn fleiri uppfærslur. <label data
 update-restarting = Endurræsir…
 channel-description = Þú ert núna á <label data-l10n-name="current-channel"></label> uppfærslurásinni.
 update-internal-error = Ekki er hægt að leita að uppfærslum vegna innri villu. Uppfærslur eru fáanlegar á <label data-l10n-name="manual-link"/>
+update-internal-error2 = Ekki er hægt að leita að uppfærslum vegna innri villu. Uppfærslur eru fáanlegar á <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
