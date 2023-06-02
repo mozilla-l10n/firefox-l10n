@@ -6,6 +6,14 @@ aboutDialog-title =
     .title = Ngokuphathelene ne-{ -brand-full-name }
 update-checkingForUpdates = Kuhlolwa ukuvuselelwa…
 update-downloading = <img data-l10n-name="icon"/>Kulayishwa ukuvuselelwa — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Kulayishwa ukuvuselelwa — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Kusetshenziswa ukuvuselelwa...
 update-failed = Ukuvuselelwa kuhlulekile. <label data-l10n-name="failed-link">Layisha ubuyekezo lwakamuva</label>
 update-failed-main = Ukuvuselelwa kuhlulekile. <a data-l10n-name="failed-link-main">Layisha ubuyekezo lwakamuva</a>
@@ -14,8 +22,17 @@ update-noUpdatesFound = { -brand-short-name } isesikhathini
 update-otherInstanceHandlingUpdates = I-{ -brand-short-name } ifakwe ukwaziswa kwamuva ngenye indlela
 update-manual = Ukuvuselelwa kutholakala ku-<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Ukuvuselelwa kutholakala ku-<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Ukuvuselelwa kutholakala ku-<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Ukuvuselelwa kutholakala ku-<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Awukwazi ukwenza ukufaka ukwaziswa kwamuva okuthuthukile kulolu hlelo. <label data-l10n-name="unsupported-link">Funda kabanzi</label>
 channel-description = Okwamanje uku <label data-l10n-name="current-channel"></label> vuselela isiteshi.{ " " }
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Okwamanje uku <label data-l10n-name="current-channel">{ $channel }</label> vuselela isiteshi.{ " " }
