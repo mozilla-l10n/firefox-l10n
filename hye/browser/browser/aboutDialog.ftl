@@ -34,6 +34,8 @@ aboutdialog-update-manual = Թարմացումները հասանելի են՝ <
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = Թարմացումները հասանելի են՝ <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Թարմացումները հասանելի են՝ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Դուք չէք կարող կատարել յետագայ թարմացումները այս համակարգում։ <label data-l10n-name="unsupported-link">Իմանալ աւելին</label>
 update-restarting = Վերամեկնարկում…
 channel-description = Այժմ գործում է <label data-l10n-name="current-channel"></label> թարմացումների աղբեւրը։
