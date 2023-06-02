@@ -682,6 +682,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Открыть «Картинку в картинке» ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Закрыть «Картинку в картинке» ({ $shortcut })
+picture-in-picture-panel-header = Картинка в картинке
+picture-in-picture-panel-headline = Этот веб-сайт не рекомендует функцию «Картинка в картинке».
+picture-in-picture-panel-body = Видео может отображаться не так, как задумано разработчиком, когда включена функция «Картинка в картинке».
+picture-in-picture-enable-toggle =
+    .label = Включить в любом случае
 
 ## Full Screen and Pointer Lock UI
 
