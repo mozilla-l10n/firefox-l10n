@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = আপডেটৰ বাবে পৰিক্ষা চলি আছে…
 update-downloading = <img data-l10n-name="icon"/>আপডেট ডাউনল'ড হৈ আছে — <label data-l10n-name="download-status"/>
 update-downloading-message = আপডেট ডাউনল'ড হৈ আছে — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>আপডেট ডাউনল'ড হৈ আছে — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = আপডেট ডাউনল'ড হৈ আছে — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = আপডেইট প্ৰয়োগ কৰা হৈছে…
 update-failed = আপডেট ব্যৰ্থ। <label data-l10n-name="failed-link">শেহতীয়া সংস্কৰণ ডাউনল'ড কৰক</label>
 update-failed-main = আপডেট ব্যৰ্থ। <a data-l10n-name="failed-link-main">শেহতীয়া সংস্কৰণ ডাউনল'ড কৰক</a>
@@ -22,9 +31,18 @@ update-noUpdatesFound = { -brand-short-name } আপ টু ডেট আছে
 update-otherInstanceHandlingUpdates = { -brand-short-name } ক অন্য এটা উদাহৰণ দ্বাৰা আপডেইট কৰা হৈ আছে
 update-manual = আপডেটসমূহ <label data-l10n-name="manual-link"/>ত উপলব্ধ
 aboutdialog-update-manual = আপডেটসমূহ <a data-l10n-name="manual-link"/>ত উপলব্ধ
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = আপডেটসমূহ <label data-l10n-name="manual-link">{ $displayUrl }</label>ত উপলব্ধ
+settings-update-manual-with-link = আপডেটসমূহ <a data-l10n-name="manual-link">{ $displayUrl }</a>ত উপলব্ধ
 update-unsupported = আপুনি এই চিস্টেমত ততোধিক আপডেইট পৰিৱেশন কৰিব নোৱাৰিব। <label data-l10n-name="unsupported-link">অধিক জানক</label>
 update-restarting = পুনৰাৰম্ভ হৈ আছে…
 channel-description = আপুনি বৰ্তমানে <label data-l10n-name="current-channel"></label> আপডেইট চেনেলত আছে।{ " " }
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = আপুনি বৰ্তমানে <label data-l10n-name="current-channel">{ $channel }</label> আপডেইট চেনেলত আছে।{ " " }
