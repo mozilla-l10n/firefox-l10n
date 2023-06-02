@@ -679,6 +679,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Пӯшидани «Расм-дар-расм» ({ $shortcut })
 picture-in-picture-panel-header = Расм-дар-расм
 picture-in-picture-panel-headline = Ин сомона истифодаи «Расм-дар-расм»-ро тавсия намедиҳад
+picture-in-picture-panel-body = Вақте ки «Расм-дар-расм» фаъол аст, видеоҳо метавонанд мувофиқи дастури барномасоз намоиш дода нашаванд.
 picture-in-picture-enable-toggle =
     .label = Ба ҳар ҳол фаъол карда шавад
 
