@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (ancian versiones)
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Contrasignos ab file CSV
+migration-wizard-migrator-display-name-file-bookmarks = Marcapaginas de file HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -99,6 +100,7 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualisate
        *[other] { $updatedEntries } actualisate
     }
+migration-bookmarks-from-file-picker-title = Importar file de marcapaginas
 migration-bookmarks-from-file-progress-header = Importation de marcapaginas…
 migration-bookmarks-from-file = Marcapaginas
 migration-bookmarks-from-file-success-header = Marcapaginas importate con successo
