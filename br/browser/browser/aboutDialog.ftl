@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = O klask hizivadennoù…
 update-downloading = <img data-l10n-name="icon"/>O pellgargañ an hizivadenn — <label data-l10n-name="download-status"/>
 update-downloading-message = O pellgargañ an hizivadenn —<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>O pellgargañ an hizivadenn — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Oc’h arloañ an hizivadenn…
 update-failed = C’hwitadenn war an hizivaat. <label data-l10n-name="failed-link">Pellgargañ an handelv diwezhañ</label>
 update-failed-main = C’hwitadenn war an hizivaat. <a data-l10n-name="failed-link-main">Pellgargañ an handelv diwezhañ</a>
@@ -22,9 +30,18 @@ update-noUpdatesFound = Hizivaet eo bet { -brand-short-name }
 update-otherInstanceHandlingUpdates = Emañ { -brand-short-name } o vezañ hizivaet gant un eriol all
 update-manual = Hizivadennoù hegerz e <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Hizivadennoù hegerz e <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Hizivadennoù hegerz e <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Hizivadennoù hegerz e <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ne c’hellit ket arloañ hizivadennoù ouzhpenn war ho reizhiad. <label data-l10n-name="unsupported-link">Gouzout hiroc’h</label>
 update-restarting = Oc’h adloc’hañ…
 channel-description = Oc’h arverañ ar sanell hizivaat <label data-l10n-name="current-channel"></label> emaoc’h bremañ.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Oc’h arverañ ar sanell hizivaat <label data-l10n-name="current-channel">{ $channel }</label> emaoc’h bremañ.
