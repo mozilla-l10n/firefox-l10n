@@ -679,6 +679,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Lat att bilde-i-bilde ({ $shortcut })
 picture-in-picture-panel-header = Bilde-i-bilde
 picture-in-picture-panel-headline = Denne nettstaden tilrår ikkje bilde-i-bilde
+picture-in-picture-panel-body = Det kan hende at videoar ikkje vert vist slik utviklaren hadde tenkt mens bilde-i-bilde er aktivert.
 picture-in-picture-enable-toggle =
     .label = Slå på likevel
 

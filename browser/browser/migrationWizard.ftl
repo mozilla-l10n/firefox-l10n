@@ -104,6 +104,26 @@ migration-bookmarks-from-file-picker-title = Importer bokmerkefil
 migration-bookmarks-from-file-progress-header = Importerer bokmerke
 migration-bookmarks-from-file = Bokmerke
 migration-bookmarks-from-file-success-header = Bokmerka vart importerte
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokument
+       *[other] HTML-fil
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-fil
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } bokmerke
+       *[other] { $newEntries } bokmerke
+    }
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer frå fil
 migration-import-from-file-button-label = Vel fil
