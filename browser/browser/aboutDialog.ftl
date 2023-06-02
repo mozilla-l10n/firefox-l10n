@@ -33,6 +33,8 @@ aboutdialog-update-manual = হালনাগাদ যেখানে পা�
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = হালনাগাদ যেখানে পাওয়া যাবে <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = হালনাগাদ যেখানে পাওয়া যাবে <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = আপনি এই সিস্টেমে আর হালনাগাদ করতে পারবেন না। <label data-l10n-name="unsupported-link">আরও জানুন</label>
 update-restarting = পুনরায় আরম্ভ হচ্ছে…
 channel-description = আপনি বর্তমানে রয়েছেন <label data-l10n-name="current-channel"></label> হালনাগাদ চ্যানেল।
