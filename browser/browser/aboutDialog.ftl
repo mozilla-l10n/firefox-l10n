@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Çerco i agiornamenti…
 update-downloading = <img data-l10n-name="icon"/>Descarego agiornamenti — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Descarego agiornamenti — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Instalaçion de l'agiornamento…
 update-failed = Agiornamento no ariescio. <label data-l10n-name="failed-link">Descarega l'urtima verscion</label>
 update-failed-main = Agiornamento no ariescio. <a data-l10n-name="failed-link-main">Descarega l'urtima verscion</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } o l'é agiornòu
 update-otherInstanceHandlingUpdates = Agiornamento de { -brand-short-name } inte n'atra istansa
 update-manual = I agiornamenti en in <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = I agiornamenti en in <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = I agiornamenti en in <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = I agiornamenti en in <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No l'é poscibile instalâ atri agiornamenti in sce sto scistema.<label data-l10n-name="unsupported-link">Atre informaçioin</label>
 update-restarting = Arvo torna…
 channel-description = Òua ti ê into canâ de agiornamento <label data-l10n-name="current-channel"></label>.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Òua ti ê into canâ de agiornamento <label data-l10n-name="current-channel">{ $channel }</label>.
