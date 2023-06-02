@@ -19,6 +19,7 @@ update-downloading-message = Yangilanish yuklab olinmoqda — <label data-l10n-n
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Yangilanish yuklab olinmoqda —<label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Yangilanish yuklab olinmoqda — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
