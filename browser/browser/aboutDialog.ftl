@@ -27,6 +27,7 @@ update-downloading-message = Stahování aktualizace — <label data-l10n-name="
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Stahování aktualizace — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Stahování aktualizace — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
