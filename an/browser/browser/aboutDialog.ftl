@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Comprebando as actualizacions…
 update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status"/>
 update-downloading-message = Se ye baixando l'actualización — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Se ye esviellando…
 update-failed = L'actualización ha fallau. <label data-l10n-name="failed-link">Descargar a zaguera versión</label>
 update-failed-main = L'actualización ha fallau. <a data-l10n-name="failed-link-main">Descargar a zaguera versión</a>
@@ -22,9 +30,18 @@ update-noUpdatesFound = { -brand-short-name } ye esviellau
 update-otherInstanceHandlingUpdates = Unatra instancia ye esviellando { -brand-short-name }
 update-manual = Actualización disponible en <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Actualización disponible en <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Actualización disponible en <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Actualización disponible en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Iste sistema ya no se puede esviellar mas. <label data-l10n-name="unsupported-link">Saber-ne mas</label>
 update-restarting = Se ye reiniciando…
 channel-description = Ye fendo servir a canal <label data-l10n-name="current-channel"></label> d'actualizacions.{ " " }
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Ye fendo servir a canal <label data-l10n-name="current-channel">{ $channel }</label> d'actualizacions.
