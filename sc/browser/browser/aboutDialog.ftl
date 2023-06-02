@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Controllende is atualizatziones…
 update-downloading = <img data-l10n-name="icon"/>Iscarrighende atualizatziones — <label data-l10n-name="download-status"/>
 update-downloading-message = Carrighende s'atualizatzione — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Iscarrighende atualizatziones — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Carrighende s'atualizatzione — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Aplichende s'atualizatzione…
 update-failed = Atualizatzione faddida. <label data-l10n-name="failed-link">Iscàrriga s'ùrtima versione</label>
 update-failed-main = Atualizatzione faddida. <a data-l10n-name="failed-link-main">Iscàrriga s'ùrtima versione</a>
@@ -23,10 +32,20 @@ aboutdialog-update-checking-failed = Faddina in su controllu de atualizatziones.
 update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -brand-short-name }
 update-manual = Atualizatziones a disponimentu in <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Atualizatziones a disponimentu in <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Atualizatziones a disponimentu in <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Atualizatziones a disponimentu in <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No podes agiornare custu sistema. <label data-l10n-name="unsupported-link">Leghe àteru</label>
 update-restarting = Torrende a aviare
-update-internal-error = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <label data-l10n-name="manual-link"/>
 channel-description = Immoe ses in su canale <label data-l10n-name="current-channel"></label> de atualizatziones.
+update-internal-error = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <label data-l10n-name="manual-link"/>
+update-internal-error2 = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <label data-l10n-name="manual-link">{ $displayUrl }</label>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Immoe ses in su canale <label data-l10n-name="current-channel">{ $channel }</label> de atualizatziones.
