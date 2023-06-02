@@ -680,6 +680,7 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = تصویر وچ تصویر ({ $shortcut }) کھولو
 picture-in-picture-urlbar-button-close =
     .tooltiptext = تصویر وچ تصویر ({ $shortcut }) بند کرو
+picture-in-picture-panel-header = تصویر وِچ تصویر
 
 ## Full Screen and Pointer Lock UI
 

@@ -27,11 +27,14 @@ translations-panel-error-dismiss-button =
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+translations-panel-choose-language =
+    .label = زبان چݨو
 translations-panel-restore-button =
     .label = اصل ݙکھاؤ
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = ترجمے
 translations-manage-settings-button =
     .label = ترتیباں …
     .accesskey = t
@@ -40,6 +43,11 @@ translations-manage-download-button = ڈاؤن لوڈ
 translations-manage-delete-button = مٹاؤ
 translations-settings-close-key =
     .key = w
+translations-settings-sites-column =
+    .label = ویب سائٹاں
+translations-settings-remove-site-button =
+    .label = سائٹ ہٹاؤ
+    .accesskey = S
 translations-settings-close-dialog =
     .buttonlabelaccept = بند کرو
     .buttonaccesskeyaccept = C

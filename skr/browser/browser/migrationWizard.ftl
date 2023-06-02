@@ -98,6 +98,17 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } اپ ڈیٹ تھیا
        *[other] { $updatedEntries } اپ ڈیٹ تھئے
     }
+migration-bookmarks-from-file = نشانیاں
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } نشانی
+       *[other] { $newEntries } نشانیاں
+    }
 migration-import-button-label = درآمد کرو
 migration-choose-to-import-from-file-button-label = فائل کنوں امپورٹ کرو
 migration-import-from-file-button-label = فائل چݨو
@@ -183,4 +194,3 @@ migration-wizard-progress-success-formdata = فارم تاریخ
 migration-wizard-safari-permissions-sub-header = سفاری نشانیاں تے براؤزنگ تاریخ امپورٹ کرݨ کیتے:
 migration-wizard-safari-instructions-continue = ” جاری” چݨو
 migration-wizard-safari-instructions-folder = تندیر وچ Safari فولڈر چݨو تے "کھولو" چݨو
-migration-wizard-safari-select-button = فائل چݨو
