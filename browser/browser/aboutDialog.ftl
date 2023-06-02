@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = กำลังตรวจสอบการอัปเดต…
 update-downloading = <img data-l10n-name="icon"/>กำลังดาวน์โหลดการอัปเดต — <label data-l10n-name="download-status"/>
 update-downloading-message = กำลังดาวน์โหลดอัปเดต — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>กำลังดาวน์โหลดการอัปเดต — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = กำลังติดตั้งการอัปเดต…
 update-failed = การอัปเดตล้มเหลว <label data-l10n-name="failed-link">ดาวน์โหลดรุ่นล่าสุด</label>
 update-failed-main = การอัปเดตล้มเหลว <a data-l10n-name="failed-link-main">ดาวน์โหลดรุ่นล่าสุด</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = ไม่สามารถตรวจห�
 update-otherInstanceHandlingUpdates = { -brand-short-name } กำลังถูกอัปเดตโดยอินสแตนซ์อื่น
 update-manual = มีการอัปเดตที่ <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = มีการอัปเดตที่ <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = มีการอัปเดตที่ <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = มีการอัปเดตที่ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = คุณไม่สามารถดำเนินการอัปเดตเพิ่มเติมในระบบนี้ได้ <label data-l10n-name="unsupported-link">เรียนรู้เพิ่มเติม</label>
 update-restarting = กำลังเริ่มการทำงานใหม่…
-update-internal-error = ไม่สามารถตรวจสอบการอัพเดตได้เนื่องจากมีข้อผิดพลาดภายใน การอัพเดตมีอยู่ที่ <label data-l10n-name="manual-link"/>
 channel-description = คุณกำลังอยู่บนช่องทางการอัปเดต <label data-l10n-name="current-channel"></label>
+update-internal-error = ไม่สามารถตรวจสอบการอัพเดตได้เนื่องจากมีข้อผิดพลาดภายใน การอัพเดตมีอยู่ที่ <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = คุณกำลังอยู่บนช่องทางการอัปเดต <label data-l10n-name="current-channel">{ $channel }</label>
