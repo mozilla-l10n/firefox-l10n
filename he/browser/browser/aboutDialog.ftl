@@ -19,6 +19,7 @@ update-downloading-message = העדכון בהורדה — <label data-l10n-name
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>העדכון בהורדה — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = העדכון בהורדה — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = לא ניתן לבצע עדכונים נוספים במער
 update-restarting = מתבצעת הפעלה מחדש…
 channel-description = כרגע על ערוץ העדכונים <label data-l10n-name="current-channel"></label>.{ "  " }
 update-internal-error = לא ניתן היה לבדוק אחר עדכונים עקב שגיאה פנימית. עדכונים זמינים ב־<label data-l10n-name="manual-link"/>
+update-internal-error2 = לא ניתן היה לבדוק אחר עדכונים עקב שגיאה פנימית. עדכונים זמינים ב־<label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
