@@ -19,6 +19,7 @@ update-downloading-message = 正在下載更新 — <label data-l10n-name="downl
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>正在下載更新 — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = 正在下載更新 — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -36,10 +37,12 @@ aboutdialog-update-manual = <a data-l10n-name="manual-link"/> 已有可用更新
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
 aboutdialog-update-manual-with-link = 可用的更新位於 <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = <a data-l10n-name="manual-link">{ $displayUrl }</a> 已有可用更新
 update-unsupported = 您無法在此系統上進行後續更新。<label data-l10n-name="unsupported-link">詳細資訊</label>
 update-restarting = 重新啟動中…
 channel-description = 您目前正使用 <label data-l10n-name="current-channel"></label> 更新頻道。
 update-internal-error = 發生內部錯誤，無法檢查更新。可到下列網址下載 <label data-l10n-name="manual-link"/>
+update-internal-error2 = 發生內部錯誤，無法檢查更新。可到下列網址下載 <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
