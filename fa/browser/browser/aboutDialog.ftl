@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = بررسی برای به‌روز رسانی‌ها…
 update-downloading = <img data-l10n-name="icon"/>بار گرفتن به‌روز رسانی — <label data-l10n-name="download-status"/>
 update-downloading-message = بار گرفتن به‌روز رسانی — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = اعمال کردن به‌‌روز رسانی…
 update-failed = به‌روزرسانی شکست خورد. <label data-l10n-name="failed-link">جدیدترین نگارش را بارگیری کنید</label>
 update-failed-main = به‌روزرسانی شکست خورد. <a data-l10n-name="failed-link-main">جدیدترین نگارش را بارگیری کنید</a>
@@ -23,10 +30,18 @@ aboutdialog-update-checking-failed = بررسی برای به‌روزرسانی
 update-otherInstanceHandlingUpdates = { -brand-short-name } دارد از نمونهٔ دیگری به‌روز می‌شود
 update-manual = به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
 aboutdialog-update-manual = به‌روز رسانی‌ها در <a data-l10n-name="manual-link"/> موجودند
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = روی این سامانه نمی‌توانید بیش از این به‌روز کنید. <label data-l10n-name="unsupported-link">بیشتر بدانید</label>
 update-restarting = اجرا کردن دوباره…
-update-internal-error = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
 channel-description = در حال حاضر در کانل بروزرسانی <label data-l10n-name="current-channel"></label> هستید.
+update-internal-error = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
+update-internal-error2 = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <label data-l10n-name="manual-link">{ $displayUrl }</label> موجودند
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = در حال حاضر در کانل بروزرسانی <label data-l10n-name="current-channel">{ $channel }</label> هستید.
