@@ -19,6 +19,7 @@ update-downloading-message = Gamo ngec manyen — <label data-l10n-name="downloa
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Tye kagamo ngec — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Gamo ngec manyen — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
