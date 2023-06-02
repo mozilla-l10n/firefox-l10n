@@ -18,6 +18,8 @@ update-downloading-message = بار گرفتن به‌روز رسانی — <lab
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>بار گرفتن به‌روز رسانی — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = بار گرفتن به‌روز رسانی — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -34,6 +36,8 @@ aboutdialog-update-manual = به‌روز رسانی‌ها در <a data-l10n-na
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = به‌روز رسانی‌ها در <label data-l10n-name="manual-link">{ $displayUrl }</label> موجودند
+settings-update-manual-with-link = به‌روز رسانی‌ها در <a data-l10n-name="manual-link">{ $displayUrl }</a> موجودند
 update-unsupported = روی این سامانه نمی‌توانید بیش از این به‌روز کنید. <label data-l10n-name="unsupported-link">بیشتر بدانید</label>
 update-restarting = اجرا کردن دوباره…
 channel-description = در حال حاضر در کانل بروزرسانی <label data-l10n-name="current-channel"></label> هستید.
