@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = अद्यावधिकहरुकका लागि जाँच गरिँदै छ…
 update-downloading = <img data-l10n-name="icon"/>अद्यावधिकहरू डाउनलोड हुदैँछन् — <label data-l10n-name="download-status"/>
 update-downloading-message = अपडेट डाउनलोड हुँदै छन् — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>अद्यावधिकहरू डाउनलोड हुदैँछन् — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = अद्यावधिक लागू गरिँदै…
 update-failed = अद्यावधिक असफल भयो। <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड गर्नुहोस्</label>
 update-failed-main = अद्यावधिक असफल भयो। <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड गर्नुहोस्</a>
@@ -22,10 +30,17 @@ update-noUpdatesFound = { -brand-short-name } नयाँ संस्करण
 update-otherInstanceHandlingUpdates = { -brand-short-name } लाई अर्को सत्रले अद्यावधिक गर्दैछ
 update-manual = अद्यावधिकहरू यहाँ उपलब्ध छन् <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = अद्यावधिकहरू यहाँ उपलब्ध छन् <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = यो प्रणालीमा तपाईँले अरू अद्यावधिकहरू गर्न सक्नुहुँन्न।<label data-l10n-name="unsupported-link">थप जान्नुहोस्</label>
 update-restarting = पुनःसुरु गरिँदै…
-update-internal-error = आन्तरिक त्रुटिको कारण अद्यावधिकहरू जाँच गर्न मिलेन । अपडेटहरू <label data-l10n-name="manual-link"/> मा उपलब्ध छन्
 channel-description = तपाईँ अहिले भएको स्थान <label data-l10n-name="current-channel"></label> अद्यावधिक प्रणालीमा हुनुहुन्छ।
+update-internal-error = आन्तरिक त्रुटिको कारण अद्यावधिकहरू जाँच गर्न मिलेन । अपडेटहरू <label data-l10n-name="manual-link"/> मा उपलब्ध छन्
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = तपाईँ अहिले भएको स्थान <label data-l10n-name="current-channel">{ $channel }</label> अद्यावधिक प्रणालीमा हुनुहुन्छ।
