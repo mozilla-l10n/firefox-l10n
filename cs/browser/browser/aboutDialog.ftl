@@ -22,6 +22,14 @@ update-updateButton =
 update-checkingForUpdates = Kontrola aktualizací…
 update-downloading = <img data-l10n-name="icon"/>Stahování aktualizace — <label data-l10n-name="download-status"/>
 update-downloading-message = Stahování aktualizace — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Stahování aktualizace — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Probíhá aktualizace…
 update-failed = Aktualizace selhala. <label data-l10n-name="failed-link">Stáhnout nejnovější verzi</label>
 update-failed-main = Aktualizace selhala. <a data-l10n-name="failed-link-main">Stáhnout nejnovější verzi</a>
@@ -37,10 +45,20 @@ update-otherInstanceHandlingUpdates =
     }
 update-manual = Aktualizace jsou dostupné na <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Aktualizace jsou dostupné na <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Aktualizace jsou dostupné na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Aktualizace jsou dostupné na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Na tomto systému nelze provádět další aktualizace. <label data-l10n-name="unsupported-link">Zjistit více</label>
 update-restarting = Restartování…
 channel-description = Používáte aktualizační kanál <label data-l10n-name="current-channel"></label>.
 update-internal-error = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na adrese <label data-l10n-name="manual-link"/>
+update-internal-error2 = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na adrese <label data-l10n-name="manual-link">{ $displayUrl }</label>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Používáte aktualizační kanál <label data-l10n-name="current-channel">{ $channel }</label>.
