@@ -120,3 +120,12 @@ tabbrowser-tab-audio-playing-description = 오디오 재생
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = 전체 탭 { $tabCount }개 목록
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = 탭 음소거
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = 탭 음소거 해제
+tabbrowser-manager-close-tab =
+    .tooltiptext = 탭 닫기
