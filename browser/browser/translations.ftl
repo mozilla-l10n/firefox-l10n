@@ -76,6 +76,7 @@ translations-manage-settings-button =
     .accesskey = n
 translations-manage-description = Last ned språk for fråkopla-omsetting.
 translations-manage-all-language = Alle språk
+translations-manage-download-button = Last ned
 translations-manage-delete-button = Slett
 translations-settings-languages-column =
     .label = Språk
