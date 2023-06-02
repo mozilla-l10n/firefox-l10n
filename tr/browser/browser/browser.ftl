@@ -681,6 +681,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Görüntü içinde görüntüyü kapat ({ $shortcut })
 picture-in-picture-panel-header = Görüntü içinde görüntü
 picture-in-picture-panel-headline = Bu web sitesi görüntü içinde görüntüyü önermiyor
+picture-in-picture-panel-body = Görüntü içinde görüntüyü açarsanız videolar geliştiricinin amaçladığı gibi görünmeyebilir.
 picture-in-picture-enable-toggle =
     .label = Yine de etkinleştir
 
