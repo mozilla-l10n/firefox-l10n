@@ -19,6 +19,7 @@ update-downloading-message = Ĝisdatigo elŝutata —<label data-l10n-name="down
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Ĝisdatigo elŝutata — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Ĝisdatigo elŝutata —<label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Vi ne plu povas ĝisdatigi en tiu ĉi sistemo. <label data-
 update-restarting = Restarto…
 channel-description = Vi nun estas en la ĝisdatiga kanalo <label data-l10n-name="current-channel"></label>.{ " " }
 update-internal-error = Pro interna eraro ne eblas kontroli ĉu estas ĝisdatigoj. Ĝisdatigoj haveblas ĉe <label data-l10n-name="manual-link"/>
+update-internal-error2 = Pro interna eraro ne eblas kontroli ĉu estas ĝisdatigoj. Ĝisdatigoj haveblas ĉe <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
