@@ -8,6 +8,17 @@ urlbar-translations-button =
 
 ## Options in the Firefox Translations settings.
 
+translations-panel-settings-manage-languages =
+    .label = Správa jazyků
+translations-panel-settings-always-translate-unknown-language =
+    .label = Vždy překládat z tohoto jazyka
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = Nikdy nepřekládat z jazyka { $language }
+translations-panel-settings-never-translate-unknown-language =
+    .label = Nikdy nepřekládat tento jazyk
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nikdy nepřekládat tuto stránku
@@ -40,6 +51,14 @@ translations-panel-to-label = Překlad do
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+translations-panel-choose-language =
+    .label = Zvolit jazyk
+translations-panel-restore-button =
+    .label = Zobrazit původní
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Překlady
+translations-manage-settings-button =
+    .label = Nastavení…
+    .accesskey = t

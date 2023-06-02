@@ -182,3 +182,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Zobrazit všechny { $tabCount } panely
            *[other] Zobrazit všech { $tabCount } panelů
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Vypne zvuk panelu
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Zapne zvuk panelu
+tabbrowser-manager-close-tab =
+    .tooltiptext = Zavře panel
