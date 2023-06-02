@@ -165,3 +165,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Показати всі { $tabCount } вкладки
            *[many] Показати всі { $tabCount } вкладок
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Вимкнути звук вкладки
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Увімкнути звук вкладки
+tabbrowser-manager-close-tab =
+    .tooltiptext = Закрити вкладку
