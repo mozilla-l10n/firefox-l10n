@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Remote debugging inschakelen
 options-enable-remote-tooltip2 =
     .title = Door deze optie in te schakelen kunt u deze browserinstallatie op afstand debuggen
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Gebruik de F12-toets om DevTools te openen of te sluiten
+options-enable-f12-tooltip =
+    .title = Als u deze optie inschakelt, wordt de F12-toets gekoppeld om de DevTools-toolbox te openen of te sluiten
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Aangepaste opmaakelementen inschakelen
 options-enable-custom-formatters-tooltip =
