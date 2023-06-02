@@ -684,6 +684,10 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Адкрыць "выяву ў выяве" ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Закрыць "выяву ў выяве" ({ $shortcut })
+picture-in-picture-panel-header = Выява ў выяве
+picture-in-picture-panel-headline = Гэты сайт не рэкамендуе функцыю «Выява ў выяве».
+picture-in-picture-enable-toggle =
+    .label = Усё роўна ўключыць
 
 ## Full Screen and Pointer Lock UI
 

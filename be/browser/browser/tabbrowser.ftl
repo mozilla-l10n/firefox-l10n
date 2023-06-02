@@ -165,3 +165,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Улічыць усе { $tabCount } карткі
            *[many] Улічыць усе { $tabCount } картак
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Сцішыць картку
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Раз-цішыць картку
+tabbrowser-manager-close-tab =
+    .tooltiptext = Закрыць картку
