@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Nana yiyloo ɓeyditte…
 update-downloading = <img data-l10n-name="icon"/>Gaawtagol kesɗitinal — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Gaawtagol kesɗitinal — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Nana jammina kesɗitinal…
 update-failed = Kesɗitingol jaccii. <label data-l10n-name="failed-link">Aawto yamre sakkitiinde ndee</label>
 update-failed-main = Kesɗitingol jaccii. <a data-l10n-name="failed-link-main">Aawto yamre sakkitiinde ndee</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } hesɗitii
 update-otherInstanceHandlingUpdates = { -brand-short-name } woni ko e hesɗitineede e cilol goɗngol
 update-manual = Kesɗitine ena keɓoo to <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Kesɗitine ena keɓoo to <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Kesɗitine ena keɓoo to <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Kesɗitine ena keɓoo to <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Yamre wattiniinde waawaa heɓaade e ngoo yuɓɓo. <label data-l10n-name="unsupported-link">Ɓeydu humpito</label>
 update-restarting = Nana Hurmita
 channel-description = Ngon-ɗaa jooni ko e belgol kesɗitingol yamre <label data-l10n-name="current-channel"></label>hesɗitingol ceen
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Ngon-ɗaa jooni ko e belgol kesɗitingol yamre <label data-l10n-name="current-channel">{ $channel }</label>hesɗitingol ceen
