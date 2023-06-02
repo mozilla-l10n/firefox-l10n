@@ -6,6 +6,14 @@ aboutDialog-title =
     .title = Kuhusu { -brand-full-name }
 update-checkingForUpdates = Inakagua visasisho…
 update-downloading = <img data-l10n-name="icon"/>Inapakua kisasisho —<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Inapakua kisasisho —<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Inatekeleza kisasisho…
 update-failed = Imeshindwa kusasisha. <label data-l10n-name="failed-link">Pakua toleo jipya</label>
 update-failed-main = Imeshindwa kusasisha. <a data-l10n-name="failed-link-main">Pakua toleo jipya</a>
@@ -14,9 +22,18 @@ update-noUpdatesFound = { -brand-short-name } imesasishwa
 update-otherInstanceHandlingUpdates = { -brand-short-name } inasasishwa na tukio lingine
 update-manual = Visasisho vinapatikana kwa<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Visasisho vinapatikana kwa<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Visasisho vinapatikana kwa<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Visasisho vinapatikana kwa<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Huwezi kutekeleza visasisho zaidi kwenye mfumo huu.<label data-l10n-name="unsupported-link">Jifunze zaidi</label>
 update-restarting = Inaanzishwa tena
 channel-description = Kwa sasa uko kwenye<label data-l10n-name="current-channel"></label> sasisha idhaa.{ " " }
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Kwa sasa uko kwenye<label data-l10n-name="current-channel">{ $channel }</label> sasisha idhaa.{ " " }
