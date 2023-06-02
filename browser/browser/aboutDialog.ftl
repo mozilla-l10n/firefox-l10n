@@ -19,6 +19,7 @@ update-downloading-message = განახლების ჩამოტვ�
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>განახლების ჩამოტვირთვა — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = განახლების ჩამოტვირთვა — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = თქვენ ამ სისტემაზე და�
 update-restarting = ეშვება ხელახლა…
 channel-description = თქვენ ამჟამად იყენებთ განახლების <label data-l10n-name="current-channel"></label>-არხს.
 update-internal-error = ვერ მოწმდება განახლებებზე შიდა შეცდომის გამო. ხელით განახლებისთვის იხილეთ <label data-l10n-name="manual-link"/>
+update-internal-error2 = ვერ მოწმდება განახლებებზე შიდა შეცდომის გამო. ხელით განახლებისთვის იხილეთ <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
