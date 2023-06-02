@@ -10,6 +10,14 @@ update-checkForUpdatesButton =
     .accesskey = T
 update-checkingForUpdates = E tlhola ditlhabololo...
 update-downloading = <img data-l10n-name="icon"/>Taisilolo ya tlhabololo —<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Taisilolo ya tlhabololo —<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Tiriso Tlhabololo...
 update-failed = Tlhabololo e retetse.<label data-l10n-name="failed-link">Kopolola mofuta wa bosheng</label>
 update-failed-main = Tlhabololo e retetse.<a data-l10n-name="failed-link-main">Kopolola mofuta wa bosheng</a>
@@ -18,8 +26,17 @@ update-noUpdatesFound = { -brand-short-name } e tlhabolotswe
 update-otherInstanceHandlingUpdates = { -brand-short-name } e tlhabololwa ke leloko le lengwe
 update-manual = Ditlhabololo di bonwa ko<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Ditlhabololo di bonwa ko<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Ditlhabololo di bonwa ko<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Ditlhabololo di bonwa ko<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = O ka se diragatse ditlhabololo tse di tetang selekanyo mo mafaratlhatlheng a.<label data-l10n-name="unsupported-link">Ithute go le gontsi</label>
 channel-description = O santse o le mo<label data-l10n-name="current-channel"></label>mosele wa tlhabololo.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = O santse o le mo<label data-l10n-name="current-channel">{ $channel }</label>mosele wa tlhabololo.
