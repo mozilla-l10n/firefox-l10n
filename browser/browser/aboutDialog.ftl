@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = მიმდინარეობს განახლებების შემოწმება...
 update-downloading = <img data-l10n-name="icon"/>განახლების ჩამოტვირთვა — <label data-l10n-name="download-status"/>
 update-downloading-message = განახლების ჩამოტვირთვა — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = განახლების ამოქმედება…
 update-failed = განახლება ვერ მოხერხდა. <label data-l10n-name="failed-link">უახლესი ვერსიის ჩამოტვირთვა</label>
 update-failed-main = განახლება ვერ მოხერხდა. <a data-l10n-name="failed-link-main">უახლესი ვერსიის ჩამოტვირთვა</a>
@@ -23,10 +30,19 @@ aboutdialog-update-checking-failed = განახლებების შე
 update-otherInstanceHandlingUpdates = { -brand-short-name } უკვე ახლდება
 update-manual = განახლებები ხელმისაწვდომია <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = განახლებები ხელმისაწვდომია <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = განახლებები ხელმისაწვდომია <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = განახლებები ხელმისაწვდომია <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = თქვენ ამ სისტემაზე დამატებითი განახლებების შესრულებაც შეგიძლიათ. <label data-l10n-name="unsupported-link">ვრცლად</label>
 update-restarting = ეშვება ხელახლა…
-update-internal-error = ვერ მოწმდება განახლებებზე შიდა შეცდომის გამო. ხელით განახლებისთვის იხილეთ <label data-l10n-name="manual-link"/>
 channel-description = თქვენ ამჟამად იყენებთ განახლების <label data-l10n-name="current-channel"></label>-არხს.
+update-internal-error = ვერ მოწმდება განახლებებზე შიდა შეცდომის გამო. ხელით განახლებისთვის იხილეთ <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = თქვენ ამჟამად იყენებთ განახლების <label data-l10n-name="current-channel">{ $channel }</label>-არხს.
