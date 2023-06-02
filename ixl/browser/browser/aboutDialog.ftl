@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Ile' ni pich'u asoj at chit ka't b'anb'al tuche'…
 update-downloading = <img data-l10n-name="icon"/>Ile' ni teq'o ku'tzan ti' ib'anax tuche' — <label data-l10n-name="download-status"/>
 update-downloading-message = Il u b'anb'al tetz ile' ni teq'o ku'tzan —<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Ile' ni teq'o ku'tzan ti' ib'anax tuche' — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Ile' toksa ve't ok u b'anb'al tuche'…
 update-failed = Kat yan ib'anax tuche'. <label data-l10n-name="failed-link">Eq'o ku'tzan uve' a'n chit atoke</label>
 update-failed-main = Kat yan ib'anax tuche'. <a data-l10n-name="failed-link-main">Eq'o ku'tzan uve' a'nnal kuxh ib'anax tuche'</a>
@@ -22,9 +30,16 @@ update-noUpdatesFound = { -brand-short-name } ile' b'a'n ve't tatine'
 update-otherInstanceHandlingUpdates = { -brand-short-name } ile' ni b'anpu tuche' ta'n uma't lochb'al
 update-manual = La uch ib'anax b'a'n stej tzitza' <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = La uch ib'anax b'a'n stej tzitza' <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = Ye' la uch ayakeb' ve't ti' ib'anat b'a'n stej tzitza'. <label data-l10n-name="unsupported-link">Ootzi ka'te</label>
 update-restarting = Ile' ni xe'tisa unpajte…
 channel-description = Ile' b'anel ve't kan tuche' tu b'anb'al tatine' <label data-l10n-name="current-channel"> </label> ti' ib'anax b'a'n stej.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Ile' b'anel ve't kan tuche' tu b'anb'al tatine' <label data-l10n-name="current-channel"> </label> ti' ib'anax b'a'n stej.
