@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Forritsaukinn getur ekki lesið og breytt gögnum
+origin-controls-quarantined =
+    .label = Viðbót er ekki leyft að lesa og breyta gögnum
 origin-controls-options =
     .label = Forritsaukinn getur lesið og breytt gögnum:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Getur ekki lesið og breytt gögnum á þessu vefsvæði
+origin-controls-state-quarantined = Ekki leyft af { -vendor-short-name } á þessu vefsvæði
 origin-controls-state-always-on = Getur alltaf lesið og breytt gögnum á þessu vefsvæði
 origin-controls-state-when-clicked = Heimild þarf til að lesa og breyta gögnum
 origin-controls-state-hover-run-visit-only = Keyra aðeins fyrir þessa heimsókn

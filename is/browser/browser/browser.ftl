@@ -680,6 +680,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Opna mynd-í-mynd ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Loka mynd-í-mynd ({ $shortcut })
+picture-in-picture-panel-header = Mynd-í-mynd
+picture-in-picture-panel-headline = Þetta vefsvæði mælir ekki með mynd-í-mynd
+picture-in-picture-panel-body = Myndskeið birtast kannski ekki eins og hönnuðir ætluðu sér á meðan kveikt er á mynd-í-mynd.
+picture-in-picture-enable-toggle =
+    .label = Virkja samt
 
 ## Full Screen and Pointer Lock UI
 

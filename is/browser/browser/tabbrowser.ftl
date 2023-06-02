@@ -148,3 +148,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [one] Birta alla { $tabCount } flipa
            *[other] Birta alla { $tabCount } flipa
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Slökkva á hljóði í flipa
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Kveikja á hljóði í flipa
+tabbrowser-manager-close-tab =
+    .tooltiptext = Loka flipa

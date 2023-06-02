@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge eldri útgáfa
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Lykilorð úr CSV-skrá
+migration-wizard-migrator-display-name-file-bookmarks = Bókamerki úr HTML-skrá
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } uppfært
        *[other] { $updatedEntries } uppfærð
+    }
+migration-bookmarks-from-file-picker-title = Flytja inn bókamerkjaskrá
+migration-bookmarks-from-file-progress-header = Flyt inn bókamerki
+migration-bookmarks-from-file = Bókamerki
+migration-bookmarks-from-file-success-header = Tókst að flytja inn bókamerki
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-skjal
+       *[other] HTML-skrá
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-skrá
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } bókamerki
+       *[other] { $newEntries } bókamerki
     }
 migration-import-button-label = Flytja inn
 migration-choose-to-import-from-file-button-label = Flytja inn úr skrá
@@ -195,4 +220,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Til að flytja inn Safari-bókamerki og vafurferil:
 migration-wizard-safari-instructions-continue = Veldu „Áfram“
 migration-wizard-safari-instructions-folder = Veldu Safari-möppu á listanum og veldu „Opna“
-migration-wizard-safari-select-button = Veldu skrá
