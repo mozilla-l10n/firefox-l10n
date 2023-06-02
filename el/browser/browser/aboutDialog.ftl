@@ -18,6 +18,8 @@ update-downloading-message = Λήψη ενημέρωσης — <label data-l10n-
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Λήψη ενημέρωσης — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Λήψη ενημέρωσης — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -40,6 +42,7 @@ update-unsupported = Δεν μπορείτε να εκτελέσετε περα�
 update-restarting = Επανεκκίνηση…
 channel-description = Αυτήν τη στιγμή, βρίσκεστε στο κανάλι ενημερώσεων της έκδοσης <label data-l10n-name="current-channel"></label>.
 update-internal-error = Δεν είναι δυνατός ο έλεγχος για ενημερώσεις λόγω εσωτερικού σφάλματος. Οι ενημερώσεις διατίθενται στο <label data-l10n-name="manual-link"/>
+update-internal-error2 = Δεν είναι δυνατός ο έλεγχος για ενημερώσεις λόγω εσωτερικού σφάλματος. Οι ενημερώσεις διατίθενται στο <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
