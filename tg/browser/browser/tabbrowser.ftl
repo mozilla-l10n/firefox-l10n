@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Пахши аудио
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Рӯйхати пурра бо { $tabCount } варақа
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Хомӯш кардани садо дар варақа
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Фаъол кардани садо дар варақа
+tabbrowser-manager-close-tab =
+    .tooltiptext = Пӯшидани варақа

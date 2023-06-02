@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Бе�
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Ниҳонвожаҳо аз файли CSV
+migration-wizard-migrator-display-name-file-bookmarks = Хатбаракҳо аз файли HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } навсозӣ карда шуд
        *[other] { $updatedEntries } навсозӣ карда шуданд
+    }
+migration-bookmarks-from-file-picker-title = Ворид кардани файли хатбаракҳо
+migration-bookmarks-from-file-progress-header = Воридоти хатбаракҳо
+migration-bookmarks-from-file = Хатбаракҳо
+migration-bookmarks-from-file-success-header = Хатбаракҳо бо муваффақият ворид карда шуданд
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Ҳуҷҷати HTML
+       *[other] Файли HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Файли JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } хатбарак
+       *[other] { $newEntries } хатбарак
     }
 migration-import-button-label = Ворид кардан
 migration-choose-to-import-from-file-button-label = Ворид кардан аз файл
@@ -195,4 +220,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Барои ворид кардани хатбаракҳо ва таърихи тамошокунии «Safari»:
 migration-wizard-safari-instructions-continue = «Идома додан»-ро интихоб намоед
 migration-wizard-safari-instructions-folder = Ҷузвдони «Safari»-ро аз рӯйхат интихоб карда, имкони «Кушодан»-ро интихоб намоед
-migration-wizard-safari-select-button = Интихоби файл
