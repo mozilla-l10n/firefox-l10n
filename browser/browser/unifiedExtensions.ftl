@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Posunout výše
 unified-extensions-context-menu-move-widget-down =
     .label = Posunout níže
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Některá rozšíření nejsou povolena
