@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Ստուգումն արդիացմանց
 update-downloading = <img data-l10n-name="icon"/>Ներբեռնումն արդիացման — <label data-l10n-name="download-status"/>
 update-downloading-message = Ներբեռնումն արդիացման — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Ներբեռնումն արդիացման — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Ներբեռնումն արդիացման — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Գործադրումն արդիացման…
 update-failed = Արդիացումն տապալեցաւ <label data-l10n-name="failed-link">Ներբեռնել զվերջին տարբերակն</label>
 update-failed-main = Արդիացումն տապալեցաւ։ <a data-l10n-name="failed-link-main">Ներբեռնել զվերջին տարբերակն</a>
@@ -22,9 +31,18 @@ update-noUpdatesFound = { -brand-short-name } արդիական է։
 update-otherInstanceHandlingUpdates = { -brand-short-name } արդիացուցանի այժմ ի ձեռն այղոյ իրիք
 update-manual = Արդիացմունք հասանելիք ի <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Արդիացմունք հասանելիք ի <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Արդիացմունք հասանելիք ի <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Արդիացմունք հասանելիք ի <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ոչ կարես առնել զյետագայ արդիացմունս համակարգիս այսորիկ։ <label data-l10n-name="unsupported-link">Հանգամանաւրէն</label>
 update-restarting = Վերամեկնարկումն
 channel-description = Այժմուս կաս ի <label data-l10n-name="current-channel"></label> արդիացման խուղակի։
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Այժմուս կաս ի <label data-l10n-name="current-channel">{ $channel }</label> արդիացման խուղակի։
