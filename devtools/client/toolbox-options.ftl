@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = 啟用遠端除錯
 options-enable-remote-tooltip2 =
     .title = 開啟此選項後，將允許從遠端對此瀏覽器除錯
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = 使用 F12 鍵開啟或關閉開發者工具
+options-enable-f12-tooltip =
+    .title = 開啟此選項後，將綁定 F12 鍵來開關開發者工具箱
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = 啟用自訂格式化套件
 options-enable-custom-formatters-tooltip =
