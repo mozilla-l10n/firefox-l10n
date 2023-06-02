@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = កំពុង​ពិនិត្យរកមើល​បច្ចុប្បន្នភាព...
 update-downloading = <img data-l10n-name="icon"/>កំពុង​ទាញ​យក​បច្ចុប្បន្នភាព—  <label data-l10n-name="download-status"/>
 update-downloading-message = កំពុង​ទាញយក​បច្ចុប្បន្នភាព — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>កំពុង​ទាញ​យក​បច្ចុប្បន្នភាព—  <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = កំពុង​អនុវត្ត​បច្ចុប្បន្នភាព...
 update-failed = ការ​ធ្វើ​បច្ចុប្បន្នភាព​បាន​បរាជ័យ។ <label data-l10n-name="failed-link">ទាញ​យក​កំណែ​ថ្មី​បំផុត</label>
 update-failed-main = ការ​ធ្វើ​បច្ចុប្បន្នភាព​បាន​បរាជ័យ។ <a data-l10n-name="failed-link-main">ទាញ​យក​កំណែ​ថ្មី​បំផុត</a>
@@ -23,10 +31,17 @@ aboutdialog-update-checking-failed = មិនអាច​ពិនិត្យ�
 update-otherInstanceHandlingUpdates = { -brand-short-name } កំពុង​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​​ធាតុ​ផ្សេង
 update-manual = បច្ចុប្បន្នភាព​មាន​នៅ <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = បច្ចុប្បន្នភាព​មាន​នៅ <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = អ្នក​មិន​អាច​ធ្វើ​បច្ចុប្បន្នភាព​បន្ថែម​ទៀត​​ក្នុង​ប្រព័ន្ធ​នេះ​បាន​ទេ។ <label data-l10n-name="unsupported-link">ស្វែងយល់​បន្ថែម</label>
 update-restarting = កំពុង​ចាប់ផ្ដើម​ឡើង​វិញ
-update-internal-error = មិនអាច​ពិនិត្យរកមើល​កំណែថ្មី​បានទេ ដោយសារ​បញ្ហា​ខាងក្នុង។ មាន​កំណែ​ថ្មី​នៅ <label data-l10n-name="manual-link"/>
 channel-description = បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ​ <label data-l10n-name="current-channel"></label> ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល។
+update-internal-error = មិនអាច​ពិនិត្យរកមើល​កំណែថ្មី​បានទេ ដោយសារ​បញ្ហា​ខាងក្នុង។ មាន​កំណែ​ថ្មី​នៅ <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ​ <label data-l10n-name="current-channel">{ $channel }</label> ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល។
