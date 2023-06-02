@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Aktualizacije so pytaja…
 update-downloading = <img data-l10n-name="icon"/>Aktualizacija so sćahuje — <label data-l10n-name="download-status"/>
 update-downloading-message = Aktualizacija so sćahuje – <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Aktualizacija so sćahuje — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Aktualizacija so nałožuje…
 update-failed = Aktualizowanje njeje so poradźiło. <label data-l10n-name="failed-link">Najnowšu wersiju sćahnyć</label>
 update-failed-main = Aktualizowanje njeje so poradźiło. <a data-l10n-name="failed-link-main">Najnowšu wersiju sćahnyć</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Pytanje za aktualizacijemi je so nimokulił
 update-otherInstanceHandlingUpdates = { -brand-short-name } so přez druhu instancu aktualizuje
 update-manual = Aktualizacije k dispoziciji na <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Aktualizacije k dispoziciji na <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Aktualizacije k dispoziciji na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Aktualizacije k dispoziciji na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Njemóžeće dalše aktualizacije na tutym systemje přewjesć. <label data-l10n-name="unsupported-link">Dalše informacije</label>
 update-restarting = Startuje so…
-update-internal-error = Interneho zmylka dla njeje móžno za aktualizacijemi pytać. Aktualizacije su na <label data-l10n-name="manual-link"/> k dispoziciji
 channel-description = Sće tuchwilu na aktualizaciskim kanalu <label data-l10n-name="current-channel"></label>.{ " " }
+update-internal-error = Interneho zmylka dla njeje móžno za aktualizacijemi pytać. Aktualizacije su na <label data-l10n-name="manual-link"/> k dispoziciji
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Sće tuchwilu na aktualizaciskim kanalu <label data-l10n-name="current-channel">{ $channel }</label>.
