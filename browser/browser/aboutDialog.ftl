@@ -33,6 +33,8 @@ aboutdialog-update-manual = Uhlaziyo lufumaneka <a data-l10n-name="manual-link"/
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = Uhlaziyo lufumaneka <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Uhlaziyo lufumaneka <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Akunakukwazi ukuhlaziya ngokubhekele phaya kule nkqubo. <label data-l10n-name="unsupported-link">Funda okungakumbi</label>
 update-restarting = Iyaqala kwakhona…
 channel-description = Ngoku ukwi <label data-l10n-name="current-channel"></label> ukwitshaneli yohlaziyo.
