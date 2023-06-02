@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Se caută actualizări…
 update-downloading = <img data-l10n-name="icon"/>Se descarcă actualizarea — <label data-l10n-name="download-status"/>
 update-downloading-message = Se descarcă actualizarea — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Se descarcă actualizarea — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Se aplică actualizarea…
 update-failed = Actualizare eșuată. <label data-l10n-name="failed-link">Descarcă cea mai recentă versiune</label>
 update-failed-main = Actualizare eșuată. <a data-l10n-name="failed-link-main">Descarcă cea mai recentă versiune</a>
@@ -22,9 +30,18 @@ update-noUpdatesFound = { -brand-short-name } este actualizat
 update-otherInstanceHandlingUpdates = { -brand-short-name } este actualizat de o altă instanță
 update-manual = Actualizări disponibile la <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Actualizări disponibile la <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Actualizări disponibile la <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Actualizări disponibile la <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nu poți efectua actualizări suplimentare pe acest sistem. <label data-l10n-name="unsupported-link">Află mai multe</label>
 update-restarting = Se repornește…
 channel-description = Folosești în prezent canalul de actualizare <label data-l10n-name="current-channel"></label>.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Folosești în prezent canalul de actualizare <label data-l10n-name="current-channel">{ $channel }</label>.
