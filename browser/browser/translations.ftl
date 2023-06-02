@@ -36,6 +36,8 @@ translations-panel-error-dismiss-button =
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+translations-panel-choose-language =
+    .label = Выбраць мову
 
 ## Firefox Translations language management in about:preferences.
 
