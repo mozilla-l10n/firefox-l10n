@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Færa upp
 unified-extensions-context-menu-move-widget-down =
     .label = Færa niður
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Sumir forritsaukar eru ekki leyfðir
+unified-extensions-mb-quarantined-domain-message = Aðeins sumir forritsaukar sem { -vendor-short-name } hefur eftirlit með eru leyfðar á þessu vefsvæði, til að vernda gögnin þín.
