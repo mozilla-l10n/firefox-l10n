@@ -681,6 +681,8 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fermer l’incrustation vidéo ({ $shortcut })
 picture-in-picture-panel-header = Incrustation vidéo
+picture-in-picture-panel-headline = Ce site ne recommande pas l’utilisation de l’incrustation vidéo
+picture-in-picture-panel-body = Les vidéos peuvent ne pas s’afficher telles que le développeur le souhaite lorsque l’incrustation vidéo est activée.
 picture-in-picture-enable-toggle =
     .label = Activer quand même
 
