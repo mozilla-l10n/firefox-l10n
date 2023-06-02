@@ -18,6 +18,8 @@ update-downloading-message = Notiek atjauninājuma lejupielāde — <label data
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Notiek atjauninājuma lejupielāde — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Notiek atjauninājuma lejupielāde — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
