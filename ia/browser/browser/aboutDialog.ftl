@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = Cercante actualisationes…
 update-downloading = <img data-l10n-name="icon"/>Discargante actualisation — <label data-l10n-name="download-status"/>
 update-downloading-message = Discargante actualisation — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = Applicante le actualisation…
 update-failed = Le actualisation ha fallite. <label data-l10n-name="failed-link">Discargar le ultime version</label>
 update-failed-main = Le actualisation ha fallite. <a data-l10n-name="failed-link-main">Discargar le ultime version</a>
@@ -23,10 +30,19 @@ aboutdialog-update-checking-failed = Falta a verificar actualisationes
 update-otherInstanceHandlingUpdates = { -brand-short-name } es in actualisation per un altere instantia
 update-manual = Actualisationes disponibile in <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Actualisationes disponibile in <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Actualisationes disponibile in <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Actualisationes disponibile in <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Tu non pote facer plus actualisationes in iste systema. <label data-l10n-name="unsupported-link">Saper plus</label>
 update-restarting = Reinitiante…
-update-internal-error = Impossibile verificar le presentia de actualisationes a causa de un error interne. Actualisationes disponibile a <label data-l10n-name="manual-link"/>
 channel-description = Tu es actualmente in le canal de actualisationes <label data-l10n-name="current-channel"></label>.
+update-internal-error = Impossibile verificar le presentia de actualisationes a causa de un error interne. Actualisationes disponibile a <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Tu es actualmente in le canal de actualisationes <label data-l10n-name="current-channel">{ $channel }</label>.
