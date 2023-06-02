@@ -42,6 +42,7 @@ update-unsupported = Non é posíbel efectuar máis actualizacións neste sistem
 update-restarting = Reiniciando…
 channel-description = Actualmente está usando a canle de actualización <label data-l10n-name="current-channel"></label>.
 update-internal-error = Non se pode comprobar se hai actualizacións por mor dun erro interno. As actualizacións están dispoñibles en <label data-l10n-name="manual-link"/>.
+update-internal-error2 = Non se pode comprobar se hai actualizacións por mor dun erro interno. As actualizacións están dispoñibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>.
 
 ##
 
