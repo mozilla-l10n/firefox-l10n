@@ -18,6 +18,8 @@ update-downloading-message = Оновлення завантажується —
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Оновлення завантажується — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Оновлення завантажується — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -40,6 +42,7 @@ update-unsupported = Ви не можете виконувати подальш�
 update-restarting = Перезапуск…
 channel-description = Ви зараз на каналі оновлень <label data-l10n-name="current-channel"></label>.
 update-internal-error = Не вдалося перевірити наявність оновлень через внутрішню помилку. Оновлення доступні за посиланням <label data-l10n-name="manual-link"/>
+update-internal-error2 = Не вдалося перевірити наявність оновлень через внутрішню помилку. Оновлення доступні за посиланням <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
