@@ -19,6 +19,7 @@ update-downloading-message = កំពុង​ទាញយក​បច្ចុ
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>កំពុង​ទាញ​យក​បច្ចុប្បន្នភាព—  <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = កំពុង​ទាញយក​បច្ចុប្បន្នភាព — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = អ្នក​មិន​អាច​ធ្វើ​ប�
 update-restarting = កំពុង​ចាប់ផ្ដើម​ឡើង​វិញ
 channel-description = បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ​ <label data-l10n-name="current-channel"></label> ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល។
 update-internal-error = មិនអាច​ពិនិត្យរកមើល​កំណែថ្មី​បានទេ ដោយសារ​បញ្ហា​ខាងក្នុង។ មាន​កំណែ​ថ្មី​នៅ <label data-l10n-name="manual-link"/>
+update-internal-error2 = មិនអាច​ពិនិត្យរកមើល​កំណែថ្មី​បានទេ ដោយសារ​បញ្ហា​ខាងក្នុង។ មាន​កំណែ​ថ្មី​នៅ <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
