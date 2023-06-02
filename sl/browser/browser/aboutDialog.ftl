@@ -19,6 +19,7 @@ update-downloading-message = Prenašanje posodobitve – <label data-l10n-name="
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Prenašanje posodobitev — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Prenašanje posodobitve – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Nadaljnje posodobitve niso več mogoče. <label data-l10n-n
 update-restarting = Ponovni zagon …
 channel-description = Uporabljate posodobitveni kanal <label data-l10n-name="current-channel"></label>.
 update-internal-error = Iskanje posodobitev ni uspelo zaradi notranje napake. Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
+update-internal-error2 = Iskanje posodobitev ni uspelo zaradi notranje napake. Posodobitve so na voljo na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
