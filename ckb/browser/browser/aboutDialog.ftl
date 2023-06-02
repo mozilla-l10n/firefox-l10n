@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = چێکردن بۆ نوێکردنەوە…
 update-downloading = <img data-l10n-name="icon"/> داگرتنی نوێکاری —<label data-l10n-name="download-status"/>
 update-downloading-message = داگرتنی  نوێکاری —<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/> داگرتنی نوێکاری —<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = جێبەجێکردنی نوێکردنەوە…
 update-failed = نوێکردنەوە سەرکەوتوو نەبوو. <label data-l10n-name="failed-link"> دووا وەشان دابگرە </label>
 update-failed-main = نوێکردنەوە سەرکەوتوو نەبوو. <a data-l10n-name="failed-link-main">دووا وەشان دابگرە</a>
@@ -22,9 +30,18 @@ update-noUpdatesFound = { -brand-short-name } ئێستا لە دووا وەشا�
 update-otherInstanceHandlingUpdates = { -brand-short-name } نوێکرایەوە لەلایەن نمونەیەکی ترەوە
 update-manual = نوێکردنەوە بەردەستە لە <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = نوێکردنەوە بەردەستە لە <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = نوێکردنەوە بەردەستە لە <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = نوێکردنەوە بەردەستە لە <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = تۆ ناتوانی نوێکردنەوەی تر ئەنجام بدەی لەسەر ئەم سیستمە. <label data-l10n-name="unsupported-link"> زیاتر بزانە</label>
 update-restarting = پێکردنەوە…
 channel-description = تۆ ئێستا لە نوێکردنەوەی <label data-l10n-name="current-channel"></label> ئەم کەناڵەی.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = تۆ ئێستا لە نوێکردنەوەی <label data-l10n-name="current-channel">{ $channel }</label> ئەم کەناڵەی.
