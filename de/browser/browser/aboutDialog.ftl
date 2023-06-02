@@ -41,6 +41,7 @@ update-unsupported = Auf diesem System können keine weiteren Updates installier
 update-restarting = Wird neu gestartet…
 channel-description = Sie sind derzeit auf dem Update-Kanal <label data-l10n-name="current-channel"></label>.
 update-internal-error = Aufgrund eines internen Fehlers konnte nicht nach Updates gesucht werden. Updates verfügbar unter <label data-l10n-name="manual-link"/>
+update-internal-error2 = Aufgrund eines internen Fehlers konnte nicht nach Updates gesucht werden. Updates verfügbar unter <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
