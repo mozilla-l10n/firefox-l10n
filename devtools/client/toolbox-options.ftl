@@ -111,6 +111,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = הפעלת מנפה שגיאות מרוחק
 options-enable-remote-tooltip2 =
     .title = הפעלת אפשרות זו תאפשר לנפות שגיאות מרחוק במופע דפדפן זה
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = שימוש במקש F12 כדי לפתוח או לסגור את כלי הפיתוח
+options-enable-f12-tooltip =
+    .title = הפעלת אפשרות זו תקשר את מקש F12 לפתיחה או סגירת ארגז הכלים של כלי הפיתוח
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = הפעלת Service Workers על גבי HTTP (כשארגז הכלים פתוח)
 options-enable-service-workers-http-tooltip =

@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = ההרחבה לא יכולה לקרוא ולשנות נתונים
+origin-controls-quarantined =
+    .label = ההרחבה אינה מורשית לקרוא ולשנות נתונים
 origin-controls-options =
     .label = ההרחבה יכולה לקרוא ולשנות נתונים:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = לא יכולה לקרוא ולשנות נתונים באתר זה
+origin-controls-state-quarantined = אינה מורשית על־ידי { -vendor-short-name } באתר זה
 origin-controls-state-always-on = תמיד יכולה לקרוא ולשנות נתונים באתר זה
 origin-controls-state-when-clicked = נדרשת הרשאה כדי לקרוא ולשנות נתונים
 origin-controls-state-hover-run-visit-only = להריץ לביקור זה בלבד

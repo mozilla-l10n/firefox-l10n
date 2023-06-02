@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = ססמאות מקובץ CSV
+migration-wizard-migrator-display-name-file-bookmarks = סימניות מקובץ HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] אחת עודכנה
        *[other] { $updatedEntries } עודכנו
+    }
+migration-bookmarks-from-file-picker-title = ייבוא קובץ סימניות
+migration-bookmarks-from-file-progress-header = בתהליך ייבוא סימניות
+migration-bookmarks-from-file = סימניות
+migration-bookmarks-from-file-success-header = הסימניות יובאו בהצלחה
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] מסמך HTML
+       *[other] קובץ HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = קובץ JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] סימניה אחת
+       *[other] { $newEntries } סימניות
     }
 migration-import-button-label = ייבוא
 migration-choose-to-import-from-file-button-label = ייבוא מקובץ
@@ -199,4 +224,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = כדי לייבא סימניות והיסטוריית גלישה של Safari:
 migration-wizard-safari-instructions-continue = יש ללחוץ על ״המשך״
 migration-wizard-safari-instructions-folder = יש לבחור בתיקיה של Safari מהרשימה וללחוץ על ״פתיחה״
-migration-wizard-safari-select-button = בחירת קובץ
