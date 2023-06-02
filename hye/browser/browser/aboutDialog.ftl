@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Ստուգուում է թարմացումները
 update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում — <label data-l10n-name="download-status"/>
 update-downloading-message = Բեռնում է թարմացումը — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Թարմացման կիրառում...
 update-failed = Թարմացումը չյաջողուեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չյաջողուեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
@@ -22,9 +30,16 @@ update-noUpdatesFound = { -brand-short-name }-ը թարմացուած է
 update-otherInstanceHandlingUpdates = { -brand-short-name }-ը թարմացուել է այղ աւրինակի կողմից
 update-manual = Թարմացումները հասանելի են՝ <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Թարմացումները հասանելի են՝ <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = Դուք չէք կարող կատարել յետագայ թարմացումները այս համակարգում։ <label data-l10n-name="unsupported-link">Իմանալ աւելին</label>
 update-restarting = Վերամեկնարկում…
 channel-description = Այժմ գործում է <label data-l10n-name="current-channel"></label> թարմացումների աղբեւրը։
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Այժմ գործում է <label data-l10n-name="current-channel">{ $channel }</label> թարմացումների աղբեւրը։
