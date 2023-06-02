@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Comprobando los anovamientos…
 update-downloading = <img data-l10n-name="icon"/>Baxando l'anovamientu — <label data-l10n-name="download-status"/>
 update-downloading-message = Baxando l'anovamientu — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Baxando l'anovamientu — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Baxando l'anovamientu — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Aplicando l'anovamientu…
 update-failed = L'anovamientu falló. <label data-l10n-name="failed-link">Baxa la última versión</label>
 update-failed-main = L'anovamientu falló. <a data-l10n-name="failed-link-main">Baxa la última versión</a>
@@ -22,9 +31,18 @@ update-noUpdatesFound = { -brand-short-name } ta anováu
 update-otherInstanceHandlingUpdates = Otra instancia ta anovando { -brand-short-name }
 update-manual = Hai anovamientos disponibles en <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Hai anovamientos disponibles en <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Hai anovamientos disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Hai anovamientos disponibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Yá nun pues anovar más nesti sistema.<label data-l10n-name="unsupported-link">Lleer más</label>
 update-restarting = Reaniciando…
 channel-description = Anguaño tas na canal d'anovamientos <label data-l10n-name="current-channel"></label>.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Anguaño tas na canal d'anovamientos <label data-l10n-name="current-channel">{ $channel }</label>.
