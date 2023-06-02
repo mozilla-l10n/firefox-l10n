@@ -23,6 +23,7 @@ update-downloading-message = Ladataan päivitystä — <label data-l10n-name="do
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Ladataan päivitystä — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Ladataan päivitystä — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -45,6 +46,7 @@ update-unsupported = Tälle järjestelmälle ei enää tarjota päivityksiä. <l
 update-restarting = Käynnistetään uudestaan…
 channel-description = Ohjelman päivitykset ovat tyyppiä <label data-l10n-name="current-channel"></label>.
 update-internal-error = Päivityksiä ei voi tarkistaa sisäisen virheen vuoksi. Päivitykset ovat saatavilla osoitteessa <label data-l10n-name="manual-link"/>
+update-internal-error2 = Päivityksiä ei voi tarkistaa sisäisen virheen vuoksi. Päivitykset ovat saatavilla osoitteessa <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
