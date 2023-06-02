@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Ativar depuração remota
 options-enable-remote-tooltip2 =
     .title = Permitir debugar remotamente esta instância do navegador
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Usar a tecla F12 para abrir ou fechar as ferramentas de desenvolvimento
+options-enable-f12-tooltip =
+    .title = Ativar esta opção vincula a tecla F12 a abrir ou fechar a caixa de ferramentas de desenvolvimento
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Ativar formatadores personalizados
 options-enable-custom-formatters-tooltip =
