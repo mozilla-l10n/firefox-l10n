@@ -19,6 +19,7 @@ update-downloading-message = Daûr a discjariâ l'inzornament — <label data-l1
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Daûr a discjamâ l'inzornament — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Daûr a discjariâ l'inzornament — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = No tu puedis vê altris inzornaments su chest sisteme. <lab
 update-restarting = Daûr a tornâ a inviâ…
 channel-description = Tu sês par cumò tal canâl di inzornament <label data-l10n-name="current-channel"></label>inzornament cjanâl
 update-internal-error = Impussibil controlâ la presince di inzornaments par vie di un erôr interni. I inzornaments a son disponibii su <label data-l10n-name="manual-link"/>
+update-internal-error2 = Impussibil controlâ la presince di inzornaments par vie di un erôr interni. I inzornaments a son disponibii su <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
