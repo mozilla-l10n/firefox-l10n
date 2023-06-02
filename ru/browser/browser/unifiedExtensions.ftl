@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Вверх
 unified-extensions-context-menu-move-widget-down =
     .label = Вниз
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Некоторые расширения запрещены
+unified-extensions-mb-quarantined-domain-message = Только некоторые расширения, отслеживаемые { -vendor-short-name }, разрешены на этом сайте для защиты ваших данных.
