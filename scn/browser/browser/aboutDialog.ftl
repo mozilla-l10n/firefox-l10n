@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = A
 update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzazziuna…
 update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l'attualizzazziuni — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l'attualizzazziuni — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Staju appricannu l'attualizzazziuni…
 update-failed = L'attualizzazziuni sfallìu. <label data-l10n-name="failed-link">Scàrrica l'ùrtima virsiuni</label>
 update-failed-main = L'attualizzazziuni sfallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } è attualizzatu
 update-otherInstanceHandlingUpdates = { -brand-short-name } si sta già attualizzannu
 update-manual = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = L'attualizzazziuna sunnu dispunìbbili nne <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = L'attualizzazziuna sunnu dispunìbbili nne <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
 update-restarting = Staju riabbiannu…
 channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel"></label> .
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel">{ $channel }</label> .
