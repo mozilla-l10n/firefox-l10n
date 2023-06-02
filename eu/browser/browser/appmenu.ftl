@@ -33,6 +33,8 @@ appmenuitem-print =
     .label = Inprimatu…
 appmenuitem-find-in-page =
     .label = Bilatu orrian…
+appmenuitem-translate =
+    .label = Itzuli orria…
 appmenuitem-zoom =
     .value = Zooma
 appmenuitem-more-tools =
@@ -167,6 +169,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Web aplikazio gehienen arazketarako gomendatutako aurrezarpena, eragin negatibo txikiarekin.
 profiler-popup-presets-web-developer-label =
     .label = Web garapena
@@ -204,6 +211,9 @@ appmenu-recently-closed-tabs =
     .label = Itxitako azken fitxak
 appmenu-recently-closed-windows =
     .label = Itxitako azken leihoak
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Bilatu historia
 
 ## Help panel
 

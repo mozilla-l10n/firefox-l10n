@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Erabilitako azkena
 firefoxview-tabs-list-tab-button =
     .title = Ireki { $targetURI } fitxa berrian
 firefoxview-try-colorways-button = Probatu kolore-konbinazioak
-firefoxview-no-current-colorway-collection = Kolore-konbinazio berriak bidean dira
 firefoxview-change-colorway-button = Aldatu kolore-konbinazioa
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,18 @@ firefoxview-collapse-button-show =
     .title = Erakutsi zerrenda
 firefoxview-collapse-button-hide =
     .title = Ezkutatu zerrenda
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Historia
+firefoxview-history-header = Historia
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Irekitako fitxak
+firefoxview-opentabs-header = Irekitako fitxak
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Ikusi dena
