@@ -19,6 +19,7 @@ update-downloading-message = A’ luchdadh a-nuas an ùrachaidh – <label data-
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>A' luchdadh a-nuas an ùrachaidh — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = A’ luchdadh a-nuas an ùrachaidh – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Chan urrainn dhut dad eile ùrachadh air an t-siostam seo. 
 update-restarting = Ag ath-thòiseachadh…
 channel-description = Tha thu san t-seanail ùrachaidh <label data-l10n-name="current-channel"></label> an-dràsta.{ " " }
 update-internal-error = Chan urrainn dhuinn sùil a thoirt airson ùrachaidhean air sgàth mearachd inntearnail. Gheibhear ùrachaidhean aig <label data-l10n-name="manual-link"/>
+update-internal-error2 = Chan urrainn dhuinn sùil a thoirt airson ùrachaidhean air sgàth mearachd inntearnail. Gheibhear ùrachaidhean aig <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
