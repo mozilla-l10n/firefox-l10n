@@ -36,6 +36,8 @@ aboutdialog-update-manual = Güncelleme adresi: <a data-l10n-name="manual-link"/
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = Güncelleme adresi: <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Güncelleme adresi: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<label data-l10n-name="unsupported-link">Daha fazla bilgi al</label>
 update-restarting = Yeniden başlatılıyor…
 channel-description = Şu anda <label data-l10n-name="current-channel"></label> güncelleme kanalındasınız.{ " " }
