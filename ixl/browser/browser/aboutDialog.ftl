@@ -34,6 +34,8 @@ aboutdialog-update-manual = La uch ib'anax b'a'n stej tzitza' <a data-l10n-name=
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = La uch ib'anax b'a'n stej tzitza' <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = La uch ib'anax b'a'n stej tzitza' <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ye' la uch ayakeb' ve't ti' ib'anat b'a'n stej tzitza'. <label data-l10n-name="unsupported-link">Ootzi ka'te</label>
 update-restarting = Ile' ni xe'tisa unpajte…
 channel-description = Ile' b'anel ve't kan tuche' tu b'anb'al tatine' <label data-l10n-name="current-channel"> </label> ti' ib'anax b'a'n stej.
