@@ -19,6 +19,7 @@ update-downloading-message = Lastar ned oppdatering — <label data-l10n-name="d
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Lastar ned oppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Lastar ned oppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
