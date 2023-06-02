@@ -677,6 +677,10 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Кушодани «Расм-дар-расм» ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Пӯшидани «Расм-дар-расм» ({ $shortcut })
+picture-in-picture-panel-header = Расм-дар-расм
+picture-in-picture-panel-headline = Ин сомона истифодаи «Расм-дар-расм»-ро тавсия намедиҳад
+picture-in-picture-enable-toggle =
+    .label = Ба ҳар ҳол фаъол карда шавад
 
 ## Full Screen and Pointer Lock UI
 
