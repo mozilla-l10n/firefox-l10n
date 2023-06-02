@@ -122,3 +122,7 @@ neterror-inadequate-security-code = ᱵᱷᱩᱞ ᱠᱳᱰ: NS_ERROR_NET_INADEQU
 neterror-clock-skew-error = ᱟᱢᱟᱜ ᱠᱤᱢᱯᱩᱴᱚᱨ ᱫᱚ { DATETIME($now, dateStyle: "medium") } ᱞᱮᱠᱷᱟ ᱵᱩᱡᱷᱟᱹᱣᱮᱫ ᱛᱟᱦᱮᱸᱡ, ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱹᱦᱤᱡ ᱨᱮ ᱟᱠᱚᱴ ᱪᱷᱚᱭᱮᱫ ᱛᱟᱦᱮᱸᱡ ᱾ <b>{ $hostname }</b> ᱨᱮ ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱥᱟᱡᱟᱣ ᱜᱷᱚᱲᱤ ᱱᱤᱛᱚᱜᱟᱜ ᱢᱟᱦᱟᱸ, ᱚᱠᱛᱚ, ᱟᱨ ᱚᱠᱛᱚ ᱡᱚᱱ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱟᱨ <b> ᱾{ $hostname }</b> ᱱᱟᱶᱟ ᱟᱹᱨᱩᱭ ᱢᱮ ᱾
 neterror-network-protocol-error-intro = ᱥᱟᱦᱴᱟ ᱟᱢ ᱧᱮᱞ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱭᱮᱫ ᱟ ᱵᱟᱝ ᱩᱫᱩᱜ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱱᱮᱴᱣᱟᱨᱠ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱨᱮ ᱢᱤᱫ ᱵᱷᱩᱞ ᱧᱟᱢ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾
 neterror-network-protocol-error-contact-website = ᱣᱮᱵ ᱥᱟᱤᱴ ᱢᱟᱹᱞᱤᱠ ᱠᱚ ᱥᱚᱢᱯᱚᱠ ᱠᱚᱢ ᱱᱚᱣᱟ ᱫᱤᱜᱫᱷᱟ ᱩᱱᱠᱩ ᱩᱛᱞᱟᱹᱭᱟ ᱠᱚ ᱢᱮ ᱾
+certerror-expired-cert-second-para = ᱱᱚᱠᱟ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱨᱮᱭᱟᱜ ᱚᱠᱛᱚ ᱪᱟᱵᱟ ᱮᱱᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱹᱦᱤᱡ ᱡᱩᱲᱟᱹᱣ ᱨᱮ { -brand-short-name } ᱟᱠᱚᱴᱮ ᱠᱟᱱᱟᱭ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱪᱟᱞᱟᱜ ᱠᱷᱟᱱ, ᱠᱩᱢᱵᱽᱲᱩᱠᱚ ᱫᱚ ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ, ᱤᱢᱮᱞᱠᱚ, ᱥᱮ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱵᱤᱵᱨᱚᱬ ᱠᱚ ᱠᱩᱢᱵᱽᱲᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+certerror-expired-cert-sts-second-para = ᱱᱚᱠᱟ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱪᱟᱵᱟ ᱮᱱᱟ, ᱡᱟᱦᱟᱸ { -brand-short-name } ᱫᱚ ᱡᱩᱲᱟᱹᱣ ᱠᱷᱚᱱ ᱟᱠᱚᱴᱮ ᱠᱟᱱᱟᱭ ᱾
+certerror-what-can-you-do-about-it-title = ᱱᱚᱶᱟ ᱵᱟᱵᱚᱫᱽ ᱟᱢ ᱪᱮᱫ ᱮᱢ ᱪᱤᱠᱟᱹ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?
+certerror-unknown-issuer-what-can-you-do-about-it-website = ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱫᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱡᱩᱲᱟᱹᱭ ᱢᱮᱱᱟᱜᱼᱟ, ᱟᱨ ᱱᱚᱶᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱪᱤᱠᱟᱹ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
