@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = A' lorg ùrachaidhean…
 update-downloading = <img data-l10n-name="icon"/>A' luchdadh a-nuas an ùrachaidh — <label data-l10n-name="download-status"/>
 update-downloading-message = A’ luchdadh a-nuas an ùrachaidh – <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>A' luchdadh a-nuas an ùrachaidh — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = A' cur an sàs an ùrachaidh…
 update-failed = Dh'fhàillig an t-ùrachadh. <label data-l10n-name="failed-link">Luchdaich a-nuas an tionndadh as ùire</label>
 update-failed-main = Dh'fhàillig an t-ùrachadh. <a data-l10n-name="failed-link-main">Luchdaich a-nuas an tionndadh as ùire</a>
@@ -23,10 +31,19 @@ aboutdialog-update-checking-failed = Cha b’ urrainn dhuinn sùil a thoirt airs
 update-otherInstanceHandlingUpdates = Tha { -brand-short-name } 'ga ùrachadh ann an ionstans eile
 update-manual = Ùrachaidhean a tha ri am faighinn aig <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Ùrachaidhean a tha ri am faighinn aig <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Ùrachaidhean a tha ri am faighinn aig <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Ùrachaidhean a tha ri am faighinn aig <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Chan urrainn dhut dad eile ùrachadh air an t-siostam seo. <label data-l10n-name="unsupported-link">Barrachd fiosrachaidh</label>
 update-restarting = Ag ath-thòiseachadh…
-update-internal-error = Chan urrainn dhuinn sùil a thoirt airson ùrachaidhean air sgàth mearachd inntearnail. Gheibhear ùrachaidhean aig <label data-l10n-name="manual-link"/>
 channel-description = Tha thu san t-seanail ùrachaidh <label data-l10n-name="current-channel"></label> an-dràsta.{ " " }
+update-internal-error = Chan urrainn dhuinn sùil a thoirt airson ùrachaidhean air sgàth mearachd inntearnail. Gheibhear ùrachaidhean aig <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Tha thu san t-seanail ùrachaidh <label data-l10n-name="current-channel">{ $channel }</label> an-dràsta.
