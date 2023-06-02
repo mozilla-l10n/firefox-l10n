@@ -9,6 +9,14 @@ update-checkForUpdatesButton =
     .accesskey = L
 update-checkingForUpdates = Nûkirinan tên kontrolkirin…
 update-downloading = <img data-l10n-name="icon"/>Nûkirin tê daxistin — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Nûkirin tê daxistin — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Nûkirin tê sepandin…
 update-failed = Nûkirin têk çû. <label data-l10n-name="failed-link">Versiyona dawiyê jêbar bike</label>
 update-failed-main = Nûkirin têk çû. <a data-l10n-name="failed-link-main">Versiyona dawiyê jêbar bike</a>
@@ -17,8 +25,17 @@ update-noUpdatesFound = { -brand-short-name } ya nû ye
 update-otherInstanceHandlingUpdates = { -brand-short-name } ji hêla kopiyeke xwe ve tê nûkirin
 update-manual = Nûkirin li virê ne: <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Nûkirin li virê ne: <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Nûkirin li virê ne: <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Nûkirin li virê ne: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Tu nikarî li ser vê pergalê nûkirinan bi kar bînî. <label data-l10n-name="unsupported-link">Zêdetir bizane</label>
 channel-description = Tu niha di kanala <label data-l10n-name="current-channel"></label> nûkirinê de yî.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Tu niha di kanala <label data-l10n-name="current-channel">{ $channel }</label> nûkirinê de yî.
