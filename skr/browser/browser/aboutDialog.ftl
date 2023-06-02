@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = اپڈیٹ کیتے ݙیکھدا پیا ہے…
 update-downloading = <img data-l10n-name="icon"/>تازہ کاری ڈاؤن لوڈ کریندا پیا ہے—<label data-l10n-name="download-status"/>
 update-downloading-message = اپ ڈیٹ ڈاؤن لوڈ تھیندا پیا ہے—<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>تازہ کاری ڈاؤن لوڈ کریندا پیا ہے—<label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = اپ ڈیٹ ڈاؤن لوڈ تھیندا پیا ہے—<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = اپڈیٹ کرین٘دا پئے…
 update-failed = اپڈیٹ نئیں تھی سڳدا۔<label data-l10n-name="failed-link">تازہ ترین ورژن ڈاؤن لوڈ کرو</label>
 update-failed-main = اپڈیٹ نئین تھی سڳدا۔<a data-l10n-name="failed-link-main">تازہ ترین ورژن ڈاؤن لوڈ کرو</a>
@@ -23,10 +32,20 @@ aboutdialog-update-checking-failed = اپ ڈیٹس کوں چیک کرݨ وِچ �
 update-otherInstanceHandlingUpdates = { -brand-short-name } ݙوجھی جاہ توں اپڈیٹ تھیندا پیا ہے
 update-manual = اپڈیٹ اتھاں دستیاب کائنی  <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = اپڈیٹ اتھاں دستیاب کائنی  <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = اپڈیٹ اتھاں دستیاب کائنی  <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = اپڈیٹ اتھاں دستیاب کائنی  <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = تساں ایں سسٹم تے ودھیک اپڈیٹ نہیں کر سڳدے۔<label data-l10n-name="unsupported-link">ودھیک سیکھو</label>
 update-restarting = ولدا شروع تھیندا پئے۔۔۔
-update-internal-error = اندرلی خرابی دی وجہ توں اپ ڈیٹس چیک کرݨ کنوں قاصر۔ اپ ڈیٹس <label data-l10n-name="manual-link"/> تے دستیاب ہن۔
 channel-description = تساں ایں ویلھے <label data-l10n-name="current-channel"></label> دی اپڈیٹ چینل وِچ ہو۔
+update-internal-error = اندرلی خرابی دی وجہ توں اپ ڈیٹس چیک کرݨ کنوں قاصر۔ اپ ڈیٹس <label data-l10n-name="manual-link"/> تے دستیاب ہن۔
+update-internal-error2 = اندرلی خرابی دی وجہ توں اپ ڈیٹس چیک کرݨ کنوں قاصر۔ اپ ڈیٹس <label data-l10n-name="manual-link">{ $displayUrl }</label> تے دستیاب ہن۔
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = تساں ایں ویلھے <label data-l10n-name="current-channel">{ $channel }</label> دی اپڈیٹ چینل وِچ ہو۔
