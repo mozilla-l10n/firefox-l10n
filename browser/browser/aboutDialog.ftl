@@ -19,6 +19,7 @@ update-downloading-message = Atsisiunčiamas naujinimas – <label data-l10n-nam
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Atsiunčiamas naujinimas — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Atsisiunčiamas naujinimas – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Tolesni naujinimai, naudojantis šia sistema, yra negalimi.
 update-restarting = Paleidžiama iš naujo…
 channel-description = Šiuo metu naudojamas <label data-l10n-name="current-channel"></label> naujinimų kanalas.
 update-internal-error = Dėl vidinės klaidos nepavyko patikrinti, ar yra naujinimų. Naujinimai pasiekiami per <label data-l10n-name="manual-link"/>
+update-internal-error2 = Dėl vidinės klaidos nepavyko patikrinti, ar yra naujinimų. Naujinimai pasiekiami per <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
