@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = Meklē atjauninājumus…
 update-downloading = <img data-l10n-name="icon"/>Notiek atjauninājuma lejupielāde — <label data-l10n-name="download-status"/>
 update-downloading-message = Notiek atjauninājuma lejupielāde — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = Instalē atjauninājumu…
 update-failed = Atjaunināšana neizdevās. <label data-l10n-name="failed-link">Lejupielādējiet jaunāko versiju</label>
 update-failed-main = Atjaunināšana neizdevās. <a data-l10n-name="failed-link-main">Lejupielādējiet jaunāko versiju</a>
@@ -22,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } ir atjaunināts
 update-otherInstanceHandlingUpdates = { -brand-short-name } tiek atjaunināts citā instancē
 update-manual = Atjauninājumi ir pieejami te<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Atjauninājumi ir pieejami te<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Atjauninājumi ir pieejami te<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Atjauninājumi ir pieejami te<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Jūs nevarat veikt turpmākus šīs sistēmas atjauninājumus. <label data-l10n-name="unsupported-link">Uzziniet vairāk</label>
 update-restarting = Notiek pārstartēšana…
 channel-description = Šobrīd jūs izmantojat <label data-l10n-name="current-channel"></label> atjauninājumu kanālu.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Šobrīd jūs izmantojat <label data-l10n-name="current-channel">{ $channel }</label> atjauninājumu kanālu.
