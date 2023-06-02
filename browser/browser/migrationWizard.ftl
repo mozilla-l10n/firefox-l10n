@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge 레거시
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV 파일의 비밀번호
+migration-wizard-migrator-display-name-file-bookmarks = HTML 파일의 북마크
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -91,6 +92,26 @@ migration-wizard-progress-success-new-passwords = { $newEntries }개 추가됨
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = { $updatedEntries }개 업데이트됨
+migration-bookmarks-from-file-picker-title = 북마크 파일 가져오기
+migration-bookmarks-from-file-progress-header = 북마크 가져오는 중
+migration-bookmarks-from-file = 북마크
+migration-bookmarks-from-file-success-header = 북마크를 성공적으로 가져옴
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML 문서
+       *[other] HTML 파일
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON 파일
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks = 북마크 { $newEntries }개
 migration-import-button-label = 가져오기
 migration-choose-to-import-from-file-button-label = 파일에서 가져오기
 migration-import-from-file-button-label = 파일 선택
@@ -167,4 +188,3 @@ migration-wizard-progress-success-payment-methods = 결제 방법 { $quantity }�
 migration-wizard-safari-permissions-sub-header = Safari 북마크 및 방문 기록을 가져오려면:
 migration-wizard-safari-instructions-continue = "계속"을 선택하세요
 migration-wizard-safari-instructions-folder = 목록에서 Safari 폴더를 선택하고 "열기"를 선택하세요
-migration-wizard-safari-select-button = 파일 선택

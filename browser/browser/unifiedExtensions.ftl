@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = 위로 이동
 unified-extensions-context-menu-move-widget-down =
     .label = 아래로 이동
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = 일부 확장 기능은 허용되지 않음
+unified-extensions-mb-quarantined-domain-message = 데이터 보호를 위해 { -vendor-short-name }에서 모니터링하는 일부 확장 기능만 이 사이트에서 허용됩니다.

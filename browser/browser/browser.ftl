@@ -675,7 +675,9 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = 화면 속 화면 닫기 ({ $shortcut })
 picture-in-picture-panel-header = 화면 속 화면
 picture-in-picture-panel-headline = 이 웹 사이트는 화면 속 화면을 권장하지 않음
-picture-in-picture-panel-body = 화면 속 화면이 활성화되는 동안 동영상이 개발자가 의도한 대로 표시되지 않을 수 있습니다.
+picture-in-picture-panel-body = 화면 속 화면을 사용하는 동안 동영상이 개발자가 의도한 대로 표시되지 않을 수 있습니다.
+picture-in-picture-enable-toggle =
+    .label = 그래도 사용
 
 ## Full Screen and Pointer Lock UI
 
