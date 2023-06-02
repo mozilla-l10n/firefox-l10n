@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = 원격 디버깅 사용
 options-enable-remote-tooltip2 =
     .title = 이 옵션을 켜면 이 브라우저 인스턴스를 원격으로 디버깅 할 수 있습니다
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = F12 키를 사용하여 개발자 도구를 열거나 닫음
+options-enable-f12-tooltip =
+    .title = 이 옵션을 켜면 F12 키가 바인딩되어 개발자 도구 상자를 열거나 닫습니다
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = 사용자 지정 포맷터 사용
 options-enable-custom-formatters-tooltip =

@@ -2,25 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
 # This is the title of the page
 about-logging-title = 로깅 정보
 about-logging-page-title = 로깅 관리자
 about-logging-current-log-file = 현재 로그 파일:
-about-logging-current-log-modules = 현재 로그 모듈:
 about-logging-new-log-file = 새 로그 파일:
 about-logging-currently-enabled-log-modules = 현재 활성화된 로그 모듈:
 about-logging-log-tutorial = 이 도구 사용법에 대한 설명은 <a data-l10n-name="logging">HTTP 로깅</a>을 참조하세요.
@@ -41,6 +26,7 @@ about-logging-logging-to-profiler = { -profiler-brand-name }에 로깅
 about-logging-no-log-modules = 없음
 about-logging-no-log-file = 없음
 about-logging-logging-preset-selector-text = 로깅 프리셋:
+about-logging-with-profiler-stacks-checkbox = 로그 메시지에 대한 스택 추적 활성화
 
 ## Logging presets
 
