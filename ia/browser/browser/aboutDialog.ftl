@@ -19,6 +19,7 @@ update-downloading-message = Discargante actualisation — <label data-l10n-name
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Discargante actualisation — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Discargante actualisation — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
