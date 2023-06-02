@@ -18,6 +18,7 @@ update-downloading-message = Téléchargement de la mise à jour — <label data
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Téléchargement de la mise à jour — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Téléchargement de la mise à jour — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
@@ -35,6 +36,7 @@ aboutdialog-update-manual = Mises à jour disponibles sur <a data-l10n-name="man
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = Mises à jour disponibles à <label data-l10n-name="manual-link">{ $displayUrl }</label>
 update-unsupported = La dernière version n’est pas disponible pour votre système. <label data-l10n-name="unsupported-link">En savoir plus</label>
 update-restarting = Redémarrage…
 channel-description = Vous utilisez actuellement le canal de mise à jour <label data-l10n-name="current-channel"></label>.
