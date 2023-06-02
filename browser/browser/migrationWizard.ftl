@@ -101,6 +101,22 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } абноўлены
        *[many] { $updatedEntries } абноўлена
     }
+migration-bookmarks-from-file-picker-title = Імпарт файла закладак
+migration-bookmarks-from-file = Закладкі
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Файл JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } закладка
+        [few] { $newEntries } закладкі
+       *[many] { $newEntries } закладак
+    }
 migration-import-button-label = Імпартаваць
 migration-choose-to-import-from-file-button-label = Імпартаваць з файла
 migration-import-from-file-button-label = Выбраць файл
@@ -202,4 +218,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Каб імпартаваць закладкі Safari і гісторыю аглядання:
 migration-wizard-safari-instructions-continue = Выберыце «Працягнуць»
 migration-wizard-safari-instructions-folder = Вылучыце ў спісе папку Safari і абярыце «Адкрыць»
-migration-wizard-safari-select-button = Выбраць файл
