@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Дар ҳоли санҷиши навсозиҳо…
 update-downloading = <img data-l10n-name="icon"/>Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status"/>
 update-downloading-message = Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Дар ҳоли татбиқи навсозӣ…
 update-failed = Навсозӣ иҷро нашуд. <label data-l10n-name="failed-link">Версияи охиринро боргирӣ намоед</label>
 update-failed-main = Навсозӣ иҷро нашуд. <a data-l10n-name="failed-link-main">Версияи охиринро боргирӣ намоед</a>
@@ -23,10 +32,20 @@ aboutdialog-update-checking-failed = Санҷиши навсозиҳо иҷро 
 update-otherInstanceHandlingUpdates = «{ -brand-short-name }» аз тарафи раванди дигар навсозӣ шуда истодааст
 update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд
 aboutdialog-update-manual = Навсозиҳо дар <a data-l10n-name="manual-link"/> дастрасанд
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Навсозиҳо дар <label data-l10n-name="manual-link">{ $displayUrl }</label> дастрасанд
+settings-update-manual-with-link = Навсозиҳо дар <a data-l10n-name="manual-link">{ $displayUrl }</a> дастрасанд
 update-unsupported = Шумо дар низоми ҷорӣ навсозиҳои дигар иҷро карда наметавонед. <label data-l10n-name="unsupported-link">Маълумоти бештар</label>
 update-restarting = Дар ҳоли бозоғозӣ…
-update-internal-error = Ба сабаби хатои дохилӣ, тафтиш кардани навсозиҳо имконнопазир аст. Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд.
 channel-description = Айни ҳол шумо дар шабакаи навсозии «<label data-l10n-name="current-channel"></label>» қарор доред.
+update-internal-error = Ба сабаби хатои дохилӣ, тафтиш кардани навсозиҳо имконнопазир аст. Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд.
+update-internal-error2 = Ба сабаби хатои дохилӣ, тафтиш кардани навсозиҳо имконнопазир аст. Навсозиҳо дар <label data-l10n-name="manual-link">{ $displayUrl }</label> дастрасанд.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Айни ҳол шумо дар шабакаи навсозии «<label data-l10n-name="current-channel">{ $channel }</label>» қарор доред.
