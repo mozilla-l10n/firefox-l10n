@@ -9,6 +9,14 @@ update-checkForUpdatesButton =
     .accesskey = C
 update-checkingForUpdates = اپڈیٹس خٲطرئ وچھان...
 update-downloading = <img data-l10n-name="icon"/>اپڈیٹ ڈاونلوڈ كران — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>اپڈیٹ ڈاونلوڈ كران — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = اپڈیٹ لاگو كران
 update-failed = اپڈيت گو ناكام<label data-l10n-name="failed-link">تازئ ترین ورجن كریو ڈاونلوڈ</label>
 update-failed-main = اپڈيت گو ناكام<a data-l10n-name="failed-link-main">تازئ ترین ورجن كریو ڈاونلوڈ</a>
@@ -17,8 +25,17 @@ update-noUpdatesFound = { -brand-short-name } چھُ تازئ ترین
 update-otherInstanceHandlingUpdates = دویمِہ مثألِہ ذریعہ چُھ  اپڈیٹ کرنْہ یوان { -brand-short-name }
 update-manual = اپڈیٹس چھَ دستیاب پ۪یٹھ<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = اپڈیٹس چھَ دستیاب پ۪یٹھ<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = اپڈیٹس چھَ دستیاب پ۪یٹھ<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = اپڈیٹس چھَ دستیاب پ۪یٹھ<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = توہیہ ہیکیو نْہ یتھ سسٹمس پیٹھ مزید اپڈیٹ کْرتھ۔<label data-l10n-name="unsupported-link">مزید ہیچھیو</label>
 channel-description = تُہئ چھَو حالس  پ۪یٹھ <label data-l10n-name="current-channel"></label>  چینل كریو اپڈیٹ.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = تُہئ چھَو حالس  پ۪یٹھ <label data-l10n-name="current-channel">{ $channel }</label>  چینل كریو اپڈیٹ.
