@@ -10,6 +10,14 @@ update-checkForUpdatesButton =
     .accesskey = M
 update-checkingForUpdates = Méidoyena jénode...
 update-downloading = <img data-l10n-name="icon"/>Méidote ána Jóneye…<label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Méidote ána Jóneye…<label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Méidote jójonede...
 update-failed = Ñúe  fɨnófɨnoga fɨgoñede.<label data-l10n-name="failed-link">Kómue version béno jóne.</label>
 update-failed-main = Ñúe  fɨnófɨnoga fɨgoñede.<a data-l10n-name="failed-link-main">Kómue version béno jóne.</a>
@@ -18,7 +26,16 @@ update-noUpdatesFound = { -brand-short-name } jáa méidoga
 update-otherInstanceHandlingUpdates = { -brand-short-name } jɨaɨmona bíe ñúe fɨnofɨnoga
 update-manual = Méidoyena já íte <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Méidoyena já íte <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Méidoyena já íte <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Méidoyena já íte <a data-l10n-name="manual-link">{ $displayUrl }</a>
 channel-description = Ida dɨga ó taɨjɨdɨo<label data-l10n-name="current-channel"></label>Méidoyena.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Ida dɨga ó taɨjɨdɨo<label data-l10n-name="current-channel">{ $channel }</label>Méidoyena.
