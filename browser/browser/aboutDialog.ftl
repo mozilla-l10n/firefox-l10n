@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = යාවත්කාල පරීක්‍ෂා කෙරෙමින්...
 update-downloading = <img data-l10n-name="icon"/>යාවත්කාල බාගැනෙමින් — <label data-l10n-name="download-status"/>
 update-downloading-message = යාවත්කාලය බාගැනෙමින් — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>යාවත්කාල බාගැනෙමින් — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = යාවත්කාලය බාගැනෙමින් — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = යාවත්කාලය යොදමින්…
 update-failed = යාවත්කාල කිරීමට අසමත් විය. <label data-l10n-name="failed-link">නවතම අනුවාදය බාගන්න</label>
 update-failed-main = යාවත්කාල කිරීමට අසමත් විය. <a data-l10n-name="failed-link-main">නවතම අනුවාදය බාගන්න</a>
@@ -22,9 +31,18 @@ update-noUpdatesFound = { -brand-short-name } යාවත්කාලීනය�
 aboutdialog-update-checking-failed = යාවත්කාල පරීක්‍ෂාවට අසමත් විය.
 update-manual = මෙහි යාවත්කාල තිබේ <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = මෙහි යාවත්කාල තිබේ <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = මෙහි යාවත්කාල තිබේ <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = මෙහි යාවත්කාල තිබේ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ඔබට මෙම පද්ධතිය මත තවදුරටත් යාවත්කාල කිරීමට නොහැකිය. <label data-l10n-name="unsupported-link">තව දැනගන්න</label>
 update-restarting = නැවත අරඹමින්…
 channel-description = ඔබ දැනට සිටින්නේ <label data-l10n-name="current-channel"></label> යාවත්කාල නාලිකාවේය.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = ඔබ දැනට සිටින්නේ <label data-l10n-name="current-channel">{ $channel }</label> යාවත්කාල නාලිකාවේය.
