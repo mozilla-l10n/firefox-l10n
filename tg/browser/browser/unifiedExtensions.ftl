@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Ба боло гузоштан
 unified-extensions-context-menu-move-widget-down =
     .label = Ба поён гузоштан
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Баъзе васеъшавиҳо иҷозат дода намешаванд
+unified-extensions-mb-quarantined-domain-message = Барои муҳофизат кардани маълумоти шумо, танҳо баъзе васеъшавиҳо, ки аз тарафи «{ -vendor-short-name }» назорат карда мешаванд, дар ин сомона иҷозат дода мешаванд.

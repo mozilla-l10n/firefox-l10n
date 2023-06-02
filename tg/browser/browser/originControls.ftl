@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Васеъшавӣ наметавонад, ки маълумотро хонад ва тағйир диҳад
+origin-controls-quarantined =
+    .label = Васеъшавӣ иҷозат надорад, ки маълумотро хонад ва тағйир диҳад
 origin-controls-options =
     .label = Васеъшавӣ метавонад, ки маълумотро хонад ва тағйир диҳад:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Дар ин сомона маълумотро хонда ва тағйир дода наметавонад
+origin-controls-state-quarantined = Дар ин сомона аз ҷониби «{ -vendor-short-name }» иҷозат дода намешавад
 origin-controls-state-always-on = Дар ин сомона маълумотро ҳамеша хонда ва тағйир дода метавонад
 origin-controls-state-when-clicked = Барои хондан ва тағйир додани маълумот иҷозат лозим аст
 origin-controls-state-hover-run-visit-only = Танҳо барои ин боздид иҷро карда шавад
