@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Horje
 unified-extensions-context-menu-move-widget-down =
     .label = Dele
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Někotre rozšěrjenja dowolene njejsu

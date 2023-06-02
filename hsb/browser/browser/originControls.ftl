@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Rozšěrjenje njemóže daty čitać a změnić
+origin-controls-quarantined =
+    .label = Rozšěrjenje njesmě daty čitać a změnić
 origin-controls-options =
     .label = Rozšěrjenje móže daty čitać a změnić:
 origin-controls-option-all-domains =

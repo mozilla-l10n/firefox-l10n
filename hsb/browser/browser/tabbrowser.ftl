@@ -171,3 +171,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Wšě { $tabCount } rajtarki nalistować
            *[other] Wšěch { $tabCount } rajtarkow nalistować
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Rajark zněmić
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Zněmjenje rajtarka anulować
+tabbrowser-manager-close-tab =
+    .tooltiptext = Rajtark začinić
