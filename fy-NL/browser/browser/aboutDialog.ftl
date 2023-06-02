@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = Kontrolearret op fernijingen…
 update-downloading = <img data-l10n-name="icon"/>Fernijing downloade — <label data-l10n-name="download-status"/>
 update-downloading-message = Update downloade – <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = Fernijing tapasse…
 update-failed = Fernijing mislearre. <label data-l10n-name="failed-link">Laad de lêste ferzje yn</label>
 update-failed-main = Fernijing mislearre. <a data-l10n-name="failed-link-main">Laad de lêste ferzje yn</a>
@@ -23,10 +30,19 @@ aboutdialog-update-checking-failed = Kontrôle op fernijingen is mislearre.
 update-otherInstanceHandlingUpdates = { -brand-short-name } wurdt fernijd troch in oare sesje
 update-manual = Fernijingen beskikber op <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Fernijingen beskikber op <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Fernijingen beskikber op <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Fernijingen beskikber op <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Jo kinne gjin fernijngen mear útfiere op dit systeem. <label data-l10n-name="unsupported-link">Mear ynfo</label>
 update-restarting = Opnij starte…
-update-internal-error = Kin net kontrolearje op fernijingen fanwegen in ynterne flater. Fernijingen beskikber op <label data-l10n-name="manual-link"/>
 channel-description = Jo binne op dit stuit op it <label data-l10n-name="current-channel"></label>-fernijingskanaal.
+update-internal-error = Kin net kontrolearje op fernijingen fanwegen in ynterne flater. Fernijingen beskikber op <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Jo binne op dit stuit op it <label data-l10n-name="current-channel">{ $channel }</label>-fernijingskanaal.
