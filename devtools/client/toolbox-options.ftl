@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Távoli hibakeresés be/ki
 options-enable-remote-tooltip2 =
     .title = A beállítás bekapcsolásával engedélyezi a böngészőpéldány távoli hibakeresését.
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Használja az F12 billentyűt a fejlesztői eszközök megnyitásához vagy bezárásához
+options-enable-f12-tooltip =
+    .title = A beállítás bekapcsolása hozzáköti az F12 billentyűt a fejlesztői eszköztár megnyitásához és bezárásához
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Egyéni formázók engedélyezése
 options-enable-custom-formatters-tooltip =
