@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = Перевірка оновлень…
 update-downloading = <img data-l10n-name="icon"/>Оновлення завантажується — <label data-l10n-name="download-status"/>
 update-downloading-message = Оновлення завантажується — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = Оновлення застосовується…
 update-failed = Не вдалося оновити. <label data-l10n-name="failed-link">Завантажити останню версію</label>
 update-failed-main = Не вдалося оновити. <a data-l10n-name="failed-link-main">Завантажити останню версію</a>
@@ -23,10 +30,19 @@ aboutdialog-update-checking-failed = Не вдалося перевірити н
 update-otherInstanceHandlingUpdates = Оновлення { -brand-short-name } проводиться іншим процесом
 update-manual = Оновлення доступне на <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Оновлення доступне на <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Оновлення доступне на <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Оновлення доступне на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ви не можете виконувати подальші оновлення на цій системі. <label data-l10n-name="unsupported-link">Докладніше</label>
 update-restarting = Перезапуск…
-update-internal-error = Не вдалося перевірити наявність оновлень через внутрішню помилку. Оновлення доступні за посиланням <label data-l10n-name="manual-link"/>
 channel-description = Ви зараз на каналі оновлень <label data-l10n-name="current-channel"></label>.
+update-internal-error = Не вдалося перевірити наявність оновлень через внутрішню помилку. Оновлення доступні за посиланням <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Ви зараз на каналі оновлень <label data-l10n-name="current-channel">{ $channel }</label>.
