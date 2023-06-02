@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Meklej atjaunynuojumus…
 update-downloading = <img data-l10n-name="icon"/>Lejupīluodē atjaunynuojumu — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Lejupīluodē atjaunynuojumu — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Instalej atjaunynuojumu…
 update-failed = Atjaunynuošona naizadeve. <label data-l10n-name="failed-link">Lejupīlōdej jaunōkū verseju</label>
 update-failed-main = Atjaunynuošona naizadeve. <a data-l10n-name="failed-link-main">Lejupīlōdej jaunōkū verseju</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } nav atjaunynuojumu
 update-otherInstanceHandlingUpdates = { -brand-short-name } itūbreid atjaunynoj cyta instance
 update-manual = Atjaunynuojumi ir pīejami ite<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Atjaunynuojumi ir pīejami ite<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Atjaunynuojumi ir pīejami ite<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Atjaunynuojumi ir pīejami ite<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Papyldus atjaunynuojumi itymā sistemā nav īspiejami. <label data-l10n-name="unsupported-link">Uzzynojit vairuok</label>
 update-restarting = Nūteik puorstarteišona…
 channel-description = Itūbreid jius izmontojit <label data-l10n-name="current-channel"></label> atjaunynuojumu kanalu.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Itūbreid jius izmontojit <label data-l10n-name="current-channel">{ $channel }</label> atjaunynuojumu kanalu.
