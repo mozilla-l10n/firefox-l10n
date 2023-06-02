@@ -19,6 +19,7 @@ update-downloading-message = Update downloaden – <label data-l10n-name="downlo
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Update downloaden – <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Update downloaden – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = U kunt op dit systeem geen updates meer installeren. <label
 update-restarting = Herstarten…
 channel-description = U gebruikt momenteel het <label data-l10n-name="current-channel"></label>-updatekanaal.
 update-internal-error = Kan niet controleren op updates vanwege een interne fout. Updates beschikbaar op <label data-l10n-name="manual-link"/>
+update-internal-error2 = Kan niet controleren op updates vanwege een interne fout. Updates beschikbaar op <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
