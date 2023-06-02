@@ -19,6 +19,7 @@ update-downloading-message = Hämtar uppdatering — <label data-l10n-name="down
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Hämtar uppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Hämtar uppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -36,10 +37,12 @@ aboutdialog-update-manual = Uppdateringar finns tillgängliga på <a data-l10n-n
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
 aboutdialog-update-manual-with-link = Uppdateringar finns på <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Uppdateringar finns tillgängliga på <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Du kan inte utföra fler uppdateringar på detta system. <label data-l10n-name="unsupported-link">Läs mer</label>
 update-restarting = Startar om…
 channel-description = Du finns för närvarande på uppdateringskanalen <label data-l10n-name="current-channel"></label>uppdaterings kanal.
 update-internal-error = Det gick inte att söka efter uppdateringar på grund av internt fel. Uppdateringar finns tillgängliga på <label data-l10n-name="manual-link"/>
+update-internal-error2 = Det gick inte att söka efter uppdateringar på grund av internt fel. Uppdateringar finns tillgängliga på <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
