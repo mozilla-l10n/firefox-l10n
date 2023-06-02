@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = सुधारणांकरीता तपासणी करत आहे…
 update-downloading = <img data-l10n-name="icon"/>सुधारणा डाउनलोड करत आहे — <label data-l10n-name="download-status"/>
 update-downloading-message = अपडेट डाउनलोड करत आहे — <label data-l10n-name = "download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>सुधारणा डाउनलोड करत आहे — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = सुधारणा लागू करत आहे…
 update-failed = सुधारणा अपयशी. <label data-l10n-name="failed-link">अद्ययावत आवृत्ती डाऊनलोड करा</label>
 update-failed-main = सुधारणा अपयशी. <a data-l10n-name="failed-link-main">अद्ययावत आवृत्ती डाऊनलोड करा</a>
@@ -22,9 +30,16 @@ update-noUpdatesFound = { -brand-short-name } अद्ययावत आहे
 update-otherInstanceHandlingUpdates = { -brand-short-name } यावेळी वेगळ्या ठिकाणाहून सुधारित होत आहे
 update-manual = सुधारणा येथे उपलब्ध आहेत <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = सुधारणा येथे उपलब्ध आहेत <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = आपण या सिस्टीमवर आणखी सुधारणा करू शकत नाही. <label data-l10n-name="unsupported-link">अधिक जाणा</label>
 update-restarting = पुनःसुरु होत आहे…
 channel-description = आपण सध्या <label data-l10n-name="current-channel"></label> सुधारणा वाहिनीवर आहात.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = आपण सध्या <label data-l10n-name="current-channel">{ $channel }</label> सुधारणा वाहिनीवर आहात.
