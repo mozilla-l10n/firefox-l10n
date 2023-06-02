@@ -41,6 +41,7 @@ update-unsupported = لا يمكنك إجراء أي تحديثات أخرى ع�
 update-restarting = يُعيد التشغيل…
 channel-description = تتلقى التحديثات حاليًا من قناة <label data-l10n-name="current-channel"></label>.
 update-internal-error = تعذر التحقق من وجود تحديثات بسبب خطأ داخلي. التحديثات متاحة في <label data-l10n-name = "manual-link" />
+update-internal-error2 = تعذر التحقق من وجود تحديثات بسبب خطأ داخلي. التحديثات متاحة في <label data-l10n-name = "manual-link" />
 
 ##
 
