@@ -18,6 +18,8 @@ update-downloading-message = Asader n lqem — <label data-l10n-name="download-s
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Asader n lqem—  <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Asader n lqem — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -40,6 +42,7 @@ update-unsupported = Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. <labe
 update-restarting = Aɛiwed n usenker…
 channel-description = Aqli-k tura deg <label data-l10n-name="current-channel"></label>.
 update-internal-error = Tella-d tuccḍa tagensant i yesweḥlen asenqed n yileqman. Ad ten-tafeḍ deg <label data-l10n-name="manual-link"/>
+update-internal-error2 = Tella-d tuccḍa tagensant i yesweḥlen asenqed n yileqman. Ad ten-tafeḍ deg <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
