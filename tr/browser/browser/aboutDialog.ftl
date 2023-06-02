@@ -42,6 +42,7 @@ update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<label d
 update-restarting = Yeniden başlatılıyor…
 channel-description = Şu anda <label data-l10n-name="current-channel"></label> güncelleme kanalındasınız.{ " " }
 update-internal-error = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <label data-l10n-name="manual-link"/> adresinde bulabilirsiniz.
+update-internal-error2 = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <label data-l10n-name="manual-link">{ $displayUrl }</label> adresinde bulabilirsiniz.
 
 ##
 
