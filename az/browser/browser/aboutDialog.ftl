@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Yeniləmələr yoxlanılır…
 update-downloading = <img data-l10n-name="icon"/>Yeniləmə endirilir — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Yeniləmə endirilir — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Yeniləmə tətbiq edilir…
 update-failed = Yeniləmə uğursuz oldu. <label data-l10n-name="failed-link">Son versiyanı endirin</label>
 update-failed-main = Yeniləmə uğursuz oldu. <a data-l10n-name="failed-link-main">Son versiyanı endirin</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } aktualdır
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən yenilənir
 update-manual = Yeniləmələr buradadır: <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Yeniləmələr buradadır: <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Yeniləmələr buradadır: <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Yeniləmələr buradadır: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Siz bu sistemdə gələcək yeniləmələri qura bilməyəcəksiniz. <label data-l10n-name="unsupported-link">Ətraflı öyrən</label>
 update-restarting = Yenidən başladılır…
 channel-description = Hal-hazırda <label data-l10n-name="current-channel"></label> yeniləmə kanalındasınız.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Hal-hazırda <label data-l10n-name="current-channel">{ $channel }</label> yeniləmə kanalındasınız.
