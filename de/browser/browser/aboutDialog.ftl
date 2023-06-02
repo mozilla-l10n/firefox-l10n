@@ -19,6 +19,7 @@ update-downloading-message = Update wird heruntergeladen – <label data-l10n-na
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Update wird heruntergeladen — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Update wird heruntergeladen – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
