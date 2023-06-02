@@ -18,6 +18,8 @@ update-downloading-message = Frissítés letöltése – <label data-l10n-name="
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Frissítés letöltése – <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Frissítés letöltése – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -35,10 +37,12 @@ aboutdialog-update-manual = Frissítés érhető el itt: <a data-l10n-name="manu
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
 aboutdialog-update-manual-with-link = Frissítés elérhető: <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Frissítés érhető el itt: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nem végezhet további frissítéseket ezen a rendszeren.<label data-l10n-name="unsupported-link">További tudnivalók</label>
 update-restarting = Újraindítás…
 channel-description = Jelenleg a(z) <label data-l10n-name="current-channel"></label> frissítési csatornát használja.
 update-internal-error = Belső hiba miatt nem lehet frissítéseket keresni. A frissítések itt érhetők el: <label data-l10n-name="manual-link"/>
+update-internal-error2 = Belső hiba miatt nem lehet frissítéseket keresni. A frissítések itt érhetők el: <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
