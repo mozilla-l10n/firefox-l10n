@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = 正在檢查更新…
 update-downloading = <img data-l10n-name="icon"/>正在下載更新 — <label data-l10n-name="download-status"/>
 update-downloading-message = 正在下載更新 — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>正在下載更新 — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = 正在套用更新…
 update-failed = 更新失敗。<label data-l10n-name="failed-link">下載最新版本</label>
 update-failed-main = 更新失敗。<a data-l10n-name="failed-link-main">下載最新版本</a>
@@ -23,10 +31,18 @@ aboutdialog-update-checking-failed = 更新檢查失敗。
 update-otherInstanceHandlingUpdates = { -brand-short-name } 正被其他執行中的實例更新
 update-manual = 可用的更新位於 <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = <a data-l10n-name="manual-link"/> 已有可用更新
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = 可用的更新位於 <label data-l10n-name="manual-link">{ $displayUrl }</label>
 update-unsupported = 您無法在此系統上進行後續更新。<label data-l10n-name="unsupported-link">詳細資訊</label>
 update-restarting = 重新啟動中…
-update-internal-error = 發生內部錯誤，無法檢查更新。可到下列網址下載 <label data-l10n-name="manual-link"/>
 channel-description = 您目前正使用 <label data-l10n-name="current-channel"></label> 更新頻道。
+update-internal-error = 發生內部錯誤，無法檢查更新。可到下列網址下載 <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = 您目前正使用 <label data-l10n-name="current-channel">{ $channel }</label> 更新頻道。
