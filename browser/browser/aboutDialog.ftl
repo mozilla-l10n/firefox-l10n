@@ -14,6 +14,14 @@ update-updateButton =
 update-checkingForUpdates = Жаңартуларды тексеру…
 update-downloading = <img data-l10n-name="icon"/>Жаңартуды жүктеп алу — <label data-l10n-name="download-status"/>
 update-downloading-message = Жаңартуды жүктеп алу — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Жаңартуды жүктеп алу — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Жаңартуды іске асыру…
 update-failed = Жаңарту сәтсіз. <label data-l10n-name="failed-link">Соңғы нұсқасын жүктеп алу</label>
 update-failed-main = Жаңарту сәтсіз. <a data-l10n-name="failed-link-main">Соңғы нұсқасын жүктеп алу</a>
@@ -23,10 +31,17 @@ aboutdialog-update-checking-failed = Жаңартуларды тексеру с�
 update-otherInstanceHandlingUpdates = { -brand-short-name } басқа экземплярмен жаңартылуда
 update-manual = Жаңартулар қолжетімді жері: <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Жаңартулар қолжетімді жері: <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = Бұл жүйе үшін болашақ жаңартуларды орната алмайсыз. <label data-l10n-name="unsupported-link">Көбірек білу</label>
 update-restarting = Қайта қосылуда…
-update-internal-error = Ішкі қатеге байланысты жаңартуларды тексеру мүмкін емес. Жаңартулар <label data-l10n-name="manual-link"/> адресі бойынша қолжетімді
 channel-description = Сіз <label data-l10n-name="current-channel"></label> жаңарту арнасындасыз.{ " " }
+update-internal-error = Ішкі қатеге байланысты жаңартуларды тексеру мүмкін емес. Жаңартулар <label data-l10n-name="manual-link"/> адресі бойынша қолжетімді
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Сіз <label data-l10n-name="current-channel">{ $channel }</label> жаңарту арнасындасыз.
