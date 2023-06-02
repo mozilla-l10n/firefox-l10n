@@ -19,6 +19,7 @@ update-downloading-message = Жаңартуды жүктеп алу — <label d
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Жаңартуды жүктеп алу — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Жаңартуды жүктеп алу — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -35,10 +36,13 @@ aboutdialog-update-manual = Жаңартулар қолжетімді жері: 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
+aboutdialog-update-manual-with-link = Жаңартулар қолжетімді жері: <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Жаңартулар қолжетімді жері: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Бұл жүйе үшін болашақ жаңартуларды орната алмайсыз. <label data-l10n-name="unsupported-link">Көбірек білу</label>
 update-restarting = Қайта қосылуда…
 channel-description = Сіз <label data-l10n-name="current-channel"></label> жаңарту арнасындасыз.{ " " }
 update-internal-error = Ішкі қатеге байланысты жаңартуларды тексеру мүмкін емес. Жаңартулар <label data-l10n-name="manual-link"/> адресі бойынша қолжетімді
+update-internal-error2 = Ішкі қатеге байланысты жаңартуларды тексеру мүмкін емес. Жаңартулар <label data-l10n-name="manual-link">{ $displayUrl }</label> адресі бойынша қолжетімді
 
 ##
 
