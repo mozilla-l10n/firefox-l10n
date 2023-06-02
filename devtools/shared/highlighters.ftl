@@ -37,7 +37,7 @@ flextype-dual = 플렉스 컨테이너/항목
 # Variables
 # $action (string) - Will either be remote-node-picker-notice-action-desktop or
 #                    remote-node-picker-notice-action-touch
-remote-node-picker-notice = DevTools 노드 선택기가 활성화되었습니다. { $action }
+remote-node-picker-notice = 개발자 도구 노드 선택기가 활성화되었습니다. { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = 검사기에서 요소를 선택하려면 클릭하세요
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
