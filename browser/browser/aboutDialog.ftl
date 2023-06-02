@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Ikhangela izihlaziyi…
 update-downloading = <img data-l10n-name="icon"/>Ikhuphela isihlaziyi — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Ikhuphela isihlaziyi — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Ukwenza uhlaziyo…
 update-failed = Uhlaziyo aluphumelelanga. <label data-l10n-name="failed-link">Khuphela inguqulelo yamva</label>
 update-failed-main = Uhlaziyo aluphumelelanga. <a data-l10n-name="failed-link-main">Khuphela inguqulelo yamva</a>
@@ -21,9 +29,16 @@ update-noUpdatesFound = I-{ -brand-short-name } igqibelele
 update-otherInstanceHandlingUpdates = I-{ -brand-short-name } iyahlaziywa ngelinye ithuba
 update-manual = Uhlaziyo lufumaneka <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Uhlaziyo lufumaneka <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 update-unsupported = Akunakukwazi ukuhlaziya ngokubhekele phaya kule nkqubo. <label data-l10n-name="unsupported-link">Funda okungakumbi</label>
 update-restarting = Iyaqala kwakhona…
 channel-description = Ngoku ukwi <label data-l10n-name="current-channel"></label> ukwitshaneli yohlaziyo.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Ngoku ukwi <label data-l10n-name="current-channel">{ $channel }</label> ukwitshaneli yohlaziyo.
