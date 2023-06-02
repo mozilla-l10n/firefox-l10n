@@ -6,6 +6,14 @@ aboutDialog-title =
     .title = Ò programie { -brand-full-name }
 update-checkingForUpdates = Szëkanié za aktualizacjama…
 update-downloading = <img data-l10n-name="icon"/>Zladënk aktualizacje — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Zladënk aktualizacje — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Instalacjô aktualizacje…
 update-failed = Aktualizacjô sã nie darziła. <label data-l10n-name="failed-link">Zladëjë nônowszą wersjã</label>
 update-failed-main = Aktualizacjô sã nie darziła. <a data-l10n-name="failed-link-main">Zladëjë nônowszą wersjã</a>
@@ -14,8 +22,17 @@ update-noUpdatesFound = Program { -brand-short-name } je zaktualniony
 update-otherInstanceHandlingUpdates = { -brand-short-name } je zaktualniany
 update-manual = Aktualizacje są przistãpné na <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Aktualizacje są przistãpné na <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Aktualizacje są przistãpné na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Aktualizacje są przistãpné na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ni mòżesz dali zaktualniac negò systemù. <label data-l10n-name="unsupported-link">Wëdowiedzë sã wicy</label>
 channel-description = Jes na kanale aktualizacje programù <label data-l10n-name="current-channel"></label>.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Jes na kanale aktualizacje programù <label data-l10n-name="current-channel">{ $channel }</label>.
