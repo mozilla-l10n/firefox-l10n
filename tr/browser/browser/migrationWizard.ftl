@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (Eski Sürüm)
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV dosyasındaki parolalar
+migration-wizard-migrator-display-name-file-bookmarks = HTML dosyasından yer imleri
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,18 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } parola güncellendi
        *[other] { $updatedEntries } parola güncellendi
+    }
+migration-bookmarks-from-file = Yer imleri
+migration-bookmarks-from-file-success-header = Yer imleri başarıyla içe aktarıldı
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } yer imi
+       *[other] { $newEntries } yer imi
     }
 migration-import-button-label = İçe aktar
 migration-choose-to-import-from-file-button-label = Dosyadan içe aktar
@@ -195,4 +208,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Safari yer işaretlerini ve gezinti geçmişini içe aktarmak için:
 migration-wizard-safari-instructions-continue = “Devam Et”i seçin
 migration-wizard-safari-instructions-folder = Listeden Safari klasörünü seçip “Aç”ı seçin
-migration-wizard-safari-select-button = Dosya seç

@@ -152,3 +152,12 @@ tabbrowser-tab-audio-playing-description = Ses çalınıyor
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = { $tabCount } sekmenin tümünü listele
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Sekmenin sesini kapat
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Sekmenin sesini aç
+tabbrowser-manager-close-tab =
+    .tooltiptext = Sekmeyi kapat

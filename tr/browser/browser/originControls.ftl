@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Uzantı verileri okuyamaz ve değiştiremez
+origin-controls-quarantined =
+    .label = Uzantının verileri okumasına ve değiştirmesine izin verilmiyor
 origin-controls-options =
     .label = Uzantı şu verileri okuyabilir ve değiştirebilir:
 origin-controls-option-all-domains =

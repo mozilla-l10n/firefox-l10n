@@ -679,6 +679,10 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Görüntü içinde görüntüyü aç ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Görüntü içinde görüntüyü kapat ({ $shortcut })
+picture-in-picture-panel-header = Görüntü içinde görüntü
+picture-in-picture-panel-headline = Bu web sitesi görüntü içinde görüntüyü önermiyor
+picture-in-picture-enable-toggle =
+    .label = Yine de etkinleştir
 
 ## Full Screen and Pointer Lock UI
 
