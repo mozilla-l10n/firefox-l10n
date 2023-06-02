@@ -14,6 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Nánuku a jíía…
 update-downloading = <img data-l10n-name="icon"/>Xinuun a jíía —<label data-l10n-name="download-status"/>
 update-downloading-message = Xinú a jíía — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>Xinuun a jíía —<label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Xinú a jíía — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = Naxi´ñá...
 update-failed = Ntu kuvi naxi´ñá. <label data-l10n-name="failed-link">Xinuu iin a jíía da ya´a</label>
 update-failed-main = Ntu kuvi naxi´ñá. <a data-l10n-name="failed-link-main">Xinuu iin a jíía da ya´a</a>
@@ -22,9 +31,18 @@ update-noUpdatesFound = { -brand-short-name } naxi´ñao a iyo jíía
 update-otherInstanceHandlingUpdates = { -brand-short-name } nánuku a jíía inka nuu
 update-manual = Naxi´ñao a jíía iyo nuu<label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Naxi´ñao a jíía iyo nuu<a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Naxi´ñao a jíía iyo nuu<label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Naxi´ñao a jíía iyo nuu<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nkuvika naxi´ñá ka̱a̱ ya´a. <label data-l10n-name="unsupported-link">Kutu´va jiee ya´a</label>
 update-restarting = Nakajie´e...
 channel-description = Ni´inu nasun da naxi´ña <label data-l10n-name="current-channel"></label>.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Ni´inu nasun da naxi´ña <label data-l10n-name="current-channel">{ $channel }</label>.
