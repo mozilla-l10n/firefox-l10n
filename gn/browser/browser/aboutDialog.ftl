@@ -19,6 +19,7 @@ update-downloading-message = Oguejyhína ñemhekopyahu — <label data-l10n-name
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Oñemboguejyhína tekopyahu —<label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Oguejyhína ñemhekopyahu — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
@@ -41,6 +42,7 @@ update-unsupported = Ndaikatuvéima reipuru ambue tekopyahu ko apopyvusúpe.<lab
 update-restarting = Moñepyrũjey…
 channel-description = Oiporuhína mbohapeha<label data-l10n-name="current-channel"></label> tekopyahurã.
 update-internal-error = Ndaikatúi eheka ñembohekopyahu oĩ rupi jejavy. Ñembohekopyahu eipurukuaa <label data-l10n-name="manual-link"/>-pe
+update-internal-error2 = Ndaikatúi eheka ñembohekopyahu oĩ rupi jejavy. Ñembohekopyahu eipurukuaa <label data-l10n-name="manual-link">{ $displayUrl }</label>-pe
 
 ##
 
