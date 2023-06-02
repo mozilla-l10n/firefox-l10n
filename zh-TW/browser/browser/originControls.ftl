@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = 擴充套件不可讀取或變更任何網站資料
+origin-controls-quarantined =
+    .label = 不允許擴充套件讀取或變更任何網站資料
 origin-controls-options =
     .label = 擴充套件可讀取或變更下列網站資料：
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = 無法對此網站讀取或變更資料
+origin-controls-state-quarantined = { -vendor-short-name } 不允許於此網站使用
 origin-controls-state-always-on = 總是可以對此網站讀取或變更資料
 origin-controls-state-when-clicked = 需要點擊授權才可讀取或變更資料
 origin-controls-state-hover-run-visit-only = 只對此次造訪執行
