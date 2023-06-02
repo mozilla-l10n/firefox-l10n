@@ -13,6 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കുന്നു...
 update-downloading = <img data-l10n-name="icon"/>പുതുക്കല്‍ ഡൌണ്‍ലോഡ് ചെയ്യുന്നു — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+settings-update-downloading = <img data-l10n-name="icon"/>പുതുക്കല്‍ ഡൌണ്‍ലോഡ് ചെയ്യുന്നു — <label data-l10n-name="download-status">{ $transfer }</label>
+
+##
+
 update-applying = പുതുക്കല്‍ നടപ്പാക്കുന്നു…
 update-failed = പുതുക്കാന്‍ കഴിഞ്ഞില്ല.<label data-l10n-name="failed-link">ഏറ്റവും പുതിയ പതിപ്പു് ഡൌണ്‍ലോഡ് ചെയ്യുക</label>
 update-failed-main = പുതുക്കാന്‍ കഴിഞ്ഞില്ല.<a data-l10n-name="failed-link-main">ഏറ്റവും പുതിയ പതിപ്പു് ഡൌണ്‍ലോഡ് ചെയ്യുക</a>
@@ -21,9 +29,18 @@ update-noUpdatesFound = { -brand-short-name } ഏറ്റവും പുതി
 update-otherInstanceHandlingUpdates = മറ്റൊരു ഇന്‍സ്റ്റന്‍സ് { -brand-short-name } പുതുക്കുന്നു
 update-manual = പുതുക്കലുകള്‍ ലഭ്യമാവാന്‍ <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = പുതുക്കലുകള്‍ ലഭ്യമാവാന്‍ <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = പുതുക്കലുകള്‍ ലഭ്യമാവാന്‍ <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = പുതുക്കലുകള്‍ ലഭ്യമാവാന്‍ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ഈ സിസ്റ്റത്തില്‍ നിങ്ങള്‍ക്കു് കൂടുതൽ പുതുക്കലുകള്‍ നടത്താന്‍ കഴിയില്ല.<label data-l10n-name="unsupported-link">കൂടുതലറിയാന്‍</label>
 update-restarting = വീണ്ടും പുനരാരംഭിക്കുന്നു…
 channel-description = നിങ്ങളിപ്പോള്‍ പുതുക്കിയ<label data-l10n-name="current-channel"></label> ചാനലിലാണു്.
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = നിങ്ങളിപ്പോള്‍ പുതുക്കിയ<label data-l10n-name="current-channel">{ $channel }</label> ചാനലിലാണു്.
