@@ -14,6 +14,13 @@ update-updateButton =
 update-checkingForUpdates = Muqel ma yella lqem amaynut...
 update-downloading = <img data-l10n-name="icon"/>Asader n lqem—  <label data-l10n-name="download-status"/>
 update-downloading-message = Asader n lqem — <label data-l10n-name="download-status"/>
+
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+
+##
+
 update-applying = Asnas n uleqqem.
 update-failed = Aleqqem ur yemmid ara. <label data-l10n-name="failed-link">Sader lqem aneggaru </label>
 update-failed-main = Aleqqem ur yemmid ara. <a data-l10n-name="failed-link-main">Sader lqem aneggaru </a>
@@ -23,10 +30,19 @@ aboutdialog-update-checking-failed = Aɣelluy deg usenqed n yileqman.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tleqqem-it tummant-nniḍen
 update-manual = Ileqman llan deg  <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = Ileqman llan deg  <a data-l10n-name="manual-link"/>
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = Ileqman llan deg  <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = Ileqman llan deg  <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. <label data-l10n-name="unsupported-link">Issin ugar </label>
 update-restarting = Aɛiwed n usenker…
-update-internal-error = Tella-d tuccḍa tagensant i yesweḥlen asenqed n yileqman. Ad ten-tafeḍ deg <label data-l10n-name="manual-link"/>
 channel-description = Aqli-k tura deg <label data-l10n-name="current-channel"></label>.
+update-internal-error = Tella-d tuccḍa tagensant i yesweḥlen asenqed n yileqman. Ad ten-tafeḍ deg <label data-l10n-name="manual-link"/>
+
+##
+
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Aqli-k tura deg <label data-l10n-name="current-channel">{ $channel }</label>.
