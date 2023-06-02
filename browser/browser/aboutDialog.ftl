@@ -19,7 +19,7 @@ update-downloading-message = Се презема ажурирање - <label dat
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Преземам надградба — <label data-l10n-name="download-status">{ $transfer }</label>
-aboutdialog-update-downloading = Се презема ажурирање - <label data-l10n-name = "download-status" />
+aboutdialog-update-downloading = Се презема ажурирање — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
