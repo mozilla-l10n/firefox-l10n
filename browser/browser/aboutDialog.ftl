@@ -41,6 +41,7 @@ update-unsupported = La dernière version n’est pas disponible pour votre syst
 update-restarting = Redémarrage…
 channel-description = Vous utilisez actuellement le canal de mise à jour <label data-l10n-name="current-channel"></label>.
 update-internal-error = Une erreur interne empêche la vérification des mises à jour. Elles sont disponibles sur <label data-l10n-name="manual-link"/>
+update-internal-error2 = Une erreur interne empêche la vérification des mises à jour. Elles sont disponibles sur <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
