@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Yukarı taşı
 unified-extensions-context-menu-move-widget-down =
     .label = Aşağı taşı
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Bazı uzantılara izin verilmiyor
