@@ -333,8 +333,8 @@ menu-help-exit-troubleshoot-mode =
     .label = Отключить безопасный режим
     .accesskey = Б
 menu-help-switch-device =
-    .label = Перейти на новое устройство
-    .accesskey = й
+    .label = Переход на новое устройство
+    .accesskey = х
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
