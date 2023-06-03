@@ -95,6 +95,13 @@ migration-bookmarks-from-file-picker-title = 导入书签文件
 migration-bookmarks-from-file-progress-header = 导入书签
 migration-bookmarks-from-file = 书签
 migration-bookmarks-from-file-success-header = 书签导入成功
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML 文档
+       *[other] HTML 文件
+    }
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON 文件

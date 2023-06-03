@@ -120,3 +120,8 @@ tabbrowser-tab-audio-playing-description = 音频播放中
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = 列出全部 { $tabCount } 个标签页
+
+## Tab manager menu buttons
+
+tabbrowser-manager-close-tab =
+    .tooltiptext = 关闭标签页
