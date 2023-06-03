@@ -82,6 +82,13 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Ин ҷузъи илов�
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Одатан, инҳо дастгоҳҳои васлшаванда ба монанди синтезаторҳои аудиоӣ мебошанд, аммо, инчунин, метавонанд ба компютери шумо дарунсохт карда шаванд.
+    
+    Одатан, сомонаҳо барои пайдо кардани дастрасӣ ба дастгоҳҳои MIDI иҷозат надоранд. Истифодаи нодуруст метавонад ба амният зарар расонад ё онро вайрон кунад.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
