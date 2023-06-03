@@ -38,6 +38,9 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Зер карда, кашед, то ки қиматҳои андоза иваз карда шаванд
 options-inspector-draggable-properties-tooltip =
     .title = Зер карда, кашед, то ки қиматҳои андоза дар намоиши қоидаҳои тафтишкунанда иваз карда шаванд.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Истифодаи ҷудокунандаҳои содатар бо «prefers-reduced-motion»
 
 ## "Default Color Unit" options for the Inspector
 
