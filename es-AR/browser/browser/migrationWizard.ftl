@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Contraseñas de archivo CSV
+migration-wizard-migrator-display-name-file-bookmarks = Marcadores de archivo HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } actualizada
        *[other] { $updatedEntries } actualizadas
+    }
+migration-bookmarks-from-file-picker-title = Importar archivo de marcadores
+migration-bookmarks-from-file-progress-header = Importando marcadores
+migration-bookmarks-from-file = Marcadores
+migration-bookmarks-from-file-success-header = Marcadores importados exitosamente
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Documento HTML
+       *[other] Archivo HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Archivo JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } marcador
+       *[other] { $newEntries } marcadores
     }
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar desde archivo
@@ -195,4 +220,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Para importar marcadores e historial de navegación de Safari:
 migration-wizard-safari-instructions-continue = Seleccionar “Continuar”
 migration-wizard-safari-instructions-folder = Seleccionar la carpeta de Safari en la lista y elegir “Abrir”
-migration-wizard-safari-select-button = Seleccionar archivo
