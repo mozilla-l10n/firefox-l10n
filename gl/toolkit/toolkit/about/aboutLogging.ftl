@@ -26,6 +26,7 @@ about-logging-logging-to-profiler = Rexistrando no { -profiler-brand-name }
 about-logging-no-log-modules = Nada
 about-logging-no-log-file = Nada
 about-logging-logging-preset-selector-text = Predefinición de rexistro:
+about-logging-with-profiler-stacks-checkbox = Activa os rastrexos da pila para as mensaxes de rexistro
 
 ## Logging presets
 
