@@ -673,6 +673,7 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = เปิดการแสดงภาพซ้อนภาพ ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = ปิดการแสดงภาพซ้อนภาพ ({ $shortcut })
+picture-in-picture-panel-header = ภาพที่เล่นควบคู่
 
 ## Full Screen and Pointer Lock UI
 
