@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Passwörter aus CSV-Datei
+migration-wizard-migrator-display-name-file-bookmarks = Lesezeichen aus HTML-Datei
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,29 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } aktualisiert
        *[other] { $updatedEntries } aktualisiert
+    }
+migration-bookmarks-from-file-picker-title = Lesezeichendatei importieren
+migration-bookmarks-from-file = Lesezeichen
+migration-bookmarks-from-file-success-header = Lesezeichen erfolgreich importiert
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-Dokument
+       *[other] HTML-Datei
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-Datei
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } Lesezeichen
+       *[other] { $newEntries } Lesezeichen
     }
 migration-import-button-label = Importieren
 migration-choose-to-import-from-file-button-label = Aus Datei importieren
@@ -195,4 +219,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Um Safari-Lesezeichen und die Surf-Chronik zu importieren:
 migration-wizard-safari-instructions-continue = Wählen Sie "Fortsetzen"
 migration-wizard-safari-instructions-folder = Wählen Sie in der Liste den Safari-Ordner aus und wählen Sie "Öffnen"
-migration-wizard-safari-select-button = Datei auswählen

@@ -677,6 +677,8 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Bild-im-Bild öffnen ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Bild-im-Bild schließen ({ $shortcut })
+picture-in-picture-enable-toggle =
+    .label = Trotzdem aktivieren
 
 ## Full Screen and Pointer Lock UI
 
