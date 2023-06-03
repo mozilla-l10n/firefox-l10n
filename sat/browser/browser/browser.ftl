@@ -687,6 +687,9 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱤᱨᱼᱪᱤᱛᱟᱹᱨ ᱵᱚᱸᱫ ᱢᱮ ({ $shortcut })
 picture-in-picture-panel-header = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱤᱼᱪᱤᱛᱟᱹᱨ
 picture-in-picture-panel-headline = ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱤᱼᱪᱤᱛᱟᱹᱨ ᱵᱟᱭ ᱯᱚᱨᱟᱢᱮᱥᱟᱭ
+picture-in-picture-panel-body = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱤᱼᱪᱤᱛᱟᱹᱨ ᱮᱢ ᱟᱠᱟᱱ ᱚᱠᱛᱚ ᱨᱮ ᱵᱷᱤᱰᱤᱭᱳ ᱫᱚ ᱰᱮᱵᱞᱚᱯᱚᱨᱟᱜ ᱩᱫᱩᱜ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱝ ᱧᱮᱞᱚᱜᱼᱟ ᱾
+picture-in-picture-enable-toggle =
+    .label = ᱡᱟᱦᱟᱸ ᱞᱮᱠᱟᱛᱮ ᱮᱢ ᱢᱮ
 
 ## Full Screen and Pointer Lock UI
 

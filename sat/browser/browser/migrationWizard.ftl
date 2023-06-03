@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV ᱨᱮᱫ ᱠᱷᱚᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
+migration-wizard-migrator-display-name-file-bookmarks = HTML ᱨᱮᱫᱽ ᱠᱷᱚᱱ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -100,6 +101,31 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
         [two] { $updatedEntries } ᱠᱤᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
        *[other] { $updatedEntries } ᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
+    }
+migration-bookmarks-from-file-picker-title = ᱨᱮᱫᱽ ᱠᱷᱚᱱ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱹᱜᱩ
+migration-bookmarks-from-file-progress-header = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟ
+migration-bookmarks-from-file = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ
+migration-bookmarks-from-file-success-header = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱨᱟᱹᱥ ᱞᱮᱠᱷᱟᱛᱮ ᱟᱹᱜᱩᱮᱱᱟ
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML ᱫᱚᱞᱤᱞ
+       *[other] HTML ᱨᱮᱫᱽ
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON ᱨᱮᱫᱽ
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ
+        [two] { $newEntries } ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱤᱱ
+       *[other] { $newEntries } ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ
     }
 migration-import-button-label = ᱟᱹᱜᱩ
 migration-choose-to-import-from-file-button-label = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
@@ -200,4 +226,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Safari ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱞᱟᱫᱮ ᱞᱟᱹᱜᱤᱫ :
 migration-wizard-safari-instructions-continue = “ᱞᱟᱦᱟ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-wizard-safari-instructions-folder = ᱞᱤᱥᱴᱤ ᱨᱮ Safari ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ “ᱠᱷᱩᱞᱟᱹ” ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ
-migration-wizard-safari-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ

@@ -162,3 +162,12 @@ tabbrowser-tab-audio-playing-description = ᱥᱮᱰᱮ ᱮᱱᱮᱡᱚᱜ ᱠ�
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = ᱡᱷᱚᱛᱚ ᱥᱩᱪᱤ  { $tabCount } ᱴᱮᱵᱽ ᱠᱚ
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = ᱴᱮᱵᱽ ᱢᱭᱩᱴ ᱢᱮ
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = ᱴᱮᱵᱽ ᱟᱹᱱᱢᱭᱩᱴ ᱢᱮ
+tabbrowser-manager-close-tab =
+    .tooltiptext = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ

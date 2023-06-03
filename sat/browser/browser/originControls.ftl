@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱵᱟᱭ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ
+origin-controls-quarantined =
+    .label = ᱰᱟᱴᱟ ᱠᱚ ᱯᱟᱲᱦᱟᱣ ᱥᱮ ᱵᱚᱫᱚᱞ ᱫᱚ ᱮᱠᱥᱴᱮᱱᱥᱮᱚᱱ ᱵᱟᱭ ᱮᱢᱪᱷᱚᱭᱟᱭ
 origin-controls-options =
     .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭᱺ
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
+origin-controls-state-quarantined = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ { -vendor-short-name } ᱵᱟᱭ ᱮᱢᱪᱷᱚᱭᱚᱭ
 origin-controls-state-always-on = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱜᱷᱤᱲᱜᱮ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱜᱟᱱᱚᱜᱼᱟ
 origin-controls-state-when-clicked = ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱚᱠ ᱫᱚᱨᱠᱟᱨ
 origin-controls-state-hover-run-visit-only = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
