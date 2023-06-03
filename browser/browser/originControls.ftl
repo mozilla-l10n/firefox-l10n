@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Tiện ích mở rộng không thể đọc và thay đổi dữ liệu
+origin-controls-quarantined =
+    .label = Tiện ích không được phép đọc và thay đổi dữ liệu
 origin-controls-options =
     .label = Tiện ích mở rộng có thể đọc và thay đổi dữ liệu:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Không thể đọc và thay đổi dữ liệu trên trang này
+origin-controls-state-quarantined = Không được phép bởi { -vendor-short-name } trên trang này
 origin-controls-state-always-on = Luôn luôn đọc và thay đổi dữ liệu trên trang này
 origin-controls-state-when-clicked = Cần quyền để đọc và thay đổi dữ liệu
 origin-controls-state-hover-run-visit-only = Chỉ chạy cho lần truy cập này

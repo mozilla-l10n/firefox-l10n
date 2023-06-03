@@ -673,6 +673,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Mở hình trong hình ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Đóng hình trong hình ({ $shortcut })
+picture-in-picture-panel-header = Hình trong hình
+picture-in-picture-panel-headline = Trang web này không khuyến nghị hình trong hình
+picture-in-picture-panel-body = Video có thể không hiển thị như ý định của nhà phát triển khi hình trong hình được bật.
+picture-in-picture-enable-toggle =
+    .label = Vẫn bật
 
 ## Full Screen and Pointer Lock UI
 
