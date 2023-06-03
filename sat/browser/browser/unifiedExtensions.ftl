@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = ᱪᱮᱛᱟᱱ ᱥᱮᱫ ᱥᱟᱦᱟ
 unified-extensions-context-menu-move-widget-down =
     .label = ᱞᱟᱛᱟᱨ ᱪᱟᱞᱟᱣ
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = ᱛᱤᱱᱟᱹᱜ ᱜᱤᱱ ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱮᱢ ᱪᱷᱚ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
+unified-extensions-mb-quarantined-domain-message = ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ { -vendor-short-name } ᱧᱮᱞ ᱟᱠᱟᱫ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ ᱜᱮ ᱪᱟᱹᱞᱩ ᱜᱟᱱᱚᱜᱼᱟ ᱾
