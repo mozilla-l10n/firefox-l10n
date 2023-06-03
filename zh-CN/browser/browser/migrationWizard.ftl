@@ -91,6 +91,13 @@ migration-wizard-progress-success-new-passwords = 已添加 { $newEntries } 个
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = 已更新 { $updatedEntries } 个
+migration-bookmarks-from-file-picker-title = 导入书签文件
+migration-bookmarks-from-file-progress-header = 导入书签
+migration-bookmarks-from-file = 书签
+migration-bookmarks-from-file-success-header = 书签导入成功
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON 文件
 migration-import-button-label = 导入
 migration-choose-to-import-from-file-button-label = 从文件导入
 migration-import-from-file-button-label = 选择文件
@@ -171,4 +178,3 @@ migration-wizard-progress-success-payment-methods = { $quantity } 个付款方�
 migration-wizard-safari-permissions-sub-header = 如需导入 Safari 浏览器书签和历史记录：
 migration-wizard-safari-instructions-continue = 选择“继续”
 migration-wizard-safari-instructions-folder = 在列表中选择“Safari 浏览器”文件夹，然后选取“打开”
-migration-wizard-safari-select-button = 选择文件

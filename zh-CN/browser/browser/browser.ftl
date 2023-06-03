@@ -673,6 +673,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = 打开画中画（{ $shortcut }）
 picture-in-picture-urlbar-button-close =
     .tooltiptext = 关闭画中画（{ $shortcut }）
+picture-in-picture-panel-header = 画中画
+picture-in-picture-panel-headline = 不推荐在此网站使用画中画
+picture-in-picture-panel-body = 开启画中画后，视频可能会不按开发者预期的效果显示。
+picture-in-picture-enable-toggle =
+    .label = 仍要启用
 
 ## Full Screen and Pointer Lock UI
 
