@@ -44,6 +44,7 @@ translations-panel-translate-button =
     .label = Omset
 translations-panel-translate-cancel =
     .label = Avbryt
+translations-panel-error-translating = Det oppstod eit problem med å omsetje. Prøv på nytt.
 translations-panel-error-load-languages = Klarte ikkje å laste inn språk
 translations-panel-error-load-languages-hint = Kontroller internett-tilkoplinga di og prøv på nytt.
 translations-panel-error-load-languages-hint-button =
