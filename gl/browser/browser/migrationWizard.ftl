@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = A beta do Edge da Mi
 migration-wizard-migrator-display-name-edge-legacy = Edge da Microsoft antigo
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Contrasinais do ficheiro CSV
+migration-wizard-migrator-display-name-file-bookmarks = Marcadores do ficheiro HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -99,6 +100,20 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualizada
        *[other] { $updatedEntries } actualizadas
     }
+migration-bookmarks-from-file-picker-title = Importar ficheiro de marcadores
+migration-bookmarks-from-file-progress-header = Importando marcadores
+migration-bookmarks-from-file = Marcadores
+migration-bookmarks-from-file-success-header = Marcadores importados correctamente
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Documento HTML
+       *[other] Ficheiro HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Ficheiro JSON
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar do ficheiro
 migration-import-from-file-button-label = Seleccionar un ficheiro
@@ -195,4 +210,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Para importar os marcadores de Safari e o historial de navegación:
 migration-wizard-safari-instructions-continue = Seleccione «Continuar»
 migration-wizard-safari-instructions-folder = Seleccione o cartafol de Safari na lista e escolla «Abrir»
-migration-wizard-safari-select-button = Seleccionar un ficheiro
