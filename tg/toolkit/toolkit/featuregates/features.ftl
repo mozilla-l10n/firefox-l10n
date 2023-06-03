@@ -12,6 +12,7 @@ experimental-features-css-masonry-description = Барои хусусияти о
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Ин API-и нав дастгирии дараҷаи пастро барои иҷрои ҳисоббарорӣ ва намоиши графика бо истифодаи <a data-l10n-name="wikipedia">Воҳиди коркарди графикӣ (GPU)</a> аз дастгоҳ ё компютери корбар таъмин менамояд. <a data-l10n-name="spec">Таснифот</a> ҳанӯз дар ҳоли баррасӣ аст. Барои маълумоти муфассал, ба <a data-l10n-name="bugzilla">хатои 1602129</a> нигаред.
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> дастгирии дараҷаи пастро барои иҷрои ҳисоббарорӣ ва коркарди тасвирӣ бо истифодаи <a data-l10n-name="wikipedia-gpu">Воҳиди коркарди тасвирӣ (GPU)</a> аз дастгоҳ ё компютери корбар таъмин менамояд. Версияи аввалини <a data-l10n-name="spec">specification</a> ба наздикӣ таҳия карда мешавад. Барои маълумоти муфассал, ба <a data-l10n-name="bugzilla">хатои 1616739</a> нигаред.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
