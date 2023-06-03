@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = ใช้งานล่าสุด
 firefoxview-tabs-list-tab-button =
     .title = เปิด { $targetURI } ในแท็บใหม่
 firefoxview-try-colorways-button = ลองใช้ชุดรูปแบบสี
-firefoxview-no-current-colorway-collection = ชุดรูปแบบสีใหม่กำลังจะมีให้ใช้ในเร็ว ๆ นี้
 firefoxview-change-colorway-button = เปลี่ยนชุดรูปแบบสี
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,16 @@ firefoxview-collapse-button-show =
     .title = แสดงรายการ
 firefoxview-collapse-button-hide =
     .title = ซ่อนรายการ
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = ประวัติ
+firefoxview-history-header = ประวัติ
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = ดูทั้งหมด

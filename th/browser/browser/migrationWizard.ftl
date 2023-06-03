@@ -58,6 +58,7 @@ migration-favorites-option-label = รายการโปรด
 migration-logins-and-passwords-option-label = การเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
 migration-history-option-label = ประวัติการเรียกดู
 migration-form-autofill-option-label = ข้อมูลกรอกแบบฟอร์มอัตโนมัติ
+migration-payment-methods-option-label = วิธีการชำระเงิน
 migration-passwords-from-file-progress-header = นำเข้าไฟล์รหัสผ่าน
 migration-passwords-from-file-success-header = นำเข้ารหัสผ่านสำเร็จแล้ว
 migration-passwords-from-file = กำลังตรวจสอบหารหัสผ่านในไฟล์
@@ -98,6 +99,10 @@ migration-wizard-progress-success-updated-passwords =
         [one] ปรับปรุงแล้ว { $updatedEntries }
        *[other] ปรับปรุงแล้ว { $updatedEntries }
     }
+migration-bookmarks-from-file = ที่คั่นหน้า
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = ไฟล์ JSON
 migration-import-button-label = นำเข้า
 migration-choose-to-import-from-file-button-label = นำเข้าจากไฟล์
 migration-import-from-file-button-label = เลือกไฟล์
@@ -120,6 +125,7 @@ migration-list-favorites-label = รายการโปรด
 migration-list-password-label = รหัสผ่าน
 migration-list-history-label = ประวัติ
 migration-list-autofill-label = ข้อมูลกรอกอัตโนมัติ
+migration-list-payment-methods-label = วิธีการชำระเงิน
 
 ##
 
@@ -183,4 +189,3 @@ migration-wizard-progress-success-formdata = ประวัติแบบฟ�
 migration-wizard-safari-permissions-sub-header = หากต้องการนำเข้าที่คั่นหน้าและประวัติการเรียกดูจาก Safari:
 migration-wizard-safari-instructions-continue = ให้เลือก “ดำเนินการต่อ”
 migration-wizard-safari-instructions-folder = เลือกโฟลเดอร์ Safari จากในรายการ แล้วเลือก “เปิด”
-migration-wizard-safari-select-button = เลือกไฟล์
