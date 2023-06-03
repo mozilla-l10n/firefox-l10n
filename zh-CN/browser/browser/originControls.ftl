@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = 扩展不可读取和更改任何数据
+origin-controls-quarantined =
+    .label = 不允许扩展读取和更改任何数据
 origin-controls-options =
     .label = 扩展可以读取和更改下列数据：
 origin-controls-option-all-domains =
