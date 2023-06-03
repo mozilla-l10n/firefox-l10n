@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Subir
 unified-extensions-context-menu-move-widget-down =
     .label = Baixar
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Algunhas extensións non están permitidas

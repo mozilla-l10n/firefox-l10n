@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Reproducindo audio
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Listar as { $tabCount } lapelas
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Enmudecer lapela
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Desenmudecer lapela
+tabbrowser-manager-close-tab =
+    .tooltiptext = Pechar lapela
