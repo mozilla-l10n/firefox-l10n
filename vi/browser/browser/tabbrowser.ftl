@@ -120,3 +120,12 @@ tabbrowser-tab-audio-playing-description = Đang phát âm thanh
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Hiển thị tất cả { $tabCount } thẻ
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Tắt tiếng thẻ
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Bỏ tắt tiếng thẻ
+tabbrowser-manager-close-tab =
+    .tooltiptext = Đóng thẻ

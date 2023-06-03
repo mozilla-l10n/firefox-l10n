@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge cũ
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Mật khẩu từ tập tin CSV
+migration-wizard-migrator-display-name-file-bookmarks = Dấu trang từ tập tin HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -91,6 +92,26 @@ migration-wizard-progress-success-new-passwords = Đã thêm { $newEntries }
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = Đã cập nhật { $updatedEntries }
+migration-bookmarks-from-file-picker-title = Nhập tập tin dấu trang
+migration-bookmarks-from-file-progress-header = Đang nhập dấu trang
+migration-bookmarks-from-file = Dấu trang
+migration-bookmarks-from-file-success-header = Đã nhập dấu trang thành công
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Tài liệu HTML
+       *[other] Tập tin HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Tập tin JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks = { $newEntries } dấu trang
 migration-import-button-label = Nhập
 migration-choose-to-import-from-file-button-label = Nhập từ tập tin
 migration-import-from-file-button-label = Chọn tập tin
@@ -167,4 +188,3 @@ migration-wizard-progress-success-payment-methods = { $quantity } phương thứ
 migration-wizard-safari-permissions-sub-header = Để nhập dấu trang Safari và lịch sử duyệt web:
 migration-wizard-safari-instructions-continue = Chọn “Tiếp tục”
 migration-wizard-safari-instructions-folder = Chọn thư mục Safari trong danh sách và chọn “Mở”
-migration-wizard-safari-select-button = Chọn tập tin

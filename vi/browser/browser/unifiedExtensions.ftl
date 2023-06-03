@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Di chuyển lên
 unified-extensions-context-menu-move-widget-down =
     .label = Di chuyển xuống
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Vài tiện ích mở rộng không được phép
+unified-extensions-mb-quarantined-domain-message = Chỉ một số tiện ích do { -vendor-short-name } giám sát mới được phép trên trang web này để bảo vệ dữ liệu của bạn.
