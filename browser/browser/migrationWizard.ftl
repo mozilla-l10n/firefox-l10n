@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = 旧版 Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV 文件中的密码
+migration-wizard-migrator-display-name-file-bookmarks = HTML 文件中的书签
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer（IE 浏览器）
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -105,6 +106,12 @@ migration-bookmarks-from-file-html-filter-title =
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON 文件
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks = { $newEntries } 个书签
 migration-import-button-label = 导入
 migration-choose-to-import-from-file-button-label = 从文件导入
 migration-import-from-file-button-label = 选择文件
