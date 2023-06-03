@@ -115,6 +115,8 @@ options-enable-remote-tooltip2 =
     .title = Se activa esta opción permitirá depurar de forma remota esta instancia do navegador
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = Usar a tecla F12 para abrir ou pechar as DevTools
+options-enable-f12-tooltip =
+    .title = Activar esta opción vinculará a tecla F12 para abrir ou pechar a caixa de ferramentas de DevTools
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Activar os formatadores personalizados
 options-enable-custom-formatters-tooltip =

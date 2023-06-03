@@ -40,3 +40,4 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Algunhas extensións non están permitidas
+unified-extensions-mb-quarantined-domain-message = Neste sitio só se permiten algunhas extensións supervisadas por { -vendor-short-name } para protexer os seus datos.
