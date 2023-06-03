@@ -115,6 +115,8 @@ options-enable-remote-tooltip2 =
     .title = 启用此选项将允许远程调试此浏览器实例
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = 使用 F12 键打开或关闭开发者工具
+options-enable-f12-tooltip =
+    .title = 开启此选项后， 将绑定 F12 键用于打开或关闭开发者工具箱
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = 启用自定义格式化程序
 options-enable-custom-formatters-tooltip =

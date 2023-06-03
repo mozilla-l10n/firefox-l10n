@@ -51,7 +51,7 @@ translations-panel-error-load-languages-hint-button =
     .label = 重试
 translations-panel-error-unsupported = 无法翻译此页面
 translations-panel-error-dismiss-button =
-    .label = 明白
+    .label = 知道了
 translations-panel-error-change-button =
     .label = 更改原始语言
 # If your language requires declining the language name, a possible solution

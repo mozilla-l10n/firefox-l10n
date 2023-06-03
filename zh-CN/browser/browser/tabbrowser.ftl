@@ -123,5 +123,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = 静音标签页
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = 取消静音标签页
 tabbrowser-manager-close-tab =
     .tooltiptext = 关闭标签页
