@@ -44,6 +44,23 @@ translations-panel-translate-button =
     .label = ᱛᱚᱨᱡᱚᱢᱟ
 translations-panel-translate-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
+translations-panel-error-translating = ᱛᱚᱨᱡᱚᱢᱟ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱦᱩᱭᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+translations-panel-error-load-languages = ᱯᱟᱹᱨᱥᱤ ᱞᱟᱫᱮ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ
+translations-panel-error-load-languages-hint = ᱟᱢᱟᱜ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱡᱩᱲᱟᱹᱣ ᱧᱮᱞ ᱢᱮ ᱟᱨ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+translations-panel-error-load-languages-hint-button =
+    .label = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
+translations-panel-error-unsupported = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱞᱟᱹᱜᱤᱫ ᱛᱚᱨᱡᱚᱢᱟ ᱵᱟᱹᱱᱩᱜᱼᱟ
+translations-panel-error-dismiss-button =
+    .label = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
+translations-panel-error-change-button =
+    .label = ᱥᱨᱚᱛ ᱯᱟᱹᱨᱥᱤ ᱵᱚᱫᱚᱞ ᱢᱮ
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = ᱠᱠᱟᱹ, ᱟᱞᱮ { $language } ᱯᱟᱹᱨᱥᱤ ᱱᱤᱛ ᱫᱷᱟᱹᱵᱤᱡ ᱵᱟᱞᱮ ᱥᱚᱦᱚᱫ ᱠᱟᱫᱟ ᱾
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
