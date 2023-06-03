@@ -681,6 +681,8 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Pechar imaxe sobre imaxe ({ $shortcut })
 picture-in-picture-panel-header = Imaxe en imaxe
+picture-in-picture-panel-headline = Este sitio web non recomenda imaxe en imaxe
+picture-in-picture-panel-body = É posible que os vídeos non se mostren tal e como pretendía o programador mentres a opción imaxe en imaxe está activada.
 picture-in-picture-enable-toggle =
     .label = Activar de todos os xeitos
 
