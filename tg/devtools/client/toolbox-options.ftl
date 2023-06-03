@@ -41,6 +41,8 @@ options-inspector-draggable-properties-tooltip =
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Истифодаи ҷудокунандаҳои содатар бо «prefers-reduced-motion»
+options-inspector-simplified-highlighters-tooltip =
+    .title = Вақте ки «prefers-reduced-motion» фаъол аст, ҷудокунандаҳои содакардашуда фаъол мешаванд. Барои истисно кардани таъсирҳои дурахш, ба ивази росткунҷаҳои рангшуда дар атрофи унсурҳои ҷудокардашуда хатҳо кашида мешаванд.
 
 ## "Default Color Unit" options for the Inspector
 
