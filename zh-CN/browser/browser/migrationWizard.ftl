@@ -100,7 +100,7 @@ migration-bookmarks-from-file-success-header = 书签导入成功
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
     { PLATFORM() ->
-        [macos] HTML 文档
+        [macos] HTML 文稿
        *[other] HTML 文件
     }
 # A description for the .json file format that may be shown as the file type
