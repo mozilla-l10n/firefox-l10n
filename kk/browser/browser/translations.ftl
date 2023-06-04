@@ -81,3 +81,6 @@ translations-settings-sites-column =
 translations-settings-remove-site-button =
     .label = Сайтты өшіру
     .accesskey = С
+translations-settings-remove-all-sites-button =
+    .label = Барлық сайттарды өшіру
+    .accesskey = ш

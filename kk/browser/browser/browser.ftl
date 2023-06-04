@@ -679,6 +679,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Суреттегі суретті жабу ({ $shortcut })
 picture-in-picture-panel-header = Суреттегі сурет
 picture-in-picture-panel-headline = Бұл веб-сайт "Суреттегі сурет" функциясын қолдануға ұсынбайды
+picture-in-picture-panel-body = "Суреттегі сурет" режимі іске қосулы кезінде суреттер әзірлеуші ойлағандай көрсетілмеуі мүмкін.
 picture-in-picture-enable-toggle =
     .label = Сонда да іске қосу
 
@@ -998,6 +999,11 @@ firefox-relay-offer-what-relay-does = Біз <strong>{ $sitename }</strong> ад
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Біздің қауіпсіз, қолдануға оңай маскалар сіздің тұлғаңызды қорғайды және электрондық пошта адресіңізді жасыру арқылы спамның алдын алады.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Электрондық пошта маскаларына жіберілген барлық хаттар <strong>{ $useremail }</strong> адресіне жіберіледі (егер сіз оларды блоктауды шешпесеңіз).
+firefox-relay-offer-legal-notice = "Электронды пошта маскасын қолдану" шерту арқылы, сіз <label data-l10n-name="tos-url">Қызмет көрсету шарттары</label> мен <label data-l10n-name="privacy-url">Жекелік ескертуімен</label> келісесіз.
 
 ## Add-on Pop-up Notifications
 
