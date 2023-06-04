@@ -40,7 +40,7 @@ aboutdialog-update-manual-with-link = Aktualizácie sú k dispozícii na stránk
 settings-update-manual-with-link = Aktualizácie sú k dispozícii na stránke <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ďalšie aktualizácie už nie sú na tomto systéme možné. <label data-l10n-name="unsupported-link">Ďalšie informácie</label>
 update-restarting = Reštartuje sa…
-channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel"></label>.{ " " }
+channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel"></label>.
 update-internal-error = Nie je možné skontrolovať aktualizácie kvôli internej chybe. Aktualizácie sú k dispozícii na stránke <label data-l10n-name="manual-link"/>
 update-internal-error2 = Nie je možné skontrolovať aktualizácie kvôli internej chybe. Aktualizácie sú k dispozícii na stránke <label data-l10n-name="manual-link">{ $displayUrl }</label>
 

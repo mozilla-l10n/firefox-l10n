@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Posunúť nahor
 unified-extensions-context-menu-move-widget-down =
     .label = Posunúť nadol
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Niektoré rozšírenia nie sú povolené
+unified-extensions-mb-quarantined-domain-message = Na ochranu vašich údajov sú na tejto stránke povolené iba niektoré rozšírenia monitorované { -vendor-short-name(case: "ins") }.
