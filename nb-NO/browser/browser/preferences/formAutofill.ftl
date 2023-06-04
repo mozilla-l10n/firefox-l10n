@@ -7,10 +7,8 @@
 
 autofill-manage-addresses-title = Lagrede adresser
 autofill-manage-addresses-list-header = Adresser
-
-autofill-manage-credit-cards-title = Lagrede kredittkort
-autofill-manage-credit-cards-list-header = Kredittkort
-
+autofill-manage-credit-cards-title = Lagrede betalingskort
+autofill-manage-credit-cards-list-header = Betalingskort
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Fjern
@@ -23,7 +21,6 @@ autofill-manage-edit-button = Rediger…
 autofill-add-new-address-title = Legg til ny adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
-
 autofill-address-given-name = Fornavn
 autofill-address-additional-name = Mellomnavn
 autofill-address-family-name = Etternavn
@@ -84,16 +81,13 @@ autofill-address-eircode = Eircode
 autofill-address-country = Land eller region
 autofill-address-tel = Telefon
 autofill-address-email = E-post
-
 autofill-cancel-button = Avbryt
 autofill-save-button = Lagre
 autofill-country-warning-message = Automatisk utfylling av skjema er for tiden bare tilgjengelig i enkelte land.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Legg til nytt kredittkort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediger kredittkort
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +96,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } prøver å vise kredittkortinformasjon. Bekreft tilgang til denne Windows-kontoen nedenfor.
        *[other] { -brand-short-name } prøver å vise kredittkortinformasjon.
     }
-
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Skriv inn et gyldig kortnummer
 autofill-card-name-on-card = Navn på kort
