@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Spelar upp ljud
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Lista alla { $tabCount } flikar
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Ljud av för flik
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Ljud på för flik
+tabbrowser-manager-close-tab =
+    .tooltiptext = Stäng flik
