@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = Acerca del registro
 about-logging-page-title = Administrador de registros
 about-logging-current-log-file = Archivo actual de registro:
-about-logging-current-log-modules = Módulos actuales de registro:
 about-logging-new-log-file = Nuevo archivo de registro:
 about-logging-currently-enabled-log-modules = Módulos de registro activados actualmente:
 about-logging-log-tutorial = Vea <a data-l10n-name="logging">Registro HTTP</a> para más instrucciones sobre cómo usar esta herramienta.
@@ -44,6 +26,7 @@ about-logging-logging-to-profiler = Registrar en el { -profiler-brand-name }
 about-logging-no-log-modules = Ninguno
 about-logging-no-log-file = Ninguno
 about-logging-logging-preset-selector-text = Registro preestablecido:
+about-logging-with-profiler-stacks-checkbox = Activar análisis de la pila para mensajes de registro
 
 ## Logging presets
 
