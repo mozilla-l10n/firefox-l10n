@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV файлынан парольдер
+migration-wizard-migrator-display-name-file-bookmarks = HTML файлынан бетбелгілер
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } жаңартылды
        *[other] { $updatedEntries } жаңартылды
+    }
+migration-bookmarks-from-file-picker-title = Бетбелгілер файлын импорттау
+migration-bookmarks-from-file-progress-header = Бетбелгілерді импорттау
+migration-bookmarks-from-file = Бетбелгілер
+migration-bookmarks-from-file-success-header = Бетбелгілер сәтті импортталды
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML құжаты
+       *[other] HTML файлы
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON файлы
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } бетбелгі
+       *[other] { $newEntries } бетбелгі
     }
 migration-import-button-label = Импорттау
 migration-choose-to-import-from-file-button-label = Файлдан импорттау
@@ -195,4 +220,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Safari бетбелгілері мен шолу тарихын импорттау үшін:
 migration-wizard-safari-instructions-continue = "Жалғастыру" таңдаңыз
 migration-wizard-safari-instructions-folder = Тізімнен Safari бумасын таңдап, "Ашу" басыңыз.
-migration-wizard-safari-select-button = Файлды таңдау

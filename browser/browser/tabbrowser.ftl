@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Аудио ойнату
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Барлық { $tabCount } бетті тізіп шығару
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Бет дыбысын басу
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Бет дыбысын іске қосу
+tabbrowser-manager-close-tab =
+    .tooltiptext = Бетті жабу
