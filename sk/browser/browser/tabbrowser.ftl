@@ -167,3 +167,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Zobraziť všetky { $tabCount } karty
            *[other] Zobraziť všetkých { $tabCount } kariet
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Stlmiť zvuk na tejto karte
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Zapnúť zvuk na tejto karte
+tabbrowser-manager-close-tab =
+    .tooltiptext = Zavrieť kartu
