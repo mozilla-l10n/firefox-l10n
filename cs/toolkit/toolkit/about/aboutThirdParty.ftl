@@ -64,6 +64,9 @@ third-party-status-loaded = Načtený
 third-party-status-blocked = Zablokovaný
 third-party-status-redirected = Přesměrovaný
 third-party-button-copy-to-clipboard = Zkopírovat data do schránky
+third-party-loading-data =
+    .alt = Načítání systémových informací…
+    .title = Načítají se systémové informace…
 third-party-button-reload = Znovu načíst se systémovými informacemi
     .title = Znovu načíst se systémovými informacemi
 third-party-button-open =
@@ -104,6 +107,7 @@ third-party-should-restart-ok =
         [with-cases] Restartovat { -brand-short-name(case: "acc") }
        *[no-cases] Restartovat aplikaci { -brand-short-name }
     }
+third-party-restart-now = Restartovat
 third-party-restart-later = Restartovat později
 third-party-blocked-by-builtin =
     .title =
