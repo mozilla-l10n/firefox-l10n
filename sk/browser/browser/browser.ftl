@@ -684,6 +684,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Spustiť režim Obraz v obraze ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Ukončiť režim Obraz v obraze ({ $shortcut })
+picture-in-picture-panel-header = Obraz v obraze
+picture-in-picture-panel-headline = Táto webová stránka neodporúča režim Obraz v obraze
+picture-in-picture-panel-body = Ak je zapnutý režim Obraz v obraze, videá sa nemusia zobrazovať tak, ako to vývojár zamýšľal.
+picture-in-picture-enable-toggle =
+    .label = Napriek tomu povoliť
 
 ## Full Screen and Pointer Lock UI
 
