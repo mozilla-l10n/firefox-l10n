@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Titulky
     .tooltip = Titulky
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Na celou obrazovku
+    .tooltip = Na celou obrazovku (dvojklepnutí nebo { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Ukončit režim celé obrazovky
+    .tooltip = Ukončit režim celé obrazovky (dvojklepnutí nebo { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Ukončit režim celé obrazovky
     .tooltip = Ukončit režim celé obrazovky (poklepání)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Zpět
     .tooltip = Zpět (←)
