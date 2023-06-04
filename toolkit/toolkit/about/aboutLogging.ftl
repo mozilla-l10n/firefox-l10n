@@ -2,25 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
 # This is the title of the page
 about-logging-title = Om loggning
 about-logging-page-title = Hantera loggar
 about-logging-current-log-file = Aktuell loggfil:
-about-logging-current-log-modules = Aktuella loggmoduler:
 about-logging-new-log-file = Ny loggfil:
 about-logging-currently-enabled-log-modules = För närvarande aktiverade loggmoduler:
 about-logging-log-tutorial = Se <a data-l10n-name="logging">HTTP-loggning</a> för instruktioner om hur du använder detta verktyg.
@@ -41,6 +26,7 @@ about-logging-logging-to-profiler = Loggar till { -profiler-brand-name }
 about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
 about-logging-logging-preset-selector-text = Förinställning för loggar:
+about-logging-with-profiler-stacks-checkbox = Aktivera stackspårningar för loggmeddelanden
 
 ## Logging presets
 

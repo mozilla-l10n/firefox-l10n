@@ -677,6 +677,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Öppna bild-i-bild ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Stäng bild-i-bild ({ $shortcut })
+picture-in-picture-panel-header = Bild-i-bild
+picture-in-picture-panel-headline = Denna webbplats rekommenderar inte bild-i-bild
+picture-in-picture-panel-body = Videor kanske inte visas som utvecklaren tänkt när bild-i-bild är aktiverat.
+picture-in-picture-enable-toggle =
+    .label = Aktivera ändå
 
 ## Full Screen and Pointer Lock UI
 

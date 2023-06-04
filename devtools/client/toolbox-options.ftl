@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Aktivera fjärrfelsökning
 options-enable-remote-tooltip2 =
     .title = Om du slår på det här alternativet kan du felsöka den här webbläsarinstansen på distans
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Använd F12-tangenten för att öppna eller stänga DevTools
+options-enable-f12-tooltip =
+    .title = Om du aktiverar det här alternativet binds F12-tangenten för att öppna eller stänga DevTools verktygslåda
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Aktivera anpassade formaterare
 options-enable-custom-formatters-tooltip =

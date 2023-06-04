@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Lösenord från CSV-fil
+migration-wizard-migrator-display-name-file-bookmarks = Bokmärken från HTML-fil
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } har uppdaterats
        *[other] { $updatedEntries } har uppdaterats
+    }
+migration-bookmarks-from-file-picker-title = Importera bokmärkesfil
+migration-bookmarks-from-file-progress-header = Importerar bokmärken
+migration-bookmarks-from-file = Bokmärken
+migration-bookmarks-from-file-success-header = Bokmärken har importerats
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokument
+       *[other] HTML-fil
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-fil
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } bokmärke
+       *[other] { $newEntries } bokmärken
     }
 migration-import-button-label = Importera
 migration-choose-to-import-from-file-button-label = Importera från fil
@@ -195,4 +220,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Så här importerar du Safari-bokmärken och webbhistorik:
 migration-wizard-safari-instructions-continue = Välj "Fortsätt"
 migration-wizard-safari-instructions-folder = Välj Safari-mappen i listan och välj "Öppna"
-migration-wizard-safari-select-button = Välj fil
