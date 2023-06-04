@@ -677,6 +677,10 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Суреттегі суретті ашу ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Суреттегі суретті жабу ({ $shortcut })
+picture-in-picture-panel-header = Суреттегі сурет
+picture-in-picture-panel-headline = Бұл веб-сайт "Суреттегі сурет" функциясын қолдануға ұсынбайды
+picture-in-picture-enable-toggle =
+    .label = Сонда да іске қосу
 
 ## Full Screen and Pointer Lock UI
 
