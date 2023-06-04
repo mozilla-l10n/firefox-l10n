@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Heslá zo súboru CSV
+migration-wizard-migrator-display-name-file-bookmarks = Záložky zo súboru HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -102,6 +103,32 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } aktualizované
         [many] { $updatedEntries } aktualizovaných
        *[other] { $updatedEntries } aktualizovaných
+    }
+migration-bookmarks-from-file-picker-title = Import súboru záložiek
+migration-bookmarks-from-file-progress-header = Prebieha import záložiek
+migration-bookmarks-from-file = Záložky
+migration-bookmarks-from-file-success-header = Záložky boli úspešne importované
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument HTML
+       *[other] Súbor HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Súbor JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } záložka
+        [few] { $newEntries } záložky
+        [many] { $newEntries } záložiek
+       *[other] { $newEntries } záložiek
     }
 migration-import-button-label = Importovať
 migration-choose-to-import-from-file-button-label = Importovať zo súboru
@@ -209,4 +236,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Ak chcete importovať záložky a históriu prehliadania zo Safari:
 migration-wizard-safari-instructions-continue = Zvoľte tlačidlo “Pokračovať”
 migration-wizard-safari-instructions-folder = V zozname vyberte priečinok Safari a zvoľte “Otvoriť”
-migration-wizard-safari-select-button = Vybrať súbor
