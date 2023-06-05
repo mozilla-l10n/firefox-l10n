@@ -201,7 +201,10 @@ colorways-cfr-primarybutton = වර්ණ පරාසය තෝරන්න
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = දත්තකඩ පතාක ප්‍රතික්‍ෂේපයට { -brand-short-name } වෙත ඉඩ දෙන්නද?
 cfr-cbh-body = { -brand-short-name } මඟින් බොහෝ දත්තකඩ පතාක ඉල්ලීම් ස්වයංක්‍රීයව ඉවතලිය හැකිය.
+cfr-cbh-confirm-button = දත්තකඩ පතාක ඉවතලීම
+    .accesskey = R
 cfr-cbh-dismiss-button = දැන් නොවේ
     .accesskey = N
 
