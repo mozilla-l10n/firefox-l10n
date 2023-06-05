@@ -956,6 +956,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = දත්තකඩ පතාක අවකරණය
+cookie-banner-handling-description = { -brand-short-name } සහාය දක්වන අඩවි මත දත්තකඩ පතාකවල දත්තකඩ ඉල්ලීම් ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කිරීමට උත්සාහ කරයි.
 cookie-banner-learn-more = තව දැනගන්න
 
 ## Privacy Section - Address Bar
