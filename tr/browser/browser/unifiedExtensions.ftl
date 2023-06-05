@@ -40,3 +40,4 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Bazı uzantılara izin verilmiyor
+unified-extensions-mb-quarantined-domain-message = Verilerinizi korumak amacıyla, bu sitede yalnızca { -vendor-short-name } onaylı bazı uzantılara izin verilir.

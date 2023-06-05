@@ -29,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Bu sitedeki verileri okuyamaz ve değiştiremez
+origin-controls-state-quarantined = { -vendor-short-name } bu sitede izin vermiyor
 origin-controls-state-always-on = Bu sitedeki verileri her zaman okuyabilir ve değiştirebilir
 origin-controls-state-when-clicked = Verileri okumak ve değiştirmek için izin gerekli
 origin-controls-state-hover-run-visit-only = Yalnızca bu ziyaret boyunca çalıştır

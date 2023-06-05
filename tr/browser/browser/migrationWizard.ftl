@@ -100,6 +100,8 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } parola güncellendi
        *[other] { $updatedEntries } parola güncellendi
     }
+migration-bookmarks-from-file-picker-title = Yer İmi Dosyasını İçe Aktar
+migration-bookmarks-from-file-progress-header = Yer imleri içe aktarılıyor
 migration-bookmarks-from-file = Yer imleri
 migration-bookmarks-from-file-success-header = Yer imleri başarıyla içe aktarıldı
 # A description for the .html file format that may be shown as the file type
