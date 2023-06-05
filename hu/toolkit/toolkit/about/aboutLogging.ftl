@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = A naplózásról
 about-logging-page-title = Naplókezelő
 about-logging-current-log-file = Jelenlegi naplófájl:
-about-logging-current-log-modules = Jelenlegi naplómodulok:
 about-logging-new-log-file = Új naplófájl:
 about-logging-currently-enabled-log-modules = Jelenleg engedélyezett naplómodulok:
 about-logging-log-tutorial =
@@ -46,6 +28,7 @@ about-logging-logging-to-profiler = Naplózás a { -profiler-brand-name }be
 about-logging-no-log-modules = Nincs
 about-logging-no-log-file = Nincs
 about-logging-logging-preset-selector-text = Naplózási előbeállítás:
+about-logging-with-profiler-stacks-checkbox = Veremkiíratások engedélyezése a naplóüzeneteknél
 
 ## Logging presets
 
