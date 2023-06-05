@@ -385,7 +385,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = 더 알아보기
 update-application-title = { -brand-short-name } 업데이트
-update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지합니다.
+update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지하세요.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = 버전 { $version } <a data-l10n-name="learn-more">새 기능</a>
