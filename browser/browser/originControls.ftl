@@ -27,6 +27,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Pòt pas legir nimai modificar las donadas d’aqueste site
+origin-controls-state-quarantined = Non autorizat per { -vendor-short-name } sus aqueste site
 origin-controls-state-always-on = Pòt totjorn legir e modificar las donadas d’aqueste site
 origin-controls-state-when-clicked = Autorizacion requerida per legir e modificar las donadas
 origin-controls-state-hover-run-visit-only = Autorizar aqueste còp sonque
