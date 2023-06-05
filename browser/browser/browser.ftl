@@ -696,6 +696,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Отвори слика у слици ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Затвори слика у слици ({ $shortcut })
+picture-in-picture-panel-header = Слика у слици
+picture-in-picture-panel-headline = Ова веб локација не препоручује слику у слици
+picture-in-picture-panel-body = Видео снимци се можда неће приказивати онако како је програмер намеравао док је слика у слици омогућена.
+picture-in-picture-enable-toggle =
+    .label = Ипак омогући
 
 ## Full Screen and Pointer Lock UI
 

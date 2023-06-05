@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Помери горе
 unified-extensions-context-menu-move-widget-down =
     .label = Помери доле
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Неки додаци нису дозвољени
+unified-extensions-mb-quarantined-domain-message = Ради заштитите ваших податаке, на овом сајту су дозвољене само одређени додаци које надгледа { -vendor-short-name }.
