@@ -201,6 +201,7 @@ colorways-cfr-primarybutton = වර්ණ පරාසය තෝරන්න
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-body = { -brand-short-name } මඟින් බොහෝ දත්තකඩ පතාක ඉල්ලීම් ස්වයංක්‍රීයව ඉවතලිය හැකිය.
 cfr-cbh-dismiss-button = දැන් නොවේ
     .accesskey = N
 
@@ -211,3 +212,9 @@ july-jam-set-default-primary = { -brand-short-name } සමඟ මාගේ ස�
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-primary = තේරුණා
+
+## FxA sync CFR
+
+
+## Device Migration FxA Spotlight
+
