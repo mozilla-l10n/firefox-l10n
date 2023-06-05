@@ -101,6 +101,29 @@ migration-wizard-progress-success-updated-passwords =
        *[other] { $updatedEntries } hekopyahupyre
     }
 migration-bookmarks-from-file-picker-title = Techaukaha marandurenda jegueru
+migration-bookmarks-from-file-progress-header = Techaukaha mba’egueru
+migration-bookmarks-from-file = Techaukaha
+migration-bookmarks-from-file-success-header = Mba’ekuaarã mba’egueru porã
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML Kuatiaite
+       *[other] HTML Marandurenda
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON Marandurenda
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } techaukaha
+       *[other] { $newEntries } techaukahakuéra
+    }
 migration-import-button-label = Mba’egueru
 migration-choose-to-import-from-file-button-label = Marandurendágui jegueru
 migration-import-from-file-button-label = Eiporavo Marandurenda

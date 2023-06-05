@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Ehendu mba’epu
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Tysyipa { $tabCount } ápe
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Tendayke mokirirĩ
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Tendayke ñe’ẽpu moĩporã
+tabbrowser-manager-close-tab =
+    .tooltiptext = Emboty tendayke
