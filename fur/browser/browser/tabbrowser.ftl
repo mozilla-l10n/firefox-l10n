@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Riproduzion audio
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Liste dutis lis { $tabCount } schedis
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Cidine la schede
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Ative audio te schede
+tabbrowser-manager-close-tab =
+    .tooltiptext = Siere schede

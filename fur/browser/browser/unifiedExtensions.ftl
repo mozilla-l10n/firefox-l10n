@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Sposte in sù
 unified-extensions-context-menu-move-widget-down =
     .label = Sposte in jù
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Cualchi estension no je consintude
+unified-extensions-mb-quarantined-domain-message = Dome cualchi estension monitorade di { -vendor-short-name } e je consintude su chest sît par protezi i tiei dâts.

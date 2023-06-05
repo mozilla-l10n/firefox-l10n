@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = La estension no pues lei e cambiâ dâts
+origin-controls-quarantined =
+    .label = La estension no à il permès par lei e modificâ dâts
 origin-controls-options =
     .label = La estension e pues lei e cambiâ i dâts:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = No pues lei e cambiâ dâts su chest sît
+origin-controls-state-quarantined = No consintude di { -vendor-short-name } su chest sît
 origin-controls-state-always-on = E pues simpri lei e cambiâ dâts su chest sît
 origin-controls-state-when-clicked = Autorizazion necessarie par lei e cambiâ dâts
 origin-controls-state-hover-run-visit-only = Eseguìs dome par cheste visite

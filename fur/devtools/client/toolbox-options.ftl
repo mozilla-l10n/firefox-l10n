@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Ative il debug di lontan
 options-enable-remote-tooltip2 =
     .title = Ativant cheste opzion al sarà pussibil fâ il debug di lontan di cheste istance dal navigadôr
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Dopre il tast F12 par vierzi o sierâ DevTools
+options-enable-f12-tooltip =
+    .title = Ativant cheste opzion il tast F12 al vignarà associât al vierzi e al sierâ dai struments di svilup
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Abilite i formatadôrs personalizâts
 options-enable-custom-formatters-tooltip =

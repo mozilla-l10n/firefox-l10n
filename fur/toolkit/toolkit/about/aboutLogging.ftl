@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = Informazion sui regjistris
 about-logging-page-title = Gjestôr regjistrazions
 about-logging-current-log-file = File di regjistri atuâl:
-about-logging-current-log-modules = Modui di regjistri atuai:
 about-logging-new-log-file = Gnûf file di regjistri:
 about-logging-currently-enabled-log-modules = Modui di regjistrazion atualmentri abilitâts:
 about-logging-log-tutorial = Viôt <a data-l10n-name="logging">HTTP Logging</a> par otignî istruzions su cemût doprâ chest strument.
@@ -44,6 +26,7 @@ about-logging-logging-to-profiler = Regjistrazion su { -profiler-brand-name }
 about-logging-no-log-modules = Nissun
 about-logging-no-log-file = Nissun
 about-logging-logging-preset-selector-text = Pre-configurazion di regjistrazion:
+about-logging-with-profiler-stacks-checkbox = Ative analisi dal stack pai messaçs di regjistri
 
 ## Logging presets
 
