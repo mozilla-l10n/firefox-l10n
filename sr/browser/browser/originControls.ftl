@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Додатак не може да чита и мења податке
+origin-controls-quarantined =
+    .label = Додатку није дозвољено да чита и мења податке
 origin-controls-options =
     .label = Додатак може да чита и мења податке:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Читање и мењање података није могуће на овом сајту
+origin-controls-state-quarantined = Није дозволио { -vendor-short-name } на овом сајту
 origin-controls-state-always-on = Читање и мењање података је увек могуће на овом сајту
 origin-controls-state-when-clicked = Потребне су дозволе за читање и мењање података
 origin-controls-state-hover-run-visit-only = Покрени само за ову посету

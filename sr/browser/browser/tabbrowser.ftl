@@ -164,3 +164,8 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Прикажи { $tabCount } картице
            *[other] Прикажи { $tabCount } картица
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-close-tab =
+    .tooltiptext = Затвори картицу

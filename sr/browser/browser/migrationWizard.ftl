@@ -130,6 +130,7 @@ migration-list-favorites-label = омиљено
 migration-list-password-label = лозинке
 migration-list-history-label = историја
 migration-list-autofill-label = подаци о аутоматском попуњавању образаца
+migration-list-payment-methods-label = начини плаћања
 
 ##
 
@@ -194,6 +195,17 @@ migration-wizard-progress-success-history =
        *[other] Од задњих { $maxAgeInDays } дана
     }
 migration-wizard-progress-success-formdata = Историја образаца
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } начин плаћања
+        [few] { $quantity } начина плаћања
+       *[other] { $quantity } начина плаћања
+    }
 migration-wizard-safari-permissions-sub-header = Да увезете Safari обележиваче и историју прегледања:
 migration-wizard-safari-instructions-continue = Изаберите „Настави”
 migration-wizard-safari-instructions-folder = Изаберите Safari фасциклу из списка, а затим „Отвори”
