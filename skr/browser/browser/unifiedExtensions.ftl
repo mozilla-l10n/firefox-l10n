@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = اُوتے کرو
 unified-extensions-context-menu-move-widget-down =
     .label = تلے کرو
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = کجھ ایکسٹنشناں دی اجازت کائنی
