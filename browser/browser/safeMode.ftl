@@ -10,5 +10,6 @@ start-troubleshoot-mode =
 refresh-profile =
     .label = Reîmprospătează { -brand-short-name }
 troubleshoot-mode-description = Folosește acest mod special de { -brand-short-name } pentru a diagnostica problemele. Extensiile și personalizările tale vor fi dezactivate temporar.
+skip-troubleshoot-refresh-profile = De asemenea, poți omite depanarea și, în schimb, să reîmprospătezi { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } s-a închis în mod neașteptat la pornire. Acest lucru ar putea fi cauzat de suplimente sau alte probleme. Poți încerca să rezolvi problema prin depanare în modul sigur.
