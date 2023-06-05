@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge ancian
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Senhal a partir d’un fichièr CSV
+migration-wizard-migrator-display-name-file-bookmarks = Marcapaginas a partir d’un fichièr HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -58,6 +59,7 @@ migration-favorites-option-label = Favorits
 migration-logins-and-passwords-option-label = Identificants e senhals salvats
 migration-history-option-label = Istoric de navegacion
 migration-form-autofill-option-label = Donadas d’emplenatge automatic
+migration-payment-methods-option-label = Metòdes de pagament
 migration-passwords-from-file-progress-header = Importar un fichièr de senhals
 migration-passwords-from-file-success-header = Senhals corrèctament importats
 migration-passwords-from-file = Verificacion del fichièr de senhals
@@ -98,6 +100,29 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualizat
        *[other] { $updatedEntries } actualizats
     }
+migration-bookmarks-from-file-picker-title = Importar un fichièr de marcapaginas
+migration-bookmarks-from-file-progress-header = Importacion dels marcapaginas
+migration-bookmarks-from-file = Marcapaginas
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Document HTML
+       *[other] Fichièrs HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Fichièr JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } marcapagina
+       *[other] { $newEntries } marcapaginas
+    }
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar d’un fichièr
 migration-import-from-file-button-label = Seleccionar un fichièr
@@ -120,6 +145,7 @@ migration-list-favorites-label = favorits
 migration-list-password-label = senhals
 migration-list-history-label = istoric
 migration-list-autofill-label = dondas d’emplenatge auto
+migration-list-payment-methods-label = metòdes de pagament
 
 ##
 
@@ -180,7 +206,16 @@ migration-wizard-progress-success-history =
        *[other] Dels darrièrs { $maxAgeInDays } jorns
     }
 migration-wizard-progress-success-formdata = Istoric de formulari
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } metòde de pagament
+       *[other] { $quantity } metòdes de pagament
+    }
 migration-wizard-safari-permissions-sub-header = Per importar marcapaginas e istoric de navigacion de Safari :
 migration-wizard-safari-instructions-continue = Seleccionatz « Contunhar »
 migration-wizard-safari-instructions-folder = Seleccionatz lo dossièr Safari dins la lista e causissètz « Dobrir »
-migration-wizard-safari-select-button = Seleccionar un fichièr
