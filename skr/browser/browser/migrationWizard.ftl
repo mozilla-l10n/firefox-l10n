@@ -58,6 +58,7 @@ migration-favorites-option-label = من بھان٘دے
 migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
 migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
+migration-payment-methods-option-label = ادائیگی طریقے
 migration-passwords-from-file-progress-header = پاس ورڈز فائل امپورٹ کرو
 migration-passwords-from-file-success-header = پاس ورڈز کامیابی نال امپورٹ تھی آئے
 migration-passwords-from-file = پاس ورڈاں کیتے فائل دی پڑتال کریندا پئے
@@ -98,6 +99,7 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } اپ ڈیٹ تھیا
        *[other] { $updatedEntries } اپ ڈیٹ تھئے
     }
+migration-bookmarks-from-file-picker-title = نشانیاں دی فائل درآمد کرو
 migration-bookmarks-from-file = نشانیاں
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
@@ -131,6 +133,7 @@ migration-list-favorites-label = من بھان٘دے
 migration-list-password-label = پاس ورڈز
 migration-list-history-label = تاریخ
 migration-list-autofill-label = آٹوفل ڈیٹا
+migration-list-payment-methods-label = ادائیگی طریقے
 
 ##
 
@@ -191,6 +194,16 @@ migration-wizard-progress-success-history =
        *[other] چھیکڑی { $maxAgeInDays } ݙیہاڑیاں کنوں
     }
 migration-wizard-progress-success-formdata = فارم تاریخ
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } ادائیگی طریقہ
+       *[other] { $quantity } ادائیگی طریقے
+    }
 migration-wizard-safari-permissions-sub-header = سفاری نشانیاں تے براؤزنگ تاریخ امپورٹ کرݨ کیتے:
 migration-wizard-safari-instructions-continue = ” جاری” چݨو
 migration-wizard-safari-instructions-folder = تندیر وچ Safari فولڈر چݨو تے "کھولو" چݨو

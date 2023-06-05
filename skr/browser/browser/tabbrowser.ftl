@@ -153,3 +153,7 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = ٹیب کوں خاموش کرو
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = ٹیب کوں چالو کرو
+tabbrowser-manager-close-tab =
+    .tooltiptext = ٹیب بند کرو

@@ -13,3 +13,4 @@ confirmation-hint-pin-tab = پن لڳ ڳئے!
 confirmation-hint-pin-tab-description = ٹیب کوں ان پن کرݨ کیتے رائٹ کلک کرو۔
 confirmation-hint-send-to-device = بھیڄ ݙتا ڳئے!
 confirmation-hint-firefox-relay-mask-generated = نواں { -relay-brand-short-name } ماسک بݨ ڳئے!
+confirmation-hint-firefox-relay-mask-created = نواں ماسک تخلیق تھیا!

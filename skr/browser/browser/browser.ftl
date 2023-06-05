@@ -681,6 +681,8 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = تصویر وچ تصویر ({ $shortcut }) بند کرو
 picture-in-picture-panel-header = تصویر وِچ تصویر
+picture-in-picture-enable-toggle =
+    .label = ہرو بھرو فعال کرو
 
 ## Full Screen and Pointer Lock UI
 

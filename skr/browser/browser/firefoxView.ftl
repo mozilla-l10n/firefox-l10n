@@ -81,6 +81,7 @@ firefoxview-collapse-button-show =
     .title = تندیر ݙکھاؤ
 firefoxview-collapse-button-hide =
     .title = تندیر لکاؤ
+firefoxview-overview-navigation = حالیہ براؤزنگ
 
 ## History in this context refers to browser history
 

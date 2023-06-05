@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = ونڈو تے ٹیباں
 browser-data-session-label =
     .value = ونڈو تے ٹیباں
+browser-data-payment-methods-checkbox =
+    .label = ادائیگی طریقے
+browser-data-payment-methods-label =
+    .value = ادائیگی طریقے
