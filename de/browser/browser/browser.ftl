@@ -677,6 +677,9 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Bild-im-Bild öffnen ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Bild-im-Bild schließen ({ $shortcut })
+picture-in-picture-panel-header = Bild-im-Bild
+picture-in-picture-panel-headline = Diese Website empfiehlt kein Bild-im-Bild
+picture-in-picture-panel-body = Videos werden möglicherweise nicht so angezeigt, wie vom Entwickler beabsichtigt, wenn Bild-im-Bild aktiviert ist.
 picture-in-picture-enable-toggle =
     .label = Trotzdem aktivieren
 
