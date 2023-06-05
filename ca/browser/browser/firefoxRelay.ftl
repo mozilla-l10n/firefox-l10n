@@ -24,6 +24,8 @@ firefox-relay-generate-mask-subtitle = Genera una màscara del { -relay-brand-sh
 firefox-relay-opt-in-confirmation-enable =
     .label = Continua
     .accesskey = C
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Protegiu la vostra adreça electrònica:
 firefox-relay-opt-in-confirmation-disable =
     .label = No tornis a mostrar-ho
     .accesskey = m
