@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (version vecje)
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Passwords dal file CSV
+migration-wizard-migrator-display-name-file-bookmarks = Segnelibris dal file HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -98,6 +99,30 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } inzornade
        *[other] { $updatedEntries } inzornadis
+    }
+migration-bookmarks-from-file-picker-title = Importazion file di segnelibris
+migration-bookmarks-from-file-progress-header = Daûr a impuartâ i segnelibris
+migration-bookmarks-from-file = Segnelibris
+migration-bookmarks-from-file-success-header = Segnelibris impuartâts cun sucès
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Document HTML
+       *[other] File HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = File JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } segnelibri
+       *[other] { $newEntries } segnelibris
     }
 migration-import-button-label = Impuarte
 migration-choose-to-import-from-file-button-label = Impuarte di file
@@ -195,4 +220,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Par impuartâ i segnelibris di Safari e la cronologjie di navigazion:
 migration-wizard-safari-instructions-continue = Selezione “Continue”
 migration-wizard-safari-instructions-folder = Selezione la cartele Safari te liste e sielç “Vierç”
-migration-wizard-safari-select-button = Selezione file

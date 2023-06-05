@@ -678,6 +678,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Vierç Picture-in-Picture ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Siere Picture-in-Picture ({ $shortcut })
+picture-in-picture-panel-header = Picture-in-Picture
+picture-in-picture-panel-headline = Chest sît web nol consee la utilizazion dal Picture-in-Picture
+picture-in-picture-panel-body = Al è pussibil che i videos no si visualizin come previodût dal svilupadôr cuant che al è atîf il Picture-in-Picture.
+picture-in-picture-enable-toggle =
+    .label = Ative distès
 
 ## Full Screen and Pointer Lock UI
 
