@@ -67,8 +67,8 @@ translations-panel-error-unsupported-hint-unknown = Ľutujeme, tento jazyk zatia
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
-translations-panel-from-label = Preložiť z
-translations-panel-to-label = Preložiť do
+translations-panel-from-label = Preložiť z jazyka
+translations-panel-to-label = Preložiť do jazyka
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
