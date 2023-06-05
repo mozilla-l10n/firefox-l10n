@@ -8,10 +8,18 @@ urlbar-translations-button =
 
 ## Options in the Firefox Translations settings.
 
+translations-panel-settings-manage-languages =
+    .label = زباناں منیج کرو
+translations-panel-settings-never-translate-unknown-language =
+    .label = ایں زبان دا کݙاہیں ترجمہ نہ کرو
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = ایں سائٹ دا کݙاہیں ترجمہ نہ کرو
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = ایں ورقے دا ترجمہ کرو؟
 translations-panel-translate-button =
     .label = ترجمہ کرو
 translations-panel-translate-cancel =

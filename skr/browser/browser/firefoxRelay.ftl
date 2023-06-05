@@ -24,6 +24,8 @@ firefox-relay-generate-mask-subtitle = { -relay-brand-short-name } ماسک بݨ
 firefox-relay-opt-in-confirmation-enable =
     .label = جاری رکھو
     .accesskey = C
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = آپݨے ای میل پتے دی حفاظت کرو:
 firefox-relay-opt-in-confirmation-enable-button =
     .label = ای میل ماسک ورتو
     .accesskey = U

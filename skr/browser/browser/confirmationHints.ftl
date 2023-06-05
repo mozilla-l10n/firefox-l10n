@@ -14,3 +14,4 @@ confirmation-hint-pin-tab-description = ٹیب کوں ان پن کرݨ کیتے 
 confirmation-hint-send-to-device = بھیڄ ݙتا ڳئے!
 confirmation-hint-firefox-relay-mask-generated = نواں { -relay-brand-short-name } ماسک بݨ ڳئے!
 confirmation-hint-firefox-relay-mask-created = نواں ماسک تخلیق تھیا!
+confirmation-hint-screenshot-copied = سکرین شاٹ نقل تھی ڳیا!
