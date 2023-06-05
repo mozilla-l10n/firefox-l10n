@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Послато!
 confirmation-hint-firefox-relay-mask-generated = Направљена је нова { -relay-brand-short-name } маска!
 confirmation-hint-firefox-relay-mask-created = Нова маска је направљена!
 confirmation-hint-firefox-relay-mask-reused = Употребљена је већ постојећа маска!
+confirmation-hint-screenshot-copied = Снимак екрана је копиран!

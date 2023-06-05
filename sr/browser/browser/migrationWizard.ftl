@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Лозинке из CSV датотеке
+migration-wizard-migrator-display-name-file-bookmarks = Обележивачи из HTML датотеке
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -58,6 +59,7 @@ migration-favorites-option-label = Омиљено
 migration-logins-and-passwords-option-label = Сачуване пријаве и лозинке
 migration-history-option-label = Историја прегледања
 migration-form-autofill-option-label = Подаци о аутоматском попуњавању образаца
+migration-payment-methods-option-label = Начини плаћања
 migration-passwords-from-file-progress-header = Увези датотеку са лозинкама
 migration-passwords-from-file-success-header = Лозинке су успешно увезене
 migration-passwords-from-file = Датотека се проверава за лозинке
@@ -92,6 +94,20 @@ migration-wizard-progress-success-updated-passwords =
         [few] Ажурирана су { $updatedEntries }
        *[other] Ажурирано је { $updatedEntries }
     }
+migration-bookmarks-from-file-picker-title = Увоз датотеке са обележивачима
+migration-bookmarks-from-file-progress-header = Увоз обележивача
+migration-bookmarks-from-file = Обележивачи
+migration-bookmarks-from-file-success-header = Обележивачи су успешно увезени
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML документ
+       *[other] HTML датотека
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON датотека
 migration-import-button-label = Увези
 migration-choose-to-import-from-file-button-label = Увези из датотеке
 migration-import-from-file-button-label = Изабери датотеку
@@ -181,4 +197,3 @@ migration-wizard-progress-success-formdata = Историја образаца
 migration-wizard-safari-permissions-sub-header = Да увезете Safari обележиваче и историју прегледања:
 migration-wizard-safari-instructions-continue = Изаберите „Настави”
 migration-wizard-safari-instructions-folder = Изаберите Safari фасциклу из списка, а затим „Отвори”
-migration-wizard-safari-select-button = Изаберите датотеку
