@@ -42,19 +42,70 @@ translations-panel-translate-button =
     .label = Преведи
 translations-panel-translate-cancel =
     .label = Откажи
+translations-panel-error-translating = Дошло је до проблема при превођењу. Покушајте поново касније.
+translations-panel-error-load-languages = Није могуће учитати језике
+translations-panel-error-load-languages-hint = Проверите интернет везу и покушајте поново.
+translations-panel-error-load-languages-hint-button =
+    .label = Покушај поново
+translations-panel-error-unsupported = Није доступан превод за ову страницу
+translations-panel-error-dismiss-button =
+    .label = Важи
+translations-panel-error-change-button =
+    .label = Промени изворни језик
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Жао нам је, { $language } још увек није подржан.
+translations-panel-error-unsupported-hint-unknown = Жао нам је, овај језик још увек није подржан.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Изворни језик
+translations-panel-to-label = Преведи на
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Ова страница је преведена са { $fromLanguage } на { $toLanguage }
+translations-panel-choose-language =
+    .label = Изабери језик
+translations-panel-restore-button =
+    .label = Прикажи оригинал
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Преводи
+translations-manage-settings-button =
+    .label = Подешавања…
+    .accesskey = д
+translations-manage-description = Преузмите језике за офлајн превод.
+translations-manage-all-language = Сви језици
+translations-manage-download-button = Преузми
+translations-manage-delete-button = Обриши
+translations-manage-error-download = Дошло је до проблема при преузимању језичких датотека. Покушајте поново.
+translations-manage-error-delete = Дошло је до грешке при брисању језичких датотека. Покушајте поново.
+translations-manage-error-list = Није могуће добити листу доступних језика за превод. Освежите страницу да покушате поново.
+translations-settings-title =
+    .title = Подешавања превода
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Превод ће се десити аутоматски за следеће језике
+translations-settings-never-translate-langs-description = Превод неће бити понуђен за следеће језике
+translations-settings-never-translate-sites-description = Превод неће бити понуђен за следеће сајтове
 translations-settings-languages-column =
     .label = Језици
 translations-settings-remove-language-button =
