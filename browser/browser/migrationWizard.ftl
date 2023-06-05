@@ -77,7 +77,7 @@ migration-passwords-from-file-csv-filter-title =
 # filter by the operating system. TSV is short for 'tab separated values'.
 migration-passwords-from-file-tsv-filter-title =
     { PLATFORM() ->
-        [macos] TSV 文件
+        [macos] TSV 文档
        *[other] TSV 文件
     }
 # Shown in the migration wizard after importing passwords from a file
