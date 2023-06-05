@@ -5,81 +5,62 @@
 permissions-window =
     .title = හැරදැමීම්
     .style = width: 45em
-
 permissions-window2 =
     .title = හැරදැමීම්
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = අඩවියේ ලිපිනය
     .accesskey = d
-
 permissions-block =
     .label = අවහිර
     .accesskey = B
-
 permissions-session =
     .label = වාරයට ඉඩදෙන්න
     .accesskey = S
-
 permissions-allow =
     .label = ඉඩ දෙන්න
     .accesskey = A
-
 permissions-button-off =
     .label = අක්‍රිය කරන්න
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = තාවකාලිකව අක්‍රිය කරන්න
     .accesskey = T
-
 permissions-site-name =
     .label = අඩවිය
-
 permissions-status =
     .label = තත්‍වය
-
 permissions-remove =
     .label = අඩවිය ඉවත් කරන්න
     .accesskey = R
-
 permissions-remove-all =
     .label = සියළු අඩවි ඉවත් කරන්න
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = වෙනස්කම් සුරකින්න
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = සියළුම අඩවි සඳහා මකන්න:
-
 permissions-searchbox =
     .placeholder = අඩවිය සොයන්න
-
 permissions-capabilities-autoplay-allow =
     .label = ශ්‍රව්‍ය හා දෘශ්‍ය සඳහා ඉඩදෙන්න
 permissions-capabilities-autoplay-block =
     .label = හඬ අවහිර කරන්න
 permissions-capabilities-autoplay-blockall =
     .label = ශ්‍රව්‍ය හා දෘශ්‍ය අවහිර කරන්න
-
 permissions-capabilities-allow =
     .label = ඉඩ දෙන්න
 permissions-capabilities-block =
     .label = අවහිර
 permissions-capabilities-prompt =
     .label = සැමවිට අසන්න
-
 permissions-capabilities-listitem-allow =
     .value = ඉඩ දෙන්න
 permissions-capabilities-listitem-block =
     .value = අවහිර
 permissions-capabilities-listitem-allow-session =
     .value = වාරයට ඉඩදෙන්න
-
 permissions-capabilities-listitem-off =
     .value = අක්‍රිය
 permissions-capabilities-listitem-off-temporarily =
@@ -93,20 +74,18 @@ permissions-invalid-uri-label = වලංගු සත්කාරක නාම�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = වැඩිදියුණු කළ ලුහුබැඳීමේ ආරක්‍ෂාව සඳහා හැරදැමීම්
+    .title = දියුණු කළ ලුහුබැඳීමේ රැකවරණය හැරදැමීම්
     .style = { permissions-window.style }
-
-permissions-exceptions-etp-window2 =
-    .title = වැඩිදියුණු කළ ලුහුබැඳීමේ ආරක්‍ෂාව සඳහා හැරදැමීම්
-    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = ඔබ මෙම අඩවිවලට රැකවරණය අක්‍රිය කර ඇත.
+permissions-exceptions-etp-window2 =
+    .title = දියුණු කළ ලුහුබැඳීමේ රැකවරණය හැරදැමීම්
+    .style = { permissions-window2.style }
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = හැරදැමීම් - දත්තකඩ හා අඩවි දත්ත
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = හැරදැමීම් - දත්තකඩ හා අඩවි දත්ත
     .style = { permissions-window2.style }
@@ -117,7 +96,6 @@ permissions-exceptions-cookie-desc = දත්තකඩ හා අඩවි ද�
 permissions-exceptions-https-only-window =
     .title = හැරදැමීම් - HTTPS-පමණි ප්‍රකාරය
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = හැරදැමීම් - HTTPS-පමණි ප්‍රකාරය
     .style = { permissions-window2.style }
@@ -128,7 +106,6 @@ permissions-exceptions-https-only-desc = ඔබට නිශ්චිත වි�
 permissions-exceptions-popup-window =
     .title = අවසර දුන් අඩවි - උත්පතන
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = අවසර දුන් අඩවි - උත්පතන
     .style = { permissions-window2.style }
@@ -139,7 +116,6 @@ permissions-exceptions-popup-desc = උපත්තන කවුළු විව
 permissions-exceptions-saved-logins-window =
     .title = හැරදැමීම් - සුරැකි පිවිසුම්
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = හැරදැමීම් - සුරැකි පිවිසුම්
     .style = { permissions-window2.style }
@@ -150,7 +126,6 @@ permissions-exceptions-saved-logins-desc = පහත වියමන අඩව�
 permissions-exceptions-addons-window =
     .title = ඉඩ දුන් වියමන අඩවි - එක්කහු ස්ථාපනය
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = ඉඩ දුන් වියමන අඩවි - එක්කහු ස්ථාපනය
     .style = { permissions-window2.style }
@@ -161,7 +136,6 @@ permissions-exceptions-addons-desc = එක්කහු ස්ථාපනය �
 permissions-site-autoplay-window =
     .title = සැකසුම් - ස්වයං වාදනය
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = සැකසුම් - ස්වයං වාදනය
     .style = { permissions-window2.style }
@@ -172,7 +146,6 @@ permissions-site-autoplay-desc = පෙරනිමි ස්වයං වාද
 permissions-site-notification-window =
     .title = සැකසුම් - දැනුම්දීමේ අවසර
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = සැකසුම් - දැනුම්දීමේ අවසර
     .style = { permissions-window2.style }
@@ -186,7 +159,6 @@ permissions-site-notification-disable-desc = ඉහත ලේඛනගත කර
 permissions-site-location-window =
     .title = සැකසුම් - ස්ථාන අවසර
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = සැකසුම් - ස්ථාන අවසර
     .style = { permissions-window2.style }
@@ -200,7 +172,6 @@ permissions-site-location-disable-desc = ඉහත ලේඛනගත කර න
 permissions-site-xr-window =
     .title = සැකසුම් - අතථ්‍ය යථාර්ථය අවසර
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = සැකසුම් - අතථ්‍ය යථාර්ථය අවසර
     .style = { permissions-window2.style }
@@ -214,7 +185,6 @@ permissions-site-xr-disable-desc = ඉහත ලේඛනගත කර නැත
 permissions-site-camera-window =
     .title = සැකසුම් - රූගතයට අවසර
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = සැකසුම් - රූගතයට අවසර
     .style = { permissions-window2.style }
@@ -228,7 +198,6 @@ permissions-site-camera-disable-desc = ඉහත ලේඛනගත කර න�
 permissions-site-microphone-window =
     .title = සැකසුම් - ශබ්දවාහිනියේ අවසර
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = සැකසුම් - ශබ්දවාහිනියේ අවසර
     .style = { permissions-window2.style }
@@ -236,3 +205,8 @@ permissions-site-microphone-desc = පහත වියමන අඩවි ඔබ
 permissions-site-microphone-disable-label =
     .label = ශබ්දවාහිනියට ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න
 permissions-site-microphone-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ ශබ්දවාහිනිය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා ඇතැම් අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
