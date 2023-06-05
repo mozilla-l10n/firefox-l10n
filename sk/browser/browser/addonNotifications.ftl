@@ -24,7 +24,7 @@ xpinstall-prompt-never-allow =
 # avoid a localization that's significantly longer than the English version.
 xpinstall-prompt-never-allow-and-report =
     .label = Nahlásiť podozrivú stránku
-    .accesskey = N
+    .accesskey = h
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
