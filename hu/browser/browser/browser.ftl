@@ -870,7 +870,7 @@ panel-save-update-password = Jelszó
 
 # Variables:
 #  $name (String): The name of the addon that will be removed.
-addon-removal-title = Eltávoltja a következőt: { $name }?
+addon-removal-title = Eltávolítja a következőt: { $name }?
 addon-removal-abuse-report-checkbox = A kiegészítő jelentése a { -vendor-short-name } felé
 
 ##

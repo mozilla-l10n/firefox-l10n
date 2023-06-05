@@ -63,7 +63,7 @@ webext-perms-update-menu-item = A(z) { $addonName } új engedélyeket igényel
 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
-addon-removal-title = Eltávoltja a következőt: { $name }?
+addon-removal-title = Eltávolítja a következőt: { $name }?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Eltávolítja a(z) { $name } kiegészítőt a { -brand-shorter-name }ból?
