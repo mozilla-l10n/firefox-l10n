@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Darrièr actiu
 firefoxview-tabs-list-tab-button =
     .title = Dobrir { $targetURI } dins un onglet novèl
 firefoxview-try-colorways-button = Ensajatz Colorways
-firefoxview-no-current-colorway-collection = De novèls colorits son en camin
 firefoxview-change-colorway-button = Cambiar de colorits
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,19 @@ firefoxview-collapse-button-show =
     .title = Afichar la lista
 firefoxview-collapse-button-hide =
     .title = Rescondre la lista
+firefoxview-overview-navigation = Navegacion recenta
+
+## History in this context refers to browser history
+
+firefoxview-history-navigation = Istoric
+firefoxview-history-header = Istoric
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-navigation = Onglets dobèrts
+firefoxview-opentabs-header = Onglets dobèrts
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Tot afichar

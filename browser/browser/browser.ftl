@@ -680,6 +680,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Dobrir la vidèo incrustada ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Tampar la vidèo incrustada ({ $shortcut })
+picture-in-picture-panel-header = Vidèo incrustada
+picture-in-picture-panel-headline = Aqueste site web recomanda pas l’usatge de la foncion vidèo incrustada
+picture-in-picture-panel-body = S’activatz la foncion de vidèo incrustada, es possible que las vidèos s‘afichen pas coma los desvolopaires desiran.
+picture-in-picture-enable-toggle =
+    .label = Activar malgrat tot
 
 ## Full Screen and Pointer Lock UI
 

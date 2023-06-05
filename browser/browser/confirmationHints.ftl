@@ -15,3 +15,4 @@ confirmation-hint-send-to-device = Mandat !
 confirmation-hint-firefox-relay-mask-generated = Àlias de messatjariá { -relay-brand-short-name } novèl generat !
 confirmation-hint-firefox-relay-mask-created = Àlias novèls creat !
 confirmation-hint-firefox-relay-mask-reused = Àlias existent reütilizat !
+confirmation-hint-screenshot-copied = Captura d’ecran copiada !
