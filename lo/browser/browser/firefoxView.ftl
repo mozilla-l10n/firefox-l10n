@@ -93,3 +93,5 @@ firefoxview-opentabs-navigation = ເປີດແທັບ
 
 ##
 
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = ເບິ່ງ​ທັງ​ຫມົດ

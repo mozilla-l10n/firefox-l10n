@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = ຍ້າຍຂື້ນ
 unified-extensions-context-menu-move-widget-down =
     .label = ຍ້າຍລົງ
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = ບາງສ່ວນຂະຫຍາຍແມ່ນບໍ່ໄດ້ຮັບອະນຸຍາດ
