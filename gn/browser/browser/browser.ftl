@@ -680,6 +680,10 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Embojuruja Picture-in-Picture ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Emboty Picture-in-Picture ({ $shortcut })
+picture-in-picture-panel-header = Picture-in-picture
+picture-in-picture-panel-headline = Ko ñanduti renda noikuave’ẽi Picture-in-Picture
+picture-in-picture-enable-toggle =
+    .label = Emyandy katuete
 
 ## Full Screen and Pointer Lock UI
 

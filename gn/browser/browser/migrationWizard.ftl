@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV marandurenda ñe’ẽñemi
+migration-wizard-migrator-display-name-file-bookmarks = HTML marandurenda rechaukaha
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -99,6 +100,7 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } hekopyahupyre
        *[other] { $updatedEntries } hekopyahupyre
     }
+migration-bookmarks-from-file-picker-title = Techaukaha marandurenda jegueru
 migration-import-button-label = Mba’egueru
 migration-choose-to-import-from-file-button-label = Marandurendágui jegueru
 migration-import-from-file-button-label = Eiporavo Marandurenda
@@ -195,4 +197,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Emba’egueru hag̃ua Safari kundahára rechaukaha ha rembiasakue:
 migration-wizard-safari-instructions-continue = Eiporavo “Ku’ejey”
 migration-wizard-safari-instructions-folder = Eiporavo Safari marandurenda rysýipe ha eiporavo “Mbojuruja”
-migration-wizard-safari-select-button = Eiporavo Marandurenda
