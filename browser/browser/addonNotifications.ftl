@@ -19,7 +19,7 @@ xpinstall-prompt-dont-allow =
     .accesskey = N
 xpinstall-prompt-never-allow =
     .label = Nikdy nepovoliť
-    .accesskey = e
+    .accesskey = k
 # Long text in this context make the dropdown menu extend awkwardly to the left,
 # avoid a localization that's significantly longer than the English version.
 xpinstall-prompt-never-allow-and-report =
