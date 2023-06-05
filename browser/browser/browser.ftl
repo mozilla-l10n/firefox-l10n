@@ -144,6 +144,8 @@ urlbar-tip-icon-description =
     .alt = Consell:
 urlbar-result-menu-button =
     .title = Obre el menú
+urlbar-result-menu-button-feedback = Comentaris
+    .title = Obre el menú
 urlbar-result-menu-learn-more =
     .label = Més informació
     .accesskey = M
@@ -675,6 +677,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Obre en mode d'Imatge sobre imatge ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Tanca el mode d'Imatge sobre imatge ({ $shortcut })
+picture-in-picture-panel-header = Imatge sobre imatge
+picture-in-picture-panel-headline = Aquest lloc web no recomana l'ús de la funció «imatge sobre imatge»
+picture-in-picture-panel-body = Si activeu la funció d'«imatge sobre imatge», és possible que els vídeos no es mostrin com pretenia el desenvolupador.
+picture-in-picture-enable-toggle =
+    .label = Activa-ho igualment
 
 ## Full Screen and Pointer Lock UI
 
