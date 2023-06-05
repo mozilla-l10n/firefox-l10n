@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] غلط پن! براہ مہربانی اپݨی ڈیوائس کیتے درست پن درج کرو۔ تہاݙے کیتے { $retriesLeft } کوشش باقی ہے۔
        *[other] غلط پن! براہ مہربانی اپݨی ڈیوائس کیتے درست پن درج کرو۔ تہاݙے کیتے { $retriesLeft } کوششاں باقی ہن۔
     }
+webauthn-pin-invalid-short-prompt = غلط پِن۔ ولدا کوشش کرو۔
 webauthn-pin-required-prompt = براہ مہربانی اپݨی ڈیوائس کیتے پن درج کرو۔

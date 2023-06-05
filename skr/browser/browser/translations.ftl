@@ -10,6 +10,11 @@ urlbar-translations-button =
 
 translations-panel-settings-manage-languages =
     .label = زباناں منیج کرو
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = { $language } دا ترجمہ کݙاہیں نہ کرو
 translations-panel-settings-never-translate-unknown-language =
     .label = ایں زبان دا کݙاہیں ترجمہ نہ کرو
 # Text displayed for the option to never translate this website
@@ -52,6 +57,9 @@ translations-manage-settings-button =
 translations-manage-all-language = ساریاں زباناں
 translations-manage-download-button = ڈاؤن لوڈ
 translations-manage-delete-button = مٹاؤ
+translations-settings-title =
+    .title = ترجمے ترتیباں
+    .style = min-width: 36em
 translations-settings-close-key =
     .key = w
 translations-settings-languages-column =
