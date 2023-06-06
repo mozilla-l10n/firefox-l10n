@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Кеңейту деректерді оқи және өзгерте алмайды
+origin-controls-quarantined =
+    .label = Кеңейту үшін деректерді оқу және өзгертуге рұқсат етілмеген
 origin-controls-options =
     .label = Кеңейту деректерді оқи және өзгерте алады:
 origin-controls-option-all-domains =
