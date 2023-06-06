@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Намоиш додани рӯйхат
 firefoxview-collapse-button-hide =
     .title = Пинҳон кардани рӯйхат
-firefoxview-overview-navigation = Тамошокунии охирин
+firefoxview-overview-nav = Тамошокунии охирин
+    .title = Тамошокунии охирин
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Таърих
+firefoxview-history-nav = Таърих
+    .title = Таърих
 firefoxview-history-header = Таърих
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Варақаҳои кушодашуда
+firefoxview-opentabs-nav = Варақаҳои кушодашуда
+    .title = Варақаҳои кушодашуда
 firefoxview-opentabs-header = Варақаҳои кушодашуда
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
