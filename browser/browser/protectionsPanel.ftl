@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Báo cáo một trang web bị hỏng
 protections-panel-content-blocking-breakage-report-view-description = Chặn một số trình theo dõi nhất định có thể gây ra vấn đề với một số trang web. Báo cáo những vấn đề này giúp tạo { -brand-short-name } tốt hơn cho mọi người. Gửi báo cáo này sẽ gửi một URL và thông tin về cài đặt trình duyệt của bạn đến Mozilla. <label data-l10n-name="learn-more">Tìm hiểu thêm</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Chặn một số trình theo dõi nhất định có thể gây ra vấn đề với một số trang web. Báo cáo những vấn đề này giúp tạo { -brand-short-name } tốt hơn cho mọi người. Gửi báo cáo này sẽ gửi một URL và thông tin về cài đặt trình duyệt của bạn đến { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Tắt cho trang web này
 protections-panel-cookie-banner-handling-undetected = Trang web hiện không được hỗ trợ
 protections-panel-cookie-banner-view-title =
     .title = Giảm biểu ngữ cookie
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Quay lại
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Tắt giảm biểu ngữ cookie cho { $host }?
