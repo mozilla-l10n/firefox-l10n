@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Galluogi dadfygio pell
 options-enable-remote-tooltip2 =
     .title = Bydd troi'r dewis hwn ymlaen yn caniatáu dadfygio enghraifft y porwr hwn o bell
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Defnyddiwch y fysell F12 i agor neu gau DevTools
+options-enable-f12-tooltip =
+    .title = Bydd troi'r dewis hwn ymlaen yn rhwymo'r fysell F12 i agor neu gau blwch offer DevTools
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Galluogi fformatwyr cyfaddas
 options-enable-custom-formatters-tooltip =

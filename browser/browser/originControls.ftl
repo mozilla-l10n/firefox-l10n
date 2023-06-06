@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Nid yw'r Estyniad yn Gallu Darllen na Newid Data
+origin-controls-quarantined =
+    .label = Nid Oes Gan yr Estyniad yr Hawl i Ddarllen na Newid Data
 origin-controls-options =
     .label = Mae'r Estyniad yn Gallu Ddarllen a Newid Data:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Methu darllen na newid data ar y wefan hon
+origin-controls-state-quarantined = Dim caniatâd gan { -vendor-short-name } ar y wefan hon
 origin-controls-state-always-on = Yn gallu darllen a newid data ar y wefan hon bob tro
 origin-controls-state-when-clicked = Mae angen caniatâd i ddarllen a newid data
 origin-controls-state-hover-run-visit-only = Rhedeg ar gyfer yr ymweliad hwn yn unig

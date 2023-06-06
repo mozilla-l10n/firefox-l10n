@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = Ynghylch Cofnodi
 about-logging-page-title = Logging manager
 about-logging-current-log-file = Ffeil Cofnodi Cyfredol:
-about-logging-current-log-modules = Modiwlau Cofnodi Cyfredol:
 about-logging-new-log-file = Ffeil cofnod newydd:
 about-logging-currently-enabled-log-modules = Modiwlau cofnod wedi'u galluogi ar hyn o bryd:
 about-logging-log-tutorial = Gw <a data-l10n-name="logging">HTTP Logging</a> am wybodaeth ar sut i ddefnyddio'r teclyn hwn.
@@ -44,6 +26,7 @@ about-logging-logging-to-profiler = Cofnodi i { -profiler-brand-name }
 about-logging-no-log-modules = Dim
 about-logging-no-log-file = Dim
 about-logging-logging-preset-selector-text = Rhagosodiad cofnodi:
+about-logging-with-profiler-stacks-checkbox = Galluogi olion stac ar gyfer negeseuon cofnodion
 
 ## Logging presets
 

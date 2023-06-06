@@ -172,6 +172,14 @@ media-codec-support-info = Gwybodaeth Gymorth Codec
 # List all the entries of the database.
 media-capabilities-enumerate = Cyfrifo'r gronfa ddata
 
+## Codec support table
+
+media-codec-support-sw-decoding = Datgodio Meddalwedd
+media-codec-support-hw-decoding = Datgodio Caledwedd
+media-codec-support-codec-name = Enw Codec
+media-codec-support-supported = Cefnogaeth
+media-codec-support-unsupported = Heb eu Cynnal
+
 ##
 
 intl-title = Rhyngwladoli a Lleoleiddio

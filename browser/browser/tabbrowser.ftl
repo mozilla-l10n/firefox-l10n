@@ -192,3 +192,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [many] Rhestru Pob un o'r { $tabCount } Tab
            *[other] Rhestru Pob un o'r { $tabCount } Tab
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Tewi tab
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Dad-dewi tab
+tabbrowser-manager-close-tab =
+    .tooltiptext = Cau tab
