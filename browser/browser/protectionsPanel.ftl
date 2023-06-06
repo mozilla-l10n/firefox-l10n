@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = I hai habiu una error en ninviar l'informe. Torna a intentar-lo mas tarde.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Puesto apanyau? Ninviar informe
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Mas información sobre la protección contra seguimiento amillorada
-
 protections-panel-etp-on-header = La protección contra seguimiento amillorada ye habilitada pa este puesto
 protections-panel-etp-off-header = La protección contra seguimiento amillorada ye deshabilitada pa este puesto
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Lo puesto no funciona?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Lo puesto no funciona?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Totz los elementos de segui
 ##
 
 protections-panel-no-trackers-found = No s'han detectau elementos de seguimiento conoixius per { -brand-short-name } en esta pachina.
-
 protections-panel-content-blocking-tracking-protection = Conteniu de seguimiento
-
 protections-panel-content-blocking-socialblock = Elementos de seguimiento de retz socials
 protections-panel-content-blocking-cryptominers-label = Criptominers
 protections-panel-content-blocking-fingerprinters-label = Ditaladas dichitals
@@ -71,14 +65,12 @@ protections-panel-protectionsdashboard-label = Panel de proteccions
 
 # The header of the list
 protections-panel-site-not-working-view-header = Desactiva las proteccions si tiens problemas con:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Campos d'inicio de sesión
 protections-panel-site-not-working-view-issue-list-forms = Formularios
 protections-panel-site-not-working-view-issue-list-payments = Pagos
 protections-panel-site-not-working-view-issue-list-comments = Comentarios
 protections-panel-site-not-working-view-issue-list-videos = Videos
-
 protections-panel-site-not-working-view-send-report = Ninviar un informe
 
 ##
@@ -88,19 +80,17 @@ protections-panel-cryptominers = Los criptominers emplegan la potencia informati
 protections-panel-fingerprinters = Los detectores de ditaladas dichitals recolectan la configuración d'o tuyo navegador y lo tuyo ordinador pa crear lo tuyo perfil. Fende servir este detector de ditaladas seguir-te a traviés de diferents puestos web.
 protections-panel-tracking-content = Los puestos web pueden cargar anuncios externos, videos y unatro tipo de conteniu gracias a un codigo de seguimiento. Si blocas lo conteniu de seguimiento, los puestos se cargarán mas rapido, pero puede que qualques botons y formularios deixen de funcionar.
 protections-panel-social-media-trackers = Los retz socials plazan elementos de seguimiento en atros puestos web pa seguir lo que fas, lo que veyes y lo que miras en linia. Esto les permite a las companyías de medios socials de saber mas sobre tu, dillá d'o que compartes en os tuyos perfils de retz socials.
-
 protections-panel-description-shim-allowed = Bells elementos de seguimiento marcaus contino s'han desblocau parcialment en esta pachina perque has interactuau con ella.
 protections-panel-description-shim-allowed-learn-more = Saber-ne mas
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Elemento de seguranza parcialment blocau
-
 protections-panel-content-blocking-manage-settings =
     .label = Chestionar los achustes de protección
     .accesskey = M
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Informar de problemas con un puesto
 protections-panel-content-blocking-breakage-report-view-description = Si blocas bell elementos de seguimiento, puede que qualques puestos deixen de funcionar. Si nos informas d'estes problemas, nos aduyarás a amillorar { -brand-short-name }. En ninviar este informe, Mozilla recibirá una URL y información sobre la configuración d'o tuyo navegador. <label data-l10n-name="learn-more">Saber mas</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Si blocas bell elementos de seguimiento, puede que qualques puestos deixen de funcionar. Si nos informas d'estes problemas, nos aduyarás a amillorar { -brand-short-name }. En ninviar este informe, { -vendor-short-name } recibirá una URL y información sobre la configuración d'o tuyo navegador.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -111,3 +101,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cancelar
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Ninviar reporte
+
+# Cookie Banner Handling
+
