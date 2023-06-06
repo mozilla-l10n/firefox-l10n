@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Zobraziť zoznam
 firefoxview-collapse-button-hide =
     .title = Skryť zoznam
-firefoxview-overview-navigation = Nedávne prehliadanie
+firefoxview-overview-nav = Nedávne prehliadanie
+    .title = Nedávne prehliadanie
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = História
+firefoxview-history-nav = História
+    .title = História
 firefoxview-history-header = História
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Otvorené karty
+firefoxview-opentabs-nav = Otvorené karty
+    .title = Otvorené karty
 firefoxview-opentabs-header = Otvorené karty
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
