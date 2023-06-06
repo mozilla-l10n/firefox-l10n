@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Гузориш дар бораи сомонаи вайроншуда
 protections-panel-content-blocking-breakage-report-view-description = Амали манъкунии васоити пайгирии муайян метавонад нисбат ба баъзе сомонаҳо мушкилиҳо ба вуҷуд орад. Гузоришдиҳӣ оид ба чунин мушкилиҳо барои беҳтар кардани «{ -brand-short-name }» ба фоидаи ҳамаи корбарон кумак мерасонад. Ҳангоми ирсолкунии ин гузориш, нишонии «URL» ва маълумот дар бораи танзимоти браузери шумо ба ширкати «Mozilla» фиристода мешавад. <label data-l10n-name="learn-more">Маълумоти бештар</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Амали манъкунии васоити пайгирии муайян метавонад нисбат ба баъзе сомонаҳо мушкилиҳо ба вуҷуд орад. Гузоришдиҳӣ оид ба чунин мушкилиҳо барои беҳтар кардани «{ -brand-short-name }» ба фоидаи ҳамаи корбарон кумак мерасонад. Ҳангоми ирсолкунии ин гузориш, нишонии «URL» ва маълумот дар бораи танзимоти браузери шумо ба ширкати «{ -vendor-short-name }» фиристода мешавад.
 protections-panel-content-blocking-breakage-report-view-collection-url = Нишонии URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Нишонии URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Барои ин сомона
 protections-panel-cookie-banner-handling-undetected = Ин сомона дар айни замон дастгирӣ намешавад
 protections-panel-cookie-banner-view-title =
     .title = Маҳдудкунии баннери куки
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Ба қафо
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = «Маҳдудкунии баннери куки»-ро барои { $host } хомӯш месозед?
