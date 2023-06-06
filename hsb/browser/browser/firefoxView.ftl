@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Wočinjene rajtarki
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Runje začinjene rajtarki
+    .title = Runje začinjene rajtarki
+firefoxview-recently-closed-header = Runje začinjene rajtarki
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Rajtarki z druhich gratow
+    .title = Rajtarki z druhich gratow
+firefoxview-synced-tabs-header = Rajtarki z druhich gratow
 
 ##
 

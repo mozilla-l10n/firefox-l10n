@@ -172,6 +172,12 @@ media-codec-support-info = Informacije wo podpěrje codecow
 # List all the entries of the database.
 media-capabilities-enumerate = Datowu banku naličić
 
+## Codec support table
+
+media-codec-support-codec-name = Mjeno Codec
+media-codec-support-supported = Podpěrany
+media-codec-support-unsupported = Njepodpěrany
+
 ##
 
 intl-title = Internacionalizacija a lokalizacija
