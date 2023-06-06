@@ -172,6 +172,14 @@ media-codec-support-info = Informazions di supuart pai codecs
 # List all the entries of the database.
 media-capabilities-enumerate = Enumere base di dâts
 
+## Codec support table
+
+media-codec-support-sw-decoding = Decodifiche software
+media-codec-support-hw-decoding = Decodifiche hardware
+media-codec-support-codec-name = Non codec
+media-codec-support-supported = Supuartade
+media-codec-support-unsupported = No supuartade
+
 ##
 
 intl-title = Internazionalizazion e localizazion

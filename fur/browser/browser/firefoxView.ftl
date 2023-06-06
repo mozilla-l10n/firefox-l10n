@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Schedis viertis
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Schedis sieradis di resint
+    .title = Schedis sieradis di resint
+firefoxview-recently-closed-header = Schedis sieradis di resint
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Schedis di altris dispositîfs
+    .title = Schedis di altris dispositîfs
+firefoxview-synced-tabs-header = Schedis di altris dispositîfs
 
 ##
 
