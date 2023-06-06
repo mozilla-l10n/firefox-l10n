@@ -89,6 +89,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Sinnala unu situ chi non funtzionat
 protections-panel-content-blocking-breakage-report-view-description = Blocare unos cantos sighidores podet causare problemas cun unos cantos sitos. Sinnalare custos problemas agiudat a megiorare { -brand-short-name } pro totus. Custu informe chi as a imbiare a Mozilla at a incluire s'URL de su situ e informatziones subra de is cunfiguratziones tuas pro su navigadore. <label data-l10n-name="learn-more">Àteras informatziones</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blocare unos cantos sighidores podet causare problemas cun unos cantos sitos. Sinnalare custos problemas agiudat a megiorare { -brand-short-name } pro totus. Custu informe chi as a imbiare a { -vendor-short-name } at a incluire s'URL de su situ e informatziones subra de is cunfiguratziones tuas pro su navigadore.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
