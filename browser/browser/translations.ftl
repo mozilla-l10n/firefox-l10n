@@ -54,6 +54,14 @@ translations-panel-error-dismiss-button =
     .label = J’ai compris
 translations-panel-error-change-button =
     .label = Changer la langue source
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Désolé, nous ne prenons pas encore en charge cette langue : { $language }
+translations-panel-error-unsupported-hint-unknown = Désolé, nous ne prenons pas encore en charge cette langue.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
