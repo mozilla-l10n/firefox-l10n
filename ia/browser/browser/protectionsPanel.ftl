@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Reportar sito rupte
 protections-panel-content-blocking-breakage-report-view-description = Blocar certe traciatores pote causar problemas con alcun sitos web. Reportar iste problemas adjuta a meliorar { -brand-short-name } pro totes. Le invio de iste reporto transmittera a Mozilla un URL e informationes sur le configuration de tu navigator. <label data-l10n-name="learn-more">Saper plus</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blocar certe traciatores pote causar problemas con alcun sitos web. Reportar iste problemas adjuta a meliorar { -brand-short-name } pro totes. Le invio de iste reporto transmittera a { -vendor-short-name } un URL e informationes sur le configuration de tu navigator.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
