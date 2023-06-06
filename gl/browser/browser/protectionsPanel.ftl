@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Informar dun sitio quebrado
 protections-panel-content-blocking-breakage-report-view-description = Bloquear certos rastreadores pode causar problemas con algúns sitios web. Informar destes problemas axuda a que { -brand-short-name } sexa mellor para todos. O envío deste informe enviará un URL e información sobre a configuración do seu navegador a Mozilla. <label data-l10n-name="learn-more">Máis información</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Bloquear certos rastreadores pode causar problemas con algúns sitios web. Informar destes problemas axuda a que { -brand-short-name } sexa mellor para todos. O envío deste informe enviará un URL e información sobre a configuración do seu navegador a { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
