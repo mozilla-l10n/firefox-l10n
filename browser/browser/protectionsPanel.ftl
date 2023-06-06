@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Rapportér problemer med et websted
 protections-panel-content-blocking-breakage-report-view-description = Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre { -brand-short-name } bedre for alle. Dette sender en URL samt information om dine browser-indstillinger til Mozilla. <label data-l10n-name="learn-more">Læs mere</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre { -brand-short-name } bedre for alle. Dette sender en URL samt information om dine browser-indstillinger til { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Slået fra for dette websted
 protections-panel-cookie-banner-handling-undetected = Webstedet understøttes ikke i øjeblikket
 protections-panel-cookie-banner-view-title =
     .title = Reduktion af cookie-bannere
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Tilbage
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Slå reduktion af cookie-bannere fra for { $host }?
