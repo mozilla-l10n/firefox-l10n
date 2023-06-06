@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Deactivà per questa website
 protections-panel-cookie-banner-handling-undetected = Questa website na vegn actualmain betg sustegnida
 protections-panel-cookie-banner-view-title =
     .title = Reducziun da bandieras da cookies
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Enavos
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Deactivar la reducziun da bandieras da cookies per { $host }?
