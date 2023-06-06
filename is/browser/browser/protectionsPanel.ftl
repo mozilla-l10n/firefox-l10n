@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Tilkynna bilað vefsvæði
 protections-panel-content-blocking-breakage-report-view-description = Að loka á ákveðna rekjara getur valdið vandamálum með sum vefsvæði. Að tilkynna þessi vandamál hjálpar til við að gera { -brand-short-name } betra fyrir alla. Ef þú sendir þessa skýrslu verða vefslóð og upplýsingar um vafrastillingar þínar sendar til Mozilla. <label data-l10n-name="learn-more">Frekari upplýsingar</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Að loka á ákveðna rekjara getur valdið vandamálum með sum vefsvæði. Að tilkynna þessi vandamál hjálpar til við að gera { -brand-short-name } betra fyrir alla. Ef þú sendir þessa skýrslu verða vefslóð og upplýsingar um vafrastillingar þínar sendar til { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = Vefslóð
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Vefslóð
