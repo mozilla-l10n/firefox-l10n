@@ -57,7 +57,7 @@ pictureinpicture-exit-fullscreen-btn =
     .tooltip = Quitar l’ecran complèt (clic doble)
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
 pictureinpicture-toggle-fullscreen-shortcut =
-    .key = E
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Recular
     .tooltip = Recular (←)
