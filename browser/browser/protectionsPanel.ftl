@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Ei käytössä tällä sivus
 protections-panel-cookie-banner-handling-undetected = Sivusto ei ole tuettu tällä hetkellä
 protections-panel-cookie-banner-view-title =
     .title = Evästeilmoitusten vähennys
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Edellinen
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Haluatko poistaa evästeilmoitusten vähennystoiminnon käytöstä sivustolla { $host }?
