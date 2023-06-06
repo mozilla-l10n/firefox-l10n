@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Für diese Website deaktivie
 protections-panel-cookie-banner-handling-undetected = Website derzeit nicht unterstützt
 protections-panel-cookie-banner-view-title =
     .title = Reduzierung von Cookie-Bannern
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Zurück
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Cookie-Banner-Reduzierung für { $host } deaktivieren?
