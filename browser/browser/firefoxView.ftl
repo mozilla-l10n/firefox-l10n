@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Тізімді көрсету
 firefoxview-collapse-button-hide =
     .title = Тізімді жасыру
-firefoxview-overview-navigation = Жуырдағы шолу
+firefoxview-overview-nav = Жуырдағы шолу
+    .title = Жуырдағы шолу
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Тарих
+firefoxview-history-nav = Тарих
+    .title = Тарих
 firefoxview-history-header = Тарих
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Ашық беттер
+firefoxview-opentabs-nav = Ашық беттер
+    .title = Ашық беттер
 firefoxview-opentabs-header = Ашық беттер
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
