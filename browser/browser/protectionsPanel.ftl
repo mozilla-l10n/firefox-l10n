@@ -88,6 +88,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = דיווח על אתר שבור
 protections-panel-content-blocking-breakage-report-view-description = חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור { -brand-short-name } לטובת הכלל. בדיווח זה יישלחו ל־Mozilla כתובת האתר ומידע על הגדרות הדפדפן שלך. <label data-l10n-name="learn-more">מידע נוסף</label>
+protections-panel-content-blocking-breakage-report-view-description2 = חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור { -brand-short-name } לטובת הכלל. בדיווח זה יישלחו ל־{ -vendor-short-name } כתובת האתר ומידע על הגדרות הדפדפן שלך.
 protections-panel-content-blocking-breakage-report-view-collection-url = כתובת
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = כתובת
@@ -101,5 +102,3 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = חזרה
