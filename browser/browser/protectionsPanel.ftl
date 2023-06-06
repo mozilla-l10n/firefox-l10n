@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Сообщить о неработающем сайте
 protections-panel-content-blocking-breakage-report-view-description = Блокировка некоторых трекеров может вызывать проблемы с некоторыми веб-сайтами. Сообщая о таких проблемах, вы помогаете сделать { -brand-short-name } лучше для всех и каждого. При отправке сообщения в Mozilla будет отправлен адрес сайта, а также информация о настройках вашего браузера. <label data-l10n-name="learn-more">Подробнее</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Блокировка некоторых трекеров может вызывать проблемы с некоторыми веб-сайтами. Сообщая о таких проблемах, вы помогаете сделать { -brand-short-name } лучше для всех и каждого. При отправке сообщения в { -vendor-short-name } будет отправлен адрес сайта, а также информация о настройках вашего браузера.
 protections-panel-content-blocking-breakage-report-view-collection-url = Адрес страницы
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Адрес страницы
