@@ -121,13 +121,19 @@ firefoxview-collapse-button-show =
     .title = Zobrazit seznam
 firefoxview-collapse-button-hide =
     .title = Skrýt seznam
+firefoxview-overview-nav = Nedávné prohlížení
+    .title = Nedávné prohlížení
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Historie
+    .title = Historie
 firefoxview-history-header = Historie
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Otevřené panely
+    .title = Otevřené panely
 firefoxview-opentabs-header = Otevřené panely
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
