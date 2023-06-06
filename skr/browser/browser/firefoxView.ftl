@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = تندیر ݙکھاؤ
 firefoxview-collapse-button-hide =
     .title = تندیر لکاؤ
-firefoxview-overview-navigation = حالیہ براؤزنگ
+firefoxview-overview-nav = حالیہ براؤزنگ
+    .title = حالیہ براؤزنگ
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = تاریخ
+firefoxview-history-nav = تاریخ
+    .title = تاریخ
 firefoxview-history-header = تاریخ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = ٹیباں کھولو
+firefoxview-opentabs-nav = ٹیباں کھولو
+    .title = ٹیباں کھولو
 firefoxview-opentabs-header = ٹیباں کھولو
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
