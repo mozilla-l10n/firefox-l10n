@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Otvorené karty
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nedávno zatvorené karty
+    .title = Nedávno zatvorené karty
+firefoxview-recently-closed-header = Nedávno zatvorené karty
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Karty z ďalších zariadení
+    .title = Karty z ďalších zariadení
+firefoxview-synced-tabs-header = Karty z ďalších zariadení
 
 ##
 
