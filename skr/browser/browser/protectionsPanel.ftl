@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = ایں سائٹ کیتے ب�
 protections-panel-cookie-banner-handling-undetected = سائٹ فی الحال سہارا تھئی کائنی
 protections-panel-cookie-banner-view-title =
     .title = کوکی بینر گھٹاوݨ
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = پچھوں
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host } کیتے کوکی بینر گھٹاوݨ بند کروں؟
