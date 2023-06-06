@@ -162,6 +162,14 @@ media-capabilities-title = Funzionalità media
 media-codec-support-info = Informazioni di supporto per i codec
 media-capabilities-enumerate = Enumerazione database
 
+## Codec support table
+
+media-codec-support-sw-decoding = Decodifica software
+media-codec-support-hw-decoding = Decodifica hardware
+media-codec-support-codec-name = Nome codec
+media-codec-support-supported = Supportata
+media-codec-support-unsupported = Non supportata
+
 ##
 
 intl-title = Internazionalizzazione e localizzazione
