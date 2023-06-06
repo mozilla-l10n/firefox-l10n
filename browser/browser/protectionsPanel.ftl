@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Eman hondatutako gunearen berri
 protections-panel-content-blocking-breakage-report-view-description = Edukia blokeatzeak arazoak sor ditzake zenbait webgunerekin. Arazoen berri ematen duzunean, { -brand-short-name } guztiontzat hobetzen laguntzen duzu. Honekin batera URL bat eta zure nabigatzaile-ezarpenei buruzko informazioa bidaliko da Mozillara. <label data-l10n-name="learn-more">Argibide gehiago</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Edukia blokeatzeak arazoak sor ditzake zenbait webgunerekin. Arazoen berri ematen duzunean, { -brand-short-name } guztiontzat hobetzen laguntzen duzu. Honekin batera URL bat eta zure nabigatzaile-ezarpenei buruzko informazioa bidaliko da { -vendor-short-name }ra.
 protections-panel-content-blocking-breakage-report-view-collection-url = URLa
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URLa
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Desaktibatuta gune honetarak
 protections-panel-cookie-banner-handling-undetected = Une honetan gune honetarako euskarririk ez
 protections-panel-cookie-banner-view-title =
     .title = Cookie iragarki-banden murrizpena
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Atzera
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Desaktibatu cookie iragarki-banden murrizpena { $host } gunerako?
