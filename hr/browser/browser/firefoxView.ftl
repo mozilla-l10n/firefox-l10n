@@ -64,7 +64,6 @@ firefoxview-pickup-tabs-badge = Zadnja aktivna kartica
 firefoxview-tabs-list-tab-button =
     .title = Otvori { $targetURI } u novoj kartici
 firefoxview-try-colorways-button = Isprobaj kolorit
-firefoxview-no-current-colorway-collection = Novi koloriti su na putu
 firefoxview-change-colorway-button = Promijeni kolorit
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -75,3 +74,18 @@ firefoxview-collapse-button-show =
     .title = Pokaži popis
 firefoxview-collapse-button-hide =
     .title = Sakrij popis
+
+## History in this context refers to browser history
+
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+
+##
+
