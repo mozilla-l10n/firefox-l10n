@@ -6,39 +6,53 @@
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Účet Firefoxu
-                [lower] účet Firefoxu
-            }
         [gen]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+                [sentence] účtu Firefoxu
+                [title] Účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [dat]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+                [sentence] účtu Firefoxu
+                [title] Účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [acc]
             { $capitalization ->
-               *[upper] Účet Firefoxu
                 [lower] účet Firefoxu
+                [sentence] účet Firefoxu
+                [title] Účet Firefoxu
+               *[upper] Účet Firefoxu
             }
         [voc]
             { $capitalization ->
-               *[upper] Účte Firefoxu
                 [lower] účte Firefoxu
+                [sentence] účte Firefoxu
+                [title] Účte Firefoxu
+               *[upper] Účte Firefoxu
             }
         [loc]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+                [sentence] účtu Firefoxu
+                [title] Účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [ins]
             { $capitalization ->
-               *[upper] Účtem Firefoxu
                 [lower] účtem Firefoxu
+                [sentence] účtem Firefoxu
+                [title] Účtem Firefoxu
+               *[upper] Účtem Firefoxu
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účet Firefoxu
+                [sentence] účet Firefoxu
+                [title] Účet Firefoxu
+               *[upper] Účet Firefoxu
             }
     }
