@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Zgłoś niepoprawnie działającą stronę
 protections-panel-content-blocking-breakage-report-view-description = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program { -brand-short-name } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli). <label data-l10n-name="learn-more">Więcej informacji</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program { -brand-short-name } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli).
 protections-panel-content-blocking-breakage-report-view-collection-url = Adres URL problematycznej strony
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adres URL problematycznej strony
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Wyłączone na tej witrynie
 protections-panel-cookie-banner-handling-undetected = Witryna obecnie nie jest obsługiwana
 protections-panel-cookie-banner-view-title =
     .title = Ograniczanie informacji o ciasteczkach
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Wstecz
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Wyłączyć ograniczanie informacji o ciasteczkach na witrynie { $host }?
