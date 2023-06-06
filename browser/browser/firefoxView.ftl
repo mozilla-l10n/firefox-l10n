@@ -84,13 +84,21 @@ firefoxview-collapse-button-hide =
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Историја
+firefoxview-history-nav = Историја
+    .title = Историја
 firefoxview-history-header = Историја
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Отворене картице
+firefoxview-opentabs-nav = Отворене картице
+    .title = Отворене картице
 firefoxview-opentabs-header = Отворене картице
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
