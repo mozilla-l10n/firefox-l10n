@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-collapse-button-hide =
     .title = ᱞᱤᱥᱪᱤ ᱩᱠᱩᱭ ᱢᱮ
-firefoxview-overview-navigation = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+firefoxview-overview-nav = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+    .title = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = ᱱᱟᱜᱟᱢ
+firefoxview-history-nav = ᱱᱟᱜᱟᱢ
+    .title = ᱱᱟᱜᱟᱢ
 firefoxview-history-header = ᱱᱟᱜᱟᱢ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = ᱴᱮᱵᱽᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+firefoxview-opentabs-nav = ᱴᱮᱵᱽᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .title = ᱴᱮᱵᱽᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
 firefoxview-opentabs-header = ᱴᱮᱵᱽᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
