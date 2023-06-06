@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Opna flipa
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nýlega lokaðir flipar
+    .title = Nýlega lokaðir flipar
+firefoxview-recently-closed-header = Nýlega lokaðir flipar
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Flipar frá öðrum tækjum
+    .title = Flipar frá öðrum tækjum
+firefoxview-synced-tabs-header = Flipar frá öðrum tækjum
 
 ##
 
