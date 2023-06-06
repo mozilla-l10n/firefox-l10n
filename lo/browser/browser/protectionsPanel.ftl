@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = ລາຍງານເວັບໄຊທີ່ມີບັນຫາ
 protections-panel-content-blocking-breakage-report-view-description = ການຂັດຂວາງຕົວຕິດຕາມທີ່ແນ່ນອນສາມາດເຮັດໃຫ້ເກີດບັນຫາກັບບາງເວັບໄຊທ໌. ການລາຍງານບັນຫາເຫຼົ່ານີ້ຊ່ວຍເຮັດໃຫ້ { -brand-short-name } ດີຂຶ້ນສຳລັບທຸກຄົນ. ການສົ່ງບົດລາຍງານນີ້ຈະສົ່ງ URL ແລະຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າຕົວທ່ອງເວັບຂອງທ່ານໄປຫາ Mozilla. <label data-l10n-name="learn-more">ສຶກສາເພີ່ມເຕີມ</label>
+protections-panel-content-blocking-breakage-report-view-description2 = ການຂັດຂວາງຕົວຕິດຕາມທີ່ແນ່ນອນສາມາດເຮັດໃຫ້ເກີດບັນຫາກັບບາງເວັບໄຊທ໌. ການລາຍງານບັນຫາເຫຼົ່ານີ້ຊ່ວຍເຮັດໃຫ້ { -brand-short-name } ດີຂຶ້ນສຳລັບທຸກຄົນ. ການສົ່ງບົດລາຍງານນີ້ຈະສົ່ງ URL ແລະຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າຕົວທ່ອງເວັບຂອງທ່ານໄປຫາ { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = ປິດສໍາລັບ�
 protections-panel-cookie-banner-handling-undetected = ຕອນນີ້ບໍ່ຮອງຮັບເວັບໄຊ
 protections-panel-cookie-banner-view-title =
     .title = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = ກັບຄືນ
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ປິດການຫຼຸດປ້າຍໂຄສະນາຄຸກກີສຳລັບ { $host } ບໍ?
