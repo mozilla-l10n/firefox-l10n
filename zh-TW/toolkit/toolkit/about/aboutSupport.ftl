@@ -175,6 +175,14 @@ media-codec-support-info = 解碼器支援資訊
 # List all the entries of the database.
 media-capabilities-enumerate = 列舉資料庫
 
+## Codec support table
+
+media-codec-support-sw-decoding = 軟體解碼
+media-codec-support-hw-decoding = 硬體解碼
+media-codec-support-codec-name = 解碼器名稱
+media-codec-support-supported = 支援
+media-codec-support-unsupported = 不支援
+
 ##
 
 intl-title = 國際化與在地化
