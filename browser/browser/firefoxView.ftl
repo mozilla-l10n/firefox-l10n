@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Lijst tonen
 firefoxview-collapse-button-hide =
     .title = Lijst verbergen
-firefoxview-overview-navigation = Onlangs bekeken
+firefoxview-overview-nav = Onlangs bekeken
+    .title = Onlangs bekeken
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Geschiedenis
+firefoxview-history-nav = Geschiedenis
+    .title = Geschiedenis
 firefoxview-history-header = Geschiedenis
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Open tabbladen
+firefoxview-opentabs-nav = Open tabbladen
+    .title = Open tabbladen
 firefoxview-opentabs-header = Open tabbladen
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
