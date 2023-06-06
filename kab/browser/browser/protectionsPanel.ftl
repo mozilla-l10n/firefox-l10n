@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Cegger asmel yerẓen
 protections-panel-content-blocking-breakage-report-view-description = Asewḥel n kra n ineḍfaṛen izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili { -brand-short-name } igerrez i yal yiwen.  aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer Mozilla.) <label data-l10n-name="learn-more">Issin ugar</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Asewḥel n kra n ineḍfaṛen izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili { -brand-short-name } igerrez i yal yiwen.  aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer { -vendor-short-name }.)
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
