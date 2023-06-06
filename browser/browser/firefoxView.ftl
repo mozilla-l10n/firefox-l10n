@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Última activa
 firefoxview-tabs-list-tab-button =
     .title = Abrir { $targetURI } en una pestaña nueva
 firefoxview-try-colorways-button = Prueba combinaciones de colores
-firefoxview-no-current-colorway-collection = Nuevas combinaciones de colores están en camino
 firefoxview-change-colorway-button = Cambiar combinación de colores
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,18 @@ firefoxview-collapse-button-show =
     .title = Mostrar lista
 firefoxview-collapse-button-hide =
     .title = Ocultar lista
+
+## History in this context refers to browser history
+
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+
+##
+
