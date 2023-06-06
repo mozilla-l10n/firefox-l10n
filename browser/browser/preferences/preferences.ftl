@@ -1160,12 +1160,12 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } 데이터 수집과 사용
-collection-description = { -brand-short-name }를 모두를 위해 제공하고 개선하기 위해서 필요한 것만 수집하고 선택권을 제공하기 위해 노력합니다. 개인 정보를 전송하기 전에 항상 허가여부를 묻습니다.
+collection-description = 저희는 사용자에게 선택권을 제공하고 모두를 위해 { -brand-short-name }를 제공하고 개선하는 데 필요한 정보만 수집하기 위해 노력합니다. 개인정보를 전송하기 전에 항상 사용자의 동의를 구합니다.
 collection-privacy-notice = 개인정보처리방침
 collection-health-report-telemetry-disabled = { -vendor-short-name }에서 더 이상 기술 및 상호 작용 데이터를 캡처할 수 없습니다. 모든 과거 데이터는 30일 이내에 삭제됩니다.
 collection-health-report-telemetry-disabled-link = 더 알아보기
 collection-health-report =
-    .label = { -brand-short-name }가 기술과 상호 작용 정보를 { -vendor-short-name }에 전송하도록 허용
+    .label = { -brand-short-name }가 기술 및 상호 작용 데이터를 { -vendor-short-name }에 전송하도록 허용
     .accesskey = r
 collection-health-report-link = 더 알아보기
 collection-studies =
