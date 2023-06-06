@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Slökkt fyrir þetta vefsvæ
 protections-panel-cookie-banner-handling-undetected = Vefsvæðið er ekki stutt í augnablikinu
 protections-panel-cookie-banner-view-title =
     .title = Fækkun vefkökuborða
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Til baka
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Viltu slökkva á fækkun vefkökuborða fyrir { $host }?
