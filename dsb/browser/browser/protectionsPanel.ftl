@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Wobškóźone sedło k wěsći daś
 protections-panel-content-blocking-breakage-report-view-description = Blokěrowanje wěstych pśeslědowakow móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo { -brand-short-name } za kuždego pólěpšyś. Pósćelo se Mozilla URL a informacije wó wašych nastajenjach wobglědowaka. <label data-l10n-name="learn-more">Dalšne informacije</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blokěrowanje wěstych pśeslědowakow móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo { -brand-short-name } za kuždego pólěpšyś. Pósćelo se { -vendor-short-name } URL a informacije wó wašych nastajenjach wobglědowaka.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Za toś to sedło znjemóžn
 protections-panel-cookie-banner-handling-undetected = Sedło se tuchylu njepódpěra
 protections-panel-cookie-banner-view-title =
     .title = Reducěrowanje cookiejowych chórgojow
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Slědk
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Reducěrowanje cookiejowych chórgojow za { $host } znjemóžniś?
