@@ -96,6 +96,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Пријавите неисправан сајт
 protections-panel-content-blocking-breakage-report-view-description = Блокирање неких елемената за праћење може проузроковати проблеме са појединим веб-сајтовима. Пријавите овакве проблеме како бисте побољшали { -brand-short-name } (организацији Mozilla ће се послати URL сајта и подаци о подешавањима прегледача). <label data-l10n-name="learn-more">Сазнајте више</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Блокирање неких елемената за праћење може проузроковати проблеме са појединим веб-сајтовима. Пријавите овакве проблеме како бисте побољшали { -brand-short-name } (организацији { -vendor-short-name } ће се послати URL сајта и подаци о подешавањима прегледача).
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
