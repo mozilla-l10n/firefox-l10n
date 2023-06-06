@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = Laste aktiva
 firefoxview-tabs-list-tab-button =
     .title = Malfermi { $targetURI } en nova langeto
 firefoxview-try-colorways-button = Provu kolorarojn
-firefoxview-no-current-colorway-collection = Baldaŭ estos novaj koloraroj
 firefoxview-change-colorway-button = Ŝanĝi koloraron
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -82,3 +81,18 @@ firefoxview-collapse-button-show =
     .title = Montri liston
 firefoxview-collapse-button-hide =
     .title = Kaŝi liston
+
+## History in this context refers to browser history
+
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+
+##
+
