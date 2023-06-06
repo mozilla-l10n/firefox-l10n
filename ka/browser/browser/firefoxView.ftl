@@ -98,9 +98,15 @@ firefoxview-opentabs-header = გახსნილი ჩანართებ�
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = ბოლოს დახურული ჩანართები
+    .title = ბოლოს დახურული ჩანართები
+firefoxview-recently-closed-header = ბოლოს დახურული ჩანართები
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = ჩანართები სხვა მოწყობილობებიდან
+    .title = ჩანართები სხვა მოწყობილობებიდან
+firefoxview-synced-tabs-header = ჩანართები სხვა მოწყობილობებიდან
 
 ##
 

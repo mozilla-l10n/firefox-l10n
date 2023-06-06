@@ -677,6 +677,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = გაიხსნას ეკრანი-ეკრანში ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = დაიხუროს ეკრანი-ეკრანში ({ $shortcut })
+picture-in-picture-panel-header = სურათი-სურათში
+picture-in-picture-panel-headline = ეს ვებსაიტი არ გირჩევს Picture-in-Picture-ს
+picture-in-picture-panel-body = ვიდეო შეიძლება არ გამოჩნდეს ისე, როგორც დეველოპერმა განიზრახა, სანამ Picture-in-Picture ჩართულია.
+picture-in-picture-enable-toggle =
+    .label = ჩართვა მაინც
 
 ## Full Screen and Pointer Lock UI
 
