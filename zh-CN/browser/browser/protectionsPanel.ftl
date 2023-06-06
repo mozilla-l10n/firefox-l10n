@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = 反馈网站问题
 protections-panel-content-blocking-breakage-report-view-description = 拦截某些跟踪器可能导致部分网站出现问题。在您反馈故障时，您得以帮助 { -brand-short-name } 为所有人提供更好的体验。发送反馈将会向 Mozilla 发送网页的地址及浏览器的有关信息。 <label data-l10n-name="learn-more">详细了解</label>
+protections-panel-content-blocking-breakage-report-view-description2 = 拦截某些跟踪器可能导致部分网站出现问题。在您反馈故障时，您得以帮助 { -brand-short-name } 为所有人提供更好的体验。发送反馈将会向 { -vendor-short-name } 发送网页的地址及浏览器的有关信息。
 protections-panel-content-blocking-breakage-report-view-collection-url = 网址
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = 网址
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = 为此网站关闭
 protections-panel-cookie-banner-handling-undetected = 当前不支持的网站
 protections-panel-cookie-banner-view-title =
     .title = 减少 Cookie 横幅
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = 返回
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = 要为 { $host } 关闭“减少 Cookie 横幅”功能吗？
