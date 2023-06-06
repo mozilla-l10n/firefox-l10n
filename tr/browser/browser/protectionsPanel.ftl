@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Bozuk Bir Siteyi Bildirin
 protections-panel-content-blocking-breakage-report-view-description = Bazı takipçileri engellemek bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz { -brand-short-name } tarayıcısını iyileştirme şansımız olur. Bu rapor, sayfanın adresini ve tarayıcı ayarlarınızla ilgili bilgileri Mozilla’ya gönderir. <label data-l10n-name="learn-more">Daha fazla bilgi alın</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Bazı takipçileri engellemek bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz { -brand-short-name } tarayıcısını iyileştirme şansımız olur. Bu rapor, sayfanın adresini ve tarayıcı ayarlarınızla ilgili bilgileri { -vendor-short-name }’ya gönderir.
 protections-panel-content-blocking-breakage-report-view-collection-url = Adres
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adres
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Bu sitede kapalı
 protections-panel-cookie-banner-handling-undetected = Bu site şu anda desteklenmiyor
 protections-panel-cookie-banner-view-title =
     .title = Çerez bildirimlerini azaltın
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Geri
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host } için çerez bildirimlerini azaltma kapatılsın mı?
