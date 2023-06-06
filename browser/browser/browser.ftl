@@ -696,6 +696,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Agor Llun-mewn-Llun ( { $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Cau Llun-mewn-Llun ( { $shortcut })
+picture-in-picture-panel-header = Llun mewn Llun
+picture-in-picture-panel-headline = Nid yw'r wefan hon yn argymell Llun-mewn-Llun
+picture-in-picture-panel-body = Mae'n bosibl na fydd fideos yn ymddangos fel y bwriadwyd gan y datblygwr tra bod Llun-mewn-Llun wedi'i alluogi.
+picture-in-picture-enable-toggle =
+    .label = Galluogi beth bynnag
 
 ## Full Screen and Pointer Lock UI
 

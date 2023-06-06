@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Agor tabiau
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Tabiau wedi’u cau’n ddiweddar
+    .title = Tabiau wedi’u cau’n ddiweddar
+firefoxview-recently-closed-header = Tabiau Wedi'u Cau'n Ddiweddar
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Tabiau o ddyfeisiau eraill
+    .title = Tabiau o ddyfeisiau eraill
+firefoxview-synced-tabs-header = Tabiau o ddyfeisiau eraill
 
 ##
 
