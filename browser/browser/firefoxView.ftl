@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = ਸੂਚੀ ਵੇਖਾਓ
 firefoxview-collapse-button-hide =
     .title = ਸੂਚੀ ਲੁਕਾਓ
-firefoxview-overview-navigation = ਸੱਜਰੀ ਕੀਤੀ ਬਰਾਊਜ਼ਿੰਗ
+firefoxview-overview-nav = ਸੱਜਰੀ ਕੀਤੀ ਬਰਾਊਜ਼ਿੰਗ
+    .title = ਸੱਜਰੀ ਕੀਤੀ ਬਰਾਊਜ਼ਿੰਗ
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = ਅਤੀਤ
+firefoxview-history-nav = ਅਤੀਤ
+    .title = ਅਤੀਤ
 firefoxview-history-header = ਅਤੀਤ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+firefoxview-opentabs-nav = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+    .title = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
 firefoxview-opentabs-header = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
