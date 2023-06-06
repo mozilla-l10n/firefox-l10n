@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Các thẻ đang mở
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Thẻ mới đóng gần đây
+    .title = Thẻ mới đóng gần đây
+firefoxview-recently-closed-header = Thẻ mới đóng gần đây
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Thẻ từ thiết bị khác
+    .title = Thẻ từ thiết bị khác
+firefoxview-synced-tabs-header = Thẻ từ thiết bị khác
 
 ##
 

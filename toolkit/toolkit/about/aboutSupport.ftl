@@ -172,6 +172,14 @@ media-codec-support-info = Thông tin hỗ trợ Codec
 # List all the entries of the database.
 media-capabilities-enumerate = Liệt kê cơ sở dữ liệu
 
+## Codec support table
+
+media-codec-support-sw-decoding = Giải mã phần mềm
+media-codec-support-hw-decoding = Giải mã phần cứng
+media-codec-support-codec-name = Tên codec
+media-codec-support-supported = Được hỗ trợ
+media-codec-support-unsupported = Không hỗ trợ
+
 ##
 
 intl-title = Quốc tế hóa & bản địa hóa
