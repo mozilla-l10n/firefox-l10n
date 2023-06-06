@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Öppna flikar
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nyligen stängda flikar
+    .title = Nyligen stängda flikar
+firefoxview-recently-closed-header = Nyligen stängda flikar
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Flikar från andra enheter
+    .title = Flikar från andra enheter
+firefoxview-synced-tabs-header = Flikar från andra enheter
 
 ##
 

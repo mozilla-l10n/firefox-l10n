@@ -172,6 +172,14 @@ media-codec-support-info = Supportinformation för codec
 # List all the entries of the database.
 media-capabilities-enumerate = Räkna upp databasen
 
+## Codec support table
+
+media-codec-support-sw-decoding = Programvaruavkodning
+media-codec-support-hw-decoding = Hårdvaruavkodning
+media-codec-support-codec-name = Namn på codec
+media-codec-support-supported = Stöds
+media-codec-support-unsupported = Stöds inte
+
 ##
 
 intl-title = Internationalisering & lokalisering
