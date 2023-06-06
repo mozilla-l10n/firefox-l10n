@@ -100,11 +100,30 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } mis à jour
        *[other] { $updatedEntries } mis à jour
     }
+migration-bookmarks-from-file-picker-title = Importer des marque-pages
 migration-bookmarks-from-file-progress-header = Importation des marque-pages
 migration-bookmarks-from-file = Marque-pages
+migration-bookmarks-from-file-success-header = Importation des marque-pages réussie
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Document HTML
+       *[other] Fichier HTML
+    }
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Fichier JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } marque-page
+       *[other] { $newEntries } marque-pages
+    }
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer depuis un fichier
 migration-import-from-file-button-label = Sélectionner un fichier
@@ -188,6 +207,16 @@ migration-wizard-progress-success-history =
        *[other] Au cours des { $maxAgeInDays } derniers jours
     }
 migration-wizard-progress-success-formdata = Historique des formulaires
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } mode de paiement
+       *[other] { $quantity } modes de paiement
+    }
 migration-wizard-safari-permissions-sub-header = Pour importer les marque-pages et l’historique de navigation de Safari :
 migration-wizard-safari-instructions-continue = Sélectionnez « Continuer »
 migration-wizard-safari-instructions-folder = Sélectionnez le dossier Safari dans la liste et choisissez « Ouvrir »
