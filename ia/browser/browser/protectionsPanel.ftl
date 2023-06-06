@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Disactivar pro iste sito
 protections-panel-cookie-banner-handling-undetected = Sito actualmente non supportate
 protections-panel-cookie-banner-view-title =
     .title = Reduction de banner pro le cookie
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Retro
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Disactivar le Reduction de bandieras pro cookies pro { $host }?
