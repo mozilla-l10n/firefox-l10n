@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Report a Broken Site
 protections-panel-content-blocking-breakage-report-view-description = Blocking certain trackers can cause problems with some web sites. Reporting these problems helps make { -brand-short-name } better for everyone. Sending this report will send a URL and information about your browser settings to Mozilla. <label data-l10n-name="learn-more">Learn more</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blocking certain trackers can cause problems with some web sites. Reporting these problems helps make { -brand-short-name } better for everyone. Sending this report will send a URL and information about your browser settings to { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Off for this site
 protections-panel-cookie-banner-handling-undetected = Site currently not supported
 protections-panel-cookie-banner-view-title =
     .title = Cookie Banner Reduction
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Back
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Turn off Cookie Banner Reduction for { $host }?
