@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Ilmoita rikkinäisestä sivustosta
 protections-panel-content-blocking-breakage-report-view-description = Joidenkin seuraimien estäminen saattaa aiheuttaa ongelmia joillain sivustoilla. Ilmoittamalla näistä ongelmista autat parantamaan { -brand-short-name }-selainta. Tämän raportin lähettäminen lähettää Mozillalle sivun osoitteen ja tietoja selaimesi asetuksista. <label data-l10n-name="learn-more">Lue lisää</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Joidenkin seuraimien estäminen saattaa aiheuttaa ongelmia joillain sivustoilla. Ilmoittamalla näistä ongelmista autat parantamaan { -brand-short-name }-selainta. Tämän raportin lähettäminen lähettää { -vendor-short-name }lle sivun osoitteen ja tietoja selaimesi asetuksista.
 protections-panel-content-blocking-breakage-report-view-collection-url = Osoite
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Osoite
