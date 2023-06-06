@@ -79,6 +79,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Докладване за неработеща страница
 protections-panel-content-blocking-breakage-report-view-description = Спирането на определени проследявания може да наруши работата на някои страници. Като докладвате такива страници помагате да направим { -brand-short-name } по-добър за всички. Към Mozilla ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца. <label data-l10n-name="learn-more">Научете повече</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Спирането на определени проследявания може да наруши работата на някои страници. Като докладвате такива страници помагате да направим { -brand-short-name } по-добър за всички. Към { -vendor-short-name } ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца.
 protections-panel-content-blocking-breakage-report-view-collection-url = Адрес
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Адрес
