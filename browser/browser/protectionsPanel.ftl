@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Wobškodźene sydło zdźělić
 protections-panel-content-blocking-breakage-report-view-description = Blokowanje wěstych přesćěhowakow móže problemy z někotrymi websydłami zawinować. Hdyž problemy zdźěliće, pomhaće { -brand-short-name } za kóždeho polěpšić. Pósćele so Mozilla URL a informacije wo wašich nastajenjach wobhladowaka. <label data-l10n-name="learn-more">Dalše informacije</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blokowanje wěstych přesćěhowakow móže problemy z někotrymi websydłami zawinować. Hdyž problemy zdźěliće, pomhaće { -brand-short-name } za kóždeho polěpšić. Pósćele so { -vendor-short-name } URL a informacije wo wašich nastajenjach wobhladowaka.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Za tute sydło znjemóžnjen
 protections-panel-cookie-banner-handling-undetected = Sydło so tuchwilu njepodpěruje
 protections-panel-cookie-banner-view-title =
     .title = Redukowanje plackowych chorhojow
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Wróćo
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Redukowanje plackowych chorhojow za { $host } znjemóžnić?
