@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Informar de un sitio que no se carga
 protections-panel-content-blocking-breakage-report-view-description = El bloqueo de ciertos rastreadores puede causar problemas con algunos sitios web. Informar sobre estos problemas ayuda a que { -brand-short-name } sea mejor para todos. Al enviar este informe, se enviará a Mozilla una URL e información sobre la configuración de su navegador. <label data-l10n-name="learn-more">Aprender más</label>
+protections-panel-content-blocking-breakage-report-view-description2 = El bloqueo de ciertos rastreadores puede causar problemas con algunos sitios web. Informar sobre estos problemas ayuda a que { -brand-short-name } sea mejor para todos. Al enviar este informe, se enviará a { -vendor-short-name } una URL e información sobre la configuración de su navegador.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Desactivada para este sitio
 protections-panel-cookie-banner-handling-undetected = El sitio actualmente no es compatible
 protections-panel-cookie-banner-view-title =
     .title = Reducción de mensajes de cookies
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Atrás
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ¿Desactivar la reducción de mensajes de cookies para { $host }?
