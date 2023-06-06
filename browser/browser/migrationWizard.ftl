@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (მოძველებული)
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = პაროლები CSV-ფაილიდან
+migration-wizard-migrator-display-name-file-bookmarks = სანიშნეები HTML ფაილიდან
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -99,6 +100,20 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } განახლდა
        *[other] { $updatedEntries } განახლდა
     }
+migration-bookmarks-from-file-picker-title = სანიშნების ფაილის შემოტანა
+migration-bookmarks-from-file-progress-header = სანიშნების შემოტანა…
+migration-bookmarks-from-file = სანიშნები
+migration-bookmarks-from-file-success-header = სანიშნების შემოტანა დასრულდა წარმატებით
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML დოკუმენტი
+       *[other] HTML ფაილი
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON ფაილი
 migration-import-button-label = გადმოტანა
 migration-choose-to-import-from-file-button-label = ფაილიდან გადმოტანა
 migration-import-from-file-button-label = ფაილის არჩევა
@@ -195,4 +210,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Safari-ს სანიშნებისა და დათვალიერების ისტორიის გადმოსატანად:
 migration-wizard-safari-instructions-continue = აირჩიეთ „გაგრძელება“
 migration-wizard-safari-instructions-folder = აირჩიეთ Safari-ს საქაღალდე სიიდან და მიუთითეთ „გახსნა“
-migration-wizard-safari-select-button = ფაილის არჩევა
