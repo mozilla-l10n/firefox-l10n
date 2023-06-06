@@ -90,7 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Hibás webhely bejelentése
 protections-panel-content-blocking-breakage-report-view-description = Egyes nyomkövetők blokkolása problémákat okozhat néhány weboldalon. Ezen problémák bejelentése segít jobbá tenni a { -brand-short-name } böngészőt mindenki számára. A jelentés elküldi az URL-t és a böngészőbeállításait a Mozillának. <label data-l10n-name="learn-more">További tudnivalók</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Egyes nyomkövetők blokkolása problémákat okozhat néhány weboldalon. Ezen problémák bejelentése segít jobbá tenni a { -brand-short-name } böngészőt mindenki számára. A jelentés elküldi az URL-t és a böngészőbeállításait a Mozillának.
+protections-panel-content-blocking-breakage-report-view-description2 = Egyes nyomkövetők blokkolása problémákat okozhat néhány weboldalon. Ezen problémák bejelentése segít jobbá tenni a { -brand-short-name } böngészőt mindenki számára. A jelentés elküldi az URL-t és a böngészőbeállításait a { -vendor-short-name(ending: "accented") }nak.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
