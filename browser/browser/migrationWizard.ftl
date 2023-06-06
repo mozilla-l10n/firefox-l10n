@@ -103,6 +103,7 @@ migration-wizard-progress-success-updated-passwords =
 migration-bookmarks-from-file-picker-title = Importar un fichièr de marcapaginas
 migration-bookmarks-from-file-progress-header = Importacion dels marcapaginas
 migration-bookmarks-from-file = Marcapaginas
+migration-bookmarks-from-file-success-header = Marcapaginas importats amb succès
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

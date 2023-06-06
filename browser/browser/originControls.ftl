@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = L’extension pòt pas legir nimai modificar las donadas
+origin-controls-quarantined =
+    .label = L’extension pas autorizada a legir nimai modificar las donadas
 origin-controls-options =
     .label = L’extension pòt legir e modificar las donadas :
 origin-controls-option-all-domains =
