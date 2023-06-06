@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Lista megjelenítése
 firefoxview-collapse-button-hide =
     .title = Lista elrejtése
-firefoxview-overview-navigation = Legutóbbi böngészés
+firefoxview-overview-nav = Legutóbbi böngészés
+    .title = Legutóbbi böngészés
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Előzmények
+firefoxview-history-nav = Előzmények
+    .title = Előzmények
 firefoxview-history-header = Előzmények
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Nyitott lapok
+firefoxview-opentabs-nav = Nyitott lapok
+    .title = Nyitott lapok
 firefoxview-opentabs-header = Nyitott lapok
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
