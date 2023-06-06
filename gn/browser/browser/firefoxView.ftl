@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Ehechauka tysýi
 firefoxview-collapse-button-hide =
     .title = Emokañy tysýi
-firefoxview-overview-navigation = Ñeikundaha ramovéva
+firefoxview-overview-nav = Ñeikundaha ramovéva
+    .title = Ñeikundaha ramovéva
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Tembiasakue
+firefoxview-history-nav = Tembiasakue
+    .title = Tembiasakue
 firefoxview-history-header = Tembiasakue
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Tendayke ijurujáva
+firefoxview-opentabs-nav = Tendayke ijurujáva
+    .title = Tendayke ijurujáva
 firefoxview-opentabs-header = Tendayke ijurujáva
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
