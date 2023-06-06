@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Schedas aperte
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Schedas claudite recentemente
+    .title = Schedas claudite recentemente
+firefoxview-recently-closed-header = Schedas claudite recentemente
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Schedas ab altere apparatos
+    .title = Schedas ab altere apparatos
+firefoxview-synced-tabs-header = Schedas ab altere apparatos
 
 ##
 
