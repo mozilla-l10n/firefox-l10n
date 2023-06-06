@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Dangos rhestr
 firefoxview-collapse-button-hide =
     .title = Cuddio rhestr
-firefoxview-overview-navigation = Pori diweddar
+firefoxview-overview-nav = Pori diweddar
+    .title = Pori diweddar
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Hanes
+firefoxview-history-nav = Hanes
+    .title = Hanes
 firefoxview-history-header = Hanes
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Agor tabiau
+firefoxview-opentabs-nav = Agor tabiau
+    .title = Agor tabiau
 firefoxview-opentabs-header = Agor tabiau
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
