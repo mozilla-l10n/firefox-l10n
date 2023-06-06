@@ -81,17 +81,20 @@ firefoxview-collapse-button-show =
     .title = 显示列表
 firefoxview-collapse-button-hide =
     .title = 隐藏列表
-firefoxview-overview-navigation = 近期浏览
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = 历史记录
 firefoxview-history-header = 历史记录
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = 打开的标签页
 firefoxview-opentabs-header = 打开的标签页
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
