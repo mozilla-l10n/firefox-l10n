@@ -172,6 +172,14 @@ media-codec-support-info = Marandu códecs ñepytyvõ rehegua
 # List all the entries of the database.
 media-capabilities-enumerate = Embopapapy mba’ekuaarã guapyha
 
+## Codec support table
+
+media-codec-support-sw-decoding = Software Jepapapy’o
+media-codec-support-hw-decoding = Hardware Jepapapy’o
+media-codec-support-codec-name = Codec Réra
+media-codec-support-supported = Pytyvõpyre
+media-codec-support-unsupported = Oñepytyvõ’ỹva
+
 ##
 
 intl-title = Mongakuaa & ñemohenda

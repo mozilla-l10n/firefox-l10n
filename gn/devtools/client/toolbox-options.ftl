@@ -111,6 +111,8 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Ñemopotĩ okayguáva myandy
 options-enable-remote-tooltip2 =
     .title = Emyandývo ko poravorã omoneĩta ndéve emopotĩvo ko kundahára reko oka guive
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Eipuru F12 embojuruja térã embogue hag̃ua DevTools
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Emyandy mopotĩeteha mba’eteéva
 options-enable-custom-formatters-tooltip =
