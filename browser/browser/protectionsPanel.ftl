@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Net-wurkjende website melde
 protections-panel-content-blocking-breakage-report-view-description = It blokkearjen fan bepaalde trackers kin problemen mei bepaalde websites feroarsaakje. Troch dizze problemen te melden, helpe jo { -brand-short-name } foar elkenien te ferbetterjen. As jo dit rapport ferstjoere, wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd. <label data-l10n-name="learn-more">Mear ynfo</label>
+protections-panel-content-blocking-breakage-report-view-description2 = It blokkearjen fan bepaalde trackers kin problemen mei bepaalde websites feroarsaakje. Troch dizze problemen te melden, helpe jo { -brand-short-name } foar elkenien te ferbetterjen. As jo dit rapport ferstjoere, wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei { -vendor-short-name } ferstjoerd.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Ut foar dizze website
 protections-panel-cookie-banner-handling-undetected = Website wurdt op dit stuit net stipe
 protections-panel-cookie-banner-view-title =
     .title = Reduksje fan cookiebanners
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Tebek
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Reduksje fan cookiebanners útskeakelje foar { $host }?
