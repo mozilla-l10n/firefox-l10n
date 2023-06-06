@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Désactivée pour ce site
 protections-panel-cookie-banner-handling-undetected = Site actuellement non pris en charge
 protections-panel-cookie-banner-view-title =
     .title = Réduction des bannières de cookies
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Retour
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Désactiver la réduction des bannières de cookies pour { $host } ?
