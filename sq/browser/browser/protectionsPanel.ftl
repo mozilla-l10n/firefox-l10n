@@ -89,6 +89,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Njoftoni një Sajt të Dëmtuar
 protections-panel-content-blocking-breakage-report-view-description = Bllokimi i disa gjurmuesve mund të shkaktojë probleme me disa sajte. Raportimi i këtyre problemeve ndihmon për ta bërë { -brand-short-name }-in më të mirë për këdo. Dërgimi i këtij raporti do të shkaktojë dërgimin te Mozilla të një URL-je dhe të të dhënave mbi rregullimet tuaja të shfletuesit <label data-l10n-name="learn-more">Mësoni më tepër</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Bllokimi i disa gjurmuesve mund të shkaktojë probleme me disa sajte. Raportimi i këtyre problemeve ndihmon për ta bërë { -brand-short-name }-in më të mirë për këdo. Dërgimi i këtij raporti do të shkaktojë dërgimin te { -vendor-short-name } të një URL-je dhe të të dhënave mbi rregullimet tuaja të shfletuesit
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -108,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Çaktivizuar për këtë saj
 protections-panel-cookie-banner-handling-undetected = Sajt aktualisht i pambuluar
 protections-panel-cookie-banner-view-title =
     .title = Reduktim Banderolash Për Cookie-t
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Mbrapsht
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Të çaktivizohet Reduktim Banderolash Cookie-sh për { $host }?
