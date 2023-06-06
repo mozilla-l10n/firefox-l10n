@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = 목록 표시
 firefoxview-collapse-button-hide =
     .title = 목록 숨기기
-firefoxview-overview-navigation = 최근 탐색
+firefoxview-overview-nav = 최근 탐색
+    .title = 최근 탐색
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = 기록
+firefoxview-history-nav = 기록
+    .title = 기록
 firefoxview-history-header = 기록
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = 열린 탭
+firefoxview-opentabs-nav = 열린 탭
+    .title = 열린 탭
 firefoxview-opentabs-header = 열린 탭
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
