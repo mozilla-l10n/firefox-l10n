@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Adrodd ar Wefan wedi Torri
 protections-panel-content-blocking-breakage-report-view-description = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla. <label data-l10n-name="learn-more">Dysgu rhagor</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Diffodd ar gyfer y wefan hon
 protections-panel-cookie-banner-handling-undetected = Nid yw’r wefan yn cael ei chefnogi ar hyn o bryd
 protections-panel-cookie-banner-view-title =
     .title = Llai o Faneri Cwcis
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Nôl
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Diffodd Llai o Faneri Cwcis ar { $host }?
