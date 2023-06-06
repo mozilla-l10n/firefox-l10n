@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Lisćinu pokazać
 firefoxview-collapse-button-hide =
     .title = Lisćinu schować
-firefoxview-overview-navigation = Njedawno wopytane
+firefoxview-overview-nav = Njedawno wopytane
+    .title = Njedawno wopytane
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Historija
+firefoxview-history-nav = Historija
+    .title = Historija
 firefoxview-history-header = Historija
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Wočinjene rajtarki
+firefoxview-opentabs-nav = Wočinjene rajtarki
+    .title = Wočinjene rajtarki
 firefoxview-opentabs-header = Wočinjene rajtarki
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
