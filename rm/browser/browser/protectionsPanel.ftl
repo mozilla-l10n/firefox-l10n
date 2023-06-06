@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Annunziar problems cun questa site
 protections-panel-content-blocking-breakage-report-view-description = La bloccada da cuntegn po chaschunar problems cun tschertas websites. L'annunzia da problems gida a meglierar { -brand-short-name } per tuts. Quest rapport vegn tramess a Mozilla ed includa in URL, sco era infurmaziuns davart la configuraziun da tes navigatur. <label data-l10n-name="learn-more">Ulteriuras infurmaziuns</label>
+protections-panel-content-blocking-breakage-report-view-description2 = La bloccada da cuntegn po chaschunar problems cun tschertas websites. L'annunzia da problems gida a meglierar { -brand-short-name } per tuts. Quest rapport vegn tramess a { -vendor-short-name } ed includa in URL, sco era infurmaziuns davart la configuraziun da tes navigatur.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
