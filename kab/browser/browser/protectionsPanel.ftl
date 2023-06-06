@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Sens i usmel-a
 protections-panel-cookie-banner-handling-undetected = Asmel-a ur yettusefrak ara akka tura
 protections-panel-cookie-banner-view-title =
     .title = Asenqes n yiɣarracen n yinagan n tuqqna
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Ɣer deffir
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Sens asenqes n yiɣarracen n yinagan n tuqqna i { $host }?
