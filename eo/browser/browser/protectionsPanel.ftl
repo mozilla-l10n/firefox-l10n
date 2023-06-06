@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Raporti ne bone funkciantan retejon
 protections-panel-content-blocking-breakage-report-view-description = Blokado de kelkaj spuriloj povas misfunkciigi retejojn. Raportado de tiuj ĉi problemoj helpas plibonigi { -brand-short-name } por ĉiuj. Sendo de tiu ĉi raporto al Mozilla estos akompanata de retadreso kaj informo pri viaj retumilaj agordoj. <label data-l10n-name="learn-more">Pli da informo</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blokado de kelkaj spuriloj povas misfunkciigi retejojn. Raportado de tiuj ĉi problemoj helpas plibonigi { -brand-short-name } por ĉiuj. Sendo de tiu ĉi raporto al { -vendor-short-name } estos akompanata de retadreso kaj informo pri viaj retumilaj agordoj.
 protections-panel-content-blocking-breakage-report-view-collection-url = Retadreso
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Retadreso
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Malŝaltita por tiu ĉi rete
 protections-panel-cookie-banner-handling-undetected = Retejo nuntempe ne subtenata
 protections-panel-cookie-banner-view-title =
     .title = Redukto de kuketaj anoncoj
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Malantaŭen
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Ĉu malŝalti la redukton de kuketaj anoncoj por { $host }?
