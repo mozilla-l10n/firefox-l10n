@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Mostre liste
 firefoxview-collapse-button-hide =
     .title = Plate liste
-firefoxview-overview-navigation = Navigazion resinte
+firefoxview-overview-nav = Navigazion resinte
+    .title = Navigazion resinte
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Cronologjie
+firefoxview-history-nav = Cronologjie
+    .title = Cronologjie
 firefoxview-history-header = Cronologjie
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Schedis viertis
+firefoxview-opentabs-nav = Schedis viertis
+    .title = Schedis viertis
 firefoxview-opentabs-header = Schedis viertis
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
