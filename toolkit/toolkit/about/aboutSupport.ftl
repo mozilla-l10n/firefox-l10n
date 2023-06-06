@@ -175,6 +175,14 @@ media-codec-support-info = Codec-ondersteuningsinformatie
 # List all the entries of the database.
 media-capabilities-enumerate = Database inventariseren
 
+## Codec support table
+
+media-codec-support-sw-decoding = Software-decodering
+media-codec-support-hw-decoding = Hardware-decodering
+media-codec-support-codec-name = Codecnaam
+media-codec-support-supported = Ondersteund
+media-codec-support-unsupported = Niet ondersteund
+
 ##
 
 intl-title = Internationalisatie & lokalisatie

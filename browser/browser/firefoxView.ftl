@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Open tabbladen
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Onlangs gesloten tabbladen
+    .title = Onlangs gesloten tabbladen
+firefoxview-recently-closed-header = Onlangs gesloten tabbladen
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Tabbladen van andere apparaten
+    .title = Tabbladen van andere apparaten
+firefoxview-synced-tabs-header = Tabbladen van andere apparaten
 
 ##
 
