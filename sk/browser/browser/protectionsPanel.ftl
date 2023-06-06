@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Nahlásiť nefunkčnú stránku
 protections-panel-content-blocking-breakage-report-view-description = Blokovanie obsahu môže spôsobovať problémy s webovými stránkami. Ich nahlásením významne pomôžete aplikácii { -brand-short-name } sa neustále zlepšovať. S vašim hlásením sa Mozille odošle URL adresa stránky a informácie o vašom nastavení blokovania obsahu. <label data-l10n-name="learn-more">Ďalšie informácie</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blokovanie obsahu môže spôsobovať problémy s webovými stránkami. Ich nahlásením významne pomôžete aplikácii { -brand-short-name } sa neustále zlepšovať. S vašim hlásením sa Mozille odošle URL adresa stránky a informácie o vašom nastavení blokovania obsahu.
 protections-panel-content-blocking-breakage-report-view-collection-url = Adresa URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adresa URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Vypnuté pre túto stránku
 protections-panel-cookie-banner-handling-undetected = Stránka momentálne nie je podporovaná
 protections-panel-cookie-banner-view-title =
     .title = Zníženie počtu bannerov k súborom cookie
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Naspäť
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Vypnúť znižovanie počtu bannerov k súborom cookie pre { $host }?
