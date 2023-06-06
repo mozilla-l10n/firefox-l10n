@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Отключено для э
 protections-panel-cookie-banner-handling-undetected = В настоящее время сайт не поддерживается
 protections-panel-cookie-banner-view-title =
     .title = Снижение числа уведомлений о куках
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Назад
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Отключить снижение числа уведомлений о куках для { $host }?
