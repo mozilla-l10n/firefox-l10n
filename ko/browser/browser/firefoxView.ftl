@@ -98,9 +98,15 @@ firefoxview-opentabs-header = 열린 탭
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = 최근에 닫은 탭
+    .title = 최근에 닫은 탭
+firefoxview-recently-closed-header = 최근에 닫은 탭
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = 다른 기기의 탭
+    .title = 다른 기기의 탭
+firefoxview-synced-tabs-header = 다른 기기의 탭
 
 ##
 

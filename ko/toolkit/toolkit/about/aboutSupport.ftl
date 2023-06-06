@@ -172,6 +172,14 @@ media-codec-support-info = 코덱 지원 정보
 # List all the entries of the database.
 media-capabilities-enumerate = 데이터베이스 열거
 
+## Codec support table
+
+media-codec-support-sw-decoding = 소프트웨어 디코딩
+media-codec-support-hw-decoding = 하드웨어 디코딩
+media-codec-support-codec-name = 코덱 이름
+media-codec-support-supported = 지원됨
+media-codec-support-unsupported = 지원 안 됨
+
 ##
 
 intl-title = 국제화 및 현지화
