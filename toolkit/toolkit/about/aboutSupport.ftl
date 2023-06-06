@@ -175,6 +175,14 @@ media-codec-support-info = Codec-stipeynformaasje
 # List all the entries of the database.
 media-capabilities-enumerate = Database ynventarisearje
 
+## Codec support table
+
+media-codec-support-sw-decoding = Software-dekodearring
+media-codec-support-hw-decoding = Hardware-dekodearring
+media-codec-support-codec-name = Codecnamme
+media-codec-support-supported = Stipe
+media-codec-support-unsupported = Net stipe
+
 ##
 
 intl-title = Ynternasjonalisaasje & lokalisaasje
