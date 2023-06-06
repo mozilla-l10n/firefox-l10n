@@ -81,17 +81,22 @@ firefoxview-collapse-button-show =
     .title = Listeyi göster
 firefoxview-collapse-button-hide =
     .title = Listeyi gizle
-firefoxview-overview-navigation = Son bakılanlar
+firefoxview-overview-nav = Son bakılanlar
+    .title = Son bakılanlar
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Geçmiş
 firefoxview-history-header = Geçmiş
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Açık sekmeler
 firefoxview-opentabs-header = Açık sekmeler
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
