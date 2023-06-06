@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Αναφορά προβληματικού ιστοτόπου
 protections-panel-content-blocking-breakage-report-view-description = Ο αποκλεισμός ορισμένων ιχνηλατών μπορεί να προκαλέσει προβλήματα σε κάποιους ιστοτόπους. Όταν αναφέρετε τέτοια προβλήματα, συμβάλλετε στη βελτίωση του { -brand-short-name } για όλους. Με την αποστολή της αναφοράς, θα αποσταλεί ένα URL, καθώς και πληροφορίες για τις ρυθμίσεις του προγράμματος περιήγησής σας στη Mozilla. <label data-l10n-name="learn-more">Μάθετε περισσότερα</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Ο αποκλεισμός ορισμένων ιχνηλατών μπορεί να προκαλέσει προβλήματα σε κάποιους ιστοτόπους. Όταν αναφέρετε τέτοια προβλήματα, συμβάλλετε στη βελτίωση του { -brand-short-name } για όλους. Με την αποστολή της αναφοράς, θα αποσταλεί ένα URL, καθώς και πληροφορίες για τις ρυθμίσεις του προγράμματος περιήγησής σας στη { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Ανενεργή για αυ
 protections-panel-cookie-banner-handling-undetected = Ο ιστότοπος δεν υποστηρίζεται
 protections-panel-cookie-banner-view-title =
     .title = Μείωση μηνυμάτων για cookies
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Πίσω
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Απενεργοποίηση μείωσης μηνυμάτων για cookies στο { $host };
