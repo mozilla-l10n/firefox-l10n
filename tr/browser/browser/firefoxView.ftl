@@ -86,10 +86,14 @@ firefoxview-overview-nav = Son bakılanlar
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Geçmiş
+    .title = Geçmiş
 firefoxview-history-header = Geçmiş
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Açık sekmeler
+    .title = Açık sekmeler
 firefoxview-opentabs-header = Açık sekmeler
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
