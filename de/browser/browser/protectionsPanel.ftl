@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Problem mit Website melden
 protections-panel-content-blocking-breakage-report-view-description = Das Blockieren bestimmter Skripte zur Aktivitätenverfolgung kann bei einigen Websites zu Problemen führen. Wenn Sie Probleme melden, helfen Sie { -brand-short-name } für alle besser zu machen. Beim Senden des Berichts werden eine Adresse sowie Informationen über Ihre Browser-Einstellungen an Mozilla gesendet. <label data-l10n-name="learn-more">Weitere Informationen</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Das Blockieren bestimmter Skripte zur Aktivitätenverfolgung kann bei einigen Websites zu Problemen führen. Wenn Sie Probleme melden, helfen Sie { -brand-short-name } für alle besser zu machen. Beim Senden des Berichts werden eine Adresse sowie Informationen über Ihre Browser-Einstellungen an { -vendor-short-name } gesendet.
 protections-panel-content-blocking-breakage-report-view-collection-url = Adresse
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adresse
