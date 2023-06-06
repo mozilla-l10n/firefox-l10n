@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Kikapcsolva erre az oldalra
 protections-panel-cookie-banner-handling-undetected = A webhely jelenleg nem támogatott
 protections-panel-cookie-banner-view-title =
     .title = Sütibannerek számának csökkentése
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Vissza
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Kikapcsolja a sütibanner-csökkentést a következőnél: { $host }?
