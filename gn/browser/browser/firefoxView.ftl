@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Tendayke ijurujáva
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Tendayke oñembotyramóva
+    .title = Tendaykekuéra oñembotyramóva
+firefoxview-recently-closed-header = Tendaykekuéra oñembotyramóva
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Tendaykekuéra ambue mba’e’okagua
+    .title = Tendaykekuéra ambue mba’e’okagua
+firefoxview-synced-tabs-header = Tendaykekuéra ambue mba’e’okagua
 
 ##
 
