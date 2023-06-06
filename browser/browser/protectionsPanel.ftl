@@ -108,8 +108,6 @@ protections-panel-cookie-banner-handling-disabled = Nonaktif untuk situs ini
 protections-panel-cookie-banner-handling-undetected = Saat ini, situs tidak didukung
 protections-panel-cookie-banner-view-title =
     .title = Pengurangan Spanduk Kuki
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Kembali
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Nonaktifkan Pengurangan Spanduk Kuki untuk { $host }?
