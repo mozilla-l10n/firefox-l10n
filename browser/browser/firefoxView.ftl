@@ -81,17 +81,20 @@ firefoxview-collapse-button-show =
     .title = Näytä lista
 firefoxview-collapse-button-hide =
     .title = Piilota lista
-firefoxview-overview-navigation = Viimeaikainen selaus
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Sivuhistoria
 firefoxview-history-header = Sivuhistoria
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Avoimet välilehdet
 firefoxview-opentabs-header = Avoimet välilehdet
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
