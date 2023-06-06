@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Prijavi nedelujočo stran
 protections-panel-content-blocking-breakage-report-view-description = Zavračanje določenih sledilcev lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati { -brand-short-name } za vse uporabnike. Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika. <label data-l10n-name="learn-more">Več o tem</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Zavračanje določenih sledilcev lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati { -brand-short-name } za vse uporabnike. Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Izključeno na tem spletnem 
 protections-panel-cookie-banner-handling-undetected = Spletno mesto trenutno ni podprto
 protections-panel-cookie-banner-view-title =
     .title = Zmanjšanje števila pasic s piškotki
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Nazaj
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Izključim zmanjšanje števila pasic s piškotki za { $host }?
