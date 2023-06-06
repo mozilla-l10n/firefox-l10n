@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Segnale un sît che nol funzione
 protections-panel-content-blocking-breakage-report-view-description = Blocant ciertis spiis tu puedis causâ problemis cun cualchi sît web. La segnalazion di chescj problemis e jude a miorâ { -brand-short-name } par ducj. Inviant cheste segnalazion tu inviarâs a Mozilla un URL e lis informazions su lis impostazions dal tô navigadôr. <label data-l10n-name="learn-more">Plui informazions</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blocant ciertis spiis tu puedis causâ problemis cun cualchi sît web. La segnalazion di chescj problemis e jude a miorâ { -brand-short-name } par ducj. Inviant cheste segnalazion tu inviarâs a { -vendor-short-name } un URL e lis informazions su lis impostazions dal tô navigadôr.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Disativade par chest sît
 protections-panel-cookie-banner-handling-undetected = Sît pal moment no supuartât
 protections-panel-cookie-banner-view-title =
     .title = Riduzion strissons pai cookies
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Indaûr
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Disativâ la riduzion dai strissons pai cookies par { $host }?
