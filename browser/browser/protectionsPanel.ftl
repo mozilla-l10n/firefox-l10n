@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Паведаміць пра пашкоджаны сайт
 protections-panel-content-blocking-breakage-report-view-description = Блакаванне пэўных трэкераў можа выклікаць праблемы з некаторымі вэб-сайтамі. Паведамленне пра такія праблемы дапамагае зрабіць { -brand-short-name } лепшым для ўсіх. Адпраўка гэтай справаздачы дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў Mozilla. <label data-l10n-name="learn-more">Даведацца больш</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Блакаванне пэўных трэкераў можа выклікаць праблемы з некаторымі вэб-сайтамі. Паведамленне пра такія праблемы дапамагае зрабіць { -brand-short-name } лепшым для ўсіх. Адпраўка гэтай справаздачы дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Выключана для г
 protections-panel-cookie-banner-handling-undetected = Сайт зараз не падтрымліваецца
 protections-panel-cookie-banner-view-title =
     .title = Памяншэнне колькасці банераў кукі
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Назад
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Выключыць памяншэнне колькасці банераў кукі для { $host }?
