@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Nyitott lapok
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nemrég bezárt lapok
+    .title = Nemrég bezárt lapok
+firefoxview-recently-closed-header = Nemrég bezárt lapok
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Lapok más eszközökről
+    .title = Lapok más eszközökről
+firefoxview-synced-tabs-header = Lapok más eszközökről
 
 ##
 

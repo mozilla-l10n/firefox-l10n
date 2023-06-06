@@ -172,6 +172,14 @@ media-codec-support-info = Kodektámogatási információk
 # List all the entries of the database.
 media-capabilities-enumerate = Adatbázis felsorolása
 
+## Codec support table
+
+media-codec-support-sw-decoding = Szoftveres dekódolás
+media-codec-support-hw-decoding = Hardveres dekódolás
+media-codec-support-codec-name = Kodeknév
+media-codec-support-supported = Támogatott
+media-codec-support-unsupported = Nem támogatott
+
 ##
 
 intl-title = Nemzetköziesítés és honosítás
