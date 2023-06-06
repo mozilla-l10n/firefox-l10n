@@ -100,6 +100,11 @@ protections-panel-content-blocking-breakage-report-view-description =
         [with-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete { -brand-short-name(case: "acc") } dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu. <label data-l10n-name="learn-more">Zjistit více</label>
        *[no-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete aplikaci { -brand-short-name } dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu. <label data-l10n-name="learn-more">Zjistit více</label>
     }
+protections-panel-content-blocking-breakage-report-view-description2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete { -brand-short-name(case: "acc") } dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu.
+       *[no-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete aplikaci { -brand-short-name } dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu.
+    }
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
