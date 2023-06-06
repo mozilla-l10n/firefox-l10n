@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = 이 사이트에서 꺼짐
 protections-panel-cookie-banner-handling-undetected = 현재 지원되지 않는 사이트
 protections-panel-cookie-banner-view-title =
     .title = 쿠키 배너 감소
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = 뒤로
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host }에 대해 쿠키 배너 감소를 끄시겠습니까?
