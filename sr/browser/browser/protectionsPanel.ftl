@@ -115,8 +115,6 @@ protections-panel-cookie-banner-handling-disabled = Искључено за ов
 protections-panel-cookie-banner-handling-undetected = Сајт тренутно није подржан
 protections-panel-cookie-banner-view-title =
     .title = Смањење банера колачића
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Назад
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Искључити смањење банера колачића за { $host }?
