@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Tiya' Rutzijol jun Ruxaq Man Nisamäj ta
 protections-panel-content-blocking-breakage-report-view-description = Toq yeq'at jujun taq ojqanela' nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri { -brand-short-name } ütz nub'än chi qawäch qonojel. Toq natäq re rutzijol, xtitaq pa jun URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri awokik'amaya'l chi re ri Mozilla. <label data-l10n-name="learn-more">Tetamäx ch'aqa' chik</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Toq yeq'at jujun taq ojqanela' nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri { -brand-short-name } ütz nub'än chi qawäch qonojel. Toq natäq re rutzijol, xtitaq pa jun URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri awokik'amaya'l chi re ri { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Chupül pa re ruxaq re'
 protections-panel-cookie-banner-handling-undetected = Wakami man koch'el ta re ruxaq re'
 protections-panel-cookie-banner-view-title =
     .title = Kech'utinirisäx kitzijol kuki
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Chi rij
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ¿La nichup ri kich'utinisaxik rutzijol kuki richin { $host }?
