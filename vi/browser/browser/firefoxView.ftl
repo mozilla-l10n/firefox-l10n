@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Hiển thị danh sách
 firefoxview-collapse-button-hide =
     .title = Ẩn danh sách
-firefoxview-overview-navigation = Duyệt web gần đây
+firefoxview-overview-nav = Duyệt web gần đây
+    .title = Duyệt web gần đây
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Lịch sử
+firefoxview-history-nav = Lịch sử
+    .title = Lịch sử
 firefoxview-history-header = Lịch sử
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Các thẻ đang mở
+firefoxview-opentabs-nav = Các thẻ đang mở
+    .title = Các thẻ đang mở
 firefoxview-opentabs-header = Các thẻ đang mở
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
