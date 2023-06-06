@@ -84,6 +84,8 @@ firefoxview-collapse-button-hide =
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Histórico
+    .title = Histórico
 firefoxview-history-header = Histórico
 
 ## Open Tabs in this context refers to all open tabs in the browser
