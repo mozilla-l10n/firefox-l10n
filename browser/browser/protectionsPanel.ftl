@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = 回報網站問題
 protections-panel-content-blocking-breakage-report-view-description = 封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 { -brand-short-name } 變得更好。將會回報網址與您的瀏覽器相關設定給 Mozilla。<label data-l10n-name="learn-more">了解更多</label>
+protections-panel-content-blocking-breakage-report-view-description2 = 封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 { -brand-short-name } 變得更好。將會回報網址與您的瀏覽器相關設定給 { -vendor-short-name }。
 protections-panel-content-blocking-breakage-report-view-collection-url = 網址
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = 網址
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = 對此網站關閉
 protections-panel-cookie-banner-handling-undetected = 目前不支援的網站
 protections-panel-cookie-banner-view-title =
     .title = 減少 Cookie 橫幅
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = 上一頁
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = 要為 { $host } 關閉減少 Cookie 橫幅功能嗎？
