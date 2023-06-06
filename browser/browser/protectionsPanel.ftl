@@ -109,8 +109,6 @@ protections-panel-cookie-banner-handling-disabled = Dheth air an làrach seo
 protections-panel-cookie-banner-handling-undetected = Chan eil taic ris an làrach seo an-dràsta fhèin
 protections-panel-cookie-banner-view-title =
     .title = Nas lugha de bhrataichean bhriosgaidean
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Air ais
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = A bheil thu airson gleus lùghdachadh brataichean nam briosgaidean a chur dheth airson { $host }?
