@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Yr Hen Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Cyfrineiriau o ffeil CSV
+migration-wizard-migrator-display-name-file-bookmarks = Nodau tudalen o ffeil HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -106,6 +107,34 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } wedi'u diweddaru
         [many] { $updatedEntries } wedi'u diweddaru
        *[other] { $updatedEntries } wedi'u diweddaru
+    }
+migration-bookmarks-from-file-picker-title = Mewnforio Ffeil Nodau Tudalen
+migration-bookmarks-from-file-progress-header = Yn Mewnforio Nodau Tudalen
+migration-bookmarks-from-file = Nodau Tudalen
+migration-bookmarks-from-file-success-header = Nodau Tudalen wedi'u Mewnforio'n Llwyddiannus
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Dogfen HTML
+       *[other] Ffeil HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Ffeil JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [zero] { $newEntries } nodau tudalen
+        [one] { $newEntries } nod tudalen
+        [two] { $newEntries } nod tudalen
+        [few] { $newEntries } nod tudalen
+        [many] { $newEntries } nod tudalen
+       *[other] { $newEntries } nod tudalen
     }
 migration-import-button-label = Mewnforio
 migration-choose-to-import-from-file-button-label = Mewnforio o Ffeil

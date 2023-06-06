@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Symud i Fyny
 unified-extensions-context-menu-move-widget-down =
     .label = Symud i Lawr
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Nid oes caniatâd i rai estyniadau
+unified-extensions-mb-quarantined-domain-message = Dim ond rhai estyniadau sy'n cael eu monitro gan { -vendor-short-name } sydd â chaniatâd ar y wefan hon er mwyn diogelu eich data.
