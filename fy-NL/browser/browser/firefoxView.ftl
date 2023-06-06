@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Iepen ljeplêden
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Koartlyn sluten ljepblêden
+    .title = Koartlyn sluten ljepblêden
+firefoxview-recently-closed-header = Koartlyn sluten ljepblêden
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Ljepblêden fan oare apparaten
+    .title = Ljepblêden fan oare apparaten
+firefoxview-synced-tabs-header = Ljepblêden fan oare apparaten
 
 ##
 
