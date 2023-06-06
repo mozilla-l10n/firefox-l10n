@@ -91,9 +91,15 @@ firefoxview-opentabs-header = לשוניות פתוחות
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = לשוניות שנסגרו לאחרונה
+    .title = לשוניות שנסגרו לאחרונה
+firefoxview-recently-closed-header = לשוניות שנסגרו לאחרונה
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = לשוניות ממכשירים אחרים
+    .title = לשוניות ממכשירים אחרים
+firefoxview-synced-tabs-header = לשוניות ממכשירים אחרים
 
 ##
 
