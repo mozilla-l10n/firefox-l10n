@@ -172,6 +172,14 @@ media-codec-support-info = Upplýsingar um stuðning við efniskóðun
 # List all the entries of the database.
 media-capabilities-enumerate = Númera gagnagrunn
 
+## Codec support table
+
+media-codec-support-sw-decoding = Hugbúnaðarafkóðun
+media-codec-support-hw-decoding = Vélbúnaðarafkóðun
+media-codec-support-codec-name = Heiti kóðunarlykils (codec)
+media-codec-support-supported = Stuðningur
+media-codec-support-unsupported = Óstutt
+
 ##
 
 intl-title = Alþjóðavæðing og þýðingar
