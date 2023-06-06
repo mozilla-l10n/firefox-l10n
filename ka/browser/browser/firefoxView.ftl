@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = გამოჩენა
 firefoxview-collapse-button-hide =
     .title = აკეცვა
-firefoxview-overview-navigation = ბოლოს მონახულებული
+firefoxview-overview-nav = ბოლოს მონახულებული
+    .title = ბოლოს მონახულებული
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = ისტორია
+firefoxview-history-nav = ისტორია
+    .title = ისტორია
 firefoxview-history-header = ისტორია
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = გახსნილი ჩანართები
+firefoxview-opentabs-nav = გახსნილი ჩანართები
+    .title = გახსნილი ჩანართები
 firefoxview-opentabs-header = გახსნილი ჩანართები
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
