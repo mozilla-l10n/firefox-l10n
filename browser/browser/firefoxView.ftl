@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Açık sekmeler
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Son kapatılan sekmeler
+    .title = Son kapatılan sekmeler
+firefoxview-recently-closed-header = Son kapatılan sekmeler
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Diğer cihazlardaki sekmeler
+    .title = Diğer cihazlardaki sekmeler
+firefoxview-synced-tabs-header = Diğer cihazlardaki sekmeler
 
 ##
 

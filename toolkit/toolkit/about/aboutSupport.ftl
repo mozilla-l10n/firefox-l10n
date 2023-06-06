@@ -172,6 +172,14 @@ media-codec-support-info = Codec destek bilgileri
 # List all the entries of the database.
 media-capabilities-enumerate = Veritabanını numaralandır
 
+## Codec support table
+
+media-codec-support-sw-decoding = Yazılımsal çözme
+media-codec-support-hw-decoding = Donanımsal çözme
+media-codec-support-codec-name = Codec adı
+media-codec-support-supported = Destekleniyor
+media-codec-support-unsupported = Desteklenmiyor
+
 ##
 
 intl-title = Uluslararasılaştırma ve yerelleştirme
