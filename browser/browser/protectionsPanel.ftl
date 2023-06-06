@@ -89,6 +89,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = گزارش یک سایت خراب
 protections-panel-content-blocking-breakage-report-view-description = مسدود کردن ردیاب‌های خاص می‌تواند مشکلاتی را در برخی وب سایت‌ها ایجاد کند. گزارش این مشکلات به بهتر شدن { -brand-short-name } برای همه کمک می‌کند. با ارسال این گزارش، نشانی اینترنتی و اطلاعات مربوط به تنظیمات مرورگر شما به موزیلا ارسال می‌شود. <label data-l10n-name="learn-more">بیشتر بدانید</label>
+protections-panel-content-blocking-breakage-report-view-description2 = مسدود کردن ردیاب‌های خاص می‌تواند مشکلاتی را در برخی وب سایت‌ها ایجاد کند. گزارش این مشکلات به بهتر شدن { -brand-short-name } برای همه کمک می‌کند. با ارسال این گزارش، نشانی اینترنتی و اطلاعات مربوط به تنظیمات مرورگر شما به موزیلا ارسال می‌شود.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = آدرس اینترنتی
