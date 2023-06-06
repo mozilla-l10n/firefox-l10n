@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Emombe’u tenda henyhẽ’ỹva
 protections-panel-content-blocking-breakage-report-view-description = Pe tapykuehoha jejoko ikatu omoapañuãi heta ñanduti rendápe. Emombe’úvo ko’ã apañuãi eipytyvõta { -brand-short-name } oikoporãvétaha opavavépe g̃uarã. Emondóvo ko marandu, og̃uahẽta Mozilla-pe peteĩ URL ha marandu ne kundaha ñemboheko rehegua. <label data-l10n-name="learn-more">Kuaave</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Pe tapykuehoha jejoko ikatu omoapañuãi heta ñanduti rendápe. Emombe’úvo ko’ã apañuãi eipytyvõta { -brand-short-name } oikoporãvétaha opavavépe g̃uarã. Emondóvo ko marandu, og̃uahẽta { -vendor-short-name }-pe peteĩ URL ha marandu ne kundaha ñemboheko rehegua.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Ko tendágui okápe
 protections-panel-cookie-banner-handling-undetected = Tenda ko’ág̃a oñepytyvõ’ỹva
 protections-panel-cookie-banner-view-title =
     .title = Kookie Banner Ñemomichĩ
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Tapykue
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ¿Embogue kookie banner ñemomichĩ { $host } peg̃uarã?
