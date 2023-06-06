@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Niet-werkende website melden
 protections-panel-content-blocking-breakage-report-view-description = Het blokkeren van bepaalde trackers kan problemen met bepaalde websites veroorzaken. Door deze problemen te melden, helpt u { -brand-short-name } voor iedereen te verbeteren. Als u dit rapport verzendt, wordt zowel een URL als informatie over uw browserinstellingen naar Mozilla verzonden. <label data-l10n-name="learn-more">Meer info</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Het blokkeren van bepaalde trackers kan problemen met bepaalde websites veroorzaken. Door deze problemen te melden, helpt u { -brand-short-name } voor iedereen te verbeteren. Als u dit rapport verzendt, wordt zowel een URL als informatie over uw browserinstellingen naar { -vendor-short-name } verzonden.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
