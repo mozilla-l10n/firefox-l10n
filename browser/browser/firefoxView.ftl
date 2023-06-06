@@ -81,17 +81,26 @@ firefoxview-collapse-button-show =
     .title = Prikaži seznam
 firefoxview-collapse-button-hide =
     .title = Skrij seznam
-firefoxview-overview-navigation = Nedavno brskanje
+firefoxview-overview-nav = Nedavno brskanje
+    .title = Nedavno brskanje
 
 ## History in this context refers to browser history
 
-firefoxview-history-navigation = Zgodovina
+firefoxview-history-nav = Zgodovina
+    .title = Zgodovina
 firefoxview-history-header = Zgodovina
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-navigation = Odprti zavihki
+firefoxview-opentabs-nav = Odprti zavihki
+    .title = Odprti zavihki
 firefoxview-opentabs-header = Odprti zavihki
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
 
 ##
 
