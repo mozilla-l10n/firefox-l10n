@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Rapporter problem med et nettsted
 protections-panel-content-blocking-breakage-report-view-description = Blokkering av visse sporere kan føre til problemer med enkelte nettsteder. Rapportering av disse problemene er med på å gjøre { -brand-short-name } bedre for alle. Ved sending av denne rapporten vil du sende en URL og informasjon om nettleserinnstillingene dine, til Mozilla. <label data-l10n-name="learn-more">Les mer</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blokkering av visse sporere kan føre til problemer med enkelte nettsteder. Rapportering av disse problemene er med på å gjøre { -brand-short-name } bedre for alle. Ved sending av denne rapporten vil du sende en URL og informasjon om nettleserinnstillingene dine, til { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL-adresse
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL-adresse
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Av for dette nettstedet
 protections-panel-cookie-banner-handling-undetected = Nettstedet støttes for øyeblikket ikke
 protections-panel-cookie-banner-view-title =
     .title = Redusering av infokapselbanner
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Tilbake
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Vil du slå av reduksjon av infokapselbannere for { $host }?
