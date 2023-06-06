@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 protections-panel-content-blocking-breakage-report-view-description = ਕੁਝ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਕਰਕੇ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ। ਇਹ ਸਮੱਸਿਆਵਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਨਾਲ ਹਰ ਕਿਸੇ ਲਈ { -brand-short-name } ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਰਿਪੋਰਟ URL ਦੇ ਨਾਲ ਨਾਲ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਬਾਰੇ ਕੁਝ ਜਾਣਕਾਰੀ ਮੋਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦੀ ਹੈ। <label data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</label>
+protections-panel-content-blocking-breakage-report-view-description2 = ਕੁਝ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਕਰਕੇ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ। ਇਹ ਸਮੱਸਿਆਵਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਨਾਲ ਹਰ ਕਿਸੇ ਲਈ { -brand-short-name } ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਰਿਪੋਰਟ URL ਦੇ ਨਾਲ ਨਾਲ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਬਾਰੇ ਕੁਝ ਜਾਣਕਾਰੀ ਮੋਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦੀ ਹੈ।
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = ਇਸ ਸਾਈਟ ਲਈ �
 protections-panel-cookie-banner-handling-undetected = ਸਾਈਟ ਇਸ ਵੇਲੇ ਸਹਾਇਕ ਨਹੀਂ ਹੈ
 protections-panel-cookie-banner-view-title =
     .title = ਕੂਕੀ ਬੈਨਰ ਘਟਾਉਣਾ
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = ਪਿੱਛੇ
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host } ਲਈ ਕੂਕੀ ਬੈਨਰ ਘਟਾਉਣ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
