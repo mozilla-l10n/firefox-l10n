@@ -175,6 +175,14 @@ media-codec-support-info = Informácie o podpore kodekov
 # List all the entries of the database.
 media-capabilities-enumerate = Vypísanie databázy
 
+## Codec support table
+
+media-codec-support-sw-decoding = Softvérové dekódovanie
+media-codec-support-hw-decoding = Hardvérové dekódovanie
+media-codec-support-codec-name = Názov kodeku
+media-codec-support-supported = Podporované
+media-codec-support-unsupported = Nepodporované
+
 ##
 
 intl-title = Internacionalizácia a lokalizácia
