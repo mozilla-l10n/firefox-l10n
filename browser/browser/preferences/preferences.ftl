@@ -1172,7 +1172,7 @@ collection-studies =
     .label = { -brand-short-name }가 연구를 설치하고 실행하도록 허용
 collection-studies-link = { -brand-short-name } 연구 보기
 addon-recommendations =
-    .label = { -brand-short-name }가 개인화된 확장 기능 추천을 하도록 허용
+    .label = { -brand-short-name }가 개인화된 확장 기능 추천을 할 수 있도록 허용
 addon-recommendations-link = 더 알아보기
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
