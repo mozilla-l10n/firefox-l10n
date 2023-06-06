@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Senhalar un site copat
 protections-panel-content-blocking-breakage-report-view-description = Lo blocatge d’unes traçadors pòt causar de problèmas amb qualques sites web. En senhalant aquestes problèmas ajudatz a melhorar { -brand-short-name } per totes. Amb lo rapòrt serà tanben junta l’URL e d’informacions sus las preferéncias del navegador. <label data-l10n-name="learn-more">Ne saber mai</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Lo blocatge d’unes traçadors pòt causar de problèmas amb qualques sites web. En senhalant aquestes problèmas ajudatz a melhorar { -brand-short-name } per totes. Amb lo rapòrt serà tanben junta l’URL e d’informacions sus las preferéncias del navegador.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
