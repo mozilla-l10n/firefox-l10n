@@ -90,6 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Informeu sobre un lloc que no funciona
 protections-panel-content-blocking-breakage-report-view-description = El bloqueig d'alguns elements de seguiment pot causar problemes en alguns llocs web. Notificar aquests problemes ajuda a millorar el { -brand-short-name } per a tothom. Juntament amb l'informe, també s'enviarà a Mozilla un URL i informació de la configuració del vostre navegador. <label data-l10n-name="learn-more">Més informació</label>
+protections-panel-content-blocking-breakage-report-view-description2 = El bloqueig d'alguns elements de seguiment pot causar problemes en alguns llocs web. Notificar aquests problemes ajuda a millorar el { -brand-short-name } per a tothom. Juntament amb l'informe, també s'enviarà a { -vendor-short-name } un URL i informació de la configuració del vostre navegador.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -109,8 +110,6 @@ protections-panel-cookie-banner-handling-disabled = Desactivada en aquest lloc
 protections-panel-cookie-banner-handling-undetected = Aquest lloc no és compatible ara per ara
 protections-panel-cookie-banner-view-title =
     .title = Reducció de bàners de galetes
-protections-panel-cookie-banner-view-go-back =
-    .aria-label = Enrere
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Voleu desactivar la reducció de bàners de galetes per a { $host }?
