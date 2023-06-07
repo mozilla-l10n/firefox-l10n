@@ -98,9 +98,15 @@ firefoxview-opentabs-header = 打开的标签页
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = 最近关闭的标签页
+    .title = 最近关闭的标签页
+firefoxview-recently-closed-header = 最近关闭的标签页
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = 来自其他设备的标签页
+    .title = 来自其他设备的标签页
+firefoxview-synced-tabs-header = 来自其他设备的标签页
 
 ##
 
