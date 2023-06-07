@@ -96,6 +96,7 @@ translations-settings-title =
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = La traduction se fera automatiquement pour les langues suivantes
 translations-settings-never-translate-langs-description = Aucune traduction ne sera proposée pour les langues suivantes
 translations-settings-never-translate-sites-description = Aucune traduction ne sera proposée pour les sites web suivants
 translations-settings-languages-column =
