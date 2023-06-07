@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Адкрытыя карткі
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Нядаўна закрытыя карткі
+    .title = Нядаўна закрытыя карткі
+firefoxview-recently-closed-header = Нядаўна закрытыя карткі
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Карткі з іншых прылад
+    .title = Карткі з іншых прылад
+firefoxview-synced-tabs-header = Карткі з іншых прылад
 
 ##
 

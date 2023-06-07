@@ -686,6 +686,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Закрыць "выяву ў выяве" ({ $shortcut })
 picture-in-picture-panel-header = Выява ў выяве
 picture-in-picture-panel-headline = Гэты сайт не рэкамендуе функцыю «Выява ў выяве».
+picture-in-picture-panel-body = Відэа можа адлюстроўвацца не так, як меркаваў распрацоўшчык, калі ўключана функцыя «Выява ў выяве».
 picture-in-picture-enable-toggle =
     .label = Усё роўна ўключыць
 
