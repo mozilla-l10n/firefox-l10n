@@ -139,9 +139,9 @@ addon-category-dictionary-title =
 addon-category-locale = 언어팩
 addon-category-locale-title =
     .title = 언어팩
-addon-category-available-updates = 업데이트 가능 항목
+addon-category-available-updates = 업데이트 가능
 addon-category-available-updates-title =
-    .title = 업데이트 가능 항목
+    .title = 업데이트 가능
 addon-category-recent-updates = 최근 업데이트
 addon-category-recent-updates-title =
     .title = 최근 업데이트
@@ -369,7 +369,7 @@ addon-badge-verified2 =
 
 ##
 
-available-updates-heading = 업데이트 가능 항목
+available-updates-heading = 업데이트 가능
 recent-updates-heading = 최근 업데이트
 release-notes-loading = 로드 중…
 release-notes-error = 죄송합니다. 출시 정보를 로드하는 중에 오류가 발생했습니다.
