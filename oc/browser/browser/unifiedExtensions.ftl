@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Montar
 unified-extensions-context-menu-move-widget-down =
     .label = Davalar
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = D’unas extensions son pas permesas
