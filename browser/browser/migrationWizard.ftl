@@ -103,6 +103,13 @@ migration-wizard-progress-success-updated-passwords =
     }
 migration-bookmarks-from-file-picker-title = Імпарт файла закладак
 migration-bookmarks-from-file = Закладкі
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Дакумент HTML
+       *[other] Файл HTML
+    }
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Файл JSON
