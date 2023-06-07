@@ -104,6 +104,9 @@ addon-confirm-install-unsigned-message =
     { $addonCount ->
         [zero] Rhybudd: Hoffai'r wefan hon osod ychwanegyn heb ei wirio yn { -brand-short-name }. Mentrwch ar eich risg eich hun.
         [one] Rhybudd: Hoffai'r wefan hon osod { $addonCount } ychwanegyn heb eu gwirio yn { -brand-short-name }. Mentrwch ar eich risg eich hun.
+        [two] Rhybudd: Hoffai'r wefan hon osod { $addonCount } ychwanegyn heb eu gwirio yn { -brand-short-name }. Mentrwch ar eich risg eich hun.
+        [few] Rhybudd: Hoffai'r wefan hon osod { $addonCount } ychwanegyn heb eu gwirio yn { -brand-short-name }. Mentrwch ar eich risg eich hun.
+        [many] Rhybudd: Hoffai'r wefan hon osod { $addonCount } ychwanegyn heb eu gwirio yn { -brand-short-name }. Mentrwch ar eich risg eich hun.
        *[other] Rhybudd: Hoffai'r wefan hon osod { $addonCount } ychwanegyn heb eu gwirio yn { -brand-short-name }. Mentrwch ar eich risg eich hun.
     }
 # Variables:
