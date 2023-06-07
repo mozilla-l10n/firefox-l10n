@@ -172,6 +172,14 @@ media-codec-support-info = Информация о поддержке кодек
 # List all the entries of the database.
 media-capabilities-enumerate = Вывести записи из базы данных
 
+## Codec support table
+
+media-codec-support-sw-decoding = Программное декодирование
+media-codec-support-hw-decoding = Аппаратное декодирование
+media-codec-support-codec-name = Название кодека
+media-codec-support-supported = Поддерживается
+media-codec-support-unsupported = Не поддерживается
+
 ##
 
 intl-title = Интернационализация и Локализация
