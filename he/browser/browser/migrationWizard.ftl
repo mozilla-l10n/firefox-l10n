@@ -223,4 +223,4 @@ migration-wizard-progress-success-payment-methods =
     }
 migration-wizard-safari-permissions-sub-header = כדי לייבא סימניות והיסטוריית גלישה של Safari:
 migration-wizard-safari-instructions-continue = יש ללחוץ על ״המשך״
-migration-wizard-safari-instructions-folder = יש לבחור בתיקיה של Safari מהרשימה וללחוץ על ״פתיחה״
+migration-wizard-safari-instructions-folder = יש לבחור בתיקייה של Safari מהרשימה וללחוץ על ״פתיחה״
