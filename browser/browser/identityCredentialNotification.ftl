@@ -26,3 +26,4 @@ identity-credential-sign-in-button =
     .label = 로그인
     .accesskey = S
 identity-credential-policy-title = 로그인 공급자로 { $provider } 사용
+identity-credential-policy-description = { $provider } 계정으로 { $host }에 로그인하면 해당 로그인 공급자의 <label data-l10n-name="privacy-url">개인정보처리방침</label> 및 <label data-l10n-name="tos-url">서비스 약관</label>이 적용됩니다.
