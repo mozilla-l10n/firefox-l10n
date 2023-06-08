@@ -12,6 +12,21 @@ accessibility-keyboard-header = Teclado
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 
+## These strings are used in the overlay displayed when running an audit in the accessibility panel
+
+accessibility-progress-initializing = Iniciando…
+    .aria-valuetext = Iniciando…
+# This string is displayed in the audit progress bar in the accessibility panel.
+# Variables:
+#   $nodeCount (Integer) - The number of nodes for which the audit was run so far.
+accessibility-progress-progressbar =
+    { $nodeCount ->
+        [one] Verificando { $nodeCount } node
+       *[other] Verificando { $nodeCount } nodes
+    }
+accessibility-progress-finishing = Terminando…
+    .aria-valuetext = Terminando…
+
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
 accessibility-warning =
