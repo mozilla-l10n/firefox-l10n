@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = 登录
     .accesskey = S
 identity-credential-policy-title = 使用 { $provider } 登录
-identity-credential-policy-description = 使用 { $provider } 账号登录 { $host } 需遵守其<label data-l10n-name="privacy-url">隐私政策</label>和<label data-l10n-name="tos- url">服务条款</label>。
+identity-credential-policy-description = 使用 { $provider } 账号登录 { $host } 需遵守其<label data-l10n-name="privacy-url">隐私政策</label>和<label data-l10n-name="tos-url">服务条款</label>。
