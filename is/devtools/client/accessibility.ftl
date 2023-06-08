@@ -12,6 +12,11 @@ accessibility-keyboard-header = Lyklaborð
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 
+## These strings are used in the overlay displayed when running an audit in the accessibility panel
+
+accessibility-progress-finishing = Er að klára...
+    .aria-valuetext = Er að klára...
+
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
 accessibility-warning =
