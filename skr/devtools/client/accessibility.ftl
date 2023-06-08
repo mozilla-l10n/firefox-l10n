@@ -16,6 +16,14 @@ accessibility-keyboard-header = کلیدی تختی
 
 accessibility-progress-initializing = شروع تھیندا پیا ہے …
     .aria-valuetext = شروع تھیندا پیا ہے …
+# This string is displayed in the audit progress bar in the accessibility panel.
+# Variables:
+#   $nodeCount (Integer) - The number of nodes for which the audit was run so far.
+accessibility-progress-progressbar =
+    { $nodeCount ->
+        [one] { $nodeCount } نوڈ چیک کیتا ویندا پیا ہے
+       *[other] { $nodeCount } نوڈز کوں چیک کیتا ویندا پیا ہے۔
+    }
 accessibility-progress-finishing = ختم تھیندا پیا ہے…
     .aria-valuetext = ختم تھیندا پیا ہے…
 
