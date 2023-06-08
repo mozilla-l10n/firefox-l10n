@@ -7,12 +7,27 @@ xpinstall-prompt = { -brand-short-name } o l'à inpedio a sto scito de domandâ 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Permette a { $host } de instalâ un conponente azonto?
 
 ##
 
 xpinstall-prompt-dont-allow =
     .label = No Permétte
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = No permette mai
+    .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Segnala scito sospetto
+    .accesskey = S
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Avanti con l'Instalaçion
+    .accesskey = A
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
