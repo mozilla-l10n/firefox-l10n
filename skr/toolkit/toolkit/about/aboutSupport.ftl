@@ -175,6 +175,10 @@ media-codec-support-info = کوڈیک سپورٹ دی معلومات
 # List all the entries of the database.
 media-capabilities-enumerate = ڈیٹا بیس دی ڳݨتری کرو۔
 
+## Codec support table
+
+media-codec-support-codec-name = کوڈک ناں
+
 ##
 
 intl-title = انٹرنیشنلائزیشن تے لوکلائزیشن

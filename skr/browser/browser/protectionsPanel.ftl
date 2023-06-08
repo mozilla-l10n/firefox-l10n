@@ -90,7 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = ترٹی ہوئی سائٹ دی رپورٹ کرو
 protections-panel-content-blocking-breakage-report-view-description = کجھ ٹریکرز کوں بلاک کرݨ نال کجھ ویب سائٹاں دے نال مسائل پیدا تھی سڳدے ہن۔ انہاں مسائل دی اطلاع ݙیوݨ نال ہر کہیں کیتے { -brand-short-name } کوں بہتر بݨاوݨ وِچ مدد ملدی ہے۔ ایں رپورٹ کوں بھیڄݨ نال موزیلا کوں تہاݙے براؤزر دیاں ترتیباں دے بارے  URL تے معلومات بھیڄی ویسے۔ <label data-l10n-name="learn-more">ودھیک ڄاݨو</label>
-protections-panel-content-blocking-breakage-report-view-description2 = کجھ ٹریکرز کوں بلاک کرݨ نال کجھ ویب سائٹاں دے نال مسائل پیدا تھی سڳدے ہن۔ انہاں مسائل دی اطلاع ݙیوݨ نال ہر کہیں کیتے { -brand-short-name } کوں بہتر بݨاوݨ وِچ مدد ملدی ہے۔ ایں رپورٹ کوں بھیڄݨ نال موزیلا کوں تہاݙے براؤزر دیاں ترتیباں دے بارے  URL تے معلومات بھیڄی ویسے۔
+protections-panel-content-blocking-breakage-report-view-description2 = کجھ ٹریکرز کوں بلاک کرݨ نال کجھ ویب سائٹاں دے نال مسائل پیدا تھی سڳدے ہن۔ انہاں مسائل دی اطلاع ݙیوݨ نال ہر کہیں کیتے { -brand-short-name } کوں بہتر بݨاوݨ وِچ مدد ملدی ہے۔ ایں رپورٹ کوں بھیڄݨ نال { -vendor-short-name } کوں تہاݙے براؤزر دیاں ترتیباں دے بارے  URL تے معلومات بھیڄی ویسے۔
 protections-panel-content-blocking-breakage-report-view-collection-url = یوآرایل
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = یوآرایل

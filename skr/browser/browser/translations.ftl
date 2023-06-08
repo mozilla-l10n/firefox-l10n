@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ایں ورقے دا ترجمہ کرو
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } بیٹا
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,12 @@ translations-manage-settings-button =
 translations-manage-all-language = ساریاں زباناں
 translations-manage-download-button = ڈاؤن لوڈ
 translations-manage-delete-button = مٹاؤ
+translations-manage-language-download-button =
+    .label = ڈاؤن لوڈ
+    .accesskey = D
+translations-manage-language-delete-button =
+    .label = مٹاؤ
+    .accesskey = e
 translations-settings-title =
     .title = ترجمے ترتیباں
     .style = min-width: 36em
