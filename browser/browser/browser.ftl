@@ -402,6 +402,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Micròfono
+popup-select-speaker-icon =
+    .tooltiptext = Atoparlànti
 popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi.
 
 ## WebRTC window or screen share tab switch warning
