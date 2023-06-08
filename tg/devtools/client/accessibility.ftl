@@ -12,6 +12,21 @@ accessibility-keyboard-header = Клавиатура
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 
+## These strings are used in the overlay displayed when running an audit in the accessibility panel
+
+accessibility-progress-initializing = Оғоз шуда истодааст…
+    .aria-valuetext = Оғоз шуда истодааст…
+# This string is displayed in the audit progress bar in the accessibility panel.
+# Variables:
+#   $nodeCount (Integer) - The number of nodes for which the audit was run so far.
+accessibility-progress-progressbar =
+    { $nodeCount ->
+        [one] Санҷиши { $nodeCount } гиреҳ
+       *[other] Санҷиши { $nodeCount } гиреҳ
+    }
+accessibility-progress-finishing = Ба анҷом мерасад…
+    .aria-valuetext = Ба анҷом мерасад…
+
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
 accessibility-warning =
