@@ -24,6 +24,8 @@ accessibility-progress-progressbar =
         [one] Controlo de { $nodeCount } nodo
        *[other] Controlo de { $nodeCount } nodos
     }
+accessibility-progress-finishing = In curso de finir…
+    .aria-valuetext = In curso de finir…
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
