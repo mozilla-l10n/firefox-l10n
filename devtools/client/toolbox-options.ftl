@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Ενεργοποίηση απομακρυσμένου ελέγχου σφαλμάτων
 options-enable-remote-tooltip2 =
     .title = Η ενεργοποίηση αυτής της επιλογής θα επιτρέψει τον απομακρυσμένο έλεγχο σφαλμάτων σε αυτό το παράθυρο του προγράμματος περιήγησης
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Χρησιμοποιήστε το πλήκτρο F12 για να ανοίξετε ή να κλείσετε τα DevTools
+options-enable-f12-tooltip =
+    .title = Η ενεργοποίηση αυτής της επιλογής θα δεσμεύσει το πλήκτρο F12 με το άνοιγμα ή το κλείσιμο της εργαλειοθήκης DevTools
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Ενεργοποίηση προσαρμοσμένων μορφοποιητών
 options-enable-custom-formatters-tooltip =
