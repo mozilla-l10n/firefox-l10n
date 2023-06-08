@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = Bejelentkezés
     .accesskey = B
 identity-credential-policy-title = { $provider } használata bejelentkezési szolgáltatóként
-identity-credential-policy-description = A(z) { $host } oldalon, a(z) { $provider }-fiókkal történő bejelentkezésre a szolgáltató <label data-l10n-name="privacy-url">adatvédelmi irányelvei</label> és <label data-l10n-name="tos- url">szolgáltatási feltételei</label> vonatkoznak.
+identity-credential-policy-description = A(z) { $host } oldalon, a(z) { $provider }-fiókkal történő bejelentkezésre a szolgáltató <label data-l10n-name="privacy-url">adatvédelmi irányelvei</label> és <label data-l10n-name="tos-url">szolgáltatási feltételei</label> vonatkoznak.
