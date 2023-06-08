@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = כניסה
     .accesskey = כ
 identity-credential-policy-title = שימוש ב־{ $provider } כספק התחברות
-identity-credential-policy-description = הכניסה אל { $host } עם חשבון { $provider } כפופה ל<label data-l10n-name="privacy-url">מדיניות הפרטיות</label> שלו ול<label data-l10n-name="tos- url">תנאי השירות</label>.
+identity-credential-policy-description = הכניסה אל { $host } עם חשבון { $provider } כפופה ל<label data-l10n-name="privacy-url">מדיניות הפרטיות</label> שלו ול<label data-l10n-name="tos-url">תנאי השירות</label>.
