@@ -252,6 +252,7 @@ set-default-pdf-handler-primary = Aikumby
 ## FxA sync CFR
 
 fxa-sync-cfr-header = ¿Eikesépa mba’e’oka pyahúpe?
+fxa-sync-cfr-body = Ehecha umi ipyahuvéva techaukaha, ñe’ẽñemi ha tendayke toĩ embojurujávo kundahára pyahu { -brand-product-name }.
 fxa-sync-cfr-primary = Kuaave
     .accesskey = L
 fxa-sync-cfr-secondary = Chemomandu’a ag̃ave
