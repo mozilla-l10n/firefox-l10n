@@ -327,7 +327,7 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = 使用 { $app-name } 处理（默认）
+    .label = 使用“{ $app-name }”处理（默认）
 applications-use-os-default =
     .label =
         { PLATFORM() ->
