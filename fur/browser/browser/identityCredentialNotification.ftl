@@ -14,6 +14,8 @@
 
 identity-credential-header-providers = Jentre cuntun furnidôr di acès
 identity-credential-header-accounts = Jentre cun { $provider }
+identity-credential-urlbar-anchor =
+    .tooltiptext = Vierç il panel di acès
 identity-credential-cancel-button =
     .label = Anule
     .accesskey = n
