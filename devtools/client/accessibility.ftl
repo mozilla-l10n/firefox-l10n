@@ -16,6 +16,14 @@ accessibility-keyboard-header = কীবোর্ড
 
 accessibility-progress-initializing = আরম্ভ হচ্ছে…
     .aria-valuetext = আরম্ভ হচ্ছে…
+# This string is displayed in the audit progress bar in the accessibility panel.
+# Variables:
+#   $nodeCount (Integer) - The number of nodes for which the audit was run so far.
+accessibility-progress-progressbar =
+    { $nodeCount ->
+        [one] নোড { $nodeCount } চেক করা হচ্ছে
+       *[other] নোড { $nodeCount } চেক করা হচ্ছে
+    }
 accessibility-progress-finishing = শেষ হচ্ছে…
     .aria-valuetext = শেষ হচ্ছে…
 
