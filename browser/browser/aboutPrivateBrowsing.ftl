@@ -6,6 +6,8 @@ privatebrowsingpage-open-private-window-label = Arvi 'n barcon privòu
     .accesskey = à
 about-private-browsing-search-placeholder = Çerca inta Ræ
 about-private-browsing-info-title = Ti ê inte 'n barcon privòu
+about-private-browsing-search-btn =
+    .title = Çerca inta ræ
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -17,6 +19,9 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Çerca con { $engine } ò scrivi indirisso
 about-private-browsing-handoff-text-no-engine = Çerca ò scrivi indirisso
 about-private-browsing-not-private = Sto chi o no l'é 'n barcon privòu.
+about-private-browsing-learn-more-link = Atre informaçioin
+about-private-browsing-focus-promo-cta = Scarega { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: navegaçion anònima donde se segge
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -32,6 +37,16 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Særa
+about-private-browsing-promo-close-button =
+    .title = Særa
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Azonzi a-a bâra de aplicaçioin
+       *[other] Azonzi a-a bâra de aplicaçioin
+    }
+
+## Strings used in a promotion message for cookie banner reduction
 

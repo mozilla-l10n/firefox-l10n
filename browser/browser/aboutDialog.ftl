@@ -26,6 +26,7 @@ update-failed = Agiornamento no ariescio. <label data-l10n-name="failed-link">De
 update-failed-main = Agiornamento no ariescio. <a data-l10n-name="failed-link-main">Descarega l'urtima verscion</a>
 update-adminDisabled = I agiornamenti en dizabilitæ da-o teu aministratô do scistema
 update-noUpdatesFound = { -brand-short-name } o l'é agiornòu
+aboutdialog-update-checking-failed = No riescio a controlâ i agiornamenti
 update-otherInstanceHandlingUpdates = Agiornamento de { -brand-short-name } inte n'atra istansa
 update-manual = I agiornamenti en in <label data-l10n-name="manual-link"/>
 aboutdialog-update-manual = I agiornamenti en in <a data-l10n-name="manual-link"/>
