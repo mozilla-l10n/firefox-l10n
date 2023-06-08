@@ -17,6 +17,11 @@ firefoxview-just-now-timestamp = oua
 firefoxview-tabpickup-step-signin-primarybutton = Vanni avanti
 firefoxview-tabpickup-network-offline-header = Contròlla a conescion internet
 firefoxview-tabpickup-password-locked-link = Atre informaçioin
+firefoxview-mobile-confirmation-header = 🎉 Ghe semmo!
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
 
 ## History in this context refers to browser history
 
