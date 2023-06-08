@@ -16,6 +16,14 @@ accessibility-keyboard-header = Clavier
 
 accessibility-progress-initializing = Initialisation…
     .aria-valuetext = Initialisation…
+# This string is displayed in the audit progress bar in the accessibility panel.
+# Variables:
+#   $nodeCount (Integer) - The number of nodes for which the audit was run so far.
+accessibility-progress-progressbar =
+    { $nodeCount ->
+        [one] Vérification d’un nœud
+       *[other] Vérification de { $nodeCount } nœuds
+    }
 accessibility-progress-finishing = Dernière étape en cours…
     .aria-valuetext = Dernière étape en cours…
 
