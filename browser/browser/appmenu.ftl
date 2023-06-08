@@ -101,17 +101,53 @@ appmenu-fxa-last-sync = Urtima scincronizaçion: { $time }
     .label = Urtima scincronizaçion: { $time }
 appmenu-fxa-sync-and-save-data2 = Scincronizza e sarva i dæti
 appmenu-fxa-signed-in-label = Intra
+appmenu-fxa-setup-sync =
+    .label = Açendi scincronizaçion…
 appmenuitem-save-page =
     .label = Sarva pagina co-o nomme…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Cöse gh'é de neuvo
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Fanni savei de neuve fonçioin
+    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-header-text = { -profiler-brand-name }{ -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Mostra ciù informaçioin
+profiler-popup-description-title =
+    .value = Registra, analizza, condividdi
+profiler-popup-settings =
+    .value = Inpostaçioin
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Cangia Inpostaçion…
+profiler-popup-recording-screen = Registraçion…
+profiler-popup-start-recording-button =
+    .label = Inàndia Registraçión
+profiler-popup-discard-button =
+    .label = Ignòra
+profiler-popup-capture-button =
+    .label = Aquiziçion
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Maiosc+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Maiosc+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -126,9 +162,28 @@ whatsnew-panel-header = Cöse gh'é de neuvo
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Svilupatô web
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = Grafica
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-networking-label =
+    .label = Ræ
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Energia
+profiler-popup-presets-custom-label =
+    .label = Personalizzou
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Gestisci stöia
+appmenu-reopen-all-tabs = Arvi torna tutti i feuggi
+appmenu-reopen-all-windows = Arvi torna in tutti i barcoin
 appmenu-restore-session =
     .label = Repiggia a sescion primma
 appmenu-clear-history =
@@ -138,18 +193,40 @@ appmenu-recently-closed-tabs =
     .label = Feuggi seræ urtimamente
 appmenu-recently-closed-windows =
     .label = Barcoin seræ urtimamente
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Çerca inta stöia
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Guidda de { -brand-shorter-name }
 appmenu-about =
     .label = Informaçioin in sce { -brand-shorter-name }
     .accesskey = I
+appmenu-get-help =
+    .label = Fatte agiutâ
+    .accesskey = u
+appmenu-help-more-troubleshooting-info =
+    .label = Informaçioin in sciâ soluçion di problemi
+    .accesskey = r
 appmenu-help-report-site-issue =
     .label = Denonçia Problema do Scito…
+appmenu-help-share-ideas =
+    .label = Condividdi idee e comenti…
+    .accesskey = C
+appmenu-help-switch-device =
+    .label = Passa a 'n neuvo dispoxitivo
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Mòddo soluçion problemi…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Asmòrta mòddo soluçion problemi…
+    .accesskey = A
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -163,3 +240,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personaliza bara di atressi…
+appmenu-developer-tools-subheader = Atressi do navegatô
+appmenu-developer-tools-extensions =
+    .label = Estenscioin pe-i svilopatoî
