@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Hupi
 unified-extensions-context-menu-move-widget-down =
     .label = Mboguejy
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Oĩ jepysokue ñoñemoneĩriva
