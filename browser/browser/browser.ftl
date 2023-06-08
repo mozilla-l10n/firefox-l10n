@@ -287,6 +287,7 @@ quickactions-refresh = Repiggia { -brand-short-name }
 quickactions-cmd-refresh = repiggia
 # Restarts the browser
 quickactions-restart = Arvi torna { -brand-short-name }
+quickactions-cmd-restart = arvi torna
 
 ## Bookmark Panel
 
