@@ -404,7 +404,16 @@ popup-select-microphone-icon =
     .tooltiptext = Micròfono
 popup-select-speaker-icon =
     .tooltiptext = Atoparlànti
+popup-select-window-or-screen =
+    .label = Barcon ò schermo
+    .accesskey = B
 popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi.
+popup-screen-sharing-block =
+    .label = Blòcca
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Blòcca de longo
+    .accesskey = l
 
 ## WebRTC window or screen share tab switch warning
 
@@ -444,11 +453,19 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = Çerca con { $engine }
 urlbar-result-action-switch-tab = Vanni a-o feuggio
 urlbar-result-action-visit = Vixita
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Çerca Segnalibbri
+urlbar-result-action-search-history = Çerca Stöia
+urlbar-result-action-search-tabs = Çerca inte schede.
 
 ## Labels shown above groups of urlbar results
 
@@ -590,6 +607,9 @@ eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto 
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Ciù…
 ui-tour-info-panel-close =
     .tooltiptext = Særa
 
