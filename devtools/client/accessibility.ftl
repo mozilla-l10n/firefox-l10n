@@ -14,6 +14,8 @@ accessibility-keyboard-header = Клавіатура
 
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
 
+accessibility-progress-initializing = Ініціалізація…
+    .aria-valuetext = Ініціалізація…
 # This string is displayed in the audit progress bar in the accessibility panel.
 # Variables:
 #   $nodeCount (Integer) - The number of nodes for which the audit was run so far.
@@ -23,6 +25,8 @@ accessibility-progress-progressbar =
         [few] Перевірка { $nodeCount } вузлів
        *[many] Перевірка { $nodeCount } вузлів
     }
+accessibility-progress-finishing = Завершення…
+    .aria-valuetext = Завершення…
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
