@@ -9,11 +9,16 @@ accessibility-learn-more = অধিক জানক
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
+
+## These strings are used in the overlay displayed when running an audit in the accessibility panel
+
+accessibility-progress-initializing = আৰম্ভ কৰা হৈছে...
+    .aria-valuetext = আৰম্ভ কৰা হৈছে...
+
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
 accessibility-warning =
     .alt = সকীয়নি
-
 accessibility-fail =
     .alt = ত্ৰুটি
 
