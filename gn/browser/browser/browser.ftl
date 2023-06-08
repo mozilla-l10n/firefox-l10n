@@ -682,6 +682,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Emboty Picture-in-Picture ({ $shortcut })
 picture-in-picture-panel-header = Picture-in-picture
 picture-in-picture-panel-headline = Ko ñanduti renda noikuave’ẽi Picture-in-Picture
+picture-in-picture-panel-body = Ikatuhína ta’ãngamýi ndojehechái mboguatahára oipotaháicha Picture-in-Picture hendy aja.
 picture-in-picture-enable-toggle =
     .label = Emyandy katuete
 

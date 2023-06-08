@@ -25,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = Eñepyrũ tembiapo
     .accesskey = S
+identity-credential-policy-title = Eipuru { $provider } tembiapo ñepyrũ me’ẽháramo
