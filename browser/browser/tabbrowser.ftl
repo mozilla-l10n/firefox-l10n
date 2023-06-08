@@ -94,15 +94,15 @@ tabbrowser-customizemode-tab-title = Personalizza { -brand-short-name }
 ## Context menu buttons, of which only one will be visible at a time
 
 tabbrowser-context-mute-tab =
-    .label = Dizativa aodio in sto feuggio
-    .accesskey = v
+    .label = Silençia feuggio
+    .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = Ativa aodio in sto feuggio
     .accesskey = v
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
-    .label = Dizativa aodio inti feuggi
-    .accesskey = v
+    .label = Silençia feuggi
+    .accesskey = l
 # The accesskey should match the accesskey for tabbrowser-context-unmute-tab
 tabbrowser-context-unmute-selected-tabs =
     .label = Ativa aodio inti feuggi
@@ -114,3 +114,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Elenca tutti i { $tabCount } feuggi
+
+## Tab manager menu buttons
+
