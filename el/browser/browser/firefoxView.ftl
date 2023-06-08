@@ -81,3 +81,34 @@ firefoxview-collapse-button-show =
     .title = Εμφάνιση λίστας
 firefoxview-collapse-button-hide =
     .title = Απόκρυψη λίστας
+firefoxview-overview-nav = Πρόσφατη περιήγηση
+    .title = Πρόσφατη περιήγηση
+
+## History in this context refers to browser history
+
+firefoxview-history-nav = Ιστορικό
+    .title = Ιστορικό
+firefoxview-history-header = Ιστορικό
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-nav = Ανοικτές καρτέλες
+    .title = Ανοικτές καρτέλες
+firefoxview-opentabs-header = Ανοικτές καρτέλες
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+firefoxview-recently-closed-nav = Πρόσφατα κλεισμένες καρτέλες
+    .title = Πρόσφατα κλεισμένες καρτέλες
+firefoxview-recently-closed-header = Πρόσφατα κλεισμένες καρτέλες
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+firefoxview-synced-tabs-nav = Καρτέλες από άλλες συσκευές
+    .title = Καρτέλες από άλλες συσκευές
+firefoxview-synced-tabs-header = Καρτέλες από άλλες συσκευές
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Προβολή όλων

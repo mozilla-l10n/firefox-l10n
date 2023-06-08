@@ -30,11 +30,15 @@ translations-panel-translate-cancel =
     .label = Ακύρωση
 translations-panel-error-load-languages-hint-button =
     .label = Δοκιμή ξανά
+translations-panel-error-change-button =
+    .label = Αλλαγή αρχικής γλώσσας
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Μετάφραση από
+translations-panel-to-label = Μετάφραση σε
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another

@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Αναπαραγωγή ήχου
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Παράθεση και των { $tabCount } καρτελών
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Σίγαση καρτέλας
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Άρση σίγασης καρτέλας
+tabbrowser-manager-close-tab =
+    .tooltiptext = Κλείσιμο καρτέλας

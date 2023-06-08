@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Υπότιτλοι
     .tooltip = Υπότιτλοι
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Πλήρης οθόνη
+    .tooltip = Πλήρης οθόνη (διπλό κλικ ή { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Έξοδος από πλήρη οθόνη
+    .tooltip = Έξοδος από πλήρη οθόνη (διπλό κλικ ή { $shortcut })
 
 ##
 
@@ -49,6 +55,9 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Έξοδος από πλήρη οθόνη
     .tooltip = Έξοδος από πλήρη οθόνη (διπλό κλικ)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = Πίσω
     .tooltip = Πίσω (←)

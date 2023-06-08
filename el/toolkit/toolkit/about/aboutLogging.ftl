@@ -26,6 +26,7 @@ about-logging-logging-to-profiler = Καταγραφή στο { -profiler-brand-
 about-logging-no-log-modules = Καμία
 about-logging-no-log-file = Κανένα
 about-logging-logging-preset-selector-text = Προκαθορισμένη καταγραφή:
+about-logging-with-profiler-stacks-checkbox = Ενεργοποίηση ιχνών στοίβας για μηνύματα καταγραφής
 
 ## Logging presets
 

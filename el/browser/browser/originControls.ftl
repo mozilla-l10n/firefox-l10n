@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Η επέκταση δεν μπορεί να διαβάσει και να αλλάξει δεδομένα
+origin-controls-quarantined =
+    .label = Δεν επιτρέπεται στην επέκταση η ανάγνωση και αλλαγή δεδομένων
 origin-controls-options =
     .label = Η επέκταση μπορεί να διαβάσει και να αλλάξει δεδομένα:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Δεν μπορεί να διαβάζει και να αλλάζει δεδομένα σε αυτόν τον ιστότοπο
+origin-controls-state-quarantined = Δεν επιτρέπεται από τη { -vendor-short-name } σε αυτόν τον ιστότοπο
 origin-controls-state-always-on = Μπορεί πάντα να διαβάζει και να αλλάζει δεδομένα σε αυτόν τον ιστότοπο
 origin-controls-state-when-clicked = Απαιτείται άδεια για ανάγνωση και αλλαγή δεδομένων
 origin-controls-state-hover-run-visit-only = Εκτέλεση μόνο για αυτήν την επίσκεψη

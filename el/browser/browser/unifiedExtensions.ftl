@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Μετακίνηση πάνω
 unified-extensions-context-menu-move-widget-down =
     .label = Μετακίνηση κάτω
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Ορισμένες επεκτάσεις δεν επιτρέπονται
+unified-extensions-mb-quarantined-domain-message = Επιτρέπονται μόνο ορισμένες επεκτάσεις που εποπτεύονται από τη { -vendor-short-name } σε αυτόν τον ιστότοπο για την προστασία των δεδομένων σας.

@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Κωδικοί πρόσβασης από αρχείο CSV
+migration-wizard-migrator-display-name-file-bookmarks = Σελιδοδείκτες από αρχείο HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -58,6 +59,7 @@ migration-favorites-option-label = Αγαπημένα
 migration-logins-and-passwords-option-label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
 migration-history-option-label = Ιστορικό περιήγησης
 migration-form-autofill-option-label = Δεδομένα αυτόματης συμπλήρωσης φορμών
+migration-payment-methods-option-label = Μέθοδοι πληρωμής
 migration-passwords-from-file-progress-header = Εισαγωγή αρχείου κωδικών πρόσβασης
 migration-passwords-from-file-success-header = Επιτυχής εισαγωγή κωδικών πρόσβασης
 migration-passwords-from-file = Έλεγχος αρχείου για κωδικούς πρόσβασης
@@ -98,6 +100,30 @@ migration-wizard-progress-success-updated-passwords =
         [one] Ενημερώθηκε { $updatedEntries }
        *[other] Ενημερώθηκαν { $updatedEntries }
     }
+migration-bookmarks-from-file-picker-title = Εισαγωγή αρχείου σελιδοδεικτών
+migration-bookmarks-from-file-progress-header = Εισαγωγή σελιδοδεικτών
+migration-bookmarks-from-file = Σελιδοδείκτες
+migration-bookmarks-from-file-success-header = Επιτυχής εισαγωγή σελιδοδεικτών
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Έγγραφο HTML
+       *[other] Αρχείο HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Αρχείο JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } σελιδοδείκτης
+       *[other] { $newEntries } σελιδοδείκτες
+    }
 migration-import-button-label = Εισαγωγή
 migration-choose-to-import-from-file-button-label = Εισαγωγή από αρχείο
 migration-import-from-file-button-label = Επιλογή αρχείου
@@ -120,6 +146,7 @@ migration-list-favorites-label = αγαπημένα
 migration-list-password-label = κωδικοί πρόσβασης
 migration-list-history-label = ιστορικό
 migration-list-autofill-label = δεδομένα αυτόματης συμπλήρωσης
+migration-list-payment-methods-label = μέθοδοι πληρωμής
 
 ##
 
@@ -180,7 +207,16 @@ migration-wizard-progress-success-history =
        *[other] Από τις τελευταίες { $maxAgeInDays } ημέρες
     }
 migration-wizard-progress-success-formdata = Ιστορικό φορμών
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } μέθοδος πληρωμής
+       *[other] { $quantity } μέθοδοι πληρωμής
+    }
 migration-wizard-safari-permissions-sub-header = Για την εισαγωγή σελιδοδεικτών και ιστορικού περιήγησης από το Safari:
 migration-wizard-safari-instructions-continue = Επιλέξτε «Συνέχεια»
 migration-wizard-safari-instructions-folder = Επιλέξτε τον φάκελο του Safari από τη λίστα και κάντε κλικ στο «Άνοιγμα»
-migration-wizard-safari-select-button = Επιλογή αρχείου

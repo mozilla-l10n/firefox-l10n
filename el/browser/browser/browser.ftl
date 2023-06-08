@@ -677,6 +677,10 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Άνοιγμα λειτουργίας «Εικόνα εντός εικόνας» ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Κλείσιμο λειτουργίας «Εικόνα εντός εικόνας» ({ $shortcut })
+picture-in-picture-panel-header = Εικόνα εντός εικόνας
+picture-in-picture-panel-headline = Αυτός ο ιστότοπος δεν συνιστά τη λειτουργία «Εικόνα εντός εικόνας»
+picture-in-picture-enable-toggle =
+    .label = Ενεργοποίηση ούτως ή άλλως
 
 ## Full Screen and Pointer Lock UI
 
