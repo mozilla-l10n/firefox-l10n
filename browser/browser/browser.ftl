@@ -288,6 +288,12 @@ quickactions-cmd-refresh = repiggia
 # Restarts the browser
 quickactions-restart = Arvi torna { -brand-short-name }
 quickactions-cmd-restart = arvi torna
+# Opens the screenshot tool
+quickactions-screenshot3 = Fanni föto do schermo
+quickactions-cmd-screenshot = föto do schermo
+quickactions-cmd-update = agiorna
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Mostra sorgente da pagina
 
 ## Bookmark Panel
 
@@ -327,6 +333,11 @@ identity-passive-loaded = Quarche elemento da pagina o no l'é seguo (prezempio 
 identity-active-loaded = A proteçion a l'é dizativâ pe sta pagina.
 identity-weak-encryption = Sta pagina a deuvia na cifratua debole.
 identity-insecure-login-forms = I acessi a sta pagina porieivan ese vulnerabili.
+identity-https-only-dropdown-on =
+    .label = Açendi
+identity-https-only-dropdown-off =
+    .label = Asmòrta
+identity-permissions-storage-access-learn-more = Atre informaçioin
 identity-permissions-reload-hint = Peu dase che ti devi arvî torna a pagina pe vedde i cangiamenti.
 identity-clear-site-data =
     .label = Scancella cookie e dæti di sciti…
@@ -381,6 +392,16 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Fòtocamera
+    .accesskey = F
+popup-select-camera-icon =
+    .tooltiptext = Fòtocamera
+popup-select-microphone-device =
+    .value = Micròfono
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micròfono
 popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi.
 
 ## WebRTC window or screen share tab switch warning
