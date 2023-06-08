@@ -266,6 +266,27 @@ quickactions-bookmarks2 = Gestisci segnalibbri
 quickactions-cmd-bookmarks = segnalibbri
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Scancella Stöia
+quickactions-cmd-clearhistory = scancella stöia
+# Opens about:downloads page
+quickactions-downloads2 = Mostra scaregamenti
+quickactions-cmd-downloads = scaregamenti
+# Opens about:addons page in the extensions section
+quickactions-extensions = Gestisci estenscioin
+quickactions-cmd-extensions = estenscioin
+# Opens the devtools web inspector
+quickactions-inspector2 = Arvi Strumenti do svilupatô
+quickactions-cmd-plugins = Plugin
+# Opens the print dialog
+quickactions-print2 = Stanpa pagina
+quickactions-cmd-print = stanpa
+# Opens a new private browsing window
+quickactions-private2 = Arvi barcon privòu
+quickactions-cmd-private = navegaçion privâ
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Repiggia { -brand-short-name }
+quickactions-cmd-refresh = repiggia
+# Restarts the browser
+quickactions-restart = Arvi torna { -brand-short-name }
 
 ## Bookmark Panel
 
