@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Μάθετε περισσότερα
 relay-integration =
     .label = Ενεργοποίηση του { -relay-brand-name } στη Διαχείριση κωδικών πρόσβασης του { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Πρόταση μασκών email του { -relay-brand-name } για την προστασία της διεύθυνσης email σας
 relay-integration-learn-more-link = Μάθετε περισσότερα
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
