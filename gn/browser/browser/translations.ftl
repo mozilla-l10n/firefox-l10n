@@ -42,6 +42,8 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = ¿Emoñe’ẽasa ko kuatiarogue?
 translations-panel-translate-button =
     .label = Ñe’ẽasa
+translations-panel-translate-button-loading =
+    .label = Eha’arõmína…
 translations-panel-translate-cancel =
     .label = Heja
 translations-panel-error-translating = Iñapañuãi’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
@@ -74,6 +76,14 @@ translations-panel-to-label = Emoñe’ẽasa pe
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Ko kuatiarogue oñemoñe’ẽasa { $fromLanguage } guive { $toLanguage }-pe
 translations-panel-choose-language =
     .label = Eiporavo peteĩ ñe’ẽ
 translations-panel-restore-button =

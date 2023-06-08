@@ -860,6 +860,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Kuaave
 relay-integration =
     .label = Embojuruja { -relay-brand-name } ñe’ẽñemi ñangarekohápe { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Emoĩ ñanduti veve reragua’u { -relay-brand-name } emo’ã hag̃ua ne ñanduti veve kundaharape
 relay-integration-learn-more-link = Kuaave
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
