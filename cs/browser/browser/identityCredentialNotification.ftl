@@ -12,6 +12,10 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
+identity-credential-header-providers = Přihlaste se s pomocí poskytovatele přihlášení
+identity-credential-header-accounts = Přihlášení pomocí { $provider }
+identity-credential-urlbar-anchor =
+    .tooltiptext = Otevřít přihlašovací panel
 identity-credential-cancel-button =
     .label = Zrušit
     .accesskey = Z
