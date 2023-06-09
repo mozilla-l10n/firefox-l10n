@@ -138,9 +138,15 @@ firefoxview-opentabs-header = Otevřené panely
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nedávno zavřené panely
+    .title = Nedávno zavřené panely
+firefoxview-recently-closed-header = Nedávno zavřené panely
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Panely z jiných zařízení
+    .title = Panely z jiných zařízení
+firefoxview-synced-tabs-header = Panely z jiných zařízení
 
 ##
 
