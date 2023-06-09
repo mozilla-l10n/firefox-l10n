@@ -120,3 +120,12 @@ tabbrowser-tab-audio-playing-description = ກຳລັງຫຼິ້ນສຽ�
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = ສະແດງລາຍການ { $tabCount } ແທັບທັງຫມົດ
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = ປິດສຽງແທັບ
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = ເປີດສຽງແທັບ
+tabbrowser-manager-close-tab =
+    .tooltiptext = ປິດແທັບ

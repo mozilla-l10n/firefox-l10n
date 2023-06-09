@@ -33,6 +33,8 @@ appmenuitem-print =
     .label = ພິມ...
 appmenuitem-find-in-page =
     .label = ຄົ້ນຫາໃນຫນ້າ…
+appmenuitem-translate =
+    .label = ແປໜ້າ…
 appmenuitem-zoom =
     .value = ຂະຫຍາຍ
 appmenuitem-more-tools =
@@ -152,6 +154,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = ແນະນຳໃຫ້ຕັ້ງໄວ້ລ່ວງໜ້າສຳລັບການດີບັກແອັບເວັບສ່ວນໃຫຍ່, ໂດຍມີສ່ວນເກີນຕ່ຳ.

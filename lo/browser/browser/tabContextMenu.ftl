@@ -23,6 +23,11 @@ duplicate-tab =
 duplicate-tabs =
     .label = ແທັບທີ່ຊໍ້າກັນ
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = ປິດແຖບໄປທາງຊ້າຍ
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -55,9 +60,21 @@ bookmark-tab =
 tab-context-bookmark-tab =
     .label = ແຖບບຸກມາກ...
     .accesskey = B
+tab-context-open-in-new-container-tab =
+    .label = ເປີດໃນແຖບບັນຈຸໃຫມ່
+    .accesskey = e
+move-to-start =
+    .label = ຍ້າຍໄປເລີ່ມຕົ້ນ
+    .accesskey = S
+move-to-end =
+    .label = ຍ້າຍໄປທີ່ສິ້ນສຸດ
+    .accesskey = E
 move-to-new-window =
     .label = ຍ້າຍໄປວິນໂດໃໝ່
     .accesskey = ວ
+tab-context-close-multiple-tabs =
+    .label = ປິດຫຼາຍແຖບ
+    .accesskey = M
 tab-context-share-url =
     .label = ແບ່ງປັນ
     .accesskey = h

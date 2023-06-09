@@ -40,3 +40,4 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = ບາງສ່ວນຂະຫຍາຍແມ່ນບໍ່ໄດ້ຮັບອະນຸຍາດ
+unified-extensions-mb-quarantined-domain-message = ພຽງແຕ່ບາງສ່ວນຂະຫຍາຍທີ່ຕິດຕາມໂດຍ { -vendor-short-name } ໄດ້ຖືກອະນຸຍາດໃຫ້ຢູ່ໃນເວັບໄຊນີ້ເພື່ອປົກປ້ອງຂໍ້ມູນຂອງທ່ານ.

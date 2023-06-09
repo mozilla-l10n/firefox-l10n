@@ -98,3 +98,7 @@ manifest-icon-img-title = ໄອຄອນທີ່ມີຂະໜາດ: { $size
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
 manifest-icon-img-title-no-sizes = ໄອຄອນຂະໜາດທີ່ບໍ່ໄດ້ລະບຸ
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = ໄອຄອນຜິດພາດ
+    .title = ຂໍ້ຜິດພາດ

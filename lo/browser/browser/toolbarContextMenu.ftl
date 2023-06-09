@@ -5,6 +5,9 @@
 toolbar-context-menu-new-tab =
     .label = ແທັບໃຫມ່
     .accesskey = w
+toolbar-context-menu-select-all-tabs =
+    .label = ເລືອກແຖບທັງໝົດ
+    .accesskey = S
 toolbar-context-menu-manage-extension =
     .label = ຈັດການສ່ວນຂະຫຍາຍ
     .accesskey = E

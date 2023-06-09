@@ -123,9 +123,20 @@ preferences-data-migration-button =
     .label = ການ​ນໍາ​ເຂົ້າ​ຂໍ້​ມູນ​
     .accesskey = m
 tabs-group-header = ແທັບ
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab ໝູນວຽນຜ່ານແຖບຕາມລຳດັບທີ່ໃຊ້ເມື່ອບໍ່ດົນມານີ້
+    .accesskey = T
 confirm-on-close-multiple-tabs =
     .label = ຢືນຢັນກ່ອນທີ່ຈະປິດຫຼາຍແຖບ
     .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = ຢືນຢັນກ່ອນທີ່ຈະເຊົາກັບ { $quitKey }
+    .accesskey = b
 browser-containers-enabled =
     .label = ເປີດໃຊ້ງານແທັບແຍກຂໍ້ມູນ
     .accesskey = n
