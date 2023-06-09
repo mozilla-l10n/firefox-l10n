@@ -71,11 +71,11 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } се мора поново покренути да би се омогућила ова функционалност.
 feature-disable-requires-restart = { -brand-short-name } се мора поново покренути да би се онемогућила ова функционалност.
 should-restart-title =
-    Рестартовање { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
+    { -brand-short-name.gender ->
+        [masculine] Поново покрени { -brand-short-name(case: "gen") }
+        [feminine] Поново покрени { -brand-short-name(case: "gen") }
+        [neuter] Поново покрени { -brand-short-name(case: "gen") }
+       *[other] Поново покрени програм { -brand-short-name }
     }
 should-restart-ok =
     { -brand-short-name.gender ->

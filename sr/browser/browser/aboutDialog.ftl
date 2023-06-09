@@ -63,7 +63,7 @@ aboutdialog-update-manual = Ажурирања су доступна на <a dat
 aboutdialog-update-manual-with-link = Ажурирања су доступна на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ажурирања су доступна на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Не можете да извршите ажурирања на овом систему. <label data-l10n-name="unsupported-link">Сазнајте више</label>
-update-restarting = Рестартовање…
+update-restarting = Поново покрећем…
 channel-description = Користите <label data-l10n-name="current-channel"></label> канал за ажурирања.
 update-internal-error = Интерна грешка спречава проверу ажурирања. Ажурирања су доступна на <label data-l10n-name="manual-link"/>
 update-internal-error2 = Интерна грешка спречава проверу ажурирања. Ажурирања су доступна на <label data-l10n-name="manual-link">{ $displayUrl }</label>
