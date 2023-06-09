@@ -5,7 +5,7 @@
 profiles-title = О профилима
 profiles-subtitle = Управљајте профилима на овој страници. Сваки профил је независан и садржи засебну историју, обележиваче, подешавања и додатке.
 profiles-create = Направи нови профил
-profiles-restart-title = Рестартовање
+profiles-restart-title = Поново покрени
 profiles-restart-in-safe-mode = Поново покрени са онемогућеним додацима…
 profiles-restart-normal = Поново покрени у обичном режиму…
 profiles-conflict = Друга копија { -brand-product-name } је направила измене у профилима. Морате поново покренути { -brand-short-name } пре прављења нових измена.
