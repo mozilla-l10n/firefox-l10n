@@ -36,6 +36,8 @@ inactive-css-not-inline-or-tablecell-fix = Zkuste přidat <strong>display:inline
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Zkuste přidat <strong>display:inline-block</strong> nebo <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Zkuste přidat <strong>display:inline-block</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Zkuste přidat <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-table-fix = Zkuste přidat <strong>display:table</strong> nebo <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Zkuste přidat <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> nebo <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
