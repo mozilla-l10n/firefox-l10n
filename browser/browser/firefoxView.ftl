@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Lapelas abertas
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Lapelas pechadas recentemente
+    .title = Lapelas pechadas recentemente
+firefoxview-recently-closed-header = Lapelas pechadas recentemente
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = As lapelas doutros dispositivos
+    .title = As lapelas doutros dispositivos
+firefoxview-synced-tabs-header = As lapelas doutros dispositivos
 
 ##
 
