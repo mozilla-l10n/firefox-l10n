@@ -81,6 +81,8 @@ firefoxview-collapse-button-show =
     .title = ສະແດງລາຍການ
 firefoxview-collapse-button-hide =
     .title = ເຊື່ອງລາຍຊື່
+firefoxview-overview-nav = ຜົນການຊອກຫາຫຼ້າສຸດ
+    .title = ຜົນການຊອກຫາຫຼ້າສຸດ
 
 ## History in this context refers to browser history
 
@@ -92,9 +94,13 @@ firefoxview-history-header = ປະຫວັດການໃຊ້ງານ
 
 firefoxview-opentabs-nav = ເປີດແທັບ
     .title = ເປີດແທັບ
+firefoxview-opentabs-header = ເປີດແທັບ
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = ແຖບທີ່ປິດບໍ່ດົນມານີ້
+    .title = ແຖບທີ່ປິດບໍ່ດົນມານີ້
+firefoxview-recently-closed-header = ແທັບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
