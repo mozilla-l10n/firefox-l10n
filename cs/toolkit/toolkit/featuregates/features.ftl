@@ -12,6 +12,7 @@ experimental-features-css-masonry-description = Zapne podporu experimentálního
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Toto nové API poskytuje nízkoúrovňový přístup k provádění výpočtů a vykreslování grafiky pomocí <a data-l10n-name="wikipedia">grafického procesoru (GPU)</a> uživatelského zařízení. Jeho <a data-l10n-name="spec">specifikace</a> je stále rozpracovaná. Podrobnosti najdete v <a data-l10n-name="bugzilla">bugu 1602129</a>.
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> poskytuje nízkoúrovňovou podporu pro provádění výpočtů a vykreslování grafiky pomocí  <a data-l10n-name="wikipedia-gpu">grafického procesoru (GPU)</a> na zařízení uživatele nebo počítači. První verze <a data-l10n-name="spec">specifikace</a> je téměř finální. Pro více informací se podívejte na <a data-l10n-name="bugzilla">bug 1616739</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
