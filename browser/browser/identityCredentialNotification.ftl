@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = Prihlásiť sa
     .accesskey = r
 identity-credential-policy-title = Ako poskytovateľa prihlásenia použiť { $provider }
-identity-credential-policy-description = Prihlásenie na stránku { $host } pomocou účtu { $provider } podlieha ich <label data-l10n-name="privacy-url">Zásadám ochrany osobných údajov</label> a <label data-l10n-name="tos- url">Podmienkam používania služby</label>.
+identity-credential-policy-description = Prihlásenie na stránku { $host } pomocou účtu { $provider } podlieha ich <label data-l10n-name="privacy-url">Zásadám ochrany osobných údajov</label> a <label data-l10n-name="tos-url">Podmienkam používania služby</label>.
