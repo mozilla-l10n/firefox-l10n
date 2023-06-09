@@ -680,6 +680,7 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Ldi tugna-deg-tugnz ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Mdel tugna-deg-tugnz ({ $shortcut })
+picture-in-picture-panel-header = Tugna-deg-tugna
 
 ## Full Screen and Pointer Lock UI
 

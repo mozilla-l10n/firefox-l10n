@@ -81,3 +81,24 @@ firefoxview-collapse-button-show =
     .title = Sken tabdart
 firefoxview-collapse-button-hide =
     .title = Ffer tabdart
+
+## History in this context refers to browser history
+
+firefoxview-history-header = Amazray
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-nav = Iccaren yeldin
+    .title = Iccaren yeldin
+firefoxview-opentabs-header = Iccaren yeldin
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Wali akk
