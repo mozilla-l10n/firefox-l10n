@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Nach oben
 unified-extensions-context-menu-move-widget-down =
     .label = Nach unten
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Einige Erweiterungen sind nicht erlaubt
+unified-extensions-mb-quarantined-domain-message = Nur einige von { -vendor-short-name } überwachte Erweiterungen sind auf dieser Website erlaubt, um Ihre Daten zu schützen.
