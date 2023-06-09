@@ -172,6 +172,14 @@ media-codec-support-info = Información de compatibilidade con códecs
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerar a base de datos
 
+## Codec support table
+
+media-codec-support-sw-decoding = Decodificación por software
+media-codec-support-hw-decoding = Decodificación por hardware
+media-codec-support-codec-name = Nome do códec
+media-codec-support-supported = Compatible
+media-codec-support-unsupported = Non compatible
+
 ##
 
 intl-title = Internacionalización e localización
