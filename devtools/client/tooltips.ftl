@@ -15,29 +15,27 @@ learn-more = <span data-l10n-name="link">Zjistit více</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid ani flex.
-
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid ani flex, ani není kontejnerem s více sloupci.
-
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není prvkem zobrazení grid ani flex.
-
 inactive-css-not-grid-item = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není prvkem zobrazení grid.
-
 inactive-css-not-grid-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid.
-
 inactive-css-not-flex-item = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože prvkem zobrazení flex.
-
 inactive-css-not-flex-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení flex.
-
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není prvkem typu inline ani table-cell.
-
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože má nastavenu vlastnost display s hodnotou <strong>{ $display }</strong>.
-
 inactive-css-not-display-block-on-floated = Hodnota vlastnosti <strong>display</strong> byla automaticky nastavena na <strong>block</strong>, protože je nastavena vlastnost <strong>float</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-container-fix = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-container-fix = Zkuste přidat <strong>display:flex</strong> nebo <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Zkuste přidat <strong>display:inline</strong> nebo <strong>display:table-cell</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Zkuste přidat <strong>display:inline-block</strong> nebo <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Zkuste přidat <strong>display:inline-block</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Zkuste přidat <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
