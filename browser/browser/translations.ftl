@@ -5,11 +5,24 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Přeložit tuto stránku
+translations-panel-settings-button =
+    .aria-label = Spravovat nastavení překladu
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Správa jazyků
+translations-panel-settings-about = O překladech ve { -brand-shorter-name(case: "loc") }
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = Vždy překládat z jazyka { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Vždy překládat z tohoto jazyka
 # Text displayed for the option to never translate a given language
@@ -29,6 +42,8 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Chcete tuto stránku přeložit?
 translations-panel-translate-button =
     .label = Přeložit
+translations-panel-translate-button-loading =
+    .label = Čekejte prosím…
 translations-panel-translate-cancel =
     .label = Zrušit
 translations-panel-error-translating = Při překladu došlo k chybě. Zkuste to prosím znovu.
@@ -39,6 +54,16 @@ translations-panel-error-load-languages-hint-button =
 translations-panel-error-unsupported = Překlad pro tuto stránku není k dispozici
 translations-panel-error-dismiss-button =
     .label = Rozumím
+translations-panel-error-change-button =
+    .label = Změnit zdrojový jazyk
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Omlouváme se, ale jazyk { $language } zatím není podporován.
+translations-panel-error-unsupported-hint-unknown = Omlouváme se, ale tento jazyk zatím není podporován.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -51,6 +76,14 @@ translations-panel-to-label = Překlad do
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Tato stránka je přeložena z jazyka { $fromLanguage } do jazyka { $toLanguage }.
 translations-panel-choose-language =
     .label = Zvolit jazyk
 translations-panel-restore-button =
@@ -62,6 +95,7 @@ translations-manage-header = Překlady
 translations-manage-settings-button =
     .label = Nastavení…
     .accesskey = t
+translations-manage-description = Stažení jazyků pro offline překlad.
 translations-manage-all-language = Všechny jazyky
 translations-manage-download-button = Stáhnout
 translations-manage-delete-button = Smazat
