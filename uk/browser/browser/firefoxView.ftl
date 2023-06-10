@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Відкриті вкладки
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Недавно закриті вкладки
+    .title = Недавно закриті вкладки
+firefoxview-recently-closed-header = Недавно закриті вкладки
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Вкладки з інших пристроїв
+    .title = Вкладки з інших пристроїв
+firefoxview-synced-tabs-header = Вкладки з інших пристроїв
 
 ##
 
