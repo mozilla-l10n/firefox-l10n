@@ -51,7 +51,7 @@ cert-error-code-prefix-link = Код памылкі: <a data-l10n-name="error-co
 # Variables:
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
-cert-error-ssl-connection-error = Здарылася памылка падчас злучэння з { $hostname }. { $errorMessage }
+cert-error-ssl-connection-error = Здарылася памылка ў часе злучэння з { $hostname }. { $errorMessage }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Вэб-сайты пацвярджаюць сваю ідэнтычнасць з дапамогай сертыфікатаў, выдадзеных сертыфікацыйнымі ўстановамі. Большасць браўзераў больш не давяраюць сертыфікатам, выдадзеным GeoTrust, RapidSSL, Symantec, Thawte і VeriSign. { $hostname } выкарыстоўвае сертыфікат ад адной з гэтых устаноў, таму ідэнтычнасць сайта не можа быць пацверджана.
@@ -76,12 +76,6 @@ deniedPortAccess-title = Гэты адрас абмежаваны
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Хм. Ніяк не выходзіць знайсці гэты сайт.
-# Variables:
-#   $hostname (string) - Hostname of the website to which the user was trying to connect.
-dns-not-found-trr-only-title = Магчымая рызыка бяспекі для { $hostname }.
-# Variables:
-#   $hostname (string) - Hostname of the website to which the user was trying to connect.
-dns-not-found-native-fallback-title = Магчымая рызыка бяспекі для { $hostname }.
 dns-not-found-trr-only-title2 = Магчымая рызыка бяспекі пры пошуку гэтага дамена
 dns-not-found-native-fallback-title2 = Магчымая рызыка бяспекі пры пошуку гэтага дамена
 fileNotFound-title = Файл не знойдзены
