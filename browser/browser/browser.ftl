@@ -679,6 +679,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Κλείσιμο λειτουργίας «Εικόνα εντός εικόνας» ({ $shortcut })
 picture-in-picture-panel-header = Εικόνα εντός εικόνας
 picture-in-picture-panel-headline = Αυτός ο ιστότοπος δεν συνιστά τη λειτουργία «Εικόνα εντός εικόνας»
+picture-in-picture-panel-body = Τα βίντεο ενδέχεται να μην προβάλλονται όπως θα ήθελε ο προγραμματιστής όταν είναι ενεργοποιημένη η λειτουργία «Εικόνα εντός εικόνας».
 picture-in-picture-enable-toggle =
     .label = Ενεργοποίηση ούτως ή άλλως
 
@@ -998,6 +999,11 @@ firefox-relay-offer-what-relay-does = Θα προωθήσουμε όλα τα em
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Οι ασφαλείς και εύχρηστες μάσκες μας, προστατεύουν την ταυτότητά σας και αποτρέπουν τα ανεπιθύμητα μηνύματα κρύβοντας τη διεύθυνση email σας.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Όλα τα email που αποστέλλονται στις μάσκες email σας θα προωθηθούν στη διεύθυνση <strong>{ $useremail }</strong> (εκτός εάν αποφασίσετε να τα αποκλείσετε).
+firefox-relay-offer-legal-notice = Κάνοντας κλικ στο «Χρήση μάσκας email», συμφωνείτε με τους <label data-l10n-name="tos-url">Όρους υπηρεσίας</label> και τη <label data-l10n-name="privacy-url">Σημείωση απορρήτου </label>.
 
 ## Add-on Pop-up Notifications
 
