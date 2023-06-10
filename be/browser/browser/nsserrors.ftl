@@ -11,7 +11,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Здарылася памылка падчас злучэння з { $hostname }. { $errorMessage }
+ssl-connection-error = Здарылася памылка ў часе злучэння з { $hostname }. { $errorMessage }
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код памылкі: { $error }
