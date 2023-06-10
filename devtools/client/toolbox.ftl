@@ -15,14 +15,11 @@ toolbox-meatball-menu-dock-bottom-label = Připnout dolů
 toolbox-meatball-menu-dock-left-label = Připnout vlevo
 toolbox-meatball-menu-dock-right-label = Připnout vpravo
 toolbox-meatball-menu-dock-separate-window-label = Samostatné okno
-
 toolbox-meatball-menu-splitconsole-label = Zobrazit rozdělení konzole
 toolbox-meatball-menu-hideconsole-label = Skrýt rozdělení konzole
-
 toolbox-meatball-menu-settings-label = Nastavení
 toolbox-meatball-menu-documentation-label = Dokumentace…
 toolbox-meatball-menu-community-label = Komunita…
-
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
@@ -30,5 +27,7 @@ toolbox-meatball-menu-noautohide-label = Zakázat automatické skrývání vyska
 
 ##
 
+
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-parent-process-label = Pouze nadřazený proces
