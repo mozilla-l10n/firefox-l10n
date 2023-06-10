@@ -98,6 +98,9 @@ firefoxview-opentabs-header = Ашық беттер
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Жақында жабылған беттер
+    .title = Жақында жабылған беттер
+firefoxview-recently-closed-header = Жақында жабылған беттер
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
