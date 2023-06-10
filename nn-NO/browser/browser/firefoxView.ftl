@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Opne faner
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nyleg attlatne faner
+    .title = Nyleg attlatne faner
+firefoxview-recently-closed-header = Nyleg attlatne faner
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Faner frå andre einingar
+    .title = Faner frå andre einingar
+firefoxview-synced-tabs-header = Faner frå andre einingar
 
 ##
 
