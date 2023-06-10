@@ -48,10 +48,22 @@ translations-panel-translate-cancel =
     .label = Скасаваць
 translations-panel-error-translating = Узнікла праблема з перакладам. Калі ласка, паспрабуйце яшчэ раз.
 translations-panel-error-load-languages = Не ўдалося загрузіць мовы
+translations-panel-error-load-languages-hint = Праверце злучэнне з Інтэрнэтам і паўтарыце спробу.
 translations-panel-error-load-languages-hint-button =
     .label = Паспрабаваць зноў
+translations-panel-error-unsupported = Для гэтай старонкі пераклад недаступны
 translations-panel-error-dismiss-button =
     .label = Зразумела
+translations-panel-error-change-button =
+    .label = Змяніць зыходную мову
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = На жаль, мы пакуль не падтрымліваем { $language }.
+translations-panel-error-unsupported-hint-unknown = На жаль, мы пакуль не падтрымліваем гэтую мову.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -87,6 +99,15 @@ translations-manage-description = Сцягнуць мовы для перакл�
 translations-manage-all-language = Усе мовы
 translations-manage-download-button = Сцягнуць
 translations-manage-delete-button = Выдаліць
+translations-manage-language-download-button =
+    .label = Сцягнуць
+    .accesskey = С
+translations-manage-language-delete-button =
+    .label = Выдаліць
+    .accesskey = В
+translations-manage-error-download = Пры сцягванні моўных файлаў узнікла праблема. Калі ласка, паспрабуйце яшчэ раз.
+translations-manage-error-delete = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
+translations-manage-error-list = Не ўдалося атрымаць спіс даступных моў для перакладу. Абнавіце старонку, каб паўтарыць спробу.
 translations-settings-title =
     .title = Налады перакладу
     .style = min-width: 36em
