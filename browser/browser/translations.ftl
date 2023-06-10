@@ -22,6 +22,7 @@ translations-panel-settings-about = Σχετικά με τις μεταφράσ�
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = Μετάφραση σελίδας;
 translations-panel-translate-button =
     .label = Μετάφραση
 translations-panel-translate-button-loading =
@@ -30,8 +31,10 @@ translations-panel-translate-cancel =
     .label = Ακύρωση
 translations-panel-error-load-languages-hint-button =
     .label = Δοκιμή ξανά
+translations-panel-error-unsupported = Δεν διατίθεται μετάφραση για αυτήν τη σελίδα
 translations-panel-error-change-button =
     .label = Αλλαγή αρχικής γλώσσας
+translations-panel-error-unsupported-hint-unknown = Δυστυχώς, δεν υποστηρίζουμε ακόμα αυτήν τη γλώσσα.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -47,6 +50,10 @@ translations-panel-to-label = Μετάφραση σε
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Μεταφράσεις
+translations-manage-settings-button =
+    .label = Ρυθμίσεις…
+    .accesskey = θ
 translations-manage-all-language = Όλες οι γλώσσες
 translations-manage-download-button = Λήψη
 translations-manage-delete-button = Διαγραφή
