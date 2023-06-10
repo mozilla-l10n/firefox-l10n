@@ -931,6 +931,15 @@ unified-extensions-button-permissions-needed =
         Estensioni
         Permessi richiesti
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-quarantined =
+    .label = Estensioni
+    .tooltiptext =
+        Estensioni
+        Alcune estensioni non sono consentite
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha impedito a questa pagina di ricaricarsi automaticamente.
