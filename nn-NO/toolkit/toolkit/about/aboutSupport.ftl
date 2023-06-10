@@ -172,6 +172,10 @@ media-codec-support-info = Kodekstøtteinformasjon
 # List all the entries of the database.
 media-capabilities-enumerate = Telje opp databasen
 
+## Codec support table
+
+media-codec-support-codec-name = Kodeknamn
+
 ##
 
 intl-title = Internasjonalisering og lokalisering
