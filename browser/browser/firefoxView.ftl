@@ -104,6 +104,9 @@ firefoxview-recently-closed-header = Жақында жабылған бетте�
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Басқа құрылғылардан беттер
+    .title = Басқа құрылғылардан беттер
+firefoxview-synced-tabs-header = Басқа құрылғылардан беттер
 
 ##
 
