@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge старой версіі
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Паролі з файла CSV
+migration-wizard-migrator-display-name-file-bookmarks = Закладкі з файла HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -102,7 +103,9 @@ migration-wizard-progress-success-updated-passwords =
        *[many] { $updatedEntries } абноўлена
     }
 migration-bookmarks-from-file-picker-title = Імпарт файла закладак
+migration-bookmarks-from-file-progress-header = Імпарт закладак
 migration-bookmarks-from-file = Закладкі
+migration-bookmarks-from-file-success-header = Закладкі паспяхова імпартаваны
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

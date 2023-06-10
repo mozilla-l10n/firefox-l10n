@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Рухаць угору
 unified-extensions-context-menu-move-widget-down =
     .label = Рухаць уніз
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Некаторыя пашырэнні не дазволены
+unified-extensions-mb-quarantined-domain-message = Для аховы вашых звестак на гэтым сайце дазволены толькі некаторыя пашырэнні, якія кантралююцца { -vendor-short-name }.
