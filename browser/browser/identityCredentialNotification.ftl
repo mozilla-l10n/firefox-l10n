@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = Identificarse
     .accesskey = s
 identity-credential-policy-title = Usar { $provider } como provedor de inicio de sesión
-identity-credential-policy-description = Iniciar sesión en { $host } cunha conta de { $provider } está suxeito á súa <label data-l10n-name="privacy-url">política de privacidade</label> e ás súas <label data-l10n-name="tos- url">condicións de servizo</label>.
+identity-credential-policy-description = Iniciar sesión en { $host } cunha conta de { $provider } está suxeito á súa <label data-l10n-name="privacy-url">política de privacidade</label> e ás súas <label data-l10n-name="tos-url">condicións de servizo</label>.
