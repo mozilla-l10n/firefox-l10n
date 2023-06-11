@@ -81,6 +81,8 @@ firefoxview-collapse-button-show =
     .title = Прикажи листу
 firefoxview-collapse-button-hide =
     .title = Сакриј листу
+firefoxview-overview-nav = Недавно прегледање
+    .title = Недавно прегледање
 
 ## History in this context refers to browser history
 
@@ -96,9 +98,15 @@ firefoxview-opentabs-header = Отворене картице
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Недавно затворене картице
+    .title = Недавно затворене картице
+firefoxview-recently-closed-header = Недавно затворени језичци
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Картице са других уређаја
+    .title = Картице са других уређаја
+firefoxview-synced-tabs-header = Картице са других уређаја
 
 ##
 

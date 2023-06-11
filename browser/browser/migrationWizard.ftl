@@ -108,6 +108,17 @@ migration-bookmarks-from-file-html-filter-title =
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON датотека
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } обележивач
+        [few] { $newEntries } обележивача
+       *[other] { $newEntries } обележивача
+    }
 migration-import-button-label = Увези
 migration-choose-to-import-from-file-button-label = Увези из датотеке
 migration-import-from-file-button-label = Изабери датотеку
