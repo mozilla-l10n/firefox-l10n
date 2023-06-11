@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Варақаҳои кушодашуда
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Варақаҳои ба наздикӣ пӯшидашуда
+    .title = Варақаҳои ба наздикӣ пӯшидашуда
+firefoxview-recently-closed-header = Варақаҳои ба наздикӣ пӯшидашуда
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Варақаҳо аз дастгоҳҳои дигар
+    .title = Варақаҳо аз дастгоҳҳои дигар
+firefoxview-synced-tabs-header = Варақаҳо аз дастгоҳҳои дигар
 
 ##
 
