@@ -176,6 +176,11 @@ media-codec-support-info = Маълумоти дастгирии кодек
 # List all the entries of the database.
 media-capabilities-enumerate = Ҳисоббарории пойгоҳи иттилоотӣ
 
+## Codec support table
+
+media-codec-support-supported = Дастгирӣ мешавад
+media-codec-support-unsupported = Дастгирӣ намешавад
+
 ##
 
 intl-title = Байналмилалисозӣ ва маҳаллисозӣ
