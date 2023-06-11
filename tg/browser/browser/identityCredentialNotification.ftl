@@ -12,6 +12,10 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
+identity-credential-header-providers = Ворид шудан тавассути таъминкунандани воридшавӣ
+identity-credential-header-accounts = Ворид шудан тавассути { $provider }
+identity-credential-urlbar-anchor =
+    .tooltiptext = Кушодани лавҳаи воридшавӣ
 identity-credential-cancel-button =
     .label = Бекор кардан
     .accesskey = Б
@@ -21,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = Ворид шудан
     .accesskey = В
+identity-credential-policy-title = Истифодаи { $provider } ҳамчун таъминкунандаи воридшавӣ
