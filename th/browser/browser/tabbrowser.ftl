@@ -120,3 +120,12 @@ tabbrowser-tab-audio-playing-description = กำลังเล่นเสี�
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = แสดงรายการ { $tabCount } แท็บทั้งหมด
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = ปิดเสียงแท็บ
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = เปิดเสียงแท็บ
+tabbrowser-manager-close-tab =
+    .tooltiptext = ปิดแท็บ
