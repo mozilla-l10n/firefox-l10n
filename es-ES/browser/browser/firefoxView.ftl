@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Pestañas abiertas
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Pestañas cerradas recientemente
+    .title = Pestañas cerradas recientemente
+firefoxview-recently-closed-header = Pestañas cerradas recientemente
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Pestañas de otros dispositivos
+    .title = Pestañas de otros dispositivos
+firefoxview-synced-tabs-header = Pestañas de otros dispositivos
 
 ##
 
