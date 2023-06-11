@@ -76,9 +76,9 @@ set-password-reminder = მნიშვნელოვანია: თუ ს�
 ## Protected Auth dialog
 
 protected-auth-window =
-    .title = უსაფრთხო შესვლა ანგარიშზე სიტყვა-ნიშნის საშუალებით
-protected-auth-msg = გთხოვთ, დაამოწმოთ ვინაობა სიტყვა-ნიშნის საშუალებით. დამოწმების მეთოდი დამოკიდებულია, სიტყვა-ნიშნის სახესხვაობაზე.
-protected-auth-token = სიტყვა-ნიშანი:
+    .title = დაცული საცნობით შესვლა
+protected-auth-msg = გთხოვთ, დაამოწმოთ ვინაობა საცნობის საშუალებით. დამოწმების ხერხი დამოკიდებულია საცნობის სახეობაზე.
+protected-auth-token = საცნობი:
 
 ## Protected authentication alert
 
