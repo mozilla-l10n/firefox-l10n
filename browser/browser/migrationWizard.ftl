@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = รหัสผ่านจากไฟล์ CSV
+migration-wizard-migrator-display-name-file-bookmarks = ที่คั่นหน้าจากไฟล์ HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -99,7 +100,10 @@ migration-wizard-progress-success-updated-passwords =
         [one] ปรับปรุงแล้ว { $updatedEntries }
        *[other] ปรับปรุงแล้ว { $updatedEntries }
     }
+migration-bookmarks-from-file-picker-title = นำเข้าไฟล์ที่คั่นหน้า
+migration-bookmarks-from-file-progress-header = นำเข้าที่คั่นหน้า
 migration-bookmarks-from-file = ที่คั่นหน้า
+migration-bookmarks-from-file-success-header = นำเข้าที่คั่นหน้าสำเร็จแล้ว
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = ไฟล์ JSON

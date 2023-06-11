@@ -90,6 +90,7 @@ firefoxview-history-header = ประวัติ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-header = แท็บที่เปิด
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
