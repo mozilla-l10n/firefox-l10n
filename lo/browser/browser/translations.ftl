@@ -29,8 +29,11 @@ translations-panel-settings-never-translate-language =
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = ແປຫນ້ານີ້?
 translations-panel-translate-button =
     .label = ແປ
+translations-panel-translate-button-loading =
+    .label = ກະລູນາລໍຖ້າ…
 translations-panel-translate-cancel =
     .label = ຍົກເລີກ
 translations-panel-error-translating = ມີບັນຫາໃນການແປ. ກະລຸນາລອງອີກຄັ້ງ.
@@ -86,6 +89,12 @@ translations-manage-description = ດາວໂຫຼດພາສາສຳລັ�
 translations-manage-all-language = ພາສາທັງໝົດ
 translations-manage-download-button = ດາວໂຫລດ
 translations-manage-delete-button = ລຶບ
+translations-manage-language-download-button =
+    .label = ດາວໂຫລດ
+    .accesskey = D
+translations-manage-language-delete-button =
+    .label = ລຶບ
+    .accesskey = e
 translations-manage-error-download = ມີບັນຫາໃນການດາວໂຫຼດໄຟລ໌ພາສາ. ກະລຸນາລອງອີກຄັ້ງ.
 translations-manage-error-delete = ມີຄວາມຜິດພາດໃນການລຶບໄຟລ໌ພາສາ. ກະລຸນາລອງອີກຄັ້ງ.
 translations-manage-error-list = ລົ້ມເຫລວໃນການຮັບເອົາລາຍຊື່ພາສາທີ່ມີຢູ່ສໍາລັບການແປ. ໂຫຼດໜ້ານີ້ຄືນໃໝ່ເພື່ອລອງອີກຄັ້ງ.
