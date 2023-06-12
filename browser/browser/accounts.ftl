@@ -17,7 +17,7 @@ account-manage-devices = උපාංග කළමනාකරණය...
 ##   $email (String): = Email address of user's Firefox Account.
 
 account-reconnect = { $email } යළි සබඳින්න
-account-verify = { $email } තහවුරු කරන්න
+account-verify = { $email } සත්‍යාපනය කරන්න
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
@@ -37,8 +37,8 @@ account-send-tab-to-device-connectdevice = අන් උපාංගයක් �
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
-account-send-tab-to-device-verify-status = ගිණුම තහවුරු කර නැත
-account-send-tab-to-device-verify = ගිණුම තහවුරු කරන්න…
+account-send-tab-to-device-verify-status = ගිණුම සත්‍යාපනය කර නැත
+account-send-tab-to-device-verify = ගිණුම සත්‍යාපනය කරන්න…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

@@ -60,7 +60,14 @@ addon-removal-title = { $name } ඉවතලන්නද?
 addon-removal-message = { -brand-shorter-name } වෙතින් { $name } ඉවත් කරන්නද?
 addon-removal-button = ඉවත් කරන්න
 addon-removal-abuse-report-checkbox = මෙම එක්කහුව { -vendor-short-name } වෙත වාර්තා කරන්න
-addon-download-verifying = තහවුරු කරමින්
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [1] එක්කහුවක් බාගැනෙමින් හා සත්‍යාපනය වෙමින්…
+       *[other] එක්කහු { $addonCount } ක් බාගැනෙමින් හා සත්‍යාපනය වෙමින්…
+    }
+addon-download-verifying = සත්‍යාපනය වෙමින්
 addon-install-cancel-button =
     .label = අවලංගු
     .accesskey = C
@@ -79,13 +86,13 @@ addon-install-accept-button =
 addon-install-error-network-failure = සම්බන්ධතාවයට බාධා වීමක් නිසා එක්කහුව බාගැනීමට නොහැකි විය.
 addon-install-error-corrupt-file = මෙම අඩවියෙන් බාගත කළ එක්කහුවට හානි වී තිබෙන නිසා ස්ථාපනය නොකෙරේ.
 addon-install-error-file-access = { -brand-short-name } සඳහා අවශ්‍ය ගොනුව වෙනස් කළ නොහැකි නිසා { $addonName } ස්ථාපනය කළ නොහැකිය.
-addon-install-error-not-signed = { -brand-short-name } විසින් මෙම අඩවිය තහවුරු නොකළ එක්කහු ස්ථාපනය වීමෙන් වලක්වා ඇත.
+addon-install-error-not-signed = { -brand-short-name } විසින් මෙම අඩවිය සත්‍යාපනය නොකළ එක්කහු ස්ථාපනයෙන් වලක්වා ඇත.
 addon-install-error-invalid-domain = { $addonName } එක්කහුව මෙම ස්ථානයෙන් ස්ථාපනය කළ නොහැකිය.
 addon-local-install-error-network-failure = ගොනු පද්ධතියේ දෝෂයක් නිසා මෙම එක්කහුව ස්ථාපනය කළ නොහැකිය.
 addon-local-install-error-incorrect-hash = { -brand-short-name } එක්කහුව සමඟ නොගැළපෙන නිසා මෙම එක්කහුව ස්ථාපනය කළ නොහැකිය.
 addon-local-install-error-corrupt-file = හානි වූ බව පෙනෙන නිසා මෙම එක්කහුව ස්ථාපනය කළ නොහැකිය.
 addon-local-install-error-file-access = { -brand-short-name } සඳහා අවශ්‍ය ගොනුව වෙනස් කළ නොහැකි නිසා { $addonName } ස්ථාපනය කළ නොහැකිය.
-addon-local-install-error-not-signed = තහවුරු නොකළ එක්කහුවක් බැවින් ස්ථාපනය කිරීමට නොහැකිය.
+addon-local-install-error-not-signed = සත්‍යාපනය නොකළ එක්කහුවක් බැවින් ස්ථාපනය කිරීමට නොහැකිය.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { -brand-short-name } { $appVersion } සමඟ නොගැළපෙන නිසා { $addonName } ස්ථාපනය කිරීමට නොහැකිය.

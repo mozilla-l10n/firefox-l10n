@@ -378,7 +378,7 @@ identity-connection-internal = මෙය ආරක්‍ෂිත { -brand-short
 identity-connection-file = මෙම පිටුව පරිගණකයේ ගබඩා කර ඇත.
 identity-extension-page = මෙම පිටුව දිගුවක් මගින් පූරණය වේ.
 identity-active-blocked = { -brand-short-name } මෙම පිටුවේ ආරක්‍ෂිත නොවන කොටස් අවහිර කර ඇත.
-identity-custom-root = සම්බන්ධතාවය තහවුරු කළ සහතික නිකුත් කරන්නා මොසිල්ලා විසින් හඳුනා ගෙන නැත.
+identity-custom-root = සම්බන්ධතාවය සත්‍යාපනය කළ සහතික නිකුත් කරන්නා මොසිල්ලා විසින් හඳුනා ගෙන නැත.
 identity-passive-loaded = මෙම පිටුවේ කොටස් ආරක්‍ෂිත නොවේ (රූප වැනි).
 identity-active-loaded = ඔබ මෙම පිටුව සඳහා රැකවරණය අබල කර ඇත.
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
@@ -962,7 +962,7 @@ refresh-blocked-allow =
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
-    .value = (තහවුරු නොකළ)
+    .value = (සත්‍යාපනය නොකළ)
 popup-notification-xpinstall-prompt-learn-more = එක්කහු ආරක්‍ෂිතව ස්ථාපනය ගැන තව දැනගන්න
 
 ## Pop-up warning
