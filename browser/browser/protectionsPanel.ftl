@@ -90,7 +90,7 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 protections-panel-content-blocking-breakage-report-view-description = ਕੁਝ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਕਰਕੇ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ। ਇਹ ਸਮੱਸਿਆਵਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਨਾਲ ਹਰ ਕਿਸੇ ਲਈ { -brand-short-name } ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਰਿਪੋਰਟ URL ਦੇ ਨਾਲ ਨਾਲ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਬਾਰੇ ਕੁਝ ਜਾਣਕਾਰੀ ਮੋਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦੀ ਹੈ। <label data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</label>
-protections-panel-content-blocking-breakage-report-view-description2 = ਕੁਝ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਕਰਕੇ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ। ਇਹ ਸਮੱਸਿਆਵਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਨਾਲ ਹਰ ਕਿਸੇ ਲਈ { -brand-short-name } ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਰਿਪੋਰਟ URL ਦੇ ਨਾਲ ਨਾਲ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਬਾਰੇ ਕੁਝ ਜਾਣਕਾਰੀ ਮੋਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦੀ ਹੈ।
+protections-panel-content-blocking-breakage-report-view-description2 = ਕੁਝ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਕਰਕੇ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ। ਇਹ ਸਮੱਸਿਆਵਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਨਾਲ ਹਰ ਕਿਸੇ ਲਈ { -brand-short-name } ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਰਿਪੋਰਟ URL ਦੇ ਨਾਲ ਨਾਲ ਤੁਹਾਡੀਆਂ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗਾਂ ਬਾਰੇ ਕੁਝ ਜਾਣਕਾਰੀ { -vendor-short-name } ਨੂੰ ਭੇਜਦੀ ਹੈ।
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
