@@ -692,13 +692,13 @@ sync-manage-account = ගිණුම කළමනාකරණය
 ## Variables
 ## $email (string) - Email used for Firefox account
 
-sync-signedin-unverified = { $email } තහවුරු කර නැත
+sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
 
 ##
 
 sync-resend-verification =
-    .label = තහවුරු කිරීම නැවත එවන්න
+    .label = සත්‍යාපනය නැවත එවන්න
     .accesskey = d
 sync-remove-account =
     .label = ගිණුම ඉවත් කරන්න
@@ -799,12 +799,12 @@ sync-connect-another-device = අන් උපාංගයක් සබඳින
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
-sync-verification-sent-title = තහවුරු කිරීම යැවිණි
+sync-verification-sent-title = සත්‍යාපනය යැවිණි
 # Variables:
 #   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = තහවුරු කිරීමේ සබැඳිය { $email } වෙත යවා ඇත.
-sync-verification-not-sent-title = තහවුරු කිරීම යැවීමට නොහැකි විය
-sync-verification-not-sent-body = තහවුරු කිරීමේ වි-තැපෑල මේ මොහොතේ යැවීමට නොහැකිය, පසුව උත්සාහ කරන්න.
+sync-verification-sent-body = සත්‍යාපන සබැඳිය { $email } වෙත යවා ඇත.
+sync-verification-not-sent-title = සත්‍යාපනය යැවීමට නොහැකි විය
+sync-verification-not-sent-body = සත්‍යාපන වි-තැපෑල මේ මොහොතේ යැවීමට නොහැකිය, පසුව උත්සාහ කරන්න.
 
 ## Privacy Section
 
