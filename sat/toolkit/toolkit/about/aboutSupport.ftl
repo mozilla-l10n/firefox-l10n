@@ -172,6 +172,14 @@ media-codec-support-info = ᱠᱳᱰᱮᱠ ᱜᱚᱲᱚ ᱵᱤᱵᱨᱚᱬ
 # List all the entries of the database.
 media-capabilities-enumerate = ᱮᱱᱭᱩᱢᱮᱨᱮᱴ ᱰᱟᱴᱟᱵᱮᱥ
 
+## Codec support table
+
+media-codec-support-sw-decoding = ᱥᱚᱯᱷᱴᱣᱮᱨ ᱰᱤᱠᱳᱰᱤᱝ
+media-codec-support-hw-decoding = ᱦᱟᱰᱣᱮᱨ ᱰᱤᱠᱳᱰᱤᱝ
+media-codec-support-codec-name = ᱠᱚᱰᱮᱠ ᱧᱩᱛᱩᱢ
+media-codec-support-supported = ᱜᱚᱲᱚᱣᱟᱜ
+media-codec-support-unsupported = ᱵᱟᱝ ᱜᱚᱲᱚᱣᱟᱜ
+
 ##
 
 intl-title = ᱡᱮᱜᱮᱛᱟᱹᱨᱤ ᱟᱨ ᱛᱚᱨᱡᱚᱢᱟ
