@@ -178,6 +178,8 @@ media-capabilities-enumerate = Ҳисоббарории пойгоҳи итти�
 
 ## Codec support table
 
+media-codec-support-sw-decoding = Рамзкушоии нармафзорӣ
+media-codec-support-hw-decoding = Рамзкушоии сахтафзорӣ
 media-codec-support-codec-name = Номи кодек
 media-codec-support-supported = Дастгирӣ мешавад
 media-codec-support-unsupported = Дастгирӣ намешавад
