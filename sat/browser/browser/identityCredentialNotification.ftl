@@ -25,3 +25,5 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
     .accesskey = S
+identity-credential-policy-title = ᱢᱤᱫᱴᱟᱹᱝ ᱞᱚᱜᱤᱱ ᱯᱨᱚᱵᱷᱟᱭᱰᱮᱨ ᱞᱮᱠᱷᱟ { $provider } ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+identity-credential-policy-description = { $host } ᱨᱮ ᱢᱤᱫ { $provider } ᱠᱷᱟᱛᱟ ᱛᱮ ᱞᱚᱜᱤᱱ ᱠᱟᱛᱮ ᱱᱩᱠᱩᱣᱟᱜ <label data-l10n-name="privacy-url">ᱱᱤᱥᱚᱱ ᱱᱤᱛᱤ</label> ᱟᱨ <label data-l10n-name="tos-url">ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱚᱨᱛᱚ</label> ᱛᱮ ᱪᱟᱞᱟᱜᱼᱟ ᱾
