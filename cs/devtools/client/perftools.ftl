@@ -46,6 +46,8 @@ perftools-devtools-settings-label = Nastavení
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = Nahrávání bylo zastaveno jiným nástrojem.
+perftools-status-restart-required = Pro povolení této funkce je potřeba prohlížeč restartovat.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -62,10 +64,16 @@ perftools-button-edit-settings = Upravit nastavení…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-render-backend =
+    .title = Vlákno WebRender RenderBackend
 perftools-thread-img-decoder =
     .title = Vlákna pro dekódování obrázků
 perftools-thread-dns-resolver =
     .title = V tomto vklákně probíhá překlad DNS
+perftools-thread-jvm-gecko =
+    .title = Hlavní vlákno Gecko JVM
+perftools-thread-jvm-glean =
+    .title = Hlavní vlákna pro Glean telemetry SDK
 
 ##
 
@@ -74,6 +82,8 @@ perftools-thread-dns-resolver =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novinka</b>: { -profiler-brand-name } je teď integrovaný do nástrojů pro webové vývojáře. <a>Zjistěte více</a> o tomto novém výkonném nástroji.
+perftools-onboarding-close-button =
+    .aria-label = Zavřít informační zprávu
 
 ## Profiler presets
 
