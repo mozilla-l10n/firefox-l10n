@@ -25,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
     .accesskey = S
+identity-credential-policy-title = ᱢᱤᱫᱴᱟᱹᱝ ᱞᱚᱜᱤᱱ ᱯᱨᱚᱵᱷᱟᱭᱰᱮᱨ ᱞᱮᱠᱷᱟ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
