@@ -26,3 +26,4 @@ identity-credential-sign-in-button =
     .label = Ворид шудан
     .accesskey = В
 identity-credential-policy-title = Истифодаи { $provider } ҳамчун таъминкунандаи воридшавӣ
+identity-credential-policy-description = Вақте ки шумо ба сомонаи { $host } бо ҳисоби «{ $provider }» ворид мешавед, талаботи <label data-l10n-name="privacy-url">Сиёсати махфият</label> ва <label data-l10n-name="tos-url">Шартҳои хизматрасонии</label> он сомона татбиқ карда мешаванд.
