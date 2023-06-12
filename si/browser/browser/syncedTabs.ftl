@@ -5,7 +5,7 @@
 synced-tabs-sidebar-title = සමමුහූර්ත පටිති
 synced-tabs-sidebar-noclients-subtitle = ඔබගේ පටිති වෙනත් උපාංගයකින් බැලීමට අවශ්‍යද?
 synced-tabs-sidebar-intro = ඔබගේ අනෙකුත් උපාංගවල පටිති ලේඛනය බලන්න.
-synced-tabs-sidebar-unverified = ඔබගේ ගිණුම තහවුරු කළ යුතුයි.
+synced-tabs-sidebar-unverified = ඔබගේ ගිණුම සත්‍යාපනය කළ යුතුයි.
 synced-tabs-sidebar-notabs = විවෘත පටිති නැත.
 synced-tabs-sidebar-open-settings = සමමුහූර්ත සැකසුම් අරින්න
 synced-tabs-sidebar-tabsnotsyncing = වෙනත් උපාංගයකින් පටිති බැලීමට පටිති සමමුහූර්තය සබල කරන්න.
