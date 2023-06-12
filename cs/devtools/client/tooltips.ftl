@@ -24,6 +24,7 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> nemá na tento 
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není prvkem typu inline ani table-cell.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože má nastavenu vlastnost display s hodnotou <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Hodnota vlastnosti <strong>display</strong> byla automaticky nastavena na <strong>block</strong>, protože je nastavena vlastnost <strong>float</strong>.
+inactive-css-position-property-on-unpositioned-box = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože nejde o prvek s definovanou pozicí.
 inactive-text-overflow-when-no-overflow = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože není nastavené <strong>overflow:hidden</strong>.
 inactive-css-not-for-internal-table-elements = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na interní prvky tabulky.
 inactive-css-not-for-internal-table-elements-except-table-cells = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na interní prvky tabulky kromě jejích buněk.
