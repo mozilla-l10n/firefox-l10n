@@ -56,3 +56,6 @@ inactive-scroll-padding-when-not-scroll-container-fix = Zkuste přidat <strong>o
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-deprecated-supported-message = Vlastnost <strong>{ $property }</strong> je dle standardů W3C zastaralá.
+css-compatibility-experimental-message = Vlastnost <strong>{ $property }</strong> je experimentální. Není podporována v následujících prohlížečích:
+css-compatibility-experimental-supported-message = Vlastnost <strong>{ $property }</strong> je experimentální.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Zjistit více</span> o vlastnosti <strong>{ $rootProperty }</strong>
