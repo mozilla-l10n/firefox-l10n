@@ -55,3 +55,4 @@ inactive-scroll-padding-when-not-scroll-container-fix = Zkuste přidat <strong>o
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-deprecated-supported-message = Vlastnost <strong>{ $property }</strong> je dle standardů W3C zastaralá.
