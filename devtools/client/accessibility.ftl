@@ -69,3 +69,4 @@ accessibility-keyboard-issue-action = Dovrebbe essere possibile attivare gli ele
 accessibility-keyboard-issue-focusable = Gli elementi interattivi devono poter essere attivati (“focusable”). <a>Ulteriori informazioni</a>
 accessibility-keyboard-issue-focus-visible = Gli elementi che possono essere attivati (“focusable”) potrebbero non avere uno stile associato per il focus. <a>Ulteriori informazioni</a>
 accessibility-keyboard-issue-mouse-only = Gli elementi selezionabili (“clickable”) devono poter essere attivati (“focusable”) e avere una semantica interattiva. <a>Ulteriori informazioni</a>
+
