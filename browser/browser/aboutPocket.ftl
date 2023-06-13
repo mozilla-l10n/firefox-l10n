@@ -22,6 +22,7 @@ pocket-panel-saved-page-saved = { -pocket-brand-name } වෙත සුරැක
 pocket-panel-saved-page-saved-b = { -pocket-brand-name } වෙත සුරැකිණි!
 pocket-panel-saved-processing-remove = පිටුව ඉවත් කරමින්…
 pocket-panel-saved-removed = මාගේ ලේඛනයෙන් පිටුව ඉවතලිණි
+pocket-panel-saved-removed-updated = සුරැකුම් වෙතින් පිටුව ඉවත් කෙරිණි
 pocket-panel-saved-processing-tags = අනන්‍යන එක් කරමින්…
 pocket-panel-saved-remove-page = පිටුව ඉවත් කරන්න
 pocket-panel-saved-save-tags = සුරකින්න
