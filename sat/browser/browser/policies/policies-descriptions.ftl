@@ -79,12 +79,19 @@ policy-HardwareAcceleration = ᱡᱩᱫᱤ ᱠᱷᱟᱹᱞᱤ ᱛᱟᱦᱮᱸᱱ
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱢᱚᱱᱮ ᱛᱮ ᱚᱲᱟᱜᱥᱟᱦᱴᱟ ᱠᱩᱞᱩᱯ ᱢᱮ ᱾
 policy-InstallAddonsPermission = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱮᱰ-ᱚᱱᱠᱚ ᱵᱚᱦᱟᱞ ᱪᱷᱚᱣᱟ ᱠᱚᱢ ᱾
+policy-LegacyProfiles = ᱢᱤᱫᱴᱟᱹᱝ ᱯᱷᱤᱪᱚᱨ ᱡᱟᱦᱟᱸ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱢᱚᱦᱚᱨ ᱡᱷᱚᱛᱚ ᱵᱚᱦᱟᱞ ᱡᱷᱚᱜ ᱡᱩᱨᱛᱮᱭᱟᱨᱟᱭ ᱵᱚᱸᱫ ᱠᱟᱜ ᱢᱮ ᱾
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = ᱢᱩᱞ ᱛᱮᱜᱮᱥᱤ SameSite ᱠᱩᱠᱤ ᱵᱚᱨᱛᱟᱵ ᱥᱟᱡᱟᱣ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱱᱤᱨᱫᱷᱟᱨᱤᱛ ᱥᱟᱭᱤᱴ ᱨᱮ ᱠᱩᱠᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱞᱮᱜᱮᱥᱤ SameSite ᱵᱚᱨᱛᱟᱵ ᱨᱩᱣᱟᱹᱲ ᱟᱹᱜᱩᱭᱢᱮ ᱾
 
 ##
 
+policy-LocalFileLinks = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱱᱤᱨᱫᱷᱟᱨᱤᱛ ᱥᱟᱭᱤᱴ ᱨᱮ ᱞᱚᱠᱚᱞ ᱨᱮᱫᱽᱠᱚᱨᱮ ᱞᱤᱝᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
+policy-ManagedBookmarks = ᱢᱤᱫᱴᱟᱹᱝ ᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱢᱮᱱᱮᱡᱽ ᱠᱟᱫ ᱵᱩᱠᱢᱟᱨᱠ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ ᱥᱮᱴ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱵᱟᱭ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+policy-ManualAppUpdateOnly = ᱠᱷᱟᱹᱞᱤ ᱛᱤᱛᱮᱭᱟᱜ ᱞᱮᱠᱷᱟ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱟᱨ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱫᱚ ᱟᱞᱚᱢ ᱤᱛᱞᱟᱹ ᱟᱭᱟ ᱾
+policy-PrimaryPassword = ᱢᱤᱫᱴᱟᱹᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ ᱫᱚᱨᱠᱟᱨ ᱥᱮ ᱢᱟᱱᱟ ᱾
 policy-NewTabPage = ᱱᱟᱣᱟ ᱴᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱮᱢ ᱢᱮ ᱟᱨᱵᱟᱝ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
 policy-ShowHomeButton = ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱟᱨ ᱨᱮ ᱚᱲᱟᱜ ᱵᱩᱛᱟᱹᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾
 policy-SSLVersionMax = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱰᱷᱮᱨ SSL ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱮᱴ ᱢᱮ ᱾
