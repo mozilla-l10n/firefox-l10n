@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = ᱱᱤᱛᱤ ᱠᱚ ᱥᱮᱴ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ chrome.storage.managed ᱛᱮ WebExtensions ᱟᱫᱮᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 policy-AppUpdateURL = ᱠᱚᱥᱴᱚᱢ ᱮᱯ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ URL ᱥᱮᱴ ᱢᱮ ᱾
 policy-CaptivePortal = ᱠᱮᱯᱴᱤᱵᱷ ᱯᱚᱨᱴᱟᱞ ᱜᱚᱲᱚ ᱫᱚ ᱮᱢ ᱟᱨ ᱵᱟᱝ ᱵᱚᱸᱫ ᱪᱷᱚᱭ ᱢᱮ ᱾
 policy-CertificatesDescription = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱮᱞᱮᱫ ᱢᱮ ᱟᱨ ᱵᱟᱝ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
@@ -32,8 +33,6 @@ policy-FirefoxHome2 = { -firefox-home-brand-name } ᱥᱟᱹᱛ ᱢᱮ ᱾
 ##
 
 policy-NewTabPage = ᱱᱟᱣᱟ ᱴᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱮᱢ ᱢᱮ ᱟᱨᱵᱟᱝ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
-# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = PKCS #11 ᱢᱚᱰᱭᱩᱞ ᱠᱚ ᱦᱚᱦᱟᱞ ᱢᱮ ᱾
 policy-ShowHomeButton = ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱟᱨ ᱨᱮ ᱚᱲᱟᱜ ᱵᱩᱛᱟᱹᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾
 policy-SSLVersionMax = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱰᱷᱮᱨ SSL ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱮᱴ ᱢᱮ ᱾
 policy-SSLVersionMin = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱠᱚᱢ SSL ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱮᱴ ᱢᱮ ᱾
