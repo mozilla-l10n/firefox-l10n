@@ -47,11 +47,22 @@ policy-DisablePocket = Pocket ᱨᱮ ᱣᱮᱵᱽᱥᱟᱦᱴᱟᱠᱚ ᱥᱟᱺ
 policy-DisablePocket2 = { -pocket-brand-name } ᱨᱮ ᱣᱮᱵᱽᱥᱟᱦᱴᱟᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱤᱪᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-DisablePrivateBrowsing = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱚᱱᱫ ᱠᱟᱜ ᱢᱮ ᱾
 policy-DisableProfileImport = ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱢᱮᱱᱩ ᱠᱚᱢᱟᱱᱰ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+policy-DisableProfileRefresh = about:support ᱥᱟᱦᱴᱟ ᱨᱮ ᱱᱟᱶᱟ { -brand-short-name } ᱟᱹᱨᱩ ᱵᱩᱛᱟᱹᱢ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+policy-DisableSafeMode = ᱯᱷᱤᱪᱚᱨ ᱵᱚᱸᱫ ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱳᱰ ᱨᱮ ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱢᱮ ᱾ ᱵᱟᱲᱟᱭ ᱢᱮ : ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱳᱰ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ Shift ᱪᱟᱹᱵᱤ ᱫᱚ ᱣᱤᱱᱰᱚ ᱨᱮ ᱫᱳᱞ ᱱᱤᱛᱤ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ ᱵᱚᱸᱫ ᱜᱟᱱᱚᱜᱼᱟ ᱾
+policy-DisableSecurityBypass = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱦᱩᱥᱤᱩᱭᱟᱹᱨ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱞᱚ ᱯᱚᱨᱚᱢ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱢᱮ ᱾
+policy-DisableSetAsDesktopBackground = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱹᱜᱤᱫ ᱰᱮᱥᱠᱴᱚᱯ ᱵᱮᱠᱜᱽᱨᱟᱣᱱᱰ ᱞᱮᱠᱷᱟ ᱥᱮᱛ ᱢᱮᱱᱩ ᱟᱫᱮᱨ ᱫᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+policy-DisableSystemAddonUpdate = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱥᱤᱥᱴᱚᱢ ᱮᱰ-ᱚᱱᱥ ᱵᱚᱦᱟᱞ ᱟᱨ ᱦᱟᱹᱞᱤᱭᱟᱠ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴᱮᱢ ᱾
 policy-DisableTelemetry = ᱴᱮᱞᱤᱢᱮᱴᱨᱤ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+policy-DisableThirdPartyModuleBlocking = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱫᱚ ᱛᱮᱥᱟᱨᱼᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞ ᱠᱚ ᱟᱠᱚᱴᱮᱢ ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱞᱟᱦᱟᱱᱛᱤ ᱨᱮ ᱵᱚᱞᱚᱱ ᱟ ᱾
 policy-DisplayBookmarksToolbar = ᱢᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱩᱠᱢᱟᱨᱠ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱟᱨ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾
 policy-DisplayMenuBar = ᱢᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱢᱮᱱᱩᱵᱟᱨ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾
 policy-DNSOverHTTPS = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS ᱥᱮᱴ ᱢᱮ ᱾
+policy-DontCheckDefaultBrowser = ᱮᱛᱦᱚᱵ ᱨᱮ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱪᱤᱱᱦᱟᱹ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-DownloadDirectory = ᱰᱟᱣᱱᱞᱚᱰ ᱡᱟᱭᱜᱟ ᱫᱚ ᱥᱮᱴ ᱟᱨ ᱠᱩᱞᱩᱯ ᱠᱟᱜ ᱢᱮ ᱾
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = ᱡᱤᱱᱤᱥ ᱵᱞᱚᱠᱤᱝ ᱫᱚ ᱮᱢ ᱥᱮ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱟᱨ ᱢᱚᱱᱮ ᱛᱮ ᱠᱩᱞᱩᱯ ᱢᱮ ᱾
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = ᱮᱱᱠᱨᱤᱯᱴᱮᱰ ᱢᱤᱰᱤᱭᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱮᱢ ᱥᱮ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱟᱨ ᱢᱚᱱᱮ ᱛᱮ ᱠᱩᱞᱩᱯ ᱢᱮ ᱾
 policy-FirefoxHome = Firefox Home ᱥᱟᱹᱛ ᱢᱮ ᱾
 policy-FirefoxHome2 = { -firefox-home-brand-name } ᱥᱟᱹᱛ ᱢᱮ ᱾
 
