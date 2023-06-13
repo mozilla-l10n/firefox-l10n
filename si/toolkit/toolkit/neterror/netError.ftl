@@ -11,7 +11,7 @@ certerror-sts-page-title = සම්බන්ධ නොවිණි: ආරක�
 neterror-blocked-by-policy-page-title = අවහිර කළ පිටුව
 neterror-captive-portal-page-title = ජාලයට පිවිසෙන්න
 neterror-dns-not-found-title = සේවාදායකය හමු නොවුණි
-neterror-malformed-uri-page-title = වැරදි ඒ.ස.නි.
+neterror-malformed-uri-page-title = ඒ.ස.නි. වැරදිය
 
 ## Error page actions
 
@@ -42,6 +42,20 @@ neterror-dns-not-found-hint-header = <strong>ඔබ නිවැරදි ලි
 neterror-dns-not-found-hint-try-again = පසුව උත්සාහ කරන්න
 neterror-dns-not-found-hint-check-network = ජාලයේ සම්බන්ධතාවය පරීක්‍ෂා කරන්න
 neterror-dns-not-found-hint-firewall = { -brand-short-name } සඳහා වියමන වෙත ප්‍රවේශ වීමට අවසර තිබේදැයි බලන්න (උදා. ඔබ සම්බන්ධිත නමුත් ගිනිපවුරක් පිටුපස නම්)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+##
+
 neterror-unknown-protocol = මෙම ලිපිනය විවෘත කිරීමට වෙනත් මෘදුකාංගයක් ස්ථාපනයට අවශ්‍ය විය හැකිය.
 neterror-redirect-loop = මෙම ගැටළුව සමහර විට දත්තකඩ පිළිගැනීම අබල කිරීම හෝ අහක දැමීම නිසා විය හැකිය.
 neterror-not-cached-intro = ඉල්ලූ ලේඛනය { -brand-short-name } නිහිතය තුළ නැත.

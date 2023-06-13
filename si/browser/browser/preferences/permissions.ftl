@@ -210,3 +210,16 @@ permissions-site-microphone-disable-desc = ඉහත ලේඛනගත කර �
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-doh-entry-field = අඩවියේ වසම් නාමය යොදන්න
+    .accesskey = d
+permissions-doh-add-exception =
+    .label = එකතු
+    .accesskey = A
+permissions-doh-col =
+    .label = වසම
+permissions-doh-remove =
+    .label = ඉවත් කරන්න
+    .accesskey = R
+permissions-doh-remove-all =
+    .label = සියල්ල ඉවත් කරන්න
+    .accesskey = e

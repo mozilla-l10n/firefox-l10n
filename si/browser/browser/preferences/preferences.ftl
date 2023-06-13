@@ -1193,6 +1193,27 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = තත්‍වය: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = ප්‍රතිපාදක: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = ඒ.ස.නි. වැරදිය
+preferences-doh-status-disabled = අක්‍රියයි
+preferences-doh-expand-section =
+    .tooltiptext = තවත් තොරතුරු
+preferences-doh-setting-default =
+    .label = පෙරනිමි රැකවරණය
+    .accesskey = D
+preferences-doh-setting-strict =
+    .label = උපරිම රැකවරණය
+    .accesskey = M
+preferences-doh-setting-off =
+    .label = අක්‍රියයි
+    .accesskey = O
 
 ## The following strings are used in the Download section of settings
 

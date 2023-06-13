@@ -13,6 +13,14 @@
 onboarding-welcome-header = { -brand-short-name } වෙත පිළිගනිමු
 onboarding-start-browsing-button-label = පිරික්සීම අරඹන්න
 onboarding-not-now-button-label = දැන් නොවේ
+mr1-onboarding-get-started-primary-button-label = පටන් ගන්න
+mr1-onboarding-welcome-header = { -brand-short-name } වෙත පිළිගනිමු
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } ප්‍රාථමික අතිරික්සුව කරන්න
+    .title = මූලික අතිරික්සුව ලෙස { -brand-short-name } සකසයි හා කාර්ය තීරුවට අමුණයි
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } පෙරනිමි අතිරික්සුව කරන්න
+mr1-onboarding-set-default-secondary-button-label = දැන් නොවේ
 
 ## Custom Return To AMO onboarding strings
 
@@ -32,14 +40,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } එක් කරන්�
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = පටන් ගැනීම: { $total } න් { $current } වන තිරය
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = ප්‍රගතිය: { $total } න් { $current } වන පියවර
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -55,6 +55,14 @@ mr1-welcome-screen-hero-text =
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = සොරායා ඔසෝරියෝ — ගෘහ භාණ්ඩ නිර්මාණකරුගේ තේරීම ෆයර්ෆොක්ස්
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = ප්‍රගතිය: { $total } න් { $current } වන පියවර
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = සජීවිකරණ අක්‍රිය කරන්න
 
@@ -77,16 +85,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = පටන් ගන්න
-mr1-onboarding-welcome-header = { -brand-short-name } වෙත පිළිගනිමු
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } ප්‍රාථමික අතිරික්සුව කරන්න
-    .title = මූලික අතිරික්සුව ලෙස { -brand-short-name } සකසයි හා කාර්ය තීරුවට අමුණයි
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } පෙරනිමි අතිරික්සුව කරන්න
-mr1-onboarding-set-default-secondary-button-label = දැන් නොවේ
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = පිවිසෙන්න
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -382,3 +381,8 @@ onboarding-infrequent-import-primary-button = { -brand-short-name } වෙත �
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+
+## Device migration onboarding
+
+onboarding-device-migration-title = සාදරයෙන් පිළිගනිමු!
+onboarding-device-migration-primary-button-label = පිවිසෙන්න

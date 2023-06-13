@@ -211,6 +211,9 @@ cfr-cbh-dismiss-button = දැන් නොවේ
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-set-default-primary = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න
+fox-doodle-pin-headline = සාදරයෙන් පිළිගනිමු
+fox-doodle-pin-primary = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න
+fox-doodle-pin-secondary = දැන් නොවේ
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
@@ -218,6 +221,11 @@ set-default-pdf-handler-primary = තේරුණා
 
 ## FxA sync CFR
 
+fxa-sync-cfr-primary = තව දැනගන්න
+    .accesskey = L
+fxa-sync-cfr-secondary = පසුව මතක් කරන්න
+    .accesskey = R
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-link = පසුව මතක් කරන්න
