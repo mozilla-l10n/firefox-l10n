@@ -3,116 +3,89 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = එක්කහු කළමනාකරු
-
 search-header =
     .placeholder = addons.mozilla.org හි සොයන්න
     .searchbuttonlabel = සොයන්න
-
 search-header-shortcut =
     .key = f
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain }</a> වෙතින් දිගු සහ තේමා ගන්න
-
 list-empty-get-dictionaries-message = <a data-l10n-name="get-extensions">{ $domain }</a> වෙතින් ශබ්දකෝෂ ගන්න
-
 list-empty-get-language-packs-message = <a data-l10n-name="get-extensions">{ $domain }</a> වෙතින් භාෂා ඇසුරුම් ගන්න
+
+##
 
 list-empty-installed =
     .value = මෙම වර්ගයේ කිසිදු එක්කහුවක් ස්ථාපනය කර නැත
-
 list-empty-available-updates =
     .value = යාවත්කාල හමු නොවිණි
-
 list-empty-recent-updates =
     .value = මෑතදී කිසිදු එක්කහුවක් යාවත්කාල කර නැත
-
 list-empty-find-updates =
     .label = යාවත්කාල පරීක්‍ෂා කරන්න
-
 list-empty-button =
     .label = එක්කහු ගැන තව දැනගන්න
-
 help-button = එක්කහු සහාය
 sidebar-help-button-title =
     .title = එක්කහු සහාය
-
 addons-settings-button = { -brand-short-name } සැකසුම්
 sidebar-settings-button-title =
     .title = { -brand-short-name } සැකසුම්
-
 show-unsigned-extensions-button =
-    .label = ඇතැම් දිගු තහවුරු කළ නොහැකිය
-
+    .label = ඇතැම් දිගු සත්‍යාපනයට නොහැකි විය
 show-all-extensions-button =
     .label = සියළු දිගු පෙන්වන්න
-
 detail-version =
     .label = අනුවාදය
-
 detail-last-updated =
     .label = අවසන යාවත්කාල කළේ
-
 addon-detail-description-expand = තවත් පෙන්වන්න
 addon-detail-description-collapse = අඩුවෙන් පෙන්වන්න
-
 detail-contributions-description = මෙම එක්කහුවෙහි සංවර්ධකයා එහි අඛණ්ඩ සංවර්ධනය වෙනුවෙන් ඔබගෙන් ස්වල්ප දායකත්‍වයක් ඉල්ලා සිටියි.
-
 detail-contributions-button = දායකවන්න
     .title = මෙම දිගුවේ සංවර්ධනයට දායක වන්න
     .accesskey = C
-
 detail-update-type =
     .value = ස්වයංක්‍රීය යාවත්කාල
-
 detail-update-default =
     .label = පෙරනිමි
     .tooltiptext = පෙරනිමි නම්, ස්වයංක්‍රීයව එක්කහු යාවත්කාල කරන්න
-
 detail-update-automatic =
     .label = සක්‍රිය
     .tooltiptext = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය කරන්න
-
 detail-update-manual =
     .label = අක්‍රිය
     .tooltiptext = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය නොකරන්න
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = පෞද්. කවුළුවක ධාවනය
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = පෞද්. කවුළු තුළ ඉඩ නොදේ
 detail-private-disallowed-description2 = පෞද්. පිරික්සුම් අතරතුර මෙම දිගුව ධාවනය නොවේ. <a data-l10n-name="learn-more">තව දැනගන්න</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = පෞද්. කවුළු වෙත ප්‍රවේශය අවශ්‍ය වේ
 detail-private-required-description2 = මෙම දිගුවට පෞද්. පිරික්සුම් අතරතුර ඔබගේ ක්‍රියාකාරකම් වෙත ප්‍රවේශය ඇත. <a data-l10n-name="learn-more">තව දැනගන්න</a>
-
 detail-private-browsing-on =
     .label = ඉඩ දෙන්න
     .tooltiptext = පුද්ගලික ගවේශණ තුළ සක්‍රීයයි
-
 detail-private-browsing-off =
     .label = ඉඩ නොදෙන්න
     .tooltiptext = පුද්ගලික ගවේශණ තුළ අක්‍රීයයි
-
 detail-home =
     .label = මුල් පිටුව
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = එක්කහු පැතිකඩ
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = යාවත්කාල පරීක්‍ෂා කරන්න
     .accesskey = f
     .tooltiptext = මෙම එක්කහුව සඳහා යාවත්කාල බලන්න
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -129,18 +102,13 @@ detail-show-preferences =
             [windows] මෙම එක්කහුවෙහි විකල්ප වෙනස් කරන්න
            *[other] මෙම එක්කහුවෙහි අභිප්‍රේත වෙනස් කරන්න
         }
-
 detail-rating =
     .value = ඇගැයුම
-
 addon-restart-now =
     .label = යළි අරඹන්න
-
 disabled-unsigned-heading =
     .value = ඇතැම් එක්කහු අබල කර ඇත
-
-disabled-unsigned-description = { -brand-short-name } හි භාවිතයට පහත එක්කහු තහවුරු කර නැත. <label data-l10n-name="find-addons">ආදේශකයක් සොයා ගන්න</label> හෝ ඒවා තහවුරු කර ගන්නා ලෙස සංවර්ධකයාට දන්වන්න.
-
+disabled-unsigned-description = { -brand-short-name } හි භාවිතයට පහත එක්කහු සත්‍යාපනය කර නැත. <label data-l10n-name="find-addons">ආදේශකයක් සොයා ගන්න</label> හෝ ඒවා සත්‍යාපනය කරන ලෙස සංවර්ධකයාට දන්වන්න.
 addon-category-discover = නිර්දේශ
 addon-category-discover-title =
     .title = නිර්දේශ
@@ -224,29 +192,24 @@ addon-open-about-debugging = එක්කහු නිදොස්කරණය
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = දිගු කෙටිමං කළමනාකරණය
     .accesskey = S
-
 shortcuts-no-addons = ඔබට කිසිදු දිගුවක් සබල කර නැත.
 shortcuts-no-commands = පහත දිගු සඳහා කෙටිමං නැත:
 shortcuts-input =
     .placeholder = කෙටිමඟක් ලියන්න
-
 shortcuts-system = { -brand-short-name } කෙටිමඟක් අභිබවීමට නොහැකිය
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = අනුපිටපත් කෙටිමඟකි
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = දැනටමත් { $addon } සඳහා භාවිතා කරයි
-
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] තවත් { $numberToShow } ක් පෙන්වන්න
     }
-
 shortcuts-card-collapse-button = අඩුවෙන් පෙන්වන්න
-
 header-back-button =
     .title = ආපසු යන්න
 
@@ -255,13 +218,10 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = දිගු සහ තේමා ඔබගේ අතිරික්සුව සඳහා යෙදුම් වැනිය, ඒවා මුරපද ආරක්‍ෂා කිරීමට, දෘශ්‍යක බාගැනීමට, ගනුදෙනු සොයා ගැනීමට, කරදරකාරී දැන්වීම් අවහිර කිරීමට, ඔබගේ අතිරික්සුවේ පෙනුම වෙනස් කිරීමට සහ තවත් බොහෝ දෑ සඳහා උපකාරී වේ. මෙවැනි කුඩා මෘදුකාංග බොහෝ විට තෙවන පාර්ශ්ව විසින් සංවර්ධනය කරයි. මෙය { -brand-product-name } <a data-l10n-name="learn-more-trigger">නිර්දේශ කරන</a> ආරක්‍ෂාව, කාර්ය සාධනය සහ ක්‍රියාකාරීත්‍වයට විශේෂිත තේරීමකි.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = මෙම නිර්දේශවලින් ඇතැම් දෑ පුද්ගලීකරණය කර ඇත. ඒවා ඔබ ස්ථාපනය කර තිබෙන වෙනත් දිගු, පැතිකඩ අභිප්‍රේත සහ භාවිත සංඛ්‍යාලේඛන මත පදනම් වේ.
 discopane-notice-learn-more = තව දැනගන්න
-
 privacy-policy = රහස්‍යතා ප්‍රතිපත්තිය
-
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -273,7 +233,6 @@ install-theme-button = තේමාව ස්ථාපනය
 manage-addon-button = කළමනාකරණය
 find-more-addons = තවත් එක්කහු සොයාගන්න
 find-more-themes = තවත් තේමා සොයාගන්න
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -297,54 +256,35 @@ preferences-addon-button =
 details-addon-button = විස්තර
 release-notes-addon-button = නිකුතු සටහන්
 permissions-addon-button = අවසර
-
 extension-enabled-heading = සබල කර ඇත
 extension-disabled-heading = අබල කර ඇත
-
 theme-enabled-heading = සබල කර ඇත
 theme-disabled-heading = අබල කර ඇත
-theme-disabled-heading2 = සුරැකි තේමා
 theme-monochromatic-heading = වර්ණ පරාස
 theme-monochromatic-subheading = { -brand-product-name } වෙතින් උද්දීප්ත නව වර්ණ පරාස. සීමිත කාලයක් සඳහා තිබේ.
-
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = වර්ණ පරාස ගන්න
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = වර්ණ පරාස සංශෝධනය
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = ඉකුත් වීම { DATETIME($expiryDate, month: "long", day: "numeric") }
-
+theme-disabled-heading2 = සුරැකි තේමා
 plugin-enabled-heading = සබලයි
 plugin-disabled-heading = අබලයි
-
 dictionary-enabled-heading = සබලයි
 dictionary-disabled-heading = අබලයි
-
 locale-enabled-heading = සබලයි
 locale-disabled-heading = අබලයි
-
 sitepermission-enabled-heading = සබලයි
 sitepermission-disabled-heading = අබලයි
-
 always-activate-button = සැමවිට සක්‍රිය
 never-activate-button = සැමවිට අක්‍රියයි
-
 addon-detail-author-label = කතෘ
 addon-detail-version-label = අනුවාදය
 addon-detail-last-updated-label = අවසාන යාවත්කාලය
 addon-detail-homepage-label = මුල් පිටුව
 addon-detail-rating-label = ඇගැයුම
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = { -brand-short-name } නැවත ආරම්භ වන විට මෙම දිගුව යාවත්කාල වේ.
 install-postponed-button = යාවත්කාල කරන්න
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (අබලයි)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -360,14 +300,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ඉවත් කර ඇත.
 pending-uninstall-undo-button = පෙරසේ
-
 addon-detail-updates-label = ස්වයං යාවත්කාලයට ඉඩදෙන්න
 addon-detail-updates-radio-default = පෙරනිමි
 addon-detail-updates-radio-on = සක්‍රිය
 addon-detail-updates-radio-off = අක්‍රිය
 addon-detail-update-check-label = යාවත්කාල බලන්න
 install-update-button = යාවත්කාල
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -395,18 +333,15 @@ addon-badge-verified2 =
 
 available-updates-heading = තිබෙන යාවත්කාල
 recent-updates-heading = මෑත යාවත්කාල
-
 release-notes-loading = පූරණය වෙමින්…
 release-notes-error = කණගාටුයි, නිකුතු සටහන් පූරණය කිරීමේදී දෝෂයකි.
-
 addon-permissions-empty = මෙම දිගුවට කිසිදු අවසරයක් අවශ්‍ය නොවේ
 addon-permissions-learnmore = අවසර ගැන තව දැනගන්න
-
 recommended-extensions-heading = නිර්දේශිත දිගු
 recommended-themes-heading = නිර්දේශිත තේමා
-
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> වෙත පහත ශක්‍යතා ප්‍රදානය කරයි:
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = නිර්මාණශ්‍රීලී බවක් හැඟෙනවාද? <a data-l10n-name="link">ෆයර්ෆොක්ස් වර්ණ සමඟ ඔබගේම තේමාවක් තනන්න.</a>
@@ -422,11 +357,9 @@ updates-heading = ඔබගේ යාවත්කාල කළමනාකරණ
 sitepermission-heading = ඔබගේ අඩවි අවසර කළමනාකරණය
 discover-heading = ඔබගේ { -brand-short-name } පුද්ගලීකරණය
 shortcuts-heading = දිගු කෙටිමං කළමනාකරණය
-
 default-heading-search-label = තවත් එක්කහු සොයාගන්න
 addons-heading-search-input =
     .placeholder = addons.mozilla.org සොයන්න
-
 addon-page-options-button =
     .title = සියළු එක්කහු සඳහා මෙවලම්
 
@@ -434,22 +367,21 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { -brand-short-name } { $version } සමඟ { $name } නොගැළපෙයි.
-
 details-notification-incompatible-link = තව තොරතුරු
-
-details-notification-unsigned-and-disabled = { -brand-short-name } හි භාවිතය සඳහා { $name } තහවුරු කළ නොහැකි බැවින් අබල කර ඇත.
+details-notification-unsigned-and-disabled = { -brand-short-name } හි භාවිතය සඳහා { $name } සත්‍යාපනය කළ නොහැකි බැවින් අබල කර ඇත.
 details-notification-unsigned-and-disabled-link = වැඩිදුර තොරතුරු
-
-details-notification-unsigned = { -brand-short-name } හි භාවිතයට { $name } තහවුරු කළ නොහැකිය. ප්‍රවේශම්ව ඉදිරියට යන්න.
+details-notification-unsigned = { -brand-short-name } හි භාවිතයට { $name } සත්‍යාපනය කළ නොහැකිය. ප්‍රවේශම්ව ඉදිරියට යන්න.
 details-notification-unsigned-link = වැඩිදුර තොරතුරු
-
 details-notification-blocked = ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ නිසා { $name } අබල කර ඇත.
 details-notification-blocked-link = වැඩිදුර තොරතුරු
-
 details-notification-softblocked = { $name } හි ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ තිබේ.
 details-notification-softblocked-link = වැඩිදුර තොරතුරු
-
 details-notification-gmp-pending = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.
