@@ -805,6 +805,9 @@ toolbar-settings-button =
 toolbar-overflow-customize-button =
     .label = මෙවලම් තීරුව රිසිකරණය…
     .accesskey = C
+toolbar-button-logins =
+    .label = මුරපද
+    .tooltiptext = සුරැකි මුරපද කළමනාකරණය සහ දකින්න
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

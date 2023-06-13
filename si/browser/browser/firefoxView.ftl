@@ -70,3 +70,34 @@ firefoxview-collapse-button-show =
     .title = ලේඛනය පෙන්වන්න
 firefoxview-collapse-button-hide =
     .title = ලේඛනය සඟවන්න
+firefoxview-overview-nav = මෑත පිරික්සුම්
+    .title = මෑත පිරික්සුම්
+
+## History in this context refers to browser history
+
+firefoxview-history-nav = ඉතිහාසය
+    .title = ඉතිහාසය
+firefoxview-history-header = ඉතිහාසය
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-nav = විවෘත පටිති
+    .title = විවෘත පටිති
+firefoxview-opentabs-header = විවෘත පටිති
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+firefoxview-recently-closed-nav = මෑතදී වසා දැමූ පටිති
+    .title = මෑතදී වසා දැමූ පටිති
+firefoxview-recently-closed-header = මෑතදී වසා දැමූ පටිති
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+firefoxview-synced-tabs-nav = වෙනත් උපාංගවල පටිති
+    .title = වෙනත් උපාංගවල පටිති
+firefoxview-synced-tabs-header = වෙනත් උපාංගවල පටිති
+
+##
+
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = සියල්ල බලන්න
