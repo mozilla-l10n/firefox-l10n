@@ -11,6 +11,9 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = ᱱᱤᱛᱤ ᱠᱚ ᱥᱮᱴ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ chrome.storage.managed ᱛᱮ WebExtensions ᱟᱫᱮᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+policy-AllowedDomainsForApps = Google ᱠᱟᱹᱢᱤ ᱴᱚᱴᱷᱟ ᱨᱮ ᱥᱮᱱᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱢᱮᱱᱟᱜ ᱰᱳᱢᱮᱱ ᱠᱚ ᱵᱟᱛᱟᱣ ᱢᱮ ᱾
+policy-AppAutoUpdate = ᱟᱡᱛᱮ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱢ ᱟᱨᱵᱟᱝ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+policy-AppUpdatePin = { -brand-short-name } ᱵᱤᱥᱮᱥ ᱵᱷᱚᱨᱥᱚᱱ ᱠᱷᱚᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱷᱚᱱ ᱟᱠᱮᱴ ᱢᱮ ᱾
 policy-AppUpdateURL = ᱠᱚᱥᱴᱚᱢ ᱮᱯ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ URL ᱥᱮᱴ ᱢᱮ ᱾
 policy-CaptivePortal = ᱠᱮᱯᱴᱤᱵᱷ ᱯᱚᱨᱴᱟᱞ ᱜᱚᱲᱚ ᱫᱚ ᱮᱢ ᱟᱨ ᱵᱟᱝ ᱵᱚᱸᱫ ᱪᱷᱚᱭ ᱢᱮ ᱾
 policy-CertificatesDescription = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱮᱞᱮᱫ ᱢᱮ ᱟᱨ ᱵᱟᱝ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
