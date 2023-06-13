@@ -145,3 +145,7 @@ browser-data-session-checkbox =
     .label = කවුළු හා පටිති
 browser-data-session-label =
     .value = කවුළු හා පටිති
+browser-data-payment-methods-checkbox =
+    .label = ගෙවීමේ ක්‍රම
+browser-data-payment-methods-label =
+    .value = ගෙවීමේ ක්‍රම
