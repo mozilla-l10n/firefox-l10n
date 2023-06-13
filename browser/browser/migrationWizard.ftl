@@ -51,6 +51,8 @@ migration-bookmarks-option-label = පොත්යොමු
 migration-favorites-option-label = ප්‍රියතමයන්
 migration-logins-and-passwords-option-label = සුරැකි පිවිසුම් සහ මුරපද
 migration-history-option-label = පිරික්සුම් ඉතිහාසය
+migration-passwords-new = නව මුරපද
+migration-passwords-updated = පවතින මුරපද
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -65,9 +67,34 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV ලේඛනය
        *[other] TSV ගොනුව
     }
+migration-bookmarks-from-file-progress-header = පොත්යොමු ආයාත වෙමින්
+migration-bookmarks-from-file = පොත්යොමු
+migration-bookmarks-from-file-success-header = පොත්යොමු සාර්ථකව ආයාත කෙරිණි
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML ලේඛනය
+       *[other] HTML ගොනුව
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON ගොනුව
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] පොත්යොමු { $newEntries }
+       *[other] පොත්යොමු { $newEntries }
+    }
 migration-import-button-label = ආයාතය
+migration-import-from-file-button-label = ගොනුවක් තෝරන්න
 migration-cancel-button-label = අවලංගු
 migration-done-button-label = අහවරයි
+migration-continue-button-label = ඉදිරියට
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -82,6 +109,7 @@ migration-list-favorites-label = ප්‍රියතමයන්
 migration-list-password-label = මුරපද
 migration-list-history-label = ඉතිහාසය
 migration-list-autofill-label = ස්වයං පිරවුම් දත්ත
+migration-list-payment-methods-label = ගෙවීමේ ක්‍රම
 
 ##
 
@@ -125,5 +153,5 @@ migration-wizard-progress-success-passwords =
         [one] මුරපද { $quantity }
        *[other] මුරපද { $quantity }
     }
+migration-wizard-progress-success-formdata = ආකෘති ඉතිහාසය
 migration-wizard-safari-instructions-continue = “ඉදිරියට” තෝරන්න
-migration-wizard-safari-select-button = ගොනුවක් තෝරන්න
