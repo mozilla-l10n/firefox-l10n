@@ -13,3 +13,4 @@ speech-dispatcher-no-voices = Non è possibile utilizzare la funzione di sintesi
 speech-dispatcher-dismiss-button =
   .label = Non mostrare di nuovo
   .accesskey = N
+

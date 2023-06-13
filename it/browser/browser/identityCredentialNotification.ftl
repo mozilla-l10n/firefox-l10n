@@ -26,3 +26,4 @@ identity-credential-sign-in-button =
     .accesskey = A
 identity-credential-policy-title = Utilizza { $provider } come provider di accesso
 identity-credential-policy-description = L’accesso a { $host } con un account { $provider } è soggetto all’<label data-l10n-name="privacy-url">Informativa sulla privacy</label> e alle <label data-l10n-name="tos-url">Condizioni di utilizzo del servizio</label> di quest’ultimo.
+
