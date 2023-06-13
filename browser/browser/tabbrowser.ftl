@@ -88,3 +88,8 @@ tabbrowser-context-unmute-tab =
 
 ## Ctrl-Tab dialog
 
+
+## Tab manager menu buttons
+
+tabbrowser-manager-close-tab =
+    .tooltiptext = පටිත්ත වසන්න
