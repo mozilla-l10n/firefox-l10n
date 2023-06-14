@@ -26,3 +26,4 @@ identity-credential-sign-in-button =
     .label = Acceder
     .accesskey = A
 identity-credential-policy-title = Usar { $provider } como fornitor de credentiales
+identity-credential-policy-description = Le accesso a { $host } con un conto { $provider } es subjecte a lor <label data-l10n-name="privacy-url">Politica de confidentialitate</label> e <label data-l10n-name="tos-url">Terminos de servicio</label>.
