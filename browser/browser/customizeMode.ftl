@@ -27,5 +27,6 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = Normală
 customize-mode-undo-cmd =
     .label = Anulează
+customize-mode-lwthemes-link = Gestionează temele
 customize-mode-touchbar-cmd =
     .label = Personalizează bara tactilă...

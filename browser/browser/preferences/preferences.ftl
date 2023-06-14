@@ -806,6 +806,8 @@ forms-breach-alerts =
     .label = Afișează alerte despre parole pentru site-urile web a căror securitate a fost încălcată
     .accesskey = b
 forms-breach-alerts-learn-more-link = Află mai multe
+relay-integration =
+    .label = Activează { -relay-brand-name } în managerul de parole { -brand-short-name }
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Completează automat autentificări și parole
