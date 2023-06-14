@@ -1250,6 +1250,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS sus HTTPS
+preferences-doh-description = Lo DNS (Domain Name Sistèma) sus HTTPS envia vòstras requèstas per un nom de domeni via una connexion chifrada, en creant un DNS segur e en fasent venir mai complicat per los autres de veire quines sites sètz a mand de visitar.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Estat : { $status }
@@ -1271,7 +1272,7 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Proteccion per defaut
     .accesskey = d
-preferences-doh-default-desc = { -brand-short-name } decidís quant utilizar lo DNS segur per protegir vòstra vida privada.
+preferences-doh-default-desc = { -brand-short-name } decidís quand utilizar lo DNS segur per protegir vòstra vida privada.
 preferences-doh-default-detailed-desc-1 = Utilizar lo DNS segur dins las regions ont es disponible
 preferences-doh-default-detailed-desc-3 = Utilizar un provesidor local, se possible
 preferences-doh-setting-enabled =
@@ -1279,10 +1280,15 @@ preferences-doh-setting-enabled =
     .accesskey = e
 preferences-doh-enabled-desc = Contrarotlatz quand volètz utilizar lo DNS segur e causissètz vòstre provesidor.
 preferences-doh-enabled-detailed-desc-1 = Utilizar lo provesidor qu’avètz seleccionat
+preferences-doh-enabled-detailed-desc-2 = Utilizar lo servidor DNS per defaut sonque se i a un problèma amb lo DNS segur
 preferences-doh-setting-strict =
     .label = Proteccion maximala
     .accesskey = m
+preferences-doh-strict-desc = { -brand-short-name } utilizarà totjorn lo DNS segur. Veiretz un avís de seguretat abans d’utilizar lo DNS de sistèma.
 preferences-doh-strict-detailed-desc-1 = Utilizar sonque lo prevesidor que seleccionèretz
+preferences-doh-setting-off =
+    .label = Desactivat
+    .accesskey = D
 preferences-doh-off-desc = Utilizar lo servidor de resolucion DNS per defaut
 preferences-doh-checkbox-warn =
     .label = Avertir se un tèrç empacha d’utilizar lo DNS segur
