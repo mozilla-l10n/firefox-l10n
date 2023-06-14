@@ -33,6 +33,12 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = ᱞᱚᱠᱟᱞ SDP
 about-webrtc-local-sdp-heading-offer = ᱞᱚᱠᱟᱞ SDP (ᱚᱯᱷᱚᱨ)
+about-webrtc-local-sdp-heading-answer = ᱞᱚᱠᱟᱞ SDP (ᱛᱮᱞᱟ)
+about-webrtc-remote-sdp-heading = ᱨᱤᱢᱚᱴ SDP
+about-webrtc-remote-sdp-heading-offer = ᱨᱚᱢᱤᱪ SDP (ᱚᱯᱷᱚᱨ)
+about-webrtc-remote-sdp-heading-answer = ᱨᱚᱢᱤᱪ SDP (ᱛᱮᱞᱟ)
+about-webrtc-sdp-history-heading = SDP ᱱᱟᱜᱟᱢ
+about-webrtc-sdp-parsing-errors-heading = SDP ᱯᱟᱨᱥᱤᱝ ᱵᱷᱩᱞ
 
 ##
 
