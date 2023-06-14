@@ -13,6 +13,7 @@ search-header-shortcut =
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Obține extensii și teme pe <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Obține pachete lingvistice pe <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 

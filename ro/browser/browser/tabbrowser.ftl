@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Filă nouă
+tabbrowser-empty-private-tab-title = Filă privată nouă
 tabbrowser-menuitem-close-tab =
     .label = Închide fila
 tabbrowser-menuitem-close =
@@ -128,3 +129,6 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Listează toate cele { $tabCount } file
            *[other] Listează toate cele { $tabCount } de file
         }
+
+## Tab manager menu buttons
+
