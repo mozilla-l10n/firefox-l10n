@@ -98,6 +98,9 @@ firefoxview-opentabs-header = Onglets dobèrts
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Onglets tampats recentament
+    .title = Onglets tampats recentament
+firefoxview-recently-closed-header = Onglets tampats recentament
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
