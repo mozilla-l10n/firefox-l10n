@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Premakni gor
 unified-extensions-context-menu-move-widget-down =
     .label = Premakni dol
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Nekatere razširitve niso dovoljene
+unified-extensions-mb-quarantined-domain-message = Zaradi zaščite vaših podatkov so na tem spletnem mestu dovoljene samo nekatere razširitve, ki jih { -vendor-short-name } nadzoruje.

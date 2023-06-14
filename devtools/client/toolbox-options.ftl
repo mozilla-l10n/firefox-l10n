@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Kliknite in povlecite za spreminjanje vrednosti
 options-inspector-draggable-properties-tooltip =
     .title = Kliknite in povlecite, da spremenite velikosti v pogledu pravil pregledovalnika.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Uporabi preprostejše označevalnike s prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Omogoči poenostavljene označevalnike, ko je vključena možnost prefers-reduced-motion. Okoli označenih elementov se bo izrisal očrtan pravokotnik namesto izpolnjenega, da prepreči pojav utripanja.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -108,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Omogoči oddaljeno razhroščevanje
 options-enable-remote-tooltip2 =
     .title = Vklop te možnosti omogoči oddaljeno razhroščevanje tega primerka brskalnika
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Odpri ali zapri razvojna orodja s tipko F12
+options-enable-f12-tooltip =
+    .title = Če je možnost vključena, tipka F12 odpira in zapira orodjarno razvojnih orodij
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Omogoči oblikovalnike po meri
 options-enable-custom-formatters-tooltip =

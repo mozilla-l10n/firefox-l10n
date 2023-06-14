@@ -171,3 +171,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Prikaži vse { $tabCount } zavihke
            *[other] Prikaži vseh { $tabCount } zavihkov
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Utišaj zavihek
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Povrni glasnost zavihka
+tabbrowser-manager-close-tab =
+    .tooltiptext = Zapri zavihek
