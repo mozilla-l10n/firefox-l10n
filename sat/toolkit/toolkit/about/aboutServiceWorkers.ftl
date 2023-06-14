@@ -5,6 +5,11 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+# The original title of service workers' information
+#
+# Variables:
+#   $originTitle: original title
+origin-title = ᱢᱩᱞ : { $originTitle }
 
 ## These strings are for showing the information of workers.
 ##
@@ -12,4 +17,15 @@
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+scope = <strong>ᱥᱠᱚᱯ :</strong> { $name }
+script-spec = <strong>ᱥᱠᱨᱤᱯᱴ ᱥᱯᱮᱠ :</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤᱭᱟᱹ URL:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>ᱪᱚᱴᱠᱟᱨ ᱠᱮᱪ ᱧᱩᱛᱩᱢ :</strong> { $name }
+waiting-cache-name = <strong>ᱛᱟᱹᱝᱜᱤ ᱠᱮᱪ ᱧᱩᱛᱩᱢ :</strong> { $name }
+push-end-point-waiting = <strong>ᱯᱩᱥ ᱮᱱᱰᱯᱚᱭᱮᱱᱴ :</strong> { waiting }
+push-end-point-result = <strong>ᱯᱩᱥ ᱮᱱᱰᱯᱚᱭᱮᱱᱴ :</strong> { $name }
+# This term is used as a button label (verb, not noun).
+update-button = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
+unregister-button = ᱵᱤᱱᱧᱩᱛᱩᱢ
+unregister-error = ᱱᱚᱶᱟ ᱥᱟᱹᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱫᱚ ᱵᱤᱱᱧᱩᱛᱩᱢ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾
 waiting = ᱛᱟᱹᱝᱜᱤᱜ ᱠᱟᱱᱟ…
