@@ -142,3 +142,12 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Zerrendatu fitxa guztiak ({ $tabCount })
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Mututu fitxa
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Ez mututu fitxa
+tabbrowser-manager-close-tab =
+    .tooltiptext = Itxi fitxa

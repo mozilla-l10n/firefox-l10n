@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Leihoak eta fitxak
 browser-data-session-label =
     .value = Leihoak eta fitxak
+browser-data-payment-methods-checkbox =
+    .label = Ordainketa metodoak
+browser-data-payment-methods-label =
+    .value = Ordainketa metodoak

@@ -10,4 +10,5 @@ webauthn-pin-invalid-prompt =
         [one] PIN okerra! Idatzi zure gailuaren PIN zuzena mesedez. Saiakera { $retriesLeft } gelditzen zaizu.
        *[other] PIN okerra! Idatzi zure gailuaren PIN zuzena mesedez. { $retriesLeft } saiakera gelditzen zaizkizu.
     }
+webauthn-pin-invalid-short-prompt = PIN okerra. Saiatu berriro.
 webauthn-pin-required-prompt = Idatzi zure gailuaren PINa mesedez.
