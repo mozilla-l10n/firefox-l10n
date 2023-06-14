@@ -108,6 +108,7 @@ migration-bookmarks-from-file-picker-title = Importazione file di segnalibri
 migration-bookmarks-from-file-progress-header = Importazione segnalibri
 migration-bookmarks-from-file = Segnalibri
 migration-bookmarks-from-file-success-header = Segnalibri importati correttamente
+migration-bookmarks-from-file-no-valid-data = Il file non include alcuna informazione relativa ai segnalibri. Seleziona un altro file.
 
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
