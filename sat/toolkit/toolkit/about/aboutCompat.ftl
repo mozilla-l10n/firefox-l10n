@@ -4,6 +4,9 @@
 
 label-disable = ᱵᱚᱸᱫᱚᱭ
 label-enable = ᱦᱩᱭ ᱦᱚᱪᱚ
+# Variables:
+#   $bug (string) - Bug number
+label-more-information = ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱺ ᱵᱚᱜᱽ { $bug }
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when
@@ -11,3 +14,5 @@ label-enable = ᱦᱩᱭ ᱦᱚᱪᱚ
 ## breakage. SmartBlock also contains special fixes for sites broken by
 ## Firefox's Total Cookie Protection feature.
 
+label-smartblock = SmartBlock ᱴᱷᱤᱠᱟᱭ
+text-no-smartblock = ᱪᱮᱫ SmartBlock ᱡᱚᱛᱨᱟᱣ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱱᱟ

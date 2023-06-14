@@ -12,12 +12,24 @@
 
 <!-- Field labels for input type=time -->
 
+<!ENTITY time.hour.label "ᱴᱟᱲᱟᱝ">
+<!ENTITY time.minute.label "ᱴᱤᱯᱤᱡ">
+<!ENTITY time.second.label "ᱴᱤᱡ">
+<!ENTITY time.millisecond.label "ᱢᱤᱞᱤ ᱴᱤᱡ">
+<!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
 
+<!ENTITY date.year.placeholder "yyyy">
+<!ENTITY date.month.placeholder "mm">
+<!ENTITY date.day.placeholder "dd">
 
 <!-- Field labels for input type=date -->
 
+<!ENTITY date.year.label "ᱥᱮᱨᱢᱟ">
+<!ENTITY date.month.label "ᱪᱟᱸᱫᱚ">
+<!ENTITY date.day.label "ᱢᱟᱦᱟᱸ">
 
 <!-- Date/time clear button -->
 
+<!ENTITY datetime.reset.label "ᱯᱷᱟᱨᱪᱟ">

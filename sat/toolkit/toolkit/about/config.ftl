@@ -6,9 +6,17 @@
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ᱦᱩᱥᱤᱭᱟᱹᱨ ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
+about-config-intro-warning-text = ᱮᱰᱵᱷᱟᱱᱥ ᱠᱚᱱᱯᱷᱮᱜᱩᱨᱮᱥᱚᱱ ᱠᱩᱥᱤᱠᱚ ᱵᱚᱫᱚᱞ ᱨᱮᱭᱟᱜ ᱚᱥᱚᱨ ᱫᱚ { -brand-short-name }ᱦᱟᱜ ᱠᱟᱹᱢᱤ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱪᱮᱛᱟᱱ ᱨᱮ ᱯᱟᱲᱟᱣᱜᱼᱟ ᱾
+about-config-intro-warning-checkbox = ᱱᱚᱣᱟ ᱠᱩᱥᱤᱠᱚ ᱟᱫᱮᱨ ᱡᱷᱚᱜ ᱦᱩᱥᱤᱭᱟᱹᱨᱤᱧ ᱢᱮ
+about-config-intro-warning-button = ᱡᱤᱢᱟ ᱦᱟᱛᱟᱣ ᱢᱮ ᱟᱨ ᱥᱮᱱᱚᱜ ᱢᱮ
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = ᱱᱚᱶᱟ ᱠᱩᱥᱤᱠᱚ ᱵᱚᱫᱚᱞ ᱨᱮᱭᱟᱜ ᱚᱥᱚᱨ ᱫᱚ { -brand-short-name }ᱦᱟᱜ ᱠᱟᱹᱢᱤ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱪᱮᱛᱟᱱ ᱨᱮ ᱯᱟᱲᱟᱣᱜᱼᱟ ᱾
+about-config-page-title = ᱮᱰᱵᱷᱟᱱᱥ ᱠᱩᱥᱤᱠᱚ
+about-config-search-input1 =
+    .placeholder = ᱠᱩᱥᱤᱭᱟᱜ ᱧᱩᱛᱩᱢ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 about-config-show-all = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 about-config-show-only-modified = ᱠᱷᱟᱹᱞᱤ ᱵᱚᱫᱚᱞ ᱠᱟᱱ ᱠᱩᱥᱤᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 about-config-pref-add-button =
