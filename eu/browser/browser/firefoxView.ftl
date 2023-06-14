@@ -96,9 +96,15 @@ firefoxview-opentabs-header = Irekitako fitxak
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Itxitako azken fitxak
+    .title = Itxitako azken fitxak
+firefoxview-recently-closed-header = Itxitako azken fitxak
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Beste gailuetako fitxak
+    .title = Beste gailuetako fitxak
+firefoxview-synced-tabs-header = Beste gailuetako fitxak
 
 ##
 

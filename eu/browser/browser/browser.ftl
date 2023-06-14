@@ -675,6 +675,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Ireki bideoa beste leiho batean ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Itxi bideoa beste leiho batean ({ $shortcut })
+picture-in-picture-panel-header = Bideoa beste leiho batean
+picture-in-picture-panel-headline = Webgune honek ez du gomendatzen bideoa beste leiho batean ikustea
+picture-in-picture-panel-body = Bideoak agian ez dira garatzaileak nahi zuen moduan bistaratuko bideoa beste leiho batean ikusteko gaituta badago.
+picture-in-picture-enable-toggle =
+    .label = Gaitu halere
 
 ## Full Screen and Pointer Lock UI
 

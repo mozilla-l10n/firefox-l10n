@@ -57,6 +57,12 @@ migration-favorites-option-label = Gogokoak
 migration-logins-and-passwords-option-label = Gordetako saio-hasierak eta pasahitzak
 migration-history-option-label = Nabigatze-historia
 migration-form-autofill-option-label = Inprimakien betetze automatikorako datuak
+migration-passwords-from-file-progress-header = Inportatu pasahitzen fitxategia
+migration-passwords-from-file-success-header = Pasahitzak ondo inportatu dira
+migration-passwords-from-file = Fitxategia pasahitzen bila egiaztatzen
+migration-passwords-new = Pasahitz berriak
+migration-passwords-updated = Lehendik dauden pasahitzak
+migration-passwords-from-file-picker-title = Inportatu pasahitzen fitxategia
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,9 +77,46 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV dokumentua
        *[other] TSV fitxategia
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } gehituta
+       *[other] { $newEntries } gehituta
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } eguneratuta
+       *[other] { $updatedEntries } eguneratuta
+    }
+migration-bookmarks-from-file-picker-title = Inportatu laster-marken fitxategia
+migration-bookmarks-from-file-progress-header = Laster-markak inportatzen
+migration-bookmarks-from-file = Laster-markak
+migration-bookmarks-from-file-success-header = Laster-markak ondo inportatu dira
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML dokumentua
+       *[other] HTML fitxategia
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON fitxategia
 migration-import-button-label = Inportatu
+migration-choose-to-import-from-file-button-label = Inportatu fitxategitik
+migration-import-from-file-button-label = Hautatu fitxategia
 migration-cancel-button-label = Utzi
 migration-done-button-label = Eginda
+migration-continue-button-label = Jarraitu
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -151,4 +194,3 @@ migration-wizard-progress-success-formdata = Inprimakien historia
 migration-wizard-safari-permissions-sub-header = Safariko laster-markak eta nabigatze-historia inportatzeko:
 migration-wizard-safari-instructions-continue = Hautatu "Jarraitu"
 migration-wizard-safari-instructions-folder = Hautatu Safari karpeta zerrendatik eta aukeratu "Ireki"
-migration-wizard-safari-select-button = Hautatu fitxategia

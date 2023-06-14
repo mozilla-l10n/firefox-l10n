@@ -32,3 +32,11 @@ unified-extensions-context-menu-remove-extension =
     .label = Kendu hedapena
 unified-extensions-context-menu-report-extension =
     .label = Eman hedapenaren berri
+unified-extensions-context-menu-move-widget-up =
+    .label = Eraman gora
+unified-extensions-context-menu-move-widget-down =
+    .label = Eraman behera
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Zenbait hedapen ez dira onartzen
