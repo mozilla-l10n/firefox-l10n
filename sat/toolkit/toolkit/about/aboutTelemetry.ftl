@@ -26,14 +26,52 @@ about-telemetry-scalar-section = ᱥᱠᱮᱞᱚᱨᱥ
 about-telemetry-keyed-scalar-section = ᱠᱤᱭᱰ ᱥᱠᱮᱞᱟᱨᱥ
 about-telemetry-histograms-section = ᱦᱤᱥᱴᱚᱜᱨᱟᱢ
 about-telemetry-keyed-histogram-section = ᱠᱤᱭᱰ ᱦᱤᱥᱴᱚᱜᱽᱨᱟᱢᱠᱚ
+about-telemetry-events-section = ᱜᱚᱴᱱᱟᱠᱚ
 about-telemetry-simple-measurements-section = ᱥᱟᱫᱷᱟᱨᱚᱬ ᱢᱟᱯ ᱠᱚ
 about-telemetry-slow-sql-section = SQL ᱞᱟᱹᱭ ᱩᱫᱩᱠ ᱵᱟᱹᱭ ᱵᱟᱹᱭ
 about-telemetry-addon-details-section = ᱮᱰ-ᱟᱹᱱ ᱯᱩᱨᱟ ᱵᱤᱵᱨᱚᱱ
 about-telemetry-late-writes-section = ᱵᱤᱞᱚᱢ ᱚᱞ ᱠᱚ
+about-telemetry-raw-payload-section = ᱵᱮᱨᱮᱞ ᱯᱮᱞᱚᱰ
+about-telemetry-raw = ᱵᱮᱨᱮᱞ JSON
 about-telemetry-full-sql-warning = NOTE: ᱵᱟᱹᱭ ᱵᱟᱹᱭᱟᱜ SQL ᱰᱤᱣᱟᱸᱜᱤᱸᱜ ᱫᱚ ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱮᱭᱟᱨᱟᱜ ᱠᱟᱱᱟ᱾ ᱯᱩᱨᱟᱹ SQL ᱥᱴᱨᱤᱸᱜ ᱫᱚ ᱞᱟᱛᱟᱨ ᱨᱮ ᱩᱫᱩᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱩᱱᱠᱩ ᱴᱮᱞᱤᱱᱮᱴᱨᱤ ᱨᱮ ᱵᱟᱠᱚ ᱡᱚᱢᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
+about-telemetry-fetch-stack-symbols = ᱥᱴᱟᱠᱥ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱚᱝᱥᱚᱱ ᱧᱩᱛᱩᱢ ᱟᱹᱛᱩᱨ ᱢᱮ
+about-telemetry-hide-stack-symbols = ᱵᱮᱨᱮᱞ ᱥᱴᱟᱠ ᱰᱟᱴᱟ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+# Selects the correct release version
+# Variables:
+#   $channel (string) - Represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] ᱰᱟᱴᱟ ᱟᱲᱟᱜ ᱢᱮ
+       *[prerelease] ᱢᱟᱲᱟᱝᱼᱰᱟᱴᱟ ᱟᱲᱟᱜ ᱢᱮ
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (string) - Represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] ᱮᱢ ᱪᱷᱚ
+       *[disabled] ᱵᱚᱸᱫᱚᱭ
+    }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱩᱫᱩᱠ ᱥᱚᱫᱚᱨ, ᱦᱟᱨᱰ ᱣᱮᱭᱟᱨ ᱵᱮᱵᱚᱦᱟᱨ ᱟᱨ ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ ᱠᱚ ᱴᱮᱞᱤᱢᱮᱴᱨᱤ ᱫᱟᱨᱟᱭ ᱛᱮ ᱛᱩᱢᱟᱹᱞ ᱵᱟᱵᱚᱛ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱩᱫᱩᱜᱟ᱾ ᱱᱚᱣᱟ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱫᱚ { $telemetryServerOwner } ᱨᱮ ᱡᱚᱢᱟᱭᱟ { -brand-full-name } ᱞᱟᱦᱟ ᱨᱟᱠᱟᱵ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ᱾
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (string) - The section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = { $selectedTitle } ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
+about-telemetry-filter-all-placeholder =
+    .placeholder = ᱡᱷᱚᱛᱚ ᱛᱟᱞᱢᱟᱸ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
+# Variables:
+#   $searchTerms (string) - The searched terms
+about-telemetry-results-for-search = “{ $searchTerms }” ᱞᱟᱹᱜᱤᱫ ᱛᱮᱞᱟᱠᱚ
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
+about-telemetry-no-search-results = ᱤᱠᱟᱹ! “{ $currentSearchText }” ᱞᱟᱹᱜᱤᱫ { $sectionName } ᱨᱮ ᱪᱮᱫ ᱛᱮᱞᱟ ᱵᱟᱭ ᱧᱮᱢ ᱞᱮᱱᱟ
 # button label to copy the histogram
 about-telemetry-histogram-copy = ᱱᱚᱠᱚᱞ ᱢᱮ
 # these strings are used in the “Slow SQL Statements” section
