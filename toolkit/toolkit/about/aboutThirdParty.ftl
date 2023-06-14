@@ -97,7 +97,11 @@ third-party-requires-restart =
         [with-cases] Pro změnu blokovaných modulů třetích stran je potřeba { -brand-short-name(case: "acc") } restartovat.
        *[no-cases] Pro změnu blokovaných modulů třetích stran je potřeba aplikaci { -brand-short-name } restartovat.
     }
-third-party-blocking-requires-restart = Chcete-li blokovat modul třetí strany, musíte { -brand-short-name(case: "acc") } znovu spustit.
+third-party-blocking-requires-restart =
+    { -brand-short-name.case-status ->
+        [with-cases] Chcete-li zablokovat modul třetí strany, musíte { -brand-short-name(case: "acc") } restartovat.
+       *[no-cases] Chcete-li zablokovat modul třetí strany, musíte aplikaci { -brand-short-name } restartovat.
+    }
 third-party-should-restart-title =
     { -brand-short-name.case-status ->
         [with-cases] Restartovat { -brand-short-name(case: "acc") }

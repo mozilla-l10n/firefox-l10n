@@ -17,7 +17,11 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Správa jazyků
-translations-panel-settings-about = O překladech ve { -brand-shorter-name(case: "loc") }
+translations-panel-settings-about =
+    { -brand-shorter-name.case-status ->
+        [with-cases] O překladech ve { -brand-shorter-name(case: "loc") }
+       *[no-cases] O překladech v aplikaci { -brand-shorter-name }
+    }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
