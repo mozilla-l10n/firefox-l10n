@@ -22,10 +22,17 @@ about-webrtc-auto-refresh-label = ᱟᱡ ᱛᱮ ᱟᱹᱨᱩ
 
 ##
 
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = ᱞᱚᱠᱟᱞ SDP
+about-webrtc-local-sdp-heading-offer = ᱞᱚᱠᱟᱞ SDP (ᱚᱯᱷᱚᱨ)
 
 ##
 
