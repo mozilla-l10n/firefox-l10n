@@ -7,6 +7,7 @@ label-enable = ᱦᱩᱭ ᱦᱚᱪᱚ
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱺ ᱵᱚᱜᱽ { $bug }
+text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when
