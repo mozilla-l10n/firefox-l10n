@@ -29,7 +29,11 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Nemůže číst ani měnit data na tomto webu
-origin-controls-state-quarantined = Není povolené { -vendor-short-name(case: "ins") } na této stránce
+origin-controls-state-quarantined =
+    { -vendor-short-name.case-status ->
+        [with-cases] Není povolené { -vendor-short-name(case: "ins") } na této stránce
+       *[no-cases] Není povolené organizací { -vendor-short-name } na této stránce
+    }
 origin-controls-state-always-on = Může vždy číst a měnit data na tomto webu
 origin-controls-state-when-clicked = Pro čtení nebo změnu dat na tomto webu je nutné oprávnění
 origin-controls-state-hover-run-visit-only = Spustit pouze pro tuto návštěvu

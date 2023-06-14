@@ -10,8 +10,16 @@ pp-change-ok = Hlavní heslo bylo úspěšně změněno.
 pp-empty-warning = Vaše uložená hesla, data pro formuláře a soukromé klíče nebudou chráněny.
 pp-erased-ok = Varování! Odstranili jste své hlavní heslo. { pp-empty-warning }
 pp-not-wanted = Varování! Přestali jste používat své hlavní heslo. { pp-empty-warning }
-settings-pp-erased-ok = Smazali jste své hlavní heslo. Uložená hesla a soukromé klíče certifikátů spravované { -brand-short-name(case: "ins") } nebudou chráněné.
-settings-pp-not-wanted = Pozor! Rozhodli jste se nepoužít hlavní heslo. Uložená hesla a soukromé klíče certifikátů spravované { -brand-short-name(case: "ins") } nebudou chráněné.
+settings-pp-erased-ok =
+    { -brand-short-name.case-status ->
+        [with-cases] Smazali jste své hlavní heslo. Uložená hesla a soukromé klíče certifikátů spravované { -brand-short-name(case: "ins") } nebudou chráněné.
+       *[no-cases] Smazali jste své hlavní heslo. Uložená hesla a soukromé klíče certifikátů spravované aplikací { -brand-short-name } nebudou chráněné.
+    }
+settings-pp-not-wanted =
+    { -brand-short-name.case-status ->
+        [with-cases] Pozor! Rozhodli jste se nepoužít hlavní heslo. Uložená hesla a soukromé klíče certifikátů spravované { -brand-short-name(case: "ins") } nebudou chráněné.
+       *[no-cases] Pozor! Rozhodli jste se nepoužít hlavní heslo. Uložená hesla a soukromé klíče certifikátů spravované aplikací { -brand-short-name } nebudou chráněné.
+    }
 pp-change2empty-in-fips-mode = Momentálně jste v režimu FIPS, který vyžaduje neprázdné hlavní heslo.
 pw-change-success-title = Úspěšná změna hesla
 pw-change-failed-title = Neúspěšná změna hesla
