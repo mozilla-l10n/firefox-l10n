@@ -6,9 +6,19 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+# The text "WebRTC" is a proper noun and should not be translated.
+about-webrtc-document-title = WebRTC ᱤᱱᱴᱚᱨᱱᱟᱞᱥ
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = ᱞᱮᱠᱷ about:webrtc ᱥᱟᱺᱪᱟᱣ
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-msg-label = AEC ᱞᱚᱜᱤᱝ
+about-webrtc-aec-logging-off-state-label = AEC ᱞᱚᱜᱤᱝᱮ ᱮᱛᱦᱚᱵ ᱢᱮ
+about-webrtc-aec-logging-on-state-label = AEC ᱞᱚᱜᱤᱝ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = ᱟᱡ ᱛᱮ ᱟᱹᱨᱩ
 
 ##
 
@@ -49,6 +59,10 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ᱵᱚ�
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+
 ##
 
 
@@ -63,6 +77,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ᱵᱚ�
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
+
+
+## These are displayed on the button that shows or hides the SDP information disclosure
 
 
 ##
