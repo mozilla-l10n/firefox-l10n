@@ -868,6 +868,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Več o tem
 relay-integration =
     .label = Omogočite { -relay-brand-name } v { -brand-short-name }ovem upravitelju gesel
+preferences-relay-integration-checkbox =
+    .label = Predlagaj e-poštne maske { -relay-brand-name }, s katerimi lahko zaščitite svoj e-poštni naslov
 relay-integration-learn-more-link = Več o tem
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

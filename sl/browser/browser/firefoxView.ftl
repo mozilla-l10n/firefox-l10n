@@ -98,9 +98,15 @@ firefoxview-opentabs-header = Odprti zavihki
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nedavno zaprti zavihki
+    .title = Nedavno zaprti zavihki
+firefoxview-recently-closed-header = Nedavno zaprti zavihki
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Zavihki z drugih naprav
+    .title = Zavihki z drugih naprav
+firefoxview-synced-tabs-header = Zavihki z drugih naprav
 
 ##
 

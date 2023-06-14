@@ -57,10 +57,12 @@ migration-favorites-option-label = priljubljene
 migration-logins-and-passwords-option-label = shranjene prijave in gesla
 migration-history-option-label = zgodovina brskanja
 migration-form-autofill-option-label = podatki za izpolnjevanje obrazcev
+migration-passwords-from-file-progress-header = Uvozi datoteko z gesli
 migration-passwords-from-file-success-header = Gesla so uspešno uvožena
 migration-passwords-from-file = Iskanje gesel v datoteki
 migration-passwords-new = Nova gesla
 migration-passwords-updated = Obstoječa gesla
+migration-passwords-from-file-picker-title = Uvozi datoteko z gesli
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -98,6 +100,21 @@ migration-wizard-progress-success-updated-passwords =
         [two] { $updatedEntries } posodobljeni
         [few] { $updatedEntries } posodobljena
        *[other] { $updatedEntries } posodobljenih
+    }
+migration-bookmarks-from-file-picker-title = Uvozi datoteko z zaznamki
+migration-bookmarks-from-file-progress-header = Uvažanje zaznamkov
+migration-bookmarks-from-file-success-header = Zaznamki so uspešno uvoženi
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } zaznamek
+        [two] { $newEntries } zaznamka
+        [few] { $newEntries } zaznamki
+       *[other] { $newEntries } zaznamkov
     }
 migration-import-button-label = Uvozi
 migration-choose-to-import-from-file-button-label = Uvozi iz datoteke

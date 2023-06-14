@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Razširitev ne more brati ali spreminjati podatkov
+origin-controls-quarantined =
+    .label = Razširitvi ni dovoljeno brati ali spreminjati podatkov
 origin-controls-options =
     .label = Razširitev lahko bere ali spreminja podatke:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Nima dostopa do podatkov na tej strani
+origin-controls-state-quarantined = { -vendor-short-name } ne dovoli na tem spletnem mestu
 origin-controls-state-always-on = Lahko bere ali spreminja podatke na tej strani
 origin-controls-state-when-clicked = Za branje in spreminjanje podatkov potrebuje dovoljenje
 origin-controls-state-hover-run-visit-only = Zaženi le ob tem obisku
