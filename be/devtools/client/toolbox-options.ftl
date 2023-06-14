@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Уключыць аддаленую адладку
 options-enable-remote-tooltip2 =
     .title = Уключэнне гэтага параметра дазволіць аддаленую адладку гэтага экзэмпляра браўзера
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Выкарыстоўваць клавішу F12, каб адкрыць або закрыць прылады распрацоўшчыка
+options-enable-f12-tooltip =
+    .title = Уключэнне гэтай налады прывязвае клавішу F12 да адкрыцця або закрыцця панэлі прылад распрацоўшчыка.
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Уключыць карыстальніцкія сродкі фарматавання
 options-enable-custom-formatters-tooltip =
