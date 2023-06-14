@@ -72,6 +72,17 @@ about-telemetry-results-for-search = “{ $searchTerms }” ᱞᱟᱹᱜᱤᱫ �
 #   $sectionName (string) - The section name from the structure of the ping.
 #   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = ᱤᱠᱟᱹ! “{ $currentSearchText }” ᱞᱟᱹᱜᱤᱫ { $sectionName } ᱨᱮ ᱪᱮᱫ ᱛᱮᱞᱟ ᱵᱟᱭ ᱧᱮᱢ ᱞᱮᱱᱟ
+# Variables:
+#   $searchTerms (string) - The searched terms
+about-telemetry-no-search-results-all = ᱤᱠᱟᱹ! “{ $searchTerms }” ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱛᱮᱞᱟ ᱵᱟᱭ ᱧᱮᱢ ᱞᱮᱱᱟ
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (string) - Is replaced by the section name.
+about-telemetry-no-data-to-display = ᱤᱠᱟᱹ! “{ $sectionName }” ᱞᱟᱹᱜᱤᱫ ᱱᱤᱛ ᱫᱷᱟᱹᱵᱤᱡ ᱪᱮᱫ ᱰᱟᱴᱟ ᱵᱟᱭ ᱧᱮᱢ ᱞᱮᱱᱟ
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = ᱱᱤᱛᱚᱜᱟᱜ ᱰᱟᱴᱟ
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = ᱡᱷᱚᱛᱚ
 # button label to copy the histogram
 about-telemetry-histogram-copy = ᱱᱚᱠᱚᱞ ᱢᱮ
 # these strings are used in the “Slow SQL Statements” section
@@ -87,9 +98,22 @@ about-telemetry-addon-table-details = ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 #   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } ᱮᱢᱚᱜᱤᱡ
 about-telemetry-keys-header = ᱜᱩᱱ
+about-telemetry-names-header = ᱧᱩᱛᱩᱢ
+about-telemetry-values-header = ᱮᱞ
 # Variables:
 #   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = ᱵᱤᱞᱚᱢ ᱛᱮ ᱚᱞ #{ $lateWriteCount }
 about-telemetry-stack-title = ᱰᱟᱸᱜ:
 about-telemetry-memory-map-title = ᱢᱮᱢᱚᱨᱤ ᱱᱚᱠᱥᱟ:
 about-telemetry-error-fetching-symbols = ᱢᱤᱫ ᱵᱷᱩᱞ ᱧᱟᱢᱮᱱᱟ ᱛᱤᱱ ᱨᱮ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱮᱱ ᱠᱟᱛᱮ ᱟᱹᱜᱩᱭᱮᱫ ᱟ᱾ ᱧᱮᱞ ᱢᱮ ᱡᱮ ᱟᱢ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱨᱮᱢ ᱡᱚᱲᱟᱣᱟᱠᱟᱱᱟ ᱟᱨ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ᱾
+about-telemetry-time-stamp-header = ᱚᱠᱛᱚ ᱪᱷᱟᱯᱟ
+about-telemetry-category-header = ᱛᱷᱚᱠ
+about-telemetry-method-header = ᱱᱤᱭᱚᱢ
+about-telemetry-object-header = ᱡᱤᱱᱤᱥ
+about-telemetry-extra-header = ᱵᱟᱹᱲᱛᱤ
+about-telemetry-origin-section = ᱢᱩᱞ ᱴᱮᱞᱤᱢᱮᱴᱨᱭ
+about-telemetry-origin-origin = ᱢᱩᱞ
+about-telemetry-origin-count = ᱦᱤᱥᱟᱹᱵ
+# Variables:
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
