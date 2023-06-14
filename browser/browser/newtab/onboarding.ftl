@@ -44,7 +44,7 @@ mr1-return-to-amo-subtitle = Salută { -brand-short-name }
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
-    .aria-label = Noțiuni introductive: ecran { $actual } din { $total }
+    .aria-label = Noțiuni introductive: ecran { $current } din { $total }
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
