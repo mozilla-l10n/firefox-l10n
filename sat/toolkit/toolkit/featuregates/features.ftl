@@ -12,7 +12,13 @@ experimental-features-css-masonry-description = ᱧᱮᱞᱵᱤᱲᱟᱹᱣ CSS 
 experimental-features-web-gpu2 =
     .label = ᱣᱮᱵᱽ API: WebGPU
 experimental-features-web-gpu-description2 = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱥᱟᱫᱷᱚᱱ ᱥᱮ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ  <a data-l10n-name="wikipedia">ᱜᱽᱨᱟᱯᱷᱤᱠᱥ ᱯᱨᱚᱥᱮᱥᱤᱝ ᱭᱩᱱᱤᱴ (GPU)</a> ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ ᱱᱟᱶᱟ API ᱫᱚ ᱞᱚ ᱞᱮᱣᱮᱞ ᱥᱚᱦᱚᱫ ᱮ ᱮᱢᱟᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱠᱚᱢᱯᱭᱩᱴᱮᱥᱚᱱ ᱟᱨ ᱜᱽᱨᱟᱡᱷᱤᱠᱥ ᱨᱤᱱᱰᱚᱨᱤᱝ ᱠᱚᱨᱟᱣᱟᱭ ᱾ <a data-l10n-name="spec">ᱥᱯᱮᱥᱤᱯᱷᱤᱠᱮᱥᱚᱱ</a> ᱫᱚ ᱱᱤᱛ ᱦᱚᱸ ᱠᱟᱹᱢᱤ ᱪᱟᱹᱞᱩ ᱠᱟᱱᱟ ᱾ ᱡᱟᱹᱥᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="bugzilla">ᱰᱤᱜᱟᱹᱣ 1602129</a> ᱧᱮᱞ ᱢᱮ ᱾
+experimental-features-web-gpu-description3 = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱥᱟᱫᱷᱚᱱ ᱥᱮ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ  <a data-l10n-name="wikipedia-gpu">ᱜᱽᱨᱟᱯᱷᱤᱠᱥ ᱯᱨᱚᱥᱮᱥᱤᱝ ᱭᱩᱱᱤᱴ (GPU)</a> ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ <a data-l10n-name="wikipedia-webgpu">API</a> ᱫᱚ ᱞᱚ ᱞᱮᱣᱮᱞ ᱥᱚᱦᱚᱫ ᱮ ᱮᱢᱟᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱠᱚᱢᱯᱭᱩᱴᱮᱥᱚᱱ ᱟᱨ ᱜᱽᱨᱟᱡᱷᱤᱠᱥ ᱨᱤᱱᱰᱚᱨᱤᱝ ᱠᱚᱨᱟᱣᱟᱭ ᱾ <a data-l10n-name="spec">ᱥᱯᱮᱥᱤᱯᱷᱤᱠᱮᱥᱚᱱ</a> ᱨᱮᱭᱟᱜ ᱯᱩᱭᱞᱩ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱫᱚ ᱱᱤᱛᱚᱜ ᱪᱟᱵᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱾ ᱡᱟᱹᱥᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="bugzilla">ᱰᱤᱜᱟᱹᱣ 1616739</a> ᱧᱮᱞ ᱢᱮ ᱾
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = ᱢᱤᱰᱤᱭᱟ : JPEG XL
+experimental-features-media-jxl-description = ᱱᱚᱶᱟ ᱯᱷᱤᱪᱚᱨ ᱮᱢ ᱪᱷᱚ ᱞᱮᱠᱷᱟᱱ, { -brand-short-name } ᱫᱚ JPEG XL (JXL) ᱮ ᱥᱚᱦᱚᱫ ᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ JPEG ᱨᱮᱫᱽ ᱠᱷᱚᱱ ᱢᱤᱫ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱠᱟᱱ ᱪᱤᱛᱟᱹᱨ ᱯᱷᱚᱨᱢᱟᱴ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱫ ᱦᱟᱹᱴᱤᱧ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="bugzilla">ᱰᱤᱜᱟᱹᱣ 1539075</a> ᱧᱮᱞ ᱢᱮ ᱾
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: ᱛᱮᱭᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱥᱴᱟᱭᱤᱞᱥᱤᱴ
