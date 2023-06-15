@@ -72,5 +72,20 @@ about-glean-label-for-ping-names =
     ᱟᱨᱵᱟᱝᱠᱷᱟᱱ, <code>ᱜᱚᱴᱱᱟ</code> ᱨᱮᱭᱟᱜ ᱟᱝᱲᱟ ᱫᱚ 
     <code>ᱜᱚᱴᱱᱟ</code> ᱯᱤᱝ ᱜᱮ ᱠᱟᱱᱟ ᱟᱨ ᱮᱴᱟᱜ ᱟᱝᱲᱟ ᱨᱮᱭᱟᱜ ᱢᱩᱞ ᱫᱚ
     <code>ᱟᱝᱲᱟ</code> ᱯᱤᱝ ᱠᱟᱱᱟ ᱾
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱾ ᱧᱮᱞ ᱢᱮ ᱡᱩᱫᱤ ᱢᱟᱲᱟᱝᱟᱜ ᱵᱟᱠᱚᱥ ᱡᱟᱦᱟᱸ ᱫᱚ ᱯᱤᱝ ᱵᱚᱞᱚᱱ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱥᱟ ᱵᱟᱝᱟ ᱡᱚᱢᱟ ᱡᱷᱚᱜ ᱾
+    ᱟᱢ ᱫᱚ ᱥᱟᱶᱛᱮ ᱟᱢ ᱫᱚ <a data-l10n-name="enable-logging-link">ᱵᱚᱞᱚ ᱮᱢ</a> ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    ᱡᱷᱚᱛᱚ ᱴᱮᱜᱽ ᱥᱟᱱᱟᱢ ᱠᱟᱱ { -glean-brand-name } ᱯᱚᱝ ᱠᱚ ᱢᱟᱲᱟᱝᱟᱜ ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱟᱨ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱯᱤᱝ ᱡᱚᱢᱟᱭ ᱢᱮ ᱾
+    (ᱡᱷᱚᱛᱚ ᱯᱤᱝ ᱩᱱ ᱡᱷᱚᱜ ᱠᱷᱚᱱ ᱡᱚᱢᱟ ᱠᱟᱱ ᱫᱚ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱮᱛᱦᱚᱵ ᱫᱷᱟᱹᱵᱤᱡ
+    <code>{ $debug-tag }</code> ᱛᱮ ᱴᱮᱜᱽᱚᱜᱼᱟ ᱾)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">ᱟᱢᱟᱜ ᱴᱮᱜᱽ ᱥᱟᱞᱟᱜ ᱯᱤᱝ ᱠᱚ ᱞᱟᱹᱜᱤᱫ { glean-debug-ping-viewer-brand-name } ᱥᱟᱦᱴᱟ ᱪᱟᱞᱟᱜ ᱢᱮ </a>᱾
+    ᱱᱚᱶᱟ ᱫᱚ ᱟᱹᱰᱤ ᱠᱚᱢ ᱴᱤᱡ ᱜᱟᱱ ᱤᱫᱤᱭᱟᱭ ᱵᱩᱛᱟᱹᱢ ᱞᱤᱱ ᱠᱟᱛᱮ ᱟᱢ ᱴᱷᱮᱱ ᱯᱤᱝ ᱥᱮᱴᱮᱨᱚᱜ ᱫᱷᱟᱹᱵᱤᱡ ᱾
+    ᱛᱤᱧ ᱡᱷᱚᱜ ᱱᱟᱶᱟ ᱫᱚ ᱴᱤᱯᱤᱡ ᱜᱟᱱ ᱚᱠᱛᱚ ᱦᱚᱸ ᱤᱫᱤ ᱜᱮᱭᱟᱭ ᱾
 controls-button-label-verbose = ᱥᱟᱡᱟᱣᱠᱚ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱟᱨ ᱯᱤᱝ ᱡᱚᱢᱟᱭ ᱢᱮ
 about-glean-about-data-header = ᱰᱟᱴᱟ ᱵᱟᱵᱚᱛ
