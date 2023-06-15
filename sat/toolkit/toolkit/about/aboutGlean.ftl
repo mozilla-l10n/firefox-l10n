@@ -6,6 +6,7 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Glean ᱵᱟᱵᱚᱛ
+about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> ᱫᱚ ᱢᱤᱫ ᱰᱟᱴᱟ ᱡᱟᱣᱨᱟ ᱢᱩᱨᱩᱭ ᱠᱟᱱ ᱡᱟᱦᱟᱸ ᱫᱚ Mozilla ᱡᱤᱱᱤᱥ ᱠᱚᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱨ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸᱭ ᱫᱚ <a data-l10n-name="fog-debug-doc-link">Glean SDK ᱨᱮ ᱰᱮᱵᱟᱹᱜᱤᱝ ᱟᱨ ᱵᱚᱞᱚ ᱫᱚᱥᱟ ᱠᱚ ᱥᱮᱴ ᱟ</a> ᱾
 send-pings-label = ᱧᱩᱛᱩᱢ ᱠᱟᱱ ᱯᱤᱝ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 controls-button-label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱯᱟᱨᱥᱟᱞ ᱢᱮ
 
