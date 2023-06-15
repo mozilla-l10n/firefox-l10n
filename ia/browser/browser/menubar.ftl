@@ -108,7 +108,7 @@ menu-file-go-offline =
 
 menu-edit =
     .label = Modificar
-    .accesskey = E
+    .accesskey = o
 menu-edit-find-in-page =
     .label = Cercar in le pagina…
     .accesskey = C
