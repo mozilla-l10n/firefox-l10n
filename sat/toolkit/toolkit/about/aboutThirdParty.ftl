@@ -4,6 +4,10 @@
 
 third-party-page-title = ᱛᱮᱥᱟᱨᱼᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱥ ᱵᱤᱵᱨᱚᱬ
 third-party-section-title = { -brand-short-name } ᱨᱮ ᱛᱮᱥᱟᱨᱼᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ
+third-party-intro =
+    ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱛᱮᱥᱟᱨ ᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞ ᱮ ᱫᱮᱠᱷᱟ ᱮᱫᱟᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢᱟᱜ
+    { -brand-short-name } ᱨᱮ ᱠᱷᱚᱧᱡᱟᱜᱼᱟ ᱾ ᱡᱟᱦᱟᱸ ᱢᱳᱰᱭᱩᱞ Microsoft ᱥᱮ
+    { -vendor-short-name } ᱛᱮ ᱵᱟᱭ ᱥᱩᱦᱤ ᱠᱚᱜᱼᱟ ᱚᱱᱟ ᱠᱚ ᱫᱚ ᱛᱮᱥᱟᱨᱼᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞ ᱢᱮᱱᱛᱮ ᱠᱚ ᱢᱮᱱᱚᱜᱚᱜᱼᱟ ᱾
 third-party-message-empty = ᱛᱮᱥᱟᱨᱼᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞ ᱵᱟᱭ ᱪᱤᱱᱦᱟᱹᱣ ᱞᱮᱱᱟ
 third-party-message-no-duration = ᱵᱟᱭ ᱨᱮᱠᱚᱰ ᱞᱮᱱᱟ
 third-party-detail-version = ᱨᱚᱫᱽ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
