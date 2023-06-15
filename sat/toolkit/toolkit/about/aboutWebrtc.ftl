@@ -124,25 +124,117 @@ about-webrtc-width-px = ᱚᱥᱟᱨ (px)
 about-webrtc-height-px = ᱩᱥᱩᱞ (px)
 about-webrtc-consecutive-frames = ᱤᱱᱟᱹᱛᱟᱭᱚᱢᱤᱱᱟᱹ ᱯᱷᱨᱮᱢᱠᱚ
 about-webrtc-time-elapsed = ᱪᱟᱞᱟᱣ ᱠᱟᱱ ᱚᱠᱛᱚ (s)
+about-webrtc-estimated-framerate = ᱵᱟᱹᱭᱥᱟᱹᱣᱠᱟᱱ ᱯᱷᱨᱮᱢᱫᱚᱨ
+about-webrtc-rotation-degrees = ᱟᱹᱪᱩᱨ (ᱰᱤᱜᱽᱨᱤ)
+about-webrtc-first-frame-timestamp = ᱯᱩᱭᱞᱩ ᱯᱷᱨᱮᱢ ᱨᱤᱥᱮᱯᱥᱚᱱ ᱚᱠᱛᱚᱪᱷᱟᱯᱟ
+about-webrtc-last-frame-timestamp = ᱢᱩᱪᱟᱹᱫ ᱯᱷᱨᱮᱢ ᱨᱤᱥᱮᱯᱥᱚᱱ ᱚᱠᱛᱚᱪᱷᱟᱯᱟ
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = ᱥᱩᱯᱩᱨ ᱫᱚ SSRC ᱧᱟᱢᱮᱫᱟᱭ
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = ᱡᱷᱟᱹᱞ ᱛᱮ ᱵᱷᱮᱡᱟᱮᱫ SSRC
 
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = ᱠᱚᱱᱯᱷᱤᱜᱩᱨᱮᱥᱚᱱ ᱫᱮᱠᱷᱟᱣᱢᱮ
+about-webrtc-pc-configuration-hide-msg = ᱠᱚᱱᱯᱷᱤᱜᱩᱨᱮᱥᱚᱱ ᱩᱠᱩᱭᱢᱮ
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = ᱮᱢ ᱠᱟᱱᱟ
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = ᱵᱟᱝ ᱮᱢ ᱠᱟᱱᱟ
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱫᱚ WebRTC ᱠᱩᱥᱤᱠᱚ ᱥᱮᱴ ᱠᱟᱫᱟᱭ
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = ᱚᱱᱩᱢᱟᱱ ᱠᱚᱱ ᱵᱮᱱᱰᱣᱤᱰᱛᱷ
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = ᱪᱤᱱᱦᱟᱹᱣᱤᱭᱟᱹ ᱯᱟᱧᱡᱟ
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = ᱵᱮᱱᱰᱣᱤᱰᱛᱷ ᱵᱷᱮᱡᱟᱭ ᱢᱮ (bytes/sec)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = ᱵᱮᱱᱰᱣᱤᱰᱛᱷ ᱧᱮᱢ ᱢᱮ (bytes/sec)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱯᱮᱰᱤᱝ (bytes/sec)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = ᱯᱮᱥᱚᱨ ᱵᱤᱞᱚᱢ ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = ᱵᱷᱤᱰᱤᱭᱚ ᱯᱷᱮᱢ ᱟᱸᱠᱲᱟ - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = ᱛᱮ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ: { $path }
+about-webrtc-debug-mode-off-state-msg = ᱨᱮ ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
+about-webrtc-debug-mode-on-state-msg = ᱰᱮᱵᱩᱜ ᱢᱳᱰ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ, ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ : { $path }
+about-webrtc-aec-logging-off-state-msg = ᱨᱮ ᱦᱟᱛᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱽ ᱨᱮᱫᱽᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } ᱯᱷᱨᱮᱢ
+        [two] { $frames } ᱯᱷᱨᱮᱢᱠᱤᱱ
+       *[other] { $frames } ᱯᱷᱨᱮᱢᱠᱚ
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } ᱪᱟᱱᱮᱞ
+        [two] { $channels } ᱪᱟᱱᱮᱞᱠᱤᱱ
+       *[other] { $channels } ᱪᱟᱱᱮᱞᱠᱚ
+    }
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] { $packets } ᱯᱮᱠᱮᱴ ᱧᱟᱢ ᱮᱱᱟ
+        [two] { $packets } ᱯᱮᱠᱮᱴᱠᱤᱱ ᱧᱟᱢ ᱮᱱᱟ
+       *[other] { $packets } ᱯᱮᱠᱮᱴᱠᱚ ᱧᱟᱢ ᱮᱱᱟ
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] { $packets } ᱯᱮᱠᱮᱴ ᱟᱫ ᱮᱱᱟ
+        [two] { $packets } ᱯᱮᱠᱮᱴᱠᱤᱱ ᱟᱫ ᱮᱱᱟ
+       *[other] { $packets } ᱯᱮᱠᱮᱴᱠᱚ ᱟᱫ ᱮᱱᱟ
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] { $packets } ᱯᱮᱠᱮᱴ ᱵᱷᱮᱡᱟ ᱮᱱᱟ
+        [two] { $packets } ᱯᱮᱠᱮᱴᱠᱤᱱ ᱵᱷᱮᱡᱟ ᱮᱱᱟ
+       *[other] { $packets } ᱯᱮᱠᱮᱴᱠᱚ ᱵᱷᱮᱡᱟ ᱮᱱᱟ
+    }
+# Jitter is the variance in the arrival time of packets.
+# See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
+# Variables:
+#   $jitter (Number) - The jitter.
+about-webrtc-jitter-label = ᱡᱤᱴᱚᱨ { $jitter }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -150,6 +242,8 @@ about-webrtc-time-elapsed = ᱪᱟᱞᱟᱣ ᱠᱟᱱ ᱚᱠᱛᱚ (s)
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = SDP ᱫᱮᱠᱷᱟᱣ
+about-webrtc-hide-msg-sdp = SDP ᱩᱠᱩ
 
 ##
 
