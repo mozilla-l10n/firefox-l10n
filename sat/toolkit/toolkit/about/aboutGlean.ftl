@@ -64,5 +64,13 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (ᱯᱤᱝ ᱫᱚ ᱟᱞᱚᱢ ᱡᱚᱢᱟᱭ ᱟ)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = ᱞᱟᱦᱟᱜ ᱠᱟᱱ ᱡᱟᱭᱜᱟ ᱨᱮ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ ᱡᱮ ᱰᱮᱵᱩᱜᱽ ᱴᱮᱜᱽ ᱫᱚ ᱢᱚᱱᱮ ᱫᱚᱦᱚ ᱞᱮᱠᱷᱟ ᱪᱟᱦᱮᱸᱱ ᱢᱟᱸ ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱯᱤᱝ ᱛᱟᱭᱚᱢ ᱛᱮ ᱩᱭᱦᱟᱹᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    ᱟᱢᱟᱜ ᱢᱟᱲᱟᱝᱟᱜ ᱯᱤᱝ ᱤᱱᱥᱨᱩᱢᱮᱱᱴᱮᱥᱚᱱ ᱞᱤᱥᱴᱤ ᱠᱷᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+    ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱫᱚ <a data-l10n-name="custom-ping-link">ᱠᱚᱥᱴᱚᱢ ᱯᱤᱝ</a> ᱨᱮ ᱢᱮᱱᱟᱜ ᱠᱷᱟᱱ, ᱚᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+    ᱟᱨᱵᱟᱝᱠᱷᱟᱱ, <code>ᱜᱚᱴᱱᱟ</code> ᱨᱮᱭᱟᱜ ᱟᱝᱲᱟ ᱫᱚ 
+    <code>ᱜᱚᱴᱱᱟ</code> ᱯᱤᱝ ᱜᱮ ᱠᱟᱱᱟ ᱟᱨ ᱮᱴᱟᱜ ᱟᱝᱲᱟ ᱨᱮᱭᱟᱜ ᱢᱩᱞ ᱫᱚ
+    <code>ᱟᱝᱲᱟ</code> ᱯᱤᱝ ᱠᱟᱱᱟ ᱾
 controls-button-label-verbose = ᱥᱟᱡᱟᱣᱠᱚ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱟᱨ ᱯᱤᱝ ᱡᱚᱢᱟᱭ ᱢᱮ
 about-glean-about-data-header = ᱰᱟᱴᱟ ᱵᱟᱵᱚᱛ
