@@ -62,5 +62,7 @@ about-glean-manual-testing =
     ᱢᱮᱱᱠᱷᱟᱱ, ᱠᱷᱟᱴᱚ ᱛᱮ ᱞᱟᱹᱭ ᱞᱮᱠᱷᱟᱱ, ᱟᱢᱟᱜ ᱤᱱᱥᱴᱨᱩᱢᱮᱱᱴᱮᱥᱚᱱ ᱱᱤᱡ ᱛᱮ ᱠᱚᱨᱟ ᱞᱮᱠᱷᱟᱱ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟᱭ ᱥᱮ ᱵᱟᱝᱟ, ᱟᱢ ᱫᱚ :
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ᱯᱤᱝ ᱫᱚ ᱟᱞᱚᱢ ᱡᱚᱢᱟᱭ ᱟ)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = ᱞᱟᱦᱟᱜ ᱠᱟᱱ ᱡᱟᱭᱜᱟ ᱨᱮ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ ᱡᱮ ᱰᱮᱵᱩᱜᱽ ᱴᱮᱜᱽ ᱫᱚ ᱢᱚᱱᱮ ᱫᱚᱦᱚ ᱞᱮᱠᱷᱟ ᱪᱟᱦᱮᱸᱱ ᱢᱟᱸ ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱯᱤᱝ ᱛᱟᱭᱚᱢ ᱛᱮ ᱩᱭᱦᱟᱹᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 controls-button-label-verbose = ᱥᱟᱡᱟᱣᱠᱚ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱟᱨ ᱯᱤᱝ ᱡᱚᱢᱟᱭ ᱢᱮ
 about-glean-about-data-header = ᱰᱟᱴᱟ ᱵᱟᱵᱚᱛ
