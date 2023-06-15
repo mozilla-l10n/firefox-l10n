@@ -54,3 +54,13 @@ close-tab =
     .title = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 show-addon =
     .title = ᱮᱰ-ᱚᱱ ᱢᱮᱱᱮᱡᱚᱨ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        ᱠᱷᱚᱱ ᱞᱟᱫᱮ ᱯᱟᱨᱥᱟᱞ: { $totalDispatches } ({ $totalDuration }ms)
+        ᱢᱩᱪᱟᱹᱫ ᱴᱤᱡ ᱠᱷᱚᱱ ᱞᱟᱫᱮ ᱯᱟᱨᱥᱟᱞ: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)

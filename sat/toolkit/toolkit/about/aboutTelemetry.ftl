@@ -17,6 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = ᱴᱮᱞᱤ ᱢᱮᱴᱨᱤ ᱰᱟᱴᱟ
 about-telemetry-current-store = ᱱᱤᱛᱚᱜ ᱫᱚᱠᱟᱱ :
 about-telemetry-more-information = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱯᱟᱱᱛᱮ ᱮᱫᱟᱢ ᱥᱮ ?
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox ᱫᱟᱴᱟ ᱫᱚᱞᱤᱞᱤᱭᱟᱹ</a>ᱨᱮ ᱫᱚ ᱜᱚᱲᱚ ᱡᱤᱱᱤᱥ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱛᱮ ᱟᱢ ᱟᱞᱮᱭᱟᱜ ᱰᱟᱴᱟ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚᱢ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox ᱴᱮᱞᱤᱢᱮᱴᱨᱤ ᱠᱞᱟᱭᱮᱸᱴ ᱫᱚᱞᱤᱞᱤᱭᱟᱹ</a> ᱴᱷᱮᱱ ᱫᱚ ᱠᱚᱱᱥᱮᱯᱴ, API ᱫᱚᱞᱤᱞᱤᱭᱟᱹ ᱟᱨ ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ ᱠᱚᱣᱟᱜ ᱢᱮᱱᱮᱛ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">ᱴᱮᱞᱤᱢᱮᱴᱨᱤ ᱰᱮᱥᱵᱚᱰ </a> ᱫᱚ ᱴᱮᱞᱤᱢᱮᱴᱨᱤ ᱛᱮ Mozilla ᱧᱟᱢᱮᱫ ᱰᱮᱴᱟ ᱠᱚ ᱟᱢ ᱧᱮᱞ ᱫᱟᱲᱮ ᱪᱷᱚ ᱢᱮᱭᱟᱭ ᱾
 about-telemetry-show-in-Firefox-json-viewer = JSON ᱫᱮᱠᱷᱟᱣᱤᱭᱟᱹ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
 about-telemetry-home-section = ᱚᱲᱟᱜ
 about-telemetry-general-data-section = ᱥᱟᱫᱷᱨᱚᱬ ᱰᱟᱴᱟ

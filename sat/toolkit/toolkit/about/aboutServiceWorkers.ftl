@@ -5,6 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = ᱵᱷᱟᱹᱞᱟᱹᱭ ᱠᱟᱹᱢᱤᱦᱚᱲ ᱵᱟᱵᱚᱛ
+about-service-workers-main-title = ᱥᱚᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱠᱩᱜ ᱧᱩᱛᱩᱢ ᱞᱮᱠᱷᱟ ᱠᱟᱫᱟ ᱠᱚ
+about-service-workers-warning-not-enabled = ᱵᱷᱟᱹᱞᱟᱹᱭ ᱠᱟᱹᱢᱤᱦᱚᱲ ᱵᱟᱝ ᱮᱢ ᱠᱟᱱᱟ ᱾
+about-service-workers-warning-no-service-workers = ᱪᱮᱫ ᱦᱚᱸ ᱵᱷᱟᱹᱞᱟᱹᱭ ᱠᱟᱹᱢᱤᱦᱚᱲ ᱵᱟᱝ ᱧᱩᱛᱩᱢ ᱠᱟᱱᱟ ᱾
 # The original title of service workers' information
 #
 # Variables:
