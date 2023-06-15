@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button =
+    .tooltiptext = ແປຫນ້ານີ້
+translations-panel-settings-button =
+    .aria-label = ຈັດການການຕັ້ງຄ່າການແປ
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -25,6 +30,11 @@ translations-panel-settings-always-translate-unknown-language =
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
     .label = ບໍ່ຕ້ອງແປ { $language }
+translations-panel-settings-never-translate-unknown-language =
+    .label = ບໍ່ຕ້ອງແປພາສານີ້
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = ບໍ່ຕ້ອງແປເວັບໄຊທ໌ນີ້
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
