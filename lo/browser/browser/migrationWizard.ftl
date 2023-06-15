@@ -91,6 +91,8 @@ migration-wizard-progress-success-new-passwords = ເພີ່ມ { $newEntries 
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = ອັບເດດ { $updatedEntries } ແລ້ວ
+migration-bookmarks-from-file = ບຸກມາກ
+migration-bookmarks-from-file-success-header = ນຳເຂົ້າບຸກມາກສຳເລັດແລ້ວ
 migration-import-button-label = ນຳເຂົ້າ
 migration-choose-to-import-from-file-button-label = ນໍາເຂົ້າຈາກໄຟລ໌
 migration-import-from-file-button-label = ເລືອກ File
@@ -161,4 +163,3 @@ migration-wizard-progress-success-formdata = ແບບຟອມປະຫວັ�
 migration-wizard-safari-permissions-sub-header = ເພື່ອນໍາເຂົ້າ bookmarks Safari ແລະປະຫວັດການທ່ອງເວັບ:
 migration-wizard-safari-instructions-continue = ເລືອກ "ສືບຕໍ່"
 migration-wizard-safari-instructions-folder = ເລືອກໂຟນເດີ Safari ໃນບັນຊີລາຍຊື່ແລະເລືອກ "Open"
-migration-wizard-safari-select-button = ເລືອກ File
