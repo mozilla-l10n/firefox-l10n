@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = ᱧᱮᱞᱵᱤᱲᱟᱹᱣ CSS 
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = ᱣᱮᱵᱽ API: WebGPU
+experimental-features-web-gpu-description2 = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱥᱟᱫᱷᱚᱱ ᱥᱮ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ  <a data-l10n-name="wikipedia">ᱜᱽᱨᱟᱯᱷᱤᱠᱥ ᱯᱨᱚᱥᱮᱥᱤᱝ ᱭᱩᱱᱤᱴ (GPU)</a> ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ ᱱᱟᱶᱟ API ᱫᱚ ᱞᱚ ᱞᱮᱣᱮᱞ ᱥᱚᱦᱚᱫ ᱮ ᱮᱢᱟᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱠᱚᱢᱯᱭᱩᱴᱮᱥᱚᱱ ᱟᱨ ᱜᱽᱨᱟᱡᱷᱤᱠᱥ ᱨᱤᱱᱰᱚᱨᱤᱝ ᱠᱚᱨᱟᱣᱟᱭ ᱾ <a data-l10n-name="spec">ᱥᱯᱮᱥᱤᱯᱷᱤᱠᱮᱥᱚᱱ</a> ᱫᱚ ᱱᱤᱛ ᱦᱚᱸ ᱠᱟᱹᱢᱤ ᱪᱟᱹᱞᱩ ᱠᱟᱱᱟ ᱾ ᱡᱟᱹᱥᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="bugzilla">ᱰᱤᱜᱟᱹᱣ 1602129</a> ᱧᱮᱞ ᱢᱮ ᱾
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
