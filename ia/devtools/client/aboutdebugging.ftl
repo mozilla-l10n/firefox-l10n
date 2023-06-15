@@ -9,10 +9,11 @@
 # Page Title strings
 
 # Page title (ie tab title) for the Setup page
-about-debugging-page-title-setup-page = Correction de errores – Installation
+about-debugging-page-title-setup-page = Depuration – Installation
 # Page title (ie tab title) for the Runtime page
-# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
-about-debugging-page-title-runtime-page = Correction de errores - runtime / { $selectedRuntimeId }
+# Variables:
+#   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
+about-debugging-page-title-runtime-page = Depuration - Execution / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -26,10 +27,10 @@ about-debugging-sidebar-this-firefox =
 about-debugging-sidebar-setup =
     .name = Installation
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
-about-debugging-sidebar-usb-enabled = USB activate
+about-debugging-sidebar-usb-enabled = USB active
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
-about-debugging-sidebar-usb-disabled = USB disactivate
+about-debugging-sidebar-usb-disabled = USB inactive
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Connectite
 # Connection status (disconnected) for runtime items in the sidebar
@@ -56,10 +57,15 @@ about-debugging-sidebar-runtime-item-waiting-for-browser = Attendente le navigat
 # computer.
 about-debugging-sidebar-runtime-item-unplugged = Disconnectite
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+# Variables:
+#   $displayName (string) - Displayed name
+#   $deviceName (string) - Name of the device
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
 # Title for runtime sidebar items where we cannot get device information (network
 # locations).
+# Variables:
+#   $displayName (string) - Displayed name
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
 # Text to show in the footer of the sidebar that links to a help page
@@ -96,15 +102,15 @@ about-debugging-setup-usb-disable-button = Disactivar apparatos USB
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Actualisation…
 # USB section of the Setup page (USB status)
-about-debugging-setup-usb-status-enabled = Activate
-about-debugging-setup-usb-status-disabled = Disactivate
+about-debugging-setup-usb-status-enabled = Active
+about-debugging-setup-usb-status-disabled = Inactive
 about-debugging-setup-usb-status-updating = Actualisation...
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Activar le menu pro disveloppatores sur tu apparato Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Activar le recerca de errores USB in le menu pro disveloppatores sur Android.
+about-debugging-setup-usb-step-enable-debug2 = Activar le Depuration USB in le menu pro disveloppatores sur Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Activar le recerca de errores USB in Firefox sur le apparato Android.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Activar le Depuration USB in Firefox sur le apparato Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Connecte le apparato Android a tu computator.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
@@ -306,10 +312,11 @@ about-debugging-main-process-name = Processo principal
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Processo principal pro le navigator destination
-# Displayed instead of the Main Process debug target when the preference
-# `devtools.browsertoolbox.fission` is true.
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-name = Instrumentario multiprocesso
-# Description for the Multiprocess Toolbox target.
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Processo principal e processos de contento pro le navigator de destination
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
