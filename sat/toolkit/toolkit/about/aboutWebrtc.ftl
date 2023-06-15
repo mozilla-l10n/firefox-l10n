@@ -85,6 +85,8 @@ about-webrtc-log-heading = ᱡᱚᱲᱟᱣ ᱞᱚᱜᱽ
 about-webrtc-log-clear = ᱞᱚᱜᱽ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 about-webrtc-log-show-msg = ᱞᱚᱜᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-log-hide-msg = ᱩᱠᱩ ᱞᱚᱜᱽ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +100,30 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ᱵᱚ�
 
 ##
 
+about-webrtc-local-candidate = ᱥᱩᱯᱩᱨ ᱠᱮᱱᱰᱤᱰᱮᱴ
+about-webrtc-remote-candidate = ᱡᱷᱟᱹᱞ ᱠᱮᱱᱰᱤᱰᱮᱴ
+about-webrtc-raw-candidates-heading = ᱡᱷᱚᱛᱚ ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ
+about-webrtc-raw-local-candidate = ᱵᱮᱨᱮᱞ ᱥᱩᱯᱩᱨ ᱠᱮᱱᱰᱤᱰᱮᱴ
+about-webrtc-raw-remote-candidate = ᱡᱷᱟᱹᱞ ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴ
+about-webrtc-raw-cand-show-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱠᱚᱢ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-raw-cand-hide-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱩᱠᱩᱠᱚᱢ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-priority = ᱢᱚᱦᱚᱛ
+about-webrtc-fold-show-msg = ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-fold-hide-msg = ᱵᱤᱵᱨᱟᱬ ᱩᱠᱩᱭ ᱢᱮ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-dropped-frames-label = ᱟᱲᱟᱜ ᱜᱤᱰᱤ ᱯᱷᱨᱮᱢᱠᱚ :
+about-webrtc-discarded-packets-label = ᱚᱪᱚᱜ ᱠᱟᱱ ᱯᱮᱠᱮᱴᱠᱚ :
+about-webrtc-decoder-label = ᱰᱤᱠᱳᱰᱟᱹᱨ
+about-webrtc-encoder-label = ᱮᱱᱠᱳᱰᱚᱨ
+about-webrtc-show-tab-label = ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+about-webrtc-current-framerate-label = ᱯᱷᱨᱮᱢᱫᱚᱨ
+about-webrtc-width-px = ᱚᱥᱟᱨ (px)
+about-webrtc-height-px = ᱩᱥᱩᱞ (px)
+about-webrtc-consecutive-frames = ᱤᱱᱟᱹᱛᱟᱭᱚᱢᱤᱱᱟᱹ ᱯᱷᱨᱮᱢᱠᱚ
+about-webrtc-time-elapsed = ᱪᱟᱞᱟᱣ ᱠᱟᱱ ᱚᱠᱛᱚ (s)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
