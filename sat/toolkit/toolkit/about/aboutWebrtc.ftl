@@ -236,10 +236,22 @@ about-webrtc-sent-label =
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ᱡᱤᱴᱚᱨ { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = ᱛᱨᱤᱠᱚᱞ ᱠᱮᱱᱰᱤᱰᱮᱴ (ᱛᱮᱞᱟ ᱦᱮᱡ ᱠᱟᱛᱮ ᱦᱟᱹᱡᱩᱜᱼᱟ) ᱠᱚ ᱫᱚ ᱞᱤᱞ ᱨᱮ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱱᱟ
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = ᱚᱠᱛᱚ ᱪᱷᱟᱯᱟ ᱨᱮ ᱞᱚᱠᱟᱞ SDP ᱥᱟᱴ ᱢᱮ { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = ᱚᱠᱛᱚ ᱪᱷᱟᱯᱟ ᱨᱮ ᱡᱷᱟᱹᱞ SDP ᱥᱟᱴ ᱢᱮ { NUMBER($timestamp, useGrouping: "false") }
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
