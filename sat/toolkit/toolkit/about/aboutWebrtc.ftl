@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = ᱞᱮᱠᱷ about:webrtc ᱥᱟᱺᱪᱟ�
 about-webrtc-aec-logging-msg-label = AEC ᱞᱚᱜᱤᱝ
 about-webrtc-aec-logging-off-state-label = AEC ᱞᱚᱜᱤᱝᱮ ᱮᱛᱦᱚᱵ ᱢᱮ
 about-webrtc-aec-logging-on-state-label = AEC ᱞᱚᱜᱤᱝ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+about-webrtc-aec-logging-on-state-msg = AEC ᱵᱚᱞᱚ ᱫᱚ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ (ᱠᱚᱞᱚᱨ ᱥᱟᱶ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱚᱠᱚᱛ ᱨᱚᱲ ᱢᱮ ᱟᱨ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱠᱮᱯᱪᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ)
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = ᱟᱡ ᱛᱮ ᱟᱹᱨᱩ
 

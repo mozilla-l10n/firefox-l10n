@@ -54,10 +54,19 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = ᱱᱤᱛᱚᱜ ᱟᱠᱚᱴ ᱠᱟᱱᱟ ᱾ ᱟᱠᱚᱴ ᱚᱪᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱚᱭ ᱢᱮ ᱾
     .aria-label = ᱱᱤᱛᱚᱜ ᱟᱠᱚᱴ ᱠᱟᱱᱟ ᱾ ᱟᱠᱚᱴ ᱚᱪᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱚᱭ ᱢᱮ ᱾
+third-party-button-to-unblock-disabled =
+    .title =
+        ᱱᱤᱛᱚᱜ ᱫᱚ ᱟᱠᱚᱴ ᱞᱮᱠᱷᱟ ᱠᱚ ᱪᱤᱱᱦᱟᱹ ᱠᱚᱣᱫ ᱟ, ᱢᱮᱱᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱫᱚ 
+        { -brand-short-name } ᱫᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ ᱾ ᱟᱠᱚᱴ ᱪᱷᱟᱰᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱰᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
+    .aria-label =
+        ᱱᱤᱛᱚᱜ ᱫᱚ ᱟᱠᱚᱴ ᱞᱮᱠᱷᱟ ᱠᱚ ᱪᱤᱱᱦᱟᱹ ᱠᱚᱣᱫ ᱟ, ᱢᱮᱱᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱫᱚ 
+        { -brand-short-name } ᱫᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ ᱾ ᱟᱠᱚᱴ ᱪᱷᱟᱰᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱰᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
 third-party-button-expand =
     .title = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 third-party-button-collapse =
     .title = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱠᱚᱢ ᱪᱷᱚᱭ ᱢᱮ
+third-party-requires-restart = ᱚᱠᱟ ᱛᱮᱥᱟᱨᱼᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞᱠᱚ ᱟᱠᱚᱴ ᱠᱟᱱᱟ ᱚᱱᱟ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱛᱮ ᱦᱩᱭᱩᱜᱼᱟ ᱾
+third-party-blocking-requires-restart = ᱢᱤᱫᱴᱟᱹᱝ ᱛᱮᱥᱟᱨᱼᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞᱠᱚ ᱟᱠᱚᱴ ᱞᱟᱹᱜᱤᱫ, { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱛᱮ ᱦᱩᱭᱩᱜᱼᱟ ᱾
 third-party-should-restart-title = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 third-party-should-restart-ok = ᱱᱤᱛᱚᱜ { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 third-party-restart-now = ᱱᱤᱛ ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ ᱢᱮ
