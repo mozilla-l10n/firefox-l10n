@@ -7,6 +7,9 @@
 
 about-glean-page-title = Glean ᱵᱟᱵᱚᱛ
 about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> ᱫᱚ ᱢᱤᱫ ᱰᱟᱴᱟ ᱡᱟᱣᱨᱟ ᱢᱩᱨᱩᱭ ᱠᱟᱱ ᱡᱟᱦᱟᱸ ᱫᱚ Mozilla ᱡᱤᱱᱤᱥ ᱠᱚᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱨ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸᱭ ᱫᱚ <a data-l10n-name="fog-debug-doc-link">Glean SDK ᱨᱮ ᱰᱮᱵᱟᱹᱜᱤᱝ ᱟᱨ ᱵᱚᱞᱚ ᱫᱚᱥᱟ ᱠᱚ ᱥᱮᱴ ᱟ</a> ᱾
+about-glean-warning = ᱱᱚᱶᱟ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ ᱵᱟᱹᱲᱤᱡ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱠᱷᱟᱱ { -brand-short-name } ᱠᱷᱟᱨᱟᱯᱚᱜᱼᱟ ᱾
+tag-pings-label = ᱱᱚᱶᱟ ᱴᱮᱜᱽ ᱵᱮᱵᱷᱟᱨᱟᱛᱮᱫ ᱡᱷᱚᱛᱚ ᱵᱷᱮᱡᱟ ᱠᱟᱱ ᱯᱤᱝᱠᱚ ᱴᱮᱜᱽ ᱢᱮ
+log-pings-label = ᱵᱷᱮᱡᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱯᱤᱝ ᱯᱮᱞᱚᱰ ᱞᱚᱜᱽ ᱟᱢ ᱥᱮ ?
 send-pings-label = ᱧᱩᱛᱩᱢ ᱠᱟᱱ ᱯᱤᱝ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 controls-button-label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱯᱟᱨᱥᱟᱞ ᱢᱮ
 
@@ -18,9 +21,22 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } ᱰᱮᱵᱩᱜ ᱯᱤᱱᱜᱚᱨ ᱧᱮᱞᱤᱭᱟᱹ
 about-glean-page-title2 = { -glean-brand-name } ᱵᱟᱵᱚᱛ
 about-glean-header = { -glean-brand-name } ᱵᱟᱵᱚᱛ
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱰᱟᱴᱟ ᱡᱟᱣᱨᱟ ᱢᱩᱨᱩᱭ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ { -vendor-short-name } ᱯᱟᱱᱛᱷᱟ ᱠᱚᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾
+    ᱱᱚᱣᱟ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ ᱫᱚ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱠᱚ ᱟᱨ ᱧᱮᱞ ᱯᱚᱨᱚᱠᱷᱤᱭᱟᱹ ᱠᱚ ᱱᱤᱡ ᱛᱮ
+    <a data-l10n-name="fog-link">ᱤᱢᱥᱴᱨᱩᱢᱮᱱᱴᱮᱥᱚᱱ ᱠᱚ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱟ</a> ᱾
 about-glean-upload-enabled = ᱰᱟᱴᱟ ᱞᱟᱫᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ ᱾
 about-glean-upload-disabled = ᱰᱟᱴᱟ ᱞᱟᱫᱮ ᱵᱚᱸᱫ ᱪᱷᱚ ᱠᱟᱱᱟ ᱾
 about-glean-upload-enabled-local = ᱢᱤᱫᱴᱟᱹ ᱞᱚᱠᱟᱞ ᱥᱚᱨᱵᱷᱚᱛ ᱛᱮ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ ᱰᱮᱴᱟ ᱞᱟᱫᱮ ᱫᱚ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ ᱾
+about-glean-upload-fake-enabled =
+    ᱰᱟᱴᱟ ᱞᱟᱫᱮ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ,
+    ᱢᱮᱱᱠᱷᱟᱱ ᱟᱞᱮ ᱫᱚ ᱮᱲᱮ ᱟᱨ ᱢᱮᱱ ᱮᱫᱟ ᱞᱮ ᱡᱮ { glean-sdk-brand-name } ᱫᱚ ᱮᱢ ᱠᱟᱱᱟ
+    ᱢᱮᱱᱠᱷᱟᱱ ᱰᱟᱴᱟ ᱫᱚ ᱥᱩᱯᱩᱨ ᱠᱚᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱛᱟᱦᱮᱸᱱᱟ ᱾
+    ᱠᱷᱟᱴᱚ ᱢᱮᱱ ᱺ ᱡᱩᱫᱤ ᱟᱢ ᱰᱮᱵᱩᱜ ᱴᱮᱵᱽ ᱥᱮᱴ ᱠᱷᱟᱱ, ᱯᱤᱝᱜ ᱠᱚ ᱫᱚ
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> ᱨᱮ ᱞᱟᱫᱮᱜᱼᱟ ᱥᱟᱡᱟᱣ ᱛᱟᱦᱮᱸ ᱠᱟᱛᱮ ᱨᱮᱦᱚᱸ ᱾
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = ᱡᱟᱹᱨᱩᱲ <a data-l10n-name="fog-prefs-and-defines-doc-link">ᱠᱩᱥᱤᱠᱚ ᱟᱨ ᱰᱤᱯᱷᱟᱭᱱᱥ</a> ᱠᱚᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ :
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
