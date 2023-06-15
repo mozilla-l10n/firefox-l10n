@@ -42,10 +42,20 @@ about-webrtc-sdp-parsing-errors-heading = SDP ᱯᱟᱨᱥᱤᱝ ᱵᱷᱩᱞ
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = RTP ᱟᱸᱠᱲᱟ
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = ICE ᱫᱚᱥᱟ
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = ICE ᱫᱚᱥᱟ
+about-webrtc-ice-restart-count-label = ICE ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵᱟᱭ :
+about-webrtc-ice-rollback-count-label = ICE ᱨᱚᱞᱵᱮᱠᱥ:
+about-webrtc-ice-pair-bytes-sent = Bytes ᱵᱷᱮᱡᱟ ᱠᱟᱱᱟ:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
