@@ -56,14 +56,25 @@ about-webrtc-ice-stats-heading = ICE ᱫᱚᱥᱟ
 about-webrtc-ice-restart-count-label = ICE ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵᱟᱭ :
 about-webrtc-ice-rollback-count-label = ICE ᱨᱚᱞᱵᱮᱠᱥ:
 about-webrtc-ice-pair-bytes-sent = Bytes ᱵᱷᱮᱡᱟ ᱠᱟᱱᱟ:
+about-webrtc-ice-pair-bytes-received = ᱵᱟᱤᱴᱥ ᱦᱟᱛᱟᱣᱮᱱᱟ ᱺ
+about-webrtc-ice-component-id = ᱦᱟᱹᱴᱤᱧ ID
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = ᱥᱩᱯᱩᱨ
+about-webrtc-type-remote = ᱨᱤᱢᱳᱴ
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = ᱢᱚᱱᱚᱛᱤᱛ ᱠᱟᱱᱟᱭ
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = ᱵᱟᱪᱷᱟᱣᱮᱱᱟ
 about-webrtc-save-page-label = ᱥᱟᱦᱴᱟ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
 
 ## These are used to display a header for a PeerConnection.
