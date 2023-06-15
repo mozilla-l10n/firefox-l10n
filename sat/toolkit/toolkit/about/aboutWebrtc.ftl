@@ -76,6 +76,15 @@ about-webrtc-nominated = ᱢᱚᱱᱚᱛᱤᱛ ᱠᱟᱱᱟᱭ
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ᱵᱟᱪᱷᱟᱣᱮᱱᱟ
 about-webrtc-save-page-label = ᱥᱟᱦᱴᱟ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
+about-webrtc-debug-mode-msg-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ
+about-webrtc-debug-mode-off-state-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ ᱮᱛᱦᱚᱵ ᱢᱮ
+about-webrtc-debug-mode-on-state-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ ᱵᱚᱸᱫ ᱢᱮ
+about-webrtc-stats-heading = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱸᱠᱲᱟ
+about-webrtc-stats-clear = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+about-webrtc-log-heading = ᱡᱚᱲᱟᱣ ᱞᱚᱜᱽ
+about-webrtc-log-clear = ᱞᱚᱜᱽ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+about-webrtc-log-show-msg = ᱞᱚᱜᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
