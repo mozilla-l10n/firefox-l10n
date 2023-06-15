@@ -56,9 +56,26 @@ about-telemetry-upload-type =
         [enabled] ᱮᱢ ᱪᱷᱚ
        *[disabled] ᱵᱚᱸᱫᱚᱭ
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } ᱥᱮᱢᱯᱚᱞ, ᱜᱷᱩᱸᱴ= { $prettyAverage }, ᱡᱚᱰ= { $sum }
+        [two] { $sampleCount } ᱥᱮᱢᱯᱚᱞᱠᱤᱱ, ᱜᱷᱩᱸᱴ= { $prettyAverage }, ᱡᱚᱰ= { $sum }
+       *[other] { $sampleCount } ᱥᱮᱢᱯᱚᱞᱠᱚ, ᱜᱷᱩᱸᱴ= { $prettyAverage }, ᱡᱚᱰ= { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱩᱫᱩᱠ ᱥᱚᱫᱚᱨ, ᱦᱟᱨᱰ ᱣᱮᱭᱟᱨ ᱵᱮᱵᱚᱦᱟᱨ ᱟᱨ ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ ᱠᱚ ᱴᱮᱞᱤᱢᱮᱴᱨᱤ ᱫᱟᱨᱟᱭ ᱛᱮ ᱛᱩᱢᱟᱹᱞ ᱵᱟᱵᱚᱛ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱩᱫᱩᱜᱟ᱾ ᱱᱚᱣᱟ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱫᱚ { $telemetryServerOwner } ᱨᱮ ᱡᱚᱢᱟᱭᱟ { -brand-full-name } ᱞᱟᱦᱟ ᱨᱟᱠᱟᱵ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ᱾
+about-telemetry-settings-explanation = ᱴᱮᱞᱤᱢᱫᱮᱴᱨᱤ ᱫᱚ { about-telemetry-data-type } ᱡᱟᱣᱨᱟ ᱮᱫᱟᱭ ᱟᱨ <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> ᱞᱟᱫᱮ ᱮᱫᱟᱭ ᱾
+# Variables:
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = ᱵᱤᱵᱨᱚᱬ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱫᱚ ᱜᱷᱮᱸᱴ ᱠᱟᱛᱮ “<a data-l10n-name="ping-link">ᱯᱤᱝᱠᱚ</a>” ᱨᱮ ᱵᱷᱮᱡᱟ ᱠᱟᱱᱟ ᱾  ᱟᱢ ᱫᱚ { $name }, { $timestamp } ᱯᱤᱝ ᱧᱮᱞ ᱮᱫᱟᱢ ᱾
+about-telemetry-data-details-current = ᱵᱤᱵᱨᱚᱬ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱫᱚ ᱜᱷᱮᱸᱴ ᱠᱟᱛᱮ “<a data-l10n-name="ping-link">ᱯᱤᱝᱠᱚ</a>” ᱨᱮ ᱵᱷᱮᱡᱟ ᱠᱟᱱᱟ ᱾  ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜᱟᱜ ᱰᱮᱴᱟ ᱧᱮᱞ ᱮᱫᱟᱢ ᱾
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
