@@ -38,3 +38,12 @@ experimental-features-cookie-samesite-none-requires-secure2-description = "SameS
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home ᱥᱴᱟᱴᱚᱯᱷ ᱠᱮᱪ
+experimental-features-abouthome-startup-cache-description = ᱮᱛᱚᱦᱚᱵ ᱨᱮ about: home ᱫᱚᱞᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱝ ᱠᱮᱪ ᱡᱟᱦᱟᱸ ᱫᱚ ᱮᱛᱚᱦᱚᱵ ᱚᱠᱛᱚ ᱰᱤᱯᱷᱚᱞᱴ ᱞᱮᱠᱟᱛᱮ ᱞᱳᱰ ᱦᱩᱭᱩᱜᱼᱟ ᱾ ᱠᱮᱪ ᱨᱮᱭᱟᱜ ᱡᱚᱥ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱥᱴᱟᱴᱚᱯᱷ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱟᱲᱮ ᱩᱛᱱᱟᱹᱣᱜᱼᱟ ᱾
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = ᱠᱩᱠᱤᱡᱽ: ᱥᱠᱤᱢᱯᱷᱩᱞ SameSite
+experimental-features-cookie-samesite-schemeful-description = ᱢᱤᱫ ᱰᱚᱢᱮᱱ ᱠᱷᱚᱱ ᱠᱩᱠᱤ ᱠᱚ ᱵᱮᱣᱦᱟᱨ ᱢᱮ, ᱢᱮᱱᱠᱷᱟᱱ ᱟᱭᱢᱟ ᱥᱠᱤᱢ ᱥᱟᱶ (e.g. http://example.com ᱟᱨ https://example.com) ᱢᱤᱫᱼᱥᱟᱭᱤᱴ ᱵᱚᱫᱚᱞᱛᱮ ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱞᱮᱠᱟᱛᱮ ᱾ ᱨᱩᱠᱷᱭᱤᱭᱟᱹ ᱵᱟᱹᱲᱛᱤᱜᱼᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱨᱟᱹᱯᱩᱫ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = ᱰᱮᱵᱽᱞᱚᱯᱚᱨ ᱴᱩᱞᱥ: ᱥᱚᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱰᱮᱵᱟᱹᱜᱩᱝ
