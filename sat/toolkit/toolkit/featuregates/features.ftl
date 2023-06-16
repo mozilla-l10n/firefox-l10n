@@ -52,3 +52,8 @@ experimental-features-devtools-serviceworker-debugger-support-description = ᱰ�
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC ᱜᱞᱚᱵᱟᱞ ᱢᱭᱩᱴ ᱵᱚᱫᱚᱞᱟᱭ
+experimental-features-webrtc-global-mute-toggles-description = WebRTC ᱜᱞᱚᱵᱟᱞ ᱥᱮᱭᱟᱨᱤᱝ ᱤᱱᱰᱤᱠᱮᱴᱚᱨ ᱨᱮ ᱠᱚᱵᱚᱡᱽ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱟᱨ ᱠᱮᱢᱮᱨᱟ ᱯᱷᱤᱰᱠᱚ ᱡᱮᱜᱮᱛ ᱵᱷᱤᱛᱨᱤ ᱛᱮ ᱢᱭᱩᱴ ᱫᱟᱲᱮᱪᱷᱚ ᱠᱚᱣᱟᱭ ᱾
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Warp ᱮᱱᱮᱢ ᱢᱮ, JavaScript ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱩᱭᱦᱟᱹᱨ ᱵᱮᱵᱷᱟᱨ ᱩᱛᱷᱱᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱯᱨᱚᱡᱮᱠᱴ ᱾
