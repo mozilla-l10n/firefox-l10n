@@ -13,3 +13,15 @@ csp-error-illegal-keyword = ‘{ $directive }’ ᱰᱟᱭᱨᱮᱠᱴᱤᱵᱷ 
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-illegal-protocol = ‘{ $directive }’ ᱰᱟᱭᱨᱮᱠᱴᱤᱵᱷ ᱴᱷᱚᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱹᱲᱤᱡ { $scheme }: ᱯᱨᱚᱴᱚᱠᱟᱞ ᱠᱨᱚᱛ ᱢᱮᱱᱟᱜᱼᱟ
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-missing-host = { $scheme }: ᱯᱨᱚᱴᱚᱠᱚᱞ ᱫᱚ ‘{ $directive }’ ᱰᱟᱭᱨᱮᱠᱴᱤᱵᱷ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱦᱚᱥᱴ ᱫᱚᱨᱠᱟᱨᱟᱜᱼᱟᱭ
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $source (String): the name of a CSP source, usually 'self'.
+csp-error-missing-source = ‘{ $directive }’ ᱫᱚ ᱥᱨᱚᱛ { $source } ᱱᱤᱦᱟᱹᱛᱤ ᱢᱮᱥᱟ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-host-wildcard = { $scheme }: { $directive } ᱰᱟᱭᱨᱮᱠᱴᱤᱵᱷ ᱨᱮ ᱢᱮᱱᱟᱜ ᱣᱟᱭᱤᱞᱰᱠᱟᱰ ᱥᱨᱚᱛ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝᱼᱡᱮᱱᱮᱨᱤᱠ ᱥᱚᱵ-ᱰᱚᱢᱮᱱ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ (ᱡᱮᱞᱮᱠᱟ, *.example.com ᱵᱟᱫᱚᱞ ᱛᱮ *.com)
