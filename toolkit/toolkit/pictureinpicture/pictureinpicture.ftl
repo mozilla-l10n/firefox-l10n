@@ -19,27 +19,6 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-cmd =
-    .aria-label = විරාමය
-    .title = විරාමය (හිස්තැන් යතුර)
-pictureinpicture-play-cmd =
-    .aria-label = වාදනය
-    .title = වාදනය (හිස්තැන් යතුර)
-pictureinpicture-mute-cmd =
-    .aria-label = නිහඬ
-    .title = නිහඬ ({ $shortcut })
-pictureinpicture-unmute-cmd =
-    .aria-label = නොනිහඬ
-    .title = නොනිහඬ ({ $shortcut })
-pictureinpicture-unpip-cmd =
-    .aria-label = පටිත්තට ආපසු යවන්න
-    .title = පටිත්තට ආපසු
-pictureinpicture-close-cmd =
-    .aria-label = වසන්න
-    .title = වසන්න ({ $shortcut })
-pictureinpicture-subtitles-cmd =
-    .aria-label = උපසිරැසි
-    .title = උපසිරැසි
 pictureinpicture-pause-btn =
     .aria-label = විරාමය
     .tooltip = විරාමය (හිස්තැන් යතුර)
@@ -61,33 +40,34 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = උපසිරැසි
     .tooltip = උපසිරැසි
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = පූර්ණ තිරය
+    .tooltip = පූර්ණ තිරය (දෙවරක් ඔබන්න හෝ { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = පූර්ණ තිරයෙන් පිටවන්න
+    .tooltip = පූර්ණ තිරයෙන් පිටවන්න (දෙවරක් ඔබන්න හෝ { $shortcut })
 
 ##
 
-pictureinpicture-fullscreen-cmd =
-    .aria-label = පූර්ණ තිරය
-    .title = පූර්ණ තිරය (ද්විත්ව එබීම)
-pictureinpicture-exit-fullscreen-cmd =
-    .aria-label = පූර්ණ තිරයෙන් පිටවන්න
-    .title = තිරයෙන් පිටවන්න (ද්විත්ව එබීම)
-pictureinpicture-seekbackward-cmd =
-    .aria-label = පසුපසට
-    .title = පසුපසට (←)
-pictureinpicture-seekforward-cmd =
-    .aria-label = ඉදිරියට
-    .title = ඉදිරියට (→)
 pictureinpicture-fullscreen-btn =
     .aria-label = පූර්ණ තිරය
     .tooltip = පූර්ණ තිරය (ද්විත්ව එබීම)
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = පූර්ණ තිරයෙන් පිටවන්න
     .tooltip = තිරයෙන් පිටවන්න (ද්විත්ව එබීම)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 pictureinpicture-seekbackward-btn =
     .aria-label = පසුපසට
     .tooltip = පසුපසට (←)
 pictureinpicture-seekforward-btn =
     .aria-label = ඉදිරියට
     .tooltip = ඉදිරියට (→)
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = උපසිරැසි සැකසුම්
 pictureinpicture-subtitles-label = උපසිරැසි
 pictureinpicture-font-size-label = මුද්‍රණඅකුරේ තරම
 pictureinpicture-font-size-small = කුඩා

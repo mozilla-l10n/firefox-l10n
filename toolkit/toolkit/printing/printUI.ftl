@@ -39,6 +39,8 @@ printui-scale = පරිමාණය
 printui-scale-fit-to-page-width = පිටුවේ පළලට ගළපන්න
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = පරිමාණය
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = දෙපැත්ත මුද්‍රණය
 printui-two-sided-printing-off = අක්‍රිය
 # Section title for miscellaneous print options
 printui-options = විකල්ප

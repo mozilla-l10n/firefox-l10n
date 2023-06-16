@@ -23,4 +23,6 @@ install-failed-message = { -brand-short-name } ස්ථාපනයට අස�
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = පවතින { -brand-short-name } යෙදුම විවෘත කරන්නද?
+prompt-to-launch-existing-app-message = ඔබ දැනටමත් { -brand-short-name } ස්ථාපනය කර ඇත. යාවත්කාලීනව සිටීමට සහ දත්ත නැතිවීම වැළැක්වීමට ස්ථාපිත යෙදුම භාවිතා කරන්න.
+prompt-to-launch-existing-app-yes-button = පවතින යෙදුම අරින්න
 prompt-to-launch-existing-app-no-button = එපා, ස්තුතියි

@@ -39,6 +39,10 @@ videocontrols-picture-in-picture-explainer = { -brand-short-name } හි ඔබ
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = දෘශ්‍යකය පිටතට ගන්න
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = බොහෝ තිර වඩා විනෝදජනකයි. ඔබ වෙනත් දෑ කරන අතරතුර මෙම දෘශ්‍යකය ධාවනය කරන්න.
 videocontrols-error-aborted = දෘශ්‍යකය පූරණය නැවතිණි.
 videocontrols-error-network = ජාලයේ දෝෂයක් නිසා දෘශ්‍යකය නැවත වාදනය නැවතිණි.
 videocontrols-error-decode = ගොනුව හානි වී තිබෙන නිසා දෘශ්‍යකය වාදනය කළ නොහැකිය.
