@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = { -brand-full-name } ᱨᱮᱭᱟᱜ ᱵᱟᱵᱚᱛ ᱨᱮ
+    .title = { -brand-full-name } ᱵᱟᱵᱚᱛ ᱛᱮ
 releaseNotes-link = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
 update-checkForUpdatesButton =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱸᱝᱜᱷᱟᱱ
