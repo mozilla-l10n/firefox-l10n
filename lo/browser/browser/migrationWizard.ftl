@@ -93,6 +93,15 @@ migration-wizard-progress-success-new-passwords = ເພີ່ມ { $newEntries 
 migration-wizard-progress-success-updated-passwords = ອັບເດດ { $updatedEntries } ແລ້ວ
 migration-bookmarks-from-file = ບຸກມາກ
 migration-bookmarks-from-file-success-header = ນຳເຂົ້າບຸກມາກສຳເລັດແລ້ວ
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = ໄຟລ໌ JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks = { $newEntry } ບຸກມາກ
 migration-import-button-label = ນຳເຂົ້າ
 migration-choose-to-import-from-file-button-label = ນໍາເຂົ້າຈາກໄຟລ໌
 migration-import-from-file-button-label = ເລືອກ File
@@ -160,6 +169,12 @@ migration-wizard-progress-success-passwords = ລະຫັດຜ່ານ { $qua
 #  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
 migration-wizard-progress-success-history = ຈາກ { $maxAgeInDays } ມື້ທີ່ຜ່ານມາ
 migration-wizard-progress-success-formdata = ແບບຟອມປະຫວັດການໃຊ້ງານ
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods = { $quantity } ວິທີການຈ່າຍເງິນ
 migration-wizard-safari-permissions-sub-header = ເພື່ອນໍາເຂົ້າ bookmarks Safari ແລະປະຫວັດການທ່ອງເວັບ:
 migration-wizard-safari-instructions-continue = ເລືອກ "ສືບຕໍ່"
 migration-wizard-safari-instructions-folder = ເລືອກໂຟນເດີ Safari ໃນບັນຊີລາຍຊື່ແລະເລືອກ "Open"
