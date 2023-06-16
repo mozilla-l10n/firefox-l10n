@@ -29,3 +29,7 @@ experimental-features-devtools-compatibility-panel-description = ᱥᱟᱦᱴᱤ
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = ᱠᱩᱠᱤᱡᱽ : SameSite=ᱢᱩᱞ ᱞᱮᱠᱟᱛᱮ Lax
+experimental-features-cookie-samesite-lax-by-default2-description = ᱢᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱩᱠᱤᱡᱽ “SameSite=Lax” ᱥᱮᱴ ᱢᱮ ᱢᱮ ᱡᱩᱫᱤ “SameSite” ᱮᱴᱨᱤᱵᱭᱩᱴ ᱫᱚ ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱠᱷᱟᱱ ᱾ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱠᱚ ᱱᱤᱛᱚᱜᱟᱜ ᱵᱮᱴᱷᱚᱠ ᱠᱣᱚ ᱫᱚᱥᱟ ᱨᱮ ᱵᱚᱞᱚ ᱦᱩᱭᱩᱜᱼᱟ “SameSite=None” ᱫᱚᱦᱚ ᱠᱟᱛᱮ ᱾
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = ᱠᱩᱠᱤᱡᱽ : SameSite = None ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱴᱤᱵᱭᱩᱴ ᱞᱟᱹᱠᱛᱤ ᱢᱮᱱᱟᱜᱼᱟ ᱾
