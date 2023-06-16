@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = Skrá inn
     .accesskey = S
 identity-credential-policy-title = Nota { $provider } sem innskráningarveitu
-identity-credential-policy-description = Innskráning á { $host } með { $provider }-reikningi er háð <label data-l10n-name="privacy-url">persónuverndarstefnu</label> og <label data-l10n-name="tos- url">þjónustuskilmálum</label>.
+identity-credential-policy-description = Innskráning á { $host } með { $provider }-reikningi er háð <label data-l10n-name="privacy-url">persónuverndarstefnu</label> og <label data-l10n-name="tos-url">þjónustuskilmálum</label>.
