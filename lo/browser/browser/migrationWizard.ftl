@@ -101,7 +101,7 @@ migration-bookmarks-from-file-json-filter-title = ໄຟລ໌ JSON
 #
 # Variables:
 #  $newEntries (Number): the number of imported bookmarks.
-migration-wizard-progress-success-new-bookmarks = { $newEntry } ບຸກມາກ
+migration-wizard-progress-success-new-bookmarks = { $newEntries } ບຸກມາກ
 migration-import-button-label = ນຳເຂົ້າ
 migration-choose-to-import-from-file-button-label = ນໍາເຂົ້າຈາກໄຟລ໌
 migration-import-from-file-button-label = ເລືອກ File
