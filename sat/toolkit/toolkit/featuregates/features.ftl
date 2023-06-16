@@ -33,3 +33,8 @@ experimental-features-cookie-samesite-lax-by-default2-description = ᱢᱩᱞ �
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = ᱠᱩᱠᱤᱡᱽ : SameSite = None ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱴᱤᱵᱭᱩᱴ ᱞᱟᱹᱠᱛᱤ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+experimental-features-cookie-samesite-none-requires-secure2-description = "SameSite = None" ᱮᱴᱨᱤᱵᱭᱩᱴ ᱫᱚ ᱥᱟᱶ ᱠᱩᱠᱤᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱴᱨᱤᱵᱭᱩᱤ ᱞᱟᱹᱠᱛᱤ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱯᱷᱤᱪᱚᱨ ᱫᱚ "Cookies: SameSite = ᱢᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ Lax" ᱞᱟᱹᱠᱛᱤᱟᱜᱼᱟᱭ ᱾
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home ᱥᱴᱟᱴᱚᱯᱷ ᱠᱮᱪ
