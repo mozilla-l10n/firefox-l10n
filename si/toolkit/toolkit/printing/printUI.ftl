@@ -5,7 +5,6 @@
 printui-title = මුද්‍රණය
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = ලෙස සුරකින්න
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,9 +12,10 @@ printui-sheets-count =
         [one] පත්‍ර { $sheetCount }
        *[other] පත්‍ර { $sheetCount }
     }
-
 printui-page-range-all = සියල්ල
 printui-page-range-current = වත්මන්
+printui-page-range-odd = ඔත්තේ
+printui-page-range-even = ඉරට්ටේ
 printui-page-range-custom = අභිරුචි
 printui-page-range-label = පිටු
 printui-page-range-picker =
@@ -23,31 +23,23 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = අභිරුචි පිටු පරාසයක් යොදන්න
     .placeholder = උදා. 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = පිටපත්
-
 printui-orientation = දිශානතිය
 printui-landscape = තිරස්
 printui-portrait = සිරස්
-
 # Section title for the printer or destination device to target
 printui-destination-label = ගමනස්ථානය
 printui-destination-pdf-label = පීඩීඑෆ් වෙත සුරකින්න
-
 printui-more-settings = තවත් සැකසුම්
 printui-less-settings = සැකසුම් අඩුවෙන්
-
 printui-paper-size-label = පිටුවේ ප්‍රමාණය
-
 # Section title (noun) for the print scaling options
 printui-scale = පරිමාණය
 printui-scale-fit-to-page-width = පිටුවේ පළලට ගළපන්න
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = පරිමාණය
-
 printui-two-sided-printing-off = අක්‍රිය
-
 # Section title for miscellaneous print options
 printui-options = විකල්ප
 printui-headers-footers-checkbox = ශ්‍රීර්ෂ සහ පාදතල මුද්‍රණය
@@ -71,7 +63,6 @@ printui-simplify-page-radio = සරල කළ
 printui-color-mode-label = වර්ණ ප්‍රකාරය
 printui-color-mode-color = වර්ණය
 printui-color-mode-bw = කළු හා සුදු
-
 printui-margins = මායිම්
 printui-margins-default = පෙරනිමි
 printui-margins-min = අවම
@@ -90,23 +81,17 @@ printui-margins-custom-left-mm = වම් (මි.මී.)
 printui-margins-custom-right = දකුණ
 printui-margins-custom-right-inches = දකුණ (අඟල්)
 printui-margins-custom-right-mm = දකුණ (මි.මී.)
-
 printui-system-dialog-link = පද්ධතියේ කවුළුව භාවිතයෙන් මුද්‍රණය...
-
 printui-primary-button = මුද්‍රණය
 printui-primary-button-save = සුරකින්න
 printui-cancel-button = අවලංගු
 printui-close-button = වසන්න
-
 printui-loading = පෙරදසුන සැකසෙමින්
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = මුද්‍රණ පෙරදසුන
-
 printui-pages-per-sheet = පත්‍රයකට පිටු
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = මුද්‍රණය වෙමින්…
@@ -130,7 +115,6 @@ printui-paper-jis-b4 = JIS-B4
 printui-error-invalid-scale = පරිමාණය 10 සහ 200 අතර විය යුතුය.
 printui-error-invalid-margin = තෝරාගත් පත්‍රයේ ප්‍රමාණය සඳහා වලංගු මායිමක් යොදන්න.
 printui-error-invalid-copies = පිටපත් ගණන 1 සහ 10000 අතර විය යුතුය.
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = පරාසය 1 සහ { $numPages } අතර අංකයක් විය යුතුය.
