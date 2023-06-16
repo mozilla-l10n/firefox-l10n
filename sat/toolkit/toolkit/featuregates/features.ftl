@@ -25,3 +25,7 @@ experimental-features-css-constructable-stylesheets =
 experimental-features-css-constructable-stylesheets-description = <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> ᱤᱱᱴᱚᱨᱯᱷᱮᱥ ᱨᱮ ᱢᱤᱫ ᱵᱮᱱᱟᱣᱤᱭᱟᱹ ᱟᱨ ᱥᱟᱶᱛᱮ ᱟᱭᱢᱟᱸ ᱵᱚᱫᱚᱞᱠᱚᱛᱮ ᱥᱴᱟᱭᱤᱞᱥᱤᱴ ᱠᱚ ᱵᱤᱱᱟ HTML ᱨᱮ ᱥᱤᱴ ᱥᱮᱞᱮᱫ ᱠᱟᱛᱮ ᱥᱤᱫᱷᱟᱹ ᱛᱮᱭᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ ᱱᱚᱶᱟ ᱫᱚ <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> ᱥᱟᱶ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱟᱞᱜᱟ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱱ ᱥᱴᱟᱭᱤᱞᱥᱤᱴ ᱠᱚ ᱵᱮᱱᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="bugzilla">ᱰᱤᱜᱟᱹᱣ 1520690</a> ᱧᱮᱞ ᱢᱮ ᱾
 experimental-features-devtools-compatibility-panel =
     .label = ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨᱠᱚ : ᱠᱚᱢᱯᱮᱴᱤᱵᱤᱞᱤᱴᱤ ᱯᱮᱱᱟᱞ
+experimental-features-devtools-compatibility-panel-description = ᱥᱟᱦᱴᱤ ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱫᱷᱟᱨᱮ ᱯᱮᱱᱟᱞ ᱡᱟᱦᱟᱸ ᱨᱮ ᱟᱢᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱨᱮᱱᱟᱜ ᱠᱨᱚᱥ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱚᱢᱯᱮᱴᱤᱵᱤᱞᱤᱴᱤ ᱫᱚᱥᱟ ᱵᱟᱵᱚᱛ ᱠᱟᱛᱷᱟ ᱠᱚ ᱧᱮᱞᱚᱜᱼᱟ ᱾ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="bugzilla">ᱰᱤᱜᱟᱹᱣ 1584464</a> ᱧᱮᱞ ᱢᱮ ᱾
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = ᱠᱩᱠᱤᱡᱽ : SameSite=ᱢᱩᱞ ᱞᱮᱠᱟᱛᱮ Lax
