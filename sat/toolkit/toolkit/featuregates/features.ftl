@@ -57,3 +57,6 @@ experimental-features-webrtc-global-mute-toggles-description = WebRTC ᱜᱞᱚ�
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Warp ᱮᱱᱮᱢ ᱢᱮ, JavaScript ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱩᱭᱦᱟᱹᱨ ᱵᱮᱵᱷᱟᱨ ᱩᱛᱷᱱᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱯᱨᱚᱡᱮᱠᱴ ᱾
+# Search during IME
+experimental-features-ime-search =
+    .label = ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ : IME ᱵᱮᱱᱟᱣ ᱚᱠᱛᱚ ᱨᱮ ᱚᱨᱡᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾
