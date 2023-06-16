@@ -34,6 +34,7 @@ region-name-bm = බර්මියුඩාව
 region-name-bn = බෲනායි
 region-name-bo = බොලිවියාව
 region-name-bq = බොනොයාර්, සින් එවුස්ටේටියස් සහ සාබා
+region-name-bq-2018 = කැරිබියන් නෙදර්ලන්තය
 region-name-br = බ්‍රසිලය
 region-name-bs = බහමාස්
 region-name-bt = භූතානය
