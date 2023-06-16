@@ -12,6 +12,7 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
+identity-credential-header-providers = Se connectar amb un provesidor d’identificants
 identity-credential-header-accounts = Se connectar amb { $provider }
 identity-credential-urlbar-anchor =
     .tooltiptext = Dobrir lo panèl d’identificants

@@ -104,6 +104,9 @@ firefoxview-recently-closed-header = Onglets tampats recentament
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Onglets d’autres periferics
+    .title = Onglets d’autres periferics
+firefoxview-synced-tabs-header = Onglets d’autres periferics
 
 ##
 
