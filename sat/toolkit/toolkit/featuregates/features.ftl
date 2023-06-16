@@ -47,3 +47,8 @@ experimental-features-cookie-samesite-schemeful-description = ᱢᱤᱫ ᱰᱚ�
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = ᱰᱮᱵᱽᱞᱚᱯᱚᱨ ᱴᱩᱞᱥ: ᱥᱚᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱰᱮᱵᱟᱹᱜᱩᱝ
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = ᱰᱮᱵᱚᱜᱟᱹᱨ ᱯᱮᱱᱟᱞ ᱨᱮ ᱥᱚᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞᱵᱤᱲᱟᱹᱣ ᱮᱢᱟᱭ ᱾ ᱱᱚᱶᱟ ᱯᱷᱤᱪᱚᱨ ᱫᱚ ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱫᱚ ᱵᱟᱹᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱟᱨ ᱩᱭᱦᱟᱹᱨ ᱫᱟᱲᱮ ᱰᱷᱮᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC ᱜᱞᱚᱵᱟᱞ ᱢᱭᱩᱴ ᱵᱚᱫᱚᱞᱟᱭ
