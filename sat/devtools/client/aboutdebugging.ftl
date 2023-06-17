@@ -300,3 +300,30 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = ᱠᱟᱹᱢᱤ ᱴᱷᱮᱞᱟᱣ
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Service Worker inspection ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱭᱢᱟᱠᱟᱹᱢᱤᱦᱚᱨᱟ { -brand-shorter-name } ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = ᱴᱮᱵᱽ ᱫᱚ ᱯᱩᱨᱟ ᱵᱟᱭ ᱞᱟᱫᱮ ᱠᱟᱱᱟ ᱟᱨ ᱵᱟᱭ ᱱᱤᱨᱤᱠᱷᱚᱬᱚᱜᱼᱟ
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = ᱢᱩᱞ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = ᱞᱚᱠᱷᱭᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱢᱩᱞ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-name = ᱟᱭᱢᱟᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥ
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-description = ᱢᱩᱞ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱞᱚᱠᱷᱭᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = ᱠᱷᱚᱵᱚᱨ ᱵᱚᱸᱫ ᱢᱮ
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = ᱵᱷᱩᱞ ᱵᱤᱵᱨᱚᱬ
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = ᱦᱩᱥᱤᱭᱟᱹᱨ ᱵᱤᱵᱨᱚᱬ
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = ᱵᱤᱵᱨᱚᱬ ᱠᱚ
