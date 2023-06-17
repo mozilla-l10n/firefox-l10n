@@ -101,6 +101,7 @@ migration-wizard-progress-success-updated-passwords =
        *[other] { $updatedEntries } aktualisiert
     }
 migration-bookmarks-from-file-picker-title = Lesezeichendatei importieren
+migration-bookmarks-from-file-progress-header = Lesezeichen werden importiert
 migration-bookmarks-from-file = Lesezeichen
 migration-bookmarks-from-file-success-header = Lesezeichen erfolgreich importiert
 # A description for the .html file format that may be shown as the file type
