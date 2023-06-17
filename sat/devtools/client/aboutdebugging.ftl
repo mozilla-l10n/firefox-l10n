@@ -109,6 +109,13 @@ about-debugging-setup-usb-status-updating = ᱦᱟᱹᱞᱤᱭᱟᱼᱜ ᱠᱟ�
 about-debugging-setup-usb-step-enable-dev-menu2 = ᱟᱢᱟᱜ Android ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Android ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱢᱮᱱᱩ ᱨᱮ USB ᱰᱮᱵᱚᱜᱤᱝ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Android ᱥᱟᱫᱷᱚᱱ ᱨᱮ Firefox ᱨᱮ USB ᱰᱮᱵᱚᱜᱤᱝ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Android ᱥᱟᱫᱷᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱛᱮ ᱡᱩᱲᱟᱹᱣ ᱢᱮ ᱾
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
+about-debugging-setup-usb-troubleshoot = USB ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱡᱩᱲᱟᱹᱣ ᱡᱷᱚᱜ ᱢᱩᱥᱠᱤᱞᱚᱜ ᱠᱟᱱᱟ ᱥᱮ ? <a>ᱜᱚᱲᱚᱫᱩᱣᱟᱹᱨ</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = ᱱᱮᱴᱣᱚᱨᱠ ᱴᱷᱟᱶ
@@ -127,6 +134,14 @@ about-debugging-network-locations-host-input-label = ᱵᱮᱵᱚᱥᱛᱟᱭᱤ
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = ᱚᱪᱚᱜ
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = ᱵᱷᱩᱞ ᱦᱚᱥᱴ “{ $host-value }” ᱾ ᱟᱥᱟ ᱯᱷᱚᱨᱢᱟᱴ ᱫᱚ “hostname:portnumber” ᱠᱟᱱᱟ ᱾
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = ᱦᱚᱥᱴ “{ $host-value }” ᱫᱚ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱧᱩᱛᱩᱢ ᱚᱞ ᱠᱟᱱᱟ
 
 # Runtime Page strings
 
@@ -156,6 +171,10 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = ᱢᱚᱦᱚᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to:
+# https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
+about-debugging-runtime-service-workers-not-compatible = ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱚᱱᱯᱷᱤᱜᱽᱨᱮᱥᱚᱱ ᱫᱚ Service Workers ᱥᱟᱞᱟᱜ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱭᱟᱭ ᱾ <a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
