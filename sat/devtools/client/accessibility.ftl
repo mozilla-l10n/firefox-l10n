@@ -55,6 +55,8 @@ accessibility-text-label-issue-glyph = <code>alt</code> ᱮᱴᱨᱤᱵᱭᱩᱴ
 accessibility-text-label-issue-heading = ᱦᱮᱰᱤᱝ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 accessibility-text-label-issue-heading-content = ᱦᱮᱰᱤᱝ ᱨᱮ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱧᱮᱞᱚᱜ ᱚᱞ ᱛᱟᱦᱮᱸᱱ ᱢᱟᱸ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 accessibility-text-label-issue-iframe = <code>alt</code> ᱮᱴᱨᱤᱵᱭᱩᱴ ᱫᱚ <span>iframe</span> ᱡᱤᱱᱤᱥ ᱵᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-image = ᱡᱤᱱᱤᱥ ᱢᱮᱱᱟᱜ ᱪᱤᱛᱟᱹᱨ ᱨᱮ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-interactive = ᱵᱟᱝ ᱪᱚᱴᱠᱟᱨ ᱱᱟᱹᱢᱩᱱᱟ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱮᱢ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
