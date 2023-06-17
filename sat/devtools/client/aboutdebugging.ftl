@@ -83,6 +83,10 @@ about-debugging-refresh-usb-devices-button = ᱫᱩᱦᱲᱟᱹᱟᱹᱨᱩ ᱥ�
 
 # Title of the Setup page.
 about-debugging-setup-title = ᱥᱮᱴᱚᱯᱷ
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = ᱡᱩᱲᱟᱹᱣ ᱛᱚᱨᱠᱟ ᱥᱮᱴ ᱢᱮ ᱡᱟᱦᱟᱸ ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱡᱷᱟᱹᱞ ᱛᱮ ᱰᱮᱵᱟᱹᱜ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱾
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱟᱨ ᱥᱟᱹᱨᱵᱷᱤᱥ ᱣᱟᱨᱠᱚᱨᱥᱠᱚ ᱰᱮᱵᱚᱜᱽ ᱞᱟᱹᱜᱤᱫ <a>{ about-debugging-this-firefox-runtime-name }</a> ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱱᱚᱶᱟ { -brand-shorter-name } ᱦᱟᱹᱞᱤᱭᱟᱠ ᱨᱮ ᱾
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱲᱟᱹᱣ ᱢᱮ
 # USB section of the Setup page
