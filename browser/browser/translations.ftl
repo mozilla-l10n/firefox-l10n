@@ -56,6 +56,14 @@ translations-panel-error-dismiss-button =
     .label = OK
 translations-panel-error-change-button =
     .label = Quellsprache ändern
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Leider wird { $language } noch nicht unterstützt.
+translations-panel-error-unsupported-hint-unknown = Leider wird diese Sprache noch nicht unterstützt.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -74,9 +82,18 @@ translations-panel-restore-button =
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-header = Übersetzungen
+translations-manage-settings-button =
+    .label = Einstellungen…
+    .accesskey = E
 translations-manage-all-language = Alle Sprachen
 translations-manage-download-button = Herunterladen
 translations-manage-delete-button = Löschen
+translations-manage-language-download-button =
+    .label = Herunterladen
+    .accesskey = H
+translations-manage-language-delete-button =
+    .label = Entfernen
+    .accesskey = E
 translations-settings-languages-column =
     .label = Sprachen
 translations-settings-sites-column =
