@@ -91,6 +91,8 @@ about-debugging-setup-this-firefox2 = ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱟᱨ �
 about-debugging-setup-connect-heading = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱲᱟᱹᱣ ᱢᱮ
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = ᱱᱚᱶᱟ ᱮᱢ ᱪᱷᱚ ᱞᱮᱠᱷᱟᱱ Android USB ᱰᱤᱵᱚᱜᱤᱝ ᱛᱷᱚᱠ ᱠᱚ { -brand-shorter-name } ᱨᱮ ᱰᱟᱣᱱᱞᱚᱰᱟᱭ ᱾
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB ᱥᱟᱫᱷᱚᱱᱠᱚ ᱮᱢᱪᱷᱚᱭ ᱢᱮ
@@ -103,6 +105,10 @@ about-debugging-setup-usb-updating-button = ᱦᱟᱹᱞᱤᱭᱟᱼᱜ ᱠᱟ�
 about-debugging-setup-usb-status-enabled = ᱮᱢ ᱪᱷᱚ
 about-debugging-setup-usb-status-disabled = ᱵᱚᱸᱫᱮᱱᱟ
 about-debugging-setup-usb-status-updating = ᱦᱟᱹᱞᱤᱭᱟᱼᱜ ᱠᱟᱱᱟ ...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = ᱟᱢᱟᱜ Android ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Android ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱢᱮᱱᱩ ᱨᱮ USB ᱰᱮᱵᱚᱜᱤᱝ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = ᱱᱮᱴᱣᱚᱨᱠ ᱴᱷᱟᱶ
