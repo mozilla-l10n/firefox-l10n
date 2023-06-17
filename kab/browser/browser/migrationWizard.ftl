@@ -98,6 +98,7 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } yettwaleqqem
        *[other] { $updatedEntries } ttwaleqqmen
     }
+migration-bookmarks-from-file = Ticraḍ n isebtar
 migration-import-button-label = Kter
 migration-choose-to-import-from-file-button-label = Kter seg ufaylu
 migration-import-from-file-button-label = Fren afaylu
@@ -177,4 +178,3 @@ migration-wizard-progress-success-history =
     }
 migration-wizard-progress-success-formdata = Amazray n tferkit
 migration-wizard-safari-instructions-continue = Fren “Kemmel”
-migration-wizard-safari-select-button = Fren afaylu

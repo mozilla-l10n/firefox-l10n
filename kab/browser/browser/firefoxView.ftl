@@ -84,6 +84,8 @@ firefoxview-collapse-button-hide =
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Amazray
+    .title = Amazray
 firefoxview-history-header = Amazray
 
 ## Open Tabs in this context refers to all open tabs in the browser
@@ -94,6 +96,9 @@ firefoxview-opentabs-header = Iccaren yeldin
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Iccaren imedlen melmi kan
+    .title = Iccaren imedlen melmi kan
+firefoxview-recently-closed-header = Iccaren imedlen melmi kan
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 

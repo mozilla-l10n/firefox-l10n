@@ -681,6 +681,8 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Mdel tugna-deg-tugnz ({ $shortcut })
 picture-in-picture-panel-header = Tugna-deg-tugna
+picture-in-picture-enable-toggle =
+    .label = Rmed akken yebɣu yılı
 
 ## Full Screen and Pointer Lock UI
 
