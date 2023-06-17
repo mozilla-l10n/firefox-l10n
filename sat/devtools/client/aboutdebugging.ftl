@@ -183,6 +183,13 @@ about-debugging-browser-version-too-old = ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱵᱽᱨ
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Firefox ᱨᱮᱭᱟᱜ ᱱᱚᱶᱟ ᱵᱷᱚᱨᱥᱚᱱ ᱨᱮ Android (68) ᱨᱮᱭᱟᱜ Firefox ᱨᱮ ᱰᱮᱵᱩᱜ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱾ ᱟᱞᱮ ᱫᱚ Firefox for Android Nightly ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱨᱮ ᱦᱚᱦᱟᱞ ᱠᱟᱛᱮ ᱴᱮᱥᱴᱤᱝ ᱞᱟᱹᱜᱤᱫ ᱞᱮ ᱵᱟᱛᱟᱣ ᱮᱫᱟ ᱾ <a>ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱡᱟᱹᱥᱛᱤ ᱱᱟᱶᱟ ᱜᱮᱭᱟ ({ $runtimeVersion }, buildID { $runtimeID }) ᱠᱷᱚᱱ ᱟᱢᱟᱜ { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝᱥᱚᱦᱚᱫ ᱥᱮᱴᱚᱯ ᱠᱟᱱᱟ ᱟᱨ DevTools ᱫᱚ ᱠᱷᱟᱨᱟᱯ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ Firefox ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾<a>ᱜᱚᱲᱚᱫᱩᱣᱟᱹᱨ</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -190,8 +197,18 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜ
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = ᱡᱩᱲᱟᱹᱣ ᱴᱤᱴᱠᱟ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = ᱡᱩᱲᱟᱹᱣ ᱴᱤᱴᱠᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = ᱢᱚᱦᱲᱟ
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = ᱦᱩᱰᱤᱧ / ᱯᱟᱥᱱᱟᱣ
 
 # Debug Targets strings
 
@@ -202,12 +219,29 @@ about-debugging-debug-target-list-empty = ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱱᱤ�
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = ᱧᱮᱧᱮᱞ
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = ᱚᱥᱛᱷᱟᱭ ᱮᱰ-ᱚᱱ ᱞᱟᱫᱮ ᱢᱮ …
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = ᱚᱥᱛᱷᱟᱭ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = ᱚᱪᱚᱜ ᱢᱮ
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will forcefully terminate the extension background script (button
+# only visible in extensions that includes a non-persistent background script, either an
+# event page or a background service worker).
+about-debugging-tmp-extension-terminate-bgscript-button = ᱵᱮᱜᱽᱨᱟᱣᱱᱰ ᱥᱠᱨᱤᱯᱴ ᱵᱚᱸᱫ ᱢᱮ
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = manifest.json ᱨᱮᱫᱽ ᱥᱮ .xpi/.zip ᱟᱨᱠᱟᱭᱤᱵᱽ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = ᱱᱚᱶᱟ WebExtension ᱴᱷᱚᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱚᱥᱛᱷᱟᱭ ID ᱢᱮᱱᱟᱜᱼᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -233,8 +267,25 @@ about-debugging-extension-backgroundscript =
 about-debugging-extension-backgroundscript-status-running = ᱫᱟᱹᱲᱮᱫᱟᱭ
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = ᱵᱚᱱᱫᱚ ᱟᱠᱟᱱᱟ
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = ᱰᱷᱟᱠᱟ
+    .disabledTitle = Service Worker ᱰᱷᱟᱠᱟ ᱫᱚ ᱟᱭᱢᱟᱠᱟᱹᱢᱤᱦᱚᱨᱟ { -brand-shorter-name } ᱞᱟᱹᱜᱤᱫ ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = ᱮᱛᱦᱚᱵ
+    .disabledTitle = Service Worker ᱰᱷᱟᱠᱟ ᱫᱚ ᱟᱭᱢᱟᱠᱟᱹᱢᱤᱦᱚᱨᱟ { -brand-shorter-name } ᱞᱟᱹᱜᱤᱫ ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = ᱵᱤᱱᱧᱩᱛᱩᱢ
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = ᱟᱹᱛᱩᱨ
+    .value = ᱟᱹᱛᱩᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱧᱡᱚᱢ ᱮᱫᱟᱭ
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = ᱟᱹᱛᱩᱨ
+    .value = ᱟᱹᱛᱩᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱟᱧᱡᱚᱢ ᱮᱫᱟᱭ
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = ᱧᱤᱨ ᱠᱟᱱᱟᱭ
