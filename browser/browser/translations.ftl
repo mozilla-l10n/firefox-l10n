@@ -34,6 +34,13 @@ translations-panel-error-load-languages-hint-button =
 translations-panel-error-unsupported = Δεν διατίθεται μετάφραση για αυτήν τη σελίδα
 translations-panel-error-change-button =
     .label = Αλλαγή αρχικής γλώσσας
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Δυστυχώς, δεν υποστηρίζουμε ακόμα τα { $language }.
 translations-panel-error-unsupported-hint-unknown = Δυστυχώς, δεν υποστηρίζουμε ακόμα αυτήν τη γλώσσα.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -63,11 +70,15 @@ translations-manage-language-download-button =
 translations-manage-language-delete-button =
     .label = Διαγραφή
     .accesskey = γ
+translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-settings-title =
     .title = Ρυθμίσεις μεταφράσεων
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = Θα γίνεται αυτόματα μετάφραση για τις παρακάτω γλώσσες
+translations-settings-never-translate-langs-description = Δεν θα προσφέρεται μετάφραση για τις παρακάτω γλώσσες
+translations-settings-never-translate-sites-description = Δεν θα προσφέρεται μετάφραση για τους παρακάτω ιστοτόπους
 translations-settings-languages-column =
     .label = Γλώσσες
 translations-settings-remove-language-button =
