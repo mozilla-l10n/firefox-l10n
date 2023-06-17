@@ -42,6 +42,19 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-area = <code>alt</code> ᱮᱴᱨᱤᱵᱭᱩᱴ ᱫᱚ <div>area</div> ᱱᱟᱹᱢᱩᱱᱟ ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱡᱟᱦᱟᱸ ᱴᱷᱮᱱ <span>href</span> ᱮᱴᱨᱤᱵᱭᱩᱴ ᱢᱮᱱᱟᱜᱼᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-dialog = ᱰᱟᱭᱚᱜᱽ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱛᱷᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-document-title = ᱫᱚᱞᱤᱞ ᱴᱷᱮᱱ <code>ᱧᱩᱛᱩᱢ</code> ᱛᱟᱦᱮᱸᱱ ᱢᱟᱸ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-embed = ᱠᱷᱚᱧᱡᱟ ᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱛᱷᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-figure = ᱪᱤᱛᱟᱹᱨ ᱥᱟᱶ ᱚᱯᱥᱚᱱᱟᱞ ᱠᱚᱯᱥᱚᱱ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱠᱚᱜ ᱠᱟᱛᱷᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-fieldset = <code>fieldset</code>ᱱᱟᱹᱢᱩᱱᱟ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾ <a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-fieldset-legend2 = ᱢᱤᱫᱴᱟᱹᱝ <code>legend</code> ᱱᱟᱹᱢᱩᱱᱟ ᱫᱚ <span>fieldset</span> ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-form = ᱯᱷᱚᱨᱢ ᱱᱟᱹᱢᱩᱱᱟ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-form-visible = ᱯᱷᱚᱨᱢ ᱱᱟᱹᱢᱩᱱᱟ ᱨᱮ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱧᱮᱞᱚᱜ ᱚᱞ ᱪᱤᱱᱦᱟᱹ ᱢᱮᱱᱟᱜᱼᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-frame = <code>frame</code>ᱱᱟᱹᱢᱩᱱᱟ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱜ ᱠᱟᱛᱷᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-glyph = <code>alt</code> ᱮᱴᱨᱤᱵᱭᱩᱴ ᱫᱚ <span>mglyph</span> ᱱᱟᱹᱢᱩᱱᱟ ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-heading = ᱦᱮᱰᱤᱝ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-heading-content = ᱦᱮᱰᱤᱝ ᱨᱮ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱧᱮᱞᱚᱜ ᱚᱞ ᱛᱟᱦᱮᱸᱱ ᱢᱟᱸ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+accessibility-text-label-issue-iframe = <code>alt</code> ᱮᱴᱨᱤᱵᱭᱩᱴ ᱫᱚ <span>iframe</span> ᱡᱤᱱᱤᱥ ᱵᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
