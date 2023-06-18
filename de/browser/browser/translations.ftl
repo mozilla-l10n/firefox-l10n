@@ -69,11 +69,21 @@ translations-panel-error-unsupported-hint-unknown = Leider wird diese Sprache no
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Übersetzen von
+translations-panel-to-label = Übersetzen nach
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Diese Seite wurde von { $fromLanguage } nach { $toLanguage } übersetzt
 translations-panel-choose-language =
     .label = Sprache auswählen
 translations-panel-restore-button =
