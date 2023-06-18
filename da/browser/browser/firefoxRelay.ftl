@@ -26,6 +26,13 @@ firefox-relay-opt-in-confirmation-enable =
     .accesskey = F
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Beskyt din mailadresse:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Brug { -relay-brand-name }-mail-maske
+firefox-relay-use-mask-title = Brug { -relay-brand-name }-mail-maske
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Brug mail-maske
+    .accesskey = B
 firefox-relay-opt-in-confirmation-disable =
     .label = Vis mig ikke dette igen
     .accesskey = V
