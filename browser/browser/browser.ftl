@@ -680,6 +680,8 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Åbn billede-i-billede ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Luk billede-i-billede ({ $shortcut })
+picture-in-picture-panel-header = Billede-i-billede
+picture-in-picture-panel-headline = Dette websted anbefaler ikke billede-i-billede
 
 ## Full Screen and Pointer Lock UI
 
