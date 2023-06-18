@@ -24,6 +24,8 @@ firefox-relay-generate-mask-subtitle = Opret { -relay-brand-short-name }-maske
 firefox-relay-opt-in-confirmation-enable =
     .label = Fortsæt
     .accesskey = F
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Beskyt din mailadresse:
 firefox-relay-opt-in-confirmation-disable =
     .label = Vis mig ikke dette igen
     .accesskey = V

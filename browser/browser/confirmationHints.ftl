@@ -13,3 +13,6 @@ confirmation-hint-pin-tab = Fastgjort!
 confirmation-hint-pin-tab-description = Højreklik på fanebladet for at frigøre det.
 confirmation-hint-send-to-device = Sendt!
 confirmation-hint-firefox-relay-mask-generated = Ny { -relay-brand-short-name }-maske oprettet!
+confirmation-hint-firefox-relay-mask-created = Ny maske oprettet!
+confirmation-hint-firefox-relay-mask-reused = Eksisterende maske genanvendt!
+confirmation-hint-screenshot-copied = Skærmbillede kopieret!
