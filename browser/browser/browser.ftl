@@ -682,6 +682,9 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Luk billede-i-billede ({ $shortcut })
 picture-in-picture-panel-header = Billede-i-billede
 picture-in-picture-panel-headline = Dette websted anbefaler ikke billede-i-billede
+picture-in-picture-panel-body = Videoer vises muligvis ikke som udvikleren havde tænkt sig, når billede-i-billede er aktiveret.
+picture-in-picture-enable-toggle =
+    .label = Aktiver alligevel
 
 ## Full Screen and Pointer Lock UI
 
@@ -999,6 +1002,10 @@ firefox-relay-offer-what-relay-does = Vi videresender alle mails fra <strong>{ $
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Vores sikre og letanvendelige masker skjuler din mailadresse for at beskytte din identitet og forhindre spam.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Alle mail sendt til dine mail-masker bliver sendt videre til <strong>{ $useremail }</strong> (medmindre du beslutter at blokere dem)
 
 ## Add-on Pop-up Notifications
 
