@@ -1006,6 +1006,7 @@ firefox-relay-offer-why-to-use-relay = Vores sikre og letanvendelige masker skju
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Alle mail sendt til dine mail-masker bliver sendt videre til <strong>{ $useremail }</strong> (medmindre du beslutter at blokere dem)
+firefox-relay-offer-legal-notice = Ved at klikke "Brug mail-maske" accepterer du <label data-l10n-name="tos-url">tjenestevilkårene</label> og <label data-l10n-name="privacy-url">privatlivserklæringen</label>.
 
 ## Add-on Pop-up Notifications
 
