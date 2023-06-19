@@ -11,5 +11,13 @@ webauthn-pin-invalid-prompt =
         [few] Погрешан PIN! Унесите исправан PIN за ваш уређај. Преостала су вам { $retriesLeft } покушаја.
        *[other] Погрешан PIN! Унесите исправан PIN за ваш уређај. Преостало вам је { $retriesLeft } покушаја.
     }
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Нетачан PIN. Имате још { $retriesLeft } покушај пре него што трајно изгубите приступ подацима за пријаву на овом уређају.
+        [few] Нетачан PIN. Имате још { $retriesLeft } покушаја пре него што трајно изгубите приступ подацима за пријаву на овом уређају.
+       *[other] Нетачан PIN. Имате још { $retriesLeft } покушаја пре него што трајно изгубите приступ подацима за пријаву на овом уређају.
+    }
 webauthn-pin-invalid-short-prompt = Нетачан PIN. Покушајте поново.
 webauthn-pin-required-prompt = Унесите PIN код за ваш уређај.
