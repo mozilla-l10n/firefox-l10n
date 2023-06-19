@@ -1000,6 +1000,10 @@ firefox-relay-offer-what-relay-does = Romondojeýta opaite ñanduti veve <strong
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Ore rovamo’ãha hekorosã ha hasy’ỹva ijepuru omo’ã nde reraite ha omboyke ñandutiveve eipota’ỹva oñomívo ne ñanduti veve kundaharape.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Opaite ñanduti veve emondóva nde rovamo’ãha ñanduti vevépe oñemondojeýta <strong>{ $useremail }</strong> (nderejokói mba’éramo).
 
 ## Add-on Pop-up Notifications
 
