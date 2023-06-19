@@ -162,12 +162,15 @@ media-device-channels = Канали
 media-device-rate = Стопа
 media-device-latency = Латентност
 media-capabilities-title = Могућности медија
-media-codec-support-info = Информације о подршци за Codec
+media-codec-support-info = Информације о подршци за кодек
 # List all the entries of the database.
 media-capabilities-enumerate = Попис уноса базе података
 
 ## Codec support table
 
+media-codec-support-sw-decoding = Софтверско декодирање
+media-codec-support-hw-decoding = Хардверско декодирање
+media-codec-support-codec-name = Име кодека
 media-codec-support-supported = Подржано
 media-codec-support-unsupported = Није подржано
 
