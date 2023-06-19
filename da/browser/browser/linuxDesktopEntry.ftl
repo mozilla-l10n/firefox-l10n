@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Brug internettet
 desktop-entry-generic-name = Webbrowser
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = { -brand-shortcut-name }-browser
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
