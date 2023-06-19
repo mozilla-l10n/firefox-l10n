@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Преведи ову страницу
+translations-panel-settings-button =
+    .aria-label = Управљај подешавањима превода
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -97,6 +99,12 @@ translations-manage-description = Преузмите језике за офла�
 translations-manage-all-language = Сви језици
 translations-manage-download-button = Преузми
 translations-manage-delete-button = Обриши
+translations-manage-language-download-button =
+    .label = Преузми
+    .accesskey = П
+translations-manage-language-delete-button =
+    .label = Избриши
+    .accesskey = И
 translations-manage-error-download = Дошло је до проблема при преузимању језичких датотека. Покушајте поново.
 translations-manage-error-delete = Дошло је до грешке при брисању језичких датотека. Покушајте поново.
 translations-manage-error-list = Није могуће добити листу доступних језика за превод. Освежите страницу да покушате поново.
