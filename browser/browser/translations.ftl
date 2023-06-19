@@ -76,6 +76,14 @@ translations-panel-to-label = Langue cible :
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Cette page est traduite en { $toLanguage }, l’originale est en { $fromLanguage }
 translations-panel-choose-language =
     .label = Choisissez une langue
 translations-panel-restore-button =
@@ -87,6 +95,7 @@ translations-manage-header = Traductions
 translations-manage-settings-button =
     .label = Paramètres…
     .accesskey = P
+translations-manage-description = Télécharger des langues pour traduction hors connexion.
 translations-manage-all-language = Toutes les langues
 translations-manage-download-button = Télécharger
 translations-manage-delete-button = Supprimer
