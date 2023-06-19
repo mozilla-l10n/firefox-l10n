@@ -68,6 +68,7 @@ third-party-button-expand =
 third-party-button-collapse =
     .title = Emomichĩmbaite marandu
 third-party-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã omoambue hag̃ua ta’ãha mbohapyháva jejokopyre.
+third-party-blocking-requires-restart = Ejoko hag̃ua mbohapyháva ra’ãha, { -brand-short-name } oñepyrũjeyva’erã.
 third-party-should-restart-title = Emoñepyrũjey { -brand-short-name }
 third-party-should-restart-ok = Emoñepyrũjey { -brand-short-name } ko’ág̃a
 third-party-restart-now = Emoñepyrũjey ko’ág̃a
