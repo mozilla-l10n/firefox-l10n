@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = Mboheraguapy rehegua
 about-logging-page-title = Mboheraguapy ñangarekoha
 about-logging-current-log-file = Marandurenda rembiasakue rehegua:
-about-logging-current-log-modules = Jehaipy ra’ãha rehegua:
 about-logging-new-log-file = Marandurenda mboheraguapy pyahu:
 about-logging-currently-enabled-log-modules = Mboheraguapy ra’ãha ijurujahína:
 about-logging-log-tutorial = Eporandu <a data-l10n-name="logging">HTTP Logging</a> eikuaasérõ mba’éichapa eipurúta tembipuru.
@@ -44,6 +26,7 @@ about-logging-logging-to-profiler = Eñemboheraguapy { -profiler-brand-name }-pe
 about-logging-no-log-modules = Avave
 about-logging-no-log-file = Avave
 about-logging-logging-preset-selector-text = Mboheraguapy ypygua:
+about-logging-with-profiler-stacks-checkbox = Emyandy píla resa’ỹijoha ñe’ẽmondo jehaipyrãme g̃uarã
 
 ## Logging presets
 
