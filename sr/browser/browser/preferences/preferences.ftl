@@ -888,7 +888,7 @@ sync-connect-another-device = Повежи други уређај
 sync-verification-sent-title = Потврда је послата
 # Variables:
 #   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Веза за потврду је послана на { $userEmail }.
+sync-verification-sent-body = Веза за потврду је послана на { $email }.
 sync-verification-not-sent-title = Не могу да пошаљем потврду
 sync-verification-not-sent-body = Не можемо да пошаљемо е-пошту за потврду, покушајте касније.
 
