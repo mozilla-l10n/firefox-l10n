@@ -167,5 +167,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Искључи звук картице
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Укључи звук картице
 tabbrowser-manager-close-tab =
     .tooltiptext = Затвори картицу
