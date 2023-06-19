@@ -680,6 +680,9 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Abrir Imagem na Imagem ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fechar Imagem na Imagem ({ $shortcut })
+picture-in-picture-panel-header = Vídeo em janela flutuante
+picture-in-picture-enable-toggle =
+    .label = Ativar mesmo assim
 
 ## Full Screen and Pointer Lock UI
 
