@@ -40,6 +40,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Sous-titres
     .tooltip = Sous-titres
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Plein écran
+    .tooltip = Plein écran (double clic ou { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Quitter le mode plein écran
+    .tooltip = Quitter le mode plein écran (double clic ou { $shortcut })
 
 ##
 
