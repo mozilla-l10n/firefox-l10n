@@ -19,3 +19,4 @@ desktop-entry-x-gnome-full-name = { -brand-shortcut-name } веб преглед
 
 desktop-action-new-window-name = Нови прозор
 desktop-action-new-private-window-name = Нови приватни прозор
+desktop-action-open-profile-manager = Отворите управљач профила

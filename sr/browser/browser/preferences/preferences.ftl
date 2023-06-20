@@ -922,6 +922,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Сазнајте више
 relay-integration =
     .label = Омогућите { -relay-brand-name } у вашем { -brand-short-name } управљачу лозинкама
+preferences-relay-integration-checkbox =
+    .label = Предложите { -relay-brand-name } маске за е-пошту да заштитите своју адресу е-поште
 relay-integration-learn-more-link = Сазнајте више
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

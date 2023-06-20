@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Сачуване пријаве и
 migration-history-option-label = Историја прегледања
 migration-form-autofill-option-label = Подаци о аутоматском попуњавању образаца
 migration-payment-methods-option-label = Начини плаћања
+migration-cookies-option-label = Колачићи
+migration-session-option-label = Прозори и картице
+migration-otherdata-option-label = Остали подаци
 migration-passwords-from-file-progress-header = Увези датотеку са лозинкама
 migration-passwords-from-file-success-header = Лозинке су успешно увезене
 migration-passwords-from-file = Датотека се проверава за лозинке
@@ -98,6 +101,7 @@ migration-bookmarks-from-file-picker-title = Увоз датотеке са об
 migration-bookmarks-from-file-progress-header = Увоз обележивача
 migration-bookmarks-from-file = Обележивачи
 migration-bookmarks-from-file-success-header = Обележивачи су успешно увезени
+migration-bookmarks-from-file-no-valid-data = Датотека не садржи податке о обележивачима. Изаберите другу датотеку.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
