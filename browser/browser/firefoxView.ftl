@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = 다른 기기의 탭
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = 모두 보기
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = 창 { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = 창 { $winID } (현재)
+firefoxview-opentabs-focus-tab =
+    .title = 이 탭으로 전환
+firefoxview-show-more = 자세히 보기
+firefoxview-show-less = 간단히 보기
