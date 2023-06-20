@@ -651,6 +651,11 @@ prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
     .accesskeynotsyncing = N
     .labelsyncing = Համաժամեցում․․․
+prefs-sync-now-button =
+    .label = Համաժամեցնել հիմա
+    .accesskey = N
+prefs-syncing-button =
+    .label = Համաժամեցում․․․
 
 ## The list of things currently syncing.
 
