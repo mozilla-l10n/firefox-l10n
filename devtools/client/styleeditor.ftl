@@ -34,3 +34,12 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Pāriet uz rindiņu…
     .accesskey = u
+# This string is shown in the style sheets list
+# Variables:
+#   $ruleCount (Integer) - The number of rules in the stylesheet.
+styleeditor-stylesheet-rule-count =
+    { $ruleCount ->
+        [zero] { $ruleCount } noteikums.
+        [one] { $ruleCount } noteikumi.
+       *[other] { $ruleCount } noteikumi.
+    }
