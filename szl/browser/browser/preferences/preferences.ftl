@@ -725,6 +725,11 @@ prefs-sync-now =
     .labelnotsyncing = Synchrōnizuj teroz
     .accesskeynotsyncing = T
     .labelsyncing = Synchrōnizuja…
+prefs-sync-now-button =
+    .label = Synchrōnizuj teroz
+    .accesskey = T
+prefs-syncing-button =
+    .label = Synchrōnizuja…
 
 ## The list of things currently syncing.
 
