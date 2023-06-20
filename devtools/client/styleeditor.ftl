@@ -41,3 +41,12 @@ styleeditor-go-to-line =
     .accesskey = й
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Не знайдено відповідної таблиці стилів.
+# This string is shown in the style sheets list
+# Variables:
+#   $ruleCount (Integer) - The number of rules in the stylesheet.
+styleeditor-stylesheet-rule-count =
+    { $ruleCount ->
+        [one] { $ruleCount } правило.
+        [few] { $ruleCount } правила.
+       *[many] { $ruleCount } правил.
+    }
