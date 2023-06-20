@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ایں ورقے دا ترجمہ کرو
+translations-panel-settings-button =
+    .aria-label = ترجمہ ترتیباں منظم کرو
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
