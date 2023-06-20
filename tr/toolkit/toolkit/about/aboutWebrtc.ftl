@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = günlüğü göster
     .title = bu bölümü genişletmek için tıklayın
 about-webrtc-log-hide-msg = günlüğü gizle
     .title = bu bölümü daraltmak için tıklayın
+about-webrtc-copy-report-button = Raporu kopyala
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
