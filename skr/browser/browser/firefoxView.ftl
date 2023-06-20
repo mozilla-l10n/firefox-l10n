@@ -98,11 +98,19 @@ firefoxview-opentabs-header = ٹیباں کھولو
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = حالیہ بند تھیاں ٹیباں
+    .title = حالیہ بند تھیاں ٹیباں
+firefoxview-recently-closed-header = حالیہ بند تھیاں ٹیباں
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = ٻیاں ڈیوائساں کنوں ٹیباں
+    .title = ٻیاں ڈیوائساں کنوں ٹیباں
+firefoxview-synced-tabs-header = ٻیاں ڈیوائساں کنوں ٹیباں
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = سارے ݙیکھو
+firefoxview-show-more = ودھیک ݙکھاؤ
+firefoxview-show-less = گھٹ ݙکھاؤ

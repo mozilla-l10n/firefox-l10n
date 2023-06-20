@@ -59,6 +59,9 @@ migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان ت
 migration-history-option-label = براؤزنگ تاریخ
 migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
 migration-payment-methods-option-label = ادائیگی طریقے
+migration-cookies-option-label = کوکیاں
+migration-session-option-label = ونڈو تے ٹیباں
+migration-otherdata-option-label = ٻیا ڈیٹا
 migration-passwords-from-file-progress-header = پاس ورڈز فائل امپورٹ کرو
 migration-passwords-from-file-success-header = پاس ورڈز کامیابی نال امپورٹ تھی آئے
 migration-passwords-from-file = پاس ورڈاں کیتے فائل دی پڑتال کریندا پئے
@@ -101,6 +104,13 @@ migration-wizard-progress-success-updated-passwords =
     }
 migration-bookmarks-from-file-picker-title = نشانیاں دی فائل درآمد کرو
 migration-bookmarks-from-file = نشانیاں
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML دستاویز
+       *[other] HTML فائل
+    }
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
