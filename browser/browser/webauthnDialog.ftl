@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Rangt PIN-númer. Reyndu aftur.
 webauthn-pin-required-prompt = Settu inn PIN-númerið fyrir tækið þitt.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Staðfesting notanda mistókst. Þú átt { $retriesLeft } tilraun eftir. Reyndu aftur.
+       *[other] Staðfesting notanda mistókst. Þú átt { $retriesLeft } tilraunir eftir. Reyndu aftur.
+    }
+webauthn-uv-invalid-short-prompt = Staðfesting notanda mistókst. Reyndu aftur.
