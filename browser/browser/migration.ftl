@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Vinduer og faneblade
 browser-data-session-label =
     .value = Vinduer og faneblade
+browser-data-payment-methods-checkbox =
+    .label = Betalingsmetoder
+browser-data-payment-methods-label =
+    .value = Betalingsmetoder
