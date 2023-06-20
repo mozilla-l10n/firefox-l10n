@@ -539,6 +539,11 @@ prefs-sync-now =
     .labelnotsyncing = هاوکاتگەری بکە ئێستا
     .accesskeynotsyncing = N
     .labelsyncing = هاوکاتگەری دەکات…
+prefs-sync-now-button =
+    .label = هاوکاتگەری بکە ئێستا
+    .accesskey = N
+prefs-syncing-button =
+    .label = هاوکاتگەری دەکات…
 
 ## The list of things currently syncing.
 
