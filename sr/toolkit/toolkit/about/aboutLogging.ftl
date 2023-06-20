@@ -2,37 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name =
-    { $case ->
-       *[nom] Firefox Profiler
-        [gen] Firefox Profiler-а
-        [dat] Firefox Profiler-у
-        [acc] Firefox Profiler
-        [ins] Firefox Profiler-ом
-        [loc] Firefox Profiler-у
-    }
-
-##
-
 # This is the title of the page
 about-logging-title = О бележењу
 about-logging-page-title = Управљач бележења
-about-logging-current-log-file = Тренутна датотека евиденције:
-about-logging-current-log-modules = Тренутни модули за бележење:
-about-logging-new-log-file = Нова датотека евиденције:
+about-logging-current-log-file = Тренутна датотека бележења:
+about-logging-new-log-file = Нова датотека бележења:
 about-logging-currently-enabled-log-modules = Тренутно омогућени модули за бележење:
 about-logging-log-tutorial = Погледајте <a data-l10n-name="logging">HTTP бележење</a> за инструкције о коришћењу овог алата.
 # This message is used as a button label, "Open" indicates an action.
