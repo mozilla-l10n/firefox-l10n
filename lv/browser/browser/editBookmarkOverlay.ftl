@@ -4,21 +4,24 @@
 
 bookmark-overlay-choose =
     .label = Izvēlieties…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = Rādīt visas grāmatzīmju mapes
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Paslēpt
-
+bookmark-overlay-folders-expander2 =
+    .tooltiptext = Rādīt visas grāmatzīmju mapes
+bookmark-overlay-folders-expander-hide =
+    .tooltiptext = Paslēpt
 bookmark-overlay-new-folder-button =
     .label = Jauna mape
     .accesskey = m
-
 bookmark-overlay-tags-empty-description =
     .placeholder = Atdaliet birkas ar komatiem
-
 bookmark-overlay-tags-expander =
     .tooltiptext = Rādīt visas birkas
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Paslēpt
-
+bookmark-overlay-tags-expander2 =
+    .tooltiptext = Rādīt visas birkas
+bookmark-overlay-tags-expander-hide =
+    .tooltiptext = Paslēpt
