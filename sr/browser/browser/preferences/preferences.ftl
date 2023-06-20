@@ -803,6 +803,11 @@ prefs-sync-now =
     .labelnotsyncing = Синхронизуј
     .accesskeynotsyncing = С
     .labelsyncing = Синхронизовање…
+prefs-sync-now-button =
+    .label = Синхронизуј
+    .accesskey = С
+prefs-syncing-button =
+    .label = Синхронизовање…
 
 ## The list of things currently syncing.
 
