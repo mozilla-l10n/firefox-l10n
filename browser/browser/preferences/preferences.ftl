@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Njëkohësoji Tani
     .accesskeynotsyncing = N
     .labelsyncing = Po njëkohësohet…
+prefs-sync-now-button =
+    .label = Njëkohësoji Tani
+    .accesskey = N
+prefs-syncing-button =
+    .label = Po njëkohësohet…
 
 ## The list of things currently syncing.
 
