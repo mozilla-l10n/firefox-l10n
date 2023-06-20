@@ -112,5 +112,9 @@ firefoxview-synced-tabs-header = ٻیاں ڈیوائساں کنوں ٹیباں
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = سارے ݙیکھو
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = ونڈو { $winID }
 firefoxview-show-more = ودھیک ݙکھاؤ
 firefoxview-show-less = گھٹ ݙکھاؤ
