@@ -721,6 +721,11 @@ prefs-sync-now =
     .labelnotsyncing = Sünkroniseeri kohe
     .accesskeynotsyncing = S
     .labelsyncing = Sünkroniseerimine…
+prefs-sync-now-button =
+    .label = Sünkroniseeri kohe
+    .accesskey = S
+prefs-syncing-button =
+    .label = Sünkroniseerimine…
 
 ## The list of things currently syncing.
 
