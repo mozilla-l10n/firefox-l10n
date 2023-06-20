@@ -719,6 +719,11 @@ prefs-sync-now =
     .labelnotsyncing = සමමුහූර්ත කරන්න
     .accesskeynotsyncing = N
     .labelsyncing = සමමුහූර්ත වෙමින්
+prefs-sync-now-button =
+    .label = සමමුහූර්ත කරන්න
+    .accesskey = N
+prefs-syncing-button =
+    .label = සමමුහූර්ත වෙමින්
 
 ## The list of things currently syncing.
 
