@@ -27,3 +27,15 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN anghywir. Ceisiwch eto.
 webauthn-pin-required-prompt = Rhowch y PIN ar gyfer eich dyfais.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [zero] Methodd dilysu defnyddiwr. Nid oes gennych unrhyw ymgeisiau ar ôl
+        [one] Methodd dilysu defnyddiwr. Mae gennych { $retriesLeft } ymgais ar ôl. Ceisiwch eto.
+        [two] Methodd dilysu defnyddiwr. Mae gennych { $retriesLeft } ymgais ar ôl. Ceisiwch eto.
+        [few] Methodd dilysu defnyddiwr. Mae gennych { $retriesLeft } ymgais ar ôl. Ceisiwch eto.
+        [many] Methodd dilysu defnyddiwr. Mae gennych { $retriesLeft } ymgais ar ôl. Ceisiwch eto.
+       *[other] Methodd dilysu defnyddiwr. Mae gennych { $retriesLeft } ymgais ar ôl. Ceisiwch eto.
+    }
+webauthn-uv-invalid-short-prompt = Methodd dilysu defnyddiwr. Ceisiwch eto.

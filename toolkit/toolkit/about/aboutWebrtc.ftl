@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = dangos cofnod
     .title = cliciwch i ehangu'r adran
 about-webrtc-log-hide-msg = cuddio cofnod
     .title = cliciwch i gau'r adran
+about-webrtc-copy-report-button = Copïo Adroddiad
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
