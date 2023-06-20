@@ -730,6 +730,11 @@ prefs-sync-now =
     .labelnotsyncing = ซิงค์ตอนนี้
     .accesskeynotsyncing = N
     .labelsyncing = กำลังซิงค์…
+prefs-sync-now-button =
+    .label = ซิงค์ตอนนี้
+    .accesskey = N
+prefs-syncing-button =
+    .label = กำลังซิงค์…
 
 ## The list of things currently syncing.
 
