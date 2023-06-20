@@ -34,3 +34,11 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Pye irek…
     .accesskey = P
+# This string is shown in the style sheets list
+# Variables:
+#   $ruleCount (Integer) - The number of rules in the stylesheet.
+styleeditor-stylesheet-rule-count =
+    { $ruleCount ->
+        [one] { $ruleCount } cik.
+       *[other] cik { $ruleCount }.
+    }
