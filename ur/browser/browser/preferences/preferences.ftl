@@ -562,6 +562,11 @@ prefs-sync-now =
     .labelnotsyncing = ابھی ہمہ وقت سازی کریں
     .accesskeynotsyncing = ن
     .labelsyncing = ہمہ وقت سازی کر رہا ہے…
+prefs-sync-now-button =
+    .label = ابھی ہمہ وقت سازی کریں
+    .accesskey = ن
+prefs-syncing-button =
+    .label = ہمہ وقت سازی کر رہا ہے…
 
 ## The list of things currently syncing.
 
