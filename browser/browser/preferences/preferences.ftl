@@ -866,6 +866,11 @@ prefs-sync-now =
     .labelnotsyncing = Synchronizovat
     .accesskeynotsyncing = S
     .labelsyncing = Probíhá synchronizace…
+prefs-sync-now-button =
+    .label = Synchronizovat
+    .accesskey = S
+prefs-syncing-button =
+    .label = Probíhá synchronizace…
 
 ## The list of things currently syncing.
 
