@@ -745,6 +745,11 @@ prefs-sync-now =
     .labelnotsyncing = Ҳозир ҳамоҳанг кунед
     .accesskeynotsyncing = Ҳ
     .labelsyncing = Ҳамоҳангсозӣ…
+prefs-sync-now-button =
+    .label = Ҳозир ҳамоҳанг кунед
+    .accesskey = Ҳ
+prefs-syncing-button =
+    .label = Ҳамоҳангсозӣ…
 
 ## The list of things currently syncing.
 
