@@ -551,6 +551,11 @@ prefs-sync-now =
     .labelnotsyncing = Sincrunizza ora
     .accesskeynotsyncing = S
     .labelsyncing = Staju sincrunizzannu…
+prefs-sync-now-button =
+    .label = Sincrunizza ora
+    .accesskey = S
+prefs-syncing-button =
+    .label = Staju sincrunizzannu…
 
 ## The list of things currently syncing.
 
