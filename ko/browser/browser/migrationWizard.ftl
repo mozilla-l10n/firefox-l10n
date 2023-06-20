@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = 저장된 로그인 및 비밀번�
 migration-history-option-label = 방문 기록
 migration-form-autofill-option-label = 양식 자동 채우기 데이터
 migration-payment-methods-option-label = 결제 방법
+migration-cookies-option-label = 쿠키
+migration-session-option-label = 창과 탭
+migration-otherdata-option-label = 기타 데이터
 migration-passwords-from-file-progress-header = 비밀번호 파일 가져오기
 migration-passwords-from-file-success-header = 비밀번호를 성공적으로 가져옴
 migration-passwords-from-file = 비밀번호 파일 확인 중
@@ -96,6 +99,7 @@ migration-bookmarks-from-file-picker-title = 북마크 파일 가져오기
 migration-bookmarks-from-file-progress-header = 북마크 가져오는 중
 migration-bookmarks-from-file = 북마크
 migration-bookmarks-from-file-success-header = 북마크를 성공적으로 가져옴
+migration-bookmarks-from-file-no-valid-data = 파일에는 북마크 데이터가 포함되어 있지 않습니다. 다른 파일을 선택하세요.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
