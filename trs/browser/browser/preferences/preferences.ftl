@@ -541,6 +541,11 @@ prefs-sync-now =
     .labelnotsyncing = Nagi'iaj nuguàn'àn hīaj
     .accesskeynotsyncing = N
     .labelsyncing = Nagi'iaj nuguàn'anj…
+prefs-sync-now-button =
+    .label = Nagi'iaj nuguàn'àn hīaj
+    .accesskey = N
+prefs-syncing-button =
+    .label = Nagi'iaj nuguàn'anj…
 
 ## The list of things currently syncing.
 
