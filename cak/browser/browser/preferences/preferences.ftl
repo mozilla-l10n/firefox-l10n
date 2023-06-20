@@ -718,6 +718,11 @@ prefs-sync-now =
     .labelnotsyncing = Tixim Wakami
     .accesskeynotsyncing = W
     .labelsyncing = Nixim…
+prefs-sync-now-button =
+    .label = Tixim Wakami
+    .accesskey = W
+prefs-syncing-button =
+    .label = Nixim…
 
 ## The list of things currently syncing.
 
