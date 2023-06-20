@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Onjuiste pincode. Probeer het opnieuw.
 webauthn-pin-required-prompt = Voer de pincode voor uw apparaat in.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Gebruikersverificatie mislukt. U hebt nog { $retriesLeft } poging over. Probeer het opnieuw.
+       *[other] Gebruikersverificatie mislukt. U hebt nog { $retriesLeft } pogingen over. Probeer het opnieuw.
+    }
+webauthn-uv-invalid-short-prompt = Gebruikersverificatie mislukt. Probeer het opnieuw..
