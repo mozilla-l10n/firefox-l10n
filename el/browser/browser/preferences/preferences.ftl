@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Συγχρονισμός τώρα
     .accesskeynotsyncing = τ
     .labelsyncing = Συγχρονισμός…
+prefs-sync-now-button =
+    .label = Συγχρονισμός τώρα
+    .accesskey = τ
+prefs-syncing-button =
+    .label = Συγχρονισμός…
 
 ## The list of things currently syncing.
 
