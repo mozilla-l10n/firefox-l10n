@@ -34,3 +34,11 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = સીધા વાક્ય પર જાઓ…
     .accesskey = J
+# This string is shown in the style sheets list
+# Variables:
+#   $ruleCount (Integer) - The number of rules in the stylesheet.
+styleeditor-stylesheet-rule-count =
+    { $ruleCount ->
+        [one] { $ruleCount } નિયમ.
+       *[other] { $ruleCount } નિયમો.
+    }
