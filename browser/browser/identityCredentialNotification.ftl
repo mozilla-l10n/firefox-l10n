@@ -22,3 +22,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = Se connecter
     .accesskey = S
+identity-credential-policy-description = Se connecter à { $host } avec un compte { $provider } est soumis à la <label data-l10n-name="privacy-url">politique de confidentialité</label> et aux <label data-l10n-name="tos-url">conditions d’utilisation</label> de ce dernier.
