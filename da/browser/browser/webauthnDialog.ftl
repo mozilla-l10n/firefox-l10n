@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Forkert pinkode. Prøv igen.
 webauthn-pin-required-prompt = Indtast pinkoden for din enhed.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Brugergodkendelse slog fejl. Du har { $retriesLeft } forsøg tilbage. Prøv igen.
+       *[other] Brugergodkendelse slog fejl. Du har { $retriesLeft } forsøg tilbage. Prøv igen.
+    }
+webauthn-uv-invalid-short-prompt = Brugergodkendelse slog fejl. Prøv igen.
