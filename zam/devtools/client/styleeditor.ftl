@@ -8,3 +8,11 @@ styleeditor-find =
 styleeditor-find-again =
     .label = GòzăɁl nâl
     .accesskey = G
+# This string is shown in the style sheets list
+# Variables:
+#   $ruleCount (Integer) - The number of rules in the stylesheet.
+styleeditor-stylesheet-rule-count =
+    { $ruleCount ->
+        [one] { $ruleCount } rule.
+       *[other] { $ruleCount } rules.
+    }
