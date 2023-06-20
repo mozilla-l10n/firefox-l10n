@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Sincronisar ussa
     .accesskeynotsyncing = u
     .labelsyncing = Sincronisar…
+prefs-sync-now-button =
+    .label = Sincronisar ussa
+    .accesskey = u
+prefs-syncing-button =
+    .label = Sincronisar…
 
 ## The list of things currently syncing.
 
