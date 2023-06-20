@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Flyt op
 unified-extensions-context-menu-move-widget-down =
     .label = Flyt ned
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Nogle udvidelser er ikke tilladt
