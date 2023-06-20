@@ -107,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Bladwijzerbestand importeren
 migration-bookmarks-from-file-progress-header = Bladwijzers importeren
 migration-bookmarks-from-file = Bladwijzers
 migration-bookmarks-from-file-success-header = Bladwijzers met succes geïmporteerd
+migration-bookmarks-from-file-no-valid-data = Het bestand bevat geen bladwijzergegevens. Kies een ander bestand.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
