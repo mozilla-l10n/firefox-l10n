@@ -107,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Importer bogmærkefil
 migration-bookmarks-from-file-progress-header = Importerer bogmærker
 migration-bookmarks-from-file = Bogmærker
 migration-bookmarks-from-file-success-header = Bogmærker importeret
+migration-bookmarks-from-file-no-valid-data = Filen indeholder ikke bogmærke-data. Vælg en anden fil.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -114,6 +115,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-dokument
        *[other] HTML-fil
     }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-fil
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #

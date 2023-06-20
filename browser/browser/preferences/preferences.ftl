@@ -865,6 +865,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Læs mere
 relay-integration =
     .label = Aktiver { -relay-brand-name } i { -brand-short-name }' adgangskode-håndtering
+preferences-relay-integration-checkbox =
+    .label = Foreslå { -relay-brand-name }-mail-masker for at beskytte din mailadresse
 relay-integration-learn-more-link = Læs mere
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
