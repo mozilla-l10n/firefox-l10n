@@ -762,6 +762,11 @@ prefs-sync-now =
     .labelnotsyncing = Cydweddu Nawr
     .accesskeynotsyncing = N
     .labelsyncing = Cydweddu…
+prefs-sync-now-button =
+    .label = Cydweddu Nawr
+    .accesskey = N
+prefs-syncing-button =
+    .label = Cydweddu…
 
 ## The list of things currently syncing.
 
