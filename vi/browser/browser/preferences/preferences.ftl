@@ -730,6 +730,11 @@ prefs-sync-now =
     .labelnotsyncing = Đồng bộ hóa ngay
     .accesskeynotsyncing = N
     .labelsyncing = Đang đồng bộ hóa…
+prefs-sync-now-button =
+    .label = Đồng bộ hóa ngay
+    .accesskey = N
+prefs-syncing-button =
+    .label = Đang đồng bộ hóa…
 
 ## The list of things currently syncing.
 
