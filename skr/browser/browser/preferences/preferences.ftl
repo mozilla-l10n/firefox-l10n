@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = ہݨیں سینک کرو
     .accesskeynotsyncing = N
     .labelsyncing = سینک تھیندا پئے …
+prefs-sync-now-button =
+    .label = ہݨیں سینک کرو
+    .accesskey = N
+prefs-syncing-button =
+    .label = سینک تھیندا پئے …
 
 ## The list of things currently syncing.
 
