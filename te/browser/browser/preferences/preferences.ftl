@@ -573,6 +573,11 @@ prefs-sync-now =
     .labelnotsyncing = ఇప్పుడే సింక్రనించు
     .accesskeynotsyncing = N
     .labelsyncing = సింక్రనిస్తోంది…
+prefs-sync-now-button =
+    .label = ఇప్పుడే సింక్రనించు
+    .accesskey = N
+prefs-syncing-button =
+    .label = సింక్రనిస్తోంది…
 
 ## The list of things currently syncing.
 
