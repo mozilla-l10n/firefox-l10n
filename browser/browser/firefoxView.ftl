@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = As lapelas doutros dispositivos
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Ver todas
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Fiestra { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Fiestra { $winID } (Actual)
+firefoxview-opentabs-focus-tab =
+    .title = Cambiar a esta lapela
+firefoxview-show-more = Amosar máis
+firefoxview-show-less = Amosar menos
