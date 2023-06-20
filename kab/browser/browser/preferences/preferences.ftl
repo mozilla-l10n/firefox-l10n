@@ -740,6 +740,11 @@ prefs-sync-now =
     .labelnotsyncing = Mtawi tura
     .accesskeynotsyncing = T
     .labelsyncing = Amtawi…
+prefs-sync-now-button =
+    .label = Mtawi tura
+    .accesskey = T
+prefs-syncing-button =
+    .label = Amtawi…
 
 ## The list of things currently syncing.
 
