@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Synkronoi nyt
     .accesskeynotsyncing = N
     .labelsyncing = Synkronoidaan…
+prefs-sync-now-button =
+    .label = Synkronoi nyt
+    .accesskey = N
+prefs-syncing-button =
+    .label = Synkronoidaan…
 
 ## The list of things currently syncing.
 
