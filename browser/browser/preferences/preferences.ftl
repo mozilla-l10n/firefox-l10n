@@ -750,6 +750,11 @@ prefs-sync-now =
     .labelnotsyncing = Синхронизировать
     .accesskeynotsyncing = х
     .labelsyncing = Синхронизирую…
+prefs-sync-now-button =
+    .label = Синхронизировать
+    .accesskey = х
+prefs-syncing-button =
+    .label = Синхронизирую…
 
 ## The list of things currently syncing.
 
