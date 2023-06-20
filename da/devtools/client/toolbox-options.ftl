@@ -115,6 +115,8 @@ options-enable-remote-tooltip2 =
     .title = Tillader at fjern-debugge denne instans af browseren.
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = Brug tasten F12 til at åbne eller lukke Udviklerværktøj
+options-enable-f12-tooltip =
+    .title = Aktiver denne indstilling for at bruge F12-tasten til at åbne og lukke Udviklerværktøj
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Aktiver tilpasset formatering
 options-enable-custom-formatters-tooltip =
