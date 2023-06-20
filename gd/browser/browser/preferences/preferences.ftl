@@ -754,6 +754,11 @@ prefs-sync-now =
     .labelnotsyncing = Sioncronaich an-dràsta
     .accesskeynotsyncing = n
     .labelsyncing = ’Ga shioncronachadh…
+prefs-sync-now-button =
+    .label = Sioncronaich an-dràsta
+    .accesskey = n
+prefs-syncing-button =
+    .label = ’Ga shioncronachadh…
 
 ## The list of things currently syncing.
 
