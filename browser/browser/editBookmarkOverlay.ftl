@@ -4,9 +4,11 @@
 
 bookmark-overlay-choose =
     .label = Tlhopha…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = Bontsha ditsholadifaele tsotlhe tsa matshwaotsebe
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Fitlha
-
+bookmark-overlay-folders-expander2 =
+    .tooltiptext = Bontsha ditsholadifaele tsotlhe tsa matshwaotsebe
+bookmark-overlay-folders-expander-hide =
+    .tooltiptext = Fitlha
