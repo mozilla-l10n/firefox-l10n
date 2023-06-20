@@ -24,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Nettet;Explorer;
 
 desktop-action-new-window-name = Nyt vindue
 desktop-action-new-private-window-name = Nyt privat vindue
+desktop-action-open-profile-manager = Åbn profilhåndtering

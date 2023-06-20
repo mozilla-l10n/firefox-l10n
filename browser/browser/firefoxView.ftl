@@ -81,6 +81,8 @@ firefoxview-collapse-button-show =
     .title = Vis liste
 firefoxview-collapse-button-hide =
     .title = Skjul liste
+firefoxview-overview-nav = Senest besøgte
+    .title = Senest besøgte
 
 ## History in this context refers to browser history
 
@@ -110,3 +112,15 @@ firefoxview-synced-tabs-header = Faneblade fra andre enheder
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Vis alle
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Vindue { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Vindue { $winID } (aktuelt)
+firefoxview-opentabs-focus-tab =
+    .title = Skift til dette faneblad
+firefoxview-show-more = Vis flere
+firefoxview-show-less = Vis færre
