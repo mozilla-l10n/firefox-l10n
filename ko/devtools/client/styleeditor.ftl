@@ -41,3 +41,7 @@ styleeditor-go-to-line =
     .accesskey = J
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = 일치하는 스타일 시트를 찾지 못했습니다.
+# This string is shown in the style sheets list
+# Variables:
+#   $ruleCount (Integer) - The number of rules in the stylesheet.
+styleeditor-stylesheet-rule-count = 규칙 { $ruleCount }개
