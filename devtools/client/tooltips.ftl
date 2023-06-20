@@ -45,6 +45,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Zkuste přidat 
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Zkuste přidat <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Zkuste odstranit <strong>float</strong> nebo přidat <strong>display:block</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Zkuste přidat <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Zkuste nastavit vlastnost <strong>display</strong> na jinou hodnotu než <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> nebo <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Zkuste přidat <strong>display:table</strong> nebo <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Zkuste přidat <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> nebo <strong>overflow:hidden</strong>. { learn-more }
 
@@ -55,6 +56,9 @@ inactive-scroll-padding-when-not-scroll-container-fix = Zkuste přidat <strong>o
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = Vlastnost <strong>{ $property }</strong> není podporována v následujících prohlížečích:
+css-compatibility-deprecated-experimental-message = Vlastnost <strong>{ $property }</strong> byla experimentální vlastností, která je nyní dle W3C standardů zastaralá. Není podporována v následujících prohlížečích:
+css-compatibility-deprecated-experimental-supported-message = Vlastnost <strong>{ $property }</strong> byla experimentální vlastností, která je nyní dle standardů W3C zastaralá.
 css-compatibility-deprecated-supported-message = Vlastnost <strong>{ $property }</strong> je dle standardů W3C zastaralá.
 css-compatibility-experimental-message = Vlastnost <strong>{ $property }</strong> je experimentální. Není podporována v následujících prohlížečích:
 css-compatibility-experimental-supported-message = Vlastnost <strong>{ $property }</strong> je experimentální.
