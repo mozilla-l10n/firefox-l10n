@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Contas e senhas salvas
 migration-history-option-label = Histórico de navegação
 migration-form-autofill-option-label = Dados de preenchimento automático de formulários
 migration-payment-methods-option-label = Métodos de pagamento
+migration-cookies-option-label = Cookies
+migration-session-option-label = Janelas e abas
+migration-otherdata-option-label = Outros dados
 migration-passwords-from-file-progress-header = Importar arquivo de senhas
 migration-passwords-from-file-success-header = Senhas importadas com sucesso
 migration-passwords-from-file = Verificando senhas no arquivo
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Importar arquivo de favoritos
 migration-bookmarks-from-file-progress-header = Importando favoritos
 migration-bookmarks-from-file = Favoritos
 migration-bookmarks-from-file-success-header = Favoritos importados com sucesso
+migration-bookmarks-from-file-no-valid-data = O arquivo não tem nenhuma informação de favoritos. Escolha outro arquivo.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
