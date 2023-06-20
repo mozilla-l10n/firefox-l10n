@@ -745,6 +745,11 @@ prefs-sync-now =
     .labelnotsyncing = Sinchronizuoti dabar
     .accesskeynotsyncing = d
     .labelsyncing = Sinchronizuojama…
+prefs-sync-now-button =
+    .label = Sinchronizuoti dabar
+    .accesskey = d
+prefs-syncing-button =
+    .label = Sinchronizuojama…
 
 ## The list of things currently syncing.
 
