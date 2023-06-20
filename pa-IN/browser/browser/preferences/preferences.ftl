@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
     .accesskeynotsyncing = N
     .labelsyncing = ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+prefs-sync-now-button =
+    .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+    .accesskey = N
+prefs-syncing-button =
+    .label = ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 
 ## The list of things currently syncing.
 
