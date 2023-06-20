@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Abas de outros dispositivos
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Ver tudo
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Janela { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Janela { $winID } (atual)
+firefoxview-opentabs-focus-tab =
+    .title = Mudar para esta aba
+firefoxview-show-more = Mostrar mais
+firefoxview-show-less = Mostrar menos
