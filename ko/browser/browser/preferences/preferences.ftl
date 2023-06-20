@@ -730,6 +730,11 @@ prefs-sync-now =
     .labelnotsyncing = 지금 동기화
     .accesskeynotsyncing = N
     .labelsyncing = 동기화중…
+prefs-sync-now-button =
+    .label = 지금 동기화
+    .accesskey = N
+prefs-syncing-button =
+    .label = 동기화중…
 
 ## The list of things currently syncing.
 
