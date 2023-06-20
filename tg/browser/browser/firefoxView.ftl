@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Варақаҳо аз дастгоҳҳои ди
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Ҳамаро дидан
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Равзанаи { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Равзанаи { $winID } (Ҷорӣ)
+firefoxview-opentabs-focus-tab =
+    .title = Ба ин варақа гузаштан
+firefoxview-show-more = Бештар нишон диҳед
+firefoxview-show-less = Камтар нишон диҳед

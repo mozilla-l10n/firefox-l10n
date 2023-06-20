@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Рамзи PIN нодуруст аст. Аз нав кӯшиш кунед.
 webauthn-pin-required-prompt = Лутфан, рамзи PIN-ро барои дастгоҳи худ ворид намоед.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Санҷиши ҳаққонияти корбар иҷро нашуд. Шумо { $retriesLeft } кӯшиши дигар доред. Аз нав кӯшиш кунед.
+       *[other] Санҷиши ҳаққонияти корбар иҷро нашуд. Шумо { $retriesLeft } кӯшиши дигар доред. Аз нав кӯшиш кунед.
+    }
+webauthn-uv-invalid-short-prompt = Санҷиши ҳаққонияти корбар иҷро нашуд. Аз нав кӯшиш кунед.

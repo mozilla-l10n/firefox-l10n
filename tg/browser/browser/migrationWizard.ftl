@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Воридшавиҳо ва ниҳ
 migration-history-option-label = Таърихи тамошо
 migration-form-autofill-option-label = Маълумоти пуркунии худкори шакл
 migration-payment-methods-option-label = Тарзҳои пардохт
+migration-cookies-option-label = Кукиҳо
+migration-session-option-label = Равзанаҳо ва варақаҳо
+migration-otherdata-option-label = Маълумоти дигар
 migration-passwords-from-file-progress-header = Ворид кардани файл бо ниҳонвожаҳо
 migration-passwords-from-file-success-header = Ниҳонвожаҳо бо муваффақият ворид карда шуданд
 migration-passwords-from-file = Санҷиши файл нисбат ба доштани ниҳонвожаҳо
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Ворид кардани файл�
 migration-bookmarks-from-file-progress-header = Воридоти хатбаракҳо
 migration-bookmarks-from-file = Хатбаракҳо
 migration-bookmarks-from-file-success-header = Хатбаракҳо бо муваффақият ворид карда шуданд
+migration-bookmarks-from-file-no-valid-data = Ин файл ягон маълумот дар бораи хатбаракҳо надорад. Файли дигареро интихоб намоед.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
