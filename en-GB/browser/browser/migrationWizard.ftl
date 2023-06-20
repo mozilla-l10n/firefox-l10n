@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Saved logins and passwords
 migration-history-option-label = Browsing history
 migration-form-autofill-option-label = Form autofill data
 migration-payment-methods-option-label = Payment methods
+migration-cookies-option-label = Cookies
+migration-session-option-label = Windows and tabs
+migration-otherdata-option-label = Other data
 migration-passwords-from-file-progress-header = Import Passwords File
 migration-passwords-from-file-success-header = Passwords Imported Successfully
 migration-passwords-from-file = Checking file for passwords
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Import Bookmarks File
 migration-bookmarks-from-file-progress-header = Importing Bookmarks
 migration-bookmarks-from-file = Bookmarks
 migration-bookmarks-from-file-success-header = Bookmarks Imported Successfully
+migration-bookmarks-from-file-no-valid-data = The file doesn’t include any bookmark data. Pick another file.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
