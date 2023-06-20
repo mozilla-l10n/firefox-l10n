@@ -670,6 +670,11 @@ prefs-sync-now =
     .labelnotsyncing = زامِن الآن
     .accesskeynotsyncing = م
     .labelsyncing = يُزامن…
+prefs-sync-now-button =
+    .label = زامِن الآن
+    .accesskey = م
+prefs-syncing-button =
+    .label = يُزامن…
 
 ## The list of things currently syncing.
 
