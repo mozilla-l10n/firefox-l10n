@@ -128,3 +128,4 @@ firefoxview-opentabs-focus-tab =
 
 firefoxview-show-more = Mostra altro
 firefoxview-show-less = Mostra meno
+
