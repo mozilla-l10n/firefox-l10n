@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Embojuehe ko’ág̃a
     .accesskeynotsyncing = N
     .labelsyncing = Embojuehe...
+prefs-sync-now-button =
+    .label = Embojuehe ko’ág̃a
+    .accesskey = N
+prefs-syncing-button =
+    .label = Embojuehe...
 
 ## The list of things currently syncing.
 
