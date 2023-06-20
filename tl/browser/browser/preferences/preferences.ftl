@@ -638,6 +638,11 @@ prefs-sync-now =
     .labelnotsyncing = Mag-Sync Na
     .accesskeynotsyncing = N
     .labelsyncing = Nagsi-sync...
+prefs-sync-now-button =
+    .label = Mag-Sync Na
+    .accesskey = N
+prefs-syncing-button =
+    .label = Nagsi-sync...
 
 ## The list of things currently syncing.
 
