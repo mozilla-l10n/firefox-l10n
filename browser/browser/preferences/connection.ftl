@@ -79,7 +79,7 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = 启用基于 HTTPS 的 DNS
     .accesskey = H
-connection-dns-over-https-url-resolver = 选用提供商
+connection-dns-over-https-url-resolver = 选用提供方
     .accesskey = P
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider

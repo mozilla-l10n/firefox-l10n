@@ -1256,11 +1256,11 @@ preferences-doh-description = 基于 DNS 的 HTTPS 会加密发送您对域名�
 preferences-doh-status = 状态：{ $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
-preferences-doh-resolver = 提供商：{ $name }
+preferences-doh-resolver = 提供方：{ $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = 无效网址
-preferences-doh-steering-status = 使用本地提供商
+preferences-doh-steering-status = 使用本地提供方
 preferences-doh-status-active = 启用
 preferences-doh-status-disabled = 关闭
 # Variables:
@@ -1274,21 +1274,21 @@ preferences-doh-setting-default =
     .accesskey = D
 preferences-doh-default-desc = 由 { -brand-short-name } 决定何时使用安全 DNS 来保护您的隐私。
 preferences-doh-default-detailed-desc-1 = 位于安全 DNS 可用的地区则使用
-preferences-doh-default-detailed-desc-2 = 若安全 DNS 提供商出现问题则使用默认 DNS 解析器
-preferences-doh-default-detailed-desc-3 = 尽可能使用本地提供商
+preferences-doh-default-detailed-desc-2 = 若安全 DNS 提供方出现问题则使用默认 DNS 解析器
+preferences-doh-default-detailed-desc-3 = 尽可能使用本地提供方
 preferences-doh-default-detailed-desc-4 = 当 VPN、家长控制或企业策略生效时关闭
 preferences-doh-default-detailed-desc-5 = 当网络设备告知 { -brand-short-name } 不应使用安全 DNS 时关闭
 preferences-doh-setting-enabled =
     .label = 增强保护
     .accesskey = I
-preferences-doh-enabled-desc = 由您选择安全 DNS 的提供商并决定何时使用。
-preferences-doh-enabled-detailed-desc-1 = 使用您选择的提供商
+preferences-doh-enabled-desc = 由您选择安全 DNS 的提供方并决定何时使用。
+preferences-doh-enabled-detailed-desc-1 = 使用您选择的提供方
 preferences-doh-enabled-detailed-desc-2 = 只在安全 DNS 出现问题时使用默认 DNS 解析器
 preferences-doh-setting-strict =
     .label = 最大保护
     .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name } 只会使用安全 DNS。如确实需要使用系统 DNS，您将预先收到安全风险警告。
-preferences-doh-strict-detailed-desc-1 = 只使用您选择的提供商
+preferences-doh-strict-detailed-desc-1 = 只使用您选择的提供方
 preferences-doh-strict-detailed-desc-2 = 安全 DNS 不可用时发出警告
 preferences-doh-strict-detailed-desc-3 = 在无法使用安全 DNS 的情况下，某些网站可能无法加载或功能异常
 preferences-doh-setting-off =
@@ -1298,7 +1298,7 @@ preferences-doh-off-desc = 使用默认 DNS 解析器
 preferences-doh-checkbox-warn =
     .label = 如果第三方主动阻止安全 DNS，则发出警告
     .accesskey = W
-preferences-doh-select-resolver = 选择提供商：
+preferences-doh-select-resolver = 选择提供方：
 preferences-doh-exceptions-description = { -brand-short-name } 将不再使用安全 DNS 解析这些网站
 preferences-doh-manage-exceptions =
     .label = 管理例外…
