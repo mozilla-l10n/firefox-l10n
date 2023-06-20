@@ -34,3 +34,12 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Eiti į eilutę…
     .accesskey = E
+# This string is shown in the style sheets list
+# Variables:
+#   $ruleCount (Integer) - The number of rules in the stylesheet.
+styleeditor-stylesheet-rule-count =
+    { $ruleCount ->
+        [one] { $ruleCount } taisyklė.
+        [few] { $ruleCount } taisyklės.
+       *[other] { $ruleCount } taisyklių.
+    }
