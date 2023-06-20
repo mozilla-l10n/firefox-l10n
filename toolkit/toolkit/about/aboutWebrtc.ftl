@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = הצגת יומן
     .title = click to expand this section
 about-webrtc-log-hide-msg = הסתרת יומן
     .title = click to collapse this section
+about-webrtc-copy-report-button = העתקת דוח
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
