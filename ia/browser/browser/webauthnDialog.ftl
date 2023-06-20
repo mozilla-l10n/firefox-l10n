@@ -23,3 +23,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN errate. Retenta.
 webauthn-pin-required-prompt = Insere le PIN pro tu apparato.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Verification de usator fallite. Tu ha { $retriesLeft } tentativa restante.
+       *[other] Verification de usator fallite. Tu ha { $retriesLeft } tentativas restante.
+    }
+webauthn-uv-invalid-short-prompt = Verification de usator fallite. Retenta.
