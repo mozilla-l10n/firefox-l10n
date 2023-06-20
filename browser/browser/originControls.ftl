@@ -71,3 +71,4 @@ origin-controls-toolbar-button-quarantined =
     .tooltiptext =
         { $extensionTitle }
         Non consentita da { -vendor-short-name } in questo sito
+

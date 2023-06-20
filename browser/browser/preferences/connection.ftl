@@ -91,3 +91,4 @@ connection-dns-over-https-url-custom =
     .accesskey = P
     .tooltiptext = Inserisci l’indirizzo da utilizzare per risolvere richieste DNS su HTTPS
 connection-dns-over-https-custom-label = Personalizzato
+

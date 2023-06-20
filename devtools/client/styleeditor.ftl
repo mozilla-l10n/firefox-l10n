@@ -48,3 +48,4 @@ styleeditor-stylesheet-rule-count =
         [one] { $ruleCount } regola.
        *[other] { $ruleCount } regole.
     }
+
