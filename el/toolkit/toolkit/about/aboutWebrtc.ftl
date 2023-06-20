@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = εμφάνιση αρχείου καταγραφής
     .title = κάντε κλικ για επέκταση ενότητας
 about-webrtc-log-hide-msg = απόκρυψη αρχείου καταγραφής
     .title = κάντε κλικ για σύμπτυξη ενότητας
+about-webrtc-copy-report-button = Αντιγραφή αναφοράς
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
