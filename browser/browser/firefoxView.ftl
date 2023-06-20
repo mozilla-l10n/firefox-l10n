@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Diğer cihazlardaki sekmeler
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Tümünü göster
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Pencere { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Pencere { $winID } (Geçerli)
+firefoxview-opentabs-focus-tab =
+    .title = Bu sekmeye geç
+firefoxview-show-more = Daha fazla göster
+firefoxview-show-less = Daha az göster
