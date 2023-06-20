@@ -19,6 +19,8 @@ translations-panel-displayname-beta =
 
 translations-panel-translate-button =
     .label = Oversett
+translations-panel-translate-button-loading =
+    .label = Vent litt…
 translations-panel-translate-cancel =
     .label = Avbryt
 translations-panel-error-translating = Det oppstod et problem med å oversette. Prøv på nytt.
