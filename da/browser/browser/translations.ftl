@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Oversæt denne side
+translations-panel-settings-button =
+    .aria-label = Håndter indstillinger for oversættelse
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -40,11 +42,16 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Oversæt siden?
 translations-panel-translate-button =
     .label = Oversæt
+translations-panel-translate-button-loading =
+    .label = Vent venligst…
 translations-panel-translate-cancel =
     .label = Annuller
+translations-panel-error-translating = Der opstod et problem med at oversætte. Prøv igen.
 translations-panel-error-load-languages = Kunne ikke indlæse sprog
+translations-panel-error-load-languages-hint = Kontroller din internetforbindelse og prøv igen.
 translations-panel-error-load-languages-hint-button =
     .label = Prøv igen
+translations-panel-error-unsupported = Der er ingen tilgængelig oversættelse af siden
 translations-panel-error-dismiss-button =
     .label = Forstået
 translations-panel-error-change-button =
@@ -79,16 +86,31 @@ translations-panel-to-label = Oversæt til
 translations-panel-revisit-header = Denne side er oversat fra { $fromLanguage } til { $toLanguage }
 translations-panel-choose-language =
     .label = Vælg et sprog
+translations-panel-restore-button =
+    .label = Vis oprindelig
 
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-header = Oversættelser
+translations-manage-settings-button =
+    .label = Indstillinger…
+    .accesskey = t
 translations-manage-description = Hent sprog til oversættelse offline.
 translations-manage-all-language = Alle sprog
 translations-manage-download-button = Hent
 translations-manage-delete-button = Slet
+translations-manage-language-download-button =
+    .label = Hent
+    .accesskey = H
+translations-manage-language-delete-button =
+    .label = Slet
+    .accesskey = e
 translations-manage-error-download = Der opstod et problem med at hente sprogfilerne. Prøv igen.
 translations-manage-error-delete = Der opstod en fejl under sletningen af sprogfilerne. Prøv igen.
+translations-manage-error-list = Kunne ikke hente listen med tilgængelige sprog til oversættelse. Genindlæs siden for at prøve igen.
+translations-settings-title =
+    .title = Oversættelses-indstillinger
+    .style = min-width: 36em
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Oversættelse vil ske automatisk for følgende sprog
