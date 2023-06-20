@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Картице са других уређаја
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Прикажи све
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Прозор { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Прозор { $winID } (тренутни)
+firefoxview-opentabs-focus-tab =
+    .title = Пређи на ову картицу
+firefoxview-show-more = Прикажи више
+firefoxview-show-less = Прикажи мање

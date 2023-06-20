@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (без назива)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Из безбедносних разлога “javascript:” или “data:” URL-ови не могу да се учитају из историје или бочног панела.
 places-bookmarks-backup-title = Назив датотеке са обележивачима
 places-bookmarks-restore-alert-title = Враћање обележивача
 places-bookmarks-restore-alert = Овим ћете заменити све тренутне обележиваче са онима из резервне копије. Јесте ли сигурни?
