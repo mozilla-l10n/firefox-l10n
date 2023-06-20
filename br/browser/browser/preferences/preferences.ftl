@@ -672,6 +672,11 @@ prefs-sync-now =
     .labelnotsyncing = Goubredañ bremañ
     .accesskeynotsyncing = G
     .labelsyncing = O c'houbredañ...
+prefs-sync-now-button =
+    .label = Goubredañ bremañ
+    .accesskey = G
+prefs-syncing-button =
+    .label = O c'houbredañ...
 
 ## The list of things currently syncing.
 
