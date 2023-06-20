@@ -652,6 +652,11 @@ prefs-sync-now =
     .labelnotsyncing = Sinkroniziraj sada
     .accesskeynotsyncing = n
     .labelsyncing = Sinkroniziranje…
+prefs-sync-now-button =
+    .label = Sinkroniziraj sada
+    .accesskey = n
+prefs-syncing-button =
+    .label = Sinkroniziranje…
 
 ## The list of things currently syncing.
 
