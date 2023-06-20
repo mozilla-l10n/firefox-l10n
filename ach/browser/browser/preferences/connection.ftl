@@ -9,7 +9,6 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
-
 connection-window2 =
     .title = Ter me Kube
     .style =
@@ -17,15 +16,11 @@ connection-window2 =
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
-
 connection-close-key =
     .key = w
-
 connection-disable-extension =
     .label = Juk lamed
-
 connection-proxy-configure = Ter Proxy me nongo Intanet
-
 connection-proxy-option-no =
     .label = Proxy peke
     .accesskey = y
@@ -38,20 +33,16 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = Tero proxy ki komi
     .accesskey = k
-
 connection-proxy-http = Proxy me HTTP
     .accesskey = x
 connection-proxy-http-port = Bur
     .accesskey = P
-
 connection-proxy-ssl-port = Bur
     .accesskey = o
-
 connection-proxy-socks = Lami kube me SOCKS
     .accesskey = C
 connection-proxy-socks-port = Bur
     .accesskey = t
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -60,23 +51,21 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = Pe tye Proxy pi
     .accesskey = p
-
 connection-proxy-noproxy-desc = Labolle: .mozilla.org, .net.nz, 192.168.1.0/24
-
 connection-proxy-autotype =
     .label = URL me proxy ma ki tero pire kene
     .accesskey = P
-
 connection-proxy-reload =
     .label = Nwo cano
     .accesskey = o
-
 connection-proxy-autologin =
     .label = Pe i peny pi roto ada kace kigwoko mung me donyo
     .accesskey = d
     .tooltip = Gin ayera man roto ada ni bot proxy laling kace i gwoko lok komi pi gi. Ki bi penyi kace roto ada opoto woko.
-
+connection-proxy-autologin-checkbox =
+    .label = Pe i peny pi roto ada kace kigwoko mung me donyo
+    .accesskey = d
+    .tooltiptext = Gin ayera man roto ada ni bot proxy laling kace i gwoko lok komi pi gi. Ki bi penyi kace roto ada opoto woko.
 connection-proxy-socks-remote-dns =
     .label = DNS me proxy ka itye katic ki SOCKS v5
     .accesskey = d
-
