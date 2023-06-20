@@ -111,6 +111,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML دستاویز
        *[other] HTML فائل
     }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON فائل
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
