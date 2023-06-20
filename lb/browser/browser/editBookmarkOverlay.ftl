@@ -4,16 +4,16 @@
 
 bookmark-overlay-choose =
     .label = Wielen…
-
 bookmark-overlay-new-folder-button =
     .label = Neien Dossier
     .accesskey = o
-
 bookmark-overlay-tags-empty-description =
     .placeholder = Schlagwierder mat Komma trennen
-
 bookmark-overlay-tags-expander =
     .tooltiptext = All Schlagwierder weisen
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Verstoppen
-
+bookmark-overlay-tags-expander2 =
+    .tooltiptext = All Schlagwierder weisen
+bookmark-overlay-tags-expander-hide =
+    .tooltiptext = Verstoppen
