@@ -40,16 +40,76 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Oversæt siden?
 translations-panel-translate-button =
     .label = Oversæt
+translations-panel-translate-cancel =
+    .label = Annuller
+translations-panel-error-load-languages = Kunne ikke indlæse sprog
+translations-panel-error-load-languages-hint-button =
+    .label = Prøv igen
+translations-panel-error-dismiss-button =
+    .label = Forstået
+translations-panel-error-change-button =
+    .label = Skift kildesprog
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Beklager, vi understøtter ikke { $language } endnu.
+translations-panel-error-unsupported-hint-unknown = Beklager, vi understøtter ikke dette sprog endnu.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Oversæt fra
+translations-panel-to-label = Oversæt til
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Denne side er oversat fra { $fromLanguage } til { $toLanguage }
+translations-panel-choose-language =
+    .label = Vælg et sprog
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Oversættelser
+translations-manage-description = Hent sprog til oversættelse offline.
+translations-manage-all-language = Alle sprog
+translations-manage-download-button = Hent
+translations-manage-delete-button = Slet
+translations-manage-error-download = Der opstod et problem med at hente sprogfilerne. Prøv igen.
+translations-manage-error-delete = Der opstod en fejl under sletningen af sprogfilerne. Prøv igen.
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Oversættelse vil ske automatisk for følgende sprog
+translations-settings-never-translate-langs-description = Oversættelse vil ikke blive tilbudt for de følgende sprog
+translations-settings-never-translate-sites-description = Oversættelse vil ikke blive tilbudt for de følgende websteder
+translations-settings-languages-column =
+    .label = Sprog
+translations-settings-remove-language-button =
+    .label = Fjern sprog
+    .accesskey = F
+translations-settings-remove-all-languages-button =
+    .label = Fjern alle sprog
+    .accesskey = a
+translations-settings-sites-column =
+    .label = Websteder
+translations-settings-remove-site-button =
+    .label = Fjern websted
+    .accesskey = j
+translations-settings-remove-all-sites-button =
+    .label = Fjern alle websteder
+    .accesskey = e
+translations-settings-close-dialog =
+    .buttonlabelaccept = Luk
+    .buttonaccesskeyaccept = L
