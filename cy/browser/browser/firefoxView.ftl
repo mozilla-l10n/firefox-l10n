@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Tabiau o ddyfeisiau eraill
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Gweld y cyfan
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Window { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Window { $winID } (Cyfredol)
+firefoxview-opentabs-focus-tab =
+    .title = Symud i'r tab hwn
+firefoxview-show-more = Dangos rhagor
+firefoxview-show-less = Dangos llai

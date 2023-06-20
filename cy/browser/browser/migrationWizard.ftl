@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Mewngofnodion a chyfrineiriau a ga
 migration-history-option-label = Hanes pori
 migration-form-autofill-option-label = Data awtolenwi ffurflenni
 migration-payment-methods-option-label = Dulliau talu
+migration-cookies-option-label = Cwcis
+migration-session-option-label = Ffenestri a thabiau
+migration-otherdata-option-label = Data arall
 migration-passwords-from-file-progress-header = Mewnforio Ffeil Cyfrineiriau
 migration-passwords-from-file-success-header = Cyfrineiriau wedi'u Mewnforio'n Llwyddiannus
 migration-passwords-from-file = Yn gwirio ffeil am gyfrineiriau
@@ -112,6 +115,7 @@ migration-bookmarks-from-file-picker-title = Mewnforio Ffeil Nodau Tudalen
 migration-bookmarks-from-file-progress-header = Yn Mewnforio Nodau Tudalen
 migration-bookmarks-from-file = Nodau Tudalen
 migration-bookmarks-from-file-success-header = Nodau Tudalen wedi'u Mewnforio'n Llwyddiannus
+migration-bookmarks-from-file-no-valid-data = Nid yw'r ffeil yn cynnwys unrhyw ddata nod tudalen. Dewiswch ffeil arall.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
