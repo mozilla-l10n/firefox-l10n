@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Bewarre oanmeldingen en wachtwurde
 migration-history-option-label = Navigaasjeskiednis
 migration-form-autofill-option-label = Gegevens foar automatysk ynfoljen fan formulieren
 migration-payment-methods-option-label = Betellingsmetoaden
+migration-cookies-option-label = Cookies
+migration-session-option-label = Finsters en ljepblêden
+migration-otherdata-option-label = Oare gegevens
 migration-passwords-from-file-progress-header = Wachtwurden ymportearje
 migration-passwords-from-file-success-header = Wachtwurden mei sukses ymportearre
 migration-passwords-from-file = Bestân wurdt kontrolearre op wachtwurden
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Blêdwizerbestân ymportearje
 migration-bookmarks-from-file-progress-header = Blêdwizers ymportearje
 migration-bookmarks-from-file = Blêdwizers
 migration-bookmarks-from-file-success-header = Blêdwizers mei sukses ymportearre
+migration-bookmarks-from-file-no-valid-data = It bestân befettet gjin blêdwizergegevens. Kies in oar bestân.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
