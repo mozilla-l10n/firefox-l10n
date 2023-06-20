@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Tabbladen van andere apparaten
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Alles bekijken
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Venster { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Venster { $winID } (huidige)
+firefoxview-opentabs-focus-tab =
+    .title = Wisselen naar dit tabblad
+firefoxview-show-more = Meer tonen
+firefoxview-show-less = Minder tonen
