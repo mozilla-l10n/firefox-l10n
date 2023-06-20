@@ -43,7 +43,7 @@ detail-version =
 detail-last-updated =
     .label = 上次更新
 addon-detail-description-expand = 显示更多
-addon-detail-description-collapse = 显示更少
+addon-detail-description-collapse = 折叠
 detail-contributions-description = 此附加组件的开发者希望通过您的小额捐款，帮助支持其持续开发。
 detail-contributions-button = 捐助
     .title = 捐助此附加组件的开发
@@ -234,7 +234,7 @@ shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] 显示另外 { $numberToShow } 个
     }
-shortcuts-card-collapse-button = 显示更少
+shortcuts-card-collapse-button = 折叠
 header-back-button =
     .title = 返回
 
@@ -291,16 +291,9 @@ extension-enabled-heading = 已启用
 extension-disabled-heading = 已禁用
 theme-enabled-heading = 已启用
 theme-disabled-heading = 已禁用
-theme-disabled-heading2 = 保存的主题
 theme-monochromatic-heading = 配色
 theme-monochromatic-subheading = 元气满满的 { -brand-product-name } 新配色，限时提供。
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = 配色随心换
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = 更改配色
-# Variables:
-#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = { DATETIME($expiryDate, month: "long", day: "numeric") }到期
+theme-disabled-heading2 = 保存的主题
 plugin-enabled-heading = 已启用
 plugin-disabled-heading = 已禁用
 dictionary-enabled-heading = 已启用
