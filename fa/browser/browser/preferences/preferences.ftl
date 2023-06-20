@@ -685,6 +685,11 @@ prefs-sync-now =
     .labelnotsyncing = هم‌اکنون همگام‌سازی کنید
     .accesskeynotsyncing = N
     .labelsyncing = درحال همگام‌سازی...
+prefs-sync-now-button =
+    .label = هم‌اکنون همگام‌سازی کنید
+    .accesskey = N
+prefs-syncing-button =
+    .label = درحال همگام‌سازی...
 
 ## The list of things currently syncing.
 
