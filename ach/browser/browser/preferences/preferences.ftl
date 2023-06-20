@@ -509,6 +509,11 @@ prefs-sync-now =
     .labelnotsyncing = Rib Kombedi
     .accesskeynotsyncing = K
     .labelsyncing = Ribo…
+prefs-sync-now-button =
+    .label = Rib Kombedi
+    .accesskey = K
+prefs-syncing-button =
+    .label = Ribo…
 
 ## The list of things currently syncing.
 
