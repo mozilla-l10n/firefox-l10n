@@ -331,7 +331,7 @@ menu-help-exit-troubleshoot-mode =
     .label = 关闭故障排除模式
     .accesskey = M
 menu-help-switch-device =
-    .label = 切换到新设备
+    .label = 转入新设备
     .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

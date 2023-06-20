@@ -234,7 +234,7 @@ appmenu-help-share-ideas =
     .label = 分享想法和意见反馈…
     .accesskey = S
 appmenu-help-switch-device =
-    .label = 切换到新设备
+    .label = 转入新设备
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
