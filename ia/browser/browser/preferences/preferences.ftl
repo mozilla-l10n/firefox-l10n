@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Synchronisar ora
     .accesskeynotsyncing = o
     .labelsyncing = Synchronisar…
+prefs-sync-now-button =
+    .label = Synchronisar ora
+    .accesskey = o
+prefs-syncing-button =
+    .label = Synchronisar…
 
 ## The list of things currently syncing.
 
