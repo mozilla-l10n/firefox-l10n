@@ -34,3 +34,15 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = اقفز إلى سطر…
     .accesskey = ق
+# This string is shown in the style sheets list
+# Variables:
+#   $ruleCount (Integer) - The number of rules in the stylesheet.
+styleeditor-stylesheet-rule-count =
+    { $ruleCount ->
+        [zero] لا قواعد.
+        [one] قاعدة واحدة.
+        [two] قاعدتان.
+        [few] { $ruleCount } قواعد.
+        [many] { $ruleCount } قاعدة.
+       *[other] { $ruleCount } قاعدة.
+    }
