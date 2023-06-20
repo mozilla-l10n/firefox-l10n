@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Samstilla núna
     .accesskeynotsyncing = n
     .labelsyncing = Samstilli…
+prefs-sync-now-button =
+    .label = Samstilla núna
+    .accesskey = n
+prefs-syncing-button =
+    .label = Samstilli…
 
 ## The list of things currently syncing.
 
