@@ -538,6 +538,11 @@ prefs-sync-now =
     .labelnotsyncing = Sincronizar ntañu´u
     .accesskeynotsyncing = N
     .labelsyncing = Sincronizando…
+prefs-sync-now-button =
+    .label = Sincronizar ntañu´u
+    .accesskey = N
+prefs-syncing-button =
+    .label = Sincronizando…
 
 ## The list of things currently syncing.
 
