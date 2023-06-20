@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Speguli nun
     .accesskeynotsyncing = n
     .labelsyncing = Spegulado...
+prefs-sync-now-button =
+    .label = Speguli nun
+    .accesskey = n
+prefs-syncing-button =
+    .label = Spegulado...
 
 ## The list of things currently syncing.
 
