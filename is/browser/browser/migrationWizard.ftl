@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Vistaðar innskráningar og lykilo
 migration-history-option-label = Vafurferill
 migration-form-autofill-option-label = Sjálfvirk útfyllingargögn reita
 migration-payment-methods-option-label = Greiðslumátar
+migration-cookies-option-label = Vefkökur
+migration-session-option-label = Gluggar og flipar
+migration-otherdata-option-label = Önnur gögn
 migration-passwords-from-file-progress-header = Flytja inn lykilorðaskrá
 migration-passwords-from-file-success-header = Tókst að flytja inn lykilorð
 migration-passwords-from-file = Athuga lykilorð í skrá
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Flytja inn bókamerkjaskrá
 migration-bookmarks-from-file-progress-header = Flyt inn bókamerki
 migration-bookmarks-from-file = Bókamerki
 migration-bookmarks-from-file-success-header = Tókst að flytja inn bókamerki
+migration-bookmarks-from-file-no-valid-data = Skráin inniheldur engin bókamerkjagögn. Veldu aðra skrá.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

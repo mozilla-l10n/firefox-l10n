@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Flipar frá öðrum tækjum
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Skoða allt
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Gluggi { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Gluggi { $winID } (núverandi)
+firefoxview-opentabs-focus-tab =
+    .title = Skipta yfir á þennan flipa
+firefoxview-show-more = Sýna meira
+firefoxview-show-less = Sýna minna
