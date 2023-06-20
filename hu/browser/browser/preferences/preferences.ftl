@@ -746,6 +746,11 @@ prefs-sync-now =
     .labelnotsyncing = Szinkronizálás most
     .accesskeynotsyncing = m
     .labelsyncing = Szinkronizálás…
+prefs-sync-now-button =
+    .label = Szinkronizálás most
+    .accesskey = m
+prefs-syncing-button =
+    .label = Szinkronizálás…
 
 ## The list of things currently syncing.
 
