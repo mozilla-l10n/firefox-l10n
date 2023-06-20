@@ -576,6 +576,11 @@ prefs-sync-now =
     .labelnotsyncing = Sincronizar agora
     .accesskeynotsyncing = N
     .labelsyncing = Se ye sincronizando…
+prefs-sync-now-button =
+    .label = Sincronizar agora
+    .accesskey = N
+prefs-syncing-button =
+    .label = Se ye sincronizando…
 
 ## The list of things currently syncing.
 
