@@ -557,6 +557,11 @@ prefs-sync-now =
     .labelnotsyncing = अभी सिंक करें
     .accesskeynotsyncing = N
     .labelsyncing = सिंक हो रहा है…
+prefs-sync-now-button =
+    .label = अभी सिंक करें
+    .accesskey = N
+prefs-syncing-button =
+    .label = सिंक हो रहा है…
 
 ## The list of things currently syncing.
 
