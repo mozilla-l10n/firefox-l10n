@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Adgangskoder fra CSV-fil
+migration-wizard-migrator-display-name-file-bookmarks = Bogmærker fra HTML-fil
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -58,6 +59,7 @@ migration-favorites-option-label = Favoritter
 migration-logins-and-passwords-option-label = Gemte logins og adgangskoder
 migration-history-option-label = Browserhistorik
 migration-form-autofill-option-label = Data til autofyldning af formularer
+migration-payment-methods-option-label = Betalingsmetoder
 migration-passwords-from-file-progress-header = Importer fil med adgangskoder
 migration-passwords-from-file-success-header = Adgangskoder blev importeret
 migration-passwords-from-file = Kontrollerer fil for adgangskoder
@@ -98,6 +100,27 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } opdateret
        *[other] { $updatedEntries } opdateret
     }
+migration-bookmarks-from-file-picker-title = Importer bogmærkefil
+migration-bookmarks-from-file-progress-header = Importerer bogmærker
+migration-bookmarks-from-file = Bogmærker
+migration-bookmarks-from-file-success-header = Bogmærker importeret
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokument
+       *[other] HTML-fil
+    }
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } bogmærke
+       *[other] { $newEntries } bogmærker
+    }
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer fra fil
 migration-import-from-file-button-label = Vælg fil
@@ -120,6 +143,7 @@ migration-list-favorites-label = favoritter
 migration-list-password-label = adgangskoder
 migration-list-history-label = historik
 migration-list-autofill-label = autofyldnings-data
+migration-list-payment-methods-label = betalingsmetoder
 
 ##
 
@@ -180,7 +204,16 @@ migration-wizard-progress-success-history =
        *[other] Fra de seneste { $maxAgeInDays } dage
     }
 migration-wizard-progress-success-formdata = Formularhistorik
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } betalingsmetode
+       *[other] { $quantity } betalingsmetoder
+    }
 migration-wizard-safari-permissions-sub-header = For at importere bogmærker og browserhistorik fra Safari:
 migration-wizard-safari-instructions-continue = Vælg "Fortsæt"
 migration-wizard-safari-instructions-folder = Vælg Safari-mappen på listen og vælg "Åbn"
-migration-wizard-safari-select-button = Vælg fil
