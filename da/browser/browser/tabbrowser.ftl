@@ -144,3 +144,12 @@ tabbrowser-tab-audio-playing-description = Afspiller lyd
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Vis alle { $tabCount } faneblade
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Slå lyden fra i faneblad
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Slå lyden til i faneblad
+tabbrowser-manager-close-tab =
+    .tooltiptext = Luk faneblad

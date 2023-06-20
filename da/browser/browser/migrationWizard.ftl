@@ -60,6 +60,7 @@ migration-logins-and-passwords-option-label = Gemte logins og adgangskoder
 migration-history-option-label = Browserhistorik
 migration-form-autofill-option-label = Data til autofyldning af formularer
 migration-payment-methods-option-label = Betalingsmetoder
+migration-cookies-option-label = Cookies
 migration-passwords-from-file-progress-header = Importer fil med adgangskoder
 migration-passwords-from-file-success-header = Adgangskoder blev importeret
 migration-passwords-from-file = Kontrollerer fil for adgangskoder
