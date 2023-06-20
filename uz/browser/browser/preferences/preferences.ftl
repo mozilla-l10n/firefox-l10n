@@ -552,6 +552,11 @@ prefs-sync-now =
     .labelnotsyncing = Sinxronlash
     .accesskeynotsyncing = N
     .labelsyncing = Sinxronlanmoqda…
+prefs-sync-now-button =
+    .label = Sinxronlash
+    .accesskey = N
+prefs-syncing-button =
+    .label = Sinxronlanmoqda…
 
 ## The list of things currently syncing.
 
