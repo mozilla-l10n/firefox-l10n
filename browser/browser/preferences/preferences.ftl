@@ -573,6 +573,11 @@ prefs-sync-now =
     .labelnotsyncing = এখনই সিঙ্ক করুন
     .accesskeynotsyncing = N
     .labelsyncing = সিঙ্ক হচ্ছে…
+prefs-sync-now-button =
+    .label = এখনই সিঙ্ক করুন
+    .accesskey = N
+prefs-syncing-button =
+    .label = সিঙ্ক হচ্ছে…
 
 ## The list of things currently syncing.
 
