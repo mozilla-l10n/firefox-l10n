@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Uložená přihlašovací jména a
 migration-history-option-label = Historie prohlížení
 migration-form-autofill-option-label = Data pro automatické vyplňování formulářů
 migration-payment-methods-option-label = Způsoby platby
+migration-cookies-option-label = Cookies
+migration-session-option-label = Okna a panely
+migration-otherdata-option-label = Ostatní data
 migration-passwords-from-file-progress-header = Import souboru s hesly
 migration-passwords-from-file-success-header = Import hesel byl úspěšně dokončen
 migration-passwords-from-file = Vyhledávají se hesla v souboru
@@ -108,6 +111,7 @@ migration-bookmarks-from-file-picker-title = Importu souboru záložek
 migration-bookmarks-from-file-progress-header = Probíhá import záložek
 migration-bookmarks-from-file = Záložky
 migration-bookmarks-from-file-success-header = Záložky byly úspěšně naimportovány
+migration-bookmarks-from-file-no-valid-data = Soubor neobsahuje žádná data záložek. Vyberte jiný soubor.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
