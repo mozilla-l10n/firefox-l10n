@@ -105,3 +105,15 @@ firefoxview-synced-tabs-header = לשוניות ממכשירים אחרים
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = הצגת הכל
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = חלון { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = חלון { $winID } (נוכחי)
+firefoxview-opentabs-focus-tab =
+    .title = מעבר ללשונית זו
+firefoxview-show-more = להציג יותר
+firefoxview-show-less = להציג פחות

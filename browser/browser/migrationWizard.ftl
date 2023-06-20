@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = כניסות וססמאות שמו
 migration-history-option-label = היסטוריית גלישה
 migration-form-autofill-option-label = נתוני מילוי אוטומטי של טפסים
 migration-payment-methods-option-label = אמצעי תשלום
+migration-cookies-option-label = עוגיות
+migration-session-option-label = חלונות ולשוניות
+migration-otherdata-option-label = נתונים אחרים
 migration-passwords-from-file-progress-header = ייבוא קובץ ססמאות
 migration-passwords-from-file-success-header = הססמאות יובאו בהצלחה
 migration-passwords-from-file = בתהליך בדיקת הקובץ אחר ססמאות
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = ייבוא קובץ סימניות
 migration-bookmarks-from-file-progress-header = בתהליך ייבוא סימניות
 migration-bookmarks-from-file = סימניות
 migration-bookmarks-from-file-success-header = הסימניות יובאו בהצלחה
+migration-bookmarks-from-file-no-valid-data = הקובץ אינו מכיל  נתוני סימניות. נא לבחר בקובץ אחר.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

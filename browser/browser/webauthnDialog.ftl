@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = קוד PIN שגוי. נא לנסות שוב.
 webauthn-pin-required-prompt = נא להזין את קוד ה־PIN עבור המכשיר שלך.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] אימות המשתמש נכשל. נותר לך ניסיון אחד אחרון. נא לנסות שוב.
+       *[other] אימות המשתמש נכשל. נותרו לך עוד { $retriesLeft } ניסיונות. נא לנסות שוב.
+    }
+webauthn-uv-invalid-short-prompt = אימות המשתמש נכשל. נא לנסות שוב.
