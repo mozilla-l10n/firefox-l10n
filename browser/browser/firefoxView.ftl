@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Ljepblêden fan oare apparaten
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Alles besjen
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Finster { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Finster { $winID } (aktuele)
+firefoxview-opentabs-focus-tab =
+    .title = Wikselje nei dit ljepblêd
+firefoxview-show-more = Mear toane
+firefoxview-show-less = Minder toane

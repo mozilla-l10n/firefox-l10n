@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = lochboek toane
     .title = klik om dizze seksje út te klappen
 about-webrtc-log-hide-msg = lochboek ferstopje
     .title = klik om dizze seksje yn te klappen
+about-webrtc-copy-report-button = Rapport kopiearje
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
