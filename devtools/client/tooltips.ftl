@@ -38,12 +38,16 @@ inactive-scroll-padding-when-not-scroll-container = Vlastnost <strong>{ $propert
 
 inactive-css-not-grid-or-flex-container-fix = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong> nebo <strong>columns:2</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-3 = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> nebo <strong>display:inline-flex</strong> k rodiči tohoto prvku. { learn-more }
+inactive-css-not-grid-item-fix-2 = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:inline-grid</strong> k rodiči tohoto prvku. { learn-more }
 inactive-css-not-grid-container-fix = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix-2 = Zkuste přidat <strong>display:flex</strong> nebo <strong>display:inline-flex</strong> k rodiči tohoto prvku. { learn-more }
 inactive-css-not-flex-container-fix = Zkuste přidat <strong>display:flex</strong> nebo <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Zkuste přidat <strong>display:inline</strong> nebo <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Zkuste přidat <strong>display:inline-block</strong> nebo <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Zkuste přidat <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Zkuste odstranit <strong>float</strong> nebo přidat <strong>display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Zkuste nastavit vlastnost <strong>position</strong> na jinou hodnotu než <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Zkuste přidat <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Zkuste nastavit vlastnost <strong>display</strong> na jinou hodnotu než <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> nebo <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Zkuste přidat <strong>display:table</strong> nebo <strong>display:inline-table</strong>. { learn-more }
