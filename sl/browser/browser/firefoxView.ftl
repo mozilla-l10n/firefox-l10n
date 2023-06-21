@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Zavihki z drugih naprav
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Prikaži vse
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Okno { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Okno { $winID } (trenutno)
+firefoxview-opentabs-focus-tab =
+    .title = Preklopi na ta zavihek
+firefoxview-show-more = Prikaži več
+firefoxview-show-less = Prikaži manj

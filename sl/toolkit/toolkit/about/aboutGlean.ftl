@@ -31,6 +31,12 @@ about-glean-header = O { -glean-brand-name(sklon: "mestnik") }
 about-glean-upload-enabled = Pošiljanje podatkov je omogočeno.
 about-glean-upload-disabled = Pošiljanje podatkov ni omogočeno.
 about-glean-upload-enabled-local = Omogočeno je samo pošiljanje podatkov na krajevni strežnik.
+about-glean-upload-fake-enabled =
+    Pošiljanje podatkov je onemogočeno,
+    vendar lažemo in { glean-sdk-brand-name }u sporočamo, da je omogočeno,
+    zato se podatki še vedno zapisujejo na tej napravi.
+    Opomba: Če boste nastavili oznako za razhroščevanje, bodo pingi poslani
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }u</a> ne glede na nastavitve.
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.

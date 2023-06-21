@@ -7,6 +7,11 @@ urlbar-translations-button =
     .tooltiptext = Prevedi stran
 translations-panel-settings-button =
     .aria-label = Nastavitve prevajanja
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } (BETA)
 
 ## Options in the Firefox Translations settings.
 
@@ -51,11 +56,21 @@ translations-panel-error-dismiss-button =
     .label = Razumem
 translations-panel-error-change-button =
     .label = Spremeni izvorni jezik
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Jezika { $language } žal še ne podpiramo.
+translations-panel-error-unsupported-hint-unknown = Tega jezika žal še ne podpiramo.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Izvorni jezik
+translations-panel-to-label = Ciljni jezik
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
@@ -92,6 +107,7 @@ translations-manage-language-delete-button =
     .accesskey = I
 translations-manage-error-download = Pri prenašanju datoteke z jezikom je prišlo do težave. Poskusite znova.
 translations-manage-error-delete = Pri brisanju datoteke z jezikom je prišlo do napake. Poskusite znova.
+translations-manage-error-list = Seznama jezikov, ki jih je mogoče prevesti, ni bilo mogoče pridobiti. Osvežite stran in poskusite znova.
 translations-settings-title =
     .title = Nastavitve prevajanja
     .style = min-width: 36em

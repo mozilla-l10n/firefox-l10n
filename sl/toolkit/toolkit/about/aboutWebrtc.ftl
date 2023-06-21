@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = prikaži dnevnik
     .title = kliknite za razširjanje tega razdelka
 about-webrtc-log-hide-msg = skrij dnevnik
     .title = kliknite za strnjanje tega razdelka
+about-webrtc-copy-report-button = Kopiraj poročilo
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
