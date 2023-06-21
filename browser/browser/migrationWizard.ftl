@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Збережені паролі
 migration-history-option-label = Історія перегляду
 migration-form-autofill-option-label = Дані автозаповнення форм
 migration-payment-methods-option-label = Способи оплати
+migration-cookies-option-label = Куки
+migration-session-option-label = Вікна та вкладки
+migration-otherdata-option-label = Інші дані
 migration-passwords-from-file-progress-header = Імпортувати паролі з файлу
 migration-passwords-from-file-success-header = Паролі успішно імпортовано
 migration-passwords-from-file = Перевірка файлу на наявність паролів
@@ -106,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Імпортувати файл з�
 migration-bookmarks-from-file-progress-header = Імпортування закладок
 migration-bookmarks-from-file = Закладки
 migration-bookmarks-from-file-success-header = Закладки успішно імпортовано
+migration-bookmarks-from-file-no-valid-data = Файл не містить даних закладок. Виберіть інший файл.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

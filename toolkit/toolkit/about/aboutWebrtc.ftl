@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = показати журнал
     .title = натисніть, щоб розгорнути цю секцію
 about-webrtc-log-hide-msg = сховати журнал
     .title = натисніть, щоб згорнути цей розділ
+about-webrtc-copy-report-button = Копіювати звіт
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
