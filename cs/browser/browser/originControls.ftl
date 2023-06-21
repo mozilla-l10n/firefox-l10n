@@ -60,5 +60,11 @@ origin-controls-toolbar-button-permission-needed =
 origin-controls-toolbar-button-quarantined =
     .label = { $extensionTitle }
     .tooltiptext =
-        { $extensionTitle }
-        Na tomto serveru není { -vendor-short-name(case: "ins") } povoleno
+        { -vendor-short-name.case-status ->
+            [with-cases]
+                { $extensionTitle }
+                Na tomto serveru není { -vendor-short-name(case: "ins") } povoleno
+           *[no-cases]
+                { $extensionTitle }
+                Na tomto serveru není organizací { -vendor-short-name } povoleno
+        }
