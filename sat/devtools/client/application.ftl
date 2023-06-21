@@ -14,8 +14,16 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = ᱵᱷᱟᱹᱞᱟᱹᱭ ᱠᱟᱹᱢᱤᱦᱚᱲ ᱠᱚ
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = ᱮᱴᱟᱜ ᱰᱚᱢᱮᱱ ᱠᱷᱚᱱ Service Workers ᱞᱟᱹᱜᱤᱫ <a>about:debugging</a> ᱡᱷᱤᱡᱽ ᱢᱮ
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = ᱵᱤᱱᱧᱩᱛᱩᱢ
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = ᱰᱮᱵᱚᱜᱽ
+    .title = service workers ᱫᱚ ᱫᱟᱹᱲ ᱡᱷᱚᱜ ᱜᱮ ᱰᱮᱵᱚᱜᱽ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = ᱧᱮᱧᱮᱞ
@@ -36,6 +44,8 @@ serviceworker-worker-updated = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ‌ ᱮᱱᱟ <time>{ 
 serviceworker-worker-status-running = ᱧᱤᱨ ᱠᱟᱱᱟᱭ
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = ᱵᱚᱱᱫᱚ ᱟᱠᱟᱱᱟ
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = ᱪᱤᱞᱤ ᱦᱚᱸ service workers ᱵᱟᱠᱚ ᱧᱟᱢ ᱞᱮᱱᱟ
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # Header for the Manifest page when we have an actual manifest
