@@ -21,3 +21,4 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Неправильний PIN-код. Спробуйте ще раз.
 webauthn-pin-required-prompt = Введіть PIN-код свого пристрою.
+webauthn-uv-invalid-short-prompt = Помилка перевірки користувача. Повторіть спробу.

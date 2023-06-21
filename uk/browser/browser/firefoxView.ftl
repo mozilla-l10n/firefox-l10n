@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Вкладки з інших пристроїв
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Переглянути все
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Вікно { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Вікно { $winID } (поточне)
+firefoxview-opentabs-focus-tab =
+    .title = Перемкнутись на цю вкладку
+firefoxview-show-more = Показати ще
+firefoxview-show-less = Показати менше
