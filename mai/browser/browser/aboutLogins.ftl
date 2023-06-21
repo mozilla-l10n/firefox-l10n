@@ -149,6 +149,8 @@ about-logins-copy-password-os-auth-dialog-message-win = अपन गुड़�
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली कॉपी करू
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = अपन लॉगिन केँ निर्यात करबाक लेल, अपन Windows लॉगिन क्रेडेंशियल्स दर्ज करू. ई अहाँक खाता केँ सुरक्षित बनैने राखए मे मददगार भेत.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = सहेजल लॉगिन आओर गुड़किल्ली निर्यात करू
@@ -196,6 +198,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 ##
 
 about-logins-confirm-export-dialog-title = लॉगिन आओर गुड़किल्ली निर्यात करू
+about-logins-confirm-export-dialog-message = अहाँक गुड़किल्ली पढ़बाक लेल टेक्स्ट (जहिना BadP@ssw0rd) क' रूपेँ सहेजल जाएत, जकरा सँ केओ भी निर्यात कएल गेल फ़ाइल को खोलि सकैछ आओर देखि सकैछ.
 about-logins-confirm-export-dialog-confirm-button = निर्यात…
 about-logins-alert-import-title = आयात भ' गेल
 about-logins-alert-import-message = विस्तृत आयात सारांश देखाबू
