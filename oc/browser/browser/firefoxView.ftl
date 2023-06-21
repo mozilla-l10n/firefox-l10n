@@ -112,3 +112,11 @@ firefoxview-synced-tabs-header = Onglets d’autres periferics
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Tot afichar
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Fenèstra { $winID }
+firefoxview-opentabs-focus-tab =
+    .title = Anar a aqueste onglet
+firefoxview-show-more = Ne veire mai
+firefoxview-show-less = Ne veire mens
