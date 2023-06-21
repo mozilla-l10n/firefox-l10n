@@ -6,6 +6,8 @@ restore-page-tab-title = सत्र वापस  करू
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = माफ़ करू. अहाँक पृष्ठ केँ घुराबै मे समस्या भ रहल अछि.
+restore-page-problem-desc = हम अहाँक अंतिम ब्राउज़िंग सत्र बहाल करए मे समस्या पाबि रहल छी. पुनः प्रयास करबाक लेल रीस्टोर सेशन केँ चुनू.
+restore-page-try-this = एखनो अपन सेशन बहाल नहि कए सकैत छी? कखनो कोनो एकटा टैब दिक़्क़त करैछ. पछिला टैब देखू, ओ टैब सँ चेकमार्क केँ हटाबू जकरा अहाँक पुनर्प्राप्त करए केर आवश्यकता नहि अछि, आओर फिनु  पुनर्स्थापित करू.
 restore-page-hide-tabs = पछिला टैब नुकाबू
 restore-page-show-tabs = पछिला टैब देखू
 # When tabs are distributed across multiple windows, this message is used as a
