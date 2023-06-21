@@ -237,6 +237,11 @@ about-logins-vulnerable-alert-learn-more-link = बेसी जानू
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = ई उपयोक्ता नामक लॉगिन  { $loginTitle } पर पहिने सँ मोजुद अछि.<a data-l10n-name="duplicate-link">पहिने सँ मोजुद लॉगिन पर जएनाय चाहब?</a>
 # This is a generic error message.
 about-logins-error-message-default = पासवर्ड सहेजए केर  प्रयास मे एकटा त्रुटि भेल.
 
@@ -302,7 +307,9 @@ about-logins-import-dialog-error-title = त्रुटि आयात कर�
 about-logins-import-dialog-error-conflicting-values-title = एक लॉगिन खातिर एक सँ बेसी विरोधी मूल्य.
 about-logins-import-dialog-error-conflicting-values-description = उदाहरण कलेल: एक लॉगिन ख़ातिर अनेक उपयोक्ता नाम, पासवर्ड, URLs, इत्यादि.
 about-logins-import-dialog-error-file-format-title = फाइल फ़ॉर्मेट बाधा
+about-logins-import-dialog-error-file-format-description = गलत अथवा गुम कॉलम हेडर. सुनिश्चित करू जे फाइल मे उपयोक्ता नाम, गुड़किल्ली आओऱ URL... केर कॉलम लेल जगह बनाएल गेल अछि.
 about-logins-import-dialog-error-file-permission-title = फ़ाइल पढ़ए मे असमर्थ
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } केँ फाइल पढ़बाक अनुमति नहि अछि. फाइल अनुमति लेल बदलाव करै केर कोसिसि करू.
 about-logins-import-dialog-error-unable-to-read-title = फ़ाइल पार्स करबा मे असमर्थ
 about-logins-import-dialog-error-unable-to-read-description = सुनिश्चित करू जे अहाँ CSV अथवा TSV फाइल चुनने छी.
 about-logins-import-dialog-error-no-logins-imported = कोनो लॉगिन आयात नहि काल गेल
