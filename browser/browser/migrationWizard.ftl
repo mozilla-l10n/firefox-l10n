@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Pass
 migration-history-option-label = Chronik
 migration-form-autofill-option-label = Daten für Formular-Autovervollständigung
 migration-payment-methods-option-label = Zahlungsmethoden
+migration-cookies-option-label = Cookies
+migration-session-option-label = Fenster und Tabs
+migration-otherdata-option-label = Sonstige Daten
 migration-passwords-from-file-progress-header = Passwort-Datei importieren
 migration-passwords-from-file-success-header = Passwörter erfolgreich importiert
 migration-passwords-from-file = Datei wird auf Passwörter überprüft
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Lesezeichendatei importieren
 migration-bookmarks-from-file-progress-header = Lesezeichen werden importiert
 migration-bookmarks-from-file = Lesezeichen
 migration-bookmarks-from-file-success-header = Lesezeichen erfolgreich importiert
+migration-bookmarks-from-file-no-valid-data = Die Datei enthält keine Lesezeichen-Daten. Wählen Sie eine andere Datei.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
