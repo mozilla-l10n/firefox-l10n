@@ -21,3 +21,12 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = ᱵᱷᱩᱞ PIN ᱾ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 webauthn-pin-required-prompt = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱞᱟᱹᱜᱤᱫ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱯᱩᱥᱴᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱱ ᱵᱤᱲᱟᱹᱣ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+        [two] ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱯᱩᱥᱴᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱱ ᱵᱤᱲᱟᱹᱣ ᱢᱮᱱᱟᱜ ᱠᱤᱱᱟ ᱾ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+       *[other] ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱯᱩᱥᱴᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱱ ᱵᱤᱲᱟᱹᱣᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+    }
+webauthn-uv-invalid-short-prompt = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱯᱩᱥᱴᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
