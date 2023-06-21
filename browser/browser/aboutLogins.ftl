@@ -189,6 +189,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] ल़गिन { $count } हटाउ?
        *[other] सभ लॉगिन { $count } हटाउ?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] एकरा सँ अहाँक { -brand-short-name } पर सहेजल लॉगिन मेटाए देल जाएत आओऱ कोनो भी सुरक्षा चेतावनी जे एतय देखाएल जएताह. अहाँ एकरा दोबारा नहि पाएब सकब.
+       *[other] एकरा सँ अहाँक { -brand-short-name } पर सहेजल लॉगिन मेटाए देल जाएत आओऱ कोनो भी सुरक्षा चेतावनी जे एतय देखाएल जएताह. अहाँ एकरा दोबारा नहि पाएब सकब..
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] सभ डिवाइस सँ लॉगिन { $count } हटाउ?
@@ -219,6 +224,7 @@ about-logins-breach-alert-learn-more-link = बेसी जानू
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = कमजोर गुड़किल्ली
+about-logins-vulnerable-alert-text2 = ई गुड़किल्ली कोनो आन दोसर खता सेहो पर उपयोग कएल गेल अछि जाहि सँ डेटाकेर सुरक्षा खतरा मे हए केर गुंजाइश छला. क्रेडेंशियल क' दोबारा उपयोग कएनाय अहाँक सभ खाता केँ असुरक्षित करैत अछि. ई गुड़किल्ली बदलू.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } पर जाउ
