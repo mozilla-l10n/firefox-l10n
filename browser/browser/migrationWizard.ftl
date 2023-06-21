@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Thông tin đăng nhập và mật
 migration-history-option-label = Lịch sử duyệt web
 migration-form-autofill-option-label = Dữ liệu tự động điền biểu mẫu
 migration-payment-methods-option-label = Phương thức thanh toán
+migration-cookies-option-label = Cookie
+migration-session-option-label = Cửa sổ và thẻ
+migration-otherdata-option-label = Dữ liệu khác
 migration-passwords-from-file-progress-header = Nhập tập tin mật khẩu
 migration-passwords-from-file-success-header = Đã nhập mật khẩu thành công
 migration-passwords-from-file = Kiểm tra tập tin cho mật khẩu
@@ -96,6 +99,7 @@ migration-bookmarks-from-file-picker-title = Nhập tập tin dấu trang
 migration-bookmarks-from-file-progress-header = Đang nhập dấu trang
 migration-bookmarks-from-file = Dấu trang
 migration-bookmarks-from-file-success-header = Đã nhập dấu trang thành công
+migration-bookmarks-from-file-no-valid-data = Tập tin không bao gồm bất kỳ dữ liệu dấu trang nào. Chọn một tập tin khác.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

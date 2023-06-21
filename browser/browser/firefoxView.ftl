@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Thẻ từ thiết bị khác
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Xem tất cả
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Cửa sổ { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Cửa sổ { $winID } (Hiện tại)
+firefoxview-opentabs-focus-tab =
+    .title = Chuyển sang thẻ này
+firefoxview-show-more = Hiện thêm
+firefoxview-show-less = Hiện ít hơn
