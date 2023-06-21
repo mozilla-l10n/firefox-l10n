@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = vis log
     .title = klik for at udvide denne sektion
 about-webrtc-log-hide-msg = skjul log
     .title = klik for at sammenklappe denne sektion
+about-webrtc-copy-report-button = Kopier rapport
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:

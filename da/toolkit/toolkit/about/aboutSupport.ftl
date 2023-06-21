@@ -175,6 +175,11 @@ media-codec-support-info = Information om codec-support
 # List all the entries of the database.
 media-capabilities-enumerate = Vis database-poster
 
+## Codec support table
+
+media-codec-support-supported = Understøttet
+media-codec-support-unsupported = Ikke understøttet
+
 ##
 
 intl-title = Tilpasning til andre sprog og lande
