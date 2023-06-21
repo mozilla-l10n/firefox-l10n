@@ -19,6 +19,15 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+##
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 pictureinpicture-pause-btn =
     .aria-label = Pause
     .tooltip = Pause (Mellemrum)
@@ -40,6 +49,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Undertekster
     .tooltip = Undertekster
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Fuld skærm
+    .tooltip = Fuld skærm (dobbeltklik eller { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Afslut fuld skærm
+    .tooltip = Afslut fuld skærm (dobbeltklik eller { $shortcut })
 
 ##
 
@@ -49,12 +64,24 @@ pictureinpicture-fullscreen-btn =
 pictureinpicture-exit-fullscreen-btn =
     .aria-label = Fuld skærm
     .tooltip = Afslut fuld skærm (dobbeltklik)
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+
 pictureinpicture-seekbackward-btn =
     .aria-label = Tilbage
     .tooltip = Tilbage (←)
 pictureinpicture-seekforward-btn =
     .aria-label = Frem
     .tooltip = Frem (→)
+
+##
+
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
