@@ -44,6 +44,14 @@ login-list-count =
         [one] { $count } लॉगिन
        *[other] { $count } लॉगिन
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } क'  { $total } लॉगिन
+       *[other] { $count } क' { $total } लॉगिन
+    }
 login-list-sort-label-text = द्वारा छाँटल:
 login-list-name-option = नाम (A-Z)
 login-list-name-reverse-option = नाम (Z-A)
@@ -74,6 +82,9 @@ about-logins-list-section-week = अंतिम 7 दिन
 
 about-logins-login-intro-heading-logged-out2 = अपन सहेजल गुड़किल्ली खोजि रहल छी? सिंक कएनाय चालू करू या ओकरा आयात करू
 about-logins-login-intro-heading-logged-in = कोनो सिंक लॉगिन नहि भेटल
+login-intro-description = जँ अहाँ लॉगिन केँ कोनो दोसर डिवाइस पर  { -brand-product-name } सहेजने छी, ओ एतय सँ पाबू:
+login-intro-instructions-fxa = जे डिवाइस पर अहाँ लॉगिन सहेजने अछि { -fxaccount-brand-name(capitalization: "sentence") } ओतए लॉगिन बनाबू अथवा साइन इन करू
+login-intro-instructions-fxa-settings = सेटिंग में जाउ > सिंक > सिंकिंग चालू करू… लॉगिन आओऱ गुड़किल्ली केर चेकबॉक्स केँ चुनू.
 login-intro-instructions-fxa-passwords-help = बेसी मदति कलेल<a data-l10n-name="passwords-help-link">गुड़किल्ली सहायता पर</a> जाउ.
 
 ## Login
