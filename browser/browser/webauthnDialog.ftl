@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Felaktig PIN-kod. Försök igen.
 webauthn-pin-required-prompt = Ange PIN-koden för din enhet.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Användarverifiering misslyckades. Du har { $retriesLeft } försök kvar. Försök igen.
+       *[other] Användarverifiering misslyckades. Du har { $retriesLeft } försök kvar. Försök igen.
+    }
+webauthn-uv-invalid-short-prompt = Användarverifiering misslyckades. Försök igen.
