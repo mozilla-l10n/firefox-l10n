@@ -35,6 +35,8 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edga
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edga (starejše različice)
 migration-wizard-migrator-display-name-firefox = Firefoxa
+migration-wizard-migrator-display-name-file-password-csv = datoteke CSV z zaznamki
+migration-wizard-migrator-display-name-file-bookmarks = datoteke HTML z zaznamki
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorerja
 migration-wizard-migrator-display-name-opera = Opere
 migration-wizard-migrator-display-name-opera-gx = Opere GX
@@ -57,6 +59,7 @@ migration-favorites-option-label = priljubljene
 migration-logins-and-passwords-option-label = shranjene prijave in gesla
 migration-history-option-label = zgodovina brskanja
 migration-form-autofill-option-label = podatki za izpolnjevanje obrazcev
+migration-payment-methods-option-label = Načini plačila
 migration-passwords-from-file-progress-header = Uvozi datoteko z gesli
 migration-passwords-from-file-success-header = Gesla so uspešno uvožena
 migration-passwords-from-file = Iskanje gesel v datoteki
@@ -104,6 +107,17 @@ migration-wizard-progress-success-updated-passwords =
 migration-bookmarks-from-file-picker-title = Uvozi datoteko z zaznamki
 migration-bookmarks-from-file-progress-header = Uvažanje zaznamkov
 migration-bookmarks-from-file-success-header = Zaznamki so uspešno uvoženi
+migration-bookmarks-from-file-no-valid-data = Datoteka ne vsebuje podatkov o zaznamkih. Izberite drugo datoteko.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument HTML
+       *[other] Datoteka HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Datoteka JSON
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
