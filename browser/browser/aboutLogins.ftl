@@ -86,6 +86,8 @@ login-intro-description = जँ अहाँ लॉगिन केँ को�
 login-intro-instructions-fxa = जे डिवाइस पर अहाँ लॉगिन सहेजने अछि { -fxaccount-brand-name(capitalization: "sentence") } ओतए लॉगिन बनाबू अथवा साइन इन करू
 login-intro-instructions-fxa-settings = सेटिंग में जाउ > सिंक > सिंकिंग चालू करू… लॉगिन आओऱ गुड़किल्ली केर चेकबॉक्स केँ चुनू.
 login-intro-instructions-fxa-passwords-help = बेसी मदति कलेल<a data-l10n-name="passwords-help-link">गुड़किल्ली सहायता पर</a> जाउ.
+about-logins-intro-browser-only-import = जँ अहाँक' लॉगिन कोनो दोसर ब्राउजर में सहेजल अछि, अहाँ ओ <a data-l10n-name="import-link">iएतय आयात क' सकैत छी { -brand-product-name }</a>
+about-logins-intro-import2 = जँ अहाँ लॉगिन { -brand-product-name }, केर बाहर सहजने छी, तँ अहाँ <a data-l10n-name="import-browser-link"> कोनो दोसर ब्राउजर सँ </a> or <a data-l10n-name="import-file-link">फाइल सँ आयात सेहो क' सकैत छी</a>
 
 ## Login
 
@@ -142,6 +144,8 @@ about-logins-reveal-password-os-auth-dialog-message-win = अपन पासव
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली जानू
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = अपन गुड़किल्ली केँ नकल बनाबए लेल, अपना Windows लॉगिन क्रेडेंशियल्स दर्ज करू. ई अहाँक खाता केँ सुरक्षित बनैने रखाए मे मददगार भेत.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली कॉपी करू
