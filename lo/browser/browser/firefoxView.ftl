@@ -109,3 +109,7 @@ firefoxview-recently-closed-header = ແທັບທີ່ຫາກໍ່ປິ�
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = ເບິ່ງ​ທັງ​ຫມົດ
+firefoxview-opentabs-focus-tab =
+    .title = ສະຫຼັບໄປແຖບນີ້
+firefoxview-show-more = ສະແດງເພີ່ມເຕີມ
+firefoxview-show-less = ສະແດງນ້ອຍລົງ
