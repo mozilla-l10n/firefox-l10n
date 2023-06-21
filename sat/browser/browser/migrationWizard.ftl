@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫ�
 migration-history-option-label = ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
 migration-form-autofill-option-label = ᱟᱡ ᱛᱮ ᱯᱟᱨᱮᱡ ᱯᱷᱚᱨᱢ
 migration-payment-methods-option-label = ᱜᱚᱱᱚᱝ ᱦᱚᱨᱟᱠᱚ
+migration-cookies-option-label = ᱠᱩᱠᱤᱡᱽᱠᱚ
+migration-session-option-label = ᱡᱷᱚᱨᱠᱟ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ
+migration-otherdata-option-label = ᱮᱴᱟᱜ ᱰᱟᱴᱟ
 migration-passwords-from-file-progress-header = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 migration-passwords-from-file-success-header = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱟᱹᱥ ᱞᱮᱠᱟᱛᱮ ᱟᱹᱜᱩᱭ ᱮᱱᱟ
 migration-passwords-from-file = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱟᱹᱜᱤᱫ ᱨᱮᱫ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ
@@ -106,6 +109,7 @@ migration-bookmarks-from-file-picker-title = ᱨᱮᱫᱽ ᱠᱷᱚᱱ ᱯᱩᱛ
 migration-bookmarks-from-file-progress-header = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟ
 migration-bookmarks-from-file = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ
 migration-bookmarks-from-file-success-header = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱨᱟᱹᱥ ᱞᱮᱠᱷᱟᱛᱮ ᱟᱹᱜᱩᱮᱱᱟ
+migration-bookmarks-from-file-no-valid-data = ᱱᱚᱶᱟ ᱨᱮᱫᱽ ᱨᱮ ᱡᱟᱦᱱᱟᱜ ᱯᱩᱛᱷᱵᱩᱩᱠᱢᱟᱨᱠ ᱰᱮᱴᱟ ᱵᱟᱭ ᱢᱮᱥᱟᱜᱼᱟ ᱾ ᱮᱴᱟᱜ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
