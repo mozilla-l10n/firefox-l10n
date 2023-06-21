@@ -48,6 +48,13 @@ serviceworker-worker-status-stopped = ᱵᱚᱱᱫᱚ ᱟᱠᱟᱱᱟ
 serviceworker-empty-intro2 = ᱪᱤᱞᱤ ᱦᱚᱸ service workers ᱵᱟᱠᱚ ᱧᱟᱢ ᱞᱮᱱᱟ
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = ᱡᱩᱫᱤ ᱱᱤᱛᱚᱜᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮ service workers ᱢᱮᱱᱟᱜ ᱠᱚ ᱠᱷᱟᱱ, ᱟᱢ ᱫᱚ <a>ᱠᱚᱱᱥᱚᱞ</a> ᱨᱮ ᱵᱷᱩᱞᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱥᱮ <span>ᱰᱮᱵᱩᱜᱚᱨ</span> ᱨᱮ ᱟᱢᱟᱜ service worker ᱧᱩᱛᱩᱢ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = ᱮᱴᱟᱜ ᱰᱚᱢᱮᱱ ᱠᱷᱚᱱ service workers ᱧᱮᱞ ᱢᱮ
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = ᱮᱯ ᱢᱮᱱᱤᱯᱷᱮᱥᱴ
 # Header for the Manifest page when there's no manifest to inspect
