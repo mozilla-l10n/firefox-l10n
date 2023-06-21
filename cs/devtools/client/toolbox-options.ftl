@@ -111,6 +111,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Povolit vzdálené ladění
 options-enable-remote-tooltip2 =
     .title = Zapnutí umožní vzdálené ladění této instance prohlížeče
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Pomocí klávesy F12 otevřít nebo zavřít Nástroje pro vývojáře
+options-enable-f12-tooltip =
+    .title = Zapnutím této možnosti se nastaví klávesa F12 k otevření či zavření Nástrojů pro vývojáře
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Povolit vlastní formátovače
 # The label for checkbox that toggles the service workers testing over HTTP on or off.

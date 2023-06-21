@@ -78,7 +78,7 @@ manifest-loaded-ok = Manifest načten.
 manifest-loaded-error = Při načítání manifestu došlo k chybě:
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
-manifest-loaded-devtools-error = Chyba ve Firefox DevTools
+manifest-loaded-devtools-error = Chyba v nástrojích pro vývojáře Firefoxu
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nebyl nalezen žádný manifest k prozkoumání.
 # Text displayed when the page has a manifest embedded in a Data URL and
