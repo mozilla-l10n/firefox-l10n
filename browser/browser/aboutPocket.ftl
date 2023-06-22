@@ -22,6 +22,7 @@ pocket-panel-saved-page-saved = { -pocket-brand-name } मे सहेजल
 pocket-panel-saved-page-saved-b = { -pocket-brand-name }मे सहेजल!
 pocket-panel-saved-processing-remove = पेज हटाएब रहल अछि…
 pocket-panel-saved-removed = हमर रीडिंग सूची सँ पेज हटाएल गेल
+pocket-panel-saved-removed-updated = सहेजल मे सँ पृष्ठ हटाएल गेल
 pocket-panel-saved-processing-tags = पेज जोड़ि रहल अछि
 pocket-panel-saved-remove-page = पेज हटाउ
 pocket-panel-saved-save-tags = सहेजू
@@ -39,6 +40,8 @@ pocket-panel-signup-learn-more = बेसी जानू
 pocket-panel-signup-login = लॉग इन
 pocket-panel-signup-signup-email = ईमेल द्वारा साइन-इन करू
 pocket-panel-signup-signup-cta = { -pocket-brand-name } कलेल साइन-अप करू. ई मुफ्त अछि.
+pocket-panel-signup-signup-firefox = { -brand-product-name } सँग साइन अप करू
+pocket-panel-signup-tagline = { -brand-product-name } सँ आर्टिकिल आओर वीडियो  केँ { -pocket-brand-name } मे सहेजू, कखनो, दोसर डिवाइस मे देखबाक लेल.
 
 ## about:pocket-home panel
 
