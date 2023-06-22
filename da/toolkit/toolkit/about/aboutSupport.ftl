@@ -177,6 +177,8 @@ media-capabilities-enumerate = Vis database-poster
 
 ## Codec support table
 
+media-codec-support-sw-decoding = Software-afkodning
+media-codec-support-hw-decoding = Hardware-afkodning
 media-codec-support-supported = Understøttet
 media-codec-support-unsupported = Ikke understøttet
 
