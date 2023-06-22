@@ -6,6 +6,7 @@
 ### Speech Dispatches is the name of a speech synthesis tool and shouldn’t be
 ### localized (https://freebsoft.org/speechd).
 
+speech-dispatcher-lib-missing = Speech Dispatcher kitaplığı eksik olduğu için konuşma sentezlemeyi kullanamazsınız.
 speech-dispatcher-dismiss-button =
     .label = Bir daha gösterme
     .accesskey = B
