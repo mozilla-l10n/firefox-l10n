@@ -195,6 +195,39 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } preferito
        *[other] { $quantity } preferiti
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } estensione
+       *[other] { $quantity } estensioni
+    }
+
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } di { $quantity } estensioni
+
+migration-wizard-progress-extensions-support-link = Scopri in che modo { -brand-product-name } trova corrispondenze tra le estensioni
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nessuna estensione corrispondente
+
+migration-wizard-progress-extensions-addons-link = Scopri estensioni per { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
