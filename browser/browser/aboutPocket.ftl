@@ -47,10 +47,18 @@ pocket-panel-signup-tagline-story-two = कोनो समय, कोनो ड
 pocket-panel-signup-cta-a-fix = इंटरनेट कलेल अहाँक द्वारा सहेजल बटन
 pocket-panel-signup-cta-b = Click the { -pocket-brand-name } button to save articles, videos, and links. View your list on any device, any time.
 pocket-panel-signup-cta-b-updated = कोनो आर्टिकिल, वीडियो आओर लिंक सहेजबाक लेल { -pocket-brand-name } बटन केँ क्लिक करू. अहाँ अपन सहेजल कखनो, कोनो डिवाइस पर देखि सकैत छी.
-pocket-panel-signup-cta-b-short = Click the { -pocket-brand-name } button to save articles, videos, and links.
+pocket-panel-signup-cta-b-short = आर्टिकिल, वीडियो आओर लिंक सहेजबाक लेल सहेजबाक लेल { -pocket-brand-name } केँ क्लिक करू.
+pocket-panel-signup-cta-c = अपन सूची कखनो कोनो डिवाइस पर देखू.
+pocket-panel-signup-cta-c-updated = अहाँ अपन सहेजल कखनो, कोनो डिवाइस पर देखि सकैत छी.
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = हमर सूची
+pocket-panel-home-welcome-back = फिनु अहाँक स्वागत अछि
+pocket-panel-home-paragraph = ढूँढनाय आओर सहेजल वेबपृष्ठ, आर्टिकिल, वीडियो, पॉडकास्ट, अथवा जे अहाँ पढ़ि रहल छलहुँ केँ फिनु सँ पाबए कलेल अहाँ { -pocket-brand-name } केँ उपयोग कए सकैत छी.
+pocket-panel-home-explore-popular-topics = चर्चित बिषय ढूँढू.
+pocket-panel-home-discover-more = बेसी जानू
+pocket-panel-home-explore-more = जानू
 
 ## Pocket panel header component
 
