@@ -124,8 +124,8 @@ a11y-force-disabled = Спречи приступачност
 a11y-handler-used = Приступни управљач искоришћен
 a11y-instantiator = Приступачност инстантиатору
 library-version-title = Издања библиотека
-copy-text-to-clipboard-label = Копирај текст у бележницу
-copy-raw-data-to-clipboard-label = Копирај податке у бележницу
+copy-text-to-clipboard-label = Копирај текст у привремену меморију
+copy-raw-data-to-clipboard-label = Копирај податке у привремену меморију
 sandbox-title = Sandbox
 sandbox-sys-call-log-title = Одбијени системски позиви
 sandbox-sys-call-index = #
@@ -288,10 +288,12 @@ webgl1-version = WebGL 1 верзија драјвера
 webgl1-driver-extensions = WebGL 1 – проширења драјвера
 webgl1-extensions = WebGL 1 – проширења
 webgl2-wsiinfo = WebGL 2 WSI информације драјвера
-webgl2-renderer = WebGL2 Renderer
+webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 верзија драјвера
 webgl2-driver-extensions = WebGL 2 – проширења драјвера
 webgl2-extensions = WebGL 2 – проширења
+webgpu-default-adapter = Подразумевани WebGPU адаптер
+webgpu-fallback-adapter = Резервни WebGPU адаптер
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Блокирано због познатих проблема: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
@@ -321,6 +323,7 @@ can-sandbox-media = Медијска компонента Sandboxing
 content-sandbox-level = Ниво Sandbox процеса садржаја
 effective-content-sandbox-level = Ефективни ниво Sandbox процеса садржаја
 content-win32k-lockdown-state = Стање закључавања Win32k за процес садржаја
+support-sandbox-gpu-level = Ниво Sandbox GPU процеса
 sandbox-proc-type-content = садржај
 sandbox-proc-type-file = садржај дадотеке
 sandbox-proc-type-media-plugin = медијска компонента
