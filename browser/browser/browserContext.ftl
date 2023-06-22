@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = استفاده از نقاب رایانامهٔ { -relay-brand-short-name }
+    .accesskey = ا
 main-context-menu-suggest-strong-password =
     .label = پیشنهاد یک گذرواژهٔ قوی…
     .accesskey = پ
