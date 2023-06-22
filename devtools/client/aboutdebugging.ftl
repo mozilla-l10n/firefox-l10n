@@ -8,18 +8,39 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = اشکال‌زدایی - برپاسازی
+# Page title (ie tab title) for the Runtime page
+# Variables:
+#   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
+about-debugging-page-title-runtime-page = اشکال‌زدایی - زمان اجرا / { $selectedRuntimeId }
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = این { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
+# .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
+# .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-setup =
     .name = برپایی
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = متصل شد
+# Connection status (disconnected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-disconnected = اتصال قطع شد
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = افزاره‌ای کشف نشد
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = اتّصال
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = در حال اتصال…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = اتصال شکست خورد
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
@@ -56,15 +77,19 @@ about-debugging-network-locations-remove-button = برداشتن
 # Runtime Page strings
 
 # Title of the tabs category.
+# .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-tabs =
     .name = زبانه‌ها
 # Title of the service workers category.
+# .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-service-workers =
     .name = کارگرهای خدمت
 # Title of the shared workers category.
+# .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-shared-workers =
     .name = کارگرهای مشترک
 # Title of the other workers category.
+# .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-other-workers =
     .name = کارگرهای دیگر
 # Label of the button opening the performance profiler panel in runtime pages for remote
