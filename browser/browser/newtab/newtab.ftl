@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = جستجو
     .aria-label = جستجو
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = با { $engine } جستجو یا آدرسی وارد کنید
 newtab-search-box-handoff-text-no-engine = عبارتی برای جستجو یا یک آدرس وارد کنید
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = با { $engine } جستجو یا یک آدرس وارد کنید
     .title = با { $engine } جستجو یا یک آدرس وارد کنید
@@ -86,7 +86,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = حذف
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = باز کردن منو
     .aria-label = بازکردن فهرست زمینه برای { $title }
@@ -158,16 +158,16 @@ newtab-label-saved = در { -pocket-brand-name } ذخیره شد
 newtab-label-download = دریافت شد
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · حمایت مالی شده
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = حمایت شده توسط { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } دقیقه
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -196,7 +196,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = سایت‌های برتر
 newtab-section-header-recent-activity = فعالیت‌های اخیر
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -204,7 +204,7 @@ newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
 newtab-empty-section-highlights = مرور کردن را شروع کنید و شاهد تعداد زیادی مقاله، فیلم و صفحات خوبی باشید که اخیر مشاهده کرده اید یا نشانگ گذاری کرده اید.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = فعلاً تمام شد. بعداً دوباره سر بزن تا مطالب جدیدی از { $provider } ببینی. نمی‌توانی صبر کنی؟ یک موضوع محبوب را انتخاب کن تا مطالب جالب مرتبط از سراسر دنیا را پیدا کنی.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -243,6 +243,10 @@ newtab-pocket-last-card-image =
 newtab-pocket-save = ذخیره
 newtab-pocket-saved = ذخیره شد
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = بهترین‌های وب را کشف کنید
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -253,6 +257,8 @@ newtab-error-fallback-refresh-link = برای تلاش مجدد صفحه را ن
 
 newtab-custom-shortcuts-title = میانبرها
 newtab-custom-shortcuts-subtitle = وب‌سایت‌هایی که ذخیره یا بازدید می‌کنید
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } ردیف
