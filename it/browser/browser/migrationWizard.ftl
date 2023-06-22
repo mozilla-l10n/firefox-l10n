@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Segnalibri
 migration-favorites-option-label = Preferiti
 migration-logins-and-passwords-option-label = Credenziali e password salvate
 migration-history-option-label = Cronologia di navigazione
+migration-extensions-option-label = Estensioni
 migration-form-autofill-option-label = Dati per la compilazione automatica dei moduli
 migration-payment-methods-option-label = Metodi di pagamento
 migration-cookies-option-label = Cookie
@@ -154,6 +155,7 @@ migration-list-bookmark-label = segnalibri
 migration-list-favorites-label = preferiti
 migration-list-password-label = password
 migration-list-history-label = cronologia
+migration-list-extensions-label = estensioni
 migration-list-autofill-label = dati per la compilazione automatica dei moduli
 migration-list-payment-methods-label = metodi di pagamento
 
