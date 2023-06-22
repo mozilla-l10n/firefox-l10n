@@ -103,6 +103,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Дневник одлука
 graphics-crash-guards-title = Онемогућене могућности чувара рушења
 graphics-workarounds-title = Алтернативна решења
+graphics-device-pixel-ratios = Односи пиксела у прозору уређаја
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Протокол прозора
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
@@ -111,6 +112,7 @@ place-database-title = База података локација
 place-database-stats = Статистика
 place-database-stats-show = Прикажи статистику
 place-database-stats-hide = Сакриј статистику
+place-database-stats-entity = Објект
 place-database-stats-count = Укупно
 place-database-stats-size-kib = Величина (KiB)
 place-database-stats-size-perc = Величина (%)
