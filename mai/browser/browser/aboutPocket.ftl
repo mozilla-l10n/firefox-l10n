@@ -42,6 +42,12 @@ pocket-panel-signup-signup-email = ईमेल द्वारा साइन-
 pocket-panel-signup-signup-cta = { -pocket-brand-name } कलेल साइन-अप करू. ई मुफ्त अछि.
 pocket-panel-signup-signup-firefox = { -brand-product-name } सँग साइन अप करू
 pocket-panel-signup-tagline = { -brand-product-name } सँ आर्टिकिल आओर वीडियो  केँ { -pocket-brand-name } मे सहेजू, कखनो, दोसर डिवाइस मे देखबाक लेल.
+pocket-panel-signup-tagline-story-one = { -pocket-brand-name } बटन केँ क्लिक करू कोनो आर्टिकिल, वीडियो अथवा पृष्ठ सहेजबाक लेल { -brand-product-name } सँ.
+pocket-panel-signup-tagline-story-two = कोनो समय, कोनो डिवाइस पर { -pocket-brand-name }देखू.
+pocket-panel-signup-cta-a-fix = इंटरनेट कलेल अहाँक द्वारा सहेजल बटन
+pocket-panel-signup-cta-b = Click the { -pocket-brand-name } button to save articles, videos, and links. View your list on any device, any time.
+pocket-panel-signup-cta-b-updated = कोनो आर्टिकिल, वीडियो आओर लिंक सहेजबाक लेल { -pocket-brand-name } बटन केँ क्लिक करू. अहाँ अपन सहेजल कखनो, कोनो डिवाइस पर देखि सकैत छी.
+pocket-panel-signup-cta-b-short = Click the { -pocket-brand-name } button to save articles, videos, and links.
 
 ## about:pocket-home panel
 
