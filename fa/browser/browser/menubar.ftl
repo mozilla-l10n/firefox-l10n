@@ -330,6 +330,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = خاموش کردن حالت عیب‌یابی
     .accesskey = M
+menu-help-switch-device =
+    .label = تعویض به افزاره‌ای جدید
+    .accesskey = ت
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
