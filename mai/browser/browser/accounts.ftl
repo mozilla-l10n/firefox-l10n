@@ -52,14 +52,32 @@ account-connection-connected-with = ई कंप्यूटर आब { $devic
 account-connection-connected-with-noname = ई कंप्यूटर आब एकटा नवीन डिवाइस सँ जुड़ल अछि.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = अहाँ सफलतापूर्वक साइन इन कएलहुँ
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = ई कंप्यूटर डिसकनेक्ट क' देल गेल अछि.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
+account-single-tab-arriving-title = टैब प्राप्त भेल
+# Variables:
+#   $deviceName (String): the device name.
+account-single-tab-arriving-from-device-title = { $deviceName } सँ टैब
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+account-multiple-tabs-arriving-title = टैब प्राप्त भेल
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device = { $tabCount } टैब { $deviceName } सँ पहुँचल अछि
+account-multiple-tabs-arriving-from-multiple-devices = { $tabCount } टैब अहाँक कनेक्टेड डिवाइस सँ पहुँचल अछि
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device = { $tabCount } टैब आबि गेल अछि
