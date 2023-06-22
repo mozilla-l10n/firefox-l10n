@@ -21,4 +21,12 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Неправильний PIN-код. Спробуйте ще раз.
 webauthn-pin-required-prompt = Введіть PIN-код свого пристрою.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Не вдалося перевірити користувача. У вас залишилася { $retriesLeft } спроба.
+        [few] Не вдалося перевірити користувача. У вас залишилося { $retriesLeft } спроби.
+       *[many] Не вдалося перевірити користувача. У вас залишилося { $retriesLeft } спроб.
+    }
 webauthn-uv-invalid-short-prompt = Помилка перевірки користувача. Повторіть спробу.
