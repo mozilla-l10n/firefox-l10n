@@ -55,6 +55,12 @@ printui-backgrounds-checkbox = Nārī ñadu'ua Fôndo
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = Formâto
+# Option for printing the original page.
+printui-source-radio = Sa hìa
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Nāguī
 
 ##
 
