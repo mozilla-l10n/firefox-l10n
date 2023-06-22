@@ -3,113 +3,87 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = مدیریت افزودنی‌ها
-
 search-header =
     .placeholder = جست‌ و جو addons.mozilla.org
     .searchbuttonlabel = جست و جو
-
 search-header-shortcut =
     .key = f
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = دریافت برنامه‌های افزودنی و تم‌ها در <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-dictionaries-message = دریافت لغتنامه‌ها در <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-language-packs-message = دریافت بسته‌های زبانی در <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
 
 list-empty-installed =
     .value = هیچ افزودنی‌ای از این نوع نصب نشده است
-
 list-empty-available-updates =
     .value = هیچ بروزرسانی‌ای پیدا نشد
-
 list-empty-recent-updates =
     .value = اخیراً هیچ افزودنی‌ای به‌هنگام نشده است
-
 list-empty-find-updates =
     .label = بررسی برای بروزرسانی‌ها
-
 list-empty-button =
     .label = دربارهٔ افزودنی‌ها بیشتر بدانید
-
 help-button = پشتیبانی افزونه
 sidebar-help-button-title =
     .title = پشتیبانی افزونه
-
 addons-settings-button = تنظیمات { -brand-short-name }
 sidebar-settings-button-title =
     .title = تنظیمات { -brand-short-name }
-
 show-unsigned-extensions-button =
     .label = برخی از توسعه‌ها را نمی‌توان تایید کرد
-
 show-all-extensions-button =
     .label = نمایش تمام توسعه‌ها
-
 detail-version =
     .label = نسخه
-
 detail-last-updated =
     .label = آخرین بروزرسانی
-
 detail-contributions-description = توسعه‌دهندهٔ این افزودنی از شما برای توسعهٔ متداوم این افزودنی کمک مالی کوچکی درخواست کرده است.
-
 detail-contributions-button = مشارکت
     .title = مشارکت در توسعه این افزونه
     .accesskey = c
-
 detail-update-type =
     .value = بروزرسانی‌های خودکار
-
 detail-update-default =
     .label = پیش‌فرض
     .tooltiptext = تنها در صورت اینکه گزینه نصب خودکار بروزرسانی‌ها گزینه پیش‌فرض باشد این اتفاق بیافتد
-
 detail-update-automatic =
     .label = فعال
     .tooltiptext = بروزرسانی‌های جدید به صورت خودکار نصب شوند
-
 detail-update-manual =
     .label = غیر فعال
     .tooltiptext = بروزرسانی‌های جدید به صورت خودکار نصب نشوند
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = اجرا در پنجره‌های ناشناس
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = در پنجره‌های ناشناس مجاز نیست
 detail-private-disallowed-description2 = این افزونه در مرور ناشناس اجرا نمی‌شود. <a data-l10n-name="learn-more">بیشتر بیاموزید</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = نیازمند دسترسی به پنجره‌های ناشناس است
 detail-private-required-description2 = این افزونه به فعالیت‌های برخط شما در حال مرور ناشناس دسترسی دارد. <a data-l10n-name="learn-more"> بیشتر بیاموزید</a>
-
 detail-private-browsing-on =
     .label = اجازه دادن
     .tooltiptext = فعال کردن در مرور ناشناس
-
 detail-private-browsing-off =
     .label = اجازه داده نشود
     .tooltiptext = غیرفعال کردن در مرور ناشناس
-
 detail-home =
     .label = صفحهٔ افزودنی
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = نمایهٔ افزودنی
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = بررسی برای بروزرسانی‌ها
     .accesskey = ب
     .tooltiptext = بررسی بروزرسانی‌های این افزودنی
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -126,31 +100,20 @@ detail-show-preferences =
             [windows] تغییر گزینه‌های این افزودنی
            *[other] تغییر ترجیحات این افزودنی
         }
-
 detail-rating =
     .value = رتبه‌بندی
-
 addon-restart-now =
     .label = راه‌اندازی مجدد
-
 disabled-unsigned-heading =
     .value = برخی افزودنی‌ها غیر فعال شده‌اند
-
 disabled-unsigned-description = افزودنی‌های زیر برای استفاده در { -brand-short-name } تایید نشده‌اند. شما میتوانید <label data-l10n-name="find-addons">یافتن جایگزین</label> یا از توسعه‌دهنده بخواهید تا آنها را تایید نماید.
-
 disabled-unsigned-learn-more = در مورد تلاش های ما برای کمک به حفظ امنیت آنلاین شما بیشتر بیاموزید.
-
 disabled-unsigned-devinfo = توسعه‌دهندگانی که علاقه‌مند به دریافت تاییدیهٔ افزودنی‌های خود هستند می‌توانند ادامه دهند با خواندنِ <label data-l10n-name="learn-more">کتابچهٔ راهنما</label>.
-
 plugin-deprecation-description = چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر توسط{ -brand-short-name } پشتیبانی نمی‌شود. <label data-l10n-name="learn-more">بیشتر بدانید.</label>
-
 legacy-warning-show-legacy = نمایش ضمیمه‌های قدیمی
-
 legacy-extensions =
     .value = ضمیمه‌های قدیمی
-
 legacy-extensions-description = این ضمیمه‌ها استاندارهای لازم { -brand-short-name } را ندارند و به همین دلیل غیرفعال شده‌اند. <label data-l10n-name="legacy-learn-more">در مورد تغییرات در افزودنی‌ها بیشتر بدانید</label>
-
 addon-category-discover = توصیه‌ها
 addon-category-discover-title =
     .title = توصیه‌ها
@@ -231,50 +194,52 @@ addon-open-about-debugging = اشکال‌زدایی افزودنی‌ها
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = مدیریت میانبرهای افزودنی
     .accesskey = م
-
 shortcuts-no-addons = شما هیچ افزونه فعالی ندارید.
 shortcuts-no-commands = افرونه‌های زیر میانبر ندارند:
 shortcuts-input =
     .placeholder = یک میانبر وارد کنید
-
 shortcuts-browserAction2 = فعال‌سازی دکمهٔ نوار ابزار
+shortcuts-pageAction = فعال‌سازی کنش صفحه
 shortcuts-sidebarAction = تغییر حالت نوار کناری
-
 shortcuts-modifier-mac = شامل Ctrl ،Alt یا ⌘
 shortcuts-modifier-other = شامل Ctrl یا Alt
 shortcuts-invalid = ترکیب نامعتبر است
 shortcuts-letter = یک حرف تایپ کنید
 shortcuts-system = نمی‌توان یک میانبر { -brand-short-name } را باطل کرد
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = میانبر تکراری
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } به عنوان میانبر در بیشتر از یک مورد استفاده شده. میانبرهای تکراری می‌توانند باعث رفتارهای غیر منتظره شوند.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = از قبل توسط { $addon } استفاده می‌شود
-
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] نمایش { $numberToShow } مورد بیشتر
     }
-
 shortcuts-card-collapse-button = نمایش کمتر
-
 header-back-button =
     .title = برگشتن
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    افرونه‌ها و زمینه‌ها مانند کاره‌هایی برای مروگرتان هستند، و به شما اجازهٔ حفاظت از گذر‌واژه‌ها،
+    بارگیری ویدیوها، پیدا کردن معاملات، مسدود کردن تبلیغات مزاحم، تغییر ظاهر مرورگر و موارد
+    فراوان دیگری را می‌دهد. این برنامه‌های نرم‌افزاری کوچک اغلب به وسیلهٔ سوم‌شخص توسعه
+    داده شده‌‌اند. در این‌جا مجموعه‌ای <a data-l10n-name="learn-more-trigger">توصیه شده</a>
+    توسط { -brand-product-name } برای استثناهای امنیتی، کارایی و عملکرد وجود دارد.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = برخی از این توصیه‌ها شخصی‌سازی شده‌اند. آن‌ها بر اساس دیگر افزونه‌هایی که نصب کردید،‌ ترجیحات نمایه و آمار استفاده می‌باشند.
 discopane-notice-learn-more = بیشتر بدانید
-
 privacy-policy = سیاست حریم خصوصی
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -290,7 +255,6 @@ install-theme-button = نصب پوسته
 manage-addon-button = مدیریت
 find-more-addons = یافتن افزونه‌های بیشتر
 find-more-themes = تم‌های بیشتری پیدا کنید
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -316,45 +280,34 @@ preferences-addon-button =
 details-addon-button = جزئیات
 release-notes-addon-button = یادداشت‌های انتشار
 permissions-addon-button = مجوزها
-
 extension-enabled-heading = فعال شد
 extension-disabled-heading = غیرفعال شد
-
 theme-enabled-heading = فعال شد
 theme-disabled-heading = غیرفعال شد
 theme-monochromatic-heading = رنگ‌بندی‌ها
-
 plugin-enabled-heading = فعال شد
 plugin-disabled-heading = غیرفعال شد
-
 dictionary-enabled-heading = فعال شد
 dictionary-disabled-heading = غیرفعال شد
-
 locale-enabled-heading = فعال شد
 locale-disabled-heading = غیرفعال شد
-
 always-activate-button = همیشه فعال باشد
 never-activate-button = هرگز فعال نشود
-
 addon-detail-author-label = نویسنده
 addon-detail-version-label = نسخه
 addon-detail-last-updated-label = آخرین بروزرسانی
 addon-detail-homepage-label = صفحه خانگی
 addon-detail-rating-label = امتیاز
-
 install-postponed-button = اکنون بروزرسانی کنید
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = امتیاز { NUMBER($rating, maximumFractionDigits: 1) } از ۵
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (غیرفعال شد)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -370,14 +323,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> حذف شد.
 pending-uninstall-undo-button = برگردان
-
 addon-detail-updates-label = مجاز برای بروزرسانی‌های خودکار
 addon-detail-updates-radio-default = پیش‌فرض
 addon-detail-updates-radio-on = روشن
 addon-detail-updates-radio-off = خاموش
 addon-detail-update-check-label = بررسی برای بروزرسانی‌ها
 install-update-button = بروزرسانی
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -390,21 +341,20 @@ addon-detail-private-browsing-disallow = اجازه نده
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = { -brand-product-name } تنها افزونه‌هایی را توصیه میکند، که با استانداردهای ما برای امنیت و کارایی مطابقت دارند
+    .aria-label = { addon-badge-recommended2.title }
 
 ##
 
 available-updates-heading = بروزرسانی‌های موجود
 recent-updates-heading = بروزرسانی‌های اخیر
-
 release-notes-loading = در حال بارگذاری…
 release-notes-error = متاسفیم، اما اشکالی در نمایش یادداشت‌های انتشار به وجود آمد.
-
 addon-permissions-empty = این افزونه به هیچ مجوزی نیاز ندارد
 addon-permissions-learnmore = درباره مجوزها بیشتر بدانید
-
 recommended-extensions-heading = افزونه‌های توصیه شده
 recommended-themes-heading = پوسته‌های توصیه شده
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = احساس خلاقیت می کنید؟ <a data-l10n-name="link">با FireFox Color پوسته خودتان را بسازید.</a>
@@ -419,11 +369,9 @@ locale-heading = زبانهای خود را مدیریت کنید
 updates-heading = مدیریت بروزرسانی‌ها
 discover-heading = { -brand-short-name } خود را سفارشی کنید
 shortcuts-heading = میانبرهای افزونه را مدیریت کنید
-
 default-heading-search-label = یافتن افزونه‌های بیشتر
 addons-heading-search-input =
     .placeholder = جست‌ و جو addons.mozilla.org
-
 addon-page-options-button =
     .title = ابزارهای مخصوص همهٔ افزودنی‌ها
 
@@ -431,20 +379,20 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
-# Variables:
-#   $version (String): application version.
-details-notification-incompatible = { $name } با نسخهٔ { $version } از { -brand-short-name } ناسازگار است.
 
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible = { $name } با نسخهٔ { $version } از { -brand-short-name } ناسازگار است.
 details-notification-unsigned-and-disabled = { $name } برای استفاده در { -brand-short-name } تایید نشده و به همین دلیل غیرفعال شد.
 details-notification-unsigned-and-disabled-link = اطلاعات بیشتر
-
 details-notification-unsigned = { $name } برای استفاده در { -brand-short-name } تایید نشد. با احتیاط ادامه دهید.
 details-notification-unsigned-link = اطلاعات بیشتر
-
 details-notification-blocked = { $name } به دلیل مشکلات امنیتی یا پایداری غیر فعال گردیده است.
 details-notification-blocked-link = اطلاعات بیشتر
-
 details-notification-softblocked = { $name } مشکلات امنیتی یا پایداری ایجاد می‌کند.
 details-notification-softblocked-link = اطلاعات بیشتر
-
 details-notification-gmp-pending = { $name } به زودی نصب میشود.
