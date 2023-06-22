@@ -107,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Yer İmi Dosyasını İçe Aktar
 migration-bookmarks-from-file-progress-header = Yer imleri içe aktarılıyor
 migration-bookmarks-from-file = Yer imleri
 migration-bookmarks-from-file-success-header = Yer imleri başarıyla içe aktarıldı
+migration-bookmarks-from-file-no-valid-data = Bu dosya hiç yer imi verisi içermiyor. Başka bir dosya seçin.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
