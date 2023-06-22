@@ -22,17 +22,36 @@ account-verify = जाँचू { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = सभ डिवाइस मे पठाबू
+account-manage-devices-titlecase = डिवाइस प्रबंधित करू...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-status = कोनो डिवाइस जुड़ल नहि अछि
+# Redirects to a marketing page.
+account-send-tab-to-device-singledevice-learnmore = टैभ पठाबए कलेल सीखू...
+# Redirects to an FxAccounts page that tells to you to connect another device.
+account-send-tab-to-device-connectdevice = दोसर डिवाइस जोड़ू...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
+account-send-tab-to-device-verify-status = खाता सत्यापित नहि अछि
+account-send-tab-to-device-verify = अपन खाता सत्यापित करू...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = ई कंप्यूटर आब { $deviceName } सँ जुड़ल अछि.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = ई कंप्यूटर आब एकटा नवीन डिवाइस सँ जुड़ल अछि.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = अहाँ सफलतापूर्वक साइन इन कएलहुँ
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
