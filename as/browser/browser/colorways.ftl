@@ -2,7 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-## Colorway collections
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = খেল সাজোঁতা
+playmaker-colorway-description = আপুনি জয়ী হোৱাৰ সুযোগৰ সৃষ্টি কৰে আৰু আপোনাৰ চৌপাশৰ সকলোকে তেওঁলোকৰ খেল উন্নীত কৰাত সহায় কৰে।
+expressionist-colorway-name = অভিব্যক্তিবাদী
+expressionist-colorway-description = আপুনি পৃথিৱীখনক বেলেগ ধৰণেৰে দেখে আৰু আপোনাৰ সৃষ্টিবোৰে আনৰ আৱেগক আলোড়িত কৰে।
+visionary-colorway-name = দূৰদৰ্শী
+visionary-colorway-description = আপুনি যথাস্থিতিক লৈ প্ৰশ্ন উত্থাপন কৰে আৰু আনক উন্নত ভৱিষ্যতৰ কল্পনা কৰিবলৈ অনুপ্ৰাণিত কৰে।
+activist-colorway-name = সক্ৰিয় কৰ্মী
+dreamer-colorway-name = সপোন দেখোঁতা
+innovator-colorway-name = উদ্ভাৱক
+innovator-colorway-description = আপুনি সকলোতে সুযোগ দেখে আৰু আপোনাৰ চৌপাশৰ সকলোৰে জীৱনত প্ৰভাৱ পেলায়।
