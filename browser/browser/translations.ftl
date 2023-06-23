@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Oversett denne siden
+translations-panel-settings-button =
+    .aria-label = Behandle oversettelsesinnstillinger
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -13,6 +15,8 @@ translations-panel-displayname-beta =
 
 ## Options in the Firefox Translations settings.
 
+translations-panel-settings-manage-languages =
+    .label = Behandle språk
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
