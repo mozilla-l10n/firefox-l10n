@@ -31,3 +31,7 @@ toolbox-meatball-menu-noautohide-label = Zakázat automatické skrývání vyska
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
 toolbox-mode-parent-process-label = Pouze nadřazený proces
+toolbox-always-on-top-enabled2 = Zakázat vždy navrchu
+    .title = Způsobí restart Nástrojů pro vývojáře
+toolbox-always-on-top-disabled2 = Povolit vždy navrchu
+    .title = Způsobí restart Nástrojů pro vývojáře

@@ -98,6 +98,7 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Vývoj webu
+perftools-presets-web-developer-description = Doporučené nastavení s minimální režií pro ladění většiny webových aplikací.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description =
