@@ -58,3 +58,4 @@ browser-languages-select-language =
     .placeholder = Velg et språk å legge til…
 browser-languages-installed-label = Installerte språk
 browser-languages-available-label = Tilgjengelige språk
+browser-languages-error = { -brand-short-name } kan ikke oppdatere språkene dine akkurat nå. Kontroller at du er koblet til Internett, eller prøv på nytt.
