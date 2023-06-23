@@ -30,6 +30,12 @@ about-webrtc-auto-refresh-label = Aggiorna automaticamente
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = ID PeerConnection:
 
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Canali di dati aperti:
+
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Canali di dati chiusi:
+
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
