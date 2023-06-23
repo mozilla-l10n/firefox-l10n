@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = 显示日志
     .title = 点击展开此段
 about-webrtc-log-hide-msg = 隐藏日志
     .title = 点击折叠此段
+about-webrtc-copy-report-button = 复制报告
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
