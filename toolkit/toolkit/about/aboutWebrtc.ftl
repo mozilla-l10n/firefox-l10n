@@ -289,5 +289,10 @@ about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "fa
 about-webrtc-show-msg-sdp = Mostra SDP
 about-webrtc-hide-msg-sdp = Nascondi SDP
 
-##
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Mostra contesto multimediale
+about-webrtc-media-context-hide-msg = Nascondi contesto multimediale
+about-webrtc-media-context-heading = Contesto multimediale
