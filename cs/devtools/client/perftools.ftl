@@ -56,6 +56,7 @@ perftools-request-to-stop-profiler = Ukončuje se nahrávání
 ##
 
 perftools-button-start-recording = Spustit nahrávání
+perftools-button-cancel-recording = Zrušit nahrávání
 perftools-button-save-settings = Uložit nastavení a přejít zpět
 perftools-button-restart = Restartovat
 perftools-button-add-directory = Přidat adresář
@@ -64,6 +65,12 @@ perftools-button-edit-settings = Upravit nastavení…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Hlavní procesy pro nadřazený proces a procesy obsahu
+perftools-thread-compositor =
+    .title = Skládá dohromady různé vykreslené prvky na stránce
+perftools-thread-renderer =
+    .title = Pokud je WebRender povolen, jde o vlákno, které vykonává volání OpenGL
 perftools-thread-render-backend =
     .title = Vlákno WebRender RenderBackend
 perftools-thread-img-decoder =
@@ -77,6 +84,7 @@ perftools-thread-jvm-glean =
 
 ##
 
+perftools-record-all-registered-threads = Neuvažovat výše uvedené výběry a zaznamenávat všechna registrovaná vlákna
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
@@ -100,6 +108,11 @@ perftools-onboarding-close-button =
 perftools-presets-web-developer-label = Vývoj webu
 perftools-presets-web-developer-description = Doporučené nastavení s minimální režií pro ladění většiny webových aplikací.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro profilování { -brand-shorter-name(case: "gen") }.
+       *[no-cases] Doporučené nastavení pro profilování aplikace { -brand-shorter-name }.
+    }
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description =
     { -brand-shorter-name.case-status ->
