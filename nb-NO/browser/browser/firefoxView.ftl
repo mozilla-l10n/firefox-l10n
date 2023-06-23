@@ -98,11 +98,29 @@ firefoxview-opentabs-header = Åpne faner
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nylig lukkede faner
+    .title = Nylig lukkede faner
+firefoxview-recently-closed-header = Nylig lukkede faner
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Faner fra andre enheter
+    .title = Faner fra andre enheter
+firefoxview-synced-tabs-header = Faner fra andre enheter
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Vis alle
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Vindu { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Vindu { $winID } (gjeldende)
+firefoxview-opentabs-focus-tab =
+    .title = Bytt til denne fanen
+firefoxview-show-more = Vis mer
+firefoxview-show-less = Vis mindre
