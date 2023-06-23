@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Password importate correttamente
 migration-passwords-from-file = Verifica delle password nel file
 migration-passwords-new = Nuove password
 migration-passwords-updated = Password esistenti
+migration-passwords-from-file-no-valid-data = Il file non include alcuna informazione valida relativa alle password. Seleziona un altro file.
 migration-passwords-from-file-picker-title = Importazione file di password
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
