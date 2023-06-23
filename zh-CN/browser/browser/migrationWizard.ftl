@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = 保存的登录名和密码
 migration-history-option-label = 浏览历史
 migration-form-autofill-option-label = 自动填写表单数据
 migration-payment-methods-option-label = 付款方式
+migration-cookies-option-label = Cookie
+migration-session-option-label = 窗口和标签页
+migration-otherdata-option-label = 其他数据
 migration-passwords-from-file-progress-header = 导入密码文件
 migration-passwords-from-file-success-header = 已成功导入密码
 migration-passwords-from-file = 正在检查文件中的密码
@@ -96,6 +99,7 @@ migration-bookmarks-from-file-picker-title = 导入书签文件
 migration-bookmarks-from-file-progress-header = 导入书签
 migration-bookmarks-from-file = 书签
 migration-bookmarks-from-file-success-header = 书签导入成功
+migration-bookmarks-from-file-no-valid-data = 此文件不含书签数据，请选择其他文件。
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
