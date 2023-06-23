@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Lagrede innlogginger og passord
 migration-history-option-label = Nettleserhistorikk
 migration-form-autofill-option-label = Autofylldata for skjema
 migration-payment-methods-option-label = Betalingsmetoder
+migration-cookies-option-label = Infokapsler
+migration-session-option-label = Vinduer og faner
+migration-otherdata-option-label = Andre data
 migration-passwords-from-file-progress-header = Importer passordfil
 migration-passwords-from-file-success-header = Passord ble importert
 migration-passwords-from-file = Ser etter passord i filen
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Importer bokmerkefil
 migration-bookmarks-from-file-progress-header = Importerer bokmerker
 migration-bookmarks-from-file = Bokmerker
 migration-bookmarks-from-file-success-header = Bokmerker ble importert
+migration-bookmarks-from-file-no-valid-data = Filen inneholder ingen bokmerkedata. Velg en annen fil.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

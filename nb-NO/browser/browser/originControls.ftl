@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Utvidelsen kan ikke lese og endre data
+origin-controls-quarantined =
+    .label = Utvidelse har ikke tillatelse til å lese og endre data
 origin-controls-options =
     .label = Utvidelse kan lese og endre data:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Kan ikke lese og endre data på dette nettstedet
+origin-controls-state-quarantined = Ikke tillatt av { -vendor-short-name } på dette nettstedet
 origin-controls-state-always-on = Kan alltid lese og endre data på dette nettstedet
 origin-controls-state-when-clicked = Tillatelse kreves for å lese og endre data
 origin-controls-state-hover-run-visit-only = Kjør kun for dette besøket
@@ -48,3 +51,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Trenger tillatelser
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Ikke tillatt av { -vendor-short-name } på dette nettstedet
