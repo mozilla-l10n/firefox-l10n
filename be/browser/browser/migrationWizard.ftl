@@ -109,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Імпарт файла закла�
 migration-bookmarks-from-file-progress-header = Імпарт закладак
 migration-bookmarks-from-file = Закладкі
 migration-bookmarks-from-file-success-header = Закладкі паспяхова імпартаваны
+migration-bookmarks-from-file-no-valid-data = Файл не змяшчае дадзеных закладак. Выберыце іншы файл.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
