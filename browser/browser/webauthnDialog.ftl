@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Yanlış PIN. Yeniden deneyin.
 webauthn-pin-required-prompt = Lütfen cihazınızın PIN’ini yazın.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Kullanıcı doğrulaması başarısız oldu. { $retriesLeft } deneme hakkınız kaldı. Yeniden deneyin.
+       *[other] Kullanıcı doğrulaması başarısız oldu. { $retriesLeft } deneme hakkınız kaldı. Yeniden deneyin.
+    }
+webauthn-uv-invalid-short-prompt = Kullanıcı doğrulaması başarısız oldu. Yeniden deneyin.
