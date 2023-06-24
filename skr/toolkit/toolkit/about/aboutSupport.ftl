@@ -177,6 +177,8 @@ media-capabilities-enumerate = ڈیٹا بیس دی ڳݨتری کرو۔
 
 ## Codec support table
 
+media-codec-support-sw-decoding = سافٹویئر ڈی کوڈنگ
+media-codec-support-hw-decoding = ہارڈویئر ڈی کوڈنگ
 media-codec-support-codec-name = کوڈک ناں
 
 ##
