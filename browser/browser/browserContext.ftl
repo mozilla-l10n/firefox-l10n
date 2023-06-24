@@ -184,7 +184,7 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = Copiar l'adreça electronica
-    .accesskey = e
+    .accesskey = C
 main-context-menu-copy-phone =
     .label = Copiar lo numèro de telefòn
     .accesskey = o
