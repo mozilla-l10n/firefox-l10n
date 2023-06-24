@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Pleds-clav ord ina datoteca CSV
+migration-wizard-migrator-display-name-file-bookmarks = Segnapaginas ord ina datoteca HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -59,6 +60,9 @@ migration-logins-and-passwords-option-label = Infurmaziuns d'annunzia e pleds-cl
 migration-history-option-label = Cronologia da navigaziun
 migration-form-autofill-option-label = Datas da l'endataziun automatica en formulars
 migration-payment-methods-option-label = Metodas da pajament
+migration-cookies-option-label = Cookies
+migration-session-option-label = Fanestras e tabs
+migration-otherdata-option-label = Autras datas
 migration-passwords-from-file-progress-header = Importar ina datoteca da pleds-clav
 migration-passwords-from-file-success-header = Importà cun success ils pleds-clav
 migration-passwords-from-file = Tschertgar pleds-clav en la datoteca
@@ -98,6 +102,31 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] Actualisà { $updatedEntries }
        *[other] Actualisà { $updatedEntries }
+    }
+migration-bookmarks-from-file-picker-title = Importar la datoteca da segnapaginas
+migration-bookmarks-from-file-progress-header = Importaziun da segnapaginas
+migration-bookmarks-from-file = Segnapaginas
+migration-bookmarks-from-file-success-header = Importà cun success ils segnapaginas
+migration-bookmarks-from-file-no-valid-data = La datoteca na cuntegna naginas datas da segnapaginas. Tscherna in'autra datoteca.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Document HTML
+       *[other] Datoteca HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Datoteca JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } segnapagina
+       *[other] { $newEntries } segnapaginas
     }
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar dad ina datoteca
@@ -195,4 +224,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Per importar ils segnapaginas e la cronologia da navigaziun da Safari:
 migration-wizard-safari-instructions-continue = Tscherna «Cuntinuar»
 migration-wizard-safari-instructions-folder = Tscherna l'ordinatur Safari en la glista e clicca sin «Avrir»
-migration-wizard-safari-select-button = Tscherner in ordinatur

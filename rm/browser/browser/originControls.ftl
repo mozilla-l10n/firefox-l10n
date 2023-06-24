@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = L'extensiun na po ni leger ni modifitgar datas
+origin-controls-quarantined =
+    .label = L'extensiun n'ha ni la permissiun da leger ni da modifitgar datas
 origin-controls-options =
     .label = L'extensiun po leger e modifitgar datas:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Na po ni leger ni modifitgar las datas da questa website
+origin-controls-state-quarantined = Betg permess da { -vendor-short-name } sin questa website
 origin-controls-state-always-on = Po adina leger e modifitgar las datas da questa website
 origin-controls-state-when-clicked = La permissiun per leger e modifitgar datas è necessaria
 origin-controls-state-hover-run-visit-only = Exequir mo per questa visita
@@ -48,3 +51,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Permission needed
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Betg permess da { -vendor-short-name } sin questa website

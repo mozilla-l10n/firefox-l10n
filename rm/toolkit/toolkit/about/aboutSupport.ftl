@@ -175,6 +175,14 @@ media-codec-support-info = Infurmaziuns davart il sustegn da codecs
 # List all the entries of the database.
 media-capabilities-enumerate = Percurrer la banca da datas
 
+## Codec support table
+
+media-codec-support-sw-decoding = Decodaziun software
+media-codec-support-hw-decoding = Decodaziun hardware
+media-codec-support-codec-name = Num dal codec
+media-codec-support-supported = Sustegnì
+media-codec-support-unsupported = Betg sustegnì
+
 ##
 
 intl-title = Internaziunalisaziun & lingua
