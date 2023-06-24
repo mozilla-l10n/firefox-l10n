@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = ສ່ວນຂະຫຍາຍບໍ່ສາມາດອ່ານ ແລະ ປ່ຽນແປງຂໍ້ມູນໄດ້
+origin-controls-quarantined =
+    .label = ສ່ວນຂະຫຍາຍບໍ່ອະນຸຍາດໃຫ້ອ່ານ ແລະ ປ່ຽນແປງຂໍ້ມູນ
 origin-controls-options =
     .label = ສ່ວນຂະຫຍາຍສາມາດອ່ານ ແລະ ປ່ຽນແປງຂໍ້ມູນໄດ້:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = ບໍ່ສາມາດອ່ານ ແລະປ່ຽນຂໍ້ມູນຢູ່ໃນເວັບໄຊນີ້ໄດ້
+origin-controls-state-quarantined = ບໍ່ອະນຸຍາດໂດຍ { -vendor-short-name } ຢູ່ໃນເວັບໄຊນີ້
 origin-controls-state-always-on = ສາມາດອ່ານ ແລະປ່ຽນຂໍ້ມູນຢູ່ໃນເວັບໄຊນີ້ໄດ້ສະເໝີ
 origin-controls-state-when-clicked = ການອະນຸຍາດທີ່ຈໍາເປັນເພື່ອອ່ານແລະປ່ຽນຂໍ້ມູນ
 origin-controls-state-hover-run-visit-only = ດໍາເນີນການສໍາລັບການຢ້ຽມຢາມນີ້ເທົ່ານັ້ນ

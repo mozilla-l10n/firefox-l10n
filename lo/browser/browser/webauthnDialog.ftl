@@ -7,3 +7,4 @@
 webauthn-pin-invalid-long-prompt = PIN ບໍ່ຖືກຕ້ອງ. ທ່ານມີຄວາມພະຍາຍາມອີກ { $retriesLeft } ກ່ອນທີ່ທ່ານຈະສູນເສຍການເຂົ້າເຖິງຂໍ້ມູນປະຈໍາຕົວຢູ່ໃນອຸປະກອນນີ້ຢ່າງຖາວອນ.
 webauthn-pin-invalid-short-prompt = PIN ບໍ່ຖືກຕ້ອງ. ລອງ​ອີກ​ຄັ້ງ.
 webauthn-pin-required-prompt = ກະລຸນາໃສ່ລະຫັດ PIN ສໍາລັບອຸປະກອນຂອງທ່ານ.
+webauthn-uv-invalid-short-prompt = ການຢັ້ງຢືນຜູ້ໃຊ້ລົ້ມເຫລວ. ລອງໃໝ່​ອີກ​ຄັ້ງ.

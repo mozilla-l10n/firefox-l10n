@@ -687,6 +687,8 @@ prefs-sync-turn-on-syncing =
     .label = ເປີດການຊິງຄ໌...
     .accesskey = s
 prefs-sync-offer-setup-label2 = ຊິ້ງຂໍ້ມູນບຸກມາກ, ປະຫວັດ, ແຖບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ ແລະການຕັ້ງຄ່າຂອງທ່ານໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
+prefs-syncing-button =
+    .label = ກຳລັງ syn…
 
 ## The list of things currently syncing.
 

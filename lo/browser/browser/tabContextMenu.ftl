@@ -82,3 +82,10 @@ tab-context-share-url =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] ຍ້າຍແຖບ
+           *[other] ຍ້າຍແຖບ
+        }
+    .accesskey = v
