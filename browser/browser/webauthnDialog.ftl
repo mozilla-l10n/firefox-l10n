@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN nuncorrect. Emprova anc ina giada.
 webauthn-pin-required-prompt = Endatescha per plaschair il PIN per tes apparat.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] La verificaziun da l'utilisader n'è betg reussida. Ti has anc { $retriesLeft } tentativa. Emprova anc ina giada.
+       *[other] La verificaziun da l'utilisader n'è betg reussida. Ti has anc { $retriesLeft } tentativas. Emprova anc ina giada.
+    }
+webauthn-uv-invalid-short-prompt = La verificaziun da l'utilisader n'è betg reussida. Emprova anc ina giada.

@@ -2,23 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = Davart la protocollaziun
 about-logging-page-title = Administraziun da protocollaziun
@@ -43,6 +26,7 @@ about-logging-logging-to-profiler = Protocollaziun en { -profiler-brand-name }
 about-logging-no-log-modules = Nagin
 about-logging-no-log-file = Nagin
 about-logging-logging-preset-selector-text = Preselecziun da la protocollaziun:
+about-logging-with-profiler-stacks-checkbox = Activar analisas dal stack per messadis da protocol
 
 ## Logging presets
 

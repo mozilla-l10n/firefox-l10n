@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Spustar ensi
 unified-extensions-context-menu-move-widget-down =
     .label = Spustar engiu
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Tschertas extensiuns n'èn betg permessas
+unified-extensions-mb-quarantined-domain-message = Mo tschertas extensiuns survegliadas da { -vendor-short-name } èn permessas sin questa website per proteger tias datas.
