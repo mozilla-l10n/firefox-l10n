@@ -98,11 +98,29 @@ firefoxview-opentabs-header = Avoimet välilehdet
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Suljetut välilehdet
+    .title = Suljetut välilehdet
+firefoxview-recently-closed-header = Suljetut välilehdet
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Välilehdet muista laitteista
+    .title = Välilehdet muista laitteista
+firefoxview-synced-tabs-header = Välilehdet muista laitteista
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Näytä kaikki
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Ikkuna { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Ikkuna { $winID } (nykyinen)
+firefoxview-opentabs-focus-tab =
+    .title = Siirry tähän välilehteen
+firefoxview-show-more = Näytä lisää
+firefoxview-show-less = Näytä vähemmän

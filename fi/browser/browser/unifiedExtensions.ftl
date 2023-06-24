@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Siirrä ylös
 unified-extensions-context-menu-move-widget-down =
     .label = Siirrä alas
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Jotkin laajennukset eivät ole sallittuja
+unified-extensions-mb-quarantined-domain-message = Vain jotkin laajennukset, joita { -vendor-short-name } valvoo, ovat sallittuja tällä sivustolla tietojesi suojaamiseksi.
