@@ -46,3 +46,10 @@ origin-controls-toolbar-button =
 origin-controls-toolbar-button-permission-needed =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle } اجازت درکار ہے
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        ایں سائٹ تے { -vendor-short-name } ولوں اجازت کائنی

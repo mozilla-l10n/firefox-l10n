@@ -49,6 +49,8 @@ translations-panel-error-load-languages-hint-button =
     .label = ولدا کوشش کرو
 translations-panel-error-dismiss-button =
     .label = سمجھ گھدے
+translations-panel-error-change-button =
+    .label = ماخذ زبان وٹاؤ
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
