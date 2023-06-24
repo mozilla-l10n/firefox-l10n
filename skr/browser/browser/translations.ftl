@@ -17,6 +17,13 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = زباناں منیج کرو
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = { $language } دا ہمیشہ ترجمہ کرو
+translations-panel-settings-always-translate-unknown-language =
+    .label = ایں زبان دا ہمیشہ ترجمہ کرو
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
