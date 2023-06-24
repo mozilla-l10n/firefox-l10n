@@ -172,6 +172,14 @@ media-codec-support-info = ข้อมูลการสนับสนุน�
 # List all the entries of the database.
 media-capabilities-enumerate = แจงนับฐานข้อมูล
 
+## Codec support table
+
+media-codec-support-sw-decoding = การถอดรหัสด้วยซอฟต์แวร์
+media-codec-support-hw-decoding = การถอดรหัสด้วยฮาร์ดแวร์
+media-codec-support-codec-name = ชื่อตัวแปลงสัญญาณ
+media-codec-support-supported = รองรับ
+media-codec-support-unsupported = ไม่รองรับ
+
 ##
 
 intl-title = การทำให้เป็นสากลและการแปลเป็นภาษาท้องถิ่น
