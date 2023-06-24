@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Väärä PIN-koodi. Yritä uudelleen.
 webauthn-pin-required-prompt = Anna laitteesi PIN-koodi.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Käyttäjän vahvistus epäonnistui. Sinulla on { $retriesLeft } yritys jäljellä. Yritä uudelleen.
+       *[other] Käyttäjän vahvistus epäonnistui. Sinulla on { $retriesLeft } yritystä jäljellä. Yritä uudelleen.
+    }
+webauthn-uv-invalid-short-prompt = Käyttäjän vahvistus epäonnistui. Yritä uudelleen.

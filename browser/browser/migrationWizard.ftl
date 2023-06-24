@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Vanha Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Salasanat CSV-tiedostosta
+migration-wizard-migrator-display-name-file-bookmarks = Kirjanmerkit HTML-tiedostosta
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -59,6 +60,9 @@ migration-logins-and-passwords-option-label = Tallennetut käyttäjätunnukset j
 migration-history-option-label = Selaushistoria
 migration-form-autofill-option-label = Lomakkeiden automaattisen täytön tiedot
 migration-payment-methods-option-label = Maksutavat
+migration-cookies-option-label = Evästeet
+migration-session-option-label = Ikkunat ja välilehdet
+migration-otherdata-option-label = Muut tiedot
 migration-passwords-from-file-progress-header = Tuo salasanojen tiedosto
 migration-passwords-from-file-success-header = Salasanat tuotu onnistuneesti
 migration-passwords-from-file = Tarkistetaan tiedostoa salasanojen varalta
@@ -98,6 +102,31 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } päivitetty
        *[other] { $updatedEntries } päivitetty
+    }
+migration-bookmarks-from-file-picker-title = Tuo kirjanmerkkitiedosto
+migration-bookmarks-from-file-progress-header = Tuodaan kirjanmerkkejä
+migration-bookmarks-from-file = Kirjanmerkit
+migration-bookmarks-from-file-success-header = Kirjanmerkit tuotu onnistuneesti
+migration-bookmarks-from-file-no-valid-data = Tiedosto ei sisällä kirjanmerkkejä. Valitse toinen tiedosto.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokumentti
+       *[other] HTML-tiedosto
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-tiedosto
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } kirjanmerkki
+       *[other] { $newEntries } kirjanmerkkiä
     }
 migration-import-button-label = Tuo
 migration-choose-to-import-from-file-button-label = Tuo tiedostosta
@@ -195,4 +224,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Tuo Safari-kirjanmerkit ja -selaushistoria seuraavasti:
 migration-wizard-safari-instructions-continue = Valitse "Jatka"
 migration-wizard-safari-instructions-folder = Valitse luettelosta Safari-kansio ja valitse "Avaa"
-migration-wizard-safari-select-button = Valitse tiedosto
