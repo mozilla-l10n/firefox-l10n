@@ -171,6 +171,14 @@ media-codec-support-info = Koodekkitukitiedot
 # List all the entries of the database.
 media-capabilities-enumerate = Listaa tietokannan sisältö
 
+## Codec support table
+
+media-codec-support-sw-decoding = Ohjelmistopohjainen purku
+media-codec-support-hw-decoding = Laitteistopohjainen purku
+media-codec-support-codec-name = Koodekin nimi
+media-codec-support-supported = Tuettu
+media-codec-support-unsupported = Ei tuettu
+
 ##
 
 intl-title = Internationalisointi ja lokalisointi

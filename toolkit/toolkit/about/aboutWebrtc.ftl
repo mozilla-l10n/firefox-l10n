@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = näytä loki
     .title = laajenna napsauttamalla
 about-webrtc-log-hide-msg = piilota loki
     .title = kutista napsauttamalla
+about-webrtc-copy-report-button = Kopioi raportti
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
