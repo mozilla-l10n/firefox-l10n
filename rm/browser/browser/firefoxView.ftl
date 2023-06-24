@@ -98,11 +98,29 @@ firefoxview-opentabs-header = Tabs averts
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Tabs serrads dacurt
+    .title = Tabs serrads dacurt
+firefoxview-recently-closed-header = Tabs serrads dacurt
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Tabs dad auters apparats
+    .title = Tabs dad auters apparats
+firefoxview-synced-tabs-header = Tabs dad auters apparats
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Mussar tut
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Fanestra { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Fanestra { $winID } (actuala)
+firefoxview-opentabs-focus-tab =
+    .title = Midar a quest tab
+firefoxview-show-more = Mussar dapli
+firefoxview-show-less = Mussar damain
