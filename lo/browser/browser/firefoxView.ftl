@@ -104,11 +104,20 @@ firefoxview-recently-closed-header = ແທັບທີ່ຫາກໍ່ປິ�
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-header = ແຖບຈາກອຸປະກອນອື່ນໆ
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = ເບິ່ງ​ທັງ​ຫມົດ
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = ໜ້າຕ່າງ { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = ໜ້າຕ່າງ { $winID } (ປະຈຸບັນ)
 firefoxview-opentabs-focus-tab =
     .title = ສະຫຼັບໄປແຖບນີ້
 firefoxview-show-more = ສະແດງເພີ່ມເຕີມ

@@ -110,6 +110,9 @@ places-create-bookmark =
 places-untag-bookmark =
     .label = ລຶບແທັກ
     .accesskey = R
+places-manage-bookmarks =
+    .label = ຈັດການບຸກມາກ
+    .accesskey = M
 places-forget-about-this-site-confirmation-title = ລືມກ່ຽວກັບເວັບໄຊທ໌ນີ້
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
