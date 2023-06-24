@@ -36,6 +36,17 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = एक क्लिक में प्राइवेट ब्राउज़र पाबै केर सुविधा
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] डॉक में राखू
+       *[other] टास्कबार में पिन करू
+    }
+about-private-browsing-pin-promo-title = अहाँक डेस्कटॉप सँ कोनो कुकीज अथवा इतिहास नहि सहेजल गेल. ब्राउज़ करू जे केओ नहि देखि रहैछ
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = कुकी बैनर आरंभ भेल!
+about-private-browsing-cookie-banners-promo-button = कुकी बैनर हटाए
