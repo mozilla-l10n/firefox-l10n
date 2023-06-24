@@ -21,10 +21,14 @@ about-private-browsing-handoff-text-no-engine = खोजू अथवा पत
 about-private-browsing-not-private = अहाँ अखन निजी विंडो मे नहि छी.
 about-private-browsing-learn-more-link = बेसी जानू
 about-private-browsing-hide-activity = सभे ठाम जतए अहाँ ब्राउज कएलहुँ , ओतए सँ अपन काज आओर स्थान नुकाबू
+about-private-browsing-get-privacy = जतए भी अहाँ ब्राउज करैत छी प्राइवेसी सुरक्षा सभे ठाम पाबू
+about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } सँग प्राइवेट होउ
 about-private-browsing-focus-promo-cta = डाउनलोडकरू { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = अपन फ़ोन मे प्राइवेट ब्राउज़र पाबू
+about-private-browsing-focus-promo-header-c = मोबाइल पर अगिला स्तर केर प्राइवेसी पाबू
 about-private-browsing-search-banner-close-button =
     .aria-label = बन्न करू
 about-private-browsing-promo-close-button =
