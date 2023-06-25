@@ -695,6 +695,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Wobraz we wobrazu začinić ({ $shortcut })
 picture-in-picture-panel-header = Wobraz-we-wobrazu
 picture-in-picture-panel-headline = Tute websydło wobraz-we-wobrazu njeporuča.
+picture-in-picture-panel-body = Widejo so snano kaž wot wuwiwarja wotpohladane njepokazuja, mjeztym zo Wobraz-we-wobrazu je zmóžnjeny.
 picture-in-picture-enable-toggle =
     .label = Najebać toho zmóžnić
 
@@ -1023,6 +1024,10 @@ firefox-relay-offer-what-relay-does = Posrědkujemy wšě mejlki wot <strong>{ $
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Naše wěste, lochko wužiwajomne maski wašu identitu škitaja a chowaja wašu e-mejlowu adresu, zo bychu spamej zadźěwali.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Wšě mejlki, kotrež so na waše e-mejlowe maski sćelu, so do <strong>{ $useremail }</strong> dale posrědkuja (chibazo rozsudźeće je blokować).
 firefox-relay-offer-legal-notice = Hdyž na „E-mejlowu masku wužiwać“ klikaće, zwoliće do <label data-l10n-name="tos-url">>wužiwanskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">zdźělenki priwatnosće</label>.
 
 ## Add-on Pop-up Notifications
