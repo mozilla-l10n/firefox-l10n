@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Palavras-passe do ficheiro CSV
+migration-wizard-migrator-display-name-file-bookmarks = Marcadores de ficheiro HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -59,6 +60,9 @@ migration-logins-and-passwords-option-label = Credenciais e palavras-passe guard
 migration-history-option-label = Histórico de navegação
 migration-form-autofill-option-label = Dados de preenchimento automático de formulários
 migration-payment-methods-option-label = Métodos de pagamento
+migration-cookies-option-label = Cookies
+migration-session-option-label = Janelas e separadores
+migration-otherdata-option-label = Outros dados
 migration-passwords-from-file-progress-header = Importar ficheiro de Palavras-passe
 migration-passwords-from-file-success-header = Palavras-passe importadas com sucesso
 migration-passwords-from-file = A verificar palavras-passe no ficheiro
@@ -99,6 +103,11 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } atualizada
        *[other] { $updatedEntries } atualizadas
     }
+migration-bookmarks-from-file-picker-title = Importar ficheiro de Marcadores
+migration-bookmarks-from-file-progress-header = A importar Marcadores…
+migration-bookmarks-from-file = Marcadores
+migration-bookmarks-from-file-success-header = Marcadores importados com sucesso
+migration-bookmarks-from-file-no-valid-data = O ficheiro não inclui quaisquer dados de marcadores. Escolha outro ficheiro.
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar de um Ficheiro
 migration-import-from-file-button-label = Selecionar Ficheiro
@@ -195,4 +204,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Para importar os favoritos e histórico de navegação do Safari:
 migration-wizard-safari-instructions-continue = Selecione “Continuar”
 migration-wizard-safari-instructions-folder = Selecione a pasta Safari na lista e escolha “Abrir”
-migration-wizard-safari-select-button = Selecionar Ficheiro
