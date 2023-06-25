@@ -111,6 +111,7 @@ migration-bookmarks-from-file-picker-title = Dataju zapołožkow importować
 migration-bookmarks-from-file-progress-header = Zapołožki importować
 migration-bookmarks-from-file = Zapołožki
 migration-bookmarks-from-file-success-header = Zapołožki su so wuspěšnje importowali
+migration-bookmarks-from-file-no-valid-data = Dataje daty zapołožkow njewobsahuje. Wubjerće druhu dataju.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

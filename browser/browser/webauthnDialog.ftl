@@ -23,3 +23,13 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Wopačny PIN. Spytajće hišće raz.
 webauthn-pin-required-prompt = Prošu zapodajće PIN za swój grat.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Wužiwarske přepruwowanje je so nimokuliło. Maće hišće { $retriesLeft } pospyt. Spytajće hišće raz.
+        [two] Wužiwarske přepruwowanje je so nimokuliło. Maće hišće { $retriesLeft } pospytaj. Spytajće hišće raz.
+        [few] Wužiwarske přepruwowanje je so nimokuliło. Maće hišće { $retriesLeft } pospyty. Spytajće hišće raz.
+       *[other] Wužiwarske přepruwowanje je so nimokuliło. Maće hišće { $retriesLeft } pospytow. Spytajće hišće raz.
+    }
+webauthn-uv-invalid-short-prompt = Wužiwarske přepruwowanje nje so nimokuliło. Spytajće hišće raz.
