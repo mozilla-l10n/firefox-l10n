@@ -38,13 +38,15 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navegação privada)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navegação privada)
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
 #
 # default - "Mozilla Firefox"
 # private - "Mozilla Firefox (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
@@ -52,14 +54,17 @@ browser-main-window-window-titles =
     .data-title-private = Navegação Privada { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — Navegação Privada { -brand-full-name }
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
 #
 # "default" - "Mozilla Firefox"
 # "private" - "Mozilla Firefox — (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
 #
 # Also note the other subtle difference here: we use a `-` to separate the
 # brand name from `(Private Browsing)`, which does not happen on other OSes.
@@ -680,7 +685,9 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Abrir Imagem na Imagem ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fechar Imagem na Imagem ({ $shortcut })
-picture-in-picture-panel-header = Vídeo em janela flutuante
+picture-in-picture-panel-header = Imagem na Imagem
+picture-in-picture-panel-headline = Este site não recomenda Imagem na Imagem
+picture-in-picture-panel-body = Os vídeos podem não ser apresentados tal como o programador pretendia enquanto a Imagem na Imagem estiver ativada.
 picture-in-picture-enable-toggle =
     .label = Ativar mesmo assim
 
@@ -980,6 +987,15 @@ unified-extensions-button-permissions-needed =
     .tooltiptext =
         Extensões
         Permissões necessárias
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-quarantined =
+    .label = Extensões
+    .tooltiptext =
+        Extensões
+        Algumas extensões não são permitidas
 
 ## Autorefresh blocker
 
