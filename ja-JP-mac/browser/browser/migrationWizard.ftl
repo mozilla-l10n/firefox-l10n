@@ -34,6 +34,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = パスワード (CSV ファイルから)
+migration-wizard-migrator-display-name-file-bookmarks = ブックマーク (HTML ファイルから)
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -56,6 +57,10 @@ migration-favorites-option-label = お気に入り
 migration-logins-and-passwords-option-label = Saved logins and passwords
 migration-history-option-label = ブラウジング履歴
 migration-form-autofill-option-label = フォームの自動入力データ
+migration-payment-methods-option-label = 支払い方法
+migration-cookies-option-label = Cookie
+migration-session-option-label = ウインドウとタブ
+migration-otherdata-option-label = その他のデータ
 migration-passwords-from-file-progress-header = パスワードファイルの読み込み
 migration-passwords-from-file-success-header = パスワードの読み込みが完了しました
 migration-passwords-from-file = パスワードファイルを確認しています
@@ -96,6 +101,31 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } 件更新しました
        *[other] { $updatedEntries } 件更新しました
     }
+migration-bookmarks-from-file-picker-title = ブックマークファイルの読み込み
+migration-bookmarks-from-file-progress-header = ブックマークを読み込んでいます
+migration-bookmarks-from-file = ブックマーク
+migration-bookmarks-from-file-success-header = ブックマークの読み込みが完了しました
+migration-bookmarks-from-file-no-valid-data = このファイルにはブックマークデータが含まれていません。別のファイルを選んでください。
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML ドキュメント
+       *[other] HTML ファイル
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON ファイル
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] ブックマーク { $newEntries } 件
+       *[other] ブックマーク { $newEntries } 件
+    }
 migration-import-button-label = 読み込む
 migration-choose-to-import-from-file-button-label = ファイルから読み込む
 migration-import-from-file-button-label = ファイルを選択
@@ -118,6 +148,7 @@ migration-list-favorites-label = お気に入り
 migration-list-password-label = パスワード
 migration-list-history-label = 履歴
 migration-list-autofill-label = 自動入力データ
+migration-list-payment-methods-label = 支払い方法
 
 ##
 
@@ -178,7 +209,16 @@ migration-wizard-progress-success-history =
        *[other] 最近 { $maxAgeInDays } 日分
     }
 migration-wizard-progress-success-formdata = フォームの入力履歴
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] 支払い方法 { $quantity } 件
+       *[other] 支払い方法 { $quantity } 件
+    }
 migration-wizard-safari-permissions-sub-header = Safari のブックマークとブラウジング履歴を読み込むには:
 migration-wizard-safari-instructions-continue = “続ける” を選択します
 migration-wizard-safari-instructions-folder = リストから Safari フォルダーを選択し、“開く” をクリックします
-migration-wizard-safari-select-button = ファイルを選択
