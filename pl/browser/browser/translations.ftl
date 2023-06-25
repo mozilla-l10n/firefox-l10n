@@ -22,14 +22,14 @@ translations-panel-settings-about = Informacje o tłumaczeniach w { -brand-sho
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-always-translate-language =
-    .label = Zawsze tłumacz ten język
+    .label = Zawsze tłumacz ten język ({ $language })
 translations-panel-settings-always-translate-unknown-language =
     .label = Zawsze tłumacz ten język
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
-    .label = Nigdy nie tłumacz tego języka
+    .label = Nigdy nie tłumacz tego języka ({ $language })
 translations-panel-settings-never-translate-unknown-language =
     .label = Nigdy nie tłumacz tego języka
 # Text displayed for the option to never translate this website
@@ -51,11 +51,25 @@ translations-panel-error-load-languages = Nie można wczytać języków
 translations-panel-error-load-languages-hint = Sprawdź połączenie z Internetem i spróbuj ponownie.
 translations-panel-error-load-languages-hint-button =
     .label = Spróbuj ponownie
+translations-panel-error-unsupported = Tłumaczenie nie jest dostępne dla tej strony
+translations-panel-error-dismiss-button =
+    .label = OK
+translations-panel-error-change-button =
+    .label = Zmień język źródłowy
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Nie obsługujemy jeszcze tego języka ({ $language }).
+translations-panel-error-unsupported-hint-unknown = Nie obsługujemy jeszcze tego języka.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Język źródłowy:
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
