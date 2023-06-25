@@ -171,3 +171,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Wšě { $tabCount } rejtariki nalicyś
            *[other] Wšych { $tabCount } rejtarikow nalicyś
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Rejtarik nimy cyniś
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Rejtarik głosny cyniś
+tabbrowser-manager-close-tab =
+    .tooltiptext = Rejtarik zacyniś

@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Rozšyrjenje njamóžo daty cytaś a změniś
+origin-controls-quarantined =
+    .label = Rozšyrjenje njesmějo daty cytaś a změniś
 origin-controls-options =
     .label = Rozšyrjenje móžo daty cytaś a změniś:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Daty njedaju se na toś tom sedle cytaś a změniś
+origin-controls-state-quarantined = Wót { -vendor-short-name } na toś tom sedle njedowólony
 origin-controls-state-always-on = Daty daju se pśecej na toś tom sedle cytaś a změniś
 origin-controls-state-when-clicked = Pšawo trjebne, aby wy mógał daty cytaś a změniś
 origin-controls-state-hover-run-visit-only = Jano za toś ten woglěd wuwjasć
@@ -48,3 +51,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Pšawo trjebne
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Wót { -vendor-short-name } na toś tom sedle njedowólone
