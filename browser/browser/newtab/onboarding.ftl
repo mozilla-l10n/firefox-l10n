@@ -13,6 +13,14 @@
 onboarding-welcome-header = Bonvenon al { -brand-short-name }
 onboarding-start-browsing-button-label = Komenci retumi
 onboarding-not-now-button-label = Nun ne
+mr1-onboarding-get-started-primary-button-label = Unuaj paŝoj
+mr1-onboarding-welcome-header = Bonvenon al { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
+    .title = Difini { -brand-short-name } kiel la ĉefan retumilon kaj alpinglas ĝin al la taska strio.
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
+mr1-onboarding-set-default-secondary-button-label = Ne nun
 
 ## Custom Return To AMO onboarding strings
 
@@ -39,14 +47,6 @@ mr1-return-to-amo-add-extension-label = Aldoni { $addon-name }
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Unua paŝoj: ekrano { $current } de { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-onboarding-welcome-steps-indicator-label =
-    .aria-label = Progreso: paŝo { $current } de { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -60,6 +60,14 @@ mr1-welcome-screen-hero-text = Ĉio komenciĝas ĉi tie
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Fasonisto de mebloj, fanatika pri Firefox
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progreso: paŝo { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Malŝalti animaciojn
 
@@ -82,16 +90,7 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Unuaj paŝoj
-mr1-onboarding-welcome-header = Bonvenon al { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
-    .title = Difini { -brand-short-name } kiel la ĉefan retumilon kaj alpinglas ĝin al la taska strio.
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
-mr1-onboarding-set-default-secondary-button-label = Ne nun
+# String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Komenci seancon
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -426,3 +425,11 @@ mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vido de sunsubiro tra fenestro, kun vulpo kaj planto en florpoto ĉe la fenestrobreto
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Mana ŝprucigilo farbas multkoloran mozaikon kun verda okulo, oranĝkolora ŝuo, ruĝa korbopilko, violkoloraj kapaŭskultiloj, blua koro kaj flava krono
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Mansalutanta vulpo en ekrano de tekokomputilo, kiu havas konektitan muson.
+onboarding-device-migration-title = Bonvenon denove!
+onboarding-device-migration-subtitle = Komencu seancon en  via { -fxaccount-brand-name(capitalization: "sentence") } por alporti viajn legosignojn, pasvortojn kaj historion al vi, en tiu ĉi nova aparato.
+onboarding-device-migration-primary-button-label = Komenci seanconKomenci seancon
