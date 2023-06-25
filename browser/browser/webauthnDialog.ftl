@@ -23,3 +23,13 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Napačen PIN. Poskusite znova.
 webauthn-pin-required-prompt = Vnesite PIN svoje naprave.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Preverjanje uporabnika ni uspelo. Imate še { $retriesLeft } poskus. Poskusite znova.
+        [two] Preverjanje uporabnika ni uspelo. Imate še { $retriesLeft } poskusa. Poskusite znova.
+        [few] Preverjanje uporabnika ni uspelo. Imate še { $retriesLeft } poskuse. Poskusite znova.
+       *[other] Preverjanje uporabnika ni uspelo. Imate še { $retriesLeft } poskusov. Poskusite znova.
+    }
+webauthn-uv-invalid-short-prompt = Preverjanje uporabnika ni uspelo. Poskusite znova.
