@@ -108,6 +108,26 @@ migration-bookmarks-from-file-progress-header = A importar Marcadores…
 migration-bookmarks-from-file = Marcadores
 migration-bookmarks-from-file-success-header = Marcadores importados com sucesso
 migration-bookmarks-from-file-no-valid-data = O ficheiro não inclui quaisquer dados de marcadores. Escolha outro ficheiro.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Documento HTML
+       *[other] Ficheiro HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Ficheiro JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } marcador
+       *[other] { $newEntries } marcadores
+    }
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar de um Ficheiro
 migration-import-from-file-button-label = Selecionar Ficheiro
