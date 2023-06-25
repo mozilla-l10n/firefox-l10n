@@ -98,11 +98,29 @@ firefoxview-opentabs-header = Separadores abertos
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Separadores fechados recentemente
+    .title = Separadores fechados recentemente
+firefoxview-recently-closed-header = Separadores fechados recentemente
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Separadores de outros dispositivos
+    .title = Separadores de outros dispositivos
+firefoxview-synced-tabs-header = Separadores de outros dispositivos
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Ver tudo
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Janela { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Janela { $winID } (atual)
+firefoxview-opentabs-focus-tab =
+    .title = Trocar para este separador
+firefoxview-show-more = Mostrar mais
+firefoxview-show-less = Mostrar menos
