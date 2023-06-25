@@ -98,11 +98,29 @@ firefoxview-opentabs-header = Wócynjone rejtariki
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Rowno zacynjone rejtariki
+    .title = Rowno zacynjone rejtariki
+firefoxview-recently-closed-header = Rowno zacynjone rejtariki
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Rejtariki z drugich rědow
+    .title = Rejtariki z drugich rědow
+firefoxview-synced-tabs-header = Rejtariki z drugich rědow
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Wšykne pokazaś
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Wokno { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Wokno { $winID } (aktualne)
+firefoxview-opentabs-focus-tab =
+    .title = K toś tomu rejtarkoju pśejś
+firefoxview-show-more = Wěcej pokazaś
+firefoxview-show-less = Mjenjej pokazaś
