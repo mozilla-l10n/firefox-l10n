@@ -165,3 +165,12 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Wyświetl listę ze wszystkimi { $tabCount } kartami
            *[many] Wyświetl wszystkie { $tabCount } kart na liście
         }
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Wycisz kartę
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Włącz dźwięk
+tabbrowser-manager-close-tab =
+    .tooltiptext = Zamknij kartę

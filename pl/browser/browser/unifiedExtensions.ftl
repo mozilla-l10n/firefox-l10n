@@ -36,3 +36,8 @@ unified-extensions-context-menu-move-widget-up =
     .label = Przenieś w górę
 unified-extensions-context-menu-move-widget-down =
     .label = Przenieś w dół
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Część rozszerzeń jest niedozwolona
+unified-extensions-mb-quarantined-domain-message = Tylko określone rozszerzenia monitorowane przez { -vendor-short-name(case: "acc") } są dozwolone na tej witrynie, aby chronić dane użytkownika.

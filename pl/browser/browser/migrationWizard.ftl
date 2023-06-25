@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge w starszej wersji
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Hasła z pliku CSV
+migration-wizard-migrator-display-name-file-bookmarks = Zakładki z pliku HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -59,6 +60,9 @@ migration-logins-and-passwords-option-label = Zachowane dane logowania i hasła
 migration-history-option-label = Historia przeglądania
 migration-form-autofill-option-label = Dane automatycznego wypełniania formularzy
 migration-payment-methods-option-label = Metody płatności
+migration-cookies-option-label = Ciasteczka
+migration-session-option-label = Okna i karty
+migration-otherdata-option-label = Inne dane
 migration-passwords-from-file-progress-header = Importowanie pliku z hasłami
 migration-passwords-from-file-success-header = Pomyślnie zaimportowano hasła
 migration-passwords-from-file = Wyszukiwanie haseł w pliku
@@ -100,6 +104,32 @@ migration-wizard-progress-success-updated-passwords =
         [one] Uaktualniono { $updatedEntries } hasło
         [few] Uaktualniono { $updatedEntries } hasła
        *[many] Uaktualniono { $updatedEntries } haseł
+    }
+migration-bookmarks-from-file-picker-title = Importowanie pliku z zakładkami
+migration-bookmarks-from-file-progress-header = Importowanie zakładek
+migration-bookmarks-from-file = Zakładki
+migration-bookmarks-from-file-success-header = Pomyślnie zaimportowano zakładki
+migration-bookmarks-from-file-no-valid-data = Plik nie zawiera żadnych danych o zakładkach. Wybierz inny.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument HTML
+       *[other] Plik HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Plik JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } zakładka
+        [few] { $newEntries } zakładki
+       *[many] { $newEntries } zakładek
     }
 migration-import-button-label = Importuj
 migration-choose-to-import-from-file-button-label = Importuj z pliku
@@ -202,4 +232,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Aby zaimportować zakładki i historię przeglądania z Safari:
 migration-wizard-safari-instructions-continue = Kliknij „Kontynuuj”
 migration-wizard-safari-instructions-folder = Zaznacz folder Safari na liście i kliknij „Otwórz”
-migration-wizard-safari-select-button = Wybierz plik
