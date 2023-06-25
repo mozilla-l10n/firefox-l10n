@@ -48,16 +48,81 @@ translations-panel-translate-cancel =
     .label = Pśetergnuś
 translations-panel-error-translating = Pśi pśełožowanju jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-panel-error-load-languages = Rěcy njedaju se zacytaś
+translations-panel-error-load-languages-hint = Pśeglědujśo swój internetny zwisk a wopytajśo hyšći raz.
+translations-panel-error-load-languages-hint-button =
+    .label = Hyšći raz wopytaś
+translations-panel-error-unsupported = Pśełožk za toś ten bok njejo k dispoziciji
+translations-panel-error-dismiss-button =
+    .label = Som zrozměł
+translations-panel-error-change-button =
+    .label = Žrědłowu rěc změniś
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Bóžko { $language } hyšći njepódpěrajomy.
+translations-panel-error-unsupported-hint-unknown = Bóžko toś tu rěc hyšći njepódpěrajomy.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Žrědłowa rěc:
+translations-panel-to-label = Celowa rěc:
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Toś ten bok se z rěcy { $fromLanguage } do rěcy { $toLanguage } pśełožujo
+translations-panel-choose-language =
+    .label = Rěc wubraś
+translations-panel-restore-button =
+    .label = Original pokazaś
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Pśełožki
+translations-manage-settings-button =
+    .label = Nastajenja…
+    .accesskey = N
+translations-manage-description = Rěcy za pśełožowanje offline ześěgnuś.
+translations-manage-all-language = Wšykne rěcy
+translations-manage-download-button = Ześěgnuś
+translations-manage-delete-button = Lašowaś
+translations-manage-language-download-button =
+    .label = Ześěgnuś
+    .accesskey = Z
+translations-manage-language-delete-button =
+    .label = Lašowaś
+    .accesskey = a
+translations-settings-title =
+    .title = Pśełožowańske nastajenja
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Pśełožowanje se za slědujuce rěcy awtomatiski pśewjeźo
+translations-settings-never-translate-langs-description = Pśełožowanje njepóbitujo se za slědujuce rěcy
+translations-settings-never-translate-sites-description = Pśełožowanje njepóbitujo se za slědujuce sedła
+translations-settings-languages-column =
+    .label = Rěcy
+translations-settings-remove-language-button =
+    .label = Rěc wótwónoźeś
+    .accesskey = R
+translations-settings-remove-all-languages-button =
+    .label = Wšykne rěcy wótwónoźeś
+    .accesskey = k
+translations-settings-sites-column =
+    .label = Websedła
+translations-settings-remove-site-button =
+    .label = Sedło wótwónoźeś
+    .accesskey = S
