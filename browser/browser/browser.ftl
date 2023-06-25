@@ -1024,6 +1024,7 @@ firefox-relay-offer-what-relay-does = Vsa sporočila spletnega mesta <strong>{ $
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Naše varne in za uporabo enostavne maske ščitijo vašo identiteto in preprečujejo neželeno pošto, tako da skrijejo vaš e-poštni naslov.
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Vsa e-pošta, ki prispe na vaše maske, se posreduje na <strong>{ $useremail }</strong> (razen če se jo odločite blokirati).
