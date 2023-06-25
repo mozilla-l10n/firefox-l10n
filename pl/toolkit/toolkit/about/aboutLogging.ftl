@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = about:logging
 about-logging-page-title = Menedżer dziennika
 about-logging-current-log-file = Obecny plik dziennika:
-about-logging-current-log-modules = Obecne moduły:
 about-logging-new-log-file = Nowy plik dziennika:
 about-logging-currently-enabled-log-modules = Obecnie włączone moduły:
 about-logging-log-tutorial = Instrukcje dla tego narzędzia można znaleźć w artykule <a data-l10n-name="logging">HTTP Logging</a>.
@@ -44,6 +26,7 @@ about-logging-logging-to-profiler = Do { -profiler-brand-name }
 about-logging-no-log-modules = Brak
 about-logging-no-log-file = Brak
 about-logging-logging-preset-selector-text = Ustawienie:
+about-logging-with-profiler-stacks-checkbox = Ślady stosów dla komunikatów dziennika
 
 ## Logging presets
 
