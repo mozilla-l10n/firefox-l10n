@@ -76,6 +76,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — प्राइवेट ब्रॉउजिंग
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — प्राइवेट ब्रॉउजिंग
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } प्राइवेट ब्रॉउजिंग
@@ -89,22 +94,68 @@ urlbar-identity-button =
 
 urlbar-services-notification-anchor =
     .tooltiptext = इंस्टॉल संदेस पैनल खोलू
+urlbar-web-notification-anchor =
+    .tooltiptext = अहाँ साइट सँ नोटिफिकेशन पाएब लेल बदलाव करू
+urlbar-midi-notification-anchor =
+    .tooltiptext = MIDI पैनल खोलू
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM क उपयोग कए क सॉफ्टवेयर व्यवस्थि‍त करू
+urlbar-web-authn-anchor =
+    .tooltiptext = वेब प्रमाणीकरण पैनल खोलू
+urlbar-canvas-notification-anchor =
+    .tooltiptext = कैनवास निष्कर्षण अनुमति क' प्रबंधन करूँ
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = साइट संग अपन माइक्रोफोन बांटबाक व्यवस्था प्रबंधि‍त करू
 urlbar-default-notification-anchor =
     .tooltiptext = संदेश पटल खोलू
 urlbar-geolocation-notification-anchor =
     .tooltiptext = स्थान अनुरोध पटल खोलू
+urlbar-xr-notification-anchor =
+    .tooltiptext = वर्चुअल वास्तविकता अनुमति पैनल खोलूँ
+urlbar-storage-access-anchor =
+    .tooltiptext = ब्राउज़िंग गतिविधि अनुमति पैनल खोलूँ
 urlbar-translate-notification-anchor =
     .tooltiptext = एहि पृष्ठक अनुवाद करू
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = साइट सँग अपन विंडोज अथवा स्क्रीन साझा कएनाय प्रबंधित करू
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = ऑफलाइन संग्रह संदेश पटल खोलू
+urlbar-password-notification-anchor =
+    .tooltiptext = सहेजल गुड़किल्ली संदेश पटल खोलू
 urlbar-translated-notification-anchor =
     .tooltiptext = पृष्ठ अनुवाद प्रंबंधि‍त करू
+urlbar-plugins-notification-anchor =
+    .tooltiptext = प्लग-इन उपयोग प्रबंधित करू
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = साइट संगे अपन कैमरा आ माइक्रोफोन साझा करबाक व्यवस्था प्रबंधि‍त करू
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = ऑटोप्ले पैनल खोलू
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = स्थायी संग्रहण मे आँकड़ा संचित करू
+urlbar-addons-notification-anchor =
+    .tooltiptext = एड-ऑन संस्थापन संदेश पटल खोलू
+urlbar-tip-help-icon =
+    .title = मदति पाबू
+urlbar-search-tips-confirm = ठीक अछि, बुझाय गेल
+urlbar-search-tips-confirm-short = बुझाय गेल
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = सुझाव:
+urlbar-result-menu-button =
+    .title = मेनू खोलू
+urlbar-result-menu-button-feedback = फ़ीडबैक
+    .title = मेनू खोलू
+urlbar-result-menu-learn-more =
+    .label = बेसी जानू
+    .accesskey = L
+urlbar-result-menu-remove-from-history =
+    .label = इतिहास सँ मेटाबू
+    .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = मदति पाबू
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
