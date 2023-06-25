@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = ਪਿੰਨ ਗਲਤ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 webauthn-pin-required-prompt = ਆਪਣੇ ਡਿਵਾਈਸ ਲਈ ਪਿੰਨ ਦਿਓ।
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] ਵਰਤੋਂਕਾਰ ਤਸਦੀਕੀਕਰਨ ਅਸਫ਼ਲ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ { $retriesLeft } ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਹੈ। ਫ਼ੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+       *[other] ਵਰਤੋਂਕਾਰ ਤਸਦੀਕੀਕਰਨ ਅਸਫ਼ਲ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ { $retriesLeft } ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+    }
+webauthn-uv-invalid-short-prompt = ਵਰਤੋਂਕਾਰ ਤਸਦੀਕੀਕਰਨ ਅਸਫ਼ਲ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।

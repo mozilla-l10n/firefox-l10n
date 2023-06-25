@@ -26,3 +26,4 @@ identity-credential-sign-in-button =
     .label = ਸਾਈਨ ਇਨ
     .accesskey = S
 identity-credential-policy-title = { $provider } ਨੂੰ ਲਾਗਇਨ ਪੂਰਕ ਵਜੋਂ ਵਰਤੋਂ
+identity-credential-policy-description = { $provider } ਨਾਲ { $host } ਵਿੱਚ ਲਾਗਇਨ ਕਰਨਾ ਉਹਨਾਂ ਦੀ <label data-l10n-name="privacy-url">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</label> ਅਤੇ <label data-l10n-name="tos-url">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</label> ਦੇ ਅਧੀਨ ਹੈ।
