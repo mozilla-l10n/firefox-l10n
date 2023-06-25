@@ -6,6 +6,10 @@
 ### Speech Dispatches is the name of a speech synthesis tool and shouldn’t be
 ### localized (https://freebsoft.org/speechd).
 
+speech-dispatcher-lib-missing = Njemóžeće rěčensku syntezu wužiwać, dokelž biblioteka Speech Dispatcher faluje.
+speech-dispatcher-lib-too-old = Njemóžeće rěčensku syntezu wužiwać, dokelž Speech Dispatcher dyrbi so aktualizować.
+speech-dispatcher-missing-symbol = Njemóžeće rěčensku syntezu wužiwać, dokelž Speech Dispatcher je wobškodźeny.
+speech-dispatcher-open-fail = Njemóžeće rěčensku syntezu wužiwać, dokelž Speech Dispatcher njeda so wočinić.
 speech-dispatcher-dismiss-button =
     .label = Hižo so njepokazać
     .accesskey = H
