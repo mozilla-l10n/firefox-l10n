@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Gronidła z CSV-dataje
+migration-wizard-migrator-display-name-file-bookmarks = Cytańske znamjenja z HTML-dataje
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -59,6 +60,9 @@ migration-logins-and-passwords-option-label = Skłaźone pśizjawjenja a gronid�
 migration-history-option-label = Pśeglědowańska historija
 migration-form-autofill-option-label = Daty za awtomatiske wupołnjenje formularow
 migration-payment-methods-option-label = Płaśeńske metody
+migration-cookies-option-label = Cookieje
+migration-session-option-label = Wokna a rejtariki
+migration-otherdata-option-label = Druge daty
 migration-passwords-from-file-progress-header = Dataju gronidłow importěrowaś
 migration-passwords-from-file-success-header = Gronidła su se wuspěšnje importěrowali
 migration-passwords-from-file = Dataja za gronidła se pśeglědujo
@@ -103,6 +107,20 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } su se zaktualizěrowali
        *[other] { $updatedEntries } jo se zaktualizěrowało
     }
+migration-bookmarks-from-file-picker-title = Dataju cytańskich znamjenjow importěrowaś
+migration-bookmarks-from-file-progress-header = Cytańske znamjenja importěrowaś
+migration-bookmarks-from-file = Cytańske znamjenja
+migration-bookmarks-from-file-success-header = Cytańske znamjenja su se wuspěšnje importěrowali
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML-dokument
+       *[other] HTML-dataja
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON-dataja
 migration-import-button-label = Importěrowaś
 migration-choose-to-import-from-file-button-label = Z dataje importěrowaś
 migration-import-from-file-button-label = Dataju wubraś
@@ -209,4 +227,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Aby cytańske znamjenja a pśeglědowańsku historiju Safari importěrował:
 migration-wizard-safari-instructions-continue = Wubjeŕśo „Pókšacowaś“
 migration-wizard-safari-instructions-folder = Wubjeŕśo zarědnik Safari w lisćinje a pón „Wócyniś“
-migration-wizard-safari-select-button = Dataju wubraś
