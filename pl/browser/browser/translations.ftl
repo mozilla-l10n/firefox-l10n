@@ -70,11 +70,57 @@ translations-panel-error-unsupported-hint-unknown = Nie obsługujemy jeszcze teg
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = Język źródłowy:
+translations-panel-to-label = Język docelowy:
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Oryginalny język strony: { $fromLanguage }. Obecny język strony: { $toLanguage }.
+translations-panel-choose-language =
+    .label = Wybierz język
+translations-panel-restore-button =
+    .label = Wyświetl w oryginale
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Tłumaczenia
+translations-manage-settings-button =
+    .label = Ustawienia…
+    .accesskey = U
+translations-manage-description = Pobierz języki do tłumaczenia bez dostępu do Internetu.
+translations-manage-all-language = Wszystkie języki
+translations-manage-download-button = Pobierz
+translations-manage-delete-button = Usuń
+translations-manage-language-download-button =
+    .label = Pobierz
+    .accesskey = P
+translations-manage-language-delete-button =
+    .label = Usuń
+    .accesskey = U
+translations-manage-error-download = Wystąpił problem przy pobieraniu plików językowych. Spróbuj ponownie.
+translations-manage-error-delete = Wystąpił błąd podczas usuwania plików językowych. Spróbuj ponownie.
+translations-manage-error-list = Pobranie listy języków dostępnych do tłumaczenia się nie powiodło. Odśwież stronę, aby spróbować ponownie.
+translations-settings-title =
+    .title = Ustawienia tłumaczeń
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Strony w tych językach będą automatycznie tłumaczone:
+translations-settings-never-translate-langs-description = Tłumaczenia nie będą proponowane dla stron w tych językach:
+translations-settings-never-translate-sites-description = Tłumaczenia nie będą proponowane na tych witrynach:
+translations-settings-languages-column =
+    .label = Języki
+translations-settings-remove-language-button =
+    .label = Usuń język
+    .accesskey = U
+translations-settings-remove-all-languages-button =
+    .label = Usuń wszystkie języki
+    .accesskey = w
