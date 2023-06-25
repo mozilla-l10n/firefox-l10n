@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = zobraziť záznamy
     .title = kliknutím rozbalíte túto sekciu
 about-webrtc-log-hide-msg = skryť záznamy
     .title = kliknutím skryjete túto sekciu
+about-webrtc-copy-report-button = Kopírovať správu
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
