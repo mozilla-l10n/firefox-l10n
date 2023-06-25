@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge ਪੁਰਾਣਾ
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV ਫ਼ਾਇਲ ਤੋਂ ਪਾਸਵਰਡ
+migration-wizard-migrator-display-name-file-bookmarks = HTML ਫ਼ਾਈਲ ਤੋਂ ਬੁੱਕਮਾਰਕ
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -59,6 +60,9 @@ migration-logins-and-passwords-option-label = ਸੰਭਾਲੇ ਹੋਏ ਲ�
 migration-history-option-label = ਬਰਾਊਜ਼ਰ ਅਤੀਤ
 migration-form-autofill-option-label = ਫ਼ਾਰਮ ਆਪੇ-ਭਰਨ ਵਾਲਾ ਡਾਟਾ
 migration-payment-methods-option-label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
+migration-cookies-option-label = ਕੂਕੀਜ਼
+migration-session-option-label = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
+migration-otherdata-option-label = ਹੋਰ ਡਾਟਾ
 migration-passwords-from-file-progress-header = ਪਾਸਵਰਡ ਫ਼ਾਇਲ ਦਰਾਮਦ ਕਰੋ
 migration-passwords-from-file-success-header = ਪਾਸਵਰਡ ਕਾਮਯਾਬੀ ਨਾਲ ਦਰਾਮਦ ਕੀਤੇ ਗਏ
 migration-passwords-from-file = ਪਾਸਵਰਡਾਂ ਲਈ ਫ਼ਾਇਲ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
@@ -98,6 +102,31 @@ migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
         [one] { $updatedEntries } ਅੱਪਡੇਟ ਕੀਤੀ
        *[other] { $updatedEntries } ਅੱਪਡੇਟ ਕੀਤੀਆਂ
+    }
+migration-bookmarks-from-file-picker-title = ਬੁੱਕਮਾਰਕ ਫਾਈਲਾਂ ਦਰਾਮਦ ਕਰੋ
+migration-bookmarks-from-file-progress-header = ਬੁੱਕਮਾਰਕ ਦਰਾਮਦ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
+migration-bookmarks-from-file = ਬੁੱਕਮਾਰਕ
+migration-bookmarks-from-file-success-header = ਬੁੱਕਮਾਰਕ ਕਾਮਯਾਬੀ ਨਾਲ ਦਰਾਮਦ ਕੀਤਾ ਗਿਆ
+migration-bookmarks-from-file-no-valid-data = ਫ਼ਾਈਲ ਵਿੱਚ ਕੋਈ ਵੀ ਬੁੱਕਮਾਰਕ ਡਾਟਾ ਨਹੀਂ ਹੈ। ਹੋਰ ਫ਼ਾਈਲ ਚੁਣੋ।
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML ਡੌਕੂਮੈਂਟ
+       *[other] HTML ਫ਼ਾਈਲ
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON ਫ਼ਾਈਲ
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } ਬੁੱਕਮਾਰਕ
+       *[other] { $newEntries } ਬੁੱਕਮਾਰਕ
     }
 migration-import-button-label = ਦਰਾਮਦ
 migration-choose-to-import-from-file-button-label = ਫ਼ਾਇਲ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
@@ -195,4 +224,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Safari ਬੁੱਕਮਾਰਕ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਦਰਾਮਦ ਕਰਨ ਲਈ:
 migration-wizard-safari-instructions-continue = “ਜਾਰੀ ਰੱਖੋ” ਨੂੰ ਚੁਣੋ
 migration-wizard-safari-instructions-folder = ਸੂਚੀ ਵਿੱਚੋਂ Safari ਫ਼ੋਲਡਰ ਚੁਣੋ ਅਤੇ “Open” ਨੂੰ ਚੁਣੋ
-migration-wizard-safari-select-button = ਫ਼ਾਇਲ ਚੁਣੋ

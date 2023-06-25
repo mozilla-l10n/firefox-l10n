@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਡਾਟਾ ਪੜ੍ਹ ਅਤੇ ਬਦਲ ਨਹੀਂ ਸਕਦੀ ਹੈ
+origin-controls-quarantined =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਡਾਟਾ ਪੜ੍ਹਨ ਅਤੇ ਬਦਲਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 origin-controls-options =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਡਾਟਾ ਪੜ੍ਹ ਅਤੇ ਬਦਲ ਸਕਦੀ ਹੈ:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = ਇਸ ਸਾਈਟ ਉੱਤੇ ਡਾਟਾ ਪੜ੍ਹਨ ਤੇ ਬਦਲ ਨਹੀਂ ਸਕਦੀ ਹੈ
+origin-controls-state-quarantined = ਇਸ ਸਾਈਟ ਉੱਤੇ { -vendor-short-name } ਵਲੋਂ ਇਜਾਜ਼ ਨਹੀਂ ਹੈ
 origin-controls-state-always-on = ਇਸ ਸਾਈਟ ਉੱਤੇ ਡਾਟਾ ਪੜ੍ਹਨ ਤੇ ਬਦਲ ਸਕਦੀ ਹੈ
 origin-controls-state-when-clicked = ਡਾਟਾ ਪੜ੍ਹਨ ਤੇ ਬਦਲਣ ਲਈ ਇਜਾਜ਼ਤ ਚਾਹੀਦੀ ਹੈ
 origin-controls-state-hover-run-visit-only = ਸਿਰਫ਼਼ ਇਸ ਵਾਰ ਖੋਲ੍ਹਣ ਦੌਰਾਨ ਹੀ
@@ -48,3 +51,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Permission needed
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        ਇਸ ਸਾਈਟ ਉੱਤੇ { -vendor-short-name } ਵਲੋਂ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ

@@ -865,6 +865,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = ਹੋਰ ਜਾਣੋ
 relay-integration =
     .label = ਆਪਣੇ { -brand-short-name } ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਵਿੱਚ { -relay-brand-name } ਸਮਰੱਥ ਕਰੋ
+preferences-relay-integration-checkbox =
+    .label = ਆਪਣੇ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ { -relay-brand-name } ਈਮੇਲ ਮਾਸਕ ਦਾ ਸੁਝਾਅ
 relay-integration-learn-more-link = ਹੋਰ ਜਾਣੋ
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
