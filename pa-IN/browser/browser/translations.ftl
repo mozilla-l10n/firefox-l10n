@@ -47,6 +47,10 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = ਰੱਦ ਕਰੋ
 translations-panel-error-translating = ਅਨੁਵਾਦ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+translations-panel-error-load-languages = ਭਾਸ਼ਾਵਾਂ ਲੋਡ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕੀਆਂ
+translations-panel-error-load-languages-hint = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਤੇ ਫ਼ੇਰ ਕੋਸ਼ਸ਼ ਕਰੋ।
+translations-panel-error-load-languages-hint-button =
+    .label = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
