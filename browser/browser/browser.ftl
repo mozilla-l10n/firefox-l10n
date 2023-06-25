@@ -38,13 +38,15 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privata retumo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privata retumo)
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
 #
 # default - "Mozilla Firefox"
 # private - "Mozilla Firefox (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
@@ -52,14 +54,17 @@ browser-main-window-window-titles =
     .data-title-private = Privata retumo de { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — Privata retumo de { -brand-full-name }
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
 #
 # "default" - "Mozilla Firefox"
 # "private" - "Mozilla Firefox — (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
 #
 # Also note the other subtle difference here: we use a `-` to separate the
 # brand name from `(Private Browsing)`, which does not happen on other OSes.
@@ -677,6 +682,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Malfermi inkrustitan videon ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fermi inkrustitan videon ({ $shortcut })
+picture-in-picture-panel-header = Inkrustita video
+picture-in-picture-panel-headline = Tiu ĉi retejo ne rekomendas inkrustitan videon
+picture-in-picture-panel-body = Videaĵoj povus aperi ne tiel, kiel la programisto celis, se inkrustita video estas aktiva.
+picture-in-picture-enable-toggle =
+    .label = Tamen aktivigi
 
 ## Full Screen and Pointer Lock UI
 
@@ -975,6 +985,15 @@ unified-extensions-button-permissions-needed =
         Etendaĵoj
         Bezonataj permesoj
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-quarantined =
+    .label = Etendaĵoj
+    .tooltiptext =
+        Etendaĵoj
+        Kelkaj etendaĵoj ne estas permesataj
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } evitis ke tiu ĉi paĝo aŭtomate reŝargiĝu.
@@ -994,6 +1013,10 @@ firefox-relay-offer-what-relay-does = Ni plusendos ĉiujn retpoŝtajn mesaĝojn 
 
 ## Popup Notification
 
+firefox-relay-offer-why-to-use-relay = Niaj sekuraj kaj facile uzeblaj maskoj protektas vian identecon kaj evitas trudmesaĝojn per kaŝo de via retpoŝta adreso.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Ĉiuj retpoŝtaj mesaĝoj senditaj al viaj retpoŝtaj maskoj estos plusenditaj al <strong>{ $useremail }</strong> (krom se vi decidas ilin bloki).
 
 ## Add-on Pop-up Notifications
 
