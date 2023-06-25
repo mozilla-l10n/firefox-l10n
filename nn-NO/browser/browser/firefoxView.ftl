@@ -112,3 +112,7 @@ firefoxview-synced-tabs-header = Faner frå andre einingar
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Vis alle
+firefoxview-opentabs-focus-tab =
+    .title = Byt til denne fana
+firefoxview-show-more = Vis meir
+firefoxview-show-less = Vis mindre
