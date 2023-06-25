@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (ਟਾਇਟਲ ਨਹੀਂ)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਅਤੀਤ ਦੀ ਵਿੰਡੋ ਜਾਂ ਬਾਹੀ ਤੋਂ  “javascript:” ਜਾਂ  “data:”  URL ਨੂੰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 places-bookmarks-backup-title = ਬੁੱਕਮਾਰਕ ਬੈਕਅੱਪ ਫਾਈਲ-ਨਾਂ
 places-bookmarks-restore-alert-title = ਬੁੱਕਮਾਰਕ ਰੀਵਰਟ
 places-bookmarks-restore-alert = ਇਹ ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਬੁੱਕਮਾਰਕ ਨੂੰ ਬੈਕਅੱਪ ਨਾਲ ਬਦਲ ਦੇਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਇਹ ਚਾਹੁੰਦੇ ਹੋ?

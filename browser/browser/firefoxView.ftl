@@ -98,11 +98,29 @@ firefoxview-opentabs-header = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ
+    .title = ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ
+firefoxview-recently-closed-header = ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
+    .title = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
+firefoxview-synced-tabs-header = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = ਸਭ ਵੇਖੋ
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = ਵਿੰਡੋ { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = ਵਿੰਡੋ { $winID } (ਮੌਜੂਦਾ)
+firefoxview-opentabs-focus-tab =
+    .title = ਇਸ ਟੈਬ ਲਈ ਬਦਲੋ
+firefoxview-show-more = ਹੋਰ ਵੇਖਾਓ
+firefoxview-show-less = ਘੱਟ ਵੇਖਾਓ
