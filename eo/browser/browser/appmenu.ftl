@@ -33,6 +33,8 @@ appmenuitem-print =
     .label = Presi…
 appmenuitem-find-in-page =
     .label = Serĉi en la paĝo…
+appmenuitem-translate =
+    .label = Traduki paĝon…
 appmenuitem-zoom =
     .value = Grandeco
 appmenuitem-more-tools =
@@ -209,6 +211,9 @@ appmenu-recently-closed-tabs =
     .label = Antaŭ nelonge fermitaj langetoj
 appmenu-recently-closed-windows =
     .label = Antaŭ nelonge fermitaj fenestroj
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Serĉi en historio
 
 ## Help panel
 
