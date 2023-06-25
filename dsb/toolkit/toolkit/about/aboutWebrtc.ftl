@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = protokol pokazaś
     .title = klikniśo, aby toś ten wótrězk pokazał
 about-webrtc-log-hide-msg = protokol schowaś
     .title = klikniśo, aby toś ten wótrězk schował
+about-webrtc-copy-report-button = Rozpšawu kopěrowaś
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
