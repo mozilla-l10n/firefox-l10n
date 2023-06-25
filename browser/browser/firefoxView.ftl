@@ -98,11 +98,29 @@ firefoxview-opentabs-header = Otwórz karty
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Ostatnio zamknięte karty
+    .title = Ostatnio zamknięte karty
+firefoxview-recently-closed-header = Ostatnio zamknięte karty
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Karty z innych urządzeń
+    .title = Karty z innych urządzeń
+firefoxview-synced-tabs-header = Karty z innych urządzeń
 
 ##
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Pokaż wszystko
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Okno { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Okno { $winID } (bieżące)
+firefoxview-opentabs-focus-tab =
+    .title = Przełącz na tę kartę
+firefoxview-show-more = Więcej
+firefoxview-show-less = Mniej
