@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Rozszerzenie nie może odczytywać ani zmieniać danych
+origin-controls-quarantined =
+    .label = Odczytywanie i zmienianie danych przez to rozszerzenie jest niedozwolone
 origin-controls-options =
     .label = Rozszerzenie może odczytywać i zmieniać dane:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Nie może odczytywać ani zmieniać danych na tej witrynie
+origin-controls-state-quarantined = { -vendor-short-name } nie zezwala na tej witrynie
 origin-controls-state-always-on = Zawsze może odczytywać i zmieniać dane na tej witrynie
 origin-controls-state-when-clicked = Odczytywanie i zmienianie danych wymaga uprawnienia
 origin-controls-state-hover-run-visit-only = Uruchom tylko na czas tej wizyty
@@ -48,3 +51,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Wymagane uprawnienie
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        { -vendor-short-name } nie zezwala na tej witrynie
