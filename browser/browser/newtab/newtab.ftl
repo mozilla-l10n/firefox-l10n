@@ -117,8 +117,7 @@ newtab-privacy-modal-header = Twoja prywatność jest ważna.
 newtab-privacy-modal-paragraph-2 =
     Oprócz ciekawych artykułów pokazujemy Ci również spersonalizowane,
     zweryfikowane treści od wybranych sponsorów. Zachowaj pewność, że
-    <strong>Twoja historia przeglądania nigdy nie opuszcza Twojej własnej kopii
-    przeglądarki { -brand-product-name }</strong> — my jej nie widzimy, i nasi sponsorzy też nie.
+    <strong>Twoja historia przeglądania nigdy nie opuszcza Twojej własnej kopii { -brand-product-name(case: "gen") }</strong> — my jej nie widzimy, i nasi sponsorzy też nie.
 newtab-privacy-modal-link = Więcej informacji o prywatności na stronie nowej karty
 
 ##
@@ -225,7 +224,7 @@ newtab-pocket-more-recommendations = Więcej polecanych
 newtab-pocket-learn-more = Więcej informacji
 newtab-pocket-cta-button = Pobierz { -pocket-brand-name }
 newtab-pocket-cta-text = Zachowuj artykuły w { -pocket-brand-name }, aby wrócić później do ich lektury.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jest częścią rodziny produktów { -brand-product-name }
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jest częścią rodziny { -brand-product-name(case: "gen") }
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Wyślij do { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Wysłano do { -pocket-brand-name }
@@ -268,7 +267,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Sponsorowane skróty
 newtab-custom-pocket-title = Polecane przez { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Wyjątkowe rzeczy wybrane przez { -pocket-brand-name }, część rodziny produktów { -brand-product-name }.
+newtab-custom-pocket-subtitle = Wyjątkowe rzeczy wybrane przez { -pocket-brand-name }, część rodziny { -brand-product-name(case: "gen") }.
 newtab-custom-pocket-sponsored = Sponsorowane artykuły
 newtab-custom-pocket-show-recent-saves = Wyświetl ostatnio zapisane
 newtab-custom-recent-title = Ostatnia aktywność
