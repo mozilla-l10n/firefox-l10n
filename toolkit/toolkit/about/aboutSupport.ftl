@@ -172,6 +172,14 @@ media-codec-support-info = Informacije wó pódpěrje codecow
 # List all the entries of the database.
 media-capabilities-enumerate = Datowu banku nalicyś
 
+## Codec support table
+
+media-codec-support-sw-decoding = Softwarowe dekoděrowanje
+media-codec-support-hw-decoding = Hardwarowe dekoděrowanje
+media-codec-support-codec-name = Mě Codec
+media-codec-support-supported = Pódprěty
+media-codec-support-unsupported = Njepódprěty
+
 ##
 
 intl-title = Internacionalizacija a lokalizacija

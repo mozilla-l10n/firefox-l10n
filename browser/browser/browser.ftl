@@ -694,6 +694,8 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Wobraz we wobrazu zacyniś ({ $shortcut })
 picture-in-picture-panel-header = Wobraz-we-wobrazu
+picture-in-picture-enable-toggle =
+    .label = Weto zmóžniś
 
 ## Full Screen and Pointer Lock UI
 

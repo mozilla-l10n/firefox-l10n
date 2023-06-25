@@ -36,3 +36,7 @@ unified-extensions-context-menu-move-widget-up =
     .label = Górjej
 unified-extensions-context-menu-move-widget-down =
     .label = Dołoj
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Někotare rozšyrjenja njejsu dowólone
