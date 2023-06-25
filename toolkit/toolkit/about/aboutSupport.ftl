@@ -172,6 +172,14 @@ media-codec-support-info = Subtenaj informoj pri kodeko
 # List all the entries of the database.
 media-capabilities-enumerate = Listigi datumbazon
 
+## Codec support table
+
+media-codec-support-sw-decoding = Programa malkodado
+media-codec-support-hw-decoding = Aparata malkodado
+media-codec-support-codec-name = Nomo de kodeko
+media-codec-support-supported = Subtenata
+media-codec-support-unsupported = Ne subtenata
+
 ##
 
 intl-title = Lingvo kaj internacieco
