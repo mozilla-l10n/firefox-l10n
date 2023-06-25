@@ -89,8 +89,8 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = Z
 protections-panel-content-blocking-breakage-report-view =
     .title = Zgłoś niepoprawnie działającą stronę
-protections-panel-content-blocking-breakage-report-view-description = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program { -brand-short-name } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli). <label data-l10n-name="learn-more">Więcej informacji</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program { -brand-short-name } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli).
+protections-panel-content-blocking-breakage-report-view-description = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać { -brand-short-name(case: "acc") } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli). <label data-l10n-name="learn-more">Więcej informacji</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać { -brand-short-name(case: "acc") } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do { -vendor-short-name(case: "gen") }).
 protections-panel-content-blocking-breakage-report-view-collection-url = Adres URL problematycznej strony
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adres URL problematycznej strony
