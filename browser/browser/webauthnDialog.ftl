@@ -22,3 +22,13 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Nesprávny PIN. Skúste to znova.
 webauthn-pin-required-prompt = Zadajte kód PIN pre svoje zariadenie.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Overenie používateľa zlyhalo. Zostáva vám { $retriesLeft } pokus. Skúste to znova.
+        [few] Overenie používateľa zlyhalo. Zostávajú vám { $retriesLeft } pokusy. Skúste to znova.
+        [many] Overenie používateľa zlyhalo. Zostáva vám { $retriesLeft } pokusov. Skúste to znova.
+       *[other] Overenie používateľa zlyhalo. Zostáva vám { $retriesLeft } pokusov. Skúste to znova.
+    }
+webauthn-uv-invalid-short-prompt = Overenie používateľa zlyhalo. Skúste to znova.

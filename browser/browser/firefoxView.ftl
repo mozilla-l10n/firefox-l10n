@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Karty z ďalších zariadení
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Zobraziť všetky
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Okno { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Okno { $winID } (aktuálne)
+firefoxview-opentabs-focus-tab =
+    .title = Prepnúť na túto kartu
+firefoxview-show-more = Zobraziť viac
+firefoxview-show-less = Zobraziť menej
