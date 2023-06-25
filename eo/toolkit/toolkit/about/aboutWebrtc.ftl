@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = montri registron
     .title = alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-log-hide-msg = kaŝi registron
     .title = alklaku por faldi tiun ĉi sekcion
+about-webrtc-copy-report-button = Kopii raporton
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:

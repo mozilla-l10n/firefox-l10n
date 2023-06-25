@@ -865,6 +865,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Pli da informo
 relay-integration =
     .label = Aktivigi { -relay-brand-name } en via pasvorta administrilo de { -brand-short-name }
+preferences-relay-integration-checkbox =
+    .label = Sugesti retpoŝtajn maskojn de { -relay-brand-name } por protekti vian retpoŝtan adreson
 relay-integration-learn-more-link = Pli da informo
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
