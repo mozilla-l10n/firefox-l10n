@@ -40,3 +40,4 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Někotre rozšěrjenja dowolene njejsu
+unified-extensions-mb-quarantined-domain-message = Jenož někotre rozšěrjenja, kotrež so wot { -vendor-short-name } dohladuja, su na tutym sydle dowolene, zo bychu waše daty škitali.
