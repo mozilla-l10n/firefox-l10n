@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = Сақталған логинде�
 migration-history-option-label = Шолу тарихы
 migration-form-autofill-option-label = Формаларды автотолтыру деректері
 migration-payment-methods-option-label = Төлем әдістері
+migration-cookies-option-label = Cookie файлдары
+migration-session-option-label = Терезелер мен беттер
+migration-otherdata-option-label = Басқа деректер
 migration-passwords-from-file-progress-header = Парольдер файлын импорттау
 migration-passwords-from-file-success-header = Парольдер сәтті импортталды
 migration-passwords-from-file = Файлды парольдерге тексеру
@@ -104,6 +107,7 @@ migration-bookmarks-from-file-picker-title = Бетбелгілер файлын
 migration-bookmarks-from-file-progress-header = Бетбелгілерді импорттау
 migration-bookmarks-from-file = Бетбелгілер
 migration-bookmarks-from-file-success-header = Бетбелгілер сәтті импортталды
+migration-bookmarks-from-file-no-valid-data = Файлда ешқандай бетбелгілер деректері жоқ. Басқа файлды таңдаңыз.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

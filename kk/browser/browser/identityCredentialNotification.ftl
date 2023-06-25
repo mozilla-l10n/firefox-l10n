@@ -25,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = Кіру
     .accesskey = К
+identity-credential-policy-title = Кіру провайдері ретінде { $provider } пайдалану
