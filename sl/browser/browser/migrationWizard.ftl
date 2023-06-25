@@ -60,6 +60,9 @@ migration-logins-and-passwords-option-label = shranjene prijave in gesla
 migration-history-option-label = zgodovina brskanja
 migration-form-autofill-option-label = podatki za izpolnjevanje obrazcev
 migration-payment-methods-option-label = Načini plačila
+migration-cookies-option-label = Piškotki
+migration-session-option-label = Okna in zavihki
+migration-otherdata-option-label = Drugi podatki
 migration-passwords-from-file-progress-header = Uvozi datoteko z gesli
 migration-passwords-from-file-success-header = Gesla so uspešno uvožena
 migration-passwords-from-file = Iskanje gesel v datoteki
@@ -106,6 +109,7 @@ migration-wizard-progress-success-updated-passwords =
     }
 migration-bookmarks-from-file-picker-title = Uvozi datoteko z zaznamki
 migration-bookmarks-from-file-progress-header = Uvažanje zaznamkov
+migration-bookmarks-from-file = Zaznamki
 migration-bookmarks-from-file-success-header = Zaznamki so uspešno uvoženi
 migration-bookmarks-from-file-no-valid-data = Datoteka ne vsebuje podatkov o zaznamkih. Izberite drugo datoteko.
 # A description for the .html file format that may be shown as the file type
@@ -234,3 +238,5 @@ migration-wizard-progress-success-payment-methods =
        *[other] { $quantity } načinov plačil
     }
 migration-wizard-safari-permissions-sub-header = Za uvoz zaznamkov in zgodovine iz brskalnika Safari:
+migration-wizard-safari-instructions-continue = Izberite "Nadaljuj"
+migration-wizard-safari-instructions-folder = Na seznamu izberite mapo Safari in nato “Odpri”
