@@ -162,9 +162,13 @@ urlbar-result-menu-tip-get-help =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = कम टाइप करू, आओर बेसी: ढूँढू { $engineName } अपन दहिन्ना तरफ़ के पता सूची सँ.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = पुस्तकचिह्न
+urlbar-search-mode-tabs = टैब
+urlbar-search-mode-history = इतिहास
 
 ##
 
@@ -179,6 +183,16 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension =
+    .label = एक्सटेंशन प्रबंधित करू …
+page-action-remove-extension =
+    .label = एक्सटेंशन हटाबू
+page-action-manage-extension2 =
+    .label = एक्सटेंशन प्रबंधित करू…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = एक्सटेंशन हटाबू
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -191,12 +205,34 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = एहि बेर, एकरा सँग ढूँढू:
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = खोज सेटिंग्स बदलू
 search-one-offs-context-open-new-tab =
     .label = नव टैब मे खोजू
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = तयशुदा सर्च इंजिन रूपेँ सेट करू
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = निजी विंडो कलेल तयशुदा खोज इंजन रूपेँ सेट करू
+    .accesskey = { "" }
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = जोड़ू“{ $engineName }”
+    .tooltiptext = खोज इंजिन जोड़ू “{ $engineName }”
+    .aria-label = खोज इंजिन जोड़ू“{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -209,11 +245,28 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = पुस्तकचिह्न ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = टैब ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = इतिहास ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = काज ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = एड-ऑन देखू
+quickactions-cmd-addons2 = एड-ऑन
+# Opens the bookmarks library window
+quickactions-bookmarks2 = पुस्तकचिहन्न प्रबंधित करू
+quickactions-cmd-bookmarks = पुस्तचिह्न
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = इतिहास मेटाबू
+quickactions-cmd-clearhistory = इतिहास मेटाबू
 
 ## Bookmark Panel
 
