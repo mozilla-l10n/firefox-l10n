@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Rajtarki z druhich gratow
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Wšě pokazać
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Wokno { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Wokno { $winID } (aktualne)
+firefoxview-opentabs-focus-tab =
+    .title = K tutomu rajtarkej přeńć
+firefoxview-show-more = Wjace pokazać
+firefoxview-show-less = Mjenje pokazać
