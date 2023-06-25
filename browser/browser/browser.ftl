@@ -38,13 +38,15 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
 #
 # default - "Mozilla Firefox"
 # private - "Mozilla Firefox (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
@@ -52,14 +54,17 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
 #
 # "default" - "Mozilla Firefox"
 # "private" - "Mozilla Firefox — (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
 #
 # Also note the other subtle difference here: we use a `-` to separate the
 # brand name from `(Private Browsing)`, which does not happen on other OSes.
@@ -685,6 +690,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਖੋਲ੍ਹੋ ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬੰਦ ਕਰੋ ({ $shortcut })
+picture-in-picture-panel-header = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ
+picture-in-picture-panel-headline = ਇਹ ਵੈੱਬਸਾਈਟ ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕਰਦੀ ਹੈ
+picture-in-picture-panel-body = ਵੀਡੀਓ ਡਿਵੈਲਪਰ ਵਲੋਂ ਦਿੱਤੇ ਢੰਗ ਨਾਲ ਨਾ ਦਿਖਾਈ ਦੇਵੇ ਜਦੋਂ ਵੀ ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ ਢੰਗ ਨੂੰ ਸਮਰੱਥ ਕਰਦੇ ਹੋ।
+picture-in-picture-enable-toggle =
+    .label = ਕਿਵੇਂ ਵੀ ਸਮਰੱਥ ਕਰੋ
 
 ## Full Screen and Pointer Lock UI
 
@@ -982,6 +992,15 @@ unified-extensions-button-permissions-needed =
     .tooltiptext =
         Extensions
         ਇਜਾਜ਼ਤਾਂ ਚਾਹੀਦੀਆਂ ਹਨ
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-quarantined =
+    .label = ਇਕਸਟੈਨਸ਼ਨ
+    .tooltiptext =
+        ਇਕਸਟੈਨਸ਼ਨਾਂ
+        ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 
 ## Autorefresh blocker
 
