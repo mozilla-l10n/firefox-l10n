@@ -262,7 +262,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = Ваш избор боја мења изглед веб странице. <a data-l10n-name="colors-link">Управљајте бојама</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Управљајте { -brand-short-name } темама у <a data-l10n-name="themes-link">Проширењима и темама</a>
+preferences-web-appearance-footer = Управљајте { -brand-short-name } темама у <a data-l10n-name="themes-link">Додаци и теме</a>
 preferences-colors-header = Боје
 preferences-colors-description = Замените подразумеване { -brand-short-name } боје за текст, позадину веб сајта и везе.
 preferences-colors-manage-button =
