@@ -113,6 +113,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Ebligi foran senerarigon
 options-enable-remote-tooltip2 =
     .title = Ŝalto de tiu ĉi eblo prefero permesos la foran senerarigon de tiu ĉi nuna programo
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Uzi la klavon F12 por malfermi aŭ fermi la ilojn por programistoj
+options-enable-f12-tooltip =
+    .title = Ŝalto de tiu ĉi elekteblo ligos la klavon F12 kun la malfermo aŭ fermo de la iloj por programistoj
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Aktivigi personecigitajn montrilojn
 options-enable-custom-formatters-tooltip =
