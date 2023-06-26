@@ -24,6 +24,15 @@ firefox-relay-generate-mask-subtitle = Krei repoŝtan maskon de { -relay-brand-s
 firefox-relay-opt-in-confirmation-enable =
     .label = Daŭrigi
     .accesskey = D
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Protektu vian retpoŝtan adreson:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Uzi retpoŝtan maskon de { -relay-brand-name }
+firefox-relay-use-mask-title = Uzi retpoŝtan maskon de { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Uzi retpoŝtan maskon
+    .accesskey = r
 firefox-relay-opt-in-confirmation-disable =
     .label = Ne montri tiun ĉi mesaĝon denove
     .accesskey = N
