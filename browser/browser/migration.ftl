@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Fenestroj kaj langetoj
 browser-data-session-label =
     .value = Fenestroj kaj langetoj
+browser-data-payment-methods-checkbox =
+    .label = Pagmetodoj
+browser-data-payment-methods-label =
+    .value = Pagmetodoj
