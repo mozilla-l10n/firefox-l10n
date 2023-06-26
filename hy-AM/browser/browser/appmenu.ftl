@@ -186,8 +186,13 @@ appmenu-about =
 appmenu-get-help =
     .label = Ստանալ օգնություն
     .accesskey = H
+appmenu-help-more-troubleshooting-info =
+    .label = Անսարքության տեղեկատվություն
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = Զեկուցել կայքի խնդրի մասին…
+appmenu-help-switch-device =
+    .label = Անցում նոր սարքի
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
