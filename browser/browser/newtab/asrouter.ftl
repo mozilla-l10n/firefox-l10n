@@ -28,11 +28,13 @@ cfr-doorhanger-extension-author = de { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekomendo
     .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekomendo
     .tooltiptext = Rekomendo pri trajto
     .a11y-announcement = Havebla rekomendo pri trajto
@@ -246,3 +248,16 @@ fox-doodle-pin-secondary = Ne nun
 
 set-default-pdf-handler-headline = <strong>Viaj dosieroj PDFs malfermiĝas en { -brand-short-name }.</strong> Redakti aŭ subskribi formularojn rekte el via retesplorilo. Por ŝanĝi tion, serĉu “PDF” en la agordoj.
 set-default-pdf-handler-primary = Mi komprenis
+
+## FxA sync CFR
+
+fxa-sync-cfr-header = Ĉu vi planas akiri novan aparaton?
+fxa-sync-cfr-body = Estu certa havi ĉiam kun vi viajn aktualajn legosignojn,  pasvortojn kaj langetojn, kiam vi malfermas novan retumilon de { -brand-product-name }.
+fxa-sync-cfr-primary = Pli da informo
+    .accesskey = P
+fxa-sync-cfr-secondary = Rememorigi poste
+    .accesskey = R
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-header = Ĉu vi uzas malnovan aparaton?
