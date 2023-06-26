@@ -311,11 +311,17 @@ menu-help =
 menu-get-help =
     .label = Ստանալ օգնություն
     .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = Անսարքության տեղեկատվություն
+    .accesskey = T
 menu-help-report-site-issue =
     .label = Զեկուցել կայքի խնդրի մասին…
 menu-help-enter-troubleshoot-mode2 =
     .label = Խափանաշտկման կերպ…
     .accesskey = M
+menu-help-switch-device =
+    .label = Անցում նոր սարքի
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
