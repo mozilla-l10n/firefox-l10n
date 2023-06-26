@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Обележивачи
 migration-favorites-option-label = Омиљено
 migration-logins-and-passwords-option-label = Сачуване пријаве и лозинке
 migration-history-option-label = Историја прегледања
+migration-extensions-option-label = Додаци
 migration-form-autofill-option-label = Подаци о аутоматском попуњавању образаца
 migration-payment-methods-option-label = Начини плаћања
 migration-cookies-option-label = Колачићи
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Лозинке су успешн�
 migration-passwords-from-file = Датотека се проверава за лозинке
 migration-passwords-new = Нове лозинке
 migration-passwords-updated = Постојеће лозинке
+migration-passwords-from-file-no-valid-data = Датотека не садржи важеће податке о лозинки. Изаберите другу датотеку.
 migration-passwords-from-file-picker-title = Увези датотеку са лозинкама
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -144,6 +146,7 @@ migration-list-bookmark-label = обележивачи
 migration-list-favorites-label = омиљено
 migration-list-password-label = лозинке
 migration-list-history-label = историја
+migration-list-extensions-label = додаци
 migration-list-autofill-label = подаци о аутоматском попуњавању образаца
 migration-list-payment-methods-label = начини плаћања
 
@@ -187,6 +190,37 @@ migration-wizard-progress-success-favorites =
         [few] { $quantity } омиљена
        *[other] { $quantity } омиљених
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } додатак
+        [few] { $quantity } додатка
+       *[other] { $quantity } додатака
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } од { $quantity } додатака
+migration-wizard-progress-extensions-support-link = Сазнајте како { -brand-product-name } претражује одговарајуће додатке
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Нема одговарајућих додатака
+migration-wizard-progress-extensions-addons-link = Прегледајте додатке за { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
