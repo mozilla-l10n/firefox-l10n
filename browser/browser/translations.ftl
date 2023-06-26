@@ -150,3 +150,4 @@ translations-settings-close-dialog =
     .buttonlabelaccept = Chiudi
     .buttonaccesskeyaccept = C
 
+

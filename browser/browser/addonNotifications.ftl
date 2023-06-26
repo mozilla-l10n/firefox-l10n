@@ -125,3 +125,4 @@ addon-local-install-error-not-signed = Impossibile installare questo componente 
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Impossibile installare { $addonName } in quanto non compatibile con { -brand-short-name } { $appVersion }.
 addon-install-error-blocklisted = Impossibile installare { $addonName } in quanto comporta un rischio elevato per la stabilità o la sicurezza.
+
