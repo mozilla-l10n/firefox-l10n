@@ -227,9 +227,11 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } z { $quantity } rozšěrjenjow
+migration-wizard-progress-extensions-support-link = Zhońće, kak { -brand-product-name } wotpowědne rozšěrjenja namaka
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Žane wotpowědne rozšěrjenja
+migration-wizard-progress-extensions-addons-link = Rozšěrjenja za { -brand-short-name } přepytać
 
 ##
 
