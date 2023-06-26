@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Retumi en la reto
 desktop-entry-generic-name = Retumilo
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = Retumilo { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = Interreto;Retumilo;TTT;Teksaĵo;Reto;Internet;WWW;Brows
 
 desktop-action-new-window-name = Nova fenestro
 desktop-action-new-private-window-name = Nova privata fenestro
+desktop-action-open-profile-manager = Malfermi administranton de profiloj

@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = La etendaĵo povas nek legi nek ŝanĝi datumojn
+origin-controls-quarantined =
+    .label = La etendaĵo rajtas nek legi nek ŝanĝi datumojn
 origin-controls-options =
     .label = La etendaĵo povas kaj legi kaj ŝanĝi datumojn:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ĝi povas nek legi nek ŝanĝi datumojn en tiu ĉi retejo
+origin-controls-state-quarantined = Malpermesata de { -vendor-short-name } en tiu ĉi retejo
 origin-controls-state-always-on = Ĝi ĉiam povas kaj legi kaj ŝanĝi datumojn en tiuj ĉi retejo
 origin-controls-state-when-clicked = Bezonatas permeso por legi kaj ŝanĝi datumojn
 origin-controls-state-hover-run-visit-only = Ruli nur por tiu ĉi vizito
@@ -48,3 +51,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Bezonataj permesoj
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Malpermesata de { -vendor-short-name } en tiu ĉi retejo

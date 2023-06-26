@@ -81,18 +81,46 @@ firefoxview-collapse-button-show =
     .title = Montri liston
 firefoxview-collapse-button-hide =
     .title = Kaŝi liston
+firefoxview-overview-nav = Ĵusa retumo
+    .title = Ĵusa retumo
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Historio
+    .title = Historio
+firefoxview-history-header = Historio
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Malfermitaj langetoj
+    .title = Malfermitaj langetoj
+firefoxview-opentabs-header = Malfermitaj langetoj
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Antaŭ nelonge fermitaj langetoj
+    .title = Antaŭ nelonge fermitaj langetoj
+firefoxview-recently-closed-header = Antaŭ nelonge fermitaj langetoj
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Langetoj el aliaj aparatoj
+    .title = Langetoj el aliaj aparatoj
+firefoxview-synced-tabs-header = Langetoj el aliaj aparatoj
 
 ##
 
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Vidi ĉion
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Fenestro { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Fenestro { $winID } (Nuna)
+firefoxview-opentabs-focus-tab =
+    .title = Iri al tiu ĉi langeto
+firefoxview-show-more = Montri pli
+firefoxview-show-less = Montri malpli
