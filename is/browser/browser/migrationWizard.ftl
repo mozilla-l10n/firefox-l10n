@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Bókamerki
 migration-favorites-option-label = Eftirlæti
 migration-logins-and-passwords-option-label = Vistaðar innskráningar og lykilorð
 migration-history-option-label = Vafurferill
+migration-extensions-option-label = Forritsaukar
 migration-form-autofill-option-label = Sjálfvirk útfyllingargögn reita
 migration-payment-methods-option-label = Greiðslumátar
 migration-cookies-option-label = Vefkökur
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Tókst að flytja inn lykilorð
 migration-passwords-from-file = Athuga lykilorð í skrá
 migration-passwords-new = Ný lykilorð
 migration-passwords-updated = Fyrirliggjandi lykilorð
+migration-passwords-from-file-no-valid-data = Skráin inniheldur engin gild lykilorðagögn. Veldu aðra skrá.
 migration-passwords-from-file-picker-title = Flytja inn lykilorðaskrá
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -149,6 +151,7 @@ migration-list-bookmark-label = bókamerki
 migration-list-favorites-label = eftirlæti
 migration-list-password-label = lykilorð
 migration-list-history-label = vafurferill
+migration-list-extensions-label = forritsaukar
 migration-list-autofill-label = sjálfvirk útfyllingargögn
 migration-list-payment-methods-label = greiðslumátar
 
@@ -190,6 +193,35 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } eftirlæti
        *[other] { $quantity } eftirlæti
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } forritsauki
+       *[other] { $quantity } forritsaukar
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } af { $quantity } forritsaukum
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Engir samsvarandi forritsaukar
+migration-wizard-progress-extensions-addons-link = Skoða forritsauka fyrir { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
