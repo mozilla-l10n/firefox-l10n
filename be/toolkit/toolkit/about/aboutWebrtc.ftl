@@ -89,6 +89,7 @@ about-webrtc-log-show-msg = паказаць журнал
 about-webrtc-log-hide-msg = схаваць журнал
     .title = націсніце, каб згарнуць гэты раздзел
 about-webrtc-copy-report-button = Капіяваць справаздачу
+about-webrtc-copy-report-history-button = Капіяваць гісторыю справаздач
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -263,6 +264,11 @@ about-webrtc-sdp-set-timestamp = Метка часу { NUMBER($timestamp, useGro
 
 about-webrtc-show-msg-sdp = Паказаць SDP
 about-webrtc-hide-msg-sdp = Схаваць SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
