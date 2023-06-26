@@ -215,6 +215,11 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } аз { $quantity } васеъшавӣ
+migration-wizard-progress-extensions-support-link = Маълумот гиред, ки чӣ тавр «{ -brand-product-name }» ба васеъшавиҳо мувофиқат мекунад
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Ягон васеъшавии мувофиқ нест
+migration-wizard-progress-extensions-addons-link = Аз назар гузаронидани васеъшавиҳо барои «{ -brand-short-name }»
 
 ##
 
