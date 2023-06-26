@@ -58,6 +58,10 @@ webext-perms-sideload-menu-item = { -brand-short-name }에 { $addonName } 부가
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } 확장 기능에 새 권한이 필요함
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = { -brand-short-name }로 가져온 확장 기능 설치 완료
 
 ## Add-on removal warning
 
