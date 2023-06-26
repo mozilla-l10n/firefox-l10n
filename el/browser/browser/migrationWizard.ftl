@@ -58,8 +58,12 @@ migration-bookmarks-option-label = Σελιδοδείκτες
 migration-favorites-option-label = Αγαπημένα
 migration-logins-and-passwords-option-label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
 migration-history-option-label = Ιστορικό περιήγησης
+migration-extensions-option-label = Επεκτάσεις
 migration-form-autofill-option-label = Δεδομένα αυτόματης συμπλήρωσης φορμών
 migration-payment-methods-option-label = Μέθοδοι πληρωμής
+migration-cookies-option-label = Cookies
+migration-session-option-label = Παράθυρα και καρτέλες
+migration-otherdata-option-label = Άλλα δεδομένα
 migration-passwords-from-file-progress-header = Εισαγωγή αρχείου κωδικών πρόσβασης
 migration-passwords-from-file-success-header = Επιτυχής εισαγωγή κωδικών πρόσβασης
 migration-passwords-from-file = Έλεγχος αρχείου για κωδικούς πρόσβασης
@@ -186,6 +190,14 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } αγαπημένο
        *[other] { $quantity } αγαπημένα
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
