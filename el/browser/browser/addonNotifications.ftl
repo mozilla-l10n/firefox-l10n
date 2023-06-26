@@ -58,6 +58,10 @@ webext-perms-sideload-menu-item = Το { $addonName } προστέθηκε στ�
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = Το { $addonName } απαιτεί νέα δικαιώματα
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Ολοκληρώστε την εγκατάσταση των επεκτάσεων που εισήχθησαν στο { -brand-short-name }
 
 ## Add-on removal warning
 

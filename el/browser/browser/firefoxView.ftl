@@ -120,5 +120,7 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Παράθυρο { $winID } (Τρέχον)
+firefoxview-opentabs-focus-tab =
+    .title = Εναλλαγή σε αυτήν την καρτέλα
 firefoxview-show-more = Εμφάνιση περισσότερων
 firefoxview-show-less = Εμφάνιση λιγότερων

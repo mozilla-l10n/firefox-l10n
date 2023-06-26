@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Επιτυχής εισαγωγή
 migration-passwords-from-file = Έλεγχος αρχείου για κωδικούς πρόσβασης
 migration-passwords-new = Νέοι κωδικοί πρόσβασης
 migration-passwords-updated = Υπάρχοντες κωδικοί πρόσβασης
+migration-passwords-from-file-no-valid-data = Το αρχείο δεν περιλαμβάνει έγκυρα δεδομένα κωδικών πρόσβασης. Επιλέξτε άλλο αρχείο.
 migration-passwords-from-file-picker-title = Εισαγωγή αρχείου κωδικών πρόσβασης
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -108,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Εισαγωγή αρχείου σ�
 migration-bookmarks-from-file-progress-header = Εισαγωγή σελιδοδεικτών
 migration-bookmarks-from-file = Σελιδοδείκτες
 migration-bookmarks-from-file-success-header = Επιτυχής εισαγωγή σελιδοδεικτών
+migration-bookmarks-from-file-no-valid-data = Το αρχείο δεν περιλαμβάνει δεδομένα σελιδοδεικτών. Επιλέξτε άλλο αρχείο.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -149,6 +151,7 @@ migration-list-bookmark-label = σελιδοδείκτες
 migration-list-favorites-label = αγαπημένα
 migration-list-password-label = κωδικοί πρόσβασης
 migration-list-history-label = ιστορικό
+migration-list-extensions-label = επεκτάσεις
 migration-list-autofill-label = δεδομένα αυτόματης συμπλήρωσης
 migration-list-payment-methods-label = μέθοδοι πληρωμής
 
@@ -195,6 +198,28 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } επέκταση
+       *[other] { $quantity } επεκτάσεις
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } από { $quantity } επεκτάσεις
+migration-wizard-progress-extensions-support-link = Μάθετε πώς το { -brand-product-name } βρίσκει αντίστοιχες επεκτάσεις
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Δεν υπάρχουν αντίστοιχες επεκτάσεις
+migration-wizard-progress-extensions-addons-link = Περιήγηση στις επεκτάσεις για το { -brand-short-name }
 
 ##
 
