@@ -93,6 +93,7 @@ about-webrtc-log-show-msg = zobraziť záznamy
 about-webrtc-log-hide-msg = skryť záznamy
     .title = kliknutím skryjete túto sekciu
 about-webrtc-copy-report-button = Kopírovať správu
+about-webrtc-copy-report-history-button = Kopírovať históriu záznamov
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -272,6 +273,9 @@ about-webrtc-hide-msg-sdp = Skryť SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Zobraziť kontext médií
+about-webrtc-media-context-hide-msg = Skryť kontext médií
+about-webrtc-media-context-heading = Informácie o kontexte médií
 
 ##
 
