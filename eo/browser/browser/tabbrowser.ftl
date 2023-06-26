@@ -135,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Malsilentigi langetojn
     .accesskey = M
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Sono ludata
 
 ## Ctrl-Tab dialog
 
@@ -142,3 +144,12 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Listigi ĉiujn { $tabCount } langetojn
+
+## Tab manager menu buttons
+
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Silentigi langeton
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Malsilentigi langeton
+tabbrowser-manager-close-tab =
+    .tooltiptext = Fermi langeton
