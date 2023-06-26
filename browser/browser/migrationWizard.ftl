@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Bladwijzers
 migration-favorites-option-label = Favorieten
 migration-logins-and-passwords-option-label = Opgeslagen aanmeldingen en wachtwoorden
 migration-history-option-label = Navigatiegeschiedenis
+migration-extensions-option-label = Extensies
 migration-form-autofill-option-label = Gegevens voor automatisch invullen van formulieren
 migration-payment-methods-option-label = Betalingsmethoden
 migration-cookies-option-label = Cookies
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Wachtwoorden met succes geïmport
 migration-passwords-from-file = Bestand wordt gecontroleerd op wachtwoorden
 migration-passwords-new = Nieuwe wachtwoorden
 migration-passwords-updated = Bestaande wachtwoorden
+migration-passwords-from-file-no-valid-data = Het bestand bevat geen geldige wachtwoordgegevens. Kies een ander bestand.
 migration-passwords-from-file-picker-title = Wachtwoordenbestand importeren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -149,6 +151,7 @@ migration-list-bookmark-label = bladwijzers
 migration-list-favorites-label = favorieten
 migration-list-password-label = wachtwoorden
 migration-list-history-label = geschiedenis
+migration-list-extensions-label = extensies
 migration-list-autofill-label = gegevens automatisch invullen
 migration-list-payment-methods-label = betalingsmethoden
 
@@ -190,6 +193,36 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } favoriet
        *[other] { $quantity } favorieten
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } extensie
+       *[other] { $quantity } extensies
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } van { $quantity } extensies
+migration-wizard-progress-extensions-support-link = Ontdek hoe { -brand-product-name } extensies matcht
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Geen overeenkomende extensies
+migration-wizard-progress-extensions-addons-link = Door extensies voor { -brand-short-name } bladeren
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
