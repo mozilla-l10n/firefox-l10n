@@ -88,6 +88,8 @@ about-webrtc-log-show-msg = Haipy jehechauka
     .title = eikutu emyasãi hag̃ua ko pehẽ’i
 about-webrtc-log-hide-msg = haipy mokañy
     .title = eikutu embopaha hag̃ua ko tembiapo
+about-webrtc-copy-report-button = Emonguatia marandu’i
+about-webrtc-copy-report-history-button = Emonguatia marandu’i rembiasakue
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
