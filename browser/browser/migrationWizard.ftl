@@ -58,6 +58,7 @@ migration-bookmarks-option-label = 북마크
 migration-favorites-option-label = 즐겨찾기
 migration-logins-and-passwords-option-label = 저장된 로그인 및 비밀번호
 migration-history-option-label = 방문 기록
+migration-extensions-option-label = 확장 기능
 migration-form-autofill-option-label = 양식 자동 채우기 데이터
 migration-payment-methods-option-label = 결제 방법
 migration-cookies-option-label = 쿠키
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = 비밀번호를 성공적으로 �
 migration-passwords-from-file = 비밀번호 파일 확인 중
 migration-passwords-new = 새 비밀번호
 migration-passwords-updated = 기존 비밀번호
+migration-passwords-from-file-no-valid-data = 파일에 유효한 비밀번호 데이터가 포함되어 있지 않습니다. 다른 파일을 선택하세요.
 migration-passwords-from-file-picker-title = 비밀번호 파일 가져오기
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -99,7 +101,7 @@ migration-bookmarks-from-file-picker-title = 북마크 파일 가져오기
 migration-bookmarks-from-file-progress-header = 북마크 가져오는 중
 migration-bookmarks-from-file = 북마크
 migration-bookmarks-from-file-success-header = 북마크를 성공적으로 가져옴
-migration-bookmarks-from-file-no-valid-data = 파일에는 북마크 데이터가 포함되어 있지 않습니다. 다른 파일을 선택하세요.
+migration-bookmarks-from-file-no-valid-data = 파일에 북마크 데이터가 포함되어 있지 않습니다. 다른 파일을 선택하세요.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -137,6 +139,7 @@ migration-list-bookmark-label = 북마크
 migration-list-favorites-label = 즐겨찾기
 migration-list-password-label = 비밀번호
 migration-list-history-label = 기록
+migration-list-extensions-label = 확장 기능
 migration-list-autofill-label = 자동 채우기 데이터
 migration-list-payment-methods-label = 결제 방법
 
@@ -170,6 +173,24 @@ migration-wizard-progress-success-bookmarks = 북마크 { $quantity }개
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-favorites = 즐겨찾기 { $quantity }개
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions = 확장 기능 { $quantity }개
+migration-wizard-progress-extensions-support-link = { -brand-product-name }가 확장 기능 일치하는 방법 알아보기
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = 일치하는 확장 기능 없음
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
