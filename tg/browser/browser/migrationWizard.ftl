@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Хатбаракҳо
 migration-favorites-option-label = Баргузидаҳо
 migration-logins-and-passwords-option-label = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
 migration-history-option-label = Таърихи тамошо
+migration-extensions-option-label = Васеъшавиҳо
 migration-form-autofill-option-label = Маълумоти пуркунии худкори шакл
 migration-payment-methods-option-label = Тарзҳои пардохт
 migration-cookies-option-label = Кукиҳо
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Ниҳонвожаҳо бо му�
 migration-passwords-from-file = Санҷиши файл нисбат ба доштани ниҳонвожаҳо
 migration-passwords-new = Ниҳонвожаҳои нав
 migration-passwords-updated = Ниҳонвожаҳои мавҷудбуда
+migration-passwords-from-file-no-valid-data = Ин файл ягон маълумот дар бораи ниҳонвожаҳои дуруст надорад. Файли дигареро интихоб намоед.
 migration-passwords-from-file-picker-title = Ворид кардани файл бо ниҳонвожаҳо
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -149,6 +151,7 @@ migration-list-bookmark-label = хатбаракҳо
 migration-list-favorites-label = баргузидаҳо
 migration-list-password-label = ниҳонвожаҳо
 migration-list-history-label = таърих
+migration-list-extensions-label = васеъшавиҳо
 migration-list-autofill-label = маълумоти пуркунии худкор
 migration-list-payment-methods-label = тарзҳои пардохт
 
@@ -190,6 +193,31 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } баргузида
        *[other] { $quantity } баргузида
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } васеъшавӣ
+       *[other] { $quantity } васеъшавӣ
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } аз { $quantity } васеъшавӣ
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
