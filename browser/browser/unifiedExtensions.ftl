@@ -32,3 +32,12 @@ unified-extensions-context-menu-remove-extension =
     .label = Forigi etendaĵon
 unified-extensions-context-menu-report-extension =
     .label = Denunci etendaĵon
+unified-extensions-context-menu-move-widget-up =
+    .label = Movi supren
+unified-extensions-context-menu-move-widget-down =
+    .label = Movi malsupren
+
+## Notifications
+
+unified-extensions-mb-quarantined-domain-title = Kelkaj etendaĵoj ne estas permesataj
+unified-extensions-mb-quarantined-domain-message = Nur kelkaj etendaĵoj, kontrolitaj de { -vendor-short-name } estas permesataj en tiu ĉi retejo, por protekti viajn datumojn.

@@ -13,3 +13,6 @@ confirmation-hint-pin-tab = Alpinglita!
 confirmation-hint-pin-tab-description = Alklaku la langeton per la dekstra butono por depingli ĝin.
 confirmation-hint-send-to-device = Sendita!
 confirmation-hint-firefox-relay-mask-generated = Nova retpoŝta masko de { -relay-brand-short-name } estas kreita!
+confirmation-hint-firefox-relay-mask-created = Nova masko kreita!
+confirmation-hint-firefox-relay-mask-reused = Jama masko reuzita!
+confirmation-hint-screenshot-copied = Ekrankopio kopiita!
