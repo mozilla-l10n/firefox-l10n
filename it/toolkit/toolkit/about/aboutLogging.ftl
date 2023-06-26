@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is the title of the page
 about-logging-title = Informazioni sui registri
 about-logging-page-title = Gestore registrazioni
 about-logging-current-log-file = File di log corrente:
 about-logging-new-log-file = Nuovo file di log:
 about-logging-currently-enabled-log-modules = Moduli di registrazione attualmente attivi:
-
 about-logging-log-tutorial = Consultare la pagina <a data-l10n-name="logging">HTTP Logging</a> per istruzioni sull’utilizzo di questo strumento.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Apri cartella
@@ -34,9 +34,8 @@ about-logging-preset-networking-label = Rete
 about-logging-preset-networking-description = Moduli di registrazione per diagnosticare problemi di rete
 about-logging-preset-media-playback-label = Riproduzione file multimediali
 about-logging-preset-media-playback-description = Moduli di registrazione per diagnosticare problemi con la riproduzione di file multimediali (non relativi ad applicazioni di videoconferenza)
-about-logging-preset-custom-label = Personalizzate
+about-logging-preset-custom-label = Personalizzato
 about-logging-preset-custom-description = Moduli di registrazione selezionati manualmente
-
 # Error handling
 about-logging-error = Errore:
 
@@ -50,5 +49,4 @@ about-logging-unknown-profiler-preset = Preset del profiler “{ $v }“ sconosc
 about-logging-unknown-option = Opzione sconosciuta “{ $k }“ per about:logging
 about-logging-configuration-url-ignored = URL di configurazione ignorato
 about-logging-file-and-profiler-override = Impossibile forzare un file di output e allo stesso tempo ignorare le opzioni del profiler
-
 about-logging-configured-via-url = Opzione configurata tramite URL
