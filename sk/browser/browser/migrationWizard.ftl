@@ -231,6 +231,7 @@ migration-wizard-progress-extensions-support-link = Zistite, ako { -brand-produc
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Žiadne kompatibilné rozšírenia
+migration-wizard-progress-extensions-addons-link = Prehľadávať rozšírenia pre { -brand-short-name }
 
 ##
 

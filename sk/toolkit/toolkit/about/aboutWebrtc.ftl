@@ -27,6 +27,10 @@ about-webrtc-auto-refresh-label = Automatické obnovovanie
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Otvorené dátové kanály:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Zatvorené dátové kanály:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -263,6 +267,11 @@ about-webrtc-sdp-set-timestamp = Časová známka { NUMBER($timestamp, useGroupi
 
 about-webrtc-show-msg-sdp = Zobraziť SDP
 about-webrtc-hide-msg-sdp = Skryť SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
