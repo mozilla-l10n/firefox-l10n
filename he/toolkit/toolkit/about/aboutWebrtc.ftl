@@ -89,6 +89,7 @@ about-webrtc-log-show-msg = הצגת יומן
 about-webrtc-log-hide-msg = הסתרת יומן
     .title = click to collapse this section
 about-webrtc-copy-report-button = העתקת דוח
+about-webrtc-copy-report-history-button = העתק היסטוריית דוחות
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -170,6 +171,14 @@ about-webrtc-trickle-caption-msg = מועמדים שהסתננו (הגיעו ל�
 
 about-webrtc-show-msg-sdp = הצגת SDP
 about-webrtc-hide-msg-sdp = הסתרת SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
+about-webrtc-media-context-show-msg = הצגת הקשר מדיה
+about-webrtc-media-context-hide-msg = הסתרת הקשר מדיה
+about-webrtc-media-context-heading = הקשר מדיה
 
 ##
 

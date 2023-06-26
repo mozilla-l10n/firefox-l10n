@@ -58,6 +58,7 @@ migration-bookmarks-option-label = סימניות
 migration-favorites-option-label = מועדפים
 migration-logins-and-passwords-option-label = כניסות וססמאות שמורות
 migration-history-option-label = היסטוריית גלישה
+migration-extensions-option-label = הרחבות
 migration-form-autofill-option-label = נתוני מילוי אוטומטי של טפסים
 migration-payment-methods-option-label = אמצעי תשלום
 migration-cookies-option-label = עוגיות
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = הססמאות יובאו בהצ�
 migration-passwords-from-file = בתהליך בדיקת הקובץ אחר ססמאות
 migration-passwords-new = ססמאות חדשות
 migration-passwords-updated = ססמאות קיימות
+migration-passwords-from-file-no-valid-data = הקובץ אינו מכיל נתוני ססמאות חוקיים. נא לבחור בקובץ אחר.
 migration-passwords-from-file-picker-title = ייבוא קובץ ססמאות
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -107,7 +109,7 @@ migration-bookmarks-from-file-picker-title = ייבוא קובץ סימניות
 migration-bookmarks-from-file-progress-header = בתהליך ייבוא סימניות
 migration-bookmarks-from-file = סימניות
 migration-bookmarks-from-file-success-header = הסימניות יובאו בהצלחה
-migration-bookmarks-from-file-no-valid-data = הקובץ אינו מכיל  נתוני סימניות. נא לבחר בקובץ אחר.
+migration-bookmarks-from-file-no-valid-data = הקובץ אינו מכיל נתוני סימניות. נא לבחור בקובץ אחר.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -149,6 +151,7 @@ migration-list-bookmark-label = סימניות
 migration-list-favorites-label = מועדפים
 migration-list-password-label = ססמאות
 migration-list-history-label = היסטוריה
+migration-list-extensions-label = הרחבות
 migration-list-autofill-label = נתוני מילוי אוטומטי
 migration-list-payment-methods-label = אמצעי תשלום
 
@@ -192,6 +195,36 @@ migration-wizard-progress-success-favorites =
         [two] { $quantity } מועדפים
        *[other] { $quantity } מועדפים
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] הרחבה אחת
+       *[other] { $quantity } הרחבות
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } מתוך { $quantity } הרחבות
+migration-wizard-progress-extensions-support-link = מידע על האופן שבו { -brand-product-name } מאתר הרחבות תואמות
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = אין הרחבות תואמות
+migration-wizard-progress-extensions-addons-link = עיון בהרחבות עבור { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
