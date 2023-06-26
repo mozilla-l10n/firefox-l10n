@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Закладкі
 migration-favorites-option-label = Выбраныя
 migration-logins-and-passwords-option-label = Захаваныя лагіны і паролі
 migration-history-option-label = Гісторыя аглядання
+migration-extensions-option-label = Пашырэнні
 migration-form-autofill-option-label = Звесткі аўтазапаўнення формаў
 migration-payment-methods-option-label = Спосабы аплаты
 migration-cookies-option-label = Кукі
@@ -152,6 +153,7 @@ migration-list-bookmark-label = закладкі
 migration-list-favorites-label = абраныя
 migration-list-password-label = паролі
 migration-list-history-label = гісторыя
+migration-list-extensions-label = пашырэнні
 migration-list-autofill-label = звесткі аўтазапаўнення
 migration-list-payment-methods-label = спосабы аплаты
 
@@ -195,6 +197,35 @@ migration-wizard-progress-success-favorites =
         [few] { $quantity } абраныя
        *[many] { $quantity } абраных
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } пашырэнне
+        [few] { $quantity } пашырэнні
+       *[many] { $quantity } пашырэнняў
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } з { $quantity } пашырэнняў
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Няма адпаведных пашырэнняў
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
