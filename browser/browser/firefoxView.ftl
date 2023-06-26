@@ -112,3 +112,13 @@ firefoxview-synced-tabs-header = Καρτέλες από άλλες συσκευ
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Προβολή όλων
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Παράθυρο { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Παράθυρο { $winID } (Τρέχον)
+firefoxview-show-more = Εμφάνιση περισσότερων
+firefoxview-show-less = Εμφάνιση λιγότερων
