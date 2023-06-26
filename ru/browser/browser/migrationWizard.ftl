@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Закладки
 migration-favorites-option-label = Избранное
 migration-logins-and-passwords-option-label = Сохранённые логины и пароли
 migration-history-option-label = Журнал посещений
+migration-extensions-option-label = Расширения
 migration-form-autofill-option-label = Данные автозаполнения форм
 migration-payment-methods-option-label = Способы оплаты
 migration-cookies-option-label = Куки
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Пароли успешно им�
 migration-passwords-from-file = Проверка файла на наличие паролей
 migration-passwords-new = Новые пароли
 migration-passwords-updated = Существующие пароли
+migration-passwords-from-file-no-valid-data = Файл не содержит корректных данных о паролях. Выберите другой файл.
 migration-passwords-from-file-picker-title = Импорт паролей из файла
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -152,6 +154,7 @@ migration-list-bookmark-label = закладки
 migration-list-favorites-label = избранное
 migration-list-password-label = пароли
 migration-list-history-label = история
+migration-list-extensions-label = расширения
 migration-list-autofill-label = данные автозаполнения
 migration-list-payment-methods-label = способы оплаты
 
@@ -195,6 +198,37 @@ migration-wizard-progress-success-favorites =
         [few] { $quantity } избранных
        *[many] { $quantity } избранных
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } расширение
+        [few] { $quantity } расширения
+       *[many] { $quantity } расширений
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } из { $quantity } расширений
+migration-wizard-progress-extensions-support-link = Узнайте, как { -brand-product-name } проверяет расширения на совместимость
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Нет подходящих расширений
+migration-wizard-progress-extensions-addons-link = Просмотрите расширения для { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
