@@ -206,6 +206,18 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } jepysokue
        *[other] { $quantity } jepysokuekuéra
     }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } { $quantity } jepysokue
+migration-wizard-progress-extensions-support-link = Ehecha mba’éichapa { -brand-product-name } ojokupyty jepysokue ndive
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Ndaipóri jepysokue ojokupytýva
+migration-wizard-progress-extensions-addons-link = Eheka jepysokue { -brand-short-name }-pe g̃uarã
 
 ##
 
