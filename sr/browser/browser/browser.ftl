@@ -306,8 +306,8 @@ quickactions-cmd-clearhistory = обриши историју
 quickactions-downloads2 = Прикажи преузимања
 quickactions-cmd-downloads = преузимања
 # Opens about:addons page in the extensions section
-quickactions-extensions = Управљај проширењима
-quickactions-cmd-extensions = проширења
+quickactions-extensions = Управљај додацима
+quickactions-cmd-extensions = додаци
 # Opens the devtools web inspector
 quickactions-inspector2 = Отвори алате за програмере
 quickactions-cmd-inspector = инспектор, алати за програмере
@@ -992,8 +992,8 @@ private-browsing-indicator-label = Приватно прегледање
 ## Unified extensions (toolbar) button
 
 unified-extensions-button =
-    .label = Проширења
-    .tooltiptext = Проширења
+    .label = Додаци
+    .tooltiptext = Додаци
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
