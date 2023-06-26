@@ -118,6 +118,16 @@ migration-bookmarks-from-file-html-filter-title =
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Dosiero JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } legosigno
+       *[other] { $newEntries } legosignoj
+    }
 migration-import-button-label = Enporti
 migration-choose-to-import-from-file-button-label = Enporti el dosiero
 migration-import-from-file-button-label = Elekti dosieron
@@ -140,6 +150,7 @@ migration-list-favorites-label = plej ŝatatajn
 migration-list-password-label = pasvortojn
 migration-list-history-label = historion
 migration-list-autofill-label = datumojn de aŭtomata plenigo
+migration-list-payment-methods-label = pagmetodoj
 
 ##
 
@@ -200,6 +211,16 @@ migration-wizard-progress-success-history =
        *[other] El la lastaj { $maxAgeInDays } tagoj
     }
 migration-wizard-progress-success-formdata = Historio de formularoj
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } pagmetodo
+       *[other] { $quantity } pagmetodoj
+    }
 migration-wizard-safari-permissions-sub-header = Por enporti legosignojn kaj retuman historio el Safari:
 migration-wizard-safari-instructions-continue = Elektu “Daŭrigi”
 migration-wizard-safari-instructions-folder = Elektu en la listo la dosierujon de Safari kaj “Open”
