@@ -29,7 +29,7 @@ mztabrow-delete = Forigi
 mztabrow-forget-about-this-site = Forgesi tiun ĉi retejon…
     .accesskey = t
 mztabrow-open-in-window = Malfermi en nova fenestro
-    .accesskey = { "" }
+    .accesskey = n
 mztabrow-open-in-private-window = Malfermi en nova privata fenestro
     .accesskey = M
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
