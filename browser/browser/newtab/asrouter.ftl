@@ -261,3 +261,6 @@ fxa-sync-cfr-secondary = Rememorigi poste
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Ĉu vi uzas malnovan aparaton?
+device-migration-fxa-spotlight-body = Faru sekurkopion de viaj datumoj por certi ne perdi iun gravan informon, kiel legosignojn kaj pasvortojn — ĉefe se vi iras al nova aparato.
+device-migration-fxa-spotlight-primary-button = Kiel fari sekurkopion de miaj datumoj
+device-migration-fxa-spotlight-link = Rememorigi poste

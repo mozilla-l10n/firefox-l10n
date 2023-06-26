@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Pasvortoj el dosiero CVS
+migration-wizard-migrator-display-name-file-bookmarks = Legosignoj el dosiero HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -58,6 +59,10 @@ migration-favorites-option-label = Plej ŝatataj
 migration-logins-and-passwords-option-label = Konservitaj legitimiloj kaj pasvortoj
 migration-history-option-label = Historio de retumo
 migration-form-autofill-option-label = Datumoj pri aŭtomata plenigo de formularoj
+migration-payment-methods-option-label = Pagmetodoj
+migration-cookies-option-label = Kuketoj
+migration-session-option-label = Fenestroj kaj langetoj
+migration-otherdata-option-label = Aliaj datumoj
 migration-passwords-from-file-progress-header = Enporti dosieron kun pasvortoj
 migration-passwords-from-file-success-header = Pasvortoj sukcese enportitaj
 migration-passwords-from-file = Kontrolo de ekzisto de pasvortoj en dosiero
@@ -98,6 +103,21 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } ĝisdatigita
        *[other] { $updatedEntries } ĝisdatigitaj
     }
+migration-bookmarks-from-file-picker-title = Enporti dosieron de legosignoj
+migration-bookmarks-from-file-progress-header = Enporto de legosignoj
+migration-bookmarks-from-file = Legosignoj
+migration-bookmarks-from-file-success-header = Legosignoj sukcese enportitaj
+migration-bookmarks-from-file-no-valid-data = Tiu dosiero ne enhavas legosignajn datumojn. Elektu alian dosieron.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumento HTML
+       *[other] Dosiero HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Dosiero JSON
 migration-import-button-label = Enporti
 migration-choose-to-import-from-file-button-label = Enporti el dosiero
 migration-import-from-file-button-label = Elekti dosieron
@@ -183,4 +203,3 @@ migration-wizard-progress-success-formdata = Historio de formularoj
 migration-wizard-safari-permissions-sub-header = Por enporti legosignojn kaj retuman historio el Safari:
 migration-wizard-safari-instructions-continue = Elektu “Daŭrigi”
 migration-wizard-safari-instructions-folder = Elektu en la listo la dosierujon de Safari kaj “Open”
-migration-wizard-safari-select-button = Elekti dosieron
