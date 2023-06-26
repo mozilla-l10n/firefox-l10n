@@ -58,8 +58,12 @@ migration-bookmarks-option-label = Techaukaha
 migration-favorites-option-label = Takate’ỹha
 migration-logins-and-passwords-option-label = Puruhára ha ñe’ẽñemi ñongatupyre
 migration-history-option-label = Kundaha rembiasakue
+migration-extensions-option-label = Jepysokue
 migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva
 migration-payment-methods-option-label = Mba’éicha ehepyme’ẽta
+migration-cookies-option-label = Kookie
+migration-session-option-label = Ovetã ha tendayke
+migration-otherdata-option-label = Ambue mba’ekuaarã
 migration-passwords-from-file-progress-header = Marandurenda ñemba’egueru ñe’ẽñemi
 migration-passwords-from-file-success-header = Ñe’ẽñemi Ñemba’egueru Porã
 migration-passwords-from-file = Aheka ñe’ẽñemi marandurendápe
@@ -145,6 +149,7 @@ migration-list-bookmark-label = techaukaha
 migration-list-favorites-label = Takate’ỹha
 migration-list-password-label = Ñe’ẽñemi
 migration-list-history-label = Tembiasakue
+migration-list-extensions-label = jepysokue
 migration-list-autofill-label = Mba’ekuaarã henyhẽjeheguíva
 migration-list-payment-methods-label = mba’éicha ehepyme’ẽta
 
@@ -186,6 +191,24 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } rakate’ỹha
        *[other] { $quantity } rakate’ỹha
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } jepysokue
+       *[other] { $quantity } jepysokuekuéra
+    }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #

@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Tendaykekuéra ambue mba’e’okagua
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Ehechapa
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Ovetã { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Ovetã { $winID } (Ag̃agua)
+firefoxview-opentabs-focus-tab =
+    .title = Emoambue tendayképe
+firefoxview-show-more = Ehechaukave
+firefoxview-show-less = Ehechauka’ive
