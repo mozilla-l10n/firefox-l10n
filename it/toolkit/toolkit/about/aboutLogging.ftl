@@ -32,6 +32,12 @@ about-logging-with-profiler-stacks-checkbox = Attiva analisi dello stack per mes
 
 about-logging-preset-networking-label = Rete
 about-logging-preset-networking-description = Moduli di registrazione per diagnosticare problemi di rete
+about-logging-preset-networking-cookie-label = Cookie
+about-logging-preset-networking-cookie-description = Moduli di registrazione per diagnosticare problemi con i cookie
+about-logging-preset-networking-websocket-label = WebSocket
+about-logging-preset-networking-websocket-description = Moduli di registrazione per diagnosticare problemi con WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Moduli di registrazione per diagnosticare problemi con HTTP/3 e QUIC
 about-logging-preset-media-playback-label = Riproduzione file multimediali
 about-logging-preset-media-playback-description = Moduli di registrazione per diagnosticare problemi con la riproduzione di file multimediali (non relativi ad applicazioni di videoconferenza)
 about-logging-preset-webrtc-label = WebRTC
