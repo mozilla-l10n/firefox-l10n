@@ -63,6 +63,8 @@ translations-panel-error-load-languages-hint = Ελέγξτε τη σύνδεσ�
 translations-panel-error-load-languages-hint-button =
     .label = Δοκιμή ξανά
 translations-panel-error-unsupported = Δεν διατίθεται μετάφραση για αυτήν τη σελίδα
+translations-panel-error-dismiss-button =
+    .label = Το κατάλαβα
 translations-panel-error-change-button =
     .label = Αλλαγή αρχικής γλώσσας
 # If your language requires declining the language name, a possible solution
@@ -93,6 +95,10 @@ translations-panel-to-label = Μετάφραση σε
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
 translations-panel-revisit-header = Αυτή η σελίδα έχει μεταφραστεί από τα { $fromLanguage } στα { $toLanguage }
+translations-panel-choose-language =
+    .label = Επιλέξτε μια γλώσσα
+translations-panel-restore-button =
+    .label = Εμφάνιση πρωτότυπου
 
 ## Firefox Translations language management in about:preferences.
 
@@ -110,7 +116,9 @@ translations-manage-language-download-button =
 translations-manage-language-delete-button =
     .label = Διαγραφή
     .accesskey = γ
+translations-manage-error-download = Προέκυψε πρόβλημα κατά τη λήψη του αρχείου γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
+translations-manage-error-list = Αποτυχία λήψης της λίστας με τις διαθέσιμες γλώσσες για μετάφραση. Ανανεώστε τη σελίδα για να δοκιμάσετε ξανά.
 translations-settings-title =
     .title = Ρυθμίσεις μεταφράσεων
     .style = min-width: 36em
