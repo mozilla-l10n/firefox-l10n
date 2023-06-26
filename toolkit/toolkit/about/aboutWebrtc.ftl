@@ -27,6 +27,10 @@ about-webrtc-auto-refresh-label = 자동 새로 고침
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = 열린 데이터 채널:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = 닫힌 데이터 채널:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -255,6 +259,14 @@ about-webrtc-sdp-set-timestamp = 타임스탬프 { NUMBER($timestamp, useGroupin
 
 about-webrtc-show-msg-sdp = SDP 표시
 about-webrtc-hide-msg-sdp = SDP 숨기기
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
+about-webrtc-media-context-show-msg = 미디어 컨텍스트 표시
+about-webrtc-media-context-hide-msg = 미디어 컨텍스트 숨기기
+about-webrtc-media-context-heading = 미디어 컨텍스트
 
 ##
 
