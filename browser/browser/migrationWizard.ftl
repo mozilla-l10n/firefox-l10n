@@ -184,10 +184,18 @@ migration-wizard-progress-success-favorites = 즐겨찾기 { $quantity }개
 # Variables:
 #   $quantity (Number): the number of successfully imported extensions
 migration-wizard-progress-success-extensions = 확장 기능 { $quantity }개
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } / { $quantity } 확장 기능
 migration-wizard-progress-extensions-support-link = { -brand-product-name }가 확장 기능 일치하는 방법 알아보기
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = 일치하는 확장 기능 없음
+migration-wizard-progress-extensions-addons-link = { -brand-short-name } 확장 기능 탐색
 
 ##
 
