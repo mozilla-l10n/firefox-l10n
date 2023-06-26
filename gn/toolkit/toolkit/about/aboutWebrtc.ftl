@@ -258,5 +258,11 @@ about-webrtc-sdp-set-timestamp = Aravochaukaha { NUMBER($timestamp, useGrouping:
 about-webrtc-show-msg-sdp = Ehechauka SDP
 about-webrtc-hide-msg-sdp = Eñomi SDP
 
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
+about-webrtc-media-context-heading = Momaranduhára rehegua
+
 ##
 

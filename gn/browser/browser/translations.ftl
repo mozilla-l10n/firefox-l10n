@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Emoñe’ẽasa ko kuatiarogue
+urlbar-translations-button-loading =
+    .tooltiptext = Ñe’ẽasa oñemboguatáva
 translations-panel-settings-button =
     .aria-label = Eñangareko ñe’ẽasa ñembohekóre
 # Text displayed on a language dropdown when the language is in beta
