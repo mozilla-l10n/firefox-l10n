@@ -70,3 +70,18 @@ translations-panel-restore-button =
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-settings-button =
+    .label = Innstillinger…
+    .accesskey = n
+translations-manage-description = Last ned språk for frakoblet oversettelse.
+translations-manage-all-language = Alle språk
+translations-manage-download-button = Last ned
+translations-manage-delete-button = Slett
+translations-manage-language-download-button =
+    .label = Last ned
+    .accesskey = L
+translations-manage-language-delete-button =
+    .label = Slett
+    .accesskey = S
+translations-manage-error-download = Klarte ikke å laste ned språkfilene. Prøv på nytt.
+translations-manage-error-delete = Det oppsto en feil ved sletting av språkfilene. Prøv på nytt.
