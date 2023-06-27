@@ -23,6 +23,8 @@ about-webrtc-aec-logging-on-state-msg = Registrazione AEC attiva (parlare per qu
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Aggiorna automaticamente
 
+about-webrtc-auto-refresh-default-label = Aggiorna automaticamente per impostazione predefinita
+
 ##
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
