@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Záložky
 migration-favorites-option-label = Oblíbené
 migration-logins-and-passwords-option-label = Uložená přihlašovací jména a hesla
 migration-history-option-label = Historie prohlížení
+migration-extensions-option-label = Rozšíření
 migration-form-autofill-option-label = Data pro automatické vyplňování formulářů
 migration-payment-methods-option-label = Způsoby platby
 migration-cookies-option-label = Cookies
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Import hesel byl úspěšně doko
 migration-passwords-from-file = Vyhledávají se hesla v souboru
 migration-passwords-new = Nová hesla
 migration-passwords-updated = Existující hesla
+migration-passwords-from-file-no-valid-data = Soubor neobsahuje žádná platná data s přihlašovacími údaji. Vyberte jiný soubor.
 migration-passwords-from-file-picker-title = Import souboru s hesly
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -161,6 +163,7 @@ migration-list-bookmark-label = záložky
 migration-list-favorites-label = oblíbené
 migration-list-password-label = přihlašovací údaje
 migration-list-history-label = historie
+migration-list-extensions-label = rozšíření
 migration-list-autofill-label = data pro automatické vyplňování
 migration-list-payment-methods-label = způsoby platby
 
@@ -206,6 +209,36 @@ migration-wizard-progress-success-favorites =
         [many] { $quantity } oblíbených
        *[other] { $quantity } oblíbených
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions = { $quantity } rozšíření
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions =
+    { $quantity ->
+        [one] { $matched } z { $quantity } rozšíření
+        [few] { $matched } ze { $quantity } rozšíření
+       *[other] { $matched } z { $quantity } rozšíření
+    }
+migration-wizard-progress-extensions-support-link = Zjistěte, jak { -brand-product-name } poznává rozšíření
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Žádná rozpoznaná rozšíření
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
