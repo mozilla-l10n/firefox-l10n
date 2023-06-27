@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Bokmärken
 migration-favorites-option-label = Favoriter
 migration-logins-and-passwords-option-label = Sparade inloggningar och lösenord
 migration-history-option-label = Webbläsarhistorik
+migration-extensions-option-label = Tillägg
 migration-form-autofill-option-label = Autofylldata för formulär
 migration-payment-methods-option-label = Betalningsmetoder
 migration-cookies-option-label = Kakor
@@ -190,6 +191,14 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } favorit
        *[other] { $quantity } favoriter
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #

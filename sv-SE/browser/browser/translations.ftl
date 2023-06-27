@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Översätt den här sidan
+urlbar-translations-button-loading =
+    .tooltiptext = Översättning pågår
 translations-panel-settings-button =
     .aria-label = Hantera översättningsinställningar
 # Text displayed on a language dropdown when the language is in beta
