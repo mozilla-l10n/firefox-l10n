@@ -65,6 +65,8 @@ translations-panel-error-load-languages = Kunne ikke laste inn språk
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+translations-panel-restore-button =
+    .label = Vis original
 
 ## Firefox Translations language management in about:preferences.
 
