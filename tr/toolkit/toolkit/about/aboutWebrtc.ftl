@@ -89,6 +89,7 @@ about-webrtc-log-show-msg = günlüğü göster
 about-webrtc-log-hide-msg = günlüğü gizle
     .title = bu bölümü daraltmak için tıklayın
 about-webrtc-copy-report-button = Raporu kopyala
+about-webrtc-copy-report-history-button = Rapor geçmişini kopyala
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -258,6 +259,11 @@ about-webrtc-sdp-set-timestamp = Zaman damgası { NUMBER($timestamp, useGrouping
 
 about-webrtc-show-msg-sdp = SDP’yi göster
 about-webrtc-hide-msg-sdp = SDP’yi gizle
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
