@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Bogmærker
 migration-favorites-option-label = Favoritter
 migration-logins-and-passwords-option-label = Gemte logins og adgangskoder
 migration-history-option-label = Browserhistorik
+migration-extensions-option-label = Udvidelser
 migration-form-autofill-option-label = Data til autofyldning af formularer
 migration-payment-methods-option-label = Betalingsmetoder
 migration-cookies-option-label = Cookies
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Adgangskoder blev importeret
 migration-passwords-from-file = Kontrollerer fil for adgangskoder
 migration-passwords-new = Nye adgangskoder
 migration-passwords-updated = Eksisterende adgangskoder
+migration-passwords-from-file-no-valid-data = Filen indeholder ikke gyldige adgangskode-data. Vælg en anden fil.
 migration-passwords-from-file-picker-title = Importer fil med adgangskoder
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -149,6 +151,7 @@ migration-list-bookmark-label = bogmærker
 migration-list-favorites-label = favoritter
 migration-list-password-label = adgangskoder
 migration-list-history-label = historik
+migration-list-extensions-label = udvidelser
 migration-list-autofill-label = autofyldnings-data
 migration-list-payment-methods-label = betalingsmetoder
 
@@ -190,6 +193,36 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } favorit
        *[other] { $quantity } favoritter
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } udvidelse
+       *[other] { $quantity } udvidelser
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } af { $quantity } udvidelser
+migration-wizard-progress-extensions-support-link = Læs hvordan { -brand-product-name } matcher udvidelser
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Ingen matchende udvidelser
+migration-wizard-progress-extensions-addons-link = Gennemse udvidelser for { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #

@@ -27,6 +27,10 @@ about-webrtc-auto-refresh-label = Automatisk genindlæsning
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection-ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Åbnede data-kanaler:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Lukkede data-kanaler:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -89,6 +93,7 @@ about-webrtc-log-show-msg = vis log
 about-webrtc-log-hide-msg = skjul log
     .title = klik for at sammenklappe denne sektion
 about-webrtc-copy-report-button = Kopier rapport
+about-webrtc-copy-report-history-button = Kopier rapport-historik
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -258,6 +263,14 @@ about-webrtc-sdp-set-timestamp = Tidsstempel { NUMBER($timestamp, useGrouping: "
 
 about-webrtc-show-msg-sdp = Vis SDP
 about-webrtc-hide-msg-sdp = Skjul SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
+about-webrtc-media-context-show-msg = Vis media-kontekst
+about-webrtc-media-context-hide-msg = Skjul media-kontekst
+about-webrtc-media-context-heading = Medie-kontekst
 
 ##
 
