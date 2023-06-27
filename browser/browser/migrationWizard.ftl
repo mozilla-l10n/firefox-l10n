@@ -58,6 +58,7 @@ migration-bookmarks-option-label = 书签
 migration-favorites-option-label = 收藏夹
 migration-logins-and-passwords-option-label = 保存的登录名和密码
 migration-history-option-label = 浏览历史
+migration-extensions-option-label = 扩展
 migration-form-autofill-option-label = 自动填写表单数据
 migration-payment-methods-option-label = 付款方式
 migration-cookies-option-label = Cookie
@@ -137,6 +138,7 @@ migration-list-bookmark-label = 书签
 migration-list-favorites-label = 收藏夹
 migration-list-password-label = 密码
 migration-list-history-label = 历史记录
+migration-list-extensions-label = 扩展
 migration-list-autofill-label = 自动填写数据
 migration-list-payment-methods-label = 付款方式
 
@@ -170,6 +172,23 @@ migration-wizard-progress-success-bookmarks = { $quantity } 个书签
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-favorites = { $quantity } 个收藏
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions = { $quantity } 个扩展
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = 没有匹配的扩展
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #

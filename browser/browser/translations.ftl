@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = 翻译此页面
+urlbar-translations-button-loading =
+    .tooltiptext = 翻译进行中
 translations-panel-settings-button =
     .aria-label = 管理翻译设置
 # Text displayed on a language dropdown when the language is in beta
