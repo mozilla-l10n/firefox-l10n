@@ -25,6 +25,8 @@ about-webrtc-auto-refresh-label = Aggiorna automaticamente
 
 about-webrtc-auto-refresh-default-label = Aggiorna automaticamente per impostazione predefinita
 
+about-webrtc-force-refresh-button = Aggiorna
+
 ##
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
