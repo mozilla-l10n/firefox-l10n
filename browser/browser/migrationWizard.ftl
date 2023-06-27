@@ -208,6 +208,17 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } uzantı
        *[other] { $quantity } uzantı
     }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched }/{ $quantity } uzantı
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Eşleşen uzantı bulunamadı
+migration-wizard-progress-extensions-addons-link = { -brand-short-name } uzantılarına göz atın
 
 ##
 
