@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = File de contrasignos importate co
 migration-passwords-from-file = Verificar file pro contrasignos
 migration-passwords-new = Nove contrasignos
 migration-passwords-updated = Contrasignos existente
+migration-passwords-from-file-no-valid-data = Le file non include ulle valide datos de contrasigno. Selige un altere file.
 migration-passwords-from-file-picker-title = Importar file de contrasignos
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -108,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Importar file de marcapaginas
 migration-bookmarks-from-file-progress-header = Importation de marcapaginas…
 migration-bookmarks-from-file = Marcapaginas
 migration-bookmarks-from-file-success-header = Marcapaginas importate con successo
+migration-bookmarks-from-file-no-valid-data = Le file non include ulle datos de marcapagina. Selige un altere file.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -213,9 +215,11 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } de { $quantity } extensiones
+migration-wizard-progress-extensions-support-link = Apprende como { -brand-product-name } concorda le extensiones
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Nulle extensiones concordante
+migration-wizard-progress-extensions-addons-link = Navigar per le extensiones pro { -brand-short-name }
 
 ##
 

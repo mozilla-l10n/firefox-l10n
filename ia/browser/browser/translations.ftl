@@ -14,6 +14,8 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Pagina traducite ab { $fromLanguage } a { $toLanguage }
+urlbar-translations-button-loading =
+    .tooltiptext = Traduction in curso
 translations-panel-settings-button =
     .aria-label = Gerer le parametros del traduction
 # Text displayed on a language dropdown when the language is in beta
