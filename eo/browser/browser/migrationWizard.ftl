@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Legosignoj
 migration-favorites-option-label = Plej ŝatataj
 migration-logins-and-passwords-option-label = Konservitaj legitimiloj kaj pasvortoj
 migration-history-option-label = Historio de retumo
+migration-extensions-option-label = Etendaĵoj
 migration-form-autofill-option-label = Datumoj pri aŭtomata plenigo de formularoj
 migration-payment-methods-option-label = Pagmetodoj
 migration-cookies-option-label = Kuketoj
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Pasvortoj sukcese enportitaj
 migration-passwords-from-file = Kontrolo de ekzisto de pasvortoj en dosiero
 migration-passwords-new = Novaj pasvortoj
 migration-passwords-updated = Jamaj pasvortoj
+migration-passwords-from-file-no-valid-data = Tiu dosiero ne enhavas validajn pasvortajn datumojn. Elektu alian dosieron.
 migration-passwords-from-file-picker-title = Enporti dosieron kun pasvortoj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -149,6 +151,7 @@ migration-list-bookmark-label = legosignojn
 migration-list-favorites-label = plej ŝatatajn
 migration-list-password-label = pasvortojn
 migration-list-history-label = historion
+migration-list-extensions-label = etendaĵoj
 migration-list-autofill-label = datumojn de aŭtomata plenigo
 migration-list-payment-methods-label = pagmetodoj
 
@@ -190,6 +193,31 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } plej ŝatata
        *[other] { $quantity } plej ŝatataj
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } etendaĵo
+       *[other] { $quantity } etendaĵoj
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } el { $quantity } etendaĵoj
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
