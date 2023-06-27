@@ -68,6 +68,14 @@ webext-perms-sideload-menu-item =
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = Doplněk { $addonName } vyžaduje nová oprávnění
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons =
+    { -brand-short-name.case-status ->
+        [with-cases] Dokončete instalaci rozšíření importovaných do { -brand-short-name(case: "gen") }
+       *[no-cases] Dokončete instalaci rozšíření importovaných do aplikace { -brand-short-name }
+    }
 
 ## Add-on removal warning
 
