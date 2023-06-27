@@ -58,6 +58,7 @@ migration-bookmarks-option-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 migration-favorites-option-label = ᱠᱩᱥᱤ ᱠᱚ
 migration-logins-and-passwords-option-label = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ
 migration-history-option-label = ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
+migration-extensions-option-label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
 migration-form-autofill-option-label = ᱟᱡ ᱛᱮ ᱯᱟᱨᱮᱡ ᱯᱷᱚᱨᱢ
 migration-payment-methods-option-label = ᱜᱚᱱᱚᱝ ᱦᱚᱨᱟᱠᱚ
 migration-cookies-option-label = ᱠᱩᱠᱤᱡᱽᱠᱚ
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ �
 migration-passwords-from-file = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱟᱹᱜᱤᱫ ᱨᱮᱫ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ
 migration-passwords-new = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 migration-passwords-updated = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
+migration-passwords-from-file-no-valid-data = ᱱᱚᱶᱟ ᱨᱮᱫᱽ ᱨᱮ ᱡᱟᱦᱱᱟᱜ ᱴᱷᱤᱠ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ ᱾ ᱮᱴᱟᱜ ᱨᱮᱫᱽ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 migration-passwords-from-file-picker-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -152,6 +154,7 @@ migration-list-bookmark-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 migration-list-favorites-label = ᱠᱩᱥᱤ ᱠᱚ
 migration-list-password-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 migration-list-history-label = ᱱᱟᱜᱟᱢ
+migration-list-extensions-label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
 migration-list-autofill-label = ᱟᱡ ᱛᱮ ᱯᱮᱨᱮᱡ ᱰᱟᱴᱟ
 migration-list-payment-methods-label = ᱜᱚᱱᱚᱝ ᱦᱚᱨᱟᱠᱚ
 
@@ -193,6 +196,37 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } ᱠᱩᱥᱤ
        *[other] { $quantity } ᱠᱩᱥᱤᱠᱚ
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } ᱯᱟᱥᱱᱟᱣ
+        [two] { $quantity } ᱯᱟᱥᱱᱟᱣᱠᱤᱱ
+       *[other] { $quantity } ᱯᱟᱥᱱᱟᱣᱠᱚ
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $quantity } ᱠᱷᱚᱱ { $matched } ᱯᱟᱥᱱᱟᱣᱠᱚ
+migration-wizard-progress-extensions-support-link = ᱵᱟᱲᱟᱭ ᱢᱮ { -brand-product-name } ᱫᱚ ᱯᱟᱥᱱᱟᱣᱠᱚ ᱪᱮᱫ ᱞᱮᱠᱟᱛᱮ ᱢᱮᱲᱟᱣ ᱮᱫᱟᱭ
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = ᱪᱤᱫ ᱦᱚᱸ ᱢᱮᱲᱟᱣ ᱯᱟᱥᱱᱟᱣ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ
+migration-wizard-progress-extensions-addons-link = { -brand-short-name } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱥᱱᱟᱣᱠᱚ ᱵᱽᱨᱟᱹᱡᱽ ᱢᱮ
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
