@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Yer imleri
 migration-favorites-option-label = Sık kullanılanlar
 migration-logins-and-passwords-option-label = Kayıtlı hesaplar ve parolalar
 migration-history-option-label = Gezinti geçmişi
+migration-extensions-option-label = Uzantılar
 migration-form-autofill-option-label = Otomatik form doldurma verileri
 migration-payment-methods-option-label = Ödeme yöntemleri
 migration-cookies-option-label = Çerezler
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Parolalar başarıyla içe aktar�
 migration-passwords-from-file = Dosyadaki parolalar kontrol ediliyor
 migration-passwords-new = Yeni parolalar
 migration-passwords-updated = Mevcut parolalar
+migration-passwords-from-file-no-valid-data = Bu dosya hiç geçerli parola verisi içermiyor. Başka bir dosya seçin.
 migration-passwords-from-file-picker-title = Parola dosyasını içe aktar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -149,6 +151,7 @@ migration-list-bookmark-label = yer imleri
 migration-list-favorites-label = sık kullanılanlar
 migration-list-password-label = parolalar
 migration-list-history-label = geçmiş
+migration-list-extensions-label = uzantılar
 migration-list-autofill-label = otomatik doldurma verileri
 migration-list-payment-methods-label = ödeme yöntemleri
 
@@ -190,6 +193,24 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } sık kullanılan
        *[other] { $quantity } sık kullanılan
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } uzantı
+       *[other] { $quantity } uzantı
+    }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
