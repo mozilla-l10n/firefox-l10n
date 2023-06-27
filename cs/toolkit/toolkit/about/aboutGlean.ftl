@@ -27,6 +27,8 @@ about-glean-header = Co je { -glean-brand-name }
 about-glean-upload-enabled = Nahrávání dat je povoleno.
 about-glean-upload-disabled = Nahrávání dat je zakázáno.
 about-glean-upload-enabled-local = Nahrávání dat je povoleno pouze pro odesílání na místní server.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Relevantní <a data-l10n-name="fog-prefs-and-defines-doc-link">předvolby a definice</a> zahrnuje:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
@@ -44,5 +46,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = O testování
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (neodesílat žádný ping)
 controls-button-label-verbose = Použít nastavení a odeslat ping
 about-glean-about-data-header = O datech
