@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Lösenord har importerats
 migration-passwords-from-file = Söker efter lösenord i filen
 migration-passwords-new = Nya lösenord
 migration-passwords-updated = Befintliga lösenord
+migration-passwords-from-file-no-valid-data = Filen innehåller inga giltiga lösenordsdata. Välj en annan fil.
 migration-passwords-from-file-picker-title = Importera lösenordsfil
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -150,6 +151,7 @@ migration-list-bookmark-label = bokmärken
 migration-list-favorites-label = favoriter
 migration-list-password-label = lösenord
 migration-list-history-label = historik
+migration-list-extensions-label = tillägg
 migration-list-autofill-label = autofylldata
 migration-list-payment-methods-label = betalningsmetoder
 
@@ -196,6 +198,28 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } tillägg
+       *[other] { $quantity } tillägg
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } av { $quantity } tillägg
+migration-wizard-progress-extensions-support-link = Läs om hur { -brand-product-name } matchar tillägg
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Inga matchande tillägg
+migration-wizard-progress-extensions-addons-link = Bläddra bland tillägg för { -brand-short-name }
 
 ##
 
