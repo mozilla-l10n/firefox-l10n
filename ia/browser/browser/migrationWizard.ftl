@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Marcapaginas
 migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Salvate credentiales e contrasignos
 migration-history-option-label = Chronologia de navigation
+migration-extensions-option-label = Extensiones
 migration-form-autofill-option-label = Completion automatic datos de formularios
 migration-payment-methods-option-label = Methodos de pagamento
 migration-cookies-option-label = Cookies
@@ -148,6 +149,7 @@ migration-list-bookmark-label = marcapaginas
 migration-list-favorites-label = favoritos
 migration-list-password-label = contrasignos
 migration-list-history-label = chronologia
+migration-list-extensions-label = extensiones
 migration-list-autofill-label = autoplenamento de datos
 migration-list-payment-methods-label = methodos de pagamento
 
@@ -189,6 +191,34 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } favorito
        *[other] { $quantity } favoritos
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } extension
+       *[other] { $quantity } extensiones
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } de { $quantity } extensiones
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nulle extensiones concordante
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
