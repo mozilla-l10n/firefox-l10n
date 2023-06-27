@@ -58,13 +58,18 @@ migration-bookmarks-option-label = Marcadores
 migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Credenciales y contraseñas guardadas
 migration-history-option-label = Historial de navegación
+migration-extensions-option-label = Extensiones
 migration-form-autofill-option-label = Datos de autocompletado de formularios
 migration-payment-methods-option-label = Métodos de pago
+migration-cookies-option-label = Cookies
+migration-session-option-label = Ventanas y pestañas
+migration-otherdata-option-label = Otros datos
 migration-passwords-from-file-progress-header = Importar archivo de contraseñas
 migration-passwords-from-file-success-header = Contraseñas importadas con éxito
 migration-passwords-from-file = Revisando archivo de contraseñas
 migration-passwords-new = Nuevas contraseñas
 migration-passwords-updated = Contraseñas existentes
+migration-passwords-from-file-no-valid-data = El archivo no incluye ningún dato de contraseña válido. Elige otro archivo.
 migration-passwords-from-file-picker-title = Importar archivo de contraseñas
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -104,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Importar archivo de marcadores
 migration-bookmarks-from-file-progress-header = Importando marcadores
 migration-bookmarks-from-file = Marcadores
 migration-bookmarks-from-file-success-header = Marcadores importados con éxito
+migration-bookmarks-from-file-no-valid-data = El archivo no incluye ningún dato de marcador. Elige otro archivo.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -145,6 +151,7 @@ migration-list-bookmark-label = marcadores
 migration-list-favorites-label = favoritos
 migration-list-password-label = contraseñas
 migration-list-history-label = historial
+migration-list-extensions-label = extensiones
 migration-list-autofill-label = datos de autocompletado
 migration-list-payment-methods-label = métodos de pago
 
@@ -186,6 +193,36 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } favorito
        *[other] { $quantity } favoritos
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } extensión
+       *[other] { $quantity } extensiones
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } de { $quantity } extensiones
+migration-wizard-progress-extensions-support-link = Aprende cómo { -brand-product-name } busca coincidencias de extensiones
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = No hay extensiones que coincidan
+migration-wizard-progress-extensions-addons-link = Buscar extensiones para { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
