@@ -12,14 +12,13 @@ about-config-intro-warning-button = අවදානම පිළිගෙන ඉ
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = මෙම අභිප්‍රේත වෙනස් කිරීම { -brand-short-name } කාර්ය සාධනයට හෝ ආරක්‍ෂාවට බලපෑ හැකිය.
 about-config-page-title = සංකීර්ණ අභිප්‍රේත
-
 about-config-search-input1 =
     .placeholder = අභිප්‍රේත නාමය සොයන්න
 about-config-show-all = සියල්ල පෙන්වන්න
-
 about-config-show-only-modified = සංශෝධිත අභිප්‍රේත පමණක් පෙන්වන්න
-
 about-config-pref-add-button =
     .title = එකතු
 about-config-pref-edit-button =
