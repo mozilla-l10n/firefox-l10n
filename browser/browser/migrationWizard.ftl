@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Dấu trang
 migration-favorites-option-label = Trang ưa thích
 migration-logins-and-passwords-option-label = Thông tin đăng nhập và mật khẩu đã lưu
 migration-history-option-label = Lịch sử duyệt web
+migration-extensions-option-label = Tiện ích mở rộng
 migration-form-autofill-option-label = Dữ liệu tự động điền biểu mẫu
 migration-payment-methods-option-label = Phương thức thanh toán
 migration-cookies-option-label = Cookie
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Đã nhập mật khẩu thành c
 migration-passwords-from-file = Kiểm tra tập tin cho mật khẩu
 migration-passwords-new = Mật khẩu mới
 migration-passwords-updated = Mật khẩu hiện có
+migration-passwords-from-file-no-valid-data = Tập tin không bao gồm bất kỳ dữ liệu mật khẩu hợp lệ nào. Chọn một tập tin khác.
 migration-passwords-from-file-picker-title = Nhập tập tin mật khẩu
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -137,6 +139,7 @@ migration-list-bookmark-label = dấu trang
 migration-list-favorites-label = trang ưa thích
 migration-list-password-label = mật khẩu
 migration-list-history-label = lịch sử
+migration-list-extensions-label = tiện ích mở rộng
 migration-list-autofill-label = dữ liệu tự động điền
 migration-list-payment-methods-label = phương thức thanh toán
 
@@ -170,6 +173,32 @@ migration-wizard-progress-success-bookmarks = { $quantity } dấu trang
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-favorites = { $quantity } trang ưa thích
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions = { $quantity } tiện ích mở rộng
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } của { $quantity } tiện ích mở rộng
+migration-wizard-progress-extensions-support-link = Tìm hiểu { -brand-product-name } tìm tiện ích mở rộng tương tự
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Không có tiện ích mở rộng tương tự
+migration-wizard-progress-extensions-addons-link = Khám phá tiện ích mở rộng cho { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
