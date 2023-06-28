@@ -4,7 +4,7 @@
 
 pictureinpicture-player-title = රූපයෙන් රූපයට
 pictureinpicture-pause =
-    .aria-label = විරාමය
+    .aria-label = විරාමයක්
 pictureinpicture-play =
     .aria-label = වාදනය
 pictureinpicture-mute =
@@ -19,8 +19,17 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+##
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 pictureinpicture-pause-btn =
-    .aria-label = විරාමය
+    .aria-label = විරාමයක්
     .tooltip = විරාමය (හිස්තැන් යතුර)
 pictureinpicture-play-btn =
     .aria-label = වාදනය
@@ -58,12 +67,21 @@ pictureinpicture-exit-fullscreen-btn =
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
 pictureinpicture-toggle-fullscreen-shortcut =
     .key = F
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+
 pictureinpicture-seekbackward-btn =
     .aria-label = පසුපසට
     .tooltip = පසුපසට (←)
 pictureinpicture-seekforward-btn =
     .aria-label = ඉදිරියට
     .tooltip = ඉදිරියට (→)
+
+##
+
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
