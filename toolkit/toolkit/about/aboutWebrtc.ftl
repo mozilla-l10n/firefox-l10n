@@ -131,9 +131,16 @@ about-webrtc-configuration-element-provided = සපයා ඇත
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = සපයා නැත
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = පරිශ්‍රීලක සැකසූ WebRTC අභිප්‍රේත
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT මි.ත.
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = දෘශ්‍යක රාමු සංඛ්‍යාලේඛන - MediaStreamTrack හැඳු.: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
