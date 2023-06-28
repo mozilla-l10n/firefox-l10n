@@ -15,5 +15,6 @@ error-title-text = මිනිසුන් සාදරයෙන් පිළ�
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ඔවුන්ට සැලසුමක් ඇත.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
-error-try-again = යළි උත්සාහ කරන්න
+# Note: .label2 replaces this label after pressing the button the first time.
+error-try-again = නැවත
     .label2 = මෙම බොත්තම යළි ඔබන්න එපා.
