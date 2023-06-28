@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Ná í nöfn falla fyrir stafla
 about-telemetry-hide-stack-symbols = Sýna hrá staflagögn
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] gögn útgáfunnar
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] virkt
@@ -58,45 +58,45 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } sýni, meðaltal = { $prettyAverage }, summa = { $sum }
        *[other] { $sampleCount } sýni, meðaltal = { $prettyAverage }, summa = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Þessi síða sýnir upplýsingar um afköst, vélbúnað, notkun og sérsnið sem er safnað af fjarmælingu. Þessar upplýsingar eru sendar til { $telemetryServerOwner } til að hjálpa við að betrumbæta { -brand-full-name }.
 about-telemetry-settings-explanation = Fjarmælingar eru að safna { about-telemetry-data-type } og hlaða inn á <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Hvert eintak af upplýsingum er sent samsett til “<a data-l10n-name="ping-link">pings</a>”. Þú ert að athuga { $name }, { $timestamp } ping.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Leita í { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Leita í öllum svæðum
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Niðurstöður fyrir “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Því miður! Engar niðurstöður eru í { $sectionName } fyrir “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Því miður! Engar niðurstöður eru í neinu svæði fyrir “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Því miður! Engin gögn eru tiltæk í “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = fyrirliggjandi gögn
@@ -114,13 +114,13 @@ about-telemetry-slow-sql-statement = Setning
 about-telemetry-addon-table-id = Viðbótar ID
 about-telemetry-addon-table-details = Nánar
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } þjónustuaðili
 about-telemetry-keys-header = Eiginleiki
 about-telemetry-names-header = Nafn
 about-telemetry-values-header = Gildi
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Skrifað seint #{ $lateWriteCount }
 about-telemetry-stack-title = Stafli:
 about-telemetry-memory-map-title = Minniskort:
@@ -131,3 +131,6 @@ about-telemetry-method-header = aðferð
 about-telemetry-object-header = hlutur
 about-telemetry-extra-header = auka
 about-telemetry-origin-count = fjöldi
+# Variables:
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } ferli
