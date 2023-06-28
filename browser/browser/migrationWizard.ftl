@@ -215,6 +215,7 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } de { $quantity } extensións
+migration-wizard-progress-extensions-support-link = Aprende como { -brand-product-name } busca coincidencias de extensións
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Non hai extensións coincidentes
