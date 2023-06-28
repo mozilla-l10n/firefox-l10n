@@ -19,3 +19,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN sbaliât. Torne prove.
 webauthn-pin-required-prompt = Inserìs il PIN pal to dispositîf.
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Verifiche utent falide. Tu âs ancjemò { $retriesLeft } tentatîf. Torne prove.
+       *[other] Verifiche utent falide. Tu âs ancjemò { $retriesLeft } tentatîfs. Torne prove.
+    }
+webauthn-uv-invalid-short-prompt = Verifiche utent falide. Torne prove.
