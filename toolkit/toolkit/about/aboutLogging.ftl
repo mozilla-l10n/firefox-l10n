@@ -2,25 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = Um atvikaskráningu
+about-logging-page-title = Umsýsla atvikaskráningar
 about-logging-current-log-file = Núverandi skráningarskrá:
 about-logging-new-log-file = Ný atvikaskrá:
 about-logging-log-tutorial = Kíktu á<a data-l10n-name="logging">HTTP Logging</a> fyrir upplýsngar um hvernig á að nota þetta verkfæri.
@@ -31,8 +15,12 @@ about-logging-set-log-modules = Setja skráningar einingar
 about-logging-start-logging = Hefja skráningu
 about-logging-stop-logging = Stöðva skráningu
 about-logging-info = Upplýsingar:
+about-logging-logging-output-selection = Frálag atvikaskráningar
+about-logging-logging-to-file = Skráir í skrá
+about-logging-logging-to-profiler = Atvikaskráning í { -profiler-brand-name }
 about-logging-no-log-modules = Ekkert
 about-logging-no-log-file = Ekkert
+about-logging-logging-preset-selector-text = Forstilling atvikaskráningar:
 
 ## Logging presets
 
