@@ -188,6 +188,13 @@ about-webrtc-trickle-caption-msg = Leka umsækjendur (sem er sent eftir svar) er
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = Sýna SDP
+about-webrtc-hide-msg-sdp = Fela SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
