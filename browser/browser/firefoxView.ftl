@@ -81,6 +81,8 @@ firefoxview-collapse-button-show =
     .title = แสดงรายการ
 firefoxview-collapse-button-hide =
     .title = ซ่อนรายการ
+firefoxview-overview-nav = การเรียกดูล่าสุด
+    .title = การเรียกดูล่าสุด
 
 ## History in this context refers to browser history
 
@@ -90,10 +92,14 @@ firefoxview-history-header = ประวัติ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = แท็บที่เปิด
+    .title = แท็บที่เปิด
 firefoxview-opentabs-header = แท็บที่เปิด
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = แท็บที่ปิดล่าสุด
+    .title = แท็บที่ปิดล่าสุด
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
