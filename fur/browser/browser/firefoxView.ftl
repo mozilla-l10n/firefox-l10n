@@ -112,3 +112,15 @@ firefoxview-synced-tabs-header = Schedis di altris dispositîfs
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Mostre dut
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Barcon { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Barcon { $winID } (atuâl)
+firefoxview-opentabs-focus-tab =
+    .title = Passe a cheste schede
+firefoxview-show-more = Mostre di plui
+firefoxview-show-less = Mostre di mancul

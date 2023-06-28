@@ -58,13 +58,18 @@ migration-bookmarks-option-label = Segnelibris
 migration-favorites-option-label = Preferîts
 migration-logins-and-passwords-option-label = Credenziâls e passwords salvadis
 migration-history-option-label = Cronologjie di navigazion
+migration-extensions-option-label = Estensions
 migration-form-autofill-option-label = Dâts pe compilazion automatiche dai formularis
 migration-payment-methods-option-label = Metodis di paiament
+migration-cookies-option-label = Cookies
+migration-session-option-label = Barcons e schedis
+migration-otherdata-option-label = Altris dâts
 migration-passwords-from-file-progress-header = Impuarte file des passwords
 migration-passwords-from-file-success-header = Passwords impuartadis cun sucès
 migration-passwords-from-file = Daûr a controlâ il file pes passwords
 migration-passwords-new = Gnovis passwords
 migration-passwords-updated = Passwords esistentis
+migration-passwords-from-file-no-valid-data = Il file nol inclût nissune informazion valide relative aes passwords. Sielç un altri file.
 migration-passwords-from-file-picker-title = Impuarte file des passwords
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -104,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Importazion file di segnelibris
 migration-bookmarks-from-file-progress-header = Daûr a impuartâ i segnelibris
 migration-bookmarks-from-file = Segnelibris
 migration-bookmarks-from-file-success-header = Segnelibris impuartâts cun sucès
+migration-bookmarks-from-file-no-valid-data = Il file nol inclût nissune informazion relative ai segnelibris. Sielç un altri file.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -145,6 +151,7 @@ migration-list-bookmark-label = segnelibris
 migration-list-favorites-label = preferîts
 migration-list-password-label = passwords
 migration-list-history-label = cronologjie
+migration-list-extensions-label = estensions
 migration-list-autofill-label = dâts pe auto-compilazion
 migration-list-payment-methods-label = metodis di paiament
 
@@ -186,6 +193,36 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } preferît
        *[other] { $quantity } preferîts
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } estension
+       *[other] { $quantity } estensions
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } di { $quantity } estensions
+migration-wizard-progress-extensions-support-link = Scuvierç cemût che { -brand-product-name } al cjate corispondencis tra lis estensions
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nissune estension corispondente
+migration-wizard-progress-extensions-addons-link = Bute un voli aes estensions par { -brand-short-name }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
