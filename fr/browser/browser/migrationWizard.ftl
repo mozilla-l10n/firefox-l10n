@@ -208,6 +208,17 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } extension
        *[other] { $quantity } extensions
     }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions =
+    { $matched ->
+        [one] { $matched } extension sur { $quantity }
+       *[other] { $matched } extensions sur { $quantity }
+    }
 migration-wizard-progress-extensions-addons-link = Parcourir les extensions pour { -brand-short-name }
 
 ##
