@@ -7,6 +7,8 @@ about-networking-http = HTTP
 about-networking-sockets = Tengill
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Hreinsa DNS-skyndiminni
+about-networking-dns-trr-url = DoH vefslóð
+about-networking-dns-trr-mode = DoH hamur
 about-networking-dns-suffix = DNS-viðskeyti
 about-networking-websockets = WebSockets
 about-networking-refresh = Endurlesa
@@ -25,6 +27,7 @@ about-networking-family = Fjölskylda
 about-networking-trr = TRR
 about-networking-addresses = Netföng
 about-networking-expires = Rennur út (Sekúndur)
+about-networking-originAttributesSuffix = Einangrunarlykill
 about-networking-flags = Viðbótarflögg
 about-networking-messages-sent = Skilaboð send
 about-networking-messages-received = Skilaboð móttekin
@@ -58,6 +61,10 @@ about-networking-rcwn-avg-long = Long Average
 about-networking-rcwn-std-dev-long = Long Standard Deviation
 about-networking-rcwn-cache-slow = Fjöldi þar sem skyndiminnis var hægt
 about-networking-rcwn-cache-not-slow = Fjöldi þar sem skyndiminnis var ekki hægt
+about-networking-networkid = Auðkenni netkerfis
+about-networking-networkid-id = Auðkenni netkerfis
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Þessi síða hefur verið færð á <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
