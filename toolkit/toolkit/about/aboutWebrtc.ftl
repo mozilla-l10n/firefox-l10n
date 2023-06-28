@@ -41,6 +41,7 @@ about-webrtc-local-sdp-heading-answer = ස්ථානීය SDP (උත්ත�
 about-webrtc-remote-sdp-heading = දුරස්ථ SDP
 about-webrtc-remote-sdp-heading-answer = දුරස්ථ SDP (උත්තරය)
 about-webrtc-sdp-history-heading = SDP ඉතිහාසය
+about-webrtc-sdp-parsing-errors-heading = SDP විග්‍රහ දෝෂ
 
 ##
 
@@ -84,6 +85,8 @@ about-webrtc-log-show-msg = සටහන පෙන්වන්න
     .title = මෙම කොටස දිගහැරීමට ඔබන්න
 about-webrtc-log-hide-msg = සටහන සඟවන්න
     .title = මෙම කොටස හැකිළීමට ඔබන්න
+about-webrtc-copy-report-button = වාර්තාවේ පිටපතක්
+about-webrtc-copy-report-history-button = වාර්තාවේ ඉතිහාසයේ පිටපතක්
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -163,11 +166,16 @@ about-webrtc-channels =
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = SDP පෙන්වන්න
+about-webrtc-hide-msg-sdp = SDP සඟවන්න
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = මාධ්‍ය සන්දර්භය පෙන්වන්න
+about-webrtc-media-context-hide-msg = මාධ්‍ය සන්දර්භය සඟවන්න
+about-webrtc-media-context-heading = මාධ්ය සන්දර්භය
 
 ##
 
