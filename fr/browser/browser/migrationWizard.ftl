@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Mots de passe correctement import
 migration-passwords-from-file = Recherche des mots de passe dans le fichier
 migration-passwords-new = Nouveaux mots de passe
 migration-passwords-updated = Mots de passe existants
+migration-passwords-from-file-no-valid-data = Ce fichier ne contient pas de données de mots de passe. Choisissez un autre fichier.
 migration-passwords-from-file-picker-title = Importer un fichier de mots de passe
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -197,6 +198,17 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } extension
+       *[other] { $quantity } extensions
+    }
+migration-wizard-progress-extensions-addons-link = Parcourir les extensions pour { -brand-short-name }
 
 ##
 
