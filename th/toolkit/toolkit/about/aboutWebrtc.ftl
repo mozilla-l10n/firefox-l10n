@@ -88,6 +88,7 @@ about-webrtc-log-show-msg = แสดงรายการบันทึก
     .title = คลิกเพื่อขยายส่วนนี้
 about-webrtc-log-hide-msg = ซ่อนรายการบันทึก
     .title = คลิกเพื่อยุบส่วนนี้
+about-webrtc-copy-report-button = คัดลอกรายงาน
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -252,6 +253,11 @@ about-webrtc-sdp-set-timestamp = ประทับเวลา { NUMBER($timest
 
 about-webrtc-show-msg-sdp = แสดง SDP
 about-webrtc-hide-msg-sdp = ซ่อน SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
