@@ -93,6 +93,7 @@ about-webrtc-log-show-msg = amosar rexistro
 about-webrtc-log-hide-msg = agochar rexistro
     .title = prema para contraer esta sección
 about-webrtc-copy-report-button = Copiar informe
+about-webrtc-copy-report-history-button = Copiar o historial do informe
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -267,6 +268,9 @@ about-webrtc-hide-msg-sdp = Agochar o SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Mostrar contexto de medios
+about-webrtc-media-context-hide-msg = Ocultar contexto de medios
+about-webrtc-media-context-heading = Contexto de medios
 
 ##
 
