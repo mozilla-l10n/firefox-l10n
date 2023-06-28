@@ -8,6 +8,10 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name } සඳහා වාර්තාව
+abuse-report-title-extension = මෙම දිගුව { -vendor-short-name } වෙත වාර්තා කරන්න
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a> වෙතින්
 abuse-report-textarea =
     .placeholder = නිශ්චිත කරුණක් තිබේ නම් අපට ගැටළුවක් විසඳීමට පහසුය. ඔබ අත්විඳින දේ විස්තර කරන්න. වියමන හිතකර අයුරින් තබා ගැනීම සඳහා අපට උදවු කිරීමට තුති.
 
