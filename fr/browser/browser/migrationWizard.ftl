@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Marque-pages
 migration-favorites-option-label = Favoris
 migration-logins-and-passwords-option-label = Identifiants et mots de passe enregistrés
 migration-history-option-label = Historique de navigation
+migration-extensions-option-label = Extensions
 migration-form-autofill-option-label = Données de remplissage automatique des formulaires
 migration-payment-methods-option-label = Moyens de paiement
 migration-cookies-option-label = Cookies
@@ -149,6 +150,7 @@ migration-list-bookmark-label = marque-pages
 migration-list-favorites-label = favoris
 migration-list-password-label = mots de passe
 migration-list-history-label = historique
+migration-list-extensions-label = extensions
 migration-list-autofill-label = données de remplissage automatique
 migration-list-payment-methods-label = moyens de paiement
 
@@ -190,6 +192,14 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } favori
        *[other] { $quantity } favoris
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
