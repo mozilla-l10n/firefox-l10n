@@ -88,9 +88,9 @@ downloads-cmd-show-description-2 =
 downloads-cmd-show-downloads =
     .label = බාගැනීමේ බහාලුම පෙන්වන්න
 downloads-cmd-retry =
-    .tooltiptext = යළි උත්සාහය
+    .tooltiptext = නැවත
 downloads-cmd-retry-panel =
-    .aria-label = යළි උත්සාහය
+    .aria-label = නැවත
 downloads-cmd-go-to-download-page =
     .label = බාගැනීමේ පිටුවට යන්න
     .accesskey = G
@@ -172,7 +172,7 @@ downloading-file-click-to-open =
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
-    .value = බාගැනීමට යළි උත්සාහය
+    .value = නැවත බාගන්න
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
@@ -183,7 +183,7 @@ downloads-cancel-download =
 downloads-history =
     .label = සියළු බාගැනීම් පෙන්වන්න
     .accesskey = S
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = බාගැනීමේ විස්තර
