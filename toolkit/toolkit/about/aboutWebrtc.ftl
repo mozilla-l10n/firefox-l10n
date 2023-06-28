@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC අභ්‍යන්තර
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ලෙස about:webrtc සුරකින්න
@@ -19,7 +18,6 @@ about-webrtc-aec-logging-msg-label = AEC සටහන් තැබීම
 about-webrtc-aec-logging-off-state-label = AEC සටහන් තැබීම අරඹන්න
 about-webrtc-aec-logging-on-state-label = AEC සටහන නවතන්න
 about-webrtc-aec-logging-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
-
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = ස්වයං නැවුම් කිරීම
 
@@ -29,6 +27,10 @@ about-webrtc-auto-refresh-label = ස්වයං නැවුම් කිර�
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection හැඳු.:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = විවෘත දත්ත නාලිකා:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = වැසුනු දත්ත නාලිකා:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -70,7 +72,6 @@ about-webrtc-type-remote = දුරස්ථ
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = තෝරාගත්
-
 about-webrtc-save-page-label = පිටුව සුරකින්න
 about-webrtc-debug-mode-msg-label = නිදොස්කරණ ප්‍රකාරය
 about-webrtc-debug-mode-off-state-label = නිදොස්කරණ ප්‍රකාරය අරඹන්න
@@ -113,16 +114,18 @@ about-webrtc-rotation-degrees = කරකැවීම (අංශක)
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+
 ##
 
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = සපයා ඇත
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = සපයා නැත
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT මි.ත.
@@ -145,7 +148,6 @@ about-webrtc-frames =
         [one] රාමු { $frames }
        *[other] රාමු { $frames }
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -157,6 +159,14 @@ about-webrtc-channels =
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
+
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
 
 
 ##
