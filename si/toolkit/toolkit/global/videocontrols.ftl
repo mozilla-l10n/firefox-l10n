@@ -13,7 +13,7 @@ videocontrols-volume-control =
 videocontrols-play-button =
     .aria-label = වාදනය
 videocontrols-pause-button =
-    .aria-label = විරාමය
+    .aria-label = විරාමයක්
 videocontrols-mute-button =
     .aria-label = නිහඬ
 videocontrols-unmute-button =
@@ -24,6 +24,8 @@ videocontrols-exitfullscreen-button =
     .aria-label = පූර්ණ තිරයෙන් පිටවන්න
 videocontrols-casting-button-label =
     .aria-label = තිරයට විකාශනය
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = අක්‍රිය
 # This string is used as part of the Picture-in-Picture video toggle button when

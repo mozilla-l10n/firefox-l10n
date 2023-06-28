@@ -120,6 +120,8 @@ about-webrtc-rotation-degrees = කරකැවීම (අංශක)
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = වින්‍යාසය පෙන්වන්න
+about-webrtc-pc-configuration-hide-msg = වින්‍යාසය සඟවන්න
 
 ##
 
