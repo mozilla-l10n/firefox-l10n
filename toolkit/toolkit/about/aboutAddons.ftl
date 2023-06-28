@@ -208,6 +208,9 @@ extensions-warning-update-security = Il controllo sulla sicurezza degli aggiorna
 extensions-warning-update-security-button = Attiva
     .title = Attiva il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi
 
+extensions-warning-imported-addons = Completa l’installazione delle estensioni importate in { -brand-short-name }.
+extensions-warning-imported-addons-button = Installa estensioni
+
 ## Strings connected to add-on updates
 
 addon-updates-check-for-updates = Controlla aggiornamenti
