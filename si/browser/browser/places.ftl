@@ -71,6 +71,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = බහාලුම සංස්කරණය…
     .accesskey = E
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
@@ -114,6 +116,9 @@ places-create-bookmark =
            *[other] පිටුවලට පොත්යොමු…
         }
     .accesskey = B
+places-untag-bookmark =
+    .label = අනන්‍යනය ඉවතලන්න
+    .accesskey = R
 places-manage-bookmarks =
     .label = පොත්යොමු කළමනාකරණය
     .accesskey = M
@@ -227,6 +232,14 @@ places-forward-button =
 places-details-pane-select-an-item-description = ගුණාංග දැකීමට සහ සංස්කරණයට අංගයක් තෝරන්න
 places-details-pane-no-items =
     .value = අංග නැත
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] අථකයක්
+           *[other] අථක { $count }
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".

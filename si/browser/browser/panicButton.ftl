@@ -24,6 +24,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = ඉදිරියට යාමෙන්:
 panic-button-delete-cookies = මෑත <strong>දත්තකඩ</strong> මකන්න
 panic-button-delete-history = මෑත <strong>ඉතිහාසය</strong> මකන්න
 panic-button-delete-tabs-and-windows = සියළුම <strong>පටිති</strong> හා <strong>කවුළු</strong> වසන්න
