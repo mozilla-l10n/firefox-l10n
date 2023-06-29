@@ -89,8 +89,8 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = K
 protections-panel-content-blocking-breakage-report-view =
     .title = Bozuk Bir Siteyi Bildirin
-protections-panel-content-blocking-breakage-report-view-description = Bazı takipçileri engellemek bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz { -brand-short-name } tarayıcısını iyileştirme şansımız olur. Bu rapor, sayfanın adresini ve tarayıcı ayarlarınızla ilgili bilgileri Mozilla’ya gönderir. <label data-l10n-name="learn-more">Daha fazla bilgi alın</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Bazı takipçileri engellemek bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz { -brand-short-name } tarayıcısını iyileştirme şansımız olur. Bu rapor, sayfanın adresini ve tarayıcı ayarlarınızla ilgili bilgileri { -vendor-short-name }’ya gönderir.
+protections-panel-content-blocking-breakage-report-view-description = Bazı takip kodlarını engellemek bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz { -brand-short-name } tarayıcısını iyileştirme şansımız olur. Bu rapor, sayfanın adresini ve tarayıcı ayarlarınızla ilgili bilgileri Mozilla’ya gönderir. <label data-l10n-name="learn-more">Daha fazla bilgi alın</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Bazı takip kodlarını engellemek bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz { -brand-short-name } tarayıcısını iyileştirme şansımız olur. Bu rapor, sayfanın adresini ve tarayıcı ayarlarınızla ilgili bilgileri { -vendor-short-name }’ya gönderir.
 protections-panel-content-blocking-breakage-report-view-collection-url = Adres
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adres
