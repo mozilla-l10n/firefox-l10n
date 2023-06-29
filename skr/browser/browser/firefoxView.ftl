@@ -116,6 +116,10 @@ firefoxview-view-all-link = سارے ݙیکھو
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
     .title = ونڈو { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = ونڈو { $winID } (حالیہ)
 firefoxview-opentabs-focus-tab =
     .title = ایں ٹیب تے سوئچ کرو
 firefoxview-show-more = ودھیک ݙکھاؤ

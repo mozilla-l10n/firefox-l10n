@@ -57,6 +57,7 @@ migration-bookmarks-option-label = نشانیاں
 migration-favorites-option-label = من بھان٘دے
 migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
+migration-extensions-option-label = ایکسٹینشنز
 migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
 migration-payment-methods-option-label = ادائیگی طریقے
 migration-cookies-option-label = کوکیاں
@@ -145,6 +146,7 @@ migration-list-bookmark-label = نشانیاں
 migration-list-favorites-label = من بھان٘دے
 migration-list-password-label = پاس ورڈز
 migration-list-history-label = تاریخ
+migration-list-extensions-label = ایکسٹینشنز
 migration-list-autofill-label = آٹوفل ڈیٹا
 migration-list-payment-methods-label = ادائیگی طریقے
 
@@ -186,6 +188,14 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } من بھان٘دا
        *[other] { $quantity } من بھان٘دے
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
