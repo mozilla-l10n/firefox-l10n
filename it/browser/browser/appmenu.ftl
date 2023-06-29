@@ -242,6 +242,7 @@ appmenu-recently-closed-tabs =
     .label = Schede chiuse di recente
 appmenu-recently-closed-windows =
     .label = Finestre chiuse di recente
+
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Cerca nella cronologia
@@ -265,6 +266,9 @@ appmenu-help-share-ideas =
     .label = Condividi idee e feedback…
     .accesskey = k
 
+appmenu-help-switch-device =
+    .label = Passaggio a un nuovo dispositivo
+
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -274,8 +278,6 @@ appmenu-help-enter-troubleshoot-mode2 =
 appmenu-help-exit-troubleshoot-mode =
     .label = Disattiva Modalità risoluzione problemi
     .accesskey = m
-appmenu-help-switch-device =
-    .label = Passaggio a un nuovo dispositivo
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

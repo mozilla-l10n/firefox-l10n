@@ -47,11 +47,12 @@ third-party-icon-warning =
 third-party-status-loaded = Caricato
 third-party-status-blocked = Bloccato
 third-party-status-redirected = Reindirizzato
+
+third-party-button-copy-to-clipboard = Copia i dati non elaborati negli appunti
 third-party-loading-data =
     .alt = Caricamento informazioni sul sistema…
     .title = Caricamento informazioni sul sistema…
 
-third-party-button-copy-to-clipboard = Copia i dati non elaborati negli appunti
 third-party-button-reload = Ricarica con informazioni di sistema
     .title = Ricarica con informazioni di sistema
 third-party-button-open =
@@ -72,10 +73,8 @@ third-party-button-expand =
     .title = Mostra informazioni dettagliate
 third-party-button-collapse =
     .title = Nascondi informazioni dettagliate
-third-party-requires-restart = È necessario riavviare { -brand-short-name } per modificare quali moduli di terze parti sono bloccati.
 third-party-blocking-requires-restart = Per bloccare un modulo di terze parti è necessario riavviare { -brand-short-name }.
 third-party-should-restart-title = Riavvia { -brand-short-name }
-third-party-should-restart-ok = Riavvia { -brand-short-name } adesso
 third-party-restart-now = Riavvia adesso
 third-party-restart-later = Riavvia più tardi
 

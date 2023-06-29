@@ -16,20 +16,6 @@ firefox-relay-must-login-to-fxa = È necessario accedere all’{ -fxaccount-bran
 firefox-relay-get-unlimited-masks =
     .label = Gestisci alias
     .accesskey = G
-firefox-relay-opt-in-title = Proteggi il tuo indirizzo email
-firefox-relay-opt-in-subtitle = Aggiungi { -relay-brand-name }
-firefox-relay-generate-mask-title = Proteggi il tuo indirizzo email
-firefox-relay-generate-mask-subtitle = Genera un alias { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Continua
-    .accesskey = C
-firefox-relay-opt-in-confirmation-disable =
-    .label = Non mostrare di nuovo questo messaggio
-    .accesskey = m
-firefox-relay-opt-in-confirmation-postpone =
-    .label = Non adesso
-    .accesskey = N
-
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Proteggi il tuo indirizzo email:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
@@ -39,3 +25,10 @@ firefox-relay-use-mask-title = Utilizza un alias di posta elettronica { -relay-b
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Utilizza alias di posta elettronica
     .accesskey = U
+firefox-relay-opt-in-confirmation-disable =
+    .label = Non mostrare di nuovo questo messaggio
+    .accesskey = m
+firefox-relay-opt-in-confirmation-postpone =
+    .label = Non adesso
+    .accesskey = N
+

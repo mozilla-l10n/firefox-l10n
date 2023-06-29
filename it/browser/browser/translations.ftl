@@ -21,6 +21,7 @@ urlbar-translations-button-loading =
 
 translations-panel-settings-button =
     .aria-label = Gestisci impostazioni per la traduzione
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -32,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Gestisci lingue
 translations-panel-settings-about = Informazioni sulle traduzioni in { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -39,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Traduci sempre da { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Traduci sempre da questa lingua
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -46,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Non tradurre mai da { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Non tradurre mai da questa lingua
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Non tradurre mai questo sito
@@ -60,11 +64,13 @@ translations-panel-translate-button-loading =
   .label = Attendere…
 translations-panel-translate-cancel =
     .label = Annulla
+
 translations-panel-error-translating = Si è verificato un problema durante la traduzione. Riprova.
 translations-panel-error-load-languages = Impossibile caricare le lingue
 translations-panel-error-load-languages-hint = Verifica la connessione a Internet e riprova.
 translations-panel-error-load-languages-hint-button =
     .label = Riprova
+
 translations-panel-error-unsupported = La traduzione non è disponibile per questa pagina
 translations-panel-error-dismiss-button =
     .label = OK
@@ -122,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Si è verificato un errore durante il download dei file. Riprova.
 translations-manage-error-delete = Si è verificato un errore durante l’eliminazione dei file della lingua. Riprova.
 translations-manage-error-list = Impossibile ottenere l’elenco delle lingue disponibili per la traduzione. Aggiorna la pagina per riprovare.
+
 translations-settings-title =
     .title = Impostazioni traduzione
     .style = min-width: 36em
