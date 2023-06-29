@@ -59,7 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] Διατήρηση στο Dock
        *[other] Καρφίτσωμα στη γραμμή εργασιών
     }
-about-private-browsing-pin-promo-title = Χωρίς αποθήκευση cookies ή ιστορικού, απευθείας από την επιφάνεια εργασίας σας. Περιηγηθείτε σαν να μην σας παρακολουθεί κανείς.
+about-private-browsing-pin-promo-title = Χωρίς αποθήκευση cookies ή ιστορικού, απευθείας από την επιφάνεια εργασίας σας. Περιηγηθείτε σαν να μη σας παρακολουθεί κανείς.
 
 ## Strings used in a promotion message for cookie banner reduction
 

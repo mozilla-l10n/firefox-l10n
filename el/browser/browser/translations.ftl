@@ -40,12 +40,12 @@ translations-panel-settings-always-translate-unknown-language =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
-    .label = Να μην μεταφράζονται ποτέ τα { $language }
+    .label = Να μη μεταφράζονται ποτέ τα { $language }
 translations-panel-settings-never-translate-unknown-language =
-    .label = Να μην μεταφράζεται ποτέ αυτή η γλώσσα
+    .label = Να μη μεταφράζεται ποτέ αυτή η γλώσσα
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = Να μην μεταφράζεται ποτέ αυτός ο ιστότοπος
+    .label = Να μη μεταφράζεται ποτέ αυτός ο ιστότοπος
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
