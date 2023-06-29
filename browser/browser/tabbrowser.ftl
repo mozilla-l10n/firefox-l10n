@@ -56,8 +56,8 @@ tabbrowser-confirm-close-tabs-checkbox = 여러 탭을 닫기 전에 확인
 tabbrowser-confirm-close-windows-title = 창 { $windowCount }개를 닫으시겠습니까?
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
-        [windows] 닫고 종료
-       *[other] 닫고 종료
+        [windows] 닫기 및 종료
+       *[other] 닫기 및 종료
     }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
