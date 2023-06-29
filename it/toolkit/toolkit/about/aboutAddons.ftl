@@ -405,6 +405,12 @@ addon-detail-updates-radio-on = Attivo
 addon-detail-updates-radio-off = Disattivato
 addon-detail-update-check-label = Controlla aggiornamenti
 install-update-button = Aggiorna
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 addon-badge-private-browsing-allowed2 =
     .title = Attiva in finestre anonime
