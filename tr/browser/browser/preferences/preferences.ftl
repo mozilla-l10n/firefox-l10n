@@ -5,7 +5,7 @@
 do-not-track-description = Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder
 do-not-track-learn-more = Daha fazla bilgi al
 do-not-track-option-default-content-blocking-known =
-    .label = Yalnızca { -brand-short-name } bilinen takipçileri engellemeye ayarlandığında
+    .label = Yalnızca { -brand-short-name } bilinen takip kodlarını engellemeye ayarlandığında
 do-not-track-option-always =
     .label = Her zaman
 settings-page-title = Ayarlar
@@ -975,7 +975,7 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Engellenecek tür
     .accesskey = ü
 sitedata-option-block-cross-site-trackers =
-    .label = Siteler arası takipçiler
+    .label = Siteler arası takip kodları
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Siteler arası takip çerezleri
 sitedata-option-block-cross-site-cookies =
@@ -1038,7 +1038,7 @@ addressbar-quickactions-learn-more = Daha fazla bilgi al
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Gelişmiş izlenme koruması
-content-blocking-section-top-level-description = Takipçiler, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takipçilerin ve diğer kötü amaçlı betiklerin çoğunu engeller.
+content-blocking-section-top-level-description = Takip kodları, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takip kodlarının ve diğer kötü amaçlı betiklerin çoğunu engeller.
 content-blocking-learn-more = Daha fazla bilgi al
 content-blocking-fpi-incompatibility-warning = First Party Isolation (FPI) özelliğini kullanıyorsunuz. Bu özellik, bazı { -brand-short-name } çerez ayarları geçersiz kılar.
 
@@ -1060,15 +1060,15 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
-content-blocking-etp-custom-desc = Hangi takipçilerin ve betiklerin engelleneceğini seçin.
+content-blocking-etp-custom-desc = Hangi takip kodlarının ve betiklerin engelleneceğini seçin.
 content-blocking-etp-blocking-desc = { -brand-short-name } aşağıdakileri engeller:
 content-blocking-private-windows = Gizli pencelerde takip amaçlı içerikler
 content-blocking-cross-site-cookies-in-all-windows = Tüm pencerelerde siteler arası çerezler (takip çerezleri dahil)
 content-blocking-cross-site-cookies-in-all-windows2 = Tüm pencerelerde siteler arası çerezler
 content-blocking-cross-site-tracking-cookies = Siteler arası takip çerezleri
 content-blocking-all-cross-site-cookies-private-windows = Gizli pencerelerde siteler arası çerezler
-content-blocking-cross-site-tracking-cookies-plus-isolate = Siteler arası takipçiler ve takip çerezleri, kalan çerezleri izole et
-content-blocking-social-media-trackers = Sosyal medya takipçileri
+content-blocking-cross-site-tracking-cookies-plus-isolate = Siteler arası takip kodları ve takip çerezleri, kalan çerezleri izole et
+content-blocking-social-media-trackers = Sosyal medya takip kodları
 content-blocking-all-cookies = Tüm çerezler
 content-blocking-unvisited-cookies = Ziyaret etmediğim sitelerden gelen çerezler
 content-blocking-all-windows-tracking-content = Tüm pencerelerde takip amaçlı içerikler
