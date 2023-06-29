@@ -226,6 +226,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = බාගැනීමේ දෝෂයකි
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = { $extension } මගින් බාගැනීම අවහිර කර ඇති නිසා එය සුරැකීමට නොහැකිය.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = දිගුවක් මගින් බාගැනීම අවහිර කර ඇති නිසා එය සුරැකීමට නොහැකිය.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     නොදන්නා දෝෂයක් සිදු වීම නිසා මෙම බාගැනීම සුරැකීමට නොහැකිය
