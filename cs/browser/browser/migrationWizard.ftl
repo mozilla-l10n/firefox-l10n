@@ -236,7 +236,11 @@ migration-wizard-progress-extensions-support-link = Zjistěte, jak { -brand-prod
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Žádná rozpoznaná rozšíření
-migration-wizard-progress-extensions-addons-link = Prohledávat rozšíření pro { -brand-short-name }
+migration-wizard-progress-extensions-addons-link =
+    { -brand-short-name.case-status ->
+        [with-cases] Prohledávat rozšíření pro { -brand-short-name(case: "acc") }
+       *[no-cases] Prohledávat rozšíření pro aplikaci { -brand-short-name }
+    }
 
 ##
 
