@@ -81,7 +81,7 @@ toolbar-button-fxaccount =
 ## Save Page
 
 main-context-menu-page-save =
-    .label = …ලෙස පිටුව සුරකින්න
+    .label = මෙලෙස පිටුව සුරකින්න
     .accesskey = P
 
 ## Simple menu items
@@ -172,7 +172,7 @@ main-context-menu-bookmark-link-2 =
     .label = සබැඳියට පොත්යොමුවක්…
     .accesskey = B
 main-context-menu-save-link =
-    .label = …ලෙස සබැඳිය සුරකින්න
+    .label = මෙලෙස සබැඳිය සුරකින්න
     .accesskey = k
 main-context-menu-save-link-to-pocket =
     .label = { -pocket-brand-name } වෙත සබැඳිය සුරකින්න
@@ -275,7 +275,7 @@ main-context-menu-audio-copy-link =
     .label = හඬපටයේ සබැඳියේ පිටපතක්
     .accesskey = o
 main-context-menu-image-save-as =
-    .label = …ලෙස රූපය සුරකින්න
+    .label = මෙලෙස රූපය සුරකින්න
     .accesskey = v
 main-context-menu-image-email =
     .label = රූපය තැපැල් කරන්න...
@@ -293,10 +293,10 @@ main-context-menu-image-desc =
     .label = සවිස්තරය පෙන්වන්න
     .accesskey = D
 main-context-menu-video-save-as =
-    .label = …ලෙස දෘශ්‍යකය සුරකින්න
+    .label = මෙලෙස දෘශ්‍යකය සුරකින්න
     .accesskey = v
 main-context-menu-audio-save-as =
-    .label = …ලෙස හඬපටය සුරකින්න
+    .label = මෙලෙස හඬපටය සුරකින්න
     .accesskey = v
 main-context-menu-video-take-snapshot =
     .label = තිරසේයාවක් ගන්න…
@@ -333,6 +333,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = { -relay-brand-short-name } වි-තැපැල් වැස්ම යොදාගන්න
+    .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = ශක්තිමත් මුරපදයක් යෝජනා කරන්න…
     .accesskey = S
@@ -367,7 +370,7 @@ main-context-menu-frame-add-bookmark =
     .label = රාමුවට පොත්යොමුවක්…
     .accesskey = m
 main-context-menu-frame-save-as =
-    .label = …ලෙස රාමුව සුරකින්න
+    .label = මෙලෙස රාමුව සුරකින්න
     .accesskey = F
 main-context-menu-frame-print =
     .label = රාමුව මුද්‍රණය…

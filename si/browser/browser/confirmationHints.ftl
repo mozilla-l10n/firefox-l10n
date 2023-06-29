@@ -12,3 +12,7 @@ confirmation-hint-password-saved = මුරපදය සුරැකිණි!
 confirmation-hint-pin-tab = අමුණා ඇත!
 confirmation-hint-pin-tab-description = ගැළවීමට පටිත්ත මත දකුණින් ඔබන්න.
 confirmation-hint-send-to-device = යැවිණි!
+confirmation-hint-firefox-relay-mask-generated = නව { -relay-brand-short-name } වැස්මක් උත්පාදිතයි!
+confirmation-hint-firefox-relay-mask-created = නව වැස්මක් සෑදිණි!
+confirmation-hint-firefox-relay-mask-reused = පවතින වැස්මක් යළි භාවිතා විය!
+confirmation-hint-screenshot-copied = තිරසේයාව පිටපත් විය!
