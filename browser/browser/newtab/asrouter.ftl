@@ -28,11 +28,13 @@ cfr-doorhanger-extension-author = geliştiren: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Öneri
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Öneri
     .tooltiptext = Eklenti önerisi
     .a11y-announcement = Eklenti öneriniz var
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Öneri
     .tooltiptext = Özellik önerisi
     .a11y-announcement = Özellik öneriniz var
@@ -89,8 +91,8 @@ cfr-whatsnew-release-notes-link-text = Sürüm notlarını okuyun
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } tarihinden beri <b>{ $blockedCount }</b> takipçiyi engelledi!
-       *[other] { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } tarihinden beri <b>{ $blockedCount }</b> takipçiyi engelledi!
+        [one] { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } tarihinden beri <b>{ $blockedCount }</b> takip kodunu engelledi!
+       *[other] { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } tarihinden beri <b>{ $blockedCount }</b> takip kodunu engelledi!
     }
 cfr-doorhanger-milestone-ok-button = Tümünü göster
     .accesskey = T
@@ -162,7 +164,7 @@ spotlight-total-cookie-protection-secondary-button = Şimdi değil
 spotlight-better-internet-header = Daha iyi bir interneti seçtiniz
 spotlight-better-internet-body = { -brand-short-name } kullandığınızda tüm insanlık için daha açık ve daha erişilebilir bir interneti savunmuş oluyorsunuz.
 spotlight-peace-mind-header = Yanınızdayız
-spotlight-peace-mind-body = { -brand-short-name } her ay kullanıcı başına ortalama 3.000 takipçiyi engelliyor. Çünkü bizce hiçbir şey, özellikle takip kodları gibi can sıkıcı unsurlar, iyi bir internetle aranıza girmemeli.
+spotlight-peace-mind-body = { -brand-short-name } her ay kullanıcı başına ortalama 3.000 takip kodunu engelliyor. Çünkü bizce hiçbir şey, özellikle takip kodları gibi can sıkıcı unsurlar, iyi bir internetle aranıza girmemeli.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Dock’a sabitle
