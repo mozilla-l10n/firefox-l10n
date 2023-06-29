@@ -391,11 +391,11 @@ main-context-menu-use-saved-password =
     .label = Utilizza password salvata
     .accesskey = U
 
+##
+
 main-context-menu-use-relay-mask =
     .label = Utilizza un alias di posta elettronica { -relay-brand-short-name }
     .accesskey = e
-
-##
 
 main-context-menu-suggest-strong-password =
     .label = Suggerisci password complessa…

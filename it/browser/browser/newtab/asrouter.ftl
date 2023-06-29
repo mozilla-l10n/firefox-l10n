@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funzione consigliata
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perché viene visualizzato questo messaggio
+
 cfr-doorhanger-extension-cancel-button = Non adesso
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Aggiungi
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gestisci impostazioni suggerimenti
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = Non visualizzare suggerimenti
     .accesskey = v
+
 cfr-doorhanger-extension-learn-more-link = Ulteriori informazioni
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = di { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suggerimento
 cfr-doorhanger-extension-notification2 = Suggerimento
     .tooltiptext = Estensione suggerita
     .a11y-announcement = È disponibile un suggerimento per un’estensione
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Suggerimento
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Ulteriori informazioni
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nuova funzione:
+
 cfr-whatsnew-button =
     .label = Novità
     .tooltiptext = Novità
+
 cfr-whatsnew-release-notes-link-text = Leggi le note di versione
 
 ## Enhanced Tracking Protection Milestones
@@ -181,11 +191,13 @@ spotlight-pin-secondary-button = Non adesso
 
 mr2022-background-update-toast-title = Nuovo { -brand-short-name }. Più riservato. Meno elementi traccianti. Nessun compromesso.
 mr2022-background-update-toast-text = Prova ora il nuovo { -brand-short-name }, aggiornato con la protezione antitracciamento più potente che abbiamo mai realizzato.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Apri { -brand-shorter-name } ora
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -204,6 +216,7 @@ firefoxview-cfr-body-v2 = Recupera le schede chiuse di recente e passa velocemen
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ti presentiamo { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Ti serve proprio quella scheda aperta sul tuo telefono? Recuperala al volo. Hai bisogno di un sito che hai appena visitato? Lo trovi in { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Scopri come funziona
@@ -213,6 +226,7 @@ firefoxview-spotlight-promo-secondarybutton = Salta
 
 colorways-cfr-primarybutton = Scegli una tonalità
     .accesskey = S
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Personalizza il tuo browser con le iconiche combinazioni di colori di { -brand-short-name } ispirate alle voci che cambiano la società.
 colorways-cfr-header-28days = Le tonalità Voci indipendenti scadranno il 16 gennaio
@@ -235,6 +249,7 @@ july-jam-headline = Sempre dalla tua parte
 july-jam-body = Ogni mese { -brand-short-name } blocca in media oltre 3.000 elementi traccianti per ciascun utente, offrendoti un accesso sicuro e veloce alla parte migliore di Internet.
 july-jam-set-default-primary = Apri i miei link con { -brand-short-name }
 fox-doodle-pin-headline = Bentornato
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Un promemoria al volo: puoi tenere il tuo browser indipendente preferito sempre a portata di clic.
