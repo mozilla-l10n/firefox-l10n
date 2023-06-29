@@ -13,6 +13,11 @@ about-webrtc-document-title = WebRTC - Elementi interni
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = Salva about:webrtc come
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+about-webrtc-closed-peerconnection-disclosure-show-msg = Mostra PeerConnection chiuse
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Nascondi PeerConnection chiuse
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Registrazione AEC
