@@ -351,9 +351,10 @@ extension-disabled-heading = Disattivate
 
 theme-enabled-heading = Attivi
 theme-disabled-heading = Disattivati
-theme-disabled-heading2 = Temi salvati
 theme-monochromatic-heading = Tonalità
 theme-monochromatic-subheading = Nuove vibranti tonalità da { -brand-product-name }. Disponibili per un periodo limitato.
+
+theme-disabled-heading2 = Temi salvati
 
 plugin-enabled-heading = Attivi
 plugin-disabled-heading = Disattivati

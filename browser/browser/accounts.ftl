@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Completa configurazione account
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Account disconnesso
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Invia a tutti i dispositivi
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Gestisci dispositivi…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Gestisci dispositivi…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Nessun dispositivo connesso
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Ulteriori informazioni sull’invio di schede…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Connetti un altro dispositivo…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Verifica questo account…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "uppercase") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Questo computer è ora connesso con { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Questo computer è ora connesso con un nuovo dispositivo.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Accesso effettuato correttamente
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Questo computer è stato disconnesso.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Ricezione scheda
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Scheda da { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Schede ricevute
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

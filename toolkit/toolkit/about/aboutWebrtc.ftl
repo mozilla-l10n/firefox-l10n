@@ -13,12 +13,16 @@ about-webrtc-document-title = WebRTC - Elementi interni
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = Salva about:webrtc come
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Registrazione AEC
 about-webrtc-aec-logging-off-state-label = Avvia registrazione AEC
 about-webrtc-aec-logging-on-state-label = Interrompi registrazione AEC
 about-webrtc-aec-logging-on-state-msg = Registrazione AEC attiva (parlare per qualche minuto con un interlocutore e interrompere la registrazione)
+
+##
 
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Aggiorna automaticamente
@@ -27,7 +31,6 @@ about-webrtc-auto-refresh-default-label = Aggiorna automaticamente per impostazi
 
 about-webrtc-force-refresh-button = Aggiorna
 
-##
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -105,6 +108,7 @@ about-webrtc-log-show-msg = Visualizza registro
     .title = fare clic per espandere questa sezione
 about-webrtc-log-hide-msg = Nascondi registro
     .title = fare clic per comprimere questa sezione
+
 about-webrtc-copy-report-button = Copia rapporto
 about-webrtc-copy-report-history-button = Copia cronologia rapporti
 
@@ -117,6 +121,10 @@ about-webrtc-copy-report-history-button = Copia cronologia rapporti
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (chiusa) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
 
 ##
 
@@ -301,3 +309,4 @@ about-webrtc-media-context-show-msg = Mostra contesto multimediale
 about-webrtc-media-context-hide-msg = Nascondi contesto multimediale
 about-webrtc-media-context-heading = Contesto multimediale
 
+##
