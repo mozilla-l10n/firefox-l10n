@@ -136,6 +136,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = අඩවි අවසර
 addon-category-sitepermission-title =
     .title = අඩවි අවසර
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = { $host } සඳහා අඩවි අවසර
 
 ## These are global warnings
 
