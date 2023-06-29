@@ -8,3 +8,11 @@
 about-glean-page-title = ග්ලීන් ගැන
 about-glean-description = <a data-l10n-name="glean-sdk-doc-link">ග්ලීන් SDK</a> යනු මොසිල්ලා නිෂ්පාදනවල භාවිතා වන දත්ත රැස් කිරීමේ එකතුවකි. මෙම පිටුව <a data-l10n-name="fog-debug-doc-link">ග්ලීන් SDK හි නිදොස්කරණය සහ සටහන් තැබීමේ තත්‍වය වින්‍යාස කිරීමට අවශ්‍ය සංවර්ධකයින් සහ පරීක්‍ෂකයින් සඳහා වේ</a>.
 controls-button-label = සැකසුම් යොමන්න
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+glean-sdk-brand-name = { -glean-brand-name } SDK
+about-glean-page-title2 = { -glean-brand-name } ගැන
+about-glean-header = { -glean-brand-name } ගැන
+about-glean-about-data-header = දත්ත ගැන
