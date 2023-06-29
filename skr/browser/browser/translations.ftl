@@ -56,6 +56,8 @@ translations-panel-error-change-button =
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = کنوں ترجمہ کرو
+translations-panel-to-label = وچ ترجمہ کرو
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
