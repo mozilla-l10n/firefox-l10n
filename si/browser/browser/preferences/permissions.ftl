@@ -15,6 +15,9 @@ permissions-address = අඩවියේ ලිපිනය
 permissions-block =
     .label = අවහිර
     .accesskey = B
+permissions-disable-etp =
+    .label = හැරදැමීමක් යොදන්න
+    .accesskey = E
 permissions-session =
     .label = වාරයට ඉඩදෙන්න
     .accesskey = S
@@ -210,6 +213,9 @@ permissions-site-microphone-disable-desc = ඉහත ලේඛනගත කර �
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = සැකසුම් - විකාශකයේ අවසර
+    .style = { permissions-window2.style }
 permissions-doh-entry-field = අඩවියේ වසම් නාමය යොදන්න
     .accesskey = d
 permissions-doh-add-exception =
