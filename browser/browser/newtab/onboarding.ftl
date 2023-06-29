@@ -30,6 +30,7 @@ return-to-amo-add-theme-label = තේමාව එක් කරන්න
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = { -brand-short-name } පිළිගන්න
 mr1-return-to-amo-add-extension-label = { $addon-name } එක් කරන්න
 
 ## Multistage onboarding strings (about:welcome pages)

@@ -51,6 +51,10 @@ migration-bookmarks-option-label = පොත්යොමු
 migration-favorites-option-label = ප්‍රියතමයන්
 migration-logins-and-passwords-option-label = සුරැකි පිවිසුම් සහ මුරපද
 migration-history-option-label = පිරික්සුම් ඉතිහාසය
+migration-extensions-option-label = දිගු
+migration-cookies-option-label = දත්තකඩ
+migration-session-option-label = කවුළු හා පටිති
+migration-otherdata-option-label = වෙනත් දත්ත
 migration-passwords-new = නව මුරපද
 migration-passwords-updated = පවතින මුරපද
 # A description for the .csv file format that may be shown as the file type
@@ -108,6 +112,7 @@ migration-list-bookmark-label = පොත්යොමු
 migration-list-favorites-label = ප්‍රියතමයන්
 migration-list-password-label = මුරපද
 migration-list-history-label = ඉතිහාසය
+migration-list-extensions-label = දිගු
 migration-list-autofill-label = ස්වයං පිරවුම් දත්ත
 migration-list-payment-methods-label = ගෙවීමේ ක්‍රම
 
@@ -143,6 +148,14 @@ migration-wizard-progress-success-favorites =
         [one] ප්‍රියතමයන් { $quantity }
        *[other] ප්‍රියතමයන් { $quantity }
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
