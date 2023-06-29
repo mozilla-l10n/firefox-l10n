@@ -231,6 +231,9 @@ menu-bookmark-tab =
     .label = Aggiungi scheda corrente ai segnalibri…
 menu-edit-bookmark =
     .label = Modifica segnalibro…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Cerca nei segnalibri
 menu-bookmarks-all-tabs =
     .label = Tutte le schede nei segnalibri…
 menu-bookmarks-toolbar =
