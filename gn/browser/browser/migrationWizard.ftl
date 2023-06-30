@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Ñe’ẽñemi Ñemba’egueru Po
 migration-passwords-from-file = Aheka ñe’ẽñemi marandurendápe
 migration-passwords-new = Ñe’ẽñemi pyahu
 migration-passwords-updated = Ñe’ẽñemi oĩmavavoi
+migration-passwords-from-file-no-valid-data = Pe marandurenda ndogueroikéi ñe’ẽñemi mba’ekuaarã. Eiporavo ambue marandurenda.
 migration-passwords-from-file-picker-title = Marandurenda ñemba’egueru ñe’ẽñemi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -108,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Techaukaha marandurenda jegueru
 migration-bookmarks-from-file-progress-header = Techaukaha mba’egueru
 migration-bookmarks-from-file = Techaukaha
 migration-bookmarks-from-file-success-header = Mba’ekuaarã mba’egueru porã
+migration-bookmarks-from-file-no-valid-data = Pe marandurenda ndogueroikéi ñe’ẽñemi rechaukaha. Eiporavo ambue marandurenda.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
