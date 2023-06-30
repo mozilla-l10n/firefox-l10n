@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Emoñe’ẽasa ko kuatiarogue
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Kuatiarogue moñe’ẽasapyre { $fromLanguage } guive { $toLanguage }-pe
 urlbar-translations-button-loading =
     .tooltiptext = Ñe’ẽasa oñemboguatáva
 translations-panel-settings-button =
@@ -114,6 +123,7 @@ translations-settings-title =
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-never-translate-sites-description = Noñekuave’ẽmo’ãi moñe’ẽ’asa ko’ã ñandutirendápe g̃uarã
 translations-settings-languages-column =
     .label = Ñe’ẽita
 translations-settings-remove-language-button =
