@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = ایکسٹینشن ڈیٹا کوں پڑھ تے تبدیل نئیں کر سڳدی
+origin-controls-quarantined =
+    .label = ایکسٹینشن کوں ڈیٹا  پڑھݨ تے تبدیل کرݨ دی اجازت کائنی
 origin-controls-options =
     .label = ایکسٹینشن ڈیٹا کوں پڑھ تے تبدیل کر سڳدی ہے:
 origin-controls-option-all-domains =
@@ -27,6 +29,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = ایں سائٹ تے ڈیٹا کوں پڑھ تے تبدیل نوہے کر سڳدے
+origin-controls-state-quarantined = ایں سائٹ تے { -vendor-short-name } ولوں اجازت کائنی
 origin-controls-state-always-on = ایں سائٹ تے ڈیٹا کوں ہمیشاں پڑھ تے تبدیل کر سڳدے او۔
 origin-controls-state-when-clicked = ڈیٹا کوں پڑھݨ تے تبدیل کرݨ کیتے اجازت درکار ہے۔
 origin-controls-state-hover-run-visit-only = صرف ایں دورے کیتے بھڄو
