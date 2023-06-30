@@ -12,3 +12,4 @@ webauthn-pin-invalid-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN ndoikóiva. Eha’ãjey.
 webauthn-pin-required-prompt = Emoingemína PIN oikóva ne mba’e’okápe.
+webauthn-uv-invalid-short-prompt = Puruhára rechajey ndoikói. Eha’ã ag̃ave.

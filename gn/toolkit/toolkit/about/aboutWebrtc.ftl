@@ -27,6 +27,10 @@ about-webrtc-auto-refresh-label = Henyhẽjey ijehegui
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = ID jeikekõiha:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Mba’ekuaarã mbohapeha ijurujáva:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Mba’ekuaarã mbohapeha mbotytpyre:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -264,6 +268,8 @@ about-webrtc-hide-msg-sdp = Eñomi SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Ehechauka momaranduhára rehegua
+about-webrtc-media-context-hide-msg = Eñomi momaranduhára rehegua
 about-webrtc-media-context-heading = Momaranduhára rehegua
 
 ##
