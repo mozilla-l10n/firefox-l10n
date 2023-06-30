@@ -19,6 +19,7 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = زباناں منیج کرو
+translations-panel-settings-about = { -brand-shorter-name } وچ ترجمیاں بارے
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -54,6 +55,13 @@ translations-panel-error-dismiss-button =
     .label = سمجھ گھدے
 translations-panel-error-change-button =
     .label = ماخذ زبان وٹاؤ
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = افسوس، اساں اڄݨ { $language } کوں سہارا نسے ݙیندے۔
 translations-panel-error-unsupported-hint-unknown = افسوس، اساں اڄݨ ایں زبان کوں سہارا نسے ݙیندے۔
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -67,6 +75,14 @@ translations-panel-to-label = وچ ترجمہ کرو
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = ایہ ورقہ { $fromLanguage } کنوں { $toLanguage } وچ ترجمہ تھیا ہے
 translations-panel-choose-language =
     .label = زبان چݨو
 translations-panel-restore-button =
