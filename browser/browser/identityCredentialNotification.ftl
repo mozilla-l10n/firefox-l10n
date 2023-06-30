@@ -12,7 +12,7 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
-identity-credential-header-providers = පිවිසුම් ප්‍රතිපාදකයෙක් සමඟ පුරන්න
+identity-credential-header-providers = පිවිසුම් ප්‍රතිපාදකයක් සමඟ පුරන්න
 identity-credential-header-accounts = { $provider } සමඟ පිවිසෙන්න
 identity-credential-urlbar-anchor =
     .tooltiptext = පිවිසුම් මඬල අරින්න
