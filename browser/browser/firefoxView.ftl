@@ -167,9 +167,9 @@ firefoxview-sort-history-by-site-label = Ordina per sito
 ##   $date (string) - Date to be formatted based on locale
 
 firefoxview-history-date-today = Oggi - { DATETIME($date, dateStyle: "full") }
-firefoxview-history-date-yesterday = Ieri - { DATETIME($date, dateStyle: full") }
+firefoxview-history-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: numeric") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
