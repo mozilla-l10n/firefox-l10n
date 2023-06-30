@@ -219,6 +219,10 @@ migration-wizard-progress-partial-success-extensions =
         [one] { $matched } extension sur { $quantity }
        *[other] { $matched } extensions sur { $quantity }
     }
+migration-wizard-progress-extensions-support-link = Découvrez comment { -brand-product-name } identifie les extensions
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Aucune extension identifiée
 migration-wizard-progress-extensions-addons-link = Parcourir les extensions pour { -brand-short-name }
 
 ##
