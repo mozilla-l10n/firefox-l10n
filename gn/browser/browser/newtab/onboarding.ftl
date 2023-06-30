@@ -429,5 +429,7 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Peteĩ aguara mohendaha’i mba’erechahápe, omomaitei. Pe mohendaha’i oreko ijehe anguja.
 onboarding-device-migration-title = ¡Eg̃uahẽporã jey!
 onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo
