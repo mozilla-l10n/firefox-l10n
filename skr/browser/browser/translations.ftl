@@ -54,6 +54,7 @@ translations-panel-error-dismiss-button =
     .label = سمجھ گھدے
 translations-panel-error-change-button =
     .label = ماخذ زبان وٹاؤ
+translations-panel-error-unsupported-hint-unknown = افسوس، اساں اڄݨ ایں زبان کوں سہارا نسے ݙیندے۔
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
