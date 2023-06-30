@@ -12,6 +12,7 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
+identity-credential-header-providers = لاگ ان مہیا کار نال سائن ان تھیوو
 identity-credential-header-accounts = { $provider } نال سائن ان تھیوو
 identity-credential-urlbar-anchor =
     .tooltiptext = لاگ ان پینل کھولو

@@ -180,6 +180,8 @@ media-capabilities-enumerate = ڈیٹا بیس دی ڳݨتری کرو۔
 media-codec-support-sw-decoding = سافٹویئر ڈی کوڈنگ
 media-codec-support-hw-decoding = ہارڈویئر ڈی کوڈنگ
 media-codec-support-codec-name = کوڈک ناں
+media-codec-support-supported = سہارا تھیا
+media-codec-support-unsupported = سہارا تھیا کائنی
 
 ##
 

@@ -141,6 +141,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = ٹیباں کوں چالو کرو
     .accesskey = m
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = آڈیو چلدا پئے
 
 ## Ctrl-Tab dialog
 

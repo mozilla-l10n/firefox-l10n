@@ -686,6 +686,7 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = تصویر وچ تصویر ({ $shortcut }) بند کرو
 picture-in-picture-panel-header = تصویر وِچ تصویر
+picture-in-picture-panel-headline = ایہ ویب سائٹ تصویر وچ تصویر دی سفارش کائنی کریندی
 picture-in-picture-enable-toggle =
     .label = ہرو بھرو فعال کرو
 
