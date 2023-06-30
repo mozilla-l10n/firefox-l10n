@@ -5,6 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ایں ورقے دا ترجمہ کرو
+urlbar-translations-button-loading =
+    .tooltiptext = ترجمہ تھیندا پئے
 translations-panel-settings-button =
     .aria-label = ترجمہ ترتیباں منظم کرو
 # Text displayed on a language dropdown when the language is in beta
@@ -45,6 +47,7 @@ translations-panel-translate-button-loading =
     .label = براہ مہربانی انتظار کرو…
 translations-panel-translate-cancel =
     .label = منسوخ
+translations-panel-error-load-languages = زباناں لوڈ کائنی کر سڳا
 translations-panel-error-load-languages-hint-button =
     .label = ولدا کوشش کرو
 translations-panel-error-dismiss-button =

@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV فائل کنوں پاس ورڈز
+migration-wizard-migrator-display-name-file-bookmarks = ایچ ٹی ایم ایل فائل کنوں نشانیاں
 migration-wizard-migrator-display-name-ie = Microsoft انٹرنیٹ ایکسپلورر
 migration-wizard-migrator-display-name-opera = اوپیرا
 migration-wizard-migrator-display-name-opera-gx = اوپرا جی ایکس
@@ -104,7 +105,9 @@ migration-wizard-progress-success-updated-passwords =
        *[other] { $updatedEntries } اپ ڈیٹ تھئے
     }
 migration-bookmarks-from-file-picker-title = نشانیاں دی فائل درآمد کرو
+migration-bookmarks-from-file-progress-header = نشانیاں درآمد کرݨ
 migration-bookmarks-from-file = نشانیاں
+migration-bookmarks-from-file-success-header = نشانیاں کامیابی نال امپورٹ تھی آئیاں
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -193,6 +196,24 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } ایکسٹنشن
+       *[other] { $quantity } ایکسٹنشناں
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $quantity } وچوں { $matched } ایکسٹنشناں
+migration-wizard-progress-extensions-addons-link = { -brand-short-name } کیتے ایکسٹنشناں براؤز کرو
 
 ##
 
