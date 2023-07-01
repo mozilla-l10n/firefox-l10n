@@ -12,17 +12,24 @@ about-webrtc-document-title = Szczegóły techniczne WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = Zapisz stronę about:webrtc jako
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Dziennik redukcji szumów otoczenia
 about-webrtc-aec-logging-off-state-label = Zapisuj informacje redukcji szumów otoczenia
 about-webrtc-aec-logging-on-state-label = Zatrzymaj zapisywanie informacji redukcji szumów otoczenia
 about-webrtc-aec-logging-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automatyczne odświeżanie
+about-webrtc-aec-logging-toggled-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Pliki dziennika znajdują się w katalogu { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatyczne odświeżanie
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = Dziennik
     .title = Kliknij, aby rozwinąć sekcję
 about-webrtc-log-hide-msg = Ukryj dziennik
     .title = Kliknij, aby zwinąć sekcję
+about-webrtc-log-section-show-msg = Dziennik
+    .title = Kliknij, aby rozwinąć sekcję
+about-webrtc-log-section-hide-msg = Ukryj dziennik
+    .title = Kliknij, aby zwinąć sekcję
 about-webrtc-copy-report-button = Skopiuj raport
 
 ## These are used to display a header for a PeerConnection.
@@ -100,6 +111,11 @@ about-webrtc-copy-report-button = Skopiuj raport
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (Zakończone) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Kandydat lokalny
@@ -111,10 +127,18 @@ about-webrtc-raw-cand-show-msg = Pokaż nieprzetworzonych kandydatów
     .title = Kliknij, aby rozwinąć sekcję
 about-webrtc-raw-cand-hide-msg = Ukryj nieprzetworzonych kandydatów
     .title = Kliknij, aby zwinąć sekcję
+about-webrtc-raw-cand-section-show-msg = Pokaż nieprzetworzonych kandydatów
+    .title = Kliknij, aby rozwinąć sekcję
+about-webrtc-raw-cand-section-hide-msg = Ukryj nieprzetworzonych kandydatów
+    .title = Kliknij, aby zwinąć sekcję
 about-webrtc-priority = Priorytet
 about-webrtc-fold-show-msg = Szczegóły
     .title = Kliknij, aby rozwinąć sekcję
 about-webrtc-fold-hide-msg = Ukryj szczegóły
+    .title = Kliknij, aby zwinąć sekcję
+about-webrtc-fold-default-show-msg = Szczegóły
+    .title = Kliknij, aby rozwinąć sekcję
+about-webrtc-fold-default-hide-msg = Ukryj szczegóły
     .title = Kliknij, aby zwinąć sekcję
 about-webrtc-dropped-frames-label = Pominięte klatki:
 about-webrtc-discarded-packets-label = Odrzucone pakiety:
@@ -184,6 +208,9 @@ about-webrtc-save-page-msg = Strona zapisana jako { $path }
 about-webrtc-debug-mode-off-state-msg = Dziennik debugowania jest zapisywany w pliku { $path }
 about-webrtc-debug-mode-on-state-msg = Debugowanie aktywne, dziennik w { $path }
 about-webrtc-aec-logging-off-state-msg = Pliki dziennika znajdują się w katalogu { $path }
+about-webrtc-save-page-complete-msg = Strona zapisana jako { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Dziennik debugowania jest zapisywany w pliku { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Debugowanie aktywne, dziennik w { $path }
 
 ##
 
@@ -263,6 +290,11 @@ about-webrtc-sdp-set-timestamp = O { NUMBER($timestamp, useGrouping: "false") }
 
 about-webrtc-show-msg-sdp = Pokaż informacje SDP
 about-webrtc-hide-msg-sdp = Ukryj informacje SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
