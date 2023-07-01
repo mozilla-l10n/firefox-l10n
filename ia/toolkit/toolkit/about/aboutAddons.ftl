@@ -158,6 +158,7 @@ extensions-warning-check-compatibility-button = Activar
 extensions-warning-update-security = Le verification de securitate pro le actualisation del additivos es inactive. Le actualisationes poterea damnificar tu systema.
 extensions-warning-update-security-button = Activar
     .title = Activar le verification de securitate pro le actualisation del additivos
+extensions-warning-imported-addons = Completa le installation de extensiones que era importate a { -brand-short-name }.
 extensions-warning-imported-addons-button = Installar le extensiones
 
 ## Strings connected to add-on updates
@@ -362,6 +363,8 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Functionamento in sitos con restrictiones
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Permitter
 addon-detail-quarantined-domains-disallow = Non permitter

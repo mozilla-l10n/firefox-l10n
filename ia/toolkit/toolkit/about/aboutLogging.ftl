@@ -35,10 +35,13 @@ about-logging-preset-networking-description = Modulos de registro pro diagnostic
 about-logging-preset-networking-cookie-label = Cookies
 about-logging-preset-networking-cookie-description = Modulos de registration pro diagnosticar problemas de cookies
 about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Modulos de registration pro diagnosticar problemas de WebSocket
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Modulos de registration pro diagnosticar problemas de HTTP/3 e QUIC
 about-logging-preset-media-playback-label = Reproduction de medios
 about-logging-preset-media-playback-description = Modulos de registro pro diagnosticar problemas de reproduction de medios (non problemas de video-conferentias)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Modulos de registration pro diagnosticar appellos WebRTC
 about-logging-preset-custom-label = Personalisate
 about-logging-preset-custom-description = Modulos de registro seligite manualmente
 # Error handling

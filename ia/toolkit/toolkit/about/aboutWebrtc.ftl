@@ -32,6 +32,8 @@ about-webrtc-aec-logging-toggled-off-state-msg = Files de log capturate pote ess
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Actualisar automaticamente
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Autoactualisar per predefinition
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Actualisar
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -124,6 +126,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (clause)
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Inviar / Reciper: { $codecs }
 about-webrtc-short-send-direction = Inviar: { $codecs }
 about-webrtc-short-receive-direction = Reciper: { $codecs }
 
