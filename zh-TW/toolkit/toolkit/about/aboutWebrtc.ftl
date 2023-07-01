@@ -21,6 +21,7 @@ about-webrtc-aec-logging-msg-label = AEC 記錄
 about-webrtc-aec-logging-off-state-label = 開始 AEC 記錄
 about-webrtc-aec-logging-on-state-label = 停止 AEC 記錄
 about-webrtc-aec-logging-on-state-msg = AEC 紀錄中（請與來電者交談幾分鐘後再停止捕捉）
+about-webrtc-aec-logging-toggled-on-state-msg = AEC 紀錄中（請與來電者交談幾分鐘後再停止捕捉）
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = 捕捉到的記錄檔位於: { $path }
@@ -124,6 +125,10 @@ about-webrtc-raw-remote-candidate = 原始遠端候選
 about-webrtc-raw-cand-show-msg = 顯示原始候選
     .title = 點擊展開此段落
 about-webrtc-raw-cand-hide-msg = 隱藏原始候選
+    .title = 點擊摺疊此段落
+about-webrtc-raw-cand-section-show-msg = 顯示原始候選
+    .title = 點擊展開此段落
+about-webrtc-raw-cand-section-hide-msg = 隱藏原始候選
     .title = 點擊摺疊此段落
 about-webrtc-priority = 重要性
 about-webrtc-fold-show-msg = 顯示詳細資訊
