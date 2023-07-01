@@ -12,17 +12,24 @@ about-webrtc-document-title = Taq tzij chupam richin WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = tiyak about:webrtc achi'el
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC tz'ib'axïk
 about-webrtc-aec-logging-off-state-label = Titikirisäx AEC rutz'ib'axik
 about-webrtc-aec-logging-on-state-label = Tiq'at AEC rutz'ib'axik
 about-webrtc-aec-logging-on-state-msg = Tzijïl ri AEC rutz'ib'axik (katzijon rik'in ri winäq jujun ch'utaq ramaj k'a ri' tatanab'a' ri chapoj)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Ruyonil Titzolïx
+about-webrtc-aec-logging-toggled-on-state-msg = Tzijïl ri AEC rutz'ib'axik (katzijon rik'in ri winäq jujun ch'utaq ramaj k'a ri' tatanab'a' ri chapoj)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Ri kitz'ib'axik taq yakb'äl yatikïr ye'awïl pa: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Ruyonil Titzolïx
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = tik'ut pe rutz'ib'axik
     .title = tapitz'a' richin narïk' re peraj re'
 about-webrtc-log-hide-msg = tewäx ri rutz'ib'axik
     .title = tapitz'a' richin nuk'öl ri' re peraj re'
+about-webrtc-log-section-show-msg = Tik'ut pe rutz'ib'axik
+    .title = Tapitz'a' richin narïk' re peraj re'
+about-webrtc-log-section-hide-msg = Tewäx ri rutz'ib'axik
+    .title = Tapitz'a' richin nuk'öl ri' re peraj re'
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +109,11 @@ about-webrtc-log-hide-msg = tewäx ri rutz'ib'axik
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (Tz'apäl) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -115,6 +131,10 @@ about-webrtc-fold-show-msg = kek'ut pe ri taq rub'anikil
     .title = tapitz'a' richin narïk' re peraj re'
 about-webrtc-fold-hide-msg = ke'ewäx ri taq rub'anikil
     .title = tapitz'a' richin nuk'öl ri' re peraj re'
+about-webrtc-fold-default-show-msg = Kek'ut pe ri taq rub'anikil
+    .title = Tapitz'a' richin narïk' re peraj re'
+about-webrtc-fold-default-hide-msg = Ke'ewäx ri taq rub'anikil
+    .title = Tapitz'a' richin nuk'öl ri' re peraj re'
 about-webrtc-dropped-frames-label = Xe'elesäx kan ri silowachib'alil:
 about-webrtc-discarded-packets-label = Taq pisoj xech'aqïx kan:
 about-webrtc-decoder-label = Elesäy na'oj
@@ -135,6 +155,10 @@ about-webrtc-last-frame-timestamp = Jun Kan Ruframe K'ulunem Retal Q'ijul
 about-webrtc-local-receive-ssrc = Aj Wawe' K'ulunel SSRC
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = Näq Rutaqik SSRC
+
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
 
 ##
 
@@ -176,6 +200,9 @@ about-webrtc-save-page-msg = yakon ruxaq pa: { $path }
 about-webrtc-debug-mode-off-state-msg = ri rutz'ib'axik retal tikirel nilitäj pa { $path }
 about-webrtc-debug-mode-on-state-msg = pa rub'eyal tzijïl chojmirisanïk, rutz'ib'axik retal pa: { $path }
 about-webrtc-aec-logging-off-state-msg = ri kitz'ib'axik taq yakb'äl yatikïr ye'awïl pa: { $path }
+about-webrtc-save-page-complete-msg = Yakon ruxaq pa: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Ri rutz'ib'axik retal tikirel nilitäj pa { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Pa rub'eyal tzijïl chojmirisanïk, rutz'ib'axik retal pa: { $path }
 
 ##
 
@@ -229,6 +256,14 @@ about-webrtc-sdp-set-at-timestamp-remote = Tijikib'äx Näj SDP pa ri retal q'ij
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Retal q'ijul { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
