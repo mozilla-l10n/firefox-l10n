@@ -95,6 +95,10 @@ about-webrtc-log-show-msg = sken azray
     .title = sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-log-hide-msg = ffer azray
     .title = sit akken ad tesnefliḍ tigezmi-agi
+about-webrtc-log-section-show-msg = Sken azray
+    .title = Sit akken ad tesnefliḍ tigezmi-agi
+about-webrtc-log-section-hide-msg = Ffer azray
+    .title = Sit akken ad tesnefliḍ tigezmi-agi
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
