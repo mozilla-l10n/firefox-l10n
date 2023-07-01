@@ -21,6 +21,7 @@ about-webrtc-aec-logging-msg-label = AEC ᱞᱚᱜᱤᱝ
 about-webrtc-aec-logging-off-state-label = AEC ᱞᱚᱜᱤᱝᱮ ᱮᱛᱦᱚᱵ ᱢᱮ
 about-webrtc-aec-logging-on-state-label = AEC ᱞᱚᱜᱤᱝ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 about-webrtc-aec-logging-on-state-msg = AEC ᱵᱚᱞᱚ ᱫᱚ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ (ᱠᱚᱞᱚᱨ ᱥᱟᱶ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱚᱠᱚᱛ ᱨᱚᱲ ᱢᱮ ᱟᱨ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱠᱮᱯᱪᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ)
+about-webrtc-aec-logging-toggled-on-state-msg = AEC ᱵᱚᱞᱚ ᱫᱚ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ (ᱠᱚᱞᱚᱨ ᱥᱟᱶ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱚᱠᱚᱛ ᱨᱚᱲ ᱢᱮ ᱟᱨ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱠᱮᱯᱪᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = ᱨᱮ ᱦᱟᱛᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱽ ᱨᱮᱫᱽᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
