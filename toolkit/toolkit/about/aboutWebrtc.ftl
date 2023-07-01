@@ -12,17 +12,24 @@ about-webrtc-document-title = Властивості WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = зберегти about:webrtc як
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Журнал AEC
 about-webrtc-aec-logging-off-state-label = Почати журнал AEC
 about-webrtc-aec-logging-on-state-label = Припинити журнал AEC
 about-webrtc-aec-logging-on-state-msg = Журнал AEC активний (поговоріть з абонентом кілька хвилин, потім зупиніть захоплення)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Автооновлення
+about-webrtc-aec-logging-toggled-on-state-msg = Журнал AEC активний (поговоріть з абонентом кілька хвилин, потім зупиніть захоплення)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Захоплені файли журналу можна знайти в: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Автооновлення
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,8 @@ about-webrtc-log-show-msg = показати журнал
     .title = натисніть, щоб розгорнути цю секцію
 about-webrtc-log-hide-msg = сховати журнал
     .title = натисніть, щоб згорнути цей розділ
+about-webrtc-log-section-show-msg = Показати журнал
+    .title = Натисніть, щоб розгорнути цю секцію
 about-webrtc-copy-report-button = Копіювати звіт
 about-webrtc-copy-report-history-button = Копіювати історію звітів
 
@@ -104,6 +113,11 @@ about-webrtc-copy-report-history-button = Копіювати історію зв
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (закрито) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -121,6 +135,8 @@ about-webrtc-fold-show-msg = показати деталі
     .title = натисніть, щоб розгорнути цю секцію
 about-webrtc-fold-hide-msg = сховати
     .title = натисніть, щоб згорнути цей розділ
+about-webrtc-fold-default-show-msg = Показати деталі
+    .title = Натисніть, щоб розгорнути цю секцію
 about-webrtc-dropped-frames-label = Пропущені кадри:
 about-webrtc-discarded-packets-label = Відхилені пакети:
 about-webrtc-decoder-label = Декодер
@@ -189,6 +205,9 @@ about-webrtc-save-page-msg = сторінку збережено до: { $path }
 about-webrtc-debug-mode-off-state-msg = журнал відстеження можна знайти в: { $path }
 about-webrtc-debug-mode-on-state-msg = режим налагодження активний, журнал відстеження: { $path }
 about-webrtc-aec-logging-off-state-msg = захоплені файли журналу можна знайти в: { $path }
+about-webrtc-save-page-complete-msg = Сторінку збережено до: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Журнал відстеження можна знайти в: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Режим налагодження активний, журнал відстеження: { $path }
 
 ##
 
