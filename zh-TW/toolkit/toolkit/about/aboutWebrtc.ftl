@@ -12,17 +12,23 @@ about-webrtc-document-title = WebRTC 內部資訊
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = 將 about:webrtc 儲存至
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC 記錄
 about-webrtc-aec-logging-off-state-label = 開始 AEC 記錄
 about-webrtc-aec-logging-on-state-label = 停止 AEC 記錄
 about-webrtc-aec-logging-on-state-msg = AEC 紀錄中（請與來電者交談幾分鐘後再停止捕捉）
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = 自動重新整理
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = 捕捉到的記錄檔位於: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = 自動重新整理
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +94,10 @@ about-webrtc-log-show-msg = 顯示紀錄
     .title = 點擊展開此段落
 about-webrtc-log-hide-msg = 隱藏紀錄
     .title = 點擊摺疊此段落
+about-webrtc-log-section-show-msg = 顯示紀錄
+    .title = 點擊展開此段落
+about-webrtc-log-section-hide-msg = 隱藏紀錄
+    .title = 點擊摺疊此段落
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +108,11 @@ about-webrtc-log-hide-msg = 隱藏紀錄
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (已關閉) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -114,6 +129,10 @@ about-webrtc-priority = 重要性
 about-webrtc-fold-show-msg = 顯示詳細資訊
     .title = 點擊展開此段落
 about-webrtc-fold-hide-msg = 隱藏詳細資訊
+    .title = 點擊摺疊此段落
+about-webrtc-fold-default-show-msg = 顯示詳細資訊
+    .title = 點擊展開此段落
+about-webrtc-fold-default-hide-msg = 隱藏詳細資訊
     .title = 點擊摺疊此段落
 about-webrtc-dropped-frames-label = 捨棄的畫框數:
 about-webrtc-discarded-packets-label = 捨棄的封包數:
@@ -183,6 +202,9 @@ about-webrtc-save-page-msg = 已將頁面儲存至: { $path }
 about-webrtc-debug-mode-off-state-msg = 追蹤紀錄位於: { $path }
 about-webrtc-debug-mode-on-state-msg = 已進入除錯模式，追蹤紀錄位於: { $path }
 about-webrtc-aec-logging-off-state-msg = 捕捉到的記錄檔位於: { $path }
+about-webrtc-save-page-complete-msg = 已將頁面儲存至: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = 追蹤紀錄位於: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = 已進入除錯模式，追蹤紀錄位於: { $path }
 
 ##
 
@@ -252,6 +274,11 @@ about-webrtc-sdp-set-timestamp = 時間戳記 { NUMBER($timestamp, useGrouping: 
 
 about-webrtc-show-msg-sdp = 顯示 SDP
 about-webrtc-hide-msg-sdp = 隱藏 SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
