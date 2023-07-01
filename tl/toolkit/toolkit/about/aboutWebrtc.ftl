@@ -93,6 +93,10 @@ about-webrtc-log-show-msg = ipakita ang log
     .title = pindutin para i-expand ang bahaging ito
 about-webrtc-log-hide-msg = itago ang log
     .title = pindutin para i-collapse ang seksyong ito
+about-webrtc-log-section-show-msg = Ipakita ang log
+    .title = Pindutin para i-expand ang bahaging ito
+about-webrtc-log-section-hide-msg = Itago ang log
+    .title = Pindutin para i-collapse ang seksyong ito
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -120,11 +124,19 @@ about-webrtc-raw-cand-show-msg = ipakita ang mga sariwang kandidato
     .title = pindutin para i-expand ang bahaging ito
 about-webrtc-raw-cand-hide-msg = itago ang mga bagong kandidato
     .title = pindutin para i-collapse ang seksyong ito
+about-webrtc-raw-cand-section-show-msg = Ipakita ang mga sariwang kandidato
+    .title = Pindutin para i-expand ang bahaging ito
+about-webrtc-raw-cand-section-hide-msg = Itago ang mga bagong kandidato
+    .title = Pindutin para i-collapse ang seksyong ito
 about-webrtc-priority = Prioridad
 about-webrtc-fold-show-msg = ipakita ang mga detalye
     .title = pindutin para i-expand ang bahaging ito
 about-webrtc-fold-hide-msg = itago ang detalye
     .title = pindutin para i-collapse ang seksyong ito
+about-webrtc-fold-default-show-msg = Ipakita ang mga detalye
+    .title = Pindutin para i-expand ang bahaging ito
+about-webrtc-fold-default-hide-msg = Itago ang detalye
+    .title = Pindutin para i-collapse ang seksyong ito
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
 about-webrtc-show-tab-label = Ipakita ang tab
