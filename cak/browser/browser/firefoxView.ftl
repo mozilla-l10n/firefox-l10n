@@ -81,3 +81,27 @@ firefoxview-collapse-button-show =
     .title = Tik'ut cholb'äl
 firefoxview-collapse-button-hide =
     .title = Tewäx cholb'äl
+
+## History in this context refers to browser history
+
+firefoxview-history-nav = Natab'äl
+    .title = Natab'äl
+firefoxview-history-header = Natab'äl
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-nav = Kejaq taq ruwi'
+    .title = Kejaq taq ruwi'
+firefoxview-opentabs-header = Kejaq taq ruwi'
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+firefoxview-recently-closed-nav = Taq ruwi' nimakol ketz'apïx
+    .title = Taq ruwi' nimakol ketz'apïx
+firefoxview-recently-closed-header = Taq ruwi' nimakol ketz'apïx
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+
+##
+
