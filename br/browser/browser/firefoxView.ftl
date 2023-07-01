@@ -27,6 +27,7 @@ firefoxview-tabpickup-adddevice-header = Goubredit { -brand-product-name } war h
 firefoxview-tabpickup-adddevice-description = Pellgargit { -brand-product-name } evit pellgomz hezoug ha kevreit amañ
 firefoxview-tabpickup-adddevice-learn-how = Gouzout penaos
 firefoxview-tabpickup-adddevice-primarybutton = Ho pezet { -brand-product-name } evit pellgomz hezoug.
+firefoxview-tabpickup-synctabs-header = Gweredekaat goubredañ an ivinelloù
 firefoxview-tabpickup-synctabs-description = Aotren { -brand-short-name } da rannañ ivinelloù etre an trevnadoù.
 firefoxview-tabpickup-synctabs-learn-how = Gouzout penaos
 firefoxview-tabpickup-synctabs-primarybutton = Goubredañ an ivinelloù digor
@@ -41,6 +42,7 @@ firefoxview-tabpickup-sync-error-primarybutton = Klask en-dro
 firefoxview-tabpickup-sync-disconnected-header = Gweredekaat ar c'houbredañ evit kenderc'hel
 firefoxview-tabpickup-sync-disconnected-description = Evit kaout hoc'h ivinelloù e vo dav deoc'h aotren ar c'houbredañ e { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Gweredekaat ar c'houbredañ en arventennoù
+firefoxview-tabpickup-password-locked-link = Gouzout muioc'h
 firefoxview-tabpickup-syncing = Gortozit e-pad ma vez goubredet hoc'h ivinelloù. Ne bado ket pell.
 firefoxview-mobile-promo-header = Adtapit ivinelloù ho pellgomz pe dablezenn
 firefoxview-mobile-promo-description = Evit gwelout ivinelloù diwezhañ ho pellgomz hezoug e rankit kevreañ ouzh { -brand-product-name } war iOS pe Android.
@@ -48,6 +50,7 @@ firefoxview-mobile-promo-primarybutton = Ho pezet { -brand-product-name } evit p
 firefoxview-mobile-confirmation-header = 🎉 Deomp de'i !
 firefoxview-closed-tabs-title = Ivinelloù serret nevez zo
 firefoxview-closed-tabs-description2 = Digeriñ en-dro ar pajennoù bet serret nevez zo er prenestr-mañ.
+firefoxview-closed-tabs-placeholder-header = N’eus ivinell nevez serret ebet
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
@@ -73,6 +76,13 @@ firefoxview-collapse-button-hide =
 
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+
+##
+
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
 
 
 ##
