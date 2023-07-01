@@ -12,17 +12,24 @@ about-webrtc-document-title = Isefka igensanen WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = kles about:webrtc daw
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Asniɣmes AEC
 about-webrtc-aec-logging-off-state-label = Senker asniɣmes AEC
 about-webrtc-aec-logging-on-state-label = Seḥbes asniɣmes AEC
 about-webrtc-aec-logging-on-state-msg = Asniɣmes AEC irmed (meslay kra n tesdatin d unmeɣṛu-inek sakin rken asekles)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Asmiren awurman
+about-webrtc-aec-logging-toggled-on-state-msg = Asniɣmes AEC irmed (meslay kra n tesdatin d unmeɣṛu-inek sakin rken asekles)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Ifuyla n usniɣmes yettwaṭfen ad ttwafen di: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Asmiren awurman
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -99,6 +106,11 @@ about-webrtc-log-hide-msg = ffer azray
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (imdel) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Amzazwar adigan
@@ -115,6 +127,10 @@ about-webrtc-fold-show-msg = Sken aglam leqqayen
     .title = sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-fold-hide-msg = Ffer aglam leqqayen
     .title = sit akken ad tesnefliḍ tigezmi-agi
+about-webrtc-fold-default-show-msg = Sken aglam leqqayen
+    .title = Sit akken ad tesnefliḍ tigezmi-agi
+about-webrtc-fold-default-hide-msg = Ffer aglam leqqayen
+    .title = Sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-dropped-frames-label = Ikataren yettwakksen:
 about-webrtc-discarded-packets-label = Ikemmusen yettwanfen:
 about-webrtc-decoder-label = Akestengal
@@ -183,6 +199,8 @@ about-webrtc-save-page-msg = asebter yettwakles di: { $path }
 about-webrtc-debug-mode-off-state-msg = afaylu n lǧeṛṛa yella deg tansa-a : { $path }
 about-webrtc-debug-mode-on-state-msg = askar n tseɣtit irmed, afaylu n lǧeṛṛa yella deg tansa-yagi: { $path }
 about-webrtc-aec-logging-off-state-msg = ifuyla n usniɣmes yettwaṭfen ad ttwafen di: { $path }
+about-webrtc-save-page-complete-msg = Asebter yettwakles di: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Askar n tseɣtit irmed, afaylu n lǧeṛṛa yella deg tansa-yagi: { $path }
 
 ##
 
@@ -257,6 +275,11 @@ about-webrtc-sdp-set-timestamp = Azemzakud { NUMBER($timestamp, useGrouping: "fa
 
 about-webrtc-show-msg-sdp = Sken SDP
 about-webrtc-hide-msg-sdp = Ffer SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
