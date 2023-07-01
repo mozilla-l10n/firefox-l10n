@@ -12,17 +12,20 @@ about-webrtc-document-title = Interní WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = uložit about:webrtc jako
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Protokol AEC
 about-webrtc-aec-logging-off-state-label = Spustit protokol AEC
 about-webrtc-aec-logging-on-state-label = Zastavit protokol AEC
 about-webrtc-aec-logging-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automatické opětovné načtení
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatické opětovné načtení
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -105,6 +108,11 @@ about-webrtc-copy-report-history-button = Kopírovat historii hlášení
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (uzavřeno) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Místní kandidát
@@ -121,6 +129,10 @@ about-webrtc-fold-show-msg = zobrazit detaily
     .title = klepněte pro rozbalení této sekce
 about-webrtc-fold-hide-msg = skrýt detaily
     .title = klepněte pro zabalení této sekce
+about-webrtc-fold-default-show-msg = Zobrazit detaily
+    .title = Klepněte pro rozbalení této sekce
+about-webrtc-fold-default-hide-msg = Skrýt detaily
+    .title = Klepněte pro zabalení této sekce
 about-webrtc-dropped-frames-label = Vynecháno snímků:
 about-webrtc-discarded-packets-label = Zahozeno paketů:
 about-webrtc-decoder-label = Dekodér
@@ -189,6 +201,7 @@ about-webrtc-save-page-msg = stránka uložena do: { $path }
 about-webrtc-debug-mode-off-state-msg = trasu protokolu lze nalézt na adrese: { $path }
 about-webrtc-debug-mode-on-state-msg = režim ladění aktivní, protokol v: { $path }
 about-webrtc-aec-logging-off-state-msg = soubory sběru protokolu můžete nalézt v: { $path }
+about-webrtc-save-page-complete-msg = Stránka uložena do: { $path }
 
 ##
 
