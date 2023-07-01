@@ -12,17 +12,24 @@ about-webrtc-document-title = Hollësi të Brendshme WebRTC-je
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ruajeni about:webrtc si
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Regjistrim EEA-je
 about-webrtc-aec-logging-off-state-label = Fillo Regjistrim EEA-je
 about-webrtc-aec-logging-on-state-label = Ndale Regjistrimin e EEA-s
 about-webrtc-aec-logging-on-state-msg = Regjistrimi i EEA-s është aktiv (flisni për pak minuta me atë që ju bëri thirrjen dhe mandej ndaleni regjistrimin)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Vetërifreskohu
+about-webrtc-aec-logging-toggled-on-state-msg = Regjistrimi i EEA-s është aktiv (flisni për pak minuta me atë që ju bëri thirrjen dhe mandej ndaleni regjistrimin)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Kartelat e regjistrimit të thirrjes mund të gjenden te: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Vetërifreskohu
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = shfaqe regjistrin
     .title = klikoni që të zgjerohet kjo pjesë
 about-webrtc-log-hide-msg = fshihe regjistrin
     .title = klikoni që të tkurret kjo pjesë
+about-webrtc-log-section-show-msg = Shfaqe regjistrin
+    .title = Klikoni që të zgjerohet kjo pjesë
+about-webrtc-log-section-hide-msg = Fshihe regjistrin
+    .title = Klikoni që të tkurret kjo pjesë
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -99,6 +110,11 @@ about-webrtc-log-hide-msg = fshihe regjistrin
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (e mbyllur) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Kandidat Vendor
@@ -108,6 +124,10 @@ about-webrtc-fold-show-msg = shfaqni hollësi
     .title = klikoni që të zgjerohet kjo pjesë
 about-webrtc-fold-hide-msg = fshihini hollësitë
     .title = klikoni që të tkurret kjo pjesë
+about-webrtc-fold-default-show-msg = Shfaqni hollësi
+    .title = Klikoni që të zgjerohet kjo pjesë
+about-webrtc-fold-default-hide-msg = Fshihini hollësitë
+    .title = Klikoni që të tkurret kjo pjesë
 about-webrtc-dropped-frames-label = Kuadro të humbura:
 about-webrtc-discarded-packets-label = Pakete të hedhur tej:
 about-webrtc-decoder-label = Shkodues
@@ -174,6 +194,9 @@ about-webrtc-save-page-msg = faqe e ruajtur te: { $path }
 about-webrtc-debug-mode-off-state-msg = regjistri i ndjekjes mund të gjendet te: { $path }
 about-webrtc-debug-mode-on-state-msg = mënyra diagnostikim aktive, regjistër ndjekje te: { $path }
 about-webrtc-aec-logging-off-state-msg = kartelat e regjistrimit të thirrjes mund të gjenden te: { $path }
+about-webrtc-save-page-complete-msg = Faqe e ruajtur te: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Regjistri i ndjekjes mund të gjendet te: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Mënyra diagnostikim aktive, regjistër ndjekje te: { $path }
 
 ##
 
@@ -239,6 +262,11 @@ about-webrtc-sdp-set-timestamp = Vulë kohore { NUMBER($timestamp, useGrouping: 
 
 about-webrtc-show-msg-sdp = Shfaq SDP
 about-webrtc-hide-msg-sdp = Fshih SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
