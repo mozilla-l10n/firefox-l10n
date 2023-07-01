@@ -12,6 +12,9 @@ about-webrtc-document-title = WebRTC Internals
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = vista about:webrtc sem
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC atvikaskráning
@@ -95,6 +98,11 @@ about-webrtc-log-hide-msg = fela atvikaskrá
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (lokað) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Staðbundinn aðili
@@ -111,6 +119,10 @@ about-webrtc-fold-show-msg = sýna nánar
     .title = smelltu til að stækka þetta svæði
 about-webrtc-fold-hide-msg = fela nánar
     .title = smelltu til að fella saman þetta svæði
+about-webrtc-fold-default-show-msg = Sýna nánar
+    .title = Smelltu til að stækka þetta svæði
+about-webrtc-fold-default-hide-msg = Fela nánar
+    .title = Smelltu til að fella saman þetta svæði
 about-webrtc-dropped-frames-label = Römmum hent:
 about-webrtc-discarded-packets-label = Pökkum hent:
 about-webrtc-decoder-label = Afkóðari
@@ -153,6 +165,7 @@ about-webrtc-save-page-msg = síða vistuð á: { $path }
 about-webrtc-debug-mode-off-state-msg = rakningarskrá er að finna á: { $path }
 about-webrtc-debug-mode-on-state-msg = villuleitarhamur virkur, rakningarskrá á: { $path }
 about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atvikaskráningu í: { $path }
+about-webrtc-save-page-complete-msg = Síða vistuð á: { $path }
 
 ##
 
