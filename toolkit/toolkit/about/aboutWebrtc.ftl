@@ -151,6 +151,7 @@ about-webrtc-save-page-msg = { $path } এ পাতা সংরক্ষণ �
 about-webrtc-debug-mode-off-state-msg = { $path } তে ট্রেস লগ পাওয়া যাবে
 about-webrtc-debug-mode-on-state-msg = ডিবাগ মোড সক্রিয়, ট্রেস লগ এখানে: { $path }
 about-webrtc-aec-logging-off-state-msg = ক্যাপচার করা লগ ফাইল গুলি এখানে পাওয়া যাবে: { $path }
+about-webrtc-save-page-complete-msg = { $path } এ পাতা সংরক্ষণ হবে
 about-webrtc-debug-mode-toggled-off-state-msg = { $path } তে ট্রেস লগ পাওয়া যাবে
 about-webrtc-debug-mode-toggled-on-state-msg = ডিবাগ মোড সক্রিয়, ট্রেস লগ এখানে: { $path }
 
