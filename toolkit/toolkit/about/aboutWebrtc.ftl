@@ -12,17 +12,24 @@ about-webrtc-document-title = Datos internos de WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = guardar about:webrtc como
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Registro AEC
 about-webrtc-aec-logging-off-state-label = Iniciar registro AEC
 about-webrtc-aec-logging-on-state-label = Detener registro AEC
 about-webrtc-aec-logging-on-state-msg = Registro AEC activo (habla con el interlocutor durante unos minutos y luego detén la captura)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Recargar automáticamente
+about-webrtc-aec-logging-toggled-on-state-msg = Registro AEC activo (habla con el interlocutor durante unos minutos y luego detén la captura)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Los archivos de registro se pueden encontrar en: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Recargar automáticamente
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = mostrar registro
     .title = haz clic para expandir esta sección
 about-webrtc-log-hide-msg = ocultar registro
     .title = haz clic para contraer esta sección
+about-webrtc-log-section-show-msg = Mostrar registro
+    .title = Haz clic para expandir esta sección
+about-webrtc-log-section-hide-msg = Ocultar registro
+    .title = Haz clic para contraer esta sección
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +109,11 @@ about-webrtc-log-hide-msg = ocultar registro
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (cerrado) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -115,6 +131,10 @@ about-webrtc-fold-show-msg = mostrar detalles
     .title = haz clic para expandir esta sección
 about-webrtc-fold-hide-msg = ocultar detalles
     .title = haz clic para contraer esta sección
+about-webrtc-fold-default-show-msg = Mostrar detalles
+    .title = Haz clic para expandir esta sección
+about-webrtc-fold-default-hide-msg = Ocultar detalles
+    .title = Haz clic para contraer esta sección
 about-webrtc-dropped-frames-label = Fotogramas descartados:
 about-webrtc-discarded-packets-label = Paquetes descartados:
 about-webrtc-decoder-label = Decodificador
@@ -183,6 +203,9 @@ about-webrtc-save-page-msg = página guardada en: { $path }
 about-webrtc-debug-mode-off-state-msg = el registro de traza se puede encontrar en: { $path }
 about-webrtc-debug-mode-on-state-msg = modo de depuración activo, registro de traza en: { $path }
 about-webrtc-aec-logging-off-state-msg = los archivos de registro se pueden encontrar en: { $path }
+about-webrtc-save-page-complete-msg = Página guardada en: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = El registro de traza se puede encontrar en: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuración activo, registro de traza en: { $path }
 
 ##
 
@@ -257,6 +280,11 @@ about-webrtc-sdp-set-timestamp = Marca de tiempo { NUMBER($timestamp, useGroupin
 
 about-webrtc-show-msg-sdp = Mostrar SDP
 about-webrtc-hide-msg-sdp = Ocultar SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
