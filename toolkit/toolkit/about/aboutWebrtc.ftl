@@ -12,17 +12,24 @@ about-webrtc-document-title = Podatki o WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = shrani about:webrtc kot
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Beleženje AEC
 about-webrtc-aec-logging-off-state-label = Začni Beleženje AEC
 about-webrtc-aec-logging-on-state-label = Končaj Beleženje AEC
 about-webrtc-aec-logging-on-state-msg = Beleženje AEC vključeno (nekaj minut govorite s klicateljem in nato končajte zajem)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Samodejno osvežuj
+about-webrtc-aec-logging-toggled-on-state-msg = Beleženje AEC vključeno (nekaj minut govorite s klicateljem in nato končajte zajem)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Dnevniške datoteke zajema lahko najdete na: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Samodejno osvežuj
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = prikaži dnevnik
     .title = kliknite za razširjanje tega razdelka
 about-webrtc-log-hide-msg = skrij dnevnik
     .title = kliknite za strnjanje tega razdelka
+about-webrtc-log-section-show-msg = Prikaži dnevnik
+    .title = Kliknite za razširjanje tega razdelka
+about-webrtc-log-section-hide-msg = Skrij dnevnik
+    .title = Kliknite za strnjanje tega razdelka
 about-webrtc-copy-report-button = Kopiraj poročilo
 
 ## These are used to display a header for a PeerConnection.
@@ -99,6 +110,11 @@ about-webrtc-copy-report-button = Kopiraj poročilo
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (prekinjeno) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -116,6 +132,10 @@ about-webrtc-fold-show-msg = prikaži podrobnosti
     .title = kliknite za razširjanje tega razdelka
 about-webrtc-fold-hide-msg = skrij podrobnosti
     .title = kliknite za strnjanje tega razdelka
+about-webrtc-fold-default-show-msg = Prikaži podrobnosti
+    .title = Kliknite za razširjanje tega razdelka
+about-webrtc-fold-default-hide-msg = Skrij podrobnosti
+    .title = Kliknite za strnjanje tega razdelka
 about-webrtc-dropped-frames-label = Izpuščene sličice:
 about-webrtc-discarded-packets-label = Zavrženi paketi:
 about-webrtc-decoder-label = Dekodirnik
@@ -173,6 +193,9 @@ about-webrtc-save-page-msg = stran shranjena na: { $path }
 about-webrtc-debug-mode-off-state-msg = dnevnik sledenja lahko najdete na: { $path }
 about-webrtc-debug-mode-on-state-msg = razhroščevanje vključeno, dnevnik sledenja na: { $path }
 about-webrtc-aec-logging-off-state-msg = dnevniške datoteke zajema lahko najdete na: { $path }
+about-webrtc-save-page-complete-msg = Stran shranjena na: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Dnevnik sledenja lahko najdete na: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Razhroščevanje vključeno, dnevnik sledenja na: { $path }
 
 ##
 
@@ -257,6 +280,11 @@ about-webrtc-sdp-set-timestamp = Časovni žig { NUMBER($timestamp, useGrouping:
 
 about-webrtc-show-msg-sdp = Prikaži SDP
 about-webrtc-hide-msg-sdp = Skrij SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
