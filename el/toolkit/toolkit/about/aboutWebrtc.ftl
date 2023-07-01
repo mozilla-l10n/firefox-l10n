@@ -211,6 +211,7 @@ about-webrtc-debug-mode-on-state-msg = κατάσταση ελέγχου σφα�
 about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής μπορούν να βρεθούν στο: { $path }
 about-webrtc-save-page-complete-msg = Η σελίδα αποθηκεύτηκε στην διαδρομή: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Κατάσταση ελέγχου σφαλμάτων ενεργή, αρχείο καταγραφής στο: { $path }
 
 ##
 
