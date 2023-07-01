@@ -12,17 +12,24 @@ about-webrtc-document-title = Interne werking van WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc opslaan als
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-registratie
 about-webrtc-aec-logging-off-state-label = AEC-registratie starten
 about-webrtc-aec-logging-on-state-label = AEC-registratie stoppen
 about-webrtc-aec-logging-on-state-msg = AEC-registratie actief (spreek enkele minuten met de beller en stop daarna het vastleggen)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automatisch vernieuwen
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-registratie actief (spreek enkele minuten met de beller en stop daarna het vastleggen)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Vastgelegde logbestanden zijn te vinden in: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatisch vernieuwen
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,10 @@ about-webrtc-log-show-msg = logboek tonen
     .title = klik om deze sectie uit te vouwen
 about-webrtc-log-hide-msg = logboek verbergen
     .title = klik om deze sectie samen te vouwen
+about-webrtc-log-section-show-msg = Logboek tonen
+    .title = Klik om deze sectie uit te vouwen
+about-webrtc-log-section-hide-msg = Logboek verbergen
+    .title = Klik om deze sectie samen te vouwen
 about-webrtc-copy-report-button = Rapport kopiëren
 about-webrtc-copy-report-history-button = Rapportgeschiedenis kopiëren
 
@@ -105,6 +116,11 @@ about-webrtc-copy-report-history-button = Rapportgeschiedenis kopiëren
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (gesloten) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Lokale kandidaat
@@ -116,11 +132,19 @@ about-webrtc-raw-cand-show-msg = ruwe kandidaten tonen
     .title = klik om deze sectie uit te vouwen
 about-webrtc-raw-cand-hide-msg = ruwe kandidaten verbergen
     .title = klik om deze sectie samen te vouwen
+about-webrtc-raw-cand-section-show-msg = Ruwe kandidaten tonen
+    .title = Klik om deze sectie uit te vouwen
+about-webrtc-raw-cand-section-hide-msg = Ruwe kandidaten verbergen
+    .title = Klik om deze sectie samen te vouwen
 about-webrtc-priority = Prioriteit
 about-webrtc-fold-show-msg = details tonen
     .title = klik om deze sectie uit te vouwen
 about-webrtc-fold-hide-msg = details verbergen
     .title = klik om deze sectie samen te vouwen
+about-webrtc-fold-default-show-msg = Details tonen
+    .title = Klik om deze sectie uit te vouwen
+about-webrtc-fold-default-hide-msg = Details verbergen
+    .title = Klik om deze sectie samen te vouwen
 about-webrtc-dropped-frames-label = Verloren frames:
 about-webrtc-discarded-packets-label = Verwijderde pakketten:
 about-webrtc-decoder-label = Decoder
@@ -189,6 +213,9 @@ about-webrtc-save-page-msg = pagina opgeslagen in: { $path }
 about-webrtc-debug-mode-off-state-msg = traceerlogboek is te vinden in: { $path }
 about-webrtc-debug-mode-on-state-msg = debugmodus actief, traceerlogboek in: { $path }
 about-webrtc-aec-logging-off-state-msg = vastgelegde logbestanden zijn te vinden in: { $path }
+about-webrtc-save-page-complete-msg = Pagina opgeslagen in: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Traceerlogboek is te vinden in: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Debugmodus actief, traceerlogboek in: { $path }
 
 ##
 
