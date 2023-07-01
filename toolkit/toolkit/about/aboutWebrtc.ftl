@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC iç bilgileri
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc'yi farklı kaydet
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC günlük kaydı
 about-webrtc-aec-logging-off-state-label = AEC kaydını başlat
 about-webrtc-aec-logging-on-state-label = AEC kaydını durdur
 about-webrtc-aec-logging-on-state-msg = AEC kaydı etkin (Arayanla birkaç dakika konuştuktan sonra yakalamayı durdurun)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Otomatik yenile
+about-webrtc-aec-logging-toggled-on-state-msg = AEC kaydı etkin (Arayanla birkaç dakika konuştuktan sonra yakalamayı durdurun)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Yakalanan günlük dosyaları şurada bulunabilir: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Otomatik yenile
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,10 @@ about-webrtc-log-show-msg = günlüğü göster
     .title = bu bölümü genişletmek için tıklayın
 about-webrtc-log-hide-msg = günlüğü gizle
     .title = bu bölümü daraltmak için tıklayın
+about-webrtc-log-section-show-msg = Günlüğü göster
+    .title = Bu bölümü genişletmek için tıklayın
+about-webrtc-log-section-hide-msg = Günlüğü gizle
+    .title = Bu bölümü daraltmak için tıklayın
 about-webrtc-copy-report-button = Raporu kopyala
 about-webrtc-copy-report-history-button = Rapor geçmişini kopyala
 
@@ -104,6 +115,11 @@ about-webrtc-copy-report-history-button = Rapor geçmişini kopyala
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (kapatıldı) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -121,6 +137,10 @@ about-webrtc-fold-show-msg = ayrıntıları göster
     .title = bu bölümü genişletmek için tıklayın
 about-webrtc-fold-hide-msg = ayrıntıları gizle
     .title = bu bölümü daraltmak için tıklayın
+about-webrtc-fold-default-show-msg = Ayrıntıları göster
+    .title = Bu bölümü genişletmek için tıklayın
+about-webrtc-fold-default-hide-msg = Ayrıntıları gizle
+    .title = Bu bölümü daraltmak için tıklayın
 about-webrtc-dropped-frames-label = Atlanan kareler:
 about-webrtc-discarded-packets-label = Atılan paketler:
 about-webrtc-decoder-label = Çözücü
@@ -189,6 +209,9 @@ about-webrtc-save-page-msg = sayfa { $path } konumuna kaydedildi
 about-webrtc-debug-mode-off-state-msg = izleme günlüğü { $path } konumunda bulunabilir
 about-webrtc-debug-mode-on-state-msg = hata ayıklama modu etkin, izleme günlük konumu: { $path }
 about-webrtc-aec-logging-off-state-msg = yakalanan günlük dosyaları şurada bulunabilir: { $path }
+about-webrtc-save-page-complete-msg = Sayfa { $path } konumuna kaydedildi
+about-webrtc-debug-mode-toggled-off-state-msg = Izleme günlüğü { $path } konumunda bulunabilir
+about-webrtc-debug-mode-toggled-on-state-msg = Hata ayıklama modu etkin, izleme günlük konumu: { $path }
 
 ##
 
