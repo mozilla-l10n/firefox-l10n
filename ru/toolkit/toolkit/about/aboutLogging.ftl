@@ -32,6 +32,7 @@ about-logging-with-profiler-stacks-checkbox = Включить трассиро�
 
 about-logging-preset-networking-label = Сеть
 about-logging-preset-networking-description = Модули журнала для диагностики проблем с сетью
+about-logging-preset-networking-cookie-label = Куки
 about-logging-preset-media-playback-label = Воспроизведение медиа
 about-logging-preset-media-playback-description = Модули журнала для диагностики проблем с воспроизведением мультимедиа (не проблем с видеоконференциями)
 about-logging-preset-custom-label = Персональная

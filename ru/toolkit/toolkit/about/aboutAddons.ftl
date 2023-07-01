@@ -357,6 +357,10 @@ addon-detail-updates-radio-on = Включено
 addon-detail-updates-radio-off = Отключено
 addon-detail-update-check-label = Проверить наличие обновлений
 install-update-button = Обновить
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -365,10 +369,24 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Когда разрешено, расширение будет иметь доступ к вашей активности в Интернете в приватном режиме. <a data-l10n-name="learn-more">Подробнее</a>
 addon-detail-private-browsing-allow = Разрешить
 addon-detail-private-browsing-disallow = Не разрешать
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Запуск на сайтах с ограничениями
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Если это разрешено, расширение будет иметь доступ к сайтам, ограниченным { -vendor-short-name }. Разрешить, только если вы доверяете этому расширению.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Разрешить
+addon-detail-quarantined-domains-disallow = Не разрешать
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
