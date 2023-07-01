@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC-dele
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gem about:webrtc som
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-logning
 about-webrtc-aec-logging-off-state-label = Start AEC-logning
 about-webrtc-aec-logging-on-state-label = Stop AEC-logning
 about-webrtc-aec-logging-on-state-msg = AEC-logning er aktiveret (tal med opringeren i nogle minutter og deaktivér så logningen)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automatisk genindlæsning
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-logning er aktiveret (tal med opringeren i nogle minutter og deaktivér så logningen)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Log-filer kan findes her: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatisk genindlæsning
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,8 @@ about-webrtc-log-show-msg = vis log
     .title = klik for at udvide denne sektion
 about-webrtc-log-hide-msg = skjul log
     .title = klik for at sammenklappe denne sektion
+about-webrtc-log-section-hide-msg = Skjul log
+    .title = Klik for at sammenklappe denne sektion
 about-webrtc-copy-report-button = Kopier rapport
 about-webrtc-copy-report-history-button = Kopier rapport-historik
 
@@ -104,6 +113,11 @@ about-webrtc-copy-report-history-button = Kopier rapport-historik
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (lukket) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -121,6 +135,10 @@ about-webrtc-fold-show-msg = vis detaljer
     .title = klik for at udvide denne sektion
 about-webrtc-fold-hide-msg = skjul detaljer
     .title = klik for at sammenklappe denne sektion
+about-webrtc-fold-default-show-msg = Vis detaljer
+    .title = Klik for at udvide denne sektion
+about-webrtc-fold-default-hide-msg = Skjul detaljer
+    .title = Klik for at sammenklappe denne sektion
 about-webrtc-dropped-frames-label = Dropped frames:
 about-webrtc-discarded-packets-label = Kasserede pakker:
 about-webrtc-decoder-label = Dekoder
@@ -189,6 +207,8 @@ about-webrtc-save-page-msg = Side gemt som: { $path }
 about-webrtc-debug-mode-off-state-msg = trace-log kan findes her: { $path }
 about-webrtc-debug-mode-on-state-msg = debug-tilstand er aktiveret, trace-log findes her: { $path }
 about-webrtc-aec-logging-off-state-msg = log-filer kan findes her: { $path }
+about-webrtc-save-page-complete-msg = Side gemt som: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Trace-log kan findes her: { $path }
 
 ##
 
