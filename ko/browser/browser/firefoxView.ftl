@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = 목록 숨기기
 firefoxview-overview-nav = 최근 탐색
     .title = 최근 탐색
+firefoxview-overview-header = 최근 탐색
+    .title = 최근 탐색
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = 이 탭으로 전환
 firefoxview-show-more = 자세히 보기
 firefoxview-show-less = 간단히 보기
+firefoxview-sort-history-by-date-label = 날짜순 정렬
+firefoxview-sort-history-by-site-label = 사이트순 정렬
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = 오늘 - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = 어제 - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = 모든 기록 보기

@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = 현재 탭 북마크…
 menu-edit-bookmark =
     .label = 이 북마크 편집…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = 북마크 검색
 menu-bookmarks-all-tabs =
     .label = 모든 탭 북마크…
 menu-bookmarks-toolbar =
