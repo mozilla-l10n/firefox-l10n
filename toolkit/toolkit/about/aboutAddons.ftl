@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Поиск
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Загрузите расширения и темы на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Загрузите словари на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Загрузите языковые пакеты на <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = У вас не установлено ни одного дополнения данного типа
 list-empty-available-updates =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Разрешения для сайтов
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Разрешения сайта для { $host }
 
 ## These are global warnings
@@ -156,6 +163,8 @@ extensions-warning-check-compatibility-button = Включить
 extensions-warning-update-security = Проверка безопасного обновления дополнений отключена. Обновления могут поставить вас под угрозу.
 extensions-warning-update-security-button = Включить
     .title = Включить проверку безопасного обновления дополнений
+extensions-warning-imported-addons = Пожалуйста, завершите установку расширений, которые были импортированы в { -brand-short-name }.
+extensions-warning-imported-addons-button = Установка расширений
 
 ## Strings connected to add-on updates
 
@@ -224,6 +233,8 @@ shortcuts-duplicate-warning-message = { $shortcut } используется б�
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Уже используется { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Показать ещё { $numberToShow }
@@ -294,16 +305,9 @@ extension-enabled-heading = Включены
 extension-disabled-heading = Отключены
 theme-enabled-heading = Включена
 theme-disabled-heading = Отключены
-theme-disabled-heading2 = Сохранённые темы
 theme-monochromatic-heading = Расцветки
 theme-monochromatic-subheading = Яркие новые расцветки от { -brand-product-name }. Доступны в течение ограниченного времени.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Попробуйте раскраски
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Сменить расцветку
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Истекает { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Сохранённые темы
 plugin-enabled-heading = Включены
 plugin-disabled-heading = Отключены
 dictionary-enabled-heading = Включены
@@ -362,6 +366,10 @@ addon-detail-private-browsing-help = Когда разрешено, расшир
 addon-detail-private-browsing-allow = Разрешить
 addon-detail-private-browsing-disallow = Не разрешать
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -389,6 +397,8 @@ addon-permissions-optional = Необязательные разрешения �
 addon-permissions-learnmore = Узнать больше о разрешениях
 recommended-extensions-heading = Рекомендуемые расширения
 recommended-themes-heading = Рекомендуемые темы
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Предоставляет следующие возможности <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -415,8 +425,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } несовместимо с { -brand-short-name } { $version }.
 details-notification-incompatible-link = Больше информации
 details-notification-unsigned-and-disabled = Работа { $name } в { -brand-short-name } не была проверена, поэтому оно было отключено.
