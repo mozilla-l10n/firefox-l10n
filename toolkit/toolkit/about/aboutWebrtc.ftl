@@ -21,6 +21,10 @@ about-webrtc-aec-logging-msg-label = רישום AEC
 about-webrtc-aec-logging-off-state-label = התחלת רישום AEC
 about-webrtc-aec-logging-on-state-label = עצירת רישום AEC
 about-webrtc-aec-logging-on-state-msg = רישום AEC פעיל (יש לדבר עם המתקשר לכמה דקות ואז להפסיק את ההקלטה)
+about-webrtc-aec-logging-toggled-on-state-msg = רישום AEC פעיל (יש לדבר עם המתקשר לכמה דקות ואז להפסיק את ההקלטה)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = קובצי יומן שנלכדו זמינים במיקום: { $path }
 
 ##
 
@@ -124,10 +128,18 @@ about-webrtc-raw-cand-show-msg = הצגת מועמדים גולמיים
     .title = יש ללחוץ כדי להרחיב מקטע זה
 about-webrtc-raw-cand-hide-msg = הסתרת מועמדים גולמיים
     .title = יש ללחוץ כדי לצמצם מקטע זה
+about-webrtc-raw-cand-section-show-msg = הצגת מועמדים גולמיים
+    .title = יש ללחוץ כדי להרחיב מקטע זה
+about-webrtc-raw-cand-section-hide-msg = הסתרת מועמדים גולמיים
+    .title = יש ללחוץ כדי לצמצם מקטע זה
 about-webrtc-priority = עדיפות
 about-webrtc-fold-show-msg = הצגת פרטים
     .title = יש ללחוץ כדי להרחיב את מקטע זה
 about-webrtc-fold-hide-msg = הסתרת פרטים
+    .title = יש ללחוץ כדי לצמצם את מקטע זה
+about-webrtc-fold-default-show-msg = הצגת פרטים
+    .title = יש ללחוץ כדי להרחיב את מקטע זה
+about-webrtc-fold-default-hide-msg = הסתרת פרטים
     .title = יש ללחוץ כדי לצמצם את מקטע זה
 about-webrtc-decoder-label = מפענח
 about-webrtc-encoder-label = מקודד
@@ -162,6 +174,8 @@ about-webrtc-save-page-msg = הדף נשמר אל: { $path }
 about-webrtc-debug-mode-off-state-msg = יומן מעקב זמין במיקום: { $path }
 about-webrtc-debug-mode-on-state-msg = מצב ניפוי שגיאות פעיל, יומן מעקב זמין במיקום: { $path }
 about-webrtc-aec-logging-off-state-msg = קובצי יומן שנלכדו זמינים במיקום: { $path }
+about-webrtc-save-page-complete-msg = הדף נשמר אל: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = יומן מעקב זמין במיקום: { $path }
 
 ##
 
