@@ -12,17 +12,21 @@ about-webrtc-document-title = WebRTC – შიდა მონაცემე�
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = შეინახოს about:webrtc, როგორც
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-აღრიცხვა
 about-webrtc-aec-logging-off-state-label = AEC-აღრიცხვის დაწყება
 about-webrtc-aec-logging-on-state-label = AEC-აღრიცხვის შეჩერება
 about-webrtc-aec-logging-on-state-msg = AEC-აღრიცხვა ამოქმედებულია (ელაპარაკეთ აბონენტს რამდენიმე წუთით და შემდეგ შეწყვიტეთ ჩაწერა)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = თვითგანახლება
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-აღრიცხვა ამოქმედებულია (ელაპარაკეთ აბონენტს რამდენიმე წუთით და შემდეგ შეწყვიტეთ ჩაწერა)
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = თვითგანახლება
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +92,10 @@ about-webrtc-log-show-msg = ჩანაწერების ჩვენებ
     .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
 about-webrtc-log-hide-msg = ჩანაწერების დამალვა
     .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
+about-webrtc-log-section-show-msg = ჩანაწერების ჩვენება
+    .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
+about-webrtc-log-section-hide-msg = ჩანაწერების დამალვა
+    .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +106,11 @@ about-webrtc-log-hide-msg = ჩანაწერების დამალვ
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (დახურული) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -257,6 +270,11 @@ about-webrtc-sdp-set-timestamp = დროის ნიშნული { NUMBER(
 
 about-webrtc-show-msg-sdp = გამოჩნდეს SDP
 about-webrtc-hide-msg-sdp = დაიმალოს SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
