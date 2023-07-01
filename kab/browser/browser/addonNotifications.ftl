@@ -13,8 +13,9 @@ xpinstall-prompt-message = Ad tettaɛraḍeḍ ad tesbeddeḍ azegrir seg { $hos
 ##
 
 xpinstall-prompt-header-unknown = Sireg asmel arussin ad yesbedd azegrir?
+xpinstall-prompt-message-unknown = Ad tettaɛraḍeḍ ad tesbeddeḍ azegrir seg %S seg usmel arussin. Ḍmen d akken d asmel yettwamanen uqbel ad tkemmleḍ.
 xpinstall-prompt-dont-allow =
-    .label = Ur ttaǧǧa ara
+    .label = Ur sirig ara
     .accesskey = D
 xpinstall-prompt-never-allow =
     .label = Werǧin ad tsirgeḍ
