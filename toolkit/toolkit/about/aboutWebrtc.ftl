@@ -12,17 +12,23 @@ about-webrtc-document-title = Detalhs intèrnes de WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = enregistrar about:webrtc jos
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Jornalizacion AEC 
 about-webrtc-aec-logging-off-state-label = Aviar la jornalizacion AEC
 about-webrtc-aec-logging-on-state-label = Arrèstar la jornalizacion AEC
 about-webrtc-aec-logging-on-state-msg = Jornalizacion AEC activa (parlatz amb lo correspondant unas minutas puèi arrestatz l'enregistrament)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Actualizacion auto
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Los fichièrs de jornalizacion capturats son disponibles a l'emplaçament seguent : { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Actualizacion auto
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +94,10 @@ about-webrtc-log-show-msg = afichar l'istoric
     .title = clicatz per desvolopar aquesta seccion
 about-webrtc-log-hide-msg = amagar l'istoric
     .title = clicatz per reduire aquesta seccion
+about-webrtc-log-section-show-msg = Afichar l'istoric
+    .title = Clicatz per desvolopar aquesta seccion
+about-webrtc-log-section-hide-msg = Amagar l'istoric
+    .title = Clicatz per reduire aquesta seccion
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +108,11 @@ about-webrtc-log-hide-msg = amagar l'istoric
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (tampat) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -115,6 +130,10 @@ about-webrtc-fold-show-msg = afichar los detalhs
     .title = clicatz per desvolopar aquesta seccion
 about-webrtc-fold-hide-msg = amagar los detalhs
     .title = clicatz per reduire aquesta seccion
+about-webrtc-fold-default-show-msg = Afichar los detalhs
+    .title = Clicatz per desvolopar aquesta seccion
+about-webrtc-fold-default-hide-msg = Amagar los detalhs
+    .title = Clicatz per reduire aquesta seccion
 about-webrtc-dropped-frames-label = Imatges perduts :
 about-webrtc-discarded-packets-label = Paquets ignorats :
 about-webrtc-decoder-label = Desencodador
@@ -183,6 +202,9 @@ about-webrtc-save-page-msg = pagina enregistrada a l'emplaçament seguent : { $
 about-webrtc-debug-mode-off-state-msg = lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
 about-webrtc-debug-mode-on-state-msg = mòde desbugatge actiu, lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
 about-webrtc-aec-logging-off-state-msg = los fichièrs de jornalizacion capturats son disponibles a l'emplaçament seguent : { $path }
+about-webrtc-save-page-complete-msg = Pagina enregistrada a l'emplaçament seguent : { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Mòde desbugatge actiu, lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
 
 ##
 
@@ -257,6 +279,11 @@ about-webrtc-sdp-set-timestamp = Orodatatge { NUMBER($timestamp, useGrouping: "f
 
 about-webrtc-show-msg-sdp = Mostrar lo SDP
 about-webrtc-hide-msg-sdp = Amagar lo SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
