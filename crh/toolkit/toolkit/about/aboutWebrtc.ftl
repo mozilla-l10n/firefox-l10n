@@ -159,6 +159,7 @@ about-webrtc-debug-mode-on-state-msg = illetsizlendirim tarzı faal, izleme küt
 about-webrtc-aec-logging-off-state-msg = yaqalanğan kütük dosyeleri şurada tapılabilir: { $path }
 about-webrtc-save-page-complete-msg = Saife şunda saqlandı: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Izleme kütügi şurada tapılabilir: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Illetsizlendirim tarzı faal, izleme kütügi şurada: { $path }
 
 ##
 
