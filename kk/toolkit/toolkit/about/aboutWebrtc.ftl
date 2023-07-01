@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC ішкі құрылысы
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc қалайша сақтау
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC логтауы
 about-webrtc-aec-logging-off-state-label = AEC логтауын іске қосу
 about-webrtc-aec-logging-on-state-label = AEC логтауын тоқтату
 about-webrtc-aec-logging-on-state-msg = AEC логтауы белсенді (абонентпен бірнеше минут бойы сөйлесіп, жазуды тоқтатыңыз)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Автожаңарту
+about-webrtc-aec-logging-toggled-on-state-msg = AEC логтауы белсенді (абонентпен бірнеше минут бойы сөйлесіп, жазуды тоқтатыңыз)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Жиналған лог файлдарының орналасқан жері: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Автожаңарту
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = логты көрсету
     .title = бұл санатты жазық қылу үшін шертіңіз
 about-webrtc-log-hide-msg = логты жасыру
     .title = бұл санатты жинау үшін шертіңіз
+about-webrtc-log-section-show-msg = Логты көрсету
+    .title = Бұл санатты жазық қылу үшін шертіңіз
+about-webrtc-log-section-hide-msg = Логты жасыру
+    .title = Бұл санатты жинау үшін шертіңіз
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +109,11 @@ about-webrtc-log-hide-msg = логты жасыру
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (жабылған) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -115,6 +131,10 @@ about-webrtc-fold-show-msg = ақпаратын көрсету
     .title = бұл санатты жазық қылу үшін шертіңіз
 about-webrtc-fold-hide-msg = ақпаратын жасыру
     .title = бұл санатты жинау үшін шертіңіз
+about-webrtc-fold-default-show-msg = Ақпаратын көрсету
+    .title = Бұл санатты жазық қылу үшін шертіңіз
+about-webrtc-fold-default-hide-msg = Ақпаратын жасыру
+    .title = Бұл санатты жинау үшін шертіңіз
 about-webrtc-dropped-frames-label = Тасталған фреймдер:
 about-webrtc-discarded-packets-label = Тасталған дестелер:
 about-webrtc-decoder-label = Декодер
@@ -183,6 +203,9 @@ about-webrtc-save-page-msg = бет сақталған жері: { $path }
 about-webrtc-debug-mode-off-state-msg = трейс логын келесі жерден табу мүмкін емес: { $path }
 about-webrtc-debug-mode-on-state-msg = жөндеу режимі іске қосулы, трей лог жері: { $path }
 about-webrtc-aec-logging-off-state-msg = жиналған лог файлдарының орналасқан жері: { $path }
+about-webrtc-save-page-complete-msg = Бет сақталған жері: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Трейс логын келесі жерден табу мүмкін емес: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Жөндеу режимі іске қосулы, трей лог жері: { $path }
 
 ##
 
@@ -254,6 +277,11 @@ about-webrtc-sdp-set-timestamp = Уақыт белгісі { NUMBER($timestamp, 
 
 about-webrtc-show-msg-sdp = SDP көрсету
 about-webrtc-hide-msg-sdp = SDP жасыру
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
