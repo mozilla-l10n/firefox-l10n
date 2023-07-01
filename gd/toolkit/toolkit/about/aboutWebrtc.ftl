@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC Internals
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = sàbhail about:webrtc mar
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Logadh AEC
 about-webrtc-aec-logging-off-state-label = Tòisich air logadh AEC
 about-webrtc-aec-logging-on-state-label = Sguir de logadh AEC
 about-webrtc-aec-logging-on-state-msg = Tha an logadh AEC gnìomhach (bruidhinn ris an neach a ghairm beagan mhionaidean is sguir dhen ghlacadh an uairsin)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Auto Refresh
+about-webrtc-aec-logging-toggled-on-state-msg = Tha an logadh AEC gnìomhach (bruidhinn ris an neach a ghairm beagan mhionaidean is sguir dhen ghlacadh an uairsin)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Gheibhear na faidhlichean loga an-seo: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Auto Refresh
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = seall an loga
     .title = dèan briogadh gus an earrann seo a leudachadh
 about-webrtc-log-hide-msg = falaich an loga
     .title = dèan briogadh gus an earrann seo a cho-theannadh
+about-webrtc-log-section-show-msg = Seall an loga
+    .title = Dèan briogadh gus an earrann seo a leudachadh
+about-webrtc-log-section-hide-msg = Falaich an loga
+    .title = Dèan briogadh gus an earrann seo a cho-theannadh
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +109,11 @@ about-webrtc-log-hide-msg = falaich an loga
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (air a dhùnadh) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -115,6 +131,10 @@ about-webrtc-fold-show-msg = seall am mion-fhiosrachadh
     .title = dèan briogadh gus an earrann seo a leudachadh
 about-webrtc-fold-hide-msg = falaich am mion-fhiosrachadh
     .title = dèan briogadh gus an earrann seo a cho-theannadh
+about-webrtc-fold-default-show-msg = Seall am mion-fhiosrachadh
+    .title = Dèan briogadh gus an earrann seo a leudachadh
+about-webrtc-fold-default-hide-msg = Falaich am mion-fhiosrachadh
+    .title = Dèan briogadh gus an earrann seo a cho-theannadh
 about-webrtc-dropped-frames-label = Frèamaichean a thuit:
 about-webrtc-discarded-packets-label = Pacaidean a chaidh a thilgeil air falbh:
 about-webrtc-decoder-label = Dì-chòdaichear
@@ -183,6 +203,9 @@ about-webrtc-save-page-msg = chaidh an duilleag a shàbhaladh an-seo: { $path }
 about-webrtc-debug-mode-off-state-msg = gheibhear an trace log an-seo: { $path }
 about-webrtc-debug-mode-on-state-msg = tha am modh dì-bhugachaidh air, an trace log an-seo: { $path }
 about-webrtc-aec-logging-off-state-msg = gheibhear na faidhlichean loga an-seo: { $path }
+about-webrtc-save-page-complete-msg = Chaidh an duilleag a shàbhaladh an-seo: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Gheibhear an trace log an-seo: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Tha am modh dì-bhugachaidh air, an trace log an-seo: { $path }
 
 ##
 
@@ -267,6 +290,11 @@ about-webrtc-sdp-set-timestamp = Stampa-tìde { NUMBER($timestamp, useGrouping: 
 
 about-webrtc-show-msg-sdp = Show SDP
 about-webrtc-hide-msg-sdp = Hide SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
