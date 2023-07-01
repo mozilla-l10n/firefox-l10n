@@ -22,6 +22,9 @@ about-webrtc-aec-logging-off-state-label = Inandia registraçion AEC
 about-webrtc-aec-logging-on-state-label = Ferma registraçion AEC
 about-webrtc-aec-logging-on-state-msg = Registraçion AEC ativa (parlâ pe quarche menuto con 'n interlocutô e fermâ a registraçion)
 about-webrtc-aec-logging-toggled-on-state-msg = Registraçion AEC ativa (parlâ pe quarche menuto con 'n interlocutô e fermâ a registraçion)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = I schedai de registro creæ en chi: { $path }
 
 ##
 
