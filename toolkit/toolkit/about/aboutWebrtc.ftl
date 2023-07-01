@@ -126,10 +126,18 @@ about-webrtc-raw-cand-show-msg = ნედლი კანდიდატებ�
     .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
 about-webrtc-raw-cand-hide-msg = ნედლი კანდიდატების დამალვა
     .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
+about-webrtc-raw-cand-section-show-msg = ნედლი კანდიდატების ჩვენება
+    .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
+about-webrtc-raw-cand-section-hide-msg = ნედლი კანდიდატების დამალვა
+    .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
 about-webrtc-priority = პრიორიტეტი
 about-webrtc-fold-show-msg = ვრცლად ჩვენება
     .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
 about-webrtc-fold-hide-msg = შემოკლებულად ჩვენება
+    .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
+about-webrtc-fold-default-show-msg = ვრცლად ჩვენება
+    .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
+about-webrtc-fold-default-hide-msg = შემოკლებულად ჩვენება
     .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
 about-webrtc-dropped-frames-label = გამოტოვებული კადრები:
 about-webrtc-discarded-packets-label = უარყოფილი პაკეტები:
@@ -201,6 +209,7 @@ about-webrtc-debug-mode-on-state-msg = გამართვის რეჟი�
 about-webrtc-aec-logging-off-state-msg = ჩაწერის აღრიცხვის ფაილების მდებარეობა: { $path }
 about-webrtc-save-page-complete-msg = გვერდი შეინახა აქ: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = კვალის აღრიცხვის ნახვა შეგიძლიათ აქ: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = გამართვის რეჟიმი ამოქმედებულია, აღრიცხვის მდებარეობა: { $path }
 
 ##
 
