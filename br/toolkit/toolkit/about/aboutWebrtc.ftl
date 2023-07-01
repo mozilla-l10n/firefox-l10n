@@ -162,7 +162,9 @@ about-webrtc-save-page-msg = pajenn enrollet e: { $path }
 about-webrtc-debug-mode-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
 about-webrtc-debug-mode-on-state-msg = mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
 about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall bezañ kavet e-barzh: { $path }
+about-webrtc-save-page-complete-msg = Pajenn enrollet e: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
 
 ##
 
