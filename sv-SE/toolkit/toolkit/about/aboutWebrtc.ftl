@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC-internt
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = spara about:webrtc som
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-loggning
 about-webrtc-aec-logging-off-state-label = Starta AEC-loggning
 about-webrtc-aec-logging-on-state-label = Stoppa AEC-loggning
 about-webrtc-aec-logging-on-state-msg = AEC-loggning aktiv (tala med den som ringer i några minuter och stoppa sedan fångst)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automatisk omladdning
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-loggning aktiv (tala med den som ringer i några minuter och stoppa sedan fångst)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Fångade loggfiler kan hittas i: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatisk omladdning
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,10 @@ about-webrtc-log-show-msg = visa logg
     .title = klicka för att expandera denna sektion
 about-webrtc-log-hide-msg = dölj logg
     .title = klicka för att minimera denna sektion
+about-webrtc-log-section-show-msg = Visa logg
+    .title = Klicka för att expandera denna sektion
+about-webrtc-log-section-hide-msg = Dölj logg
+    .title = Klicka för att minimera denna sektion
 about-webrtc-copy-report-button = Kopiera rapport
 about-webrtc-copy-report-history-button = Kopiera rapporthistorik
 
@@ -104,6 +115,11 @@ about-webrtc-copy-report-history-button = Kopiera rapporthistorik
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (stängd) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -121,6 +137,10 @@ about-webrtc-fold-show-msg = visa detaljer
     .title = klicka för att expandera denna sektion
 about-webrtc-fold-hide-msg = dölj detaljer
     .title = klicka för att minimera denna sektion
+about-webrtc-fold-default-show-msg = Visa detaljer
+    .title = Klicka för att expandera denna sektion
+about-webrtc-fold-default-hide-msg = Dölj detaljer
+    .title = Klicka för att minimera denna sektion
 about-webrtc-dropped-frames-label = Utelämnade bildrutor:
 about-webrtc-discarded-packets-label = Ignorerade paket:
 about-webrtc-decoder-label = Avkodare
@@ -189,6 +209,9 @@ about-webrtc-save-page-msg = sida sparad till: { $path }
 about-webrtc-debug-mode-off-state-msg = spårlogg kan hittas på: { $path }
 about-webrtc-debug-mode-on-state-msg = felsökningsläge aktivt, spårlogg kan hittas på: { $path }
 about-webrtc-aec-logging-off-state-msg = fångade loggfiler kan hittas i: { $path }
+about-webrtc-save-page-complete-msg = Sida sparad till: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Spårlogg kan hittas på: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Felsökningsläge aktivt, spårlogg kan hittas på: { $path }
 
 ##
 
