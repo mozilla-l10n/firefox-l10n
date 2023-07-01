@@ -21,6 +21,7 @@ about-webrtc-aec-logging-msg-label = AEC jurnalga kiritish
 about-webrtc-aec-logging-off-state-label = AEC jurnalga kiritishni boshlash
 about-webrtc-aec-logging-on-state-label = AEC jurnalga kiritishni to‘xtatish
 about-webrtc-aec-logging-on-state-msg = AEC jurnalga kiritish faol (chaqiruvchi bilan bir necha daqiqa gaplashing va soʻngra yozib olishni toʻxtating)
+about-webrtc-aec-logging-toggled-on-state-msg = AEC jurnalga kiritish faol (chaqiruvchi bilan bir necha daqiqa gaplashing va soʻngra yozib olishni toʻxtating)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Yozib olingan jurnal fayllarini bu yerda topish mumkin: { $path }
