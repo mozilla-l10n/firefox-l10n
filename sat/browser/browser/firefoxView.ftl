@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = ᱞᱤᱥᱪᱤ ᱩᱠᱩᱭ ᱢᱮ
 firefoxview-overview-nav = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
     .title = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+firefoxview-overview-header = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+    .title = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
 firefoxview-show-more = ᱵᱚᱲᱛᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-show-less = ᱠᱚᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+firefoxview-sort-history-by-date-label = ᱢᱟᱦᱟᱸ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱮᱴ ᱢᱮ
+firefoxview-sort-history-by-site-label = ᱥᱟᱭᱤᱴ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱮᱴ ᱢᱮ
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = ᱛᱮᱦᱮᱸᱧ - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = ᱦᱚᱞᱟ - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = ᱡᱷᱚᱛᱚ ᱦᱤᱛᱟᱹᱞ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
