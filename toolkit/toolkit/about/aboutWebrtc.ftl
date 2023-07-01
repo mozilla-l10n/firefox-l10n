@@ -91,6 +91,8 @@ about-webrtc-log-show-msg = прикажи евиденцију
     .title = кликните да бисте проширили овај одељак
 about-webrtc-log-hide-msg = Сакриј дневник
     .title = кликните да смањите овај одељак
+about-webrtc-log-section-hide-msg = Сакриј дневник
+    .title = Кликните да смањите овај одељак
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -125,6 +127,8 @@ about-webrtc-fold-show-msg = прикажи детаље
     .title = кликните да бисте проширили овај одељак
 about-webrtc-fold-hide-msg = сакриј детаље
     .title = кликните да смањите овај одељак
+about-webrtc-fold-default-hide-msg = Сакриј детаље
+    .title = Кликните да смањите овај одељак
 about-webrtc-dropped-frames-label = Испуштени кадрови:
 about-webrtc-discarded-packets-label = Одбачени пакети:
 about-webrtc-decoder-label = Декодер
