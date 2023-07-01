@@ -128,6 +128,7 @@ firefoxview-sort-history-by-site-label = מיון לפי אתר
 firefoxview-history-date-today = היום - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = אתמול - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
