@@ -12,17 +12,24 @@ about-webrtc-document-title = Útroby WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = uložiť about:webrtc ako
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Záznam AEC
 about-webrtc-aec-logging-off-state-label = Spustiť záznam AEC
 about-webrtc-aec-logging-on-state-label = Zastaviť záznam AEC
 about-webrtc-aec-logging-on-state-msg = Záznam AEC je aktivovaný (rozprávajte sa niekoľko minút s volajúcim a potom zastavte záznam)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automatické obnovovanie
+about-webrtc-aec-logging-toggled-on-state-msg = Záznam AEC je aktivovaný (rozprávajte sa niekoľko minút s volajúcim a potom zastavte záznam)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Zachytené záznamy je možné nájsť tu: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatické obnovovanie
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,10 @@ about-webrtc-log-show-msg = zobraziť záznamy
     .title = kliknutím rozbalíte túto sekciu
 about-webrtc-log-hide-msg = skryť záznamy
     .title = kliknutím skryjete túto sekciu
+about-webrtc-log-section-show-msg = Zobraziť záznamy
+    .title = Kliknutím rozbalíte túto sekciu
+about-webrtc-log-section-hide-msg = Skryť záznamy
+    .title = Kliknutím skryjete túto sekciu
 about-webrtc-copy-report-button = Kopírovať správu
 about-webrtc-copy-report-history-button = Kopírovať históriu záznamov
 
@@ -104,6 +115,11 @@ about-webrtc-copy-report-history-button = Kopírovať históriu záznamov
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ukončené) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -121,6 +137,10 @@ about-webrtc-fold-show-msg = zobraziť podrobnosti
     .title = kliknutím rozbalíte túto sekciu
 about-webrtc-fold-hide-msg = skryť podrobnosti
     .title = kliknutím skryjete túto sekciu
+about-webrtc-fold-default-show-msg = Zobraziť podrobnosti
+    .title = Kliknutím rozbalíte túto sekciu
+about-webrtc-fold-default-hide-msg = Skryť podrobnosti
+    .title = Kliknutím skryjete túto sekciu
 about-webrtc-dropped-frames-label = Vynechané snímky:
 about-webrtc-discarded-packets-label = Zahodené pakety:
 about-webrtc-decoder-label = Dekodér
@@ -189,6 +209,9 @@ about-webrtc-save-page-msg = stránka uložená do: { $path }
 about-webrtc-debug-mode-off-state-msg = denník sledovania je možné nájsť tu: { $path }
 about-webrtc-debug-mode-on-state-msg = režim ladenia je aktivovaný, denník sledovania tu: { $path }
 about-webrtc-aec-logging-off-state-msg = zachytené záznamy je možné nájsť tu: { $path }
+about-webrtc-save-page-complete-msg = Stránka uložená do: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Denník sledovania je možné nájsť tu: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Režim ladenia je aktivovaný, denník sledovania tu: { $path }
 
 ##
 
