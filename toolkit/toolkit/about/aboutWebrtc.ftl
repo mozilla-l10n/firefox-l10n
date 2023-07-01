@@ -12,17 +12,24 @@ about-webrtc-document-title = Internaĵoj de WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = konservi about:webrtc kiel
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Registrado de AEC
 about-webrtc-aec-logging-off-state-label = Komenci registradon de AEC
 about-webrtc-aec-logging-on-state-label = Haltigi registradon de AEC
 about-webrtc-aec-logging-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Aŭtomata aktualiĝo
+about-webrtc-aec-logging-toggled-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Kaptitaj dosieroj de registrado troveblas en: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Aŭtomata aktualiĝo
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = montri registron
     .title = alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-log-hide-msg = kaŝi registron
     .title = alklaku por faldi tiun ĉi sekcion
+about-webrtc-log-section-show-msg = Montri registron
+    .title = Alklkaku por malfaldi tiun ĉi sekcion
+about-webrtc-log-section-hide-msg = Kaŝi registron
+    .title = Alklaku por faldi tiun ĉi sekcion
 about-webrtc-copy-report-button = Kopii raporton
 
 ## These are used to display a header for a PeerConnection.
@@ -99,6 +110,11 @@ about-webrtc-copy-report-button = Kopii raporton
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (femita) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -116,6 +132,10 @@ about-webrtc-fold-show-msg = montri detalojn
     .title = alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-fold-hide-msg = kaŝi detalojn
     .title = alklaku por faldi tiun ĉi sekcion
+about-webrtc-fold-default-show-msg = Montri detalojn
+    .title = Alklkaku por malfaldi tiun ĉi sekcion
+about-webrtc-fold-default-hide-msg = Kaŝi detalojn
+    .title = Alklaku por faldi tiun ĉi sekcion
 about-webrtc-dropped-frames-label = Perditaj kadroj:
 about-webrtc-discarded-packets-label = Forlasitaj paketoj:
 about-webrtc-decoder-label = Malkodilo
@@ -184,6 +204,9 @@ about-webrtc-save-page-msg = paĝo konservita kiel: { $path }
 about-webrtc-debug-mode-off-state-msg = spurregistrado troveblas en: { $path }
 about-webrtc-debug-mode-on-state-msg = senerariga reĝimo aktiva, spurregistrado en: { $path }
 about-webrtc-aec-logging-off-state-msg = kaptitaj dosieroj de registrado troveblas en: { $path }
+about-webrtc-save-page-complete-msg = Paĝo konservita kiel: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Spurregistrado troveblas en: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Senerariga reĝimo aktiva, spurregistrado en: { $path }
 
 ##
 
@@ -258,6 +281,11 @@ about-webrtc-sdp-set-timestamp = Tempindiko { NUMBER($timestamp, useGrouping: "f
 
 about-webrtc-show-msg-sdp = Montri SDP
 about-webrtc-hide-msg-sdp = Kaŝi SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
