@@ -21,6 +21,7 @@ about-webrtc-aec-logging-msg-label = Jurnalizare AEC
 about-webrtc-aec-logging-off-state-label = Pornește jurnalizarea AEC
 about-webrtc-aec-logging-on-state-label = Oprește jurnalizarea AEC
 about-webrtc-aec-logging-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
+about-webrtc-aec-logging-toggled-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
 
 ##
 
@@ -166,6 +167,7 @@ about-webrtc-debug-mode-on-state-msg = mod de depanare activ, jurnalul de urmăr
 about-webrtc-aec-logging-off-state-msg = fișierele de jurnal captate se găsesc în: { $path }
 about-webrtc-save-page-complete-msg = Pagină salvată în: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Jurnalul de urmărire poate fi găsit la: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Mod de depanare activ, jurnalul de urmărire la: { $path }
 
 ##
 
