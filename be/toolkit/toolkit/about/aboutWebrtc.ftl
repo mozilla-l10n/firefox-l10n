@@ -12,17 +12,20 @@ about-webrtc-document-title = Начынне WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = захаваць about:webrtc як
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Журнал AEC
 about-webrtc-aec-logging-off-state-label = Пачаць журналяванне AEC
 about-webrtc-aec-logging-on-state-label = Спыніць журналяванне AEC
 about-webrtc-aec-logging-on-state-msg = Вядзенне журнала AEC уключана (паразмаўляйце з абанентам некалькі хвілін, а затым спыніце захоп)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Аўтаабнаўленне
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Аўтаабнаўленне
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -101,6 +104,11 @@ about-webrtc-copy-report-history-button = Капіяваць гісторыю с
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (закрыта) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Лакальны кандыдат
@@ -117,6 +125,10 @@ about-webrtc-fold-show-msg = паказаць падрабязнасці
     .title = клікніце, каб разгарнуць гэты раздзел
 about-webrtc-fold-hide-msg = схаваць падрабязнасці
     .title = клікніце, каб згарнуць гэты раздзел
+about-webrtc-fold-default-show-msg = Паказаць падрабязнасці
+    .title = Клікніце, каб разгарнуць гэты раздзел
+about-webrtc-fold-default-hide-msg = Схаваць падрабязнасці
+    .title = Клікніце, каб згарнуць гэты раздзел
 about-webrtc-dropped-frames-label = Прапушчаныя кадры:
 about-webrtc-discarded-packets-label = Адхіленыя пакеты:
 about-webrtc-decoder-label = Дэкодэр
@@ -185,6 +197,7 @@ about-webrtc-save-page-msg = старонка захавана ў: { $path }
 about-webrtc-debug-mode-off-state-msg = журнал трасіроўкі можна знайсці ў: { $path }
 about-webrtc-debug-mode-on-state-msg = рэжым адладкі актыўны, журнал трасіроўкі ў: { $path }
 about-webrtc-aec-logging-off-state-msg = файлы журнала захопу можна знайсці ў: { $path }
+about-webrtc-save-page-complete-msg = Старонка захавана ў: { $path }
 
 ##
 
