@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC අභ්‍යන්තර
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ලෙස about:webrtc සුරකින්න
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC සටහන් තැබීම
 about-webrtc-aec-logging-off-state-label = AEC සටහන් තැබීම අරඹන්න
 about-webrtc-aec-logging-on-state-label = AEC සටහන නවතන්න
 about-webrtc-aec-logging-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = ස්වයං නැවුම් කිරීම
+about-webrtc-aec-logging-toggled-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = ග්‍රහණය කළ සටහන් ගොනු: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = ස්වයං නැවුම් කිරීම
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -85,6 +92,10 @@ about-webrtc-log-show-msg = සටහන පෙන්වන්න
     .title = මෙම කොටස දිගහැරීමට ඔබන්න
 about-webrtc-log-hide-msg = සටහන සඟවන්න
     .title = මෙම කොටස හැකිළීමට ඔබන්න
+about-webrtc-log-section-show-msg = සටහන පෙන්වන්න
+    .title = මෙම කොටස දිගහැරීමට ඔබන්න
+about-webrtc-log-section-hide-msg = සටහන සඟවන්න
+    .title = මෙම කොටස හැකිළීමට ඔබන්න
 about-webrtc-copy-report-button = වාර්තාවේ පිටපතක්
 about-webrtc-copy-report-history-button = වාර්තාවේ ඉතිහාසයේ පිටපතක්
 
@@ -98,12 +109,21 @@ about-webrtc-copy-report-history-button = වාර්තාවේ ඉතිහ�
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (වැසූ) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-priority = ප්‍රමුඛතාවය
 about-webrtc-fold-show-msg = විස්තර පෙන්වන්න
     .title = මෙම කොටස දිගහැරීමට ඔබන්න
 about-webrtc-fold-hide-msg = විස්තර සඟවන්න
+    .title = මෙම කොටස හැකිළීමට ඔබන්න
+about-webrtc-fold-default-show-msg = විස්තර පෙන්වන්න
+    .title = මෙම කොටස දිගහැරීමට ඔබන්න
+about-webrtc-fold-default-hide-msg = විස්තර සඟවන්න
     .title = මෙම කොටස හැකිළීමට ඔබන්න
 about-webrtc-decoder-label = විකේතකය
 about-webrtc-encoder-label = ආකේතකය
@@ -149,6 +169,7 @@ about-webrtc-frame-stats-heading = දෘශ්‍යක රාමු සංඛ�
 
 about-webrtc-save-page-msg = පිටුව සුරකින ලද්දේ: { $path }
 about-webrtc-aec-logging-off-state-msg = ග්‍රහණය කළ සටහන් ගොනු: { $path }
+about-webrtc-save-page-complete-msg = පිටුව සුරකින ලද්දේ: { $path }
 
 ##
 
