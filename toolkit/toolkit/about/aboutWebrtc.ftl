@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC-tiedot
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = tallenna about:webrtc nimellä
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-lokitus
 about-webrtc-aec-logging-off-state-label = Käynnistä AEC-lokitus
 about-webrtc-aec-logging-on-state-label = Pysäytä AEC-lokitus
 about-webrtc-aec-logging-on-state-msg = AEC-lokitus päällä (keskustele soittajan kanssa muutama minuutti ja lopeta sen jälkeen kaappaus)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automaattinen päivitys
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-lokitus päällä (keskustele soittajan kanssa muutama minuutti ja lopeta sen jälkeen kaappaus)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Kaapatut lokitiedostot kohteessa: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automaattinen päivitys
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,8 @@ about-webrtc-log-show-msg = näytä loki
     .title = laajenna napsauttamalla
 about-webrtc-log-hide-msg = piilota loki
     .title = kutista napsauttamalla
+about-webrtc-log-section-show-msg = Näytä loki
+    .title = Laajenna napsauttamalla
 about-webrtc-copy-report-button = Kopioi raportti
 
 ## These are used to display a header for a PeerConnection.
@@ -99,6 +108,11 @@ about-webrtc-copy-report-button = Kopioi raportti
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (suljettu) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -116,6 +130,8 @@ about-webrtc-fold-show-msg = näytä tiedot
     .title = laajenna napsauttamalla
 about-webrtc-fold-hide-msg = piilota tiedot
     .title = kutista napsauttamalla
+about-webrtc-fold-default-show-msg = Näytä tiedot
+    .title = Laajenna napsauttamalla
 about-webrtc-dropped-frames-label = Pudotetut kehykset:
 about-webrtc-discarded-packets-label = Hylätyt paketit:
 about-webrtc-decoder-label = Purkaja
@@ -184,6 +200,9 @@ about-webrtc-save-page-msg = sivu tallennettu kohteeseen: { $path }
 about-webrtc-debug-mode-off-state-msg = jäljitysloki kohteessa: { $path }
 about-webrtc-debug-mode-on-state-msg = virheenjäljitystila päällä, jäljitysloki kohteessa: { $path }
 about-webrtc-aec-logging-off-state-msg = kaapatut lokitiedostot kohteessa: { $path }
+about-webrtc-save-page-complete-msg = Sivu tallennettu kohteeseen: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Jäljitysloki kohteessa: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Virheenjäljitystila päällä, jäljitysloki kohteessa: { $path }
 
 ##
 
@@ -258,6 +277,11 @@ about-webrtc-sdp-set-timestamp = Aikaleima { NUMBER($timestamp, useGrouping: "fa
 
 about-webrtc-show-msg-sdp = Näytä SDP
 about-webrtc-hide-msg-sdp = Piilota SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
