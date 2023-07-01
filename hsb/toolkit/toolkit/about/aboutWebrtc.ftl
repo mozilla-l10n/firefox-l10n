@@ -12,17 +12,24 @@ about-webrtc-document-title = Nutřkownosće WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc składować jako
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-protokolowanje
 about-webrtc-aec-logging-off-state-label = AEC-protokolowanje startować
 about-webrtc-aec-logging-on-state-label = AEC-protokolowanje zastajić
 about-webrtc-aec-logging-on-state-msg = AEC-protokolowanje aktiwne (rěčće por mjeńšin ze zawołarjom a zastajće potom natočenje)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Awtomatisce aktualizować
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-protokolowanje aktiwne (rěčće por mjeńšin ze zawołarjom a zastajće potom natočenje)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Móžeće natočene protokolowe dataje namakać w: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Awtomatisce aktualizować
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,10 @@ about-webrtc-log-show-msg = protokol pokazać
     .title = klikńće, zo byšće tutón wotrězk pokazał
 about-webrtc-log-hide-msg = protokol schować
     .title = klikńće, zo byšće tutón wotrězk schował
+about-webrtc-log-section-show-msg = Protokol pokazać
+    .title = Klikńće, zo byšće tutón wotrězk pokazał
+about-webrtc-log-section-hide-msg = Protokol schować
+    .title = Klikńće, zo byšće tutón wotrězk schował
 about-webrtc-copy-report-button = Rozprawu kopěrować
 about-webrtc-copy-report-history-button = Rozprawnisku historiju kopěrować
 
@@ -104,6 +115,11 @@ about-webrtc-copy-report-history-button = Rozprawnisku historiju kopěrować
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (začinjeny) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -121,6 +137,10 @@ about-webrtc-fold-show-msg = podrobnosće pokazać
     .title = klikńće, zo byšće tutón wotrězk pokazał
 about-webrtc-fold-hide-msg = podrobnosće schować
     .title = klikńće, zo byšće tutón wotrězk schował
+about-webrtc-fold-default-show-msg = Podrobnosće pokazać
+    .title = Klikńće, zo byšće tutón wotrězk pokazał
+about-webrtc-fold-default-hide-msg = Podrobnosće schować
+    .title = Klikńće, zo byšće tutón wotrězk schował
 about-webrtc-dropped-frames-label = Wuwostajene wobłuki:
 about-webrtc-discarded-packets-label = Zaćisnjene pakety:
 about-webrtc-decoder-label = Dekodowak
@@ -189,6 +209,9 @@ about-webrtc-save-page-msg = strona je so składowała do: { $path }
 about-webrtc-debug-mode-off-state-msg = slědowanski protokol da so namakać na: { $path }
 about-webrtc-debug-mode-on-state-msg = modus pytanja zmylkow je aktiwny, slědowanski protokol je na: { $path }
 about-webrtc-aec-logging-off-state-msg = móžeće natočene protokolowe dataje namakać w: { $path }
+about-webrtc-save-page-complete-msg = Strona je so składowała do: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Slědowanski protokol da so namakać na: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modus pytanja zmylkow je aktiwny, slědowanski protokol je na: { $path }
 
 ##
 
