@@ -208,6 +208,7 @@ about-webrtc-debug-mode-off-state-msg = afaylu n lǧeṛṛa yella deg tansa-a :
 about-webrtc-debug-mode-on-state-msg = askar n tseɣtit irmed, afaylu n lǧeṛṛa yella deg tansa-yagi: { $path }
 about-webrtc-aec-logging-off-state-msg = ifuyla n usniɣmes yettwaṭfen ad ttwafen di: { $path }
 about-webrtc-save-page-complete-msg = Asebter yettwakles di: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Afaylu n lǧeṛṛa yella deg tansa-a : { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Askar n tseɣtit irmed, afaylu n lǧeṛṛa yella deg tansa-yagi: { $path }
 
 ##
