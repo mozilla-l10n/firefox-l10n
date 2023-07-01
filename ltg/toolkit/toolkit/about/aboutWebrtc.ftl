@@ -127,6 +127,10 @@ about-webrtc-fold-show-msg = Paruodeit seikuoku informaceju
     .title = click to expand this section
 about-webrtc-fold-hide-msg = slēpt detalis
     .title = click to collapse this section
+about-webrtc-fold-default-show-msg = Paruodeit seikuoku informaceju
+    .title = Click to expand this section
+about-webrtc-fold-default-hide-msg = Slēpt detalis
+    .title = Click to collapse this section
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
 
@@ -149,6 +153,7 @@ about-webrtc-save-page-msg = lopa saglobuota: { $path }
 about-webrtc-debug-mode-off-state-msg = trace log can be found at: { $path }
 about-webrtc-debug-mode-on-state-msg = debug mode active, trace log at: { $path }
 about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $path }
+about-webrtc-save-page-complete-msg = Lopa saglobuota: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Trace log can be found at: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Debug mode active, trace log at: { $path }
 
