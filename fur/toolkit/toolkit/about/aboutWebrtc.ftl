@@ -12,17 +12,24 @@ about-webrtc-document-title = Internis WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = salve about:webrtc come
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Regjistrazion di AEC
 about-webrtc-aec-logging-off-state-label = Comence la regjistrazion di AEC
 about-webrtc-aec-logging-on-state-label = Ferme la regjistrazion di AEC
 about-webrtc-aec-logging-on-state-msg = Regjistrazion di AEC ative (cjacare par cualchi minût cun l'interlocutôr e dopo ferme la regjistrazion)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Inzorne in automatic
+about-webrtc-aec-logging-toggled-on-state-msg = Regjistrazion di AEC ative (cjacare par cualchi minût cun l'interlocutôr e dopo ferme la regjistrazion)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = I files regjistrâts a si cjatin in: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Inzorne in automatic
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,10 @@ about-webrtc-log-show-msg = mostre regjistri
     .title = cliche par slargjâ la sezion
 about-webrtc-log-hide-msg = plate regjistri
     .title = cliche par ridusi la sezion
+about-webrtc-log-section-show-msg = Mostre regjistri
+    .title = Cliche par slargjâ la sezion
+about-webrtc-log-section-hide-msg = Plate regjistri
+    .title = Cliche par ridusi la sezion
 about-webrtc-copy-report-button = Copie rapuart
 about-webrtc-copy-report-history-button = Copie cronologjie rapuarts
 
@@ -105,6 +116,11 @@ about-webrtc-copy-report-history-button = Copie cronologjie rapuarts
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (sierât) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Candidât locâl
@@ -116,11 +132,19 @@ about-webrtc-raw-cand-show-msg = mostre candidâts no elaborâts
     .title = cliche par slargjâ la sezion
 about-webrtc-raw-cand-hide-msg = plate candidâts no elaborâts
     .title = cliche par ridusi la sezion
+about-webrtc-raw-cand-section-show-msg = Mostre candidâts no elaborâts
+    .title = Cliche par slargjâ la sezion
+about-webrtc-raw-cand-section-hide-msg = Plate candidâts no elaborâts
+    .title = Cliche par ridusi la sezion
 about-webrtc-priority = Prioritât
 about-webrtc-fold-show-msg = mostre detais
     .title = cliche par slargjâ la sezion
 about-webrtc-fold-hide-msg = plate detais
     .title = cliche par ridusi la sezion
+about-webrtc-fold-default-show-msg = Mostre detais
+    .title = Cliche par slargjâ la sezion
+about-webrtc-fold-default-hide-msg = Plate detais
+    .title = Cliche par ridusi la sezion
 about-webrtc-dropped-frames-label = Fotograms pierdûts:
 about-webrtc-discarded-packets-label = Pachets scartâts:
 about-webrtc-decoder-label = Decoder
@@ -189,6 +213,9 @@ about-webrtc-save-page-msg = pagjine salvade in:{ $path }
 about-webrtc-debug-mode-off-state-msg = regjistri de rie disponibil in: { $path }
 about-webrtc-debug-mode-on-state-msg = modalitât debug ative. Regjistri de rie in: { $path }
 about-webrtc-aec-logging-off-state-msg = i files regjistrâts a si cjatin in: { $path }
+about-webrtc-save-page-complete-msg = Pagjine salvade in:{ $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Regjistri de rie disponibil in: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modalitât debug ative. regjistri de rie in: { $path }
 
 ##
 
