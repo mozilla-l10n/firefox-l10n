@@ -12,17 +12,23 @@ about-webrtc-document-title = WebRTC pypeguáva
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ñongatu pyahu
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC Haipy
 about-webrtc-aec-logging-off-state-label = AEC haipy moñepyrũ
 about-webrtc-aec-logging-on-state-label = AEC haipy jejoko
 about-webrtc-aec-logging-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Henyhẽjey ijehegui
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Marandurenda haipy japyhypyréva ikatu ejuhu amo: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Henyhẽjey ijehegui
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +98,8 @@ about-webrtc-log-show-msg = Haipy jehechauka
     .title = eikutu emyasãi hag̃ua ko pehẽ’i
 about-webrtc-log-hide-msg = haipy mokañy
     .title = eikutu embopaha hag̃ua ko tembiapo
+about-webrtc-log-section-hide-msg = Haipy mokañy
+    .title = Eikutu embopaha hag̃ua ko tembiapo
 about-webrtc-copy-report-button = Emonguatia marandu’i
 about-webrtc-copy-report-history-button = Emonguatia marandu’i rembiasakue
 
@@ -104,6 +112,11 @@ about-webrtc-copy-report-history-button = Emonguatia marandu’i rembiasakue
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (oñemboty) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -189,6 +202,9 @@ about-webrtc-save-page-msg = Kuatiarogue ñeñongatuha: { $path }
 about-webrtc-debug-mode-off-state-msg = Tapykueho jehaipy ikatu ejuhu amo: { $path }
 about-webrtc-debug-mode-on-state-msg = mopotĩha hendýva reko, haipy jehapykueho ápe: { $path }
 about-webrtc-aec-logging-off-state-msg = marandurenda haipy japyhypyréva ikatu ejuhu amo: { $path }
+about-webrtc-save-page-complete-msg = Kuatiarogue ñeñongatuha: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Tapykueho jehaipy ikatu ejuhu amo: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Mopotĩha hendýva reko, haipy jehapykueho ápe: { $path }
 
 ##
 
