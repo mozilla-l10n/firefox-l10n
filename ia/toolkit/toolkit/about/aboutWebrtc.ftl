@@ -98,6 +98,10 @@ about-webrtc-log-show-msg = monstrar le registro
     .title = clicca pro expander iste session
 about-webrtc-log-hide-msg = celar le registro
     .title = clicca pro contraher iste session
+about-webrtc-log-section-show-msg = Monstrar le registro
+    .title = Clicca pro expander iste session
+about-webrtc-log-section-hide-msg = Celar le registro
+    .title = Clicca pro contraher iste session
 about-webrtc-copy-report-button = Copiar reporto
 about-webrtc-copy-report-history-button = Copiar chronologia de reportos
 
@@ -127,11 +131,19 @@ about-webrtc-raw-cand-show-msg = monstrar le candidatos brute
     .title = clicca pro expander iste session
 about-webrtc-raw-cand-hide-msg = celar le candidatos brute
     .title = clicca pro contraher iste session
+about-webrtc-raw-cand-section-show-msg = Monstrar le candidatos brute
+    .title = Clicca pro expander iste session
+about-webrtc-raw-cand-section-hide-msg = Celar le candidatos brute
+    .title = Clicca pro contraher iste session
 about-webrtc-priority = Prioritate
 about-webrtc-fold-show-msg = monstrar le detalios
     .title = clicca pro expander iste session
 about-webrtc-fold-hide-msg = celar le detalios
     .title = clicca pro contraher iste session
+about-webrtc-fold-default-show-msg = Monstrar le detalios
+    .title = Clicca pro expander iste session
+about-webrtc-fold-default-hide-msg = Celar le detalios
+    .title = Clicca pro contraher iste session
 about-webrtc-dropped-frames-label = Photogrammas perdite:
 about-webrtc-discarded-packets-label = Pacchettos discartate:
 about-webrtc-decoder-label = Decodificator
@@ -200,6 +212,9 @@ about-webrtc-save-page-msg = pagina salvate a: { $path }
 about-webrtc-debug-mode-off-state-msg = le registro de traciamento pote trovar se a: { $path }
 about-webrtc-debug-mode-on-state-msg = modo depurator active: registro de traciamento a: { $path }
 about-webrtc-aec-logging-off-state-msg = files de log capturate pote esser trovate in: { $path }
+about-webrtc-save-page-complete-msg = Pagina salvate a: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Le registro de traciamento pote trovar se a: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modo depurator active: registro de traciamento a: { $path }
 
 ##
 
