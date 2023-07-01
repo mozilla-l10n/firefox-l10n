@@ -8,10 +8,12 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Date interne WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = salvează about:webrtc ca
+
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -59,9 +61,6 @@ about-webrtc-ice-pair-bytes-sent = Byți trimiși:
 about-webrtc-ice-pair-bytes-received = Byți primiți:
 about-webrtc-ice-component-id = ID-ul componentei
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -71,16 +70,13 @@ about-webrtc-type-remote = la distanță
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Numite
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selectate
-
 about-webrtc-save-page-label = Salvează pagina
 about-webrtc-debug-mode-msg-label = Mod depanare
 about-webrtc-debug-mode-off-state-label = Pornește modul depanare
@@ -104,8 +100,12 @@ about-webrtc-log-hide-msg = ascunde jurnalul
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (închis) { $now }
 
-##
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
 
+
+##
 
 about-webrtc-local-candidate = Candidat local
 about-webrtc-remote-candidate = Candidat la distanță
@@ -140,16 +140,18 @@ about-webrtc-local-receive-ssrc = SSRC de recepție locală
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = SSRC de transmisie la distanță
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+
 ##
 
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Furnizat
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Nefurnizat
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferințe WebRTC setate de utilizator
 
@@ -162,6 +164,8 @@ about-webrtc-save-page-msg = pagină salvată în: { $path }
 about-webrtc-debug-mode-off-state-msg = jurnalul de urmărire poate fi găsit la: { $path }
 about-webrtc-debug-mode-on-state-msg = mod de depanare activ, jurnalul de urmărire la: { $path }
 about-webrtc-aec-logging-off-state-msg = fișierele de jurnal captate se găsesc în: { $path }
+about-webrtc-save-page-complete-msg = Pagină salvată în: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Jurnalul de urmărire poate fi găsit la: { $path }
 
 ##
 
@@ -170,7 +174,6 @@ about-webrtc-aec-logging-off-state-msg = fișierele de jurnal captate se găsesc
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -183,21 +186,23 @@ about-webrtc-trickle-caption-msg = Candidații prelingătoare (sosite după răs
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Setează SDP local la marcajul temporal { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Setează SDP de la distanță la marcajul temporal { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Marcaj temporal { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
-##
+## These are displayed on the button that shows or hides the SDP information disclosure
 
-##
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
