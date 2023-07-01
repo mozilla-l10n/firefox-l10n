@@ -8,10 +8,12 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = உள்சார்ந்த WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ஆக சேமி
+
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -19,6 +21,10 @@ about-webrtc-aec-logging-msg-label = AEC பதிவிடல்
 about-webrtc-aec-logging-off-state-label = AEC பதிவிடலை தொடங்கு
 about-webrtc-aec-logging-on-state-label = AEC பதிவிடலை நிறுத்து
 about-webrtc-aec-logging-on-state-msg = AEC பதிவிடல் செயலிலுள்ளது (அழைப்பாளருடன் சில நிமிடங்கள் பேசிய பின் பதிவிடலை நிறுத்து)
+about-webrtc-aec-logging-toggled-on-state-msg = AEC பதிவிடல் செயலிலுள்ளது (அழைப்பாளருடன் சில நிமிடங்கள் பேசிய பின் பதிவிடலை நிறுத்து)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = கைப்பற்றப்பட்ட பதிவு கோப்புகளை: { $path } இதில் முடியும்
 
 ##
 
@@ -57,9 +63,6 @@ about-webrtc-ice-pair-bytes-sent = பைட்டுகள் அனுப்�
 about-webrtc-ice-pair-bytes-received = பைட்டுகள் பெறப்பட்டன:
 about-webrtc-ice-component-id = உறுப்பு அடையாளம்
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -69,16 +72,13 @@ about-webrtc-type-remote = தொலைநிலை
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = பரிந்துரைத்தது
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = தேர்ந்தெடுக்கப்பட்டது
-
 about-webrtc-save-page-label = பக்கத்தை சேமி
 about-webrtc-debug-mode-msg-label = வழுநீக்கு முறைமை
 about-webrtc-debug-mode-off-state-label = வழுநீக்கு முறைமையைத் தொடங்கு
@@ -91,6 +91,10 @@ about-webrtc-log-show-msg = பதிவைக் காட்டு
     .title = இப்பிரிவை விரிக்க சொடுக்கவும்
 about-webrtc-log-hide-msg = பதிவை மறை
     .title = இப்பிரிவை சுருக்க சொடுக்கவும்
+about-webrtc-log-section-show-msg = பதிவைக் காட்டு
+    .title = இப்பிரிவை விரிக்க சொடுக்கவும்
+about-webrtc-log-section-hide-msg = பதிவை மறை
+    .title = இப்பிரிவை சுருக்க சொடுக்கவும்
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -102,8 +106,12 @@ about-webrtc-log-hide-msg = பதிவை மறை
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (மூடியது) { $now }
 
-##
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
 
+
+##
 
 about-webrtc-local-candidate = உள்ளமை வேட்பாளர்
 about-webrtc-remote-candidate = தொலை வேட்பாளர்
@@ -112,13 +120,22 @@ about-webrtc-fold-show-msg = விவரங்களைக் காட்ட�
     .title = இப்பிரிவை விரிக்க சொடுக்கவும்
 about-webrtc-fold-hide-msg = விவரங்களை மறை
     .title = இப்பிரிவை சுருக்க சொடுக்கவும்
+about-webrtc-fold-default-show-msg = விவரங்களைக் காட்டு
+    .title = இப்பிரிவை விரிக்க சொடுக்கவும்
+about-webrtc-fold-default-hide-msg = விவரங்களை மறை
+    .title = இப்பிரிவை சுருக்க சொடுக்கவும்
 about-webrtc-decoder-label = குறியவிழக்கி
 about-webrtc-encoder-label = குறியாக்கி
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -129,6 +146,9 @@ about-webrtc-save-page-msg = { $path } என்பதில் பக்கம�
 about-webrtc-debug-mode-off-state-msg = { $path } என்பதில் தடபதிவைக் காணலாம்
 about-webrtc-debug-mode-on-state-msg = வழுநீக்கு முறைமையில் உள்ளது, தடபதிவு: { $path }
 about-webrtc-aec-logging-off-state-msg = கைப்பற்றப்பட்ட பதிவு கோப்புகளை: { $path } இதில் முடியும்
+about-webrtc-save-page-complete-msg = { $path } என்பதில் பக்கம் சேமிக்கப்பட்டது
+about-webrtc-debug-mode-toggled-off-state-msg = { $path } என்பதில் தடபதிவைக் காணலாம்
+about-webrtc-debug-mode-toggled-on-state-msg = வழுநீக்கு முறைமையில் உள்ளது, தடபதிவு: { $path }
 
 ##
 
@@ -142,9 +162,12 @@ about-webrtc-jitter-label = Jitter { $jitter }
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
-##
+## These are displayed on the button that shows or hides the SDP information disclosure
 
-##
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
 
 
 ##
