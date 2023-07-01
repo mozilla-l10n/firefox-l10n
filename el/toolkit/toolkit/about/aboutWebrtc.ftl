@@ -12,17 +12,20 @@ about-webrtc-document-title = Εσωτερικά του WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = αποθήκευση about:webrtc ως
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Καταγραφή AEC
 about-webrtc-aec-logging-off-state-label = Έναρξη καταγραφής AEC
 about-webrtc-aec-logging-on-state-label = Διακοπή καταγραφής AEC
 about-webrtc-aec-logging-on-state-msg = Καταγραφή AEC ενεργή (μιλήστε με τον καλών για λίγα λεπτά και μετά σταματήστε την καταγραφή)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Αυτόματη ανανέωση
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Αυτόματη ανανέωση
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +95,10 @@ about-webrtc-log-show-msg = εμφάνιση αρχείου καταγραφής
     .title = κάντε κλικ για επέκταση ενότητας
 about-webrtc-log-hide-msg = απόκρυψη αρχείου καταγραφής
     .title = κάντε κλικ για σύμπτυξη ενότητας
+about-webrtc-log-section-show-msg = Εμφάνιση αρχείου καταγραφής
+    .title = Κάντε κλικ για επέκταση ενότητας
+about-webrtc-log-section-hide-msg = Απόκρυψη αρχείου καταγραφής
+    .title = Κάντε κλικ για σύμπτυξη ενότητας
 about-webrtc-copy-report-button = Αντιγραφή αναφοράς
 about-webrtc-copy-report-history-button = Αντιγραφή ιστορικού αναφορών
 
@@ -104,6 +111,11 @@ about-webrtc-copy-report-history-button = Αντιγραφή ιστορικού 
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (έκλεισε) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -121,6 +133,10 @@ about-webrtc-fold-show-msg = εμφάνιση λεπτομερειών
     .title = κάντε κλικ για επέκταση ενότητας
 about-webrtc-fold-hide-msg = απόκρυψη λεπτομερειών
     .title = κάντε κλικ για σύμπτυξη ενότητας
+about-webrtc-fold-default-show-msg = Εμφάνιση λεπτομερειών
+    .title = Κάντε κλικ για επέκταση ενότητας
+about-webrtc-fold-default-hide-msg = Απόκρυψη λεπτομερειών
+    .title = Κάντε κλικ για σύμπτυξη ενότητας
 about-webrtc-dropped-frames-label = Απορριφθέντα καρέ:
 about-webrtc-discarded-packets-label = Απορριφθέντα πακέτα:
 about-webrtc-decoder-label = Αποκωδικοποιητής
@@ -189,6 +205,7 @@ about-webrtc-save-page-msg = η σελίδα αποθηκεύτηκε στην �
 about-webrtc-debug-mode-off-state-msg = το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
 about-webrtc-debug-mode-on-state-msg = κατάσταση ελέγχου σφαλμάτων ενεργή, αρχείο καταγραφής στο: { $path }
 about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής μπορούν να βρεθούν στο: { $path }
+about-webrtc-save-page-complete-msg = Η σελίδα αποθηκεύτηκε στην διαδρομή: { $path }
 
 ##
 
