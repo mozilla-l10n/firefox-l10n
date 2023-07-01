@@ -21,6 +21,10 @@ about-webrtc-aec-logging-msg-label = AEC atvikaskráning
 about-webrtc-aec-logging-off-state-label = Byrja AEC-atvikaskráningu
 about-webrtc-aec-logging-on-state-label = Hætta AEC-atvikaskráningu
 about-webrtc-aec-logging-on-state-msg = AEC-atvikaskráning virk (talaðu við viðmælanda í nokkrar mínútur og stöðvaðu svo skráninguna)
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-atvikaskráning virk (talaðu við viðmælanda í nokkrar mínútur og stöðvaðu svo skráninguna)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Hægt er að finna skrár fyrir atvikaskráningu í: { $path }
 
 ##
 
@@ -87,6 +91,10 @@ about-webrtc-log-show-msg = sýna atvikaskrá
     .title = smelltu til að stækka þetta svæði
 about-webrtc-log-hide-msg = fela atvikaskrá
     .title = smelltu til að fella saman þetta svæði
+about-webrtc-log-section-show-msg = Sýna atvikaskrá
+    .title = Smelltu til að stækka þetta svæði
+about-webrtc-log-section-hide-msg = Fela atvikaskrá
+    .title = Smelltu til að fella saman þetta svæði
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -170,6 +178,8 @@ about-webrtc-debug-mode-off-state-msg = rakningarskrá er að finna á: { $path 
 about-webrtc-debug-mode-on-state-msg = villuleitarhamur virkur, rakningarskrá á: { $path }
 about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atvikaskráningu í: { $path }
 about-webrtc-save-page-complete-msg = Síða vistuð á: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Rakningarskrá er að finna á: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Villuleitarhamur virkur, rakningarskrá á: { $path }
 
 ##
 
