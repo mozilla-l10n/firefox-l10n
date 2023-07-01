@@ -41,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = 일부 확장 기능은 허용되지 않음
 unified-extensions-mb-quarantined-domain-message = 데이터 보호를 위해 { -vendor-short-name }에서 모니터링하는 일부 확장 기능만 이 사이트에서 허용됩니다.
+unified-extensions-mb-quarantined-domain-message-2 = 데이터를 보호하기 위해 일부 확장 기능은 이 사이트의 데이터를 읽거나 변경할 수 없습니다. 확장 기능의 설정을 사용하여 { -vendor-short-name }로 제한된 사이트에서 허용합니다.
