@@ -12,17 +12,24 @@ about-webrtc-document-title = Materion Mewnol WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = cadw about:webrtc fel
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Cofnodi AEC
 about-webrtc-aec-logging-off-state-label = Cychwyn Cofnodi AEC
 about-webrtc-aec-logging-on-state-label = Atal Cofnodi AEC
 about-webrtc-aec-logging-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Auto Adnewyddu
+about-webrtc-aec-logging-toggled-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Mae'r ffeiliau cofnod y cipio yn: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Auto Adnewyddu
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = dangos cofnod
     .title = cliciwch i ehangu'r adran
 about-webrtc-log-hide-msg = cuddio cofnod
     .title = cliciwch i gau'r adran
+about-webrtc-log-section-show-msg = Dangos cofnod
+    .title = Cliciwch i ehangu'r adran
+about-webrtc-log-section-hide-msg = Cuddio cofnod
+    .title = Cliciwch i gau'r adran
 about-webrtc-copy-report-button = Copïo Adroddiad
 
 ## These are used to display a header for a PeerConnection.
@@ -99,6 +110,11 @@ about-webrtc-copy-report-button = Copïo Adroddiad
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (cau) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -116,6 +132,10 @@ about-webrtc-fold-show-msg = dangos manylion
     .title = cliciwch i ehangu'r adran
 about-webrtc-fold-hide-msg = cuddio manylion
     .title = cliciwch i gau'r adran
+about-webrtc-fold-default-show-msg = Dangos manylion
+    .title = Cliciwch i ehangu'r adran
+about-webrtc-fold-default-hide-msg = Cuddio manylion
+    .title = Cliciwch i gau'r adran
 about-webrtc-dropped-frames-label = Fframiau wedi'u gollwng:
 about-webrtc-discarded-packets-label = Pecynnau wedi'u hepgor:
 about-webrtc-decoder-label = Datgodwyr
@@ -184,6 +204,9 @@ about-webrtc-save-page-msg = cadwyd y dudalen i: { $path }
 about-webrtc-debug-mode-off-state-msg = mae modd canfod y cofnod olrhain yn: { $path }
 about-webrtc-debug-mode-on-state-msg = modd dadfygio'n weithredol, cofnod olrhain yn { $path }
 about-webrtc-aec-logging-off-state-msg = mae'r ffeiliau cofnod y cipio yn: { $path }
+about-webrtc-save-page-complete-msg = Cadwyd y dudalen i: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Mae modd canfod y cofnod olrhain yn: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modd dadfygio'n weithredol, cofnod olrhain yn { $path }
 
 ##
 
@@ -278,6 +301,11 @@ about-webrtc-sdp-set-timestamp = Stamp amser { NUMBER($timestamp, useGrouping: "
 
 about-webrtc-show-msg-sdp = Dangos SDP
 about-webrtc-hide-msg-sdp = Cuddio SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
