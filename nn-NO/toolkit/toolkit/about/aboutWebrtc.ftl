@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC-internt
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = lagra about:webrtc som
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-logging
 about-webrtc-aec-logging-off-state-label = Start AEC-logging
 about-webrtc-aec-logging-on-state-label = Stopp AEC-logging
 about-webrtc-aec-logging-on-state-msg = AEC-loggning påslått (prat med den som ringjer i nokre minutt og stopp så opptak)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automatisk oppdatering
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-loggning påslått (prat med den som ringjer i nokre minutt og stopp så opptak)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Opptekne loggfiler finn ein i: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatisk oppdatering
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = vis logg
     .title = trykk for å utvida denne delen
 about-webrtc-log-hide-msg = gøym logg
     .title = trykk for å falda saman denne delen
+about-webrtc-log-section-show-msg = Vis logg
+    .title = Trykk for å utvida denne delen
+about-webrtc-log-section-hide-msg = Gøym logg
+    .title = Trykk for å falda saman denne delen
 about-webrtc-copy-report-button = Kopier rapport
 
 ## These are used to display a header for a PeerConnection.
@@ -99,6 +110,11 @@ about-webrtc-copy-report-button = Kopier rapport
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (attlaten) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -116,6 +132,10 @@ about-webrtc-fold-show-msg = vis detaljar
     .title = trykk for å utvida denne delen
 about-webrtc-fold-hide-msg = gøym detaljar
     .title = trykk for å falda saman denne delen
+about-webrtc-fold-default-show-msg = Vis detaljar
+    .title = Trykk for å utvida denne delen
+about-webrtc-fold-default-hide-msg = Gøym detaljar
+    .title = Trykk for å falda saman denne delen
 about-webrtc-dropped-frames-label = Mista rammer:
 about-webrtc-discarded-packets-label = Avviste pakkar:
 about-webrtc-decoder-label = Avkodar
@@ -184,6 +204,9 @@ about-webrtc-save-page-msg = side lagra til: { $path }
 about-webrtc-debug-mode-off-state-msg = sporingslogg finn ein på: { $path }
 about-webrtc-debug-mode-on-state-msg = feilsøkingsmodus påslått, trace log at: { $path }
 about-webrtc-aec-logging-off-state-msg = opptekne loggfiler finn ein i: { $path }
+about-webrtc-save-page-complete-msg = Side lagra til: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Sporingslogg finn ein på: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Feilsøkingsmodus påslått, trace log at: { $path }
 
 ##
 
@@ -258,6 +281,11 @@ about-webrtc-sdp-set-timestamp = Tidsstempel { NUMBER($timestamp, useGrouping: "
 
 about-webrtc-show-msg-sdp = Vis SDP
 about-webrtc-hide-msg-sdp = Skjul SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
