@@ -152,9 +152,9 @@ downloading-file-opens-in-minutes-and-seconds-2 =
 downloading-file-opens-in-seconds-2 =
     .value = Կբացվի { $seconds } վ-ից...
 downloading-file-opens-in-some-time-2 =
-    .value = Կբացվի ավարտելուց հետո…
+    .value = Կբացվի ներբեռնելուց հետո…
 downloading-file-click-to-open =
-    .value = Բացել ավարտելուց հետո
+    .value = Բացել ներբեռնելուց հետո
 
 ##
 
