@@ -22,6 +22,9 @@ about-webrtc-aec-logging-off-state-label = Pornește jurnalizarea AEC
 about-webrtc-aec-logging-on-state-label = Oprește jurnalizarea AEC
 about-webrtc-aec-logging-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
 about-webrtc-aec-logging-toggled-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Fișierele de jurnal captate se găsesc în: { $path }
 
 ##
 
@@ -90,6 +93,10 @@ about-webrtc-log-show-msg = afișează jurnalul
     .title = clic pentru extinderea secțiunii
 about-webrtc-log-hide-msg = ascunde jurnalul
     .title = clic pentru restrângerea secțiunii
+about-webrtc-log-section-show-msg = Afișează jurnalul
+    .title = Clic pentru extinderea secțiunii
+about-webrtc-log-section-hide-msg = Ascunde jurnalul
+    .title = Clic pentru restrângerea secțiunii
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -117,11 +124,19 @@ about-webrtc-raw-cand-show-msg = afișează candidații bruți
     .title = clic pentru extinderea secțiunii
 about-webrtc-raw-cand-hide-msg = ascunde candidații bruți
     .title = clic pentru restrângerea secțiunii
+about-webrtc-raw-cand-section-show-msg = Afișează candidații bruți
+    .title = Clic pentru extinderea secțiunii
+about-webrtc-raw-cand-section-hide-msg = Ascunde candidații bruți
+    .title = Clic pentru restrângerea secțiunii
 about-webrtc-priority = Prioritate
 about-webrtc-fold-show-msg = afișează detaliile
     .title = clic pentru extinderea secțiunii
 about-webrtc-fold-hide-msg = ascunde detalii
     .title = clic pentru restrângerea secțiunii
+about-webrtc-fold-default-show-msg = Afișează detaliile
+    .title = Clic pentru extinderea secțiunii
+about-webrtc-fold-default-hide-msg = Ascunde detalii
+    .title = Clic pentru restrângerea secțiunii
 about-webrtc-decoder-label = Decodor
 about-webrtc-encoder-label = Codor
 about-webrtc-show-tab-label = Afișează fila
