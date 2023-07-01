@@ -123,6 +123,8 @@ firefoxview-collapse-button-hide =
     .title = Skrýt seznam
 firefoxview-overview-nav = Nedávné prohlížení
     .title = Nedávné prohlížení
+firefoxview-overview-header = Nedávné prohlížení
+    .title = Nedávné prohlížení
 
 ## History in this context refers to browser history
 
@@ -164,3 +166,10 @@ firefoxview-opentabs-focus-tab =
     .title = Přepnout na tento panel
 firefoxview-show-more = Zobrazit více
 firefoxview-show-less = Zobrazit méně
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+
+##
+
