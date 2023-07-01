@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Скрыть список
 firefoxview-overview-nav = Недавний просмотр
     .title = Недавний просмотр
+firefoxview-overview-header = Недавний просмотр
+    .title = Недавний просмотр
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,13 @@ firefoxview-opentabs-focus-tab =
     .title = Переключаться на эту вкладку
 firefoxview-show-more = Показать больше
 firefoxview-show-less = Показать меньше
+firefoxview-sort-history-by-date-label = Сортировать по дате
+firefoxview-sort-history-by-site-label = Сортировать по сайтам
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Сегодня - { DATETIME($date, dateStyle: "full") }
+
+##
+
