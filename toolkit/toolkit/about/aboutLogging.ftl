@@ -60,3 +60,4 @@ about-logging-configuration-url-ignored = URL di configurazione ignorato
 about-logging-file-and-profiler-override = Impossibile forzare un file di output e allo stesso tempo ignorare le opzioni del profiler
 
 about-logging-configured-via-url = Opzione configurata tramite URL
+
