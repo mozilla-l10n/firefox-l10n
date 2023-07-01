@@ -12,17 +12,23 @@ about-webrtc-document-title = WebRTC ᱤᱱᱴᱚᱨᱱᱟᱞᱥ
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ᱞᱮᱠᱷ about:webrtc ᱥᱟᱺᱪᱟᱣ
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC ᱞᱚᱜᱤᱝ
 about-webrtc-aec-logging-off-state-label = AEC ᱞᱚᱜᱤᱝᱮ ᱮᱛᱦᱚᱵ ᱢᱮ
 about-webrtc-aec-logging-on-state-label = AEC ᱞᱚᱜᱤᱝ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 about-webrtc-aec-logging-on-state-msg = AEC ᱵᱚᱞᱚ ᱫᱚ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ (ᱠᱚᱞᱚᱨ ᱥᱟᱶ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱚᱠᱚᱛ ᱨᱚᱲ ᱢᱮ ᱟᱨ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱠᱮᱯᱪᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = ᱟᱡ ᱛᱮ ᱟᱹᱨᱩ
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = ᱨᱮ ᱦᱟᱛᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱽ ᱨᱮᱫᱽᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = ᱟᱡ ᱛᱮ ᱟᱹᱨᱩ
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +98,10 @@ about-webrtc-log-show-msg = ᱞᱚᱜᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-log-hide-msg = ᱩᱠᱩ ᱞᱚᱜᱽ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-log-section-show-msg = ᱞᱚᱜᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-log-section-hide-msg = ᱩᱠᱩ ᱞᱚᱜᱽ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-copy-report-button = ᱠᱷᱚᱵᱚᱨ ᱱᱚᱠᱚᱞ ᱮᱱᱟ
 about-webrtc-copy-report-history-button = ᱠᱷᱚᱵᱚᱨ ᱱᱟᱜᱟᱢ ᱱᱚᱠᱚᱞ ᱢᱮ
 
@@ -105,6 +115,11 @@ about-webrtc-copy-report-history-button = ᱠᱷᱚᱵᱚᱨ ᱱᱟᱜᱟᱢ ᱱ
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ᱵᱚᱱᱫᱚ ᱟᱠᱟᱱᱟ) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = ᱥᱩᱯᱩᱨ ᱠᱮᱱᱰᱤᱰᱮᱴ
@@ -116,10 +131,18 @@ about-webrtc-raw-cand-show-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ 
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-raw-cand-hide-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱩᱠᱩᱠᱚᱢ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-raw-cand-section-show-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱠᱚᱢ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-raw-cand-section-hide-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱩᱠᱩᱠᱚᱢ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-priority = ᱢᱚᱦᱚᱛ
 about-webrtc-fold-show-msg = ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-fold-hide-msg = ᱵᱤᱵᱨᱟᱬ ᱩᱠᱩᱭ ᱢᱮ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-fold-default-show-msg = ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
+about-webrtc-fold-default-hide-msg = ᱵᱤᱵᱨᱟᱬ ᱩᱠᱩᱭ ᱢᱮ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-dropped-frames-label = ᱟᱲᱟᱜ ᱜᱤᱰᱤ ᱯᱷᱨᱮᱢᱠᱚ :
 about-webrtc-discarded-packets-label = ᱚᱪᱚᱜ ᱠᱟᱱ ᱯᱮᱠᱮᱴᱠᱚ :
@@ -189,6 +212,9 @@ about-webrtc-save-page-msg = ᱛᱮ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ
 about-webrtc-debug-mode-off-state-msg = ᱨᱮ ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
 about-webrtc-debug-mode-on-state-msg = ᱰᱮᱵᱩᱜ ᱢᱳᱰ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ, ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ : { $path }
 about-webrtc-aec-logging-off-state-msg = ᱨᱮ ᱦᱟᱛᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱽ ᱨᱮᱫᱽᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
+about-webrtc-save-page-complete-msg = ᱛᱮ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = ᱨᱮ ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = ᱰᱮᱵᱩᱜ ᱢᱳᱰ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ, ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ : { $path }
 
 ##
 
