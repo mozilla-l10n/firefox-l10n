@@ -95,6 +95,10 @@ about-webrtc-log-show-msg = แสดงรายการบันทึก
     .title = คลิกเพื่อขยายส่วนนี้
 about-webrtc-log-hide-msg = ซ่อนรายการบันทึก
     .title = คลิกเพื่อยุบส่วนนี้
+about-webrtc-log-section-show-msg = แสดงรายการบันทึก
+    .title = คลิกเพื่อขยายส่วนนี้
+about-webrtc-log-section-hide-msg = ซ่อนรายการบันทึก
+    .title = คลิกเพื่อยุบส่วนนี้
 about-webrtc-copy-report-button = คัดลอกรายงาน
 
 ## These are used to display a header for a PeerConnection.
