@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC اندرونی
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ہتھیکڑا کرو about:webrtc بطور
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC لاگنگ
 about-webrtc-aec-logging-off-state-label = AEC لاگنگ شروع کرو
 about-webrtc-aec-logging-on-state-label = AEC لاگنگ کوں روکو
 about-webrtc-aec-logging-on-state-msg = AEC لاگنگ فعال (کجھ منٹ کیتے کال کرݨ والے نال ڳالھ کرو تے ول کیپچر روک ݙیو)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = آٹو ریفریش
+about-webrtc-aec-logging-toggled-on-state-msg = AEC لاگنگ فعال (کجھ منٹ کیتے کال کرݨ والے نال ڳالھ کرو تے ول کیپچر روک ݙیو)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = کیپچر شدہ لاگ فائلاں ایندے وِچ لبھ سڳدیاں ہن: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = آٹو ریفریش
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = لاگ ݙکھاؤ
     .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
 about-webrtc-log-hide-msg = لاگ لُکاؤ
     .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کرو
+about-webrtc-log-section-show-msg = لاگ ݙکھاؤ
+    .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
+about-webrtc-log-section-hide-msg = لاگ لُکاؤ
+    .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کرو
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +109,11 @@ about-webrtc-log-hide-msg = لاگ لُکاؤ
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (بند) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -110,10 +126,18 @@ about-webrtc-raw-cand-show-msg = خام امیدوار ݙکھاؤ
     .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
 about-webrtc-raw-cand-hide-msg = خام امیدوار لُکاؤ
     .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کرو
+about-webrtc-raw-cand-section-show-msg = خام امیدوار ݙکھاؤ
+    .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
+about-webrtc-raw-cand-section-hide-msg = خام امیدوار لُکاؤ
+    .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کرو
 about-webrtc-priority = ترجیح
 about-webrtc-fold-show-msg = تفصیلاں ݙکھاؤ
     .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
 about-webrtc-fold-hide-msg = تفصیلاں لُکاؤ
+    .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کیتے
+about-webrtc-fold-default-show-msg = تفصیلاں ݙکھاؤ
+    .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
+about-webrtc-fold-default-hide-msg = تفصیلاں لُکاؤ
     .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کیتے
 about-webrtc-dropped-frames-label = ڈٹھے پئے فریم:
 about-webrtc-discarded-packets-label = ضائع شدہ پیکٹ:
@@ -183,6 +207,9 @@ about-webrtc-save-page-msg = ورقہ ایندے اوتے ہتھیکڑا کیت�
 about-webrtc-debug-mode-off-state-msg = ٹریس لاگ ایندے اوتے لبھیا ونڄ سڳدا ہے: { $path }
 about-webrtc-debug-mode-on-state-msg = ڈیبگ موڈ فعال، ٹریس لاگ تے: { $path }
 about-webrtc-aec-logging-off-state-msg = کیپچر شدہ لاگ فائلاں ایندے وِچ لبھ سڳدیاں ہن: { $path }
+about-webrtc-save-page-complete-msg = ورقہ ایندے اوتے ہتھیکڑا کیتا ڳیا ہے: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = ٹریس لاگ ایندے اوتے لبھیا ونڄ سڳدا ہے: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = ڈیبگ موڈ فعال، ٹریس لاگ تے: { $path }
 
 ##
 
@@ -257,6 +284,11 @@ about-webrtc-sdp-set-timestamp = ٹائم سٹیمپ { NUMBER($timestamp, useGro
 
 about-webrtc-show-msg-sdp = SDP ݙکھاؤ
 about-webrtc-hide-msg-sdp = SDP لُکاؤ
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
