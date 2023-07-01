@@ -132,6 +132,10 @@ about-webrtc-fold-show-msg = แสดงรายละเอียด
     .title = คลิกเพื่อขยายส่วนนี้
 about-webrtc-fold-hide-msg = ซ่อนรายละเอียด
     .title = คลิกเพื่อยุบส่วนนี้
+about-webrtc-fold-default-show-msg = แสดงรายละเอียด
+    .title = คลิกเพื่อขยายส่วนนี้
+about-webrtc-fold-default-hide-msg = ซ่อนรายละเอียด
+    .title = คลิกเพื่อยุบส่วนนี้
 about-webrtc-dropped-frames-label = เฟรมที่ถูกดรอป:
 about-webrtc-discarded-packets-label = แพ็คเก็ตที่ถูกละทิ้ง:
 about-webrtc-decoder-label = ตัวถอดรหัส
@@ -200,6 +204,8 @@ about-webrtc-save-page-msg = ได้บันทึกหน้าลงใน
 about-webrtc-debug-mode-off-state-msg = บันทึกร่องรอยสามารถพบได้ที่: { $path }
 about-webrtc-debug-mode-on-state-msg = โหมดดีบั๊กทำงานอยู่ บันทึกการติดตามอยู่ที่: { $path }
 about-webrtc-aec-logging-off-state-msg = ไฟล์บันทึกที่จับสามารถพบได้ใน: { $path }
+about-webrtc-save-page-complete-msg = ได้บันทึกหน้าลงใน: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = บันทึกร่องรอยสามารถพบได้ที่: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = โหมดดีบั๊กทำงานอยู่ บันทึกการติดตามอยู่ที่: { $path }
 
 ##
