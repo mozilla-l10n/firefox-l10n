@@ -162,6 +162,8 @@ extensions-warning-check-compatibility-button = 사용
 extensions-warning-update-security = 부가 기능 업데이트 보안 확인 기능을 사용 안 합니다. 업데이트로 인해 문제가 발생 할 수 있습니다.
 extensions-warning-update-security-button = 사용
     .title = 부가 기능 업데이트 보안 확인 기능 사용
+extensions-warning-imported-addons = { -brand-short-name }로 가져온 확장  기능의 설치를 완료하세요.
+extensions-warning-imported-addons-button = 확장 기능 설치
 
 ## Strings connected to add-on updates
 
@@ -363,6 +365,10 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = 제한이 있는 사이트에서 실행
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = 허용되면 확장 기능은 { -vendor-short-name }에 의해 제한된 사이트에 액세스할 수 있습니다. 이 확장 기능을 신뢰하는 경우에만 허용하세요.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = 허용
 addon-detail-quarantined-domains-disallow = 허용 안 함
