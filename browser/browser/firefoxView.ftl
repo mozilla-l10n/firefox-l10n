@@ -125,6 +125,9 @@ firefoxview-sort-history-by-site-label = מיון לפי אתר
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = היום - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = אתמול - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 
 ##
 
