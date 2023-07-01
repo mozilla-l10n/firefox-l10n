@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Adder scheda actual al marcapaginas…
 menu-edit-bookmark =
     .label = Modificar iste marcapagina…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Cercar in le marcapaginas
 menu-bookmarks-all-tabs =
     .label = Adder tote le schedas al marcapaginas…
 menu-bookmarks-toolbar =
