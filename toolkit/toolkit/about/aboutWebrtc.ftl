@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC Internals
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = บันทึก about:webrtc เป็น
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = การบันทึก AEC
 about-webrtc-aec-logging-off-state-label = เริ่มการบันทึก AEC
 about-webrtc-aec-logging-on-state-label = หยุดการบันทึก AEC
 about-webrtc-aec-logging-on-state-msg = การบันทึก AEC ทำงานอยู่ (พูดกับผู้โทรไม่กี่นาทีแล้วหยุดการจับ)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = การรีเฟรชอัตโนมัติ
+about-webrtc-aec-logging-toggled-on-state-msg = การบันทึก AEC ทำงานอยู่ (พูดกับผู้โทรไม่กี่นาทีแล้วหยุดการจับ)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = ไฟล์บันทึกที่จับสามารถพบได้ใน: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = การรีเฟรชอัตโนมัติ
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -100,6 +107,11 @@ about-webrtc-copy-report-button = คัดลอกรายงาน
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ปิดแล้ว) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = แคนดิเดตภายใน
@@ -110,6 +122,10 @@ about-webrtc-raw-remote-candidate = แคนดิเดตระยะไก�
 about-webrtc-raw-cand-show-msg = แสดงแคนดิเดตดิบ
     .title = คลิกเพื่อขยายส่วนนี้
 about-webrtc-raw-cand-hide-msg = ซ่อนแคนดิเดตดิบ
+    .title = คลิกเพื่อยุบส่วนนี้
+about-webrtc-raw-cand-section-show-msg = แสดงแคนดิเดตดิบ
+    .title = คลิกเพื่อขยายส่วนนี้
+about-webrtc-raw-cand-section-hide-msg = ซ่อนแคนดิเดตดิบ
     .title = คลิกเพื่อยุบส่วนนี้
 about-webrtc-priority = ความสำคัญ
 about-webrtc-fold-show-msg = แสดงรายละเอียด
@@ -184,6 +200,7 @@ about-webrtc-save-page-msg = ได้บันทึกหน้าลงใน
 about-webrtc-debug-mode-off-state-msg = บันทึกร่องรอยสามารถพบได้ที่: { $path }
 about-webrtc-debug-mode-on-state-msg = โหมดดีบั๊กทำงานอยู่ บันทึกการติดตามอยู่ที่: { $path }
 about-webrtc-aec-logging-off-state-msg = ไฟล์บันทึกที่จับสามารถพบได้ใน: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = โหมดดีบั๊กทำงานอยู่ บันทึกการติดตามอยู่ที่: { $path }
 
 ##
 
