@@ -22,6 +22,9 @@ about-webrtc-aec-logging-off-state-label = Iniciar registro AEC
 about-webrtc-aec-logging-on-state-label = Parar registro AEC
 about-webrtc-aec-logging-on-state-msg = Registro AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
 about-webrtc-aec-logging-toggled-on-state-msg = Registro AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Arquivos de log capturados podem ser encontradas em: { $path }
 
 ##
 
@@ -211,6 +214,7 @@ about-webrtc-debug-mode-off-state-msg = o registro de acompanhamento pode ser en
 about-webrtc-debug-mode-on-state-msg = modo de depuração ativo, registro de execução em: { $path }
 about-webrtc-aec-logging-off-state-msg = arquivos de log capturados podem ser encontradas em: { $path }
 about-webrtc-save-page-complete-msg = Página salva em: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = O registro de acompanhamento pode ser encontrado em: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuração ativo, registro de execução em: { $path }
 
 ##
