@@ -21,6 +21,7 @@ about-webrtc-aec-logging-msg-label = AEC zapisnik
 about-webrtc-aec-logging-off-state-label = Započni AEC zapisnik
 about-webrtc-aec-logging-on-state-label = Zaustavi AEC zapisnik
 about-webrtc-aec-logging-on-state-msg = AEC zapisnik aktivan (razgovaraj s pozivateljem par minuta i zatim zaustavi snimanje)
+about-webrtc-aec-logging-toggled-on-state-msg = AEC zapisnik aktivan (razgovaraj s pozivateljem par minuta i zatim zaustavi snimanje)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Snimljene log datoteke je moguće pronaći u: { $path }
@@ -92,6 +93,10 @@ about-webrtc-log-show-msg = prikaži zapisnik
     .title = klikni za rasklapanje ovog odjeljka
 about-webrtc-log-hide-msg = sakrij zapisnik
     .title = klikni za sklapanje ovog odjeljka
+about-webrtc-log-section-show-msg = Prikaži zapisnik
+    .title = Klikni za rasklapanje ovog odjeljka
+about-webrtc-log-section-hide-msg = Sakrij zapisnik
+    .title = Klikni za sklapanje ovog odjeljka
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -117,6 +122,10 @@ about-webrtc-fold-show-msg = prikaži detalje
     .title = klikni za rasklapanje ovog odjeljka
 about-webrtc-fold-hide-msg = sakrij detalje
     .title = klikni za sklapanje ovog odjeljka
+about-webrtc-fold-default-show-msg = Prikaži detalje
+    .title = Klikni za rasklapanje ovog odjeljka
+about-webrtc-fold-default-hide-msg = Sakrij detalje
+    .title = Klikni za sklapanje ovog odjeljka
 about-webrtc-decoder-label = Dekoder
 about-webrtc-encoder-label = Koder
 about-webrtc-show-tab-label = Prikaži karticu
