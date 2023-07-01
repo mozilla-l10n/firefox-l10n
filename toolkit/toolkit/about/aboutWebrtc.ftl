@@ -205,6 +205,7 @@ about-webrtc-debug-mode-on-state-msg = modo de depuração ativo, registo de ras
 about-webrtc-aec-logging-off-state-msg = os ficheiros do registo da captura podem ser encontrados em: { $path }
 about-webrtc-save-page-complete-msg = Página guardada em: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = O registo de execução pode ser encontrado em: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuração ativo, registo de rastreio em: { $path }
 
 ##
 
