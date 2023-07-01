@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC 내부 정보
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc를 다음으로 저장
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC 로깅
 about-webrtc-aec-logging-off-state-label = AEC 로깅 시작
 about-webrtc-aec-logging-on-state-label = AEC 로깅 중지
 about-webrtc-aec-logging-on-state-msg = AEC 로깅 활성화(몇 분 간 대화를 하고 캡처를 중지하세요)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = 자동 새로 고침
+about-webrtc-aec-logging-toggled-on-state-msg = AEC 로깅 활성화(몇 분 간 대화를 하고 캡처를 중지하세요)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = 캡처된 로그파일 위치: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = 자동 새로 고침
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -104,6 +111,11 @@ about-webrtc-copy-report-history-button = 보고서 기록 복사
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (닫기) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -189,6 +201,9 @@ about-webrtc-save-page-msg = 페이지 저장됨: { $path }
 about-webrtc-debug-mode-off-state-msg = 추적로그 위치: { $path }
 about-webrtc-debug-mode-on-state-msg = 디버그 모드 활성화, 추적로그 위치: { $path }
 about-webrtc-aec-logging-off-state-msg = 캡처된 로그파일 위치: { $path }
+about-webrtc-save-page-complete-msg = 페이지 저장됨: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = 추적로그 위치: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = 디버그 모드 활성화, 추적로그 위치: { $path }
 
 ##
 
