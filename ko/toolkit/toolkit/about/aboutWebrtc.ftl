@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = about:webrtc를 다음으로 저장
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = 닫힌 PeerConnections 표시
+about-webrtc-closed-peerconnection-disclosure-hide-msg = 닫힌 PeerConnections 숨기기
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -28,7 +30,7 @@ about-webrtc-aec-logging-toggled-off-state-msg = 캡처된 로그파일 위치: 
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = 자동 새로 고침
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
