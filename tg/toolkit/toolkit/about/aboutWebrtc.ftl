@@ -12,17 +12,24 @@ about-webrtc-document-title = Хусусиятҳои WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = нигоҳ доштани «about:webrtc» ҳамчун
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-off-state-label = Оғози сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-on-state-label = Манъи сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-on-state-msg = Сабти рӯйдодҳои AEC фаъол аст (бо муштарӣ якчанд дақиқа суҳбат кунед ва пас забтро манъ кунед)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Навсозии худкор
+about-webrtc-aec-logging-toggled-on-state-msg = Сабти рӯйдодҳои AEC фаъол аст (бо муштарӣ якчанд дақиқа суҳбат кунед ва пас забтро манъ кунед)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Файлҳои сабти рӯйдодҳои забт дар ин ҷо дастрасанд: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Навсозии худкор
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,10 @@ about-webrtc-log-show-msg = намоиш додани сабти рӯйдодҳ�
     .title = барои баркушодани ин қисмат, зер кунед
 about-webrtc-log-hide-msg = пинҳон кардани сабти рӯйдодҳо
     .title = барои пинҳон кардани ин қисмат, зер кунед
+about-webrtc-log-section-show-msg = Намоиш додани сабти рӯйдодҳо
+    .title = Барои баркушодани ин қисмат, зер кунед
+about-webrtc-log-section-hide-msg = Пинҳон кардани сабти рӯйдодҳо
+    .title = Барои пинҳон кардани ин қисмат, зер кунед
 about-webrtc-copy-report-button = Нусха бардоштани гузориш
 about-webrtc-copy-report-history-button = Нусха бардоштани таърихи гузориш
 
@@ -105,6 +116,11 @@ about-webrtc-copy-report-history-button = Нусха бардоштани таъ
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (пӯшида) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Номзади маҳаллӣ
@@ -116,11 +132,19 @@ about-webrtc-raw-cand-show-msg = намоиш додани номзадҳои к
     .title = барои баркушодани ин қисмат, зер кунед
 about-webrtc-raw-cand-hide-msg = пинҳон кардани номзадҳои коркарднашуда
     .title = барои пинҳон кардани ин қисмат, зер кунед
+about-webrtc-raw-cand-section-show-msg = Намоиш додани номзадҳои коркарднашуда
+    .title = Барои баркушодани ин қисмат, зер кунед
+about-webrtc-raw-cand-section-hide-msg = Пинҳон кардани номзадҳои коркарднашуда
+    .title = Барои пинҳон кардани ин қисмат, зер кунед
 about-webrtc-priority = Афзалият
 about-webrtc-fold-show-msg = намоиш додани тафсилот
     .title = барои баркушодани ин қисмат, зер кунед
 about-webrtc-fold-hide-msg = пинҳон кардани тафсилот
     .title = барои пинҳон кардани ин қисмат, зер кунед
+about-webrtc-fold-default-show-msg = Намоиш додани тафсилот
+    .title = Барои баркушодани ин қисмат, зер кунед
+about-webrtc-fold-default-hide-msg = Пинҳон кардани тафсилот
+    .title = Барои пинҳон кардани ин қисмат, зер кунед
 about-webrtc-dropped-frames-label = Кадрҳои гузаронидашуда:
 about-webrtc-discarded-packets-label = Бастаҳои халосшуда:
 about-webrtc-decoder-label = Рамзёбӣ
@@ -189,6 +213,9 @@ about-webrtc-save-page-msg = саҳифа ба масири зерин ниго�
 about-webrtc-debug-mode-off-state-msg = сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }
 about-webrtc-debug-mode-on-state-msg = реҷаи ислоҳи хатоҳо фаъол аст, сабти рӯйдодҳо дар: { $path }
 about-webrtc-aec-logging-off-state-msg = файлҳои сабти рӯйдодҳои забт дар ин ҷо дастрасанд: { $path }
+about-webrtc-save-page-complete-msg = Саҳифа ба масири зерин нигоҳ дошта шуд: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Реҷаи ислоҳи хатоҳо фаъол аст, сабти рӯйдодҳо дар: { $path }
 
 ##
 
