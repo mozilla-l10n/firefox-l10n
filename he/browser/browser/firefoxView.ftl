@@ -76,6 +76,8 @@ firefoxview-collapse-button-hide =
     .title = הסתרת רשימה
 firefoxview-overview-nav = גלישה אחרונה
     .title = גלישה אחרונה
+firefoxview-overview-header = גלישה אחרונה
+    .title = גלישה אחרונה
 
 ## History in this context refers to browser history
 
@@ -117,3 +119,12 @@ firefoxview-opentabs-focus-tab =
     .title = מעבר ללשונית זו
 firefoxview-show-more = להציג יותר
 firefoxview-show-less = להציג פחות
+firefoxview-sort-history-by-date-label = מיון לפי תאריך
+firefoxview-sort-history-by-site-label = מיון לפי אתר
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+
+##
+
