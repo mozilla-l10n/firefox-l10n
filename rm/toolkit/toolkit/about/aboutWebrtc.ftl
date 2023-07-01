@@ -12,17 +12,24 @@ about-webrtc-document-title = WebRTC - Datas internas
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = memorisar about:webrtc sut
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Protocollar AEC
 about-webrtc-aec-logging-off-state-label = Cumenzar da protocollar AEC
 about-webrtc-aec-logging-on-state-label = Chalar da protocollar AEC
 about-webrtc-aec-logging-on-state-msg = protocollar AEC è activ (discurra in pèr minutas cun il telefonader e terminescha lura il protocollar)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Actualisar automaticamain
+about-webrtc-aec-logging-toggled-on-state-msg = protocollar AEC è activ (discurra in pèr minutas cun il telefonader e terminescha lura il protocollar)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Datotecas da protocols registrads sa chattan qua: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Actualisar automaticamain
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = show log
     .title = click to expand this section
 about-webrtc-log-hide-msg = hide log
     .title = click to collapse this section
+about-webrtc-log-section-show-msg = Show log
+    .title = Click to expand this section
+about-webrtc-log-section-hide-msg = Hide log
+    .title = Click to collapse this section
 about-webrtc-copy-report-button = Copiar il rapport
 
 ## These are used to display a header for a PeerConnection.
@@ -99,6 +110,11 @@ about-webrtc-copy-report-button = Copiar il rapport
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (closed) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -116,6 +132,10 @@ about-webrtc-fold-show-msg = show details
     .title = click to expand this section
 about-webrtc-fold-hide-msg = hide details
     .title = click to collapse this section
+about-webrtc-fold-default-show-msg = Show details
+    .title = Click to expand this section
+about-webrtc-fold-default-hide-msg = Hide details
+    .title = Click to collapse this section
 about-webrtc-dropped-frames-label = Maletgs sursiglids:
 about-webrtc-discarded-packets-label = Pachets ignorads:
 about-webrtc-decoder-label = Decoder
@@ -184,6 +204,9 @@ about-webrtc-save-page-msg = memorisà la pagina sut: { $path }
 about-webrtc-debug-mode-off-state-msg = il protocol dal decurs sa chatta qua: { $path }
 about-webrtc-debug-mode-on-state-msg = modus per chattar sbagls activ, protocol dal decurs sut: { $path }
 about-webrtc-aec-logging-off-state-msg = datotecas da protocols registrads sa chattan qua: { $path }
+about-webrtc-save-page-complete-msg = Memorisà la pagina sut: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Il protocol dal decurs sa chatta qua: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modus per chattar sbagls activ, protocol dal decurs sut: { $path }
 
 ##
 
@@ -258,6 +281,11 @@ about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "fa
 
 about-webrtc-show-msg-sdp = Mussar il SDP
 about-webrtc-hide-msg-sdp = Zuppentar il SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
