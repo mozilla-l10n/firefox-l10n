@@ -12,17 +12,24 @@ about-webrtc-document-title = Datos internos de WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gardar about:webrtc como
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Rexistro AEC
 about-webrtc-aec-logging-off-state-label = Iniciar rexistro AEC
 about-webrtc-aec-logging-on-state-label = Deter rexistro AEC
 about-webrtc-aec-logging-on-state-msg = Rexistro AEC activo (fale co interlocutor durante uns minutos e logo deteña a captura)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Recargar automaticamente
+about-webrtc-aec-logging-toggled-on-state-msg = Rexistro AEC activo (fale co interlocutor durante uns minutos e logo deteña a captura)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Os ficheiros de rexistro poden atoparse en: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Recargar automaticamente
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +99,10 @@ about-webrtc-log-show-msg = amosar rexistro
     .title = prema para expandir esta sección
 about-webrtc-log-hide-msg = agochar rexistro
     .title = prema para contraer esta sección
+about-webrtc-log-section-show-msg = Amosar rexistro
+    .title = Prema para expandir esta sección
+about-webrtc-log-section-hide-msg = Agochar rexistro
+    .title = Prema para contraer esta sección
 about-webrtc-copy-report-button = Copiar informe
 about-webrtc-copy-report-history-button = Copiar o historial do informe
 
@@ -105,6 +116,11 @@ about-webrtc-copy-report-history-button = Copiar o historial do informe
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (pechado) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-local-candidate = Candidato local
@@ -116,11 +132,19 @@ about-webrtc-raw-cand-show-msg = amosar candidatos non procesados
     .title = prema para expandir esta sección
 about-webrtc-raw-cand-hide-msg = agochar candidatos non procesados
     .title = prema para contraer esta sección
+about-webrtc-raw-cand-section-show-msg = Amosar candidatos non procesados
+    .title = Prema para expandir esta sección
+about-webrtc-raw-cand-section-hide-msg = Agochar candidatos non procesados
+    .title = Prema para contraer esta sección
 about-webrtc-priority = Prioridade
 about-webrtc-fold-show-msg = amosar detalles
     .title = prema para expandir esta sección
 about-webrtc-fold-hide-msg = agochar detalles
     .title = prema para contraer esta sección
+about-webrtc-fold-default-show-msg = Amosar detalles
+    .title = Prema para expandir esta sección
+about-webrtc-fold-default-hide-msg = Agochar detalles
+    .title = Prema para contraer esta sección
 about-webrtc-dropped-frames-label = Fotogramas descartados:
 about-webrtc-discarded-packets-label = Paquetes descartados:
 about-webrtc-decoder-label = Descodificador
@@ -189,6 +213,9 @@ about-webrtc-save-page-msg = gardouse a páxina en: { $path }
 about-webrtc-debug-mode-off-state-msg = o rexistro da traza pode atoparse en: { $path }
 about-webrtc-debug-mode-on-state-msg = modo de depuración activo, rexistro da traza en: { $path }
 about-webrtc-aec-logging-off-state-msg = os ficheiros de rexistro poden atoparse en: { $path }
+about-webrtc-save-page-complete-msg = Gardouse a páxina en: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = O rexistro da traza pode atoparse en: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuración activo, rexistro da traza en: { $path }
 
 ##
 
