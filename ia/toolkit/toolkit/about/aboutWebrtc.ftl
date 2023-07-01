@@ -12,17 +12,23 @@ about-webrtc-document-title = Informationes interne de WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = salvar about:webrtc como
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Registration de AEC
 about-webrtc-aec-logging-off-state-label = Comenciar le registration de AEC
 about-webrtc-aec-logging-on-state-label = Stoppar registration AEC
 about-webrtc-aec-logging-on-state-msg = Registration AEC active (parla con le appellator durante alcun minutas e alora stoppa le captura)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Actualisar automaticamente
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Files de log capturate pote esser trovate in: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Actualisar automaticamente
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -104,6 +110,11 @@ about-webrtc-copy-report-history-button = Copiar chronologia de reportos
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (clause) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
