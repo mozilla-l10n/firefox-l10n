@@ -176,6 +176,7 @@ about-webrtc-debug-mode-on-state-msg = מצב ניפוי שגיאות פעיל, 
 about-webrtc-aec-logging-off-state-msg = קובצי יומן שנלכדו זמינים במיקום: { $path }
 about-webrtc-save-page-complete-msg = הדף נשמר אל: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = יומן מעקב זמין במיקום: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = מצב ניפוי שגיאות פעיל, יומן מעקב זמין במיקום: { $path }
 
 ##
 
