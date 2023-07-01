@@ -12,17 +12,20 @@ about-webrtc-document-title = WebRTC интернали
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = Чување странице about:webrtc
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC евидентирање
 about-webrtc-aec-logging-off-state-label = Започни AEC евидентирање
 about-webrtc-aec-logging-on-state-label = Заустави AEC евидентирање
 about-webrtc-aec-logging-on-state-msg = AEC евидентирање је активно (разговарајте са позиваоцем неколико минута па зауставите евидентирање)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Аутоматско освежавање
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Аутоматско освежавање
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -98,6 +101,11 @@ about-webrtc-log-hide-msg = Сакриј дневник
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (затворена) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -183,6 +191,7 @@ about-webrtc-save-page-msg = страница је снимљена на: { $pat
 about-webrtc-debug-mode-off-state-msg = евиденција праћења се налази у: { $path }
 about-webrtc-debug-mode-on-state-msg = режим за отклањање грешака је активан, евиденција праћења је у: { $path }
 about-webrtc-aec-logging-off-state-msg = датотеке евиденција се налазе у: { $path }
+about-webrtc-save-page-complete-msg = Страница је снимљена на: { $path }
 
 ##
 
@@ -262,6 +271,11 @@ about-webrtc-sdp-set-timestamp = Временска ознака { NUMBER($times
 
 about-webrtc-show-msg-sdp = Прикажи SDP
 about-webrtc-hide-msg-sdp = Сакриј SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
