@@ -12,17 +12,20 @@ about-webrtc-document-title = Свойства WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = сохранить about:webrtc как
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Запись AEC
 about-webrtc-aec-logging-off-state-label = Начать запись AEC
 about-webrtc-aec-logging-on-state-label = Остановить запись AEC
 about-webrtc-aec-logging-on-state-msg = Запись AEC ведётся (поговорите с абонентом несколько минут, а затем остановите захват)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Автообновление
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Автообновление
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -104,6 +107,11 @@ about-webrtc-copy-report-history-button = Копировать историю о
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (закрыт) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -189,6 +197,7 @@ about-webrtc-save-page-msg = страница сохранена в: { $path }
 about-webrtc-debug-mode-off-state-msg = журнал отслеживания можно найти в: { $path }
 about-webrtc-debug-mode-on-state-msg = режим отладки активен, журнал отслеживания в: { $path }
 about-webrtc-aec-logging-off-state-msg = файлы журнала захвата можно найти в: { $path }
+about-webrtc-save-page-complete-msg = Страница сохранена в: { $path }
 
 ##
 
