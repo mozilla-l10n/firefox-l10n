@@ -21,6 +21,10 @@ about-webrtc-aec-logging-msg-label = Журнал AEC
 about-webrtc-aec-logging-off-state-label = Пачаць журналяванне AEC
 about-webrtc-aec-logging-on-state-label = Спыніць журналяванне AEC
 about-webrtc-aec-logging-on-state-msg = Вядзенне журнала AEC уключана (паразмаўляйце з абанентам некалькі хвілін, а затым спыніце захоп)
+about-webrtc-aec-logging-toggled-on-state-msg = Вядзенне журнала AEC уключана (паразмаўляйце з абанентам некалькі хвілін, а затым спыніце захоп)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Файлы журнала захопу можна знайсці ў: { $path }
 
 ##
 
@@ -91,6 +95,10 @@ about-webrtc-log-show-msg = паказаць журнал
     .title = націсніце, каб разгарнуць гэты раздзел
 about-webrtc-log-hide-msg = схаваць журнал
     .title = націсніце, каб згарнуць гэты раздзел
+about-webrtc-log-section-show-msg = Паказаць журнал
+    .title = Націсніце, каб разгарнуць гэты раздзел
+about-webrtc-log-section-hide-msg = Схаваць журнал
+    .title = Націсніце, каб згарнуць гэты раздзел
 about-webrtc-copy-report-button = Капіяваць справаздачу
 about-webrtc-copy-report-history-button = Капіяваць гісторыю справаздач
 
@@ -198,6 +206,8 @@ about-webrtc-debug-mode-off-state-msg = журнал трасіроўкі мож
 about-webrtc-debug-mode-on-state-msg = рэжым адладкі актыўны, журнал трасіроўкі ў: { $path }
 about-webrtc-aec-logging-off-state-msg = файлы журнала захопу можна знайсці ў: { $path }
 about-webrtc-save-page-complete-msg = Старонка захавана ў: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Журнал трасіроўкі можна знайсці ў: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Рэжым адладкі актыўны, журнал трасіроўкі ў: { $path }
 
 ##
 
