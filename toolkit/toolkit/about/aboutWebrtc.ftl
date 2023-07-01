@@ -12,17 +12,24 @@ about-webrtc-document-title = Nutśikownosći WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc składowaś ako
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-protokolěrowanje
 about-webrtc-aec-logging-off-state-label = AEC-protokolěrowanje startowaś
 about-webrtc-aec-logging-on-state-label = AEC-protokolěrowanje zastajiś
 about-webrtc-aec-logging-on-state-msg = AEC-protokolěrowanje aktiwne (powědajśo pór minutow ze zazwónjarim a zastajśo pótom nagraśe)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Awtomatiski aktualizěrowaś
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-protokolěrowanje aktiwne (powědajśo pór minutow ze zazwónjarim a zastajśo pótom nagraśe)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Móžośo nagrane protokolowe dataje namakaś w: { $path }
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Awtomatiski aktualizěrowaś
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +95,10 @@ about-webrtc-log-show-msg = protokol pokazaś
     .title = klikniśo, aby toś ten wótrězk pokazał
 about-webrtc-log-hide-msg = protokol schowaś
     .title = klikniśo, aby toś ten wótrězk schował
+about-webrtc-log-section-show-msg = Protokol pokazaś
+    .title = Klikniśo, aby toś ten wótrězk pokazał
+about-webrtc-log-section-hide-msg = Protokol schowaś
+    .title = Klikniśo, aby toś ten wótrězk schował
 about-webrtc-copy-report-button = Rozpšawu kopěrowaś
 
 ## These are used to display a header for a PeerConnection.
@@ -99,6 +110,11 @@ about-webrtc-copy-report-button = Rozpšawu kopěrowaś
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zacynjony) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -116,6 +132,10 @@ about-webrtc-fold-show-msg = drobnostki pokazaś
     .title = klikniśo, aby toś ten wótrězk pokazał
 about-webrtc-fold-hide-msg = drobnostki schowaś
     .title = klikniśo, aby toś ten wótrězk schował
+about-webrtc-fold-default-show-msg = Drobnostki pokazaś
+    .title = Klikniśo, aby toś ten wótrězk pokazał
+about-webrtc-fold-default-hide-msg = Drobnostki schowaś
+    .title = Klikniśo, aby toś ten wótrězk schował
 about-webrtc-dropped-frames-label = Wuwóstajone wobłuki:
 about-webrtc-discarded-packets-label = Zachyśone pakety:
 about-webrtc-decoder-label = Dekoděrowak
@@ -184,6 +204,9 @@ about-webrtc-save-page-msg = bok jo se składł do: { $path }
 about-webrtc-debug-mode-off-state-msg = slědowański protokol dajo se namakaś na: { $path }
 about-webrtc-debug-mode-on-state-msg = modus pytanja zmólkow jo aktiwny, slědowański protokol jo na: { $path }
 about-webrtc-aec-logging-off-state-msg = móžośo nagrane protokolowe dataje namakaś w: { $path }
+about-webrtc-save-page-complete-msg = Bok jo se składł do: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Slědowański protokol dajo se namakaś na: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modus pytanja zmólkow jo aktiwny, slědowański protokol jo na: { $path }
 
 ##
 
@@ -268,6 +291,11 @@ about-webrtc-sdp-set-timestamp = Casowy kołk { NUMBER($timestamp, useGrouping: 
 
 about-webrtc-show-msg-sdp = SDP pokazaś
 about-webrtc-hide-msg-sdp = SDP schowaś
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
 
 ##
 
