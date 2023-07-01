@@ -12,17 +12,21 @@ about-webrtc-document-title = Informações internas do WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = salvar página about:webrtc como
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Registro AEC
 about-webrtc-aec-logging-off-state-label = Iniciar registro AEC
 about-webrtc-aec-logging-on-state-label = Parar registro AEC
 about-webrtc-aec-logging-on-state-msg = Registro AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Atualizar automaticamente
+about-webrtc-aec-logging-toggled-on-state-msg = Registro AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Atualizar automaticamente
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -92,6 +96,8 @@ about-webrtc-log-show-msg = mostrar registro
     .title = clique para expandir esta seção
 about-webrtc-log-hide-msg = ocultar registro
     .title = clique para recolher esta seção
+about-webrtc-log-section-show-msg = Mostrar registro
+    .title = Clique para expandir esta seção
 about-webrtc-copy-report-button = Copiar relatório
 about-webrtc-copy-report-history-button = Copiar histórico de relatórios
 
@@ -104,6 +110,11 @@ about-webrtc-copy-report-history-button = Copiar histórico de relatórios
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (fechado) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
@@ -121,6 +132,8 @@ about-webrtc-fold-show-msg = mostrar detalhes
     .title = clique para expandir esta seção
 about-webrtc-fold-hide-msg = ocultar detalhes
     .title = clique para recolher esta seção
+about-webrtc-fold-default-show-msg = Mostrar detalhes
+    .title = Clique para expandir esta seção
 about-webrtc-dropped-frames-label = Quadros perdidos:
 about-webrtc-discarded-packets-label = Pacotes descartados:
 about-webrtc-decoder-label = Decodificador
@@ -189,6 +202,8 @@ about-webrtc-save-page-msg = página salva em: { $path }
 about-webrtc-debug-mode-off-state-msg = o registro de acompanhamento pode ser encontrado em: { $path }
 about-webrtc-debug-mode-on-state-msg = modo de depuração ativo, registro de execução em: { $path }
 about-webrtc-aec-logging-off-state-msg = arquivos de log capturados podem ser encontradas em: { $path }
+about-webrtc-save-page-complete-msg = Página salva em: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuração ativo, registro de execução em: { $path }
 
 ##
 
