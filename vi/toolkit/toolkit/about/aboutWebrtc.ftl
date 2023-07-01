@@ -120,6 +120,8 @@ about-webrtc-fold-show-msg = hiện chi tiết
     .title = nhấn chuột để mở rộng mục này
 about-webrtc-fold-hide-msg = ẩn chi tiết
     .title = nhấn chuột để thu gọn mục này
+about-webrtc-fold-default-show-msg = Hiện chi tiết
+    .title = Nhấn chuột để mở rộng mục này
 about-webrtc-fold-default-hide-msg = Ẩn chi tiết
     .title = Nhấn chuột để thu gọn mục này
 about-webrtc-dropped-frames-label = Khung hình bị rơi:
@@ -181,6 +183,7 @@ about-webrtc-save-page-msg = đã lưu trang vào: { $path }
 about-webrtc-debug-mode-off-state-msg = nhật ký theo dõi có thể được tìm thấy tại: { $path }
 about-webrtc-debug-mode-on-state-msg = chế độ gỡ lỗi hoạt động, theo dõi nhật ký tại: { $path }
 about-webrtc-aec-logging-off-state-msg = các tập tin nhật ký đã chụp có thể được tìm thấy trong: { $path }
+about-webrtc-save-page-complete-msg = Đã lưu trang vào: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Nhật ký theo dõi có thể được tìm thấy tại: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Chế độ gỡ lỗi hoạt động, theo dõi nhật ký tại: { $path }
 
