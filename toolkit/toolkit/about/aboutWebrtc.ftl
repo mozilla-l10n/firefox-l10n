@@ -132,6 +132,10 @@ about-webrtc-raw-cand-show-msg = vis raw-kandidater
     .title = klik for at udvide denne sektion
 about-webrtc-raw-cand-hide-msg = skjul raw-kandidater
     .title = klik for at sammenklappe denne sektion
+about-webrtc-raw-cand-section-show-msg = Vis raw-kandidater
+    .title = Klik for at udvide denne sektion
+about-webrtc-raw-cand-section-hide-msg = Skjul raw-kandidater
+    .title = Klik for at sammenklappe denne sektion
 about-webrtc-priority = Prioritet
 about-webrtc-fold-show-msg = vis detaljer
     .title = klik for at udvide denne sektion
@@ -211,6 +215,7 @@ about-webrtc-debug-mode-on-state-msg = debug-tilstand er aktiveret, trace-log fi
 about-webrtc-aec-logging-off-state-msg = log-filer kan findes her: { $path }
 about-webrtc-save-page-complete-msg = Side gemt som: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Trace-log kan findes her: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Debug-tilstand er aktiveret, trace-log findes her: { $path }
 
 ##
 
