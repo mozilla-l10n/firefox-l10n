@@ -8,10 +8,12 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Diabarzhiadoù WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = enrollañ about:webrtc evel
+
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -19,6 +21,10 @@ about-webrtc-aec-logging-msg-label = Kerzhlevr AEC
 about-webrtc-aec-logging-off-state-label = Gweredekaat kerzhlevr AEC
 about-webrtc-aec-logging-on-state-label = Diweredekaat kerzhlevr AEC
 about-webrtc-aec-logging-on-state-msg = Enrolladur kerzhlevr AEC gweredekaet (komzit gant ar galver e-pad un nebeud munutennoù ha paouezit an enrolladenn)
+about-webrtc-aec-logging-toggled-on-state-msg = Enrolladur kerzhlevr AEC gweredekaet (komzit gant ar galver e-pad un nebeud munutennoù ha paouezit an enrolladenn)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Restroù kerzhlevr euvret a c'hall bezañ kavet e-barzh: { $path }
 
 ##
 
@@ -58,9 +64,6 @@ about-webrtc-ice-pair-bytes-sent = Eizhbitoù kaset:
 about-webrtc-ice-pair-bytes-received = Eizhbitoù degemeret:
 about-webrtc-ice-component-id = Naoudi ar parzh
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -70,16 +73,13 @@ about-webrtc-type-remote = A-bell
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Rakdibabet
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Diuzet
-
 about-webrtc-save-page-label = Enrollañ ar bajenn
 about-webrtc-debug-mode-msg-label = Mod Diveugañ
 about-webrtc-debug-mode-off-state-label = Deraouiñ ar Mod Diveugañ
@@ -92,6 +92,10 @@ about-webrtc-log-show-msg = diskouez ar c'herzhlevr
     .title = klikit evit kreskaat al lodenn-mañ
 about-webrtc-log-hide-msg = Kuzhat ar c'herzhlevr
     .title = Klikañ da ziskar ar gevrenn-mañ
+about-webrtc-log-section-show-msg = Diskouez ar c'herzhlevr
+    .title = Klikit evit kreskaat al lodenn-mañ
+about-webrtc-log-section-hide-msg = Kuzhat ar c'herzhlevr
+    .title = Klikañ da ziskar ar gevrenn-mañ
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -103,8 +107,12 @@ about-webrtc-log-hide-msg = Kuzhat ar c'herzhlevr
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (bet serret) { $now }
 
-##
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
 
+
+##
 
 about-webrtc-local-candidate = Rakdibab lec'hel
 about-webrtc-remote-candidate = Rakdibab a-bell
@@ -120,6 +128,10 @@ about-webrtc-fold-show-msg = skrammañ ar munudoù
     .title = klikit evit kreskaat al lodenn-mañ
 about-webrtc-fold-hide-msg = kuzhat ar munudoù
     .title = Klikañ da ziskar ar gevrenn-mañ
+about-webrtc-fold-default-show-msg = Skrammañ ar munudoù
+    .title = Klikit evit kreskaat al lodenn-mañ
+about-webrtc-fold-default-hide-msg = Kuzhat ar munudoù
+    .title = Klikañ da ziskar ar gevrenn-mañ
 about-webrtc-decoder-label = Ezvoneger
 about-webrtc-encoder-label = Enboneger
 about-webrtc-width-px = Ledander (pks)
@@ -130,7 +142,12 @@ about-webrtc-rotation-degrees = Troiñ (derezioù)
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -141,6 +158,7 @@ about-webrtc-save-page-msg = pajenn enrollet e: { $path }
 about-webrtc-debug-mode-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
 about-webrtc-debug-mode-on-state-msg = mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
 about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall bezañ kavet e-barzh: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
 
 ##
 
@@ -149,7 +167,6 @@ about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall beza
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Distabilder { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -159,9 +176,12 @@ about-webrtc-trickle-caption-msg = An emstriverien gorrek (a zegouezh goude ar r
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
-##
+## These are displayed on the button that shows or hides the SDP information disclosure
 
-##
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
 
 
 ##
