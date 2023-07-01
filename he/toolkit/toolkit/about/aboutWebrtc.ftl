@@ -12,17 +12,20 @@ about-webrtc-document-title = WebRTC Internals
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = שמירת about:webrtc בשם
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = רישום AEC
 about-webrtc-aec-logging-off-state-label = התחלת רישום AEC
 about-webrtc-aec-logging-on-state-label = עצירת רישום AEC
 about-webrtc-aec-logging-on-state-msg = רישום AEC פעיל (יש לדבר עם המתקשר לכמה דקות ואז להפסיק את ההקלטה)
-# The autorefresh checkbox causes the page to autorefresh its content when checked
-about-webrtc-auto-refresh-label = רענון אוטומטי
 
 ##
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = רענון אוטומטי
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -88,6 +91,10 @@ about-webrtc-log-show-msg = הצגת יומן
     .title = click to expand this section
 about-webrtc-log-hide-msg = הסתרת יומן
     .title = click to collapse this section
+about-webrtc-log-section-show-msg = הצגת יומן
+    .title = Click to expand this section
+about-webrtc-log-section-hide-msg = הסתרת יומן
+    .title = Click to collapse this section
 about-webrtc-copy-report-button = העתקת דוח
 about-webrtc-copy-report-history-button = העתק היסטוריית דוחות
 
@@ -100,6 +107,11 @@ about-webrtc-copy-report-history-button = העתק היסטוריית דוחות
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (סגור) { $now }
+
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 
 ##
 
