@@ -126,6 +126,10 @@ about-webrtc-raw-cand-show-msg = rodyti neapdorotus kandidatus
     .title = spustelėkite, norėdami išskleisti šią sekciją
 about-webrtc-raw-cand-hide-msg = slėpti neapdorotus kandidatus
     .title = spustelėkite, norėdami suskleisti šią sekciją
+about-webrtc-raw-cand-section-show-msg = Rodyti neapdorotus kandidatus
+    .title = Spustelėkite, norėdami išskleisti šią sekciją
+about-webrtc-raw-cand-section-hide-msg = Slėpti neapdorotus kandidatus
+    .title = Spustelėkite, norėdami suskleisti šią sekciją
 about-webrtc-priority = Prioritetas
 about-webrtc-fold-show-msg = išsamiau
     .title = spustelėkite, norėdami išskleisti šią sekciją
@@ -203,6 +207,7 @@ about-webrtc-debug-mode-on-state-msg = derinimo veiksena aktyvi, vykdymo sekimo 
 about-webrtc-aec-logging-off-state-msg = įrašyti žurnalo failai yra čia: { $path }
 about-webrtc-save-page-complete-msg = Tinklalapis įrašytas į: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Vykdymo sekimo žurnalas yra čia: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Derinimo veiksena aktyvi, vykdymo sekimo žurnalas čia: { $path }
 
 ##
 
