@@ -21,6 +21,7 @@ about-webrtc-aec-logging-msg-label = AEC-registraasje
 about-webrtc-aec-logging-off-state-label = AEC-registraasje starte
 about-webrtc-aec-logging-on-state-label = AEC-registraasje stopje
 about-webrtc-aec-logging-on-state-msg = AEC-registraasje aktyf (sprek inkelde minuten mei de beller en stopje dêrnei it fêstlizzen)
+about-webrtc-aec-logging-toggled-on-state-msg = AEC-registraasje aktyf (sprek inkelde minuten mei de beller en stopje dêrnei it fêstlizzen)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Fêstleine lochbestannen binne te finen yn: { $path }
@@ -131,6 +132,10 @@ about-webrtc-raw-cand-show-msg = rûge kandidaten toane
     .title = klik om dizze seksje út te klappen
 about-webrtc-raw-cand-hide-msg = rûge kandidaten ferstopje
     .title = klik om dizze seksje yn te klappen
+about-webrtc-raw-cand-section-show-msg = Rûge kandidaten toane
+    .title = Klik om dizze seksje út te klappen
+about-webrtc-raw-cand-section-hide-msg = Rûge kandidaten ferstopje
+    .title = Klik om dizze seksje yn te klappen
 about-webrtc-priority = Prioriteit
 about-webrtc-fold-show-msg = details toane
     .title = klik om dizze seksje út te klappen
@@ -210,6 +215,7 @@ about-webrtc-debug-mode-on-state-msg = debugmodus aktyf, trasearlochboek yn: { $
 about-webrtc-aec-logging-off-state-msg = fêstleine lochbestannen binne te finen yn: { $path }
 about-webrtc-save-page-complete-msg = Side bewarre yn: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Trasearlochboek is te finen yn: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Debugmodus aktyf, trasearlochboek yn: { $path }
 
 ##
 
