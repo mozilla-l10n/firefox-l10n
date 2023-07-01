@@ -7,6 +7,9 @@
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 
@@ -43,11 +46,20 @@ about-webrtc-save-page-label = ପୃଷ୍ଠା ସଂରକ୍ଷଣ କର�
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ବନ୍ଦ) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
+
 ##
 
 about-webrtc-fold-show-msg = ବିବରଣୀ ଦେଖାନ୍ତୁ
     .title = ଏହି ବିଭାଗକୁ ପ୍ରସାରଣ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
 about-webrtc-fold-hide-msg = ବିବରଣୀ ଲୁଚାନ୍ତୁ
+    .title = ଏହି ବିଭାଗକୁ ସଙ୍କୋଚନ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
+about-webrtc-fold-default-show-msg = ବିବରଣୀ ଦେଖାନ୍ତୁ
+    .title = ଏହି ବିଭାଗକୁ ପ୍ରସାରଣ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
+about-webrtc-fold-default-hide-msg = ବିବରଣୀ ଲୁଚାନ୍ତୁ
     .title = ଏହି ବିଭାଗକୁ ସଙ୍କୋଚନ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
@@ -74,6 +86,11 @@ about-webrtc-fold-hide-msg = ବିବରଣୀ ଲୁଚାନ୍ତୁ
 
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
+
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
 
 
 ##
