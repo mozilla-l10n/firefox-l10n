@@ -48,3 +48,4 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Alcune estensioni non sono consentite
 unified-extensions-mb-quarantined-domain-message = Solo alcune estensioni monitorate da { -vendor-short-name } sono consentite in questo sito per proteggere i tuoi dati.
 unified-extensions-mb-quarantined-domain-message-2 = Per proteggere i tuoi dati, alcune estensioni non possono leggere o modificare dati in questo sito. Utilizza le impostazioni dell’estensione per consentirne il funzionamento in siti con restrizioni identificati da { -vendor-short-name }.
+
