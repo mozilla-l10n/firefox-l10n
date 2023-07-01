@@ -21,6 +21,10 @@ about-webrtc-aec-logging-msg-label = Protokol AEC
 about-webrtc-aec-logging-off-state-label = Spustit protokol AEC
 about-webrtc-aec-logging-on-state-label = Zastavit protokol AEC
 about-webrtc-aec-logging-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
+about-webrtc-aec-logging-toggled-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = Soubory sběru protokolu můžete nalézt v: { $path }
 
 ##
 
@@ -95,6 +99,10 @@ about-webrtc-log-show-msg = zobrazit protokol
     .title = klepněte pro rozbalení této sekce
 about-webrtc-log-hide-msg = skrýt protokol
     .title = klepněte pro zabalení této sekce
+about-webrtc-log-section-show-msg = Zobrazit protokol
+    .title = Klepněte pro rozbalení této sekce
+about-webrtc-log-section-hide-msg = Skrýt protokol
+    .title = Klepněte pro zabalení této sekce
 about-webrtc-copy-report-button = Kopírovat hlášení
 about-webrtc-copy-report-history-button = Kopírovat historii hlášení
 
@@ -124,6 +132,10 @@ about-webrtc-raw-cand-show-msg = zobrazit raw candidates
     .title = klepněte pro rozbalení této sekce
 about-webrtc-raw-cand-hide-msg = skrýt raw candidates
     .title = klepněte pro zabalení této sekce
+about-webrtc-raw-cand-section-show-msg = Zobrazit raw candidates
+    .title = Klepněte pro rozbalení této sekce
+about-webrtc-raw-cand-section-hide-msg = Skrýt raw candidates
+    .title = Klepněte pro zabalení této sekce
 about-webrtc-priority = Priorita
 about-webrtc-fold-show-msg = zobrazit detaily
     .title = klepněte pro rozbalení této sekce
@@ -202,6 +214,8 @@ about-webrtc-debug-mode-off-state-msg = trasu protokolu lze nalézt na adrese: {
 about-webrtc-debug-mode-on-state-msg = režim ladění aktivní, protokol v: { $path }
 about-webrtc-aec-logging-off-state-msg = soubory sběru protokolu můžete nalézt v: { $path }
 about-webrtc-save-page-complete-msg = Stránka uložena do: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Trasu protokolu lze nalézt na adrese: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = Režim ladění aktivní, protokol v: { $path }
 
 ##
 
