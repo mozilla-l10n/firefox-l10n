@@ -163,6 +163,7 @@ extensions-warning-check-compatibility-button = Уключыць
 extensions-warning-update-security = Праверка бяспечнасці дадаткаў адключана. Вы можаце быць падведзены пад рызыку абнаўленнямі.
 extensions-warning-update-security-button = Уключыць
     .title = Уключыць праверку бяспечнасці абнаўленняў дадаткаў
+extensions-warning-imported-addons-button = Усталяваць пашырэнні
 
 ## Strings connected to add-on updates
 
@@ -304,16 +305,9 @@ extension-enabled-heading = Уключаны
 extension-disabled-heading = Адключаны
 theme-enabled-heading = Уключана
 theme-disabled-heading = Выключана
-theme-disabled-heading2 = Захаваныя тэмы
 theme-monochromatic-heading = Расфарбоўкі
 theme-monochromatic-subheading = Яркія новыя колеры ад { -brand-product-name }. Даступныя абмежаваны час.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Паспрабаваць расфарбоўкі
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Змяніць расфарбоўку
-# Variables:
-#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Згасае { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Захаваныя тэмы
 plugin-enabled-heading = Уключаны
 plugin-disabled-heading = Адключаны
 dictionary-enabled-heading = Уключаны
@@ -363,6 +357,10 @@ addon-detail-updates-radio-on = Укл.
 addon-detail-updates-radio-off = Выкл.
 addon-detail-update-check-label = Праверыць наяўнасць абнаўленняў
 install-update-button = Абнавіць
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -371,6 +369,10 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Калі дазволена, пашырэнне будзе мець доступ да вашай дзейнасці ў сеціве ў час прыватнага аглядання. <a data-l10n-name="learn-more">Даведацца больш</a>
 addon-detail-private-browsing-allow = Дазволіць
 addon-detail-private-browsing-disallow = Не дазваляць
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
