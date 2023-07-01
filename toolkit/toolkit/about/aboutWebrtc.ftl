@@ -126,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (닫기)
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = 보내기 / 받기: { $codecs }
+about-webrtc-short-send-direction = 보내기: { $codecs }
+about-webrtc-short-receive-direction = 받기: { $codecs }
 
 ##
 
