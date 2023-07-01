@@ -8,10 +8,12 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ພາຍໃນ
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ບັນທຶກ about:webrtc ທີ່
+
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -19,6 +21,10 @@ about-webrtc-aec-logging-msg-label = AEC Logging
 about-webrtc-aec-logging-off-state-label = ເລີ່ມການ log ສຳລັບ AEC
 about-webrtc-aec-logging-on-state-label = ຢຸດການ log ສຳລັບ AEC
 about-webrtc-aec-logging-on-state-msg = ເປີດນຳໃຊ້ການ log ສຳລັບ AEC (ສືສານກັບ caller ຈັກສອງສາມນາທີ ຫລັງຈາກນັ້ນໃຫ້ຢຸດການແຄັບເຈີ)
+about-webrtc-aec-logging-toggled-on-state-msg = ເປີດນຳໃຊ້ການ log ສຳລັບ AEC (ສືສານກັບ caller ຈັກສອງສາມນາທີ ຫລັງຈາກນັ້ນໃຫ້ຢຸດການແຄັບເຈີ)
+# Variables:
+#  $path (String) - The path to which the aec log file is saved.
+about-webrtc-aec-logging-toggled-off-state-msg = ແຄັບເຈີຂອງ log ໄຟລ໌ສາມາດພົບໄດ້ໃນ: { $path }
 
 ##
 
@@ -52,9 +58,6 @@ about-webrtc-ice-rollback-count-label = ຍ້ອນກັບ ICE:
 about-webrtc-ice-pair-bytes-sent = ໄບທ໌ທີ່ສົ່ງແລ້ວ:
 about-webrtc-ice-pair-bytes-received = ໄບທ໌ທີ່ໄດ້ຮັບ:
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -64,16 +67,13 @@ about-webrtc-type-remote = ໄລຍະໄກ
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ສະເຫນີຊື່ແລ້ວ
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ເລືອກແລ້ວ
-
 about-webrtc-save-page-label = ບັນທຶກຫນ້ານີ້
 about-webrtc-debug-mode-msg-label = ໂຫມດດີບັກ
 about-webrtc-debug-mode-off-state-label = ເລີ່ມໂຫມດດີບັກ
@@ -86,6 +86,10 @@ about-webrtc-log-show-msg = ສະແດງ log
     .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
 about-webrtc-log-hide-msg = ເຊື່ອງ log
     .title = ຄລິກເພື່ອຢໍ້ພາກສ່ວນນີ້
+about-webrtc-log-section-show-msg = ສະແດງ log
+    .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
+about-webrtc-log-section-hide-msg = ເຊື່ອງ log
+    .title = ຄລິກເພື່ອຢໍ້ພາກສ່ວນນີ້
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -97,8 +101,12 @@ about-webrtc-log-hide-msg = ເຊື່ອງ log
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ປິດແລ້ວ) { $now }
 
-##
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
 
+
+##
 
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
@@ -107,13 +115,22 @@ about-webrtc-fold-show-msg = ສະແດງລາຍລະອຽດ
     .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
 about-webrtc-fold-hide-msg = ເຊື່ອງລາຍລະອຽດ
     .title = ຄລິກເພື່ອຢໍ້ພາກສ່ວນນີ້
+about-webrtc-fold-default-show-msg = ສະແດງລາຍລະອຽດ
+    .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
+about-webrtc-fold-default-hide-msg = ເຊື່ອງລາຍລະອຽດ
+    .title = ຄລິກເພື່ອຢໍ້ພາກສ່ວນນີ້
 about-webrtc-decoder-label = ຕົວຖອດລະຫັດ
 about-webrtc-encoder-label = ຕົວເຂົ້າລະຫັດ
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
+
+
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -124,6 +141,9 @@ about-webrtc-save-page-msg = ໄດ້ບັນທຶກຫນ້າໄປໄວ
 about-webrtc-debug-mode-off-state-msg = Log ຂອງການຕິດຕາມສາມາດພົບໄດ້ທີ່: { $path }
 about-webrtc-debug-mode-on-state-msg = ເປີດໃຊ້ງານໂຫມດດີບັກ, Log ຂອງການຕິດຕາມທີ່: { $path }
 about-webrtc-aec-logging-off-state-msg = ແຄັບເຈີຂອງ log ໄຟລ໌ສາມາດພົບໄດ້ໃນ: { $path }
+about-webrtc-save-page-complete-msg = ໄດ້ບັນທຶກຫນ້າໄປໄວ້ທີ່: { $path }
+about-webrtc-debug-mode-toggled-off-state-msg = Log ຂອງການຕິດຕາມສາມາດພົບໄດ້ທີ່: { $path }
+about-webrtc-debug-mode-toggled-on-state-msg = ເປີດໃຊ້ງານໂຫມດດີບັກ, log ຂອງການຕິດຕາມທີ່: { $path }
 
 ##
 
@@ -137,9 +157,12 @@ about-webrtc-jitter-label = Jitter { $jitter }
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
-##
+## These are displayed on the button that shows or hides the SDP information disclosure
 
-##
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
 
 
 ##
