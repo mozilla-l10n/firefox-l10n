@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = יצירת סימנייה ללשונית הנוכחית…
 menu-edit-bookmark =
     .label = עריכת סימנייה זו…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = חיפוש בסימניות
 menu-bookmarks-all-tabs =
     .label = יצירת סימנייה לכל הלשוניות…
 menu-bookmarks-toolbar =
