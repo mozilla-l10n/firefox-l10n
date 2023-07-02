@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Liste ausblenden
 firefoxview-overview-nav = Kürzlich besucht
     .title = Kürzlich besucht
+firefoxview-overview-header = Kürzlich besucht
+    .title = Kürzlich besucht
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,10 @@ firefoxview-opentabs-focus-tab =
     .title = Zu diesem Tab wechseln
 firefoxview-show-more = Mehr anzeigen
 firefoxview-show-less = Weniger anzeigen
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+
+##
+
