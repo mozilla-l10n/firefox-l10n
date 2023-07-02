@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Gweredekaat ar c'houbredañ evi
 firefoxview-tabpickup-sync-disconnected-description = Evit kaout hoc'h ivinelloù e vo dav deoc'h aotren ar c'houbredañ e { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Gweredekaat ar c'houbredañ en arventennoù
 firefoxview-tabpickup-password-locked-link = Gouzout muioc'h
+firefoxview-tabpickup-signed-out-primarybutton = Kennaskañ
 firefoxview-tabpickup-syncing = Gortozit e-pad ma vez goubredet hoc'h ivinelloù. Ne bado ket pell.
 firefoxview-mobile-promo-header = Adtapit ivinelloù ho pellgomz pe dablezenn
 firefoxview-mobile-promo-description = Evit gwelout ivinelloù diwezhañ ho pellgomz hezoug e rankit kevreañ ouzh { -brand-product-name } war iOS pe Android.
