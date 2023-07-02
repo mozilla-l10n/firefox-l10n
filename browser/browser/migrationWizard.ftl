@@ -151,6 +151,7 @@ migration-list-bookmark-label = Lesezeichen
 migration-list-favorites-label = Favoriten
 migration-list-password-label = Passwörter
 migration-list-history-label = Chronik
+migration-list-extensions-label = Erweiterungen
 migration-list-autofill-label = Daten für automatisches Ausfüllen
 migration-list-payment-methods-label = Zahlungsmethoden
 
@@ -197,6 +198,16 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } Erweiterung
+       *[other] { $quantity } Erweiterungen
+    }
 
 ##
 
