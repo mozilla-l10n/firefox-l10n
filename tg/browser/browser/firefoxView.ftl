@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Пинҳон кардани рӯйхат
 firefoxview-overview-nav = Тамошокунии охирин
     .title = Тамошокунии охирин
+firefoxview-overview-header = Тамошокунии охирин
+    .title = Тамошокунии охирин
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,12 @@ firefoxview-opentabs-focus-tab =
     .title = Ба ин варақа гузаштан
 firefoxview-show-more = Бештар нишон диҳед
 firefoxview-show-less = Камтар нишон диҳед
+firefoxview-sort-history-by-date-label = Мураттаб кардан аз рӯи ном
+firefoxview-sort-history-by-site-label = Мураттаб кардан аз рӯи сомона
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+
+##
+
