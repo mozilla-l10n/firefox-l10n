@@ -2,28 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = A prepaus de la jornalizacion
 about-logging-page-title = Gestionari de jornalizacion
 about-logging-current-log-file = Fichièr de jornalizacion actual :
-about-logging-current-log-modules = Moduls de jornalizacion actuals :
 about-logging-new-log-file = Fichièr de jornal novèl :
 about-logging-currently-enabled-log-modules = Moduls de jornalizacion actualament activats :
 about-logging-log-tutorial = Veire <a data-l10n-name="logging">HTTP Logging</a> per saber cossí utilizar aquesta aisina.
@@ -49,8 +31,12 @@ about-logging-logging-preset-selector-text = Prereglatge de jornalizacion :
 
 about-logging-preset-networking-label = Ret
 about-logging-preset-networking-description = Moduls de jornalizacion per diagnosticar los problèmas ret
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Lectura multimèdia
 about-logging-preset-media-playback-description = Moduls de jornalizacion per diagnosticar los problèmas de lectura multimèdia (mas pas los de vidèo-conferéncia)
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = Personalizat
 about-logging-preset-custom-description = Moduls de jornalizacion seleccionats manualament
 # Error handling

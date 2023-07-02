@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Marcapaginas
 migration-favorites-option-label = Favorits
 migration-logins-and-passwords-option-label = Identificants e senhals salvats
 migration-history-option-label = Istoric de navegacion
+migration-extensions-option-label = Extensions
 migration-form-autofill-option-label = Donadas d’emplenatge automatic
 migration-payment-methods-option-label = Metòdes de pagament
 migration-cookies-option-label = Cookies
@@ -148,6 +149,7 @@ migration-list-bookmark-label = marcapaginas
 migration-list-favorites-label = favorits
 migration-list-password-label = senhals
 migration-list-history-label = istoric
+migration-list-extensions-label = extensions
 migration-list-autofill-label = dondas d’emplenatge auto
 migration-list-payment-methods-label = metòdes de pagament
 
@@ -189,6 +191,24 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } favorit
        *[other] { $quantity } favorits
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } extension
+       *[other] { $quantity } extensions
+    }
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #

@@ -120,3 +120,12 @@ firefoxview-opentabs-focus-tab =
     .title = Anar a aqueste onglet
 firefoxview-show-more = Ne veire mai
 firefoxview-show-less = Ne veire mens
+firefoxview-sort-history-by-date-label = Triar per data
+firefoxview-sort-history-by-site-label = Triar per site
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+
+##
+
