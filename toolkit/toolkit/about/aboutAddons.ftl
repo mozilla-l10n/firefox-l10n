@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = חיפוש
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = קבלת הרחבות וערכות נושא ב־<a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = קבלת מילונים ב־<a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = קבלת ערכות שפה ב־<a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = לא הותקנה אף תוספת מסוג זה
 list-empty-available-updates =
@@ -141,7 +148,7 @@ addon-category-sitepermission-title =
     .title = הרשאות אתר
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = הרשאות אתר עבור { $host }
 
 ## These are global warnings
@@ -153,6 +160,8 @@ extensions-warning-check-compatibility-button = הפעלה
 extensions-warning-update-security = בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.
 extensions-warning-update-security-button = הפעלה
     .title = הפעלת בדיקות אבטחה לעדכוני תוספות
+extensions-warning-imported-addons = נא להשלים את התקנת ההרחבות שיובאו אל { -brand-short-name }.
+extensions-warning-imported-addons-button = התקנת הרחבות
 
 ## Strings connected to add-on updates
 
@@ -221,6 +230,8 @@ shortcuts-duplicate-warning-message = { $shortcut } משמש כקיצור דרך
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = כבר בשימוש על־ידי { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] הצגת אחד נוסף
@@ -279,16 +290,9 @@ preferences-addon-button =
 details-addon-button = פרטים
 release-notes-addon-button = הערות שחרור
 permissions-addon-button = הרשאות
-theme-disabled-heading2 = ערכות נושא שמורות
 theme-monochromatic-heading = ערכות צבעים
 theme-monochromatic-subheading = ערכות צבעים חדשים ותוססים מ־{ -brand-product-name }. זמינים לזמן מוגבל.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = לנסות ערכות צבעים
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = שינוי ערכת צבעים
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = יפוג ב־{ DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = ערכות נושא שמורות
 sitepermission-enabled-heading = מופעל
 sitepermission-disabled-heading = מושבת
 always-activate-button = הפעלה תמיד
@@ -331,6 +335,10 @@ addon-detail-updates-radio-on = פעיל
 addon-detail-updates-radio-off = כבוי
 addon-detail-update-check-label = בדיקה אחר עדכונים
 install-update-button = עדכון
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -339,6 +347,16 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = אם אפשרות זו מופעלת, להרחבה תהיה גישה לפעילויות המקוונות שלך בזמן גלישה פרטית. <a data-l10n-name="learn-more">מידע נוסף</a>
 addon-detail-private-browsing-allow = לאפשר
 addon-detail-private-browsing-disallow = לא לאפשר
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = הפעלה באתרים עם הגבלות
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -367,6 +385,8 @@ addon-permissions-optional = הרשאות רשות לתכונות נוספות:
 addon-permissions-learnmore = מידע נוסף על הרשאות
 recommended-extensions-heading = הרחבות מומלצות
 recommended-themes-heading = ערכות נושא מומלצות
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = מעניק ל־<span data-l10n-name="hostname">{ $hostname }</span> את היכולות הבאות:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -393,8 +413,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } אינו תואם ל־{ -brand-short-name } { $version }.
 details-notification-incompatible-link = מידע נוסף
 details-notification-unsigned-and-disabled = לא ניתן לאמת את { $name } לשימוש ב־{ -brand-short-name } ולכן תוספת זו נוטרלה.
