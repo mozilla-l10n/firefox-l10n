@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = about:webrtc speichern unter
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Geschlossene PeerConnections anzeigen
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Geschlossene PeerConnections ausblenden
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -28,12 +30,20 @@ about-webrtc-aec-logging-toggled-off-state-msg = Gespeicherte protokolldateien b
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatisch aktualisieren
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Standardmäßig automatisch aktualisieren
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Aktualisieren
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection-ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Geöffnete Datenkanäle:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Geschlossene Datenkanäle:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
