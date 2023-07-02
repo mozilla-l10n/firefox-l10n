@@ -127,6 +127,7 @@ firefoxview-opentabs-focus-tab =
 firefoxview-show-more = Көбірек көрсету
 firefoxview-show-less = Азырақ көрсету
 firefoxview-sort-history-by-date-label = Күні бойынша сұрыптау
+firefoxview-sort-history-by-site-label = Сайт бойынша сұрыптау
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
