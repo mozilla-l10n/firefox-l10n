@@ -863,8 +863,6 @@ forms-breach-alerts =
     .label = Show alerts about passwords for breached web sites
     .accesskey = b
 forms-breach-alerts-learn-more-link = Learn more
-relay-integration =
-    .label = Enable { -relay-brand-name } in your { -brand-short-name } password manager
 preferences-relay-integration-checkbox =
     .label = Suggest { -relay-brand-name } email masks to protect your email address
 relay-integration-learn-more-link = Learn more
@@ -1002,7 +1000,7 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Cookie Banner Reduction
 cookie-banner-handling-description = { -brand-short-name } automatically tries to reject cookie requests on cookie banners on supported sites.
-cookie-banner-learn-more = Learn more
+cookie-banner-learn-more = Learn More
 forms-handle-cookie-banners =
     .label = Reduce Cookie Banners
 
