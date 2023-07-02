@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Aktuellen Tab als Lesezeichen hinzufügen…
 menu-edit-bookmark =
     .label = Dieses Lesezeichen bearbeiten…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Lesezeichen durchsuchen
 menu-bookmarks-all-tabs =
     .label = Lesezeichen für alle Tabs hinzufügen…
 menu-bookmarks-toolbar =
