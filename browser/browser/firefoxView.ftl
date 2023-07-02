@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Тізімді жасыру
 firefoxview-overview-nav = Жуырдағы шолу
     .title = Жуырдағы шолу
+firefoxview-overview-header = Жуырдағы шолу
+    .title = Жуырдағы шолу
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,11 @@ firefoxview-opentabs-focus-tab =
     .title = Бұл бетке ауысу
 firefoxview-show-more = Көбірек көрсету
 firefoxview-show-less = Азырақ көрсету
+firefoxview-sort-history-by-date-label = Күні бойынша сұрыптау
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+
+##
+
