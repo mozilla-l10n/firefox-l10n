@@ -135,6 +135,8 @@ firefoxview-sort-history-by-site-label = Ordenar por sitio
 firefoxview-history-date-today = Hoy - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Ayer - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
+firefoxview-show-all-history = Mostrar todo el historial
