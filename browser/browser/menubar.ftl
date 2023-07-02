@@ -243,6 +243,9 @@ menu-bookmark-tab =
     .label = Přidat současný panel do záložek…
 menu-edit-bookmark =
     .label = Upravit záložku…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Hledat v záložkách
 menu-bookmarks-all-tabs =
     .label = Přidat všechny panely do záložek…
 menu-bookmarks-toolbar =
