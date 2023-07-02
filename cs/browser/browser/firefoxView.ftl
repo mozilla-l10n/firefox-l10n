@@ -166,6 +166,8 @@ firefoxview-opentabs-focus-tab =
     .title = Přepnout na tento panel
 firefoxview-show-more = Zobrazit více
 firefoxview-show-less = Zobrazit méně
+firefoxview-sort-history-by-date-label = Řadit podle data
+firefoxview-sort-history-by-site-label = Řadit podle serveru
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
