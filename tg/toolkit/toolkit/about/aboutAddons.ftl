@@ -300,16 +300,9 @@ extension-enabled-heading = Фаъол аст
 extension-disabled-heading = Ғайрифаъол аст
 theme-enabled-heading = Фаъол аст
 theme-disabled-heading = Ғайрифаъол аст
-theme-disabled-heading2 = Мавзуъҳои нигоҳдошташуда
 theme-monochromatic-heading = Нақшу нигор
 theme-monochromatic-subheading = Нақшу нигори нерӯманди нав аз { -brand-product-name }. Ба муддати маҳдуд дастрас аст.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Нақшу нигорҳоро озмоед
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Иваз кардани нақшу нигор
-# Variables:
-#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Дар санаи { DATETIME($expiryDate, month: "long", day: "numeric") } ба анҷом мерасад
+theme-disabled-heading2 = Мавзуъҳои нигоҳдошташуда
 plugin-enabled-heading = Фаъол аст
 plugin-disabled-heading = Ғайрифаъол аст
 dictionary-enabled-heading = Фаъол аст
@@ -358,6 +351,10 @@ addon-detail-updates-radio-on = Фаъол
 addon-detail-updates-radio-off = Ғайрифаъол
 addon-detail-update-check-label = Санҷиши навсозиҳо
 install-update-button = Навсозӣ кардан
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -366,6 +363,17 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Агар иҷозат бошад, васеъшавӣ дар реҷаи тамошокунии хусусӣ дорои қобили дастрасӣ ба фаъолияти шумо дар Интернет мебошад. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 addon-detail-private-browsing-allow = Иҷозат додан
 addon-detail-private-browsing-disallow = Иҷозат дода нашавад
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
