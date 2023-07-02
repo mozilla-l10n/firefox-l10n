@@ -28,7 +28,7 @@ about-webrtc-aec-logging-toggled-off-state-msg = Captured log files can be found
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Auto Refresh
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -99,9 +99,9 @@ about-webrtc-log-show-msg = show log
     .title = click to expand this section
 about-webrtc-log-hide-msg = hide log
     .title = click to collapse this section
-about-webrtc-log-section-show-msg = Show log
+about-webrtc-log-section-show-msg = Show Log
     .title = Click to expand this section
-about-webrtc-log-section-hide-msg = Hide log
+about-webrtc-log-section-hide-msg = Hide Log
     .title = Click to collapse this section
 about-webrtc-copy-report-button = Copy Report
 about-webrtc-copy-report-history-button = Copy Report History
@@ -132,18 +132,18 @@ about-webrtc-raw-cand-show-msg = show raw candidates
     .title = click to expand this section
 about-webrtc-raw-cand-hide-msg = hide raw candidates
     .title = click to collapse this section
-about-webrtc-raw-cand-section-show-msg = Show raw candidates
+about-webrtc-raw-cand-section-show-msg = Show Raw Candidates
     .title = Click to expand this section
-about-webrtc-raw-cand-section-hide-msg = Hide raw candidates
+about-webrtc-raw-cand-section-hide-msg = Hide Raw Candidates
     .title = Click to collapse this section
 about-webrtc-priority = Priority
 about-webrtc-fold-show-msg = show details
     .title = click to expand this section
 about-webrtc-fold-hide-msg = hide details
     .title = click to collapse this section
-about-webrtc-fold-default-show-msg = Show details
+about-webrtc-fold-default-show-msg = Show Details
     .title = Click to expand this section
-about-webrtc-fold-default-hide-msg = Hide details
+about-webrtc-fold-default-hide-msg = Hide Details
     .title = Click to collapse this section
 about-webrtc-dropped-frames-label = Dropped frames:
 about-webrtc-discarded-packets-label = Discarded packets:
