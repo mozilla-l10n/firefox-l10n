@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = guardar about:webrtc como
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Mostrar PeerConnections cerradas
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Ocultar PeerConnections cerradas
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -28,12 +30,20 @@ about-webrtc-aec-logging-toggled-off-state-msg = Los archivos de registro se pue
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Recargar automáticamente
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Actualización automática de forma predeterminada
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Refrescar
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = ID de PeerConnection:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Canales de datos abiertos:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Canales de datos cerrados:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -100,6 +110,7 @@ about-webrtc-log-section-show-msg = Mostrar registro
 about-webrtc-log-section-hide-msg = Ocultar registro
     .title = Pulse para contraer esta sección
 about-webrtc-copy-report-button = Copiar informe
+about-webrtc-copy-report-history-button = Copiar historial de informes
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -115,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (cerrado
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Envío/recepción: { $codecs }
+about-webrtc-short-send-direction = Envío: { $codecs }
+about-webrtc-short-receive-direction = Recepción: { $codecs }
 
 ##
 
@@ -290,6 +304,8 @@ about-webrtc-hide-msg-sdp = Ocultar SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Mostrar contexto de medios
+about-webrtc-media-context-hide-msg = Ocultar contexto de medios
 
 ##
 
