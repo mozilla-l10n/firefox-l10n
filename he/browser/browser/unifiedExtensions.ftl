@@ -41,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = חלק מההרחבות אינן מורשות לשימוש
 unified-extensions-mb-quarantined-domain-message = רק חלק מההרחבות המנוטרות על־ידי { -vendor-short-name } מותרות לשימוש באתר זה כדי להגן על הנתונים שלך.
+unified-extensions-mb-quarantined-domain-message-2 = כדי להגן על הנתונים שלך, הרחבות מסויימות אינן יכולות לקרוא או לשנות נתונים באתר זה. יש להשתמש בהגדרות של ההרחבה כדי לאפשר אותה באתרים המוגבלים על־ידי { -vendor-short-name }.
