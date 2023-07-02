@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Гузоштани хатбарак барои варақаи ҷорӣ…
 menu-edit-bookmark =
     .label = Таҳрир кардани ин хатбарак…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Ҷустуҷӯ дар хатбаракҳо
 menu-bookmarks-all-tabs =
     .label = Гузоштани хатбарак барои ҳамаи саҳифаҳо…
 menu-bookmarks-toolbar =

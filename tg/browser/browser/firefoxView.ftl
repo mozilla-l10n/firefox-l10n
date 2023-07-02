@@ -132,6 +132,11 @@ firefoxview-sort-history-by-site-label = Мураттаб кардан аз рӯ
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Имрӯз - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Дирӯз - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
+firefoxview-show-all-history = Намоиш додани таърихи пурра
