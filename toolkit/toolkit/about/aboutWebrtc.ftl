@@ -28,8 +28,10 @@ about-webrtc-aec-logging-toggled-off-state-msg = Файлы журнала за�
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Аўтаабнаўленне
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Абнавіць
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
