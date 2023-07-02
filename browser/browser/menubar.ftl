@@ -241,7 +241,7 @@ menu-edit-bookmark =
     .label = Изменить эту закладку…
 # "Search" is a verb, as in "Search in bookmarks"
 menu-bookmarks-search =
-    .label = Поиск в закладках
+    .label = Искать в закладках
 menu-bookmarks-all-tabs =
     .label = Добавить все вкладки…
 menu-bookmarks-toolbar =
