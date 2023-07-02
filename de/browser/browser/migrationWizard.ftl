@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Lesezeichen
 migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Passwörter
 migration-history-option-label = Chronik
+migration-extensions-option-label = Erweiterungen
 migration-form-autofill-option-label = Daten für Formular-Autovervollständigung
 migration-payment-methods-option-label = Zahlungsmethoden
 migration-cookies-option-label = Cookies
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Passwörter erfolgreich importier
 migration-passwords-from-file = Datei wird auf Passwörter überprüft
 migration-passwords-new = Neue Passwörter
 migration-passwords-updated = Bestehende Passwörter
+migration-passwords-from-file-no-valid-data = Die Datei enthält keine gültigen Passwortdaten. Wählen Sie eine andere Datei.
 migration-passwords-from-file-picker-title = Passwort-Datei importieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -190,6 +192,14 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } Favorit
        *[other] { $quantity } Favoriten
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
