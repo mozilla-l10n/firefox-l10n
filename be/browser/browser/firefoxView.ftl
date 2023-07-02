@@ -124,3 +124,17 @@ firefoxview-opentabs-focus-tab =
     .title = Пераключыцца ў гэту картку
 firefoxview-show-more = Паказаць больш
 firefoxview-show-less = Паказаць менш
+firefoxview-sort-history-by-date-label = Сартаваць па даце
+firefoxview-sort-history-by-site-label = Сартаваць па сайтах
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Сёння - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Учора - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Паказаць усю гісторыю
