@@ -126,10 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = Zu diesem Tab wechseln
 firefoxview-show-more = Mehr anzeigen
 firefoxview-show-less = Weniger anzeigen
+firefoxview-sort-history-by-date-label = Nach Datum sortieren
+firefoxview-sort-history-by-site-label = Nach Website sortieren
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Heute - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Gestern - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
+firefoxview-show-all-history = Gesamte Chronik anzeigen
