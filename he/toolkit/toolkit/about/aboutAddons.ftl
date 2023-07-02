@@ -357,6 +357,14 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = הפעלה באתרים עם הגבלות
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = אם אפשרות זו מופעלת, להרחבה תהיה גישה לאתרים המוגבלים על־ידי { -vendor-short-name }. יש לאפשר רק אם הרחבה זו מהימנה.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = לאפשר
+addon-detail-quarantined-domains-disallow = לא לאפשר
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.

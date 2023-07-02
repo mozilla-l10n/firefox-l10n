@@ -2,23 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
--profiler-brand-name = Firefox Profiler
-
-##
-
 # This is the title of the page
 about-logging-title = על אודות רישום
 about-logging-page-title = מנהל הרישום
@@ -48,6 +31,7 @@ about-logging-logging-preset-selector-text = ערכת רישום:
 
 about-logging-preset-networking-label = Networking
 about-logging-preset-networking-description = מודולי רישום לאבחון בעיות רשת
+about-logging-preset-networking-cookie-label = עוגיות
 about-logging-preset-media-playback-label = ניגון מדיה
 about-logging-preset-media-playback-description = מודולי רישום לאבחון בעיות בניגון מדיה (לא בעיות בשיחות ועידה בוידאו)
 about-logging-preset-custom-label = התאמה אישית
