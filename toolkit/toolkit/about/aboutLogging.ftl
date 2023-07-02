@@ -32,8 +32,15 @@ about-logging-logging-preset-selector-text = ערכת רישום:
 about-logging-preset-networking-label = Networking
 about-logging-preset-networking-description = מודולי רישום לאבחון בעיות רשת
 about-logging-preset-networking-cookie-label = עוגיות
+about-logging-preset-networking-cookie-description = מודולי רישום לאבחון בעיות של עוגיות
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = מודולי רישום לאבחון בעיות WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = מודולי רישום לאבחון בעיות של HTTP/3 ו־QUIC
 about-logging-preset-media-playback-label = ניגון מדיה
 about-logging-preset-media-playback-description = מודולי רישום לאבחון בעיות בניגון מדיה (לא בעיות בשיחות ועידה בוידאו)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = מודולי רישום לאבחון שיחות WebRTC
 about-logging-preset-custom-label = התאמה אישית
 about-logging-preset-custom-description = מודולי רישום שנבחרים בצורה ידנית
 # Error handling
