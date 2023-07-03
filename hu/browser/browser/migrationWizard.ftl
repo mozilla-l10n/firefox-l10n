@@ -215,6 +215,7 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } / { $quantity } kiegészítő
+migration-wizard-progress-extensions-support-link = Tudja meg, hogy a { -brand-product-name } hogyan találja meg a megfelelő kiegészítőket
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Nincs megfelelő kiegészítő

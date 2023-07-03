@@ -114,6 +114,14 @@ firefoxview-synced-tabs-header = Lapok más eszközökről
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Összes megtekintése
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = { $winID }. ablak
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = { $winID }. ablak (jelenlegi)
 firefoxview-opentabs-focus-tab =
     .title = Váltás erre a lapra
 firefoxview-show-more = Több megjelenítése
