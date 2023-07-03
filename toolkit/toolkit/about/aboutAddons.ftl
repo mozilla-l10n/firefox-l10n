@@ -375,6 +375,11 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Εκτέλεση σε ιστοτόπους με περιορισμούς
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Όταν επιτρέπεται, η επέκταση θα έχει πρόσβαση σε ιστοτόπους που περιορίζονται από τη { -vendor-short-name }. Κάντε το μόνο εάν εμπιστεύεστε αυτήν την επέκταση.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Να επιτρέπεται
+addon-detail-quarantined-domains-disallow = Να μην επιτρέπεται
 # aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
