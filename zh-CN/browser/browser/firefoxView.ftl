@@ -124,3 +124,12 @@ firefoxview-opentabs-focus-tab =
     .title = 切换到此标签页
 firefoxview-show-more = 展开
 firefoxview-show-less = 折叠
+firefoxview-sort-history-by-date-label = 按日期排序
+firefoxview-sort-history-by-site-label = 按网站排序
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+
+##
+
