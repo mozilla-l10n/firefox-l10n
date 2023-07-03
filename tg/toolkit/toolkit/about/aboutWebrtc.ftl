@@ -28,8 +28,10 @@ about-webrtc-aec-logging-toggled-off-state-msg = Файлҳои сабти рӯ�
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Навсозии худкор
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Нав кардан
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -120,6 +122,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (пӯш�
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Ирсол / Қабул: { $codecs }
+about-webrtc-short-send-direction = Ирсол: { $codecs }
+about-webrtc-short-receive-direction = Қабул: { $codecs }
 
 ##
 

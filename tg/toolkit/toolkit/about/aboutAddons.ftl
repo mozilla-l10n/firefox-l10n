@@ -165,6 +165,7 @@ extensions-warning-check-compatibility-button = Фаъол кардан
 extensions-warning-update-security = Санҷиши навсозии амнияти ҷузъи иловагӣ ғайрифаъол аст. Навсозиҳо метавонанд шуморо дар зери хатар гузоранд.
 extensions-warning-update-security-button = Фаъол кардан
     .title = Фаъол кардани санҷиши навсозии амниятии ҷузъи иловагӣ
+extensions-warning-imported-addons-button = Насби васеъшавиҳо
 
 ## Strings connected to add-on updates
 
@@ -371,6 +372,9 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Иҷозат додан
+addon-detail-quarantined-domains-disallow = Иҷозат дода нашавад
 # aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
