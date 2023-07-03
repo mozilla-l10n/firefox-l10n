@@ -32,8 +32,16 @@ about-logging-with-profiler-stacks-checkbox = Habilitar seguimientos de pila par
 
 about-logging-preset-networking-label = Red
 about-logging-preset-networking-description = Módulos de registro para diagnosticar problemas de red
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Módulos de registro para diagnosticar problemas de cookies
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Módulos de registro para diagnosticar problemas de WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Módulos de registro para diagnosticar problemas de HTTP/3 y QUIC
 about-logging-preset-media-playback-label = Reproducción multimedia
 about-logging-preset-media-playback-description = Módulos de registro para diagnosticar problemas de reproducción de medios (no problemas de videoconferencia)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Módulos de registro para diagnosticar problemas de llamadas WebRTC
 about-logging-preset-custom-label = Personalizado
 about-logging-preset-custom-description = Módulos de registro seleccionados manualmente
 # Error handling
