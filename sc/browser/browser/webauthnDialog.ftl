@@ -4,11 +4,10 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
+webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
-        [0] PIN isballiadu! Inserta su PIN curretu pro su dispositivu tuo.
-        [one] PIN isballiadu! Inserta su PIN curretu pro su dispositivu tuo. T'abarrat { $retriesLeft } tentativu.
-       *[other] PIN isballiadu! Inserta su PIN curretu pro su dispositivu tuo. T'abarrant { $retriesLeft } tentativos.
+        [one] PIN isballiadu. Tenes { $retriesLeft } tentativu in antis de pèrdere s’atzessu a is credentziales in custu dispositivu.
+       *[other] PIN isballiadu. Tenes { $retriesLeft } tentativos in antis de pèrdere s’atzessu a is credentziales in custu dispositivu.
     }
 webauthn-pin-invalid-short-prompt = PIN isballiadu. Torra a proare.
 webauthn-pin-required-prompt = Inserta su còdighe PIN pro su dispositivu tuo.

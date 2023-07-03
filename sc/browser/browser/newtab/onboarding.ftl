@@ -433,4 +433,5 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Unu margiane saludende dae s’ischermu de un’ordinadore portàtile. S’ordinadore tenet unu puntadore acapiadu.
 onboarding-device-migration-title = Ti donamus torra su benebènnidu!
+onboarding-device-migration-subtitle = Identìfica·ti in { -fxaccount-brand-name(capitalization: "sentence") } pro ti nce leare sinnalibros, craes e cronologia in su dispositivu nou.
 onboarding-device-migration-primary-button-label = Identìfica·ti

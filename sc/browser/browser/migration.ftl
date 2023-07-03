@@ -147,3 +147,7 @@ browser-data-session-checkbox =
     .label = Ventanas e ischedas
 browser-data-session-label =
     .value = Ventanas e ischedas
+browser-data-payment-methods-checkbox =
+    .label = Mètodos de pagamentu
+browser-data-payment-methods-label =
+    .value = Mètodos de pagamentu

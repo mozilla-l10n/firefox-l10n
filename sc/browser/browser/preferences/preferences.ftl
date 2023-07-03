@@ -132,6 +132,10 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Disativa estensione
 preferences-data-migration-header = Importa datos de su navigadore
+preferences-data-migration-description = Importa sinnalibros, craes, cronologia e datos de cumpletamentu automàticu in { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Importa is datos
+    .accesskey = d
 tabs-group-header = Ischedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cuncàmbia ischedas in s'òrdine de impreu reghente
@@ -752,6 +756,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Ses sincronizende custos elementos:
+sync-syncing-across-devices-heading = Ses acanta de sincronizare custos elementos intre totu is dispositivos tuos connètidos:
 sync-currently-syncing-bookmarks = Sinnalibros
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Ischedas abertas
@@ -780,6 +785,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnete…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Is càmbios a sa lista de elementos de sincronizare ant a èssere aplicados a totu is dispositivos tuos connètidos.
 sync-engine-bookmarks =
     .label = Sinnalibros
     .accesskey = S
@@ -858,8 +864,6 @@ forms-breach-alerts =
     .label = Ammustra avisos subra de is craes pro is sitos vìtima de violatzione de datos
     .accesskey = v
 forms-breach-alerts-learn-more-link = Àteras informatziones
-relay-integration =
-    .label = Ativa { -relay-brand-name } in su gestore de craes de { -brand-short-name }
 relay-integration-learn-more-link = Àteras informatziones
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -1140,6 +1144,8 @@ permissions-microphone = Micròfonu
 permissions-microphone-settings =
     .label = Cunfiguratzione…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Sèberu de is altoparlantes
 permissions-speaker-settings =
     .label = Cunfiguratzione…
     .accesskey = c
@@ -1250,8 +1256,60 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS  pro mèdiu de  HTTPS
+preferences-doh-description = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, creende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Istadu: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Frunidore: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL non vàlidu
+preferences-doh-steering-status = Impreu de su frunidore locale
+preferences-doh-status-active = Ativu
+preferences-doh-status-disabled = Disativadu
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Inativu ({ $reason })
+preferences-doh-group-message = Ativa su DNS seguru impreende:
 preferences-doh-expand-section =
     .tooltiptext = Àteras informatziones
+preferences-doh-setting-default =
+    .label = Protetzione predefinida
+    .accesskey = P
+preferences-doh-default-desc = { -brand-short-name } detzidet cando impreare su DNS seguru pro amparare sa riservadesa tua.
+preferences-doh-default-detailed-desc-1 = Imprea su DNS seguru in regiones in ue est a disponimentu
+preferences-doh-default-detailed-desc-2 = Imprea su DNS predefinidu si ddoe at problemas cun su frunidore de DNS seguru.
+preferences-doh-default-detailed-desc-3 = Imprea unu frunidore locale, si faghet
+preferences-doh-default-detailed-desc-4 = Istuda cando VPN, controllos parentales o polìticas aziendales sunt ativos
+preferences-doh-default-detailed-desc-5 = Istuda cando una rete comùnicat a { -brand-short-name } chi no diat dèpere impreare su DNS seguru
+preferences-doh-setting-enabled =
+    .label = Protetzione megiorada
+    .accesskey = m
+preferences-doh-enabled-desc = Controllas tue cando impreare su DNS seguru e sèberas tue su frunidore.
+preferences-doh-enabled-detailed-desc-1 = Imprea su frunidore chi sèberas
+preferences-doh-enabled-detailed-desc-2 = Imprea su DNS predefinidu isceti si ddoe at problemas cun su DNS seguru
+preferences-doh-setting-strict =
+    .label = Protetzione màssima
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } at a impreare semper su DNS seguru. As a bìdere un’avisu de arriscu de seguresa in antis de impreare su DNS tuo de sistema.
+preferences-doh-strict-detailed-desc-1 = Imprea isceti su frunidore chi sèberas
+preferences-doh-strict-detailed-desc-2 = Avisa semper si su DNS seguru no est a disponimentu
+preferences-doh-strict-detailed-desc-3 = Si su DNS seguru no est a disponimentu, is sitos no ant a èssere carrigados o no ant a funtzionare bene
+preferences-doh-setting-off =
+    .label = Disativadu
+    .accesskey = D
+preferences-doh-off-desc = Imprea su DNS tuo predefinidu
+preferences-doh-checkbox-warn =
+    .label = Avisa si àteras partes impedint de impreare su DNS seguru
+    .accesskey = A
+preferences-doh-select-resolver = Sèbera frunidore:
+preferences-doh-exceptions-description = { -brand-short-name } no at a impreare su DNS seguru pro custos sitos
+preferences-doh-manage-exceptions =
+    .label = Gesti is etzetziones…
+    .accesskey = E
 
 ## The following strings are used in the Download section of settings
 

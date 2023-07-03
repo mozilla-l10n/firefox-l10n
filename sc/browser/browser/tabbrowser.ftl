@@ -135,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Ativa s'àudio de is ischedas
     .accesskey = t
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Riproduende àudio
 
 ## Ctrl-Tab dialog
 
@@ -142,3 +144,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Elenca totu is { $tabCount } ischedas
+
+## Tab manager menu buttons
+

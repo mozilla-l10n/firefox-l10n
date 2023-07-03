@@ -214,6 +214,11 @@ permissions-site-microphone-disable-desc = Custu at a evitare chi is sitos web c
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-doh-entry-field = Inserta su nòmine de domìniu de su situ
+    .accesskey = I
+permissions-doh-add-exception =
+    .label = Agiunghe
+    .accesskey = A
 permissions-doh-col =
     .label = Domìniu
 permissions-doh-remove =

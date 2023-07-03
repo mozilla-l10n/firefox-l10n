@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Importa datos de su navigadore
+migration-wizard-selection-list = Sèbera is datos chi dias a bòlere importare.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -157,6 +159,14 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } preferidu
        *[other] { $quantity } preferidos
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -178,4 +188,6 @@ migration-wizard-progress-success-history =
        *[other] Dae is ùrtimas { $maxAgeInDays } dies
     }
 migration-wizard-progress-success-formdata = Cronologia de formulàrios
-migration-wizard-safari-select-button = Seletziona un’archìviu
+migration-wizard-safari-permissions-sub-header = Pro importare is sinnalibros e sa cronologia de Safari;
+migration-wizard-safari-instructions-continue = Sèbera «Sighi»
+migration-wizard-safari-instructions-folder = Sèbera sa cartella de Safari in sa lista e sèbera «Aberi»

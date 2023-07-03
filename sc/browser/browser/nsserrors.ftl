@@ -223,6 +223,7 @@ sec-error-revoked-key = Sa crae pro su tzertificadu de custu situ est istada rev
 sec-error-krl-invalid = Su KRL nou tenet unu formadu non vàlidu.
 sec-error-need-random = biblioteca de seguresa: sunt netzessàrios datos casuales.
 sec-error-no-module = biblioteca de seguresa: nissunu mollu de seguresa podet esecutare s’informatzione rechesta.
+sec-error-no-token = Sa tèssera o token de seguresa no esistit, bolet aviadu o est istadu bogadu.
 sec-error-read-only = biblioteca de seguresa: base de datos isceti de letura.
 sec-error-no-slot-selected = Nissunu slot o elementu seletzionadu.
 sec-error-cert-nickname-collision = Unu tzertificadu cun su pròpiu nòmine esistet giai.
