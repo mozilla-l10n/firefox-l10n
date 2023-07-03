@@ -32,6 +32,7 @@ about-logging-with-profiler-stacks-checkbox = Activer les traces d’appels pour
 
 about-logging-preset-networking-label = Réseau
 about-logging-preset-networking-description = Modules de journalisation pour diagnostiquer les problèmes de réseau
+about-logging-preset-networking-cookie-label = Cookies
 about-logging-preset-media-playback-label = Lecture multimédia
 about-logging-preset-media-playback-description = Modules de journalisation pour diagnostiquer les problèmes de lecture multimédia (mais non ceux de visioconférence)
 about-logging-preset-custom-label = Personnalisé
