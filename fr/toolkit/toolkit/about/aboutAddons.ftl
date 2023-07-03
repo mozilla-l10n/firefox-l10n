@@ -368,6 +368,8 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Exécuter sur les sites avec restrictions
 # aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
