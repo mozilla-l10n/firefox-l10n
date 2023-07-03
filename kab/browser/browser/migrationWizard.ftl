@@ -57,7 +57,11 @@ migration-bookmarks-option-label = Ticraḍ n isebtar
 migration-favorites-option-label = Ismenyifen
 migration-logins-and-passwords-option-label = Inekcam d wawalen uffiren yettwaskelsen
 migration-history-option-label = Azray n tunigin
+migration-extensions-option-label = Isiɣzaf
 migration-form-autofill-option-label = Isefka n taččart tawurmant n tferra
+migration-payment-methods-option-label = Tarrayin n uxelleṣ
+migration-cookies-option-label = Inagan n tuqqna
+migration-session-option-label = Isfuyla d waccaren
 migration-passwords-from-file-progress-header = Kter afaylu n wawalen uffiren
 migration-passwords-from-file-success-header = Awalen uffiren ttwasifḍen-d akken iwata
 migration-passwords-from-file = Asenqed n wawalen uffiren deg ufaylu
@@ -156,6 +160,14 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } usmenyif
        *[other] { $quantity } yismenyifen
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
