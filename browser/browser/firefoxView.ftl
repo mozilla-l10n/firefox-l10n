@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Απόκρυψη λίστας
 firefoxview-overview-nav = Πρόσφατη περιήγηση
     .title = Πρόσφατη περιήγηση
+firefoxview-overview-header = Πρόσφατη περιήγηση
+    .title = Πρόσφατη περιήγηση
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = Εναλλαγή σε αυτήν την καρτέλα
 firefoxview-show-more = Εμφάνιση περισσότερων
 firefoxview-show-less = Εμφάνιση λιγότερων
+firefoxview-sort-history-by-date-label = Ταξινόμηση κατά ημερομηνία
+firefoxview-sort-history-by-site-label = Ταξινόμηση κατά ιστότοπο
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Σήμερα - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Χθες - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Εμφάνιση πλήρους ιστορικού
