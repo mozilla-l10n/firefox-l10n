@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Ағымдағы бетті бетбелгілерге қосу…
 menu-edit-bookmark =
     .label = Бұл бетбелгіні түзету…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Бетбелгілер ішінен іздеу
 menu-bookmarks-all-tabs =
     .label = Барлық беттерді бетбелгілерге қосу…
 menu-bookmarks-toolbar =

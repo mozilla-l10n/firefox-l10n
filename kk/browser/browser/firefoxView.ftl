@@ -135,3 +135,4 @@ firefoxview-sort-history-by-site-label = Сайт бойынша сұрыпта�
 
 ##
 
+firefoxview-show-all-history = Бүкіл тарихты көрсету

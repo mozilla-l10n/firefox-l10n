@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Бетбелгілер
 migration-favorites-option-label = Таңдамалы
 migration-logins-and-passwords-option-label = Сақталған логиндер мен парольдер
 migration-history-option-label = Шолу тарихы
+migration-extensions-option-label = Кеңейтулер
 migration-form-autofill-option-label = Формаларды автотолтыру деректері
 migration-payment-methods-option-label = Төлем әдістері
 migration-cookies-option-label = Cookie файлдары
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Парольдер сәтті и�
 migration-passwords-from-file = Файлды парольдерге тексеру
 migration-passwords-new = Жаңа парольдер
 migration-passwords-updated = Бар болып тұрған парольдер
+migration-passwords-from-file-no-valid-data = Файлда ешқандай парольдер деректері жоқ. Басқа файлды таңдаңыз.
 migration-passwords-from-file-picker-title = Парольдер файлын импорттау
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -149,6 +151,7 @@ migration-list-bookmark-label = бетбелгілер
 migration-list-favorites-label = таңдамалы
 migration-list-password-label = парольдер
 migration-list-history-label = тарих
+migration-list-extensions-label = кеңейтулер
 migration-list-autofill-label = автотолтыру деректері
 migration-list-payment-methods-label = төлем әдістері
 
@@ -190,6 +193,27 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } таңдамалы
        *[other] { $quantity } таңдамалы
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } кеңейту
+       *[other] { $quantity } кеңейту
+    }
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Сәйкес кеңейтулер жоқ
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
