@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Dölj lista
 firefoxview-overview-nav = Senaste surfning
     .title = Senaste surfning
+firefoxview-overview-header = Senaste surfning
+    .title = Senaste surfning
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = Växla till den här fliken
 firefoxview-show-more = Visa mer
 firefoxview-show-less = Visa mindre
+firefoxview-sort-history-by-date-label = Sortera efter datum
+firefoxview-sort-history-by-site-label = Sortera efter webbplats
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Idag - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Igår - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Visa all historik
