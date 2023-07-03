@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Іздеу
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Кеңейтулер және темаларды <a data-l10n-name="get-extensions">{ $domain }</a> жерінен алыңыз
 list-empty-get-dictionaries-message = Сөздіктерді <a data-l10n-name="get-extensions">{ $domain }</a> жерінен алыңыз
 list-empty-get-language-packs-message = Тілдік дестелерді <a data-l10n-name="get-extensions">{ $domain }</a> жерінен алыңыз
+
+##
+
 list-empty-installed =
     .value = Сізде осы түрдегі қосымшалар орнатылмаған
 list-empty-available-updates =
@@ -139,7 +146,7 @@ addon-category-sitepermission-title =
     .title = Сайт рұқсаттары
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = { $host } үшін сайт рұқсаттары
 
 ## These are global warnings
@@ -151,6 +158,7 @@ extensions-warning-check-compatibility-button = Іске қосу
 extensions-warning-update-security = Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.
 extensions-warning-update-security-button = Іске қосу
     .title = Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу
+extensions-warning-imported-addons-button = Кеңейтулерді орнату
 
 ## Strings connected to add-on updates
 
@@ -219,6 +227,8 @@ shortcuts-duplicate-warning-message = { $shortcut } бірден көп жерд
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } қолдануда
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Тағы { $numberToShow } көрсету
@@ -288,16 +298,9 @@ extension-enabled-heading = Іске қосулы
 extension-disabled-heading = Сөндірілген
 theme-enabled-heading = Іске қосулы
 theme-disabled-heading = Сөндірілген
-theme-disabled-heading2 = Сақталған темалар
 theme-monochromatic-heading = Түстер жинақтары
 theme-monochromatic-subheading = { -brand-product-name } ұсынған жаңа, жарқын түстер жинақтары. Шектеулі уақыт бойы қолжетімді.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Түстер схемаларын қолданып көріңіз
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Түстер схемасын өзгерту
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Мерзімі аяқталады { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Сақталған темалар
 plugin-enabled-heading = Іске қосулы
 plugin-disabled-heading = Сөндірілген
 dictionary-enabled-heading = Іске қосулы
@@ -345,6 +348,10 @@ addon-detail-updates-radio-on = Іске қосулы
 addon-detail-updates-radio-off = Сөндірулі
 addon-detail-update-check-label = Жаңартуларды тексеру
 install-update-button = Жаңарту
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -353,6 +360,20 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Рұқсат етілген кезде, кеңейту жекелік шолу кезінде сіздің желілік белсенділігіңізге қол жеткізе алады. <a data-l10n-name="learn-more">Көбірек білу</a>
 addon-detail-private-browsing-allow = Рұқсат ету
 addon-detail-private-browsing-disallow = Рұқсат етпеу
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Рұқсат ету
+addon-detail-quarantined-domains-disallow = Рұқсат етпеу
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -381,6 +402,8 @@ addon-permissions-optional = Қосымша мүмкіндіктері үшін 
 addon-permissions-learnmore = Рұқсаттар туралы көбірек білу
 recommended-extensions-heading = Ұсынылатын кеңейтулер
 recommended-themes-heading = Ұсынылатын темалар
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> үшін келесі мүмкіндіктерді рұқсат етеді:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -407,8 +430,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } үйлеспейді, осы { -brand-short-name } { $version } нұсқасымен.
 details-notification-incompatible-link = Көбірек ақпарат
 details-notification-unsigned-and-disabled = { $name } { -brand-short-name } ішінде қолданылу үшін растау мүмкін емес, сондықтан ол сөндірілді.
