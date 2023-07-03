@@ -32,8 +32,16 @@ about-logging-with-profiler-stacks-checkbox = Povoliť výpis zásobníka pre sp
 
 about-logging-preset-networking-label = Sieťová aktivita
 about-logging-preset-networking-description = Moduly protokolovania na diagnostiku problémov so sieťou
+about-logging-preset-networking-cookie-label = Súbory cookies
+about-logging-preset-networking-cookie-description = Moduly protokolovania na diagnostiku problémov so súbormi cookies
+about-logging-preset-networking-websocket-label = WebSockety
+about-logging-preset-networking-websocket-description = Moduly protokolovania na diagnostiku problémov s WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Moduly protokolovania na diagnostiku problémov s HTTP/3 a QUIC
 about-logging-preset-media-playback-label = Prehrávanie médií
 about-logging-preset-media-playback-description = Moduly protokolovania na diagnostiku problémov s prehrávaním médií (nie problémov s videokonferenciami)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Moduly protokolovania na diagnostiku problémov volaní WebRTC
 about-logging-preset-custom-label = Vlastná
 about-logging-preset-custom-description = Moduly protokolovania zvolené manuálne
 # Error handling

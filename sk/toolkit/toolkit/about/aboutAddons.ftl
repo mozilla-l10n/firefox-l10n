@@ -163,6 +163,8 @@ extensions-warning-check-compatibility-button = Zapnúť
 extensions-warning-update-security = Kontrola bezpečnosti aktualizácií doplnkov je vypnutá. Aktualizácie vás môžu ohroziť.
 extensions-warning-update-security-button = Zapnúť
     .title = Povoliť kontrolu bezpečnosti aktualizácií doplnkov
+extensions-warning-imported-addons = Dokončite inštaláciu rozšírení, ktoré boli importované do { -brand-short-name(case: "gen") }.
+extensions-warning-imported-addons-button = Nainštalovať rozšírenia
 
 ## Strings connected to add-on updates
 
@@ -303,16 +305,9 @@ extension-enabled-heading = Povolené rozšírenia
 extension-disabled-heading = Zakázané rozšírenia
 theme-enabled-heading = Aktívna téma vzhľadu
 theme-disabled-heading = Neaktívne témy vzhľadu
-theme-disabled-heading2 = Uložené témy vzhľadu
 theme-monochromatic-heading = Farebné témy
 theme-monochromatic-subheading = Nové živé farebné témy { -brand-product-name(case: "gen") }. K dispozícii na obmedzený čas.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Vyskúšajte farebné témy
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Zmeniť farebnú tému
-# Variables:
-#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Dostupná do { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Uložené témy vzhľadu
 plugin-enabled-heading = Povolené zásuvné moduly
 plugin-disabled-heading = Zakázané zásuvné moduly
 dictionary-enabled-heading = Povolené slovníky
@@ -362,6 +357,10 @@ addon-detail-updates-radio-on = Zapnuté
 addon-detail-updates-radio-off = Vypnuté
 addon-detail-update-check-label = Vyhľadať aktualizácie
 install-update-button = Aktualizovať
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -370,6 +369,24 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Povolené rozšírenia majú prístup k vašim aktivitám na internete v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 addon-detail-private-browsing-allow = Povoliť
 addon-detail-private-browsing-disallow = Nepovoliť
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Spúšťať na stránkach s obmedzeniami
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Ak je povolené, rozšírenie bude mať prístup aj na stránky, pri ktorých { -vendor-short-name } zaviedla obmedzenia. Voľbu povoľte iba v prípade, že tomuto rozšíreniu dôverujete.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Povoliť
+addon-detail-quarantined-domains-disallow = Nepovoliť
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
