@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Fela lista
 firefoxview-overview-nav = Nýlegt vafur
     .title = Nýlegt vafur
+firefoxview-overview-header = Nýlegt vafur
+    .title = Nýlegt vafur
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = Skipta yfir á þennan flipa
 firefoxview-show-more = Sýna meira
 firefoxview-show-less = Sýna minna
+firefoxview-sort-history-by-date-label = Raða eftir dagsetningu
+firefoxview-sort-history-by-site-label = Raða eftir vefsvæðum
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Í dag - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Í gær - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Birta allan vafurferil

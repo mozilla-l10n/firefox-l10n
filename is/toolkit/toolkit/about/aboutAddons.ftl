@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Leita
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Náðu í forritsauka og þemu á <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Náðu í orðasöfn á <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Náðu í tungumálapakka á <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Engar viðbætur af þessari tegund hafa verið settar inn
 list-empty-available-updates =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Heimildir vefsvæðis
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Heimildir vefsvæðis fyrir { $host }
 
 ## These are global warnings
@@ -156,6 +163,8 @@ extensions-warning-check-compatibility-button = Virkja
 extensions-warning-update-security = Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.
 extensions-warning-update-security-button = Virkja
     .title = Virkja öryggisuppfærslur fyrir viðbætur
+extensions-warning-imported-addons = Ljúktu við uppsetningu forritsauka sem fluttir voru inn í { -brand-short-name }
+extensions-warning-imported-addons-button = Setja upp forritsauka
 
 ## Strings connected to add-on updates
 
@@ -224,6 +233,8 @@ shortcuts-duplicate-warning-message = { $shortcut } er notað sem flýtileið í
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Þegar í notkun af { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Sýna { $numberToShow } til viðbótar
@@ -294,16 +305,9 @@ extension-enabled-heading = Virkt
 extension-disabled-heading = Óvirkt
 theme-enabled-heading = Virkt
 theme-disabled-heading = Óvirkt
-theme-disabled-heading2 = Vistuð þemu
 theme-monochromatic-heading = Litasett
 theme-monochromatic-subheading = Lífleg ný litasett frá { -brand-product-name }. Í boði í takmarkaðan tíma.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Prófaðu litasettin
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Breyta litasetti
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Rennur út { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Vistuð þemu
 plugin-enabled-heading = Virkt
 plugin-disabled-heading = Óvirkt
 dictionary-enabled-heading = Virkt
@@ -352,6 +356,10 @@ addon-detail-updates-radio-on = Ǻ
 addon-detail-updates-radio-off = Af
 addon-detail-update-check-label = Leita að uppfærslum
 install-update-button = Uppfæra
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -360,6 +368,24 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi viðbót aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 addon-detail-private-browsing-allow = Leyfa
 addon-detail-private-browsing-disallow = Ekki leyfa
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Keyra á vefsvæðum með takmörkunum
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Þegar það er leyft mun forritsaukinn hafa aðgang að vefsvæðum sem takmarkast af { -vendor-short-name }. Leyfa aðeins ef þú treystir þessum forritsaukia.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Leyfa
+addon-detail-quarantined-domains-disallow = Ekki leyfa
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -388,6 +414,8 @@ addon-permissions-optional = Valfrjálsar heimildir fyrir aukna virkni:
 addon-permissions-learnmore = Frekari upplýsingar um heimildir
 recommended-extensions-heading = Forritsaukar sem mælt er með
 recommended-themes-heading = Þemu sem mælt er með
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Veitir eftirfarandi eiginleika til <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -414,8 +442,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } er ósamhæfð við { -brand-short-name } { $version }.
 details-notification-incompatible-link = Nánari upplýsingar
 details-notification-unsigned-and-disabled = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name } þar af leiðandi var viðbót gerð óvirk.
