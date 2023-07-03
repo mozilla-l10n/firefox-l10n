@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Adicionar aba atual aos favoritos…
 menu-edit-bookmark =
     .label = Editar este favorito…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Pesquisar nos favoritos
 menu-bookmarks-all-tabs =
     .label = Adicionar todas as abas…
 menu-bookmarks-toolbar =
