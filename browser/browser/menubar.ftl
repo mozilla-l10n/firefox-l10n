@@ -239,6 +239,9 @@ menu-bookmark-tab =
     .label = Додати цю вкладку до закладок…
 menu-edit-bookmark =
     .label = Редагувати цю закладку…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Шукати закладки
 menu-bookmarks-all-tabs =
     .label = Додати до закладок усі вкладки…
 menu-bookmarks-toolbar =

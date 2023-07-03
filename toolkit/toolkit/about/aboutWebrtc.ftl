@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = зберегти about:webrtc як
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Показати закриті однорангові підключення
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Приховати закриті однорангові підключення
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -28,8 +30,12 @@ about-webrtc-aec-logging-toggled-off-state-msg = Захоплені файли �
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Автооновлення
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Типове автооновлення
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Оновити
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -120,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (зак�
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Надіслати/отримати: { $codecs }
+about-webrtc-short-send-direction = Надіслати: { $codecs }
+about-webrtc-short-receive-direction = Отримати: { $codecs }
 
 ##
 

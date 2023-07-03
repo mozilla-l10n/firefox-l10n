@@ -163,6 +163,8 @@ extensions-warning-check-compatibility-button = Увімкнути
 extensions-warning-update-security = Перевірка безпечного оновлення додатків вимкнена. У процесі оновлення зловмисник може спробувати підмінити їх.
 extensions-warning-update-security-button = Увімкнути
     .title = Увімкнути перевірку безпечного оновлення додатків
+extensions-warning-imported-addons = Завершіть встановлення розширень, які було імпортовано до { -brand-short-name }.
+extensions-warning-imported-addons-button = Встановити розширення
 
 ## Strings connected to add-on updates
 
@@ -301,16 +303,9 @@ extension-enabled-heading = Увімкнено
 extension-disabled-heading = Вимкнено
 theme-enabled-heading = Увімкнено
 theme-disabled-heading = Вимкнено
-theme-disabled-heading2 = Збережені теми
 theme-monochromatic-heading = Забарвлення
 theme-monochromatic-subheading = Сповнені життя нові барви від { -brand-product-name }. Доступні впродовж обмеженого часу.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Спробувати забарвлення
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Змінити Colorway
-# Variables:
-#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Термін дії завершується { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Збережені теми
 plugin-enabled-heading = Увімкнено
 plugin-disabled-heading = Вимкнено
 dictionary-enabled-heading = Увімкнено
@@ -360,6 +355,10 @@ addon-detail-updates-radio-on = Увімкнено
 addon-detail-updates-radio-off = Вимкнено
 addon-detail-update-check-label = Перевірити оновлення
 install-update-button = Оновити
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -368,6 +367,24 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Якщо дозволено, розширення матиме доступ до вашої діяльності в режимі приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
 addon-detail-private-browsing-allow = Дозволити
 addon-detail-private-browsing-disallow = Не дозволяти
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Запускати на сайтах з обмеженнями
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Якщо дозволено, розширення матиме доступ до сайтів, обмежених { -vendor-short-name }. Дозволяйте, лише якщо ви довіряєте цьому розширенню.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Дозволити
+addon-detail-quarantined-domains-disallow = Не дозволяти
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.

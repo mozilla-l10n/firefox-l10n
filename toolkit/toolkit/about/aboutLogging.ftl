@@ -32,8 +32,16 @@ about-logging-with-profiler-stacks-checkbox = Увімкнути трасува�
 
 about-logging-preset-networking-label = Мережа
 about-logging-preset-networking-description = Модулі журналу для діагностики мережевих проблем
+about-logging-preset-networking-cookie-label = Куки
+about-logging-preset-networking-cookie-description = Модулі журналу для діагностики проблем із куками
+about-logging-preset-networking-websocket-label = Вебсокети
+about-logging-preset-networking-websocket-description = Модулі журналу для діагностики проблем із вебсокетами
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Модулі журналу для діагностики проблем із HTTP/3 та QUIC
 about-logging-preset-media-playback-label = Відтворення медіа
 about-logging-preset-media-playback-description = Модулі журналу для діагностики проблем із відтворенням медіа (не проблем із відеоконференціями)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Модулі журналу для діагностики викликів WebRTC
 about-logging-preset-custom-label = Власне
 about-logging-preset-custom-description = Модулі журналу вибрані вручну
 # Error handling
