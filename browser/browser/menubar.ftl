@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Bokmärk aktuell flik…
 menu-edit-bookmark =
     .label = Redigera detta bokmärke…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Sök efter bokmärken
 menu-bookmarks-all-tabs =
     .label = Bokmärke för alla flikar…
 menu-bookmarks-toolbar =
