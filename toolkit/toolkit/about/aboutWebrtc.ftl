@@ -127,6 +127,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (зак�
 ##  $codecs - a list of media codecs
 
 about-webrtc-short-send-receive-direction = Отправка / получение: { $codecs }
+about-webrtc-short-send-direction = Отправка: { $codecs }
+about-webrtc-short-receive-direction = Получение: { $codecs }
 
 ##
 
