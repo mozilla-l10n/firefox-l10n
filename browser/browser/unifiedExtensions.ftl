@@ -41,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Sumir forritsaukar eru ekki leyfðir
 unified-extensions-mb-quarantined-domain-message = Aðeins sumir forritsaukar sem { -vendor-short-name } hefur eftirlit með eru leyfðar á þessu vefsvæði, til að vernda gögnin þín.
+unified-extensions-mb-quarantined-domain-message-2 = Til að vernda gögnin þín mega sumar viðbætur ekki lesið eða breytt gögnum á þessari síðu. Notaðu stillingar viðbótarinnar til að leyfa það á vefsvæðum sem takmarkast af { -vendor-short-name }.

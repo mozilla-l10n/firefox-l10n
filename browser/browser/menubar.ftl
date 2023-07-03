@@ -238,6 +238,9 @@ menu-bookmark-tab =
     .label = Bókamerkja núverandi flipa…
 menu-edit-bookmark =
     .label = Breyta þessu bókamerki…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Leita í bókamerkjum
 menu-bookmarks-all-tabs =
     .label = Setja alla flipa í bókamerki…
 menu-bookmarks-toolbar =
