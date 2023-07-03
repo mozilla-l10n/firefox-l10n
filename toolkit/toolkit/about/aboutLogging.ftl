@@ -34,8 +34,16 @@ about-logging-with-profiler-stacks-checkbox = Veremkiíratások engedélyezése 
 
 about-logging-preset-networking-label = Hálózat
 about-logging-preset-networking-description = Naplómodulok a hálózati problémák diagnosztizálásához
+about-logging-preset-networking-cookie-label = Sütik
+about-logging-preset-networking-cookie-description = Naplómodulok a sütiproblémák diagnosztizálásához
+about-logging-preset-networking-websocket-label = WebSocketek
+about-logging-preset-networking-websocket-description = Naplómodulok a WebSocket problémák diagnosztizálásához
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Naplómodulok a HTTP/3 és QUIC problémák diagnosztizálásához
 about-logging-preset-media-playback-label = Médialejátszás
 about-logging-preset-media-playback-description = Naplómodulok a médialejátszási (nem videókonferenciával kapcsolatos) problémák diagnosztizálásához
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Naplómodulok a WebRTC hívások diagnosztizálásához
 about-logging-preset-custom-label = Egyéni
 about-logging-preset-custom-description = Kézzel kiválasztott naplómodulok
 # Error handling

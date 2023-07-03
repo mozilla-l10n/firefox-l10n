@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = az about:webrtc mentése másként
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Lezárt PeerConnection kapcsolatok megjelenítése
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Lezárt PeerConnection kapcsolatok elrejtése
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -28,12 +30,20 @@ about-webrtc-aec-logging-toggled-off-state-msg = A rögzített naplófájlok meg
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatikus frissítés
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Automatikus frissítés alapértelmezés szerint
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Frissítés
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Nyitott adatcsatornák:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Lezárt adatcsatornák:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -99,6 +109,8 @@ about-webrtc-log-section-show-msg = Napló megjelenítése
     .title = Kattintson a szakasz kibontásához
 about-webrtc-log-section-hide-msg = Napló elrejtése
     .title = Kattintson a szakasz összecsukásához
+about-webrtc-copy-report-button = Jelentés másolása
+about-webrtc-copy-report-history-button = Jelentéselőzmények másolása
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -114,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (bezárv
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Küldés / fogadás: { $codecs }
+about-webrtc-short-send-direction = Küldés: { $codecs }
+about-webrtc-short-receive-direction = Fogadás: { $codecs }
 
 ##
 
@@ -289,6 +304,9 @@ about-webrtc-hide-msg-sdp = SDP elrejtése
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Médiakörnyezet megjelenítése
+about-webrtc-media-context-hide-msg = Médiakörnyezet elrejtése
+about-webrtc-media-context-heading = Médiakörnyezet
 
 ##
 
