@@ -238,6 +238,9 @@ menu-bookmark-tab =
     .label = Jelenlegi lap könyvjelzőzése…
 menu-edit-bookmark =
     .label = Könyvjelző szerkesztése…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Könyvjelzők keresése
 menu-bookmarks-all-tabs =
     .label = Minden lap egy könyvjelzőbe…
 menu-bookmarks-toolbar =
