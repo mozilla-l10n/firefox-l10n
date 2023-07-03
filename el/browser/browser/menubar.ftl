@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Προσθήκη σελιδοδείκτη…
 menu-edit-bookmark =
     .label = Επεξεργασία σελιδοδείκτη…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Αναζήτηση σελιδοδεικτών
 menu-bookmarks-all-tabs =
     .label = Αποθήκευση όλων των καρτελών…
 menu-bookmarks-toolbar =

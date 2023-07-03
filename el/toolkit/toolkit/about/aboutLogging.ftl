@@ -32,8 +32,12 @@ about-logging-with-profiler-stacks-checkbox = Ενεργοποίηση ιχνώ�
 
 about-logging-preset-networking-label = Δικτύωση
 about-logging-preset-networking-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων δικτύωσης
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Αναπαραγωγή πολυμέσων
 about-logging-preset-media-playback-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων αναπαραγωγής πολυμέσων (όχι ζητημάτων τηλεδιασκέψεων)
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = Προσαρμοσμένο
 about-logging-preset-custom-description = Οι μονάδες καταγραφής επιλέχθηκαν χειροκίνητα
 # Error handling

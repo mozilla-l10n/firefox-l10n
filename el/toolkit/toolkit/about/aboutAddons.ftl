@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Αναζήτηση
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Λήψη επεκτάσεων και θεμάτων στο <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Λήψη λεξικών στο <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Λήψη πακέτων γλωσσών στο <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Δεν έχετε εγκατεστημένα πρόσθετα αυτού του τύπου
 list-empty-available-updates =
@@ -143,7 +150,7 @@ addon-category-sitepermission-title =
     .title = Άδειες ιστοτόπων
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Άδειες ιστοτόπου για το { $host }
 
 ## These are global warnings
@@ -155,6 +162,8 @@ extensions-warning-check-compatibility-button = Ενεργοποίηση
 extensions-warning-update-security = Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.
 extensions-warning-update-security-button = Ενεργοποίηση
     .title = Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων
+extensions-warning-imported-addons = Παρακαλώ ολοκληρώστε την εγκατάσταση των επεκτάσεων που εισήχθησαν στο { -brand-short-name }.
+extensions-warning-imported-addons-button = Εγκατάσταση επεκτάσεων
 
 ## Strings connected to add-on updates
 
@@ -223,6 +232,8 @@ shortcuts-duplicate-warning-message = Το { $shortcut } χρησιμοποιε�
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Χρησιμοποιείται ήδη από το { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Εμφάνιση { $numberToShow } περισσότερου
@@ -291,16 +302,9 @@ extension-enabled-heading = Ενεργές
 extension-disabled-heading = Ανενεργές
 theme-enabled-heading = Ενεργά
 theme-disabled-heading = Ανενεργά
-theme-disabled-heading2 = Αποθηκευμένα θέματα
 theme-monochromatic-heading = Χρωματικοί συνδυασμοί
 theme-monochromatic-subheading = Νέοι, δυναμικοί χρωματικοί συνδυασμοί από το { -brand-product-name }. Διαθέσιμοι για περιορισμένο χρονικό διάστημα.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Δοκιμή χρωματικών συνδυασμών
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Αλλαγή χρωματικού συνδυασμού
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Λήγει στις { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Αποθηκευμένα θέματα
 plugin-enabled-heading = Ενεργά
 plugin-disabled-heading = Ανενεργά
 dictionary-enabled-heading = Ενεργά
@@ -349,6 +353,10 @@ addon-detail-updates-radio-on = Ενεργό
 addon-detail-updates-radio-off = Ανενεργό
 addon-detail-update-check-label = Έλεγχος για ενημερώσεις
 install-update-button = Ενημέρωση
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -357,6 +365,19 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Όταν επιτρέπεται, η επέκταση θα έχει πρόσβαση στις δραστηριότητές σας στο διαδίκτυο κατά την ιδιωτική περιήγηση. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 addon-detail-private-browsing-allow = Αποδοχή
 addon-detail-private-browsing-disallow = Απόρριψη
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Εκτέλεση σε ιστοτόπους με περιορισμούς
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -385,6 +406,8 @@ addon-permissions-optional = Προαιρετικά δικαιώματα για 
 addon-permissions-learnmore = Μάθετε περισσότερα σχετικά με τα δικαιώματα
 recommended-extensions-heading = Προτεινόμενες επεκτάσεις
 recommended-themes-heading = Προτεινόμενα θέματα
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Παραχωρεί τις εξής δυνατότητες στο <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -411,8 +434,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Το { $name } είναι ασύμβατο με τον { -brand-short-name } { $version }.
 details-notification-incompatible-link = Περισσότερες πληροφορίες
 details-notification-unsigned-and-disabled = Το { $name } δεν ήταν δυνατό να επαληθευτεί για χρήση στο { -brand-short-name } και έχει απενεργοποιηθεί.
