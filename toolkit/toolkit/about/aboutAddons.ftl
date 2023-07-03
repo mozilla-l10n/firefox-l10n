@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Sök
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Hämta tillägg och teman på <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Hämta ordböcker på <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Hämta språkpaket på <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Du har inga tillägg av den här typen installerade
 list-empty-available-updates =
@@ -139,7 +146,7 @@ addon-category-sitepermission-title =
     .title = Webbplatsbehörigheter
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Webbplatsbehörigheter för { $host }
 
 ## These are global warnings
@@ -219,6 +226,8 @@ shortcuts-duplicate-warning-message = { $shortcut } används som genväg i mer �
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Används redan av { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Visa { $numberToShow } mer
@@ -289,16 +298,9 @@ extension-enabled-heading = Aktiverad
 extension-disabled-heading = Inaktiverad
 theme-enabled-heading = Aktiverad
 theme-disabled-heading = Inaktiverad
-theme-disabled-heading2 = Sparade teman
 theme-monochromatic-heading = Colorways
 theme-monochromatic-subheading = Levande nya colorways från { -brand-product-name }. Tillgängliga under en begränsad tid.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Prova Colorways
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Ändra Colorway
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Upphör { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Sparade teman
 plugin-enabled-heading = Aktiverad
 plugin-disabled-heading = Inaktiverad
 dictionary-enabled-heading = Aktiverad
@@ -356,6 +358,13 @@ addon-detail-private-browsing-help = När det är tillåtet kommer tillägget at
 addon-detail-private-browsing-allow = Tillåt
 addon-detail-private-browsing-disallow = Tillåt inte
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Tillåt
+addon-detail-quarantined-domains-disallow = Tillåt inte
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -383,6 +392,8 @@ addon-permissions-optional = Valfria behörigheter för extra funktionalitet:
 addon-permissions-learnmore = Läs mer om behörigheter
 recommended-extensions-heading = Rekommenderade tillägg
 recommended-themes-heading = Rekommenderade teman
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Ger följande funktioner till <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -409,8 +420,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } är inkompatibelt med { -brand-short-name } { $version }.
 details-notification-incompatible-link = Mer information
 details-notification-unsigned-and-disabled = { $name } kunde inte verifieras för användning i { -brand-short-name } och har inaktiverats.
