@@ -375,6 +375,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Иҷро кардан дар сомонаҳо бо маҳдудият
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Агар иҷозат дода шавад, васеъшавӣ ба сомонаҳое, ки аз тарафи «{ -vendor-short-name }» маҳдуд карда шудаанд, дастрасӣ пайдо мекунад. Танҳо агар шумо ба ин васеъшавӣ эътимод кунед, иҷозат диҳед.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Иҷозат додан
 addon-detail-quarantined-domains-disallow = Иҷозат дода нашавад

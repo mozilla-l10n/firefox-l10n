@@ -35,11 +35,15 @@ about-logging-with-profiler-stacks-checkbox = Фаъол кардани пайг
 about-logging-preset-networking-label = Шабакасозӣ
 about-logging-preset-networking-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои шабакасозӣ
 about-logging-preset-networking-cookie-label = Кукиҳо
+about-logging-preset-networking-cookie-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои кукӣ
 about-logging-preset-networking-websocket-label = Бастагоҳҳои интернетӣ (WebSockets)
+about-logging-preset-networking-websocket-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои «WebSocket»
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои «HTTP/3» ва «QUIC»
 about-logging-preset-media-playback-label = Пахши расона
 about-logging-preset-media-playback-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои пахши расона (масъалаҳо ба ғайр аз конфронсҳои видеоӣ)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Модулҳои сабти рӯйдодҳо барои ташхиси дархостҳои «WebRTC»
 about-logging-preset-custom-label = Фармоишӣ
 about-logging-preset-custom-description = Модулҳои сабти рӯйдодҳои интихобшуда ба таври дастӣ
 # Error handling
