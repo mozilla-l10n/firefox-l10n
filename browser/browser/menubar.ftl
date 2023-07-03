@@ -239,6 +239,9 @@ menu-bookmark-tab =
     .label = Pridať túto kartu medzi záložky
 menu-edit-bookmark =
     .label = Upraviť túto záložku…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Hľadať v záložkách
 menu-bookmarks-all-tabs =
     .label = Pridať všetky karty medzi záložky…
 menu-bookmarks-toolbar =

@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Skryť zoznam
 firefoxview-overview-nav = Nedávne prehliadanie
     .title = Nedávne prehliadanie
+firefoxview-overview-header = Nedávne prehliadanie
+    .title = Nedávne prehliadanie
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = Prepnúť na túto kartu
 firefoxview-show-more = Zobraziť viac
 firefoxview-show-less = Zobraziť menej
+firefoxview-sort-history-by-date-label = Usporiadať podľa dátumu
+firefoxview-sort-history-by-site-label = Usporiadať podľa lokality
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Dnes – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Včera – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Zobraziť celú históriu
