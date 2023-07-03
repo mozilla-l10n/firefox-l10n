@@ -32,8 +32,16 @@ about-logging-with-profiler-stacks-checkbox = Stack-Traces für Log-Meldungen ak
 
 about-logging-preset-networking-label = Netzwerkverbindungen
 about-logging-preset-networking-description = Zu protokollierende Module zur Diagnose von Netzwerkproblemen
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Zu protokollierende Module zur Diagnose von Cookieproblemen
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Zu protokollierende Module zur Diagnose von WebSocket-Problemen
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Zu protokollierende Module zur Diagnose von HTTP/3- und QUIC-Problemen
 about-logging-preset-media-playback-label = Medienwiedergabe
 about-logging-preset-media-playback-description = Zu protokollierende Module zur Diagnose von Problemen bei der Medienwiedergabe (nicht Probleme bei Videokonferenzen)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Zu protokollierende Module zur Diagnose von WebRTC-Problemen
 about-logging-preset-custom-label = Benutzerdefiniert
 about-logging-preset-custom-description = Zu protokollierende Module manuell ausgewählt
 # Error handling
