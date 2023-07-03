@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Masquer la liste
 firefoxview-overview-nav = Navigation récente
     .title = Navigation récente
+firefoxview-overview-header = Navigation récente
+    .title = Navigation récente
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = Basculer vers cet onglet
 firefoxview-show-more = En afficher plus
 firefoxview-show-less = En afficher moins
+firefoxview-sort-history-by-date-label = Trier par date
+firefoxview-sort-history-by-site-label = Trier par site
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Aujourd’hui – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Hier – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Afficher tout l’historique

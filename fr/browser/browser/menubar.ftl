@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Marquer l’onglet courant…
 menu-edit-bookmark =
     .label = Modifier ce marque-page…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Rechercher des marque-pages
 menu-bookmarks-all-tabs =
     .label = Marquer tous les onglets…
 menu-bookmarks-toolbar =

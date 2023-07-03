@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Rechercher
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Téléchargez des extensions et des thèmes sur <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Téléchargez des dictionnaires sur <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Téléchargez des paquetages linguistiques sur <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Vous n’avez aucun module de ce type installé
 list-empty-available-updates =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Autorisations de site
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Autorisations de site pour { $host }
 
 ## These are global warnings
@@ -156,6 +163,8 @@ extensions-warning-check-compatibility-button = Activer
 extensions-warning-update-security = La vérification de mises à jour de sécurité pour les modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires non sûrs.
 extensions-warning-update-security-button = Activer
     .title = Activer la vérification de mises à jour de sécurité pour les modules complémentaires
+extensions-warning-imported-addons = Veuillez terminer l’installation des extensions qui ont été importées dans { -brand-short-name }.
+extensions-warning-imported-addons-button = Installer les extensions
 
 ## Strings connected to add-on updates
 
@@ -224,6 +233,8 @@ shortcuts-duplicate-warning-message = { $shortcut } est utilisé comme raccourci
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Déjà utilisé par { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] En montrer { $numberToShow } de plus
@@ -286,16 +297,9 @@ extension-enabled-heading = Activées
 extension-disabled-heading = Désactivées
 theme-enabled-heading = Activé
 theme-disabled-heading = Désactivés
-theme-disabled-heading2 = Thèmes enregistrés
 theme-monochromatic-heading = Coloris
 theme-monochromatic-subheading = Nouveaux coloris somptueux de { -brand-product-name }. Disponibles pendant une durée limitée.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Essayer les coloris
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Changer de coloris
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Expire le { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Thèmes enregistrés
 plugin-enabled-heading = Activés
 plugin-disabled-heading = Désactivés
 dictionary-enabled-heading = Activés
@@ -344,6 +348,10 @@ addon-detail-updates-radio-on = Activées
 addon-detail-updates-radio-off = Désactivées
 addon-detail-update-check-label = Rechercher des mises à jour
 install-update-button = Mettre à jour
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -352,6 +360,14 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Lorsqu’elle est autorisée, l’extension a accès à vos activités en ligne lors d’une navigation privée. <a data-l10n-name="learn-more">En savoir plus</a>
 addon-detail-private-browsing-allow = Autoriser
 addon-detail-private-browsing-disallow = Ne pas autoriser
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -380,6 +396,8 @@ addon-permissions-optional = Autorisations facultatives pour des fonctionnalité
 addon-permissions-learnmore = En savoir plus à propos des autorisations
 recommended-extensions-heading = Extensions recommandées
 recommended-themes-heading = Thèmes recommandés
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Accorder les capacités suivantes à <span data-l10n-name="hostname">{ $hostname }</span> :
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -406,8 +424,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } est incompatible avec { -brand-short-name } { $version }.
 details-notification-incompatible-link = Plus d’informations
 details-notification-unsigned-and-disabled = { $name } n’a pas pu être vérifié pour son utilisation dans { -brand-short-name } et a été désactivé.
