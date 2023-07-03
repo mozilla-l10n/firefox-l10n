@@ -41,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Деякі розширення не дозволені
 unified-extensions-mb-quarantined-domain-message = Для захисту ваших даних на цьому сайті дозволено використовувати лише деякі розширення, контрольовані { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-message-2 = Щоб захистити ваші дані, деяким розширенням заборонено читати або змінювати дані на цьому сайті. Скористайтеся налаштуваннями розширення, щоб надати дозвіл для сайтів, обмежених { -vendor-short-name }.
