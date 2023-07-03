@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = нигоҳ доштани «about:webrtc»
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Намоиш додани пайвастҳои маҳкамшудаи «PeerConnections»
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Пинҳон кардани пайвастҳои маҳкамшудаи «PeerConnections»
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -30,6 +32,8 @@ about-webrtc-aec-logging-toggled-off-state-msg = Файлҳои сабти рӯ�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Навсозии худкор
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Навсозии худкор ба сурати пешфарз
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Нав кардан
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
