@@ -5,8 +5,8 @@
 restore-page-tab-title = Rikthim Sesioni
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = Na ndjeni. Po kemi probleme që të rimarrim faqet tuaja.
-restore-page-problem-desc = Po kemi problem me rikthimin e sesionit tuaj të fundit të shfletimit. Përzgjidhni Rikthe Sesionin që të riprovohet.
+restore-page-error-title = Na ndjeni. Po kemi probleme me rikthimin e faqevet tuaja.
+restore-page-problem-desc = Po kemi problem me rikthimin e sesionit tuaj të fundit të shfletimit. Përzgjidhni “Rikthe Sesionin”, që të riprovohet.
 restore-page-try-this = Ende s’arrihet të rikthehet sesioni juaj? Ndonjëherë problemin e shkakton një skedë. Shihni skedat e mëparshme, hiquani shenjën atyre që nuk ju duhet t’i riktheni dhe mandej provoni rikthimin.
 restore-page-hide-tabs = Fshihi Skedat e Mëparshme
 restore-page-show-tabs = Shihni Skedat e Mëparshme
