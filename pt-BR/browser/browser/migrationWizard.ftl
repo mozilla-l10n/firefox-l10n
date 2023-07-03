@@ -240,8 +240,8 @@ migration-wizard-progress-success-passwords =
 #  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
 migration-wizard-progress-success-history =
     { $maxAgeInDays ->
-        [one] Do último dia
-       *[other] Dos últimos { $maxAgeInDays } dias
+        [one] do último dia
+       *[other] dos últimos { $maxAgeInDays } dias
     }
 migration-wizard-progress-success-formdata = Histórico de formulários
 # Shown in the migration wizard after importing payment methods from another
