@@ -32,8 +32,16 @@ about-logging-with-profiler-stacks-checkbox = Aktivera stackspårningar för log
 
 about-logging-preset-networking-label = Nätverk
 about-logging-preset-networking-description = Logga moduler för att diagnostisera nätverksproblem
+about-logging-preset-networking-cookie-label = Kakor
+about-logging-preset-networking-cookie-description = Logga moduler för att diagnostisera kakproblem
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Logga moduler för att diagnostisera WebSocket-problem
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Logga moduler för att diagnostisera HTTP/3- och QUIC-problem
 about-logging-preset-media-playback-label = Uppspelning av media
 about-logging-preset-media-playback-description = Logga moduler för att diagnostisera uppspelningsproblem av media (inte videokonferensproblem)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Logga moduler för att diagnostisera WebRTC-anrop
 about-logging-preset-custom-label = Anpassad
 about-logging-preset-custom-description = Loggmoduler manuellt valda
 # Error handling

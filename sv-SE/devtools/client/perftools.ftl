@@ -43,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffertstorlek:
-
 perftools-custom-threads-label = Lägg till anpassade trådar efter namn:
-
 perftools-devtools-interval-label = Intervall:
 perftools-devtools-threads-label = Trådar:
 perftools-devtools-settings-label = Inställningar
@@ -96,7 +94,7 @@ perftools-thread-socket-thread =
 perftools-thread-img-decoder =
     .title = Bildavkodningstrådar
 perftools-thread-dns-resolver =
-    .title = DNS-upplösning sker på den här tråden
+    .title = DNS-uppslagning sker på den här tråden
 perftools-thread-task-controller =
     .title = TaskController trådpoolstrådar
 perftools-thread-jvm-gecko =
@@ -115,7 +113,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Gå förbi val ovan och spela in alla registrerade trådar
-
 perftools-tools-threads-input-label =
     .title = Dessa trådnamn är en kommaseparerad lista som används för att möjliggöra profilering av trådarna i profileraren. Namnet behöver bara vara en partiell matchning av trådnamnet som ska inkluderas. Den är känslig för mellanslag.
 
@@ -123,7 +120,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nytt</b>: { -profiler-brand-name } är nu integrerad i utvecklarverktyg. <a>Läs mer</a> om det här kraftfulla nya verktyget.
-
 perftools-onboarding-close-button =
     .aria-label = Stäng meddelandet
 
@@ -134,25 +130,24 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = Webbutvecklare
 perftools-presets-web-developer-description = Rekommenderad förinställning för de flesta webbappfelsökningar, med lite pålägg.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Rekommenderad förinställning för profilering av { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Grafik
 perftools-presets-graphics-description = Förinställd för att undersöka grafikbuggar i { -brand-shorter-name }.
-
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
-
 perftools-presets-networking-label = Nätverk
 perftools-presets-networking-description = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energi
 perftools-presets-power-description = Förinställd för att undersöka buggar för energianvändning i { -brand-shorter-name }, med låg omkostnad.
-
 perftools-presets-custom-label = Anpassad
 
 ##
