@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Lista elrejtése
 firefoxview-overview-nav = Legutóbbi böngészés
     .title = Legutóbbi böngészés
+firefoxview-overview-header = Legutóbbi böngészés
+    .title = Legutóbbi böngészés
 
 ## History in this context refers to browser history
 
@@ -112,3 +114,21 @@ firefoxview-synced-tabs-header = Lapok más eszközökről
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Összes megtekintése
+firefoxview-opentabs-focus-tab =
+    .title = Váltás erre a lapra
+firefoxview-show-more = Több megjelenítése
+firefoxview-show-less = Kevesebb megjelenítése
+firefoxview-sort-history-by-date-label = Rendezés dátum szerint
+firefoxview-sort-history-by-site-label = Rendezés webhely szerint
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Ma – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Tegnap – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Összes előzmény megjelenítése

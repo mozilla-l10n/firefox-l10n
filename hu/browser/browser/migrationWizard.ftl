@@ -58,13 +58,18 @@ migration-bookmarks-option-label = Könyvjelzők
 migration-favorites-option-label = Kedvencek
 migration-logins-and-passwords-option-label = Mentett bejelentkezések és jelszavak
 migration-history-option-label = Böngészési előzmények
+migration-extensions-option-label = Kiegészítők
 migration-form-autofill-option-label = Adatok automatikus kitöltése
 migration-payment-methods-option-label = Fizetési módok
+migration-cookies-option-label = Sütik
+migration-session-option-label = Ablakok és lapok
+migration-otherdata-option-label = További adatok
 migration-passwords-from-file-progress-header = Jelszófájl importálása
 migration-passwords-from-file-success-header = A jelszavak sikeresen importálva
 migration-passwords-from-file = Jelszavak keresése a fájlban
 migration-passwords-new = Új jelszavak
 migration-passwords-updated = Meglévő jelszavak
+migration-passwords-from-file-no-valid-data = A fájl nem tartalmaz érvényes jelszóadatokat. Válasszon másik fájlt.
 migration-passwords-from-file-picker-title = Jelszófájl importálása
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -104,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Könyvjelzőfájl importálása
 migration-bookmarks-from-file-progress-header = Könyvjelzők importálása
 migration-bookmarks-from-file = Könyvjelzők
 migration-bookmarks-from-file-success-header = A könyvjelzők sikeresen importálva
+migration-bookmarks-from-file-no-valid-data = A fájl nem tartalmaz érvényes könyvjelzőadatokat. Válasszon másik fájlt.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -145,6 +151,7 @@ migration-list-bookmark-label = könyvjelzők
 migration-list-favorites-label = kedvencek
 migration-list-password-label = jelszavak
 migration-list-history-label = előzmények
+migration-list-extensions-label = kiegészítők
 migration-list-autofill-label = adatok automatikus kitöltése
 migration-list-payment-methods-label = fizetési módok
 
@@ -186,6 +193,35 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } kedvenc
        *[other] { $quantity } kedvenc
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } kiegészítő
+       *[other] { $quantity } kiegészítő
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } / { $quantity } kiegészítő
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nincs megfelelő kiegészítő
+migration-wizard-progress-extensions-addons-link = Kiegészítők tallózása a { -brand-short-name }hoz
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #

@@ -58,6 +58,10 @@ webext-perms-sideload-menu-item = { $addonName } hozzáadva ide: { -brand-short-
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = A(z) { $addonName } új engedélyeket igényel
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = A { -brand-short-name }ba importált kiegészítők telepítésének véglegesítése.
 
 ## Add-on removal warning
 
