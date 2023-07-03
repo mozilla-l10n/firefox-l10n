@@ -56,12 +56,9 @@ neterror-dns-not-found-hint-firewall = Kontrolloni nëse ka { -brand-short-name 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të besuar për DNS. Ja pse:
-neterror-dns-not-found-trr-only-attackers = Nëse vazhdoni, një palë e tretë mund të jetë në gjendje të shohë ç’sajte vizitoni, ose t’ju dërgojë te një sajt jo i besueshëm.
-neterror-dns-not-found-trr-third-party-warning = Mund të vazhdoni me një ftillues DNS-sh që s’është i siguruar. Por, një palë e tretë mund të jetë në gjendje të shohë cilat sajte vizitoni.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }-i s’qe në gjendje të lidhet me { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Lidhja me { $trrDomain } zgjati më shumë se ç’pritej.
 neterror-dns-not-found-trr-offline = S’jeni i lidhur në internet.
-neterror-dns-not-found-trr-unknown-host = Nga { $trrDomain } s’u gjet adresë për këtë sajt.
 neterror-dns-not-found-trr-server-problem = Pati një problem me { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problem i papritur.
 
@@ -70,9 +67,7 @@ neterror-dns-not-found-trr-unknown-problem = Problem i papritur.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të besuar për DNS. Ja pse:
-neterror-dns-not-found-native-fallback-attackers = Mund të vazhdoni me një ftillues DNS-sh që s’është i siguruar. Por, një palë e tretë mund të jetë në gjendje të shohë cilat sajte vizitoni, ose t’ju dërgojë te një sajt jo i besuar.
 neterror-dns-not-found-native-fallback-heuristic = DNS përmes HTTPS është çaktivizuar në rrjetin tuaj.
-neterror-dns-not-found-native-fallback-not-confirmed = Lidhja me { $trrDomain } s’është ende gati.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }-i s’qe në gjendje të lidhet me { $trrDomain }.
 
 ##
@@ -94,9 +89,9 @@ neterror-proxy-resolve-failure-firewall = Nëse kompjuteri apo rrjeti juaj mbroh
 neterror-proxy-connect-failure-settings = Kontrolloni rregullimet për ndërmjetësin, për t'u siguruar që janë të sakta.
 neterror-proxy-connect-failure-contact-admin = Lidhuni me përgjegjësin e rrjetit tuaj, për t'u siguruar që shërbyesi ndërmjetës po punon.
 neterror-content-encoding-error = Ju lutemi, lidhuni me të zotët e sajtit, për t’u bërë të ditur këtë problem.
-neterror-unsafe-content-type = Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.
-neterror-nss-failure-not-verified = Faqja që po provoni të shihni nuk shfaqet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.
-neterror-nss-failure-contact-website = Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.
+neterror-unsafe-content-type = Ju lutemi, lidhuni me të zotët e sajtit, për t’u bërë të ditur këtë problem.
+neterror-nss-failure-not-verified = Faqja që po provoni të shihni, s’shfaqet dot, ngaqë mirëfilltësia e të dhënave të marra s’u vërtetua dot.
+neterror-nss-failure-contact-website = Ju lutemi, lidhuni me të zotët e sajtit, për t’u bërë të ditur këtë problem.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name }-i pikasi një kërcënim potencial sigurie dhe nuk vazhdoi për te <b>{ $hostname }</b>. Nëse e vizitoni këtë sajt, gjurmuesit mund të provojnë të vjedhin të dhëna tuajat të tilla si fjalëkalime, email-e, ose hollësi kartash krediti.

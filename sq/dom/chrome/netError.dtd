@@ -38,12 +38,12 @@
 <!ENTITY netOffline.longDesc2 "<p>Shfletuesi po punon nën mënyrën jashtë linje dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Shtypni “Riprovoni” që të kaloni nën mënyrën në linjë dhe të ringarkoni faqen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Lënde">
-<!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot, sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot, sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit, për t’u bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Lloj Kartele Jo i Parrezik">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit, për t’u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Sajti iu përgjigj kërkesës së rrjetit në një mënyrë të papritur dhe shfletuesi nuk vazhdon dot.</p>">
 
 <!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurt">
-<!ENTITY nssFailure2.longDesc2 "<p>Faqja që po përpiqeni të shihni nuk shfaqet dot, ngaqë nuk u vërtetua dot mirëfilltësia e të dhënave të marra.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Faqja që po përpiqeni të shihni nuk shfaqet dot, ngaqë nuk u vërtetua dot mirëfilltësia e të dhënave të marra.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit, për t’u bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Dështoi Lidhja e Sigurt">
 <!ENTITY nssBadCert.longDesc2 "<ul>
