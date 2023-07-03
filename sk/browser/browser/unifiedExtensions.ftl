@@ -41,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Niektoré rozšírenia nie sú povolené
 unified-extensions-mb-quarantined-domain-message = Na ochranu vašich údajov sú na tejto stránke povolené iba niektoré rozšírenia monitorované { -vendor-short-name(case: "ins") }.
+unified-extensions-mb-quarantined-domain-message-2 = V záujme ochrany vašich údajov niektoré rozšírenia nemôžu čítať alebo meniť údaje na tejto stránke. V nastaveniach rozšírenia môžete povoliť prístup na stránkach, pri ktorých { -vendor-short-name } zaviedla obmedzenia.
