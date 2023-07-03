@@ -158,6 +158,8 @@ extensions-warning-check-compatibility-button = Aktivera
 extensions-warning-update-security = Säkerhetskontroll av tilläggsuppdateringar är inaktiverad. Du är sårbar för skadliga uppdateringar.
 extensions-warning-update-security-button = Aktivera
     .title = Aktiverar säkerhetskontroll av tilläggsuppdateringar
+extensions-warning-imported-addons = Slutför installationen av tillägg som importerades till { -brand-short-name }.
+extensions-warning-imported-addons-button = Installera tillägg
 
 ## Strings connected to add-on updates
 
@@ -349,6 +351,10 @@ addon-detail-updates-radio-on = På
 addon-detail-updates-radio-off = Av
 addon-detail-update-check-label = Sök efter uppdateringar
 install-update-button = Uppdatera
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -357,13 +363,24 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter under privat surfning. <a data-l10n-name="learn-more">Läs mer</a>
 addon-detail-private-browsing-allow = Tillåt
 addon-detail-private-browsing-disallow = Tillåt inte
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Kör på webbplatser med begränsningar
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = När det är tillåtet kommer tillägget att ha åtkomst till webbplatser som begränsas av { -vendor-short-name }. Tillåt endast om du litar på det här tillägget.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Tillåt
 addon-detail-quarantined-domains-disallow = Tillåt inte
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
