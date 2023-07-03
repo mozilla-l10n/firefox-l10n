@@ -238,6 +238,9 @@ menu-bookmark-tab =
     .label = Marcar la pestaña actual…
 menu-edit-bookmark =
     .label = Editar este marcador…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Buscar marcadores
 menu-bookmarks-all-tabs =
     .label = Guardar todas las pestañas en marcadores…
 menu-bookmarks-toolbar =
