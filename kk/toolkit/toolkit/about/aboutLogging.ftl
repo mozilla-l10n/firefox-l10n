@@ -32,8 +32,12 @@ about-logging-with-profiler-stacks-checkbox = Журнал хабарламал�
 
 about-logging-preset-networking-label = Желі
 about-logging-preset-networking-description = Желі мәселелерін диагностикалау үшін журналдау модульдері
+about-logging-preset-networking-cookie-label = Cookie файлдары
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Медианы ойнату
 about-logging-preset-media-playback-description = Медиа ойнату мәселелерін диагностикалау үшін журналдау модульдері (видео конференция мәселелері емес)
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = Таңдауыңызша
 about-logging-preset-custom-description = Журналдау модульдері қолмен таңдалған
 # Error handling

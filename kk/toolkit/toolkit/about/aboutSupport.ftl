@@ -172,6 +172,10 @@ media-codec-support-info = Кодек қолдау ақпараты
 # List all the entries of the database.
 media-capabilities-enumerate = Дерекқор жазбаларын шығару
 
+## Codec support table
+
+media-codec-support-codec-name = Кодек атауы
+
 ##
 
 intl-title = Интернационалдандыру және локализация
