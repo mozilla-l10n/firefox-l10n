@@ -41,6 +41,7 @@ about-logging-preset-networking-http3-description = Registrar módulos para diag
 about-logging-preset-media-playback-label = Reproducción multimedia
 about-logging-preset-media-playback-description = Módulos de registro para diagnosticar problemas de reproducción de medios (no problemas de videoconferencia)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Registrar módulos para diagnosticar llamadas WebRTC
 about-logging-preset-custom-label = Personalizado
 about-logging-preset-custom-description = Módulos de registro seleccionados manualmente
 # Error handling
