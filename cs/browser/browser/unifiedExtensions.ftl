@@ -45,3 +45,4 @@ unified-extensions-mb-quarantined-domain-message =
         [with-cases] Kvůli ochraně vašich dat jsou na tomto webu povolena pouze některá rozšíření monitorovaná { -vendor-short-name(case: "ins") }.
        *[no-cases] Kvůli ochraně vašich dat jsou na tomto webu povolena pouze některá rozšíření monitorovaná organizací { -vendor-short-name }.
     }
+unified-extensions-mb-quarantined-domain-message-2 = V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedla omezení.

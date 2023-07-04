@@ -172,6 +172,11 @@ firefoxview-sort-history-by-site-label = Řadit podle serveru
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Dnes – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Včera – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
+firefoxview-show-all-history = Zobrazit celou historii
