@@ -26,6 +26,7 @@ about-logging-logging-to-profiler = Protokolování do { -profiler-brand-name(ca
 about-logging-no-log-modules = Žádný
 about-logging-no-log-file = Žádný
 about-logging-logging-preset-selector-text = Přednastavené protokolování:
+about-logging-with-profiler-stacks-checkbox = Povolit výpis zásobníku pro zprávy protokolu
 
 ## Logging presets
 
@@ -40,6 +41,7 @@ about-logging-preset-networking-http3-description = Moduly protokolů pro diagno
 about-logging-preset-media-playback-label = Přehrávání médií
 about-logging-preset-media-playback-description = Moduly protokolů pro diagnostiku problémů s přehráváním médií (nikoli problémů s videokonferencemi)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Moduly protokolů pro diagnostiku problémů s WebRTC.
 about-logging-preset-custom-label = Vlastní
 about-logging-preset-custom-description = Ručně vybrané moduly protokolů
 # Error handling
