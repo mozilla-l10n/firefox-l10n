@@ -58,6 +58,7 @@ migration-bookmarks-option-label = Kirjanmerkit
 migration-favorites-option-label = Suosikit
 migration-logins-and-passwords-option-label = Tallennetut käyttäjätunnukset ja salasanat
 migration-history-option-label = Selaushistoria
+migration-extensions-option-label = Laajennukset
 migration-form-autofill-option-label = Lomakkeiden automaattisen täytön tiedot
 migration-payment-methods-option-label = Maksutavat
 migration-cookies-option-label = Evästeet
@@ -68,6 +69,7 @@ migration-passwords-from-file-success-header = Salasanat tuotu onnistuneesti
 migration-passwords-from-file = Tarkistetaan tiedostoa salasanojen varalta
 migration-passwords-new = Uudet salasanat
 migration-passwords-updated = Olemassa olevat salasanat
+migration-passwords-from-file-no-valid-data = Tiedosto ei sisällä kelvollisia salasanatietoja. Valitse toinen tiedosto.
 migration-passwords-from-file-picker-title = Tuo salasanojen tiedosto
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -190,6 +192,14 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } suosikki
        *[other] { $quantity } suosikkia
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
