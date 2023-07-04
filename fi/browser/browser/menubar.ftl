@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = Lisää nykyinen välilehti kirjanmerkkeihin…
 menu-edit-bookmark =
     .label = Muokkaa kirjanmerkkiä…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Etsi kirjanmerkeistä
 menu-bookmarks-all-tabs =
     .label = Lisää kaikki välilehdet kirjanmerkkeihin…
 menu-bookmarks-toolbar =
