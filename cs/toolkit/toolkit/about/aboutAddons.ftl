@@ -176,6 +176,7 @@ extensions-warning-check-compatibility-button = Povolit
 extensions-warning-update-security = Kontrola bezpečné aktualizace doplňků je zakázána. Aplikace může být pomocí aktualizací napadena.
 extensions-warning-update-security-button = Povolit
     .title = Povolí kontrolu bezpečné aktualizace doplňků
+extensions-warning-imported-addons-button = Nainstalovat rozšření
 
 ## Strings connected to add-on updates
 
@@ -333,20 +334,13 @@ extension-enabled-heading = Povolená rozšíření
 extension-disabled-heading = Zakázaná rozšíření
 theme-enabled-heading = Aktivní vzhled
 theme-disabled-heading = Zakázané vzhledy
-theme-disabled-heading2 = Uložené vzhledy
 theme-monochromatic-heading = Palety barev
 theme-monochromatic-subheading =
     { -brand-product-name.case-status ->
         [with-cases] Nové palety barev pro { -brand-product-name(case: "acc") } dostupné po omezenou dobu.
        *[no-cases] Nové palety barev pro aplikaci { -brand-product-name } dostupné po omezenou dobu.
     }
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Vyzkoušet palety barev
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Změnit paletu barev
-# Variables:
-#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Skončí { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Uložené vzhledy
 plugin-enabled-heading = Povolené moduly
 plugin-disabled-heading = Zakázané moduly
 dictionary-enabled-heading = Povolené slovníky
@@ -400,6 +394,10 @@ addon-detail-updates-radio-on = Zapnuty
 addon-detail-updates-radio-off = Vypnuty
 addon-detail-update-check-label = Zkontrolovat aktualizace
 install-update-button = Aktualizovat
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -408,6 +406,22 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Povolená rozšíření mají přístup k vašim online aktivitám i v anonymních oknech. <a data-l10n-name="learn-more">Zjistit více</a>
 addon-detail-private-browsing-allow = Povolit
 addon-detail-private-browsing-disallow = Nepovolit
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Spouštět na stránkách s omezeními
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Povolit
+addon-detail-quarantined-domains-disallow = Nepovolit
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
