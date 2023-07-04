@@ -755,7 +755,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Näitä synkronoidaan parhaillaan:
-sync-syncing-across-devices-heading = Synkronoit nämä tietoja kaikkien yhdistettyjen laitteiden välillä:
+sync-syncing-across-devices-heading = Synkronoit näitä tietoja kaikkien yhdistettyjen laitteiden välillä:
 sync-currently-syncing-bookmarks = Kirjanmerkit
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Avoimet välilehdet
@@ -863,8 +863,6 @@ forms-breach-alerts =
     .label = Näytä hälytykset salasanoista sivustoille, jotka ovat kokeneet tietomurron
     .accesskey = h
 forms-breach-alerts-learn-more-link = Lue lisää
-relay-integration =
-    .label = Ota { -relay-brand-name } käyttöön { -brand-short-name }in salasanojen hallinnassa
 preferences-relay-integration-checkbox =
     .label = Ehdota { -relay-brand-name }-sähköpostimaskeja sähköpostiosoitteen suojaamiseksi
 relay-integration-learn-more-link = Lue lisää
