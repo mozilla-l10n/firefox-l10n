@@ -208,9 +208,18 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } кеңейту
        *[other] { $quantity } кеңейту
     }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched }/{ $quantity } кеңейту
+migration-wizard-progress-extensions-support-link = { -brand-product-name } кеңейтулерді үйлесімділікке қалай тексеретінін біліңіз
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Сәйкес кеңейтулер жоқ
+migration-wizard-progress-extensions-addons-link = { -brand-short-name } үшін кеңейтулерді шолу
 
 ##
 

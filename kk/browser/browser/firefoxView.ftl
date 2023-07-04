@@ -132,6 +132,10 @@ firefoxview-sort-history-by-site-label = Сайт бойынша сұрыпта�
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Бүгін - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Кеше - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
