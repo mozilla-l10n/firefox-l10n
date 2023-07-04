@@ -140,7 +140,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Abrir painel de mensagem de instalação de extra
 urlbar-tip-help-icon =
     .title = Obter ajuda
-urlbar-search-tips-confirm = Ok, entendi
+urlbar-search-tips-confirm = OK, percebi
 urlbar-search-tips-confirm-short = Compreendi
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
@@ -1006,15 +1006,6 @@ refresh-blocked-allow =
     .accesskey = P
 
 ## Firefox Relay integration
-
-firefox-relay-offer-why-relay = O { -relay-brand-name } mascara o seu verdadeiro endereço de e-mail para ajudar a protegê-lo contra roubos de dados e de SPAM.
-firefox-relay-offer-how-we-integrate = Ao continuar, poderá gerar novas máscaras de e-mail do { -relay-brand-short-name } diretamente a partir do seu gestor de palavras-passe do { -brand-shorter-name }.
-# Variables:
-#  $sitename (String): name of the site where user enters their Relay mask
-#  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-does = Iremos reencaminhar todos os e-mails de <strong>{ $sitename }</strong> para <strong>{ $useremail }</strong>.
-
-## Popup Notification
 
 firefox-relay-offer-why-to-use-relay = As nossas máscaras seguras e simples de utilizar protegem a sua identidade e evitam spam, ao ocultar o seu endereço de e-mail.
 # Variables:
