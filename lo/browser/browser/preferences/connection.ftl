@@ -37,6 +37,9 @@ connection-proxy-http = ພຣັອກຊີ HTTP
     .accesskey = x
 connection-proxy-http-port = ພັອດ
     .accesskey = ພ
+connection-proxy-https-sharing =
+    .label = ໃຊ້ພຣັອກຊີນີ້ສຳລັບ HTTPS ນຳ
+    .accesskey = s
 connection-proxy-https = HTTPS Proxy
     .accesskey = H
 connection-proxy-ssl-port = ພັອດ
@@ -78,6 +81,11 @@ connection-dns-over-https =
     .accesskey = b
 connection-dns-over-https-url-resolver = ໃຊ້ຜູ້ໃຫ້ບໍລິການ
     .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (ຄ່າເລີ່ມຕົ້ນ)
+    .tooltiptext = ໃຊ້ URL ເລີ່ມຕົ້ນສຳລັບແປງທີ່ຢູ່ DNS ຜ່ານ HTTPS
 connection-dns-over-https-url-custom =
     .label = ປັບແຕ່ງ
     .accesskey = C
