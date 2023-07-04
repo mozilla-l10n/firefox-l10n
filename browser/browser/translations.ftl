@@ -5,6 +5,17 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Käännä sivu
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Sivu käännetty kielestä { $fromLanguage } kielelle { $toLanguage }
+urlbar-translations-button-loading =
+    .tooltiptext = Käännös käynnissä
 translations-panel-settings-button =
     .aria-label = Hallitse käännösasetuksia
 

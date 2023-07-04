@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Piilota lista
 firefoxview-overview-nav = Viimeaikainen selaus
     .title = Viimeaikainen selaus
+firefoxview-overview-header = Viimeaikainen selaus
+    .title = Viimeaikainen selaus
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = Siirry tähän välilehteen
 firefoxview-show-more = Näytä lisää
 firefoxview-show-less = Näytä vähemmän
+firefoxview-sort-history-by-date-label = Järjestä päiväyksen mukaan
+firefoxview-sort-history-by-site-label = Järjestä sivuston mukaan
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Tänään - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Eilen - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Näytä koko historia
