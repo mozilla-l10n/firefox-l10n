@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Lijst verbergen
 firefoxview-overview-nav = Onlangs bekeken
     .title = Onlangs bekeken
+firefoxview-overview-header = Onlangs bekeken
+    .title = Onlangs bekeken
 
 ## History in this context refers to browser history
 
@@ -124,3 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = Wisselen naar dit tabblad
 firefoxview-show-more = Meer tonen
 firefoxview-show-less = Minder tonen
+firefoxview-sort-history-by-date-label = Sorteren op datum
+firefoxview-sort-history-by-site-label = Sorteren op website
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Vandaag – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Gisteren – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+##
+
+firefoxview-show-all-history = Alle geschiedenis tonen
