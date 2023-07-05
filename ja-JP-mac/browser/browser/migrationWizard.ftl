@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-migration-wizard-selection-header = Import Browser Data
-migration-wizard-selection-list = Select the data you’d like to import.
+migration-wizard-selection-header = ブラウザーデータの読み込み
+migration-wizard-selection-list = 読み込むデータを選択してください。
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -54,7 +54,7 @@ migration-bookmarks-option-label = ブックマーク
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = お気に入り
-migration-logins-and-passwords-option-label = Saved logins and passwords
+migration-logins-and-passwords-option-label = 保存したログイン情報とパスワード
 migration-history-option-label = ブラウジング履歴
 migration-form-autofill-option-label = フォームの自動入力データ
 migration-payment-methods-option-label = 支払い方法
