@@ -69,6 +69,19 @@ third-party-button-to-unblock-disabled =
         Attualmente contrassegnato come bloccato, anche se l’elenco di elementi bloccati è disattivato per questa esecuzione di { -brand-short-name }. Fai clic per sbloccarlo.
     .aria-label =
         Attualmente contrassegnato come bloccato, anche se l’elenco di elementi bloccati è disattivato per questa esecuzione di { -brand-short-name }. Fai clic per sbloccarlo.
+
+third-party-button-to-block-module = Blocca questo modulo
+    .title = Blocca questo modulo
+    .aria-label = Blocca questo modulo
+third-party-button-to-unblock-module = Sblocca questo modulo
+    .title = Attualmente bloccato. Fai clic per sbloccarlo.
+    .aria-label = Attualmente bloccato. Fai clic per sbloccarlo.
+third-party-button-to-unblock-module-disabled = Sblocca questo modulo (blocco tramite elenco attualmente disattivato)
+    .title =
+        Attualmente contrassegnato come bloccato, anche se il blocco tramite elenco è disattivato per questa esecuzione di { -brand-short-name }. Fai clic per sbloccarlo.
+    .aria-label =
+        Attualmente contrassegnato come bloccato, anche se il blocco tramite elenco è disattivato per questa esecuzione di { -brand-short-name }. Fai clic per sbloccarlo.
+
 third-party-button-expand =
     .title = Mostra informazioni dettagliate
 third-party-button-collapse =
