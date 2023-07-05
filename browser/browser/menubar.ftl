@@ -238,6 +238,9 @@ menu-bookmark-tab =
     .label = Bladwijzer voor huidige tabblad maken…
 menu-edit-bookmark =
     .label = Deze bladwijzer bewerken…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Bladwijzers doorzoeken
 menu-bookmarks-all-tabs =
     .label = Bladwijzer voor alle tabbladen maken…
 menu-bookmarks-toolbar =

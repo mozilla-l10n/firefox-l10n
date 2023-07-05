@@ -34,6 +34,8 @@ about-logging-with-profiler-stacks-checkbox = Stacktraces voor logboekberichten 
 
 about-logging-preset-networking-label = Netwerk
 about-logging-preset-networking-description = Logboekmodules om netwerkproblemen te diagnosticeren
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Media afspelen
 about-logging-preset-media-playback-description = Logboekmodules om problemen met het afspelen van media te diagnosticeren (geen problemen met videoconferenties)
 about-logging-preset-custom-label = Aangepast

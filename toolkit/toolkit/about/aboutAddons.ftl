@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Zoeken
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Download extensies en thema’s op <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Download woordenboeken op <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Download taalpakketten op <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = U hebt geen add-ons van dit type geïnstalleerd
 list-empty-available-updates =
@@ -148,7 +155,7 @@ addon-category-sitepermission-title =
     .title = Websitemachtigingen
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Websitemachtigingen voor { $host }
 
 ## These are global warnings
@@ -160,6 +167,7 @@ extensions-warning-check-compatibility-button = Inschakelen
 extensions-warning-update-security = Beveiligingscontrole voor add-on-updates is uitgeschakeld. Mogelijk loopt u een beveiligingsrisico door updates.
 extensions-warning-update-security-button = Inschakelen
     .title = Beveiligingscontrole voor add-on-updates inschakelen
+extensions-warning-imported-addons-button = Extensies installeren
 
 ## Strings connected to add-on updates
 
@@ -228,6 +236,8 @@ shortcuts-duplicate-warning-message = { $shortcut } wordt in meer dan een geval 
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Al in gebruik door { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Nog { $numberToShow } tonen
@@ -297,16 +307,9 @@ extension-enabled-heading = Ingeschakeld
 extension-disabled-heading = Uitgeschakeld
 theme-enabled-heading = Ingeschakeld
 theme-disabled-heading = Uitgeschakeld
-theme-disabled-heading2 = Opgeslagen thema’s
 theme-monochromatic-heading = Kleurstellingen
 theme-monochromatic-subheading = Levendige nieuwe kleurstellingen van { -brand-product-name }. Beschikbaar gedurende een beperkte tijd.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Kleurstellingen proberen
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Kleurstelling wijzigen
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Verloopt op { DATETIME($expiryDate, month: "long", day: "numeric") }
+theme-disabled-heading2 = Opgeslagen thema’s
 plugin-enabled-heading = Ingeschakeld
 plugin-disabled-heading = Uitgeschakeld
 dictionary-enabled-heading = Ingeschakeld
@@ -355,6 +358,10 @@ addon-detail-updates-radio-on = Aan
 addon-detail-updates-radio-off = Uit
 addon-detail-update-check-label = Controleren op updates
 install-update-button = Bijwerken
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -363,6 +370,20 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Wanneer toegestaan, heeft de extensie toegang tot uw online-activiteiten tijdens privénavigatie. <a data-l10n-name="learn-more">Meer info</a>
 addon-detail-private-browsing-allow = Toestaan
 addon-detail-private-browsing-disallow = Niet toestaan
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Toestaan
+addon-detail-quarantined-domains-disallow = Niet toestaan
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -391,6 +412,8 @@ addon-permissions-optional = Optionele toestemmingen voor extra functionaliteit:
 addon-permissions-learnmore = Meer info over toestemmingen
 recommended-extensions-heading = Aanbevolen extensies
 recommended-themes-heading = Aanbevolen thema’s
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Geeft <span data-l10n-name="hostname">{ $hostname }</span> de volgende mogelijkheden:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -417,8 +440,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } is niet compatibel met { -brand-short-name } { $version }.
 details-notification-incompatible-link = Meer informatie
 details-notification-unsigned-and-disabled = { $name } kon niet worden geverifieerd voor gebruik in { -brand-short-name } en is uitgeschakeld.
