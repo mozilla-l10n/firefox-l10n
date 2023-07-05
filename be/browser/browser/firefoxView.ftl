@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = Схаваць спіс
 firefoxview-overview-nav = Нядаўняе агляданне
     .title = Нядаўняе агляданне
+firefoxview-overview-header = Нядаўняе агляданне
+    .title = Нядаўняе агляданне
 
 ## History in this context refers to browser history
 
