@@ -38,9 +38,11 @@ menu-quit =
             [windows] خ
            *[other] غ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = أغلق { -brand-shorter-name }
+
 menu-about =
     .label = عن { -brand-shorter-name }
     .accesskey = ع
@@ -224,8 +226,6 @@ menu-history-undo-menu =
     .label = الألسنة المُغلقة مؤخرًا
 menu-history-undo-window-menu =
     .label = النوافذ المغلقة مؤخرًا
-menu-history-reopen-all-tabs = أعِد فتح كل الألسنة
-menu-history-reopen-all-windows = أعِد فتح كل النوافذ
 
 ## Bookmarks Menu
 
@@ -234,10 +234,6 @@ menu-bookmarks-menu =
     .accesskey = ع
 menu-bookmarks-manage =
     .label = أدِر العلامات
-menu-bookmark-current-tab =
-    .label = علّم اللسان الحالي
-menu-bookmark-edit =
-    .label = حرّر هذه العلامة
 menu-bookmarks-all-tabs =
     .label = علّم كل الألسنة…
 menu-bookmarks-toolbar =

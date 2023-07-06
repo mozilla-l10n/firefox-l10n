@@ -22,10 +22,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = يجري تنزيل الشّهادات
-    .style = width: 46em
-
 download-cert-window2 =
     .title = يجري تنزيل الشّهادات
     .style = min-width: 46em
@@ -60,7 +56,5 @@ set-password-reminder = هامّ: إذا نسيت كلمة سرّ النّسخة
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = استيثاق علامة محمية
-protected-auth-msg = من فضلك استوثق من هذه العلامة. تعتمد طريقة الاستيثاق على نوع علامتك.
-protected-auth-token = علامة:
+## Protected authentication alert
+

@@ -61,9 +61,6 @@ import-items-description = اختر أي العناصر تريد استيراد�
 
 import-permissions-page-title = من فضلك امنح { -brand-short-name } الصلاحيات اللازمة
 
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = يطلب نظام ماك‌أو‌إس أن تسمح بجهارةٍ لمتصفح { -brand-short-name } بالوصول إلى علامات متصفح سفاري. انقر ”واصِل“ واختر ”Bookmarks.plist“ في لوحة فتح الملف التي ستظهر.
-
 import-migrating-page-title = يستورد…
 
 import-migrating-description = يجري استيراد العناصر التالية…
@@ -155,3 +152,4 @@ browser-data-session-checkbox =
     .label = النوافذ و الألسنة
 browser-data-session-label =
     .value = النوافذ و الألسنة
+

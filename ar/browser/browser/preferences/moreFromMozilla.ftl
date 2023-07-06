@@ -15,11 +15,10 @@ more-from-moz-firefox-mobile-title = متصفّح { -brand-product-name } للم
 more-from-moz-firefox-mobile-description = متصفّح المحمول الذي يضع خصوصيتك أولا وقبل كل شيء.
 
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
-more-from-moz-mozilla-vpn-description-advanced = يُضيف { -mozilla-vpn-brand-name } طبقة إضافية من التصفح والحماية المجهّلة. كما أنه وعلى خلاف شبكات VPN الأخرى، آمن ولا يتعقّب نشاطاتك.
-
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-mozilla-rally-title = { -rally-brand-name }
 
 more-from-moz-qr-code-box-firefox-mobile-title = نزّله بجهازك المحمول. ثم صوّر رمز QR بالكمرة وانقر على الرابط الذي سيظهر.
 
 more-from-moz-learn-more-link = اطّلع على المزيد
+
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+

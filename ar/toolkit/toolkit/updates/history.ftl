@@ -23,5 +23,7 @@ state-header = الحالة
 update-full-build-name = ‏{ $name } ‏({ $buildID })
 
 update-details = التفاصيل
+
 update-installed-on = منصّب في: { $date }
+
 update-status = الحالة: { $status }

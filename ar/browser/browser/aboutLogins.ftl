@@ -4,11 +4,10 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = جلسات الولوج وكلمات السر
-login-filter =
-    .placeholder = ابحث في جلسات الولوج
-create-login-button = أنشئ جلسة ولوج جديدة
+
 create-new-login-button =
     .title = أنشِئ جلسة ولوج جديدة
+
 fxaccounts-sign-in-text = استعمل كلمات السر لحساباتك في أجهزتك الأخرى
 fxaccounts-sign-in-sync-button = لِج كي تبدأ المزامنة
 fxaccounts-avatar-button =
@@ -104,9 +103,6 @@ login-item-copied-password-button-text = نُسخ.
 login-item-save-changes-button = احفظ التغييرات
 login-item-save-new-button = احفظ
 login-item-cancel-button = ألغِ
-login-item-time-changed = آخر تعديل: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = تاريخ الإنشاء: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = آخر استخدام: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -132,16 +128,19 @@ about-logins-edit-login-os-auth-dialog-message-win = أدخِل معلومات �
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = تحرير جلسة الولوج المحفوظة
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتعرض كلمة السر. يساعد هذا الأمر على حماية أمن حساباتك.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = عرض كلمة السر المحفوظة
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتنسخ كلمة السر. يساعد هذا الأمر على حماية أمن حساباتك.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = نسخ كلمة السر المحفوظة
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتُصدّر جلسات الولوجج. يساعد هذا الأمر على حماية أمن حساباتك.
 # This message can be seen when attempting to export a password in about:logins
@@ -160,6 +159,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ألغِ
 confirmation-dialog-dismiss-button =
     .title = ألغِ
+
 about-logins-confirm-remove-dialog-title = أنُزيل هذا الولوج؟
 confirm-delete-dialog-message = هذا إجراء لا عودة فيه.
 about-logins-confirm-remove-dialog-confirm-button = أزِل
@@ -177,6 +177,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [many] أزِل الكل
        *[other] أزِل الكل
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] نعم، احذف هذا الولوج
@@ -187,6 +188,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [many] نعم، احذف جلسات الولوج هذه
        *[other] نعم، احذف جلسات الولوج هذه
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [zero] أنُزيل { $count } جلسة ولوج؟
@@ -206,6 +208,7 @@ about-logins-confirm-remove-all-dialog-message =
         [many] بهذا تحذف جلسات الولوج المحفوظة في { -brand-short-name } وأيّ تحذيرات أخرى تظهر هنا عن تسريبات البيانات. لا يمكنك العودة عن هذا الإجراء.
        *[other] بهذا تحذف جلسات الولوج المحفوظة في { -brand-short-name } وأيّ تحذيرات أخرى تظهر هنا عن تسريبات البيانات. لا يمكنك العودة عن هذا الإجراء.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [zero] أتريد إزالة جلسة الولوج من كل الأجهزة؟
@@ -231,8 +234,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = صدّر جلسات الولوج وكلمات السر
 about-logins-confirm-export-dialog-message = ستُحفظ جلسات الولوج على هيئة نص مقروء (مثلا 12345 أو BadP@ssw0rd) وبهذا يستطيع أيّ شخص معاينتها لو فتح الملف المصدّر.
 about-logins-confirm-export-dialog-confirm-button = صدّر…
+
 about-logins-alert-import-title = تمّ الاستيراد
 about-logins-alert-import-message = اعرض ملخص الاستيراد التفصيلي
+
 confirm-discard-changes-dialog-title = أتريد إهمال التغييرات غير المحفوظة؟
 confirm-discard-changes-dialog-message = ستفقد كل تغيير لم تحفظه.
 confirm-discard-changes-dialog-confirm-button = أهمِل
@@ -245,7 +250,6 @@ about-logins-breach-alert-date = حدث هذا التسرّب بتاريخ { DAT
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = انتقل إلى { $hostname }
-about-logins-breach-alert-learn-more-link = اطّلع على المزيد
 
 ## Vulnerable Password notification
 
@@ -263,6 +267,7 @@ about-logins-vulnerable-alert-learn-more-link = اطّلع على المزيد
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = جلسة الولوج باسم المستخدم { $loginTitle } موجودة. <a data-l10n-name="duplicate-link">أتريد أن تراها؟</a>
+
 # This is a generic error message.
 about-logins-error-message-default = حدث خطأ أثناء محاولة حفظ كلمة السر هذه.
 
@@ -316,6 +321,7 @@ about-logins-import-dialog-items-added =
         [many] <span>أُضيفت جلسات ولوج جديدة:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>أُضيفت جلسات ولوج جديدة:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [zero] <span>حُدّثت جلسة ولوج موجودة:</span> <span data-l10n-name="count">{ $count }</span>
@@ -325,6 +331,7 @@ about-logins-import-dialog-items-modified =
         [many] <span>حُدّثت جلسات ولوج موجودة:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>حُدّثت جلسات ولوج موجودة:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [zero] <span>وُجدت جلسة ولوج مكرّرة: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
@@ -344,6 +351,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>الأخطاء:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
     }
 about-logins-import-dialog-done = تمّ
+
 about-logins-import-dialog-error-title = عُطل أثناء الاستيراد
 about-logins-import-dialog-error-conflicting-values-title = قيم متعارضة متعدّدة لجلسة ولوج واحدة
 about-logins-import-dialog-error-conflicting-values-description = على سبيل المثال: لجلسة الولوج أكثر من اسم مستخدم واحد، أو كلمة سر واحدة، أو عنوان واحد، إلخ.
@@ -357,8 +365,10 @@ about-logins-import-dialog-error-no-logins-imported = لم تُستورد أيّ
 about-logins-import-dialog-error-learn-more = اطّلع على المزيد
 about-logins-import-dialog-error-try-import-again = حاوِل الاستيراد ثانيةً…
 about-logins-import-dialog-error-cancel = ألغِ
+
 about-logins-import-report-title = ملخص الاستيراد
 about-logins-import-report-description = استوردت جلسات الولوج وكلمات السر إلى { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

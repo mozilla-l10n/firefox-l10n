@@ -9,10 +9,6 @@ failed-pp-change = تعذّر تغيير كلمة السر الرئيسيّة.
 incorrect-pp = لم تدخل كلمة السر الرئيسيّة الصّحيحة. الرّجاء المحاولة مرّة ثانية.
 pp-change-ok = غُيّرت كلمة السر الرئيسيّة بنجاح.
 
-pp-empty-warning = لن تُحمى كلمات السر المحفوظة ولا المفاتيح الخاصة.
-pp-erased-ok = حذفتَ كلمة سرك الرئيسيّة. { pp-empty-warning }
-pp-not-wanted = تحذير! قرّرت عدم استخدام كلمة سر رئيسة. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = أنت حاليًّا في وضع FIPS. يتطلّب FIPS كلمة سر رئيسية غير فارغة.
 pw-change-success-title = نجح تغيير كلمة السر
 pw-change-failed-title = فشل تغيير كلمة السر

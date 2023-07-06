@@ -22,14 +22,12 @@ pocket-panel-saved-page-removed = أزِيلت الصفحة
 pocket-panel-saved-page-saved = حُفِظت في { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = حُفِظت في { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = يُزيل الصفحة…
-pocket-panel-saved-removed = أُزيلت الصفحة من قائمتي
 pocket-panel-saved-processing-tags = يضيف الوسوم…
 pocket-panel-saved-remove-page = أزِل الصفحة
 pocket-panel-saved-save-tags = احفظ
 pocket-panel-saved-saving-tags = يحفظ…
 pocket-panel-saved-suggested-tags = الوسوم المقترحة
 pocket-panel-saved-tags-saved = أُضيفت الوسوم
-pocket-panel-signup-view-list = اعرض القائمة
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = أضِف وسومًا:
@@ -47,13 +45,10 @@ pocket-panel-signup-tagline-story-one = انقر على زر { -pocket-brand-nam
 pocket-panel-signup-tagline-story-two = اعرض في { -pocket-brand-name } على أي جهاز في أي وقت.
 
 pocket-panel-signup-cta-a-fix = زر الحفظ لكل ما تريده على الإنترنت
-pocket-panel-signup-cta-b = انقر زر { -pocket-brand-name } لحفظ المقالات والفيديوهات والروابط. اعرف قائمة بما حفظت على أي جهاز تريد، ومتى تريد.
 pocket-panel-signup-cta-b-short = انقر زر { -pocket-brand-name } لحفظ المقالات والفيديوهات والروابط.
-pocket-panel-signup-cta-c = اعرف قائمة بما حفظت على أي جهاز تريد، ومتى تريد.
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = قائمتي
 pocket-panel-home-welcome-back = مرحبا بعودتك
 pocket-panel-home-paragraph = يمكنك عبر { -pocket-brand-name } استكشاف صفحات الوِب والمقالات ومقاطع الڤِديو والبودكاست وحفظها، أو الرجوع إلى ما كنت تقرأه.
 pocket-panel-home-explore-popular-topics = استكشف المواضيع الشائعة
@@ -67,7 +62,6 @@ pocket-panel-home-new-user-message = طالِع آخر ما حفظت هنا.
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = اعرض قائمتي
 pocket-panel-header-sign-in = لِج
 
 ## Pocket panel buttons

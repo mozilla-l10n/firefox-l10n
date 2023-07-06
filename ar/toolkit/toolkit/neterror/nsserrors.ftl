@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = حدث خطأ أثناء الاتصال ب‍ { $hostname }. ‏{ $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = رمز الخطأ: { $error }
-
 psmerr-ssl-disabled = تعذّر الاتصال بسريّة لأن بروتوكول SSL مُعطّل.
 psmerr-ssl2-disabled = تعذّر الاتصال بسريّة لأن الموقع يستخدم إصدارة قديمة غير مُؤَمّنة من برتوكول SSL.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = لم تُعد أي خوارزمية
 ssl-error-unsupported-signature-algorithm = استخدم الند زوجًا غير مدعوم من التواقيع و خوازميات التلبيد.
 ssl-error-missing-extended-master-secret = حاول الند الاستكمال دون امتداد extended_master_secret صحيح.
 ssl-error-unexpected-extended-master-secret = حاول الند الاستكمال مع امتداد extended_master_secret غير متوقع.
+
 sec-error-io = حصل خطأ دخل/خرج أثناء المصادقة الأمنية.
 sec-error-library-failure = فشل في المكتبة الأمنية.
 sec-error-bad-data = المكتبة الأمنية: استُلمت بيانات سيئة.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = لا يمكن الاستخراج: خوارزم
 sec-error-pkcs7-bad-signature = فشل التحقق من التوقيع: لم يُعثر على موقّع، أو عُثر على الكثير جدًا من الموقّعين، أو أن البيانات تالفة أو غير صحيحة.
 sec-error-unsupported-keyalg = خوارزمية مفتاح غير مدعومة أو غير معروفة.
 sec-error-decryption-disallowed = لا يمكن الاستخراج: معمّاة باستخدام خوارزمية غير مسموحة أو حجم مفتاح غير مسموح.
-xp-sec-fortezza-bad-card = لم تُنشّط بطاقة فورتيزا بشكل صحيح. رجاءً أزلها وأعدها إلى مُصْدِرها.
-xp-sec-fortezza-no-card = لم يُعثر على بطاقات فورتيزا
-xp-sec-fortezza-none-selected = لم تُختر أي بطاقة فورتيزا
-xp-sec-fortezza-more-info = رجاءً اختر شخصية للحصول على معلومات أكثر عنها
-xp-sec-fortezza-person-not-found = الشخصية غير موجودة
-xp-sec-fortezza-no-more-info = لا معلومات إضافية عن هذه الشخصية
-xp-sec-fortezza-bad-pin = دبوس غير صالح
-xp-sec-fortezza-person-error = لم يمكن بدء شخصيات فورتيزا.
 sec-error-no-krl = لم يُعثر على أي KRL لشهادة هذا الموقع.
 sec-error-krl-expired = انتهت صلاحية KRL الخاص بهذا الموقع.
 sec-error-krl-bad-signature = KRL الخاص بشهادة هذا الموقع لديه توقيع غير صالح.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = هناك شهادة بنفس الاسم ال
 sec-error-key-nickname-collision = هناك مفتاح بنفس الاسم المستعار موجود مسبقًا.
 sec-error-safe-not-created = خطأ أثناء إنشاء الكائن الآمن
 sec-error-baggage-not-created = خطأ أثناء إنشاء كائن الأمتعة
-xp-java-remove-principal-error = تعذرت إزالة الرئيس
-xp-java-delete-privilege-error = تعذرت إزالة الامتياز
-xp-java-cert-not-exists-error = هذا الرئيس لا يملك شهادة
 sec-error-bad-export-algorithm = الخوارزمية المطلوبة غير مسموح بها.
 sec-error-exporting-certificates = خطأ أثناء محاولة تصدير الشهادات.
 sec-error-importing-certificates = خطأ أثناء محاولة استيراد الشهادات.
@@ -339,6 +320,7 @@ sec-error-locked-password = كلمة الصر مقفلة.
 sec-error-unknown-pkcs11-error = عُطل PKCS #11 غير معروف.
 sec-error-bad-crl-dp-url = مسار غير سليم أو غير مدعوم في اسم نقطة توزيع قائمة فسخ الشهادات.
 sec-error-cert-signature-algorithm-disabled = وُقَّعت الشهادة باستخدام خوارزمية عُطّلت لعدم أمانها.
+
 mozilla-pkix-error-key-pinning-failure = يستعمل الخادوم ميزة تثبيت المفاتيح (HPKP) ولكن تعذرت إقامة سلسلة شهادات موثوقة تُطابق مجموعة التثبيت. لا يمكنك تجاوز انتهاكات ميزة تثبيت المفاتيح (Key pinning).
 mozilla-pkix-error-ca-cert-used-as-end-entity = يستخدم الخادوم شهادة بامتداد قيود أساسية يعرفها سلطة شهادات. وبالنسبة لشهادة مصدرة بشكل صحيح، ينبغي ألا يكون هذا هو الحال.
 mozilla-pkix-error-inadequate-key-size = قدّم الخادوم شهادة حجم مفتاحها صغير جدا لإنشاء اتصال آمن.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = قدّم الخادوم شهادة
 mozilla-pkix-error-empty-issuer-name = قدّم الخادوم شهادة تحتوي اسم مُصْدِر مميز خالٍ.
 mozilla-pkix-error-additional-policy-constraint-failed = فشل قيد سياسة إضافي أثناء التحقق من الشهادة.
 mozilla-pkix-error-self-signed-cert = الشهادة غير موثوقة لأنها موقعّة ذاتيًا.
+
+xp-java-remove-principal-error = تعذرت إزالة الرئيس
+xp-java-delete-privilege-error = تعذرت إزالة الامتياز
+xp-java-cert-not-exists-error = هذا الرئيس لا يملك شهادة
+
+xp-sec-fortezza-bad-card = لم تُنشّط بطاقة فورتيزا بشكل صحيح. رجاءً أزلها وأعدها إلى مُصْدِرها.
+xp-sec-fortezza-no-card = لم يُعثر على بطاقات فورتيزا
+xp-sec-fortezza-none-selected = لم تُختر أي بطاقة فورتيزا
+xp-sec-fortezza-more-info = رجاءً اختر شخصية للحصول على معلومات أكثر عنها
+xp-sec-fortezza-person-not-found = الشخصية غير موجودة
+xp-sec-fortezza-no-more-info = لا معلومات إضافية عن هذه الشخصية
+xp-sec-fortezza-bad-pin = دبوس غير صالح
+xp-sec-fortezza-person-error = لم يمكن بدء شخصيات فورتيزا.

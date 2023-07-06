@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = افتح
     .accesskey = ف
-synced-tabs-context-open-in-new-tab =
-    .label = افتح في لسان جديد
-    .accesskey = ل
-synced-tabs-context-open-in-new-window =
-    .label = افتح في نافذة جديدة
-    .accesskey = ج
-synced-tabs-context-open-in-new-private-window =
-    .label = افتح في نافذة خاصة جديدة
-    .accesskey = خ
-synced-tabs-context-bookmark-single-tab =
-    .label = علّم هذا اللسان…
-    .accesskey = ع
 
 ##
 

@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = أنهِ إعداد الحساب
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = فُصل الحساب
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = أرسله إلى كل الأجهزة
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = أدِر الأجهزة…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = أدِر الأجهزة…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = لا أجهزة متصلة
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = اطلع على المزيد عن إرسال الألسنة…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = صِلْ جهازا آخر…
 
@@ -45,10 +50,13 @@ account-send-tab-to-device-verify = أكّد حسابك…
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = أصبح هذا الحاسوب الآن متصلًا مع { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = صار هذا الحاسوب متصلًا الآن مع جهاز جديد.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = نجح الولوج إلى حسابك
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = قُطع اتصال هذا الحاسوب.
 
@@ -60,6 +68,7 @@ account-single-tab-arriving-title = وصل لسان
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = لسان من { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -72,6 +81,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = وصل لسان
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

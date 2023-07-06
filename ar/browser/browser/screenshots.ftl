@@ -50,3 +50,4 @@ screenshots-private-window-error-details = نأسف على الإزعاج. نع�
 
 screenshots-generic-error-title = هناك عطل في { -screenshots-brand-name }.
 screenshots-generic-error-details = لسنا متأكدين ما المشكلة. أتمانع إعادة المحاولة أو أخذ لقطة لصفحة أخرى؟
+
