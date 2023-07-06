@@ -90,6 +90,8 @@ menu-view-page-basic-style =
 ## use on macOS.
 
 
+## These menu items may use the same accesskey.
+
 ##
 
 

@@ -19,10 +19,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Layisha sitifiketi
-    .style = width: 46em
-
 download-cert-message = Ucelwe kutsi utsembe umtsetfo wesitifiketi lesisha (CA).
 download-cert-trust-email =
     .label = Tsemba CA kukhomba basebentisi be-imeyili.
@@ -50,4 +46,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Lokubalulekile: Nawukhohlwa sitifiketi sakho sesibuyisi selibitophawu, ungeke ukwati kubuyisela sibuyisi kamuva.  Uyacelwa usibhale endzaweni lephephile.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

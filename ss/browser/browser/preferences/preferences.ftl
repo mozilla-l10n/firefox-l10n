@@ -29,12 +29,28 @@ close-button =
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 ## Preferences UI Search Results
 
 
 ## General Section
 
 tabs-group-header = Emathebhu
+
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+##
 
 
 ## General Section - Language & Appearance
@@ -103,8 +119,10 @@ browsing-use-smooth-scrolling =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
-##
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
+##
 
 ## Search Section
 
@@ -123,6 +141,16 @@ browsing-use-smooth-scrolling =
 
 ## Firefox Account - Signed in
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+## Firefox account - Signed in
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+##
+
 ## Sync section - enabling or disabling sync.
 
 ## The list of things currently syncing.
@@ -130,6 +158,9 @@ browsing-use-smooth-scrolling =
 ## The "Choose what to sync" dialog.
 
 ## The device name controls.
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
 
 ## Privacy Section
 
@@ -149,6 +180,8 @@ history-header = Umlandvo
 ## Privacy Section - Site Data
 
 
+## Privacy Section - Cookie Banner Handling
+
 ## Privacy Section - Address Bar
 
 
@@ -160,6 +193,8 @@ history-header = Umlandvo
 
 
 ##
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 ## Privacy Section - Tracking
 
@@ -181,6 +216,8 @@ history-header = Umlandvo
 certs-header = Titifiketi
 
 ## Privacy Section - HTTPS-Only
+
+## DoH Section
 
 ## The following strings are used in the Download section of settings
 

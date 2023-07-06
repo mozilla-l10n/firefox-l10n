@@ -11,18 +11,10 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Tishayamtsetfo /Emagunya
 
-certmgr-edit-ca-cert =
-    .title = Editha tinhelo tesitifiketi Thrasti iCA
-    .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = Editha tinhlelo teThrusti:
 
 certmgr-edit-cert-trust-email =
     .label = Lesitifiketi singamkhomba umuntfu losebentisa liposi.
-
-certmgr-delete-cert =
-    .title = Cisha Sitifiketi
-    .style = width: 48em; height: 24em;
 
 certmgr-cert-name =
     .label = Libito Lesitifiketi
