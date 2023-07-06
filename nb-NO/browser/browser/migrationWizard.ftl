@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Importer nettleserdata
 migration-wizard-selection-list = Velg data du vil importere.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Velg data du vil importere.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Importer valgte data
 
 migration-select-all-option-label = Merk alle
 migration-bookmarks-option-label = Bokmerker
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritter
+
 migration-logins-and-passwords-option-label = Lagrede innlogginger og passord
 migration-history-option-label = Nettleserhistorikk
 migration-extensions-option-label = Utvidelser
 migration-form-autofill-option-label = Autofylldata for skjema
 migration-payment-methods-option-label = Betalingsmetoder
+
 migration-cookies-option-label = Infokapsler
 migration-session-option-label = Vinduer og faner
 migration-otherdata-option-label = Andre data
+
 migration-passwords-from-file-progress-header = Importer passordfil
 migration-passwords-from-file-success-header = Passord ble importert
 migration-passwords-from-file = Ser etter passord i filen
 migration-passwords-new = Nye passord
 migration-passwords-updated = Eksisterende passord
+
 migration-passwords-from-file-no-valid-data = Filen inneholder ingen gyldige passorddata. Velg en annen fil.
+
 migration-passwords-from-file-picker-title = Importer passordfil
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +104,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } lagt til
        *[other] { $newEntries } lagt til
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -105,11 +115,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } oppdatert
        *[other] { $updatedEntries } oppdatert
     }
+
 migration-bookmarks-from-file-picker-title = Importer bokmerkefil
 migration-bookmarks-from-file-progress-header = Importerer bokmerker
 migration-bookmarks-from-file = Bokmerker
 migration-bookmarks-from-file-success-header = Bokmerker ble importert
+
 migration-bookmarks-from-file-no-valid-data = Filen inneholder ingen bokmerkedata. Velg en annen fil.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -117,9 +130,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-dokument
        *[other] HTML-fil
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON-fil
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -130,12 +145,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } bokmerke
        *[other] { $newEntries } bokmerker
     }
+
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer fra fil
 migration-import-from-file-button-label = Velg fil
 migration-cancel-button-label = Avbryt
 migration-done-button-label = Ferdig
 migration-continue-button-label = Fortsett
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kunne ikke finne noen programmer som inneholder bokmerke-, historikk- eller passorddata.
 migration-wizard-import-browser-no-resources = Det oppstod et problem. { -brand-short-name } finner ingen data å importere fra den nettleserprofilen.
 
@@ -146,6 +163,7 @@ migration-wizard-import-browser-no-resources = Det oppstod et problem. { -brand-
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = bokmerker
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = favoritter
@@ -163,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importerer…
 migration-wizard-progress-icon-completed =
     .aria-label = Fullført
+
 migration-safari-password-import-header = Importer passord fra Safari
 migration-safari-password-import-steps-header = Slik importerer du Safari-passord:
 migration-safari-password-import-step1 = I Safari, åpne «Safari»-menyen og gå til Innstillinger > Passord
@@ -171,6 +190,8 @@ migration-safari-password-import-step3 = Lagre passordfilen
 migration-safari-password-import-step4 = Bruk «Velg fil» nedenfor for å velge passordfilen du lagret
 migration-safari-password-import-skip-button = Hopp over
 migration-safari-password-import-select-button = Velg fil
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -181,6 +202,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } bokmerke
        *[other] { $quantity } bokmerker
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -208,6 +230,7 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } utvidelse
        *[other] { $quantity } utvidelser
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -215,6 +238,7 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } av { $quantity } utvidelser
+
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Ingen samsvarende utvidelser
@@ -231,6 +255,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } passord
        *[other] { $quantity } passord
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -241,7 +266,9 @@ migration-wizard-progress-success-history =
         [one] Fra den siste dagen
        *[other] Fra de siste { $maxAgeInDays } dagene
     }
+
 migration-wizard-progress-success-formdata = Skjemahistorikk
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -252,6 +279,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } betalingsmåte
        *[other] { $quantity } betalingsmåter
     }
+
 migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerker og nettleserhistorikk:
 migration-wizard-safari-instructions-continue = Velg «Fortsett»
 migration-wizard-safari-instructions-folder = Velg Safari-mappen i listen og velg «Åpne»
