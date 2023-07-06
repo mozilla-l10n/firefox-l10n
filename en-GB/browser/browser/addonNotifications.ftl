@@ -14,6 +14,7 @@ xpinstall-prompt-message = You are attempting to install an add-on from { $host 
 
 xpinstall-prompt-header-unknown = Allow an unknown site to install an add-on?
 xpinstall-prompt-message-unknown = You are attempting to install an add-on from an unknown site. Make sure you trust this site before continuing.
+
 xpinstall-prompt-dont-allow =
     .label = Don’t Allow
     .accesskey = D
@@ -44,6 +45,7 @@ xpinstall-disabled = Software installation is currently disabled. Click Enable a
 xpinstall-disabled-button =
     .label = Enable
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) is blocked by yo
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Your system administrator prevented this site from asking you to install software on your computer.
 addon-install-full-screen-blocked = Add-on installation is not allowed while in or before entering fullscreen mode.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } added to { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } requires new permissions
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = Remove { $name }?
 addon-removal-message = Remove { $name } from { -brand-shorter-name }?
 addon-removal-button = Remove
 addon-removal-abuse-report-checkbox = Report this extension to { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +86,7 @@ addon-downloading-and-verifying =
        *[other] Downloading and verifying { $addonCount } add-ons…
     }
 addon-download-verifying = Verifying
+
 addon-install-cancel-button =
     .label = Cancel
     .accesskey = C

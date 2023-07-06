@@ -4,6 +4,7 @@
 
 about-reader-loading = Loading…
 about-reader-load-error = Failed to load article from page
+
 about-reader-color-scheme-light = Light
     .title = Colour Scheme Light
 about-reader-color-scheme-dark = Dark
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Colour Scheme Sepia
 about-reader-color-scheme-auto = Auto
     .title = Colour Scheme Auto
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

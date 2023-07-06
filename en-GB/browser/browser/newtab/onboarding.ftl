@@ -14,13 +14,6 @@ onboarding-welcome-header = Welcome to { -brand-short-name }
 onboarding-start-browsing-button-label = Start Browsing
 onboarding-not-now-button-label = Not now
 mr1-onboarding-get-started-primary-button-label = Get started
-mr1-onboarding-welcome-header = Welcome to { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Make { -brand-short-name } my primary browser
-    .title = Sets { -brand-short-name } as default browser and pins to taskbar
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Make { -brand-short-name } my default browser
-mr1-onboarding-set-default-secondary-button-label = Not now
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,50 +38,16 @@ mr1-return-to-amo-add-extension-label = Add { $addon-name }
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Getting started: screen { $current } of { $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text =
-    Fire starts
-    here
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Furniture designer, Firefox fan
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progress: step { $current } of { $total }
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Turn off animations
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Keep { -brand-short-name } in your Dock for easy access
-       *[other] Pin { -brand-short-name } to your taskbar for easy access
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Keep in Dock
-       *[other] Pin to taskbar
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -98,44 +57,25 @@ mr1-onboarding-sign-in-button-label = Sign in
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Make { -brand-short-name } your default
-mr1-onboarding-default-subtitle = Put speed, safety, and privacy on autopilot.
-mr1-onboarding-default-primary-button-label = Make default browser
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Bring it all with you
-mr1-onboarding-import-subtitle = Import your passwords, <br/>bookmarks and more.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Import from { $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Import from previous browser
-mr1-onboarding-import-secondary-button-label = Not now
-mr2-onboarding-colorway-header = Life in colour
-mr2-onboarding-colorway-subtitle = Vibrant new colourways. Available for a limited time.
-mr2-onboarding-colorway-primary-button-label = Save colourway
-mr2-onboarding-colorway-secondary-button-label = Not now
-mr2-onboarding-colorway-label-soft = Soft
-mr2-onboarding-colorway-label-balanced = Balanced
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Bold
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Auto
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Default
+
 mr1-onboarding-theme-header = Make it your own
 mr1-onboarding-theme-subtitle = Personalise { -brand-short-name } with a theme.
-mr1-onboarding-theme-primary-button-label = Save theme
 mr1-onboarding-theme-secondary-button-label = Not now
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = System theme
+
 mr1-onboarding-theme-label-light = Light
 mr1-onboarding-theme-label-dark = Dark
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Done
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -148,61 +88,49 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Follow the operating system theme
         for buttons, menus, and windows.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Follow the operating system theme
         for buttons, menus, and windows.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Use a light theme for buttons,
         menus, and windows.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Use a light theme for buttons,
         menus, and windows.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Use a dark theme for buttons,
         menus, and windows.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Use a dark theme for buttons,
         menus, and windows.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Use a dynamic, colourful theme for buttons,
         menus, and windows.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Use a dynamic, colourful theme for buttons,
         menus, and windows.
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Use this colourway.
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Use this colourway.
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Explore { $colorwayName } colourways.
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Explore { $colorwayName } colourways.
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Explore default themes.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Explore default themes.
 
@@ -230,13 +158,18 @@ mr2-onboarding-start-browsing-button-label = Start browsing
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Choose your language
+
 mr2022-onboarding-live-language-text = { -brand-short-name } speaks your language
+
 mr2022-language-mismatch-subtitle = Thanks to our community, { -brand-short-name } is translated in over 90 languages. It looks like your system is using { $systemLanguage }, and { -brand-short-name } is using { $appLanguage }.
+
 onboarding-live-language-button-label-downloading = Downloading the language pack for { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Getting available languages…
 onboarding-live-language-installing = Installing the language pack for { $negotiatedLanguage }…
+
 mr2022-onboarding-live-language-switch-to = Switch to { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Continue in { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Cancel
 onboarding-live-language-skip-button-label = Skip
 
@@ -259,12 +192,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Keep { -brand-short-name } in Dock
        *[other] Pin { -brand-short-name } to taskbar
     }
+
 fx100-upgrade-thanks-header = 100 Thank-Yous
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = It’s our 100th release of { -brand-short-name }. Thank <em>you</em> for helping us build a better, healthier internet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = It’s our 100th release! Thanks for being a part of our community. Keep { -brand-short-name } one click away for the next 100.
+
 mr2022-onboarding-secondary-skip-button-label = Skip this step
 
 ## MR2022 New User Easy Setup screen strings
@@ -341,30 +276,37 @@ mr2022-onboarding-colorway-title = Choose the colour that inspires you
 mr2022-onboarding-colorway-subtitle = Independent voices can change culture.
 mr2022-onboarding-colorway-primary-button-label-continue = Set and continue
 mr2022-onboarding-existing-colorway-checkbox-label = Make { -firefox-home-brand-name } your colourful homepage
+
 mr2022-onboarding-colorway-label-default = Default
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Current { -brand-short-name } colours
 mr2022-onboarding-colorway-description-default = <b>Use my current { -brand-short-name } colours.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Playmaker (red)
 mr2022-onboarding-colorway-description-playmaker = <b>You are a Playmaker.</b> You create opportunities to win and help everyone around you elevate their game.
+
 mr2022-onboarding-colorway-label-expressionist = Expressionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionist (yellow)
 mr2022-onboarding-colorway-description-expressionist = <b>You are an Expressionist.</b> You see the world differently and your creations stir the emotions of others.
+
 mr2022-onboarding-colorway-label-visionary = Visionary
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionary (green)
 mr2022-onboarding-colorway-description-visionary = <b>You are a Visionary.</b> You question the status quo and move others to imagine a better future.
+
 mr2022-onboarding-colorway-label-activist = Activist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activist (blue)
 mr2022-onboarding-colorway-description-activist = <b>You are an Activist.</b> You leave the world a better place than you found it and lead others to believe.
+
 mr2022-onboarding-colorway-label-dreamer = Dreamer
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Dreamer (purple)
 mr2022-onboarding-colorway-description-dreamer = <b>You are a Dreamer.</b> You believe that fortune favors the bold and inspire others to be brave.
+
 mr2022-onboarding-colorway-label-innovator = Innovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovator (orange)
