@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Maantoro Ngoo Hello
-    .accesskey = m
-    .tooltiptext = Maantoro ngoo hello
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Maantoro Ngoo Hello
-    .accesskey = m
-    .tooltiptext = Maantoro ngoo hello ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Taƴto Ngol Maantorol
-    .accesskey = m
-    .tooltiptext = Taƴto ngol maantorol
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Taƴto Ngol Maantorol
-    .accesskey = m
-    .tooltiptext = Taƴto ngol maantorol ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Uddit Jokkol
     .accesskey = U
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = Neldu Ojoo e Iimeel…
     .accesskey = o
 
-main-context-menu-plugin-play =
-    .label = Hurmin ndee seŋre
-    .accesskey = r
-
-main-context-menu-plugin-hide =
-    .label = Suuɗ ndee seŋre
-    .accesskey = S
-
 main-context-menu-save-to-pocket =
     .label = Danndu hello e { -pocket-brand-name }
     .accesskey = k
@@ -296,10 +264,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Loowtu Kaarewol
     .accesskey = L
-
-main-context-menu-frame-bookmark =
-    .label = Maantoro Ngol Kaarewol
-    .accesskey = o
 
 main-context-menu-frame-save-as =
     .label = Danndu Kaarewol e Innde…

@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Haaytu
     .accesskey = H
+
 webext-perms-sideload-text = Tuugnorgal goɗngal e masiŋ maa aafii jokkel baawngel battinde e wanngorde maa. Ƴeewto ɗaɓɓaaɗe jamirooje ngeel jokkel cuɓo-ɗaa Softinde walla Haaytude (ngam woppude ngel na ñifi).
 webext-perms-sideload-text-no-perms = Tuugnorgal goɗngal e masiŋ maa aafii jokkel baawngel battinde e wanngorde maa. Ƴeewto ɗaɓɓaaɗe jamirooje ngeel jokkel cuɓo-ɗaa Softinde walla Haaytude (ngam woppude ngel na ñifi).
 webext-perms-sideload-enable =
@@ -30,9 +31,11 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Haaytu
     .accesskey = H
+
 webext-perms-update-accept =
     .label = Hesɗitin
     .accesskey = H
+
 webext-perms-optional-perms-list-intro = O yiɗi ko:
 webext-perms-optional-perms-allow =
     .label = Yamir…
@@ -40,10 +43,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Haɗ
     .accesskey = H
+
 webext-perms-host-description-all-urls = Yetto keɓe lowe ɗee fof
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Yetto keɓe maa wonande lowe to domen { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -55,6 +61,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Yetto keɓe maa wonande { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

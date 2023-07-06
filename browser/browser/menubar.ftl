@@ -34,9 +34,11 @@ menu-quit =
             [windows] Y
            *[other] Y
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Yaltu { -brand-shorter-name }
+
 menu-about =
     .label = Baɗte { -brand-shorter-name }
     .accesskey = B
@@ -200,10 +202,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Maantore
     .accesskey = M
-menu-bookmark-current-tab =
-    .label = Maantoro Tabbere Wonaande
-menu-bookmark-edit =
-    .label = Taƴto Ngol Maantorol
 menu-bookmarks-all-tabs =
     .label = Maantoro Tabbe Fof…
 menu-bookmarks-toolbar =

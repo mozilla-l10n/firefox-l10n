@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Peeragol Suturo)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Peeragol Suturo)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Peeragol Suturo)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Peeragol Suturo)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -71,16 +38,12 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Uddit ɗaldugal ɗaɓɓitanɗe nokkuuje
 urlbar-storage-access-anchor =
     .tooltiptext = Uddit alluwal yamiroore coftal banngogol
-urlbar-translate-notification-anchor =
-    .tooltiptext = Fir ngoo hello
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Toppito lollingol kenorɗe walla yaynirde maa e ndee lowre
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Uddit alluwal ɓatakuuje ndesgu ceŋtol
 urlbar-password-notification-anchor =
     .tooltiptext = Uddit alluwal ɓatakuuje danndugol finnde
-urlbar-translated-notification-anchor =
-    .tooltiptext = Toppito pirgol hello
 urlbar-plugins-notification-anchor =
     .tooltiptext = Toppito kuutoragol ceŋe
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -135,21 +98,18 @@ urlbar-midi-blocked =
     .tooltiptext = A daaƴii keɓgol MIDI wonande ndee lowre geese.
 urlbar-install-blocked =
     .tooltiptext = A daaƴii aafgol ɓeyditte e ndee lowre geese.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Taƴto ngol maantorol ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Maantoro ngoo hello ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Yiil Timmitere…
-page-action-remove-extension =
-    .label = Momtu timmitere
 
 ## Auto-hide Context Menu
 
@@ -165,8 +125,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ngol laawol, yiylo e:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Waylu teelte njiilaw
+
 search-one-offs-context-open-new-tab =
     .label = Yiylo e Tabbere Hesere
     .accesskey = T
@@ -176,6 +138,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Waɗtu Yiylorɗe Woowaanɗe ngam Windows Keeriiɗo
     .accesskey = P
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -211,6 +174,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Hollu taƴtorde kisnugol
     .accesskey = 5
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -230,13 +194,13 @@ identity-passive-loaded = Geɗe ɗe kisaani nana e ngoo hello (wano nate).
 identity-active-loaded = A dartinii ndeenka e ngoo hello.
 identity-weak-encryption = Ngoo hello huutortoo ko gannugol jaafngol.
 identity-insecure-login-forms = Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.
+
 identity-permissions-reload-hint = Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.
 identity-clear-site-data =
     .label = Mumtu kuukiije e keɓe lowre ndee…
 identity-connection-not-secure-security-view = A seŋaaki kisngol e ndee lowre.
 identity-connection-verified = Aɗa seŋii kisngol e ndee lowre.
 identity-ev-owner-label = Seedamfaagu bayyinaama ngam:
-identity-description-custom-root = Mozilla heftinaani dokkoowo seedamfaagu oo. Haɗum waawi ɓeydeede ummoraade e yuɓɓo maa huuɓnungo walla taw ko jiiloowo yuɓɓo ɓeydi ɗum. <label data-l10n-name="link">Ɓeydu humpito</label>
 identity-description-custom-root2 = Mozilla heftinaani dokkoowo seedamfaagu oo. Haɗum waawi ɓeydeede ummoraade e yuɓɓo maa huuɓnungo walla taw ko jiiloowo yuɓɓo ɓeydi ɗum.
 identity-remove-cert-exception =
     .label = Momtu Paltol
@@ -245,17 +209,12 @@ identity-description-insecure = Ƴeŋagol maa e ndee lowre wonaa suuriinde. Hump
 identity-description-insecure-login-forms = Humpito ceŋagol naatnu-ɗaa e ngoo hello hisaani tee ena waawi jaayeede.
 identity-description-weak-cipher-intro = Ceŋagol maa e ndee lowre huutortoo ko gannugol jaafngol tee wonaa suuriinde.
 identity-description-weak-cipher-risk = Yimɓe woɗɓe ena mbaawi yiyde humpito maa walla mbayla ngonka lowre ndee.
-identity-description-active-blocked = { -brand-short-name } faliima geɗe e ngoo hello ɗe kisaani. <label data-l10n-name="link">Ɓeydu Humpito</label>
 identity-description-active-blocked2 = { -brand-short-name } faliima geɗe e ngoo hello ɗe kisaani.
 identity-description-passive-loaded = Ceŋagol maa suuraaki tee humpito lollintaa e ndee lowre ena waawi woɗɓe njiya ɗum.
-identity-description-passive-loaded-insecure = Ndee lowre ena waɗi loowdi ndi hisaani (wano nate). <label data-l10n-name="link">Ɓeydu Humpito</label>
-identity-description-passive-loaded-mixed = Goonga { -brand-short-name } daaƴii won e loowdi, haa jooni ena waɗi loowdi e ngoo hello ndi hisaani (wano nate). <label data-l10n-name="link">Ɓeydu Humpito</label>
 identity-description-passive-loaded-insecure2 = Ndee lowre ena waɗi loowdi ndi hisaani (wano nate).
 identity-description-passive-loaded-mixed2 = Goonga { -brand-short-name } daaƴii won e loowdi, haa jooni ena waɗi loowdi e ngoo hello ndi hisaani (wano nate).
 identity-description-active-loaded = Ndee lowre ena waɗi loowdi ndi hisaani (wano dokkore) tee ceŋagol maa e mayre suuraaki.
 identity-description-active-loaded-insecure = Humpito ngo lollintaa e ngoo hello ena waawi woɗɓe njiya ɗum (wano finndeeji, ɓatakuuje, karte banke, ekn.).
-identity-learn-more =
-    .value = Ɓeydu Humpito
 identity-disable-mixed-content-blocking =
     .label = Daaƴ kisnugol e soo sahaa
     .accesskey = D
@@ -294,25 +253,27 @@ popup-all-windows-shared = Kala henorde yiyotonde e yaynirde maaɗa maa lolline.
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Ngam huutoraade sodorde F12, uddit tawo DevTools e dosol topayɓe geese.
-
 ## URL Bar
 
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Yiylo walla naatnu ñiiɓirde
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Yiiloro { $name } walla naatnu ñiiɓirde
+
 urlbar-permissions-granted =
     .tooltiptext = A hokkii ndee lowre jamirooje goɗɗe.
 urlbar-switch-to-tab =
     .value = Yah to tabbere:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Timmitere:
+
 urlbar-go-button =
     .tooltiptext = Yah to ñiiɓirde wonde e Palal Nokkuuje
 urlbar-page-action-button =
@@ -358,9 +319,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jooni ko e jaajeende yaynirde
 fullscreen-warning-no-domain = Ndee fiilannde jonni ko e njaajeendi yaynirde
+
+
 fullscreen-exit-button = Yaltu njaajeendi yaynirde (Ech)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Yaltu njaajeendi yaynirde (Ech)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -412,17 +376,13 @@ bookmarks-search =
     .label = Yiylo Maantore
 bookmarks-tools =
     .label = Kuutorɗe Maantorgol
-bookmarks-bookmark-edit-panel =
-    .label = Taƴto Ngol Maantorol
+
 bookmarks-toolbar-menu =
     .label = Palal Maantore
 bookmarks-toolbar-placeholder =
     .title = Maantorto Teme Palal Kuutorɗe
 bookmarks-toolbar-placeholder-button =
     .label = Maantorto Teme Palal Kuutorɗe
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = Maantoro tabbere wonaande
 
 ## Library Panel items
 
@@ -443,22 +403,27 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Heertin Palal Kuutorɗe…
     .accesskey = H
+
 toolbar-button-email-link =
     .label = Neldu Jokkol e Iimeel
     .tooltiptext = Neldu jokkol ngoo hello e iimeel
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Danndu Hello
     .tooltiptext = Danndu ngoo hello ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Uddit Fiilde
     .tooltiptext = Uddit fiilde ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Tabbe synckaaɗe
     .tooltiptext = Hollu tabbe ummiiɗe e kaɓirɗi goɗɗi
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -486,6 +451,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Yamir cuppitte e { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Falo cuppitte e { $uriHost }
     .accesskey = p
@@ -507,30 +473,36 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Gaawte
+
 navbar-overflow =
     .tooltiptext = Kuutorɗe goɗɗe…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Waanjito
     .tooltiptext = Muul hello… ({ $shortcut })
+
 navbar-home =
     .label = Jaɓɓorgo
     .tooltiptext = { -brand-short-name } Jaɓɓorgo
+
 navbar-library =
     .label = Deftordu
     .tooltiptext = Yiy aslol, maantore danndaaɗe, e goɗɗe
+
 navbar-search =
     .title = Yiylo
-navbar-accessibility-indicator =
-    .tooltiptext = Fannuuji Weeɓitaare Kurminama
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tabbe wanngorde
+
 tabs-toolbar-new-tab =
     .label = Tabbere Hesere
+
 tabs-toolbar-list-all-tabs =
     .label = Waɗ doggol tabbe kala
     .tooltiptext = Waɗ doggol tabbe kala
@@ -552,10 +524,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } haɗii ngoo hello hesɗitinde hoore mum.
 refresh-blocked-redirect-label = { -brand-short-name } haɗii ngoo hello ɓennitaade e jaajol to hello woɗngo.
+
 refresh-blocked-allow =
     .label = Yamir
     .accesskey = A
@@ -595,6 +571,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

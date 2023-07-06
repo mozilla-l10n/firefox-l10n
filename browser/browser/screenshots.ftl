@@ -38,3 +38,4 @@ screenshots-private-window-error-details = Ay haame e saɗeende ndee. E min ngol
 
 screenshots-generic-error-title = Woo! { -screenshots-brand-name } paanii
 screenshots-generic-error-details = Min njenanaaka ko kewi koo. Aɗa waawi ennditde walla nattoro-ɗaa yaynirde hello woɗngo?
+

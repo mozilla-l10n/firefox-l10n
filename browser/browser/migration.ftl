@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = Kenorɗe e Tabbe
 browser-data-session-label =
     .value = Kenorɗe e Tabbe
+

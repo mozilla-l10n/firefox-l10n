@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Uddit
     .accesskey = U
-synced-tabs-context-open-in-new-tab =
-    .label = Uddit e Tabbere Hesere
-    .accesskey = T
-synced-tabs-context-open-in-new-window =
-    .label = Uddit e Henorde Hesere
-    .accesskey = H
-synced-tabs-context-open-in-new-private-window =
-    .label = Uddit e Henorde Suuriinde Hesere
-    .accesskey = H
-synced-tabs-context-bookmark-single-tab =
-    .label = Maantoro Ndee Tabbere…
-    .accesskey = M
 
 ##
 

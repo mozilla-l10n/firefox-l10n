@@ -40,6 +40,17 @@ neterror-load-error-firewall = So tawii ordinateer walla laylaytol maa koko sura
 
 neterror-captive-portal = Aɗa foti seŋaade tawo e ngolɗoo laylaytol hade maa heɓde enternet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.
 neterror-file-not-found-moved = Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.
 

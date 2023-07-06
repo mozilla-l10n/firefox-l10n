@@ -27,6 +27,7 @@ webrtc-item-browser = tabbere
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Iwdi anndaaka
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -68,6 +69,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Ƴeewto Lollingol
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Ƴeewto Lollingol e "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Lollingol Kameraa e "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -76,6 +78,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Nana lollina Kameraa e tabbere { $tabCount }
            *[other] Nana lollina Kameraa e tabbe { $tabCount }
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Lollingol Mikkoroo e "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -84,6 +87,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Nana lollina Mikkoroo e tabbere { $tabCount }
            *[other] Nana lollina Mikkoroo e tabbe { $tabCount }
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Lollingol Jaaɓnirgal e "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -92,6 +96,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Nana lollina Jaaɓnirgal e tabbere { $tabCount }
            *[other] Nana lollina Jaaɓnirɗe tabbe { $tabCount }
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Lollingol Yaynirde e "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -100,6 +105,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Nana lollina Yaynirde e tabbere { $tabCount }
            *[other] Nana lollina Yaynirde e tabbe { $tabCount }
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Lollingol Henorde e "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -108,6 +114,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Nana lollina Henorde e tabbere { $tabCount }
            *[other] Nana lollina Kenorɗe e tabbe { $tabCount }
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Lollingol Kameraa e "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -153,6 +160,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Siftor ngal kuulal
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } waawaa yamirde jettagol duumingol e yaynirde maa.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } waawaa yamirde jettagol duumingol e hito tabbere maa tawi naamndaaki hol tabbe lollintee.
 webrtc-reason-for-no-permanent-allow-insecure = Ceŋagol maa e ndee lowre hisaani. Ngam reende ma, { -brand-short-name } maa yamir jettagol e ndee rogere tan.

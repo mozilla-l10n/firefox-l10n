@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ɓeydu Tage
+
 pocket-panel-saved-error-generic = Waɗii juumre tuma etagol danndude to { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tage mbaawa ɓurde alkule 25
 pocket-panel-saved-error-only-links = Ko jokke tan mbaawi danndeede
@@ -24,7 +25,6 @@ pocket-panel-saved-save-tags = Danndu
 pocket-panel-saved-saving-tags = Nana dannda…
 pocket-panel-saved-suggested-tags = Tage Basiyaaɗe
 pocket-panel-saved-tags-saved = Tage Ɓeydaama
-pocket-panel-signup-view-list = Yiy Doggol
 
 ## about:pocket-signup panel
 
