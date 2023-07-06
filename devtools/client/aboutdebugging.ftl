@@ -379,14 +379,6 @@ about-debugging-worker-inspect-action-disabled =
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Karta nie jest w pełni wczytana i nie można jej zbadać
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = Główny proces
-
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = Główny proces dla przeglądarki docelowej
-
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = Narzędzia wieloprocesowe

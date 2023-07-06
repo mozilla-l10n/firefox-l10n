@@ -5,26 +5,20 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Informacje o Glean
-about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> to biblioteka do zbierania danych używana w produktach Mozilli. Ta strona jest przeznaczona dla programistów i testerów, którzy potrzebują <a data-l10n-name="fog-debug-doc-link">skonfigurować stan debugowania i rejestrowania w Glean SDK</a>.
-about-glean-warning = Niewłaściwe użycie tego interfejsu może spowodować awarię programu { -brand-short-name }.
-tag-pings-label = Oznaczaj wszystkie wysyłane pingi tą etykietą
-log-pings-label = Czy rejestrować zawartość pinga przed wysłaniem?
-send-pings-label = Wysyłaj nazwany ping
-controls-button-label = Wyślij ustawienia
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Przeglądarka pingów debugowania { -glean-brand-name }
+
 about-glean-page-title2 = Informacje o { -glean-brand-name }
 about-glean-header = Informacje o { -glean-brand-name }
 about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> to biblioteka do zbierania danych używana w projektach { -vendor-short-name(case: "gen") }.
     Ten interfejs jest przeznaczony do ręcznego <a data-l10n-name="fog-link">testowania instrumentacji</a>
     przez programistów i testerów.
+
 about-glean-upload-enabled = Przesyłanie danych jest włączone.
 about-glean-upload-disabled = Przesyłanie danych jest wyłączone.
 about-glean-upload-enabled-local = Przesyłanie danych jest włączone tylko do wysyłania do lokalnego serwera.
@@ -34,6 +28,7 @@ about-glean-upload-fake-enabled =
     aby dane były nadal rejestrowane lokalnie.
     Uwaga: ustawienie znacznika debugowania spowoduje, że pingi będą przesyłane do
     programu <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> niezależnie od ustawień.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Istotne <a data-l10n-name="fog-prefs-and-defines-doc-link">preferencje i definicje</a> obejmują:
 # Variables:
@@ -52,6 +47,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Informacje o testowaniu
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -59,6 +55,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentacji testowania instrumentacji { -fog-brand-name }</a>
     oraz w <a data-l10n-name="glean-sdk-doc-link">dokumentacji { glean-sdk-brand-name }</a>,
     ale w skrócie do ręcznego przetestowania, czy instrumentacja działa:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (nie wysyłaj żadnych pingów)
 # An in-line text input field precedes this string.
@@ -87,6 +84,7 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Otwórz stronę programu { glean-debug-ping-viewer-brand-name }, aby zobaczyć pingi z wybranym znacznikiem</a>.
     Od naciśnięcia przycisku do pojawienia się pingu nie powinno upłynąć więcej niż kilka sekund.
     Czasami może to zająć kilka minut.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Aby przeprowadzić więcej testów <i>ad hoc</i>,
@@ -94,7 +92,10 @@ about-glean-adhoc-explanation =
     otwierając konsolę programistyczną tutaj na stronie <code>about:glean</code>
     i korzystając z API <code>testGetValue()</code>, np.
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Zastosuj ustawienia i wyślij ping
+
 about-glean-about-data-header = Informacje o danych
 about-glean-about-data-explanation =
     <a data-l10n-name="glean-dictionary-link">Słownik { -glean-brand-name }</a>

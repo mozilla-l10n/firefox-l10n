@@ -34,13 +34,6 @@ about-networking-messages-received = Odebrano wiadomości
 about-networking-bytes-sent = Wysłano bajtów
 about-networking-bytes-received = Odebrano bajtów
 about-networking-logging = Logging
-about-networking-log-tutorial = Instrukcje dla tego narzędzia można znaleźć w artykule <a data-l10n-name="logging">HTTP Logging</a>.
-about-networking-current-log-file = Plik dziennika:
-about-networking-current-log-modules = Moduły:
-about-networking-set-log-file = Ustaw jako plik dziennika
-about-networking-set-log-modules = Wybierz moduły
-about-networking-start-logging = Rozpocznij zapisywanie
-about-networking-stop-logging = Zatrzymaj zapisywanie
 about-networking-dns-lookup = Przeszukiwanie DNS
 about-networking-dns-lookup-button = Wyszukaj
 about-networking-dns-domain = Domena:

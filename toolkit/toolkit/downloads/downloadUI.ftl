@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Nie zamykaj
        *[other] Nie kończ
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Jeśli przejdziesz teraz do trybu offline, pobieranie bieżącego pliku zostanie anulowane. Czy na pewno przejść do trybu offline?
        *[other] Jeśli przejdziesz teraz do trybu offline, pobieranie wszystkich { $downloadsCount } plików zostanie anulowane. Czy na pewno przejść do trybu offline?
     }
 download-ui-dont-go-offline-button = Pozostań w trybie online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Zamknięcie wszystkich okien trybu prywatnego teraz spowoduje przerwanie pobierania 1 pliku. Czy na pewno opuścić tryb prywatny?
        *[other] Zamknięcie wszystkich okien trybu prywatnego teraz spowoduje przerwanie pobierania { $downloadsCount } plików. Czy na pewno opuścić tryb prywatny?
     }
 download-ui-dont-leave-private-browsing-button = Pozostań w trybie prywatnym
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Anuluj pobieranie 1 pliku
