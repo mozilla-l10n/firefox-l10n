@@ -22,5 +22,7 @@ state-header = Hali
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Maelezo
+
 update-installed-on = Ilisakinishwa: { $date }
+
 update-status = Hadhi: { $status }

@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = Unaweza kubainisha ni wavuti gani zinaruhus
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

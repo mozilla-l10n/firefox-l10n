@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Usiondoke
        *[other] Usitoke
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ukienda nje ya mtandao sasa, kipakuzi 1 kitakatizwa. Una uhakika unataka kwenda nje ya mtandao?
        *[other] Ukienda nje ya mtandao sasa, vipakuzi { $downloadsCount } vitakatizwa. Una uhakika unataka kwenda nje ya mtandao?
     }
 download-ui-dont-go-offline-button = Kaa Mtandaoni
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Katiza Kipakuzi 1

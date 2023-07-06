@@ -37,6 +37,8 @@ copy-raw-data-to-clipboard-label = Nakili data ghafi kwa ubao
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

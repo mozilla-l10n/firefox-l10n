@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Dirisha na Vichupo
 browser-data-session-label =
     .value = Dirisha na Vichupo
+

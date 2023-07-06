@@ -133,6 +133,8 @@ menu-view-full-screen =
     .label = Skrini Nzima
     .accesskey = S
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -157,8 +159,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Vialamisho
     .accesskey = V
-menu-bookmark-edit =
-    .label = Hariri Alamisho Hili
 menu-bookmarks-all-tabs =
     .label = Alamisha Vichupo Vyote…
 menu-bookmarks-toolbar =

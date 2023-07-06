@@ -22,6 +22,17 @@ neterror-load-error-try-again = Tovuti yaweza kuwa haipatikani kwa muda ama inas
 neterror-load-error-connection = Kama umeshindwa kupakia kurasa zozote, kagua muungano mtandao wa tarakilish yako.
 neterror-load-error-firewall = Kama tarakilishi au mtandao wako umelindwa na ngome au mbadala, hakikisha kuwa { -brand-short-name } imeruhusiwa kufikia Wavuti.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Kagua jina la faili kwa utumizi wa herufi kubwa na makosa mengine ya kuchapa.
 neterror-file-not-found-moved = Kagua kuona kama faili iliondolewa, imepewa jina lipya au imefutwa.
 

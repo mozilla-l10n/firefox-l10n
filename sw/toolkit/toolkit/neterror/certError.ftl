@@ -12,6 +12,7 @@ cert-error-trust-unknown-issuer-intro = Mtu anaweza kuwa anajaribu kuiga tovuti 
 
 connectionFailure-title = Imeshindwa kuunganisha
 deniedPortAccess-title = Anwani hii imezuiliwa
+
 fileNotFound-title = Faili haipatikani
 generic-title = Lo.
 netInterrupt-title = Muunganisho ulisitishwa

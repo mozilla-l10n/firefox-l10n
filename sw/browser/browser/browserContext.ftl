@@ -159,14 +159,6 @@ main-context-menu-video-email =
     .label = Video ya Barua pepe…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Amilisha programu jalizi hii
-    .accesskey = l
-
-main-context-menu-plugin-hide =
-    .label = Ficha programu jalizi hii
-    .accesskey = F
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -196,10 +188,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Pakia tena Fremu
     .accesskey = P
-
-main-context-menu-frame-bookmark =
-    .label = Alamisha Fremu Hii
-    .accesskey = i
 
 main-context-menu-frame-save-as =
     .label = Hifadhi Fremu Kama…

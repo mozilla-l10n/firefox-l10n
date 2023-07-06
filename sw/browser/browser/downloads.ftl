@@ -74,6 +74,7 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = Ondoa Vipakuzi
     .tooltiptext = Ufutaji umekamilisha, ukaghairi na kushinwa vipakuzi
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
