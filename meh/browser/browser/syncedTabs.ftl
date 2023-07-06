@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Síne
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Síne nuu iin pestaña jíía
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Síne nuu iin ventana jíía
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = Síne iin ventana yu´u
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Tee página ya´a nuu a ta´an ini noo´o...
-    .accesskey = A
 
 ##
 

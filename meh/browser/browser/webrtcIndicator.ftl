@@ -30,6 +30,7 @@ webrtc-item-browser = sukua
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+
 webrtc-sharing-screen = Xituvinu nu ntaka pantalla noo'o.
 webrtc-stop-sharing-button = Nkuvi kua'a
 webrtc-microphone-unmuted =
@@ -87,3 +88,4 @@ webrtc-action-block =
 ##
 
 webrtc-remember-allow-checkbox = ku̱na̱´an nuu'u nkajini ya´a
+

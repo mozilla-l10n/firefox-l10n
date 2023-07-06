@@ -167,6 +167,8 @@ menu-view-full-screen =
     .label = Pantalla ka'nu
     .accesskey = P
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -196,16 +198,11 @@ menu-history-undo-menu =
 menu-history-undo-window-menu =
     .label = Ventanas skuata nnakasɨ
 
-menu-history-reopen-all-tabs = Nate kuaiyo da sukua
-menu-history-reopen-all-windows = Na síne kuaíyo da ventana
-
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = A ta´a ini noo´o
     .accesskey = A
-menu-bookmark-edit =
-    .label = Sama a ta´an ini noo´o ya´a
 menu-bookmarks-all-tabs =
     .label = Tee da pestañas nune...
 menu-bookmarks-toolbar =

@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Nuu kajie´e sesión ji contraseñas
-login-filter =
-    .placeholder = Nánuku nuu kajie´e sesión
-create-login-button = Sá´á jíía iin kajie´e sesión
+
 about-logins-login-filter =
     .placeholder = Nánuku nuu kajieé sesión
     .key = F
+
 create-new-login-button =
     .title = Sá´á jíía nuu kajie´e sesión
+
 fxaccounts-sign-in-text = Ni´i da contraseñas nuu inka ka̱a̱
 fxaccounts-sign-in-sync-button = Kajie'e sesión sa kuvi sa sincronizar
 fxaccounts-avatar-button =
@@ -98,9 +98,6 @@ login-item-copied-password-button-text = Ntɨɨn
 login-item-save-changes-button = Chuva´a nsama
 login-item-save-new-button = Chuva´a
 login-item-cancel-button = Nkuvi-ka
-login-item-time-changed = Nuu nɨ'ɨ nsama: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Nsá'á: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Nuu nɨ'ɨ a nsá´á: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -121,16 +118,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Sa kuvi natee nuu kajie'e s
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = Natee nuu kajie'e sesión nchuva'a
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Sa kuvi kune'ya contraseña, chu'un credenciales noo'o nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = Xituvi contraseña nchuva'a
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Sa kuvi tɨɨ contraseña, chu'un credenciales noo'o nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Tɨɨ contraseña nchuva'a
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Sa kuvi kuiso nuu kajie'e sesión, chu'un credenciales nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to export a password in about:logins
@@ -149,6 +149,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
+
 about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 about-logins-confirm-remove-dialog-confirm-button = Xita
@@ -161,15 +162,18 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Xita
        *[other] Xita kuaiyo
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Kuvi, xina nu kajie´e sesión ya´a
        *[other] Kuvi, xina nu kajie´e sesión ya´a
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] ¿Xina nu kajie´e sesión { $count }?
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ¿Xina { $count } nu kajie´e sesión ntaka da ka̱a̱?
@@ -180,8 +184,10 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = Kuiso da nuu kajie'e sesión ji contraseñas
 about-logins-confirm-export-dialog-message = Da contraseñas noo´o nchuva´a kua tu'un (kua,  BadP@ssw0rd) je de íyo neva síne archvio kuvi kutuvi.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+
 about-logins-alert-import-title = Nnɨ'ɨ nasia´a
 about-logins-alert-import-message = Kune'ya resumen da a nnasia'a
+
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
 confirm-discard-changes-dialog-message = Kuaiyo da nsama je ntu nchuva´a naa.
 confirm-discard-changes-dialog-confirm-button = Xita
@@ -194,7 +200,6 @@ about-logins-breach-alert-date = Filtración nkajie'e { DATETIME($date, day: "nu
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Kɨ'ɨ { $hostname }
-about-logins-breach-alert-learn-more-link = Kuni kueka
 
 ## Vulnerable Password notification
 
@@ -212,6 +217,7 @@ about-logins-vulnerable-alert-learn-more-link = Ka´vi kue´eka
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = A íyo iin nkivɨ nuu { $loginTitle } ji sivɨ ñivɨ. <a data-l10n-name="duplicate-link"> ¿Kuvinu kɨ ´ɨnɨ yukuan?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Nkene iin error saa kuvinu chuva´anu contraseña ya´a.
 
@@ -260,17 +266,20 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Ntee a jíía nuu kajie'e sesión:</span><span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Ntee a jíía nuu kajie´e sesión:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Ntee a jíía nuu kajie´e sesión: </span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
        *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
 about-logins-import-dialog-done = Nsá´á
+
 about-logins-import-dialog-error-title = Error de importación
 about-logins-import-dialog-error-file-format-title = Tixin ji formato archivo
 about-logins-import-dialog-error-file-permission-title = Ntu nkuvi ka'vi archivo
@@ -279,7 +288,9 @@ about-logins-import-dialog-error-unable-to-read-title = Ntu kuvi ka'vi archivo
 about-logins-import-dialog-error-unable-to-read-description = Kune'ya de nkajinu iin archivo CSV a xíín TSV.
 about-logins-import-dialog-error-learn-more = Ka´vi kue´eka
 about-logins-import-dialog-error-cancel = Nkuvi
+
 about-logins-import-report-title = Resumen de importación
+
 #
 # Variables:
 #  $number (number) - The number of the row

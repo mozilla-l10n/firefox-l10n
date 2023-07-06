@@ -27,8 +27,6 @@ policy-DisableForgetButton = Nkua´a kivɨ nuu botón nnaku´u.
 
 policy-DisableFormHistory = Nnaku´u nnánuku je historial formularios.
 
-policy-FirefoxHome = Ke´i Firefox Home.
-
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 ##

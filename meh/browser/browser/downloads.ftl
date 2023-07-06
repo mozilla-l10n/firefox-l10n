@@ -175,3 +175,5 @@ downloads-list-empty =
 downloads-panel-empty =
     .value = Ntu nxinuun ni'i nuu sesión ya'a.
 
+## Download errors
+

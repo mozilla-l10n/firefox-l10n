@@ -49,6 +49,10 @@ onboarding-start-browsing-button-label = Kajie´e nánuku
 
 onboarding-not-now-button-label = Nkuvi ntañu´u
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Kajie´e
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Va´a, nchu'unu { -brand-short-name }
@@ -56,14 +60,9 @@ return-to-amo-add-extension-label = Tee extensión
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
-## Multistage onboarding strings (about:welcome pages)
+##  Variables: $addon-name (String) - Name of the add-on to be installed
 
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Da pasos xinañu'u: pantalla { $current } ji { $total }
+## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
@@ -77,13 +76,6 @@ onboarding-welcome-steps-indicator =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Kajie´e
-
-mr1-onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
-
-mr1-onboarding-set-default-secondary-button-label = Nkuvi ntañu´u
 mr1-onboarding-sign-in-button-label = Kajie´e sesión
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -92,9 +84,6 @@ mr1-onboarding-sign-in-button-label = Kajie´e sesión
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-secondary-button-label = Nkuvi ntañu´u
-
-mr1-onboarding-theme-primary-button-label = Chuva'a tema
 mr1-onboarding-theme-secondary-button-label = Nkuvi ntañu´u
 
 mr1-onboarding-theme-label-light = Aja
@@ -133,6 +122,8 @@ mr1-onboarding-theme-label-dark = Teku tun
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -158,4 +149,11 @@ mr1-onboarding-theme-label-dark = Teku tun
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

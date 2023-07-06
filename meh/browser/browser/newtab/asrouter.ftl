@@ -149,12 +149,6 @@ cfr-doorhanger-doh-secondary-button = Chiyu´u
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-header = Aislamiento del sitio
-cfr-doorhanger-fission-primary-button = OK, vatu!
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Ka´vi kue´eka
-    .accesskey = L
-
 ## What's new: Cookies message
 
 ## What's new: Media controls message
@@ -200,4 +194,16 @@ cfr-doorhanger-fission-secondary-button = Ka´vi kue´eka
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

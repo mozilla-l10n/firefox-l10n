@@ -13,3 +13,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Nánuku tuku
     .accesskey = R
+

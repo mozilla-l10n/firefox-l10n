@@ -321,14 +321,6 @@ about-debugging-worker-push-service =
 about-debugging-worker-inspect-action-disabled =
     .title = La inspección de Service Worker ntañu'u íyo deshabilitada para multiproceso { -brand-shorter-name }
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = Proceso principal
-
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = Proceso principal del navegador de destino
-
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = Caja de herramientas multiproceso

@@ -20,6 +20,7 @@ about-private-browsing-handoff-text = Nánuku ji { $engine } a xíín chu'un iin
 about-private-browsing-handoff-text-no-engine = Nánuku a xíín chu´un iin nuu
 about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu´u
 about-private-browsing-learn-more-link = Ka´vi kue´eka
+
 about-private-browsing-focus-promo-cta = Xinuun { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -36,8 +37,11 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasɨ
+
 about-private-browsing-promo-close-button =
     .title = Nakasɨ
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+## Strings used in a promotion message for cookie banner reduction
 

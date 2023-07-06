@@ -8,17 +8,9 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Nkene iin error ji conexión { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Código de error: { $error }
-
 ssl-error-post-warning = Ntu nakuni error SSL.
 ssl-error-unsafe-negotiation = Peer intentó un handshake al viejo estilo (potencialmente vulnerable).
+
 sec-error-invalid-time = Tu'un fecha/hora ntu tuvi va'a formato.
 sec-error-bad-password = Contraseña seguridad nchu´un ntu vatu.
 sec-error-retry-password = Contraseña jíía nchu´un ntu vatu. Chu´uma íchika.
@@ -29,10 +21,8 @@ sec-error-ca-cert-invalid = Certificado emisor ntu vatu.
 sec-error-path-len-constraint-invalid = La restricción a la longitud de la ruta del certificado ntu vatu.
 sec-error-cert-usages-invalid = El campo de usos del certificado no es válido.
 sec-internal-only = **Módulo EXCLUSIVAMENTE interno**
-xp-sec-fortezza-bad-pin = PIN ntu vatu
 sec-error-krl-invalid = A jíía KRL ntu kumi iin formato vatu.
 sec-error-key-nickname-collision = A íyo iin clave ji inu apodo.
-xp-java-delete-privilege-error = Ntu nkuvi xina privilegio.
 sec-error-bad-export-algorithm = Algoritmo jiniñu´u ntu nkuvi ni´i.
 sec-error-user-cancelled = Usuario nkuaxin nkuvi.
 sec-error-message-send-aborted = Ntu nchu´un íchi mensaje
@@ -47,3 +37,7 @@ sec-error-extra-input = Mensaje codificado ji DER kumi datos ntu ni´i.
 sec-error-crl-already-exists = A teku CRL.
 sec-error-not-initialized = NSS ntu íyo inicializado.
 sec-error-unknown-pkcs11-error = Error PKCS #11ntu nakuni.
+
+xp-java-delete-privilege-error = Ntu nkuvi xina privilegio.
+
+xp-sec-fortezza-bad-pin = PIN ntu vatu

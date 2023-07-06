@@ -7,8 +7,10 @@
 
 extension-firefox-compact-light-name = Kuvi
 extension-firefox-compact-light-description = Un tema con una paleta teku niji.
+
 extension-firefox-compact-dark-name = Teku tun
 extension-firefox-compact-dark-description = Un tema con una paleta teku tun.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Ni'i da teku vi nu da botones, menús ji ventanas.
 

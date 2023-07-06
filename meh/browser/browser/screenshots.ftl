@@ -25,3 +25,4 @@ screenshots-request-error-title = Fuera de orden.
 screenshots-request-error-details = ¡Nei koo ini-nu! Ntu nkuvi chuva'a captura noo'o. Nakei'i tuku kunuka.
 
 screenshots-generic-error-title = ¡Ey! { -screenshots-brand-name } jiko xini.
+

@@ -84,3 +84,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Nkuvi-ka
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Chu´un íchi reporte
+
+# Cookie Banner Handling
+

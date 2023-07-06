@@ -152,3 +152,4 @@ browser-data-session-checkbox =
     .label = Ventanas ji sukua
 browser-data-session-label =
     .value = Ventanas ji pestañas
+

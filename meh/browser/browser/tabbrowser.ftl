@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Sukua jíía
+
 tabbrowser-menuitem-close-tab =
     .label = Nakasɨ tutu ya´a
 tabbrowser-menuitem-close =
     .label = Nakasɨ
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -44,4 +46,6 @@ tabbrowser-customizemode-tab-title = Sá´á vii { -brand-short-name }
 
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

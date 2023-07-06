@@ -9,6 +9,9 @@
 ## Colorway names and descriptions
 
 visionary-colorway-name = Visionario
+
 activist-colorway-name = Activista
+
 dreamer-colorway-name = Soñador
+
 innovator-colorway-name = Innovador
