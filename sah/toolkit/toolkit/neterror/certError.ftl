@@ -7,6 +7,7 @@
 
 connectionFailure-title = Ситимнэһэр кыаллыбата
 deniedPortAccess-title = Бу аадырыс бобуллубут
+
 fileNotFound-title = Билэ көстүбэтэ
 generic-title = Бабат-татай.
 netInterrupt-title = Ситим быстан хаалла

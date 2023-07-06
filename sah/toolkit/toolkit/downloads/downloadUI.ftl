@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Бүтэримэ
        *[other] Тахсыма
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Холбоммокко үлэлиир буоллаххына биир хачайдааһын тохтотуллуо. Кырдьык инньэ гынаҕын дуо?
        *[other] Холбоммокко үлэлиир буоллаххына { $downloadsCount } хачайдааһын тохтотуллуо. Кырдьык инньэ гынаҕын дуо?
     }
 download-ui-dont-go-offline-button = Холбонууну хааллар
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Хачайдааһыны тохтот

@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = Ханнык ситим-сир эбииск
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

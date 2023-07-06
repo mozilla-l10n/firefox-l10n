@@ -29,3 +29,5 @@ download-cert-view-cert =
 
 ## Protected Auth dialog
 
+## Protected authentication alert
+

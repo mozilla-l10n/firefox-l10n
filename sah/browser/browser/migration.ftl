@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Түннүктэр уонна кыбытыктар
 browser-data-session-label =
     .value = Түннүктэр уонна кыбытыктар
+

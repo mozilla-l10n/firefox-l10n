@@ -135,6 +135,8 @@ menu-view-full-screen =
     .label = Толору экраан
     .accesskey = Т
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -159,8 +161,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Бэлиэлэр
     .accesskey = Б
-menu-bookmark-edit =
-    .label = Бэлиэни уларытыы
 menu-bookmarks-all-tabs =
     .label = Кыбытыктары барыларын бэлиэтээ...
 menu-bookmarks-toolbar =

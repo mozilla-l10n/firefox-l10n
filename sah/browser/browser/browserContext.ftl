@@ -159,14 +159,6 @@ main-context-menu-video-email =
     .label = Email видео…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Бу плагины холобоо
-    .accesskey = а
-
-main-context-menu-plugin-hide =
-    .label = Бу плагины кистээ
-    .accesskey = г
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -196,10 +188,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Фреймы саҥарт
     .accesskey = Ф
-
-main-context-menu-frame-bookmark =
-    .label = Бу сирэйи бэлиэ-кыбытыктарга эп
-    .accesskey = с
 
 main-context-menu-frame-save-as =
     .label = Фрейми маннык бигэргэт...

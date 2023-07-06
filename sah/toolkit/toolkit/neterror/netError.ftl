@@ -22,6 +22,17 @@ neterror-load-error-try-again = Ситим-сир быстах кэмҥэ ара
 neterror-load-error-connection = Биир да сирэй хачайдаммат буоллаҕына интэриниэккин тургут.
 neterror-load-error-firewall = Көмпүүтэриҥ эбэтэр ситимиҥ көмүскүүр экрааннаах эбэтэр прокси нөҥүө холбонор буоллаҕына  { -brand-short-name } интэриниэккэ тахсара көҥүллэмитин көр.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Билэ аата сөпкө суруллубутун, регистрын, атын алҕастар баалларын көр.
 neterror-file-not-found-moved = Баҕар билэ аата уларыйбыта, эбэтэр билэ сотуллубута дуу, көһөрүллүбүтэ дуу буолуо.
 

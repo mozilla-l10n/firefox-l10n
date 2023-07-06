@@ -22,5 +22,7 @@ state-header = Туруга
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Сиһилии
+
 update-installed-on = Туруоруллубут: { $date }
+
 update-status = Стаатуһа: { $status }

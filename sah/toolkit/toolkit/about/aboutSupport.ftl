@@ -37,6 +37,8 @@ copy-raw-data-to-clipboard-label = Таҥастамматах дааннайда
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 
