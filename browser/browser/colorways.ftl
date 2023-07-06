@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Oberoende röster
-colorway-collection-independent-voices-description = Färg kan förändra kultur. De senaste färgerna hyllar röster som gör världen till en bättre plats.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Färger som förändrar kultur.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Spelare

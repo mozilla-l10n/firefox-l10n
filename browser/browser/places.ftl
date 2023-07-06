@@ -23,8 +23,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Öppna i nytt privat fönster
     .accesskey = p
+
 places-empty-bookmarks-folder =
     .label = (Tom)
+
 places-add-bookmark =
     .label = Lägg till bokmärke…
     .accesskey = b
@@ -37,6 +39,7 @@ places-add-folder =
 places-add-separator =
     .label = Lägg till avskiljare
     .accesskey = a
+
 places-view =
     .label = Visa
     .accesskey = V
@@ -55,12 +58,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Efter datum och plats
     .accesskey = t
+
 places-history-search =
     .placeholder = Sökhistorik
 places-history =
     .aria-label = Historik
 places-bookmarks-search =
     .placeholder = Sök bokmärken
+
 places-delete-domain-data =
     .label = Ta bort all historik för webbplatsen
     .accesskey = b
@@ -94,18 +99,22 @@ places-delete-page =
            *[other] Ta bort sidor
         }
     .accesskey = T
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hanterade bokmärken
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Undermapp
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Andra bokmärken
+
 places-show-in-folder =
     .label = Visa i mapp
     .accesskey = m
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -116,6 +125,7 @@ places-delete-bookmark =
            *[other] Ta bort bokmärken
         }
     .accesskey = b
+
 # Variables:
 #   $count (number) - The number of bookmarks being added.
 places-create-bookmark =
@@ -125,98 +135,125 @@ places-create-bookmark =
            *[other] Bokmärk sidor…
         }
     .accesskey = B
+
 places-untag-bookmark =
     .label = Ta bort tagg
     .accesskey = T
+
 places-manage-bookmarks =
     .label = Hantera bokmärken
     .accesskey = H
+
 places-forget-about-this-site-confirmation-title = Glöm bort den här webbplatsen
-# Variables:
-# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-message = Denna åtgärd kommer att ta bort all data som är relaterade till { $hostOrBaseDomain } inklusive historik, lösenord, kakor, cache och innehållspreferenser. Är du säker på att du vill fortsätta?
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = Den här åtgärden tar bort data relaterade till { $hostOrBaseDomain } inklusive historik, kakor, cache och innehållsinställningar. Relaterade bokmärken och lösenord kommer inte att tas bort. Är du säker på att du vill fortsätta?
+
 places-forget-about-this-site-forget = Glöm
-places-library =
-    .title = Bibliotek
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = Bibliotek
+
 places-organize-button =
     .label = Ordna
     .tooltiptext = Ordna dina bokmärken
     .accesskey = O
+
 places-organize-button-mac =
     .label = Ordna
     .tooltiptext = Ordna dina bokmärken
+
 places-file-close =
     .label = Stäng
     .accesskey = ä
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = Vyer
     .tooltiptext = Byt vy
     .accesskey = V
+
 places-view-button-mac =
     .label = Vyer
     .tooltiptext = Byt vy
+
 places-view-menu-columns =
     .label = Visa kolumner
     .accesskey = k
+
 places-view-menu-sort =
     .label = Sortera
     .accesskey = S
+
 places-view-sort-unsorted =
     .label = Osorterade
     .accesskey = O
+
 places-view-sort-ascending =
     .label = Ordna A > Ö
     .accesskey = A
+
 places-view-sort-descending =
     .label = Ordna Ö > A
     .accesskey = Ö
+
 places-maintenance-button =
     .label = Importera och säkerhetskopiera
     .tooltiptext = Importera och säkerhetskopiera bokmärken
     .accesskey = I
+
 places-maintenance-button-mac =
     .label = Importera och säkerhetskopiera
     .tooltiptext = Importera och säkerhetskopiera bokmärken
+
 places-cmd-backup =
     .label = Säkerhetskopiera…
     .accesskey = S
+
 places-cmd-restore =
     .label = Återställ
     .accesskey = Å
+
 places-cmd-restore-from-file =
     .label = Välj fil…
     .accesskey = V
+
 places-import-bookmarks-from-html =
     .label = Importera bokmärken från HTML…
     .accesskey = I
+
 places-export-bookmarks-to-html =
     .label = Exportera bokmärken till HTML…
     .accesskey = E
+
 places-import-other-browser =
     .label = Importera data från annan webbläsare…
     .accesskey = d
+
 places-view-sort-col-name =
     .label = Namn
+
 places-view-sort-col-tags =
     .label = Etiketter
+
 places-view-sort-col-url =
     .label = Adress
+
 places-view-sort-col-most-recent-visit =
     .label = Senast besökt
+
 places-view-sort-col-visit-count =
     .label = Antal besök
+
 places-view-sort-col-date-added =
     .label = Ursprungsdatum
+
 places-view-sort-col-last-modified =
     .label = Senast ändrad
+
 places-view-sortby-name =
     .label = Sortera efter namn
     .accesskey = N
@@ -238,13 +275,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = Sortera efter etiketter
     .accesskey = e
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = Gå bakåt
+
 places-forward-button =
     .tooltiptext = Gå framåt
+
 places-details-pane-select-an-item-description = Markera en post för att visa och redigera dess egenskaper
+
 places-details-pane-no-items =
     .value = Inga poster
 # Variables:

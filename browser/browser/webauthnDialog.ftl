@@ -4,14 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Fel PIN-kod! Ange rätt PIN-kod för din enhet.
-        [one] Fel PIN-kod! Ange rätt PIN-kod för din enhet. Du har { $retriesLeft } försök kvar.
-       *[other] Fel PIN-kod! Ange rätt PIN-kod för din enhet. Du har { $retriesLeft } försök kvar.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Felaktig PIN-kod. Du har { $retriesLeft } försök kvar innan du permanent förlorar åtkomsten till användaruppgifterna på den här enheten.
@@ -19,6 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Felaktig PIN-kod. Försök igen.
 webauthn-pin-required-prompt = Ange PIN-koden för din enhet.
+
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
