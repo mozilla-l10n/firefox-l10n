@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requi
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Reset Primary Password
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Reset Primary Password
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Reset Primary Password
 pippki-reset-password-confirmation-message = Your Primary Password has been reset.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Downloading Certificate
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Downloading Certificate
@@ -82,7 +74,5 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Protected Token Authentication
-protected-auth-msg = Please authenticate to the token. Authentication method depends on the type of your token.
-protected-auth-token = Token:
+## Protected authentication alert
+
