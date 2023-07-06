@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Assistente de importação
+
 import-from =
     { PLATFORM() ->
         [windows] Importar opções, favoritos, histórico, senhas e outros dados do:
        *[other] Importar preferências, favoritos, histórico, senhas e outros dados do:
     }
+
 import-from-bookmarks = Importar favoritos do:
 import-from-ie =
     .label = Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = Não foi encontrado nenhum programa com informações de favoritos, histórico ou senhas.
+
 import-source-page-title = Importar dados e configurações
 import-items-page-title = Itens a importar
+
 import-items-description = Selecione que itens importar:
+
 import-permissions-page-title = Dê permissões ao { -brand-short-name }
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = O macOS exige que você explicitamente dê permissão ao { -brand-short-name } para acessar os favoritos do Safari. Clique em “Avançar” e selecione o arquivo “Bookmarks.plist” no painel de abrir arquivo que aparece.
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = O macOS exige que você explicitamente dê permissão ao { -brand-short-name } para acessar dados do Safari. Clique em “Avançar”, selecione a pasta “Safari“ no diálogo do Finder que aparece e clique em “Abrir”.
+
 import-migrating-page-title = Importando…
+
 import-migrating-description = Estes itens estão sendo importados…
+
 import-select-profile-page-title = Selecionar perfil
+
 import-select-profile-description = Estes perfis estão disponíveis para importação:
+
 import-done-page-title = Importação concluída
+
 import-done-description = Estes itens foram importados com êxito:
+
 import-close-source-browser = Certifique-se de que o navegador selecionado esteja fechado antes de continuar.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Lista de leitura (do Safari)
 imported-edge-reading-list = Lista de leitura (do Edge)
 
@@ -101,6 +115,7 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,10 +128,12 @@ browser-data-history-label =
             [firefox] Histórico de navegação e favoritos
            *[other] Histórico de navegação
         }
+
 browser-data-formdata-checkbox =
     .label = Histórico de formulários salvo
 browser-data-formdata-label =
     .value = Histórico de formulários salvo
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,6 +142,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Contas e senhas salvas
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -139,14 +157,17 @@ browser-data-bookmarks-label =
             [edge] Favoritos
            *[other] Favoritos
         }
+
 browser-data-otherdata-checkbox =
     .label = Outros dados
 browser-data-otherdata-label =
     .label = Outros dados
+
 browser-data-session-checkbox =
     .label = Janelas e abas
 browser-data-session-label =
     .value = Janelas e abas
+
 browser-data-payment-methods-checkbox =
     .label = Métodos de pagamento
 browser-data-payment-methods-label =

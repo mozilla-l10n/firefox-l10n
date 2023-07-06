@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     Você recebeu um certificado inválido. Entre em contato com o administrador do servidor e forneça as seguintes informações:
     
     Seu certificado contém o mesmo número de série que o de outro certificado emitido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
+
 ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto nível.
 ssl-error-us-only-server = Não foi possível comunicar com segurança. O sistema remoto necessita de criptografia de alto nível que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: nenhum algoritmo de criptografia comum.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Nenhum algoritmo de assinatura com 
 ssl-error-unsupported-signature-algorithm = O sistema remoto usou uma combinação não suportada de algoritmo de assinatura e hash.
 ssl-error-missing-extended-master-secret = O sistema remoto tentou retomar sem uma extensão extended_master_secret correta.
 ssl-error-unexpected-extended-master-secret = O sistema remoto tentou retomar com uma extensão extended_master_secret não esperada.
+
 sec-error-io = Ocorreu um erro de I/O durante autorização de segurança.
 sec-error-library-failure = falha na biblioteca de segurança.
 sec-error-bad-data = biblioteca de segurança: recebidos dados incorretos.
@@ -317,6 +319,7 @@ sec-error-locked-password = A senha está bloqueada.
 sec-error-unknown-pkcs11-error = Erro PKCS #11 desconhecido.
 sec-error-bad-crl-dp-url = URL inválido ou não suportado no nome do ponto de distribuição da CRL.
 sec-error-cert-signature-algorithm-disabled = O certificado foi assinado usando um algoritmo de assinatura que está desativado porque não é seguro.
+
 mozilla-pkix-error-key-pinning-failure = O servidor usa fixação de chaves (HPKP), mas nenhuma cadeia de certificados confiáveis pôde ser montada correspondendo ao conjunto de fixação de chaves. Violações de fixação de chaves não podem ser contornadas.
 mozilla-pkix-error-ca-cert-used-as-end-entity = O servidor usa um certificado com uma extensão de restrições básica identificado-o como uma autoridade certificadora. Para um certificado emitido corretamente, este não deveria ser o caso.
 mozilla-pkix-error-inadequate-key-size = O servidor apresentou um certificado com um tamanho de chave que é pequeno demais para estabelecer uma conexão segura.
@@ -331,9 +334,11 @@ mozilla-pkix-error-invalid-integer-encoding = O servidor apresentou um certifica
 mozilla-pkix-error-empty-issuer-name = O servidor apresentou um certificado faltando o nome de emissor.
 mozilla-pkix-error-additional-policy-constraint-failed = Uma restrição adicional de diretiva falhou ao validar este certificado.
 mozilla-pkix-error-self-signed-cert = O certificado não é considerado confiável porque é autoassinado.
+
 xp-java-remove-principal-error = Não foi possível remover o principal
 xp-java-delete-privilege-error = Não foi possível excluir o direito
 xp-java-cert-not-exists-error = Este principal não tem um certificado
+
 xp-sec-fortezza-bad-card = O cartão Fortezza não foi iniciado corretamente. Remova e devolva ao emissor.
 xp-sec-fortezza-no-card = Nenhum cartão Fortezza encontrado
 xp-sec-fortezza-none-selected = Nenhum cartão Fortezza selecionado
