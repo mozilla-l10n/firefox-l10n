@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = { -relay-brand-name }를 사용하려면 { -fx
 firefox-relay-get-unlimited-masks =
     .label = 마스크 관리
     .accesskey = M
-firefox-relay-opt-in-title = 이메일 주소 보호
-firefox-relay-opt-in-subtitle = { -relay-brand-name } 추가
-firefox-relay-generate-mask-title = 이메일 주소 보호
-firefox-relay-generate-mask-subtitle = { -relay-brand-short-name } 마스크 생성
-firefox-relay-opt-in-confirmation-enable =
-    .label = 계속
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = 이메일 주소 보호:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

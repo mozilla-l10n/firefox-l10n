@@ -4,6 +4,7 @@
 
 about-reader-loading = 로드 중…
 about-reader-load-error = 페이지에서 글을 읽어오지 못했습니다
+
 about-reader-color-scheme-light = 밝게
     .title = 밝은 색 구성표
 about-reader-color-scheme-dark = 어둡게
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = 세피아
     .title = 세피아 색 구성표
 about-reader-color-scheme-auto = 자동
     .title = 자동 색 구성표
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

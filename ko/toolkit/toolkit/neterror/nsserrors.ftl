@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     유효하지 않은 인증서를 받았습니다. 서버 관리자등에게 연락해서 다음 정보를 제공하세요:
     
     인증서에 인증 기관에서 발급한 다른 인증서와 같은 일련 번호가 있습니다. 고유한 일련 번호를 가진 새 인증서를 받으세요.
+
 ssl-error-export-only-server = 안전하게 통신을 할 수 없습니다. 피어가 높은 등급의 암호화를 지원하지 않습니다.
 ssl-error-us-only-server = 안전하게 통신을 할 수 없습니다. 피어가 지원하지 않는 높은 등급의 암호화를 요청합니다.
 ssl-error-no-cypher-overlap = 피어와 안전하게 통신을 할 수 없음: 일반 암호화 알고리듬이 없습니다.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = 지원되지 않는 TLS 서명 알�
 ssl-error-unsupported-signature-algorithm = 피어가 지원되지 않는 서명과 해시 알고리즘 조합을 사용했습니다.
 ssl-error-missing-extended-master-secret = 피어가 정확한 extended_master_secret 확장 없이 계속하기를 시도했습니다.
 ssl-error-unexpected-extended-master-secret = 피어가 예기치 않은 extended_master_secret 확장으로 계속하기를 시도했습니다.
+
 sec-error-io = 보안 권한 부여 중에 I/O 오류가 발생했습니다.
 sec-error-library-failure = 보안 라이브러리 고장입니다.
 sec-error-bad-data = 보안 라이브러리: 손상된 데이터를 받았습니다.
@@ -317,6 +319,7 @@ sec-error-locked-password = 비밀번호가 잠겼습니다.
 sec-error-unknown-pkcs11-error = 알 수 없는 PKCS #11 오류입니다.
 sec-error-bad-crl-dp-url = 유효하지 않거나 지원하지 않는 URL이 CRL 배포 내용에 있습니다.
 sec-error-cert-signature-algorithm-disabled = 비활성화된 안전하지 않은 알고리즘을 사용하여 서명되었습니다.
+
 mozilla-pkix-error-key-pinning-failure = 서버가 키 피닝(HPKP)을 사용하고 있지만 핀셋과 일치하는 신뢰할 수 있는 인증서 체인을 만들 수 없었습니다. 키 피닝 위반은 뮤효화 할 수 없습니다.
 mozilla-pkix-error-ca-cert-used-as-end-entity = 서버가 인증서 권한으로 기본 제약 확장만 가지고 있는 인증서를 사용하고 있스니다. 정상적으로 발급된 인증서의 경우에는 이렇지 않습니다.
 mozilla-pkix-error-inadequate-key-size = 서버가 보안 연결을 만들기에 너무 작은 크기의 키를 가지고 있는 인증서를 보내왔습니다.
@@ -331,9 +334,11 @@ mozilla-pkix-error-invalid-integer-encoding = 서버가 유효하지 않은 정�
 mozilla-pkix-error-empty-issuer-name = 서버가 구별 이름으로 발급자가 비어있는 인증서를 사용했습니다.
 mozilla-pkix-error-additional-policy-constraint-failed = 이 인증서 검증이 추가적인 제한 정책에서 실패했습니다.
 mozilla-pkix-error-self-signed-cert = 자기 스스로 서명하였으므로 인증서를 신뢰할 수 없습니다.
+
 xp-java-remove-principal-error = 대표를 제거할 수 없음
 xp-java-delete-privilege-error = 특별 권한을 삭제할 수 없음
 xp-java-cert-not-exists-error = 이 대표는 인증서를 가지고 있지 않음
+
 xp-sec-fortezza-bad-card = Fortezza 카드가 올바르게 초기화되지 않았습니다.  장치로부터 제거한 다음 발급자에게 도움을 요청하세요.
 xp-sec-fortezza-no-card = 발견된 Fortezza 카드 없음
 xp-sec-fortezza-none-selected = 선택한 Fortezza 카드 없음

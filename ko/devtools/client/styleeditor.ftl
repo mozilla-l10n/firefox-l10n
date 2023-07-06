@@ -20,7 +20,6 @@ styleeditor-save-button = 저장
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = 스타일 편집기 옵션
-styleeditor-media-rules = @media 규칙
 styleeditor-at-rules = At-규칙
 styleeditor-editor-textbox =
     .data-placeholder = 여기에 CSS 를 입력하세요.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = J
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = 일치하는 스타일 시트를 찾지 못했습니다.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

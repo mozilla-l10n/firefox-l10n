@@ -19,6 +19,7 @@ open-location = 검색어 또는 주소 입력
 share = 공유
 close-window = 창 닫기
 open-sidebar = 사이드바
+
 # This string describes shortcuts for search.
 search-popover = 검색 바로 가기
 # Describes searches limited to a specific scope

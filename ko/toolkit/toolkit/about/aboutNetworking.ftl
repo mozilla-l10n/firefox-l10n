@@ -34,13 +34,6 @@ about-networking-messages-received = 받은 메시지
 about-networking-bytes-sent = 보낸 바이트 수
 about-networking-bytes-received = 받은 바이트 수
 about-networking-logging = 로깅
-about-networking-log-tutorial = 이 도구 사용법에 대한 설명은 <a data-l10n-name="logging">HTTP 로깅</a>을 참조하세요.
-about-networking-current-log-file = 현재 로그 파일:
-about-networking-current-log-modules = 현재 로그 모듈:
-about-networking-set-log-file = 로그 파일 설정
-about-networking-set-log-modules = 로그 모듈 설정
-about-networking-start-logging = 로깅 시작
-about-networking-stop-logging = 로깅 중지
 about-networking-dns-lookup = DNS 조회
 about-networking-dns-lookup-button = 조회
 about-networking-dns-domain = 도메인:

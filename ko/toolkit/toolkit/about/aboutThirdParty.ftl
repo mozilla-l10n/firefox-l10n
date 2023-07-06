@@ -4,12 +4,15 @@
 
 third-party-page-title = 제3자 모듈 정보
 third-party-section-title = { -brand-short-name }의 제3자 모듈 목록
+
 third-party-intro =
     이 페이지는 { -brand-short-name }에 삽입된 제3자 모듈을 보여줍니다.
     Microsoft 또는 { -vendor-short-name }에서 서명하지 않은 모듈은 
     제3자 모듈로 간주됩니다.
+
 third-party-message-empty = 제3자 모듈이 감지되지 않았습니다.
 third-party-message-no-duration = 기록 안 됨
+
 third-party-detail-version = 파일 버전
 third-party-detail-vendor = 공급업체 정보
 third-party-detail-occurrences = 횟수
@@ -18,9 +21,11 @@ third-party-detail-duration = 평균 차단 시간 (ms)
     .title = 이 모듈이 애플리케이션을 차단한 시간입니다.
 third-party-detail-app = 애플리케이션
 third-party-detail-publisher = 게시자
+
 third-party-th-process = 프로세스
 third-party-th-duration = 로드 시간 (ms)
 third-party-th-status = 상태
+
 third-party-tag-ime = IME
     .title = 이 유형의 모듈은 제3자 IME를 사용할 때 로드됩니다.
 third-party-tag-shellex = 셸 확장
@@ -29,19 +34,17 @@ third-party-tag-background = 백그라운드
     .title =
         이 모듈은 백그라운드에서 로드되었기 때문에 
         애플리케이션을 차단하지 않았습니다.
-third-party-unsigned-icon =
-    .title = 이 모듈은 서명되지 않음
-third-party-warning-icon =
-    .title = 이 모듈의 코드에서 { -brand-short-name } 충돌이 발생했습니다.
 third-party-icon-unsigned =
     .title = 이 모듈은 서명되지 않음
     .alt = 이 모듈은 서명되지 않음
 third-party-icon-warning =
     .title = 이 모듈의 코드에서 { -brand-short-name } 충돌 발생
     .alt = 이 모듈의 코드에서 { -brand-short-name } 충돌 발생
+
 third-party-status-loaded = 로드됨
 third-party-status-blocked = 차단됨
 third-party-status-redirected = 리디렉션됨
+
 third-party-button-copy-to-clipboard = 클립보드에 원시 데이터 복사
 third-party-loading-data =
     .alt = 시스템 정보 로드 중…
@@ -67,12 +70,11 @@ third-party-button-expand =
     .title = 자세한 정보 표시
 third-party-button-collapse =
     .title = 자세한 정보 접기
-third-party-requires-restart = 차단된 제3자 모듈을 변경하려면 { -brand-short-name }를 다시 시작해야 합니다.
 third-party-blocking-requires-restart = 제3자 모듈을 차단하려면 { -brand-short-name }를 다시 시작해야 합니다.
 third-party-should-restart-title = { -brand-short-name } 다시 시작
-third-party-should-restart-ok = 지금 { -brand-short-name } 다시 시작
 third-party-restart-now = 지금 다시 시작
 third-party-restart-later = 나중에 다시 시작
+
 third-party-blocked-by-builtin =
     .title = { -brand-short-name }에 의해 차단됨
     .alt = { -brand-short-name }에 의해 차단됨

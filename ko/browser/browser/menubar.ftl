@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } 종료
+
 menu-about =
     .label = { -brand-shorter-name } 정보
     .accesskey = A
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = 최근에 닫은 탭
 menu-history-undo-window-menu =
     .label = 최근에 닫은 창
-menu-history-reopen-all-tabs = 모든 탭 다시 열기
-menu-history-reopen-all-windows = 모든 창 다시 열기
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = 북마크 관리
-menu-bookmark-current-tab =
-    .label = 현재 탭 북마크
-menu-bookmark-edit =
-    .label = 이 북마크 편집
 menu-bookmark-tab =
     .label = 현재 탭 북마크…
 menu-edit-bookmark =
