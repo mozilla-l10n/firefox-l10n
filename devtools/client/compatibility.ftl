@@ -39,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } hasje
        *[other] { $number } hasje
     }
+
 compatibility-no-issues-found = S’u gjetën çështje përputhjeje.
 compatibility-close-settings-button =
     .title = Mbylli rregullimet
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

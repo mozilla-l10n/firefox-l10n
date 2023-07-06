@@ -8,39 +8,38 @@ password-quality-meter = Matës cilësie fjalëkalimesh
 
 change-device-password-window =
     .title = Ndryshoni Fjalëkalimin
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Pajisje Sigurie: { $tokenName }
 change-password-old = Fjalëkalimi i tanishëm:
 change-password-new = Fjalëkalimi i ri:
 change-password-reenter = Fjalëkalimi i ri (sërish):
+
 pippki-failed-pw-change = S’arrihet të ndryshohet fjalëkalimi.
 pippki-incorrect-pw = S’dhatë fjalëkalimin e saktë të tanishëm. Ju lutemi, riprovoni.
 pippki-pw-change-ok = Fjalëkalimi u ndryshua me sukses!
+
 pippki-pw-empty-warning = Fjalëkalimet dhe kyçet tuaj privatë të ruajtur s’do të mbrohen.
 pippki-pw-erased-ok = Keni fshirë fjalëkalimin tuaj. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Kujdes! Keni vendosur të mos përdorni fjalëkalim. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Gjendeni nën mënyrën FIPS. FIPS lyp një fjalëkalim jo të zbrazët.
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Ricaktoni Fjalëkalimin e Përgjithshëm
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = Ricaktoni Fjalëkalimin e Përgjithshëm
     .style = min-width: 40em
 reset-password-button-label =
     .label = Riktheje te parazgjedhjet
 reset-primary-password-text = Nëse ricaktoni Fjalëkalimin tuaj të Përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, dëshmi vetjake dhe kyçe privatë, do të harrohen. Jeni i sigurt se doni të ricaktoni Fjalëkalimin tuaj të Përgjithshëm?
+
 pippki-reset-password-confirmation-title = Ricaktoni Fjalëkalimin e Përgjithshëm
 pippki-reset-password-confirmation-message = Fjalëkalimi juaj I Përgjithshëm u ricaktua.
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Shkarkim Dëshmie
-    .style = width: 46em
 download-cert-window2 =
     .title = Shkarkim Dëshmie
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = E rëndësishme: Nëse harroni fjalëkalim kopjeruajtjeje dëshmish, nuk do të jeni në gjendje të riktheni më vonë këtë kopjeruajtje. Ju lutemi, regjistrojeni në një vend të parrezik.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = Mirëfilltësim me Token të Mbrojtur
-protected-auth-msg = Ju lutemi, kryeni mirëfilltësimin kundrejt tokenit. Metoda e mirëfilltësimit varet nga lloji i tokenit tuaj.
-protected-auth-token = Token:
 
 ## Protected authentication alert
 

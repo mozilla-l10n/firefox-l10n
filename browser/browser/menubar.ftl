@@ -38,9 +38,11 @@ menu-quit =
             [windows] D
            *[other] l
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Dilni prej { -brand-shorter-name }-it
+
 menu-about =
     .label = Mbi { -brand-shorter-name }-in
     .accesskey = R
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = Skeda të Mbyllura Së Fundi
 menu-history-undo-window-menu =
     .label = Dritare të mbyllura Së Fundi
-menu-history-reopen-all-tabs = Rihapi Krejt Skedat
-menu-history-reopen-all-windows = Rihapi Krejt Dritaret
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = F
 menu-bookmarks-manage =
     .label = Administroni Faqerojtës
-menu-bookmark-current-tab =
-    .label = Faqeruaj Skedën e Tanishme
-menu-bookmark-edit =
-    .label = Përpunojeni Këtë Faqerojtës
 menu-bookmark-tab =
     .label = Faqeruani Skedën e Tanishme…
 menu-edit-bookmark =

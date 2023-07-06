@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     Keni marrë një dëshmi të pavlefshme. Ju lutemi, lidhuni me administratorin e shërbyesit ose i dërgoni një email korrespondentit dhe jepuni atyre të dhënat vijuese:
     
     Dëshmia juaj përmban të njëjtin numër serial me një tjetër dëshmi të lëshuar nga autoriteti i dëshmive. Ju lutemi, merrni një dëshmi të re që të përmbajë një numër serial unik.
+
 ssl-error-export-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër s’mbulon fshehtëzim të shkallës së lartë.
 ssl-error-us-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër kërkon fshehtëzim të shkallës së lartë, i cili nuk mbulohet.
 ssl-error-no-cypher-overlap = S’komunikohet dot në mënyrë të sigurt me anën tjetër: s’ka algoritëm(e) të njëjtë fshehtëzimesh.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = S’pat të formësuar algoritm në
 ssl-error-unsupported-signature-algorithm = Ana tjetër përdori një ndërthurje të pambuluar algoritmesh nënshkrimi dhe hashi.
 ssl-error-missing-extended-master-secret = Ana tjetër provoi të bënte rrimarrje pa një zgjerim të saktë extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Ana tjetër provoi të bënte rimarrje me një zgjerim extended_master_secret të papritur.
+
 sec-error-io = Ndodhi një gabim I/O gjatë autorizimit të sigurisë.
 sec-error-library-failure = dështim librarie sigurie.
 sec-error-bad-data = librari sigurie: u morën të dhëna të dëmtuara.
@@ -317,6 +319,7 @@ sec-error-locked-password = Fjalëkalimi është bllokuar.
 sec-error-unknown-pkcs11-error = Gabim i panjohur PKCS #11.
 sec-error-bad-crl-dp-url = URL e pavlefshme ose e pambuluar te emër pike shpërndarjesh CRL.
 sec-error-cert-signature-algorithm-disabled = Dëshmia është nënshkruar duke përdorur një algoritëm nënshkrimi që është i çaktivizuar, sepse s’është i sigurt.
+
 mozilla-pkix-error-key-pinning-failure = Shërbyesi përdor “key pinning” (HPKP), por s’u krijua dot zinxhir dëshmish të besuara dhe që i korrespondojnë pinset-it. Shkeljet e “key pinning”-ut s’mund të anashkalohen.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Shërbyesi përdor një dëshmi me një zgjerim të thjeshtë kufizimesh që e identifikon atë si autoritet dëshmish. S’do të duhej të ishte kështu, për një dëshmi të lëshuar siç duhet.
 mozilla-pkix-error-inadequate-key-size = Shërbyesi paraqiti një dëshmi me madhësi kyçi që është shumë e vogël për të vendosur një lidhje të sigurt.
@@ -331,9 +334,11 @@ mozilla-pkix-error-invalid-integer-encoding = Shërbyesi paraqiti një dëshmi q
 mozilla-pkix-error-empty-issuer-name = Shërbyesi paraqiti një dëshmi me emër të dalluar lëshuesi të zbrazët.
 mozilla-pkix-error-additional-policy-constraint-failed = Dështoi një kufizim shtesë rregulli teksa vlerësohej kjo dëshmi.
 mozilla-pkix-error-self-signed-cert = Dëshmia nuk besohet, ngaqë është e vetënënshkruar.
+
 xp-java-remove-principal-error = S’hoqi dot kryesorin
 xp-java-delete-privilege-error = S’fshiu dot privilegjin
 xp-java-cert-not-exists-error = Ky kryesor s’ka dëshmi
+
 xp-sec-fortezza-bad-card = Karta Fortezza s’është vënë në punë si duhet. Ju lutemi, hiqeni dhe kthejani lëshuesit.
 xp-sec-fortezza-no-card = S’u Gjetën karta Fortezza
 xp-sec-fortezza-none-selected = S’ka përzgjedhje karte Fortezza

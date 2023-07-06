@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Faqeruani Skeda…
     .accesskey = q
-bookmark-tab =
-    .label = Faqeruaje Skedën
-    .accesskey = q
 tab-context-bookmark-tab =
     .label = Faqeruaje Skedën…
     .accesskey = q
@@ -105,6 +102,7 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

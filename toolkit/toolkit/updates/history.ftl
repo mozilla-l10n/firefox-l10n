@@ -23,5 +23,7 @@ state-header = Gjendje
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Hollësi
+
 update-installed-on = Instaluar në: { $date }
+
 update-status = Gjendje: { $status }

@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name }-i e bllokoi këtë
 safeb-palm-advisory-desc = Këshillimi u dha nga <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Kthehu mbrapsht
 safeb-palm-see-details-label = Shihni hollësitë
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar si sajt i rrejshëm</a>. Mundeni <a data-l10n-name='report_detection'>të raportoni një problem me këtë vlerësim</a> ose <a data-l10n-name='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt jo i parrezik.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar si sajt i rrejshëm</a>. Mundeni <a data-l10n-name='report_detection'>të raportoni një problem me këtë vlerësim</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Mësoni më tepër rreth sajtesh të rrejshëm dhe karremëzimesh, te <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Mësoni më tepër rreth Mbrojtjes Nga Karremëzimet dhe Malware në { -brand-short-name }, te <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software dashakeq</a>. Mund <a data-l10n-name='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt i pasigurt.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software dashakeq</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = Mësoni më tepër rreth Mbrojtjes Nga Karremëzimet dhe Malware-i në { -brand-short-name }, te <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software të dëmshëm</a>. Mund <a data-l10n-name='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt i pasigurt.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software të dëmshëm</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Mësoni më tepër rreth software-i të dëmshëm dhe të padëshiruar, te <a data-l10n-name='learn_more_link'>Rregulla Software-i të Padëshiruar</a>.Mësoni më tepër rreth Mbrojtjes Nga Karremëzimet dhe Malware në { -brand-short-name }, te <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban një aplikacion potencialisht të dëmshëm</a>. Mund ta <a data-l10n-name='ignore_warning_link'>shpërfillni rrezikun</a> dhe të shkoni te ky sajt jo i parrezikshëm.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban një aplikacion potencialisht të dëmshëm</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Mësoni më tepër rreth Mbrojtjes Nga Karremëzimet dhe Malware-i në { -brand-short-name }, te <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Ky s'është sajt i rremë…

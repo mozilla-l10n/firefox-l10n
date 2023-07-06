@@ -15,15 +15,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
 about-logging-title = Mbi Regjistrimin
 about-logging-page-title = Përgjegjës regjistrimi
 about-logging-current-log-file = Kartela Regjistër e Tanishme:
-about-logging-current-log-modules = Module të Tanishëm Regjistrimi:
 about-logging-new-log-file = Kartelë e re regjistër:
 about-logging-currently-enabled-log-modules = Module regjistrimi aktualisht të aktivizuar:
 about-logging-log-tutorial = Për udhëzime se si të përdoret ky mjet, shihni <a data-l10n-name="logging">HTTP Logging</a>.
@@ -53,6 +50,7 @@ about-logging-preset-media-playback-label = Luajtje media
 about-logging-preset-media-playback-description = Module regjistrimi për diagnostikim problemesh luajtjeje media (jo probleme me konferencë video)
 about-logging-preset-custom-label = Vetjake
 about-logging-preset-custom-description = Module regjistrimi të përzgjedhur dorazi
+
 # Error handling
 about-logging-error = Gabim:
 
@@ -65,4 +63,5 @@ about-logging-unknown-logging-preset = Paracaktim i panjohur regjistrimi “{ $v
 about-logging-unknown-profiler-preset = Paracaktim i panjohur profilizuesi “{ $v }“
 about-logging-unknown-option = Mundësi e panjohur about:logging “{ $k }“
 about-logging-configuration-url-ignored = URL-ja e formësimi u shpërfill
+
 about-logging-configured-via-url = Mundësi e formësuar përmes URL-je

@@ -4,6 +4,7 @@
 
 about-reader-loading = Po ngarkohet…
 about-reader-load-error = S’u arrit të ngarkohej artikull prej faqes
+
 about-reader-color-scheme-light = E çelët
     .title = Skemë Ngjyrash e Çelët
 about-reader-color-scheme-dark = E errët
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Skemë Ngjyrash Sepia
 about-reader-color-scheme-auto = E automatizuar
     .title = Skemë e Automatizuar Ngjyrash
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

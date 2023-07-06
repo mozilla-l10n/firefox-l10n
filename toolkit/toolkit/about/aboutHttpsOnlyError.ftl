@@ -4,6 +4,7 @@
 
 about-httpsonly-title-alert = Sinjalizim Mënyre Vetëm-HTTPS
 about-httpsonly-title-site-not-available = S’ka Sajt të Sigurt
+
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Keni aktivizuar Mënyrën Vetëm-HTTPS, për siguri të thelluar dhe s’ka version HTTPS për <em>{ $websiteUrl }</em>.
@@ -11,6 +12,7 @@ about-httpsonly-explanation-question = Ç’mund të jetë duke e shkaktuar?
 about-httpsonly-explanation-nosupport = Sipas shumicës së gjasave, sajti thjesht nuk mbulon HTTPS-në.
 about-httpsonly-explanation-risk = Është gjithashtu e mundur që të jetë dora e një agresori. Nëse vendosni ta vizitoni sajtin, s’duhet të jepni ndonjë të dhënë rezervat, bie fjala, fjalëkalime, email-e ose hollësi kartash krediti.
 about-httpsonly-explanation-continue = Nëse vazhdoni, Mënyra Vetëm-HTTPS do të çaktivizohet përkohësisht për këtë sajt.
+
 about-httpsonly-button-continue-to-site = Vazhdo te Sajti HTTP
 about-httpsonly-button-go-back = Kthehu Mbrapsht
 about-httpsonly-link-learn-more = Mësoni Më Tepër…

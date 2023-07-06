@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Skedë e Re
 tabbrowser-empty-private-tab-title = Skedë e Re Private
+
 tabbrowser-menuitem-close-tab =
     .label = Mbylleni Skedën
 tabbrowser-menuitem-close =
     .label = Mbylleni
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -117,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Mos ma shfaq më këtë kuti dialogu
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Lejoni njoftime si ky nga { $domain } t’ju shpien te skeda e tyre
+
 tabbrowser-customizemode-tab-title = Përshtateni { -brand-short-name }-in
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -142,3 +146,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Shfaqi Që Të { $tabCount } Skedat
+
+## Tab manager menu buttons
+

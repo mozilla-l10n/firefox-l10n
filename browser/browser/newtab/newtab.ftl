@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Kërko
     .aria-label = Kërko
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Kërkoni me { $engine } ose jepni adresë
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Bëni kërkim, ose jepni adresë
     .title = Bëni kërkim, ose jepni adresë
     .aria-label = Bëni kërkim, ose jepni adresë
+
 newtab-search-box-text = Kërkoni në Web
 newtab-search-box-input =
     .placeholder = Kërkoni në Web
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Përpunoni Shkurtore
 newtab-topsites-title-label = Titull
 newtab-topsites-title-input =
     .placeholder = Jepni një titull
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Shtypni ose hidhni një URL
 newtab-topsites-url-validation = Lypset URL e vlefshme
+
 newtab-topsites-image-url-label = URL Figure Vetjake
 newtab-topsites-use-image-link = Përdorni një figurë vetjake…
 newtab-topsites-image-validation = Dështoi ngarkimi i figurës. Provoni një URL tjetër.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = E sponsorizuar
 newtab-menu-section-tooltip =
     .title = Hapni menunë
     .aria-label = Hapni menunë
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Hiqe
     .aria-label = Hiqe
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -152,14 +158,17 @@ newtab-label-removed-bookmark = Faqerojtësi u hoq
 newtab-label-recommended = Në modë
 newtab-label-saved = U ruajt te { -pocket-brand-name }
 newtab-label-download = Të shkarkuara
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · E sponsorizuar
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsorizuar nga { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -198,6 +207,7 @@ newtab-section-header-pocket = Rekomanduar nga { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Filloni shfletimin dhe do t'ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqeruajtur këtu kohët e fundit.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -222,22 +232,15 @@ newtab-pocket-learn-more = Mësoni më tepër
 newtab-pocket-cta-button = Merreni { -pocket-brand-name }-in
 newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni dhe ushqejeni mendjen me lexime të mahnitshme.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } është pjesë e familjes { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Ruajeni te { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = U ruajt te { -pocket-brand-name }
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Ngarko më tepër gjëra
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = S’ka tjetër!
-newtab-pocket-last-card-desc = Kontrolloni më vonë për më tepër.
-newtab-pocket-last-card-image =
-    .alt = S’ka tjetër
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Ruaje
 newtab-pocket-saved = U ruajt
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
