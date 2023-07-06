@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Neien Tab
+
 tabbrowser-menuitem-close-tab =
     .label = Tab zoumaachen
 tabbrowser-menuitem-close =
@@ -40,4 +41,6 @@ tabbrowser-confirm-open-multiple-tabs-button = Tabs opmaachen
 
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

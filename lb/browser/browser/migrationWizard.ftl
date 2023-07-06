@@ -24,3 +24,10 @@ migration-wizard-migrator-display-name-chromium-360se = 360 Secure Browser
 
 ##
 
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+

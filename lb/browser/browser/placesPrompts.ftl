@@ -4,5 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (keen Titel)
+
 places-bookmarks-restore-alert-title = Lieszeechen zrécksetzen
 places-bookmarks-restore-alert = Heimat ginn all aktuell Lieszeechen duerch de Backup ersat. Bass Du sécher?
+

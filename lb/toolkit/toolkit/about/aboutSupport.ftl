@@ -31,6 +31,8 @@ media-device-name = Numm
 media-device-group = Grupp
 media-device-format = Format
 
+## Codec support table
+
 ##
 
 intl-regional-prefs = Regional Astellungen

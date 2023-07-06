@@ -61,3 +61,5 @@ downloads-cancel-download =
 
 ##
 
+## Download errors
+

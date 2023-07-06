@@ -7,4 +7,6 @@ date-header = Installatiounsdatum
 type-header = Typ
 
 update-details = Detailer
+
 update-installed-on = Installéiert den: { $date }
+

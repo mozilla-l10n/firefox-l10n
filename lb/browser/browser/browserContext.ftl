@@ -92,18 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-change =
-    .aria-label = Dëst Lieszeechen änneren
-    .accesskey = m
-    .tooltiptext = Dëst Lieszeechen änneren
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Dëst Lieszeechen änneren
-    .accesskey = m
-    .tooltiptext = Dëst Lieszeechen änneren ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Link opmaachen
     .accesskey = O
@@ -175,10 +163,6 @@ main-context-menu-send-to-device =
 main-context-menu-link-send-to-device =
     .label = Link op en Apparat schécken
     .accesskey = n
-
-main-context-menu-frame-bookmark =
-    .label = E Lieszeechen fir des Säit dobäisetzen
-    .accesskey = m
 
 main-context-menu-view-page-source =
     .label = Quellcode vun der Säit weisen

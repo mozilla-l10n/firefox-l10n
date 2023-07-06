@@ -10,3 +10,5 @@ about-private-browsing-not-private = Du bass am Moment net an enger privater Fë
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+## Strings used in a promotion message for cookie banner reduction
+

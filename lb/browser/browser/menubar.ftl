@@ -96,6 +96,8 @@ menu-view-full-screen =
     .label = Vollbild
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -118,8 +120,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Lieszeechen
     .accesskey = B
-menu-bookmark-edit =
-    .label = Dëst Lieszeechen änneren
 menu-bookmarks-all-tabs =
     .label = Lieszeechen fir all Tabs dobäisetzen…
 menu-bookmarks-toolbar =

@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Ofbriechen
     .accesskey = C
+
 webext-perms-sideload-text = Een anere Programm op dësem Computer huet en Add-on installéiert, deen eventuell de Browser beaflosst. Kuck w.e.g. d'Ufroe fir Erlaabnisser vun dësem Add-on no a wiel Aktivéieren oder Ofbriechen (fir en desaktivéiert ze loossen).
 webext-perms-sideload-text-no-perms = Een anere Programm op dësem Computer huet en Add-on installéiert, deen eventuell de Browser beaflosst. Wiel w.e.g. Aktivéieren oder Ofbriechen (fir en desaktivéiert ze loossen).
 webext-perms-sideload-enable =
@@ -30,9 +31,11 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Ofbriechen
     .accesskey = C
+
 webext-perms-update-accept =
     .label = Aktualiséieren
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = Et wëllt:
 webext-perms-optional-perms-allow =
     .label = Erlaben

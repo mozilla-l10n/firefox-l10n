@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Private Modus)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Private Modus)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Private Modus)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Private Modus)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -61,10 +28,6 @@ urlbar-default-notification-anchor =
     .tooltiptext = Messagepanneau opmaachen
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Panneau vun de Standuert Ufroen opmaachen
-urlbar-translate-notification-anchor =
-    .tooltiptext = Dës Säit iwwersetzen
-urlbar-translated-notification-anchor =
-    .tooltiptext = Säitiwwersetzung geréieren
 urlbar-addons-notification-anchor =
     .tooltiptext = Add-on Installatioun Messagepanneau opmaachen
 
@@ -87,6 +50,7 @@ urlbar-microphone-blocked =
     .tooltiptext = Du hues Däi Mikro fir dësen Internetsite gespaart.
 urlbar-screen-blocked =
     .tooltiptext = Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -108,9 +72,11 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sichastellungen änneren
+
 search-one-offs-context-set-as-default =
     .label = Als Standard-Sichmaschinn festleeën
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -136,8 +102,7 @@ search-one-offs-add-engine-menu =
 
 identity-connection-file = Dës Säit ass op Dengem Computer gespäichert.
 identity-weak-encryption = Dës Säit benotzt eng schwaach Verschlësselung.
-identity-learn-more =
-    .value = Fir méi ze wëssen
+
 identity-more-info-link-text =
     .label = Méi Informatiounen
 
@@ -172,9 +137,11 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Sichen oder Adress aginn
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Erweiderung:
+
 urlbar-go-button =
     .tooltiptext = D'Adress aus der Leescht lueden
 
@@ -206,9 +173,12 @@ urlbar-result-action-visit = Besichen
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ass elo am Vollbildmodus
 fullscreen-warning-no-domain = Dëst Dokument ass elo am Vollbildmodus
+
+
 fullscreen-exit-button = Vollbild zoumaachen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Vollbild zoumaachen (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -240,8 +210,7 @@ bookmarks-mobile-bookmarks-menu =
 
 bookmarks-search =
     .label = An de Lieszeeche sichen
-bookmarks-bookmark-edit-panel =
-    .label = Dëst Lieszeechen änneren
+
 bookmarks-toolbar-menu =
     .label = Lieszeechensymbolleescht
 bookmarks-toolbar-placeholder =
@@ -295,15 +264,19 @@ ui-tour-info-panel-close =
 
 navbar-overflow =
     .tooltiptext = Méi Handwierksgeschir…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Drécken
     .tooltiptext = Dës Säit drécken… ({ $shortcut })
+
 navbar-search =
     .title = Sich
+
 tabs-toolbar-new-tab =
     .label = Neien Tab
+
 tabs-toolbar-list-all-tabs =
     .label = All Tabs oplëschten
     .tooltiptext = All Tabs oplëschten
@@ -320,6 +293,9 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
 
 ## Autorefresh blocker
 
@@ -351,6 +327,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
