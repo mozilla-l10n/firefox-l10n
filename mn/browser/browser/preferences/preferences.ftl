@@ -34,6 +34,16 @@ should-restart-title = { -brand-short-name }-г шинээр ачаал
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 ## Preferences UI Search Results
 
 
@@ -46,6 +56,12 @@ tabs-group-header = Самбар
 show-tabs-in-taskbar =
     .label = Виндовсийн табыг харуулах
     .accesskey = k
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -199,10 +215,14 @@ use-current-pages =
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 ##
 
 
 ## Search Section
+
 
 search-choose-keyword-column =
     .label = Түлхүүр үг
@@ -225,6 +245,16 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 ## Firefox Account - Signed in
 
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+## Firefox account - Signed in
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+##
+
 ## Sync section - enabling or disabling sync.
 
 
@@ -236,6 +266,9 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 
 ## The device name controls.
 
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
 
 ## Privacy Section
 
@@ -271,6 +304,8 @@ history-private-browsing-permanent =
 ## Privacy Section - Site Data
 
 
+## Privacy Section - Cookie Banner Handling
+
 ## Privacy Section - Address Bar
 
 
@@ -283,6 +318,7 @@ history-private-browsing-permanent =
 
 ##
 
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 ## Privacy Section - Tracking
 
@@ -312,6 +348,8 @@ certs-header = Гэрчилгээ
 
 ## Privacy Section - HTTPS-Only
 
+
+## DoH Section
 
 ## The following strings are used in the Download section of settings
 

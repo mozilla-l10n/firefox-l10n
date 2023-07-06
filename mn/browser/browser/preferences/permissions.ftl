@@ -72,3 +72,7 @@ permissions-invalid-uri-label = Зөв компьютерийн нэр оруу�
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

@@ -8,6 +8,8 @@ a11y-title = Хандалт
 
 ## Media titles
 
+## Codec support table
+
 ##
 
 ## Remote Debugging

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Шинэ самбар
+
 tabbrowser-menuitem-close-tab =
     .label = Самбарыг хаа
 tabbrowser-menuitem-close =
@@ -38,4 +39,6 @@ tabbrowser-confirm-close-tabs-button = Самбаруудыг хаа
 
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

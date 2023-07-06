@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (гарчиггүй)
+
 places-bookmarks-backup-title = Хаягийн нөөц файлын нэр
 places-bookmarks-restore-alert-title = Хаягыг нөөцөөс сэргээ
 places-bookmarks-restore-alert = Ингэснээр таны одоогийн байгаа хаягнуудыг тань нөөцөлсөн хаягаар орлуулж бичих болно. Та итгэлтэй байна уу?
@@ -11,5 +12,6 @@ places-bookmarks-restore-title = Хаягийн нөөцөлсөн файлаа 
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Дэмжигдээгүй файл байна.
 places-bookmarks-restore-parse-error = Файлыг нөөцлөх боломжгүй байна.
+
 places-bookmarks-import = Хаягийн файл импортлох
 places-bookmarks-export = Хаягийн файл экспортлох

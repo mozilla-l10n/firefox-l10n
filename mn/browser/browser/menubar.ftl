@@ -109,6 +109,8 @@ menu-view-page-basic-style =
 ## use on macOS.
 
 
+## These menu items may use the same accesskey.
+
 ##
 
 
@@ -124,8 +126,6 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
-menu-bookmark-edit =
-    .label = Хадгалсан хаяганд засвар хийх
 menu-bookmarks-toolbar =
     .label = Хаягийн Багажит самбар
 

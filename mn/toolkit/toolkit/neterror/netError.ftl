@@ -22,6 +22,17 @@ neterror-load-error-try-again = Хуудас түр хугацаагаар ха�
 neterror-load-error-connection = Хэрэв та ямар ч хуудас дуудаж чадахгүй байгаа бол компьютерийнхээ сүлжээг шалгаарай.
 neterror-load-error-firewall = Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол { -brand-short-name }-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-unknown-protocol = Та энэ хаягийг нээхийн тулд магадгүй өөр програм суулгах хэрэгтэй байж болзошгүй.
 
 neterror-redirect-loop = Энэ хүндрэл заримдаа күүкиг хорих юм уу татгалзсан үед гардаг.

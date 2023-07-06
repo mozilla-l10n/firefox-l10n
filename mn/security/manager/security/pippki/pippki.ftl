@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Гэрчилгээ татаж авч байна
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Гэрчилгээ татаж авч байна
     .style = min-width: 46em
@@ -55,7 +51,5 @@ set-password-reminder = Чухал: Хэрэв та гэрчилгээний н�
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Хамгаалттай хэсгийн нэвтрэлт
-protected-auth-msg = Энэ хэсэгт нэвтрэх үйлдэл хийх шаардлагатай. Нэвтрүүлэх аргачлал нь тухайн хэсгээс хамаарна.
-protected-auth-token = Хэсэг:
+## Protected authentication alert
+
