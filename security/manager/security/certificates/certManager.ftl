@@ -25,10 +25,6 @@ certmgr-remembered = Estos certificaus se fan servir para identificar-te en pach
 certmgr-people = Tiens certificaus en o fichero que identifican a estas personas
 certmgr-ca = Tiens certificaus en o fichero que identifican estas autoridatz de certificación
 
-certmgr-edit-ca-cert =
-    .title = Editar os parametros de confianza d'o certificau d'a CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Editar os parametros de confianza d'o certificau d'a CA
     .style = min-width: 48em;
@@ -40,10 +36,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Iste certificau puede identificar usuarios de correu.
-
-certmgr-delete-cert =
-    .title = Eliminar o certificau
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Eliminar o certificau
@@ -57,9 +49,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Servidor
-
-certmgr-override-lifetime =
-    .label = Tiempo de vida
 
 certmgr-token-name =
     .label = Dispositivo de seguranza

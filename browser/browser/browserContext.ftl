@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Marcar ista pachina con un marcapachinas
-    .accesskey = m
-    .tooltiptext = Marcar ista pachina con o marcapachinas
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Marcar ista pachina con un marcapachinas
-    .accesskey = m
-    .tooltiptext = Marcar ista pachina con o marcapachinas ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Editar iste marcapachinas
-    .accesskey = m
-    .tooltiptext = Editar iste marcapachinas
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Editar iste marcapachinas
-    .accesskey = m
-    .tooltiptext = Editar iste marcapachinas ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Ubrir o vinclo
     .accesskey = l
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = Ninviar audio…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Activar iste plugin
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Amagar iste plugin
-    .accesskey = g
-
 main-context-menu-save-to-pocket =
     .label = Alzar pachina en { -pocket-brand-name }
     .accesskey = c
@@ -296,10 +264,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Esviellar a bastida
     .accesskey = E
-
-main-context-menu-frame-bookmark =
-    .label = Adhibir ista bastida a las marcapachinas
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Alzar a bastida como…

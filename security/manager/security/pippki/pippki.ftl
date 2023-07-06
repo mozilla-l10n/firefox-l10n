@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Descargando o certificau
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Descargando o certificau
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Important: si ixuplida a clau d'a copia de seguranza d'o
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Autentificación de teste protechida
-protected-auth-msg = Autentifique a o teste. O metodo d'autentificación pende en o tipo d'o suyo teste.
-protected-auth-token = Teste:
+## Protected authentication alert
+

@@ -14,6 +14,7 @@ xpinstall-prompt-message = Yes mirando d'instalar un complemento dende { $host }
 
 xpinstall-prompt-header-unknown = Permitir que un puesto desconoixiu instale un complemento?
 xpinstall-prompt-message-unknown = Yes mirando d'instalar un complemento dende un puesto desconoixiu. Asegura-te de que confías en este puesto antes de continar.
+
 xpinstall-prompt-dont-allow =
     .label = No permitir-lo
     .accesskey = N
@@ -37,12 +38,14 @@ xpinstall-disabled = A instalación de software ye actualment desactivada. Prete
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = H
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ye blocau per lo tuyo administrador de sistemas.
 addon-install-full-screen-blocked = La instalación de complementos no ye permitida mientres u antes de dentrar en o modo de pantalla completa.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } s'ha anyadiu a { -brand-short-name }
@@ -56,6 +59,7 @@ webext-perms-update-menu-item = { $addonName } requiere nuevos permisos
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Sacar { $name } de { -brand-shorter-name }?
 addon-removal-button = Eliminar
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -64,6 +68,7 @@ addon-downloading-and-verifying =
        *[other] Se son baixando y verificando { $addonCount } complementos…
     }
 addon-download-verifying = Se ye verificando
+
 addon-install-cancel-button =
     .label = Cancelar
     .accesskey = C

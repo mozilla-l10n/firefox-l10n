@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Navegación privada)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Navegación privada)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Navegación privada)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Navegación privada)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -73,16 +40,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = Ubrir lo panel de permisos d'a realidat virtual
 urlbar-storage-access-anchor =
     .tooltiptext = Ubrir lo panel de permisos de navegación
-urlbar-translate-notification-anchor =
-    .tooltiptext = Traducir ista pachina
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Chestiona a compartición d'as finestras u a pantalla con iste puesto
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Ubrir lo panel de mensaches d'almagazenamiento difuera de linia
 urlbar-password-notification-anchor =
     .tooltiptext = Ubrir lo panel de mensaches d'alzar claus
-urlbar-translated-notification-anchor =
-    .tooltiptext = Chestionar la traducción de pachinas
 urlbar-plugins-notification-anchor =
     .tooltiptext = Chestionar l'uso de plugins
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -142,21 +105,18 @@ urlbar-midi-blocked =
     .tooltiptext = Tiens blocau l'acceso MIDI en esta web.
 urlbar-install-blocked =
     .tooltiptext = Has blocau la instalación de complementos dende este puesto web.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editar iste marcapachinas ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Marcar ista pachina con o marcapachinas ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Chestionar la extensión…
-page-action-remove-extension =
-    .label = Borrar extensión
 
 ## Auto-hide Context Menu
 
@@ -172,8 +132,10 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Esta vegada, mira con:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambiar los achustes de busca
+
 search-one-offs-context-open-new-tab =
     .label = Busca en una pestanya nueva
     .accesskey = t
@@ -183,12 +145,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Definir como motor de busqueda per defecto en finestras privadas
     .accesskey = D
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -230,6 +194,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Amostrar l'editor mientres se grava
     .accesskey = A
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -256,13 +221,13 @@ identity-passive-loaded = Bella parte d'ista pachina no ye segura (p. eix. imach
 identity-active-loaded = Ha desactivau a protección en ista pachina.
 identity-weak-encryption = Ista pachina fa servir zifrau feble.
 identity-insecure-login-forms = Los datos de dentrada escritos en ista pachina pueden estar compromesos.
+
 identity-permissions-reload-hint = Talment haiga de recargar la pachina pa que s'apliquen los cambios.
 identity-clear-site-data =
     .label = Borrar cookies y datos d'o puesto…
 identity-connection-not-secure-security-view = No yes connectau de traza segura a este puesto:
 identity-connection-verified = Yes connectau de traza segura a este puesto:
 identity-ev-owner-label = Certificau emitiu a:
-identity-description-custom-root = Mozila no reconoix este emisor de certificaus. Talment te l'haiga anyadiu lo tuyo sistema operativo u bell administrador. <label data-l10n-name="link">Saber-ne mas</label>
 identity-description-custom-root2 = Mozila no reconoix este emisor de certificaus. Talment te l'haiga anyadiu lo tuyo sistema operativo u bell administrador.
 identity-remove-cert-exception =
     .label = Eliminar la excepción
@@ -271,17 +236,12 @@ identity-description-insecure = A connexión ta iste puesto no ye privada. A inf
 identity-description-insecure-login-forms = A información d'inicio de sesión que introduz en ista pachina no ye segura y podría interceptar-se.
 identity-description-weak-cipher-intro = A suya connexión ta ista web fa servir un zifrau feble y no ye privada.
 identity-description-weak-cipher-risk = Atras personas podrían visualizar la información u modificar lo comportamiento d'o puesto
-identity-description-active-blocked = { -brand-short-name } ha blocau partes d'ista pachina que no son seguras. <label data-l10n-name="link">Saber-ne mas</label>
 identity-description-active-blocked2 = { -brand-short-name } ha blocau partes d'ista pachina que no son seguras.
 identity-description-passive-loaded = A connexión no ye privada y a información que comparte con o puesto podría estar visualizada por atras personas.
-identity-description-passive-loaded-insecure = Iste puesto web inclui contenius que no son seguros (p. eix. imachens). <label data-l10n-name="link">Saber-ne mas</label>
-identity-description-passive-loaded-mixed = Tot y que { -brand-short-name } ha blocau bell conteniu, encara queda conteniu no seguro en a pachina (p.eix. imachens). <label data-l10n-name="link">Saber-ne mas</label>
 identity-description-passive-loaded-insecure2 = Iste puesto web inclui contenius que no son seguros (p. eix. imachens).
 identity-description-passive-loaded-mixed2 = Tot y que { -brand-short-name } ha blocau bell conteniu, encara queda conteniu no seguro en a pachina (p.eix. imachens).
 identity-description-active-loaded = Iste puesto web tien contenius que no son seguros (p. eix. scripts) y a suya connexión no ye privada.
 identity-description-active-loaded-insecure = A información que comparte con iste puesto podría estar vista por atros (como claus, mensaches, tarchetas de credito, etc.).
-identity-learn-more =
-    .value = Saber-ne mas
 identity-disable-mixed-content-blocking =
     .label = Desactivar a protección por agora
     .accesskey = D
@@ -328,14 +288,13 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Pa emplegar l'alcorce F12, ubre en primeras DevTools per medio d'o menú de desenvolvedor web.
-
 ## URL Bar
 
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Termen a mirar u adreza
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -344,6 +303,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Mirar en o Web
     .aria-label = Mirar con { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -352,29 +312,36 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Escribe los termens de busqueda
     .aria-label = Mirar { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Escribe los termens de busqueda
     .aria-label = Buscar marcapachinas
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Escribe los termens de busqueda
     .aria-label = Historial de busqueda
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Escribe los termens de busqueda
     .aria-label = Pestanyas de busqueda
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Mirar con { $name } u escribir una adreza
+
 urlbar-permissions-granted =
     .tooltiptext = Has dau permisos adicionals a este web.
 urlbar-switch-to-tab =
     .value = Ir ta la pestanya:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensión:
+
 urlbar-go-button =
     .tooltiptext = Ir ta la URL d'a barra d'adrezas
 urlbar-page-action-button =
@@ -428,9 +395,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ye a pantalla completa
 fullscreen-warning-no-domain = Iste documento ye a pantalla completa
+
+
 fullscreen-exit-button = Salir d'a pantalla completa (esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Salir d'a pantalla completa (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -482,8 +452,7 @@ bookmarks-search =
     .label = Trobar marcapachinas
 bookmarks-tools =
     .label = Ferramientas d'os marcapachinas
-bookmarks-bookmark-edit-panel =
-    .label = Editar iste marcapachinas
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -517,22 +486,27 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Personalizar la barra de ferramientas…
     .accesskey = C
+
 toolbar-button-email-link =
     .label = Ninviar un vinclo
     .tooltiptext = Ninvia por correu un vinclo ta ista pachina
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Alzar a pachina
     .tooltiptext = Alza ista pachina ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Ubrir un fichero
     .tooltiptext = Ubre un fichero ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Pestanyas sincronizadas
     .tooltiptext = Amostrar las pestanyas d'atros dispositivos
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -560,6 +534,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Permitir as finestras emerchents ta { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Blocar as finestras emerchents ta { $uriHost }
     .accesskey = p
@@ -569,6 +544,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No amostrar iste mensache quan se bloquen las finestras emerchents
     .accesskey = N
+
 picture-in-picture-hide-toggle =
     .label = Amaga lo commutador d'imachen incrustada
     .accesskey = A
@@ -587,32 +563,39 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navegación
+
 navbar-downloads =
     .label = Descargas
+
 navbar-overflow =
     .tooltiptext = Mas ferramientas...
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Imprentar
     .tooltiptext = Imprente ista pachina... ({ $shortcut })
+
 navbar-home =
     .label = Inicio
     .tooltiptext = Pachina d'inicio de { -brand-short-name }
+
 navbar-library =
     .label = Reposte
     .tooltiptext = Veyer lo historial, los marcapachinas alzaus, y mas
+
 navbar-search =
     .title = Mirar
-navbar-accessibility-indicator =
-    .tooltiptext = Caracteristicas d'accesibilidat activadas
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Pestanyas d'o navegador
+
 tabs-toolbar-new-tab =
     .label = Nueva pestanya
+
 tabs-toolbar-list-all-tabs =
     .label = Amostrar todas as pestanyas
     .tooltiptext = Amostrar todas as pestanyas
@@ -634,10 +617,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha privau que ista pachina se recargase automaticament.
 refresh-blocked-redirect-label = { -brand-short-name } privó que ista pachina se reendrezase automaticament enta unatra.
+
 refresh-blocked-allow =
     .label = Permitir
     .accesskey = P
@@ -678,6 +665,7 @@ popup-warning-button =
             [windows] O
            *[other] f
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

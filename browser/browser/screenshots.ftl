@@ -44,3 +44,4 @@ screenshots-private-window-error-details = Sentimos las molestias. Somos treball
 
 screenshots-generic-error-title = Ola! { -screenshots-brand-name } ha feito rabosa.
 screenshots-generic-error-details = No somos seguros de qué ha paasau. Puetz Mirar de prebar-lo atra vez u fer una foto de pantalla d'unatra pachina.
+

@@ -9,10 +9,6 @@ failed-pp-change = No se puede cambiar la clau primaria.
 incorrect-pp = No has escrito correctament la clau primaria. Torna-lo a prebar.
 pp-change-ok = La clau primaria s'ha cambiau conrrectament.
 
-pp-empty-warning = Las tuyas claus alzadas y claus primarias no se protecherán
-pp-erased-ok = Has borrau la tuya clau primaria. { pp-empty-warning }
-pp-not-wanted = Para cuenta! Has decidiu de no fer ervir una clau primaria. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Actualment, ye en modo FIPS. FIPS requiere una clau primaria.
 pw-change-success-title = O cambeo de clau s'ha realizau con exito
 pw-change-failed-title = O cambeo de clau ha fallau

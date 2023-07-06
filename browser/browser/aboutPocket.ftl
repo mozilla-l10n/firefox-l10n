@@ -26,7 +26,6 @@ pocket-panel-saved-save-tags = Alzar
 pocket-panel-saved-saving-tags = Se ye alzando…
 pocket-panel-saved-suggested-tags = Etiquetas sucheridas
 pocket-panel-saved-tags-saved = Etiquetas anyadidas
-pocket-panel-signup-view-list = Veyer la lista
 
 ## about:pocket-signup panel
 
@@ -42,7 +41,6 @@ pocket-panel-signup-tagline-story-two = Visualizar en { -pocket-brand-name } qua
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = La mía lista
 pocket-panel-home-welcome-back = Bienveniu atra vez!
 pocket-panel-home-paragraph = Puetz fer servir { -pocket-brand-name } pa explorar y alzar pachinas web, articlos, videos, podcasts u tornar ta lo has estau leyendo.
 pocket-panel-home-explore-popular-topics = Explorar los temas populars

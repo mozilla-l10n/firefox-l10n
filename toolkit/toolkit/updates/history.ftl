@@ -23,5 +23,7 @@ state-header = Estau
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Detalles
+
 update-installed-on = Instalau en: { $date }
+
 update-status = Estau: { $status }

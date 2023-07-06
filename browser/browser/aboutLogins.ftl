@@ -7,11 +7,6 @@ about-logins-page-title = Inicios de sesión y claus
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Buscar nombres d'usuario
-
-create-login-button = Creyar un nuevo nombre d'usuario
-
 fxaccounts-sign-in-text = Acceder a las claus dende totz los tuyos dispositivos
 fxaccounts-avatar-button =
     .title = Chestionar la cuenta
@@ -86,9 +81,10 @@ login-item-copied-password-button-text = S'ha copiau!
 login-item-save-changes-button = Alzar los cambios
 login-item-save-new-button = Alzar
 login-item-cancel-button = Cancelar
-login-item-time-changed = Zaguera modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Creau: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Zaguer uso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -143,6 +139,11 @@ about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
 confirm-delete-dialog-message = Esta acción no se puet desfer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 
+## Variables
+##   $count (number) - Number of items
+
+##
+
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y claus
 about-logins-confirm-export-dialog-message = Las tuyas claus s'han alzau como testo lechible (exemplo, BadP@ssw0rd) asinas que qualsiquiera que pueda ubrir lo archivo alzau podrá leyer-las.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
@@ -159,7 +160,6 @@ about-logins-breach-alert-date = Iste trenque ha ocurriu en { DATETIME($date, da
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Ir ta { $hostname }
-about-logins-breach-alert-learn-more-link = Saber-ne mas
 
 ## Vulnerable Password notification
 

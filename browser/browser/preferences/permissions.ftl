@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Excepcions
-    .style = width: 48em
-
 permissions-window2 =
     .title = Excepcions
     .style = min-width: 48em
@@ -92,20 +88,11 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor valido
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Excepcions pa la protección de seguimiento millorada
-    .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Excepcions pa la protección de seguimiento millorada
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Has desactivau las proteccions d'estes puestos web.
 
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = Excepcions - Cookies y datos d'o puesto
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = Excepcions - Cookies y datos d'o puesto
@@ -114,20 +101,12 @@ permissions-exceptions-cookie-desc = Puetz especificar los puestos web a qui se 
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Excepcions - Modo HTTPS nomás
-    .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Excepcions - Modo HTTPS nomás
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Puetz desactivar lo modo "HTTPS nomás" en pachinas web especificas. { -brand-short-name } no mirará de cambiar a una connexión HTTPS segura en ixes puestos. Las excepcions no s'aplican en as finestras privadas.
 
 ## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window =
-    .title = Pachinas web autorizadas- Pop-ups
-    .style = { permissions-window.style }
 
 permissions-exceptions-popup-window2 =
     .title = Pachinas web autorizadas- Pop-ups
@@ -136,20 +115,12 @@ permissions-exceptions-popup-desc = Puede especificar qué puestos web pueden ub
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Excepcions - Inicios de sesión alzaus
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Excepcions - Inicios de sesión alzaus
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = No s'alzarán los datos d'inicio en os siguients puestos web
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Pachinas web autorizadas- Instalación de complementos
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Pachinas web autorizadas- Instalación de complementos
@@ -158,20 +129,12 @@ permissions-exceptions-addons-desc = Puede especificar qué puestos web pueden i
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Achustes - Lectura automatica
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Achustes - Lectura automatica
     .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Puetz chestionar dende aquí los puestos que no siguen los parametros de reproducción automatica per defecto.
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = Achustes - Permisos de notificación
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = Achustes - Permisos de notificación
@@ -183,10 +146,6 @@ permissions-site-notification-disable-desc = Esto privará que garra puesto web 
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Achustes - Permisos de localización
-    .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Achustes - Permisos de localización
     .style = { permissions-window2.style }
@@ -196,10 +155,6 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Esto privará que garra puesto web no listau alto te pueda demandar permiso pa acceder ta la tuya ubicación. Blocar l'acceso a la tuya ubicación podría trencar bella caracteristica de bells puestos web.
 
 ## Site Permissions - Virtual Reality
-
-permissions-site-xr-window =
-    .title = Achustes - Permisos de realidat virtual
-    .style = { permissions-window.style }
 
 permissions-site-xr-window2 =
     .title = Achustes - Permisos de realidat virtual
@@ -211,10 +166,6 @@ permissions-site-xr-disable-desc = Esto privará a totz los puestos web que no s
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Achustes - Permisos d'acceso a camara
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Achustes - Permisos d'acceso a camara
     .style = { permissions-window2.style }
@@ -225,10 +176,6 @@ permissions-site-camera-disable-desc = Esto privará que garra puesto web no lis
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Achustes - Permisos d'acceso a microfono
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Achustes - Permisos d'acceso a microfono
     .style = { permissions-window2.style }
@@ -236,3 +183,8 @@ permissions-site-microphone-desc = Los siguients puestos web han demandau acceso
 permissions-site-microphone-disable-label =
     .label = Blocar nuevas demandas d'acceso a lo microfono
 permissions-site-microphone-disable-desc = Esto privará que garra puesto web no listau alto pueda demandar permiso d'acceso a lo tuyo microfono. Blocar l'acceso a lo microfono puede trencar bella caracteristica de bell puesto web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
