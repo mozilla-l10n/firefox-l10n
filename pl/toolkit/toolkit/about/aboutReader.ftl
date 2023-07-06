@@ -4,6 +4,7 @@
 
 about-reader-loading = Wczytywanie…
 about-reader-load-error = Nie udało się wczytać artykułu z tej strony
+
 about-reader-color-scheme-light = Jasny
     .title = Jasny schemat kolorów
 about-reader-color-scheme-dark = Ciemny
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Schemat kolorów sepii
 about-reader-color-scheme-auto = Auto
     .title = Automatyczny schemat kolorów
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

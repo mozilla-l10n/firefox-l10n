@@ -30,6 +30,7 @@ webrtc-item-browser = karta
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Nieznane źródło
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Karty udostępniające zasoby
     .accesskey = K
+
 webrtc-sharing-window = Inne okno aplikacji jest udostępniane.
 webrtc-sharing-browser-window = { -brand-short-name } jest udostępniany.
 webrtc-sharing-screen = Cały ekran jest udostępniany.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Preferencje udostępniania…
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Preferencje udostępniania karcie „{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Udostępnianie obrazu z kamery karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -100,6 +103,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Udostępnianie obrazu z kamery { $tabCount } kartom
            *[many] Udostępnianie obrazu z kamery { $tabCount } kartom
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Udostępnianie dźwięku z mikrofonu karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -109,6 +113,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Udostępnianie dźwięku z mikrofonu { $tabCount } kartom
            *[many] Udostępnianie dźwięku z mikrofonu { $tabCount } kartom
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Udostępnianie aplikacji karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -118,6 +123,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Udostępnianie aplikacji { $tabCount } kartom
            *[many] Udostępnianie aplikacji { $tabCount } kartom
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Udostępnianie obrazu ekranu karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -127,6 +133,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Udostępnianie obrazu ekranu { $tabCount } kartom
            *[many] Udostępnianie obrazu ekranu { $tabCount } kartom
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Udostępnianie obrazu okna karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -136,6 +143,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Udostępnianie obrazu okna { $tabCount } kartom
            *[many] Udostępnianie obrazu okna { $tabCount } kartom
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Udostępnianie obrazu karty karcie „{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -169,7 +177,6 @@ webrtc-allow-share-screen-and-audio-capture = Czy udostępnić dźwięk tej kart
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Czy zezwolić witrynie „{ $origin }” na udostępnienie dźwięku tej karty witrynie „{ $thirdParty }”?
 webrtc-allow-share-camera-unsafe-delegation = Czy zezwolić witrynie „{ $origin }” na udostępnienie obrazu z kamery witrynie „{ $thirdParty }”?
-webrtc-allow-share-microphone-unsafe-delegations = Czy zezwolić witrynie „{ $origin }” na udostępnienie dźwięku z mikrofonu witrynie „{ $thirdParty }”?
 webrtc-allow-share-microphone-unsafe-delegation = Czy zezwolić witrynie „{ $origin }” na udostępnienie dźwięku z mikrofonu witrynie „{ $thirdParty }”?
 webrtc-allow-share-screen-unsafe-delegation = Czy zezwolić witrynie „{ $origin }” na udostępnienie obrazu ekranu witrynie „{ $thirdParty }”?
 # "Speakers" is used in a general sense that might include headphones or
@@ -184,6 +191,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Czy zezwolić wi
 
 webrtc-share-screen-warning = Ekran udostępniaj wyłącznie stronom, którym ufasz. Udostępnianie umożliwia podejrzanym stronom przeglądanie sieci jako Ty i kradzież prywatnych danych.
 webrtc-share-browser-warning = Program { -brand-short-name } udostępniaj wyłącznie stronom, którym ufasz. Udostępnianie umożliwia podejrzanym stronom przeglądanie sieci jako Ty i kradzież prywatnych danych.
+
 webrtc-share-screen-learn-more = Więcej informacji
 webrtc-pick-window-or-screen = wybierz okno lub ekran
 webrtc-share-entire-screen = cały ekran
@@ -220,6 +228,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Pamiętaj tę decyzję
 webrtc-mute-notifications-checkbox = Nie wyświetlaj powiadomień ze stron podczas udostępniania
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nie mógł zezwolić na trwały dostęp do obrazu ekranu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nie mógł zezwolić na trwały dostęp do dźwięku karty bez pytania o to, której karty dźwięk udostępniać.
 webrtc-reason-for-no-permanent-allow-insecure = Połączenie z tą stroną nie jest zabezpieczone. W celu ochrony użytkownika, { -brand-short-name } zezwoli na dostęp jedynie do czasu zamknięcia programu.
