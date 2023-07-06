@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = Mën nga wone dalub web yi ñu may ñu samp
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

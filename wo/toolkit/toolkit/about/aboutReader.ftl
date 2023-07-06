@@ -4,6 +4,7 @@
 
 about-reader-loading = Yeb...
 about-reader-load-error = Yebbug jukki bi ca xët wa antuwul
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

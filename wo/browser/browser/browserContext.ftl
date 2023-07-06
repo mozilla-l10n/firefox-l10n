@@ -189,10 +189,6 @@ main-context-menu-frame-reload =
     .label = Yeesal kaadar bi
     .accesskey = r
 
-main-context-menu-frame-bookmark =
-    .label = Mandarga xët ci kaadar bi
-    .accesskey = k
-
 main-context-menu-frame-save-as =
     .label = Aar kaadar bi ci…
     .accesskey = c

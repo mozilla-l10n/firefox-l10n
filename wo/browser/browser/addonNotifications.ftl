@@ -21,6 +21,7 @@ xpinstall-disabled = Sampum xeltéef yi dindeekuna. Cuqal ci Sàjj te nga jéema
 ## Add-on removal warning
 
 addon-download-verifying = Wóorliku baa ngiy dox
+
 addon-install-cancel-button =
     .label = Neenal
     .accesskey = e

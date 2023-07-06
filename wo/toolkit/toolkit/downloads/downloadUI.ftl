@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Bul génn
        *[other] Bul génn
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Soo dindee jokkoo bi, 1 yeb dina ñu neen. Ndax bëgg nga dëgg dindi jokkoo bi?
        *[other] Soo dindee jokkoo bi,,{ $downloadsCount } yeb yi dina ñu neen. Ndax bëgg nga dëgg dindi jokkoo bi?
     }
 download-ui-dont-go-offline-button = Toog ci jokkoo
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Neenal yeb bi

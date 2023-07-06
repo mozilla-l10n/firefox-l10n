@@ -34,6 +34,7 @@ menu-quit =
             [windows] G
            *[other] G
         }
+
 menu-about =
     .label = Ñeel { -brand-shorter-name }
     .accesskey = A
@@ -174,8 +175,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Mandarga xët yi
     .accesskey = M
-menu-bookmark-edit =
-    .label = Soppali mandarga xët wile
 menu-bookmarks-all-tabs =
     .label = Mandargaal koñ yépp…
 menu-bookmarks-toolbar =

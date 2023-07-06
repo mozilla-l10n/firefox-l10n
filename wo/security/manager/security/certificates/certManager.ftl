@@ -5,10 +5,6 @@
 certmgr-tab-servers =
     .label = Serwëër yi
 
-certmgr-delete-cert =
-    .title = Màbb benn sarsifikaa
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Màbb benn sarsifikaa
     .style = min-width: 48em; min-height: 24em;

@@ -22,5 +22,7 @@ state-header = Nekkin
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Benn bennal yi
+
 update-installed-on = Besu sampu : { $date }
+
 update-status = Nekkin: { $status }

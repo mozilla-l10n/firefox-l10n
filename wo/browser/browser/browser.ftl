@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Njoowug sutura)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Njoowug sutura)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Njoowug sutura)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Njoowug sutura)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -125,6 +92,7 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Dem ci koñ bi:
+
 urlbar-go-button =
     .tooltiptext = Dem ci xët wi ñu joxoñ ci banqaasu makkaan
 
@@ -174,8 +142,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = Soppali mandarga xët wile
 bookmarks-toolbar-menu =
     .label = Sa banqaasu bopp
 bookmarks-toolbar-placeholder =
@@ -213,6 +179,7 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Jox ndigal popup yi ngir { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Boloke popup yi ngir { $uriHost }
     .accesskey = p
@@ -234,17 +201,22 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Yeb yi
+
 navbar-overflow =
     .tooltiptext = Yeneeni jumtukaay...
+
 navbar-search =
     .title = Wut
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Koñi jowwkat bi
+
 tabs-toolbar-new-tab =
     .label = Làcc wu wees
+
 tabs-toolbar-list-all-tabs =
     .label = Lim Làcc yépp
     .tooltiptext = Lim Làcc yépp
@@ -262,6 +234,9 @@ tabs-toolbar-list-all-tabs =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } tere na yab boppamu xët wi.
@@ -275,6 +250,8 @@ refresh-blocked-redirect-label = { -brand-short-name } tere na jubalaat boppam c
 
 ## Pop-up Notification
 
+
+## Add-on Pop-up Notifications
 
 ## Pop-up warning
 

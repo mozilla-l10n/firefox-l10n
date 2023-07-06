@@ -22,6 +22,17 @@ neterror-load-error-try-again = Dal bi mën na nekk kenn mënu cee jot walla mu 
 neterror-load-error-connection = Su fekkee mënuloo joow ci benn dal, seetal sa jokkoo ordinatëër ak lëkkale gi.
 neterror-load-error-firewall = Su fekkee sa ordinatëër walla sa lëkkale danu leen aar ak paarfë walla benn proxy seetal ndax { -brand-short-name } am ndigal agg ci Web bi.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Settantal mbindu turu dencukaay bi .
 neterror-file-not-found-moved = Seetal ndax kenn randalul dencukaay bi, walla ñu jox ko beneen tur mbaa ñu mabb ko.
 

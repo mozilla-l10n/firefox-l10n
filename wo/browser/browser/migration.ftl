@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Palanteer yi ak koñ yi
 browser-data-session-label =
     .value = Palanteer yi ak koñ yi
+

@@ -105,6 +105,8 @@ media-device-channels = Yoon
 media-device-rate = Baraay
 media-device-latency = Yeexaay
 
+## Codec support table
+
 ##
 
 
