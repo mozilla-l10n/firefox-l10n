@@ -26,13 +26,6 @@ about-networking-messages-received = Alınğan Mesajlar
 about-networking-bytes-sent = Yiberilgen Bayt
 about-networking-bytes-received = Alınğan Bayt
 about-networking-logging = Kütükleme
-about-networking-log-tutorial = Bu aletniñ nasıl qullanılğanı aqqındaki talimatlar içün <a data-l10n-name="logging">HTTP Kütüklemesi</a>'ni körüñiz.
-about-networking-current-log-file = Cari Kütük Dosyesi:
-about-networking-current-log-modules = Cari Kütük Modülleri:
-about-networking-set-log-file = Kütük Dosyesini Tesbit Et
-about-networking-set-log-modules = Kütük Modüllerini Tesbit Et
-about-networking-start-logging = Kütüklemeni Başlat
-about-networking-stop-logging = Kütüklemeni Toqtat
 about-networking-dns-lookup = DNS Baqıberişi
 about-networking-dns-lookup-button = Çez
 about-networking-dns-domain = Saa:

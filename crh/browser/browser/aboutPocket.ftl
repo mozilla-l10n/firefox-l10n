@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = Saqla
 pocket-panel-saved-saving-tags = Saqlana…
 pocket-panel-saved-suggested-tags = Telqin Etilgen Nişanlar
 pocket-panel-saved-tags-saved = Nişanlar Eklendi
-pocket-panel-signup-view-list = Listeni Köster
 
 ## about:pocket-signup panel
 

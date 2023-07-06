@@ -45,10 +45,6 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 
-browser-languages-window =
-    .title = { -brand-short-name } Til Ayarları
-    .style = width: 40em
-
 browser-languages-window2 =
     .title = { -brand-short-name } Til Ayarları
     .style = min-width: 40em

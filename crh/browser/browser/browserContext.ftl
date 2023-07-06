@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Bu Saifeni İmle
-    .accesskey = B
-    .tooltiptext = Bu saifeni imle
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Bu Saifeni İmle
-    .accesskey = B
-    .tooltiptext = Bu saifeni imle ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Bu Saifeimini Tarir Et
-    .accesskey = B
-    .tooltiptext = Bu saifeimini tarir et
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Bu Saifeimini Tarir Et
-    .accesskey = B
-    .tooltiptext = Bu saifeimini tarir et ({ $shortcut })
-
 main-context-menu-open-link =
     .label = İlişimni Aç
     .accesskey = A
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = Audionı E-poçtala…
     .accesskey = A
 
-main-context-menu-plugin-play =
-    .label = Bu plaginni faalleştir
-    .accesskey = f
-
-main-context-menu-plugin-hide =
-    .label = Bu plaginni gizle
-    .accesskey = z
-
 main-context-menu-save-to-pocket =
     .label = Saifeni { -pocket-brand-name }’ke Saqla
     .accesskey = k
@@ -296,10 +264,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Çerçiveni Kene Yükle
     .accesskey = K
-
-main-context-menu-frame-bookmark =
-    .label = Bu Çerçiveni İmle
-    .accesskey = e
 
 main-context-menu-frame-save-as =
     .label = Çerçiveni Şöyle Saqla…

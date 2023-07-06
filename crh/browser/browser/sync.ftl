@@ -10,6 +10,8 @@ fxa-menu-send-tab-to-device =
             [one] İlmekni Cihazğa Yiber
            *[other] { $tabCount } İlmekni Cihazğa Yiber
         }
+
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Cihazlar Aynılaştırıla…
+

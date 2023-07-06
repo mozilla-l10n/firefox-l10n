@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Dahiliyleri
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc'ni şöyle saqla
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC (Akustik Akisseda Lâğvı) Kütükleme
 about-webrtc-aec-logging-off-state-label = AEC Kütüklemesini başlat
 about-webrtc-aec-logging-on-state-label = AEC Kütüklemesini toqtat
 about-webrtc-aec-logging-on-state-msg = AEC Kütüklemesi faal (arağan ile bir qaç daqqa laqırdı etiñiz ve soñra yaqalamanı toqtatıñız)
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC Kütüklemesi faal (arağan ile bir qaç daqqa laqırdı etiñiz ve soñra yaqalamanı toqtatıñız)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Yaqalanğan kütük dosyeleri şurada tapılabilir: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -75,10 +78,12 @@ about-webrtc-type-remote = Uzaqtan
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Tayinli
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Saylanğan
+
 about-webrtc-save-page-label = Saifeni Saqla
 about-webrtc-debug-mode-msg-label = İlletsizlendirim Tarzı
 about-webrtc-debug-mode-off-state-label = İlletsizlendirim Tarzını Başlat
@@ -91,6 +96,7 @@ about-webrtc-log-show-msg = kütükni göster
     .title = bu kesimni kenişletmek içün çertiñiz
 about-webrtc-log-hide-msg = kütükni gizle
     .title = bu kesimni eştirmek içün çertiñiz
+
 about-webrtc-log-section-show-msg = Kütükni göster
     .title = Bu kesimni kenişletmek içün çertiñiz
 about-webrtc-log-section-hide-msg = Kütükni gizle
@@ -157,6 +163,7 @@ about-webrtc-save-page-msg = saife şunda saqlandı: { $path }
 about-webrtc-debug-mode-off-state-msg = izleme kütügi şurada tapılabilir: { $path }
 about-webrtc-debug-mode-on-state-msg = illetsizlendirim tarzı faal, izleme kütügi şurada: { $path }
 about-webrtc-aec-logging-off-state-msg = yaqalanğan kütük dosyeleri şurada tapılabilir: { $path }
+
 about-webrtc-save-page-complete-msg = Saife şunda saqlandı: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Izleme kütügi şurada tapılabilir: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Illetsizlendirim tarzı faal, izleme kütügi şurada: { $path }
@@ -168,6 +175,7 @@ about-webrtc-debug-mode-toggled-on-state-msg = Illetsizlendirim tarzı faal, izl
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = İstiqrarsızlıq { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

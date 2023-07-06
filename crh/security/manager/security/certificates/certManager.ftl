@@ -21,10 +21,6 @@ certmgr-mine = Bu teşkilâtlardan sizni kimliklendirgen şeadetnameleriñiz bar
 certmgr-people = Bu kişilerni kimliklendirgen dosyelengen şeadetnameleriñiz bar
 certmgr-ca = Bu şeadetname salahiyetlerini kimliklendirgen dosyelengen şeadetnameleriñiz bar
 
-certmgr-edit-ca-cert =
-    .title = CA Sertifika Güvenlik Ayarlarını düzenle
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA Sertifika Güvenlik Ayarlarını düzenle
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Bu sertifika posta qullanıcılarını tanımlar.
 
-certmgr-delete-cert =
-    .title = Sertifika Sil
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Sertifika Sil
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Sunucı
-
-certmgr-override-lifetime =
-    .label = Yaşam müddeti
 
 certmgr-token-name =
     .label = Güvenlik Aygıtları

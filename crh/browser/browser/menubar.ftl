@@ -34,9 +34,11 @@ menu-quit =
             [windows] Ç
            *[other] k
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } tatbiqini terk et
+
 menu-about =
     .label = { -brand-shorter-name } Aqqında
     .accesskey = a
@@ -194,8 +196,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Saife-imleri
     .accesskey = S
-menu-bookmark-edit =
-    .label = Bu Saifeimini Tarir Et
 menu-bookmarks-all-tabs =
     .label = İlmeklerniñ Episini İmle…
 menu-bookmarks-toolbar =

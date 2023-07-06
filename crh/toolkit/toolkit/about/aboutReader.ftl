@@ -4,6 +4,7 @@
 
 about-reader-loading = Yüklene…
 about-reader-load-error = Maqale saifeden yüklenamadı
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = Pencereler ve İlmekler
 browser-data-session-label =
     .value = Pencereler ve İlmekler
+

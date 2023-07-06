@@ -12,3 +12,5 @@ about-private-browsing-not-private = Al-azırda hususiy bir pencerede degilsiñi
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+## Strings used in a promotion message for cookie banner reduction
+

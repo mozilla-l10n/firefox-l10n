@@ -50,5 +50,9 @@ url-classifier-disabled = Naqabilleştirilgen
 url-classifier-updating = yañartıla
 url-classifier-cannot-update = yañartılalmay
 url-classifier-success = muvaffaqiyet
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = yañartma hatası ({ $error })
 url-classifier-download-error = endirme hatası ({ $error })

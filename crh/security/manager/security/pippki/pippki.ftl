@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Sertifika indiriliyor
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Sertifika indiriliyor
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Önemli: Eğer sertifika yedekleme parolanızı unutursa
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Korunmuş İşaretin Kimlik Doğrulaması
-protected-auth-msg = Lütfen işarete kimliğinizi doğrulayın. Kimlik doğrulama yöntemi işaretinizin türüne göre değişir.
-protected-auth-token = İşaret:
+## Protected authentication alert
+

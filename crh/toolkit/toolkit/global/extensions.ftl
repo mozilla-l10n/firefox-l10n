@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Vazgeç
     .accesskey = z
+
 webext-perms-sideload-text = Bilgisayarıñızdaki bir başqa program keziciñizge tesir etebilecek bir eklenti qurdı. Lütfen bu eklentiniñ ruhset istemlerini közden keçirip onı Qabilleştirmeni yaki (onı ğayrıfaalleştirilgen keliş qaldırmaq üzre) Vazgeçmeni saylañız.
 webext-perms-sideload-text-no-perms = Bilgisayarıñızdaki bir başqa program keziciñizge tesir etebilecek bir eklenti qurdı. Lütfen onı Qabilleştirmeni yaki (onı ğayrıfaalleştirilgen keliş qaldırmaq üzre) Vazgeçmeni saylañız.
 webext-perms-sideload-enable =
@@ -30,9 +31,11 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Vazgeç
     .accesskey = z
+
 webext-perms-update-accept =
     .label = Yañart
     .accesskey = Y
+
 webext-perms-optional-perms-list-intro = Aşağıdakilerni yapası kele:
 webext-perms-optional-perms-allow =
     .label = İzin Ber
@@ -40,10 +43,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = İnkâr Et
     .accesskey = n
+
 webext-perms-host-description-all-urls = Ağ-saytlarınıñ episi içün verileriñizge irişmek
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } saasındaki saytlar içün verileriñizge irişmek
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -55,6 +61,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } içün verileriñizge irişmek
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

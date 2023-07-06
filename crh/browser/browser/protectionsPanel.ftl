@@ -42,3 +42,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Vazgeç
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Maruza Yiber
+
+# Cookie Banner Handling
+

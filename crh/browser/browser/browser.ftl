@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Hususiy Kezinüv)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Hususiy Kezinüv)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Hususiy Kezinüv)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Hususiy Kezinüv)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -71,16 +38,12 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Qonum istemi panelini aç
 urlbar-storage-access-anchor =
     .tooltiptext = Kezinüv faaliyeti ruhset panelini aç
-urlbar-translate-notification-anchor =
-    .tooltiptext = Bu saifeni tercime et
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Sayt ile pencereler yaki ekranıñıznı üleşmeni idare etiñiz
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Devre-tışı mağaz mesaj panelini aç
 urlbar-password-notification-anchor =
     .tooltiptext = Saqlanğan sır-söz mesaj panelini aç
-urlbar-translated-notification-anchor =
-    .tooltiptext = Saife tercimesini idare et
 urlbar-plugins-notification-anchor =
     .tooltiptext = Plagin qullanımını idare et
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -124,19 +87,18 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt içün kanaviçe veriler istihracını bloklağan olasıñız.
 urlbar-midi-blocked =
     .tooltiptext = Bu sayt içün MİDİ irişimini bloklağan olasıñız.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Bu saifeimini tarir et ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bu saifeni imle ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Eklentini İdare Et…
 
 ## Auto-hide Context Menu
 
@@ -151,12 +113,14 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qıdırma ayarlarını deñiştir
+
 search-one-offs-context-open-new-tab =
     .label = Yañı İlmekte Qıdır
     .accesskey = l
 search-one-offs-context-set-as-default =
     .label = Ögbelgilengen Qıdırma Motorı Olaraq Tesbit Et
     .accesskey = b
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -192,6 +156,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Saqlağanda muarrirni köster
     .accesskey = S
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -208,6 +173,7 @@ identity-passive-loaded = Bu saifeniñ bazı qısımları (meselâ, suretler) em
 identity-active-loaded = Bu saifede imayeni naqabilleştirdiñiz.
 identity-weak-encryption = Bu saife zayıf şifreleme qullana.
 identity-insecure-login-forms = Bu saifede kirsetilgen içeri imzalanışlarğa halel kelebilir.
+
 identity-permissions-reload-hint = Deñişikliklerniñ uyğulanması içün saifeni kene yüklemeñiz kerekebilir.
 identity-clear-site-data =
     .label = Çörekler ve Sayt Verilerini Temizle…
@@ -218,17 +184,12 @@ identity-description-insecure = Bu saytqa bağlantıñız hususiy degildir. Tesl
 identity-description-insecure-login-forms = Bu saifede kirsetecegiñiz içeri imzalanış malümatı emniyetli degildir ve oña halel berilebilir.
 identity-description-weak-cipher-intro = Bu ağ-saytına bağlantıñız zayıf şifreleme qullana ve hususiy degildir.
 identity-description-weak-cipher-risk = Başqa kişiler malümatıñıznı körebilir yaki ağ-saytınıñ davranışını başqalaştırabilir.
-identity-description-active-blocked = { -brand-short-name } bu saifeniñ emniyetli olmağan qısımlarını bloklağandır. <label data-l10n-name="link">Daa Çoq Ögren</label>
 identity-description-active-blocked2 = { -brand-short-name } bu saifeniñ emniyetli olmağan qısımlarını bloklağandır.
 identity-description-passive-loaded = Bağlantıñız hususiy degildir ve bu sayt ile üleşkeniñiz malümat başqaları tarafından körülebilir edi.
-identity-description-passive-loaded-insecure = Bu sayt emniyetli olmağan muhteva (meselâ, suretler) ihtiva ete. <label data-l10n-name="link">Daa Çoq Ögren</label>
-identity-description-passive-loaded-mixed = { -brand-short-name } bazı muhtevanı bloklağan olmasına rağmen, bu saifede halâ emniyetli olmağan muhteva (meselâ, suretler) bardır. <label data-l10n-name="link">Daa Çoq Ögren</label>
 identity-description-passive-loaded-insecure2 = Bu sayt emniyetli olmağan muhteva (meselâ, suretler) ihtiva ete.
 identity-description-passive-loaded-mixed2 = { -brand-short-name } bazı muhtevanı bloklağan olmasına rağmen, bu saifede halâ emniyetli olmağan muhteva (meselâ, suretler) bardır.
 identity-description-active-loaded = Bu sayt emniyetli olmağan muhteva (meselâ, bitikler) ihtiva ete ve oña bağlantıñız hususiy degildir.
 identity-description-active-loaded-insecure = Bu sayt ile üleşkeniñiz malümat (sır-sözler, mesajlar, kredit kartları vs. kibi) başqaları tarafından körülebilir edi.
-identity-learn-more =
-    .value = Daa Çoq Ögren
 identity-disable-mixed-content-blocking =
     .label = Şimdilik imayeni naqabilleştir
     .accesskey = n
@@ -270,15 +231,19 @@ popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ epi
 
 urlbar-placeholder =
     .placeholder = Qıdırıñız yaki adres kirsetiñiz
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } ile qıdır yaki adresni kirset
+
 urlbar-switch-to-tab =
     .value = İlmekke almaş:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
+
 urlbar-go-button =
     .tooltiptext = Qonum Çubuğındaki adreske bar
 urlbar-page-action-button =
@@ -324,9 +289,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> şimdi tam-ekrandır
 fullscreen-warning-no-domain = Bu vesiqa şimdi tam-ekrandır
+
+
 fullscreen-exit-button = Tam-Ekrandan Çıq (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam-Ekrandan Çıq (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -378,8 +346,7 @@ bookmarks-search =
     .label = Saife-imlerini Qıdır
 bookmarks-tools =
     .label = Saife-imleme Aletleri
-bookmarks-bookmark-edit-panel =
-    .label = Bu Saifeimini Tarir Et
+
 bookmarks-toolbar-menu =
     .label = Saife-imleri Alet Çubuğı
 bookmarks-toolbar-placeholder =
@@ -406,22 +373,27 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Alet Çubuğını Şahsiyleştir…
     .accesskey = s
+
 toolbar-button-email-link =
     .label = İlişimni E-poştala
     .tooltiptext = Bu saifege bir ilişimni e-poştala
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Saifeni Saqla
     .tooltiptext = Bu saifeni saqla ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Dosye Aç
     .tooltiptext = Bir dosye aç ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Aynılaştırılğan İlmekler
     .tooltiptext = Diger cihazlardan ilmeklerni köster
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -449,6 +421,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } içün peyda pencerelerge izin ber
     .accesskey = P
+
 popups-infobar-block =
     .label = { $uriHost } içün peyda pencerelerni blokla
     .accesskey = P
@@ -470,30 +443,36 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Endirmeler
+
 navbar-overflow =
     .tooltiptext = Daa çoq alet…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Bastır
     .tooltiptext = Bu saifeni bastır… ({ $shortcut })
+
 navbar-home =
     .label = Ev
     .tooltiptext = { -brand-short-name } Ev Saifesi
+
 navbar-library =
     .label = Kitaphane
     .tooltiptext = Keçmiş, saqlanğan saife-imleri ve daa fazlasını köster
+
 navbar-search =
     .title = Qıdır
-navbar-accessibility-indicator =
-    .tooltiptext = İrişilebilirlik Hususiyetleri Qabilleştirilgen
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Kezici ilmekleri
+
 tabs-toolbar-new-tab =
     .label = Yañı İlmek
+
 tabs-toolbar-list-all-tabs =
     .label = İlmeklerniñ episini tiz
     .tooltiptext = İlmeklerniñ episini tiz
@@ -515,10 +494,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu saifege öz-özünden kene yüklenmege izin bermedi.
 refresh-blocked-redirect-label = { -brand-short-name } bu saifeniñ öz-özünden başqa bir saifege kene yönetmesine izin bermedi.
+
 refresh-blocked-allow =
     .label = İzin Ber
     .accesskey = z
@@ -558,6 +541,7 @@ popup-warning-button =
             [windows] İ
            *[other] T
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Cari Kütük Dosyesi:
-about-logging-current-log-modules = Cari Kütük Modülleri:
 about-logging-log-tutorial = Bu aletniñ nasıl qullanılğanı aqqındaki talimatlar içün <a data-l10n-name="logging">HTTP Kütüklemesi</a>'ni körüñiz.
 about-logging-set-log-file = Kütük Dosyesini Tesbit Et
 about-logging-set-log-modules = Kütük Modüllerini Tesbit Et
 about-logging-start-logging = Kütüklemeni Başlat
 about-logging-stop-logging = Kütüklemeni Toqtat
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

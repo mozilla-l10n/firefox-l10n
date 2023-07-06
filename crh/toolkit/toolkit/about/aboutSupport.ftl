@@ -114,6 +114,8 @@ media-device-channels = Kanallar
 media-device-rate = Nisbet
 media-device-latency = Keçikme
 
+## Codec support table
+
 ##
 
 intl-title = Milletleraralaştırma & Maalliyleştirme

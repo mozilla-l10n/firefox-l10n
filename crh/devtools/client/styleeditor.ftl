@@ -16,7 +16,6 @@ styleeditor-save-button = Saqla
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Uslûp Muarriri seçenekleri
-styleeditor-media-rules = @media qaideleri
 styleeditor-editor-textbox =
     .data-placeholder = Mında CSS tuşlañız.
 styleeditor-no-stylesheet = Bu saifeniñ uslûp yaprağı yoqtır.
@@ -34,6 +33,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Satırğa sekir…
     .accesskey = S
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Terk etme
        *[other] Çıqma
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Eger şimdi hat-tışı barsañız, 1 endirme lâğvetilecek. Hat-tışı barmağa istegeniñizden eminsiñizmi?
        *[other] Eger şimdi hat-tışı barsañız, { $downloadsCount } endirme lâğvetilecek. Hat-tışı barmağa istegeniñizden eminsiñizmi?
     }
 download-ui-dont-go-offline-button = Hat-üstü Qal
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Hususiy Kezinüv pencereleriniñ episini şimdi qapatsañız, 1 endirmeden vazgeçilecek. Hususiy Kezinüv tarzından çıqmağa istegeniñizge eminsiñizmi?
        *[other] Hususiy Kezinüv pencereleriniñ episini şimdi qapatsañız, { $downloadsCount } endirmeden vazgeçilecek. Hususiy Kezinüv tarzından çıqmağa istegeniñizge eminsiñizmi?
     }
 download-ui-dont-leave-private-browsing-button = Hususiy Kezinüvde Qal
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 Endirmeden Vazgeç
