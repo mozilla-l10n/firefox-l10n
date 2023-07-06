@@ -23,8 +23,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Vierç intun gnûf barcon privât
     .accesskey = P
+
 places-empty-bookmarks-folder =
     .label = (Vueide)
+
 places-add-bookmark =
     .label = Zonte segnelibri…
     .accesskey = B
@@ -37,6 +39,7 @@ places-add-folder =
 places-add-separator =
     .label = Zonte separadôr
     .accesskey = S
+
 places-view =
     .label = Viodude
     .accesskey = o
@@ -55,12 +58,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Par date e sît
     .accesskey = P
+
 places-history-search =
     .placeholder = Cîr te cronologjie
 places-history =
     .aria-label = Cronologjie
 places-bookmarks-search =
     .placeholder = Cîr tai segnelibris
+
 places-delete-domain-data =
     .label = Dismentee chest sît
     .accesskey = D
@@ -94,18 +99,22 @@ places-delete-page =
            *[other] Elimine lis pagjinis
         }
     .accesskey = E
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnelibris gjestîts
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Sot-cartele
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Altris segnelibris
+
 places-show-in-folder =
     .label = Mostre te cartele
     .accesskey = c
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -116,6 +125,7 @@ places-delete-bookmark =
            *[other] Elimine segnelibris
         }
     .accesskey = E
+
 # Variables:
 #   $count (number) - The number of bookmarks being added.
 places-create-bookmark =
@@ -125,98 +135,125 @@ places-create-bookmark =
            *[other] Zonte pagjinis tai segnelibris…
         }
     .accesskey = B
+
 places-untag-bookmark =
     .label = Gjave etichete
     .accesskey = G
+
 places-manage-bookmarks =
     .label = Gjestìs segnelibris
     .accesskey = M
+
 places-forget-about-this-site-confirmation-title = Dismentee chest sît
-# Variables:
-# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-message = Cheste azion e gjavarà ducj i dâts relatîfs a { $hostOrBaseDomain } includude la cronologjie, lis passwords, i cookies, la cache e lis preferencis di contignût. Continuâ pardabon?
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = Cheste azion e gjavarà i dâts relatîfs a { $hostOrBaseDomain } includûts cronologjie, cookies, memorie cache e preferencis sui contignûts. I relatîfs segnelibris e lis passwords no vignaran gjavâts. Procedi pardabon?
+
 places-forget-about-this-site-forget = Dismentee
-places-library =
-    .title = Librarie
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = Librarie
+
 places-organize-button =
     .label = Organize
     .tooltiptext = Organize i tiei segnelibris
     .accesskey = O
+
 places-organize-button-mac =
     .label = Organize
     .tooltiptext = Organize i tiei segnelibris
+
 places-file-close =
     .label = Siere
     .accesskey = S
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = Viodudis
     .tooltiptext = Cambie la viodude
     .accesskey = V
+
 places-view-button-mac =
     .label = Viodudis
     .tooltiptext = Cambie la viodude
+
 places-view-menu-columns =
     .label = Mostre colonis
     .accesskey = c
+
 places-view-menu-sort =
     .label = Met in ordin
     .accesskey = o
+
 places-view-sort-unsorted =
     .label = Cence ordin
     .accesskey = C
+
 places-view-sort-ascending =
     .label = Ordin A > Z
     .accesskey = A
+
 places-view-sort-descending =
     .label = Ordin Z > A
     .accesskey = Z
+
 places-maintenance-button =
     .label = Impuarte e salve une copie di backup
     .tooltiptext = Impuarte e fâs une copie di backup ai tiei segnelibris
     .accesskey = I
+
 places-maintenance-button-mac =
     .label = Impuarte e salve une copie di backup
     .tooltiptext = Impuarte e fâs une copie di backup ai tiei segnelibris
+
 places-cmd-backup =
     .label = Fâs un backup…
     .accesskey = b
+
 places-cmd-restore =
     .label = Ripristine
     .accesskey = R
+
 places-cmd-restore-from-file =
     .label = Sielç il file…
     .accesskey = C
+
 places-import-bookmarks-from-html =
     .label = Impuarte segnelibris di HTML…
     .accesskey = I
+
 places-export-bookmarks-to-html =
     .label = Espuarte segnelibris su HTML…
     .accesskey = E
+
 places-import-other-browser =
     .label = Impuarte dâts di un altri navigadôr…
     .accesskey = A
+
 places-view-sort-col-name =
     .label = Non
+
 places-view-sort-col-tags =
     .label = Etichetis
+
 places-view-sort-col-url =
     .label = Direzion
+
 places-view-sort-col-most-recent-visit =
     .label = Visite plui resinte
+
 places-view-sort-col-visit-count =
     .label = Numar di visitis
+
 places-view-sort-col-date-added =
     .label = Zontât
+
 places-view-sort-col-last-modified =
     .label = Ultime modifiche
+
 places-view-sortby-name =
     .label = Met in ordin par non
     .accesskey = n
@@ -238,13 +275,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = Met in ordin par etichete
     .accesskey = T
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = Torne indaûr
+
 places-forward-button =
     .tooltiptext = Va indevant
+
 places-details-pane-select-an-item-description = Sielç un element par visualizâlu e modificâ lis sôs proprietâts
+
 places-details-pane-no-items =
     .value = Nissun element
 # Variables:

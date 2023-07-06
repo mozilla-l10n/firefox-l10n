@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] No sta jessî
        *[other] No sta jessî
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Se tu ti disconetis cumò, un discjariament al vignarà anulât. Vuelistu pardabon disconetiti?
        *[other] Se tu ti disconetis cumò, { $downloadsCount } discjariaments a vignaran anulâts. Vuelistu pardabon disconetiti?
     }
 download-ui-dont-go-offline-button = Reste in linie
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Se cumò tu sieris ducj i barcons di navigazion privade, 1 discjariament al vignarà anulât. Lassâ pardabon la navigazion privade?
@@ -35,6 +37,7 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
        *[other] Se cumò tu sieris ducj i barcons di navigazion privade, { $downloadsCount } discjariaments a vignaran anulâts. Lassâ pardabon la navigazion privade?
     }
 download-ui-dont-leave-private-browsing-button = Reste te navigazion privade
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Anule un discjariament

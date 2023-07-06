@@ -9,6 +9,7 @@ about-service-workers-title = Informazions sui Service Workers
 about-service-workers-main-title = Service workers regjistrâts
 about-service-workers-warning-not-enabled = I Service Workers no son ativâts.
 about-service-workers-warning-no-service-workers = Nissun Service Worker regjistrât.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Non cache ative:</strong> { $name }
 waiting-cache-name = <strong>Non cache in spiete:</strong> { $name }
 push-end-point-waiting = <strong>Pont terminâl che al mande:</strong> { waiting }
 push-end-point-result = <strong>Pont terminâl che al mande:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Inzornament
+
 unregister-button = Deregjistre
+
 unregister-error = Impussibil deregjistrâ chest Service Worker.
+
 waiting = Daûr a spietâ…

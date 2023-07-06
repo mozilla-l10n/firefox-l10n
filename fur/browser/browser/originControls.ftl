@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = La estension no pues lei e cambiâ dâts
+
 origin-controls-quarantined =
     .label = La estension no à il permès par lei e modificâ dâts
+
 origin-controls-options =
     .label = La estension e pues lei e cambiâ i dâts:
+
 origin-controls-option-all-domains =
     .label = su ducj i sîts
+
 origin-controls-option-when-clicked =
     .label = dome cuant che e ricêf un clic
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,12 +34,19 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = No pues lei e cambiâ dâts su chest sît
+
 origin-controls-state-quarantined = No consintude di { -vendor-short-name } su chest sît
+
 origin-controls-state-always-on = E pues simpri lei e cambiâ dâts su chest sît
+
 origin-controls-state-when-clicked = Autorizazion necessarie par lei e cambiâ dâts
+
 origin-controls-state-hover-run-visit-only = Eseguìs dome par cheste visite
+
 origin-controls-state-runnable-hover-open = Vierç estension
+
 origin-controls-state-runnable-hover-run = Eseguìs estension
+
 origin-controls-state-temporary-access = E pues lei e cambiâ dâts par cheste visite
 
 ## Extension's toolbar button.
@@ -44,6 +56,7 @@ origin-controls-state-temporary-access = E pues lei e cambiâ dâts par cheste v
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -51,6 +64,7 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Autorizazion necessarie
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

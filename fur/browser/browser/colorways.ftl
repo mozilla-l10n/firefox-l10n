@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Vôs indipendentis
-colorway-collection-independent-voices-description = I colôrs a puedin cambiâ la societât. Lis nestris ultimis tonalitâts a celebrin lis vôs che a contribuissin a rindi il mont un puest miôr.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = I colôrs che a cambiin la societât
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Regjist

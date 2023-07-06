@@ -21,6 +21,10 @@ about-httpsonly-link-learn-more = Plui informazions…
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
+
 about-httpsonly-suggestion-box-header = Alternative pussibile
 about-httpsonly-suggestion-box-www-text = E je une version sigure di <em>www.{ $websiteUrl }</em>. Tu puedis visitâ cheste pagjine al puest di <em>{ $websiteUrl }</em>.
 about-httpsonly-suggestion-box-www-button = Va su www.{ $websiteUrl }

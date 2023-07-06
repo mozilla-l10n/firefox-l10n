@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Ecezions
-    .style = width: 45em
 permissions-window2 =
     .title = Ecezions
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Direzion dal sît web
     .accesskey = D
+
 permissions-block =
     .label = Bloche
     .accesskey = B
+
 permissions-disable-etp =
     .label = Zonte ecezion
     .accesskey = e
+
 permissions-session =
     .label = Permet par cheste session
     .accesskey = P
+
 permissions-allow =
     .label = Permet
     .accesskey = P
+
 permissions-button-off =
     .label = Disative
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Disative in mût temporani
     .accesskey = t
+
 permissions-site-name =
     .label = Sît web
+
 permissions-status =
     .label = Stât
+
 permissions-remove =
     .label = Gjave sît web
     .accesskey = G
+
 permissions-remove-all =
     .label = Gjave ducj i sîts web
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Salve modifichis
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Predefinît par ducj i sîts web:
+
 permissions-searchbox =
     .placeholder = Cîr sît web
+
 permissions-capabilities-autoplay-allow =
     .label = Permet audio e video
 permissions-capabilities-autoplay-block =
     .label = Bloche l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloche l'audio e il video
+
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloche
 permissions-capabilities-prompt =
     .label = Domande simpri
+
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
     .value = Bloche
 permissions-capabilities-listitem-allow-session =
     .value = Permet par cheste session
+
 permissions-capabilities-listitem-off =
     .value = Disativât
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Inserìs par plasê un non di host valit
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Ecezions pe protezion des spiis miorade
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Tu âs disativât lis protezions su chescj sîts web.
 permissions-exceptions-etp-window2 =
     .title = Ecezions pe protezion des spiis miorade
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Tu puedis specificâ su cuâi sîts web
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Ecezions - Cookies e dâts di sîts
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Ecezions - Cookies e dâts di sîts
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedi
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Ecezions - Modalitât Dome-HTTPS
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Ecezions - Modalitât Dome-HTTPS
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Tu puedis disativâ la modalitât Dome-
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Sîts web permetûts - Barcon a comparse
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Sîts web permetûts - Barcon a comparse
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Ecezions - Credenziâls salvadis
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Ecezions - Credenziâls salvadis
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Lis credenziâls par chescj sîts web
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Sîts web permetûts - Instalazion components adizionâi
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Sîts web permetûts - Instalazion components adizionâi
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Tu puedis specificâ i sîts che a puedin i
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Impostazions - Riproduzion automatiche
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Impostazions - Riproduzion automatiche
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Achì tu puedis gjestî i sîts che no van daû
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Impostazions - Permès di notifiche
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Impostazions - Permès di notifiche
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Chest al impedirà a ducj i sîts w
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Impostazions - Permès pe posizion
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Impostazions - Permès pe posizion
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Chest al impedirà a ducj i sîts web c
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Impostazions - Permès pe realtât virtuâl
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Impostazions - Permès pe realtât virtuâl
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Chest al impedirà a ducj i sîts web che no 
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Impostazions - Permès pe fotocjamare
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Impostazions - Permès pe fotocjamare
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Chest al impedirà a ducj i sîts web che
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Impostazions - Permès pal microfon
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Impostazions - Permès pal microfon
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Impostazions - Permès cassis
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Chescj sîts web a àn domandât di selezionâ un dispositîf di jessude audio. Tu puedis specificâ cuai sîts web che a podaran selezionâ un dispositîf di jessude audio.
+
 permissions-exceptions-doh-window =
     .title = Ecezions di sîts web par DNS sore HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } nol doprarà un DNS sigûr par chescj sîts e i relatîfs sot-dominis.
+
 permissions-doh-entry-field = Inserî il non dal domini dal sît web
     .accesskey = d
+
 permissions-doh-add-exception =
     .label = Zonte
     .accesskey = Z
+
 permissions-doh-col =
     .label = Domini
+
 permissions-doh-remove =
     .label = Gjave
     .accesskey = G
+
 permissions-doh-remove-all =
     .label = Gjave ducj
     .accesskey = e

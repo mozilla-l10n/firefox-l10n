@@ -20,7 +20,6 @@ styleeditor-save-button = Salve
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Opzions dal editôr di stîi
-styleeditor-media-rules = Regulis @media
 styleeditor-at-rules = Regulis @
 styleeditor-editor-textbox =
     .data-placeholder = Scrîf achì il CSS.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = S
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Nol è stât cjatât nissun sfuei di stîl corispondent.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

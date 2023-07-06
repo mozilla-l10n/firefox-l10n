@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     Tu âs ricevût un certificât no valit. Contate l'aministradôr dal servidôr o la direzion e-mail di contat dal servidôr e dai chest messaç:
     
     Il to certificât al à il stes numar di serie di un altri certificât dât fûr de autoritât di certificazion. Par plasê cjatiti un gnûf certificât cuntun numar di serie unic.
+
 ssl-error-export-only-server = Impussibil comunicâ cun sigurece. Chê altre bande no supuarte la cifradure di grât elevât.
 ssl-error-us-only-server = Impussibil comunicâ cun sigurece. Chê altre bande e domande une cifradure di grât elevât che no je supuartade.
 ssl-error-no-cypher-overlap = Impussibil comunicâ cun sigurece cun chê altre bande: nissun algoritmi di cifradure in comun.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Nol è stât configurât nissun alg
 ssl-error-unsupported-signature-algorithm = Chê altre bande de conession e à doprât une cumbinazion di firme e algoritmi di sintesi no supuartade.
 ssl-error-missing-extended-master-secret = Chê altre bande de conession e à cirût di ripiâ cence une juste estension extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Chê altre bande de conession è à cirût di ripiâ cuntune estension extended_master_secret inspietade.
+
 sec-error-io = Erôr I/O te autorizazion di sigurece.
 sec-error-library-failure = erôr te librarie di sigurece.
 sec-error-bad-data = librarie di sigurece: a son rivâts dâts falâts.
@@ -317,6 +319,7 @@ sec-error-locked-password = La password e je blocade.
 sec-error-unknown-pkcs11-error = Erôr PKCS #11 no cognossût.
 sec-error-bad-crl-dp-url = URL no valit o no supuartât tal non dal pont di distribuzion de liste des revochis dai certificâts.
 sec-error-cert-signature-algorithm-disabled = Il certificât al è stât firmât doprant un algoritmi di firme che al è disabilitât par vie che nol è sigûr.
+
 mozilla-pkix-error-key-pinning-failure = Il servidôr al dopre clâfs fissadis (HPKP) ma no si pues costruî nissune cjadene di certificâts fidade che e corispuindi cu la cumbinazion di fissade. Nol è pussibil passâ parsore des violazions des clâfs fissadis.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Il servidôr al dopre un certificât cuntune estension dai vincui di base che lu identifiche tant che autoritât di certificazion. Par vê un certificât emetût in maniere juste, chest nol varès di sucedi.
 mozilla-pkix-error-inadequate-key-size = Il servidôr al à presentât un certificât cuntune dimension di clâf masse piçule par stabilî une conession sigure.
@@ -331,9 +334,11 @@ mozilla-pkix-error-invalid-integer-encoding = Il servidôr al à presentât un c
 mozilla-pkix-error-empty-issuer-name = Il servidôr al à presentât un certificât cuntun non distintîf de autoritât emitent vueit.
 mozilla-pkix-error-additional-policy-constraint-failed = Un vincul di politiche adizionâl al à falât cuant che si validave chest certificât.
 mozilla-pkix-error-self-signed-cert = Il certificât nol è fidât par vie che al è auto-firmât.
+
 xp-java-remove-principal-error = Nol è stât pussibil gjavâ il principâl
 xp-java-delete-privilege-error = Nol è stât pussibil eliminâ il privileç
 xp-java-cert-not-exists-error = Chest principâl nol à un certificât
+
 xp-sec-fortezza-bad-card = La cjarte Fortezza no je stade inizializade ben. Par plasê gjavile e tornile al to emitent.
 xp-sec-fortezza-no-card = Nissune cjarte Fortezza cjatade.
 xp-sec-fortezza-none-selected = Nissune cjarte Fortezza selezionade.

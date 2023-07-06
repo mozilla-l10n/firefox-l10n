@@ -4,6 +4,7 @@
 
 page-title = Informazions pe risoluzion di problemis
 page-subtitle = Cheste pagjine e conten informazions tecnichis che a podaressin risultâ utilis par cirî di risolvi problemis. Se tu sês daûr a cirî rispuestis aes domandis plui frecuentis su { -brand-short-name }, da une cjalade al nestri <a data-l10n-name="support-link">sît web di supuart</a>.
+
 crashes-title = Segnalazions di colàs
 crashes-id = ID segnalazion
 crashes-send-date = Mandade
@@ -74,10 +75,12 @@ app-basics-key-mozilla = Clâf dal servizi Mozilla Location
 app-basics-safe-mode = Modalitât sigure
 app-basics-memory-size = Dimension memorie (RAM)
 app-basics-disk-available = Spazi su disc disponibil
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Mostre in Finder
@@ -214,6 +217,7 @@ report-crash-for-days =
         [one] Segnalazions di colàs dal ultin dì
        *[other] Segnalazions di colàs dai ultins { $days } dîs
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -221,6 +225,7 @@ crashes-time-minutes =
         [one] { $minutes } minut fa
        *[other] { $minutes } minuts fa
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -228,6 +233,7 @@ crashes-time-hours =
         [one] { $hours }ore fa
        *[other] { $hours } oris fa
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -235,6 +241,7 @@ crashes-time-days =
         [one] { $days } zornade fa
        *[other] { $days } zornadis fa
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -242,6 +249,7 @@ pending-reports =
         [one] Dutis lis segnalazions di bloc (includûts { $reports } i blocs par aiar tal interval di timp dât)
        *[other] dutis lis segnalazions di bloc (includûts { $reports } i blocs par aiar tal interval di timp dât)
     }
+
 raw-data-copied = Dâts no elaborâts copiâts tai aponts
 text-copied = Test copiât tai aponts
 
@@ -254,9 +262,11 @@ blocked-mismatched-version = Bloc par la version dal driver grafic no compatibil
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloc par la version in funzion dal driver grafic. Inzorne il driver grafic in funzion a la version { $driverVersion } o plui gnove.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametris ClearType
+
 compositing = Composizion
 hardware-h264 = Decodifiche H264 dal hardware
 main-thread-no-omtc = discussion principâl, no OMTC
@@ -271,6 +281,7 @@ virtual-monitor-disp = Visualizazion di visôr virtuâl
 
 found = Cjatade
 missing = Mancjante
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descrizion
@@ -295,15 +306,19 @@ webgl2-driver-extensions = Estensions dal driver WebGL 2
 webgl2-extensions = Estensions WebGL2
 webgpu-default-adapter = Schede predefinide par WebGPU
 webgpu-fallback-adapter = Schede di repeç par WebGPU
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blocât par problemis cognossûts: <a data-l10n-name="bug-link">erôr { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Inte liste di bloc; codiç di erôr { $failureCode }
+
 d3d11layers-crash-guard = Composizion D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX - Decoder video
+
 reset-on-next-restart = Ripristine al prossim inviament
 gpu-process-kill-button = Finìs procès GPU
 gpu-device-reset = Risistemazion dispositîf
@@ -313,8 +328,10 @@ content-uses-tiling = Us di Mosaics (contignût)
 off-main-thread-paint-enabled = Dissen fûr dal thread principâl abilitât
 off-main-thread-paint-worker-count = Conte dai workers di dissen fûr dal thread principâl
 target-frame-rate = Frecuence di fotograms desiderade
+
 min-lib-versions = Version minime previodude
 loaded-lib-versions = Version in funzion
+
 has-seccomp-bpf = Seccomp-BPF (filtri clamadis di sisteme)
 has-seccomp-tsync = Sincronizazion thread seccomp
 has-user-namespaces = Spazis Non utent
@@ -329,15 +346,18 @@ sandbox-proc-type-content = contignût
 sandbox-proc-type-file = contigût dal file
 sandbox-proc-type-media-plugin = plugin multimediâl
 sandbox-proc-type-data-decoder = decodificadôr di dâts
+
 startup-cache-title = Cache di inviament
 startup-cache-disk-cache-path = Percors su disc de cache
 startup-cache-ignore-disk-cache = Ignore cache su disc
 startup-cache-found-disk-cache-on-init = Cjatade cache su disc dilunc la inizializazion
 startup-cache-wrote-to-disk-cache = Cache scrite su disc
+
 launcher-process-status-0 = Atîf
 launcher-process-status-1 = Disabilitât par vie di erôrs
 launcher-process-status-2 = Disativât in mût sfuarçât
 launcher-process-status-unknown = Stât no cognossût
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -357,6 +377,7 @@ fission-status-enabled-by-user-pref = Abilitât dal utent
 fission-status-disabled-by-user-pref = Disativât dal utent
 fission-status-disabled-by-e10s-other = E10s disativât
 fission-status-enabled-by-rollout = Ativât de implementazion a fasis
+
 async-pan-zoom = Panoramiche/Zoom asincrons
 apz-none = nissun
 wheel-enabled = input rudiele atîf
@@ -393,6 +414,7 @@ support-remote-experiments-title = Esperiments di lontan
 support-remote-experiments-name = Non
 support-remote-experiments-branch = Ram esperiments
 support-remote-experiments-see-about-studies = Consulte <a data-l10n-name="support-about-studies-link">about:studies</a> par vê plui informazions, includût cemût disativâ singui esperiments o impedî a { -brand-short-name } di eseguî chest gjenar di esperiments in futûr.
+
 support-remote-features-title = Funzionalitâts di lontan
 support-remote-features-name = Non
 support-remote-features-status = Stât

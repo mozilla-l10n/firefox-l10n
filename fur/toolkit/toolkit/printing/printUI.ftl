@@ -5,6 +5,7 @@
 printui-title = Stampe
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Salve come
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } sfuei di cjarte
        *[other] { $sheetCount } sfueis di cjarte
     }
+
 printui-page-range-all = Dut
 printui-page-range-current = Corinte
 printui-page-range-odd = Dispar
@@ -23,22 +25,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Inserìs un interval di pagjinis personalizade
     .placeholder = p.e. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Copiis
+
 printui-orientation = Orientament
 printui-landscape = Orizontâl
 printui-portrait = Verticâl
+
 # Section title for the printer or destination device to target
 printui-destination-label = Destinazion
 printui-destination-pdf-label = Salve su PDF
+
 printui-more-settings = Plui impostazions
 printui-less-settings = Mancul impostazions
+
 printui-paper-size-label = Dimension pagjine
+
 # Section title (noun) for the print scaling options
 printui-scale = Scjale
 printui-scale-fit-to-page-width = Adate ae largjece de pagjine
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scjale
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Stampe tes dôs bandis
 printui-two-sided-printing-off = Disativade
@@ -46,6 +55,7 @@ printui-two-sided-printing-off = Disativade
 printui-two-sided-printing-long-edge = Volte sul ôr lunc
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Volte sul ôr curt
+
 # Section title for miscellaneous print options
 printui-options = Opzions
 printui-headers-footers-checkbox = Stampe intestazions e da pît de pagjine
@@ -69,6 +79,7 @@ printui-simplify-page-radio = Semplificade
 printui-color-mode-label = Modalitât colôr
 printui-color-mode-color = Colôr
 printui-color-mode-bw = Blanc e neri
+
 printui-margins = Margjins
 printui-margins-default = Predefinît
 printui-margins-min = Minim
@@ -87,17 +98,23 @@ printui-margins-custom-left-mm = Çampe (mm)
 printui-margins-custom-right = Diestre
 printui-margins-custom-right-inches = Diestre (oncis)
 printui-margins-custom-right-mm = Diestre (mm)
+
 printui-system-dialog-link = Stampe doprant il dialic di sisteme…
+
 printui-primary-button = Stampe
 printui-primary-button-save = Salve
 printui-cancel-button = Anule
 printui-close-button = Siere
+
 printui-loading = Daûr a prontâ la anteprime
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Anteprime di stampe
+
 printui-pages-per-sheet = Pagjinis par sfuei
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Daûr a stampâ…
@@ -124,6 +141,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Il numar de scjale al à di jessi tra 10 e 200.
 printui-error-invalid-margin = Inserìs un margjin valit pe dimension di cjarte selezionade.
 printui-error-invalid-copies = Il numar di copiis al à di sei tra 1 e 10000.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Il numar dal interval al à di jessi tra 1 e { $numPages }.

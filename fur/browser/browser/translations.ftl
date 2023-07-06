@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Tradûs cheste pagjine
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Pagjine voltade di { $fromLanguage } a { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Traduzion in cors
+
 translations-panel-settings-button =
     .aria-label = Gjestìs impostazions pe traduzion
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Gjestìs lenghis
 translations-panel-settings-about = Informazions su lis traduzions in { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Tradûs simpri dal { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Tradûs simpri di cheste lenghe
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = No sta tradusi mai dal { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = No sta tradusi mai di cheste lenghe
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = No sta tradusi mai chest sît
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Un moment, par plasê…
 translations-panel-translate-cancel =
     .label = Anule
+
 translations-panel-error-translating = Al è vignût fûr un probleme tal tradusi. Torne prove.
 translations-panel-error-load-languages = Impussibil cjariâ lis lenghis
 translations-panel-error-load-languages-hint = Verifiche la conession a internet e torne prove.
 translations-panel-error-load-languages-hint-button =
     .label = Torne prove
+
 translations-panel-error-unsupported = La traduzion no je disponibile par cheste pagjine
 translations-panel-error-dismiss-button =
     .label = Capît
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Al è vignût fûr un probleme tal discjariâ i files de lenghe. Torne prove.
 translations-manage-error-delete = Al è vignût fûr un probleme tal eliminâ i files de lenghe. Torne prove.
 translations-manage-error-list = Impussibil otignî la liste des lenghis disponibilis pe traduzion. Inzorne la pagjine par tornâ a provâ.
+
 translations-settings-title =
     .title = Impostazions traduzions
     .style = min-width: 36em

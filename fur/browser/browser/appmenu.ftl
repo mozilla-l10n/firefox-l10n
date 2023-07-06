@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = Daûr a discjariâ un inzornament di { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = Inzornament disponibil — discjame daurman
+
 appmenuitem-banner-update-manual =
     .label = Inzornament disponibil — discjame daurman
+
 appmenuitem-banner-update-unsupported =
     .label = Impussibil inzornâ — sisteme incompatibil
+
 appmenuitem-banner-update-restart =
     .label = Inzornament disponibil — torne invie cumò
+
 appmenuitem-new-tab =
     .label = Gnove schede
 appmenuitem-new-window =
@@ -53,6 +58,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Siere il menù aplicazion
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,23 +79,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Jentre par sincronizâ…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ative la sincronizazion…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostre plui schedis
     .tooltiptext = Mostre plui schedis di chest dispositîf
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nissune schede vierte
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ative la sincronizazion des schedis par visualizâ une liste di schedis dai tiei altris dispositîfs.
+
 appmenu-remote-tabs-opensettings =
     .label = Impostazions
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Desideristu viodi achì lis tôs schedis di altris dispositîfs?
+
 appmenu-remote-tabs-connectdevice =
     .label = Conet un altri dispositîf
 appmenu-remote-tabs-welcome = Visualize une liste di schedis dai tiei altris dispositîfs.
 appmenu-remote-tabs-unverified = Al è necessari verificâ il to account.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincronize cumò
 appmenuitem-fxa-sign-in = Jentre su { -brand-product-name }
 appmenuitem-fxa-manage-account = Gjestìs account
@@ -103,12 +116,14 @@ appmenu-fxa-sync-and-save-data2 = Sincronize e salve i dâts
 appmenu-fxa-signed-in-label = Jentre
 appmenu-fxa-setup-sync =
     .label = Ative la sincronizazion…
+
 appmenuitem-save-page =
     .label = Salve pagjine come…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novitâts
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,39 +137,52 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiladôr
     .tooltiptext = Regjistre un profîl di prestazion
+
 profiler-popup-button-recording =
     .label = Profiladôr
     .tooltiptext = Regjistrazion dal profîl in cors
+
 profiler-popup-button-capturing =
     .label = Profiladôr
     .tooltiptext = Il profiladôr al sta regjistrant un profîl
-profiler-popup-title =
-    .value = { -profiler-brand-name }
+
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Visualize plui informazions
+
 profiler-popup-description-title =
     .value = Regjistre, analize, condivît
+
 profiler-popup-description = Colabore su problemis di prestazions publicant i profîi di condividi cu la tô scuadre.
+
 profiler-popup-learn-more-button =
     .label = Plui informazions
+
 profiler-popup-settings =
     .value = Impostazions
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Modifiche impostazions…
+
 profiler-popup-recording-screen = Daûr a regjistrâ…
+
 profiler-popup-start-recording-button =
     .label = Scomence regjistrazion
+
 profiler-popup-discard-button =
     .label = Scarte
+
 profiler-popup-capture-button =
     .label = Cature
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Maiusc+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -177,22 +205,28 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Preconfigurazion conseade pe plui part dai debug des web-app, cun basse sorecjame.
 profiler-popup-presets-web-developer-label =
     .label = Svilupadôr web
+
 profiler-popup-presets-firefox-description = Preconfigurazion conseade pe profilazion di { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Preconfigurazion par investigâ sui erôrs grafics in { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafiche
+
 profiler-popup-presets-media-description2 = Preconfigurazion par investigâ su erôrs audio e video in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimediâl
+
 profiler-popup-presets-networking-description = Preconfigurazion par investigâ su erôrs di rêt in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rêt
+
 profiler-popup-presets-power-description = Pre-configurazion par investigâ sui erôrs di consum di energjie in { -brand-shorter-name }, cun basse sorecjame.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energjie
+
 profiler-popup-presets-custom-label =
     .label = Personalizât
 
@@ -200,8 +234,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = Gjestìs cronologjie
-appmenu-reopen-all-tabs = Torne vierç dutis lis schedis
-appmenu-reopen-all-windows = Torne vierç ducj i barcons
 appmenu-restore-session =
     .label = Ripristine la session di prime
 appmenu-clear-history =
@@ -260,6 +292,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalize sbare dai struments…
+
 appmenu-developer-tools-subheader = Struments dal navigadôr
 appmenu-developer-tools-extensions =
     .label = Estension pai svilupadôrs

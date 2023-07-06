@@ -14,6 +14,7 @@ xpinstall-prompt-message = Tu stâs cirint di instalâ une zonte di { $host }. S
 
 xpinstall-prompt-header-unknown = Permeti a un sît no cognossût di instalâ une zonte?
 xpinstall-prompt-message-unknown = Tu stâs cirint di instalâ une zonte di un sît no cognossût. Siguriti che chest sît al sedi afidabil prime di continuâ.
+
 xpinstall-prompt-dont-allow =
     .label = No sta permeti
     .accesskey = D
@@ -44,6 +45,7 @@ xpinstall-disabled = In chest moment la instalazion di software e je disativade.
 xpinstall-disabled-button =
     .label = Ative
     .accesskey = a
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) al è stât bloc
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L'aministradôr dal to sisteme al à impedît a chest sît di domandâti di instalâ software sul computer.
 addon-install-full-screen-blocked = La instalazion di zontis no je ametude cuant che si è o prime di jentrâ in modalitât plen visôr.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } zontât a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } al à bisugne di gnûfs permès
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = Gjavâ { $name }?
 addon-removal-message = Gjavâ { $name } di { -brand-shorter-name }?
 addon-removal-button = Gjave
 addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +86,7 @@ addon-downloading-and-verifying =
        *[other] Daûr a discjariâ e verificâ { $addonCount } components adizionâi…
     }
 addon-download-verifying = Daûr a verificâ
+
 addon-install-cancel-button =
     .label = Anule
     .accesskey = A

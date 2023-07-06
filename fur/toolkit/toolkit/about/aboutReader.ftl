@@ -4,6 +4,7 @@
 
 about-reader-loading = Daûr a cjamâ…
 about-reader-load-error = Impussibil cjamâ l'articul de pagjine
+
 about-reader-color-scheme-light = Clâr
     .title = Scheme di colôrs clârs
 about-reader-color-scheme-dark = Scûr
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepât
     .title = Scheme di colôrs sepâts
 about-reader-color-scheme-auto = Automatic
     .title = Scheme di colôrs automatics
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

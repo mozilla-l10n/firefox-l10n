@@ -38,9 +38,11 @@ menu-quit =
             [windows] J
            *[other] J
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Jes di { -brand-shorter-name }
+
 menu-about =
     .label = Informazions su { -brand-shorter-name }
     .accesskey = I
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = Schedis sieradis di resint
 menu-history-undo-window-menu =
     .label = Barcons sierâts cumò denant
-menu-history-reopen-all-tabs = Torne vierç dutis lis schedis
-menu-history-reopen-all-windows = Torne vierç ducj i barcons
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = S
 menu-bookmarks-manage =
     .label = Gjestìs i segnelibris
-menu-bookmark-current-tab =
-    .label = Met tai segnelibris cheste schede
-menu-bookmark-edit =
-    .label = Modifiche chest segnelibri
 menu-bookmark-tab =
     .label = Met tai segnelibris cheste schede…
 menu-edit-bookmark =

@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Vierç cun { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Al è pussibil cambiâ lis impostazions tes Opzions di { -brand-short-name }.
            *[other] Al è pussibil cambiâ lis impostazions tes Preferencis di { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Tu âs sielt di vierzi:
 unknowncontenttype-which-is = che al è un:
 unknowncontenttype-from = di:

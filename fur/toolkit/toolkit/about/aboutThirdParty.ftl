@@ -4,12 +4,15 @@
 
 third-party-page-title = Informazions sui modui di tiercis parts
 third-party-section-title = Liste di modui di tiercis parts in { -brand-short-name }
+
 third-party-intro =
     Cheste pagjine e mostre une liste di modui di tiercis parts inserîts in
     { -brand-short-name }. Cualsisei modul no firmât di Microsoft o
     { -vendor-short-name } al ven considerât un modul di tiercis parts.
+
 third-party-message-empty = Nol è stât rilevât nissun modul di tiercis parts.
 third-party-message-no-duration = No regjistrât
+
 third-party-detail-version = Version file
 third-party-detail-vendor = Info produtôr
 third-party-detail-occurrences = Câs
@@ -18,9 +21,11 @@ third-party-detail-duration = Medie timp di bloc (ms)
     .title = Trop a dilunc che chest modul al à blocât la aplicazion.
 third-party-detail-app = Aplicazion
 third-party-detail-publisher = Autôr
+
 third-party-th-process = Procès
 third-party-th-duration = Timp di cjariament (ms)
 third-party-th-status = Stât
+
 third-party-tag-ime = IME
     .title = Chest gjenar di modul al ven cjamât cuant che tu dopris un IME di tiercis parts.
 third-party-tag-shellex = Estension shell
@@ -29,19 +34,17 @@ third-party-tag-background = Sotfont
     .title =
         Chest modul nol à blocât la aplicazion parcè che e je stade cjariade
         in sotfont.
-third-party-unsigned-icon =
-    .title = Chest modul nol è firmât.
-third-party-warning-icon =
-    .title = { -brand-short-name } al è colassât tal codiç di chest modul
 third-party-icon-unsigned =
     .title = Chest modul nol è firmât
     .alt = Chest modul nol è firmât
 third-party-icon-warning =
     .title = { -brand-short-name } al è colassât tal codiç di chest modul
     .alt = { -brand-short-name } al è colassât intal codiç di chest modul
+
 third-party-status-loaded = Cjariât
 third-party-status-blocked = Blocât
 third-party-status-redirected = Indreçât
+
 third-party-button-copy-to-clipboard = Copie i dâts grês intes notis
 third-party-loading-data =
     .alt = Cjariament informazions dal sisteme…
@@ -63,12 +66,11 @@ third-party-button-expand =
     .title = Mostre informazions detaiadis
 third-party-button-collapse =
     .title = Plate informazions detaiadis
-third-party-requires-restart = Al covente tornâ a inviâ { -brand-short-name } par cambiâ i moduli di tiercis parts blocâts.
 third-party-blocking-requires-restart = Par blocâ un modul di tiercis parts al è necessari tornâ a inviâ { -brand-short-name }.
 third-party-should-restart-title = Torne invie { -brand-short-name }
-third-party-should-restart-ok = Torne invie { -brand-short-name } cumò
 third-party-restart-now = Torne invie cumò
 third-party-restart-later = Torne invie plui indenant
+
 third-party-blocked-by-builtin =
     .title = Blocât di { -brand-short-name }
     .alt = Blocât di { -brand-short-name }

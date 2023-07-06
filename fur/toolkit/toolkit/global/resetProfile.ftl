@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Torne partìs di zero par comedâ i problem
 refresh-profile = Da une regolade a { -brand-short-name }
 refresh-profile-button = Ripristine { -brand-short-name }…
 refresh-profile-learn-more = Plui informazions
+
 refresh-profile-progress =
     .title = Ripristine { -brand-short-name }
 refresh-profile-progress-description = Cuasi fat…

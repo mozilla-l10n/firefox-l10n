@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Gnove schede
 tabbrowser-empty-private-tab-title = Gnove schede privade
+
 tabbrowser-menuitem-close-tab =
     .label = Siere schede
 tabbrowser-menuitem-close =
     .label = Siere
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -117,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = No sta mostrâmi plui chest dialic
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permet aes notifichis come cheste di { $domain } di puartâti ae sô schede
+
 tabbrowser-customizemode-tab-title = Personalize { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -135,6 +139,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Ative audio tes schedis
     .accesskey = a
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Riproduzion audio
 

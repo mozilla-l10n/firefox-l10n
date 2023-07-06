@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Informazions autoritât (AIA)
 certificate-viewer-certificate-policies = Politichis dal certificât
 certificate-viewer-embedded-scts = SCTs integrâts
 certificate-viewer-crl-endpoints = Ponts terminâi CRL
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Discjame
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (certificât)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cjadene)
     .download = { $fileName }-cjadene.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Cheste estension e je stade segnade come critiche. Chest al significhe che i clients a scugnin refudâ il certificât se no rivin a interpretâlu.

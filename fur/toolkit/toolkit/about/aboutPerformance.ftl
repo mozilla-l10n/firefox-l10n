@@ -54,6 +54,7 @@ close-tab =
     .title = Siere schede
 show-addon =
     .title = Mostre tal gjestôr components adizionâi
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

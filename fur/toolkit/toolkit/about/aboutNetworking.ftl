@@ -34,13 +34,6 @@ about-networking-messages-received = Messaçs ricevûts
 about-networking-bytes-sent = Bytes mandâts
 about-networking-bytes-received = Bytes ricevûts
 about-networking-logging = Regjistrazion
-about-networking-log-tutorial = Viôt <a data-l10n-name="logging">HTTP Logging</a> par otignî istruzions su cemût doprâ chest strument.
-about-networking-current-log-file = File di regjistri atuâl:
-about-networking-current-log-modules = Modui di regjistri atuai:
-about-networking-set-log-file = Imposte file di regjistri
-about-networking-set-log-modules = Imposte modui di regjistri
-about-networking-start-logging = Comence regjistri
-about-networking-stop-logging = Ferme regjistri
 about-networking-dns-lookup = Ricercje DNS
 about-networking-dns-lookup-button = Risolf
 about-networking-dns-domain = Domini:

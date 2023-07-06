@@ -131,12 +131,6 @@ about-telemetry-category-header = categorie
 about-telemetry-method-header = metodi
 about-telemetry-object-header = ogjet
 about-telemetry-extra-header = altri
-about-telemetry-origin-section = Telemetrie “Origin”
-about-telemetry-origin-origin = origjin
-about-telemetry-origin-count = conte
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = La <a data-l10n-name="origin-doc-link">telemetrie “Origin” in Firefox</a> e codifiche i dâts prime di inviâju. In chet mût { $telemetryServerOwner } al pues contâ lis robis, ma nol pues determinâ se une specifiche istance di { -brand-product-name } e vedi contribuît o mancul a chel totâl. <a data-l10n-name="prio-blog-link">Plui informazions</a>.
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Procès “{ $process }”

@@ -44,6 +44,7 @@ url-classifier-debug-sb-modules = Modui di regjistri de navigazion sigure
 url-classifier-debug-modules = Modui di regjistri corints
 url-classifier-debug-sbjs-modules = Regjistri JS de navigazion sigure
 url-classifier-debug-file = File di regjistri corint
+
 url-classifier-trigger-update = Ative inzornament
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Disative regjistri JS de navigazion sigure

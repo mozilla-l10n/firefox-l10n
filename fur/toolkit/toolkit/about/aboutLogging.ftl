@@ -36,6 +36,7 @@ about-logging-preset-media-playback-label = Riproduzion multimediâl
 about-logging-preset-media-playback-description = Modui di regjistrazion par diagnosticâ i problemis di riproduzion multimediâl (no relatîfs a video-conferencis)
 about-logging-preset-custom-label = Personalizadis
 about-logging-preset-custom-description = Modui di regjistrazion selezionâts a man
+
 # Error handling
 about-logging-error = Erôr:
 
@@ -49,4 +50,5 @@ about-logging-unknown-profiler-preset = Pre-configurazion dal profiladôr “{ $
 about-logging-unknown-option = Opzion di about:logging “{ $k }“ no cognossude
 about-logging-configuration-url-ignored = URL di configurazion ignorât
 about-logging-file-and-profiler-override = Impussibil sfuarçâ il file di jessude e tal stes timp passâ parsore aes opzions dal profiladôr
+
 about-logging-configured-via-url = Opzion configurade midiant URL

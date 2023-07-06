@@ -22,10 +22,12 @@ about-private-browsing-not-private = In chest moment no tu sês intun barcon pri
 about-private-browsing-info-description-private-window = Barcon privât: { -brand-short-name } al nete la tô cronologjie di ricercje e navigazion cuant che tu sieris ducj i barcons privâts. Chest no ti rint anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name } al nete la tô cronologjie di ricercje e navigazion cuant che tu sieris ducj i barcons privâts, ma cheste operazion no ti rint anonim.
 about-private-browsing-learn-more-link = Plui informazions
+
 about-private-browsing-hide-activity = Plate la tô posizion e lis tôs ativitâts in rêt, dapardut là che tu navighis
 about-private-browsing-get-privacy = Protêç la tô riservatece dapardut là che tu navighis
 about-private-browsing-hide-activity-1 = Plate la ativitât di navigazion e la posizion cun { -mozilla-vpn-brand-name }. Un clic al cree une conession sigure, ancje su Wi-Fi public.
 about-private-browsing-prominent-cta = Reste riservât cun { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Discjame { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navigazion privade in vore
 about-private-browsing-focus-promo-text = La neste app mobile dedicade ae navigazion privade e nete la tô cronologjie e i cookies ogni volte.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Puarte la navigazion privade sul t
 about-private-browsing-focus-promo-text-b = Dopre { -focus-brand-name } par chês ricercjis riservadis che no tu vuelis che il navigadôr mobil principâl al viodi.
 about-private-browsing-focus-promo-header-c = Il nivel sucessîf di riservatece sui dispositîfs mobii
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } al nete la tô cronologjie ogni volte intant che al bloche lis publicitâts e i trackers spions.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Siere
+
 about-private-browsing-promo-close-button =
     .title = Siere
 

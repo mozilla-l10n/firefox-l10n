@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-videocontrols-scrubber =
-    .aria-label = Posizion
 # This label is used by screenreaders and other assistive technology to indicate
 # to users how much of the video has been loaded from the network. It will be
 # followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
@@ -12,6 +10,7 @@ videocontrols-volume-control =
     .aria-label = Volum
 videocontrols-closed-caption-button =
     .aria-label = Sottitui
+
 videocontrols-play-button =
     .aria-label = Riprodûs
 videocontrols-pause-button =
@@ -28,23 +27,20 @@ videocontrols-casting-button-label =
     .aria-label = Trasmet al schermi
 videocontrols-closed-caption-off =
     .offlabel = Disativâts
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-Picture
-# This string is used as the label for a variation of the Picture-in-Picture video
-# toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = Cjale in modalitât Picture-in-Picture
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer = Riprodûs i videos in prin plan intant che tu fasis altris robis in { -brand-short-name }
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Tire fûr chest video
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Tancj schermis, tant divertiment. Riprodûs chest video intant che tu fasis altris robis.
+
 videocontrols-error-aborted = Cjariament dal video fermât.
 videocontrols-error-network = Riproduzion dal video interote par vie di un erôr di rêt.
 videocontrols-error-decode = Nol è pussibil riprodusi il video parcè che il file al è ruvinât.
@@ -52,6 +48,7 @@ videocontrols-error-src-not-supported = Formât video o gjenar MIME no supuartâ
 videocontrols-error-no-source = Nissun video cjatât cun formât e gjenar MIME supuartâts.
 videocontrols-error-generic = Riproduzion video interote par vie di un erôr no cognossût.
 videocontrols-status-picture-in-picture = Chest video al è in riproduzion in modalitât Picture-in-Picture.
+
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -65,6 +62,7 @@ videocontrols-status-picture-in-picture = Chest video al è in riproduzion in mo
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

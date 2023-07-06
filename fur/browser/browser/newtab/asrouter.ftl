@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funzionalitât conseade
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Parcè stoio viodint chest messaç?
+
 cfr-doorhanger-extension-cancel-button = No cumò
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Zonte cumò
     .accesskey = Z
+
 cfr-doorhanger-extension-manage-settings-button = Gjestìs impostazions sugjeriments
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = No sta mostrâmi chest sugjeriment
     .accesskey = s
+
 cfr-doorhanger-extension-learn-more-link = Plui informazions
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = di { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Sugjeriment
 cfr-doorhanger-extension-notification2 = Sugjeriment
     .tooltiptext = Estension conseade
     .a11y-announcement = Al è disponibil un sugjeriment par une estension
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Sugjeriment
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Plui informazions
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gnove funzionalitât:
+
 cfr-whatsnew-button =
     .label = Novitâts
     .tooltiptext = Novitâts
+
 cfr-whatsnew-release-notes-link-text = Lei lis notis di publicazion
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Disative
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = La tô riservatece e je impuartante. Cumò { -brand-short-name } al isole i sîts web l'un di chel altri, cussì di rindi plui dificil pai hackers robâ passwords, numars di cjarte di credit e altris informazions sensibilis.
-cfr-doorhanger-fission-header = Isolament dai sîts
-cfr-doorhanger-fission-primary-button = Va ben, capît
-    .accesskey = V
-cfr-doorhanger-fission-secondary-button = Plui informazions
-    .accesskey = P
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = I videos su chest sît a podaressin jessi riprodots mâl su cheste version di { -brand-short-name }. Par vê il plen supuart video, inzorne { -brand-short-name } daurman.
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Inzorne cumò
     .accesskey = c
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Plui informazions
-    .title = Slargje par scuvierzi altris informazions su cheste funzionalitât
-spotlight-learn-more-expanded = Plui informazions
-    .title = Siere
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,18 +142,6 @@ spotlight-public-wifi-vpn-link = No cumò
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Prove in anteprime la miôr esperience
-    pal massim de riservatece
-spotlight-total-cookie-protection-body = Protezion Totâl dai Cookies e ferme i spions (tracker) dal doprâ i cookie par stâti daûr cuant che tu vâs ator pal web.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } al costruìs une stangjaçade tor ator dai cookies, limitantju al lôr sît, cussì che i spions (tracker) no rivin a doprâju par stâti daûr. Cun l'acès anticipât, tu judarâs a otimizâ cheste funzionalitât cussì che o rivìn a continuâ il nestri lavôr par costruî un web miôr par ducj.
-spotlight-total-cookie-protection-primary-button = Ative la Protezion Totâl dai Cookies
-spotlight-total-cookie-protection-secondary-button = No cumò
 
 ## Emotive Continuous Onboarding
 
@@ -185,11 +171,13 @@ spotlight-pin-secondary-button = No cumò
 
 mr2022-background-update-toast-title = Gnûf { -brand-short-name }. Plui riservât. Mancul spiis. Nissun compromès.
 mr2022-background-update-toast-text = Prove cumò il gnûf { -brand-short-name }, inzornât cu la nestre plui potente protezion anti-spiis di simpri.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Vierç { -brand-shorter-name } cumò
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -208,6 +196,7 @@ firefoxview-cfr-body-v2 = Recupere lis schedis sieradis di resint e passe in mû
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ti presentìn { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Ti coventie propite chê schede sul to telefonin? Recuperile al svol. Âstu bisugne di un sît che tu âs apene visitât? Velu, tornât cun { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Viôt cemût che al funzione
@@ -217,6 +206,7 @@ firefoxview-spotlight-promo-secondarybutton = Salte
 
 colorways-cfr-primarybutton = Sielç une tonalitât
     .accesskey = S
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Colore il to navigadôr cu lis esclusivis sfumaduris di { -brand-short-name } ispiradis aes vôs che a cambiin la societât.
 colorways-cfr-header-28days = Lis tonalitâts des vôs indipendentis a scjadin ai 16 di Zenâr
@@ -239,6 +229,7 @@ july-jam-headline = Ti tignìn al sigûr
 july-jam-body = Ogni mês, { -brand-short-name } al bloche une medie di 3,000+ spiis par utent, danti un acès sigûr e svelt ae part miôr di internet.
 july-jam-set-default-primary = Vierç i miei colegaments cun { -brand-short-name }
 fox-doodle-pin-headline = Bentornâts
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Chi al è un piçul avîs: tu puedis tignî il to navigadôr indipendent preferît a puartade di clic.

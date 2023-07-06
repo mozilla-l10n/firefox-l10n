@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Met tai segnelibris lis schedis…
     .accesskey = b
-bookmark-tab =
-    .label = Met tai segnelibris la schede
-    .accesskey = B
 tab-context-bookmark-tab =
     .label = Zonte schede tai segnelibris…
     .accesskey = b
@@ -106,6 +103,7 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
