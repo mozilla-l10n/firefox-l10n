@@ -96,6 +96,8 @@ menu-view-full-screen =
     .label = Tshikirini tsho Ḓalaho
     .accesskey = T
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-bidi-switch-page-direction =
