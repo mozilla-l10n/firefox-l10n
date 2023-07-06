@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Go praosa ga praebete)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Go praosa ga praebete)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Go praosa ga praebete)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Go praosa ga praebete)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -125,8 +92,10 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = Nyaka goba o tsenye aterese
+
 urlbar-switch-to-tab =
     .value = Fetogela go thepo:
+
 urlbar-go-button =
     .tooltiptext = Eya atereseng go para ya lefelo
 
@@ -172,8 +141,7 @@ bookmarks-sidebar-content =
 
 bookmarks-search =
     .label = Nyaka dipukutshwayo
-bookmarks-bookmark-edit-panel =
-    .label = Lokiša pukutshwayo ye
+
 bookmarks-toolbar-menu =
     .label = Thulupaa ya dipukutshwayo
 bookmarks-toolbar-placeholder =
@@ -211,6 +179,7 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Dumelela dirunyi tša { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thibela dirunyi tša { $uriHost }
     .accesskey = p
@@ -232,13 +201,16 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ditaollo
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Dithepo tša praosara
+
 tabs-toolbar-new-tab =
     .label = Thepo e mpsha
+
 tabs-toolbar-list-all-tabs =
     .label = Lokeletša dithepo tšohle
     .tooltiptext = Lokeletša dithepo tšohle
@@ -257,6 +229,9 @@ data-reporting-notification-message = { -brand-short-name } ka maitirišo e rome
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } e thibetše letlakala le go hlahlela gape ka maitirišo.
@@ -271,6 +246,8 @@ refresh-blocked-redirect-label = { -brand-short-name } e thibetše letlakala le 
 ## Pop-up Notification
 
 
+## Add-on Pop-up Notifications
+
 ## Pop-up warning
 
 # Variables:
@@ -280,6 +257,7 @@ popup-warning-message =
         [one] { -brand-short-name } e thibetše saete ye go bula lefasetere le runyago.
        *[other] { -brand-short-name } e thibetše saete ye go bula mafasetere a { $popupCount } a runyago.
     }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

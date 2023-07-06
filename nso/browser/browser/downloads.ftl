@@ -74,6 +74,7 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = Tloša ditaollo
     .tooltiptext = Go tloša go phethilwe, ditaollo tše khansetšwego le tše paletšwego
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =

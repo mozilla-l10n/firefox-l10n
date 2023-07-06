@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] O se ke wa tswalela
        *[other] O se ke wa tšwa
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ge o tšwa inthaneteng gona bjale, taollo e 1 e tla khanselwa. Na o kgodišegile gore o nyaka go tšwa inthaneteng?
        *[other] Ge o tšwa inthaneteng gona bjale, ditaollo tše { $downloadsCount } di tla khanselwa. Na o kgodišegile gore o nyaka go tšwa inthaneteng?
     }
 download-ui-dont-go-offline-button = Dula inthaneteng
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Khansela taollo e 1

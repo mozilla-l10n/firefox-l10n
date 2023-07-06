@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Mafasetere le dithepo
 browser-data-session-label =
     .value = Mafasetere le dithepo
+

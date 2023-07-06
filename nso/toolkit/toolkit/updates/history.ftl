@@ -22,5 +22,7 @@ state-header = Boemo
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Dintlha
+
 update-installed-on = Loketšwe go: { $date }
+
 update-status = Boemo: { $status }

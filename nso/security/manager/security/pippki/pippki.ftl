@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Go bula Setifikheiti
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Go bula Setifikheiti
     .style = min-width: 46em
@@ -54,4 +50,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Ye bohlokwa: Ge o lebetše lentšuphetišo la gago la thekgo ya setifikheiti, o ka se kgone go bušetša thekgo ye ka morago.  Ka kgopelo e rekote lefelong le le bolokegilego.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = O ka laetša gore ke diwepesaete dife tšeo
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

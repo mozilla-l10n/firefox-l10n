@@ -155,14 +155,6 @@ main-context-menu-video-email =
     .label = Bidio ya imeile...
     .accesskey = i
 
-main-context-menu-plugin-play =
-    .label = Diragatša tsebišo-koketšo ye
-    .accesskey = a
-
-main-context-menu-plugin-hide =
-    .label = Fihla tsebišo-koketšo ye
-    .accesskey = h
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -192,10 +184,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Hlahlela foreime gape
     .accesskey = H
-
-main-context-menu-frame-bookmark =
-    .label = Pukuswaya foreime ye
-    .accesskey = s
 
 main-context-menu-frame-save-as =
     .label = Boloka foreime e le…
