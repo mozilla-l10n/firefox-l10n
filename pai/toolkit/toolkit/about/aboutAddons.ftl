@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+##
+
 ## These are global warnings
 
 
@@ -39,6 +44,9 @@ discopane-notice-learn-more = Terabum ŕpo
 ## Pending uninstall message bar
 
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -49,4 +57,8 @@ discopane-notice-learn-more = Terabum ŕpo
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 

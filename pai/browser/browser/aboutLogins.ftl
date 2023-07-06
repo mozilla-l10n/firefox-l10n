@@ -24,6 +24,10 @@
 ## Login
 
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
 ## OS Authentication dialog
 
 
@@ -43,9 +47,12 @@
 ## Dialogs
 
 
-## Breach Alert notification
+## Variables
+##   $count (number) - Number of items
 
-about-logins-breach-alert-learn-more-link = Terabum ŕpo
+##
+
+## Breach Alert notification
 
 ## Vulnerable Password notification
 

@@ -45,3 +45,7 @@ permissions-close-key =
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

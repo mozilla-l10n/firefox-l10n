@@ -35,3 +35,5 @@ tabbrowser-menuitem-close =
 
 ## Ctrl-Tab dialog
 
+## Tab manager menu buttons
+

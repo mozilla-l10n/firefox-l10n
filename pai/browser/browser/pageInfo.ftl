@@ -13,3 +13,6 @@ close-dialog =
 
 ##
 
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+

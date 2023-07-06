@@ -23,6 +23,16 @@ close-button =
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 ## Preferences UI Search Results
 
 
@@ -30,6 +40,11 @@ close-button =
 
 browser-containers-learn-more = Terabum ŕpo
 
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+##
 
 ## General Section - Language & Appearance
 
@@ -43,6 +58,7 @@ browser-containers-learn-more = Terabum ŕpo
 
 
 ##
+
 
 play-drm-content-learn-more = Terabum ŕpo
 
@@ -73,6 +89,9 @@ network-proxy-connection-learn-more = Terabum ŕpo
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 ##
 
 
@@ -95,6 +114,16 @@ network-proxy-connection-learn-more = Terabum ŕpo
 ## Firefox Account - Signed in
 
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+## Firefox account - Signed in
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+##
+
 ## Sync section - enabling or disabling sync.
 
 
@@ -106,6 +135,9 @@ network-proxy-connection-learn-more = Terabum ŕpo
 
 ## The device name controls.
 
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
 
 ## Privacy Section
 
@@ -127,6 +159,8 @@ forms-breach-alerts-learn-more-link = Terabum ŕpo
 
 sitedata-learn-more = Terabum ŕpo
 
+## Privacy Section - Cookie Banner Handling
+
 ## Privacy Section - Address Bar
 
 
@@ -140,6 +174,7 @@ content-blocking-learn-more = Terabum ŕpo
 
 ##
 
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 ## Privacy Section - Tracking
 
@@ -166,6 +201,8 @@ security-enable-safe-browsing-link = Terabum ŕpo
 ## Privacy Section - Certificates
 
 ## Privacy Section - HTTPS-Only
+
+## DoH Section
 
 ## The following strings are used in the Download section of settings
 

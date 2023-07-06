@@ -36,3 +36,6 @@
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+
+# Cookie Banner Handling
+
