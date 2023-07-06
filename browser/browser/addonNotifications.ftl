@@ -20,6 +20,7 @@ xpinstall-prompt-message = Pokoušíte se nainstalovat doplněk ze serveru { $ho
 
 xpinstall-prompt-header-unknown = Chcete nainstalovat doplněk z neznámého serveru?
 xpinstall-prompt-message-unknown = Pokoušíte se nainstalovat doplněk z neznámého serveru. Ujistěte se prosím, že mu můžete věřit.
+
 xpinstall-prompt-dont-allow =
     .label = Nepovolit
     .accesskey = N
@@ -50,6 +51,7 @@ xpinstall-disabled = Instalace softwaru je v současnosti zakázána. Klepněte 
 xpinstall-disabled-button =
     .label = Povolit
     .accesskey = P
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -58,6 +60,7 @@ addon-install-blocked-by-policy = Doplněk { $addonName } ({ $addonId }) byl zab
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Nastavení od správce vašeho systému zabránilo této stránce v dotazu na instalaci softwaru do vašeho počítače.
 addon-install-full-screen-blocked = V režimu celé obrazovky nebo těsně před jeho zapnutím není instalace doplňků povolena.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item =
@@ -68,6 +71,7 @@ webext-perms-sideload-menu-item =
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = Doplněk { $addonName } vyžaduje nová oprávnění
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -95,6 +99,7 @@ addon-removal-abuse-report-checkbox =
         [with-cases] Nahlásit toto rozšíření { -vendor-short-name(case: "dat") }
        *[no-cases] Nahlásit toto rozšíření organizaci { -vendor-short-name }
     }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -104,6 +109,7 @@ addon-downloading-and-verifying =
        *[other] Stahování a ověřování { $addonCount } doplňků…
     }
 addon-download-verifying = Ověřování
+
 addon-install-cancel-button =
     .label = Zrušit
     .accesskey = Z

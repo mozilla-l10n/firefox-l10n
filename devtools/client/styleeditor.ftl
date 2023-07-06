@@ -20,7 +20,6 @@ styleeditor-save-button = Uložit
     .accesskey = U
 styleeditor-options-button =
     .tooltiptext = Možnosti Editoru stylů
-styleeditor-media-rules = pravidla @media
 styleeditor-at-rules = @-pravidla
 styleeditor-editor-textbox =
     .data-placeholder = Zde vložte CSS.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = n
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Nebyly nalezeny žádná odpovídající kaskádové styly.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Nový panel
 tabbrowser-empty-private-tab-title = Nový anonymní panel
+
 tabbrowser-menuitem-close-tab =
     .label = Zavřít panel
 tabbrowser-menuitem-close =
     .label = Zavřít
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -146,6 +149,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Tento dialog příště nezobrazovat
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Povolit podobným oznámením ze serveru { $domain } přepínat na svůj panel
+
 tabbrowser-customizemode-tab-title =
     { -brand-short-name.case-status ->
         [with-cases] Přizpůsobit { -brand-short-name(case: "acc") }
@@ -168,6 +172,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Zapnout zvuk panelů
     .accesskey = u
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Přehrává zvuk
 

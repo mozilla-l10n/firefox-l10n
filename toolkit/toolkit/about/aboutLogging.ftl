@@ -44,6 +44,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Moduly protokolů pro diagnostiku problémů s WebRTC.
 about-logging-preset-custom-label = Vlastní
 about-logging-preset-custom-description = Ručně vybrané moduly protokolů
+
 # Error handling
 about-logging-error = Chyba:
 
@@ -57,4 +58,5 @@ about-logging-unknown-profiler-preset = Neznámá předvolba profilování „{ 
 about-logging-unknown-option = Neznámá možnost „{ $k }“ stránky about:logging
 about-logging-configuration-url-ignored = Konfigurační URL adresa ignorována
 about-logging-file-and-profiler-override = Vynucení výstupu do souboru a nastavení profilování není zároveň možné
+
 about-logging-configured-via-url = Možnosti nastavené pomocí URL

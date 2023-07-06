@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = Rozšíření nemůže číst ani měnit data
+
 origin-controls-quarantined =
     .label = Rozšíření nemůže číst ani měnit data
+
 origin-controls-options =
     .label = Rozšíření může číst a měnit data
+
 origin-controls-option-all-domains =
     .label = Na všech stránkách
+
 origin-controls-option-when-clicked =
     .label = Pouze při klepnutí
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,16 +34,23 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Nemůže číst ani měnit data na tomto webu
+
 origin-controls-state-quarantined =
     { -vendor-short-name.case-status ->
         [with-cases] Není povolené { -vendor-short-name(case: "ins") } na této stránce
        *[no-cases] Není povolené organizací { -vendor-short-name } na této stránce
     }
+
 origin-controls-state-always-on = Může vždy číst a měnit data na tomto webu
+
 origin-controls-state-when-clicked = Pro čtení nebo změnu dat na tomto webu je nutné oprávnění
+
 origin-controls-state-hover-run-visit-only = Spustit pouze pro tuto návštěvu
+
 origin-controls-state-runnable-hover-open = Otevřít rozšíření
+
 origin-controls-state-runnable-hover-run = Spustit rozšíření
+
 origin-controls-state-temporary-access = Může číst a měnit data během této návštěvy
 
 ## Extension's toolbar button.
@@ -48,6 +60,7 @@ origin-controls-state-temporary-access = Může číst a měnit data během tét
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -55,6 +68,7 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Vyžadováno oprávnění
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

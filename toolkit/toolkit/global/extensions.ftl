@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Zrušit
     .accesskey = Z
+
 webext-perms-sideload-text = Jiný program ve vašem počítači nainstaloval doplněk, který může ovlivnit váš prohlížeč. Prosím ověřte požadavky na oprávnění tohoto doplňku a zvolte Povolit nebo Zrušit (chcete-li jej ponechat zakázaný).
 webext-perms-sideload-text-no-perms = Jiný program ve vašem počítači nainstaloval doplněk, který může ovlivnit váš prohlížeč. Prosím zvolte Povolit nebo Zrušit (chcete-li jej ponechat zakázaný).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Zrušit
     .accesskey = Z
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Rozšíření { $extension } bylo aktualizováno. Před instalací aktualizované verze je potřeba schválit nová oprávnění. Zvolením „Zrušit“ bude zachována stávající verze rozšíření. Toto rozšíření získá následující oprávnění:
 webext-perms-update-accept =
     .label = Aktualizovat
     .accesskey = A
+
 webext-perms-optional-perms-list-intro = Chce:
 webext-perms-optional-perms-allow =
     .label = Povolit
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Zakázat
     .accesskey = Z
+
 webext-perms-host-description-all-urls = Přistupovat k vašim datům pro všechny webové stránky
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Přistupovat k vašim datům pro webové stránky na doméně { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -62,6 +68,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Přistupovat k vašim datům pro { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

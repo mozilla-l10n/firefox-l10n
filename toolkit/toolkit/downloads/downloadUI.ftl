@@ -18,18 +18,21 @@ download-ui-confirm-quit-cancel-downloads-mac =
        *[other] Pokud teď skončíte, bude zrušeno stahování { $downloadsCount } souborů. Opravdu chcete skončit?
     }
 download-ui-dont-quit-button = Neskončit
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Pokud přejdete do režimu offline, bude zrušeno stahování souboru. Opravdu chcete přejít do režimu offline?
        *[other] Pokud přejdete do režimu offline, bude zrušeno stahování { $downloadsCount } souborů. Opravdu chcete přejít do režimu offline?
     }
 download-ui-dont-go-offline-button = Zůstat online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Pokud zavřete všechna anonymní okna, zruší se jedno aktuální stahování. Opravdu chcete opustit anonymní prohlížení?
        *[other] Pokud zavřete všechna anonymní okna, zruší se některá ({ $downloadsCount }) aktuální stahování. Opravdu chcete opustit anonymní prohlížení?
     }
 download-ui-dont-leave-private-browsing-button = Zůstat v anonymním prohlížení
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Zrušit stahování
