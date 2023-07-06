@@ -8,10 +8,12 @@ search-header =
     .placeholder = Cerca a addons.mozilla.org
     .searchbuttonlabel = Cerca
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Obteniu més extensions i temes a <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
 
 list-empty-installed =
     .value = No teniu instal·lat cap complement d'este tipus
@@ -331,9 +333,6 @@ extension-enabled-heading = Activades
 extension-disabled-heading = Desactivades
 
 theme-enabled-heading = Activat
-theme-disabled-heading = Desactivats
-theme-monochromatic-heading = Combinació de colors
-theme-monochromatic-subheading = Combinacions de colors vibrants del { -brand-product-name }. Disponibles durant un temps limitat.
 
 plugin-enabled-heading = Activats
 plugin-disabled-heading = Desactivats
@@ -400,6 +399,9 @@ addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés 
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No ho permetes
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -456,6 +458,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

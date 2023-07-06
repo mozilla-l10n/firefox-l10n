@@ -117,13 +117,6 @@ cfr-doorhanger-doh-secondary-button = Inhabilita
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = La vostra privadesa és important. Ara el { -brand-short-name } aïlla els llocs web els uns dels altres, perquè siga més difícil per als furoners robar contrasenyes, números de targetes de crèdit i altra informació confidencial.
-cfr-doorhanger-fission-header = Aïllament de llocs
-cfr-doorhanger-fission-primary-button = Entesos
-    .accesskey = E
-cfr-doorhanger-fission-secondary-button = Més informació
-    .accesskey = M
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = És possible que els vídeos d'este lloc no es reproduïsquen correctament en esta versió del { -brand-short-name }. Per reproduir els vídeos correctament, actualitzeu el { -brand-short-name } ara.
@@ -132,11 +125,6 @@ cfr-doorhanger-video-support-primary-button = Actualitza ara
     .accesskey = A
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Més informació
-    .title = Amplieu per a obtindre més informació sobre la funció
-spotlight-learn-more-expanded = Més informació
-    .title = Tanca
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -153,16 +141,6 @@ spotlight-public-wifi-vpn-link = Ara no
     .accesskey = n
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = Sigueu dels primers de provar la nostra experiència de privadesa més potent de tots els temps
-spotlight-total-cookie-protection-body = La protecció total de galetes impedeix que els seguidors utilitzen les galetes per a perseguir-vos per la web.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = El { -brand-short-name } crea una tanca al voltant de les galetes, limitant-les al lloc on vos trobeu perquè els seguidors no les puguen utilitzar per a seguir-vos. Amb l'accés anticipat, ajudareu a optimitzar esta funció perquè puguem seguir construint una web millor per a tothom.
-spotlight-total-cookie-protection-primary-button = Activa la protecció total de galetes
-spotlight-total-cookie-protection-secondary-button = Ara no
 
 ## Emotive Continuous Onboarding
 
@@ -182,4 +160,16 @@ spotlight-total-cookie-protection-secondary-button = Ara no
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

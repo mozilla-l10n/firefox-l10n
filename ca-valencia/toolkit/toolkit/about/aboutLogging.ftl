@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Fitxer de registre actual:
-about-logging-current-log-modules = Mòduls de registre actuals:
 about-logging-log-tutorial = Vegeu <a data-l10n-name="logging">HTTP Logging</a> per obtindre instruccions sobre com utilitzar esta eina.
 about-logging-set-log-file = Defineix el fitxer de registre
 about-logging-set-log-modules = Defineix els mòduls de registre
 about-logging-start-logging = Inicia el registre
 about-logging-stop-logging = Para el registre
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

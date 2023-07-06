@@ -47,3 +47,4 @@ screenshots-private-window-error-details = Perdoneu les molèsties. Estem trebal
 
 screenshots-generic-error-title = El { -screenshots-brand-name } ha tingut un problema.
 screenshots-generic-error-details = S'ha produït un error inesperat. Torneu-ho a provar o captureu una altra pàgina.
+

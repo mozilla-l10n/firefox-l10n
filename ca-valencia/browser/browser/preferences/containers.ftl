@@ -2,15 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-containers-window-new =
-    .title = Afig un contenidor nou
-    .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update-settings =
-    .title = Paràmetres del contenidor { $name }
-    .style = width: 45em
-
 containers-window-new2 =
     .title = Afig un contenidor nou
     .style = min-width: 45em

@@ -237,20 +237,10 @@ newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
 newtab-pocket-cta-text = Guardeu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
 newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la família { -brand-product-name }
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Guarda al { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = S'ha guardat al { -pocket-brand-name }
-
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Carrega més articles
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Ja esteu al dia.
-newtab-pocket-last-card-desc = Torneu més tard per veure si n'hi ha més.
-newtab-pocket-last-card-image =
-    .alt = Ja esteu al dia.
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

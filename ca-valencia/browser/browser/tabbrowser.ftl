@@ -3,15 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Pestanya nova
+
 tabbrowser-menuitem-close-tab =
     .label = Tanca la pestanya
 tabbrowser-menuitem-close =
     .label = Tanca
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -116,6 +119,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = No em tornes a mostrar este diàleg.
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permet que les notificacions com esta de { $domain } vos portin a la seua pestanya
+
 tabbrowser-customizemode-tab-title = Personalitzeu el { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -141,3 +145,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Llista les { $tabCount } pestanyes
+
+## Tab manager menu buttons
+

@@ -26,10 +26,6 @@ certmgr-people = Teniu certificats al fitxer que identifiquen esta gent
 certmgr-server = Estes entrades identifiquen les excepcions d'error de certificats de servidor
 certmgr-ca = Teniu certificats al fitxer que identifiquen estes entitats certificadores
 
-certmgr-edit-ca-cert =
-    .title = Edita els paràmetres de confiança del certificat de la CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Edita els paràmetres de confiança del certificat de la CA
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Este certificat pot identificar usuaris de correu.
-
-certmgr-delete-cert =
-    .title = Suprimeix el certificat
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Suprimeix el certificat
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Servidor
-
-certmgr-override-lifetime =
-    .label = Temps de vida
 
 certmgr-token-name =
     .label = Dispositiu de seguretat

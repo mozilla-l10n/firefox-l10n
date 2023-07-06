@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Afig la pàgina a les adreces d'interés
-    .accesskey = d
-    .tooltiptext = Afig la pàgina a les adreces d'interés
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Afig la pàgina a les adreces d'interés
-    .accesskey = A
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Edita l'adreça d'interés
-    .accesskey = E
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Afig la pàgina a les adreces d'interés
-    .accesskey = d
-    .tooltiptext = Afig la pàgina a les adreces d'interés ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Edita esta adreça d'interés
-    .accesskey = d
-    .tooltiptext = Edita l'adreça d'interés
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Edita esta adreça d'interés
-    .accesskey = d
-    .tooltiptext = Edita l'adreça d'interés ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Obri l'enllaç
     .accesskey = O
@@ -153,10 +115,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Obri l'enllaç en una finestra privada nova
     .accesskey = p
-
-main-context-menu-bookmark-link =
-    .label = Afig l'enllaç a les adreces d'interés
-    .accesskey = e
 
 main-context-menu-save-link =
     .label = Anomena i guarda el contingut de l'enllaç…
@@ -320,14 +278,6 @@ main-context-menu-audio-email =
     .label = Envia l'àudio per correu…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Activa este connector
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Amaga este connector
-    .accesskey = m
-
 main-context-menu-save-to-pocket =
     .label = Guarda la pàgina al { -pocket-brand-name }
     .accesskey = k
@@ -386,10 +336,6 @@ main-context-menu-frame-reload =
     .label = Actualitza el marc
     .accesskey = z
 
-main-context-menu-frame-bookmark =
-    .label = Afig el marc a les adreces d'interés
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = Anomena i guarda el marc…
     .accesskey = m
@@ -405,10 +351,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Informació del marc
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = Imprimeix la selecció
-    .accesskey = r
 
 main-context-menu-view-selection-source =
     .label = Codi font de la selecció

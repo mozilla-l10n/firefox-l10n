@@ -323,10 +323,6 @@ about-debugging-worker-inspect-action-disabled =
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Esta pestanya no s'ha acabat de carregat i no es pot inspeccionar
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = Procés principal
-
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = Caixa d'eines de multiprocés

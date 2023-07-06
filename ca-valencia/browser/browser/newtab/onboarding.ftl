@@ -19,6 +19,10 @@ onboarding-welcome-header = Vos donem la benvinguda al { -brand-short-name }
 onboarding-start-browsing-button-label = Comença a navegar
 onboarding-not-now-button-label = Ara no
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Inicia
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Molt bé, teniu el { -brand-short-name }
@@ -31,36 +35,14 @@ return-to-amo-add-extension-label = Afig l'extensió
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Primers passos: pantalla { $current } de { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text =
-    Aquí és
-    on tot comença
-
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Dissenyadora de mobiliari, fan del Firefox
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desactiva les animacions
@@ -69,75 +51,22 @@ mr1-onboarding-reduce-motion-button-label = Desactiva les animacions
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Fixeu el { -brand-short-name } al Dock per accedir-hi més fàcilment
-       *[other] Fixeu el { -brand-short-name } a la barra de tasques per accedir-hi més fàcilment
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Fixa'l al Dock
-       *[other] Fixa'l a la barra de tasques
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Inicia
-
-mr1-onboarding-welcome-header = Vos donem la benvinguda al { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Fes que el { -brand-short-name } siga el meu navegador principal
-    .title = Defineix el { -brand-short-name } com a navegador per defecte i el fixa a la barra de taques
-
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Fes que el { -brand-short-name } siga el meu navegador per defecte
-mr1-onboarding-set-default-secondary-button-label = Ara no
 mr1-onboarding-sign-in-button-label = Inicia la sessió
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Feu que el { -brand-short-name } siga el navegador per defecte
-mr1-onboarding-default-subtitle = Obteniu velocitat, seguretat i privadesa de forma automàtica.
-mr1-onboarding-default-primary-button-label = Fes que siga el navegador per defecte
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-header = Emporteu-vos-ho tot
-mr1-onboarding-import-subtitle = Importeu les vostres contrasenyes, <br/>adreces d'interés i molt més.
 
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importa del { $previous }
 
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Importa del navegador anterior
-mr1-onboarding-import-secondary-button-label = Ara no
-
-mr2-onboarding-colorway-header = La vida en color
-mr2-onboarding-colorway-subtitle = Combinacions de colors vibrants. Disponibles durant un temps limitat.
-mr2-onboarding-colorway-primary-button-label = Guarda la combinació de colors
-mr2-onboarding-colorway-secondary-button-label = Ara no
-mr2-onboarding-colorway-label-soft = Suau
-mr2-onboarding-colorway-label-balanced = Equilibat
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Atrevit
-
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Automàtic
-
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Per defecte
-
 mr1-onboarding-theme-header = Feu-lo vostre
 mr1-onboarding-theme-subtitle = Personalitzeu el { -brand-short-name } amb un tema.
-mr1-onboarding-theme-primary-button-label = Guarda el tema
 mr1-onboarding-theme-secondary-button-label = Ara no
 
 # System theme uses operating system color settings
@@ -209,31 +138,6 @@ mr1-onboarding-theme-description-alpenglow =
         Utilitza un tema dinàmic i acolorit
         per als botons, menús i finestres.
 
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Utilitza esta combinació de colors.
-
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Utilitza esta combinació de colors.
-
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Descobriu les combinacions de colors de { $colorwayName }.
-
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Descobriu les combinacions de colors de { $colorwayName }.
-
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Descobriu els temes per defecte.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Descobriu els temes per defecte.
 
@@ -261,6 +165,8 @@ mr2-onboarding-start-browsing-button-label = Comença a navegar
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -286,4 +192,11 @@ mr2-onboarding-start-browsing-button-label = Comença a navegar
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

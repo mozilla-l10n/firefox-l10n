@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = S'està baixant l'actualització del { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = Hi ha una actualització — baixa-la ara
+
 appmenuitem-banner-update-manual =
     .label = Hi ha una actualització — baixa-la ara
+
 appmenuitem-banner-update-unsupported =
     .label = No s'ha pogut actualitzar — sistema incompatible
+
 appmenuitem-banner-update-restart =
     .label = Hi ha una actualització — reinicia ara
+
 appmenuitem-new-tab =
     .label = Pestanya nova
 appmenuitem-new-window =
@@ -51,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Tanca el menú de l'aplicació
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -71,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Inicia la sessió al Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activa la sincronització…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostra més pestanyes
     .tooltiptext = Mostra més pestanyes d'este dispositiu
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = No hi ha cap pestanya oberta
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.
+
 appmenu-remote-tabs-opensettings =
     .label = Paràmetres
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Voleu veure ací les pestanyes d'altres dispositius?
+
 appmenu-remote-tabs-connectdevice =
     .label = Connecta un altre dispositiu
 appmenu-remote-tabs-welcome = Vegeu una llista de les pestanyes que teniu obertes en altres dispositius.
 appmenu-remote-tabs-unverified = Cal que verifiqueu el compte.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincronitza ara
 appmenuitem-fxa-sign-in = Inicia la sessió al { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestiona el compte
@@ -101,12 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Sincronitza i guarda les dades
 appmenu-fxa-signed-in-label = Inicia la sessió
 appmenu-fxa-setup-sync =
     .label = Activa la sincronització…
+
 appmenuitem-save-page =
     .label = Anomena i guarda la pàgina…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novetats
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -120,39 +135,52 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Analitzador de rendiment
     .tooltiptext = Enregistra un perfil de rendiment
+
 profiler-popup-button-recording =
     .label = Analitzador de rendiment
     .tooltiptext = L'analitzador de rendiment està enregistrant un perfil
+
 profiler-popup-button-capturing =
     .label = Analitzador de rendiment
     .tooltiptext = L'analitzador de rendiment està capturant un perfil
-profiler-popup-title =
-    .value = { -profiler-brand-name }
+
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Mostra més informació
+
 profiler-popup-description-title =
     .value = Enregistreu, analitzeu i compartiu
+
 profiler-popup-description = Col·laboreu en la resolució de problemes de rendiment publicant perfils per compartir-los amb el vostre equip.
+
 profiler-popup-learn-more-button =
     .label = Més informació
+
 profiler-popup-settings =
     .value = Paràmetres
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Edita els paràmetres…
+
 profiler-popup-recording-screen = S'està enregistrant…
+
 profiler-popup-start-recording-button =
     .label = Inicia l'enregistrament
+
 profiler-popup-discard-button =
     .label = Descarta
+
 profiler-popup-capture-button =
     .label = Captura
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Maj+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -167,11 +195,17 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Preconfiguració recomanada per a depuració de la majoria d'aplicacions web, amb poca sobrecàrrega.
 profiler-popup-presets-web-developer-label =
     .label = Desenvolupador web
+
 profiler-popup-presets-media-label =
     .label = Elements multimèdia
+
 profiler-popup-presets-custom-label =
     .label = Personalitzat
 
@@ -179,8 +213,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = Gestiona l'historial
-appmenu-reopen-all-tabs = Torna a obrir totes les pestanyes
-appmenu-reopen-all-windows = Torna a obrir totes les finestres
 appmenu-restore-session =
     .label = Restaura la sessió anterior
 appmenu-clear-history =
@@ -231,6 +263,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalitza la barra d'eines…
+
 appmenu-developer-tools-subheader = Eines del navegador
 appmenu-developer-tools-extensions =
     .label = Extensions per a desenvolupadors

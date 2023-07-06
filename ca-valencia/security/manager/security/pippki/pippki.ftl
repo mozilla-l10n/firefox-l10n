@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Vos trobeu en mode FIPS. El FIPS requereix
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Reinicia la contrasenya principal
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Reinicia la contrasenya principal
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Reinicia la contrasenya principal
 pippki-reset-password-confirmation-message = S'ha reiniciat la vostra contrasenya principal.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Baixada de certificats
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Baixada de certificats
@@ -82,7 +74,5 @@ set-password-reminder = Important: si oblideu la contrasenya de la còpia de seg
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Autenticació de testimoni protegit
-protected-auth-msg = Autentiqueu al testimoni. El mètode d'autenticació depèn del tipus del vostre testimoni.
-protected-auth-token = Testimoni:
+## Protected authentication alert
+

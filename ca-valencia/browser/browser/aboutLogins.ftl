@@ -5,11 +5,6 @@
 
 about-logins-page-title = Inicis de sessió i contrasenyes
 
-login-filter =
-    .placeholder = Cerca els inicis de sessió
-
-create-login-button = Crea un inici de sessió
-
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-sync-button = Inicia la sessió per sincronitzar
 fxaccounts-avatar-button =
@@ -99,9 +94,10 @@ login-item-copied-password-button-text = S'ha copiat
 login-item-save-changes-button = Guarda els canvis
 login-item-save-new-button = Guarda
 login-item-cancel-button = Cancel·la
-login-item-time-changed = Darrera modificació: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Creat: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Darrer ús: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -152,6 +148,9 @@ about-logins-confirm-remove-dialog-title = Voleu eliminar este inici de sessió?
 confirm-delete-dialog-message = Esta acció no es pot desfer.
 about-logins-confirm-remove-dialog-confirm-button = Elimina
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Elimina
@@ -190,6 +189,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Això eliminarà tots els inicis de sessió desats pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contrasenyes
 about-logins-confirm-export-dialog-message = Les contrasenyes es guardaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que puga obrir el fitxer exportat les podrà veure.
 about-logins-confirm-export-dialog-confirm-button = Exporta…
@@ -209,7 +210,6 @@ about-logins-breach-alert-date = Data de la filtració: { DATETIME($date, day: "
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Vés a { $hostname }
-about-logins-breach-alert-learn-more-link = Més informació
 
 ## Vulnerable Password notification
 

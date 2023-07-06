@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Obri
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Obri en una pestanya nova
-    .accesskey = t
-synced-tabs-context-open-in-new-window =
-    .label = Obri en una finestra nova
-    .accesskey = n
-synced-tabs-context-open-in-new-private-window =
-    .label = Obri en una finestra privada nova
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Afig esta pestanya a les adreces d'interés…
-    .accesskey = f
 
 ##
 

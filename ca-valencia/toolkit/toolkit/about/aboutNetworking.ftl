@@ -26,13 +26,6 @@ about-networking-messages-received = Missatges rebuts
 about-networking-bytes-sent = Bytes enviats
 about-networking-bytes-received = Bytes rebuts
 about-networking-logging = Registre
-about-networking-log-tutorial = Vegeu <a data-l10n-name="logging">HTTP Logging</a> per obtindre instruccions sobre com utilitzar esta eina.
-about-networking-current-log-file = Fitxer de registre actual:
-about-networking-current-log-modules = Mòduls de registre actuals:
-about-networking-set-log-file = Defineix el fitxer de registre
-about-networking-set-log-modules = Defineix els mòduls de registre
-about-networking-start-logging = Inicia el registre
-about-networking-stop-logging = Para el registre
 about-networking-dns-lookup = Consulta DNS
 about-networking-dns-lookup-button = Resol
 about-networking-dns-domain = Domini:

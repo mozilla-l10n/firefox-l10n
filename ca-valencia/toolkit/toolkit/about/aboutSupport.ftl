@@ -157,6 +157,8 @@ media-capabilities-title = Capacitats multimèdia
 # List all the entries of the database.
 media-capabilities-enumerate = Enumera la base de dades
 
+## Codec support table
+
 ##
 
 intl-title = Internacionalització i localització

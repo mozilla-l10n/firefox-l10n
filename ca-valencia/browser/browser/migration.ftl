@@ -61,9 +61,6 @@ import-items-description = Seleccioneu quins elements voleu importar:
 
 import-permissions-page-title = Doneu permisos al { -brand-short-name }
 
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = El macOS requereix que permeteu explícitament al { -brand-short-name } accedir a les adreces d'interés del Safari. Feu clic a «Continuar» i seleccioneu el fitxer «Bookmarks.plist» al menú d'obrir el fitxer que apareixerà.
-
 import-migrating-page-title = S'està important…
 
 import-migrating-description = Els elements següents s'estan important en estos moments…
@@ -155,3 +152,4 @@ browser-data-session-checkbox =
     .label = Finestres i pestanyes
 browser-data-session-label =
     .value = Finestres i pestanyes
+

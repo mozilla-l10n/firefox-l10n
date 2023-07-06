@@ -26,7 +26,6 @@ pocket-panel-saved-save-tags = Guarda
 pocket-panel-saved-saving-tags = S'està guardant…
 pocket-panel-saved-suggested-tags = Etiquetes recomanades
 pocket-panel-saved-tags-saved = Etiquetes afegides
-pocket-panel-signup-view-list = Mostra la llista
 
 ## about:pocket-signup panel
 
@@ -42,7 +41,6 @@ pocket-panel-signup-tagline-story-two = Vegeu-lo al { -pocket-brand-name } en qu
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = La meua llista
 pocket-panel-home-welcome-back = Ben tornat
 pocket-panel-home-paragraph = Podeu utilitzar el { -pocket-brand-name } per explorar i guardar pàgines web, articles, vídeos i podcasts, o bé revisitar allò que ja heu llegit.
 pocket-panel-home-explore-popular-topics = Exploreu els temes populars
