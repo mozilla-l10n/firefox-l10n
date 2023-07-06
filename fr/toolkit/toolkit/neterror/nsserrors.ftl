@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     Vous avez reçu un certificat invalide. Veuillez contacter l’administrateur du serveur ou votre correspondant de messagerie et fournissez-lui les informations suivantes :
     
     Votre certificat contient le même numéro de série qu’un autre certificat émis par l’autorité de certification. Veuillez vous procurer un nouveau certificat avec un numéro de série unique.
+
 ssl-error-export-only-server = Impossible de communiquer en mode sécurisé. Le pair ne gère pas le chiffrement de haut niveau.
 ssl-error-us-only-server = Impossible de communiquer en mode sécurisé. Le pair requiert un chiffrement de haut niveau qui n’est pas géré.
 ssl-error-no-cypher-overlap = Impossible de communiquer en mode sécurisé avec le pair : aucun algorithme de chiffrement en commun.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Aucune signature d’algorithme TLS
 ssl-error-unsupported-signature-algorithm = Le pair a utilisé une combinaison non prise en charge de signature et d’algorithme de hachage.
 ssl-error-missing-extended-master-secret = Le pair a essayé de reprendre sans extension extended_master_secret correcte.
 ssl-error-unexpected-extended-master-secret = Le pair a essayé de reprendre avec une extension extended_master_secret inattendue.
+
 sec-error-io = Une erreur d’entrée/sortie est survenue pendant l’autorisation de sécurité.
 sec-error-library-failure = Échec de la bibliothèque de sécurité.
 sec-error-bad-data = Bibliothèque de sécurité : données incorrectes reçues.
@@ -317,6 +319,7 @@ sec-error-locked-password = Le mot de passe est verrouillé.
 sec-error-unknown-pkcs11-error = Erreur PKCS #11 inconnue.
 sec-error-bad-crl-dp-url = URL invalide ou non gérée dans un point de distribution CRL.
 sec-error-cert-signature-algorithm-disabled = Le certificat a été signé à l’aide d’un algorithme de signature qui est désactivé pour son manque de sûreté.
+
 mozilla-pkix-error-key-pinning-failure = Le serveur utilise le mécanisme de « key pinning » (HPKP) mais aucune chaîne de confiance pour les certificats n’a pu être établie pour correspondre au pinset. Les violations de « key pinning » ne peuvent pas être forcées.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Le serveur utilise un certificat avec une extension de contraintes basiques qui l’identifie en tant qu’autorité de certification. Pour un certificat correctement émis cela ne devrait pas être le cas.
 mozilla-pkix-error-inadequate-key-size = Le serveur a présenté un certificat dont la taille de la clé est trop petite pour établir une connexion sécurisée.
@@ -331,9 +334,11 @@ mozilla-pkix-error-invalid-integer-encoding = Le serveur a présenté un certifi
 mozilla-pkix-error-empty-issuer-name = Le serveur a présenté un certificat où le nom unique de l’autorité de délivrance est vide.
 mozilla-pkix-error-additional-policy-constraint-failed = Une contrainte de stratégie supplémentaire a échoué lors de la validation de ce certificat.
 mozilla-pkix-error-self-signed-cert = Le certificat n’est pas sûr car il est auto-signé.
+
 xp-java-remove-principal-error = Impossible de supprimer le principal
 xp-java-delete-privilege-error = Impossible de supprimer le privilège
 xp-java-cert-not-exists-error = Ce principal n’a pas de certificat
+
 xp-sec-fortezza-bad-card = La carte Fortezza n’a pas été initialisée correctement. Veuillez la retirer et la renvoyer à votre distributeur.
 xp-sec-fortezza-no-card = Aucune carte Fortezza n’a été trouvée
 xp-sec-fortezza-none-selected = Aucune carte Fortezza n’a été sélectionnée

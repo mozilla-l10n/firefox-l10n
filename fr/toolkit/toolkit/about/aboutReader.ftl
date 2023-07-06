@@ -4,6 +4,7 @@
 
 about-reader-loading = Chargement…
 about-reader-load-error = Impossible de charger l’article à partir de la page
+
 about-reader-color-scheme-light = Clair
     .title = Jeu de couleurs claires
 about-reader-color-scheme-dark = Sombre
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sépia
     .title = Jeu de couleurs sépia
 about-reader-color-scheme-auto = Auto
     .title = Jeu de couleurs automatique
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
