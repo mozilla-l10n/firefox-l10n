@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Moenie afsluit nie
        *[other] Moenie afsluit nie
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] As u nou vanlyn gaan, sal 1 aflaai gekanselleer word. Wil u definitief vanlyn gaan?
        *[other] As u nou vanlyn gaan, sal { $downloadsCount } aflaaie gekanselleer word. Wil u definitief vanlyn gaan?
     }
 download-ui-dont-go-offline-button = Bly aanlyn
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] As u alle privateblaai-vensters nou sluit, sal 1 aflaai gekanselleer word. Wil u definitief ophou om privaat te blaai?
        *[other] As u alle privateblaai-vensters nou sluit, sal { $downloadsCount } aflaaie gekanselleer word. Wil u definitief ophou om privaat te blaai?
     }
 download-ui-dont-leave-private-browsing-button = Bly in privateblaai-modus
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Kanselleer 1 aflaai

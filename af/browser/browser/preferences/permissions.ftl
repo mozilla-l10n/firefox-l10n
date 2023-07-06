@@ -52,10 +52,6 @@ permissions-exceptions-popup-desc = U kan spesifiseer watter webwerwe toegelaat 
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Uitsonderings - Gestoorde aanmeldings
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Uitsonderings - Gestoorde aanmeldings
     .style = { permissions-window2.style }
@@ -80,4 +76,8 @@ permissions-exceptions-addons-desc = U kan spesifiseer watter webwerwe toegelaat
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 

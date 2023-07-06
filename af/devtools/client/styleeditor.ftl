@@ -8,3 +8,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Vind weer
     .accesskey = e
+

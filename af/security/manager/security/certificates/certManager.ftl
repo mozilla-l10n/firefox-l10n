@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Owerhede
 
-certmgr-edit-ca-cert =
-    .title = Redigeer SO-sertifikaatvertroueopstelling
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Redigeer SO-sertifikaatvertroueopstelling
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Hierdie sertifikaat kan e-posgebruikers identifiseer.
 
-certmgr-delete-cert =
-    .title = Skrap sertifikaat
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Skrap sertifikaat
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Bediener
-
-certmgr-override-lifetime =
-    .label = Lewensduur
 
 certmgr-token-name =
     .label = Sekuriteitstoestel

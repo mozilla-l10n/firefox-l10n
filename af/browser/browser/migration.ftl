@@ -99,3 +99,4 @@ browser-data-session-checkbox =
     .label = Vensters en oortjies
 browser-data-session-label =
     .value = Vensters en oortjies
+

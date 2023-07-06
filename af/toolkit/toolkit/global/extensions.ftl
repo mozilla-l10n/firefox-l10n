@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Kanselleer
     .accesskey = K
+
 webext-perms-sideload-text = 'n Ander program op die rekenaar het 'n byvoeging geïnstalleer wat die blaaier kan beïnvloed. Kontrolleer asb. dié byvoeging se toestemmingsversoek en kies Aktiveer of Kanselleer (om dit gedeaktiveer te los).
 webext-perms-sideload-text-no-perms = 'n Ander program op die rekenaar het 'n byvoeging geïnstalleer wat die blaaier kan beïnvloed. Kies Aktiveer of Kanselleer (om dit gedeaktiveer te los).
 webext-perms-sideload-enable =
@@ -30,9 +31,11 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Kanselleer
     .accesskey = K
+
 webext-perms-update-accept =
     .label = Werk by
     .accesskey = W
+
 webext-perms-optional-perms-list-intro = Hy wil:
 webext-perms-optional-perms-allow =
     .label = Laat toe
@@ -40,10 +43,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Weier
     .accesskey = W
+
 webext-perms-host-description-all-urls = Toegang tot u data vir alle webwerwe
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Toegang tot u data vir werwe in die { $domain }-domein
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -55,6 +61,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Toegang tot u data vir { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

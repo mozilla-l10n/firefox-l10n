@@ -10,3 +10,5 @@ about-private-browsing-not-private = U is nie tans in 'n private venster nie.
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+## Strings used in a promotion message for cookie banner reduction
+

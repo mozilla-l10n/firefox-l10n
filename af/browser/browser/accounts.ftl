@@ -41,6 +41,7 @@ account-single-tab-arriving-from-device-title = Oortjie vanaf { $deviceName }
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Oortjies ontvang
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
