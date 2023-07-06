@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Abrir menú para { $extensionName }
+
 unified-extensions-item-message-manage = Gestionar extensión
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Fijar a la barra de herramientas
+
 unified-extensions-context-menu-manage-extension =
     .label = Gestionar extensión
+
 unified-extensions-context-menu-remove-extension =
     .label = Eliminar extensión
+
 unified-extensions-context-menu-report-extension =
     .label = Informar sobre la extensión
+
 unified-extensions-context-menu-move-widget-up =
     .label = Subir
+
 unified-extensions-context-menu-move-widget-down =
     .label = Bajar
 
