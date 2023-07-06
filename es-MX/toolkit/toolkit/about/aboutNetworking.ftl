@@ -34,13 +34,6 @@ about-networking-messages-received = Mensajes recibidos
 about-networking-bytes-sent = Bytes enviados
 about-networking-bytes-received = Bytes recibidos
 about-networking-logging = Registro
-about-networking-log-tutorial = Vea<a data-l10n-name="logging">Registro HTTP</a> para instrucciones sobre como usar esta herramienta.
-about-networking-current-log-file = Archivo de registro actual:
-about-networking-current-log-modules = Módulos de registro actuales:
-about-networking-set-log-file = Establecer archivo de registro
-about-networking-set-log-modules = Establecer módulos de registro
-about-networking-start-logging = Iniciar registro
-about-networking-stop-logging = Detener registro
 about-networking-dns-lookup = Búsqueda de DNS
 about-networking-dns-lookup-button = Resolver
 about-networking-dns-domain = Dominio:

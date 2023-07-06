@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Importar datos del navegador
 migration-wizard-selection-list = Selecciona los datos que deseas importar.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Selecciona los datos que deseas importar.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -52,17 +54,21 @@ migration-selected-data-label = Importar datos seleccionados
 
 migration-select-all-option-label = Seleccionar todo
 migration-bookmarks-option-label = Marcadores
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritos
+
 migration-logins-and-passwords-option-label = Inicios de sesión y contraseñas guardados
 migration-history-option-label = Historial de navegación
 migration-form-autofill-option-label = Datos de autocompletado de formularios
+
 migration-passwords-from-file-progress-header = Importar archivo de contraseñas
 migration-passwords-from-file-success-header = Contraseñas importadas correctamente
 migration-passwords-from-file = Buscando contraseñas en el archivo
 migration-passwords-new = Nuevas contraseñas
 migration-passwords-updated = Contraseñas existentes
+
 migration-passwords-from-file-picker-title = Importar archivo de contraseñas
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -78,6 +84,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] Archivo TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -88,6 +95,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } agregada
        *[other] { $newEntries } agregadas
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -98,12 +106,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualizada
        *[other] { $updatedEntries } actualizadas
     }
+
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar desde archivo
 migration-import-from-file-button-label = Seleccionar archivo
 migration-cancel-button-label = Cancelar
 migration-done-button-label = Hecho
 migration-continue-button-label = Continuar
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } no ha podido encontrar ningún programa que contenga datos de marcadores, historial o contraseñas.
 migration-wizard-import-browser-no-resources = Se ha producido un error. { -brand-short-name } no puede encontrar ningún dato para importar desde ese perfil de navegador.
 
@@ -114,6 +124,7 @@ migration-wizard-import-browser-no-resources = Se ha producido un error. { -bran
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = marcadores
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = favoritos
@@ -129,6 +140,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importando…
 migration-wizard-progress-icon-completed =
     .aria-label = Completado
+
 migration-safari-password-import-header = Importar contraseñas de Safari
 migration-safari-password-import-steps-header = Para importar contraseñas de Safari:
 migration-safari-password-import-step1 = En Safari, abre el menú "Safari" y ve a Preferencias > Contraseñas
@@ -137,6 +149,8 @@ migration-safari-password-import-step3 = Guarda el archivo de contraseñas
 migration-safari-password-import-step4 = Usa “Seleccionar archivo” a continuación para elegir el archivo de contraseñas que guardaste
 migration-safari-password-import-skip-button = Saltar
 migration-safari-password-import-select-button = Seleccionar archivo
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -147,6 +161,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } marcador
        *[other] { $quantity } marcadores
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -159,6 +174,13 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } favorito
        *[other] { $quantity } favoritos
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -169,6 +191,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } contraseña
        *[other] { $quantity } contraseñas
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -179,8 +202,9 @@ migration-wizard-progress-success-history =
         [one] Desde el último día
        *[other] De los últimos { $maxAgeInDays } días
     }
+
 migration-wizard-progress-success-formdata = Historial de formularios
+
 migration-wizard-safari-permissions-sub-header = Para importar marcadores e historial de navegación de Safari:
 migration-wizard-safari-instructions-continue = Selecciona "Continuar"
 migration-wizard-safari-instructions-folder = Selecciona la carpeta Safari en la lista y elije “Abrir”
-migration-wizard-safari-select-button = Seleccionar archivo
