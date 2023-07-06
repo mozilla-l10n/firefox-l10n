@@ -6,7 +6,9 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Fræðast meira
+
 accessibility-text-label-header = Textamerki og nöfn
+
 accessibility-keyboard-header = Lyklaborð
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
@@ -21,8 +23,10 @@ accessibility-progress-finishing = Er að klára...
 
 accessibility-warning =
     .alt = Aðvörun
+
 accessibility-fail =
     .alt = Villa
+
 accessibility-best-practices =
     .alt = Góðar venjur
 

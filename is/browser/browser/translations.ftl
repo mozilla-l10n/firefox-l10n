@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Þýða þessa síðu
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Síða þýdd úr { $fromLanguage } yfir á { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Þýðing í gangi
+
 translations-panel-settings-button =
     .aria-label = Sýsla með þýðingarstillingar
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Sýsla með tungumál
 translations-panel-settings-about = Um þýðingar í { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Alltaf þýða { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Alltaf þýða þetta tungumál
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Aldrei þýða { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Aldrei þýða þetta tungumál
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Aldrei þýða þetta vefsvæði
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Bíddu aðeins…
 translations-panel-translate-cancel =
     .label = Hætta við
+
 translations-panel-error-translating = Vandamál kom upp við að þýða. Reyndu aftur.
 translations-panel-error-load-languages = Ekki tókst að hlaða inn tungumálum
 translations-panel-error-load-languages-hint = Athugaðu internettenginguna þína og reyndu aftur.
 translations-panel-error-load-languages-hint-button =
     .label = Reyna aftur
+
 translations-panel-error-unsupported = Þýðing er ekki tiltæk fyrir þessa síðu
 translations-panel-error-dismiss-button =
     .label = Ég skil
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Villa kom upp við að sækja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-delete = Villa kom upp við að eyða tungumálaskránum. Reyndu aftur.
 translations-manage-error-list = Ekki tókst að ná í lista yfir tiltæk tungumál fyrir þýðingar. Endurnýjaðu síðuna til að reyna aftur.
+
 translations-settings-title =
     .title = Þýðingastillingar
     .style = min-width: 36em

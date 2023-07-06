@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = Forritsaukinn getur ekki lesið og breytt gögnum
+
 origin-controls-quarantined =
     .label = Viðbót er ekki leyft að lesa og breyta gögnum
+
 origin-controls-options =
     .label = Forritsaukinn getur lesið og breytt gögnum:
+
 origin-controls-option-all-domains =
     .label = Á öllum vefsvæðum
+
 origin-controls-option-when-clicked =
     .label = Aðeins þegar er smellt
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,12 +34,19 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Getur ekki lesið og breytt gögnum á þessu vefsvæði
+
 origin-controls-state-quarantined = Ekki leyft af { -vendor-short-name } á þessu vefsvæði
+
 origin-controls-state-always-on = Getur alltaf lesið og breytt gögnum á þessu vefsvæði
+
 origin-controls-state-when-clicked = Heimild þarf til að lesa og breyta gögnum
+
 origin-controls-state-hover-run-visit-only = Keyra aðeins fyrir þessa heimsókn
+
 origin-controls-state-runnable-hover-open = Opna forritsauka
+
 origin-controls-state-runnable-hover-run = Keyra forritsauka
+
 origin-controls-state-temporary-access = Getur lesið og breytt gögnum fyrir þessa heimsókn
 
 ## Extension's toolbar button.
@@ -44,6 +56,7 @@ origin-controls-state-temporary-access = Getur lesið og breytt gögnum fyrir þ
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -51,6 +64,7 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Heimild nauðsynleg
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

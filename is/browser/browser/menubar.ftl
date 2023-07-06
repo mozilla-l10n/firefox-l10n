@@ -38,9 +38,11 @@ menu-quit =
             [windows] H
            *[other] H
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Hætta í { -brand-shorter-name }
+
 menu-about =
     .label = Um { -brand-shorter-name }
     .accesskey = U
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Nýlega lokaðir flipar
 menu-history-undo-window-menu =
     .label = Nýlega lokaðir gluggar
-menu-history-reopen-all-tabs = Enduropna alla flipa
-menu-history-reopen-all-windows = Enduropna alla glugga
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Sýsla með bókamerki
-menu-bookmark-current-tab =
-    .label = Bókamerkja núverandi flipa
-menu-bookmark-edit =
-    .label = Breyta bókamerki
 menu-bookmark-tab =
     .label = Bókamerkja núverandi flipa…
 menu-edit-bookmark =

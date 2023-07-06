@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Hætta við
     .accesskey = H
+
 webext-perms-sideload-text = Eitthvað annað forrit á tölvunni setti inn viðbót sem gæti haft á vafrann. Prófaðu að athuga heimildir fyrir viðbótina og veldu að Virkja eða Óvirkja (til að hafa það áfram óvirkt).
 webext-perms-sideload-text-no-perms = Eitthvað annað forrit á tölvunni setti inn viðbót sem gæti haft á vafrann. Veldu að Virkja eða Óvirkja (til að hafa það áfram óvirkt).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Hætta við
     .accesskey = H
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Búið er að uppfæra { $extension }. Þú verður að samþykkja nýju heimildirnar áður en hægt er að setja inn nýju útgáfuna. Ef þú velur “Hætta við” verður núverandi útgáfa af viðbótinni notuð í staðinn. Þessi viðbót mun hafa heimildir til að:
 webext-perms-update-accept =
     .label = Uppfæra
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = Það vill:
 webext-perms-optional-perms-allow =
     .label = Leyfa
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Hafna
     .accesskey = H
+
 webext-perms-host-description-all-urls = Skoða gögnin þín fyrir öll vefsvæði
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Skoða gögnin þín fyrir vefsvæði á { $domain } léninu
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Skoða gögnin þín fyrir { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

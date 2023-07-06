@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Þú ert núna í FIPS-ham. FIPS má ekki 
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Endurstilla aðallykilorð
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Endurstilla aðallykilorð
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Endurstilla aðallykilorð
 pippki-reset-password-confirmation-message = Aðallykilorðið þitt hefur verið endurstillt.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Hleð niður skilríki
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Hleð niður skilríki
@@ -82,7 +74,5 @@ set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits ge
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Auðkenning varins teikns
-protected-auth-msg = Auðkenndu þig með teikni. Aðferð við auðkenningu fer eftir tegund teikns.
-protected-auth-token = Teikn:
+## Protected authentication alert
+

@@ -4,6 +4,7 @@
 
 about-reader-loading = Hleður…
 about-reader-load-error = Gat ekki hlaðið inn grein frá síðu
+
 about-reader-color-scheme-light = Ljóst
     .title = Ljóst litastef
 about-reader-color-scheme-dark = Dökkt
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepía
     .title = Sepía litastef
 about-reader-color-scheme-auto = Sjálfvirkt
     .title = Sjálfvirkt litastef
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -30,6 +30,7 @@ webrtc-item-browser = flipi
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Óþekktur uppruni
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Deildir flipar og tæki
     .accesskey = D
+
 webrtc-sharing-window = Þú ert að deila öðrum forritsglugga.
 webrtc-sharing-browser-window = Þú ert að deila { -brand-short-name }.
 webrtc-sharing-screen = Þú ert að deila öllum skjánum þínum.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Stjórna deilingu
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Stjórna deilingu á “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Deila myndavél með “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Deili myndavél með { $tabCount } flipa
            *[other] Deili myndavél með { $tabCount } flipum
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Deila hljóðnema með “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Deili hljóðnema með { $tabCount } flipa
            *[other] Deili hljóðnema með { $tabCount } flipum
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Deila forriti með “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Deili forriti með { $tabCount } flipa
            *[other] Deili forriti með { $tabCount } flipum
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Deila skjá með “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Deili skjá með { $tabCount } flipa
            *[other] Deili skjá með { $tabCount } flipum
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Deila glugga með “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Deili glugga með { $tabCount } flipa
            *[other] Deili glugga með { $tabCount } flipum
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Deila flipa með “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = Leyfa { $origin } að nota hlusta 
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Leyfa { $origin } að gefa { $thirdParty } heimild til að hlusta á hljóð í þessum flipa?
 webrtc-allow-share-camera-unsafe-delegation = Leyfa { $origin } að veita { $thirdParty } aðgang að myndavélinni þinni?
-webrtc-allow-share-microphone-unsafe-delegations = Leyfa { $origin } að veita { $thirdParty } aðgang að hljóðnemanum þínum?
 webrtc-allow-share-microphone-unsafe-delegation = Leyfa { $origin } að veita { $thirdParty } aðgang að hljóðnemanum þínum?
 webrtc-allow-share-screen-unsafe-delegation = Leyfa { $origin } að gefa { $thirdParty } heimild til að sjá skjáinn þinn?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Leyfa { $origin 
 
 webrtc-share-screen-warning = Passaðu að deila aðeins skjá með vefsvæðum sem þú treystir. Deiling á skjá getur gert svindl-vefsvæðum kleift að þykjast vera þú og stela einkagögnum.
 webrtc-share-browser-warning = Deildu { -brand-short-name } aðeins með vefsvæðum sem þú treystir. Samnýting getur gert svildlsvæðum kleift að vafra sem þú og stela einkagögnum þínum.
+
 webrtc-share-screen-learn-more = Lesa meira
 webrtc-pick-window-or-screen = Velja glugga eða skjá
 webrtc-share-entire-screen = Allur skjárinn
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Muna þessa ákvörðun
 webrtc-mute-notifications-checkbox = Þagga niður í tilkynningum vefsvæðis meðan þú deilir
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } leyfir ekki fastan aðgang að skjánum þínum.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } leyfir ekki fastan aðgang að flipum nema að spyrja hvaða flipa á að deila.
 webrtc-reason-for-no-permanent-allow-insecure = Tenging við vefsvæðið er ekki örugg. Þér til verndar, mun { -brand-short-name } aðeins leyfa aðgang fyrir þessa lotu.

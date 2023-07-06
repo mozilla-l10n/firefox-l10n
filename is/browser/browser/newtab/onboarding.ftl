@@ -14,13 +14,6 @@ onboarding-welcome-header = Vertu velkomin í { -brand-short-name }
 onboarding-start-browsing-button-label = Fara að vafra
 onboarding-not-now-button-label = Ekki núna
 mr1-onboarding-get-started-primary-button-label = Hefjast handa
-mr1-onboarding-welcome-header = Velkomin í { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
-    .title = Gerir { -brand-short-name } að sjálfgefnum vafra og festir hann við verkefnastikuna
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Gera { -brand-short-name } að sjálfgefna vafranum mínum
-mr1-onboarding-set-default-secondary-button-label = Ekki núna
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,50 +38,16 @@ mr1-return-to-amo-add-extension-label = Bæta við { $addon-name }
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Komast í gang: skjár { $current } af { $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text =
-    Bálið byrjar
-    hér
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Húsgagnahönnuður, Firefox-aðdáandi
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = Framvinda: skref { $current } af { $total }
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slökkva á hreyfingum
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Haltu { -brand-short-name } í dokkunni þinni til að einfalda aðgengið
-       *[other] Festu { -brand-short-name } á verkefnastikuna þína til að einfalda aðgengið
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Halda í dokku
-       *[other] Festa á verkefnastikuna
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -98,44 +57,25 @@ mr1-onboarding-sign-in-button-label = Innskráning
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Gera { -brand-short-name } sjálfgefinn
-mr1-onboarding-default-subtitle = Settu hraða, öryggi og næði á sjálfstýringu.
-mr1-onboarding-default-primary-button-label = Gera að sjálfgefnum vafra
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Taktu allt með þér
-mr1-onboarding-import-subtitle = Flyttu inn lykilorð, <br/>bókamerki og fleira.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Flytja inn úr { $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Flytja inn úr fyrri vafra
-mr1-onboarding-import-secondary-button-label = Ekki núna
-mr2-onboarding-colorway-header = Lífið í lit
-mr2-onboarding-colorway-subtitle = Lífleg ný litasett. Í boði í takmarkaðan tíma.
-mr2-onboarding-colorway-primary-button-label = Vista litasett
-mr2-onboarding-colorway-secondary-button-label = Ekki núna
-mr2-onboarding-colorway-label-soft = Mjúkt
-mr2-onboarding-colorway-label-balanced = Jafnvægi
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Djarft
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Sjálfvirkt
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Sjálfgefið
+
 mr1-onboarding-theme-header = Gerðu það að þínu eigin
 mr1-onboarding-theme-subtitle = Sérsníddu { -brand-short-name } með þema.
-mr1-onboarding-theme-primary-button-label = Vista þema
 mr1-onboarding-theme-secondary-button-label = Ekki núna
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Kerfisþema
+
 mr1-onboarding-theme-label-light = Ljóst
 mr1-onboarding-theme-label-dark = Dökkt
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Lokið
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -148,61 +88,49 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Fylgdu stýrikerfisþema
         fyrir hnappa, valmyndir og glugga.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Fylgdu stýrikerfisþema
         fyrir hnappa, valmyndir og glugga.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Notaðu ljóst þema á hnöppum,
         valmyndum og gluggum.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Notaðu ljóst þema á hnöppum,
         valmyndum og gluggum.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Notaðu dökkt þema á hnöppum,
         valmyndum og gluggum.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Notaðu dökkt þema á hnöppum,
         valmyndum og gluggum.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Notaðu kraftmikið, litríkt þema fyrir
         hnappa, valmyndir og glugga.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Notaðu kraftmikið, litríkt þema fyrir
         hnappa, valmyndir og glugga.
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Nota þetta litasett.
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Nota þetta litasett.
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Skoða { $colorwayName } litasett.
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Skoða { $colorwayName } litasett.
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Skoða sjálfgefin þemu.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Skoða sjálfgefin þemu.
 
@@ -230,13 +158,18 @@ mr2-onboarding-start-browsing-button-label = Byrjaðu að vafra
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Veldu tungumálið þitt
+
 mr2022-onboarding-live-language-text = { -brand-short-name } talar tungumálið þitt
+
 mr2022-language-mismatch-subtitle = Þökk sé samfélaginu okkar er { -brand-short-name } þýtt á yfir 90 tungumál. Það lítur út fyrir að kerfið þitt sé að nota { $systemLanguage } og { -brand-short-name } noti { $appLanguage }.
+
 onboarding-live-language-button-label-downloading = Sæki tungumálapakkann fyrir { $negotiatedLanguage }...
 onboarding-live-language-waiting-button = Sæki tiltæk tungumál...
 onboarding-live-language-installing = Set upp tungumálapakkann fyrir { $negotiatedLanguage }...
+
 mr2022-onboarding-live-language-switch-to = Skipta yfir í { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Halda áfram á { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Hætta við
 onboarding-live-language-skip-button-label = Sleppa
 
@@ -259,12 +192,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Halda { -brand-short-name } í dokkunni
        *[other] Festa { -brand-short-name } á verkefnastikuna
     }
+
 fx100-upgrade-thanks-header = 100 sinnum takk til þín
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Þetta er hundraðasta útgáfan okkar af { -brand-short-name }. Þakka <em>þér</em> fyrir að hjálpa okkur að byggja upp betra og heilbrigðara internet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Þetta er hundraðasta útgáfan okkar! Takk fyrir að vera hluti af samfélaginu okkar. Höldum { -brand-short-name } ótrauð áfram í næstu 100.
+
 mr2022-onboarding-secondary-skip-button-label = Sleppa þessu skrefi
 
 ## MR2022 New User Easy Setup screen strings
@@ -341,30 +276,37 @@ mr2022-onboarding-colorway-title = Veldu litinn sem veitir þér innblástur
 mr2022-onboarding-colorway-subtitle = Óháðar raddir geta breytt menningunni.
 mr2022-onboarding-colorway-primary-button-label-continue = Stilla og halda áfram
 mr2022-onboarding-existing-colorway-checkbox-label = Gerðu { -firefox-home-brand-name } að litríku upphafssíðunni þinni
+
 mr2022-onboarding-colorway-label-default = Sjálfgefið
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Núverandi litir { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Nota núverandi { -brand-short-name } litina mína.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Leikstjórnandi
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Leikstjórnandi (rautt)
 mr2022-onboarding-colorway-description-playmaker = <b>Þú ert leikstjórnandi.</b> Þú skapar tækifæri til árangurs og hjálpar öllum í kringum þig að verða betri.
+
 mr2022-onboarding-colorway-label-expressionist = Expressjónisti
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressjónisti (gult)
 mr2022-onboarding-colorway-description-expressionist = <b>Þú ert expressjónisti.</b> Þú sérð heiminn öðruvísi og sköpun þín vekur tilfinningar annarra.
+
 mr2022-onboarding-colorway-label-visionary = Framsýni
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Framsýni (grænt)
 mr2022-onboarding-colorway-description-visionary = <b>Þú ert framsýn hugsjónamanneskja.</b> Þú efast um óbreytt ástand og færð aðra til að ímynda sér betri framtíð.
+
 mr2022-onboarding-colorway-label-activist = Aðgerðarsinni
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aðgerðasinni (blátt)
 mr2022-onboarding-colorway-description-activist = <b>Þú ert aðgerðarsinni.</b> Þú skilur heiminn eftir sem betri stað en þú fannst hann og færð aðra til að trúa á málstaðinn.
+
 mr2022-onboarding-colorway-label-dreamer = Dreymandi
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Dreymandi (fjólublátt)
 mr2022-onboarding-colorway-description-dreamer = <b>Þú ert draumóramaður.</b> Þú trúir því að örlögin séu hagstæð þeim djörfu og hvetur aðra til að vera hugrakkir.
+
 mr2022-onboarding-colorway-label-innovator = Frumkvöðull
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Frumkvöðull (appelsínugult)

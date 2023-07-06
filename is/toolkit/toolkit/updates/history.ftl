@@ -23,5 +23,7 @@ state-header = Staða
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Nánar
+
 update-installed-on = Sett upp: { $date }
+
 update-status = Staða: { $status }

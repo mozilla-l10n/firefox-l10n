@@ -12,7 +12,6 @@ confirmation-hint-password-saved = Lykilorð vistað!
 confirmation-hint-pin-tab = Fest!
 confirmation-hint-pin-tab-description = Hægri smelltu á flipann til að fjarlæga hann.
 confirmation-hint-send-to-device = Sent!
-confirmation-hint-firefox-relay-mask-generated = Ný { -relay-brand-short-name } tölvupósthula útbúin!
 confirmation-hint-firefox-relay-mask-created = Ný tölvupósthula útbúin!
 confirmation-hint-firefox-relay-mask-reused = Fyrirliggjandi tölvupósthula endurnýtt!
 confirmation-hint-screenshot-copied = Skjámynd afrituð!

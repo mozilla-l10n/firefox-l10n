@@ -27,6 +27,7 @@ about-logging-logging-preset-selector-text = Forstilling atvikaskráningar:
 about-logging-preset-networking-label = Netvinnsla
 about-logging-preset-media-playback-label = Afspilun margmiðlunar
 about-logging-preset-custom-label = Sérsniðið
+
 # Error handling
 about-logging-error = Villa:
 
