@@ -60,3 +60,7 @@ permissions-invalid-uri-label = Uyacelwa faka libito lalovakashelwe lelisemtsetf
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

@@ -175,6 +175,7 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Layishela
+
 tabs-toolbar-new-tab =
     .label = Emathebhu Lamasha
 
@@ -191,6 +192,9 @@ tabs-toolbar-new-tab =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 
@@ -202,6 +206,8 @@ tabs-toolbar-new-tab =
 
 ## Pop-up Notification
 
+
+## Add-on Pop-up Notifications
 
 ## Pop-up warning
 

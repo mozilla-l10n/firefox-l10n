@@ -57,3 +57,6 @@ general-quirks-mode =
 general-strict-mode =
     .value = Indlela levamile yemtsetfo
 
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+

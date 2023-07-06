@@ -38,3 +38,5 @@ tabbrowser-confirm-close-tabs-button = Vala emathebhu
 
 ## Ctrl-Tab dialog
 
+## Tab manager menu buttons
+
