@@ -14,6 +14,7 @@ xpinstall-prompt-message = { $host } adresinden bir eklenti yüklemeye çalış�
 
 xpinstall-prompt-header-unknown = Bilinmeyen bir sitenin eklenti yüklemesine izin verilsin mi?
 xpinstall-prompt-message-unknown = Bilinmeyen bir siteden eklenti yüklemeye çalışıyorsunuz. Devam etmeden önce bu siteye güvendiğinizden emin olun.
+
 xpinstall-prompt-dont-allow =
     .label = İzin verme
     .accesskey = m
@@ -44,6 +45,7 @@ xpinstall-disabled = Yazılım yüklenmesi şu anda devre dışı. Etkinleştir 
 xpinstall-disabled-button =
     .label = Etkinleştir
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) sistem yönetici
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Sistem yöneticiniz bu sitenin bilgisayarınıza yazılım yüklemeyi istemesini engelledi.
 addon-install-full-screen-blocked = Tam ekran modundayken veya tam ekran moduna girerken eklenti kurulamaz.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } uygulamasına eklendi
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } yeni izinler istiyor
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = { $name } kaldırılsın mı?
 addon-removal-message = { $name }, { -brand-shorter-name } tarayıcınızdan kaldırılsın mı?
 addon-removal-button = Kaldır
 addon-removal-abuse-report-checkbox = Bu uzantıyı { -vendor-short-name }’ya şikâyet et
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +86,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } eklenti indiriliyor ve doğrulanıyor…
     }
 addon-download-verifying = Doğrulanıyor
+
 addon-install-cancel-button =
     .label = İptal
     .accesskey = a

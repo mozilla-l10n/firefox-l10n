@@ -12,7 +12,6 @@ confirmation-hint-password-saved = Parola kaydedildi!
 confirmation-hint-pin-tab = Sabitlendi!
 confirmation-hint-pin-tab-description = Sabitlemeyi kaldırmak için sekmeye sağ tıklayın.
 confirmation-hint-send-to-device = Gönderildi!
-confirmation-hint-firefox-relay-mask-generated = Yeni { -relay-brand-short-name } maskesi oluşturuldu.
 confirmation-hint-firefox-relay-mask-created = Yeni maske oluşturuldu!
 confirmation-hint-firefox-relay-mask-reused = Mevcut maske yeniden kullanıldı!
 confirmation-hint-screenshot-copied = Ekran görüntüsü kopyalandı!

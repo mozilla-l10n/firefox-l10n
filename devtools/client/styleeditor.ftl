@@ -20,7 +20,6 @@ styleeditor-save-button = Kaydet
     .accesskey = K
 styleeditor-options-button =
     .tooltiptext = Stil editörü seçenekleri
-styleeditor-media-rules = @media kuralları
 styleeditor-at-rules = “At” kuralları
 styleeditor-editor-textbox =
     .data-placeholder = CSS’i buraya yazın.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = r
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Eşleşen stil dosyası bulunamadı.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

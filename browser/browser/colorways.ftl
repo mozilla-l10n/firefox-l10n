@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Bağımsız Sesler
-colorway-collection-independent-voices-description = Renkler kültürü değiştirebilir. Yeni renk kuşaklarında, dünyayı daha iyi bir yere dönüştüren seslerden ilham aldık.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Kültürü değiştiren renkler.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Oyun Kurucu

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Hayır, indirmeye devam et
        *[other] Hayır, indirmeye devam et
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Şimdi çevrimdışı olursanız indirilen 1 dosyadan vazgeçilecek. Çevrimdışı olmak istediğinizden emin misiniz?
        *[other] Şimdi çevrimdışı olursanız indirilen { $downloadsCount } dosyadan vazgeçilecek. Çevrimdışı olmak istediğinizden emin misiniz?
     }
 download-ui-dont-go-offline-button = Çevrimiçi kal
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Tüm Gizli Gezinti pencerelerini şimdi kapatırsanız 1 indirme işlemi iptal edilecek. Gizli Gezinti’den çıkmak istediğinize emin misiniz?
        *[other] Tüm Gizli Gezinti pencerelerini şimdi kapatırsanız { $downloadsCount } indirme işlemi iptal edilecek. Gizli Gezinti’den çıkmak istediğinize emin misiniz?
     }
 download-ui-dont-leave-private-browsing-button = Gizli Gezinti’yi sürdür
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Evet, indirmekten vazgeç

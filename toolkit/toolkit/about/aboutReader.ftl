@@ -4,6 +4,7 @@
 
 about-reader-loading = Yükleniyor…
 about-reader-load-error = Makale sayfadan yüklenemedi
+
 about-reader-color-scheme-light = Beyaz
     .title = Açık renk düzeni
 about-reader-color-scheme-dark = Siyah
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepya
     .title = Sepya renk düzeni
 about-reader-color-scheme-auto = Otomatik
     .title = Otomatik renk düzeni
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
