@@ -32,11 +32,16 @@ about-logging-with-profiler-stacks-checkbox = 启用日志消息的堆栈跟踪
 
 about-logging-preset-networking-label = 网络
 about-logging-preset-networking-description = 用于诊断网络问题的日志模块
+about-logging-preset-networking-cookie-label = Cookie
+about-logging-preset-networking-cookie-description = 用于诊断 Cookie 问题的日志模块
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = 用于诊断 HTTP/3 和 QUIC 问题的日志模块
 about-logging-preset-media-playback-label = 媒体播放
 about-logging-preset-media-playback-description = 用于诊断媒体播放（非视频会议）问题的日志模块
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = 用于诊断 WebRTC 调用的日志模块
 about-logging-preset-custom-label = 自定义
 about-logging-preset-custom-description = 手动选择的日志模块
-
 # Error handling
 about-logging-error = 错误：
 
@@ -50,5 +55,4 @@ about-logging-unknown-profiler-preset = 性能分析预设置“{ $v }”未知
 about-logging-unknown-option = about:logging 选项“{ $k }”未知
 about-logging-configuration-url-ignored = 已忽略配置 URL
 about-logging-file-and-profiler-override = 无法同时强制输出到文件并覆盖性能分析选项
-
 about-logging-configured-via-url = 通过 URL 配置的选项
