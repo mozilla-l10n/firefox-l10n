@@ -24,3 +24,4 @@ compatibility-target-browsers-header = مرورگرهای هدف
 
 compatibility-close-settings-button =
     .title = بستن تنظیمات
+

@@ -4,3 +4,4 @@
 
 # Used for data: URLs where we don't have any useful origin information
 browser-utils-url-data = (داده)
+

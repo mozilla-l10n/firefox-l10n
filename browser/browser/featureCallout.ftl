@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = بعدی
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = گرفتم!
 
@@ -17,4 +18,5 @@ callout-firefox-view-colorways-title = یک رنگ پاشیده شده را اض
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-button = بعدی
+
 callout-pdfjs-draw-button = گرفتم!

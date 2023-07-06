@@ -14,13 +14,16 @@ about-unloads-intro =
     این صفحه نشان می‌دهد که چگونه { -brand-short-name } زبانه‌ها را اولویت‌بندی می‌کند و
     اینکه کدام زبانه هنگامی که پیاده کردن زبانه آغاز می‌شود، ابتدا پیاده خواهند شد. همچنین می‌توانید
     به صورت دستی با کلیک بر روی دکمه <em>پیاده کردن</em> در زیر پیاده کردن زبانه را انجام دهید.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = برای کسب اطّلاعات بیشتر در مورد این قابلیت، <a data-l10n-name="doc-link">پیاده کردن زبانه</a> را ببینید.
+
 about-unloads-last-updated = آخرین به‌روز رسانی: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = پیاده کردن
     .title = پیاده کردن زبانه با بالاترین اولویت
 about-unloads-no-unloadable-tab = هیچ زبانهٔ قابل پیاده کردنی وجود ندارد.
+
 about-unloads-column-priority = اولویت
 about-unloads-column-host = میزبان
 about-unloads-column-last-accessed = آخرین دسترسی
@@ -32,6 +35,7 @@ about-unloads-column-memory = حافظه
     .title = تخمین میزان مصرف حافظه در زبانه
 about-unloads-column-processes = شناسهٔ پردازش
     .title = شناسهٔ پردازش‌های محتوای زبانهٔ میزبان
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } مگابایت
 about-unloads-memory-in-mb-tooltip =

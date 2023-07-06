@@ -30,6 +30,7 @@ webrtc-item-browser = زبانه
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = مبدا نا‌شناخته
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = زبانه‌های دستگاه‌های به‌اشتراک‌گذاری شده
     .accesskey = د
+
 webrtc-sharing-window = شما پنجرهٔ یک برنامه دیگر را اشتراک گذاشته‌اید.
 webrtc-sharing-browser-window = شما { -brand-short-name } را به اشتراک گذاشته‌اید.
 webrtc-sharing-screen = شما تمامِ صفحهٔ خود را به اشتراک گذاشته‌اید.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = مدیریت به اشتراک گذاری
 webrtc-indicator-menuitem-control-sharing-on =
     .label = مدیریت به اشتراک‌گذاری بر روی "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = به اشتراک گذاری دوربین با " { $streamTitle } "
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] اشتراک‌گذاری دوربین با { $tabCount } زبانه
            *[other] اشتراک‌گذاری دوربین با { $tabCount } زبانه
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = هم‌رسانی صدابَر با " { $streamTitle } "
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] هم‌رسانی صدابَر با { $tabCount } زبانه
            *[other] هم‌رسانی صدابَر با { $tabCount } زبانه
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = به اشتراک گذاری برنامه با " { $streamTitle } "
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] اشتراک‌گذاری برنامه با { $tabCount } زبانه
            *[other] اشتراک‌گذاری برنامه‌ها با { $tabCount } زبانه
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = به اشتراک گذاری صفحه نمایشگر با " { $streamTitle } "
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] اشتراک‌گذاری صفحه نمایش با { $tabCount } زبانه
            *[other] اشتراک‌گذاری صفحه نمایش با { $tabCount } زبانه
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = به اشتراک گذاری پنجره با " { $streamTitle } "
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] اشتراک‌گذاری پنجره با { $tabCount } زبانه
            *[other] اشتراک‌گذاری پنجره‌ها با { $tabCount } زبانه
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = به اشتراک گذاری زبانه با " { $streamTitle } "
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -177,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = آیا به { $o
 
 webrtc-share-screen-warning = صفحه‌نمایش را تنها با سایت‌هایی که به آنها اعتماد دارید به اشتراک بگذارید. اشتراک‌گذاری صفحه می‌تواند به سایت‌های گمراه‌کننده اجازه دهد تا بجای شما در وب مرور کرده و داده‌های خصوصی شما را سرقت کنند.
 webrtc-share-browser-warning = { -brand-short-name } را تنها با سایت‌هایی که به آنها اعتماد دارید به اشتراک بگذارید. اشتراک‌گذاری صفحه می‌تواند به سایت‌های گمراه‌کننده اجازه دهد تا بجای شما در وب مرور کرده و داده‌های خصوصی شما را سرقت کنند.
+
 webrtc-share-screen-learn-more = اطلاعات بیشتر
 webrtc-pick-window-or-screen = پنجره یا صفحه را انتخاب کنید
 webrtc-share-entire-screen = تمام صفحه
@@ -212,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = این تصمیم را به خاطر بسپار
 webrtc-mute-notifications-checkbox = هنگام به اشتراک‌گذاری، اعلان‌های وب‌سایت‌ها بی‌صدا باشند
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } به صورت موقت اجازه دسترسی به صفحه شما را ندارد.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } نمی تواند به طور دائمی به گوش دادن صدای زبانه های شما بدون پرسیدن سوال در مورد به اشتراک گذاشتن‌ آن زبانه دسترسی داشته باشد.
 webrtc-reason-for-no-permanent-allow-insecure = ارتباط شما امن نیست. برای محافظت از خود، { -brand-short-name }  تنها مجوز دسترسی برای همین جلسه را دارد.

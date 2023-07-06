@@ -8,18 +8,24 @@
 ##
 
 process-type-web = محتوای وب
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = دربارهٔ ممتاز
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = محتوای اختصاصی Mozilla
+
 process-type-extension = افزونه‌
+
 # process used to open file:// URLs
 process-type-file = پروندهٔ محلی
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = محتوای وب منزوی شده
+
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = کارگر خدمت منزوی شده

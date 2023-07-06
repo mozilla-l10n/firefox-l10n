@@ -8,6 +8,7 @@ refresh-profile-dialog-button =
 refresh-profile = { -brand-short-name } را تنظیم کنید
 refresh-profile-button = نوسازی { -brand-short-name }…
 refresh-profile-learn-more = بیشتر بدانید
+
 refresh-profile-progress =
     .title = نوسازی { -brand-short-name }
 refresh-profile-progress-description = تقریبا تمام است...

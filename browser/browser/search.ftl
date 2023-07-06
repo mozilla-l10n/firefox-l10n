@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = خطای نصب
 opensearch-error-duplicate-desc = { -brand-short-name } قادر به نصب متصل‌شوندهٔ جست‌وجو از «‌{ $location-url }» نبود، زیرا موتوری با همین نام قبلاً وجود دارد.
+
 opensearch-error-format-title = قالب نامعتبر
 opensearch-error-format-desc = { -brand-short-name } امکان نصب موتور جست‌وجو را نداشت، محل: { $location-url }
+
 opensearch-error-download-title = خطای بارگیری
 opensearch-error-download-desc = { -brand-short-name } قادر به بارگیری متصل‌شوندهٔ جست‌وجو از این نشانی نبود: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } قادر به بارگی�
 
 searchbar-submit =
     .tooltiptext = ثبت جست‌وجو
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = جست‌وجو
+
 searchbar-icon =
     .tooltiptext = جست‌وجو
 

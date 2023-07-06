@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = زبانهٔ جدید
 tabbrowser-empty-private-tab-title = زبانهٔ خصوصی جدید
+
 tabbrowser-menuitem-close-tab =
     .label = بستن زبانه
 tabbrowser-menuitem-close =
     .label = بستن
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -117,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = این را دوباره به من �
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = به اعلان‌هایی از این دست از { $domain } اجازه دهید تا شما را به زبانهٔ آنها هدایت کنند
+
 tabbrowser-customizemode-tab-title = سفارشی‌سازی { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -142,3 +146,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = فهرست تمام { $tabCount } زبانه‌ها
+
+## Tab manager menu buttons
+

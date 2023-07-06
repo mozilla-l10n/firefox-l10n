@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = انصراف
     .accesskey = ا
+
 webext-perms-sideload-text = برنامه دیگری بر روی رایانه شما افزونه‌ای را نصب کرده است که ممکن است مرور شما را تحت تاثیر قرار دهد. لطفا دسترسی‌های درخواست شده این افزونه را بررسی کنید و فعال‌سازی یا لغو را (برای غیرفعال کردن) انتخاب کنید.
 webext-perms-sideload-text-no-perms = برنامه های دیگر نصب شده بر روی رایانه شما و افزونه‌ها ممکن بر روی مرورگر شما تاثیر گذارد. لطفا انتخاب کنید فعال باشد یا لغو شود(غیرفعال رها شود)
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = انصراف
     .accesskey = ا
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } به روز شده است. قبل از نصب بروزرسانی شما باید مجوزهای جدید را تایید کنید. انتخاب «انصراف» نسخه کنونی افزونهٔ شما را حفظ می‌کند. این افزونه دسترسی‌های مقابل را خواهد داشت:
 webext-perms-update-accept =
     .label = به‌روزرسانی‌
     .accesskey = ب
+
 webext-perms-optional-perms-list-intro = می‌خواهد:
 webext-perms-optional-perms-allow =
     .label = اجازه دادن
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = رد کردن
     .accesskey = ر
+
 webext-perms-host-description-all-urls = دسترسی به تمامی اطلاعات شما برای تمامی پایگاه های اینترنتی
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = دسترسی به داده های شما برای پایگاه های اینترنتی در این { $domain } دامنه
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = دسترسی به داده شما برای { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

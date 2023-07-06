@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] ترک نشود
        *[other] خارج نشود
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] اگر حالا برون‌خط شوید، ۱ بارگیری لغو خواهد شد. آیا مطمئنید که می‌خواهید برون‌خط شوید؟
        *[other] اگر حالا برون‌خط شوید، { $downloadsCount } بارگیری لغو خواهد شد. آیا مطمئنید که می‌خواهید برون‌خط شوید؟
     }
 download-ui-dont-go-offline-button = برخط بماند
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] اگر اکنون از حالت مرور ناشناس خارج شوید، ۱ بارگیری لغو خواهد شد. آیا مطمئنید که می‌خواهید از حالت مرور ناشناس خارج شوید؟
        *[other] اگر اکنون از حالت مرور ناشناس خارج شوید، { $downloadsCount } بارگیری لغو خواهد شد. آیا مطمئنید که می‌خواهید از حالت مرور ناشناس خارج شوید؟
     }
 download-ui-dont-leave-private-browsing-button = در حالت مرور ناشناس بماند
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] صرف نظر از ۱ بارگیری
