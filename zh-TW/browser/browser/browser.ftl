@@ -38,13 +38,15 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } —（隱私瀏覽模式）
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } —（隱私瀏覽模式）
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
 #
 # default - "Mozilla Firefox"
 # private - "Mozilla Firefox (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
@@ -52,14 +54,17 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } 隱私瀏覽
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } 隱私瀏覽
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
 #
 # "default" - "Mozilla Firefox"
 # "private" - "Mozilla Firefox — (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
 #
 # Also note the other subtle difference here: we use a `-` to separate the
 # brand name from `(Private Browsing)`, which does not happen on other OSes.
@@ -978,6 +983,15 @@ unified-extensions-button-permissions-needed =
     .label = 擴充套件
     .tooltiptext = 擴充套件需要權限
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-quarantined =
+    .label = 擴充套件
+    .tooltiptext =
+        擴充套件
+        不允許某些擴充套件
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } 已阻止本頁面自動重新載入。
@@ -987,15 +1001,6 @@ refresh-blocked-allow =
     .accesskey = A
 
 ## Firefox Relay integration
-
-firefox-relay-offer-why-relay = { -relay-brand-name } 可隱藏您的實際電子郵件地址，以幫助您降低受到資料外洩事件與垃圾信的影響。
-firefox-relay-offer-how-we-integrate = 若繼續，將可以直接從 { -brand-shorter-name } 密碼管理員產生新的 { -relay-brand-short-name } 轉寄信箱。
-# Variables:
-#  $sitename (String): name of the site where user enters their Relay mask
-#  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-does = 我們會將所有 <strong>{ $sitename }</strong> 收到的電子郵件，轉寄到 <strong>{ $useremail }</strong>。
-
-## Popup Notification
 
 firefox-relay-offer-why-to-use-relay = 我們安全易用的轉寄信箱，可隱藏您的實際信箱，並保護您的身分並防止垃圾信入侵。
 # Variables:
