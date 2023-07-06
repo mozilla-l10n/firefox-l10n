@@ -40,3 +40,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = বাতিল
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = প্রতিবেদন পাঠান
+
+# Cookie Banner Handling
+

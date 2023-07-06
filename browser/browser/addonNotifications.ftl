@@ -24,6 +24,7 @@ xpinstall-disabled = সফ্টওয়্যার ইনস্টলেশন 
 xpinstall-disabled-button =
     .label = সক্রিয় করুন
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } এ যোগ করা হয়েছে
@@ -37,6 +38,7 @@ webext-perms-update-menu-item = { $addonName } এর নতুন অনুম�
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { -brand-shorter-name } থেকে { $name } সরান?
 addon-removal-button = মুছে ফেলুন
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -45,6 +47,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount }অ্যাড অন ডাউনলোড এবং যাচাই করুন…
     }
 addon-download-verifying = যাচাই করা হচ্ছে
+
 addon-install-cancel-button =
     .label = বাতিল
     .accesskey = C

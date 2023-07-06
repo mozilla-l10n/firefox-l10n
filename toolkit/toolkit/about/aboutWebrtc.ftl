@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC অন্তর্বর্তী
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = এমন ভাবে সংরক্ষণ about:webrtc করা হবে
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC লগিং
 about-webrtc-aec-logging-off-state-label = AEC লগিং শুরু করুন
 about-webrtc-aec-logging-on-state-label = AEC লগিং বন্ধ করুন
 about-webrtc-aec-logging-on-state-msg = AEC লগিং সক্রিয় (শ্রোতার সাথে কিছুক্ষন কথা বলে তারপরে ক্যাপচার বন্ধ করুন)
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC লগিং সক্রিয় (শ্রোতার সাথে কিছুক্ষন কথা বলে তারপরে ক্যাপচার বন্ধ করুন)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = ক্যাপচার করা লগ ফাইল গুলি এখানে পাওয়া যাবে: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -66,10 +69,12 @@ about-webrtc-type-remote = রিমোট
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = মনোনীত
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = নির্বাচিত
+
 about-webrtc-save-page-label = পেজ সংরক্ষণ করুন
 about-webrtc-debug-mode-msg-label = ডিবাগ মোড
 about-webrtc-debug-mode-off-state-label = ডিবাগ মোড শুরু করুন
@@ -80,6 +85,7 @@ about-webrtc-log-show-msg = লগ প্রদর্শন
     .title = সেকসান প্রসারিত করারা জন্য ক্লিক করুন
 about-webrtc-log-hide-msg = লগ লোকান
     .title = সেকসান ভেঙ্গে দেখার জন্য ক্লিক করুন
+
 about-webrtc-log-section-show-msg = লগ প্রদর্শন
     .title = সেকসান প্রসারিত করারা জন্য ক্লিক করুন
 about-webrtc-log-section-hide-msg = লগ লোকান
@@ -135,6 +141,7 @@ about-webrtc-save-page-msg = পেজ সংরক্ষণ করা হয়ে
 about-webrtc-debug-mode-off-state-msg = ট্রেস লগ এখানে পাওয়া যাবে: { $path }
 about-webrtc-debug-mode-on-state-msg = ডিবাগ মোড সক্রিয়, ট্রেস লগ এখানে: { $path }
 about-webrtc-aec-logging-off-state-msg = ক্যাপচার করা লগ ফাইল গুলি এখানে পাওয়া যাবে: { $path }
+
 about-webrtc-save-page-complete-msg = পেজ সংরক্ষণ করা হয়েছে: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = ট্রেস লগ এখানে পাওয়া যাবে: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = ডিবাগ মোড সক্রিয়, ট্রেস লগ এখানে: { $path }

@@ -5,10 +5,6 @@
 
 ## Strings used for device manager
 
-devmgr =
-    .title = ডিভাইস পরিচালন ব্যবস্থা
-    .style = width: 67em; height: 32em;
-
 devmgr-window =
     .title = ডিভাইস পরিচালন ব্যবস্থা
     .style = min-width: 67em; min-height: 32em;

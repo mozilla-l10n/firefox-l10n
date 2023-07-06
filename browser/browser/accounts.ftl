@@ -20,8 +20,10 @@ account-send-to-all-devices-titlecase = সব ডিভাইসে প্র�
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = কোন ডিভাইস সংযুক্ত নেই
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = ট্যাব পাঠানো সম্পর্কে জানুন…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = অন্য ডিভাইসকে সংযুক্ত করুন…
 
@@ -42,6 +44,7 @@ account-single-tab-arriving-title = ট্যাব প্রাপ্ত হয়
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = ট্যাব { $deviceName } থেকে
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -54,6 +57,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ট্যাব প্রাপ্ত হয়েছে
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = কর্তৃপক্ষ (অথোরিটি)
 
-certmgr-edit-ca-cert =
-    .title = CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = এই সার্টিফিকেটের সাহায্যে মেইল ব্যবহারকারীদের সনাক্ত করা সম্ভব।
 
-certmgr-delete-cert =
-    .title = সার্টিফিকেট মুছে ফেলুন
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = সার্টিফিকেট মুছে ফেলুন
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = সার্ভার
-
-certmgr-override-lifetime =
-    .label = সীমাহীন মেয়াদ
 
 certmgr-token-name =
     .label = নিরাপত্তা ডিভাইস
