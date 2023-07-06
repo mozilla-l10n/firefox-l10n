@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Boekmerk hierdie bladsy
-    .accesskey = m
-    .tooltiptext = Boekmerk hierdie bladsy
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Boekmerk hierdie bladsy
-    .accesskey = m
-    .tooltiptext = Boekmerk hierdie bladsy ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Redigeer hierdie boekmerk
-    .accesskey = m
-    .tooltiptext = Redigeer hierdie boekmerk
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Redigeer hierdie boekmerk
-    .accesskey = m
-    .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Open skakel
     .accesskey = O
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = E-pos klank…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Aktiveer dié inprop
-    .accesskey = k
-
-main-context-menu-plugin-hide =
-    .label = Versteek dié inprop
-    .accesskey = V
-
 main-context-menu-save-to-pocket =
     .label = Stoor bladsy in { -pocket-brand-name }
     .accesskey = k
@@ -296,10 +264,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Herlaai raam
     .accesskey = H
-
-main-context-menu-frame-bookmark =
-    .label = Boekmerk hierdie raam
-    .accesskey = r
 
 main-context-menu-frame-save-as =
     .label = Stoor raam as…

@@ -16,18 +16,6 @@ synced-tabs-sidebar-tabsnotsyncing = Skakel oortjiesinkronisering aan om 'n lys 
 synced-tabs-context-open =
     .label = Open
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Open in nuwe oortjie
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Open in 'n nuwe venster
-    .accesskey = n
-synced-tabs-context-open-in-new-private-window =
-    .label = Open in nuwe private venster
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Boekmerk hierdie oortjie…
-    .accesskey = B
 
 ##
 

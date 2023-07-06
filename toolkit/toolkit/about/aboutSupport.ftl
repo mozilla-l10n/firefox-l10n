@@ -65,6 +65,8 @@ sandbox-title = Sandput
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

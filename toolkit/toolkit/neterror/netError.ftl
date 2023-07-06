@@ -32,6 +32,17 @@ neterror-load-error-firewall = Indien u rekenaar of netwerk deur 'n brandmuur of
 
 neterror-captive-portal = Dis nodig om eers by dié netwerk aan te meld vir internettoegang.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Kontroleer die lêernaam vir bokas of onderkas of ander tikfoute.
 neterror-file-not-found-moved = Kontroleer of die lêer verskuif, hernoem of geskrap is.
 

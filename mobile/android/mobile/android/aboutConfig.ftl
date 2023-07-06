@@ -6,9 +6,13 @@ config-toolbar-search =
     .placeholder = Soek
 config-new-pref-name =
     .placeholder = Naam
+
 config-new-pref-value-boolean = &Boolese
 config-new-pref-value-string = &String
 config-new-pref-value-integer = &Heelgetal
+
 config-new-pref-cancel-button = Kanselleer
 config-new-pref-change-button = Wysig
+
 config-pref-reset-button = Teruglaai
+

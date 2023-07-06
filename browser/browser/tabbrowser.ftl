@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nuwe oortjie
+
 tabbrowser-menuitem-close-tab =
     .label = Sluit oortjie
 tabbrowser-menuitem-close =
     .label = Sluit
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -55,3 +57,6 @@ tabbrowser-context-unmute-tab =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Lys al { $tabCount } oortjies
+
+## Tab manager menu buttons
+

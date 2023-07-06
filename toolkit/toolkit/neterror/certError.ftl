@@ -28,6 +28,7 @@ cert-error-details-cert-chain-label = Sertifikaaatketting:
 
 connectionFailure-title = Kan nie koppel nie
 deniedPortAccess-title = Hierdie adres het beperkings op
+
 fileNotFound-title = Lêer nie gevind nie
 fileAccessDenied-title = Toegang tot die lêer is geweier
 generic-title = Oeps.

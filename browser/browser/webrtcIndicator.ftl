@@ -27,6 +27,7 @@ webrtc-item-browser = oortjie
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Onbekende oorsprong
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -68,6 +69,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Keuses oor deling
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Beheer deling op "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Deel tans die kamera met "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -76,6 +78,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Deel tans die kamera met { $tabCount } oortjie
            *[other] Deel tans die kamera met { $tabCount } oortjies
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Deel tans die mikrofoon met "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -84,6 +87,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Deel tans die mikrofoon met { $tabCount } oortjie
            *[other] Deel tans die mikrofoon met { $tabCount } oortjies
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Deel tans 'n toepassing met "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -92,6 +96,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Deel tans 'n toepassing met { $tabCount } oortjie
            *[other] Deel tans 'n toepassing met { $tabCount } oortjies
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Deel tans die skerm met "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -100,6 +105,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Deel tans die skerm met { $tabCount } oortjie
            *[other] Deel tans die skerm met { $tabCount } oortjies
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Deel tans 'n venster met "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -108,6 +114,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Deel tans 'n venster met { $tabCount } oortjie
            *[other] Deel tans 'n venster met { $tabCount } oortjies
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Deel tans 'n oortjie met "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -153,6 +160,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Onthou hierdie besluit
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan nie permanente toegang tot die skerm gee nie.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan nie permanente toegang tot die oortjie se klank toelaat sonder om te vra watter oortjie gedeel moet word nie.
 webrtc-reason-for-no-permanent-allow-insecure = Die verbinding aan dié werf is nie beveilig nie. Vir u beskerming gaan { -brand-short-name } slegs toegang gee vir dié sessie.
