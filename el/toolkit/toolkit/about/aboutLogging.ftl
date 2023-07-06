@@ -44,6 +44,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Μονάδες καταγραφής για τη διάγνωση κλήσεων WebRTC
 about-logging-preset-custom-label = Προσαρμοσμένο
 about-logging-preset-custom-description = Οι μονάδες καταγραφής επιλέχθηκαν χειροκίνητα
+
 # Error handling
 about-logging-error = Σφάλμα:
 
@@ -57,4 +58,5 @@ about-logging-unknown-profiler-preset = Άγνωστη προκαθορισμέ�
 about-logging-unknown-option = Άγνωστη επιλογή about:logging «{ $k }»
 about-logging-configuration-url-ignored = Αγνοήθηκε το URL ρυθμίσεων
 about-logging-file-and-profiler-override = Δεν είναι δυνατή η ταυτόχρονη επιβολή της εξόδου αρχείου και της παράκαμψης των επιλογών του εργαλείου προφίλ
+
 about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μέσω URL

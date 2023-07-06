@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Εσωτερικά του WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = αποθήκευση about:webrtc ως
@@ -23,6 +24,7 @@ about-webrtc-aec-logging-msg-label = Καταγραφή AEC
 about-webrtc-aec-logging-off-state-label = Έναρξη καταγραφής AEC
 about-webrtc-aec-logging-on-state-label = Διακοπή καταγραφής AEC
 about-webrtc-aec-logging-on-state-msg = Καταγραφή AEC ενεργή (μιλήστε με τον καλών για λίγα λεπτά και μετά σταματήστε την καταγραφή)
+
 about-webrtc-aec-logging-toggled-on-state-msg = Καταγραφή AEC ενεργή (μιλήστε με τον καλών για λίγα λεπτά και μετά σταματήστε την καταγραφή)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -32,16 +34,22 @@ about-webrtc-aec-logging-toggled-off-state-msg = Τα αρχεία καταγρ�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Αυτόματη ανανέωση
+
 # Determines the default state of the Auto Refresh check boxes
 about-webrtc-auto-refresh-default-label = Αυτόματη ανανέωση από προεπιλογή
+
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Ανανέωση
+
+
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = Ανοιγμένα κανάλια δεδομένων:
+
 # The number of once open DataChannels that a PeerConnection has closed
 about-webrtc-data-channels-closed-label = Κλεισμένα κανάλια δεδομένων:
 
@@ -89,10 +97,12 @@ about-webrtc-type-remote = Απομακρυσμένα
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Υποψήφια
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Επιλεγμένα
+
 about-webrtc-save-page-label = Αποθήκευση σελίδας
 about-webrtc-debug-mode-msg-label = Λειτουργία ελέγχου σφαλμάτων
 about-webrtc-debug-mode-off-state-label = Έναρξη λειτουργίας ελέγχου σφαλμάτων
@@ -105,6 +115,7 @@ about-webrtc-log-show-msg = εμφάνιση αρχείου καταγραφής
     .title = κάντε κλικ για επέκταση ενότητας
 about-webrtc-log-hide-msg = απόκρυψη αρχείου καταγραφής
     .title = κάντε κλικ για σύμπτυξη ενότητας
+
 about-webrtc-log-section-show-msg = Εμφάνιση αρχείου καταγραφής
     .title = Κάντε κλικ για επέκταση ενότητας
 about-webrtc-log-section-hide-msg = Απόκρυψη αρχείου καταγραφής
@@ -187,26 +198,36 @@ about-webrtc-pc-configuration-hide-msg = Απόκρυψη διαμόρφωσης
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Παρέχεται
+
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Δεν παρέχεται
+
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Προτιμήσεις χρήστη για το WebRTC
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Εκτιμώμενο εύρος ζώνης
+
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Αναγνωριστικό κομματιού
+
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Εύρος ζώνης αποστολής (bytes/δ)
+
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Εύρος ζώνης λήψης (bytes/δ)
+
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Μέγιστο padding (bytes/δ)
+
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Καθυστέρηση pacer (ms)
+
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -222,6 +243,7 @@ about-webrtc-save-page-msg = η σελίδα αποθηκεύτηκε στην �
 about-webrtc-debug-mode-off-state-msg = το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
 about-webrtc-debug-mode-on-state-msg = κατάσταση ελέγχου σφαλμάτων ενεργή, αρχείο καταγραφής στο: { $path }
 about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής μπορούν να βρεθούν στο: { $path }
+
 about-webrtc-save-page-complete-msg = Η σελίδα αποθηκεύτηκε στην διαδρομή: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Κατάσταση ελέγχου σφαλμάτων ενεργή, αρχείο καταγραφής στο: { $path }
@@ -236,6 +258,7 @@ about-webrtc-frames =
         [one] { $frames } καρέ
        *[other] { $frames } καρέ
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -244,6 +267,7 @@ about-webrtc-channels =
         [one] { $channels } κανάλι
        *[other] { $channels } κανάλια
     }
+
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -252,6 +276,7 @@ about-webrtc-received-label =
         [one] Ελήφθη { $packets } πακέτο
        *[other] Ελήφθησαν { $packets } πακέτα
     }
+
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -260,6 +285,7 @@ about-webrtc-lost-label =
         [one] Χάθηκε { $packets } πακέτο
        *[other] Χάθηκαν { $packets } πακέτα
     }
+
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -268,11 +294,13 @@ about-webrtc-sent-label =
         [one] Απεστάλη { $packets } πακέτο
        *[other] Απεστάλησαν { $packets } πακέτα
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Διακύμανση { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -285,10 +313,12 @@ about-webrtc-trickle-caption-msg = Οι αργοί υποψήφιοι (που φ
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Ορισμός Τοπικό SDP στη χρονική σήμανση { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Ορισμός Απομακρυσμένο SDP στη χρονική σήμανση { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

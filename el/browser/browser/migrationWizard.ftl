@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Εισαγωγή δεδομένων προγράμματος περιήγησης
 migration-wizard-selection-list = Επιλέξτε τα δεδομένα που θέλετε να εισαγάγετε.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Επιλέξτε τα δεδομένα που 
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Εισαγωγή επιλεγμένων δεδο
 
 migration-select-all-option-label = Επιλογή όλων
 migration-bookmarks-option-label = Σελιδοδείκτες
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Αγαπημένα
+
 migration-logins-and-passwords-option-label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
 migration-history-option-label = Ιστορικό περιήγησης
 migration-extensions-option-label = Επεκτάσεις
 migration-form-autofill-option-label = Δεδομένα αυτόματης συμπλήρωσης φορμών
 migration-payment-methods-option-label = Μέθοδοι πληρωμής
+
 migration-cookies-option-label = Cookies
 migration-session-option-label = Παράθυρα και καρτέλες
 migration-otherdata-option-label = Άλλα δεδομένα
+
 migration-passwords-from-file-progress-header = Εισαγωγή αρχείου κωδικών πρόσβασης
 migration-passwords-from-file-success-header = Επιτυχής εισαγωγή κωδικών πρόσβασης
 migration-passwords-from-file = Έλεγχος αρχείου για κωδικούς πρόσβασης
 migration-passwords-new = Νέοι κωδικοί πρόσβασης
 migration-passwords-updated = Υπάρχοντες κωδικοί πρόσβασης
+
 migration-passwords-from-file-no-valid-data = Το αρχείο δεν περιλαμβάνει έγκυρα δεδομένα κωδικών πρόσβασης. Επιλέξτε άλλο αρχείο.
+
 migration-passwords-from-file-picker-title = Εισαγωγή αρχείου κωδικών πρόσβασης
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Έγγραφο TSV
        *[other] Αρχείο TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +104,7 @@ migration-wizard-progress-success-new-passwords =
         [one] Προστέθηκε { $newEntries }
        *[other] Προστέθηκαν { $newEntries }
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -105,11 +115,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] Ενημερώθηκε { $updatedEntries }
        *[other] Ενημερώθηκαν { $updatedEntries }
     }
+
 migration-bookmarks-from-file-picker-title = Εισαγωγή αρχείου σελιδοδεικτών
 migration-bookmarks-from-file-progress-header = Εισαγωγή σελιδοδεικτών
 migration-bookmarks-from-file = Σελιδοδείκτες
 migration-bookmarks-from-file-success-header = Επιτυχής εισαγωγή σελιδοδεικτών
+
 migration-bookmarks-from-file-no-valid-data = Το αρχείο δεν περιλαμβάνει δεδομένα σελιδοδεικτών. Επιλέξτε άλλο αρχείο.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -117,9 +130,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Έγγραφο HTML
        *[other] Αρχείο HTML
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Αρχείο JSON
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -130,12 +145,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } σελιδοδείκτης
        *[other] { $newEntries } σελιδοδείκτες
     }
+
 migration-import-button-label = Εισαγωγή
 migration-choose-to-import-from-file-button-label = Εισαγωγή από αρχείο
 migration-import-from-file-button-label = Επιλογή αρχείου
 migration-cancel-button-label = Ακύρωση
 migration-done-button-label = Τέλος
 migration-continue-button-label = Συνέχεια
+
 migration-wizard-import-browser-no-browsers = Το { -brand-short-name } δεν μπόρεσε να βρει προγράμματα που περιέχουν δεδομένα σελιδοδεικτών, ιστορικού ή κωδικών πρόσβασης.
 migration-wizard-import-browser-no-resources = Προέκυψε σφάλμα. Το { -brand-short-name } δεν μπορεί να βρει δεδομένα προς εισαγωγή από αυτό το προφίλ προγράμματος περιήγησης.
 
@@ -146,6 +163,7 @@ migration-wizard-import-browser-no-resources = Προέκυψε σφάλμα. Τ
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = σελιδοδείκτες
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = αγαπημένα
@@ -163,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Εισαγωγή…
 migration-wizard-progress-icon-completed =
     .aria-label = Ολοκληρώθηκε
+
 migration-safari-password-import-header = Εισαγωγή κωδικών πρόσβασης από το Safari
 migration-safari-password-import-steps-header = Για την εισαγωγή κωδικών πρόσβασης από το Safari:
 migration-safari-password-import-step1 = Στο Safari, ανοίξτε το μενού «Safari» και μεταβείτε στις Προτιμήσεις > Συνθηματικά
@@ -171,6 +190,8 @@ migration-safari-password-import-step3 = Αποθηκεύστε το αρχεί�
 migration-safari-password-import-step4 = Χρησιμοποιήστε το «Επιλογή αρχείου» παρακάτω για να επιλέξετε το αρχείο κωδικών πρόσβασης που αποθηκεύσατε
 migration-safari-password-import-skip-button = Παράλειψη
 migration-safari-password-import-select-button = Επιλογή αρχείου
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -181,6 +202,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } σελιδοδείκτης
        *[other] { $quantity } σελιδοδείκτες
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -208,6 +230,7 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } επέκταση
        *[other] { $quantity } επεκτάσεις
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -215,10 +238,12 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } από { $quantity } επεκτάσεις
+
 migration-wizard-progress-extensions-support-link = Μάθετε πώς το { -brand-product-name } βρίσκει αντίστοιχες επεκτάσεις
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Δεν υπάρχουν αντίστοιχες επεκτάσεις
+
 migration-wizard-progress-extensions-addons-link = Περιήγηση στις επεκτάσεις για το { -brand-short-name }
 
 ##
@@ -233,6 +258,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } κωδικός πρόσβασης
        *[other] { $quantity } κωδικοί πρόσβασης
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -243,7 +269,9 @@ migration-wizard-progress-success-history =
         [one] Από την τελευταία ημέρα
        *[other] Από τις τελευταίες { $maxAgeInDays } ημέρες
     }
+
 migration-wizard-progress-success-formdata = Ιστορικό φορμών
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -254,6 +282,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } μέθοδος πληρωμής
        *[other] { $quantity } μέθοδοι πληρωμής
     }
+
 migration-wizard-safari-permissions-sub-header = Για την εισαγωγή σελιδοδεικτών και ιστορικού περιήγησης από το Safari:
 migration-wizard-safari-instructions-continue = Επιλέξτε «Συνέχεια»
 migration-wizard-safari-instructions-folder = Επιλέξτε τον φάκελο του Safari από τη λίστα και κάντε κλικ στο «Άνοιγμα»

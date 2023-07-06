@@ -103,6 +103,7 @@ print-window =
     .title = Εκτύπωση
 print-complete =
     .value = Η εκτύπωση ολοκληρώθηκε
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

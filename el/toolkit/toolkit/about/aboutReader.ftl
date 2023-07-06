@@ -4,6 +4,7 @@
 
 about-reader-loading = Φόρτωση…
 about-reader-load-error = Απέτυχε η φόρτωση του άρθρου από τη σελίδα
+
 about-reader-color-scheme-light = Ανοιχτόχρωμο
     .title = Ανοιχτόχρωμο σύνολο χρωμάτων
 about-reader-color-scheme-dark = Σκοτεινό
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Σέπια
     .title = Σέπια σύνολο χρωμάτων
 about-reader-color-scheme-auto = Αυτόματο
     .title = Αυτόματο σύνολο χρωμάτων
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

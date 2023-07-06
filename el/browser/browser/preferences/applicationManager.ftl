@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-app-manager-window =
-    .title = Λεπτομέρειες εφαρμογής
-    .style = width: 33em; min-height: 20em;
-
 app-manager-window2 =
     .title = Λεπτομέρειες εφαρμογής
     .style = min-width: 33em; min-height: 20em;

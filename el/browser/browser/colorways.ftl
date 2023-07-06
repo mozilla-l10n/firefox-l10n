@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Ανεξάρτητες φωνές
-colorway-collection-independent-voices-description = Το χρώμα μπορεί να αλλάξει τον πολιτισμό. Οι πιο πρόσφατοι χρωματικοί συνδυασμοί γιορτάζουν τις φωνές που κάνουν τον κόσμο καλύτερο.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Χρώματα που αλλάζουν τον πολιτισμό.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Δημιουργός

@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Επόμενο
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Εντάξει!
 
@@ -12,13 +13,20 @@ callout-primary-complete-button-label = Εντάξει!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Εναλλαγή συσκευών με μεταφορά καρτελών
+
 callout-firefox-view-tab-pickup-subtitle = Λάβετε γρήγορα τις ανοικτές καρτέλες από το τηλέφωνό σας και ανοίξτε τις εδώ για απρόσκοπτη εργασία.
+
 callout-firefox-view-recently-closed-title = Άμεση επιστροφή σε κλειστές καρτέλες
+
 callout-firefox-view-recently-closed-subtitle = Όλες οι κλειστές καρτέλες σας θα εμφανιστούν εδώ ως δια μαγείας. Έτσι, δεν θα ανησυχείτε ποτέ μήπως κλείσετε ξανά έναν ιστότοπο κατά λάθος.
+
 callout-firefox-view-colorways-title = Προσθέστε μια πινελιά χρώματος
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Επιλέξτε την απόχρωση του χρωματικού συνδυασμού που σας ταιριάζει. Μόνο στο { -brand-product-name }.
+
 callout-firefox-view-colorways-reminder-title = Εξερευνήστε τους νεότερους χρωματικούς συνδυασμούς μας
+
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Χρωματίστε το πρόγραμμα περιήγησής σας με αυτές τις εμβληματικές αποχρώσεις, εμπνευσμένες από ανεξάρτητες φωνές. Μόνο στο { -brand-product-name }.
 
@@ -28,7 +36,9 @@ callout-firefox-view-colorways-reminder-subtitle = Χρωματίστε το π�
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Ενισχύστε την περιήγησή σας με τη μεταφορά καρτελών
+
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Αποκτήστε πρόσβαση στις ανοικτές καρτέλες σας από οποιαδήποτε συσκευή. Συγχρονίστε τους σελιδοδείκτες σας, τους κωδικούς πρόσβασης και πολλά άλλα.
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Έναρξη
 
 ## PDF.js Feature Tour Strings
@@ -37,6 +47,7 @@ callout-pdfjs-edit-title = Επεξεργαστείτε αρχεία PDF με τ
 callout-pdfjs-edit-body-a = Συμπληρώστε φόρμες, προσθέστε σχόλια ή κρατήστε σημειώσεις απευθείας στο { -brand-short-name }.
 callout-pdfjs-edit-body-b = Παραλείψτε την αναζήτηση για δωρεάν διαδικτυακές εφαρμογές επεξεργασίας. Συμπληρώστε φόρμες, προσθέστε σχόλια ή κρατήστε σημειώσεις απευθείας στο { -brand-short-name }.
 callout-pdfjs-edit-button = Επόμενο
+
 callout-pdfjs-draw-title = Υπογράψτε έγγραφα με το νέο μας εργαλείο σχεδίασης
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Δημιουργήστε σημειώσεις σε αρχεία PDF και αποθηκεύστε τις αλλαγές σας.

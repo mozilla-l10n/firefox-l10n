@@ -131,12 +131,6 @@ about-telemetry-category-header = κατηγορία
 about-telemetry-method-header = μέθοδος
 about-telemetry-object-header = αντικείμενο
 about-telemetry-extra-header = επιπλέον
-about-telemetry-origin-section = Origin Telemetry
-about-telemetry-origin-origin = προέλευση
-about-telemetry-origin-count = μέτρηση
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = Το <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> κωδικοποιεί τα δεδομένα πριν αποσταλούν έτσι, ώστε η { $telemetryServerOwner } να μπορέσει να μετρήσει πράγματα, αλλά δεν θα γνωρίζει αν συνεισέφερε το παρόν { -brand-product-name } σε αυτή τη μέτρηση. (<a data-l10n-name="prio-blog-link">Μάθετε περισσότερα</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Διεργασία { $process }

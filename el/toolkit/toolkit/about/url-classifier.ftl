@@ -50,5 +50,9 @@ url-classifier-disabled = Ανενεργό
 url-classifier-updating = ενημέρωση
 url-classifier-cannot-update = αδυναμία ενημέρωσης
 url-classifier-success = επιτυχία
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = σφάλμα ενημέρωσης ({ $error })
 url-classifier-download-error = σφάλμα λήψης ({ $error })

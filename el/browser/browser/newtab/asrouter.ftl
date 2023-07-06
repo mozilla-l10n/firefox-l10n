@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Προτεινόμενη λειτουργία
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Γιατί το βλέπω αυτό
+
 cfr-doorhanger-extension-cancel-button = Όχι τώρα
     .accesskey = χ
+
 cfr-doorhanger-extension-ok-button = Προσθήκη τώρα
     .accesskey = σ
+
 cfr-doorhanger-extension-manage-settings-button = Διαχείριση ρυθμίσεων προτάσεων
     .accesskey = Δ
+
 cfr-doorhanger-extension-never-show-recommendation = Να μην εμφανίζεται αυτή η πρόταση
     .accesskey = Ν
+
 cfr-doorhanger-extension-learn-more-link = Μάθετε περισσότερα
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = από { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Πρόταση
 cfr-doorhanger-extension-notification2 = Πρόταση
     .tooltiptext = Πρόταση επέκτασης
     .a11y-announcement = Διαθέσιμη πρόταση επέκτασης
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Πρόταση
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Μάθετε περισσότερα
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Νέο χαρακτηριστικό:
+
 cfr-whatsnew-button =
     .label = Τι νέο υπάρχει
     .tooltiptext = Τι νέο υπάρχει
+
 cfr-whatsnew-release-notes-link-text = Διαβάστε τις σημειώσεις έκδοσης
 
 ## Enhanced Tracking Protection Milestones
@@ -107,13 +117,6 @@ cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Το απόρρητό σας έχει σημασία. Το { -brand-short-name } πλέον απομονώνει, ή βάζει σε sandbox, κάθε ιστότοπο, κάνοντας πιο δύσκολη την πρόσβαση των hacker για υποκλοπή κωδικών πρόσβασης, αριθμών πιστωτικών καρτών και άλλων ευαίσθητων πληροφοριών.
-cfr-doorhanger-fission-header = Απομόνωση ιστοτόπου
-cfr-doorhanger-fission-primary-button = Το κατάλαβα
-    .accesskey = Τ
-cfr-doorhanger-fission-secondary-button = Μάθετε περισσότερα
-    .accesskey = Μ
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Τα βίντεο αυτού του ιστοτόπου ενδέχεται να μην αναπαράγονται σωστά σε αυτήν την έκδοση του { -brand-short-name }. Για πλήρη υποστήριξη βίντεο, ενημερώστε το { -brand-short-name } τώρα.
@@ -122,11 +125,6 @@ cfr-doorhanger-video-support-primary-button = Ενημέρωση τώρα
     .accesskey = Ε
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Μάθετε περισσότερα
-    .title = Επεκτείνετε για να μάθετε περισσότερα για τη λειτουργία
-spotlight-learn-more-expanded = Μάθετε περισσότερα
-    .title = Κλείσιμο
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,18 +141,6 @@ spotlight-public-wifi-vpn-link = Όχι τώρα
     .accesskey = Ό
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Δοκιμάστε την πιο ισχυρή
-    λειτουργία απορρήτου μας
-spotlight-total-cookie-protection-body = Η Ολική προστασία cookie εμποδίζει τη χρήση των cookies από ιχνηλάτες για την καταγραφή της δραστηριότητάς σας.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = Το { -brand-short-name } δημιουργεί έναν φράχτη προστασίας γύρω από τα cookie, περιορίζοντάς τα στον ιστότοπο όπου βρίσκεστε, ώστε οι ιχνηλάτες να μην μπορούν να τα χρησιμοποιήσουν για να σας ακολουθήσουν. Με την πρώιμη πρόσβαση, θα βοηθήσετε στη βελτιστοποίηση αυτής της λειτουργίας, ώστε να συνεχίσουμε να δημιουργούμε ένα καλύτερο διαδίκτυο για όλους.
-spotlight-total-cookie-protection-primary-button = Ενεργοποίηση ολικής προστασίας cookie
-spotlight-total-cookie-protection-secondary-button = Όχι τώρα
 
 ## Emotive Continuous Onboarding
 
@@ -184,11 +170,13 @@ spotlight-pin-secondary-button = Όχι τώρα
 
 mr2022-background-update-toast-title = Νέο { -brand-short-name }. Πιο ιδιωτικό. Λιγότεροι ιχνηλάτες. Χωρίς συμβιβασμούς.
 mr2022-background-update-toast-text = Δοκιμάστε το νεότερο { -brand-short-name } τώρα, αναβαθμισμένο με την ισχυρότερη προστασία κατά της καταγραφής μέχρι σήμερα.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Άνοιγμα του { -brand-shorter-name } τώρα
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -207,6 +195,7 @@ firefoxview-cfr-body-v2 = Βρείτε ξανά τις καρτέλες που �
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Πείτε «γεια» στην { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Θέλετε αυτήν την ανοικτή καρτέλα στο τηλέφωνό σας; Αρπάξτε την. Χρειάζεστε αυτόν τον ιστότοπο που μόλις επισκεφτήκατε; Πουφ, επέστρεψε με την { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Δείτε πώς λειτουργεί
@@ -216,6 +205,7 @@ firefoxview-spotlight-promo-secondarybutton = Παράλειψη
 
 colorways-cfr-primarybutton = Επιλογή χρωματικού συνδυασμού
     .accesskey = Ε
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Δώστε χρώμα στο πρόγραμμα περιήγησής σας με τις αποκλειστικές αποχρώσεις του { -brand-short-name }, εμπνευσμένες από φωνές που άλλαξαν τον πολιτισμό.
 colorways-cfr-header-28days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν στις 16 Ιανουαρίου
@@ -238,6 +228,7 @@ july-jam-headline = Πάντα στο πλευρό σας
 july-jam-body = Κάθε μήνα, το { -brand-short-name } αποκλείει κατά μέσο όρο 3.000+ ιχνηλάτες ανά χρήστη, παρέχοντάς σας ασφαλή και γρήγορη πρόσβαση στο διαδίκτυο.
 july-jam-set-default-primary = Άνοιγμα συνδέσμων με το { -brand-short-name }
 fox-doodle-pin-headline = Καλώς ορίσατε και πάλι
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Ακολουθεί μια γρήγορη υπενθύμιση ότι μπορείτε να έχετε το αγαπημένο σας, ανεξάρτητο πρόγραμμα περιήγησης μόνο ένα κλικ μακριά.
