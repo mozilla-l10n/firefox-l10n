@@ -30,6 +30,7 @@ webrtc-item-browser = pestaña
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Origen desconocido
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Pestañas compartiendo dispositivos
     .accesskey = d
+
 webrtc-sharing-window = Está compartiendo otra ventana de aplicación.
 webrtc-sharing-browser-window = Está compartiendo { -brand-short-name }.
 webrtc-sharing-screen = Estás compartiendo toda su pantalla.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Controlar compartición
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Controlar compartición en "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Compartiendo cámara con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Compartiendo cámara con { $tabCount } pestaña
            *[other] Compartiendo cámara con { $tabCount } pestañás
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Compartiendo micrófono con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Compartiendo micrófono con { $tabCount } pestaña
            *[other] Compartiendo micrófono con { $tabCount } pestañas
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Compartiendo una aplicación con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Compatiendo una aplicación con { $tabCount } pestaña
            *[other] Compartiendo aplicaciones con { $tabCount } pestañas
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Compartiendo pantalla con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Compartiendo pantalla con { $tabCount } pestaña
            *[other] Compartiendo pantalla con { $tabCount } pestañas
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Compartiendo una ventana con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Compartiendo una ventana con { $tabCount } pestaña
            *[other] Compartiendo ventanas con { $tabCount } pestañas
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Compartiendo una pestaña con "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = ¿Permitir que { $origin } escuche
 
 webrtc-allow-share-audio-capture-unsafe-delegation = ¿Permitir que { $origin } autorice a { $thirdParty } a escuchar el audio de esta pestaña?
 webrtc-allow-share-camera-unsafe-delegation = ¿Permitir que { $origin } dé acceso a { $thirdParty } a la cámara?
-webrtc-allow-share-microphone-unsafe-delegations = ¿Permitir que { $origin } dé acceso a { $thirdParty } al micrófono?
 webrtc-allow-share-microphone-unsafe-delegation = ¿Permitir que { $origin } dé acceso a { $thirdParty } al micrófono?
 webrtc-allow-share-screen-unsafe-delegation = ¿Permitir que { $origin } dé permiso a { $thirdParty } para ver la pantalla?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Permitir que {
 
 webrtc-share-screen-warning = Solo comparta pantallas con sitios en los que confíe. Compartir puede permitir que los sitios engañosos naveguen como si fueran usted y le roben sus datos privados.
 webrtc-share-browser-warning = Solo comparta { -brand-short-name } con sitios en los que confíe. Compartir puede permitir que sitios fraudulentos naveguen como si fueran usted y le roban sus datos privados.
+
 webrtc-share-screen-learn-more = Conocer más
 webrtc-pick-window-or-screen = Seleccionar Ventana o Pantalla
 webrtc-share-entire-screen = Pantalla completa
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Recordar esta decisión
 webrtc-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparten
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no puede permitir el acceso permanente a la pantalla.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no puede permitir acceso permanente al audio de la pestaña sin preguntar cual compartir.
 webrtc-reason-for-no-permanent-allow-insecure = La conexión a este sitio no es segura. Como protección, { -brand-short-name } solamente permitirá acceso para esta sesión.
