@@ -34,9 +34,11 @@ menu-quit =
             [windows] a
            *[other] W
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Wek { -brand-shorter-name }
+
 menu-about =
     .label = Ikom { -brand-shorter-name }
     .accesskey = I
@@ -200,8 +202,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Alama buk
     .accesskey = A
-menu-bookmark-edit =
-    .label = Yub alama buk man
 menu-bookmarks-all-tabs =
     .label = Ket alama buk i dirica matino weng…
 menu-bookmarks-toolbar =

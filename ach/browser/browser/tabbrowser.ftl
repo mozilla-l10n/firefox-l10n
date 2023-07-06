@@ -3,15 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Dirica matidi manyen
+
 tabbrowser-menuitem-close-tab =
     .label = Lor dirica matidi
 tabbrowser-menuitem-close =
     .label = Lor
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -72,3 +75,6 @@ tabbrowser-context-unmute-tab =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Rye dirica matino { $tabCount } weng
+
+## Tab manager menu buttons
+

@@ -21,10 +21,6 @@ certmgr-mine = I tye ki catibiket ma aa kibot dul magi ma nyutu in kikome
 certmgr-people = I tye ki catibiket i pwail ma nyutu jo magi kikome
 certmgr-ca = I tye ki catibiket i pwail ma nyutu lumi catibiket magi kikome
 
-certmgr-edit-ca-cert =
-    .title = Yub CA tero gen me waraga
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Yub CA tero gen me waraga
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Waraga man romo nyutu lutic kwede mail.
 
-certmgr-delete-cert =
-    .title = Kwany Waraga
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Kwany Waraga
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Lapok tic
-
-certmgr-override-lifetime =
-    .label = Kare me kwo
 
 certmgr-token-name =
     .label = Nyonyo me Gwoko tic

@@ -8,4 +8,9 @@ about-logging-set-log-file = Ter pwil me rikod
 about-logging-start-logging = Cak gwoko rikod
 about-logging-stop-logging = Juk gwoko rikod
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

@@ -11,11 +11,15 @@ cfr-doorhanger-extension-heading = Lamed ma kicwako
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pi ngo atye kaneno man
+
 cfr-doorhanger-extension-cancel-button = Pe kombedi
     .accesskey = P
+
 cfr-doorhanger-extension-ok-button = Med kombedi
     .accesskey = M
+
 cfr-doorhanger-extension-learn-more-link = Nong ngec mapol
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -44,6 +48,7 @@ cfr-protections-panel-link-text = Nong ngec mapol
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Jami manyen:
+
 cfr-whatsnew-button =
     .label = Ngo Manyen
     .tooltiptext = Ngo Manyen
@@ -62,11 +67,6 @@ cfr-doorhanger-doh-secondary-button = Juki
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-primary-button = AYA, Aniang
-    .accesskey = A
-cfr-doorhanger-fission-secondary-button = Nong ngec mapol
-    .accesskey = N
-
 ## Full Video Support CFR message
 
 
@@ -81,8 +81,6 @@ cfr-doorhanger-fission-secondary-button = Nong ngec mapol
 
 
 ## Total Cookie Protection Rollout
-
-spotlight-total-cookie-protection-secondary-button = Pe kombedi
 
 ## Emotive Continuous Onboarding
 
@@ -105,6 +103,7 @@ spotlight-total-cookie-protection-secondary-button = Pe kombedi
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Yab { -brand-shorter-name } Kombedi
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -127,4 +126,10 @@ firefoxview-spotlight-promo-secondarybutton = Kal
 
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

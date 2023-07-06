@@ -31,6 +31,7 @@ appmenuitem-exit2 =
             [linux] Weki
            *[other] Kat woko
         }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -51,27 +52,35 @@ appmenuitem-fullscreen =
 appmenu-remote-tabs-showmore =
     .label = Nyut dirica matino mukene
     .tooltiptext = Nyut dirica matino mukene ma i nyonyo man
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Dirica matino pe ayaba
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.
+
 appmenu-remote-tabs-opensettings =
     .label = Ter
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = imito neno dirica matino ki nyonyo mukene?
+
 appmenu-remote-tabs-connectdevice =
     .label = Kub Nyonyo Mukene
 appmenu-remote-tabs-unverified = Myero ki mok ada pa akaunt mamegi.
+
 appmenuitem-fxa-sign-in = Dony iyie { -brand-product-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = Dony iyie
+
 appmenuitem-save-page =
     .label = Gwok pot buk calo…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ngo Manyen
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -82,23 +91,28 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
-profiler-popup-title =
-    .value = { -profiler-brand-name }
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-learn-more-button =
     .label = Nong ngec mapol
+
 profiler-popup-settings =
     .value = Ter
+
 profiler-popup-recording-screen = Mako…
+
 profiler-popup-start-recording-button =
     .label = Cak Mako
+
 profiler-popup-capture-button =
     .label = Mak
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -111,6 +125,10 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-firefox-label =

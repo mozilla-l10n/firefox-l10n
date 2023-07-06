@@ -4,6 +4,7 @@
 
 about-reader-loading = Tye ka cano…
 about-reader-load-error = Cano gin akwana ki i pot buk pe olare
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

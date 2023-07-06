@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Ma kiweko woko
-    .style = width: 45em
-
 permissions-window2 =
     .title = Ma kiweko woko
     .style = min-width: 45em
@@ -79,8 +75,6 @@ permissions-invalid-uri-label = Tim ber iket nying lami kube matye atir
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-desc = Ijuko woko gwokke ki i kakube magi.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-desc = Itwero cimo kakube mene ma jwijwi onyo matwal pe ki yee me tic ki angija ki data me kakube.  Ket kanonge me kakube ne kikome ma imito me loono ka dong i dii Geng, Yee pi Kare, onyo Yee.
@@ -94,20 +88,12 @@ permissions-exceptions-popup-desc = I twero cimo kakube mene ma kiye me yabo dir
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Ma pe gude - Donyo iyie ma kigwoko
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Ma pe gude - Donyo iyie ma kigwoko
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Donyo iyie pi kakube magi pe ki bigwoko gi
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Kakube ma kiyee - Keto med-ikome
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Kakube ma kiyee - Keto med-ikome
@@ -119,10 +105,6 @@ permissions-exceptions-addons-desc = I twero cimo kakube mene ma kiye me keto me
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Ter - Twero pi jami angeya
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Ter - Twero pi jami angeya
     .style = { permissions-window2.style }
@@ -132,10 +114,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = Man bi gengo kakube mo keken ma pe ki coyo malo me penyo pi twero me cwalo jami angeya. Gengo jami angeya romo balo jami mogo me kakube.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = Ter - Twero pi kabedo
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = Ter - Twero pi kabedo
@@ -150,10 +128,6 @@ permissions-site-location-disable-desc = Man bi gengo kakube mo keken ma pe ki c
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Ter - Twero pi lamak cal
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Ter - Twero pi lamak cal
     .style = { permissions-window2.style }
@@ -164,10 +138,6 @@ permissions-site-camera-disable-desc = Man bi gengo kakube mo keken ma pe ki coy
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Ter - Twero pi mikropon
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Ter - Twero pi mikropon
     .style = { permissions-window2.style }
@@ -175,3 +145,8 @@ permissions-site-microphone-desc = Kakube magi okwayo me nongo mikropon mamegi. 
 permissions-site-microphone-disable-label =
     .label = Geng kwac manyen ma penyo pi nongo mikropon mamegi
 permissions-site-microphone-disable-desc = Man bi gengo kakube mo keken ma pe ki coyo malo me penyo pi twero me nongo mikropon mamegi. Gengo nongo mikropon mamegi romo balo jami mogo me kakube.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

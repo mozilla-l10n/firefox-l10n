@@ -61,9 +61,6 @@ import-items-description = Yer jami me akela ki woko:
 
 import-permissions-page-title = Tim ber i mii ki { -brand-short-name } twero
 
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS mito ni iyee atir ki { -brand-short-name } me nongo alama buk pa Safari. Dii “Mede” ka i yer pwail me  “Bookmarks.plist” i dirica me PWAIL AYABA ma nyute.
-
 import-migrating-page-title = Kelo ki woko…
 
 import-migrating-description = Jami magi kombedi kitye ka kelo ki woko…
@@ -141,3 +138,4 @@ browser-data-session-checkbox =
     .label = Dirica ki dirica matino
 browser-data-session-label =
     .value = Dirica ki dirica matino
+

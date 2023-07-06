@@ -44,27 +44,20 @@ mr1-return-to-amo-add-extension-label = Med { $addon-name }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-welcome-header = Wajoli i { -brand-short-name }
-
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Kel weng kwedi
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Kel ki i { $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Kel ki i layeny mukato
-mr1-onboarding-import-secondary-button-label = Pe kombedi
-mr2-onboarding-colorway-secondary-button-label = Pe kombedi
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Makwongo
+
 mr1-onboarding-theme-header = Wek obed megi
 mr1-onboarding-theme-secondary-button-label = Pe kombedi
+
 onboarding-theme-primary-button-label = Otum
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -96,6 +89,8 @@ onboarding-theme-primary-button-label = Otum
 
 ## Firefox 100 Thank You screens
 
+
+## MR2022 New User Easy Setup screen strings
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -138,4 +133,6 @@ onboarding-theme-primary-button-label = Otum
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

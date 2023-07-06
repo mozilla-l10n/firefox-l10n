@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Bal mo obedo tye ikare me cwalo ripot. Tim ber item doki lacen.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Kiyubo kakube? Cwal ripot
 
@@ -14,6 +15,7 @@ protections-panel-sitefixedsendreport-label = Kiyubo kakube? Cwal ripot
 
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Kakube pe tye katic?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Kakube Pe tye Katic?
@@ -46,10 +48,12 @@ protections-panel-not-found-label = Pe ki Nongo mo
 
 # The header of the list
 protections-panel-site-not-working-view-header = Juk woko gwokke kacce itye kanongo peko ki:
+
 protections-panel-site-not-working-view-issue-list-forms = Pwom
 protections-panel-site-not-working-view-issue-list-payments = Cul
 protections-panel-site-not-working-view-issue-list-comments = Tam
 protections-panel-site-not-working-view-issue-list-videos = Video
+
 protections-panel-site-not-working-view-send-report = Cwal ripot
 
 ##

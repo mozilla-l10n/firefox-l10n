@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Yab
     .accesskey = Y
-synced-tabs-context-open-in-new-tab =
-    .label = Yab i dirica matidi manyen
-    .accesskey = a
-synced-tabs-context-open-in-new-window =
-    .label = Yab i dirica manyen
-    .accesskey = m
-synced-tabs-context-open-in-new-private-window =
-    .label = Yab i dirica manyen me mung
-    .accesskey = m
-synced-tabs-context-bookmark-single-tab =
-    .label = Ket alama buk iye dirica matidi man…
-    .accesskey = K
 
 ##
 

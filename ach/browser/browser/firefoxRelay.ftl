@@ -11,4 +11,3 @@
 
 ##
 
-firefox-relay-opt-in-subtitle = Med { -relay-brand-name }

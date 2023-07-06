@@ -23,5 +23,7 @@ state-header = Kit ma tye kwede
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Matut
+
 update-installed-on = Kiketo iwi: { $date }
+
 update-status = Kite: { $status }

@@ -23,10 +23,12 @@ newtab-topsites-edit-topsites-header = Yub Kakube maloyo
 newtab-topsites-title-label = Wiye madit
 newtab-topsites-title-input =
     .placeholder = Ket wiye
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Coo onyo mwon URL
 newtab-topsites-url-validation = URL ma tye atir mite
+
 newtab-topsites-image-url-label = URL me cal ma kiyubo
 newtab-topsites-use-image-link = Tii ki cal ma kiyubo…
 newtab-topsites-image-validation = Cano cal pe olare. Tem URL mukene.
@@ -54,10 +56,12 @@ newtab-confirm-delete-history-p2 = Pe ki twero gonyo tic man.
 newtab-menu-section-tooltip =
     .title = Yab jami ayera
     .aria-label = Yab jami ayera
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kwany
     .aria-label = Kwany
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -154,6 +158,7 @@ newtab-section-header-pocket = Lami tam obedo { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Cak yeny, ka wa binyuto coc akwana mabeco, video, ki potbuk mukene ma ilimo cokcokki onyo ma kiketo alamabuk kany.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -175,22 +180,15 @@ newtab-pocket-read-more = Lok macuk gi lamal:
 newtab-pocket-learn-more = Nong ngec mapol
 newtab-pocket-cta-button = Nong { -pocket-brand-name }
 newtab-pocket-cta-text = Gwok lok ma imaro ii { -pocket-brand-name }, ka i pik wii ki jami me akwana ma mako wii.
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Gwok i { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = Kigwoko i { -pocket-brand-name }
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Can lok mapol
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Ityeko woko weng!
-newtab-pocket-last-card-desc = Rot doki lacen pi mapol.
-newtab-pocket-last-card-image =
-    .alt = Ityeko woko weng
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Gwoki
 newtab-pocket-saved = Kigwoko
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

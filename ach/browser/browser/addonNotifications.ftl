@@ -14,6 +14,7 @@ xpinstall-prompt-message = Itye ka temo me keto med-ikome ki i { $host }. Nen ni
 
 xpinstall-prompt-header-unknown = Yee ki kakube ma pe ngene me keto med-ikome?
 xpinstall-prompt-message-unknown = Itye ka temo me keto med-ikome ki i kakube ma pe ngene. Nen ni meno i geno kakube man ma pud pe imede anyim.
+
 xpinstall-prompt-dont-allow =
     .label = Pe i ye
     .accesskey = D
@@ -37,6 +38,7 @@ xpinstall-disabled = Keto purugram pud kijuko woko kombedi. Dii Ye kadong i tem 
 xpinstall-disabled-button =
     .label = Ye
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = kimedo { $addonName } i { -brand-short-name }
@@ -50,6 +52,7 @@ webext-perms-update-menu-item = { $addonName } mito twero manyen
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Kwany { $name } ki ii { -brand-shorter-name }?
 addon-removal-button = Kwany
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -58,6 +61,7 @@ addon-downloading-and-verifying =
        *[other] Gamo ki moko ada pa med-ikome { $addonCount }…
     }
 addon-download-verifying = Tye kamoko
+
 addon-install-cancel-button =
     .label = Juki
     .accesskey = J

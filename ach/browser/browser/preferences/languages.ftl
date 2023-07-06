@@ -45,10 +45,6 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 
-browser-languages-window =
-    .title = Ter me Leb pi { -brand-short-name }
-    .style = width: 40em
-
 browser-languages-window2 =
     .title = Ter me Leb pi { -brand-short-name }
     .style = min-width: 40em

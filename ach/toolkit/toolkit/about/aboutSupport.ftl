@@ -76,6 +76,8 @@ sandbox-sys-call-tid = TID
 
 media-device-name = Nying
 
+## Codec support table
+
 ##
 
 intl-locales-requested = Leb ma kipenyo pi gi

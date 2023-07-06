@@ -35,3 +35,10 @@ migration-wizard-migrator-display-name-safari = Safari
 
 ##
 
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+

@@ -13,5 +13,9 @@ url-classifier-disabled = Kijuko
 url-classifier-updating = tye ka keto ngec manyen
 url-classifier-cannot-update = pe twero keto ngec manyen
 url-classifier-success = otum
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = bal i keto ngec manyen ({ $error })
 url-classifier-download-error = bal i gamo ngec manyen ({ $error })

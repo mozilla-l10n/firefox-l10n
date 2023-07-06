@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Med lanyut
+
 pocket-panel-saved-error-generic = Bal otime i kare me temo gwoko i { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Lageng me lanyut tye kit 25
 pocket-panel-saved-error-only-links = Ki gwoko kakube keken
@@ -25,7 +26,6 @@ pocket-panel-saved-save-tags = Gwoki
 pocket-panel-saved-saving-tags = Tye ka gwoko…
 pocket-panel-saved-suggested-tags = Tam amia pi lanyut
 pocket-panel-saved-tags-saved = Kimedo lanyut
-pocket-panel-signup-view-list = Nen nying
 
 ## about:pocket-signup panel
 
@@ -38,11 +38,13 @@ pocket-panel-signup-signup-firefox = Cone ki { -brand-product-name }
 pocket-panel-signup-tagline = Gwok coc akwana ki vidio ki i { -brand-product-name } me anena i { -pocket-brand-name } i nyonyo mo keken, cawa mo keken.
 pocket-panel-signup-tagline-story-one = Dii mapeca me { -pocket-brand-name } me gwoko coc akwana, vidio onyo potbuk mo keken ki i { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Nen i { -pocket-brand-name } ki i nyonyo mo keken, cawa mo keken.
+
 pocket-panel-signup-cta-c-updated = Nen jami ma igwoko ki i nyonyo mo keken, cawa mo keken.
 
 ## about:pocket-home panel
 
 pocket-panel-home-discover-more = Nong Mapol
+
 pocket-panel-home-most-recent-saves = Magi aye jami ma igwoko cokcoki:
 pocket-panel-home-most-recent-saves-loading = Cano jami ma igwoko cokcoki…
 pocket-panel-home-new-user-message = Nen jami ma igwoko cokcoki ki kany.

@@ -26,11 +26,6 @@ about-networking-messages-received = Kigamo kwena
 about-networking-bytes-sent = Kicwalo Bytes
 about-networking-bytes-received = Kigamo Bytes
 about-networking-logging = Gwoko rikod
-about-networking-log-tutorial = Nen <a data-l10n-name="logging">Gwoko rikod me HTTP</a> pi ngec me tic ki gitic man.
-about-networking-current-log-file = Pwail me rikod ma kombedi:
-about-networking-set-log-file = Ter pwil me rikod
-about-networking-start-logging = Cak gwoko rikod
-about-networking-stop-logging = Juk gwoko rikod
 about-networking-dns-lookup-button = Yubi
 about-networking-dns-domain = Ker:
 about-networking-dns-lookup-table-column = IPs

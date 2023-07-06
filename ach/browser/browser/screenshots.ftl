@@ -35,3 +35,4 @@ screenshots-empty-selection-error-title = Yer mamegi tidi tutwal
 
 screenshots-generic-error-title = Woo! { -screenshots-brand-name } opo oo.
 screenshots-generic-error-details = Pe wa ngeyo ngo ma otime kombedi. Iromo temo ne doki onyo mako cal pa potbuk mukene?
+

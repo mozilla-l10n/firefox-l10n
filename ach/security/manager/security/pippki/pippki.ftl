@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Gamo Waraga
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Gamo Waraga
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Pire tek: Ka wiyi owil ki mung me kano waraga, pe iromo 
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Gwok Twero me Pwoc
-protected-auth-msg = Tim ber imi twero bot pwoc. Kore me twero jenge ikom kit pwoc mamegi.
-protected-auth-token = Pwoc:
+## Protected authentication alert
+

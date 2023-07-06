@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Tic ma iyi WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gwok about:webrtc calo
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = Gwok me AEC
 about-webrtc-aec-logging-off-state-label = Cak Gwok me AEC
 about-webrtc-aec-logging-on-state-label = Juk gwok me AEC
 about-webrtc-aec-logging-on-state-msg = Gwok me AEC tye katic (lok ki lago cim pi dakika mo manok ka i juk mako ne)
+
 about-webrtc-aec-logging-toggled-on-state-msg = Gwok me AEC tye katic (lok ki lago cim pi dakika mo manok ka i juk mako ne)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Pwail me gwok ma kimako nonge i: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -66,10 +69,12 @@ about-webrtc-type-remote = Ki kama bor
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Kicimo
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Kiyero
+
 about-webrtc-save-page-label = Gwok pot buk
 about-webrtc-debug-mode-msg-label = Kit me nong bal
 about-webrtc-debug-mode-off-state-label = Cak kit me nongo bal
@@ -81,6 +86,7 @@ about-webrtc-log-show-msg = nyut gwok
     .title = dii me yaro bute man
 about-webrtc-log-hide-msg = kan gwok
     .title = dii me jwiko bute man
+
 about-webrtc-log-section-show-msg = Nyut gwok
     .title = Dii me yaro bute man
 about-webrtc-log-section-hide-msg = Kan gwok
@@ -136,6 +142,7 @@ about-webrtc-save-page-msg = kigwoko potbuk i: { $path }
 about-webrtc-debug-mode-off-state-msg = coc ikom lubo kor nonge i: { $path }
 about-webrtc-debug-mode-on-state-msg = tye i kit me nongo bal, loke nonge i: { $path }
 about-webrtc-aec-logging-off-state-msg = pwail me gwok ma kimako nonge i: { $path }
+
 about-webrtc-save-page-complete-msg = Kigwoko potbuk i: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Coc ikom lubo kor nonge i: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Tye i kit me nongo bal, loke nonge i: { $path }

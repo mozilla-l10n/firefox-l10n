@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Pe i Wek
        *[other] Pe I aa
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ka i aa woko ki wiyamo, gam 1 bi juke woko. I moko ada ni i mito aa woko ki wiyamo?
        *[other] Ka i aa ki wiyamo kombedi, gam { $downloadsCount } bi juke woko. I moko ada ni i mito aa woko ki wiyamo?
     }
 download-ui-dont-go-offline-button = Bed I wiyamo
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ka i loro dirica weng me yeny i mung kombedi, ki bijuko gam 1 woko. I moko ada ni i mito weko yeny me mung?
        *[other] Ka i loro dirica weng me yeny i mung kombedi, ki bijuko gam { $downloadsCount } woko. I moko ada ni i mito weko yeny me mung?
     }
 download-ui-dont-leave-private-browsing-button = Bed i yeny me mung
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Juk Gam 1
