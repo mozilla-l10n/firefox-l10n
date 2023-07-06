@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Concluir configuração da conta
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Conta desconectada
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Enviar para todos os dispositivos
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Gerenciar dispositivos…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Gerenciar dispositivos…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Sem dispositivos conectados
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Saiba mais sobre envio de abas…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Conectar outro dispositivo…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Verificar sua conta…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Este computador agora está conectado com { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Este computador agora está conectado com um novo dispositivo.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Você entrou na sua conta com sucesso
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Este computador foi desconectado.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Aba recebida
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Aba do { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Abas recebidas
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

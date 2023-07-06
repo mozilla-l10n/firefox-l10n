@@ -8,39 +8,38 @@ password-quality-meter = Medidor de qualidade da senha
 
 change-device-password-window =
     .title = Alterar senha
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de segurança: { $tokenName }
 change-password-old = Senha atual:
 change-password-new = Nova senha:
 change-password-reenter = Confirmar a nova senha:
+
 pippki-failed-pw-change = Não foi possível alterar a senha.
 pippki-incorrect-pw = Você não digitou corretamente a senha atual. Tente novamente.
 pippki-pw-change-ok = Senha alterada com sucesso.
+
 pippki-pw-empty-warning = Suas senhas e chaves privadas armazenadas não estarão protegidas.
 pippki-pw-erased-ok = Você excluiu sua senha. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Atenção! Você decidiu não usar uma senha. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Você está no momento no modo FIPS. O modo FIPS exige uma senha não vazia.
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Redefinir senha principal
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = Redefinir senha principal
     .style = min-width: 40em
 reset-password-button-label =
     .label = Redefinir
 reset-primary-password-text = Se você redefinir a senha principal, todas as suas senhas de contas e emails, chaves privadas e certificados pessoais armazenados serão esquecidos. Tem certeza que quer redefinir sua senha principal?
+
 pippki-reset-password-confirmation-title = Redefinir senha principal
 pippki-reset-password-confirmation-message = Sua senha principal foi redefinida.
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Baixando o certificado
-    .style = width: 46em
 download-cert-window2 =
     .title = Baixando certificado
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Importante: Se você esquecer a senha do backup de certificados, não poderá restaurar esse backup mais tarde. Anote em um local seguro.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = Autenticação protegida por token
-protected-auth-msg = Autentique-se com o token. O modo de autenticação depende do tipo do seu token.
-protected-auth-token = Token:
 
 ## Protected authentication alert
 
