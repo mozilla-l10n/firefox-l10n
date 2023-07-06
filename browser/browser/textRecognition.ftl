@@ -10,5 +10,6 @@ text-recognition-modal-searching-title = Суреттен мәтінді ізд�
 text-recognition-modal-results-title = Мәтін суреттен көшірілді
 text-recognition-modal-no-results-title = Кешіріңіз, біз ешбір мәтінді шығара алмадық. Басқа суретті қолданып көріңіз. <a data-l10n-name="error-link">Толығырақ ақпарат</a>.
 text-recognition-modal-close-button = Жабу
+
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = Мәтінді шығару нәтижелері

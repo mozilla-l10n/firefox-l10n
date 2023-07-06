@@ -4,6 +4,7 @@
 
 about-reader-loading = Жүктеу…
 about-reader-load-error = Парақтан мақаланы жүктеу сәтсіз
+
 about-reader-color-scheme-light = Ашық түсті
     .title = Ашық түстер схемасы
 about-reader-color-scheme-dark = Күңгірт
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Сепия
     .title = Сепия түстер схемасы
 about-reader-color-scheme-auto = Автоматты түрде
     .title = Түс схемасы "Авто"
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

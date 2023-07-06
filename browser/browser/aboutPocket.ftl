@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Тегтерді қосу
+
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ке сақтау талабы кезінде қате орын алды.
 pocket-panel-saved-error-tag-length = Тег 25 таңбамен шектелген
 pocket-panel-saved-error-only-links = Тек сілтемелерді сақтауға болады
@@ -21,7 +22,6 @@ pocket-panel-saved-page-removed = Парақ өшірілді
 pocket-panel-saved-page-saved = { -pocket-brand-name }-ке сақталды
 pocket-panel-saved-page-saved-b = { -pocket-brand-name } ішіне сақталды!
 pocket-panel-saved-processing-remove = Парақты өшіру…
-pocket-panel-saved-removed = Парақ менің тізімімнен өшірілді
 pocket-panel-saved-removed-updated = Парақ сақталғандардан өшірілді
 pocket-panel-saved-processing-tags = Тегтерді қосу…
 pocket-panel-saved-remove-page = Парақты өшіру
@@ -29,7 +29,7 @@ pocket-panel-saved-save-tags = Сақтау
 pocket-panel-saved-saving-tags = Сақтау…
 pocket-panel-saved-suggested-tags = Ұсынылатын тегтер
 pocket-panel-saved-tags-saved = Тегтер қосылды
-pocket-panel-signup-view-list = Тізімді қарау
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Тегтерді қосу:
 
@@ -44,21 +44,20 @@ pocket-panel-signup-signup-firefox = { -brand-product-name }-пен тіркел
 pocket-panel-signup-tagline = { -brand-product-name }-тан мақалаларды және видеоларды { -pocket-brand-name }-те кез-келген құрылғыда және уақытта қарай алу үшін сақтаңыз.
 pocket-panel-signup-tagline-story-one = { -brand-product-name }-тан кез-келген мақала, видео немесе парақты сақтау үшін { -pocket-brand-name } батырмасына басыңыз.
 pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-те кез-келген құрылғыда және уақытта қарай аласыз.
+
 pocket-panel-signup-cta-a-fix = Сіздің интернетке арналған сақтау батырмасы
-pocket-panel-signup-cta-b = Мақалалар, видеолар және сілтемелерді сақтау үшін { -pocket-brand-name } батырмасын басыңыз. Тізімдіңізді кез келген уақытта кез келген құрылғыдан қараңыз.
 pocket-panel-signup-cta-b-updated = Мақалалар, видеолар және сілтемелерді сақтау үшін { -pocket-brand-name } батырмасын басыңыз. Сақталғандарды кез келген уақытта кез келген құрылғыдан қараңыз.
 pocket-panel-signup-cta-b-short = Мақалалар, видеолар және сілтемелерді сақтау үшін { -pocket-brand-name } батырмасын басыңыз.
-pocket-panel-signup-cta-c = Тізімдіңізді кез келген уақытта кез келген құрылғыдан қараңыз.
 pocket-panel-signup-cta-c-updated = Сақталғандарды кез келген уақытта кез келген құрылғыдан қараңыз.
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Менің тізімім
 pocket-panel-home-welcome-back = Қайта қош келдіңіз
 pocket-panel-home-paragraph = Веб-беттер, мақалалар, видеолар және подкасттарды шолу және сақтау үшін немесе оқығаныңызға оралу үшін { -pocket-brand-name } қолдануға болады.
 pocket-panel-home-explore-popular-topics = Әйгілі темаларды шолу
 pocket-panel-home-discover-more = Өзіңіз үшін көбірек ашыңыз
 pocket-panel-home-explore-more = Шолу
+
 pocket-panel-home-most-recent-saves = Сіздің ең соңғы сақтауларыңыз:
 pocket-panel-home-most-recent-saves-loading = Соңғы сақтауларыңыз жүктелуде…
 pocket-panel-home-new-user-cta = Мақалалар, видеолар және сілтемелерді сақтау үшін { -pocket-brand-name } батырмасын басыңыз.
@@ -66,7 +65,6 @@ pocket-panel-home-new-user-message = Соңғы сақтауларды осы ж
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = Менің тізімімді қарау
 pocket-panel-header-my-saves = Сақталғандарды қарау
 pocket-panel-header-sign-in = Кіру
 

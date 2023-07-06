@@ -23,5 +23,7 @@ state-header = Қалып-күйі
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Көбірек білу
+
 update-installed-on = Орнатылған: { $date }
+
 update-status = Күйі: { $status }

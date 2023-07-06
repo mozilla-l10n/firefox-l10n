@@ -30,6 +30,7 @@ webrtc-item-browser = бет
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Белгісіз шыққан жері
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Бөлісетін құрылғылары бар беттер
     .accesskey = Б
+
 webrtc-sharing-window = Сіз басқа қолданба терезесімен бөлісудесіз.
 webrtc-sharing-browser-window = Сіз { -brand-short-name } бөлісудесіз.
 webrtc-sharing-screen = Сіз бүкіл экранмен бөлісудесіз.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Бөлісуді басқару
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" бетімен бөлісуді басқару
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Камерамен "{ $streamTitle }" бетімен бөлісудесіз
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Камерамен { $tabCount } бетпен бөлісу
            *[other] Камерамен { $tabCount } бетпен бөлісу
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Микрофонмен "{ $streamTitle }" бетімен бөлісудесіз
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Микрофонмен { $tabCount } бетпен бөлісу
            *[other] Микрофонмен { $tabCount } бетпен бөлісу
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }" үшін қолданбамен бөлісу
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Қолданбамен { $tabCount } бетпен бөлісу
            *[other] Қолданбамен { $tabCount } бетпен бөлісу
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Экранмен "{ $streamTitle }" бетімен бөлісудесіз
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Экранмен { $tabCount } бетпен бөлісу
            *[other] Экранмен { $tabCount } бетпен бөлісу
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Тереземен "{ $streamTitle }" бетімен бөлісудесіз
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Тереземен { $tabCount } бетпен бөлісу
            *[other] Тереземен { $tabCount } бетпен бөлісу
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }" үшін бетпен бөлісудесіз
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } үшін бұл бет
 
 webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } өніміне { $thirdParty } үшін бұл беттін аудиосын тыңдау рұқсатын беруді рұқсат ету керек пе?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } { $thirdParty } үшін камераңызға қатынау рұқсатын беруді рұқсат ету керек пе?
-webrtc-allow-share-microphone-unsafe-delegations = { $origin } { $thirdParty } үшін микрофоныңызға қатынау рұқсатын беруді рұқсат ету керек пе?
 webrtc-allow-share-microphone-unsafe-delegation = { $origin } { $thirdParty } үшін микрофоныңызға қатынау рұқсатын беруді рұқсат ету керек пе?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } өніміне { $thirdParty } үшін экраныңызды көру рұқсатын беруді рұқсат ету керек пе?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } өн
 
 webrtc-share-screen-warning = Тек өзіңіз сенетін сайттармен экраныңызбен бөлісіңіз. Бөлісу зиянкес сайттарға сіздің атыңыздан интернетті шолып, жеке деректеріңізді ұрлау мүмкіндігін береді.
 webrtc-share-browser-warning = Тек өзіңіз сенетін сайттармен { -brand-short-name } бөлісіңіз. Бөлісу зиянкес сайттарға сіздің атыңыздан интернетті шолып, жеке деректеріңізді ұрлау мүмкіндігін береді.
+
 webrtc-share-screen-learn-more = Көбірек білу
 webrtc-pick-window-or-screen = Терезе немесе экранды таңдаңыз
 webrtc-share-entire-screen = Толық экран
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Осы таңдауымды есте сақтау
 webrtc-mute-notifications-checkbox = Бөлісу кезінде веб-сайт хабарламаларының дыбысын сөндіру
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } сізің экраныңызға тұрақты қатынауды рұқсат ете алмайды.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } бет аудиосына тұрақты қатынауды қай бетпен бөлісуді сұрамай рұқсат ете алмайды.
 webrtc-reason-for-no-permanent-allow-insecure = Бұл сайтқа сіздің байланысыңыз қауіпсіз емес. Сізді қорғау мақсатында, { -brand-short-name } тек бұл сессия ішінде қатынауды рұқсат етеді.

@@ -40,6 +40,7 @@ about-logging-preset-media-playback-description = Медиа ойнату мәс
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = Таңдауыңызша
 about-logging-preset-custom-description = Журналдау модульдері қолмен таңдалған
+
 # Error handling
 about-logging-error = Қате:
 
@@ -53,4 +54,5 @@ about-logging-unknown-profiler-preset = Профильдеушінің белг�
 about-logging-unknown-option = Белгісіз about:logging опциясы "{ $k }"
 about-logging-configuration-url-ignored = Баптаудың URL адресі еленбеді
 about-logging-file-and-profiler-override = Бір уақытта файлға шығаруды мәжбүрлеу және профиль жасау опцияларын қайта анықтау мүмкін емес
+
 about-logging-configured-via-url = Опция URL арқылы бапталған

@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = linuxforum.kz
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Baurzhan Muftakhidinov, Timur Timirkhanov, Zhanbolat Satybaldinov, Dauren Sarsenov

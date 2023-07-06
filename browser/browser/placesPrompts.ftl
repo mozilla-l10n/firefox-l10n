@@ -4,8 +4,10 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (тақырыпсыз)
+
 # Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
 places-load-js-data-url-error = Қауіпсіздік мақсаттарында бүйір панелінен "javascript:" пен "data:" адрестерін жүктеуге тыйым салынған.
+
 places-bookmarks-backup-title = Бетбелгілердің резервті нұсқасы бар файлдың аты
 places-bookmarks-restore-alert-title = Бетбелгілерді қалпына келтіру
 places-bookmarks-restore-alert = Ағымдағы бетбелгілердің барлығы резервті нұсқасындағы бетбелгілерімен ауыстырылады. Мұны қалайсыз ба?
@@ -13,5 +15,6 @@ places-bookmarks-restore-title = Бетбелгілердің резервті �
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Қолдамайтын файл түрі.
 places-bookmarks-restore-parse-error = Резервті нұсқа файлын өңдеген кезде қате кетті.
+
 places-bookmarks-import = Бетбелгілер файлын импорттау
 places-bookmarks-export = Бетбелгілер файлын экспорттау

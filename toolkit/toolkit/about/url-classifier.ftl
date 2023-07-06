@@ -50,5 +50,9 @@ url-classifier-disabled = Сөндірулі
 url-classifier-updating = жаңарту
 url-classifier-cannot-update = жаңарту мүмкін емес
 url-classifier-success = сәтті
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = жаңарту қатесі ({ $error })
 url-classifier-download-error = жүктеп алу қатесі ({ $error })
