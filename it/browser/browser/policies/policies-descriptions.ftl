@@ -74,8 +74,6 @@ policy-DisablePrimaryPasswordCreation = Se impostato a “true” non è possibi
 
 policy-DisablePasswordReveal = Non permettere di mostrare le password nelle credenziali salvate.
 
-policy-DisablePocket = Disattiva la possibilità di salvare pagine web in Pocket.
-
 policy-DisablePocket2 = Disattiva la possibilità di salvare pagine web in { -pocket-brand-name }.
 
 policy-DisablePrivateBrowsing = Disattiva la modalità Navigazione anonima.
@@ -122,10 +120,6 @@ policy-Extensions = Installa, disinstalla o blocca estensioni. L’opzione per i
 policy-ExtensionSettings = Gestisci tutti gli aspetti connessi all’installazione di estensioni.
 
 policy-ExtensionUpdate = Attiva o disattiva l’aggiornamento automatico delle estensioni.
-
-policy-FirefoxHome = Configura Firefox Home.
-
-policy-FlashPlugin = Consenti o nega l’utilizzo del plugin Flash.
 
 policy-FirefoxHome2 = Configura { -firefox-home-brand-name }.
 

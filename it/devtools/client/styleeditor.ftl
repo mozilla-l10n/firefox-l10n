@@ -20,7 +20,6 @@ styleeditor-save-button = Salva
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Opzioni Editor stili
-styleeditor-media-rules = Regole @media
 styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Inserire qui il CSS.

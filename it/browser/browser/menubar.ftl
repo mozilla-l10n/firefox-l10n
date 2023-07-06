@@ -213,8 +213,6 @@ menu-history-undo-menu =
     .label = Schede chiuse di recente
 menu-history-undo-window-menu =
     .label = Finestre chiuse di recente
-menu-history-reopen-all-tabs = Riapri tutte le schede
-menu-history-reopen-all-windows = Riapri tutte le finestre
 
 ## Bookmarks Menu
 
@@ -223,10 +221,6 @@ menu-bookmarks-menu =
     .accesskey = e
 menu-bookmarks-manage =
     .label = Gestisci segnalibri
-menu-bookmark-current-tab =
-    .label = Aggiungi scheda corrente ai segnalibri
-menu-bookmark-edit =
-    .label = Modifica segnalibro
 menu-bookmark-tab =
     .label = Aggiungi scheda corrente ai segnalibri…
 menu-edit-bookmark =

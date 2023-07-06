@@ -32,10 +32,6 @@ third-party-tag-shellex = Estensione shell
     .title = Questo tipo di modulo viene caricato quando si apre la finestra di dialogo del sistema operativo per i file.
 third-party-tag-background = Background
     .title = Questo modulo non ha bloccato l’applicazione in quanto è stato caricato in background.
-third-party-unsigned-icon =
-    .title = Questo modulo non è firmato.
-third-party-warning-icon =
-    .title = { -brand-short-name } si è arrestato in modo anomalo eseguendo codice in questo modulo
 
 third-party-icon-unsigned =
     .alt = Questo modulo non è firmato.

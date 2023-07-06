@@ -142,9 +142,6 @@ profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = Cattura del profilo in corso…
 
-profiler-popup-title =
-    .value = { -profiler-brand-name }
-
 profiler-popup-header-text = { -profiler-brand-name }
 
 profiler-popup-reveal-description-button =
@@ -231,8 +228,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = Gestisci cronologia
-appmenu-reopen-all-tabs = Riapri tutte le schede
-appmenu-reopen-all-windows = Riapri tutte le finestre
 appmenu-restore-session =
     .label = Ripristina la sessione precedente
 appmenu-clear-history =

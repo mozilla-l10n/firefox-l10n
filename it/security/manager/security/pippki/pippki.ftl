@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Si è in modalità FIPS. FIPS richiede che
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Rimozione password principale
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Rimozione password principale
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Rimozione password principale
 pippki-reset-password-confirmation-message = La password è stata eliminata.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Download certificato
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Download certificato
@@ -81,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Importante: se si dovesse scordare la password della copia di backup, non sarà possibile recuperarne successivamente il contenuto. Si consiglia di conservare la password in un luogo sicuro.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = Autenticazione token protetta
-protected-auth-msg = Autenticarsi con il token. Il metodo di autenticazione dipende dal tipo di token in uso.
-protected-auth-token = Token:
 
 ## Protected authentication alert
 

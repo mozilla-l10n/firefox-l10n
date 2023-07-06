@@ -16,8 +16,6 @@ update-updateButton =
     .accesskey = R
 
 update-checkingForUpdates = Ricerca aggiornamenti…
-update-downloading = <img data-l10n-name="icon"/>Download aggiornamento — <label data-l10n-name="download-status"/>
-update-downloading-message = Download aggiornamento — <label data-l10n-name="download-status"/>
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -37,8 +35,6 @@ update-noUpdatesFound = { -brand-short-name } è aggiornato
 aboutdialog-update-checking-failed = Impossibile controllare la disponibilità di aggiornamenti.
 update-otherInstanceHandlingUpdates = Aggiornamento di { -brand-short-name } in corso in un’altra istanza
 
-update-manual = Aggiornamenti disponibili su <label data-l10n-name="manual-link"/>
-
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
@@ -48,8 +44,6 @@ settings-update-manual-with-link = Aggiornamenti disponibili su <a data-l10n-nam
 update-unsupported = Non è possibile installare ulteriori aggiornamenti su questo sistema. <label data-l10n-name="unsupported-link">Ulteriori informazioni</label>
 
 update-restarting = Riavvio…
-
-channel-description = Canale di aggiornamento attuale: <label data-l10n-name="current-channel"></label>.
 
 update-internal-error2 = Impossibile verificare la disponibilità di aggiornamenti a causa di un errore interno. Aggiornamenti disponibili a <label data-l10n-name="manual-link">{ $displayUrl }</label>
 

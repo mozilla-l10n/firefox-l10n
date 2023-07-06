@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Aggiungi pagina ai segnalibri
-    .accesskey = u
-    .tooltiptext = Aggiungi pagina ai segnalibri
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Aggiungi pagina ai segnalibri
-    .accesskey = n
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Modifica segnalibro
-    .accesskey = n
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Aggiungi pagina ai segnalibri
-    .accesskey = n
-    .tooltiptext = Aggiungi pagina ai segnalibri ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Modifica segnalibro
-    .accesskey = n
-    .tooltiptext = Modifica questo segnalibro
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Modifica segnalibro
-    .accesskey = n
-    .tooltiptext = Modifica questo segnalibro ({ $shortcut })
-
 main-context-menu-bookmark-page =
     .aria-label = Aggiungi pagina ai segnalibri…
     .accesskey = u
@@ -181,10 +143,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Apri link in nuova finestra anonima
     .accesskey = k
-
-main-context-menu-bookmark-link =
-    .label = Aggiungi link ai segnalibri…
-    .accesskey = b
 
 main-context-menu-bookmark-link-2 =
     .label = Aggiungi link ai segnalibri…
@@ -363,14 +321,6 @@ main-context-menu-audio-email =
     .label = Invia audio per email…
     .accesskey = n
 
-main-context-menu-plugin-play =
-    .label = Attiva questo plugin
-    .accesskey = l
-
-main-context-menu-plugin-hide =
-    .label = Nascondi questo plugin
-    .accesskey = N
-
 main-context-menu-save-to-pocket =
     .label = Salva pagina in { -pocket-brand-name }
     .accesskey = k
@@ -433,10 +383,6 @@ main-context-menu-frame-reload =
     .label = Ricarica riquadro
     .accesskey = R
 
-main-context-menu-frame-bookmark =
-    .label = Aggiungi riquadro ai segnalibri…
-    .accesskey = e
-
 main-context-menu-frame-add-bookmark =
     .label = Aggiungi riquadro ai segnalibri…
     .accesskey = e
@@ -456,10 +402,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Visualizza informazioni riquadro
     .accesskey = n
-
-main-context-menu-print-selection =
-    .label = Stampa selezione
-    .accesskey = m
 
 main-context-menu-print-selection-2 =
     .label = Stampa selezione…

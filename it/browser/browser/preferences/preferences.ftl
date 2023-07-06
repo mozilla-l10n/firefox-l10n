@@ -252,17 +252,9 @@ preferences-web-appearance-header = Aspetto dei siti web
 
 preferences-web-appearance-description = Alcuni siti web possono adattare il proprio schema di colori in base alle preferenze del visitatore. Scegli lo schema di colori da seguire per questi siti.
 
-preferences-web-appearance-choice-browser = Tema di { -brand-short-name }
-preferences-web-appearance-choice-system = Tema di sistema
-
 preferences-web-appearance-choice-auto = Automatico
 preferences-web-appearance-choice-light = Chiaro
 preferences-web-appearance-choice-dark = Scuro
-
-preferences-web-appearance-choice-tooltip-browser =
-    .title = Segui il tema di { -brand-short-name } per lo sfondo e i contenuti dei siti.
-preferences-web-appearance-choice-tooltip-system =
-    .title = Segui le impostazioni del sistema per lo sfondo e i contenuti dei siti.
 
 preferences-web-appearance-choice-tooltip-auto =
     .title = Cambia automaticamente i colori dello sfondo e dei contenuti dei siti in base alle impostazioni del sistema e del tema di { -brand-short-name }.
@@ -270,12 +262,6 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Preferisci una combinazione di colori chiara per lo sfondo e i contenuti dei siti.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Preferisci una combinazione di colori scura per lo sfondo e i contenuti dei siti.
-
-preferences-web-appearance-choice-input-browser =
-    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
-
-preferences-web-appearance-choice-input-system =
-    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
 
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
@@ -668,11 +654,6 @@ home-restore-defaults =
     .label = Ripristina predefiniti
     .accesskey = R
 
-# "Firefox" should be treated as a brand and kept in English,
-# while "Home" and "(Default)" can be localized.
-home-mode-choice-default =
-    .label = Pagina iniziale di Firefox (predefinita)
-
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (predefinita)
 
@@ -702,9 +683,6 @@ choose-bookmark =
     .accesskey = b
 
 ## Home Section - Firefox Home Content Customization
-
-home-prefs-content-header = Pagina iniziale di Firefox
-home-prefs-content-description = Scegli i contenuti da visualizzare nella pagina iniziale di Firefox.
 
 home-prefs-content-header2 = Contenuti per { -firefox-home-brand-name }
 home-prefs-content-description2 = Scegli i contenuti da visualizzare in { -firefox-home-brand-name }.
@@ -950,8 +928,6 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
-sync-currently-syncing-heading = I seguenti elementi vengono attualmente sincronizzati:
-
 sync-syncing-across-devices-heading = I seguenti elementi vengono attualmente sincronizzati fra tutti i dispositivi connessi:
 
 sync-currently-syncing-bookmarks = Segnalibri
@@ -968,14 +944,6 @@ sync-change-options =
     .accesskey = b
 
 ## The "Choose what to sync" dialog.
-
-sync-choose-what-to-sync-dialog =
-    .title = Scelta elementi da sincronizzare
-    .style = width: 36em; min-height: 35em;
-    .buttonlabelaccept = Salva modifiche
-    .buttonaccesskeyaccept = S
-    .buttonlabelextra2 = Disconnetti…
-    .buttonaccesskeyextra2 = D
 
 sync-choose-what-to-sync-dialog3 =
     .title = Scelta elementi da sincronizzare
@@ -1216,8 +1184,6 @@ sitedata-option-block-cross-site-cookies =
     .label = Cookie traccianti intersito, isola gli altri cookie intersito
 sitedata-option-block-unvisited =
     .label = Cookie da siti web non visitati
-sitedata-option-block-all-third-party =
-    .label = Tutti i cookie di terze parti (alcuni siti potrebbero non funzionare correttamente)
 sitedata-option-block-all-cross-site-cookies =
     .label = Tutti i cookie intersito (alcuni siti potrebbero non funzionare correttamente)
 sitedata-option-block-all =
@@ -1309,7 +1275,6 @@ content-blocking-etp-custom-desc = Scegli quali traccianti e script bloccare.
 content-blocking-etp-blocking-desc = { -brand-short-name } blocca i seguenti elementi:
 
 content-blocking-private-windows = Contenuti traccianti in finestre anonime
-content-blocking-cross-site-cookies-in-all-windows = Cookie intersito in tutte le finestre (inclusi cookie traccianti)
 content-blocking-cross-site-cookies-in-all-windows2 = Cookie intersito in tutte le finestre
 content-blocking-cross-site-tracking-cookies = Cookie traccianti intersito
 content-blocking-all-cross-site-cookies-private-windows = Cookie traccianti intersito in finestre anonime
@@ -1318,16 +1283,9 @@ content-blocking-social-media-trackers = Traccianti dei social media
 content-blocking-all-cookies = Tutti i cookie
 content-blocking-unvisited-cookies = Cookie da siti web non visitati
 content-blocking-all-windows-tracking-content = Contenuti traccianti in qualunque finestra
-content-blocking-all-third-party-cookies = Tutti i cookie di terze parti
 content-blocking-all-cross-site-cookies = Tutti i cookie intersito
 content-blocking-cryptominers = Cryptominer
 content-blocking-fingerprinters = Fingerprinter
-
-# "Test pilot" is used as a verb. Possible alternatives:
-# "Be the first to try", "Join an early experiment".
-content-blocking-etp-standard-tcp-rollout-checkbox =
-    .label = Prova in anteprima la nuova potente funzione per la privacy
-    .accesskey = P
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
