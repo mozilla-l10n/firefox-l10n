@@ -5,20 +5,13 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Wo Glean
-about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean-SDK</a> je biblioteka hromadźenja datow, kotraž so w produktach Mozilla wužiwa. Tuta strona je za wuwiwarjow a testowarjow, kotřiž dyrbja <a data-l10n-name="fog-debug-doc-link">status za pytanje zmylkow a protokolowanje w Glean-SDK konfigurować</a>.
-about-glean-warning = Znjewužiwanje tutoho interfejsa móže spad { -brand-short-name } zawinować.
-tag-pings-label = Wšě pósłane pingi z tutej značku markěrować
-log-pings-label = Pingowe wužiwanske daty do słanja protokolować?
-send-pings-label = Pomjenowany ping pósłać
-controls-button-label = Nastajenja wotpósłać
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } Debug Ping Viewer
+
 about-glean-page-title2 = Wo { -glean-brand-name }
 about-glean-header = Wo { -glean-brand-name }
 about-glean-interface-description =
@@ -26,6 +19,7 @@ about-glean-interface-description =
     je zběrka datow, kotraž so w projektach { -vendor-short-name } wužiwa.
     Tutón powjerch je so wuwił, zo by so wot wuwiwarjow a testowarjow wužiwał, zo bychu manuelnje
     <a data-l10n-name="fog-link">instrumentaciju testowali</a>.
+
 about-glean-upload-enabled = Nahraće datow je zmóžnjene.
 about-glean-upload-disabled = Nahraće datow je znjemóžnjene.
 about-glean-upload-enabled-local = Nahraće datow je jenož za słanje na lokalny serwer zmóžnjene.
@@ -35,6 +29,7 @@ about-glean-upload-fake-enabled =
     zo bychu so daty hišće lokalnje składowali.
     Kedźbu: Jeli značku pytanja zmylkow stajeće, pingi so do
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> njedźiwajo na nastajenja nahrawaja.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Relewantne <a data-l10n-name="fog-prefs-and-defines-doc-link">nastajenja a definicije</a> wopřijimaja:
 # Variables:
@@ -53,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Wo testowanju
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -60,6 +56,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentach testowanja instrumentacije</a>
     a w <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentaciji</a> dokumentuja,
     ale, krótko prajene, zo byšće manuelnje testował, hač waša instrumentacije funguje, wy měł:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ping njesłać)
 # An in-line text input field precedes this string.
@@ -88,6 +85,7 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Wopytajće stronu { glean-debug-ping-viewer-brand-name } za pingi ze swojej značku</a>.
     Njeměło wjace hač por sekundow wot tłóčenja tłóčatka do přichoda wašeho pinga trać.
     Druhdy móže por mjeńšin trać.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Za dalše testy <i>ad hoc</i>
@@ -95,7 +93,10 @@ about-glean-adhoc-explanation =
     hdyž konsolu wuwiwarskich nastrojow tu w <code>about:glean</code> wočinjeće
     a API <code>testGetValue()</code> takle wužiwaće:
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
+
 about-glean-about-data-header = Wo datach
 about-glean-about-data-explanation =
     Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće

@@ -4,6 +4,7 @@
 
 about-reader-loading = Začituje so…
 about-reader-load-error = Nastawk njeda so ze strony začitać
+
 about-reader-color-scheme-light = Swětły
     .title = Swětła barbowa šema
 about-reader-color-scheme-dark = Ćmowy
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepija
     .title = Barbowa šema Sepia
 about-reader-color-scheme-auto = Awtomatisce
     .title = Awtomatiska barbowa šema
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

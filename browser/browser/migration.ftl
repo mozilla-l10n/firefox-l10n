@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Importowanski asistent
+
 import-from =
     { PLATFORM() ->
         [windows] Nastajenja, zapołožki, historiju, hesła a hinaše daty importować z:
        *[other] Nastajenja, zapołožki, historiju, hesła a hinaše daty importować z:
     }
+
 import-from-bookmarks = Zapołožki importować z:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = Žane programy namakane, kotrež zapołožki, historiju abo hesła wobsahuja.
+
 import-source-page-title = Daty a nastajenja importować
 import-items-page-title = Objekty za importowanje
+
 import-items-description = Wubjerće objekty za importowanje:
+
 import-permissions-page-title = Prošu dajće { -brand-short-name } prawa
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS sej wužaduje, zo { -brand-short-name } eksplicitnje přistup k zapołožkam Safari dowolujeće. Klikńće na „Pokročować“ a wubjerće dataju „Bookmarks.plist“ we woknje „Dataju wočinić“, kotrež so jewi.
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS sej wužaduje, zo { -brand-short-name } eksplicitnje přistup k datam Safari dowolujeće. Klikńće na „Pokročować“, wubjerće rjadowak „Safari“ w dialogu Finder, kotryž so jewi a klikńće potom na „Wočinić“.
+
 import-migrating-page-title = Importuje so…
+
 import-migrating-description = Slědowace objekty so runje importuja…
+
 import-select-profile-page-title = Profil wubrać
+
 import-select-profile-description = Slědowace profile steja k dispoziciji za importowanje z:
+
 import-done-page-title = Importowanje dokónčene
+
 import-done-description = Slědowace objekty su so z wuspěchom importowali:
+
 import-close-source-browser = Prošu zawěsćće, zo wubrany wobhladowak je začinjeny, prjedy hač pokročujeće.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Čitanska lisćina (ze Safari)
 imported-edge-reading-list = Čitanska lisćina (z Edge)
 
@@ -101,6 +115,7 @@ browser-data-cookies-checkbox =
     .label = Placki
 browser-data-cookies-label =
     .value = Placki
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,10 +128,12 @@ browser-data-history-label =
             [firefox] Přehladowanska historija a zapołožki
            *[other] Přehladowanska historija
         }
+
 browser-data-formdata-checkbox =
     .label = Składowana formularna historija
 browser-data-formdata-label =
     .value = Składowana formularna historija
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,6 +142,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Składowane přizjewjenja a hesła
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -139,14 +157,17 @@ browser-data-bookmarks-label =
             [edge] Fawority
            *[other] Zapołožki
         }
+
 browser-data-otherdata-checkbox =
     .label = Druhe daty
 browser-data-otherdata-label =
     .label = Druhe daty
+
 browser-data-session-checkbox =
     .label = Wokna a rajtarki
 browser-data-session-label =
     .value = Wokna a rajtarki
+
 browser-data-payment-methods-checkbox =
     .label = Płaćenske metody
 browser-data-payment-methods-label =

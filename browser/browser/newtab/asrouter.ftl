@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Doporučena funkcija
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Čehodla so to pokazuje
+
 cfr-doorhanger-extension-cancel-button = Nic nětko
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Nětko přidać
     .accesskey = d
+
 cfr-doorhanger-extension-manage-settings-button = Doporučenske nastajenja rjadować
     .accesskey = D
+
 cfr-doorhanger-extension-never-show-recommendation = Tute doporučenje njepokazać
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Dalše informacije
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = wot { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Doporučenje
 cfr-doorhanger-extension-notification2 = Doporučenje
     .tooltiptext = Doporučenje rozšěrjenja
     .a11y-announcement = Doporučenje rozšěrjenja k dispoziciji
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Doporučenje
@@ -81,9 +89,11 @@ cfr-protections-panel-link-text = Dalše informacije
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowa funkcija:
+
 cfr-whatsnew-button =
     .label = Nowe funkcije a změny
     .tooltiptext = Nowe funkcije a změny
+
 cfr-whatsnew-release-notes-link-text = Wersijowe informacije čitać
 
 ## Enhanced Tracking Protection Milestones
@@ -114,13 +124,6 @@ cfr-doorhanger-doh-secondary-button = Znjemóžnić
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Waša priwatnosć je wažna. { -brand-short-name } nětko websydła jedne wot druheho izoluje, štož hackeram poćežuje, hesła, čisła kreditnych kartow a druhe sensibelne informacije kradnyć.
-cfr-doorhanger-fission-header = Sydłowa izolacija
-cfr-doorhanger-fission-primary-button = W porjadku, sym zrozumił
-    .accesskey = z
-cfr-doorhanger-fission-secondary-button = Dalše informacije
-    .accesskey = D
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Wideja na tutym sydle so snano w tutej wersiji { -brand-short-name } prawje njewothrawaja. Aktualizujće nětko { -brand-short-name } za połnu widejowu podpěru.
@@ -129,11 +132,6 @@ cfr-doorhanger-video-support-primary-button = Nětko aktualizować
     .accesskey = N
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Dalše informacije
-    .title = Pokazać, zo byšće wjace wo tutej funkciji zhonił
-spotlight-learn-more-expanded = Dalše informacije
-    .title = Začinić
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -150,18 +148,6 @@ spotlight-public-wifi-vpn-link = Nic nětko
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Testujće naše najmócniše dožiwjenje
-    priwatnosće wšěch časow
-spotlight-total-cookie-protection-body = Dospołny plackowy škit přesćěhowakam zadźěwa, placki wužiwać, zo bychu was w interneće přesćěhowali.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } płót wokoło plackow twari, kotryž je na sydło wobmjezuje, na kotrymž sće, zo njebychu je přesćěhowaki móhli wužiwać, zo bychu was přesćěhowali. Z lochkim přistupom pomhaće tutu funkciju optimować, zo bychmy móhli dale lěpši web za kóždeho natwarili.
-spotlight-total-cookie-protection-primary-button = Dospołny škit před plackami zmóžnić
-spotlight-total-cookie-protection-secondary-button = Nic nětko
 
 ## Emotive Continuous Onboarding
 
@@ -191,11 +177,13 @@ spotlight-pin-secondary-button = Nic nětko
 
 mr2022-background-update-toast-title = Nowy { -brand-short-name }. Priwatniši. Mjenje přesćěhowakow. Žane kompromisy.
 mr2022-background-update-toast-text = Spytajće nětko najnowši { -brand-short-name }, nětko z našim dotal najmócnišim škitom přećiwo slědowanju.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } nětko wočinić
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -214,6 +202,7 @@ firefoxview-cfr-body-v2 = Wobstarajće sej začinjene rajtarki wróćo a přeńd
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Witajće k { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Chceće tón wočinjeny rajtark na swojim šmóratku měć? Wobstarajće sej jón. Trjebaće sydło, kotrež sće runje wopytał? Simsalabim, je z { -firefoxview-brand-name } wróćo.
 firefoxview-spotlight-promo-primarybutton = Wobhladajće sej, kak to funguje
@@ -223,6 +212,7 @@ firefoxview-spotlight-promo-secondarybutton = Přeskočić
 
 colorways-cfr-primarybutton = Barbowu kombinaciju wubrać
     .accesskey = B
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Zabarbće swój wobhladowak z ekskluziwnymi barbowymi wotsćinami { -brand-short-name }, kotrež su wot hłosow inspirowane, kotrež su kulturu změnili.
 colorways-cfr-header-28days = Barbowe kombinacije „Njewotwisne hłosy“  16. januara spadnu
@@ -245,6 +235,7 @@ july-jam-headline = Smy was zapřijeli
 july-jam-body = Kóždy měsac { -brand-short-name } w přerězku wjace hač 3000 přesćěhowakow na wužiwarja blokuje a dawa wam wěsty, spěšny přistup k dobremu internetej.
 july-jam-set-default-primary = Moje wotkazy z { -brand-short-name } wočinić
 fox-doodle-pin-headline = Witajće wróćo
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Tu je krótke dopomnjeće, zo móžeće swój najlubši njewotwisny wobhladowak jenož kliknjenje preč měć.

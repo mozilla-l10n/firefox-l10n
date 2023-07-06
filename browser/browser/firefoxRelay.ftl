@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Dyrbiće so pola { -fxaccount-brand-name } př
 firefox-relay-get-unlimited-masks =
     .label = Maski rjadować
     .accesskey = M
-firefox-relay-opt-in-title = Škitajće swoju e-mejlowu adresu
-firefox-relay-opt-in-subtitle = { -relay-brand-name } přidać
-firefox-relay-generate-mask-title = Škitajće swoju e-mejlowu adresu
-firefox-relay-generate-mask-subtitle = Masku { -relay-brand-short-name } generować
-firefox-relay-opt-in-confirmation-enable =
-    .label = Dale
-    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Škitajće swoju e-mejlowu adresu:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

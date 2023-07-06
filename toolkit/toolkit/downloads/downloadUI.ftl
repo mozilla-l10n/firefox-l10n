@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Njeskónčić
        *[other] Njeskónčić
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Jeli nětko offline dźeće, so 1 sćehnjenje přetorhnje. Chceće woprawdźe offline hić?
        *[other] Jeli nětko offline dźeće, so { $downloadsCount } sćehnjenjow přetorhnje. Chceće woprawdźe offline hić?
     }
 download-ui-dont-go-offline-button = Online wostać
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Jeli nětko wšě wokna priwatneho modusa začiniće, so 1 sćehnjenje přetorhnje. Chceće priwatny modus woprawdźe wopušćić?
        *[other] Jeli nětko wšě wokna priwatneho modusa začiniće, so { $downloadsCount } sćehnjenjow přetorhnje. Chceće priwatny modus woprawdźe wopušćić?
     }
 download-ui-dont-leave-private-browsing-button = W priwatnym modusu wostać
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 sćehnjenje přetorhnyć
