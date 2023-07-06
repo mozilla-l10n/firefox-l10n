@@ -40,3 +40,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = ပယ်​ဖျက်ပါ
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = အစီရင်ခံစာကို ပေးပို့ပါ
+
+# Cookie Banner Handling
+

@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = အာဏာပိုင်များ
 
-certmgr-edit-ca-cert =
-    .title = CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = ဒီလက်မှတ်က အီးမေးလ် သုံးစွသူများကို ဖေါ်ထုတ်နိုင်တယ်။
 
-certmgr-delete-cert =
-    .title = လက်မှတ်ကို ဖျက်ရန်
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = လက်မှတ်ကို ဖျက်ရန်
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = ဆာဗာ
-
-certmgr-override-lifetime =
-    .label = သက်တမ်း
 
 certmgr-token-name =
     .label = လုံခြုံရေး ကိရိယာ

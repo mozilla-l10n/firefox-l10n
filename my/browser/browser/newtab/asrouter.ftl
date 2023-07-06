@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = အကြံပြုထားသော လု�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ဘာကြောင့် မြင်ရပါသနည်း
+
 cfr-doorhanger-extension-cancel-button = ယခု မဟုတ်သေးပါ
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = ယခုပင်ထည့်ပါ
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = အကြံပြုချက်နှင့်ဆိုင်သည့်အပြင်အဆင်များစီမံပါ
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = ဒီအကြံပြုချက်ကိုမပြပါနှင့်
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = ပိုမိုလေ့လာရန်
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } အားဖြင့်
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = အကြံပြုချက်
 cfr-doorhanger-extension-notification2 = အကြံပြုချက်
     .tooltiptext = အပိုနောက်တွဲ အကြံပြုချက်
     .a11y-announcement = အပိုနောက်တွဲ အကြံပြုချက် ရပြီ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = အကြံပြုချက်
@@ -68,6 +76,7 @@ cfr-doorhanger-bookmark-fxa-body = ကောင်းကောင်းတွေ
 cfr-whatsnew-button =
     .label = ဘာထူးလဲ
     .tooltiptext = ဘာထူးလဲ
+
 cfr-whatsnew-release-notes-link-text = ထုတ်ပြန်ချက်မှတ်စုများကိုဖတ်ပါ
 
 ## Enhanced Tracking Protection Milestones
@@ -132,4 +141,8 @@ cfr-doorhanger-doh-secondary-button = ပိတ်ထားသည်
 
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

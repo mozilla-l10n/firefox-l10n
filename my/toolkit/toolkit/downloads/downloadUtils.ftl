@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## Variables:
+## $timeValue (number) - Number of units of time
+
 # Short form for seconds
 download-utils-short-seconds = စက္ကန့်
 # Short form for minutes
@@ -10,6 +13,9 @@ download-utils-short-minutes = မိနစ်
 download-utils-short-hours = နာရီ
 # Short form for days
 download-utils-short-days = ရက်
+
+##
+
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -31,10 +37,12 @@ download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (တကယ
 #   $timeLeft (String): time left.
 #   $transfer (String): transfer progress.
 download-utils-status-no-rate = { $timeLeft } — { $transfer }
+
 download-utils-bytes = ဘိုက်များ
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
+
 # example: 1.1 of 333 MB
 # Variables:
 #   $progress (String): progress number.
@@ -53,6 +61,7 @@ download-utils-transfer-diff-units = { $progress } { $progressUnits } of { $tota
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+
 # examples: 1m; 11h
 # Variables:
 #   $time (String): time number.
@@ -69,11 +78,13 @@ download-utils-time-left-single = { $time } သာ ကျန်ပါတော�
 download-utils-time-left-double = { $time1 } { $time2 } သာ ကျန်ပါတော့သည်
 download-utils-time-few-seconds = စက္ကန့်အနည်းငယ်သာ ကျန်ပါတော့သည်
 download-utils-time-unknown = မည်မျှကြာမည်ဆိုတာ မသိနိုင်ပါ
+
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } resource
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = စက်ထဲရှိ ဖိုင်
+
 # Displayed time for files finished yesterday
 download-utils-yesterday = မနေ့

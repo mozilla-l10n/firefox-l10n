@@ -40,3 +40,4 @@ screenshots-private-window-error-details = အဆင်မပြေမှုမ�
 
 screenshots-generic-error-title = ဝိုး။ { -screenshots-brand-name } မှာ အမှားဖြစ်ပေါ်ခဲ့သည်။
 screenshots-generic-error-details = ဘာဖြစ်သွားခဲ့မှန်း သေချာမသိခဲ့ပါ။ ထပ်စမ်းကြည့်လိုပါသလား သို့မဟုတ် အခြားဝဘ်စာမျက်နှာကို ပုံရိပ်ဖမ်းလိုပါသလား။
+

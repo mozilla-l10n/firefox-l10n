@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] ထွက်မသွားပါနဲ့
        *[other] ထွက်ခွါမသွားပါနဲ့
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] If you go offline now, 1 download will be canceled. Are you sure you want to go offline?
        *[other] သင် ယခု ချိတ်ဆက်မဲ့ ပြောင်းသွားရင်၊ { $downloadsCount } ဆွဲချချက်များ ပယ်ဖျက်သွားမယ်။ သင် တကယ် ချိတ်ဆက်မဲ့ ​ပြောင်းသွားလိုသလား။
     }
 download-ui-dont-go-offline-button = အွန်လိုင်းမှာ နေပါ
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] သင် ယခု သီးသန့်ဝင်းဒိုးအားလုံးကို ပိတ်လိုက်လျှင် ကူးယူနေသည့် လုပ်ငန်း ၁ခု ရပ်ဆိုင်းသွားမည်။. သင်သည် သီးသန့် ရှာဖွေကြည့်ရှုခြင်းမှ ထွက်ခွာရန် သေချာပါသလား။
        *[other] သင် ယခု သီးသန့်ဝင်းဒိုးအားလုံးကို ပိတ်လိုက်လျှင် ကူးယူနေသည့်လုပ်ငန်းများ { $downloadsCount } ခု ရပ်ဆိုင်းသွားမည်။. သင်သည် သီးသန့် ရှာဖွေကြည့်ရှုခြင်းမှ ထွက်ခွာရန် သေချာပါသလား။
     }
 download-ui-dont-leave-private-browsing-button = သီးသန့် ရှာဖွေကြည့်ရှုခြင်းထဲတွင် နေပါ
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] ဆွဲချချက် 1 ခု ပယ်ဖျက်ပါ

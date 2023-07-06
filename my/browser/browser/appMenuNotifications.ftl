@@ -5,6 +5,7 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = ဤ တပ်တိုးအပို ကို သီးသန့် ဝင်းဒိုး တွင် အလုပ်လုပ်ရန် ခွင့်ပြု (A)
     .accesskey = A
+
 appmenu-tab-hide-controlled =
     .label = ဝှက်ထားသည့်တပ်ဗ်များကို အသုံးပြုရန်
     .buttonlabel = တပ်ဗ်များကို ဆက်၍ဝှက်ထားပါ

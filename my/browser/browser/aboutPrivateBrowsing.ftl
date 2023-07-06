@@ -40,3 +40,6 @@ about-private-browsing-pin-promo-link-text =
         [macos] ပင်မဘားတန်းပေါ်တင်ပါ။
        *[other] ပင်မဘားတန်းပေါ်တင်ပါ။
     }
+
+## Strings used in a promotion message for cookie banner reduction
+

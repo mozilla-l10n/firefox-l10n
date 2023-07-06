@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = ဒီစာမျက်နှာကို မှတ်သားပါ
-    .accesskey = m
-    .tooltiptext = စာအမှတ်အားမှတ်သားထားမည်
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = ဒီစာမျက်နှာကို မှတ်သားပါ
-    .accesskey = m
-    .tooltiptext = စာအမှတ်အားမှတ်သားထားမည် ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = ဒီစာမှတ်ကို ပြင်ဆင်မည်
-    .accesskey = m
-    .tooltiptext = စာအမှတ်အားပြင်မည်
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = ဒီစာမှတ်ကို ပြင်ဆင်မည်
-    .accesskey = m
-    .tooltiptext = စာအမှတ်အားပြင်မည် ({ $shortcut })
-
 main-context-menu-open-link =
     .label = လင့်ခ်ကို ဖွင့်ပါ
     .accesskey = O
@@ -242,14 +218,6 @@ main-context-menu-audio-email =
     .label = အော်ဒီယိုကို အီးမေးလ်ပို့ရန်…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = ဒီပလက်အင်ကို ဆောင်ရွက်စေပါ
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = ဒီပလက်အင်ကို ဖျောက်ထားပါ
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = စာမျက်နှာကို ကိရိယာသို့ ပို့ပါ
     .accesskey = D
@@ -288,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ဘောင်ကို ပြန်ဖွင့်ပါ
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = ဒီဘောင်ကို မှတ်သားပါ
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = ဘောင်ကို သိမ်းမည်…

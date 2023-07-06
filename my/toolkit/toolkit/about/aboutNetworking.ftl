@@ -25,13 +25,6 @@ about-networking-messages-received = စာတိုလက်ခံရရှိ�
 about-networking-bytes-sent = ပို့ထားပြီးသော ဘိုက်များ
 about-networking-bytes-received = ရရှိပြီးသော ဘိုက်များ
 about-networking-logging = ခြေရာမှတ်တမ်းများ
-about-networking-log-tutorial = <a data-l10n-name="logging">HTTP ခြေရာမှတ်တမ်း</a> အား ယခု တူးလ်ကို သုံးရန်လေ့လာပါ
-about-networking-current-log-file = လက်ရှိ ခြေရာခံဖိုင် -
-about-networking-current-log-modules = လက်ရှိခြေရာခံနေသော အစိတ်အပိုင်းများ -
-about-networking-set-log-file = ခြေရာခံဖိုင်သတ်မှတ်မည်
-about-networking-set-log-modules = အစိတ်အပိုင်များအား စတင်ခြေရာခံမည်
-about-networking-start-logging = ခြေရာခံခြင်းစပါ
-about-networking-stop-logging = ခြေရာခံခြင်းရပ်ပါ
 about-networking-dns-lookup = DNS ကြည့်
 about-networking-dns-lookup-button = ဖြေရှင်းပါ
 about-networking-dns-domain = ဒိုမိန်း:

@@ -88,6 +88,7 @@ deniedPortAccess-title = ယခုလိပ်စာကို တားမြစ
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = အို့။ ထိုဝဘ်ဆိုက်ကို ရှာမတွေ့ပါ။
+
 fileNotFound-title = ဖိုင် မတွေ့ရပါ
 fileAccessDenied-title = ဖိုင်အသုံးပြုခြင်းကို တားမြစ်ထားသည်
 generic-title = မဆောင်ရွက်နိုင်ခဲ့ပါ

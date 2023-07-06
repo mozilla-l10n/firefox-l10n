@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = လက်ရှိ ခြေရာခံဖိုင် -
-about-logging-current-log-modules = လက်ရှိခြေရာခံနေသော အစိတ်အပိုင်းများ -
 about-logging-log-tutorial = <a data-l10n-name="logging">HTTP ခြေရာမှတ်တမ်း</a> အား ယခု တူးလ်ကို သုံးရန်လေ့လာပါ
 about-logging-set-log-file = ခြေရာခံဖိုင်သတ်မှတ်မည်
 about-logging-set-log-modules = အစိတ်အပိုင်များအား စတင်ခြေရာခံမည်
 about-logging-start-logging = ခြေရာခံခြင်းစပါ
 about-logging-stop-logging = ခြေရာခံခြင်းရပ်ပါ
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

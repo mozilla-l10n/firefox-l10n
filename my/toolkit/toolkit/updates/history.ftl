@@ -22,5 +22,7 @@ state-header = အခြေအနေ
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = အသေးစိတ်များ
+
 update-installed-on = တပ်ဆင်ထားတဲ့ နေရာ - { $date }
+
 update-status = အနေအထား - { $status }

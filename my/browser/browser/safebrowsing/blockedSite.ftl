@@ -9,6 +9,27 @@ safeb-blocked-harmful-page-title = ယခုဝဘ်ဆိုက်တွင်
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> က အကြံပြုထားသည်
 safeb-palm-accept-label = နောက်သို့ သွားရန်
 safeb-palm-see-details-label = အသေးစိတ် ကြည့်ရန်
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
 safeb-palm-notdeceptive =
     .label = အတုအယောင်ဝဘ်ဆိုက် မဟုတ်ပါ…
     .accesskey = d

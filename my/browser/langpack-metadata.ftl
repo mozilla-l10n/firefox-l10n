@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = mozilla.org
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = တင်အောင်လင်း, ဝေဖြိုးဟန်, ရက်ပ်ဆဲကျော်, ကျော်စွာသန့်, လမင်းကို, ကြာဖြူနိုင်

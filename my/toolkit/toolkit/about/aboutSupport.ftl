@@ -87,6 +87,8 @@ sandbox-sys-call-args = Arguments
 
 audio-backend = အသံနောက်ကွယ်
 
+## Codec support table
+
 ##
 
 

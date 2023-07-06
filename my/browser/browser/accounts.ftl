@@ -20,8 +20,10 @@ account-send-to-all-devices-titlecase = ကိရိယာများအား�
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = မည်သည့်ကိရိယာမျှ မချိတ်ဆက်ထားပါ
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = တပ်ဗ်များပေးပို့ခြင်းကို လေ့လာရန်…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = အခြားကိရိယာကို ချိတ်ဆက်ရန်…
 
@@ -42,6 +44,7 @@ account-single-tab-arriving-title = ရရှိထားသော တပ်ဗ�
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } ထံမှ တပ်ဗ်
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -54,6 +57,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = တပ်ဗ်များကို လက်ခံရရှိသည်
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device = တပ်ဗ် { $tabCount } ခုကို { $deviceName } ထံမှ ရရှိသည်

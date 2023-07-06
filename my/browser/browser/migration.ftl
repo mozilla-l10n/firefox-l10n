@@ -118,3 +118,4 @@ browser-data-session-checkbox =
     .label = ၀င်းဒိုးနှင့် တပ်ဗ်များ
 browser-data-session-label =
     .value = ၀င်းဒိုးနှင့် တပ်ဗ်များ
+

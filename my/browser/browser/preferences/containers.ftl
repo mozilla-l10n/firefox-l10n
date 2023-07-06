@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-containers-window-new =
-    .title = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
-    .style = width: 45em
-
 containers-window-new2 =
     .title = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
     .style = min-width: 45em

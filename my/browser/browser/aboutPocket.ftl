@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = သိမ်းရန်
 pocket-panel-saved-saving-tags = သိမ်းဆည်းနေသည်…
 pocket-panel-saved-suggested-tags = အကြံပေးထားသော စာတိုများ
 pocket-panel-saved-tags-saved = စာမှတ်များ ထည့်ပြီး
-pocket-panel-signup-view-list = စာရင်းကို ကြည့်ရန်
 
 ## about:pocket-signup panel
 
@@ -45,7 +44,6 @@ pocket-panel-home-explore-more = ရှာဖွေစူးစမ်းပါ�
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = စာရင်းကို ကြည့်ပါ
 pocket-panel-header-sign-in = ၀င်ပါ
 
 ## Pocket panel buttons

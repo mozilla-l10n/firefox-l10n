@@ -4,6 +4,7 @@
 
 about-reader-loading = ဆောင်ရွက်နေသည်…
 about-reader-load-error = ဆောင်းပါးကို စာမျက်နှာမှ ခေါ်တင်ရာတွင် မအောင်မြင်ပါ
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

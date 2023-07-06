@@ -37,6 +37,17 @@ neterror-load-error-firewall = အကယ်၍ ကွန်ပျူတာ သ�
 
 neterror-captive-portal = အင်တာနက်ကို အသုံးမပြုနိုင်မီ ဒီကွန်ယက်သို့ လက်မှတ်ထိုး ဝင်ရောက်ရပါမည်။
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = အကြီးအသေး မှားရိုက်ခြင်း သို့မဟုတ် အခြား စာလုံးပေါင်းအမှားများ ဖြစ်နိုင်သည့်အတွက် ဖိုင်အမည်ကို စစ်ဆေးပါ။
 neterror-file-not-found-moved = ဖိုင်ကို ရွှေ့ထားခြင်း၊ အမည်ပြောင်းထားခြင်း သို့မဟုတ် ဖျက်ထားခြင်း ရှိ/မရှိ စစ်ဆေးပါ။
 

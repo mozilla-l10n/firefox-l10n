@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = ဖွင့်ပါ
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = တပ်ဗ်အသစ်တစ်ခုတွင် ဖွင့်ပါ
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = ၀င်းဒိုးအသစ်တစ်ခုတွင် ဖွင့်ပါ
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = ဒီတပ်ဗ်ကို မှတ်သားပါ…
-    .accesskey = B
 
 ##
 

@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = လက်မှတ် ဆွဲချနေတယ်
-    .style = width: 46em
-
 download-cert-window2 =
     .title = လက်မှတ် ဆွဲချနေတယ်
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = ကာကွယ်ထားတဲ့ အမှတ်အသား အတည်ပြုမှု
-protected-auth-msg = အမှတ်အသားကို အတည်ပြုပါ။ အတည်ပြုမှု နည်းလမ်းဟာ သင့်ရဲ့ အမှတ်အသား အမျိုးအစားပေါ်မှာ မူတည်တယ်။
-protected-auth-token = အမှတ်အသား -
+## Protected authentication alert
+
