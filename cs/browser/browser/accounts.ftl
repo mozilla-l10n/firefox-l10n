@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Dokončit nastavení účtu
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Účet odpojen
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Poslat do všech zařízení
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Správa zařízení…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Správa zařízení…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Žádná připojená zařízení
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Zjistit více o posílání panelů…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Připojit další zařízení…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Ověřit účet…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Tento počítač je nyní propojený se zařízením { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Tento počítač je nyní propojený s novým zařízením.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Vaše přihlášení bylo úspěšné
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Tento počítač byl odpojen.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Přijaté panely
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Panely z { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Přijaté panely
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

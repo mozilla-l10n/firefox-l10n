@@ -4,6 +4,7 @@
 
 about-reader-loading = Načítání…
 about-reader-load-error = Načtení článku ze stránky selhalo
+
 about-reader-color-scheme-light = Světlé
     .title = Zobrazení ve světlých barvách
 about-reader-color-scheme-dark = Tmavé
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sépiové
     .title = Zobrazení v sépiových barvách
 about-reader-color-scheme-auto = Automaticky
     .title = Automatický barevný vzhled
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -9,6 +9,7 @@ unknowncontenttype-handleinternally =
            *[no-cases] Otevřít v aplikaci { -brand-short-name }
         }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
@@ -23,6 +24,7 @@ unknowncontenttype-settingschange =
                    *[no-cases] Nastavení lze změnit v Předvolbách aplikace { -brand-short-name }.
                 }
         }
+
 unknowncontenttype-intro = Stažení souboru:
 unknowncontenttype-which-is = typ:
 unknowncontenttype-from = zdroj:

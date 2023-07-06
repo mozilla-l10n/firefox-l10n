@@ -25,6 +25,7 @@ refresh-profile-button =
        *[no-cases] Obnovit aplikaci { -brand-short-name }
     }
 refresh-profile-learn-more = Zjistit více
+
 refresh-profile-progress =
     .title =
         { -brand-short-name.case-status ->

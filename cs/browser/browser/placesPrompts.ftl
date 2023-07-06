@@ -4,8 +4,10 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (bez titulku)
+
 # Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
 places-load-js-data-url-error = Z bezpečnostních důvodů nemohou být adresy “javascript:” nebo “data:” načítané z okna historie či postranní lišty.
+
 places-bookmarks-backup-title = Soubor zálohy záložek
 places-bookmarks-restore-alert-title = Obnova záložek
 places-bookmarks-restore-alert = Při obnově budou vaše současné záložky nahrazeny zálohou. Chcete pokračovat?
@@ -13,5 +15,6 @@ places-bookmarks-restore-title = Volba zálohy záložek
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Nepodporovaný typ souboru.
 places-bookmarks-restore-parse-error = Soubor zálohy se nepodařilo zpracovat.
+
 places-bookmarks-import = Importovat soubor záložek
 places-bookmarks-export = Exportovat soubor záložek

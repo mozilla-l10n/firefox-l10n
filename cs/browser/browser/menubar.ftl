@@ -34,6 +34,7 @@ menu-application-touch-bar =
 menu-quit =
     .label = Ukončit
     .accesskey = k
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -41,6 +42,7 @@ menu-quit-mac =
             [with-cases] Ukončit { -brand-shorter-name(case: "acc") }
            *[no-cases] Ukončit aplikaci { -brand-shorter-name }
         }
+
 menu-about =
     .label =
         { -brand-shorter-name.case-status ->
@@ -225,8 +227,6 @@ menu-history-undo-menu =
     .label = Naposledy zavřené panely
 menu-history-undo-window-menu =
     .label = Naposledy zavřená okna
-menu-history-reopen-all-tabs = Znovu otevřít všechny panely
-menu-history-reopen-all-windows = Znovu otevřít všechna okna
 
 ## Bookmarks Menu
 
@@ -235,10 +235,6 @@ menu-bookmarks-menu =
     .accesskey = o
 menu-bookmarks-manage =
     .label = Správa záložek
-menu-bookmark-current-tab =
-    .label = Přidat současný panel do záložek
-menu-bookmark-edit =
-    .label = Upravit záložku
 menu-bookmark-tab =
     .label = Přidat současný panel do záložek…
 menu-edit-bookmark =
