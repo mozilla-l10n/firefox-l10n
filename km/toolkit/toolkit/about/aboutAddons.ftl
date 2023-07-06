@@ -4,8 +4,11 @@
 
 addons-page-title = កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+##
+
 
 list-empty-installed =
     .value = អ្នក​មិន​មាន​កម្មវិធី​បន្ថែម​ប្រភេទ​ណាមួយ​ដែល​ត្រូវ​បាន​ដំឡើង​ទេ
@@ -183,12 +186,14 @@ addon-open-about-debugging = បំបាត់​កំហុស​ផ្នែ
 ## Pending uninstall message bar
 
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
-
 
 ## Page headings
 
@@ -198,6 +203,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

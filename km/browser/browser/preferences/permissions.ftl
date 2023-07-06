@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = ករណី​លើកលែង
-    .style = width: 45em
-
 permissions-window2 =
     .title = ករណី​លើកលែង
     .style = min-width: 45em
@@ -69,10 +65,6 @@ permissions-invalid-uri-label = សូម​បញ្ចូល​ឈ្មោះ
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
     .style = { permissions-window2.style }
@@ -83,10 +75,6 @@ permissions-exceptions-cookie-desc = អ្នក​អាច​បញ្ជា�
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = វេបសាយដែលអនុញ្ញាត - ការលេចឡើង
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = វេបសាយដែលអនុញ្ញាត - ការលេចឡើង
     .style = { permissions-window2.style }
@@ -94,20 +82,12 @@ permissions-exceptions-popup-desc = អ្នក​អាច​បញ្ជា�
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = ការ​លើកលែង - ការ​ចូល​បាន​រក្សាទុក
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = ការ​លើកលែង - ការ​ចូល​បាន​រក្សាទុក
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ការចូលសម្រាប់គេហទំព័រខាងក្រោមនឹងមិនត្រូវបានរក្សាទុកទេ
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = តំបន់បណ្ដាញដែលបានអនុញ្ញាត - ការដំឡើងកម្មវិធីបន្ថែម
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = តំបន់បណ្ដាញដែលបានអនុញ្ញាត - ការដំឡើងកម្មវិធីបន្ថែម
@@ -119,10 +99,6 @@ permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជា�
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = ការកំណត់ - ការអនុញ្ញាតការជូនដំណឹង
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = ការកំណត់ - ការអនុញ្ញាតការជូនដំណឹង
     .style = { permissions-window2.style }
@@ -132,10 +108,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = វា​នឹងរារាំងតំបន់បណ្ដាញ​ទាំងឡាយ​ដែលមិនមានក្នុងបញ្ជីខាងលើនេះមិនឲ្យស្នើសុំការអនុញ្ញាតដើម្បីផ្ញើការជូនដំណឹង។ ការទប់ស្កាត់​ការជូនដំណឹងអាចធ្វើឲ្យ​មុខងារ​របស់​តំបន់បណ្ដាញមួយចំនួនមិនអាចប្រើបាន។
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = ការកំណត់ - ការអនុញ្ញាតទីតាំង
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = ការកំណត់ - ការអនុញ្ញាតទីតាំង
@@ -150,10 +122,6 @@ permissions-site-location-disable-desc = វា​នឹងរារាំងគ
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = ការកំណត់ - ការអនុញ្ញាតកាមេរ៉ា
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = ការកំណត់ - ការអនុញ្ញាតកាមេរ៉ា
     .style = { permissions-window2.style }
@@ -164,10 +132,6 @@ permissions-site-camera-disable-desc = វា​នឹងរារាំងគ�
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = ការកំណត់ - ការអនុញ្ញាតមីក្រូហ្វូន
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = ការកំណត់ - ការអនុញ្ញាតមីក្រូហ្វូន
     .style = { permissions-window2.style }
@@ -175,3 +139,8 @@ permissions-site-microphone-desc = គេហទំព័រ​ខាងក្រ
 permissions-site-microphone-disable-label =
     .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យចូលប្រើមីក្រូហ្វូនរបស់អ្នក
 permissions-site-microphone-disable-desc = វា​នឹងរារាំងគេហទំព័រ​ដែលមិនមានក្នុងបញ្ជីខាងលើនេះមិនឲ្យស្នើសុំការអនុញ្ញាតដើម្បីចូលប្រើប្រាស់​មីក្រូហ្វូន​របស់អ្នក។ ការទប់ស្កាត់ការចូលប្រើប្រាស់​​មីក្រូហ្វូន​​របស់អ្នកអាចធ្វើឲ្យ​មុខងារ​​របស់​គេហទំព័រ​មួយចំនួនមិនអាចប្រើប្រាស់​បាន។
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

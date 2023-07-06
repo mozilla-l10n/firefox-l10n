@@ -18,6 +18,8 @@ onboarding-not-now-button-label = កុំទាន់
 
 return-to-amo-add-extension-label = បញ្ចូលផ្នែកបន្ថែម
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 
@@ -34,15 +36,10 @@ return-to-amo-add-extension-label = បញ្ចូលផ្នែកបន្�
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-welcome-header = សូម​ស្វាគមន៍​មក​កាន់ { -brand-short-name }
-
-mr1-onboarding-set-default-secondary-button-label = កុំទាន់
 mr1-onboarding-sign-in-button-label = ចូល
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
-
-mr1-onboarding-default-primary-button-label = កំណត់​ជាកម្មវិធី​រុករកតាមអ៊ីនធឺណិត​លំនាំ​ដើម
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -50,10 +47,6 @@ mr1-onboarding-default-primary-button-label = កំណត់​ជាកម្�
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = នាំចូលពី { $previous }
-
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = នាំចូលពីកម្មវិធីរុករកតាមអ៊ីនធឺណិត​មុន
-mr1-onboarding-import-secondary-button-label = កុំទាន់
 
 mr1-onboarding-theme-label-dark = ងងឹត
 
@@ -90,6 +83,8 @@ onboarding-live-language-header = ជ្រើសរើសភាសារបស�
 ## Firefox 100 Thank You screens
 
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 
@@ -124,4 +119,11 @@ onboarding-live-language-header = ជ្រើសរើសភាសារបស�
 
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

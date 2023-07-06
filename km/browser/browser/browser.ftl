@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (ការរកមើលជា​ឯកជន)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (ការរកមើលជា​ឯកជន)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (ការរកមើលជា​ឯកជន)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (ការរកមើលជា​ឯកជន)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,16 +36,12 @@ urlbar-default-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង​សារ
 urlbar-geolocation-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង​ស្នើ​ទីតាំង
-urlbar-translate-notification-anchor =
-    .tooltiptext = បកប្រែ​ទំព័រ​នេះ
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = គ្រប់គ្រង​ការ​ចែករំលែក​វីនដូ ឬ​អេក្រង់​របស់​អ្នក​ជាមួយ​ទំព័រ​បណ្ដាញ
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង​សារ​ទំហំ​ផ្ទុក​គ្មាន​អ៊ីនធឺណិត
 urlbar-password-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង​សារ​រក្សាទុក​ពាក្យ​សម្ងាត់
-urlbar-translated-notification-anchor =
-    .tooltiptext = គ្រប់គ្រង​ការ​បកប្រែ​ទំព័រ
 urlbar-plugins-notification-anchor =
     .tooltiptext = គ្រប់គ្រង​ការ​ប្រើប្រាស់​ផ្នែក​បន្ថែម
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -122,19 +85,18 @@ urlbar-canvas-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ការដកទិន្នន័យ​កម្មវិធីកែ​រូបភាព​សម្រាប់​គេហទំព័រ​នេះ។
 urlbar-midi-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់ការចូលប្រើ MIDI សម្រាប់​គេហទំព័រ​នេះ។
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = កែសម្រួល​ចំណាំ​នេះ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ចំណាំ​ទំព័រ​នេះ ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = គ្រប់គ្រងផ្នែកបន្ថែម…
 
 ## Auto-hide Context Menu
 
@@ -149,12 +111,14 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក
+
 search-one-offs-context-open-new-tab =
     .label = ស្វែងរក​នៅ​ក្នុង​ផ្ទាំង​ថ្មី
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = កំណត់​ជា​ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -186,6 +150,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = បង្ហាញកម្មវិធីកែសម្រួលនៅពេលកំពុងរក្សាទុក
     .accesskey = ប
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -202,6 +167,7 @@ identity-passive-loaded = ផ្នែក​ខ្លះ​នៃ​ទំព័
 identity-active-loaded = អ្នក​បាន​បិទ​ការ​ការពារ​នៅ​លើ​ទំព័រ​នេះ។
 identity-weak-encryption = ទំព័រ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ។
 identity-insecure-login-forms = ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​
+
 identity-permissions-reload-hint = អ្នក​ប្រហែល​ត្រូវ​ផ្ទុក​ទំព័រ​ឡើងវិញ​ ដើម្បី​ឲ្យ​ការ​ផ្លាស់ប្ដូរអនុវត្ត។
 identity-clear-site-data =
     .label = សម្អាតខូឃី និងទិន្នន័យគេហទំព័រ…
@@ -212,17 +178,12 @@ identity-description-insecure = ការ​តភ្ជាប់​របស់
 identity-description-insecure-login-forms = ព័ត៌មាន​ចូល​ដែល​អ្នក​​ចូល​នៅ​លើ​ទំព័រ​នេះ​មិន​មាន​សុវត្ថិភាព ហើយ​អាច​ត្រូវ​​បាន​​ធ្វើ​​ឲ្យ​រំខាន។
 identity-description-weak-cipher-intro = ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​កាន់​វិបសាយ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ និង​មិន​មែន​ជា​ឯកជន។
 identity-description-weak-cipher-risk = អ្នក​ផ្សេង​ទៀត​​អាច​មើល​ព័ត៌មាន​​របស់​អ្នក ឬ​កែប្រែ​​​ការ​ប្រព្រឹត្តិ​របស់​វេបសាយ​បាន។
-identity-description-active-blocked = { -brand-short-name } បាន​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
 identity-description-active-blocked2 = { -brand-short-name } បាន​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។
 identity-description-passive-loaded = ការ​តភ្ជាប់​របស់​អ្នក​​មិន​មែន​ជា​ឯកជន​ទេ ហើយអ្នក​ផ្សេង​ក៏​អាច​មើល​ឃើញ​​ព័ត៌មាន​ដែល​អ្នក​ចែករំលែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ​ដែរ។
-identity-description-passive-loaded-insecure = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
-identity-description-passive-loaded-mixed = ទោះបីជា { -brand-short-name } បាន​បិទ​​មាតិកា​ខ្លះ នៅតែ​មាន​​មាតិកា​នៅ​លើ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
 identity-description-passive-loaded-insecure2 = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។
 identity-description-passive-loaded-mixed2 = ទោះបីជា { -brand-short-name } បាន​បិទ​​មាតិកា​ខ្លះ នៅតែ​មាន​​មាតិកា​នៅ​លើ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។
 identity-description-active-loaded = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​ស្គ្រីប) ហើយ​ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​​វា​គឺ​មិន​មែន​ជា​ឯកជន​ទេ។
 identity-description-active-loaded-insecure = ព័ត៌មាន​ដែល​អ្នក​ចែករំលែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ​ អ្នក​ផ្សេង​អាច​មើល​ឃើញ​ដែរ (ដូចជា​ពាក្យ​សម្ងាត់ សារ ប័ណ្ណ​ឥណទាន។ល។)។
-identity-learn-more =
-    .value = ស្វែងយល់​បន្ថែម
 identity-disable-mixed-content-blocking =
     .label = បិទ​ការ​ការពារ​ឥឡូវ
     .accesskey = D
@@ -264,15 +225,19 @@ popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដ�
 
 urlbar-placeholder =
     .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ស្វែងរកជាមួយ { $name } ឬបញ្ចូលអាសយដ្ឋាន
+
 urlbar-switch-to-tab =
     .value = ប្ដូរ​ទៅ​ផ្ទាំង៖
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ផ្នែក​បន្ថែម៖
+
 urlbar-go-button =
     .tooltiptext = ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង
 urlbar-page-action-button =
@@ -318,9 +283,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ឥឡូវ​ពេញ​អេក្រង់
 fullscreen-warning-no-domain = ឥឡូវ​ឯកសារ​នេះ​​ពេញ​អេក្រង់
+
+
 fullscreen-exit-button = បិទ​ពេញ​អេក្រង់ (គេច)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = បិទ​ពេញ​អេក្រង់ (គេច)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -372,8 +340,7 @@ bookmarks-search =
     .label = ស្វែងរក​ចំណាំ
 bookmarks-tools =
     .label = ​ឧបករណ៍​ចំណាំ
-bookmarks-bookmark-edit-panel =
-    .label = កែ​សម្រួល​ចំណាំ​នេះ
+
 bookmarks-toolbar-menu =
     .label = របារ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-placeholder =
@@ -397,22 +364,27 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង...
     .accesskey = C
+
 toolbar-button-email-link =
     .label = តំណ​អ៊ីមែល
     .tooltiptext = អ៊ីមែល​ភ្ជាប់​ទៅ​ទំព័រ​នេះ
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = រក្សាទុក​ទំព័រ
     .tooltiptext = រក្សាទុក​ទំព័រ​នេះ ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = បើក​ឯកសារ
     .tooltiptext = បើក​ឯកសារ ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម
     .tooltiptext = បង្ហាញ​ផ្ទាំង​ពី​ឧបករណ៍​ដទៃ​ទៀត
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -440,6 +412,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = អនុញ្ញាត​​​លេច​ឡើង​សម្រាប់ { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = ទប់ស្កាត់​​ការ​​លេចឡើង​សម្រាប់ { $uriHost }
     .accesskey = p
@@ -461,30 +434,36 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ទាញ​យក
+
 navbar-overflow =
     .tooltiptext = ឧបករណ៍ច្រើនទៀត…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = បោះពុម្ព
     .tooltiptext = បោះពុម្ព​ទំព័រ​នេះ… ({ $shortcut })
+
 navbar-home =
     .label = ដើម
     .tooltiptext = ទំព័រ​ដើម { -brand-short-name }
+
 navbar-library =
     .label = បណ្ណាល័យ
     .tooltiptext = មើលប្រវត្តិ ចំណាំដែលបានរក្សាទុក និងច្រើនទៀត
+
 navbar-search =
     .title = ស្វែងរក
-navbar-accessibility-indicator =
-    .tooltiptext = បានបើក​មុខងារ​ភាពងាយស្រួលចូលប្រើ
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ផ្ទាំង​កម្មវិធី​អ៊ីនធឺណិត
+
 tabs-toolbar-new-tab =
     .label = ផ្ទាំង​ថ្មី
+
 tabs-toolbar-list-all-tabs =
     .label = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
     .tooltiptext = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
@@ -506,10 +485,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ទំព័រ​នេះ​ផ្ទុក​ឡើង​វិញ​ដោយ​ស្វ័យប្រវត្តិ។
 refresh-blocked-redirect-label = { -brand-short-name } បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ប្ដូរ​ទិស​ទៅ​ទំព័រ​មួយ​ទៀត​ដោយ​ស្វ័យ​ប្រវត្តិ។
+
 refresh-blocked-allow =
     .label = អនុញ្ញាត
     .accesskey = A
@@ -541,6 +524,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

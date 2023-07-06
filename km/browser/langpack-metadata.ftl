@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = ខ្មែរ (km)
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Eng Vannak, Khoem Sokhem, Seng Sutha, Sok Sophea, Morn Met, Chank Sambathratanak
