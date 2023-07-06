@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Keresés
 config-new-pref-name =
     .placeholder = Név
+
 config-new-pref-value-boolean = Logikai érték
 config-new-pref-value-string = Karakterlánc
 config-new-pref-value-integer = Egész szám
+
 config-new-pref-string =
     .placeholder = Írjon be szöveget
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Mégse
 config-new-pref-create-button = Létrehozás
 config-new-pref-change-button = Változtatás
+
 config-pref-toggle-button = Ki/be
 config-pref-reset-button = Alaphelyzet
+
 config-context-menu-copy-pref-name =
     .label = Név másolása
 config-context-menu-copy-pref-value =

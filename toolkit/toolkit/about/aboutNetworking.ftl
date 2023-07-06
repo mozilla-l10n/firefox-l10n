@@ -34,15 +34,6 @@ about-networking-messages-received = Fogadott üzenetek
 about-networking-bytes-sent = Küldött bájtok
 about-networking-bytes-received = Fogadott bájtok
 about-networking-logging = Naplózás
-about-networking-log-tutorial =
-    Az eszköz használatáról lásd a
-    <a data-l10n-name="logging">HTTP Logging</a> leírást.
-about-networking-current-log-file = Jelenlegi naplófájl:
-about-networking-current-log-modules = Jelenlegi naplómodulok:
-about-networking-set-log-file = Naplófájl beállítása
-about-networking-set-log-modules = Naplómodulok beállítása
-about-networking-start-logging = Naplózás elkezdése
-about-networking-stop-logging = Naplózás leállítása
 about-networking-dns-lookup = DNS kikeresés
 about-networking-dns-lookup-button = Feloldás
 about-networking-dns-domain = Tartomány:

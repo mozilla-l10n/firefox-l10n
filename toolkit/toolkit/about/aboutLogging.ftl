@@ -46,6 +46,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Naplómodulok a WebRTC hívások diagnosztizálásához
 about-logging-preset-custom-label = Egyéni
 about-logging-preset-custom-description = Kézzel kiválasztott naplómodulok
+
 # Error handling
 about-logging-error = Hiba:
 
@@ -59,4 +60,5 @@ about-logging-unknown-profiler-preset = Ismeretlen „{ $v }” profil-előbeál
 about-logging-unknown-option = Ismeretlen „{ $k }” about:logging kapcsoló
 about-logging-configuration-url-ignored = Konfigurációs webcím figyelmen kívül hagyva
 about-logging-file-and-profiler-override = Nem lehet egyszerre kényszeríteni a fájlkimenetet és felülbírálni a profilozó beállításait
+
 about-logging-configured-via-url = Webcím alapján beállított kapcsoló

@@ -5,20 +5,13 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = A Glean névjegye
-about-glean-description = A <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> egy a Mozilla termékeiben használt adatgyűjtő programkönyvtár. Ez a lap azoknak a fejlesztőknek és tesztelőknek szól, akiknek <a data-l10n-name="fog-debug-doc-link">hibakeresési és naplózási állapotot kell beállítaniuk a Glean SDK-ban</a>.
-about-glean-warning = Az interfész nem megfelelő használata a { -brand-short-name } összeomlását okozhatja.
-tag-pings-label = Az összes elküldött ping címkézése ezzel a címkével
-log-pings-label = Naplózza a ping tartalmát küldés előtt?
-send-pings-label = A nevesített ping elküldése
-controls-button-label = Beállítások elküldése
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = A { -glean-brand-name } hibakeresési ping megjelenítő
+
 about-glean-page-title2 = A { -glean-brand-name } névjegye
 about-glean-header = A { -glean-brand-name } névjegye
 about-glean-interface-description =
@@ -26,6 +19,7 @@ about-glean-interface-description =
     egy a { -vendor-short-name } projekjeiben használt adatgyűjtő programkönyvtár.
     Ez a felület arra lett tervezve, hogy a fejlesztők és tesztelők kézileg
     <a data-l10n-name="fog-link">teszteljék a mérőeszközöket</a>.
+
 about-glean-upload-enabled = Az adatfeltöltés engedélyezett.
 about-glean-upload-disabled = Az adatfeltöltés le van tiltva.
 about-glean-upload-enabled-local = Az adatfeltöltés csak helyi kiszolgálóra történő küldés esetén engedélyezett.
@@ -35,6 +29,7 @@ about-glean-upload-fake-enabled =
     hogy az adatok továbbra is rögzítve legyenek helyben.
     Megjegyzés: Ha beállít egy hibakeresési címkét, akkor a pingek a beállításoktól függetlenül feltöltődnek a
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> szolgáltatásba.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = A releváns <a data-l10n-name="fog-prefs-and-defines-doc-link">beállítások és definíciók</a> a következők:
 # Variables:
@@ -53,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Tudnivalók a tesztelésről
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -60,6 +56,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } műszertesztelési dokumentációjában</a>
     és a <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentációjában</a> találhatók,
     de röviden ezeket kell tennie az mérőeszközök kézi teszteléséhez:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (egyáltalán ne küldjön pinget)
 # An in-line text input field precedes this string.
@@ -88,6 +85,7 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Keresse fel a { glean-debug-ping-viewer-brand-name } oldalt a címkézett pingekért</a>.
     A gomb megnyomása és a ping megérkezése között néhány másodpercnyi időnek kellene eltelnie.
     Néha ez néhány percet is igénybe vehet.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     További <i>ad hoc</i> teszteléshez,
@@ -95,7 +93,10 @@ about-glean-adhoc-explanation =
     a fejlesztői konzol megnyitásával itt az <code>about:glean</code> oldalon
     és a <code>testGetValue()</code> API használatával, például:
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
+
 about-glean-about-data-header = Információk az adatokról
 about-glean-about-data-explanation =
     Az összegyűjtött adatok tallózásához tekintse meg a

@@ -131,12 +131,6 @@ about-telemetry-category-header = kategória
 about-telemetry-method-header = metódus
 about-telemetry-object-header = objektum
 about-telemetry-extra-header = extra
-about-telemetry-origin-section = Eredettel kapcsolatos telemetria
-about-telemetry-origin-origin = eredet
-about-telemetry-origin-count = darabszám
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = A <a data-l10n-name="origin-doc-link">Firefox eredettel kapcsolatos telemetria</a> kódolja az adatokat az elküldés előtt, így a { $telemetryServerOwner } csak összeszámolhat dolgokat, de nem tudja, hogy pontosan mely { -brand-product-name } járult hozzá ahhoz a számhoz. (<a data-l10n-name="prio-blog-link">további információk</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } folyamat

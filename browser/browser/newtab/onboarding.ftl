@@ -14,13 +14,6 @@ onboarding-welcome-header = Üdvözli a { -brand-short-name }
 onboarding-start-browsing-button-label = Böngészés megkezdése
 onboarding-not-now-button-label = Most nem
 mr1-onboarding-get-started-primary-button-label = Kezdő lépések
-mr1-onboarding-welcome-header = Üdvözli a { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = A { -brand-short-name } elsődleges böngészővé tétele
-    .title = Beállítja elsődleges böngészőként a { -brand-short-name(case: "accusative") }, és kitűzi a tálcára
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = A { -brand-short-name } alapértelmezett böngészővé tétele
-mr1-onboarding-set-default-secondary-button-label = Most nem
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,48 +38,16 @@ mr1-return-to-amo-add-extension-label = { $addon-name } hozzáadása
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Első lépések: { $current }. képernyő / { $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = A tűz itt kezdődik
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio – Bútortevező, Firefox rajongó
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = Haladás: { $current }. / { $total } lépés
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animációk kikapcsolása
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] A könnyű hozzáférés érdekében tartsa a { -brand-short-name(case: "accusative") } a Dokkon
-       *[other] A könnyű hozzáférés érdekében rögzítse a { -brand-short-name(case: "accusative") } a tálcára
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Dokkban tartás
-       *[other] Rögzítés a tálcára
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -96,44 +57,25 @@ mr1-onboarding-sign-in-button-label = Bejelentkezés
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = A { -brand-short-name } alapértelmezetté tétele
-mr1-onboarding-default-subtitle = Tegye robotpilótára a sebességet, a biztonságot és az adatvédelmet
-mr1-onboarding-default-primary-button-label = Alapértelmezett böngészővé tétel
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Hozzon mindent magával
-mr1-onboarding-import-subtitle = Importálja jelszavait, <br/>könyvjelzőit és még sok mást.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importálás innen: { $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Importálás az előző böngészőből
-mr1-onboarding-import-secondary-button-label = Most nem
-mr2-onboarding-colorway-header = Az élet színesben
-mr2-onboarding-colorway-subtitle = Élénk új színvilágok. Korlátozott ideig elérhető.
-mr2-onboarding-colorway-primary-button-label = Színvilág mentése
-mr2-onboarding-colorway-secondary-button-label = Most nem
-mr2-onboarding-colorway-label-soft = Puha
-mr2-onboarding-colorway-label-balanced = Kiegyensúlyozott
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Élénk
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Automatikus
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Alapértelmezett
+
 mr1-onboarding-theme-header = Tegye a sajátjává
 mr1-onboarding-theme-subtitle = A { -brand-short-name } személyre szabása egy témával.
-mr1-onboarding-theme-primary-button-label = Téma mentése
 mr1-onboarding-theme-secondary-button-label = Most nem
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Rendszertéma
+
 mr1-onboarding-theme-label-light = Világos
 mr1-onboarding-theme-label-dark = Sötét
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpesi fény
+
 onboarding-theme-primary-button-label = Kész
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -146,61 +88,49 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Az operációs rendszer témájának követése
         a gomboknál, menüknél és ablakoknál.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Az operációs rendszer témájának követése
         a gomboknál, menüknél és ablakoknál.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Világos téma használata a gombokhoz,
         menükhöz és ablakokhoz.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Világos téma használata a gombokhoz,
         menükhöz és ablakokhoz.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Sötét téma használata a gombokhoz,
         menükhöz és ablakokhoz.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Sötét téma használata a gombokhoz,
         menükhöz és ablakokhoz.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Dinamikus, színes téma használata a
         gombokhoz, menükhöz és ablakokhoz.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Dinamikus, színes téma használata a
         gombokhoz, menükhöz és ablakokhoz.
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Ezen színvilág használata.
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Ezen színvilág használata.
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Fedezze fel a(z) { $colorwayName } színvilágokat.
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Fedezze fel a(z) { $colorwayName } színvilágokat.
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Fedezze fel az alapértelmezett témákat.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Fedezze fel az alapértelmezett témákat.
 
@@ -228,13 +158,18 @@ mr2-onboarding-start-browsing-button-label = Böngészés megkezdése
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Válassza ki a nyelvét
+
 mr2022-onboarding-live-language-text = A { -brand-short-name } az Ön nyelvét beszéli
+
 mr2022-language-mismatch-subtitle = Közösségünknek köszönhetően a { -brand-short-name } több mint 90 nyelvre le van fordítva. Úgy tűnik, hogy a rendszer a(z) { $systemLanguage } nyelvet használja, a { -brand-short-name } pedig a(z) { $appLanguage } nyelvet.
+
 onboarding-live-language-button-label-downloading = A(z) { $negotiatedLanguage } nyelvi csomag letöltése…
 onboarding-live-language-waiting-button = Elérhető nyelvek lekérése…
 onboarding-live-language-installing = A(z) { $negotiatedLanguage } nyelvi csomag telepítése…
+
 mr2022-onboarding-live-language-switch-to = Váltás erre: { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Folytatás { $appLanguage } nyelven
+
 onboarding-live-language-secondary-cancel-download = Mégse
 onboarding-live-language-skip-button-label = Kihagyás
 
@@ -256,12 +191,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] A { -brand-short-name } a Dokkban tartása
        *[other] A { -brand-short-name } rögzítése a tálcára
     }
+
 fx100-upgrade-thanks-header = 100 köszönet
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Ez a { -brand-short-name } 100. kiadása. Köszönjük <em>Önnek</em>, hogy segít nekünk egy jobb, egészségesebb internet felépítésében.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ez a 100. kiadásunk! Köszönjük, hogy segít a közösségünk tagja. Tartsa egy kattintásnyira a { -brand-short-name(case: "accusative") } a következő 100-hoz.
+
 mr2022-onboarding-secondary-skip-button-label = Lépés kihagyása
 
 ## MR2022 New User Easy Setup screen strings
@@ -338,30 +275,37 @@ mr2022-onboarding-colorway-title = Válassza ki azt a színt, amelyik inspirálj
 mr2022-onboarding-colorway-subtitle = A független hangok megváltoztathatják a kultúrát.
 mr2022-onboarding-colorway-primary-button-label-continue = Beállítás és folytatás
 mr2022-onboarding-existing-colorway-checkbox-label = Legyen a { -firefox-home-brand-name } a színes kezdőlapja
+
 mr2022-onboarding-colorway-label-default = Alapértelmezett
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = A { -brand-short-name } jelenlegi színei
 mr2022-onboarding-colorway-description-default = <b>A { -brand-short-name } jelenlegi színeinek használata.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Játékmester
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Játékmester (piros)
 mr2022-onboarding-colorway-description-playmaker = <b>Ön a játékmester.</b> Lehetőségeket teremt a győzelemre, és segít feldobni a többiek játékát.
+
 mr2022-onboarding-colorway-label-expressionist = Expresszionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expresszionista (sárga)
 mr2022-onboarding-colorway-description-expressionist = <b>Ön egy expresszionista.</b> Másképp látja a világot, és alkotásai felkavarják mások érzelmeit.
+
 mr2022-onboarding-colorway-label-visionary = Látnok
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Látnok (zöld)
 mr2022-onboarding-colorway-description-visionary = <b>Ön egy látnok.</b> Megkérdőjelezi a status quót, és arra késztet másokat, hogy képzeljenek el egy jobb jövőt.
+
 mr2022-onboarding-colorway-label-activist = Aktivista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivista (kék)
 mr2022-onboarding-colorway-description-activist = <b>Ön egy aktivista.</b> Jobb állapotban hagyja a világot, mint ahogyan találta, és arra vezet másokat is, hogy higgyenek.
+
 mr2022-onboarding-colorway-label-dreamer = Álmodozó
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Álmodozó (lila)
 mr2022-onboarding-colorway-description-dreamer = <b>Ön egy álmodozó.</b> Úgy hiszi, hogy bátraké a szerencse, és másokat is bátorságra ösztönöz.
+
 mr2022-onboarding-colorway-label-innovator = Újító
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovátor (narancs)

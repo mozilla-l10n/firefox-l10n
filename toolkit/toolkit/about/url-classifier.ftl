@@ -44,6 +44,7 @@ url-classifier-debug-sb-modules = Biztonságos böngészés naplómodulok
 url-classifier-debug-modules = Jelenlegi naplómodulok
 url-classifier-debug-sbjs-modules = Biztonságos böngészés JS napló
 url-classifier-debug-file = Jelenlegi naplófájl
+
 url-classifier-trigger-update = Frissítés aktiválása
 url-classifier-not-available = Nincs
 url-classifier-disable-sbjs-log = Biztonságos böngészés JS napló kikapcsolása

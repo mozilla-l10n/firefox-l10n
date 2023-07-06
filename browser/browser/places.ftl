@@ -23,8 +23,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Megnyitás új privát ablakban
     .accesskey = p
+
 places-empty-bookmarks-folder =
     .label = (Üres)
+
 places-add-bookmark =
     .label = Könyvjelzők hozzáadása…
     .accesskey = K
@@ -37,6 +39,7 @@ places-add-folder =
 places-add-separator =
     .label = Elválasztó hozzáadása
     .accesskey = E
+
 places-view =
     .label = Megjelenítés
     .accesskey = M
@@ -55,12 +58,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Dátum és kiszolgáló szerint
     .accesskey = m
+
 places-history-search =
     .placeholder = Előzmények keresése
 places-history =
     .aria-label = Előzmények
 places-bookmarks-search =
     .placeholder = Könyvjelzők keresése
+
 places-delete-domain-data =
     .label = Webhely elfelejtése
     .accesskey = W
@@ -94,18 +99,22 @@ places-delete-page =
            *[other] Lapok törlése
         }
     .accesskey = t
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Menedzsel könyvjelzők
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Almappa
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Más könyvjelzők
+
 places-show-in-folder =
     .label = Megjelenítés mappában
     .accesskey = M
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -116,6 +125,7 @@ places-delete-bookmark =
            *[other] Könyvjelzők törlése
         }
     .accesskey = t
+
 # Variables:
 #   $count (number) - The number of bookmarks being added.
 places-create-bookmark =
@@ -125,98 +135,125 @@ places-create-bookmark =
            *[other] Lapok könyvjelzőzése…
         }
     .accesskey = k
+
 places-untag-bookmark =
     .label = Címke eltávolítása
     .accesskey = t
+
 places-manage-bookmarks =
     .label = Könyvjelzők kezelése
     .accesskey = K
+
 places-forget-about-this-site-confirmation-title = Webhely elfelejtése
-# Variables:
-# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-message = Ez a művelet eltávolítja a(z) { $hostOrBaseDomain } domainhez kapcsolódó összes adatot, beleértve az előzményeket, a jelszavakat, a sütiket, a gyorsítótárat és a tartalmi beállításokat. Biztos, hogy folytatja?
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = Ez a művelet eltávolítja a(z) { $hostOrBaseDomain } domainhez kapcsolódó összes adatot, beleértve az előzményeket, a sütiket, a gyorsítótárat és a tartalmi beállításokat. A kapcsolódó könyvjelzők és jelszavak nem lesznek eltávolítva. Biztos, hogy folytatja?
+
 places-forget-about-this-site-forget = Elfelejtés
-places-library =
-    .title = Könyvtár
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = Könyvtár
+
 places-organize-button =
     .label = Rendszerezés
     .tooltiptext = Könyvjelzők rendszerezése
     .accesskey = R
+
 places-organize-button-mac =
     .label = Rendszerezés
     .tooltiptext = Könyvjelzők rendszerezése
+
 places-file-close =
     .label = Bezárás
     .accesskey = B
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = Nézetek
     .tooltiptext = A nézet megváltoztatása
     .accesskey = N
+
 places-view-button-mac =
     .label = Nézetek
     .tooltiptext = A nézet megváltoztatása
+
 places-view-menu-columns =
     .label = Oszlopok megjelenítése
     .accesskey = O
+
 places-view-menu-sort =
     .label = Rendezés
     .accesskey = R
+
 places-view-sort-unsorted =
     .label = Rendezetlen
     .accesskey = R
+
 places-view-sort-ascending =
     .label = A > Z
     .accesskey = A
+
 places-view-sort-descending =
     .label = Z > A
     .accesskey = Z
+
 places-maintenance-button =
     .label = Importálás és mentés
     .tooltiptext = Könyvjelzők importálása és biztonsági mentése
     .accesskey = I
+
 places-maintenance-button-mac =
     .label = Importálás és mentés
     .tooltiptext = Könyvjelzők importálása és biztonsági mentése
+
 places-cmd-backup =
     .label = Mentés…
     .accesskey = M
+
 places-cmd-restore =
     .label = Visszaállítás
     .accesskey = V
+
 places-cmd-restore-from-file =
     .label = Tallózás…
     .accesskey = T
+
 places-import-bookmarks-from-html =
     .label = Könyvjelzők importálása HTML-ből…
     .accesskey = i
+
 places-export-bookmarks-to-html =
     .label = Könyvjelzők exportálása HTML-be…
     .accesskey = e
+
 places-import-other-browser =
     .label = Adatok importálása másik böngészőből…
     .accesskey = A
+
 places-view-sort-col-name =
     .label = Név
+
 places-view-sort-col-tags =
     .label = Címkék
+
 places-view-sort-col-url =
     .label = Hely
+
 places-view-sort-col-most-recent-visit =
     .label = Legutóbbi látogatás
+
 places-view-sort-col-visit-count =
     .label = Látogatások száma
+
 places-view-sort-col-date-added =
     .label = Hozzáadva
+
 places-view-sort-col-last-modified =
     .label = Utoljára módosítva
+
 places-view-sortby-name =
     .label = Rendezés név szerint
     .accesskey = n
@@ -238,13 +275,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = Rendezés címkék szerint
     .accesskey = c
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = Ugrás vissza
+
 places-forward-button =
     .tooltiptext = Ugrás előre
+
 places-details-pane-select-an-item-description = Jelöljön ki egy elemet megtekintésre, és szerkessze tulajdonságait
+
 places-details-pane-no-items =
     .value = 0 elem
 # Variables:
