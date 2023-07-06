@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -73,16 +40,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = ଭର୍ଚୁଆଲ୍ ରିଅଲିଟି ଅନୁମତି ପ୍ୟାନେଲ୍ ଖୋଲନ୍ତୁ
 urlbar-storage-access-anchor =
     .tooltiptext = ବ୍ରାଉଜିଂ ଗତିବିଧି ଅନୁମତି ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
-urlbar-translate-notification-anchor =
-    .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ଅନୁବାଦ କରନ୍ତୁ
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = ସାଇଟ ସହିତ ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ କିମ୍ବା ପରଦା ବାଣ୍ଟିବା ପରିଚାଳନ କରନ୍ତୁ
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = ଅଫଲାଇନ ଷ୍ଟୋରେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
 urlbar-password-notification-anchor =
     .tooltiptext = ପାସୱାର୍ଡ଼ ସଂରକ୍ଷଣ ମେସେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
-urlbar-translated-notification-anchor =
-    .tooltiptext = ପୃଷ୍ଠା ଅନୁବାଦ ପରିଚାଳନ କରନ୍ତୁ
 urlbar-plugins-notification-anchor =
     .tooltiptext = ପ୍ଲଗଇନଗୁଡ଼ିକର ବ୍ୟବହାର ପରିଚାଳନା କରନ୍ତୁ…
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -133,19 +96,18 @@ urlbar-popup-blocked =
     .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ପପ୍-ଅପ୍ ଗୁଡିକୁ ଅବରୋଧ କରିଛନ୍ତି
 urlbar-autoplay-media-blocked =
     .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ଧ୍ୱନି ସହିତ ଅଟୋପ୍ଲେ ମିଡିଆକୁ ଅବରୋଧ କରିଛନ୍ତି
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ  ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = ଏକଷ୍ଟେନ୍ସନ ପରିଚାଳନା
 
 ## Auto-hide Context Menu
 
@@ -161,8 +123,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ଏବେ, ଖୋଜନ୍ତୁ ସହିତ:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ସନ୍ଧାନ ସେଟିଙ୍ଗ ବଦଳାନ୍ତୁ
+
 search-one-offs-context-open-new-tab =
     .label = ନୂତନ ଟ୍ୟାବରେ ଖୋଜନ୍ତୁ
     .accesskey = ଟି
@@ -172,6 +136,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ଗୋପନୀୟ ୱିଣ୍ଡୋଜ ପାଇଁ ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ କରି ରଖନ୍ତୁ
     .accesskey = ପି
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -199,9 +164,9 @@ identity-https-only-dropdown-on =
     .label = ଚାଲୁ
 identity-https-only-dropdown-off =
     .label = ବନ୍ଦ
+
 identity-permissions-storage-access-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
-identity-learn-more =
-    .value = ଅଧିକ ଜାଣନ୍ତୁ
+
 identity-disable-mixed-content-blocking =
     .label = ବର୍ତ୍ତମାନ ପାଇଁ ସୁରକ୍ଷାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ
     .accesskey = D
@@ -246,8 +211,10 @@ popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟ
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ଠିକଣା ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ଭରଣ କରନ୍ତୁ
+
 urlbar-switch-to-tab =
     .value = ଟ୍ୟାବକୁ ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ:
+
 urlbar-go-button =
     .tooltiptext = ଅବସ୍ଥିତି ପଟିରେ ଥିବା ଠିକଣାକୁ ଯାଆନ୍ତୁ
 
@@ -281,8 +248,6 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 
 ## Subframe crash notification
 
-crashed-subframe-learnmore-link =
-    .value = ଅଧିକ ଜାଣନ୍ତୁ
 
 ## Bookmarks panels, menus and toolbar
 
@@ -298,8 +263,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
 bookmarks-toolbar-menu =
     .label = ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
 bookmarks-toolbar-placeholder =
@@ -323,16 +286,19 @@ library-recent-activity-title =
 toolbar-button-email-link =
     .label = ଇମେଲ ଲିଙ୍କ
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ଗୋଟିଏ ଲିଙ୍କ ମେଲ କରନ୍ତୁ
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = ପୃଷ୍ଠା ସଂରକ୍ଷଣ କରନ୍ତୁ
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ  ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ଫାଇଲ ଖୋଲନ୍ତୁ
     .tooltiptext = ଫାଇଲ ଖୋଲନ୍ତୁ  ({ $shortcut })
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -360,6 +326,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } ପାଇଁ ପପ୍-ଅପ୍ କୁ ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } ପାଇଁ ପପ୍-ଅପ୍ କୁ ଅଟକାନ୍ତୁ
     .accesskey = p
@@ -381,22 +348,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ
+
 navbar-overflow =
     .tooltiptext = ଅଧିକ ସାଧନଗୁଡ଼ିକ…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = ମୁଦ୍ରଣ କରନ୍ତୁ
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ମୁଦ୍ରଣ କରନ୍ତୁ… ({ $shortcut })
-navbar-accessibility-indicator =
-    .tooltiptext = ଅଭିଗମ୍ୟତା ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକ ସକ୍ଷମ ହୋଇଛି
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ବ୍ରାଉଜର ଟ୍ୟାବଗୁଡ଼ିକ
+
 tabs-toolbar-new-tab =
     .label = ନୂତନ ଟ୍ୟାବ
+
 tabs-toolbar-list-all-tabs =
     .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
     .tooltiptext = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
@@ -418,6 +388,9 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପୁନର୍ଧାରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
@@ -432,6 +405,8 @@ refresh-blocked-redirect-label = { -brand-short-name } ଏହି ପୃଷ୍ଠ
 ## Pop-up Notification
 
 
+## Add-on Pop-up Notifications
+
 ## Pop-up warning
 
 # Variables:
@@ -441,6 +416,7 @@ popup-warning-message =
         [one] { -brand-short-name } ଏହି ସାଇଟକୁ ପପ-ଅପ ୱିଣ୍ଡୋ ଖୋଲିବାରୁ ବାରଣ କରିଥାଏ।
        *[other] { -brand-short-name } ଏହି ସାଇଟକୁ { $popupCount } ପପ-ଅପ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ଖୋଲିବାରୁ ବାରଣ କରିଥାଏ।
     }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

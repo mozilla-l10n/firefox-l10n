@@ -78,10 +78,12 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = ଆହରଣଗୁଡ଼ିକୁ ସଫାକରନ୍ତୁ
     .tooltiptext = ସଫା କରାସରିଛି, ବାତିଲ ହୋଇଛି ଏବଂ ଆହରଣ ବିଫଳ ହୋଇଛି
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ସେଠାରେ କୌଣସି ଆହରଣ ନାହିଁ।
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ଏହି ଅଧିବେଶନ ପାଇଁ କୌଣସି ଆହରଣ ନାହିଁ।

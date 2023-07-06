@@ -4,9 +4,7 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ଲଗଇନ ଏବଂ ପାସୱାର୍ଡ଼
-login-filter =
-    .placeholder = ଖୋଜା ଲଗିନ
-create-login-button = ନୂଆ ଲଗଇନ ତିଆରି କରନ୍ତୁ
+
 fxaccounts-sign-in-text = ନିଜର ଉପକରଣରେ ନିଜସ୍ୱ ପାସୱାର୍ଡ଼ ପାଆନ୍ତୁ
 fxaccounts-avatar-button =
     .title = ଖାତା ପରିଚାଳନା
@@ -82,9 +80,6 @@ login-item-copied-password-button-text = ନକଲ ହୋଇଛି
 login-item-save-changes-button = ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-save-new-button = ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-cancel-button = ବାତିଲ କରନ୍ତୁ
-login-item-time-changed = ଶେଷ ପରିବର୍ତ୍ତିତ: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = ତିଆରି ହୋଇଥିଲା: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = ଶେଷ ବ୍ୟବହୃତ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -104,11 +99,13 @@ about-logins-edit-login-os-auth-dialog-message-win = ଆପଣଙ୍କର ଲ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରନ୍ତୁ
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ ଦେଖିବା ପାଇଁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ ପ୍ରକାଶ କରନ୍ତୁ
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ କପି କରିବାକୁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
 # This message can be seen when attempting to copy a password in about:logins
@@ -126,6 +123,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ବାତିଲ
 confirmation-dialog-dismiss-button =
     .title = ବାତିଲ କରନ୍ତୁ
+
 about-logins-confirm-remove-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
 confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 about-logins-confirm-remove-dialog-confirm-button = କାଢ଼ନ୍ତୁ
@@ -137,6 +135,7 @@ about-logins-confirm-remove-dialog-confirm-button = କାଢ଼ନ୍ତୁ
 ##
 
 about-logins-confirm-export-dialog-confirm-button = …ରପ୍ତାନୀ କରିବା
+
 confirm-discard-changes-dialog-title = ଅଣସଞ୍ଚିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନଷ୍ଟ କରିଦେବେ?
 confirm-discard-changes-dialog-message = ସମସ୍ତ ଅଣସଂରକ୍ଷିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବିଲୁପ୍ତ ହୋଇଯିବ
 confirm-discard-changes-dialog-confirm-button = ପରିତ୍ୟାଗ
@@ -148,7 +147,6 @@ breach-alert-text = ଆପଣ ଶେଷ ଥର ପାଇଁ ଆପଣଙ୍କ�
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname }କୁ ଯାଆନ୍ତୁ
-about-logins-breach-alert-learn-more-link = ଅଧିକ ଶିଖନ୍ତୁ
 
 ## Vulnerable Password notification
 
@@ -175,10 +173,12 @@ about-logins-error-message-default = ପାସୱାର୍ଡ଼ ସଂରକ୍
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = ହୋଇଗଲା
+
 about-logins-import-dialog-error-title = ଆମଦାନିରେ ତ୍ରୁଟି
 about-logins-import-dialog-error-file-format-title = ଫାଇଲ୍ ଫର୍ମାଟ୍ ସମସ୍ୟା
 about-logins-import-dialog-error-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 about-logins-import-dialog-error-cancel = ବାତିଲ କରନ୍ତୁ
+
 about-logins-import-report-title = ସାରାଂଶ ଆମଦାନୀ କରନ୍ତୁ
 
 ##

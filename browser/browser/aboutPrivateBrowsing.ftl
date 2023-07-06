@@ -18,6 +18,7 @@ about-private-browsing-learn-more-link = ଅଧିକ ଜାଣନ୍ତୁ
 about-private-browsing-search-banner-title = ଗୋପନୀୟ ୱିଣ୍ଡୋରେ { $engineName } ଆପଣଙ୍କର ପୂର୍ବ ସଂରକ୍ଷିତ ସନ୍ଧାନ ଇଞ୍ଜିନ ଅଟେ
 about-private-browsing-search-banner-close-button =
     .aria-label = ବନ୍ଦ କରନ୍ତୁ
+
 about-private-browsing-promo-close-button =
     .title = ବନ୍ଦ କରନ୍ତୁ
 

@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = ସୁପାରିଶକୃତ ବିଶେଷ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ମୁଁ ଏହାକୁ କାହିଁକି ଦେଖୁଛି
+
 cfr-doorhanger-extension-cancel-button = ବର୍ତ୍ତମାନ ନୁହଁ
     .accesskey = ନ
+
 cfr-doorhanger-extension-ok-button = ବର୍ତ୍ତମାନ ଯୋଡ଼ନ୍ତୁ
     .accesskey = ଏ
+
 cfr-doorhanger-extension-manage-settings-button = ସୁପାରିଶ ହୋଇଥିବା ସଜାଣି ପରିଚାଳନା କରନ୍ତୁ
     .accesskey = ମ
+
 cfr-doorhanger-extension-never-show-recommendation = ମତେ ସୁପାରିଶ ଦେଖାନ୍ତୁ ନାହିଁ
     .accesskey = ସ
+
 cfr-doorhanger-extension-learn-more-link = ଅଧିକ ଶିଖନ୍ତୁ
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }ଦ୍ୱାରା
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ସୁପାରିଶ:
 cfr-doorhanger-extension-notification2 = ସୁପାରିଶ
     .tooltiptext = ଏକଷ୍ଟେନ୍ସନ ସୁପାରିଶ
     .a11y-announcement = ଏକଷ୍ଟେନ୍ସନ ସୁପାରିଶ ଉପଲବ୍ଧ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = ସୁପାରିଶ
@@ -74,9 +82,11 @@ cfr-protections-panel-link-text = ଅଧିକ ଜାଣନ୍ତୁ
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ନୂତନ ସୁବିଧା:
+
 cfr-whatsnew-button =
     .label = ନୂଆ କଣ ରହିଛି
     .tooltiptext = ନୂଆ କଣ ରହିଛି
+
 cfr-whatsnew-release-notes-link-text = ମୁକ୍ତିଲାଭ ଟିପ୍ପଣୀ ପଢ଼ନ୍ତୁ
 
 ## Enhanced Tracking Protection Milestones
@@ -95,11 +105,6 @@ cfr-doorhanger-milestone-ok-button = ସବୁ ଦେଖନ୍ତୁ
 
 ## Spotlight modal shared strings
 
-spotlight-learn-more-collapsed = ଅଧିକ ଜାଣନ୍ତୁ
-    .title = ବୈଶିଷ୍ଟ୍ୟ ବିଷୟରେ ଅଧିକ ଜାଣିବା ପାଇଁ ପ୍ରସାରଣ କରନ୍ତୁ
-spotlight-learn-more-expanded = ଅଧିକ ଜାଣନ୍ତୁ
-    .title = ବନ୍ଦ କରନ୍ତୁ
-
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
@@ -108,8 +113,6 @@ spotlight-learn-more-expanded = ଅଧିକ ଜାଣନ୍ତୁ
 
 
 ## Total Cookie Protection Rollout
-
-spotlight-total-cookie-protection-secondary-button = ଏବେ ନୁହେଁ
 
 ## Emotive Continuous Onboarding
 
@@ -148,4 +151,8 @@ spotlight-pin-secondary-button = ଏବେ ନୁହେଁ
 
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

@@ -13,7 +13,6 @@
 onboarding-welcome-header = { -brand-short-name }କୁ ସ୍ୱାଗତ
 onboarding-start-browsing-button-label = ବ୍ରାଉଜିଂ ଆରମ୍ଭ କରନ୍ତୁ
 onboarding-not-now-button-label = ଏବେ ନୁହେଁ
-mr1-onboarding-set-default-secondary-button-label = ଏବେ ନୁହେଁ
 
 ## Custom Return To AMO onboarding strings
 
@@ -44,11 +43,11 @@ mr1-onboarding-set-default-secondary-button-label = ଏବେ ନୁହେଁ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-secondary-button-label = ଏବେ ନୁହେଁ
-mr2-onboarding-colorway-secondary-button-label = ଏବେ ନୁହେଁ
 mr1-onboarding-theme-secondary-button-label = ଏବେ ନୁହେଁ
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ସିଷ୍ଟମ୍ ଥିମ୍
+
 mr1-onboarding-theme-label-light = ହାଲୁକା
 mr1-onboarding-theme-label-dark = ଗାଢ଼
 
@@ -128,4 +127,6 @@ onboarding-live-language-skip-button-label = ବାଦ୍ ଦିଅନ୍ତୁ
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 
