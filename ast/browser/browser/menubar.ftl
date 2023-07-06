@@ -38,9 +38,11 @@ menu-quit =
             [windows] c
            *[other] C
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Colar de { -brand-shorter-name }
+
 menu-about =
     .label = Tocante a { -brand-shorter-name }
     .accesskey = T
@@ -204,8 +206,6 @@ menu-history-undo-menu =
     .label = Llingüetes zarraes apocayá
 menu-history-undo-window-menu =
     .label = Ventanes zarraes apocayá
-menu-history-reopen-all-tabs = Volver abrir toles llingüetes
-menu-history-reopen-all-windows = Volver abrir toles ventanes
 
 ## Bookmarks Menu
 
@@ -214,10 +214,6 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-manage =
     .label = Xestionar los marcadores
-menu-bookmark-current-tab =
-    .label = Amestar esta llingüeta a Marcadores
-menu-bookmark-edit =
-    .label = Editar esti marcador
 menu-bookmarks-all-tabs =
     .label = Amestar toles llingüetes a Marcadores…
 menu-bookmarks-toolbar =

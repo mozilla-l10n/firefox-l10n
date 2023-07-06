@@ -44,3 +44,4 @@ screenshots-private-window-error-details = Sentimos l'inconveniente. Tamos traba
 
 screenshots-generic-error-title = ¡Meca! { -screenshots-brand-name } volvióse llocu.
 screenshots-generic-error-details = Nun tamos seguros de lo qu'asocedió. ¿Importaríate tentalo de nueves o facer una captura n'otra páxina?
+

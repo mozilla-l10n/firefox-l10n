@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Nun colar
        *[other] Nun colar
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Si actives agora'l mou ensin conexón, va encaboxase 1 descarga. ¿De xuru que quies activalu?
        *[other] Si actives agora'l mou ensin conexón, van encaboxase { $downloadsCount } descargues. ¿De xuru que quies activalu?
     }
 download-ui-dont-go-offline-button = Siguir en llinia
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Si zarres agora toles ventanes de restolar en privao, va encaboxase 1 descarga. ¿De xuru que quies zarrales?
        *[other] Si zarres agora toles ventanes de restolar en privao, van encaboxase { $downloadsCount } descargues. ¿De xuru que quies zarrales?
     }
 download-ui-dont-leave-private-browsing-button = Siguir restolando en privao
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Encaboxar 1 descarga

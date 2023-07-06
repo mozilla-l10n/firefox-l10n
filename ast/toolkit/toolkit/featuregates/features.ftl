@@ -12,3 +12,4 @@ experimental-features-css-masonry2 =
 experimental-features-media-jxl =
     .label = Multimedia: JPEG XL
 
+

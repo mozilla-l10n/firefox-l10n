@@ -3,13 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Llingüeta nueva
+
 tabbrowser-menuitem-close-tab =
     .label = Zarrar la llingüeta
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -48,6 +51,7 @@ tabbrowser-confirm-close-tabs-button = Zarrar les llingüetes
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitir que los avisos como esti de «{ $domain }» te lleven a la so llingüeta
+
 tabbrowser-customizemode-tab-title = Personalización de { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -68,4 +72,6 @@ tabbrowser-context-unmute-selected-tabs =
     .accesskey = a
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

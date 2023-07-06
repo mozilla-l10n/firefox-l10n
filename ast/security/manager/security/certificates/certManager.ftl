@@ -25,10 +25,6 @@ certmgr-remembered = Estos certificaos úsense identificate nos sitios web
 certmgr-people = Tienes certificaos nel ficheru qu'identifiquen a estes persones
 certmgr-ca = Tienes certificaos nel ficheru qu'identifiquen a estes entidaes certificadores
 
-certmgr-edit-ca-cert =
-    .title = Edición de los axustes d'enfotu d'una CA de certificaos
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Edición de los axustes d'enfotu d'una CA de certificaos
     .style = min-width: 48em;
@@ -49,9 +45,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Sirvidor
-
-certmgr-override-lifetime =
-    .label = Tiempu de vida
 
 certmgr-token-name =
     .label = Preséu de seguranza

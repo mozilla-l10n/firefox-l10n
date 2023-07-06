@@ -4,7 +4,12 @@
 
 addons-page-title = Xestor de complementos
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Consigui estensiones y estilos en <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
 
 list-empty-installed =
     .value = Nun tienes nengún complementu instaláu d'esti tipu
@@ -226,7 +231,6 @@ extension-enabled-heading = Activóse
 extension-disabled-heading = Desactivóse
 
 theme-enabled-heading = Activóse
-theme-disabled-heading = Desactivóse
 
 plugin-enabled-heading = Activóse
 plugin-disabled-heading = Desactivóse
@@ -282,6 +286,9 @@ addon-detail-private-browsing-help = Al permitilo, la estensión va tener accesu
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = Nun permitir
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -336,6 +343,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

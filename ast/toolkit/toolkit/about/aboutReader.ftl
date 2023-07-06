@@ -4,12 +4,14 @@
 
 about-reader-loading = Cargando…
 about-reader-load-error = Hebo un fallu al cargar l'artículu de la páxina
+
 about-reader-color-scheme-light = Claridá
     .title = Esquema de colores claros
 about-reader-color-scheme-dark = Escuridá
     .title = Esquema de colores escuros
 about-reader-color-scheme-sepia = Sepia
     .title = Esquema de colores sepia
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

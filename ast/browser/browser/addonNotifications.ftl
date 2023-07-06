@@ -25,6 +25,7 @@ webext-perms-update-menu-item = { $addonName } rique permisos nuevos
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = ¿Quitar { $name }?
 addon-removal-abuse-report-checkbox = Informar d'esta estensión a { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -32,6 +33,7 @@ addon-downloading-and-verifying =
         [one] Baxando y verificando'l complementu…
        *[other] Baxando y verificando { $addonCount } complementos…
     }
+
 addon-install-cancel-button =
     .label = Encaboxar
     .accesskey = C

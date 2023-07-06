@@ -9,10 +9,6 @@ failed-pp-change = Nun ye posible camudar la contraseña primaria.
 incorrect-pp = Nun introduxesti correutamente la contraseña primaria. Volvi tentalo, por favor.
 pp-change-ok = La contraseña primaria camudó con ésitu.
 
-pp-empty-warning = Nun van protexese les contraseñes y claves privaes qu'atroxares.
-pp-erased-ok = Desaniciesti la contraseña primaria. { pp-empty-warning }
-pp-not-wanted = ¡Alvertencia! Decidiesti nun usar una contraseña primaria. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Anguaño tas nel mou FIPS. FIPS rique una contraseña primaria que nun tea balera.
 pw-change-success-title = El cambéu de la contraseña tuvo ésitu
 pw-change-failed-title = El cambéu de la contraseña falló

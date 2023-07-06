@@ -116,13 +116,6 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = La privacidá ye importante. Agora { -brand-short-name } aislla los sitios web los unos d'otros, lo que fai difícil a crackers el robu de contraseñes, númberos de tarxetes de creitu y otra información sensible.
-cfr-doorhanger-fission-header = Aisllamientu de sitios
-cfr-doorhanger-fission-primary-button = D'acuerdu, entendílo
-    .accesskey = D
-cfr-doorhanger-fission-secondary-button = Lleer más
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-header = Anueva { -brand-short-name } pa reproducir el videu
@@ -160,4 +153,16 @@ spotlight-public-wifi-vpn-link = Agora non
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

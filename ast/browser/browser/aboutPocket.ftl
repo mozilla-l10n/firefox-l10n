@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = Guardar
 pocket-panel-saved-saving-tags = Guardando…
 pocket-panel-saved-suggested-tags = Etiquetes suxeríes
 pocket-panel-saved-tags-saved = Amestáronse les etiquetes
-pocket-panel-signup-view-list = Ver la llista
 
 ## about:pocket-signup panel
 
@@ -39,7 +38,6 @@ pocket-panel-signup-tagline-story-one = Calca nel botón de { -pocket-brand-name
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Llista de mio
 pocket-panel-home-welcome-back = Volvi afayate
 pocket-panel-home-paragraph = Pues usar { -pocket-brand-name } pa esplorar y guardar páxines web, artículos, vídeos, podcasts o volver a lo que tabes lleendo.
 

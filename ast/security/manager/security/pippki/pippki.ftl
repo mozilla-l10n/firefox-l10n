@@ -40,4 +40,5 @@ client-auth-cert-details = Detalles del certificáu esbilláu:
 
 ## Protected Auth dialog
 
-protected-auth-token = Pase:
+## Protected authentication alert
+

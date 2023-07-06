@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Amestar esta páxina a Marcadores
-    .accesskey = m
-    .tooltiptext = Amestar esta páxina a Marcadores
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Amestar la páxina a Marcadores
-    .accesskey = M
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Editar el marcador
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Amestar esta páxina a Marcadores
-    .accesskey = m
-    .tooltiptext = Amestar esta páxina a Marcadores ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Editar esti marcador
-    .accesskey = m
-    .tooltiptext = Editar esti marcador
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Editar esti marcador
-    .accesskey = m
-    .tooltiptext = Editar esti marcador ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Abrir l'enllaz
     .accesskey = A
@@ -153,10 +115,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Abrir l'enllaz nuna llingüeta privada nueva
     .accesskey = p
-
-main-context-menu-bookmark-link =
-    .label = Amestar l'enllaz a Marcadores
-    .accesskey = M
 
 main-context-menu-save-link =
     .label = Guardar l'enllaz como…
@@ -325,14 +283,6 @@ main-context-menu-audio-email =
     .label = Unviar l'audiu per corréu
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Activar esti plugin
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Anubrir esti plugin
-    .accesskey = b
-
 main-context-menu-save-to-pocket =
     .label = Guardar la páxina en { -pocket-brand-name }
     .accesskey = k
@@ -391,10 +341,6 @@ main-context-menu-frame-reload =
     .label = Volver cargar el marcu
     .accesskey = r
 
-main-context-menu-frame-bookmark =
-    .label = Amestar esti marcu a Marcadores
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = Guardar el marcu como…
     .accesskey = c
@@ -410,10 +356,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Ver la información del marcu
     .accesskey = i
-
-main-context-menu-print-selection =
-    .label = Imprentar la esbilla
-    .accesskey = r
 
 main-context-menu-view-selection-source =
     .label = Ver l'orixe de la esbilla
