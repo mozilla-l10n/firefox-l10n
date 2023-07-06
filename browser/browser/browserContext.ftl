@@ -167,14 +167,6 @@ main-context-menu-audio-email =
     .label = Email Audio…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Activate this plugin
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Hide this plugin
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = Send Page to Device
     .accesskey = D
@@ -212,10 +204,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Reload Frame
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = Bookmark This Frame
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Save Frame As…
