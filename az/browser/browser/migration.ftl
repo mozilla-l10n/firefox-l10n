@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = Pəncərələr və vərəqlər
 browser-data-session-label =
     .value = Pəncərələr və vərəqlər
+

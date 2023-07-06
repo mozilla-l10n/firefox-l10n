@@ -21,18 +21,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Aç
     .accesskey = A
-synced-tabs-context-open-in-new-tab =
-    .label = Yeni Vərəqdə Aç
-    .accesskey = Y
-synced-tabs-context-open-in-new-window =
-    .label = Yeni Pəncərədə Aç
-    .accesskey = n
-synced-tabs-context-open-in-new-private-window =
-    .label = Yeni Məxfi Pəncərədə Aç
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Bu Vərəqi Əlfəcinlə…
-    .accesskey = l
 
 ##
 

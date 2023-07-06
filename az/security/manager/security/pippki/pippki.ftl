@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Təsdiq sənədi yüklənir
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Təsdiq sənədi yüklənir
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Vacib: Əgər təsdiq sənədi yedəyi parolunuzu unutsa
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Qorunmuş işarənin kimlik Təsdiqləməsi
-protected-auth-msg = Lütfən işarəyə kimliyinizi təsdiqləyin. Kimlik təsdiqləmə üsulu işarətinizin növünə görə dəyişir.
-protected-auth-token = İşarə:
+## Protected authentication alert
+

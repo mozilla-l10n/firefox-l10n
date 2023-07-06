@@ -27,6 +27,7 @@ webrtc-item-browser = vərəq
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Naməlum mənşə
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -68,6 +69,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Paylaşmanı İdarə et
 webrtc-indicator-menuitem-control-sharing-on =
     .label = “{ $streamTitle }” üzərində paylaşımı idarə et
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamera “{ $streamTitle }” ilə paylaşılır
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -76,6 +78,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kamera { $tabCount } vərəq ilə paylaşılır
            *[other] Kamera { $tabCount } vərəq ilə paylaşılır
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofon “{ $streamTitle }” ilə paylaşılır
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -84,6 +87,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofon { $tabCount } vərəq ilə paylaşılır
            *[other] Mikrofon { $tabCount } vərəq ilə paylaşılır
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Tətbiq “{ $streamTitle }” ilə paylaşılır
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -92,6 +96,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } vərəqlə tətbiq paylaşılır
            *[other] { $tabCount } vərəqlə tətbiq paylaşılır
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ekran “{ $streamTitle }” ilə paylaşılır
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -100,6 +105,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ekran { $tabCount } vərəq ilə paylaşılır
            *[other] Ekran { $tabCount } vərəq ilə paylaşılır
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Pəncərə “{ $streamTitle }” ilə paylaşılır
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -108,6 +114,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Pəncərə { $tabCount } vərəq ilə paylaşılır
            *[other] Pəncərələr { $tabCount } vərəq ilə paylaşılır
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Vərəq “{ $streamTitle }” ilə paylaşılır
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -153,6 +160,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Bu seçimi yadda saxla
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ekranınıza qalıcı giriş icazəsi verə bilməz.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } hansı vərəqin paylaşılacağını soruşmadan sizin vərəqinizin səsinə daimi müraciət üçün icazə verə bilməz.
 webrtc-reason-for-no-permanent-allow-insecure = Sizin bu saytla əlaqəniz təhlükəsiz deyil. Sizi qorumaq üçün { -brand-short-name } qoşulmaya yalnız bu seans üçün icazə verəcək.

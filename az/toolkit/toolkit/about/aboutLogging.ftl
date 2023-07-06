@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Hazırkı Qeydiyyat Faylı:
-about-logging-current-log-modules = Hazırkı Qeydiyyat Modulları:
 about-logging-log-tutorial = Bu aləti necə istifadə edəcəyinizi öyrənmək üçün <a data-l10n-name="logging">HTTP Qeyd Aparma</a> səhifəsinə baxın.
 about-logging-set-log-file = Qeydiyyat Faylını Qur
 about-logging-set-log-modules = Qeydiyyat Modullarını Qur
 about-logging-start-logging = Qeydiyyatı Başlat
 about-logging-stop-logging = Qeydiyyatı Dayandır
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+
