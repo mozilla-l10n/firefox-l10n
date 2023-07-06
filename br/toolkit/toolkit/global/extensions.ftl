@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Nullañ
     .accesskey = N
+
 webext-perms-sideload-text = Ur goulev all war hoc'h urzhiataer en deus staliet un askouezh a c'hall tizhout ho merdeer. Gwiriekait aotreoù an askouezh-mañ ha dibabit da aotren pe nullañ (evit e leuskel diweredekaet).
 webext-perms-sideload-text-no-perms = Ur goulev all war hoc'h urzhiataer en deus staliet un askouezh a c'hall tizhout ho merdeer. Dibabit da aotren pe nullañ (evit e leuskel diweredekaet).
 webext-perms-sideload-enable =
@@ -30,9 +31,11 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Nullañ
     .accesskey = N
+
 webext-perms-update-accept =
     .label = Hizivaat
     .accesskey = H
+
 webext-perms-optional-perms-list-intro = Fell a ra dezho:
 webext-perms-optional-perms-allow =
     .label = Aotren
@@ -40,10 +43,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Nac'hañ
     .accesskey = N
+
 webext-perms-host-description-all-urls = Haeziñ ho roadennoù evit an holl lec'hiennoù
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Haeziñ ho roadennoù war al lec'hiennoù en domani { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -58,6 +64,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Haeziñ ho roadennoù evit { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

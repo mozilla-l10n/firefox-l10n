@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Enporzhiañ roadennoù ar merdeer
 migration-wizard-selection-list = Diuzit ar roadennoù a fell deoc'h enporzhiañ.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Diuzit ar roadennoù a fell deoc'h enporzhiañ
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -68,6 +70,13 @@ migration-passwords-from-file-tsv-filter-title =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+
+##
+
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
 
 ##
 

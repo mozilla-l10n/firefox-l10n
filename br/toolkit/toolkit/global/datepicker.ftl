@@ -15,6 +15,8 @@ date-picker-label =
 date-spinner-label =
     .aria-label = Dibab ur miz hag ur bloaz
 
+## Text of the clear button
+
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 

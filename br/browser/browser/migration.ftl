@@ -64,9 +64,6 @@ import-items-description = Diuz pe elfennoù da enporzhiañ:
 
 import-permissions-page-title = Roit an aotreadurioù mar plij da { -brand-short-name }
 
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = War macOs zo ezhomm aotren { -brand-short-name } da haeziñ sinedoù Safari. Klikit war "Kenderc’hel" ha dibabit ar restr 'Bookmarks.plist' er penel dibab restroù a zeuio war-wel.
-
 import-migrating-page-title = Oc'h enporzhiañ …
 
 import-migrating-description = Emañ an ergorennoù da heul o vezañ enporzhiet…
@@ -158,3 +155,4 @@ browser-data-session-checkbox =
     .label = Prenestroù hag ivinelloù
 browser-data-session-label =
     .value = Prenestroù hag ivinelloù
+

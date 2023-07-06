@@ -18,23 +18,10 @@ experimental-features-web-gpu2 =
 experimental-features-media-jxl =
     .label = Media: JPEG XL
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-constructable-stylesheets =
-    .label = CSS: Constructable Stylesheets
-
-# Do not translate 'SameSite', 'Lax' and 'None'.
-experimental-features-cookie-samesite-lax-by-default2 =
-    .label = Toupinoù: SameSite=Lax dre ziouer
 
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Toupinoù: SameSite=None en deus ezhomm da gaout un doareenn ziogelet
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-schemeful =
-    .label = Cookies: Schemeful SameSite
 
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =

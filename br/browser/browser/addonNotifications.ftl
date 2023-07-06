@@ -14,6 +14,7 @@ xpinstall-prompt-message = Emaoc'h o klask staliañ un enlugellad adalek { $host
 
 xpinstall-prompt-header-unknown = Aotren ul lec'hienn dianav da staliañ askouezhioù?
 xpinstall-prompt-message-unknown = Emaoc'h o klask staliañ un askouezh adalek ul lec'hienn dianav. Bezit sur e c'hallit fiziañ el lec'hienn-mañ a-raok kenderc'hel.
+
 xpinstall-prompt-dont-allow =
     .label = Na aotren
     .accesskey = N
@@ -37,12 +38,14 @@ xpinstall-disabled = Staliañ meziantoù zo diweredekaet bremañ. Klikit war Aot
 xpinstall-disabled-button =
     .label = Aotren
     .accesskey = o
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Stanket eo { $addonName } ({ $addonId }) gant hoc'h ardoer reizhiad.
 addon-install-full-screen-blocked = N’eo ket aotreet staliañ askouezhioù p’emaoc'h er mod skramm a-bezh pe a-raok mont e-barzh.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ouzhpennet da { -brand-short-name }
@@ -60,6 +63,7 @@ addon-removal-title = Dilemel { $name }?
 addon-removal-message = Dilemel { $name } eus { -brand-shorter-name }?
 addon-removal-button = Dilemel
 addon-removal-abuse-report-checkbox = Disklêriañ an askouezh-mañ da { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -71,6 +75,7 @@ addon-downloading-and-verifying =
        *[other] O pellgargañ hag o wiriañ { $addonCount } askouezh...
     }
 addon-download-verifying = O wiriañ
+
 addon-install-cancel-button =
     .label = Nullañ
     .accesskey = N

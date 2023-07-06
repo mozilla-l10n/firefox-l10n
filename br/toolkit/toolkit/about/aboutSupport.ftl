@@ -140,6 +140,8 @@ media-device-channels = Sanell
 media-device-rate = Feur
 media-device-latency = Dale
 
+## Codec support table
+
 ##
 
 intl-title = Etrevoradeladur & lec'hiadur

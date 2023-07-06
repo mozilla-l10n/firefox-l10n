@@ -127,13 +127,6 @@ cfr-doorhanger-doh-secondary-button = Diweredekaat
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Pouezus eo ho puhez prevez. { -brand-short-name } a zigenvez al lec'hienn an eil ouzh hebenn, ar pezh a lak da vezañ diaesoc'h da laerez gerioù-tremen, niverennoù kartennoù bank ha titouroù kizidik all.
-cfr-doorhanger-fission-header = Digenvezañ al lec'hiennoù
-cfr-doorhanger-fission-primary-button = Mat, komprenet 'm eus
-    .accesskey = M
-cfr-doorhanger-fission-secondary-button = Gouzout hiroc'h
-    .accesskey = G
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Ar videoioù war al lec’hienn-mañ a c’hallfe chom hep mont en-dro war handelv { -brand-short-name }-mañ. Evit skor klok ar videoioù, hizivait { -brand-short-name } bremañ.
@@ -142,11 +135,6 @@ cfr-doorhanger-video-support-primary-button = Hizivaat bremañ
     .accesskey = H
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Deskiñ hiroc’h
-    .title = Astenn evit gouzout hiroc'h diwar-benn ar c’heweriuster
-spotlight-learn-more-expanded = Gouzout hiroc'h
-    .title = Serriñ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -163,18 +151,6 @@ spotlight-public-wifi-vpn-link = Ket bremañ
     .accesskey = K
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = Amprouit a-raok an holl an arnod prevezded galloudusañ graet ganeomp.
-spotlight-total-cookie-protection-body = Ar gwarez klok toupinoù a vir an heulierien d'ober gant toupinoù a heuilh ac'hanoc'h er web.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } a sav ur voger tro-dro d'an toupinoù, ar pezh a vir anezho el lec'hienn lec'h m'emaoc'h ha n'hallont ket bezañ implijet evit heuliañ ac'hanoc'h. Gant an haeziñ abred e c'hallit gwellekaat ar c'heweriuster-mañ evit ma savfemp ur web gwelloc'h evit an holl.
-spotlight-total-cookie-protection-primary-button = Gweredekaat ar gwarez toupinoù klok
-spotlight-total-cookie-protection-secondary-button = Ket bremañ
-
-cfr-total-cookie-protection-header = Trugarez deoc'h, suroc'h ha prevesoc'h eget biskoazh eo { -brand-short-name }
 
 ## Emotive Continuous Onboarding
 
@@ -205,4 +181,16 @@ spotlight-pin-secondary-button = Ket bremañ
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

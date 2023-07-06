@@ -9,10 +9,6 @@ failed-pp-change = Ne c'haller ket kemmañ ar ger-tremen pennañ.
 incorrect-pp = N'ho peus ket skrivet mat ar ger-tremen pennañ a-vremañ. Klaskit en-dro mar plij.
 pp-change-ok = Ger-tremen pennañ kemmet gant berzh.
 
-pp-empty-warning = Ho kerioù-tremen hag alc'hwezioù prevez miret ne vint ket gwarezet.
-pp-erased-ok = Dilamet ho peus ho ker-tremen pennañ. { pp-empty-warning }
-pp-not-wanted = DIwallit ! Dibabet ho peus chom hep implijout ur ger-tremen pennañ. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = E mod FIPS emaoc'h. FIPS a c'houlenn ur ger-tremen mestr ha n'eo ket goulo.
 pw-change-success-title = Kemm ho ker-tremen kempennet
 pw-change-failed-title = Fazi gant kemm ar ger-tremen

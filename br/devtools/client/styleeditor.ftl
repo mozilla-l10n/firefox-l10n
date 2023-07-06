@@ -16,7 +16,6 @@ styleeditor-save-button = Save
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Style Editor options
-styleeditor-media-rules = @media rules
 styleeditor-editor-textbox =
     .data-placeholder = Type CSS here.
 styleeditor-no-stylesheet = This page has no style sheet.
@@ -34,6 +33,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Jump to line…
     .accesskey = J
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

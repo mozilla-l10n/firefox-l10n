@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = E mod FIPS emaoc’h bremañ. Azgoulenn a 
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Adderaouekaat ar ger-tremen pennañ
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Adderaouekaat ar ger-tremen pennañ
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Adderaouekaat ar ger-tremen pennañ
 pippki-reset-password-confirmation-message = Diweredekaet eo bet ho ker-tremen pennañ.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = O pellgargañ an testeni
-    .style = width: 46em
 
 download-cert-window2 =
     .title = O pellgargañ an testeni
@@ -82,7 +74,5 @@ set-password-reminder = Pouezus: Mar bez ankouaet ger-tremen ho testeni atoriñ 
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Dilesa ar reveziadenn gwarezet
-protected-auth-msg = Mar plij, dilesait ouzh ar reveziadenn. Hentenn dilesa a vo hervez rizh ho reveziadenn.
-protected-auth-token = Reveziadenn:
+## Protected authentication alert
+

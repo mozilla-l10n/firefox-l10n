@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Na guitaat
        *[other] Na guitaat
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Mar digennaskit bremañ e vo freuzet 1 pellgargadur. Digennaskañ?
        *[other] Mar bez digennasket bremañ e vo nullet { $downloadsCount } a bellgargadurioù. Sur oc'h e fell deoc'h digennaskañ?
     }
 download-ui-dont-go-offline-button = Chom kennasket
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Nullet e vo 1 pellgargadur mar serrit an holl brenestroù merdeiñ prevez bremañ. Sur oc'h e fell deoc'h kuitaat ar merdeiñ prevez?
        *[other] Nullet e vo { $downloadsCount } a bellgargadurioù mar serrit an holl brenestroù merdeiñ prevez bremañ. Sur oc'h e fell deoc'h kuitaat ar merdeiñ prevez?
     }
 download-ui-dont-leave-private-browsing-button = Chom er Merdeiñ Prevez
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Nullañ 1 pellgargadur

@@ -49,6 +49,17 @@ neterror-dns-not-found-hint-try-again = Klask en-dro diwezhatoc'h
 neterror-dns-not-found-hint-check-network = Gweredekait oc'h kevreet mat ouzh ar rouedad
 neterror-dns-not-found-hint-firewall = Gweredekait en deus { -brand-short-name } an aotre da vont war ar web (kevreet e c'hallfec'h bezañ, met a-dreñv ur maltouter)
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.
 neterror-file-not-found-moved = Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.
 

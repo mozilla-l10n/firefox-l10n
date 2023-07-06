@@ -5,10 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Mouezhioù dizalc'h
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Livioù a gemm ar sevenadurezh.
-
 ## Colorway names and descriptions
 
 expressionist-colorway-name = Ekspresionour

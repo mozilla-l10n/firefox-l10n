@@ -23,5 +23,7 @@ state-header = Stad
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Munudoù
+
 update-installed-on = Staliet war: { $date }
+
 update-status = Stad: { $status }

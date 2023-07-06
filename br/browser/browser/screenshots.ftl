@@ -44,3 +44,4 @@ screenshots-private-window-error-details = Digarezit evit ar gudenn. Labourat a 
 
 screenshots-generic-error-title = Chaous! Ur gudenn a zo savet gant { -screenshots-brand-name }.
 screenshots-generic-error-details = N'omp ket sur eus ar pezh a zo c'hoarvezet. Gallout a rit adklask pe kemer ur dapadenn eus ur bajenn all.
+

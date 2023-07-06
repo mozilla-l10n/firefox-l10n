@@ -34,10 +34,6 @@ third-party-tag-background = Drekleur
     .title =
         Ar mollad-mañ n'en deus ket stanket an arload peogwir eo bet karget 
         en drekleur.
-third-party-unsigned-icon =
-    .title = N'eo ket sinet ar mollad-mañ
-third-party-warning-icon =
-    .title = { -brand-short-name } a zo chomet sac'het e-barzh kod ar mollad-mañ.
 
 third-party-status-loaded = Karget
 third-party-status-blocked = Stanket
@@ -52,3 +48,4 @@ third-party-button-expand =
     .title = Diskouez an titouroù dre ar munud
 third-party-button-collapse =
     .title = Kuzhat an titouroù dre ar munud
+

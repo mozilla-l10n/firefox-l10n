@@ -13,14 +13,40 @@ safeb-blocked-harmful-page-short-desc = Stanket eo bet ar bajenn gant { -brand-s
 safeb-palm-advisory-desc = Alioù kinniget gant <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Mont war-gil
 safeb-palm-see-details-label = Gwelet ar munudoù
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = Danevellet eo bet <span data-l10n-name='sitename'>{ $sitename }</span> evel <a data-l10n-name='error_desc_link'>ul lec'hienn touellus</a>. Gallout a rit <a data-l10n-name='report_detection'>danevelliñ ur gudenn dinoiñ</a> pe <a data-l10n-name='ignore_warning_link'>leuskel ar riskl a-gostez</a> ha mont etrezek al lec'hienn diasur.
 safeb-blocked-phishing-page-error-desc-no-override = Danevellet eo bet <span data-l10n-name='sitename'>{ $sitename }</span> evel <a data-l10n-name='error_desc_link'>ul lec'hienn touellus</a>. Gallout a rit <a data-l10n-name='report_detection'>danevelliñ ur gudenn dinoiñ</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Deskit hiroc'h a-zivout lec'hiennoù touellus ha higennañ war <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Deskit hiroc'h a-zivout gwarez { -brand-short-name } a-enep an higennañ hag an drougveziantoù war <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = Danevellet eo bet <span data-l10n-name='sitename'>{ $sitename }</span> evel <a data-l10n-name='error_desc_link'>ul lec'hienn gant meziantoù arvarus enni</a>. Gallout a rit <a data-l10n-name='ignore_warning_link'>leuskel ar riskl-mañ a-gostez</a> ha mont etrezek al lec'hienn diasur.
 safeb-blocked-unwanted-page-error-desc-no-override = Danevellet eo bet <span data-l10n-name='sitename'>{ $sitename }</span> evel <a data-l10n-name='error_desc_link'>ul lec'hienn gant meziantoù arvarus enni</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Deskit hiroc'h a-zivout meziantoù arvarus ha dic'hoantet war <a data-l10n-name='learn_more_link'>Reolenn a-fed Meziantoù Dic'hoantet</a>. Deskit hiroc'h a-zivout gwarez { -brand-short-name } a-enep d'an higennañ hag an drougveziantoù e <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = Danevellet eo bet <span data-l10n-name='sitename'>{ $sitename }</span> evel <a data-l10n-name='error_desc_link'>ul lec'hienn gant un arload arvarus</a>. Gallout a rit <a data-l10n-name='ignore_warning_link'>leuskel ar riskl a-gostez</a> ha mont etrezek al lec'hienn diasur.
 safeb-blocked-harmful-page-error-desc-no-override = Dinoet eo bet <span data-l10n-name='sitename'>{ $sitename }</span> evel <a data-l10n-name='error_desc_link'>ul lec'hienn gant un arload a c'hall bezañ arvarus</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Deskit hiroc'h a-zivout gwarez { -brand-short-name } a-enep d'an higennañ hag an drougveziantoù war <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = N'eo ket ul lec’hienn dagus…

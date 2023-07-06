@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Degouezhet ez eus bet ur fazi e-pad ma oa o kennaskañ ouzh { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Boneg fazi: { $error }
-
 psmerr-ssl-disabled = Ne c'haller ket kennaskañ diarvar rak diweredekaet eo bet ar c'homenad SSL.
 psmerr-ssl2-disabled = Ne c'haller ket kennaskañ diarvar rak ur c'homenad mod SSL kozh hag arvarus a arver al lec'hienn.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = N'eo bet kefluniet treol sinadur TL
 ssl-error-unsupported-signature-algorithm = Un c'hedaozadur anskor a sinadur hag a treol ennegañ a zo bet arveret gant ar par.
 ssl-error-missing-extended-master-secret = Klasket eo bet kenderc'hel hep askouezh extended_master_secret talvoudek gant ar par.
 ssl-error-unexpected-extended-master-secret = Klasket eo bet kenderc'hel gant un extended_master_secret hiraet dic'hortoz gant ar par.
+
 sec-error-io = Degouezhet ez eus bet ur fazi enankañ/ec'hankañ pa oa o reiñ an aotre diogelroez.
 sec-error-library-failure = C'hwitadur al levraoueg diogelroez.
 sec-error-bad-data = levraoueg diogelroez: degemeret ez eus bet roadennoù fall.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = N'haller ket ezrinegañ: treol enrinegañ an a
 sec-error-pkcs7-bad-signature = C'hwitadenn war gwiriañ ar sinadur: n'eus sinour ebet bet kavet, re a sinourion zo bet kavet pe roadennoù dizereat pe kontronet.
 sec-error-unsupported-keyalg = Treol alc'hwez anskoret pe dianav.
 sec-error-decryption-disallowed = N'haller ket ezrinegañ: restr enrineget oc'h arverañ un treol pe ur vent restr dizaotreet.
-xp-sec-fortezza-bad-card = N'eo ket bet deraouekaet mat ar gartenn Fortezza. Dilammit anezhi ha kasit anezhi en-dro d'ho skigner.
-xp-sec-fortezza-no-card = N'eus ket bet kavet kartennoù Fortezza
-xp-sec-fortezza-none-selected = N'eus kartenn Fortezza ebet bet diuzet.
-xp-sec-fortezza-more-info = Diuzit ur bersonelezh evit kaout muioc'h a ditouroù diwar he fenn
-xp-sec-fortezza-person-not-found = N'eo ket bet kavet ar bersonelezh
-xp-sec-fortezza-no-more-info = N'eus ket titouroù ouzhpenn diwar-benn ar bersonelezh-mañ.
-xp-sec-fortezza-bad-pin = Pin didalvoudek
-xp-sec-fortezza-person-error = N'haller ket deraouekaat personelezhioù mod Fortezza.
 sec-error-no-krl = N'eo ket bet kavet KRL evit testeni al lec'hienn-mañ.
 sec-error-krl-expired = Diamzeret eo KRL evit testeni al lec'hienn-mañ.
 sec-error-krl-bad-signature = Ur sinadur didalvoudek ez eus gant KRL evit testeni al lec'hienn-mañ.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Un testeni gant an hevelep lesanv zo anezha�
 sec-error-key-nickname-collision = Un alc'hwez gant an hevelep lesanv zo anezhañ endeo.
 sec-error-safe-not-created = fazi e-pad ma oa o krouiñ un ergorenn diarvar.
 sec-error-baggage-not-created = fazi e-pad ma oa o krouiñ an ergorenn bak
-xp-java-remove-principal-error = N'hall ket tennañ kuit an hini pennañ
-xp-java-delete-privilege-error = N'hall ket dilemel ar brient
-xp-java-cert-not-exists-error = N'eus testeni ebet gant an hini pennañ-mañ.
 sec-error-bad-export-algorithm = N'eo ket aotreet an treol azgoulennet.
 sec-error-exporting-certificates = Fazi e-pad ma oa o klask ezporzhiañ testenioù.
 sec-error-importing-certificates = Fazi e-pad ma oa o klask enporzhiañ testenioù.
@@ -339,6 +320,7 @@ sec-error-locked-password = Prennet eo ar ger-tremen.
 sec-error-unknown-pkcs11-error = Fazi PKCS #11 dianav.
 sec-error-bad-crl-dp-url = URL didalvoudek pe anskoret e-barzh an anv poent dasparzh CRL.
 sec-error-cert-signature-algorithm-disabled = Sinet eo bet an testeni gant un treol sinañ a zo bet diweredekaet rak ne oa ket diogel.
+
 mozilla-pkix-error-key-pinning-failure = Arverañ a ra an dafariad ar wikefre "key pinning" (HPKP) met n'eo ket bet posupl sevel ur steudad testenioù a fiziañs a genglot gant ar "pinset". N'haller tremen dreist ar forzhadurioù eus "Key pinning".
 mozilla-pkix-error-ca-cert-used-as-end-entity = Arverañ a ra an dafariad un testeni gant un askouezh destrizhoù eeun a hennad anezhañ evel un aotrouniezh testeniañ. An dra-se ne rankfe ket degouezhout gant un testeni skignet ent dereat.
 mozilla-pkix-error-inadequate-key-size = Kinniget en deus an dafariad un testeni gant ur ment alc'hwez re vihan evit savelañ ur c'hennask diogel.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = Un testeni gant un enbonegañ keva
 mozilla-pkix-error-empty-issuer-name = Kinniget eo bet un testeni gant un anv heverk skigner goullo gant an dafariad.
 mozilla-pkix-error-additional-policy-constraint-failed = Un destrizh reolenn ouzhpenn en deus c'hwitet en un dalvoudekaat an testeni-mañ.
 mozilla-pkix-error-self-signed-cert = N'eus fiziañs ebet en testeni rak emsinet eo.
+
+xp-java-remove-principal-error = N'hall ket tennañ kuit an hini pennañ
+xp-java-delete-privilege-error = N'hall ket dilemel ar brient
+xp-java-cert-not-exists-error = N'eus testeni ebet gant an hini pennañ-mañ.
+
+xp-sec-fortezza-bad-card = N'eo ket bet deraouekaet mat ar gartenn Fortezza. Dilammit anezhi ha kasit anezhi en-dro d'ho skigner.
+xp-sec-fortezza-no-card = N'eus ket bet kavet kartennoù Fortezza
+xp-sec-fortezza-none-selected = N'eus kartenn Fortezza ebet bet diuzet.
+xp-sec-fortezza-more-info = Diuzit ur bersonelezh evit kaout muioc'h a ditouroù diwar he fenn
+xp-sec-fortezza-person-not-found = N'eo ket bet kavet ar bersonelezh
+xp-sec-fortezza-no-more-info = N'eus ket titouroù ouzhpenn diwar-benn ar bersonelezh-mañ.
+xp-sec-fortezza-bad-pin = Pin didalvoudek
+xp-sec-fortezza-person-error = N'haller ket deraouekaat personelezhioù mod Fortezza.

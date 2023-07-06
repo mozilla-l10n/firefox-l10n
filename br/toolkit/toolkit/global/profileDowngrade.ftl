@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profiledowngrade-window =
-    .title = Lañset ho peus un handelv kozh eus { -brand-product-name }
-    .style = width: 490px;
-
 profiledowngrade-window2 =
     .title = Lañset ho peus un handelv kozh eus { -brand-product-name }
     .style = min-width: 490px;

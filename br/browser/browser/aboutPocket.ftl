@@ -22,14 +22,12 @@ pocket-panel-saved-page-removed = Dilamet ar bajenn
 pocket-panel-saved-page-saved = Enrollet davet { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Enrollet war { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = O tilemel ar bajenn...
-pocket-panel-saved-removed = Pajenn dilamet eus ma roll
 pocket-panel-saved-processing-tags = Oc'h ouzhpennañ skritelligoù...
 pocket-panel-saved-remove-page = Dilemel ar bajenn
 pocket-panel-saved-save-tags = Enrollañ
 pocket-panel-saved-saving-tags = Oc'h enrollañ…
 pocket-panel-saved-suggested-tags = Skritelligoù kinniget
 pocket-panel-saved-tags-saved = Ouzhpennet ur skritellig
-pocket-panel-signup-view-list = Gwelout ar roll
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Ouzhpennañ tikedennoù:
@@ -47,13 +45,10 @@ pocket-panel-signup-tagline-story-one = Klikit war an afell { -pocket-brand-name
 pocket-panel-signup-tagline-story-two = Sellit anezhañ e { -pocket-brand-name } war forzh peseurt trevnad, p’ho peus c’hoant.
 
 pocket-panel-signup-cta-a-fix = Hoc'h afell Enrollañ evit an internet
-pocket-panel-signup-cta-b = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù. Gwelit ho roll war forzh peseurt trevnad, forzh pegoulz.
 pocket-panel-signup-cta-b-short = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù.
-pocket-panel-signup-cta-c = Gwelout ho roll war forzh peseurt trevnad, forzh pegoulz.
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Ma roll
 pocket-panel-home-welcome-back = Eürus omp d'ho kwelout en-dro
 pocket-panel-home-paragraph = Gallout a rit ober gant { -pocket-brand-name } evit merdeiñ hag enrollañ pajennadoù web, pennadoù, videoioù, podskigndoù, pe distreiñ d'ar pezh a oac'h o lenn.
 pocket-panel-home-explore-popular-topics = Merdeiñ ar sujedoù brudet
@@ -67,7 +62,6 @@ pocket-panel-home-new-user-message = Gwelit hoc’h enrolladennoù nevez amañ.
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = Gwelout ma roll
 pocket-panel-header-sign-in = Kennaskañ
 
 ## Pocket panel buttons

@@ -21,10 +21,6 @@ certmgr-mine = Testenioù hoc'h eus a-berzh an aozadurioù-mañ oc'h anaout ac'h
 certmgr-people = Testenioù ho peus diwar-benn an dud da-heul
 certmgr-ca = Testenioù hoc'h eus er restr oc'h anaout an aotrouniezh testeniañ-mañ
 
-certmgr-edit-ca-cert =
-    .title = Embann arventennoù testenioù a fiziañs an aotrouniezh testeniañ
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Embann arventennoù testenioù a fiziañs an aotrouniezh testeniañ
     .style = min-width: 48em;
@@ -36,10 +32,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Barrek eo an testeni-mañ da anaout an arveriaded posteloù.
-
-certmgr-delete-cert =
-    .title = Dilemel an testeni
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Dilemel an testeni
@@ -53,9 +45,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Dafariad
-
-certmgr-override-lifetime =
-    .label = Buhez pad
 
 certmgr-token-name =
     .label = Trevnad diogelroez

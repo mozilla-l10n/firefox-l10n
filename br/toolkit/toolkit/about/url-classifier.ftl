@@ -50,5 +50,9 @@ url-classifier-disabled = Diweredekaet
 url-classifier-updating = oc'h hizivaat
 url-classifier-cannot-update = n'haller ket hizivaat
 url-classifier-success = taol berzh
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = fazi hizivaat ({ $error })
 url-classifier-download-error = fazi pellgargañ ({ $error })
