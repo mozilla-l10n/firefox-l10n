@@ -9,6 +9,8 @@ protection-report-passwords-save-passwords-button = Saglabāt paroles
     .title = Saglabāt paroles
 protection-report-passwords-manage-passwords-button = Pārvaldīt paroles
     .title = Pārvaldīt paroles
+
+
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -17,6 +19,7 @@ lockwise-scanned-text-breached-logins =
         [one] { $count } paroles, iespējams, tika atklāta datu noplūdē.
        *[other] { $count } paroles, iespējams, tika atklātas datu noplūdē.
     }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -27,8 +30,10 @@ lockwise-scanned-text-no-breached-logins =
         [one] Jūsu paroles tiek droši glabātas.1 parole tiek droši glabāta.
        *[other] Neviena parole netiek droši glabāta.
     }
+
 monitor-passwords-tooltip =
     .title = Skatīt atklātās paroles { -monitor-brand-short-name }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -38,6 +43,7 @@ info-exposed-passwords-found =
         [one] Paroles, kas tika atklātas visās noplūdēs
        *[other] Neviena parole netika atklāta noplūdēs
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.

@@ -34,9 +34,11 @@ menu-quit =
             [windows] z
            *[other] e
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Iziet no { -brand-shorter-name }
+
 menu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
@@ -194,8 +196,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Grāmatzīmes
     .accesskey = G
-menu-bookmark-edit =
-    .label = Rediģēt šo grāmatzīmi
 menu-bookmarks-all-tabs =
     .label = Saglabāt visas cilnes grāmatzīmēs…
 menu-bookmarks-toolbar =

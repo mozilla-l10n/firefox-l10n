@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Lejupielādē sertifikātus
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Lejupielādē sertifikātus
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Svarīgi: Ja aizmirsīsiet šo paroli, nevarēsiet atjau
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Aizsargātas marķierierīces autentificēšana
-protected-auth-msg = Lūdzu autentificējiet marķierierīci. Autentificēšanas metode atkarīga no ierīces tipa.
-protected-auth-token = Marķierieīce:
+## Protected authentication alert
+

@@ -21,10 +21,6 @@ certmgr-mine = Jums ir jūs identificējoši sertifikāti no šīm organizācij�
 certmgr-people = Jums failā ir šos cilvēkus identificējoši sertifikāti
 certmgr-ca = Jums failā ir šīs sertificēšanas autoritātes identificējoši sertifikāti
 
-certmgr-edit-ca-cert =
-    .title = Rediģēt CA sertifikātu uzticamības iestatījumus
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Rediģēt CA sertifikātu uzticamības iestatījumus
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Šis sertifikāts var identificēt pasta lietotājus.
 
-certmgr-delete-cert =
-    .title = Dzēst sertifikātu
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Dzēst sertifikātu
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Serveris
-
-certmgr-override-lifetime =
-    .label = Dzīves ilgums
 
 certmgr-token-name =
     .label = Drošības ierīce

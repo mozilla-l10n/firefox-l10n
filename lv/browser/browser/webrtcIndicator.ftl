@@ -27,6 +27,7 @@ webrtc-item-browser = cilne
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Nezināma lapa
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -68,6 +69,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Kontrolēt koplietošanu
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Kontrolēt koplietošanu ar "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Koplieto kameru ar "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -77,6 +79,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Koplieto kameru ar { $tabCount } cilni
            *[other] Koplieto kameru ar { $tabCount } cilnēm
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Koplieto mikrofonu ar "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -86,6 +89,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Koplieto mikrofonu ar { $tabCount } cilni
            *[other] Koplieto mikrofonu ar { $tabCount } cilnēm
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Koplieto lietotni ar "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -95,6 +99,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Koplieto lietotni ar { $tabCount } cilni
            *[other] Koplieto lietotni ar { $tabCount } cilnēm
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Koplieto ekrānu ar "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -104,6 +109,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Koplieto ekrānu ar { $tabCount } cilni
            *[other] Koplieto ekrānu ar { $tabCount } cilnēm
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Koplieto logu ar "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -113,6 +119,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Koplieto logu ar { $tabCount } cilni
            *[other] Koplieto logu ar { $tabCount } cilnēm
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Koplieto cilni ar “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -160,6 +167,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Atcerēties šo izvēli
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu ekrānam.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu cilnes audio nejautājot kuru tieši cilni koplietot.
 webrtc-reason-for-no-permanent-allow-insecure = Jūsu savienojums ar šo lapu nav drošs. Lai jūs aizsargātu, { -brand-short-name } atļaus piekļuvi tikai uz šīs darba sesijas laiku.

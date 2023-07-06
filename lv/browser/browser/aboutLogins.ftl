@@ -4,9 +4,7 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Lietotājvārdi un paroles
-login-filter =
-    .placeholder = Meklēt lietotājvārdus
-create-login-button = Izveidot jaunu pieteikšanos
+
 fxaccounts-sign-in-text = Iegūstiet savas paroles citās ierīcēs
 fxaccounts-sign-in-sync-button = Pierakstīties sinhronizācijai
 fxaccounts-avatar-button =
@@ -87,6 +85,10 @@ login-item-save-changes-button = Saglabāt izmaiņas
 login-item-save-new-button = Saglabāt
 login-item-cancel-button = Atcelt
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
 ## OS Authentication dialog
 
 
@@ -97,9 +99,11 @@ login-item-cancel-button = Atcelt
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = parādīt saglabāto paroli
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopēt saglabāto paroli
+
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = izgūt saglabātos lietotājvārdus un paroles
@@ -112,7 +116,12 @@ about-logins-export-password-os-auth-dialog-message-macosx = izgūt saglabātos 
 confirmation-dialog-cancel-button = Atcelt
 confirmation-dialog-dismiss-button =
     .title = Atcelt
+
 about-logins-confirm-remove-dialog-confirm-button = Noņemt
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Dzēst
@@ -120,13 +129,15 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Dzēst visu
        *[other] Dzēst visu
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Izgūt lietotājvārdus un paroles
 about-logins-confirm-export-dialog-confirm-button = Eksportēt…
+
 about-logins-alert-import-title = Importēšana pabeigta
 
 ## Breach Alert notification
-
-about-logins-breach-alert-learn-more-link = Uzzināt vairāk
 
 ## Vulnerable Password notification
 

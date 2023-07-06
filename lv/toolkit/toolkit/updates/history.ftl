@@ -23,5 +23,7 @@ state-header = Stāvoklis
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Sīkāka informācija
+
 update-installed-on = Uzinstalēts: { $date }
+
 update-status = Statuss: { $status }

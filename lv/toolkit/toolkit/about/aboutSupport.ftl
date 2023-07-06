@@ -110,6 +110,8 @@ media-device-channels = Kanāli
 media-device-rate = Ātrums
 media-device-latency = Aizture
 
+## Codec support table
+
 ##
 
 intl-title = Internacionalizācija un lokalizācija
