@@ -237,6 +237,9 @@ menu-bookmark-tab =
     .label = 將目前分頁加入書籤…
 menu-edit-bookmark =
     .label = 編輯此書籤…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = 搜尋書籤
 menu-bookmarks-all-tabs =
     .label = 將所有分頁加入書籤…
 menu-bookmarks-toolbar =

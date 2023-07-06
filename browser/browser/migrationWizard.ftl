@@ -58,8 +58,12 @@ migration-bookmarks-option-label = 書籤
 migration-favorites-option-label = 我的最愛
 migration-logins-and-passwords-option-label = 儲存的登入資訊與密碼
 migration-history-option-label = 瀏覽紀錄
+migration-extensions-option-label = 擴充套件
 migration-form-autofill-option-label = 表單自動填寫資料
 migration-payment-methods-option-label = 付款方式
+migration-cookies-option-label = Cookie
+migration-session-option-label = 視窗與分頁
+migration-otherdata-option-label = 其他資料
 migration-passwords-from-file-progress-header = 匯入密碼檔
 migration-passwords-from-file-success-header = 已成功匯入密碼
 migration-passwords-from-file = 正在檢查檔案中的密碼
@@ -166,6 +170,14 @@ migration-wizard-progress-success-bookmarks = { $quantity } 筆書籤
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-favorites = { $quantity } 筆最愛
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #

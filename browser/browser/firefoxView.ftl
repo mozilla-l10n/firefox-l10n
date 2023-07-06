@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = 隱藏清單
 firefoxview-overview-nav = 近期瀏覽
     .title = 近期瀏覽
+firefoxview-overview-header = 近期瀏覽
+    .title = 近期瀏覽
 
 ## History in this context refers to browser history
 
@@ -112,3 +114,25 @@ firefoxview-synced-tabs-header = 來自其他裝置的分頁
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = 檢視全部
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = 視窗 { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = 視窗 { $winID }（目前視窗）
+firefoxview-opentabs-focus-tab =
+    .title = 切換至此分頁
+firefoxview-show-more = 顯示更多
+firefoxview-show-less = 顯示更少
+firefoxview-sort-history-by-date-label = 依照日期排序
+firefoxview-sort-history-by-site-label = 依照網站排序
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+
+##
+
+firefoxview-show-all-history = 顯示所有瀏覽記錄

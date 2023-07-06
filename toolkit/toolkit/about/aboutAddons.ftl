@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = 搜尋
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安裝擴充套件與佈景主題
 list-empty-get-dictionaries-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安裝字典
 list-empty-get-language-packs-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安裝語言套件
+
+##
+
 list-empty-installed =
     .value = 您並未安裝任何此類型的附加元件
 list-empty-available-updates =
@@ -139,7 +146,7 @@ addon-category-sitepermission-title =
     .title = 網站權限
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = { $host } 的網站權限
 
 ## These are global warnings
@@ -151,6 +158,7 @@ extensions-warning-check-compatibility-button = 開啟
 extensions-warning-update-security = 已停止檢查附加元件安全性，更新程式可能不安全。
 extensions-warning-update-security-button = 開啟
     .title = 開啟附加元件更新安全性檢查
+extensions-warning-imported-addons-button = 安裝擴充套件
 
 ## Strings connected to add-on updates
 
@@ -219,6 +227,8 @@ shortcuts-duplicate-warning-message = 有超過一種情況使用 { $shortcut } 
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = 已由 { $addon } 使用
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] 顯示另外 { $numberToShow } 個
@@ -280,16 +290,9 @@ extension-enabled-heading = 啟用
 extension-disabled-heading = 停用
 theme-enabled-heading = 啟用
 theme-disabled-heading = 停用
-theme-disabled-heading2 = 儲存的佈景主題
 theme-monochromatic-heading = 配色
 theme-monochromatic-subheading = 活力滿點的 { -brand-product-name } 新配色，限時提供。
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = 嘗試 Colorways
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = 更改配色
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = 提供至 { DATETIME($expiryDate, month: "long", day: "numeric") } 為止
+theme-disabled-heading2 = 儲存的佈景主題
 plugin-enabled-heading = 啟用
 plugin-disabled-heading = 停用
 dictionary-enabled-heading = 啟用
@@ -337,6 +340,10 @@ addon-detail-updates-radio-on = 開啟
 addon-detail-updates-radio-off = 關閉
 addon-detail-update-check-label = 檢查更新
 install-update-button = 更新
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -345,6 +352,20 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = 允許後，您在隱私瀏覽模式上網時，擴充套件將可得知您的線上行為。<a data-l10n-name="learn-more">了解更多</a>
 addon-detail-private-browsing-allow = 允許
 addon-detail-private-browsing-disallow = 不允許
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = 允許
+addon-detail-quarantined-domains-disallow = 不允許
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -373,6 +394,8 @@ addon-permissions-optional = 選用功能需要下列權限:
 addon-permissions-learnmore = 了解權限的更多資訊
 recommended-extensions-heading = 推薦的擴充套件
 recommended-themes-heading = 推薦的佈景主題
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = 讓 <span data-l10n-name="hostname">{ $hostname }</span> 有下列權限:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -399,8 +422,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } 與 { -brand-short-name } { $version } 不相容。
 details-notification-incompatible-link = 更多資訊
 details-notification-unsigned-and-disabled = 無法驗證 { $name } 於 { -brand-short-name } 使用，已被停用。

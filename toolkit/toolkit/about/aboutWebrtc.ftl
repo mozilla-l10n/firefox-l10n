@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = 將 about:webrtc 儲存至
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = 顯示關閉的 PeerConnections
+about-webrtc-closed-peerconnection-disclosure-hide-msg = 隱藏關閉的 PeerConnections
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -28,12 +30,20 @@ about-webrtc-aec-logging-toggled-off-state-msg = 捕捉到的記錄檔位於: { 
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = 自動重新整理
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = 預設自動重新整理
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = 重新整理
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = 資料頻道開啟數量：
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = 資料頻道關閉數量：
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -99,6 +109,8 @@ about-webrtc-log-section-show-msg = 顯示紀錄
     .title = 點擊展開此段落
 about-webrtc-log-section-hide-msg = 隱藏紀錄
     .title = 點擊摺疊此段落
+about-webrtc-copy-report-button = 複製報告
+about-webrtc-copy-report-history-button = 複製報告紀錄
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -114,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (已關�
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = 傳送/接收：{ $codecs }
+about-webrtc-short-send-direction = 傳送：{ $codecs }
+about-webrtc-short-receive-direction = 接收：{ $codecs }
 
 ##
 
@@ -284,6 +299,9 @@ about-webrtc-hide-msg-sdp = 隱藏 SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = 顯示媒體內容環境
+about-webrtc-media-context-hide-msg = 隱藏媒體內容環境
+about-webrtc-media-context-heading = 媒體內容環境
 
 ##
 
