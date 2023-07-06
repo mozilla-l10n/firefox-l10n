@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Dernekeve
        *[other] Dernekeve
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Heke vêga bibî negirêdayî dê 1 daxistina pelî bê betalkirin. Ji dil dixwazî derkevî?
        *[other] Heke vêga bibî negirêdayî dê daxistina pela { $downloadsCount } bê betalkirin. Ji dil dixwazî derkevî?
     }
 download-ui-dont-go-offline-button = Girêdayî bimîne
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Jêbarkirinê betal bike

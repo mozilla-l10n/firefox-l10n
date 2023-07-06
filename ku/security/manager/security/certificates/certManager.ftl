@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Peywirdar
 
-certmgr-edit-ca-cert =
-    .title = CA Mîhengên Sertîfîkayê yên Ewlekariyê rist bike
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA Mîhengên Sertîfîkayê yên Ewlekariyê rist bike
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Ev sertîfîka bikarhênerên peyaman salix dike.
 
-certmgr-delete-cert =
-    .title = Sertîfîkayê jê bibe
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Sertîfîkayê jê bibe
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Pêşkêşkar
-
-certmgr-override-lifetime =
-    .label = Temen
 
 certmgr-token-name =
     .label = Amûrê Ewlekariyê

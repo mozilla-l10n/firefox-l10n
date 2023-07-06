@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = Sêrbaza Afirandina Profîlê
-    .style = width: 70em; height: 50em;
-
 create-profile-window2 =
     .title = Sêrbaza Afirandina Profîlê
     .style = min-width: 70em; min-height: 50em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] Danasîn
-       *[other] Bi xêr hatî { create-profile-window.title } 'ê
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -37,12 +27,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] Encam
-       *[other] { create-profile-window.title } Tê qedandin
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

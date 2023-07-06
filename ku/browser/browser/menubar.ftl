@@ -141,6 +141,8 @@ menu-view-full-screen =
     .label = Dîmenter Tijî
     .accesskey = T
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -171,8 +173,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Bijare
     .accesskey = B
-menu-bookmark-edit =
-    .label = Vê bijareyê serast bike
 menu-bookmarks-all-tabs =
     .label = Hemû Hilpekînan Têxe Bijareyan...
 menu-bookmarks-toolbar =

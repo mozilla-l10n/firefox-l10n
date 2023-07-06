@@ -8,3 +8,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Ji nû ve lê bigere
     .accesskey = g
+

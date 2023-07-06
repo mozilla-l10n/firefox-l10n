@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Sertîfîka tê jêbarkirin
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Sertîfîka tê jêbarkirin
     .style = min-width: 46em
@@ -57,7 +53,5 @@ set-password-reminder = Girîngî: Heke nasnavê xwe yê hilanîna sertîfîkay�
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = HNW
-protected-auth-msg = Tika ye nasnameya xwe esehî bike. Rêbaza esehîkirina nasnameyê li gorî cureyê îşaretan diguhere.
-protected-auth-token = HNW
+## Protected authentication alert
+

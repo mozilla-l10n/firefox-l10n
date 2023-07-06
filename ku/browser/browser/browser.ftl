@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Gera Nepen)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Gera Nepen)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Gera Nepen)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Gera Nepen)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -131,8 +98,10 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Peyveke lêgerînê yan jî navnîşanek
+
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
+
 urlbar-go-button =
     .tooltiptext = Here navnîşana di Darikê Cihî de
 
@@ -176,8 +145,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = Vê bijareyê serast bike
 bookmarks-toolbar-menu =
     .label = Darikê Amûran a Bijareyan
 bookmarks-toolbar-placeholder =
@@ -222,6 +189,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Ji bo { $uriHost }ê destûrê bide pencereyên pop-up
     .accesskey = P
+
 popups-infobar-block =
     .label = Ji bo { $uriHost }ê pop-upan asteng bike
     .accesskey = P
@@ -243,20 +211,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Yên hatine daxistin
+
 navbar-overflow =
     .tooltiptext = Amûrên din…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Çap bike
     .tooltiptext = Vê rûpelê çap bike… ({ $shortcut })
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Hilpekînên gerokê
+
 tabs-toolbar-new-tab =
     .label = Hilpekîna Nû
+
 tabs-toolbar-list-all-tabs =
     .label = Hemû hilpekînan lîste bike
     .tooltiptext = Hemû hilpekînan lîste bike
@@ -278,6 +251,9 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } nehişt ku ev malper rûpelê xweber nû bike.
@@ -292,6 +268,8 @@ refresh-blocked-redirect-label = { -brand-short-name } nehişt ku ev malper ber 
 ## Pop-up Notification
 
 
+## Add-on Pop-up Notifications
+
 ## Pop-up warning
 
 # Variables:
@@ -301,6 +279,7 @@ popup-warning-message =
         [one] { -brand-short-name }ê asteng kir ku ev malper popupekê veke.
        *[other] { -brand-short-name }ê asteng kir ku ev malper { $popupCount } popupan veke.
     }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

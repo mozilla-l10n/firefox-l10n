@@ -167,14 +167,6 @@ main-context-menu-audio-email =
     .label = Audioyê bi epeyamê bişîne…
     .accesskey = A
 
-main-context-menu-plugin-play =
-    .label = Vê pêvekê çalak bike
-    .accesskey = a
-
-main-context-menu-plugin-hide =
-    .label = Vê pêvekê veşêre
-    .accesskey = v
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -204,10 +196,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Çarçoveyê Nû Nîşan Bide
     .accesskey = a
-
-main-context-menu-frame-bookmark =
-    .label = Vê Çarçoveyê Têxe Nava Bijareyan...
-    .accesskey = y
 
 main-context-menu-frame-save-as =
     .label = Çarçoveyê Cuda Tomar Bike...
