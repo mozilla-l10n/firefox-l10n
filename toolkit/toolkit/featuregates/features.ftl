@@ -7,17 +7,11 @@
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-constructable-stylesheets =
-    .label = CSS: Constructable Stylesheets
 
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Zagonski predpomnilnik about:home
-
-experimental-features-cookie-samesite-schemeful-description = Obravnavaj piškotke iste domene, a z različnimi shemami (npr. http://example.com in https://example.com) kot piškotke več spletnih mest, ne le enega. Izboljša varnost, vendar lahko povzroči nedelovanje nekaterih strani.
 
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =

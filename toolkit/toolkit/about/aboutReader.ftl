@@ -4,6 +4,7 @@
 
 about-reader-loading = Nalaganje …
 about-reader-load-error = Nalaganje članka ni uspelo
+
 about-reader-color-scheme-light = Svetlo
     .title = Svetla barvna shema
 about-reader-color-scheme-dark = Temno
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Barvna shema Sepia
 about-reader-color-scheme-auto = Samodejno
     .title = Samodejna barvna shema
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Odpri meni za { $extensionName }
+
 unified-extensions-item-message-manage = Upravljanje razširitve
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Pripni v orodno vrstico
+
 unified-extensions-context-menu-manage-extension =
     .label = Upravljaj razširitev
+
 unified-extensions-context-menu-remove-extension =
     .label = Odstrani razširitev
+
 unified-extensions-context-menu-report-extension =
     .label = Prijavi razširitev
+
 unified-extensions-context-menu-move-widget-up =
     .label = Premakni gor
+
 unified-extensions-context-menu-move-widget-down =
     .label = Premakni dol
 

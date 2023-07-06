@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Za uporabo { -relay-brand-name(sklon: "rodilni
 firefox-relay-get-unlimited-masks =
     .label = Upravljanje mask
     .accesskey = U
-firefox-relay-opt-in-title = Zaščitite svoj e-poštni naslov
-firefox-relay-opt-in-subtitle = Dodajte { -relay-brand-name }
-firefox-relay-generate-mask-title = Zaščitite svoj e-poštni naslov
-firefox-relay-generate-mask-subtitle = Ustvari masko { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Nadaljuj
-    .accesskey = d
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Zaščitite svoj e-poštni naslov:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
