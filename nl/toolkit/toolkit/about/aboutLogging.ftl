@@ -35,12 +35,17 @@ about-logging-with-profiler-stacks-checkbox = Stacktraces voor logboekberichten 
 about-logging-preset-networking-label = Netwerk
 about-logging-preset-networking-description = Logboekmodules om netwerkproblemen te diagnosticeren
 about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Logboekmodules om cookieproblemen te diagnosticeren
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Logboekmodules om WebSocketproblemen te diagnosticeren
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Logboekmodules om HTTP/3- en QUIC-problemen te diagnosticeren
 about-logging-preset-media-playback-label = Media afspelen
 about-logging-preset-media-playback-description = Logboekmodules om problemen met het afspelen van media te diagnosticeren (geen problemen met videoconferenties)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Logboekmodules om WebRTC-aanroepen te diagnosticeren
 about-logging-preset-custom-label = Aangepast
 about-logging-preset-custom-description = Logboekmodules handmatig geselecteerd
-
 # Error handling
 about-logging-error = Fout:
 
@@ -54,5 +59,4 @@ about-logging-unknown-profiler-preset = Onbekende voorinstelling voor profiler �
 about-logging-unknown-option = Onbekende about:logging-optie ‘{ $k }’
 about-logging-configuration-url-ignored = Configuratie-URL genegeerd
 about-logging-file-and-profiler-override = Kan niet tegelijkertijd bestandsuitvoer forceren en profileropties overschrijven
-
 about-logging-configured-via-url = Optie geconfigureerd via URL
