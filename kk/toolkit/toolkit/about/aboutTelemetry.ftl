@@ -130,12 +130,6 @@ about-telemetry-category-header = санат
 about-telemetry-method-header = тәсіл
 about-telemetry-object-header = объект
 about-telemetry-extra-header = қосымша
-about-telemetry-origin-section = Қайнар көздер телеметриясы
-about-telemetry-origin-origin = қайнар көзі
-about-telemetry-origin-count = саны
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox қайнар көзі телеметриясы</a> жіберуге дейін деректерді шифрлейді, осылайша { $telemetryServerOwner } нәрселерді санай алады, бірақ, берілген { -brand-product-name } оған үлесін қосқан ба, соны біле алмайды. (<a data-l10n-name="prio-blog-link">көбірек білу</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } процес

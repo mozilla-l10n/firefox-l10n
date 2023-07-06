@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Тәуелсіз дауыстар
-colorway-collection-independent-voices-description = Түс мәдениетті өзгерте алады. Соңғы түстер әлемді жақсырақ орынға айналдыратын дауыстарды атап өтеді.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Мәдениетті өзгертетін түстер.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Плеймейкер

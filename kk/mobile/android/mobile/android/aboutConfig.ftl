@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Іздеу
 config-new-pref-name =
     .placeholder = Аты
+
 config-new-pref-value-boolean = Логикалық
 config-new-pref-value-string = Жол
 config-new-pref-value-integer = Бүтін
+
 config-new-pref-string =
     .placeholder = Жолды енгізіңіз
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Бас тарту
 config-new-pref-create-button = Жасау
 config-new-pref-change-button = Өзгерту
+
 config-pref-toggle-button = Ауыстыру
 config-pref-reset-button = Тастау
+
 config-context-menu-copy-pref-name =
     .label = Атын көшіріп алу
 config-context-menu-copy-pref-value =

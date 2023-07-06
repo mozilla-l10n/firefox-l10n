@@ -23,8 +23,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Жаңа жекелік терезесінде ашу
     .accesskey = к
+
 places-empty-bookmarks-folder =
     .label = (Бос)
+
 places-add-bookmark =
     .label = Бетбелгіні қосу…
     .accesskey = б
@@ -37,6 +39,7 @@ places-add-folder =
 places-add-separator =
     .label = Ажыратқышты қосу
     .accesskey = ы
+
 places-view =
     .label = Қарау
     .accesskey = р
@@ -55,12 +58,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Күн мен сайт бойынша
     .accesskey = м
+
 places-history-search =
     .placeholder = Тарихтан іздеу
 places-history =
     .aria-label = Тарих
 places-bookmarks-search =
     .placeholder = Бетбелгілерден іздеу
+
 places-delete-domain-data =
     .label = Бұл парақты өшіру
     .accesskey = Б
@@ -93,18 +98,22 @@ places-delete-page =
            *[other] Беттерді өшіру
         }
     .accesskey = ш
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Басқарылатын бетбелгілер
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Ішкі бума
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Басқа бетбелгілер
+
 places-show-in-folder =
     .label = Бумада көрсету
     .accesskey = у
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -114,6 +123,7 @@ places-delete-bookmark =
            *[other] Бетбелгілерді өшіру
         }
     .accesskey = ш
+
 # Variables:
 #   $count (number) - The number of bookmarks being added.
 places-create-bookmark =
@@ -123,98 +133,125 @@ places-create-bookmark =
            *[other] Беттерді бетбелгілерге қосу…
         }
     .accesskey = б
+
 places-untag-bookmark =
     .label = Тегті өшіру
     .accesskey = р
+
 places-manage-bookmarks =
     .label = Бетбелгілерді басқару
     .accesskey = с
+
 places-forget-about-this-site-confirmation-title = Бұл сайтты ұмыту
-# Variables:
-# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-message = Бұл әрекет { $hostOrBaseDomain } үшін қатысты барлық деректерді, соның ішінде тарих, парольдер, cookie файлдары, кэш және мазмұн баптауларын өшіреді. Жалғастырғыңыз келетініне сенімдісіз бе?
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = Бұл әрекет { $hostOrBaseDomain } үшін қатысты барлық деректерді, соның ішінде тарих, cookie файлдары, кэш және мазмұн баптауларын өшіреді. Жалғастырғыңыз келетініне сенімдісіз бе?
+
 places-forget-about-this-site-forget = Ұмыту
-places-library =
-    .title = Жинақталған
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = Жинақталған
+
 places-organize-button =
     .label = Басқару
     .tooltiptext = Бетбелгілеріңізді басқару
     .accesskey = с
+
 places-organize-button-mac =
     .label = Басқару
     .tooltiptext = Бетбелгілеріңізді басқару
+
 places-file-close =
     .label = Жабу
     .accesskey = Ж
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = Түрі
     .tooltiptext = Көрінісіңізді ауыстыру
     .accesskey = р
+
 places-view-button-mac =
     .label = Түрі
     .tooltiptext = Көрінісіңізді ауыстыру
+
 places-view-menu-columns =
     .label = Бағандарды көрсету
     .accesskey = к
+
 places-view-menu-sort =
     .label = Сұрыптау
     .accesskey = С
+
 places-view-sort-unsorted =
     .label = Сұрыптаусыз
     .accesskey = п
+
 places-view-sort-ascending =
     .label = Алфавит бойынша сұрыптау
     .accesskey = б
+
 places-view-sort-descending =
     .label = Алфавит бойынша кері сұрыптау
     .accesskey = т
+
 places-maintenance-button =
     .label = Импорт және резервілеу
     .tooltiptext = Бетбелгілеріңізді импорттау мен қор көшіру
     .accesskey = И
+
 places-maintenance-button-mac =
     .label = Импорт және резервілеу
     .tooltiptext = Бетбелгілеріңізді импорттау мен қор көшіру
+
 places-cmd-backup =
     .label = Резервті көшіру…
     .accesskey = в
+
 places-cmd-restore =
     .label = Қалпына келтіру
     .accesskey = к
+
 places-cmd-restore-from-file =
     .label = Файлды таңдау…
     .accesskey = д
+
 places-import-bookmarks-from-html =
     .label = Бетбелгілерді HTML ішінен импорттау…
     .accesskey = и
+
 places-export-bookmarks-to-html =
     .label = Бетбелгілерді HTML ішіне экспорттау…
     .accesskey = э
+
 places-import-other-browser =
     .label = Мәліметті басқа браузерден импорттау…
     .accesskey = М
+
 places-view-sort-col-name =
     .label = Аты
+
 places-view-sort-col-tags =
     .label = Белгілер
+
 places-view-sort-col-url =
     .label = Орналасқан жері
+
 places-view-sort-col-most-recent-visit =
     .label = Ең соңғы шолу
+
 places-view-sort-col-visit-count =
     .label = Қараулар саны
+
 places-view-sort-col-date-added =
     .label = Қосылған
+
 places-view-sort-col-last-modified =
     .label = Соңғы рет өзгертілген
+
 places-view-sortby-name =
     .label = Аты бойынша сұрыптау
     .accesskey = А
@@ -236,13 +273,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = Тегтер бойынша сұрыптау
     .accesskey = Т
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = Алдыңғы бетке қайту
+
 places-forward-button =
     .tooltiptext = Келесі бетке өту
+
 places-details-pane-select-an-item-description = Қарап шығу мен қасиеттерін түзету үшін элементті таңдаңыз
+
 places-details-pane-no-items =
     .value = Мүшелері жоқ
 # Variables:

@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = Кеңейту деректерді оқи және өзгерте алмайды
+
 origin-controls-quarantined =
     .label = Кеңейту үшін деректерді оқу және өзгертуге рұқсат етілмеген
+
 origin-controls-options =
     .label = Кеңейту деректерді оқи және өзгерте алады:
+
 origin-controls-option-all-domains =
     .label = Барлық сайттарда
+
 origin-controls-option-when-clicked =
     .label = Тек шерткенде ғана
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,11 +34,17 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Бұл сайттағы деректерді оқи және өзгерте алмайды
+
 origin-controls-state-always-on = Бұл сайттағы деректерді оқи және өзгерте алады
+
 origin-controls-state-when-clicked = Деректерді оқу және өзгерту үшін рұқсат керек
+
 origin-controls-state-hover-run-visit-only = Тек осы реттік шолу үшін орындау
+
 origin-controls-state-runnable-hover-open = Кеңейтуді ашу
+
 origin-controls-state-runnable-hover-run = Кеңейтуді орындау
+
 origin-controls-state-temporary-access = Бұл шолу үшін деректерді оқи және өзгерте алады
 
 ## Extension's toolbar button.
@@ -43,6 +54,7 @@ origin-controls-state-temporary-access = Бұл шолу үшін деректе
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -50,3 +62,4 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Керек рұқсаттар
+

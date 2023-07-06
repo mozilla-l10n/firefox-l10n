@@ -34,13 +34,6 @@ about-networking-messages-received = Алынған хабарламалар
 about-networking-bytes-sent = Жіберілген байттар
 about-networking-bytes-received = Алынған байттар
 about-networking-logging = Журналдау
-about-networking-log-tutorial = Бұл құралды қолдану нұсқаулығын <a data-l10n-name="logging">HTTP Logging</a> адресінен қараңыз.
-about-networking-current-log-file = Ағымдағы журналдау файлы:
-about-networking-current-log-modules = Ағымдағы журналдау модульдері:
-about-networking-set-log-file = Журналдау файлын орнату
-about-networking-set-log-modules = Журналдау модульдерін орнату
-about-networking-start-logging = Журналдауды бастау
-about-networking-stop-logging = Журналдауды аяқтау
 about-networking-dns-lookup = DNS іздеуі
 about-networking-dns-lookup-button = Шешу
 about-networking-dns-domain = Домен:
