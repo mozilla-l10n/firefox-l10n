@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Manylion yr Awdurdod (AIA)
 certificate-viewer-certificate-policies = Polisïau Tystysgrif
 certificate-viewer-embedded-scts = SCTs mewnblanedig
 certificate-viewer-crl-endpoints = Diweddbwynt CRL
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Llwytho i lawr
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (tystysgrif)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadwyn)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Mae'r estyniad hwn wedi'i nodi fel un hanfodol, sy'n golygu bod yn rhaid i gleientiaid wrthod y dystysgrif os nad ydyn nhw'n ei deall.

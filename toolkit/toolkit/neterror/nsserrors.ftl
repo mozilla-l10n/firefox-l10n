@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Digwyddodd gwall wrth gysylltu â { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Cod gwall: { $error }
-
 psmerr-ssl-disabled = Methu cysylltu'n ddiogel oherwydd bod y protocol SSL wedi ei analluogi.
 psmerr-ssl2-disabled = Methu cysylltu'n ddiogel oherwydd bod y wefan'n defnyddio hen fersiwn anniogel o brotocol SSL.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Heb ffurfweddu algorithm llofnod TL
 ssl-error-unsupported-signature-algorithm = Mae'r cyfoed yn defnyddio cyfuniad o lofnod a'r algorithm hash sydd ddim yn cael ei gynnal.
 ssl-error-missing-extended-master-secret = Mae'r cyfoed wedi ceisio ailgychwyn heb yr estyniad extended_master_secret cywir.
 ssl-error-unexpected-extended-master-secret = Mae'r cyfoed wedi ceisio ailgychwyn gyda estyniad extended_master_secret annisgwyl.
+
 sec-error-io = Digwyddodd gwall I/O yn ystod dilysu diogelwch.
 sec-error-library-failure = methiant llyfrgell diogelwch.
 sec-error-bad-data = llyfrgell diogelwch: derbyniwyd data gwael.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Methu dadgryptio: nid yw amgryptiad yr algorit
 sec-error-pkcs7-bad-signature = Methodd dilysu llofnod: heb ganfod llofnodwr, wedi canfod gormod o lofnodwyr neu data amhriodol neu llwgr.
 sec-error-unsupported-keyalg = Allwedd algorithm heb ei gynnal neu anhysbys.
 sec-error-decryption-disallowed = Methu dadgryptio: wedi ei amgryptio gan ddefnyddio algorithm gwaharddedig neu faint allwedd.
-xp-sec-fortezza-bad-card = Nid yw cerdyn Fortezza wedi ei gychwyn yn gywir. Tynnwch y cerdyn a'i ddychwelyd ar y cyhoeddwr.
-xp-sec-fortezza-no-card = Heb ganfod cerdyn Fortezza
-xp-sec-fortezza-none-selected = Heb ddewis cerdyn Fortezza
-xp-sec-fortezza-more-info = Dewiswch bersonoliaeth i dderbyn mwy o wybodaeth amdano
-xp-sec-fortezza-person-not-found = Heb ddarganfod personoliaeth
-xp-sec-fortezza-no-more-info = Dim rhagor o wybodaeth ar Personoliaeth hwnnw
-xp-sec-fortezza-bad-pin = Pin annilys
-xp-sec-fortezza-person-error = Methu cychwyn personoliaethau Fortezza.
 sec-error-no-krl = Heb ganfod KRL ar gyfer tystysgrif y wefan.
 sec-error-krl-expired = Mae KRL y wefan wedi dod i ben.
 sec-error-krl-bad-signature = Mae llofnod annilys i KRL tystysgrif y wefan.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Mae tystysgrif gyda'r un llysenw yn bodoli e
 sec-error-key-nickname-collision = Mae allwedd gyda'r un llysenw yn bodoli eisoes.
 sec-error-safe-not-created = gwall wrth greu gwrthrych diogel
 sec-error-baggage-not-created = gwall werth greu gwrthrych pecyn
-xp-java-remove-principal-error = Methu tynnu'r prif
-xp-java-delete-privilege-error = Methu dileu'r fraint
-xp-java-cert-not-exists-error = Nid oes gan y prif dystysgrif
 sec-error-bad-export-algorithm = Nid oes caniatâd i'r algorithm angenrheidiol.
 sec-error-exporting-certificates = Gwall wrth geisio allforio tystysgrifau.
 sec-error-importing-certificates = Gwall wrth geisio mewnforio tystysgrifau.
@@ -338,6 +319,7 @@ sec-error-locked-password = Mae'r cyfrinair wedi ei gloi.
 sec-error-unknown-pkcs11-error = Gwall PKCS #11 anhysbys.
 sec-error-bad-crl-dp-url = URL annilys neu heb ei gynnal yn enw pwynt dosbarthiad CRL.
 sec-error-cert-signature-algorithm-disabled = Cafodd y dystysgrif ei llofnodi gan ddefnyddio algorithm llofnod sydd wedi ei analluogi am nad yw'n ddiogel.
+
 mozilla-pkix-error-key-pinning-failure = Mae'r gweinydd yn defnyddio pinio allwedd (HPKP) ond nid oedd modd cynhyrchu cadwyn tystysgrif ymddiriedig sy'n cyd-fynd a'r set pinnau. Nid oes mod gwrthwneud torri pinio allweddi.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Mae'r gweinydd yn defnyddio tystysgrif gydag estyniad cyfyngiadau sylfaenol sy'n ei ddynodi fel yr awdurdod tystysgrifo. Ar gyfer tystysgrifau sydd wedi eu rhyddhau'n briodol, ni ddylai hyn fod yn wir.
 mozilla-pkix-error-inadequate-key-size = Cyflwynodd y gweinydd dystysgrif sydd ag allwedd sy'n rhy fach i greu cysylltiad diogel.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Cyflwynodd y gweinydd dystysgrif s
 mozilla-pkix-error-empty-issuer-name = Cyflwynodd y gweinydd dystysgrif gydag enw cyhoeddwr penodol gwag.
 mozilla-pkix-error-additional-policy-constraint-failed = Methodd cyfyngiad polisi ychwanegol wrth ddilysu'r dystysgrif hon.
 mozilla-pkix-error-self-signed-cert = Nid oes modd ymddiried yn y dystysgrif am ei fod wedi ei hunanlofnodi.
+
+xp-java-remove-principal-error = Methu tynnu'r prif
+xp-java-delete-privilege-error = Methu dileu'r fraint
+xp-java-cert-not-exists-error = Nid oes gan y prif dystysgrif
+
+xp-sec-fortezza-bad-card = Nid yw cerdyn Fortezza wedi ei gychwyn yn gywir. Tynnwch y cerdyn a'i ddychwelyd ar y cyhoeddwr.
+xp-sec-fortezza-no-card = Heb ganfod cerdyn Fortezza
+xp-sec-fortezza-none-selected = Heb ddewis cerdyn Fortezza
+xp-sec-fortezza-more-info = Dewiswch bersonoliaeth i dderbyn mwy o wybodaeth amdano
+xp-sec-fortezza-person-not-found = Heb ddarganfod personoliaeth
+xp-sec-fortezza-no-more-info = Dim rhagor o wybodaeth ar Personoliaeth hwnnw
+xp-sec-fortezza-bad-pin = Pin annilys
+xp-sec-fortezza-person-error = Methu cychwyn personoliaethau Fortezza.

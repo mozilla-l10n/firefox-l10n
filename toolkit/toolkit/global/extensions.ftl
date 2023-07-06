@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Diddymu
     .accesskey = D
+
 webext-perms-sideload-text = Mae rhaglen arall ar eich cyfrifiadur wedi gosod ychwanegyn y gall effeithio ar eich porwr. Darllenwch geisiadau caniatâd yr ychwanegyn a dewis i Alluogi neu Ddiddymu (ei adael wedi ei analluogi).
 webext-perms-sideload-text-no-perms = Mae rhaglen arall ar eich cyfrifiadur wedi gosod ychwanegyn y gall effeithio ar eich porwr. Darllenwch geisiadau caniatâd yr ychwanegyn a dewis i Alluogi neu Ddiddymu (i'w adael wedi ei analluogi).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Diddymu
     .accesskey = D
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Mae { $extension } wedi'i ddiweddaru. Rhaid i chi gymeradwyo caniatâd newydd cyn y bydd y fersiwn wedi'i ddiweddaru'n cael ei osod. Bydd dewis “Diddymu” yn cynnal eich fersiwn estyniad cyfredol. Bydd gan yr estyniad hwn ganiatâd i:
 webext-perms-update-accept =
     .label = Diweddaru
     .accesskey = D
+
 webext-perms-optional-perms-list-intro = Mae eisiau:
 webext-perms-optional-perms-allow =
     .label = Caniatáu
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Gwrthod
     .accesskey = G
+
 webext-perms-host-description-all-urls = Cael mynediad at eich data ar gyfer pob gwefan
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Cael mynediad at eich data ym mhob gwefan ym mharth { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -65,6 +71,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Cael mynediad at eich data yn { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

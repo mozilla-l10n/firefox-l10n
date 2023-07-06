@@ -38,9 +38,11 @@ menu-quit =
             [windows] G
            *[other] G
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Gadael { -brand-shorter-name }
+
 menu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
@@ -224,8 +226,6 @@ menu-history-undo-menu =
     .label = Tabiau Wedi'u Cau'n Ddiweddar
 menu-history-undo-window-menu =
     .label = Ffenestri wedi eu Cau yn Ddiweddar
-menu-history-reopen-all-tabs = Ailagor Pob Tab
-menu-history-reopen-all-windows = Ailagor Pob Ffenestr
 
 ## Bookmarks Menu
 
@@ -234,10 +234,6 @@ menu-bookmarks-menu =
     .accesskey = T
 menu-bookmarks-manage =
     .label = Rheoli Nodau Tudalen
-menu-bookmark-current-tab =
-    .label = Gosod Nod Tudalen i'r Tab Cyfredol
-menu-bookmark-edit =
-    .label = Golygu'r Nod Tudalen
 menu-bookmark-tab =
     .label = Gosod Nod Tudalen i'r Tab Cyfredol…
 menu-edit-bookmark =

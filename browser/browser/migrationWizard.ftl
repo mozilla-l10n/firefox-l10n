@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Mewnforio Data Porwr
 migration-wizard-selection-list = Dewiswch y data yr hoffech ei fewnforio.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Dewiswch y data yr hoffech ei fewnforio.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,21 +55,26 @@ migration-selected-data-label = Mewnforio data a ddewiswyd
 
 migration-select-all-option-label = Dewis popeth
 migration-bookmarks-option-label = Nodau Tudalen
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Ffefrynnau
+
 migration-logins-and-passwords-option-label = Mewngofnodion a chyfrineiriau a gadwyd
 migration-history-option-label = Hanes pori
 migration-form-autofill-option-label = Data awtolenwi ffurflenni
 migration-payment-methods-option-label = Dulliau talu
+
 migration-cookies-option-label = Cwcis
 migration-session-option-label = Ffenestri a thabiau
 migration-otherdata-option-label = Data arall
+
 migration-passwords-from-file-progress-header = Mewnforio Ffeil Cyfrineiriau
 migration-passwords-from-file-success-header = Cyfrineiriau wedi'u Mewnforio'n Llwyddiannus
 migration-passwords-from-file = Yn gwirio ffeil am gyfrineiriau
 migration-passwords-new = Cyfrineiriau newydd
 migration-passwords-updated = Cyfrineiriau presennol
+
 migration-passwords-from-file-picker-title = Mewnforio Ffeil Cyfrineiriau
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -83,6 +90,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dogfen TSV
        *[other] Ffeil TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -97,6 +105,7 @@ migration-wizard-progress-success-new-passwords =
         [many] { $newEntries } wedi'u hychwanegu
        *[other] { $newEntries } wedi'u hychwanegu
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -111,11 +120,14 @@ migration-wizard-progress-success-updated-passwords =
         [many] { $updatedEntries } wedi'u diweddaru
        *[other] { $updatedEntries } wedi'u diweddaru
     }
+
 migration-bookmarks-from-file-picker-title = Mewnforio Ffeil Nodau Tudalen
 migration-bookmarks-from-file-progress-header = Yn Mewnforio Nodau Tudalen
 migration-bookmarks-from-file = Nodau Tudalen
 migration-bookmarks-from-file-success-header = Nodau Tudalen wedi'u Mewnforio'n Llwyddiannus
+
 migration-bookmarks-from-file-no-valid-data = Nid yw'r ffeil yn cynnwys unrhyw ddata nod tudalen. Dewiswch ffeil arall.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -123,9 +135,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Dogfen HTML
        *[other] Ffeil HTML
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Ffeil JSON
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -140,12 +154,14 @@ migration-wizard-progress-success-new-bookmarks =
         [many] { $newEntries } nod tudalen
        *[other] { $newEntries } nod tudalen
     }
+
 migration-import-button-label = Mewnforio
 migration-choose-to-import-from-file-button-label = Mewnforio o Ffeil
 migration-import-from-file-button-label = Dewis Ffeil
 migration-cancel-button-label = Diddymu
 migration-done-button-label = Gorffen
 migration-continue-button-label = Parhau
+
 migration-wizard-import-browser-no-browsers = Nid yw { -brand-short-name } wedi gallu dod o hyd i unrhyw raglenni sy'n cynnwys data nod tudalen, hanes neu gyfrinair.
 migration-wizard-import-browser-no-resources = Bu gwall. Nid oedd { -brand-short-name } wedi gallu dod o hyd i unrhyw ddata i'w fewnforio o'r proffil porwr hwnnw.
 
@@ -156,6 +172,7 @@ migration-wizard-import-browser-no-resources = Bu gwall. Nid oedd { -brand-short
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = nodau tudalen
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = ffefrynnau
@@ -172,6 +189,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Yn mewnforio…
 migration-wizard-progress-icon-completed =
     .aria-label = Cwblhawyd
+
 migration-safari-password-import-header = Mewnforio Cyfrineiriau o Safari
 migration-safari-password-import-steps-header = I fewnforio cyfrineiriau Safari:
 migration-safari-password-import-step1 = Yn Safari, agorwch ddewislen “Safari” ac ewch i Preferences > Passwords
@@ -180,6 +198,8 @@ migration-safari-password-import-step3 = Cadw'r ffeil cyfrineiriau
 migration-safari-password-import-step4 = Defnyddiwch “Select File” isod i ddewis y ffeil cyfrineiriau a gadwyd gennych
 migration-safari-password-import-skip-button = Hepgor
 migration-safari-password-import-select-button = Dewis Ffeil
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -194,6 +214,7 @@ migration-wizard-progress-success-bookmarks =
         [many] { $quantity } nod tudalen
        *[other] { $quantity } nod tudalen
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -210,6 +231,13 @@ migration-wizard-progress-success-favorites =
         [many] { $quantity } ffefryn
        *[other] { $quantity } ffefryn
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -224,6 +252,7 @@ migration-wizard-progress-success-passwords =
         [many] { $quantity } cyfrinair
        *[other] { $quantity } cyfrinair
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -238,7 +267,9 @@ migration-wizard-progress-success-history =
         [many] O'r { $maxAgeInDays } niwrnod diwethaf
        *[other] O'r { $maxAgeInDays } diwrnod diwethaf
     }
+
 migration-wizard-progress-success-formdata = Hanes ffurflen
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -253,6 +284,7 @@ migration-wizard-progress-success-payment-methods =
         [many] { $quantity } dull talu
        *[other] { $quantity } dull talu
     }
+
 migration-wizard-safari-permissions-sub-header = I fewnforio nodau tudalen a hanes pori Safari:
 migration-wizard-safari-instructions-continue = Dewis “Continue”
 migration-wizard-safari-instructions-folder = Dewiswch ffolder Safari yn y rhestr a dewis “Open”

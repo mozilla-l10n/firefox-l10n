@@ -23,5 +23,7 @@ state-header = Sir/Talaith
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Manylion
+
 update-installed-on = Gosodwyd ar: { $date }
+
 update-status = Statws: { $status }

@@ -8,16 +8,20 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Adrodd am { $addon-name }
+
 abuse-report-title-extension = Adroddwch yr Estyniad hwn i { -vendor-short-name }
 abuse-report-title-sitepermission = Adroddwch ychwanegyn Caniatâd y Wefan hon i { -vendor-short-name }
 abuse-report-title-theme = Adroddwch y Thema hon i { -vendor-short-name }
 abuse-report-subtitle = Beth yw'r broblem?
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = gan <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore =
     Ddim yn siŵr pa fater i'w ddewis?
     <a data-l10n-name="learnmore-link">Dysgwch fwy am adrodd ar estyniadau a themâu</a>
+
 abuse-report-submit-description = Disgrifiwch y broblem (dewisol)
 abuse-report-textarea =
     .placeholder = Mae'n haws i ni fynd i'r afael â phroblem os oes gennym fanylion penodol. Disgrifiwch yr hyn rydych chi'n ei brofi. Diolch i chi am ein helpu i gadw'r we'n iach.
@@ -62,14 +66,18 @@ abuse-report-messagebar-action-cancel = Diddymu
 
 abuse-report-damage-reason-v2 = Fe wnaeth niweidio fy nghyfrifiadur neu gyfaddawdu ar fy nata
 abuse-report-damage-example = Enghraifft: Chwistrellu data maleisus neu ddata wedi'i ddwyn
+
 abuse-report-spam-reason-v2 = Mae'n cynnwys sbam neu'n mewnosod hysbysebu dieisiau
 abuse-report-spam-example = Enghraifft: Mewnosod hysbysebion ar dudalennau gwe
+
 abuse-report-settings-reason-v2 = Newidiodd fy mheiriant chwilio, hafan, neu dab newydd heb roi gwybod na gofyn imi
 abuse-report-settings-suggestions = Cyn adrodd ar yr estyniad, gallwch roi cynnig ar newid eich gosodiadau:
 abuse-report-settings-suggestions-search = Newid eich gosodiadau chwilio rhagosodedig
 abuse-report-settings-suggestions-homepage = Newidiwch eich tudalen cartref a'ch tab newydd
+
 abuse-report-deceptive-reason-v2 = Mae'n honni ei fod yn rhywbeth nad ydyw
 abuse-report-deceptive-example = Enghraifft: Disgrifiad neu ddelweddau camarweiniol
+
 abuse-report-broken-reason-extension-v2 = Nid yw'n gweithio, mae'n torri gwefannau, neu'n arafu { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Nid yw'n gweithio, mae'n torri gwefannau, neu'n arafu { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nid yw'n gweithio nac yn torri dangosydd y porwr
@@ -86,11 +94,14 @@ abuse-report-broken-suggestions-theme =
     Mae'n edrych fel eich bod wedi adnabod gwall. Yn ogystal â chyflwyno adroddiad yma, y ffordd orau
     orau i ddatrys mater ymarferoldeb wedi'i ddatrys yw cysylltu â datblygwr y thema.
     <a data-l10n-name="support-link"> Ewch i wefan y thema </a> i gael gwybodaeth y datblygwr.
+
 abuse-report-policy-reason-v2 = Mae'n cynnwys cynnwys atgas, treisgar neu anghyfreithlon
 abuse-report-policy-suggestions =
     Sylw: Rhaid rhoi gwybod am faterion hawlfraint a nod masnach mewn proses ar wahân.
     <a data-l10n-name="report-infringement-link"> Defnyddiwch y cyfarwyddiadau hyn</a> i
     adrodd am y broblem.
+
 abuse-report-unwanted-reason-v2 = Doeddwn i erioed ei eisiau ac nid wyf yn gwybod sut i gael gwared arno
 abuse-report-unwanted-example = Enghraifft: Gosodwyd y rhaglen heb fy nghaniatâd
+
 abuse-report-other-reason = Rhywbeth arall

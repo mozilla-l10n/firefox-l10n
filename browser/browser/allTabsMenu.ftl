@@ -5,10 +5,13 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Chwilio’r tabiau
+
 all-tabs-menu-new-user-context =
     .label = Tab Cynhwysydd Newydd
+
 all-tabs-menu-hidden-tabs =
     .label = Tabiau Cudd
+
 all-tabs-menu-manage-user-context =
     .label = Rheoli Cynwysyddion
     .accesskey = R

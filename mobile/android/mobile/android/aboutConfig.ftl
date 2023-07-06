@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Chwilio
 config-new-pref-name =
     .placeholder = Enw
+
 config-new-pref-value-boolean = Booleaidd
 config-new-pref-value-string = Llinell
 config-new-pref-value-integer = Cyfanrif
+
 config-new-pref-string =
     .placeholder = Rhowch linyn
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Diddymu
 config-new-pref-create-button = Creu
 config-new-pref-change-button = Newid
+
 config-pref-toggle-button = Toglo
 config-pref-reset-button = Ailosod
+
 config-context-menu-copy-pref-name =
     .label = Copïo Enw
 config-context-menu-copy-pref-value =

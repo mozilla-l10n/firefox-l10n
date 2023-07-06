@@ -5,8 +5,10 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Cyfieithu'r dudalen hon
+
 translations-panel-settings-button =
     .aria-label = Rheoli gosodiadau cyfieithu
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -18,6 +20,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Rheoli ieithoedd
 translations-panel-settings-about = Ynghylch cyfieithiadau yn { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -25,6 +28,7 @@ translations-panel-settings-always-translate-language =
     .label = Cyfieithu { $language } bob tro
 translations-panel-settings-always-translate-unknown-language =
     .label = Cyfieithu'r iaith hon bob tro
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -32,6 +36,7 @@ translations-panel-settings-never-translate-language =
     .label = Peidio cyfieithu { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Peidio byth cyfieithu'r iaith hon
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Peidio byth cyfieithu'r wefan hon
@@ -46,11 +51,13 @@ translations-panel-translate-button-loading =
     .label = Arhoswch…
 translations-panel-translate-cancel =
     .label = Diddymu
+
 translations-panel-error-translating = Bu anhawster wrth gyfieithu. Ceisiwch eto.
 translations-panel-error-load-languages = Methu llwytho'r ieithoedd
 translations-panel-error-load-languages-hint = Gwiriwch eich cysylltiad rhyngrwyd a rhowch gynnig arall arni.
 translations-panel-error-load-languages-hint-button =
     .label = Ceisiwch eto
+
 translations-panel-error-unsupported = Nid yw cyfieithiad ar gael ar gyfer y dudalen hon
 translations-panel-error-dismiss-button =
     .label = Iawn
@@ -108,6 +115,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Bu anhawster wrth lwytho'r ffeiliau iaith i lawr. Ceisiwch eto.
 translations-manage-error-delete = Bu gwall wrth ddileu'r ffeiliau iaith. Ceisiwch eto.
 translations-manage-error-list = Wedi methu â chael y rhestr o ieithoedd sydd ar gael i'w cyfieithu. Ail-lwythwch y dudalen i geisio eto.
+
 translations-settings-title =
     .title = Gosodiadau Cyfieithiadau
     .style = min-width: 36em

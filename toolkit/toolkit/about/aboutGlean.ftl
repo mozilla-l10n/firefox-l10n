@@ -5,26 +5,20 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Ynghylch Glean
-about-glean-description = Mae'r <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> yn llyfrgell casglu data sy'n cael ei ddefnyddio o fewn cynnyrch Mozilla. Mae'r dudalen hon ar gyfer datblygwyr a phrofwyr sydd angen <a data-l10n-name="fog-debug-doc-link">ffurfweddu dadfygio a chyflwr cofnodi'r Glean SDK </a>.
-about-glean-warning = Gall camddefnyddio'r rhyngwyneb hwn chwalu { -brand-short-name }.
-tag-pings-label = Tagiwch bob pingiadau a anfonwyd gyda'r tag hwn
-log-pings-label = Cofnodi llwythi ping cyn anfon?
-send-pings-label = Anfon y ping a enwyd
-controls-button-label = Cyflwyno Gosodiadau
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = SDK { -glean-brand-name }
 glean-debug-ping-viewer-brand-name = Teclyn Dadfygio Pingiau { -glean-brand-name }
+
 about-glean-page-title2 = Ynghylch { -glean-brand-name }
 about-glean-header = Ynghylch { -glean-brand-name }
 about-glean-interface-description =
     Mae <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
     yn lyfrgell casglu data sy'n cael ei ddefnyddio mewn projectau { -vendor-short-name }.
     Mae'r rhyngwyneb hwn wedi'i gynllunio i'w ddefnyddio gan ddatblygwyr a phrofwyr <a data-l10n-name="fog-link">i brofi'r offeryniaeth</a> â llaw.
+
 about-glean-upload-enabled = Mae llwytho data i fyny wedi'i alluogi.
 about-glean-upload-disabled = Mae llwytho data i fyny wedi'i analluogi.
 about-glean-upload-enabled-local = Dim ond ar gyfer anfon i weinydd lleol y mae llwytho data i fyny wedi'i alluogi.
@@ -34,6 +28,7 @@ about-glean-upload-fake-enabled =
     fel bod data yn dal i gael ei gofnodi'n lleol.
     Nodyn: Os ydych chi'n gosod tag dadfygio, bydd pingiau'n cael eu llwytho i fyny i'r
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> beth bynnag yw'r gosodiadau.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Mae <a data-l10n-name="fog-prefs-and-defines-doc-link">dewisiadau a diffiniadau perthnasol</a> yn cynnwys:
 # Variables:
@@ -52,6 +47,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Ynghylch Profi
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -59,6 +55,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dogfennau profi'r offeryniaeth</a>
     ac yn y <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } ddogfennaeth</a>,
     ond, yn fyr, i brofi â llaw bod eich offeryniaeth yn gweithio, dylech:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (peidiwch â chyflwyno unrhyw pingiau)
 # An in-line text input field precedes this string.
@@ -87,6 +84,7 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Ewch i dudalen { glean-debug-ping-viewer-brand-name } am bingiau gyda'ch tag</a>.
     Dylai ddim cymryd mwy nag ychydig eiliadau o bwyso'r botwm i'ch ping gyrraedd.
     Weithiau gall gymryd ychydig o funudau.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Am ragor o brofion <i>ad hoc</i>,
@@ -94,7 +92,10 @@ about-glean-adhoc-explanation =
     trwy agor consol devtools yma ar <code>about:glean</code>
     a defnyddio'r API <code>testGetValue()</code> fel
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Gosod y gosodiadau ac anfon ping
+
 about-glean-about-data-header = Ynghylch Data
 about-glean-about-data-explanation =
     I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y

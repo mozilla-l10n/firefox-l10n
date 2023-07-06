@@ -20,7 +20,6 @@ styleeditor-save-button = Cadw
     .accesskey = C
 styleeditor-options-button =
     .tooltiptext = Dewisiadau'r Golygydd Arddull
-styleeditor-media-rules = Rheolau @media
 styleeditor-at-rules = At-reolau
 styleeditor-editor-textbox =
     .data-placeholder = Teipio'r CSS yma.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = N
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Dim dalennau arddull cyfatebol.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
