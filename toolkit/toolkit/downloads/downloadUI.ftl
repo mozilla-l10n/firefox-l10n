@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] প্রস্থান করা হবে না
        *[other] প্রস্থান করা হবে না
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] এই মূহুর্তে অফলাইন হলে 1টি ডাউনলোড বাতিল হয়ে যাবে। আপনি কি নিশ্চিত আপনি অফলাইন হতে চান?
        *[other] এই মূহুর্তে অফলাইন হলে { $downloadsCount } টি ডাউনলোড বাতিল হয়ে যাবে। আপনি কি নিশ্চিত আপনি অফলাইন হতে চান?
     }
 download-ui-dont-go-offline-button = অনলাইনে থাকা হবে
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] আপনি যদি এখন প্রাইভেট ব্রাউজিং উইন্ডো বন্ধ করেন, 1 ডাউনলোড বাতিল হয়ে যাবে। আপনি কি নিশ্চিত আপনি প্রাইভেট ব্রাউজিং ত্যাগ চান?
        *[other] আপনি যদি এখন প্রাইভেট ব্রাউজিং উইন্ডো বন্ধ করেন, { $downloadsCount } ডাউনলোড বাতিল হয়ে যাবে। আপনি কি নিশ্চিত আপনি প্রাইভেট ব্রাউজিং ত্যাগ চান?
     }
 download-ui-dont-leave-private-browsing-button = প্রাইভেট ব্রাউজিং এ থাকুন
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1টি ডাউনলোড বাতিল

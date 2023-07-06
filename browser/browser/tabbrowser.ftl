@@ -3,15 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = নতুন ট্যাব
+
 tabbrowser-menuitem-close-tab =
     .label = ট্যাব বন্ধ করুন
 tabbrowser-menuitem-close =
     .label = বন্ধ
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -93,6 +96,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = একাধিক ট্যা
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = { $domain } থেকে অনুরূপ নোটিফিকেশন অনুমোদন করুন, যা আপনাকে সেই ট্যাবে নিয়ে যাবে
+
 tabbrowser-customizemode-tab-title = কাস্টোমাইজ { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -118,3 +122,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = সকল { $tabCount } ট্যাব এর তালিকা
+
+## Tab manager menu buttons
+

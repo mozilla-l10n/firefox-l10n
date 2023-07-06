@@ -8,8 +8,10 @@ search-header =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
     .searchbuttonlabel = অনুসন্ধান
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+##
 
 list-empty-installed =
     .value = আপনার এই ধরণের কোনো অ্যাড-অন ইনস্টল করা নেই
@@ -320,7 +322,6 @@ extension-enabled-heading = সক্রিয়
 extension-disabled-heading = নিষ্ক্রিয়
 
 theme-enabled-heading = সক্রিয়
-theme-disabled-heading = নিষ্ক্রিয়
 
 plugin-enabled-heading = সক্রিয়
 plugin-disabled-heading = নিষ্ক্রিয়
@@ -386,6 +387,9 @@ addon-detail-private-browsing-help = অনুমতি পেলে, প্র�
 addon-detail-private-browsing-allow = অনুমতি দাও
 addon-detail-private-browsing-disallow = অনুমতি দিও না
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -430,6 +434,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = বর্তমান লগ ফাইল:
-about-logging-current-log-modules = বর্তমান লগ মডিউল:
 about-logging-log-tutorial = টুলটি ব্যবহারের নিয়ম জানতে <a data-l10n-name="logging">HTTP Logging</a> দেখুন।
 about-logging-set-log-file = লগ ফাইল সেট করুন
 about-logging-set-log-modules = লগ মডিউল সেট করুন
 about-logging-start-logging = লগিং শুরু করুন
 about-logging-stop-logging = লগিং থামাও
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

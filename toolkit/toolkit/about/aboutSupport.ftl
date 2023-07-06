@@ -131,6 +131,8 @@ media-capabilities-title = মিডিয়ার ক্ষমতা
 # List all the entries of the database.
 media-capabilities-enumerate = ডাটাবেইজ তালিকাভুক্তি
 
+## Codec support table
+
 ##
 
 intl-title = আন্তর্জাতিকিকরণ & স্থানীয়করণ

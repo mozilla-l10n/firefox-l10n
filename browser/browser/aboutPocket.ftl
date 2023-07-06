@@ -22,14 +22,12 @@ pocket-panel-saved-page-removed = পাতা সরানো হয়েছে
 pocket-panel-saved-page-saved = { -pocket-brand-name } এ সংরক্ষিত হয়েছে
 pocket-panel-saved-page-saved-b = { -pocket-brand-name }-এ সংরক্ষিত হয়েছে!
 pocket-panel-saved-processing-remove = পাতা সরানো হচ্ছে…
-pocket-panel-saved-removed = আমার তালিকা থেকে পাতা সরানো হয়েছে
 pocket-panel-saved-processing-tags = ট্যাগ যুক্ত করা হচ্ছে…
 pocket-panel-saved-remove-page = পাতাটি সরান
 pocket-panel-saved-save-tags = সংরক্ষণ
 pocket-panel-saved-saving-tags = সংরক্ষণ করা হচ্ছে...
 pocket-panel-saved-suggested-tags = প্রস্তাবিত ট্যাগ
 pocket-panel-saved-tags-saved = ট্যাগ যোগ করা হয়েছে
-pocket-panel-signup-view-list = তালিকা দেখুন
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = ট্যাগ যোগ করুন:
@@ -47,13 +45,10 @@ pocket-panel-signup-tagline-story-one = { -brand-product-name } থেকে ন
 pocket-panel-signup-tagline-story-two = যেকোন সময়ে, যেকোন স্থানে { -pocket-brand-name } এ দেখুন।
 
 pocket-panel-signup-cta-a-fix = ইন্টারনেটের জন্য আপনার সংরক্ষণ বোতাম
-pocket-panel-signup-cta-b = নিবন্ধ, ভিডিও ও লিঙ্কগুলো সংরক্ষণ করতে { -pocket-brand-name } বোতামে ক্লিক করুন। যেকোনো সময়, যেকোনো ডিভাইসে আপনার তালিকা দেখুন।
 pocket-panel-signup-cta-b-short = নিবন্ধ, ভিডিও ও লিঙ্কগুলো সংরক্ষণ করতে { -pocket-brand-name } বোতামে ক্লিক করুন।
-pocket-panel-signup-cta-c = যেকোনো সময়, যেকোনো ডিভাইসে আপনার তালিকা দেখুন।
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = আমার তালিকা
 pocket-panel-home-welcome-back = পুনরায় স্বাগতম
 pocket-panel-home-paragraph = আপনি ওয়েবপাতা, নিবন্ধ, ভিডিও, পডকাস্ট অন্বেষণ ও সংরক্ষণ করতে কিংবা আপনি যা পড়ছিলেন তা ফিরে পেতে { -pocket-brand-name } ব্যবহার করতে পারেন।
 pocket-panel-home-explore-popular-topics = জনপ্রিয় বিষয় অন্বেষণ করুন
@@ -67,7 +62,6 @@ pocket-panel-home-new-user-message = এখানে আপনার সাম�
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = আমার তালিকা দেখুন
 pocket-panel-header-sign-in = সাইন ইন
 
 ## Pocket panel buttons
