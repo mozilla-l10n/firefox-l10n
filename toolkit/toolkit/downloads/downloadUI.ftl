@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Не завершувати роботу
        *[other] Не завершувати роботу
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Якщо ви зараз перейдете в автономний режим роботи, буде скасовано одне завантаження. Продовжити?
        *[other] Якщо ви зараз перейдете в автономний режим роботи, буде скасовано { $downloadsCount } завантажень. Ви дійсно цього бажаєте?
     }
 download-ui-dont-go-offline-button = Залишатися онлайн
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Якщо ви закриєте всі вікна приватного перегляду, 1 завантаження буде скасоване. Ви дійсно хочете вийти з режиму приватного перегляду?
        *[other] Якщо ви закриєте всі вікна приватного перегляду, { $downloadsCount } завантажень будуть скасовані. Ви дійсно хочете вийти з режиму приватного перегляду?
     }
 download-ui-dont-leave-private-browsing-button = Залишитись в режимі приватного перегляду
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Скасувати завантаження

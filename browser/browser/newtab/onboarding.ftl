@@ -14,13 +14,6 @@ onboarding-welcome-header = Вітаємо в { -brand-short-name }
 onboarding-start-browsing-button-label = Почати перегляд
 onboarding-not-now-button-label = Не зараз
 mr1-onboarding-get-started-primary-button-label = Розпочати
-mr1-onboarding-welcome-header = Вітаємо в { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Зробити { -brand-short-name } моїм основним браузером
-    .title = Встановлює { -brand-short-name } типовим браузером та закріплює його на панелі завдань
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Зробити { -brand-short-name } моїм типовим браузером
-mr1-onboarding-set-default-secondary-button-label = Не зараз
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,48 +38,16 @@ mr1-return-to-amo-add-extension-label = Додати { $addon-name }
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Початок роботи: екран { $current } з { $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Вогонь лине звідси
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Дизайнерка меблів, шанувальниця Firefox
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = Перебіг: крок { $current } з { $total }
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Вимкнути анімацію
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Для зручного доступу додайте { -brand-short-name } у Док
-       *[other] Для зручного доступу закріпіть { -brand-short-name } на панелі завдань
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Додати у Док
-       *[other] Закріпити на панелі завдань
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -96,44 +57,25 @@ mr1-onboarding-sign-in-button-label = Увійти
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Зробити { -brand-short-name } типовим
-mr1-onboarding-default-subtitle = Увімкніть автопілот швидкості, безпеки та приватності.
-mr1-onboarding-default-primary-button-label = Зробити типовим браузером
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Візьміть усе з собою
-mr1-onboarding-import-subtitle = Імпортуйте свої паролі, <br/>закладки та інші дані.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Імпортувати з { $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Імпортувати з іншого браузера
-mr1-onboarding-import-secondary-button-label = Не зараз
-mr2-onboarding-colorway-header = Життя барвисте
-mr2-onboarding-colorway-subtitle = Сповнені життя нові барви. Доступні впродовж обмеженого часу.
-mr2-onboarding-colorway-primary-button-label = Зберегти забарвлення
-mr2-onboarding-colorway-secondary-button-label = Не зараз
-mr2-onboarding-colorway-label-soft = М'яке
-mr2-onboarding-colorway-label-balanced = Збалансоване
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Насичене
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Авто
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Типові
+
 mr1-onboarding-theme-header = Зробіть його своїм
 mr1-onboarding-theme-subtitle = Персоналізуйте { -brand-short-name } за допомогою теми.
-mr1-onboarding-theme-primary-button-label = Зберегти тему
 mr1-onboarding-theme-secondary-button-label = Не зараз
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системна тема
+
 mr1-onboarding-theme-label-light = Світла
 mr1-onboarding-theme-label-dark = Темна
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Готово
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -146,61 +88,49 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Повторювати тему операційної системи
         для кнопок, меню та вікон.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Повторювати тему операційної системи
         для кнопок, меню та вікон.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Застосувати світлу тему
         кнопок, меню та вікон.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Застосувати світлу тему
         кнопок, меню та вікон.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Застосувати темну тему
         кнопок, меню та вікон.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Застосувати темну тему
         кнопок, меню та вікон.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Застосувати динамічну, барвисту
         тему кнопок, меню та вікон.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Застосувати динамічну, барвисту
         тему кнопок, меню та вікон.
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Застосувати це забарвлення.
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Застосувати це забарвлення.
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Переглянути забарвлення { $colorwayName }.
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Ознайомтеся із забарвленням { $colorwayName }
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Переглянути типові теми.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Переглянути типові теми.
 
@@ -228,13 +158,18 @@ mr2-onboarding-start-browsing-button-label = Почати перегляд
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Виберіть свою мову
+
 mr2022-onboarding-live-language-text = { -brand-short-name } говорить вашою мовою
+
 mr2022-language-mismatch-subtitle = Завдяки нашій спільноті { -brand-short-name } перекладено понад 90 мовами. Схоже, у вашій системі використовується { $systemLanguage }, а в { -brand-short-name } використовується { $appLanguage }.
+
 onboarding-live-language-button-label-downloading = Завантаження мовного пакунка для { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Отримання доступних мов…
 onboarding-live-language-installing = Установлення мовного пакунка для { $negotiatedLanguage }…
+
 mr2022-onboarding-live-language-switch-to = Змінити на { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Використовувати { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Скасувати
 onboarding-live-language-skip-button-label = Пропустити
 
@@ -257,12 +192,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Закріпити { -brand-short-name } у Dock
        *[other] Закріпити { -brand-short-name } на панелі завдань
     }
+
 fx100-upgrade-thanks-header = 100 разів дякуємо вам
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Це наш 100-й випуск { -brand-short-name }. Дякуємо <em>вам</em> за допомогу в створенні кращого та здоровішого інтернету.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Це наш 100-й випуск! Дякуємо за те, що ви є частиною нашої спільноти. Тримайте { -brand-short-name } на відстані одного натискання для наступних 100.
+
 mr2022-onboarding-secondary-skip-button-label = Пропустити цей крок
 
 ## MR2022 New User Easy Setup screen strings
@@ -339,30 +276,37 @@ mr2022-onboarding-colorway-title = Оберіть колір, який вас н
 mr2022-onboarding-colorway-subtitle = Незалежні голоси можуть змінити культуру.
 mr2022-onboarding-colorway-primary-button-label-continue = Налаштувати та продовжити
 mr2022-onboarding-existing-colorway-checkbox-label = Зробіть { -firefox-home-brand-name(case: "acc", capitalization: "lower") } своєю яскравою домашньою сторінкою
+
 mr2022-onboarding-colorway-label-default = Типово
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Поточні кольори { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Використовувати поточні кольори { -brand-short-name }.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Тактичність
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Тактичність (червоний)
 mr2022-onboarding-colorway-description-playmaker = <b>Ви тактичні.</b> Ви створюєте можливості для перемоги та допомагаєте всім навколо покращити їхню гру.
+
 mr2022-onboarding-colorway-label-expressionist = Експресіонізм
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Експресіонізм (жовтий)
 mr2022-onboarding-colorway-description-expressionist = <b>Ви експресивні.</b> Ви бачите світ інакше, а ваші витвори викликають в інших емоції.
+
 mr2022-onboarding-colorway-label-visionary = Мрійливість
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Мрійливість (зелений)
 mr2022-onboarding-colorway-description-visionary = <b>Ви мрійливі.</b> Ви ставите під сумнів стан речей та спонукаєте інших уявити краще майбутнє.
+
 mr2022-onboarding-colorway-label-activist = Активізм
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Активізм (синій)
 mr2022-onboarding-colorway-description-activist = <b>Ви активні.</b> Ви покращуєте світ і зміцнюєте переконання інших.
+
 mr2022-onboarding-colorway-label-dreamer = Натхненність
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Натхненність (пурпуровий)
 mr2022-onboarding-colorway-description-dreamer = <b>Ви надихаєте інших.</b> Ви вірите, що доля любить завзятих і надихаєте людей бути сміливими.
+
 mr2022-onboarding-colorway-label-innovator = Винахідливість
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Винахідливість (жовтогарячий)

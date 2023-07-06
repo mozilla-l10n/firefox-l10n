@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Майстер імпорту
+
 import-from =
     { PLATFORM() ->
         [windows] Імпортувати налаштування, закладки, історію, паролі та інші дані з:
        *[other] Імпортувати налаштування, закладки, історію, паролі та інші дані з:
     }
+
 import-from-bookmarks = Імпорт закладок з:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = Не знайдено жодної програми із закладками, історією чи паролями.
+
 import-source-page-title = Імпорт налаштувань і даних
 import-items-page-title = Елементи для імпорту
+
 import-items-description = Виберіть елементи для імпорту:
+
 import-permissions-page-title = Надайте дозволи для { -brand-short-name }
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS вимагає від вас явного дозволу для { -brand-short-name } на отримання доступу до закладок Safari. Натисніть “Продовжити” та виберіть файл “Bookmarks.plist” на панелі Відкрити файл, що з'явиться.
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS вимагає від вас явного дозволу на доступ { -brand-short-name } до даних Safari. Клацніть “Продовжити”, виберіть теку “Safari“ у діалоговому вікні Finder, яке з’явиться, а потім натисніть “Відкрити”.
+
 import-migrating-page-title = Триває імпорт…
+
 import-migrating-description = Наразі триває імпортування зазначених елементів…
+
 import-select-profile-page-title = Вибір профілю
+
 import-select-profile-description = Можна виконати імпортування з таких доступних профілів:
+
 import-done-page-title = Імпорт успішно завершений
+
 import-done-description = Зазначені елементи успішно імпортовано:
+
 import-close-source-browser = Перед продовженням переконайтеся, що вибраний браузер закрито.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Список читання (з Safari)
 imported-edge-reading-list = Список читання (з Edge)
 
@@ -101,6 +115,7 @@ browser-data-cookies-checkbox =
     .label = Куки
 browser-data-cookies-label =
     .value = Куки
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,10 +128,12 @@ browser-data-history-label =
             [firefox] Історія перегляду й закладки
            *[other] Історія перегляду
         }
+
 browser-data-formdata-checkbox =
     .label = Історія збережених форм
 browser-data-formdata-label =
     .value = Історія збережених форм
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,18 +142,22 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Збережені паролі
+
 browser-data-bookmarks-checkbox =
     .label = Закладки
 browser-data-bookmarks-label =
     .value = Закладки
+
 browser-data-otherdata-checkbox =
     .label = Інші дані
 browser-data-otherdata-label =
     .label = Інші дані
+
 browser-data-session-checkbox =
     .label = Вікна і вкладки
 browser-data-session-label =
     .value = Вікна і вкладки
+
 browser-data-payment-methods-checkbox =
     .label = Способи оплати
 browser-data-payment-methods-label =
