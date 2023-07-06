@@ -130,12 +130,6 @@ about-telemetry-category-header = หมวดหมู่
 about-telemetry-method-header = วิธีการ
 about-telemetry-object-header = วัตถุ
 about-telemetry-extra-header = พิเศษ
-about-telemetry-origin-section = Origin Telemetry
-about-telemetry-origin-origin = ที่มา
-about-telemetry-origin-count = จำนวน
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> เข้ารหัสข้อูลทก่อนที่จะถูกส่งเพื่อให้ { $telemetryServerOwner } สามารถนับจำนวนสิ่งต่าง ๆ ได้ แต่จะไม่ทราบว่ามี { -brand-product-name } ที่ระบุใดมีส่วนร่วมกับการนับนั้น (<a data-l10n-name="prio-blog-link">เรียนรู้เพิ่มเติม</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = โปรเซส { $process }

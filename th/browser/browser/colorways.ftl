@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = เสียงแห่งอิสระ
-colorway-collection-independent-voices-description = สีสันสามารถเปลี่ยนวัฒนธรรมได้ ชุดรูปแบบสีล่าสุดเฉลิมฉลองเสียงที่ทำให้โลกนี้น่าอยู่ขึ้น
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = สีสันที่เปลี่ยนวัฒนธรรมได้
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = เพลย์เมคเกอร์

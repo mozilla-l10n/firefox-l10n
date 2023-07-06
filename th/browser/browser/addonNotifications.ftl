@@ -14,6 +14,7 @@ xpinstall-prompt-message = คุณกำลังพยายามติด�
 
 xpinstall-prompt-header-unknown = อนุญาตให้ไซต์ที่ไม่รู้จักติดตั้งส่วนเสริม?
 xpinstall-prompt-message-unknown = คุณกำลังพยายามติดตั้งส่วนเสริมจากไซต์ที่ไม่รู้จัก ตรวจสอบให้แน่ใจว่าคุณเชื่อถือไซต์นี้ก่อนดำเนินการต่อ
+
 xpinstall-prompt-dont-allow =
     .label = ไม่อนุญาต
     .accesskey = ไ
@@ -44,6 +45,7 @@ xpinstall-disabled = การติดตั้งซอฟต์แวร์�
 xpinstall-disabled-button =
     .label = เปิดใช้งาน
     .accesskey = ป
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ถูกปิ�
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ผู้ดูแลระบบของคุณได้ป้องกันไม่ให้ไซต์นี้ขอคุณเพื่อติดตั้งซอฟต์แวร์ลงในคอมพิวเตอร์ของคุณ
 addon-install-full-screen-blocked = ไม่อนุญาตให้ติดตั้งส่วนเสริมขณะอยู่ในหรือก่อนเข้าสู่โหมดเต็มหน้าจอ
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = เพิ่ม { $addonName } ลงใน { -brand-short-name } แล้ว
@@ -69,10 +72,12 @@ addon-removal-title = ต้องการเอา { $name } ออกหร�
 addon-removal-message = เอา { $name } ออกจาก { -brand-shorter-name }?
 addon-removal-button = เอาออก
 addon-removal-abuse-report-checkbox = รายงานส่วนขยายนี้ไปยัง { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = กำลังดาวน์โหลดและยืนยัน { $addonCount } ส่วนเสริม…
 addon-download-verifying = กำลังยืนยัน
+
 addon-install-cancel-button =
     .label = ยกเลิก
     .accesskey = ย

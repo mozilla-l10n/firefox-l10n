@@ -4,6 +4,7 @@
 
 about-reader-loading = กำลังโหลด…
 about-reader-load-error = ไม่สามารถโหลดบทความจากหน้า
+
 about-reader-color-scheme-light = สว่าง
     .title = แบบแผนชุดสีสว่าง
 about-reader-color-scheme-dark = มืด
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = ซีเปีย
     .title = แบบแผนชุดสีซีเปีย
 about-reader-color-scheme-auto = อัตโนมัติ
     .title = แบบแผนชุดสีอัตโนมัติ
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

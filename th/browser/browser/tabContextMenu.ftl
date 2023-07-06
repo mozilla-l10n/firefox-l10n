@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = เพิ่มที่คั่นหน้าสำหรับแท็บ…
     .accesskey = พ
-bookmark-tab =
-    .label = เพิ่มที่คั่นหน้าสำหรับแท็บ
-    .accesskey = พ
 tab-context-bookmark-tab =
     .label = เพิ่มที่คั่นหน้าสำหรับแท็บ…
     .accesskey = ท
@@ -103,6 +100,7 @@ tab-context-move-tabs =
            *[other] ย้ายแท็บ
         }
     .accesskey = ย
+
 tab-context-send-tabs-to-device =
     .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
     .accesskey = ส

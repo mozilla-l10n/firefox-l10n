@@ -38,9 +38,11 @@ menu-quit =
             [windows] อ
            *[other] อ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ออกจาก { -brand-shorter-name }
+
 menu-about =
     .label = เกี่ยวกับ { -brand-shorter-name }
     .accesskey = ก
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = แท็บที่ปิดล่าสุด
 menu-history-undo-window-menu =
     .label = หน้าต่างที่ปิดล่าสุด
-menu-history-reopen-all-tabs = เปิดแท็บทั้งหมดใหม่
-menu-history-reopen-all-windows = เปิดหน้าต่างทั้งหมดใหม่
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = ท
 menu-bookmarks-manage =
     .label = จัดการที่คั่นหน้า
-menu-bookmark-current-tab =
-    .label = เพิ่มที่คั่นหน้าแท็บปัจจุบัน
-menu-bookmark-edit =
-    .label = แก้ไขที่คั่นหน้านี้
 menu-bookmark-tab =
     .label = เพิ่มที่คั่นหน้าสำหรับแท็บปัจจุบัน…
 menu-edit-bookmark =

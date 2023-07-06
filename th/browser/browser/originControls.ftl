@@ -10,12 +10,16 @@
 
 origin-controls-no-access =
     .label = ส่วนขยายไม่สามารถอ่านและเปลี่ยนแปลงข้อมูลได้
+
 origin-controls-options =
     .label = ส่วนขยายสามารถอ่านและเปลี่ยนแปลงข้อมูลต่อไปนี้ได้:
+
 origin-controls-option-all-domains =
     .label = บนทุกไซต์
+
 origin-controls-option-when-clicked =
     .label = เมื่อคลิกเท่านั้น
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -27,11 +31,17 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = ไม่สามารถอ่านและเปลี่ยนแปลงข้อมูลบนไซต์นี้ได้
+
 origin-controls-state-always-on = สามารถอ่านและเปลี่ยนแปลงข้อมูลบนไซต์นี้ได้เสมอ
+
 origin-controls-state-when-clicked = ต้องการสิทธิอนุญาตในการอ่านและเปลี่ยนแปลงข้อมูล
+
 origin-controls-state-hover-run-visit-only = เรียกใช้ตอนเยี่ยมชมครั้งนี้เท่านั้น
+
 origin-controls-state-runnable-hover-open = เปิดส่วนขยาย
+
 origin-controls-state-runnable-hover-run = เรียกใช้ส่วนขยาย
+
 origin-controls-state-temporary-access = สามารถอ่านและเปลี่ยนแปลงข้อมูลเฉพาะตอนเยี่ยมชมครั้งนี้เท่านั้น
 
 ## Extension's toolbar button.
@@ -41,6 +51,7 @@ origin-controls-state-temporary-access = สามารถอ่านและ
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -48,3 +59,4 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         ต้องการสิทธิอนุญาต
+

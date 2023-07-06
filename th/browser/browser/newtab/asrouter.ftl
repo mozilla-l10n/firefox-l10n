@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = คุณลักษณะที่แนะ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ทำไมฉันจึงเห็นสิ่งนี้
+
 cfr-doorhanger-extension-cancel-button = ไม่ใช่ตอนนี้
     .accesskey = ไ
+
 cfr-doorhanger-extension-ok-button = เพิ่มตอนนี้
     .accesskey = เ
+
 cfr-doorhanger-extension-manage-settings-button = จัดการการตั้งค่าคำแนะนำ
     .accesskey = จ
+
 cfr-doorhanger-extension-never-show-recommendation = ไม่ต้องแสดงคำแนะนำนี้ให้ฉัน
     .accesskey = ส
+
 cfr-doorhanger-extension-learn-more-link = เรียนรู้เพิ่มเติม
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = โดย { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = คำแนะนำ
 cfr-doorhanger-extension-notification2 = แนะนำ
     .tooltiptext = ส่วนขยายที่แนะนำ
     .a11y-announcement = ส่วนขยายแนะนำที่มีอยู่
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = แนะนำ
@@ -75,9 +83,11 @@ cfr-protections-panel-link-text = เรียนรู้เพิ่มเต�
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = คุณสมบัติใหม่:
+
 cfr-whatsnew-button =
     .label = มีอะไรใหม่
     .tooltiptext = มีอะไรใหม่
+
 cfr-whatsnew-release-notes-link-text = อ่านบันทึกประจำรุ่น
 
 ## Enhanced Tracking Protection Milestones
@@ -105,13 +115,6 @@ cfr-doorhanger-doh-secondary-button = ปิดใช้งาน
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = ความเป็นส่วนตัวของคุณสำคัญ ขณะนี้ { -brand-short-name } จะแยกหรือแซนด์บ็อกซ์เว็บไซต์ออกจากกัน เพื่อให้แฮกเกอร์ขโมยรหัสผ่าน หมายเลขบัตรเครดิต และข้อมูลที่ละเอียดอ่อนอื่น ๆ ได้ยากขึ้น
-cfr-doorhanger-fission-header = การแยกไซต์
-cfr-doorhanger-fission-primary-button = ตกลง เข้าใจแล้ว
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = เรียนรู้เพิ่มเติม
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = วิดีโอบนไซต์นี้อาจเล่นไม่ถูกต้องใน { -brand-short-name } เวอร์ชันนี้ สำหรับการสนับสนุนวิดีโอเต็มรูปแบบ อัปเดต { -brand-short-name } ทันที
@@ -120,11 +123,6 @@ cfr-doorhanger-video-support-primary-button = อัปเดตตอนนี�
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = เรียนรู้เพิ่มเติม
-    .title = ขยายเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับคุณลักษณะ
-spotlight-learn-more-expanded = เรียนรู้เพิ่มเติม
-    .title = ปิด
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -141,18 +139,6 @@ spotlight-public-wifi-vpn-link = ไม่ใช่ตอนนี้
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    ลองสัมผัสประสบการณ์ความเป็นส่วนตัว
-    ที่ทรงพลังที่สุดของเรา
-spotlight-total-cookie-protection-body = การป้องกันคุกกี้ทั้งหมดจะหยุดตัวติดตามไม่ให้ใช้คุกกี้ตามรอยคุณในทุกเว็บ
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } จะสร้างรั้วกั้นคุกกี้ต่าง ๆ โดยจำกัดเฉพาะไซต์ที่คุณใช้ เพื่อไม่ให้ตัวติดตามใช้คุกกี้ติดตามคุณได้ คุณสามารถเข้าถึงคุณลักษณะนี้ล่วงหน้าเพื่อช่วยปรับปรุงให้เราสร้างเว็บที่ดีขึ้นสำหรับทุกคนได้
-spotlight-total-cookie-protection-primary-button = เปิดการป้องกันคุกกี้ทั้งหมด
-spotlight-total-cookie-protection-secondary-button = ไม่ใช่ตอนนี้
 
 ## Emotive Continuous Onboarding
 
@@ -182,11 +168,13 @@ spotlight-pin-secondary-button = ไม่ใช่ตอนนี้
 
 mr2022-background-update-toast-title = { -brand-short-name } ใหม่ เป็นส่วนตัวมากขึ้น ตัวติดตามน้อยลง ไม่ล่วงละเมิด
 mr2022-background-update-toast-text = ลองใช้ { -brand-short-name } ใหม่ที่สุดที่ได้รับการอัพเกรดด้วยระบบการป้องกันการติดตามที่แข็งแกร่งที่สุดของเราเลย
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = เปิด { -brand-shorter-name } เลย
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -205,6 +193,7 @@ firefoxview-cfr-body-v2 = นำแท็บที่ปิดไปล่าส
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = ทำความรู้จัก { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ต้องการให้แท็บที่เปิดไว้มาอยู่บนโทรศัพท์ของคุณหรือเปล่า เอามันมาเลยสิ ต้องการไซต์นั้นที่คุณเพิ่งเข้าชมไปหรือเปล่า ปิ๊ง มันกลับมาแล้วใน { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = ดูวิธีการทำงาน
@@ -214,6 +203,7 @@ firefoxview-spotlight-promo-secondarybutton = ข้าม
 
 colorways-cfr-primarybutton = เลือกชุดรูปแบบสี
     .accesskey = ล
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = แต่งเติมสีสันให้กับเบราว์เซอร์ของคุณด้วยเฉดสีสุดพิเศษสำหรับ { -brand-short-name } ที่ได้แรงบันดาลใจจากเสียงที่เปลี่ยนแปลงวัฒนธรรม
 colorways-cfr-header-28days = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขต 16 มกราคมนี้
@@ -236,6 +226,7 @@ july-jam-headline = เราปกป้องคุณอย่างครอ
 july-jam-body = ทุกเดือน { -brand-short-name } ปิดกั้นตัวติดตามเฉลี่ย 3,000+ ตัวต่อผู้ใช้หนึ่งคน ทำให้คุณเข้าถึงอินเทอร์เน็ตที่ดีได้อย่างปลอดภัยและรวดเร็ว
 july-jam-set-default-primary = เปิดลิงก์ของฉันด้วย { -brand-short-name }
 fox-doodle-pin-headline = ยินดีต้อนรับกลับมา
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = นี่เป็นการแจ้งเตือนสั้นๆ ว่าคุณสามารถนำเบราว์เซอร์ที่ชื่นชอบของคุณมาไว้ใกล้ๆ ให้เข้าถึงได้ด้วยเพียงคลิกเดียว

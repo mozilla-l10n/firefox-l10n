@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = คุณต้องเข้าสู่ร�
 firefox-relay-get-unlimited-masks =
     .label = จัดการตัวปกปิด
     .accesskey = จ
-firefox-relay-opt-in-title = ปกป้องที่อยู่อีเมลของคุณ
-firefox-relay-opt-in-subtitle = เพิ่ม { -relay-brand-name }
-firefox-relay-generate-mask-title = ปกป้องที่อยู่อีเมลของคุณ
-firefox-relay-generate-mask-subtitle = สร้างตัวปกปิด { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = ดำเนินการต่อ
-    .accesskey = ต
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = ปกป้องที่อยู่อีเมลของคุณ:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

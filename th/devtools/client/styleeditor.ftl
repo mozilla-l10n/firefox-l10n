@@ -20,7 +20,6 @@ styleeditor-save-button = บันทึก
     .accesskey = บ
 styleeditor-options-button =
     .tooltiptext = ตัวเลือกตัวแก้ไขลักษณะ
-styleeditor-media-rules = กฎ @media
 styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = พิมพ์ CSS ที่นี่
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = ป
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = ไม่พบสไตล์ชีตที่ตรงกัน
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

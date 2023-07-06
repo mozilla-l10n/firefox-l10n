@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = ยกเลิก
     .accesskey = ย
+
 webext-perms-sideload-text = โปรแกรมอื่น ๆ บนคอมพิวเตอร์ของคุณได้ทำการติดตั้งส่วนเสริมที่อาจส่งผลกระทบต่อเบราว์เซอร์ของคุณ โปรดตรวจสอบคำขอการอนุญาตของส่วนเสริมและเลือก เปิดใช้งาน หรือ ยกเลิก (เพื่อปล่อยให้ปิดใช้งานต่อไป)
 webext-perms-sideload-text-no-perms = โปรแกรมอื่น ๆ บนคอมพิวเตอร์ของคุณได้ทำการติดตั้งส่วนเสริมที่อาจส่งผลกระทบต่อเบราว์เซอร์ของคุณ โปรดเลือก เปิดใช้งาน หรือ ยกเลิก (เพื่อปล่อยให้ปิดใช้งานต่อไป)
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ยกเลิก
     .accesskey = ย
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ได้รับการอัปเดตแล้ว คุณต้องอนุมัติสิทธิอนุญาตใหม่ก่อนที่รุ่นอัปเดตจะติดตั้ง การเลือก “ยกเลิก” จะคงรุ่นส่วนขยายปัจจุบันของคุณไว้ ส่วนขยายนี้จะได้รับอนุญาตให้:
 webext-perms-update-accept =
     .label = อัปเดต
     .accesskey = อ
+
 webext-perms-optional-perms-list-intro = ส่วนขยายต้องการ:
 webext-perms-optional-perms-allow =
     .label = อนุญาต
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = ปฏิเสธ
     .accesskey = ป
+
 webext-perms-host-description-all-urls = เข้าถึงข้อมูลของคุณสำหรับเว็บไซต์ทั้งหมด
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = เข้าถึงข้อมูลของคุณสำหรับไซต์ในโดเมน { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -57,6 +63,7 @@ webext-perms-host-description-too-many-wildcards = เข้าถึงข้�
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = เข้าถึงข้อมูลของคุณสำหรับ { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
