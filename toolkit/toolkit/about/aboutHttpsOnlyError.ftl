@@ -21,6 +21,10 @@ about-httpsonly-link-learn-more = Ďalšie informácie…
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
+
 about-httpsonly-suggestion-box-header = Možná alternatíva
 about-httpsonly-suggestion-box-www-text = Existuje zabezpečená verzia stránky <em>www.{ $websiteUrl }</em>. Môžete ju navštíviť namiesto <em>{ $websiteUrl }</em>.
 about-httpsonly-suggestion-box-www-button = Prejsť na www. { $websiteUrl }

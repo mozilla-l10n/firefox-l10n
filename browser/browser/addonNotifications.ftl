@@ -14,6 +14,7 @@ xpinstall-prompt-message = Pokúšate sa nainštalovať doplnok z { $host }. Uis
 
 xpinstall-prompt-header-unknown = Chcete nainštalovať doplnok z neznámej stránky?
 xpinstall-prompt-message-unknown = Pokúšate sa nainštalovať doplnok z neznámej stránky. Uistite sa, že tejto stránke môžete dôverovať.
+
 xpinstall-prompt-dont-allow =
     .label = Nepovoliť
     .accesskey = N
@@ -44,6 +45,7 @@ xpinstall-disabled = Inštalácia softvéru je momentálne vypnutá. Kliknite na
 xpinstall-disabled-button =
     .label = Povoliť
     .accesskey = v
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = Doplnok { $addonName } ({ $addonId }) bol zabl
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Váš správca systému zabránil tejto stránke požiadať vás o inštaláciu softvéru do vášho počítača.
 addon-install-full-screen-blocked = V režime celej obrazovky alebo tesne pred jeho zapnutím nie je inštalácia doplnkov povolená.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Doplnok { $addonName } bol pridaný do aplikácie { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = Doplnok { $addonName } vyžaduje nové povolenia
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = Odstrániť { $name }?
 addon-removal-message = Odstrániť { $name } z prehliadača { -brand-shorter-name }?
 addon-removal-button = Odstrániť
 addon-removal-abuse-report-checkbox = Nahlásiť toto rozšírenie spoločnosti { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -82,6 +87,7 @@ addon-downloading-and-verifying =
        *[other] Sťahuje a overuje sa { $addonCount } doplnkov…
     }
 addon-download-verifying = Overuje sa
+
 addon-install-cancel-button =
     .label = Zrušiť
     .accesskey = Z

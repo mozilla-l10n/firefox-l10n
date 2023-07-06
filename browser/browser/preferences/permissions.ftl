@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Výnimky
-    .style = width: 45em
 permissions-window2 =
     .title = Výnimky
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa webovej stránky
     .accesskey = d
+
 permissions-block =
     .label = Zakázať
     .accesskey = a
+
 permissions-disable-etp =
     .label = Pridať výnimku
     .accesskey = P
+
 permissions-session =
     .label = Povoliť pre reláciu
     .accesskey = o
+
 permissions-allow =
     .label = Povoliť
     .accesskey = P
+
 permissions-button-off =
     .label = Vypnúť
     .accesskey = V
+
 permissions-button-off-temporarily =
     .label = Vypnúť dočasne
     .accesskey = d
+
 permissions-site-name =
     .label = Webová stránka
+
 permissions-status =
     .label = Stav
+
 permissions-remove =
     .label = Odstrániť stránku
     .accesskey = r
+
 permissions-remove-all =
     .label = Odstrániť všetky stránky
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Uložiť zmeny
     .buttonaccesskeyaccept = U
+
 permissions-autoplay-menu = Predvolené nastavenia pre všetky webové stránky:
+
 permissions-searchbox =
     .placeholder = Hľadať
+
 permissions-capabilities-autoplay-allow =
     .label = Povoliť zvuk a video
 permissions-capabilities-autoplay-block =
     .label = Blokovať zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokovať zvuk a video
+
 permissions-capabilities-allow =
     .label = Povoliť
 permissions-capabilities-block =
     .label = Zakázať
 permissions-capabilities-prompt =
     .label = Vždy sa opýtať
+
 permissions-capabilities-listitem-allow =
     .value = Povoliť
 permissions-capabilities-listitem-block =
     .value = Zakázať
 permissions-capabilities-listitem-allow-session =
     .value = Povoliť pre reláciu
+
 permissions-capabilities-listitem-off =
     .value = Vypnutá
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Zadajte platný názov servera
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Výnimky pre Rozšírenú ochranu pred sledovaním
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Na týchto stránkach ste vypli ochranu pred sledovaním.
 permissions-exceptions-etp-window2 =
     .title = Výnimky pre Rozšírenú ochranu pred sledovaním
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Môžete určiť, ktoré webové strán
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Výnimky - Cookies a údaje stránok
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Výnimky - Cookies a údaje stránok
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Na tomto mieste môžete určiť, ktoré st
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Výnimky z režimu Len HTTPS
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Výnimky z režimu Len HTTPS
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Pre konkrétne webové stránky môžet
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Povolené stránky - Vyskakovacie okná
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Povolené stránky - Vyskakovacie okná
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Na tomto mieste môžete určiť, ktoré str
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Výnimky - Uložené prihlasovacie údaje
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Výnimky - Uložené prihlasovacie údaje
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Pre nasledujúce stránky sa nebudú 
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Povolené stránky – Inštalácia doplnkov
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Povolené stránky – Inštalácia doplnkov
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Na tomto mieste môžete určiť, ktoré st
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Nastavenia - Automatické prehrávanie
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Nastavenia - Automatické prehrávanie
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Na tomto mieste môžete spravovať stránky, k
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Nastavenia - Posielanie upozornení
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Nastavenia - Posielanie upozornení
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Týmto zakážete webovým stránka
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Nastavenia - Prístup k polohe
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Nastavenia - Prístup k polohe
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Týmto zakážete webovým stránkam, k
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Nastavenia - Virtuálna realita
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Nastavenia - Virtuálna realita
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Týmto zakážete webovým stránkam, ktoré 
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Nastavenia - Prístup ku kamere
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Nastavenia - Prístup ku kamere
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Týmto zakážete webovým stránkam, kto
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Nastavenia - Prístup k mikrofónu
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Nastavenia - Prístup k mikrofónu
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Nastavenia - Prístup k reproduktorom
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Nasledujúce webové stránky požiadali o výber výstupného zvukového zariadenia. Môžete určiť, ktoré webové stránky môžu zvoliť výstupné zvukové zariadenie.
+
 permissions-exceptions-doh-window =
     .title = Stránky vyňaté z režimu DNS cez HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } nebude na týchto stránkach a ich subdoménach používať zabezpečené DNS.
+
 permissions-doh-entry-field = Zadajte názov domény webovej stránky
     .accesskey = a
+
 permissions-doh-add-exception =
     .label = Pridať
     .accesskey = P
+
 permissions-doh-col =
     .label = Doména
+
 permissions-doh-remove =
     .label = Odstrániť
     .accesskey = O
+
 permissions-doh-remove-all =
     .label = Odstrániť všetky
     .accesskey = v

@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Ak chcete používať { -relay-brand-name }, m
 firefox-relay-get-unlimited-masks =
     .label = Spravovať masky
     .accesskey = m
-firefox-relay-opt-in-title = Chráňte svoju e-mailovú adresu
-firefox-relay-opt-in-subtitle = Pridajte si { -relay-brand-name }
-firefox-relay-generate-mask-title = Chráňte svoju e-mailovú adresu
-firefox-relay-generate-mask-subtitle = Vygenerujte masku { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Pokračovať
-    .accesskey = P
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Chráňte svoju e-mailovú adresu:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

@@ -26,6 +26,7 @@ download-ui-dont-quit-button =
         [mac] Nie, pokračovať
        *[other] Nie, pokračovať
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ak sa teraz prepnete do režimu offline, zruší sa sťahovanie jedného súboru. Naozaj chcete prepnúť do režimu offline?
@@ -34,6 +35,7 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Ak sa teraz prepnete do režimu offline, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete prepnúť do režimu offline?
     }
 download-ui-dont-go-offline-button = Nie, zostať v režime online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ak teraz zavriete všetky súkromné okná, zruší sa sťahovanie jedného súboru. Naozaj chcete opustiť režim súkromného prehliadania?
@@ -42,6 +44,7 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
        *[other] Ak teraz zavriete všetky súkromné okná, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete opustiť režim súkromného prehliadania?
     }
 download-ui-dont-leave-private-browsing-button = Zostať v súkromnom prehliadaní
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Áno, zrušiť sťahovanie súboru

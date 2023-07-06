@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Otvoriť ponuku pre { $extensionName }
+
 unified-extensions-item-message-manage = Spravovať rozšírenie
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Pripnúť na panel nástrojov
+
 unified-extensions-context-menu-manage-extension =
     .label = Spravovať rozšírenie
+
 unified-extensions-context-menu-remove-extension =
     .label = Odstrániť rozšírenie
+
 unified-extensions-context-menu-report-extension =
     .label = Nahlásiť rozšírenie
+
 unified-extensions-context-menu-move-widget-up =
     .label = Posunúť nahor
+
 unified-extensions-context-menu-move-widget-down =
     .label = Posunúť nadol
 

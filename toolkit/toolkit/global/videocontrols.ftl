@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-videocontrols-scrubber =
-    .aria-label = Pozícia
 # This label is used by screenreaders and other assistive technology to indicate
 # to users how much of the video has been loaded from the network. It will be
 # followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
@@ -12,6 +10,7 @@ videocontrols-volume-control =
     .aria-label = Hlasitosť
 videocontrols-closed-caption-button =
     .aria-label = Titulky
+
 videocontrols-play-button =
     .aria-label = Prehrať
 videocontrols-pause-button =
@@ -28,23 +27,20 @@ videocontrols-casting-button-label =
     .aria-label = Prehrať na obrazovke
 videocontrols-closed-caption-off =
     .offlabel = Vypnuté
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Obraz v obraze
-# This string is used as the label for a variation of the Picture-in-Picture video
-# toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = Sledovať v režime Obraz v obraze
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer = Prehrávajte videá v popredí a zároveň robte v aplikácii { -brand-short-name } kľudne niečo iné
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Presunúť video do samostatného okna
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Viac obrazoviek znamená viac zábavy. Prehrajte si toto video, zatiaľ čo robíte iné veci.
+
 videocontrols-error-aborted = Načítavanie videa zastavené.
 videocontrols-error-network = Prehrávanie videa bolo prerušené kvôli chybe siete.
 videocontrols-error-decode = Video nemôže byť prehraté, pretože súbor je poškodený.
@@ -52,6 +48,7 @@ videocontrols-error-src-not-supported = Formát videa alebo typ MIME nie je podp
 videocontrols-error-no-source = Nebolo nájdené video s podporovaným formátom a typom MIME.
 videocontrols-error-generic = Prehrávanie videa bolo prerušené kvôli neznámej chybe.
 videocontrols-status-picture-in-picture = Toto video sa prehráva ako Obraz v obraze.
+
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -65,6 +62,7 @@ videocontrols-status-picture-in-picture = Toto video sa prehráva ako Obraz v ob
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #
