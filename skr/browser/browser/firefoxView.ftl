@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = تندیر لکاؤ
 firefoxview-overview-nav = حالیہ براؤزنگ
     .title = حالیہ براؤزنگ
+firefoxview-overview-header = حالیہ براؤزنگ
+    .title = حالیہ براؤزنگ
 
 ## History in this context refers to browser history
 
@@ -124,6 +126,7 @@ firefoxview-opentabs-focus-tab =
     .title = ایں ٹیب تے سوئچ کرو
 firefoxview-show-more = ودھیک ݙکھاؤ
 firefoxview-show-less = گھٹ ݙکھاؤ
+firefoxview-sort-history-by-date-label = تریخ دے لحاظ نال چھانٹی کرو
 firefoxview-sort-history-by-site-label = سائٹ دے لحاظ نال چھانٹی کرو
 
 ## Variables:

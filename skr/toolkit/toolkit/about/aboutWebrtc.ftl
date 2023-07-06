@@ -293,6 +293,9 @@ about-webrtc-hide-msg-sdp = SDP لُکاؤ
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = میڈیا سياق ݙکھاؤ
+about-webrtc-media-context-hide-msg = میڈیا سياق لکاؤ
+about-webrtc-media-context-heading = میڈیا سياق
 
 ##
 
