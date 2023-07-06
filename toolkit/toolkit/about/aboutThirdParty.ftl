@@ -90,3 +90,4 @@ third-party-restart-later = Riavvia più tardi
 third-party-blocked-by-builtin =
     .title = Bloccato da { -brand-short-name }
     .alt = Bloccato da { -brand-short-name }
+
