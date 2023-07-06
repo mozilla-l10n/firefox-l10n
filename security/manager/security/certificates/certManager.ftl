@@ -23,10 +23,6 @@ certmgr-people = لديك شهادات على ملفّ تعرّف هؤلاء ا�
 certmgr-server = تُعرّف هذه المُدخلات استثناءات الأعطال في شهادات الخواديم
 certmgr-ca = لديك شهادات على ملفّ تعرّف سلطات الشّهادات هذه
 
-certmgr-edit-ca-cert =
-    .title = حرِّر إعدادات ثقة شهادة سلطة الشّهادات
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = حرِّر إعدادات ثقة شهادة سلطة الشّهادات
     .style = min-width: 48em;
@@ -38,10 +34,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = تستطيع هذه الشّهادة تعريف مستخدمي البريد.
-
-certmgr-delete-cert =
-    .title = احذف الشّهادة
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = احذف الشّهادة
@@ -55,9 +47,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = الخادوم
-
-certmgr-override-lifetime =
-    .label = الصلاحية
 
 certmgr-token-name =
     .label = جهاز الأمن

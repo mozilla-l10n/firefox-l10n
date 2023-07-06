@@ -39,5 +39,9 @@ url-classifier-disabled = معطل
 url-classifier-updating = يُحدّث
 url-classifier-cannot-update = تعذّر التحديث
 url-classifier-success = نجاح
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = خطأ في التحديث ({ $error })
 url-classifier-download-error = خطأ في التنزيل ({ $error })

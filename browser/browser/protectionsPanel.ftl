@@ -107,3 +107,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = ألغِ
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = أرسِل البلاغ
+
+# Cookie Banner Handling
+

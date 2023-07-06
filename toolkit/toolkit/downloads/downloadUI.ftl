@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] لا تُنهِ
        *[other] لا تخرج
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] إذا انتقلت إلى العمل دون اتصال الآن، سيُلغى تنزيل واحد. أمتأكّد أنّك تريد الانتقال إلى العمل دون اتصال؟
        *[other] إذا انتقلت إلى العمل دون اتصال الآن، ستُُلغى { $downloadsCount } من التنزيلات. أمتأكّد أنّك تريد الانتقال إلى العمل دون اتصال؟
     }
 download-ui-dont-go-offline-button = ابقَ متّصلا
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] إن أغلقت كل نوافذ التصفح الخاص الآن، فسيُلغى تنزيل واحد. هل أنت متأكد أنك تريد مغادرة التصفح الخاص؟
        *[other] إن أغلقت كل نوافذ التصفح الخاص الآن، فسيُلغى { $downloadsCount } من التنزيلات. هل أنت متأكد أنك تريد مغادرة التصفح الخاص؟
     }
 download-ui-dont-leave-private-browsing-button = ابقَ في التصفح الخاص
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] ألغِ تنزيلًا واحدًا

@@ -5,6 +5,7 @@
 experimental-features-devtools-compatibility-panel =
     .label = أدوات المطوّرين: لوحة التوافقية
 
+
 # Search during IME
 experimental-features-ime-search =
     .label = شريط العنوان: عرض النتائج أثناء الكتابة بمحرّر IME

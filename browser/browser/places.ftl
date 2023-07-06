@@ -20,8 +20,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = افتح في نافذة خاصة جديدة
     .accesskey = خ
+
 places-empty-bookmarks-folder =
     .label = (فارغ)
+
 places-add-bookmark =
     .label = أضِف علامة…
     .accesskey = ع
@@ -34,6 +36,7 @@ places-add-folder =
 places-add-separator =
     .label = أضِف فاصلًا
     .accesskey = ف
+
 places-view =
     .label = اعرض
     .accesskey = ع
@@ -52,12 +55,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = حسب التاريخ والموقع
     .accesskey = ق
+
 places-history-search =
     .placeholder = تأريخ البحث
 places-history =
     .aria-label = التأريخ
 places-bookmarks-search =
     .placeholder = علامات البحث
+
 places-delete-domain-data =
     .label = انسَ هذا الموقع
     .accesskey = ن
@@ -83,99 +88,128 @@ places-delete-page =
            *[other] احذف الصفحات
         }
     .accesskey = ذ
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = العلامات المُدارة
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = مجلد فرعي
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = العلامات الأخرى
+
 places-show-in-folder =
     .label = اعرض في المجلد
     .accesskey = ع
+
 places-manage-bookmarks =
     .label = أدِر العلامات
     .accesskey = د
-places-library =
-    .title = المكتبة
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = المكتبة
+
 places-organize-button =
     .label = نظّم
     .tooltiptext = نظّم علاماتك
     .accesskey = ظ
+
 places-organize-button-mac =
     .label = نظّم
     .tooltiptext = نظّم علاماتك
+
 places-file-close =
     .label = أغلق
     .accesskey = غ
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = المناظير
     .tooltiptext = غيّر المنظور
     .accesskey = ظ
+
 places-view-button-mac =
     .label = المناظير
     .tooltiptext = غيّر المنظور
+
 places-view-menu-columns =
     .label = أظهر الأعمدة
     .accesskey = ع
+
 places-view-menu-sort =
     .label = رتّب
     .accesskey = ر
+
 places-view-sort-unsorted =
     .label = غير مرتّبة
     .accesskey = غ
+
 places-view-sort-ascending =
     .label = ترتيب أ > ي
     .accesskey = أ
+
 places-view-sort-descending =
     .label = ترتيب ي > أ
     .accesskey = ي
+
 places-maintenance-button =
     .label = الاستيراد والحفظ الاحتياطي
     .tooltiptext = استورد علاماتك واحفظ نسخًا احتياطية منها
     .accesskey = ط
+
 places-maintenance-button-mac =
     .label = الاستيراد والحفظ الاحتياطي
     .tooltiptext = استورد علاماتك واحفظ نسخًا احتياطية منها
+
 places-cmd-backup =
     .label = احفظ احتياطيًا…
     .accesskey = ط
+
 places-cmd-restore =
     .label = استعِد
     .accesskey = ت
+
 places-cmd-restore-from-file =
     .label = اختر ملفًا…
     .accesskey = خ
+
 places-import-bookmarks-from-html =
     .label = استورد العلامات من HTML…
     .accesskey = و
+
 places-export-bookmarks-to-html =
     .label = صدّر العلامات إلى HTML…
     .accesskey = ر
+
 places-import-other-browser =
     .label = استورد البيانات من متصفح آخر…
     .accesskey = خ
+
 places-view-sort-col-name =
     .label = الاسم
+
 places-view-sort-col-tags =
     .label = الوسوم
+
 places-view-sort-col-url =
     .label = المكان
+
 places-view-sort-col-most-recent-visit =
     .label = آخر زيارة
+
 places-view-sort-col-visit-count =
     .label = عدد الزيارات
+
 places-view-sort-col-date-added =
     .label = مُضاف
+
 places-view-sort-col-last-modified =
     .label = آخر تعديل
+
 places-view-sortby-name =
     .label = رتّب بالاسم
     .accesskey = س
@@ -197,13 +231,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = رتّب بالوسوم
     .accesskey = س
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = انتقل للخلف
+
 places-forward-button =
     .tooltiptext = انتقل إلى الأمام
+
 places-details-pane-select-an-item-description = اختر عنصرًا لعرضه وتحرير خصائصه
+
 places-details-pane-no-items =
     .value = لا عناصر
 # Variables:

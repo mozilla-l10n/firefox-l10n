@@ -130,13 +130,6 @@ cfr-doorhanger-doh-secondary-button = عطّل
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = خصوصيتك فوق كل شيء. بات { -brand-short-name } يعزل (أو بالإنجليزية، sandbox) المواقع عن بعضها بعض، ما يصعّب على المخترقين سرقة كلمات السر أو أرقام البطاقات الائتمانية أو غيرها من معلومات حساسة.
-cfr-doorhanger-fission-header = عزل المواقع
-cfr-doorhanger-fission-primary-button = حسنًا، فهمت
-    .accesskey = ح
-cfr-doorhanger-fission-secondary-button = اطّلع على المزيد
-    .accesskey = ط
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = قد لا تعمل الڤِديوهات في هذا الموقع كما ينبغي في إصدارة { -brand-short-name } هذه. من فضلك حدّث { -brand-short-name } الآن لتحصل على الدعم الكامل للڤِديوهات.
@@ -145,11 +138,6 @@ cfr-doorhanger-video-support-primary-button = حدّث الآن
     .accesskey = ح
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = اطّلع على المزيد
-    .title = وسّع القسم للاطّلاع على المزيد بخصوص الميزة
-spotlight-learn-more-expanded = اطّلع على المزيد
-    .title = أغلِق
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -166,8 +154,6 @@ spotlight-public-wifi-vpn-link = ليس الآن
     .accesskey = ل
 
 ## Total Cookie Protection Rollout
-
-spotlight-total-cookie-protection-secondary-button = ليس الآن
 
 ## Emotive Continuous Onboarding
 
@@ -187,4 +173,16 @@ spotlight-total-cookie-protection-secondary-button = ليس الآن
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

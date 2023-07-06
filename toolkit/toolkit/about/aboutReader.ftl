@@ -4,10 +4,12 @@
 
 about-reader-loading = يُحمّل…
 about-reader-load-error = فشل تحميل المقالة من الصفحة
+
 about-reader-color-scheme-light = فاتح
     .title = مخطّط الألوان فاتح
 about-reader-color-scheme-dark = داكن
     .title = مخطّط الألوان داكن
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

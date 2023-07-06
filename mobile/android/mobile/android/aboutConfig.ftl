@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = بحث
 config-new-pref-name =
     .placeholder = الاسم
+
 config-new-pref-value-boolean = عدد منطقي
 config-new-pref-value-string = نص
 config-new-pref-value-integer = عدد صحيح
+
 config-new-pref-string =
     .placeholder = أدخل نصًا
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = ألغِ
 config-new-pref-create-button = أنشئ
 config-new-pref-change-button = غيّر
+
 config-pref-toggle-button = بدّل
 config-pref-reset-button = صفّر
+
 config-context-menu-copy-pref-name =
     .label = انسخ الاسم
 config-context-menu-copy-pref-value =

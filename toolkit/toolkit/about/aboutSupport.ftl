@@ -144,6 +144,8 @@ media-device-channels = القنوات
 media-device-rate = المعدل
 media-device-latency = الكمون
 
+## Codec support table
+
 ##
 
 intl-title = التدويل و التوطين

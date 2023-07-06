@@ -16,7 +16,6 @@ styleeditor-save-button = احفظ
     .accesskey = ح
 styleeditor-options-button =
     .tooltiptext = خيارات محرر الأنماط
-styleeditor-media-rules = قواعد ‎@media
 styleeditor-editor-textbox =
     .data-placeholder = اكتب CSS هنا.
 styleeditor-no-stylesheet = ليس لهذه الصفحة أي طُرز.
@@ -34,6 +33,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = اقفز إلى سطر…
     .accesskey = ق
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
