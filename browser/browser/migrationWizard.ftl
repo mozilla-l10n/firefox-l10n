@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = ბრაუზერის მონაცემების გადმოტანა
 migration-wizard-selection-list = აირჩიეთ მონაცემები, რომელთა გადმოტანაც გსურთ.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = აირჩიეთ მონაცემე
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,18 +55,22 @@ migration-selected-data-label = შერჩეული მონაცემ�
 
 migration-select-all-option-label = ყველას მონიშვნა
 migration-bookmarks-option-label = სანიშნები
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = რჩეულები
+
 migration-logins-and-passwords-option-label = შენახული ანგარიშები და პაროლები
 migration-history-option-label = დათვალიერების ისტორია
 migration-form-autofill-option-label = შევსებული ველების მონაცემები
 migration-payment-methods-option-label = გადახდის საშუალებები
+
 migration-passwords-from-file-progress-header = პაროლების ფაილის გადმოტანა
 migration-passwords-from-file-success-header = პაროლები გადმოტანილია წარმატებით
 migration-passwords-from-file = ფაილის შემოწმება პაროლებისთვის
 migration-passwords-new = ახალი პაროლები
 migration-passwords-updated = არსებული პაროლები
+
 migration-passwords-from-file-picker-title = პაროლების ფაილის გადმოტანა
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -80,6 +86,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-დოკუმენტი
        *[other] TSV-ფაილი
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -90,6 +97,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } დაემატა
        *[other] { $newEntries } დაემატა
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -100,10 +108,12 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } განახლდა
        *[other] { $updatedEntries } განახლდა
     }
+
 migration-bookmarks-from-file-picker-title = სანიშნების ფაილის შემოტანა
 migration-bookmarks-from-file-progress-header = სანიშნების შემოტანა…
 migration-bookmarks-from-file = სანიშნები
 migration-bookmarks-from-file-success-header = სანიშნების შემოტანა დასრულდა წარმატებით
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -111,15 +121,18 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML დოკუმენტი
        *[other] HTML ფაილი
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON ფაილი
+
 migration-import-button-label = გადმოტანა
 migration-choose-to-import-from-file-button-label = ფაილიდან გადმოტანა
 migration-import-from-file-button-label = ფაილის არჩევა
 migration-cancel-button-label = გაუქმება
 migration-done-button-label = მზადაა
 migration-continue-button-label = გაგრძელება
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ვერ პოულობს პროგრამას, რომელიც შეიცავს სანიშნების, ისტორიის ან პაროლის მონაცემებს.
 migration-wizard-import-browser-no-resources = შეცდომა წარმოიშვა. { -brand-short-name } ვერ ახერხებს მონაცემების გადმოტანას ბრაუზერის ამ პროფილიდან.
 
@@ -130,6 +143,7 @@ migration-wizard-import-browser-no-resources = შეცდომა წარ�
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = სანიშნები
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = რჩეულები
@@ -146,6 +160,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = გადმოდის…
 migration-wizard-progress-icon-completed =
     .aria-label = დასრულდა
+
 migration-safari-password-import-header = პაროლების გადმოტანა – Safari
 migration-safari-password-import-steps-header = Safari-ს პაროლების გადმოსატანად:
 migration-safari-password-import-step1 = Safari-ში გახსენით მენიუ „Safari“ და იხილეთ Preferences > Passwords
@@ -154,6 +169,8 @@ migration-safari-password-import-step3 = შეინახეთ პარო�
 migration-safari-password-import-step4 = მიუთითეთ „ფაილის არჩევა“ ქვემოთ შენახული ფაილის შემოსატანად
 migration-safari-password-import-skip-button = გამოტოვება
 migration-safari-password-import-select-button = ფაილის არჩევა
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -164,6 +181,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } სანიშნე
        *[other] { $quantity } სანიშნე
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -176,6 +194,13 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } რჩეული
        *[other] { $quantity } რჩეული
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -186,6 +211,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } პაროლი
        *[other] { $quantity } პაროლი
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -196,7 +222,9 @@ migration-wizard-progress-success-history =
         [one] წინა დღიდან
        *[other] წინა { $maxAgeInDays } დღიდან
     }
+
 migration-wizard-progress-success-formdata = შევსებული ველები
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -207,6 +235,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } გადახდის საშუალება
        *[other] { $quantity } გადახდის საშუალება
     }
+
 migration-wizard-safari-permissions-sub-header = Safari-ს სანიშნებისა და დათვალიერების ისტორიის გადმოსატანად:
 migration-wizard-safari-instructions-continue = აირჩიეთ „გაგრძელება“
 migration-wizard-safari-instructions-folder = აირჩიეთ Safari-ს საქაღალდე სიიდან და მიუთითეთ „გახსნა“

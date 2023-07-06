@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-clear-site-data-window =
-    .title = მონაცემების გასუფთავება
-    .style = width: 35em
-
 clear-site-data-window2 =
     .title = მონაცემების გასუფთავება
     .style = min-width: 35em

@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = უნდა შეხვიდეთ { -fxacc
 firefox-relay-get-unlimited-masks =
     .label = ნიღბების მართვა
     .accesskey = მ
-firefox-relay-opt-in-title = დაიცავით საკუთარი ელფოსტის მისამართი
-firefox-relay-opt-in-subtitle = დაამატეთ { -relay-brand-name }
-firefox-relay-generate-mask-title = დაიცავით საკუთარი ელფოსტის მისამართი
-firefox-relay-generate-mask-subtitle = დაამზადეთ { -relay-brand-short-name }-ნიღაბი
-firefox-relay-opt-in-confirmation-enable =
-    .label = განაგრძეთ
-    .accesskey = გ
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = დაიცავით საკუთარი ელფოსტის მისამართი:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

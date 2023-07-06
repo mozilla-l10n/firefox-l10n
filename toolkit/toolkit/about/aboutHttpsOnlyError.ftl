@@ -21,6 +21,10 @@ about-httpsonly-link-learn-more = ვრცლად…
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
+
 about-httpsonly-suggestion-box-header = შესაძლო არჩევანი
 about-httpsonly-suggestion-box-www-text = საიტს <em>www.{ $websiteUrl }</em> გააჩნია დაცული ვერსიაც. შეგიძლიათ მას ეწვიოთ, <em>{ $websiteUrl }</em> საიტის სანაცვლოდ.
 about-httpsonly-suggestion-box-www-button = იხილეთ www.{ $websiteUrl }
