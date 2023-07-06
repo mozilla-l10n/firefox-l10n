@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     Вы атрымалі няспраўны сертыфікат.  Звяжыцеся, калі ласка, з адміністратарам сервера ці з э-паштовым карэспандэнтам і паведаміце ім наступныя звесткі:
     
     Ваш сертыфікат змяшчае серыйны нумар, аднолькавы з нумарам іншага сертыфіката, выдадзенага цэнтрам сертыфікацыі.  Атрымайце, калі ласка, новы сертыфікат, які змяшчае ўнікальны серыйны нумар.
+
 ssl-error-export-only-server = Немагчыма бяспечна злучыцца. Пір не падтрымлівае высокаўзроўневае шыфраванне.
 ssl-error-us-only-server = Немагчыма бяспечна злучыцца. Пір патрабуе высокаўзроўневае шыфраванне, якое не падтрымліваецца.
 ssl-error-no-cypher-overlap = Немагчыма бяспечна злучыцца з пірам: няма агульнага алгарытму(-аў) шыфравання.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Не наладжаны ні адз
 ssl-error-unsupported-signature-algorithm = Пір выкарыстоўвае непадтрыманае спалучэнне алгарытмаў подпісу і хэшавання.
 ssl-error-missing-extended-master-secret = Пір спрабаваў прадоўжыць без карэктнага пашырэння extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Пір спрабаваў прадоўжыць з нечаканым пашырэннем extended_master_secret.
+
 sec-error-io = Здарылася памылка ўводу/вываду ў часе бяспечнай аўтарызацыі.
 sec-error-library-failure = няўдача бібліятэкі бяспекі.
 sec-error-bad-data = бібліятэка бяспекі: атрыманы кепскія дадзеныя.
@@ -317,6 +319,7 @@ sec-error-locked-password = Замкнёны пароль.
 sec-error-unknown-pkcs11-error = Невядомая памылка PKCS #11.
 sec-error-bad-crl-dp-url = URL няспраўны або не падтрымліваецца ў назве пункта распаўсюджвання САП.
 sec-error-cert-signature-algorithm-disabled = Сертыфікат падпісаны з дапамогай алгарытму, які забаронены, бо лічыцца небяспечным.
+
 mozilla-pkix-error-key-pinning-failure = Сервер выкарыстоўвае замацаванне/пінінг ключоў (HPKP), але немагчыма стварыць ланцуг давераных сертыфікатаў, які б адпавядаў набору замацовак/пінаў. Парушэнні пінінгу не могуць быць перавызначаны.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Сервер выкарыстоўвае сертыфікат з асноўным пашырэннем ідэнтыфікацыі, пазначаючы яго як сертыфікацыйную ўстанову. Для правільна выдадзеных сертыфікатаў гэта не павінна мець месца.
 mozilla-pkix-error-inadequate-key-size = Сервер прадстаўляе сертыфікат з памерам ключа, які занадта малы, каб усталяваць бяспечнае злучэнне.
@@ -331,9 +334,11 @@ mozilla-pkix-error-invalid-integer-encoding = Сервер прадставіў 
 mozilla-pkix-error-empty-issuer-name = Сервер прадставіў сертыфікат з пустым адметным імем выдаўца.
 mozilla-pkix-error-additional-policy-constraint-failed = Пры праверцы гэтага сертыфіката выяўлена парушэнне абмежавання дадатковай палітыкі.
 mozilla-pkix-error-self-signed-cert = Сертыфікату нельга давяраць, бо ён самападпісаны.
+
 xp-java-remove-principal-error = Немагчыма выдаліць галаўнік
 xp-java-delete-privilege-error = Немагчыма выдаліць прывілей
 xp-java-cert-not-exists-error = Гэты галаўнік не мае сертыфіката
+
 xp-sec-fortezza-bad-card = Картка Fortezza не была ініцыялізавана належным чынам. Выдаліце яе, калі ласка, і вярніце вашаму выдаўцу.
 xp-sec-fortezza-no-card = Не знойдзены карткі Fortezza
 xp-sec-fortezza-none-selected = Картка Fortezza не вылучана

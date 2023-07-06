@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Рэкамендаваная функцыя
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаму я гэта бачу
+
 cfr-doorhanger-extension-cancel-button = Не зараз
     .accesskey = Н
+
 cfr-doorhanger-extension-ok-button = Дадаць
     .accesskey = Д
+
 cfr-doorhanger-extension-manage-settings-button = Кіраваць наладамі рэкамендацый
     .accesskey = ь
+
 cfr-doorhanger-extension-never-show-recommendation = Не паказваць мне гэту рэкамендацыю
     .accesskey = ы
+
 cfr-doorhanger-extension-learn-more-link = Даведацца больш
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ад { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рэкамендацыя
 cfr-doorhanger-extension-notification2 = Рэкамендацыя
     .tooltiptext = Рэкамендацыя пашырэння
     .a11y-announcement = Даступна рэкамендацыя пашырэння
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Рэкамендацыя
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Даведацца больш
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Новая функцыя:
+
 cfr-whatsnew-button =
     .label = Што новага
     .tooltiptext = Што новага
+
 cfr-whatsnew-release-notes-link-text = Прачытаць заўвагі да выпуску
 
 ## Enhanced Tracking Protection Milestones
@@ -111,13 +121,6 @@ cfr-doorhanger-doh-secondary-button = Адключыць
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Ваша прыватнасць мае значэнне. { -brand-short-name } цяпер ізалюе, у "пясочніцы", сайты адзін ад аднаго, што ўскладняе хакерам крадзеж пароляў, нумароў крэдытных карт і іншай канфідэнцыяльнай інфармацыі.
-cfr-doorhanger-fission-header = Ізаляцыя сайтаў
-cfr-doorhanger-fission-primary-button = OK, зразумела
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Даведацца больш
-    .accesskey = Д
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Відэа на гэтым сайце могуць прайгравацца няправільна ў гэтай версіі { -brand-short-name }. Для поўнай падтрымкі відэа абнавіце { -brand-short-name } зараз.
@@ -126,11 +129,6 @@ cfr-doorhanger-video-support-primary-button = Абнавіць зараз
     .accesskey = А
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Падрабязней
-    .title = Разгарнiцe, каб даведацца больш пра гэтую функцыю
-spotlight-learn-more-expanded = Падрабязней
-    .title = Закрыць
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -147,18 +145,6 @@ spotlight-public-wifi-vpn-link = Не зараз
     .accesskey = Н
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Выпрабуйце нашу самую магутную
-    ахову прыватнасці за ўвесь час
-spotlight-total-cookie-protection-body = Поўная ахова кукаў перашкаджае трэкерам выкарыстоўваць файлы кукі для сачэння за вамі ў інтэрнэце.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } будуе плот вакол файлаў кукі, абмяжоўваючы іх толькі сайтам, на якім вы знаходзіцеся, таму трэкеры не могуць выкарыстоўваць іх, каб сачыць за вамі. З раннім доступам вы дапаможаце аптымізаваць гэту функцыю, каб мы маглі працягваць ствараць лепшае сеціва для ўсіх.
-spotlight-total-cookie-protection-primary-button = Уключыць поўную ахову кукаў
-spotlight-total-cookie-protection-secondary-button = Не зараз
 
 ## Emotive Continuous Onboarding
 
@@ -188,11 +174,13 @@ spotlight-pin-secondary-button = Не зараз
 
 mr2022-background-update-toast-title = Новы { -brand-short-name }. Больш прыватны. Менш трэкераў. Ніякіх кампрамісаў.
 mr2022-background-update-toast-text = Паспрабуйце найноўшы { -brand-short-name } зараз, абноўлены нашай самай моцнай аховай ад сачэння.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Адкрыць { -brand-shorter-name } зараз
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -211,6 +199,7 @@ firefoxview-cfr-body-v2 = Вяртайце нядаўна закрытыя ка�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Павітайцеся з { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Хочаце гэтую адкрытую картку на тэлефоне? Трымайце. Патрэбен той сайт, які вы толькі што наведалі? Пуф, ён вярнуўся з { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Паглядзець, як гэта працуе
@@ -220,6 +209,7 @@ firefoxview-spotlight-promo-secondarybutton = Прапусціць
 
 colorways-cfr-primarybutton = Выберыце расфарбоўку
     .accesskey = В
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Расфарбуйце свой браўзер эксклюзіўнымі адценнямі { -brand-short-name }, натхнёнымі галасамі, якія змянілі культуру.
 colorways-cfr-header-28days = Расфарбоўкі незалежных галасоў даступныя да 16 студзеня
@@ -242,6 +232,7 @@ july-jam-headline = Можаце разлічваць на нас
 july-jam-body = Кожны месяц { -brand-short-name } блакуе ў сярэднім больш за 3000 трэкераў на карыстальніка, даючы вам бяспечны і хуткі доступ да добрага інтэрнэту.
 july-jam-set-default-primary = Адкрываць мае спасылкі ў { -brand-short-name }
 fox-doodle-pin-headline = З вяртаннем
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Кароткі напамін аб тым, што вы можаце трымаць пад рукой свой любімы незалежны браўзер.

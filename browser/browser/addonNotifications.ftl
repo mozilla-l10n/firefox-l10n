@@ -14,6 +14,7 @@ xpinstall-prompt-message = Вы спрабуеце ўсталяваць дада
 
 xpinstall-prompt-header-unknown = Дазволіць невядомаму сайту ўсталяваць дадатак?
 xpinstall-prompt-message-unknown = Вы спрабуеце ўсталяваць дадатак з невядомага сайта. Упэўніцеся, што вы давяраеце гэтаму сайту, перш чым працягнуць.
+
 xpinstall-prompt-dont-allow =
     .label = Не дазваляць
     .accesskey = Н
@@ -44,6 +45,7 @@ xpinstall-disabled = Усталяванне праграмнага забесп�
 xpinstall-disabled-button =
     .label = Дазволіць
     .accesskey = Д
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) заблакав
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ваш сістэмны адміністратар заблакаваў запыт на ўсталяванне праграм на камп'ютар з гэтага сайта.
 addon-install-full-screen-blocked = Усталёўка дататкаў не дапускаецца ў час або перад пачаткам поўнаэкраннага рэжыму.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } дададзена ў { -brand-short-name }
@@ -69,6 +72,7 @@ addon-removal-title = Выдаліць { $name }?
 addon-removal-message = Выдаліць { $name } з { -brand-shorter-name }?
 addon-removal-button = Выдаліць
 addon-removal-abuse-report-checkbox = Паведаміць пра гэта пашырэнне ў { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -78,6 +82,7 @@ addon-downloading-and-verifying =
        *[many] Сцягванне і праверка { $addonCount } дадаткаў…
     }
 addon-download-verifying = Праверка
+
 addon-install-cancel-button =
     .label = Скасаваць
     .accesskey = С

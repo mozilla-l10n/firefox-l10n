@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Выключэнні
-    .style = width: 38em
 permissions-window2 =
     .title = Выключэнні
     .style = min-width: 38em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адрас сайта
     .accesskey = д
+
 permissions-block =
     .label = Блакаваць
     .accesskey = Б
+
 permissions-disable-etp =
     .label = Дадаць выключэнне
     .accesskey = Д
+
 permissions-session =
     .label = Дазволіць на сеанс
     .accesskey = с
+
 permissions-allow =
     .label = Дазволіць
     .accesskey = Д
+
 permissions-button-off =
     .label = Выключыць
     .accesskey = В
+
 permissions-button-off-temporarily =
     .label = Часова выключыць
     .accesskey = Ч
+
 permissions-site-name =
     .label = Вэб-сайт
+
 permissions-status =
     .label = Статус
+
 permissions-remove =
     .label = Выдаліць вэб-сайт
     .accesskey = В
+
 permissions-remove-all =
     .label = Выдаліць усе вэб-сайты
     .accesskey = ы
+
 permission-dialog =
     .buttonlabelaccept = Захаваць змены
     .buttonaccesskeyaccept = Ы
+
 permissions-autoplay-menu = Прадвызначана для ўсіх сайтаў:
+
 permissions-searchbox =
     .placeholder = Пошук сярод вэб-сайтаў
+
 permissions-capabilities-autoplay-allow =
     .label = Дазваляць гук і відэа
 permissions-capabilities-autoplay-block =
     .label = Блакаваць гук
 permissions-capabilities-autoplay-blockall =
     .label = Блакаваць гук і відэа
+
 permissions-capabilities-allow =
     .label = Дазволіць
 permissions-capabilities-block =
     .label = Блакаваць
 permissions-capabilities-prompt =
     .label = Заўсёды пытаць
+
 permissions-capabilities-listitem-allow =
     .value = Дазволіць
 permissions-capabilities-listitem-block =
     .value = Блакаваць
 permissions-capabilities-listitem-allow-session =
     .value = Дазволіць на сеанс
+
 permissions-capabilities-listitem-off =
     .value = Выкл.
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Увядзіце назву хоста
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Выключэнні для ўзмоцненай аховы ад сачэння
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Вы адключылі ахову на гэтых сайтах.
 permissions-exceptions-etp-window2 =
     .title = Выключэнні для ўзмоцненай аховы ад сачэння
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Вы можаце вызначыць, �
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Выключэнні - Кукі і дадзеныя сайтаў
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Выключэнні - Кукі і дадзеныя сайтаў
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Вы можаце ўказаць, якім 
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Выключэнні - Рэжым толькі HTTPS
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Выключэнні - Рэжым толькі HTTPS
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Вы можаце выключыць р
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Дазволеныя вэб-сайты - Выплыўныя вокны
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Дазволеныя вэб-сайты - Выплыўныя вокны
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Вы можаце вызначыць, які
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Выключэнні - Запісаныя лагіны
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Выключэнні - Запісаныя лагіны
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Лагіны для наступны�
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Дазволеныя вэб-сайты - Усталяванне дадаткаў
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Дазволеныя вэб-сайты - Усталяванне дадаткаў
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Вы можаце вызначыць, як�
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Налады - Аўтапрайграванне
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Налады - Аўтапрайграванне
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Тут вы можаце кіраваць са�
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Налады - Дазволы абвесткі
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Налады - Дазволы абвесткі
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Гэта не дазволіць в
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Налады - Дазволы месцазнаходжання
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Налады - Дазволы месцазнаходжання
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Гэта не дазволіць вэб
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Налады - Дазволы віртуальнай рэальнасці
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Налады - Дазволы віртуальнай рэальнасці
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Гэта не дазволіць вэб-са�
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Налады - Дазволы камеры
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Налады - Дазволы камеры
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Гэта не дазволіць вэб-�
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Налады - Дазволы мікрафона
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Налады - Дазволы мікрафона
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Налады - Дазволы дынамікаў
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Наступныя сайты запыталі дазвол на выбар прылады вываду гуку. Вы можаце ўказаць, якім сайтам дазволена выбіраць прыладу вываду гуку.
+
 permissions-exceptions-doh-window =
     .title = Выключэнні вэб-сайтаў для DNS праз HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } не будзе выкарыстоўваць бяспечны DNS на гэтых сайтах і іх субдаменах.
+
 permissions-doh-entry-field = Увядзіце даменнае імя сайта
     .accesskey = в
+
 permissions-doh-add-exception =
     .label = Дадаць
     .accesskey = Д
+
 permissions-doh-col =
     .label = Дамен
+
 permissions-doh-remove =
     .label = Выдаліць
     .accesskey = В
+
 permissions-doh-remove-all =
     .label = Выдаліць усе
     .accesskey = у

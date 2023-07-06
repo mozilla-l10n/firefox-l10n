@@ -50,5 +50,9 @@ url-classifier-disabled = Выключана
 url-classifier-updating = абнаўленне
 url-classifier-cannot-update = не атрымалася абнавіць
 url-classifier-success = паспяхова
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = памылка абнаўлення ({ $error })
 url-classifier-download-error = памылка сцягвання ({ $error })

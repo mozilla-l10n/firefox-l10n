@@ -8,16 +8,20 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Паведаміць пра { $addon-name }
+
 abuse-report-title-extension = Паведаміць пра гэта пашырэнне ў { -vendor-short-name }
 abuse-report-title-sitepermission = Паведаміць пра гэты дадатак дазволаў для сайта ў { -vendor-short-name }
 abuse-report-title-theme = Паведаміць пра гэту тэму ў { -vendor-short-name }
 abuse-report-subtitle = У чым праблема?
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = ад <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore =
     Няўпэўнены, якую праблему выбраць?
     <a data-l10n-name="learnmore-link">Даведацца больш аб паведамленні пра пашырэнні і тэмы</a>
+
 abuse-report-submit-description = Апішыце праблему (неабавязкова)
 abuse-report-textarea =
     .placeholder = Нам лягчэй вырашыць праблему, калі нам вядомы падрабязнасці. Калі ласка, апішыце, што здарылася. Дзякуем, што дапамагаеце падтрымліваць здароўе сеціва.
@@ -62,14 +66,18 @@ abuse-report-messagebar-action-cancel = Скасаваць
 
 abuse-report-damage-reason-v2 = Пашкодзіла мой камп'ютар або кампраметавала мае дадзеныя
 abuse-report-damage-example = Прыклад: Укаранёна шкодная праграма або скрадзены дадзеныя
+
 abuse-report-spam-reason-v2 = Утрымлівае спам або ўстаўляе непажаданую рэкламу
 abuse-report-spam-example = Прыклад: устаўлены аб'явы на вэб-старонках
+
 abuse-report-settings-reason-v2 = Змяніла маю пошукавую сістэму, хатнюю старонку або новую картку, не інфармуючы і не спытаўшы мяне
 abuse-report-settings-suggestions = Перш чым паведаміць аб пашырэнні, вы можаце паспрабаваць змяніць параметры:
 abuse-report-settings-suggestions-search = Змяніць прадвызначаныя налады пошуку
 abuse-report-settings-suggestions-homepage = Змяніць хатнюю старонку і новую картку
+
 abuse-report-deceptive-reason-v2 = Выдае сябе за тое, чым не з'яўляецца
 abuse-report-deceptive-example = Прыклад: Апісанне або выява ўводзіць у зман
+
 abuse-report-broken-reason-extension-v2 = Не працуе, псуе вэб-сайты або запавольвае { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Не працуе, псуе вэб-сайты або запавольвае { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Не працуе або парушае адлюстраванне браўзера
@@ -86,11 +94,14 @@ abuse-report-broken-suggestions-theme =
     Падобна на тое, што вы выявілі памылку. Акрамя прадстаўлення справаздачы тут, лепшы спосаб
     вырашыць праблему з функцыянальнасцю - звязацца з распрацоўшчыкам тэмы.
     <a data-l10n-name="support-link">Наведайце вэб-сайт тэмы</a> для звестак пра распрацоўшчыка.
+
 abuse-report-policy-reason-v2 = Змяшчае ненавісны, жорсткі ці незаконны змест
 abuse-report-policy-suggestions =
     Заўвага. Аб праблемах аўтарскага права і таварных знакаў неабходна паведамляць у асобным працэсе.
     <a data-l10n-name="report-infringement-link">Выкарыстоўвайце гэтыя інструкцыі</a> каб
     паведаміць пра праблему.
+
 abuse-report-unwanted-reason-v2 = Ніколі не хацеў гэтага і не ведаю, як гэтага пазбавіцца
 abuse-report-unwanted-example = Прыклад: праграма усталявала гэта без майго дазволу
+
 abuse-report-other-reason = Нешта іншае

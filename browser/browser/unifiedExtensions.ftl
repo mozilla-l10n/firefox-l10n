@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Адкрыць меню для { $extensionName }
+
 unified-extensions-item-message-manage = Кіраваць пашырэннем
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Замацаваць на паліцы прылад
+
 unified-extensions-context-menu-manage-extension =
     .label = Кіраваць пашырэннем
+
 unified-extensions-context-menu-remove-extension =
     .label = Выдаліць пашырэнне
+
 unified-extensions-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
+
 unified-extensions-context-menu-move-widget-up =
     .label = Рухаць угору
+
 unified-extensions-context-menu-move-widget-down =
     .label = Рухаць уніз
 

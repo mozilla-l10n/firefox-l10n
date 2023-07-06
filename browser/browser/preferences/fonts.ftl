@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Шрыфты
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Шрыфты для
     .accesskey = Ш
+
 fonts-langgroup-arabic =
     .label = Арабская
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Прапарцыйны
     .accesskey = П
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Памер
     .accesskey = П
+
 fonts-serif = З засечкамі
     .accesskey = З
+
 fonts-sans-serif = Без засечак
     .accesskey = е
+
 fonts-monospace = Роўнашырокі
     .accesskey = Р
+
 fonts-monospace-size = Памер
     .accesskey = е
+
 fonts-minsize = Найменшы памер шрыфту
     .accesskey = а
+
 fonts-minsize-none =
     .label = Няма
+
 fonts-allow-own =
     .label = Дазволіць старонкам выбіраць уласны шрыфт замест пазначаных вышэй
     .accesskey = Д
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
