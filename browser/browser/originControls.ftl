@@ -13,6 +13,7 @@
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-runnable-hover-open = Otvori dodatak
+
 origin-controls-state-runnable-hover-run = Pokreni dodatak
 
 ## Extension's toolbar button.
@@ -22,6 +23,7 @@ origin-controls-state-runnable-hover-run = Pokreni dodatak
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -29,3 +31,4 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Potrebna je dozvola
+

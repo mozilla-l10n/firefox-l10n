@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Odustani
     .accesskey = O
+
 webext-perms-sideload-text = Jedan je drugi program na tvom računalu instalirao dodatak koji može utjecati na ponašanje internetskog preglednika. Provjeri zatražena dopuštenja i odluči, želiš li aktivirati ili deaktivirati dodatak.
 webext-perms-sideload-text-no-perms = Jedan je drugi program na tvom računalu instalirao dodatak koji može utjecati na ponašanje preglednika. Pritisni Aktiviraj ili Odustani (da bi dodatak ostao deaktiviran).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Odustani
     .accesskey = O
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Proširenje { $extension } je aktualizirano. Moraš odobriti nova dopuštenja prije nego što se aktualizirans verzija instalira. Odabirom opcije „Odustani” zadržat će se trenutačna verzija proširenja. Ovo proširenje imat će dopuštenja za:
 webext-perms-update-accept =
     .label = Aktualiziraj
     .accesskey = A
+
 webext-perms-optional-perms-list-intro = Želi:
 webext-perms-optional-perms-allow =
     .label = Dozvoli
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Odbij
     .accesskey = O
+
 webext-perms-host-description-all-urls = Pristupi tvojim podacima za sve web stranice
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Pristupi tvojim podacima za stranice s domene { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -62,6 +68,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Pristupi tvojim podacima za { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

@@ -5,6 +5,6 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = O Gleanu
-about-glean-warning = Zlouporaba ovog sučelja može srušiti { -brand-short-name }.
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
 

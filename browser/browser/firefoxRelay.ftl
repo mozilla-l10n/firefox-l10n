@@ -14,13 +14,6 @@
 firefox-relay-get-unlimited-masks =
     .label = Upravljaj maskama
     .accesskey = U
-firefox-relay-opt-in-title = Zaštiti svoju e-mail adresu
-firefox-relay-opt-in-subtitle = Dodaj { -relay-brand-name }
-firefox-relay-generate-mask-title = Zaštiti svoju e-mail adresu
-firefox-relay-generate-mask-subtitle = Generiraj { -relay-brand-short-name } masku
-firefox-relay-opt-in-confirmation-enable =
-    .label = Nastavi
-    .accesskey = N
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne sada
     .accesskey = N

@@ -31,13 +31,6 @@ about-networking-messages-received = Poruka primljena
 about-networking-bytes-sent = Poslano bajtova
 about-networking-bytes-received = Primljeno bajtova
 about-networking-logging = Zapisnik
-about-networking-log-tutorial = Posjetite <a data-l10n-name="logging">HTTP zapisnik</a> za uputstva kako koristiti ovaj alat.
-about-networking-current-log-file = Trenutačna datoteka dnevnika:
-about-networking-current-log-modules = Trenutačni moduli dnevnika:
-about-networking-set-log-file = Postavi log datoteku
-about-networking-set-log-modules = Postavi log module
-about-networking-start-logging = Pokreni vođenje zapisnika
-about-networking-stop-logging = Zaustavi vođenje zapisnika
 about-networking-dns-lookup = DNS upit
 about-networking-dns-lookup-button = Razrješi
 about-networking-dns-domain = Domena:

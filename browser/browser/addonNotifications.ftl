@@ -14,6 +14,7 @@ xpinstall-prompt-message = Pokušavaš instalirati dodatak s { $host } stranice.
 
 xpinstall-prompt-header-unknown = Želiš li dozvoliti nepoznatoj stranici da instalira dodatak?
 xpinstall-prompt-message-unknown = Pokušavaš instalirati dodatak s nepoznate stranice. Prije nego što nastaviš, odluči je li vjeruješ ovoj web lokaciji.
+
 xpinstall-prompt-dont-allow =
     .label = Nemoj dozvoliti
     .accesskey = N
@@ -37,12 +38,14 @@ xpinstall-disabled = Instaliranje programa trenutačno je deaktivirano. Klikni n
 xpinstall-disabled-button =
     .label = Aktiviraj
     .accesskey = m
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Tvoj administrator sustava je blokirao dodatak { $addonName } ({ $addonId }).
 addon-install-full-screen-blocked = Instaliranje dodatka nije dopušteno za vrijeme ili prije ulaska u cjeloekranski prikaz.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Dodatak je { $addonName } dodan u { -brand-short-name }
@@ -60,6 +63,7 @@ addon-removal-title = Ukloniti { $name }?
 addon-removal-message = Ukloni { $name } iz { -brand-shorter-name }?
 addon-removal-button = Ukloni
 addon-removal-abuse-report-checkbox = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -69,6 +73,7 @@ addon-downloading-and-verifying =
        *[other] Preuzimanje i provjera { $addonCount } dodataka…
     }
 addon-download-verifying = Provjera
+
 addon-install-cancel-button =
     .label = Odustani
     .accesskey = O

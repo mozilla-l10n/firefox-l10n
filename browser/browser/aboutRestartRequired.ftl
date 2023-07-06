@@ -6,4 +6,5 @@ restart-required-title = Potrebno je ponovno pokretanje
 restart-required-heading = Pokreni ponovo za daljnje korištenje { -brand-short-name }a
 restart-required-intro = Aktualiziranje { -brand-short-name } preglednika je pokrenuto u pozadini. Za dovršavanje aktualiziranja, morat češ ga ponovo pokrenuti.
 window-restoration-info = Tvoji prozori i kartice će se brzo obnoviti, ali privatni neće.
+
 restart-button-label = Ponovo pokreni { -brand-short-name }

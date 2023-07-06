@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Trenutačno si u FIPS modusu. FIPS zahtije
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Ponovno postavljanje primarne lozinke
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Ponovno postavljanje primarne lozinke
     .style = min-width: 40em
@@ -42,10 +38,6 @@ pippki-reset-password-confirmation-title = Ponovno postavljanje primarne lozinke
 pippki-reset-password-confirmation-message = Tvoja primarna lozinka ponovno je postavljena.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Preuzimanje certifikata
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Preuzimanje certifikata
@@ -81,7 +73,5 @@ set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije c
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Zaštićena token autentifikacija
-protected-auth-msg = Autentificiraj se tokenu. Metoda autentifikacije ovisi o vrsti tvog tokena.
-protected-auth-token = Token:
+## Protected authentication alert
+

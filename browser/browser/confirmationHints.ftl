@@ -12,4 +12,3 @@ confirmation-hint-password-saved = Lozinka je spremljena!
 confirmation-hint-pin-tab = Zakačeno!
 confirmation-hint-pin-tab-description = Desni klik na karticu za otkačivanje.
 confirmation-hint-send-to-device = Poslano!
-confirmation-hint-firefox-relay-mask-generated = Generirana je nova { -relay-brand-short-name } maska!

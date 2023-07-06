@@ -3,15 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nova kartica
+
 tabbrowser-menuitem-close-tab =
     .label = Zatvori karticu
 tabbrowser-menuitem-close =
     .label = Zatvori
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } – { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -109,6 +112,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ne prikazuj više ovaj dijaloški ok
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Dopusti ovakvim obavijestima od { $domain } da te vrati na njihovu karticu
+
 tabbrowser-customizemode-tab-title = Prilagodi { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,3 +143,6 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Prikaži { $tabCount } kartice
            *[other] Prikaži svih { $tabCount } kartica
         }
+
+## Tab manager menu buttons
+

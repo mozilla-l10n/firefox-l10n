@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Nemoj odustati
        *[other] Nemoj izaći
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ako aktiviraš izvanmrežni način rada, prekinut ćeš jedno preuzimanje. Stvarno želiš nastaviti?
        *[other] Ako aktiviraš izvanmrežni način rada, prekinut ćeš { $downloadsCount } preuzimanja. Stvarno želiš nastaviti?
     }
 download-ui-dont-go-offline-button = Ostani u mrežnom načinu
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ako zatvoriš sve prozore privatnog pregledavanja, prekinut će se jedno preuzimanje. Stvarno želiš napustiti privatno pregledavanje?
        *[other] Ako zatvoriš sve prozore privatnog pregledavanja, prekinut će se { $downloadsCount } preuzimanja. Stvarno želiš napustiti privatno pregledavanje?
     }
 download-ui-dont-leave-private-browsing-button = Ostani u privatnom pregledavanju
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Prekini 1 preuzimanje
