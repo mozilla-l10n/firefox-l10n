@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Tiya' ketal ri taq Yaketal…
     .accesskey = k
-bookmark-tab =
-    .label = Tiyaketalïx Ruwi'
-    .accesskey = T
 tab-context-bookmark-tab =
     .label = Tiyaketalïx Ruwi'…
     .accesskey = y
@@ -106,6 +103,7 @@ tab-context-move-tabs =
            *[other] Kesilöx Ruwi'
         }
     .accesskey = s
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

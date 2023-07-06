@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Ruk'amöl B'ey Tajinïk
+
 # The Actions column
 about-processes-column-action =
     .title = Taq b'anoj
@@ -41,6 +42,7 @@ about-processes-remote-sandbox-broker-process = Näj Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Rukojol Ruk'u'x K'amab'ey ({ $pid })
 about-processes-preallocated-process = Ya'on ({ $pid })
 about-processes-utility-process = Rokisaxik ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -74,6 +76,7 @@ about-processes-active-threads =
         [one] { $active } tzijïl rub'atz' { $number }: { $list }
        *[other] { $active } tzijïl taq rub'atz' { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -85,21 +88,25 @@ about-processes-inactive-threads =
         [one] { $number } tzijïl rub'atz'
        *[other] { $number } tzijïl taq rub'atz'
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Rajilab'al b'ätz': { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Ruwi': { $name }
 about-processes-preloaded-tab = Samajin chik K'ak'a' Ruwi'
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Achruchi': { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -121,6 +128,7 @@ about-processes-frame-name-many = Achruchi' ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Ronojel ruq'ijul CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (netäx)
 
@@ -138,6 +146,7 @@ about-processes-cpu-user-and-kernel-not-ready = (netäx)
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Rujalik: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

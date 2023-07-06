@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = K'o chi natikirisaj molojri'ïl pa { -fxaccoun
 firefox-relay-get-unlimited-masks =
     .label = Kenuk'samajïx taq k'oj
     .accesskey = n
-firefox-relay-opt-in-title = Tachajij ri rochochib'al taqoya'l
-firefox-relay-opt-in-subtitle = Titz'aqatisäx { -relay-brand-name }
-firefox-relay-generate-mask-title = Tachajij ri rochochib'al taqoya'l
-firefox-relay-generate-mask-subtitle = Titz'uk ruk'oj { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Titikïr chik el
-    .accesskey = t
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Tachajij ri rochochib'al taqoya'l:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

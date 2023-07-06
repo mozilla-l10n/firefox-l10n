@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Tik'is Runuk'ulem K'ak'a' Rub'i' Taqoya'l
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Chupun rub'i' taqoya'l
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Titaq pa Ronojel taq Okisaxel
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Kenuk'samajïx taq Okisaxel…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Kenuk'samajïx taq Okisaxel…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Majun Okisaxel Okisan
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Tetamäx chi rij ri Kitaqik taq Ruwi'…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Tokisäx Jun Chik Okisaxel…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Tajikib'a' ri Rub'i' Ataqoya'l…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Re kematz'ib' okinäq rik'in { $deviceName } wakami.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Re kematz'ib' re' okinäq rik'in jun k'ak'a' okisaxel wakami.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Ütz xatikirisaj molojri'ïl
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Xchup re kematz'ib' re'.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Ruwi' k'ulun
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Ruwi' { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Taq Ruwi' ek'ulun
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

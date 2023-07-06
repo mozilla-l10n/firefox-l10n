@@ -14,6 +14,7 @@ xpinstall-prompt-message = Natojtob'ej nayäk jun tz'aqat rik'in { $host }. Taji
 
 xpinstall-prompt-header-unknown = ¿La niya' q'ij richin chi jun ruxaq k'amaya'l man etaman ta ruwäch yeruyäk taq chokoy?
 xpinstall-prompt-message-unknown = Natojtob'ej nayäk jun tz'aqat rik'in jun man etaman ta ruwäch ruxaq k'amaya'l. Tajikib'a' chi nakuqub'a' ak'u'x chi rij re ruxaq  re' chuwäch yasamäj chik qa.
+
 xpinstall-prompt-dont-allow =
     .label = Man Tiya' Q'ij
     .accesskey = M
@@ -42,6 +43,7 @@ xpinstall-disabled = Wakami ri ruyakik solkema' chupül. Tapitz'a' pa Titzij ric
 xpinstall-disabled-button =
     .label = Titzij
     .accesskey = j
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -50,6 +52,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) q'aton ruma ri r
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ri runuk'samajel aq'inoj xuq'ät chi re ruxaq k'amaya'l re' nuk'utuj chawe chi nuyäk qa solkema' pan akematz'ib'.
 addon-install-full-screen-blocked = Man okel ta yeyak taq tz'aqat toq o chuwäch nib'an okem pa chijun ruwäch.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } tz'aqatisan pa { -brand-short-name }
@@ -67,6 +70,7 @@ addon-removal-title = ¿La niyuj { $name }?
 addon-removal-message = ¿La niyuj { $name } pa { -brand-shorter-name }?
 addon-removal-button = Tiyuj
 addon-removal-abuse-report-checkbox = Tiya' rutzijol re k'amal re' pa { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -75,6 +79,7 @@ addon-downloading-and-verifying =
        *[other] Yeqasäx chuqa' yejikib'äx { $addonCount } taq tz'aqat…
     }
 addon-download-verifying = Jikib'axïk
+
 addon-install-cancel-button =
     .label = Tiq'at
     .accesskey = T

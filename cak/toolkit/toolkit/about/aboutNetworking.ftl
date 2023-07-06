@@ -33,13 +33,6 @@ about-networking-messages-received = Taq rutzijol ek'ulun
 about-networking-bytes-sent = Taq wayt etaqon
 about-networking-bytes-received = Taq wayt ek'ulun
 about-networking-logging = Tajin nitz'ib'äx
-about-networking-log-tutorial = Tatz'eta' <a data-l10n-name="logging">HTTP Tajin nitz'ib'äx</a> richin ye'ak'ül taq rutzijol pa ruwi' rokisaxik re samajib'äl re'.
-about-networking-current-log-file = Wakami titz'ib'äx yakb'äl:
-about-networking-current-log-modules = Wakami ketz'ib'äx taq juperaj:
-about-networking-set-log-file = Tijikib'äx nitz'ib'äx yakb'äl
-about-networking-set-log-modules = Tijikib'äx Yetz'ib'äx taq Juperaj
-about-networking-start-logging = Titikirisäx tajin nitz'ib'äx
-about-networking-stop-logging = Titanab'äx tajin nitz'ib'äx
 about-networking-dns-lookup = Rukanoxik DNS
 about-networking-dns-lookup-button = Tisol
 about-networking-dns-domain = Ruk'ojlem b'ey:

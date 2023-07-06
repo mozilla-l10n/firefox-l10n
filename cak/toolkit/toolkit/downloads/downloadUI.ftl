@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Man titz'apïx
        *[other] Man tel el
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] We nak'ëx pa rub'anikil majun okem pa k'amaya'l wakami, xtiq'at jun qasanïk. ¿La kan nawajo' nab'än ke ri'?
        *[other] We wakami nak'ëx pa majun okem pa k'amaya'l, xtiq'at { $downloadsCount } taq qasanïk. ¿La kan nawajo' nab'än?
     }
 download-ui-dont-go-offline-button = Okinäq na
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] We xke'atz'apij wakami ronojel ri taq rutzuwäch ichinan taq okem pa k'amaya'l, xtiq'at 1 qasanïk. ¿La at jikïl chi nawajo' yatel pa ri ichinan okem pa k'amaya'l?
        *[other] We xke'atz'apij wakami ronojel ri taq rutzuwäch ichinan taq okem pa k'amaya'l, xkeq'at { $downloadsCount } taq qasanïk. ¿La at jikïl chi nawajo' yatel pa ri ichinan okem pa k'amaya'l?
     }
 download-ui-dont-leave-private-browsing-button = Tik'oje' pa rub'eyal Ichinan Okem pa K'amaya'l
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Tiq'at jun qasanïk

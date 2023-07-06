@@ -15,8 +15,6 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 about-logging-current-log-file = Wakami titz'ib'äx yakb'äl:
@@ -36,6 +34,7 @@ about-logging-no-log-file = Majun
 about-logging-preset-networking-label = K'amab'ey
 about-logging-preset-media-playback-label = Rutzijik k'ïy k'oxom
 about-logging-preset-custom-label = Ichinan
+
 # Error handling
 about-logging-error = Sachoj:
 

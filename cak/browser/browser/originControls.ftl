@@ -10,12 +10,16 @@
 
 origin-controls-no-access =
     .label = Man nitikïr ta nusik'ij chuqa' yerujäl taq tzij ri k'amal
+
 origin-controls-options =
     .label = Nitikïr nusik'ij chuqa' yerujäl taq tzij ri k'amal:
+
 origin-controls-option-all-domains =
     .label = Pa Ronojel Ruxaq
+
 origin-controls-option-when-clicked =
     .label = Xa xe toq nipitz'
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -27,9 +31,13 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Man tikirel ta nisik'ïx chuqa' yejal taq tzij pa re ruxaq
+
 origin-controls-state-always-on = Jantape' tikirel nisik'ïx chuqa' yejal taq tzij pa re ruxaq
+
 origin-controls-state-runnable-hover-open = Tijaq k'amal
+
 origin-controls-state-runnable-hover-run = Tisamajïx k'amal
+
 origin-controls-state-temporary-access = Tikirel nisik'ïx chuqa' yejal taq tzij pa re tz'etoj re'
 
 ## Extension's toolbar button.
@@ -39,6 +47,7 @@ origin-controls-state-temporary-access = Tikirel nisik'ïx chuqa' yejal taq tzij
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -46,3 +55,4 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Nrajo' chi niya' q'ij
+

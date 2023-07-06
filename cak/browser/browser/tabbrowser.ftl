@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = K'ak'a' Ruwi'
 tabbrowser-empty-private-tab-title = K'ak'a' ichinan ruwi'
+
 tabbrowser-menuitem-close-tab =
     .label = Titz'apïx ruwi'
 tabbrowser-menuitem-close =
     .label = Titz'apïx
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -125,6 +128,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Man tik'ut chik pe re rutzuwach tzij
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Tiya' q'ij chi ri rutzijol { $domain } achi'el re', tikik'waj ri ruwi' ri'
+
 tabbrowser-customizemode-tab-title = Tichinäx { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -150,3 +154,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Kecholajïx konojel ri { $tabCount } taq ruwi'
+
+## Tab manager menu buttons
+

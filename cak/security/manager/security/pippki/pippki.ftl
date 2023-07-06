@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Titzolïx Nab'ey Ewan Tzij
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Titzolïx Nab'ey Ewan Tzij
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Titzolïx Nab'ey Ewan Tzij
 pippki-reset-password-confirmation-message = Xtzolïx Nab'ey Ewan Atzij.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Tajin niqasäx ri ruwujil rub'i'
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Tajin niqasäx ri ruwujil rub'i'
@@ -82,7 +74,5 @@ set-password-reminder = K'atzinel: We namestaj ri ewan rutzij ruto'öy ruwujil a
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Chajin ri tz'etonem ruma token
-protected-auth-msg = Taya' atzijol chuwa ri token. Ri rub'eyal naya' atzijol xtroqaj ri ruwäch.
-protected-auth-token = Token:
+## Protected authentication alert
+

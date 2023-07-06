@@ -38,9 +38,11 @@ menu-quit =
             [windows] e
            *[other] T
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Tel pa { -brand-shorter-name }
+
 menu-about =
     .label = Chi rij ri { -brand-shorter-name }
     .accesskey = C
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Taq Ruwi' k'a b'a' Ketz'apïx
 menu-history-undo-window-menu =
     .label = Taq k'ajtz'ib' k'a b'a' etz'apin
-menu-history-reopen-all-tabs = Kejaq Chik Ronojel Ruwi'
-menu-history-reopen-all-windows = Kejaq Chik Ronojel Taq Tzuwäch
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = y
 menu-bookmarks-manage =
     .label = Kenuk'samajïx Taq Yaketal
-menu-bookmark-current-tab =
-    .label = Tiya' Retal Ruwi' Wakami
-menu-bookmark-edit =
-    .label = Tinuk' re yaketal re'
 menu-bookmark-tab =
     .label = Titz'aqatisäx Ruwi' pa Yaketal…
 menu-edit-bookmark =

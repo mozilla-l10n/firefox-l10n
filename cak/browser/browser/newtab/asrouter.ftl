@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Chilab'en Samaj
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
+
 cfr-doorhanger-extension-cancel-button = Wakami Mani
     .accesskey = M
+
 cfr-doorhanger-extension-ok-button = Titz'aqatisäx Wakami
     .accesskey = T
+
 cfr-doorhanger-extension-manage-settings-button = Kenuk'samajïx taq Kinuk'ulem Chilab'enïk
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Man Tik'ut re Chilab'enïk re'
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Tetamäx ch'aqa' chik
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ruma { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Chilab'enïk
 cfr-doorhanger-extension-notification2 = Chilab'enïk
     .tooltiptext = Ruchilab'exik k'amal
     .a11y-announcement = Ruchilab'exik k'amal k'o
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Chilab'enïk
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = K'ak'a' samaj:
+
 cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
+
 cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Tichup
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = K'o rejqalem ri awichinanem. { -brand-short-name } wakami yerujech'uj, kikojol taq ajk'amaya'l ruxaq, ri nub'än chi ri eleq'om taq kematz'ib'il nikeleq'aj ewan taq tzij, rajilab'al rutarjeta' kre'ito' chuqa' jun chik awetamab'al.
-cfr-doorhanger-fission-header = Rujech'unïk Ruxaq
-cfr-doorhanger-fission-primary-button = ÜTZ, Wetaman chik
-    .accesskey = Ü
-cfr-doorhanger-fission-secondary-button = Tetamäx ch'aqa' chik
-    .accesskey = e
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Rik'in jub'a' man xketzije' ta pa rub'eyal ri taq silowäch pa re ruxaq re' rik'in re ruwäch { -brand-short-name }{ -brand-short-name }. Richin nik'ul tz'aqät ruk'amoj silowäch, tak'exa' { -brand-short-name } wakani.
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
     .accesskey = T
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Tetamäx ch'aqa' chik
-    .title = Tirik' richin netamäx ch'aqa' chik chi rij re rub'anikil
-spotlight-learn-more-expanded = Tetamäx ch'aqa' chik
-    .title = Titz'apïx
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,18 +142,6 @@ spotlight-public-wifi-vpn-link = Wakami Mani
     .accesskey = M
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Tatojtob'ej ri qana'ob'al richin
-    ichinanem, ri nimaläj pa qab'anob'al
-spotlight-total-cookie-protection-body = Chijun Kichajixik Kuki man nuya' ta q'ij chi ri taq ojqanela' yekokisaj taq kuki richin yenachäx pa k'amab'ey.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } nunük' jun kokal chi kij ri taq kuki, yerujech'uj chwa ri ruxaq okinäq richin man tikokisaj richin nikoqaj. Rik'in ri etaman ruwäch okem, xtito'on richin nutziläx re samaj re' richin ninuk' jun ütz ajk'amaya'l qichin qonojel.
-spotlight-total-cookie-protection-primary-button = Titzij Kichajixik Chijun Kuki
-spotlight-total-cookie-protection-secondary-button = Wakami mani
 
 ## Emotive Continuous Onboarding
 
@@ -185,11 +171,13 @@ spotlight-pin-secondary-button = Wakami mani
 
 mr2022-background-update-toast-title = K'ak'a' { -brand-short-name }. Yalan ichinan. Jub'a' ojqanela'. Majun rojqan.
 mr2022-background-update-toast-text = Tatojtob'ej ri k'ak'a' { -brand-short-name }, k'exon rik'in ri nïm chajixïk chuwäch ojqanem k'o wakami.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Tijaq { -brand-shorter-name } wakami
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -208,6 +196,7 @@ firefoxview-cfr-body-v2 = Kekakolo' ri tz'apin taq ruwi' chuqa' katok chi kipam 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Taq'ejelaj { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ¿La nawajo' ri jaqon ruwi' pan awoyonib'al? Tachapa'. ¿La nik'atzin ri ruxaq k'a b'a' tatz'ët? Xtzolin rik'in { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Tatz'eta' rub'eyal nisamäj
@@ -217,6 +206,7 @@ firefoxview-spotlight-promo-secondarybutton = Tik'o'
 
 colorways-cfr-primarybutton = Ticha' tunun b'onil
     .accesskey = c
+
 colorways-cfr-header-28days = Ri rub'onil Independent Voice xtik'is ruq'ijul ri 16 ruq'ij nab'ey ik'
 colorways-cfr-header-14days = Ri rub'onil Independent Voice xtik'is ruq'ijul pa ka'i' wuqq'ij
 colorways-cfr-header-7days = Ri rub'onil Independent Voice xtik'is ruq'ijul re wuqq'ij re'
@@ -236,6 +226,7 @@ cfr-cbh-dismiss-button = Wakami mani
 july-jam-headline = Röj yatqachajij
 july-jam-set-default-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
 fox-doodle-pin-headline = Ütz apetik jumul chik
+
 fox-doodle-pin-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
 fox-doodle-pin-secondary = Wakami mani
 

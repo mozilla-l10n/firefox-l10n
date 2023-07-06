@@ -50,5 +50,9 @@ url-classifier-disabled = Chupun
 url-classifier-updating = tajin nik'ex
 url-classifier-cannot-update = man tikirel ta nik'ex
 url-classifier-success = xojtikïr
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = rusachoj k'exoj ({ $error })
 url-classifier-download-error = rusachoj qasanïk ({ $error })

@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Palaqinem Wichin)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Palaqinem Wichin)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Palaqinem Wichin)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Palaqinem Wichin)
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -54,6 +21,7 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } Ichinan Okem
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Ichinan Okem
+
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -76,11 +44,13 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Ichinan Okem
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Ichinan Okem
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Ichinan Okem
@@ -114,16 +84,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = Tijaq ri rupas ya'oj ruq'ij ri achik'al k'ojlemal
 urlbar-storage-access-anchor =
     .tooltiptext = Tijaq ri kipas kiya'oj q'ij taq rusamaj okem pa k'amaya'l
-urlbar-translate-notification-anchor =
-    .tooltiptext = Titzalq'omïx re ruxaq re'
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Tinuk'samajib'ëx ri kikomonik taq rutzub'al chuqa' ruwäch ruxaq k'amaya'l
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Tijaq rupas tzijol eyakon toq manäq k'amab'ey
 urlbar-password-notification-anchor =
     .tooltiptext = Tijaq ewan tzij yakon pa rupas tzijol
-urlbar-translated-notification-anchor =
-    .tooltiptext = Tinuk'samajïx rutzalq'omaxik re ruxaq k'amaya'l
 urlbar-plugins-notification-anchor =
     .tooltiptext = Tinuk'samajïx rokisaxik nak'ab'äl
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -147,6 +113,7 @@ urlbar-search-tips-confirm-short = Xik'o pa nuwi'
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Pixa':
+
 urlbar-result-menu-button =
     .title = Tijaq k'utsamaj
 urlbar-result-menu-button-feedback = Rutzijol
@@ -168,8 +135,10 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Jub'a' katz'ib'an, k'ïy tawila': Tikanöx { $engineName } choj pa rochoch etalib'äl.
 urlbar-search-tips-redirect-2 = Tatikirisaj kanoxïk pa ri rukajtz'ik ochochib'äl richin ye'atz'ët taq ruchilab'exik { $engineName } chuqa' runatab'al awokik'amaya'l.
+
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Wakami man k'ayew ta ri kanoxïk. Tatojtob'ej nakanoj ri nawajo' wawe' pa ri kikajtz'ik ochochib'äl. We nawajo' nak'üt ri URL, takanoj Tikanöx, pa ri runuk'ulem.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Tacha' re chojokem richin anin nawïl ri nakanoj.
@@ -207,10 +176,12 @@ urlbar-midi-blocked =
     .tooltiptext = Xaq'ät ri MIDI rokem re ruxaq k'amaya'l re'.
 urlbar-install-blocked =
     .tooltiptext = Xaq'ät kiyakik taq rutz'aqat ajk'amaya'l ruxaq re'.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tinuk' re jun yaketal ({ $shortcut }) re'
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -218,10 +189,6 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-manage-extension =
-    .label = Tinuk'samajïx K'amal…
-page-action-remove-extension =
-    .label = Tiyuj K'amal
 page-action-manage-extension2 =
     .label = Tinuk'samajïx K'amal…
     .accesskey = K
@@ -243,8 +210,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Wakami takanoj pa:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Tijal kinuk'ulem kanob'äl
+
 search-one-offs-context-open-new-tab =
     .label = Tikanöx pa k'ak'a' ruwi'
     .accesskey = r
@@ -254,12 +223,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Tiya' kan achi'el Okik'amaya'l ri K'o pa Ichinan taq Tzuwäch
     .accesskey = I
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -296,54 +267,71 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ketz'et taq Tz'aqat
 quickactions-cmd-addons2 = taq tz'aqat
+
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Kenuk'samajïx taq yaketal
 quickactions-cmd-bookmarks = taq yaketal
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tiyuj el ri natab'äl
 quickactions-cmd-clearhistory = tiyuj natab'äl
+
 # Opens about:downloads page
 quickactions-downloads2 = Ketz'et taq qasanïk
 quickactions-cmd-downloads = taq qasanïk
+
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kinuk'samajixik taq k'amal
 quickactions-cmd-extensions = taq k'amal
+
 # Opens the devtools web inspector
 quickactions-inspector2 = Kejaq taq Rusamajib'al Nuk'unel
 quickactions-cmd-inspector = nik'onel, rusamajib'al nuk'unel
+
 # Opens about:logins
 quickactions-logins2 = Kenuk'samajïx ewan taq tzij
 quickactions-cmd-logins = Kitikirisaxik molojri'ïl, ewan taq tzij
+
 # Opens about:addons page in the plugins section
 quickactions-plugins = Tinuk'samajïx nak'ab'äl
 quickactions-cmd-plugins = taq nak'ab'äl
+
 # Opens the print dialog
 quickactions-print2 = Titz'ajb'äx ruxaq
 quickactions-cmd-print = titz'ajb'äx
+
 # Opens a new private browsing window
 quickactions-private2 = Tijaq ichinan tzuwäch
 quickactions-cmd-private = ichinan okem
+
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Titzolïx { -brand-short-name }
 quickactions-cmd-refresh = titzolïx
+
 # Restarts the browser
 quickactions-restart = Titikirisäx chik { -brand-short-name }
 quickactions-cmd-restart = titikirisäx chik
+
 # Opens the screenshot tool
 quickactions-screenshot3 = Tichap jun chapoj wachib'äl
 quickactions-cmd-screenshot = chapoj ruwäch
+
 # Opens about:preferences
 quickactions-settings2 = Tinuk'samajïx runuk'ulem
 quickactions-cmd-settings = taq nuk'ulem, taq ajowab'äl, taq cha'oj
+
 # Opens about:addons page in the themes section
 quickactions-themes = Kenuk'samajïx taq wachinel
 quickactions-cmd-themes = wachinel
+
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Tik'ex { -brand-short-name }
 quickactions-cmd-update = tik'ex
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Titz'et Ruxe'el Ruxaq
 quickactions-cmd-viewsource = titz'et ruxe'el, xe'el
+
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Tetamäx ch'aqa' chik chi kij ri Anin taq b'anoj
@@ -369,6 +357,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = k
 bookmark-panel-save-button =
     .label = Tiyak
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -396,6 +385,7 @@ identity-passive-loaded = K'o man ütz ta taq ruch'akulal re ruxaq re' (achi'el 
 identity-active-loaded = Xachüp ruchajixik re ruxaq re'.
 identity-weak-encryption = Re ruxaq re' nrokisaj yamayïk chi suq'ch'ab'äl.
 identity-insecure-login-forms = Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.
+
 identity-https-only-connection-upgraded = (xk'expa HTTPS)
 identity-https-only-label = HTTPS-Only B'anikil
 identity-https-only-dropdown-on =
@@ -407,16 +397,17 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Tatzija' ri HTTPS-Only Rub'anikil pa re ruxaq re' we nawajo' chi ri { -brand-short-name } nujäl rik'in ri okem toq k'atzinel.
 identity-https-only-info-turn-off2 = We man nisamäj ta ütz ri ruxaq, rik'in jub'a' nawajo' nachüp ri HTTPS-Only Rub'anikil pa re ruxaq re', richin nisamajïx chik akuchi' nokisäx ri mejikïl HTTP.
 identity-https-only-info-no-upgrade = Man nitikïr ta nik'ex ri okem pa HTTP.
+
 identity-permissions-storage-access-header = Kicookies xoch'in taq ruxaq
 identity-permissions-storage-access-hint = Re taq peraj re' yetikïr nikokisaj kikokies xoch'in taq ruxaq chuqa' kitzij taq ruxaq toq at k'o pa re ruxaq.
 identity-permissions-storage-access-learn-more = Tetamäx ch'aqa' chik
+
 identity-permissions-reload-hint = Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.
 identity-clear-site-data =
     .label = Keyuj ri Kaxlanwäy chuqa' Kitzij Ruxaq K'amaya'l…
 identity-connection-not-secure-security-view = Man ütz ta ri awokem pa re ruxaq k'amaya'l re'.
 identity-connection-verified = Ütz ri awokem pa re ruxaq k'amaya'l re'.
 identity-ev-owner-label = Iqitzijib'äl talun richin:
-identity-description-custom-root = Ri Mozilla man retaman ta ruwäch ri ruya'öl iqitzijib'äl Mozilla. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel. <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
 identity-description-custom-root2 = Ri Mozilla man retaman ta ruwäch ri ruya'öl iqitzijib'äl Mozilla. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel.
 identity-remove-cert-exception =
     .label = Tiyuj Man Relik Ta
@@ -425,17 +416,12 @@ identity-description-insecure = Man ichinan ta ri owokem pa re ruxaq k'amaya'l r
 identity-description-insecure-login-forms = Ri retamab'al rutikirisanïk molojri'ïl xtatz'ib'aj pa re ruxaq k'amaya'l re' man chajin ta, ruma ri' rik'in jub'a' nitziläx.
 identity-description-weak-cipher-intro = Ri awokem pa re ruxaq k'amaya'l re' nrokisaj lawalïk skript ruma ri man ichinan ta.
 identity-description-weak-cipher-risk = Chaq'a' chik chi winaqi' yetikïr nikitz'ët ri awetamab'al o nikijalwachij ri rub'eyal nisamäj re ruxaq k'amaya'l re'.
-identity-description-active-blocked = { -brand-short-name } xeruq'ät ri itzel taq ruperaj re ruxaq re'. <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
 identity-description-active-blocked2 = { -brand-short-name } xeruq'ät ri itzel taq ruperaj re ruxaq re'.
 identity-description-passive-loaded = Man awichinan ta ri awokem pa k'amaya'l ruma ri' ronojel ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re' tikirel nikitz'ët juley chik winaqi'.
-identity-description-passive-loaded-insecure = Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq wachib'äl). <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
-identity-description-passive-loaded-mixed = Stape' { -brand-short-name } xuq'ät jub'a' na'oj, junelïk k'o na'oj pa ri ruxaq ri man ütz ta (achi'el ri taq wachib'äl). <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
 identity-description-passive-loaded-insecure2 = Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq wachib'äl).
 identity-description-passive-loaded-mixed2 = Stape' { -brand-short-name } xuq'ät jub'a' na'oj, junelïk k'o na'oj pa ri ruxaq ri man ütz ta (achi'el ri taq wachib'äl).
 identity-description-active-loaded = Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq skript) man awichinan ta ri awokem we yatok chupam.
 identity-description-active-loaded-insecure = Ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re', tikirel nikitz'ët juley chik winaqi' (achi'el ewan taq tzij, taq rutzijol, t'im pwäq, ch'aqa' chik).
-identity-learn-more =
-    .value = Tetamäx Ch'aqa' Chik
 identity-disable-mixed-content-blocking =
     .label = Wakami yan tz'apäl ri chajinïk
     .accesskey = t
@@ -477,12 +463,14 @@ browser-tab-mute =
         [one] TIMEMÜR RUWI'
        *[other] KEMEMÜR { $count } TAQ RUWI'
     }
+
 browser-tab-unmute =
     { $count ->
         [1] TITZIJ  RUWI'
         [one] TITZIJ RUWI'
        *[other] KETZIJ { $count } TAQ RUWI'
     }
+
 browser-tab-unblock =
     { $count ->
         [1] TITZIJ RUWI'
@@ -495,6 +483,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Kejik' taq yaketal…
     .tooltiptext = Kejik' taq kiyaketal ch'aqa' chik taq okik'amaya'l pa { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Richin jun anin okem, ke'awila' ri taq ayaketal wawe' pa ri rukajtz'ik samajib'äl. <a data-l10n-name="manage-bookmarks">Kenuk'samajïx taq yaketal…</a>
 
 ## WebRTC Pop-up notifications
@@ -515,13 +504,6 @@ popup-select-window-or-screen =
     .label = Tzuwäch o ruwa:
     .accesskey = w
 popup-all-windows-shared = Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.
-popup-screen-sharing-block =
-    .label = Tiq'at
-    .accesskey = T
-popup-screen-sharing-always-block =
-    .label = Junelïk tiq'at
-    .accesskey = J
-popup-mute-notifications-checkbox = Kememüx rutzijol ajk'amaya'l ruxaq toq nikomonïx
 
 ## WebRTC window or screen share tab switch warning
 
@@ -534,7 +516,6 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj Web B'anonel.
 enable-devtools-popup-description2 = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj rusamajib'al okik'amaya'l.
 
 ## URL Bar
@@ -543,6 +524,7 @@ enable-devtools-popup-description2 = Richin nokisäx ri F12 chojokem, nab'ey taj
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Tikanöx o titz'ib'äx ochochib'äl
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -551,6 +533,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Tikanöx pa Web
     .aria-label = Tikanöx pa { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -559,26 +542,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Ketz'ib'äx tzij yekanöx
     .aria-label = Tikanöx { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Ketz'ib'äx tzij yekanöx
     .aria-label = Kekanöx taq yaketal
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Ketz'ib'äx tzij yekanöx
     .aria-label = Tikanöx natab'äl
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Ketz'ib'äx tzij yekanöx
     .aria-label = Kekanöx ruwi'
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Ketz'ib'äx tzij yekanöx
     .aria-label = Kekanöx taq b'anoj
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Takanoj pa { $name } o tatz'ib'aj ri rochochib'al
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -588,9 +577,11 @@ urlbar-permissions-granted =
     .tooltiptext = Xaya' ruwi' ya'oj q'ij chi re re ajk'amaya'l ruxaq re'.
 urlbar-switch-to-tab =
     .value = Rujalik ri ruwi':
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = K'amal:
+
 urlbar-go-button =
     .tooltiptext = Tib'e pa JAY richin ri rucholob'al taq ochochib'äl
 urlbar-page-action-button =
@@ -658,12 +649,14 @@ urlbar-result-action-search-actions = Kekanöx taq b'anoj
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Taq ruchilab'exik { $engine }
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Anin taq b'anoj
@@ -683,8 +676,10 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Tijaq Picture-in-Picture({ $shortcut })
+
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Titz'apïx Picture-in-Picture({ $shortcut })
+
 picture-in-picture-panel-header = Picture-in-Picture
 
 ## Full Screen and Pointer Lock UI
@@ -694,9 +689,12 @@ picture-in-picture-panel-header = Picture-in-Picture
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> wakami at k'o pa chijun ruwa kematz'ib'
 fullscreen-warning-no-domain = Wakami re wuj re' k'o pa chijun ruwa kematz'ib'
+
+
 fullscreen-exit-button = Tel pa chijun ruwa kematz'ib' (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tel pa chijun ruwa kematz'ib' (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -704,17 +702,6 @@ pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ch
 pointerlock-warning-no-domain = Re ruxaq wuj re' chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.
 
 ## Subframe crash notification
-
-crashed-subframe-message = <strong>Xsach jun peraj ruxaq.</strong> Chi ri { -brand-product-name } nretamaj chi rij re k'ayewal chuqa' anin nich'ojmïr, tataqa' jun rutzijol.
-# The string for crashed-subframe-title.title should match crashed-subframe-message,
-# but without any markup.
-crashed-subframe-title =
-    .title = Xsach jun peraj ruxaq. Chi ri { -brand-product-name } nretamaj chi rij re k'ayewal chuqa' anin nich'ojmïr, tataqa' jun rutzijol.
-crashed-subframe-learnmore-link =
-    .value = Tisik'ïx Ch'aqa' Chik
-crashed-subframe-submit =
-    .label = Titaq Rutzijol
-    .accesskey = t
 
 ## Bookmarks panels, menus and toolbar
 
@@ -767,10 +754,9 @@ bookmarks-search =
     .label = Kekanöx Yaketal
 bookmarks-tools =
     .label = Taq kisamajib'al ri yakoj etal
-bookmarks-bookmark-edit-panel =
-    .label = Tinuk' re yaketal re'
 bookmarks-subview-edit-bookmark =
     .label = Tinuk' re yaketal re'…
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -784,9 +770,7 @@ bookmarks-toolbar-placeholder =
     .title = Ruch'akulal taq kiyaketal cholsamajib'äl
 bookmarks-toolbar-placeholder-button =
     .label = Ruch'akulal taq kiyaketal cholsamajib'äl
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = Titz'aqatisäx Ruwi' pa Yaketal
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Titz'aqatisäx ruwi' pa yaketal…
@@ -813,11 +797,6 @@ repair-text-encoding-button =
 ## Customize Toolbar Buttons
 
 # Variables:
-#  $shortcut (String): keyboard shortcut to open the add-ons manager
-toolbar-addons-themes-button =
-    .label = Taq tz'aqat chuqa' taq wachinel
-    .tooltiptext = Ke'anuk'samajïx ri taq atz'aqat chuqa' taq awachinel ({ $shortcut })
-# Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
     .label = Taq nuk'ulem
@@ -826,28 +805,35 @@ toolbar-settings-button =
             [macos] Kejaq ri taq runuk'ulem ({ $shortcut })
            *[other] Kejaq ri taq runuk'ulem
         }
+
 toolbar-overflow-customize-button =
     .label = Tichinäx ri kikajtz'ik taq samajib'äl…
     .accesskey = T
+
 toolbar-button-email-link =
     .label = Ximonel taqoya'l
     .tooltiptext = Titaq pa taqoya'l jun ximöy pa re ruxaq re'
+
 toolbar-button-logins =
     .label = Ewan taq tzij
     .tooltiptext = Ketz'et chuqa' kenuk'samajïx ri yakon ewan taq atzij
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Tiyak Ruxaq
     .tooltiptext = Tiyak re ruxaq re' ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Tijaq Yakb'äl
     .tooltiptext = Tijaq yakb'äl ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Ximon taq ruwi'
     .tooltiptext = Kek'ut pe ri taq ruwi' e k'o pa ch'aqa' chik taq okisaxel
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -869,11 +855,6 @@ panel-save-update-password = Ewan tzij
 
 ## Add-on removal warning
 
-# Variables:
-#  $name (String): The name of the addon that will be removed.
-addon-removal-title = ¿La niyuj { $name }?
-addon-removal-abuse-report-checkbox = Tiya' rutzijol re k'amal re' pa { -vendor-short-name }
-
 ##
 
 # "More" item in macOS share menu
@@ -888,6 +869,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Tiya' q'ij richin nijaq taq silon wachib'äl chi re { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Ruya'ik q'ij richin nijaq taq silon wachib'äl chi re { $uriHost }
     .accesskey = p
@@ -897,9 +879,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Man tel pe re rutzijol re' toq xkeq'at taq silon wachib'äl
     .accesskey = N
+
 edit-popup-settings =
     .label = Tinuk'samajïx kinuk'ulem elenel taq tzuwäch…
     .accesskey = n
+
 picture-in-picture-hide-toggle =
     .label = Tewäx Rupitz'b'al Picture-in-Picture
     .accesskey = T
@@ -910,6 +894,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Tisilöx rusamajib'al Picture-in-Picture pan ajkiq'a'
     .accesskey = k
+
 picture-in-picture-move-toggle-left =
     .label = Tisilöx rusamajib'al Picture-in-Picture pa xokon
     .accesskey = k
@@ -924,32 +909,39 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Okem pa k'amaya'l
+
 navbar-downloads =
     .label = Taq qasanïk
+
 navbar-overflow =
     .tooltiptext = Ch'aqa' chik Samajib'äl…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Titz'ajb'äx
     .tooltiptext = Titz'ajb'äx re ruxaq re'… ({ $shortcut })
+
 navbar-home =
     .label = Tikirib'äl
     .tooltiptext = { -brand-short-name } Rutikirib'al Ruxaq
+
 navbar-library =
     .label = Wujb'äl
     .tooltiptext = Titz'et ri natab'äl, yakon taq yaketal, chuqa' ch'aqa' chik
+
 navbar-search =
     .title = Tikanöx
-navbar-accessibility-indicator =
-    .tooltiptext = Etzijon ri taq Rub'anikil Okem
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Ruwi' kanonel
+
 tabs-toolbar-new-tab =
     .label = K'ak'a' Ruwi'
+
 tabs-toolbar-list-all-tabs =
     .label = Kecholajïx ronojel taq ruwi'
     .tooltiptext = Kecholajïx ronojel taq ruwi'
@@ -966,6 +958,7 @@ data-reporting-notification-message = { -brand-short-name } pa ruyonil yerutäq 
 data-reporting-notification-button =
     .label = Tincha' na ri ninkomonij
     .accesskey = T
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Ichinan okem
 
@@ -992,18 +985,12 @@ unified-extensions-button-permissions-needed =
 
 refresh-blocked-refresh-label = { -brand-short-name } man xuya' ta q'ij richin xsamäj ta el pa ruyonil.
 refresh-blocked-redirect-label = { -brand-short-name } man xuya' ta q'ij chi re re jun ruxaq re' richin pa ruyonil xb'e'ok ta apo pa jun chik.
+
 refresh-blocked-allow =
     .label = Tiya' q'ij
     .accesskey = y
 
 ## Firefox Relay integration
-
-firefox-relay-offer-why-relay = { -relay-brand-name } taya' ruk'oj ri qitzij rochochib'al ataqoya'l richin nato' nachajij chi kiwäch kichayuxik taq tzij chuqa' taq spam.
-firefox-relay-offer-how-we-integrate = Toq nawoqaj, yatikïr ye'atz'ük k'ak'a' taq ruk'oj rutaqoya'l { -relay-brand-short-name } chupam ri runuk'samajel ewan taq rutzij { -brand-shorter-name }.
-# Variables:
-#  $sitename (String): name of the site where user enters their Relay mask
-#  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónicos de <strong>{ $sitename }</strong> pa <strong>{ $useremail }</strong>.
 
 ## Popup Notification
 
@@ -1038,6 +1025,7 @@ popup-warning-button =
             [windows] O
            *[other] a
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

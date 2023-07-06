@@ -12,4 +12,3 @@ confirmation-hint-password-saved = ¡Ewan tzij yakon!
 confirmation-hint-pin-tab = ¡Jikïl!
 confirmation-hint-pin-tab-description = Tapitz'a' ri rajkiq'a' pitz'b'äl pa ruwi' ri ruwi' richin nosq'opïx.
 confirmation-hint-send-to-device = ¡Titaq!
-confirmation-hint-firefox-relay-mask-generated = ¡K'ak'a' { -relay-brand-short-name } k'oj xtz'uk!

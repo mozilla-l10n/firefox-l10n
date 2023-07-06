@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } xuq'ät re ruxaq r
 safeb-palm-advisory-desc = Ya'on na'oj ruma <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Titzolin
 safeb-palm-see-details-label = Ketz'et ri taq rub'anikil
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> xya' <a data-l10n-name='error_desc_link'>rutzijol chi tz'ilanel ruxaq k'amaya'l</a>. Yatikïr <a data-l10n-name='report_detection'>naya' rutzijol ri k'ayewal xilitäj</a> o <a data-l10n-name='ignore_warning_link'>yatik'o rik'in ri k'ayewal</a> chuqa' yab'e pa ri mejikïl ruxaq k'amaya'l.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> xya' <a data-l10n-name='error_desc_link'>rutzijol achi'el jun tz'ilanel ruxaq k'amaya'l</a>. Yatikïr <a data-l10n-name='report_detection'>naya' rutzijol ri k'ayewal xilitäj</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Tetamäx ch'aqa' chik chi kij ri tz'ilanel taq ruxaq k'ayewal chuqa' k'exonel pa <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Tetamäx ch'aqa' chik chi rij { -brand-short-name }’s Chajinïk chuwäch K'exonel chuqa' Nimachikopil pa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> xya' <a data-l10n-name='error_desc_link'>rutzijol chi ruk'wan tz'ilanel kema'</a>. Yatikïr <a data-l10n-name='ignore_warning_link'>yatik'o rik'in k'ayewal</a> chuqa' yab'e pa ri mejikïl ruxaq.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> xya' <a data-l10n-name='error_desc_link'>rutzijol chi ruk'wan tz'ilanel kema'</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = Tetamäx ch'aqa' chik chi rij { -brand-short-name }’s Chajinïk chuwäch K'exonel chuqa' Nimachikopil pa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> xya' <a data-l10n-name='error_desc_link'>rutzijol chi ruk'wan tz'ilanel kema'</a>. Yatikïr <a data-l10n-name='ignore_warning_link'>yatik'o rik'in k'ayewal</a> chuqa' yab'e pa ri mejikïl ruxaq.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> xya' <a data-l10n-name='error_desc_link'>rutzijol chi ruk'wan tz'ilanel kema'</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Tetamäx ch'aqa' chik chi rij ri tz'ilanel kema' chuqa' man k'utun ta pa <a data-l10n-name='learn_more_link'>Man K'utun ta Kema' Na'ojil</a>. Tetamäx ch'aqa' chik chi rij { -brand-short-name }’s Chajinïk chuwäch K'exonel chuqa' Nimachikopil pa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> xya' <a data-l10n-name='error_desc_link'>rutzijol chi ruk'wan nïm tz'ilanel chokoy</a>. Yatikïr <a data-l10n-name='ignore_warning_link'>yatik'o rik'in ri k'ayewal</a> chuqa' yab'e pa ri mejikïl ruxaq k'amaya'l.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> xya' <a data-l10n-name='error_desc_link'>rutzijol chi ruk'wan nïm tz'ilanel chokoy</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Tetamäx ch'aqa' chik chi rij { -brand-short-name }’s Chajinïk chuwäch K'exonel chuqa' Nimachikopil pa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Re re' man q'olonel ta chi ruxaq k'amaya'l…

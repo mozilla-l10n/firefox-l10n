@@ -8,17 +8,16 @@
 more-from-moz-title = Ch'aqa' chik chi rij { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Ch'aqa' chik chi rij { -vendor-short-name }
+
 more-from-moz-firefox-mobile-title = { -brand-product-name } Oyonib'äl
 more-from-moz-firefox-mobile-description = Ri oyonib'äl okik'amaya'l, ri nuya' ri awichinanem pa nab'ey k'ojlib'äl.
+
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-mozilla-rally-title = { -rally-brand-name }
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-mozilla-rally-description = Ke'aya' apo pa samaj ri taq atzij richin jun utziläj k'amaya'l qichin qonojel.
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-button-mozilla-rally-2 = Kato'on pa { -rally-short-name }
+
 more-from-moz-qr-code-box-firefox-mobile-button = Tataqa' jun ruximonel qasanïk pan awoyonib'al
+
 more-from-moz-button-mozilla-vpn-2 = Tik'ul VPN
+
 more-from-moz-learn-more-link = Tetamäx ch'aqa' chik
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page

@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Ke'ajik'a' Rutzij okik'amaya'l
 migration-wizard-selection-list = Kecha' taq tzij xkejik'.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Kecha' taq tzij xkejik'.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -52,18 +54,22 @@ migration-selected-data-label = Kejik' tzij echa'on
 
 migration-select-all-option-label = Ticha' ronojel
 migration-bookmarks-option-label = Taq yaketal
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Taq ajowab'äl
+
 migration-logins-and-passwords-option-label = Yakon kitikirisaxik molojri'ïl chuqa' ewan taq tzij
 migration-history-option-label = Runatab'al okem pa k'amaya'l
 migration-form-autofill-option-label = Rutzij nojwuj ruyon ninojisäx
 migration-payment-methods-option-label = Rub'eyal tojïk
+
 migration-passwords-from-file-progress-header = Tijik' Ruyakb'al Ewan taq Tzij
 migration-passwords-from-file-success-header = Ütz xejik' ewan taq tzij
 migration-passwords-from-file = Tikanöx ruyakb'al ewan taq tzij
 migration-passwords-new = K'ak'a' ewan taq tzij
 migration-passwords-updated = Ewan taq tzij e k'o
+
 migration-passwords-from-file-picker-title = Tijik' Ruyakb'al Ewan taq Tzij
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -79,6 +85,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV Wujil
        *[other] TSV Yakb'äl
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -89,6 +96,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } etz'aqatisan
        *[other] { $newEntries } etz'aqatisan
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -99,12 +107,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } ek'exon
        *[other] { $updatedEntries } ek'exon
     }
+
 migration-import-button-label = Tijik' pe
 migration-choose-to-import-from-file-button-label = Tijik' pa jun Yakb'äl
 migration-import-from-file-button-label = Ticha' Yakb'äl
 migration-cancel-button-label = Tiq'at
 migration-done-button-label = Xk'is
 migration-continue-button-label = Titikïr chik el
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } majun nuk'samaj xrïl ri k'o kitzij yaketal, natab'äl o ewan taq  tzij chupam.
 migration-wizard-import-browser-no-resources = Xk'oje' jun sachoj. { -brand-short-name } majun tzij xrïl richin nijik' pa ruwäch okik'amaya'l.
 
@@ -115,6 +125,7 @@ migration-wizard-import-browser-no-resources = Xk'oje' jun sachoj. { -brand-shor
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = taq yaketal
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = taq ajowab'äl
@@ -131,6 +142,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Nijik…
 migration-wizard-progress-icon-completed =
     .aria-label = Tz'aqatisan
+
 migration-safari-password-import-header = Kejik' pe ewan taq tzij pa Safari
 migration-safari-password-import-steps-header = Richin yejik' ewan  taq tzij pa Safari:
 migration-safari-password-import-step1 = Pa Safari, tijaq ri cholsamaj “Safari” k'a ri pa Taq ajowab'äl > Ewan taq Tzij
@@ -139,6 +151,8 @@ migration-safari-password-import-step3 = Keyak kiyakb'al ewan taq tzij
 migration-safari-password-import-step4 = Tokisäx “Ticha' Yakb'äl” chuxe' richin nicha' ri ruyakb'al ewan taq tzij xtiyak
 migration-safari-password-import-skip-button = Tik'o'
 migration-safari-password-import-select-button = Ticha' Yakb'äl
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -149,6 +163,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } yaketal
        *[other] { $quantity } taq yaketal
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -161,6 +176,13 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } ajowab'äl
        *[other] { $quantity } taq ajowab'äl
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -171,6 +193,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } ewan tzij
        *[other] { $quantity } ewan taq tzij
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -181,7 +204,9 @@ migration-wizard-progress-success-history =
         [one] Richin ruk'isib'äl q'ij
        *[other] Richin ruk'isib'äl { $maxAgeInDays } q'ij
     }
+
 migration-wizard-progress-success-formdata = Runojwuj natab'äl
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -192,7 +217,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } rub'eyal tojïk
        *[other] { $quantity } rub'eyal taq tojïk
     }
+
 migration-wizard-safari-permissions-sub-header = Richin yejik' taq yaketal chuqa' taq runatab'al rokem Safari:
 migration-wizard-safari-instructions-continue = Ticha' “Tisamajïx”
 migration-wizard-safari-instructions-folder = Ticha' ri rumolyakb'al Safari pa ri cholb'äl k'a ri ticha' “Tijaq”
-migration-wizard-safari-select-button = Ticha' Yakb'äl

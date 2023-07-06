@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Tikanöx
     .aria-label = Tikanöx
+
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
     .title = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
     .aria-label = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+
 newtab-search-box-text = Tikanöx pan ajk'amaya'l
 newtab-search-box-input =
     .placeholder = Tikanöx pan ajk'amaya'l
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Tinuk' Chojokem
 newtab-topsites-title-label = B'i'aj
 newtab-topsites-title-input =
     .placeholder = Tatz'ib'aj jun b'i'aj
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tatz'ib'aj o tatz'ajb'a' jun URL
 newtab-topsites-url-validation = Ütz URL k'atzinel
+
 newtab-topsites-image-url-label = Ichinan Ruwachib'al URL
 newtab-topsites-use-image-link = Tokisäx jun ichinan ruwachib'al…
 newtab-topsites-image-validation = Man xsamajib'ëx ta ri wachib'äl. Titojtob'ëx rik'in jun chik URL.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = To'on
 newtab-menu-section-tooltip =
     .title = Tijaq k'utsamaj
     .aria-label = Tijaq k'utsamaj
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Tiyuj
     .aria-label = Tiyuj
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -155,14 +161,17 @@ newtab-label-removed-bookmark = Yaketal elesan el
 newtab-label-recommended = Rujawaxik
 newtab-label-saved = Yakon pa { -pocket-brand-name }
 newtab-label-download = Xqasäx
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · To'on
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Xto' rub'anikil ruma { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -201,6 +210,7 @@ newtab-section-header-pocket = Chilab'en ruma { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Katok pa k'amaya'l richin niqak'üt chawäch jeb'ël taq cholna'oj, taq silowachib'äl, chuqa' ch'aqa' chik taq ruxaq k'a b'a' ke'atz'ët o aya'on kan ketal wawe'.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -225,19 +235,10 @@ newtab-pocket-learn-more = Tetamäx ch'aqa' chik
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
 newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jun { -brand-product-name } qach'alal
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Tiyak pa { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = Yakon pa { -pocket-brand-name }
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Kesamajïx ch'aqa' chik taq natab'äl
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = ¡Atz'eton ronojel!
-newtab-pocket-last-card-desc = K'a xkatzolin pe richin ch'aqa' chik.
-newtab-pocket-last-card-image =
-    .alt = ¡Atz'eton ronojel!
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Tiyak
 newtab-pocket-saved = Xyak

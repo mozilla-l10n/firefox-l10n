@@ -18,7 +18,6 @@ styleeditor-save-button = Tiyak
     .accesskey = T
 styleeditor-options-button =
     .tooltiptext = Taq rucha'oj ri kinuk'unel b'anikil
-styleeditor-media-rules = @q'ojom taq etab'äl
 styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Tatz'ib'aj CSS wawe'.
@@ -37,6 +36,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Tik'o pa ri cholaj…
     .accesskey = i
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

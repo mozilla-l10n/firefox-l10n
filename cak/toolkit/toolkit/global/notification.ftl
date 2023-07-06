@@ -4,15 +4,13 @@
 
 notification-learnmore-default-label =
     .value = Tetamäx ch'aqa'
-# This label is read by screen readers when focusing the close button for an
-# "infobar" (message shown when for example a popup is blocked).
-close-button-label =
-    .aria-label = Titz'apïx
+
 # This label is read by screen readers when focusing the close button for an
 # "infobar" (message shown when for example a popup is blocked),
 # and shown when hovering over the button
 notification-close-button =
     .aria-label = Titz'apïx
     .title = Titz'apïx
+
 close-notification-message =
     .tooltiptext = Titz'apïx re rutzijol taqoj re'

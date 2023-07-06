@@ -9,10 +9,6 @@ failed-pp-change = Man tikirel ta xjal ri Nab'ey Ewan Tzij.
 incorrect-pp = Man ütz ta ri Nab'ey Ewan Tzij xatz'ib'aj. Tatojtob'ej chik.
 pp-change-ok = Ütz xjal ri Nab'ey Ewan Tzij.
 
-pp-empty-warning = Man xkechajïx ta ri ewan taq atzij chuqa' ichinan ewan taq atzij e'ayakon.
-pp-erased-ok = Xayüj el ri Nab'ey Ewan Tzij. { pp-empty-warning }
-pp-not-wanted = ¡Tawak'axaj! Man xawajo' ta xawokisaj jun Nab'ey Ewan Tzij. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun Nab'ey Ewan Tzij ri man kowöl ta.
 pw-change-success-title = Ütz rujalik ri ewan tzij
 pw-change-failed-title = Xsach toq Nijal ri Ewan Tzij

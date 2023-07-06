@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Tiq'at
     .accesskey = T
+
 webext-perms-sideload-text = Jun chik rukema' akematz'ib' xuyäk jun tz'aqat, ri nitikïr nutz'ila' ri awokik'amaya'l. Ke'anik'oj ri taq k'utuj richin ruya'oj q'ij re tz'aqat re' k'a ri' tacha' Titzij o Tiq'at (richin tichup kan).
 webext-perms-sideload-text-no-perms = Jun chik rukema' akematz'ib' xuyäk jun tz'aqat, ri nitikïr nutz'ila' ri awokik'amaya'l. Tab'ana' utzil tacha' Titzij o Tiq'at (richin tichup kan).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Tiq'at
     .accesskey = T
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } xk'extäj. K'o chi ye'ajikib'a' k'ak'a' taq ya'oj q'ij chuwäch nayäk ri k'ak'a' ruwäch k'exon. We nacha' “Tiq'at” nik'oje' na ri ruwäch tz'aqat k'o wakami. Re k'amal re' niya' q'ij chi re:
 webext-perms-update-accept =
     .label = Tik'ex
     .accesskey = T
+
 webext-perms-optional-perms-list-intro = Nrajo':
 webext-perms-optional-perms-allow =
     .label = Tiya' q'ij
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Tiq'at
     .accesskey = T
+
 webext-perms-host-description-all-urls = Nok pa ri taq atzij pa ronojel ri ajk'amaya'l ruxaq
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Katok pa ri taq atzij richin ri taq ruxaq k'amaya'l pa { $domain } ruk'ojlem b'ey
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Katok pa taq atzij richin { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

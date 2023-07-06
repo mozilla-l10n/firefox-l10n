@@ -8,6 +8,13 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+## Permission Dialog
+## Variables:
+##  $host (string) - The hostname that is initiating the request
+##  $scheme (string) - The type of link that's being opened.
+##  $appName (string) - Name of the application that will be opened.
+##  $extension (string) - Name of extension that initiated the request
+
 permission-dialog-description = ¿La niya' q'ij chi re re ruxaq nujäq ri { $scheme } ximonel?
 
 permission-dialog-description-file = ¿La niya' q'ij chi re re yakb'äl nujäq ri { $scheme } ximonel?
@@ -23,6 +30,13 @@ permission-dialog-description-file-app = ¿La niya' q'ij chi re re yakb'äl nuj�
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+## Variables:
+##  $host (string) - The hostname that is initiating the request
+##  $scheme (string) - The type of link that's being opened.
 
 permission-dialog-remember = Junelïk tiya' q'ij chi ri <strong>{ $host }</strong> nujäq <strong>{ $scheme }</strong> ximonel
 
@@ -45,6 +59,10 @@ permission-dialog-set-change-app-link = Tacha' jun chik wi chi chokoy.
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
+
+## Chooser dialog
+## Variables:
+##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
     .title = Ticha' Chokoy

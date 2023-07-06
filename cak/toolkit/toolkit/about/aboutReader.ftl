@@ -4,12 +4,14 @@
 
 about-reader-loading = Nisamäj…
 about-reader-load-error = Man xtikïr ta rik'in ri rusamajixik ri cholna'oj pa ri ruxaq
+
 about-reader-color-scheme-light = Yuk'unel
     .title = Ruchib'al Säq B'onil
 about-reader-color-scheme-dark = Q'equ'm
     .title = Ruchib'al Q'ëq B'onil
 about-reader-color-scheme-sepia = Sepya
     .title = Ruchib'al Sepya' B'onil
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

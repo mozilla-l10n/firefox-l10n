@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Xk'ulwachitäj jun sachoj toq ntajin ri okem pa { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Rusachoj b'itz'ib': { $error }
-
 psmerr-ssl-disabled = Man tikirel ta nokisäx pa ütz rub'eyal ruma chi ri SSL rub'eyal samaj xchup.
 psmerr-ssl2-disabled = Man tikirel ta nok ütz, ruma chi ri ruxaq k'amaya'l tajin nrokisaj jun ojer chuqa' man ütz ta ruwäch chi SSL rub'eyal samaj.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Man nuköch' ta TLS rujuch' rub'eya
 ssl-error-unsupported-signature-algorithm = Ri k'ulunel nrokisaj jun tunuj, akuchi' man nito'on ta ri juch' b'i'aj chuqa' ri hash rub'eyal jik'oj.
 ssl-error-missing-extended-master-secret = Ri k'ulaj xutojtob'ej xutikirisaj chik, akuchi' majun ütz extended_master_secret k'amal.
 ssl-error-unexpected-extended-master-secret = Ri k'ulaj xutojtob'ej xutikirisaj chik rik'in jun man oyob'en ta chi extended_master_secret k'amal.
+
 sec-error-io = Xk'ulwachitäj jun sachoj richin I/O toq nitajin ri ya'oj q'ij richin jikomal.
 sec-error-library-failure = rusachoj ruwujib'al jikomal.
 sec-error-bad-data = ruwujib'al jikomal: xek'ulutäj itzel taq tzij.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Man tikirel ta netamäj rusik'ixik: ri rub'eya
 sec-error-pkcs7-bad-signature = Xsach runik'oxik juch'b'i'aj: man ilon ta ri juch'unel b'i'aj, o k'ïy ta juch'unela' b'i'aj xe'ilitäj, o ri taq tzij man e ütz ta o ye'itzelan.
 sec-error-unsupported-keyalg = Man nik'ul ta o man etaman ta ruwäch ri rub'eyal rujik'oj ewan tzij.
 sec-error-decryption-disallowed = Man tikirel ta netamäx rusik'ixik: xewäx rusik'ixik rik'in jun rub'eyal jik'oj o runimilem ewan tzij, ri man yek'ul ta.
-xp-sec-fortezza-bad-card = Ri Fortezza ch'utiwuj man ütz ta xtikirisäx. Tawelesaj el chuqa' tatzolij chi re ri tikirisanel atzij.
-xp-sec-fortezza-no-card = Man e'ilon ta taq Fortezza ch'utiwuj
-xp-sec-fortezza-none-selected = Man jun Fortezza ch'utiwuj cha'on
-xp-sec-fortezza-more-info = Tacha' jun ichinri'ïl richin nak'ül ch'aqa' chik taq etamab'äl pa ruwi'
-xp-sec-fortezza-person-not-found = Man xilitäj ta ri ichinri'ïl
-xp-sec-fortezza-no-more-info = Majun chik rutzijol pa ri ichinri'ïl
-xp-sec-fortezza-bad-pin = Man okel ta ri Pin
-xp-sec-fortezza-person-error = Man tikirel ta yetikirisäx ri taq Fortezza ichinri'ïl.
 sec-error-no-krl = Man ilon ta KRL richin ri ruwujil rub'i' re ruxaq k'amaya'l re'.
 sec-error-krl-expired = Ri KRL richin ri ruwujil rub'i' re ruxaq k'amaya'l re' xik'o ruq'ijul.
 sec-error-krl-bad-signature = Ri KRL richin ruwujil rub'i' re ruxaq k'amaya'l re', man okel ta jun rujuch'b'i'aj.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = K'o chik jun ruwujil b'i'aj junam rutz'ukun 
 sec-error-key-nickname-collision = K'o chik jun ewan tzij junam tz'ukun rub'i'.
 sec-error-safe-not-created = sachoj toq nitz'uk ri ütz wachinäq
 sec-error-baggage-not-created = sachoj toq nitz'uk ri ruwachinaq k'wayöl
-xp-java-remove-principal-error = Man tikirel ta niyuj el ri nimaläj
-xp-java-delete-privilege-error = Man tikirel ta niyuj el ri ichinem
-xp-java-cert-not-exists-error = Re nimaläj re' majun ruwujil rub'i'
 sec-error-bad-export-algorithm = Jun rub'eyal jik'oj ri najowäx, man niya' ta q'ij chi re.
 sec-error-exporting-certificates = Sachoj toq nitojtob'ëx yek'wäx el taq ruwujil b'i'aj.
 sec-error-importing-certificates = Sachoj toq nitojtob'ëx yejik' pe taq ruwujil b'i'aj.
@@ -338,6 +319,7 @@ sec-error-locked-password = Q'aton ri ewan tzij.
 sec-error-unknown-pkcs11-error = Man etaman ta ruwäch ri PKCS #11 sachoj.
 sec-error-bad-crl-dp-url = Man okel ta o man nik'ul ta ri URL pa ri rub'i' ruk'ojlemal rujachik CRL.
 sec-error-cert-signature-algorithm-disabled = Ri ruwujil b'i'aj xjuch' rik'in jun rub'eyal rujik'oj juch'b'i'aj, ri chupül ruma chi man ütz ta.
+
 mozilla-pkix-error-key-pinning-failure = Re ruk'u'x samaj re' nrokisaj key pinning (HPKP) xa xe chi man tikirinäq ta ninuk' jun kicholajem kuqel k'u'x kiwujil b'i'aj, ri nuk'äm ri' rik'in ri pinset. Ri taq ritzelanik Key pinning man tikirel ta yechojmirisäx.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Ri ruk'u'x samaj nrokisaj jun ruwujil b'i'aj rik'in jun ruxe' k'amal richin taq q'aton samaj, ri nuya' retal achi'el jun taqonel ya'öl ruwujil b'i'aj. Re re' k' ta chi man ja ta ri' rub'eyal richin jun ruwujil b'i'aj, ri ütz tikirisan rutzij.
 mozilla-pkix-error-inadequate-key-size = Ri ruk'u'x samaj ruk'utun jun ruwujil b'i'aj, ri ruk'wan jun runimilem ewan tzij yalan ko'öl richin nijikib'äx jun ütz okem.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Ri ruk'u'x samaj xuk'üt jun ruwuj
 mozilla-pkix-error-empty-issuer-name = Ri ruk'u'x samaj xuk'üt jun iqitzijib'äl rik'in jun nimaläj b'i'aj  kowöl tikirisanel tzij.
 mozilla-pkix-error-additional-policy-constraint-failed = Jun rutz'aqat ruq'atoj rusamaj na'ojil xsach toq nujikib'a' re iqitzijib'äl re'.
 mozilla-pkix-error-self-signed-cert = Man ütz ta re jun ruwujil b'i'aj re' ruma chi yonijuch'un.
+
+xp-java-remove-principal-error = Man tikirel ta niyuj el ri nimaläj
+xp-java-delete-privilege-error = Man tikirel ta niyuj el ri ichinem
+xp-java-cert-not-exists-error = Re nimaläj re' majun ruwujil rub'i'
+
+xp-sec-fortezza-bad-card = Ri Fortezza ch'utiwuj man ütz ta xtikirisäx. Tawelesaj el chuqa' tatzolij chi re ri tikirisanel atzij.
+xp-sec-fortezza-no-card = Man e'ilon ta taq Fortezza ch'utiwuj
+xp-sec-fortezza-none-selected = Man jun Fortezza ch'utiwuj cha'on
+xp-sec-fortezza-more-info = Tacha' jun ichinri'ïl richin nak'ül ch'aqa' chik taq etamab'äl pa ruwi'
+xp-sec-fortezza-person-not-found = Man xilitäj ta ri ichinri'ïl
+xp-sec-fortezza-no-more-info = Majun chik rutzijol pa ri ichinri'ïl
+xp-sec-fortezza-bad-pin = Man okel ta ri Pin
+xp-sec-fortezza-person-error = Man tikirel ta yetikirisäx ri taq Fortezza ichinri'ïl.

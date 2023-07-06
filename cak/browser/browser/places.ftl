@@ -23,8 +23,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Tijaq pa K'ak'a' Ichinan Tzuwäch
     .accesskey = I
+
 places-empty-bookmarks-folder =
     .label = (Tolan)
+
 places-add-bookmark =
     .label = Titz'aqatisäx Yaketal…
     .accesskey = Y
@@ -37,6 +39,7 @@ places-add-folder =
 places-add-separator =
     .label = Titz'aqatisäx Jachöy
     .accesskey = J
+
 places-view =
     .label = Titz'et
     .accesskey = t
@@ -55,12 +58,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Chi rajilab'al q'ij chuqa' ruxaq k'amaya'l
     .accesskey = x
+
 places-history-search =
     .placeholder = Tikanöx natab'äl
 places-history =
     .aria-label = Natab'äl
 places-bookmarks-search =
     .placeholder = Kekanöx yaketal
+
 places-delete-domain-data =
     .label = Timestäx re ruxaq k'amaya'l re'
     .accesskey = m
@@ -96,18 +101,22 @@ places-delete-page =
            *[other] Keyuj el ri taq Ruxaq
         }
     .accesskey = T
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Taq yaketal enuk'samajin
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Achyakwuj
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Juley taq Yaketal
+
 places-show-in-folder =
     .label = Tik'ut pa Molyakb'äl
     .accesskey = M
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -118,6 +127,7 @@ places-delete-bookmark =
            *[other] Keyuj Yaketal
         }
     .accesskey = y
+
 # Variables:
 #   $count (number) - The number of bookmarks being added.
 places-create-bookmark =
@@ -127,92 +137,121 @@ places-create-bookmark =
            *[other] Tiyaketalïx Ruxaq…
         }
     .accesskey = Y
+
 places-untag-bookmark =
     .label = Tiyuj Etal
     .accesskey = y
+
 places-manage-bookmarks =
     .label = Kenuk'samajïx Taq Yaketal
     .accesskey = K
+
 places-forget-about-this-site-confirmation-title = Timestäx re ruxaq re'
+
 places-forget-about-this-site-forget = Timestäx
-places-library =
-    .title = Wujb'äl
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = Wujb'äl
+
 places-organize-button =
     .label = Ticholajïx
     .tooltiptext = Ke'acholajij ri taq yaketal
     .accesskey = T
+
 places-organize-button-mac =
     .label = Ticholajïx
     .tooltiptext = Ke'acholajij ri taq yaketal
+
 places-file-close =
     .label = Titz'apïx
     .accesskey = T
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = Taq tzub'al
     .tooltiptext = Tajala' rutzub'al
     .accesskey = T
+
 places-view-button-mac =
     .label = Taq tzub'al
     .tooltiptext = Tajala' rutzub'al
+
 places-view-menu-columns =
     .label = Kek'ut pe ri taq tem
     .accesskey = t
+
 places-view-menu-sort =
     .label = Ticholajïx
     .accesskey = c
+
 places-view-sort-unsorted =
     .label = Man ticholajïx
     .accesskey = M
+
 places-view-sort-ascending =
     .label = Ticholajïx A > '
     .accesskey = A
+
 places-view-sort-descending =
     .label = Ticholajïx Z > A
     .accesskey = Z
+
 places-maintenance-button =
     .label = Tijik' pe chuqa' tito' rij
     .tooltiptext = Tijik' pe chuqa' tik'wäx el ri taq ayaketal
     .accesskey = T
+
 places-maintenance-button-mac =
     .label = Tijik' pe chuqa' tito' rij
     .tooltiptext = Tijik' pe chuqa' tik'wäx el ri taq ayaketal
+
 places-cmd-backup =
     .label = Tiwachib'ëx…
     .accesskey = T
+
 places-cmd-restore =
     .label = Titzolïx
     .accesskey = T
+
 places-cmd-restore-from-file =
     .label = Ticha' Yakb'äl…
     .accesskey = T
+
 places-import-bookmarks-from-html =
     .label = Kek'am pe taq yaketal pa HTML…
     .accesskey = K
+
 places-export-bookmarks-to-html =
     .label = Kek'wäx el taq yaketal pa HTML…
     .accesskey = K
+
 places-import-other-browser =
     .label = Kejik' pe taq tzij richin junchik okik'amaya'l…
     .accesskey = j
+
 places-view-sort-col-name =
     .label = B'i'aj
+
 places-view-sort-col-tags =
     .label = Taq etal
+
 places-view-sort-col-url =
     .label = Rochochib'al
+
 places-view-sort-col-most-recent-visit =
     .label = Ruk'isib'äl Tz'etoj
+
 places-view-sort-col-visit-count =
     .label = Jarupe' taq tz'etoj
+
 places-view-sort-col-date-added =
     .label = Tz'aqatisan
+
 places-view-sort-col-last-modified =
     .label = Ruk'isib'äl K'exoj
+
 places-view-sortby-name =
     .label = Kenuk' chi b'i'aj
     .accesskey = b
@@ -234,13 +273,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = Tinuk' chi taq etal
     .accesskey = e
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = Titzolin
+
 places-forward-button =
     .tooltiptext = Tib'e chuwäch
+
 places-details-pane-select-an-item-description = Tacha' jun ch'akulal richin natz'ët chuqa' nanük' ri taq ruch'akulal
+
 places-details-pane-no-items =
     .value = Majun taq ch'akulal
 # Variables:

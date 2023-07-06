@@ -23,5 +23,7 @@ state-header = Amaq'
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Taq b'anikil
+
 update-installed-on = Xyak pa: { $date }
+
 update-status = B'anikil: { $status }

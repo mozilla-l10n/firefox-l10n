@@ -22,10 +22,12 @@ about-private-browsing-not-private = Wakami man at k'o ta chupam jun ichinan tzu
 about-private-browsing-info-description-private-window = Ichinan tzuwäch: { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
 about-private-browsing-info-description-simplified = { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
 about-private-browsing-learn-more-link = Tetamäx ch'aqa' chik
+
 about-private-browsing-hide-activity = Tawewaj ri asamaj chuqa' ri ak'ojlib'al, xab'akuchi' at k'o wi
 about-private-browsing-get-privacy = Tak'ulu' ato'ik pa ruwi' ichinanem xab'akuchi' yatok wi pa k'amaya'l
 about-private-browsing-hide-activity-1 = Tawewaj ri asamaj pa ruwi' okem pa k'amaya'l chuqa' ri ak'ojlib'al rik'in { -mozilla-vpn-brand-name }. Jun pitz'oj nunük' jun jikïl okem, achi'el chuqa' pa winaqil Wi-Fi.
 about-private-browsing-prominent-cta = Tachajij ri awichinanem rik'in { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Tiqasäx { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ichinan okem xab'akuchi'
 about-private-browsing-focus-promo-text = Ri ruchokoy qoyonib'al nusamajij ichinan okem junelik yeruyüj ri taq natab'äl chuqa' taq koki.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Tak'waj ri ichinan okem pa k'amaya
 about-private-browsing-focus-promo-text-b = Tawokisaj { -focus-brand-name } toq yakanon pan ewäl, ri man nawajo' ta chi nutzu' ri nab'ey awokik'amaya'l.
 about-private-browsing-focus-promo-header-c = Nïm runimilem ichinanem pa taq oyonib'äl
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } jantape' yeruyüj ri taq anatab'al toq yeruq'ät taq rutzijol chuqa' taq ojqanela'.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Titz'apïx
+
 about-private-browsing-promo-close-button =
     .title = Titz'apïx
 

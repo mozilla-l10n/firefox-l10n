@@ -12,7 +12,6 @@ experimental-features-css-masonry-description = Tatz'ija' ri k'amoj rik'in ri to
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
-experimental-features-web-gpu-description2 = Re k'ak'a' API ko'öl to'ïk nuya' richin niq'ijüx chuqa' rumolsamaj wachib'äl akuchi' nokisäx ri <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> pa rukematz'ib' o royonib'al okisaxel. Ri <a data-l10n-name="spec">rujikib'axik</a> k'a man jikïl ta. Tab'etz'eta' ri <a data-l10n-name="bugzilla">bug1602129</a> richin ch'aqa' rutzijol.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -20,20 +19,10 @@ experimental-features-media-jxl =
     .label = Samajib'äl: JPEG XL
 experimental-features-media-jxl-description = Rik'in re tzijon samajib'äl re', { -brand-short-name } nuk'ül ri rub'anikil JPEG XL (JXL). Re' jun rub'anikil utzirisan ruyakb'al wachib'äl, ri nuya' q'ij chi re ri ruq'axik akuchi' majun tzij nusäch pa JPEG taq yakb'äl. Tak'ulb'ej ri <a data-l10n-name="bugzilla">bug 1539075</a> richin ch'aqa' rub'anikil.
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-constructable-stylesheets =
-    .label = CSS: Constructable Stylesheets
-experimental-features-css-constructable-stylesheets-description = Ri rutz'aqatisaxik jun nuk'unel pa ri <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> k'amal achi'el chuqa' juley taq jaloj kik'amon ki' nub'än chi jumul yetz'uk k'ak'a' taq ruxaq rik'in kib'anikil akuchi' man nitz'aqatisäx ta ri HTML ruxaq. Re re' nub'än chi man k'ayew ta yetz'uk kib'anikil ruxaq ri ye'okisäx chik rik'in <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Titz'et <a data-l10n-name="bugzilla">bug 1520690</a> richin ch'aqa' rutzijol.
-
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
 experimental-features-devtools-compatibility-panel-description = Jun ruchi' pas richin ri Runik'onel Ruxaq ri nuk'üt pe ri etamab'äl akuchi' nuya' retal rub'anikil k'amoj chi kikojol ri okik'amaya' richin ri achokoy. Tatz'eta' <a data-l10n-name="bugzilla">bug 1584464</a> richin ch'aqa' rutzijol.
 
-# Do not translate 'SameSite', 'Lax' and 'None'.
-experimental-features-cookie-samesite-lax-by-default2 =
-    .label = Cookies: SameSite=Lax k'o wi
-experimental-features-cookie-samesite-lax-by-default2-description = Yerutz'ët ri taq cookies achi'el “SameSite=Lax” ri k'o wi we man nijikib'äx ta ri “SameSite” b'anikil. Ri b'anonela' k'o chi nikojqaj ri status quo k'o wakami toq nub'ij “SameSite=None”.
 
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
@@ -45,12 +34,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Taq co
 experimental-features-abouthome-startup-cache =
     .label = about:home rujumejyak tikirib'äl
 experimental-features-abouthome-startup-cache-description = Rujumejyak tikirinel wuj  about:home ri nusamajij ri' ruyon pa rutikiribal. Ri nrojqaj ri jumejyak richin ninimirisäx rusamaj ri tikirib'äl.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-schemeful =
-    .label = Cookies: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Kisamajixik taq cookies richin junam ajk'amal po rik'in jalajöj chib'enïk (achi'el, http://example.com chuqa' https://example.com) achi'el xoch'in taq ruxaq pa ruk'exel ri jun ruxaq. Nrutzilaj ri jikomal po nuya' k'ïy sachoj.
 
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =

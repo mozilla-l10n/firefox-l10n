@@ -131,12 +131,6 @@ about-telemetry-category-header = ruwäch
 about-telemetry-method-header = b'eyal
 about-telemetry-object-header = wachinäq
 about-telemetry-extra-header = rutz'aqat
-about-telemetry-origin-section = Ruxe'el Telemetri
-about-telemetry-origin-origin = ruxe'el
-about-telemetry-origin-count = ajilab'äl
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetri</a> ke'awewaj kisik'ixik taq tzij chuwäch yetaq richin chi ri { $telemetryServerOwner } nitikïr yerajilaj taq wachinäq, po man etaman ta we k'o jun { -brand-product-name } ri xto'on pa ri ajilanem ri'. (<a data-l10n-name="prio-blog-link">Tetamäx ch'aqa' chik</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } tajinïk
