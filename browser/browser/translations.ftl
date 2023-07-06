@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Translate this page
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Page translated from { $fromLanguage } to { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Translation in progress
+
 translations-panel-settings-button =
     .aria-label = Manage translation settings
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Manage languages
 translations-panel-settings-about = About translations in { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Always translate { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Always translate this language
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Never translate { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Never translate this language
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Never translate this site
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Please wait…
 translations-panel-translate-cancel =
     .label = Cancel
+
 translations-panel-error-translating = There was a problem translating. Please try again.
 translations-panel-error-load-languages = Couldn’t load languages
 translations-panel-error-load-languages-hint = Check your internet connection and try again.
 translations-panel-error-load-languages-hint-button =
     .label = Try again
+
 translations-panel-error-unsupported = Translation isn’t available for this page
 translations-panel-error-dismiss-button =
     .label = Got it
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = There was a problem downloading the language files. Please try again.
 translations-manage-error-delete = There was an error deleting the language files. Please try again.
 translations-manage-error-list = Failed to get the list of available languages for translation. Refresh the page to try again.
+
 translations-settings-title =
     .title = Translations Settings
     .style = min-width: 36em

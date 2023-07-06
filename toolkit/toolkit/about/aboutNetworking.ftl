@@ -34,13 +34,6 @@ about-networking-messages-received = Messages Received
 about-networking-bytes-sent = Bytes Sent
 about-networking-bytes-received = Bytes Received
 about-networking-logging = Logging
-about-networking-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
-about-networking-current-log-file = Current Log File:
-about-networking-current-log-modules = Current Log Modules:
-about-networking-set-log-file = Set Log File
-about-networking-set-log-modules = Set Log Modules
-about-networking-start-logging = Start Logging
-about-networking-stop-logging = Stop Logging
 about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Resolve
 about-networking-dns-domain = Domain:

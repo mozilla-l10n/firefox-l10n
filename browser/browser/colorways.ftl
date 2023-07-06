@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Independent Voices
-colorway-collection-independent-voices-description = Colour can change culture. The latest colourways celebrate voices making the world a better place.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Colours that change culture.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Playmaker
