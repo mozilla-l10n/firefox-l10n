@@ -22,5 +22,7 @@ state-header = Xiyimo
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Vuxokoxoko
+
 update-installed-on = Nghenisiwile eka: { $date }
+
 update-status = Xiyimo: { $status }

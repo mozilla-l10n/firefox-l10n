@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Panga switifiketi
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Panga switifiketi
     .style = min-width: 46em
@@ -57,4 +53,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Xa nkoka: Loko u lahlekeriwa hi phasiwedi ya xitandzhaku xa xitifiketi xa wena, u nge he xi kumi xitandzhaku lexi eka nkarhi lowu taka.  Xi rhekhodi eka ndhawu yo hlayiseka.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

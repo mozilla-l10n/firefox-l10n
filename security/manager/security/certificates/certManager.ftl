@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Valawuri
 
-certmgr-edit-ca-cert =
-    .title = Hlela malulamisele ya xitifiketi xa CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Hlela malulamisele ya xitifiketi xa CA
     .style = min-width: 48em;
@@ -26,10 +22,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Xitifiketi lexi xi kota ku tiva vatirhisi va mapapila.
-
-certmgr-delete-cert =
-    .title = Sula xitifiketi
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Sula xitifiketi

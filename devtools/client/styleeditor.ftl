@@ -8,3 +8,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Kuma nakambe
     .accesskey = n
+

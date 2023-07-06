@@ -7,6 +7,7 @@
 
 connectionFailure-title = Unable to connect
 deniedPortAccess-title = This address is restricted
+
 fileNotFound-title = File not found
 generic-title = Oops.
 netInterrupt-title = The connection was interrupted
