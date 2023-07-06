@@ -121,13 +121,6 @@ cfr-doorhanger-doh-secondary-button = Išjungti
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ jau izoliuoja, arba laiko atskirai, svetaines vieną nuo kitos, kas apsunkina piktavalių bandymus pavogti slaptažodžius, banko kortelių duomenis, ir kitus jautrius duomenis.
-cfr-doorhanger-fission-header = Svetainių izoliavimas
-cfr-doorhanger-fission-primary-button = Gerai, supratau
-    .accesskey = G
-cfr-doorhanger-fission-secondary-button = Sužinoti daugiau
-    .accesskey = S
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Šios svetainės vaizdo įrašai gali būti rodomi netinkamai su šia „{ -brand-short-name }“ versija. Norėdami gauti geriausią palaikymą, atnaujinkite „{ -brand-short-name }“.
@@ -136,11 +129,6 @@ cfr-doorhanger-video-support-primary-button = Atnaujinti dabar
     .accesskey = A
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Sužinoti daugiau
-    .title = Išskleiskite, norėdami sužinoti daugiau apie šią funkciją
-spotlight-learn-more-expanded = Sužinoti daugiau
-    .title = Užverti
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -157,18 +145,6 @@ spotlight-public-wifi-vpn-link = Ne dabar
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Išbandykite mūsų galingiausią
-    privatumo apsaugą
-spotlight-total-cookie-protection-body = Visapusiška slapukų apsauga neleidžia stebėjimo elementams sekti jūsų naršymą naudojant slapukus.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = „{ -brand-short-name }“ pastato užtvarą aplink slapukus, ribodama jų pasiekimą jūsų lankomoje svetainėje, todėl stebėjimo elementai negali jų naudoti jūsų sekimui. Išbandydami iš anksto, padėsite optimizuoti šį funkcionalumą, kad galėtume kurti visiems geresnį internetą.
-spotlight-total-cookie-protection-primary-button = Įjungti visapusišką slapukų apsaugą
-spotlight-total-cookie-protection-secondary-button = Ne dabar
 
 ## Emotive Continuous Onboarding
 
@@ -199,4 +175,16 @@ spotlight-pin-secondary-button = Ne dabar
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

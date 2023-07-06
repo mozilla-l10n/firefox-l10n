@@ -26,10 +26,6 @@ certmgr-people = Turite liudijimus, identifikuojančius šiuos asmenis
 certmgr-server = Šie įrašai nurodo serverių liudijimų klaidų išimtis
 certmgr-ca = Turite liudijimus, identifikuojančius šias liudijimų įstaigas
 
-certmgr-edit-ca-cert =
-    .title = Pasitikėjimo LĮ liudijimu nuostatos
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Pasitikėjimo LĮ liudijimu nuostatos
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Šis liudijimas gali patvirtinti el. pašto naudotojų tapatybę
-
-certmgr-delete-cert =
-    .title = Liudijimo šalinimas
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Liudijimo šalinimas
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Serveris
-
-certmgr-override-lifetime =
-    .label = Galiojimo laikas
 
 certmgr-token-name =
     .label = Saugumo priemonė

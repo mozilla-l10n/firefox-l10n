@@ -16,7 +16,6 @@ styleeditor-save-button = Įrašyti
     .accesskey = r
 styleeditor-options-button =
     .tooltiptext = Stilių rengyklės nuostatos
-styleeditor-media-rules = @media taisyklės
 styleeditor-editor-textbox =
     .data-placeholder = Čia rašykite CSS taisykles.
 styleeditor-no-stylesheet = Šis tinklalapis nenaudoja stilių aprašų.
@@ -34,6 +33,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Eiti į eilutę…
     .accesskey = E
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

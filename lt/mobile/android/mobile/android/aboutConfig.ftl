@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Ieškoti
 config-new-pref-name =
     .placeholder = Naujas
+
 config-new-pref-value-boolean = Loginis
 config-new-pref-value-string = Simbolių eilutė
 config-new-pref-value-integer = Sveikasis skaičius
+
 config-new-pref-string =
     .placeholder = Įveskite tekstą
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Atsisakyti
 config-new-pref-create-button = Sukurti
 config-new-pref-change-button = Pakeisti
+
 config-pref-toggle-button = Perjungti
 config-pref-reset-button = Atstatyti
+
 config-context-menu-copy-pref-name =
     .label = Kopijuoti vardą
 config-context-menu-copy-pref-value =

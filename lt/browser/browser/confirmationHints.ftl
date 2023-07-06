@@ -12,4 +12,3 @@ confirmation-hint-password-saved = Slaptažodis įrašytas!
 confirmation-hint-pin-tab = Įsegta!
 confirmation-hint-pin-tab-description = Norėdami išsegti kortelę, spustelėkite ją dešiniuoju pelės klavišu.
 confirmation-hint-send-to-device = Išsiųsta!
-confirmation-hint-firefox-relay-mask-generated = Sukurta nauja „{ -relay-brand-short-name }“ kaukė!

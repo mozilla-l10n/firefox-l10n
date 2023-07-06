@@ -32,10 +32,6 @@ third-party-tag-shellex = Shell plėtinys
     .title = Šio tipo modulis yra įkeliamas jums atvėrus sistemos failų dialogą.
 third-party-tag-background = Foninis
     .title = Šis modulis neblokavo programos, nes buvo įkeltas fone.
-third-party-unsigned-icon =
-    .title = Šis modulis nėra pasirašytas
-third-party-warning-icon =
-    .title = „{ -brand-short-name }“ užlūžo kode iš šio modulio
 
 third-party-status-loaded = įkeltas
 third-party-status-blocked = Užblokuotas
@@ -50,3 +46,4 @@ third-party-button-expand =
     .title = Rodyti detalią informaciją
 third-party-button-collapse =
     .title = Suskleisti detalią informaciją
+

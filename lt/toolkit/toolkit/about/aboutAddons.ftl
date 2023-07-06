@@ -8,14 +8,16 @@ search-header =
     .placeholder = Ieškoti per addons.mozilla.org
     .searchbuttonlabel = Paieška
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Gaukite priedų ir grafinių apvalkalų iš <a data-l10n-name="get-extensions">{ $domain }</a>
 
 list-empty-get-dictionaries-message = Gaukite žodynų iš <a data-l10n-name="get-extensions">{ $domain }</a>
 
 list-empty-get-language-packs-message = Gaukite kalbų rinkinių iš <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
 
 list-empty-installed =
     .value = Nėra įdiegtų šio tipo priedų
@@ -351,12 +353,7 @@ extension-enabled-heading = Įjungta
 extension-disabled-heading = Išjungta
 
 theme-enabled-heading = Įjungta
-theme-disabled-heading = Išjungta
 theme-disabled-heading2 = Įrašyti grafiniai apvalkalai
-theme-monochromatic-heading = Spalvų rinkiniai
-theme-monochromatic-subheading = Ryškūs ir nauji spalvų rinkiniai iš „{ -brand-product-name }“. Pasiekiami ribotą laiką.
-
-theme-colorways-button = Išbandykite spalvų rinkinius
 
 plugin-enabled-heading = Įjungta
 plugin-disabled-heading = Išjungta
@@ -427,6 +424,9 @@ addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūs
 addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -486,6 +486,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
