@@ -33,5 +33,9 @@ url-classifier-not-available = N/D
 url-classifier-updating = s'està actualitzant
 url-classifier-cannot-update = no es pot actualitzar
 url-classifier-success = correcte
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = error d'actualització ({ $error })
 url-classifier-download-error = error de baixada ({ $error })

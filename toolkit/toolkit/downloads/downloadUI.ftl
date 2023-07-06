@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] No surtis
        *[other] No surtis
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Si us poseu fora de línia, es cancel·larà 1 baixada. Esteu segur que voleu posar-vos fora de línia?
        *[other] Si us poseu fora de línia, es cancel·laran { $downloadsCount } baixades. Esteu segur que voleu posar-vos fora de línia?
     }
 download-ui-dont-go-offline-button = Roman en línia
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Si tanqueu totes les finestres de navegació privada ara, es cancel·larà 1 baixada. Esteu segur que voleu deixar la navegació privada?
        *[other] Si tanqueu totes les finestres de navegació privada ara, es cancel·laran { $downloadsCount } baixades. Esteu segur que voleu deixar la navegació privada?
     }
 download-ui-dont-leave-private-browsing-button = Continua la navegació privada
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Cancel·la 1 baixada

@@ -8,3 +8,4 @@ third-party-button-expand =
     .title = Mostra la informació detallada
 third-party-button-collapse =
     .title = Amaga la informació detallada
+

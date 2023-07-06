@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Pestanya nova
 tabbrowser-empty-private-tab-title = Pestanya privada nova
+
 tabbrowser-menuitem-close-tab =
     .label = Tanca la pestanya
 tabbrowser-menuitem-close =
     .label = Tanca
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -117,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = No em tornis a mostrar aquest diàle
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permet que les notificacions com aquesta de { $domain } us portin a la seva pestanya
+
 tabbrowser-customizemode-tab-title = Personalitzeu el { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -142,3 +146,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Llista les { $tabCount } pestanyes
+
+## Tab manager menu buttons
+

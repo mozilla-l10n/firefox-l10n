@@ -41,6 +41,17 @@ neterror-load-error-firewall = Si el vostre ordinador o la vostra xarxa estan pr
 
 neterror-captive-portal = Heu d'iniciar la sessió en aquesta xarxa per poder accedir a Internet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'hagi produït en teclejar.
 neterror-file-not-found-moved = Comproveu que el fitxer no s'hagi mogut, canviat de nom o eliminat.
 

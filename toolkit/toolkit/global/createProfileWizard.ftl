@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = Auxiliar per a la creació de perfils
-    .style = width: 47em; height: 35em;
-
 create-profile-window2 =
     .title = Auxiliar per a la creació de perfils
     .style = min-width: 47em; min-height: 35em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] Introducció
-       *[other] Benvinguts al { create-profile-window.title }
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -37,12 +27,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] Conclusió
-       *[other] S'està acabant el { create-profile-window.title }
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

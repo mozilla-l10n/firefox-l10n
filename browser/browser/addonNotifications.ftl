@@ -14,6 +14,7 @@ xpinstall-prompt-message = Esteu a punt d'instal·lar un complement de { $host }
 
 xpinstall-prompt-header-unknown = Permeteu que un lloc desconegut instal·li un complement?
 xpinstall-prompt-message-unknown = Esteu a punt d'instal·lar un complement d'un lloc desconegut. Assegureu-vos que confieu en aquest lloc abans de continuar.
+
 xpinstall-prompt-dont-allow =
     .label = No ho permetis
     .accesskey = N
@@ -44,6 +45,7 @@ xpinstall-disabled = Actualment la instal·lació de programari està inhabilita
 xpinstall-disabled-button =
     .label = Habilita
     .accesskey = H
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = L'administrador del sistema ha blocat { $addon
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L'administrador del sistema ha evitat que aquest lloc us demani instal·lar programari al vostre ordinador.
 addon-install-full-screen-blocked = No es permet instal·lar cap complement mentre estigueu en el mode de pantalla completa, o abans d'entrar-hi.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } s'ha afegit al { -brand-short-name }
@@ -69,6 +72,7 @@ addon-removal-title = Voleu eliminar { $name }?
 addon-removal-message = Voleu eliminar «{ $name }» del { -brand-shorter-name }?
 addon-removal-button = Elimina
 addon-removal-abuse-report-checkbox = Informeu d'aquesta extensió a { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -77,6 +81,7 @@ addon-downloading-and-verifying =
        *[other] S'estan baixant i verificant { $addonCount } complements…
     }
 addon-download-verifying = S'està verificant
+
 addon-install-cancel-button =
     .label = Cancel·la
     .accesskey = C
