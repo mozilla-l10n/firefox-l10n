@@ -121,13 +121,6 @@ cfr-doorhanger-doh-secondary-button = Zastow
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Twoja prywatność je ważno. { -brand-short-name } terozki izoluje strōny, skuli czego ciynżyj je hakrōm kraść hasła, numery kredytowych kart i inksze ôsobiste informacyje.
-cfr-doorhanger-fission-header = Izolacyjo strōn
-cfr-doorhanger-fission-primary-button = OK, rozumia
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Przewiydz sie wiyncyj
-    .accesskey = P
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Przi tyj wersyji aplikacyje { -brand-short-name } filmy na tyj strōnie mogōm sie niy puszczać dobrze. Zaktualizuj aplikacyjo { -brand-short-name }, coby mieć pōłno ôbsuga filmōw.
@@ -136,11 +129,6 @@ cfr-doorhanger-video-support-primary-button = Aktualizuj teroz
     .accesskey = A
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Przewiydz sie wiyncyj
-    .title = Rozszyrz, coby przewiedzieć sie wiyncyj ô tyj funkcyji
-spotlight-learn-more-expanded = Przewiydz sie wiyncyj
-    .title = Zawrzij
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -157,23 +145,6 @@ spotlight-public-wifi-vpn-link = Niy teroz
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Sprōbuj naszyj nojsiylniyjszyj
-    funkcyji do ôchrōny prywatności
-spotlight-total-cookie-protection-body = Połno ôchrōna cookies zastawio śledzōnce elymynty, coby niy używały cookies do śledzynio cie po internecie.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } buduje naôbkoło cookies płot, bez co ôstowajōm na strōnie, na keryj żeś je, tak co sledzōnce elymynty niy mogōm ich użyć do śledzynio cie. Jak załōnczysz ta fōnkcyjo, to pōmożesz jōm zôptymalizować, tak co poradzymy durch budować lepszy internet do wszyskich.
-spotlight-total-cookie-protection-primary-button = Załōncz połno ôchrōna cookies
-spotlight-total-cookie-protection-secondary-button = Niy teroz
-
-cfr-total-cookie-protection-header = Skuli Ciebie aplikacyjo { -brand-short-name } je wiyncyj prywatno i bezpieczniyjszo
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Połno ôchrōna cookies to je do teroz nasza nojsiylniyjszo ôchrōna prywatności – a teroz je za bazowy sztalōnek do użytkownikōw aplikacyje { -brand-short-name }. Niy poradziylibymy tego szafnōńć bez uczestnikōw testōw takich jak ty. Tōż dziynkujymy za pōmoc przi tworzyniu lepszego, prywatniyjszego internetu.
 
 ## Emotive Continuous Onboarding
 
@@ -204,4 +175,16 @@ spotlight-pin-secondary-button = Niy teroz
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

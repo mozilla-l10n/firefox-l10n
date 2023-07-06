@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Pokozoł sie feler przi łōnczyniu z { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Kod felera: { $error }
-
 psmerr-ssl-disabled = Niy idzie sie bezpiecznie połōńczyć, bo protokōł SSL je zastawiōny.
 psmerr-ssl2-disabled = Niy idzie sie bezpiecznie połōnczyć, bo strōna używo starszyj, przedownionyj wersyje protokołu SSL.
 
@@ -133,3 +124,4 @@ ssl-error-certificate-unobtainable-alert = Partner protokołu SSL niy poradziō�
 ssl-error-unrecognized-name-alert = Partner protokołu SSL niy mo certyfikatu do proszōnego miana DSV.
 ssl-error-bad-cert-status-response-alert = Partner protokołu SSL niy poradziōł dostać ôdpowiedzi OCSP do tego certyfikatu.
 ssl-error-bad-cert-hash-value-alert = Partner protokołu SSL doł znać ô felernym wercie hash certyfikatu.
+

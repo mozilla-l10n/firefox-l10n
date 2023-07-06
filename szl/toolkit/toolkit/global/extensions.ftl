@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Pociep
     .accesskey = P
+
 webext-perms-sideload-text = Inkszy program na twojim kōmputrze zainsztalowoł rozszyrzynie, co może wpływać na twoja przeglōndarka. Wejrzij na prośby ô zgoda ôd tego rozszyrzynia i ôbier Załōncz abo Pociep (jak mo być zastawiōne).
 webext-perms-sideload-text-no-perms = Inkszy program na twojim kōmputrze zainsztalowoł rozszyrzynie, co może wpływać na twoja przeglōndarka. Ôbier Załōncz abo Pociep (jak mo być zastawiōne).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Pociep
     .accesskey = P
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } je zaktualizowany. Trza przituplować nowe zgody przed zainsztalowaniym zaktualizowanyj wersyje. Jak ôbieresz "Pociep", to ôstanie wersyjo, co jōm prawie mosz zainsztalowano. Te rozszyrzynie bydzie mieć zgoda, coby:
 webext-perms-update-accept =
     .label = Aktualizuj
     .accesskey = A
+
 webext-perms-optional-perms-list-intro = Chce:
 webext-perms-optional-perms-allow =
     .label = Przizwōl
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Zakoż
     .accesskey = Z
+
 webext-perms-host-description-all-urls = Dostymp do twojich danych na kożdyj strōnie
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Dostymp do twojich danych na strōnach we dōmynie { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -62,6 +68,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Dostymp do twojich danych do { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

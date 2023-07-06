@@ -13,3 +13,4 @@ experimental-features-css-masonry-description = Załōnczo ôbsuga eksperymyntal
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 
+

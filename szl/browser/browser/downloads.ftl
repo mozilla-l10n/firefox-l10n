@@ -18,6 +18,7 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
+
 downloads-cmd-pause =
     .label = Pauza
     .accesskey = P
@@ -28,6 +29,7 @@ downloads-cmd-cancel =
     .tooltiptext = Pociep
 downloads-cmd-cancel-panel =
     .aria-label = Pociep
+
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -48,6 +50,7 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = Odewrzij w programie { $handler }
     .accesskey = O
+
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -67,12 +70,14 @@ downloads-cmd-always-use-system-default-named =
 downloads-cmd-always-open-similar-files =
     .label = Zawdy ôtwiyrej podobne zbiory
     .accesskey = w
+
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Pokoż we Finderze
            *[other] Pokoż w katalogu
         }
+
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -85,6 +90,7 @@ downloads-cmd-show-description-2 =
             [macos] Pokoż we Finderze
            *[other] Pokoż w katalogu
         }
+
 downloads-cmd-show-downloads =
     .label = Pokoż katalog z pobranymi zbiorami
 downloads-cmd-retry =
@@ -109,33 +115,42 @@ downloads-cmd-clear-downloads =
 downloads-cmd-delete-file =
     .label = Skasuj
     .accesskey = S
+
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Dozwolej pobiyrać
     .accesskey = D
+
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Wyciep zbiōr
+
 downloads-cmd-remove-file-panel =
     .aria-label = Wyciep zbiōr
+
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Wyciep zbiōr abo dozwolej pobiyrać
+
 downloads-cmd-choose-unblock-panel =
     .aria-label = Wyciep zbiōr abo dozwolej pobiyrać
+
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Ôtwōrz abo wymaż zbiōr
+
 downloads-cmd-choose-open-panel =
     .aria-label = Ôtwōrz abo wymaż zbiōr
+
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Pokoż wiyncyj informacyji
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -149,11 +164,6 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
-downloading-file-opens-in-hours-and-minutes = Ôdewrzi sie za { $hours } godz. { $minutes } min…
-downloading-file-opens-in-minutes = Ôdewrzi sie za { $minutes } min…
-downloading-file-opens-in-minutes-and-seconds = Ôdewrzi sie za { $minutes } min { $seconds } s…
-downloading-file-opens-in-seconds = Ôdewrzi sie za { $seconds } s…
-downloading-file-opens-in-some-time = Ôdewrzi sie po skōńczyniu…
 downloading-file-opens-in-hours-and-minutes-2 =
     .value = Ôdewrzi sie za { $hours } godz. { $minutes } min…
 downloading-file-opens-in-minutes-2 =
@@ -173,16 +183,19 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Sprōbuj zaś pobrać
+
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Pociep pobiyranie
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Pokoż wszyskie pobiyrania
     .accesskey = P
+
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -207,13 +220,16 @@ downloads-blocked-download-detailed-info = Strōna { $url } prōbowała autōmat
 downloads-clear-downloads-button =
     .label = Wypucuj lista pobranych zbiorōw
     .tooltiptext = Pucuje skōńczōne, pociepane i niypodarzōne pobiyrania
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Niy ma pobrań.
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Niy ma pobrań w tyj sesyji.
+
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the

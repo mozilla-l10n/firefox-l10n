@@ -4,12 +4,14 @@
 
 about-reader-loading = Ladowanie…
 about-reader-load-error = Ladowanie artykułu ze strōny sie niy podarziło
+
 about-reader-color-scheme-light = Jasny
     .title = Jasny schymat farbōw
 about-reader-color-scheme-dark = Ćmawy
     .title = Ćmawy schymat farbōw
 about-reader-color-scheme-sepia = Sepijo
     .title = Sepiowy schymat farbōw
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

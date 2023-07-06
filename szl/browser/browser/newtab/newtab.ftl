@@ -233,20 +233,10 @@ newtab-pocket-cta-button = Dostōń ze { -pocket-brand-name(case: "gen") }
 newtab-pocket-cta-text = Spamiyntuj we { -pocket-brand-name(case: "loc") } teksty, co ci pasujōm, coby durch mieć co ciekawego do poczytanio.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je tajlōm familije { -brand-product-name }
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Spamiyntej do { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = Spamiyntane do { -pocket-brand-name }
-
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Zaladuj wiyncyj artykułōw
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Mosz wszysko poczytane!
-newtab-pocket-last-card-desc = Badnij sam niyskorzij za nastympnymi artykułami.
-newtab-pocket-last-card-image =
-    .alt = Mosz wszysko poczytane!
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

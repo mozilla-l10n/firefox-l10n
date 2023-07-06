@@ -9,10 +9,6 @@ failed-pp-change = Niy idzie zmiynić głōwnego hasła.
 incorrect-pp = Niy było wkludzōne dobre głōwne hasło. Sprōbuj jeszcze roz.
 pp-change-ok = Zmiana głōwnego hasła sie podarziła
 
-pp-empty-warning = Poschraniane hasła i prywatne klucze niy bydōm brōniōne.
-pp-erased-ok = Twoje głōwne hasło je skasowane. { pp-empty-warning }
-pp-not-wanted = Pozōr! Mosz ôbrane, coby niy używać głōwnego hasła. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Jeżeś prawie w trybie FIPS, co potrzebuje niyprōżnego głōwnego hasła.
 pw-change-success-title = Zmiana hasła sie podarziła
 pw-change-failed-title = Zmiana hasła sie niy podarziła

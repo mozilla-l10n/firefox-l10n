@@ -23,5 +23,7 @@ state-header = Sztatus
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Informacyje
+
 update-installed-on = Zainstalowane na: { $date }
+
 update-status = Sztatus: { $status }

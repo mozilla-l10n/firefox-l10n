@@ -5,11 +5,6 @@
 
 about-logins-page-title = Dane logowanio
 
-login-filter =
-    .placeholder = Szukej danych logowanio
-
-create-login-button = Stwōrz nowe dane logowanio
-
 fxaccounts-sign-in-text = Używej swojich haseł na inkszych maszinach
 fxaccounts-sign-in-sync-button = Wloguj sie do synchrōnizacyje
 fxaccounts-avatar-button =
@@ -100,9 +95,10 @@ login-item-copied-password-button-text = Skopiowano
 login-item-save-changes-button = Spamiyntej umiany
 login-item-save-new-button = Spamiyntej
 login-item-cancel-button = Pociep
-login-item-time-changed = Ôstatnio modyfikacyjo { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Stworzōne { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Ôstatnie użycie { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -153,6 +149,9 @@ about-logins-confirm-remove-dialog-title = Skasować te dane logowanio?
 confirm-delete-dialog-message = Tyj akcyje niy idzie cofnōńć.
 about-logins-confirm-remove-dialog-confirm-button = Skasuj
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Skasuj
@@ -195,6 +194,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[many] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Eksportuj dane logowanio i hasła
 about-logins-confirm-export-dialog-message = Twoje hasła bydōm spamiyntane za czytelny tekst (bp. Złeh@sł0), tōż kożdy, fto bydzie mōg ôtworzić eksportowany zbiōr, bydzie je widzieć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
@@ -214,7 +215,6 @@ about-logins-breach-alert-date = Do wyciyku doszło { DATETIME($date, day: "num
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Idź do { $hostname }
-about-logins-breach-alert-learn-more-link = Wiyncyj informacyji
 
 ## Vulnerable Password notification
 

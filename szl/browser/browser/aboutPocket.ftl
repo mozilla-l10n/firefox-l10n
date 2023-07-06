@@ -22,14 +22,12 @@ pocket-panel-saved-page-removed = Strōna je wyciepano
 pocket-panel-saved-page-saved = Spamiyntane w usudze { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Spamiyntane w usudze { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Wyciepowanie strōny…
-pocket-panel-saved-removed = Strōna je skasowano z mojigo wykazu
 pocket-panel-saved-processing-tags = Przidowanie etyket…
 pocket-panel-saved-remove-page = Wyciep strōna
 pocket-panel-saved-save-tags = Spamiyntej
 pocket-panel-saved-saving-tags = Spamiyntowanie…
 pocket-panel-saved-suggested-tags = Doradzōne etykety
 pocket-panel-saved-tags-saved = Etykety sōm przidane
-pocket-panel-signup-view-list = Pokoż wykoz
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Przidej etykety:
@@ -47,13 +45,10 @@ pocket-panel-signup-tagline-story-one = Prziciś knefel usugi { -pocket-brand-na
 pocket-panel-signup-tagline-story-two = Ôglōndej w usudze { -pocket-brand-name } na czym chcesz i kej chcesz.
 
 pocket-panel-signup-cta-a-fix = Twōj knefel "spamiyntej" do internetu
-pocket-panel-signup-cta-b = Kliknij knefel { -pocket-brand-name }, coby spamiyntować artykuły, filmy i linki. Zaglōndej na swōj wykoz na kożdyj maszinie, w kożdy czas.
 pocket-panel-signup-cta-b-short = Kliknij knefel { -pocket-brand-name }, coby spamiyntować artykuły, filmy i linki.
-pocket-panel-signup-cta-c = Zaglōndej na swōj wykoz na kożdyj maszinie, w kożdy czas.
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Mōj wykoz
 pocket-panel-home-welcome-back = Witej zaś
 pocket-panel-home-paragraph = Ze usugōm { -pocket-brand-name } idzie poznować i spamiyntować strōny, artykuły, filmy i podcasty, abo sie wrocać do czytanych rzeczy.
 pocket-panel-home-explore-popular-topics = Poznowej popularne tymaty
@@ -67,7 +62,6 @@ pocket-panel-home-new-user-message = Sam sie pokazujōm twoje niydowne spamiynta
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = Pokoż mōj wykoz
 pocket-panel-header-sign-in = Wloguj sie
 
 ## Pocket panel buttons

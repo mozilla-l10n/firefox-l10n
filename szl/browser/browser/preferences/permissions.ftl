@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Wyjōntki
-    .style = width: 45em
-
 permissions-window2 =
     .title = Wyjōntki
     .style = min-width: 45em
@@ -92,20 +88,11 @@ permissions-invalid-uri-label = Wkludź dobre miano serwera
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Rozszyrzōno ôchrōna ôd śledzynio - wyjōntki
-    .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Rozszyrzōno ôchrōna ôd śledzynio - wyjōntki
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Ôchrōna na tych strōnach je wyłōnczōno.
 
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = Cookies i dane strōn - wyjōntki
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = Cookies i dane strōn - wyjōntki
@@ -114,20 +101,12 @@ permissions-exceptions-cookie-desc = Możesz pedzieć, kere strōny śmiōm abo 
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Wyjōntki - tryb HTTPS-Only
-    .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Wyjōntki - tryb HTTPS-Only
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Możesz wyłōnczyć tryb Ino-HTTPS do niykerych strōn. { -brand-short-name } niy bydzie prōbowoł zmiynić połōnczynio ś nimi na bezpieczne HTTPS. Wyjōntki niy tykajōm sie prywatnych ôkiyn.
 
 ## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window =
-    .title = Strōny ze zgodōm na wyskakujōnce ôkna
-    .style = { permissions-window.style }
 
 permissions-exceptions-popup-window2 =
     .title = Strōny ze zgodōm na wyskakujōnce ôkna
@@ -136,20 +115,12 @@ permissions-exceptions-popup-desc = Możesz pedzieć, kere strōny śmiōm ôtwi
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Spamiyntane dane logowanio - wyjōntki
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Spamiyntane dane logowanio - wyjōntki
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Dane logowanio do tych strōn niy bydōm spamiyntowane
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Strōny ze zgodōm na insztalowanie rozszyrzyń
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Strōny ze zgodōm na insztalowanie rozszyrzyń
@@ -158,20 +129,12 @@ permissions-exceptions-addons-desc = Możesz pedzieć, kere strōny śmiōm insz
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Autopuszczanie - nasztalowania
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Autopuszczanie - nasztalowania
     .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Możesz sam regiyrować, kere strōny majōm być za wyjōntki ôd twojich nasztalowań autōmatycznego puszczanio mydyjōw.
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = Zgoda na powiadōmiynia - nasztalowania
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = Zgoda na powiadōmiynia - nasztalowania
@@ -183,10 +146,6 @@ permissions-site-notification-disable-desc = Skuli tego strōny, co ich niy ma n
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Zgoda na informowanie ô placu - nasztalowania
-    .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Zgoda na informowanie ô placu - nasztalowania
     .style = { permissions-window2.style }
@@ -196,10 +155,6 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na informowanie ich ô tym, kaj żeś je. Przi zaszperowanym dostympie do informacyji ô twojim placu niykere funkcyje strōn mogōm niy fungować dobrze.
 
 ## Site Permissions - Virtual Reality
-
-permissions-site-xr-window =
-    .title = Zgoda na Wirtualno Ryalność - nasztalowania
-    .style = { permissions-window.style }
 
 permissions-site-xr-window2 =
     .title = Zgoda na Wirtualno Ryalność - nasztalowania
@@ -211,10 +166,6 @@ permissions-site-xr-disable-desc = Skuli tego strōny, co ich niy ma na wykazie,
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Zgoda na kamera - nasztalowania
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Zgoda na kamera - nasztalowania
     .style = { permissions-window2.style }
@@ -225,10 +176,6 @@ permissions-site-camera-disable-desc = Skuli tego strōny, co ich niy ma na wyka
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Zgoda na mikrofōn - nasztalowania
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Zgoda na mikrofōn - nasztalowania
     .style = { permissions-window2.style }
@@ -236,3 +183,8 @@ permissions-site-microphone-desc = Te strōny poprosiyły ô zgoda na dostymp do
 permissions-site-microphone-disable-label =
     .label = Szperuj nowe prośby ô zgoda na dostymp do twojigo mikrofōnu
 permissions-site-microphone-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na dostymp do twojigo mikrofōnu. Przi zaszperowanym dostympie do mikrofōnu niykere funkcyje strōn mogōm niy fungować dobrze.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

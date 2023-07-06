@@ -38,9 +38,11 @@ menu-quit =
             [windows] s
            *[other] s
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Skōńcz { -brand-shorter-name }
+
 menu-about =
     .label = Ô aplikacyji { -brand-shorter-name }
     .accesskey = O
@@ -221,8 +223,6 @@ menu-history-undo-menu =
     .label = Niydowno zawarte karty
 menu-history-undo-window-menu =
     .label = Niydowno zawarte ôkna
-menu-history-reopen-all-tabs = Ôdewrzij nazod wszyskie karty
-menu-history-reopen-all-windows = Ôdewrzij nazod wszyskie ôkna
 
 ## Bookmarks Menu
 
@@ -231,10 +231,6 @@ menu-bookmarks-menu =
     .accesskey = Z
 menu-bookmarks-manage =
     .label = Regiyruj zokłodkami
-menu-bookmark-current-tab =
-    .label = Przidej aktualno karta do zookłodek
-menu-bookmark-edit =
-    .label = Edytuj ta zokłodka
 menu-bookmarks-all-tabs =
     .label = Przidej wszyskie karty do zokłodek…
 menu-bookmarks-toolbar =

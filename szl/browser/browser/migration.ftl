@@ -64,9 +64,6 @@ import-items-description = Ôbier, jakie elymynta chcesz importować:
 
 import-permissions-page-title = Dej zgoda aplikacyji { -brand-short-name }
 
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS potrzebuje zgody, coby { -brand-short-name } mioł dostymp do zokłodek w przeglōndarce Safari. Kliknij "Dalij" i ôbier zbiōr “Bookmarks.plist” w panelu ôtwieranio zbioru, co sie pokoże.
-
 import-migrating-page-title = Import…
 
 import-migrating-description = Te elymynta sōm prawie importowane…
@@ -158,3 +155,4 @@ browser-data-session-checkbox =
     .label = Ôkna i karty
 browser-data-session-label =
     .value = Ôkna i karty
+

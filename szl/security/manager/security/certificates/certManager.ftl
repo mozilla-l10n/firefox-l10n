@@ -26,10 +26,6 @@ certmgr-people = Mosz certyfikaty, co idyntyfikujōm te ôsoby
 certmgr-server = Te wkludzynia idyntyfikujōm wyjōntki felerōw certyfikatōw serwera
 certmgr-ca = Mosz certyfikaty, co idyntyfikujōm te regiyrōnki
 
-certmgr-edit-ca-cert =
-    .title = Edytuj sztalōnki wierzynio certyfikatu CA
-    .style = width: 40em;
-
 certmgr-edit-ca-cert2 =
     .title = Edytuj sztalōnki wierzynio certyfikatu CA
     .style = min-width: 40em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Tyn certyfikat poradzi idyntyfikować używoczy emaili.
-
-certmgr-delete-cert =
-    .title = Skasuj certyfikat
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Skasuj certyfikat
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Serwer
-
-certmgr-override-lifetime =
-    .label = Czas życio
 
 certmgr-token-name =
     .label = Maszina bezpieczyństwa

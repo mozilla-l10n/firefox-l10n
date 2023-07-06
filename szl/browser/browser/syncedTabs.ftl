@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Ôdewrzij
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Ôdewrzij w nowyj karcie
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Ôdewrzij w nowym ôknie
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = Ôdewrzij w nowym prywatnym ôknie
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Przidej ta karta do zokłodek
-    .accesskey = P
 
 ##
 

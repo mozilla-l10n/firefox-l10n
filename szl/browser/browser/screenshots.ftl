@@ -55,3 +55,4 @@ screenshots-private-window-error-details = Przebocz ta zawada. Prawie robiymy pr
 
 screenshots-generic-error-title = Usuga { -screenshots-brand-name } niy funguje dobrze.
 screenshots-generic-error-details = Niy znōmy gynau, co sie podzioło. Sprōbujesz jeszcze roz, abo bydziesz chytać ôbroz inkszyj strōny?
+

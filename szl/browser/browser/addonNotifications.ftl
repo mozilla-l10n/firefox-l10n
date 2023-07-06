@@ -14,6 +14,7 @@ xpinstall-prompt-message = Prōbujesz zainsztalować rozszyrzynie ze strōny { $
 
 xpinstall-prompt-header-unknown = Zwolić niypoznanyj strōnie zainsztalować rozszyrzynie?
 xpinstall-prompt-message-unknown = Prōbujesz zainsztalować rozszyrzynie z niypoznanyj strōny. Bydź zicher, iże wierzisz tyj strōnie, jak chcesz iść dalij.
+
 xpinstall-prompt-dont-allow =
     .label = Niy zwolej
     .accesskey = N
@@ -37,6 +38,7 @@ xpinstall-disabled = Insztalacyjo softwaru je teroz zastawiōno. Kliknij Załōn
 xpinstall-disabled-button =
     .label = Załōncz
     .accesskey = w
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -45,6 +47,7 @@ addon-install-blocked-by-policy = Rozszyrzynie { $addonName } ({ $addonId }) je 
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Administratōr systymu niy doł tyj strōnie spytać cie, coby zainsztalować software na tym kōmputrze.
 addon-install-full-screen-blocked = Niy śmiysz insztalować rozszyrzyń we trybie cołkigo ekranu abo podwiela do niego niy wleziesz.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Rzszyrzynie { $addonName } je przidane do { -brand-short-name }
@@ -62,6 +65,7 @@ addon-removal-title = Skasować { $name }?
 addon-removal-message = Wyciepać { $name } ze aplikacyje { -brand-shorter-name }?
 addon-removal-button = Wyciep
 addon-removal-abuse-report-checkbox = Dej znac ô tym rozszyrzyniu do { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -71,6 +75,7 @@ addon-downloading-and-verifying =
        *[many] Pobiyranie i weryfikacyjo { $addonCount } rozszyrzyń…
     }
 addon-download-verifying = Weryfikacyjo
+
 addon-install-cancel-button =
     .label = Pociep
     .accesskey = P

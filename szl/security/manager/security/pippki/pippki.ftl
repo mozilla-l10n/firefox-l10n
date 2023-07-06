@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Jeżeś prawie w trybie FIPS, co potrzebuj
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Wynuluj głōwne hasło
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Wynuluj głōwne hasło
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Wynuluj głōwne hasło
 pippki-reset-password-confirmation-message = Twoje głōwne hasło je wynulowane.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Pobiyranie certyfikatu
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Pobiyranie certyfikatu
@@ -82,7 +74,5 @@ set-password-reminder = Pozōr: jak przepōmnisz hasła do ibrycznyj kopii certy
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Autyntyzacyjo chrōniōnego tokyna
-protected-auth-msg = Autyntyzuj sie do tokyna. Metoda autyntyzacyje znoleży ôd typu twojigo tokyna.
-protected-auth-token = Tokyn:
+## Protected authentication alert
+

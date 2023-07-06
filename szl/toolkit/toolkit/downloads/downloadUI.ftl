@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Niy wyłaż z aplikacyje
        *[other] Niy wyłaż z aplikacyje
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Jak teroz załōnczysz tryb offline, to pociepniesz pobiyranie 1 zbioru. Na zicher chcesz załōnczyć tryb offline?
        *[other] Jak teroz załōnczysz tryb offline, to pociepniesz pobiyranie poru zbiorōw ({ $downloadsCount }). Na zicher chcesz załōnczyć tryb offline?
     }
 download-ui-dont-go-offline-button = Ôstōń online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Jak teroz zawrzisz wszyskie prywatne ôkna, to pociepniesz pobiyranie 1 zbioru. Na zicher chcesz wylyźć z trybu prywatnego przeglōndanio?
        *[other] Jak teroz zawrzisz wszyskie prywatne ôkna, to pociepniesz pobiyranie poru zbiorōw ({ $downloadsCount }). Na zicher chcesz wylyźć z trybu prywatnego przeglōndanio?
     }
 download-ui-dont-leave-private-browsing-button = Ôstōń w trybie prywatnego przeglōndanio
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Pociep 1 pobiyranie

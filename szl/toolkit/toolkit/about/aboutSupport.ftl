@@ -152,6 +152,8 @@ media-capabilities-title = Możności mydiōw
 # List all the entries of the database.
 media-capabilities-enumerate = Wystow baza danych
 
+## Codec support table
+
 ##
 
 intl-title = Internacjonalizacyjo i lokalizacyjo
