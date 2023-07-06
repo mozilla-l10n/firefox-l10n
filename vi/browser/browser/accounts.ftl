@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Hoàn tất thiết lập tài khoản
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Đã ngắt kết nối tài khoản
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Gửi tới tất cả các thiết bị
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Quản lý thiết bị…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Quản lý thiết bị…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Không có thiết bị nào được kết nối
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Tìm hiểu thêm về việc gửi các thẻ…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Kết nối thiết bị khác…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Xác minh tài khoản của bạn…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Máy tính này hiện được kết nối với { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Máy tính này hiện được kết nối với một thiết bị mới.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Bạn đã đăng nhập thành công
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Máy tính này đã bị ngắt kết nối.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Thẻ đã nhận
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Thẻ từ { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Thẻ đã nhận
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device = { $tabCount } thẻ đã tới từ { $deviceName }

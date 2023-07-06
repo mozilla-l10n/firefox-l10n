@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Thẻ mới
 tabbrowser-empty-private-tab-title = Thẻ riêng tư mới
+
 tabbrowser-menuitem-close-tab =
     .label = Đóng thẻ
 tabbrowser-menuitem-close =
     .label = Đóng
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -93,6 +96,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Không hiện lại hộp thoại n�
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Cho phép các thông báo như thế này từ { $domain } đưa bạn đến thẻ của họ
+
 tabbrowser-customizemode-tab-title = Tùy biến { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -111,6 +115,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Bỏ tắt tiếng thẻ
     .accesskey = m
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Đang phát âm thanh
 

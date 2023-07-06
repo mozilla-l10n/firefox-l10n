@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Đừng Thoát
        *[other] Đừng Thoát
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Nếu bạn ngắt kết nối ngay lúc này, 1 phiên tải xuống sẽ bị hủy. Bạn có chắc muốn ngắt kết nối không?
        *[other] Nếu bạn ngắt kết nối ngay lúc này, { $downloadsCount } phiên tải xuống sẽ bị hủy. Bạn có chắc muốn ngắt kết nối không?
     }
 download-ui-dont-go-offline-button = Vẫn Kết Nối
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Nếu bây giờ bạn đóng tất cả các cửa sổ riêng tư thì một tập tin đang tải xuống sẽ bị hủy. Bạn có chắc chắn muốn rời chế độ duyệt web riêng tư không?
        *[other] Nếu bây giờ bạn đóng tất cả các cửa sổ riêng tư thì { $downloadsCount } tập tin đang tải xuống sẽ bị hủy. Bạn có chắc bạn muốn rời chế độ duyệt web riêng tư không?
     }
 download-ui-dont-leave-private-browsing-button = Vẫn ở lại chế độ duyệt web riêng tư
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Hủy 1 phiên tải xuống

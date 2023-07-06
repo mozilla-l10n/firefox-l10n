@@ -30,6 +30,7 @@ webrtc-item-browser = thẻ
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Không rõ nguồn gốc
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Thiết bị chia sẻ thẻ
     .accesskey = d
+
 webrtc-sharing-window = Bạn đang chia sẻ một cửa sổ ứng dụng khác.
 webrtc-sharing-browser-window = Bạn đang chia sẻ { -brand-short-name }.
 webrtc-sharing-screen = Bạn đang chia sẻ toàn bộ màn hình của bạn.
@@ -91,26 +93,32 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Kiểm soát chia sẻ
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Kiểm soát chia sẻ với "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Chia sẻ máy ảnh với “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label = Đang chia sẻ máy ảnh với { $tabCount } thẻ
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Chia sẻ micrô với "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label = Đang chia sẻ micro với { $tabCount } thẻ
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Chia sẻ một ứng dụng với "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label = Đang chia sẻ ứng dụng với { $tabCount } thẻ
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Chia sẻ màn hình với "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label = Đang chia sẻ màn hình với { $tabCount } thẻ
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Chia sẻ một cửa sổ với "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label = Đang chia sẻ cửa sổ với { $tabCount } thẻ
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Chia sẻ một thẻ với “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -153,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Cho phép { $ori
 
 webrtc-share-screen-warning = Chỉ chia sẻ màn hình với các trang web mà bạn tin tưởng. Chia sẻ có thể cho phép các trang web lừa đảo duyệt web như bạn và lấy cắp dữ liệu cá nhân của bạn.
 webrtc-share-browser-warning = Chỉ chia sẻ { -brand-short-name } với các trang web mà bạn tin tưởng. Chia sẻ có thể cho phép các trang web lừa đảo duyệt web như bạn và lấy cắp dữ liệu cá nhân của bạn.
+
 webrtc-share-screen-learn-more = Tìm hiểu thêm
 webrtc-pick-window-or-screen = Chọn cửa sổ hoặc màn hình
 webrtc-share-entire-screen = Toàn bộ màn hình
@@ -184,6 +193,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Ghi nhớ quyết định này
 webrtc-mute-notifications-checkbox = Ẩn thông báo trang web khi chia sẻ
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } có thể vĩnh viễn không cho phép quyền truy cập vào màn hình của bạn.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } không thể cho phép vĩnh viễn quyền truy cập vào phần âm thanh của thẻ mà không cần yêu cầu thẻ đó chia sẻ.
 webrtc-reason-for-no-permanent-allow-insecure = Kết nối của bạn đến website này không an toàn. Để bảo vệ bạn, { -brand-short-name } sẽ chỉ cho phép truy cập vào trang này trong phiên hiện tại.

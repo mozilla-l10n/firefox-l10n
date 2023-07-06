@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Thoát { -brand-shorter-name }
+
 menu-about =
     .label = Về { -brand-shorter-name }
     .accesskey = A
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = Thẻ mới đóng gần đây
 menu-history-undo-window-menu =
     .label = Các cửa sổ mới đóng
-menu-history-reopen-all-tabs = Mở lại tất cả các thẻ
-menu-history-reopen-all-windows = Mở lại tất cả các cửa sổ
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Quản lý dấu trang
-menu-bookmark-current-tab =
-    .label = Đánh dấu thẻ hiện tại
-menu-bookmark-edit =
-    .label = Chỉnh sửa dấu trang này
 menu-bookmark-tab =
     .label = Đánh dấu thẻ hiện tại…
 menu-edit-bookmark =

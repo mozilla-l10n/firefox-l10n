@@ -97,6 +97,10 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = Nhà phát triển Web
 perftools-presets-web-developer-description = Giá trị đặt trước được đề xuất tải thấp để gỡ lỗi các ứng dụng web phổ biến.
 

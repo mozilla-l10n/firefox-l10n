@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Tiếng nói độc lập
-colorway-collection-independent-voices-description = Màu sắc có thể thay đổi văn hóa. Các đường màu mới nhất tôn vinh tiếng nói làm cho thế giới trở nên tốt đẹp hơn.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Màu sắc thay đổi văn hóa.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Người kiến tạo lối chơi

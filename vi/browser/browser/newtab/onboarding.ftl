@@ -14,13 +14,6 @@ onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
 onboarding-start-browsing-button-label = Bắt đầu duyệt web
 onboarding-not-now-button-label = Không phải bây giờ
 mr1-onboarding-get-started-primary-button-label = Bắt đầu
-mr1-onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Đặt { -brand-short-name } làm trình duyệt mặc định của tôi
-    .title = Đặt { -brand-short-name } làm trình duyệt mặc định và ghim vào thanh tác vụ
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Đặt { -brand-short-name } làm trình duyệt mặc định của tôi
-mr1-onboarding-set-default-secondary-button-label = Không phải bây giờ
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,48 +38,16 @@ mr1-return-to-amo-add-extension-label = Thêm { $addon-name }
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Bắt đầu: { $current } của { $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Nó bắt đầu từ đây
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Nhà thiết kế nội thất, người hâm mộ Firefox
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = Tiến trình: bước { $current }/{ $total }
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Tắt hoạt ảnh
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Giữ { -brand-short-name } trong Dock của bạn để dễ dàng truy cập
-       *[other] Ghim { -brand-short-name } vào thanh tác vụ của bạn để dễ dàng truy cập
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Thêm vào thanh Dock
-       *[other] Ghim vào thanh tác vụ
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -96,44 +57,25 @@ mr1-onboarding-sign-in-button-label = Đăng nhập
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn
-mr1-onboarding-default-subtitle = Đặt tốc độ, an toàn và quyền riêng tư vào chế độ tự động.
-mr1-onboarding-default-primary-button-label = Đặt làm trình duyệt mặc định
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Mang theo tất cả bên bạn
-mr1-onboarding-import-subtitle = Nhập mật khẩu của bạn, <br/>dấu trang và hơn thế nữa.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Nhập từ { $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Nhập từ trình duyệt trước
-mr1-onboarding-import-secondary-button-label = Không phải bây giờ
-mr2-onboarding-colorway-header = Cuộc sống đầy màu sắc
-mr2-onboarding-colorway-subtitle = Các phối màu mới sống động. Có sẵn trong một thời gian giới hạn.
-mr2-onboarding-colorway-primary-button-label = Lưu phối màu
-mr2-onboarding-colorway-secondary-button-label = Không phải bây giờ
-mr2-onboarding-colorway-label-soft = Mềm
-mr2-onboarding-colorway-label-balanced = Cân bằng
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Đậm
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Tự động
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Mặc định
+
 mr1-onboarding-theme-header = Biến nó thành của riêng bạn
 mr1-onboarding-theme-subtitle = Cá nhân hóa { -brand-short-name } với một chủ đề.
-mr1-onboarding-theme-primary-button-label = Lưu chủ đề
 mr1-onboarding-theme-secondary-button-label = Không phải bây giờ
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Chủ đề hệ thống
+
 mr1-onboarding-theme-label-light = Sáng
 mr1-onboarding-theme-label-dark = Tối
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Xong
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -146,61 +88,49 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Áp dụng theo chủ đề hệ điều hành
         cho các nút, menu và cửa sổ.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Áp dụng theo chủ đề hệ điều hành
         cho các nút, menu và cửa sổ.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Áp dụng chủ đề sáng
         cho các nút, menu và cửa sổ.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Áp dụng chủ đề sáng
         cho các nút, menu và cửa sổ.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Áp dụng chủ đề tối
         cho các nút, menu và cửa sổ.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Áp dụng chủ đề tối
         cho các nút, menu và cửa sổ.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Sử dụng giao diện động, đầy màu sắc
         cho các nút, menu và cửa sổ
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Sử dụng giao diện động, đầy màu sắc
         cho các nút, menu và cửa sổ
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Sử dụng phối màu này.
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Sử dụng phối màu này.
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Khám phá các phối màu { $colorwayName }.
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Khám phá các phối màu { $colorwayName }.
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Khám phá các chủ đề mặc định.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Khám phá các chủ đề mặc định.
 
@@ -228,13 +158,18 @@ mr2-onboarding-start-browsing-button-label = Bắt đầu duyệt web
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Chọn ngôn ngữ của bạn
+
 mr2022-onboarding-live-language-text = { -brand-short-name } hỗ trợ ngôn ngữ của bạn
+
 mr2022-language-mismatch-subtitle = Cảm ơn cộng đồng của chúng tôi, { -brand-short-name } được dịch sang hơn 90 ngôn ngữ. Có vẻ như hệ thống của bạn đang sử dụng { $systemLanguage } và { -brand-short-name } đang sử dụng { $appLanguage }.
+
 onboarding-live-language-button-label-downloading = Đang tải xuống gói ngôn ngữ cho { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Nhận các ngôn ngữ khả dụng…
 onboarding-live-language-installing = Đang cài đặt gói ngôn ngữ cho { $negotiatedLanguage }…
+
 mr2022-onboarding-live-language-switch-to = Chuyển sang { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Tiếp tục với ngôn ngữ { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Hủy bỏ
 onboarding-live-language-skip-button-label = Bỏ qua
 
@@ -256,12 +191,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Giữ { -brand-short-name } trên thanh dock
        *[other] Ghim { -brand-short-name } vào thanh tác vụ
     }
+
 fx100-upgrade-thanks-header = 100 lần cảm ơn bạn
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Đây là bản phát hành thứ 100 của chúng tôi về { -brand-short-name }. Cảm ơn <em>bạn</em> đã giúp chúng tôi xây dựng một Internet tốt hơn, lành mạnh hơn.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Đây là bản phát hành thứ 100 của chúng tôi! Cảm ơn vì đã trở thành một phần của cộng đồng của chúng tôi. Giữ { -brand-short-name } một cú nhấp chuột cho lần tiếp theo thứ 100.
+
 mr2022-onboarding-secondary-skip-button-label = Bỏ qua bước này
 
 ## MR2022 New User Easy Setup screen strings
@@ -338,30 +275,37 @@ mr2022-onboarding-colorway-title = Chọn màu sắc truyền cảm hứng cho b
 mr2022-onboarding-colorway-subtitle = Tiếng nói độc lập có thể thay đổi văn hóa.
 mr2022-onboarding-colorway-primary-button-label-continue = Đặt và tiếp tục
 mr2022-onboarding-existing-colorway-checkbox-label = Đặt { -firefox-home-brand-name } làm trang chủ đầy màu sắc của bạn
+
 mr2022-onboarding-colorway-label-default = Mặc định
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Màu hiện tại của { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Sử dụng màu { -brand-short-name } hiện tại của tôi.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Người kiến tạo lối chơi
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Người kiến tạo lối chơi (đỏ)
 mr2022-onboarding-colorway-description-playmaker = <b>Bạn là người kiến tạo lối chơi.</b> Bạn tạo cơ hội để giành chiến thắng và giúp mọi người xung quanh nâng tầm trò chơi của họ.
+
 mr2022-onboarding-colorway-label-expressionist = Trường phái biểu hiện
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Trường phái biểu hiện (vàng)
 mr2022-onboarding-colorway-description-expressionist = <b>Bạn là người theo chủ nghĩa biểu hiện.</b> Bạn nhìn thế giới một cách khác biệt và những sáng tạo của bạn khuấy động cảm xúc của người khác.
+
 mr2022-onboarding-colorway-label-visionary = Nhìn xa trông rộng
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Nhìn xa trông rộng (xanh lá)
 mr2022-onboarding-colorway-description-visionary = <b>Bạn là một người có tầm nhìn xa.</b> Bạn đặt câu hỏi về hiện trạng và khiến người khác phải tưởng tượng về một tương lai tốt đẹp hơn.
+
 mr2022-onboarding-colorway-label-activist = Nhà hoạt động
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Nhà hoạt động (xanh nước biển)
 mr2022-onboarding-colorway-description-activist = <b>Bạn là một nhà hoạt động.</b> Bạn để lại cho thế giới một nơi tốt đẹp hơn những gì bạn đã tìm thấy và khiến người khác tin tưởng.
+
 mr2022-onboarding-colorway-label-dreamer = Người mơ mộng
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Người mơ mộng (tím)
 mr2022-onboarding-colorway-description-dreamer = <b>Bạn là một người mơ mộng.</b> Bạn tin rằng vận may ủng hộ những người mạnh dạn và truyền cảm hứng cho những người khác dũng cảm.
+
 mr2022-onboarding-colorway-label-innovator = Người đổi mới
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Người đổi mới (cam)

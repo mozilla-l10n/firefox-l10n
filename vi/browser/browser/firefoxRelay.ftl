@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Bạn phải đăng nhập vào { -fxaccount-b
 firefox-relay-get-unlimited-masks =
     .label = Muản lý mặt nạ
     .accesskey = M
-firefox-relay-opt-in-title = Bảo vệ địa chỉ email của bạn
-firefox-relay-opt-in-subtitle = Thêm { -relay-brand-name }
-firefox-relay-generate-mask-title = Bảo vệ địa chỉ email của bạn
-firefox-relay-generate-mask-subtitle = Tạo mặt nạ { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Tiếp tục
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Bảo vệ địa chỉ email của bạn:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

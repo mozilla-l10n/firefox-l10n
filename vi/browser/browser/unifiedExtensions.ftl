@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Mở menu cho { $extensionName }
+
 unified-extensions-item-message-manage = Quản lý tiện ích
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Ghim vào thanh công cụ
+
 unified-extensions-context-menu-manage-extension =
     .label = Quản lí tiện ích
+
 unified-extensions-context-menu-remove-extension =
     .label = Xóa tiện ích
+
 unified-extensions-context-menu-report-extension =
     .label = Báo cáo tiện ích
+
 unified-extensions-context-menu-move-widget-up =
     .label = Di chuyển lên
+
 unified-extensions-context-menu-move-widget-down =
     .label = Di chuyển xuống
 
