@@ -22,6 +22,17 @@ neterror-load-error-try-again = Kungenzeka ukuthi le ngosi ayitholakali okwesikh
 neterror-load-error-connection = Uma ungakwazi ukulayisha amakhasi athile, hlola ukuthi ikhompyutha  yakho ixhumekile kunethiwekhi.
 neterror-load-error-firewall = Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi { -brand-short-name } ivunyelwe ukungena kuwebhu.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Hlola igama lefayela ukuthi osonhlamvukazi babhalwe kahle namanye amaphutha okubhala.
 neterror-file-not-found-moved = Hlola ubone ukuthi ifayela aliyiswanga kwenye indawo, laqanjwa futhi noma lasuswa.
 

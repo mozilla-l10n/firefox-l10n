@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Isigqebhe Esisha
+
 tabbrowser-menuitem-close-tab =
     .label = Vala Isigqebhe
 tabbrowser-menuitem-close =
@@ -38,4 +39,6 @@ tabbrowser-confirm-close-tabs-button = Vala izigqebhe
 
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

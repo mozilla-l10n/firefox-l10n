@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Ungayeki
        *[other] Ungaphumi
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Uma uphuma ku-inthanethi manje, ukulayisha ungenise okungu-1 kuzokhanselwa. Unesiqinisekiso sokuba ufuna ukuphuma ku-inthanethi?
        *[other] Uma uphuma ku-inthanethi manje, ukulayisha kufakwe okungu-{ $downloadsCount } kuzokhanselwa. Unesiqinisekiso sokuba ufuna ukuphuma ku-inthanethi?
     }
 download-ui-dont-go-offline-button = Hlala ku-inthanethi
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Khansela ukulayisha ungenise okungu-1

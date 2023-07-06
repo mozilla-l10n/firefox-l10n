@@ -133,6 +133,8 @@ menu-view-full-screen =
     .label = Iskrini esigcwele
     .accesskey = I
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -157,8 +159,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Izimpawu zokubekisa
     .accesskey = I
-menu-bookmark-edit =
-    .label = Hlela lolu phawu lokubekisa
 menu-bookmarks-all-tabs =
     .label = Phawula wonke amathebhu…
 menu-bookmarks-toolbar =

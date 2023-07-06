@@ -8,3 +8,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Phinda Uthole
     .accesskey = t
+

@@ -155,14 +155,6 @@ main-context-menu-video-email =
     .label = Imeyila ividiyo…
     .accesskey = e
 
-main-context-menu-plugin-play =
-    .label = Sebenzisa le-plugin
-    .accesskey = b
-
-main-context-menu-plugin-hide =
-    .label = Fihla le plugin
-    .accesskey = F
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -192,10 +184,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Phinda ulayishe uhlaka
     .accesskey = P
-
-main-context-menu-frame-bookmark =
-    .label = Phawula lolu hlaka
-    .accesskey = h
 
 main-context-menu-frame-save-as =
     .label = Gcina uhlaka ngokuthi…
