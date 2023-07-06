@@ -26,13 +26,6 @@ about-networking-messages-received = பெறப்பட்ட செய்த
 about-networking-bytes-sent = பைட் அனுப்பப்பட்டது
 about-networking-bytes-received = பைட் பெறப்பட்டது
 about-networking-logging = பதிவுறுதல்
-about-networking-log-tutorial = HTTP பதிவுகளுக்கு<a data-l10n-name="logging"> தளத்தைப் பார்த்து</a> இந்தக் கருவியை எவ்வாறு பாவிப்பது எனப் பார்.
-about-networking-current-log-file = தற்போதைய பதிவு கோப்பு:
-about-networking-current-log-modules = தற்போதைய பதிவு சிப்பங்கள்:
-about-networking-set-log-file = பதிவு கோப்பை அமை
-about-networking-set-log-modules = பதிவு சிப்பங்களை அமை
-about-networking-start-logging = பதிவைத் தொடங்கு
-about-networking-stop-logging = பதிவை நிறுத்து
 about-networking-dns-lookup = DNS முகவரி பார்த்தல்
 about-networking-dns-lookup-button = தீர்த்தல்
 about-networking-dns-domain = களம்:

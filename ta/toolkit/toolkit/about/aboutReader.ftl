@@ -4,6 +4,7 @@
 
 about-reader-loading = ஏற்றுகிறது...
 about-reader-load-error = பக்கத்தில் ஒரு கட்டுரையை ஏற்றுவதில் தோல்வி
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

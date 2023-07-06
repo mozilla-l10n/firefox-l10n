@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = தற்போதைய பதிவு கோப்பு:
-about-logging-current-log-modules = தற்போதைய பதிவு சிப்பங்கள்:
 about-logging-log-tutorial = HTTP பதிவுகளுக்கு<a data-l10n-name="logging"> தளத்தைப் பார்த்து</a> இந்தக் கருவியை எவ்வாறு பாவிப்பது எனப் பார்.
 about-logging-set-log-file = பதிவு கோப்பை அமை
 about-logging-set-log-modules = பதிவு சிப்பங்களை அமை
 about-logging-start-logging = பதிவைத் தொடங்கு
 about-logging-stop-logging = பதிவை நிறுத்து
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

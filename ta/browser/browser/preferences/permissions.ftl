@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = விதிவிலக்குகள்
-    .style = width: 45em
-
 permissions-window2 =
     .title = விதிவிலக்குகள்
     .style = min-width: 45em
@@ -73,10 +69,6 @@ permissions-invalid-uri-label = ஒரு சரியான புரவலன�
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = விதிவிலக்குகள் - நினைவிகளும் தள தரவும்
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = விதிவிலக்குகள் - நினைவிகளும் தள தரவும்
     .style = { permissions-window2.style }
@@ -86,10 +78,6 @@ permissions-exceptions-cookie-window2 =
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = அனுமதிக்கப்பட்ட தளங்கள் - துள்ளல்கள்
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = அனுமதிக்கப்பட்ட தளங்கள் - துள்ளல்கள்
     .style = { permissions-window2.style }
@@ -97,20 +85,12 @@ permissions-exceptions-popup-desc = எந்த இணையதளங்கள�
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = பின்வரும் தளங்களின் புகுபதிகைகள் சேமிக்கப்படாது
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = அனுமதிக்கப்பட்ட இணைய தளங்கள் - கூடுதல் இணைப்பு நிறுவல்
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = அனுமதிக்கப்பட்ட இணைய தளங்கள் - கூடுதல் இணைப்பு நிறுவல்
@@ -122,10 +102,6 @@ permissions-exceptions-addons-desc = எந்த இணையதளங்கள
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = அமைப்புகள் - அறிவிப்பு அனுமதிகள்
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = அமைப்புகள் - அறிவிப்பு அனுமதிகள்
     .style = { permissions-window2.style }
@@ -133,10 +109,6 @@ permissions-site-notification-disable-label =
     .label = அறிவிப்புகளை அனுமதிக்கும் புதிய கோரிக்கைகளைத் தடு
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = அமைப்புகள் - இட அனுமதிகள்
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = அமைப்புகள் - இட அனுமதிகள்
@@ -149,10 +121,6 @@ permissions-site-location-disable-label =
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = அமைப்புகள் - படக்கருவி அனுமதிகள்
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = அமைப்புகள் - படக்கருவி அனுமதிகள்
     .style = { permissions-window2.style }
@@ -161,12 +129,13 @@ permissions-site-camera-disable-label =
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = அமைப்புகள் - ஒலிவாங்கி அனுமதிகள்
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = அமைப்புகள் - ஒலிவாங்கி அனுமதிகள்
     .style = { permissions-window2.style }
 permissions-site-microphone-disable-label =
     .label = உங்கள் ஒலிவாங்கி அணுகும் புதிய கோரிக்கைகளைத் தடு
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

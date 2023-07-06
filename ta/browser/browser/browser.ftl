@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (கமுக்க உலாவல்)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (கமுக்க உலாவல்)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (கமுக்க உலாவல்)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (கமுக்க உலாவல்)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,16 +36,12 @@ urlbar-default-notification-anchor =
     .tooltiptext = செய்தி பலகத்தை திறக்கவும்
 urlbar-geolocation-notification-anchor =
     .tooltiptext = இடம் கோரும் பலகத்தை திறக்கவும்
-urlbar-translate-notification-anchor =
-    .tooltiptext = இப்பக்கத்தை மொழிபெயர்க்கவும்
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = உங்கள் விண்டோஸ் அல்லது திரையை தளத்துடன் பகிர்வதை நிர்வகி
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = இணைப்பில்லா சேமிப்பு செய்தி பலகத்தைத் திற
 urlbar-password-notification-anchor =
     .tooltiptext = கடவுச்சொல் சேமிப்பு செய்தி பலகத்தைத் திற
-urlbar-translated-notification-anchor =
-    .tooltiptext = பக்க மொழிபெயர்ப்புகளை நிர்வகி
 urlbar-plugins-notification-anchor =
     .tooltiptext = செருகி பயன்பாட்டை நிர்வகி
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -121,19 +84,18 @@ urlbar-canvas-blocked =
     .tooltiptext = திரை தரவு எடுப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
 urlbar-midi-blocked =
     .tooltiptext = இந்த தளத்தில் MIDI அணுகலை முடக்கியுள்ளீர்கள்.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = இப்புத்தகக்குறியைத் தொகு ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = பக்கத்தைப் புத்தகக்குறியிடு ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = நீட்சிகளை நிர்வகி…
 
 ## Auto-hide Context Menu
 
@@ -148,12 +110,14 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = தேடல் அமைவுகளை மாற்று
+
 search-one-offs-context-open-new-tab =
     .label = புதிய கீற்றில் தேடு
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = இயல்புநிலை தேடும் பொறியாக அமை
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -189,6 +153,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = சேமிக்கும்பொருட்டு தொகுப்பதைக் காண்பி
     .accesskey = S
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -205,6 +170,7 @@ identity-passive-loaded = இந்த பக்கத்தின் சில 
 identity-active-loaded = நீங்கள் இப்பக்கத்தில் பாதுகாப்பை முடக்கிவிட்டீர்கள்.
 identity-weak-encryption = இப்பக்கம் பாதுகாப்பற்ற மறைகுறியாக்கத்தைப் பயன்படுத்துகிறது.
 identity-insecure-login-forms = இப்பக்கத்திற்கு வரும் உள்நுழைவுகள் தாக்கப்படலாம்.
+
 identity-permissions-reload-hint = மாற்றங்களைச் செயற்படுத்த பக்கத்தை மீளேற்று.
 identity-clear-site-data =
     .label = நினைவிகளையும் தள தரவையும் துடை…
@@ -215,17 +181,12 @@ identity-description-insecure = இத்தளத்துடன் உங்�
 identity-description-insecure-login-forms = இப்பக்கதில் நீங்கள் உள்ளிடும் நுழைவு தகவல்கள் பாதுகாப்பானதல்ல தாக்கப்படக்கூடியவை.
 identity-description-weak-cipher-intro = இத்தளத்துடன் உங்கள் இணைப்பு வலுவற்ற குறியாக்கத்தைப் பயன்படுத்துகிறது மேலும் தனிமையானதல்ல.
 identity-description-weak-cipher-risk = மற்றவர்கள் உங்கள் தகவல்களை பார்க்கலாம் அல்லது தளத்தின் நடத்தையை மாற்றியமைக்கலாம்.
-identity-description-active-blocked = { -brand-short-name } பாதுகாப்பற்ற பக்கத்தின் பகுதிகளை முடக்கியுள்ளது. <label data-l10n-name="link">மேலும் அறிய</label>
 identity-description-active-blocked2 = { -brand-short-name } பாதுகாப்பற்ற பக்கத்தின் பகுதிகளை முடக்கியுள்ளது.
 identity-description-passive-loaded = உங்கள் இணைப்பு தனிமையானதல்ல மற்றும் நீங்கள் தளத்துடன் பகிரும் தகவல்கள் மற்றவர்களால் பார்க்க இயலும்.
-identity-description-passive-loaded-insecure = இத்தளம் பாதுகாப்பற்ற உள்ளடக்கங்களை கொண்டுள்ளது (எகா.படங்கள்). <label data-l10n-name="link">மேலும் அறிய</label>
-identity-description-passive-loaded-mixed = { -brand-short-name } சில உள்ளடக்கங்களை முடக்கினாலும், இன்னும் பாதுகாப்பற்ற உள்ளடக்கம் உள்ளது (எ.கா.படங்கள் போன்றவை). <label data-l10n-name="link">மேலும் அறிய</label>
 identity-description-passive-loaded-insecure2 = இத்தளம் பாதுகாப்பற்ற உள்ளடக்கங்களை கொண்டுள்ளது (எகா.படங்கள்).
 identity-description-passive-loaded-mixed2 = { -brand-short-name } சில உள்ளடக்கங்களை முடக்கினாலும், இன்னும் பாதுகாப்பற்ற உள்ளடக்கம் உள்ளது (எ.கா.படங்கள் போன்றவை).
 identity-description-active-loaded = இத்தளம் பாதுகாப்பற்ற உள்ளடக்கம் கொண்டுள்ளது (சிறுநிரல் போன்றவை) மேலும் உங்கள் இணைப்பு தனிமையானதல்ல.
 identity-description-active-loaded-insecure = இத்தளத்துடன் நீங்கள் பகிரும் தகவல்கள் பிறரால் பார்க்க முடியும் (கடவுச்சொல், செய்தி, கடன் அட்டை, மேலும் பல.).
-identity-learn-more =
-    .value = மேலும் அறிய
 identity-disable-mixed-content-blocking =
     .label = இப்பொழுது பாதுகாப்பை முடக்கு
     .accesskey = D
@@ -267,11 +228,14 @@ popup-all-windows-shared = திரையில் பார்வையில�
 
 urlbar-placeholder =
     .placeholder = சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்
+
 urlbar-switch-to-tab =
     .value = கீற்றுக்கு மாற்று:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = நீட்சிகள்:
+
 urlbar-go-button =
     .tooltiptext = இடப் பட்டையில் முகவரிக்கு செல்லவும்
 urlbar-page-action-button =
@@ -317,9 +281,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> தற்பொழுது முழுத்திரையில்
 fullscreen-warning-no-domain = இவ்வாணம் தற்பொழுது முழுத்திரையில் உள்ளது
+
+
 fullscreen-exit-button = முழுத்திரையிலிருந்து வெளியேறுக (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = முழுத்திரையிலிருந்து வெளியேறுக (Esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -371,8 +338,7 @@ bookmarks-search =
     .label = புத்தகக்குறிகளைத் தேடு
 bookmarks-tools =
     .label = புத்தக்குறியிடும் கருவிகள்
-bookmarks-bookmark-edit-panel =
-    .label = புத்தகக்குறியைத் திருத்து
+
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறி கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
@@ -396,22 +362,27 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = கருவிப்பட்டையை விருப்பமை...
     .accesskey = C
+
 toolbar-button-email-link =
     .label = மடல்
     .tooltiptext = இப்பக்க தொடுப்பை மின்னஞ்சல் செய்
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = சேமி
     .tooltiptext = இந்தப் பக்கத்தை சேமி ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = திற
     .tooltiptext = கோப்பினைத் திற ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = ஒத்திசைவு
     .tooltiptext = பிற சாதனங்களிலிருந்து கீற்றுகளைக் காட்டு
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -439,6 +410,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost }க்கு பாப்பப்களை அனுமதி
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost }க்கு பாப்பப்களை தடு
     .accesskey = p
@@ -460,30 +432,36 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = பதிவிறக்கங்கள்
+
 navbar-overflow =
     .tooltiptext = இதர கருவிகள்...
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = அச்சிடு
     .tooltiptext = இப்பக்கத்தை அச்சிடு... ({ $shortcut })
+
 navbar-home =
     .label = இல்லம்
     .tooltiptext = { -brand-short-name } அகப்பக்கம்
+
 navbar-library =
     .label = தரவகம்
     .tooltiptext = வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்
+
 navbar-search =
     .title = தேடு
-navbar-accessibility-indicator =
-    .tooltiptext = அணுகல்தன்மை வசதி செயற்படுத்தப்பட்டது
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = உலாவி கீற்றுகள்
+
 tabs-toolbar-new-tab =
     .label = புதிய கீற்று
+
 tabs-toolbar-list-all-tabs =
     .label = அனைத்து கீற்றுகளையும் பட்டியலிடு
     .tooltiptext = அனைத்து கீற்றுகளையும் பட்டியலிடு
@@ -505,10 +483,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } தானாக மீளேற்றப்படுவதிலிருந்து இந்தப் பக்கத்தில் தடுக்கிறது.
 refresh-blocked-redirect-label = { -brand-short-name } தானாக வேறு பக்கத்திற்குச் செல்வதிலிருந்து தடுக்கிறது.
+
 refresh-blocked-allow =
     .label = அனுமதி
     .accesskey = A
@@ -544,6 +526,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
