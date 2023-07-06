@@ -15,8 +15,6 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
@@ -50,6 +48,7 @@ about-logging-preset-media-playback-label = Predvajanje predstavnosti
 about-logging-preset-media-playback-description = Beleženje modulov za diagnosticiranje težav s predvajanjem predstavnosti (ne težav z videokonferencami)
 about-logging-preset-custom-label = Po meri
 about-logging-preset-custom-description = Beleženje modulov po lastni izbiri
+
 # Error handling
 about-logging-error = Napaka:
 
@@ -61,3 +60,4 @@ about-logging-invalid-output = Neveljavna vrednost "{ $v }" za ključ "{ $k }"
 about-logging-unknown-logging-preset = Neznana prednastavitev beleženja "{ $v }"
 about-logging-unknown-option = Neznana možnost about:logging: "{ $k }"
 about-logging-configuration-url-ignored = URL z nastavitvami prezrt
+

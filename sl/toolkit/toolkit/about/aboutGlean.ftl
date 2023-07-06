@@ -5,14 +5,6 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = O Gleanu
-about-glean-description = The <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> je knjižnica za zbiranje podatkov, ki jo uporabljajo izdelki Mozille. Ta stran je namenjena razvijalcem in preskuševalcem, ki hočejo <a data-l10n-name="fog-debug-doc-link">nastaviti stanje razhroščevanja in beleženja v Glean SDK</a>.
-about-glean-warning = Nepravilna uporaba tega vmesnika lahko povzroči sesutje { -brand-short-name(sklon: "rodilnik") }.
-tag-pings-label = Označi vse poslane pinge s to oznako
-log-pings-label = Beleženje vsebine pinga pred pošiljanjem?
-send-pings-label = Pošlji imenovani ping
-controls-button-label = Pošlji nastavitve
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
@@ -26,8 +18,10 @@ controls-button-label = Pošlji nastavitve
        *[imenovalnik] Glean
     }
 glean-sdk-brand-name = SDK { -glean-brand-name }
+
 about-glean-page-title2 = O { -glean-brand-name(sklon: "mestnik") }
 about-glean-header = O { -glean-brand-name(sklon: "mestnik") }
+
 about-glean-upload-enabled = Pošiljanje podatkov je omogočeno.
 about-glean-upload-disabled = Pošiljanje podatkov ni omogočeno.
 about-glean-upload-enabled-local = Omogočeno je samo pošiljanje podatkov na krajevni strežnik.
@@ -37,6 +31,7 @@ about-glean-upload-fake-enabled =
     zato se podatki še vedno zapisujejo na tej napravi.
     Opomba: Če boste nastavili oznako za razhroščevanje, bodo pingi poslani
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }u</a> ne glede na nastavitve.
+
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
@@ -53,6 +48,10 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = O preizkušanju
+
+
 controls-button-label-verbose = Uporabi nastavitve in pošlji ping
+
 about-glean-about-data-header = O podatkih

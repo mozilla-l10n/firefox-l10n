@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Trenutno ste v načinu FIPS. FIPS zahteva 
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Ponastavi glavno geslo
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Ponastavi glavno geslo
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Ponastavi glavno geslo
 pippki-reset-password-confirmation-message = Vaše glavno geslo je bilo ponastavljeno.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Prenašanje digitalnega potrdila
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Prenašanje digitalnega potrdila
@@ -82,7 +74,5 @@ set-password-reminder = Pomembno: Če pozabite geslo varnostne kopije digitalneg
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Prijava v zaščiteno figuro
-protected-auth-msg = Prosim, prijavite se v figuro. Metoda overovitve je odvisna od vrste vaše figure.
-protected-auth-token = Figura:
+## Protected authentication alert
+

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ne zapri programa
        *[other] Ne zapri programa
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Če prekinete povezavo zdaj, bo preklican 1 prenos. Ste prepričani, da želite delati brez povezave?
        *[other] Če prekinete povezavo zdaj, bo preklicanih več ({ $downloadsCount }) prenosov. Ste prepričani, da želite delati brez povezave?
     }
 download-ui-dont-go-offline-button = Ostani povezan
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Če zapustite vsa okna z zasebnim brskanjem zdaj, bo preklican 1 prenos. Ste prepričani, da želite zapustiti zasebno brskanje?
        *[other] Če zapustite vsa okna z zasebnim brskanjem zdaj, bo preklicanih več ({ $downloadsCount }) prenosov. Ste prepričani, da želite zapustiti zasebno brskanje?
     }
 download-ui-dont-leave-private-browsing-button = Nadaljuj zasebno brskanje
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Prekliči 1 prenos

@@ -20,7 +20,6 @@ styleeditor-save-button = Shrani
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Možnosti Urejevalnika slogov
-styleeditor-media-rules = Pravila @media
 styleeditor-at-rules = Pravila @
 styleeditor-editor-textbox =
     .data-placeholder = Vnesite CSS.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = S
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Ni bilo mogoče najti ujemajoče se slogovne predloge.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
