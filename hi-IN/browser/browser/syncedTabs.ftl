@@ -21,18 +21,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = खोलें
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = नए टैब में खोलें
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = नए विंडो में खोलें
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = नए और निजी विंडो में खोलें
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = यह टैब बुकमार्कित करें...
-    .accesskey = B
 
 ##
 

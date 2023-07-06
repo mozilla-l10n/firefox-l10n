@@ -58,8 +58,6 @@ about-processes-tab-name = टैब: { $name }
 
 ## Utility process actor names
 
-about-processes-utility-actor-audio-decoder = ऑडियो डिकोडर
-
 ## Displaying CPU (percentage and total)
 ## Variables:
 ##    $percent (Number) The percentage of CPU used by the process or thread.

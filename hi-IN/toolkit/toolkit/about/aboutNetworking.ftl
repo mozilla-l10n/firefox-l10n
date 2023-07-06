@@ -30,13 +30,6 @@ about-networking-messages-received = संदेश प्राप्त
 about-networking-bytes-sent = बाइट्स भेजा
 about-networking-bytes-received = बाइट्स हस्तगत
 about-networking-logging = लॉगिंग हो रहा है
-about-networking-log-tutorial = इस उपकरण को उपयोग करने के बारे में निर्देश के लिए <a data-l10n-name="logging">HTTP लॉगिंग</a> देखें.
-about-networking-current-log-file = वर्तमान लॉग फ़ाइल:
-about-networking-current-log-modules = वर्तमान लॉग मॉड्यूल:
-about-networking-set-log-file = लॉग फ़ाइल सेट करें
-about-networking-set-log-modules = लॉग मॉड्यूल सेट करें
-about-networking-start-logging = लॉगिंग आरम्भ करें
-about-networking-stop-logging = लॉगिंग बंद करें
 about-networking-dns-lookup = डीएनएस अवलोकन
 about-networking-dns-lookup-button = समाधान करें
 about-networking-dns-domain = डोमेन:

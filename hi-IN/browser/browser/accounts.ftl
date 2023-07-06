@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = खाता रचना समाप्त करें
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = खाता डिस्कनेक्ट किया गया
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = सभी उपकरणों को भेजें
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = उपकरणों को प्रबंधित करें…
 
@@ -28,8 +31,10 @@ account-send-to-all-devices-titlecase = सभी उपकरणों को �
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = कोई उपकरण कनेक्ट नहीं हैं
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = टैब भेजने के बारे में जानें...
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = अन्य उपकरण जोड़ें …
 
@@ -44,10 +49,13 @@ account-send-tab-to-device-verify = अपना ख़ाता सत्याप
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = यह कंप्यूटर अब { $deviceName } से जुड़ा हुआ है।
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = यह कंप्यूटर अब एक नए उपकरण से जुड़ा है।
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = आपने सफलतापूर्वक साइन इन किया हैं
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = यह कंप्यूटर असंबद्ध कर दिया गया है।
 
@@ -59,6 +67,7 @@ account-single-tab-arriving-title = टैब प्राप्त किया
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } से टैब
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -71,6 +80,7 @@ account-single-tab-arriving-truncated-url = { $url } …
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = टैब प्राप्त किया गया
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

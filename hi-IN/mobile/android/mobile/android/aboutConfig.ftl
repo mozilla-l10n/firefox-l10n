@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = खोजें
 config-new-pref-name =
     .placeholder = नाम
+
 config-new-pref-value-boolean = बुलियन
 config-new-pref-value-string = स्ट्रिंग
 config-new-pref-value-integer = पूर्णाँक
+
 config-new-pref-string =
     .placeholder = स्ट्रिंग दर्ज करें
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = रद्द करें
 config-new-pref-create-button = बनाएँ
 config-new-pref-change-button = परिवर्तन करें
+
 config-pref-toggle-button = टॉगल
 config-pref-reset-button = फिर सेट करें
+
 config-context-menu-copy-pref-name =
     .label = नाम की नक़ल लें
 config-context-menu-copy-pref-value =

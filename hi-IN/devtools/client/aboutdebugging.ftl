@@ -229,14 +229,6 @@ about-debugging-worker-status-registering = पंजीकृत किया �
 about-debugging-worker-scope =
     .label = स्कोप
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = मुख्य प्रक्रिया
-
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = लक्षित ब्राउज़र के लिए मुख्य प्रक्रिया
-
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = त्रुटि विवरण
 

@@ -23,6 +23,8 @@ onboarding-start-browsing-button-label = ब्राउज़िंग शु�
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -37,21 +39,13 @@ onboarding-start-browsing-button-label = ब्राउज़िंग शु�
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-set-default-secondary-button-label = अभी नहीं
 mr1-onboarding-sign-in-button-label = साइन इन
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-primary-button-label = तयशुदा ब्राउज़र बनाएं
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-secondary-button-label = अभी नहीं
-
-mr2-onboarding-colorway-secondary-button-label = अभी नहीं
-
-mr1-onboarding-theme-primary-button-label = थीम सहेजें
 mr1-onboarding-theme-secondary-button-label = अभी नहीं
 
 # System theme uses operating system color settings
@@ -92,6 +86,8 @@ mr1-onboarding-theme-label-system = सिस्टम थीम
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -117,4 +113,11 @@ mr1-onboarding-theme-label-system = सिस्टम थीम
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

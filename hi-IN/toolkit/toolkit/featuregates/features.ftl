@@ -12,3 +12,4 @@ experimental-features-web-gpu2 =
 experimental-features-media-jxl =
     .label = मीडिया: JPEG XL
 
+

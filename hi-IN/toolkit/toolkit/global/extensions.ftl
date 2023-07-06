@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = रद्द करें
     .accesskey = C
+
 webext-perms-sideload-text = आपके कंप्यूटर पर एक अन्य प्रोग्राम ने ऐड-ऑन संस्थापित किया है जो आपके ब्राउज़र को प्रभावित कर सकता है. कृपया इस ऐड-ऑन के अनुमति अनुरोधों की समीक्षा करें और सक्षम या रद्द करने (इसे अक्षम छोड़ने के लिए) के लिए चुनें.
 webext-perms-sideload-text-no-perms = आपके कंप्यूटर पर एक अन्य प्रोग्राम ने ऐड-ऑन संस्थापित किया है जो आपके ब्राउज़र को प्रभावित कर सकता है. कृपया सक्षम करने या रद्द करने (इसे अक्षम छोड़ने हेतु) के लिए चुनें.
 webext-perms-sideload-enable =
@@ -30,9 +31,11 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = रद्द करें
     .accesskey = C
+
 webext-perms-update-accept =
     .label = अद्यतन
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = यह चाहता है:
 webext-perms-optional-perms-allow =
     .label = अनुमति दें
@@ -40,10 +43,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = मना करें
     .accesskey = D
+
 webext-perms-host-description-all-urls = सभी वेबसाइटों के लिए अपने आँकड़े तक पहुंचें
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } डोमेन में साइटों के लिए अपने आँकड़े तक पहुंचें
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -55,6 +61,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } के लिए अपने आँकड़े तक पहुंचें
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

@@ -204,13 +204,11 @@ newtab-pocket-learn-more = अधिक जानें
 newtab-pocket-cta-button = { -pocket-brand-name } प्राप्त करें
 newtab-pocket-cta-text = अपने पसंदीद कहानियाँ { -pocket-brand-name } में सहेजें, और आकर्षक पढ़ाई के साथ अपने दिमाग को शक्ति दें।
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = { -pocket-brand-name } में सहेजें
-newtab-pocket-saved-to-pocket = { -pocket-brand-name } में सहेजा गया
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
