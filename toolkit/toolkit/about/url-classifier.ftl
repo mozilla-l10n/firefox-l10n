@@ -50,5 +50,9 @@ url-classifier-disabled = Nonaktif
 url-classifier-updating = memutakhirkan
 url-classifier-cannot-update = tidak dapat memutakhirkan
 url-classifier-success = berhasil
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = galat pemutakhiran ({ $error })
 url-classifier-download-error = galat unduh ({ $error })

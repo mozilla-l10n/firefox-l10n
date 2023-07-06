@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Pengecualian
-    .style = width: 41em
 permissions-window2 =
     .title = Pengecualian
     .style = min-width: 41em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Alamat situs web
     .accesskey = l
+
 permissions-block =
     .label = Blokir
     .accesskey = B
+
 permissions-disable-etp =
     .label = Tambah Pengecualian
     .accesskey = P
+
 permissions-session =
     .label = Izinkan untuk Sesi ini
     .accesskey = S
+
 permissions-allow =
     .label = Izinkan
     .accesskey = I
+
 permissions-button-off =
     .label = Nonaktifkan
     .accesskey = N
+
 permissions-button-off-temporarily =
     .label = Nonaktifkan Sementara
     .accesskey = S
+
 permissions-site-name =
     .label = Situs web
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Hapus Situs Web
     .accesskey = H
+
 permissions-remove-all =
     .label = Hapus Semua Situs Web
     .accesskey = a
+
 permission-dialog =
     .buttonlabelaccept = Simpan Perubahan
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Baku untuk semua situs Web:
+
 permissions-searchbox =
     .placeholder = Cari Situs Web
+
 permissions-capabilities-autoplay-allow =
     .label = Izinkan Audio dan Video
 permissions-capabilities-autoplay-block =
     .label = Blokir Audio
 permissions-capabilities-autoplay-blockall =
     .label = Blokir Audio dan Video
+
 permissions-capabilities-allow =
     .label = Izinkan
 permissions-capabilities-block =
     .label = Blokir
 permissions-capabilities-prompt =
     .label = Tanyakan Selalu
+
 permissions-capabilities-listitem-allow =
     .value = Izinkan
 permissions-capabilities-listitem-block =
     .value = Blokir
 permissions-capabilities-listitem-allow-session =
     .value = Izinkan untuk Sesi ini
+
 permissions-capabilities-listitem-off =
     .value = Nonaktif
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Mohon masukkan nama host yang valid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Anda telah menonaktifkan perlindungan di situs web ini.
 permissions-exceptions-etp-window2 =
     .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Anda dapat menentukan situs web yang me
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Pengecualian - Kuki dan Data Situs
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Pengecualian - Kuki dan Data Situs
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja y
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Pengecualian - Mode HTTPS-Only
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Pengecualian - Mode HTTPS-Only
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Anda dapat mematikan Mode HTTPS-Saja un
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Situs Web yang Diizinkan - Pop-up
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Situs Web yang Diizinkan - Pop-up
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Anda dapat menentukan situs web mana saja ya
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Pengecualian - Info Masuk Tersimpan
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Pengecualian - Info Masuk Tersimpan
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Info masuk untuk situs berikut ini ti
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Situs Web yang Diizinkan - Pemasangan Pengaya
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Situs Web yang Diizinkan - Pemasangan Pengaya
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja y
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Pengaturan - Putar-otomatis
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Pengaturan - Putar-otomatis
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Anda dapat mengelola situs yang tidak mengikuti
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Setelan - Izin Notifikasi
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Setelan - Izin Notifikasi
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Ini akan mencegah situs web apa pun
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Setelan - Izin Lokasi
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Setelan - Izin Lokasi
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Ini akan mencegah situs web apa pun yan
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Setelan - Izin Realitas Virtual
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Setelan - Izin Realitas Virtual
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Ini akan mencegah situs web apa pun yang tida
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Setelan - Izin Kamera
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Setelan - Izin Kamera
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Ini akan mencegah situs web apa pun yang 
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Setelan - Izin Mikrofon
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Setelan - Izin Mikrofon
     .style = { permissions-window2.style }
@@ -209,3 +188,8 @@ permissions-site-microphone-desc = Situs web berikut ini minta mengakses mikrofo
 permissions-site-microphone-disable-label =
     .label = Blokir permintaan baru untuk mengakses mikrofon Anda
 permissions-site-microphone-disable-desc = Ini akan mencegah situs web apa pun yang tidak tercantum di atas minta mengakses mikrofon Anda. Memblokir akses ke mikrofon Anda dapat menghentikan beberapa fitur situs web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

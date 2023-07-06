@@ -125,7 +125,6 @@ about-processes-frame-name-many = Subframe ({ $number }): { $shortUrl }
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = Aktor tidak dikenal
-about-processes-utility-actor-audio-decoder = Dekoder Audio
 
 about-processes-utility-actor-audio-decoder-generic = Dekoder Audio Umum
 about-processes-utility-actor-audio-decoder-applemedia = Dekoder Apple Media Audio

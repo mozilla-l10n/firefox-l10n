@@ -379,14 +379,6 @@ about-debugging-worker-inspect-action-disabled =
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Tab tidak dimuat lengkap dan tidak dapat diinspeksi
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = Proses Utama
-
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = Proses Utama untuk peramban target
-
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = Kotak Alat Multiproses

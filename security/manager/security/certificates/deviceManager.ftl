@@ -5,10 +5,6 @@
 
 ## Strings used for device manager
 
-devmgr =
-    .title = Pengelola Perangkat
-    .style = width: 67em; height: 32em;
-
 devmgr-window =
     .title = Pengelola Perangkat
     .style = min-width: 67em; min-height: 32em;

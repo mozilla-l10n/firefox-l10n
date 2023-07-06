@@ -12,7 +12,6 @@ experimental-features-css-masonry-description = Mengaktifkan dukungan untuk fitu
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = API Web: WebGPU
-experimental-features-web-gpu-description2 = API baru ini menyediakan dukungan tingkat-rendah untuk melakukan komputasi dan perenderan grafis dengan menggunakan <a data-l10n-name="wikipedia">Unit Pemrosesan Grafik (GPU)</a> dari perangkat atau komputer pengguna. <a data-l10n-name="spec">Spesifikasi</a> masih dalam proses pengembangan. Lihat <a data-l10n-name="bugzilla">bug 1602129</a> untuk detail lebih lanjut.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -20,20 +19,10 @@ experimental-features-media-jxl =
     .label = Media: JPEG XL
 experimental-features-media-jxl-description = Dengan fitur ini diaktifkan, { -brand-short-name } mendukung format JPEG XL (JXL). Ini adalah format file gambar yang disempurnakan yang mendukung transisi lossless dari file JPEG tradisional. Lihat <a data-l10n-name="bugzilla">bug 1539075</a> untuk detail selengkapnya.
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-constructable-stylesheets =
-    .label = CSS: Constructable Stylesheet
-experimental-features-css-constructable-stylesheets-description = Penambahan konstruktor untuk antarmuka <a data-l10n-name="mdn-cssstylesheet">CSSylesheet</a> serta berbagai perubahan yang terkait memungkinkan pembuatan stylesheet baru secara langsung tanpa harus menambahkan stylesheet ke HTML. Ini mempermudah penggunaan ulang stylesheet untuk digunakan dengan <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Lihat <a data-l10n-name="bugzilla">bug 1520690</a> untuk detal lebih lanjut.
-
 experimental-features-devtools-compatibility-panel =
     .label = Alat Pengembang: Panel Kompabilitas
 experimental-features-devtools-compatibility-panel-description = Panel samping untuk Inspektur Laman yang menampilkan informasi yang merinci status kompatibilitas lintas peramban aplikasi Anda. Lihat <a data-l10n-name="bugzilla">bug 158464</a> untuk detail lebih lanjut.
 
-# Do not translate 'SameSite', 'Lax' and 'None'.
-experimental-features-cookie-samesite-lax-by-default2 =
-    .label = Kuki: SameSite=Lax secara baku
-experimental-features-cookie-samesite-lax-by-default2-description = Perlakukan kuki sebagai “SameSite=Lax” secara baku jika tidak ada atribut “SameSite” ditentukan. Pengembang harus memilih status quo saat ini dari penggunaan yang tidak terbatas dengan secara eksplisit menyatakan “SameSite=None””.
 
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
@@ -45,12 +34,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Kuki d
 experimental-features-abouthome-startup-cache =
     .label = Tembolok awal about:home
 experimental-features-abouthome-startup-cache-description = Tembolok untuk dokumen about:home awal yang dimuat secara baku pada saat memulai. Tujuan dari tembolok ini adalah untuk meningkatkan kinerja proses mulai.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-schemeful =
-    .label = Kuki: SameSite Berskema
-experimental-features-cookie-samesite-schemeful-description = Perlakukan kuki dari domain sama, tetapi dengan skema berbeda (contoh: http://example.com dan https://example.com) sebagai situs silang dan bukan situs yang sama. Hal ini meningkatkan keamanan tetapi mengandung potensi kerusakan.
 
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
@@ -73,6 +56,3 @@ experimental-features-ime-search =
     .label = Bilah Alamat: Tampilkan hasil selama komposisi IME
 experimental-features-ime-search-description = IME (Input Method Editor) adalah alat yang memungkinkan Anda memasukkan simbol kompleks, seperti yang digunakan dalam bahasa tulis Asia Timur atau India, menggunakan papan ketik standar. Mengaktifkan eksperimen ini akan membuat panel alamat terbuka, menampilkan hasil pencarian dan saran, ketika menggunakan IME untuk memasukkan teks. Perhatikan bahwa IME mungkin menampilkan panel yang menutupi hasil bilah alamat, karena itu preferensi ini hanya disarankan bagi IME tidak menggunakan panel jenis ini.
 
-experimental-features-accessibility-cache =
-    .label = Tembolok aksesibilitas
-experimental-features-accessibility-cache-description = Tembolok semua informasi aksesibilitas dari semua dokumen dalam proses utama { -brand-short-name }. Ini meningkatkan kinerja untuk pembaca layar dan aplikasi lain yang menggunakan API aksesibilitas.
