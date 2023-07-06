@@ -26,3 +26,6 @@ url-classifier-cache-clear-btn = សម្អាត
 url-classifier-cache-table-name = ឈ្មោះតារាង
 url-classifier-cache-ncache-entries = ចំនួននៃធាតុឃ្លាំងសម្ងាត់អវិជ្ជមាន
 
+## Variables
+##   $error (string) - Error message
+

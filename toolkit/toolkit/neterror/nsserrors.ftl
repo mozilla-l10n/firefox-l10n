@@ -7,10 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = កូដកំហុស៖ { $error }
-
 psmerr-ssl-disabled = មិន​អាច​តភ្ជាប់​សុវត្ថិភាព​បាន​ទេ ពីព្រោះ​ពិធីការ​​របស់ SSL ត្រូវ​បាន​បិទ ។
 psmerr-ssl2-disabled = មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​បាន​ទេ ពីព្រោះ​ប្រើ​​តំបន់​បណ្ដាញ​ចាស់​ជាង កំណែ​របស់​ពិធីការ​របស់ SSL គ្មាន​សុវត្ថិភាព​ឡើយ ។
 
@@ -156,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = គ្មានក្បួនដ�
 ssl-error-unsupported-signature-algorithm = Peer បានប្រើការបន្សំក្បួនដោះស្រាយហត្ថលេខានិងហាដែលមិនគាំទ្រ។
 ssl-error-missing-extended-master-secret = Peer បានព្យាយាមបន្តដោយគ្មានផ្នែកបន្ថែម extended_master_secret ដែលត្រឹមត្រូវ។
 ssl-error-unexpected-extended-master-secret = Peer បានព្យាយាមបន្តដោយមានផ្នែកបន្ថែម extended_master_secret ដែលមិនបានរំពឹងទុក។
+
 sec-error-io = កំហុស I/O បាន​កើតឡើង​អំឡុង​ពេល​ផ្ទៀងផ្ទាត់​ភាព​ត្រឹមត្រូវ​សុវត្ថិភាព ។
 sec-error-library-failure = បរាជ័យ​បណ្ណាល័យ​សុវត្ថិភាព ។
 sec-error-bad-data = បណ្ណាល័យ​សុវត្ថិភាព ៖ បាន​ទទួល​ទិន្នន័យ​​ដែល​ខូច ។
@@ -206,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = មិន​អាច​ឌិគ្រីប�
 sec-error-pkcs7-bad-signature = បាន​បរាជ័យ​ក្នុង​ការ​ផ្ទៀងផ្ទាត់​ហត្ថលេខា ៖ រក​មិន​ឃើញ​អ្នក​ចុះ​ហត្ថលេខា​ឡើយ ទិន្នន័យ​ខូច ឬ​មិន​ត្រឹមត្រូវ ។
 sec-error-unsupported-keyalg = ក្បួន​ដោះស្រាយ​​សោ​ដែល​មិន​ស្គាល់ ឬ​មិន​បាន​គាំទ្រ ។
 sec-error-decryption-disallowed = មិន​អាច​ឌិគ្រីប​ឡើយ ៖ បាន​ឌិគ្រីប​​ដោយ​ប្រើ​ក្បួន​ដោះស្រាយ​​ដែល​មិន​បាន​អនុញ្ញាត ឬ​ទំហំ​សោ ។
-xp-sec-fortezza-bad-card = កាត​របស់ Fortezza មិន​ត្រូវ​បាន​​ចាប់ផ្ដើម​​បាន​​ត្រឹមត្រូវ​ឡើយ ។ សូម​យក​វា​ចេញ ហើយ​ត្រឡប់​​វា​ទៅកាន់​​​​អ្នក​ចេញ​ផ្សាយ​​​របស់​អ្នក ។
-xp-sec-fortezza-no-card = រក​មិន​ឃើញ​កាត​របស់ Fortezza ឡើយ
-xp-sec-fortezza-none-selected = មិន​បាន​ជ្រើស​កាត Fortezza ឡើយ
-xp-sec-fortezza-more-info = សូម​ជ្រើស​បុគ្គលិកលក្ខណៈ​ ដើម្បី​ទទួល​បាន​ព័ត៌មាន​បន្ថែម​នៅ​លើ
-xp-sec-fortezza-person-not-found = រក​មិន​ឃើញ​បុគ្គលិកលក្ខណៈ​ឡើយ
-xp-sec-fortezza-no-more-info = គ្មាន​ព័ត៌មាន​បន្ថែម​នៅ​លើ​បុគ្គលិកលក្ខណៈ​​នោះ​ទេ
-xp-sec-fortezza-bad-pin = Pin មិន​ត្រឹមត្រូវ
-xp-sec-fortezza-person-error = មិន​អាច​រៀបចំ​បុគ្គលិកលក្ខណៈ​របស់ Fortezza បាន​ទេ ។
 sec-error-no-krl = គ្មាន KRL សម្រាប់​វិញ្ញាបនបត្រ​របស់​តំបន់បណ្ដាញ​ត្រូវ​បាន​រក​ឃើញ​ឡើយ ។
 sec-error-krl-expired = KRL សម្រាប់​វិញ្ញាបនបត្រ​របស់​តំបន់​បណ្ដាញ​នេះ​ផុត​កំណត់​ហើយ ។
 sec-error-krl-bad-signature = KRL សម្រាប់​វិញ្ញាបនបត្រ​របស់​តំបន់​បណ្ដាញ​នេះ​មាន​ហត្ថលេខា​មិន​ត្រឹមត្រូវ ។
@@ -228,9 +217,6 @@ sec-error-cert-nickname-collision = មាន​វិញ្ញាបនបត�
 sec-error-key-nickname-collision = មាន​សោ​ដែល​មាន​សម្មតិនាម​ដូច​គ្នា​​ហើយ ។
 sec-error-safe-not-created = កំហុស​ខណៈ​ពេល​បង្កើត​វត្ថុ​សុវត្ថិភាព
 sec-error-baggage-not-created = កំហុស​ខណៈ​ពេល​បង្កើត​វត្ថុ​កញ្ចប់
-xp-java-remove-principal-error = មិន​អាច​យក​គោលការណ៍​ចេញ​បាន​ទេ
-xp-java-delete-privilege-error = មិន​អាច​លុប​សិទ្ធិ​បាន​ទេ
-xp-java-cert-not-exists-error = គោលការណ៍​នេះ​គ្មាន​វិញ្ញាបនបត្រ​ឡើយ
 sec-error-bad-export-algorithm = ក្បួន​ដោះស្រាយ​ដែល​បាន​ទាមទារ​មិន​ត្រូវ​បាន​អនុញ្ញាត​ឡើយ ។
 sec-error-exporting-certificates = កំហុស​ក្នុង​ការ​ប៉ុនប៉ង​នាំ​វិញ្ញាបនបត្រ​ចេញ ។
 sec-error-importing-certificates = កំហុស​ក្នុង​ការ​ប៉ុនប៉ង​នាំ​វិញ្ញាបនបត្រ​​ចូល ។
@@ -333,6 +319,7 @@ sec-error-locked-password = ពាក្យសម្ងាត់​ត្រូ�
 sec-error-unknown-pkcs11-error = មិន​ស្គាល់​កំហុស PKCS #11 ។
 sec-error-bad-crl-dp-url = URL មិន​ត្រឹមត្រូវ ឬ​មិន​បាន​គាំទ្រ​នៅ​ក្នុង​ឈ្មោះ​ចំណុច​ការបែងចែក CRL ។
 sec-error-cert-signature-algorithm-disabled = វិញ្ញាបនបត្រ​ត្រូវ​បាន​ចុះហត្ថលេខា​ដោយ​ក្បួន​ដោះស្រាយ​ ដែល​ត្រូវ​បាន​បិទ ដោយ​សារ​តែ​វា​គ្មាន​សុវត្ថិភាព ។
+
 mozilla-pkix-error-key-pinning-failure = ម៉ាស៊ីន​មេ​ប្រើ​គន្លឹះ​ខ្ទាស់ (HPKP) ប៉ុន្តែ​មិន​អាច​បង្កើត​​វិញ្ញាបនបត្រ​គាំទ្រ​ដែល​ផ្គូផ្គង​សំណុំ​ខ្ទាស់​បាន​ទេ។ ការ​បំពាន​គន្លឹះ​ខ្ទាស់​មិន​អាច​បដិសេធ​បាន។
 mozilla-pkix-error-ca-cert-used-as-end-entity = ម៉ាស៊ីន​មេ​ប្រើ​វិញ្ញាបនបត្រ​ដែល​មាន​ផ្នែក​បន្ថែម​ដាក់​កម្រិត​មូលដ្ឋាន​បញ្ជាក់​ថា​វា​ជា​ប្រភព​វិញ្ញាបនបត្រ។ សម្រាប់​វិញ្ញាបនបត្រ​ដែល​បាន​ចេញ​ត្រឹមត្រូវ វា​នឹង​មិន​មាន​បញ្ហា​ទេ។
 mozilla-pkix-error-inadequate-key-size = ម៉ាស៊ីន​មេ​បាន​បង្ហាញ​ថា​វិញ្ញាបនបត្រ​មាន​ទំហំ​ពាក្យគន្លឹះ​​តូច​ពេក​មិន​អាច​បង្កើត​ការ​តភ្ជាប់​សុវត្ថិភាព​បាន​ទេ។
@@ -343,3 +330,16 @@ mozilla-pkix-error-signature-algorithm-mismatch = វិធីសាស្ត្
 mozilla-pkix-error-ocsp-response-for-cert-missing = ការ​ឆ្លើយតប OCSP មិន​មាន​បញ្ចូល​ស្ថានភាព​សម្រាប់​វិញ្ញាបនបត្រ​​ដែល​​កំពុង​ត្រូវ​បាន​បញ្ជាក់។
 mozilla-pkix-error-validity-too-long = ម៉ាស៊ីន​មេ​ប្រាប់​ថា​វិញ្ញាបនបត្រ​​ដែល​ត្រឹមត្រូវ​វែង​ពេក។
 mozilla-pkix-error-required-tls-feature-missing = បាត់លក្ខណៈពិសេស TLS ដែលត្រូវការ។
+
+xp-java-remove-principal-error = មិន​អាច​យក​គោលការណ៍​ចេញ​បាន​ទេ
+xp-java-delete-privilege-error = មិន​អាច​លុប​សិទ្ធិ​បាន​ទេ
+xp-java-cert-not-exists-error = គោលការណ៍​នេះ​គ្មាន​វិញ្ញាបនបត្រ​ឡើយ
+
+xp-sec-fortezza-bad-card = កាត​របស់ Fortezza មិន​ត្រូវ​បាន​​ចាប់ផ្ដើម​​បាន​​ត្រឹមត្រូវ​ឡើយ ។ សូម​យក​វា​ចេញ ហើយ​ត្រឡប់​​វា​ទៅកាន់​​​​អ្នក​ចេញ​ផ្សាយ​​​របស់​អ្នក ។
+xp-sec-fortezza-no-card = រក​មិន​ឃើញ​កាត​របស់ Fortezza ឡើយ
+xp-sec-fortezza-none-selected = មិន​បាន​ជ្រើស​កាត Fortezza ឡើយ
+xp-sec-fortezza-more-info = សូម​ជ្រើស​បុគ្គលិកលក្ខណៈ​ ដើម្បី​ទទួល​បាន​ព័ត៌មាន​បន្ថែម​នៅ​លើ
+xp-sec-fortezza-person-not-found = រក​មិន​ឃើញ​បុគ្គលិកលក្ខណៈ​ឡើយ
+xp-sec-fortezza-no-more-info = គ្មាន​ព័ត៌មាន​បន្ថែម​នៅ​លើ​បុគ្គលិកលក្ខណៈ​​នោះ​ទេ
+xp-sec-fortezza-bad-pin = Pin មិន​ត្រឹមត្រូវ
+xp-sec-fortezza-person-error = មិន​អាច​រៀបចំ​បុគ្គលិកលក្ខណៈ​របស់ Fortezza បាន​ទេ ។

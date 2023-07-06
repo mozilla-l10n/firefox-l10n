@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = ចំណាំ​ទំព័រ​នេះ
-    .accesskey = m
-    .tooltiptext = ចំណាំ​ទំព័រ​នេះ
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = ចំណាំ​ទំព័រ​នេះ
-    .accesskey = m
-    .tooltiptext = ចំណាំ​ទំព័រ​នេះ ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = កែ​សម្រួល​ចំណាំ​នេះ
-    .accesskey = m
-    .tooltiptext = កែសម្រួល​ចំណាំ​នេះ
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = កែ​សម្រួល​ចំណាំ​នេះ
-    .accesskey = m
-    .tooltiptext = កែសម្រួល​ចំណាំ​នេះ ({ $shortcut })
-
 main-context-menu-open-link =
     .label = បើក​តំណ
     .accesskey = O
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = អ៊ីមែលអូឌីយ៉ូ...
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​នេះ​សកម្ម
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = លាក់​កម្មវិធី​ជំនួយ​នេះ
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = ផ្ញើ​ទំព័រ​ទៅ​ឧបករណ៍
     .accesskey = D
@@ -292,10 +260,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ផ្ទុក​ស៊ុម​ឡើងវិញ
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = ចំណាំ​ស៊ុម​នេះ
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = រក្សា​ទុកស៊ុម​ជា...

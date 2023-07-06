@@ -99,3 +99,4 @@ browser-data-session-checkbox =
     .label = បង្អួច និង​ផ្ទាំង
 browser-data-session-label =
     .value = បង្អួច និង​ផ្ទាំង
+

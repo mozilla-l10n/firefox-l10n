@@ -24,6 +24,7 @@ xpinstall-disabled = ការ​ដំឡើង​កម្មវិធី​�
 xpinstall-disabled-button =
     .label = បើក
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } បាន​បញ្ចូល​ទៅ​ក្នុង { -brand-short-name }
@@ -37,10 +38,12 @@ webext-perms-update-menu-item = { $addonName } តម្រូវ​ឲ្យ​
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = លុប { $name } ចេញពី { -brand-shorter-name } មែនទេ?
 addon-removal-button = លុប​ចេញ
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = កំពុង​ទាញ​យក និង​ផ្ទៀងផ្ទាត់​កម្មវិធី​បន្ថែម { $addonCount }...
 addon-download-verifying = កំពុង​ផ្ទៀងផ្ទាត់
+
 addon-install-cancel-button =
     .label = បោះបង់
     .accesskey = C

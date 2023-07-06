@@ -9,6 +9,27 @@ safeb-blocked-harmful-page-title = វិបសាយ​​ខាង​មុខ
 safeb-palm-advisory-desc = សេចក្ដីណែនាំដោយ <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>។
 safeb-palm-accept-label = ថយ​ក្រោយ
 safeb-palm-see-details-label = មើលព័ត៌មានលម្អិត
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
 safeb-palm-notdeceptive =
     .label = នេះ​មិនមែន​ជា​វេបសាយ​បញ្ឆោត​ទេ…
     .accesskey = d

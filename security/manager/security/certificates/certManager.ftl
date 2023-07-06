@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = អាជ្ញាធរ
 
-certmgr-edit-ca-cert =
-    .title = កែសម្រួល​ការ​កំណត់​ទំនុកចិត្ត​លើ​វិញ្ញាបនបត្រ CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = កែសម្រួល​ការ​កំណត់​ទំនុកចិត្ត​លើ​វិញ្ញាបនបត្រ CA
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = វិញ្ញាបនបត្រ​នេះ​អាច​បញ្ជាក់​ប្រាប់​អំពី​អ្នក​ប្រើសំបុត្រ ។
 
-certmgr-delete-cert =
-    .title = លុប​វិញ្ញាបនបត្រ
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = លុប​វិញ្ញាបនបត្រ
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = ម៉ាស៊ីន​បម្រើ
-
-certmgr-override-lifetime =
-    .label = អាយុកាល
 
 certmgr-token-name =
     .label = ឧបករណ៍​សុវត្ថិភាព

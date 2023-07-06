@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] កុំ​បិទ
        *[other] កុំ​ចាកចេញ
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] ប្រសិនបើ អ្នក​ទៅ​ក្រៅ​បណ្ដាញ​ឥឡូវនេះ ការ​ទាញ​យក ១ នឹង​​ត្រូវ​បាន​បោះបង់ ។ តើ​អ្នក​ពិតជា​ចង់​ទៅ​ក្រៅ​បណ្ដាញ​ឬ ?
        *[other] ប្រសិនបើ អ្នក​ទៅ​ក្រៅ​បណ្ដាញ​ឥឡូវនេះ ការ​ទាញ​យក { $downloadsCount } នឹង​ត្រូវ​បាន​បោះបង់ ។ តើ​អ្នក​ពិតជា​ចង់​ទៅ​ក្រៅ​បណ្ដាញ​ឬ ?
     }
 download-ui-dont-go-offline-button = នៅ​ក្នុង​បណ្ដាញ​ជានិច្ច
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] បើ​អ្នក​បិទ​​បង្អួច​​​ការ​រុករក​ឯកជន​ទាំងអស់​ឥឡូវ​ ការ​ទាញ​យក  1  នឹង​ត្រូវ​បាន​បោះបង់។ តើ​អ្នក​ពិតជា​ចង់​បិទ​ការ​រុករក​ឯកជន​មែនឬ?
        *[other] បើ​អ្នក​បិទ​បង្អួច​ការ​រុករក​ឯកជន​ទាំងអស់​ឥឡូវ ការ​ទាញ​យក { $downloadsCount } នឹង​ត្រូវ​បាន​បោះបង់ ។ តើ​អ្នក​ពិតជា​ចង់​បិទ​ការ​រុករក​ឯកជន​មែន​ឬ?
     }
 download-ui-dont-leave-private-browsing-button = នៅ​ក្នុង​ការ​រុករក​ឯកជន
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] បោះបង់​ការ​ទាញ​យក ១

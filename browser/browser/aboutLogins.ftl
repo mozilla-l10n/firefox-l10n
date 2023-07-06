@@ -5,11 +5,6 @@
 
 about-logins-page-title = ការចូល និង​ពាក្យ​សម្ងាត់
 
-login-filter =
-    .placeholder = ស្វែងរក​ការចូល
-
-create-login-button = បង្កើត​ការចូល​ថ្មី
-
 fxaccounts-sign-in-text = ទាញយក​ពាក្យ​សម្ងាត់​របស់​អ្នក​នៅ​លើ​ឧបករណ៍​ផ្សេងៗ​របស់​អ្នក
 fxaccounts-sign-in-sync-button = ចូល ដើម្បី​ធ្វើ​សមកាលកម្ម
 fxaccounts-avatar-button =
@@ -98,9 +93,10 @@ login-item-copied-password-button-text = បាន​ចម្លង!
 login-item-save-changes-button = រក្សាទុក​ការផ្លាស់ប្ដូរ
 login-item-save-new-button = រក្សាទុក
 login-item-cancel-button = បោះបង់
-login-item-time-changed = បាន​កែប្រែ​ចុងក្រោយ៖ { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = បាន​បង្កើត៖ { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = បាន​ប្រើប្រាស់​ចុងក្រោយ៖ { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -151,6 +147,9 @@ about-logins-confirm-remove-dialog-title = លុបការចូលនេះ�
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
 about-logins-confirm-remove-dialog-confirm-button = លុប​ចេញ
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] លុបចេញ
@@ -184,6 +183,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = នាំចេញការចូលនិងពាក្យសម្ងាត់
 about-logins-confirm-export-dialog-message = ពាក្យសម្ងាត់​របស់​អ្នក​នឹង​ត្រូវបាន​រក្សាទុក​ជាអត្ថបទ​ដែល​អាច​អាន​បាន (ឧ. BadP@ssw0rd) ដូច្នេះ​នរណា​ដែល​អាច​បើក​ឯកសារ​ដែល​បាន​នាំចេញ​ អាច​មើលពាក្យ​សម្ងាត់​ទាំងនោះបាន។
 about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
@@ -203,7 +204,6 @@ about-logins-breach-alert-date = ការបំពាន​នេះ​បា�
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = ទៅកាន់ { $hostname }
-about-logins-breach-alert-learn-more-link = ស្វែងយល់​បន្ថែម
 
 ## Vulnerable Password notification
 

@@ -37,3 +37,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = បោះបង់
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = ផ្ញើ​របាយការណ៍
+
+# Cookie Banner Handling
+

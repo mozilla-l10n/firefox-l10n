@@ -12,3 +12,5 @@ callout-primary-complete-button-label = យល់ហើយ!
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+## PDF.js Feature Tour Strings
+
