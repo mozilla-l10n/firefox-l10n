@@ -210,14 +210,6 @@ main-context-menu-audio-email =
     .label = ऑडियो ईमेल करू (a)…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = ई प्लगिन सक्रिय करू (c)
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = ई प्लगइन केँ नुकाउ (H)
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = डिवाइस मे पृष्ठ पठाबू
     .accesskey = n
@@ -256,10 +248,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = फ्रेम फेर लोड करू
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = ई फ्रेम पुस्तकचिह्नित करू
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = फ्रेम एहिना सहेजू…

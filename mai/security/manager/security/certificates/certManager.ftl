@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = प्राधिकार
 
-certmgr-edit-ca-cert =
-    .title = CA प्रमाणपत्र ट्रस्ट जमावट केँ संपादित  करू
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA प्रमाणपत्र ट्रस्ट जमावट केँ संपादित  करू
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = ई प्रमाणपत्र मेल प्रयोक्ता केँ पहचान सकैत अछि .
 
-certmgr-delete-cert =
-    .title = प्रमाणपत्र मेटाउ
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = प्रमाणपत्र मेटाउ
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = सर्वर
-
-certmgr-override-lifetime =
-    .label = जीवनपर्यंत
 
 certmgr-token-name =
     .label = सुरक्षा युक्ति

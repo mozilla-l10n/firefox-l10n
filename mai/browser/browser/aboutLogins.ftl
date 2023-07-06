@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लॉगिन & गुड़किल्ली
-login-filter =
-    .placeholder = लॉगिन खोज
-create-login-button = नवीन लॉगिन बनाबू
+
 about-logins-login-filter =
     .placeholder = लॉगिन ढूँढूँ
     .key = F
+
 create-new-login-button =
     .title = नवीन लॉगिन बनाबू
+
 fxaccounts-sign-in-text = अपन गुड़किल्ली दोसर डिवाइस पर पाबू
 fxaccounts-sign-in-sync-button = सिंक करए कलेल साइन-इन करू
 fxaccounts-avatar-button =
@@ -111,9 +111,6 @@ login-item-copied-password-button-text = कॉपी कएल गेल!
 login-item-save-changes-button = परिवर्तन सहेजू
 login-item-save-new-button = सहेजू
 login-item-cancel-button = रद्द करू
-login-item-time-changed = आखिरी रूपांतरण: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = बनाएल गेल: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = आखिरी उपयोग: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -139,16 +136,19 @@ about-logins-edit-login-os-auth-dialog-message-win = अपन लॉगिन �
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = सहेजल लॉगिन क' संपादित करू
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = अपन पासवर्ड देखए लेल, अपन Windows लॉगिन क्रेडेंशियल्स दर्ज करू। ई अहाँक खाताक सुरक्षित राखए मे मदति करैत अछि।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली जानू
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = अपन गुड़किल्ली केँ नकल बनाबए लेल, अपना Windows लॉगिन क्रेडेंशियल्स दर्ज करू. ई अहाँक खाता केँ सुरक्षित बनैने रखाए मे मददगार भेत.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली कॉपी करू
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = अपन लॉगिन केँ निर्यात करबाक लेल, अपन Windows लॉगिन क्रेडेंशियल्स दर्ज करू. ई अहाँक खाता केँ सुरक्षित बनैने राखए मे मददगार भेत.
 # This message can be seen when attempting to export a password in about:logins
@@ -167,6 +167,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = रद्द करू
 confirmation-dialog-dismiss-button =
     .title = रद्द करू
+
 about-logins-confirm-remove-dialog-title = ई लॉगिन केँ हटाबू?
 confirm-delete-dialog-message = ई क्रिया घुराबल नहि जाए सकैत अछि.
 about-logins-confirm-remove-dialog-confirm-button = हटाउ
@@ -179,11 +180,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] हटाउ
        *[other] सभ हटाउ
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] हँ, ई लॉगिन हटाउ
        *[other] हँ, सभ लॉगिन हटाउ
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ल़गिन { $count } हटाउ?
@@ -194,6 +197,7 @@ about-logins-confirm-remove-all-dialog-message =
         [1] एकरा सँ अहाँक { -brand-short-name } पर सहेजल लॉगिन मेटाए देल जाएत आओऱ कोनो भी सुरक्षा चेतावनी जे एतय देखाएल जएताह. अहाँ एकरा दोबारा नहि पाएब सकब.
        *[other] एकरा सँ अहाँक { -brand-short-name } पर सहेजल लॉगिन मेटाए देल जाएत आओऱ कोनो भी सुरक्षा चेतावनी जे एतय देखाएल जएताह. अहाँ एकरा दोबारा नहि पाएब सकब..
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] सभ डिवाइस सँ लॉगिन { $count } हटाउ?
@@ -210,8 +214,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = लॉगिन आओर गुड़किल्ली निर्यात करू
 about-logins-confirm-export-dialog-message = अहाँक गुड़किल्ली पढ़बाक लेल टेक्स्ट (जहिना BadP@ssw0rd) क' रूपेँ सहेजल जाएत, जकरा सँ केओ भी निर्यात कएल गेल फ़ाइल को खोलि सकैछ आओर देखि सकैछ.
 about-logins-confirm-export-dialog-confirm-button = निर्यात…
+
 about-logins-alert-import-title = आयात भ' गेल
 about-logins-alert-import-message = विस्तृत आयात सारांश देखाबू
+
 confirm-discard-changes-dialog-title = नहि सहेजल गेल बदलाव छोड़ू?
 confirm-discard-changes-dialog-message = सभ बिनु सहेजल परिवर्तन नष्ट भ जाएत।
 confirm-discard-changes-dialog-confirm-button = छोड़ि दिअ
@@ -224,7 +230,6 @@ about-logins-breach-alert-date = ई उल्लंघन { DATETIME($date, day
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } पर जाउ
-about-logins-breach-alert-learn-more-link = बेसी जानू
 
 ## Vulnerable Password notification
 
@@ -242,6 +247,7 @@ about-logins-vulnerable-alert-learn-more-link = बेसी जानू
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = ई उपयोक्ता नामक लॉगिन  { $loginTitle } पर पहिने सँ मोजुद अछि.<a data-l10n-name="duplicate-link">पहिने सँ मोजुद लॉगिन पर जएनाय चाहब?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = पासवर्ड सहेजए केर  प्रयास मे एकटा त्रुटि भेल.
 
@@ -290,10 +296,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>नवीन लॉगइन जोड़ल गेल:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>वर्तमान लॉगइन अपडेट करल गेल:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>डुप्लीकेट लॉगइन भेटल:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात नहि भेल)</span>
@@ -303,6 +311,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>त्रुटि:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात नहि भेल)</span>
     }
 about-logins-import-dialog-done = संपन्न
+
 about-logins-import-dialog-error-title = त्रुटि आयात करू
 about-logins-import-dialog-error-conflicting-values-title = एक लॉगिन खातिर एक सँ बेसी विरोधी मूल्य.
 about-logins-import-dialog-error-conflicting-values-description = उदाहरण कलेल: एक लॉगिन ख़ातिर अनेक उपयोक्ता नाम, पासवर्ड, URLs, इत्यादि.
@@ -316,8 +325,10 @@ about-logins-import-dialog-error-no-logins-imported = कोनो लॉगि�
 about-logins-import-dialog-error-learn-more = बेसी जानू
 about-logins-import-dialog-error-try-import-again = फिनु आयात कलेल प्रयत्न करू…
 about-logins-import-dialog-error-cancel = रद्द करू
+
 about-logins-import-report-title = सारांश आयात करू
 about-logins-import-report-description = लॉगिन आओर पासवर्ड { -brand-short-name } मे आयात कएल गेल.
+
 #
 # Variables:
 #  $number (number) - The number of the row

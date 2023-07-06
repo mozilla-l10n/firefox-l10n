@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = नव टैब
+
 tabbrowser-menuitem-close-tab =
     .label = टैब बन्न  करू
 tabbrowser-menuitem-close =
@@ -49,3 +50,6 @@ tabbrowser-context-unmute-tab =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = सभ टैब { $tabCount } सूचीबद्ध करू
+
+## Tab manager menu buttons
+

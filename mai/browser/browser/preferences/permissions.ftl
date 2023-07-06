@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = अपवाद
-    .style = width: 45em
-
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
@@ -81,4 +77,8 @@ permissions-exceptions-addons-desc = कओनसँ वेबसाइट स�
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 

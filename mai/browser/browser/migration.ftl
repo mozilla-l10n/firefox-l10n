@@ -99,3 +99,4 @@ browser-data-session-checkbox =
     .label = विंडोज आ टैब
 browser-data-session-label =
     .value = विंडोज आ टैब
+

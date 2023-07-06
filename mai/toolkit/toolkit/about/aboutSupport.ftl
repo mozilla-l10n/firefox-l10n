@@ -53,6 +53,8 @@ sandbox-title = सैंडबक्सा
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 
