@@ -131,12 +131,6 @@ about-telemetry-category-header = kategorio
 about-telemetry-method-header = metodo
 about-telemetry-object-header = objekto
 about-telemetry-extra-header = cetero
-about-telemetry-origin-section = Telemezuro origina
-about-telemetry-origin-origin = origino
-about-telemetry-origin-count = nombro
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> kodigas la datumojn antaŭ ol sendi ilin, tiel ke { $telemetryServerOwner } povas kalkuli ilin, sed ne scii ĉu iu { -brand-product-name } kontribuis al tiu kalkulo. (<a data-l10n-name="prio-blog-link">pli da informo</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } procezo

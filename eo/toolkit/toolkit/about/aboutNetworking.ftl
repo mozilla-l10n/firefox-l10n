@@ -34,13 +34,6 @@ about-networking-messages-received = Ricevitaj mesaĝoj
 about-networking-bytes-sent = Oktetoj senditaj
 about-networking-bytes-received = Oktetoj ricevitaj
 about-networking-logging = Registrado
-about-networking-log-tutorial = Instrukcioj pri la uzo de tiu ĉi ilo troveblas en <a data-l10n-name="logging">Registrado de HTTP</a>.
-about-networking-current-log-file = Nuna registra dosiero:
-about-networking-current-log-modules = Nunaj registraj moduloj:
-about-networking-set-log-file = Elekti registran dosieron
-about-networking-set-log-modules = Elekti registrajn modulojn
-about-networking-start-logging = Komenci registri
-about-networking-stop-logging = Fini registri
 about-networking-dns-lookup = Serĉo en DNS
 about-networking-dns-lookup-button = Trovi adreson
 about-networking-dns-domain = Nomregno:

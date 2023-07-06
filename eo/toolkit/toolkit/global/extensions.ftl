@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Nuligi
     .accesskey = N
+
 webext-perms-sideload-text = Alia programo en via komputilo instalis aldonaĵon, kiu povus efiki sur via retumilo. Bonvolu revizii la petojn de permesoj de tiu aldonaĵo kaj elektu ĉu Aktivigi aŭ Nuligi (por lasi ĝin malaktiva).
 webext-perms-sideload-text-no-perms = Alia programo en via komputilo instalis aldonaĵon, kiu povus efiki sur via retumilo. Bonvolu elekti ĉu Aktivigi aŭ Nuligi (por lasi ĝin malaktiva).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Nuligi
     .accesskey = N
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } estis ĝisdatigita. Vi devas aprobi la novajn permesojn por povi instali la ĝisdatigitan version. Se vi elektas “Nuligi“ vi gardos vian nunan version. Tiu ĉi etendaĵo havs la jenan permesojn:
 webext-perms-update-accept =
     .label = Ĝisdatigi
     .accesskey = d
+
 webext-perms-optional-perms-list-intro = Ĝi volas:
 webext-perms-optional-perms-allow =
     .label = Permesi
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Rifuzi
     .accesskey = R
+
 webext-perms-host-description-all-urls = Aliri viajn datumojn por ĉiuj retejoj
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Aliri viajn datumojn por retejoj en la nomregno { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Aliri viajn datumojn por { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

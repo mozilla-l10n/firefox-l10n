@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Enporti retumilajn datumojn
 migration-wizard-selection-list = Elekti la datumojn, kiujn vi ŝatus enporti.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Elekti la datumojn, kiujn vi ŝatus enporti.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Enporti elektitajn datumojn
 
 migration-select-all-option-label = Elekti ĉion
 migration-bookmarks-option-label = Legosignoj
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Plej ŝatataj
+
 migration-logins-and-passwords-option-label = Konservitaj legitimiloj kaj pasvortoj
 migration-history-option-label = Historio de retumo
 migration-extensions-option-label = Etendaĵoj
 migration-form-autofill-option-label = Datumoj pri aŭtomata plenigo de formularoj
 migration-payment-methods-option-label = Pagmetodoj
+
 migration-cookies-option-label = Kuketoj
 migration-session-option-label = Fenestroj kaj langetoj
 migration-otherdata-option-label = Aliaj datumoj
+
 migration-passwords-from-file-progress-header = Enporti dosieron kun pasvortoj
 migration-passwords-from-file-success-header = Pasvortoj sukcese enportitaj
 migration-passwords-from-file = Kontrolo de ekzisto de pasvortoj en dosiero
 migration-passwords-new = Novaj pasvortoj
 migration-passwords-updated = Jamaj pasvortoj
+
 migration-passwords-from-file-no-valid-data = Tiu dosiero ne enhavas validajn pasvortajn datumojn. Elektu alian dosieron.
+
 migration-passwords-from-file-picker-title = Enporti dosieron kun pasvortoj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokumento TSV
        *[other] Dosiero TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +104,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } aldonita
        *[other] { $newEntries } aldonitaj
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -105,11 +115,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } ĝisdatigita
        *[other] { $updatedEntries } ĝisdatigitaj
     }
+
 migration-bookmarks-from-file-picker-title = Enporti dosieron de legosignoj
 migration-bookmarks-from-file-progress-header = Enporto de legosignoj
 migration-bookmarks-from-file = Legosignoj
 migration-bookmarks-from-file-success-header = Legosignoj sukcese enportitaj
+
 migration-bookmarks-from-file-no-valid-data = Tiu dosiero ne enhavas legosignajn datumojn. Elektu alian dosieron.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -117,9 +130,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Dokumento HTML
        *[other] Dosiero HTML
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Dosiero JSON
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -130,12 +145,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } legosigno
        *[other] { $newEntries } legosignoj
     }
+
 migration-import-button-label = Enporti
 migration-choose-to-import-from-file-button-label = Enporti el dosiero
 migration-import-from-file-button-label = Elekti dosieron
 migration-cancel-button-label = Nuligi
 migration-done-button-label = Farita
 migration-continue-button-label = Daŭrigi
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ne povis trovi programon, kiu enhavas legosignajn, historiajn aŭ pasvortajn datumojn.
 migration-wizard-import-browser-no-resources = Okazis erar. { -brand-short-name } ne povis trovi enporteblajn datumojn el tiu retumila profilo.
 
@@ -146,6 +163,7 @@ migration-wizard-import-browser-no-resources = Okazis erar. { -brand-short-name 
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = legosignojn
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = plej ŝatatajn
@@ -163,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Enporto…
 migration-wizard-progress-icon-completed =
     .aria-label = Kompleta
+
 migration-safari-password-import-header = Enporti pasvortojn el Safari
 migration-safari-password-import-steps-header = Por enporti pasvortojn el Safari:
 migration-safari-password-import-step1 = En Safari, malfermu la menuon “Safari“ kaj iru al Preferoj > Pasvortoj
@@ -171,6 +190,8 @@ migration-safari-password-import-step3 = Konservi la dosieron kun pasvortoj
 migration-safari-password-import-step4 = Malsupre, uzu “Elekti dosieron” por elekti la dosieron kun pasvortoj, kiun vi konservis
 migration-safari-password-import-skip-button = Ignori
 migration-safari-password-import-select-button = Elekti dosieron
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -181,6 +202,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } legosigno
        *[other] { $quantity } legosignoj
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -208,6 +230,7 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } etendaĵo
        *[other] { $quantity } etendaĵoj
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -228,6 +251,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } pasvorto
        *[other] { $quantity } pasvortoj
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -238,7 +262,9 @@ migration-wizard-progress-success-history =
         [one] El la lasta tago
        *[other] El la lastaj { $maxAgeInDays } tagoj
     }
+
 migration-wizard-progress-success-formdata = Historio de formularoj
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -249,6 +275,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } pagmetodo
        *[other] { $quantity } pagmetodoj
     }
+
 migration-wizard-safari-permissions-sub-header = Por enporti legosignojn kaj retuman historio el Safari:
 migration-wizard-safari-instructions-continue = Elektu “Daŭrigi”
 migration-wizard-safari-instructions-folder = Elektu en la listo la dosierujon de Safari kaj “Open”

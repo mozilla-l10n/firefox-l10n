@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Malfermi la menuon de { $extensionName }
+
 unified-extensions-item-message-manage = Administri etendaĵon
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Alpingli al la ilara strio
+
 unified-extensions-context-menu-manage-extension =
     .label = Administri etendaĵon
+
 unified-extensions-context-menu-remove-extension =
     .label = Forigi etendaĵon
+
 unified-extensions-context-menu-report-extension =
     .label = Denunci etendaĵon
+
 unified-extensions-context-menu-move-widget-up =
     .label = Movi supren
+
 unified-extensions-context-menu-move-widget-down =
     .label = Movi malsupren
 

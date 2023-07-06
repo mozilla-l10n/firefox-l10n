@@ -76,8 +76,6 @@ perftools-thread-renderer =
     .title = Kiam WebRender estas aktiva, tiu estas la fadeno kiu vokas OpenGL
 perftools-thread-render-backend =
     .title = La fadeno WebRender RenderBackend
-perftools-thread-paint-worker =
-    .title = Kiam farbado ekster la ĉefa fadeno estas aktiva, tiu estas la fadeno kiu farbas
 perftools-thread-timer =
     .title = La fadeno kiu zorgas pri tempumiloj (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -125,6 +123,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Teksaĵa programisto
