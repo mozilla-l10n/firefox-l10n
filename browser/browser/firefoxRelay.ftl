@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Devètz vos connectar a { -fxaccount-brand-nam
 firefox-relay-get-unlimited-masks =
     .label = Gerir los alisas
     .accesskey = G
-firefox-relay-opt-in-title = Protegissètz vòstra adreça electronica
-firefox-relay-opt-in-subtitle = Installar { -relay-brand-name }
-firefox-relay-generate-mask-title = Protegissètz vòstra adreça electronica
-firefox-relay-generate-mask-subtitle = Generar un àlias { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Contunhar
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protegissètz vòstra adreça email :
 firefox-relay-opt-in-confirmation-disable =

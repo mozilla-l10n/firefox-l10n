@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Quitar pas
        *[other] Quitar pas
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Se passatz fòra linha ara, un telecargament en cors serà anullat. Volètz vertadièrament passar fòra linha ?
        *[other] Se passatz fòra linha ara, { $downloadsCount } telecargaments en cors seràn anullats. Volètz vertadièrament passar fòra linha ?
     }
 download-ui-dont-go-offline-button = Demorar en linha
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Se sortissètz ara del mòde de navegacion privada, anullarà 1 telecargament. Volètz vertadièrament sortir del mòde de navegacion privada ?
        *[other] Se sortissètz ara del mòde de navegacion privada, se van anullar { $downloadsCount } telecargaments. Sètz segur que sortir dintrar del mòde de navegacion privada ?
     }
 download-ui-dont-leave-private-browsing-button = Demorar dins lo mòde de navegacion privada
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Anullar lo telecargament

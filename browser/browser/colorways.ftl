@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Voses independentas
-colorway-collection-independent-voices-description = Las colors pòdon cambiar una cultura. Los darrièrs colorits celèbran las voses que fan venir lo monde melhor.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Las colors que pòdon cambiar la cultura.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Menatz

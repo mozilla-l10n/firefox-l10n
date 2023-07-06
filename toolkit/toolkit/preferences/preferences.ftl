@@ -9,10 +9,6 @@ failed-pp-change = Impossible de cambiar lo senhal principal.
 incorrect-pp = Avètz pas picat lo senhal principal actual corrècte. Tornatz ensajar.
 pp-change-ok = Senhal corrèctament modificat.
 
-pp-empty-warning = Los senhals e claus privadas seràn pas protegidas.
-pp-erased-ok = Avètz suprimit vòstre senhal principal. { pp-empty-warning }
-pp-not-wanted = Atencion ! Avètz decidit d'utilizar pas de senhal principal. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Actualament, sètz en mòde FIPS. Lo mòde FIPS requerís un senhal principal pas void.
 pw-change-success-title = Cambiament de senhal capitat
 pw-change-failed-title = La modificacion de senhal a pas capitat

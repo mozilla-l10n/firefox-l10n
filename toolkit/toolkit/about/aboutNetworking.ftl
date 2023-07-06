@@ -34,13 +34,6 @@ about-networking-messages-received = Messatges recebuts
 about-networking-bytes-sent = Octets mandats
 about-networking-bytes-received = Octets recebuts
 about-networking-logging = Jornal
-about-networking-log-tutorial = Veire <a data-l10n-name="logging">HTTP Logging</a> per saber cossí utilizar aquesta aisina.
-about-networking-current-log-file = Fichièr de jornalizacion actual :
-about-networking-current-log-modules = Moduls de jornalizacion actuals :
-about-networking-set-log-file = Definir un fichièr pel jornal
-about-networking-set-log-modules = Definir de modul d'enregistrament pel jornal
-about-networking-start-logging = Començar la jornalizacion
-about-networking-stop-logging = Arrestar la jornalizacion
 about-networking-dns-lookup = Recèrca DNS
 about-networking-dns-lookup-button = Resolucion
 about-networking-dns-domain = Domeni:

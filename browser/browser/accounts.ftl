@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Acabar la configuracion del compte
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Compte desconnectat
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Enviar a totes los periferics
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Gerir los periferics…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Gerir los periferics…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Cap de periferic pas connectat
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Saber cossí enviar d'onglets…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Connectar un autre periferic…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Verificatz vòstre compte…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "uppercase") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Aqueste ordenador es ara connectat a { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Aqueste ordenador es ara connectat amb un periferic novèl.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Sètz corrèctament correctat
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Aqueste ordenador es estat desconnectat.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Onglet recebut
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Onglet de { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Onglets recebuts
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

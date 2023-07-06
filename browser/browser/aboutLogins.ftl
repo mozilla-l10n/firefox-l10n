@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Identificants e senhals
-login-filter =
-    .placeholder = Recercar d’identificants
-create-login-button = Crear un identificant novèl
+
 about-logins-login-filter =
     .placeholder = Recercar d’identificants
     .key = F
+
 create-new-login-button =
     .title = Crear un identificant novèl
+
 fxaccounts-sign-in-text = Accedissètz a vòstres senhals sus vòstres periferics
 fxaccounts-sign-in-sync-button = Se connectar per sincronizar
 fxaccounts-avatar-button =
@@ -111,9 +111,6 @@ login-item-copied-password-button-text = Copiat !
 login-item-save-changes-button = Enregistrar las modificacions
 login-item-save-new-button = Enregistrar
 login-item-cancel-button = Anullar
-login-item-time-changed = Darrièra modificacion : { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Creacion : { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Darrièra utilizacion : { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -139,16 +136,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Per modificar vòstres iden
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modificar l’identificant salvat
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per veire vòstre senhal, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = revelar lo senhal salvat
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Per copiar vòstre senhal, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar lo senhal salvat
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Per exportar vòstres identificants, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
 # This message can be seen when attempting to export a password in about:logins
@@ -167,6 +167,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Anullar
 confirmation-dialog-dismiss-button =
     .title = Anullar
+
 about-logins-confirm-remove-dialog-title = Suprimir aqueste identificant ?
 confirm-delete-dialog-message = Aquesta accion es irreversibla.
 about-logins-confirm-remove-dialog-confirm-button = Suprimir
@@ -180,12 +181,14 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Lo suprimir
        *[other] O suprimir tot
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Òc-ben, suprimir aqueste identificant
         [one] Òc-ben, suprimir aqueste identificant
        *[other] Òc-ben, suprimir aquestes identificants
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Suprimir { $count } identificant ?
@@ -197,6 +200,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } e tota alèrta de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
        *[other] Suprimirà los identificants qu’enregistrèretz dins { -brand-short-name } e tota alèrta de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Suprimir { $count } identificant de totes los periferics ?
@@ -214,8 +218,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportacion dels identificants e senhals
 about-logins-confirm-export-dialog-message = Vòstres senhals seràn salvats jos la fòrma de tèxt legible (per exemple, « senh4l-f3bl3 ») ; atal qual que siá que pòt dobrir lo fichièr poirà los consultar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+
 about-logins-alert-import-title = Importacion acabada
 about-logins-alert-import-message = Veire lo resumit detalhat de l’importacion
+
 confirm-discard-changes-dialog-title = Ignorar las modificacions pas enregistradas ?
 confirm-discard-changes-dialog-message = Totas las modificacions pas enregistradas seràn perdudas.
 confirm-discard-changes-dialog-confirm-button = Ignorar
@@ -228,7 +234,6 @@ about-logins-breach-alert-date = Aquesta divulgacion se passèt lo { DATETIME($d
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Accedir a { $hostname }
-about-logins-breach-alert-learn-more-link = Ne saber mai
 
 ## Vulnerable Password notification
 
@@ -246,6 +251,7 @@ about-logins-vulnerable-alert-learn-more-link = Ne saber mai
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Existís ja una entrada per { $loginTitle } amb aqueste nom d’utilizaire.<a data-l10n-name="duplicate-link">Accedir a l’entrada existenta ?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Una error s’es producha en enregistrant aqueste senhal.
 
@@ -294,10 +300,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Identificants novèls aponduts :</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Identificants existents actualizats :</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Identificants en doble trobats :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(pas importats)</span>
@@ -307,6 +315,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Errors :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(pas importats)</span>
     }
 about-logins-import-dialog-done = Acabat
+
 about-logins-import-dialog-error-title = Error d’importacion
 about-logins-import-dialog-error-conflicting-values-title = Mantuna valor en conflicte per un identificant
 about-logins-import-dialog-error-conflicting-values-description = Per exemple : mantun nom d’utilizaire, senhals, URL, etc. per un meteis identificant.
@@ -320,8 +329,10 @@ about-logins-import-dialog-error-no-logins-imported = Cap d’identificant pas i
 about-logins-import-dialog-error-learn-more = Ne saber mai
 about-logins-import-dialog-error-try-import-again = Ensajar d’importar de nòu…
 about-logins-import-dialog-error-cancel = Anullar
+
 about-logins-import-report-title = Resumit d’importacion
 about-logins-import-report-description = Identificants e senhals importats dins { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

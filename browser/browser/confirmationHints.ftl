@@ -12,7 +12,6 @@ confirmation-hint-password-saved = Senhal enregistrat !
 confirmation-hint-pin-tab = Penjat !
 confirmation-hint-pin-tab-description = Realizatz un clic drech sus l’onglet per lo despenjar.
 confirmation-hint-send-to-device = Mandat !
-confirmation-hint-firefox-relay-mask-generated = Àlias de messatjariá { -relay-brand-short-name } novèl generat !
 confirmation-hint-firefox-relay-mask-created = Àlias novèls creat !
 confirmation-hint-firefox-relay-mask-reused = Àlias existent reütilizat !
 confirmation-hint-screenshot-copied = Captura d’ecran copiada !
