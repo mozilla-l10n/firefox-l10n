@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] ᱟᱞᱚᱢ ᱵᱚᱸᱫᱚ ᱭᱟ
        *[other] ᱵᱟᱦᱨᱮ ᱟᱞᱚᱢ ᱚᱰᱚᱠᱚᱜᱼᱟ
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] ᱡᱩᱫᱤ ᱟᱢ ᱱᱤᱛᱚᱜ ᱟᱹᱯᱷᱞᱟᱤᱱᱮᱢ ᱪᱟᱞᱟᱜ ᱟ, 1 ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚ ᱵᱟᱹᱰᱨᱟᱹ ᱟ ᱪᱮᱫ ᱟᱢ ᱟᱹᱯᱷ ᱞᱤᱱ ᱪᱟᱞᱟᱠ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ?
        *[other] ᱡᱩᱫᱤ ᱟᱢ ᱱᱤᱛᱚᱜ ᱚᱯᱷᱞᱟᱭᱤᱱ ᱪᱟᱞᱟᱜ ᱟ, { $downloadsCount } ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱵᱟᱹᱰᱨᱟᱹ ᱟ ᱪᱮᱫ ᱟᱢ ᱟᱹᱯᱷ ᱞᱟᱭᱤᱱ ᱪᱟᱞᱟᱜ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
     }
 download-ui-dont-go-offline-button = ᱚᱱᱚᱞᱟᱭᱤᱱ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱚ
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] ᱡᱤᱫᱤ ᱟᱢ ᱱᱤᱛ ᱨᱮ ᱡᱷᱚᱛᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱟᱢ, 1 ᱰᱟᱩᱱᱞᱚᱰ ᱵᱟᱹᱛᱤᱞᱚᱜᱼᱟ ᱾ ᱟᱢ ᱪᱮᱫ ᱡᱷᱚᱛᱚ ᱞᱮᱠᱷᱟᱛᱮ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱟᱲᱟᱜ ᱥᱮᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ?
@@ -36,6 +38,7 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
        *[other] ᱡᱤᱫᱤ ᱟᱢ ᱱᱤᱛ ᱨᱮ ᱡᱷᱚᱛᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱟᱢ, { $downloadsCount } ᱰᱟᱩᱱᱞᱚᱰᱠᱚ ᱵᱟᱹᱛᱤᱞᱚᱜᱼᱟ ᱾ ᱟᱢ ᱪᱮᱫ ᱡᱷᱚᱛᱚ ᱞᱮᱠᱷᱟᱛᱮ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱟᱲᱟᱜ ᱥᱮᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ?
     }
 download-ui-dont-leave-private-browsing-button = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ᱰᱟᱩᱱᱞᱚᱰ ᱵᱟᱹᱰᱨᱟᱹᱭ ᱢᱮ

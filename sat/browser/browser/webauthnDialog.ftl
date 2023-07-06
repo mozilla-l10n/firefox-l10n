@@ -4,15 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] ᱵᱷᱩᱞ PIN! ᱫᱚᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱷᱤᱠ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾
-        [one] ᱵᱷᱩᱞ PIN! ᱫᱚᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱷᱤᱠ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣ ᱥᱟᱨᱮᱡ ᱮᱱᱟ ᱾
-        [two] ᱵᱷᱩᱞ PIN! ᱫᱚᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱷᱤᱠ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣᱠᱤᱱ ᱥᱟᱨᱮᱡ ᱮᱱᱟ ᱾
-       *[other] ᱵᱷᱩᱞ PIN! ᱫᱚᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱷᱤᱠ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣᱠᱚ ᱥᱟᱨᱮᱡ ᱮᱱᱟ ᱾
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] ᱵᱷᱩᱞ ᱜᱮᱭᱟ PIN ᱾ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱮᱯᱮᱢ ᱜᱟᱶᱛᱟ ᱠᱚ ᱟᱫ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱴᱷᱮᱱ { $retriesLeft } ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣ ᱢᱮᱱᱟᱜᱼᱟ ᱾
@@ -21,6 +12,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = ᱵᱷᱩᱞ PIN ᱾ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 webauthn-pin-required-prompt = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱞᱟᱹᱜᱤᱫ PIN ᱟᱫᱮᱨ ᱢᱮ ᱾
+
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

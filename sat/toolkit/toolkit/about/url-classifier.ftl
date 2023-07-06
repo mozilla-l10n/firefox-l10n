@@ -44,6 +44,7 @@ url-classifier-debug-sb-modules = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱽᱨᱟᱣᱡᱤ
 url-classifier-debug-modules = ᱱᱤᱛᱚᱜᱟᱜ ᱞᱚᱜᱽ ᱢᱳᱰᱭᱩᱞᱠᱚ
 url-classifier-debug-sbjs-modules = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱽᱨᱟᱣᱡᱤᱝ JS ᱞᱚᱜᱽ
 url-classifier-debug-file = ᱱᱤᱛᱚᱜᱟᱜ ᱨᱮᱫᱽ ᱞᱚᱜᱽ
+
 url-classifier-trigger-update = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱛᱦᱚᱵ ᱢᱮ
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱽᱨᱟᱣᱡᱤᱝ JS ᱞᱚᱜᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ

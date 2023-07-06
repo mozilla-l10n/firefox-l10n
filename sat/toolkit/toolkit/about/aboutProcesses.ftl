@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = ᱠᱟᱹᱢᱤᱭᱟᱹ
+
 # The Actions column
 about-processes-column-action =
     .title = ᱠᱟᱹᱢᱤ ᱠᱚ
@@ -14,6 +15,7 @@ about-processes-shutdown-process =
     .title = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱜᱩᱭ ᱢᱮ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱷᱚᱞᱟᱥ ᱢᱮ
 about-processes-shutdown-tab =
     .title = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -51,6 +53,7 @@ about-processes-remote-sandbox-broker-process = ᱨᱤᱢᱚᱴ ᱥᱮᱱᱰᱵ�
 about-processes-fork-server-process = ({ $pid }) ᱥᱟᱹᱨᱣᱟᱹᱨ ᱱᱚᱠᱚᱞ ᱢᱮ
 about-processes-preallocated-process = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱯᱷᱟᱝᱠᱟ ᱫᱚᱦᱚ ({ $pid })
 about-processes-utility-process = ᱵᱮᱵᱷᱟᱨ ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -85,6 +88,7 @@ about-processes-active-threads =
         [one] { $active } ᱠᱷᱚᱱ ᱪᱚᱴᱠᱟᱨ { $number }: { $list }
        *[other] { $active } ᱠᱷᱚᱱ ᱪᱚᱴᱠᱟᱨ { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -96,21 +100,25 @@ about-processes-inactive-threads =
         [one] { $number } ᱵᱟᱝ ᱪᱚᱴᱠᱟᱨ ᱥᱩᱛᱟᱹ
        *[other] { $number } ᱵᱟᱝ ᱪᱚᱴᱠᱟᱨ ᱥᱩᱛᱟᱹ ᱠᱚ
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ᱥᱩᱛᱟᱹ id: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = ᱴᱮᱵᱽ: { $name }
 about-processes-preloaded-tab = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱞᱟᱫᱮ ᱠᱟᱱ ᱱᱚᱶᱟ ᱴᱮᱵᱽ
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = ᱥᱟᱹᱵᱯᱷᱨᱮᱢ: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -120,7 +128,6 @@ about-processes-frame-name-many = ᱥᱟᱹᱵᱯᱷᱨᱮᱢᱠᱚ ({ $number }
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱮᱠᱴᱚᱨ
-about-processes-utility-actor-audio-decoder = ᱥᱟᱰᱮ ᱰᱤᱠᱳᱰᱟᱹᱨ
 about-processes-utility-actor-audio-decoder-generic = ᱡᱮᱱᱮᱨᱤᱠ ᱥᱟᱰᱮ ᱰᱤᱠᱳᱰᱟᱹᱨ
 about-processes-utility-actor-audio-decoder-applemedia = Apple ᱢᱤᱰᱤᱭᱟ ᱥᱟᱰᱮ ᱰᱤᱠᱳᱰᱟᱹᱨ
 about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework ᱥᱟᱰᱮ ᱰᱤᱠᱳᱰᱟᱹᱨ
@@ -141,12 +148,15 @@ about-processes-utility-actor-windows-utils = Windows Utils
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = ᱢᱩᱴ CPU ᱚᱠᱛᱚ: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ᱢᱟᱯᱚᱜ ᱠᱟᱱᱟ)
+
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = ᱢᱩᱴ CPU ᱚᱠᱛᱚ: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = ᱜᱟᱹᱰᱤᱭᱟᱹ
     .title = ᱢᱩᱴ CPU ᱚᱠᱛᱚ: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -165,6 +175,7 @@ about-processes-cpu-fully-idle = ᱜᱟᱹᱰᱤᱭᱟᱹ
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = ᱤᱵᱷᱚᱞᱤᱣᱥᱚᱱ: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

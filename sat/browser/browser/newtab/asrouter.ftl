@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱡᱤᱱᱤᱥ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ᱤᱧ ᱪᱮᱫᱟᱜ ᱱᱚᱣᱟᱧ ᱧᱮᱞᱮᱫᱼᱟ
+
 cfr-doorhanger-extension-cancel-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = ᱱ
+
 cfr-doorhanger-extension-ok-button = ᱱᱤᱛᱚᱜ ᱥᱮᱞᱮᱫ ᱢᱮ
     .accesskey = ᱱ
+
 cfr-doorhanger-extension-manage-settings-button = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = ᱤᱧ ᱫᱚ‌ ᱟᱨ ᱱᱚᱣᱟ ᱵᱟᱛᱟᱣᱟᱜ ᱟᱞᱚᱢ ᱫᱮᱠᱷᱟᱣᱟᱹᱧᱟ
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } ᱞᱮᱠᱷᱟᱛᱮ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ᱵᱟᱛᱟᱣᱟᱜ
 cfr-doorhanger-extension-notification2 = ᱵᱟᱛᱟᱣᱟᱜ
     .tooltiptext = ᱵᱟᱛᱟᱣᱟᱜ ᱯᱟᱥᱱᱟᱣ
     .a11y-announcement = ᱵᱟᱛᱟᱣᱟᱜ ᱯᱟᱥᱱᱟᱣ ᱢᱮᱱᱟᱜᱼᱟ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = ᱵᱟᱛᱟᱣᱟᱜ
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ᱱᱟᱣᱟ ᱵᱟᱹᱰᱜᱟᱹᱜ :
+
 cfr-whatsnew-button =
     .label = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
     .tooltiptext = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
+
 cfr-whatsnew-release-notes-link-text = ᱟᱲᱟᱜ ᱠᱷᱟᱴᱚ ᱢᱮᱱ  ᱠᱚ ᱯᱟᱲᱦᱟᱣ ᱢᱮ
 
 ## Enhanced Tracking Protection Milestones
@@ -111,13 +121,6 @@ cfr-doorhanger-doh-secondary-button = ᱵᱚᱸᱫᱚᱭ
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾ { -brand-short-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱮᱠᱞᱟ ᱜᱮᱭᱟ, ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱛᱮ ᱱᱤᱡᱮ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱜᱮ ᱵᱟᱠᱥ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱮᱠᱚᱨ ᱠᱚ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ, ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱠᱚ, ᱟᱨ ᱮᱴᱟᱜ ᱥᱚᱢᱵᱮᱫᱚᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱠᱩᱢᱵᱲᱩ ᱢᱩᱥᱠᱤᱞ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾
-cfr-doorhanger-fission-header = ᱥᱟᱭᱤᱴ ᱮᱠᱞᱟ ᱨᱮ
-cfr-doorhanger-fission-primary-button = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-    .accesskey = ᱥ
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱨᱮ ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱣᱤᱰᱤᱭᱚ ᱫᱚ ᱵᱟᱭ ᱵᱟᱡᱟᱣᱜᱼᱟ ᱾ ᱯᱩᱨᱟᱹ ᱣᱤᱰᱤᱭᱟ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ, { -brand-short-name } ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾
@@ -126,11 +129,6 @@ cfr-doorhanger-video-support-primary-button = ᱱᱤᱛᱚᱜ ᱟᱹᱯᱰᱮᱴ
     .accesskey = ᱱ
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-    .title = ᱵᱟᱹᱰᱜᱟᱜ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱥᱱᱟᱣ ᱢᱮ
-spotlight-learn-more-expanded = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-    .title = ᱵᱚᱸᱫ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -147,18 +145,6 @@ spotlight-public-wifi-vpn-link = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    ᱟᱞᱮᱭᱟᱜ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ
-    ᱱᱤᱥᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱮᱵᱷᱟᱮ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
-spotlight-total-cookie-protection-body = ᱢᱩᱴ ᱠᱩᱠᱤ ᱯᱨᱚᱴᱮᱠᱥᱚᱱ ᱫᱚ ᱴᱨᱮᱠᱚᱨ ᱠᱚ ᱣᱮᱵᱽ ᱨᱮ ᱟᱢᱟᱜ ᱯᱟᱨᱥᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱠᱷᱚᱱ ᱵᱟᱫᱟᱭ ᱾
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } ᱠᱩᱠᱤ ᱠᱚ ᱥᱟᱸᱣ ᱡᱩᱲᱟᱹᱭ ᱠᱟᱛᱮᱜ ᱢᱤᱫ ᱜᱷᱟᱴ ᱵᱮᱱᱟᱣᱜᱼᱟ, ᱚᱱᱟ ᱠᱚ ᱟᱢᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮᱜᱮ ᱥᱤᱢᱟᱹᱭᱟ, ᱚᱱᱟᱛᱮ ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱟᱢᱟᱜ ᱛᱟᱞᱟ ᱨᱮ ᱵᱟᱝ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱮᱛᱚᱦᱚᱵ ᱥᱮᱴᱮᱨ ᱠᱟᱛᱮ, ᱟᱢ ᱱᱚᱶᱟ ᱥᱟᱯᱲᱟᱣ ᱛᱮ ᱫᱚ ᱱᱟᱯᱟᱭ ᱥᱟᱦᱤᱡ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱣᱮᱵᱽ ᱛᱮᱭᱟᱨ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
-spotlight-total-cookie-protection-primary-button = ᱢᱩᱴ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
-spotlight-total-cookie-protection-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Emotive Continuous Onboarding
 
@@ -188,11 +174,13 @@ spotlight-pin-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 mr2022-background-update-toast-title = ᱱᱟᱶᱟ { -brand-short-name } ᱾ ᱰᱷᱮᱨ ᱯᱨᱟᱭᱣᱮᱴ ᱾ ᱠᱚᱢ ᱴᱨᱟᱠᱚᱨᱥ ᱠᱚ ᱾ ᱪᱮᱫ ᱵᱩᱡᱷᱟᱹᱢᱚᱲᱟ ᱵᱟᱝ ᱜᱮ ᱾
 mr2022-background-update-toast-text = ᱱᱤᱛᱚᱜᱟᱜ ᱱᱟᱶᱟ { -brand-short-name } ᱧᱮᱞ ᱢᱮ, ᱱᱤᱛᱚᱜᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱤᱨᱚᱫᱷ ᱛᱮ ᱩᱛᱷᱱᱟᱹᱣ ᱟᱠᱟᱱᱟ ᱾
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = ᱱᱤᱛᱚᱜ { -brand-shorter-name } ᱡᱷᱤᱡᱽ ᱢᱮ
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -211,6 +199,7 @@ firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ᱛᱮ ᱟᱢ ᱵᱚᱱᱫ
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name } ᱡᱚᱦᱟᱨᱟᱭ ᱢᱮ
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ᱯᱷᱚᱱ ᱨᱮ ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ? ᱱᱤᱛᱚᱜ ᱦᱟᱛᱟᱣ ᱢᱮ ᱾ ᱱᱤᱛᱚᱜ ᱠᱚᱨᱟᱣ ᱠᱟᱛᱮ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱢᱮ ? { -firefoxview-brand-name } ᱵᱚᱦᱟᱞ ᱢᱮ ᱾
 firefoxview-spotlight-promo-primarybutton = ᱧᱮᱞ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱠᱟᱹᱢᱤᱭᱟ
@@ -220,6 +209,7 @@ firefoxview-spotlight-promo-secondarybutton = ᱟᱲᱟᱜ
 
 colorways-cfr-primarybutton = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .accesskey = C
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱥᱟᱶᱛᱮ ᱨᱚᱝ ᱠᱚ ᱮᱢᱟᱱ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 colorways-cfr-header-28days = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱡᱟᱱᱣᱟᱨᱤ 16 ᱨᱮ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
@@ -242,6 +232,7 @@ july-jam-headline = ᱟᱞᱮ ᱟᱯᱮᱭᱟᱜ ᱡᱚᱛᱱᱟ ᱞᱮ ᱤᱫ�
 july-jam-body = ᱪᱟᱸᱫᱚ ᱯᱤᱪᱷᱟᱹ, { -brand-short-name } ᱫᱚ ᱢᱤᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱜᱷᱩᱸᱴ 3,000+ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱯᱟᱧᱡᱟ ᱠᱩᱜ ᱠᱚ ᱵᱟᱫ ᱠᱟᱫ ᱠᱚᱣᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱥᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱪᱚᱴᱠᱟᱨ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱮᱢᱟᱢᱟᱭ ᱾
 july-jam-set-default-primary = { -brand-short-name } ᱥᱟᱶ ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 fox-doodle-pin-headline = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = ᱱᱚᱸᱰᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱠᱟᱛᱷᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱟᱢᱟᱜ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱤᱱᱰᱤ ᱵᱨᱟᱩᱡᱟᱨ ᱢᱤᱫ ᱠᱞᱤᱠ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱫᱚᱦᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾

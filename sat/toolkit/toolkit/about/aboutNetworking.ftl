@@ -34,13 +34,6 @@ about-networking-messages-received = ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱦᱟᱛᱟᱣ�
 about-networking-bytes-sent = ᱵᱟᱤᱴᱥ ᱠᱩᱞᱮᱱᱟ
 about-networking-bytes-received = ᱵᱟᱤᱴᱥ ᱦᱟᱛᱟᱣᱮᱱᱟ
 about-networking-logging = ᱵᱚᱞᱚᱠᱚ
-about-networking-log-tutorial = <a data-l10n-name="logging">HTTP ᱵᱚᱞᱚ</a> ᱪᱮᱫ ᱞᱮᱠᱟ ᱵᱮᱵᱷᱟᱨ ᱦᱩᱭᱩᱜᱼᱟ ᱚᱱᱟ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞ ᱢᱮ ᱾
-about-networking-current-log-file = ᱱᱤᱛᱚᱜᱟᱜ ᱨᱮᱫᱽ ᱞᱚᱜᱽ ᱺ
-about-networking-current-log-modules = ᱱᱤᱛᱚᱜᱟᱜ ᱞᱚᱜᱽ ᱢᱳᱰᱭᱩᱞᱠᱚ ᱺ
-about-networking-set-log-file = ᱞᱚᱜᱽ ᱨᱮᱫᱽ ᱥᱮᱴ ᱢᱮ
-about-networking-set-log-modules = ᱞᱚᱜᱽ ᱢᱳᱰᱭᱩᱞ ᱥᱮᱴ ᱢᱮ
-about-networking-start-logging = ᱵᱚᱞᱚ ᱮᱛᱦᱚᱵ ᱢᱮ
-about-networking-stop-logging = ᱵᱚᱞᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 about-networking-dns-lookup = DNS ᱧᱮᱞᱡᱚᱝ
 about-networking-dns-lookup-button = ᱴᱷᱤᱠᱢᱮ
 about-networking-dns-domain = ᱰᱚᱢᱮᱱ ᱺ

@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = { -relay-brand-name } ᱵᱮᱵᱷᱟᱨ ᱞ�
 firefox-relay-get-unlimited-masks =
     .label = ᱢᱟᱥᱠ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
     .accesskey = M
-firefox-relay-opt-in-title = ᱟᱢᱟᱜ ᱤᱼᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱛᱟᱢ
-firefox-relay-opt-in-subtitle = { -relay-brand-name } ᱥᱮᱞᱮᱫ ᱢᱮ
-firefox-relay-generate-mask-title = ᱟᱢᱟᱜ ᱤᱼᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱛᱟᱢ
-firefox-relay-generate-mask-subtitle = { -relay-brand-short-name } ᱢᱟᱥᱠ ᱛᱮᱭᱟᱨ ᱢᱮ
-firefox-relay-opt-in-confirmation-enable =
-    .label = ᱞᱮᱛᱟᱲ
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = ᱟᱢᱟᱜ ᱤᱼᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱛᱟᱢ ᱺ
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

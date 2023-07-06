@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱠᱚ ᱵᱟᱵᱚᱛ ᱛᱮ
+
 installed-plugins-label = ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱚᱦᱟᱞ ᱮᱱᱟ
 no-plugins-are-installed-label = ᱡᱟᱦᱟᱱ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
+
 deprecation-description = ᱛᱮᱫ ᱠᱚ ᱟᱫᱚᱜ ᱠᱟᱱᱟ ᱥᱮ ? ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱯᱞᱚᱜᱤᱱ ᱨᱮᱭᱟᱜ ᱥᱚᱦᱚᱫ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾<a data-l10n-name="deprecation-link">ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ᱮᱢ 
 state-dd-enabled-block-list-state = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ({ $blockListState }) ᱮᱢ ᱪᱷᱚ ᱮᱱᱟ
 state-dd-Disabled = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ᱵᱚᱸᱫ ᱮᱱᱟ
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ({ $blockListState }) ᱵᱚᱸᱫ ᱪᱷᱚ ᱮᱱᱟ
+
 mime-type-label = MIME ᱞᱮᱠᱟᱱ:
 description-label = ᱵᱤᱵᱨᱚᱬ
 suffixes-label = ᱥᱟᱵᱟᱫ ᱛᱟᱭᱚᱢ ᱥᱮᱞᱮᱫ ᱟᱠᱷᱚᱨ ᱠᱚ᱾
@@ -35,7 +38,9 @@ suffixes-label = ᱥᱟᱵᱟᱫ ᱛᱟᱭᱚᱢ ᱥᱮᱞᱮᱫ ᱟᱠᱷᱚᱨ
 
 plugins-gmp-license-info = ᱞᱟᱭᱥᱮᱸᱱᱥ ᱨᱮᱭᱟᱜ ᱠᱷᱚᱵᱚᱨ
 plugins-gmp-privacy-info = ᱱᱤᱥᱚᱱ ᱠᱷᱚᱵᱚᱨ
+
 plugins-openh264-name = ᱥᱤᱥᱠᱚ ᱥᱮᱥᱴᱮᱢ ,ᱤᱸᱠ ᱫᱟᱨᱭ ᱛᱮ ᱮᱢᱟᱠᱟᱱ H264 ᱵᱤᱰᱤᱭᱚ ᱠᱚᱰᱮᱠ ᱡᱷᱤᱡ ᱢᱮ ᱾
 plugins-openh264-description = WebRTC ᱵᱟᱛᱟᱣᱱᱤᱨᱫᱮᱥ ᱥᱟᱞᱟᱜ ᱢᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱨ WebRTC ᱠᱚᱞ ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱥᱟᱞᱟᱜ ᱮᱢ ᱪᱷᱚ ᱡᱟᱦᱟᱸ H.264 ᱣᱤᱰᱤᱭᱚ ᱠᱳᱰᱮᱠ ᱞᱟᱹᱠᱛᱤ.ᱭᱟᱭ ᱱᱚᱶᱟ ᱯᱞᱚᱜᱤᱱ ᱫᱚ Mozilla ᱟᱡ ᱛᱮ ᱵᱚᱦᱟᱞᱟᱭ ᱾ ᱠᱳᱰᱮᱠ ᱥᱨᱚᱛ ᱵᱚᱵᱛ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ https://www.openh264.org/ ᱪᱟᱞᱟᱜ ᱢᱮ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
+
 plugins-widevine-name = Google Inc ᱮᱢ ᱠᱟᱫ ᱣᱟᱭᱤᱰᱣᱟᱭᱤᱱ ᱠᱚᱱᱴᱮᱱᱴ ᱰᱤᱠᱨᱤᱯᱴ ᱢᱳᱰᱭᱩᱞ ᱾
 plugins-widevine-description = ᱱᱚᱶᱟ ᱯᱞᱚᱜᱤᱱ ᱫᱚ ᱮᱱᱠᱨᱤᱯᱴᱮᱰ ᱢᱤᱰᱤᱭᱟ ᱮᱢ ᱪᱷᱚᱭᱚᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱮᱱᱠᱨᱤᱯᱴ ᱢᱮᱰᱤᱭᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱥᱯᱮᱥᱤᱯᱷᱤᱠᱮᱥᱚᱱ ᱥᱟᱞᱟᱜ ᱡᱚᱲᱟᱣ ᱨᱮ ᱮᱢ ᱪᱷᱚᱭᱚᱭ ᱾ ᱮᱱᱠᱨᱤᱯᱴᱮᱰ ᱢᱤᱰᱤᱭᱟ ᱫᱚ ᱥᱟᱭᱤᱴᱠᱚ ᱯᱨᱤᱢᱤᱭᱚᱢ ᱢᱩᱱᱤᱥ ᱠᱚ ᱱᱚᱠᱚᱞ ᱠᱷᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢᱟᱭ ᱾  ᱮᱱᱠᱨᱤᱯᱴ ᱢᱮᱰᱤᱭᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱵᱮᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱲᱭ ᱞᱟᱹᱜᱤᱫ https://www.w3.org/TR/encrypted-media/ ᱴᱷᱮᱱ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾

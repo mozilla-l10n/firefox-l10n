@@ -9,6 +9,7 @@ about-service-workers-title = ᱵᱷᱟᱹᱞᱟᱹᱭ ᱠᱟᱹᱢᱤᱦᱚᱲ 
 about-service-workers-main-title = ᱥᱚᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱠᱩᱜ ᱧᱩᱛᱩᱢ ᱞᱮᱠᱷᱟ ᱠᱟᱫᱟ ᱠᱚ
 about-service-workers-warning-not-enabled = ᱵᱷᱟᱹᱞᱟᱹᱭ ᱠᱟᱹᱢᱤᱦᱚᱲ ᱵᱟᱝ ᱮᱢ ᱠᱟᱱᱟ ᱾
 about-service-workers-warning-no-service-workers = ᱪᱮᱫ ᱦᱚᱸ ᱵᱷᱟᱹᱞᱟᱹᱭ ᱠᱟᱹᱢᱤᱦᱚᱲ ᱵᱟᱝ ᱧᱩᱛᱩᱢ ᱠᱟᱱᱟ ᱾
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>ᱪᱚᱴᱠᱟᱨ ᱠᱮᱪ ᱧᱩᱛᱩᱢ :</stro
 waiting-cache-name = <strong>ᱛᱟᱹᱝᱜᱤ ᱠᱮᱪ ᱧᱩᱛᱩᱢ :</strong> { $name }
 push-end-point-waiting = <strong>ᱯᱩᱥ ᱮᱱᱰᱯᱚᱭᱮᱱᱴ :</strong> { waiting }
 push-end-point-result = <strong>ᱯᱩᱥ ᱮᱱᱰᱯᱚᱭᱮᱱᱴ :</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
+
 unregister-button = ᱵᱤᱱᱧᱩᱛᱩᱢ
+
 unregister-error = ᱱᱚᱶᱟ ᱥᱟᱹᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱫᱚ ᱵᱤᱱᱧᱩᱛᱩᱢ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾
+
 waiting = ᱛᱟᱹᱝᱜᱤᱜ ᱠᱟᱱᱟ…

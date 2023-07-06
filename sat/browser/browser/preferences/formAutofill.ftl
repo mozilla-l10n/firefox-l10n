@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = ᱴᱷᱤᱠᱬᱟᱹ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱᱟ
 autofill-manage-addresses-list-header = ᱴᱷᱤᱠᱬᱟᱤᱭᱟᱹ
+
 autofill-manage-credit-cards-title = ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱠᱚ
 autofill-manage-credit-cards-list-header = ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ᱚᱪᱚᱜᱽ ᱢᱮ
@@ -21,6 +23,7 @@ autofill-manage-edit-button = ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
 autofill-add-new-address-title = ᱱᱟᱶᱟ ᱴᱷᱤᱠᱬᱟᱹ ᱥᱮᱞᱮᱫ ᱢᱮ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ᱴᱷᱤᱠᱬᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+
 autofill-address-given-name = ᱯᱩᱭᱞᱩ ᱧᱩᱛᱩᱢ
 autofill-address-additional-name = ᱛᱟᱞᱟ ᱧᱩᱛᱩᱢ
 autofill-address-family-name = ᱢᱩᱪᱟᱹᱫ ᱧᱩᱛᱩᱢ
@@ -81,13 +84,16 @@ autofill-address-eircode = ᱤᱭᱮᱨᱠᱳᱰ
 autofill-address-country = ᱫᱤᱥᱚᱢ ᱟᱨᱵᱟᱝ ᱡᱟᱭᱜᱟ
 autofill-address-tel = ᱯᱷᱚᱱ
 autofill-address-email = ᱤᱢᱮᱞ
+
 autofill-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 autofill-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 autofill-country-warning-message = ᱯᱷᱚᱨᱢ ᱟᱡᱛᱮᱯᱮᱨᱮᱡ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱫᱤᱥᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ᱱᱟᱶᱟ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ᱫᱚ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱡᱤᱱᱤᱥ ᱫᱮᱠᱷᱟᱣ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱞᱟᱛᱟᱨ ᱯᱟᱦᱴᱟ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱟᱛᱟ ᱟᱫᱮᱨ ᱴᱷᱟᱹᱣᱠᱟᱹᱭ ᱢᱮ ᱾
        *[other] { -brand-short-name } ᱫᱚ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱡᱤᱱᱤᱥ ᱫᱮᱠᱷᱟᱣ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ ᱾
     }
+
 autofill-card-number = ᱠᱟᱰ ᱮᱞ
 autofill-card-invalid-number = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱷᱤᱠ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱟᱫᱮᱨ ᱢᱮ
 autofill-card-name-on-card = ᱠᱟᱰ ᱨᱮ ᱧᱩᱛᱩᱢ

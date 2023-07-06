@@ -54,6 +54,7 @@ close-tab =
     .title = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 show-addon =
     .title = ᱮᱰ-ᱚᱱ ᱢᱮᱱᱮᱡᱚᱨ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

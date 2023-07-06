@@ -4,6 +4,7 @@
 
 about-reader-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ…
 about-reader-load-error = ᱥᱟᱦᱴᱟ ᱠᱷᱚᱱ ᱚᱱᱚᱞ ᱞᱟᱫᱮ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
+
 about-reader-color-scheme-light = ᱢᱟᱨᱥᱟᱞ
     .title = ᱨᱚᱝ ᱥᱠᱤᱢ ᱢᱟᱨᱥᱟᱞ
 about-reader-color-scheme-dark = ᱧᱩᱛ
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = ᱥᱮᱯᱤᱭᱟ
     .title = ᱨᱚᱝ ᱥᱠᱤᱢ ᱥᱮᱯᱤᱭᱟ
 about-reader-color-scheme-auto = ᱟᱡ ᱛᱮ
     .title = ᱨᱚᱝ ᱥᱠᱤᱢ ᱟᱡ ᱛᱮ
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

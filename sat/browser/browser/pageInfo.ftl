@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = ᱱᱚᱠᱚᱞ
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .accesskey = A
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = ᱥᱟᱫᱷᱟᱨᱚᱱ
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = ᱧᱩᱛᱩᱢ
 general-meta-content =
     .label = ᱡᱤᱱᱤᱥ
+
 media-tab =
     .label = ᱢᱤᱰᱤᱭᱟ
     .accesskey = M
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = ᱞᱮᱠᱟ ᱥᱟᱺᱪᱟᱣ…
     .accesskey = e
+
 perm-tab =
     .label = ᱪᱷᱟᱹᱰ ᱠᱚ
     .accesskey = P
 permissions-for =
     .value = ᱞᱟᱹᱜᱤᱫ ᱪᱷᱟᱰ ᱠᱚ:
+
 security-tab =
     .label = ᱡᱟᱹᱯᱛᱤ
     .accesskey = S
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = ᱨᱮ ᱚᱠᱛᱚ ᱪᱟᱵᱟᱜᱼᱟ :
 security-view-privacy =
     .value = ᱯᱨᱟᱭᱣᱮᱥᱭ ᱟᱨ ᱦᱤᱛᱟᱹᱞ
+
 security-view-privacy-history-value = ᱪᱮᱫ ᱤᱧ ᱱᱚᱣᱟ ᱣᱮᱵᱥᱟᱤᱴ ᱛᱮᱦᱮᱧ ᱠᱷᱚᱱ ᱢᱟᱲᱟᱝ ᱤᱧ ᱧᱮᱞ ᱟᱠᱟᱫ ᱟ ?
 security-view-privacy-sitedata-value = ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱪᱮᱫ ᱤᱧᱟᱜ ᱵᱤᱵᱨᱚᱬ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱫᱚᱦᱚ ᱮᱫᱟᱭ ᱥᱮ ?
+
 security-view-privacy-clearsitedata =
     .label = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
     .accesskey = C
+
 security-view-privacy-passwords-value = ᱪᱮᱫ ᱤᱧ ᱱᱚᱣᱟ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱟᱸ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱸᱪᱟᱣ ᱟᱠᱟᱫ ᱟ ?
+
 security-view-privacy-viewpasswords =
     .label = ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accesskey = w
 security-view-technical =
     .value = ᱴᱮᱠᱱᱤᱠᱟᱹᱞ ᱵᱤᱵᱨᱚᱬ ᱠᱚ
+
 help-button =
     .label = ᱜᱚᱲᱚ
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = ᱦᱚᱭ, ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ { $value }{ $unit }
 security-site-data-only = ᱦᱚᱭ, ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ { $value }{ $unit }
+
 security-site-data-cookies-only = ᱦᱚᱭ, ᱠᱩᱠᱤ ᱠᱚ
 security-site-data-no = ᱵᱟᱝ
 
@@ -139,6 +152,7 @@ media-video = ᱣᱤᱰᱤᱭᱚ
 media-audio = ᱥᱟᱰᱮ ᱟᱧᱡᱚᱢᱟᱜ
 saved-passwords-yes = ᱦᱚᱭ
 saved-passwords-no = ᱵᱟᱝ
+
 no-page-title =
     .value = ᱵᱟᱝ ᱧᱩᱛᱩᱢᱟᱜ ᱥᱟᱦᱴᱟ :
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 security-no-visits = ᱵᱟᱝ
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -164,6 +179,7 @@ general-meta-tags =
             [two] ᱢᱮᱴᱟ ({ $tags } ᱴᱮᱜᱽ ᱠᱤᱱ)
            *[other] ᱢᱮᱴᱟ ({ $tags } ᱴᱮᱜᱽ ᱠᱚ)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -175,6 +191,7 @@ security-visits-number =
         [two] ᱦᱚᱭ, ᱵᱟᱨ ᱡᱮᱠᱷᱟ
        *[other] ᱦᱚᱭ, { $visits } ᱡᱮᱠᱷᱟ
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -186,6 +203,7 @@ properties-general-size =
             [two] { $kb } KB ({ $bytes } byte ᱠᱚ)
            *[other] { $kb } KB ({ $bytes } byte ᱠᱚ)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -198,12 +216,14 @@ media-animated-image-type =
             [two] { $type } ᱪᱤᱛᱟᱹᱨ (ᱮᱱᱤᱢᱮᱴ, { $frames } ᱯᱷᱨᱮᱢ ᱠᱤᱱ)
            *[other] { $type } ᱪᱤᱛᱟᱹᱨ (ᱮᱱᱤᱢᱮᱴ, { $frames } ᱯᱷᱨᱮᱢ ᱠᱚ)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ᱪᱤᱛᱟᱹᱨ
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -213,17 +233,23 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px ᱨᱮ ᱢᱟᱯ ᱠᱟᱱᱟ)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -231,6 +257,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website } ᱠᱷᱚᱱ ᱪᱤᱛᱟᱹᱨ ᱠᱚ ᱟᱴᱠᱟᱣ
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -9,6 +9,7 @@ refresh-profile-dialog-description = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱮᱴᱠᱮᱴ
 refresh-profile = { -brand-short-name } ᱫᱚ ᱴᱭᱩᱱ ᱮᱢᱟᱭ  ᱢᱮ
 refresh-profile-button = { -brand-short-name } ᱛᱟᱡᱟᱭ ᱢᱮ…
 refresh-profile-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
 refresh-profile-progress =
     .title = { -brand-short-name } ᱛᱟᱡᱟᱭ ᱢᱮ
 refresh-profile-progress-description = ᱦᱩᱭᱜᱚᱫ ᱮᱱᱟ ᱱᱟᱦ …

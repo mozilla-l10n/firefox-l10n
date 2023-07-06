@@ -10,5 +10,6 @@ text-recognition-modal-searching-title = ᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱤᱛᱹ�
 text-recognition-modal-results-title = ᱪᱤᱛᱟᱹᱨ ᱠᱷᱚᱱ ᱚᱞ ᱱᱚᱠᱚᱞ ᱮᱱᱟ
 text-recognition-modal-no-results-title = ᱤᱠᱟᱹ, ᱟᱞᱮ ᱚᱞ ᱵᱟᱨᱮ ᱚᱨ ᱚᱰᱚᱠ ᱫᱟᱲᱮᱭᱟᱫᱟ ᱾ ᱮᱴᱟᱜ ᱪᱤᱛᱟᱹᱨ ᱨᱮ ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ <a data-l10n-name="error-link">ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ</a> ᱾
 text-recognition-modal-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = ᱚᱞ ᱚᱨ ᱪᱷᱟᱰᱟᱣ ᱨᱮᱭᱟᱜ ᱛᱮᱞᱟᱠᱚ

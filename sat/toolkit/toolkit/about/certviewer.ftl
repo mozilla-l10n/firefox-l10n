@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = ᱟᱹᱭᱫᱟᱨᱤ ᱵᱤᱵᱨᱚᱬ
 certificate-viewer-certificate-policies = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱹᱨᱤᱠᱚ
 certificate-viewer-embedded-scts = ᱠᱷᱟᱹᱲ ᱠᱟᱱ SCTs
 certificate-viewer-crl-endpoints = CRL ᱢᱩᱪᱟᱹᱫ ᱫᱷᱟᱯ
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ᱰᱟᱩᱱᱞᱚᱰ
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱜᱚᱢᱵᱷᱤᱛ ᱞᱮᱠᱷᱟ ᱛᱮ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱫᱚ ᱠᱞᱟᱭᱮᱱᱴ ᱡᱩᱫᱤ ᱢᱮᱱᱮᱛ ᱵᱟᱭ ᱵᱩᱡᱷᱟᱹᱣ ᱠᱷᱟᱱ ᱫᱚ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾

@@ -132,12 +132,6 @@ about-telemetry-category-header = ᱛᱷᱚᱠ
 about-telemetry-method-header = ᱱᱤᱭᱚᱢ
 about-telemetry-object-header = ᱡᱤᱱᱤᱥ
 about-telemetry-extra-header = ᱵᱟᱹᱲᱛᱤ
-about-telemetry-origin-section = ᱢᱩᱞ ᱴᱮᱞᱤᱢᱮᱴᱨᱭ
-about-telemetry-origin-origin = ᱢᱩᱞ
-about-telemetry-origin-count = ᱦᱤᱥᱟᱹᱵ
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox ᱚᱨᱤᱡᱤᱱ ᱴᱮᱞᱤᱢᱮᱴᱨᱭ</a> ᱫᱚ ᱱᱚᱶᱟ ᱢᱟᱲᱟᱝ ᱰᱟᱴᱟ ᱵᱷᱮᱡᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱰᱟᱴᱟ ᱮᱱᱠᱳᱰᱟᱭ ᱢᱮᱱᱠᱷᱟᱱ { $telemetryServerOwner } ᱫᱚ ᱡᱤᱱᱤᱥ ᱠᱚ ᱦᱤᱥᱟᱹᱵ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ, ᱢᱮᱱᱠᱷᱟᱱ ᱵᱟᱲᱟᱭ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱡᱮ { -brand-product-name } ᱚᱱᱟ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱮᱱᱮᱢ ᱠᱟᱫᱟᱭ ᱥᱮ ᱵᱟᱝᱟ ᱾ (<a data-l10n-name="prio-blog-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>)
 # Variables:
 #  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } ᱠᱟᱹᱢᱤᱦᱚᱨᱟ

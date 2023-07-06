@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-containers-window-new =
-    .title = ᱱᱚᱶᱟ ᱫᱚᱦᱚᱣᱟᱜ ᱥᱚᱞᱮᱫ ᱢᱮ
-    .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update-settings =
-    .title = { $name } ᱫᱚᱦᱚᱣᱟᱜ ᱥᱟᱡᱟᱣᱠᱚ
-    .style = width: 45em
 containers-window-new2 =
     .title = ᱱᱚᱶᱟ ᱫᱚᱦᱚᱣᱟᱜ ᱥᱚᱞᱮᱫ ᱢᱮ
     .style = min-width: 45em
@@ -18,8 +10,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = { $name } ᱫᱚᱦᱚᱣᱟᱜ ᱥᱟᱡᱟᱣᱠᱚ
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = ᱧᱩᱛᱩᱢ
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = ᱡᱟᱸᱦᱟᱸ ᱫᱚᱦᱚᱣᱟᱜ ᱧᱩᱛᱩᱢ ᱢᱤᱫᱴᱟᱹᱝ ᱟᱫᱮᱨ ᱢᱮ
+
 containers-icon-label = ᱪᱤᱱᱦᱟᱹ
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = ᱨᱚᱝ
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = ᱦᱩᱭᱮᱱᱟ
     .buttonaccesskeyaccept = D
+
 containers-color-blue =
     .label = ᱞᱤᱞ
 containers-color-turquoise =
@@ -62,6 +62,7 @@ containers-color-purple =
     .label = ᱱᱟᱥᱮ ᱵᱮᱝᱜᱩᱱ
 containers-color-toolbar =
     .label = ᱢᱮᱲᱟᱣ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱨ
+
 containers-icon-fence =
     .label = ᱡᱷᱟᱹᱱᱴᱤ
 containers-icon-fingerprint =

@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = C
+
 webext-perms-sideload-text = ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮᱟᱜ ᱮᱴᱟᱜ ᱯᱨᱚᱯᱷᱚᱨᱢ ᱢᱤᱫ ᱮᱰ-ᱳᱱ ᱤᱱᱥᱴᱚᱞ ᱟᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱤᱫᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱮᱰᱼᱚᱱ ᱟᱫᱮᱨ ᱱᱮᱦᱚᱨ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱟᱨ ᱮᱢ ᱪᱷᱚ ᱥᱮ ᱵᱟᱹᱰᱨᱟᱹ ᱵᱟᱪᱷᱟᱣ ᱢᱮ (ᱵᱚᱸᱫ ᱟᱲᱟᱜ ᱠᱟᱜ ᱢᱮ) ᱾
 webext-perms-sideload-text-no-perms = ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮᱟᱜ ᱮᱴᱟᱜ ᱯᱨᱚᱯᱷᱚᱨᱢ ᱢᱤᱫ ᱮᱰ-ᱳᱱ ᱤᱱᱥᱴᱚᱞ ᱟᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱤᱫᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾ ᱫᱚᱭᱟᱠᱟᱛᱮ ᱮᱢ ᱪᱷᱚ ᱥᱮ ᱵᱟᱹᱰᱨᱟᱹ ᱵᱟᱪᱷᱟᱣ ᱢᱮ (ᱵᱚᱸᱫ ᱟᱲᱟᱜ ᱠᱟᱜ ᱢᱮ) ᱾
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱩᱭ ᱮᱱᱟ ᱾ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱟᱱ ᱵᱷᱚᱨᱥᱚᱱ ᱵᱟᱦᱟᱞ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱫᱚ ᱱᱟᱶᱟ ᱦᱚᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾ “ᱵᱟᱹᱰᱨᱟᱹ” ᱵᱟᱪᱷᱟᱣ ᱞᱮᱠᱷᱟᱱ ᱫᱚ ᱱᱤᱛᱚᱜᱟᱜ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱷᱚᱨᱥᱚᱱ ᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ ᱾ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱪᱷᱮᱱ ᱦᱚᱠ ᱛᱟᱦᱸᱱᱟ :
 webext-perms-update-accept =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = ᱫᱚᱠᱟᱨ ᱛᱟᱭ :
 webext-perms-optional-perms-allow =
     .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = ᱢᱟᱱᱟ
     .accesskey = D
+
 webext-perms-host-description-all-urls = ᱡᱚᱛᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱟᱹᱛᱩᱨ ᱢᱮ
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ᱰᱚᱢᱮᱱ ᱨᱮ ᱥᱟᱭᱤᱴᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱟᱫᱮᱨ ᱢᱮ
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱟᱫᱮᱨ ᱢᱮ
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

@@ -38,9 +38,11 @@ menu-quit =
             [windows] ᱚ
            *[other] ᱛ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ᱵᱟᱹᱜᱤ ᱢᱮ
+
 menu-about =
     .label = { -brand-shorter-name } ᱵᱟᱵᱚᱛ
     .accesskey = ᱵ
@@ -221,8 +223,6 @@ menu-history-undo-menu =
     .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ
 menu-history-undo-window-menu =
     .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱣᱤᱱᱰᱚ ᱠᱚ
-menu-history-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
-menu-history-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Bookmarks Menu
 
@@ -231,10 +231,6 @@ menu-bookmarks-menu =
     .accesskey = ᱵ
 menu-bookmarks-manage =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
-menu-bookmark-current-tab =
-    .label = ᱵᱩᱠᱢᱟᱨᱠᱱᱤᱛᱚᱜᱟᱜ ᱴᱮᱵᱽ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱜ ᱢᱮ
-menu-bookmark-edit =
-    .label = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 menu-bookmark-tab =
     .label = ᱱᱤᱛᱚᱜᱟᱜ ᱴᱮᱵᱽ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱜ ᱢᱮ…
 menu-edit-bookmark =

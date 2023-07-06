@@ -14,13 +14,6 @@ onboarding-welcome-header = { -brand-short-name } ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱹ�
 onboarding-start-browsing-button-label = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
 onboarding-not-now-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 mr1-onboarding-get-started-primary-button-label = ᱫᱮᱞᱟ ᱮᱛᱦᱚᱵ ᱞᱮᱜᱮ ᱵᱚᱱ
-mr1-onboarding-welcome-header = { -brand-short-name } ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } ᱫᱚ ᱤᱪᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ
-    .title = { -brand-short-name } ᱫᱚ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱥᱮᱴᱟᱭ ᱟᱨ ᱠᱟᱹᱢᱤᱵᱟᱨ ᱨᱮ ᱴᱷᱚᱠᱟᱣᱟᱭ
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } ᱫᱚ ᱤᱧᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ
-mr1-onboarding-set-default-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,50 +38,16 @@ mr1-return-to-amo-add-extension-label = { $addon-name } ᱥᱮᱞᱮᱫ ᱢᱮ
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = ᱮᱛᱚᱦᱚᱵ: { $total } ᱠᱷᱚᱱ { $current } ᱥᱠᱨᱤᱱ
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text =
-    ᱥᱮᱝᱜᱮᱞ ᱫᱚ
-    ᱱᱚᱰᱮ
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = ᱥᱚᱨᱟᱭᱟ ᱳᱥᱚᱨᱤᱭᱚ — ᱯᱷᱚᱨᱱᱮᱪᱚᱨ ᱰᱤᱡᱟᱭᱱᱚᱨ, Firefox ᱠᱩᱥᱤᱤᱭᱟᱹ
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = ᱞᱟᱦᱟ: ᱪᱟᱹᱞ { $total } ᱠᱷᱚᱱ { $current }
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ᱮᱱᱤᱢᱮᱥᱚᱱ ᱠᱚ ᱵᱚᱸᱫ ᱢᱮ
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] ᱟᱞᱜᱟ ᱛᱮ ᱥᱮᱴᱮᱨᱚᱜ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱰᱚᱠ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
-       *[other] ᱟᱞᱜᱟ ᱛᱮ ᱥᱮᱴᱮᱨᱚᱜ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] ᱰᱚᱠ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
-       *[other] ᱠᱟᱹᱢᱤᱵᱟᱨ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -98,44 +57,25 @@ mr1-onboarding-sign-in-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱛᱮᱭᱟᱨ ᱢᱮ
-mr1-onboarding-default-subtitle = ᱚᱴᱚᱯᱟᱭᱞᱚᱴ ᱨᱮ ᱪᱚᱴᱠᱟᱨ, ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱯᱨᱟᱭᱵᱷᱮᱥᱤ ᱫᱤᱦᱚᱭ ᱢᱮ ᱾
-mr1-onboarding-default-primary-button-label = ᱢᱩᱞ ᱵᱽᱨᱟᱩᱡᱚᱨ ᱞᱮᱠᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = ᱟᱢ ᱥᱟᱶ ᱡᱷᱚᱛᱚ ᱟᱹᱜᱩᱭ ᱢᱮ
-mr1-onboarding-import-subtitle = ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, <br/> ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱡᱤᱱᱤᱥ ᱟᱹᱜᱩᱭ ᱢᱮ ᱾
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = ᱢᱟᱲᱟᱝᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
-mr1-onboarding-import-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
-mr2-onboarding-colorway-header = ᱡᱤᱣᱚᱱ ᱨᱚᱝ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ
-mr2-onboarding-colorway-subtitle = ᱱᱟᱣᱟ ᱨᱚᱝ ᱨᱩᱯ ᱛᱮᱭᱟᱨ ᱥᱤᱢᱤᱛ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱦᱮᱸᱱᱟ ᱾
-mr2-onboarding-colorway-primary-button-label = ᱠᱚᱞᱚᱨᱣᱮ ᱥᱮᱧᱪᱟᱣ ᱢᱮ
-mr2-onboarding-colorway-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
-mr2-onboarding-colorway-label-soft = ᱞᱟᱹᱵᱤᱫ
-mr2-onboarding-colorway-label-balanced = ᱵᱚᱨᱟᱵᱚᱨ
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = ᱢᱚᱴᱟ
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = ᱟᱡ ᱛᱮ
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = ᱢᱩᱞ
+
 mr1-onboarding-theme-header = ᱟᱢᱟᱜ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 mr1-onboarding-theme-subtitle = ᱢᱤᱫᱴᱟᱹᱝ ᱛᱷᱤᱢ ᱥᱟᱞᱟᱜ ᱛᱮ { -brand-short-name } ᱥᱟᱡᱟᱣ ᱢᱮ ᱾
-mr1-onboarding-theme-primary-button-label = ᱛᱷᱚᱤᱢ ᱥᱮᱧᱪᱟᱣ ᱢᱮ
 mr1-onboarding-theme-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ᱥᱭᱥᱴᱟᱹᱢ ᱛᱷᱮᱢ
+
 mr1-onboarding-theme-label-light = ᱢᱟᱨᱥᱟᱞ
 mr1-onboarding-theme-label-dark = ᱧᱩᱛ
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = ᱟᱞᱯᱮᱱᱜᱞᱚ
+
 onboarding-theme-primary-button-label = ᱦᱩᱭᱮᱱᱟ
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -148,61 +88,49 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         ᱵᱚᱴᱚᱱ, ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱞᱟᱹᱜᱤᱫ, 
         ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱛᱷᱤᱢ ᱯᱟᱧᱡᱟᱭ ᱢᱮ ᱾
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         ᱵᱚᱴᱚᱱ, ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱞᱟᱹᱜᱤᱫ, 
         ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱛᱷᱤᱢ ᱯᱟᱧᱡᱟᱭ ᱢᱮ ᱾
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱞᱟᱭᱤᱴ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
         ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱞᱟᱭᱤᱴ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
         ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
         ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
         ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱰᱟᱭᱱᱟᱢᱤᱠ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
         ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         ᱵᱚᱴᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱰᱟᱭᱱᱟᱢᱤᱠ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ,
         ᱢᱮᱱᱩ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱾
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = ᱱᱚᱶᱟ ᱠᱚᱞᱚᱨᱣᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = ᱱᱚᱶᱟ ᱠᱚᱞᱚᱨᱣᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = { $colorwayName } ᱨᱚᱝᱰᱟᱦᱟᱨ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = { $colorwayName } ᱨᱚᱝᱰᱟᱦᱟᱨ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = ᱢᱩᱞ ᱛᱷᱤᱢ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = ᱢᱩᱞ ᱛᱷᱤᱢ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
 
@@ -230,13 +158,18 @@ mr2-onboarding-start-browsing-button-label = ᱯᱟᱱᱛᱮᱭᱟᱜ ᱮᱦᱚ�
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱛᱟᱢ
+
 mr2022-onboarding-live-language-text = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱨᱚᱲᱟᱭ
+
 mr2022-language-mismatch-subtitle = ᱟᱵᱚᱣᱟᱜ ᱜᱟᱶᱛᱟ ᱠᱷᱟᱹᱛᱤᱨ, { -brand-short-name } ᱫᱚ 90 ᱜᱚᱴᱟᱝ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱟᱠᱟᱱᱟ ᱾ ᱟᱢᱟᱜ ᱥᱤᱥᱴᱮᱢ { $systemLanguage } ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ, ᱟᱨ { -brand-short-name } ᱫᱚ { $appLanguage } ᱵᱮᱵᱷᱟᱨᱮᱫᱟᱭ ᱾
+
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠ ᱰᱟᱩᱱᱞᱳᱰᱚᱜ ᱠᱟᱱᱟ …
 onboarding-live-language-waiting-button = ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ …
 onboarding-live-language-installing = { $negotiatedLanguage } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠᱮᱴ ᱵᱚᱦᱟᱞᱚᱜ ᱠᱟᱱᱟ …
+
 mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } ᱛᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
 mr2022-onboarding-live-language-continue-in = { $appLanguage } ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
+
 onboarding-live-language-secondary-cancel-download = ᱵᱟᱹᱰᱨᱟᱹ
 onboarding-live-language-skip-button-label = ᱟᱲᱟᱜ
 
@@ -259,12 +192,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] ᱰᱚᱠ ᱨᱮ { -brand-short-name } ᱫᱚᱦᱚᱭ ᱢᱮ
        *[other] ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
     }
+
 fx100-upgrade-thanks-header = 100 ᱥᱟᱨᱦᱟᱣ ᱠᱚ
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = ᱱᱚᱶᱟ ᱫᱚ { -brand-short-name } ᱨᱮᱭᱟᱜ 100th ᱮᱞ ᱠᱟᱱᱟ ᱾ ᱱᱟᱯᱟᱭ, ᱱᱟᱯᱟᱭ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱵᱮᱱᱟᱣ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱟᱞᱚ ᱠᱚ ᱛᱚᱨᱡᱚᱢᱟ ᱾
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = ᱱᱚᱶᱟ ᱫᱚ ᱑᱐᱐ ᱟᱱᱟᱜ ᱨᱤᱞᱤᱡᱽ ᱠᱟᱱᱟ! ᱟᱵᱚᱣᱟᱜ ᱥᱟᱶᱛᱟ ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ ᱾ { -brand-short-name } ᱢᱤᱫ ᱠᱞᱤᱠ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱑᱐᱐ ᱞᱟᱹᱜᱤᱫ ᱫᱚᱦᱚ ᱢᱮ
+
 mr2022-onboarding-secondary-skip-button-label = ᱱᱚᱶᱟ ᱪᱚᱨᱚᱬ ᱟᱲᱟᱜ ᱠᱟᱜ ᱢᱮ
 
 ## MR2022 New User Easy Setup screen strings
@@ -341,30 +276,37 @@ mr2022-onboarding-colorway-title = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱨᱚᱝ ᱵᱟᱪ
 mr2022-onboarding-colorway-subtitle = ᱥᱟᱫᱷᱤᱱ ᱨᱚᱲ ᱫᱚ ᱟᱹᱨᱤᱪᱟᱹᱞᱤ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 mr2022-onboarding-colorway-primary-button-label-continue = ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱞᱟᱦᱟᱜ ᱢᱮ
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ᱫᱚ ᱟᱢᱟᱜ ᱨᱚᱝᱜᱤᱱ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
+
 mr2022-onboarding-colorway-label-default = ᱢᱩᱞ
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = ᱱᱤᱛᱚᱜᱟᱜ { -brand-short-name } ᱨᱚᱝᱠᱚ
 mr2022-onboarding-colorway-description-default = <b> ᱱᱤᱛᱚᱜᱟᱜ { -brand-short-name } ᱨᱚᱝᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾</b>
+
 mr2022-onboarding-colorway-label-playmaker = ᱯᱞᱮᱢᱮᱠᱚᱨ
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = ᱯᱞᱮᱢᱮᱠᱚᱨ (ᱟᱨᱟᱜ)
 mr2022-onboarding-colorway-description-playmaker = <b>ᱟᱢ ᱫᱚ ᱪᱟᱹᱞᱩᱭᱟ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱛᱟᱹᱣ ᱫᱟᱣ ᱮᱢ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱠᱷᱮᱞ ᱨᱮᱭᱟᱜ ᱩᱱᱚᱛ ᱟᱢ ᱥᱩᱨ ᱨᱤᱱ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱜᱚᱲᱚ ᱮᱢ ᱟᱭ  ᱾
+
 mr2022-onboarding-colorway-label-expressionist = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ (ᱥᱟᱥᱟᱝ)
 mr2022-onboarding-colorway-description-expressionist = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱪᱤᱛᱟᱹᱨᱤᱭᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱮᱜᱮ ᱮᱴᱟᱜ ᱞᱮᱠᱷᱟᱢ ᱧᱮᱞ ᱮᱫᱟ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱵᱷᱟᱵᱱᱟ ᱜᱷᱟᱱᱴᱟᱭᱟᱭ ᱾
+
 mr2022-onboarding-colorway-label-visionary = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ (ᱦᱟᱹᱨᱤᱭᱟᱹᱲ)
 mr2022-onboarding-colorway-description-visionary = <b>ᱟᱢ ᱫᱚ ᱠᱩᱠᱢᱩᱡᱤᱞᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱥᱴᱟᱴᱚᱥ ᱠᱣᱚ ᱠᱩᱠᱢᱩᱤᱭᱟᱹ ᱟᱨ ᱮᱴᱟᱜ ᱦᱚᱲ ᱵᱮᱥ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱩᱭᱦᱟᱹᱨ ᱫᱟᱲᱟᱭᱟᱜᱼᱟᱜ ᱠᱚ ᱾
+
 mr2022-onboarding-colorway-label-activist = ᱠᱟᱹᱢᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = ᱠᱟᱹᱢᱤᱭᱟᱹ (ᱞᱤᱞ)
 mr2022-onboarding-colorway-description-activist = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱟᱨᱭᱚᱠᱚᱨᱛᱟ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱮᱜᱮᱛ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱮᱥ ᱡᱟᱭᱜᱟ ᱟᱲᱟᱜᱮ ᱠᱟᱱᱟᱢ ᱟᱨ ᱮᱴᱟᱜ ᱦᱚᱲ ᱚᱱᱟ ᱛᱮ ᱠᱚ ᱯᱟᱹᱛᱤᱭᱟᱣᱜᱼᱟ ᱾
+
 mr2022-onboarding-colorway-label-dreamer = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ (ᱵᱮᱝᱜᱩᱱᱤ)
 mr2022-onboarding-colorway-description-dreamer = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱩᱠᱢᱩᱤᱭᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱵᱤᱥᱣᱟᱥ ᱟᱢ ᱡᱮ ᱵᱷᱟᱜᱭᱚ ᱫᱚ ᱴᱷᱤᱠ ᱦᱚᱲ ᱠᱚ ᱥᱟᱶ ᱛᱟᱦᱮᱸᱱᱮᱭ ᱟᱨ ᱮᱴᱟᱜ ᱦᱚᱲ ᱫᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱩᱠᱥᱟᱹᱣ ᱠᱚᱣᱟᱭ
+
 mr2022-onboarding-colorway-label-innovator = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ (ᱥᱟᱱᱛᱨᱟ)

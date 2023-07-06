@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong> ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱵᱷᱟᱜᱽ ᱫᱚ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ </strong> { -brand-product-name } ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱨ ᱞᱚᱜᱚᱱ ᱴᱷᱤᱠ ᱫᱟᱲᱮ ᱞᱟᱹᱜᱤᱫ, ᱫᱟᱭᱟᱠᱟᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱭ ᱯᱮ ᱾
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

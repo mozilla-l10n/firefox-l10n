@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱜ ᱠᱟᱱᱟ
+
 appmenuitem-banner-update-available =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱱᱤᱛᱚᱜ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
+
 appmenuitem-banner-update-manual =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱱᱤᱛᱚᱜ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
+
 appmenuitem-banner-update-unsupported =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱵᱟᱭ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ — ᱥᱭᱥᱴᱚᱢ ᱨᱮ ᱵᱟᱭ ᱪᱟᱹᱞᱩᱜᱼᱟ
+
 appmenuitem-banner-update-restart =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵᱽ ᱢᱮ
+
 appmenuitem-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 appmenuitem-new-window =
@@ -53,6 +58,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = ᱟᱹᱨᱡᱤ ᱥᱟᱠᱟᱢ ᱢᱮᱱᱩ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,23 +79,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ…
 appmenu-remote-tabs-turn-on-sync =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = ᱟᱨᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ᱠᱷᱩᱞᱟᱹᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱮᱵᱽ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵᱽ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱚᱱ ᱛᱟᱢ ᱾
+
 appmenu-remote-tabs-opensettings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ᱟᱢᱟᱠ ᱴᱮᱵᱽ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱱᱚᱸᱱᱰᱮ ᱧᱮᱞ ᱪᱷᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟᱢ ᱥᱮ?
+
 appmenu-remote-tabs-connectdevice =
     .label = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ
 appmenu-remote-tabs-welcome = ᱟᱢᱟᱜ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾
 appmenu-remote-tabs-unverified = ᱟᱢᱟᱠ ᱠᱷᱟᱛᱟ ᱧᱮᱞ ᱢᱤᱞᱟᱹᱣ ᱞᱟᱹᱜᱛᱤ-ᱟ ᱾
+
 appmenuitem-fxa-toolbar-sync-now2 = ᱱᱤᱛᱚᱜ ᱥᱤᱸᱝᱠ ᱢᱮ
 appmenuitem-fxa-sign-in = { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 appmenuitem-fxa-manage-account = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
@@ -103,12 +116,14 @@ appmenu-fxa-sync-and-save-data2 = ᱥᱭᱝᱠ ᱟᱨ ᱰᱟᱴᱟ ᱥᱟᱺᱪ�
 appmenu-fxa-signed-in-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 appmenu-fxa-setup-sync =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
+
 appmenuitem-save-page =
     .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,39 +137,52 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = ᱢᱚᱦᱲᱟ
     .tooltiptext = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱜ ᱦᱚᱦᱲᱟ ᱨᱮᱠᱚᱰ ᱢᱮ
+
 profiler-popup-button-recording =
     .label = ᱢᱚᱦᱲᱟᱤᱭᱟᱹ
     .tooltiptext = ᱢᱚᱦᱲᱟᱤᱭᱟᱹ ᱫᱚ ᱢᱚᱦᱲᱟ ᱨᱮᱠᱚᱰ ᱮᱫᱟᱭ
+
 profiler-popup-button-capturing =
     .label = ᱢᱚᱦᱲᱟᱤᱭᱟᱹ
     .tooltiptext = ᱢᱚᱦᱲᱟᱤᱭᱟᱹ ᱫᱚ ᱢᱚᱦᱲᱟ ᱤᱫᱤᱮᱫᱟᱭ
-profiler-popup-title =
-    .value = { -profiler-brand-name }
+
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = ᱟᱨᱦᱚᱸ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱛᱟᱣ ᱪᱷᱚ
+
 profiler-popup-description-title =
     .value = ᱨᱮᱠᱳᱰ, ᱟᱱᱟᱞᱟᱭᱤᱡᱽ, ᱦᱟᱹᱴᱤᱧ
+
 profiler-popup-description = ᱢᱚᱦᱲᱟ ᱠᱚ ᱯᱟᱨᱥᱟᱞ ᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱫᱳᱞ ᱠᱚ‌ ᱥᱟᱶ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱡᱚᱴᱟᱣ ᱛᱮ ᱠᱟᱹᱢᱤ ᱢᱮ ᱾
+
 profiler-popup-learn-more-button =
     .label = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
 profiler-popup-settings =
     .value = ᱥᱟᱡᱟᱣ ᱠᱚ
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
+
 profiler-popup-recording-screen = ᱨᱮᱠᱚᱰᱤᱝᱚᱜ ᱠᱟᱱᱟ…
+
 profiler-popup-start-recording-button =
     .label = ᱨᱮᱠᱚᱰᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
+
 profiler-popup-discard-button =
     .label = ᱵᱟᱹᱨᱜᱤᱞ
+
 profiler-popup-capture-button =
     .label = ᱠᱮᱯᱪᱚᱨ
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -177,22 +205,28 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = ᱠᱚᱢ ᱚᱣᱟᱹᱨᱞᱳᱰ ᱥᱟᱶ ᱣᱮᱵᱽ ᱰᱮᱵᱚᱜᱤᱝ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱛᱟᱣᱟᱜ ᱾
 profiler-popup-presets-web-developer-label =
     .label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
+
 profiler-popup-presets-firefox-description = { -brand-shorter-name } ᱢᱚᱦᱲᱟᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱨᱩᱲ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = { -brand-shorter-name } ᱨᱮ ᱧᱮᱧᱮᱞᱤᱭᱟᱹ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-graphics-label =
     .label = ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ
+
 profiler-popup-presets-media-description2 = { -brand-shorter-name } ᱨᱮ ᱥᱟᱰᱮ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-media-label =
     .label = ᱢᱤᱰᱤᱭᱟ
+
 profiler-popup-presets-networking-description = { -brand-shorter-name } ᱨᱮ ᱱᱮᱴᱣᱟᱨᱠᱤᱝ ᱵᱟᱵᱚᱛ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-networking-label =
     .label = ᱱᱮᱴᱣᱟᱨᱠᱤᱝ
+
 profiler-popup-presets-power-description = ᱠᱚᱢ ᱚᱵᱷᱚᱨᱞᱚᱰ ᱥᱟᱶᱛᱮ, { -brand-shorter-name } ᱨᱮ ᱯᱟᱣᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱰᱤᱜᱟᱹᱣ ᱡᱟᱸᱪ ᱯᱚᱲᱛᱟᱞ ᱨᱟᱭᱟᱜ ᱦᱟᱡᱚᱨ ᱾
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ᱞᱟᱹᱭᱤᱱ
+
 profiler-popup-presets-custom-label =
     .label = ᱠᱩᱥᱤᱭᱟᱜ
 
@@ -200,8 +234,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = ᱦᱤᱛᱟᱹᱞ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
-appmenu-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
-appmenu-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 appmenu-restore-session =
     .label = ᱢᱟᱲᱟᱝᱟᱜ ᱠᱟᱹᱢᱤ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ
 appmenu-clear-history =
@@ -260,6 +292,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ᱴᱩᱞᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
+
 appmenu-developer-tools-subheader = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
 appmenu-developer-tools-extensions =
     .label = ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱥᱱᱟᱣ ᱠᱚ
