@@ -23,5 +23,7 @@ state-header = राज्य
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = तपशील
+
 update-installed-on = यावेळी प्रतिष्ठापित केले: { $date }
+
 update-status = स्थिती: { $status }

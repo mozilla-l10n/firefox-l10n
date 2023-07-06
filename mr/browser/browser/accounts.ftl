@@ -5,6 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = खाते प्रस्थापन संपवा
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = सगळ्या उपकरणांना पाठवा
 
@@ -23,8 +24,10 @@ account-send-to-all-devices-titlecase = सगळ्या उपकरणां
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = कोणतेही साधन जोडलेले नाही
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = टॅब पाठवण्याबद्दल जाणून घ्या…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = अन्य उपकरण जोडा…
 
@@ -39,10 +42,13 @@ account-send-tab-to-device-verify = आपले खाते प्रमाण
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = हा संगणक आता { $deviceName } सह कनेक्ट झाला आहे.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = हा संगणक आता नवीन उपकरणाशी जोडला गेला आहे.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = आपण यशस्वीरित्या साइन इन केले आहे
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = हा संगणकाची जोडणी तोडली आहे.
 
@@ -54,6 +60,7 @@ account-single-tab-arriving-title = टॅब प्राप्त
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } वरील टॅब
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -66,6 +73,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = टॅब प्राप्त
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

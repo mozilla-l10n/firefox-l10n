@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] बाहेर पडु नका
        *[other] बाहेर पडु नका
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] आता ऑफलाईन जात असल्यास, 1 डाउनलोड रद्द केले जाईल. आपणास नक्की ऑफलाईन जायचे?
        *[other] ऑफलाईन जात असल्यास, { $downloadsCount } डाउनलोड रद्द केले जाईल. आपणास नक्की ऑफलाईन जायचे?
     }
 download-ui-dont-go-offline-button = ऑनलाईन रहा
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] सर्व खाजगी ब्राउझिंग पटलांना बंद केल्यास, 1 डाउनलोड रद्द केले जाईल. आपणास नक्की खाजगी ब्राउझिंग मोडमधून बाहेर पडायचे आहे?
        *[other] सर्व वैयक्तिक ब्राउझिंग पटलांना बंद केल्यास, { $downloadsCount } डाउनलोड्स रद्द केले जातील. आपणास नक्की वैयक्तिक ब्राउझिंग मोडमधून बाहेर पडायचे आहे?
     }
 download-ui-dont-leave-private-browsing-button = व्यक्तिगत संचारन पद्धती कार्यान्वीत राहू द्या
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 डाउनलोड रद्द करा

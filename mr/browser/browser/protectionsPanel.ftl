@@ -87,3 +87,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = रद्द करा
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = अहवाल पाठवा
+
+# Cookie Banner Handling
+

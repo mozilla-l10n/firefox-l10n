@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = जतन करा
 pocket-panel-saved-saving-tags = जतन करत आहे...
 pocket-panel-saved-suggested-tags = सूचविलेले टॅग
 pocket-panel-saved-tags-saved = टॅग जोडले
-pocket-panel-signup-view-list = यादी पहा
 
 ## about:pocket-signup panel
 

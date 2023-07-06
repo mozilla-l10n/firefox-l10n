@@ -115,5 +115,3 @@ about-telemetry-category-header = श्रेणी
 about-telemetry-method-header = पद्धत
 about-telemetry-object-header = घटक
 about-telemetry-extra-header = अधिक
-about-telemetry-origin-origin = स्त्रोत
-about-telemetry-origin-count = गणना

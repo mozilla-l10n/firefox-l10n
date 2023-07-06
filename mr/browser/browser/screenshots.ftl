@@ -38,3 +38,4 @@ screenshots-private-window-error-details = गैरसोयीबद्दल 
 
 screenshots-generic-error-title = ओहो! { -screenshots-brand-name } अस्ताव्यस्त झाले.
 screenshots-generic-error-details = काय घडले याची आम्हाला खात्री नाही. पुन्हा प्रयत्न करा किंवा भिन्न पृष्ठाचा शॉट घ्या?
+

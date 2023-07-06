@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = उघडा
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = नवीन टॅबमध्ये उघडा
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = दुव्याला नवीन पटलात उघडा
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = नवीन खाजगी पटलात दुवा उघडा
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = या पृष्ठास वाचनखूण लावा…
-    .accesskey = B
 
 ##
 
