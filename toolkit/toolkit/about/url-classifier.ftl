@@ -50,5 +50,9 @@ url-classifier-disabled = ปิดใช้งานอยู่
 url-classifier-updating = กำลังอัปเดต
 url-classifier-cannot-update = ไม่สามารถอัปเดต
 url-classifier-success = สำเร็จ
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = ข้อผิดพลาดการอัปเดต ({ $error })
 url-classifier-download-error = ข้อผิดพลาดการดาวน์โหลด ({ $error })

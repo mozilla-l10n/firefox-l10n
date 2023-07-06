@@ -15,15 +15,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
 about-logging-title = เกี่ยวกับการบันทึก
 about-logging-page-title = ตัวจัดการการบันทึก
 about-logging-current-log-file = ไฟล์รายการบันทึกปัจจุบัน:
-about-logging-current-log-modules = โมดูลรายการบันทึกปัจจุบัน:
 about-logging-new-log-file = ไฟล์บันทึกใหม่:
 about-logging-currently-enabled-log-modules = โมดูลบันทึกที่เปิดใช้งานในขณะนี้:
 about-logging-log-tutorial = ดู<a data-l10n-name="logging">การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้
@@ -53,6 +50,7 @@ about-logging-preset-media-playback-label = การเล่นสื่อ
 about-logging-preset-media-playback-description = โมดูลรายการบันทึกที่จะใช้วินิจฉัยปัญหาการเล่นสื่อ (ไม่ใช่ปัญหาการประชุมทางวิดีโอ)
 about-logging-preset-custom-label = กำหนดเอง
 about-logging-preset-custom-description = โมดูลรายการบันทึกที่เลือกด้วยตนเอง
+
 # Error handling
 about-logging-error = ข้อผิดพลาด:
 
@@ -66,4 +64,5 @@ about-logging-unknown-profiler-preset = ไม่รู้จักค่าท�
 about-logging-unknown-option = ไม่รู้จักตัวเลือก about:logging “{ $k }“
 about-logging-configuration-url-ignored = เพิกเฉย URL การกำหนดค่าแล้ว
 about-logging-file-and-profiler-override = ไม่สามารถบังคับให้ส่งออกไฟล์และแทนที่ตัวเลือกตัวสร้างโปรไฟล์พร้อมกันได้
+
 about-logging-configured-via-url = ตัวเลือกที่กำหนดค่าผ่าน URL

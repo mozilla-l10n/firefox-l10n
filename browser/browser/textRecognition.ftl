@@ -10,5 +10,6 @@ text-recognition-modal-searching-title = กำลังค้นหาข้อ
 text-recognition-modal-results-title = ข้อความที่คัดลอกมาจากภาพ
 text-recognition-modal-no-results-title = ขออภัย เราไม่สามารถแยกข้อความใดๆ ลองใช้ภาพอื่น <a data-l10n-name="error-link">เรียนรู้เพิ่มเติม</a>
 text-recognition-modal-close-button = ปิด
+
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = ผลลัพธ์สำหรับการแยกข้อความ

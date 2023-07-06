@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = คัดลอก
     .accesskey = ค
+
 select-all =
     .key = A
 menu-select-all =
     .label = เลือกทั้งหมด
     .accesskey = ล
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = ทั่วไป
     .accesskey = ท
@@ -39,6 +43,7 @@ general-meta-name =
     .label = ชื่อ
 general-meta-content =
     .label = เนื้อหา
+
 media-tab =
     .label = สื่อ
     .accesskey = ส
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = บันทึกเป็น…
     .accesskey = บ
+
 perm-tab =
     .label = สิทธิอนุญาต
     .accesskey = ส
 permissions-for =
     .value = สิทธิอนุญาตสำหรับ:
+
 security-tab =
     .label = ความปลอดภัย
     .accesskey = ค
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = หมดอายุเมื่อ:
 security-view-privacy =
     .value = ความเป็นส่วนตัวและประวัติ
+
 security-view-privacy-history-value = ฉันเคยเยี่ยมชมเว็บไซต์นี้ก่อนหน้าวันนี้หรือไม่?
 security-view-privacy-sitedata-value = เว็บไซต์นี้จัดเก็บข้อมูลลงในคอมพิวเตอร์ของฉันหรือไม่?
+
 security-view-privacy-clearsitedata =
     .label = ล้างคุกกี้และข้อมูลไซต์
     .accesskey = ล
+
 security-view-privacy-passwords-value = ฉันเคยบันทึกรหัสผ่านใด ๆ สำหรับเว็บไซต์นี้หรือไม่?
+
 security-view-privacy-viewpasswords =
     .label = ดูรหัสผ่านที่บันทึกไว้
     .accesskey = ร
 security-view-technical =
     .value = รายละเอียดทางเทคนิค
+
 help-button =
     .label = ช่วยเหลือ
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = ใช่, คุกกี้และข้อมูลไซต์ { $value } { $unit }
 security-site-data-only = ใช่, ข้อมูลไซต์ { $value } { $unit }
+
 security-site-data-cookies-only = ใช่, คุกกี้
 security-site-data-no = ไม่
 
@@ -139,6 +152,7 @@ media-video = วิดีโอ
 media-audio = เสียง
 saved-passwords-yes = ใช่
 saved-passwords-no = ไม่
+
 no-page-title =
     .value = หน้าไม่มีชื่อ:
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ใช้ค่าเริ่มต้น
 security-no-visits = ไม่
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -162,6 +177,7 @@ general-meta-tags =
         { $tags ->
            *[other] Meta ({ $tags } แท็ก)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -171,6 +187,7 @@ security-visits-number =
         [0] ไม่
        *[other] ใช่, { $visits } ครั้ง
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -180,6 +197,7 @@ properties-general-size =
         { $bytes ->
            *[other] { $kb } KB ({ $bytes } ไบต์)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -190,12 +208,14 @@ media-animated-image-type =
         { $frames ->
            *[other] ภาพ { $type } (เคลื่อนไหว { $frames } เฟรม)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = ภาพ { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -205,17 +225,23 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (ปรับขนาดเป็น { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -223,6 +249,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = ปิดกั้นภาพจาก { $website }
     .accesskey = ป
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

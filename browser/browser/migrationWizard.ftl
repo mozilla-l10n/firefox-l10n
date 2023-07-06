@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = นำเข้าข้อมูลเบราว์เซอร์
 migration-wizard-selection-list = เลือกข้อมูลที่คุณต้องการนำเข้า
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = เลือกข้อมูลที่ค�
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,21 +55,26 @@ migration-selected-data-label = นำเข้าข้อมูลที่เ
 
 migration-select-all-option-label = เลือกทั้งหมด
 migration-bookmarks-option-label = ที่คั่นหน้า
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = รายการโปรด
+
 migration-logins-and-passwords-option-label = การเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
 migration-history-option-label = ประวัติการเรียกดู
 migration-form-autofill-option-label = ข้อมูลกรอกแบบฟอร์มอัตโนมัติ
 migration-payment-methods-option-label = วิธีการชำระเงิน
+
 migration-cookies-option-label = คุกกี้
 migration-session-option-label = หน้าต่างและแท็บ
 migration-otherdata-option-label = ข้อมูลอื่น ๆ
+
 migration-passwords-from-file-progress-header = นำเข้าไฟล์รหัสผ่าน
 migration-passwords-from-file-success-header = นำเข้ารหัสผ่านสำเร็จแล้ว
 migration-passwords-from-file = กำลังตรวจสอบหารหัสผ่านในไฟล์
 migration-passwords-new = รหัสผ่านใหม่
 migration-passwords-updated = รหัสผ่านที่มีอยู่
+
 migration-passwords-from-file-picker-title = นำเข้าไฟล์รหัสผ่าน
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -83,6 +90,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] เอกสาร TSV
        *[other] ไฟล์ TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -93,6 +101,7 @@ migration-wizard-progress-success-new-passwords =
         [one] เพิ่มแล้ว { $newEntries }
        *[other] เพิ่มแล้ว { $newEntries }
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -103,19 +112,23 @@ migration-wizard-progress-success-updated-passwords =
         [one] ปรับปรุงแล้ว { $updatedEntries }
        *[other] ปรับปรุงแล้ว { $updatedEntries }
     }
+
 migration-bookmarks-from-file-picker-title = นำเข้าไฟล์ที่คั่นหน้า
 migration-bookmarks-from-file-progress-header = นำเข้าที่คั่นหน้า
 migration-bookmarks-from-file = ที่คั่นหน้า
 migration-bookmarks-from-file-success-header = นำเข้าที่คั่นหน้าสำเร็จแล้ว
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = ไฟล์ JSON
+
 migration-import-button-label = นำเข้า
 migration-choose-to-import-from-file-button-label = นำเข้าจากไฟล์
 migration-import-from-file-button-label = เลือกไฟล์
 migration-cancel-button-label = ยกเลิก
 migration-done-button-label = เสร็จสิ้น
 migration-continue-button-label = ดำเนินการต่อ
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ไม่พบโปรแกรมใดที่มีข้อมูลที่คั่นหน้า ประวัติ หรือรหัสผ่าน
 migration-wizard-import-browser-no-resources = มีข้อผิดพลาดเกิดขึ้น { -brand-short-name } ไม่พบข้อมูลใดที่จะนำเข้าจากโปรไฟล์เบราว์เซอร์นั้นได้เลย
 
@@ -126,6 +139,7 @@ migration-wizard-import-browser-no-resources = มีข้อผิดพลา
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = ที่คั่นหน้า
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = รายการโปรด
@@ -142,6 +156,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = กำลังนำเข้า…
 migration-wizard-progress-icon-completed =
     .aria-label = เสร็จสมบูรณ์
+
 migration-safari-password-import-header = นำเข้ารหัสผ่านจาก Safari
 migration-safari-password-import-steps-header = หากต้องการนำเข้ารหัสผ่านจาก Safari:
 migration-safari-password-import-step1 = ใน Safari ให้เปิดเมนู “Safari” แล้วไปที่ การตั้งค่า > รหัสผ่าน
@@ -150,6 +165,8 @@ migration-safari-password-import-step3 = บันทึกไฟล์รหั
 migration-safari-password-import-step4 = ใช้ “เลือกไฟล์” ด้านล่างเพื่อเลือกไฟล์รหัสผ่านที่คุณได้บันทึกไว้
 migration-safari-password-import-skip-button = ข้าม
 migration-safari-password-import-select-button = เลือกไฟล์
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -160,6 +177,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } ที่คั่นหน้า
        *[other] { $quantity } ที่คั่นหน้า
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -172,6 +190,13 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } รายการโปรด
        *[other] { $quantity } รายการโปรด
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -182,6 +207,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } รหัสผ่าน
        *[other] { $quantity } รหัสผ่าน
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -192,7 +218,9 @@ migration-wizard-progress-success-history =
         [one] จากวันก่อน
        *[other] จาก { $maxAgeInDays } วันก่อน
     }
+
 migration-wizard-progress-success-formdata = ประวัติแบบฟอร์ม
+
 migration-wizard-safari-permissions-sub-header = หากต้องการนำเข้าที่คั่นหน้าและประวัติการเรียกดูจาก Safari:
 migration-wizard-safari-instructions-continue = ให้เลือก “ดำเนินการต่อ”
 migration-wizard-safari-instructions-folder = เลือกโฟลเดอร์ Safari จากในรายการ แล้วเลือก “เปิด”

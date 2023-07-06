@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = แปลหน้านี้
+
 translations-panel-settings-button =
     .aria-label = จัดการการตั้งค่าการแปล
 
@@ -23,10 +24,12 @@ translations-panel-translate-button-loading =
     .label = โปรดรอ…
 translations-panel-translate-cancel =
     .label = ยกเลิก
+
 translations-panel-error-translating = เกิดปัญหาในการแปล โปรดลองอีกครั้ง
 translations-panel-error-load-languages = ไม่สามารถโหลดภาษา
 translations-panel-error-load-languages-hint-button =
     .label = ลองอีกครั้ง
+
 translations-panel-error-unsupported = ไม่มีการแปลสำหรับหน้านี้
 translations-panel-error-dismiss-button =
     .label = เข้าใจแล้ว
@@ -53,3 +56,4 @@ translations-manage-header = การแปล
 translations-manage-all-language = ภาษาทั้งหมด
 translations-manage-download-button = ดาวน์โหลด
 translations-manage-delete-button = ลบ
+

@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = ตัวช่วยนำเข้า
+
 import-from =
     { PLATFORM() ->
         [windows] นำเข้าตัวเลือก, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลอื่น ๆ จาก:
        *[other] นำเข้าการกำหนดลักษณะ, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลอื่น ๆ จาก:
     }
+
 import-from-bookmarks = นำเข้าที่คั่นหน้าจาก:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = ไม่พบโปรแกรมที่มีข้อมูลที่คั่นหน้า, ประวัติ หรือรหัสผ่าน
+
 import-source-page-title = นำเข้าการตั้งค่าและข้อมูล
 import-items-page-title = รายการที่จะนำเข้า
+
 import-items-description = เลือกรายการที่จะนำเข้า:
+
 import-permissions-page-title = โปรดมอบสิทธิอนุญาตแก่ { -brand-short-name }
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS ต้องการให้คุณอนุญาตให้ { -brand-short-name } เข้าถึงที่คั่นหน้าของ Safari อย่างชัดเจน คลิก “ดำเนินการต่อ” แล้วเลือกไฟล์ “Bookmarks.plist” ในแผงการเปิดไฟล์ที่ปรากฏ
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS ต้องการให้คุณอนุญาต { -brand-short-name } ให้เข้าถึงข้อมูลของ Safari อย่างชัดเจน กรุณาคลิก “ดำเนินการต่อ” จากนั้นเลือกโฟลเดอร์ “Safari“ ในกล่องโต้ตอบของ Finder ที่จะปรากฏขึ้น แล้วคลิก “เปิด”
+
 import-migrating-page-title = กำลังนำเข้า…
+
 import-migrating-description = รายการดังต่อไปนี้กำลังถูกนำเข้า…
+
 import-select-profile-page-title = เลือกโปรไฟล์
+
 import-select-profile-description = โปรไฟล์ดังต่อไปนี้พร้อมที่จะนำเข้า:
+
 import-done-page-title = การนำเข้าเสร็จสมบูรณ์
+
 import-done-description = นำเข้ารายการต่อไปนี้สำเร็จ:
+
 import-close-source-browser = โปรดแน่ใจว่าเบราว์เซอร์ที่เลือกถูกปิดแล้วก่อนดำเนินการต่อ
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = รายการอ่าน (จาก Safari)
 imported-edge-reading-list = รายการอ่าน (จาก Edge)
 
@@ -101,6 +115,7 @@ browser-data-cookies-checkbox =
     .label = คุกกี้
 browser-data-cookies-label =
     .value = คุกกี้
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,10 +128,12 @@ browser-data-history-label =
             [firefox] ประวัติการเรียกดูและที่คั่นหน้า
            *[other] ประวัติการเรียกดู
         }
+
 browser-data-formdata-checkbox =
     .label = ประวัติแบบฟอร์มที่บันทึกไว้
 browser-data-formdata-label =
     .value = ประวัติแบบฟอร์มที่บันทึกไว้
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,6 +142,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = การเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -139,14 +157,17 @@ browser-data-bookmarks-label =
             [edge] รายการโปรด
            *[other] ที่คั่นหน้า
         }
+
 browser-data-otherdata-checkbox =
     .label = ข้อมูลอื่น ๆ
 browser-data-otherdata-label =
     .label = ข้อมูลอื่น ๆ
+
 browser-data-session-checkbox =
     .label = หน้าต่างและแท็บ
 browser-data-session-label =
     .value = หน้าต่างและแท็บ
+
 browser-data-payment-methods-checkbox =
     .label = วิธีการชำระเงิน
 browser-data-payment-methods-label =

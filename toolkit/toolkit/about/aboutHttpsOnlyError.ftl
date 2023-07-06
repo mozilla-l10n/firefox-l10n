@@ -21,6 +21,10 @@ about-httpsonly-link-learn-more = เรียนรู้เพิ่มเต�
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
+
 about-httpsonly-suggestion-box-header = ทางเลือกอื่นที่เป็นไปได้
 about-httpsonly-suggestion-box-www-text = มีรุ่นที่ปลอดภัยของ <em>www.{ $websiteUrl }</em> คุณสามารถเยี่ยมชมหน้านั้นแทน <em>{ $websiteUrl }</em> ได้
 about-httpsonly-suggestion-box-www-button = ไปยัง www.{ $websiteUrl }
