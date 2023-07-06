@@ -20,7 +20,6 @@ styleeditor-save-button = Gorde
     .accesskey = G
 styleeditor-options-button =
     .tooltiptext = Estilo-editorearen aukerak
-styleeditor-media-rules = @media erregelak
 styleeditor-at-rules = At-erregelak
 styleeditor-editor-textbox =
     .data-placeholder = Idatzi CSSa hemen.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = J
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Ez da aurkitu bat datorren estilo-orririk.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

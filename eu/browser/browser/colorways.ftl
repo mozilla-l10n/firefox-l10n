@@ -5,22 +5,22 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Ahots independenteak
-colorway-collection-independent-voices-description = Koloreek kultura alda dezakete. Azken kolore-konbinazioek mundua toki hobea egiten duten ahotsak ospatzen dituzte.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Kultura aldatzen duten koloreak.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Sortzailea
 playmaker-colorway-description = Aukerak sortzen dituzu zure ingurukoei beraien maila igotzen laguntzeko.
+
 expressionist-colorway-name = Espresionista
 expressionist-colorway-description = Mundua beste era batera ikusten duzu eta zure sormenek emozioak eragiten dituzte besteengan.
+
 visionary-colorway-name = Etorkizun senekoa
 visionary-colorway-description = Zalantzan jartzen duzu gauzak dauden moduan egotea eta etorkizun hobeagoa imajinatzera bultzatzen dituzu besteak.
+
 activist-colorway-name = Aktibista
 activist-colorway-description = Aurkitutakoa baino toki hobe gisa uzten duzu mundua eta besteak sinistera bultzatzen dituzu.
+
 dreamer-colorway-name = Ameslaria
 dreamer-colorway-description = Sinisten duzu aberastasunak ausarten alde egiten duela eta besteei adoretsu izatera bultzatzen diela.
+
 innovator-colorway-name = Berritzailea
 innovator-colorway-description = Aukerak ikusten dituzu edonon eta zure ingurukoen bizitzengan eragiten duzu.

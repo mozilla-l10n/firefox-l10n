@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ez itxi
        *[other] Ez irten
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Orain lineaz kanpo jartzen bazara, deskarga bat bertan behera geldituko da. Ziur zaude lineaz kanpo jarri nahi duzula?
        *[other] Orain lineaz kanpo jartzen bazara, { $downloadsCount } deskarga bertan behera geldituko dira. Ziur zaude lineaz kanpo jarri nahi duzula?
     }
 download-ui-dont-go-offline-button = Egon linean
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Nabigatze pribatuko leiho guztiak ixten badituzu, deskarga bat bertan behera utziko da. Ziur zaude nabigatze pribatua utzi nahi duzula?
        *[other] Nabigatze pribatuko leiho guztiak ixten badituzu, { $downloadsCount } deskarga bertan behera utziko dira. Ziur zaude nabigatze pribatua utzi nahi duzula?
     }
 download-ui-dont-leave-private-browsing-button = Mantendu nabigatze pribatuan
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Ezeztatu deskarga bat

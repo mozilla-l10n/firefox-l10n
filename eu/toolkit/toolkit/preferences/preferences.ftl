@@ -9,10 +9,6 @@ failed-pp-change = Ezin da pasahitz nagusia aldatu.
 incorrect-pp = Ez duzu uneko pasahitz nagusi zuzena eman. Saiatu berriro.
 pp-change-ok = Pasahitz nagusia ondo aldatu da.
 
-pp-empty-warning = Gordetako zure pasahitzak eta gako pribatuak ez dira babestuko.
-pp-erased-ok = Zure pasahitz nagusia ezabatu duzu. { pp-empty-warning }
-pp-not-wanted = Kontuz! Pasahitz nagusia ez erabiltzea erabaki duzu. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = FIPS moduan zaude orain. FIPS moduak pasahitz nagusia ezartzea eskatzen du.
 pw-change-success-title = Pasahitza ondo aldatu da
 pw-change-failed-title = Pasahitz aldaketak huts egin du

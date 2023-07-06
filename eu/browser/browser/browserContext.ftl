@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Egin orri honen laster-marka
-    .accesskey = E
-    .tooltiptext = Egin orri honen laster-marka
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Egin orriaren laster-marka
-    .accesskey = m
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Editatu laster-marka
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Egin orri honen laster-marka
-    .accesskey = E
-    .tooltiptext = Egin orri honen laster-marka ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Editatu laster-marka
-    .accesskey = E
-    .tooltiptext = Editatu laster-marka
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Editatu laster-marka
-    .accesskey = E
-    .tooltiptext = Editatu laster-marka ({ $shortcut })
-
 main-context-menu-bookmark-page =
     .aria-label = Egin orriaren laster-marka…
     .accesskey = m
@@ -191,10 +153,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Ireki lotura leiho pribatu berrian
     .accesskey = p
-
-main-context-menu-bookmark-link =
-    .label = Egin loturaren laster-marka
-    .accesskey = s
 
 main-context-menu-bookmark-link-2 =
     .label = Egin loturaren laster-marka…
@@ -370,14 +328,6 @@ main-context-menu-audio-email =
     .label = Bidali audioa postaz…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Aktibatu plugin hau
-    .accesskey = k
-
-main-context-menu-plugin-hide =
-    .label = Ezkutatu plugin hau
-    .accesskey = E
-
 main-context-menu-save-to-pocket =
     .label = Gorde orria { -pocket-brand-name }-en
     .accesskey = k
@@ -436,10 +386,6 @@ main-context-menu-frame-reload =
     .label = Berritu markoa
     .accesskey = r
 
-main-context-menu-frame-bookmark =
-    .label = Egin marko honen laster-marka
-    .accesskey = m
-
 main-context-menu-frame-add-bookmark =
     .label = Egin markoaren laster-marka…
     .accesskey = m
@@ -459,10 +405,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Ikusi markoaren informazioa
     .accesskey = u
-
-main-context-menu-print-selection =
-    .label = Inprimatu hautapena
-    .accesskey = m
 
 main-context-menu-print-selection-2 =
     .label = Inprimatu hautapena…

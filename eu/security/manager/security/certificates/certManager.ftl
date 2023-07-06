@@ -26,10 +26,6 @@ certmgr-people = Pertsona hauek identifikatzen dituzten ziurtagiriak dituzu artx
 certmgr-server = Sarrera hauek zerbitzariko ziurtagirien errore-salbuespenak identifikatzen dituzte
 certmgr-ca = Autoritate ziurtagiri-emaile hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
 
-certmgr-edit-ca-cert =
-    .title = Editatu AZ ziurtagiriaren fidagarritasun-ezarpenak
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Editatu AZ ziurtagiriaren fidagarritasun-ezarpenak
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Ziurtagiri honek posta erabiltzaileak identifika ditzake.
-
-certmgr-delete-cert =
-    .title = Ezabatu ziurtagiria
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Ezabatu ziurtagiria
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Zerbitzaria
-
-certmgr-override-lifetime =
-    .label = Iraupena
 
 certmgr-token-name =
     .label = Segurtasun-gailua

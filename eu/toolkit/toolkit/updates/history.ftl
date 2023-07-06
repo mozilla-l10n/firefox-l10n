@@ -23,5 +23,7 @@ state-header = Egoera
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Xehetasunak
+
 update-installed-on = Noiz instalatua: { $date }
+
 update-status = Egoera: { $status }
