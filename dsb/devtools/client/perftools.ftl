@@ -82,8 +82,6 @@ perftools-thread-renderer =
     .title = Gaž jo WebRender zmóžnjony, nitka, kótaraž OpenGL-wołanja wuwjedujo
 perftools-thread-render-backend =
     .title = Nitka WebRender RenderBackend
-perftools-thread-paint-worker =
-    .title = Gaž jo kreslenje zwenka głowneje nitki zmóžnjone, nitka, w kótarejž se kresli
 perftools-thread-timer =
     .title = Casowe měritka, kótarež z nitku wobchadaju (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -131,6 +129,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Webwuwijaŕ

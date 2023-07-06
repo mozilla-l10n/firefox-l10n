@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Daty wobglědowaka importěrowaś
 migration-wizard-selection-list = Wubjeŕśo daty, kótarež cośo importěrowaś.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Wubjeŕśo daty, kótarež cośo importěrowa�
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,21 +55,26 @@ migration-selected-data-label = Wubrane daty importěrowaś
 
 migration-select-all-option-label = Wšykne wubraś
 migration-bookmarks-option-label = Cytańske znamjenja
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Fawority
+
 migration-logins-and-passwords-option-label = Skłaźone pśizjawjenja a gronidła
 migration-history-option-label = Pśeglědowańska historija
 migration-form-autofill-option-label = Daty za awtomatiske wupołnjenje formularow
 migration-payment-methods-option-label = Płaśeńske metody
+
 migration-cookies-option-label = Cookieje
 migration-session-option-label = Wokna a rejtariki
 migration-otherdata-option-label = Druge daty
+
 migration-passwords-from-file-progress-header = Dataju gronidłow importěrowaś
 migration-passwords-from-file-success-header = Gronidła su se wuspěšnje importěrowali
 migration-passwords-from-file = Dataja za gronidła se pśeglědujo
 migration-passwords-new = Nowe gronidła
 migration-passwords-updated = Eksistěrujuce gronidła
+
 migration-passwords-from-file-picker-title = Dataju gronidłow importěrowaś
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -83,6 +90,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-dataja
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +103,7 @@ migration-wizard-progress-success-new-passwords =
         [few] { $newEntries } su se pśidali
        *[other] { $newEntries } jo se pśidało
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -107,10 +116,12 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } su se zaktualizěrowali
        *[other] { $updatedEntries } jo se zaktualizěrowało
     }
+
 migration-bookmarks-from-file-picker-title = Dataju cytańskich znamjenjow importěrowaś
 migration-bookmarks-from-file-progress-header = Cytańske znamjenja importěrowaś
 migration-bookmarks-from-file = Cytańske znamjenja
 migration-bookmarks-from-file-success-header = Cytańske znamjenja su se wuspěšnje importěrowali
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -118,9 +129,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-dokument
        *[other] HTML-dataja
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON-dataja
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -133,12 +146,14 @@ migration-wizard-progress-success-new-bookmarks =
         [few] { $newEntries } cytańske znamjenja
        *[other] { $newEntries } cytańskich znamjenjow
     }
+
 migration-import-button-label = Importěrowaś
 migration-choose-to-import-from-file-button-label = Z dataje importěrowaś
 migration-import-from-file-button-label = Dataju wubraś
 migration-cancel-button-label = Pśetergnuś
 migration-done-button-label = Gótowo
 migration-continue-button-label = Dalej
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } njejo mógł programy namakaś, kótarež daty cytańskich znamjenjow, historije abo gronidłow wopśimowaś.
 migration-wizard-import-browser-no-resources = Zmólka jo nastała. { -brand-short-name } njamóžo daty namakaś, kótarež daju se z togo profila wobglědowaka importěrowaś.
 
@@ -149,6 +164,7 @@ migration-wizard-import-browser-no-resources = Zmólka jo nastała. { -brand-sho
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = cytańske znamjenja
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = fawority
@@ -165,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importěrujo se…
 migration-wizard-progress-icon-completed =
     .aria-label = Dokóńcony
+
 migration-safari-password-import-header = Gronidła ze Safari importěrowaś
 migration-safari-password-import-steps-header = Aby gronidła ze Safari importěrował:
 migration-safari-password-import-step1 = Wócyńśo meni „Safari“ w Safari a pśejźćo k Einstellungen > Passwörter (Nastajenja > Gronidła)
@@ -173,6 +190,8 @@ migration-safari-password-import-step3 = Dataju gronidłow składowaś
 migration-safari-password-import-step4 = Wubjeŕśo „Dataju wubraś“ dołojce, aby dataju gronidłow wubrał, kótaruž sćo składł
 migration-safari-password-import-skip-button = Pśeskócyś
 migration-safari-password-import-select-button = Dataju wubraś
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -185,6 +204,7 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } cytańske znamjenja
        *[other] { $quantity } cytańskich znamjenjow
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -199,6 +219,13 @@ migration-wizard-progress-success-favorites =
         [few] { $quantity } fawority
        *[other] { $quantity } faworitow
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -211,6 +238,7 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } gronidła
        *[other] { $quantity } gronidłow
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -223,7 +251,9 @@ migration-wizard-progress-success-history =
         [few] Ze slědnych { $maxAgeInDays } dnjow
        *[other] Ze slědnych { $maxAgeInDays } dnjow
     }
+
 migration-wizard-progress-success-formdata = Historija formularow
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -236,6 +266,7 @@ migration-wizard-progress-success-payment-methods =
         [few] { $quantity } płaśeńske metody
        *[other] { $quantity } płaśeńskich metodow
     }
+
 migration-wizard-safari-permissions-sub-header = Aby cytańske znamjenja a pśeglědowańsku historiju Safari importěrował:
 migration-wizard-safari-instructions-continue = Wubjeŕśo „Pókšacowaś“
 migration-wizard-safari-instructions-folder = Wubjeŕśo zarědnik Safari w lisćinje a pón „Wócyniś“

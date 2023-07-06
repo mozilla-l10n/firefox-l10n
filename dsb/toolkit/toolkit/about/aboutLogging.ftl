@@ -36,6 +36,7 @@ about-logging-preset-media-playback-label = Wótgraśe medijow
 about-logging-preset-media-playback-description = Module konfigurěrowaś, aby problemy medijowego wótgraśa diagnosticěrował (nic problemy z wideokonferencami)
 about-logging-preset-custom-label = Swójski
 about-logging-preset-custom-description = Protokolowe module manuelnje wubrane
+
 # Error handling
 about-logging-error = Zmólka:
 
@@ -49,4 +50,5 @@ about-logging-unknown-profiler-preset = Njeznate profilerowe pśednastajenje „
 about-logging-unknown-option = Njeznate nastajenje about:logging „{ $k }“
 about-logging-configuration-url-ignored = Konfiguraciski URL ignorěrowany
 about-logging-file-and-profiler-override = Wudawanje a pśepisowanje nastajenjow wugbaśoweje analyze njedatej se naraz wunuźiś
+
 about-logging-configured-via-url = Pśez URL skonfigurěrowane nastajenje

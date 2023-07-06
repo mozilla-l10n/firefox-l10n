@@ -4,16 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Wopacny PIN! Pšosym zapódajśo pšawy PIN za swój rěd.
-        [one] Wopacny PIN! Pšosym zapódajśo pšawy PIN za swój rěd. Maśo hyšći { $retriesLeft } wopyt.
-        [two] Wopacny PIN! Pšosym zapódajśo pšawy PIN za swój rěd. Maśo hyšći { $retriesLeft } wopyta.
-        [few] Wopacny PIN! Pšosym zapódajśo pšawy PIN za swój rěd. Maśo hyšći { $retriesLeft } wopyty.
-       *[other] Wopacny PIN! Pšosym zapódajśo pšawy PIN za swój rěd. Maśo hyšći { $retriesLeft } wopytow.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Wopacny PIN. Maśo { $retriesLeft } wopyt wušej, nježli až pśistup k pśizjawjeńskim datam na toś tom rěźe na pśecej zgubijośo.
@@ -23,3 +13,4 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Wopacny PIN. Wopytajśo hyšći raz.
 webauthn-pin-required-prompt = Pšosym zapódajśo PIN za swój rěd.
+

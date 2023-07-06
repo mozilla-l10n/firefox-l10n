@@ -30,6 +30,7 @@ webrtc-item-browser = rejtarik
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Njeznaty póchad
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Rědy, kótarež źěle se rejtariki
     .accesskey = R
+
 webrtc-sharing-window = Źěliśo wokno drugego nałoženja.
 webrtc-sharing-browser-window = Źěliśo { -brand-short-name }.
 webrtc-sharing-screen = Źěliśo swóju cełu wobrazowku.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Źělenje wóźiś
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Źělenje na "{ $streamTitle }" wóźiś
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kameru z "{ $streamTitle }" źěliś
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -101,6 +104,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Kamera źěli se z { $tabCount } rejtarikami
            *[other] Kamera źěli se z { $tabCount } rejtarikami
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofon z "{ $streamTitle }" źěliś
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,6 +115,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Mikrofon źěli se z { $tabCount } rejtarikami
            *[other] Mikrofon źěli se z { $tabCount } rejtarikami
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Nałoženje z "{ $streamTitle }" źěliś
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -121,6 +126,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Nałoženja źěla se z { $tabCount } rejtarikami
            *[other] Nałoženja źěle se z { $tabCount } rejtarikami
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Wobrazowku z "{ $streamTitle }" źěliś
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -131,6 +137,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Wobrazowka źěli se z { $tabCount } rejtarikami
            *[other] Wobrazowka źěli se z { $tabCount } rejtarikami
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Wokno z "{ $streamTitle }" źěliś
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -141,6 +148,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Wokno źěli se z { $tabCount } rejtarikami
            *[other] Wokno źěli se z { $tabCount } rejtarikami
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Rejtarik z "{ $streamTitle }" źěliś
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -175,7 +183,6 @@ webrtc-allow-share-screen-and-audio-capture = Cośo { $origin } dowóliś, na aw
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Cośo { $origin } dowóliś, až { $thirdParty } dowólnosć dawa, na awdio toś togo rejtarika słuchaś?
 webrtc-allow-share-camera-unsafe-delegation = Cośo{ $origin } dowóliś, až { $thirdParty } pśistup k wašej kamerje dawa?
-webrtc-allow-share-microphone-unsafe-delegations = Cośo { $origin } dowóliś, až { $thirdParty } pśistup k wašomu mikrofonoju dawa?
 webrtc-allow-share-microphone-unsafe-delegation = Cośo { $origin } dowóliś, až { $thirdParty } pśistup k wašomu mikrofonoju dawa?
 webrtc-allow-share-screen-unsafe-delegation = Cośo { $origin } dowóliś, až { $thirdParty } dowólnosć dawa, swóju wobrazowku wiźeś?
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,6 +197,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Cośo { $origin 
 
 webrtc-share-screen-warning = Źělśo jano wobrazowki ze sedłami, kótarymž dowěriśo. Źělenje móžo wobšudnym sedłam zmóžniś, ako wy pśeglědowaś a waše priwatne daty kšadnuś.
 webrtc-share-browser-warning = Źělśo { -brand-short-name } jano ze sedłami, kótarymž dowěriśo. Źělenje móžo wobšudnym sedłam zmóžniś, ako wy pśeglědowaś a waše priwatne daty kšadnuś.
+
 webrtc-share-screen-learn-more = Dalšne informacije
 webrtc-pick-window-or-screen = Wubjeŕśo wokno abo wobrazowku
 webrtc-share-entire-screen = Ceła wobrazowka
@@ -227,6 +235,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Toś ten rozsud se spomnjeś
 webrtc-mute-notifications-checkbox = Powěźeńki websedła pśi źělenju pódušyś
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } njamóžo trajny pśistup k wašej wobrazowce dopušćiś.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } njamóžo trajny pśistup k awdio wašogo rejtarika dowóliś mimo, aby se pšašał, kótary ma se źěliś.
 webrtc-reason-for-no-permanent-allow-insecure = Waš zwisk z toś tym sedłom njejo wěsty. Aby was šćitał, { -brand-short-name } dowólijo jano pśistup za toś to pósejźenje.

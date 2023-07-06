@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Njewótwisne głose
-colorway-collection-independent-voices-description = Barwa móžo kulturu změniś. Nejnowše barwowe kombinacije głosy swěśe, kótarež swět k lěpšemu městnoju cynje.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Barwy, kótarež kulturu změnjaju.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Wjeźecy grajaŕ

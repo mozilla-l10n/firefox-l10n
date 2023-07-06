@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Meni za { $extensionName } wócyniś
+
 unified-extensions-item-message-manage = Rozšyrjenje zastojaś
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = K symbolowej rědce pśipěś
+
 unified-extensions-context-menu-manage-extension =
     .label = Rozšyrjenje zastojaś
+
 unified-extensions-context-menu-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
+
 unified-extensions-context-menu-report-extension =
     .label = Rozšyrjenje k wěsći daś
+
 unified-extensions-context-menu-move-widget-up =
     .label = Górjej
+
 unified-extensions-context-menu-move-widget-down =
     .label = Dołoj
 

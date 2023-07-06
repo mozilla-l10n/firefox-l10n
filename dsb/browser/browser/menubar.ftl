@@ -38,9 +38,11 @@ menu-quit =
             [windows] k
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } skóńcyś
+
 menu-about =
     .label = Wó { -brand-shorter-name }
     .accesskey = W
@@ -222,8 +224,6 @@ menu-history-undo-menu =
     .label = Rowno zacynjone rejtariki
 menu-history-undo-window-menu =
     .label = Rowno zacynjone wokna
-menu-history-reopen-all-tabs = Wšykne rejtariki znowego wócyniś
-menu-history-reopen-all-windows = Wšykne wokna znowego wócyniś
 
 ## Bookmarks Menu
 
@@ -232,10 +232,6 @@ menu-bookmarks-menu =
     .accesskey = C
 menu-bookmarks-manage =
     .label = Cytańske znamjenja zastojaś
-menu-bookmark-current-tab =
-    .label = Aktualny rejtarik ako cytańske znamje składowaś
-menu-bookmark-edit =
-    .label = Toś to cytańske znamje wobźěłaś
 menu-bookmark-tab =
     .label = Aktualny rejtarik ako cytańske znamje składowaś …
 menu-edit-bookmark =
