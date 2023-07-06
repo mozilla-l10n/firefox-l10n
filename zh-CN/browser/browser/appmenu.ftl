@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = 正在下载 { -brand-shorter-name } 更新
+
 appmenuitem-banner-update-available =
     .label = 有可用更新 — 立即下载
+
 appmenuitem-banner-update-manual =
     .label = 有可用更新 — 立即下载
+
 appmenuitem-banner-update-unsupported =
     .label = 无法更新 — 系统不兼容
+
 appmenuitem-banner-update-restart =
     .label = 有可用更新 — 立即重启
+
 appmenuitem-new-tab =
     .label = 新建标签页
 appmenuitem-new-window =
@@ -53,6 +58,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = 关闭应用程序菜单
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,23 +79,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = 登录以同步…
 appmenu-remote-tabs-turn-on-sync =
     .label = 开启同步…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = 显示更多标签页
     .tooltiptext = 显示此设备的更多标签页
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 没有打开的标签页
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = 开启标签页同步功能，就能看到其他设备上打开的标签页。
+
 appmenu-remote-tabs-opensettings =
     .label = 设置
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = 想查看您在其他设备上的标签页吗？
+
 appmenu-remote-tabs-connectdevice =
     .label = 关联其他设备
 appmenu-remote-tabs-welcome = 查看您的其他设备上的标签页列表。
 appmenu-remote-tabs-unverified = 您的账号需要验证。
+
 appmenuitem-fxa-toolbar-sync-now2 = 立即同步
 appmenuitem-fxa-sign-in = 登录 { -brand-product-name }
 appmenuitem-fxa-manage-account = 管理账户
@@ -103,12 +116,14 @@ appmenu-fxa-sync-and-save-data2 = 同步并保存数据
 appmenu-fxa-signed-in-label = 登录
 appmenu-fxa-setup-sync =
     .label = 开启同步...
+
 appmenuitem-save-page =
     .label = 另存页面为…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = 新版变化
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,39 +137,52 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = 性能分析器
     .tooltiptext = 记录性能分析数据
+
 profiler-popup-button-recording =
     .label = 性能分析器
     .tooltiptext = 分析器正在记录性能分析记录
+
 profiler-popup-button-capturing =
     .label = 性能分析器
     .tooltiptext = 分析器正在捕捉性能分析记录
-profiler-popup-title =
-    .value = { -profiler-brand-name }
+
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = 展示更多信息
+
 profiler-popup-description-title =
     .value = 记录、分析、共享
+
 profiler-popup-description = 与您的团队共享性能测量信息，协作解决性能问题。
+
 profiler-popup-learn-more-button =
     .label = 详细了解
+
 profiler-popup-settings =
     .value = 设置
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = 编辑设置…
+
 profiler-popup-recording-screen = 正在记录…
+
 profiler-popup-start-recording-button =
     .label = 开始记录
+
 profiler-popup-discard-button =
     .label = 丢弃
+
 profiler-popup-capture-button =
     .label = 捕捉
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -177,22 +205,28 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = 适合调试大部分 Web 应用程序，开销较低。
 profiler-popup-presets-web-developer-label =
     .label = Web 开发者
+
 profiler-popup-presets-firefox-description = 适合用来分析 { -brand-shorter-name } 的性能。
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = 排查 { -brand-shorter-name } 图形（显卡、显示）Bug 时使用。
 profiler-popup-presets-graphics-label =
     .label = 图形
+
 profiler-popup-presets-media-description2 = 排查 { -brand-shorter-name } 音视频 Bug 时使用。
 profiler-popup-presets-media-label =
     .label = 媒体
+
 profiler-popup-presets-networking-description = 排查 { -brand-shorter-name } 网络 Bug 时使用。
 profiler-popup-presets-networking-label =
     .label = 网络
+
 profiler-popup-presets-power-description = 排查 { -brand-shorter-name } 功耗 Bug 时使用，开销较低。
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = 功耗
+
 profiler-popup-presets-custom-label =
     .label = 自定义
 
@@ -200,8 +234,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = 管理历史
-appmenu-reopen-all-tabs = 重新打开所有标签页
-appmenu-reopen-all-windows = 重新打开所有窗口
 appmenu-restore-session =
     .label = 恢复先前的浏览状态
 appmenu-clear-history =
@@ -260,6 +292,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = 定制工具栏…
+
 appmenu-developer-tools-subheader = 浏览器工具
 appmenu-developer-tools-extensions =
     .label = 面向开发者的扩展

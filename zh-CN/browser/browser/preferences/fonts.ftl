@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = 字体
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = 语言
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = 阿拉伯字母
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = 比例字体
     .accesskey = P
+
 fonts-default-serif =
     .label = 衬线字体
 fonts-default-sans-serif =
     .label = 无衬线字体
+
 fonts-proportional-size = 字号
     .accesskey = z
+
 fonts-serif = 衬线字体
     .accesskey = S
+
 fonts-sans-serif = 无衬线字体
     .accesskey = n
+
 fonts-monospace = 等宽字体
     .accesskey = M
+
 fonts-monospace-size = 字号
     .accesskey = e
+
 fonts-minsize = 最小字号
     .accesskey = o
+
 fonts-minsize-none =
     .label = 无
+
 fonts-allow-own =
     .label = 允许页面选择自己的字体代替您的上述选择
     .accesskey = A
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

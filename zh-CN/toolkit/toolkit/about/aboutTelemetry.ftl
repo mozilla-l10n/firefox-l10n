@@ -130,12 +130,6 @@ about-telemetry-category-header = 分类
 about-telemetry-method-header = 方法
 about-telemetry-object-header = 对象
 about-telemetry-extra-header = 额外
-about-telemetry-origin-section = 起点遥测
-about-telemetry-origin-origin = 起点
-about-telemetry-origin-count = 数量
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox 起点遥测技术</a>会在数据发送之前对其进行编码，确保 { $telemetryServerOwner } 能统计数量的同时，无须知道是由谁的 { -brand-product-name } 上传了数据。（<a data-l10n-name="prio-blog-link">详细了解</a>）
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } 进程

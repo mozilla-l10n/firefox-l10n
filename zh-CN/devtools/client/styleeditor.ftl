@@ -20,7 +20,6 @@ styleeditor-save-button = 保存
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = 样式编辑器选项
-styleeditor-media-rules = @media 规则
 styleeditor-at-rules = @ 规则
 styleeditor-editor-textbox =
     .data-placeholder = 在这输入 CSS。
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = J
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = 找不到匹配的样式表。
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

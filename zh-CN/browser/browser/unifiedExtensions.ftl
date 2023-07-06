@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = 打开”{ $extensionName }”的菜单
+
 unified-extensions-item-message-manage = 管理扩展
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = 固定到工具栏
+
 unified-extensions-context-menu-manage-extension =
     .label = 管理扩展
+
 unified-extensions-context-menu-remove-extension =
     .label = 移除扩展
+
 unified-extensions-context-menu-report-extension =
     .label = 举报扩展
+
 unified-extensions-context-menu-move-widget-up =
     .label = 上移
+
 unified-extensions-context-menu-move-widget-down =
     .label = 下移
 

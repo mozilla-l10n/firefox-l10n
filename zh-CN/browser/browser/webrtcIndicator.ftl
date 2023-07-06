@@ -30,6 +30,7 @@ webrtc-item-browser = 标签页
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = 未知来源
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = 正在共享设备的标签页
     .accesskey = d
+
 webrtc-sharing-window = 您正在共享其他应用程序窗口。
 webrtc-sharing-browser-window = 您正在共享 { -brand-short-name }。
 webrtc-sharing-screen = 您正在共享完整屏幕。
@@ -91,26 +93,32 @@ webrtc-indicator-menuitem-control-sharing =
     .label = 控制共享状态
 webrtc-indicator-menuitem-control-sharing-on =
     .label = 控制在“{ $streamTitle }”的共享
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = 正在与“{ $streamTitle }”共享摄像头
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label = 正在允许 { $tabCount } 个标签页访问摄像头
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = 正在与“{ $streamTitle }”共享麦克风
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label = 正在允许 { $tabCount } 个标签页访问麦克风
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = 正在与“{ $streamTitle }”共享一个应用程序
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label = 正在允许 { $tabCount } 个标签页访问某个应用程序
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = 正在与“{ $streamTitle }”共享屏幕
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label = 正在允许 { $tabCount } 个标签页查看屏幕画面
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = 正在与“{ $streamTitle }”共享窗口
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label = 正在允许 { $tabCount } 个标签页访问窗口
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = 正在与“{ $streamTitle }”共享标签页
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -139,7 +147,6 @@ webrtc-allow-share-screen-and-audio-capture = 要允许 { $origin } 听到此标
 
 webrtc-allow-share-audio-capture-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 听到此标签页的音频吗？
 webrtc-allow-share-camera-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的摄像头吗？
-webrtc-allow-share-microphone-unsafe-delegations = 要允许 { $origin } 授权 { $thirdParty } 使用您的麦克风吗？
 webrtc-allow-share-microphone-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的麦克风吗？
 webrtc-allow-share-screen-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 看到您的屏幕吗？
 # "Speakers" is used in a general sense that might include headphones or
@@ -154,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = 要允许 { $ori
 
 webrtc-share-screen-warning = 请只与您信任的网站共享屏幕。否则诈骗网站将随您一同浏览，并因而能窃取您的隐私数据。
 webrtc-share-browser-warning = 请只与您信任的网站共享 { -brand-short-name }。否则诈骗网站将随您一同浏览，并因而能窃取您的隐私数据。
+
 webrtc-share-screen-learn-more = 详细了解
 webrtc-pick-window-or-screen = 选择窗口或屏幕
 webrtc-share-entire-screen = 整个屏幕
@@ -185,6 +193,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = 记住此决定
 webrtc-mute-notifications-checkbox = 共享期间不显示网站通知
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } 不能长效允许访问您的屏幕。
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } 无法永久不让您先指定特定标签页，就允许存取任意标签页的音频内容。
 webrtc-reason-for-no-permanent-allow-insecure = 您与此网站间的连接并不安全。为了保护您，{ -brand-short-name } 将只允许此次浏览期间的访问。

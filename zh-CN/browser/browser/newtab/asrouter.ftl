@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = 推荐功能
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 为什么我会看到这个？
+
 cfr-doorhanger-extension-cancel-button = 暂时不要
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = 立刻添加
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = 管理推荐设置
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = 不再显示此推荐
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = 详细了解
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = 由 { $name } 开发
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 推荐
 cfr-doorhanger-extension-notification2 = 推荐
     .tooltiptext = 推荐扩展
     .a11y-announcement = 有推荐扩展可用
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 推荐
@@ -75,9 +83,11 @@ cfr-protections-panel-link-text = 详细了解
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 新功能
+
 cfr-whatsnew-button =
     .label = 新版变化
     .tooltiptext = 新版变化
+
 cfr-whatsnew-release-notes-link-text = 阅读发行说明
 
 ## Enhanced Tracking Protection Milestones
@@ -105,13 +115,6 @@ cfr-doorhanger-doh-secondary-button = 禁用
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = 隐私是公民的基本权利。现在起，{ -brand-short-name } 会将您打开的网站相互隔离或沙盒化，使黑客更难窃取您的密码、信用卡号或其他敏感信息。
-cfr-doorhanger-fission-header = 网站隔离
-cfr-doorhanger-fission-primary-button = 好，知道了
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = 详细了解
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = 该网站上的视频可能无法在此版本的 { -brand-short-name } 正常播放。若需完整的视频支持，请更新 { -brand-short-name }。
@@ -120,11 +123,6 @@ cfr-doorhanger-video-support-primary-button = 立即更新
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = 详细了解
-    .title = 展开以详细了解该功能
-spotlight-learn-more-expanded = 详细了解
-    .title = 关闭
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -141,16 +139,6 @@ spotlight-public-wifi-vpn-link = 暂时不要
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = 体验有史以来最强大的隐私保护
-spotlight-total-cookie-protection-body = 全方位 Cookie 保护 - 阻止跟踪器借 Cookie 实施跟踪。
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } 可将每个网站的 Cookie 用“围栏”完全隔离，以阻止跟踪器借其实施跟踪。您可以通过抢先体验来帮助我们优化此功能，为每个人构建更好的网络环境。
-spotlight-total-cookie-protection-primary-button = 立即开启
-spotlight-total-cookie-protection-secondary-button = 暂时不要
 
 ## Emotive Continuous Onboarding
 
@@ -180,11 +168,13 @@ spotlight-pin-secondary-button = 暂时不要
 
 mr2022-background-update-toast-title = { -brand-short-name } 新版本。更多隐私保护、更少跟踪骚扰。不将就，不妥协。
 mr2022-background-update-toast-text = 立即升级至最新版本的 { -brand-short-name }，获得我们迄今最为强大的反跟踪保护。
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = 立即打开 { -brand-shorter-name }
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -203,6 +193,7 @@ firefoxview-cfr-body-v2 = 通过 { -firefoxview-brand-name } 重新打开最近�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = 邂逅 { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = 想要把标签页传到手机上？嘿，接稳了！还想重新打开刚浏览过的那个网页？瞧，回来了！这就是 { -firefoxview-brand-name } 带来的精彩功能。
 firefoxview-spotlight-promo-primarybutton = 看看怎么用
@@ -212,6 +203,7 @@ firefoxview-spotlight-promo-secondarybutton = 跳过
 
 colorways-cfr-primarybutton = 选择配色
     .accesskey = C
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = 换上灵感来自“凡人之声，文化之味”的 { -brand-short-name } 独家配色，焕新您的浏览器外观。
 colorways-cfr-header-28days = “凡人之声”配色有效期至1月16日
@@ -234,6 +226,7 @@ july-jam-headline = 保护您是我的职责
 july-jam-body = { -brand-short-name } 为每位用户月均拦截超过 3,000 个跟踪器，给您带来安全快速的良好互联网体验。
 july-jam-set-default-primary = 用 { -brand-short-name } 打开我的链接
 fox-doodle-pin-headline = 欢迎回来
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = 小提示：您可以把最爱的独立浏览器固定起来，随时随地一键打开。

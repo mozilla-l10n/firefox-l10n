@@ -50,5 +50,9 @@ url-classifier-disabled = 已禁用
 url-classifier-updating = 正在更新
 url-classifier-cannot-update = 无法更新
 url-classifier-success = 成功
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = 更新出错 ({ $error })
 url-classifier-download-error = 下载出错 ({ $error })
