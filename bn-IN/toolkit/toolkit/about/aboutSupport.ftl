@@ -74,6 +74,8 @@ sandbox-title = স্যান্ডবক্স
 
 audio-backend = অডিও ব্যাকেন্ড
 
+## Codec support table
+
 ##
 
 

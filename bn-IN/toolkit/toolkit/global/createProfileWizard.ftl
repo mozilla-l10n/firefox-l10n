@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = প্রোফাইল নির্মাণ উইজার্ড
-    .style = width: 46em; height: 35em;
-
 create-profile-window2 =
     .title = প্রোফাইল নির্মাণ উইজার্ড
     .style = min-width: 46em; min-height: 35em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] ভূমিকা
-       *[other] { create-profile-window.title }-এ আপনাকে স্বাগতম
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -37,12 +27,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] সমাপ্তি
-       *[other] { create-profile-window.title } সমাপ্ত করা হচ্ছে
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

@@ -40,6 +40,17 @@ neterror-load-error-firewall = আপনার কম্পিউটার য�
 
 neterror-captive-portal = ইন্টারনেট প্রবেশ করতে হলে, আপনাকে এই নেটওয়ার্কে অবশ্যই লগইন করতে হবে।
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = ফাইলের নামের মধ্যে ভুলবসত লেখা বড় ছাঁদের হরফ অথবা অন্যান্য ত্রুটি পরীক্ষা করুন।
 neterror-file-not-found-moved = ফাইলের স্থান অথবা নাম পরিবর্তিত হয়েছে কিনা অথবা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।
 

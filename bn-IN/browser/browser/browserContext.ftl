@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = চিহ্নিত পৃষ্ঠা বুকমার্ক করুন
-    .accesskey = m
-    .tooltiptext = বর্তমান পৃষ্ঠা বুকমার্ক করুন
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = চিহ্নিত পৃষ্ঠা বুকমার্ক করুন
-    .accesskey = m
-    .tooltiptext = বর্তমান পৃষ্ঠা বুকমার্ক করুন ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = চিহ্নিত বুকমার্ক পরিবর্তন করুন
-    .accesskey = m
-    .tooltiptext = চিহ্নিত বুকমার্ক পরিবর্তন করুন
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = চিহ্নিত বুকমার্ক পরিবর্তন করুন
-    .accesskey = m
-    .tooltiptext = চিহ্নিত বুকমার্ক পরিবর্তন করুন ({ $shortcut })
-
 main-context-menu-open-link =
     .label = লিংক খুলুন
     .accesskey = O
@@ -242,14 +218,6 @@ main-context-menu-audio-email =
     .label = অডিও ই-মেইল করুন…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = এই প্লাগিনটি সক্রিয় করুন
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = এই প্লাগইনটি আড়াল করুন
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = পেজ থেকে Device-এ পাঠান
     .accesskey = D
@@ -288,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ফ্রেম পুনরায় লোড করু
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = বর্তমান ফ্রেম বুকমার্ক করুন
-    .accesskey = ব
 
 main-context-menu-frame-save-as =
     .label = নতুন নামে ফ্রেম সংরক্ষণ করুন...

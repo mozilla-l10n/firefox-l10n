@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = ব্যতিক্রম
-    .style = width: 45em
-
 permissions-window2 =
     .title = ব্যতিক্রম
     .style = min-width: 45em
@@ -69,10 +65,6 @@ permissions-invalid-uri-label = অনুগ্রহ করে বৈধ হো
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = ব্যতিক্রমসমূহ - কুকি এবং ওয়েব সাইটের তথ্য
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = ব্যতিক্রমসমূহ - কুকি এবং ওয়েব সাইটের তথ্য
     .style = { permissions-window2.style }
@@ -83,10 +75,6 @@ permissions-exceptions-cookie-desc = কোন ওয়েবসাইটগু
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = অনুমতিপ্রাপ্ত ওয়েবসাইট - পপ-আপ
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = অনুমতিপ্রাপ্ত ওয়েবসাইট - পপ-আপ
     .style = { permissions-window2.style }
@@ -94,20 +82,12 @@ permissions-exceptions-popup-desc = কোন ওয়েব-সাইটগুল
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = ব্যতিক্রম - সংরক্ষিত লগইন
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = ব্যতিক্রম - সংরক্ষিত লগইন
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = নিম্নলিখিত ওয়েবসাইটগুলির জন্য লগইন সংক্রান্ত তথ্য সংরক্ষণ করা হবে না
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = অনুমতিপ্রাপ্ত ওয়েবসাইট - অ্যাড-অন ইনস্টলেশন
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = অনুমতিপ্রাপ্ত ওয়েবসাইট - অ্যাড-অন ইনস্টলেশন
@@ -119,10 +99,6 @@ permissions-exceptions-addons-desc = কোন ওয়েব-সাইটগু�
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = সেটিংস - বিজ্ঞপ্তির অনুমতি
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = সেটিংস - বিজ্ঞপ্তির অনুমতি
     .style = { permissions-window2.style }
@@ -132,10 +108,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = এই গুলি প্রতিরোধ করবে,  উপরের তালিকায় না থাকা ওয়েবসাইটগুলিকে, আপনাকে নোটিফিকেশন পাঠানোর অনুরোধ করতে। নোটিফিকেশন ব্লক করলে ওয়েবসাইটের কিছু বৈশিষ্ট্যে ব্যাঘাত ঘটতে পারে।
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = সেটিংস - অবস্থান অনুমতি
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = সেটিংস - অবস্থান অনুমতি
@@ -150,10 +122,6 @@ permissions-site-location-disable-desc = এটি আপনার অবস্�
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = সেটিংস - ক্যামেরা অনুমতি
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = সেটিংস - ক্যামেরা অনুমতি
     .style = { permissions-window2.style }
@@ -164,10 +132,6 @@ permissions-site-camera-disable-desc = এতে করে, উপরের ত�
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = সেটিংস - মাইক্রোফোন অনুমতি
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = সেটিংস - মাইক্রোফোন অনুমতি
     .style = { permissions-window2.style }
@@ -175,3 +139,8 @@ permissions-site-microphone-desc = নিচের ওয়েবসাইট �
 permissions-site-microphone-disable-label =
     .label = আপনার মাইক্রোফোন ব্যবহারের নতুন অনুরোধ ব্লক করুন
 permissions-site-microphone-disable-desc = এতে করে, উপরের তালিকায় না থাকা ওয়েবসাইট, আপনার মাইক্রোফোন ব্যবহার করতে চেয়ে অনুরোধ করতে পারবে না। তবে মাইক্রোফোন ব্যবহার করতে না দিলে ওয়েবসাইটের কিছু বৈশিষ্ট্যে ব্যাঘাত ঘটতে পারে।
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

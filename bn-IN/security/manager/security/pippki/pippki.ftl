@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
-    .style = width: 46em
-
 download-cert-window2 =
     .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = গুরুত্বপূর্ণ: সার্টি
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = সুরক্ষিত টোকেন অনুমোদন
-protected-auth-msg = অনুগ্রহ করে টোকেন সহযোগে অনুমোদন করুন। ব্যবহৃত টোকেনের উপর অনুমোদন পদ্ধতি নির্ভরশীল।
-protected-auth-token = টোকেন:
+## Protected authentication alert
+

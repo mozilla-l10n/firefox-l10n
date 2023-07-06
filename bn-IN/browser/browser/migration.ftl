@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = উইন্ডো ও ট্যাব
 browser-data-session-label =
     .value = উইন্ডো ও ট্যাব
+

@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = খুলুন
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = নতুন ট্যাবের মধ্যে খোলা হবে
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = নতুন উইন্ডোর মধ্যে লিঙ্ক প্রদর্শন করা হবে
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = নতুন প্রাইভেট উইন্ডোর মধ্যে লিঙ্ক প্রদর্শন করা হবে
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = এই ট্যাবটি বুকমার্ক করুন…
-    .accesskey = B
 
 ##
 
