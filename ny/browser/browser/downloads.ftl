@@ -37,3 +37,5 @@ downloads-panel =
 
 ##
 
+## Download errors
+

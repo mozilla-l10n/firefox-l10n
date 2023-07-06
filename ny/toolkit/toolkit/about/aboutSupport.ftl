@@ -7,6 +7,8 @@ a11y-activated = Konzedwa
 
 ## Media titles
 
+## Codec support table
+
 ##
 
 ## Remote Debugging

@@ -15,3 +15,6 @@ security-view-technical =
 
 media-img = Zithunzi
 
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+

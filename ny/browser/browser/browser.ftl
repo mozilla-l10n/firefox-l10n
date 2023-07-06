@@ -94,6 +94,12 @@ browser-main-window-title = { -brand-full-name }
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -101,6 +107,13 @@ browser-main-window-title = { -brand-full-name }
 
 
 ## Bookmarks panels, menus and toolbar
+
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+##
 
 
 ## Library Panel items
@@ -139,7 +152,6 @@ browser-main-window-title = { -brand-full-name }
 
 ##
 
-
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
@@ -155,4 +167,18 @@ navbar-downloads =
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 ## Unified extensions (toolbar) button
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+## Autorefresh blocker
+
+## Firefox Relay integration
+
+## Add-on Pop-up Notifications
+
+## Pop-up warning
 

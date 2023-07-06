@@ -5,9 +5,11 @@
 places-file-close =
     .label = Tsekani
     .accesskey = T
+
 places-cmd-restore =
     .label = Bwezeretsani
     .accesskey = r
+
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
