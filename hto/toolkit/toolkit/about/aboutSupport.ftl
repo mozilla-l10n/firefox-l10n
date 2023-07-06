@@ -38,6 +38,8 @@ copy-raw-data-to-clipboard-label = Rabéniko fákari íte rabemo jonéra jóne
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

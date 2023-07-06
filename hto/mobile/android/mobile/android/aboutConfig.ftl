@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Jénode
 config-new-pref-name =
     .placeholder = Mámekɨ
+
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = Igaɨ
 config-new-pref-value-integer = Nána
+
 config-new-pref-string =
     .placeholder = Igaɨ yújude
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Fúitade
 config-new-pref-create-button = Fɨnode
 config-new-pref-change-button = Méidote
+
 config-pref-toggle-button = Méidote
 config-pref-reset-button = Ábɨdo fɨno
+
 config-context-menu-copy-pref-name =
     .label = Mámekɨ fákadote
 config-context-menu-copy-pref-value =

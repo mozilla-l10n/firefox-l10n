@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Kúena dama jananɨaɨ
-    .style = width: 45em
-
 permissions-window2 =
     .title = Kúena dama jananɨaɨ
     .style = min-width: 45em
@@ -66,4 +62,8 @@ permissions-capabilities-block =
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 

@@ -26,6 +26,7 @@ menu-quit =
             [windows] J
            *[other] J
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Jáiri íedo { -brand-shorter-name }

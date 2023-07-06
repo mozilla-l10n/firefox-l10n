@@ -4,17 +4,11 @@
 
 sanitize-prefs-style =
     .style = width: 17em
-dialog-title =
-    .title = Kómue jagaɨ dono
-    .style = width: 34em
-# When "Time range to clear" is set to "Everything", this message is used for the
-# title instead of dialog-title.
-dialog-title-everything =
-    .title = Jagaɨ nan óni oíri
-    .style = width: 34em
+
 sanitize-dialog-title =
     .title = Kómue jagaɨ dono
     .style = min-width: 34em
+
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
@@ -31,8 +25,10 @@ sanitize-dialog-title-everything =
 
 clear-time-duration-value-today =
     .label = Bíruido
+
 clear-time-duration-value-everything =
     .label = Nana
+
 clear-time-duration-suffix =
     .value = Nana
 
@@ -40,16 +36,22 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Jagaɨ
+
 item-cookies =
     .label = Cookies
     .accesskey = C
+
 item-cache =
     .label = Caché
     .accesskey = a
+
 sanitize-everything-undo-warning = Bíe ó fɨnoka fúitanide.
+
 sanitize-button-ok =
     .label = Bírui dono
+
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Já óno óga
+

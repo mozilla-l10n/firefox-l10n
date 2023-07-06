@@ -44,10 +44,12 @@ about-webrtc-type-local = Béno íe
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Jónegamakɨ
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Nɨzeka
+
 about-webrtc-save-page-label = Rábe ñúe jóne
 
 ## These are used to display a header for a PeerConnection.
@@ -85,6 +87,7 @@ about-webrtc-local-candidate = Béno íe jónegamakɨ
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = Rabe jonega bíemo: { $path }
+
 about-webrtc-save-page-complete-msg = Rabe jonega bíemo: { $path }
 
 ##

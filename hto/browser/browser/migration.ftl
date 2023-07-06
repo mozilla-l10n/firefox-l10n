@@ -90,3 +90,4 @@ browser-data-session-checkbox =
     .label = Éroirafo úitɨraɨ dɨga
 browser-data-session-label =
     .value = Éroirafo úitɨraɨ dɨga
+

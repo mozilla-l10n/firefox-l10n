@@ -4,6 +4,7 @@
 
 places-history =
     .aria-label = Jaganɨaɨ
+
 places-details-pane-no-items =
     .value = Íñede  ráanɨaɨ
 # Variables:

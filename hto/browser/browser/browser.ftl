@@ -20,10 +20,6 @@ urlbar-identity-button =
 
 urlbar-eme-notification-anchor =
     .tooltiptext = Software DRM kúe dáma taɨjɨa
-urlbar-translate-notification-anchor =
-    .tooltiptext = Bíe rabe jɨaɨe úiado jóne
-urlbar-translated-notification-anchor =
-    .tooltiptext = Kúe dáma bíe rabe jɨaɨe úiado jóne
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -68,8 +64,7 @@ search-one-offs-context-open-new-tab =
 ## Identity Panel
 
 identity-passive-loaded = Bíe rábe afenedo ñúe íñede (jána izoi).
-identity-learn-more =
-    .value = Aiyo onóde
+
 identity-enable-mixed-content-blocking =
     .label = Rɨidite bonua
     .accesskey = R
@@ -105,6 +100,7 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
+
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
 
@@ -202,6 +198,7 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Yúnua
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -220,6 +217,9 @@ tabs-toolbar =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
 
 ## Autorefresh blocker
 

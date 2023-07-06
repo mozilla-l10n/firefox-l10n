@@ -129,10 +129,6 @@ main-context-menu-video-email =
     .label = Óre& jóreño fɨnoka...
     .accesskey = a
 
-main-context-menu-plugin-hide =
-    .label = Retáido& bíe plugin
-    .accesskey = H
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
