@@ -23,5 +23,7 @@ state-header = Tila
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Lisätietoja
+
 update-installed-on = Asennusaika: { $date }
+
 update-status = Tila: { $status }

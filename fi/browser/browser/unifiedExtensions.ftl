@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Avaa laajennuksen { $extensionName } valikko
+
 unified-extensions-item-message-manage = Hallitse laajennusta
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Kiinnitä työkalupalkkiin
+
 unified-extensions-context-menu-manage-extension =
     .label = Hallitse laajennusta
+
 unified-extensions-context-menu-remove-extension =
     .label = Poista laajennus
+
 unified-extensions-context-menu-report-extension =
     .label = Ilmoita laajennuksesta
+
 unified-extensions-context-menu-move-widget-up =
     .label = Siirrä ylös
+
 unified-extensions-context-menu-move-widget-down =
     .label = Siirrä alas
 

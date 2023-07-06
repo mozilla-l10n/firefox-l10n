@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Sinun on kirjauduttava sisään { -fxaccount-b
 firefox-relay-get-unlimited-masks =
     .label = Hallitse maskeja
     .accesskey = m
-firefox-relay-opt-in-title = Suojaa sähköpostiosoitteesi
-firefox-relay-opt-in-subtitle = Lisää { -relay-brand-name }
-firefox-relay-generate-mask-title = Suojaa sähköpostiosoitteesi
-firefox-relay-generate-mask-subtitle = Luo { -relay-brand-short-name }-maski
-firefox-relay-opt-in-confirmation-enable =
-    .label = Jatka
-    .accesskey = J
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Suojaa sähköpostiosoitteesi:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

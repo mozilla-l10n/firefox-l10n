@@ -30,6 +30,7 @@ webrtc-item-browser = välilehti
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Tuntematon lähde
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Laitteita jakavat välilehdet
     .accesskey = j
+
 webrtc-sharing-window = Jaat toisen sovellusikkunan.
 webrtc-sharing-browser-window = Jaat sovelluksen { -brand-short-name }.
 webrtc-sharing-screen = Jaat koko näytön.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Muokkaa jakoasetuksia
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Muokkaa välilehden "{ $streamTitle }" jakoasetuksia
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamera on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kamera on jaettu { $tabCount } välilehdellä
            *[other] Kamera on jaettu { $tabCount } välilehdellä
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofoni on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofoni on jaettu { $tabCount } välilehdellä
            *[other] Mikrofoni on jaettu { $tabCount } välilehdellä
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Ohjelma on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Ohjelma on jaettu { $tabCount } välilehdellä
            *[other] Ohjelma on jaettu { $tabCount } välilehdellä
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Näyttö on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Näyttö on jaettu { $tabCount } välilehdellä
            *[other] Näyttö on jaettu { $tabCount } välilehdellä
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Ikkuna on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Ikkuna on jaettu { $tabCount } välilehdellä
            *[other] Ikkuna on jaettu { $tabCount } välilehdellä
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Välilehti on jaettu välilehdellä ”{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = Saako { $origin } kuunnella tämä
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden kuunnella tämän välilehden ääniä?
 webrtc-allow-share-camera-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää kameraa?
-webrtc-allow-share-microphone-unsafe-delegations = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää mikrofonia?
 webrtc-allow-share-microphone-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää mikrofonia?
 webrtc-allow-share-screen-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden nähdä näyttösi?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Saako { $origin 
 
 webrtc-share-screen-warning = Jaa näyttöjä vain luottamillesi sivustoille. Jakamisen ansiosta petollinen sivusto voi pystyä selaamaan verkkoa esiintyen sinuna ja varastamaan henkilötietojasi.
 webrtc-share-browser-warning = Jaa { -brand-short-name } vain luottamillesi sivustoille. Jakamisen ansiosta petollinen sivusto voi pystyä selaamaan verkkoa esiintyen sinuna ja varastamaan henkilötietojasi.
+
 webrtc-share-screen-learn-more = Lue lisää
 webrtc-pick-window-or-screen = Valitse ikkuna tai näyttö
 webrtc-share-entire-screen = Koko näyttö
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Muista valinta
 webrtc-mute-notifications-checkbox = Vaimenna sivustojen ilmoitukset jakamisen aikana
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ei voi sallia pysyvää käyttöoikeutta näyttöön.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ei voi sallia pysyvää käyttöoikeutta välilehden äänien kuuntelemiseen kysymättä, mikä välilehti jaetaan.
 webrtc-reason-for-no-permanent-allow-insecure = Yhteys tähän sivustoon ei ole suojattu. Suojellaksesi sinua { -brand-short-name } sallii käytön vain tämän istunnon ajaksi.

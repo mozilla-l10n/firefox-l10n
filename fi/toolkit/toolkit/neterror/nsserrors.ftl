@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Tapahtui virhe oltaessa yhteydessä osoitteeseen { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Virhekoodi: { $error }
-
 psmerr-ssl-disabled = Suojatun yhteyden muodostaminen ei onnistu, koska SSL-yhteiskäytäntö on otettu pois käytöstä.
 psmerr-ssl2-disabled = Suojatun yhteyden muodostaminen ei onnistu, koska sivusto käyttää vanhempaa, heikkoa versiota SSL-yhteiskäytännöstä.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Mitään tuettua TLS-allekirjoitusa
 ssl-error-unsupported-signature-algorithm = Osapuoli käytti ei-tuettua allekirjoitus- ja tiivistealgoritmin yhdistelmää.
 ssl-error-missing-extended-master-secret = Osapuoli yritti jatkaa ilman oikeaa extended_master_secret-laajennusta.
 ssl-error-unexpected-extended-master-secret = Osapuoli yritti jatkaa odottamattoman extended_master_secret-laajennuksen kanssa.
+
 sec-error-io = Tietoturvatodennuksen aikana tapahtui I/O-virhe.
 sec-error-library-failure = tietoturvakirjaston virhe.
 sec-error-bad-data = tietoturvakirjasto: vastaanotettiin virheellistä dataa.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Ei voida purkaa: avaimen salausalgoritmi ei va
 sec-error-pkcs7-bad-signature = Allekirjoituksen todennus epäonnistui: allekirjoittajaa ei löytynyt, allekirjoittajia löytyi liian monta, tai data oli virheellistä tai vioittunutta.
 sec-error-unsupported-keyalg = Ei tuettu tai tuntematon avainalgoritmi.
 sec-error-decryption-disallowed = Ei voida purkaa: salaus on tehty kielletyllä algoritmilla tai  avainkoolla.
-xp-sec-fortezza-bad-card = Fortezza-korttia ei ole asianmukaisesti alustettu. Poista kortti ja palauta se sen myöntäjälle.
-xp-sec-fortezza-no-card = Fortezza-kortteja ei löytynyt
-xp-sec-fortezza-none-selected = Fortezza-korttia ei ole valittu
-xp-sec-fortezza-more-info = Valitse henkilöllisyys, josta näytetään lisätietoja
-xp-sec-fortezza-person-not-found = Henkilöllisyyttä ei löytynyt
-xp-sec-fortezza-no-more-info = Ei lisätietoja valitusta henkilöllisyydestä
-xp-sec-fortezza-bad-pin = Virheellinen pin-koodi
-xp-sec-fortezza-person-error = Ei voitu alustaa Fortezza-henkilöllisyyksiä.
 sec-error-no-krl = Sivuston varmenteelle ei löytynyt KRL:ää.
 sec-error-krl-expired = Sivuston varmenteen KRL on vanhentunut.
 sec-error-krl-bad-signature = Sivuston varmenteen KRL:n allekirjoitus on virheellinen.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Varmenne, jolla on sama kutsumanimi on jo ol
 sec-error-key-nickname-collision = Avain, jolla on sama kutsumanimi on jo olemassa.
 sec-error-safe-not-created = virhe luotaessa turvallista oliota
 sec-error-baggage-not-created = virhe luotaessa laukkuoliota
-xp-java-remove-principal-error = Ei voitu poistaa päämiestä
-xp-java-delete-privilege-error = Ei voitu poistaa oikeutta
-xp-java-cert-not-exists-error = Tällä päämiehellä ei ole varmennetta
 sec-error-bad-export-algorithm = Vaadittu algoritmi ei ole sallittu.
 sec-error-exporting-certificates = Virhe yritettäessä viedä varmenteita.
 sec-error-importing-certificates = Virhe yritettäessä tuoda varmenteita.
@@ -338,6 +319,7 @@ sec-error-locked-password = Salasana on lukittu.
 sec-error-unknown-pkcs11-error = Tuntematon PKCS #11 -virhe.
 sec-error-bad-crl-dp-url = Virheellinen tai ei tuettu osoite CRL-jakelupisteen nimessä.
 sec-error-cert-signature-algorithm-disabled = Varmenne oli allekirjoitettu allekirjoitusalgoritmilla, joka on poistettu käytöstä, koska se ei ole turvallinen.
+
 mozilla-pkix-error-key-pinning-failure = Palvelin käyttää avaimen lukkolistaa (HPKP), mutta yhtäkään luotettua ja lukkolistan mukaista varmenneketjua ei voitu luoda. Lukkolistarikkeitä ei voida ohittaa.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Palvelin käyttää tavallista rajoitelaajennusvarmennetta, joka tunnistaa sen varmentajaksi. Asianmukaisella varmenteella näin ei pitäisi olla.
 mozilla-pkix-error-inadequate-key-size = Palvelimen tarjoaman varmenteen avaimen koko on liian pieni suojatun yhteyden luomiseksi.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Palvelin tarjosi varmenteen, joka 
 mozilla-pkix-error-empty-issuer-name = Palvelin tarjosi varmenteen, jonka myöntäjän luokiteltu nimi (DN) on tyhjä.
 mozilla-pkix-error-additional-policy-constraint-failed = Varmenteen lisäkäytäntörajoite ei täyttynyt todennettaessa varmennetta.
 mozilla-pkix-error-self-signed-cert = Varmenteeseen ei luoteta, koska se on allekirjoitettu itsellään.
+
+xp-java-remove-principal-error = Ei voitu poistaa päämiestä
+xp-java-delete-privilege-error = Ei voitu poistaa oikeutta
+xp-java-cert-not-exists-error = Tällä päämiehellä ei ole varmennetta
+
+xp-sec-fortezza-bad-card = Fortezza-korttia ei ole asianmukaisesti alustettu. Poista kortti ja palauta se sen myöntäjälle.
+xp-sec-fortezza-no-card = Fortezza-kortteja ei löytynyt
+xp-sec-fortezza-none-selected = Fortezza-korttia ei ole valittu
+xp-sec-fortezza-more-info = Valitse henkilöllisyys, josta näytetään lisätietoja
+xp-sec-fortezza-person-not-found = Henkilöllisyyttä ei löytynyt
+xp-sec-fortezza-no-more-info = Ei lisätietoja valitusta henkilöllisyydestä
+xp-sec-fortezza-bad-pin = Virheellinen pin-koodi
+xp-sec-fortezza-person-error = Ei voitu alustaa Fortezza-henkilöllisyyksiä.

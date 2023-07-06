@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Suositeltu ominaisuus
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miksi näen tämän
+
 cfr-doorhanger-extension-cancel-button = Ei nyt
     .accesskey = E
+
 cfr-doorhanger-extension-ok-button = Lisää nyt
     .accesskey = L
+
 cfr-doorhanger-extension-manage-settings-button = Hallitse suositteluasetuksia
     .accesskey = H
+
 cfr-doorhanger-extension-never-show-recommendation = Älä näytä tätä suositusta minulle
     .accesskey = n
+
 cfr-doorhanger-extension-learn-more-link = Lue lisää
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = tekijältä { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suositus
 cfr-doorhanger-extension-notification2 = Suositus
     .tooltiptext = Laajennussuositus
     .a11y-announcement = Laajennussuositus saatavilla
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Suositus
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Lue lisää
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Uusi ominaisuus:
+
 cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
+
 cfr-whatsnew-release-notes-link-text = Lue julkaisutiedote
 
 ## Enhanced Tracking Protection Milestones
@@ -107,13 +117,6 @@ cfr-doorhanger-doh-secondary-button = Poista käytöstä
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Yksityisyydelläsi on merkitystä. { -brand-short-name } eristää, tai asettaa ”hiekkalaatikkoon”, sivustot toisistaan. Eristämisen myötä salasanojen, luottokorttitietojen ja muun arkaluonteisen tiedon varastaminen on aiempaa vaikeampaa.
-cfr-doorhanger-fission-header = Sivustojen eristäminen
-cfr-doorhanger-fission-primary-button = Selvä
-    .accesskey = S
-cfr-doorhanger-fission-secondary-button = Lue lisää
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videot tällä sivustolla eivät välttämättä toimi kunnolla tällä { -brand-short-name }in versiolla. Päivitä { -brand-short-name } nyt saadaksesi täyden videotuen.
@@ -122,11 +125,6 @@ cfr-doorhanger-video-support-primary-button = Päivitä nyt
     .accesskey = P
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Lue lisää
-    .title = Laajenna lukeaksesi ominaisuudesta lisää
-spotlight-learn-more-expanded = Lue lisää
-    .title = Sulje
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,18 +141,6 @@ spotlight-public-wifi-vpn-link = Ei nyt
     .accesskey = E
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Testaa kaikkien aikojen tehokkainta
-    yksityisyyttä varjelevaa ominaisuuttamme
-spotlight-total-cookie-protection-body = Totaalinen evästesuoja estää seuraimia käyttämästä evästeitä sinun seuraamiseen verkossa.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } rakentaa aidan evästeiden ympärille ja rajoittaa ne sivustoon, jolla olet, jotta seuraimet eivät voi käyttää evästeitä seuratakseen sinua. Varhaisen käytön avulla autat optimoimaan tämän ominaisuuden, jotta voimme jatkaa paremman verkon rakentamista kaikille.
-spotlight-total-cookie-protection-primary-button = Ota totaalinen evästesuoja käyttöön
-spotlight-total-cookie-protection-secondary-button = Ei nyt
 
 ## Emotive Continuous Onboarding
 
@@ -184,11 +170,13 @@ spotlight-pin-secondary-button = Ei nyt
 
 mr2022-background-update-toast-title = Uusi { -brand-short-name }. Entistä yksityisempi. Vähemmän seuraimia. Ei kompromisseja.
 mr2022-background-update-toast-text = Kokeile uusinta { -brand-short-name }ia nyt. Päivitetty tähän mennessä vahvimmalla seurantasuojauksella.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Avaa { -brand-shorter-name } nyt
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -207,6 +195,7 @@ firefoxview-cfr-body-v2 = Hanki äskettäin suljetut välilehdet takaisin ja sii
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Tervehdi { -firefoxview-brand-name }ä
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Haluatko avoimen välilehden puhelimeltasi? Nappaa se. Tarvitsetko sivuston, jolla juuri vierailit? Hokkuspokkus, se on palannut { -firefoxview-brand-name }llä.
 firefoxview-spotlight-promo-primarybutton = Katso miten se toimii
@@ -216,6 +205,7 @@ firefoxview-spotlight-promo-secondarybutton = Ohita
 
 colorways-cfr-primarybutton = Valitse väriteema
     .accesskey = ä
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Väritä selaimesi { -brand-short-name }in erityisillä sävyillä, jotka ovat saaneet vaikutteita kulttuuria muuttaneista äänistä.
 colorways-cfr-header-28days = Itsenäiset äänet -väriteemat vanhenevat 16. tammikuuta
@@ -238,6 +228,7 @@ july-jam-headline = Pidämme sinusta huolen
 july-jam-body = Joka kuukausi { -brand-short-name } estää keskimäärin 3 000+ seurainta käyttäjää kohden, jonka ansiosta sinulla on turvallinen ja nopea pääsy hyvään internetiin.
 july-jam-set-default-primary = Avaa linkit { -brand-short-name }illa
 fox-doodle-pin-headline = Tervetuloa takaisin
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Tässä on pieni muistutus siitä, että voit pitää suosikkiselaimesi vain yhden napsautuksen päässä.

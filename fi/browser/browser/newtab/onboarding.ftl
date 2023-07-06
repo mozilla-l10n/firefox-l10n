@@ -14,17 +14,6 @@ onboarding-welcome-header = Tässä { -brand-short-name }, tervetuloa
 onboarding-start-browsing-button-label = Aloita selaaminen
 onboarding-not-now-button-label = Ei nyt
 mr1-onboarding-get-started-primary-button-label = Aloita
-mr1-onboarding-welcome-header =
-    { -brand-short-name.case-status ->
-        [with-cases] Tervetuloa { -brand-short-name(case: "illative") }
-       *[no-cases] Tässä { -brand-short-name }, tervetuloa
-    }
-mr1-onboarding-set-default-pin-primary-button-label = Aseta { -brand-short-name } pääselaimeksi
-    .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
-mr1-onboarding-set-default-secondary-button-label = Ei nyt
 
 ## Custom Return To AMO onboarding strings
 
@@ -49,50 +38,16 @@ mr1-return-to-amo-add-extension-label = Lisää { $addon-name }
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Käytön aloittaminen: näkymä { $current }/{ $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text =
-    Laitetaan
-    toimeksi
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Huonekalujen suunnittelija, Firefox-fani
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = Edistyminen: vaihe { $current }/{ $total }
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Poista animaatiot käytöstä
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Pidä { -brand-short-name } Dockissa, niin saat sen auki nopeasti
-       *[other] Kiinnitä { -brand-short-name } tehtäväpalkkiin, niin saat sen auki nopeasti
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Pidä Dockissa
-       *[other] Kiinnitä tehtäväpalkkiin
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -102,44 +57,25 @@ mr1-onboarding-sign-in-button-label = Kirjaudu sisään
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Aseta { -brand-short-name } oletukseksi
-mr1-onboarding-default-subtitle = Aseta nopeus, turvallisuus ja yksityisyys automaattiseksi.
-mr1-onboarding-default-primary-button-label = Aseta oletusselaimeksi
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Kaikki mukanasi
-mr1-onboarding-import-subtitle = Tuo salasanat, <br/>kirjanmerkit ynnä muut.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Tuo selaimesta { $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä selaimesta
-mr1-onboarding-import-secondary-button-label = Ei nyt
-mr2-onboarding-colorway-header = Elämä väreissä
-mr2-onboarding-colorway-subtitle = Eläviä uusia värejä. Saatavana rajoitetun ajan.
-mr2-onboarding-colorway-primary-button-label = Tallenna väriteema
-mr2-onboarding-colorway-secondary-button-label = Ei nyt
-mr2-onboarding-colorway-label-soft = Kevyt
-mr2-onboarding-colorway-label-balanced = Tasapainotettu
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Rohkea
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Automaattinen
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Oletus
+
 mr1-onboarding-theme-header = Omalla tyylillä
 mr1-onboarding-theme-subtitle = Valitse { -brand-short-name }-teema makusi mukaan.
-mr1-onboarding-theme-primary-button-label = Tallenna teema
 mr1-onboarding-theme-secondary-button-label = Ei nyt
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Järjestelmän teema
+
 mr1-onboarding-theme-label-light = Vaalea
 mr1-onboarding-theme-label-dark = Tumma
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Valmis
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -152,61 +88,49 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Seuraa käyttöjärjestelmän teemaa
         painikkeille, valikoille ja ikkunoille.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Seuraa käyttöjärjestelmän teemaa
         painikkeille, valikoille ja ikkunoille.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Käytä vaaleaa teemaa painikkeille,
         valikoille ja ikkunoille.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Käytä vaaleaa teemaa painikkeille,
         valikoille ja ikkunoille.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Käytä tummaa teemaa painikkeille,
         valikoille ja ikkunoille.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Käytä tummaa teemaa painikkeille,
         valikoille ja ikkunoille.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Käytä dynaamista ja värikästä teemaa
         painikkeille, valikoille ja ikkunoille.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Käytä dynaamista ja värikästä teemaa
         painikkeille, valikoille ja ikkunoille.
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Käytä tätä väriteemaa.
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Käytä tätä väriteemaa.
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Selaa { $colorwayName }-väriteemoja.
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Selaa { $colorwayName }-väriteemoja.
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Selaa oletusteemoja.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Selaa oletusteemoja.
 
@@ -234,13 +158,18 @@ mr2-onboarding-start-browsing-button-label = Aloita selaaminen
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Valitse kieli
+
 mr2022-onboarding-live-language-text = { -brand-short-name } puhuu kieltäsi
+
 mr2022-language-mismatch-subtitle = Yhteisömme ansiosta { -brand-short-name } on käännetty yli 90 kielelle. Vaikuttaa siltä, että järjestelmäsi kieli on { $systemLanguage } ja { -brand-short-name } käyttää kieltä { $appLanguage }.
+
 onboarding-live-language-button-label-downloading = Ladataan kielen { $negotiatedLanguage } kielipakettia…
 onboarding-live-language-waiting-button = Haetaan saatavilla olevia kieliä…
 onboarding-live-language-installing = Asennetaan kielen { $negotiatedLanguage } kielipakettia…
+
 mr2022-onboarding-live-language-switch-to = Vaihda kieleen { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Jatka kielellä { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Peruuta
 onboarding-live-language-skip-button-label = Ohita
 
@@ -263,12 +192,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Pidä { -brand-short-name } Dockissa
        *[other] Kiinnitä { -brand-short-name } tehtäväpalkkiin
     }
+
 fx100-upgrade-thanks-header = 100 kiitosta
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Tämä on 100:s { -brand-short-name }in julkaisu. Kiitos <em>sinulle</em>, että autat meitä rakentamaan paremman ja terveellisemän internetin.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Tämä on 100:s julkaisumme! Kiitos, että olet osa yhteisöämme. Pidä { -brand-short-name } yhden napsautuksen päässä seuraavan sadan verran.
+
 mr2022-onboarding-secondary-skip-button-label = Ohita tämä vaihe
 
 ## MR2022 New User Easy Setup screen strings
@@ -345,30 +276,37 @@ mr2022-onboarding-colorway-title = Valitse väri, joka inspiroi sinua
 mr2022-onboarding-colorway-subtitle = Itsenäiset äänet voivat muuttaa kulttuuria.
 mr2022-onboarding-colorway-primary-button-label-continue = Aseta ja jatka
 mr2022-onboarding-existing-colorway-checkbox-label = Tee { -firefox-home-brand-name }ista värikäs kotisivusi
+
 mr2022-onboarding-colorway-label-default = Oletus
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Nykyiset { -brand-short-name }-värit
 mr2022-onboarding-colorway-description-default = <b>Käytä nykyisiä { -brand-short-name }-värejä.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Pelinrakentaja
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Pelinrakentaja (punainen)
 mr2022-onboarding-colorway-description-playmaker = <b>Olet pelinrakentaja.</b> Luot mahdollisuuksia voittaa ja autat kaikkia ympärilläsi olevia nostamaan panostaan.
+
 mr2022-onboarding-colorway-label-expressionist = Ekspressionisti
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspressionisti (keltainen)
 mr2022-onboarding-colorway-description-expressionist = <b>Olet ekspressionisti.</b> Näet maailman eri tavalla ja luomuksesi herättävät muissa tunteita.
+
 mr2022-onboarding-colorway-label-visionary = Visionääri
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionääri (vihreä)
 mr2022-onboarding-colorway-description-visionary = <b>Olet visionääri.</b> Kyseenalaistat nykytilan ja kannustat muita kuvittelemaan parempaa tulevaisuutta.
+
 mr2022-onboarding-colorway-label-activist = Aktivisti
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivisti (sininen)
 mr2022-onboarding-colorway-description-activist = <b>Olet aktivisti.</b> Jätät maailman aiempaa paremmaksi paikaksi ja saat muut uskomaan parempaan.
+
 mr2022-onboarding-colorway-label-dreamer = Unelmoija
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Unelmoija (violetti)
 mr2022-onboarding-colorway-description-dreamer = <b>Olet unelmoija.</b> Uskot, että onni suosii rohkeita ja innostat muita olemaan rohkeita.
+
 mr2022-onboarding-colorway-label-innovator = Uudistaja
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Uudistaja (oranssi)

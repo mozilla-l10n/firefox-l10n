@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Poikkeukset
-    .style = width: 36em
 permissions-window2 =
     .title = Poikkeukset
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Sivuston osoite
     .accesskey = i
+
 permissions-block =
     .label = Estä
     .accesskey = E
+
 permissions-disable-etp =
     .label = Lisää poikkeus
     .accesskey = E
+
 permissions-session =
     .label = Salli istunnon ajaksi
     .accesskey = i
+
 permissions-allow =
     .label = Salli
     .accesskey = a
+
 permissions-button-off =
     .label = Poista käytöstä
     .accesskey = P
+
 permissions-button-off-temporarily =
     .label = Poista käytöstä väliaikaisesti
     .accesskey = v
+
 permissions-site-name =
     .label = Sivusto
+
 permissions-status =
     .label = Tila
+
 permissions-remove =
     .label = Poista sivusto
     .accesskey = P
+
 permissions-remove-all =
     .label = Poista kaikki sivustot
     .accesskey = k
+
 permission-dialog =
     .buttonlabelaccept = Tallenna muutokset
     .buttonaccesskeyaccept = T
+
 permissions-autoplay-menu = Oletus kaikille sivustoille:
+
 permissions-searchbox =
     .placeholder = Etsi sivustoa
+
 permissions-capabilities-autoplay-allow =
     .label = Salli ääni ja video
 permissions-capabilities-autoplay-block =
     .label = Estä ääni
 permissions-capabilities-autoplay-blockall =
     .label = Estä ääni ja video
+
 permissions-capabilities-allow =
     .label = Salli
 permissions-capabilities-block =
     .label = Estä
 permissions-capabilities-prompt =
     .label = Kysy aina
+
 permissions-capabilities-listitem-allow =
     .value = Salli
 permissions-capabilities-listitem-block =
     .value = Estä
 permissions-capabilities-listitem-allow-session =
     .value = Salli istunnon ajaksi
+
 permissions-capabilities-listitem-off =
     .value = Pois
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Kirjoita kelvollinen palvelinnimi
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Tehostetun seurannan suojauksen poikkeukset
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Olet poistanut suojaukset käytöstä näillä sivustoilla.
 permissions-exceptions-etp-window2 =
     .title = Tehostetun seurannan suojauksen poikkeukset
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Voit määrittää, millä verkkosivust
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Poikkeukset - Evästeet ja sivustotiedot
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Poikkeukset - Evästeet ja sivustotiedot
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Määrätyt sivustot saavat tai eivät saa 
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Poikkeukset - Vain HTTPS -tila
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Poikkeukset - Vain HTTPS -tila
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Voit poistaa Vain HTTPS -tilan käytös
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Sallitut sivustot - Ponnahdusikkunat
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Sallitut sivustot - Ponnahdusikkunat
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Määrätyt sivustot saavat avata ponnahdusi
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Poikkeukset - Tallennetut kirjautumistiedot
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Poikkeukset - Tallennetut kirjautumistiedot
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Seuraavien sivustojen kirjautumistiet
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Sallitut sivustot - Lisäosien asentaminen
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Sallitut sivustot - Lisäosien asentaminen
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Lisäosia voidaan asentaa määrätyiltä s
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Asetukset - Automaattinen toisto
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Asetukset - Automaattinen toisto
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Tässä voit hallita sivustoja, jotka eivät no
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Asetukset - Ilmoitusten vastaanottaminen
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Asetukset - Ilmoitusten vastaanottaminen
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Tämä estää kaikki yllä mainits
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Asetukset - Sijaintioikeudet
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Asetukset - Sijaintioikeudet
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Tämä estää kaikki yllä mainitsemat
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Asetukset - Virtuaalitodellisuuden oikeudet
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Asetukset - Virtuaalitodellisuuden oikeudet
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Tämä estää kaikki yllä mainitsemattomat 
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Asetukset - Kameraoikeudet
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Asetukset - Kameraoikeudet
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Tämä estää kaikki yllä mainitsematto
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Asetukset - Mikrofonioikeudet
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Asetukset - Mikrofonioikeudet
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Asetukset - Äänentoistolaitteen oikeudet
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Seuraavat sivustot ovat pyytäneet oikeutta valita äänentoistolaiteen. Voit määrittää millä sivustoilla on äänentoistolaitteen valintaoikeus.
+
 permissions-exceptions-doh-window =
     .title = Verkkosivustojen poikkeukset DNS:lle HTTPS:n kautta
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ei käytä suojattua DNS:ää näillä sivustoilla ja niiden aliverkkotunnuksissa.
+
 permissions-doh-entry-field = Anna verkkosivuston verkkotunnuksen nimi
     .accesskey = v
+
 permissions-doh-add-exception =
     .label = Lisää
     .accesskey = L
+
 permissions-doh-col =
     .label = Verkkotunnus
+
 permissions-doh-remove =
     .label = Poista
     .accesskey = P
+
 permissions-doh-remove-all =
     .label = Poista kaikki
     .accesskey = k

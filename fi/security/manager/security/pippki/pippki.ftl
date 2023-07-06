@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Olet parhaillaan FIPS-tilassa. FIPS edelly
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Nollaa pääsalasana
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Nollaa pääsalasana
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Nollaa pääsalasana
 pippki-reset-password-confirmation-message = Pääsalasanasi on nollattu.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Ladataan varmennetta
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Ladataan varmennetta
@@ -82,7 +74,5 @@ set-password-reminder = Tärkeää: Jos varmenteen varmuuskopion salasana unohtu
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Suojattu polettitodennus
-protected-auth-msg = Todenna poletille. Todennustapa riippuu poletin tyypistä.
-protected-auth-token = Poletti:
+## Protected authentication alert
+

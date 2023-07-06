@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Peruuta
     .accesskey = P
+
 webext-perms-sideload-text = Ohjelma tietokoneellasi asensi lisäosan, joka voi vaikuttaa selaimeesi. Tarkasta lisäosan pyytämät oikeudet ja valitse Ota käyttöön tai Peruuta (pitääksesi sen poissa käytöstä).
 webext-perms-sideload-text-no-perms = Ohjelma tietokoneellasi asensi lisäosan, joka voi vaikuttaa selaimeesi. Valitse Ota käyttöön tai Peruuta (pitääksesi sen poissa käytöstä).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Peruuta
     .accesskey = P
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } on päivitetty. Sinun täytyy hyväksyä uudet oikeudet ennen kuin uusi versio asennetaan. Jos valitset ”Peruuta”, laajennuksen nykyinen versio säilytetään. Tämän laajennuksen uudet oikeudet ovat:
 webext-perms-update-accept =
     .label = Päivitä
     .accesskey = i
+
 webext-perms-optional-perms-list-intro = Se haluaa:
 webext-perms-optional-perms-allow =
     .label = Salli
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Estä
     .accesskey = E
+
 webext-perms-host-description-all-urls = Käytä dataasi kaikilta sivustoilta
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Käytä dataasi { $domain }-verkkotunnuksen sivustoilta
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Käytä dataasi { $domain }-verkkotunnukselta
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

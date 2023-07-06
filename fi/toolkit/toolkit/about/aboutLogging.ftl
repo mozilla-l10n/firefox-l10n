@@ -15,15 +15,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
 about-logging-title = Tietoja lokituksesta
 about-logging-page-title = Lokihallinta
 about-logging-current-log-file = Nykyinen lokitiedosto:
-about-logging-current-log-modules = Nykyiset lokitusmoduulit:
 about-logging-new-log-file = Uusi lokitiedosto:
 about-logging-currently-enabled-log-modules = Tällä hetkellä käytössä olevat lokimoduulit:
 about-logging-log-tutorial =
@@ -46,6 +43,7 @@ about-logging-logging-preset-selector-text = Lokituksen esiasetus:
 
 about-logging-preset-networking-label = Verkko
 about-logging-preset-media-playback-label = Median toisto
+
 # Error handling
 about-logging-error = Virhe:
 

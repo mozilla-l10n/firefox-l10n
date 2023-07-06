@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC-tiedot
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = tallenna about:webrtc nimellä
@@ -21,6 +22,7 @@ about-webrtc-aec-logging-msg-label = AEC-lokitus
 about-webrtc-aec-logging-off-state-label = Käynnistä AEC-lokitus
 about-webrtc-aec-logging-on-state-label = Pysäytä AEC-lokitus
 about-webrtc-aec-logging-on-state-msg = AEC-lokitus päällä (keskustele soittajan kanssa muutama minuutti ja lopeta sen jälkeen kaappaus)
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-lokitus päällä (keskustele soittajan kanssa muutama minuutti ja lopeta sen jälkeen kaappaus)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,6 +32,8 @@ about-webrtc-aec-logging-toggled-off-state-msg = Kaapatut lokitiedostot kohteess
 
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automaattinen päivitys
+
+
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -79,10 +83,12 @@ about-webrtc-type-remote = Etä
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nimetty
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valittu
+
 about-webrtc-save-page-label = Tallenna sivu
 about-webrtc-debug-mode-msg-label = Virheenjäljitystila
 about-webrtc-debug-mode-off-state-label = Käynnistä virheenjäljitystila
@@ -95,6 +101,7 @@ about-webrtc-log-show-msg = näytä loki
     .title = laajenna napsauttamalla
 about-webrtc-log-hide-msg = piilota loki
     .title = kutista napsauttamalla
+
 about-webrtc-log-section-show-msg = Näytä loki
     .title = Laajenna napsauttamalla
 about-webrtc-log-section-hide-msg = Piilota loki
@@ -173,26 +180,36 @@ about-webrtc-pc-configuration-hide-msg = Piilota kokoonpano
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Annettu
+
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ei annettu
+
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Käyttäjän asettamat WebRTC-asetukset
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Arvioitu kaistanleveys
+
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Raidan tunniste
+
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Lähetyksen kaistanleveys (tavua/s)
+
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Vastaanottamisen kaistanleveys (tavua/s)
+
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Enimmäistäyte (tavua/s)
+
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Pakettien välinen viive ms
+
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -208,6 +225,7 @@ about-webrtc-save-page-msg = sivu tallennettu kohteeseen: { $path }
 about-webrtc-debug-mode-off-state-msg = jäljitysloki kohteessa: { $path }
 about-webrtc-debug-mode-on-state-msg = virheenjäljitystila päällä, jäljitysloki kohteessa: { $path }
 about-webrtc-aec-logging-off-state-msg = kaapatut lokitiedostot kohteessa: { $path }
+
 about-webrtc-save-page-complete-msg = Sivu tallennettu kohteeseen: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Jäljitysloki kohteessa: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Virheenjäljitystila päällä, jäljitysloki kohteessa: { $path }
@@ -222,6 +240,7 @@ about-webrtc-frames =
         [one] { $frames } ruutu
        *[other] { $frames } ruutua
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -230,6 +249,7 @@ about-webrtc-channels =
         [one] { $channels } kanava
        *[other] { $channels } kanavaa
     }
+
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -238,6 +258,7 @@ about-webrtc-received-label =
         [one] Vastaanotettu { $packets } paketti
        *[other] Vastaanotettu { $packets } pakettia
     }
+
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -246,6 +267,7 @@ about-webrtc-lost-label =
         [one] Kadotettu { $packets } paketti
        *[other] Kadotettu { $packets } pakettia
     }
+
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -254,11 +276,13 @@ about-webrtc-sent-label =
         [one] Lähetetty { $packets } paketti
        *[other] Lähetetty { $packets } pakettia
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -271,10 +295,12 @@ about-webrtc-trickle-caption-msg = Vastauksen jälkeen saapuvat ehdokkaat (trick
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Asetettiin Paikallinen SDP ajanhetkellä { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Asetettiin Etä-SDP ajanhetkellä { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
