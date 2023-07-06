@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Excepziuns
-    .style = width: 45em
 permissions-window2 =
     .title = Excepziuns
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adressa da la website
     .accesskey = d
+
 permissions-block =
     .label = Bloccar
     .accesskey = B
+
 permissions-disable-etp =
     .label = Agiuntar ina excepziun
     .accesskey = e
+
 permissions-session =
     .label = Permetter per questa sesida
     .accesskey = P
+
 permissions-allow =
     .label = Permetter
     .accesskey = e
+
 permissions-button-off =
     .label = Deactivar
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Deactivar temporarmain
     .accesskey = t
+
 permissions-site-name =
     .label = Website
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Allontanar la website
     .accesskey = A
+
 permissions-remove-all =
     .label = Allontanar tut las websites
     .accesskey = t
+
 permission-dialog =
     .buttonlabelaccept = Memorisar las midadas
     .buttonaccesskeyaccept = M
+
 permissions-autoplay-menu = Standard per tuttas websites:
+
 permissions-searchbox =
     .placeholder = Tschertgar ina website
+
 permissions-capabilities-autoplay-allow =
     .label = Permetter audio e video
 permissions-capabilities-autoplay-block =
     .label = Bloccar l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloccar audio e video
+
 permissions-capabilities-allow =
     .label = Permetter
 permissions-capabilities-block =
     .label = Bloccar
 permissions-capabilities-prompt =
     .label = Adina dumandar
+
 permissions-capabilities-listitem-allow =
     .value = Permetter
 permissions-capabilities-listitem-block =
     .value = Bloccar
 permissions-capabilities-listitem-allow-session =
     .value = Permetter per questa sesida
+
 permissions-capabilities-listitem-off =
     .value = Deactivà
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Endatescha per plaschair in num da host valid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Excepziuns per la protecziun avanzada cunter il fastizar
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Ti has deactivà las protecziuns sin questas websites.
 permissions-exceptions-etp-window2 =
     .title = Excepziuns per la protecziun avanzada cunter il fastizar
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Ti pos inditgar las websites per las qu
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Excepziuns - Cookies e datas da websites
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Excepziuns - Cookies e datas da websites
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Ti pos definir per mintga website schebain 
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Excepziuns - Modus mo HTTPS
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Excepziuns - Modus mo HTTPS
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Ti pos deactivar il modus Mo-HTTPS per 
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Websites autorisadas - fanestras pop-up
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Websites autorisadas - fanestras pop-up
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Ti pos definir a tge websites che ti permett
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Excepziuns - infurmaziuns d'annunzia memorisadas
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Excepziuns - infurmaziuns d'annunzia memorisadas
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Las infurmaziuns d'annunzia per las s
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Websites autorisadas - installaziun da supplements
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Websites autorisadas - installaziun da supplements
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Ti pos definir a tge websites che ti permet
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Preferenzas - Reproducziun automatica
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Preferenzas - Reproducziun automatica
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Ti pos administrar qua las websites che na resg
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Parameters - autorisaziuns per communicaziuns
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Parameters - autorisaziuns per communicaziuns
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Qua tras vegn impedì ch'ina pagina
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Parameters - autorisaziuns per la posiziun
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Parameters - autorisaziuns per la posiziun
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Qua tras vegn impedì ch'ina pagina bet
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Parameters - permissiuns per la realitad virtuala
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Parameters - permissiuns per la realitad virtuala
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Qua tras vegn impedì ch'ina pagina betg menz
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Parameters - autorisaziuns per la camera
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Parameters - autorisaziuns per la camera
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Qua tras vegn impedì ch'ina pagina betg 
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Parameters - autorisaziuns per il microfon
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Parameters - autorisaziuns per il microfon
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Parameters – autorisaziuns per ils autpledaders
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Las suandantas websites dumondan la permissiun da pudair tscherner in apparat da sortida per tun. Ti pos specifitgar las websites che dastgan tscherner in apparat da sortida per tun.
+
 permissions-exceptions-doh-window =
     .title = Excepziuns per DNS via HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } na vegn betg ad utilisar DNS segirà per questas websites e lur sutdomenas.
+
 permissions-doh-entry-field = Endatar il num da domena da la website
     .accesskey = d
+
 permissions-doh-add-exception =
     .label = Agiuntar
     .accesskey = A
+
 permissions-doh-col =
     .label = Domena
+
 permissions-doh-remove =
     .label = Allontanar
     .accesskey = r
+
 permissions-doh-remove-all =
     .label = Allontanar tut
     .accesskey = t

@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Ti stos t'annunziar en il { -fxaccount-brand-n
 firefox-relay-get-unlimited-masks =
     .label = Administrar ils alias
     .accesskey = A
-firefox-relay-opt-in-title = Protegia tia adressa dad e-mail
-firefox-relay-opt-in-subtitle = Agiuntar { -relay-brand-name }
-firefox-relay-generate-mask-title = Protegia tia adressa dad e-mail
-firefox-relay-generate-mask-subtitle = Generar in alias da { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Cuntinuar
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protegia tia adressa dad e-mail:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

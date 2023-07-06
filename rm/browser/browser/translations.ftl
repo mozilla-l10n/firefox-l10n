@@ -5,8 +5,10 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Translatar questa pagina
+
 translations-panel-settings-button =
     .aria-label = Administrar ils parameters per la translaziun
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -18,6 +20,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Administrar las linguas
 translations-panel-settings-about = Davart las translaziuns en { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -25,6 +28,7 @@ translations-panel-settings-always-translate-language =
     .label = Adina translatar { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Adina translatar questa lingua
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -32,6 +36,7 @@ translations-panel-settings-never-translate-language =
     .label = Mai translatar { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Mai translatar questa lingua
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Mai translatar questa website
@@ -46,11 +51,13 @@ translations-panel-translate-button-loading =
     .label = Spetgar per plaschair...
 translations-panel-translate-cancel =
     .label = Interrumper
+
 translations-panel-error-translating = Igl ha dà in problem cun translatar. Emprova per plaschair anc ina giada.
 translations-panel-error-load-languages = Impussibel da chargiar las linguas
 translations-panel-error-load-languages-hint = Controllescha tia connexiun cun l'internet ed emprova anc ina giada.
 translations-panel-error-load-languages-hint-button =
     .label = Reempruvar
+
 translations-panel-error-unsupported = La translaziun n'è betg disponibla per questa pagina
 translations-panel-error-dismiss-button =
     .label = Jau hai chapì
@@ -108,6 +115,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Igl ha dà in problem cun telechargiar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-delete = Igl ha dà in problem cun stizzar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-list = I n'è betg reussì da retschaiver la glista da las linguas disponiblas per la translaziun. Rechargia la pagina per empruvar anc ina giada.
+
 translations-settings-title =
     .title = Parameters da la translaziun
     .style = min-width: 36em

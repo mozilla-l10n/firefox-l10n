@@ -5,20 +5,13 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Davart Glean
-about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> è ina biblioteca per la collecziun da datas utilisada en products da Mozilla. Questa pagina è per sviluppaders e testaders che ston <a data-l10n-name="fog-debug-doc-link">configurar il debugadi ed il nivel da log en Glean SDK</a>.
-about-glean-warning = In abus da questa interfatscha po far collabar { -brand-short-name }.
-tag-pings-label = Marcar tut ils pings tramess cun questa etichetta
-log-pings-label = Protocollar las datas d'utilisaziun da ping avant che trametter?
-send-pings-label = Trametter il ping cun num
-controls-button-label = Trametter ils parameters
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Visualisatur ping per il debugadi da { -glean-brand-name }
+
 about-glean-page-title2 = Davart { -glean-brand-name }
 about-glean-header = Davart { -glean-brand-name }
 about-glean-interface-description =
@@ -26,6 +19,7 @@ about-glean-interface-description =
     è ina biblioteca per rimnar datas che vegn utilisada en projects da { -vendor-short-name }.
     Questa interfatscha è concepida per servir a sviluppaders e testaders che
     <a data-l10n-name="fog-link">testeschan manualmain l'instrumentaziun</a>.
+
 about-glean-upload-enabled = Il transferiment da datas è activà.
 about-glean-upload-disabled = Il transferiment da datas è deactivà.
 about-glean-upload-enabled-local = Il transferiment da datas è activà mo per trametter datas ad in server local.
@@ -35,6 +29,7 @@ about-glean-upload-fake-enabled =
     per che las datas vegnian tuttina registradas localmain.
     Attenziun: Sch'i vegn definì in tag da debugadi, vegnan ils pings transferids en
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>, independentamain dals parameters.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Las <a data-l10n-name="fog-prefs-and-defines-doc-link">preferenzas e definiziuns</a> relevantas includan:
 # Variables:
@@ -53,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Davart ils tests
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -60,6 +56,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } documentaziun dals tests da l'instrumentaziun da { -fog-brand-name }</a>
     ed en la <a data-l10n-name="glean-sdk-doc-link">documentaziun da { glean-sdk-brand-name }</a>,
     ma qua la resumaziun da las instrucziuns per testar manualmain che l'instrumentaziun funcziuna:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (na trametter nagin ping)
 # An in-line text input field precedes this string.
@@ -89,6 +86,7 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Visita la pagina da { glean-debug-ping-viewer-brand-name } per pings cun tes tag</a>.
     I na duess betg cuzzar dapli ch'in pèr secundas tranter il mument che ti smatgas il buttun enfin che tes ping arriva.
     Mintgatant poi durar in pèr minutas.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Per ulteriurs tests <i>ad hoc</i>,
@@ -96,7 +94,10 @@ about-glean-adhoc-explanation =
     cun avrir la consola dals utensils per sviluppaders qua en <code>about:glean</code>
     ed utilisar l'API <code>testGetValue()</code> sco suonda:
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Applitgar ils parameters e trametter in ping
+
 about-glean-about-data-header = Davart las datas
 about-glean-about-data-explanation =
     Per sfegliar en la glista da las datas rimnadas, per plaschair consultar il 

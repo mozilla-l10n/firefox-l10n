@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-webpage-languages-window =
-    .title = Parameters da lingua per las paginas d'internet
-    .style = width: 70em
-
 webpage-languages-window2 =
     .title = Parameters da lingua per las paginas d'internet
     .style = min-width: 70em
@@ -52,10 +48,6 @@ languages-code-format =
 
 languages-active-code-format =
     .value = { languages-code-format.label }
-
-browser-languages-window =
-    .title = Parameters da lingua da { -brand-short-name }
-    .style = width: 50em
 
 browser-languages-window2 =
     .title = Parameters da lingua da { -brand-short-name }

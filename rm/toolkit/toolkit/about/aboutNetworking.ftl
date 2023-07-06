@@ -34,13 +34,6 @@ about-networking-messages-received = Messadis retschavids
 about-networking-bytes-sent = Bytes tramess
 about-networking-bytes-received = Bytes retschavids
 about-networking-logging = Protocollar
-about-networking-log-tutorial = Legia l'artitgel <a data-l10n-name="logging">HTTP Logging</a> per instrucziuns davart l'utilisaziun da quest utensil.
-about-networking-current-log-file = Datoteca da protocol actuala:
-about-networking-current-log-modules = Moduls da protocol actuals:
-about-networking-set-log-file = Definir la datoteca da protocol
-about-networking-set-log-modules = Definir ils moduls da protocol
-about-networking-start-logging = Cumenzar a protocollar
-about-networking-stop-logging = Chalar da protocollar
 about-networking-dns-lookup = Retschertga DNS
 about-networking-dns-lookup-button = Resolver
 about-networking-dns-domain = Domena:

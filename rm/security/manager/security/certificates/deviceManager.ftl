@@ -5,10 +5,6 @@
 
 ## Strings used for device manager
 
-devmgr =
-    .title = Administratur dal modul da criptografia
-    .style = width: 67em; height: 32em;
-
 devmgr-window =
     .title = Administratur dal modul da criptografia
     .style = min-width: 67em; min-height: 32em;

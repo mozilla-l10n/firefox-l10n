@@ -4,6 +4,7 @@
 
 about-reader-loading = Chargiar…
 about-reader-load-error = Impussibel da chargiar l'artitgel da la pagina
+
 about-reader-color-scheme-light = Cler
     .title = Schema da colurs cleras
 about-reader-color-scheme-dark = Stgir
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Schema da colurs sepia
 about-reader-color-scheme-auto = Automatic
     .title = Schema da colurs automatic
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

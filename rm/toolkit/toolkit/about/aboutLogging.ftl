@@ -36,6 +36,7 @@ about-logging-preset-media-playback-label = Reproducziun multimedia
 about-logging-preset-media-playback-description = Moduls da protocollaziun per diagnostitgar problems da reproducziun da multimedia (senza problems da videoconferenza)
 about-logging-preset-custom-label = Persunalisà
 about-logging-preset-custom-description = Moduls da protocollaziun tschernids manualmain
+
 # Error handling
 about-logging-error = Errur:
 
@@ -49,4 +50,5 @@ about-logging-unknown-profiler-preset = Preselecziun da profiler «{ $v }» nune
 about-logging-unknown-option = Opziun about:logging «{ $k }» nunenconuschenta
 about-logging-configuration-url-ignored = Ignorà l'URL da configuraziun
 about-logging-file-and-profiler-override = Impussibel da sfurzar da scriver ina datoteca e remplazzar il medem mument las opziuns dal profiler
+
 about-logging-configured-via-url = Opziun configurada via URL
