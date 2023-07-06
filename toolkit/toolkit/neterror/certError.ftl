@@ -7,6 +7,7 @@
 
 connectionFailure-title = Byanze kwinjira
 deniedPortAccess-title = Aderesi yigabanyijwe
+
 fileNotFound-title = Dosiye ntibonetse
 generic-title = Ahe.
 netInterrupt-title = Kwihuza kwaburijwemo

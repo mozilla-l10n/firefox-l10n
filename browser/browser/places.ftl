@@ -15,3 +15,8 @@ places-view-sort-col-url =
 places-view-sort-col-last-modified =
     .label = Cyahinduwe Bwa Nyuma
 
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+##
+

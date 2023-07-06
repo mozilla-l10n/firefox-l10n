@@ -81,3 +81,6 @@ general-strict-mode =
     .value = Uburyo bwo kubahiriza amabwiriza
 security-no-visits = Oya
 
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+

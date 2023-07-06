@@ -22,5 +22,7 @@ state-header = Leta
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Birambuye
+
 update-installed-on = Isanzwe kuri: { $date }
+
 update-status = Imimerere: { $status }

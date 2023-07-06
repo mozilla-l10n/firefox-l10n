@@ -5,12 +5,6 @@
 
 ## First wizard page
 
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] Intangiriro
-       *[other] Ikaze kuri { create-profile-window.title }
-    }
-
 create-profile-first-page-header2 =
     { PLATFORM() ->
         [macos] Intangiriro
@@ -30,12 +24,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] Umwanzuro
-       *[other] Irimo kurangiza { create-profile-window.title }
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

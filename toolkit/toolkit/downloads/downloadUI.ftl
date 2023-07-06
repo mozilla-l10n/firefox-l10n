@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Nta Kuvamo
        *[other] Nta Kuvamo
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Nuva kuri Interineti ubu, igikururwa 1 kirahagarikwa. Urashaka koko kuvaho?
        *[other] Nuva kuri Interineti ubu, ibikururwa { $downloadsCount } birahagarikwa. Urashaka koko kuvaho?
     }
 download-ui-dont-go-offline-button = Kuguma kuri Interineti
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Guhagarika Igikururwa 1

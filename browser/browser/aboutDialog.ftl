@@ -11,7 +11,17 @@ update-checkForUpdatesButton =
 
 update-checkingForUpdates = Kugenzura niba hari ibigezweho
 
+## Variables:
+##   $transfer (string) - Transfer progress.
+
+##
+
 update-noUpdatesFound = igezweho
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+##
 
 helpus = Urashaka gufasha?<label data-l10n-name="helpus-donateLink">Tanga ubufasha</label> cyangwa<label data-l10n-name="helpus-getInvolvedLink">Jyamo nawe!</label>
 

@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Irimo Kwimura Icyemezo
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Irimo Kwimura Icyemezo
     .style = min-width: 46em
@@ -56,4 +52,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Icyitonderwa: Niwibagirwa ijambobanga ryawe ry'inyibutsacyemezo, ntuzashobora kugaruraho iyi nyibutsa  nyuma yaho. Usabwe kuyandika ahantu hizewe.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 
