@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Faddina de installatzione
 opensearch-error-duplicate-desc = { -brand-short-name } no at pòdidu installare su plugin de chirca dae { $location-url } ca esistit giai unu motore cun su pròpiu nòmine.
+
 opensearch-error-format-title = Formadu non vàlidu
 opensearch-error-format-desc = { -brand-short-name } no at pòdidu installare su motore de chirca dae: { $location-url }
+
 opensearch-error-download-title = Faddina de iscarrigamentu
 opensearch-error-download-desc = { -brand-short-name } no at pòdidu iscarrigare su cumplementu de chirca dae: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } no at pòdidu iscarrigare
 
 searchbar-submit =
     .tooltiptext = Imbia sa chirca
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Chirca
+
 searchbar-icon =
     .tooltiptext = Chirca
 

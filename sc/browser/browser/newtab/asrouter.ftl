@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funtzionalidade cussigiada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pro ite bido custu?
+
 cfr-doorhanger-extension-cancel-button = Immoe nono
     .accesskey = I
+
 cfr-doorhanger-extension-ok-button = Agiunghe immoe
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gesti sa cunfiguratzione de is cussìgios
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = No m'ammustres prus custu cussìgiu
     .accesskey = o
+
 cfr-doorhanger-extension-learn-more-link = Àteras informatziones
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = dae { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Cussìgiu
 cfr-doorhanger-extension-notification2 = Cussìgiu
     .tooltiptext = Estensione cussigiada
     .a11y-announcement = Estensione cussigiada a disponimentu
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Cussìgiu
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Àteras informatziones
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Funtzionalidade noa:
+
 cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
+
 cfr-whatsnew-release-notes-link-text = Leghe is notas de sa versione
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Disativa
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Sa seguresa tua est de importu. Immoe { -brand-short-name } assolat is sitos web s'unu de s'àteru, e custu faghet prus difìtzile chi ti furent craes, nùmeros de cartas de crèditu e àteros datos cunfidentziales.
-cfr-doorhanger-fission-header = Assolamentu de sitos
-cfr-doorhanger-fission-primary-button = AB, apo cumprèndidu
-    .accesskey = B
-cfr-doorhanger-fission-secondary-button = Àteras informatziones
-    .accesskey = A
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Podet èssere chi is vìdeos de custu situ no siant ammustrados in manera curreta in custa versione de { -brand-short-name }. Pro una riprodutzione curreta, agiorna { -brand-short-name } immoe.
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Agiorna immoe
     .accesskey = i
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Àteras informatziones
-    .title = Ismànnia si boles ischire de prus subra de sa funtzionalidade
-spotlight-learn-more-expanded = Àteras informatziones
-    .title = Serra
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,18 +142,6 @@ spotlight-public-wifi-vpn-link = Immoe nono
     .accesskey = n
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Proa in anteprima s'esperièntzia de riservadesa
-    prus poderosa de semper
-spotlight-total-cookie-protection-body = S'amparu totale contra is testimòngios arressa is sighidores dae s'impreu de is testimòngios pro ti sighire a inghìriu de sa rete.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } creat una cresura a inghìriu de is testimòngios, limitende·ddos a su situ in ue ses, in manera chi is sighidores non ddos potzant impreare pro ti sighire. Impreende custa funtzionalidade in antìtzipu, as a agiudare a dda megiorare, pro creare una rete megiore pro totus.
-spotlight-total-cookie-protection-primary-button = Ativa s'amparu totale contra is testimòngios
-spotlight-total-cookie-protection-secondary-button = Immoe nono
 
 ## Emotive Continuous Onboarding
 
@@ -185,11 +171,13 @@ spotlight-pin-secondary-button = Immoe nono
 
 mr2022-background-update-toast-title = Su { -brand-short-name } nou. Prus privadu. Prus pagu sighiduras. Nissunu cumpromissu.
 mr2022-background-update-toast-text = Proa su { -brand-short-name } nou immoe, atualizadu cun sa prus protetzione manna contra a is sighiduras.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Aberi { -brand-shorter-name } immoe
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -208,6 +196,7 @@ firefoxview-cfr-body-v2 = Recùpera is ischedas serradas dae pagu, e passa chene
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Saluda a { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Boles abèrrere cussa ischeda in su telèfonu tuo? Piga·dda. Ti serbit cussu situ chi as bidu immoe immoe? Dd'agatas in { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Càstia comente funtzionat
@@ -217,6 +206,7 @@ firefoxview-spotlight-promo-secondarybutton = Brinca
 
 colorways-cfr-primarybutton = Sèbera sa cumbinatzione de colores
     .accesskey = S
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Colora su navigadore tuo cun { -brand-short-name } cumbinatziones esclusivas ispiradas a is boghes chi ant cambiadu sa cultura.
 colorways-cfr-header-28days = Is cumbinatziones de colores Boghes indipendentes iscadint su 16 de ghennàrgiu
@@ -239,6 +229,7 @@ july-jam-headline = Semus semper cun tue
 july-jam-body = { -brand-short-name } blocat unos 3000 e prus sighiduras a su mese pro onni utente, e ti donat un’atzessu a internet prus seguru, lestru e de calidade.
 july-jam-set-default-primary = Aberi is ligòngios cun { -brand-short-name }
 fox-doodle-pin-headline = Ti donamus torra su benebènnidu!
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Un’apuntu a su bolu: podes portare su navigadore tuo indipendente preferidu semper acanta.

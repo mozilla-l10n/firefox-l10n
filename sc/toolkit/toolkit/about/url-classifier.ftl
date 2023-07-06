@@ -14,6 +14,11 @@ url-classifier-cache-title = Cache
 url-classifier-cache-clear-btn = Isbòida
 url-classifier-cache-table-name = Nòmine de sa tabella
 url-classifier-cache-show-entries = Ammustra is detàllios
+
 url-classifier-enabled = Ativadu
 url-classifier-disabled = Disativadu
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-download-error = faddina in s'iscarrigamentu ({ $error })

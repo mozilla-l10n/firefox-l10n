@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } at blocadu custa p
 safeb-palm-advisory-desc = Cussìgiu frunidu dae <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = A coa
 safeb-palm-see-details-label = Ammustra detàllios
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = Su situ <span data-l10n-name='sitename'>{ $sitename }</span> est istadu sinnaladu <a data-l10n-name='error_desc_link'>comente unu situ ingannosu</a>. Podes <a data-l10n-name='report_detection'>sinnalare unu problema de rilevamentu</a> o <a data-l10n-name='ignore_warning_link'>non cunsiderare s'arriscu</a> e bisitare custu situ non seguru.
 safeb-blocked-phishing-page-error-desc-no-override = Su situ <span data-l10n-name='sitename'>{ $sitename }</span>est istadu sinnaladu <a data-l10n-name='error_desc_link'>comente unu situ ingannosu</a>. Podes <a data-l10n-name='report_detection'>sinnalare unu problema de rilevamentu</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Leghe àteras informatziones subra is sitos ingannosos e sa pisca eletrònica in <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Agatas àteras informatziones subra s'amparu de { -brand-short-name } contra sa pisca eletrònica e is programmas malos in <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = Ant sinnaladu chi <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>cuntenet programmas malos</a>. Podes <a data-l10n-name='ignore_warning_link'>inniorare s'arriscu</a> e sighire in custu situ non seguru.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Ant sinnaladu chi <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>cuntenet programmas malos</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = Leghe àteras informatziones subra s'amparu de { -brand-short-name } contra sa pisca eletrònica e is programmas malos in <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = Ant sinnaladu chi <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>cuntenet programmas dannosos</a>. Podes <a data-l10n-name='ignore_warning_link'>inniorare s'arriscu</a> e sighire in custu situ non seguru.
 safeb-blocked-unwanted-page-error-desc-no-override = Ant sinnaladu chi <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>cuntenet programmas dannosos</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Leghe àteras informatziones subra is programmas dannosos e non disigiados in sa <a data-l10n-name='learn_more_link'>Polìtica de is programmas non disigiados</a>. Agata àteras informatziones subra s'amparu contra sa pisca eletrònica e is programmas malos de { -brand-short-name } in <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = Ant sinnaladu chi <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>cuntenet aplicatziones chi diant pòdere èssere dannosas</a>. Podes <a data-l10n-name='ignore_warning_link'>inniorare s'arriscu</a> e sighire in custu situ non seguru.
 safeb-blocked-harmful-page-error-desc-no-override = Ant sinnaladu chi <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>cuntenet aplicatziones chi diant pòdere èssere dannosas</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Leghe àteras informatziones subra s'amparu de { -brand-short-name } contra sa pisca eletrònica e is programmas malos in <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Custu no est unu situ ingannosu…

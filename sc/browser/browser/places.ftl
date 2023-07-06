@@ -23,8 +23,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Aberi in una ventana privada noa
     .accesskey = p
+
 places-empty-bookmarks-folder =
     .label = (Bòidu)
+
 places-add-bookmark =
     .label = Agiunghe unu sinnalibru...
     .accesskey = s
@@ -37,6 +39,7 @@ places-add-folder =
 places-add-separator =
     .label = Agiunghe unu separadore
     .accesskey = s
+
 places-view =
     .label = Visualiza
     .accesskey = V
@@ -55,12 +58,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Pro data e situ
     .accesskey = P
+
 places-history-search =
     .placeholder = Chirca in sa cronologia
 places-history =
     .aria-label = Cronologia
 places-bookmarks-search =
     .placeholder = Chirca in is sinnalibros
+
 places-delete-domain-data =
     .label = Iscaressi custu situ
     .accesskey = s
@@ -93,18 +98,22 @@ places-delete-page =
            *[other] Cantzella is pàginas
         }
     .accesskey = z
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Sinnalibros gestidos
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Sutacartella
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Àteros sinnalibros
+
 places-show-in-folder =
     .label = Ammustra in sa cartella
     .accesskey = c
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -114,6 +123,7 @@ places-delete-bookmark =
            *[other] Cantzella is sinnalibros
         }
     .accesskey = C
+
 # Variables:
 #   $count (number) - The number of bookmarks being added.
 places-create-bookmark =
@@ -123,98 +133,125 @@ places-create-bookmark =
            *[other] Agiunghe is pàginas a is sinnalibros…
         }
     .accesskey = S
+
 places-untag-bookmark =
     .label = Boga·nche s'eticheta
     .accesskey = B
+
 places-manage-bookmarks =
     .label = Gesti is sinnalibros
     .accesskey = G
+
 places-forget-about-this-site-confirmation-title = Iscaressi·ti de custu situ
-# Variables:
-# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-message = Custa atzione at a cantzellare totu is datos acapiados a { $hostOrBaseDomain }, cosa chi incluit ca cronologia, is craes, is testimòngios, sa memòria temporànea e is preferèntzias pro is cuntenutos. Seguru chi boles sighire?
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = Custa atzione at a cantzellare totu is datos acapiados a { $hostOrBaseDomain }, cosa chi incluit sa cronologia, is craes, is testimòngios, sa memòria temporànea e is preferèntzias pro is cuntenutos. Non s’ant a cantzellare is craes e is sinnalibros acapiados. Seguru chi boles sighire?
+
 places-forget-about-this-site-forget = Iscaressi
-places-library =
-    .title = Biblioteca
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = Biblioteca
+
 places-organize-button =
     .label = Organiza
     .tooltiptext = Organiza is sinnalibros tuos
     .accesskey = O
+
 places-organize-button-mac =
     .label = Organiza
     .tooltiptext = Organiza is sinnalibros tuos
+
 places-file-close =
     .label = Serra
     .accesskey = S
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = Visualizatziones
     .tooltiptext = Muda sa visualizatzione tua
     .accesskey = V
+
 places-view-button-mac =
     .label = Visualizatziones
     .tooltiptext = Muda sa visualizatzione tua
+
 places-view-menu-columns =
     .label = Ammustra colunnas
     .accesskey = c
+
 places-view-menu-sort =
     .label = Assenta
     .accesskey = A
+
 places-view-sort-unsorted =
     .label = No assentadu
     .accesskey = N
+
 places-view-sort-ascending =
     .label = Òrdine A > Z
     .accesskey = A
+
 places-view-sort-descending =
     .label = Òrdine Z > A
     .accesskey = Z
+
 places-maintenance-button =
     .label = Importatzione e còpia de seguresa
     .tooltiptext = Importa e faghe una còpia de seguresa de is sinnalibros tuos
     .accesskey = I
+
 places-maintenance-button-mac =
     .label = Importatzione e còpia de seguresa
     .tooltiptext = Importa e faghe una còpia de seguresa de is sinnalibros tuos
+
 places-cmd-backup =
     .label = Faghe una còpia de seguresa...
     .accesskey = F
+
 places-cmd-restore =
     .label = Recùpera
     .accesskey = R
+
 places-cmd-restore-from-file =
     .label = Sèbera un'archìviu…
     .accesskey = S
+
 places-import-bookmarks-from-html =
     .label = Importa sinnalibros dae HTML…
     .accesskey = I
+
 places-export-bookmarks-to-html =
     .label = Esporta sinnalibros in HTML…
     .accesskey = E
+
 places-import-other-browser =
     .label = Importa datos dae un'àteru navigadore…
     .accesskey = A
+
 places-view-sort-col-name =
     .label = Nòmine
+
 places-view-sort-col-tags =
     .label = Etichetas
+
 places-view-sort-col-url =
     .label = Positzione
+
 places-view-sort-col-most-recent-visit =
     .label = Bìsita prus reghente
+
 places-view-sort-col-visit-count =
     .label = Nùmeru de bìsitas
+
 places-view-sort-col-date-added =
     .label = Agiuntu
+
 places-view-sort-col-last-modified =
     .label = Ùrtima modìfica
+
 places-view-sortby-name =
     .label = Assenta dae su nòmine
     .accesskey = n
@@ -236,13 +273,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = Assenta dae is etichetas
     .accesskey = E
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = A coa
+
 places-forward-button =
     .tooltiptext = In antis
+
 places-details-pane-select-an-item-description = Sèbera un'elementu pro dd'ammustrare e nde modificare is propiedades
+
 places-details-pane-no-items =
     .value = Nissunu elementu
 # Variables:

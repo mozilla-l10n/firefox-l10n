@@ -10,6 +10,7 @@ about-logging-set-log-file = Aberi s'archìviu de registru
 ## Logging presets
 
 about-logging-preset-custom-label = Personalizadu
+
 # Error handling
 about-logging-error = Faddina:
 

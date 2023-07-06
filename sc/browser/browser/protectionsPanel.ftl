@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Faddina in s’imbiu de s’informe. Torra a nche proare a pustis.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Assentadu, su situ? Imbia un'informe
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Istandard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Àteras informatziones a subra de s'amparu contra de sa sighidura megiorada
+
 protections-panel-etp-on-header = Sa protetzione megiorada contra sa sighidura est ATIVADA pro custu situ
 protections-panel-etp-off-header = Sa protetzione megiorada contra sa sighidura est DISATIVADA pro custu situ
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Su situ non funtzionat?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Su situ non funtzionat?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Totu is sighiduras de custu
 ##
 
 protections-panel-no-trackers-found = Nissunu sighidore connotu dae { -brand-short-name } rilevadu in custa pàgina.
+
 protections-panel-content-blocking-tracking-protection = Cuntenutu de sighidura
+
 protections-panel-content-blocking-socialblock = Elementos de sighidura de retes sotziales
 protections-panel-content-blocking-cryptominers-label = Cripto-minadores
 protections-panel-content-blocking-fingerprinters-label = Generadores de imprentas digitales
@@ -64,6 +70,7 @@ protections-panel-protectionsdashboard-label = Pannellu de protetziones
 
 # The header of the list
 protections-panel-site-not-working-view-header = Istuda is protetziones si tenes problemas cun:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Campos de atzessu
 protections-panel-site-not-working-view-issue-list-forms = Formulàrios
@@ -71,6 +78,7 @@ protections-panel-site-not-working-view-issue-list-payments = Pagamentos
 protections-panel-site-not-working-view-issue-list-comments = Cummentos
 protections-panel-site-not-working-view-issue-list-videos = Vìdeos
 protections-panel-site-not-working-view-issue-list-fonts = Caràteres
+
 protections-panel-site-not-working-view-send-report = Imbia un'informe
 
 ##
@@ -80,13 +88,16 @@ protections-panel-cryptominers = Is cripto-minadores impreant su podere de càrc
 protections-panel-fingerprinters = Is generadores de imprentas digitales regollint is cunfiguratziones dae su navigadore e s'ordinadore tuos pro nde creare unu profilu tuo. Pro mèdiu de is imprentas digitales, ti podent sighire intre is diferentes sitos.
 protections-panel-tracking-content = Is sitos podent carrigare annùntzios publitzitàrios esternos, vìdeos e àteros cuntenutos cun còdighe pro sa sighidura. Si blocas is cuntenutos de sighidura, is sitos podent carrigare prus lestros, ma unos cantos butones, formulàrios e campos de atzessu podent non funtzionare.
 protections-panel-social-media-trackers = Is retes sotziales ponent sighidores in àteros sitos pro sighire su chi faghes, leghes e càstias in lìnia. Custu permitit a is aziendas de ischire prus cosa subra de tue a fora de su chi cumpartzis in is profilos de retes sotziales tuos.
+
 protections-panel-description-shim-allowed = Unos cantos de is sighidores sinnalados in bàsciu sunt istados isblocados in parte, ca nche as interagidu.
 protections-panel-description-shim-allowed-learn-more = Àteras informatziones
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Sighidore isblocadu in parte
+
 protections-panel-content-blocking-manage-settings =
     .label = Gesti is cunfiguratziones de protetzione
     .accesskey = G
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Sinnala unu situ chi non funtzionat
 protections-panel-content-blocking-breakage-report-view-description = Blocare unos cantos sighidores podet causare problemas cun unos cantos sitos. Sinnalare custos problemas agiudat a megiorare { -brand-short-name } pro totus. Custu informe chi as a imbiare a Mozilla at a incluire s'URL de su situ e informatziones subra de is cunfiguratziones tuas pro su navigadore. <label data-l10n-name="learn-more">Àteras informatziones</label>
@@ -108,6 +119,7 @@ protections-panel-cookie-banner-handling-header = Ismenguada de is avisos de tes
 protections-panel-cookie-banner-handling-enabled = Ativu pro custu situ
 protections-panel-cookie-banner-handling-disabled = Disativadu pro custu situ
 protections-panel-cookie-banner-handling-undetected = Situ non cumpatìbile
+
 protections-panel-cookie-banner-view-title =
     .title = Ismenguada de is avisos de testimòngios
 # Variables

@@ -8,14 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Informe subra de { $addon-name }
+
 abuse-report-title-extension = Sinnala custa estensione a { -vendor-short-name }
 abuse-report-title-sitepermission = Sinnala custu cumplementu de permissos de situ a { -vendor-short-name }
 abuse-report-title-theme = Sinnala custu tema a { -vendor-short-name }
 abuse-report-subtitle = Cale est su problema?
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = dae <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore = No ischis ite depes seletzionare? <a data-l10n-name="learnmore-link">Leghe àteru in pitzus de is informes de estensiones e temas</a>
+
 abuse-report-submit-description = Descrie su problema (optzionale)
 abuse-report-textarea =
     .placeholder = Est prus fàtzile pro nois acontzare unu problema si nde tenimus is detàllios. Descrie ite ti sutzedet. Gràtzias de nos agiudare a mantènnere internet in salude.
@@ -60,21 +64,28 @@ abuse-report-messagebar-action-cancel = Annulla
 
 abuse-report-damage-reason-v2 = At fatu dannu a s’elaboradore meu o at postu in perìgulu is datos meos
 abuse-report-damage-example = Esempru: at installadu malware o at furadu datos
+
 abuse-report-spam-reason-v2 = Cuntenet àliga o insertat publitzidade non disigiada
 abuse-report-spam-example = Esempru: insertat annùntzios in is sitos web
+
 abuse-report-settings-reason-v2 = At modificadu su motore de chirca, sa pàgina printzipale o s'ischeda noa chene de m'informare o de mi preguntare
 abuse-report-settings-suggestions = Prima de imbiare un'informe subra de s'estensione, podes proare de modificare sa cunfiguratzione tua:
 abuse-report-settings-suggestions-search = Modìfica sa cunfiguratzione de chirca predefinida
 abuse-report-settings-suggestions-homepage = Modìfica sa pàgina printzipale s'ischeda noa
+
 abuse-report-deceptive-reason-v2 = Narat chi est una cosa chi no est
 abuse-report-deceptive-example = Esempru: immàgines o descritziones ingannosas
+
 abuse-report-broken-reason-extension-v2 = Non funtzionat, istròpiat sitos e allentat { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Non funtzionat, istròpiat sitos e allentat { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Non funtzionat o istròpiat sa visualizatzione de su navigadore
+
 abuse-report-policy-reason-v2 = Cuntenet cuntenutu de òdiu, violentu o illegale
 abuse-report-policy-suggestions =
     Nota: Informes de problemas de deretos de autore e màrchios registrados depent èssere fatos in unu protzessu separadu.
     <a data-l10n-name="report-infringement-link">Imprea custas istrutziones</a> pro imbiare un’informe.
+
 abuse-report-unwanted-reason-v2 = No dd'apo mai bòlidu e no iscio comente ddu bogare
 abuse-report-unwanted-example = Esempru: un'aplicatzione dd'at installadu chena su permissu miu
+
 abuse-report-other-reason = Un'àtera cosa

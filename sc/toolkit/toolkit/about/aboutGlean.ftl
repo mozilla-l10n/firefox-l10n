@@ -5,6 +5,8 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-send-pings-label = Imbia su ping tzerriadu
-controls-button-label = Imbia sa cunfiguratzione
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+
 controls-button-label-verbose = Àplica sa cunfiguratzione e imbia su ping
+

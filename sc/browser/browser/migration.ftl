@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Assistente de importatzione
+
 import-from =
     { PLATFORM() ->
         [windows] Importa is optziones, sinnalibros, cronologia, craes e àteros datos dae:
        *[other] Importa preferèntzias, sinnalibros, cronologia, craes e àteros datos dae:
     }
+
 import-from-bookmarks = Importa is sinnalibros dae:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = Impossìbile agatare nissunu programma cun sinnalibros, cronologia o craes.
+
 import-source-page-title = Importatzione de sa cunfiguratzione e de is datos
 import-items-page-title = Elementos de importare
+
 import-items-description = Seletziona cale elementos boles importare:
+
 import-permissions-page-title = Dona permissos a { -brand-short-name }
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS rechedet chi permitas in manera esplìtzita a { -brand-short-name } de atzèdere a is sinnalibros de Safari. Incarca «Sighi» e seletziona s'archìviu «Bookmarks.plist» in su menù de abertura de archìvios chi at a aparèssere.
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = A macOS ddi bisòngiat chi permitas a { -brand-short-name } de atzèdere a is datos de Safari. Incarca “Sighi”, sèbera sa cartella “Safari” in su diàlogu de Finder chi aparit e in fines incarca “Aberi”.
+
 import-migrating-page-title = Importende…
+
 import-migrating-description = Importende is elementos imbenientes…
+
 import-select-profile-page-title = Seletziona profilu
+
 import-select-profile-description = Is profilos imbenientes sunt a disponimentu pro s'importatzione dae:
+
 import-done-page-title = Importatzione cumpletada
+
 import-done-description = Importados is elementos imbenientes:
+
 import-close-source-browser = Assegura·ti chi su navigadore seletzionadu siat serradu prima de sighire.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Lista de letura (dae Safari)
 imported-edge-reading-list = Lista de letura (dae Edge)
 
@@ -101,6 +115,7 @@ browser-data-cookies-checkbox =
     .label = Testimòngios
 browser-data-cookies-label =
     .value = Testimòngios
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,10 +128,12 @@ browser-data-history-label =
             [firefox] Cronologia de navigatzione e sinnalibros
            *[other] Cronologia de navigatzione
         }
+
 browser-data-formdata-checkbox =
     .label = Cronologia de formulàrios sarvados
 browser-data-formdata-label =
     .value = Cronologia de formulàrios sarvados
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,6 +142,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Credentziales e craes sarvadas
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -139,14 +157,17 @@ browser-data-bookmarks-label =
             [edge] Preferidos
            *[other] Sinnalibros
         }
+
 browser-data-otherdata-checkbox =
     .label = Àteros datos
 browser-data-otherdata-label =
     .label = Àteros datos
+
 browser-data-session-checkbox =
     .label = Ventanas e ischedas
 browser-data-session-label =
     .value = Ventanas e ischedas
+
 browser-data-payment-methods-checkbox =
     .label = Mètodos de pagamentu
 browser-data-payment-methods-label =

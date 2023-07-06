@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Chirca
     .aria-label = Chirca
+
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Chirca cun { $engine } o inserta un'indiritzu
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Chirca o inserta un'indiritzu
     .title = Chirca o inserta un'indiritzu
     .aria-label = Chirca o inserta un'indiritzu
+
 newtab-search-box-text = Chirca in rete
 newtab-search-box-input =
     .placeholder = Chirca in rete
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Modìfica s'incurtzadura
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
     .placeholder = Inserta unu tìtulu
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Iscrie o incolla un'URL
 newtab-topsites-url-validation = Ddoe est bisòngiu de un'URL vàlidu
+
 newtab-topsites-image-url-label = URL de s'immàgine personalizada
 newtab-topsites-use-image-link = Imprea un'immàgine personalizada…
 newtab-topsites-image-validation = Carrigamentu de s'immàgine fallidu. Proa un'URL diferente.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Patrotzinadu
 newtab-menu-section-tooltip =
     .title = Aberi su menù
     .aria-label = Aberi su menù
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Boga
     .aria-label = Boga
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -155,14 +161,17 @@ newtab-label-removed-bookmark = Sinnalibru bogadu
 newtab-label-recommended = De tendèntzia
 newtab-label-saved = Sarvadu in { -pocket-brand-name }
 newtab-label-download = Iscarrigadu
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrotzinadu
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Patrotzinadu dae { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -201,6 +210,7 @@ newtab-section-header-pocket = Cussigiados dae { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Comente cumintzes a navigare, amus a ammustrare inoghe is mègius artìculos, vìdeos, e àteras pàginas chi as bisitadu o agiuntu a is sinnalibros de reghente.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -225,19 +235,10 @@ newtab-pocket-learn-more = Leghe àteru
 newtab-pocket-cta-button = Otene { -pocket-brand-name }
 newtab-pocket-cta-text = Sarva is istòrias tuas preferidas in { -pocket-brand-name }, e ispàssia·ti cun leturas incantadoras.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } est parte de sa famìlia de { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Sarva in { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = Sarvadu in { -pocket-brand-name }
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Càrriga àteras istòrias
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = As giai bidu totu!
-newtab-pocket-last-card-desc = Torra·nde a chircare prus a tardu.
-newtab-pocket-last-card-image =
-    .alt = As giai bidu totu
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Sarva
 newtab-pocket-saved = Sarvadu

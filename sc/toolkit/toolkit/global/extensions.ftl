@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Annulla
     .accesskey = A
+
 webext-perms-sideload-text = Un'àteru programma in s'elaboradore tuo at installadu unu cumplementu chi diat pòdere tènnere efetu in su navigadore tuo. Revisiona is rechestas de permissos de custu cumplementu e sèbera de ativare o annullare (pro ddu lassare disativadu).
 webext-perms-sideload-text-no-perms = Un'àteru programma in s'elaboradore tuo at installadu unu cumplementu chi diat pòdere tènnere efetu in su navigadore tuo. Sèbera de ativare o annullare (pro ddu lassare disativadu).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Annulla
     .accesskey = l
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } est istadu atualizadu. Depes aprovare is permissos noos in antis de s'installatzione de de versione atualizada. Si sèberas “annulla” as a abarrare cun sa versione atuale de s'estensione. S'estensione at a tènnere su permissu de:
 webext-perms-update-accept =
     .label = Agiorna
     .accesskey = g
+
 webext-perms-optional-perms-list-intro = Bolet:
 webext-perms-optional-perms-allow =
     .label = Permìtere
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Refuda
     .accesskey = R
+
 webext-perms-host-description-all-urls = Atzèdere a is datos de totu is sitos web
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Atzèdere a is datos web de su domìniu { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Atzèdere a is datos tuos de { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

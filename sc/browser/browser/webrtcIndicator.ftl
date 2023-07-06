@@ -30,6 +30,7 @@ webrtc-item-browser = ischeda
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Orìgine disconnotu
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Ischedas chi cumpartzint dispositivos
     .accesskey = d
+
 webrtc-sharing-window = Ses cumpartzende un'àtera ventana de s'aplicatzione.
 webrtc-sharing-browser-window = Ses cumpartzende { -brand-short-name }.
 webrtc-sharing-screen = Ses cumpartzende totu s'ischermu.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Controlla is cumpartziduras
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Controlla is cumpartziduras in “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Ses cumpartzende sa càmera cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Ses cumpartzende sa càmera cun { $tabCount } ischeda
            *[other] Ses cumpartzende sa càmera cun { $tabCount } ischedas
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Ses cumpartzende su micròfonu cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Ses cumpartzende su micròfonu cun { $tabCount } ischeda
            *[other] Ses cumpartzende su micròfonu cun { $tabCount } ischedas
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Ses cumpartzende un'aplicatzione cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Ses cumpartzende un'aplicatzione cun { $tabCount } ischeda
            *[other] Ses cumpartzende un'aplicatzione cun { $tabCount } ischedas
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ses cumpartzende s'ischermu cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ses cumpartzende s'ischermu cun { $tabCount } ischeda
            *[other] Ses cumpartzende s'ischermu cun { $tabCount } ischedas
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Ses cumpartzende una ventana cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Ses cumpartzende una ventana cun { $tabCount } ischeda
            *[other] Ses cumpartzende una ventana cun { $tabCount } ischedas
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Ses cumpartzende un'ischeda cun “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = Boles permìtere chi { $origin } a
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro ascurtare s’àudio de custa ischeda?
 webrtc-allow-share-camera-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro atzèdere a sa càmera tua?
-webrtc-allow-share-microphone-unsafe-delegations = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro atzèdere a su micròfonu tuo?
 webrtc-allow-share-microphone-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro atzèdere a su micròfonu tuo?
 webrtc-allow-share-screen-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro bìdere s'ischermu tuo?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Boles permìtere
 
 webrtc-share-screen-warning = Cumpartzi s’ischermu isceti cun is sitos web in is chi cunfies. Sa cumpartzidura podet permìtere a is sitos ingannosos de navigare finghende·si tue e de ti furare is datos privados.
 webrtc-share-browser-warning = Cumpartzi { -brand-short-name } isceti cun is sitos in is chi cunfies. Sa cumpartzidura podet permìtere a is sitos ingannosos de navigare finghende·si tue e de ti furare is datos privados.
+
 webrtc-share-screen-learn-more = Nde chèrgio ischire de prus
 webrtc-pick-window-or-screen = Seletziona una ventana o un ischermu
 webrtc-share-entire-screen = Ischermu intreu
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Regorda custa detzisione
 webrtc-mute-notifications-checkbox = Disativa is notìficas de is sitos web cando ses cumpartzende
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } non podet permìtere s’atzessu permanente a s’ischermu tuo.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } non podet permìtere s’atzessu permanente a s’àudio de s’ischeda chena preguntare cale ischeda cumpartzire.
 webrtc-reason-for-no-permanent-allow-insecure = Sa connessione tua a custu situ no est segura. Pro resones de seguresa, { -brand-short-name } at a permìtere s’atzessu isceti pro custa sessione.

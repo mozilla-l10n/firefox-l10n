@@ -8,27 +8,28 @@ password-quality-meter = Indicadore de sa calidade de sa crae
 
 change-device-password-window =
     .title = Modìfica sa crae
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivu de seguresa: { $tokenName }
 change-password-old = Crae atuale:
 change-password-new = Crae noa:
 change-password-reenter = Crae noa (cunfirma·dda):
+
 pippki-failed-pw-change = Impossìbile modificare sa crae.
+
 pippki-pw-empty-warning = Non s'ant a amparare is craes privadas e is craes sarvadas tuas.
 
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Azera
+
 pippki-reset-password-confirmation-title = Reseta sa crae printzipale
 pippki-reset-password-confirmation-message = S'est azerada sa crae printzipale.
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Iscarrighende su tzertificadu
-    .style = width: 46em
 download-cert-window2 =
     .title = Iscarrighende su tzertificadu
     .style = min-width: 46em
@@ -49,4 +50,6 @@ download-cert-view-text = Esàmina su tzertificadu de sa CA
 
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

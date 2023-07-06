@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Torra a cumintzare dae zero pro acontzare p
 refresh-profile = Otimiza { -brand-short-name }
 refresh-profile-button = Torra { -brand-short-name } a sa cunfiguratzione predefinida…
 refresh-profile-learn-more = Àteras informatziones
+
 refresh-profile-progress =
     .title = Riprìstina { -brand-short-name }
 refresh-profile-progress-description = Casi acabbadu…

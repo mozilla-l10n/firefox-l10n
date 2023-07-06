@@ -17,18 +17,24 @@
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event breakpoint.
 whypaused-event-breakpoint = In pàusa in unu puntu de arrestu pro un'eventu
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = In pàusa pro un'etzetzione
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a DOM mutation breakpoint
 whypaused-mutation-breakpoint = In pàusa in unu càmbiu DOM
+
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = S'est agiuntu:
+
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = S'est bogadu:
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a JS execution
 whypaused-interrupted = In pàusa durante s'esecutzione
+

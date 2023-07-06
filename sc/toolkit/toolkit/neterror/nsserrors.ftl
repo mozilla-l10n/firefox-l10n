@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     As retzidu unu tzertificadu non vàlidu. Cuntata s'amministratzione de su serbidore o s'indiritzu de posta eletrònica chi ddi currispondet e fruni·ddi is informatziones chi sighint:
     
     Su tzertificadu tuo cuntenet su pròpiu nùmeru de sèrie de un'àteru tzertificadu emìtidu dae s'autoridade de tzertificatzione. Procura·ti unu tzertificadu nou cun unu nùmeru de sèrie ùnicu.
+
 ssl-error-export-only-server = Impossìbile comunicare in manera segura. S'àtera parte no ammitet tzifradu de gradu artu.
 ssl-error-us-only-server = Impossìbile comunicare in manera segura. S'àtera parte rechedet unu tzifradu de gradu artu chi no est a disponimentu.
 ssl-error-no-cypher-overlap = Impossìbile comunicare in manera segura cun s'àtera parte: no ddoe at algoritmos comunos de tzifradu.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = No est istadu cunfiguradu nissunu a
 ssl-error-unsupported-signature-algorithm = S'àtera parte at impreadu una cumbinatzione chi no est cumpatìbile de algoritmu de firma e de hash.
 ssl-error-missing-extended-master-secret = S'àtera parte at proadu a sighire chena un’estensione curreta extended_master_secret.
 ssl-error-unexpected-extended-master-secret = S'àtera parte at proadu a sighire cun un’estensione extended_master_secret imprevista.
+
 sec-error-io = Faddina de I/O in s’autorizatzione de seguresa.
 sec-error-library-failure = faddina in sa biblioteca de seguresa.
 sec-error-bad-data = biblioteca de seguresa: retzidos datos non curretos.
@@ -300,6 +302,7 @@ sec-error-locked-password = Sa crae est blocada.
 sec-error-unknown-pkcs11-error = Faddina PKCS #11 disconnota.
 sec-error-bad-crl-dp-url = URL non vàlidu o non suportadu in su nòmine de su puntu de distributzione CRL.
 sec-error-cert-signature-algorithm-disabled = Su tzertificadu est istadu firmadu cun un’algoritmu de firma disativadu ca non seguru.
+
 mozilla-pkix-error-key-pinning-failure = Su serbidore impreat unu mecanismu de “key pinning” ma non est possìbile creare una cadena de certificados de afidamentu chi currispondant a su pinset. No est possìbile inniorare violatziones in contu a su “key pinning”.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Su serbidore impreat unu tzertificadu cun un’estensione de is barrancos de base chi dd’identìficant comente autoridade de tzertificatzione. Custu non diat dèpere acontèssere pro unu tzertificadu emitidu in manera curreta.
 mozilla-pkix-error-inadequate-key-size = Su tzertificadu imbiadu dae su serbidore impreat una crae tropu curtza pro istabilire una connessione segura.
@@ -314,9 +317,11 @@ mozilla-pkix-error-invalid-integer-encoding = Su serbidore at frunidu unu tzerti
 mozilla-pkix-error-empty-issuer-name = Su serbidore at frunidu unu tzertificadu ue su nòmine nòdidu de s’autoridade de emissione est bòidu.
 mozilla-pkix-error-additional-policy-constraint-failed = Unu vìnculu de àteras règulas at faddidu averguende custu tzertificadu.
 mozilla-pkix-error-self-signed-cert = Su tzertificadu no est atendìbile ca est firmadu dae isse etotu.
+
 xp-java-remove-principal-error = Impossìbile cantzellare su printzipale
 xp-java-delete-privilege-error = Impossìbile cantzellare su privilègiu
 xp-java-cert-not-exists-error = Custu printzipale non tenet tzertificadu
+
 xp-sec-fortezza-bad-card = Sa carta Fortezza no est istada aviada in manera curreta. Boga·dda e torra·dda a s'autoridade de emissione.
 xp-sec-fortezza-no-card = Nissuna carta Fortezza agatada
 xp-sec-fortezza-none-selected = Nissuna carta Fortezza seberada

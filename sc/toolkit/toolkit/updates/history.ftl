@@ -23,5 +23,7 @@ state-header = Istadu
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Detàllios
+
 update-installed-on = Installadu su: { $date }
+
 update-status = Istadu: { $status }

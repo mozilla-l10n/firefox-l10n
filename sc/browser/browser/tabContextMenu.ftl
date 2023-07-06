@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Agiunghe ischedas a sinnalibros…
     .accesskey = s
-bookmark-tab =
-    .label = Agiunghe ischeda a sinnalibros
-    .accesskey = s
 tab-context-bookmark-tab =
     .label = Agiunghe s’ischeda a is sinnalibros…
     .accesskey = A
@@ -103,6 +100,7 @@ tab-context-move-tabs =
            *[other] Move is ischedas
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

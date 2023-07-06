@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = Iscarrighende s'atualizatzione de { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = Atualizatzione a disponimentu — iscàrriga immoe
+
 appmenuitem-banner-update-manual =
     .label = Atualizatzione a disponimentu — iscàrriga immoe
+
 appmenuitem-banner-update-unsupported =
     .label = Impossìbile agiornare — sistema non cumpatìbile
+
 appmenuitem-banner-update-restart =
     .label = Atualizatzione a disponimentu — torra a aviare immoe
+
 appmenuitem-new-tab =
     .label = Ischeda noa
 appmenuitem-new-window =
@@ -53,6 +58,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Serra su menù de s'aplicatzione
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,23 +79,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Identìfica·ti a Sync...
 appmenu-remote-tabs-turn-on-sync =
     .label = Ativa sa sincronizatzione...
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Ammustra prus ischedas
     .tooltiptext = Ammustra prus ischedas dae custu dispositivu
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nissuna ischeda aberta
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ativa sa sincronizatzione de ischidas pro bìdere una lista de ischedas abertas in àteros dispositivos.
+
 appmenu-remote-tabs-opensettings =
     .label = Cunfiguratzione
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Boles bìdere inoghe is ischedas de is àteros dispositivos tuos?
+
 appmenu-remote-tabs-connectdevice =
     .label = Connete un'àteru dispositivu
 appmenu-remote-tabs-welcome = Ammustra una lista de ischedas abertas in àteros dispositivos tuos.
 appmenu-remote-tabs-unverified = Su contu tuo depet èssere verificadu.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincroniza immoe
 appmenuitem-fxa-sign-in = Identìfica·ti in { -brand-product-name }
 appmenuitem-fxa-manage-account = Gesti su contu
@@ -103,12 +116,14 @@ appmenu-fxa-sync-and-save-data2 = Sincroniza e sarva datos
 appmenu-fxa-signed-in-label = Identìfica·ti
 appmenu-fxa-setup-sync =
     .label = Ativa sa sincronizatzione...
+
 appmenuitem-save-page =
     .label = Sarva sa pàgina comente...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novidades
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,39 +137,52 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Analizadore de rendimentu
     .tooltiptext = Registra unu perfilu de rendimentu
+
 profiler-popup-button-recording =
     .label = Analizadore de rendimentu
     .tooltiptext = S'analizadore est registrende unu profilu
+
 profiler-popup-button-capturing =
     .label = Analizadore de rendimentu
     .tooltiptext = S'analizadore est caturende unu profilu
-profiler-popup-title =
-    .value = { -profiler-brand-name }
+
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Ammustra prus informatzione
+
 profiler-popup-description-title =
     .value = Registra, analiza, cumpartzi
+
 profiler-popup-description = Collàbora in sa curretzione de problemas de rendimentu publichende profilos pro ddos cumpartzire cun s'iscuadra tua.
+
 profiler-popup-learn-more-button =
     .label = Àteras informatziones
+
 profiler-popup-settings =
     .value = Cunfiguratzione
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Modìfica sa cunfiguratzione...
+
 profiler-popup-recording-screen = Registrende...
+
 profiler-popup-start-recording-button =
     .label = Cumintza a registrare
+
 profiler-popup-discard-button =
     .label = Iscarta
+
 profiler-popup-capture-button =
     .label = Catura
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Majùsc+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -177,22 +205,28 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Paràmetros cussigiados pro sa curretzione de faddinas de sa majoria de aplicatziones web, cun subra-càrriga (overhead) bàscia.
 profiler-popup-presets-web-developer-label =
     .label = Isvilupu web
+
 profiler-popup-presets-firefox-description = Profilu cussigiadu pro descrìere { -brand-shorter-name }
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Profilu pro compidare faddinas de gràfica in { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Gràficas
+
 profiler-popup-presets-media-description2 = Profilu pro compidare faddinas de àudio e vìdeu in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimediale
+
 profiler-popup-presets-networking-description = Profilu pro compidare faddinas de rete in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rete
+
 profiler-popup-presets-power-description = Profilu pro compidare faddinas de impreu de energia in { -brand-shorter-name }, cun subra-càrriga (overhead) bàscia.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+
 profiler-popup-presets-custom-label =
     .label = Personalizadu
 
@@ -200,8 +234,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = Gesti sa cronologia
-appmenu-reopen-all-tabs = Torra a abèrrere totu is ischedas
-appmenu-reopen-all-windows = Torra a abèrrere totu is ventanas
 appmenu-restore-session =
     .label = Recùpera sa sessione pretzedente
 appmenu-clear-history =
@@ -260,6 +292,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personaliza sa barra de ainas...
+
 appmenu-developer-tools-subheader = Istrumentos de su navigadore
 appmenu-developer-tools-extensions =
     .label = Estensiones pro s'isvilupu

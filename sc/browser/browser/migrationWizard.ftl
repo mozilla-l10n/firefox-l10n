@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Importa datos de su navigadore
 migration-wizard-selection-list = Sèbera is datos chi dias a bòlere importare.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Sèbera is datos chi dias a bòlere importare.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -52,17 +54,21 @@ migration-selected-data-label = Importa is datos seletzionados
 
 migration-select-all-option-label = Seletziona totu
 migration-bookmarks-option-label = Sinnalibros
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Preferidos
+
 migration-logins-and-passwords-option-label = Credentziales e craes sarvadas
 migration-history-option-label = Cronologia de navigatzione
 migration-form-autofill-option-label = Datos de cumpletamentu automàticu de is formulàrios
+
 migration-passwords-from-file-progress-header = Importa un’archìviu de craes
 migration-passwords-from-file-success-header = Craes importadas
 migration-passwords-from-file = Averiguende is craes in s’archìviu
 migration-passwords-new = Craes noas
 migration-passwords-updated = Craes chi esistint giai
+
 migration-passwords-from-file-picker-title = Importa un’archìviu de craes
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -78,6 +84,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documentu TSV
        *[other] Archìviu TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -88,6 +95,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } agiunta
        *[other] { $newEntries } agiuntas
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -98,12 +106,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } atualizada
        *[other] { $updatedEntries } atualizadas
     }
+
 migration-import-button-label = Importa
 migration-choose-to-import-from-file-button-label = Importa dae un’archìviu
 migration-import-from-file-button-label = Seletziona un’archìviu
 migration-cancel-button-label = Annulla
 migration-done-button-label = Fatu
 migration-continue-button-label = Sighi
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } no at agatadu nissunu programma chi cuntèngiat sinnalibros, cronologia o craes.
 migration-wizard-import-browser-no-resources = Ddoe est istada una faddina. { -brand-short-name } no at agatadu datos de importare dae su profilu seberadu.
 
@@ -114,6 +124,7 @@ migration-wizard-import-browser-no-resources = Ddoe est istada una faddina. { -b
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = sinnalibros
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = preferidos
@@ -129,6 +140,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importende…
 migration-wizard-progress-icon-completed =
     .aria-label = Cumpletadu
+
 migration-safari-password-import-header = Importa craes dae Safari
 migration-safari-password-import-steps-header = Pro importare craes dae Safari:
 migration-safari-password-import-step1 = In Safari, aberi su menù “Safari” e bae a Preferèntzias > Craes
@@ -137,6 +149,8 @@ migration-safari-password-import-step3 = Sarva s’archìviu de craes
 migration-safari-password-import-step4 = Imprea “Seletziona archìviu” a bàsciu pro seberare s’archìviu de is craes chi as sarvadu
 migration-safari-password-import-skip-button = Brinca
 migration-safari-password-import-select-button = Seletziona un’archìviu
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -147,6 +161,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } sinnalibru
        *[other] { $quantity } sinnalibros
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -177,6 +192,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } crae
        *[other] { $quantity } craes
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -187,7 +203,9 @@ migration-wizard-progress-success-history =
         [one] Dae s’ùrtima die
        *[other] Dae is ùrtimas { $maxAgeInDays } dies
     }
+
 migration-wizard-progress-success-formdata = Cronologia de formulàrios
+
 migration-wizard-safari-permissions-sub-header = Pro importare is sinnalibros e sa cronologia de Safari;
 migration-wizard-safari-instructions-continue = Sèbera «Sighi»
 migration-wizard-safari-instructions-folder = Sèbera sa cartella de Safari in sa lista e sèbera «Aberi»

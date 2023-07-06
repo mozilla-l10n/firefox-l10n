@@ -38,9 +38,11 @@ menu-quit =
             [windows] E
            *[other] E
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Essi de { -brand-shorter-name }
+
 menu-about =
     .label = Informatziones de { -brand-shorter-name }
     .accesskey = I
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Ischedas serradas de reghente
 menu-history-undo-window-menu =
     .label = Ventanas serradas de reghente
-menu-history-reopen-all-tabs = Torra a abèrrere totu is ischedas
-menu-history-reopen-all-windows = Torra a abèrrere totu is ventanas
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = S
 menu-bookmarks-manage =
     .label = Gesti is sinnalibros
-menu-bookmark-current-tab =
-    .label = Pone s'ischeda atuale in is sinnalibros
-menu-bookmark-edit =
-    .label = Modìfica custu sinnalibru
 menu-bookmark-tab =
     .label = Pone s'ischeda atuale in is sinnalibros…
 menu-edit-bookmark =

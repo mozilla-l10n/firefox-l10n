@@ -6,7 +6,9 @@
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
 csp-error-illegal-keyword = Sa diretiva ‘{ $directive }’ cuntenet sa paràula crae proibida { $keyword }
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-illegal-protocol = Sa diretiva ‘{ $directive }’ cuntenet una mitza de protocollu proibida: { $scheme }
+

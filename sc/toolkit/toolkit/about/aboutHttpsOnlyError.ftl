@@ -4,6 +4,7 @@
 
 about-httpsonly-title-alert = Alerta de sa modalidade «isceti HTTPS»
 about-httpsonly-title-site-not-available = Situ seguru non disponìbile
+
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = As ativadu sa modalidade HTTPS ebbia pro megiorare sa seguresa, ma no esistet sa versione HTTPS de su situ <em>{ $websiteUrl }</em>.
@@ -11,6 +12,7 @@ about-httpsonly-explanation-question = Cale diat pòdere èssere sa càusa de cu
 about-httpsonly-explanation-nosupport = Est probàbile chi su situ web non siat cumpatìbile cun HTTPS.
 about-httpsonly-explanation-risk = Ma diat pòdere èssere fintzas unu tentativu de atacu. Si detzides de sighire in su situ, procura de no insertare nissuna informatzione sensìbile che a craes, indiritzos de posta eletrònica o datos de cartas de crèditu.
 about-httpsonly-explanation-continue = Si sighis in antis, sa modalidade HTTPS ebbia at a èssere disativada in manera temporànea pro custu situ.
+
 about-httpsonly-button-continue-to-site = Sighi in su situ HTTP
 about-httpsonly-button-go-back = A coa
 about-httpsonly-link-learn-more = Àteras informatziones…

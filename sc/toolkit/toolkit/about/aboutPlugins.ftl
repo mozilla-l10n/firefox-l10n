@@ -23,7 +23,9 @@ description-label = Descritzione
 
 plugins-gmp-license-info = Informatziones de sa lissèntzia
 plugins-gmp-privacy-info = Informatziones de sa riservadesa
+
 plugins-openh264-name = Codificadore vìdeu OpenH264 frunidu dae Cisco Systems, Inc.
 plugins-openh264-description = Mozilla installat in automàticu custu plugin pro respetare s'ispetzificatzione WebRTC e permìtere is tzerriadas WebRTC cun dispositivos chi abbisòngiant su codificadore vìdeu H.264. Bìsita https://www.openh264.org/ pro bìdere su còdighe de orìgine de su codificadore e pro nde ischire de prus subra de s'implementatzione.
+
 plugins-widevine-name = Mòdulu de detzifratzione de cuntenutu Widevine frunidu dae Google Inc.
 plugins-widevine-description = Custu plugin permitit sa riprodutzione de cuntenutos multimediales tzifrados in cumpatibilidade cun is ispetzificatziones Encrypted Media Extensions. A s'ispissu, is sitos impreant sa tzifradura pro amparare is cuntenutos multimediales a pagamentu contra de sa copiadura. Bìsita https://www.w3.org/TR/encrypted-media/ pro àteras informatziones subra de Encrypted Media Extension.

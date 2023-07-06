@@ -20,19 +20,28 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Aberi su menù de { $extensionName }
+
 unified-extensions-item-message-manage = Gesti s'estensione
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Apica a sa barra de ainas
+
 unified-extensions-context-menu-manage-extension =
     .label = Gesti s'estensione
+
 unified-extensions-context-menu-remove-extension =
     .label = Boga s'estensione
+
 unified-extensions-context-menu-report-extension =
     .label = Sinnala s'estensione
+
 unified-extensions-context-menu-move-widget-up =
     .label = Move in artu
+
 unified-extensions-context-menu-move-widget-down =
     .label = Move a bàsciu
+
+## Notifications
+

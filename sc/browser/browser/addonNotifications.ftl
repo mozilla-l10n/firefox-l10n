@@ -14,6 +14,7 @@ xpinstall-prompt-message = Ses chirchende de installare unu cumplementu dae { $h
 
 xpinstall-prompt-header-unknown = Boles permìtere chi unu situ web disconnotu installet unu cumplementu?
 xpinstall-prompt-message-unknown = Ses chirchende de installare unu cumplementu dae unu situ disconnotu. Assegura·ti chi su situ est fidadu prima de sighire.
+
 xpinstall-prompt-dont-allow =
     .label = Non permitas
     .accesskey = N
@@ -43,6 +44,7 @@ xpinstall-disabled = S’installatzione de programmas est disativada immoe. Inca
 xpinstall-disabled-button =
     .label = Ativa
     .accesskey = A
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -51,6 +53,7 @@ addon-install-blocked-by-policy = S'amministratzione de sistema at blocadu { $ad
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = S'amministratzione de sistema at impedidu a custu situ de ti dimandare de installare unu programma in s'elaboradore tuo.
 addon-install-full-screen-blocked = S'installatzione de cumplementos no est autorizada in modalidade de ischermu a mannària prena, o prima de bi colare.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } agiuntu a { -brand-short-name }
@@ -68,6 +71,7 @@ addon-removal-title = Nche boles bogare a { $name }?
 addon-removal-message = Boles bogare { $name } dae { -brand-shorter-name }?
 addon-removal-button = Boga
 addon-removal-abuse-report-checkbox = Sinnala custa estensione a { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -76,6 +80,7 @@ addon-downloading-and-verifying =
        *[other] Iscarrighende e averguende { $addonCount } cumplementos…
     }
 addon-download-verifying = Averiguende
+
 addon-install-cancel-button =
     .label = Annulla
     .accesskey = A

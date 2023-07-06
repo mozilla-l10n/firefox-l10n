@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Depes atzedere a { -fxaccount-brand-name } pro
 firefox-relay-get-unlimited-masks =
     .label = Gesti is àlias
     .accesskey = G
-firefox-relay-opt-in-title = Ampara s’indiritzu de posta eletrònica
-firefox-relay-opt-in-subtitle = Agiunghe { -relay-brand-name }
-firefox-relay-generate-mask-title = Ampara s’indiritzu de posta eletrònica
-firefox-relay-generate-mask-subtitle = Gènera un’àlias de { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Sighi
-    .accesskey = S
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Ampara s’indiritzu tuo de posta eletrònica:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

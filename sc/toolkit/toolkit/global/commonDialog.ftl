@@ -6,10 +6,12 @@ common-dialog-title-null = Custa pàgina narat
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Disconnotu
+
 common-dialog-username =
     .value = Nòmine utente
 common-dialog-password =
     .value = Crae
+
 common-dialog-copy-cmd =
     .label = Còpia
     .accesskey = C

@@ -5,6 +5,7 @@
 printui-title = Imprenta
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Sarva comente
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } fògiu de paperi
        *[other] { $sheetCount } fògios de paperi
     }
+
 printui-page-range-all = Totu
 printui-page-range-current = Atuale
 printui-page-range-odd = Dìspari
@@ -23,22 +25,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Inserta un'intervallu de pàginas personalizadu
     .placeholder = pro es., 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Còpias
+
 printui-orientation = Orientamentu
 printui-landscape = Orizontale
 printui-portrait = Verticale
+
 # Section title for the printer or destination device to target
 printui-destination-label = Destinatzione
 printui-destination-pdf-label = Sarva comente PDF
+
 printui-more-settings = Prus cunfiguratziones
 printui-less-settings = Prus pagu cunfiguratziones
+
 printui-paper-size-label = Mannària de su paperi
+
 # Section title (noun) for the print scaling options
 printui-scale = Iscala
 printui-scale-fit-to-page-width = Adata a sa largària de sa pàgina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Iscala
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Imprenta in is duos costados
 printui-two-sided-printing-off = Disativada
@@ -46,6 +55,7 @@ printui-two-sided-printing-off = Disativada
 printui-two-sided-printing-long-edge = Fùrria in su costadu longu
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Fùrria in su costadu curtzu
+
 # Section title for miscellaneous print options
 printui-options = Optziones
 printui-headers-footers-checkbox = Imprenta intestatziones e pees de pàgina
@@ -69,6 +79,7 @@ printui-simplify-page-radio = Simplificadu
 printui-color-mode-label = Modalidade de colore
 printui-color-mode-color = Colore
 printui-color-mode-bw = Biancu e nieddu
+
 printui-margins = Oros
 printui-margins-default = Predefinidu
 printui-margins-min = Mìnimu
@@ -87,17 +98,23 @@ printui-margins-custom-left-mm = A manca (mm)
 printui-margins-custom-right = A dereta
 printui-margins-custom-right-inches = A dereta (pòddighes)
 printui-margins-custom-right-mm = A dereta (mm)
+
 printui-system-dialog-link = Imprenta pro mèdiu de su diàlogu de sistema…
+
 printui-primary-button = Imprenta
 printui-primary-button-save = Sarva
 printui-cancel-button = Annulla
 printui-close-button = Serra
+
 printui-loading = Preparende sa previsualizatzione
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Previsualizatzione de s'imprenta
+
 printui-pages-per-sheet = Pàginas pro fògiu
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Imprentende…
@@ -124,6 +141,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = S'iscala depet èssere unu nùmeru intre 10 e 200.
 printui-error-invalid-margin = Inserta unu màrgine vàlidu pro sa mannària de paperi seberada.
 printui-error-invalid-copies = Su nùmeru de còpias depet èssere intre 1 e 10000.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = S'intervallu depet èssere unu nùmeru intre 1 e{ $numPages }.

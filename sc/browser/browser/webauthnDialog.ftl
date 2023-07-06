@@ -11,3 +11,4 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN isballiadu. Torra a proare.
 webauthn-pin-required-prompt = Inserta su còdighe PIN pro su dispositivu tuo.
+
