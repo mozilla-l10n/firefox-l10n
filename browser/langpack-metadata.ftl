@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = Cộng đồng bản địa hóa Mozilla
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Nguyễn Mạnh Hùng, Nguyễn Xuân Minh, Huỳnh Hải Đăng, Bùi Việt Khoa, Trần Nguyễn Sơn, Ngô Đức Trung, Nguyễn Hà Dương, Nguyễn Phan Hải, Đặng Duy Thanh

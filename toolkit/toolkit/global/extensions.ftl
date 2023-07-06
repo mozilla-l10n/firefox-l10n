@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Hủy bỏ
     .accesskey = C
+
 webext-perms-sideload-text = Một chương trình khác trong máy tính của bạn đã cài đặt một tiện ích mà có thể gây ảnh hưởng đến trình duyệt của bạn. Vui lòng xem lại những quyền hạn mà tiện ích này yêu cầu và chọn kích hoạt hoặc hủy bỏ (để nó bị vô hiệu hóa).
 webext-perms-sideload-text-no-perms = Một chương trình khác trong máy tính của bạn đã cài đặt một tiện ích mà có thể gây ảnh hưởng đến trình duyệt của bạn. Vui lòng chọn kích hoạt hoặc hủy bỏ (để nó bị vô hiệu hóa).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Hủy bỏ
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } đã được cập nhật. Bạn phải phê duyệt các quyền mới trước khi phiên bản cập nhật sẽ cài đặt. Chọn “Hủy bỏ” sẽ duy trì phiên bản tiện ích mở rộng hiện tại của bạn. Tiện ích mở rộng này sẽ có quyền:
 webext-perms-update-accept =
     .label = Cập nhật
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = Tiện ích này muốn:
 webext-perms-optional-perms-allow =
     .label = Cho phép
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Từ chối
     .accesskey = D
+
 webext-perms-host-description-all-urls = Truy cập dữ liệu của bạn trên mọi trang web
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Truy cập dữ liệu của bạn trên trang { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -57,6 +63,7 @@ webext-perms-host-description-too-many-wildcards = Truy cập dữ liệu của 
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Truy cập dữ liệu của bạn từ { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

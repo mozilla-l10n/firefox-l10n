@@ -4,6 +4,7 @@
 
 about-reader-loading = Đang tải…
 about-reader-load-error = Thất bại khi tải bài viết từ trang
+
 about-reader-color-scheme-light = Sáng
     .title = Phối màu sáng
 about-reader-color-scheme-dark = Tối
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Nâu đen
     .title = Phối màu nâu đen
 about-reader-color-scheme-auto = Tự động
     .title = Phối màu tự động
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

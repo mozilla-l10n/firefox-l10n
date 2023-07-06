@@ -20,7 +20,6 @@ styleeditor-save-button = Lưu
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Tùy chọn trình soạn thảo kiểu mẫu
-styleeditor-media-rules = Quy tắc @media
 styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Gõ CSS tại đây.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = J
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Không tìm thấy style sheet cho từ khóa.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

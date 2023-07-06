@@ -15,15 +15,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
 about-logging-title = Giới thiệu về ghi nhật ký
 about-logging-page-title = Trình quản lý ghi nhật ký
 about-logging-current-log-file = Tập tin nhật ký hiện tại:
-about-logging-current-log-modules = Mô-đun nhật ký hiện tại:
 about-logging-new-log-file = Tập tin nhật ký mới:
 about-logging-currently-enabled-log-modules = Các mô-đun nhật ký hiện được bật:
 about-logging-log-tutorial = Xem <a data-l10n-name="logging">nhật ký HTTP</a> để biết hướng dẫn về cách sử dụng công cụ này.
@@ -53,6 +50,7 @@ about-logging-preset-media-playback-label = Trình phát phương tiện
 about-logging-preset-media-playback-description = Ghi nhật ký mô-đun để chẩn đoán sự cố trình phát phương tiện (không phải sự cố về cuộc gọi trực tuyến)
 about-logging-preset-custom-label = Tùy chọn
 about-logging-preset-custom-description = Ghi nhật ký mô-đun được chọn theo cách thủ công
+
 # Error handling
 about-logging-error = Lỗi:
 
@@ -66,4 +64,5 @@ about-logging-unknown-profiler-preset = Giá trị đặt trước của profile
 about-logging-unknown-option = Tùy chọn about:logging không xác định “{ $k }“
 about-logging-configuration-url-ignored = URL cấu hình bị bỏ qua
 about-logging-file-and-profiler-override = Không thể buộc nơi xuất tập tin và ghi đè các tùy chọn profiler cùng một lúc
+
 about-logging-configured-via-url = Tùy chọn được định cấu hình qua URL

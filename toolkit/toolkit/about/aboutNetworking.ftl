@@ -34,13 +34,6 @@ about-networking-messages-received = Tin nhắn đã nhận
 about-networking-bytes-sent = Byte đã gửi
 about-networking-bytes-received = Byte đã nhận
 about-networking-logging = Nhật ký
-about-networking-log-tutorial = Xem <a data-l10n-name="logging">nhật ký HTTP</a> để biết hướng dẫn về cách sử dụng công cụ này.
-about-networking-current-log-file = Tập tin nhật ký hiện tại:
-about-networking-current-log-modules = Mô-đun nhật ký hiện tại:
-about-networking-set-log-file = Đặt tập tin nhật ký
-about-networking-set-log-modules = Đặt mô-đun nhật ký
-about-networking-start-logging = Bắt đầu ghi
-about-networking-stop-logging = Dừng ghi
 about-networking-dns-lookup = Tra cứu DNS
 about-networking-dns-lookup-button = Xem
 about-networking-dns-domain = Tên miền:

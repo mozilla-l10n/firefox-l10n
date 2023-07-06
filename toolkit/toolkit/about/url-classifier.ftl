@@ -50,5 +50,9 @@ url-classifier-disabled = Đã tắt
 url-classifier-updating = đang cập nhật
 url-classifier-cannot-update = không thể cập nhật
 url-classifier-success = thành công
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = lỗi cập nhật ({ $error })
 url-classifier-download-error = lỗi tải xuống ({ $error })

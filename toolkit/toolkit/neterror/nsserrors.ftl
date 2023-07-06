@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Đã xảy ra lỗi trong khi kết nối với { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Mã lỗi: { $error }
-
 psmerr-ssl-disabled = Không thể kết nối an toàn vì giao thức SSL đã bị vô hiệu hóa.
 psmerr-ssl2-disabled = Không thể kết nối an toàn vì trang này sử dụng một phiên bản giao thức SSL cũ và không bảo mật.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Đã cấu hình mà không có thu
 ssl-error-unsupported-signature-algorithm = Máy ngang hàng đã sử dụng kết hợp thuật toán hash và chữ ký không được hỗ trợ.
 ssl-error-missing-extended-master-secret = The peer tried to resume without a correct extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = The peer tried to resume with an unexpected extended_master_secret extension.
+
 sec-error-io = Một lỗi I/O xảy ra trong quá trình thẩm định bảo mật.
 sec-error-library-failure = Thư viện bảo mật thất bại.
 sec-error-bad-data = Thư viện bảo mật: nhận dữ liệu xấu.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Không thể giải mã: thuật toán mã hó
 sec-error-pkcs7-bad-signature = Xác thực chữ kí thất bại: không tìm thấy người kí, quá nhiều người kí, hoặc do dữ liệu không phù hợp hoặc hư hỏng.
 sec-error-unsupported-keyalg = Thuật toán khóa không được hỗ trợ hoặc không xác định được.
 sec-error-decryption-disallowed = Không thể giải mã: mã khóa sử dụng thuật toán hoặc độ dài khóa không được công nhận.
-xp-sec-fortezza-bad-card = Thẻ Fortezza chưa được khởi tạo đúng cách. Vui lòng xóa nó và trả lại cho công ty phát hành của bạn.
-xp-sec-fortezza-no-card = Không tìm thấy thẻ Fortezza nào
-xp-sec-fortezza-none-selected = Chưa chọn thẻ Fortezza
-xp-sec-fortezza-more-info = Vui lòng chọn một thuộc tính (personality) để xem thêm thông tin
-xp-sec-fortezza-person-not-found = Không tìm thấy Thuộc tính (personality)
-xp-sec-fortezza-no-more-info = Không tìm thấy thông tin thêm về thuộc tính (Personality) đó
-xp-sec-fortezza-bad-pin = Pin không hợp lệ
-xp-sec-fortezza-person-error = Không thể khởi tạo các thuộc tính (personality) Fortezza.
 sec-error-no-krl = Không tìm thấy KRL nào cho chứng nhận này.
 sec-error-krl-expired = KRL của chứng nhận trong trang này đã quá hạn.
 sec-error-krl-bad-signature = KRL của chứng nhận trên trang này chứa một khóa (signature) không hợp lệ.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Đã tồn tại một chứng nhận với 
 sec-error-key-nickname-collision = Đã tồn tại một khóa với cùng biệt danh.
 sec-error-safe-not-created = phát sinh lỗi khi tạo thực thể an toàn
 sec-error-baggage-not-created = lỗi phát sinh khi tạo thực thể hành lí
-xp-java-remove-principal-error = Không thể xóa principal
-xp-java-delete-privilege-error = Không thể xóa được đặc quyền
-xp-java-cert-not-exists-error = Principal này không có chứng nhận
 sec-error-bad-export-algorithm = Thuật toán yêu cầu không được phép.
 sec-error-exporting-certificates = Lỗi khi đang cố xuất chứng nhận.
 sec-error-importing-certificates = Lỗi khi đang cố nhập chứng nhận.
@@ -338,6 +319,7 @@ sec-error-locked-password = Mật khẩu bị khóa.
 sec-error-unknown-pkcs11-error = Lỗi PKCS #11 không xác định.
 sec-error-bad-crl-dp-url = URL sai hoặc không được hỗ trợ trong tên điểm phân phối CRL.
 sec-error-cert-signature-algorithm-disabled = Chứng nhận được ký bằng thuật toán chữ ký bị vô hiệu hóa vì không an toàn.
+
 mozilla-pkix-error-key-pinning-failure = Máy chủ sử dụng key pinning (HPKP) nhưng không có certificate chain tin cậy nào có thể được xây dựng phù hợp với pinset. Các vi phạm Key pinning không thể được ghi đè.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Máy chủ sử dụng chứng nhận với phần mở rộng ràng buộc cơ bản xác định nó là cơ quan cấp chứng nhận. Đối với một chứng nhận được cấp đúng, điều này không nên xảy ra.
 mozilla-pkix-error-inadequate-key-size = Máy chủ xuất trình chứng nhận với kích thước khóa quá nhỏ để thiết lập kết nối an toàn.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Máy chủ xuất trình chứng n
 mozilla-pkix-error-empty-issuer-name = Các máy chủ xuất trình một chứng nhận không có tên phân biệt nhà phát hành.
 mozilla-pkix-error-additional-policy-constraint-failed = Một ràng buộc của chính sách bổ sung không thành công khi xác nhận chứng nhận này.
 mozilla-pkix-error-self-signed-cert = Chứng nhận này không đáng tin vì nó được tự kí.
+
+xp-java-remove-principal-error = Không thể xóa principal
+xp-java-delete-privilege-error = Không thể xóa được đặc quyền
+xp-java-cert-not-exists-error = Principal này không có chứng nhận
+
+xp-sec-fortezza-bad-card = Thẻ Fortezza chưa được khởi tạo đúng cách. Vui lòng xóa nó và trả lại cho công ty phát hành của bạn.
+xp-sec-fortezza-no-card = Không tìm thấy thẻ Fortezza nào
+xp-sec-fortezza-none-selected = Chưa chọn thẻ Fortezza
+xp-sec-fortezza-more-info = Vui lòng chọn một thuộc tính (personality) để xem thêm thông tin
+xp-sec-fortezza-person-not-found = Không tìm thấy Thuộc tính (personality)
+xp-sec-fortezza-no-more-info = Không tìm thấy thông tin thêm về thuộc tính (Personality) đó
+xp-sec-fortezza-bad-pin = Pin không hợp lệ
+xp-sec-fortezza-person-error = Không thể khởi tạo các thuộc tính (personality) Fortezza.
