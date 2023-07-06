@@ -8,10 +8,6 @@ password-not-set =
 failed-pp-change = Главната лозинка не може да се промени.
 pp-change-ok = Главната лозинка е променета успешно.
 
-pp-empty-warning = Вашите зачувани лозинки и приватни клучеви нема да бидат заштитени.
-pp-erased-ok = Ја избришавте вашата главна лозинка. { pp-empty-warning }
-pp-not-wanted = Предупредување! Одлучивте да не користите главна лозинка. { pp-empty-warning }
-
 pw-change-success-title = Промената на лозинката успеа
 pw-change-failed-title = Промената на лозинката не успеа
 pw-remove-button =

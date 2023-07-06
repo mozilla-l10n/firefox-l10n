@@ -198,14 +198,6 @@ main-context-menu-audio-email =
     .label = Испрати аудио…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Активирај го овој приклучок
-    .accesskey = к
-
-main-context-menu-plugin-hide =
-    .label = Скриј го овој приклучок
-    .accesskey = ф
-
 main-context-menu-send-to-device =
     .label = Испрати страница на уред
     .accesskey = и
@@ -244,10 +236,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Превчитај ја рамката
     .accesskey = ч
-
-main-context-menu-frame-bookmark =
-    .label = Обележи ја оваа рамка
-    .accesskey = б
 
 main-context-menu-frame-save-as =
     .label = Сними ја рамката како…

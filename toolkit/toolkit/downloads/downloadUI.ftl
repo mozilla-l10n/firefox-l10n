@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Не излегувај
        *[other] Не излегувај
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ако сега се исклучите од Интернет, 1 преземање ќе биде откажано. Сигурно сакате да работите локално?
        *[other] Ако сега отидете се исклучите од Интернет, { $downloadsCount } преземања ќе биде откажани. Сигурно сакате да работите локално?
     }
 download-ui-dont-go-offline-button = Остани на Интернет
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ако ги затворите сите приватни прозорци сега, 1 преземање ќе биде откажано. Дали сте сигурни дека сакате да престанете со Приватно прелистување?
        *[other] Ако ги затворите сите приватни прозорци сега, { $downloadsCount } преземања ќе бидат откажани. Дали сте сигурни дека сакате да престанете со Приватно прелистување?
     }
 download-ui-dont-leave-private-browsing-button = Продолжи со Приватно прелистување
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Откажи 1 преземање

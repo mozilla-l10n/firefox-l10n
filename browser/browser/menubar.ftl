@@ -159,6 +159,8 @@ menu-view-full-screen =
     .label = На цел екран
     .accesskey = ц
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -193,8 +195,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Обележувачи
     .accesskey = б
-menu-bookmark-edit =
-    .label = Уреди го овој обележувач
 menu-bookmarks-all-tabs =
     .label = Обележи ги сите јазичиња…
 menu-bookmarks-toolbar =

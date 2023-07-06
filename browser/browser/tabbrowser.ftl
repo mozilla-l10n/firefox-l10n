@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Ново јазиче
+
 tabbrowser-menuitem-close-tab =
     .label = Затвори јазиче
 tabbrowser-menuitem-close =
@@ -39,4 +40,6 @@ tabbrowser-customizemode-tab-title = Прилагодување на { -brand-sh
 
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

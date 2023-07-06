@@ -25,9 +25,6 @@ policy-DNSOverHTTPS = Конфигурирање на DNS преку HTTPS.
 
 policy-Proxy = Конфигурирај поставки на прокси.
 
-# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = Инсталирајте PKCS #11 модули.
-
 policy-SSLVersionMax = Поставете ја максималната SSL верзија.
 
 policy-SSLVersionMin = Поставете ја минималната верзија на SSL.

@@ -167,6 +167,8 @@ newtab-pocket-cta-button = Превземете го { -pocket-brand-name }
 ## This is for the final card in the Pocket grid.
 
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 

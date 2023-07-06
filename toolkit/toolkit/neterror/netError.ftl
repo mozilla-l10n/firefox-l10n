@@ -26,6 +26,17 @@ neterror-load-error-firewall = Ако вашиот компјутер или м�
 neterror-dns-not-found-hint-try-again = Обидете се повторно подоцна
 neterror-dns-not-found-hint-check-network = Проверете ја вашата мрежна врска
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Проверете дали во името има големи букви или други печатни грешки.
 neterror-file-not-found-moved = Проверете дали датотеката е преместена, преименувана или избришана.
 

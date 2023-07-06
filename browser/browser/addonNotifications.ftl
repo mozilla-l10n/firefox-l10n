@@ -24,6 +24,7 @@ xpinstall-disabled = Инсталацијата на софтверот моме
 xpinstall-disabled-button =
     .label = Овозможи
     .accesskey = в
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } е додаден во { -brand-short-name }
@@ -37,6 +38,7 @@ webext-perms-update-menu-item = { $addonName } има потреба од нов
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Да се отстрани { $name }?
 addon-removal-abuse-report-checkbox = Пријавете ја оваа екстензија на { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -45,6 +47,7 @@ addon-downloading-and-verifying =
        *[other] Се преземаат и верификуваат { $addonCount } додатоци…
     }
 addon-download-verifying = Се верификува
+
 addon-install-cancel-button =
     .label = Откажи
     .accesskey = О

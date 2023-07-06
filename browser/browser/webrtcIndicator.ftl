@@ -21,6 +21,7 @@ webrtc-item-camera = камера
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Непознато потекло
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,3 +70,4 @@ webrtc-action-always-block =
 ##
 
 webrtc-mute-notifications-checkbox = Исклучете го звукот на известувањата на веб-локациите додека споделувате
+
