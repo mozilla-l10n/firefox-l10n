@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = പുതിയ റ്റാബ്
+
 tabbrowser-menuitem-close-tab =
     .label = റ്റാബ് അടയ്ക്കുക
 tabbrowser-menuitem-close =
     .label = അടയ്ക്കുക
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -55,3 +57,6 @@ tabbrowser-context-unmute-tab =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = എല്ലാ { $tabCount } ടാബുകളും ലഭ്യമാക്കുക
+
+## Tab manager menu buttons
+

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] പുറത്തു പോകരുത്‌
        *[other] പുറത്തു പോകരുത്‌
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] ഇപ്പോള്‍ താങ്കള്‍ ഓഫ്‌ ലൈന്‍ ആയാല്‍, ഒരു ഡൌണ്‍ലോഡ്‌ റദ്ദാക്കപ്പെടും. ഓഫ്‌ ലൈന്‍ ആകണം എന്ന്‌ ഉറപ്പാണോ?
        *[other] താങ്കള്‍ ഇപ്പോള്‍ ഓഫ്‌ലൈന്‍ ആയാല്‍ { $downloadsCount } ഡൌണ്‍ലോഡുകള്‍ റദ്ദാക്കപ്പെടും. ഓഫ്‌ലൈന്‍ ആകണം എന്ന് തീര്‍ച്ചയാണോ?
     }
 download-ui-dont-go-offline-button = ഓണ്‍ലൈന്‍ ആയി തുടരുക
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] നിങ്ങള്‍ സ്വകാര്യ ബ്രൗസിങ്ങ് ജാലകങ്ങളെല്ലാം അടച്ചാല്‍, 1 ഡൗണ്‍ലോഡ് റദ്ദ് ചെയ്യപ്പെടും. സ്വകാര്യ ബ്രൗസിങ്ങ് രീതിയില്‍ നിന്ന്  തീര്‍ച്ചയായും പോകണമോ?
        *[other] നിങ്ങള്‍ സ്വകാര്യ ബ്രൗസിങ്ങ് ജാലകങ്ങളെല്ലാം അടച്ചാല്‍, { $downloadsCount } ഡൗണ്‍ലോഡ് റദ്ദ് ചെയ്യപ്പെടും. സ്വകാര്യ ബ്രൗസിങ്ങ് രീതിയില്‍ നിന്ന് തീര്‍ച്ചയായും പോകണമോ?
     }
 download-ui-dont-leave-private-browsing-button = സ്വകാര്യ ബ്രൗസിങ്ങ് രീതിയില്‍ തുടരുക
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ഡൌണ്‍ലോഡ്‌ റദ്ദുചെയ്യുക

@@ -34,9 +34,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-ല്‍ നിന്നും പുറത്ത് കടക്കുക
+
 menu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
@@ -197,8 +199,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = അടയാളക്കുറിപ്പുകള്‍
     .accesskey = B
-menu-bookmark-edit =
-    .label = ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക
 menu-bookmarks-all-tabs =
     .label = എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക...
 menu-bookmarks-toolbar =

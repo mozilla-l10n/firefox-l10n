@@ -75,6 +75,8 @@ media-device-state = അവസ്ഥ
 media-device-channels = ചാനലുകൾ
 media-device-rate = നിരക്ക്
 
+## Codec support table
+
 ##
 
 

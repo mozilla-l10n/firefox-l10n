@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = സംരക്ഷിക്കുക
 pocket-panel-saved-saving-tags = സംരക്ഷിക്കുന്നു…
 pocket-panel-saved-suggested-tags = നിര്‍ദ്ദേശിച്ച ടാഗുകള്‍
 pocket-panel-saved-tags-saved = ടാഗുകൾ ചേർത്തു
-pocket-panel-signup-view-list = പട്ടിക കാണുക
 
 ## about:pocket-signup panel
 

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-select-bookmark-window =
-    .title = പ്രധാന താള്‍ സജ്ജമാക്കുക
-    .style = width: 32em;
-
 select-bookmark-window2 =
     .title = പ്രധാന താള്‍ സജ്ജമാക്കുക
     .style = min-width: 32em;

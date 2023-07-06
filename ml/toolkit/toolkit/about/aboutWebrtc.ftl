@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = വെബ്ആര്‍ടിസി ആഭ്യന്തരം
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc മാറ്റി സൂക്ഷിക്കുക
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC ലോഗ്ഗിങ്ങ്
 about-webrtc-aec-logging-off-state-label = AEC ലോഗ്ഗിങ്ങ് ആരംഭിക്കുക
 about-webrtc-aec-logging-on-state-label = AEC ലോഗ്ഗിങ്ങ് നിര്‍ത്തുക
 about-webrtc-aec-logging-on-state-msg = AEC ലോഗ്ഗിങ്ങ് സജീവം (വിളിക്കുന്ന ആളുമായി കുറച്ച് നേരം സംസാരിച്ചിട്ട് എടുക്കുന്നത് നിര്‍ത്തുക)
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC ലോഗ്ഗിങ്ങ് സജീവം (വിളിക്കുന്ന ആളുമായി കുറച്ച് നേരം സംസാരിച്ചിട്ട് എടുക്കുന്നത് നിര്‍ത്തുക)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = എടുത്ത ലോഗ് ഫയല്‍ ഇവിടെ കാണാം: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -66,10 +69,12 @@ about-webrtc-type-remote = വിദൂരം
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = നാമനിര്‍ദ്ദേിച്ച
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = തിരഞ്ഞെടുത്ത
+
 about-webrtc-save-page-label = താള്‍ സൂക്ഷിക്കുക
 about-webrtc-debug-mode-msg-label = ഡീബഗ് രീതി
 about-webrtc-debug-mode-off-state-label = ഡീബഗ് രീതി ആരംഭിയ്ക്കുക
@@ -79,6 +84,7 @@ about-webrtc-log-show-msg = ലോഗ് കാണിക്കു
     .title = വിഭാഗം വികസിപ്പിയ്ക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക
 about-webrtc-log-hide-msg = ലോഗ് ഒളിപ്പിക്കു
     .title = വിഭാഗം കൊളാപ്സ് ചെയ്യാന്‍ ക്ലിക്ക് ചെയ്യുക
+
 about-webrtc-log-section-show-msg = ലോഗ് കാണിക്കു
     .title = വിഭാഗം വികസിപ്പിയ്ക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക
 about-webrtc-log-section-hide-msg = ലോഗ് ഒളിപ്പിക്കു
@@ -134,6 +140,7 @@ about-webrtc-save-page-msg = { $path } -ലേക്കു് താള്‍ �
 about-webrtc-debug-mode-off-state-msg = ട്രേസ് ലോഗ് ഇവിടെ കാണാം: { $path }
 about-webrtc-debug-mode-on-state-msg = ഡീബഗ് രീതി സജീവം, ട്രേസ് ലോഗ് ഇവിടെ: { $path }
 about-webrtc-aec-logging-off-state-msg = എടുത്ത ലോഗ് ഫയല്‍ ഇവിടെ കാണാം: { $path }
+
 about-webrtc-save-page-complete-msg = { $path } -ലേക്കു് താള്‍ സൂക്ഷിച്ചു
 about-webrtc-debug-mode-toggled-off-state-msg = ട്രേസ് ലോഗ് ഇവിടെ കാണാം: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = ഡീബഗ് രീതി സജീവം, ട്രേസ് ലോഗ് ഇവിടെ: { $path }

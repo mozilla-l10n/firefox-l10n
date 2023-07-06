@@ -19,18 +19,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = തുറക്കുക
     .accesskey = ത
-synced-tabs-context-open-in-new-tab =
-    .label = പുതിയ ടാബില്‍ തുറക്കുക
-    .accesskey = ത
-synced-tabs-context-open-in-new-window =
-    .label = പുതിയ ജാലകത്തില്‍ തുറക്കുക
-    .accesskey = ത
-synced-tabs-context-open-in-new-private-window =
-    .label = പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക
-    .accesskey = സ
-synced-tabs-context-bookmark-single-tab =
-    .label = ഈ ടാബ് അടയാളപ്പെടുത്തുക...
-    .accesskey = ഈ
 
 ##
 

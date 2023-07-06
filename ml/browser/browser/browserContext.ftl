@@ -218,14 +218,6 @@ main-context-menu-audio-email =
     .label = ഓഡിയോ ഈമെയില്‍ അയയ്ക്കുക…
     .accesskey = ഈ
 
-main-context-menu-plugin-play =
-    .label = ഈ പ്ലഗിന്‍ സജീവമാക്കുക
-    .accesskey = സ
-
-main-context-menu-plugin-hide =
-    .label = ഈ പ്ലഗിന്‍ അദൃശ്യമാക്കുക
-    .accesskey = അ
-
 main-context-menu-send-to-device =
     .label = ഡിവൈസിലേക്ക് താൾ അയയ്ക്കുക
     .accesskey = എൻ
@@ -264,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ഫ്രെയിം വീണ്ടും തുറക്കുക
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = ഈ ഫ്രെയിം അടയാളപ്പെടുത്തുക
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = ഫ്രെയിം ഇങ്ങനെ സൂക്ഷിക്കുക...

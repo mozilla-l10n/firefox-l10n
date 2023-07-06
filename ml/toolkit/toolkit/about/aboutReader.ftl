@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-reader-load-error = താളില്‍ നിന്നും ലേഖനം ലഭ്യമാക്കുാന്‍ പറ്റുന്നില്ല
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
