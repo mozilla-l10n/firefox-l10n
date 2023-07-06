@@ -40,14 +40,19 @@ webrtc-sharing-menuitem =
 
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Partagiér la camèrâ avouèc “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Partagiér lo microfono avouèc “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Partagiér una aplicacion avouèc “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Partagiér l'ècran avouèc “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Partagiér la fenétra avouèc “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Partagiér la tirèta avouèc “{ $streamTitle }”
 

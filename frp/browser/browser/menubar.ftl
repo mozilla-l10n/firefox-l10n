@@ -39,6 +39,8 @@ menu-file-print =
 ## use on macOS.
 
 
+## These menu items may use the same accesskey.
+
 ##
 
 

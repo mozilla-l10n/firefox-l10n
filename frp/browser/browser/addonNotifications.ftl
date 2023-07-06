@@ -22,6 +22,7 @@
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Revondre { $name } de { -brand-shorter-name }?
 addon-removal-button = Recondre
+
 addon-install-cancel-button =
     .label = Anular
     .accesskey = A

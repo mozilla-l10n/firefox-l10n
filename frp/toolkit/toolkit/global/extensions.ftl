@@ -16,9 +16,11 @@
 webext-perms-cancel =
     .label = Anular
     .accesskey = A
+
 webext-perms-sideload-cancel =
     .label = Anular
     .accesskey = A
+
 webext-perms-optional-perms-allow =
     .label = Pèrmetre
     .accesskey = P

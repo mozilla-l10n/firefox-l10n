@@ -52,6 +52,10 @@ login-item-save-changes-button = Sârvar les modificacions
 login-item-save-new-button = Sârvar
 login-item-cancel-button = Anular
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
 ## OS Authentication dialog
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -68,6 +72,11 @@ login-item-cancel-button = Anular
 
 ## Dialogs
 
+
+## Variables
+##   $count (number) - Number of items
+
+##
 
 ## Breach Alert notification
 

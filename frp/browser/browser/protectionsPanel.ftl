@@ -35,3 +35,6 @@
 
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Anular
+
+# Cookie Banner Handling
+

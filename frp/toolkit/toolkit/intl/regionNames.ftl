@@ -39,5 +39,4 @@ region-name-ca = Canadâ
 region-name-ch = Suisse
 region-name-cn = Ch·ina
 region-name-cu = Cuba
-region-name-cz = Tch·èquia
 region-name-de = Alemanye

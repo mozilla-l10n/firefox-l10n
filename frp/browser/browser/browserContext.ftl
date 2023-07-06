@@ -77,14 +77,6 @@ main-context-menu-media-play =
 
 ##
 
-main-context-menu-plugin-play =
-    .label = Activar cèt’ agllèton
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Recondre l’agllèton
-    .accesskey = H
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
