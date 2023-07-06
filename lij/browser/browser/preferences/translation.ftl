@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-translation-window =
-    .title = Eceçioin - Traduçion
-    .style = width: 38em
-
 translation-window2 =
     .title = Eceçioin - Traduçion
     .style = min-width: 38em

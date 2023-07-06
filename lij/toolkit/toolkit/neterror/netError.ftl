@@ -41,6 +41,17 @@ neterror-load-error-firewall = Se o teu computer ò a teu conescion en protezui 
 
 neterror-captive-portal = Ti devi intrâ in sta ræ prima che ti pòsse acede a l'internet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-access-denied = O peu ese stæto scancelou,mesciou, ò i permissi de acesso a-i file peuan proibine l'acesso.
 
 neterror-unknown-protocol = Bezeugna instalâ do software in ciù pe arvî st'indirisso.

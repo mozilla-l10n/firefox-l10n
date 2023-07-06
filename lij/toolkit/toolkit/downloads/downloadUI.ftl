@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] No Sciortî
        *[other] No Sciortî
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Se ti væ feua linia, un descaregamento saiâ anulou. T'ê seguo?
        *[other] Se ti væ feua linia, { $downloadsCount } descaregamenti saian anulæ. T'é seguo?
     }
 download-ui-dont-go-offline-button = Stanni feua linia
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Se òua ti særi tutti i barcoin de Navegaçion privâ, o descaregamento in corso o saiâ anulòu. Sciortî da-o modalitæ de navegaçion privâ?
        *[other] Se òua ti særi tutti i barcoin de Navegaçion privâ, { $downloadsCount } descaregamenti in corso saian anulæ. Sciortî da-o mòddo de Navegaçion privâ?
     }
 download-ui-dont-leave-private-browsing-button = Stanni inta Navegaçion Privâ
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Anulla un descaregamento

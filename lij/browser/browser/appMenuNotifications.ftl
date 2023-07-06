@@ -21,12 +21,14 @@ appmenu-update-unsupported2 =
     .buttonaccesskey = A
     .secondarybuttonlabel = Anulla
     .secondarybuttonaccesskey = A
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Va ben
     .buttonaccesskey = V
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permetti l’ezegoçion de sta estenscion inti barcoin privæ
     .accesskey = A
+
 appmenu-tab-hide-controlled =
     .label = Acedi a-i teu feuggi ascoxi
     .buttonlabel = Mantegni ascoxi i feuggi

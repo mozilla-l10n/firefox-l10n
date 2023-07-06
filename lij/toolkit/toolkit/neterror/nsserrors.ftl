@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Gh'é stæto un erô durante a conescion a { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Còdice d'erô: { $error }
-
 psmerr-ssl-disabled = No pòsso conetime in manea segua perché o protocòllo SSL o l'é stæto dizabilitou.
 psmerr-ssl2-disabled = No pòsso conetime in manea segua perché o protocòllo SSL l'é inte 'na verscion vegia e no segua.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = L'é configorou un algoritmo de fir
 ssl-error-unsupported-signature-algorithm = O peer o l'à deuviou ina conbinaçion de firma e algoritmo hash no soportâ.
 ssl-error-missing-extended-master-secret = O peer o l'à provou a repigiâ sensa una coretta extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = O peer o l'à provou a repigiâ con ina extended_master_secret extension che no m'aspetavo.
+
 sec-error-io = Erô I/O fintanto ch'eo derê a l'aotorizaçion de seguessa.
 sec-error-library-failure = erô da libraia de seguessa.
 sec-error-bad-data = libraia de seguessa: reçevui dæti no bonn-i.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = No pòsso decripta: a ciave do teu algoritmo d
 sec-error-pkcs7-bad-signature = Verifica da firma no ariescia: nisciunn-a firma trova, tròppe firme trovæ, ò dæti inpròpi ò aroinæ.
 sec-error-unsupported-keyalg = Algoritmo da ciave no conosciuo ò no soportou.
 sec-error-decryption-disallowed = No pòsso decripta: criptou con 'n algoritmo ò 'na dimenscion da ciave no permissa.
-xp-sec-fortezza-bad-card = A carta Fortezza a no l'é stæta inandiâ ben. Pe piaxei levila da mezo e dannila a-o teu pubricatô.
-xp-sec-fortezza-no-card = Nisciunn-a carta Fortezza atrovâ
-xp-sec-fortezza-none-selected = Nisciunn-a carta Fortezza seleçionâ
-xp-sec-fortezza-more-info = Pe piaxei seleçionn-a 'na personalitæ pe avei ciù informaçion
-xp-sec-fortezza-person-not-found = Personalitæ no atrovâ
-xp-sec-fortezza-no-more-info = No gh'é ciù informaçioin de sta personalitæ
-xp-sec-fortezza-bad-pin = Sto Pin no va ben
-xp-sec-fortezza-person-error = No pòsso iniçializâ e personalitæ Fortezza.
 sec-error-no-krl = Nisciun KRL pe sto certificato do scito o l'é stæto trovou.
 sec-error-krl-expired = O KRL pe sto certificato do scito o l'é scheito.
 sec-error-krl-bad-signature = O KRL pe sto certificato do scito o gh'à 'na firma no valida.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = 'N certificato co-o mæximo nomme o l'existe
 sec-error-key-nickname-collision = 'Na ciave co-o mæximo nomme o l'existe za.
 sec-error-safe-not-created = erô inta creaçion de l'ògetto safe
 sec-error-baggage-not-created = erô inta creaçion de l'ògetto baggage
-xp-java-remove-principal-error = No pòsso levâ da mezo o prinçipâ
-xp-java-delete-privilege-error = No pòsso scancelâ o privilegio
-xp-java-cert-not-exists-error = Sto prinçipâ o no l'à 'n certificato
 sec-error-bad-export-algorithm = L'algoritmo domandou o no l'é permisso.
 sec-error-exporting-certificates = Erô a esportâ i certificati.
 sec-error-importing-certificates = Erô a inportâ i certificati.
@@ -338,6 +319,7 @@ sec-error-locked-password = A paròlla segreta a l'é bloca.
 sec-error-unknown-pkcs11-error = Erô sconosciuo PKCS #11.
 sec-error-bad-crl-dp-url = URL no valido ò no suportou into nomme do ponto de distriboçion CRL.
 sec-error-cert-signature-algorithm-disabled = O certificato o l'é firmou co-in algoritmo de firma dizativou in quanto no seguo.
+
 mozilla-pkix-error-key-pinning-failure = O server o deuvia o mecaniximo de “key pinning” ma no l'é poscibile creâ 'na cadenn-a de certificati fidæ ch'a corisponda a-o pinset. No l'é poscibile ignorâ violaçioin relative a-o “key pinning”.
 mozilla-pkix-error-ca-cert-used-as-end-entity = O server o deuvia un certificato co-ina estenscion limitaçion de baze ch'ou identifica comme aotoritæ de certificaçion. Sta cösa a no dovieiva sucede pe un certificato emisso ben.
 mozilla-pkix-error-inadequate-key-size = O certificato inviato do-u server o deuvia 'na ciave troppo còrta pe stabilî 'na conescion segua.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = O server o m'à prezetou un certif
 mozilla-pkix-error-empty-issuer-name = O server o l'à fornio un certificato ch'o no l'à o nomme do pubricatô.
 mozilla-pkix-error-additional-policy-constraint-failed = Ina regola azonta a-a politica a l'à falio inta validaçion do certificato.
 mozilla-pkix-error-self-signed-cert = O certificato o no l'é fidou perché o s'é firmou da solo.
+
+xp-java-remove-principal-error = No pòsso levâ da mezo o prinçipâ
+xp-java-delete-privilege-error = No pòsso scancelâ o privilegio
+xp-java-cert-not-exists-error = Sto prinçipâ o no l'à 'n certificato
+
+xp-sec-fortezza-bad-card = A carta Fortezza a no l'é stæta inandiâ ben. Pe piaxei levila da mezo e dannila a-o teu pubricatô.
+xp-sec-fortezza-no-card = Nisciunn-a carta Fortezza atrovâ
+xp-sec-fortezza-none-selected = Nisciunn-a carta Fortezza seleçionâ
+xp-sec-fortezza-more-info = Pe piaxei seleçionn-a 'na personalitæ pe avei ciù informaçion
+xp-sec-fortezza-person-not-found = Personalitæ no atrovâ
+xp-sec-fortezza-no-more-info = No gh'é ciù informaçioin de sta personalitæ
+xp-sec-fortezza-bad-pin = Sto Pin no va ben
+xp-sec-fortezza-person-error = No pòsso iniçializâ e personalitæ Fortezza.

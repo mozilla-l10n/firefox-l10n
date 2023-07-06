@@ -23,10 +23,12 @@ newtab-topsites-edit-topsites-header = Cangia scito prinçipâ
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Scrivi 'n titolo
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Scrivi ò incòlla URL
 newtab-topsites-url-validation = Serve 'na URL bonn-a
+
 newtab-topsites-image-url-label = URL da inmagine personalizâ
 newtab-topsites-use-image-link = Adeuvia inagine personalizâ…
 newtab-topsites-image-validation = Erô into caregamento de l'inmagine. Preuva 'n atra URL.
@@ -54,6 +56,7 @@ newtab-confirm-delete-history-p2 = Sta açion a no se peu anulâ.
 newtab-menu-section-tooltip =
     .title = Arvi menû
     .aria-label = Arvi menû
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -115,6 +118,7 @@ newtab-label-bookmarked = Azonto a-i segnalibbri
 newtab-label-recommended = De tentensa
 newtab-label-saved = Sarvou in { -pocket-brand-name }
 newtab-label-download = Descaregou
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -152,6 +156,7 @@ newtab-section-header-pocket = Consegiou da { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Iniçia a navegâ e, in sta seçion, saian mostræ articoli, video e atre pagine vixitæ de fresco ò azonti a-i segnalibbri.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -172,7 +177,6 @@ newtab-pocket-more-recommendations = Atri conseggi
 newtab-pocket-learn-more = Atre informaçioin
 newtab-pocket-cta-button = Piggite { -pocket-brand-name }
 newtab-pocket-cta-text = Sarva e stöie che te piaxan into { -pocket-brand-name }, e carega torna a mente con letue che incantan.
-newtab-pocket-saved-to-pocket = Sarvâ in { -pocket-brand-name }
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.

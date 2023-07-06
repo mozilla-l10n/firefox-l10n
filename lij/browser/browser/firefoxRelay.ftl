@@ -11,9 +11,6 @@
 
 ##
 
-firefox-relay-opt-in-confirmation-enable =
-    .label = Vanni avanti
-    .accesskey = V
 firefox-relay-opt-in-confirmation-postpone =
     .label = Oua no
     .accesskey = O

@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Azonzi etichette
+
 pocket-panel-saved-error-generic = Gh'æ stæto 'n'erô into sarvâ in { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = A longhessa mascima pe-e etichette a l'é de 25 carateri
 pocket-panel-saved-error-only-links = Ti peu solo sarvâ colegamenti
@@ -25,7 +26,7 @@ pocket-panel-saved-save-tags = Sarva
 pocket-panel-saved-saving-tags = Son apreuvo a sarvâ…
 pocket-panel-saved-suggested-tags = Etichete consigiæ
 pocket-panel-saved-tags-saved = Azonte etichette
-pocket-panel-signup-view-list = Veddi elenco
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Azonzi etichette:
 
@@ -43,7 +44,6 @@ pocket-panel-signup-tagline-story-two = Amialo in { -pocket-brand-name } da qual
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = A mæ lista
 pocket-panel-home-welcome-back = Benveguo torna
 pocket-panel-home-explore-popular-topics = Esplòra argomenti ciù popolâ
 pocket-panel-home-discover-more = Descòvri de ciù

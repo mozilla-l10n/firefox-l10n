@@ -13,7 +13,6 @@
 onboarding-welcome-header = Benvegnuo in { -brand-short-name }
 onboarding-start-browsing-button-label = Iniçia a navegâ
 onboarding-not-now-button-label = Oua no
-mr1-onboarding-set-default-secondary-button-label = Oua no
 
 ## Custom Return To AMO onboarding strings
 

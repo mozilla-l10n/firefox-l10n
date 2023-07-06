@@ -112,6 +112,8 @@ media-device-channels = Canâ
 media-device-rate = Indice
 media-device-latency = Ritardo
 
+## Codec support table
+
 ##
 
 intl-title = Internaçionalizaçion e Localizaçion

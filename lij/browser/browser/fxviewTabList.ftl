@@ -4,12 +4,15 @@
 
 fxviewtabrow-open-menu-button =
     .title = Arvi menû
+
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
+
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
+
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Oua
 

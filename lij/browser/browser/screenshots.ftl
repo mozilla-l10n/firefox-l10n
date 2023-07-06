@@ -32,3 +32,4 @@ screenshots-unshootable-page-error-details = Sta chi a no l'é 'na pagina Web st
 
 screenshots-generic-error-title = Ahime mi! { -screenshots-brand-name } o s'é ciantou.
 screenshots-generic-error-details = Niatri no emmo ben acapio cöse l'é sucesso. Ti peu miga preuvâ co-ina pagina dispægia?
+

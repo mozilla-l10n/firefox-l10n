@@ -50,5 +50,9 @@ url-classifier-disabled = Dizativou
 url-classifier-updating = agiorno
 url-classifier-cannot-update = no pòsso agiornâ
 url-classifier-success = ariescio
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = erô d'agiornamento ({ $error })
 url-classifier-download-error = erô de descaregamento ({ $error })
