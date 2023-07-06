@@ -8,8 +8,10 @@ search-header =
     .placeholder = नागिर addons.mozilla.org
     .searchbuttonlabel = नागिर
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+##
 
 list-empty-installed =
     .value = नोंथांहा इनष्टल खालामखानाय बे रोखोमनि जेबो add-ons गैया।
@@ -206,7 +208,6 @@ extension-enabled-heading = मावथि खालामबाय
 extension-disabled-heading = लोरबां जाबाय
 
 theme-enabled-heading = मावथि खालामबाय
-theme-disabled-heading = लोरबां जाबाय
 
 plugin-enabled-heading = मावथि खालामबाय
 plugin-disabled-heading = लोरबां जाबाय
@@ -244,6 +245,9 @@ install-update-button = आपडेट खालाम
 addon-detail-private-browsing-allow = गनायथि हो
 addon-detail-private-browsing-disallow = गनायथि दाहो
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -267,6 +271,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

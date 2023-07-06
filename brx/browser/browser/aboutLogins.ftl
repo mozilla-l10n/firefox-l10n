@@ -5,11 +5,6 @@
 
 about-logins-page-title = लगिन & पासवर्डखौ
 
-login-filter =
-    .placeholder = ल'गइनफोर नागिर
-
-create-login-button = गोदान ल'गइन खुलि
-
 fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
 fxaccounts-avatar-button =
     .title = एकाउन्ट सामलाय
@@ -76,9 +71,10 @@ login-item-copied-password-button-text = कपि खालामबाय!
 login-item-save-changes-button = सोलायनायफोर थिना दोन
 login-item-save-new-button = थिना दोन
 login-item-cancel-button = नेवसि
-login-item-time-changed = जोबथा सोलायनाय सम: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = सोरजिनाय सम: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = जोबथा बाहायनाय: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -105,6 +101,11 @@ about-logins-confirm-remove-dialog-title = बे ल'गइनखौ बोख�
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 about-logins-confirm-remove-dialog-confirm-button = बोखार
 
+## Variables
+##   $count (number) - Number of items
+
+##
+
 confirm-discard-changes-dialog-title = थिनानै देनै सोलायनाफोरखौ बोखार
 confirm-discard-changes-dialog-message = गासिबो थिनानै दोनै सोलायनायफोरा गोमागोन
 confirm-discard-changes-dialog-confirm-button = नागार
@@ -112,7 +113,6 @@ confirm-discard-changes-dialog-confirm-button = नागार
 ## Breach Alert notification
 
 breach-alert-text = नाोंनि लक इन दिथेनगजों लास्थ आवदेथ खालामनायाव बे साइथनिफा्य फासवादखौ खावबाय. नोंनि एखावनखौ रैखा खालामनो थाखाय फासवादखौ सोलाइ
-about-logins-breach-alert-learn-more-link = गोबां सोलों
 
 ## Vulnerable Password notification
 

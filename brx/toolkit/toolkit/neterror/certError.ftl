@@ -86,6 +86,7 @@ open-in-new-window-for-csp-or-xfo-error = गोदान उइन्ड'आव
 
 connectionFailure-title = फोनांजाब खालामनो हायाखै
 deniedPortAccess-title = बे थंखौ हेंथा होबाय
+
 fileNotFound-title = फाइलखौ मोनाखै
 generic-title = हाय
 captivePortal-title = नेटॱवर्क अव लगॱइन खालाम

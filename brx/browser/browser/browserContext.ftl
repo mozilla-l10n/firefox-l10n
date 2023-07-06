@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = बे बिलाइखौ बुकमार्क हो...
-    .accesskey = m
-    .tooltiptext = बे बिलाइ खौ बुकमार्क हो
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = बे बिलाइखौ बुकमार्क हो...
-    .accesskey = m
-    .tooltiptext = बे बिलाइ ({ $shortcut }) खौ बुकमार्क हो
-
-main-context-menu-bookmark-change =
-    .aria-label = बे बुकमार्कखौ सुजु
-    .accesskey = m
-    .tooltiptext = नोंथांनि बुकमार्क खौ सुजु
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = बे बुकमार्कखौ सुजु
-    .accesskey = m
-    .tooltiptext = नोंथांनि बुकमार्क ({ $shortcut }) खौ सुजु
-
 main-context-menu-open-link =
     .label = लिंकखौ खेव
     .accesskey = O
@@ -238,14 +214,6 @@ main-context-menu-audio-email =
     .label = इ-मेइल अडिअ'...
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = बे प्लागिनखौ मावथि खालाम
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = बे प्लागिनखौ दोनखोमा
-    .accesskey = H
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -276,10 +244,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = फ्रेमखौ फिन ल'ड खालाम
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = बे फ्रेमखौ बुकमार्क हो
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = बादि फ्रेमखौ थिना दोन...

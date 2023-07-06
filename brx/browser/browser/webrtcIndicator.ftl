@@ -27,6 +27,7 @@ webrtc-item-browser = टेब
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = मोनथिमोनै गुबै
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -66,6 +67,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = दबथायनाय शेयारिं
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" आव दबथायनाय शेयारिं
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = "{ $streamTitle }" जों शेयारिं केमेरा
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -74,6 +76,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } टेबजों केमेराखौ शेयार खालामगासिनो दं
            *[other] { $tabCount } टेबजों केमेराखौ शेयार खालामगासिनो दं
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = "{ $streamTitle }" जों शेयारिं माइक्र'फन
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -82,6 +85,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } टेबजों माइक्र'फनखौ शेयार खालामगासिनो दं
            *[other] { $tabCount } टेबजों माइक्र'फनखौ शेयार खालामगासिनो दं
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }" जों एप्लिकेसनखौ शेयार खालामगासिनो दं
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -90,6 +94,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } टेबजों एप्लिकेसनखौ शेयार खालामगासिनो दं
            *[other] { $tabCount } टेबजों एप्लिकेसनखौ शेयार खालामगासिनो दं
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" जों स्क्रिनखौ शेयार खालामगासिनो दं
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -98,6 +103,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } टेबजों स्क्रिनखौ शेयार खालामगासिनो दं
            *[other] { $tabCount } टेबजों स्क्रिनखौ शेयार खालामगासिनो दं
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }" जों उइन्ड'खौ शेयार खालामगासिनो दं
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -106,6 +112,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } टेबजों उइन्ड'खौ शेयार खालामगासिनो दं
            *[other] { $tabCount } टेबजों उइन्ड'खौ शेयार खालामगासिनो दं
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }" जों शेयारिं केमेरा
 

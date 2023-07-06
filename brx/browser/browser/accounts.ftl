@@ -32,6 +32,7 @@ account-single-tab-arriving-title = टेबखौ मोनबाय
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } निफ्राय टेब
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -44,3 +45,4 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = टेबखौ मोनबाय
+

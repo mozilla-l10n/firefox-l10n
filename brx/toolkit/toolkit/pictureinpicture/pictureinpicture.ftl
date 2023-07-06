@@ -4,18 +4,23 @@
 
 pictureinpicture-player-title = सावगारि-गेजेरौ-सावगारि
 
-pictureinpicture-pause =
-    .aria-label = थाद' हो
-pictureinpicture-play =
-    .aria-label = दाम
-
-pictureinpicture-mute =
-    .aria-label = सोदोबगैयै खालाम
-pictureinpicture-unmute =
-    .aria-label = सोदोबगोनां खालाम
-
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+##
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
 
 ##
 

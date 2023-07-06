@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (निजि ब्राउजिं)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (निजि ब्राउजिं)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (निजि ब्राउजिं)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (निजि ब्राउजिं)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -55,8 +22,6 @@ urlbar-midi-notification-anchor =
     .tooltiptext = मिदि पेनल खेव
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM software बाहायनायखौ सामलाइ
-urlbar-translate-notification-anchor =
-    .tooltiptext = बे बिलाइखौ राव सोलाय
 urlbar-autoplay-notification-anchor =
     .tooltiptext = गावनो गोमगा् फेनेलखौ खुलि
 urlbar-tip-help-icon =
@@ -95,19 +60,18 @@ urlbar-midi-blocked =
     .tooltiptext = नों बे वेबसाइथनि मिदि हाबगा् लामाखौ बन्द खालामना दोनबाय
 urlbar-install-blocked =
     .tooltiptext = नों बे वेबसाइथनि एद अन इन्सथल खालामगा्खौ बन्द खालामना दोनबाय
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = नोंथांनि बुकमार्क ({ $shortcut }) खौ सुजु
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = बे बिलाइ ({ $shortcut }) खौ बुकमार्क हो
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = बारायनायखौ सामलाइ
 
 ## Auto-hide Context Menu
 
@@ -123,8 +87,10 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = बे समाव नागिर
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = नागिरनाय सेटिंखौ सोलाय
+
 search-one-offs-context-open-new-tab =
     .label = गोदान टेबआव नागिर
     .accesskey = T
@@ -162,6 +128,7 @@ bookmark-panel-remove =
            *[other] { $count } बुकमार्कफोरखौ बोखार
         }
     .accesskey = R
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -172,8 +139,6 @@ bookmark-panel =
 
 identity-clear-site-data =
     .label = कुकिज आरो साइट दाटा फोरखौ खोमोर...
-identity-learn-more =
-    .value = गोबां सोलों
 identity-disable-mixed-content-blocking =
     .label = दानि थाखाय रैखाथिखौ लोरबां खालाम
     .accesskey = D
@@ -212,11 +177,14 @@ popup-all-windows-shared = नोंथांनि स्क्रिननि 
 
 urlbar-placeholder =
     .placeholder = थंखौ नागिर एबा हाबहो
+
 urlbar-switch-to-tab =
     .value = टेबाव थां:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = बारायनायफोर:
+
 urlbar-go-button =
     .tooltiptext = लकेसन बारनि थंआव थां
 
@@ -249,6 +217,7 @@ urlbar-result-action-visit = थां
 
 ## Full Screen and Pointer Lock UI
 
+
 fullscreen-exit-button = आबुं स्क्रिन निफ्राय ओंखार लां (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = आबुं स्क्रिन निफ्राय ओंखार लां (esc)
@@ -278,8 +247,7 @@ bookmarks-mobile-bookmarks-menu =
 
 bookmarks-search =
     .label = बुकमार्कफोरखौ नागिर
-bookmarks-bookmark-edit-panel =
-    .label = बे बुकमार्कखौ सुजु
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -310,16 +278,19 @@ library-bookmarks-menu =
 toolbar-button-email-link =
     .label = लिंकखौ इ-मेइल खालाम
     .tooltiptext = मोनसे लिंकखौ बे बिलाइआव इ-मेइल खालाम
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = बिलाइखौ थिना दोन
     .tooltiptext = ({ $shortcut }) बे बिलाइखौ थिना दोन
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = फाइलखौ खेव
     .tooltiptext = ({ $shortcut }) फाइलखौ खेव
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -346,6 +317,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } नि थाखाय प'पआपखौ गनायथि हो
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } नि थाखाय प'पआपखौ ब्लक खालाम
     .accesskey = p
@@ -370,24 +342,31 @@ popups-infobar-dont-show-message =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = नेभिगेसन
+
 navbar-downloads =
     .label = डाउनल'डफोर
+
 navbar-overflow =
     .tooltiptext = गोबां टुल...
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = साफाय
     .tooltiptext = बे बिलाइखौ साफाय... ({ $shortcut })
+
 navbar-search =
     .title = नागिर
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ब्राउजार टेबफोर
+
 tabs-toolbar-new-tab =
     .label = गोदान टेब
+
 tabs-toolbar-list-all-tabs =
     .label = गासै टेबखौ लिस्ट खालाम
     .tooltiptext = गासै टेबखौ लिस्ट खालाम
@@ -409,10 +388,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } आ फिन ल'ड खालामनायखाय बे बिलाइखौ हेंथा होबाय।
 refresh-blocked-redirect-label = { -brand-short-name } आ बे बिलाइखौ गुबुन मोनसे बिलाइआव गावनो गाव महरै फिन बिथोन होनायखौ हेंथा होबाय।
+
 refresh-blocked-allow =
     .label = गनायथि हो
     .accesskey = A
@@ -425,6 +408,8 @@ refresh-blocked-allow =
 
 ## Pop-up Notification
 
+
+## Add-on Pop-up Notifications
 
 ## Pop-up warning
 
@@ -439,6 +424,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

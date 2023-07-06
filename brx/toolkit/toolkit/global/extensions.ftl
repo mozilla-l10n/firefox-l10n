@@ -21,15 +21,18 @@ webext-perms-add =
 webext-perms-cancel =
     .label = नेवसि
     .accesskey = C
+
 webext-perms-sideload-enable =
     .label = मावथि खालाम
     .accesskey = E
 webext-perms-sideload-cancel =
     .label = नेवसि
     .accesskey = C
+
 webext-perms-update-accept =
     .label = आपडेट खालाम
     .accesskey = U
+
 webext-perms-optional-perms-allow =
     .label = गनायथि हो
     .accesskey = A

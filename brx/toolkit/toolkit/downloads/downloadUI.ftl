@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] नागारनो नाङा
        *[other] ओंखारलांनो नाङा
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] नोंथाङा दानो अफलाइनाव थाङोब्ला मोनसे डाउनल'डआ बातिल जागोन। थारैनो नोंथाङा ओंखार लांनो लुबैयो नामा?
        *[other] नोंथाङा दानो अफलाइनाव थाङोब्ला { $downloadsCount } डाउनल'डआ बातिल जागोन। थारैनो नोंथाङा ओंखार लांनो लुबैयो नामा?
     }
 download-ui-dont-go-offline-button = अनलाइनाव था
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 डाउनल'डखौ नेवसि

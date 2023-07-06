@@ -150,6 +150,8 @@ menu-view-full-screen =
     .label = आबुं स्क्रिन
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -184,8 +186,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = बुकमार्क
     .accesskey = B
-menu-bookmark-edit =
-    .label = बे बुकमार्कखौ सुजु
 menu-bookmarks-all-tabs =
     .label = गासै टेबखौ बुकमार्क हो...
 menu-bookmarks-toolbar =

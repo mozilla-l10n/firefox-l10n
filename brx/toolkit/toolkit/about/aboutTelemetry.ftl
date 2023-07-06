@@ -46,8 +46,6 @@ about-telemetry-late-writes-title = गोबाव लिरनाय #{ $lateW
 about-telemetry-stack-title = स्टेक:
 about-telemetry-memory-map-title = मेमरि मेप:
 about-telemetry-error-fetching-symbols = दिन्थिसिन लाबोनाय समाव मोनसे गोरोन्थि जादोंमोन। इन्टारनेटजों फोनांजाबनाय नामा आनजाद खालाम आरो फिन नाजा।
-about-telemetry-origin-origin = गुबै
-about-telemetry-origin-count = काउन्ट
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } प्रचेछ

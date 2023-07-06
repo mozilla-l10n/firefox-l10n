@@ -14,18 +14,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = खेव
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = गोदान टेबआव खेव
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = मोनसे गोदान उइन्ड'आव खेव
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = मोनसे गोदान प्राइभेट उइन्ड'खौ खेव
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = बे टेबखौ बुकमार्क हो...
-    .accesskey = B
 
 ##
 

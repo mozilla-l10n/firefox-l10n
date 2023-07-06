@@ -86,3 +86,4 @@ browser-data-session-checkbox =
     .label = उइन्ड'स आरो टेबफोर
 browser-data-session-label =
     .value = उइन्ड'स आरो टेबफोर
+

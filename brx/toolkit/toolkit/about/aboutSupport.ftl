@@ -66,6 +66,8 @@ media-title = मेडिया
 media-device-name = मुं
 media-device-group = हानजा
 
+## Codec support table
+
 ##
 
 

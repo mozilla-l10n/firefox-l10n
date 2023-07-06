@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = अथ'रिटि
 
-certmgr-edit-ca-cert =
-    .title = CA सार्टिफिकेट फोथायनाय सेटिंखौ सुजु
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA सार्टिफिकेट फोथायनाय सेटिंखौ सुजु
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = बे सार्टिफिकेटआ मेइल बाहायग्राफोरखौ सिनायथिनो हायो।
 
-certmgr-delete-cert =
-    .title = सार्टिफिकेट खोमोर
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = सार्टिफिकेट खोमोर
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = सार्भार
-
-certmgr-override-lifetime =
-    .label = अराय जिउ सम
 
 certmgr-token-name =
     .label = रैखाथि डिभाइस

@@ -23,5 +23,7 @@ state-header = रायजो
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = गुवारै
+
 update-installed-on = ..आव इनष्टल खालामबाय: { $date }
+
 update-status = थाखोमान: { $status }

@@ -101,3 +101,7 @@ permissions-exceptions-addons-desc = add-ons खौ इनष्टल खाल
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

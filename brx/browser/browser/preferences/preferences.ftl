@@ -50,6 +50,16 @@ restart-later = उनाव फिन जागाय
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 ## Preferences UI Search Results
 
 search-results-header = नागिरनायनि फिन
@@ -86,11 +96,17 @@ browser-containers-settings =
     .label = सेटिं....
     .accesskey = i
 
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] { $tabCount } खनथेनार टेब बन्द खालाम
        *[other] { $tabCount } खनथेनार टेबफोर बन्द खालाम
     }
+
+##
+
 containers-disable-alert-cancel-button = हाहोनाय खालामना दोननाय
 
 ## General Section - Language & Appearance
@@ -286,11 +302,6 @@ home-restore-defaults =
     .label = डिफल्टखौ मोनफिन
     .accesskey = R
 
-# "Firefox" should be treated as a brand and kept in English,
-# while "Home" and "(Default)" can be localized.
-home-mode-choice-default =
-    .label = Firefox ह'म (डिफल्ट)
-
 home-mode-choice-custom =
     .label = कास्टम URLs...
 
@@ -312,13 +323,14 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = फाइरफोक्स ह'म थानायआयदा
-
 home-prefs-search-header =
     .label = वेबौ नागिर
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -362,6 +374,7 @@ search-suggestions-option =
     .label = नागिरनाय बोसोन हो
     .accesskey = s
 
+
 search-choose-engine-column =
     .label = नागिरनाय इन्जिन
 search-choose-keyword-column =
@@ -399,11 +412,21 @@ containers-remove-button =
 
 ## Firefox Account - Signed in
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+## Firefox account - Signed in
+
 sync-manage-account = एकाउन्ट सामलाय
     .accesskey = o
 
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } थारबिजिरनाय जाया।
 sync-signedin-login-failure = फिन फोनांजाब खालामनो थाखाय साइन-इन खालाम { $email }
+
+##
 
 sync-remove-account =
     .label = एकाउन्टखौ बोखार
@@ -438,6 +461,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = थिना दोन
     .accesskey = v
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
 
 ## Privacy Section
 
@@ -520,6 +546,8 @@ sitedata-clear =
     .label = दाटाफोरखौ खोमोर...
     .accesskey = I
 
+## Privacy Section - Cookie Banner Handling
+
 ## Privacy Section - Address Bar
 
 addressbar-locbar-history-option =
@@ -551,6 +579,8 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = C
 
 ##
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-tracking-protection-option-all-windows =
     .label = गासै उइन्ड'स आव
@@ -635,6 +665,8 @@ certs-view =
 
 ## Privacy Section - HTTPS-Only
 
+
+## DoH Section
 
 ## The following strings are used in the Download section of settings
 
