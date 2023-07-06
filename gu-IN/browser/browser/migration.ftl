@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = વિન્ડો અને ટૅબ્સ
 browser-data-session-label =
     .value = વિન્ડો અને ટૅબ્સ
+

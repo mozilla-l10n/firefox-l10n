@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = પ્રમાણપત્રો ડાઉનલોડ થાય છે
-    .style = width: 46em
-
 download-cert-window2 =
     .title = પ્રમાણપત્રો ડાઉનલોડ થાય છે
     .style = min-width: 46em
@@ -62,7 +58,5 @@ set-password-reminder =
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = સુરક્ષિત ટોકન સત્તાધિકરણ
-protected-auth-msg = મહેરબાની કરીને ટોકનને સત્તાધિકારીત કરો. સત્તાધિકરણ પદ્ધતિ તમારા ટોકનના પ્રકાર પર આધાર રાખે છે.
-protected-auth-token = ટોકન:
+## Protected authentication alert
+

@@ -42,3 +42,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = રદ કરો
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = અહેવાલ મોકલો
+
+# Cookie Banner Handling
+

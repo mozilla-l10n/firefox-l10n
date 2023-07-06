@@ -178,3 +178,15 @@ cfr-whatsnew-button =
 
 ## Firefox View Spotlight
 
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
+

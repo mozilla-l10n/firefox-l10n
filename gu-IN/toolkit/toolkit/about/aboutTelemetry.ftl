@@ -126,5 +126,3 @@ about-telemetry-category-header = શ્રેણી
 about-telemetry-method-header = પદ્ધતિ
 about-telemetry-object-header = ઑબ્જેક્ટ
 about-telemetry-extra-header = વધારાની
-about-telemetry-origin-origin = મૂળ
-about-telemetry-origin-count = સંખ્યા
