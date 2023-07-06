@@ -16,7 +16,6 @@ styleeditor-save-button = சேமி
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = பாணி தொகு தேர்வுகள்
-styleeditor-media-rules = @ஊடக விதிகள்
 styleeditor-editor-textbox =
     .data-placeholder = இங்கு CSS ஐத் தட்டச்சு செய்யவும்.
 styleeditor-no-stylesheet = பக்கத்தில் ஸ்டைல் ஷீட் இல்லை.
@@ -32,6 +31,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = வரிக்குத் செல்…
     .accesskey = வ
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

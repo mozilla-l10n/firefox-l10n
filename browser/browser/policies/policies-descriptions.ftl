@@ -50,9 +50,6 @@ policy-InstallAddonsPermission = சில வலைத்தளங்களை 
 
 policy-Proxy = பதிலி அமைப்புகளை கட்டமைக்க.
 
-# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = PKCS # 11 கூறுகளை நிறுவவும்.
-
 policy-SSLVersionMax = அதிகபட்ச SSL பதிப்பை அமைக்கவும்.
 
 policy-SSLVersionMin = குறைந்தபட்ச SSL பதிப்பு அமைக்கவும்.

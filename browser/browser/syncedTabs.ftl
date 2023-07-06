@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = திற
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = ஒரு புதிய கீற்றில் திறக்கவும்
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = ஒரு புதிய சாளரத்தில் திற
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = புதிய கமுக்க சாளரத்தில் திற
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = இந்தக் கீற்றை புத்தகக்குறியிடு…
-    .accesskey = B
 
 ##
 

@@ -75,6 +75,7 @@ deniedPortAccess-title = இந்த முகவரி தடுக்கப�
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = அடடா! இந்தத் தளத்தைக் கண்டறிவதில் சிக்கல் போல் தெரிகிறது.
+
 fileNotFound-title = கோப்பைக் காணவில்லை
 fileAccessDenied-title = கோப்பு அணுகல் மறுக்கப்பட்டது
 generic-title = அச்சச்சோ.

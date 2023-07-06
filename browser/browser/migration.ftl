@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = சாளரங்களும் கீற்றுகளும்
 browser-data-session-label =
     .value = சாளரங்களும் கீற்றுகளும்
+

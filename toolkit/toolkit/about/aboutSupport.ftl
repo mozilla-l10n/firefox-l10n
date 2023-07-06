@@ -102,6 +102,8 @@ media-device-channels = சேனல்கள்
 media-device-rate = தரம்
 media-device-latency = தாமதம்
 
+## Codec support table
+
 ##
 
 intl-app-title = பயன்பாட்டு அமைவுகள்

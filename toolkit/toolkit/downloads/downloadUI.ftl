@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] வெளியேறாதே
        *[other] வெளியேற்றாதே
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] இணைய இணைப்பிலிருந்து வெளியேறினால், 1 பதிவிறக்கம் ரத்து செய்யப்படும். இணையத்திலிருந்து வெளியேற விருப்பமா?
        *[other] இணைய இணைப்பிலிருந்து வெளியேறினால், { $downloadsCount } பதிவிறக்கங்கள் ரத்து செய்யப்படும். இணையத்திலிருந்து வெளியேற விருப்பமா?
     }
 download-ui-dont-go-offline-button = இணையத்தில் இருக்கவும்
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] நீங்கள் கமுக்க சாளரங்கள் அனைத்தையும் மூடினால், 1 பதிவிறக்கம் இரத்து செய்யப்படும். உலாவலை விட்டு வெளியேற வேண்டுமா?
        *[other] நீங்கள் கமுக்க சாளரங்கள் அனைத்தையும் மூடினால், { $downloadsCount } பதிவிறக்கங்கள் இரத்து செய்யப்படும். உலாவலை விட்டு வெளியேற வேண்டுமா?
     }
 download-ui-dont-leave-private-browsing-button = இங்கேயே இருக்கவும்
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 பதிவிறக்கத்தை ரத்து செய்

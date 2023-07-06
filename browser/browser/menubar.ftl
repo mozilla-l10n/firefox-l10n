@@ -34,9 +34,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } விட்டு வெளியேறு
+
 menu-about =
     .label = { -brand-shorter-name } பற்றி
     .accesskey = A
@@ -194,8 +196,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = புத்தகக்குறிகள்
     .accesskey = B
-menu-bookmark-edit =
-    .label = புத்தகக்குறியைத் திருத்து
 menu-bookmarks-all-tabs =
     .label = கீற்றுகளை புத்தகக்குறியிடு…
 menu-bookmarks-toolbar =

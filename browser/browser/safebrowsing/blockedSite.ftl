@@ -10,6 +10,27 @@ safeb-blocked-harmful-page-short-desc = உங்கள் தகவலைத்
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> என்பவரால் ஆலோசனை வழங்கப்பட்டது.
 safeb-palm-accept-label = பின் செல்
 safeb-palm-see-details-label = விவரத்தைப் பார்
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
 safeb-palm-notdeceptive =
     .label = இது ஓர் ஏமாற்று தளம் அல்ல
     .accesskey = d

@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = இப்பக்கத்தைப் புத்தகக்குறியிடு
-    .accesskey = m
-    .tooltiptext = பக்கத்தைப் புத்தகக்குறியிடு
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = இப்பக்கத்தைப் புத்தகக்குறியிடு
-    .accesskey = m
-    .tooltiptext = பக்கத்தைப் புத்தகக்குறியிடு ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = புத்தகக்குறியைத் திருத்து
-    .accesskey = m
-    .tooltiptext = இப்புத்தகக்குறியைத் தொகு
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = புத்தகக்குறியைத் திருத்து
-    .accesskey = m
-    .tooltiptext = இப்புத்தகக்குறியைத் தொகு ({ $shortcut })
-
 main-context-menu-open-link =
     .label = இணைப்பைத் திற
     .accesskey = O
@@ -242,14 +218,6 @@ main-context-menu-audio-email =
     .label = ஒலி மின்னஞ்சல்...
     .accesskey = ம
 
-main-context-menu-plugin-play =
-    .label = இந்த செருகுநிரலைச் செயல்படுத்தவும்
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = இந்த செருகுநிரலை மறைக்கவும்
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = சாதனத்திற்கு அனுப்பு
     .accesskey = D
@@ -288,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = சட்டத்தை மீளேற்று
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = இந்த சட்டத்தை புத்தகக்குறியிடு
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = சட்டத்தை இப்படி சேமி…
