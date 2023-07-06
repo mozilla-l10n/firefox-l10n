@@ -26,10 +26,6 @@ certmgr-people = You have certificates on file that identify these people
 certmgr-server = These entries identify server certificate error exceptions
 certmgr-ca = You have certificates on file that identify these certificate authorities
 
-certmgr-edit-ca-cert =
-    .title = Edit CA certificate trust settings
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Edit CA certificate trust settings
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = This certificate can identify mail users.
-
-certmgr-delete-cert =
-    .title = Delete Certificate
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Delete Certificate
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Lifetime
 
 certmgr-token-name =
     .label = Security Device

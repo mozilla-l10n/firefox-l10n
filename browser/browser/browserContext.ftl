@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Bookmark This Page
-    .accesskey = m
-    .tooltiptext = Bookmark this page
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Bookmark Page
-    .accesskey = m
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Edit Bookmark
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Bookmark This Page
-    .accesskey = m
-    .tooltiptext = Bookmark this page ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Edit This Bookmark
-    .accesskey = m
-    .tooltiptext = Edit this bookmark
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Edit This Bookmark
-    .accesskey = m
-    .tooltiptext = Edit this bookmark ({ $shortcut })
-
 main-context-menu-bookmark-page =
     .aria-label = Bookmark Page…
     .accesskey = m
@@ -191,10 +153,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Open Link in New Private Window
     .accesskey = P
-
-main-context-menu-bookmark-link =
-    .label = Bookmark Link
-    .accesskey = B
 
 main-context-menu-bookmark-link-2 =
     .label = Bookmark Link…
@@ -370,14 +328,6 @@ main-context-menu-audio-email =
     .label = Email Audio…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Activate this plugin
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Hide this plugin
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = Save Page to { -pocket-brand-name }
     .accesskey = k
@@ -436,10 +386,6 @@ main-context-menu-frame-reload =
     .label = Reload Frame
     .accesskey = R
 
-main-context-menu-frame-bookmark =
-    .label = Bookmark This Frame
-    .accesskey = m
-
 main-context-menu-frame-add-bookmark =
     .label = Bookmark Frame…
     .accesskey = m
@@ -459,10 +405,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = View Frame Info
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = Print Selection
-    .accesskey = r
 
 main-context-menu-print-selection-2 =
     .label = Print Selection…

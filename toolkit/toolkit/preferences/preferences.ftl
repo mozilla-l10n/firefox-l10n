@@ -9,10 +9,6 @@ failed-pp-change = Unable to change Primary Password.
 incorrect-pp = You did not enter the correct current Primary Password. Please try again.
 pp-change-ok = Primary Password successfully changed.
 
-pp-empty-warning = Your stored passwords and private keys will not be protected.
-pp-erased-ok = You have deleted your Primary Password. { pp-empty-warning }
-pp-not-wanted = Warning! You have decided not to use a Primary Password. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requires a non-empty Primary Password.
 pw-change-success-title = Password Change Succeeded
 pw-change-failed-title = Password Change Failed

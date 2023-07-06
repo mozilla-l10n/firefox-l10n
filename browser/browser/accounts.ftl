@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Finish Account Setup
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Account disconnected
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Send to all devices
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Manage devices…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Manage Devices…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = No Devices Connected
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Learn About Sending Tabs…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Connect Another Device…
 
@@ -45,10 +50,13 @@ account-send-tab-to-device-verify = Verify Your Account…
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = This computer is now connected with { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = This computer is now connected with a new device.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = You have signed in successfully
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = This computer has been disconnected.
 
@@ -60,6 +68,7 @@ account-single-tab-arriving-title = Tab Received
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab from { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -72,6 +81,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Tabs Received
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
