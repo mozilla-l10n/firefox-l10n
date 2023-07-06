@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = ທີ່ຢູ່ທີ່ບັນທຶກໄວ້
 autofill-manage-addresses-list-header = ທີ່ຢູ່
+
 autofill-manage-credit-cards-title = ບັດເຄຣດິດທີ່ບັນທຶກໄວ້
 autofill-manage-credit-cards-list-header = ບັດເຄຣດິດ
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ລຶບ
@@ -21,6 +23,7 @@ autofill-manage-edit-button = ແກ້ໄຂ…
 autofill-add-new-address-title = ເພີ່ມທີ່ຢູ່ໃໝ່
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ແກ້ໄຂທີ່ຢູ່
+
 autofill-address-given-name = ຊື່ແທ້
 autofill-address-additional-name = ຊື່ກາງ
 autofill-address-family-name = ນາມສະກຸນ
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = ປະເທດ ຫຼືພາກພື້ນ
 autofill-address-tel = ໂທລະສັບ
 autofill-address-email = ອີເມວ
+
 autofill-cancel-button = ຍົກເລີກ
 autofill-save-button = ບັນທຶກ
 autofill-country-warning-message = ການຕື່ມແບບຟອມອັດຕະໂນມັດແມ່ນສາມາດໃຊ້ໄດ້ກັບບາງປະເທດເທົ່ານັ້ນ.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ເພີ່ມບັດເຄຣດິດໃໝ່
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ແກ້ໄຂບັດເຄຣດິດ
+
 autofill-card-number = ເລກບັດ
 autofill-card-invalid-number = ກະລຸນາໃສ່ໝາຍເລກບັດທີ່ຖືກຕ້ອງ
 autofill-card-name-on-card = ຊື່ໃນບັດ

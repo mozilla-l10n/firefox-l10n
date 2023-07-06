@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = ຫົວຂໍ້ລະບົບ — ອັດຕະໂນມັດ
 extension-default-theme-description = ປະຕິບັດຕາມການຕັ້ງຄ່າລະບົບປະຕິບັດການສໍາລັບປຸ່ມ, ເມນູ, ແລະປ່ອງຢ້ຽມ.
+
 extension-firefox-compact-light-name = ແຈ້ງ
 extension-firefox-compact-light-description = ຮູບແບບສີສັນທີ່ມີສີສັນອ່ອນໆ.
+
 extension-firefox-compact-dark-name = ມືດ
 extension-firefox-compact-dark-description = ຮູບແບບສີສັນທີ່ມີຮູບແບບສີເຂັ້ມ.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = ໃຊ້ຮູບລັກສະນະທີ່ມີສີສັນສໍາລັບປຸ່ມ, ເມນູ, ແລະ ໜ້າຕ່າງ
 

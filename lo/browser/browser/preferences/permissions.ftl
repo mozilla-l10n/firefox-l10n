@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = ຂໍ້ຍົກເວັ້ນ
-    .style = width: 45em
 permissions-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ທີ່ຢູ່ຂອງເວັບໄຊທ໌
     .accesskey = ທ
+
 permissions-block =
     .label = ບັອກ
     .accesskey = ບ
+
 permissions-disable-etp =
     .label = ເພີ່ມຂໍ້ຍົກເວັ້ນ
     .accesskey = E
+
 permissions-session =
     .label = ອະນຸຍາດສຳລັບເຊສຊັນ
     .accesskey = ຊ
+
 permissions-allow =
     .label = ອະນຸຍາດ
     .accesskey = ອ
+
 permissions-button-off =
     .label = ປິດ
     .accesskey = O
+
 permissions-button-off-temporarily =
     .label = ປິດຊົ່ວຄາວ
     .accesskey = T
+
 permissions-site-name =
     .label = ເວັບໄຊທ໌
+
 permissions-status =
     .label = ສະຖານະ
+
 permissions-remove =
     .label = ລຶບເວັບໄຊທ໌ອອກ
     .accesskey = ລ
+
 permissions-remove-all =
     .label = ລຶບເວັບໄຊທ໌ທັງຫມົດອອກ
     .accesskey = ມ
+
 permission-dialog =
     .buttonlabelaccept = ບັນທຶກການປ່ຽນແປງ
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = ຄ່າເລີ່ມຕົ້ນສໍາລັບເວັບໄຊທ໌ທັງຫມົດ:
+
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
+
 permissions-capabilities-autoplay-allow =
     .label = ອະນຸຍາດສຽງ ແລະ ວິດີໂອ
 permissions-capabilities-autoplay-block =
     .label = ບລັອກສຽງ
 permissions-capabilities-autoplay-blockall =
     .label = ບລັອກສຽງ ແລະວິດີໂອ
+
 permissions-capabilities-allow =
     .label = ອະນຸຍາດ
 permissions-capabilities-block =
     .label = ບັອກ
 permissions-capabilities-prompt =
     .label = ຖາມທຸກຄັ້ງ
+
 permissions-capabilities-listitem-allow =
     .value = ອະນຸຍາດ
 permissions-capabilities-listitem-block =
     .value = ບັອກ
 permissions-capabilities-listitem-allow-session =
     .value = ອະນຸຍາດສຳລັບເຊສຊັນນີ້
+
 permissions-capabilities-listitem-off =
     .value = ປິດ
 permissions-capabilities-listitem-off-temporarily =
@@ -76,14 +92,10 @@ permissions-invalid-uri-label = ກະລຸນາປ້ອນຊື່ໂຮສ
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-desc = ທ່ານໄດ້ປິດການປົກປ້ອງຢູ່ໃນເວັບໄຊທ໌ເຫຼົ່ານີ້.
 permissions-exceptions-manage-etp-desc = ທ່ານສາມາດລະບຸວ່າເວັບໄຊທ໌ໃດທີ່ໄດ້ປິດການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງໃຫ້ດີຂຶ້ນ. ພິມທີ່ຢູ່ທີ່ແນ່ນອນຂອງເວັບໄຊທີ່ທ່ານຕ້ອງການທີ່ຈະຈັດການແລະຫຼັງຈາກນັ້ນໃຫ້ຄລິກໃສ່ເພີ່ມຂໍ້ຍົກເວັ້ນ.
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = ຂໍ້ຍົກເວັ້ນ - ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ - ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ
     .style = { permissions-window2.style }
@@ -91,9 +103,6 @@ permissions-exceptions-cookie-desc = ທ່ານສາມາດລະບຸເ�
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = ຂໍ້ຍົກເວັ້ນ - ໂໝດ HTTPS ເທົ່ານັ້ນ
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ - ໂໝດ HTTPS ເທົ່ານັ້ນ
     .style = { permissions-window2.style }
@@ -101,9 +110,6 @@ permissions-exceptions-https-only-desc = ທ່ານສາມາດປິດ HT
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = ເວັບໄຊທີ່ອະນຸຍາດ - ປ໋ອບອັບ
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = ເວັບໄຊທີ່ອະນຸຍາດ - ປ໋ອບອັບ
     .style = { permissions-window2.style }
@@ -111,9 +117,6 @@ permissions-exceptions-popup-desc = ທ່ານສາມາດກຳນົດ�
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = ຂໍ້ຍົກເວັ້ນ - ບັນທຶກການເຂົ້າສູ່ລະບົບ
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ - ບັນທຶກການເຂົ້າສູ່ລະບົບ
     .style = { permissions-window2.style }
@@ -121,9 +124,6 @@ permissions-exceptions-saved-logins-desc = ການເຂົ້າສູ່ລ�
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = ເວັບໄຊທີ່ອະນຸຍາດ - ການຕິດຕັ້ງສ່ວນເສີມ
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = ເວັບໄຊທີ່ອະນຸຍາດ - ການຕິດຕັ້ງສ່ວນເສີມ
     .style = { permissions-window2.style }
@@ -131,9 +131,6 @@ permissions-exceptions-addons-desc = ທ່ານສາມາດກຳນົດ�
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = ການຕັ້ງຄ່າ - ຫຼິ້ນອັດຕະໂນມັດ
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = ການຕັ້ງຄ່າ - ຫຼິ້ນອັດຕະໂນມັດ
     .style = { permissions-window2.style }
@@ -141,9 +138,6 @@ permissions-site-autoplay-desc = ທ່ານສາມາດຈັດການ�
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດການແຈ້ງເຕືອນ
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດການແຈ້ງເຕືອນ
     .style = { permissions-window2.style }
@@ -154,9 +148,6 @@ permissions-site-notification-disable-desc = ນີ້ຈະປ້ອງກັ�
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = ການຕັ້ງຄ່າ - ອະນຸຍາດສະຖານທີ່
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = ການຕັ້ງຄ່າ - ອະນຸຍາດສະຖານທີ່
     .style = { permissions-window2.style }
@@ -167,9 +158,6 @@ permissions-site-location-disable-desc = ນີ້ຈະປ່ອງກັນເ
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດ Virtual Reality
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດ Virtual Reality
     .style = { permissions-window2.style }
@@ -180,9 +168,6 @@ permissions-site-xr-disable-desc = ນີ້ຈະປ້ອງກັນບໍ່
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = ຕັ້ງຄ່າ - ການອະນຸຍາດກ້ອງ
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = ຕັ້ງຄ່າ - ການອະນຸຍາດກ້ອງ
     .style = { permissions-window2.style }
@@ -193,9 +178,6 @@ permissions-site-camera-disable-desc = ນີ້ຈະປ້ອງກັນເ�
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດໄມໂຄຣໂຟນ
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດໄມໂຄຣໂຟນ
     .style = { permissions-window2.style }
@@ -212,20 +194,26 @@ permissions-site-speaker-window =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດຂອງລໍາໂພງ
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = ເວັບໄຊທ໌ຕໍ່ໄປນີ້ໄດ້ຮ້ອງຂໍໃຫ້ເລືອກເອົາອຸປະກອນອອກສຽງ. ທ່ານສາມາດລະບຸວ່າເວັບໄຊທ໌ໃດໄດ້ຮັບອະນຸຍາດໃຫ້ເລືອກອຸປະກອນຜົນຜະລິດສຽງ.
+
 permissions-exceptions-doh-window =
     .title = ຂໍ້ຍົກເວັ້ນເວັບໄຊທ໌ສໍາລັບ DNS ຜ່ານ HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ຈະບໍ່ໃຊ້ DNS ທີ່ປອດໄພຢູ່ໃນເວັບໄຊເຫຼົ່ານີ້ ແລະໂດເມນຍ່ອຍຂອງເຂົາເຈົ້າ.
+
 permissions-doh-entry-field = ໃສ່ຊື່ໂດເມນເວັບໄຊທ໌
     .accesskey = d
+
 permissions-doh-add-exception =
     .label = ເພີ່ມ
     .accesskey = A
+
 permissions-doh-col =
     .label = ໂດເມນ
+
 permissions-doh-remove =
     .label = ລຶບ
     .accesskey = R
+
 permissions-doh-remove-all =
     .label = ລຶບທັງໝົດ
     .accesskey = e

@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = ທ່ານຕ້ອງເຂົ້າສູ�
 firefox-relay-get-unlimited-masks =
     .label = ຈັດການຕົວປິດບັງ
     .accesskey = M
-firefox-relay-opt-in-title = ປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານ
-firefox-relay-opt-in-subtitle = ເພີ່ມ { -relay-brand-name }
-firefox-relay-generate-mask-title = ປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານ
-firefox-relay-generate-mask-subtitle = ສ້າງໜ້າກາກ { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = ສືບຕໍ່
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = ປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານ:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

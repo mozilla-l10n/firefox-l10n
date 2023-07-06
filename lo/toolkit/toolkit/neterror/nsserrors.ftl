@@ -8,3 +8,4 @@
 # refactoring them in some way, the script will need updating.
 
 sec-error-libpkix-internal = Libpkix ຄວາມຜິດພາດພາຍໃນທີ່ເກີດຂື້ນໃນຊ່ວງການກວດສອບໃບຮັບຮອງ.
+

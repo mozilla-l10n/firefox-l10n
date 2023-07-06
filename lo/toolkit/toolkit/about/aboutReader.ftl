@@ -4,6 +4,7 @@
 
 about-reader-loading = ກຳລັງໂຫລດ…
 about-reader-load-error = ໂຫລດຫົວຂໍ້ຈາກຫນ້າເວັບນີ້ລົ້ມເຫລວ
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

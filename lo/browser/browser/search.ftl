@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = ມີຂໍ້ຜິດພາດໃນການຕິດຕັ້ງ
 opensearch-error-duplicate-desc = { -brand-short-name } ບໍ່ສາມາດຕິດຕັ້ງປັກອິນຈາກ “{ $location-url }” ໄດ້ເພາະວ່າມີເຄື່ອງມືການຄົ້ນຫາໃຊ້ຊື່ດຽວກັນນີ້ຢູ່ແລ້ວ.
+
 opensearch-error-format-title = ຮູບແບບບໍ່ຖືກຕ້ອງ
 opensearch-error-format-desc = { -brand-short-name } ບໍ່ສາມາດຕິດຕັ້ງເຄື່ອງມືການຄົ້ນຫາຈາກ: { $location-url }
+
 opensearch-error-download-title = ມີຂໍ້ຜິດພາດໃນການດາວໂຫລດ
 opensearch-error-download-desc = { -brand-short-name } ບໍ່ສາມາດດາວໂຫລດປັກອິນການຄົ້ນຫາໄດ້ຈາກ: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } ບໍ່ສາມາດ�
 
 searchbar-submit =
     .tooltiptext = ຊອກຫາ
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = ຊອກຫາ
+
 searchbar-icon =
     .tooltiptext = ຊອກຫາ
 

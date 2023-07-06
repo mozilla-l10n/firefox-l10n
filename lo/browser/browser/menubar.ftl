@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ອອກ { -brand-shorter-name }
+
 menu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -210,8 +212,6 @@ menu-history-undo-menu =
     .label = ແຖບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 menu-history-undo-window-menu =
     .label = ວິນໂດທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
-menu-history-reopen-all-tabs = ເປີດແຖບທັງໝົດຄືນໃໝ່
-menu-history-reopen-all-windows = ເປີດແຖບທັງໝົດຄືນໃໝ່
 
 ## Bookmarks Menu
 
@@ -220,10 +220,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = ຈັດການບຸກມາກ
-menu-bookmark-current-tab =
-    .label = ບຸກມາກແທັບປະຈຸບັນ
-menu-bookmark-edit =
-    .label = ແກ້ໄຂບຸກມາກນີ້
 menu-bookmark-tab =
     .label = ບຸກມາກແຖບປັດຈຸບັນ...
 menu-edit-bookmark =

@@ -11,3 +11,4 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = ຂ້າມໄປແຖວ…
     .accesskey = ຂ
+

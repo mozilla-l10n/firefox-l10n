@@ -10,5 +10,6 @@ text-recognition-modal-searching-title = ກຳລັງຊອກຫາຮູບ
 text-recognition-modal-results-title = ສຳເນົາຂໍ້ຄວາມຈາກຮູບ
 text-recognition-modal-no-results-title = ຂໍອະໄພ, ພວກເຮົາບໍ່ສາມາດແຍກຂໍ້ຄວາມໃດໆອອກໄດ້. ລອງຮູບອື່ນ. <a data-l10n-name="error-link">ສຶກສາເພີ່ມເຕີມ</a>.
 text-recognition-modal-close-button = ປິດ
+
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = ຜົນໄດ້ຮັບສໍາລັບການສະກັດຂໍ້ຄວາມ

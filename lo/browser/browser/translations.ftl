@@ -5,8 +5,10 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ແປຫນ້ານີ້
+
 translations-panel-settings-button =
     .aria-label = ຈັດການການຕັ້ງຄ່າການແປ
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -18,6 +20,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = ຈັດການພາສາ
 translations-panel-settings-about = ກ່ຽວກັບການແປໃນ { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -25,6 +28,7 @@ translations-panel-settings-always-translate-language =
     .label = ແປ { $language } ສະເໝີ
 translations-panel-settings-always-translate-unknown-language =
     .label = ແປພາສານີ້ສະເໝີ
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -32,6 +36,7 @@ translations-panel-settings-never-translate-language =
     .label = ບໍ່ຕ້ອງແປ { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = ບໍ່ຕ້ອງແປພາສານີ້
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = ບໍ່ຕ້ອງແປເວັບໄຊທ໌ນີ້
@@ -46,11 +51,13 @@ translations-panel-translate-button-loading =
     .label = ກະລູນາລໍຖ້າ…
 translations-panel-translate-cancel =
     .label = ຍົກເລີກ
+
 translations-panel-error-translating = ມີບັນຫາໃນການແປ. ກະລຸນາລອງອີກຄັ້ງ.
 translations-panel-error-load-languages = ບໍ່ສາມາດໂຫຼດພາສາໄດ້
 translations-panel-error-load-languages-hint = ກວດເບິ່ງການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານແລ້ວລອງໃໝ່ອີກຄັ້ງ.
 translations-panel-error-load-languages-hint-button =
     .label = ລອງໃຫມ່ອີກຄັ້ງ
+
 translations-panel-error-unsupported = ການແປບໍ່ສາມາດໃຊ້ໄດ້ກັບໜ້ານີ້
 translations-panel-error-dismiss-button =
     .label = ເຂົ້າໃຈແລ້ວ
@@ -108,6 +115,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = ມີບັນຫາໃນການດາວໂຫຼດໄຟລ໌ພາສາ. ກະລຸນາລອງອີກຄັ້ງ.
 translations-manage-error-delete = ມີຄວາມຜິດພາດໃນການລຶບໄຟລ໌ພາສາ. ກະລຸນາລອງອີກຄັ້ງ.
 translations-manage-error-list = ລົ້ມເຫລວໃນການຮັບເອົາລາຍຊື່ພາສາທີ່ມີຢູ່ສໍາລັບການແປ. ໂຫຼດໜ້ານີ້ຄືນໃໝ່ເພື່ອລອງອີກຄັ້ງ.
+
 translations-settings-close-key =
     .key = w
 translations-settings-languages-column =

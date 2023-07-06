@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] ບໍ່ອອກ
        *[other] ບໍ່ອອກ
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] 1 ການດາວໂຫລດຈະຖືກຍົກເລີກຖ້າຫາກວ່າທ່ານອັອບລາຍຕອນນີ້. ທ່ານຍັງຈະຕ້ອງການອັອບລາຍຫລືບໍ່?
        *[other] { $downloadsCount } ການດາວໂຫລດຈະຖືກຍົກເລີກຖ້າຫາກວ່າທ່ານອັອບລາຍຕອນນີ້. ທ່ານຍັງຈະຕ້ອງການອັອບລາຍຫລືບໍ່?
     }
 download-ui-dont-go-offline-button = ສືບຕໍ່ອອນລາຍ
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] 1 ການດາວໂຫລດຈະຖືກຍົກເລີກຖ້າຫາກວ່າທ່ານປິດທຸກຫນ້າວິນໂດຂອງການທ່ອງເວັບແບບສ່ວນຕົວຕອນນີ້. ທ່ານຍັງຈະຕ້ອງການປິດຫລືບໍ່?
        *[other] ຖ້າທ່ານປິດໂຫມດການທ່ອງເວັບແບບສ່ວນຕົວທັງຫມົດໃນຕອນນີ້, ການດາວໂຫລດ { $downloadsCount } ຈະຖືກຍົກເລີກ. ທ່ານຫມັ້ນໃຈແລ້ວບໍ່ວ່າຕ້ອງການຈະອອກຈາກໂຫມດການທ່ອງເວັບແບບສ່ວນຕົວ?
     }
 download-ui-dont-leave-private-browsing-button = ຢູ່ໃນໂຫມດການທ່ອງເວັບແບບສ່ວນຕົວຕໍ່ໄປ
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] ຍົກເລີກ 1 ການດາວໂຫລດ

@@ -14,6 +14,7 @@ xpinstall-prompt-message = ທ່ານກຳລັງພະຍາຍາມຕ�
 
 xpinstall-prompt-header-unknown = ອະນຸຍາດໃຫ້ເວັບໄຊທ໌ທີ່ບໍ່ຮູ້ຈັກຕິດຕັ້ງສ່ວນເສີມບໍ?
 xpinstall-prompt-message-unknown = ທ່ານກໍາລັງພະຍາຍາມຕິດຕັ້ງ add-on ຈາກເວັບໄຊທ໌ທີ່ບໍ່ຮູ້ຈັກ. ໃຫ້ແນ່ໃຈວ່າທ່ານໄວ້ວາງໃຈເວັບໄຊທ໌ນີ້ກ່ອນທີ່ຈະສືບຕໍ່.
+
 xpinstall-prompt-dont-allow =
     .label = ບໍ່ອະນຸຍາດ
     .accesskey = D
@@ -44,6 +45,7 @@ xpinstall-disabled = ການຕິດຕັ້ງຊອບແວໃນຂະ�
 xpinstall-disabled-button =
     .label = ເປີດໃຊ້ງານ
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ຖືກບລ�
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານໄດ້ປ້ອງກັນບໍ່ໃຫ້ເວັບໄຊທ໌ນີ້ຂໍໃຫ້ທ່ານຕິດຕັ້ງຊອບແວໃນຄອມພິວເຕີຂອງທ່ານ.
 addon-install-full-screen-blocked = ການຕິດຕັ້ງແອດອອນແມ່ນບໍ່ອະນຸຍາດໃຫ້ໃຊ້ໃນຂະນະທີ່ຢູ່ໃນ ຫຼືກ່ອນທີ່ຈະເຂົ້າສູ່ໂໝດເຕັມຈໍ.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = ເພີ່ມ { $addonName } ລົງໃນ { -brand-short-name } ແລ້ວ
@@ -69,10 +72,12 @@ addon-removal-title = ລຶບ { $name } ອອກບໍ?
 addon-removal-message = ລຶບ { $name } ອອກຈາກ { -brand-shorter-name } ບໍ?
 addon-removal-button = ເອົາອອກ
 addon-removal-abuse-report-checkbox = ລາຍງານສ່ວນຂະຫຍາຍນີ້ໃຫ້ { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = ກຳລັງດາວໂຫຼດ ແລະ ກວດສອບ { $addonCount } ສ່ວນເສີມ…
 addon-download-verifying = ກຳລັງກວດສອບ
+
 addon-install-cancel-button =
     .label = ຍົກເລີກ
     .accesskey = C

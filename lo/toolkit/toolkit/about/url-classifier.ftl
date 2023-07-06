@@ -21,5 +21,9 @@ url-classifier-disabled = ປິດໃຊ້ງານ
 url-classifier-updating = ກຳລັງອັບເດດ
 url-classifier-cannot-update = ບໍ່ສາມາດອັບເດດ
 url-classifier-success = ສຳເລັດ
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = ອັບເດດຜິດພາດ ({ $error })
 url-classifier-download-error = ດາວໂຫລດຜິດພາດ ({ $error })

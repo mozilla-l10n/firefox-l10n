@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ພາຍໃນ
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ບັນທຶກ about:webrtc ທີ່
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC Logging
 about-webrtc-aec-logging-off-state-label = ເລີ່ມການ log ສຳລັບ AEC
 about-webrtc-aec-logging-on-state-label = ຢຸດການ log ສຳລັບ AEC
 about-webrtc-aec-logging-on-state-msg = ເປີດນຳໃຊ້ການ log ສຳລັບ AEC (ສືສານກັບ caller ຈັກສອງສາມນາທີ ຫລັງຈາກນັ້ນໃຫ້ຢຸດການແຄັບເຈີ)
+
 about-webrtc-aec-logging-toggled-on-state-msg = ເປີດນຳໃຊ້ການ log ສຳລັບ AEC (ສືສານກັບ caller ຈັກສອງສາມນາທີ ຫລັງຈາກນັ້ນໃຫ້ຢຸດການແຄັບເຈີ)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = ແຄັບເຈີຂອງ log ໄຟລ໌ສາມາດພົບໄດ້ໃນ: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -70,10 +73,12 @@ about-webrtc-type-remote = ໄລຍະໄກ
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ສະເຫນີຊື່ແລ້ວ
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ເລືອກແລ້ວ
+
 about-webrtc-save-page-label = ບັນທຶກຫນ້ານີ້
 about-webrtc-debug-mode-msg-label = ໂຫມດດີບັກ
 about-webrtc-debug-mode-off-state-label = ເລີ່ມໂຫມດດີບັກ
@@ -86,6 +91,7 @@ about-webrtc-log-show-msg = ສະແດງ log
     .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
 about-webrtc-log-hide-msg = ເຊື່ອງ log
     .title = ຄລິກເພື່ອຢໍ້ພາກສ່ວນນີ້
+
 about-webrtc-log-section-show-msg = ສະແດງ log
     .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
 about-webrtc-log-section-hide-msg = ເຊື່ອງ log
@@ -141,6 +147,7 @@ about-webrtc-save-page-msg = ໄດ້ບັນທຶກຫນ້າໄປໄວ
 about-webrtc-debug-mode-off-state-msg = Log ຂອງການຕິດຕາມສາມາດພົບໄດ້ທີ່: { $path }
 about-webrtc-debug-mode-on-state-msg = ເປີດໃຊ້ງານໂຫມດດີບັກ, Log ຂອງການຕິດຕາມທີ່: { $path }
 about-webrtc-aec-logging-off-state-msg = ແຄັບເຈີຂອງ log ໄຟລ໌ສາມາດພົບໄດ້ໃນ: { $path }
+
 about-webrtc-save-page-complete-msg = ໄດ້ບັນທຶກຫນ້າໄປໄວ້ທີ່: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Log ຂອງການຕິດຕາມສາມາດພົບໄດ້ທີ່: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = ເປີດໃຊ້ງານໂຫມດດີບັກ, log ຂອງການຕິດຕາມທີ່: { $path }

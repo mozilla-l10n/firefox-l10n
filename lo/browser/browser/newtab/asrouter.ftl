@@ -12,19 +12,26 @@ cfr-doorhanger-feature-heading = ຄຸນສົມບັດທີ່ແນະ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ເປັນຫຍັງຂ້ອຍຕ້ອງເຫັນອັນນີ້
+
 cfr-doorhanger-extension-cancel-button = ຍັງເທື່ອ
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = ເພີ່ມຕອນນີ້
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = ຈັດການການຕັ້ງຄ່າຄໍາແນະນໍາ
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = ບໍ່ສະແດງໃຫ້ເຫັນຄໍາແນະນໍານີ້
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = ຮຽນຮູ້ເພີມຕື່ມ
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ໂດຍ { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ການແນະນຳ
@@ -67,9 +74,11 @@ cfr-protections-panel-link-text = ຮຽນຮູ້ເພີ່ມເຕີມ
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ຄຸນ​ນະ​ສົມ​ບັດ​ໃຫມ່​:
+
 cfr-whatsnew-button =
     .label = ມີ​ຫຍັງ​ໃຫມ່
     .tooltiptext = ມີ​ຫຍັງ​ໃຫມ່
+
 cfr-whatsnew-release-notes-link-text = ອ່ານບັນທຶກການປ່ອຍ
 
 ## Enhanced Tracking Protection Milestones
@@ -94,13 +103,6 @@ cfr-doorhanger-doh-secondary-button = ປິດໃຊ້ງານ
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າສຳຄັນ. ດຽວນີ້ { -brand-short-name } ໂດດດ່ຽວ, ຫຼື sandbox, ເວັບໄຊທ໌ຈາກກັນແລະກັນ, ເຊິ່ງເຮັດໃຫ້ມັນຍາກກວ່າສໍາລັບແຮກເກີທີ່ຈະລັກລະຫັດຜ່ານ, ເລກບັດເຄຣດິດ, ແລະຂໍ້ມູນລະອຽດອ່ອນອື່ນໆ.
-cfr-doorhanger-fission-header = ການແຍກໄຊ້
-cfr-doorhanger-fission-primary-button = ໂອເຄ, ເຂົ້າໃຈແລ້ວ!
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = ຮຽນຮູ້ເພີ່ມເຕີມ
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = ວິດີໂອຢູ່ໃນເວັບໄຊນີ້ອາດຈະຫຼິ້ນບໍ່ຖືກຕ້ອງໃນເວີຊັນຂອງ { -brand-short-name }. ສໍາລັບການສະຫນັບສະຫນູນວິດີໂອຢ່າງເຕັມທີ່, ອັບເດດ { -brand-short-name } ດຽວນີ້.
@@ -109,11 +111,6 @@ cfr-doorhanger-video-support-primary-button = ອັບເດດດຽວນີ�
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = ຮຽນຮູ້ເພີ່ມເຕີມ
-    .title = ຂະຫຍາຍເພື່ອຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບຄຸນລັກສະນະ
-spotlight-learn-more-expanded = ຮຽນຮູ້ເພີ່ມເຕີມ
-    .title = ປິດ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -130,18 +127,6 @@ spotlight-public-wifi-vpn-link = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    ທົດສອບການທົດລອງທີ່ມີປະສິດທິພາບທີ່ສຸດຂອງພວກເຮົາ
-    ປະສົບການຄວາມເປັນສ່ວນຕົວເຄີຍ
-spotlight-total-cookie-protection-body = Total Cookie Protection ຢຸດຜູ້ຕິດຕາມຈາກການໃຊ້ cookies ເພື່ອຕິດຕາມທ່ານໃນທົ່ວເວັບ.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } ສ້າງຮົ້ວອ້ອມຄຸກກີ້, ຈຳກັດພວກມັນຢູ່ໃນເວັບໄຊທີ່ເຈົ້າຢູ່ ດັ່ງນັ້ນຜູ້ຕິດຕາມບໍ່ສາມາດໃຊ້ພວກມັນເພື່ອຕິດຕາມເຈົ້າໄດ້. ດ້ວຍການເຂົ້າເຖິງກ່ອນໄວ, ທ່ານຈະຊ່ວຍປັບປຸງຄຸນສົມບັດນີ້ເພື່ອໃຫ້ພວກເຮົາສາມາດສືບຕໍ່ສ້າງເວັບທີ່ດີກວ່າສໍາລັບທຸກຄົນ.
-spotlight-total-cookie-protection-primary-button = ເປີດການປົກປ້ອງຄຸກກີທັງໝົດ
-spotlight-total-cookie-protection-secondary-button = ຍັງເທື່ອ
 
 ## Emotive Continuous Onboarding
 
@@ -171,11 +156,13 @@ spotlight-pin-secondary-button = ບໍ່ແມ່ນຕອນນີ້
 
 mr2022-background-update-toast-title = ໃໝ່ { -brand-short-name }. ສ່ວນຕົວຫຼາຍຂຶ້ນ. ຕິດຕາມໜ້ອຍລົງ. ບໍ່ມີການປະນີປະນອມ.
 mr2022-background-update-toast-text = ລອງໃຊ້ { -brand-short-name } ໃໝ່ຫຼ້າສຸດດຽວນີ້, ອັບເກຣດດ້ວຍການປ້ອງກັນການຕິດຕາມທີ່ແຂງແຮງທີ່ສຸດຂອງພວກເຮົາ.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = ເປີດ { -brand-shorter-name } ດຽວນີ້
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -194,6 +181,7 @@ firefoxview-cfr-body-v2 = ເອົາແຖບທີ່ປິດລົງເມ
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = ເວົ້າສະບາຍດີກັບ { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ຕ້ອງການແຖບເປີດນັ້ນຢູ່ໃນໂທລະສັບຂອງທ່ານບໍ? ຄວ້າມັນ. ຕ້ອງການເວັບໄຊທີ່ເຈົ້າຫາກໍ່ເຂົ້າເບິ່ງບໍ? Poof, ມັນກັບມາກັບ { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = ເບິງວິທີການເຮັດວຽກຂອງມັນ
@@ -203,6 +191,7 @@ firefoxview-spotlight-promo-secondarybutton = ຂ້າມ
 
 colorways-cfr-primarybutton = ເລືອກສີ
     .accesskey = C
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = ທາສີບຼາວເຊີຂອງທ່ານດ້ວຍ { -brand-short-name } ຮົ່ມສະເພາະທີ່ໄດ້ຮັບແຮງບັນດານໃຈຈາກສຽງທີ່ປ່ຽນວັດທະນະທໍາ.
 colorways-cfr-header-28days = Independent Voices colorways ຈະໝົດອາຍຸໃນວັນທີ 16 ມັງກອນນີ້
@@ -225,6 +214,7 @@ july-jam-headline = ພວກ​ເຮົາ​ໄດ້​ຮັບ​ການ
 july-jam-body = ທຸກໆເດືອນ, { -brand-short-name } ບລັອກຕົວຕິດຕາມໂດຍສະເລ່ຍ 3,000+ ຄົນຕໍ່ຜູ້ໃຊ້, ໃຫ້ທ່ານເຂົ້າເຖິງອິນເຕີເນັດທີ່ດີໄດ້ໄວ, ປອດໄພ.
 july-jam-set-default-primary = ເປີດລິ້ງຂອງຂ້ອຍດ້ວຍ { -brand-short-name }
 fox-doodle-pin-headline = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = ນີ້ແມ່ນການເຕືອນດ່ວນທີ່ທ່ານສາມາດຮັກສາຕົວທ່ອງເວັບອິນດີ້ທີ່ທ່ານມັກໄດ້ພຽງແຕ່ຄລິກດຽວ.

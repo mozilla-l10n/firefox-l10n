@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = ຕົວຊ່ວຍນຳເຂົ້າ
+
 import-from =
     { PLATFORM() ->
         [windows] ນຳເຂົ້າຕົວເລືອກ, ບຸກມາກ, ປະຫວັດການໃຊ້ງານ, ລະຫັດຜ່ານ ແລະຂໍ້ມູນອື່ນໆຈາກ:
        *[other] ນຳເຂົ້າການຕັ້ງຄ່າ, ບຸກມາກ, ປະຫວັດການໃຊ້ງານ, ລະຫັດຜ່ານ ແລະຂໍ້ມູນອື່ນໆຈາກ:
     }
+
 import-from-bookmarks = ນຳເຂົ້າບຸກມາກຈາກ:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = ບໍ່ພົບໂປຣແກຣມທີ່ມີບຸກມາກ, ປະຫວັດການໃຊ້ງານ ຫລືຂໍ້ມູນລະຫັດຜ່ານ.
+
 import-source-page-title = ນຳເຂົ້າການຕັ້ງຄ່າແລະຂໍ້ມູນ
 import-items-page-title = ລາຍການທີ່ຈະນຳເຂົ້າ
+
 import-items-description = ເລືອກລາຍການທີ່ຈະນຳເຂົ້າ:
+
 import-permissions-page-title = ກະລຸນາໃຫ້ສິດ { -brand-short-name }
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS ຕ້ອງການໃຫ້ທ່ານອະນຸຍາດໃຫ້ { -brand-short-name } ເຂົ້າເຖິງບຸກມາກຂອງ Safari ຢ່າງຈະແຈ້ງ. ຄລິກ “ສືບຕໍ່” ແລະເລືອກໄຟລ໌ “Bookmarks.plist” ໃນແຖບ File Open ທີ່ປາກົດຂຶ້ນ.
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS ຕ້ອງການໃຫ້ທ່ານອະນຸຍາດໃຫ້ { -brand-short-name } ເຂົ້າເຖິງຂໍ້ມູນຂອງ Safari ຢ່າງຈະແຈ້ງ. ໃຫ້ຄລິກໃສ່ "ສືບຕໍ່", ເລືອກໂຟນເດີ "Safari" ໃນກ່ອງໂຕ້ຕອບ Finder ທີ່ປາກົດຂຶ້ນ ແລະ ຫຼັງຈາກນັ້ນໃຫ້ຄລິກໃສ່ "ເປີດ".
+
 import-migrating-page-title = ກຳລັງນຳເຂົ້າ…
+
 import-migrating-description = ກຳລັງນຳເຂົ້າລາຍການດັ່ງຕໍ່ໄປນີ້ໃນຂະນະນີ້…
+
 import-select-profile-page-title = ເລືອກໂປຣໄຟລ໌
+
 import-select-profile-description = ໂປຣໄຟລ໌ດັ່ງຕໍ່ໄປນີ້ພ້ອມທີ່ຈະນຳເຂົ້າ:
+
 import-done-page-title = ການນຳເຂົ້າສຳເລັດສົມບູນ
+
 import-done-description = ນຳເຂົ້າລາຍການດັ່ງຕໍ່ໄປນີ້ສຳເລັດແລ້ວ:
+
 import-close-source-browser = ກະລຸນາກວດໃຫ້ແນ່ໃຈວ່າບຣາວເຊີທີ່ເລືອກປິດຢູ່ກ່ອນທີ່ຈະສືບຕໍ່.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = ລາຍການອ່ານ (ຈາກ Safari)
 imported-edge-reading-list = ລາຍການອ່ານ (ຈາກ Edge)
 
@@ -101,10 +115,12 @@ browser-data-cookies-checkbox =
     .label = ຄຸກກີ້
 browser-data-cookies-label =
     .value = ຄຸກກີ້
+
 browser-data-formdata-checkbox =
     .label = ບັນທຶກປະຫວັດແບບຟອມ
 browser-data-formdata-label =
     .value = ບັນທຶກປະຫວັດແບບຟອມ
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -113,6 +129,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -120,14 +137,17 @@ browser-data-bookmarks-checkbox =
             [edge] ມັກ
            *[other] ບຸກມາກ
         }
+
 browser-data-otherdata-checkbox =
     .label = ຂໍ້ມູນອື່ນໆ
 browser-data-otherdata-label =
     .label = ຂໍ້ມູນອື່ນໆ
+
 browser-data-session-checkbox =
     .label = ວີນໂດ ແລະ ແທັບ
 browser-data-session-label =
     .value = ວີນໂດ ແລະ ແທັບ
+
 browser-data-payment-methods-checkbox =
     .label = ວິທີການຈ່າຍເງິນ
 browser-data-payment-methods-label =

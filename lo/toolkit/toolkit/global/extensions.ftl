@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = ຍົກເລີກ
     .accesskey = C
+
 webext-perms-sideload-text = ໂຄງການອື່ນໃນຄອມພິວເຕີຂອງທ່ານໄດ້ຕິດຕັ້ງ add-on ທີ່ອາດຈະສົ່ງຜົນກະທົບຕໍ່ຕົວທ່ອງເວັບຂອງທ່ານ. ກະ​ລຸ​ນາ​ກວດ​ສອບ​ການ​ຮ້ອງ​ຂໍ​ການ​ອະ​ນຸ​ຍາດ​ຂອງ add-on ນີ້​ແລະ​ເລືອກ​ທີ່​ຈະ​ເປີດ​ຫຼື​ຍົກ​ເລີກ (ເພື່ອ​ປະ​ໃຫ້​ມັນ​ປິດ​ການ​ໃຊ້​ງານ​)​.
 webext-perms-sideload-text-no-perms = ໂຄງການອື່ນໃນຄອມພິວເຕີຂອງທ່ານໄດ້ຕິດຕັ້ງ add-on ທີ່ອາດຈະສົ່ງຜົນກະທົບຕໍ່ຕົວທ່ອງເວັບຂອງທ່ານ. ກະ​ລຸ​ນາ​ເລືອກ​ທີ່​ຈະ​ເປີດ​ຫຼື​ຍົກ​ເລີກ (ເພື່ອ​ປະ​ໃຫ້​ມັນ​ປິດ​ການ​ໃຊ້​ງານ​)​.
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ຍົກເລີກ
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ໄດ້ຖືກອັບເດດແລ້ວ. ທ່ານຕ້ອງອະນຸມັດການອະນຸຍາດໃຫມ່ກ່ອນທີ່ສະບັບປັບປຸງຈະຕິດຕັ້ງ. ການເລືອກ "ຍົກເລີກ" ຈະຮັກສາສະບັບຂະຫຍາຍປະຈຸບັນຂອງທ່ານ. ສ່ວນຂະຫຍາຍນີ້ຈະມີການອະນຸຍາດໃຫ້:
 webext-perms-update-accept =
     .label = ອັບເດດ
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = ສ່ວນຂະຫຍາຍຕ້ອງການ:
 webext-perms-optional-perms-allow =
     .label = ອະນຸຍາດ
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = ປະຕິເສດ
     .accesskey = D
+
 webext-perms-host-description-all-urls = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານສຳລັບທຸກເວັບໄຊທ໌
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານສຳລັບໄຊທ໌ໃນໂດເມນ { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -57,6 +63,7 @@ webext-perms-host-description-too-many-wildcards = ເຂົ້າເຖິງ�
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານສຳລັບ { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

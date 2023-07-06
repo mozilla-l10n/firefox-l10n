@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = ກຳລັງດາວໂຫຼດການອັບເດດ { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = ມີການອັບເດດ — ດາວໂຫຼດດຽວນີ້
+
 appmenuitem-banner-update-manual =
     .label = ມີການອັບເດດ — ດາວໂຫຼດດຽວນີ້
+
 appmenuitem-banner-update-unsupported =
     .label = ບໍ່ສາມາດອັບເດດໄດ້ — ລະບົບບໍ່ເຂົ້າກັນ
+
 appmenuitem-banner-update-restart =
     .label = ມີການອັບເດດ — ຣີສະຕາດດຽວນີ້
+
 appmenuitem-new-tab =
     .label = ແທັບໃຫມ່
 appmenuitem-new-window =
@@ -53,6 +58,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = ປິດເມນູແອັບພລິເຄຊັນ
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,19 +79,25 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ເຂົ້າສູ່ລະບົບເພື່ອຊິງຄ໌...
 appmenu-remote-tabs-turn-on-sync =
     .label = ເປີດ Sync…
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ບໍ່ມີແທັບທີ່ເປີດຢູ່
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ເປີດການຊິງຄ໌ແທັບເພື່ອເບິ່ງລາຍການແທັບທີ່ເປີດຢູ່ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.
+
 appmenu-remote-tabs-opensettings =
     .label = ການຕັ້ງຄ່າ
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ຕ້ອງການໃຫ້ເຫັນແທັບທີ່ນີ້ຂອງທ່ານໄດ້ຈາກອຸປະກອນອື່ນໆບໍ່?
+
 appmenu-remote-tabs-connectdevice =
     .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 appmenu-remote-tabs-welcome = ເບິງລາຍຊື່ແທັບຈາກອຸປະກອນອື່ນໆຂອງທ່ານ
 appmenu-remote-tabs-unverified = ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sync ຕອນນີ້
 appmenuitem-fxa-sign-in = ເຂົ້າສູ່ລະບົບ { -brand-product-name }
 appmenuitem-fxa-manage-account = ຈັດການບັນຊີ
@@ -99,12 +111,14 @@ appmenu-fxa-sync-and-save-data2 = ຊິງຄ໌ແລະບັນທຶກຂ�
 appmenu-fxa-signed-in-label = ເຂົ້າ​ສູ່​ລະ​ບົບ
 appmenu-fxa-setup-sync =
     .label = ເປີດການຊິງຄ໌...
+
 appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ມີ​ຫຍັງ​ໃຫມ່
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -115,33 +129,43 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
-profiler-popup-title =
-    .value = { -profiler-brand-name }
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = ເປີດເຜີຍຂໍ້ມູນເພີ່ມເຕີມ
+
 profiler-popup-description-title =
     .value = ບັນທຶກ, ວິເຄາະ, ແບ່ງປັນ
+
 profiler-popup-description = ຮ່ວມມືໃນບັນຫາປະສິດທິພາບໂດຍການເຜີຍແຜ່ໂປຣໄຟລ໌ເພື່ອແບ່ງປັນກັບທີມງານຂອງທ່ານ.
+
 profiler-popup-learn-more-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມ
+
 profiler-popup-settings =
     .value = ການຕັ້ງຄ່າ
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = ແກ້ໄຂການຕັ້ງຄ່າ...
+
 profiler-popup-recording-screen = ກຳລັງບັນທຶກ...
+
 profiler-popup-start-recording-button =
     .label = ເລີ່ມການບັນທຶກ
+
 profiler-popup-discard-button =
     .label = ຖິ້ມ
+
 profiler-popup-capture-button =
     .label = ບັນທຶກຮູບ
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -164,22 +188,28 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = ແນະນຳໃຫ້ຕັ້ງໄວ້ລ່ວງໜ້າສຳລັບການດີບັກແອັບເວັບສ່ວນໃຫຍ່, ໂດຍມີສ່ວນເກີນຕ່ຳ.
 profiler-popup-presets-web-developer-label =
     .label = ນັກພັດທະນາເວັບ
+
 profiler-popup-presets-firefox-description = ແນະນຳລ່ວງໜ້າສຳລັບການສ້າງໂປຣໄຟລ໌ { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການກວດສອບຂໍ້ຜິດພາດຂອງກຣາບຟິກໃນ { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = ກຣາບຟິກ
+
 profiler-popup-presets-media-description2 = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການກວດສອບຂໍ້ບົກຜ່ອງທາງສຽງ ແລະວິດີໂອໃນ { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = ສື່
+
 profiler-popup-presets-networking-description = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການສືບສວນຂໍ້ບົກພ່ອງເຄືອຂ່າຍໃນ { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = ເຄືອຂ່າຍ
+
 profiler-popup-presets-power-description = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການສືບສວນຂໍ້ບົກພ່ອງການໃຊ້ພະລັງງານໃນ { -brand-shorter-name }, ໂດຍມີສ່ວນເກີນຕ່ຳ.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ພະລັງງານ
+
 profiler-popup-presets-custom-label =
     .label = ປັບແຕ່ງ
 
@@ -187,8 +217,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = ຈັດການປະຫວັດ
-appmenu-reopen-all-tabs = ເປີດແຖບທັງໝົດຄືນໃໝ່
-appmenu-reopen-all-windows = ເປີດແຖບທັງໝົດຄືນໃໝ່
 appmenu-restore-session =
     .label = ເອີ້ນຄືນເຊສຊັນກ່ອນຫນ້າ
 appmenu-clear-history =
@@ -242,6 +270,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ປັບແຕ່ງແຖບເຄື່ອງມື…
+
 appmenu-developer-tools-subheader = ເຄື່ອງມືຂອງຕົວທ່ອງເວັບ
 appmenu-developer-tools-extensions =
     .label = ສ່ວນຂະຫຍາຍສໍາລັບນັກພັດທະນາ

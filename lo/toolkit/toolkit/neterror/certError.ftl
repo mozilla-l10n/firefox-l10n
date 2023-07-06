@@ -74,6 +74,7 @@ deniedPortAccess-title = ທີ່ຢູ່ນີ້ໄດ້ຖືກຈໍາ�
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ອືມ. ພວກເຮົາມີບັນຫາໃນການຄົ້ນຫາເວັບໄຊທ໌ນັ້ນ.
+
 fileNotFound-title = ບໍ່ພົບໄຟລ໌
 fileAccessDenied-title = ການເຂົ້າເຖິງໄຟລ໌ໄດ້ຖືກປະຕິເສດ
 generic-title = ອຸ່ຍ.

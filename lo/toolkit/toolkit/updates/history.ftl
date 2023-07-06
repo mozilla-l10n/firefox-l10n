@@ -23,5 +23,7 @@ state-header = ສະຖານະ
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = ລາຍລະອຽດ
+
 update-installed-on = ໄດ້ຕິດຕັ້ງຢູ່ໃນ: { $date }
+
 update-status = ສະຖານະ: { $status }

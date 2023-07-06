@@ -35,9 +35,11 @@ compatibility-target-browsers-header = ຕົວທ່ອງເວັບເປ�
 # Variables:
 #   $number (Number) - The number of nodes where the issue occurred
 compatibility-issue-occurrences = { $number } ເກີດຂຶ້ນ
+
 compatibility-no-issues-found = ບໍ່ພົບບັນຫາຄວາມເຂົ້າກັນໄດ້.
 compatibility-close-settings-button =
     .title = ປິດການຕັ້ງຄ່າ
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

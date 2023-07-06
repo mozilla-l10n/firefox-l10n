@@ -30,6 +30,7 @@ webrtc-item-browser = ແທັບ
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = ບໍ່ຮູ້ຈັກແຫລ່ງທີ່ມາ
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = ອຸປະກອນແບ່ງປັນແທັບ
     .accesskey = d
+
 webrtc-sharing-window = ທ່ານກຳລັງແບ່ງປັນໜ້າຈໍແອັບພລິເຄຊັນອື່ນ.
 webrtc-sharing-browser-window = ທ່ານກຳລັງແບ່ງປັນ { -brand-short-name }.
 webrtc-sharing-screen = ທ່ານກໍາລັງແບ່ງປັນຫນ້າຈໍທັງຫມົດຂອງທ່ານ.
@@ -91,26 +93,32 @@ webrtc-indicator-menuitem-control-sharing =
     .label = ຄວບຄຸມການແບ່ງປັນ
 webrtc-indicator-menuitem-control-sharing-on =
     .label = ຄວບຄຸມການແບ່ງປັນຢູ່ “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = ກຳລັງແບ່ງປັນກ້ອງຖ່າຍຮູບກັບ “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label = ກຳລັງແບ່ງປັນກ້ອງຖ່າຍຮູບກັບແຖບ { $tabCount }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = ກຳລັງແບ່ງປັນໄມໂຄຣໂຟນກັບ “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label = ກຳລັງແບ່ງປັນໄມໂຄຣໂຟນກັບແຖບ { $tabCount }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = ແບ່ງປັນແອັບພລິເຄຊັນກັບ “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label = ການແບ່ງປັນແອັບພລິເຄຊັນກັບແຖບ { $tabCount }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = ກຳລັງແບ່ງປັນໜ້າຈໍກັບ “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label = ການແບ່ງປັນໜ້າຈໍກັບແຖບ { $tabCount }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = ການແບ່ງປັນໜ້າຈໍກັບ “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label = ກຳລັງແບ່ງປັນ Windows ກັບແຖບ { $tabCount }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = ແບ່ງປັນແຖບກັບ “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -153,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ອະນຸຍ�
 
 webrtc-share-screen-warning = ແບ່ງປັນໜ້າຈໍກັບເວັບໄຊທີ່ທ່ານເຊື່ອຖືເທົ່ານັ້ນ. ການ​ແບ່ງ​ປັນ​ສາ​ມາດ​ອະ​ນຸ​ຍາດ​ໃຫ້​ເວັບ​ໄຊ​ທີ່​ຫຼອກ​ລວງ​ທ່ອງ​ເວັບ​ຕາມ​ທີ່​ທ່ານ​ແລະ​ລັກ​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​.
 webrtc-share-browser-warning = ພຽງແຕ່ແບ່ງປັນ { -brand-short-name } ກັບເວັບໄຊທີ່ທ່ານເຊື່ອຖື. ການ​ແບ່ງ​ປັນ​ສາ​ມາດ​ອະ​ນຸ​ຍາດ​ໃຫ້​ເວັບ​ໄຊ​ທີ່​ຫຼອກ​ລວງ​ທ່ອງ​ເວັບ​ຕາມ​ທີ່​ທ່ານ​ແລະ​ລັກ​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​.
+
 webrtc-share-screen-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 webrtc-pick-window-or-screen = ເລືອກປ່ອງຢ້ຽມຫຼືຫນ້າຈໍ
 webrtc-share-entire-screen = ທັງຫນ້າຈໍ
@@ -184,6 +193,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = ຈົດຈຳການຕັດສິນໃຈນີ້
 webrtc-mute-notifications-checkbox = ປິດການແຈ້ງເຕືອນເວັບໄຊທ໌ໃນຂະນະທີ່ແບ່ງປັນ
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ບໍ່ສາມາດອະນຸຍາດການເຂົ້າເຖິງຫນ້າຈໍຂອງທ່ານແບບຖາວອນໄດ້.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ບໍ່ສາມາດອະນຍຸາດການເຂົ້າເຖິງສຽງຂອງແທັບຂອງທ່ານແບບຖາວອນໄດ້ໂດຍບໍ່ຖາມແທັບທີ່ຕ້ອງການແບ່ງປັນ.
 webrtc-reason-for-no-permanent-allow-insecure = ການເຊື່ອມຕໍ່ໄປທີ່ເວັບໄຊທ໌ນີ້ຂອງທ່ານແມ່ນບໍ່ປອດໄພ. ເພື່ອປົກປ້ອງທ່ານ, { -brand-short-name } ຈະອະນຸຍາດການເຂົ້າເຖິງສະເພາະສຳລັບເຊສຊັນນີ້ເທົ່ານັ້ນ.

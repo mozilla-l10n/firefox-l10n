@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = ຕົວຊ່ວຍສ້າງໂປຣໄຟລ໌
-    .style = width: 45em; height: 32em;
-
 create-profile-window2 =
     .title = ຕົວຊ່ວຍສ້າງໂປຣໄຟລ໌
     .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] ແນະນຳ
-       *[other] ຍິນດີຕ້ອນຮັບສູ່ { create-profile-window.title }
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -27,12 +17,6 @@ create-profile-first-page-header2 =
 profile-creation-explanation-1 = { -brand-short-name } ຈັດເກັບຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າ ແລະ ການປັບແຕ່ງຂອງທ່ານໄວ້ໃນໂປຣໄຟລ໌ຂອງທ່ານ.
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] ສະຫລຸບ
-       *[other] ສີ້ນສຸດການ { create-profile-window.title }
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

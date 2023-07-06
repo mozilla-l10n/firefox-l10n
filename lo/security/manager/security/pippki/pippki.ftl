@@ -29,3 +29,5 @@ download-cert-trust-ssl =
 
 ## Protected Auth dialog
 
+## Protected authentication alert
+

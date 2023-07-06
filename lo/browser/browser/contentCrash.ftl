@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>ບາງສ່ວນຂອງໜ້ານີ້ຂັດຂ້ອງ.</strong> ເພື່ອໃຫ້ { -brand-product-name } ຮູ້ກ່ຽວກັບບັນຫານີ້ ແລະແກ້ໄຂໄດ້ໄວຂຶ້ນ, ກະລຸນາສົ່ງລາຍງານ.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

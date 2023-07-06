@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = ບຸກມາກແທັບ...
     .accesskey = k
-bookmark-tab =
-    .label = ແຖບບຸກມາກ...
-    .accesskey = B
 tab-context-bookmark-tab =
     .label = ແຖບບຸກມາກ...
     .accesskey = B
@@ -89,3 +86,4 @@ tab-context-move-tabs =
            *[other] ຍ້າຍແຖບ
         }
     .accesskey = v
+

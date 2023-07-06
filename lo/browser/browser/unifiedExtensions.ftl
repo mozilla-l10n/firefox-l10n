@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = ເປີດເມນູສຳລັບ { $extensionName }
+
 unified-extensions-item-message-manage = ຈັດການການຂະຫຍາຍ
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = ປັກໝຸດໃສ່ແຖບເຄື່ອງມື
+
 unified-extensions-context-menu-manage-extension =
     .label = ຈັດການສ່ວນເສີມ
+
 unified-extensions-context-menu-remove-extension =
     .label = ລຶບສ່ວນຂະຫຍາຍ
+
 unified-extensions-context-menu-report-extension =
     .label = ລາຍງານສ່ວນຂະຫຍາຍ
+
 unified-extensions-context-menu-move-widget-up =
     .label = ຍ້າຍຂື້ນ
+
 unified-extensions-context-menu-move-widget-down =
     .label = ຍ້າຍລົງ
 

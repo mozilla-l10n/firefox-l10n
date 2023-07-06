@@ -102,6 +102,8 @@ media-device-channels = ຊ່ອງ
 media-device-rate = ອັດຕາ
 media-device-latency = ການຍືດເວລາ
 
+## Codec support table
+
 ##
 
 intl-app-title = ການຕັ້ງຄ່າແອັບພິເຄຊັ່ນ

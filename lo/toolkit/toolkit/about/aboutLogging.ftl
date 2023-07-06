@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = ລັອກໄຟລ໌ຕອນນີ້:
-about-logging-current-log-modules = ໂມດູລລັອກຕອນນີ້:
 about-logging-log-tutorial = ເບິງ <a data-l10n-name="logging">ການລັອກ HTTP</a> ສຳລັບວິທີການນຳໃຊ້ເຄື່ອງມືນີ້.
 about-logging-set-log-file = ຕັ້ງລັອກໄຟລ໌
 about-logging-set-log-modules = ຕັ້ງໂມດູລລັອກ
 about-logging-start-logging = ເລີ່ມການບັນທຶກລັອກ
 about-logging-stop-logging = ຢຸດການບັນທຶກລັອກ
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

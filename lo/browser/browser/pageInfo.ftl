@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = ສຳເນົາ
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = ເລືອກທັ້ງຫມົດ
     .accesskey = A
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = ທົ່ວໄປ
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = ຊື່
 general-meta-content =
     .label = ເນື້ອຫາ
+
 media-tab =
     .label = ມີເດຍ
     .accesskey = M
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = ບັນທຶກເປັນ…
     .accesskey = e
+
 perm-tab =
     .label = ການອະນຸຍາດ
     .accesskey = P
 permissions-for =
     .value = ການອະນຸຍາດສຳລັບ:
+
 security-tab =
     .label = ຄວາມປອດໄພ
     .accesskey = S
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = ຫມົດອາຍຸ:
 security-view-privacy =
     .value = ຄວາມເປັນສ່ວນຕົວ & ປະຫວັດການໃຊ້ງານ
+
 security-view-privacy-history-value = ຂ້ອຍເຄີຍເຂົ້າເບິ່ງເວັບໄຊທ໌ນີ້ກ່ອນຫນ້າມື້ນີ້ບໍ່?
 security-view-privacy-sitedata-value = ເວັບໄຊທ໌ນີ້ຈັດເກັບຂໍ້ມູນລົງໃນຄອມພິວເຕີຂອງຂ້ອຍບໍ່?
+
 security-view-privacy-clearsitedata =
     .label = ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊທ໌
     .accesskey = C
+
 security-view-privacy-passwords-value = ຂ້ອຍເຄີຍບັນທຶກລະຫັດຜ່ານໃດໆສຳລັບເວັບໄຊທ໌ນີ້ບໍ່?
+
 security-view-privacy-viewpasswords =
     .label = ເບິ່ງລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
     .accesskey = w
 security-view-technical =
     .value = ລາຍລະອຽດທາງດ້ານເຕັກນິກ
+
 help-button =
     .label = ວິທີໃຊ້
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = ແມ່ນແລ້ວ, ຄຸກກີ້ ແລະ { $value } { $unit } ຂອງຂໍ້ມູນເວັບໄຊ
 security-site-data-only = ແມ່ນແລ້ວ, { $value } { $unit } ຂອງຂໍ້ມູນເວັບໄຊ
+
 security-site-data-cookies-only = ແມ່ນແລ້ວ, cookies
 security-site-data-no = ບໍ່
 
@@ -139,6 +152,7 @@ media-video = ວີດີໂອ
 media-audio = ສຽງ
 saved-passwords-yes = ຕົກລົງ
 saved-passwords-no = ບໍ່
+
 no-page-title =
     .value = ໜ້າບໍ່ມີຊື່:
 general-quirks-mode =
@@ -153,18 +167,21 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ໃຊ້ຄ່າເລີ່ມຕົ້ນ
 security-no-visits = ບໍ່
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
 #   $tags (number) - The number of meta tags
 general-meta-tags =
     .value = ເມຕາ ({ $tags } tags)
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
 #   $bytes (number) - The size of an image in Bytes
 properties-general-size =
     .value = { $kb } KB ({ $bytes } bytes)
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -172,12 +189,14 @@ properties-general-size =
 #   $frames (number) - The number of frames in an animated image
 media-animated-image-type =
     .value = { $type } ຮູບພາບ (ເຄື່ອນໄຫວ, { $frames } ເຟຣມ)
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ຮູບພາບ
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -187,12 +206,14 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (ປັບຂະໜາດເປັນ { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:

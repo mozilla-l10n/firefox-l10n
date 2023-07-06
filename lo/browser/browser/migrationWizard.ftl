@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = ນໍາເຂົ້າຂໍ້ມູນຕົວທ່ອງເວັບ
 migration-wizard-selection-list = ເລືອກ​ຂໍ້​ມູນ​ທີ່​ທ່ານ​ຕ້ອງ​ການ​ນໍາ​ເຂົ້າ​.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = ເລືອກ​ຂໍ້​ມູນ​ທ�
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,21 +55,26 @@ migration-selected-data-label = ນໍາເຂົ້າຂໍ້ມູນທີ
 
 migration-select-all-option-label = ເລືອກ​ທັງ​ຫມົດ
 migration-bookmarks-option-label = ບຸກມາກ
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = ລາຍການທີ່ມັກ
+
 migration-logins-and-passwords-option-label = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 migration-history-option-label = ປະຫວັດການທ່ອງເວັບ
 migration-form-autofill-option-label = ຕື່ມຂໍ້ມູນໃສ່ແບບຟອມອັດຕະໂນມັດ
 migration-payment-methods-option-label = ວິທີການຈ່າຍເງິນ
+
 migration-cookies-option-label = ຄຸກກີ້
 migration-session-option-label = ໜ້າຕ່າງ ແລະ ແທັບ
 migration-otherdata-option-label = ຂໍ້ມູນອື່ນໆ
+
 migration-passwords-from-file-progress-header = ນໍາເຂົ້າໄຟລ໌ລະຫັດຜ່ານ
 migration-passwords-from-file-success-header = ນຳເຂົ້າລະຫັດຜ່ານສຳເລັດແລ້ວ
 migration-passwords-from-file = ກຳລັງກວດສອບໄຟລ໌ລະຫັດຜ່ານ
 migration-passwords-new = ລະຫັດຜ່ານໃໝ່
 migration-passwords-updated = ລະຫັດຜ່ານທີ່ມີຢູ່
+
 migration-passwords-from-file-picker-title = ນໍາເຂົ້າໄຟລ໌ລະຫັດຜ່ານ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -83,35 +90,42 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] ໄຟລ໌ CSV
        *[other] ໄຟລ໌ CSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
 # Variables:
 #  $newEntries (Number): the number of new successfully imported passwords
 migration-wizard-progress-success-new-passwords = ເພີ່ມ { $newEntries } ແລ້ວ
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = ອັບເດດ { $updatedEntries } ແລ້ວ
+
 migration-bookmarks-from-file = ບຸກມາກ
 migration-bookmarks-from-file-success-header = ນຳເຂົ້າບຸກມາກສຳເລັດແລ້ວ
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = ໄຟລ໌ JSON
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
 # Variables:
 #  $newEntries (Number): the number of imported bookmarks.
 migration-wizard-progress-success-new-bookmarks = { $newEntries } ບຸກມາກ
+
 migration-import-button-label = ນຳເຂົ້າ
 migration-choose-to-import-from-file-button-label = ນໍາເຂົ້າຈາກໄຟລ໌
 migration-import-from-file-button-label = ເລືອກ File
 migration-cancel-button-label = ຍົກເລີກ
 migration-done-button-label = ສຳເລັດ
 migration-continue-button-label = ສືບຕໍ່
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ບໍ່ສາມາດຊອກຫາໂປຣແກຣມໃດໆທີ່ມີບຸກມາກ, ປະຫວັດ ຫຼືຂໍ້ມູນລະຫັດຜ່ານ.
 migration-wizard-import-browser-no-resources = ມີຄວາມຜິດພາດ. { -brand-short-name } ບໍ່ສາມາດຊອກຫາຂໍ້ມູນໃດໆທີ່ຈະນໍາເຂົ້າຈາກໂປຣໄຟລ໌ບຣາວເຊີນັ້ນໄດ້.
 
@@ -122,6 +136,7 @@ migration-wizard-import-browser-no-resources = ມີຄວາມຜິດພາ
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = ບຸກມາກ
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = ລາຍການທີ່ມັກ
@@ -138,6 +153,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = ກຳລັງນຳເຂົ້າ…
 migration-wizard-progress-icon-completed =
     .aria-label = ສຳເລັດແລ້ວ
+
 migration-safari-password-import-header = ນໍາເຂົ້າລະຫັດຜ່ານຈາກ Safari
 migration-safari-password-import-steps-header = ເພື່ອນໍາເຂົ້າລະຫັດຜ່ານ Safari:
 migration-safari-password-import-step1 = ໃນ Safari, ເປີດເມນູ "Safari" ແລະໄປທີ່ Preferences > Passwords
@@ -146,12 +162,15 @@ migration-safari-password-import-step3 = ບັນທຶກໄຟລ໌ລະຫ
 migration-safari-password-import-step4 = ໃຊ້ “ເລືອກໄຟລ໌” ຂ້າງລຸ່ມນີ້ເພື່ອເລືອກໄຟລ໌ລະຫັດຜ່ານທີ່ທ່ານບັນທຶກໄວ້
 migration-safari-password-import-skip-button = ຂ້າມ
 migration-safari-password-import-select-button = ເລືອກ File
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-bookmarks = { $quantity } ບຸກມາກ
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -160,25 +179,36 @@ migration-wizard-progress-success-bookmarks = { $quantity } ບຸກມາກ
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-favorites = { $quantity } ລາຍການທີ່ມັກ
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
 # Variables:
 #  $quantity (Number): the number of successfully imported passwords
 migration-wizard-progress-success-passwords = ລະຫັດຜ່ານ { $quantity }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
 # Variables:
 #  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
 migration-wizard-progress-success-history = ຈາກ { $maxAgeInDays } ມື້ທີ່ຜ່ານມາ
+
 migration-wizard-progress-success-formdata = ແບບຟອມປະຫວັດການໃຊ້ງານ
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
 # Variables:
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods = { $quantity } ວິທີການຈ່າຍເງິນ
+
 migration-wizard-safari-permissions-sub-header = ເພື່ອນໍາເຂົ້າ bookmarks Safari ແລະປະຫວັດການທ່ອງເວັບ:
 migration-wizard-safari-instructions-continue = ເລືອກ "ສືບຕໍ່"
 migration-wizard-safari-instructions-folder = ເລືອກໂຟນເດີ Safari ໃນບັນຊີລາຍຊື່ແລະເລືອກ "Open"
