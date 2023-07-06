@@ -12,3 +12,8 @@ places-view-sort-col-name =
 places-view-sort-col-url =
     .label = இடம்
 
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+##
+

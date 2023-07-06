@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (பிரத்தியேக உலாவல்)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (பிரத்தியேக உலாவல்)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (பிரத்தியேக உலாவல்)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (பிரத்தியேக உலாவல்)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -125,8 +92,10 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = முகவரியைத் தேடவும் அல்லது உள்ளிடவும்
+
 urlbar-switch-to-tab =
     .value = தத்தலுக்கு மாற்றுக:
+
 urlbar-go-button =
     .tooltiptext = இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்
 
@@ -170,8 +139,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறிகளின் கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
@@ -209,6 +176,7 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = { $uriHost } இற்கான முன்னெழும் சாளரங்களை அனுமதிக்க
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } இற்கான முன்னெழும் சாளரங்களைத் தடைசெய்க
     .accesskey = p
@@ -233,8 +201,10 @@ popups-infobar-dont-show-message =
 # in the string
 tabs-toolbar =
     .aria-label = உலாவித் தத்தல்கள்
+
 tabs-toolbar-new-tab =
     .label = புதிய தத்தல்
+
 tabs-toolbar-list-all-tabs =
     .label = அனைத்து தத்தல்களையும் பட்டியலிடுக
     .tooltiptext = அனைத்து தத்தல்களையும் பட்டியலிடுக
@@ -252,6 +222,9 @@ tabs-toolbar-list-all-tabs =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ஆனது இந்தப் பக்கம் தன்னிச்சையாக மேலேற்றப்படுவதனைத் தடுக்கிறது.
@@ -266,6 +239,8 @@ refresh-blocked-redirect-label = { -brand-short-name } ஆனது இந்த
 ## Pop-up Notification
 
 
+## Add-on Pop-up Notifications
+
 ## Pop-up warning
 
 # Variables:
@@ -275,6 +250,7 @@ popup-warning-message =
         [one] { -brand-short-name } ஆனது முன்னெழும் சாளரம் திறப்பதினைத் தடைசெய்கிறது.
        *[other] { $popupCount } ஆனது முன்னெழும் சாளரங்கள் திறப்பதினைத் தடைசெய்கின்றன.
     }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

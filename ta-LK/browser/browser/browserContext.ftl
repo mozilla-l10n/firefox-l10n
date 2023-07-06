@@ -147,14 +147,6 @@ main-context-menu-video-email =
     .label = வீடியோவை மின்னஞ்சல் செய்...
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = இச்செருகளை இயல்புபடுத்துக
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = இந்தச் செருகலை மறைக்கவும்
-    .accesskey = H
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -184,10 +176,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = சட்டகத்தை மீளேற்றுக
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = இந்த சட்டகத்தைப் புத்தகக்குறியிடுக
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = சட்டகத்தை இப்படிச் சேமி…

@@ -53,3 +53,7 @@ permissions-invalid-uri-label = ஒரு சரியான கணினிய�
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
