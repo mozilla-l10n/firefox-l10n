@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = സര്‍ട്ടിഫിക്കറ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്യുന്നു
-    .style = width: 46em
-
 download-cert-window2 =
     .title = സര്‍ട്ടിഫിക്കറ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്യുന്നു
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = പ്രധാനപ്പെട്ടതു്: നി
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = സുരക്ഷിതമായ ടോക്കന്‍ ഓഥന്റിക്കേഷന്‍
-protected-auth-msg = ദയവായി ടോക്കന്‍ പരിശോധിക്കുക. നിങ്ങളുടെ ടോക്കന്‍ ഏതു് തരത്തിലുള്ളതാണു് എന്നതനുസരിച്ചാണു് ഓഥന്റിക്കേഷന്‍ മാര്‍ഗ്ഗം.
-protected-auth-token = ടോക്കന്‍:
+## Protected authentication alert
+

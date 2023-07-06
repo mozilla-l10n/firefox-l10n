@@ -20,8 +20,10 @@ account-send-to-all-devices-titlecase = എല്ലാ ഉപകരണങ്ങ
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = ഉപകരണങ്ങളൊന്നും കണക്റ്റുചെയ്തിട്ടില്ല
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = ടാബുകൾ അയയ്ക്കുന്നതിനെക്കുറിച്ച് അറിയുക…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = വേറൊരു ഉപകരണം കണക്ട് ചെയ്യുക…
 
@@ -49,6 +51,7 @@ account-single-tab-arriving-from-device-title = { $deviceName } ല്‍ നി
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ടാബുകൾ ലഭിച്ചു
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

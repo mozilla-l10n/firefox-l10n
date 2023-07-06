@@ -40,3 +40,4 @@ screenshots-private-window-error-details = അസൗകര്യം നേരി
 
 screenshots-generic-error-title = അയ്യോ! { -screenshots-brand-name } എന്തോ പറ്റി.
 screenshots-generic-error-details = എന്താ സംഭവിച്ചതെന്ന് വല്യ പിടി ഇല്ല. ഒന്നുകൂടി നോക്കുകയോ അല്ലെങ്കില്‍ വേറെ താളിന്റെ സ്ക്രീൻഷോട്ട് എടുക്കുകയോ ചെയ്യുന്നോ?
+

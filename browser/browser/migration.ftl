@@ -99,3 +99,4 @@ browser-data-session-checkbox =
     .label = ടാബുകളും ജാലകങ്ങളും
 browser-data-session-label =
     .value = ടാബുകളും ജാലകങ്ങളും
+

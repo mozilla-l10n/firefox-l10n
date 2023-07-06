@@ -34,6 +34,17 @@ neterror-load-error-firewall = നിങ്ങളുടെ കംപ്യൂട
 
 neterror-captive-portal = ഇന്റർനെറ്റ് ആക്സസ് ചെയ്യുന്നതിനു മുമ്പ് ഈ നെറ്റ്‍വർക്കിലേക്ക് നിങ്ങൾ ലോഗിൻ ചെയ്യണം.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = ടൈപ്പ് ചെയ്യുന്നതിലുള്ള പിശകുകള്‍ക്കായി ഫയലിന്റെ പേര് പരിശോധിക്കുക.
 neterror-file-not-found-moved = ഫയല്‍ നീക്കം ചെയ്യുകയോ,പേര് മാറ്റുകയോ അല്ലെങ്കില്‍  വെട്ടി നീക്കുകയോ മറ്റോ ചെയ്തോ എന്ന് പരിശോധിക്കുക.
 

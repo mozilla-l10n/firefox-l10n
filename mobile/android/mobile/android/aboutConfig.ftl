@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = തെരയുക
 config-new-pref-name =
     .placeholder = പേരു്
+
 config-new-pref-value-boolean = ബൂളിയന്‍
 config-new-pref-value-string = വാക്യം
 config-new-pref-value-integer = പൂർണ്ണ സംഖ്യ
+
 config-new-pref-string =
     .placeholder = ഒരു വാക്യം ടൈപ്പ് ചെയ്യൂ
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = റദ്ദാക്കുക
 config-new-pref-create-button = നിര്‍മ്മിക്കുക
 config-new-pref-change-button = മാറ്റുക
+
 config-pref-toggle-button = മാറ്റുക
 config-pref-reset-button = വീണ്ടും സജ്ജമാക്കുക
+
 config-context-menu-copy-pref-name =
     .label = പേര്‌ പകര്‍ത്തുക
 config-context-menu-copy-pref-value =

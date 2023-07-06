@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = വിട്ടുവീഴ്ചകള്‍
-    .style = width: 45em
-
 permissions-window2 =
     .title = വിട്ടുവീഴ്ചകള്‍
     .style = min-width: 45em
@@ -76,10 +72,6 @@ permissions-invalid-uri-label = ദയവായി വാലിഡായ ഒര�
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = വിട്ടുവീഴ്ചകൾ - കുക്കികളും സൈറ്റ് ഡാറ്റയും
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = വിട്ടുവീഴ്ചകൾ - കുക്കികളും സൈറ്റ് ഡാറ്റയും
     .style = { permissions-window2.style }
@@ -89,10 +81,6 @@ permissions-exceptions-cookie-window2 =
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = അനുവദിച്ച വെബ്സൈറ്റുകൾ - പോപ്പ്-അപ്പുകൾ
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = അനുവദിച്ച വെബ്സൈറ്റുകൾ - പോപ്പ്-അപ്പുകൾ
     .style = { permissions-window2.style }
@@ -100,20 +88,12 @@ permissions-exceptions-popup-desc = ഏതെലാം വെബ്‌ സിറ
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = ഒഴിവാക്കലുകൾ - സേവു ചെയ്ത ലോഗിനുകൾ
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = ഒഴിവാക്കലുകൾ - സേവു ചെയ്ത ലോഗിനുകൾ
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ഇനിപ്പറയുന്ന വെബ്സൈറ്റുകൾക്കായുള്ള ലോഗിനുകൾ സേവു ചെയ്യില്ല
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = അനുവദിച്ച വെബ്സൈറ്റുകൾ - ആഡ്-ഓൺസ് ഇൻസ്റ്റാളേഷൻ
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = അനുവദിച്ച വെബ്സൈറ്റുകൾ - ആഡ്-ഓൺസ് ഇൻസ്റ്റാളേഷൻ
@@ -125,10 +105,6 @@ permissions-exceptions-addons-desc = ഏതൊക്കെ വെബ്‌ സ�
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = ക്രമീകരണങ്ങൾ - അറിയിപ്പിനുള്ള അനുമതികൾ
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = ക്രമീകരണങ്ങൾ - അറിയിപ്പിനുള്ള അനുമതികൾ
     .style = { permissions-window2.style }
@@ -136,10 +112,6 @@ permissions-site-notification-disable-label =
     .label = അറിയിപ്പുകൾ അനുവദിക്കാൻ ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = ക്രമീകരണങ്ങൾ - ലൊക്കേഷൻ അനുമതികൾ
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = ക്രമീകരണങ്ങൾ - ലൊക്കേഷൻ അനുമതികൾ
@@ -152,10 +124,6 @@ permissions-site-location-disable-label =
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = ക്രമീകരണങ്ങൾ - ക്യാമറ അനുമതികൾ
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = ക്രമീകരണങ്ങൾ - ക്യാമറ അനുമതികൾ
     .style = { permissions-window2.style }
@@ -164,12 +132,13 @@ permissions-site-camera-disable-label =
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = ക്രമീകരണങ്ങൾ - മൈക്രോഫോൺ അനുമതികൾ
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = ക്രമീകരണങ്ങൾ - മൈക്രോഫോൺ അനുമതികൾ
     .style = { permissions-window2.style }
 permissions-site-microphone-disable-label =
     .label = നിങ്ങളുടെ മൈക്രോഫോൺ പരിശോധിക്കുന്നതിനായി ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

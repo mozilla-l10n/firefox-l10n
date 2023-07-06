@@ -12,7 +12,29 @@ safeb-blocked-unwanted-page-short-desc = { -brand-short-name } നിങ്ങ�
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> നൽകിയ ഉപദേശങ്ങൾ.
 safeb-palm-accept-label = മടങ്ങിപ്പോവുക
 safeb-palm-see-details-label = വിശദാംശങ്ങൾ കാണുക
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ദോഷകരമായ സോഫ്റ്റവെയർ അടിങ്ങിയിരിക്കുന്നതായി <a data-l10n-name='error_desc_link'>റിപ്പോർട്ട് ചെയ്യപ്പെട്ടിരിക്കുന്നു</a>.
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
 safeb-palm-notdeceptive =
     .label = ഇത് വഞ്ചനാപരമായ സൈറ്റല്ല…
     .accesskey = d

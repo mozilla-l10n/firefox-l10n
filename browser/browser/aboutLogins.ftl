@@ -11,11 +11,6 @@ about-logins-page-title = ലോഗിനുകളും പാസ്‌വേ�
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = ലോഗിനുകൾ തിരയുക
-
-create-login-button = പുതിയ ലോഗിൻ സൃഷ്ടിക്കുക
-
 fxaccounts-sign-in-text = നിങ്ങളുടെ മറ്റ് ഉപകരണങ്ങളിൽ പാസ്‌വേഡുകൾ നേടുക
 fxaccounts-avatar-button =
     .title = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
@@ -81,9 +76,10 @@ login-item-copied-password-button-text = പകർത്തി!
 login-item-save-changes-button = മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക
 login-item-save-new-button = സൂക്ഷിക്കുക
 login-item-cancel-button = റദ്ദാക്കുക
-login-item-time-changed = അവസാനം പരിഷ്‌ക്കരിച്ചത്: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = സൃഷ്ടിച്ചത്: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = അവസാനം ഉപയോഗിച്ചത്: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -110,6 +106,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ഈ പ്രവേശനം നീക്കം ചെയ്യണോ?
 confirm-delete-dialog-message = ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
 about-logins-confirm-remove-dialog-confirm-button = നീക്കം ചെയ്യുക
+
+## Variables
+##   $count (number) - Number of items
+
+##
 
 confirm-discard-changes-dialog-title = സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ നിരസിക്കണോ?
 confirm-discard-changes-dialog-message = സംരക്ഷിക്കാത്ത എല്ലാ മാറ്റങ്ങളും നഷ്‌ടപ്പെടും.

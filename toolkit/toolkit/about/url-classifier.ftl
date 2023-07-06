@@ -38,5 +38,9 @@ url-classifier-disabled = സജ്ജമല്ല
 url-classifier-updating = പുതുക്കുന്നു
 url-classifier-cannot-update = പുതുക്കാന്‍ പറ്റിയില്ല
 url-classifier-success = വിജയകരം
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = പുതുക്കലില്‍ പിഴവ് ({ $error })
 url-classifier-download-error = ഡൌണ്‍ലോഡ് പിഴവ് ({ $error })

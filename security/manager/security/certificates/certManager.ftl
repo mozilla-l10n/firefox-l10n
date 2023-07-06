@@ -21,10 +21,6 @@ certmgr-mine = നിങ്ങളെ തിരിച്ചറിയുന്ന 
 certmgr-people = ഈ വ്യക്തികളെ തിരിച്ചറിയുന്ന സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്
 certmgr-ca = ഈ സർട്ടിഫിക്കറ്റ് അതോറിറ്റികളെ തിരിച്ചറിയുന്ന സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്
 
-certmgr-edit-ca-cert =
-    .title = CA സര്‍ട്ടിഫിക്കറ്റുകളുടെ വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA സര്‍ട്ടിഫിക്കറ്റുകളുടെ വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = ഈ സര്‍ട്ടിഫികറ്റിനു മെയില്‍ ഉപയുക്താക്കളെ തിരിച്ചറിയാന്‍ സാധിക്കും.
 
-certmgr-delete-cert =
-    .title = സര്‍ട്ടിഫിക്കറ്റ്‌ മായിക്കുക
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = സര്‍ട്ടിഫിക്കറ്റ്‌ മായിക്കുക
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = സര്‍വര്‍
-
-certmgr-override-lifetime =
-    .label = ജീവിത കാലാവധി
 
 certmgr-token-name =
     .label = സുരക്ഷ ഉപകരണങ്ങള്‍
