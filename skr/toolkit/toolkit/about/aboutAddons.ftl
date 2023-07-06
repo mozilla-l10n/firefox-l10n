@@ -165,6 +165,7 @@ extensions-warning-check-compatibility-button = فعال بݨاؤ
 extensions-warning-update-security = ایڈ آن اپ ڈیٹ سیکیورٹی چیکنگ غیر فعال ہے۔ تہاݙا اپ ڈیٹاں نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 extensions-warning-update-security-button = فعال بݨاؤ
     .title = ایڈ آن سیکیورٹی چیکنگ فعال بݨاؤ
+extensions-warning-imported-addons-button = ایکسٹنشناں انسٹال کرو
 
 ## Strings connected to add-on updates
 
@@ -352,6 +353,10 @@ addon-detail-updates-radio-on = چالو
 addon-detail-updates-radio-off = بند
 addon-detail-update-check-label = اپڈیٹاں کیتے ݙیکھو
 install-update-button = اپ ڈیٹ کرو
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -360,6 +365,10 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = اجازت ملݨ تے، ایکسٹینشن کوں نجی براؤزنگ دے دوران تہاݙی آن لائن سرگرمیاں تائیں رسائی حاصل تھیس۔ <a data-l10n-name="learn-more">ودھیک ڄاݨو</a>
 addon-detail-private-browsing-allow = اجازت ݙیوو
 addon-detail-private-browsing-disallow = اجازت نہ ݙیوو
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
