@@ -103,9 +103,6 @@ cfr-doorhanger-milestone-close-button = बंद करें
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-secondary-button = अधिक जानें
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-primary-button = अभी अपडेट करें
@@ -125,8 +122,6 @@ spotlight-public-wifi-vpn-link = अभी नहीं
 
 ## Total Cookie Protection Rollout
 
-spotlight-total-cookie-protection-secondary-button = अभी नहीं
-
 ## Emotive Continuous Onboarding
 
 ## MR2022 Background Update Windows native toast notification strings.
@@ -145,4 +140,16 @@ spotlight-total-cookie-protection-secondary-button = अभी नहीं
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

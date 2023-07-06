@@ -5,5 +5,6 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Glean के बारे में
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
 

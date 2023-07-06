@@ -21,10 +21,6 @@ certmgr-mine = आपके पास इन संगठनों से प्
 certmgr-people = आपके पास फ़ाइल पर प्रमाणपत्र हैं जो इन लोगों को पहचानते हैं
 certmgr-ca = आपके पास फ़ाइल पर प्रमाणपत्र हैं जो इन प्रमाणपत्र प्राधिकारियों को पहचानते हैं
 
-certmgr-edit-ca-cert =
-    .title = CA प्रमाणपत्र ट्रस्ट जमावट को संपादित करें
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA प्रमाणपत्र ट्रस्ट जमावट को संपादित करें
     .style = min-width: 48em;
@@ -36,10 +32,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = यह प्रमाणपत्र मेल उपयोक्ता को पहचान सकता है.
-
-certmgr-delete-cert =
-    .title = प्रमाणपत्र मिटायें
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = प्रमाणपत्र मिटायें
@@ -53,9 +45,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = सर्वर
-
-certmgr-override-lifetime =
-    .label = जीवनपर्यंत
 
 certmgr-token-name =
     .label = सुरक्षा युक्ति

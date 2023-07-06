@@ -163,3 +163,4 @@ browser-data-session-checkbox =
     .label = विंडोज व टैब
 browser-data-session-label =
     .value = विंडोज व टैब
+

@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = सहेजें
 pocket-panel-saved-saving-tags = सहेजा जा रहा है ...
 pocket-panel-saved-suggested-tags = सुझाये हुए टैग्स.
 pocket-panel-saved-tags-saved = टैग जोड़ा गया
-pocket-panel-signup-view-list = सूची देखें
 
 ## about:pocket-signup panel
 
@@ -41,7 +40,6 @@ pocket-panel-signup-tagline-story-two = किसी भी समय, { -pocket
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = मेरी सूची
 pocket-panel-home-welcome-back = आपका फिर से स्वागत है
 pocket-panel-home-discover-more = और जानें
 pocket-panel-home-explore-more = जानें

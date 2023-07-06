@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = अपवाद
-    .style = width: 45em
-
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
@@ -79,13 +75,7 @@ permissions-invalid-uri-label = एक वैध मेजबाननाम ड
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-desc = आपने इन वेबसाइटों पर सुरक्षा बंद कर दी है।
-
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = अपवाद - कुकीज़ और साइट डेटा
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = अपवाद - कुकीज़ और साइट डेटा
@@ -97,10 +87,6 @@ permissions-exceptions-cookie-desc = आप विशेष रूप से च
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = अनुमत वेबसाइट - पॉप-अप
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = अनुमत वेबसाइट - पॉप-अप
     .style = { permissions-window2.style }
@@ -108,20 +94,12 @@ permissions-exceptions-popup-desc = कौन-सी वेबसाइटों
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = अपवाद - संग्रहित प्रवेश
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = अपवाद - संग्रहित प्रवेश
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = निम्न वेबसाइटों के लिए लॉगिन सहेजे नहीं जाएंगे
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = अनुमत वेबसाइटें - एड-ऑन अधिष्ठापन
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = अनुमत वेबसाइटें - एड-ऑन अधिष्ठापन
@@ -134,10 +112,6 @@ permissions-site-autoplay-desc = आप उन साइटों को प्�
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = सेटिंग्स - अधिसूचना अनुमतियां
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = सेटिंग्स - अधिसूचना अनुमतियां
     .style = { permissions-window2.style }
@@ -147,10 +121,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = इससे किसी भी वेबसाइट को आपको अधिसूचना देने की अनुमति के लिए अनुरोध करने से नहीं रोका जा सकेगा. अधिसूचना ब्लॉक करने से कुछ वेबसाइट सुविधाएं टूट सकती हैं.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = सेटिंग्स - स्थान अनुमतियां
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = सेटिंग्स - स्थान अनुमतियां
@@ -165,10 +135,6 @@ permissions-site-location-disable-desc = इससे किसी भी वे
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = सेटिंग्स - कैमरा अनुमतियां
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = सेटिंग्स - कैमरा अनुमतियां
     .style = { permissions-window2.style }
@@ -179,10 +145,6 @@ permissions-site-camera-disable-desc = इससे किसी भी वे�
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = सेटिंग्स - माइक्रोफ़ोन अनुमतियां
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = सेटिंग्स - माइक्रोफ़ोन अनुमतियां
     .style = { permissions-window2.style }
@@ -190,3 +152,8 @@ permissions-site-microphone-desc = निम्नलिखित वेबस�
 permissions-site-microphone-disable-label =
     .label = आपके माइक्रोफोन का उपयोग करने के लिए आने वाले नए अनुरोधों को रोकें
 permissions-site-microphone-disable-desc = इससे किसी भी वेबसाइट को आपके माइक्रोफोन का उपयोग करने की अनुमति के लिए अनुरोध करने से नहीं रोका जा सकेगा. आपके माइक्रोफोन का उपयोग अवरूद्ध करने से कुछ वेबसाइट की सुविधाएं टूट सकती हैं.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

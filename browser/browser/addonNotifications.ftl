@@ -13,6 +13,7 @@ xpinstall-prompt-header = { $host } को ऐड-ऑन स्थापित �
 
 xpinstall-prompt-header-unknown = किसी अज्ञात साइट को ऐड-ऑन स्थापित करने की अनुमति दें?
 xpinstall-prompt-message-unknown = आप किसी अज्ञात साइट से ऐड-ऑन स्थापित करने का प्रयास कर रहे हैं। सुनिश्चित करें कि आप जारी रखने से पहले इस साइट पर भरोसा करते हैं।
+
 xpinstall-prompt-dont-allow =
     .label = अनुमति न दें
     .accesskey = D
@@ -36,6 +37,7 @@ xpinstall-disabled = सॉफ्टवेयर संस्थापन अभ
 xpinstall-disabled-button =
     .label = 0सक्रिय करें
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } को { -brand-short-name } से जोड़ा गया
@@ -49,6 +51,7 @@ webext-perms-update-menu-item = { $addonName } को नई अनुमात�
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { -brand-shorter-name } से { $name } हटाएँ?
 addon-removal-button = हटाएँ
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -57,6 +60,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } ऐड-ऑनस डाउनलोड और सत्यापित हो रहा हैं…
     }
 addon-download-verifying = जाँच रहा है
+
 addon-install-cancel-button =
     .label = रद्द करें
     .accesskey = C

@@ -5,11 +5,6 @@
 
 about-logins-page-title = लॉगिन और पासवर्ड
 
-login-filter =
-    .placeholder = लॉगिन खोजें
-
-create-login-button = नई लॉगिन बनाएँ
-
 fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
 fxaccounts-sign-in-sync-button = सिंक करने के लिए साइन इन करें
 fxaccounts-avatar-button =
@@ -93,9 +88,10 @@ login-item-copied-password-button-text = कॉपी हो गया!
 login-item-save-changes-button = परिवर्तनों को सहेजें
 login-item-save-new-button = सहेजें
 login-item-cancel-button = रद्द करें
-login-item-time-changed = अंतिम परिवर्तन: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = निर्मित: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = अंतिम बार उपयोग: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -146,12 +142,17 @@ about-logins-confirm-remove-dialog-title = इस लॉगिन को हट�
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
 about-logins-confirm-remove-dialog-confirm-button = हटाएँ
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] हटाएँ
         [one] हटाएँ
        *[other] सभी हटाएं
     }
+
+##
 
 about-logins-confirm-export-dialog-title = लॉगिन और पासवर्ड निर्यात करें
 about-logins-confirm-export-dialog-message = आपके पासवर्ड पढ़ने योग्य टेक्स्ट (जैसे BadP@ssw0rd) के रूप में सहेजे जाएंगे ताकि जो भी निर्यात की गई फ़ाइल को खोल पाएंगे, उन्हें देख सकते हैं।
@@ -171,7 +172,6 @@ about-logins-breach-alert-date = यह उल्लंघन { DATETIME($date, 
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } पर जाएं
-about-logins-breach-alert-learn-more-link = अधिक जानें
 
 ## Vulnerable Password notification
 
