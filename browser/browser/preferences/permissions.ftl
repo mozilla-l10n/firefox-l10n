@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Ausnahmen
-    .style = width: 36em
 permissions-window2 =
     .title = Ausnahmen
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresse der Website:
     .accesskey = d
+
 permissions-block =
     .label = Blockieren
     .accesskey = B
+
 permissions-disable-etp =
     .label = Ausnahme hinzufügen
     .accesskey = A
+
 permissions-session =
     .label = Für diese Sitzung erlauben
     .accesskey = F
+
 permissions-allow =
     .label = Erlauben
     .accesskey = E
+
 permissions-button-off =
     .label = Deaktivieren
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Temporär deaktivieren
     .accesskey = T
+
 permissions-site-name =
     .label = Website
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Website entfernen
     .accesskey = n
+
 permissions-remove-all =
     .label = Alle Websites entfernen
     .accesskey = a
+
 permission-dialog =
     .buttonlabelaccept = Änderungen speichern
     .buttonaccesskeyaccept = s
+
 permissions-autoplay-menu = Standard für alle Websites:
+
 permissions-searchbox =
     .placeholder = Website suchen
+
 permissions-capabilities-autoplay-allow =
     .label = Audio und Video erlauben
 permissions-capabilities-autoplay-block =
     .label = Medien mit Audio blockieren
 permissions-capabilities-autoplay-blockall =
     .label = Audio und Video blockieren
+
 permissions-capabilities-allow =
     .label = Erlauben
 permissions-capabilities-block =
     .label = Blockieren
 permissions-capabilities-prompt =
     .label = Immer fragen
+
 permissions-capabilities-listitem-allow =
     .value = Erlauben
 permissions-capabilities-listitem-block =
     .value = Blockieren
 permissions-capabilities-listitem-allow-session =
     .value = Für diese Sitzung erlauben
+
 permissions-capabilities-listitem-off =
     .value = Deaktiviert
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Bitte tragen Sie einen gültigen Hostnamen ein
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Ausnahmen - Verbesserter Schutz vor Aktivitätenverfolgung
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Sie haben die Schutzmaßnahmen für folgende Websites deaktiviert.
 permissions-exceptions-etp-window2 =
     .title = Ausnahmen - Verbesserter Schutz vor Aktivitätenverfolgung
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Sie können festlegen, für welche Webs
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Ausnahmen - Cookies und Website-Daten
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Ausnahmen - Cookies und Website-Daten
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Sie können festlegen, welchen Websites Sie
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Ausnahmen - Nur-HTTPS-Modus
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Ausnahmen - Nur-HTTPS-Modus
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Sie können den Nur-HTTPS-Modus für be
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Berechtigte Websites - Pop-ups
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Berechtigte Websites - Pop-ups
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Sie können festlegen, welchen Websites Sie 
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Ausnahmen - Gespeicherte Zugangsdaten
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Ausnahmen - Gespeicherte Zugangsdaten
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Zugangsdaten für die folgenden Websi
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Berechtigte Websites - Add-ons-Installation
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Berechtigte Websites - Add-ons-Installation
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Sie können festlegen, welchen Websites Sie
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Einstellungen - Automatische Wiedergabe
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Einstellungen - Automatische Wiedergabe
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Hier können die Websites verwaltet werden, wel
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Einstellungen - Benachrichtigungsberechtigungen
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Einstellungen - Benachrichtigungsberechtigungen
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Dies wird alle nicht oben aufgefüh
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Einstellungen - Standortzugriff
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Einstellungen - Standortzugriff
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Dies wird alle nicht oben aufgeführten
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Einstellungen - VR-Berechtigungen
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Einstellungen - VR-Berechtigungen
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Dies wird alle nicht oben aufgeführten Websi
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Einstellungen - Kamerazugriff
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Einstellungen - Kamerazugriff
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Dies wird alle nicht oben aufgeführten W
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Einstellungen - Mikrofonzugriff
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Einstellungen - Mikrofonzugriff
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Einstellungen - Lautsprecher-Berechtigungen
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Die folgenden Websites haben angefragt, ein Audio-Ausgabegerät auswählen zu dürfen. Sie können festlegen, welche Websites ein Audio-Ausgabegerät auswählen dürfen.
+
 permissions-exceptions-doh-window =
     .title = Website-Ausnahmen für DNS über HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } verwendet kein sicheres DNS auf diesen Websites und deren Subdomains.
+
 permissions-doh-entry-field = Domain-Namen der Website eingeben
     .accesskey = D
+
 permissions-doh-add-exception =
     .label = Hinzufügen
     .accesskey = H
+
 permissions-doh-col =
     .label = Domain
+
 permissions-doh-remove =
     .label = Entfernen
     .accesskey = E
+
 permissions-doh-remove-all =
     .label = Alle entfernen
     .accesskey = A

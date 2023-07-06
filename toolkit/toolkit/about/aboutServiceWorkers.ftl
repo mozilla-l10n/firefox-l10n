@@ -9,6 +9,7 @@ about-service-workers-title = Über Service-Worker
 about-service-workers-main-title = Angemeldete Service-Worker
 about-service-workers-warning-not-enabled = Service-Worker sind deaktiviert.
 about-service-workers-warning-no-service-workers = Keine Service-Worker angemeldet.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Name des aktiven Caches:</strong> { $name }
 waiting-cache-name = <strong>Name des wartenden Caches:</strong> { $name }
 push-end-point-waiting = <strong>Push-Endpunkt:</strong> { waiting }
 push-end-point-result = <strong>Push-Endpunkt:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Aktualisieren
+
 unregister-button = Abmelden
+
 unregister-error = Fehler beim Abmelden des Service-Workers
+
 waiting = Warten…

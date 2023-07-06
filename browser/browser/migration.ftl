@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Import-Assistent
+
 import-from =
     { PLATFORM() ->
         [windows] Einstellungen, Lesezeichen, Chronik, Passwörter und sonstige Daten importieren von:
        *[other] Einstellungen, Lesezeichen, Chronik, Passwörter und sonstige Daten importieren von:
     }
+
 import-from-bookmarks = Lesezeichen importieren aus:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = Es konnte kein Programm gefunden werden, das Lesezeichen-, Chronik- oder Passwortdaten enthält.
+
 import-source-page-title = Einstellungen und Daten importieren
 import-items-page-title = Zu importierende Daten
+
 import-items-description = Wählen Sie bitte aus, welche Daten importiert werden sollen:
+
 import-permissions-page-title = Bitte geben Sie { -brand-short-name } Berechtigungen
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS erfordert, dass Sie { -brand-short-name } ausdrücklich erlauben, auf die Lesezeichen von Safari zuzugreifen. Klicken Sie auf "Fortsetzen" und wählen Sie die Datei "Bookmarks.plist" im Fenster "Datei öffnen".
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS erfordert, dass Sie { -brand-short-name } ausdrücklich erlauben, auf die Daten von Safari zuzugreifen. Klicken Sie auf "Fortsetzen", wählen Sie den Ordner "Safari" im erscheinenden Finder-Dialog, und klicken Sie "Öffnen".
+
 import-migrating-page-title = Importieren…
+
 import-migrating-description = Folgende Daten werden momentan importiert:
+
 import-select-profile-page-title = Profil wählen
+
 import-select-profile-description = Es stehen folgende Profile zum Import zur Verfügung:
+
 import-done-page-title = Importieren abgeschlossen
+
 import-done-description = Folgende Daten wurden erfolgreich importiert:
+
 import-close-source-browser = Bitte überprüfen Sie vor dem Fortfahren, dass der gewählte Browser beendet ist.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Leseliste (von Safari)
 imported-edge-reading-list = Leseliste (von Edge)
 
@@ -101,6 +115,7 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,10 +128,12 @@ browser-data-history-label =
             [firefox] Browserverlauf und Lesezeichen
            *[other] Browserverlauf
         }
+
 browser-data-formdata-checkbox =
     .label = Gespeicherte Formulardaten
 browser-data-formdata-label =
     .value = Gespeicherte Formulardaten
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,6 +142,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Gespeicherte Zugangsdaten und Passwörter
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -139,14 +157,17 @@ browser-data-bookmarks-label =
             [edge] Favoriten
            *[other] Lesezeichen
         }
+
 browser-data-otherdata-checkbox =
     .label = Sonstige Daten
 browser-data-otherdata-label =
     .label = Sonstige Daten
+
 browser-data-session-checkbox =
     .label = Fenster und Tabs
 browser-data-session-label =
     .value = Fenster und Tabs
+
 browser-data-payment-methods-checkbox =
     .label = Zahlungsmethoden
 browser-data-payment-methods-label =

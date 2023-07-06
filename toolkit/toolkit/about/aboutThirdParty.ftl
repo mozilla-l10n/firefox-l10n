@@ -4,12 +4,15 @@
 
 third-party-page-title = Informationen zu Modulen von Drittanbietern
 third-party-section-title = Liste der Module von Drittanbietern in { -brand-short-name }
+
 third-party-intro =
     Diese Seite zeigt die Module von Drittanbietern, die in { -brand-short-name }
     installiert wurden. Jedes Modul, das nicht von Microsoft oder
     { -vendor-short-name } signiert wurde, gilt als Modul von Drittanbietern.
+
 third-party-message-empty = Es wurden keine Module von Drittanbietern erkannt.
 third-party-message-no-duration = Nicht aufgezeichnet
+
 third-party-detail-version = Dateiversion
 third-party-detail-vendor = Herstellerinformationen
 third-party-detail-occurrences = Vorkommen
@@ -18,28 +21,28 @@ third-party-detail-duration = Durchschn. blockierte Zeit (ms)
     .title = Wie lange dieses Module die Anwendung blockiert hat.
 third-party-detail-app = Anwendung
 third-party-detail-publisher = Herausgeber
+
 third-party-th-process = Prozess
 third-party-th-duration = Ladedauer (ms)
 third-party-th-status = Status
+
 third-party-tag-ime = IME
     .title = Diese Art von Modul wird geladen, wenn Sie einen IME von Drittanbietern verwenden.
 third-party-tag-shellex = Shell-Erweiterung
     .title = Diese Art von Modul wird geladen, wenn Sie den Dateidialog des Systems öffnen.
 third-party-tag-background = Hintergrund
     .title = Dieses Modul hat die Anwendung nicht blockiert, da es im Hintergrund geladen wurde.
-third-party-unsigned-icon =
-    .title = Dieses Modul wurde nicht signiert.
-third-party-warning-icon =
-    .title = { -brand-short-name } ist in Code von diesem Modul abgestürzt.
 third-party-icon-unsigned =
     .title = Dieses Modul wurde nicht signiert.
     .alt = Dieses Modul wurde nicht signiert.
 third-party-icon-warning =
     .title = { -brand-short-name } ist in Code von diesem Modul abgestürzt.
     .alt = { -brand-short-name } ist in Code von diesem Modul abgestürzt.
+
 third-party-status-loaded = Geladen
 third-party-status-blocked = Blockiert
 third-party-status-redirected = Weitergeleitet
+
 third-party-button-copy-to-clipboard = Rohdaten in die Zwischenablage kopieren
 third-party-loading-data =
     .alt = Systeminformationen werden geladen…
@@ -61,12 +64,11 @@ third-party-button-expand =
     .title = Detaillierte Informationen anzeigen
 third-party-button-collapse =
     .title = Detaillierte Informationen einklappen
-third-party-requires-restart = { -brand-short-name } muss neu gestartet werden, um zu ändern, welche Module von Drittanbietern blockiert werden.
 third-party-blocking-requires-restart = Um ein Modul eines Drittanbieters zu blockieren, muss { -brand-short-name } neu gestartet werden.
 third-party-should-restart-title = { -brand-short-name } neu starten
-third-party-should-restart-ok = { -brand-short-name } jetzt neu starten
 third-party-restart-now = Jetzt neu starten
 third-party-restart-later = Später neu starten
+
 third-party-blocked-by-builtin =
     .title = Blockiert durch { -brand-short-name }
     .alt = Blockiert durch { -brand-short-name }

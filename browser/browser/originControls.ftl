@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = Erweiterung kann keine Daten lesen und ändern
+
 origin-controls-quarantined =
     .label = Erweiterung darf keine Daten lesen und ändern
+
 origin-controls-options =
     .label = Erweiterung kann Daten lesen und ändern:
+
 origin-controls-option-all-domains =
     .label = Auf allen Seiten
+
 origin-controls-option-when-clicked =
     .label = Nur wenn angeklickt
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,12 +34,19 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Kann keine Daten auf dieser Website lesen und ändern
+
 origin-controls-state-quarantined = Von { -vendor-short-name } auf dieser Website nicht erlaubt
+
 origin-controls-state-always-on = Kann immer Daten auf dieser Website lesen und ändern
+
 origin-controls-state-when-clicked = Berechtigung zum Lesen und Ändern von Daten erforderlich
+
 origin-controls-state-hover-run-visit-only = Nur für diesen Besuch ausführen
+
 origin-controls-state-runnable-hover-open = Erweiterung öffnen
+
 origin-controls-state-runnable-hover-run = Erweiterung ausführen
+
 origin-controls-state-temporary-access = Kann Daten für diesen Besuch lesen und ändern
 
 ## Extension's toolbar button.
@@ -44,6 +56,7 @@ origin-controls-state-temporary-access = Kann Daten für diesen Besuch lesen und
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -51,6 +64,7 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Erlaubnis nötig
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =
