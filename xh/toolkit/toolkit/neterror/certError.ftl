@@ -20,6 +20,7 @@ cert-error-details-cert-chain-label = Ikhonkco lesatifikethi
 
 connectionFailure-title = Ayikwazi kudibanisa
 deniedPortAccess-title = Le dilesi inemida
+
 fileNotFound-title = Ifayile ayifumaneki
 fileAccessDenied-title = Ufikelelo kule fayile lwalelwe
 generic-title = Oops.

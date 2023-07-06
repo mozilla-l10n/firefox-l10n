@@ -22,5 +22,7 @@ state-header = Ilizwe
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Iinkcukacha
+
 update-installed-on = Lufakelwe ngo-: { $date }
+
 update-status = Ubume: { $status }

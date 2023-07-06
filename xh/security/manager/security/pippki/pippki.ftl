@@ -17,10 +17,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Kuthotywa Umthwalo Wesatifikethi
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Kuthotywa Umthwalo Wesatifikethi
     .style = min-width: 46em
@@ -52,4 +48,5 @@ set-password-reminder = Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi
 
 ## Protected Auth dialog
 
-protected-auth-msg = Nceda ugunyaze kwitokeni. Inkqubo yogunyazo ixhomekeka kuhlobo lwetokeni yakho.
+## Protected authentication alert
+

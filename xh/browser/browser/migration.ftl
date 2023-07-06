@@ -99,3 +99,4 @@ browser-data-session-checkbox =
     .label = I-Windows neethebhu
 browser-data-session-label =
     .value = I-Windows neethebhu
+

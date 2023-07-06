@@ -175,14 +175,6 @@ main-context-menu-audio-email =
     .label = Thumela ngeimeyile okunesandi…
     .accesskey = e
 
-main-context-menu-plugin-play =
-    .label = Vuselela le softwe incedisayo
-    .accesskey = u
-
-main-context-menu-plugin-hide =
-    .label = Fihla esi sifakelo
-    .accesskey = F
-
 main-context-menu-send-to-device =
     .label = Thumela iPhepha kwiSixhobo
     .accesskey = k
@@ -220,10 +212,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Layisha kwakhona isakhelo
     .accesskey = L
-
-main-context-menu-frame-bookmark =
-    .label = Faka Ibhukhmakhi Kwesi Sakhelo
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Gcina Isakhelo njenge…

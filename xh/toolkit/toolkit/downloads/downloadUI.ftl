@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Musa ukuyeka
        *[other] Musa ukuphuma
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ukuba uyaphuma kwinethiwekhi ngoku, okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukuphuma kwinethiwekhi?
        *[other] Ukuba uyaphuma kwinethiwekhi ngoku, { $downloadsCount } okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukuphuma kwinethiwekhi?
     }
 download-ui-dont-go-offline-button = Hlala kwinethiwekhi
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ukuba uvala zonke iifestile zokuBhrawuza zaNgasese ngoku, okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukushiya imo yokubhrawuza kwangasese?
        *[other] Ukuba uvala zonke iifestile zokuBhrawuza zaNgasese ngoku, { $downloadsCount } okukhutshelwayo kuya kurhoxiswa. Uqinisekile ufuna ukushiya imo yokubhrawuza kwangasese?
     }
 download-ui-dont-leave-private-browsing-button = Hlala kwimo yokuBhrawuza yaNgasese
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Rhoxisa okukhutshelwayo oku-1

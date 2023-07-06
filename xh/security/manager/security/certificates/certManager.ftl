@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Oogunyaziwe
 
-certmgr-edit-ca-cert =
-    .title = Hlela Imimiselo yentembeko yesatifikethi se-CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Hlela Imimiselo yentembeko yesatifikethi se-CA
     .style = min-width: 48em;
@@ -23,10 +19,6 @@ certmgr-edit-cert-edit-trust = Hlela imimiselo yentembeko:
 
 certmgr-edit-cert-trust-email =
     .label = Esi satifikethi sinako ukuchonga abasebenzisi bemeyile.
-
-certmgr-delete-cert =
-    .title = Cima Isatifikethi
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Cima Isatifikethi

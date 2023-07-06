@@ -16,7 +16,6 @@ styleeditor-save-button = Gcina
     .accesskey = G
 styleeditor-options-button =
     .tooltiptext = Ukhetho lomHleli weSimbo
-styleeditor-media-rules = imithetho @yemidiya
 styleeditor-editor-textbox =
     .data-placeholder = Tayipa iCSS apha.
 styleeditor-no-stylesheet = Eli phepha alinalo uxwebhu lwesimbo.
@@ -32,6 +31,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Xhumela emgceni…
     .accesskey = X
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

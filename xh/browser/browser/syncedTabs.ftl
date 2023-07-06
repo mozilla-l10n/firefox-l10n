@@ -16,18 +16,6 @@ synced-tabs-sidebar-tabsnotsyncing = Layita ungqamaniso lwethebhu ukuze ujonge u
 synced-tabs-context-open =
     .label = Vula
     .accesskey = V
-synced-tabs-context-open-in-new-tab =
-    .label = Vula kwiThebhu eNtsha
-    .accesskey = t
-synced-tabs-context-open-in-new-window =
-    .label = Vula Kwifestile eNtsha
-    .accesskey = K
-synced-tabs-context-open-in-new-private-window =
-    .label = Vula kwiWindow yaBucala eNtsha
-    .accesskey = k
-synced-tabs-context-bookmark-single-tab =
-    .label = Faka Ibhukhmakhi Kweli Khasi…
-    .accesskey = F
 
 ##
 

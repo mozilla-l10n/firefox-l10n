@@ -34,9 +34,11 @@ menu-quit =
             [windows] h
            *[other] Y
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Yeka i-{ -brand-shorter-name }
+
 menu-about =
     .label = Malunga ne-{ -brand-shorter-name }
     .accesskey = M
@@ -192,8 +194,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Iibhukhmakhi
     .accesskey = I
-menu-bookmark-edit =
-    .label = Hlela Le Bhukhmakhi
 menu-bookmarks-all-tabs =
     .label = Faka ibhukhmakhi kuzo zonke iithebhu…
 menu-bookmarks-toolbar =

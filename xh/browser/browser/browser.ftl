@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Ukubhrawuza kwangasese)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Ukubhrawuza kwangasese)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Ukubhrawuza kwangasese)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Ukubhrawuza kwangasese)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -63,16 +30,12 @@ urlbar-default-notification-anchor =
     .tooltiptext = Iphanele yomyalezo ovulekileyo
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Iphanele yesicelo yendawo evulekileyo
-urlbar-translate-notification-anchor =
-    .tooltiptext = Guqulela eli khasi
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Lawula ukwabelana kwakho ngeefestile okanye iskrini nesayithi
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Vula iphanele yomyalezo wokugcina ngaphandle kwe-intanethi
 urlbar-password-notification-anchor =
     .tooltiptext = Vula iphanele yokulondoloza umyalezo wephasiwedi
-urlbar-translated-notification-anchor =
-    .tooltiptext = Lawula ukuguqulelwa kwekhasi
 urlbar-plugins-notification-anchor =
     .tooltiptext = Lawula ukusetyenziswa kwezinto eziplagwayo
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -105,10 +68,12 @@ urlbar-screen-blocked =
     .tooltiptext = Uyibhlokile le webhusayithi ekwabelaneni ngesikrini sakho.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ulubhlokile ugcino oluqhubekayo lwedatha kule webhusayithi.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Hlela le bhukhmakhi ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -130,12 +95,14 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Tshintsha iisethingi zokukhangela
+
 search-one-offs-context-open-new-tab =
     .label = Khangela KweNtsha Nethebhu
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Seta Ibe Ziinjini Ezisisiseko Zokukhangela
     .accesskey = Z
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -167,6 +134,7 @@ identity-passive-loaded = Iinxalenye zeli phepha azikhuselekangae (njengemifanek
 identity-active-loaded = Ulucimile ukhuseleko kweli phepha.
 identity-weak-encryption = Eli phepha lisebenzisa ukukhowuda okubuthathaka.
 identity-insecure-login-forms = Iiogini ezifakwe kweli phepha zinokuba sengozini.
+
 identity-permissions-reload-hint = Kusenokufuneka uphinde ulifake eli phepha ukuze utshintsho lubonakale.
 identity-remove-cert-exception =
     .label = Susa Ezikhethekileyo
@@ -175,17 +143,12 @@ identity-description-insecure = Uqhagamshelo lwakho kule sayithi alukho bucala. 
 identity-description-insecure-login-forms = Inkcazelo yelogini oyifakayo kweli phepha ayikhuselekanga yaye ingalahleka.
 identity-description-weak-cipher-intro = Uqhagamshelo kule webhsayithi lusebenzisa ukukhowuda okubuthathaka yaye alukho bucala.
 identity-description-weak-cipher-risk = Abanye abantu banokujonga inkcazelo yakho okanye batshintshe indlela esebenza ngayo iwebhsayithi.
-identity-description-active-blocked = I-{ -brand-short-name } ibhloke iinxalenye zeli phepha ezingakhuselekanga. <label data-l10n-name="link">Funda Ngakumbi</label>
 identity-description-active-blocked2 = I-{ -brand-short-name } ibhloke iinxalenye zeli phepha ezingakhuselekanga.
 identity-description-passive-loaded = Uqhagamshelo lwakho alukho bucala yaye inkcazelo owabelana ngayo nale sayithi inokubonwa ngabanye.
-identity-description-passive-loaded-insecure = Le webhsayithi ineziqulatho ezingakhuselekanga (njengemifanekiso). <label data-l10n-name="link">Funda Ngakumbi</label>
-identity-description-passive-loaded-mixed = Nangona i-{ -brand-short-name } ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso). <label data-l10n-name="link">Funda Ngakumbi</label>
 identity-description-passive-loaded-insecure2 = Le webhsayithi ineziqulatho ezingakhuselekanga (njengemifanekiso).
 identity-description-passive-loaded-mixed2 = Nangona i-{ -brand-short-name } ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso).
 identity-description-active-loaded = Le webhsayithi inesiqulatho esingakhuselekanga (njengezikripti) yaye uqhagamshelo lwakho kuyo alukho bucala.
 identity-description-active-loaded-insecure = Inkcazelo owabelana ngayo nale sayithi inokujongwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).
-identity-learn-more =
-    .value = Funda Ngakumbi
 identity-disable-mixed-content-blocking =
     .label = Kunye nokhuseleko lusayekiwe
     .accesskey = K
@@ -227,11 +190,14 @@ popup-all-windows-shared = Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.
 
 urlbar-placeholder =
     .placeholder = Khangela okanye ngenisa idilesi
+
 urlbar-switch-to-tab =
     .value = Tshintshela kwithebhu:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Izolulo
+
 urlbar-go-button =
     .tooltiptext = Yiya kwidilesi kwibha yendawo
 urlbar-page-action-button =
@@ -277,9 +243,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ngoku siskrini esipheleleyo
 fullscreen-warning-no-domain = Olu xwebhu ngoku lusiskrini esipheleleyo
+
+
 fullscreen-exit-button = Phuma KwiSkrini Esipheleleyo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Phuma KwiSkrini Esipheleleyo (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -309,8 +278,7 @@ bookmarks-mobile-bookmarks-menu =
 
 bookmarks-search =
     .label = Khangela iiBhukhmakhi
-bookmarks-bookmark-edit-panel =
-    .label = Hlela Le Bhukhmakhi
+
 bookmarks-toolbar-menu =
     .label = Ithulbha yebhukhmakhi
 bookmarks-toolbar-placeholder =
@@ -332,19 +300,23 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = Ikhonkco le-imeyili
     .tooltiptext = Thumela ngeimeyile ikhonkco kweli khasi
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Gcina iphepha
     .tooltiptext = Gcina eli khasi ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Vula Ifayile
     .tooltiptext = Vula ifayile ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Iithebhu Ezingqamanisiweyo
     .tooltiptext = Bonisa iithebhu ezivela kwezinye izixhobo
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -372,6 +344,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Vumela okuzivelelayo { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Vumela okuzivelelayo { $uriHost }
     .accesskey = p
@@ -393,22 +366,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Okukhutshelwayo
+
 navbar-overflow =
     .tooltiptext = Izixhobo ezingakumbi…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Printa
     .tooltiptext = Printa eli phepha… ({ $shortcut })
+
 navbar-search =
     .title = Khangela
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Iithebhu zokubhrawuza
+
 tabs-toolbar-new-tab =
     .label = thebhu entsha
+
 tabs-toolbar-list-all-tabs =
     .label = Dwelisa zonke iithebhu
     .tooltiptext = Dwelisa zonke iithebhu
@@ -430,10 +409,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ithintele eli phepha ekukhupheleni ngokuzenzekela.
 refresh-blocked-redirect-label = { -brand-short-name } ithintele eli phepha ekuyeni kwelinye iphepha ngokuzenzekelayo.
+
 refresh-blocked-allow =
     .label = Vumela
     .accesskey = A
@@ -469,6 +452,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

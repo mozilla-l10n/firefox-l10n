@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Ifayile yaNgoku yokuLoga:
-about-logging-current-log-modules = Iimodyuli zaNgoku zokuLoga:
 about-logging-log-tutorial = Jonga i-<a data-l10n-name="logging">HTTP Logging</a> ukuze ufumane imiyalelo ngendlela yokusebenzisa esi sixhobo.
 about-logging-set-log-file = Seta iFayile yokuLoga
 about-logging-set-log-modules = Seta iiModyuli zokuLoga
 about-logging-start-logging = Qalisa ukuLoga
 about-logging-stop-logging = Yeka ukuLoga
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+
