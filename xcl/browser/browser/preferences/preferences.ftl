@@ -20,9 +20,25 @@ managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպո�
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 ## Preferences UI Search Results
 
 ## General Section
+
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+##
 
 
 ## General Section - Language & Appearance
@@ -61,6 +77,9 @@ managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպո�
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 ##
 
 
@@ -83,6 +102,16 @@ managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպո�
 ## Firefox Account - Signed in
 
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+## Firefox account - Signed in
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+##
+
 ## Sync section - enabling or disabling sync.
 
 
@@ -94,6 +123,9 @@ managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպո�
 
 ## The device name controls.
 
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
 
 ## Privacy Section
 
@@ -113,6 +145,8 @@ managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպո�
 ## Privacy Section - Site Data
 
 
+## Privacy Section - Cookie Banner Handling
+
 ## Privacy Section - Address Bar
 
 
@@ -125,6 +159,7 @@ managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպո�
 
 ##
 
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 ## Privacy Section - Tracking
 
@@ -145,6 +180,8 @@ managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպո�
 
 
 ## Privacy Section - HTTPS-Only
+
+## DoH Section
 
 ## The following strings are used in the Download section of settings
 

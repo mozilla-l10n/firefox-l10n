@@ -33,6 +33,7 @@ deniedPortAccess-title = Այս հասցէ արգելափակեալ է:
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Հնար չէ գտանել զայս կայս:
+
 fileNotFound-title = Նիշն գտեալ չէ:
 fileAccessDenied-title = Հասանելիութիւն նշին ժխտեալ է:
 generic-title = Վա՜յ։

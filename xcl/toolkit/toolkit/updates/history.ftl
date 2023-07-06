@@ -23,5 +23,7 @@ state-header = Վիճակ
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Մանրամասունք
+
 update-installed-on = Տեղադրեցաւ ի { $date }
+
 update-status = Վիճակ՝ { $status }
