@@ -44,6 +44,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = 用來診斷 WebRTC 問題的記錄模組
 about-logging-preset-custom-label = 自訂
 about-logging-preset-custom-description = 手動選擇的記錄模組
+
 # Error handling
 about-logging-error = 錯誤：
 
@@ -57,4 +58,5 @@ about-logging-unknown-profiler-preset = 預設效能檢測類型「{ $v }」未�
 about-logging-unknown-option = about:logging 選項「{ $k }」未知
 about-logging-configuration-url-ignored = 已忽略設定網址
 about-logging-file-and-profiler-override = 無法同時強制輸出到檔案並忽略效能檢測器選項
+
 about-logging-configured-via-url = 透過網址設定的選項

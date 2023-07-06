@@ -30,6 +30,7 @@ webrtc-item-browser = 分頁
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = 未知來源
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = 正在分享裝置的分頁
     .accesskey = d
+
 webrtc-sharing-window = 您正在分享其他應用程式視窗。
 webrtc-sharing-browser-window = 您正在分享 { -brand-short-name }。
 webrtc-sharing-screen = 您正在分享整個畫面。
@@ -91,26 +93,32 @@ webrtc-indicator-menuitem-control-sharing =
     .label = 調整分享的項目
 webrtc-indicator-menuitem-control-sharing-on =
     .label = 調整與「{ $streamTitle }」分享的項目
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = 與「{ $streamTitle }」分享攝影機
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label = 與 { $tabCount } 個分頁分享攝影機
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = 與「{ $streamTitle }」分享麥克風
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label = 與 { $tabCount } 個分頁分享麥克風
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = 與「{ $streamTitle }」分享應用程式
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label = 與 { $tabCount } 個分頁分享應用程式
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = 與「{ $streamTitle }」分享畫面
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label = 與 { $tabCount } 個分頁分享畫面
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = 與「{ $streamTitle }」分享視窗
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label = 正與 { $tabCount } 個分頁分享視窗
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = 與「{ $streamTitle }」分享分頁
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -139,7 +147,6 @@ webrtc-allow-share-screen-and-audio-capture = 要允許 { $origin } 聽到這個
 
 webrtc-allow-share-audio-capture-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 聽到此分頁播放的音訊嗎？
 webrtc-allow-share-camera-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 使用您的攝影機與麥克風嗎？
-webrtc-allow-share-microphone-unsafe-delegations = 要允許 { $origin } 授權 { $thirdParty } 使用您的麥克風嗎？
 webrtc-allow-share-microphone-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 使用您的麥克風嗎？
 webrtc-allow-share-screen-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 看到您的螢幕畫面嗎？
 # "Speakers" is used in a general sense that might include headphones or
@@ -154,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = 要允許 { $ori
 
 webrtc-share-screen-warning = 請僅與您信任的網站分享畫面。惡意網站可能會盜用您的身分瀏覽，並偷走您的隱私資料。
 webrtc-share-browser-warning = 請僅與您信任的網站分享 { -brand-short-name }。惡意網站可能會盜用您的身分瀏覽，並偷走您的隱私資料。
+
 webrtc-share-screen-learn-more = 了解更多
 webrtc-pick-window-or-screen = 選擇視窗或畫面
 webrtc-share-entire-screen = 整個畫面
@@ -185,6 +193,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = 記住此決定
 webrtc-mute-notifications-checkbox = 分享視窗或畫面時，隱藏網站通知
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } 無法永久允許存取您的畫面
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } 無法永久允許不先詢問要分享哪一個分頁就直接存取音訊內容。
 webrtc-reason-for-no-permanent-allow-insecure = 您與此網站間的連線並不安全。為了保護您，{ -brand-short-name } 將只允許在此次瀏覽階段連線。

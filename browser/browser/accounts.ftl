@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = 完成帳號設定
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = 帳號已取消連結
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = 傳送到所有裝置
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = 管理裝置…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = 管理裝置…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = 沒有已連結的裝置
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = 了解傳送分頁…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = 連結其他裝置…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = 確認您的帳號…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = 此電腦已連結至 { $deviceName }。
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = 此電腦已與新裝置連結。
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = 成功登入
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = 此電腦已取消連結。
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = 收到分頁
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = 來自 { $deviceName } 的分頁
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = 收到分頁
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device = 收到來自 { $deviceName } 的 { $tabCount } 個分頁

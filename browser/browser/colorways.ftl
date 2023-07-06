@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = 獨立之聲
-colorway-collection-independent-voices-description = 色彩可以改變文化，最新的配色慶祝讓世界變得更美好的聲音。
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = 改變文化的色彩。
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = 控球後衛

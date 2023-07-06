@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 離開 { -brand-shorter-name }
+
 menu-about =
     .label = 關於 { -brand-shorter-name }
     .accesskey = A
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = 最近關閉的分頁
 menu-history-undo-window-menu =
     .label = 最近關閉的視窗
-menu-history-reopen-all-tabs = 回復所有分頁
-menu-history-reopen-all-windows = 回復所有視窗
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = 管理書籤
-menu-bookmark-current-tab =
-    .label = 將目前分頁加入書籤
-menu-bookmark-edit =
-    .label = 編輯此書籤
 menu-bookmark-tab =
     .label = 將目前分頁加入書籤…
 menu-edit-bookmark =
