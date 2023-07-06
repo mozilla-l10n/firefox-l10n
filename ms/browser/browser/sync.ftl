@@ -6,6 +6,8 @@
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label = Hantar { $tabCount } Tab ke Peranti
+
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Sync Peranti…
+

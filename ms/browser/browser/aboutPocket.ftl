@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = Simpan
 pocket-panel-saved-saving-tags = Sedang menyimpan…
 pocket-panel-saved-suggested-tags = Tag Disyorkan
 pocket-panel-saved-tags-saved = Tag Ditambah
-pocket-panel-signup-view-list = Senarai Paparan
 
 ## about:pocket-signup panel
 

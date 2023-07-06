@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Jangan Keluar
        *[other] Jangan Keluar
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Jika anda keluar talian sekarang, 1 muaturunakan dibatalkan. Adakah anda ingin keluar talian sekarang?
        *[other] Jika anda keluar talian sekarang, { $downloadsCount } muaturun akan dibatalkan. Adakah anda ingin keluar talian sekarang?
     }
 download-ui-dont-go-offline-button = Kekal Dalam Talian
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Jika anda tutup semua tetingkap Pelayaran Peribadi sekarang, 1 muat turun akan dibatalkan. Anda pasti untuk meninggalkan Pelayaran Peribadi?
        *[other] Jika anda tutup semua tetingkap Pelayaran Peribadi sekarang, { $downloadsCount } muat turun akan dibatalkan. Anda pasti untuk meninggalkan Pelayaran Peribadi?
     }
 download-ui-dont-leave-private-browsing-button = Teruskan guna Pelayaran Peribadi
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Batal 1 Muaturun

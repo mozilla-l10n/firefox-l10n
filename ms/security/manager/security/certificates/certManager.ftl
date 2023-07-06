@@ -21,10 +21,6 @@ certmgr-mine = Anda memiliki sijil daripada organisasi ini yang mengenali anda
 certmgr-people = Anda memiliki sijil fail yang mengenal pasti orang ini
 certmgr-ca = Anda memiliki sijil fail yang mengenal pasti autoriti sijil ini
 
-certmgr-edit-ca-cert =
-    .title = Edit tetapan sijil CA dipercaya
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Edit tetapan sijil CA dipercaya
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Sijil ini boleh mengenal pasti pengguna e-mel.
 
-certmgr-delete-cert =
-    .title = Buang Sijil
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Buang Sijil
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Pelayan
-
-certmgr-override-lifetime =
-    .label = Seumur hidup
 
 certmgr-token-name =
     .label = Peranti Sekuriti

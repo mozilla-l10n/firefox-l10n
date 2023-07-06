@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Ada ralat semasa menyambung ke { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Kod ralat: { $error }
-
 psmerr-ssl-disabled = Tidak dapat sambung dengan selamat kerana  protokol SSL telah dilumpuh.
 psmerr-ssl2-disabled = Tidak dapat sambung dengan selamat kerana laman tersebut menggunakan versi protokol SSL yang lama dan tidak selamat.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Tiada konfigurasi untuk algoritma t
 ssl-error-unsupported-signature-algorithm = Rakan menggunakan kombinasi tandatangan dan algoritma cincang yang tidak disokong.
 ssl-error-missing-extended-master-secret = Rakan cuba menyambung semula tanpa ekstensi extended_master_secret yang betul.
 ssl-error-unexpected-extended-master-secret = Rakan cuba untuk menyambung semula dengan ekstensi extended_master_secret yang tidak dijangka.
+
 sec-error-io = Kesalahan I/O berlaku semasa pengesahan keselamatan.
 sec-error-library-failure = Kegagalan Sekuriti Perpustakaan.
 sec-error-bad-data = Sekuriti Perpustakaan: menerima data yang buruk.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Tidak dapat dinyahenkripsi: kunci algoritma en
 sec-error-pkcs7-bad-signature = Tandatangan penentusahan telah gagal: tidak ada penandatangan , didapati terlalu banyak penandatangan, atau tidak sempurna atau data tercemar.
 sec-error-unsupported-keyalg = Kekunci algoritma tidak disokong atau tidak diketahui.
 sec-error-decryption-disallowed = Tidak dapat dinyahenkripsi: dienkripsi menggunakan algoritma atau saiz kunci yang tidak dibenarkan.
-xp-sec-fortezza-bad-card = Kad Fortezza telah dimulakan dengan betul. Sila alih keluar dan pulangkan semula kepada pengeluar.
-xp-sec-fortezza-no-card = Tiada kad Fortezza ditemui
-xp-sec-fortezza-none-selected = Tiada kad Fortezza dipilih
-xp-sec-fortezza-more-info = Sila pilih satu personaliti untuk mendapatkan maklumat yang lebih lanjut
-xp-sec-fortezza-person-not-found = Personaliti tidak ditemui
-xp-sec-fortezza-no-more-info = Tiada maklumat lanjut tentang personaliti ini
-xp-sec-fortezza-bad-pin = Pin Tidak Sah
-xp-sec-fortezza-person-error = Tidak dapat memulakan personaliti Fortezza.
 sec-error-no-krl = Tiada sijil KRL untuk laman ini yang ditemui.
 sec-error-krl-expired = KRL bagi sijil laman ini telah luput.
 sec-error-krl-bad-signature = KRL bagi sijil laman ini mendapati satu tandatangan yang tidak sah.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Suatu sijil dengan nama panggilan yang sama 
 sec-error-key-nickname-collision = Suatu kunci dengan nama panggilan yang sama telahpun wujud.
 sec-error-safe-not-created = ralat apabila mencipta objek simpanan
 sec-error-baggage-not-created = ralat semasa mencipta objek bagasi.
-xp-java-remove-principal-error = Tidak dapat mengalih keluar prinsipal
-xp-java-delete-privilege-error = Tidak dapat menghapuskan keistimewaan
-xp-java-cert-not-exists-error = Prinsipal ini tidak mempunyai sijil
 sec-error-bad-export-algorithm = Algoritma yang dikehendaki adalah tidak dibenarkan.
 sec-error-exporting-certificates = Ralat ketika cuba untuk mengeksport sijil-sijil.
 sec-error-importing-certificates = Ralat ketika cuba mengimport sijil-sijil.
@@ -338,6 +319,7 @@ sec-error-locked-password = Kata laluan dikunci.
 sec-error-unknown-pkcs11-error = Kesilapan PKCS #11 tidak dikenali.
 sec-error-bad-crl-dp-url = URL sah atau tidak disokong nama pusat dalam pembahagian CRL.
 sec-error-cert-signature-algorithm-disabled = Sijil ditandatangan menggunakan algoritma yang dilumpuhkan kerana tidak selamat.
+
 mozilla-pkix-error-key-pinning-failure = Pelayan menggunakan kep pinning (HPKP) tetapi tiada rantai sijil yang boleh dipercayai dapat dibina sepadan dengan pinset. Pelanggaran key pinning tidak dapat dibatalkan.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Pelayan menggunakan sijil dengan ektensi kekangan asas lalu mengenalpastinya sebagai autoriti sijil. Untuk sijil yang dikeluarkan dengan betul, hal ini tidak seharusnya berlaku.
 mozilla-pkix-error-inadequate-key-size = Pelayan menyerahkan sijil dengan saiz kunci yang terlalu kecil untuk mewujudkan sambungan yang selamat.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Pelayan menyerahkan sijil yang men
 mozilla-pkix-error-empty-issuer-name = Pelayan menyerahkan sijil tanpa nama unggul pengeluar.
 mozilla-pkix-error-additional-policy-constraint-failed = Kekangan polisi tambahan telah gagal apabila mengesahkan sijil ini.
 mozilla-pkix-error-self-signed-cert = Sijil ini tidak boleh dipercayai kerana ditandatangani sendiri.
+
+xp-java-remove-principal-error = Tidak dapat mengalih keluar prinsipal
+xp-java-delete-privilege-error = Tidak dapat menghapuskan keistimewaan
+xp-java-cert-not-exists-error = Prinsipal ini tidak mempunyai sijil
+
+xp-sec-fortezza-bad-card = Kad Fortezza telah dimulakan dengan betul. Sila alih keluar dan pulangkan semula kepada pengeluar.
+xp-sec-fortezza-no-card = Tiada kad Fortezza ditemui
+xp-sec-fortezza-none-selected = Tiada kad Fortezza dipilih
+xp-sec-fortezza-more-info = Sila pilih satu personaliti untuk mendapatkan maklumat yang lebih lanjut
+xp-sec-fortezza-person-not-found = Personaliti tidak ditemui
+xp-sec-fortezza-no-more-info = Tiada maklumat lanjut tentang personaliti ini
+xp-sec-fortezza-bad-pin = Pin Tidak Sah
+xp-sec-fortezza-person-error = Tidak dapat memulakan personaliti Fortezza.

@@ -40,5 +40,9 @@ url-classifier-disabled = Dinyahdayakan
 url-classifier-updating = mengemas kini
 url-classifier-cannot-update = tidak dapat mengemas kini
 url-classifier-success = berjaya
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = ralat pengemaskinian ({ $error })
 url-classifier-download-error = ralat muat turun ({ $error })

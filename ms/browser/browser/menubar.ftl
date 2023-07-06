@@ -34,9 +34,11 @@ menu-quit =
             [windows] K
            *[other] K
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Keluar { -brand-shorter-name }
+
 menu-about =
     .label = Perihal { -brand-shorter-name }
     .accesskey = P
@@ -194,8 +196,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Tandabuku
     .accesskey = B
-menu-bookmark-edit =
-    .label = Edit Tandabuku Ini
 menu-bookmarks-all-tabs =
     .label = Tandabuku Semua Tab…
 menu-bookmarks-toolbar =
