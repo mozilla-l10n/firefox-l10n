@@ -7,6 +7,8 @@
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC Logging
@@ -14,6 +16,7 @@ about-webrtc-aec-logging-off-state-label = Start AEC Logging
 about-webrtc-aec-logging-on-state-label = Ngót~tòɁ AEC Logging
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -75,11 +78,18 @@ about-webrtc-log-clear = M-tòb kì Log
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (TòɁw=lá) { $now }
 
+## These are used to indicate what direction media is flowing.
+## Variables:
+##  $codecs - a list of media codecs
+
 ##
 
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+
+## These are displayed on the button that shows or hides the
+## PeerConnection configuration disclosure
 
 ##
 
@@ -95,6 +105,12 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (TòɁw=
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
 
 ##
 

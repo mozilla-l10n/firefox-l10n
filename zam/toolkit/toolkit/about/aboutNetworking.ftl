@@ -25,9 +25,6 @@ about-networking-messages-received = Dizh kàyáɁ
 about-networking-bytes-sent = Byte brú
 about-networking-bytes-received = Pló byte kàyáɁ
 about-networking-logging = Gú
-about-networking-log-tutorial = Güí <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
-about-networking-start-logging = Ngót~tòɁ Logging
-about-networking-stop-logging = Ngót~tòɁ Logging
 about-networking-dns-lookup = Kúan DNS
 about-networking-dns-lookup-button = Thus kuey
 about-networking-dns-domain = Pá xöy:

@@ -6,4 +6,9 @@ about-logging-log-tutorial = Güí <a data-l10n-name="logging">HTTP Logging</a> 
 about-logging-start-logging = Ngót~tòɁ Logging
 about-logging-stop-logging = Ngót~tòɁ Logging
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

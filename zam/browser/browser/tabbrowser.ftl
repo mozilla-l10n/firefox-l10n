@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Loo kub
+
 tabbrowser-menuitem-close-tab =
     .label = TòɁw Loo yib
 tabbrowser-menuitem-close =
@@ -39,4 +40,6 @@ tabbrowser-customizemode-tab-title = Tùs kùe { -brand-short-name }
 
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

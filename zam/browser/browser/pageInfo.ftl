@@ -63,3 +63,6 @@ saved-passwords-yes = ăɁ
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
 
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+

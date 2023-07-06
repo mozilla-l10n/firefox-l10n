@@ -70,3 +70,7 @@ permissions-capabilities-listitem-allow-session =
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

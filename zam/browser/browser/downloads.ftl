@@ -28,6 +28,7 @@ downloads-cmd-pause =
 downloads-cmd-clear-downloads =
     .label = Tòmbî ner b-là
     .accesskey = b
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =

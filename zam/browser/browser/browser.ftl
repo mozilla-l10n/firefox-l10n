@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Luu ta tak güi Internet )
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Luu ta tak güi Internet )
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Luu ta tak güi Internet )
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Luu ta tak güi Internet )
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -50,9 +17,6 @@ urlbar-identity-button =
     .aria-label = Mbwíʔ yêts ré
 
 ## Tooltips for images appearing in the address bar
-
-urlbar-translate-notification-anchor =
-    .tooltiptext = Zè díʔz
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -69,6 +33,7 @@ urlbar-translate-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tùs kùe ndó~làz=ná ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -107,9 +72,6 @@ full-screen-exit =
 
 ## Identity Panel
 
-identity-learn-more =
-    .value = Lab Kue
-
 ## Window controls
 
 browser-window-minimize-button =
@@ -141,8 +103,10 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Kuan dee kuan luu
+
 urlbar-switch-to-tab =
     .value = Xhe loo gibb:
+
 urlbar-go-button =
     .tooltiptext = Cuan taa diff loo
 
@@ -180,6 +144,8 @@ reader-view-close-button =
 ## Full Screen and Pointer Lock UI
 
 fullscreen-warning-no-domain = Yêtz ré de loo lo narú
+
+
 fullscreen-exit-button = Mb-ròɁ lô (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
@@ -207,8 +173,7 @@ bookmarks-mobile-bookmarks-menu =
 
 bookmarks-search =
     .label = KwàɁn ndó~làz=ná
-bookmarks-bookmark-edit-panel =
-    .label = Tùs kùe Ndó~làz=ná
+
 bookmarks-toolbar-menu =
     .label = Té tak güin ko ndó~làz=ná
 bookmarks-toolbar-placeholder =
@@ -265,17 +230,22 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Koo blaal
+
 navbar-overflow =
     .tooltiptext = Loo ree yibb...
+
 navbar-search =
     .title = KwàɁn
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Gua let lo loo
+
 tabs-toolbar-new-tab =
     .label = Xhal loo kub
+
 tabs-toolbar-list-all-tabs =
     .label = Loo ree taa loo
     .tooltiptext = Loo ree taa loo
@@ -293,6 +263,9 @@ tabs-toolbar-list-all-tabs =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 
@@ -304,6 +277,8 @@ tabs-toolbar-list-all-tabs =
 
 ## Pop-up Notification
 
+
+## Add-on Pop-up Notifications
 
 ## Pop-up warning
 

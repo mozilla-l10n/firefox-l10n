@@ -8,10 +8,6 @@
 ## menu. That menu is activated by right-clicking a bookmark in the Library
 ## window. The bookmarks manager context's strings are located in places.ftl.
 
-synced-tabs-context-bookmark-single-tab =
-    .label = Tób kùe loo ndó~làz=ná...
-    .accesskey = d
-
 ##
 
 synced-tabs-context-copy =

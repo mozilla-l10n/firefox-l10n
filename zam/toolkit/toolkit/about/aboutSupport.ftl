@@ -57,6 +57,8 @@ sandbox-sys-call-number = Syscall
 
 audio-backend = Audio Backend
 
+## Codec support table
+
 ##
 
 

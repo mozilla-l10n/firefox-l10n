@@ -159,14 +159,6 @@ main-context-menu-video-email =
     .label = Taal gib koo loo xha dedizh men ner niemen loo diif taal...
     .accesskey = g
 
-main-context-menu-plugin-play =
-    .label = La kii kue
-    .accesskey = a
-
-main-context-menu-plugin-hide =
-    .label = Kás~lô yib
-    .accesskey = K
-
 main-context-menu-send-to-device =
     .label = m-tàl=là loo Yib
     .accesskey = Y
@@ -204,10 +196,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = TeɁ zàp loo ré
     .accesskey = r
-
-main-context-menu-frame-bookmark =
-    .label = Toob kue lent koo más doo lash naa
-    .accesskey = o
 
 main-context-menu-frame-save-as =
     .label = Loo xhog kue...

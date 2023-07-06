@@ -4,19 +4,26 @@
 
 bookmark-overlay-choose =
     .label = Mxhen na...
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Loo koo ree ta do lash na
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Kás~lô
+
 bookmark-overlay-folders-expander2 =
     .tooltiptext = Loo koo ree ta do lash na
+
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = Kás~lô
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Mb-lòɁ ré tá
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Kás~lô
+
 bookmark-overlay-tags-expander2 =
     .tooltiptext = Mb-lòɁ ré tá
+
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Kás~lô
+

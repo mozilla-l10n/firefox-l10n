@@ -13,10 +13,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Delan certificado
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Delan certificado
     .style = min-width: 46em
@@ -31,4 +27,5 @@ download-cert-view-cert =
 
 ## Protected Auth dialog
 
-protected-auth-token = Token:
+## Protected authentication alert
+
