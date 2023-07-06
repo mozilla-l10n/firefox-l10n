@@ -54,10 +54,12 @@ download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (ඉතා
 #   $timeLeft (string) - Time left.
 #   $transfer (string) - Transfer progress.
 download-utils-status-no-rate = { $timeLeft } — { $transfer }
+
 download-utils-bytes = බයිට
 download-utils-kilobyte = කි.බ.
 download-utils-megabyte = මෙ.බ.
 download-utils-gigabyte = ගි.බ.
+
 # example: 1.1 of 333 MB
 # Variables:
 #   $progress (string) - Progress number.
@@ -76,6 +78,7 @@ download-utils-transfer-diff-units = { $totalUnits } { $total } න් { $progre
 #   $progress (string) - Progress number.
 #   $progressUnits (string) - Unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+
 # examples: 1m; 11h
 # Variables:
 #   $time (string) - Time number.
@@ -92,11 +95,13 @@ download-utils-time-left-single = { $time } ක් ඉතිරියි
 download-utils-time-left-double = { $time1 } { $time2 } ක් ඉතිරියි
 download-utils-time-few-seconds = තත්පර කිහිපයක් ඉතිරියි
 download-utils-time-unknown = ඉතිරි කාලය නොදනී
+
 # Variables:
 #   $scheme (string) - URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } සම්පත
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = ස්ථානීය ගොනුව
+
 # Displayed time for files finished yesterday
 download-utils-yesterday = ඊයේ

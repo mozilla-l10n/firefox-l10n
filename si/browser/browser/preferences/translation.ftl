@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-translation-window =
-    .title = හැරදැමීම් - පරිවර්තනය
-    .style = width: 36em
-
 translation-window2 =
     .title = හැරදැමීම් - පරිවර්තනය
     .style = min-width: 36em

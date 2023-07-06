@@ -5,8 +5,10 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = පිටුව පරිවර්තනය කරන්න
+
 translations-panel-settings-button =
     .aria-label = පරිවර්තන සැකසුම් කළමනාකරණය
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -47,6 +49,7 @@ translations-manage-language-download-button =
 translations-manage-language-delete-button =
     .label = මකන්න
     .accesskey = e
+
 translations-settings-title =
     .title = පරිවර්තන සැකසුම්
     .style = min-width: 36em

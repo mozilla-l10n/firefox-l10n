@@ -9,6 +9,7 @@
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -46,17 +47,22 @@ migration-wizard-migrator-display-name-vivaldi = විවාල්ඩි
 
 migration-select-all-option-label = සියල්ල තෝරන්න
 migration-bookmarks-option-label = පොත්යොමු
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = ප්‍රියතමයන්
+
 migration-logins-and-passwords-option-label = සුරැකි පිවිසුම් සහ මුරපද
 migration-history-option-label = පිරික්සුම් ඉතිහාසය
 migration-extensions-option-label = දිගු
+
 migration-cookies-option-label = දත්තකඩ
 migration-session-option-label = කවුළු හා පටිති
 migration-otherdata-option-label = වෙනත් දත්ත
+
 migration-passwords-new = නව මුරපද
 migration-passwords-updated = පවතින මුරපද
+
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,9 +77,11 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV ලේඛනය
        *[other] TSV ගොනුව
     }
+
 migration-bookmarks-from-file-progress-header = පොත්යොමු ආයාත වෙමින්
 migration-bookmarks-from-file = පොත්යොමු
 migration-bookmarks-from-file-success-header = පොත්යොමු සාර්ථකව ආයාත කෙරිණි
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -81,9 +89,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML ලේඛනය
        *[other] HTML ගොනුව
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON ගොනුව
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -94,6 +104,7 @@ migration-wizard-progress-success-new-bookmarks =
         [one] පොත්යොමු { $newEntries }
        *[other] පොත්යොමු { $newEntries }
     }
+
 migration-import-button-label = ආයාතය
 migration-import-from-file-button-label = ගොනුවක් තෝරන්න
 migration-cancel-button-label = අවලංගු
@@ -107,6 +118,7 @@ migration-continue-button-label = ඉදිරියට
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = පොත්යොමු
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = ප්‍රියතමයන්
@@ -124,8 +136,11 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = ආයාත වෙමින්...
 migration-wizard-progress-icon-completed =
     .aria-label = සම්පූර්ණයි
+
 migration-safari-password-import-skip-button = මඟහරින්න
 migration-safari-password-import-select-button = ගොනුවක් තෝරන්න
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -136,6 +151,7 @@ migration-wizard-progress-success-bookmarks =
         [one] පොත්යොමු { $quantity }
        *[other] පොත්යොමු { $quantity }
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -166,5 +182,7 @@ migration-wizard-progress-success-passwords =
         [one] මුරපද { $quantity }
        *[other] මුරපද { $quantity }
     }
+
 migration-wizard-progress-success-formdata = ආකෘති ඉතිහාසය
+
 migration-wizard-safari-instructions-continue = “ඉදිරියට” තෝරන්න

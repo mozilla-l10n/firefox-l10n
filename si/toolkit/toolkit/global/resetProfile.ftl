@@ -9,6 +9,7 @@ refresh-profile-dialog-description = කාර්ය සාධන ගැටළ�
 refresh-profile = { -brand-short-name } සුසර කරන්න
 refresh-profile-button = { -brand-short-name } නැවුම් කරන්න...
 refresh-profile-learn-more = තව දැනගන්න
+
 refresh-profile-progress =
     .title = { -brand-short-name } නැවුම් කරන්න
 refresh-profile-progress-description = බොහෝ දුරට නිමයි…

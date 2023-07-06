@@ -15,7 +15,9 @@ origin-controls-option-all-domains =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-when-clicked = දත්ත කියවීමට හා සංශෝධනයට අවසරය අවශ්‍යයි
+
 origin-controls-state-runnable-hover-open = දිගුව අරින්න
+
 origin-controls-state-runnable-hover-run = දිගුව ධාවනය
 
 ## Extension's toolbar button.
@@ -25,6 +27,7 @@ origin-controls-state-runnable-hover-run = දිගුව ධාවනය
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -32,3 +35,4 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         අවසරය අවශ්‍යයි
+

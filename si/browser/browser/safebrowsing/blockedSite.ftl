@@ -7,6 +7,27 @@ safeb-blocked-malware-page-title = මෙම අඩවියට ගොඩවැ�
 safeb-palm-advisory-desc = උපදේශනය <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = ආපසු යන්න
 safeb-palm-see-details-label = විස්තර බලන්න
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
 safeb-palm-notdeceptive =
     .label = මෙය කූට අඩවියක් නොවේ
     .accesskey = d
