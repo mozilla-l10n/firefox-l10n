@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = এই পৃষ্ঠাখন বুকমাৰ্ক কৰক
-    .accesskey = m
-    .tooltiptext = এই পৃষ্ঠাখন বুকমাৰ্ক কৰক
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = পৃষ্ঠা বুকমাৰ্ক কৰক
-    .accesskey = ক
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = বুকমাৰ্ক সম্পাদন কৰক
-    .accesskey = ক
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = এই পৃষ্ঠাখন বুকমাৰ্ক কৰক
-    .accesskey = m
-    .tooltiptext = এই পৃষ্ঠাখন বুকমাৰ্ক কৰক ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = এই বুকমাৰ্ক সম্পাদন কৰক
-    .accesskey = m
-    .tooltiptext = এই বুকমাৰ্ক সম্পাদন কৰক
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = এই বুকমাৰ্ক সম্পাদন কৰক
-    .accesskey = m
-    .tooltiptext = এই বুকমাৰ্ক সম্পাদন কৰক ({ $shortcut })
-
 main-context-menu-open-link =
     .label = লিংক খোলক
     .accesskey = O
@@ -153,10 +115,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = এটা নতুন ব্যক্তিগত উইণ্ড'ত লিংক খোলক
     .accesskey = P
-
-main-context-menu-bookmark-link =
-    .label = লিংক বুকমাৰ্ক কৰক
-    .accesskey = ৰ
 
 main-context-menu-save-link =
     .label = এই ধৰণে লিংক সংৰক্ষণ কৰক…
@@ -325,14 +283,6 @@ main-context-menu-audio-email =
     .label = অডিঅ' ইমেইল কৰক…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = এই প্লাগিন সক্ৰিয় কৰক
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = এই প্লাগিন লুকাওক
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = পৃষ্ঠা { -pocket-brand-name }-ত সাঁচি থওক
     .accesskey = k
@@ -391,10 +341,6 @@ main-context-menu-frame-reload =
     .label = ফ্ৰেইম পুনৰ ল'ড কৰক
     .accesskey = R
 
-main-context-menu-frame-bookmark =
-    .label = এই ফ্ৰেইম পত্ৰচিহ্ন কৰক
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = এই ধৰণে ফ্ৰেইম সংৰক্ষণ কৰক…
     .accesskey = F
@@ -410,10 +356,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = ফ্ৰেইম তথ্য দৰ্শন কৰক
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = বাছনি প্ৰিণ্ট কৰক
-    .accesskey = r
 
 main-context-menu-view-selection-source =
     .label = নিৰ্বাচিত উৎস দৰ্শন

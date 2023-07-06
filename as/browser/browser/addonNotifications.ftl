@@ -14,6 +14,7 @@ xpinstall-prompt-message = আপুনি { $host }-ৰ এড-অন এটা
 
 xpinstall-prompt-header-unknown = এটা অজ্ঞাত ছাইটক এড-অন ইনষ্টল কৰাৰ অনুমতি দিবনে?
 xpinstall-prompt-message-unknown = আপুনি এটা অজ্ঞাত ছাইটৰ এড-অন ইনষ্টল কৰাৰ চেষ্টা কৰি আছে। অব্যাহত ৰখাৰ আগতে আপুনি এই ছাইটটোক বিশ্বাস কৰাটো নিশ্চিত কৰক।
+
 xpinstall-prompt-dont-allow =
     .label = অনুমতি নিদিব
     .accesskey = D
@@ -44,7 +45,9 @@ xpinstall-disabled-button =
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } আঁতৰাবনে?
 addon-removal-abuse-report-checkbox = { -vendor-short-name }-ক এই এক্সটেনশ্যনৰ প্ৰতিবেদন দিয়ক
+
 addon-download-verifying = সতা সত্য নিৰূপন কৰা হৈ আছে
+
 addon-install-accept-button =
     .label = যোগ কৰক
     .accesskey = A

@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = সন্ধান কৰক
 config-new-pref-name =
     .placeholder = নাম
+
 config-new-pref-value-boolean = বুলিয়েন
 config-new-pref-value-string = স্ট্ৰিং
 config-new-pref-value-integer = পূৰ্ণ সংখ্যা
+
 config-new-pref-string =
     .placeholder = এটা স্ট্ৰিং সুমুৱাওক
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = বাতিল কৰক
 config-new-pref-create-button = সৃষ্টি কৰক
 config-new-pref-change-button = পৰিবৰ্তন কৰক
+
 config-pref-toggle-button = টগল কৰক
 config-pref-reset-button = পুনৰ ছেট কৰক
+
 config-context-menu-copy-pref-name =
     .label = নাম কপি কৰক
 config-context-menu-copy-pref-value =

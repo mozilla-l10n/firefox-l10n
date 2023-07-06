@@ -135,3 +135,4 @@ browser-data-session-checkbox =
     .label = উইণ্ড' আৰু টেববোৰ
 browser-data-session-label =
     .value = উইণ্ড' আৰু টেববোৰ
+

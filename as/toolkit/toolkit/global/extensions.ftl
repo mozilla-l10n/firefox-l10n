@@ -20,12 +20,15 @@ webext-perms-add =
 webext-perms-cancel =
     .label = বাতিল কৰক
     .accesskey = C
+
 webext-perms-sideload-cancel =
     .label = বাতিল কৰক
     .accesskey = C
+
 webext-perms-update-accept =
     .label = আপডেট কৰক
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = ই বিচাৰিছে:
 webext-perms-optional-perms-allow =
     .label = অনুমতি দিয়ক

@@ -18,6 +18,7 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
+
 downloads-cmd-pause =
     .label = বিৰাম দিয়ক
     .accesskey = P
@@ -37,6 +38,7 @@ downloads-cmd-cancel-panel =
 downloads-cmd-use-system-default =
     .label = ছিষ্টেম ভিউৱাৰত খোলক
     .accesskey = V
+
 downloads-cmd-always-use-system-default =
     .label = সদায়ে ছিষ্টেম ভিউৱাৰত খুলিব
     .accesskey = w
@@ -64,33 +66,42 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ডাউনল'ডসমূহ পৰিষ্কাৰ কৰক
     .accesskey = D
+
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = ডাউনল'ডৰ অনুমতি দিয়ক
     .accesskey = o
+
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = ফাইল আঁতৰাওক
+
 downloads-cmd-remove-file-panel =
     .aria-label = ফাইল আঁতৰাওক
+
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = ফাইল আঁতৰাওক বা ডাউনল'ডৰ অনুমতি দিয়ক
+
 downloads-cmd-choose-unblock-panel =
     .aria-label = ফাইল আঁতৰাওক বা ডাউনল'ডৰ অনুমতি দিয়ক
+
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = ফাইল খোলক বা আঁতৰাওক
+
 downloads-cmd-choose-open-panel =
     .aria-label = ফাইল খোলক বা আঁতৰাওক
+
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = অধিক তথ্য দেখুৱাওক
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -104,11 +115,6 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
-downloading-file-opens-in-hours-and-minutes = { $hours }ঘঃ { $minutes }মিঃ পাছত খোল খাব…
-downloading-file-opens-in-minutes = { $minutes }মিঃ পাছত খোল খাব…
-downloading-file-opens-in-minutes-and-seconds = { $minutes }মিঃ { $seconds }ছেঃ পাছত খোল খাব…
-downloading-file-opens-in-seconds = { $seconds }ছেঃ পাছত খোল খাব…
-downloading-file-opens-in-some-time = শেষ হ'লে খোল খাব…
 downloading-file-opens-in-hours-and-minutes-2 =
     .value = { $hours }ঘঃ { $minutes }মিঃ পাছত খোল খাব…
 downloading-file-opens-in-minutes-2 =
@@ -126,16 +132,19 @@ downloading-file-opens-in-some-time-2 =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = ডাউনল'ড পুনঃচেষ্টা কৰক
+
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = ডাউনল'ড বাতিল কৰক
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = সকলো ডাউনল'ড দেখুৱাওক
     .accesskey = S
+
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -152,10 +161,12 @@ downloads-details =
 downloads-clear-downloads-button =
     .label = ডাউনল'ডসমূহ পৰিষ্কাৰ কৰক
     .tooltiptext = সম্পূৰ্ণ, বাতিল কৰা আৰু ব্যৰ্থ ডাউনল'ডসমূহ পৰিষ্কাৰ কৰে
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = কোনো ডাউনল'ড নাই।
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = এই অধিবেশনৰ বাবে কোনো ডাউনল'ড নাই।

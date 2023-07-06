@@ -7,11 +7,6 @@ about-logins-page-title = লগইন আৰু পাছৱৰ্ড
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = লগইনৰ সন্ধান কৰক
-
-create-login-button = নতুন লগইন সৃষ্টি কৰক
-
 fxaccounts-sign-in-text = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ অন্যান্য ডিভাইচত পাওক
 fxaccounts-sign-in-sync-button = ছিংক কৰিবলৈ ছাইন ইন কৰক
 fxaccounts-avatar-button =
@@ -100,9 +95,10 @@ login-item-copied-password-button-text = কপি কৰা হল!
 login-item-save-changes-button = সাল-সলনি সঞ্চয়
 login-item-save-new-button = সঞ্চয়
 login-item-cancel-button = বাতিল
-login-item-time-changed = শেষবাৰ সলনি হৈছিল: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = সৃষ্টি কৰা হৈছিল: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = শেষবাৰ ব্যৱহৃত: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -157,6 +153,9 @@ about-logins-confirm-remove-dialog-title = এই লগিন আঁতৰা�
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
 about-logins-confirm-remove-dialog-confirm-button = আঁতৰাওক
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] আঁতৰাওক
@@ -195,6 +194,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] ই আপোনাৰ { -fxaccount-brand-name }-ৰ লগত ছিংক কৰা সকলো ডিভাইচত আপুনি { -brand-short-name }-ত সাঁচি থোৱা সকলো লগিন আঁতৰাই দিব। ই ইয়াত দেখা দিয়া উলংঘনৰ সতৰ্কবাণীও আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
     }
 
+##
+
 about-logins-confirm-export-dialog-title = লগিন আৰু পাছৱৰ্ড ৰপ্তানি কৰক
 about-logins-confirm-export-dialog-message = আপোনাৰ পাছৱৰ্ডসমূহ পঢ়াযোগ্য পাঠ (যেনে- BadP@ssw0rd) হিচাপে সঞ্চয় কৰা হ'ব গতিকে ৰপ্তানি ফাইলটো খুলিব পৰা যিকোনো ব্যক্তিয়ে সেয়া চাব পাৰে।
 about-logins-confirm-export-dialog-confirm-button = ৰপ্তানি কৰক…
@@ -214,7 +215,6 @@ about-logins-breach-alert-date = এই উলংঘন { DATETIME($date, day: "
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname }-লৈ যাওক
-about-logins-breach-alert-learn-more-link = অধিক জানক
 
 ## Vulnerable Password notification
 

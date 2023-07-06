@@ -16,7 +16,6 @@ styleeditor-save-button = সংৰক্ষণ কৰক
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = শৈলী সম্পাদক বিকল্পসমূহ
-styleeditor-media-rules = @media নিয়মসমূহ
 styleeditor-editor-textbox =
     .data-placeholder = ইয়াত CSS টাইপ কৰক।
 styleeditor-no-stylesheet = এই পৃষ্ঠাৰ কোনো শৈলী পৰ্দা নাই।
@@ -30,6 +29,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = শাৰীলৈ যাওক…
     .accesskey = J
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

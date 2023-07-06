@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = নতুন টেব
+
 tabbrowser-menuitem-close-tab =
     .label = টেব বন্ধ কৰক
 tabbrowser-menuitem-close =
     .label = বন্ধ কৰক
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -74,4 +76,6 @@ tabbrowser-context-unmute-selected-tabs =
     .accesskey = m
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

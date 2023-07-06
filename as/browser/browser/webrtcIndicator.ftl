@@ -30,6 +30,7 @@ webrtc-item-window = উইণ্ড'
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = অজ্ঞাত উৎস
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = টেবসমূহ অংশীদাৰী কৰা ডিভাইচসমূহ
     .accesskey = d
+
 webrtc-sharing-window = আপুনি আন এটা এপ্লিকেশ্যন উইণ্ড' সহভাগ কৰি আছে।
 webrtc-sharing-browser-window = আপুনি { -brand-short-name } সহভাগ কৰি আছে।
 webrtc-sharing-screen = আপুনি আপোনাৰ গোটেই স্ক্ৰীণ সহভাগ কৰি আছে।
@@ -77,6 +79,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = নিয়ন্ত্ৰণ অংশীদাৰী
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" ত নিয়ন্ত্ৰণৰ অংশীদাৰী
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = কেমেৰাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -85,6 +88,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] কেমেৰাক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] কেমেৰাক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = মাইক্ৰফোনক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -93,6 +97,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] মাইক্ৰফোনক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] মাইক্ৰফোনক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }" ৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -101,6 +106,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } টেবৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
            *[other] { $tabCount } টেবসমূহৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = পৰ্দাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -109,6 +115,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] পৰ্দাক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] পৰ্দাক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }" ৰ সৈতে এটা উইণ্ড' অংশীদাৰী কৰা
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -117,6 +124,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] এটা উইণ্ড'ক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] উইণ্ড'সমূহক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = কেমেৰাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -162,3 +170,4 @@ webrtc-action-always-block =
 ##
 
 webrtc-mute-notifications-checkbox = ভাগ-বতৰা কৰাৰ সময়ত ৱেবছাইটৰ জাননীবোৰ নিমাত কৰিব
+

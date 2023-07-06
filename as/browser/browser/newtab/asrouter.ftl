@@ -84,12 +84,6 @@ cfr-doorhanger-milestone-ok-button = সকলো চাওক
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-header = ছাইট পৃথকীকৰণ
-cfr-doorhanger-fission-primary-button = বাৰু, বুজিছোঁ
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = অধিক জানক
-    .accesskey = ন
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-header = ভিডিঅ' চলাবলৈ { -brand-short-name } আপডেট কৰক
@@ -128,4 +122,16 @@ spotlight-public-wifi-vpn-link = এতিয়া নহয়
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

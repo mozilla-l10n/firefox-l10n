@@ -204,19 +204,10 @@ newtab-discovery-empty-section-topstories-timed-out = উস্! আমি এ�
 newtab-pocket-learn-more = অধিক জানক
 newtab-pocket-cta-button = { -pocket-brand-name } পাওক
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = { -pocket-brand-name }-ত সাঁচি থওক
-newtab-pocket-saved-to-pocket = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
-
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = অধিক কাহিনী ল'ড কৰক
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = আপুনি সকলো চালে!
-newtab-pocket-last-card-image =
-    .alt = আপুনি সকলো চালে
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -90,6 +90,8 @@ media-device-channels = চেনেল
 media-device-rate = হাৰ
 media-device-latency = বিলম্বতা
 
+## Codec support table
+
 ##
 
 intl-app-title = এপ্লিকেশ্যন ছেটিংছ

@@ -22,13 +22,16 @@ download-ui-dont-quit-button =
         [mac] প্ৰস্থান নকৰিব
        *[other] প্ৰস্থান নকৰিব
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] আপুনি এতিয়া অফলাইন হ'লে, ১ টা ডাউনল'ড বাতিল হ'ব। আপুনি অফলাইন হ'বলৈ নিশ্চিত নে?
        *[other] আপুনি এতিয়া অফলাইন হ'লে, { $downloadsCount } ডাউনল'ড বাতিল হ'ব। আপুনি অফলাইন হ'বলৈ নিশ্চিত নে?
     }
 download-ui-dont-go-offline-button = অনলাইন থাকক
+
 download-ui-dont-leave-private-browsing-button = ব্যক্তিগত ব্ৰাউজিঙত থাকক
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] ১ টা ডাউনল'ড বাতিল কৰক
