@@ -124,6 +124,8 @@ media-device-format = ආකෘතිය
 media-device-channels = නාලිකා
 media-device-latency = ගුප්තතාව
 
+## Codec support table
+
 ##
 
 intl-app-title = යෙදුමේ සැකසුම්

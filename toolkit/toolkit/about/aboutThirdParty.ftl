@@ -24,3 +24,4 @@ third-party-button-expand =
     .title = සවිස්තරාත්මක තොරතුරු පෙන්වන්න
 third-party-button-collapse =
     .title = සවිස්තරාත්මක තොරතුරු හකුළන්න
+

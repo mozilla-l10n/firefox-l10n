@@ -30,6 +30,7 @@ webrtc-item-browser = පටිත්ත
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = නොදන්නා මූලයකි
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = පටිති බෙදාගන්නා උපාංග
     .accesskey = d
+
 webrtc-sharing-window = ඔබ වෙනත් යෙදුමක කවුළුවක් බෙදා ගනිමින්.
 webrtc-sharing-browser-window = ඔබ { -brand-short-name } බෙදා ගනිමින් සිටියි.
 webrtc-sharing-screen = ඔබගේ සමස්ත තිරයම බෙදා ගනිමින් සිටියි.
@@ -148,4 +150,5 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = තීරණය මතක තබාගන්න
 webrtc-mute-notifications-checkbox = බෙදාගැනීමේදී අඩවිවල දැනුම්දීම් නිහඬ කරන්න
+
 webrtc-reason-for-no-permanent-allow-insecure = මෙම අඩවිය වෙත ඔබගේ සම්බන්ධතාවය අනාරක්‍ෂිතයි. ඔබව රක්‍ෂා කිරීමට, { -brand-short-name } මෙම වාරය සඳහා පමණක් ප්‍රවේශයට ඉඩ දෙයි.

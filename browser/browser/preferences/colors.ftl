@@ -2,18 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-colors-window =
-    .title = වර්ණ
-    .style =
-        { PLATFORM() ->
-            [macos] width: 41em
-           *[other] width: 38em
-        }
-
-colors-dialog =
-    .title = වර්ණ
-    .style = width: 41em;
-
 colors-dialog2 =
     .title = වර්ණ
     .style = min-width: 41em;

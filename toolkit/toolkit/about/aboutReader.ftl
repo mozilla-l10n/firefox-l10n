@@ -4,6 +4,7 @@
 
 about-reader-loading = පූරණය වෙමින්…
 about-reader-load-error = පිටුවෙන් ලිපිය පූරණය කිරීමට අසමත් විය
+
 about-reader-color-scheme-light = දීප්ත
     .title = දීප්තිමත් වර්ණ රටාව
 about-reader-color-scheme-dark = අඳුරු
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = මද දුඹුරු
     .title = මද රතු දුඹුරු
 about-reader-color-scheme-auto = ස්වයං
     .title = ස්වයං වර්ණ රටාව
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

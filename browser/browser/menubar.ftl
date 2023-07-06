@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } වෙතින් ඉවත් වන්න
+
 menu-about =
     .label = { -brand-shorter-name } පිළිබඳව
     .accesskey = A
@@ -216,8 +218,6 @@ menu-history-undo-menu =
     .label = මෑත දී වසා දැමූ පටිති
 menu-history-undo-window-menu =
     .label = මෑත දී වසා දැමූ කවුළු
-menu-history-reopen-all-tabs = සියළු පටිති යළි අරින්න
-menu-history-reopen-all-windows = සියළු කවුළු යළි අරින්න
 
 ## Bookmarks Menu
 
@@ -226,10 +226,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = පොත්යොමු කළමනාකරණය
-menu-bookmark-current-tab =
-    .label = වත්මන් පටිත්තට පොත්යොමුවක්
-menu-bookmark-edit =
-    .label = පොත්යොමුව සංස්කරණය
 menu-bookmark-tab =
     .label = වත්මන් පටිත්තට පොත්යොමුවක්…
 menu-edit-bookmark =

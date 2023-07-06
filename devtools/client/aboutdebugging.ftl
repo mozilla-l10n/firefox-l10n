@@ -332,10 +332,6 @@ about-debugging-worker-push-service =
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = පටිත්ත පූරණය වී අවසන් නැති නිසා සෝදිසි කළ නොහැකිය
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = ප්‍රධාන සැකසීම
-
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = පණිවිඩය වසන්න

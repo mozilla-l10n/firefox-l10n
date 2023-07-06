@@ -11,10 +11,6 @@
 
 ##
 
-firefox-relay-opt-in-subtitle = { -relay-brand-name } එක් කරන්න
-firefox-relay-opt-in-confirmation-enable =
-    .label = ඉදිරියට
-    .accesskey = C
 firefox-relay-opt-in-confirmation-disable =
     .label = මෙය නැවත නොපෙන්වන්න
     .accesskey = D

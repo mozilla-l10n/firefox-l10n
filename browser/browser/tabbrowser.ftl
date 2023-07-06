@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = නව පටිත්ත
 tabbrowser-empty-private-tab-title = නව පෞද්. පටිත්ත
+
 tabbrowser-menuitem-close-tab =
     .label = පටිත්ත වසන්න
 tabbrowser-menuitem-close =
     .label = වසන්න
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =

@@ -26,10 +26,6 @@ pippki-pw-not-wanted = අවවාදයයි! මුරපදයක් භා
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = ප්‍රාථමික මුරපදය යළි සකසන්න
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = ප්‍රාථමික මුරපදය යළි සකසන්න
     .style = min-width: 40em
@@ -41,10 +37,6 @@ pippki-reset-password-confirmation-title = ප්‍රාථමික මුර
 pippki-reset-password-confirmation-message = ඔබගේ ප්‍රාථමික මුරපදය යළි සකසා ඇත.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = සහතිකය බාගැනෙමින්
-    .style = width: 46em
 
 download-cert-window2 =
     .title = සහතිකය බාගැනෙමින්
@@ -77,4 +69,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = වැදගත්: ඔබගේ සහතිකයේ උපස්ථ මුරපදය අමතක වුවහොත්, මෙම උපස්ථය පසුව ප්‍රත්‍යර්පණය කිරීමට නොහැකි වනු ඇත. එය ආරක්‍ෂිත ස්ථානයක සටහන් කරන්න.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

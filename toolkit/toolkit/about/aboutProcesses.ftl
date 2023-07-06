@@ -60,7 +60,6 @@ about-processes-tab-name = පටිත්ත: { $name }
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = නොදන්නා දෝෂයකි
-about-processes-utility-actor-audio-decoder = ශ්‍රව්‍ය විකේතනය
 
 about-processes-utility-actor-audio-decoder-applemedia = ඇපල් මාධ්‍ය හඬ විකේතකය
 
